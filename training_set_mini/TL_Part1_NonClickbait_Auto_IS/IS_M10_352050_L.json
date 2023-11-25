@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352050",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "中 규제 영향? 6개로 쪼개지는 '틱톡'의 바이트댄스[IT썰]",
+		"newsSubTitle": "null",
+		"newsContent": "세계적인 숏폼 동영상 플랫폼인 틱톡의 모회사 바이트댄스가 6개의 사업부로 쪼개진다. 3일 시나닷컴과 로이터통신 등 외신에 따르면 바이트댄스는 구조조정에 들어가 회사 사업을 6개 사업부로 분할한다. 6개 사업부는 중국판 틱톡인 도우인과 누버스(게임), 라크(페이슈-협업툴), 바이트플러스(사업부), 달리 교육(교육 테크), 틱톡이다.\n이는 바이트댄스 역사상 최대 규모의 개편으로 알려졌다.\n바이트댄스는 지난 5월 창업자 겸 최고경영자(CEO) 장이밍이 설립 9년 만에 자리에서 물러나는 등 급변의 시기를 겪고 있다.\n최근 바이트댄스 모바일 게임 스튜디오 오하유(Ohayoo)가 직원 수십명을 해고하기도 했다.\n이는 최근 중국 당국의 빅테크와 게임산업 규제가 심해진 영향으로 해석된다.\n바이트댄스는 기업공개(IPO)를 추진 중이지만 데이터 규제 분위기에 상장 승인이 어려운 것으로 알려졌다.\n중국 당국은 데이터 유출 위험이 있는 중국 기업의 해외 상장에대한 위험성을 강조하고 나선 상황이다.\n지난 6월 미국 뉴욕증권거래소에 상장한 차량 공유업체 디디추싱은 안보 문제로 당국의 조사를 받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세계적인 숏폼 동영상 플랫폼인 틱톡의 모회사 바이트댄스가 6개의 사업부로 쪼개진다. 3일 시나닷컴과 로이터통신 등 외신에 따르면 바이트댄스는 구조조정에 들어가 회사 사업을 6개 사업부로 분할한다. 6개 사업부는 중국판 틱톡인 도우인과 누버스(게임), 라크(페이슈-협업툴), 바이트플러스(사업부), 달리 교육(교육 테크), 틱톡이다.",
+				"sentenceSize": 185
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 바이트댄스 역사상 최대 규모의 개편으로 알려졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "바이트댄스는 지난 5월 창업자 겸 최고경영자(CEO) 장이밍이 설립 9년 만에 자리에서 물러나는 등 급변의 시기를 겪고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 바이트댄스 모바일 게임 스튜디오 오하유(Ohayoo)가 직원 수십명을 해고하기도 했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 최근 중국 당국의 빅테크와 게임산업 규제가 심해진 영향으로 해석된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "바이트댄스는 기업공개(IPO)를 추진 중이지만 데이터 규제 분위기에 상장 승인이 어려운 것으로 알려졌다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중국 당국은 데이터 유출 위험이 있는 중국 기업의 해외 상장에대한 위험성을 강조하고 나선 상황이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난 6월 미국 뉴욕증권거래소에 상장한 차량 공유업체 디디추싱은 안보 문제로 당국의 조사를 받고 있다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "中 규제 영향? 6개로 쪼개지는 '틱톡'의 바이트댄스[IT썰]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

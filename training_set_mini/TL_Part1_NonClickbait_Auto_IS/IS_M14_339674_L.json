@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339674",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "美에너지부, 전기차용 배터리 공급망 구축에 29.1억달러 지원",
+		"newsSubTitle": "",
+		"newsContent": "미국 에너지부(DOE)는 전기차를 포함해 국가 배터리 공급망을 개발하기 위해 29억1000만 달러의 자금을 지원한다고 14(현지 시각) 밝혔다.\nDOE에 따르면 배터리 소재, 배터리 셀·팩, 배터리 재활용(Recycle)과 재사용(Reuse) 등을 위한 생산 시설에 지원한다.\n여기에 배터리 수명 연구개발(R&D) 등에도 사업비를 지원할 방침이다.\nDOE은 이번 지원 프로그램을 다음 달부터 가동할 방침이다.\n조 바이든 미국 정부는 이번 지원책은 약 26억 유로에 해당하는 자금으로 미국이 배터리와 배터리에 포함된 재료를 생산해 경제 경쟁력, 에너지 자립과 국가 안보를 높이기 위해 마련했다고 설명했다.\n앞서 미국 정부는 전기차 충전인프라 구축을 위해 5년에 걸쳐 거의 50억 달러를 제공한다고 발표한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 에너지부(DOE)는 전기차를 포함해 국가 배터리 공급망을 개발하기 위해 29억1000만 달러의 자금을 지원한다고 14(현지 시각) 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "DOE에 따르면 배터리 소재, 배터리 셀·팩, 배터리 재활용(Recycle)과 재사용(Reuse) 등을 위한 생산 시설에 지원한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "여기에 배터리 수명 연구개발(R&D) 등에도 사업비를 지원할 방침이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "DOE은 이번 지원 프로그램을 다음 달부터 가동할 방침이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조 바이든 미국 정부는 이번 지원책은 약 26억 유로에 해당하는 자금으로 미국이 배터리와 배터리에 포함된 재료를 생산해 경제 경쟁력, 에너지 자립과 국가 안보를 높이기 위해 마련했다고 설명했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 미국 정부는 전기차 충전인프라 구축을 위해 5년에 걸쳐 거의 50억 달러를 제공한다고 발표한 바 있다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美에너지부, 전기차용 배터리 공급망 구축에 29.1억달러 지원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

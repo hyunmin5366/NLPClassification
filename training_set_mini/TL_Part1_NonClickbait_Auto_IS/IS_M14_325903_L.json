@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325903",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "지란지교시큐리티 '스팸스나이퍼', 사기메일 방지 기능 강화",
+		"newsSubTitle": "",
+		"newsContent": "지란지교시큐리티(대표 윤두식)가 자사 솔루션 스캠(SCAM)메일 방지 기능을 강화했다.\n지란지교시큐리티는 이메일 통합 보안 솔루션 '스팸스나이퍼'에 스캠메일 방지 기능을 강화했다고 27일 밝혔다.\n스캠은 사기성 메일로 기업이 거래처와 주고받은 이메일 정보를 탈취, 거래처로 위장해 제3계좌로 무역 거래 대금을 가로채는 범죄수법이다.\n최근 사용자 업무 관련 정보, 메일 사용 패턴을 이용한 사회공학적 이메일 해킹 기법으로 지능∙조직화됐다.\n지란지교시큐리티 스팸스나이퍼 업그레이드 버전은 스캠 공격 유입 통로인 이메일에서 스캠메일을 차단한다.\n기존 콘텐츠 기반 스팸메일∙악성코드 차단뿐만 아니라 강화된 수신자 인증 방식을 제공한다.\n사용자에게 처음 발송된 메일계정이나 유사계정 등 확인되지 않은 발신자 메일이 유입될 시, 여러 로직으로 사용자에게 발신자 정보 확인을 알리는 경고(alert) 메시지를 보낸다. 1차 시스템을 통한 이상징후 탐지와 함께 메일 수신자의 2차 인증을 통해 메일 안정성을 확보한다.\n수신자 인증 설정은 도메인∙사용자∙기업별 정책에 따라 단계별 적용이 가능하다.\n발신자 인증도 강화했다.\n수신된 메일 발신자 헤더 변조 여부를 파악해 변조 시 차단하며 DKIM 인증 기술로 발신인 진위여부를 파악한다.\n불명확한 발신지∙발신자 접근을 차단한다.\n사용자 단에서 발생하는 스캠을 포함한 악성 메일로 인한 피해를 최소화한다.\n발∙수신자 평판 조회∙분석, 첨부파일 확장자 및 위변조 탐지∙차단, 통합 모니터링을 위한 주∙월간 리포트 등 기능도 강화했다.\n서양환 지란지교시큐리티 메일보안사업부장은 \\\"스팸스나이퍼는 스캠을 비롯한 메일 공격위협에 적극 대응하도록 이메일 악성코드 무해화∙인증 고도화를 추진했다\\\"며 \\\"안전한 메일 환경 조성에 기여하는 새로운 패러다임을 제시할 것'이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지란지교시큐리티(대표 윤두식)가 자사 솔루션 스캠(SCAM)메일 방지 기능을 강화했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지란지교시큐리티는 이메일 통합 보안 솔루션 '스팸스나이퍼'에 스캠메일 방지 기능을 강화했다고 27일 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스캠은 사기성 메일로 기업이 거래처와 주고받은 이메일 정보를 탈취, 거래처로 위장해 제3계좌로 무역 거래 대금을 가로채는 범죄수법이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 사용자 업무 관련 정보, 메일 사용 패턴을 이용한 사회공학적 이메일 해킹 기법으로 지능∙조직화됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지란지교시큐리티 스팸스나이퍼 업그레이드 버전은 스캠 공격 유입 통로인 이메일에서 스캠메일을 차단한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기존 콘텐츠 기반 스팸메일∙악성코드 차단뿐만 아니라 강화된 수신자 인증 방식을 제공한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사용자에게 처음 발송된 메일계정이나 유사계정 등 확인되지 않은 발신자 메일이 유입될 시, 여러 로직으로 사용자에게 발신자 정보 확인을 알리는 경고(alert) 메시지를 보낸다. 1차 시스템을 통한 이상징후 탐지와 함께 메일 수신자의 2차 인증을 통해 메일 안정성을 확보한다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "수신자 인증 설정은 도메인∙사용자∙기업별 정책에 따라 단계별 적용이 가능하다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "발신자 인증도 강화했다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "수신된 메일 발신자 헤더 변조 여부를 파악해 변조 시 차단하며 DKIM 인증 기술로 발신인 진위여부를 파악한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "불명확한 발신지∙발신자 접근을 차단한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "사용자 단에서 발생하는 스캠을 포함한 악성 메일로 인한 피해를 최소화한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "발∙수신자 평판 조회∙분석, 첨부파일 확장자 및 위변조 탐지∙차단, 통합 모니터링을 위한 주∙월간 리포트 등 기능도 강화했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "서양환 지란지교시큐리티 메일보안사업부장은 \\\"스팸스나이퍼는 스캠을 비롯한 메일 공격위협에 적극 대응하도록 이메일 악성코드 무해화∙인증 고도화를 추진했다\\\"며 \\\"안전한 메일 환경 조성에 기여하는 새로운 패러다임을 제시할 것'이라고 말했다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지란지교시큐리티 '스팸스나이퍼', 사기메일 방지 기능 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

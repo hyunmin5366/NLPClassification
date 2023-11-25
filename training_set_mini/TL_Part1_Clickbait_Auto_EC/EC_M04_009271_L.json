@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009271",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "건설업 체감경기 최악이다",
+		"newsSubTitle": "13개월만에 최저… 10월 CBSI 65.4 전월비 8.49p 하락",
+		"newsContent": "건설업체들이 느끼는 체감경기가 13개월만에 최저치로 떨어졌다.\n글로벌 경제 불안과 함께 공공부문 발주 물량이 급감했기 때문이다.\n3일 한국건설산업연구원에 따르면 10월 건설기업 경기실사지수(CBSI)는 전월대비 8.49포인트 하락한 65.4를 기록했다.\nCBSI는 건설업체들의 체감경기를 나타내는 지표로, 기준치가 100을 넘으면 호황, 100미만이면 불황을 의미한다.\nCBSI는 계절적 요인으로 지난 7월 3.0포인트와 8월 2.2포인트 떨어졌다가 9월 들어 소폭 상승했다.\n그러나 10월 들어 큰 폭의 하락세를 보이며 2010년 9월(62.6) 이후 13개월만에 가장 낮은 수준을 나타냈다.\n업체 규모별로도 대형은 물론 중소업체까지 모두 하락해 전반적인 건설경기 악화를 드러냈다.\n10월 대형업체 지수는 15.4포인트 하락한 84.6, 중견업체는 5.1포인트 하락한 68.0, 중소업체는 3.9포인트 떨어진 40.0을 기록했다.\n건설산업연구원 한 연구위원은 “10월에는 계절적 요인으로 CBSI가 상승하는 것이 일반적이지만 공공공사 발주가 계속 부진한 가운데 선진국 재정위기로 촉발된 불확실성이 주택을 비롯한 민간 건설경기에 부정적 영향을 미친데 따른 것”이라고 분석했다.\n한편, 체감경기 전망을 나타내는 11월 CBSI 전망치는 10월 실적치 대비 3.6포인트 상승한 69.0으로 조사됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "건설업체들이 느끼는 체감경기가 13개월만에 최저치로 떨어졌다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "글로벌 경제 불안과 함께 공공부문 발주 물량이 급감했기 때문이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "3일 한국건설산업연구원에 따르면 10월 건설기업 경기실사지수(CBSI)는 전월대비 8.49포인트 하락한 65.4를 기록했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "CBSI는 건설업체들의 체감경기를 나타내는 지표로, 기준치가 100을 넘으면 호황, 100미만이면 불황을 의미한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CBSI는 계절적 요인으로 지난 7월 3.0포인트와 8월 2.2포인트 떨어졌다가 9월 들어 소폭 상승했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 10월 들어 큰 폭의 하락세를 보이며 2010년 9월(62.6) 이후 13개월만에 가장 낮은 수준을 나타냈다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "업체 규모별로도 대형은 물론 중소업체까지 모두 하락해 전반적인 건설경기 악화를 드러냈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "10월 대형업체 지수는 15.4포인트 하락한 84.6, 중견업체는 5.1포인트 하락한 68.0, 중소업체는 3.9포인트 떨어진 40.0을 기록했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "건설산업연구원 한 연구위원은 “10월에는 계절적 요인으로 CBSI가 상승하는 것이 일반적이지만 공공공사 발주가 계속 부진한 가운데 선진국 재정위기로 촉발된 불확실성이 주택을 비롯한 민간 건설경기에 부정적 영향을 미친데 따른 것”이라고 분석했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편, 체감경기 전망을 나타내는 11월 CBSI 전망치는 10월 실적치 대비 3.6포인트 상승한 69.0으로 조사됐다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카카오의 '금융 듀오', 업계 지각변동 예고",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

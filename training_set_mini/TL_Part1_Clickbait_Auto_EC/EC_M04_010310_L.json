@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010310",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "[알기 쉬운 경제 상식]22.예금과 대출",
+		"newsSubTitle": "은행 자금조달의 기본은 '예금' 수요자에 자금공급하는 '대출'",
+		"newsContent": "예금이란 일반대중 또는 기업, 공공기관 등 불특정 다수로부터 은행이 보관, 예탁을 받아 운용할 수 있는 자금으로서 은행의 자금조달에 있어 가장 중요한 위치를 차지하고 있다.\n예금은 계약의 내용에 따라 지급편의 또는 일시보관을 목적으로 하는 요구불예금과 저축 또는 이자수입을 주목적으로 하는 저축성예금으로 분류된다.\n요구불예금은 예금주의 요구가 있으면 언제라도 지급에 응해야 하는 것으로 보통예금ㆍ당좌예금ㆍ어린이예금ㆍ가계종합예금 등이 있으며, 저축성예금은 일정기간이 경과한 후에 지급되는 것으로 정기예금ㆍ저축예금ㆍ정기적금ㆍ목돈마련저축 등이 있다.\n대출은 금융기관이 자금을 필요로 하는 수요자에게 자금을 공급해주는 것을 말한다.\n일반은행은 단기 운전자금과 장기 시설자금으로 구분되는 기업자금 대출, 가계자금 대출, 공공 및 기타자금 대출 등의 대출업무를 취급한다.\n일반은행의 대출은 취급방식에 따라 어음할인, 어음대출, 증서대출 및 당좌대출 등으로 구분할 수 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "예금이란 일반대중 또는 기업, 공공기관 등 불특정 다수로부터 은행이 보관, 예탁을 받아 운용할 수 있는 자금으로서 은행의 자금조달에 있어 가장 중요한 위치를 차지하고 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "예금은 계약의 내용에 따라 지급편의 또는 일시보관을 목적으로 하는 요구불예금과 저축 또는 이자수입을 주목적으로 하는 저축성예금으로 분류된다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "요구불예금은 예금주의 요구가 있으면 언제라도 지급에 응해야 하는 것으로 보통예금ㆍ당좌예금ㆍ어린이예금ㆍ가계종합예금 등이 있으며, 저축성예금은 일정기간이 경과한 후에 지급되는 것으로 정기예금ㆍ저축예금ㆍ정기적금ㆍ목돈마련저축 등이 있다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대출은 금융기관이 자금을 필요로 하는 수요자에게 자금을 공급해주는 것을 말한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일반은행은 단기 운전자금과 장기 시설자금으로 구분되는 기업자금 대출, 가계자금 대출, 공공 및 기타자금 대출 등의 대출업무를 취급한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일반은행의 대출은 취급방식에 따라 어음할인, 어음대출, 증서대출 및 당좌대출 등으로 구분할 수 있다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "잘 골라쓰는 당신 “받으세요 풍성한 혜택”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

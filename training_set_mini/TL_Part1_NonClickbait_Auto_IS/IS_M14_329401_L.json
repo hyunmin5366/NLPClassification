@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329401",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "에너지",
+		"newsTitle": "트럼프, 석유 시추 규제 완화 행정서명 임박",
+		"newsSubTitle": "",
+		"newsContent": "도널드 트럼프 미국 대통령이 이번주 환경∙에너지, 무역 관련 새 행정명령에 서명할 계획이라고 23일(현지시간) 로이터가 보도했다.\n트럼프가 서명할 행정명령은 송유관 건설 추진 등이 담긴 것으로 알려졌다.\n로이터는 트럼프 정부가 오는 26일 1906년 발표한 '문화재관리법(1906 Antiquities Act)'을 개정하고 28일 '미국 최우선(America First)'라는 이름의 에너지 정책에 서명할 것으로 전망했다.\n환경∙문화 자원 훼손에 가로막힌 원유 시추나 광산 채굴 규제를 완화하는 것이 골자다.\n트럼프 대통령은 당선 전부터 온실가스를 비롯한 환경 문제를 음모론으로 치부했다.\n석유, 가스 등 화석연료 생산량을 늘려 수출까지 나선다고 공언했다.\n앞선 1월 취임과 동시에 환경보호를 이유로 막혔던 미국 내 2개 송유관 건설 사업을 추진할 수 있도록 한 행정명령에 서명했다.\n지난달엔 '청정전력 계획(Clean Power Plan)' 재검토 명령에 서명했다.\n오바마 정부는 '문화재관리법'을 엄격히 적용했다.\n유타∙네바다 주 160만에이커(약 6500㎢)를 새로이 문화보호지역으로 지정했다.\n대서양과 북극해 일부의 원유 시추를 금지했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "도널드 트럼프 미국 대통령이 이번주 환경∙에너지, 무역 관련 새 행정명령에 서명할 계획이라고 23일(현지시간) 로이터가 보도했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "트럼프가 서명할 행정명령은 송유관 건설 추진 등이 담긴 것으로 알려졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "로이터는 트럼프 정부가 오는 26일 1906년 발표한 '문화재관리법(1906 Antiquities Act)'을 개정하고 28일 '미국 최우선(America First)'라는 이름의 에너지 정책에 서명할 것으로 전망했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "환경∙문화 자원 훼손에 가로막힌 원유 시추나 광산 채굴 규제를 완화하는 것이 골자다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "트럼프 대통령은 당선 전부터 온실가스를 비롯한 환경 문제를 음모론으로 치부했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "석유, 가스 등 화석연료 생산량을 늘려 수출까지 나선다고 공언했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞선 1월 취임과 동시에 환경보호를 이유로 막혔던 미국 내 2개 송유관 건설 사업을 추진할 수 있도록 한 행정명령에 서명했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난달엔 '청정전력 계획(Clean Power Plan)' 재검토 명령에 서명했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "오바마 정부는 '문화재관리법'을 엄격히 적용했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "유타∙네바다 주 160만에이커(약 6500㎢)를 새로이 문화보호지역으로 지정했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "대서양과 북극해 일부의 원유 시추를 금지했다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트럼프, 석유 시추 규제 완화 행정서명 임박",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326436",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "애플, 폭스바겐과 자율주행차 공동 개발 추진",
+		"newsSubTitle": "",
+		"newsContent": "애플이 독일 폭스바겐과 손잡고 직원용 자율주행 셔틀 개발에 나섰다.\n뉴욕타임스는 23일(현지시간) 애플이 폴크스바겐의 승합차 모델 'T6 트랜스포터'를 애플 직원들을 위한 자율주행 셔틀로 만드는 프로젝트 협약을 맺었다고 이 프로젝트를 잘 아는 관계자 3명의 말을 인용해 보도했다.\n애플은 자율주행차 직접 제조가 현실적으로 어렵게 되자 자율주행차 소프트웨어에 집중했다가 다시 자사 직원용 셔틀에만 집중하는 것으로 방향을 틀었다.\n이를 위해 수년간 BMW·메르세데스 벤츠 등 고급차 업체와 파트너십을 추진했지만, 디자인과 자율주행 데이터 통제권을 넘기라는 애플의 요구가 이들 업체로부터 거절당하면서 불발됐다고 이 과정을 잘 아는 관계자들은 전했다.\n이후 애플은 일본 닛산, 중국 BYD, 영국 스포츠카 매클라렌까지 접촉했다가 지난해말 폭스바겐과 협상을 시작한 것으로 전해졌다.\nNYT는 애플이 여러 자동차 업체로부터 퇴짜를 맞은 것이 애플의 자율주행 프로젝트가 계속되는 난항 끝에 축소됐음을 보여주는 일이라고 설명했다.\n앞서 애플은 2014년 자율주행차 개발을 위한 프로젝트 '타이탄(T172)'에 돌입하면서 업계를 흔들 만한 자율주행차 독자 개발을 시도했다가 기존 자동차 업체와 연계한 자율주행 소프트웨어 개발로 전환했다.\n애플은 지난해 6월에야 '타이탄'프로젝트를 공식적으로 인정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 독일 폭스바겐과 손잡고 직원용 자율주행 셔틀 개발에 나섰다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "뉴욕타임스는 23일(현지시간) 애플이 폴크스바겐의 승합차 모델 'T6 트랜스포터'를 애플 직원들을 위한 자율주행 셔틀로 만드는 프로젝트 협약을 맺었다고 이 프로젝트를 잘 아는 관계자 3명의 말을 인용해 보도했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "애플은 자율주행차 직접 제조가 현실적으로 어렵게 되자 자율주행차 소프트웨어에 집중했다가 다시 자사 직원용 셔틀에만 집중하는 것으로 방향을 틀었다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 위해 수년간 BMW·메르세데스 벤츠 등 고급차 업체와 파트너십을 추진했지만, 디자인과 자율주행 데이터 통제권을 넘기라는 애플의 요구가 이들 업체로부터 거절당하면서 불발됐다고 이 과정을 잘 아는 관계자들은 전했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 애플은 일본 닛산, 중국 BYD, 영국 스포츠카 매클라렌까지 접촉했다가 지난해말 폭스바겐과 협상을 시작한 것으로 전해졌다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "NYT는 애플이 여러 자동차 업체로부터 퇴짜를 맞은 것이 애플의 자율주행 프로젝트가 계속되는 난항 끝에 축소됐음을 보여주는 일이라고 설명했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 애플은 2014년 자율주행차 개발을 위한 프로젝트 '타이탄(T172)'에 돌입하면서 업계를 흔들 만한 자율주행차 독자 개발을 시도했다가 기존 자동차 업체와 연계한 자율주행 소프트웨어 개발로 전환했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "애플은 지난해 6월에야 '타이탄'프로젝트를 공식적으로 인정했다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플, 폭스바겐과 자율주행차 공동 개발 추진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

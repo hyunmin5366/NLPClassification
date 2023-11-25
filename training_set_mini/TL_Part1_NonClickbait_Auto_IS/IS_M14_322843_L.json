@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322843",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "케이씨에스, 암호칩 기술 앞세워 북미·유럽 영상보안장비 시장 첫 노크",
+		"newsSubTitle": "",
+		"newsContent": "케이씨에스가 '영국런던보안기기전시회(IFSEC 2019)'에 첫 참가해 북미·유럽 영상 보안 장비 시장 문을 두드린다.\n케이씨에스(대표 이호성)는 18~20일 사흘간 엑셀 런던에서 열리는 'IFSEC 2019'에 참가, 신제품 3종을 선보인다고 9일 밝혔다.\n국내 보안 전시회는 참가한 적 있지만 해외 전시회 참가는 이번이 처음이다.\n케이씨에스가 지난해 독자 개발한 암호칩 KEV7(6×6㎜), KEV7을 탑재한 2M급 IP카메라와 보안미디어컨버터(KMC-100A)를 각각 전시, 풀 HD영상을 실시간 암호화하는 제품 성능을 소개하기 위해서다. 'KEV7'는 FBGA 121 패키징 형태 암호칩이다.\n회사는 암호 칩에 키생성기술(TRNG)·물리적복제방지(PUF) 등 고성능 보안기술을 적용했다.\nAES·ECC·ARIA 등 다양한 암호화 알고리즘을 지원하고 암호칩을 내장한 HW 개발 키트와 SW 개발 키트를 모두 지원한다.\n암호칩을 내장한 2M IP카메라는 이미지 손실 없이 영상을 완벽하게 실시간으로 암호화해 DVR에 저장하는 기술이다.\n케이씨에스가 세계 최초로 개발한 영상 보안 솔루션으로 주목받고 있는 제품이다.\n케이씨에스는 또 미디어컨버터(10/100Base Crypto Media Converter)에도 암호칩 KEV7을 내장해 이더넷통신 데이터를 암호화해 광통신으로 전송하는 장치를 개발했다.\n회사는 2017년 말 엑스빔테크와 중소벤처기업부의 '확장 빔 기반의 고신뢰성 이더넷 미디어 컨버터 개발 과제'를 공동 수주한 바 있다.\n케이씨에스 관계자는 “유럽연합(EU) 개인정보보호법(GDPR)이 지난해 발효됨에 따라 북미·유럽지역에서 보안 IP카메라 수요가 더욱 확대될 것으로 예상된다”면서 “보안 IP카메라 등 제품을 해외 바이어에게 소개한다”고 말했다.\n회사 관계자는 “IP카메라 시장은 연간 성장율이 20%를 넘지만 빈번한 IP카메라 해킹사고로 인해 사생활 유출 불안감이 세계적으로 상존하고 있다”면서 “KEV7를 내장한 IP카메라가 영상유출을 방지하는 솔루션으로 주목받을 것”으로 기대했다.\n케이씨에스는 올 연말 인증 획득을 목표로 KEV7의 암호모듈검증(KCMVP) 인증을 시험기관에서 하고 있다.\n한전 AMI 미터기·모뎀 전기차충전기에 KEV7암호칩을 이용한 제품 상용화도 테스트 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "케이씨에스가 '영국런던보안기기전시회(IFSEC 2019)'에 첫 참가해 북미·유럽 영상 보안 장비 시장 문을 두드린다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "케이씨에스(대표 이호성)는 18~20일 사흘간 엑셀 런던에서 열리는 'IFSEC 2019'에 참가, 신제품 3종을 선보인다고 9일 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내 보안 전시회는 참가한 적 있지만 해외 전시회 참가는 이번이 처음이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "케이씨에스가 지난해 독자 개발한 암호칩 KEV7(6×6㎜), KEV7을 탑재한 2M급 IP카메라와 보안미디어컨버터(KMC-100A)를 각각 전시, 풀 HD영상을 실시간 암호화하는 제품 성능을 소개하기 위해서다. 'KEV7'는 FBGA 121 패키징 형태 암호칩이다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "회사는 암호 칩에 키생성기술(TRNG)·물리적복제방지(PUF) 등 고성능 보안기술을 적용했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "AES·ECC·ARIA 등 다양한 암호화 알고리즘을 지원하고 암호칩을 내장한 HW 개발 키트와 SW 개발 키트를 모두 지원한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "암호칩을 내장한 2M IP카메라는 이미지 손실 없이 영상을 완벽하게 실시간으로 암호화해 DVR에 저장하는 기술이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "케이씨에스가 세계 최초로 개발한 영상 보안 솔루션으로 주목받고 있는 제품이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "케이씨에스는 또 미디어컨버터(10/100Base Crypto Media Converter)에도 암호칩 KEV7을 내장해 이더넷통신 데이터를 암호화해 광통신으로 전송하는 장치를 개발했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "회사는 2017년 말 엑스빔테크와 중소벤처기업부의 '확장 빔 기반의 고신뢰성 이더넷 미디어 컨버터 개발 과제'를 공동 수주한 바 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "케이씨에스 관계자는 “유럽연합(EU) 개인정보보호법(GDPR)이 지난해 발효됨에 따라 북미·유럽지역에서 보안 IP카메라 수요가 더욱 확대될 것으로 예상된다”면서 “보안 IP카메라 등 제품을 해외 바이어에게 소개한다”고 말했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "회사 관계자는 “IP카메라 시장은 연간 성장율이 20%를 넘지만 빈번한 IP카메라 해킹사고로 인해 사생활 유출 불안감이 세계적으로 상존하고 있다”면서 “KEV7를 내장한 IP카메라가 영상유출을 방지하는 솔루션으로 주목받을 것”으로 기대했다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "케이씨에스는 올 연말 인증 획득을 목표로 KEV7의 암호모듈검증(KCMVP) 인증을 시험기관에서 하고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한전 AMI 미터기·모뎀 전기차충전기에 KEV7암호칩을 이용한 제품 상용화도 테스트 중이다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "케이씨에스, 암호칩 기술 앞세워 북미·유럽 영상보안장비 시장 첫 노크",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

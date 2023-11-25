@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008905",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피 1860선 사흘만에 추락",
+		"newsSubTitle": "",
+		"newsContent": "코스피지수가 사흘 만에 하락하며 1860선대로 떨어졌다.\n18일 코스피지수는 전날(1892.67)보다 32.09p(1.70%) 내린 1860.58에 장을 마쳤다.\n이날 소폭 하락세로 출발한 코스피는 장 초반 개인의 매수세가 유입되며 반등을 시도했다.\n하지만, 외국인과 기관이 동반 매도하고, 프로그램 매물이 쏟아지면서 낙폭이 확대됐다.\n개인은 국내 주식을 6091억원을 사들였다.\n반면 외국인과 기관은 각각 1656억원, 3160억원을 팔았다.\n프로그램 매매는 1373억원 매도 우위를 보였다.\n업종별로 통신(6.37%)을 비롯해 음식료(3.07%), 유통(2.29%), 서비스(1.41%), 섬유의복(0.60%) 등이 상승했다.\n하지만, 전기전자(-5.92%), 운수장비(-3.73%), 의료정밀(-3.21%), 제조업(-3.17%) 등은 하락했다.\n코스닥지수는 전날(506.44)보다 1.36p(0.27%) 오른 507.80에 장을 마감하며 6일째 상승했다.\n외국인과 개인이 각각 398억원, 319억원을 순매도한 가운데 기관이 638억원을 순매수했다.\n프로그램 매매도 137억원 매수 우위로 상승에 기여했다.\n서울 외환시장에서 원·달러 환율은 전날(1071.5원)보다 2.5원(0.23%) 오른 1074.0원에 마감했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피지수가 사흘 만에 하락하며 1860선대로 떨어졌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 코스피지수는 전날(1892.67)보다 32.09p(1.70%) 내린 1860.58에 장을 마쳤다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 소폭 하락세로 출발한 코스피는 장 초반 개인의 매수세가 유입되며 반등을 시도했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만, 외국인과 기관이 동반 매도하고, 프로그램 매물이 쏟아지면서 낙폭이 확대됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개인은 국내 주식을 6091억원을 사들였다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반면 외국인과 기관은 각각 1656억원, 3160억원을 팔았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "프로그램 매매는 1373억원 매도 우위를 보였다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "업종별로 통신(6.37%)을 비롯해 음식료(3.07%), 유통(2.29%), 서비스(1.41%), 섬유의복(0.60%) 등이 상승했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만, 전기전자(-5.92%), 운수장비(-3.73%), 의료정밀(-3.21%), 제조업(-3.17%) 등은 하락했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "코스닥지수는 전날(506.44)보다 1.36p(0.27%) 오른 507.80에 장을 마감하며 6일째 상승했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "외국인과 개인이 각각 398억원, 319억원을 순매도한 가운데 기관이 638억원을 순매수했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "프로그램 매매도 137억원 매수 우위로 상승에 기여했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "서울 외환시장에서 원·달러 환율은 전날(1071.5원)보다 2.5원(0.23%) 오른 1074.0원에 마감했다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쌍용차 새주인, 이르면 28일 윤곽",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

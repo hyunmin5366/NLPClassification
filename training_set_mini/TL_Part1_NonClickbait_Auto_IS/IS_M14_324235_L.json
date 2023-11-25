@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324235",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "판교, 자율주행차량 시승해요",
+		"newsSubTitle": "",
+		"newsContent": "자율주행 관련 최신기술을 선 보인 '2017 판교자율주행모터쇼'가 16일 경기도 성남시 판교제로시티 기업지원허브에서 열렸다.\n남경필 경기도지사(왼쪽 두번째) 및 주요인사가 자율주행차 '제로셔틀'을 공개하고 있다.\n첨단 ICT 기술이 집약된 자율주행차량이 시승을 위해 들어오고 있다.\n남경필 경기도지사 및 주요인사가 켐트로닉스 부스에서 V2X(차량과 차량 사이 무선 통신)기술을 보고 있다.\n남경필 경기도지사 및 주요인사가 KT 5G 드론을 보고 있다.\n일반 신청자들이 자율주행차량을 시승하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자율주행 관련 최신기술을 선 보인 '2017 판교자율주행모터쇼'가 16일 경기도 성남시 판교제로시티 기업지원허브에서 열렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "남경필 경기도지사(왼쪽 두번째) 및 주요인사가 자율주행차 '제로셔틀'을 공개하고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "첨단 ICT 기술이 집약된 자율주행차량이 시승을 위해 들어오고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "남경필 경기도지사 및 주요인사가 켐트로닉스 부스에서 V2X(차량과 차량 사이 무선 통신)기술을 보고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "남경필 경기도지사 및 주요인사가 KT 5G 드론을 보고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일반 신청자들이 자율주행차량을 시승하고 있다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "판교, 자율주행차량 시승해요",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

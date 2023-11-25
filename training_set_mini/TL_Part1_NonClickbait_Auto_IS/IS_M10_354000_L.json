@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354000",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "티머니GO, 어느새 누적회원 200만명 달성",
+		"newsSubTitle": "null",
+		"newsContent": "티머니는 '티머니GO' 누적회원이 200만명을 돌파했다고 20일 밝혔다.\n티머니GO는 앱 하나로 △대중교통 이용 △고속·시외버스 예매 △퍼스널모빌리티 이용 △택시호출 등 다양한 모빌리티 서비스를 이용할 수 있는 서비스다.\n주 3일 이상 대중교통이나 따릉이를 이용하면 하루 마일리지 100M을 주는 '티머니GO 대중교통 리워드'와 대중교통과 다른 이동수단을 이용하면 주는 '티머니GO 환승리워드'가 인기다.\n티머니GO는 오는 25일부터 공유 전동킥보드 씽씽 서비스 이용지역을 전국으로 확대한다. 5월부턴 대중교통과 씽씽 환승리워드 지역을 전국으로 넓히고, 씽씽 2000원 할인 쿠폰을 지급한다.\n티머니GO 앱 내 '참여형GO마일리지'도 도입한다.\n간단한 미션에 참여하면 티머니GO에서 모든 교통수단을 이용할 수 있는 마일리지를 쌓을 수 있다.\n조동욱 티머니 모빌리티사업부장은 \\\"티머니GO가 다양한 교통혜택과 스마트한 서비스를 선보이며 누적회원 200만명을 달성했다\\\"며 \\\"씽씽 전국 서비스를 시작으로 대중교통 중심의 국내 최고 MaaS(서비스형 이동수단)가 될 수 있도록 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "티머니는 '티머니GO' 누적회원이 200만명을 돌파했다고 20일 밝혔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "티머니GO는 앱 하나로 △대중교통 이용 △고속·시외버스 예매 △퍼스널모빌리티 이용 △택시호출 등 다양한 모빌리티 서비스를 이용할 수 있는 서비스다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주 3일 이상 대중교통이나 따릉이를 이용하면 하루 마일리지 100M을 주는 '티머니GO 대중교통 리워드'와 대중교통과 다른 이동수단을 이용하면 주는 '티머니GO 환승리워드'가 인기다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "티머니GO는 오는 25일부터 공유 전동킥보드 씽씽 서비스 이용지역을 전국으로 확대한다. 5월부턴 대중교통과 씽씽 환승리워드 지역을 전국으로 넓히고, 씽씽 2000원 할인 쿠폰을 지급한다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "티머니GO 앱 내 '참여형GO마일리지'도 도입한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "간단한 미션에 참여하면 티머니GO에서 모든 교통수단을 이용할 수 있는 마일리지를 쌓을 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조동욱 티머니 모빌리티사업부장은 \\\"티머니GO가 다양한 교통혜택과 스마트한 서비스를 선보이며 누적회원 200만명을 달성했다\\\"며 \\\"씽씽 전국 서비스를 시작으로 대중교통 중심의 국내 최고 MaaS(서비스형 이동수단)가 될 수 있도록 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 143
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "티머니GO, 어느새 누적회원 200만명 달성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335589",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "에너지산업",
+		"newsTitle": "한국교통안전공단, CNG버스 하절기 특별 안전점검 실시",
+		"newsSubTitle": "",
+		"newsContent": "한국교통안전공단은 9일부터 7월까지 전국 3만 여 CNG버스 전체를 대상으로 'CNG버스 하절기 특별 안전점검'을 실시한다.\n여름철 높은 기온으로 인한 폭발위험에 대비해 CNG 내압용기 안전성을 강화하기 위한 조치다.\n이번 점검은 공단과 자동차 제작사가 합동으로 시행한다.\n정비 인력이 부족한 마을버스와 전세버스는 공단이 직접 점검한다.\n시내버스는 공단과 제작사, 운수회사가 합동점검반을 구성해 점검한다. 7월부터 8월까지는 CNG차량 충전압력 10% 감압조치도 병행한다.\n여름철 CNG 내압용기 압력이 10% 상승해 파열 가능성이 커지는 점을 감안한 것이다.\n한편 공단은 CNG 버스 특별점검과 함께 CNG 승용차를 대상으로 올 연말까지 전국 33개 검사장에서 내압용기 무상점검 서비스를 제공한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국교통안전공단은 9일부터 7월까지 전국 3만 여 CNG버스 전체를 대상으로 'CNG버스 하절기 특별 안전점검'을 실시한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "여름철 높은 기온으로 인한 폭발위험에 대비해 CNG 내압용기 안전성을 강화하기 위한 조치다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 점검은 공단과 자동차 제작사가 합동으로 시행한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정비 인력이 부족한 마을버스와 전세버스는 공단이 직접 점검한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시내버스는 공단과 제작사, 운수회사가 합동점검반을 구성해 점검한다. 7월부터 8월까지는 CNG차량 충전압력 10% 감압조치도 병행한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "여름철 CNG 내압용기 압력이 10% 상승해 파열 가능성이 커지는 점을 감안한 것이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 공단은 CNG 버스 특별점검과 함께 CNG 승용차를 대상으로 올 연말까지 전국 33개 검사장에서 내압용기 무상점검 서비스를 제공한다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국교통안전공단, CNG버스 하절기 특별 안전점검 실시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

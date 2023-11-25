@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325132",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[CIO 서밋 2020]클라우드와 양자컴퓨팅 시대 데이터 보안 전략은?",
+		"newsSubTitle": "",
+		"newsContent": "클라우드 전환으로 정보기술(IT) 인프라 복잡성이 커지는 가운데 데이터 보안 전략에 이목이 쏠린다.\n구병춘 탈레스코리아 이사는 '데이터 보안의 뉴노멀'을 주제로 클라우드 시대 데이터 보안 전략에 대해 소개했다.\n탈레스가 한국을 비롯한 16개국 1700여명 정보기술(IT) 보안 전문가를 대상으로 설문조사한 결과 클라우드에 기업 데이터를 전량 저장한다는 기업은 50%, 클라우드에 민감 데이터를 저장한다는 기업은 48%에 달했다.\n이런 가운데 클라우드 내 민감 데이터를 암호화하지 않았다는 기업은 100%로 조사됐다.\n서비스형 인프라(IaaS)와 서비스형 플랫폼(PaaS), 서비스형 소프트웨어(SaaS)를 2개 이상 쓰는 기업도 모두 81% 이상을 기록했다.\n구 이사는 “클라우드 도입으로 온프레미스 중심 콘텐츠 보안 효과가 감소했다”면서 “하이브리드와 멀티 클라우드 기반 데이터 보안 도구에 대한 투자가 필요하다”고 설명했다.\n그는 “데이터 보안 솔루션과 암호화는 현재 데이터 위협 환경에서 매우 중요한 도구”라면서 “민감 데이터 검출 솔루션과 중앙 집중식 암호 키 관리에 집중할 필요가 있다”고 강조했다.\n양자 컴퓨팅 위협도 새로운 데이터 보안 전략을 수립해야 하는 이유로 지적된다. '2020 탈레스 데이터 위협 보고서'에 따르면 응답자 72%는 5년 내 양자 컴퓨팅이 자사 암호화 시스템 운영에 영향을 미칠 것이라고 밝혔다.\n응답자 27%는 1년 내 민감 데이터 보안에 위협이 될 것이라고 답했다.\n구 이사는 “데이터 암호화에 대한 양자 컴퓨팅 영향이 점차 부각되고 있다”면서 “데이터 보안을 위한 새로운 전략이 필요하다”고 말했다.\n전략으로는 △민감 데이터 검출과 분류 △민감 데이터 암호화 △암호 키 보안 △접근 통제 정책 등 네 가지를 제시했다.\n이를 위해 탈레스는 차세대 데이터 보안과 키 관리 플랫폼 '사이퍼트러스트 매니저'를 제공한다.\n보메트릭 데이터시큐리티매니저(DSM)와 키시큐어 클래식을 통합한 솔루션으로 마이크로서비스 아키텍처(MSA) 구조다.\n커넥터 관리를 위한 통합 콘솔을 통해 관리를 단순화한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "클라우드 전환으로 정보기술(IT) 인프라 복잡성이 커지는 가운데 데이터 보안 전략에 이목이 쏠린다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구병춘 탈레스코리아 이사는 '데이터 보안의 뉴노멀'을 주제로 클라우드 시대 데이터 보안 전략에 대해 소개했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "탈레스가 한국을 비롯한 16개국 1700여명 정보기술(IT) 보안 전문가를 대상으로 설문조사한 결과 클라우드에 기업 데이터를 전량 저장한다는 기업은 50%, 클라우드에 민감 데이터를 저장한다는 기업은 48%에 달했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이런 가운데 클라우드 내 민감 데이터를 암호화하지 않았다는 기업은 100%로 조사됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서비스형 인프라(IaaS)와 서비스형 플랫폼(PaaS), 서비스형 소프트웨어(SaaS)를 2개 이상 쓰는 기업도 모두 81% 이상을 기록했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구 이사는 “클라우드 도입으로 온프레미스 중심 콘텐츠 보안 효과가 감소했다”면서 “하이브리드와 멀티 클라우드 기반 데이터 보안 도구에 대한 투자가 필요하다”고 설명했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 “데이터 보안 솔루션과 암호화는 현재 데이터 위협 환경에서 매우 중요한 도구”라면서 “민감 데이터 검출 솔루션과 중앙 집중식 암호 키 관리에 집중할 필요가 있다”고 강조했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "양자 컴퓨팅 위협도 새로운 데이터 보안 전략을 수립해야 하는 이유로 지적된다. '2020 탈레스 데이터 위협 보고서'에 따르면 응답자 72%는 5년 내 양자 컴퓨팅이 자사 암호화 시스템 운영에 영향을 미칠 것이라고 밝혔다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "응답자 27%는 1년 내 민감 데이터 보안에 위협이 될 것이라고 답했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "구 이사는 “데이터 암호화에 대한 양자 컴퓨팅 영향이 점차 부각되고 있다”면서 “데이터 보안을 위한 새로운 전략이 필요하다”고 말했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "전략으로는 △민감 데이터 검출과 분류 △민감 데이터 암호화 △암호 키 보안 △접근 통제 정책 등 네 가지를 제시했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이를 위해 탈레스는 차세대 데이터 보안과 키 관리 플랫폼 '사이퍼트러스트 매니저'를 제공한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "보메트릭 데이터시큐리티매니저(DSM)와 키시큐어 클래식을 통합한 솔루션으로 마이크로서비스 아키텍처(MSA) 구조다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "커넥터 관리를 위한 통합 콘솔을 통해 관리를 단순화한다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[CIO 서밋 2020]클라우드와 양자컴퓨팅 시대 데이터 보안 전략은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

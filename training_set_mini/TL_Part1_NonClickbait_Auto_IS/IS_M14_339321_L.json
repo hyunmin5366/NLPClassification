@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339321",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[공공컴퓨팅마켓 2021] 액세스랩, 초저젼력 ARM서버로 클라우드 공략",
+		"newsSubTitle": "",
+		"newsContent": "\\\"엇비슷한 하드웨어 사양으로 경쟁력을 잃어가는 국산 서버 업계에 저전력 ARM 서버는 새로운 활로를 열어줄 것입니다.\\\" 엑세스랩(대표 유명환)은 '국산 서버의 새로운 대안, ARM 서버'란 주제로 ARM 칩 기반의 컴퓨터와 서버에 관한 동향과 기술을 소개하며 이같이 강조했다.\n전력 사용 효율성∙빠른 처리속도 등 ARM 서버의 차별점을 설명하고 향후 공공기관에서도 이슈로 떠오른 환경∙사회∙지배구조(ESG) 관점에서도 ARM 서버가 경쟁력을 가질 것으로 예측했다.\nARM 서버는 저전력 저발열 프로세서인 ARM 프로세서를 탑재한 제품이다.\n소모 전력은 낮고 성능은 인텔 서버 만큼 높인 안정성을 갖추고 있어 클라우드 시장에 적합하다.\n엑세스랩은 백열등 한 개 정도가 소모하는 전력(15W)만으로 24개 CPU 코어, 16GB 메모리, 250GB 디스크(SSD)를 구동시키는 초저전력 ARM 서버를 출시했다.\n투자대비효과가 인텔 서버 대비 최소 10배 이상 우수한 저전력 고효율 제품이다.\n유명환 대표는 \\\"올해 글로벌 기업 등과 전략적 파트너 관계를 맺고 ARM 서버 생태계를 활성화할 것\\\"이라며 \\\"에지 컴퓨팅 ARM 서버 분야의 선도 기업으로 자리매김한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "\\\"엇비슷한 하드웨어 사양으로 경쟁력을 잃어가는 국산 서버 업계에 저전력 ARM 서버는 새로운 활로를 열어줄 것입니다.\\\" 엑세스랩(대표 유명환)은 '국산 서버의 새로운 대안, ARM 서버'란 주제로 ARM 칩 기반의 컴퓨터와 서버에 관한 동향과 기술을 소개하며 이같이 강조했다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전력 사용 효율성∙빠른 처리속도 등 ARM 서버의 차별점을 설명하고 향후 공공기관에서도 이슈로 떠오른 환경∙사회∙지배구조(ESG) 관점에서도 ARM 서버가 경쟁력을 가질 것으로 예측했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ARM 서버는 저전력 저발열 프로세서인 ARM 프로세서를 탑재한 제품이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소모 전력은 낮고 성능은 인텔 서버 만큼 높인 안정성을 갖추고 있어 클라우드 시장에 적합하다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엑세스랩은 백열등 한 개 정도가 소모하는 전력(15W)만으로 24개 CPU 코어, 16GB 메모리, 250GB 디스크(SSD)를 구동시키는 초저전력 ARM 서버를 출시했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "투자대비효과가 인텔 서버 대비 최소 10배 이상 우수한 저전력 고효율 제품이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유명환 대표는 \\\"올해 글로벌 기업 등과 전략적 파트너 관계를 맺고 ARM 서버 생태계를 활성화할 것\\\"이라며 \\\"에지 컴퓨팅 ARM 서버 분야의 선도 기업으로 자리매김한다\\\"고 말했다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[공공컴퓨팅마켓 2021] 액세스랩, 초저젼력 ARM서버로 클라우드 공략",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

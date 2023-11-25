@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338842",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "아카마이 “1분기 세계 디도스 공격 감소...웹 애플리케이션 공격은 증가”",
+		"newsSubTitle": "",
+		"newsContent": "올 1분기 세계 분산 서비스 거부(디도스∙DDoS) 공격이 지난해 대비 30% 줄었다.\n반면 웹 애플리케이션 공격이 전년 대비 35% 증가했다.\n미라이 DNS WT(Water Torture)공격이 금융서비스 업계를 대상으로 발생했다.\n공격 양상이 진화하는 모양새다.\n아카마이코리아(대표 손부한)는 22일 '2017년 1분기 인터넷 보안 현황 보고서'를 발표하고, 올해 1분기 디도스 공격이 3174건 발생해 전년과 비교해 30% 감소했다고 밝혔다.\n특히 100Gbps 넘는 대형 디도스 공격은 89%나 감소했다.\n최대 공격 규모는 120Gbps에 그쳤다.\n1분기 가장 많이 사용된 디도스 공격 기법은 사용자 데이터그램 프로토콜(UDP) 프래그먼트다.\n전체 중 29%를 차지했다.\n이어 도메인네임시스템(DNS∙20%), 네트워크 타임 프로토콜(NTP∙15%) 순으로 공격이 많았다.\n새로운 반사 공격 기법인 CLDAP도 발견됐다.\n공격은 대부분 1Gbps를 초과했다.\n웹 애플리케이션 공격 건수는 지난해 대비 35% 증가했다.\n웹 애플리케이션 공격 발원지는 미국(34%)이 지난 분기에 이어 1위를 차지했다.\n네덜란드(12.7%)∙브라질(8.1%)∙중국(5.5%)∙독일(4.6%)이 뒤를 이었다.\n특히 1분기에 미라이 DNS WT(Water Torture) 공격이 금융 서비스 업계를 대상으로 발생했다.\n공격이 진행되는 동안 영향 받은 DNS 서버 대부분은 1~2Mbps 사이 균등한 비율로 쿼리(query)를 받았다.\n지난 1월15일에는 14Mbps 규모 공격도 이뤄졌다.\n마틴 맥키 아카마이 수석 보안 전문가는 \\\"미라이 같은 봇넷을 이용한 공격은 점차 교묘해지고 있고 사물인터넷(IoT) 취약점을 악용되는 공격 역시 증가 한다\\\"며 \\\"미라이가 유일한 위협이라는 것은 근시안적 생각이다. BillGates, elknot, XOR과 같은 봇넷은 미라이 기능을 추가하지 않고 변형되고 있다는 증거도 발견했다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올 1분기 세계 분산 서비스 거부(디도스∙DDoS) 공격이 지난해 대비 30% 줄었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "반면 웹 애플리케이션 공격이 전년 대비 35% 증가했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미라이 DNS WT(Water Torture)공격이 금융서비스 업계를 대상으로 발생했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공격 양상이 진화하는 모양새다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아카마이코리아(대표 손부한)는 22일 '2017년 1분기 인터넷 보안 현황 보고서'를 발표하고, 올해 1분기 디도스 공격이 3174건 발생해 전년과 비교해 30% 감소했다고 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 100Gbps 넘는 대형 디도스 공격은 89%나 감소했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최대 공격 규모는 120Gbps에 그쳤다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "1분기 가장 많이 사용된 디도스 공격 기법은 사용자 데이터그램 프로토콜(UDP) 프래그먼트다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "전체 중 29%를 차지했다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이어 도메인네임시스템(DNS∙20%), 네트워크 타임 프로토콜(NTP∙15%) 순으로 공격이 많았다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "새로운 반사 공격 기법인 CLDAP도 발견됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "공격은 대부분 1Gbps를 초과했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "웹 애플리케이션 공격 건수는 지난해 대비 35% 증가했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "웹 애플리케이션 공격 발원지는 미국(34%)이 지난 분기에 이어 1위를 차지했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "네덜란드(12.7%)∙브라질(8.1%)∙중국(5.5%)∙독일(4.6%)이 뒤를 이었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "특히 1분기에 미라이 DNS WT(Water Torture) 공격이 금융 서비스 업계를 대상으로 발생했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "공격이 진행되는 동안 영향 받은 DNS 서버 대부분은 1~2Mbps 사이 균등한 비율로 쿼리(query)를 받았다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "지난 1월15일에는 14Mbps 규모 공격도 이뤄졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "마틴 맥키 아카마이 수석 보안 전문가는 \\\"미라이 같은 봇넷을 이용한 공격은 점차 교묘해지고 있고 사물인터넷(IoT) 취약점을 악용되는 공격 역시 증가 한다\\\"며 \\\"미라이가 유일한 위협이라는 것은 근시안적 생각이다. BillGates, elknot, XOR과 같은 봇넷은 미라이 기능을 추가하지 않고 변형되고 있다는 증거도 발견했다\\\"고 말했다.",
+				"sentenceSize": 194
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아카마이 “1분기 세계 디도스 공격 감소...웹 애플리케이션 공격은 증가”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

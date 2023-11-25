@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014255",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "받을 돈보다 큰 금액 입금…금융사기일까?",
+		"newsSubTitle": "상거래용 정상계좌 이용한 사건 늘어",
+		"newsContent": "#꽃집을 운영하는 김모 씨는 얼마 전 “애인에게 5만원 짜리로 만든 돈 꽃다발을 선물하려고 하는데, 돈을 통장으로 송금해 주면 꽃값과 수고비를 제외한 나머지는 돈 꽃다발로 만들어 줄 수 있겠느냐. 가능하다면 돈을 송금할 계좌번호를 알려달라”는 전화 문의를 받고 계좌번호를 알려줬다가 큰 낭패를 당했다.\n김 씨는 자신의 계좌로 500만원이 입금된 것을 확인하고, 손님에게 주문한 10만원 짜리 꽃다발과 현금 190만원, 계좌입금 금액의 차액인 300만원을 현금으로 내줬다.\n하지만 얼마 후 김씨는 금융사기 혐의로 계좌 지급 정지를 당하고 수사까지 받게 됐다.\n사실 전화 문의를 한 손님은 금융사기범으로 B씨에게 금융사기를 벌여 500만원을 A씨 계좌로 송금하게 한 뒤 찾아간 것이다.\n금융사기를 당한 B씨는 경찰에 신고했고 이용계좌 명의인 A씨가 혐의를 받게 된 것이다.\n대포통장에 대한 단속이 강화되자 상인들을 이용해 현금화하는 신종 금융사기가 발생해 주의가 요구된다.\n금융감독원은 27일 최근 상거래용으로 사용되는 정상계좌가 금융사기에 이용돼 지급정지되는 사건이 다수 발생했다면서 물건 가격보다 많은 금액이 입금됐다면 금융사기를 의심해야 한다고 경고했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "#꽃집을 운영하는 김모 씨는 얼마 전 “애인에게 5만원 짜리로 만든 돈 꽃다발을 선물하려고 하는데, 돈을 통장으로 송금해 주면 꽃값과 수고비를 제외한 나머지는 돈 꽃다발로 만들어 줄 수 있겠느냐. 가능하다면 돈을 송금할 계좌번호를 알려달라”는 전화 문의를 받고 계좌번호를 알려줬다가 큰 낭패를 당했다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김 씨는 자신의 계좌로 500만원이 입금된 것을 확인하고, 손님에게 주문한 10만원 짜리 꽃다발과 현금 190만원, 계좌입금 금액의 차액인 300만원을 현금으로 내줬다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하지만 얼마 후 김씨는 금융사기 혐의로 계좌 지급 정지를 당하고 수사까지 받게 됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사실 전화 문의를 한 손님은 금융사기범으로 B씨에게 금융사기를 벌여 500만원을 A씨 계좌로 송금하게 한 뒤 찾아간 것이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금융사기를 당한 B씨는 경찰에 신고했고 이용계좌 명의인 A씨가 혐의를 받게 된 것이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대포통장에 대한 단속이 강화되자 상인들을 이용해 현금화하는 신종 금융사기가 발생해 주의가 요구된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "금융감독원은 27일 최근 상거래용으로 사용되는 정상계좌가 금융사기에 이용돼 지급정지되는 사건이 다수 발생했다면서 물건 가격보다 많은 금액이 입금됐다면 금융사기를 의심해야 한다고 경고했다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대홈쇼핑, 예능형 라이브 커머스 진행",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

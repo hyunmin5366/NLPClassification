@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325237",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "한전 전력연구원, 행동분석·소스코드 보안 감시시스템 연내 개발...소스코드 변경 감시로 위협차단",
+		"newsSubTitle": "",
+		"newsContent": "한국전력과 고려대가 협력해 전력시스템 행동분석·소스코드 보안 감시시스템을 연내 개발한다.\n로직 이상 여부를 판단하는 지능 보안기술을 적용, 소프트웨어(SW) 불법 조작·프로세스 우회를 탐지한다.\n한전 전력연구원은 해당 시스템을 범용 제품으로 만들고 기술을 이전할 계획이다.\n소스코드를 활용해 관리자 권한 내부자에 의한 업무 프로세스 변경을 탐지하는 기술이 국내에서 처음 나온다.\n25일 업계 따르면 한전 전력연구원과 고려대 사이버국방학과는 '내부자에 의한 전력시스템 불법 행위 탐지 및 사전대응기술 개발' 과제를 연내 완료한다.\n행동분석·소스코드 보안 감시시스템을 개발하기 위해서다.\n한전 전력연구원·안전보안처는 행동체인룰(CFG)·제어흐름그래프 로직·시큐어코딩룰을 개발한다.\n고려대 사이버국방학과는 수정영향도 모델을 만든다.\n행동분석·소스코드 보안 감시시스템은 SW수정 영향도 모델을 바탕으로 SW조작 이상행위를 감지한다.\nCFG 프로세스 이상을 탐지해 로그 연쇄행동을 정밀 분석한다.\nCFG는 프로그램이 실행 중 횡단하는 경로를 그래프 표기법으로 표현한다.\n행동분석·소스코드 보안 감시시스템은 CFG 이상행위를 발견하면 대시보드로 알린다.\n로그를 분석해 내부자 이상 행위를 탐지하는 기술 개발은 국내에서 알려진 바가 없다.\n윤지원 고려대 사이버국방학과교수는 “정적·동적 코드를 다 분석해 시스템 내부 문제를 일으키는 위험요소를 발견하고, 위탁·하청업체 등 외부 시스템 변경을 막아보자는 취지”라며 “소스코드 단에서 변경사항을 파악하는 점이 특징”이라고 말했다.\n시스템은 내부 위탁·하청 직원에 의해 중요한 SW가 조작돼 취약해지는 위험을 선제 차단한다.\n소스코드가 암호화되는 등 보안 수준을 높이더라도 우회로가 생기기 마련이다.\n하지만 소스코드 이상을 확인하면 내부정보 유출·조작 위험 원천 차단이 가능하다.\n한전 전력연구원 관계자는 “소스코드가 암호화돼 있다 하더라도 조건문이 변화하면 로직이 엉뚱한 방향으로 흘러 우회한다”면서 “위탁·하청 시스템에서 SW를 조작하기 때문에 이를 근본적으로 차단하는 시스템이 필요하다”고 설명했다.\n한전 전력연구원은 연내 범용 시스템에 제품을 적용하는 수준의 기술 개발을 완료한다.\n이미 연쇄행동탐지·프로세스 조작 판단 알고리즘을 도출했다.\n특허협력조약(PCT) 특허도 출원했다.\n한전 전력연구원 안전보안처 SW보안 인프라·전력SW연구개발 플랫폼으로 활용한다.\n오탐률을 낮추고 정탐률을 높이는 작업을 이어간다.\n한전 전력연구원 관계자는 “연내 오탐률을 10% 미만으로 낮추고 내년에는 해당 시스템 기술이전을 위해 국제특허·샘플소스를 공개할 것”이라며 “가상머신에 데이터가 집적되는 클라우드 시스템에서 정탐률이 높아질 것”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전력과 고려대가 협력해 전력시스템 행동분석·소스코드 보안 감시시스템을 연내 개발한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로직 이상 여부를 판단하는 지능 보안기술을 적용, 소프트웨어(SW) 불법 조작·프로세스 우회를 탐지한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한전 전력연구원은 해당 시스템을 범용 제품으로 만들고 기술을 이전할 계획이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소스코드를 활용해 관리자 권한 내부자에 의한 업무 프로세스 변경을 탐지하는 기술이 국내에서 처음 나온다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "25일 업계 따르면 한전 전력연구원과 고려대 사이버국방학과는 '내부자에 의한 전력시스템 불법 행위 탐지 및 사전대응기술 개발' 과제를 연내 완료한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "행동분석·소스코드 보안 감시시스템을 개발하기 위해서다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한전 전력연구원·안전보안처는 행동체인룰(CFG)·제어흐름그래프 로직·시큐어코딩룰을 개발한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "고려대 사이버국방학과는 수정영향도 모델을 만든다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "행동분석·소스코드 보안 감시시스템은 SW수정 영향도 모델을 바탕으로 SW조작 이상행위를 감지한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "CFG 프로세스 이상을 탐지해 로그 연쇄행동을 정밀 분석한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "CFG는 프로그램이 실행 중 횡단하는 경로를 그래프 표기법으로 표현한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "행동분석·소스코드 보안 감시시스템은 CFG 이상행위를 발견하면 대시보드로 알린다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "로그를 분석해 내부자 이상 행위를 탐지하는 기술 개발은 국내에서 알려진 바가 없다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "윤지원 고려대 사이버국방학과교수는 “정적·동적 코드를 다 분석해 시스템 내부 문제를 일으키는 위험요소를 발견하고, 위탁·하청업체 등 외부 시스템 변경을 막아보자는 취지”라며 “소스코드 단에서 변경사항을 파악하는 점이 특징”이라고 말했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "시스템은 내부 위탁·하청 직원에 의해 중요한 SW가 조작돼 취약해지는 위험을 선제 차단한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "소스코드가 암호화되는 등 보안 수준을 높이더라도 우회로가 생기기 마련이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "하지만 소스코드 이상을 확인하면 내부정보 유출·조작 위험 원천 차단이 가능하다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "한전 전력연구원 관계자는 “소스코드가 암호화돼 있다 하더라도 조건문이 변화하면 로직이 엉뚱한 방향으로 흘러 우회한다”면서 “위탁·하청 시스템에서 SW를 조작하기 때문에 이를 근본적으로 차단하는 시스템이 필요하다”고 설명했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "한전 전력연구원은 연내 범용 시스템에 제품을 적용하는 수준의 기술 개발을 완료한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이미 연쇄행동탐지·프로세스 조작 판단 알고리즘을 도출했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "특허협력조약(PCT) 특허도 출원했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "한전 전력연구원 안전보안처 SW보안 인프라·전력SW연구개발 플랫폼으로 활용한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "오탐률을 낮추고 정탐률을 높이는 작업을 이어간다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "한전 전력연구원 관계자는 “연내 오탐률을 10% 미만으로 낮추고 내년에는 해당 시스템 기술이전을 위해 국제특허·샘플소스를 공개할 것”이라며 “가상머신에 데이터가 집적되는 클라우드 시스템에서 정탐률이 높아질 것”이라고 전했다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한전 전력연구원, 행동분석·소스코드 보안 감시시스템 연내 개발...소스코드 변경 감시로 위협차단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

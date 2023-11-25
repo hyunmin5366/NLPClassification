@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331169",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "스카이에듀, 회원 개인정보 유출...\\\"관계기관과 공조 대응\\\"",
+		"newsSubTitle": "",
+		"newsContent": "스카이에듀 회원 개인정보가 유출됐다.\n13일 스카이에듀 운영사인 현현교육과 현현교육 모기업 에스티유니타스에 따르면 현현교육은 지난해 10월 12일 이전 가입 회원 개인정보가 유출돼 회사와 방송통신위원회가 대응에 나섰다고 밝혔다.\n스카이에듀는 수학능력시험 등 대형 온라인 강의 사이트다.\n유출된 개인정보는 이름, 아이디, 이메일, 주소, 전화번호, 비밀번호 등이다.\n스카이에듀는 홈페이지 공지 '개인정보 침해 사고에 대한 안내 및 사과 말씀'을 통해 “회원별로 개인정보 유출범위가 다르며 비밀번호는 암호화된 상태라 안전하다”고 설명했다.\n정보유출 여부는 홈페이지에서 이름과 아이디를 입력해 확인 가능하다.\n스카이에듀는 “현재 정보유출 경위를 조사 중”이라며 “가입자에게 진심으로 사과하며 개인정보 보호에 더 힘을 쏟을 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스카이에듀 회원 개인정보가 유출됐다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 스카이에듀 운영사인 현현교육과 현현교육 모기업 에스티유니타스에 따르면 현현교육은 지난해 10월 12일 이전 가입 회원 개인정보가 유출돼 회사와 방송통신위원회가 대응에 나섰다고 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스카이에듀는 수학능력시험 등 대형 온라인 강의 사이트다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유출된 개인정보는 이름, 아이디, 이메일, 주소, 전화번호, 비밀번호 등이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스카이에듀는 홈페이지 공지 '개인정보 침해 사고에 대한 안내 및 사과 말씀'을 통해 “회원별로 개인정보 유출범위가 다르며 비밀번호는 암호화된 상태라 안전하다”고 설명했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정보유출 여부는 홈페이지에서 이름과 아이디를 입력해 확인 가능하다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스카이에듀는 “현재 정보유출 경위를 조사 중”이라며 “가입자에게 진심으로 사과하며 개인정보 보호에 더 힘을 쏟을 것”이라고 밝혔다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스카이에듀, 회원 개인정보 유출...\\\"관계기관과 공조 대응\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

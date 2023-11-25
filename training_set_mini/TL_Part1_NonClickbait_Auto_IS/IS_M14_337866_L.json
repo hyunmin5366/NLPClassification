@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337866",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "일 르네사스, USB파워딜리버리 개발용 레퍼런스디자인보드 발표",
+		"newsSubTitle": "",
+		"newsContent": "일본 르네사스일렉트로닉스는 USB 파워딜리버리(PD)와 USB-C 배터리 충전 애플리케이션 개발을 빠르고 단순하게 구현할 수 있는 레퍼런스 디자인보드 2종을 발표했다.\nUSB-IF PD3.0 인증 설계 키트로 USB-C전원 및 데이터 연결 표준을 구현하는 애플리케이션을 위한 레퍼런스 디자인이다.\nRTK-251-1 파워뱅크3는 직렬연결 리튬이온 배터리 파워뱅크 레퍼런스 디자인 보드다.\nUSB PD3.0 콘트롤러와 ISL95538B 전압직접 충전기가 적용됐다.\nUSB-C 다중 배터리셀 파워뱅크에 이상적인 레퍼런스 디자인 보드다.\nDRP(Dual Role Power) 기능을 지원하는 USB-C 포트와 전원 소스 및 전원 싱크 모드로 전력을 공급한다.\n파워뱅크는 5V에서 20V 전원까지 공급한다.\nRTK-251-BuckBoostConverter2 레퍼런스디자인 보드는 USB-C 허브에 이상적인 보드다. 19V 4.73A DC 입력 전력을 지원하고 USB-PD 3.0과 호환되는 VBUS 전력을 출력한다.\n프로그래머블 파워서플라이 규격을 지원하며 VBUS 전원 출력 USB-C를 2개 지원한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 르네사스일렉트로닉스는 USB 파워딜리버리(PD)와 USB-C 배터리 충전 애플리케이션 개발을 빠르고 단순하게 구현할 수 있는 레퍼런스 디자인보드 2종을 발표했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "USB-IF PD3.0 인증 설계 키트로 USB-C전원 및 데이터 연결 표준을 구현하는 애플리케이션을 위한 레퍼런스 디자인이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "RTK-251-1 파워뱅크3는 직렬연결 리튬이온 배터리 파워뱅크 레퍼런스 디자인 보드다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "USB PD3.0 콘트롤러와 ISL95538B 전압직접 충전기가 적용됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "USB-C 다중 배터리셀 파워뱅크에 이상적인 레퍼런스 디자인 보드다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "DRP(Dual Role Power) 기능을 지원하는 USB-C 포트와 전원 소스 및 전원 싱크 모드로 전력을 공급한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "파워뱅크는 5V에서 20V 전원까지 공급한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "RTK-251-BuckBoostConverter2 레퍼런스디자인 보드는 USB-C 허브에 이상적인 보드다. 19V 4.73A DC 입력 전력을 지원하고 USB-PD 3.0과 호환되는 VBUS 전력을 출력한다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "프로그래머블 파워서플라이 규격을 지원하며 VBUS 전원 출력 USB-C를 2개 지원한다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일 르네사스, USB파워딜리버리 개발용 레퍼런스디자인보드 발표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

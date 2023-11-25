@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336349",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "이대목동병원, 싱글 사이트 로봇수술 세계 1위",
+		"newsSubTitle": "",
+		"newsContent": "이대목동병원(원장 유경하)은 싱글 사이트 로봇수술 500례를 돌파하며 세계에서 가장 많은 건수를 기록했다고 11일 밝혔다.\n싱글 사이트 로봇수술은 기존 로봇수술이 환자 배에 3~4곳 이상 절개했던 것과 달리 배꼽을 이용한 단일 구멍으로 수술 기구를 삽입한다.\n수술 흉터가 거의 남지 않고 회복이 빠르다.\n수술 기구 가격도 상대적으로 저렴해 기존 로봇수술 대비 비용이 적다. 2009년 개소한 이대목동병원 로봇수술센터는 문혜성 산부인과 교수가 센터장을 맡은 후 젊은 부인종양질환 환자를 위해 싱글 사이트 로봇수술을 특화 육성했다.\n환자 만족도도 높다.\n싱글 사이트 로봇수술을 받은 환자 134명을 대상으로 설문 조사한 결과 56%가 매우 만족, 32.8%가 만족한다고 응답했다.\n47.8%는 이 수술이 안전하다고 생각해 다른 사람에게 추천하겠다고 답했다.\n61.1%는 수술 후 통증 점수가 3~5점으로 낮게 나타났다.\n수술 점수는 1점부터 10점까지며, 숫자가 클수록 통증이 심하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이대목동병원(원장 유경하)은 싱글 사이트 로봇수술 500례를 돌파하며 세계에서 가장 많은 건수를 기록했다고 11일 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "싱글 사이트 로봇수술은 기존 로봇수술이 환자 배에 3~4곳 이상 절개했던 것과 달리 배꼽을 이용한 단일 구멍으로 수술 기구를 삽입한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수술 흉터가 거의 남지 않고 회복이 빠르다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수술 기구 가격도 상대적으로 저렴해 기존 로봇수술 대비 비용이 적다. 2009년 개소한 이대목동병원 로봇수술센터는 문혜성 산부인과 교수가 센터장을 맡은 후 젊은 부인종양질환 환자를 위해 싱글 사이트 로봇수술을 특화 육성했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "환자 만족도도 높다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "싱글 사이트 로봇수술을 받은 환자 134명을 대상으로 설문 조사한 결과 56%가 매우 만족, 32.8%가 만족한다고 응답했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "47.8%는 이 수술이 안전하다고 생각해 다른 사람에게 추천하겠다고 답했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "61.1%는 수술 후 통증 점수가 3~5점으로 낮게 나타났다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "수술 점수는 1점부터 10점까지며, 숫자가 클수록 통증이 심하다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이대목동병원, 싱글 사이트 로봇수술 세계 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007919",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "알츠하이머병 진단 기술개발",
+		"newsSubTitle": "KAIST연구팀 고감도 나노광학측정기술 성과",
+		"newsContent": "KAIST 바이오 및 뇌공학과 연구팀(오영재 박사과정 주도·사진)은 소분자 생화합물 검출을 위한 획기적인 고감도 나노광학측정기술을 개발했다.\n소분자 생화합물은 분자량이 작은 생체내 분자들로 다양한 세포의 세포막을 드나들며 세포간의 신호전달 등에 큰 역할을 담당한다.\n최근에는 제약업계에서도 소분자 생화합물을 이용한 신약 개발 관련 연구 및 개발에 큰 관심을 기울이고 있다.\n연구팀은 사람의 머리카락 단면적의 70만배 보다 작은 나노유체관내 유동특성을 이용해 나노몰(nM) 수준의 농도를 갖는 극미량의 소분자 생화합물의 농도를 국소적으로 증가시켰다.\n이후 나노플라즈모닉 광학기술과 접목해 측정하는 빛의 세기를 1만배 이상 향상시켜, 별도의 생화학처리를 사용하지 않은 도파민(Dopamine)과 가바(GABA)와 같은 신경전달물질을 1초 이내에 구별하는 데 성공했다.\n이 결과는 현존 세계 최고수준의 검출한계를 수백배 이상 향상시킨 기술로 평가받고 있다.\n앞으로 소분자 생화합물을 이용한 다양한 글로벌 신약개발은 물론, 알츠하이머병과 같은 퇴행성 신경질환의 조기진단 및 뇌기능 진단기술에 크게 기여할 수 있을 것으로 기대된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KAIST 바이오 및 뇌공학과 연구팀(오영재 박사과정 주도·사진)은 소분자 생화합물 검출을 위한 획기적인 고감도 나노광학측정기술을 개발했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소분자 생화합물은 분자량이 작은 생체내 분자들로 다양한 세포의 세포막을 드나들며 세포간의 신호전달 등에 큰 역할을 담당한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근에는 제약업계에서도 소분자 생화합물을 이용한 신약 개발 관련 연구 및 개발에 큰 관심을 기울이고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연구팀은 사람의 머리카락 단면적의 70만배 보다 작은 나노유체관내 유동특성을 이용해 나노몰(nM) 수준의 농도를 갖는 극미량의 소분자 생화합물의 농도를 국소적으로 증가시켰다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 나노플라즈모닉 광학기술과 접목해 측정하는 빛의 세기를 1만배 이상 향상시켜, 별도의 생화학처리를 사용하지 않은 도파민(Dopamine)과 가바(GABA)와 같은 신경전달물질을 1초 이내에 구별하는 데 성공했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 결과는 현존 세계 최고수준의 검출한계를 수백배 이상 향상시킨 기술로 평가받고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞으로 소분자 생화합물을 이용한 다양한 글로벌 신약개발은 물론, 알츠하이머병과 같은 퇴행성 신경질환의 조기진단 및 뇌기능 진단기술에 크게 기여할 수 있을 것으로 기대된다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "생필품 소비자가격, 출고가 오르면 즉각 반영 내릴땐 늑장",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

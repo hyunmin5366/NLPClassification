@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331126",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "엘텍코리아, 고성능 프리미엄 영상분석 및 관제 특화 서버 출시",
+		"newsSubTitle": "",
+		"newsContent": "고성능 저발열 국산서버 제조사 엘텍코리아(대표 김세호, 이풍연)는 최대 150만 IOPS 구현이 가능한 프리미엄 AI 영상분석 특화 서버 'MP320'과 영상관제 특화 서버 'MP330'을 출시했다고 15일 밝혔다.\n출시된 프리미엄 서버 2종은 엘텍코리아의 글로벌 특허기술로 DISK I/O 병목현상을 제거했다.\nCPU 성능을 90% 이상 사용해도 I/O 성능이 저하되지 않고 CPU 최고 온도를 10도 이상 낮게 유지할 수 있다.\n특히 MP320에는 NVIDA의 최신 GPU가 장착, 영상분석에 탁월한 성능을 발휘한다.\n엘텍코리아 기술연구소는 \\\"AI 영상분석 특화 서버 MP320은 고속 I/O 처리를 통해 동급 GPU서버와 비교해 더 많은 채널과 프레임을 분석할 수 있다\\\"며 \\\"이를 통해 AI 영상분석 솔루션에 최적의 성능을 구현 한다\\\"고 말했다.\n또 \\\"MP330은 최대 256채널까지 관제가 가능해 국가기반 시설과 지능형 교통관제시스템에 사용되는 CCTV는 물론 스마트시티, 스마트팩토리, 스마트물류 등 영상관제가 필요한 분야에 최적화됐다\\\"고 덧붙였다.\n유응준 엔비디아코리아 대표는 \\\"MP320 서버는 엔비디아 데이터센터 GPU와 결합될 때 최고 성능을 발휘 한다\\\"며 \\\"엘텍코리아의 평창 평화데이터센터 사업에도 협력해 함께하길 바란다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고성능 저발열 국산서버 제조사 엘텍코리아(대표 김세호, 이풍연)는 최대 150만 IOPS 구현이 가능한 프리미엄 AI 영상분석 특화 서버 'MP320'과 영상관제 특화 서버 'MP330'을 출시했다고 15일 밝혔다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "출시된 프리미엄 서버 2종은 엘텍코리아의 글로벌 특허기술로 DISK I/O 병목현상을 제거했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "CPU 성능을 90% 이상 사용해도 I/O 성능이 저하되지 않고 CPU 최고 온도를 10도 이상 낮게 유지할 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 MP320에는 NVIDA의 최신 GPU가 장착, 영상분석에 탁월한 성능을 발휘한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엘텍코리아 기술연구소는 \\\"AI 영상분석 특화 서버 MP320은 고속 I/O 처리를 통해 동급 GPU서버와 비교해 더 많은 채널과 프레임을 분석할 수 있다\\\"며 \\\"이를 통해 AI 영상분석 솔루션에 최적의 성능을 구현 한다\\\"고 말했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 \\\"MP330은 최대 256채널까지 관제가 가능해 국가기반 시설과 지능형 교통관제시스템에 사용되는 CCTV는 물론 스마트시티, 스마트팩토리, 스마트물류 등 영상관제가 필요한 분야에 최적화됐다\\\"고 덧붙였다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유응준 엔비디아코리아 대표는 \\\"MP320 서버는 엔비디아 데이터센터 GPU와 결합될 때 최고 성능을 발휘 한다\\\"며 \\\"엘텍코리아의 평창 평화데이터센터 사업에도 협력해 함께하길 바란다\\\"고 말했다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엘텍코리아, 고성능 프리미엄 영상분석 및 관제 특화 서버 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

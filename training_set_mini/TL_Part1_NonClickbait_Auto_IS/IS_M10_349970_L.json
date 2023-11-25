@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349970",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "방통위, 구글 '안드로이드 오토' 갑질 논란 실태점검",
+		"newsSubTitle": "null",
+		"newsContent": "방송통신위원회가 구글의 차량용 플랫폼 '안드로이드 오토' 갑질 논란과 관련해 실태 점검에 나섰다.\n방통위 관계자는 16일 \\\"구글 안드로이드 오토가 이용자를 차별했는지 실태점검 중\\\"이라고 말했다.\n실태점검에서 전기통신사업법 위반 의심 사례가 나오면 사실조사로 전환한다.\n안드로이드 오토는 구글이 개발한 차량용 운영체제(OS)로, 스마트폰과 차량 대시보드를 연동시키는 서비스다.\n이를 이용하면 스마트폰 앱을 차량에서도 이용할 수 있다.\n다만, 구글이 운영하는 구글플레이가 아닌 원스토어, 삼성갤럭시스토어 등에서 다운로드 받은 앱은 안드로이드 오토에서 실행되지 않는다.\n예컨대 원스토어에서 티맵이나 플로·지니뮤직 등의 앱을 다운받았다면 안드로이드 오토에선 구동할 수 없다.\n이에 대해 국회 과학기술정보방송통신위원회 소속 양정숙 의원(무소속)은 \\\"다른 앱마켓에서 다운받았다는 이유만으로 앱을 차단하고 서비스를 제한하는 행태는 전형적인 지배력 남용과 불공정행위에 해당한다\\\"며 \\\"이는 전기통신사업법 등 명백한 현행법 위반으로, 정부의 철저한 실태조사와 위법 행위에 대한 강력한 제재가 필요하다\\\"고 지적했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송통신위원회가 구글의 차량용 플랫폼 '안드로이드 오토' 갑질 논란과 관련해 실태 점검에 나섰다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방통위 관계자는 16일 \\\"구글 안드로이드 오토가 이용자를 차별했는지 실태점검 중\\\"이라고 말했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "실태점검에서 전기통신사업법 위반 의심 사례가 나오면 사실조사로 전환한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안드로이드 오토는 구글이 개발한 차량용 운영체제(OS)로, 스마트폰과 차량 대시보드를 연동시키는 서비스다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 이용하면 스마트폰 앱을 차량에서도 이용할 수 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만, 구글이 운영하는 구글플레이가 아닌 원스토어, 삼성갤럭시스토어 등에서 다운로드 받은 앱은 안드로이드 오토에서 실행되지 않는다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "예컨대 원스토어에서 티맵이나 플로·지니뮤직 등의 앱을 다운받았다면 안드로이드 오토에선 구동할 수 없다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 대해 국회 과학기술정보방송통신위원회 소속 양정숙 의원(무소속)은 \\\"다른 앱마켓에서 다운받았다는 이유만으로 앱을 차단하고 서비스를 제한하는 행태는 전형적인 지배력 남용과 불공정행위에 해당한다\\\"며 \\\"이는 전기통신사업법 등 명백한 현행법 위반으로, 정부의 철저한 실태조사와 위법 행위에 대한 강력한 제재가 필요하다\\\"고 지적했다.",
+				"sentenceSize": 187
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방통위, 구글 '안드로이드 오토' 갑질 논란 실태점검",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

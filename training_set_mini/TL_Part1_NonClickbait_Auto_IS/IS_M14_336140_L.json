@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336140",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[나노코리아 2021]과기정통부 장관상 - 김상현 KAIST 교수",
+		"newsSubTitle": "",
+		"newsContent": "김상현 한국과학기술원(KAIST) 전기 및 전자공학부 김상현 교수는 모놀리식 3차원 집적 기술과 이를 이용한 반도체 소자 분야에서 탁월한 연구 성과를 거둬 과학기술정보통신부 장관상을 수상했다.\n김 교수는 수년간 III-V족 화합물 반도체 및 Ge의 3차원 집적 공정 방식을 제시 및 개발했으며 이를 활용한 다양한 소자 연구 분야를 선도했다는 평가다.\n최근에는 특히 실리콘(Si) CMOS 회로 위에 III-V 고성능 RF 소자를 모놀리식 3차원 집적해 세계 최고 수준 RF 특성을 확보했다.\n향후 통신소자 및 양자 컴퓨팅용 readout 회로에서의 응용 가능성을 제시했다는 평가다.\n또 비교적 큰 사이즈 소자에서도 첨단 Si CMOS의 RF를 능가할 수 있다는 점에서 새로운 형태 칩 제작 가능성을 보여줬다.\n김상현 교수는 모놀리식 3차원 집적 기술을 활용 시 성능을 극대화할 수 있는 인공지능 소자, 이미지 센서, 마이크로 LED 디스플레이와 같은 다양한 반도체 소자 연구를 수행하며 비메모리 반도체 분야 인력을 양성하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김상현 한국과학기술원(KAIST) 전기 및 전자공학부 김상현 교수는 모놀리식 3차원 집적 기술과 이를 이용한 반도체 소자 분야에서 탁월한 연구 성과를 거둬 과학기술정보통신부 장관상을 수상했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김 교수는 수년간 III-V족 화합물 반도체 및 Ge의 3차원 집적 공정 방식을 제시 및 개발했으며 이를 활용한 다양한 소자 연구 분야를 선도했다는 평가다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근에는 특히 실리콘(Si) CMOS 회로 위에 III-V 고성능 RF 소자를 모놀리식 3차원 집적해 세계 최고 수준 RF 특성을 확보했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "향후 통신소자 및 양자 컴퓨팅용 readout 회로에서의 응용 가능성을 제시했다는 평가다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 비교적 큰 사이즈 소자에서도 첨단 Si CMOS의 RF를 능가할 수 있다는 점에서 새로운 형태 칩 제작 가능성을 보여줬다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김상현 교수는 모놀리식 3차원 집적 기술을 활용 시 성능을 극대화할 수 있는 인공지능 소자, 이미지 센서, 마이크로 LED 디스플레이와 같은 다양한 반도체 소자 연구를 수행하며 비메모리 반도체 분야 인력을 양성하고 있다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[나노코리아 2021]과기정통부 장관상 - 김상현 KAIST 교수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

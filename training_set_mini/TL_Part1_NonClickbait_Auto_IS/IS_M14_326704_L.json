@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326704",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "넷플릭스, 미국·캐나다서 1년만에 요금 또 인상",
+		"newsSubTitle": "",
+		"newsContent": "온라인 동영상 서비스(OTT) 업체 넷플릭스가 미국과 캐나다에서 1년여 만에 요금을 또 인상했다.\n넷플릭스는 북미 지역 가입자 월 구독료를 1∼2달러씩 올렸다고 15일(현지시간) 로이터 통신 등이 보도했다.\n2명이 동시에 이용할 수 있는 스탠더드 플랜 요금은 미국에서 1.50달러 오른 15.49달러로 책정됐다.\n캐나다에서도 스탠더드 요금제는 캐나다 달러 기준 16.49달러로 인상됐다.\n넷플릭스는 이와 함께 미국과 캐나다에서 기본, 프리미엄 월 구독료도 올렸다.\n북미 지역 월 구독료 인상은 2020년 10월 말 이후 1년 2개월 만이다.\n넷플릭스의 전 세계 가입자는 2억1350만명이고, 이중 미국과 캐나다 고객은 7400만명이다.\n로이터 통신은 스트리밍 시장 경쟁이 치열해지자 넷플릭스가 콘텐츠 투자 비용을 확보하기 위해 가격을 올렸다고 전했다.\nCNN 방송은 '넷플릭스는 콘텐츠에 수십억 달러를 쓰고 있고 새 가입자 유치는 점점 어려워지고 있다'며 '소비자 요금을 올리는 것은 매출 확대를 위한 손쉬운 방법'이라고 보도했다.\n넷플릭스는 성명에서 '우리는 다양하고 질 좋은 엔터테인먼트 옵션을 계속 제공하기 위해 가격을 업데이트하고 있다'고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "온라인 동영상 서비스(OTT) 업체 넷플릭스가 미국과 캐나다에서 1년여 만에 요금을 또 인상했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "넷플릭스는 북미 지역 가입자 월 구독료를 1∼2달러씩 올렸다고 15일(현지시간) 로이터 통신 등이 보도했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2명이 동시에 이용할 수 있는 스탠더드 플랜 요금은 미국에서 1.50달러 오른 15.49달러로 책정됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "캐나다에서도 스탠더드 요금제는 캐나다 달러 기준 16.49달러로 인상됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "넷플릭스는 이와 함께 미국과 캐나다에서 기본, 프리미엄 월 구독료도 올렸다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "북미 지역 월 구독료 인상은 2020년 10월 말 이후 1년 2개월 만이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "넷플릭스의 전 세계 가입자는 2억1350만명이고, 이중 미국과 캐나다 고객은 7400만명이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "로이터 통신은 스트리밍 시장 경쟁이 치열해지자 넷플릭스가 콘텐츠 투자 비용을 확보하기 위해 가격을 올렸다고 전했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "CNN 방송은 '넷플릭스는 콘텐츠에 수십억 달러를 쓰고 있고 새 가입자 유치는 점점 어려워지고 있다'며 '소비자 요금을 올리는 것은 매출 확대를 위한 손쉬운 방법'이라고 보도했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "넷플릭스는 성명에서 '우리는 다양하고 질 좋은 엔터테인먼트 옵션을 계속 제공하기 위해 가격을 업데이트하고 있다'고 밝혔다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "넷플릭스, 미국·캐나다서 1년만에 요금 또 인상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

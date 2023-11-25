@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354871",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "모티브인텔리전스, TG360과 광고데이터 제휴",
+		"newsSubTitle": "null",
+		"newsContent": "애드테크기업 모티브인텔리전스는 5일 TG360 테크놀로지스와 데이터 제휴 협약을 체결하고, TG360의 DMP(Data Management Platform) 기반 고객 행동 분석 솔루션 '몰레큘'을 도입한다고 밝혔다.\n모티브인텔리전스의 '크로스타겟'은 SK플래닛, 롯데멤버스 딥애드(DeepAd), 로플랫 데이터 등 4000만 비식별 데이터를 동시에 보유한 DSP(Demand Side Platform·광고주 플랫폼)다.\n여기에 TG360의 솔루션 도입으로 새로운 유형 고객 데이터를 추가 확보하고, 광고주에 맞는 타겟군 확장, 신규 고객 확보, 마케팅 성과 개선이 가능해진다는 게 모티브인텔리전스의 설명이다.\n몰레큘은 다양한 비식별 데이터를 수집해 AI(인공지능) 알고리즘 분석을 거친 뒤 새롭게 정제한 데이터로 △고객 분류·분석 △인사이트 도출 △마케팅 실행까지 가능하게 만든 통합 데이터 솔루션이다.\n온·오프라인 행동 데이터는 결제 이력·키워드 검색·관심사 데이터 등 6개 카테고리로 분류된다.\n양준모 모티브인텔리전스 대표는 \\\"이번 데이터 제휴 협약 체결로 광고주는 더욱 다양한 예상 고객층에게 도달할 수 있게 됐다\\\"며 \\\"광고주에게 만족스러운 서비스를 제공하는 동시에 개인정보 보호와 데이터 보안 강화에도 만전을 기해 신뢰 받는 플랫폼이 되도록 노력할 것\\\"이라고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애드테크기업 모티브인텔리전스는 5일 TG360 테크놀로지스와 데이터 제휴 협약을 체결하고, TG360의 DMP(Data Management Platform) 기반 고객 행동 분석 솔루션 '몰레큘'을 도입한다고 밝혔다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "모티브인텔리전스의 '크로스타겟'은 SK플래닛, 롯데멤버스 딥애드(DeepAd), 로플랫 데이터 등 4000만 비식별 데이터를 동시에 보유한 DSP(Demand Side Platform·광고주 플랫폼)다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "여기에 TG360의 솔루션 도입으로 새로운 유형 고객 데이터를 추가 확보하고, 광고주에 맞는 타겟군 확장, 신규 고객 확보, 마케팅 성과 개선이 가능해진다는 게 모티브인텔리전스의 설명이다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "몰레큘은 다양한 비식별 데이터를 수집해 AI(인공지능) 알고리즘 분석을 거친 뒤 새롭게 정제한 데이터로 △고객 분류·분석 △인사이트 도출 △마케팅 실행까지 가능하게 만든 통합 데이터 솔루션이다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "온·오프라인 행동 데이터는 결제 이력·키워드 검색·관심사 데이터 등 6개 카테고리로 분류된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양준모 모티브인텔리전스 대표는 \\\"이번 데이터 제휴 협약 체결로 광고주는 더욱 다양한 예상 고객층에게 도달할 수 있게 됐다\\\"며 \\\"광고주에게 만족스러운 서비스를 제공하는 동시에 개인정보 보호와 데이터 보안 강화에도 만전을 기해 신뢰 받는 플랫폼이 되도록 노력할 것\\\"이라고 했다.",
+				"sentenceSize": 157
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모티브인텔리전스, TG360과 광고데이터 제휴",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339113",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "CT·MRI 정보 민간 개방, 의료AI '데이터 접근성' 높아진다",
+		"newsSubTitle": "",
+		"newsContent": "정부가 이르면 올해 안에 컴퓨터단층촬영(CT), 자기공명영상(MRI) 등 의료 영상 정보를 공공 데이터로 개방한다.\n병원에서만 얻을 수 있는 의료 영상 정보 접근성이 향상되면서 인공지능(AI) 개발이 촉진될 것으로 기대된다.\n11일 건강보험심사평가원(심평원)은 의료 영상 정보를 질환별로 분류, 정제 작업을 거쳐 올해 안에 단계별로 개방하는 것을 검토하고 있다.\n원 데이터가 아닌 비식별화와 레이블링 등 활용성을 높여 민간에 개방하는 것이 목표다.\n심평원은 병원이 제출한 진료비 청구를 심사하기 위한 증빙 자료로 CT, MRI 등 의료 영상 정보를 받고 있다.\n6월 기준 축적한 데이터 양은 약 70만건이다.\n심사용으로 활용하는 데이터를 민간에 연구용으로 개방하기 위한 기술∙법률 검토에 착수했다.\n△개방 대상 질환 △데이터 품질 △데이터베이스(DB) 구축 △표준화 △의료영상 수집∙활용∙개인정보 등 법률 근거 검토 등이다.\n전략을 수립해 이르면 올해 말, 늦어도 내년 초에는 단계적으로 개방한다는 방침이다.\n안미라 심평원 빅데이터사업부장은 \\\"업무상 심사하면서 확인이 필요한 의료 영상을 받는 데 심사에 활용하고, 이후 개방할 예정\\\"이라면서 \\\"개방에 필요한 기술과 법률 검토를 하고 있는 가운데 개방 범위, 방법, 시기를 논의하고 있다\\\"고 밝혔다.\n우선 내부 영상을 분류∙정제해 약 10만건의 의료 영상 개방 DB를 구축한다.\n이를 기반으로 구축된 의료 영상과 진료 정보 데이터를 민간에 개방한다.\n개방 데이터는 비식별화를 거치고, 활용도를 높이기 위해 병변 등을 표시한 레이블링 작업도 한다.\n다만 외부 반출을 차단해 현행 청구 데이터처럼 심평원 빅데이터센터 등으로 내부에서만 활용토록 한다.\n현재 심평원은 보건의료 빅데이터 개방 플랫폼에서 약 3452억건의 텍스트 기반 의료 정보를 개방한다.\n최근 의료 영상 정보를 활용해 질병을 진단, 예측 지원하는 의료AI 개발이 활발하다.\n식품의약품안전처는 세계 최초로 빅데이터∙AI 의료기기 인허가 가이드라인까지 개발하면서 관련 산업을 장려한다.\n그동안 의료AI 기업은 핵심인 데이터를 병원을 통해서만 접근했다.\n이마저도 일부 기업만 막대한 비용을 제공해야 얻을 수 있었다.\n정부가 공공 데이터로 개방하면 병원 종속에서 탈피, 의료 접근성 및 비용 절감이 기대된다.\n한 의료AI 기업 대표는 \\\"의료AI 개발을 위해 대형병원에 정보를 요청하면 수락 자체도 어렵지만 협약을 맺어도 1000장에 1억원이 넘는 비용 때문에 부담이 막대했다\\\"면서 \\\"정부에서 공공데이터로 개방하면 스타트업이라도 정보 접근성을 높이고 비용 부담을 줄일 수 있어 의미가 크다\\\"고 환영했다.\n서준범 대한의료인공지능학회장(서울아산병원 교수)은 \\\"국가기관에서 AI 개발의 핵심이 되는 영상을 공개하는 것은 의미가 있지만 시민사회단체의 반발 등을 우려해 소극적인 면이 있다\\\"면서 \\\"심평원에서 의료 영상 정보를 공개하되 다양한 이해관계자와 논의, 발전 방안을 모색하는 기회로 삼아야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부가 이르면 올해 안에 컴퓨터단층촬영(CT), 자기공명영상(MRI) 등 의료 영상 정보를 공공 데이터로 개방한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "병원에서만 얻을 수 있는 의료 영상 정보 접근성이 향상되면서 인공지능(AI) 개발이 촉진될 것으로 기대된다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "11일 건강보험심사평가원(심평원)은 의료 영상 정보를 질환별로 분류, 정제 작업을 거쳐 올해 안에 단계별로 개방하는 것을 검토하고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "원 데이터가 아닌 비식별화와 레이블링 등 활용성을 높여 민간에 개방하는 것이 목표다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "심평원은 병원이 제출한 진료비 청구를 심사하기 위한 증빙 자료로 CT, MRI 등 의료 영상 정보를 받고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "6월 기준 축적한 데이터 양은 약 70만건이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "심사용으로 활용하는 데이터를 민간에 연구용으로 개방하기 위한 기술∙법률 검토에 착수했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "△개방 대상 질환 △데이터 품질 △데이터베이스(DB) 구축 △표준화 △의료영상 수집∙활용∙개인정보 등 법률 근거 검토 등이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "전략을 수립해 이르면 올해 말, 늦어도 내년 초에는 단계적으로 개방한다는 방침이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "안미라 심평원 빅데이터사업부장은 \\\"업무상 심사하면서 확인이 필요한 의료 영상을 받는 데 심사에 활용하고, 이후 개방할 예정\\\"이라면서 \\\"개방에 필요한 기술과 법률 검토를 하고 있는 가운데 개방 범위, 방법, 시기를 논의하고 있다\\\"고 밝혔다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "우선 내부 영상을 분류∙정제해 약 10만건의 의료 영상 개방 DB를 구축한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이를 기반으로 구축된 의료 영상과 진료 정보 데이터를 민간에 개방한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "개방 데이터는 비식별화를 거치고, 활용도를 높이기 위해 병변 등을 표시한 레이블링 작업도 한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "다만 외부 반출을 차단해 현행 청구 데이터처럼 심평원 빅데이터센터 등으로 내부에서만 활용토록 한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "현재 심평원은 보건의료 빅데이터 개방 플랫폼에서 약 3452억건의 텍스트 기반 의료 정보를 개방한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "최근 의료 영상 정보를 활용해 질병을 진단, 예측 지원하는 의료AI 개발이 활발하다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "식품의약품안전처는 세계 최초로 빅데이터∙AI 의료기기 인허가 가이드라인까지 개발하면서 관련 산업을 장려한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "그동안 의료AI 기업은 핵심인 데이터를 병원을 통해서만 접근했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이마저도 일부 기업만 막대한 비용을 제공해야 얻을 수 있었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "정부가 공공 데이터로 개방하면 병원 종속에서 탈피, 의료 접근성 및 비용 절감이 기대된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "한 의료AI 기업 대표는 \\\"의료AI 개발을 위해 대형병원에 정보를 요청하면 수락 자체도 어렵지만 협약을 맺어도 1000장에 1억원이 넘는 비용 때문에 부담이 막대했다\\\"면서 \\\"정부에서 공공데이터로 개방하면 스타트업이라도 정보 접근성을 높이고 비용 부담을 줄일 수 있어 의미가 크다\\\"고 환영했다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "서준범 대한의료인공지능학회장(서울아산병원 교수)은 \\\"국가기관에서 AI 개발의 핵심이 되는 영상을 공개하는 것은 의미가 있지만 시민사회단체의 반발 등을 우려해 소극적인 면이 있다\\\"면서 \\\"심평원에서 의료 영상 정보를 공개하되 다양한 이해관계자와 논의, 발전 방안을 모색하는 기회로 삼아야 한다\\\"고 말했다.",
+				"sentenceSize": 172
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "CT·MRI 정보 민간 개방, 의료AI '데이터 접근성' 높아진다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

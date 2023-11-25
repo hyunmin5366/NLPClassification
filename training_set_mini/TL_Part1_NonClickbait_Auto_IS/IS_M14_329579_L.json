@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329579",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "레이아이알, 생산성 개선 'VCSEL 에피 웨이퍼' 공정 개발...\\\"3D 센싱 시장 공략\\\"",
+		"newsSubTitle": "ToF 카메라 등에 쓰이는 'VCSEL 칩' 웨이퍼 제작 수작업 의존해 수율 낮아 식각공정 전 구멍 뚫어 산화 과정 개선 원가 절반가량 절감…3D센싱 시장 공략",
+		"newsContent": "국내 에피택셜 웨이퍼 생산업체인 레이아이알이 생산성과 수율을 개선한 '빅셀(VCSEL) 공정'을 개발해 양산을 앞뒀다.\n비행시간(ToF) 카메라, 3차원(D) 센싱 시장 확대로 VCSEL 기술이 주목받는 가운데 뛰어난 양산 능력으로 시장을 선점한다는 전략이다.\n10일 업계에 따르면 레이아이알은 VCSEL 에피택셜 웨이퍼를 안정적인 수율로 대량 양산할 수 있는 공정을 확보해 양산 준비에 박차를 가하고 있다.\n에피택셜 웨이퍼는 일반적인 웨이퍼 위에 화학 반응으로 단결정 막을 성장시킨 웨이퍼를 말한다.\nVCSEL 에피택셜 웨이퍼의 경우, 갈륨비소(GaAs) 웨이퍼 위에 300층 이상의 얇은 박막을 씌워 만든다.\nVCSEL은 '수직 캐비티 표면 광방출 레이저'를 뜻한다.\n반도체의 레이저 빔이 칩 표면 한가운데를 뚫고 수직으로 나오는 방식이다.\n측면에서 레이저 빔이 나오는 단면 발광 레이저 방식보다 모듈 결합이 훨씬 수월한 장점이 있다.\nVCSEL 칩은 최근 각광받고 있다.\n삼성 갤럭시, 애플 아이폰, 화웨이 플래그십 스마트폰 등에 3D 인식을 할 수 있는 ToF 장치 탑재가 늘어나고 있기 때문이다.\nToF는 피사체를 향해 발사한 빛이 튕겨 돌아오는 시간으로 거리를 계산해 사물의 입체감과 공간 정보, 움직임 등을 인식한다.\nToF 장치에서 발사하는 빛이 VCSEL 칩에서 나온다.\n3D 센싱 시장이 주목 받으면서 VCSEL 칩도 부상했지만 이 칩을 만드는 기반인 에피택셜 웨이퍼 제조는 쉽지 않다.\n빛이 통하는 통로를 남기고 불필요한 층을 없애는 산화 공정을 인간의 감에 의존하고 있기 때문이다.\n또 여러 장을 한꺼번에 제조할 수 없는데다, 산화 공정을 멈춰야 하는 시간을 임의로 측정해야 한다는 단점 때문에 생산성이 낮고 칩 가격은 하락하지 않았다.\n레이아이알은 독특한 아이디어로 문제를 해결했다.\n웨이퍼에 회로를 깎아내는 식각 공정을 하기 전, 아예 웨이퍼를 만드는 단계부터 빛이 통할 구멍을 뚫어놓은 뒤 불필요한 부분을 산화하는 방법을 개발했다.\n특정 층 산화가 진행되다가도 미리 뚫어놓은 구멍에 다다르면 저절로 멈추기 때문에, 사람의 감에 의존하지 않아도 품질 좋은 웨이퍼를 만들 수 있다는 장점이 있다.\n최원진 레이아이알 CTO는 “여러 에피택셜 웨이퍼를 동시에 만들 수 있는데다, 공정의 정확도까지 올라가서 기존 양산 칩보다 원가를 절반가량 낮출 수 있을 것”이라고 설명했다.\n레이아이알은 관련 기술로 국내 특허 4건, 미국 특허 1건을 등록했다.\n내년 웨이퍼 양산을 목표로 한다.\n회사는 중국 회사와 합작 법인으로 현지에 생산 기지를 마련했다.\n앞으로 국내외 칩 업체와 협력해 VCSEL 시장을 공략해 회사 몸집을 키운다는 전략이다.\n최원진 CTO는 “양산 이후에도 경쟁력을 키워 애플 등 유력 IT업체에 공급되는 칩에 활용되는 에피택셜 웨이퍼를 만들 것”이라는 포부를 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 에피택셜 웨이퍼 생산업체인 레이아이알이 생산성과 수율을 개선한 '빅셀(VCSEL) 공정'을 개발해 양산을 앞뒀다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비행시간(ToF) 카메라, 3차원(D) 센싱 시장 확대로 VCSEL 기술이 주목받는 가운데 뛰어난 양산 능력으로 시장을 선점한다는 전략이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "10일 업계에 따르면 레이아이알은 VCSEL 에피택셜 웨이퍼를 안정적인 수율로 대량 양산할 수 있는 공정을 확보해 양산 준비에 박차를 가하고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "에피택셜 웨이퍼는 일반적인 웨이퍼 위에 화학 반응으로 단결정 막을 성장시킨 웨이퍼를 말한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "VCSEL 에피택셜 웨이퍼의 경우, 갈륨비소(GaAs) 웨이퍼 위에 300층 이상의 얇은 박막을 씌워 만든다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "VCSEL은 '수직 캐비티 표면 광방출 레이저'를 뜻한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "반도체의 레이저 빔이 칩 표면 한가운데를 뚫고 수직으로 나오는 방식이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "측면에서 레이저 빔이 나오는 단면 발광 레이저 방식보다 모듈 결합이 훨씬 수월한 장점이 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "VCSEL 칩은 최근 각광받고 있다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "삼성 갤럭시, 애플 아이폰, 화웨이 플래그십 스마트폰 등에 3D 인식을 할 수 있는 ToF 장치 탑재가 늘어나고 있기 때문이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ToF는 피사체를 향해 발사한 빛이 튕겨 돌아오는 시간으로 거리를 계산해 사물의 입체감과 공간 정보, 움직임 등을 인식한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "ToF 장치에서 발사하는 빛이 VCSEL 칩에서 나온다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "3D 센싱 시장이 주목 받으면서 VCSEL 칩도 부상했지만 이 칩을 만드는 기반인 에피택셜 웨이퍼 제조는 쉽지 않다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "빛이 통하는 통로를 남기고 불필요한 층을 없애는 산화 공정을 인간의 감에 의존하고 있기 때문이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "또 여러 장을 한꺼번에 제조할 수 없는데다, 산화 공정을 멈춰야 하는 시간을 임의로 측정해야 한다는 단점 때문에 생산성이 낮고 칩 가격은 하락하지 않았다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "레이아이알은 독특한 아이디어로 문제를 해결했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "웨이퍼에 회로를 깎아내는 식각 공정을 하기 전, 아예 웨이퍼를 만드는 단계부터 빛이 통할 구멍을 뚫어놓은 뒤 불필요한 부분을 산화하는 방법을 개발했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "특정 층 산화가 진행되다가도 미리 뚫어놓은 구멍에 다다르면 저절로 멈추기 때문에, 사람의 감에 의존하지 않아도 품질 좋은 웨이퍼를 만들 수 있다는 장점이 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "최원진 레이아이알 CTO는 “여러 에피택셜 웨이퍼를 동시에 만들 수 있는데다, 공정의 정확도까지 올라가서 기존 양산 칩보다 원가를 절반가량 낮출 수 있을 것”이라고 설명했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "레이아이알은 관련 기술로 국내 특허 4건, 미국 특허 1건을 등록했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "내년 웨이퍼 양산을 목표로 한다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "회사는 중국 회사와 합작 법인으로 현지에 생산 기지를 마련했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "앞으로 국내외 칩 업체와 협력해 VCSEL 시장을 공략해 회사 몸집을 키운다는 전략이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "최원진 CTO는 “양산 이후에도 경쟁력을 키워 애플 등 유력 IT업체에 공급되는 칩에 활용되는 에피택셜 웨이퍼를 만들 것”이라는 포부를 밝혔다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "레이아이알, 생산성 개선 'VCSEL 에피 웨이퍼' 공정 개발...\\\"3D 센싱 시장 공략\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337291",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "위드앤아이티, 중소기업용 나스 출시",
+		"newsSubTitle": "",
+		"newsContent": "나스(NAS:Network Attached Storage) 브랜드 테라마스터 국내 총판 위드앤아이티(대표 강명일)는 중소기업용 4베이 타워형 나스 F4-421을 출시했다.\nF4-421은 중소기업 비즈니스의 다양한 요구사항을 만족하도록 설계됐다.\n인텔 쿼드코어 1.5㎓(최대 터보 2.3㎓)프로세서를 탑재해 뛰어난 성능을 자랑한다.\n읽기 속도 410MB/s, 쓰기 속도 405MB/s로 속도도 우수하다. 4GB DDR3 메모리와 4개 1000Mbps 네트워크 인터페이스를 장착했다.\n데이터 보호 및 보안 기능도 뛰어나다.\nAES 하드웨어 폴더 암호화, 네트워크 전송 암호화, 클라우드 드라이브 데이터 백업, 자동 스케쥴링 백업 기능을 지원한다.\nBtrfs 파일 시스템으로 최고의 스토리지 기술과 최적화된 스냅샷 기술도 제공한다.\n위드앤아이티는 “고객은 향상된 데이터 보안, 데이터 손상 예방, 최소 유지 비용 혜택을 얻을 수 있다”면서 “더 완벽하고 안정적이며 고객이 신뢰할 수 있는 데이터 스토리지 솔루션”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "나스(NAS:Network Attached Storage) 브랜드 테라마스터 국내 총판 위드앤아이티(대표 강명일)는 중소기업용 4베이 타워형 나스 F4-421을 출시했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "F4-421은 중소기업 비즈니스의 다양한 요구사항을 만족하도록 설계됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인텔 쿼드코어 1.5㎓(최대 터보 2.3㎓)프로세서를 탑재해 뛰어난 성능을 자랑한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "읽기 속도 410MB/s, 쓰기 속도 405MB/s로 속도도 우수하다. 4GB DDR3 메모리와 4개 1000Mbps 네트워크 인터페이스를 장착했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "데이터 보호 및 보안 기능도 뛰어나다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "AES 하드웨어 폴더 암호화, 네트워크 전송 암호화, 클라우드 드라이브 데이터 백업, 자동 스케쥴링 백업 기능을 지원한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "Btrfs 파일 시스템으로 최고의 스토리지 기술과 최적화된 스냅샷 기술도 제공한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "위드앤아이티는 “고객은 향상된 데이터 보안, 데이터 손상 예방, 최소 유지 비용 혜택을 얻을 수 있다”면서 “더 완벽하고 안정적이며 고객이 신뢰할 수 있는 데이터 스토리지 솔루션”이라고 말했다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "위드앤아이티, 중소기업용 나스 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

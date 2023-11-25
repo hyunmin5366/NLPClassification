@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350550",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "윤석열 대선출마 258만명이 봤다…시청률 최고는 '경북 19.8%'",
+		"newsSubTitle": "null",
+		"newsContent": "지난 29일 윤석열 전 검찰총장의 대선출마 선언 당시 방송 시청률이 두 자릿수를 기록했다.\n전국에서 가장 시청률이 높았던 곳은 경상북도였다.\n30일 시청률조사기업 TNMS에 따르면 윤 전 총장의 대선 출마 선언을 방송한 7개 채널의 전국가구 시청률 합은 11.0%로 258만명이 시청했다.\n한 주전 동시간대 시청률 7%보다 4% 더 상승한 것이다.\n시청자 수도 89만 명 늘었다.\n전국에서 경북 시청률이 19.8%로 가장 높았다.\n수도권 시청률 9.6%와 큰 차이를 보였다.\n시청자들은 이날 중계방송을 TV조선을 통해 가장 많이 시청했다.\nTV조선 시청률이 3.3%로 가장 높았고 SBS, JTBC, 채널A, YTN 등의 순이었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 29일 윤석열 전 검찰총장의 대선출마 선언 당시 방송 시청률이 두 자릿수를 기록했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전국에서 가장 시청률이 높았던 곳은 경상북도였다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "30일 시청률조사기업 TNMS에 따르면 윤 전 총장의 대선 출마 선언을 방송한 7개 채널의 전국가구 시청률 합은 11.0%로 258만명이 시청했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한 주전 동시간대 시청률 7%보다 4% 더 상승한 것이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시청자 수도 89만 명 늘었다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전국에서 경북 시청률이 19.8%로 가장 높았다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "수도권 시청률 9.6%와 큰 차이를 보였다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "시청자들은 이날 중계방송을 TV조선을 통해 가장 많이 시청했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "TV조선 시청률이 3.3%로 가장 높았고 SBS, JTBC, 채널A, YTN 등의 순이었다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윤석열 대선출마 258만명이 봤다…시청률 최고는 '경북 19.8%'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

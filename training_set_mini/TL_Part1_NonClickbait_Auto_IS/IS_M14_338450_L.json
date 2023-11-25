@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338450",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "애플, 중국 애플스토어에 '알리페이' 도입",
+		"newsSubTitle": "",
+		"newsContent": "애플이 중국 애플스토어에 '알리페이' 결제시스템을 도입한다.\n애플이 제3자 결제 서비스를 받아들인 사례는 처음이다.\n미국 파이낸셜타임스는 애플이 중국 41개 애플스토어에서 알리페이 결제를 허용한다고 보도했다.\n애플은 세계 20여개국 500개 애플스토어를 구축했지만 현금∙신용카드∙애플페이 이외 결제시스템을 허용한 사례는 전무하다.\n알리페이는 알리바바그룹 금융 계열사 앤트파이낸셜 결제시스템으로 중국 모바일 결제 시장점유율 50%가량을 차지하고 있다.\n점유율 40%를 차지하는 위챗페이와 쌍벽을 이룬다.\n외신은 알리페이 등 모바일 결제시스템이 보편화된 중국 시장 상황을 고려한 조치라고 판단했다.\n화웨이, 오포, 비보 등과 중국 시장 경쟁이 심화되면서 애플이 예외적으로 제3자 결제서비스를 허용한 것이라고 분석했다.\nGSM아레나는 \\\"애플은 지난해 중국에서 4110만대 스마트폰을 판매했고 447억달러 순매출을 기록했다\\\"면서 \\\"수익과 직결된 플랫폼을 구축하기 위해 애쓰고 있다\\\"고 말했다.\n우리나라 상황과는 대조된다.\n애플스토어 가로수길에서는 휴대폰 개통에 필요한 '신분증 스캐너' 도입을 애플이 거부하고 있다.\n애플 제품∙서비스 이외의 것을 애플스토어에 들일 수 없다는 방침 때문이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 중국 애플스토어에 '알리페이' 결제시스템을 도입한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애플이 제3자 결제 서비스를 받아들인 사례는 처음이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미국 파이낸셜타임스는 애플이 중국 41개 애플스토어에서 알리페이 결제를 허용한다고 보도했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "애플은 세계 20여개국 500개 애플스토어를 구축했지만 현금∙신용카드∙애플페이 이외 결제시스템을 허용한 사례는 전무하다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "알리페이는 알리바바그룹 금융 계열사 앤트파이낸셜 결제시스템으로 중국 모바일 결제 시장점유율 50%가량을 차지하고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "점유율 40%를 차지하는 위챗페이와 쌍벽을 이룬다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "외신은 알리페이 등 모바일 결제시스템이 보편화된 중국 시장 상황을 고려한 조치라고 판단했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "화웨이, 오포, 비보 등과 중국 시장 경쟁이 심화되면서 애플이 예외적으로 제3자 결제서비스를 허용한 것이라고 분석했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "GSM아레나는 \\\"애플은 지난해 중국에서 4110만대 스마트폰을 판매했고 447억달러 순매출을 기록했다\\\"면서 \\\"수익과 직결된 플랫폼을 구축하기 위해 애쓰고 있다\\\"고 말했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "우리나라 상황과는 대조된다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "애플스토어 가로수길에서는 휴대폰 개통에 필요한 '신분증 스캐너' 도입을 애플이 거부하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "애플 제품∙서비스 이외의 것을 애플스토어에 들일 수 없다는 방침 때문이다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플, 중국 애플스토어에 '알리페이' 도입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332779",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "현대차 '아반떼' 판매량 세계에서 3위, '투싼'은 8위 기록",
+		"newsSubTitle": "",
+		"newsContent": "현대자동차 '아반떼'가 지난해 세계 시장에서 세 번째로 많이 팔린 것으로 조사됐다.\n스포츠유틸리티차량(SUV) '투싼'은 '베스트셀링 상위 10개 모델'에 처음으로 뽑혔다.\n19일 차량 판매 정보 사이트 '베스트셀링카블로그닷컴'에 따르면 아반떼는 지난해 87만9224대가 판매됐다.\n1위는 토요타 '코롤라', 2위는 '포드 F-시리즈'로 집계됐다.\n아반떼 판매량은 2015년 91만3152대 보다 3.7% 줄었지만, 2015년 2위였던 폭스바겐 '골프'가 9.8%(9만2887대) 급감해 4위로 밀려나면서 3위가 됐다.\n투싼 판매량은 2015년에 비해 30% 가까이 늘어나 지난해 처음 글로벌 베스트셀링카 10위권에 올랐다.\n2015년 21위(58만614대)였던 투싼은 13계단이나 뛴 8위(74만6365대)를 기록, 닛산 '엑스-트레일러'(전체 순위 6위)에 이어 세계 SUV 모델 가운데 두 번째로 많이 팔렸다.\n현대차는 엑센트(52만9485대∙27위), i10(39만2345대∙46위), 쏘나타(37만8111대∙47위) 등 모두 5개 모델이 글로벌 베스트셀링카 50위 안에 들었다.\n기아차는 스포티지(57만5565대)가 23위, K3(46만107대)가 38위를 기록했다.\n특히 스포티지 판매량은 2015년(47만7351대)보다 20.6%, K3 판매량은 2015년(41만6162대)보다 10.6% 늘었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차 '아반떼'가 지난해 세계 시장에서 세 번째로 많이 팔린 것으로 조사됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스포츠유틸리티차량(SUV) '투싼'은 '베스트셀링 상위 10개 모델'에 처음으로 뽑혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "19일 차량 판매 정보 사이트 '베스트셀링카블로그닷컴'에 따르면 아반떼는 지난해 87만9224대가 판매됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "1위는 토요타 '코롤라', 2위는 '포드 F-시리즈'로 집계됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아반떼 판매량은 2015년 91만3152대 보다 3.7% 줄었지만, 2015년 2위였던 폭스바겐 '골프'가 9.8%(9만2887대) 급감해 4위로 밀려나면서 3위가 됐다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "투싼 판매량은 2015년에 비해 30% 가까이 늘어나 지난해 처음 글로벌 베스트셀링카 10위권에 올랐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2015년 21위(58만614대)였던 투싼은 13계단이나 뛴 8위(74만6365대)를 기록, 닛산 '엑스-트레일러'(전체 순위 6위)에 이어 세계 SUV 모델 가운데 두 번째로 많이 팔렸다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현대차는 엑센트(52만9485대∙27위), i10(39만2345대∙46위), 쏘나타(37만8111대∙47위) 등 모두 5개 모델이 글로벌 베스트셀링카 50위 안에 들었다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기아차는 스포티지(57만5565대)가 23위, K3(46만107대)가 38위를 기록했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특히 스포티지 판매량은 2015년(47만7351대)보다 20.6%, K3 판매량은 2015년(41만6162대)보다 10.6% 늘었다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대차 '아반떼' 판매량 세계에서 3위, '투싼'은 8위 기록",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

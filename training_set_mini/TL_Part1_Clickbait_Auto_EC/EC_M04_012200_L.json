@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012200",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "가입도 안했는데… 정보이용료 줄줄",
+		"newsSubTitle": "휴대폰 소액결제 피해 급증, 미사용 내역 부당결제 '최다'",
+		"newsContent": "휴대폰 소액결제 소비자 피해가 급증한 것으로 나타났다.\n편리성 때문에 누구나 쉽게 사용하고 있지만 부작용 또한 만만치 않은 실정이다.\n28일 한국소비자원 대전지원에 따르면 최근 3년간 접수된 소액결제 소비자 피해는 77건에 달한다. 2010년 19건이던 것이 2011년에는 12건으로 감소하는 듯했지만 2012년에 23건으로 증가했고, 올해도 지난 6월 말 현재 23건의 피해가 발생했다.\n소비자 피해 77건 중 가입하지 않은 사이트에서 요금이 결제되거나 사용하지 않은 인터넷 정보이용료가 결제되는 '미 사용 내역 부당결제'가 45.5%(35건)로 가장 많았다.\n이어 이용 기간 만료 후 '고지 없는 자동 연장'이 16.9%(13건), '스미싱' 및 '사용자 동의 없는 유료 이용 전환' 11.7% 등의 순이었다.\n이같은 소액결제 피해 중 66.2%(51건)만 배상 또는 환급, 부당행위 시정, 계약해제 조치가 이뤄졌다.\n또 처리금액이 확인된 50건의 총 처리금액은 345만원, 건당 평균 처리금액은 6만9000원으로 나타났다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "휴대폰 소액결제 소비자 피해가 급증한 것으로 나타났다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "편리성 때문에 누구나 쉽게 사용하고 있지만 부작용 또한 만만치 않은 실정이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "28일 한국소비자원 대전지원에 따르면 최근 3년간 접수된 소액결제 소비자 피해는 77건에 달한다. 2010년 19건이던 것이 2011년에는 12건으로 감소하는 듯했지만 2012년에 23건으로 증가했고, 올해도 지난 6월 말 현재 23건의 피해가 발생했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소비자 피해 77건 중 가입하지 않은 사이트에서 요금이 결제되거나 사용하지 않은 인터넷 정보이용료가 결제되는 '미 사용 내역 부당결제'가 45.5%(35건)로 가장 많았다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 이용 기간 만료 후 '고지 없는 자동 연장'이 16.9%(13건), '스미싱' 및 '사용자 동의 없는 유료 이용 전환' 11.7% 등의 순이었다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이같은 소액결제 피해 중 66.2%(51건)만 배상 또는 환급, 부당행위 시정, 계약해제 조치가 이뤄졌다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 처리금액이 확인된 50건의 총 처리금액은 345만원, 건당 평균 처리금액은 6만9000원으로 나타났다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "MG손해보험, 중복맞이 여름철 보양식 기부 나섰다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

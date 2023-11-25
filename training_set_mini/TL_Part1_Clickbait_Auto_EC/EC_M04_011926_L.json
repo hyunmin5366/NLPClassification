@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011926",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "전국민 절전동참, 최악의 전력난 고비 넘겼다",
+		"newsSubTitle": "수급경보 '준비' 발령",
+		"newsContent": "전국민이 절전에 동참하면서 순환정전까지 우려됐던 최악의 전력수급 위기를 가까스로 모면했다.\n14일 전력거래소에 따르면 이날 오후 1시42분께 순시예비력이 450kW 미만으로 하락해 전력수급경보 '준비'단계가 발령됐지만 곧바로 정상으로 돌아왔다.\n3일동안 전력수급 위기로 인해 자칫 전국적으로 순환정전까지 대비해야 할 상황이었지만 산업계 및 공공기관 절전, 국민 동참 등으로 전력공급에서 안정을 되찾게 된 것이다.\n지역에서도 올 들어 전력수요량이 대폭 늘어난 만큼 절전에 적극적으로 동참했다.\n한국전력 대전충남지역본부에 따르면 대전충남지역의 최대수요는 지난해 698만kW였지만 올 들어 폭염으로 인한 냉방수요 증가와 충남 서북부 지역의 대규모 산업단지 증가로 전년대비 72만kW(10.3%)가 증가한 770만kW에 달했다.\n직원 지인에게 절전요청 SMS(릴레이 방식, 1인 10명)를 발송하는 등 예비전력 440만kW를 유지를 도왔다.\n대전충남지역의 철강, 석유화학, 제지 업종의 산업체가 전국 수요관리량 700만kW의 11.6%인 80만kW를 수요관리를 통해 절감하기도 했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전국민이 절전에 동참하면서 순환정전까지 우려됐던 최악의 전력수급 위기를 가까스로 모면했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 전력거래소에 따르면 이날 오후 1시42분께 순시예비력이 450kW 미만으로 하락해 전력수급경보 '준비'단계가 발령됐지만 곧바로 정상으로 돌아왔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "3일동안 전력수급 위기로 인해 자칫 전국적으로 순환정전까지 대비해야 할 상황이었지만 산업계 및 공공기관 절전, 국민 동참 등으로 전력공급에서 안정을 되찾게 된 것이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지역에서도 올 들어 전력수요량이 대폭 늘어난 만큼 절전에 적극적으로 동참했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국전력 대전충남지역본부에 따르면 대전충남지역의 최대수요는 지난해 698만kW였지만 올 들어 폭염으로 인한 냉방수요 증가와 충남 서북부 지역의 대규모 산업단지 증가로 전년대비 72만kW(10.3%)가 증가한 770만kW에 달했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "직원 지인에게 절전요청 SMS(릴레이 방식, 1인 10명)를 발송하는 등 예비전력 440만kW를 유지를 도왔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대전충남지역의 철강, 석유화학, 제지 업종의 산업체가 전국 수요관리량 700만kW의 11.6%인 80만kW를 수요관리를 통해 절감하기도 했다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "뜨거운 8월 기업경기는 싸늘",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

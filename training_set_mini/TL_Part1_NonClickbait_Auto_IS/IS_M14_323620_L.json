@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323620",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "삼성전자 아틱, 머신러닝으로 진화하는 '클라우드' 서비스 제공",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자 사물인터넷(IoT) 플랫폼 '아틱'이 이전보다 더 똑똑해진다.\n아틱과 연동하는 클라우드에 기계학습(머신러닝) 기술을 적용, 비정상 데이터를 예측해 탐지한다.\n음성인식과 기계학습 등 미래 기술이 아틱에 녹아들면서 완성도가 점차 높아질 전망이다.\n10일 업계에 따르면 삼성전자는 아틱 클라우드에 데이터를 예측하고 비정상 데이터 여부를 판단하는 기계학습 기능을 추가 탑재했다.\n개발자가 아틱을 기반으로 서비스를 개발할 때 응용프로그램인터페이스(API)를 활용해 기계학습 규칙을 짤 수 있다.\n아틱에서 생성된 데이터를 분석할 뿐만 아니라 이 데이터를 근거로 예측 값을 만들고 데이터의 비·정상을 구별할 수 있다.\n기계학습으로 아틱 클라우드를 활용한 보다 진화된 IoT 기기를 개발이 유리해질 전망이다.\n아틱은 스마트 가전이나 IoT 기기에 탑재하는 하드웨어(모듈)와 소프트웨어로 구성된다.\n소프트웨어가 모듈을 제어하고 아틱 센서로 통신하면서 데이터를 주고 받는다.\n이 데이터를 받아 사용자에게 다양한 서비스를 제공하는 게 아틱 클라우드 핵심 역할이다.\n예를 들어 아틱을 적용한 전기밥솥은 안정적인 상태의 내부 압력을 기본 데이터를 전환한다.\n밥솥 압력에 이상 조짐이 생기면 비정상 데이터를 미리 감지, 사용자에게 알리거나 조치할 수 있다.\n아틱을 구매하면 클라우드 서비스를 무료로 쓸 수 있는 만큼 기계학습 서비스가 빠르게 확산될 수 있다.\n업계 관계자는 “기존에는 기기를 제어하거나 생성된 데이터를 전달, 모니터링하는 수준이었다”면서 “아틱 클라우드가 데이터 예측까지 가능해지면서 다양한 서비스를 추가할 수 있을 것”이라고 말했다.\n아틱에 음성인식 기능까지 접목되면서 삼성전자는 독자 개발한 AI 기반 음성인식 플랫폼 '빅스비'를 아틱에 탑재한다.\n아틱이 외부에서도 자유롭게 활용할 수 있는 개방형 플랫폼인 점을 고려하면 삼성전자가 개발한 기계학습·음성인식 기술을 기반으로 AI·IoT 생태계를 조성할 수 있다.\n최근에는 국내 중견·중소가전업체도 아틱을 활용해 생활 가전 연구개발(R&D)에 뛰어들었다.\n업계 관계자는 “삼성전자가 아틱 글로벌 IoT 표준 인증과 빅스비 적용 등 생태계 확산에 시동을 걸고 있다”면서 “스마트홈 등 다양한 미래 산업 분야에서 핵심 플랫폼으로 자리 잡을 수 있다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자 사물인터넷(IoT) 플랫폼 '아틱'이 이전보다 더 똑똑해진다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아틱과 연동하는 클라우드에 기계학습(머신러닝) 기술을 적용, 비정상 데이터를 예측해 탐지한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "음성인식과 기계학습 등 미래 기술이 아틱에 녹아들면서 완성도가 점차 높아질 전망이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "10일 업계에 따르면 삼성전자는 아틱 클라우드에 데이터를 예측하고 비정상 데이터 여부를 판단하는 기계학습 기능을 추가 탑재했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개발자가 아틱을 기반으로 서비스를 개발할 때 응용프로그램인터페이스(API)를 활용해 기계학습 규칙을 짤 수 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아틱에서 생성된 데이터를 분석할 뿐만 아니라 이 데이터를 근거로 예측 값을 만들고 데이터의 비·정상을 구별할 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기계학습으로 아틱 클라우드를 활용한 보다 진화된 IoT 기기를 개발이 유리해질 전망이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아틱은 스마트 가전이나 IoT 기기에 탑재하는 하드웨어(모듈)와 소프트웨어로 구성된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "소프트웨어가 모듈을 제어하고 아틱 센서로 통신하면서 데이터를 주고 받는다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 데이터를 받아 사용자에게 다양한 서비스를 제공하는 게 아틱 클라우드 핵심 역할이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "예를 들어 아틱을 적용한 전기밥솥은 안정적인 상태의 내부 압력을 기본 데이터를 전환한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "밥솥 압력에 이상 조짐이 생기면 비정상 데이터를 미리 감지, 사용자에게 알리거나 조치할 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "아틱을 구매하면 클라우드 서비스를 무료로 쓸 수 있는 만큼 기계학습 서비스가 빠르게 확산될 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "업계 관계자는 “기존에는 기기를 제어하거나 생성된 데이터를 전달, 모니터링하는 수준이었다”면서 “아틱 클라우드가 데이터 예측까지 가능해지면서 다양한 서비스를 추가할 수 있을 것”이라고 말했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "아틱에 음성인식 기능까지 접목되면서 삼성전자는 독자 개발한 AI 기반 음성인식 플랫폼 '빅스비'를 아틱에 탑재한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "아틱이 외부에서도 자유롭게 활용할 수 있는 개방형 플랫폼인 점을 고려하면 삼성전자가 개발한 기계학습·음성인식 기술을 기반으로 AI·IoT 생태계를 조성할 수 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "최근에는 국내 중견·중소가전업체도 아틱을 활용해 생활 가전 연구개발(R&D)에 뛰어들었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "업계 관계자는 “삼성전자가 아틱 글로벌 IoT 표준 인증과 빅스비 적용 등 생태계 확산에 시동을 걸고 있다”면서 “스마트홈 등 다양한 미래 산업 분야에서 핵심 플랫폼으로 자리 잡을 수 있다”고 덧붙였다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자 아틱, 머신러닝으로 진화하는 '클라우드' 서비스 제공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

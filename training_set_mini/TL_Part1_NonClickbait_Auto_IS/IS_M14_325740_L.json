@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325740",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[내부정보유출방지 특집]인텐트시큐어 'DAP(권한우회탐지시스템)', 엔드포인트 내부자위협탐지 솔루션",
+		"newsSubTitle": "",
+		"newsContent": "인텐트시큐어(대표 박성훈)가 최근 엔드포인트 보안솔루션을 우회한 불법접근을 탐지하는 'DAP(권한우회탐지시스템)'를 개발 GS인증 1등급을 획득했다.\n올 하반기 머신러닝 모듈과 인텔리전스 모듈을 고도화하고 사용자PC 실시간 정보검색 기능을 추가 개발할 계획이다.\n최근 IT보안 업계는 랜섬웨어 등 지능형 해킹공격이 증가하자 다양한 보안솔루션으로 데이터 유출을 방지하고 있다.\n그러나 내부자나 외주용역업체, 유지보수업체처럼 권한을 부여받은 자가 불법 접근을 하면 한계가 있다.\n인텐트시큐어는 보안솔루션의 물리적 취약점에 주목하고 보안솔루션을 우회 접근하는 행위를 탐지해 알려주는 DAP를 개발했다.\nDAP 서버는 DAP 에이전트가 전송한 정보를 분석해 보안통제 정책 위반여부를 검사해 DAP 관제센터에 통보한다.\nDAP 디텍터는 PC 에이전트가 설치될 수 없는 네트워크 기반 프린터, 복합기, 스캐너 등 장비를 탐지해 DAP 서버에 자료를 전송한다.\nDAP 에이전트는 설치되지 않았거나 탐지된 장비를 기준으로 분석해 다양한 환경변화에 대응하며 주변 네트워크 정보를 수집해 DAP 서버에 자료를 전송한다.\nDAP 관제센터는 각종 보안 위협과 변화를 감지해 24시간 보안관제 센터에 정보를 통보한다.\nDAP는 이처럼 내부정보유출 행위를 탐지하고 관제센터에 실시간 통지해 보안위협을 사전에 방지한다.\n외부저장매체 접근을 탐지하고 휴대폰 테더링, 와이파이 등 외부통신과 블루투스 통신 접근을 탐지한다.\n네트워크 랜카드를 추가 연결해 공유기 설치를 탐지하고 가상화 PC를 통한 보안 솔루션 우회설치를 탐지한다.\nMAC 주소 우회 접근을 탐지하고 네트워크 프린터를 탐지하는 등 내부에서 발생 가능한 다양한 보안 위협으로부터 대응할 수 있다.\n인텐트시큐어는 업무시스템 접근권한을 가진 외주개발사부터 데이터유출방지(DLP), 네트워크승인보호(NAC) 등 보안시스템 구축기업까지 DAP 고객사를 확대하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인텐트시큐어(대표 박성훈)가 최근 엔드포인트 보안솔루션을 우회한 불법접근을 탐지하는 'DAP(권한우회탐지시스템)'를 개발 GS인증 1등급을 획득했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올 하반기 머신러닝 모듈과 인텔리전스 모듈을 고도화하고 사용자PC 실시간 정보검색 기능을 추가 개발할 계획이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 IT보안 업계는 랜섬웨어 등 지능형 해킹공격이 증가하자 다양한 보안솔루션으로 데이터 유출을 방지하고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 내부자나 외주용역업체, 유지보수업체처럼 권한을 부여받은 자가 불법 접근을 하면 한계가 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인텐트시큐어는 보안솔루션의 물리적 취약점에 주목하고 보안솔루션을 우회 접근하는 행위를 탐지해 알려주는 DAP를 개발했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "DAP 서버는 DAP 에이전트가 전송한 정보를 분석해 보안통제 정책 위반여부를 검사해 DAP 관제센터에 통보한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "DAP 디텍터는 PC 에이전트가 설치될 수 없는 네트워크 기반 프린터, 복합기, 스캐너 등 장비를 탐지해 DAP 서버에 자료를 전송한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "DAP 에이전트는 설치되지 않았거나 탐지된 장비를 기준으로 분석해 다양한 환경변화에 대응하며 주변 네트워크 정보를 수집해 DAP 서버에 자료를 전송한다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "DAP 관제센터는 각종 보안 위협과 변화를 감지해 24시간 보안관제 센터에 정보를 통보한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "DAP는 이처럼 내부정보유출 행위를 탐지하고 관제센터에 실시간 통지해 보안위협을 사전에 방지한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "외부저장매체 접근을 탐지하고 휴대폰 테더링, 와이파이 등 외부통신과 블루투스 통신 접근을 탐지한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "네트워크 랜카드를 추가 연결해 공유기 설치를 탐지하고 가상화 PC를 통한 보안 솔루션 우회설치를 탐지한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "MAC 주소 우회 접근을 탐지하고 네트워크 프린터를 탐지하는 등 내부에서 발생 가능한 다양한 보안 위협으로부터 대응할 수 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "인텐트시큐어는 업무시스템 접근권한을 가진 외주개발사부터 데이터유출방지(DLP), 네트워크승인보호(NAC) 등 보안시스템 구축기업까지 DAP 고객사를 확대하고 있다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[내부정보유출방지 특집]인텐트시큐어 'DAP(권한우회탐지시스템)', 엔드포인트 내부자위협탐지 솔루션",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

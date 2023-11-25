@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351730",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "ETRI, 9대 AI 핵심기술 '테크데이'서 공개",
+		"newsSubTitle": "null",
+		"newsContent": "한국전자통신연구원(ETRI)은 오는 7일 코엑스에서 '2021 인공지능연구소 테크데이'를 온·오프라인으로 개최한다고 6일 밝혔다.\n이번 행사에서는 ETRI가 연구개발 중인 9개의 AI(인공지능) 핵심기술이 공개된다.\n△목적지향형 종단형 대화처리 △자율성장 AI-휴먼이해 인지컴퓨팅 △비디오 행동이해 △AI 반도체를 위한 시스템SW기술 △인공지능반도체 기반 인공지능서버, 아트브레인 케이(ArtBrain-K) △초저전력 리스크 파이브(RISC-V) 엣지 반도체(SoC) 기술 △휴먼케어 로봇을 위한 고령자 일상행동 인식 기술 △드론 시뮬레이션 및 사이버물리시스템(CPS) 기술 △PON 합의 이더리움 기반 의약품 유통플랫폼 기술 등이다.\nETRI는 또 AI 핵심기술 관련 주제 발표와 17개 기술개발 성과도 시연할 예정이다.\n작년에는 온라인 행사만 진행됐지만, 올해는 현장에서 체감할 수 있도록 오프라인에서 동시에 행사를 진행한다.\n이윤근 ETRI인공지능연구소장은\\\"본 행사를 통해 ETRI 인공지능연구소의 연구 내용과 주요 성과물을 소개하고 협력기업의 성과도 함께 소개하는 등 기업들과의 소통을 지속적으로 강화해 나가겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 오는 7일 코엑스에서 '2021 인공지능연구소 테크데이'를 온·오프라인으로 개최한다고 6일 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 행사에서는 ETRI가 연구개발 중인 9개의 AI(인공지능) 핵심기술이 공개된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "△목적지향형 종단형 대화처리 △자율성장 AI-휴먼이해 인지컴퓨팅 △비디오 행동이해 △AI 반도체를 위한 시스템SW기술 △인공지능반도체 기반 인공지능서버, 아트브레인 케이(ArtBrain-K) △초저전력 리스크 파이브(RISC-V) 엣지 반도체(SoC) 기술 △휴먼케어 로봇을 위한 고령자 일상행동 인식 기술 △드론 시뮬레이션 및 사이버물리시스템(CPS) 기술 △PON 합의 이더리움 기반 의약품 유통플랫폼 기술 등이다.",
+				"sentenceSize": 234
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "ETRI는 또 AI 핵심기술 관련 주제 발표와 17개 기술개발 성과도 시연할 예정이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "작년에는 온라인 행사만 진행됐지만, 올해는 현장에서 체감할 수 있도록 오프라인에서 동시에 행사를 진행한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이윤근 ETRI인공지능연구소장은\\\"본 행사를 통해 ETRI 인공지능연구소의 연구 내용과 주요 성과물을 소개하고 협력기업의 성과도 함께 소개하는 등 기업들과의 소통을 지속적으로 강화해 나가겠다\\\"고 말했다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "ETRI, 9대 AI 핵심기술 '테크데이'서 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

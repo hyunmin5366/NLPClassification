@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336101",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[세계 최고 양자암호통신 구축]의료기관, 민감 진료기록 안전하게 보호",
+		"newsSubTitle": "",
+		"newsContent": "통신사∙의료기관∙중소기업 컨소시엄은 성모병원과 연세의료원, 을지대병원 등 주요 의료기관에 양자암호통신망을 구축하고 있다.\n민감한 개인정보인 의료기록 생성에서 저장까지 모든 과정에서 데이터를 안전하게 보호하고, 양자암호와 블록체인을 접목한 기술로 실손보험 청구까지 간편하고 안전하게 가능해질 것으로 기대된다.\nKT∙가톨릭대∙평화이즈 컨소시엄은 은평성모병원과 서울성모병원, 평화이즈(성모병원 데이터센터) 구간에 양자암호통신망을 구축한다.\n은평성모병원과 데이터센터 간 15km 구간에 양자암호분배키(QKD) 솔루션을 적용하고 있다.\n은평성모병원에서 의료진 음성을 인식해 인공지능(AI)로 자동 작성된 전자의무기록(EMR)을 양자암호통신망을 통해 데이터센터에 전송, 저장한다.\nKT 컨소시엄은 서울성모병원과 데이터센터 간 39km 구간에도 QKD 솔루션을 구축 중이다.\n대용량이 요구되는 엑스레이와 자기공명영상(MRI), 컴퓨터단층촬영(CT) 영상 등 민감한 의료 데이터를 데이터센터 정보 분석실로 안전하게 보내는 역할이다.\n의료 데이터 전반에 양자암호기술을 접목한 퀀텀-DB를 적용, 개인정보보호와 안전한 데이터 보관이 가능토록 지원한다.\n중소기업과 협업으로 의료 데이터에 특화한 양자암호통신 기술을 확보할 것으로 기대된다.\nSK브로드밴드(주관사)∙SK텔레콤∙유알정보통신 컨소시엄은 연세의료원 신촌∙강남∙용인세브란스 병원 3개 구간을 양자암호통신망으로 연결한다.\n블록체인 실손보험청구 시스템을 적용, 이용자가 애플리케이션으로 실손보험을 청구하면 신촌세브란스병원 메디패스에서 강남, 용인 세브란스 병원에 진료정보를 전송∙발급하는 서비스다.\nSK브로드밴드 컨소시엄은 사고 예방 조기예측 알람시스템도 구축하고 있다.\n신촌세브란스 병원 중환자의 심장박동기, 산소측정기 정보를 용인세브란스 병원에 구축된 AI서버에 안전하게 전송한다.\n용인 세브란스 병원 AI 서버는 보안성을 바탕으로 신촌세브란스 환자의 사고 발생가능성을 원격 모니터링하고, 이상징후 발생 시 즉각 경보, 환자 안전을 높일 것으로 기대된다.\nLG유플러스∙서울대 컨소시엄은 서울 노원과 대전 을지대병원을 연결하는 207km 구간에 '양자내성암호' 기술을 적용한다.\n양자내성암호 기술은 QKD 장비 대신 양자컴퓨터로도 풀어내는 데 수십만년 이상 걸리는 수학 알고리즘을 활용해 암호키 교환, 데이터 암호화∙복호화, 무결성 인증 등을 제공하는 서비스다.\n전송거리에 대한 제약이 없는 양자내성암호 기술 특성을 이용해 가장 긴 구간에 양자 기술을 적용했다.\n대전 을지대병원 데이터센터에 저장된 진료데이터를 양자내성암호기술 기반으로 노원 을지대병원으로 전송하는 방식의 원격의료 협진 서비스를 준비 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "통신사∙의료기관∙중소기업 컨소시엄은 성모병원과 연세의료원, 을지대병원 등 주요 의료기관에 양자암호통신망을 구축하고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "민감한 개인정보인 의료기록 생성에서 저장까지 모든 과정에서 데이터를 안전하게 보호하고, 양자암호와 블록체인을 접목한 기술로 실손보험 청구까지 간편하고 안전하게 가능해질 것으로 기대된다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KT∙가톨릭대∙평화이즈 컨소시엄은 은평성모병원과 서울성모병원, 평화이즈(성모병원 데이터센터) 구간에 양자암호통신망을 구축한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "은평성모병원과 데이터센터 간 15km 구간에 양자암호분배키(QKD) 솔루션을 적용하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "은평성모병원에서 의료진 음성을 인식해 인공지능(AI)로 자동 작성된 전자의무기록(EMR)을 양자암호통신망을 통해 데이터센터에 전송, 저장한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT 컨소시엄은 서울성모병원과 데이터센터 간 39km 구간에도 QKD 솔루션을 구축 중이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대용량이 요구되는 엑스레이와 자기공명영상(MRI), 컴퓨터단층촬영(CT) 영상 등 민감한 의료 데이터를 데이터센터 정보 분석실로 안전하게 보내는 역할이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "의료 데이터 전반에 양자암호기술을 접목한 퀀텀-DB를 적용, 개인정보보호와 안전한 데이터 보관이 가능토록 지원한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "중소기업과 협업으로 의료 데이터에 특화한 양자암호통신 기술을 확보할 것으로 기대된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "SK브로드밴드(주관사)∙SK텔레콤∙유알정보통신 컨소시엄은 연세의료원 신촌∙강남∙용인세브란스 병원 3개 구간을 양자암호통신망으로 연결한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "블록체인 실손보험청구 시스템을 적용, 이용자가 애플리케이션으로 실손보험을 청구하면 신촌세브란스병원 메디패스에서 강남, 용인 세브란스 병원에 진료정보를 전송∙발급하는 서비스다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "SK브로드밴드 컨소시엄은 사고 예방 조기예측 알람시스템도 구축하고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "신촌세브란스 병원 중환자의 심장박동기, 산소측정기 정보를 용인세브란스 병원에 구축된 AI서버에 안전하게 전송한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "용인 세브란스 병원 AI 서버는 보안성을 바탕으로 신촌세브란스 환자의 사고 발생가능성을 원격 모니터링하고, 이상징후 발생 시 즉각 경보, 환자 안전을 높일 것으로 기대된다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "LG유플러스∙서울대 컨소시엄은 서울 노원과 대전 을지대병원을 연결하는 207km 구간에 '양자내성암호' 기술을 적용한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "양자내성암호 기술은 QKD 장비 대신 양자컴퓨터로도 풀어내는 데 수십만년 이상 걸리는 수학 알고리즘을 활용해 암호키 교환, 데이터 암호화∙복호화, 무결성 인증 등을 제공하는 서비스다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "전송거리에 대한 제약이 없는 양자내성암호 기술 특성을 이용해 가장 긴 구간에 양자 기술을 적용했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "대전 을지대병원 데이터센터에 저장된 진료데이터를 양자내성암호기술 기반으로 노원 을지대병원으로 전송하는 방식의 원격의료 협진 서비스를 준비 중이다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[세계 최고 양자암호통신 구축]의료기관, 민감 진료기록 안전하게 보호",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

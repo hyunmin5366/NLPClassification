@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325701",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "IBM, 10일 3시 올쇼TV서 '하이브리드 서버 접근관리 법 제시'",
+		"newsSubTitle": "",
+		"newsContent": "한국IBM은 10일 오후 3시 전자신문 웨비나 전문방송 올쇼TV에서 '실전! 하이브리드 서버 접근 관리'를 발표한다.\n많은 기업이 클라우드 기반 가상 서버를 활용한다.\n기존 데이터센터 내 물리∙가상 서버와 함께 클라우드 환경에서 가상 서버에 대해서 중앙 집중적으로 관리 통제가 필요하다.\n한국IBM은 이 때 고려해야 할 다양한 실제 문제와 해결 방안을 제시한다.\nIBM은 서버 접근 관리 솔루션인 IBM 시큐리티 시크릿 서버를 제시한다.\n웨비나는 무료며 올쇼TV 사이트(http://www.allshowtv.com/detail.html?idx=118)에서 사전 등록 신청하면 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국IBM은 10일 오후 3시 전자신문 웨비나 전문방송 올쇼TV에서 '실전! 하이브리드 서버 접근 관리'를 발표한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "많은 기업이 클라우드 기반 가상 서버를 활용한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 데이터센터 내 물리∙가상 서버와 함께 클라우드 환경에서 가상 서버에 대해서 중앙 집중적으로 관리 통제가 필요하다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국IBM은 이 때 고려해야 할 다양한 실제 문제와 해결 방안을 제시한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "IBM은 서버 접근 관리 솔루션인 IBM 시큐리티 시크릿 서버를 제시한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "웨비나는 무료며 올쇼TV 사이트(http://www.allshowtv.com/detail.html?idx=118)에서 사전 등록 신청하면 된다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "IBM, 10일 3시 올쇼TV서 '하이브리드 서버 접근관리 법 제시'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

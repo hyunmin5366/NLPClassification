@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008240",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "실거래 허위신고자 46명 적발",
+		"newsSubTitle": "국토부 과태료 2억7천만원 부과",
+		"newsContent": "국토해양부는 지난해 3분기 부동산 실거래 허위신고자 46명(20건)을 적발해 총 2억 7126만원의 과태료를 부과했다고 23일 밝혔다.\n이 외에도 증여세 회피 등 증여를 매매거래로 위장신고한 계약 32건을 적발했다.\n허위신고, 증여혐의 내역은 관할 세무서에 통보해 양도세 추징 등 추가적 조치를 취할 계획이다.\n세무서는 허위신고자, 증여혐의자에 대해 세무조사로 양도소득세, 증여세 탈루액을 추징할 예정이다.\n허위신고 유형별로는 실제 거래가보다 낮게 신고한 것이 3건, 실제 거래가보다 높게 신고한 것이 1건 등이다.\n이외 계약일 등 허위신고 7건, 중개거래를 당사자 간의 거래로 신고 1건, 신고 지연 1건, 거래대금 증명자료 미제출 7건 등이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국토해양부는 지난해 3분기 부동산 실거래 허위신고자 46명(20건)을 적발해 총 2억 7126만원의 과태료를 부과했다고 23일 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 외에도 증여세 회피 등 증여를 매매거래로 위장신고한 계약 32건을 적발했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "허위신고, 증여혐의 내역은 관할 세무서에 통보해 양도세 추징 등 추가적 조치를 취할 계획이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세무서는 허위신고자, 증여혐의자에 대해 세무조사로 양도소득세, 증여세 탈루액을 추징할 예정이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "허위신고 유형별로는 실제 거래가보다 낮게 신고한 것이 3건, 실제 거래가보다 높게 신고한 것이 1건 등이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이외 계약일 등 허위신고 7건, 중개거래를 당사자 간의 거래로 신고 1건, 신고 지연 1건, 거래대금 증명자료 미제출 7건 등이다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카카오게임즈 '오딘' 대만 진출 초읽기...사전예약 시작",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

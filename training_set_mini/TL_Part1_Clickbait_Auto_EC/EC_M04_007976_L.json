@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007976",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "막걸리, 사케 사상 철 추월",
+		"newsSubTitle": "수출액 1600만달러>수입액 1400만달러",
+		"newsContent": "전통주 경쟁에서 막걸리가 일본의 사케를 처음으로 이겼다.\n관세청은 7일 막걸리의 해외 열풍이 계속되면서 지난해 수출이 2009년 대비 3배 증가하면서 사상 처음 2000억원(1900만 달러)을 돌파했다고 밝혔다.\n특히 막걸리의 최대 소비시장인 일본에서 선풍적인 인기를 끌며 대 일본 수출액이 약 1600만 달러로 역시 사상 최대를 기록했다.\n일본 전통주인 사케도 국내 젊은이들을 중심으로 큰 인기를 끌고 설 등 명절 차례상에 사용하는 인구도 늘어나면서 지난해 사상 최대인 164억원(1400만 달러) 어치가 수입됐다.\n수입가격은 지난해 평균 수입가격이 ℓ당 4.4달러로 2009년에 비해 17.8%나 상승하며 고급화되는 추세라고 관세청은 전했다.\n이에 따라 막걸리 수출액은 처음으로 사케 수입액을 200만달러 가량 앞섰다.\n관세청 오현진 사무관은 “우리 전통주인 막걸리가 일본에서 큰 히트를 치고, 일본산 사케는 국내에서의 열풍이 계속되면서 수출입 시장이 더 확대될 것”이라며 “양국의 전통주 경쟁은 더 치열해질 것으로 전망된다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전통주 경쟁에서 막걸리가 일본의 사케를 처음으로 이겼다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "관세청은 7일 막걸리의 해외 열풍이 계속되면서 지난해 수출이 2009년 대비 3배 증가하면서 사상 처음 2000억원(1900만 달러)을 돌파했다고 밝혔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 막걸리의 최대 소비시장인 일본에서 선풍적인 인기를 끌며 대 일본 수출액이 약 1600만 달러로 역시 사상 최대를 기록했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일본 전통주인 사케도 국내 젊은이들을 중심으로 큰 인기를 끌고 설 등 명절 차례상에 사용하는 인구도 늘어나면서 지난해 사상 최대인 164억원(1400만 달러) 어치가 수입됐다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "수입가격은 지난해 평균 수입가격이 ℓ당 4.4달러로 2009년에 비해 17.8%나 상승하며 고급화되는 추세라고 관세청은 전했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 따라 막걸리 수출액은 처음으로 사케 수입액을 200만달러 가량 앞섰다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "관세청 오현진 사무관은 “우리 전통주인 막걸리가 일본에서 큰 히트를 치고, 일본산 사케는 국내에서의 열풍이 계속되면서 수출입 시장이 더 확대될 것”이라며 “양국의 전통주 경쟁은 더 치열해질 것으로 전망된다”고 말했다.",
+				"sentenceSize": 121
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "생필품, 전통시장이 가장 싸다… SSM보다 11.5% 저렴",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

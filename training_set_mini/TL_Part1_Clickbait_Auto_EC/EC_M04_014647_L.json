@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014647",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "전통시장이 대형마트보다 더 싸다… 과일 등 30%이상 저렴",
+		"newsSubTitle": "생활필수품 시장가격 조사결과",
+		"newsContent": "전통시장에서 판매되는 멸치, 김 등의 건어물류와 과일류, 서리태 등 곡물류 품목이 대형마트, 기업형 슈퍼마켓(SSM)에 비해 가격이 저렴한 것으로 나타났다.\n29일 소상공인시장진흥공단에 따르면 지난 10일부터 5일간 중소기업청과 실시한 시장 형태별 생활필수품 품목 가격조사 결과 전통시장의 건어물 판매 가격이 대형마트에 비해 35.2% 저렴한 것으로 집계됐다.\n건어물 다음으로 과일(30.6%), 육란류(14.6%), 공산품(12.6%) 등의 순으로 수산물을 제외한 업종에서 전통시장이 대형마트에 비해 가격경쟁력이 컸다.\n기업형슈퍼마켓(SSM)에 비해서는 33.1%가 저렴한 것으로 조사됐으며, 품목별로는 멸치(36.6%), 상추(35.2%), 오징어젓갈(34.4%), 샴푸(31.9%), 김(30.8%), 치약(28.3%)순이다.\n전통시장은 40개 조사대상 품목 가운데 28개 품목에서 대형마트보다 가격이 저렴했으며, 기업형 슈퍼마켓(SSM)보다는 32개 품목에서 상대적으로 가격이 쌌다.\n가공식품인 오징어젓갈(500g)의 경우 대형마트에서 1만 2211원에 판매돼 전통시장(7344원)에 비해 40% 가량 비싼 것으로 조사됐다.\n또 전통시장에서 5052원에 판매되는 멸치(200g)는 대형마트의 가격 7871원에 비해 2800원 이상 저렴했다.\n기업형슈퍼마켓(SSM)에 비해서는 33.1% 저렴한 것으로 나타났으며, 과일류(18.4%), 공산품(18.1%), 채소류(13.5%) 등의 뒤를 이었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전통시장에서 판매되는 멸치, 김 등의 건어물류와 과일류, 서리태 등 곡물류 품목이 대형마트, 기업형 슈퍼마켓(SSM)에 비해 가격이 저렴한 것으로 나타났다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 소상공인시장진흥공단에 따르면 지난 10일부터 5일간 중소기업청과 실시한 시장 형태별 생활필수품 품목 가격조사 결과 전통시장의 건어물 판매 가격이 대형마트에 비해 35.2% 저렴한 것으로 집계됐다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "건어물 다음으로 과일(30.6%), 육란류(14.6%), 공산품(12.6%) 등의 순으로 수산물을 제외한 업종에서 전통시장이 대형마트에 비해 가격경쟁력이 컸다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기업형슈퍼마켓(SSM)에 비해서는 33.1%가 저렴한 것으로 조사됐으며, 품목별로는 멸치(36.6%), 상추(35.2%), 오징어젓갈(34.4%), 샴푸(31.9%), 김(30.8%), 치약(28.3%)순이다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전통시장은 40개 조사대상 품목 가운데 28개 품목에서 대형마트보다 가격이 저렴했으며, 기업형 슈퍼마켓(SSM)보다는 32개 품목에서 상대적으로 가격이 쌌다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가공식품인 오징어젓갈(500g)의 경우 대형마트에서 1만 2211원에 판매돼 전통시장(7344원)에 비해 40% 가량 비싼 것으로 조사됐다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 전통시장에서 5052원에 판매되는 멸치(200g)는 대형마트의 가격 7871원에 비해 2800원 이상 저렴했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기업형슈퍼마켓(SSM)에 비해서는 33.1% 저렴한 것으로 나타났으며, 과일류(18.4%), 공산품(18.1%), 채소류(13.5%) 등의 뒤를 이었다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "나로호 '3차 발사' 본격 추진",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

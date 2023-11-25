@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332843",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "[테크비즈코리아 2020]<12>바이오의약품 내 당단백질 자동분석 시스템",
+		"newsSubTitle": "",
+		"newsContent": "한국기초과학지원연구원(KBSI)의 '바이오의약품 내 당단백질 자동분석 시스템'은 O-연결형, N-연결형 당 펩티드 질량 스펙트럼을 매우 높은 정확도로 자동 분석하는 기술이다.\n당 단백질 구조를 정성, 정량화하는 것이 가능해진다.\n바이오시밀러, 재조합 단백질과 같은 바이오의약품은 대부분 당단백질이지만, O-와 N-연결형 당펩티드는 다양성과 복잡성 탓에 분석이 부정확한 상황이다.\n식약처나 FDA 인증을 받기 위해서는 이를 정밀하게 비교분석하는 자료가 꼭 필요하다.\nKBSI는 새로운 자동 분석 기술로 다양한 종류의 바이오의약품에서 특이적인 O-와 N-연결형 당구조를 갖는 당펩티드를 99% 정확하게 자동으로 분석할 수 있게 했다.\n당단백질로 구성된 바이오시밀러 시료간 분석으로 제조공정 개선, 정밀한 품질관리가 가능해진다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국기초과학지원연구원(KBSI)의 '바이오의약품 내 당단백질 자동분석 시스템'은 O-연결형, N-연결형 당 펩티드 질량 스펙트럼을 매우 높은 정확도로 자동 분석하는 기술이다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "당 단백질 구조를 정성, 정량화하는 것이 가능해진다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "바이오시밀러, 재조합 단백질과 같은 바이오의약품은 대부분 당단백질이지만, O-와 N-연결형 당펩티드는 다양성과 복잡성 탓에 분석이 부정확한 상황이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "식약처나 FDA 인증을 받기 위해서는 이를 정밀하게 비교분석하는 자료가 꼭 필요하다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KBSI는 새로운 자동 분석 기술로 다양한 종류의 바이오의약품에서 특이적인 O-와 N-연결형 당구조를 갖는 당펩티드를 99% 정확하게 자동으로 분석할 수 있게 했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당단백질로 구성된 바이오시밀러 시료간 분석으로 제조공정 개선, 정밀한 품질관리가 가능해진다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[테크비즈코리아 2020]<12>바이오의약품 내 당단백질 자동분석 시스템",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

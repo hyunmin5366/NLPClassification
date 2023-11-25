@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_034622",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "병역 논란 속, 유튜브 측이 최군에게 퀵서비스 보낸 사연",
+		"newsSubTitle": "",
+		"newsContent": "BJ 최군이 유튜브로부터 받은 새해 선물을 공개했다.\n7일 유튜브 방송 중 최군(최우람·29)은 퀵서비스를 통해 유튜브로부터 선물을 받았다.\n선물 상자 속에는 최군만을 위한 편지와 함께 깜짝 선물이 들어 있었다.\n유튜브는 \\\"최군님, 올 한 해 여러모로 마음 고생 많으셨을텐데, 힘차게 2017년 맞이하셨으면 좋겠어요\\\" \\\"내년에도 열심히 도와드릴게요\\\"라고 적혀 있었다.\n그동안 병역기피 의혹에 시달리며 비판을 받아온 최군은 다소 감동한 듯한 어조로 \\\"이거 나한테만 따로 보낸거네\\\" \\\"너무 감동이네\\\"라고 전했다.\n선물 상자 속에는 최군 이름이 적혀있는 유명 스포츠 브랜드 운동복이 들어 있었다.\n최군은 \\\"감동이네, 내 생방송을 보고 있다가 집에 있는 줄 알고 퀵서비스로 보냈네\\\"라며 감사인사를 전했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "BJ 최군이 유튜브로부터 받은 새해 선물을 공개했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 유튜브 방송 중 최군(최우람·29)은 퀵서비스를 통해 유튜브로부터 선물을 받았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "선물 상자 속에는 최군만을 위한 편지와 함께 깜짝 선물이 들어 있었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유튜브는 \\\"최군님, 올 한 해 여러모로 마음 고생 많으셨을텐데, 힘차게 2017년 맞이하셨으면 좋겠어요\\\" \\\"내년에도 열심히 도와드릴게요\\\"라고 적혀 있었다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그동안 병역기피 의혹에 시달리며 비판을 받아온 최군은 다소 감동한 듯한 어조로 \\\"이거 나한테만 따로 보낸거네\\\" \\\"너무 감동이네\\\"라고 전했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "선물 상자 속에는 최군 이름이 적혀있는 유명 스포츠 브랜드 운동복이 들어 있었다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최군은 \\\"감동이네, 내 생방송을 보고 있다가 집에 있는 줄 알고 퀵서비스로 보냈네\\\"라며 감사인사를 전했다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘벌거벗은 세계사’ 그리스 신화 특집 제우스 벗겨보기",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

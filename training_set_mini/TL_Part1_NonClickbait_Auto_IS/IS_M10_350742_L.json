@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350742",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "시각인지 인공지능 성능 2배로…DGIST, 환경적응 신경망 개발",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 하나의 영상 학습자료를 여러 환경에 맞춰 활용할 수 있는 인공지능 기술을 개발했다.\n딥러닝 학습용 데이터 확보가 한결 수월해질 것으로 기대된다.\n대구경북과학기술원(DGIST)은 14일 임성훈 정보통신융합전공 교수 연구팀이 딥러닝 기술을 활용해 복잡하고 다양한 이미지에서 영상의 도메인 정보를 분리, 변환하는 환경적응 인공지능 신경망 모듈을 개발했다고 밝혔다.\n도메인은 학습에 필요한 영상에 포함된 환경적 특징을 말한다.\n같은 도로교통 상황을 촬영해도 미국에서 찍은 영상과 인도에서 찍은 영상에 나타나는 도로 질감이나 가로수 색상은 다르다.\n미국에서 만든 도로교통 학습 데이터를 인도에서 활용하기 위해서는 도메인 간 차이를 식별하고, 현지 스타일에 맞게 변환하는 것이 중요하다.\n연구팀은 영상 속 이미지 정보 구성이 다를 수 있다는 점에 주목했다.\n기존 연구들은 도메인에서 공통적으로 나타나는 이미지 정보 찾기에 초점을 맞추다 보니 이미지 정보를 충분히 활용하기 어려웠고, 변환된 이미지 역시 단순하게 구성되는 한계가 있었다.\n연구팀은 이미지 정보를 전체적인 형태 정보와 스타일 정보로 뚜렷하게 나누는 분리기를 설계하고, 도메인마다 다른 가중치를 사용해 도메인 간 차이를 반영할 수 있게 했다.\n연구팀이 개발한 인공지능 신경망은 분리된 이미지 정보들 간의 연관성을 이용해 각 이미지 구성에 알맞은 스타일 정보를 찾아내는 데 성공했다.\n보다 실제에 가까운 이미지 정보를 얻게 되면서, 인공지능 신경망의 시각인지 정확도가 기존 대비 2배 이상 높아졌다.\n딥러닝 모델 학습을 위해서는 충분한 양의 데이터가 필요하지만, 실제 연구현장에서는 데이터가 부족한 경우가 많다.\n연구팀은 이번에 개발한 이미지 변환 신경망 기술이 기존 데이터 활용도를 높이는데 기여할 것으로 기대하고 있다.\n임성훈 교수는 \\\"이번에 개발한 환경적응 인공지능 신경망은 다른 공간이나 가상으로 만든 영상을 실제 현장에서 찍은 것처럼 변환해주는 기술\\\"이라며 \\\"기술을 좀 더 개선한다면 많은 분야들에 적용되어 인공지능 분야의 발전에 긍정적인 영향을 줄 것\\\"이라고 기대했다.\n이번 연구성과는 인공지능 분야 최우수 국제학술지인 'IEEE Conference on Computer Vision and Pattern Recognition'에 지난달 25일자로 온라인 게재됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 하나의 영상 학습자료를 여러 환경에 맞춰 활용할 수 있는 인공지능 기술을 개발했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "딥러닝 학습용 데이터 확보가 한결 수월해질 것으로 기대된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대구경북과학기술원(DGIST)은 14일 임성훈 정보통신융합전공 교수 연구팀이 딥러닝 기술을 활용해 복잡하고 다양한 이미지에서 영상의 도메인 정보를 분리, 변환하는 환경적응 인공지능 신경망 모듈을 개발했다고 밝혔다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "도메인은 학습에 필요한 영상에 포함된 환경적 특징을 말한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "같은 도로교통 상황을 촬영해도 미국에서 찍은 영상과 인도에서 찍은 영상에 나타나는 도로 질감이나 가로수 색상은 다르다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미국에서 만든 도로교통 학습 데이터를 인도에서 활용하기 위해서는 도메인 간 차이를 식별하고, 현지 스타일에 맞게 변환하는 것이 중요하다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구팀은 영상 속 이미지 정보 구성이 다를 수 있다는 점에 주목했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기존 연구들은 도메인에서 공통적으로 나타나는 이미지 정보 찾기에 초점을 맞추다 보니 이미지 정보를 충분히 활용하기 어려웠고, 변환된 이미지 역시 단순하게 구성되는 한계가 있었다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "연구팀은 이미지 정보를 전체적인 형태 정보와 스타일 정보로 뚜렷하게 나누는 분리기를 설계하고, 도메인마다 다른 가중치를 사용해 도메인 간 차이를 반영할 수 있게 했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "연구팀이 개발한 인공지능 신경망은 분리된 이미지 정보들 간의 연관성을 이용해 각 이미지 구성에 알맞은 스타일 정보를 찾아내는 데 성공했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "보다 실제에 가까운 이미지 정보를 얻게 되면서, 인공지능 신경망의 시각인지 정확도가 기존 대비 2배 이상 높아졌다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "딥러닝 모델 학습을 위해서는 충분한 양의 데이터가 필요하지만, 실제 연구현장에서는 데이터가 부족한 경우가 많다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "연구팀은 이번에 개발한 이미지 변환 신경망 기술이 기존 데이터 활용도를 높이는데 기여할 것으로 기대하고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "임성훈 교수는 \\\"이번에 개발한 환경적응 인공지능 신경망은 다른 공간이나 가상으로 만든 영상을 실제 현장에서 찍은 것처럼 변환해주는 기술\\\"이라며 \\\"기술을 좀 더 개선한다면 많은 분야들에 적용되어 인공지능 분야의 발전에 긍정적인 영향을 줄 것\\\"이라고 기대했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이번 연구성과는 인공지능 분야 최우수 국제학술지인 'IEEE Conference on Computer Vision and Pattern Recognition'에 지난달 25일자로 온라인 게재됐다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시각인지 인공지능 성능 2배로…DGIST, 환경적응 신경망 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

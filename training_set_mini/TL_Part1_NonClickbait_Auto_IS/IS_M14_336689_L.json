@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336689",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[테크비즈코리아 2020]<11>사이버공격 실시간 추적 가시화 시스템",
+		"newsSubTitle": "",
+		"newsContent": "한국과학기술정보연구원(KISTI)이 선보인 '사이버공격 실시간 추적 가시화 시스템'은 사이버 공격 근원지와 공격 구조를 분석할 수 있게 하는 시스템이다.\n공격행위에 대한 각종 유용 정보를 직관적으로 제공하는 것이 첫 번째 특징이다.\n보안이벤트 간 시간관계·상관관계 분석 및 가시화 방법론을 적용했다.\n대용량 보안정보를 장기간 수집하고, 다양한 정보를 조합해 가시화한다는 것도 특징이다.\n기술은 전처리 모듈, 통계정보 모듈, 가시화 모듈 등으로 구성했다.\n전처리 모듈은 보안이벤트를 수신해 가시화 대상 정보를 추출하는 역할을 한다.\n통계정보 모듈은 공격행위 패턴, IP간 상관관계 등 정보를 생성한다.\n가시화 모듈은 공격행위를 가시화하고, 정보를 관리하는 역할을 한다.\nKISTI 기술은 네트워크 보안 솔루션이나, 국가 및 공공기관용 보안시스템, 안전 이상행위 탐지 등에 활용 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국과학기술정보연구원(KISTI)이 선보인 '사이버공격 실시간 추적 가시화 시스템'은 사이버 공격 근원지와 공격 구조를 분석할 수 있게 하는 시스템이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공격행위에 대한 각종 유용 정보를 직관적으로 제공하는 것이 첫 번째 특징이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보안이벤트 간 시간관계·상관관계 분석 및 가시화 방법론을 적용했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대용량 보안정보를 장기간 수집하고, 다양한 정보를 조합해 가시화한다는 것도 특징이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기술은 전처리 모듈, 통계정보 모듈, 가시화 모듈 등으로 구성했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전처리 모듈은 보안이벤트를 수신해 가시화 대상 정보를 추출하는 역할을 한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "통계정보 모듈은 공격행위 패턴, IP간 상관관계 등 정보를 생성한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "가시화 모듈은 공격행위를 가시화하고, 정보를 관리하는 역할을 한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "KISTI 기술은 네트워크 보안 솔루션이나, 국가 및 공공기관용 보안시스템, 안전 이상행위 탐지 등에 활용 가능하다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[테크비즈코리아 2020]<11>사이버공격 실시간 추적 가시화 시스템",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

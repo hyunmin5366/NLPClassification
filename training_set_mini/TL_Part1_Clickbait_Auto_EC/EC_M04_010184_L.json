@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010184",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "대전 부동산시장 '정적'",
+		"newsSubTitle": "아파트매매ㆍ전셋값 보합",
+		"newsContent": "지난주에도 대전의 아파트 매매가와 전셋값은 보합세를 보였다.\n반면 충남의 아파트 매매가와 전셋값은 강세를 이어갔고, 충북은 전셋값만 상승했다.\n17일 KB국민은행의 주간 아파트가격동향에 따르면 지난주 대전의 아파트 매매가와 전셋값은 보합세를 보였다.\n지난주 대전의 아파트 매매가는 5개 지역 중 중구ㆍ서구ㆍ대덕구가 보합세를 보였으며, 동구ㆍ유성구는 소폭 하락(-0.1%)했다.\n전셋값 또한 3개 지역이 전주와 변동 없었고, 2개 지역은 소폭 하락했다.\n동구ㆍ서구ㆍ대덕구는 보합세, 중구ㆍ유성구는 미미한 내림세(각 -0.1%)를 보였다.\n하지만, 충남의 아파트 매매가와 전셋값은 지난주에도 오름세를 이어갔다.\n아파트 매매가의 경우 천안ㆍ아산이 도내에서 가장 많이 뛴 전주대비 0.2% 올랐으며 공주도 소폭 상승(0.1%)했다.\n전셋값은 천안이 가장 많이 오른(0.2%) 가운데 아산은 소폭 상승(0.1%)했고, 나머지 공주ㆍ논산ㆍ계룡ㆍ연기는 보합세를 나타냈다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난주에도 대전의 아파트 매매가와 전셋값은 보합세를 보였다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "반면 충남의 아파트 매매가와 전셋값은 강세를 이어갔고, 충북은 전셋값만 상승했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "17일 KB국민은행의 주간 아파트가격동향에 따르면 지난주 대전의 아파트 매매가와 전셋값은 보합세를 보였다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난주 대전의 아파트 매매가는 5개 지역 중 중구ㆍ서구ㆍ대덕구가 보합세를 보였으며, 동구ㆍ유성구는 소폭 하락(-0.1%)했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전셋값 또한 3개 지역이 전주와 변동 없었고, 2개 지역은 소폭 하락했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "동구ㆍ서구ㆍ대덕구는 보합세, 중구ㆍ유성구는 미미한 내림세(각 -0.1%)를 보였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만, 충남의 아파트 매매가와 전셋값은 지난주에도 오름세를 이어갔다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아파트 매매가의 경우 천안ㆍ아산이 도내에서 가장 많이 뛴 전주대비 0.2% 올랐으며 공주도 소폭 상승(0.1%)했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "전셋값은 천안이 가장 많이 오른(0.2%) 가운데 아산은 소폭 상승(0.1%)했고, 나머지 공주ㆍ논산ㆍ계룡ㆍ연기는 보합세를 나타냈다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "양곡 부정유통 3년간 250건 '여전'… 도정일자 표시 위반 다수",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

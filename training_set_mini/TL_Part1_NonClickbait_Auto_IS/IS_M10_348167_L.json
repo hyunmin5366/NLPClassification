@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348167",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "조직검사 고통없이 '소변'으로 전립선암 진단 AI 개발",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 소변에서 전립선암을 단 20분 만에 정확히 진단하는 인공지능(AI) 기술을 개발했다.\n한국과학기술연구원(KIST) 생체재료연구센터 이관희 박사, 서울아산병원 정인갑 교수로 이뤄진 공동연구팀이 초고감도 전기신호 기반 바이오센서에 스마트 AI 분석법을 도입해 이 같은 기술을 개발했다고 24일 밝혔다.\n전립선암은 남성 암 중 가장 많이 발생하는 암이다.\n기존엔 혈액검사를 통해 일차적 전립선암 여부를 판별하고 있다.\n하지만 진단 정확도가 30%에 불과하다.\n많은 환자들이 혈액검사 후 침습적인 조직검사를 받아야 하고, 그에 따른 출혈과 고통 등의 부작용을 겪는다.\n연구팀은 그동안 전기신호 기반의 초고감도 바이오센서를 통해 소변에서 질병을 진단하는 기술을 개발해왔다.\n암 진단과 관련해선 단일한 암 인자로는 진단 정확도를 90% 이상으로 끌어올리는 데는 한계가 있었다.\n연구진은 이 문제를 극복하기 위해 한 종류의 암 인자가 아닌 서로 다른 여러 종의 암 인자를 동시에 활용해 진단 정확도를 획기적으로 높이는 데 성공했다.\n연구진은 우선 전립선암 진단을 위해 기존의 ‘전립선 특이항원(PSA)’ 기반 검출의 문제점을 개선키로 했다.\n이를 위해 소변에서 극미량의 4가지 암 인자들을 동시에 측정할 수 있는 초고감도 반도체 센서 시스템을 개발했다.\n이 센서를 통해 얻은 4가지 암 인자와 전립선암 사이의 상관관계를 AI에게 학습시켰다.\n이렇게 얻어진 검출 신호들의 복잡한 패턴에 따라 암 여부를 진단할 수 있는 알고리즘을 개발했다.\n연구팀이 이 AI 분석법을 활용해 전립선암을 진단한 결과, 76개의 소변 표본에서 전립선암 환자를 95.5%로 진단했다.\n연구진은 향후 임상을 확대해 더 많은 환자 정보를 학습시켜 진단 알고리즘의 정확성을 높일 계획이다.\n이 박사는 “소변만으로 100%에 가깝게 전립선암을 신속히 진단할 수 있는 스마트 바이오센서의 개발은 소변을 활용한 다른 암 종의 정밀 진단에 활용될 수 있을 것”이라고 말했다.\n이번 연구성과는 나노분야 국제학술지인 ‘ACS 나노(Nano)’에 게재됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 소변에서 전립선암을 단 20분 만에 정확히 진단하는 인공지능(AI) 기술을 개발했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국과학기술연구원(KIST) 생체재료연구센터 이관희 박사, 서울아산병원 정인갑 교수로 이뤄진 공동연구팀이 초고감도 전기신호 기반 바이오센서에 스마트 AI 분석법을 도입해 이 같은 기술을 개발했다고 24일 밝혔다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전립선암은 남성 암 중 가장 많이 발생하는 암이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존엔 혈액검사를 통해 일차적 전립선암 여부를 판별하고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 진단 정확도가 30%에 불과하다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "많은 환자들이 혈액검사 후 침습적인 조직검사를 받아야 하고, 그에 따른 출혈과 고통 등의 부작용을 겪는다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구팀은 그동안 전기신호 기반의 초고감도 바이오센서를 통해 소변에서 질병을 진단하는 기술을 개발해왔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "암 진단과 관련해선 단일한 암 인자로는 진단 정확도를 90% 이상으로 끌어올리는 데는 한계가 있었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "연구진은 이 문제를 극복하기 위해 한 종류의 암 인자가 아닌 서로 다른 여러 종의 암 인자를 동시에 활용해 진단 정확도를 획기적으로 높이는 데 성공했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "연구진은 우선 전립선암 진단을 위해 기존의 ‘전립선 특이항원(PSA)’ 기반 검출의 문제점을 개선키로 했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이를 위해 소변에서 극미량의 4가지 암 인자들을 동시에 측정할 수 있는 초고감도 반도체 센서 시스템을 개발했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이 센서를 통해 얻은 4가지 암 인자와 전립선암 사이의 상관관계를 AI에게 학습시켰다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이렇게 얻어진 검출 신호들의 복잡한 패턴에 따라 암 여부를 진단할 수 있는 알고리즘을 개발했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "연구팀이 이 AI 분석법을 활용해 전립선암을 진단한 결과, 76개의 소변 표본에서 전립선암 환자를 95.5%로 진단했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "연구진은 향후 임상을 확대해 더 많은 환자 정보를 학습시켜 진단 알고리즘의 정확성을 높일 계획이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이 박사는 “소변만으로 100%에 가깝게 전립선암을 신속히 진단할 수 있는 스마트 바이오센서의 개발은 소변을 활용한 다른 암 종의 정밀 진단에 활용될 수 있을 것”이라고 말했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이번 연구성과는 나노분야 국제학술지인 ‘ACS 나노(Nano)’에 게재됐다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조직검사 고통없이 '소변'으로 전립선암 진단 AI 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

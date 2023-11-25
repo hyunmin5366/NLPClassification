@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330577",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "엑사비스, 보안 블랙박스 상용화",
+		"newsSubTitle": "",
+		"newsContent": "네트워크에 남아있는 사이버 공격 흔적을 저장하고 분석하는 '네트워크 보안 블랙박스'가 나왔다.\n엑사비스(대표 이시영)는 네트워크 데이터를 저장해 회귀 보안 분석을 제공하는 '넷아르고스'를 출시했다고 25일 밝혔다.\n자동차에 설치된 블랙박스처럼 기업 네트워크로 들어오는 트래픽을 효율적으로 저장하고 분석해 위협을 찾아낸다.\n기업은 네트워크에 방화벽, 침입방지시스템(IPS), 통합위협관리(UTM) 등 다양한 실시간 보안 장비를 설치했다.\n네트워크 보안장비는 주기적으로 취약점이나 위협이 감지된 후 새로운 보안 정책을 업데이트해야 한다.\n업데이트까지 약 15일에서 한 달의 보안 공백이 발생한다.\n보안 장비에 새 정책을 넣었지만 이전에 공격이 감행되면 찾아내기 어렵다.\n넷아르고스는 보안 공백을 최소화한다.\n넷아르고스는 새로운 보안 정책이 적용되기 전까지 15일에서 한 달간 기업으로 들어온 네트워크 데이터를 저장한 후 분석한다.\n기업이 약 한달 분량의 네트워크 데이터를 저장하려면 엄청난 스토리지가 요구된다.\n저장 비용이 많이 들고 분석 시간도 길다.\n이런 이유로 네트워크 블랙박스 상용화가 쉽지 않다.\n엑사비스는 네트워크 트래픽을 효율적으로 저장하는 '퍼스트(First)-N' 기술을 개발했다.\n전체 패킷을 캡처하지 않고 지정한 N 사이즈 패킷만 뽑아낸다.\n이시영 엑사비스 대표는 “하루에 40TB에서 50TB를 저장해야 하는 전체 패킷 저장방식을 퍼스트 N 기술로 처리하면 1TB로 줄인다”면서 “저장공간은 98% 줄이면서 검출 정확도는 99% 이상 유지한다”고 말했다.\n이어 “네트워크 전체 패킷을 저장하면 좋지만 엄청난 용량 때문에 분석에 어려움을 겪는다”고 덧붙였다.\n넷아르고스는 보안 공백 분석에 필요한 최소한 패킷만 저장하고 검출한다.\n보안 분석을 위해 패킷 저장량을 50분의 1 수준으로 감소한다.\n하루, 주간, 월간 등 주기에 맞춰 보안 사각을 검출하고 분석 정리한다.\n넷아르고스는 방화벽과 IPS등 기존 장비와 연동해 보안정책 재설정 정보도 제공한다.\n이 대표는 “넷아르고스는 방화벽과 IDS, IPS, 네트워크 포렌식 장비를 보완한다”면서 “통합보안관제시스템 구성요소로 활용되는 다차원 네트워크 보안 장비”라고 설명했다.\n이어 “통신사와 대학 등에 넷아르고스를 공급했다”면서 “넷아르고스는 시간과 운용 상 보안 공백으로 발생하는 사각지대 대응 능력을 제공한다”고 덧붙였다.\n엑사비스는 네트워크와 보안 전문가가 설립한 소프트웨어 기반 고부가가치솔루션(SDND) 공급사다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네트워크에 남아있는 사이버 공격 흔적을 저장하고 분석하는 '네트워크 보안 블랙박스'가 나왔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엑사비스(대표 이시영)는 네트워크 데이터를 저장해 회귀 보안 분석을 제공하는 '넷아르고스'를 출시했다고 25일 밝혔다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자동차에 설치된 블랙박스처럼 기업 네트워크로 들어오는 트래픽을 효율적으로 저장하고 분석해 위협을 찾아낸다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기업은 네트워크에 방화벽, 침입방지시스템(IPS), 통합위협관리(UTM) 등 다양한 실시간 보안 장비를 설치했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네트워크 보안장비는 주기적으로 취약점이나 위협이 감지된 후 새로운 보안 정책을 업데이트해야 한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "업데이트까지 약 15일에서 한 달의 보안 공백이 발생한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "보안 장비에 새 정책을 넣었지만 이전에 공격이 감행되면 찾아내기 어렵다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "넷아르고스는 보안 공백을 최소화한다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "넷아르고스는 새로운 보안 정책이 적용되기 전까지 15일에서 한 달간 기업으로 들어온 네트워크 데이터를 저장한 후 분석한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "기업이 약 한달 분량의 네트워크 데이터를 저장하려면 엄청난 스토리지가 요구된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "저장 비용이 많이 들고 분석 시간도 길다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이런 이유로 네트워크 블랙박스 상용화가 쉽지 않다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "엑사비스는 네트워크 트래픽을 효율적으로 저장하는 '퍼스트(First)-N' 기술을 개발했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "전체 패킷을 캡처하지 않고 지정한 N 사이즈 패킷만 뽑아낸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이시영 엑사비스 대표는 “하루에 40TB에서 50TB를 저장해야 하는 전체 패킷 저장방식을 퍼스트 N 기술로 처리하면 1TB로 줄인다”면서 “저장공간은 98% 줄이면서 검출 정확도는 99% 이상 유지한다”고 말했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이어 “네트워크 전체 패킷을 저장하면 좋지만 엄청난 용량 때문에 분석에 어려움을 겪는다”고 덧붙였다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "넷아르고스는 보안 공백 분석에 필요한 최소한 패킷만 저장하고 검출한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "보안 분석을 위해 패킷 저장량을 50분의 1 수준으로 감소한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "하루, 주간, 월간 등 주기에 맞춰 보안 사각을 검출하고 분석 정리한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "넷아르고스는 방화벽과 IPS등 기존 장비와 연동해 보안정책 재설정 정보도 제공한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이 대표는 “넷아르고스는 방화벽과 IDS, IPS, 네트워크 포렌식 장비를 보완한다”면서 “통합보안관제시스템 구성요소로 활용되는 다차원 네트워크 보안 장비”라고 설명했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이어 “통신사와 대학 등에 넷아르고스를 공급했다”면서 “넷아르고스는 시간과 운용 상 보안 공백으로 발생하는 사각지대 대응 능력을 제공한다”고 덧붙였다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "엑사비스는 네트워크와 보안 전문가가 설립한 소프트웨어 기반 고부가가치솔루션(SDND) 공급사다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엑사비스, 보안 블랙박스 상용화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

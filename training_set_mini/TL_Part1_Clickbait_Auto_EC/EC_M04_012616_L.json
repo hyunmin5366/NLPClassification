@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012616",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "'입는 전자제품' 구현 앞당긴다",
+		"newsSubTitle": "백경욱 KAIST 교수, 저가형 플렉시블 패키징 기술 개발",
+		"newsContent": "▲ 백경욱 교수KAIST 신소재공학과 백경욱(58·사진) 교수팀은 특수 신소재를 이용해 전기가 잘 통하면서도 자유롭게 구부리거나 휠 수 있는 저가형 플렉시블 패키징 기술을 개발했다.\n전자 패키킹은 스마트폰, 컴퓨터, 가전기기 등 모든 전자제품의 하드웨어구조를 제작하는 기술로 미래의 입는 기기 전자제품 구현의 핵심이다.\n백 교수팀은 기존의 두껍고 딱딱한 반도체 소자를 30~50㎛(마이크로미터·100만분의 1미터) 두께로 얇게 갈아낸 후 플렉시블 기기용 이방성 전도성 필름(ACF) 신소재를 사용해 연성 기판에 패키징했다.\n이 방법은 기존의 플렉시블 반도체 기술에 비해 매우 공정이 간단하고, 가격이 저렴한 장점이 있다.\n개발된 플렉시블 패키징된 반도체는 직경 6mm 수준까지 구부리더라도 전기적으로 우수하고 유연한 기계적 특성을 구현시켰다.\n백경욱 교수는 “이 기술은 웨어러블 컴퓨터의 중앙처리장치 및 메모리반도체, 다양한 센서반도체, 자유롭게 휘어지는 스마트폰, 플렉시블 디스플레이 등 다양한 전자제품 조립분야에 널리 활용될 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 백경욱 교수KAIST 신소재공학과 백경욱(58·사진) 교수팀은 특수 신소재를 이용해 전기가 잘 통하면서도 자유롭게 구부리거나 휠 수 있는 저가형 플렉시블 패키징 기술을 개발했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전자 패키킹은 스마트폰, 컴퓨터, 가전기기 등 모든 전자제품의 하드웨어구조를 제작하는 기술로 미래의 입는 기기 전자제품 구현의 핵심이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "백 교수팀은 기존의 두껍고 딱딱한 반도체 소자를 30~50㎛(마이크로미터·100만분의 1미터) 두께로 얇게 갈아낸 후 플렉시블 기기용 이방성 전도성 필름(ACF) 신소재를 사용해 연성 기판에 패키징했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 방법은 기존의 플렉시블 반도체 기술에 비해 매우 공정이 간단하고, 가격이 저렴한 장점이 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개발된 플렉시블 패키징된 반도체는 직경 6mm 수준까지 구부리더라도 전기적으로 우수하고 유연한 기계적 특성을 구현시켰다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "백경욱 교수는 “이 기술은 웨어러블 컴퓨터의 중앙처리장치 및 메모리반도체, 다양한 센서반도체, 자유롭게 휘어지는 스마트폰, 플렉시블 디스플레이 등 다양한 전자제품 조립분야에 널리 활용될 것”이라고 말했다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "충남 부동산시장 ‘들썩’ , 매매가· 전셋값이 큰 폭 상승",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

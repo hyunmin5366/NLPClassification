@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351968",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "SKT-JTBC스튜디오, AI 영상 자막기술 공동 개발한다",
+		"newsSubTitle": "null",
+		"newsContent": "SK텔레콤과 JTBC스튜디오가 '실시간 AI 자동 자막서비스' 기술 개발을 위해 손을 잡았다.\n코로나19로 영상 콘텐츠에 대한 의존도가 높아지고 있는 상황에서 그동안 수어 방송이나 자막이 없어 눈으로 보고 체험할 수 있는 프로그램이 많이 부족했던 청각 장애인들의 시청권 향상 및 최근 확산일로에 있는 K-콘텐츠의 해외 보급에 큰 도움이 될 전망이다.\nSK텔레콤은 JTBC스튜디오와 '실시간 AI 자동 자막서비스' 기술 개발 협약을 27일 체결했다고 밝혔다.\n드라마, 예능 등 모든 프로그램과 인터넷TV(IPTV), 온라인동영상서비스(OTT) 등 다양한 미디어에 자막 서비스를 제공하는 AI 미디어기술을 공동 개발할 방침이다.\n이 기술은 영상 콘텐츠를 인식해 AI가 자동으로 한국어 자막을 제공한다.\nJTBC의 콘텐츠 제작 및 유통을 총괄하는 JTBC스튜디오가 AI 딥러닝을 위한 영상 콘텐츠와 방송기술 컨설팅을 제공하고, SK텔레콤은 미디어에 최적화된 음성인식 및 자막 생성 원천기술을 개발해 함께 활용하기로 했다.\n현재 주요 방송사들은 사람이 직접 영상 콘텐츠의 대화를 듣고 이를 자막화해 서비스를 제공하고 있으나, 4~5초 정도의 지연시간과 함께 일부 대화의 누락으로 제대로 시청하기 어렵다는 불만이 제기돼 왔다.\n실시간 방송 이외의 VOD 및 OTT 매체에는 해당 서비스가 제공되지 않아, 청각장애인의 시청복지에 소홀했던 것이 사실이다.\n아울러 수출국 지역 언어로의 번역에 드는 시간과 비용을 절약할 수 있어 K콘텐츠의 확산에도 크게 기여할 것으로 기대된다.\n대본이 있는 드라마 이외의 교양 및 예능 콘텐츠에도 자막파일 자동생성 및 싱크 기술이 포함되기 때문에 수출을 위한 준비 시간 및 비용을 획기적으로 줄일 수 있다.\n현재 자막 생성 기술로는 구글 음성 인식기가 대표적이나 잡음이 많은 방송에 바로 활용하기 어렵고 방송 콘텐츠에 맞게 추가 학습 및 개발이 필요한 상황이다.\n특히 방송 콘텐츠의 경우 화자의 목소리 인식을 방해하는 사투리, 배경음악, 생활잡음 등이 자막 추출의 정확도를 낮추기 때문에 이에 대응하는 특화된 AI 음성인식 및 잡음제거 기술이 필요하다.\nSK텔레콤은 올해 상반기 AI 잡음 제거 기술을 개발 완료했다.\n이를 활용해 지난 6월 'SK텔레콤 오픈 골프대회'에서 촬영 중 함께 녹음된 바람소리, 새소리, 차 소리 등의 잡음을 제거해 경기 중 선수와 캐디 간의 대화 및 선수 인터뷰 등을 생중계에 생생하게 포함시켜 시청자들의 호응을 받은 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤과 JTBC스튜디오가 '실시간 AI 자동 자막서비스' 기술 개발을 위해 손을 잡았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코로나19로 영상 콘텐츠에 대한 의존도가 높아지고 있는 상황에서 그동안 수어 방송이나 자막이 없어 눈으로 보고 체험할 수 있는 프로그램이 많이 부족했던 청각 장애인들의 시청권 향상 및 최근 확산일로에 있는 K-콘텐츠의 해외 보급에 큰 도움이 될 전망이다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SK텔레콤은 JTBC스튜디오와 '실시간 AI 자동 자막서비스' 기술 개발 협약을 27일 체결했다고 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "드라마, 예능 등 모든 프로그램과 인터넷TV(IPTV), 온라인동영상서비스(OTT) 등 다양한 미디어에 자막 서비스를 제공하는 AI 미디어기술을 공동 개발할 방침이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 기술은 영상 콘텐츠를 인식해 AI가 자동으로 한국어 자막을 제공한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "JTBC의 콘텐츠 제작 및 유통을 총괄하는 JTBC스튜디오가 AI 딥러닝을 위한 영상 콘텐츠와 방송기술 컨설팅을 제공하고, SK텔레콤은 미디어에 최적화된 음성인식 및 자막 생성 원천기술을 개발해 함께 활용하기로 했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 주요 방송사들은 사람이 직접 영상 콘텐츠의 대화를 듣고 이를 자막화해 서비스를 제공하고 있으나, 4~5초 정도의 지연시간과 함께 일부 대화의 누락으로 제대로 시청하기 어렵다는 불만이 제기돼 왔다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "실시간 방송 이외의 VOD 및 OTT 매체에는 해당 서비스가 제공되지 않아, 청각장애인의 시청복지에 소홀했던 것이 사실이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "아울러 수출국 지역 언어로의 번역에 드는 시간과 비용을 절약할 수 있어 K콘텐츠의 확산에도 크게 기여할 것으로 기대된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "대본이 있는 드라마 이외의 교양 및 예능 콘텐츠에도 자막파일 자동생성 및 싱크 기술이 포함되기 때문에 수출을 위한 준비 시간 및 비용을 획기적으로 줄일 수 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "현재 자막 생성 기술로는 구글 음성 인식기가 대표적이나 잡음이 많은 방송에 바로 활용하기 어렵고 방송 콘텐츠에 맞게 추가 학습 및 개발이 필요한 상황이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "특히 방송 콘텐츠의 경우 화자의 목소리 인식을 방해하는 사투리, 배경음악, 생활잡음 등이 자막 추출의 정확도를 낮추기 때문에 이에 대응하는 특화된 AI 음성인식 및 잡음제거 기술이 필요하다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "SK텔레콤은 올해 상반기 AI 잡음 제거 기술을 개발 완료했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이를 활용해 지난 6월 'SK텔레콤 오픈 골프대회'에서 촬영 중 함께 녹음된 바람소리, 새소리, 차 소리 등의 잡음을 제거해 경기 중 선수와 캐디 간의 대화 및 선수 인터뷰 등을 생중계에 생생하게 포함시켜 시청자들의 호응을 받은 바 있다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKT-JTBC스튜디오, AI 영상 자막기술 공동 개발한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

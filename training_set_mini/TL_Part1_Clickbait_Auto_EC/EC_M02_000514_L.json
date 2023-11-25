@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000514",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "아프리카TV 디도스 공격받아...\\\"언제 어떤 형태의 공격받을지 예측 어렵다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "가비아에 이어 아프리카TV도 디도스 공격으로 서버 장애가 일어나 이용자들이 불편함을 겪었다.\n아프리카TV는 아프리카TV 서버가 입주해 있는 SK-IDC(데이터센터)가 디도스(DDoS) 공격을 받아 9일부터 10일까지 장애가 일어났다고 10일 밝혔다.\n디도스는 여러 대의 PC를 특정 웹사이트에 동시에 접속시킴으로써 과부하로 서버를 다운시키는 해킹 방식이다.\n이틀간 공격은 세 차례 일어났다.\n1차 공격은 9일 오후 9시 46분부터 10일 오전 12시 16분까지로 150분간 장애가 발생했으며, 2차 공격은 10일 오전 8시 10분부터 35분간, 3차 공격은 10일 오전 11시 36분부터 24분간 일어났다.\n이로 인해 아프리카TV PC 및 모바일 전체 페이지의 로딩이 지연되고 방송 입장과 방송하기 등이 지연됐다.\n아프리카TV 관계자는 11일 미디어SR에 \\\"10일 이후 추가적인 디도스 공격은 없었다. 지속적으로 모니터링하고 있다. 디도스 공격이 언제 들어올지는 예측 불가능해 어쩔 수 없는 문제\\\"라고 말했다.\n아프리카TV는 10일 공지사항을 통해 \\\"다양한 패턴으로 디도스 공격이 지속되고 있으나, 이로 인한 장애를 막기 위해 SK-IDC 보안관제센터와 핫라인을 구축하고 장애 피해나 시간을 최소화할 수 있도록 실시간 대응을 진행 중\\\"이라고 밝혔다.\n앞서 7일 SK브로드밴드의 서초 IDC에 입주해 있는 웹호스팅 업체 가비아의 네트워크에 디도스 공격이 들어왔다.\n가비아를 이용하는 웹사이트에도 장애가 발생해 이용자들이 불편을 겪었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가비아에 이어 아프리카TV도 디도스 공격으로 서버 장애가 일어나 이용자들이 불편함을 겪었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아프리카TV는 아프리카TV 서버가 입주해 있는 SK-IDC(데이터센터)가 디도스(DDoS) 공격을 받아 9일부터 10일까지 장애가 일어났다고 10일 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "디도스는 여러 대의 PC를 특정 웹사이트에 동시에 접속시킴으로써 과부하로 서버를 다운시키는 해킹 방식이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이틀간 공격은 세 차례 일어났다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1차 공격은 9일 오후 9시 46분부터 10일 오전 12시 16분까지로 150분간 장애가 발생했으며, 2차 공격은 10일 오전 8시 10분부터 35분간, 3차 공격은 10일 오전 11시 36분부터 24분간 일어났다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이로 인해 아프리카TV PC 및 모바일 전체 페이지의 로딩이 지연되고 방송 입장과 방송하기 등이 지연됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아프리카TV 관계자는 11일 미디어SR에 \\\"10일 이후 추가적인 디도스 공격은 없었다. 지속적으로 모니터링하고 있다. 디도스 공격이 언제 들어올지는 예측 불가능해 어쩔 수 없는 문제\\\"라고 말했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아프리카TV는 10일 공지사항을 통해 \\\"다양한 패턴으로 디도스 공격이 지속되고 있으나, 이로 인한 장애를 막기 위해 SK-IDC 보안관제센터와 핫라인을 구축하고 장애 피해나 시간을 최소화할 수 있도록 실시간 대응을 진행 중\\\"이라고 밝혔다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "앞서 7일 SK브로드밴드의 서초 IDC에 입주해 있는 웹호스팅 업체 가비아의 네트워크에 디도스 공격이 들어왔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "가비아를 이용하는 웹사이트에도 장애가 발생해 이용자들이 불편을 겪었다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지문으로 인증하고 홍채로 송금까지",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

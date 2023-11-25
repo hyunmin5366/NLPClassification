@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336558",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[미리보는 세미콘코리아2018]한국NI, 24채널 칩 테스트 모듈 첫 선",
+		"newsSubTitle": "",
+		"newsContent": "계측 테스트 솔루션 전문업체 한국내쇼날인스트루먼트(한국NI)는 31일부터 2월 2일까지 서울 삼성동 코엑스에서 개최되는 세미콘코리아 2018에서 기존 제품보다 확장성을 6배 높인 소스측정장치(SMU) PXIe-4163을 처음 선보인다.\nPXIe-4163은 PXI(PCI eXtensions for Instrumentation) 시스템에 탑재되는 SMU 모듈이다.\nPXI는 콤팩트 PCI 버스를 활용하는 통합 모듈형 계측 시스템 규격으로 다양한 계측 솔루션 업체가 이 규격 시스템을 내놓고 있다.\n24채널을 지원하는 PXIe-4163은 모듈 하나로 최대 24개의 칩을 한 번에 테스트할 수 있다.\n테스트는 전압을 인가해 칩이 제대로 작동하는 것을 확인하는 식으로 이뤄진다.\n테스트 가능한 칩 종류는 무선주파수(RF), 미세전자기계시스템(MEMS) 기반 칩 패키지, 디지털 아날로그 혼성신호칩 혹은 아날로그 반도체 등이다.\n한국NI는 고객사가 이 제품을 활용해 전력관리칩(PMIC) 테스트를 주로 수행할 것으로 내다봤다.\n한국NI 관계자는 “기존에 나와 있던 테스트 모듈은 최대 4채널을 지원했던 반면에 PXIe-4163은 이보다 6배나 많은 24채널을 지원한다”면서 “고객사는 최소 투자로 최대한 많은 양의 테스트를 수행할 수 있다”고 설명했다.\nPXI 시스템에 최대로 탑재할 수 있는 모듈 숫자는 17개다.\nPXIe-4163을 활용할 경우 단일 시스템에서 최대 408개의 칩을 테스트할 수 있다.\n에릭 스타크로프 NI 글로벌 영업&마케팅 부사장은 “반도체 생산업체는 개발에서 양산에 이르기까지 테스트를 더 효율적으로 하길 원하고 있다”면서 “NI는 반도체 제조업체가 주요 당면 과제를 해결할 수 있도록 소프트웨어 플랫폼과 PXI 기능을 확장하고 있으며 PXIe-4163 같은 제품이 대표적인 결과물이다”라고 말했다.\n한국NI는 이외에도 4.5G, 5G 통신 계측 솔루션 등을 선보이며 국내 고객사 확보에 역량을 집중할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "계측 테스트 솔루션 전문업체 한국내쇼날인스트루먼트(한국NI)는 31일부터 2월 2일까지 서울 삼성동 코엑스에서 개최되는 세미콘코리아 2018에서 기존 제품보다 확장성을 6배 높인 소스측정장치(SMU) PXIe-4163을 처음 선보인다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "PXIe-4163은 PXI(PCI eXtensions for Instrumentation) 시스템에 탑재되는 SMU 모듈이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "PXI는 콤팩트 PCI 버스를 활용하는 통합 모듈형 계측 시스템 규격으로 다양한 계측 솔루션 업체가 이 규격 시스템을 내놓고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "24채널을 지원하는 PXIe-4163은 모듈 하나로 최대 24개의 칩을 한 번에 테스트할 수 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "테스트는 전압을 인가해 칩이 제대로 작동하는 것을 확인하는 식으로 이뤄진다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "테스트 가능한 칩 종류는 무선주파수(RF), 미세전자기계시스템(MEMS) 기반 칩 패키지, 디지털 아날로그 혼성신호칩 혹은 아날로그 반도체 등이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국NI는 고객사가 이 제품을 활용해 전력관리칩(PMIC) 테스트를 주로 수행할 것으로 내다봤다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한국NI 관계자는 “기존에 나와 있던 테스트 모듈은 최대 4채널을 지원했던 반면에 PXIe-4163은 이보다 6배나 많은 24채널을 지원한다”면서 “고객사는 최소 투자로 최대한 많은 양의 테스트를 수행할 수 있다”고 설명했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "PXI 시스템에 최대로 탑재할 수 있는 모듈 숫자는 17개다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "PXIe-4163을 활용할 경우 단일 시스템에서 최대 408개의 칩을 테스트할 수 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "에릭 스타크로프 NI 글로벌 영업&마케팅 부사장은 “반도체 생산업체는 개발에서 양산에 이르기까지 테스트를 더 효율적으로 하길 원하고 있다”면서 “NI는 반도체 제조업체가 주요 당면 과제를 해결할 수 있도록 소프트웨어 플랫폼과 PXI 기능을 확장하고 있으며 PXIe-4163 같은 제품이 대표적인 결과물이다”라고 말했다.",
+				"sentenceSize": 178
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "한국NI는 이외에도 4.5G, 5G 통신 계측 솔루션 등을 선보이며 국내 고객사 확보에 역량을 집중할 계획이다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[미리보는 세미콘코리아2018]한국NI, 24채널 칩 테스트 모듈 첫 선",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

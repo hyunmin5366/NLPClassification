@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008991",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "'가격 6배差' 같은 제품인데 왜?",
+		"newsSubTitle": "마트·시장·동네점포 생필품값 천차만별",
+		"newsContent": "같은 생필품인데 판매점에 따라 최대 6배 이상 비싸 서민들에게 큰 부담을 주는 것으로 나타났다.\n한국소비자원이 작성한 8월 생필품 가격분석보고서에 따르면 편의점과 마트, 전통시장, 동네 점포 등 165개 판매점의 생필품 101개 품목 중 최저가격과 최고가격의 차이가 두 배 이상 벌어진 품목이 무려 43개에 달했다.\n판매처에 따라 가격 차이가 크게 나는 품목은 즉석 덮밥, 즉석밥, 아이스크림, 버터, 참치 캔, 된장, 소금, 식용유, 생수, 생리대였다.\n이들 제품은 주로 편의점에서 많이 판매된다는 공통점이 있었다.\n소비자원은 편의점이 소비자들이 손쉽게 찾을 수 있다는 이점을 이용해 주요 생필품을 대형마트보다 비싸게 팔고 있다고 설명했다.\n편의점 업계는 각종 유통, 판매, 유지 비용 때문이라고 하지만 같은 회사의 생필품 가격이 두 배 이상 차이가 난다는 것은 있을 수 없다는 입장이다.\n소비자원이 조사한 생필품 중 가격 차이가 가장 큰 제품은 목욕용품 '해피바스 에센스 로맨틱 바디워시'였다.\n이 제품의 평균 가격은 8019원인데 최저 가격이 2000원, 최고 가격이 1만2700원으로 6.3배 이상 차이가 났다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "같은 생필품인데 판매점에 따라 최대 6배 이상 비싸 서민들에게 큰 부담을 주는 것으로 나타났다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국소비자원이 작성한 8월 생필품 가격분석보고서에 따르면 편의점과 마트, 전통시장, 동네 점포 등 165개 판매점의 생필품 101개 품목 중 최저가격과 최고가격의 차이가 두 배 이상 벌어진 품목이 무려 43개에 달했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "판매처에 따라 가격 차이가 크게 나는 품목은 즉석 덮밥, 즉석밥, 아이스크림, 버터, 참치 캔, 된장, 소금, 식용유, 생수, 생리대였다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들 제품은 주로 편의점에서 많이 판매된다는 공통점이 있었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소비자원은 편의점이 소비자들이 손쉽게 찾을 수 있다는 이점을 이용해 주요 생필품을 대형마트보다 비싸게 팔고 있다고 설명했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "편의점 업계는 각종 유통, 판매, 유지 비용 때문이라고 하지만 같은 회사의 생필품 가격이 두 배 이상 차이가 난다는 것은 있을 수 없다는 입장이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소비자원이 조사한 생필품 중 가격 차이가 가장 큰 제품은 목욕용품 '해피바스 에센스 로맨틱 바디워시'였다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 제품의 평균 가격은 8019원인데 최저 가격이 2000원, 최고 가격이 1만2700원으로 6.3배 이상 차이가 났다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "금감원, 21일부터 'Open DART' 시범운영…정보제공 범위 2종에서 23종 확대",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

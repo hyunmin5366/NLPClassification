@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009112",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "그리스發 공포에 금융시장 '패닉'",
+		"newsSubTitle": "코스피 1700선 턱걸이… 원·달러 환율 15.9원 폭등",
+		"newsContent": "코스피지수가 그리스의 디폴트(채무 불이행) 여파로 사흘 만에 급락했다.\n원ㆍ달러 환율은 1200원까지 치솟았다가 막판 진정세를 찾았다.\n4일 코스피지수는 전 거래일(1769.65)보다 63.46포인트(3.59%) 하락한 1706.19에 장을 마쳤다.\n한때 1658.06까지 폭락했지만, 오후 들어 겨우 1700선을 회복했다.\n그리스가 재정 적자 감축 목표를 달성하지 못할 것이라고 밝히면서 뉴욕증시가 이틀 연속 하락했다는 소식이 투자심리를 위축시켰다.\n외국인과 기관은 각각 4561억원, 1962억원을 순매도하면서 낙폭을 키웠다.\n코스닥지수도 전 거래일(449.66)보다 13.53포인트(3.01%) 하락한 436.13에 장을 마쳤다.\n반면, 서울 외환시장에서 원ㆍ달러 환율은 전날보다 15.9원(1.35%) 오른 1194.0원에 마감했다.\n환율은 21.90원 급등한 1200.00원으로 거래를 시작해 개장 후 1시간도 채 안 돼 1208.20원까지 상승하기도 했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피지수가 그리스의 디폴트(채무 불이행) 여파로 사흘 만에 급락했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "원ㆍ달러 환율은 1200원까지 치솟았다가 막판 진정세를 찾았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "4일 코스피지수는 전 거래일(1769.65)보다 63.46포인트(3.59%) 하락한 1706.19에 장을 마쳤다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한때 1658.06까지 폭락했지만, 오후 들어 겨우 1700선을 회복했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그리스가 재정 적자 감축 목표를 달성하지 못할 것이라고 밝히면서 뉴욕증시가 이틀 연속 하락했다는 소식이 투자심리를 위축시켰다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "외국인과 기관은 각각 4561억원, 1962억원을 순매도하면서 낙폭을 키웠다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코스닥지수도 전 거래일(449.66)보다 13.53포인트(3.01%) 하락한 436.13에 장을 마쳤다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "반면, 서울 외환시장에서 원ㆍ달러 환율은 전날보다 15.9원(1.35%) 오른 1194.0원에 마감했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "환율은 21.90원 급등한 1200.00원으로 거래를 시작해 개장 후 1시간도 채 안 돼 1208.20원까지 상승하기도 했다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서울 아파트값 상승폭 2주 연속 주춤…2·4 공급대책 효과인가",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

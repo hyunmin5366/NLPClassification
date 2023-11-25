@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325838",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "양자 컴퓨터 시대의 보안 <3>양자컴 막을 차세대 보안방패",
+		"newsSubTitle": "",
+		"newsContent": "양자컴퓨팅이 기존 보안 체계를 무너뜨릴 것이라는 우려에 양자컴퓨팅을 막을 차세대 보안 기술이 속속 시장에 등장하고 있다. '뚫리지 않는 방패' 양자 암호의 시대가 도래하고 있는 것이다.\n◇양자컴퓨팅 막아낼 양자내성암호(PQC) PQC는 양자 컴퓨터 위협에 대응하는 암호 알고리즘이다.\n영문 그대로 포스트 양자암호(Post-Quantum Cryptography)라고도 불린다.\n업계는 단순히 기존 암호의 비트 보안 강도를 늘리는 것으로 새로운 양자 알고리즘의 등장에 대비할 수 없다고 본다.\n양자내성암호는 새로운 수학적 난제를 기반으로 양자컴퓨터로도 해독이 불가능한 보안성을 갖추는 데 초점을 맞췄다.\n양자내성암호는 암호키 교환과 데이터 암∙복호화, 무결성 인증 등 다양한 기술을 제공할 수 있다.\n양자내성암호는 소프트웨어 기반으로 통신보안, 데이터 보안, 전자상거래 등 응용서비스 보안 등에 적용할 수 있다.\n구축∙유지 보수 비용 또한 비교적 낮은 편이다.\n양자내성암호는 기반이 되는 수학적 난제에 따라 격자 기반 암호, 코드 기반 암호, 다변수 기반 암호, 아이소제니 기반 암호, 해시 기반 전자서명 등 다섯 가지 분야로 구분할 수 있다.\n국내에서는 한국정보통신기술협회(TTA)가 2019년 암호화 및 키 교환 표준 작업을 완료하고 2020년 전자서명 표준을 정립했다.\n국가보안기술연구소 K-PQC 연구단에서는 PQC 인증 가이드라인을 마련하고 있다.\n◇비밀키 공유하는 '양자암호키 분배' 양자 컴퓨팅을 막을 기술 중 하나는 양자 키 분배(Quantum key Distribution, QKD) 기술이다.\n이 기술은 양자역학의 특별한 현상을 이용한다.\n기술은 양자 중첩, 둘 이상의 입자가 서로 얽혀 있어 원격으로 떨어진 한 입자의 상태변화가 동시에 다른 입자에도 반영되는 양자 얽힘, 위치나 속도 같은 서로 다른 물리량을 동시에 측정하는 것이 불가능하다는 불확정성의 원리를 기반으로 한다.\n불확정성의 원리를 기반으로 해커가 중간에서 양자 암호 키를 측정하거나 정보를 관측하게 되면 양자 상태에 변화를 주고 이러한 변화는 송신자와 수신자의 키 분배에 오류를 일으켜 해커가 있다는 사실을 확인할 수 있다.\n이와 더불어 양자 상태가 변한다는 것은 곧 암호가 변한다는 것을 뜻하므로 복제 역시 원천적으로 불가능한 장점이 있다.\n이론 상 완전한 보안을 약속하는 암호화 방식이지만 지상파 네트워크의 경우 양자 중계기가 필요하다는 단점이 있다.\n업계 관계자는 \\\"양자 컴퓨팅 기반 해킹을 차단하려면 수준 높은 암호화 기술이 필요하다\\\"며 \\\"다만 이동성과 비용, 하드웨어 인프라 비용을 최소화하기 위해서 '대중을 위한 양자 암호화' 기술이 요구되는 상황\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "양자컴퓨팅이 기존 보안 체계를 무너뜨릴 것이라는 우려에 양자컴퓨팅을 막을 차세대 보안 기술이 속속 시장에 등장하고 있다. '뚫리지 않는 방패' 양자 암호의 시대가 도래하고 있는 것이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "◇양자컴퓨팅 막아낼 양자내성암호(PQC) PQC는 양자 컴퓨터 위협에 대응하는 암호 알고리즘이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영문 그대로 포스트 양자암호(Post-Quantum Cryptography)라고도 불린다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "업계는 단순히 기존 암호의 비트 보안 강도를 늘리는 것으로 새로운 양자 알고리즘의 등장에 대비할 수 없다고 본다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양자내성암호는 새로운 수학적 난제를 기반으로 양자컴퓨터로도 해독이 불가능한 보안성을 갖추는 데 초점을 맞췄다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양자내성암호는 암호키 교환과 데이터 암∙복호화, 무결성 인증 등 다양한 기술을 제공할 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "양자내성암호는 소프트웨어 기반으로 통신보안, 데이터 보안, 전자상거래 등 응용서비스 보안 등에 적용할 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "구축∙유지 보수 비용 또한 비교적 낮은 편이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "양자내성암호는 기반이 되는 수학적 난제에 따라 격자 기반 암호, 코드 기반 암호, 다변수 기반 암호, 아이소제니 기반 암호, 해시 기반 전자서명 등 다섯 가지 분야로 구분할 수 있다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "국내에서는 한국정보통신기술협회(TTA)가 2019년 암호화 및 키 교환 표준 작업을 완료하고 2020년 전자서명 표준을 정립했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "국가보안기술연구소 K-PQC 연구단에서는 PQC 인증 가이드라인을 마련하고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "◇비밀키 공유하는 '양자암호키 분배' 양자 컴퓨팅을 막을 기술 중 하나는 양자 키 분배(Quantum key Distribution, QKD) 기술이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이 기술은 양자역학의 특별한 현상을 이용한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "기술은 양자 중첩, 둘 이상의 입자가 서로 얽혀 있어 원격으로 떨어진 한 입자의 상태변화가 동시에 다른 입자에도 반영되는 양자 얽힘, 위치나 속도 같은 서로 다른 물리량을 동시에 측정하는 것이 불가능하다는 불확정성의 원리를 기반으로 한다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "불확정성의 원리를 기반으로 해커가 중간에서 양자 암호 키를 측정하거나 정보를 관측하게 되면 양자 상태에 변화를 주고 이러한 변화는 송신자와 수신자의 키 분배에 오류를 일으켜 해커가 있다는 사실을 확인할 수 있다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이와 더불어 양자 상태가 변한다는 것은 곧 암호가 변한다는 것을 뜻하므로 복제 역시 원천적으로 불가능한 장점이 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이론 상 완전한 보안을 약속하는 암호화 방식이지만 지상파 네트워크의 경우 양자 중계기가 필요하다는 단점이 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "업계 관계자는 \\\"양자 컴퓨팅 기반 해킹을 차단하려면 수준 높은 암호화 기술이 필요하다\\\"며 \\\"다만 이동성과 비용, 하드웨어 인프라 비용을 최소화하기 위해서 '대중을 위한 양자 암호화' 기술이 요구되는 상황\\\"이라고 말했다.",
+				"sentenceSize": 126
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "양자 컴퓨터 시대의 보안 <3>양자컴 막을 차세대 보안방패",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

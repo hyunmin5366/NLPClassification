@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339006",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "서울시, 이택스 '전자고지' 이메일 오발송 난리",
+		"newsSubTitle": "",
+		"newsContent": "서울시가 70만명에 달하는 이택스(ETAX) 사용자에게 전자고지 이메일을 오발송했다.\n이메일을 받은 사용자는 개인정보 유출을 우려했다.\n서울시에 관련 문의 전화가 폭주했다.\n서울시는 6일 새벽 4시경 '3월 도로점용사용료 전자고지' 이메일을 발송했다.\n발신인은 서울시이며 수신인은 '안00'이었다.\n해당 이메일을 받은 사람은 안00씨에게 가야 할 전자고지가 잘 못 온 것으로 생각했다.\n일부는 악성코드가 첨부된 이메일 사이버 공격으로 인식했다.\n서울시는 이택스 홈페이지에 시스템 오류라고 공지를 올리고 사과 이메일을 발송했다.\n서울시는 새벽에 발송된 전자고지 안내메일 중 시스템 오류로 오발송된 건이 있다고 공지했다.\n수신자 오류발송으로 개인정보 유출은 없다고 밝혔다.\n서울시는 “우리은행 이택스 운영사업본부를 통해 시스템을 점검해 재발을 방지하겠다”며 사과했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울시가 70만명에 달하는 이택스(ETAX) 사용자에게 전자고지 이메일을 오발송했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이메일을 받은 사용자는 개인정보 유출을 우려했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서울시에 관련 문의 전화가 폭주했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서울시는 6일 새벽 4시경 '3월 도로점용사용료 전자고지' 이메일을 발송했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "발신인은 서울시이며 수신인은 '안00'이었다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 이메일을 받은 사람은 안00씨에게 가야 할 전자고지가 잘 못 온 것으로 생각했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일부는 악성코드가 첨부된 이메일 사이버 공격으로 인식했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서울시는 이택스 홈페이지에 시스템 오류라고 공지를 올리고 사과 이메일을 발송했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "서울시는 새벽에 발송된 전자고지 안내메일 중 시스템 오류로 오발송된 건이 있다고 공지했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "수신자 오류발송으로 개인정보 유출은 없다고 밝혔다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "서울시는 “우리은행 이택스 운영사업본부를 통해 시스템을 점검해 재발을 방지하겠다”며 사과했다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서울시, 이택스 '전자고지' 이메일 오발송 난리",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

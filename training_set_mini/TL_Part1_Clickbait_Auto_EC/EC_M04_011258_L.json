@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011258",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "삼영기계 월미농공단지서 공주공장 준공기념식",
+		"newsSubTitle": "대전 생산량 2배 수준",
+		"newsContent": "▲ 삼영기계(주) 공주공장 사무동.삼영기계(주)(대표 한금태) 공주공장 준공기념식이 오는 21일 오후 2시 열린다.\n중형 디젤엔진 분야 전문기업인 삼영기계는 지난해 말 공주시 월미동 월미농공단지 내에 본사 신사옥 및 대규모 제조공장을 완공했다.\n이번 공주공장은 기존 대전공장 제품 생산량의 2배 수준이다.\n공주공장은 사무동 1동을 비롯해 1·2공장, 2개의 복지동 등 모두 5개의 건물로 조성된 대규모 공장으로, 대지면적(3만2000여㎡)은 대화동 대전 1·2공장 규모를 합한 면적의 3배가 넘는 규모다.\n특히 공주 1공장의 경우 약 80m의 생산라인을 구축해 원스톱으로 제품 생산이 가능하다.\n이번 공주공장 완공으로 삼영기계는 공주·논산·대전공장 체제를 유지할 수 있게 됐다.\n한편, 현재의 삼영기계 대전공장은 향후 리모델링과 시장조사를 거쳐 신제품 생산라인(디젤엔진 소형 부품)을 구축할 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 삼영기계(주) 공주공장 사무동.삼영기계(주)(대표 한금태) 공주공장 준공기념식이 오는 21일 오후 2시 열린다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "중형 디젤엔진 분야 전문기업인 삼영기계는 지난해 말 공주시 월미동 월미농공단지 내에 본사 신사옥 및 대규모 제조공장을 완공했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 공주공장은 기존 대전공장 제품 생산량의 2배 수준이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공주공장은 사무동 1동을 비롯해 1·2공장, 2개의 복지동 등 모두 5개의 건물로 조성된 대규모 공장으로, 대지면적(3만2000여㎡)은 대화동 대전 1·2공장 규모를 합한 면적의 3배가 넘는 규모다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 공주 1공장의 경우 약 80m의 생산라인을 구축해 원스톱으로 제품 생산이 가능하다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 공주공장 완공으로 삼영기계는 공주·논산·대전공장 체제를 유지할 수 있게 됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 현재의 삼영기계 대전공장은 향후 리모델링과 시장조사를 거쳐 신제품 생산라인(디젤엔진 소형 부품)을 구축할 계획이다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엑스포재창조사업 \\\"롯데테마파크, 부정적이면 재검토\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336082",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "北 소행에 무게 실리는 워너크라이 몸값 피해액은 얼마?",
+		"newsSubTitle": "",
+		"newsContent": "지난 열흘간 워너크라이 랜섬웨어 몸값 피해액이 1억 5000만원에 육박했다.\n국내 사이버전 전문가 그룹은 워너크라이 공격자가 새 버전을 개발해 재배포할 가능성이 크다며 주의를 당부했다.\n워너크라이 공격 피해가 상대적으로 적었던 국내가 표적 공격 대상이 될 수 있다.\nNSHC(대표 허영일)는 워너크라이 랜섬웨어와 연결된 비트코인 전자지갑 분석결과 공격자가 얻은 수익이 약 12만6623달러(약 1억 4151만원)에 달한다고 밝혔다.\nA사이버전 전문가는 \\\"워너크라이 공격자가 버전을 바꾸며 새로운 공격 기회를 엿보고 있다\\\"며 \\\"랜섬웨어 공격에 대해 긴장을 늦추면 안된다\\\"고 말했다.\nB보안 기업 대표는 \\\"워너크라이 대란에 이어 또 다른 랜섬웨어가 한반도를 강타할 것\\\"이라는 예측도 내놨다.\n23일 시만텍은 워너크라이 공격자가 소니픽처스와 방글라데시 중앙은행을 해킹한 나자로(Lazarus) 그룹과 강력한 연결 고리가 발견됐다고 발표했다.\n미국 정부는 소니픽처스 해킹 사고 당시 나자로 그룹 배후로 북한을 지목했다.\n시만텍은 워너크라이 랜섬웨어 공격자가 사용한 해킹 도구와 인프라가 나자로 그룹과 강력히 연결된다고 밝혔다.\n16일 시만텍은 워너크라이와 나자로 그룹 간 연계가 의심스럽다는 입장에서 이번엔 북한 배후 가능성에 무게를 실었다.\n시만텍에 따르면 5월 12일 대규모 유포가 시작되기 전 공격자는 2~4월 사이 특정 표적에게만 워너크라이 감염을 시도했다.\n초기 버전은 5월에 사용된 소스와 거의 동일한데 전파 방법만 달랐다.\n초기 워너크라이 공격을 받은 피해자 네트워크에서 나자로 그룹과 연계된 악성코드 3종이 발견됐다.\n트로이목마(Trojan.Volgme)와 백도어(Backdoor.Destover) 등이며 디스크를 삭제하는 도구는 소니픽처스 공격 때 쓰인 것과 동일하다. 3, 4월에 워너크라이 전파에 쓰인 트로이목마는 나자로 그룹이 사용하던 백도어 듀저(Backdoor.Duuzer)의 수정 버전이다.\n또 다른 악성코드(Trojan.Bravonc)는 듀저가 주로 사용하는 명령&제어(C&C) 서버와 같은 IP를 쓴다.\n공격 인프라가 동일하다.\n워너크라이 드로퍼에 포함된 압축 파일에 쓰인 암호도 동일하다.\n시만텍은 2월 워너크라이가 사용한 비트코인 지갑이 5월 공격 때도 쓰였다고 밝혔다.\n사이버 범죄 집단은 공격 코드 등을 사고팔지만 돈을 받는 수단까지 공유하지 않는다.\n시만텍은 워너크라이가 나자로 그룹과 연결됐지만 다른 공격과 달리 특정 국가를 노린 사이버테러가 아니라 범죄 형태를 보인다고 분석했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 열흘간 워너크라이 랜섬웨어 몸값 피해액이 1억 5000만원에 육박했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 사이버전 전문가 그룹은 워너크라이 공격자가 새 버전을 개발해 재배포할 가능성이 크다며 주의를 당부했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "워너크라이 공격 피해가 상대적으로 적었던 국내가 표적 공격 대상이 될 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "NSHC(대표 허영일)는 워너크라이 랜섬웨어와 연결된 비트코인 전자지갑 분석결과 공격자가 얻은 수익이 약 12만6623달러(약 1억 4151만원)에 달한다고 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "A사이버전 전문가는 \\\"워너크라이 공격자가 버전을 바꾸며 새로운 공격 기회를 엿보고 있다\\\"며 \\\"랜섬웨어 공격에 대해 긴장을 늦추면 안된다\\\"고 말했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "B보안 기업 대표는 \\\"워너크라이 대란에 이어 또 다른 랜섬웨어가 한반도를 강타할 것\\\"이라는 예측도 내놨다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "23일 시만텍은 워너크라이 공격자가 소니픽처스와 방글라데시 중앙은행을 해킹한 나자로(Lazarus) 그룹과 강력한 연결 고리가 발견됐다고 발표했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "미국 정부는 소니픽처스 해킹 사고 당시 나자로 그룹 배후로 북한을 지목했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "시만텍은 워너크라이 랜섬웨어 공격자가 사용한 해킹 도구와 인프라가 나자로 그룹과 강력히 연결된다고 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "16일 시만텍은 워너크라이와 나자로 그룹 간 연계가 의심스럽다는 입장에서 이번엔 북한 배후 가능성에 무게를 실었다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "시만텍에 따르면 5월 12일 대규모 유포가 시작되기 전 공격자는 2~4월 사이 특정 표적에게만 워너크라이 감염을 시도했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "초기 버전은 5월에 사용된 소스와 거의 동일한데 전파 방법만 달랐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "초기 워너크라이 공격을 받은 피해자 네트워크에서 나자로 그룹과 연계된 악성코드 3종이 발견됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "트로이목마(Trojan.Volgme)와 백도어(Backdoor.Destover) 등이며 디스크를 삭제하는 도구는 소니픽처스 공격 때 쓰인 것과 동일하다. 3, 4월에 워너크라이 전파에 쓰인 트로이목마는 나자로 그룹이 사용하던 백도어 듀저(Backdoor.Duuzer)의 수정 버전이다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "또 다른 악성코드(Trojan.Bravonc)는 듀저가 주로 사용하는 명령&제어(C&C) 서버와 같은 IP를 쓴다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "공격 인프라가 동일하다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "워너크라이 드로퍼에 포함된 압축 파일에 쓰인 암호도 동일하다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "시만텍은 2월 워너크라이가 사용한 비트코인 지갑이 5월 공격 때도 쓰였다고 밝혔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "사이버 범죄 집단은 공격 코드 등을 사고팔지만 돈을 받는 수단까지 공유하지 않는다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "시만텍은 워너크라이가 나자로 그룹과 연결됐지만 다른 공격과 달리 특정 국가를 노린 사이버테러가 아니라 범죄 형태를 보인다고 분석했다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "北 소행에 무게 실리는 워너크라이 몸값 피해액은 얼마?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329973",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[이슈분석]은평구 보건소, AI 도입후 진단 속도·정확도↑",
+		"newsSubTitle": "",
+		"newsContent": "서울 은평구 보건소는 지난해 '민간클라우드 기반 인공지능(AI) 의료영상분석 보조서비스'를 도입, 폐 질환 진단 속도와 정확도를 높였다.\n그동안 공공의료는 서비스 품질 문제를 지적받았다.\n보건소는 폐질환 관련 판독 전문의가 없어 진료 시간이 오래 걸리거나 오진 확률이 높았다.\n보건소가 유일하게 보유한 진단 장비인 방사선 엑스레이(X-Ray)는 CT나 MRI보다 정확도가 낮아 종합병원 수준 폐질환 검진이 불가능하다.\n폐암 등 폐질환 조기발견 골든타임을 놓친다.\n특히 지방 보건소는 공중보건의를 활용하지만 국가 병역자원 감소로 공중보건의가 부족하다.\n복부 기간 때문에 3년 후 다른 공중보건의로 바뀌어 동일한 품질 진단이 어렵다.\n은평구 보건소는 이 같은 문제를 해결하기 위해 엑스레이와 AI 기술을 결합해 주요 모든 폐질환을 분석하는 시범 사업을 추진했다.\nLG CNS와 의료 AI 스타트업 루닛이 함께 클라우드 기반 시스템을 구축했다.\nAI 의료영상분석 솔루션이 환자 폐 엑스레이 영상을 분석, 폐암, 결핵, 폐렴, 기흉 등 폐질환 여부를 의사에게 전달한다.\n보건소 담당의는 AI가 제공한 영상 분석 결과를 토대로 최종 진단을 내린다.\n환자 개인정보, 주소, 생년월일 등을 비식별화 해 보안 우려를 없앴다.\n은평구 보건소는 서비스 도입 후 진단 속도와 정확도를 높였다.\n이전에는 엑스레이를 판독해 의심소견이 발생되면 외부 전문병원에 의뢰하는 등 최종 진단까지 하루에서 이틀 가량 시간이 걸렸다.\nAI 보조 분석 솔루션 도입 후 20초 이내 주요 4대 폐질환(폐암, 결핵, 폐렴, 기흉)을 분석, 수 분내 의사가 최종 진단을 내린다.\nAI와 의사 협업으로 판독 정확률이 평균 94%까지 높아졌다.\n대학병원 전문의 판독 정확률인 평균 89%를 넘는 수준이다.\n은평구 보건소 사례는 AI 결합 국민 체감 공공의료서비스 사례를 만들었다는 점에서 의미 있다.\n클라우드 기반으로 구축해 전국 어디서나 동일한 공공의료 서비스를 제공할 수 있다.\n주요 폐질환 조기 발견으로 사망률 1위, 오진율 1위인 폐암 관리가 가능해졌다.\n은평구 보건소 관계자는 “클라우드 기반이라 쉽게 전국으로 확산이 가능하다”면서 “지역 간 의료 불균형을 해소하는 방안으로도 의미 있는 서비스”라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울 은평구 보건소는 지난해 '민간클라우드 기반 인공지능(AI) 의료영상분석 보조서비스'를 도입, 폐 질환 진단 속도와 정확도를 높였다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그동안 공공의료는 서비스 품질 문제를 지적받았다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보건소는 폐질환 관련 판독 전문의가 없어 진료 시간이 오래 걸리거나 오진 확률이 높았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보건소가 유일하게 보유한 진단 장비인 방사선 엑스레이(X-Ray)는 CT나 MRI보다 정확도가 낮아 종합병원 수준 폐질환 검진이 불가능하다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "폐암 등 폐질환 조기발견 골든타임을 놓친다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 지방 보건소는 공중보건의를 활용하지만 국가 병역자원 감소로 공중보건의가 부족하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "복부 기간 때문에 3년 후 다른 공중보건의로 바뀌어 동일한 품질 진단이 어렵다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "은평구 보건소는 이 같은 문제를 해결하기 위해 엑스레이와 AI 기술을 결합해 주요 모든 폐질환을 분석하는 시범 사업을 추진했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "LG CNS와 의료 AI 스타트업 루닛이 함께 클라우드 기반 시스템을 구축했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "AI 의료영상분석 솔루션이 환자 폐 엑스레이 영상을 분석, 폐암, 결핵, 폐렴, 기흉 등 폐질환 여부를 의사에게 전달한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "보건소 담당의는 AI가 제공한 영상 분석 결과를 토대로 최종 진단을 내린다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "환자 개인정보, 주소, 생년월일 등을 비식별화 해 보안 우려를 없앴다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "은평구 보건소는 서비스 도입 후 진단 속도와 정확도를 높였다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이전에는 엑스레이를 판독해 의심소견이 발생되면 외부 전문병원에 의뢰하는 등 최종 진단까지 하루에서 이틀 가량 시간이 걸렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "AI 보조 분석 솔루션 도입 후 20초 이내 주요 4대 폐질환(폐암, 결핵, 폐렴, 기흉)을 분석, 수 분내 의사가 최종 진단을 내린다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "AI와 의사 협업으로 판독 정확률이 평균 94%까지 높아졌다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "대학병원 전문의 판독 정확률인 평균 89%를 넘는 수준이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "은평구 보건소 사례는 AI 결합 국민 체감 공공의료서비스 사례를 만들었다는 점에서 의미 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "클라우드 기반으로 구축해 전국 어디서나 동일한 공공의료 서비스를 제공할 수 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "주요 폐질환 조기 발견으로 사망률 1위, 오진율 1위인 폐암 관리가 가능해졌다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "은평구 보건소 관계자는 “클라우드 기반이라 쉽게 전국으로 확산이 가능하다”면서 “지역 간 의료 불균형을 해소하는 방안으로도 의미 있는 서비스”라고 말했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]은평구 보건소, AI 도입후 진단 속도·정확도↑",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

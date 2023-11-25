@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_032369",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "고현정이 '음주 방송' 논란에 해명했다",
+		"newsSubTitle": "",
+		"newsContent": "배우 고현정 측이 '음주 방송 논란'과 관련해 입장을 밝혔다.\n고현정 소속사 아이오케이컴퍼니 관계자는 6일 한 통신사와의 인터뷰를 통해 \\\"고현정씨가 깜짝 통화 연결인 줄 모르고 잠결에 전화를 받았다. 음주 방송이 아니다. 당황해서 경황이 없었던 것 같다\\\"고 설명했다.\n앞서 고현정은 이날 전파를 탄 SBS 파워FM '박선영의 씨네타운'에 게스트로 출연한 배우 김성경과 깜짝 통화했다.\n김성경은 영화 '구세주 리턴즈' 홍보차 방송에 출연했다.\n고현정은 평소 친분이 있는 김성경을 이성경으로 잘못 부르는가 하면, 영화 응원을 부탁하자 \\\"잘 될까요?\\\"라고 농담해 화제가 됐다.\n방송 이후 일각에서는 '음주 방송을 한 것이 아니냐'는 주장이 제기됐지만, 이는 예고 없이 전화 통화가 이뤄지면서 생긴 해프닝인 것으로 확인됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 고현정 측이 '음주 방송 논란'과 관련해 입장을 밝혔다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고현정 소속사 아이오케이컴퍼니 관계자는 6일 한 통신사와의 인터뷰를 통해 \\\"고현정씨가 깜짝 통화 연결인 줄 모르고 잠결에 전화를 받았다. 음주 방송이 아니다. 당황해서 경황이 없었던 것 같다\\\"고 설명했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 고현정은 이날 전파를 탄 SBS 파워FM '박선영의 씨네타운'에 게스트로 출연한 배우 김성경과 깜짝 통화했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김성경은 영화 '구세주 리턴즈' 홍보차 방송에 출연했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고현정은 평소 친분이 있는 김성경을 이성경으로 잘못 부르는가 하면, 영화 응원을 부탁하자 \\\"잘 될까요?\\\"라고 농담해 화제가 됐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방송 이후 일각에서는 '음주 방송을 한 것이 아니냐'는 주장이 제기됐지만, 이는 예고 없이 전화 통화가 이뤄지면서 생긴 해프닝인 것으로 확인됐다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미래소년 ‘D-1’ 앨범 스포일러를 공개",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

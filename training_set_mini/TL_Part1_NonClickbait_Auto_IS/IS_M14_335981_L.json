@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335981",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[ICT 시사용어]초고속인터넷 최저보장속도(SLA)",
+		"newsSubTitle": "",
+		"newsContent": "초고속인터넷 최저보장속도(SLA, Service Level Agreement)는 통신사 이용약관상 특정 수준에 못 미치는 통신 속도를 제공할 경우 보상을 제공하는 기준이다.\n옛 정보통신부가 2002년 초고속인터넷 품질을 보장하기 위해 모든 초고속인터넷 서비스에 대해 통신사가 공지한 속도의 30~50% 이상 SLA를 약관에 명시하도록 규정한 이후 제도가 유지되고 있다.\nSLA는 통신 품질 보장을 위한 투자를 유도해 이용자에게 안정적 서비스를 제공하는 효과가 있다.\n통신국사에서 아파트 지하 등 시설분기점까지가 통신사 책임 구간이다.\n구내설비부터 PC까지는 고객 책임 구간이지만 우리나라에서는 PC 측정값 기준으로 고객 보상을 결정한다.\n통신사로는 자체 책임 구간을 넘어 고객 책임 구간에 대해서도 신경을 써야 일정 수준 이상의 품질을 유지할 수 있다.\n과학기술정보통신부는 10기가 인터넷 등 초고속인터넷 상품에 대해 SLA 50%를 제공하도록 이용약관을 바꾸는 등 다양한 제도 개선안을 마련했다.\n기존 10기가 인터넷 10Gbps 요금제와 5Gbps 요금제의 경우 각 30%를 SLA로 설정하고 있었다.\n이용자는 직접 PC에 접속해 30분간 5회 이상 속도를 측정해서 3번 이상 최저속도에 미달할 경우 자동으로 보상을 받을 수 있다.\n통신사는 자체 시스템 오류로 인한 속도 저하에 대해서는 모니터링 체계를 갖추고 자동 요금감면을 제공한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "초고속인터넷 최저보장속도(SLA, Service Level Agreement)는 통신사 이용약관상 특정 수준에 못 미치는 통신 속도를 제공할 경우 보상을 제공하는 기준이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "옛 정보통신부가 2002년 초고속인터넷 품질을 보장하기 위해 모든 초고속인터넷 서비스에 대해 통신사가 공지한 속도의 30~50% 이상 SLA를 약관에 명시하도록 규정한 이후 제도가 유지되고 있다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SLA는 통신 품질 보장을 위한 투자를 유도해 이용자에게 안정적 서비스를 제공하는 효과가 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "통신국사에서 아파트 지하 등 시설분기점까지가 통신사 책임 구간이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구내설비부터 PC까지는 고객 책임 구간이지만 우리나라에서는 PC 측정값 기준으로 고객 보상을 결정한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "통신사로는 자체 책임 구간을 넘어 고객 책임 구간에 대해서도 신경을 써야 일정 수준 이상의 품질을 유지할 수 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "과학기술정보통신부는 10기가 인터넷 등 초고속인터넷 상품에 대해 SLA 50%를 제공하도록 이용약관을 바꾸는 등 다양한 제도 개선안을 마련했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기존 10기가 인터넷 10Gbps 요금제와 5Gbps 요금제의 경우 각 30%를 SLA로 설정하고 있었다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이용자는 직접 PC에 접속해 30분간 5회 이상 속도를 측정해서 3번 이상 최저속도에 미달할 경우 자동으로 보상을 받을 수 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "통신사는 자체 시스템 오류로 인한 속도 저하에 대해서는 모니터링 체계를 갖추고 자동 요금감면을 제공한다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[ICT 시사용어]초고속인터넷 최저보장속도(SLA)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

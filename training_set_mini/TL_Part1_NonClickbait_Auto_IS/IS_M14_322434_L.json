@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322434",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "北 추정 '김수키', 美 국무부 서신으로 위장한 APT 공격",
+		"newsSubTitle": "",
+		"newsContent": "북한 정부가 배후로 추정되는 '김수키' 해킹조직이 미국 국무부 서신을 위장한 지능형지속위협(APT) 공격을 감행한다.\n이스트시큐리티 시큐리티대응센터(ESRC)는 3일 '비건 미 국무부 부장관 서신 20200302'라는 파일명을 가진 신종 공격을 발견했다.\n분석 결과 지난달 26일 포착된 코로나19 관련 스피어 피싱 공격('스모크 스크린')과 동일한 공격으로 확인됐다. '스모크 스크린' 분석 당시 ESRC는 이 공격에 쓰인 전략·기술·절차(TTP)가 '김수키' 해킹조직이 사용하는 수법으로 결론 내렸다. '김수키'는 최근 들어 한글(.hwp) 취약점 문서보다 워드(.doc) 문서 매크로 기능을 더욱 활발하게 활용하는 흐름을 보인다.\n이번 공격에 쓰인 워드 문서는 '스모크 스크린' 악성 파일과 동일한 매크로 허용 유도 디자인을 그대로 재활용했다.\n이용자가 보안 경고창에 나타난 '콘텐츠 사용' 버튼을 클릭하면 매크로 코드가 실행, 공격자가 지정한 명령 제어(C2) 서버로 접속을 시도한다.\n공격에 당하면 정보 유출, 키로깅 등 개인정보 유출 피해를 입을 우려가 있다.\n알약은 이 악성코드를 'Trojan.Downloader.DOC.Gen' 등으로 탐지하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "북한 정부가 배후로 추정되는 '김수키' 해킹조직이 미국 국무부 서신을 위장한 지능형지속위협(APT) 공격을 감행한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이스트시큐리티 시큐리티대응센터(ESRC)는 3일 '비건 미 국무부 부장관 서신 20200302'라는 파일명을 가진 신종 공격을 발견했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "분석 결과 지난달 26일 포착된 코로나19 관련 스피어 피싱 공격('스모크 스크린')과 동일한 공격으로 확인됐다. '스모크 스크린' 분석 당시 ESRC는 이 공격에 쓰인 전략·기술·절차(TTP)가 '김수키' 해킹조직이 사용하는 수법으로 결론 내렸다. '김수키'는 최근 들어 한글(.hwp) 취약점 문서보다 워드(.doc) 문서 매크로 기능을 더욱 활발하게 활용하는 흐름을 보인다.",
+				"sentenceSize": 212
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 공격에 쓰인 워드 문서는 '스모크 스크린' 악성 파일과 동일한 매크로 허용 유도 디자인을 그대로 재활용했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이용자가 보안 경고창에 나타난 '콘텐츠 사용' 버튼을 클릭하면 매크로 코드가 실행, 공격자가 지정한 명령 제어(C2) 서버로 접속을 시도한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공격에 당하면 정보 유출, 키로깅 등 개인정보 유출 피해를 입을 우려가 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "알약은 이 악성코드를 'Trojan.Downloader.DOC.Gen' 등으로 탐지하고 있다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "北 추정 '김수키', 美 국무부 서신으로 위장한 APT 공격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

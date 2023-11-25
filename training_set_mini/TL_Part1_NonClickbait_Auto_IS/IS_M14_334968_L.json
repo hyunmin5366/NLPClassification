@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334968",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "[ET뷰]네이버·카카오, 'ESG 경영' 눈길",
+		"newsSubTitle": "",
+		"newsContent": "네이버와 카카오가 자사 기술을 활용한 환경·사회·지배구조(ESG) 경영 행보에 속도를 내고 있다.\n네이버는 초대규모 인공지능(AI) '하이퍼 클로바' 기술을 적용한 '클로바 케어콜' 서비스로 독거노인의 생활 관리를 지원하고 있다.\n부산 해운대구, 대구 등 일부 지역에서 시범 서비스를 거친 뒤 서울 등 전국으로 확대 적용한다.\n지자체의 노인 복지 관련 인력 부족 문제에 크게 기여했다는 평가를 받고 있다.\n카카오는 장애인·고령층 등 디지털 취약계층이 웹·모바일 등 공간에서 소외나 차별 없이 동등하게 카카오 서비스를 이용할 수 있는 '디지털 접근성' 강화에 주력하고 있다. '카카오맵'에 지하철과 승강장 단차 정보를 추가해 휠체어를 사용하는 장애인에 대한 편의성을 높인다.\n커머스 부문에서도 친환경 노력을 이어 가고 있다.\n네이버쇼핑은 전국 146개 전통시장에 친환경 봉투 50만장과 생분해 아이스팩 6만개를 제작·배포했다.\n카카오커머스는 '카카오톡 쇼핑하기'에서 '착한 소비문화'를 확산하기 위해 못난이 농산물들을 모아 판매하는 행사를 펼치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버와 카카오가 자사 기술을 활용한 환경·사회·지배구조(ESG) 경영 행보에 속도를 내고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버는 초대규모 인공지능(AI) '하이퍼 클로바' 기술을 적용한 '클로바 케어콜' 서비스로 독거노인의 생활 관리를 지원하고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "부산 해운대구, 대구 등 일부 지역에서 시범 서비스를 거친 뒤 서울 등 전국으로 확대 적용한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지자체의 노인 복지 관련 인력 부족 문제에 크게 기여했다는 평가를 받고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카카오는 장애인·고령층 등 디지털 취약계층이 웹·모바일 등 공간에서 소외나 차별 없이 동등하게 카카오 서비스를 이용할 수 있는 '디지털 접근성' 강화에 주력하고 있다. '카카오맵'에 지하철과 승강장 단차 정보를 추가해 휠체어를 사용하는 장애인에 대한 편의성을 높인다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "커머스 부문에서도 친환경 노력을 이어 가고 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버쇼핑은 전국 146개 전통시장에 친환경 봉투 50만장과 생분해 아이스팩 6만개를 제작·배포했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카카오커머스는 '카카오톡 쇼핑하기'에서 '착한 소비문화'를 확산하기 위해 못난이 농산물들을 모아 판매하는 행사를 펼치고 있다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[ET뷰]네이버·카카오, 'ESG 경영' 눈길",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

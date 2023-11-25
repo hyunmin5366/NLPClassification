@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323380",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "시큐어링크, 4차산업 핵심기술분야 R&D 국책과제 수주",
+		"newsSubTitle": "",
+		"newsContent": "시큐어링크(대표 고준용)는 중소벤처기업부의 차세대 4차산업 핵심기술 로드맵에 따른 ICT솔루션 연구과제 사업을 수주했다고 23일 밝혔다.\n시큐어링크는 올해까지 인공지능(AI) 및 블록체인 분야의 신기술 연구개발(R&D) 국책과제를 연속 3건 이상 수주하며 연구에 박차를 가하고 있다.\n본 과제에서 시큐어링크는 기존 블록체인의 단점을 해소해 사이버보안에 적합하도록 개발한 자체 특허기술을 기반으로 최근 스마트시티, 스마트팩토리, 스마트카 등에서 폭넓게 적용 중인 사물인터넷(IoT)∙산업용사물인터넷(IIoT) 분야에 적용할 수 있는 IoT 스마트 엣지 네트워크(IoTSEN) 기술을 연구 개발하게 된다.\n시큐어링크의 엣지체인은 사이버보안 분야에서 블록체인의 장점은 살리고 단점을 극복, 보다 용이하게 다양한 사이버보안 기술에 접목할 수 있도록 설계된 시큐어링크의 자체 특허기술이다.\n시큐어링크는 이번 국책과제에서 엣지체인 기술을 통해 새로운 IoT 보안 네트워크 프로토콜을 개발할 예정이다.\n해당 기술이 적용될 경우 스마트기기는 물론 이미 시장에 폭넓게 적용되어 있는 기존 IoT 장비를 포함한 보안 프로토콜을 적용할 수 있어, 다양한 사물인터넷 및 엣지컴퓨팅 분야에서 블록체인 기반의 무결성 및 보안성을 수용할 수 있을 것으로 기대된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "시큐어링크(대표 고준용)는 중소벤처기업부의 차세대 4차산업 핵심기술 로드맵에 따른 ICT솔루션 연구과제 사업을 수주했다고 23일 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시큐어링크는 올해까지 인공지능(AI) 및 블록체인 분야의 신기술 연구개발(R&D) 국책과제를 연속 3건 이상 수주하며 연구에 박차를 가하고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "본 과제에서 시큐어링크는 기존 블록체인의 단점을 해소해 사이버보안에 적합하도록 개발한 자체 특허기술을 기반으로 최근 스마트시티, 스마트팩토리, 스마트카 등에서 폭넓게 적용 중인 사물인터넷(IoT)∙산업용사물인터넷(IIoT) 분야에 적용할 수 있는 IoT 스마트 엣지 네트워크(IoTSEN) 기술을 연구 개발하게 된다.",
+				"sentenceSize": 177
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시큐어링크의 엣지체인은 사이버보안 분야에서 블록체인의 장점은 살리고 단점을 극복, 보다 용이하게 다양한 사이버보안 기술에 접목할 수 있도록 설계된 시큐어링크의 자체 특허기술이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시큐어링크는 이번 국책과제에서 엣지체인 기술을 통해 새로운 IoT 보안 네트워크 프로토콜을 개발할 예정이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 기술이 적용될 경우 스마트기기는 물론 이미 시장에 폭넓게 적용되어 있는 기존 IoT 장비를 포함한 보안 프로토콜을 적용할 수 있어, 다양한 사물인터넷 및 엣지컴퓨팅 분야에서 블록체인 기반의 무결성 및 보안성을 수용할 수 있을 것으로 기대된다.",
+				"sentenceSize": 138
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시큐어링크, 4차산업 핵심기술분야 R&D 국책과제 수주",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

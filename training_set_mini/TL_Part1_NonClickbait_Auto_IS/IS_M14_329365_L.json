@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329365",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "LSD테크 몬스터서버, \\\"초당 수십만건 처리로 TCO 대폭절감”",
+		"newsSubTitle": "타사 동일 규격대비 3배 이상 성능",
+		"newsContent": "고성능 SSD서버 및 슈퍼컴퓨터 전문제조회사 LSD테크(대표 이기택)가 빅데이터 처리용 고성능 서버를 발표했다.\n이 서버는 LSD테크 특허기술을 기반으로 서버 성능을 좌우하는 디스크(DISK) I/O 병목현상을 최소화했다.\n해외 유명서버보다 3배 이상 처리 성능을 보장한다는 회사 설명이다.\n이 서버는 1초에 2000개 한글문자를 60만번 읽고 쓰는 60만 아이옵스(IOPS) 처리 능력을 갖췄다고 LSD테크는 밝혔다.\n외국계 스토리지군 서버에서 처리하는 성능보다 3배 이상 우수하다는 평가다.\n매년 일본 카츠미 그룹에 납품하는 고성능 서버도 빅데이터 처리용으로 활용되고 있다.\nLSD는 이 서버를 적용하면 HDD 기반 서버는 최소 수십대를 대체할 수 있다고 밝혔다.\n이를 통해 운영비용(TCO) 대폭 절감과 성능 개선으로 업무 처리 효율성을 높일 수 있다.\nLSD는 최근 보험사 국제회계기준(IFRS17) 처리업무에 이 서버를 적용해 기존 서버보다 1.5배 이상 성능으로 처리하는 결과를 얻어냈다.\nCPU 성능도 15% 이상 향상시켰으며 CPU와 메모리를 많이 활용하는 업무 적용에도 큰 성과가 있다는 결과를 도출했다고 LSD는 설명했다.\n이 서버는 빅데이터, 초고속 데이터, 로그 데이터 처리분야, 고성능 CPU 사용 분야 및 주문형비디오(VoD) 서비스 분야 등에 적용할 수 있다.\n최소 3~4대 이상 서버를 단 한대로 운영 가능해 SW라이선스비용 절감, IDC 운영비용 절감, 전기요금 절감 등 유지관리 비용 등 TCO를 대폭 절감하는 제품으로 평가된다.\n김승욱 LSD테크 이사는 “대량 데이터처리 업무에 적용하면 업무 처리 능력은 2~5배 이상 향상 될 수 있다”면서 “또 납품 후 5년 동안 초기 성능이 보장돼 전체 TCO의 50% 이상을 줄일 수 있다”고 강조했다.\nLSD테크는 인텔에서 발표한 최신 아키텍처인 스케일러블(Scalable) CPU를 기반으로 한 신제품도 함께 출시했다.\n최대 56코어 112스레드를 지원하는 CPU에다 3테라바이트(TB)까지 메모리를 증설할 수 있고 디스크는 최대 768TB까지 지원하는 초고성능서버다.\nLSD는 타임게이트와 총판계약을 체결했으며 내년부터 공공분야, 금융분야, 일반 기업분야로 시장을 세분화해 공격적 영업을 진행할 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고성능 SSD서버 및 슈퍼컴퓨터 전문제조회사 LSD테크(대표 이기택)가 빅데이터 처리용 고성능 서버를 발표했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 서버는 LSD테크 특허기술을 기반으로 서버 성능을 좌우하는 디스크(DISK) I/O 병목현상을 최소화했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해외 유명서버보다 3배 이상 처리 성능을 보장한다는 회사 설명이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 서버는 1초에 2000개 한글문자를 60만번 읽고 쓰는 60만 아이옵스(IOPS) 처리 능력을 갖췄다고 LSD테크는 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "외국계 스토리지군 서버에서 처리하는 성능보다 3배 이상 우수하다는 평가다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매년 일본 카츠미 그룹에 납품하는 고성능 서버도 빅데이터 처리용으로 활용되고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "LSD는 이 서버를 적용하면 HDD 기반 서버는 최소 수십대를 대체할 수 있다고 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 통해 운영비용(TCO) 대폭 절감과 성능 개선으로 업무 처리 효율성을 높일 수 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "LSD는 최근 보험사 국제회계기준(IFRS17) 처리업무에 이 서버를 적용해 기존 서버보다 1.5배 이상 성능으로 처리하는 결과를 얻어냈다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "CPU 성능도 15% 이상 향상시켰으며 CPU와 메모리를 많이 활용하는 업무 적용에도 큰 성과가 있다는 결과를 도출했다고 LSD는 설명했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이 서버는 빅데이터, 초고속 데이터, 로그 데이터 처리분야, 고성능 CPU 사용 분야 및 주문형비디오(VoD) 서비스 분야 등에 적용할 수 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "최소 3~4대 이상 서버를 단 한대로 운영 가능해 SW라이선스비용 절감, IDC 운영비용 절감, 전기요금 절감 등 유지관리 비용 등 TCO를 대폭 절감하는 제품으로 평가된다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "김승욱 LSD테크 이사는 “대량 데이터처리 업무에 적용하면 업무 처리 능력은 2~5배 이상 향상 될 수 있다”면서 “또 납품 후 5년 동안 초기 성능이 보장돼 전체 TCO의 50% 이상을 줄일 수 있다”고 강조했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "LSD테크는 인텔에서 발표한 최신 아키텍처인 스케일러블(Scalable) CPU를 기반으로 한 신제품도 함께 출시했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "최대 56코어 112스레드를 지원하는 CPU에다 3테라바이트(TB)까지 메모리를 증설할 수 있고 디스크는 최대 768TB까지 지원하는 초고성능서버다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "LSD는 타임게이트와 총판계약을 체결했으며 내년부터 공공분야, 금융분야, 일반 기업분야로 시장을 세분화해 공격적 영업을 진행할 방침이다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LSD테크 몬스터서버, \\\"초당 수십만건 처리로 TCO 대폭절감”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

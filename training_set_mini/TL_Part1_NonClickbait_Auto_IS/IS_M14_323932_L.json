@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323932",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "[이슈분석]RT-PCR? 항체검사? 코로나19 진단검사법은",
+		"newsSubTitle": "",
+		"newsContent": "한국을 비롯해 각국이 코로나19 확진 검사에 사용하는 진단키트는 '실시간 역전사 중합효소연쇄반응법(RT-PCR)'을 사용한다.\n분자진단법, 유전자진단법 등으로도 불린다.\n유증상자의 객담이나 구인두 혹은 비인두 가검물을 채취한 다음 RNA를 정제한 후 코로나19 바이러스의 특이 유전자들을 증폭하는 방식으로 감염 여부를 판별한다.\n세계보건기구(WHO)에서 공개한 검사법을 바탕으로 초기에는 E gene을 선별용으로, RdRp gene을 확인용으로 사용하도록 권장했다.\n현재는 N gene과 ORF1a gene을 대상으로 만든 시약에 대해서도 긴급사용승인을 하고 있다.\n진단시약을 만드는 회사에 따라 증폭시켜 확인하는 유전자 부위가 다르다.\nRT-PCR 검사법은 고가의 장비와 정도관리가 필요한 실험실을 갖춰야 하고 전문적으로 훈련받은 검사자가 필요하다.\n6시간 내로 확진 여부을 확인할 수 있으며 검사 정확도는 95% 정도다.\nWHO는 RT-PCR를 최종 확진 검사법으로 권고하고 있으며 국내 긴급사용승인 대상도 RT-PCR 진단시약에 국한된다.\n대표 기업으로는 국내 긴급사용승인을 받은 코젠바이오텍, 씨젠, 솔젠트, SD바이오센서 등이 있다.\n미국 하원의원이 청문회에서 “한국 진단키트는 단일 면역글로블린항체만 검사하기 때문에 식품의약국(FDA)이 응급용으로도 적절하지 않다는 의견을 제시했다”는 발언으로 논란이 됐던 항체검사법은 RT-PCR와는 다른 검사법이다.\n항체검사법은 면역진단법, 혈청검사 등으로 불린다.\n바이러스 감염 후 우리몸에서 만들어지는 초기 항체 IgM, IgG를 혈액에서 검사하는 방법이다.\n항체검사 전문회사로는 유럽 CE-IVD를 받은 수젠텍, 해외수출용 허가를 받은 SD바이오센서 등이 있다.\n항원이나 항체를 이용한 면역검사는 10여분 이내에 결과를 확인할 수 있는 신속성이 최대 장점이며 고가 검사장비나 전문 임상병리사 등이 필요하지 않다.\n다만 정확도가 50~70% 수준으로 낮아 확진 검사법으로 활용하기에는 문제가 있다.\n양성을 음성으로 진단하는 '위음성' 비율이 높으면 방역 체계에 혼란을 초래할 수 있기 때문이다.\n다만 무증상 혹은 경미한 환자의 경우 가래나 콧물이 없어 검체 채취가 잘되지 않는 경우가 있고 퇴원 후 재발하는 환자도 있는 만큼 RT-PCR 검사 외에 면역진단을 병행해 전체 검사 정확도를 올려야 한다는 의견도 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국을 비롯해 각국이 코로나19 확진 검사에 사용하는 진단키트는 '실시간 역전사 중합효소연쇄반응법(RT-PCR)'을 사용한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "분자진단법, 유전자진단법 등으로도 불린다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유증상자의 객담이나 구인두 혹은 비인두 가검물을 채취한 다음 RNA를 정제한 후 코로나19 바이러스의 특이 유전자들을 증폭하는 방식으로 감염 여부를 판별한다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세계보건기구(WHO)에서 공개한 검사법을 바탕으로 초기에는 E gene을 선별용으로, RdRp gene을 확인용으로 사용하도록 권장했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재는 N gene과 ORF1a gene을 대상으로 만든 시약에 대해서도 긴급사용승인을 하고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "진단시약을 만드는 회사에 따라 증폭시켜 확인하는 유전자 부위가 다르다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "RT-PCR 검사법은 고가의 장비와 정도관리가 필요한 실험실을 갖춰야 하고 전문적으로 훈련받은 검사자가 필요하다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "6시간 내로 확진 여부을 확인할 수 있으며 검사 정확도는 95% 정도다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "WHO는 RT-PCR를 최종 확진 검사법으로 권고하고 있으며 국내 긴급사용승인 대상도 RT-PCR 진단시약에 국한된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "대표 기업으로는 국내 긴급사용승인을 받은 코젠바이오텍, 씨젠, 솔젠트, SD바이오센서 등이 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "미국 하원의원이 청문회에서 “한국 진단키트는 단일 면역글로블린항체만 검사하기 때문에 식품의약국(FDA)이 응급용으로도 적절하지 않다는 의견을 제시했다”는 발언으로 논란이 됐던 항체검사법은 RT-PCR와는 다른 검사법이다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "항체검사법은 면역진단법, 혈청검사 등으로 불린다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "바이러스 감염 후 우리몸에서 만들어지는 초기 항체 IgM, IgG를 혈액에서 검사하는 방법이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "항체검사 전문회사로는 유럽 CE-IVD를 받은 수젠텍, 해외수출용 허가를 받은 SD바이오센서 등이 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "항원이나 항체를 이용한 면역검사는 10여분 이내에 결과를 확인할 수 있는 신속성이 최대 장점이며 고가 검사장비나 전문 임상병리사 등이 필요하지 않다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "다만 정확도가 50~70% 수준으로 낮아 확진 검사법으로 활용하기에는 문제가 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "양성을 음성으로 진단하는 '위음성' 비율이 높으면 방역 체계에 혼란을 초래할 수 있기 때문이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "다만 무증상 혹은 경미한 환자의 경우 가래나 콧물이 없어 검체 채취가 잘되지 않는 경우가 있고 퇴원 후 재발하는 환자도 있는 만큼 RT-PCR 검사 외에 면역진단을 병행해 전체 검사 정확도를 올려야 한다는 의견도 있다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]RT-PCR? 항체검사? 코로나19 진단검사법은",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

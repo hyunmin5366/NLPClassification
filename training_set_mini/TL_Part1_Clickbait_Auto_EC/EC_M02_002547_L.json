@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002547",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "연말 맞아 백화점 '비대면 선물' 인기…주문량 '급증'",
+		"newsSubTitle": "더현대닷컴 '선물서비스' 주문 건수, 전년 동기 比 350% 증가",
+		"newsContent": "신종 코로나바이러스 감염증(코로나19) 사태 속에서 연말을 맞아 백화점의 비대면 선물하기 서비스를 이용하는 소비자가 늘어나고 있다.\n현대백화점은 지난 1~20일 자사 온라인몰인 더현대닷컴 애플리케이션(앱)에서 운영 중인 '선물서비스' 주문 건수가 지난해 같은 기간 대비 350% 증가했다고 22일 밝혔다.\n이는 같은 기간 더현대닷컴 전체 주문 건수 증가율의 10배가 넘는다.\n앞서, 더현대닷컴의 선물서비스는 물건을 받을 사람의 주소를 몰라도 휴대전화 문자나 카카오톡 메시지를 활용해 상품을 보내는 서비스다.\n선물서비스 주문 가운데 샤넬, 디올 등 수입 화장품의 비중은 52.8%로 지난해의 두 배 수준으로 뛰었다.\n유·아동 상품은 지난해의 1.5배 수준인 17.4%로 늘었다.\n현대백화점 관계자는 미디어SR에 \\\"코로나19로 송년회 등 각종 모임이 줄어들면서 선물을 통해 마음을 표현하려는 고객들의 심리가 선물하기 수요로 이어졌다\\\"고 설명했다.\n한편, 현대백화점은 오는 27일까지 더현대닷컴에서 수입 화장품과 수입 프리미엄 패딩, 다이어리, 양초, 식기 등을 모은 연말 기획전을 진행한다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신종 코로나바이러스 감염증(코로나19) 사태 속에서 연말을 맞아 백화점의 비대면 선물하기 서비스를 이용하는 소비자가 늘어나고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대백화점은 지난 1~20일 자사 온라인몰인 더현대닷컴 애플리케이션(앱)에서 운영 중인 '선물서비스' 주문 건수가 지난해 같은 기간 대비 350% 증가했다고 22일 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 같은 기간 더현대닷컴 전체 주문 건수 증가율의 10배가 넘는다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서, 더현대닷컴의 선물서비스는 물건을 받을 사람의 주소를 몰라도 휴대전화 문자나 카카오톡 메시지를 활용해 상품을 보내는 서비스다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "선물서비스 주문 가운데 샤넬, 디올 등 수입 화장품의 비중은 52.8%로 지난해의 두 배 수준으로 뛰었다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유·아동 상품은 지난해의 1.5배 수준인 17.4%로 늘었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현대백화점 관계자는 미디어SR에 \\\"코로나19로 송년회 등 각종 모임이 줄어들면서 선물을 통해 마음을 표현하려는 고객들의 심리가 선물하기 수요로 이어졌다\\\"고 설명했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 현대백화점은 오는 27일까지 더현대닷컴에서 수입 화장품과 수입 프리미엄 패딩, 다이어리, 양초, 식기 등을 모은 연말 기획전을 진행한다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국지엠, 노사간 협의로 경영정상화 가속",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

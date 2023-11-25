@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327772",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[테크비즈코리아 2021]<8>시설원예용 전기작업차·전복 안전 장치",
+		"newsSubTitle": "",
+		"newsContent": "한국생산기술연구원 소개 기술은 시설원예농업 분야에 쓰이는 전기작업차 리프트를 승강하는 등 상황에서 안전을 확보할 수 있도록 돕는다.\n아래위로 오르내리는 '리프트' 장치가 구비된 기존 시설원예용 전기작업차는 전복을 방지하는 안전장치가 구비되지 않은 경우가 많다는 것이 연구진 설명이다. '아웃트리거'와 같은 안전장치가 구비된 전기 작업차는 지상에 차체를 지지해 전복을 방지하지만 이를 시설원예 분야에 활용하기는 어렵다.\n연구진은 전기작업차의 작동 및 정지 신호에 맞춰 전자석을 이용한 전복 안전장치를 레일에 고정·해제하는 식으로 기술을 구현했다.\n손쉽게 사용 가능하다는 특징이 있다.\n리프트를 이용한 작업 시 전기 작업차가 레일과 함께 고정돼 좌우 전복과 같은 안전사고 방지가 가능하다.\n연구진은 농업이나 원예 분야 전기 작업차는 물론 고소작업차, 리프트 작업차 등에도 개발 기술을 활용할 수 있다고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국생산기술연구원 소개 기술은 시설원예농업 분야에 쓰이는 전기작업차 리프트를 승강하는 등 상황에서 안전을 확보할 수 있도록 돕는다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아래위로 오르내리는 '리프트' 장치가 구비된 기존 시설원예용 전기작업차는 전복을 방지하는 안전장치가 구비되지 않은 경우가 많다는 것이 연구진 설명이다. '아웃트리거'와 같은 안전장치가 구비된 전기 작업차는 지상에 차체를 지지해 전복을 방지하지만 이를 시설원예 분야에 활용하기는 어렵다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연구진은 전기작업차의 작동 및 정지 신호에 맞춰 전자석을 이용한 전복 안전장치를 레일에 고정·해제하는 식으로 기술을 구현했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "손쉽게 사용 가능하다는 특징이 있다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "리프트를 이용한 작업 시 전기 작업차가 레일과 함께 고정돼 좌우 전복과 같은 안전사고 방지가 가능하다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구진은 농업이나 원예 분야 전기 작업차는 물론 고소작업차, 리프트 작업차 등에도 개발 기술을 활용할 수 있다고 설명했다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[테크비즈코리아 2021]<8>시설원예용 전기작업차·전복 안전 장치",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326816",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]로이터 \\\"아마존, 美 선불폰 '부스트 모바일' 인수 검토\\\"",
+		"newsSubTitle": "",
+		"newsContent": "아마존이 선불폰 회사 '부스트 모바일' 매입을 검토 중이라는 보도가 나왔다.\n부스트 모바일은 스프린트 자회사로 스프린트와 T-모바일은 규제 당국에 합병 조건 중 하나로 부스트 모바일 매각을 제안한 상황이다.\n로이터 통신은 31일(현지시간) 소식통을 인용해 아마존이 부스트 모바일 인수를 고려하고 있다고 보도했다.\n로이터는 아마존이 부스트 모바일 인수 시 T모바일-스프린트 합병법인 무선 네트워크망을 최소 6년간 사용할 수 있다는 점을 높이 평가했다고 설명했다.\n또 아마존이 주파수 대역을 확보하는 데 관심이 있다고 부연했다.\n아마존은 전자상거래, 클라우드, 인터넷동영상(OTT), 인공지능(AI) 스피커 등을 서비스하는 업체다.\n금융회사 코웬은 이달 부스트 모바일 가입자를 700만~800만명으로 추산, 주파수 등을 포함한 기업가치는 45억 달러(약 5조3581억원)에 이른다고 평가했다.\n아마존이 부스트 모바일을 인수할 경우 T-모바일과 스프린트 합병에도 긍정적 영향을 줄 전망이다.\n미국 법무부는 T-모바일과 스프린트 합병으로 이동통신사가 기존 4개에서 3개로 줄어드는 데 부정적이다.\n추가적 요금 인상 등이 우려된다는 이유다.\n로이터는 아마존, T모바일, 스프린트 모두 입장을 밝히지 않았다고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아마존이 선불폰 회사 '부스트 모바일' 매입을 검토 중이라는 보도가 나왔다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "부스트 모바일은 스프린트 자회사로 스프린트와 T-모바일은 규제 당국에 합병 조건 중 하나로 부스트 모바일 매각을 제안한 상황이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "로이터 통신은 31일(현지시간) 소식통을 인용해 아마존이 부스트 모바일 인수를 고려하고 있다고 보도했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "로이터는 아마존이 부스트 모바일 인수 시 T모바일-스프린트 합병법인 무선 네트워크망을 최소 6년간 사용할 수 있다는 점을 높이 평가했다고 설명했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 아마존이 주파수 대역을 확보하는 데 관심이 있다고 부연했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아마존은 전자상거래, 클라우드, 인터넷동영상(OTT), 인공지능(AI) 스피커 등을 서비스하는 업체다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "금융회사 코웬은 이달 부스트 모바일 가입자를 700만~800만명으로 추산, 주파수 등을 포함한 기업가치는 45억 달러(약 5조3581억원)에 이른다고 평가했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아마존이 부스트 모바일을 인수할 경우 T-모바일과 스프린트 합병에도 긍정적 영향을 줄 전망이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "미국 법무부는 T-모바일과 스프린트 합병으로 이동통신사가 기존 4개에서 3개로 줄어드는 데 부정적이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "추가적 요금 인상 등이 우려된다는 이유다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "로이터는 아마존, T모바일, 스프린트 모두 입장을 밝히지 않았다고 전했다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]로이터 \\\"아마존, 美 선불폰 '부스트 모바일' 인수 검토\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

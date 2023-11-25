@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009564",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "기업 85% “공정위 조사 애로 겪어”",
+		"newsSubTitle": "70% 업무차질 꼽아… 법률자문비용>스트레스 순",
+		"newsContent": "공정위 조사를 받은 기업 10곳 가운데 8곳 이상이 조사과정에서 업무차질, 기업이미지 하락 등의 애로를 겪는 것으로 나타났다.\n대한상공회의소가 최근 공정위 조사를 받았던 230개 기업을 대상으로 설문조사를 벌인 결과 응답기업의 9.6%가 공정위 조사를 받으면서 '애로가 컸다'고 답했고 75.2%는 '애로가 다소 있었다'고 응답하는 등 전체 응답자의 84.8%가 공정위 조사과정에서 어려움을 겪는 것으로 파악됐다.\n공정위 조사과정에서 겪는 애로에 대해 복수응답 형식으로 물어본 결과 대다수가 업무차질(70.4%)을 꼽았고, 이어 법률자문비용 등 조사대응비용(57.6%), 임직원의 심리적 위축과 스트레스(56.8%) 등을 들었다.\n기업들은 공정위 조사가 과거 2~3년 전에 비해 빈번해졌다고 느끼고 있는 것으로 조사됐다.\n응답기업의 54.4%가 공정위 조사가 '빈번해졌다'고 답한 반면, '비슷하다'는 응답이 39.2%, '적어졌다'는 6.4%에 불과했다.\n조사강도도 과거보다 '강화되었다'는 응답이 60.8%에 달했지만 '비슷하다'는 34.4%, '약화되었다'는 4.8%에 그쳤다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "공정위 조사를 받은 기업 10곳 가운데 8곳 이상이 조사과정에서 업무차질, 기업이미지 하락 등의 애로를 겪는 것으로 나타났다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대한상공회의소가 최근 공정위 조사를 받았던 230개 기업을 대상으로 설문조사를 벌인 결과 응답기업의 9.6%가 공정위 조사를 받으면서 '애로가 컸다'고 답했고 75.2%는 '애로가 다소 있었다'고 응답하는 등 전체 응답자의 84.8%가 공정위 조사과정에서 어려움을 겪는 것으로 파악됐다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공정위 조사과정에서 겪는 애로에 대해 복수응답 형식으로 물어본 결과 대다수가 업무차질(70.4%)을 꼽았고, 이어 법률자문비용 등 조사대응비용(57.6%), 임직원의 심리적 위축과 스트레스(56.8%) 등을 들었다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기업들은 공정위 조사가 과거 2~3년 전에 비해 빈번해졌다고 느끼고 있는 것으로 조사됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "응답기업의 54.4%가 공정위 조사가 '빈번해졌다'고 답한 반면, '비슷하다'는 응답이 39.2%, '적어졌다'는 6.4%에 불과했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조사강도도 과거보다 '강화되었다'는 응답이 60.8%에 달했지만 '비슷하다'는 34.4%, '약화되었다'는 4.8%에 그쳤다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소상공인에 희망 드려요…중기청 2.9% 저금리로 특례보증",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

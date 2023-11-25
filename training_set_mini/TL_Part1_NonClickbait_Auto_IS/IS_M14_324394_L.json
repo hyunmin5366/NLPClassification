@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324394",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "[기획]비례배분과 이용자 중심 방식, 뭐가 다른가",
+		"newsSubTitle": "",
+		"newsContent": "음원서비스 내 전체 음원 단가를 동일하게 책정하고 재생 수에 비례해 저작권료를 지불하는 비례배분(pro-rata) 방식은 '정산의 오류'를 범할 수 있다.\nA가 100번 들은 a 음원이 B가 1번 들은 b 음원보다 저작권료를 더 가져가게 된다.\nB는 a 음원을 듣지도 않았는데 B의 이용료 대부분이 a로 지불되는 문제가 생긴다.\n월 1만원 정액제 요금을 낸 A와 B가 각각 a 음원을 90번, b 음원을 10번씩 재생했을 경우 전체 매출은 2만원, 총 재생은 100회로 음원 단가는 200원(2만원÷100회)이 된다.\n200원 중 저작권료인 65%는 130원이다.\na 음원은 130원×90회로 총 1만17000원의 저작권료를 받게 된다.\n반면에 b 음원 저작권료는 130원×10회로 1300원에 불과하다.\nB가 지불한 월정액 1만원 중 저작권료는 6500원이지만 이 중 5200원이 듣지도 않은 a 음원에 지불되는 것이다.\n이용자 중심(user-centric) 방식은 이 같은 정산의 오류를 막기 위해 고안됐다.\n같은 상황에서 A이용자는 1만원을 내고 음원 a를 90번 들었기 때문에 a 음원 단가는 약 111원, 65%에 해당하는 저작권료는 약 72원이다.\n72원에 재생횟수인 90번을 곱하면 약 6500원이 a 음원에 돌아간다.\nB 이용자는 1만원에 b 음원을 10번 들었기 때문에 음원 단가는 1000원, 음원당 저작권료는 650원이다.\n650원에 재생 횟수인 10을 곱해 6500원이 b 음원 저작권료로 지급된다.\n결국 a 음원과 b 음원 모두 각각 이용자 이용료가 해당 음원에 배분된다.\n재생횟수에 의한 정산 오류를 막을 수 있다.\n이용자 중심 방식은 다소 복잡해보일 수 있다.\n그러나 프로그래밍에 따라서 어렵지 않게 구현이 가능하다는 게 중론이다.\n무엇보다 분배 불평등과 사재기 논란을 막을 수 있는 현실적인 대안으로 꼽히는 만큼 국내에서도 고려해볼 필요가 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "음원서비스 내 전체 음원 단가를 동일하게 책정하고 재생 수에 비례해 저작권료를 지불하는 비례배분(pro-rata) 방식은 '정산의 오류'를 범할 수 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "A가 100번 들은 a 음원이 B가 1번 들은 b 음원보다 저작권료를 더 가져가게 된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "B는 a 음원을 듣지도 않았는데 B의 이용료 대부분이 a로 지불되는 문제가 생긴다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "월 1만원 정액제 요금을 낸 A와 B가 각각 a 음원을 90번, b 음원을 10번씩 재생했을 경우 전체 매출은 2만원, 총 재생은 100회로 음원 단가는 200원(2만원÷100회)이 된다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "200원 중 저작권료인 65%는 130원이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "a 음원은 130원×90회로 총 1만17000원의 저작권료를 받게 된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "반면에 b 음원 저작권료는 130원×10회로 1300원에 불과하다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "B가 지불한 월정액 1만원 중 저작권료는 6500원이지만 이 중 5200원이 듣지도 않은 a 음원에 지불되는 것이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이용자 중심(user-centric) 방식은 이 같은 정산의 오류를 막기 위해 고안됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "같은 상황에서 A이용자는 1만원을 내고 음원 a를 90번 들었기 때문에 a 음원 단가는 약 111원, 65%에 해당하는 저작권료는 약 72원이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "72원에 재생횟수인 90번을 곱하면 약 6500원이 a 음원에 돌아간다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "B 이용자는 1만원에 b 음원을 10번 들었기 때문에 음원 단가는 1000원, 음원당 저작권료는 650원이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "650원에 재생 횟수인 10을 곱해 6500원이 b 음원 저작권료로 지급된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "결국 a 음원과 b 음원 모두 각각 이용자 이용료가 해당 음원에 배분된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "재생횟수에 의한 정산 오류를 막을 수 있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이용자 중심 방식은 다소 복잡해보일 수 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "그러나 프로그래밍에 따라서 어렵지 않게 구현이 가능하다는 게 중론이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "무엇보다 분배 불평등과 사재기 논란을 막을 수 있는 현실적인 대안으로 꼽히는 만큼 국내에서도 고려해볼 필요가 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[기획]비례배분과 이용자 중심 방식, 뭐가 다른가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

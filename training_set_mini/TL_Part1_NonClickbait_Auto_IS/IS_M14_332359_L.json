@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332359",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "쌍용차, '티볼리' 홈쇼핑서 한달만에 완판…1000대 추가 판매",
+		"newsSubTitle": "",
+		"newsContent": "쌍용차가 완판된 티볼리 '리미티드 에디션' 1000대를 추가로 판매한다고 31일 밝혔다.\n쌍용차는 이달 초 티볼리 출시 5년을 기념해 '리미티드 에디션' 1000대를 원래 가격보다 130만원 내린 2280만원(가솔린 모델)에 선착순 판매했다.\n이에 한 달 안에 완판된 이후 쌍용차는 1000대를 추가 판매하기로 결정했다.\n가격은 그대로다. '리미티드 에디션'엔 중앙차선유지보조(CLKA), 부주의운전경보(DAA), 긴급제동보조(AEBS) 등 9가지 첨단주행보조기술(ADAS)과 커튼에어백 포함 6에어백 9인치 HD 스마트 미러링 내비게이션, 1열 열선 및 통풍시트 등 각종 편의사양이 기본으로 적용된다.\n추가 판매하는 '리미티드 에디션'은 31일 오후 9시 40분부터 CJ 오쇼핑 채널에서 구매할 수 있다.\n쌍용차 관계자는 \\\"내∙외관 디자인은 물론 다양한 특장점을 영상을 통해 만나 볼 수 있을 것\\\"이라며 \\\"CJ오쇼핑을 통해 상담 후 구매하면 10만원 특별 할인이 적용되며, 계약 및 출고는 배정된 쌍용자동차 판매네트워크를 통해 진행된다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "쌍용차가 완판된 티볼리 '리미티드 에디션' 1000대를 추가로 판매한다고 31일 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "쌍용차는 이달 초 티볼리 출시 5년을 기념해 '리미티드 에디션' 1000대를 원래 가격보다 130만원 내린 2280만원(가솔린 모델)에 선착순 판매했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 한 달 안에 완판된 이후 쌍용차는 1000대를 추가 판매하기로 결정했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가격은 그대로다. '리미티드 에디션'엔 중앙차선유지보조(CLKA), 부주의운전경보(DAA), 긴급제동보조(AEBS) 등 9가지 첨단주행보조기술(ADAS)과 커튼에어백 포함 6에어백 9인치 HD 스마트 미러링 내비게이션, 1열 열선 및 통풍시트 등 각종 편의사양이 기본으로 적용된다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "추가 판매하는 '리미티드 에디션'은 31일 오후 9시 40분부터 CJ 오쇼핑 채널에서 구매할 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "쌍용차 관계자는 \\\"내∙외관 디자인은 물론 다양한 특장점을 영상을 통해 만나 볼 수 있을 것\\\"이라며 \\\"CJ오쇼핑을 통해 상담 후 구매하면 10만원 특별 할인이 적용되며, 계약 및 출고는 배정된 쌍용자동차 판매네트워크를 통해 진행된다\\\"고 말했다.",
+				"sentenceSize": 139
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쌍용차, '티볼리' 홈쇼핑서 한달만에 완판…1000대 추가 판매",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337961",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "그린존시큐리티·IDQ, 양자보안 USB 개발",
+		"newsSubTitle": "",
+		"newsContent": "그린존시큐리티는 SK스퀘어의 양자암호통신 자회사 IDQ와 '양자보안 USB'를 개발했다고 18일 밝혔다.\n양자보안 USB는 IDQ의 양자난수생성기(QRNG)가 탑재됐다.\nUSB 단자를 사용하는 모든 사물인터넷(IoT) 디바이스의 암호 알고리즘 암호키가 가지는 취약성 문제를 해결, 해킹이 사실상 불가능하다.\nQRNG는 칩셋 내부에 있는 이미지센서가 발광 다이오드(LED) 광원이 방출한 빛(광자)을 감지해 예측 불가능하고 패턴이 없는, 해킹 불가능한 순수 난수를 만든다. QRNG를 통해 인증금융메신저 등 보안이 필수인 서비스를 더욱 안전하게 사용할 수 있다.\n앞서 삼성전자 '갤럭시 A 퀀텀', '갤럭시 퀀텀2' 스마트폰에 QRNG이 적용된 바 있다.\n양자보안 USB는 디지털 뉴딜 사업에 곧바로 적용된다.\n대형병원에 사용되는 개인의 지정맥 데이터를 QRNG와 결합해 매번 다른 암호화 데이터를 안전하게 전달한다.\n의료정보 시스템에 접근하는 단말과 서버에 양자보안 USB를 장착함으로써 민감한 고객 정보를 다루는 헬스케어 분야에서도 양자기술의 강력한 보안성을 이용할 수 있게 됐다.\n그린존시큐리티는 지난해 IDQ와의 협력, 양자난수생성칩을 적용한 보안 게이트웨이 장비를 최초로 개발했다.\n올해 라즈베리파이와 연동성이 높은 양자난수생성칩 상용 보드를 개발하는 등 양자암호 상용 범위를 확대해 나가고 있다.\n구남기 그린존시큐리티 대표는 “USB 디바이스라는 범용 디바이스를 통해 사물 인터넷 환경에서 양자기술을 확산, 보안을 강화할 수 있게 됐다”고 설명했다.\n그레고아 리보디 IDQ 대표는 “가장 간단하고 비용이 적게 드는 IoT 기기라도 최고 수준의 보안과 신뢰를 갖추어야 한다”며 “그린존시큐리티 양자암호 USB에는 소형화된 QRNG 칩이 포함돼 강력한 보안을 제공할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그린존시큐리티는 SK스퀘어의 양자암호통신 자회사 IDQ와 '양자보안 USB'를 개발했다고 18일 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양자보안 USB는 IDQ의 양자난수생성기(QRNG)가 탑재됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "USB 단자를 사용하는 모든 사물인터넷(IoT) 디바이스의 암호 알고리즘 암호키가 가지는 취약성 문제를 해결, 해킹이 사실상 불가능하다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "QRNG는 칩셋 내부에 있는 이미지센서가 발광 다이오드(LED) 광원이 방출한 빛(광자)을 감지해 예측 불가능하고 패턴이 없는, 해킹 불가능한 순수 난수를 만든다. QRNG를 통해 인증금융메신저 등 보안이 필수인 서비스를 더욱 안전하게 사용할 수 있다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 삼성전자 '갤럭시 A 퀀텀', '갤럭시 퀀텀2' 스마트폰에 QRNG이 적용된 바 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양자보안 USB는 디지털 뉴딜 사업에 곧바로 적용된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대형병원에 사용되는 개인의 지정맥 데이터를 QRNG와 결합해 매번 다른 암호화 데이터를 안전하게 전달한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "의료정보 시스템에 접근하는 단말과 서버에 양자보안 USB를 장착함으로써 민감한 고객 정보를 다루는 헬스케어 분야에서도 양자기술의 강력한 보안성을 이용할 수 있게 됐다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그린존시큐리티는 지난해 IDQ와의 협력, 양자난수생성칩을 적용한 보안 게이트웨이 장비를 최초로 개발했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "올해 라즈베리파이와 연동성이 높은 양자난수생성칩 상용 보드를 개발하는 등 양자암호 상용 범위를 확대해 나가고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "구남기 그린존시큐리티 대표는 “USB 디바이스라는 범용 디바이스를 통해 사물 인터넷 환경에서 양자기술을 확산, 보안을 강화할 수 있게 됐다”고 설명했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "그레고아 리보디 IDQ 대표는 “가장 간단하고 비용이 적게 드는 IoT 기기라도 최고 수준의 보안과 신뢰를 갖추어야 한다”며 “그린존시큐리티 양자암호 USB에는 소형화된 QRNG 칩이 포함돼 강력한 보안을 제공할 것”이라고 말했다.",
+				"sentenceSize": 129
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "그린존시큐리티·IDQ, 양자보안 USB 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

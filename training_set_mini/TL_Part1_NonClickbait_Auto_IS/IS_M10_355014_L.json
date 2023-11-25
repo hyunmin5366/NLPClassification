@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355014",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "'초저전력, 초고속' 반도체 회로 구현할 '극강 소자' 나왔다",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 초저전력으로도 우수한 속도를 나타내는 반도체 칩의 소자를 개발했다.\n포항공과대(POSTECH)는 이병훈·강석형 전자전기공학과 교수 연구팀이 반도체의 '삼진 로직 회로'에 필요한 소자기술을 개발했다고 18일 밝혔다.\n삼진 로직 회로란 0과 1로 동작하는 기존의 반도체 회로와 달리 0, 1, 2로 동작하는 회로다.\n회로가 하나 더 늘어남에 따라 정보 처리능력이 늘어나고 전력 소모도 줄어드는 특징을 지닌다.\n다만 그동안 정보처리 과정에서 누설전류가 생겨 전력 소모가 크다는 한계가 있었다.\n이에 POSTECH 연구팀은 특정 전압에서만 작동하는 소자를 개발해 누설전류 문제를 해결했다.\n연구팀은 이를 반양극성(Anti-Ambipolar) 스위칭 소자라고 설명했다.\n연구팀은 반양극성 스위칭 소자를 적용한 삼진 회로는 누설 전류가 거의 발생하지 않았고 0.15μW(마이크로와트, 1μW=100만분의 1W)의 적은 전력으로도 성능이 높았다고 밝혔다.\n이 전력량은 다른 삼진 회로에서 필요했던 전력량의 7분의 1에 불과한 수준이다.\n이병훈 교수는 \\\"이번에 개발된 소자를 활용하면 반도체 칩 단위에서 대면적 공정 설계가 가능하다\\\"며 \\\"이번 연구 성과는 급격히 늘어난 전력 소모로 어려움을 겪는 반도체 기술의 한계를 돌파할 수 있는 대안이 될 수 있다\\\"고 설명했다.\n이번 연구는 최근 국제학술지 '미국화학회 나노'(American Chemical Society Nano)에 게재됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 초저전력으로도 우수한 속도를 나타내는 반도체 칩의 소자를 개발했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "포항공과대(POSTECH)는 이병훈·강석형 전자전기공학과 교수 연구팀이 반도체의 '삼진 로직 회로'에 필요한 소자기술을 개발했다고 18일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼진 로직 회로란 0과 1로 동작하는 기존의 반도체 회로와 달리 0, 1, 2로 동작하는 회로다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "회로가 하나 더 늘어남에 따라 정보 처리능력이 늘어나고 전력 소모도 줄어드는 특징을 지닌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만 그동안 정보처리 과정에서 누설전류가 생겨 전력 소모가 크다는 한계가 있었다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 POSTECH 연구팀은 특정 전압에서만 작동하는 소자를 개발해 누설전류 문제를 해결했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구팀은 이를 반양극성(Anti-Ambipolar) 스위칭 소자라고 설명했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구팀은 반양극성 스위칭 소자를 적용한 삼진 회로는 누설 전류가 거의 발생하지 않았고 0.15μW(마이크로와트, 1μW=100만분의 1W)의 적은 전력으로도 성능이 높았다고 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 전력량은 다른 삼진 회로에서 필요했던 전력량의 7분의 1에 불과한 수준이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이병훈 교수는 \\\"이번에 개발된 소자를 활용하면 반도체 칩 단위에서 대면적 공정 설계가 가능하다\\\"며 \\\"이번 연구 성과는 급격히 늘어난 전력 소모로 어려움을 겪는 반도체 기술의 한계를 돌파할 수 있는 대안이 될 수 있다\\\"고 설명했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이번 연구는 최근 국제학술지 '미국화학회 나노'(American Chemical Society Nano)에 게재됐다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'초저전력, 초고속' 반도체 회로 구현할 '극강 소자' 나왔다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

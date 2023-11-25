@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350304",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "일본 방송 놀래킨 '파파고'…사전 찍어 번역하자 \\\"에~~ 스고이\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "네이버 AI 통번역 서비스 '파파고'(Papago)가 일본에서도 통했다.\n9일 업계에 따르면 지난 30일 일본 마이니치방송(MBS)의 대표 예능 프로그램 '일요일의 초문학'에서 일상 속 유용한 애플리케이션으로 파파고가 소개됐다.\n방송은 영어, 한국어, 프랑스어 등 13개 언어에 대한 파파고의 정확한 번역 서비스에 주목했다.\n출연진들은 스튜디오에서 영어 사전을 카메라로 찍은 뒤 일본어로 자연스럽게 바뀌는 번역 결과에 크게 놀랐다.\n이날 방송의 효과로 당일 파파고 다운로드 수는 약 29배 급증하기도 했다.\n5월 파파고 일본 월간순이용자(MAU)는 전월 대비 약 26% 늘어나는 등 상승세를 보인다.\n파파고는 2016년 출시 이후 국내에서 꾸준히 인기를 모아온 통번역 서비스로 앱, 웹 모든 분야에서 국내 사용자 점유율 1위를 유지하고 있다.\n지난해 11월에는 네이버 파파고가 이미지 속 텍스트를 이미지 위에서 바로 번역해주는 이미지 바로번역 기능을 새롭게 선보였다.\n현재 총 6개 언어(한국어·영어·일어·중국어·베트남어·태국어)에서 이용 가능하다.\n기존 이미지 번역의 경우 단순히 문자를 검출해 번역하는 방식으로 문장 구조가 다소 불완전해 사용자가 선택하는 텍스트 영역에 따라 번역 품질이 일정하지 않았다.\n네이버 파파고팀은 인식된 문자들의 디자인과 문장 구조를 분석해 번역에 적합한 문장을 찾는 자체 딥러닝 모델 HTS를 연구 개발하여 번역 품질을 한단계 높였다는 설명이다.\n신중휘 파파고 리더는 \\\"지속적인 기술 고도화와 양질의 데이터 확보를 바탕으로 글로벌 이용자들이 일상 생활 속에서 편리하고 정확한 번역을 경험할 수 있도록 앞으로도 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버 AI 통번역 서비스 '파파고'(Papago)가 일본에서도 통했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 업계에 따르면 지난 30일 일본 마이니치방송(MBS)의 대표 예능 프로그램 '일요일의 초문학'에서 일상 속 유용한 애플리케이션으로 파파고가 소개됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방송은 영어, 한국어, 프랑스어 등 13개 언어에 대한 파파고의 정확한 번역 서비스에 주목했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "출연진들은 스튜디오에서 영어 사전을 카메라로 찍은 뒤 일본어로 자연스럽게 바뀌는 번역 결과에 크게 놀랐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 방송의 효과로 당일 파파고 다운로드 수는 약 29배 급증하기도 했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "5월 파파고 일본 월간순이용자(MAU)는 전월 대비 약 26% 늘어나는 등 상승세를 보인다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "파파고는 2016년 출시 이후 국내에서 꾸준히 인기를 모아온 통번역 서비스로 앱, 웹 모든 분야에서 국내 사용자 점유율 1위를 유지하고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난해 11월에는 네이버 파파고가 이미지 속 텍스트를 이미지 위에서 바로 번역해주는 이미지 바로번역 기능을 새롭게 선보였다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "현재 총 6개 언어(한국어·영어·일어·중국어·베트남어·태국어)에서 이용 가능하다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "기존 이미지 번역의 경우 단순히 문자를 검출해 번역하는 방식으로 문장 구조가 다소 불완전해 사용자가 선택하는 텍스트 영역에 따라 번역 품질이 일정하지 않았다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "네이버 파파고팀은 인식된 문자들의 디자인과 문장 구조를 분석해 번역에 적합한 문장을 찾는 자체 딥러닝 모델 HTS를 연구 개발하여 번역 품질을 한단계 높였다는 설명이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "신중휘 파파고 리더는 \\\"지속적인 기술 고도화와 양질의 데이터 확보를 바탕으로 글로벌 이용자들이 일상 생활 속에서 편리하고 정확한 번역을 경험할 수 있도록 앞으로도 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일본 방송 놀래킨 '파파고'…사전 찍어 번역하자 \\\"에~~ 스고이\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

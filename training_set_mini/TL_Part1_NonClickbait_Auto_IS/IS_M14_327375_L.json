@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327375",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "우리집 김장은 언제쯤 하면 좋을까?",
+		"newsSubTitle": "서울, 경기도 및 중부 내륙지방은 11월 중,하순 ~ 12월 상순 전반 동·서해안 지방 12월 상순 ~ 중순 전반, 남부지방은 12월 하순 적정",
+		"newsContent": "153웨더는 올해 김장 적정시기로 중부지방은 평년과 비슷하고 내륙지방은 평년보다 3~5일 빠를 것으로 예상된다고 4일 밝혔다.\n또 남부지방은 평년보다 2~3일 늦을 전망이다.\n이에 따라 강원과 경기북부지방은 11월 중순 후반~하순, 서울, 경기남부 및 중부내륙지방은 11월 하순~12월 상순 전반, 동·서해안 지방 12월 상순~중순 전반, 남부지방 12월 하순 이후로 전망된다.\n올해는 9월 초에 평년보다 낮은 기온을 보였으나 9월 중반이후 이동성고기압 영향을 받아 평년보다 높은 기온을 보였다.\n10월 전반까지 아열대 고기압 가장자리에 들어 평년보다 높은 기온을 보였고 11월에는 맑은 날이 많고 기온은 평년과 비슷하거나 조금 낮을 것으로 예상된다.\n일반적으로 일 평균기온이 4℃ 이하, 일 최저기온이 0℃ 이하로 유지될 때를 김장 적기로 보고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "153웨더는 올해 김장 적정시기로 중부지방은 평년과 비슷하고 내륙지방은 평년보다 3~5일 빠를 것으로 예상된다고 4일 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "또 남부지방은 평년보다 2~3일 늦을 전망이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따라 강원과 경기북부지방은 11월 중순 후반~하순, 서울, 경기남부 및 중부내륙지방은 11월 하순~12월 상순 전반, 동·서해안 지방 12월 상순~중순 전반, 남부지방 12월 하순 이후로 전망된다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올해는 9월 초에 평년보다 낮은 기온을 보였으나 9월 중반이후 이동성고기압 영향을 받아 평년보다 높은 기온을 보였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "10월 전반까지 아열대 고기압 가장자리에 들어 평년보다 높은 기온을 보였고 11월에는 맑은 날이 많고 기온은 평년과 비슷하거나 조금 낮을 것으로 예상된다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일반적으로 일 평균기온이 4℃ 이하, 일 최저기온이 0℃ 이하로 유지될 때를 김장 적기로 보고 있다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우리집 김장은 언제쯤 하면 좋을까?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_039707",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'이중계약 무혐의' 김창렬 \\\"당연한 결과..남은 민사 계속 진행\\\"(인터뷰)",
+		"newsSubTitle": "",
+		"newsContent": "가수 김창렬이 식품광고 이중계약으로 피소됐으나 무혐의 처분을 받은 것에 대해 \\\"당연한 결과다\\\"라고 밝혔다.\n김창렬은 28일 오후 일간스포츠와의 전화 통화에서 \\\"지난달 말 H푸드가 낸 이중계약 소송에 대한 검찰의 결과가 나왔다. 무혐의다. 당연한 결과다. 나는 이 부분에 대해 잘못한 것이 애초에 없었다\\\"고 말했다.\n이어 \\\"H푸드가 내 이름을 걸고 낸 식품이 혹평을 받고 나와 관련한 불명예스러운 신조어가 생겨 현재 이에 따른 손해배상 소송이 진행 중이다. 이 민사는 계속 진행할 계획\\\"이라고 덧붙였다.\n또 \\\"이번 무혐의 처분 결과에 따라 정리해야할 남은 부분들은 회사와 상의를 해 나갈 것\\\"이라고 설명했다.\n앞서 김창렬은 H푸드사가 자신의 이름을 내건 편의점 즉석식품이 혹평을 받고 불명예스런 신조어가 생기자 지난 2015년 1월 H푸드사에 모델계약을 해지하면서 손해배상을 청구했다.\n그런데 H푸드사는 오히려 의뢰인에 대한 계약 위반을 이유로 김창렬을 이중 계약 사기 혐의로 고소했다.\n이에 검찰은 지난달 김창렬의 혐의에 대해 '혐의 없음'으로 불기소 처분을 내렸다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 김창렬이 식품광고 이중계약으로 피소됐으나 무혐의 처분을 받은 것에 대해 \\\"당연한 결과다\\\"라고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김창렬은 28일 오후 일간스포츠와의 전화 통화에서 \\\"지난달 말 H푸드가 낸 이중계약 소송에 대한 검찰의 결과가 나왔다. 무혐의다. 당연한 결과다. 나는 이 부분에 대해 잘못한 것이 애초에 없었다\\\"고 말했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"H푸드가 내 이름을 걸고 낸 식품이 혹평을 받고 나와 관련한 불명예스러운 신조어가 생겨 현재 이에 따른 손해배상 소송이 진행 중이다. 이 민사는 계속 진행할 계획\\\"이라고 덧붙였다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 \\\"이번 무혐의 처분 결과에 따라 정리해야할 남은 부분들은 회사와 상의를 해 나갈 것\\\"이라고 설명했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 김창렬은 H푸드사가 자신의 이름을 내건 편의점 즉석식품이 혹평을 받고 불명예스런 신조어가 생기자 지난 2015년 1월 H푸드사에 모델계약을 해지하면서 손해배상을 청구했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그런데 H푸드사는 오히려 의뢰인에 대한 계약 위반을 이유로 김창렬을 이중 계약 사기 혐의로 고소했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 검찰은 지난달 김창렬의 혐의에 대해 '혐의 없음'으로 불기소 처분을 내렸다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[매거진M] 잭 니콜슨, '토니 에드만' 리메이크로 컴백",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

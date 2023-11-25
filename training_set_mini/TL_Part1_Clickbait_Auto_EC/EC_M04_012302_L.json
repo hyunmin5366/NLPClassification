@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012302",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "대전·충남 제조업 11월 자금사정 기준치 밑돌아",
+		"newsSubTitle": "전월比 4p 상승 불구 '93'",
+		"newsContent": "대전·충남지역 기업의 자금사정이 상승에도 불구하고 여전히 기준치(100)를 밑돌았다.\n28일 한국은행 대전충남본부가 대전·충남지역 625개 업체를 대상으로 '11월 자금사정 동향 및 12월 전망'을 조사한 결과 11월 자금사정BSI는 제조업이 93으로 전월 4p, 비제조업이 84로 전월보다 2p 각각 상승했다.\nBSI가 기준치인 100 이상인 경우이면 긍정 응답업체수가 부정 응답업체 수보다 많음을 의미하며,100 이하인 경우에는 그 반대임를 나타낸다.\n대전지역 자금사정BSI는 제조업이 95로 전월보다 6p 상승했지만, 비제조업은 90으로 전월대비 3p 하락했다.\n충남지역 자금사정BSI는 제조업이 93으로 전월보다 4p,비제조업은 81로 전월대비 5p 각각 상승했다.\n12월 자금사정전망BSI 제조업 자금사정전망BSI는 95로 전월보다 3p, 비제조업은 90으로 전월보다 2p 각각 상승했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전·충남지역 기업의 자금사정이 상승에도 불구하고 여전히 기준치(100)를 밑돌았다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 한국은행 대전충남본부가 대전·충남지역 625개 업체를 대상으로 '11월 자금사정 동향 및 12월 전망'을 조사한 결과 11월 자금사정BSI는 제조업이 93으로 전월 4p, 비제조업이 84로 전월보다 2p 각각 상승했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "BSI가 기준치인 100 이상인 경우이면 긍정 응답업체수가 부정 응답업체 수보다 많음을 의미하며,100 이하인 경우에는 그 반대임를 나타낸다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대전지역 자금사정BSI는 제조업이 95로 전월보다 6p 상승했지만, 비제조업은 90으로 전월대비 3p 하락했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "충남지역 자금사정BSI는 제조업이 93으로 전월보다 4p,비제조업은 81로 전월대비 5p 각각 상승했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "12월 자금사정전망BSI 제조업 자금사정전망BSI는 95로 전월보다 3p, 비제조업은 90으로 전월보다 2p 각각 상승했다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "골프존 조이마루, 대전시 올해의 건축상 금상 수상",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

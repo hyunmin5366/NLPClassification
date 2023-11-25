@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007102",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "다음달부터 GS건설 자이에서 이영애 못본다.",
+		"newsSubTitle": "지난달 말 계약해지, 이달 말까지만 사용 가능 지난 2002년부터 8년간 전속모델활동",
+		"newsContent": "다음달부터 GS건설의 아파트 브랜드인 ‘자이’에서 이영애 씨를 볼 수 없게 된다.\n5일 GS건설 따르면 지난 2002년부터 자이 모델로 활동해온 이영애와 지난 8월 계약이 만료됐고 재계약을 하지 않은 것으로 나타났다.\n이에 따라 대전에서도 분양을 앞둔 GS건설의 중구 대흥 1구역 재개발사업 현장에서도 이영애 광고를 사용할 수 없게 된다.\nGS건설은 이달 말까지만 이영애 광고를 사용할 수 있게 된다.\n다음달부터는 당분간 전속모델 없이 광고를 하는 방안, 브랜드 이미지 광고방안 등을 검토하고 있다.\nGS건설 관계자는 “지난 8월 이영애씨와 전속모델 계약이 만료됐고 재계약을 하지 않았다”며 “이달말까지만 이씨의 초상권을 사용할 수 있다”고 밝혔다.\n한편 이영애씨는 GS건설의 아파트브랜드 ‘자이’에서 전속 모델료로 지난해 연 7억원정도를 받은 것으로 전해졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "다음달부터 GS건설의 아파트 브랜드인 ‘자이’에서 이영애 씨를 볼 수 없게 된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 GS건설 따르면 지난 2002년부터 자이 모델로 활동해온 이영애와 지난 8월 계약이 만료됐고 재계약을 하지 않은 것으로 나타났다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따라 대전에서도 분양을 앞둔 GS건설의 중구 대흥 1구역 재개발사업 현장에서도 이영애 광고를 사용할 수 없게 된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "GS건설은 이달 말까지만 이영애 광고를 사용할 수 있게 된다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다음달부터는 당분간 전속모델 없이 광고를 하는 방안, 브랜드 이미지 광고방안 등을 검토하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "GS건설 관계자는 “지난 8월 이영애씨와 전속모델 계약이 만료됐고 재계약을 하지 않았다”며 “이달말까지만 이씨의 초상권을 사용할 수 있다”고 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 이영애씨는 GS건설의 아파트브랜드 ‘자이’에서 전속 모델료로 지난해 연 7억원정도를 받은 것으로 전해졌다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수협, 사랑해(海) 예·적금",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

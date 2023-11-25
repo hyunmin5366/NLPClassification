@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324153",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "코로나19 재택근무 확대… 내부기밀정보 유출 대비 'DLP 솔루션' 각광",
+		"newsSubTitle": "",
+		"newsContent": "최근 코로나19 확산과 함께 재택근무 기업이 늘어나며 내부정보유출방지(DLP) 솔루션이 주목받고 있다.\n보안업계는 재택근무 환경에서 업무용 PC, 모바일, 태블릿 PC 등 엔드포인트 단말에서 내부기밀정보 유출을 막는 데이터 보안관리가 시급하다고 입을 모으고 있다.\n인터넷 프로토콜을 이용해 기밀정보 유출을 방지하는 네트워크 DLP 방식보다 보안수준을 고도화해야 한다는 지적이다.\n재택근무 시 사용하는 업무용 노트북에서 USB, 프린터, 메일, 메신저 등 정보유출이 가능한 경로를 통제해 내부정보 유출을 방지해야 한다.\n클라우드 서비스 도입 기업은 업무처리를 위해 PC를 반출하거나 외부 PC로 업무처리를 하더라도 완벽히 정보를 보호해야 한다.\n실제 대기업 A사는 재택근무를 시행하며 워터월시스템즈가 개발한 '워터월(Waterwall)' DLP 솔루션을 사용해 클라우드 PC 환경에서 내부정보 유출 상황을 관리하고 있다.\n반출된 PC나 외부 PC에서 클라우드 접속이 필요하면 관리자로부터 허가 조치를 받은 후 사용한다.\n업무 중 일정 시간 동안 PC 사용이 없다면 '워터월 화면보호기' 기능이 작동해 업무정보를 보호한다.\n또 '워터월 스크린 워터마크' 기능을 통해 모니터에서 중요자료를 촬영하더라도 원본을 남겨 사용자의 악의적인 유출 행위를 방지한다.\n워터월시스템즈 관계자는 “워터월 DLP 솔루션으로 업무환경에 관계없이 언제 어디서나 기밀 데이터를 보호·관리할 수 있다”면서 “클라우드 서비스 지원 시스템(WW CSS)을 활용하면 클라우드 환경에서도 내부 데이터 보안관리를 하고 운영비용도 절감할 수 있다”고 말했다.\n그는 또 “워터월 DLP 솔루션과 근로시간관리 솔루션(WW WLB)을 이미 국내 1000여개 공공, 금융, 의료, 대기업에 도입 운영하고 있다”면서 “올 상반기 내부정보 유출 감시·예측을 지원하는 고성능 통합로그분석시스템(WW LA)을 출시, 보안서비스를 한층 강화하겠다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 코로나19 확산과 함께 재택근무 기업이 늘어나며 내부정보유출방지(DLP) 솔루션이 주목받고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "보안업계는 재택근무 환경에서 업무용 PC, 모바일, 태블릿 PC 등 엔드포인트 단말에서 내부기밀정보 유출을 막는 데이터 보안관리가 시급하다고 입을 모으고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인터넷 프로토콜을 이용해 기밀정보 유출을 방지하는 네트워크 DLP 방식보다 보안수준을 고도화해야 한다는 지적이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "재택근무 시 사용하는 업무용 노트북에서 USB, 프린터, 메일, 메신저 등 정보유출이 가능한 경로를 통제해 내부정보 유출을 방지해야 한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "클라우드 서비스 도입 기업은 업무처리를 위해 PC를 반출하거나 외부 PC로 업무처리를 하더라도 완벽히 정보를 보호해야 한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "실제 대기업 A사는 재택근무를 시행하며 워터월시스템즈가 개발한 '워터월(Waterwall)' DLP 솔루션을 사용해 클라우드 PC 환경에서 내부정보 유출 상황을 관리하고 있다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "반출된 PC나 외부 PC에서 클라우드 접속이 필요하면 관리자로부터 허가 조치를 받은 후 사용한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "업무 중 일정 시간 동안 PC 사용이 없다면 '워터월 화면보호기' 기능이 작동해 업무정보를 보호한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 '워터월 스크린 워터마크' 기능을 통해 모니터에서 중요자료를 촬영하더라도 원본을 남겨 사용자의 악의적인 유출 행위를 방지한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "워터월시스템즈 관계자는 “워터월 DLP 솔루션으로 업무환경에 관계없이 언제 어디서나 기밀 데이터를 보호·관리할 수 있다”면서 “클라우드 서비스 지원 시스템(WW CSS)을 활용하면 클라우드 환경에서도 내부 데이터 보안관리를 하고 운영비용도 절감할 수 있다”고 말했다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "그는 또 “워터월 DLP 솔루션과 근로시간관리 솔루션(WW WLB)을 이미 국내 1000여개 공공, 금융, 의료, 대기업에 도입 운영하고 있다”면서 “올 상반기 내부정보 유출 감시·예측을 지원하는 고성능 통합로그분석시스템(WW LA)을 출시, 보안서비스를 한층 강화하겠다”고 덧붙였다.",
+				"sentenceSize": 159
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코로나19 재택근무 확대… 내부기밀정보 유출 대비 'DLP 솔루션' 각광",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

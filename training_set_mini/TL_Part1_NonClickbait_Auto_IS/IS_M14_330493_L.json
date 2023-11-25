@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330493",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "나라컨트롤, 대한민국 기술대상 장관상",
+		"newsSubTitle": "",
+		"newsContent": "나라컨트롤이 지난 5일 서울 코엑스에서 개최된 '2018년도 대한민국 기술대상'에서 수상했다.\n대한민국 기술대상은 산업통상자원부가 주최하는 '대한민국 산업기술 R&D 대전' 개막행사로 한 해 동안 기술적 성과가 뛰어나고 대한민국 산업 발전에 기여한 우수 신기술·제품을 선정한다.\n나라컨트롤은 '무선통신네트워크 기반 자가 제어 단말노드장치 적용 인공지능(AI) 빌딩자동제어 시스템'을 출품했다.\n건물의 공기조화, 전력, 조명을 관리하는 빌딩자동제어 시스템에 사물인터넷(IoT), AI, 빅데이터, 무선기술 등 4차 산업혁명 핵심기술을 접목했다.\n순수 국산기술로 개발한 시스템으로 유·무선 제어 장점을 모두 보유했다.\n에너지절약, 경제성, 설치편의성, 사용편의성을 극대화해 산자부 신제품인증(NEP), 조달청 우수제품지정 성과를 냈다.\n나라컨트롤 관계자는 “국내 빌딩자동제어 시장을 다국적 대기업이 점유하고 있지만 나라컨트롤은 기술력이 입증된 만큼 충분히 승산이 있다”면서 “국내시장 점유율을 확대하고 나아가 해외시장 진출도 확대할 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "나라컨트롤이 지난 5일 서울 코엑스에서 개최된 '2018년도 대한민국 기술대상'에서 수상했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대한민국 기술대상은 산업통상자원부가 주최하는 '대한민국 산업기술 R&D 대전' 개막행사로 한 해 동안 기술적 성과가 뛰어나고 대한민국 산업 발전에 기여한 우수 신기술·제품을 선정한다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "나라컨트롤은 '무선통신네트워크 기반 자가 제어 단말노드장치 적용 인공지능(AI) 빌딩자동제어 시스템'을 출품했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "건물의 공기조화, 전력, 조명을 관리하는 빌딩자동제어 시스템에 사물인터넷(IoT), AI, 빅데이터, 무선기술 등 4차 산업혁명 핵심기술을 접목했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "순수 국산기술로 개발한 시스템으로 유·무선 제어 장점을 모두 보유했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "에너지절약, 경제성, 설치편의성, 사용편의성을 극대화해 산자부 신제품인증(NEP), 조달청 우수제품지정 성과를 냈다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "나라컨트롤 관계자는 “국내 빌딩자동제어 시장을 다국적 대기업이 점유하고 있지만 나라컨트롤은 기술력이 입증된 만큼 충분히 승산이 있다”면서 “국내시장 점유율을 확대하고 나아가 해외시장 진출도 확대할 것”이라고 밝혔다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "나라컨트롤, 대한민국 기술대상 장관상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

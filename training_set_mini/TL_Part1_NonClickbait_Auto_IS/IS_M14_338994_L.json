@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338994",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "'LG V30' 국내 출고가 94만9300원 책정",
+		"newsSubTitle": "",
+		"newsContent": "LG전자가 LG V30∙V30플러스 국내 출고가를 전작보다 비싼 90만원대로 확정했다.\nLG전자와 이동통신사는 V30(64GB)와 V30플러스(128GB) 출고가를 각각 94만9300원, 99만8800원으로 책정했다.\nLG전자는 V30 출고가를 전작 G6∙V20(89만9800원)보다 5만원가량 높게 책정했다.\n퀄컴 최신형 칩셋, 유기발광다이오드(OLED) 디스플레이 등이 가격 상승 요인으로 손꼽힌다.\n80만원대에 판매된 G6가 기대만큼 흥행하지 못했다는 점을 고려하면, 90만원대 V30가 얼마나 많은 소비자 선택을 받을 수 있을지는 미지수다.\n다만 대용량 모델인 V30플러스가 스마트폰 구매 고객 심리적 저항선이 100만원을 넘기지 않았다는 점과 경쟁제품인 갤럭시노트8(64GB)보다 14만5200원 저렴하다는 점은 경쟁력으로 손꼽힌다.\n휴대폰 유통점 관계자는 \\\"LG전자가 V30 출고가를 전작보다 비싸게 책정한 만큼 제품 디자인, 성능 등이 흥행의 중요 변수가 될 것\\\"이라고 전망했다.\nLG전자 관계자는 \\\"14일 예약판매 시점에 V30 출고가를 정식 공개할 예정\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG전자가 LG V30∙V30플러스 국내 출고가를 전작보다 비싼 90만원대로 확정했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG전자와 이동통신사는 V30(64GB)와 V30플러스(128GB) 출고가를 각각 94만9300원, 99만8800원으로 책정했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LG전자는 V30 출고가를 전작 G6∙V20(89만9800원)보다 5만원가량 높게 책정했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "퀄컴 최신형 칩셋, 유기발광다이오드(OLED) 디스플레이 등이 가격 상승 요인으로 손꼽힌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "80만원대에 판매된 G6가 기대만큼 흥행하지 못했다는 점을 고려하면, 90만원대 V30가 얼마나 많은 소비자 선택을 받을 수 있을지는 미지수다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만 대용량 모델인 V30플러스가 스마트폰 구매 고객 심리적 저항선이 100만원을 넘기지 않았다는 점과 경쟁제품인 갤럭시노트8(64GB)보다 14만5200원 저렴하다는 점은 경쟁력으로 손꼽힌다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "휴대폰 유통점 관계자는 \\\"LG전자가 V30 출고가를 전작보다 비싸게 책정한 만큼 제품 디자인, 성능 등이 흥행의 중요 변수가 될 것\\\"이라고 전망했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "LG전자 관계자는 \\\"14일 예약판매 시점에 V30 출고가를 정식 공개할 예정\\\"이라고 말했다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'LG V30' 국내 출고가 94만9300원 책정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

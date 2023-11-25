@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334858",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "가상화 환경을 쉽고 간편하게 클라우드로 전환하는 오라클 라벨로에 개발2테스트 관련자 주목",
+		"newsSubTitle": "",
+		"newsContent": "한국오라클(대표 김형래)이 기업의 기존 가상화 환경을 그대로 쉽고 빠르게 클라우드 환경으로 옮겨 운영할 수 있는 라벨로 클라우드 서비스로 IaaS 클라우드 시장을 공략한다.\n오라클 라벨로 클라우드 서비스는 기업들이 온프레미스에서 운영되고 있는 네트워크 구성 및 환경을 그대로 클라우드 상에서 구현되고 기업의 다양한 업무 용도로 확장할 수도 있다.\n라벨로의 특징은 VM웨어를 비롯한 커널 기반 가상 머신(Kernel-based Virtual Machine)을 활용하여 복잡한 가상화 환경을 클릭 몇 번 만으로 빠르게 클라우드로 전환할 수 있다.\n그리고 비용 면에서도 사용한 만큼만 비용을 지불하는 방식으로 비용절감 효과를 기대할 수 있다.\n애플리케이션을 지속적으로 개발하고 테스트를 해야 하는 기업은 라벨로를 활용하여 개발, 테스트, 통합 검증에 필요한 환경을 퍼블릭 클라우드 환경에서 비용 효율적으로 필요한 크기로, 필요한 만큼, 빠르게 구성하고 관리할 수 있다.\n글로벌 오픈소스 솔루션 기업인 레드햇, 모바일 플랫폼 업체인 아이언소스, 스포츠 베팅업체 888홀딩스 등 다양한 산업군의 기업들이 오라클 라벨로 클라우드를 도입해 30~70% 비용 절감 효과를 보고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국오라클(대표 김형래)이 기업의 기존 가상화 환경을 그대로 쉽고 빠르게 클라우드 환경으로 옮겨 운영할 수 있는 라벨로 클라우드 서비스로 IaaS 클라우드 시장을 공략한다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오라클 라벨로 클라우드 서비스는 기업들이 온프레미스에서 운영되고 있는 네트워크 구성 및 환경을 그대로 클라우드 상에서 구현되고 기업의 다양한 업무 용도로 확장할 수도 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "라벨로의 특징은 VM웨어를 비롯한 커널 기반 가상 머신(Kernel-based Virtual Machine)을 활용하여 복잡한 가상화 환경을 클릭 몇 번 만으로 빠르게 클라우드로 전환할 수 있다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그리고 비용 면에서도 사용한 만큼만 비용을 지불하는 방식으로 비용절감 효과를 기대할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플리케이션을 지속적으로 개발하고 테스트를 해야 하는 기업은 라벨로를 활용하여 개발, 테스트, 통합 검증에 필요한 환경을 퍼블릭 클라우드 환경에서 비용 효율적으로 필요한 크기로, 필요한 만큼, 빠르게 구성하고 관리할 수 있다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "글로벌 오픈소스 솔루션 기업인 레드햇, 모바일 플랫폼 업체인 아이언소스, 스포츠 베팅업체 888홀딩스 등 다양한 산업군의 기업들이 오라클 라벨로 클라우드를 도입해 30~70% 비용 절감 효과를 보고 있다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가상화 환경을 쉽고 간편하게 클라우드로 전환하는 오라클 라벨로에 개발2테스트 관련자 주목",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322313",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "[데이터 뉴스]지난해 미국·유럽서 많이 팔린 전기차",
+		"newsSubTitle": "",
+		"newsContent": "전기차 전문 매체 인사이드이브이스(EVs) 등에 따르면 지난해 북미에서 전기차(BEV∙PHEV) 36만1307대, 유럽에서 약 38만대(1~11월)가 각각 팔렸다.\n북미에서는 테슬라 '모델3'가 13만9782대 팔려 시장점유율 38%를 차지하는 최고 성적을 냈다.\n그 뒤를 이어 토요타 '프리우스 프라임(2만7595대)'가 2위를 차지했다.\n테슬라는 플러그인하이브리드(PHEV)를 제외한 배터리전기차(BEV) 판매량에서 1위에 이어 '모델S'와 '모델X'가 각각 2, 3위를 차지하는 진기록까지 세웠다.\n반면에 유럽에서는 닛산 '리프'가 4만609대 팔려 1위를 기록했다.\n뒤를 이어 르노 '조에'와 BMW 'i3'가 각각 3만8538대, 2만4432대로 2∙3위를 차지했다.\n한국산 전기차는 유럽과 미국에서 10위권 내에 진입하지 못했다.\n지난해 미국에서는 테슬라를 비롯해 PHEV를 앞세운 일본 브랜드가 강세를 보였고, 유럽에서는 닛산과 르노의 3000만원대 보급형 전기차(BEV)가 많이 팔렸다. (P)는 플러그인 하이브리드(PHEV)",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전기차 전문 매체 인사이드이브이스(EVs) 등에 따르면 지난해 북미에서 전기차(BEV∙PHEV) 36만1307대, 유럽에서 약 38만대(1~11월)가 각각 팔렸다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "북미에서는 테슬라 '모델3'가 13만9782대 팔려 시장점유율 38%를 차지하는 최고 성적을 냈다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그 뒤를 이어 토요타 '프리우스 프라임(2만7595대)'가 2위를 차지했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "테슬라는 플러그인하이브리드(PHEV)를 제외한 배터리전기차(BEV) 판매량에서 1위에 이어 '모델S'와 '모델X'가 각각 2, 3위를 차지하는 진기록까지 세웠다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "반면에 유럽에서는 닛산 '리프'가 4만609대 팔려 1위를 기록했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "뒤를 이어 르노 '조에'와 BMW 'i3'가 각각 3만8538대, 2만4432대로 2∙3위를 차지했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국산 전기차는 유럽과 미국에서 10위권 내에 진입하지 못했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난해 미국에서는 테슬라를 비롯해 PHEV를 앞세운 일본 브랜드가 강세를 보였고, 유럽에서는 닛산과 르노의 3000만원대 보급형 전기차(BEV)가 많이 팔렸다. (P)는 플러그인 하이브리드(PHEV)",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[데이터 뉴스]지난해 미국·유럽서 많이 팔린 전기차",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

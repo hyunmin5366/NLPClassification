@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M05_018854",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통",
+		"newsTitle": "KFC, ‘블랙라벨더블다운맥스’ 출시",
+		"newsSubTitle": "",
+		"newsContent": "KFC는 닭다리통살을 위, 아래로 쌓아올린 ‘블랙라벨더블다운맥스’를 출시했다고 17일 밝혔다.\n블랙라벨더블다운맥스는 오직 KFC에서만 맛볼 수 있는 치킨으로만 쌓은 ‘더블다운맥스’에 새롭게 추가된 메뉴 라인업이다.\n두터운 마니아 층을 보유하고 있는 기존 징거더블다운맥스에 이은 육즙 가득한 블랙라벨 닭다리통살 필렛과 통삼겹베이컨으로 재탄생시킨 프리미엄 버거다.\n빵 대신 두툼한 닭다리통살 블랙라벨필렛을 사용해 수제 치킨에서 맛볼 수 있는 맛과 식감을 극대화하고, 두 필렛 사이에는 통삼겹베이컨을 넣어 고기의 풍미와 씹는 맛을 한층 더 끌어올린 제품이다.\n여기에 양파 슬라이스로 아삭한 식감을 더하고 느끼함을 잡았으며, 매콤한 살사소스와 갈릭할라피뇨 소스로 모든 식재료의 조화를 완성했다.\nKFC는 블랙라벨더블다운맥스 출시 기념으로 ‘베놈 팩’과 ‘카니지 팩’ 2종의 팩을 할인가 1만3900원에 선보인다.\n또 팩 구매 후 KFC자사 앱 멤버십 ‘커넬’을 적립한 고객 대상으로 추첨을 통해 베놈 2 영화티켓을 증정한다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KFC는 닭다리통살을 위, 아래로 쌓아올린 ‘블랙라벨더블다운맥스’를 출시했다고 17일 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "블랙라벨더블다운맥스는 오직 KFC에서만 맛볼 수 있는 치킨으로만 쌓은 ‘더블다운맥스’에 새롭게 추가된 메뉴 라인업이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두터운 마니아 층을 보유하고 있는 기존 징거더블다운맥스에 이은 육즙 가득한 블랙라벨 닭다리통살 필렛과 통삼겹베이컨으로 재탄생시킨 프리미엄 버거다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "빵 대신 두툼한 닭다리통살 블랙라벨필렛을 사용해 수제 치킨에서 맛볼 수 있는 맛과 식감을 극대화하고, 두 필렛 사이에는 통삼겹베이컨을 넣어 고기의 풍미와 씹는 맛을 한층 더 끌어올린 제품이다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 양파 슬라이스로 아삭한 식감을 더하고 느끼함을 잡았으며, 매콤한 살사소스와 갈릭할라피뇨 소스로 모든 식재료의 조화를 완성했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KFC는 블랙라벨더블다운맥스 출시 기념으로 ‘베놈 팩’과 ‘카니지 팩’ 2종의 팩을 할인가 1만3900원에 선보인다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 팩 구매 후 KFC자사 앱 멤버십 ‘커넬’을 적립한 고객 대상으로 추첨을 통해 베놈 2 영화티켓을 증정한다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "市 12~13일 배추 직거래장터",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

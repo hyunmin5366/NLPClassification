@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000138",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "금융위 연체 이자 최대 3% 고정, \\\"취약차주 지원 사회가 해결할 문제\\\"",
+		"newsSubTitle": "",
+		"newsContent": "은행, 카드사 등 여신금융기관의 연체 이자율이 오는 30일부터 최대 3% 수준으로 내려간다.\n금융위원회는 4일 제6차 정례회의에서 연체 이자율 규정이 담긴 대부업법 시행령 개정안을 의결했다.\n개정안은 지난 1월 19일 관계기관 합동으로 발표한 취약·연체차주 지원방안의 후속 조치다.\n최종구 금융위원장은 지난 1월 금융위 간담회에서 \\\"주요 선진국들이 통화 정책을 정상화하는 과정에서 시장금리가 상승하면 취약차주 부담이 상당히 증가할 수 있다\\\"며 \\\"취약차주 지원은 차주 개인 문제가 아니라 사회가 합심해서 해결해야 할 과제\\\"라고 말한 바 있다.\n금융위 관계자는 \\\"해외사례, 연체로 인한 금융회사 관리비용 등을 감안해 현행 연체금리를 3% 수준으로 인하한다\\\"며 \\\"가산금리는 금융회사 부담에 대한 보상 차원보다는 차주의 연체행위에 대한 패널티로 부과되는 측면\\\"이라고 설명했다.\n이어 그는 \\\"자율시행 및 고시개정 이전에 대출계약을 체결한 차주도 연체금리 인하 이후 연체 발생 시, 인하된 4% 이내 연체금리 적용을 받는다\\\"고 설명했다.\n현행 연체 금리는 은행권이 6~9%, 보험사 10% 내외, 여신전문금융회사가 22% 내외다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "은행, 카드사 등 여신금융기관의 연체 이자율이 오는 30일부터 최대 3% 수준으로 내려간다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융위원회는 4일 제6차 정례회의에서 연체 이자율 규정이 담긴 대부업법 시행령 개정안을 의결했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개정안은 지난 1월 19일 관계기관 합동으로 발표한 취약·연체차주 지원방안의 후속 조치다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최종구 금융위원장은 지난 1월 금융위 간담회에서 \\\"주요 선진국들이 통화 정책을 정상화하는 과정에서 시장금리가 상승하면 취약차주 부담이 상당히 증가할 수 있다\\\"며 \\\"취약차주 지원은 차주 개인 문제가 아니라 사회가 합심해서 해결해야 할 과제\\\"라고 말한 바 있다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금융위 관계자는 \\\"해외사례, 연체로 인한 금융회사 관리비용 등을 감안해 현행 연체금리를 3% 수준으로 인하한다\\\"며 \\\"가산금리는 금융회사 부담에 대한 보상 차원보다는 차주의 연체행위에 대한 패널티로 부과되는 측면\\\"이라고 설명했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 그는 \\\"자율시행 및 고시개정 이전에 대출계약을 체결한 차주도 연체금리 인하 이후 연체 발생 시, 인하된 4% 이내 연체금리 적용을 받는다\\\"고 설명했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현행 연체 금리는 은행권이 6~9%, 보험사 10% 내외, 여신전문금융회사가 22% 내외다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"야외 온천부터 아이스링크까지\\\" … 호텔家, 연말 콘텐츠 강화",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

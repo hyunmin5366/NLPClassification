@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007629",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "반도체설계 대전 ETRI '대통령상'",
+		"newsSubTitle": "국무총리상은 KAIST팀",
+		"newsContent": "한국전자통신연구원(ETRI)이 대한민국 반도체 설계 대전에서 대통령상을 받는다.\n특허청은 '제11회 대한민국 반도체 설계대전'에서 ETRI팀이 대상인 대통령상을 수상했다고 14일 밝혔다.\nETRI팀(천익재·여준기·노태문)은 데이터 고속처리를 위한 '동적분할 SIMD제어 방식' 등을 적용한 휴대 단말기용 다용도 모바일 프로세서 칩을 설계해 기술적 우수성을 인정받았다.\n국무총리상은 '유기발광다이오드용 컨버터 칩'를 제출한 KAIST팀(왕세원·우영진)에 돌아가는 등 총 14개 팀이 수상했다.\n반도체 설계 기술 발전 등을 위해 2000년부터 열고 있는 이 대회에는 올해 45개 작품이 출품됐다.\n특허청 박정렬 전기전자심사국장은 “수상작에는 반도체설계재산 유통센터 등을 통해 홍보와 기술거래 지원 등이 이뤄진다”며 “해마다 참신하고 성능이 우수한 작품들이 대거 참여하고 있어 국내 반도체 설계기술의 미래가 밝다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전자통신연구원(ETRI)이 대한민국 반도체 설계 대전에서 대통령상을 받는다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "특허청은 '제11회 대한민국 반도체 설계대전'에서 ETRI팀이 대상인 대통령상을 수상했다고 14일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ETRI팀(천익재·여준기·노태문)은 데이터 고속처리를 위한 '동적분할 SIMD제어 방식' 등을 적용한 휴대 단말기용 다용도 모바일 프로세서 칩을 설계해 기술적 우수성을 인정받았다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국무총리상은 '유기발광다이오드용 컨버터 칩'를 제출한 KAIST팀(왕세원·우영진)에 돌아가는 등 총 14개 팀이 수상했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "반도체 설계 기술 발전 등을 위해 2000년부터 열고 있는 이 대회에는 올해 45개 작품이 출품됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특허청 박정렬 전기전자심사국장은 “수상작에는 반도체설계재산 유통센터 등을 통해 홍보와 기술거래 지원 등이 이뤄진다”며 “해마다 참신하고 성능이 우수한 작품들이 대거 참여하고 있어 국내 반도체 설계기술의 미래가 밝다”고 말했다.",
+				"sentenceSize": 126
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 전세난 해소 시기 엇갈린 전망",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

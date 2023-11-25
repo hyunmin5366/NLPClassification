@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008032",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전·충남 여수신 줄어",
+		"newsSubTitle": "기업대출·은행예금 감소 등 영향",
+		"newsContent": "2010년 12월 대전·충남지역 금융기관의 여·수신이 모두 감소한 것으로 나타났다.\n한국은행 대전·충남본부가 15일 발표한 금융기관 여·수신동향에 따르면, 은행 정기예금 감소와 자산운용사의 주식형펀드 환매가 지속하면서 수신이 감소했고, 여신도 은행 대출이 중소기업을 중심으로 줄어들면서 감소로 전환했다.\n수신(11월 +4742억원→ 12월 -1조 1554억원)의 경우 예금은행은 CD 등 시장성수신의 감소세가 지속한데다 정기예금 및 기업자유예금이 줄어들면서 감소폭이 크게 확대됐다.\n비은행기관은 상호금융 등 서민금융기관 수신이 증가세를 지속했지만, 자산운용사 및 신탁회사 수신이 줄어들면서 감소로 전환했다.\n여신(11월 +4543억원→12월 -734억원)의 경우 예금은행은 가계대출 증가세가 지속했지만, 기업대출이 중소기업을 중심으로 줄어들면서 감소로 전환했다.\n비은행기관은 신탁회사의 어음매입이 감소했지만, 상호금융과 새마을금고 등 서민금융기관의 여신 증가폭이 확대되면서 증가세를 지속했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2010년 12월 대전·충남지역 금융기관의 여·수신이 모두 감소한 것으로 나타났다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전·충남본부가 15일 발표한 금융기관 여·수신동향에 따르면, 은행 정기예금 감소와 자산운용사의 주식형펀드 환매가 지속하면서 수신이 감소했고, 여신도 은행 대출이 중소기업을 중심으로 줄어들면서 감소로 전환했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수신(11월 +4742억원→ 12월 -1조 1554억원)의 경우 예금은행은 CD 등 시장성수신의 감소세가 지속한데다 정기예금 및 기업자유예금이 줄어들면서 감소폭이 크게 확대됐다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비은행기관은 상호금융 등 서민금융기관 수신이 증가세를 지속했지만, 자산운용사 및 신탁회사 수신이 줄어들면서 감소로 전환했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여신(11월 +4543억원→12월 -734억원)의 경우 예금은행은 가계대출 증가세가 지속했지만, 기업대출이 중소기업을 중심으로 줄어들면서 감소로 전환했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비은행기관은 신탁회사의 어음매입이 감소했지만, 상호금융과 새마을금고 등 서민금융기관의 여신 증가폭이 확대되면서 증가세를 지속했다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“중소기업 해외 판로 개척” SBA, 2022년 국제유통센터 글로벌 마케터 매칭상담회 성공리에 마무리",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

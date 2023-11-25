@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007842",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "LIG, ()를 위한 종합보험 출시",
+		"newsSubTitle": "",
+		"newsContent": "배상책임은 물론 민사소송으로 인한 법률비용까지 보장하는 ‘LIG( )를 위한 종합보험’이 출시됐다.\n이 상품은 기존 화재보험에서 보장해 온 화재로 인한 비용 손해와 시설 소유에 따른 배상책임은 물론 업계 최초로 법률비용을 추가로 보장한다.\n법률비용 특약에 가입 시 가사소송 등 일부를 제외한 민사소송에 대해 소송진행 시 소요되는 소송비용과 부대비용을 심급별로 최대 2000만원까지 지급한다.\n민사 사건 소송에 따른 변호사 비용을 심급별로 최대 1500만원까지 보장하며, 소송 절차상 발생하는 인지대와 송달료 등도 심급별로 최대 500만원을 지급해, 3심까지 소송이 진행되면 최대 6000만원의 법률비용을 보장받을 수 있다.\n또 대상 건물에 개인주택을 추가할 수 있어 사업장과 거주주택을 하나의 보험으로 관리할 수 있고, 종업원을 최대 9명까지 가입시킬 수 있다.\n일반음식점을 기준으로 한 달에 20여만원의 보험료를 5년간 내면 화재손해 1억원, 화재벌금 2000만원, 음식물 배상책임 1억원, 법률비용손해 6000만원 등을 보장받을 수 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배상책임은 물론 민사소송으로 인한 법률비용까지 보장하는 ‘LIG( )를 위한 종합보험’이 출시됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 상품은 기존 화재보험에서 보장해 온 화재로 인한 비용 손해와 시설 소유에 따른 배상책임은 물론 업계 최초로 법률비용을 추가로 보장한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "법률비용 특약에 가입 시 가사소송 등 일부를 제외한 민사소송에 대해 소송진행 시 소요되는 소송비용과 부대비용을 심급별로 최대 2000만원까지 지급한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "민사 사건 소송에 따른 변호사 비용을 심급별로 최대 1500만원까지 보장하며, 소송 절차상 발생하는 인지대와 송달료 등도 심급별로 최대 500만원을 지급해, 3심까지 소송이 진행되면 최대 6000만원의 법률비용을 보장받을 수 있다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 대상 건물에 개인주택을 추가할 수 있어 사업장과 거주주택을 하나의 보험으로 관리할 수 있고, 종업원을 최대 9명까지 가입시킬 수 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일반음식점을 기준으로 한 달에 20여만원의 보험료를 5년간 내면 화재손해 1억원, 화재벌금 2000만원, 음식물 배상책임 1억원, 법률비용손해 6000만원 등을 보장받을 수 있다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "<호남고속철도 개통 1년>서대전역 운행 감축, 이용객 불편",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

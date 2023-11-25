@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324690",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "소재·부품",
+		"newsTitle": "로옴, 전력 불안정한 환경에도 고속 데이터 백업 가능한 1Mbit FeRAM 「MR45V100A / MR44V100A」 개발",
+		"newsSubTitle": "",
+		"newsContent": "로옴 (ROHM) 그룹 라피스 세미컨덕터 (LAPIS Semiconductor)는 고속 ㆍ 고빈도 로그 데이터 취득 및 긴급 시의 고속 데이터 백업이 필요한 스마트미터 / 계측기기 / 의료기기 / 금융 단말기용으로 1Mbit 강유전체 메모리 (이하, FeRAM주１) 「MR45V100A / MR44V100A」를 개발하여, 12월부터 양산 출하를 개시할 예정이라고 밝혔다. 「MR45V100A」는 SPI주２ BUS 제품으로, 1.8V~3.6V의 넓은 전원전압 범위에서 40MHz의 고속 동작을 실현한다.\n이에 따라 대용량 1Mbit 시, 전력 환경이 불안정한 지역에서 갑작스러운 전압 저하가 발생해도 안정된 고속 동작이 가능하여, 탑재 장치의 고속 데이터 백업에 의해 신뢰성 향상에 기여한다. 「MR44V100A」는 I2C주３ BUS 제품으로, 속도에 관계 없는 어플리케이션에 최적이다.\n또한 모바일기기의 데이터 대용량화에 따른 소비전력 증가를 억제하기 위해 스탠바이 (대기) 모드를 개선함과 동시에, 라피스의 FeRAM으로는 처음으로 슬립 (휴지) 모드를 탑재했다.\n1Mbit FeRAM에서 업계 최소 수준※의 스탠바이 전류 10øA (평균)와 슬립 전류 0.1øA (평균)를 각각 실현하여, 배터리 구동 시간이 중요시되는 결제 단말기 및 데이터 로거 등의 휴대용 단말기 및 모바일기기에도 전개가 가능하다.\n본 제품은 현재 샘플 출하 중이며, 12월부터 양산 출하를 개시할 예정이다.\n생산 거점은 전공정 로옴 본사 (교토), 후공정 ROHM Electronics Philippines, Inc. (필리핀)이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "로옴 (ROHM) 그룹 라피스 세미컨덕터 (LAPIS Semiconductor)는 고속 ㆍ 고빈도 로그 데이터 취득 및 긴급 시의 고속 데이터 백업이 필요한 스마트미터 / 계측기기 / 의료기기 / 금융 단말기용으로 1Mbit 강유전체 메모리 (이하, FeRAM주１) 「MR45V100A / MR44V100A」를 개발하여, 12월부터 양산 출하를 개시할 예정이라고 밝혔다. 「MR45V100A」는 SPI주２ BUS 제품으로, 1.8V~3.6V의 넓은 전원전압 범위에서 40MHz의 고속 동작을 실현한다.",
+				"sentenceSize": 280
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이에 따라 대용량 1Mbit 시, 전력 환경이 불안정한 지역에서 갑작스러운 전압 저하가 발생해도 안정된 고속 동작이 가능하여, 탑재 장치의 고속 데이터 백업에 의해 신뢰성 향상에 기여한다. 「MR44V100A」는 I2C주３ BUS 제품으로, 속도에 관계 없는 어플리케이션에 최적이다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또한 모바일기기의 데이터 대용량화에 따른 소비전력 증가를 억제하기 위해 스탠바이 (대기) 모드를 개선함과 동시에, 라피스의 FeRAM으로는 처음으로 슬립 (휴지) 모드를 탑재했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "1Mbit FeRAM에서 업계 최소 수준※의 스탠바이 전류 10øA (평균)와 슬립 전류 0.1øA (평균)를 각각 실현하여, 배터리 구동 시간이 중요시되는 결제 단말기 및 데이터 로거 등의 휴대용 단말기 및 모바일기기에도 전개가 가능하다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "본 제품은 현재 샘플 출하 중이며, 12월부터 양산 출하를 개시할 예정이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "생산 거점은 전공정 로옴 본사 (교토), 후공정 ROHM Electronics Philippines, Inc. (필리핀)이다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "로옴, 전력 불안정한 환경에도 고속 데이터 백업 가능한 1Mbit FeRAM 「MR45V100A / MR44V100A」 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

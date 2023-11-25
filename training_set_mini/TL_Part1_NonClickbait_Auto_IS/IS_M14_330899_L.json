@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330899",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "푸조·시트로엥, 카카오택시로 만난다",
+		"newsSubTitle": "",
+		"newsContent": "푸조∙시트로엥 공식 수입사 한불모터스가 카카오택시와 함께 시승 이벤트를 진행한다고 19일 밝혔다.\n카카오택시로 운영되는 차량은 '뉴 푸조 3008 SUV'와 시트로엥 'C4 칵투스'며, 서울 지역에 한해 운영될 예정이다.\n행사는 8월 11일까지 두 달 동안 진행되며 카카오택시 이용자가 앱으로 호출하면 출발지와 이동거리 등을 고려해 차를 배정한다.\n별도 택시비 부담 없이 이동 가능하며, 동의서를 작성하고 소비자가 직접 운전할 수도 있다.\n다양한 이벤트도 마련했다.\n참여자가 SNS에 인증사진을 남기면 커피 기프트콘을 제공한다.\n카카오택시로 운행 중인 3008과 C4칵투스 사진을 공식 페이스북 이벤트 페이지에 올리면 매 월 우수작을 선정해 30만원 상당의 밀레 상품권을 증정한다.\n한불모터스 관계자는 \\\"상품성 높은 푸조∙시트로엥 대표 라인업을 카카오택시를 통해 보다 많은 소비자가 직접 체험을 권장한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "푸조∙시트로엥 공식 수입사 한불모터스가 카카오택시와 함께 시승 이벤트를 진행한다고 19일 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오택시로 운영되는 차량은 '뉴 푸조 3008 SUV'와 시트로엥 'C4 칵투스'며, 서울 지역에 한해 운영될 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "행사는 8월 11일까지 두 달 동안 진행되며 카카오택시 이용자가 앱으로 호출하면 출발지와 이동거리 등을 고려해 차를 배정한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "별도 택시비 부담 없이 이동 가능하며, 동의서를 작성하고 소비자가 직접 운전할 수도 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다양한 이벤트도 마련했다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "참여자가 SNS에 인증사진을 남기면 커피 기프트콘을 제공한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "카카오택시로 운행 중인 3008과 C4칵투스 사진을 공식 페이스북 이벤트 페이지에 올리면 매 월 우수작을 선정해 30만원 상당의 밀레 상품권을 증정한다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한불모터스 관계자는 \\\"상품성 높은 푸조∙시트로엥 대표 라인업을 카카오택시를 통해 보다 많은 소비자가 직접 체험을 권장한다\\\"고 말했다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "푸조·시트로엥, 카카오택시로 만난다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

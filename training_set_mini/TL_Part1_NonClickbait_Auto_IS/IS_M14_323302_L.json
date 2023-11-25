@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323302",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "장비",
+		"newsTitle": "야스카와전기, 중대형 산업용 로봇 29개 기종 발표하며 라인업 대거 확충",
+		"newsSubTitle": "",
+		"newsContent": "일본 야스카와전기가 중대형 산업용 로봇 '모토만' 시리즈 29개 기종을 공개했다.\n야스카와전기가 수십개 기종을 같은 시기에 발표한 것은 이번이 처음이다.\n14일 야스카와전기는 가반중량 35㎏~600㎏급 중대형 산업용 로봇 29개 기종 판매를 순차 진행한다고 발표했다.\n기종에 따라 용접용, 프레스 간 반송, 핸들링 등 용도가 나뉜다.\n야스카와전기가 이번에 출시하는 로봇은 신형 컨트롤러에 대응하고 기존 제품보다 작동 성능을 높였다.\n중대형 로봇은 자동차 산업에서 용접 공정 등에 활용되고 있다.\n야스카와전기는 이번 출시로 모토만 시리즈에서 중대형 로봇 라인업을 대거 확대했다.\n신형 로봇에는 신형 컨트롤러 'YRC1000'을 적용해 로봇이 최고 속도로 동작할 수 있다.\n새로운 궤적 제어를 채택해 기존 제품보다 궤적 오차를 80% 낮췄다.\n유지 보수와 에너지 절약 성능도 강화했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 야스카와전기가 중대형 산업용 로봇 '모토만' 시리즈 29개 기종을 공개했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "야스카와전기가 수십개 기종을 같은 시기에 발표한 것은 이번이 처음이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "14일 야스카와전기는 가반중량 35㎏~600㎏급 중대형 산업용 로봇 29개 기종 판매를 순차 진행한다고 발표했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기종에 따라 용접용, 프레스 간 반송, 핸들링 등 용도가 나뉜다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "야스카와전기가 이번에 출시하는 로봇은 신형 컨트롤러에 대응하고 기존 제품보다 작동 성능을 높였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중대형 로봇은 자동차 산업에서 용접 공정 등에 활용되고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "야스카와전기는 이번 출시로 모토만 시리즈에서 중대형 로봇 라인업을 대거 확대했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "신형 로봇에는 신형 컨트롤러 'YRC1000'을 적용해 로봇이 최고 속도로 동작할 수 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "새로운 궤적 제어를 채택해 기존 제품보다 궤적 오차를 80% 낮췄다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "유지 보수와 에너지 절약 성능도 강화했다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "야스카와전기, 중대형 산업용 로봇 29개 기종 발표하며 라인업 대거 확충",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

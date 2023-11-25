@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339399",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "원격근무 보안 책임지는 '데스크톱가상화(VDI)' 뜬다",
+		"newsSubTitle": "외부 접속 증가…정보유출 차단 지원 시트릭스·크로센트 등 도입문의 급증",
+		"newsContent": "코로나19 상황 속 원격근무가 각광 받으면서 데스크톱가상화(VDI)가 새롭게 떠오르고 있다.\n과거 보안을 위한 단순 망분리용으로 인식했다면 이제 원격에서 접속 가능한 환경을 구현하는 핵심 기술로 주목받고 있다.\n21일 업계에 따르면 국내 주요 대기업이 3월부터 VDI 증설에 들어갔다.\nVDI는 데이터센터 등에 가상으로 데스크톱 PC 환경을 구현하는 기술이다.\n직원은 PC나 모바일 등 다양한 기기에서 할당받은 계정으로 VDI에 접속, 업무를 해결한다.\nVDI는 국내에서 2010년대 초반부터 주목받았다.\n논리적 망분리 등 보안 목적이 강했다.\n직원 개인별 PC를 일일이 관리하기 어렵기 때문에 중앙에서 가상화한 PC를 관리, 정보 유출을 차단한다.\n국내 제조, 금융 등 주요 대기업들이 일부 VDI 시스템을 구축했다.\n최근에는 비즈니스 연속성 확보를 위해 범위를 넓히고 있다.\n기존에 일부만 VDI를 사용하던 대기업이 VDI 이용량을 늘리고 있다.\n원격, 재택근무 등이 활성화하면서 외부에서 회사 시스템에 접근하는 수요가 높아졌다.\nVDI는 원격 접속이 가능하기 때문에 정보의 외부 유출 걱정 없이 안정적 원격근무 등을 지원한다.\n클라이언트 PC나 단말기 사양이 낮아도 서버에서 모든 작업을 수행할 수 있다.\n새로운 PC 등을 지급할 필요가 없다.\n대기업 A사는 국내뿐만 아니라 세계 주요 지사별 VDI 사용량을 늘렸다.\n코로나19가 세계적으로 확산하면서 최근 두 달 새 VDI 이용 직원도 급증했다.\n자체 데이터센터 외에 퍼블릭 클라우드를 채택, 원활한 지원을 위해 시스템을 확장했다.\n이미 시트릭스·VM웨어 등 외국계 기업과 나무기술·크로센트 등 국산 기업에 VDI 도입 문의가 이어지고 있다.\n전형철 크로센트 대표는 “재택근무, 기존 시범 구축을 확대·구축하는 등 수요가 한꺼번에 몰려 대응하느라 분주하다”면서 “VDI 매출만 지난해보다 10배 정도 성장할 것으로 예상한다”며 미소를 지어 보였다.\n업계는 대기업뿐만 아니라 점차 원격근무가 확산하면서 VDI 도입도 탄력을 받을 것으로 기대하고 있다.\n위기 상황 시 비즈니스 연속성을 확보해야 한다는 공감대가 커지면서 VDI 도입의 필요성도 높아졌다.\n시트릭스 관계자는 “대기업뿐만 아니라 중견·스타트업까지도 원격근무, 스마트워크의 필요성에 공감한다”면서 “VDI 시장도 대기업 위주에서 점차 다양한 규모의 산업·분야로 확대될 것으로 예상하고 시장 대응을 준비하고 있다”고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 상황 속 원격근무가 각광 받으면서 데스크톱가상화(VDI)가 새롭게 떠오르고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 보안을 위한 단순 망분리용으로 인식했다면 이제 원격에서 접속 가능한 환경을 구현하는 핵심 기술로 주목받고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "21일 업계에 따르면 국내 주요 대기업이 3월부터 VDI 증설에 들어갔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "VDI는 데이터센터 등에 가상으로 데스크톱 PC 환경을 구현하는 기술이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "직원은 PC나 모바일 등 다양한 기기에서 할당받은 계정으로 VDI에 접속, 업무를 해결한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "VDI는 국내에서 2010년대 초반부터 주목받았다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "논리적 망분리 등 보안 목적이 강했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "직원 개인별 PC를 일일이 관리하기 어렵기 때문에 중앙에서 가상화한 PC를 관리, 정보 유출을 차단한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "국내 제조, 금융 등 주요 대기업들이 일부 VDI 시스템을 구축했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "최근에는 비즈니스 연속성 확보를 위해 범위를 넓히고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "기존에 일부만 VDI를 사용하던 대기업이 VDI 이용량을 늘리고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "원격, 재택근무 등이 활성화하면서 외부에서 회사 시스템에 접근하는 수요가 높아졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "VDI는 원격 접속이 가능하기 때문에 정보의 외부 유출 걱정 없이 안정적 원격근무 등을 지원한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "클라이언트 PC나 단말기 사양이 낮아도 서버에서 모든 작업을 수행할 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "새로운 PC 등을 지급할 필요가 없다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "대기업 A사는 국내뿐만 아니라 세계 주요 지사별 VDI 사용량을 늘렸다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "코로나19가 세계적으로 확산하면서 최근 두 달 새 VDI 이용 직원도 급증했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "자체 데이터센터 외에 퍼블릭 클라우드를 채택, 원활한 지원을 위해 시스템을 확장했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이미 시트릭스·VM웨어 등 외국계 기업과 나무기술·크로센트 등 국산 기업에 VDI 도입 문의가 이어지고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "전형철 크로센트 대표는 “재택근무, 기존 시범 구축을 확대·구축하는 등 수요가 한꺼번에 몰려 대응하느라 분주하다”면서 “VDI 매출만 지난해보다 10배 정도 성장할 것으로 예상한다”며 미소를 지어 보였다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "업계는 대기업뿐만 아니라 점차 원격근무가 확산하면서 VDI 도입도 탄력을 받을 것으로 기대하고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "위기 상황 시 비즈니스 연속성을 확보해야 한다는 공감대가 커지면서 VDI 도입의 필요성도 높아졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "시트릭스 관계자는 “대기업뿐만 아니라 중견·스타트업까지도 원격근무, 스마트워크의 필요성에 공감한다”면서 “VDI 시장도 대기업 위주에서 점차 다양한 규모의 산업·분야로 확대될 것으로 예상하고 시장 대응을 준비하고 있다”고 전했다.",
+				"sentenceSize": 128
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "원격근무 보안 책임지는 '데스크톱가상화(VDI)' 뜬다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

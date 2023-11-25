@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006171",
+		"newsCategory": "경제",
+		"newsSubcategory": "IT·통신",
+		"newsTitle": "네이버 지도에서 기차 예매까지 한 번에",
+		"newsSubTitle": "코레일과 시스템 연동 완료…목적지 검색시 기차 예매 가능",
+		"newsContent": "네이버 지도에서 장소 검색과 기차 예매가 가능해졌다.\n여름 휴가철을 앞두고 사용성을 개선해 플랫폼 유입 효과를 높이겠다는 전략이다.\n4일 네이버에 따르면, 지난 1일부터 네이버 지도 애플리케이션과 한국철도공사(코레일) 승차권 예매시스템 연동이 완료됐다.\n이전에는 네이버 지도에서 경로를 확인한 뒤 기자 조회·예매 탭으로 이동해야 했다.\n앞으로는 지도 앱에서 목적지를 설정한 뒤 기차를 이용하는 경로를 탐색하는 중에 예매를 할 수 있다.\n예매가 가능한 기차는 KTX, 새마을, 무궁화, ITX-청춘, 관광열차다.\n코로나19 방역조치가 해제되고 국내여행이 활성화되면서 올 여름 이동량이 늘어날 전망이다.\n실제 지도 앱으로 길 찾는 이용자가 부쩍 들었다.\n네이버 지도의 월간 길 찾기 횟수는 증가세로, 지난 6월 4개월 만에 45% 증가했다.\n특히 네이버 지도 사용자 중 10대부터 30대까지 비중이 55%에 달했다.\n네이버 관계자는 데일리임팩트에 \\\"길 찾기–예매 기능의 활용도가 높을 것으로 기대된다\\\"면서 \\\"장소 검색부터 추천, 적합 경로 탐색 등과 같은 기술과 다양한 교통정보 업체와의 협력을 통해 이동행위를 지원함으로써 생활의 편리함을 높이겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버 지도에서 장소 검색과 기차 예매가 가능해졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "여름 휴가철을 앞두고 사용성을 개선해 플랫폼 유입 효과를 높이겠다는 전략이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "4일 네이버에 따르면, 지난 1일부터 네이버 지도 애플리케이션과 한국철도공사(코레일) 승차권 예매시스템 연동이 완료됐다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이전에는 네이버 지도에서 경로를 확인한 뒤 기자 조회·예매 탭으로 이동해야 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞으로는 지도 앱에서 목적지를 설정한 뒤 기차를 이용하는 경로를 탐색하는 중에 예매를 할 수 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예매가 가능한 기차는 KTX, 새마을, 무궁화, ITX-청춘, 관광열차다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코로나19 방역조치가 해제되고 국내여행이 활성화되면서 올 여름 이동량이 늘어날 전망이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "실제 지도 앱으로 길 찾는 이용자가 부쩍 들었다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네이버 지도의 월간 길 찾기 횟수는 증가세로, 지난 6월 4개월 만에 45% 증가했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특히 네이버 지도 사용자 중 10대부터 30대까지 비중이 55%에 달했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "네이버 관계자는 데일리임팩트에 \\\"길 찾기–예매 기능의 활용도가 높을 것으로 기대된다\\\"면서 \\\"장소 검색부터 추천, 적합 경로 탐색 등과 같은 기술과 다양한 교통정보 업체와의 협력을 통해 이동행위를 지원함으로써 생활의 편리함을 높이겠다\\\"고 말했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "호반베르디움 5차 첫날부터 '퍼펙트' 평균경쟁률 1.38대1",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

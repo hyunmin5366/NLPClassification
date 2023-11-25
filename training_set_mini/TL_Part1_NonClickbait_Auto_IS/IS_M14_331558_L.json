@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331558",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "KTNF, 정부 연구기관 기술이전 받은 'SDN 서버 스위치'...대기업 뚫었다",
+		"newsSubTitle": "",
+		"newsContent": "케이티엔에프(KTNF)가 한국전자통신연구원(ETRI) 기술을 이전받아 개발한 '소프트웨어정의네트워크(SDN) 서버 스위치'를 국내 통신사에 납품했다.\n정부연구기관부터 중소기업, 대기업이 연계해 하드웨어(HW)∙네트워크 개발, 판매로 이어지는 선순환을 만들었다.\nKTNF는 SDN 서버 스위치 대기업 납품 레퍼런스와 국제공인인증을 바탕으로 해외 시장을 공략한다.\nKTNF는 최근 SDN 서버 스위치 'K2632SI'를 국내 대형통신사에 공급하고 추가 납품 협상을 진행한다.\nSDN 서버 스위치는 서버와 별도 구매해야 하는 스위치를 하나의 HW에 모은 제품이다.\n국내서는 KTNF가 처음 개발했다.\n이중연 KTNF 대표는 \\\"지난해 ETRI 기술이전과 국제인증 등을 바탕으로 대형통신사 납품에 성공했고 추가 공급을 논의 중\\\"이라면서 \\\"이번 레퍼런스를 바탕으로 대형 통신사와 해외 시장 진출에 함께 참여할 예정\\\"이라고 말했다.\n서버 스위치 제품은 서버와 스위치를 따로 관리하지 않아도 돼 효율성이 높다.\n중소 데이터센터에 효과적이다.\nKTNF는 자사 서버 스위치 제품에 SDN 기술까지 접목해 관련 제품 포트폴리오를 확대했다.\nSDN은 소프트웨어(SW)로 네트워크 경로를 설정하고 관리가 쉽다.\n중앙에서 SDN을 통해 사용자가 네트워크 기능을 직접 제어한다.\n기존 HW에서 수행했던 기능을 따로 분리해 전체 SDN 제어기로 통제한다.\n폭증할 데이터와 네트워크 트래픽을 효율적으로 처리할 방법으로 주목받는다.\nKTNF는 ETRI에서 'SDN 스위치' 운용체계(OS)기술을 이전받았다.\n과거 SDN 스위치 OS는 대부분 해외 기업이 보유해 라이선스 비용이 높았다.\nETRI는 국내서 가장 먼저 SDN 장비 핵심 SW 개발, 개방형네트워킹재단(ONF) 국제공인 시험인증 '오픈플로(OpenFlow)'를 획득했다.\nONF는 지역별 공식 인증시험기관을 통해 네트워크장비 제조사 제품에 오픈플로 인증을 부여한다.\n업계에서는 'ONF 인증'이 SDN 스위치 판매를 위한 필수로 여겨진다.\n국내서는 ETRI가 1단계 인증테스트 후 ONF에 관련 내용을 전달해 확정한다.\nETRI는 단순 기술이전뿐 아니라 KTNF SDN 서버 스위치 제품이 국제인증을 받도록 추가 지원했다.\nKTNF는 인증을 바탕으로 국내 대형 통신사 납품뿐 아니라 해외 시장 공략도 바라보게 됐다.\nETRI 관계자는 \\\"인증 경험을 바탕으로 KTNF SDN 서버 스위치 제품이 ONF 인증을 받도록 노하우를 전수했다\\\"면서 \\\"ETRI가 운영 네트워크 장비 등을 제공하는 테스트베드 '차세대네트워크컴퓨팅플랫폼(FNCP)'를 통해 테스트와 인증을 완료했다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "케이티엔에프(KTNF)가 한국전자통신연구원(ETRI) 기술을 이전받아 개발한 '소프트웨어정의네트워크(SDN) 서버 스위치'를 국내 통신사에 납품했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정부연구기관부터 중소기업, 대기업이 연계해 하드웨어(HW)∙네트워크 개발, 판매로 이어지는 선순환을 만들었다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KTNF는 SDN 서버 스위치 대기업 납품 레퍼런스와 국제공인인증을 바탕으로 해외 시장을 공략한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KTNF는 최근 SDN 서버 스위치 'K2632SI'를 국내 대형통신사에 공급하고 추가 납품 협상을 진행한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SDN 서버 스위치는 서버와 별도 구매해야 하는 스위치를 하나의 HW에 모은 제품이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국내서는 KTNF가 처음 개발했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이중연 KTNF 대표는 \\\"지난해 ETRI 기술이전과 국제인증 등을 바탕으로 대형통신사 납품에 성공했고 추가 공급을 논의 중\\\"이라면서 \\\"이번 레퍼런스를 바탕으로 대형 통신사와 해외 시장 진출에 함께 참여할 예정\\\"이라고 말했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서버 스위치 제품은 서버와 스위치를 따로 관리하지 않아도 돼 효율성이 높다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "중소 데이터센터에 효과적이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "KTNF는 자사 서버 스위치 제품에 SDN 기술까지 접목해 관련 제품 포트폴리오를 확대했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "SDN은 소프트웨어(SW)로 네트워크 경로를 설정하고 관리가 쉽다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "중앙에서 SDN을 통해 사용자가 네트워크 기능을 직접 제어한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "기존 HW에서 수행했던 기능을 따로 분리해 전체 SDN 제어기로 통제한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "폭증할 데이터와 네트워크 트래픽을 효율적으로 처리할 방법으로 주목받는다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "KTNF는 ETRI에서 'SDN 스위치' 운용체계(OS)기술을 이전받았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "과거 SDN 스위치 OS는 대부분 해외 기업이 보유해 라이선스 비용이 높았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "ETRI는 국내서 가장 먼저 SDN 장비 핵심 SW 개발, 개방형네트워킹재단(ONF) 국제공인 시험인증 '오픈플로(OpenFlow)'를 획득했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "ONF는 지역별 공식 인증시험기관을 통해 네트워크장비 제조사 제품에 오픈플로 인증을 부여한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "업계에서는 'ONF 인증'이 SDN 스위치 판매를 위한 필수로 여겨진다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "국내서는 ETRI가 1단계 인증테스트 후 ONF에 관련 내용을 전달해 확정한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "ETRI는 단순 기술이전뿐 아니라 KTNF SDN 서버 스위치 제품이 국제인증을 받도록 추가 지원했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "KTNF는 인증을 바탕으로 국내 대형 통신사 납품뿐 아니라 해외 시장 공략도 바라보게 됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "ETRI 관계자는 \\\"인증 경험을 바탕으로 KTNF SDN 서버 스위치 제품이 ONF 인증을 받도록 노하우를 전수했다\\\"면서 \\\"ETRI가 운영 네트워크 장비 등을 제공하는 테스트베드 '차세대네트워크컴퓨팅플랫폼(FNCP)'를 통해 테스트와 인증을 완료했다\\\"고 말했다.",
+				"sentenceSize": 150
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KTNF, 정부 연구기관 기술이전 받은 'SDN 서버 스위치'...대기업 뚫었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

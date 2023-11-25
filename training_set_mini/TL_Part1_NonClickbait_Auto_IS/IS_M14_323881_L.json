@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323881",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "체크포인트 \\\"워너크라이 몸값 줘도 파일 안풀어줘\\\"",
+		"newsSubTitle": "",
+		"newsContent": "워너크라이 랜섬웨어는 몸값을 지불해도 파일을 돌려주지 않는 것으로 드러났다.\n최근 랜섬웨어가 고객 서비스 채팅창까지 운영하며 돈 벌기에 혈안인데 워너크라이는 복호화 체계를 갖추지 않은 것으로 드러났다.\n체크포인트는 17일 워너크라이 비트코인 계정 3개에 3만3000달러 이상이 누적됐는데 파일을 돌려받은 사람은 찾기 힘들다고 밝혔다.\n체크포인트는 워너크라이 복호화 프로세스에 문제가 있다고 분석했다.\n워너크라이는 다른 랜섬웨어와 달리 지불 수단과 사람 사이에 별다른 연결 고리 없다.\n케르베르(Cerber) 등 다른 랜섬웨어는 각 피해자 고유 ID와 연결된 비트코인 지갑을 생성하기 때문에 누구에게 복호화키를 보내야 할지 알고 있다.\n반면 워너크라이는 돈을 지불한 후 계속 기다리라고만 한다.\n워너크라이는 개발자에게 연락하는 방법이 랜섬노트 화면에 있는 문의하기 옵션뿐이다.\n체크포인트는 워너크라이 개발자에 지속해 연락을 시도했지만 회신을 받지 못했다.\n체크포인트는 워너크라이 개발자가 파일을 복호화 할 능력이 있는지 의심했다.\n워너크라이는 두 가지 개별 복호화/암호화 방법이 있다.\n하나는 피해자 파일 전체에 적용하는 것이다.\n각 파일을 고유키로 암호화한다.\n파일을 복호화하려면 개발자가 제공하는 비공개 RSA 키(.dky 파일로 제공)가 필요하다.\n두 번째 암호화/복호화 방법은 '무료 데모'로 10개 파일을 복호화하는 것이다.\n마치 파일 복호화가 가능한 것처럼 피해자를 안심시키고 랜섬을 지불하도록 설득했다.\n10개 파일은 암호화 당시 무작위로 선택되고 각 파일이 고유키로 암호화된다.\n10개 파일의 비공개 RSA키는 피해자PC에 로컬로 저장된다.\n체크포인트는 \\\"파일을 돌려받은 사람이 나타나지 않은 데다 문제가 있는 지불, 복호화 시스템, 거짓 복호화 작업 데모까지 고려했을 때, 워너크라이 개발자가 파일을 복호화하겠다는 약속을 지킬 수 있는지 의심스럽다\\\"고 밝혔다.\n보안전문가들은 \\\"랜섬웨어 공격자가 파일을 완전히 복구해준다는 보장이 없다\\\"면서 \\\"그들에게 절대 돈을 지불해서는 안 된다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "워너크라이 랜섬웨어는 몸값을 지불해도 파일을 돌려주지 않는 것으로 드러났다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 랜섬웨어가 고객 서비스 채팅창까지 운영하며 돈 벌기에 혈안인데 워너크라이는 복호화 체계를 갖추지 않은 것으로 드러났다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "체크포인트는 17일 워너크라이 비트코인 계정 3개에 3만3000달러 이상이 누적됐는데 파일을 돌려받은 사람은 찾기 힘들다고 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "체크포인트는 워너크라이 복호화 프로세스에 문제가 있다고 분석했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "워너크라이는 다른 랜섬웨어와 달리 지불 수단과 사람 사이에 별다른 연결 고리 없다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "케르베르(Cerber) 등 다른 랜섬웨어는 각 피해자 고유 ID와 연결된 비트코인 지갑을 생성하기 때문에 누구에게 복호화키를 보내야 할지 알고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "반면 워너크라이는 돈을 지불한 후 계속 기다리라고만 한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "워너크라이는 개발자에게 연락하는 방법이 랜섬노트 화면에 있는 문의하기 옵션뿐이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "체크포인트는 워너크라이 개발자에 지속해 연락을 시도했지만 회신을 받지 못했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "체크포인트는 워너크라이 개발자가 파일을 복호화 할 능력이 있는지 의심했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "워너크라이는 두 가지 개별 복호화/암호화 방법이 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "하나는 피해자 파일 전체에 적용하는 것이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "각 파일을 고유키로 암호화한다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "파일을 복호화하려면 개발자가 제공하는 비공개 RSA 키(.dky 파일로 제공)가 필요하다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "두 번째 암호화/복호화 방법은 '무료 데모'로 10개 파일을 복호화하는 것이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "마치 파일 복호화가 가능한 것처럼 피해자를 안심시키고 랜섬을 지불하도록 설득했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "10개 파일은 암호화 당시 무작위로 선택되고 각 파일이 고유키로 암호화된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "10개 파일의 비공개 RSA키는 피해자PC에 로컬로 저장된다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "체크포인트는 \\\"파일을 돌려받은 사람이 나타나지 않은 데다 문제가 있는 지불, 복호화 시스템, 거짓 복호화 작업 데모까지 고려했을 때, 워너크라이 개발자가 파일을 복호화하겠다는 약속을 지킬 수 있는지 의심스럽다\\\"고 밝혔다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "보안전문가들은 \\\"랜섬웨어 공격자가 파일을 완전히 복구해준다는 보장이 없다\\\"면서 \\\"그들에게 절대 돈을 지불해서는 안 된다\\\"고 말했다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "체크포인트 \\\"워너크라이 몸값 줘도 파일 안풀어줘\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

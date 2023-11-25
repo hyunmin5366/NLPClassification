@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335449",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "자율주행 켠 테슬라 전기차 이번엔 경찰차 들이받아",
+		"newsSubTitle": "",
+		"newsContent": "테슬라 전기자동차가 미국에서 자율주행 중에 경찰차를 들이받는 사고가 발생했다.\n로이터 통신 등에 따르면 테슬라 세단인 '모델S'가 29일(이하 현지시간) 오전 미 캘리포니아 주 라구나비치에서 자율주행 기능인 오토파일럿(Autopilot)으로 주행하던 중 도로 옆에 주차된 경찰차를 추돌했다.\n모델S 운전자는 가벼운 상처를 입었고, 경찰차에는 사람이 타고 있지 않았다.\n테슬라는 이 사고에 대해 테슬라 측은 “오토파일럿이 자동차를 모든 사고에서 빼내 주는 것은 아니라”고 밝혔다.\n올해 들어 테슬라 전기차의 자율주행과 관련한 크고 작은 사고를 잇달아 발생했다.\n앞서 지난 3월에는 스포츠유틸리티차량(SUV)인 '모델X'가 캘리포니아 주에서 자율주행 모드로 달리다 도로 분리대를 들이받아 운전자가 사망했고, 이달 11일엔 모델S가 유타 주에서 소방트럭에 부딪혀 운전자가 발목 골절상을 입었다.\n유타 주 경찰은 테슬라 측 자료로 볼 때 운전자가 사고 1분 22초 전 오토파일럿 기능을 켠 것으로 나타났다고 밝힌 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "테슬라 전기자동차가 미국에서 자율주행 중에 경찰차를 들이받는 사고가 발생했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로이터 통신 등에 따르면 테슬라 세단인 '모델S'가 29일(이하 현지시간) 오전 미 캘리포니아 주 라구나비치에서 자율주행 기능인 오토파일럿(Autopilot)으로 주행하던 중 도로 옆에 주차된 경찰차를 추돌했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "모델S 운전자는 가벼운 상처를 입었고, 경찰차에는 사람이 타고 있지 않았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "테슬라는 이 사고에 대해 테슬라 측은 “오토파일럿이 자동차를 모든 사고에서 빼내 주는 것은 아니라”고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올해 들어 테슬라 전기차의 자율주행과 관련한 크고 작은 사고를 잇달아 발생했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 지난 3월에는 스포츠유틸리티차량(SUV)인 '모델X'가 캘리포니아 주에서 자율주행 모드로 달리다 도로 분리대를 들이받아 운전자가 사망했고, 이달 11일엔 모델S가 유타 주에서 소방트럭에 부딪혀 운전자가 발목 골절상을 입었다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유타 주 경찰은 테슬라 측 자료로 볼 때 운전자가 사고 1분 22초 전 오토파일럿 기능을 켠 것으로 나타났다고 밝힌 바 있다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "자율주행 켠 테슬라 전기차 이번엔 경찰차 들이받아",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

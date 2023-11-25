@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331811",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "GSK, 제약 및 컨슈머 헬스케어 임원 승진인사 단행",
+		"newsSubTitle": "",
+		"newsContent": "글락소스미스클라인(이하 GSK)은 한국법인 임원과 본부장 승진 인사를 단행했다.\nGSK는 박수연 이사를 상무로 승진 임명했다.\n박 상무는 다양한 제품군의 글로벌 임상 연구를 담당하며 한국이 GSK의 글로벌 R&D 전략에서 'R&D 집중국가'로 선정되는 데에 기여했다.\n임상연구팀 또 백신 마케팅부 윤영준 본부장과 영업기획팀 박진경 본부장, 홍보 대외협력부 김정식 본부장, 학술부 민성준 부장(가정의학과 전문의)을 각각 이사로 승진 임명했다.\n백신 학술부 장현갑 부장(예방의학과 전문의), 학술부 홍우성 부장(비뇨기과 전문의), 홍보팀 양수진 부장도 각각 본부장으로 승진시켰다.\nGSK 컨슈머 헬스케어 한국법인은 이에 앞서 P&G를 비롯한 주요 소비재 기업에서 다양한 유통 채널 영업에 대한 전문성과 리더십을 쌓은 김진성 상무를 리테일 영업부 상무로 영입한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글락소스미스클라인(이하 GSK)은 한국법인 임원과 본부장 승진 인사를 단행했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "GSK는 박수연 이사를 상무로 승진 임명했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박 상무는 다양한 제품군의 글로벌 임상 연구를 담당하며 한국이 GSK의 글로벌 R&D 전략에서 'R&D 집중국가'로 선정되는 데에 기여했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "임상연구팀 또 백신 마케팅부 윤영준 본부장과 영업기획팀 박진경 본부장, 홍보 대외협력부 김정식 본부장, 학술부 민성준 부장(가정의학과 전문의)을 각각 이사로 승진 임명했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "백신 학술부 장현갑 부장(예방의학과 전문의), 학술부 홍우성 부장(비뇨기과 전문의), 홍보팀 양수진 부장도 각각 본부장으로 승진시켰다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "GSK 컨슈머 헬스케어 한국법인은 이에 앞서 P&G를 비롯한 주요 소비재 기업에서 다양한 유통 채널 영업에 대한 전문성과 리더십을 쌓은 김진성 상무를 리테일 영업부 상무로 영입한 바 있다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "GSK, 제약 및 컨슈머 헬스케어 임원 승진인사 단행",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

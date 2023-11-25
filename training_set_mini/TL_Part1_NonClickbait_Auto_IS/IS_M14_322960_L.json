@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322960",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "코위버, 데이터 처리용량 조절하는 플렉시블 전송장비 개발",
+		"newsSubTitle": "",
+		"newsContent": "코위버가 데이터 전송량을 조절, 네트워크 운용 효율성을 제고하는 '플렉시블 파장분할다중화장치(ROADM)'를 개발했다.\n코위버는 ROADM에 플렉시블 그리드 기술을 접목, 전송 상황에 따라 수용 데이터량을 조절할 수 있도록 했다.\n기존 ROADM은 정해진 용량에서만 데이터 처리가 가능했다.\n50Gbps급 ROADM 장비는 초당 50GB 용량만 처리한다.\n이와 달리 플렉시블 ROADM은 12GB 데이터 처리가 필요할 때 12Gbps급 전송 환경을 제공하는 방식이다.\n코위버는 전송망에 플렉시블 ROADM을 적용하면 유연한 용량 전환으로 네트워크 효율성을 높일 수 있다고 소개했다.\n코위버는 이동통신 3사로부터 플렉시블 ROADM 인증을 획득했다.\n3사 네트워크에서 안정적으로 운영할 수 있는 장비로 성능을 인정받은 것이다.\n코위버 관계자는 “이통사와 공급을 논의할 예정”이라고 말했다.\n이외에도 코위버는 한국전자통신연구원(ETRI)이 개발한 400Gbps급 광 송·수신 부품을 적용한 전송장비도 상용화할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코위버가 데이터 전송량을 조절, 네트워크 운용 효율성을 제고하는 '플렉시블 파장분할다중화장치(ROADM)'를 개발했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코위버는 ROADM에 플렉시블 그리드 기술을 접목, 전송 상황에 따라 수용 데이터량을 조절할 수 있도록 했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 ROADM은 정해진 용량에서만 데이터 처리가 가능했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "50Gbps급 ROADM 장비는 초당 50GB 용량만 처리한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이와 달리 플렉시블 ROADM은 12GB 데이터 처리가 필요할 때 12Gbps급 전송 환경을 제공하는 방식이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코위버는 전송망에 플렉시블 ROADM을 적용하면 유연한 용량 전환으로 네트워크 효율성을 높일 수 있다고 소개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코위버는 이동통신 3사로부터 플렉시블 ROADM 인증을 획득했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "3사 네트워크에서 안정적으로 운영할 수 있는 장비로 성능을 인정받은 것이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "코위버 관계자는 “이통사와 공급을 논의할 예정”이라고 말했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이외에도 코위버는 한국전자통신연구원(ETRI)이 개발한 400Gbps급 광 송·수신 부품을 적용한 전송장비도 상용화할 예정이다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코위버, 데이터 처리용량 조절하는 플렉시블 전송장비 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351723",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"아빠 올 때 빵사와\\\"…내비에서 포장음식 주문·픽업도 한다",
+		"newsSubTitle": "null",
+		"newsContent": "티맵모빌리티가 차량 출발 전 티맵(TMAP) 내비게이션으로 물품을 주문·결제하고 가는 길에 찾아가는 '티맵 픽업' 서비스를 출시했다고 6일 밝혔다.\n운전자 대상 포장 주문 서비스로, 매장에서 기다릴 필요없이 차 안에서 음식 등 물품을 받을 수 있다.\n티맵 내비게이션에서 목적지를 검색한 후 경로화면 우측상단의 '가는길에 픽업주문' 아이콘을 선택하면 이동경로 인근에 위치한 픽업 가능매장을 조회할 수 있다.\n티맵 픽업은 SPC그룹의 토털 마케팅 솔루션 계열사 '섹타나인'(Secta9ine)이 운영하는 해피오더 '드라이브 픽업' 시스템과 연동해 주문결제가 진행된다.\nSPC그룹의 파리바게뜨·던킨도너츠·배스킨라빈스·파스쿠찌·쉐이크쉑 등 12개 브랜드의 5745 매장을 이용할 수 있다.\n티맵모빌리티는 다양한 브랜드 및 자영업자 대상 공공 배달앱 제휴를 추진할 예정이다.\n이종갑 티맵모빌리티 티맵라이프그룹 그룹장은 \\\"운전자의 편의를 향상하는 동시에 오프라인 매장과 함께 성장할 수 있도록 노력할 것\\\"이라며 \\\"특히 소상공인 대상으로 파격적인 중개수수료 정책을 검토하는 등 소비자와 공급자 모두 만족하는 서비스로 확장하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "티맵모빌리티가 차량 출발 전 티맵(TMAP) 내비게이션으로 물품을 주문·결제하고 가는 길에 찾아가는 '티맵 픽업' 서비스를 출시했다고 6일 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "운전자 대상 포장 주문 서비스로, 매장에서 기다릴 필요없이 차 안에서 음식 등 물품을 받을 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "티맵 내비게이션에서 목적지를 검색한 후 경로화면 우측상단의 '가는길에 픽업주문' 아이콘을 선택하면 이동경로 인근에 위치한 픽업 가능매장을 조회할 수 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "티맵 픽업은 SPC그룹의 토털 마케팅 솔루션 계열사 '섹타나인'(Secta9ine)이 운영하는 해피오더 '드라이브 픽업' 시스템과 연동해 주문결제가 진행된다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SPC그룹의 파리바게뜨·던킨도너츠·배스킨라빈스·파스쿠찌·쉐이크쉑 등 12개 브랜드의 5745 매장을 이용할 수 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "티맵모빌리티는 다양한 브랜드 및 자영업자 대상 공공 배달앱 제휴를 추진할 예정이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이종갑 티맵모빌리티 티맵라이프그룹 그룹장은 \\\"운전자의 편의를 향상하는 동시에 오프라인 매장과 함께 성장할 수 있도록 노력할 것\\\"이라며 \\\"특히 소상공인 대상으로 파격적인 중개수수료 정책을 검토하는 등 소비자와 공급자 모두 만족하는 서비스로 확장하겠다\\\"고 말했다.",
+				"sentenceSize": 149
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"아빠 올 때 빵사와\\\"…내비에서 포장음식 주문·픽업도 한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

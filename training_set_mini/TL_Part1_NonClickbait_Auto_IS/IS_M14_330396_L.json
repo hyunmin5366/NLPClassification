@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330396",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "안랩, \\\"어도비 업데이트 파일 위장 랜섬웨어 해외서 출현...주의 당부\\\"",
+		"newsSubTitle": "",
+		"newsContent": "지난해 국내에 등장했던 '직소(JigSaw) 랜섬웨어'가 다시 유포되고 있다.\n어도비 플래시(Adobe Flash) 업데이트 파일로 위장했다.\n정상 파일과 아이콘 모양, 디지털서명 제작사가 달라 실행 전 확인이 필요하다.\n안랩(대표 권치중)은 직소 랜섬웨어가 해외에서 기승이라고 14일 밝혔다.\n직소 랜섬웨어는 유명 유틸리티 프로그램인 어도비 플래시 업데이트 파일로 위장했다.\n지난 해 국내에 등장했던 직소 랜섬웨어가 웹 브라우저 '파이어폭스(Firefox)' 설치 파일로 위장한 것과 다르다.\n해당 악성 파일은 파일명이 'Setup.exe'로 표기됐다.\n사용자가 정상 파일로 생각하기 쉽다.\n하지만 정상 파일과는 아이콘 모양이 다르다.\n해당 파일 디지털 서명을 확인하면 제작사명도 다르다.\n사용자가 해당 파일(Setup.exe)을 실행하면 사용자 PC 내 주요 파일이 암호화 된다.\n영화 '소우(Saw)'의 캐릭터가 금전(비트코인)을 요구하는 화면이 나온다.\n안랩은 출처가 불분명한 파일 실행, 수상한 웹사이트 방문을 자제할 것을 요구했다.\n중요 파일 별도 백업과 운용체계(OS) 사용 프로그램 업데이트 등 기본 보안수칙 실천이 필요하다.\n현재 V3에서는 해당 랜섬웨어를 진단∙치료한다.\n한창규 안랩 시큐리티 대응센터(ASEC) 센터장은 \\\"현재까지 국내 발견 사례는 없지만 작년 상반기에 국내에서도 직소 랜섬웨어가 유포된 적이 있는 만큼 주의가 필요하다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 국내에 등장했던 '직소(JigSaw) 랜섬웨어'가 다시 유포되고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "어도비 플래시(Adobe Flash) 업데이트 파일로 위장했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정상 파일과 아이콘 모양, 디지털서명 제작사가 달라 실행 전 확인이 필요하다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안랩(대표 권치중)은 직소 랜섬웨어가 해외에서 기승이라고 14일 밝혔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "직소 랜섬웨어는 유명 유틸리티 프로그램인 어도비 플래시 업데이트 파일로 위장했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 해 국내에 등장했던 직소 랜섬웨어가 웹 브라우저 '파이어폭스(Firefox)' 설치 파일로 위장한 것과 다르다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해당 악성 파일은 파일명이 'Setup.exe'로 표기됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사용자가 정상 파일로 생각하기 쉽다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만 정상 파일과는 아이콘 모양이 다르다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "해당 파일 디지털 서명을 확인하면 제작사명도 다르다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "사용자가 해당 파일(Setup.exe)을 실행하면 사용자 PC 내 주요 파일이 암호화 된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "영화 '소우(Saw)'의 캐릭터가 금전(비트코인)을 요구하는 화면이 나온다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "안랩은 출처가 불분명한 파일 실행, 수상한 웹사이트 방문을 자제할 것을 요구했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "중요 파일 별도 백업과 운용체계(OS) 사용 프로그램 업데이트 등 기본 보안수칙 실천이 필요하다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "현재 V3에서는 해당 랜섬웨어를 진단∙치료한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "한창규 안랩 시큐리티 대응센터(ASEC) 센터장은 \\\"현재까지 국내 발견 사례는 없지만 작년 상반기에 국내에서도 직소 랜섬웨어가 유포된 적이 있는 만큼 주의가 필요하다\\\"고 말했다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안랩, \\\"어도비 업데이트 파일 위장 랜섬웨어 해외서 출현...주의 당부\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

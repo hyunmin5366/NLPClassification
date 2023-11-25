@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338316",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "방송",
+		"newsTitle": "IPTV 등 유료방송도 재난시 자동자막 송출···정부 예산 지원",
+		"newsSubTitle": "",
+		"newsContent": "정부가 IPTV·케이블TV·위성방송 등 국내 유료방송 서비스가 자동 자막을 송출할 수 있도록 지원한다.\n화재·태풍·지진 등 각종 재난 발생 시 방송채널 자막을 통해 신속 정확한 재난정보를 국민 대상 실시간 제공해 장애인 등 재난안전 사각지대를 줄이는 효과가 기대된다.\n과학기술정보통신부와 한국방송통신전파진흥원(KCA)은 자동자막 송출서버를 구축, 재난방송 송출 의무가 있는 유료방송 사업자를 지원할 계획이다.\n자동자막 송출서버는 과기정통부 재난방송온라인시스템(EDBS) 재난정보를 수신, 재난방송 송출 자막으로 자동변환한다.\n자동자막 송출서버에는 재난 유형, 지역, 방송내용 등 재난정보 수신과 송출이력 관리 기능 등을 탑재해 효율적인 재난방송을 지원한다.\n기존에 사업자별 운영하는 셋톱박스 공지시스템, 아날로그 TV에 디지털 방송을 제공하는 8VSB 특성을 고려해 각 채널마다 자막을 표시하는 자막키어 장치와 재난정보 데이터를 자동으로 연동하는 기능도 추가한다.\nKT, SK브로드밴드, LG유플러스 IPTV 3사와 LG헬로비전·SK브로드밴드·딜라이브·CMB·HCN 케이블TV(MSO) 5개사, 위성방송 KT스카이라이프와 KCTV제주방송·서경방송·금강방송을 필두로 한 개별SO 9개사 등 모든 유료방송 사업자가 자동자막 송출서버를 확보하게 된다.\n정부예산 10억원이 투입된다.\n과기정통부 관계자는 “자동자막 송출서버 구축 지원으로 기존 수동 자막송출 방식에 따른 재난방송 송출 지연, 정보·채널 누락 등 어려움을 해소할 것”이라며 “연말까지 송출서버 구축을 완료하고 내년부터 본격 활용할 계획”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부가 IPTV·케이블TV·위성방송 등 국내 유료방송 서비스가 자동 자막을 송출할 수 있도록 지원한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "화재·태풍·지진 등 각종 재난 발생 시 방송채널 자막을 통해 신속 정확한 재난정보를 국민 대상 실시간 제공해 장애인 등 재난안전 사각지대를 줄이는 효과가 기대된다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과학기술정보통신부와 한국방송통신전파진흥원(KCA)은 자동자막 송출서버를 구축, 재난방송 송출 의무가 있는 유료방송 사업자를 지원할 계획이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "자동자막 송출서버는 과기정통부 재난방송온라인시스템(EDBS) 재난정보를 수신, 재난방송 송출 자막으로 자동변환한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "자동자막 송출서버에는 재난 유형, 지역, 방송내용 등 재난정보 수신과 송출이력 관리 기능 등을 탑재해 효율적인 재난방송을 지원한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기존에 사업자별 운영하는 셋톱박스 공지시스템, 아날로그 TV에 디지털 방송을 제공하는 8VSB 특성을 고려해 각 채널마다 자막을 표시하는 자막키어 장치와 재난정보 데이터를 자동으로 연동하는 기능도 추가한다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KT, SK브로드밴드, LG유플러스 IPTV 3사와 LG헬로비전·SK브로드밴드·딜라이브·CMB·HCN 케이블TV(MSO) 5개사, 위성방송 KT스카이라이프와 KCTV제주방송·서경방송·금강방송을 필두로 한 개별SO 9개사 등 모든 유료방송 사업자가 자동자막 송출서버를 확보하게 된다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정부예산 10억원이 투입된다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "과기정통부 관계자는 “자동자막 송출서버 구축 지원으로 기존 수동 자막송출 방식에 따른 재난방송 송출 지연, 정보·채널 누락 등 어려움을 해소할 것”이라며 “연말까지 송출서버 구축을 완료하고 내년부터 본격 활용할 계획”이라고 밝혔다.",
+				"sentenceSize": 129
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "IPTV 등 유료방송도 재난시 자동자막 송출···정부 예산 지원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

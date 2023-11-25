@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017167",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "철도파업 20일째 열차운행률 94.3% 유지",
+		"newsSubTitle": "",
+		"newsContent": "▲ 대기중인 KTX. 연합뉴스 새마을호와 무궁화호 감축... 화물열차도 97.5% 파업참가자 7372명 40.2%... 고소고발 19명, 직위해제 181명 철도파업이 20일째, 노사가 여전히 평행선을 달리고 있는 가운데 전체 열차운행률이 평시의 94.3%에 그쳐 승객 불편과 화물운송 차질이 계속되고 있다.\n16일 코레일에 따르면, 이날 오전 KTX와 통근열차는 평시와 같이 100% 운행하고 있다.\n수도권 전철은 1679대에서 1666대로 줄어 운행률 99.2%를 유지하고 있다.\n하지만, 새마을호는 52대에서 30대로 줄어 57.7%, 무궁화호는 263대에서 165대로 줄어 운행률이 62.7%에 그쳤다.\n화물열차는 121대에서 118대로 줄어 97.5% 운행한다.\n일요일 화물열차 운행률과 수도권 전철 운행률이 높은 이유는 운행계획이 평일보다 줄어(화물열차 249대→121대, 수도권 전철 2천52대→1천679대 감소) 계획 대비 운행률이 높아지는 것이라고 코레일은 밝혔다.\n파업 참가자는 7372명, 복귀자는 364명이며, 전체 노조원의 파업 참가율은 40.2%다.\n고소 고발된 노조 간부는 19명, 직위해제자는 181명으로 늘었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 대기중인 KTX. 연합뉴스 새마을호와 무궁화호 감축... 화물열차도 97.5% 파업참가자 7372명 40.2%... 고소고발 19명, 직위해제 181명 철도파업이 20일째, 노사가 여전히 평행선을 달리고 있는 가운데 전체 열차운행률이 평시의 94.3%에 그쳐 승객 불편과 화물운송 차질이 계속되고 있다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 코레일에 따르면, 이날 오전 KTX와 통근열차는 평시와 같이 100% 운행하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수도권 전철은 1679대에서 1666대로 줄어 운행률 99.2%를 유지하고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만, 새마을호는 52대에서 30대로 줄어 57.7%, 무궁화호는 263대에서 165대로 줄어 운행률이 62.7%에 그쳤다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "화물열차는 121대에서 118대로 줄어 97.5% 운행한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일요일 화물열차 운행률과 수도권 전철 운행률이 높은 이유는 운행계획이 평일보다 줄어(화물열차 249대→121대, 수도권 전철 2천52대→1천679대 감소) 계획 대비 운행률이 높아지는 것이라고 코레일은 밝혔다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "파업 참가자는 7372명, 복귀자는 364명이며, 전체 노조원의 파업 참가율은 40.2%다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "고소 고발된 노조 간부는 19명, 직위해제자는 181명으로 늘었다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "척추 질환, 누구나 쉽게 알도록",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

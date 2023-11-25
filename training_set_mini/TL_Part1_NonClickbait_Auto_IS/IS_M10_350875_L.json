@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350875",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "효성인포, 유클릭과 AI 사업 키운다",
+		"newsSubTitle": "null",
+		"newsContent": "정보통신기술(ICT) 인프라 기업인 효성인포메이션시스템은 소프트웨어 전문기업 유클릭과 인공지능(AI)·머신러닝(ML) 사업 확대를 위한 업무협약을 맺었다고 23일 밝혔다.\n양사는 AI 컴퓨팅 플랫폼 혁신을 위한 공동 영업과 마케팅, 기술 지원을 공동 수행할 계획이다.\n엔비디아의 기업용 그래픽처리장치(GPU) 등과 효성인포메이션시스템의 데이터 분석 스케일아웃 스토리지(HCSF) 제품의 공동 영업을 진행한다.\n효성인포메이션시스템은 인프라와 고성능 컴퓨팅 등 다양한 데이터 솔루션을 기반으로 AI 플랫폼을 구현하고 있다.\n유클릭은 AI 데이터센터 구축 노하우를 바탕으로 엣지 컴퓨팅부터 대규모 GPU 서버 클러스터 구축과 운영 역량을 갖고 있다.\n엄남한 유클릭 대표는 \\\"유클릭은 엔비디아 파트너 중 가장 많은 AI 인프라 구축 실적과 경험을 보유하고 있다\\\"며 \\\"이번 협약으로 AI 기반 데이터센터 구축 등에서 차별화된 서비스를 제공하고 고객이 AI 전략 수립과 모델 개발에 전념할 수 있도록 지원할 것\\\"이라고 했다.\n양정규 효성인포메이션시스템 대표는 \\\"양사가 국내 시장에서 쌓아온 AI·ML 기술력과 신뢰를 바탕으로 기업용 AI 시장이 더 빠르게 확대될 수 있도록 시너지 효과를 높이겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정보통신기술(ICT) 인프라 기업인 효성인포메이션시스템은 소프트웨어 전문기업 유클릭과 인공지능(AI)·머신러닝(ML) 사업 확대를 위한 업무협약을 맺었다고 23일 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양사는 AI 컴퓨팅 플랫폼 혁신을 위한 공동 영업과 마케팅, 기술 지원을 공동 수행할 계획이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "엔비디아의 기업용 그래픽처리장치(GPU) 등과 효성인포메이션시스템의 데이터 분석 스케일아웃 스토리지(HCSF) 제품의 공동 영업을 진행한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "효성인포메이션시스템은 인프라와 고성능 컴퓨팅 등 다양한 데이터 솔루션을 기반으로 AI 플랫폼을 구현하고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유클릭은 AI 데이터센터 구축 노하우를 바탕으로 엣지 컴퓨팅부터 대규모 GPU 서버 클러스터 구축과 운영 역량을 갖고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "엄남한 유클릭 대표는 \\\"유클릭은 엔비디아 파트너 중 가장 많은 AI 인프라 구축 실적과 경험을 보유하고 있다\\\"며 \\\"이번 협약으로 AI 기반 데이터센터 구축 등에서 차별화된 서비스를 제공하고 고객이 AI 전략 수립과 모델 개발에 전념할 수 있도록 지원할 것\\\"이라고 했다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "양정규 효성인포메이션시스템 대표는 \\\"양사가 국내 시장에서 쌓아온 AI·ML 기술력과 신뢰를 바탕으로 기업용 AI 시장이 더 빠르게 확대될 수 있도록 시너지 효과를 높이겠다\\\"고 말했다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "효성인포, 유클릭과 AI 사업 키운다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014469",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "불법 대부광고 이용 전화번호 사용중지 1년으로 확대",
+		"newsSubTitle": "",
+		"newsContent": "불법 대부광고에 이용된 전화번호는 1년간 사용하지 못할 전망이다.\n금융감독원은 전화번호 사용중지 효과를 극대화하기 위해 현재 90일에 불과한 이용중지 기간을 1년으로 대폭 연장하는 방안을 미래창조과학부와 추진하고 있다고 8일 밝혔다.\n이같은 결정은 그동안 이용중지 기간이 90일에 불과해 불법 대부광고에 다시 이용되는 사례가 적지 않다는 지적이 따른 조치다.\n금감원은 지난해 2월 6일부터 지난달 말까지 개인정보 불법유통 시민감시단을 운영한 결과, 1만4926건의 불법대부 광고를 적발해 이용정지시켰다.\n이 가운데 불법 대부광고로 다시 적발된 전화번호는 모두 511건(3.4%)에 달했다.\n이용중지 기간인 90일이 지난 후 타인 명의로 같은 번호에 재가입해 사용한 것이다.\n이와 함께 이용중지 사실을 통신사 간 공유해 번호이동도 금지할 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "불법 대부광고에 이용된 전화번호는 1년간 사용하지 못할 전망이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융감독원은 전화번호 사용중지 효과를 극대화하기 위해 현재 90일에 불과한 이용중지 기간을 1년으로 대폭 연장하는 방안을 미래창조과학부와 추진하고 있다고 8일 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이같은 결정은 그동안 이용중지 기간이 90일에 불과해 불법 대부광고에 다시 이용되는 사례가 적지 않다는 지적이 따른 조치다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "금감원은 지난해 2월 6일부터 지난달 말까지 개인정보 불법유통 시민감시단을 운영한 결과, 1만4926건의 불법대부 광고를 적발해 이용정지시켰다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 가운데 불법 대부광고로 다시 적발된 전화번호는 모두 511건(3.4%)에 달했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이용중지 기간인 90일이 지난 후 타인 명의로 같은 번호에 재가입해 사용한 것이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이와 함께 이용중지 사실을 통신사 간 공유해 번호이동도 금지할 계획이다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "기정원 ‘상용화기술개발사업 협약설명회’",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

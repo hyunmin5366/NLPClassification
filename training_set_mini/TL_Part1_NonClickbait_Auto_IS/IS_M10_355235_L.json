@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355235",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "SKB 통합보안장비, 국정원 최고등급 인증 획득",
+		"newsSubTitle": "null",
+		"newsContent": "SK브로드밴드는 자체 개발한 고성능 통합보안장비(제품명:SKbroadband SODA NGF v3.0)가 국가정보원으로부터 국제 공통평가기준(CC) 최고 등급(EAL4) 인증을 획득했다고 3일 밝혔다.\n이번에 인증받은 제품은 일반 인터넷 망을 기업 전용 인트라넷처럼 사용할 수 있도록 하는 가상사설망(VPN) 기능과 외부 해킹 등을 막아주는 침입차단시스템(방화벽) 기능을 지원한다.\n이로써 SK브로드밴드는 지난달 클라우드PC 제품에 이어 VPN·방화벽 지원 장비에 대해서도 국정원 인증을 확보, 스마트워크 환경 구축 B2B(기업 간 거래) 서비스를 제공할 수 있게 됐다.\n제품군은 처리용량(Bandwidth)별로 총 7종으로 구성된다.\n특히 리눅스 기반의 자체 운영체제(OS) 멀티코어 시스템 환경에 최적화 해 어떤 환경에서도 신속하게 고객 수요를 충족시킬 수 있는 차세대 제품이다.\n이방열 SK브로드밴드 커넥트인프라CO 담당은 \\\"해킹과 같은 외부 공격을 차단하는 보안의 중요성이 커지면서 제대로 된 인증제품에 대한 요구도 증가하고 있다\\\"며 \\\"이번 국정원 CC인증은 B2B 보안시장에서 SK브로드밴드의 입지를 크게 강화할 수 있을 것으로 기대된다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK브로드밴드는 자체 개발한 고성능 통합보안장비(제품명:SKbroadband SODA NGF v3.0)가 국가정보원으로부터 국제 공통평가기준(CC) 최고 등급(EAL4) 인증을 획득했다고 3일 밝혔다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번에 인증받은 제품은 일반 인터넷 망을 기업 전용 인트라넷처럼 사용할 수 있도록 하는 가상사설망(VPN) 기능과 외부 해킹 등을 막아주는 침입차단시스템(방화벽) 기능을 지원한다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이로써 SK브로드밴드는 지난달 클라우드PC 제품에 이어 VPN·방화벽 지원 장비에 대해서도 국정원 인증을 확보, 스마트워크 환경 구축 B2B(기업 간 거래) 서비스를 제공할 수 있게 됐다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "제품군은 처리용량(Bandwidth)별로 총 7종으로 구성된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 리눅스 기반의 자체 운영체제(OS) 멀티코어 시스템 환경에 최적화 해 어떤 환경에서도 신속하게 고객 수요를 충족시킬 수 있는 차세대 제품이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이방열 SK브로드밴드 커넥트인프라CO 담당은 \\\"해킹과 같은 외부 공격을 차단하는 보안의 중요성이 커지면서 제대로 된 인증제품에 대한 요구도 증가하고 있다\\\"며 \\\"이번 국정원 CC인증은 B2B 보안시장에서 SK브로드밴드의 입지를 크게 강화할 수 있을 것으로 기대된다\\\"고 말했다.",
+				"sentenceSize": 157
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKB 통합보안장비, 국정원 최고등급 인증 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

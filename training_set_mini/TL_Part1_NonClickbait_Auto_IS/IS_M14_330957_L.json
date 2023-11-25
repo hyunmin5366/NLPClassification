@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330957",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "시스트란 오픈NMT, 2018 톱 30 머신러닝 프로젝트로 선정",
+		"newsSubTitle": "",
+		"newsContent": "시스트란 인터내셔널(대표 지 루카스)은 오픈소스 기반 인공신경망 기계번역 프로젝트 오픈(Open)NMT가 '마이브리지 포 프로패셔널스'에서 조사한 '2018 톱 30 머신러닝 프로젝트'에 선정됐다고 5일 밝혔다.\n마이브리지 포 프로패셔널스는 지난해 1∼12월 사이에 공개한 머신러닝, 데이터셋, 애플리케이션 등 8800여개 머신러닝 프로젝트를 살폈다.\n인기도, 참여도, 프로젝트 최신성 등을 종합 고려해 상위 30개 프로젝트를 선정했다.\n시스트란 오픈NMT는 26위 프로젝트로 선정됐다.\n오픈NMT 프로젝트는 시스트란과 하버드NLP팀이 공동으로 진행한다.\n세계적으로 수백 명이 넘는 학계와 업계 전문가가 참여한다.\n시스트란 연구개발(R&D) 연구원이 해당 플랫폼을 개발하고 이용자 커뮤니티 활동을 지원한다.\n지난해 컴퓨터 언어학 전문가 컨퍼런스 'ACL 2017'에서 '베스트 데몬스트레이션 러너-업'(운영 시스템 부문)을 수상했다.\n호텔 예약 사이트 부킹닷컴은 오픈NMT 프레임워크를 기반으로 인공신경망 기계번역 시스템을 구축했다.\n호텔, 아파트, 호스텔 등 영어 등록 정보를 독일어 또는 프랑스어로 번역하는 업무에 활용했다.\n엔비디아도 딥러닝 최적화 인터페이스 최신 버전 텐서RT3에 오픈NMT를 도입했다.\n지 루카스 시스트란 대표는 “오픈NMT 오픈소스 향상은 물론 다양한 사용자 커뮤니티와 기업이 활발하게 이용하도록 지원하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "시스트란 인터내셔널(대표 지 루카스)은 오픈소스 기반 인공신경망 기계번역 프로젝트 오픈(Open)NMT가 '마이브리지 포 프로패셔널스'에서 조사한 '2018 톱 30 머신러닝 프로젝트'에 선정됐다고 5일 밝혔다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "마이브리지 포 프로패셔널스는 지난해 1∼12월 사이에 공개한 머신러닝, 데이터셋, 애플리케이션 등 8800여개 머신러닝 프로젝트를 살폈다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인기도, 참여도, 프로젝트 최신성 등을 종합 고려해 상위 30개 프로젝트를 선정했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시스트란 오픈NMT는 26위 프로젝트로 선정됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오픈NMT 프로젝트는 시스트란과 하버드NLP팀이 공동으로 진행한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "세계적으로 수백 명이 넘는 학계와 업계 전문가가 참여한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시스트란 연구개발(R&D) 연구원이 해당 플랫폼을 개발하고 이용자 커뮤니티 활동을 지원한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난해 컴퓨터 언어학 전문가 컨퍼런스 'ACL 2017'에서 '베스트 데몬스트레이션 러너-업'(운영 시스템 부문)을 수상했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "호텔 예약 사이트 부킹닷컴은 오픈NMT 프레임워크를 기반으로 인공신경망 기계번역 시스템을 구축했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "호텔, 아파트, 호스텔 등 영어 등록 정보를 독일어 또는 프랑스어로 번역하는 업무에 활용했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "엔비디아도 딥러닝 최적화 인터페이스 최신 버전 텐서RT3에 오픈NMT를 도입했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "지 루카스 시스트란 대표는 “오픈NMT 오픈소스 향상은 물론 다양한 사용자 커뮤니티와 기업이 활발하게 이용하도록 지원하겠다”고 말했다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시스트란 오픈NMT, 2018 톱 30 머신러닝 프로젝트로 선정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

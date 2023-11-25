@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323531",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "알테어 최적화 대회 대상은 '건국대 김찬호, 정재근팀'",
+		"newsSubTitle": "",
+		"newsContent": "한국알테어(대표 문성수)가 전국 대학생을 대상으로 개최한 제 10회 '알테어 최적화 대회(Altair Optimization Contest, 이하 AOC)'를 성황리에 마치고 수상자를 발표했다.\nAOC는 알테어가 국내 학생들의 소프트웨어 활용 능력을 높이자는 취지에서 2008년부터 시행하여 올해로 10년째를 맞고 있는 국내 최대 상금 규모의 소프트웨어 활용 경진대회이다.\n올해 대회는 전국 각지의 대학에서 총 21개 팀이 참가하였고 이 중 예선 심사를 거쳐 최종 여섯 팀이 본선에 올랐다.\n본선에 진출한 팀들은 준비한 발표를 통해 순위를 가렸다.\n최적화 대회 우승은 건국대의 김찬호, 정재근 팀이 차지했다.\n이 팀은 위성용 안테나 경량화를 주제로 한 발표에서 가장 높은 점수를 받았으며 그 뒤를 이어 한양대 최태혁, 권태준 팀이 금상을 받았다.\n한국알테어 문성수 대표는 \\\"AOC는 제조업의 핵심 경쟁력으로 자리잡은 최적화를 주제로 우리 대학생들의 SW 활용을 지원하여 궁극적으로 우리 제조업의 경쟁력을 높이는 자리로써 의미가 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국알테어(대표 문성수)가 전국 대학생을 대상으로 개최한 제 10회 '알테어 최적화 대회(Altair Optimization Contest, 이하 AOC)'를 성황리에 마치고 수상자를 발표했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AOC는 알테어가 국내 학생들의 소프트웨어 활용 능력을 높이자는 취지에서 2008년부터 시행하여 올해로 10년째를 맞고 있는 국내 최대 상금 규모의 소프트웨어 활용 경진대회이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올해 대회는 전국 각지의 대학에서 총 21개 팀이 참가하였고 이 중 예선 심사를 거쳐 최종 여섯 팀이 본선에 올랐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "본선에 진출한 팀들은 준비한 발표를 통해 순위를 가렸다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최적화 대회 우승은 건국대의 김찬호, 정재근 팀이 차지했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 팀은 위성용 안테나 경량화를 주제로 한 발표에서 가장 높은 점수를 받았으며 그 뒤를 이어 한양대 최태혁, 권태준 팀이 금상을 받았다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국알테어 문성수 대표는 \\\"AOC는 제조업의 핵심 경쟁력으로 자리잡은 최적화를 주제로 우리 대학생들의 SW 활용을 지원하여 궁극적으로 우리 제조업의 경쟁력을 높이는 자리로써 의미가 있다\\\"고 말했다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "알테어 최적화 대회 대상은 '건국대 김찬호, 정재근팀'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322330",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "[2017 특허경영대상]기업부문 대상<2>셀바스AI",
+		"newsSubTitle": "",
+		"newsContent": "인공지능 전문기업 셀바스AI(대표 김경남)는 최첨단 딥러닝 연구를 통해 최고 패턴 인식 기술을 보유했다.\n필기, 영상, 음성지능 분야에 적용할 수 있는 차세대 기술 개발에 매진한다.\n셀바스AI의 모든 인공지능 기술은 자체 개발한 예측 플랫폼 '셀비 프레딕션(Selvy Prediction)'을 기반으로 하고 있다.\n의료 산업 뿐 아니라 헬스케어, 스마트자동차, 금융, 교육 등 다양한 산업에 적용해 특화된 응용 서비스를 제공한다.\n셀바스AI는 지식재산권(IP) 창출과 분쟁 사전 대응을 경영 핵심 가치로 내세운다.\nIP 전담부서와 사내 발명시스템, 직무발명 보상제를 마련했다.\n기술 노하우와 IP가 이윤 창출로 이어지는 선순환 구조 확보에 집중한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능 전문기업 셀바스AI(대표 김경남)는 최첨단 딥러닝 연구를 통해 최고 패턴 인식 기술을 보유했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "필기, 영상, 음성지능 분야에 적용할 수 있는 차세대 기술 개발에 매진한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "셀바스AI의 모든 인공지능 기술은 자체 개발한 예측 플랫폼 '셀비 프레딕션(Selvy Prediction)'을 기반으로 하고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "의료 산업 뿐 아니라 헬스케어, 스마트자동차, 금융, 교육 등 다양한 산업에 적용해 특화된 응용 서비스를 제공한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "셀바스AI는 지식재산권(IP) 창출과 분쟁 사전 대응을 경영 핵심 가치로 내세운다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "IP 전담부서와 사내 발명시스템, 직무발명 보상제를 마련했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기술 노하우와 IP가 이윤 창출로 이어지는 선순환 구조 확보에 집중한다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2017 특허경영대상]기업부문 대상<2>셀바스AI",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

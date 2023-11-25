@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009726",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "최고가에 0.65원 差… 경신 '눈앞'",
+		"newsSubTitle": "대전 휘발유 1997.52원… 국제유가 급등 속 상승세 계속될 듯",
+		"newsContent": "국제유가 급등세와 국내 정유사들의 공급가격 인상 등으로 대전지역 주유소의 휘발유 평균 판매가격이 사상 최고가(일간 기준) 돌파를 눈앞에 두고 있다.\n22일 한국석유공사의 유가정보사이트 오피넷에 따르면 이날 오후 국내 주유소의 휘발유 평균 판매가격은 ℓ당 1991.58원, 대전은 1997.52원, 충남은 1994.27원으로 나타났다.\n국내 보통 휘발유의 일간 최고가격은 지난해 10월 31일 기록한 ℓ당 1993.17원이며, 대전지역 일간 최고가격은 지난해 10월 30일 기록한 ℓ당 1998.17원이다.\n대전의 경우 이날 최고가에 0.65원차까지 근접했다.\n대전지역 주유소 한 관계자는 “지난주 국제 휘발유가격이 배럴당 130달러에 육박하는 등 국제유가가 급등세를 보이고 있어, 국내 정유사들의 공급가격도 상승세를 타고 있다”며 “이런 가운데 당분간 국내 및 지역 주유소 판매가격도 현재의 강세를 지속할 것으로 예상된다”고 말했다.\n한편, 국내 주유소의 휘발유 평균 판매가격은 최근 6주 연속 상승세를 이어가고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국제유가 급등세와 국내 정유사들의 공급가격 인상 등으로 대전지역 주유소의 휘발유 평균 판매가격이 사상 최고가(일간 기준) 돌파를 눈앞에 두고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 한국석유공사의 유가정보사이트 오피넷에 따르면 이날 오후 국내 주유소의 휘발유 평균 판매가격은 ℓ당 1991.58원, 대전은 1997.52원, 충남은 1994.27원으로 나타났다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내 보통 휘발유의 일간 최고가격은 지난해 10월 31일 기록한 ℓ당 1993.17원이며, 대전지역 일간 최고가격은 지난해 10월 30일 기록한 ℓ당 1998.17원이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대전의 경우 이날 최고가에 0.65원차까지 근접했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대전지역 주유소 한 관계자는 “지난주 국제 휘발유가격이 배럴당 130달러에 육박하는 등 국제유가가 급등세를 보이고 있어, 국내 정유사들의 공급가격도 상승세를 타고 있다”며 “이런 가운데 당분간 국내 및 지역 주유소 판매가격도 현재의 강세를 지속할 것으로 예상된다”고 말했다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 국내 주유소의 휘발유 평균 판매가격은 최근 6주 연속 상승세를 이어가고 있다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 RI폐기물 내일 경주로 첫 이송",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

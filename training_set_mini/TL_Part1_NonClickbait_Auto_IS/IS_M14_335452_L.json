@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335452",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "KT '갤럭시S9 플러스' 출고가 인하",
+		"newsSubTitle": "",
+		"newsContent": "KT가 삼성전자 갤럭시S9 플러스(256GB) 출고가를 인하했다.\nSK텔레콤, LG유플러스에 이어 KT도 갤럭시S9 플러스 출고가 인하에 동참, 소비자 구매 부담을 낮췄다.\nKT는 갤럭시S9 플러스(256GB) 출고가를 기존 115만5000원에서 107만8000원으로 7만7000원 인하했다.\n이에 앞서 SK텔레콤과 LG유플러스도 5일 갤럭시S9 플러스 출고가를 7만7000원 내렸다.\n갤럭시S9 플러스 256GB와 64GB 모델 가격 차이는 2만2000원에 불과하다.\n삼성전자와 이동통신 서비스 3사는 115만원이 넘는 비싼 가격 때문에 갤럭시S9 플러스 256GB 판매량이 상대적으로 적다고 판단, 용량별로 균형 있는 판매를 위해 출고가를 인하한 것으로 풀이된다.\n이동통신사가 갤럭시S9 플러스 구매자에게 지급하는 최대 지원금은 35만원이다.\n유통망 추가지원금(공지지원금의 최대 15%)까지 더하면 약 67만원에 제품을 구입할 수 있다.\nKT 관계자는 “고객 부담을 줄위기 위해 신속한 협의와 의사 결정으로 갤럭시S9 플러스 출고가를 인하했다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 삼성전자 갤럭시S9 플러스(256GB) 출고가를 인하했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SK텔레콤, LG유플러스에 이어 KT도 갤럭시S9 플러스 출고가 인하에 동참, 소비자 구매 부담을 낮췄다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KT는 갤럭시S9 플러스(256GB) 출고가를 기존 115만5000원에서 107만8000원으로 7만7000원 인하했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 앞서 SK텔레콤과 LG유플러스도 5일 갤럭시S9 플러스 출고가를 7만7000원 내렸다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "갤럭시S9 플러스 256GB와 64GB 모델 가격 차이는 2만2000원에 불과하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자와 이동통신 서비스 3사는 115만원이 넘는 비싼 가격 때문에 갤럭시S9 플러스 256GB 판매량이 상대적으로 적다고 판단, 용량별로 균형 있는 판매를 위해 출고가를 인하한 것으로 풀이된다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이동통신사가 갤럭시S9 플러스 구매자에게 지급하는 최대 지원금은 35만원이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "유통망 추가지원금(공지지원금의 최대 15%)까지 더하면 약 67만원에 제품을 구입할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "KT 관계자는 “고객 부담을 줄위기 위해 신속한 협의와 의사 결정으로 갤럭시S9 플러스 출고가를 인하했다”고 말했다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT '갤럭시S9 플러스' 출고가 인하",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

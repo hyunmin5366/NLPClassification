@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337532",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "모르미, 1000개 이상 코어 병렬컴퓨팅 프로세서 도전",
+		"newsSubTitle": "",
+		"newsContent": "국내 반도체 설계 스타트업 모르미(대표 이준범)가 1000개 이상 코어를 넣은 병렬컴퓨팅 중앙처리장치(CPU) 개발에 나선다.\n독자 개발한 설계 기술과 이론으로 병렬컴퓨팅을 100% 구현할 수 있는 CPU를 개발한다는 목표다.\n모르미는 12일 정보를 병렬컴퓨팅 방식으로 처리하는 신개념 칩 개발을 시작한다고 밝혔다.\n병렬컴퓨팅은 최근 인공지능(AI), 클라우드 등 4차 산업혁명 기술이 발전하면서 주목받고 있는 정보처리 방식이다.\nCPU 안에서 '일꾼' 역할을 하는 코어 수를 최대치로 늘려 다수의 코어가 정보를 나눠 처리하는 방법이다.\n주파수 속도를 높여 정해진 순서에 따라 계단식으로 정보를 처리하는 '순차 처리' 방식과 다르다.\n특히 데이터가 늘어나도 분산 처리할 수 있어 AI 추론 분야 등에서 순차 처리 방식보다 효율이 높다.\n최근 다양한 CPU 및 그래픽처리장치(GPU) 회사가 병렬컴퓨팅 시장에 뛰어드는 배경이다.\n범용 CPU 내에서 병렬컴퓨팅을 맡는 코어는 5% 안팎에 불과하고, 이 코어조차 효율화된 병렬컴퓨팅을 할 수 없다.\n모르미는 이를 극복하기 위해 두 가지 방식을 적용했다.\n우선 코어 수를 대폭 늘리기 위해 캐시 메모리 등 연산 처리 속도를 올릴 수 있는 장치를 빼고, 그 자리에 코어를 채워 넣는 방식을 택했다.\n모르미는 자체 개발한 '한 주기 이론'을 제품에 적용했다.\n이는 연산할 데이터를 가지런히 정렬한 뒤 경로 망에 있는 코어들이 한 주기 만에 정보를 처리하는 기술이다.\n경로 망은 데이터가 특정 코어에 몰리지 않도록 골고루 배분하는 역할도 한다.\n이를 구현하기 위해 모르미 독자 아키텍처와 컴파일러 기술을 사용했다.\n모르미는 이와 관련한 11건의 특허도 출원했다.\n이준범 대표는 “피보나치 수열 병렬처리 시험 결과 시장에 판매되는 범용 CPU보다 특정 조건에서 14배 높은 성능을 발휘했다”면서 “정보처리 속도는 상대적으로 느리지만 많은 코어를 확보했기 때문에 가능한 일”이라고 전했다.\n모르미의 '한 주기 병렬처리'(EOPPP) 칩 개발은 막바지에 다다랐다.\n프로그래머블반도체(FPGA) 시제품을 만든 모르미는 내년 멀티프로젝트웨이퍼(MPW) 칩 생산과 양산품 제작을 목표로 하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 반도체 설계 스타트업 모르미(대표 이준범)가 1000개 이상 코어를 넣은 병렬컴퓨팅 중앙처리장치(CPU) 개발에 나선다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "독자 개발한 설계 기술과 이론으로 병렬컴퓨팅을 100% 구현할 수 있는 CPU를 개발한다는 목표다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "모르미는 12일 정보를 병렬컴퓨팅 방식으로 처리하는 신개념 칩 개발을 시작한다고 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "병렬컴퓨팅은 최근 인공지능(AI), 클라우드 등 4차 산업혁명 기술이 발전하면서 주목받고 있는 정보처리 방식이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CPU 안에서 '일꾼' 역할을 하는 코어 수를 최대치로 늘려 다수의 코어가 정보를 나눠 처리하는 방법이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주파수 속도를 높여 정해진 순서에 따라 계단식으로 정보를 처리하는 '순차 처리' 방식과 다르다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 데이터가 늘어나도 분산 처리할 수 있어 AI 추론 분야 등에서 순차 처리 방식보다 효율이 높다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근 다양한 CPU 및 그래픽처리장치(GPU) 회사가 병렬컴퓨팅 시장에 뛰어드는 배경이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "범용 CPU 내에서 병렬컴퓨팅을 맡는 코어는 5% 안팎에 불과하고, 이 코어조차 효율화된 병렬컴퓨팅을 할 수 없다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "모르미는 이를 극복하기 위해 두 가지 방식을 적용했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "우선 코어 수를 대폭 늘리기 위해 캐시 메모리 등 연산 처리 속도를 올릴 수 있는 장치를 빼고, 그 자리에 코어를 채워 넣는 방식을 택했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "모르미는 자체 개발한 '한 주기 이론'을 제품에 적용했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이는 연산할 데이터를 가지런히 정렬한 뒤 경로 망에 있는 코어들이 한 주기 만에 정보를 처리하는 기술이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "경로 망은 데이터가 특정 코어에 몰리지 않도록 골고루 배분하는 역할도 한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이를 구현하기 위해 모르미 독자 아키텍처와 컴파일러 기술을 사용했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "모르미는 이와 관련한 11건의 특허도 출원했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이준범 대표는 “피보나치 수열 병렬처리 시험 결과 시장에 판매되는 범용 CPU보다 특정 조건에서 14배 높은 성능을 발휘했다”면서 “정보처리 속도는 상대적으로 느리지만 많은 코어를 확보했기 때문에 가능한 일”이라고 전했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "모르미의 '한 주기 병렬처리'(EOPPP) 칩 개발은 막바지에 다다랐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "프로그래머블반도체(FPGA) 시제품을 만든 모르미는 내년 멀티프로젝트웨이퍼(MPW) 칩 생산과 양산품 제작을 목표로 하고 있다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모르미, 1000개 이상 코어 병렬컴퓨팅 프로세서 도전",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

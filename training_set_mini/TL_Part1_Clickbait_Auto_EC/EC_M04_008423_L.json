@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008423",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "미 토네이도에 지역수출 차질 우려",
+		"newsSubTitle": "의존도 높아 장기화시 타격",
+		"newsContent": "최근 토네이도의 미국 중남부지역 강타로 막대한 피해가 예상되는 가운데 지역 미국 수출입 기업들의 무역활동 차질이 우려되고 있다.\n1일 한국무역협회 대전충남지역본부에 따르면 대전ㆍ충남지역은 미국의 수출입 의존도가 높은 편이다.\n실제 지난해 대전의 국가별 수출입 동향에서 미국 수출은 모두 4억2300만달러로 전체 비중의 11.9%를 차지하며 중국(7억9900만달러, 22.5%)에 이어 2번째로 비중이 높았다.\n수입도 4억400만달러로 전체 수입 비중의 14.5%를 기록, 일본(5억4100만달러, 19.5%)과 중국(5억2500만달러, 18.9%)에 이어 3위를 기록했다.\n특히 대전의 경우 미국 수출이 최근들어 크게 증가하고 있는 추세로, 이번 토네이도 사태로 인해 적지 않은 수출 차질이 예상되고 있다.\n지난 3월 대전지역 미국 수출실적은 5900만달러로, 지난해 같은 기간보다 65.5%가 증가한 것으로 나타났다.\n또 충남지역도 미국으로의 수출 비중이 높은 것으로 조사됐다.\n지난해 충남의 미국 수출액은 모두 47억1700만달러를 기록해, 중국(37.6%)과 홍콩(13.6%)에 이어 3번째로 높은 비중(8.7%)을 차지했고, 수입도 10억5900만달러를 기록해 국가별 순위에서 10위 안에 포함됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 토네이도의 미국 중남부지역 강타로 막대한 피해가 예상되는 가운데 지역 미국 수출입 기업들의 무역활동 차질이 우려되고 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 한국무역협회 대전충남지역본부에 따르면 대전ㆍ충남지역은 미국의 수출입 의존도가 높은 편이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "실제 지난해 대전의 국가별 수출입 동향에서 미국 수출은 모두 4억2300만달러로 전체 비중의 11.9%를 차지하며 중국(7억9900만달러, 22.5%)에 이어 2번째로 비중이 높았다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수입도 4억400만달러로 전체 수입 비중의 14.5%를 기록, 일본(5억4100만달러, 19.5%)과 중국(5억2500만달러, 18.9%)에 이어 3위를 기록했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 대전의 경우 미국 수출이 최근들어 크게 증가하고 있는 추세로, 이번 토네이도 사태로 인해 적지 않은 수출 차질이 예상되고 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 3월 대전지역 미국 수출실적은 5900만달러로, 지난해 같은 기간보다 65.5%가 증가한 것으로 나타났다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 충남지역도 미국으로의 수출 비중이 높은 것으로 조사됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난해 충남의 미국 수출액은 모두 47억1700만달러를 기록해, 중국(37.6%)과 홍콩(13.6%)에 이어 3번째로 높은 비중(8.7%)을 차지했고, 수입도 10억5900만달러를 기록해 국가별 순위에서 10위 안에 포함됐다.",
+				"sentenceSize": 126
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "새마을금고, '지역상권 활성화' 견인차로 나섰다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

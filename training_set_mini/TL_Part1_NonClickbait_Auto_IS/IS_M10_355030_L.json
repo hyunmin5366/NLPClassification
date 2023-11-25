@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355030",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 게임",
+		"newsTitle": "현역 투구폼 그대로…'KBO 레전드' 故최동원 이렇게 부활했다",
+		"newsSubTitle": "null",
+		"newsContent": "컴투스가 고(故) 최동원 선수를 메타 휴먼기술로 재현한 과정을 19일 영상으로 공개했다.\n컴투스는 지난 4월 '컴투스프로야구V22'(이하 컴프야V22)를 출시하며 대표 얼굴로 최동원 선수를 내세웠다.\n메타 휴먼 제작 기술과 3D 랜더링 기법으로 고인의 현역 시절 모습을 재현한 것이다.\n이번 메이킹 필름에선 최동원의 생전 방송 활동과 인터뷰, 개인 소장 자료에서 음성 데이터를 추출해 목소리 복원 AI(인공지능)가 분석하는 과정을 담았다.\n또 흉내 내는 것조차 어렵다던 최동원의 투구폼 구현을 위해 고인의 신체 구조와 비슷한 야구 선수 출신 지원자를 선발, 두 달여에 걸쳐 투구 폼 훈련을 진행했다.\n104편의 영상 및 1800여개의 사진 데이터를 기반으로 실리콘 얼굴 틀을 만들고, 6시간에 걸쳐 분장해 1984년 전성기 최동원의 모습을 구현하는 과정도 담겼다.\n이번 영상은 컴투스의 야구 게임 전문 유튜브 채널 '야컴TV'에서 만날 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "컴투스가 고(故) 최동원 선수를 메타 휴먼기술로 재현한 과정을 19일 영상으로 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "컴투스는 지난 4월 '컴투스프로야구V22'(이하 컴프야V22)를 출시하며 대표 얼굴로 최동원 선수를 내세웠다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "메타 휴먼 제작 기술과 3D 랜더링 기법으로 고인의 현역 시절 모습을 재현한 것이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 메이킹 필름에선 최동원의 생전 방송 활동과 인터뷰, 개인 소장 자료에서 음성 데이터를 추출해 목소리 복원 AI(인공지능)가 분석하는 과정을 담았다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 흉내 내는 것조차 어렵다던 최동원의 투구폼 구현을 위해 고인의 신체 구조와 비슷한 야구 선수 출신 지원자를 선발, 두 달여에 걸쳐 투구 폼 훈련을 진행했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "104편의 영상 및 1800여개의 사진 데이터를 기반으로 실리콘 얼굴 틀을 만들고, 6시간에 걸쳐 분장해 1984년 전성기 최동원의 모습을 구현하는 과정도 담겼다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 영상은 컴투스의 야구 게임 전문 유튜브 채널 '야컴TV'에서 만날 수 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현역 투구폼 그대로…'KBO 레전드' 故최동원 이렇게 부활했다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005389",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "현대차, '더 뉴 팰리세이드' 세계 최초 공개",
+		"newsSubTitle": "현대차 최초로 3열 시트 열선 탑재",
+		"newsContent": "현대자동차가 13일(현지시간) 미국 뉴욕에서 열린 국제 오토쇼에서 '더 뉴 팰리세이드'를 선보였다.\n더 뉴 팰리세이드는 현대차를 대표하는 대형 SUV로서 기존 모델의 혁신적인 공간성은 계승하면서도 더욱 웅장하고 고급스러워진 디자인과 새로운 첨단 안전 및 편의 사양을 더해 개선된 상품성을 갖췄다.\n더 뉴 팰리세이드는 전면부의 파라메트릭 실드가 적용된 캐스케이드 그릴이 더 넓어지고 통일감 있는 디자인을 완성했다.\n피로도를 낮춰주거나 스트레칭을 돕는 모션 시트와 현대차 최초로 적용한 3열 시트 열선 기능 등을 탑재해 편의성을 높였다.\n더 뉴 팰리세이드는 현대자동차의 플래그십 SUV에 걸맞게 주행 성능 면에서도 전자식 4륜 구동 시스템 '에이치트랙'을 사용한다.\n현대차 관계자는 데일리임팩트에 \\\"더 뉴 팰리세이드는 국내에서 5월 중에 2.2디젤∙3.8 가솔린과 8단 자동변속기가 조합된 2가지 엔진으로 출시하고 북미 시장에는 올 여름에 출시될 예정\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차가 13일(현지시간) 미국 뉴욕에서 열린 국제 오토쇼에서 '더 뉴 팰리세이드'를 선보였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "더 뉴 팰리세이드는 현대차를 대표하는 대형 SUV로서 기존 모델의 혁신적인 공간성은 계승하면서도 더욱 웅장하고 고급스러워진 디자인과 새로운 첨단 안전 및 편의 사양을 더해 개선된 상품성을 갖췄다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "더 뉴 팰리세이드는 전면부의 파라메트릭 실드가 적용된 캐스케이드 그릴이 더 넓어지고 통일감 있는 디자인을 완성했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "피로도를 낮춰주거나 스트레칭을 돕는 모션 시트와 현대차 최초로 적용한 3열 시트 열선 기능 등을 탑재해 편의성을 높였다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "더 뉴 팰리세이드는 현대자동차의 플래그십 SUV에 걸맞게 주행 성능 면에서도 전자식 4륜 구동 시스템 '에이치트랙'을 사용한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현대차 관계자는 데일리임팩트에 \\\"더 뉴 팰리세이드는 국내에서 5월 중에 2.2디젤∙3.8 가솔린과 8단 자동변속기가 조합된 2가지 엔진으로 출시하고 북미 시장에는 올 여름에 출시될 예정\\\"이라고 밝혔다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KB손해보험, 아름다운 가게와 함께 '2022 KB희망바자회' 개최",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

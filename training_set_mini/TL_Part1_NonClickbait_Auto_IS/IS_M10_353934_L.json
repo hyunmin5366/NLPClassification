@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353934",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "'병원 검색→예약' 한 번에…똑닥, 업계 최초 '코로나 대면 진료'",
+		"newsSubTitle": "null",
+		"newsContent": "헬스케어 O2O 플랫폼 '똑닥' 운영사 비브로스가 업계 최초 '코로나19 대면 진료 지원 서비스'를 제공한다고 14일 밝혔다.\n환자들은 똑닥 앱에서 코로나19 확진자의 대면 진료가 가능한 병원을 검색하고, 진료 예약·접수까지 할 수 있다.\n가까운 병원의 현재 대기 환자 수와 진료 예상 시간까지 알 수 있다.\n병원은 똑닥을 통해 예약을 확인하고, 확진자·비확진자 분리 진료가 가능해져 원내 2차 감염 우려 및 업무 부담을 덜게 됐다.\n서비스를 이용하려면 똑닥 앱 검색창에 코로나19 확진자 대면 진료 관련 검색어 입력 또는 추천 검색어를 선택 후 원하는 병원에 진료를 접수하면 된다.\n송용범 비브로스 대표는 \\\"코로나19 확진자 방문 진료가 가능한 병원을 검색하고 전화로 한 번 더 확인해 방문하는 등 불편함이 많았고 병원 역시 불필요한 업무 부담이 증가하고 있다\\\"며 \\\"환자와 병원 모두 더 편리하고 안전한 진료가 가능하도록 돕겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "헬스케어 O2O 플랫폼 '똑닥' 운영사 비브로스가 업계 최초 '코로나19 대면 진료 지원 서비스'를 제공한다고 14일 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "환자들은 똑닥 앱에서 코로나19 확진자의 대면 진료가 가능한 병원을 검색하고, 진료 예약·접수까지 할 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "가까운 병원의 현재 대기 환자 수와 진료 예상 시간까지 알 수 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "병원은 똑닥을 통해 예약을 확인하고, 확진자·비확진자 분리 진료가 가능해져 원내 2차 감염 우려 및 업무 부담을 덜게 됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서비스를 이용하려면 똑닥 앱 검색창에 코로나19 확진자 대면 진료 관련 검색어 입력 또는 추천 검색어를 선택 후 원하는 병원에 진료를 접수하면 된다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "송용범 비브로스 대표는 \\\"코로나19 확진자 방문 진료가 가능한 병원을 검색하고 전화로 한 번 더 확인해 방문하는 등 불편함이 많았고 병원 역시 불필요한 업무 부담이 증가하고 있다\\\"며 \\\"환자와 병원 모두 더 편리하고 안전한 진료가 가능하도록 돕겠다\\\"고 말했다.",
+				"sentenceSize": 148
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'병원 검색→예약' 한 번에…똑닥, 업계 최초 '코로나 대면 진료'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

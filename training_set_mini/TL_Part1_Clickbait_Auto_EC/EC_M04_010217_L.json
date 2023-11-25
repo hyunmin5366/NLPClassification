@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010217",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "꽁꽁묶인 6월 소비심리지수",
+		"newsSubTitle": "대전충남 전월보다 3p 하락… 생활형편전망도 주춤",
+		"newsContent": "소비자들의 경제상황에 대한 심리를 나타내는 소비자심리지수가 하락했다.\n26일 한국은행 대전ㆍ충남지역본부가 발표한 '6월 대전ㆍ충남지역 소비자동향조사' 결과에 따르면 소비자심리지수는 전월보다 3포인트 하락한 100으로 나타났다.\nCSI가 100을 넘으면 기대심리가 낙관적, 100을 밑돌면 비관적임을 의미한다.\n현재생활형편CSI는 89로 전월 대비 2포인트, 생활형편전망CSI는 94로 전월 대비 2포인트 하락했다.\n가계수입전망CSI는 97로 전월보다 1포인트 상승했으며 소비지출전망CSI는 104로 전월보다 2포인트 하락했다.\n현재경기판단CSI와 후경기전망CSI도 각각 10포인트와 8포인트 하락한 74와 84를 각각 나타냈다.\n또 소비자들은 6개월 후 경기에 영향을 줄 요인으로 '유가 등 물가수준'(46%)을 가장 많이 꼽았으며 '수출ㆍ환율 등 대외 요인'(31%), '주식ㆍ부동산 등 자산가치'(9%) 등의 순이었다.\n한편 이번 조사는 지난 11일부터 20일까지 대전 및 충남 5개 지역 310가구를 대상으로 진행됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "소비자들의 경제상황에 대한 심리를 나타내는 소비자심리지수가 하락했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 한국은행 대전ㆍ충남지역본부가 발표한 '6월 대전ㆍ충남지역 소비자동향조사' 결과에 따르면 소비자심리지수는 전월보다 3포인트 하락한 100으로 나타났다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "CSI가 100을 넘으면 기대심리가 낙관적, 100을 밑돌면 비관적임을 의미한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재생활형편CSI는 89로 전월 대비 2포인트, 생활형편전망CSI는 94로 전월 대비 2포인트 하락했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가계수입전망CSI는 97로 전월보다 1포인트 상승했으며 소비지출전망CSI는 104로 전월보다 2포인트 하락했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재경기판단CSI와 후경기전망CSI도 각각 10포인트와 8포인트 하락한 74와 84를 각각 나타냈다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 소비자들은 6개월 후 경기에 영향을 줄 요인으로 '유가 등 물가수준'(46%)을 가장 많이 꼽았으며 '수출ㆍ환율 등 대외 요인'(31%), '주식ㆍ부동산 등 자산가치'(9%) 등의 순이었다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이번 조사는 지난 11일부터 20일까지 대전 및 충남 5개 지역 310가구를 대상으로 진행됐다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "도안 5블록 트리풀시티 '구름인파'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

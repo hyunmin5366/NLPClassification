@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326886",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "페이스북, 주택 부족 문제 해결에 '10억달러' 푼다",
+		"newsSubTitle": "",
+		"newsContent": "페이스북이 미국 본사 인근 지역 주택 부족 문제 해결을 위해 자금을 푼다. 23일(현지시간) 블룸버그 등 외신에 따르면 페이스북은 부동산 부족 문제 해결을 위해 10억달러(약 1조1750억원)를 지원하겠다고 밝혔다.\n이 자금은 향후 10년 동안 캘리포니아 지역 중산층·저소득층을 위한 주택 2만채 건설에 쓰일 예정이다.\n미국에 기반을 둔 글로벌 정보기술(IT)기업들은 페이스북과 유사한 사회 환원 정책을 펴고 있다.\n앞서 구글 역시 올해 6월 캘리포니아 지역에 10억달러 규모 주택을 공급하겠다고 발표했다.\n마이크로소프트 역시 1월 시애틀 지역 주택 마련에 5억달러를 지원하겠다는 방침을 밝혔다.\n미국에서 IT기업 성장은 인근 지역 주택 가격 상승에 영향을 미친 것으로 평가된다.\n높은 주거비 부담으로 인해 캘리포니아 주민들은 높은 평균 임금에도 불구하고 가장 높은 빈곤율을 보였다.\nIT기업 직원 통근 거리도 길어졌으며 노숙자 문제가 증가했다.\n가빈 뉴섬 캘리포니아 주지사는 성명서를 통해 “주정부 주택가격 정책만으로 문제를 해결할 수 없으며, 페이스북을 지원하는 다른 도움이 필요하다”며 “우리 주가 직면한 비용 위기를 해결하기 위해 민간 부문 및 자선단체와 파트너십이 필요하다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "페이스북이 미국 본사 인근 지역 주택 부족 문제 해결을 위해 자금을 푼다. 23일(현지시간) 블룸버그 등 외신에 따르면 페이스북은 부동산 부족 문제 해결을 위해 10억달러(약 1조1750억원)를 지원하겠다고 밝혔다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 자금은 향후 10년 동안 캘리포니아 지역 중산층·저소득층을 위한 주택 2만채 건설에 쓰일 예정이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미국에 기반을 둔 글로벌 정보기술(IT)기업들은 페이스북과 유사한 사회 환원 정책을 펴고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 구글 역시 올해 6월 캘리포니아 지역에 10억달러 규모 주택을 공급하겠다고 발표했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마이크로소프트 역시 1월 시애틀 지역 주택 마련에 5억달러를 지원하겠다는 방침을 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미국에서 IT기업 성장은 인근 지역 주택 가격 상승에 영향을 미친 것으로 평가된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "높은 주거비 부담으로 인해 캘리포니아 주민들은 높은 평균 임금에도 불구하고 가장 높은 빈곤율을 보였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "IT기업 직원 통근 거리도 길어졌으며 노숙자 문제가 증가했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "가빈 뉴섬 캘리포니아 주지사는 성명서를 통해 “주정부 주택가격 정책만으로 문제를 해결할 수 없으며, 페이스북을 지원하는 다른 도움이 필요하다”며 “우리 주가 직면한 비용 위기를 해결하기 위해 민간 부문 및 자선단체와 파트너십이 필요하다”고 밝혔다.",
+				"sentenceSize": 138
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "페이스북, 주택 부족 문제 해결에 '10억달러' 푼다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

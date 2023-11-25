@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004816",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "쉐보레 콜로라도, 수입 픽업트럭 최초 누적 등록 1만대 돌파",
+		"newsSubTitle": "지난 2019년 8월 국내 첫 출시 이래 누적 등록 1만 대 돌파",
+		"newsContent": "한국GM 쉐보레의 '콜로라도'가 수입 픽업트럭의 새 역사를 써냈다.\n누적 등록 1만대를 돌파한 것이다.\n7일 한국수입자동차협회(KAIDA)에 따르면 콜로라도는 지난 1월 총 347대가 신규 등록되며 2019년 8월 국내 첫 출시 이후 누적 등록 1만168대를 기록했다.\n수입 픽업트럭으로 누적 등록 1만 대를 넘은 것은 콜로라도가 최초다.\n쉐보레 콜로라도는 픽업트럭 본연의 견인능력과 적재량, 3.6리터 6기통 직분사 가솔린 엔진과 하이드라매틱 8단 자동 변속기에서 오는 강력한 힘, 견고한 풀박스 프레임 바디 등 픽업의 본고장인 아메리카의 감성을 담아낸 정통 픽업트럭이다.\n한국GM 관계자는 데일리임팩트에 \\\"국내에도 비슷한 모델들이 있지만 픽업트럭의 본 고향이라고 할 수 있는 미국 정통 픽업트럭 모델이 국내에 들어온 것은 콜로라도가 처음\\\"이라며 \\\"수입차와 다르게 국산차와 같이 전국 서비스망이 잘 구축돼 소비자들 사이에서 자리를 잡게 됐다\\\"고 설명했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국GM 쉐보레의 '콜로라도'가 수입 픽업트럭의 새 역사를 써냈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "누적 등록 1만대를 돌파한 것이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "7일 한국수입자동차협회(KAIDA)에 따르면 콜로라도는 지난 1월 총 347대가 신규 등록되며 2019년 8월 국내 첫 출시 이후 누적 등록 1만168대를 기록했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수입 픽업트럭으로 누적 등록 1만 대를 넘은 것은 콜로라도가 최초다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "쉐보레 콜로라도는 픽업트럭 본연의 견인능력과 적재량, 3.6리터 6기통 직분사 가솔린 엔진과 하이드라매틱 8단 자동 변속기에서 오는 강력한 힘, 견고한 풀박스 프레임 바디 등 픽업의 본고장인 아메리카의 감성을 담아낸 정통 픽업트럭이다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국GM 관계자는 데일리임팩트에 \\\"국내에도 비슷한 모델들이 있지만 픽업트럭의 본 고향이라고 할 수 있는 미국 정통 픽업트럭 모델이 국내에 들어온 것은 콜로라도가 처음\\\"이라며 \\\"수입차와 다르게 국산차와 같이 전국 서비스망이 잘 구축돼 소비자들 사이에서 자리를 잡게 됐다\\\"고 설명했다.",
+				"sentenceSize": 161
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[금융사고예방]통장 잔액조회로 '피싱사이트' 체크",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

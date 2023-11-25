@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014363",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "무역 불황형 흑자…경제 적신호",
+		"newsSubTitle": "4월 수출·입 작년比 8.0·17.8%↓",
+		"newsContent": "국내 무역수지가 '불황형 흑자'에 빠지면서 우리 경제에 적신호가 켜졌다.\n17일 관세청이 공개한 올해 4월 수출입 동향(확정치) 분석 자료를 보면, 지난달 수출은 작년 동월 대비 8.0% 감소한 462억 달러, 수입은 17.8% 감소한 377억 달러를 기록, 무역흑자는 85억 달러를 달성했다.\n이는 지난 2012년 2월 이후 39개월 연속 무역수지 흑자를 이어간 것이다.\n하지만, 이같은 실적은 국내 경기에 좋은 현상이 아닌 것으로 보인다.\n제품을 많이 수출해 이익을 남긴 것이 아니라, 다른 나라의 제품을 많이 수입하지 않아서 생긴 흑자기 때문이다.\n수입 감소량이 많을 때 발생하는 전형적인 '불황형 흑자'다.\n국내 경제에 적신호가 켜지면서 무역업계에도 본격적인 경기불황이 시작됐다는 얘기다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 무역수지가 '불황형 흑자'에 빠지면서 우리 경제에 적신호가 켜졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 관세청이 공개한 올해 4월 수출입 동향(확정치) 분석 자료를 보면, 지난달 수출은 작년 동월 대비 8.0% 감소한 462억 달러, 수입은 17.8% 감소한 377억 달러를 기록, 무역흑자는 85억 달러를 달성했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난 2012년 2월 이후 39개월 연속 무역수지 흑자를 이어간 것이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만, 이같은 실적은 국내 경기에 좋은 현상이 아닌 것으로 보인다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제품을 많이 수출해 이익을 남긴 것이 아니라, 다른 나라의 제품을 많이 수입하지 않아서 생긴 흑자기 때문이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "수입 감소량이 많을 때 발생하는 전형적인 '불황형 흑자'다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국내 경제에 적신호가 켜지면서 무역업계에도 본격적인 경기불황이 시작됐다는 얘기다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "DB손보, 임직원 자기개발 지원 'DB챌린저스' 운영",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

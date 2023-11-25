@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350840",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "베스핀글로벌, 게임 특화 클라우드 '게임옵스' 출시",
+		"newsSubTitle": "null",
+		"newsContent": "베스핀글로벌이 게임전문 사업부를 신설하고 게임에 특화된 클라우드 서비스 게임옵스(GameOps)를 출시한다고 21일 밝혔다.\n게임옵스는 게임 서비스와 운영에 특화한 원스톱 클라우드 서비스다.\n클라우드 관리 플랫폼 옵스나우(OpsNow)와 통합 관리 플랫폼 얼럿나우(AlertNow), 콘텐츠전송네트워크(CDN)와 인프라 등으로 구성됐다.\n옵스나우는 클라우드 운영 비용을 최대 30%까지 줄일 수 있는 서비스다.\n얼럿나우는 알림 담당자 지정과 자동알림 기능 등으로 생산성을 높여준다.\n베스핀글로벌은 게임옵스 출시와 함께 중소 게임 개발사의 인건비 등 부담을 줄여주기 위해 '이기자! K-Game! 상생 프로젝트'를 진행한다. 3개월 간 진행되는 이번 프로모션을 통해 PC와 모바일, 콘솔 등 기기에 관계없이 AWS(아마존웹서비스) 환경에서 인프라를 사용하는 모든 신규 게임사에게 게임옵스를 할인된 가격으로 제공한다.\n안용민 베스핀글로벌 GNP사업부 부장은 \\\"코로나와 IT 인력난으로 어려움을 겪는 중소 게임 개발사에게 유용한 상품을 지원해 도움을 주고자 기획했다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "베스핀글로벌이 게임전문 사업부를 신설하고 게임에 특화된 클라우드 서비스 게임옵스(GameOps)를 출시한다고 21일 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "게임옵스는 게임 서비스와 운영에 특화한 원스톱 클라우드 서비스다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "클라우드 관리 플랫폼 옵스나우(OpsNow)와 통합 관리 플랫폼 얼럿나우(AlertNow), 콘텐츠전송네트워크(CDN)와 인프라 등으로 구성됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "옵스나우는 클라우드 운영 비용을 최대 30%까지 줄일 수 있는 서비스다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "얼럿나우는 알림 담당자 지정과 자동알림 기능 등으로 생산성을 높여준다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "베스핀글로벌은 게임옵스 출시와 함께 중소 게임 개발사의 인건비 등 부담을 줄여주기 위해 '이기자! K-Game! 상생 프로젝트'를 진행한다. 3개월 간 진행되는 이번 프로모션을 통해 PC와 모바일, 콘솔 등 기기에 관계없이 AWS(아마존웹서비스) 환경에서 인프라를 사용하는 모든 신규 게임사에게 게임옵스를 할인된 가격으로 제공한다.",
+				"sentenceSize": 185
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "안용민 베스핀글로벌 GNP사업부 부장은 \\\"코로나와 IT 인력난으로 어려움을 겪는 중소 게임 개발사에게 유용한 상품을 지원해 도움을 주고자 기획했다\\\"고 말했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "베스핀글로벌, 게임 특화 클라우드 '게임옵스' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

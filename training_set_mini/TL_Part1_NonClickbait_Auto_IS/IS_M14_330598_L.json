@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330598",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "포스코ICT, 피앤피플러스와 지하철 통신서비스 협약 체결",
+		"newsSubTitle": "",
+		"newsContent": "포스코 ICT(대표 최두환)가 피앤피플러스(대표 서재성)와 서울지하철 통신서비스 수준 향상 사업에 관한 업무 협정을 체결했다.\n피앤피플러스는 서울교통공사에서 주관하는 서울지하철 통신서비스 수준 향상 사업 주간사로 전체 사업을 총괄한다.\n포스코 ICT는 계약을 통해 1~9호선 역사와 열차에 제반시스템 구축을 총괄하고 지하철 이용객에게 초고속 무료 와이파이를 제공한다.\n두 회사는 연내에 지하철 일부 구간에서 시범 구축하는 것을 시작으로 2019년 말까지 지하철 1~9호선 전체로 확산한다.\n서울시 지하철 승객은 지하철을 이용하며 초고속의 와이파이를 무료로 제공받을 수 있다.\n피앤피 측은 “지난해 테스트를 통과한 지하철 와이파이 속도는 유료LTE 속도의 8~10배에 이르는 1.1Gbps였다” 며 “실제 망 구축이 끝나는 2019년에는 최고속도 10Gbps에 이를 것”이라고 말했다.\n또 열차 내부 뿐 아니라 역사 주변 반경에서도 무료로 와이파이를 이용해 통신비 경감과 시민 편익 증진이 이루어질 것으로 기대했다.\n피앤피플러스 서재성 대표는 “두 회사의 검증된 기술력을 바탕으로 서울 지하철 통신서비스 수준향상 사업이 탄력을 받게 되었다” 고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "포스코 ICT(대표 최두환)가 피앤피플러스(대표 서재성)와 서울지하철 통신서비스 수준 향상 사업에 관한 업무 협정을 체결했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "피앤피플러스는 서울교통공사에서 주관하는 서울지하철 통신서비스 수준 향상 사업 주간사로 전체 사업을 총괄한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "포스코 ICT는 계약을 통해 1~9호선 역사와 열차에 제반시스템 구축을 총괄하고 지하철 이용객에게 초고속 무료 와이파이를 제공한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 회사는 연내에 지하철 일부 구간에서 시범 구축하는 것을 시작으로 2019년 말까지 지하철 1~9호선 전체로 확산한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서울시 지하철 승객은 지하철을 이용하며 초고속의 와이파이를 무료로 제공받을 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "피앤피 측은 “지난해 테스트를 통과한 지하철 와이파이 속도는 유료LTE 속도의 8~10배에 이르는 1.1Gbps였다” 며 “실제 망 구축이 끝나는 2019년에는 최고속도 10Gbps에 이를 것”이라고 말했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 열차 내부 뿐 아니라 역사 주변 반경에서도 무료로 와이파이를 이용해 통신비 경감과 시민 편익 증진이 이루어질 것으로 기대했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "피앤피플러스 서재성 대표는 “두 회사의 검증된 기술력을 바탕으로 서울 지하철 통신서비스 수준향상 사업이 탄력을 받게 되었다” 고 말했다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "포스코ICT, 피앤피플러스와 지하철 통신서비스 협약 체결",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

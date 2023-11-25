@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013303",
+		"newsCategory": "경제",
+		"newsSubcategory": "취업/창업",
+		"newsTitle": "전국은 창업열기, 대전 신설법인 작년比 4.8% 감소 '싸늘'",
+		"newsSubTitle": "전체 3개월 연속 증가세와 대비",
+		"newsContent": "지난 8월 대전지역의 창업 열기가 6대 광역시와 비교해 다소 주춤한 모습을 보였다.\n29일 중기청이 발표한 '8월 신설법인 동향'에 따르면 대전지역 신설법인 수는 138개로 작년동월 대비 4.8% 감소했다.\n이는 6대 광역시 중 신설법인 수가 가장 적은 수치로 가장 많이 증가한 울산(16%)과 비교하면 20%(±)가 넘었다.\n대전에 이어 인천이 3.1%, 부산 3.0% 감소했다.\n대구는 12.3% 증가했으며, 광주는 작년동월 증감률이 같았다.\n전국 신설법인 수는 지난해 같은 기간 대비 3개월 연속으로 증가하며, 창업 붐을 이어갔다.\n올 8월 기준 신설법인 수는 지난해 같은 기간 대비 453개(7.4%) 증가한 6551개, 1~8월 누계는 총 5만 6165개로 같은 기간 5014개(9.8%) 늘었다.\n업종별로는 제조업(1522개, 23.2%)과 도소매업(1393개, 21.3%), 건설업(576개, 8.8%) 등이 이끌었다.\n연령대로는 40대(2550개, 38.9%)와 50대(1731개, 26.4%)가 주를 이뤘다.\n업종별로는 증가 규모 측면에서 부동산임대업(137개), 전기·가스·수도업(127개), 도소매업(122개) 등이 증가세를 주도했다.\n연령대별 신설법인 업종 비교에서는 30대는 과학기술서비스업(11개)이, 40대와 60대는 부동산임대업(63개, 20개)이 가장 많이 증가했다.\n자본금별로는 5000만원~1억원 구간(15.5%)을 중심으로 증가세가 두드러졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 8월 대전지역의 창업 열기가 6대 광역시와 비교해 다소 주춤한 모습을 보였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 중기청이 발표한 '8월 신설법인 동향'에 따르면 대전지역 신설법인 수는 138개로 작년동월 대비 4.8% 감소했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 6대 광역시 중 신설법인 수가 가장 적은 수치로 가장 많이 증가한 울산(16%)과 비교하면 20%(±)가 넘었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대전에 이어 인천이 3.1%, 부산 3.0% 감소했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대구는 12.3% 증가했으며, 광주는 작년동월 증감률이 같았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전국 신설법인 수는 지난해 같은 기간 대비 3개월 연속으로 증가하며, 창업 붐을 이어갔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "올 8월 기준 신설법인 수는 지난해 같은 기간 대비 453개(7.4%) 증가한 6551개, 1~8월 누계는 총 5만 6165개로 같은 기간 5014개(9.8%) 늘었다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "업종별로는 제조업(1522개, 23.2%)과 도소매업(1393개, 21.3%), 건설업(576개, 8.8%) 등이 이끌었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "연령대로는 40대(2550개, 38.9%)와 50대(1731개, 26.4%)가 주를 이뤘다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "업종별로는 증가 규모 측면에서 부동산임대업(137개), 전기·가스·수도업(127개), 도소매업(122개) 등이 증가세를 주도했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "연령대별 신설법인 업종 비교에서는 30대는 과학기술서비스업(11개)이, 40대와 60대는 부동산임대업(63개, 20개)이 가장 많이 증가했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "자본금별로는 5000만원~1억원 구간(15.5%)을 중심으로 증가세가 두드러졌다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "금감원, 우리은행 비밀번호 무단 변경 제재심 서두른다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

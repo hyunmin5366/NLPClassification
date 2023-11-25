@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350154",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "맥스테드, 데이터 라벨링 프로그램 '맥스 데이터' 출시",
+		"newsSubTitle": "null",
+		"newsContent": "플랫폼 전문 기업 맥스테드는 AI(인공지능) 학습용 데이터 라벨링 프로그램 '맥스 데이터'(Max Data)를 출시했다고 28일 밝혔다.\n데이터 라벨링은 데이터를 사람이 직접 분류하고 가공하는 작업으로 AI 학습을 위해서는 빼놓을 수 없는 과정이다.\n맥스 데이터는 이 같은 작업을 더욱 쉽게 할 수 있도록 돕는다.\n맥스 데이터는 다수 인력이 동시 접근해 작업을 진행하는 AI 학습용 데이터 구축에 맞춰 제작됐다.\n별도 설치 없이 인터넷 브라우저만 있으면 사용할 수 있는 웹 기반으로 손쉽게 구동할 수 있다.\n프로그램은 작업환경에 맞춰 프로젝트별 라벨링 대상 설정과 이미지 라벨링 등을 지원한다.\n동영상 구간에 대한 라벨링, 스켈레톤 데이터 입력, 수정 등도 가능하다.\n이중 스켈레톤 데이터 처리 작업은 뛰어난 기술자라도 어렵고 시간이 오래 걸리는 작업이지만, 맥스 데이터를 이용하면 한결 쉬워진다.\n프로그램은 자동으로 스켈레톤 데이터 추출과 해당 데이터에 대한 수정, 삭제 기능을 지원한다.\n또 오픈포즈(OpenPose), 인텔 리얼센스(Intel RealSense)와 같은 타사 프로그램을 통해 추출된 스켈레톤 데이터도 불러와 보정할 수 있다.\n이 외에 AI 학습용 데이터 내에 포함된 얼굴, 자동차 번호판 등 개인정보에 대한 자동, 수동 비식별화 기능도 제공해 작업자 능률을 더욱 끌어올려 준다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "플랫폼 전문 기업 맥스테드는 AI(인공지능) 학습용 데이터 라벨링 프로그램 '맥스 데이터'(Max Data)를 출시했다고 28일 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "데이터 라벨링은 데이터를 사람이 직접 분류하고 가공하는 작업으로 AI 학습을 위해서는 빼놓을 수 없는 과정이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "맥스 데이터는 이 같은 작업을 더욱 쉽게 할 수 있도록 돕는다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "맥스 데이터는 다수 인력이 동시 접근해 작업을 진행하는 AI 학습용 데이터 구축에 맞춰 제작됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "별도 설치 없이 인터넷 브라우저만 있으면 사용할 수 있는 웹 기반으로 손쉽게 구동할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "프로그램은 작업환경에 맞춰 프로젝트별 라벨링 대상 설정과 이미지 라벨링 등을 지원한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "동영상 구간에 대한 라벨링, 스켈레톤 데이터 입력, 수정 등도 가능하다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이중 스켈레톤 데이터 처리 작업은 뛰어난 기술자라도 어렵고 시간이 오래 걸리는 작업이지만, 맥스 데이터를 이용하면 한결 쉬워진다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "프로그램은 자동으로 스켈레톤 데이터 추출과 해당 데이터에 대한 수정, 삭제 기능을 지원한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또 오픈포즈(OpenPose), 인텔 리얼센스(Intel RealSense)와 같은 타사 프로그램을 통해 추출된 스켈레톤 데이터도 불러와 보정할 수 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이 외에 AI 학습용 데이터 내에 포함된 얼굴, 자동차 번호판 등 개인정보에 대한 자동, 수동 비식별화 기능도 제공해 작업자 능률을 더욱 끌어올려 준다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "맥스테드, 데이터 라벨링 프로그램 '맥스 데이터' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

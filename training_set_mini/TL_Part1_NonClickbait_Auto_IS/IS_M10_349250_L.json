@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349250",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "모바일 다음도 '언론사 뉴스' 직접 고른다...선택권 확대",
+		"newsSubTitle": "null",
+		"newsContent": "카카오가 다음 모바일 뉴스의 첫 화면에서 언론사를 직접 선택하도록 서비스를 개편한다.\n카카오는 23일부터 다음 뉴스탭 '주요 뉴스' 영역에서 '언론사 선택 기능'을 제공한다고 밝혔다.\n이번 서비스 개선을 통해 뉴스를 보는 이용자는 모바일 다음 첫 화면 뉴스탭에 보이는 뉴스의 언론사를 직접 설정할 수 있다. '피드 설정' 메뉴에서 초기화가 언제든 가능하다.\n선택 가능한 언론사는 10개 이내로 권장된다.\n그 이상 선택할 경우 첫 화면에 노출할 기사가 부족하다는 알림이 나오고, 시간대에 따라 일부 언론사의 뉴스가 제외된다.\n카카오는 이번 조치가 이용자의 선택권을 강화한 것이라고 설명한다.\n그동안 콘텐츠 추천 시스템에 이용자의 취향과 성별·연령 등은 반영이 됐으나 특정 언론사 여부는 반영되지 않았다.\n정치권을 중심으로 포털의 뉴스 편향성 논란이 제기되면서 카카오는 지난해 11월 '이용자의 뉴스 선택권 강화 등 이용자 편의 제고를 위한 서비스 고도화 작업'을 예고하기도 했다.\n카카오 관계자는 \\\"수많은 이용자들의 각기 다른 취향과 니즈를 알고리즘에 일괄적으로 반영하기는 어렵다\\\"며 \\\"이러한 부분을 보완하기 위해 이용자에게 더 직접적인 선택 권리를 드리고자 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오가 다음 모바일 뉴스의 첫 화면에서 언론사를 직접 선택하도록 서비스를 개편한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오는 23일부터 다음 뉴스탭 '주요 뉴스' 영역에서 '언론사 선택 기능'을 제공한다고 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 서비스 개선을 통해 뉴스를 보는 이용자는 모바일 다음 첫 화면 뉴스탭에 보이는 뉴스의 언론사를 직접 설정할 수 있다. '피드 설정' 메뉴에서 초기화가 언제든 가능하다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "선택 가능한 언론사는 10개 이내로 권장된다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그 이상 선택할 경우 첫 화면에 노출할 기사가 부족하다는 알림이 나오고, 시간대에 따라 일부 언론사의 뉴스가 제외된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카카오는 이번 조치가 이용자의 선택권을 강화한 것이라고 설명한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그동안 콘텐츠 추천 시스템에 이용자의 취향과 성별·연령 등은 반영이 됐으나 특정 언론사 여부는 반영되지 않았다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정치권을 중심으로 포털의 뉴스 편향성 논란이 제기되면서 카카오는 지난해 11월 '이용자의 뉴스 선택권 강화 등 이용자 편의 제고를 위한 서비스 고도화 작업'을 예고하기도 했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "카카오 관계자는 \\\"수많은 이용자들의 각기 다른 취향과 니즈를 알고리즘에 일괄적으로 반영하기는 어렵다\\\"며 \\\"이러한 부분을 보완하기 위해 이용자에게 더 직접적인 선택 권리를 드리고자 한다\\\"고 말했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모바일 다음도 '언론사 뉴스' 직접 고른다...선택권 확대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

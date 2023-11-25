@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016035",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "롯데마트, 아동 실종 훈련 박차",
+		"newsSubTitle": "",
+		"newsContent": "29일까지 전점서 실종 방지 프로그램 훈련 롯데마트는 오는 29일까지 전국 각 지점에서 한국형 실종 방지 프로그램(코드 아담) 훈련을 진행한다.\n이번 프로그램은 놀이공원, 대형마트 등 다중 이용시설에서 실종아동이 발생한 경우 신속한 발견을 위해 출입문을 통제하고, 자체 인력과 장비를 활용해 수색한 후 찾지 못했을 때 경찰에 신고하는 방식이다.\n롯데마트는 1~5단계에 걸쳐 실종 방지 프로그램을 진행한다. 1단계는 실종고객의 인상착의를 확인해 ‘도와드리겠습니다’ 센터로 인상착의를 전달·접수하며, 2단계는 매장에 있는 전 고객과 직원을 대상으로 안내 방송을 한다. 3단계는 수색이다.\n매장 안전실에서 CCTV를 이용해 실종자 이동경로를 추적, 실시간으로 비상대기조에 알려준다.\n이어 점포 직원은 매장과 주차장 출입구로 이동해 실종자 인상착의와 사진을 참고해 출입자를 확인한다. 4단계는 자체 수색 후 실종자 미발견 시 경찰에게 신고하며, 5단계는 4단계까지의 조사 과정을 경찰에게 이관한다.\n문영표 롯데마트 고객본부장은 “아동을 동반한 고객들이 안심하고 방문할 수 있도록 노력하겠다”고 말했다.\n롯데마트는 분기별로 연 4회 실시 프로그램을 진행 중이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "29일까지 전점서 실종 방지 프로그램 훈련 롯데마트는 오는 29일까지 전국 각 지점에서 한국형 실종 방지 프로그램(코드 아담) 훈련을 진행한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 프로그램은 놀이공원, 대형마트 등 다중 이용시설에서 실종아동이 발생한 경우 신속한 발견을 위해 출입문을 통제하고, 자체 인력과 장비를 활용해 수색한 후 찾지 못했을 때 경찰에 신고하는 방식이다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "롯데마트는 1~5단계에 걸쳐 실종 방지 프로그램을 진행한다. 1단계는 실종고객의 인상착의를 확인해 ‘도와드리겠습니다’ 센터로 인상착의를 전달·접수하며, 2단계는 매장에 있는 전 고객과 직원을 대상으로 안내 방송을 한다. 3단계는 수색이다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "매장 안전실에서 CCTV를 이용해 실종자 이동경로를 추적, 실시간으로 비상대기조에 알려준다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 점포 직원은 매장과 주차장 출입구로 이동해 실종자 인상착의와 사진을 참고해 출입자를 확인한다. 4단계는 자체 수색 후 실종자 미발견 시 경찰에게 신고하며, 5단계는 4단계까지의 조사 과정을 경찰에게 이관한다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "문영표 롯데마트 고객본부장은 “아동을 동반한 고객들이 안심하고 방문할 수 있도록 노력하겠다”고 말했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "롯데마트는 분기별로 연 4회 실시 프로그램을 진행 중이다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "기계연, 아시아 '기술 한류' 발원지 부상",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324568",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "일 르네사스, 자동차용 시스템온칩 'R- Car E3' 샘플 출하",
+		"newsSubTitle": "",
+		"newsContent": "일 르네사스일렉트로닉스는 대형 디스플레이를 사용한 하이엔드 3D그래픽용 클러스터를 구현할 수 있는 자동차용 시스템온칩(SoC) 'R- Car E3' 샘플 출하를 개시했다.\nR-Car E3는 차량 클러스터의 디지털화, 대형화의 필요성 증가에 부응해 기존 3D 클러스터를 위한 'R-Car D3' 상위모델로 3D그래픽 렌더링성능을 향상시켰다.\n클러스터용으로는 최대수준인 12.3인치 1920x720 화소 대형디스플레이에 3D표시가 가능하다.\n클러스터용 뿐만 아니라 디스플레이오디오와 IVI 시스템도 원칩으로 구동할 수 있도록 오디오DSP 등 주변기능을 탑재했다.\n이에 따라 각 시스템을 통합해 시스템 비용과 공간을 절약할 수 있다.\n하이엔드 통합콕핏에 적합한 'R-Car H3', 'R-Car M3'와 호환이 가능해 소프트웨어 자산 재사용이 가능하다.\n르네사스는 “통합시스템과 풀그래픽화 보급이 기대되는 엔트리클래스 차량부터 프리미엄클래스 차량까지 다양한 차종의 소프트웨어 배포 및 개발 기간이 단축되고 디스플레이 오디오 및 IVI 시스템의 통합 실현도 가능하다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일 르네사스일렉트로닉스는 대형 디스플레이를 사용한 하이엔드 3D그래픽용 클러스터를 구현할 수 있는 자동차용 시스템온칩(SoC) 'R- Car E3' 샘플 출하를 개시했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "R-Car E3는 차량 클러스터의 디지털화, 대형화의 필요성 증가에 부응해 기존 3D 클러스터를 위한 'R-Car D3' 상위모델로 3D그래픽 렌더링성능을 향상시켰다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "클러스터용으로는 최대수준인 12.3인치 1920x720 화소 대형디스플레이에 3D표시가 가능하다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "클러스터용 뿐만 아니라 디스플레이오디오와 IVI 시스템도 원칩으로 구동할 수 있도록 오디오DSP 등 주변기능을 탑재했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 각 시스템을 통합해 시스템 비용과 공간을 절약할 수 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하이엔드 통합콕핏에 적합한 'R-Car H3', 'R-Car M3'와 호환이 가능해 소프트웨어 자산 재사용이 가능하다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "르네사스는 “통합시스템과 풀그래픽화 보급이 기대되는 엔트리클래스 차량부터 프리미엄클래스 차량까지 다양한 차종의 소프트웨어 배포 및 개발 기간이 단축되고 디스플레이 오디오 및 IVI 시스템의 통합 실현도 가능하다”고 말했다.",
+				"sentenceSize": 124
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일 르네사스, 자동차용 시스템온칩 'R- Car E3' 샘플 출하",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

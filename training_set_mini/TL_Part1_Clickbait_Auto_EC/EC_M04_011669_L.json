@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011669",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "생필품, 전통시장이 가장 싸다… SSM보다 11.5% 저렴",
+		"newsSubTitle": "시장경영진흥원 조사",
+		"newsContent": "주요 생활필수품 가격이 대형마트나 기업형슈퍼마켓(SSM)보다 전통시장이 싼 것으로 조사됐다.\n시장경영진흥원은 지난 3일과 4일 이틀간 전국주부교실 중앙회를 통해 전국 36개 전통시장과 시장 인근 36곳의 대형마트 및 SSM에서 판매하는 40개 생필품 가격을 비교 조사한 결과, 전통시장이 9.4% 저렴한 것으로 나타났다고 16일 밝혔다.\n40개 생필품의 가격은 전통시장이 26만5408원으로 조사됐으며, 대형마트 29만2972원, SSM 29만9734원으로 나타났다.\n전통시장이 대형마트보다는 9.4%, SSM보다는 11.5%의 가격 경쟁력을 보인 것이다.\n품목별로는 전통시장이 대부분 품목에서 가격 우위를 보였으며 가장 저렴한 품목은 건어물로 대형마트 가격보다 23.8% 낮았다.\n이어 채소(13.3%), 육란(11.4%), 곡물(10.6%), 가공식품(7.5%), 공산품(4.8%) 등이 뒤를 이었다.\nSSM과 비교하면 건어물(17.4%), 채소(16.5%), 곡물(13.1%), 육란(12.8%), 공산품(11.6%) 등의 순으로 저렴했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "주요 생활필수품 가격이 대형마트나 기업형슈퍼마켓(SSM)보다 전통시장이 싼 것으로 조사됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시장경영진흥원은 지난 3일과 4일 이틀간 전국주부교실 중앙회를 통해 전국 36개 전통시장과 시장 인근 36곳의 대형마트 및 SSM에서 판매하는 40개 생필품 가격을 비교 조사한 결과, 전통시장이 9.4% 저렴한 것으로 나타났다고 16일 밝혔다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "40개 생필품의 가격은 전통시장이 26만5408원으로 조사됐으며, 대형마트 29만2972원, SSM 29만9734원으로 나타났다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전통시장이 대형마트보다는 9.4%, SSM보다는 11.5%의 가격 경쟁력을 보인 것이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "품목별로는 전통시장이 대부분 품목에서 가격 우위를 보였으며 가장 저렴한 품목은 건어물로 대형마트 가격보다 23.8% 낮았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 채소(13.3%), 육란(11.4%), 곡물(10.6%), 가공식품(7.5%), 공산품(4.8%) 등이 뒤를 이었다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SSM과 비교하면 건어물(17.4%), 채소(16.5%), 곡물(13.1%), 육란(12.8%), 공산품(11.6%) 등의 순으로 저렴했다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스마트폰, 대덕특구를 바꾸다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

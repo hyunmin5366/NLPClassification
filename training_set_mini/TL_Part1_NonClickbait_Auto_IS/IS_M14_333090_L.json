@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333090",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "에이에스엔, '2018 위치기반 서비스 공모전' 최우수상 수상",
+		"newsSubTitle": "",
+		"newsContent": "에이에스엔(대표 윤주열)이 지난 12일 '2018 개인정보보호인의 밤' 행사에서 '2018 대한민국 위치기반 서비스 공모전' 최우수상을 수상했다.\n방송통신위원회와 한국인터넷진흥원이 개최한 이번 행사에서 창의적인 위치기반 서비스 모델을 제안한 피플카·에이에스엔·토이스미스 등 12개 팀이 상을 받았다.\n에이에스엔은 2016년 4월 위치기반 인적 네트워크 플랫폼 '애니맨'을 출시한 이래 사용자로부터 견고하고 접근성이 뛰어난 애플리케이션(앱)이라는 호평을 받았다.\n전국 어디서나 누구나 스마트폰 앱 애니맨을 다운로드해 미션을 요청하면 헬퍼가 입찰에 참여해 대가를 받고 해당 미션을 수행한다.\n전문가는 물론 취업이 어려운 주부·노인·장애인까지도 수익을 창출할 수 있는 재능·시간 공유서비스라는 평가다.\n윤주열 대표는 “전국에 헬퍼가 3만명을 넘었고 매칭에 걸리는 시간도 평균 10분이 되지 않는다. 애니맨으로 편리하고 신속한 생활편의 대행 서비스를 구현했다”면서 “내년부터 다국어 서비스를 시작해 글로벌 인력 매칭 플랫폼으로 성장할 수 있도록 최선을 다할 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "에이에스엔(대표 윤주열)이 지난 12일 '2018 개인정보보호인의 밤' 행사에서 '2018 대한민국 위치기반 서비스 공모전' 최우수상을 수상했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방송통신위원회와 한국인터넷진흥원이 개최한 이번 행사에서 창의적인 위치기반 서비스 모델을 제안한 피플카·에이에스엔·토이스미스 등 12개 팀이 상을 받았다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "에이에스엔은 2016년 4월 위치기반 인적 네트워크 플랫폼 '애니맨'을 출시한 이래 사용자로부터 견고하고 접근성이 뛰어난 애플리케이션(앱)이라는 호평을 받았다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전국 어디서나 누구나 스마트폰 앱 애니맨을 다운로드해 미션을 요청하면 헬퍼가 입찰에 참여해 대가를 받고 해당 미션을 수행한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전문가는 물론 취업이 어려운 주부·노인·장애인까지도 수익을 창출할 수 있는 재능·시간 공유서비스라는 평가다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윤주열 대표는 “전국에 헬퍼가 3만명을 넘었고 매칭에 걸리는 시간도 평균 10분이 되지 않는다. 애니맨으로 편리하고 신속한 생활편의 대행 서비스를 구현했다”면서 “내년부터 다국어 서비스를 시작해 글로벌 인력 매칭 플랫폼으로 성장할 수 있도록 최선을 다할 것”이라고 밝혔다.",
+				"sentenceSize": 152
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에이에스엔, '2018 위치기반 서비스 공모전' 최우수상 수상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

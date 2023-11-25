@@ -1,0 +1,276 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337002",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "[이슈분석]드론 특별비행승인제, 안전기준은?",
+		"newsSubTitle": "",
+		"newsContent": "야간이나 가시권 밖에서 드론을 날리려면 제작과정에 문제가 없고 기기 성능에 문제가 없다는 걸 확인받아야 한다.\n새로 만든 안전기준은 야간 비행과 가시권 밖 비행 특성에 맞춰 공통과 개별 기준으로 구분했다.\n공통사항은 우선 특정 공역에 대한 특별비행승인 조항이 없을 때에는 G등급 공역에서 고도 150m 이하 비행이 기준이다.\nG등급 공역은 인천비행정보구역 중 A, B, C, D, E 등급 외 비관제공역으로 조종사에게 특별한 자격이 요구되지는 않는다.\n이·착륙장과 비행경로에 있는 장애물이 안전에 영향을 미치는지도 검사한다.\n통신두절과 낮은 배터리, 모터·시스템 이상 등에 대비한 페일 세이프(Fail safe) 기능 탑재는 기본이다.\n기기 고장이나 오작동이 발생해도 출발지로 자동 복귀하는 기능이다.\n불시착 때 기기를 보호해주는 슈트나 에어백 장착도 포함된다.\n드론이 추락한 위치를 찾도록 GPS 위치 발신기도 장착해야 한다.\n사고 대응 비상연락, 보고체계 등을 포함한 비상상황 매뉴얼도 작성·비치토록 했다.\n참여 인력은 비상상황 발생에 대비한 훈련을 받아야 한다.\n야간 비행 승인에 따른 추가사항은 다섯가지 정도다.\n우선, 관찰자를 추가 배치해야 한다.\n경로대로 잘 날아가는지 확인할 필요가 있어서다.\n이를 위해 5㎞ 밖에서도 인식 가능한 충돌방지등을 달아야 한다.\n충동방지등은 지속 점등 방식으로 전후좌우 식별이 가능하도록 색깔이나 위치에 신경써야 한다.\n자동비행 모드 탑재는 기본이다.\n보이지 않는 상황에서 비행해야 하니 중요성이 크다.\n적외선 카메라를 사용하는 시각보조장치(FPV)를 탑재했다.\n만일의 사태를 대비한 조치다.\n드론 이·착륙장과 비상시 비행체를 확인할 수 있는 조명시설도 구비해야 한다.\n안전기준에서는 가시권 밖 비행의 경우 계획된 비행경로에 무인비행장치를 확인하는 관찰자 한 명을 별도 배치토록했다.\n조종자와 관찰자를 잇는 통신망 유지도 필수다.\n위급 상황을 대비해 자동은 물론 반자동, 수동 운전 전환이 가능한 지도 살펴본다.\n명령과 제어, 통신(CCC) 장비가 계획된 비행 범위 내에서 사용가능한지 여부도 검사 대상이다.\n비행계획과 비상상황 프로파일에 대한 프로그래밍, 시스템 이상을 조종자에게 알리는 기능도 탑재해야 한다.\nRF통신이나 LTE통신 기간망 등 통신수단을 이중화함으로써 조종 안정성을 확보하는 것도 필요하다.\n야간비행처럼 시각보조장치(FRV)도 달아야 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 28,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "야간이나 가시권 밖에서 드론을 날리려면 제작과정에 문제가 없고 기기 성능에 문제가 없다는 걸 확인받아야 한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "새로 만든 안전기준은 야간 비행과 가시권 밖 비행 특성에 맞춰 공통과 개별 기준으로 구분했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공통사항은 우선 특정 공역에 대한 특별비행승인 조항이 없을 때에는 G등급 공역에서 고도 150m 이하 비행이 기준이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "G등급 공역은 인천비행정보구역 중 A, B, C, D, E 등급 외 비관제공역으로 조종사에게 특별한 자격이 요구되지는 않는다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이·착륙장과 비행경로에 있는 장애물이 안전에 영향을 미치는지도 검사한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "통신두절과 낮은 배터리, 모터·시스템 이상 등에 대비한 페일 세이프(Fail safe) 기능 탑재는 기본이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기기 고장이나 오작동이 발생해도 출발지로 자동 복귀하는 기능이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "불시착 때 기기를 보호해주는 슈트나 에어백 장착도 포함된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "드론이 추락한 위치를 찾도록 GPS 위치 발신기도 장착해야 한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "사고 대응 비상연락, 보고체계 등을 포함한 비상상황 매뉴얼도 작성·비치토록 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "참여 인력은 비상상황 발생에 대비한 훈련을 받아야 한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "야간 비행 승인에 따른 추가사항은 다섯가지 정도다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "우선, 관찰자를 추가 배치해야 한다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "경로대로 잘 날아가는지 확인할 필요가 있어서다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이를 위해 5㎞ 밖에서도 인식 가능한 충돌방지등을 달아야 한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "충동방지등은 지속 점등 방식으로 전후좌우 식별이 가능하도록 색깔이나 위치에 신경써야 한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "자동비행 모드 탑재는 기본이다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "보이지 않는 상황에서 비행해야 하니 중요성이 크다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "적외선 카메라를 사용하는 시각보조장치(FPV)를 탑재했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "만일의 사태를 대비한 조치다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "드론 이·착륙장과 비상시 비행체를 확인할 수 있는 조명시설도 구비해야 한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "안전기준에서는 가시권 밖 비행의 경우 계획된 비행경로에 무인비행장치를 확인하는 관찰자 한 명을 별도 배치토록했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "조종자와 관찰자를 잇는 통신망 유지도 필수다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "위급 상황을 대비해 자동은 물론 반자동, 수동 운전 전환이 가능한 지도 살펴본다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "명령과 제어, 통신(CCC) 장비가 계획된 비행 범위 내에서 사용가능한지 여부도 검사 대상이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "비행계획과 비상상황 프로파일에 대한 프로그래밍, 시스템 이상을 조종자에게 알리는 기능도 탑재해야 한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "RF통신이나 LTE통신 기간망 등 통신수단을 이중화함으로써 조종 안정성을 확보하는 것도 필요하다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "야간비행처럼 시각보조장치(FRV)도 달아야 한다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]드론 특별비행승인제, 안전기준은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

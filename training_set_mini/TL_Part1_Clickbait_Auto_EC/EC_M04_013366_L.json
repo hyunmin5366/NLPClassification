@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013366",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "[국민연금 돋보기]사업장이 두 곳일때",
+		"newsSubTitle": "두 군데서 일하면 양쪽 모두 가입해야",
+		"newsContent": "Q. 두 군데의 사업장에서 근무하고 있는데 모두 가입을 해야 하나요?\nA. 두 군데의 사업장에서 모두 가입해야 합니다.\n국민연금이 적용되는 두 군데의 사업장에서 근무할 경우, 양쪽 모두의 사업장에서 받는 소득월액을 기준으로 기준소득월액을 결정하며 연금보험료도 각각의 사업장에서 납부하게 됩니다.\n다만, 기준소득월액 결정 및 보험료 납부 등은 아래의 경우에 따라 다를 수 있습니다.\n첫째, 각 사업장의 기준소득월액의 합이 기준소득월액의 상한액(2014년 6월 현재 398만원)에 달하지 못하는 경우에는 각 사업장에서 받고 있는 소득월액을 기준으로 각각의 기준소득월액을 결정합니다.\n둘째, 각 사업장의 기준소득월액의 합이 기준소득월액의 상한액(2014년 6월 현재 398만원)을 초과하는 경우에는 각 사업장의 기준소득월액이 그 합산된 소득월액에서 차지하는 비율을 최고금액의 기준소득월액에 곱하여 계산된 금액을 기준으로 각 사업장의 기준소득월액을 산정합니다.\n다소 복잡하다고 느끼실지 모르나, 두 곳에서의 총 소득액이 기준소득월액 상한액(현재 398만원) 이상이면 그 상한선에 해당하는 보험료를 내고, 상한선 미만일 경우에는 두 곳에서 보험료를 일정비율로 나누어 낸다고 보시면 됩니다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "Q. 두 군데의 사업장에서 근무하고 있는데 모두 가입을 해야 하나요?",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "A. 두 군데의 사업장에서 모두 가입해야 합니다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국민연금이 적용되는 두 군데의 사업장에서 근무할 경우, 양쪽 모두의 사업장에서 받는 소득월액을 기준으로 기준소득월액을 결정하며 연금보험료도 각각의 사업장에서 납부하게 됩니다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다만, 기준소득월액 결정 및 보험료 납부 등은 아래의 경우에 따라 다를 수 있습니다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "첫째, 각 사업장의 기준소득월액의 합이 기준소득월액의 상한액(2014년 6월 현재 398만원)에 달하지 못하는 경우에는 각 사업장에서 받고 있는 소득월액을 기준으로 각각의 기준소득월액을 결정합니다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "둘째, 각 사업장의 기준소득월액의 합이 기준소득월액의 상한액(2014년 6월 현재 398만원)을 초과하는 경우에는 각 사업장의 기준소득월액이 그 합산된 소득월액에서 차지하는 비율을 최고금액의 기준소득월액에 곱하여 계산된 금액을 기준으로 각 사업장의 기준소득월액을 산정합니다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다소 복잡하다고 느끼실지 모르나, 두 곳에서의 총 소득액이 기준소득월액 상한액(현재 398만원) 이상이면 그 상한선에 해당하는 보험료를 내고, 상한선 미만일 경우에는 두 곳에서 보험료를 일정비율로 나누어 낸다고 보시면 됩니다.",
+				"sentenceSize": 126
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "포스코, 인니 철강사업·신수도 건설 참여…글로벌 영향력 증대",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010500",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "나로과학위성, 고흥 우주센터로",
+		"newsSubTitle": "KAIST 떠나 나로호 탑재준비 착수… 10월 우주로",
+		"newsContent": "▲ 나로호 3차 발사에 탑재될 나로과학위성이 29일 오전 대전 카이스트 인공위성연구센터에서 전남 고흥 나로우주센터로 이송하기 위한 준비작업이 진행되고 있다.\n이민희 기자 photomin@ 나로호 3호에 탑재될 나로 과학위성이 29일 오전 9시 대전 KAIST에서 전남 고흥 나로 우주센터로 떠났다.\nKAIST 인공위성연구센터는 기상상황 등을 고려해 인공위성 이송을 결정했으며, 안전한 이송을 위해 항온, 학습, 무진동 트레일러를 이용했으며, 경찰청의 협조도 받았다.\n나로 과학위성은 KAIST를 출발한 지 약 8시간 만인 오후 5시께 나로 우주센터에 도착, 나로호 탑재 준비에 착수한다.\n나로 과학위성은 1992년 발사된 우리나라 최초의 위성인 우리별 1호에 이어 KAIST 인공위성연구센터에서 일곱 번째로 개발된 위성으로 지난 나로호 1, 2차 발사 시 탑재된 과학기술위성 2호의 기술을 활용해 순수 국내기술로 개발됐다.\n나로과학위성은 나로호 궤도진입 확인과 함께 우주방사선과 이온층 측정 등 우주과학임무, 펨토 초 레이저발진기ㆍ반작용 휠ㆍ적외선 영상 센서 등 국산화 기술의 우주검증을 수행하게 된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 나로호 3차 발사에 탑재될 나로과학위성이 29일 오전 대전 카이스트 인공위성연구센터에서 전남 고흥 나로우주센터로 이송하기 위한 준비작업이 진행되고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이민희 기자 photomin@ 나로호 3호에 탑재될 나로 과학위성이 29일 오전 9시 대전 KAIST에서 전남 고흥 나로 우주센터로 떠났다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KAIST 인공위성연구센터는 기상상황 등을 고려해 인공위성 이송을 결정했으며, 안전한 이송을 위해 항온, 학습, 무진동 트레일러를 이용했으며, 경찰청의 협조도 받았다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "나로 과학위성은 KAIST를 출발한 지 약 8시간 만인 오후 5시께 나로 우주센터에 도착, 나로호 탑재 준비에 착수한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "나로 과학위성은 1992년 발사된 우리나라 최초의 위성인 우리별 1호에 이어 KAIST 인공위성연구센터에서 일곱 번째로 개발된 위성으로 지난 나로호 1, 2차 발사 시 탑재된 과학기술위성 2호의 기술을 활용해 순수 국내기술로 개발됐다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "나로과학위성은 나로호 궤도진입 확인과 함께 우주방사선과 이온층 측정 등 우주과학임무, 펨토 초 레이저발진기ㆍ반작용 휠ㆍ적외선 영상 센서 등 국산화 기술의 우주검증을 수행하게 된다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "롯데마트, 제철 신선식품 기획전 연다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339214",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[SEDEX 2020]자동차에 공 들이는 삼성 메모리",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자는 반도체대전(SEDEX) 2020에서 자동차에 특화된 HBM2E, 솔리드스테이트드라이브(SSD), UFS3.1 등을 선보여 눈길을 끌었다.\n자동차의 전장화가 빨라지고, 자율주행차로 진화하면서 성장이 예상되는 차량용 반도체 수요에 적극 대응하는 모습이다.\n삼성전자는 이날 세계 최초의 차량용 8GB HBM2E를 공개했다.\nHBM2E는 실리콘관통전극(TSV) 기술을 적용해 금선을 이용한 기존 D램 패키지에 비해 데이터 처리 속도를 끌어올린 고대역폭메모리(High Bandwidth Memory 2 Extended)다.\n속도가 뛰어나 인공지능 기반 초고속 데이터 분석과 같은 고성능 시스템에 활용된다.\n자동차에 카메라 및 센서가 늘어나고 인포테인먼트 시스템이 발전하면서 고성능 메모리를 차량용으로 준비한 것으로 풀이된다.\n삼성전자가 선보인 HBM2E는 데이터전송률이 최대 409GB/s며, 차량용에 걸맞게 내구성을 갖춰 -40~105℃에서 동작 가능하다.\n삼성전자는 차량용 SSD도 선보였다.\nSSD는 낸드플래시로 구성된 저장장치다.\n데이터 저장 속도가 빨라 하드디스크드라이브(HDD)를 대체하고 있다.\n삼성전자는 자사의 차량용 SSD가 업계에서 가장 안정적인 성능을 지원한다고 소개했다.\n연속 읽기 속도는 초당 2300MB, 동작온도는 -40~105℃다.\n삼성은 이 밖에 연속 읽기 속도 1800MB를 지원하는 UFS 3.1 규격 낸드플래시와 인포메이션시스템(IVI)용 D램 LPDDR5도 전시했다.\n삼성전자는 각각의 반도체가 배치된 자동차 모형을 전시장 중심에 설치해 차량용 반도체 시장 공략에 대한 의지를 엿보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자는 반도체대전(SEDEX) 2020에서 자동차에 특화된 HBM2E, 솔리드스테이트드라이브(SSD), UFS3.1 등을 선보여 눈길을 끌었다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자동차의 전장화가 빨라지고, 자율주행차로 진화하면서 성장이 예상되는 차량용 반도체 수요에 적극 대응하는 모습이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성전자는 이날 세계 최초의 차량용 8GB HBM2E를 공개했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "HBM2E는 실리콘관통전극(TSV) 기술을 적용해 금선을 이용한 기존 D램 패키지에 비해 데이터 처리 속도를 끌어올린 고대역폭메모리(High Bandwidth Memory 2 Extended)다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "속도가 뛰어나 인공지능 기반 초고속 데이터 분석과 같은 고성능 시스템에 활용된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자동차에 카메라 및 센서가 늘어나고 인포테인먼트 시스템이 발전하면서 고성능 메모리를 차량용으로 준비한 것으로 풀이된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자가 선보인 HBM2E는 데이터전송률이 최대 409GB/s며, 차량용에 걸맞게 내구성을 갖춰 -40~105℃에서 동작 가능하다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성전자는 차량용 SSD도 선보였다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "SSD는 낸드플래시로 구성된 저장장치다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "데이터 저장 속도가 빨라 하드디스크드라이브(HDD)를 대체하고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "삼성전자는 자사의 차량용 SSD가 업계에서 가장 안정적인 성능을 지원한다고 소개했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "연속 읽기 속도는 초당 2300MB, 동작온도는 -40~105℃다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "삼성은 이 밖에 연속 읽기 속도 1800MB를 지원하는 UFS 3.1 규격 낸드플래시와 인포메이션시스템(IVI)용 D램 LPDDR5도 전시했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "삼성전자는 각각의 반도체가 배치된 자동차 모형을 전시장 중심에 설치해 차량용 반도체 시장 공략에 대한 의지를 엿보였다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[SEDEX 2020]자동차에 공 들이는 삼성 메모리",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

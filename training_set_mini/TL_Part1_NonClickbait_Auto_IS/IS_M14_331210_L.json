@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331210",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[단독]화웨이, 5G 장비 국제 CC인증 획득",
+		"newsSubTitle": "",
+		"newsContent": "화웨이 5세대(5G) 이동통신 장비가 국제 공통평가기준(CC) 인증을 획득했다.\n2018년 말 인증을 신청한 지 약 1년 반 만이다.\n국제보안평가상호인정협정(CCRA)에 따르면 스페인 보안인증기관 ENAC이 5일(현지시간) 화웨이 5G 장비에 대해 CC 인증서를 발급했다.\n화웨이가 롱텀에벌루션(LTE) 네트워크 장비, 데이터베이스, 가상화 제품으로 국제 CC인증을 받은 적은 있었지만 5G 장비는 처음이다.\n이번에 CC 인증을 받은 제품은 '화웨이 5900 시리즈 5G 지노드비 소프트웨어(SW)'다.\n제품명 가운데 '지노드비'는 이동통신표준화기구 3GPP에서 제정한 5G 기지국을 말한다. 5G 기지국은 안테나, 코어망 신호 전송 장비, 코어망 신호 취합 장비에 설치되는 SW 등 세 부분으로 구성된다.\n방식은 CC 인증 범위를 자체적으로 정한 후 평가를 받는 '시큐리티 타깃(ST)' 방식이다.\n보안 준수 등급은 SW 인증과 배포 시 안전성을 뜻하는 'EAL4+ ALC_FLR.2'를 받았다.\n국제 CC인증 유효기간은 인증서 발급일로부터 5년이다.\n이번 인증은 화웨이가 5G 데이터를 처리하는 SW 보안에 대한 국제 평가를 거쳤다는 의미다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "화웨이 5세대(5G) 이동통신 장비가 국제 공통평가기준(CC) 인증을 획득했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2018년 말 인증을 신청한 지 약 1년 반 만이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국제보안평가상호인정협정(CCRA)에 따르면 스페인 보안인증기관 ENAC이 5일(현지시간) 화웨이 5G 장비에 대해 CC 인증서를 발급했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "화웨이가 롱텀에벌루션(LTE) 네트워크 장비, 데이터베이스, 가상화 제품으로 국제 CC인증을 받은 적은 있었지만 5G 장비는 처음이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번에 CC 인증을 받은 제품은 '화웨이 5900 시리즈 5G 지노드비 소프트웨어(SW)'다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제품명 가운데 '지노드비'는 이동통신표준화기구 3GPP에서 제정한 5G 기지국을 말한다. 5G 기지국은 안테나, 코어망 신호 전송 장비, 코어망 신호 취합 장비에 설치되는 SW 등 세 부분으로 구성된다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방식은 CC 인증 범위를 자체적으로 정한 후 평가를 받는 '시큐리티 타깃(ST)' 방식이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "보안 준수 등급은 SW 인증과 배포 시 안전성을 뜻하는 'EAL4+ ALC_FLR.2'를 받았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "국제 CC인증 유효기간은 인증서 발급일로부터 5년이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이번 인증은 화웨이가 5G 데이터를 처리하는 SW 보안에 대한 국제 평가를 거쳤다는 의미다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독]화웨이, 5G 장비 국제 CC인증 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353946",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "KT AI 원팀, 산학연 공동연구로 4종 AI 기술 추가 개발",
+		"newsSubTitle": "null",
+		"newsContent": "KT는 'AI(인공지능)원팀'이 산학연 공동연구로 4종의 기술을 개발해 사업 및 서비스에 활용한다고 14일 밝혔다.\nKT의 AI 사업에 활용되는 기술은 △로봇 실내 공간지능 기술 △로봇 소셜 인터랙션(Social Interaction) 기술 △보이스 클로닝(Voice Cloning) 기술 △한국어 E2E 음성인식 트랜스퍼 러닝(Transfer learning) 등이다.\nAI원팀은 지난 2020년 2월 출범 이후 40여명의 국내 AI 전문가 그룹인 'AI구루(Guru)'를 구성해 기업의 난제를 논의해 왔다.\n이를 통해 산학연 공동 연구과제가 결정하고, 지난해 △무빙 픽처 △딥러닝 음성합성 등 4개 기술을 개발했고, 이번에도 4개 AI기술을 새로 공개했다.\n우선 로봇 실내 공간지능 기술은 KT와 명현 한국과학기술원(KAIST) 교수가 함께 개발했다.\n로봇이 실내 공간의 사물을 식별하고 위치를 기억하는 기술이다.\n로봇이 공간 내 사람이나 사물 등 객체의 종류와 위치를 인식해 3D 지도를 생성하거나 실시간 업데이트도 할 수 있다.\nAI원팀은 이 기술을 실내 자율주행에 접목하는 연구를 지속할 예정이다.\n로봇 소셜 인터랙션 기술은 KT와 윤성의 KAIST 교수 연구진이 함께 개발했다.\n사용자의 얼굴과 행동을 인식하고 로봇이 수행할 행동을 추천하는 알고리즘을 구현했다.\nKT로봇은 이 같은 개별 알고리즘을 연결해 로봇의 개인화된 상호작용을 구현한다.\nKT와 김회린 KAIST 교수가 공동 연구한 보이스 클로닝 기술은 개인화 음성합성을 위한 목소리 복원 알고리즘이다.\n개인의 오디오 샘플을 딥러닝으로 학습해 커스텀 보이스를 제공하는 개인화 TTS 서비스의 핵심 기술이다.\n연구진은 커스텀 보이스 학습에 필요한 녹음 시간을 기존 30분에서 3분으로 단축했다.\nKT와 장준혁 한양대 교수가 개발한 한국어 E2E 음성인식 트랜스퍼 러닝 기술은 기존 최고 성능을 내는 딥러닝 음성인식 모델 대비 에러율을 13.7% 떨어뜨렸다 .또 모델을 처음부터 다시 학습하는 것이 아닌 기존 모델을 재사용하는 방식으로 소량의 도메인 데이터를 활용한 음성인식 개선이 가능해졌다.\nAI 원팀은 KT를 비롯해 현대중공업그룹, LG전자, 한국투자증권, 동원그룹, 우리은행, ㈜한진, 한국과학기술원(KAIST), 한양대, 한국전자통신연구원(ETRI)까지 총 10개 산학연이 참여하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT는 'AI(인공지능)원팀'이 산학연 공동연구로 4종의 기술을 개발해 사업 및 서비스에 활용한다고 14일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT의 AI 사업에 활용되는 기술은 △로봇 실내 공간지능 기술 △로봇 소셜 인터랙션(Social Interaction) 기술 △보이스 클로닝(Voice Cloning) 기술 △한국어 E2E 음성인식 트랜스퍼 러닝(Transfer learning) 등이다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AI원팀은 지난 2020년 2월 출범 이후 40여명의 국내 AI 전문가 그룹인 'AI구루(Guru)'를 구성해 기업의 난제를 논의해 왔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 통해 산학연 공동 연구과제가 결정하고, 지난해 △무빙 픽처 △딥러닝 음성합성 등 4개 기술을 개발했고, 이번에도 4개 AI기술을 새로 공개했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우선 로봇 실내 공간지능 기술은 KT와 명현 한국과학기술원(KAIST) 교수가 함께 개발했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "로봇이 실내 공간의 사물을 식별하고 위치를 기억하는 기술이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "로봇이 공간 내 사람이나 사물 등 객체의 종류와 위치를 인식해 3D 지도를 생성하거나 실시간 업데이트도 할 수 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "AI원팀은 이 기술을 실내 자율주행에 접목하는 연구를 지속할 예정이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "로봇 소셜 인터랙션 기술은 KT와 윤성의 KAIST 교수 연구진이 함께 개발했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "사용자의 얼굴과 행동을 인식하고 로봇이 수행할 행동을 추천하는 알고리즘을 구현했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "KT로봇은 이 같은 개별 알고리즘을 연결해 로봇의 개인화된 상호작용을 구현한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "KT와 김회린 KAIST 교수가 공동 연구한 보이스 클로닝 기술은 개인화 음성합성을 위한 목소리 복원 알고리즘이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "개인의 오디오 샘플을 딥러닝으로 학습해 커스텀 보이스를 제공하는 개인화 TTS 서비스의 핵심 기술이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "연구진은 커스텀 보이스 학습에 필요한 녹음 시간을 기존 30분에서 3분으로 단축했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "KT와 장준혁 한양대 교수가 개발한 한국어 E2E 음성인식 트랜스퍼 러닝 기술은 기존 최고 성능을 내는 딥러닝 음성인식 모델 대비 에러율을 13.7% 떨어뜨렸다 .또 모델을 처음부터 다시 학습하는 것이 아닌 기존 모델을 재사용하는 방식으로 소량의 도메인 데이터를 활용한 음성인식 개선이 가능해졌다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "AI 원팀은 KT를 비롯해 현대중공업그룹, LG전자, 한국투자증권, 동원그룹, 우리은행, ㈜한진, 한국과학기술원(KAIST), 한양대, 한국전자통신연구원(ETRI)까지 총 10개 산학연이 참여하고 있다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT AI 원팀, 산학연 공동연구로 4종 AI 기술 추가 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

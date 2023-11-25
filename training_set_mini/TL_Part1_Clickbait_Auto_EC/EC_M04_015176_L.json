@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015176",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "207개 보험, 쇼핑하듯 비교하고 가입한다",
+		"newsSubTitle": "온라인 보험 슈퍼마켓 내달 30일 오픈",
+		"newsContent": "▲ 23일 오후 서울 종로구 그랑서울 나인트리 컨벤션에서 열린 제6차 핀테크지원센터 데모데이에서 임종룡 금융위원장이 핀테크 홍보대사 임시완과 함께 온라인보험슈퍼마켓 가입 시연을 하고 있다.\n/연합뉴스보험사별 다양한 상품을 인터넷에서 한눈에 비교하고 가입까지 할 수 있는 온라인 보험 슈퍼마켓이 내달 30일 오픈한다.\n소비자들은 복잡하고 다양한 보험 상품들을 보다 쉽게 접근할 수 있어 정보 취득에도 더욱 쉬워질 것으로 기대된다.\n23일 금융위원회와 보험업계는 오는 30일 온라인 보험 슈퍼마켓인 '보험다모아(www.e-insmarket.or.kr)'를 시범운영한다고 밝혔다.\n보험 슈퍼마켓이란 소비자가 인터넷에서 보험상품 가격정보 등을 비교하고 가입할 수 있는 온라인 플랫폼으로, 생명보험협회와 손해보험협회가 공동으로 운영한다.\n보험상품으로는 현재 단독실손보험(25개), 자동차보험(11개), 여행자보험(7개), 연금보험(36개), 보장성보험(85개), 저축성보험(43개) 등 6종 207개 상품이다.\n보험다모아에 참여 예정인 보험사는 손해보험사 13개사와 생명보험사 23개사 등 총 36개사다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 23일 오후 서울 종로구 그랑서울 나인트리 컨벤션에서 열린 제6차 핀테크지원센터 데모데이에서 임종룡 금융위원장이 핀테크 홍보대사 임시완과 함께 온라인보험슈퍼마켓 가입 시연을 하고 있다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "/연합뉴스보험사별 다양한 상품을 인터넷에서 한눈에 비교하고 가입까지 할 수 있는 온라인 보험 슈퍼마켓이 내달 30일 오픈한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소비자들은 복잡하고 다양한 보험 상품들을 보다 쉽게 접근할 수 있어 정보 취득에도 더욱 쉬워질 것으로 기대된다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "23일 금융위원회와 보험업계는 오는 30일 온라인 보험 슈퍼마켓인 '보험다모아(www.e-insmarket.or.kr)'를 시범운영한다고 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보험 슈퍼마켓이란 소비자가 인터넷에서 보험상품 가격정보 등을 비교하고 가입할 수 있는 온라인 플랫폼으로, 생명보험협회와 손해보험협회가 공동으로 운영한다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보험상품으로는 현재 단독실손보험(25개), 자동차보험(11개), 여행자보험(7개), 연금보험(36개), 보장성보험(85개), 저축성보험(43개) 등 6종 207개 상품이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "보험다모아에 참여 예정인 보험사는 손해보험사 13개사와 생명보험사 23개사 등 총 36개사다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"따뜻한 손길 나눠요\\\"…CJ그룹, 소외 이웃에 '사랑의 김치' 전달",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

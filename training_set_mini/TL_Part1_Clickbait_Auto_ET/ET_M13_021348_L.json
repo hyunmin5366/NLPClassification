@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_021348",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "美 90살 노배우, 할리우드 ‘명예의 거리’ 헌액 행사 중 더위로 실신",
+		"newsSubTitle": "",
+		"newsContent": "미국 노배우가 할리우드 야외 행사에 참석했다가 더위 때문에 한때 실신하는 아찔한 상황이 빚어졌다.\n21일(현지시간) CNN 방송 등에 따르면 미국 코미디의 전설로 평가받는 올해 90세의 여배우 말라 기브스M(marla Gibbs)가 20일 로스앤젤레스(LA)에서 열린 할리우드 ‘명예의 거리’(Walk of Fame) 헌액 행사에 주인공으로 연단에 올랐다가 갑자기 정신을 잃었다.\n기브스는 ‘명예의 거리’ 입성에 감사 인사를 전하며 웃는 얼굴로 연설을 하다 돌연 말을 멈춘 채 눈을 감았고 그의 몸은 옆으로 힘없이 기울어졌다.\n기브스가 바닥에 곧 쓰러질 것 같은 위태로운 찰나에 그의 아들은 연단으로 뛰어 올라가 부축했고 딸은 “어머니가 진정할 시간이 필요하다”고 외쳤다.\n당시 기온은 32도를 넘었고 행사는 기브스가 다시 의식을 회복할 때까지 중단됐다.\n다시 무대에 오른 기브스는 더위에다 흥분한 감정 때문에 정신을 잃었던 것 같다고 말했다.\n기브스는 1970∼90년대 미국 TV 시트콤에서 활동한 희극 배우로, ‘명예의 거리’에 2698번째로 이름을 올리는 스타가 됐다. ‘명예의 거리’는 영화와 드라마, 팝 음악 등에서 업적을 남긴 스타들 이름을 별 모양의 대리석 바닥에 새겨 전시해 놓은 LA의 명소다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 노배우가 할리우드 야외 행사에 참석했다가 더위 때문에 한때 실신하는 아찔한 상황이 빚어졌다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일(현지시간) CNN 방송 등에 따르면 미국 코미디의 전설로 평가받는 올해 90세의 여배우 말라 기브스M(marla Gibbs)가 20일 로스앤젤레스(LA)에서 열린 할리우드 ‘명예의 거리’(Walk of Fame) 헌액 행사에 주인공으로 연단에 올랐다가 갑자기 정신을 잃었다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기브스는 ‘명예의 거리’ 입성에 감사 인사를 전하며 웃는 얼굴로 연설을 하다 돌연 말을 멈춘 채 눈을 감았고 그의 몸은 옆으로 힘없이 기울어졌다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기브스가 바닥에 곧 쓰러질 것 같은 위태로운 찰나에 그의 아들은 연단으로 뛰어 올라가 부축했고 딸은 “어머니가 진정할 시간이 필요하다”고 외쳤다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 기온은 32도를 넘었고 행사는 기브스가 다시 의식을 회복할 때까지 중단됐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다시 무대에 오른 기브스는 더위에다 흥분한 감정 때문에 정신을 잃었던 것 같다고 말했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기브스는 1970∼90년대 미국 TV 시트콤에서 활동한 희극 배우로, ‘명예의 거리’에 2698번째로 이름을 올리는 스타가 됐다. ‘명예의 거리’는 영화와 드라마, 팝 음악 등에서 업적을 남긴 스타들 이름을 별 모양의 대리석 바닥에 새겨 전시해 놓은 LA의 명소다.",
+				"sentenceSize": 148
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'인기가요' 빅뱅, '우리 사랑하지 말아요' 첫 선 \\\"감성 무대\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012464",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "코레일, 철도노조에 162억 청구",
+		"newsSubTitle": "파업으로 인한 영업손실·위자료 명목… 설이후 징계결과 발표",
+		"newsContent": "코레일이 철도노조에 영업손실 및 파업 위자료 등 162억원을 청구했다.\n22일 코레일에 따르면 22일간이라는 최장기 파업기간을 기록, 영업손실과 브랜드 이미지 실추 위자료 명목으로 서울 서부지법에 이에 따른 162억원을 청구했다., 코레일은 대체인력 투입 비용 등은 다음 달 추가로 확정해 청구할 예정이다.\n앞서 코레일은 지난달 26일 철도노조의 예금, 채권, 부동산 등을 가압류했다.\n법원은 2006년 3월 파업 당시 150억원의 손실이 났다며 사측이 제기한 손해배상 소송에서 “69억9000만원과 이자를 배상하라”고 확정했다.\n한편, 현재 징계위원회 회부 대상의 상당수 노조원은 위원회 출석을 거부하는 것으로 알려졌다.\n이로인해, 코레일은 설 명절 이후 징계 결과를 한꺼번에 발표할 방침이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코레일이 철도노조에 영업손실 및 파업 위자료 등 162억원을 청구했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 코레일에 따르면 22일간이라는 최장기 파업기간을 기록, 영업손실과 브랜드 이미지 실추 위자료 명목으로 서울 서부지법에 이에 따른 162억원을 청구했다., 코레일은 대체인력 투입 비용 등은 다음 달 추가로 확정해 청구할 예정이다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 코레일은 지난달 26일 철도노조의 예금, 채권, 부동산 등을 가압류했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "법원은 2006년 3월 파업 당시 150억원의 손실이 났다며 사측이 제기한 손해배상 소송에서 “69억9000만원과 이자를 배상하라”고 확정했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 현재 징계위원회 회부 대상의 상당수 노조원은 위원회 출석을 거부하는 것으로 알려졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이로인해, 코레일은 설 명절 이후 징계 결과를 한꺼번에 발표할 방침이다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "관저4지구 도시개발 시행자 바뀌나",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

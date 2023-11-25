@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_018211",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "한은 대전충남본부 설 명절 자금 조달 위해 5050억원 발행",
+		"newsSubTitle": "",
+		"newsContent": "한국은행 대전충남본부가 설 명절 원활한 자금 조달을 위해 지역에 5050억원을 풀었다.\n29일 한은 대전충남본부에 따르면 1월 17일부터 28일까지 대전과 충남 금융기관을 통해 5050억원을 발행했다.\n올 설 화폐 발행은 2021년 5771억원을 발행한 것보다 12.5%(721억원) 하락했다.\n이는 비대면 거래 증가에 따른 현금 수요 감소가 작용했다.\n코로나19 영향으로 설 명절 가족과 친지 방문이 이뤄지지 못한 영향이 끼친 것으로 보인다.\n현금을 찾는 수요는 줄었지만, 지역에 자금이 풀리면서 경제 활성화가 될 것으로 전망된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국은행 대전충남본부가 설 명절 원활한 자금 조달을 위해 지역에 5050억원을 풀었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 한은 대전충남본부에 따르면 1월 17일부터 28일까지 대전과 충남 금융기관을 통해 5050억원을 발행했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올 설 화폐 발행은 2021년 5771억원을 발행한 것보다 12.5%(721억원) 하락했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 비대면 거래 증가에 따른 현금 수요 감소가 작용했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코로나19 영향으로 설 명절 가족과 친지 방문이 이뤄지지 못한 영향이 끼친 것으로 보인다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현금을 찾는 수요는 줄었지만, 지역에 자금이 풀리면서 경제 활성화가 될 것으로 전망된다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스타필드, '안성맞춤시장' 활성화 프로젝트…맛집로드로 리뉴얼 오픈",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

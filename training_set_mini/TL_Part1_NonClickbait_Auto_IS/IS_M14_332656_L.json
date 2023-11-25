@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332656",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "파워마스터 반도체, 1200V SiC MOSFET 상용화",
+		"newsSubTitle": "",
+		"newsContent": "파워마스터 반도체(대표 김태훈)는 국내 반도체 기업으로는 최초로 실리콘 카바이드를 사용해 기존 실리콘 솔루션 IGBT보다 전력손실을 줄인 1200V SiC MOSFET을 출시했다고 30일 밝혔다.\n출시된 제품은 태양광 인버터, 전기자동차 충전기, 무정전 공급장치 등 전력밀도, 에너지 효율성, 신뢰성이 중요시되는 산업용 애플리케이션에 특화한 고효율 버전이다.\n회사 측은 1200V, 80mΩ, PCW120N80M1 제품을 먼저 출시했다.\n향후 20~90mΩ의 5개 제품을 표면실장형과 스루홀 방식의 패키지 타입으로 라인업 할 예정이다.\n하반기에는 전기자동차 구동 인버터에 특화한 고신뢰성 버전도 출시한다.\nPCW120N80M1는 입력∙출력 커패시턴스와 게이트-입력 전하량을 낮춰 실리콘 솔루션인 IGBT와 비교해 턴오프 스위칭 손실과 스위칭 타임을 획기적으로 줄였다.\n성능지수(FOM:RDS(on) x Qg)에서 SiC MOSFET의 선진사인 인피니온, 울프스피드와 견줄만한 특성을 확보, 소자의 효율평가에서 세계 최고 수준을 보여준다.\n전도∙스위칭 손실이 낮고 극도로 낮은 누설 전류와 결합해 열 관리를 간소화할 수 있다.\n개발자 입장에서는 수동소자와 냉각기 등 외부 부품을 더 작게 지정하고 크기와 무게, 제조 비용을 줄이면서 신뢰성 높은 애플리케이션 개발이 가능하다.\n출시된 제품은 충북 청주의 자사 SiC 6인치 전용라인에서 양산된다.\n한편 파워마스터 반도체는 페어차일드 고전력 사업총괄부장 출신 김태훈 대표가 같이 근무했던 핵심인재를 규합해 지난 2018년 창업한 전력 반도체 업체다.\n국내 유일의 실리콘 8인치 및 실리콘 카바이드 6인치 전력반도체 전용팹을 완성했고 2020년 단위면적당 저항이 세계 수준인 수퍼정션 MOSFET을 출시했다.\n2021년 국내 최초로 전력 반도체 선진사만이 보유한 MPS기반 실리콘카바이드 다이오드를 출시했다.\n회사 관계자는 \\\"국내 유수의 반도체 회사와 협업을 통해 국내 전력 반도체 생태계를 확대하고 있다\\\"며 \\\"국내 유일 실리콘(Si)과 실리콘 카바이드(SiC) 제품을 갖춘 회사로써 세계적인 종합 파워 반도체로 빠르게 성장하고 있다\\\"고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "파워마스터 반도체(대표 김태훈)는 국내 반도체 기업으로는 최초로 실리콘 카바이드를 사용해 기존 실리콘 솔루션 IGBT보다 전력손실을 줄인 1200V SiC MOSFET을 출시했다고 30일 밝혔다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "출시된 제품은 태양광 인버터, 전기자동차 충전기, 무정전 공급장치 등 전력밀도, 에너지 효율성, 신뢰성이 중요시되는 산업용 애플리케이션에 특화한 고효율 버전이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "회사 측은 1200V, 80mΩ, PCW120N80M1 제품을 먼저 출시했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "향후 20~90mΩ의 5개 제품을 표면실장형과 스루홀 방식의 패키지 타입으로 라인업 할 예정이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하반기에는 전기자동차 구동 인버터에 특화한 고신뢰성 버전도 출시한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "PCW120N80M1는 입력∙출력 커패시턴스와 게이트-입력 전하량을 낮춰 실리콘 솔루션인 IGBT와 비교해 턴오프 스위칭 손실과 스위칭 타임을 획기적으로 줄였다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "성능지수(FOM:RDS(on) x Qg)에서 SiC MOSFET의 선진사인 인피니온, 울프스피드와 견줄만한 특성을 확보, 소자의 효율평가에서 세계 최고 수준을 보여준다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전도∙스위칭 손실이 낮고 극도로 낮은 누설 전류와 결합해 열 관리를 간소화할 수 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "개발자 입장에서는 수동소자와 냉각기 등 외부 부품을 더 작게 지정하고 크기와 무게, 제조 비용을 줄이면서 신뢰성 높은 애플리케이션 개발이 가능하다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "출시된 제품은 충북 청주의 자사 SiC 6인치 전용라인에서 양산된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한편 파워마스터 반도체는 페어차일드 고전력 사업총괄부장 출신 김태훈 대표가 같이 근무했던 핵심인재를 규합해 지난 2018년 창업한 전력 반도체 업체다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "국내 유일의 실리콘 8인치 및 실리콘 카바이드 6인치 전력반도체 전용팹을 완성했고 2020년 단위면적당 저항이 세계 수준인 수퍼정션 MOSFET을 출시했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "2021년 국내 최초로 전력 반도체 선진사만이 보유한 MPS기반 실리콘카바이드 다이오드를 출시했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "회사 관계자는 \\\"국내 유수의 반도체 회사와 협업을 통해 국내 전력 반도체 생태계를 확대하고 있다\\\"며 \\\"국내 유일 실리콘(Si)과 실리콘 카바이드(SiC) 제품을 갖춘 회사로써 세계적인 종합 파워 반도체로 빠르게 성장하고 있다\\\"고 설명했다.",
+				"sentenceSize": 137
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파워마스터 반도체, 1200V SiC MOSFET 상용화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

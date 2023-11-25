@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011937",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "관세청, 스마트폰 해외 밀반출관리 '구멍'",
+		"newsSubTitle": "올 상반기 전국 469대 적발 그쳐",
+		"newsContent": "관세청의 분실 또는 도난된 스마트폰 해외 밀반출 관리가 부실한 것으로 드러났다.\n민주당 이낙연 의원(전남 담양ㆍ함평ㆍ영광ㆍ장성)이 관세청으로부터 제출받은 자료에 따르면, 올 상반기 전국의 세관이 적발한 반출 스마트폰은 469대에 불과한 것으로 나타났다.\n이는 지난해 인천공항세관이 적발한 2350대의 5분의 1 수준이다.\n스마트폰의 해외 반출은 매년 증가 추세로 연간 1000만대 가량의 스마트폰이 반출되는 것으로 추산되고 있다.\n이 가운데 분실된 스마트폰은 유심칩(USIMㆍ범용가입자식별모듈)만 교체하면 해외에서 바로 사용할 수 있어 범죄의 유인이 크다.\n이처럼 분실·도난 스마트폰의 불법 유통이 문제되자 관세청은 지난해부터 인천공항세관을 중심으로 검사를 강화했고, 올해는 전국의 세관에 특별 지시해 검사를 확대했다.\n그러나 확대 시행 반년이 지났으나, 오히려 적발 건수는 작년의 5분의 1로 줄었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "관세청의 분실 또는 도난된 스마트폰 해외 밀반출 관리가 부실한 것으로 드러났다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "민주당 이낙연 의원(전남 담양ㆍ함평ㆍ영광ㆍ장성)이 관세청으로부터 제출받은 자료에 따르면, 올 상반기 전국의 세관이 적발한 반출 스마트폰은 469대에 불과한 것으로 나타났다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난해 인천공항세관이 적발한 2350대의 5분의 1 수준이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스마트폰의 해외 반출은 매년 증가 추세로 연간 1000만대 가량의 스마트폰이 반출되는 것으로 추산되고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 가운데 분실된 스마트폰은 유심칩(USIMㆍ범용가입자식별모듈)만 교체하면 해외에서 바로 사용할 수 있어 범죄의 유인이 크다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이처럼 분실·도난 스마트폰의 불법 유통이 문제되자 관세청은 지난해부터 인천공항세관을 중심으로 검사를 강화했고, 올해는 전국의 세관에 특별 지시해 검사를 확대했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 확대 시행 반년이 지났으나, 오히려 적발 건수는 작년의 5분의 1로 줄었다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[갤럭시언팩 2] 갤럭시워치, 이번엔 메종키즈네와 랑데뷰",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

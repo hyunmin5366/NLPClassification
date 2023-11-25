@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332172",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "컴퓨터 사상 최악의 취약점 발견...국정원 \\\"실태파악·보안패치 안내\\\"",
+		"newsSubTitle": "",
+		"newsContent": "국정원은 11일 인터넷 서버용 소프트웨어인 '로그4j(log4j)'에서 심각한 해킹을 야기할 수 있는 취약점이 발견됐다는 외신보도와 관련, 자정부터 실태 파악, 정보공유, 보안패치 안내 등 선제 조치를 취했다고 밝혔다.\n국정원의 긴급 점검 결과, 현재까지 국가·공공기관 대상 관련 해킹 피해 사례는 없는 것으로 확인됐다.\n국정원은 피해 예방을 위해 취약점 보안패치 적용 등 보안 대책을 국가사이버위협정보공유시스템(NCTI), 인터넷용정보공유시스템(KCTI)과 사이버안보센터 홈페이지를 통해 안내했다.\n앞서 AP통신은 10일(현지 시각) 세계 인터넷 서버에서 광범위하게 사용되는 소프트웨어에서 치명적 보안 취약점이 발견됐다고 보도했다.\n문제가 지적된 소프트웨어는 오픈소스 로깅 라이브러리 '로그4j'(log4j)다.\n로깅이란 서버·프로그램 등의 유지 관리를 목적으로 동작 상태를 기록으로 남기는 일을 말한다.\n사실상 거의 모든 서버가 이 라이브러리를 사용하는 것으로 알려졌다.\n해커가 이 취약점을 공격하면 목표 대상 컴퓨터의 모든 권한을 취득할 수 있다.\n비밀번호도 없이 서버를 통해 내부망에 접근해 데이터 약탈, 악성 프로그램 실행, 자료 삭제 등을 할 수도 있다고 AP통신은 보도했다.\n이 취약점은 역대 비디오게임 판매량 1위 온라인게임 '마인크래프트'에서 처음 확인됐다.\n마인크래프트를 보유하고 있는 마이크로소프트는 즉시 업데이트를 적용하고 “업데이트를 적용한 고객들은 보호받을 수 있다”고 공지했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국정원은 11일 인터넷 서버용 소프트웨어인 '로그4j(log4j)'에서 심각한 해킹을 야기할 수 있는 취약점이 발견됐다는 외신보도와 관련, 자정부터 실태 파악, 정보공유, 보안패치 안내 등 선제 조치를 취했다고 밝혔다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국정원의 긴급 점검 결과, 현재까지 국가·공공기관 대상 관련 해킹 피해 사례는 없는 것으로 확인됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국정원은 피해 예방을 위해 취약점 보안패치 적용 등 보안 대책을 국가사이버위협정보공유시스템(NCTI), 인터넷용정보공유시스템(KCTI)과 사이버안보센터 홈페이지를 통해 안내했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 AP통신은 10일(현지 시각) 세계 인터넷 서버에서 광범위하게 사용되는 소프트웨어에서 치명적 보안 취약점이 발견됐다고 보도했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "문제가 지적된 소프트웨어는 오픈소스 로깅 라이브러리 '로그4j'(log4j)다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "로깅이란 서버·프로그램 등의 유지 관리를 목적으로 동작 상태를 기록으로 남기는 일을 말한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사실상 거의 모든 서버가 이 라이브러리를 사용하는 것으로 알려졌다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해커가 이 취약점을 공격하면 목표 대상 컴퓨터의 모든 권한을 취득할 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "비밀번호도 없이 서버를 통해 내부망에 접근해 데이터 약탈, 악성 프로그램 실행, 자료 삭제 등을 할 수도 있다고 AP통신은 보도했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 취약점은 역대 비디오게임 판매량 1위 온라인게임 '마인크래프트'에서 처음 확인됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "마인크래프트를 보유하고 있는 마이크로소프트는 즉시 업데이트를 적용하고 “업데이트를 적용한 고객들은 보호받을 수 있다”고 공지했다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "컴퓨터 사상 최악의 취약점 발견...국정원 \\\"실태파악·보안패치 안내\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

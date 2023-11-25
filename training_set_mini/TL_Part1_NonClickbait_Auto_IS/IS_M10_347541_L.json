@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347541",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "중국서 네이버 카페·블로그 '먹통'…中 정부가 차단?",
+		"newsSubTitle": "null",
+		"newsContent": "중국에서 네이버 카페와 블로그 접속이 차단되고 주요 서비스가 나흘째 원활하게 운영되지 않는 것으로 전해졌다.\n19일 IT업계에 따르면 네이버 블로그는 지난 16일부터 중국 현지에서 접속되지 않고 있다.\n네이버 카페 역시 16일부터 차단됐다가 17일 한때 접속이 가능했으나 18일부터는 다시 막힌 상태다.\n현재 검색 화면이나 메일 등 서비스는 접속이 가능하다.\n네이버 관계자는 \\\"중국에서 일부 서비스가 차단된 원인을 파악할 수 없다\\\"며 \\\"사실이라도 중국정부에서 하는 거라면 네이버 측에서 할 수 있는 조치가 없다\\\"고 말했다.\n중국에서는 해외 인터넷 서비스 접속 차단이 이뤄진 것은 이번이 처음이 아니다.\n지난 2014년 7월부터는 중국 일부 지역에서 메신저인 카카오톡과 라인의 접속이 차단되고 있다.\n당시 중국은 차단 한 달 여만에 우리 정부에 \\\"카카오톡·라인이 테러 정보의 유통 수단으로 활용되고 있어 중국 내 접속을 차단했다\\\"는 입장을 전달한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국에서 네이버 카페와 블로그 접속이 차단되고 주요 서비스가 나흘째 원활하게 운영되지 않는 것으로 전해졌다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 IT업계에 따르면 네이버 블로그는 지난 16일부터 중국 현지에서 접속되지 않고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버 카페 역시 16일부터 차단됐다가 17일 한때 접속이 가능했으나 18일부터는 다시 막힌 상태다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 검색 화면이나 메일 등 서비스는 접속이 가능하다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버 관계자는 \\\"중국에서 일부 서비스가 차단된 원인을 파악할 수 없다\\\"며 \\\"사실이라도 중국정부에서 하는 거라면 네이버 측에서 할 수 있는 조치가 없다\\\"고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중국에서는 해외 인터넷 서비스 접속 차단이 이뤄진 것은 이번이 처음이 아니다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 2014년 7월부터는 중국 일부 지역에서 메신저인 카카오톡과 라인의 접속이 차단되고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "당시 중국은 차단 한 달 여만에 우리 정부에 \\\"카카오톡·라인이 테러 정보의 유통 수단으로 활용되고 있어 중국 내 접속을 차단했다\\\"는 입장을 전달한 것으로 알려졌다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중국서 네이버 카페·블로그 '먹통'…中 정부가 차단?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

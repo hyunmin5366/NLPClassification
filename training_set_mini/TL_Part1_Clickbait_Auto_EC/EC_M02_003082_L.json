@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003082",
+		"newsCategory": "경제",
+		"newsSubcategory": "증권",
+		"newsTitle": "신한금융투자, 플레인 콜 'ELS 20604호' 모집",
+		"newsSubTitle": "12일 오후 1시까지 총 30억원 규모로 공모",
+		"newsContent": "신한금융투자는 오는 12일 오후 1시까지 'ELS(주가연계증권) 20604호'를 총 30억원 규모로 공모한다고 9일 밝혔다.\n신한금융투자 관계자는 미디어SR에 \\\"이번에 출시되는 ELS 20604호는 삼성전자 보통주와 현대자동차 보통주를 기초자산으로 하는 1년 만기 상품\\\"이라며 \\\"만기평가일 기초자산의 3일 종가의 평균값이 모두 최초 기준가격의 100%보다 크거나 같은 경우 상승률이 가장 낮은 기초자산을 기준으로 150% 참여율로 수익을 지급한다\\\"고 말했다.\n반면 하락의 경우 하락률이 큰 기초자산의 만기평가가격이 최초기준가격의 0% 미만이면 하락률의 50%만큼 손실이 발생한다.\n다만, 아무리 하락해도 손실률은 50%로 제한된다.\n위 상품의 최소 청약금액은 100만원이며 신한금융투자 영업점 및 온라인 채널에서 청약이 가능하다.\n이 상품은 기초자산의 가격에 연계해 투자상품의 수익률이 결정되므로 기초자산이 가격조건을 충족하지 못할 경우 원금손실(0~-50%)이 발생할 수 있다.\n표기된 모든 수익률은 세전 수익률이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신한금융투자는 오는 12일 오후 1시까지 'ELS(주가연계증권) 20604호'를 총 30억원 규모로 공모한다고 9일 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신한금융투자 관계자는 미디어SR에 \\\"이번에 출시되는 ELS 20604호는 삼성전자 보통주와 현대자동차 보통주를 기초자산으로 하는 1년 만기 상품\\\"이라며 \\\"만기평가일 기초자산의 3일 종가의 평균값이 모두 최초 기준가격의 100%보다 크거나 같은 경우 상승률이 가장 낮은 기초자산을 기준으로 150% 참여율로 수익을 지급한다\\\"고 말했다.",
+				"sentenceSize": 190
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "반면 하락의 경우 하락률이 큰 기초자산의 만기평가가격이 최초기준가격의 0% 미만이면 하락률의 50%만큼 손실이 발생한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다만, 아무리 하락해도 손실률은 50%로 제한된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "위 상품의 최소 청약금액은 100만원이며 신한금융투자 영업점 및 온라인 채널에서 청약이 가능하다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 상품은 기초자산의 가격에 연계해 투자상품의 수익률이 결정되므로 기초자산이 가격조건을 충족하지 못할 경우 원금손실(0~-50%)이 발생할 수 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "표기된 모든 수익률은 세전 수익률이다.",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "롯데마트, 31일까지 금어기 끝난 꽃게 선봬",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

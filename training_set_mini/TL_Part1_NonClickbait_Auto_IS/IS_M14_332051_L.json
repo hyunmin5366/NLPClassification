@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332051",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "[2017서울모터쇼]네이버, 머신러닝 활용한 자율주행차·차량 IVI 플랫폼 공개",
+		"newsSubTitle": "",
+		"newsContent": "네이버 자율주행차 기술이 베일을 벗었다.\n기계학습 일종인 딥러닝을 활용, 카메라만으로 사각지대를 감지한다.\n차량용 인포테인먼트(IVI) 플랫폼, 실내측위 로봇 'M1'과 함께 실내외 공간과 정보를 연결하는 '생활환경지능'을 구현한다.\n네이버는 30일 일산 킨텍스에서 열린 '2017 서울모터쇼' 프레스데이에서 자율주행 기술을 공개했다.\n네이버 연구 자회사 '네이버랩스'에서 개발한 자율주행차 기술은 이달 국토부 도로주행 임시허가를 받았다.\n미국자동차공학회(SAE) 자율주행 기준 레벨3 수준이다.\n완전자율주행을 구현하려면 레벨4를 달성해야 한다.\n딥러닝 기반 이미지 인식 기술로 센서가 아닌 카메라만으로 사각지대감지(BSD) 기능을 구현한다.\n도로 위 사물을 분류하고 차종에 따른 특성을 반영해 경로를 계획한다.\n측후방 영상 빈 공간을 판단해 차선변경 가능 여부를 확인한다.\n센서보다 저렴하고 센서 오작동 시 사고를 방지한다.\n송창현 네이버랩스 대표는 \\\"실제 도로주행을 통해 데이터를 축적하며 고도화를 추진 중\\\"이라며 \\\"사업보다 도로환경을 정보화해 공간에 맞는 정보를 연결하는 데 초점을 맞췄다\\\"고 설명했다.\n차량용 인포테인먼트(IVI:in-vehicle infotainment)와 3차원 실내 지도 맵핑 로봇 'M1'을 공개 시연했다.\nIVI 플랫폼은 일반 차량을 커넥티드카처럼 활용하도록 돕는다.\n네이버 로그인 기반으로 차 안에서 즐기는 음악∙TV 등 엔터테인먼트와 날씨∙검색∙길 안내 등 다양한 정보를 제공한다.\n안전을 위해 음성 기반으로 운용된다.\nM1은 실시간 3차원 실내지도를 제작하는 기술과 자율주행기술이 결합됐다.\n공간과 정보를 연결해 이용자 편의성을 높이는 '생활환경지능' 일환이다.\n공간과 공간, 실내와 실외를 잇는 이동 시 필요한 정보를 적재적소에 제공한다.\n자율주행 기술과 M1의 3D 실내 지도 제작 기술은 생활환경지능 구현을 위한 공간정보 수집∙데이터화를 위한 작업이다.\nIVI플랫폼은 이동 시 이용자를 방해하지 않으면서 정보를 제공하는 도구다.\n향후 IVI 플랫폼 개방으로 이동 서비스 관련 생태계 조성과 기술 선순환에 나선다.\n송 대표는 \\\"네이버랩스가 추구하는 기술 방향성 생활환경지능은 생활 속 다양한 상황을 인지해 필요한 순간에 정확한 정보를 제공하는 기술과 서비스\\\"라면서 \\\"사용자 발길이 닿는 무수한 공간과 이동 경로를 데이터화해 생활 속에 자연스럽게 스며드는 솔루션을 제공할 것\\\"이라고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버 자율주행차 기술이 베일을 벗었다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기계학습 일종인 딥러닝을 활용, 카메라만으로 사각지대를 감지한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "차량용 인포테인먼트(IVI) 플랫폼, 실내측위 로봇 'M1'과 함께 실내외 공간과 정보를 연결하는 '생활환경지능'을 구현한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버는 30일 일산 킨텍스에서 열린 '2017 서울모터쇼' 프레스데이에서 자율주행 기술을 공개했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버 연구 자회사 '네이버랩스'에서 개발한 자율주행차 기술은 이달 국토부 도로주행 임시허가를 받았다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미국자동차공학회(SAE) 자율주행 기준 레벨3 수준이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "완전자율주행을 구현하려면 레벨4를 달성해야 한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "딥러닝 기반 이미지 인식 기술로 센서가 아닌 카메라만으로 사각지대감지(BSD) 기능을 구현한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "도로 위 사물을 분류하고 차종에 따른 특성을 반영해 경로를 계획한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "측후방 영상 빈 공간을 판단해 차선변경 가능 여부를 확인한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "센서보다 저렴하고 센서 오작동 시 사고를 방지한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "송창현 네이버랩스 대표는 \\\"실제 도로주행을 통해 데이터를 축적하며 고도화를 추진 중\\\"이라며 \\\"사업보다 도로환경을 정보화해 공간에 맞는 정보를 연결하는 데 초점을 맞췄다\\\"고 설명했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "차량용 인포테인먼트(IVI:in-vehicle infotainment)와 3차원 실내 지도 맵핑 로봇 'M1'을 공개 시연했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "IVI 플랫폼은 일반 차량을 커넥티드카처럼 활용하도록 돕는다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "네이버 로그인 기반으로 차 안에서 즐기는 음악∙TV 등 엔터테인먼트와 날씨∙검색∙길 안내 등 다양한 정보를 제공한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "안전을 위해 음성 기반으로 운용된다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "M1은 실시간 3차원 실내지도를 제작하는 기술과 자율주행기술이 결합됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "공간과 정보를 연결해 이용자 편의성을 높이는 '생활환경지능' 일환이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "공간과 공간, 실내와 실외를 잇는 이동 시 필요한 정보를 적재적소에 제공한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "자율주행 기술과 M1의 3D 실내 지도 제작 기술은 생활환경지능 구현을 위한 공간정보 수집∙데이터화를 위한 작업이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "IVI플랫폼은 이동 시 이용자를 방해하지 않으면서 정보를 제공하는 도구다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "향후 IVI 플랫폼 개방으로 이동 서비스 관련 생태계 조성과 기술 선순환에 나선다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "송 대표는 \\\"네이버랩스가 추구하는 기술 방향성 생활환경지능은 생활 속 다양한 상황을 인지해 필요한 순간에 정확한 정보를 제공하는 기술과 서비스\\\"라면서 \\\"사용자 발길이 닿는 무수한 공간과 이동 경로를 데이터화해 생활 속에 자연스럽게 스며드는 솔루션을 제공할 것\\\"이라고 강조했다.",
+				"sentenceSize": 158
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2017서울모터쇼]네이버, 머신러닝 활용한 자율주행차·차량 IVI 플랫폼 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

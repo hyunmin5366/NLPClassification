@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324762",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "아시아나IDT, 원익로보틱스와 서비스로봇 분야 협력",
+		"newsSubTitle": "",
+		"newsContent": "아시아나IDT는 원익로보틱스와 서비스로봇 분야 기술협력과 공동 영업 마케팅 협력에 나선다.\n원익로보틱스는 포터로봇, 안내로봇 등 로봇하드웨어(HW)와 로봇소프트웨어(SW) 요소기술을 보유한 로보틱스 전문기업이다.\n인천국제공항 쇼핑도우미 로봇시범서비스 등을 공급했다.\n아시아나IDT는 항공·버스·철도·공항·터미널 등 교통·운송 분야 IT 구축과 유지보수 수행 경험을 보유한 운송IT 전문 기업이다.\n예약·발매, 여객처리, 운항, 화물, 정비, 차량관리 등 분야에서 특화 기술과 솔루션을 보유한다.\n빅데이터 분석 솔루션 '인사이트아이(Insight-Eye)'를 한국소비자원, 국립재난안전연구원, 롯데제과 등에 적용했다.\n상반기 원익로보틱스와 인천국제공항 쇼핑도우미 로봇 시범서비스 시범 사업을 수행했다.\n이경수 아시아나IDT 공항·운송부문 상무는 “강점 분야인 항공, 공항, 운송, 건설, 금융 등 분야에 적용하는 AI, 빅데이터, 로봇 컨텐츠 기술 역량 강화와 서비스 모델 발굴에 주력하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아시아나IDT는 원익로보틱스와 서비스로봇 분야 기술협력과 공동 영업 마케팅 협력에 나선다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "원익로보틱스는 포터로봇, 안내로봇 등 로봇하드웨어(HW)와 로봇소프트웨어(SW) 요소기술을 보유한 로보틱스 전문기업이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인천국제공항 쇼핑도우미 로봇시범서비스 등을 공급했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아시아나IDT는 항공·버스·철도·공항·터미널 등 교통·운송 분야 IT 구축과 유지보수 수행 경험을 보유한 운송IT 전문 기업이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "예약·발매, 여객처리, 운항, 화물, 정비, 차량관리 등 분야에서 특화 기술과 솔루션을 보유한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "빅데이터 분석 솔루션 '인사이트아이(Insight-Eye)'를 한국소비자원, 국립재난안전연구원, 롯데제과 등에 적용했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "상반기 원익로보틱스와 인천국제공항 쇼핑도우미 로봇 시범서비스 시범 사업을 수행했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이경수 아시아나IDT 공항·운송부문 상무는 “강점 분야인 항공, 공항, 운송, 건설, 금융 등 분야에 적용하는 AI, 빅데이터, 로봇 컨텐츠 기술 역량 강화와 서비스 모델 발굴에 주력하겠다”고 말했다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아시아나IDT, 원익로보틱스와 서비스로봇 분야 협력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

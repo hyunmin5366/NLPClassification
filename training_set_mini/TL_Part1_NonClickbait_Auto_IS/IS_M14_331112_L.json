@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331112",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "펜타시큐리티 통합인증보안 플랫폼 'ISign+' 인기",
+		"newsSubTitle": "",
+		"newsContent": "보안솔루션 전문업체 펜타시큐리티(대표 이석우)는 일반 SSO(Single Sign On) 기능에 높은 보안성을 보장하는 보안SSO(SecureSSO) 솔루션 '아이사인플러스(ISign+)'가 인기를 얻고 있다고 밝혔다.\nSSO는 사용자 수가 많고 분산된 기업 업무환경에서 복잡한 계정관리에 따른 보안문제, 관리자의 통합관리 어려움, 사용자의 정보관리 불편 등 문제를 해결하기 위한 통합인증보안 플랫폼이다.\n아이사인플러스는 국정원 검증필 암호모듈을 사용해 강력한 보안성을 보장하며 화이트·블랙리스트 기반 IP 접근제어 등 다양한 보안기능을 제공한다.\n통합인증보안 기능을 국내 최초로 단일 하드웨어에 모두 탑재해 인증서버, 관리도구, DB서버 등 추가장비 없이 사용 가능하다.\n구축시간 및 비용을 절감할 수 있고 유지보수 및 기술지원도 간편하다고 이 회사는 밝혔다.\n최근 시간과 공간 제약 없는 모바일 서비스가 늘어나면서 사용자 편의 중심 서비스와 보안성을 갖춘 사용자 인증을 동시에 충족하는 생체인증 기술이 도입되고 있다.\n생체인증은 인증수단 복제가 어렵고 분실 위험이 없기 때문에 패스워드, PIN 등 여타 인증수단에 비해 안전성 측면에서 높은 평가를 받고 있다.\n이같은 시장 요구에 따라 아이사인플러스는 생체인증 관련기능을 강화해 'FIDO UAF 1.0 Client, Authenticator'와 'FIDO U2F 1.0 Server' 인증을 획득했다. 'FIDO(Fast Identity Online)'는 지문, 홍채, 안면 인식 등 생체인증을 활용하는 사용자 인증 방식이다.\n기존 생체인증 방식 단점으로 지적되던 안정성 문제 해결을 위해 인증프로토콜과 인증수단을 분리함으로써 보안성과 편의성을 보장하는 차세대 생체인증 기술 국제표준규격이다.\n아이사인플러스는 패스워드, 공인인증서, 스마트카드 등 기존 인증수단 이용 인증채널 및 인증체계 보안 외에 추가로 FIDO기반 생체인증, MOTP, 사설 PKI 등 다양한 인증수단을 적용해 보안성과 편의성을 높였다.\n펜타시큐리티는 아이사인플러스가 스마트카, 스마트팩토리, 스마트홈 등 다양한 사물인터넷(IoT ) 산업분야 통합인증보안 플랫폼으로 적용범위를 점차 확대하고 있다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보안솔루션 전문업체 펜타시큐리티(대표 이석우)는 일반 SSO(Single Sign On) 기능에 높은 보안성을 보장하는 보안SSO(SecureSSO) 솔루션 '아이사인플러스(ISign+)'가 인기를 얻고 있다고 밝혔다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SSO는 사용자 수가 많고 분산된 기업 업무환경에서 복잡한 계정관리에 따른 보안문제, 관리자의 통합관리 어려움, 사용자의 정보관리 불편 등 문제를 해결하기 위한 통합인증보안 플랫폼이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이사인플러스는 국정원 검증필 암호모듈을 사용해 강력한 보안성을 보장하며 화이트·블랙리스트 기반 IP 접근제어 등 다양한 보안기능을 제공한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "통합인증보안 기능을 국내 최초로 단일 하드웨어에 모두 탑재해 인증서버, 관리도구, DB서버 등 추가장비 없이 사용 가능하다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구축시간 및 비용을 절감할 수 있고 유지보수 및 기술지원도 간편하다고 이 회사는 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 시간과 공간 제약 없는 모바일 서비스가 늘어나면서 사용자 편의 중심 서비스와 보안성을 갖춘 사용자 인증을 동시에 충족하는 생체인증 기술이 도입되고 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "생체인증은 인증수단 복제가 어렵고 분실 위험이 없기 때문에 패스워드, PIN 등 여타 인증수단에 비해 안전성 측면에서 높은 평가를 받고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이같은 시장 요구에 따라 아이사인플러스는 생체인증 관련기능을 강화해 'FIDO UAF 1.0 Client, Authenticator'와 'FIDO U2F 1.0 Server' 인증을 획득했다. 'FIDO(Fast Identity Online)'는 지문, 홍채, 안면 인식 등 생체인증을 활용하는 사용자 인증 방식이다.",
+				"sentenceSize": 177
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기존 생체인증 방식 단점으로 지적되던 안정성 문제 해결을 위해 인증프로토콜과 인증수단을 분리함으로써 보안성과 편의성을 보장하는 차세대 생체인증 기술 국제표준규격이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "아이사인플러스는 패스워드, 공인인증서, 스마트카드 등 기존 인증수단 이용 인증채널 및 인증체계 보안 외에 추가로 FIDO기반 생체인증, MOTP, 사설 PKI 등 다양한 인증수단을 적용해 보안성과 편의성을 높였다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "펜타시큐리티는 아이사인플러스가 스마트카, 스마트팩토리, 스마트홈 등 다양한 사물인터넷(IoT ) 산업분야 통합인증보안 플랫폼으로 적용범위를 점차 확대하고 있다고 밝혔다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "펜타시큐리티 통합인증보안 플랫폼 'ISign+' 인기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

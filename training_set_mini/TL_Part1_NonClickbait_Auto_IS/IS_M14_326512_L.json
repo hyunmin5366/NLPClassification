@@ -1,0 +1,249 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326512",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[보안 미래, 스타트업에서 찾다]<7>엘핀 'L-PIN'",
+		"newsSubTitle": "",
+		"newsContent": "엘핀(공동대표 박영경, 이석준)은 위치기반 암호화 인증 '엘핀(L-PIN)'을 개발·서비스 한다.\n엘핀은 사용자 위치와 시간에 따라 변하는 패드워드를 이용해 모바일 인증 보안성과 편의성을 모두 높였다.\n모바일기기 이용자는 폭발적으로 증가한다.\n이에 따라 카셰어링, 도서·숙박 예약확인 등 인증수단으로 모바일 기기가 보편화 됐다.\n하지만 비대면 인증 한계로 본인확인이 제대로 되지 않아 도용 문제가 발생했다.\n실제 올해 초 카셰어링으로 차를 빌려 보험사기를 벌인 고등학생이 검거되는 일이 벌어졌다.\n엘핀은 전국 이동통신망을 활용해 생성된 위치암호를 이용해 사용자 인증을 실시한다.\n엘핀에서 시간마다 고유정보(code)를 생성해 사용자 애플리케이션(앱)으로 코드를 전송한다.\n사용자 앱에 수신된 코드를 기반으로 엘핀 알고리즘을 통해 패스워드를 생성한다.\n해당 값은 이동통신 사업자 위치확인 등을 통해 확인을 거쳐 인증수단으로 사용된다.\n엘핀은 기존 이동통신 인프라와 스마트폰 앱으로 작동한다.\n별도 기기를 필요로 하지 않아 경제적이다.\n위치에 따라 암호는 계속 변동되며 동일위치라도 시간에 따라 암호는 바뀐다.\n때문에 이용자 위치 정보, 사용자가 어느 시점에 해당 장소에 있는지 알지 못하면 해킹이 어렵다.\n이통사 기지국 단위로 구분된 공간에서 실시간 암호가 생성·검증 돼 중앙 서버에 정보를 저장할 필요가 없다.\n과거 발생했던 개인정보 대량 유출 가능성을 현저하게 낮췄다.\n엘핀은 카셰어링, 숙박업소에서 사용 될 것으로 기대한다.\n카셰어링 위치인증을 통해 타인 부정사용을 막는다.\n카셰어링 서비스 앱에서 예약 차량 확인 시 차량 부근에서 위치인증을 진행하기 때문이다.\n숙박업소에서는 예약자 도착시 위치인증을 통해 사람 안내 없이 도어락 등 비밀번호 안내 가능하다.\n이외에도 중고거래, 병원 기관, 근태확인 등 다양한 분야에서 광범위하게 활용 가능하다.\n엘핀은 올해 시범서비스를 통해 본격적인 상용화에 돌입한다.\n해외진출도 꾸준하게 타진한다.\n세계 모바일 인증수단은 약 14조5000억원으로 큰 시장을 형성하고 있을뿐 아니라 개발도상국 등 급격한 성장도 기대된다.\n이석준 엘핀 대표는 “올해 상반기 시범서비스를 진행했고 이동통신사와 협의를 통해 하반기를 목표로 상용 서비스 런칭을 준비한다”면서 “국내 레퍼런스를 바탕으로 내년 해외진출도 진행해 글로벌 서비스 기업으로 거듭날 계획”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 25,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엘핀(공동대표 박영경, 이석준)은 위치기반 암호화 인증 '엘핀(L-PIN)'을 개발·서비스 한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엘핀은 사용자 위치와 시간에 따라 변하는 패드워드를 이용해 모바일 인증 보안성과 편의성을 모두 높였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "모바일기기 이용자는 폭발적으로 증가한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 카셰어링, 도서·숙박 예약확인 등 인증수단으로 모바일 기기가 보편화 됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 비대면 인증 한계로 본인확인이 제대로 되지 않아 도용 문제가 발생했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "실제 올해 초 카셰어링으로 차를 빌려 보험사기를 벌인 고등학생이 검거되는 일이 벌어졌다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "엘핀은 전국 이동통신망을 활용해 생성된 위치암호를 이용해 사용자 인증을 실시한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "엘핀에서 시간마다 고유정보(code)를 생성해 사용자 애플리케이션(앱)으로 코드를 전송한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "사용자 앱에 수신된 코드를 기반으로 엘핀 알고리즘을 통해 패스워드를 생성한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "해당 값은 이동통신 사업자 위치확인 등을 통해 확인을 거쳐 인증수단으로 사용된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "엘핀은 기존 이동통신 인프라와 스마트폰 앱으로 작동한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "별도 기기를 필요로 하지 않아 경제적이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "위치에 따라 암호는 계속 변동되며 동일위치라도 시간에 따라 암호는 바뀐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "때문에 이용자 위치 정보, 사용자가 어느 시점에 해당 장소에 있는지 알지 못하면 해킹이 어렵다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이통사 기지국 단위로 구분된 공간에서 실시간 암호가 생성·검증 돼 중앙 서버에 정보를 저장할 필요가 없다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "과거 발생했던 개인정보 대량 유출 가능성을 현저하게 낮췄다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "엘핀은 카셰어링, 숙박업소에서 사용 될 것으로 기대한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "카셰어링 위치인증을 통해 타인 부정사용을 막는다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "카셰어링 서비스 앱에서 예약 차량 확인 시 차량 부근에서 위치인증을 진행하기 때문이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "숙박업소에서는 예약자 도착시 위치인증을 통해 사람 안내 없이 도어락 등 비밀번호 안내 가능하다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이외에도 중고거래, 병원 기관, 근태확인 등 다양한 분야에서 광범위하게 활용 가능하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "엘핀은 올해 시범서비스를 통해 본격적인 상용화에 돌입한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "해외진출도 꾸준하게 타진한다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "세계 모바일 인증수단은 약 14조5000억원으로 큰 시장을 형성하고 있을뿐 아니라 개발도상국 등 급격한 성장도 기대된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "이석준 엘핀 대표는 “올해 상반기 시범서비스를 진행했고 이동통신사와 협의를 통해 하반기를 목표로 상용 서비스 런칭을 준비한다”면서 “국내 레퍼런스를 바탕으로 내년 해외진출도 진행해 글로벌 서비스 기업으로 거듭날 계획”이라고 말했다.",
+				"sentenceSize": 129
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[보안 미래, 스타트업에서 찾다]<7>엘핀 'L-PIN'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

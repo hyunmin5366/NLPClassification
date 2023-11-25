@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328132",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "국가지원 해커 조직, 백신 우회하는 한글문서 공격",
+		"newsSubTitle": "",
+		"newsContent": "지난해부터 이어진 남북 간 화해 무드에도 북한 사이버 공격은 진화, 확산 중인 것으로 확인됐다.\n북한 배후로 추정되는 '김수키(Kimsuky)' 조직은 국내 안보 관계자를 겨냥해 악성 한글문서를 유포하고 백신 소프트웨어(SW)를 우회하고 있다.\n안랩 시큐리티대응센터(ASEC) 분석팀에 따르면 최근 '제9대 한국국가정보학회 회장 선거 공고'라는 제목의 악성 한글문서가 유포됐다.\n이 문서에는 악성 EPS가 담겨 한글문서 실행 시 시작프로그램에 VBS 파일이 생성된다.\n이후 기기를 재부팅하면 공격이 시작된다.\n구체적으로 한글문서 내부에 일반인은 알기 어려운 그림 개체 형태로 악성 EPS를 추가하고 VBS 파일에 의해 파워셸이 실행되면 악성파일을 다운로드하고 실행하는 구조다.\nASEC 관계자는 “시작프로그램에 스크립트 파일을 생성해 재부팅 시점에 공격이 발행하도록 하는 방식”이라면서 “이는 공격이 바로 시작될 경우 보안 제품에 의해 탐지되는 것을 피하기 위한 것”이라고 분석했다.\n공격자는 V3 등 백신을 우회하기 위해 △.VBS △.VBE △.JS △.WSF 등 다양한 변종을 제작하고 테스트 중이다.\nASEC은 보고서에서 공격자를 직접 거론하지 않았지만 '김수키' 해커 조직 소행인 것으로 지목된다. '김수키'는 북한 정부가 지원하는 것으로 추정되는 해커 조직 중 한 곳이다.\n북한은 올해 들어서만 청와대와 통일부 등 국내 주요 공공기관 홈페이지 해킹을 시도하고 대북 분야 국책연구기관인 통일연구원을 사칭한 스피어피싱 공격을 수행하는 등 공세를 이어왔다.\n국내뿐 아니라 해외를 겨냥해서도 모바일 앱과 암호화폐 거래사이트를 공격한다.\n문종현 이스트시큐리티 이사는 “이번 공격은 '김수키' 해커 조직이 사용하는 알려진 코드와 같은 방식”이라면서 “한글문서 취약점 공격은 현재 중국 해커 조직에선 거의 사용하지 않아 사실상 전량 북한으로 추정된다”이라고 설명했다.\n이어 “북한 추정 사이버공격은 이틀에 한 번꼴로 발견되고 매일 대응하는 수준”이라면서 “확산하는 추세라기보다 계속해서 발생 중인 매우 위험한 상황”이라고 경고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해부터 이어진 남북 간 화해 무드에도 북한 사이버 공격은 진화, 확산 중인 것으로 확인됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "북한 배후로 추정되는 '김수키(Kimsuky)' 조직은 국내 안보 관계자를 겨냥해 악성 한글문서를 유포하고 백신 소프트웨어(SW)를 우회하고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "안랩 시큐리티대응센터(ASEC) 분석팀에 따르면 최근 '제9대 한국국가정보학회 회장 선거 공고'라는 제목의 악성 한글문서가 유포됐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 문서에는 악성 EPS가 담겨 한글문서 실행 시 시작프로그램에 VBS 파일이 생성된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 기기를 재부팅하면 공격이 시작된다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구체적으로 한글문서 내부에 일반인은 알기 어려운 그림 개체 형태로 악성 EPS를 추가하고 VBS 파일에 의해 파워셸이 실행되면 악성파일을 다운로드하고 실행하는 구조다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "ASEC 관계자는 “시작프로그램에 스크립트 파일을 생성해 재부팅 시점에 공격이 발행하도록 하는 방식”이라면서 “이는 공격이 바로 시작될 경우 보안 제품에 의해 탐지되는 것을 피하기 위한 것”이라고 분석했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공격자는 V3 등 백신을 우회하기 위해 △.VBS △.VBE △.JS △.WSF 등 다양한 변종을 제작하고 테스트 중이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "ASEC은 보고서에서 공격자를 직접 거론하지 않았지만 '김수키' 해커 조직 소행인 것으로 지목된다. '김수키'는 북한 정부가 지원하는 것으로 추정되는 해커 조직 중 한 곳이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "북한은 올해 들어서만 청와대와 통일부 등 국내 주요 공공기관 홈페이지 해킹을 시도하고 대북 분야 국책연구기관인 통일연구원을 사칭한 스피어피싱 공격을 수행하는 등 공세를 이어왔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "국내뿐 아니라 해외를 겨냥해서도 모바일 앱과 암호화폐 거래사이트를 공격한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "문종현 이스트시큐리티 이사는 “이번 공격은 '김수키' 해커 조직이 사용하는 알려진 코드와 같은 방식”이라면서 “한글문서 취약점 공격은 현재 중국 해커 조직에선 거의 사용하지 않아 사실상 전량 북한으로 추정된다”이라고 설명했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이어 “북한 추정 사이버공격은 이틀에 한 번꼴로 발견되고 매일 대응하는 수준”이라면서 “확산하는 추세라기보다 계속해서 발생 중인 매우 위험한 상황”이라고 경고했다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국가지원 해커 조직, 백신 우회하는 한글문서 공격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

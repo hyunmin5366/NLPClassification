@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009552",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "대전 건축허가면적 184.7%↑",
+		"newsSubTitle": "작년 3792건… 노은·도안지구 급증",
+		"newsContent": "대전시의 지난해 건축허가 면적이 전년 대비 184.7% 늘어난 것으로 나타났다.\n8일 대전시에 따르면 지난해 대전의 건축허가 건수는 3792건, 면적은 6064㎡로 전년(3607건, 2130㎡)대비 건수는 5.1%, 면적은 184.7% 증가했다.\n건축허가 건수는 주거용과 공공용이 각각 4.4%와 33%로 감소한 반면 상업용과 공업용은 각각 20%, 12.5%로 소폭 증가했다.\n허가면적은 주거용이 407%로 급증했으며, 건축물 유형을 보면 단독주택 중 다가구 주택과 공동주택에서는 아파트가 가장 크게 차지했다.\n또 시기별로는 3~4월과 8~9월에 노은지구와 도안지구 아파트 사업승인으로 건축허가 면적이 급증세를 보였다.\n또 건물 착공은 총 건수 2882건, 면적 384만9000㎡로 전년(2820건, 172만7000㎡)대비 건수는 2.2%, 면적은 122.9% 증가했다.\n건축착공 건수는 주거용이 8.2%감소한 반면 상업용과 공업용, 공공용, 기타용은 고른 증가세를 나타냈다.\n건축착공 면적은 공업용과 공공용은 22.0%, 61%로 각각 감소했으나, 주거용과 상업용, 기타용은 225%, 62%, 111%로 각각 증가했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전시의 지난해 건축허가 면적이 전년 대비 184.7% 늘어난 것으로 나타났다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 대전시에 따르면 지난해 대전의 건축허가 건수는 3792건, 면적은 6064㎡로 전년(3607건, 2130㎡)대비 건수는 5.1%, 면적은 184.7% 증가했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "건축허가 건수는 주거용과 공공용이 각각 4.4%와 33%로 감소한 반면 상업용과 공업용은 각각 20%, 12.5%로 소폭 증가했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "허가면적은 주거용이 407%로 급증했으며, 건축물 유형을 보면 단독주택 중 다가구 주택과 공동주택에서는 아파트가 가장 크게 차지했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 시기별로는 3~4월과 8~9월에 노은지구와 도안지구 아파트 사업승인으로 건축허가 면적이 급증세를 보였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 건물 착공은 총 건수 2882건, 면적 384만9000㎡로 전년(2820건, 172만7000㎡)대비 건수는 2.2%, 면적은 122.9% 증가했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "건축착공 건수는 주거용이 8.2%감소한 반면 상업용과 공업용, 공공용, 기타용은 고른 증가세를 나타냈다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "건축착공 면적은 공업용과 공공용은 22.0%, 61%로 각각 감소했으나, 주거용과 상업용, 기타용은 225%, 62%, 111%로 각각 증가했다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'지역시장 잡아라' 금융권 경쟁 뜨겁다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

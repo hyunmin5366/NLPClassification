@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328860",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "시만텍, 한국전자인증 인증서 발급대행권한 회수",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 보안인증 1위 시만텍이 국내 공인인증기관 한국전자인증(CrossCert)에 부여했던 인증서발급대행 권한(RA)을 회수했다.\n구글과 시만텍 간 발생한 SSL 인증서 부정발급 사고 원인제공기업이 한국전자인증이었다.\n사설인증시장에서 '신뢰받는 제3자(Trust 3rd party)' 위상이 흔들린다.\n한국전자인증은 시만텍 SSL 인증서 발급 대행기업이다.\n한국에서 시만텍을 대신해 브라우저와 HTTPS를 구현한 웹 사이트간 연결을 암호화하는 SSL 인증서를 발급한다.\n문제는 한국전자인증이 발행한 인증서 127개다.\n구글은 한국전자인증이 기업과 도메인의 신뢰성을 제대로 확인하지 않고 SSL 인증서를 발급해 신뢰가 깨졌다고 주장했다.\n한국전자인증은 127개 테스트 인증서 발생시 규칙을 어긴 오류가 발생했다고 밝혔다.\n시만텍과 한국전자인증은 SSL 인증서를 발급할 때 고객이나 기업 신원, 소유 도메인 소유권을 철저히 확인해야 한다.\nSSL 인증서는 소비자가 믿고 사용할 수 있는 사이트만 발급 받는다.\n해커가 가짜 회사와 도메인을 만들고 SSL 인증서까지 받으면 각종 범죄에 악용될 우려가 높기 때문이다.\n인증기관과 브라우저 기업은 'CA브라우저포럼'을 만들고 인증서 발급과 관리 프로세스에 대한 규칙을 정했다.\n규칙을 위반하면 브라우저와 운용체계(OS) 개발사가 해당 인증서 신뢰 자격을 취소한다.\n시만텍은 30일 본사 웹사이트 '시만텍 인증서 문제 보고서'를 올리고 한국전자인증이 발급한 127건에 문제가 발견돼 해당 인증서를 무효화했다고 밝혔다.\n시만텍은 한국전자인증에 인증서 발급대행 권한을 정지했다.\n시만텍은 한국전자인증을 통해 인증 발급이 요청된 건을 직접 심사하고 승인한다.\n시만텍 인증서발급대행 업체 중 제대로 된 검증 없이 SSL 인증서를 발급한 곳은 한국전자인증, 브라질 서티사인, 멕시코 서티슈피리어, 아르헨티나 서티수르 등 4개 업체다.\n한국전자인증은 인증서 부정발급이 아니라 오발급이라는 입장이다.\n한국전자인증 관계자는 “1월에 100여개 정도 테스트 인증서 필드 값을 잘 못 입력해 오발급했다”면서 “구글이 인증서 발급 규칙이 맞지 않는다며 부정발급으로 인식하고 시만텍에 문제를 제기했다”고 해명했다.\n이 관계자는 “시만텍이 오 발급을 인정하고 RA가 인증서 심사 권한을 갖는 프로그램을 폐지했다”면서 “한국전자인증 뿐만 아니라 전체 RA 모두 권한을 회수한 것”이라고 덧붙였다.\n한국전자인증에서 기존처럼 시만텍 인증서 신청과 기술지원은 계속 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 보안인증 1위 시만텍이 국내 공인인증기관 한국전자인증(CrossCert)에 부여했던 인증서발급대행 권한(RA)을 회수했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구글과 시만텍 간 발생한 SSL 인증서 부정발급 사고 원인제공기업이 한국전자인증이었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사설인증시장에서 '신뢰받는 제3자(Trust 3rd party)' 위상이 흔들린다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국전자인증은 시만텍 SSL 인증서 발급 대행기업이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국에서 시만텍을 대신해 브라우저와 HTTPS를 구현한 웹 사이트간 연결을 암호화하는 SSL 인증서를 발급한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "문제는 한국전자인증이 발행한 인증서 127개다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "구글은 한국전자인증이 기업과 도메인의 신뢰성을 제대로 확인하지 않고 SSL 인증서를 발급해 신뢰가 깨졌다고 주장했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한국전자인증은 127개 테스트 인증서 발생시 규칙을 어긴 오류가 발생했다고 밝혔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "시만텍과 한국전자인증은 SSL 인증서를 발급할 때 고객이나 기업 신원, 소유 도메인 소유권을 철저히 확인해야 한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "SSL 인증서는 소비자가 믿고 사용할 수 있는 사이트만 발급 받는다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "해커가 가짜 회사와 도메인을 만들고 SSL 인증서까지 받으면 각종 범죄에 악용될 우려가 높기 때문이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "인증기관과 브라우저 기업은 'CA브라우저포럼'을 만들고 인증서 발급과 관리 프로세스에 대한 규칙을 정했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "규칙을 위반하면 브라우저와 운용체계(OS) 개발사가 해당 인증서 신뢰 자격을 취소한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "시만텍은 30일 본사 웹사이트 '시만텍 인증서 문제 보고서'를 올리고 한국전자인증이 발급한 127건에 문제가 발견돼 해당 인증서를 무효화했다고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "시만텍은 한국전자인증에 인증서 발급대행 권한을 정지했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "시만텍은 한국전자인증을 통해 인증 발급이 요청된 건을 직접 심사하고 승인한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "시만텍 인증서발급대행 업체 중 제대로 된 검증 없이 SSL 인증서를 발급한 곳은 한국전자인증, 브라질 서티사인, 멕시코 서티슈피리어, 아르헨티나 서티수르 등 4개 업체다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "한국전자인증은 인증서 부정발급이 아니라 오발급이라는 입장이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "한국전자인증 관계자는 “1월에 100여개 정도 테스트 인증서 필드 값을 잘 못 입력해 오발급했다”면서 “구글이 인증서 발급 규칙이 맞지 않는다며 부정발급으로 인식하고 시만텍에 문제를 제기했다”고 해명했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이 관계자는 “시만텍이 오 발급을 인정하고 RA가 인증서 심사 권한을 갖는 프로그램을 폐지했다”면서 “한국전자인증 뿐만 아니라 전체 RA 모두 권한을 회수한 것”이라고 덧붙였다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "한국전자인증에서 기존처럼 시만텍 인증서 신청과 기술지원은 계속 한다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시만텍, 한국전자인증 인증서 발급대행권한 회수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

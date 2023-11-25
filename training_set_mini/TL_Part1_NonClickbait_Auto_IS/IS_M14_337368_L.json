@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337368",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "토요타, 美현지 투자 14조8천억원으로 확대...'관세 인상 예방 차원'",
+		"newsSubTitle": "",
+		"newsContent": "일본 토요타자동차가 새 북미자유무역협정(NAFTA) 시행을 앞두고 미국 투자를 대폭 확대한다. 15일 니혼게이자이신문에 따르면 토요타는 전날 2017~2021년 미국 투자액을 100억달러(약 11조3600억원)에서 130억 달러(약 14조7680억원)로 30억 달러(약 3조4080억원) 늘릴 것이라고 밝혔다.\n미국의 자동차 생산공장에 7억5000만 달러(약 7634억원)를 새로 투자해 하이브리드 차량의 생산 능력을 확충할 계획이다.\n토요타는 이를 통해 현지에서 600명 가량의 신규 고용이 창출될 것이라고 설명했다.\n토요타가 미국 투자를 늘리는 것은 오는 2020년 발효되는 미국과 멕시코, 캐나다 사이의 새 NAFTA에 대비하기 위해서다.\n새로운 NAFTA가 발효되면 역내 부품비율이 현행 62.5%에서 75%로 상향 조정되는데, 이를 달성하지 못할 경우 최대 25%의 관세를 부담해야 한다.\n토요타는 투자 확대를 통해 바뀐 제도에 대비하는 한편 미국의 투자 확대 요구에 적극 응하는 모습을 미국 측에 강조할 계획이다.\n도널드 트럼프 미국 대통령은 지난 6일(현지시간) 백악관에서 기업 경영자들과 만난 자리에서 \\\"일본과의 무역적자가 지나치게 크다. 일본 기업들이 더 많은 공장을 (미국으로) 이전해야 한다\\\"고 말하는 등 일본 기업들의 미국 투자를 압박하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 토요타자동차가 새 북미자유무역협정(NAFTA) 시행을 앞두고 미국 투자를 대폭 확대한다. 15일 니혼게이자이신문에 따르면 토요타는 전날 2017~2021년 미국 투자액을 100억달러(약 11조3600억원)에서 130억 달러(약 14조7680억원)로 30억 달러(약 3조4080억원) 늘릴 것이라고 밝혔다.",
+				"sentenceSize": 173
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국의 자동차 생산공장에 7억5000만 달러(약 7634억원)를 새로 투자해 하이브리드 차량의 생산 능력을 확충할 계획이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "토요타는 이를 통해 현지에서 600명 가량의 신규 고용이 창출될 것이라고 설명했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "토요타가 미국 투자를 늘리는 것은 오는 2020년 발효되는 미국과 멕시코, 캐나다 사이의 새 NAFTA에 대비하기 위해서다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "새로운 NAFTA가 발효되면 역내 부품비율이 현행 62.5%에서 75%로 상향 조정되는데, 이를 달성하지 못할 경우 최대 25%의 관세를 부담해야 한다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "토요타는 투자 확대를 통해 바뀐 제도에 대비하는 한편 미국의 투자 확대 요구에 적극 응하는 모습을 미국 측에 강조할 계획이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "도널드 트럼프 미국 대통령은 지난 6일(현지시간) 백악관에서 기업 경영자들과 만난 자리에서 \\\"일본과의 무역적자가 지나치게 크다. 일본 기업들이 더 많은 공장을 (미국으로) 이전해야 한다\\\"고 말하는 등 일본 기업들의 미국 투자를 압박하고 있다.",
+				"sentenceSize": 137
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "토요타, 美현지 투자 14조8천억원으로 확대...'관세 인상 예방 차원'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

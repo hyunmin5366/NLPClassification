@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353922",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "1~3월 '알약'으로 막은 랜섬웨어 17만건↑…일평균 1974건",
+		"newsSubTitle": "null",
+		"newsContent": "보안기업 이스트시큐리티가 자사 백신프로그램 '알약'으로 올해 1분기 총 17만7732건의 랜섬웨어 공격을 차단했다고 13일 밝혔다.\n하루 평균 약 1974건의 랜섬웨어의 공격을 막은 셈이다.\n이번 통계는 개인 사용자에게 무료 제공하는 공개용 알약 백신 프로그램의 '랜섬웨어 행위기반 사전 차단 기능'을 통해 차단된 공격만 집계한 결과다.\n패턴 기반 공격까지 포함하면 전체 렌섬웨어 공격은 더 많을 것으로 보인다.\n이스트시큐리티는 올해 1분기 랜섬웨어 주요동향으로 △러시아-우크라이나 전쟁과 랜섬웨어 △비너스락커(VenusLocker) 조직 △타이포스쿼팅(Typosquatting)으로 유포되는 매그니베르(Magniber) 랜섬웨어 △지속되는 글로벌 기업 랜섬웨어 피해 등을 꼽았다.\n특히 러시아-우크라이나 전쟁을 악용하는 랜섬웨어 공격 사례가 늘고 있다.\n대표적인 랜섬웨어 '헤르메틱랜섬'(HermeticRansom)은 우크라이나 시스템을 타깃삼아 데이터를 삭제하기 위한 와이퍼 공격의 미끼 역할로 밝혀지기도 했다.\n2017년부터 국내에 지속적으로 랜섬웨어를 유포하고 있는 비너스락커 조직 활동도 활발하다.\n최근에도 이력서, 저작권 위반 등의 내용을 활용해 렌섬웨어를 유포 중이다.\n타이포스쿼팅 방식을 이용한 매그니베르 랜섬웨어의 유포 정황도 재발견됐다.\n타이포스쿼팅은 도메인 주소를 잘못 입력하거나 철자를 틀릴 시 타 페이지로 유인하는 공격 수법이다.\n매그니베르 랜섬웨어는 이를 이용해 크롬(Chrome)과 엣지(Edge) 브라우저 사용자에게 유포된다.\n지난해 명품 의류 브랜드 '몽클레르', 항공 회사 '스위스포트 인터네셔널' 등 글로벌 기업의 랜섬웨어 피해 사례도 지속되고 있다.\n이스트시큐리티 ESRC 관계자는 \\\"코로나19(COVID-19) 바이러스 확산 방지를 위해 재택근무 수가 증가한 만큼 기업 내부망에 접속해 사용되는 재택근무 단말기의 OS·SW 보안 업데이트 현황 점검 의무화는 물론 임직원 보안 인식 교육도 병행해야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보안기업 이스트시큐리티가 자사 백신프로그램 '알약'으로 올해 1분기 총 17만7732건의 랜섬웨어 공격을 차단했다고 13일 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하루 평균 약 1974건의 랜섬웨어의 공격을 막은 셈이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 통계는 개인 사용자에게 무료 제공하는 공개용 알약 백신 프로그램의 '랜섬웨어 행위기반 사전 차단 기능'을 통해 차단된 공격만 집계한 결과다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "패턴 기반 공격까지 포함하면 전체 렌섬웨어 공격은 더 많을 것으로 보인다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이스트시큐리티는 올해 1분기 랜섬웨어 주요동향으로 △러시아-우크라이나 전쟁과 랜섬웨어 △비너스락커(VenusLocker) 조직 △타이포스쿼팅(Typosquatting)으로 유포되는 매그니베르(Magniber) 랜섬웨어 △지속되는 글로벌 기업 랜섬웨어 피해 등을 꼽았다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 러시아-우크라이나 전쟁을 악용하는 랜섬웨어 공격 사례가 늘고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대표적인 랜섬웨어 '헤르메틱랜섬'(HermeticRansom)은 우크라이나 시스템을 타깃삼아 데이터를 삭제하기 위한 와이퍼 공격의 미끼 역할로 밝혀지기도 했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "2017년부터 국내에 지속적으로 랜섬웨어를 유포하고 있는 비너스락커 조직 활동도 활발하다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최근에도 이력서, 저작권 위반 등의 내용을 활용해 렌섬웨어를 유포 중이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "타이포스쿼팅 방식을 이용한 매그니베르 랜섬웨어의 유포 정황도 재발견됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "타이포스쿼팅은 도메인 주소를 잘못 입력하거나 철자를 틀릴 시 타 페이지로 유인하는 공격 수법이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "매그니베르 랜섬웨어는 이를 이용해 크롬(Chrome)과 엣지(Edge) 브라우저 사용자에게 유포된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "지난해 명품 의류 브랜드 '몽클레르', 항공 회사 '스위스포트 인터네셔널' 등 글로벌 기업의 랜섬웨어 피해 사례도 지속되고 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이스트시큐리티 ESRC 관계자는 \\\"코로나19(COVID-19) 바이러스 확산 방지를 위해 재택근무 수가 증가한 만큼 기업 내부망에 접속해 사용되는 재택근무 단말기의 OS·SW 보안 업데이트 현황 점검 의무화는 물론 임직원 보안 인식 교육도 병행해야 한다\\\"고 말했다.",
+				"sentenceSize": 150
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "1~3월 '알약'으로 막은 랜섬웨어 17만건↑…일평균 1974건",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

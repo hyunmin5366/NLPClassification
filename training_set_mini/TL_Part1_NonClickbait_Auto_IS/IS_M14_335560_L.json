@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335560",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "철도연, 열차제어시스템 신뢰성·보안성 높인 'RSS' 개발",
+		"newsSubTitle": "기존 무선통신 시스템 단점 보완 네트워크 최상위까지 기밀성 확보 양방향 인증·그룹통신 암호화 갖춰 향후 자율주행 열차에 적용 가능",
+		"newsContent": "우리 연구진이 열차제어시스템 신뢰성과 보안성을 크게 높일 수 있는 기반을 마련했다.\n경전철에 사용하는 무인운전은 물론 향후 자율주행 열차에도 적용할 수 있다.\n한국철도기술연구원은 정락교∙최현영 열차자율주행연구팀이 새로운 '철도 보안인증시스템(RSS)'을 개발했다고 24일 밝혔다.\n이 시스템은 사이버 보안 위협이 상존하는 기존 무선통신 기반 열차제어시스템(CBTC)의 보안성을 한층 강화할 수 있다.\nCBTC는 승객 안전과 직결된 열차제어 메시지(바이탈 메시지)를 무선 통신으로 전달한다.\n보안장치와 인증 서버 사이에서 비인증 접속을 차단하는 방식으로 보안성을 확보한다.\nIP 보안 표준인 'IPsec'를 사용한다.\n문제는 IPsec로는 모든 네트워크 계층 보안을 담보할 수 없다는 점이다.\n하위 계층인 3층까지만 가능하다.\n상위 계층에서 메시지 위변조, 해킹 등 보안 공격이 발생하면 방어할 수 없다.\n연구팀이 개발한 RSS는 네트워크 최상위 계층인 응용계층까지 열차제어 메시지 무결성과 기밀성을 확보할 수 있다.\n전자서명 및 인증, 암호화, 방화벽, 침입탐지 기능도 갖추고 있다.\n대칭키 기반 암호화, 방화벽, 침입탐지 등 더욱 강력한 보안 기능을 제공한다.\n자율주행 열차에도 적용할 수 있다.\n장치 간 상호 인증이 가능하기 때문이다.\n기존 CBTC는 차량 위 보안장치가 지상 인증 서버에 메시지를 보내는 단방향 방식이지만 RSS는 장치 간 양방향 인증이 가능하고, 그룹통신 암호화 기능을 갖추고 있다.\n경량화 특성도 주목할 점이다.\n연구팀은 IEEE 1609.2 인증체계를 활용해 시스템 경량화를 이뤘다.\n그 결과 전자서명 처리시간을 줄일 수 있고 인증서 유효성도 실시간으로 검증할 수 있다.\n연구팀은 시제품 검증을 완료, 오송 철도종합시험선로에서 차량을 이용한 현장시험도 마쳤다.\n최현영 선임연구원은 \\\"RSS는 국산 열차제어시스템의 신뢰성을 크게 높일 수 있는 기반 기술로 해외 시장에서도 경쟁력을 발휘할 수 있을 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리 연구진이 열차제어시스템 신뢰성과 보안성을 크게 높일 수 있는 기반을 마련했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "경전철에 사용하는 무인운전은 물론 향후 자율주행 열차에도 적용할 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국철도기술연구원은 정락교∙최현영 열차자율주행연구팀이 새로운 '철도 보안인증시스템(RSS)'을 개발했다고 24일 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 시스템은 사이버 보안 위협이 상존하는 기존 무선통신 기반 열차제어시스템(CBTC)의 보안성을 한층 강화할 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CBTC는 승객 안전과 직결된 열차제어 메시지(바이탈 메시지)를 무선 통신으로 전달한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보안장치와 인증 서버 사이에서 비인증 접속을 차단하는 방식으로 보안성을 확보한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "IP 보안 표준인 'IPsec'를 사용한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "문제는 IPsec로는 모든 네트워크 계층 보안을 담보할 수 없다는 점이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하위 계층인 3층까지만 가능하다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "상위 계층에서 메시지 위변조, 해킹 등 보안 공격이 발생하면 방어할 수 없다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "연구팀이 개발한 RSS는 네트워크 최상위 계층인 응용계층까지 열차제어 메시지 무결성과 기밀성을 확보할 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "전자서명 및 인증, 암호화, 방화벽, 침입탐지 기능도 갖추고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "대칭키 기반 암호화, 방화벽, 침입탐지 등 더욱 강력한 보안 기능을 제공한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "자율주행 열차에도 적용할 수 있다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "장치 간 상호 인증이 가능하기 때문이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "기존 CBTC는 차량 위 보안장치가 지상 인증 서버에 메시지를 보내는 단방향 방식이지만 RSS는 장치 간 양방향 인증이 가능하고, 그룹통신 암호화 기능을 갖추고 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "경량화 특성도 주목할 점이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "연구팀은 IEEE 1609.2 인증체계를 활용해 시스템 경량화를 이뤘다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "그 결과 전자서명 처리시간을 줄일 수 있고 인증서 유효성도 실시간으로 검증할 수 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "연구팀은 시제품 검증을 완료, 오송 철도종합시험선로에서 차량을 이용한 현장시험도 마쳤다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "최현영 선임연구원은 \\\"RSS는 국산 열차제어시스템의 신뢰성을 크게 높일 수 있는 기반 기술로 해외 시장에서도 경쟁력을 발휘할 수 있을 것\\\"이라고 말했다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "철도연, 열차제어시스템 신뢰성·보안성 높인 'RSS' 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

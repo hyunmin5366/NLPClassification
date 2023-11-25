@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352287",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "비말 전파경로 AI가 찾는다…과기부·질병청 공동개발",
+		"newsSubTitle": "null",
+		"newsContent": "과학기술정보통신부(과기정통부)와 질병관리청(질병청)이 감염병 확산 추세를 분석하는 AI(인공지능) 개발에 나선다.\n과기정통부와 질병청, 정보통신산업진흥원(NIPA)은 24일 충북 오송 질병청에서 이 같은 내용을 포함해 코로나19 등 신종 호흡기계 감염병 대응 협력 상황을 점검했다.\n과기정통부와 질병청은 올해 5월부터 감염병 확산 추세 등을 분석하는 AI 개발을 위해 인공지능 융합 프로젝트(AI+X)'를 추진해 왔다.\n이 프로젝트는 비말 전파 경로, 공간별 전파 위험요소 등 감염병 데이터 등을 AI로 분석해 질병청의 방역 정책 수립을 지원하기 위한 것으로, 올해부터 3년 간 144억원이 지원된다.\n현재 한국과학기술연구원, 레블업, 길의료재단과 출연연구기관, 인공지능 기업, 병원 등 15개 기관이 관련 솔루션 개발에 참여하고 있다.\n송경희 과기정통부 인공지능기반정책관은 \\\"과기정통부는 인공지능을 통한 경제 사회 전 분야의 혁신을 위해 디지털 뉴딜을 추진 중\\\"이라며 \\\"인공지능을 통해 국민의 삶과 효과적인 방역정책이 공존할 수 있게 질병청 등 방역당국 등과 적극 협력할 것\\\"이라고 말했다.\n이상원 질병청 위기대응분석관도 \\\"코로나19 팬데믹과 같은 긴급상황 대응 시 과학적 근거에 기반한 신속한 의사결정이 중요하다\\\"며 \\\"앞으로 질병청의 감염병 대응에서 과기정통부의 인공지능 기반 솔루션이 근거 중심 정책 수립에 큰 도움이 될 것으로 기대한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학기술정보통신부(과기정통부)와 질병관리청(질병청)이 감염병 확산 추세를 분석하는 AI(인공지능) 개발에 나선다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과기정통부와 질병청, 정보통신산업진흥원(NIPA)은 24일 충북 오송 질병청에서 이 같은 내용을 포함해 코로나19 등 신종 호흡기계 감염병 대응 협력 상황을 점검했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과기정통부와 질병청은 올해 5월부터 감염병 확산 추세 등을 분석하는 AI 개발을 위해 인공지능 융합 프로젝트(AI+X)'를 추진해 왔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 프로젝트는 비말 전파 경로, 공간별 전파 위험요소 등 감염병 데이터 등을 AI로 분석해 질병청의 방역 정책 수립을 지원하기 위한 것으로, 올해부터 3년 간 144억원이 지원된다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 한국과학기술연구원, 레블업, 길의료재단과 출연연구기관, 인공지능 기업, 병원 등 15개 기관이 관련 솔루션 개발에 참여하고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "송경희 과기정통부 인공지능기반정책관은 \\\"과기정통부는 인공지능을 통한 경제 사회 전 분야의 혁신을 위해 디지털 뉴딜을 추진 중\\\"이라며 \\\"인공지능을 통해 국민의 삶과 효과적인 방역정책이 공존할 수 있게 질병청 등 방역당국 등과 적극 협력할 것\\\"이라고 말했다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이상원 질병청 위기대응분석관도 \\\"코로나19 팬데믹과 같은 긴급상황 대응 시 과학적 근거에 기반한 신속한 의사결정이 중요하다\\\"며 \\\"앞으로 질병청의 감염병 대응에서 과기정통부의 인공지능 기반 솔루션이 근거 중심 정책 수립에 큰 도움이 될 것으로 기대한다\\\"고 말했다.",
+				"sentenceSize": 150
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비말 전파경로 AI가 찾는다…과기부·질병청 공동개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

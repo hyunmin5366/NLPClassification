@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325582",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "장비",
+		"newsTitle": "현대중공업, 선박 엔진개발에 HILs도입...장비 개발 3년→1년 단축",
+		"newsSubTitle": "",
+		"newsContent": "현대중공업이 선박 엔진 개발과 진단에 쓰이는 하드웨어인더루프(HILs) 시스템을 도입했다.\nHILs 시스템은 주로 자동차 완성차 전자제어장치(ECU) 성능 검사에 쓰인다. 31일 관련업계에 따르면 현대중공업은 NI PXI 기반 엔진 HILs를 도입, 3년 이상 걸렸던 엔진 진단장비 개발을 1년으로 단축했다.\nHILs는 선박 엔진이 스스로 상황을 판단해 제어를 가능하게 하는 시스템이다.\n엔진 개발 과정에서 실제 선박 엔진이 가동될 때 발생할 수 있는 모든 상황을 모사해 데이터를 수집한다.\n일부러 고장 난 상황을 연출하기도 한다.\n고장 진단 자동화 시스템을 구축하기 위해서다.\n다양한 변수에서 엔진이 고장날 수 있기 때문에 최대한 많은 데이터를 축적하고 분석해야 한다.\n의미 있는 데이터를 추출하는 게 핵심이다.\n최근에는 중공업분야에서도 기계가 스스로 진단하고 고치는 기술이 확산되고 있다.\n중공업에선 유류 비용이 매우 높기 때문이다.\n실제 배를 운항하며 엔진 빅데이터를 쌓기가 어렵다.\n선박 한척을 운항하려면 1시간에 수백만원어치 기름 값이 든다.\n경공업에 비해 엔진 성능을 검사하는 테스트 비용 부담이 크다.\n실제 사람이 운항하면서 엔진 성능을 테스트할 경우 인명 사고 등이 우려된다.\n현대중공업은 이 기술로 기존 선박 엔진 데이터 분석에 6명을 투입했던 인력을 1명으로 줄일 수 있었다.\n보다 다양한 데이터를 분석해 의미 있는 알고리즘을 찾는데 집중할 수 있게 됐다.\n류승협 현대중공업 엔진기계사업본부 수석연구원은 \\\"중공업 분야일수록 유류비가 많이 들어 가상 테스트를 하는 HILs를 도입해야 한다\\\"면서 \\\"우주∙항공 분야, 국방 분야 등 시험비용 자체가 비싼 산업에서도 활용 된다\\\"고 말했다.\n현대중공업은 최근 이 기술로 글로벌 NI 엔지니어링 임팩트 어워드에서 본상을 받기도 했다.\n개발을 주도한 현대중공업 엔진기계사업본부는 세계 대형엔진 시장 약 35%를 점유한 세계 최대 엔진제작사다.\n지난해 대형 엔진 생산누계 1.6억마력과 자체 개발 모델인 힘센(HiMSEN) 엔진 생산 누계 1만대를 돌파했다.\n현대중공업은 2011년 세계 최초로 스마트십 시스템을 선보이며 이 분야를 선도하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대중공업이 선박 엔진 개발과 진단에 쓰이는 하드웨어인더루프(HILs) 시스템을 도입했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "HILs 시스템은 주로 자동차 완성차 전자제어장치(ECU) 성능 검사에 쓰인다. 31일 관련업계에 따르면 현대중공업은 NI PXI 기반 엔진 HILs를 도입, 3년 이상 걸렸던 엔진 진단장비 개발을 1년으로 단축했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "HILs는 선박 엔진이 스스로 상황을 판단해 제어를 가능하게 하는 시스템이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "엔진 개발 과정에서 실제 선박 엔진이 가동될 때 발생할 수 있는 모든 상황을 모사해 데이터를 수집한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일부러 고장 난 상황을 연출하기도 한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "고장 진단 자동화 시스템을 구축하기 위해서다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다양한 변수에서 엔진이 고장날 수 있기 때문에 최대한 많은 데이터를 축적하고 분석해야 한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "의미 있는 데이터를 추출하는 게 핵심이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최근에는 중공업분야에서도 기계가 스스로 진단하고 고치는 기술이 확산되고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "중공업에선 유류 비용이 매우 높기 때문이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "실제 배를 운항하며 엔진 빅데이터를 쌓기가 어렵다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "선박 한척을 운항하려면 1시간에 수백만원어치 기름 값이 든다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "경공업에 비해 엔진 성능을 검사하는 테스트 비용 부담이 크다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "실제 사람이 운항하면서 엔진 성능을 테스트할 경우 인명 사고 등이 우려된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "현대중공업은 이 기술로 기존 선박 엔진 데이터 분석에 6명을 투입했던 인력을 1명으로 줄일 수 있었다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "보다 다양한 데이터를 분석해 의미 있는 알고리즘을 찾는데 집중할 수 있게 됐다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "류승협 현대중공업 엔진기계사업본부 수석연구원은 \\\"중공업 분야일수록 유류비가 많이 들어 가상 테스트를 하는 HILs를 도입해야 한다\\\"면서 \\\"우주∙항공 분야, 국방 분야 등 시험비용 자체가 비싼 산업에서도 활용 된다\\\"고 말했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "현대중공업은 최근 이 기술로 글로벌 NI 엔지니어링 임팩트 어워드에서 본상을 받기도 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "개발을 주도한 현대중공업 엔진기계사업본부는 세계 대형엔진 시장 약 35%를 점유한 세계 최대 엔진제작사다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "지난해 대형 엔진 생산누계 1.6억마력과 자체 개발 모델인 힘센(HiMSEN) 엔진 생산 누계 1만대를 돌파했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "현대중공업은 2011년 세계 최초로 스마트십 시스템을 선보이며 이 분야를 선도하고 있다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대중공업, 선박 엔진개발에 HILs도입...장비 개발 3년→1년 단축",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325539",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "애플 '아이폰8·아이폰8플러스' 118만대 출하",
+		"newsSubTitle": "",
+		"newsContent": "애플이 신형 아이폰 출하를 시작했다.\n중국중앙TV 인터넷판인 앙광(央廣)망은 정저우 폭스콘 공장에서 조립된 아이폰8∙아이폰8플러스가 세계 각국으로 운송되기 시작했다고 보도했다.\n외신은 정저우해관(세관) 관리 구역에서만 9일부터 14일까지 모두 118만500대 신형 아이폰이 출고됐다고 소개했다.\n이중 90만2400대가 미국, 영국, 네덜라드, 이탈리아 등으로 보내졌고 나머지 27만8100만대 통관 절차를 거쳐 중국 시장에 풀린다고 덧붙였다.\n정저우는 애플 하청기업인 폭스콘 공장이 있는 곳이다.\n아이폰은 폭스콘 공장에서 최종 조립을 거쳐 정저우공항을 통해 해외 각지로 수송된다.\n세관 관계자는 \\\"원활한 신형 아이폰 통관을 위해 공항, 폭스콘, 물류기업 측을 불러 다자협력회의를 열고, 긴급 통관대응팀을 구성했다\\\"며 \\\"대규모 출고수요에 대비해 24시간 예약통관 서비스도 시작했다\\\"고 전했다.\n아이폰8∙아이폰8플러스는 1차 출시국에서 15일부터 예약접수가 시작됐고, 22일 정식 판매될 예정이다.\n우리나라에는 다음달 말 정식 출시될 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 신형 아이폰 출하를 시작했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "중국중앙TV 인터넷판인 앙광(央廣)망은 정저우 폭스콘 공장에서 조립된 아이폰8∙아이폰8플러스가 세계 각국으로 운송되기 시작했다고 보도했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "외신은 정저우해관(세관) 관리 구역에서만 9일부터 14일까지 모두 118만500대 신형 아이폰이 출고됐다고 소개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이중 90만2400대가 미국, 영국, 네덜라드, 이탈리아 등으로 보내졌고 나머지 27만8100만대 통관 절차를 거쳐 중국 시장에 풀린다고 덧붙였다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정저우는 애플 하청기업인 폭스콘 공장이 있는 곳이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이폰은 폭스콘 공장에서 최종 조립을 거쳐 정저우공항을 통해 해외 각지로 수송된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "세관 관계자는 \\\"원활한 신형 아이폰 통관을 위해 공항, 폭스콘, 물류기업 측을 불러 다자협력회의를 열고, 긴급 통관대응팀을 구성했다\\\"며 \\\"대규모 출고수요에 대비해 24시간 예약통관 서비스도 시작했다\\\"고 전했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아이폰8∙아이폰8플러스는 1차 출시국에서 15일부터 예약접수가 시작됐고, 22일 정식 판매될 예정이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "우리나라에는 다음달 말 정식 출시될 전망이다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플 '아이폰8·아이폰8플러스' 118만대 출하",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

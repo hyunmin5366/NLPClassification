@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330251",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "공공와이파이 확산 '보안' 선행돼야",
+		"newsSubTitle": "",
+		"newsContent": "확산되는 공공 와이파이에 '무선 보안' 기술적용이 시급하다.\n19일 보안업계는 정부가 추진 중인 공공 와이파이 개방에 맞춰 공공기관 무선랜 사용과 보안책을 마련해야 한다고 입을 모았다.\n이동통신 3사가 와이파이를 개방하고 가입사 구분 없이 시민에게 제공한다.\n여기에 각 지자체가 앞 다퉈 공공와이파이 존을 확대한다.\n지자체가 구축하는 와이파이존은 이동통신사 망에 비해 보안이 취약하다는 게 보안업계 중론이다.\n이동통신사는 각 회사별 인증서버에서 가입자 정보를 공유해 인증하는 방식을 쓴다.\n사용자 인증이 완료되면 무선으로 오가는 데이터는 암호화한다.\n몇몇 지자체는 공공와이파이 서비스를 위해 최근 무선인증서버 등을 구매했다.\n하지만, 과거에 서비스를 시작한 곳은 인증 서버가 없는 곳이 많다.\n무선 네트워크만 검색해 별도 인증과정 없이 바로 와이파이에 접속할 수 있다.\n인증이 없으면 편리하게 인터넷을 쓰지만 오가는 데이터가 암호화되지 않아 각종 정보 유출이 가능하다.\n지자체에 공공와이파이 보안을 관리할 인력도 턱없이 부족하다.\n해커는 공공 와이파이 이름을 도용한 가짜 AP를 만들어 스마트폰과 PC 등에 악성코드를 감염시킬 수 있다.\n또 다른 문제는 보안규정 때문에 와이파이를 쓸 수 없는 공공기관이다.\n지자체 건물에 공공 와이파이 존이 설치되는데 직원은 사용하면 안 되는 구조다.\n공공기관 보안지침에 따르면 내부에서 와이파이를 사용하려면 자체 보안대책을 수립해 부처 장관을 경유한 후 국가정보원장에게 보안성 검토를 의뢰해야 한다.\n이 같은 복잡성 때문에 사실상 공공기관 대부분이 공식적으로 와이파이를 쓰지 못한다.\n공공기관은 와이파이 사용이 제한되지만 건물 내부에서 불법 액세스포인트(AP)는 자주 감지된다.\n공공 와이파이존 확대로 공공기관 내에서 접속할 수 있는 AP가 더 늘어나는 셈이다.\n공공기관은 사무실 내부에 불법 AP나 AP MAC 변조 등을 막는 무선침입차단시스템(WIPS)을 설치해야 한다.\n한 보안전문가는 \\\"공공기관에 들어가 무선네트워크를 검색하면 많은 AP가 잡힌다\\\"면서 \\\"공공기관이 무선 보안 규정을 지키려면 이런 AP가 전혀 검색되지 않도록 해야 한다\\\"고 설명했다.\n그는 \\\"지자체 건물에 설치되는 공공 와이파이 존은 늘어나는데 공무원은 보안 규정 때문에 사용할 수 없는 상황\\\"이라며 \\\"공공기관은 적정한 보안솔루션을 도입한 후 무선을 이용해야 한다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "확산되는 공공 와이파이에 '무선 보안' 기술적용이 시급하다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 보안업계는 정부가 추진 중인 공공 와이파이 개방에 맞춰 공공기관 무선랜 사용과 보안책을 마련해야 한다고 입을 모았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이동통신 3사가 와이파이를 개방하고 가입사 구분 없이 시민에게 제공한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기에 각 지자체가 앞 다퉈 공공와이파이 존을 확대한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지자체가 구축하는 와이파이존은 이동통신사 망에 비해 보안이 취약하다는 게 보안업계 중론이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이동통신사는 각 회사별 인증서버에서 가입자 정보를 공유해 인증하는 방식을 쓴다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사용자 인증이 완료되면 무선으로 오가는 데이터는 암호화한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "몇몇 지자체는 공공와이파이 서비스를 위해 최근 무선인증서버 등을 구매했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만, 과거에 서비스를 시작한 곳은 인증 서버가 없는 곳이 많다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "무선 네트워크만 검색해 별도 인증과정 없이 바로 와이파이에 접속할 수 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "인증이 없으면 편리하게 인터넷을 쓰지만 오가는 데이터가 암호화되지 않아 각종 정보 유출이 가능하다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "지자체에 공공와이파이 보안을 관리할 인력도 턱없이 부족하다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "해커는 공공 와이파이 이름을 도용한 가짜 AP를 만들어 스마트폰과 PC 등에 악성코드를 감염시킬 수 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "또 다른 문제는 보안규정 때문에 와이파이를 쓸 수 없는 공공기관이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "지자체 건물에 공공 와이파이 존이 설치되는데 직원은 사용하면 안 되는 구조다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "공공기관 보안지침에 따르면 내부에서 와이파이를 사용하려면 자체 보안대책을 수립해 부처 장관을 경유한 후 국가정보원장에게 보안성 검토를 의뢰해야 한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이 같은 복잡성 때문에 사실상 공공기관 대부분이 공식적으로 와이파이를 쓰지 못한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "공공기관은 와이파이 사용이 제한되지만 건물 내부에서 불법 액세스포인트(AP)는 자주 감지된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "공공 와이파이존 확대로 공공기관 내에서 접속할 수 있는 AP가 더 늘어나는 셈이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "공공기관은 사무실 내부에 불법 AP나 AP MAC 변조 등을 막는 무선침입차단시스템(WIPS)을 설치해야 한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "한 보안전문가는 \\\"공공기관에 들어가 무선네트워크를 검색하면 많은 AP가 잡힌다\\\"면서 \\\"공공기관이 무선 보안 규정을 지키려면 이런 AP가 전혀 검색되지 않도록 해야 한다\\\"고 설명했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "그는 \\\"지자체 건물에 설치되는 공공 와이파이 존은 늘어나는데 공무원은 보안 규정 때문에 사용할 수 없는 상황\\\"이라며 \\\"공공기관은 적정한 보안솔루션을 도입한 후 무선을 이용해야 한다\\\"고 덧붙였다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공공와이파이 확산 '보안' 선행돼야",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

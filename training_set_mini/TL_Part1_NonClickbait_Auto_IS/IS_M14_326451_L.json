@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326451",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "'갤럭시S8' 빅스비 버튼 잠금 기능 추가",
+		"newsSubTitle": "",
+		"newsContent": "갤럭시S8∙갤럭시S8플러스에 탑재된 인공지능(AI) 음성비서 서비스 '빅스비 버튼'을 비활성화하는 기능이 새롭게 추가됐다.\n삼성전자는 18일 빅스비 소프트웨어(SW) 업데이트를 실시했다.\n삼성전자는 갤럭시S8 시리즈 이용자가 빅스비 버튼을 짧게 눌렀을 때 △빅스비 홈 △빅스비 보이스 △비활성화 등을 설정할 수 있도록 업데이트 했다.\n갤럭시S8 시리즈 이용자가 빅스비 버튼을 잘못 눌렀을 때 빅스비 보이스가 실행되는 불편함을 해소하기 위한 조치다.\n이용자는 빅스비 홈 화면에서 빅스비 설정에 들어간 후 버튼 활성화 또는 비활설화 설정을 할 수 있다.\n단, 빅스비 버튼을 길게 누르면 항상 빅스비 보이스가 실행된다.\n삼성전자는 \\\"볼륨 키를 누르려다 빅스비 버튼 잘못 눌러 의도치 않게 빅스비가 대답했던 경험이 있었을 것\\\"이라며 \\\"빅스비 버튼 설정 기능은 갤럭시S8과 갤럭시S8플러스 단말에 적용, 불편함이 해소될 것\\\"이라고 기대했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "갤럭시S8∙갤럭시S8플러스에 탑재된 인공지능(AI) 음성비서 서비스 '빅스비 버튼'을 비활성화하는 기능이 새롭게 추가됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자는 18일 빅스비 소프트웨어(SW) 업데이트를 실시했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성전자는 갤럭시S8 시리즈 이용자가 빅스비 버튼을 짧게 눌렀을 때 △빅스비 홈 △빅스비 보이스 △비활성화 등을 설정할 수 있도록 업데이트 했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "갤럭시S8 시리즈 이용자가 빅스비 버튼을 잘못 눌렀을 때 빅스비 보이스가 실행되는 불편함을 해소하기 위한 조치다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이용자는 빅스비 홈 화면에서 빅스비 설정에 들어간 후 버튼 활성화 또는 비활설화 설정을 할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "단, 빅스비 버튼을 길게 누르면 항상 빅스비 보이스가 실행된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자는 \\\"볼륨 키를 누르려다 빅스비 버튼 잘못 눌러 의도치 않게 빅스비가 대답했던 경험이 있었을 것\\\"이라며 \\\"빅스비 버튼 설정 기능은 갤럭시S8과 갤럭시S8플러스 단말에 적용, 불편함이 해소될 것\\\"이라고 기대했다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'갤럭시S8' 빅스비 버튼 잠금 기능 추가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

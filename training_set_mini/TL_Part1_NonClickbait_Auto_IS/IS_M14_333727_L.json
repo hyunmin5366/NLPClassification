@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333727",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "대형마트 116곳, 한글날 연휴 일요일 문 연다",
+		"newsSubTitle": "",
+		"newsContent": "전국 대형마트 중 116개 매장이 다가오는 한글날 연휴 일요일에 문을 열게 됐다.\n1일 한국체인스토어협회에 따르면 전국 147개 지자체 중 42곳이 대형마트 업계 요청을 받아들여 10월 의무휴업일 이틀 중 하루를 추석 당일로 변경했다.\n대부분 지역에서 대형마트 의무휴업일은 매달 둘째, 넷째 일요일로, 이에 따라 오는 11일은 의무휴업일에 해당한다.\n대형마트 업계는 11일이 한글날 사흘 연휴 기간인 점을 고려해 각 지자체에 의무휴업일 요일 변경을 요청했다.\n이에 따라 42개 지역에 있는 이마트와 홈플러스, 롯데마트 등 대형마트 116개 매장은 추석인 이날 휴무하고 대신 11일에 영업을 할 수 있게 된다.\n서울에서는 강동구와 은평구, 경기도에서는 의정부와 안양, 안산, 광명시 등이 의무휴업일을 변경했다.\n경남 창원과 김해, 충북 충주, 충남 아산, 전남 나주 등에서도 10월 의무휴업일 중 하루를 이날로 바꿔 10월 11일 영업할 수 있도록 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전국 대형마트 중 116개 매장이 다가오는 한글날 연휴 일요일에 문을 열게 됐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 한국체인스토어협회에 따르면 전국 147개 지자체 중 42곳이 대형마트 업계 요청을 받아들여 10월 의무휴업일 이틀 중 하루를 추석 당일로 변경했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대부분 지역에서 대형마트 의무휴업일은 매달 둘째, 넷째 일요일로, 이에 따라 오는 11일은 의무휴업일에 해당한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대형마트 업계는 11일이 한글날 사흘 연휴 기간인 점을 고려해 각 지자체에 의무휴업일 요일 변경을 요청했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 42개 지역에 있는 이마트와 홈플러스, 롯데마트 등 대형마트 116개 매장은 추석인 이날 휴무하고 대신 11일에 영업을 할 수 있게 된다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서울에서는 강동구와 은평구, 경기도에서는 의정부와 안양, 안산, 광명시 등이 의무휴업일을 변경했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "경남 창원과 김해, 충북 충주, 충남 아산, 전남 나주 등에서도 10월 의무휴업일 중 하루를 이날로 바꿔 10월 11일 영업할 수 있도록 했다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대형마트 116곳, 한글날 연휴 일요일 문 연다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

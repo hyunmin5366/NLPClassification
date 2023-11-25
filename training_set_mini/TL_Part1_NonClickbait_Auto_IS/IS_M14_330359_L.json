@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330359",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "빔 소프트웨어, ‘빔 커넥트’ 개최...에이전트리스 백업 다양한 성공사례 제시",
+		"newsSubTitle": "",
+		"newsContent": "빔 소프트웨어(지사장 박명구)는 기존 고객을 대상으로 하는 빔 커넥트(Veeam Connect) 행사를 지난 10월 28일 개최했다고 밝혔다.\n빔 커넥트 행사는 빔 소프트웨어에서 매년 진행하는 고객 대상 컨퍼런스로 기존 빔 소프트웨어를 적극적으로 활용하고 있는 고객을 대상으로 한다.\n이번 행사에서는 고객사인 AKIS 구축 성공사례 발표와 함께 빔 소프트웨어의 로드맵과 기술전략, 다양한 산업 분야의 성공적인 도입 사례가 소개됐다.\nAKIS 는 x86 기반의 서버 가상화 환경 및 향후 퍼블릭 클라우드로의 전환을 고려해 성능이 높고 비용 효율이 높은 시스템 구축이 필요했다.\nAKIS 정철우 차장은 “빔 소프트웨어는 구축이 용이하고 도입 후에도 이슈나 장애 없이 안정적인 서비스를 운영하고 있다”며 “친숙한 관리 UI, 기존 H/W기반의 중복제거 백업 어플라이언스에서 제공되는 실시간 압축 및 중복제거 기능은 운영상의 편리함 뿐만 아니라 비용 효율적인 통합 백업 시스템을 구축할 수 있었다” 고 밝혔다.\n빔 소프트웨어의 수석 엔지니어 어윤석 이사는 금융권과 유통사의 구축사례를 소개하면서 물리환경에서의 OS, DB 백업 기능과 VMware, Nutanix의 에이전트리스 백업 기능을 통한 효과적인 백업 활용방안을 소개했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빔 소프트웨어(지사장 박명구)는 기존 고객을 대상으로 하는 빔 커넥트(Veeam Connect) 행사를 지난 10월 28일 개최했다고 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빔 커넥트 행사는 빔 소프트웨어에서 매년 진행하는 고객 대상 컨퍼런스로 기존 빔 소프트웨어를 적극적으로 활용하고 있는 고객을 대상으로 한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 행사에서는 고객사인 AKIS 구축 성공사례 발표와 함께 빔 소프트웨어의 로드맵과 기술전략, 다양한 산업 분야의 성공적인 도입 사례가 소개됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AKIS 는 x86 기반의 서버 가상화 환경 및 향후 퍼블릭 클라우드로의 전환을 고려해 성능이 높고 비용 효율이 높은 시스템 구축이 필요했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "AKIS 정철우 차장은 “빔 소프트웨어는 구축이 용이하고 도입 후에도 이슈나 장애 없이 안정적인 서비스를 운영하고 있다”며 “친숙한 관리 UI, 기존 H/W기반의 중복제거 백업 어플라이언스에서 제공되는 실시간 압축 및 중복제거 기능은 운영상의 편리함 뿐만 아니라 비용 효율적인 통합 백업 시스템을 구축할 수 있었다” 고 밝혔다.",
+				"sentenceSize": 183
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "빔 소프트웨어의 수석 엔지니어 어윤석 이사는 금융권과 유통사의 구축사례를 소개하면서 물리환경에서의 OS, DB 백업 기능과 VMware, Nutanix의 에이전트리스 백업 기능을 통한 효과적인 백업 활용방안을 소개했다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빔 소프트웨어, ‘빔 커넥트’ 개최...에이전트리스 백업 다양한 성공사례 제시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

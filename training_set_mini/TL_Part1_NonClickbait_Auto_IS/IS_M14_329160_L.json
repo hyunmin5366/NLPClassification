@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329160",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "신재생",
+		"newsTitle": "포스코에너지, 외국 LNG선 대상 연료 안정화 서비스 확대",
+		"newsSubTitle": "",
+		"newsContent": "포스코에너지가 외국 선사를 대상으로 액화천연가스(LNG) 연료 탱크 내 LNG를 적정 온도로 맞추는 '가스 트라이얼' 사업을 본격화한다.\n포스코에너지는 광양LNG터미널에서 미국 엑셀러레이트에너지 소유 부유식 저장재기화(FSRU) 타입 LNG 운반선에 가스 트라이얼 서비스를 제공했다고 23일 밝혔다.\nFSRU 타입 LNG선은 일반 LNG선과 달리 액체 상태 LNG를 기체로 바꾸는 기화기를 직접 장착, 가스 공급 효율이 높다.\n포스코에너지는 영국 셰니에르 소유 17만4000톤급 LNG선에도 가스 트라이얼 서비스를 진행, 이 사업 육성에 박차를 가하고 있다.\n포스코에너지는 향후 특수 LNG선 대상으로 공격적 마케팅을 펼쳐 나갈 계획이다.\n회사 관계자는 “광양LNG터미널이 조기 안정화됐다”면서 “가스사업 확대로 안정적인 수익 모델을 지속 창출할 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "포스코에너지가 외국 선사를 대상으로 액화천연가스(LNG) 연료 탱크 내 LNG를 적정 온도로 맞추는 '가스 트라이얼' 사업을 본격화한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "포스코에너지는 광양LNG터미널에서 미국 엑셀러레이트에너지 소유 부유식 저장재기화(FSRU) 타입 LNG 운반선에 가스 트라이얼 서비스를 제공했다고 23일 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "FSRU 타입 LNG선은 일반 LNG선과 달리 액체 상태 LNG를 기체로 바꾸는 기화기를 직접 장착, 가스 공급 효율이 높다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "포스코에너지는 영국 셰니에르 소유 17만4000톤급 LNG선에도 가스 트라이얼 서비스를 진행, 이 사업 육성에 박차를 가하고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "포스코에너지는 향후 특수 LNG선 대상으로 공격적 마케팅을 펼쳐 나갈 계획이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "회사 관계자는 “광양LNG터미널이 조기 안정화됐다”면서 “가스사업 확대로 안정적인 수익 모델을 지속 창출할 것”이라고 밝혔다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "포스코에너지, 외국 LNG선 대상 연료 안정화 서비스 확대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349366",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "한컴인텔리전스-한양대, AI비즈니스 모델 발굴 '맞손'",
+		"newsSubTitle": "null",
+		"newsContent": "한글과컴퓨터(한컴)그룹의 손자회사인 한컴인텔리전스는 한양대 IC-PBL(Industry-Coupled Problem Based Learning) 교수학습센터와 인공지능(AI) 비즈니스 모델 발굴을 위한 업무협약을 체결했다고 31일 밝혔다.\nIC-PBL은 한양대에서 개발한 교육 혁신 모델로 기업과 학교 를 연계해 학생들이 직접 기업과 사회의 문제를 해결할 방안을 도출하고 사회 수요를 반영한 문제 해결 역량을 키울 수 있도록 고안됐다.\n한컴인텔리전스는 이번 협약을 통해 기업 맞춤형 IC-PBL 교과목을 개발·운영해 기업이 요구하는 역량을 갖춘 인재 양성을 돕는다.\n기업 구성원들의 역량 강화를 위한 재교육 커리큘럼 개발도 협력할 예정이다.\n협약에 따라 이번 학기 한양대 경영대학의 학부 과목 '인공지능과 비즈니스' 수강생들이 한컴인텔리전스의 인공지능 기반 비즈니스 모델을 제안하는 과정을 가진다.\n오순영 한컴인텔리전스 CTO는 \\\"이번 협약을 통해 실제 사업 주제를 바탕으로 강의를 개설하고, 학생들의 참신한 아이디어를 기반으로 실제 경영에 접목할 수 있는 비즈니스 모델을 만들어보는 등 4차 산업혁명의 패러다임에 부합하는 선도적인 산학협력 모델을 만들어나가겠다\\\"라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한글과컴퓨터(한컴)그룹의 손자회사인 한컴인텔리전스는 한양대 IC-PBL(Industry-Coupled Problem Based Learning) 교수학습센터와 인공지능(AI) 비즈니스 모델 발굴을 위한 업무협약을 체결했다고 31일 밝혔다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "IC-PBL은 한양대에서 개발한 교육 혁신 모델로 기업과 학교 를 연계해 학생들이 직접 기업과 사회의 문제를 해결할 방안을 도출하고 사회 수요를 반영한 문제 해결 역량을 키울 수 있도록 고안됐다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한컴인텔리전스는 이번 협약을 통해 기업 맞춤형 IC-PBL 교과목을 개발·운영해 기업이 요구하는 역량을 갖춘 인재 양성을 돕는다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기업 구성원들의 역량 강화를 위한 재교육 커리큘럼 개발도 협력할 예정이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "협약에 따라 이번 학기 한양대 경영대학의 학부 과목 '인공지능과 비즈니스' 수강생들이 한컴인텔리전스의 인공지능 기반 비즈니스 모델을 제안하는 과정을 가진다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오순영 한컴인텔리전스 CTO는 \\\"이번 협약을 통해 실제 사업 주제를 바탕으로 강의를 개설하고, 학생들의 참신한 아이디어를 기반으로 실제 경영에 접목할 수 있는 비즈니스 모델을 만들어보는 등 4차 산업혁명의 패러다임에 부합하는 선도적인 산학협력 모델을 만들어나가겠다\\\"라고 말했다.",
+				"sentenceSize": 157
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한컴인텔리전스-한양대, AI비즈니스 모델 발굴 '맞손'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

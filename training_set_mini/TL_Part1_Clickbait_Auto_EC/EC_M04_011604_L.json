@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011604",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "대전·충남 중소기업 경기전망 3개월 만에 '뚝'",
+		"newsSubTitle": "전월比 7.1P ↓… 건강도 지수도 악화",
+		"newsContent": "대전·충남지역의 중소기업 경기전망이 3개월 만에 하락했다.\n30일 중소기업중앙회 대전·충남지역본부가 관내 134개 중소제조업체를 대상으로 실시한 경기전망조사결과, 6월 지역기업 업황전망 건강도지수(SBHI)는 지난달보다 7.1포인트 하락한 89.9를 기록했다.\n이는 지난 2월 이후 3개월 만에 하락한 것으로, 내수부진 장기화와 세계경제 회복지연 등으로 지역 경기둔화 우려의 심리가 반영된 것으로 분석된다.\n중소기업건강도지수(SBHI)는 100 이상이면 다음 달 경기가 좋아질 것으로, 100 미만이면 그 반대를 의미한다.\n지역별로는 대전이 93.9로 전월대비 3.0포인트 하락했으며, 충남은 9.5포인트 하락한 87.6을 기록했다.\n지난 4월 중소제조업 평균가동률은 73.7%로 전월보다 0.7%포인트 상승했다.\n대전은 전월과 동일한 73.9%, 충남은 1.2% 포인트 상승한 73.6%를 나타냈다.\n주소제조업 평균가동률은 80% 이상 가동시 정상 가동으로 본다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전·충남지역의 중소기업 경기전망이 3개월 만에 하락했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 중소기업중앙회 대전·충남지역본부가 관내 134개 중소제조업체를 대상으로 실시한 경기전망조사결과, 6월 지역기업 업황전망 건강도지수(SBHI)는 지난달보다 7.1포인트 하락한 89.9를 기록했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난 2월 이후 3개월 만에 하락한 것으로, 내수부진 장기화와 세계경제 회복지연 등으로 지역 경기둔화 우려의 심리가 반영된 것으로 분석된다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "중소기업건강도지수(SBHI)는 100 이상이면 다음 달 경기가 좋아질 것으로, 100 미만이면 그 반대를 의미한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지역별로는 대전이 93.9로 전월대비 3.0포인트 하락했으며, 충남은 9.5포인트 하락한 87.6을 기록했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 4월 중소제조업 평균가동률은 73.7%로 전월보다 0.7%포인트 상승했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대전은 전월과 동일한 73.9%, 충남은 1.2% 포인트 상승한 73.6%를 나타냈다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "주소제조업 평균가동률은 80% 이상 가동시 정상 가동으로 본다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT-카카오모빌리티 커넥티드카 사업 '맞손'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

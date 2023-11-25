@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004334",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "삼성전자, 차세대 반도체 패키징 기술 구현...차세대 2.5D 패키징 'H-Cube' 개발",
+		"newsSubTitle": "이종 기판 사용해 고성능·대면적의 효율적 패키징 기술 구현 고객사 희망사항 맞춘 다양한 형태의 2.5D 패키징 제공 가능",
+		"newsContent": "삼성전자가 고객의 욕구에 맞춰 다양한 형태의 패키지를 제공할 수 있는 패키징 기술을 구현해냈다.\n삼성전자는 11일 반도체 패키징 기술 혁신을 통해 고성능 반도체용 2.5D 패키징 솔루션 'H-Cube(Hybrid-Substrate Cube)'를 개발하고 고성능 반도체 공급을 확대한다고 밝혔다.\n삼성전자는 기존 2.5D 패키징 솔루션 I-Cube에 이어 이번에 고대역폭 메모리(HBM)를 6개 이상 탑재 가능한 업계 최고 사양의 'H-Cube'를 확보했다.\n이로써 데이터센터·AI·네트워크 등 응용처 별 시장에 맞는 맞춤형 반도체를 고객의 니즈에 맞춰 다양한 형태의 패키지로 제공할 수 있게 됐다.\n삼성전자 관계자는 데일리임팩트에 \\\"2.5D 패키징이 기존에 없었던 기술은 아니지만 고객마다 선호하는 것들이 다른 만큼 2.5D 패키징을 더 개발해 고객의 원하는 바를 맞춘 제품\\\"이라고 설명했다.\n삼성전자 'H-Cube'는 실리콘 인터포저 위에 CPU, GPU 등의 로직(Logic)과 HBM을 배치한 2.5D 패키징 솔루션으로, HPC, 데이터센터, 네트워크용 고사양 반도체에 사용된다. 'H-Cube'는 고사양 특성 구현이 용이한 메인 기판 아래 대면적 구현이 가능한 보조 기판을 추가로 사용하는 2단 하이브리드 패키징 구조다.\n로직과 함께 HBM 6개 이상을 효율적으로 탑재 가능한 장점이 있다.\n삼성전자는 메인 기판과 보조 기판을 전기적으로 연결하는 솔더볼(Solder ball)의 간격을 기존 대비 35% 좁혀 기판의 크기를 최소화하며 다수의 HBM 탑재로 인하여 증가하는 대면적 기판 제작의 어려움을 극복했다.\n또한 메인 기판 아래 보조 기판을 추가해 시스템 보드와의 연결성을 확보했다.\n삼성전자는 다수의 로직과 HBM을 적층하면서도 칩에 안정적인 전원을 공급하고 신호의 손실이나 왜곡을 최소화 할 수 있도록 칩 분석 기술도 적용해 이번 솔루션의 신뢰도를 높였다.\n파운드리사업부 마켓전략팀 강문수 전무는 \\\"'H-Cube'는 삼성전자와 앰코테크놀로지, 삼성전기가 오랫동안 협력해온 결과로 많은 수의 칩을 집적해야하는 고사양 반도체를 위한 최적의 솔루션\\\"이라며 \\\"삼성전자는 앞으로도 파운드리 파트너와의 긴밀한 협력을 통해 기술적 한계를 넘어서는 다양한 패키징 솔루션을 제공해 나갈 것\\\"이라고 강조했다.\n앰코테크놀로지 기술연구소 김진영 상무는 \\\"삼성전자와 앰코테크놀로지가 H-Cube 솔루션을 성공적으로 개발하며 HPC, AI 시장에서 요구되는 반도체 집적 기술 구현의 난관을 극복했다\\\"면서 \\\"파운드리와 OSAT(반도체 패키징, 테스트 전문업체)의 협업 관계를 성공적으로 이루어 낸 것에 큰 의미가 있다\\\"고 설명했다.\n한편 삼성전자는 17일(미국 서부시간 기준) 파운드리 생태계 강화를 위한 '제 3회 SAFE(Samsung Advanced Foundry Ecosystem) 포럼'을 온라인으로 개최한다.\n이번 행사는 사전 등록을 통해 참여하면 된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 고객의 욕구에 맞춰 다양한 형태의 패키지를 제공할 수 있는 패키징 기술을 구현해냈다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자는 11일 반도체 패키징 기술 혁신을 통해 고성능 반도체용 2.5D 패키징 솔루션 'H-Cube(Hybrid-Substrate Cube)'를 개발하고 고성능 반도체 공급을 확대한다고 밝혔다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성전자는 기존 2.5D 패키징 솔루션 I-Cube에 이어 이번에 고대역폭 메모리(HBM)를 6개 이상 탑재 가능한 업계 최고 사양의 'H-Cube'를 확보했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이로써 데이터센터·AI·네트워크 등 응용처 별 시장에 맞는 맞춤형 반도체를 고객의 니즈에 맞춰 다양한 형태의 패키지로 제공할 수 있게 됐다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성전자 관계자는 데일리임팩트에 \\\"2.5D 패키징이 기존에 없었던 기술은 아니지만 고객마다 선호하는 것들이 다른 만큼 2.5D 패키징을 더 개발해 고객의 원하는 바를 맞춘 제품\\\"이라고 설명했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자 'H-Cube'는 실리콘 인터포저 위에 CPU, GPU 등의 로직(Logic)과 HBM을 배치한 2.5D 패키징 솔루션으로, HPC, 데이터센터, 네트워크용 고사양 반도체에 사용된다. 'H-Cube'는 고사양 특성 구현이 용이한 메인 기판 아래 대면적 구현이 가능한 보조 기판을 추가로 사용하는 2단 하이브리드 패키징 구조다.",
+				"sentenceSize": 187
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "로직과 함께 HBM 6개 이상을 효율적으로 탑재 가능한 장점이 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성전자는 메인 기판과 보조 기판을 전기적으로 연결하는 솔더볼(Solder ball)의 간격을 기존 대비 35% 좁혀 기판의 크기를 최소화하며 다수의 HBM 탑재로 인하여 증가하는 대면적 기판 제작의 어려움을 극복했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또한 메인 기판 아래 보조 기판을 추가해 시스템 보드와의 연결성을 확보했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "삼성전자는 다수의 로직과 HBM을 적층하면서도 칩에 안정적인 전원을 공급하고 신호의 손실이나 왜곡을 최소화 할 수 있도록 칩 분석 기술도 적용해 이번 솔루션의 신뢰도를 높였다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "파운드리사업부 마켓전략팀 강문수 전무는 \\\"'H-Cube'는 삼성전자와 앰코테크놀로지, 삼성전기가 오랫동안 협력해온 결과로 많은 수의 칩을 집적해야하는 고사양 반도체를 위한 최적의 솔루션\\\"이라며 \\\"삼성전자는 앞으로도 파운드리 파트너와의 긴밀한 협력을 통해 기술적 한계를 넘어서는 다양한 패키징 솔루션을 제공해 나갈 것\\\"이라고 강조했다.",
+				"sentenceSize": 190
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "앰코테크놀로지 기술연구소 김진영 상무는 \\\"삼성전자와 앰코테크놀로지가 H-Cube 솔루션을 성공적으로 개발하며 HPC, AI 시장에서 요구되는 반도체 집적 기술 구현의 난관을 극복했다\\\"면서 \\\"파운드리와 OSAT(반도체 패키징, 테스트 전문업체)의 협업 관계를 성공적으로 이루어 낸 것에 큰 의미가 있다\\\"고 설명했다.",
+				"sentenceSize": 179
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "한편 삼성전자는 17일(미국 서부시간 기준) 파운드리 생태계 강화를 위한 '제 3회 SAFE(Samsung Advanced Foundry Ecosystem) 포럼'을 온라인으로 개최한다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이번 행사는 사전 등록을 통해 참여하면 된다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "못미더운 인테리어 시장…소비자 평가지수 최하위",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

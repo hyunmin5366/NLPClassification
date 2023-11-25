@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353647",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "카카오엔터프라이즈 AI모델, 한국어 기계독해 평가 1위",
+		"newsSubTitle": "null",
+		"newsContent": "카카오엔터프라이즈는 자체 개발한 자연어처리 AI(인공지능) 모델이 한국어 기계독해 데이터셋 'KorQuAD 2.0' 성능 평가에서 1위를 차지했다고 23일 밝혔다.\nKorQuAD 2.0은 대규모 한국어 질의응답 데이터셋이다.\n데이터셋에서 추출한 내용을 질문으로 제시하면, AI 모델이 답을 찾아내는 방식으로 평가가 이뤄진다.\n카카오엔터프라이즈의 자연어처리 모델 'LittleBird-large'는 정확도 90.22점을 기록하며 1위에 올랐다.\n처리 속도도 기존 1위 모델 대비 약 1.7배 빠른 수치를 기록했다.\n추론 속도와 실용성을 높이기 위해 함께 개발된 'LittleBird-base' 모델은 정확도 88.57점으로 6위에 올랐다.\n유사 성능의 타사 모델 대비 약 3.4배 빠른 속도를 나타냈다는 설명이다.\n카카오엔터프라이즈는 해당 모델을 고도화해 검색·챗봇과 AI 컨택센터인 '카카오 i 커넥트 센터'에 적용할 예정이다.\n이에 따라 AI 상담사가 고객 질의에 한층 정확한 답변을 제공할 전망이다.\n지난 2019년에도 카카오의 자체 언어모델이 'KorQuAD 1.0'에서 1위에 오른 바 있다.\n당시 카카오의 언어모델은 인간의 문장 판별 및 독해 능력 수준으로 알려진 91.20점보다 0.65점 높은 91.85점을 받으며 AI가 인간보다 높은 점수를 기록한 최초의 사례로 기록됐다.\n최동진 카카오엔터프라이즈 AI Lab & Service장은 \\\"기계독해는 문서를 단순히 이해하는 것을 넘어 분석, 추론을 통해 최적화된 답을 제공하는 기술로, AI를 활용한 실서비스를 고도화하는데 직접적인 영향을 끼친다\\\"며 \\\"카카오엔터프라이즈는 앞으로 자연어처리는 물론 비전, 음성 등 다양한 영역에서 연구 역량을 강화해 나갈 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오엔터프라이즈는 자체 개발한 자연어처리 AI(인공지능) 모델이 한국어 기계독해 데이터셋 'KorQuAD 2.0' 성능 평가에서 1위를 차지했다고 23일 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KorQuAD 2.0은 대규모 한국어 질의응답 데이터셋이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "데이터셋에서 추출한 내용을 질문으로 제시하면, AI 모델이 답을 찾아내는 방식으로 평가가 이뤄진다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "카카오엔터프라이즈의 자연어처리 모델 'LittleBird-large'는 정확도 90.22점을 기록하며 1위에 올랐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "처리 속도도 기존 1위 모델 대비 약 1.7배 빠른 수치를 기록했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "추론 속도와 실용성을 높이기 위해 함께 개발된 'LittleBird-base' 모델은 정확도 88.57점으로 6위에 올랐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유사 성능의 타사 모델 대비 약 3.4배 빠른 속도를 나타냈다는 설명이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카카오엔터프라이즈는 해당 모델을 고도화해 검색·챗봇과 AI 컨택센터인 '카카오 i 커넥트 센터'에 적용할 예정이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 따라 AI 상담사가 고객 질의에 한층 정확한 답변을 제공할 전망이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지난 2019년에도 카카오의 자체 언어모델이 'KorQuAD 1.0'에서 1위에 오른 바 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "당시 카카오의 언어모델은 인간의 문장 판별 및 독해 능력 수준으로 알려진 91.20점보다 0.65점 높은 91.85점을 받으며 AI가 인간보다 높은 점수를 기록한 최초의 사례로 기록됐다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "최동진 카카오엔터프라이즈 AI Lab & Service장은 \\\"기계독해는 문서를 단순히 이해하는 것을 넘어 분석, 추론을 통해 최적화된 답을 제공하는 기술로, AI를 활용한 실서비스를 고도화하는데 직접적인 영향을 끼친다\\\"며 \\\"카카오엔터프라이즈는 앞으로 자연어처리는 물론 비전, 음성 등 다양한 영역에서 연구 역량을 강화해 나갈 것\\\"이라고 말했다.",
+				"sentenceSize": 196
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카카오엔터프라이즈 AI모델, 한국어 기계독해 평가 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

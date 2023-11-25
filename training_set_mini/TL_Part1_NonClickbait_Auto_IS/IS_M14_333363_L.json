@@ -1,0 +1,339 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333363",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[이슈분석]오픈랜, 글로벌 5G 대세 유력···대응 서둘러야",
+		"newsSubTitle": "네트워크 효율성 높이고 종속성 탈피 개방형 생태계로 새 시장 창출 기대 이통사 넘어 구글-MS-페이스북도 참여 글로벌 기지국 제조사 기술 적용 필수",
+		"newsContent": "'오픈랜(RAN, Radio Access Network)'은 글로벌 5세대(5G) 이동통신 기술 진화를 위한 핵심 과제로 부상했다고 해도 과언이 아니다.\n우리나라를 비롯한 글로벌 주요 이동통신사와 네트워크장비 기업은 오픈랜 구현을 위해 네트워크 장비간 개방형 인터페이스 구축에 주력한다.\n장기적으로는 기지국 운용체계 등 소프트웨어와 하드웨어(HW)를 분리한 전면적 개방형 기지국 기술이 등장할 것으로 예상된다.\n오픈랜 상용화 과정에서 대규모 새로운 시장이 창출될 것으로 기대되는 만큼, 기술 선점과 시장 활성화를 위해 민∙관의 선제 대응이 요구된다.\n◇오픈랜 개발 배경은 '개방형 5G 프런트홀 워킹그룹(WG)' 출범은 민∙관이 2012년 LTE 상용화 초기부터 겪었던 CPRI 독점 논란을 5G 시대에는 반복하지 않겠다는 의지가 반영된 것으로 풀이된다.\n글로벌 기지국 제조사는 LTE 상용화를 계기로 독자 인터페이스(CPRI)를 도입, 중앙 데이터처리장치(DU)와 원격에서 단말과 접속하는 원격장치(RU, Remote Unit)를 같은 장비 기업 제품으로만 사용하게 했다.\nLTE 기지국 구성을 효율화하기 위한 결정이었다.\n하지만 RU는 안테나를 갖추고 이용자 단말과 직접 통신한다는 점에서 중계기와 유사한 역할로, 중계기 시장을 잠식하는 부작용을 불러왔다.\nCPRI 독점은 이통사 입장에서도 효율적 네트워크 구성을 가로막는 장애물로 작용했다.\n5G 상용화를 계기로 글로벌 이통사 차원에서 네트워크장비 제조사에 대한 종속성을 탈피해야 한다는 논의가 불붙었다.\n당면 과제는 인터페이스 개방이지만, 장기적으로 진화된 가상화 기술을 활용해 기지국 소프트웨어(SW)와 하드웨어(HW)를 분리하면 보다 효과적인 망 구성이 가능하다는 고민도 작용했다.\nAT&T와 차이나모바일, 도이치텔레콤, NTT도코모, 오렌지는 2018년 8월 오픈랜 얼라이언스(O-RAN Alliance)를 공식 출범했다.\n이후 SK텔레콤, KT, 삼성전자 등이 노키아, 에릭슨 등 글로벌기업이 오픈랜 얼라이언스에 참여했다.\n이에 발맞춰 국내 시장에서도 오픈랜 구축에 대한 논의가 본격화됐다.\n◇오픈랜 기대효과는 개별적으로 국제기구에 참여하거나 자체 기술을 개발하던 국내 산업계와 연구진도 5G 프런트홀 관련 기술 개발을 시작으로 협업 필요성이 제기됐다.\n5G 포럼과 한국전자통신연구원(ETRI)이 개방형 5G 프런트홀 워킹그룹 설립을 제안하며 23개사가 참여하는 오픈랜 연합체가 가동을 시작하게 됐다.\nSK텔레콤과 KT, LG유플러스 등 이통 3사는 자체 연구소를 통해 국내외 네트워크장비 제조사와 오픈랜 기술 준비에 속도를 내고 있다.\n오픈랜 핵심인 5G 프런트홀 인터페이스 분야에서 기초 규격과 표준화는 완료된 것으로 알려졌다.\n개방형 5G 프런트홀 워킹그룹은 개방형 프런트홀 인터페이스 구축과 기지국 기능분할 등을 중점 과제로 추진한다.\n개방형 인터페이스를 채용할 경우 중계기를 개발하는 중소기업이 5G 안테나 기술력을 바탕으로 RU를 개발, 관련 산업 활성화 기반이 조성될 것으로 기대된다.\n기지국 기능 분할은 중앙 데이터 장치에 집중됐던 기지국 데이터 처리 기능을 다양한 기지국 부위에 분산하는 기술로, 5G 대용량 데이터를 효과적으로 처리한다.\n오픈랜은 궁극적으로 이 같은 기술을 바탕으로 이통사, 중소 네트워크기업, 부품업체 간 개방형 생태계를 구축, 교류를 바탕으로 새로운 기술과 산업생태계를 형성할 것으로 전망된다.\n이문식 개방형 5G 프런트홀 워킹그룹 의장(ETRI 실장)은 \\\"오픈랜 핵심인 개방형 프런트홀 기술은 5G 시대에 적합하도록 무선 전송용량을 증대시키는 것은 물론이고, 다양한 통신 관련 기업이 생태계를 구축하도록 하는 효과가 기대된다\\\"고 말했다.\n◇과제는 개방형 5G 프런트홀을 비롯한 오픈랜 기초 기술은 이르면 내년 상용화가 예상된다.\n이통사와 글로벌 기지국 제조사의 기술 적용 확대는 필수 과제다.\n네트워크 장비 생태계에 참여하는 기업이 우수한 기술을 개발해도 정작 사용하지 않으면 무용지물이다.\n국내외 글로벌 오픈랜 연합체에는 삼성전자, 에릭슨, 노키아 등 유력 기지국 제조사가 참여하는 만큼, 혁신 기술을 적용해 동반 성장하겠다는 의지가 필요한 부분이다.\n네트워크 장비를 사용하는 이통사의 지원도 필수다.\n장기적으로, 가상화기술을 활용해 기지국 소프트웨어(SW)와 하드웨어(HW)를 분리해, 완전한 개방형 무선네트워크를 구축하는 등 미래 기술 진화 논의에도 지속적인 관심이 필요하다.\n오픈랜 얼라이언스는 워킹그룹4를 통해 5G 프런트홀 인터페이스를 표준화하고 워킹그룹6에서는 기지국 SW/HW 분리, 워킹그룹7은 SW가 제거된 화이트박스 기지국 표준을 논의한다.\n일각에서는 기지국 SW/HW 분리의 경우 지나치게 이상적이라며 상용망 적용 가능성에 의문을 표하기도 한다.\n하지만 글로벌 차원에서 이미 준비가 시작됐다는데 충분한 의미가 있다.\n페이스북, MS 등이 기지국 시장에 관심을 갖고 오픈랜 논의에 참여한다는 점도 특이할 만한 부분이다.\n우리나라 네트워크장비 기업과 SW기업에서도 새로운 기회가 될 수 있다는 의미다.\n통신 전문가는 \\\"글로벌 이통사와 기술기업 대응을 볼 때 오픈 랜은 이통시장에 새로운 대세가 되기에 충분하다는 평가를 얻고 있다\\\"며 \\\"당면한 기술을 중심으로 미래 네트워크 비전에도 국내 산업계의 적극적인 대응이 필요하며, 국내에서도 오픈랜 기술을 체계적으로 논의할 연합체가 구성된 것은 긍정적\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 35,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'오픈랜(RAN, Radio Access Network)'은 글로벌 5세대(5G) 이동통신 기술 진화를 위한 핵심 과제로 부상했다고 해도 과언이 아니다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우리나라를 비롯한 글로벌 주요 이동통신사와 네트워크장비 기업은 오픈랜 구현을 위해 네트워크 장비간 개방형 인터페이스 구축에 주력한다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장기적으로는 기지국 운용체계 등 소프트웨어와 하드웨어(HW)를 분리한 전면적 개방형 기지국 기술이 등장할 것으로 예상된다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오픈랜 상용화 과정에서 대규모 새로운 시장이 창출될 것으로 기대되는 만큼, 기술 선점과 시장 활성화를 위해 민∙관의 선제 대응이 요구된다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "◇오픈랜 개발 배경은 '개방형 5G 프런트홀 워킹그룹(WG)' 출범은 민∙관이 2012년 LTE 상용화 초기부터 겪었던 CPRI 독점 논란을 5G 시대에는 반복하지 않겠다는 의지가 반영된 것으로 풀이된다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "글로벌 기지국 제조사는 LTE 상용화를 계기로 독자 인터페이스(CPRI)를 도입, 중앙 데이터처리장치(DU)와 원격에서 단말과 접속하는 원격장치(RU, Remote Unit)를 같은 장비 기업 제품으로만 사용하게 했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "LTE 기지국 구성을 효율화하기 위한 결정이었다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하지만 RU는 안테나를 갖추고 이용자 단말과 직접 통신한다는 점에서 중계기와 유사한 역할로, 중계기 시장을 잠식하는 부작용을 불러왔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "CPRI 독점은 이통사 입장에서도 효율적 네트워크 구성을 가로막는 장애물로 작용했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "5G 상용화를 계기로 글로벌 이통사 차원에서 네트워크장비 제조사에 대한 종속성을 탈피해야 한다는 논의가 불붙었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "당면 과제는 인터페이스 개방이지만, 장기적으로 진화된 가상화 기술을 활용해 기지국 소프트웨어(SW)와 하드웨어(HW)를 분리하면 보다 효과적인 망 구성이 가능하다는 고민도 작용했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "AT&T와 차이나모바일, 도이치텔레콤, NTT도코모, 오렌지는 2018년 8월 오픈랜 얼라이언스(O-RAN Alliance)를 공식 출범했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이후 SK텔레콤, KT, 삼성전자 등이 노키아, 에릭슨 등 글로벌기업이 오픈랜 얼라이언스에 참여했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이에 발맞춰 국내 시장에서도 오픈랜 구축에 대한 논의가 본격화됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "◇오픈랜 기대효과는 개별적으로 국제기구에 참여하거나 자체 기술을 개발하던 국내 산업계와 연구진도 5G 프런트홀 관련 기술 개발을 시작으로 협업 필요성이 제기됐다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "5G 포럼과 한국전자통신연구원(ETRI)이 개방형 5G 프런트홀 워킹그룹 설립을 제안하며 23개사가 참여하는 오픈랜 연합체가 가동을 시작하게 됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "SK텔레콤과 KT, LG유플러스 등 이통 3사는 자체 연구소를 통해 국내외 네트워크장비 제조사와 오픈랜 기술 준비에 속도를 내고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "오픈랜 핵심인 5G 프런트홀 인터페이스 분야에서 기초 규격과 표준화는 완료된 것으로 알려졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "개방형 5G 프런트홀 워킹그룹은 개방형 프런트홀 인터페이스 구축과 기지국 기능분할 등을 중점 과제로 추진한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "개방형 인터페이스를 채용할 경우 중계기를 개발하는 중소기업이 5G 안테나 기술력을 바탕으로 RU를 개발, 관련 산업 활성화 기반이 조성될 것으로 기대된다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "기지국 기능 분할은 중앙 데이터 장치에 집중됐던 기지국 데이터 처리 기능을 다양한 기지국 부위에 분산하는 기술로, 5G 대용량 데이터를 효과적으로 처리한다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "오픈랜은 궁극적으로 이 같은 기술을 바탕으로 이통사, 중소 네트워크기업, 부품업체 간 개방형 생태계를 구축, 교류를 바탕으로 새로운 기술과 산업생태계를 형성할 것으로 전망된다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이문식 개방형 5G 프런트홀 워킹그룹 의장(ETRI 실장)은 \\\"오픈랜 핵심인 개방형 프런트홀 기술은 5G 시대에 적합하도록 무선 전송용량을 증대시키는 것은 물론이고, 다양한 통신 관련 기업이 생태계를 구축하도록 하는 효과가 기대된다\\\"고 말했다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "◇과제는 개방형 5G 프런트홀을 비롯한 오픈랜 기초 기술은 이르면 내년 상용화가 예상된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "이통사와 글로벌 기지국 제조사의 기술 적용 확대는 필수 과제다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "네트워크 장비 생태계에 참여하는 기업이 우수한 기술을 개발해도 정작 사용하지 않으면 무용지물이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "국내외 글로벌 오픈랜 연합체에는 삼성전자, 에릭슨, 노키아 등 유력 기지국 제조사가 참여하는 만큼, 혁신 기술을 적용해 동반 성장하겠다는 의지가 필요한 부분이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "네트워크 장비를 사용하는 이통사의 지원도 필수다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "장기적으로, 가상화기술을 활용해 기지국 소프트웨어(SW)와 하드웨어(HW)를 분리해, 완전한 개방형 무선네트워크를 구축하는 등 미래 기술 진화 논의에도 지속적인 관심이 필요하다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "오픈랜 얼라이언스는 워킹그룹4를 통해 5G 프런트홀 인터페이스를 표준화하고 워킹그룹6에서는 기지국 SW/HW 분리, 워킹그룹7은 SW가 제거된 화이트박스 기지국 표준을 논의한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "일각에서는 기지국 SW/HW 분리의 경우 지나치게 이상적이라며 상용망 적용 가능성에 의문을 표하기도 한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "하지만 글로벌 차원에서 이미 준비가 시작됐다는데 충분한 의미가 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "페이스북, MS 등이 기지국 시장에 관심을 갖고 오픈랜 논의에 참여한다는 점도 특이할 만한 부분이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "우리나라 네트워크장비 기업과 SW기업에서도 새로운 기회가 될 수 있다는 의미다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "통신 전문가는 \\\"글로벌 이통사와 기술기업 대응을 볼 때 오픈 랜은 이통시장에 새로운 대세가 되기에 충분하다는 평가를 얻고 있다\\\"며 \\\"당면한 기술을 중심으로 미래 네트워크 비전에도 국내 산업계의 적극적인 대응이 필요하며, 국내에서도 오픈랜 기술을 체계적으로 논의할 연합체가 구성된 것은 긍정적\\\"이라고 말했다.",
+				"sentenceSize": 175
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]오픈랜, 글로벌 5G 대세 유력···대응 서둘러야",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

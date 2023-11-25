@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349280",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT, 에이스캠퍼와 DX플랫폼 적용 캠핑카 만든다",
+		"newsSubTitle": "null",
+		"newsContent": "KT가 코로나19와 미세먼지로부터 가족들의 건강을 지킬 수 있는 캠핑카를 만든다. KT는 에이스캠퍼와 전날 KT 광화문 사옥에서 ‘클린 스마트 캠핑카 공동사업 추진’을 위한 업무협약식과 시연행사를 가졌다고 25일 밝혔다.\nKT는 클린 스마트 캠핑카 제작을 위해 환경, 안전, 방역 솔루션을 개발하고 상품화를 추진한다.\n시장 진출을 위한 컨설팅도 한다.\n에이스캠퍼는 KT 솔루션을 ‘클린 스마트 캠핑카’에 적용하고 사물인터넷(IoT) 서비스를 발굴할 계획이다.\n시연행사에선 캠핑카 내 실내 공기를 측정해 실시간으로 표출하는 ‘환경 관제 서비스’, 무선 화재감지기로 온도와 불꽃 등을 감지해 화재 여부 판단 및 긴급 출동서비스가 가능한 ‘화재 예방 서비스’, 양·음압기를 통해 오염물질 및 바이러스를 차단할 수 있는 ‘청정방역 서비스’, 각종 솔루션을 KT의 관제플랫폼과 연동해 관리하는 ‘관제 시스템’을 선보였다.\n한편, 국내 캠핑카는 2019년말 현재 2만4869대로 8년만에 19배 증가했다.\nSNS 게시물의 '차박' 언급량은 코로나19 이전보다 223% 증가하는 등 캠핑카에 대한 관심은 더 높아지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 코로나19와 미세먼지로부터 가족들의 건강을 지킬 수 있는 캠핑카를 만든다. KT는 에이스캠퍼와 전날 KT 광화문 사옥에서 ‘클린 스마트 캠핑카 공동사업 추진’을 위한 업무협약식과 시연행사를 가졌다고 25일 밝혔다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT는 클린 스마트 캠핑카 제작을 위해 환경, 안전, 방역 솔루션을 개발하고 상품화를 추진한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시장 진출을 위한 컨설팅도 한다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "에이스캠퍼는 KT 솔루션을 ‘클린 스마트 캠핑카’에 적용하고 사물인터넷(IoT) 서비스를 발굴할 계획이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시연행사에선 캠핑카 내 실내 공기를 측정해 실시간으로 표출하는 ‘환경 관제 서비스’, 무선 화재감지기로 온도와 불꽃 등을 감지해 화재 여부 판단 및 긴급 출동서비스가 가능한 ‘화재 예방 서비스’, 양·음압기를 통해 오염물질 및 바이러스를 차단할 수 있는 ‘청정방역 서비스’, 각종 솔루션을 KT의 관제플랫폼과 연동해 관리하는 ‘관제 시스템’을 선보였다.",
+				"sentenceSize": 197
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 국내 캠핑카는 2019년말 현재 2만4869대로 8년만에 19배 증가했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SNS 게시물의 '차박' 언급량은 코로나19 이전보다 223% 증가하는 등 캠핑카에 대한 관심은 더 높아지고 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 에이스캠퍼와 DX플랫폼 적용 캠핑카 만든다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

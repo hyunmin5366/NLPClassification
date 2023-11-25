@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_001722",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "LG화학 또 사고...서산 촉매센터 화재로 1명 사망, 2명 부상",
+		"newsSubTitle": "",
+		"newsContent": "서산 LG화학 촉매센터에서 화재가 발생해 노동자 1명이 숨지고 2명이 화상을 입은 채 인근 병원으로 후송 중인 것으로 알려졌다.\n화재는 19일 오후 2시 25분쯤 충남 서산시 대산읍 대산공단 내에 위치한 LG화학 촉매센터에서 발생했다.\n서산시 관계자는 미디어SR에 \\\"소방당국이 현장에서 진화 작업 중\\\"이라면서 \\\"정확한 사고 경위는 진화 작업 후에 확인할 수 있을 것\\\"이라고 말했다.\n소방당국은 추가 피해 상황을 확인 중이다.\nLG화학 관계자는 미디어SR에 \\\"사고 경위를 파악 중이며 사고가 발생한 촉매센터는 플라스틱 물성을 변화시키는 물질을 다루는 곳\\\"이라며 \\\"지난 7일 인도에서 사고 원인이 된 스티렌모노머와는 아무 관련이 없다\\\"고 연관성을 부인했다.\n소방당국은 진화 작업과 함께 추가 피해 상황을 확인 중이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서산 LG화학 촉매센터에서 화재가 발생해 노동자 1명이 숨지고 2명이 화상을 입은 채 인근 병원으로 후송 중인 것으로 알려졌다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "화재는 19일 오후 2시 25분쯤 충남 서산시 대산읍 대산공단 내에 위치한 LG화학 촉매센터에서 발생했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서산시 관계자는 미디어SR에 \\\"소방당국이 현장에서 진화 작업 중\\\"이라면서 \\\"정확한 사고 경위는 진화 작업 후에 확인할 수 있을 것\\\"이라고 말했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소방당국은 추가 피해 상황을 확인 중이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG화학 관계자는 미디어SR에 \\\"사고 경위를 파악 중이며 사고가 발생한 촉매센터는 플라스틱 물성을 변화시키는 물질을 다루는 곳\\\"이라며 \\\"지난 7일 인도에서 사고 원인이 된 스티렌모노머와는 아무 관련이 없다\\\"고 연관성을 부인했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소방당국은 진화 작업과 함께 추가 피해 상황을 확인 중이다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이코노미 줌In]빠름 빠름 빠름 보다 '더~ 빠르게'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

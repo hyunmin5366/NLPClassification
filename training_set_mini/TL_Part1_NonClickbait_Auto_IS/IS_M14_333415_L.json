@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333415",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "에너지산업",
+		"newsTitle": "삼성중공업, LNG운반선 2척 4609억 수주",
+		"newsSubTitle": "",
+		"newsContent": "삼성중공업은 오세아니아 지역 선사로부터 액화천연가스(LNG)운반선 2척을 총 4609억원에 수주했다고 23일 공시했다.\n수주 선박은 2024년 9월까지 순차 인도된다.\n삼성중공업은 이번 계약까지 올해 총 54척, 71억 달러를 수주했다.\n수주 목표액 91억 달러 대비 78%를 달성했다.\nLNG운반선과 LNG 이중연료 추진 컨테이너선 등 LNG 관련 선박이 전체 수주 물량 대비 43%(23척)을 차지한다.\n삼성중공업 관계자는 “LNG 차별화 기술을 바탕으로 우월적 시장 지위를 더욱 공고히할 것”이라면서 “올해 예정된 LNG 프로젝트를 감안하면 목표 달성 가능성이 높다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성중공업은 오세아니아 지역 선사로부터 액화천연가스(LNG)운반선 2척을 총 4609억원에 수주했다고 23일 공시했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "수주 선박은 2024년 9월까지 순차 인도된다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성중공업은 이번 계약까지 올해 총 54척, 71억 달러를 수주했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수주 목표액 91억 달러 대비 78%를 달성했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LNG운반선과 LNG 이중연료 추진 컨테이너선 등 LNG 관련 선박이 전체 수주 물량 대비 43%(23척)을 차지한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성중공업 관계자는 “LNG 차별화 기술을 바탕으로 우월적 시장 지위를 더욱 공고히할 것”이라면서 “올해 예정된 LNG 프로젝트를 감안하면 목표 달성 가능성이 높다”고 밝혔다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성중공업, LNG운반선 2척 4609억 수주",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

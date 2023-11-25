@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325856",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "[10대 뉴스]텐센트 아시아 기업 최초 시총 5000억달러 돌파...글로벌 시총 5위",
+		"newsSubTitle": "",
+		"newsContent": "중국 인터넷·콘텐츠 기업 텐센트는 올해 시가총액 5000억달러 고지를 돌파했다.\n아시아 기업 가운데 최초다.\n시총으로 페이스북을 제치고 세계 5위 기업에 올랐다.\n애플, 구글 모회사 알파벳, 마이크로소프트(MS), 아마존, 페이스북에 이어 6번째로 '5000억달러 클럽'에 들었다.\n텐센트는 '위챗'과 'QQ메신저'로 중국 메신저 앱 시장을 장악했다.\n이런 영향력을 바탕으로 게임, 웹툰 등 콘텐츠 플랫폼 사업도 성공을 거뒀다.\n다양한 온·오프라인 연계(O2O)서비스와 결제기능을 추가, 메신저 하나로 생활에 필요한 모든 것을 연결해나가고 있다.\n텐센트는 중국 공업신식화부와 중국인터넷협회가 공동 발표한 '2017년 중국 100대 인터넷 기업' 순위에서도 알리바바와 바이두 등 거대 기업을 제치고 1위를 차지했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국 인터넷·콘텐츠 기업 텐센트는 올해 시가총액 5000억달러 고지를 돌파했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아시아 기업 가운데 최초다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시총으로 페이스북을 제치고 세계 5위 기업에 올랐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "애플, 구글 모회사 알파벳, 마이크로소프트(MS), 아마존, 페이스북에 이어 6번째로 '5000억달러 클럽'에 들었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "텐센트는 '위챗'과 'QQ메신저'로 중국 메신저 앱 시장을 장악했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이런 영향력을 바탕으로 게임, 웹툰 등 콘텐츠 플랫폼 사업도 성공을 거뒀다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다양한 온·오프라인 연계(O2O)서비스와 결제기능을 추가, 메신저 하나로 생활에 필요한 모든 것을 연결해나가고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "텐센트는 중국 공업신식화부와 중국인터넷협회가 공동 발표한 '2017년 중국 100대 인터넷 기업' 순위에서도 알리바바와 바이두 등 거대 기업을 제치고 1위를 차지했다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[10대 뉴스]텐센트 아시아 기업 최초 시총 5000억달러 돌파...글로벌 시총 5위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

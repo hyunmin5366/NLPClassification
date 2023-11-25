@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352307",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "[단독]아파트 주민 사생활, 알몸까지 '탈탈'...정부, 월패드 해킹차단 나선다",
+		"newsSubTitle": "null",
+		"newsContent": "최근 아파트 내 월패드를 해킹해 주민들의 일상을 불법 촬영한 영상이 유출돼 논란이된 가운데 정부가 이를 막기위한 월패드 '세대간 망분리'를 의무화한다.\n하나의 네트워크로 연결된 국내 아파트 단지 시스템 구조 때문에 해킹 공격 한 번에 단지 내 전 가구의 월패드 카메라로 사생활이 털리는 사고가 이어져서다.\n이에 가상화 기술로 네트워크를 세대 별로 분리 운영해 피해를 막겠다는 것이다.\n26일 정부와 업계에 따르면 과학기술정보통신부와 산업통상자원부, 국토교통부는 홈 IoT(사물인터넷) 보안 관련 고시인 '지능형 홈네트워크 설비 설치 및 기술기준'에 세대간 망분리 의무화 조항을 담기로 했다.\n세 개 부처 공동 소관인 이번 행정고시는 이날부터 국무총리실이 규제심사에 착수해 내주 이해관계자 대상 설명회 등 본격적인 입법 절차를 밟는다.\n과기정통부 관계자는 \\\"세대간 망분리를 의무화하기로 관련된 세 부처가 합의를 마쳤다\\\"고 설명했다.\n세대간 망분리 의무화는 정부가 2018년부터 연구용역과 전문가 의견수렴 등을 통해 검토해 왔으나, 건설업계와 월패드 업체 등이 비용부담, 단가상승 이유로 반대해 답보상태였다.\n그러다 지난 국정감사에서 홈네트워크 보안에 정부가 미온적으로 대처한다는 일부 의원들의 질타가 이어진 뒤 정부가 최근 이를 재추진했다.\n월패드는 아파트내에 벽에 카메라와 디스플레이로 구성된 인터폰 형태의 자동화 기기다.\n가정 내 도어록과 조명, 가전 등 IoT 기기를 원격 작동하거나 현관 앞에 누가 왔는지 확인하고 문을 열 수 있다.\n특히 현재는 월패드가 연결된 각 세대의 망이 모두 하나의 공용망을 통해 중앙 서버와 연결하는 구조다.\n따라서 한 가구만 해킹에 성공하면 공용망을 타고 다른 가구도 쉽게 해킹할 수 있다.\n이와관련 최근 일부 다크웹(추적차단을 위해 특수 웹 브라우저로만 접근할 수 있는 웹페이지) 등에 전국 아파트 월패드 카메라를 통해 불법 촬영한 영상이 유포된 사건이 논란이 됐다.\n이러한 구조를 악용한 해킹 공격으로 일반 가정집 내부 모습이 그대로 담겨있다.\nTV를 보거나 밥을 먹는 등의 일상은 물론, 주민의 알몸이나 성관계 영상까지 담겨있는 것으로 알려졌다.\n온라인 커뮤니티에 공유된 해킹 대상 공동주택 수만 700여곳에 달한다.\n이에 경찰과 과기정통부 등도 해당 리스트의 진위여부 등을 수사 중이다.\n남우기 한국정보통신기술사회 회장은 \\\"인터넷 기반 서비스가 많아져 월패드 등 홈 네트워크에 외부에서 접근할 수 있는 경로도 매우 많아졌다\\\"며 \\\"각 세대 별로 네트워크를 분리해야 해킹 피해가 전 아파트 단지로 확산하는 것을 막을 수 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 아파트 내 월패드를 해킹해 주민들의 일상을 불법 촬영한 영상이 유출돼 논란이된 가운데 정부가 이를 막기위한 월패드 '세대간 망분리'를 의무화한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하나의 네트워크로 연결된 국내 아파트 단지 시스템 구조 때문에 해킹 공격 한 번에 단지 내 전 가구의 월패드 카메라로 사생활이 털리는 사고가 이어져서다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 가상화 기술로 네트워크를 세대 별로 분리 운영해 피해를 막겠다는 것이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "26일 정부와 업계에 따르면 과학기술정보통신부와 산업통상자원부, 국토교통부는 홈 IoT(사물인터넷) 보안 관련 고시인 '지능형 홈네트워크 설비 설치 및 기술기준'에 세대간 망분리 의무화 조항을 담기로 했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "세 개 부처 공동 소관인 이번 행정고시는 이날부터 국무총리실이 규제심사에 착수해 내주 이해관계자 대상 설명회 등 본격적인 입법 절차를 밟는다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "과기정통부 관계자는 \\\"세대간 망분리를 의무화하기로 관련된 세 부처가 합의를 마쳤다\\\"고 설명했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "세대간 망분리 의무화는 정부가 2018년부터 연구용역과 전문가 의견수렴 등을 통해 검토해 왔으나, 건설업계와 월패드 업체 등이 비용부담, 단가상승 이유로 반대해 답보상태였다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그러다 지난 국정감사에서 홈네트워크 보안에 정부가 미온적으로 대처한다는 일부 의원들의 질타가 이어진 뒤 정부가 최근 이를 재추진했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "월패드는 아파트내에 벽에 카메라와 디스플레이로 구성된 인터폰 형태의 자동화 기기다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "가정 내 도어록과 조명, 가전 등 IoT 기기를 원격 작동하거나 현관 앞에 누가 왔는지 확인하고 문을 열 수 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "특히 현재는 월패드가 연결된 각 세대의 망이 모두 하나의 공용망을 통해 중앙 서버와 연결하는 구조다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "따라서 한 가구만 해킹에 성공하면 공용망을 타고 다른 가구도 쉽게 해킹할 수 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이와관련 최근 일부 다크웹(추적차단을 위해 특수 웹 브라우저로만 접근할 수 있는 웹페이지) 등에 전국 아파트 월패드 카메라를 통해 불법 촬영한 영상이 유포된 사건이 논란이 됐다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이러한 구조를 악용한 해킹 공격으로 일반 가정집 내부 모습이 그대로 담겨있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "TV를 보거나 밥을 먹는 등의 일상은 물론, 주민의 알몸이나 성관계 영상까지 담겨있는 것으로 알려졌다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "온라인 커뮤니티에 공유된 해킹 대상 공동주택 수만 700여곳에 달한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이에 경찰과 과기정통부 등도 해당 리스트의 진위여부 등을 수사 중이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "남우기 한국정보통신기술사회 회장은 \\\"인터넷 기반 서비스가 많아져 월패드 등 홈 네트워크에 외부에서 접근할 수 있는 경로도 매우 많아졌다\\\"며 \\\"각 세대 별로 네트워크를 분리해야 해킹 피해가 전 아파트 단지로 확산하는 것을 막을 수 있다\\\"고 말했다.",
+				"sentenceSize": 141
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독]아파트 주민 사생활, 알몸까지 '탈탈'...정부, 월패드 해킹차단 나선다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

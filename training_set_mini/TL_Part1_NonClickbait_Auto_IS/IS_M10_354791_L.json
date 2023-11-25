@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354791",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "A 공익재단, 지원자 이력서 유출…\\\"학점·연봉 등 무단노출\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "대기업 그룹 계열 A 공익재단에서 경력직 채용 지원자의 이력서가 무분별하게 공개되는 장애가 발생했다.\n노출기간이나 범위 등 정확한 피해규모는 확인되지 않았지만 민감한 개인정보가 다수 포함됐다.\n28일 업계에 따르면 이날 이 재단에서 사람 이름 검색 시 이와 일치하는 지원자의 이력서가 자동 공개되는 사고가 발생했다.\n성과 이름을 정확히 기재하지 않고, 이름만 검색해도 동명의 지원자 이력서가 무분별하게 노출됐다.\n여기엔 △이름 △주소 △성별 △생년월일 △휴대전화 △학력·경력사항 △자격증·수상내역 등 이력서는 물론 3000자 분량의 자기소개서까지 그대로 노출됐다.\n학점과 연봉 등 민감정보도 고스란히 담겨 논란이 예상된다.\n재단측은 머니투데이가 문제를 제기한 후 10분 만에 검색창을 닫았다.\n재단 관계자는 \\\"홈페이지 개선 작업 중 오류가 발생해 올 상반기 경력직 채용 지원자의 이력서가 잠깐 노출됐다\\\"라며 \\\"현재 검색창을 막아놓은 상태\\\"라고 설명했다.\n이어 \\\"다시는 이런 일이 없도록 조치하겠다, 죄송하다\\\"고 사과했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대기업 그룹 계열 A 공익재단에서 경력직 채용 지원자의 이력서가 무분별하게 공개되는 장애가 발생했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "노출기간이나 범위 등 정확한 피해규모는 확인되지 않았지만 민감한 개인정보가 다수 포함됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "28일 업계에 따르면 이날 이 재단에서 사람 이름 검색 시 이와 일치하는 지원자의 이력서가 자동 공개되는 사고가 발생했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "성과 이름을 정확히 기재하지 않고, 이름만 검색해도 동명의 지원자 이력서가 무분별하게 노출됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기엔 △이름 △주소 △성별 △생년월일 △휴대전화 △학력·경력사항 △자격증·수상내역 등 이력서는 물론 3000자 분량의 자기소개서까지 그대로 노출됐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "학점과 연봉 등 민감정보도 고스란히 담겨 논란이 예상된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "재단측은 머니투데이가 문제를 제기한 후 10분 만에 검색창을 닫았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "재단 관계자는 \\\"홈페이지 개선 작업 중 오류가 발생해 올 상반기 경력직 채용 지원자의 이력서가 잠깐 노출됐다\\\"라며 \\\"현재 검색창을 막아놓은 상태\\\"라고 설명했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이어 \\\"다시는 이런 일이 없도록 조치하겠다, 죄송하다\\\"고 사과했다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "A 공익재단, 지원자 이력서 유출…\\\"학점·연봉 등 무단노출\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

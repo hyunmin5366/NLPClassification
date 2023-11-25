@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003414",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "IBK기업은행, '금융소득종합과세 무료 신고대행' 실시",
+		"newsSubTitle": "IBK형 자산관리 모델 통한 다양한 서비스 제공 계획",
+		"newsContent": "IBK기업은행은 오는 5월 21일까지 '금융소득종합과세 무료 신고대행' 서비스를 실시한다고 29일 밝혔다.\n금융소득종합과세는 개인별 금융소득(이자, 배당소득)이 연간 2000만원을 초과하는 경우, 금융소득에 다른 소득(근로소득, 부동산 임대소득, 사업소득, 연금소득, 기타소득)을 합산해 종합소득세율(6~45%)로 과세하는 제도를 말한다.\n대상 고객은 지난해 기업은행과의 거래를 통해 발생한 금융소득이 2000만원 이상이거나, 올해 3월말 기준 총수신 평균 잔액이 5억원 이상인 개인고객이다.\n기업은행 관계자는 미디어SR에 \\\"서비스 이용 고객 중 보유호수 3호 이하의 주택임대소득이 있는 고객은 주택임대소득 신고를 포함한 대행신청도 가능하다\\\"라고 설명했다.\n서비스 이용을 원하는 고객은 거래중인 영업점을 통해 신청할 수 있다.\n기업은행측은 \\\"앞으로도 고객 만족을 위해 IBK형 자산관리 모델을 통한 다양한 서비스를 제공할 계획\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "IBK기업은행은 오는 5월 21일까지 '금융소득종합과세 무료 신고대행' 서비스를 실시한다고 29일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융소득종합과세는 개인별 금융소득(이자, 배당소득)이 연간 2000만원을 초과하는 경우, 금융소득에 다른 소득(근로소득, 부동산 임대소득, 사업소득, 연금소득, 기타소득)을 합산해 종합소득세율(6~45%)로 과세하는 제도를 말한다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대상 고객은 지난해 기업은행과의 거래를 통해 발생한 금융소득이 2000만원 이상이거나, 올해 3월말 기준 총수신 평균 잔액이 5억원 이상인 개인고객이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기업은행 관계자는 미디어SR에 \\\"서비스 이용 고객 중 보유호수 3호 이하의 주택임대소득이 있는 고객은 주택임대소득 신고를 포함한 대행신청도 가능하다\\\"라고 설명했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서비스 이용을 원하는 고객은 거래중인 영업점을 통해 신청할 수 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기업은행측은 \\\"앞으로도 고객 만족을 위해 IBK형 자산관리 모델을 통한 다양한 서비스를 제공할 계획\\\"이라고 밝혔다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대중공업 연내 상장 IPO 추진 \\\"친환경 미래 사업에 1조원 투자\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

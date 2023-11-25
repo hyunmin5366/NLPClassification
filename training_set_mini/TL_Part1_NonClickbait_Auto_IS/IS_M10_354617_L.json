@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354617",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "LGU+, 렉서스 뉴 제너레이션 NX에 'U+드라이브' 탑재",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 국내 출시되는 렉서스 뉴 제너레이션 NX 450h+와 NX 350h 차량에 인포테인먼트 서비스 플랫폼인 'U+ 드라이브'를 탑재한다고 15일 밝혔다.\nU+ 드라이브는 차 안에서 실시간 내비게이션과 엔터테인먼트, 차량관리, 인포메이션 서비스 등을 이용할 수 있는 LG유플러스의 통합 인포테인먼트 서비스 플랫폼이다.\n이 플랫폼에는 네이버 클로바의 AI(인공지능) 음성인식이 탑재돼 운전자가 목소리로 차량 공조기 등을 제어하고 목적지를 설정할 수 있다.\n또 LG유플러스의 스마트홈 플랫폼과 연결돼 U+ 드라이브로 차 안에서 집 안의 가전 기기를 제어할 수 있고, U+ 모바일 tv와 지니뮤직, 팟빵 등 미디어 서비스를 시청할 수 있다.\nLG유플러스는 향후 국내 시장에 출시되는 완성차에 U+ 드라이브를 확대 적용해 나갈 계획이다.\n강종오 LG유플러스 스마트모빌리티사업담당(상무)은 \\\"앞으로도 U+ 드라이브의 인포테인먼트와 AI 기능을 확대 적용해 서비스를 업그레이드하고 더 많은 차량에 U+ 드라이브를 보급하도록 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 국내 출시되는 렉서스 뉴 제너레이션 NX 450h+와 NX 350h 차량에 인포테인먼트 서비스 플랫폼인 'U+ 드라이브'를 탑재한다고 15일 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "U+ 드라이브는 차 안에서 실시간 내비게이션과 엔터테인먼트, 차량관리, 인포메이션 서비스 등을 이용할 수 있는 LG유플러스의 통합 인포테인먼트 서비스 플랫폼이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 플랫폼에는 네이버 클로바의 AI(인공지능) 음성인식이 탑재돼 운전자가 목소리로 차량 공조기 등을 제어하고 목적지를 설정할 수 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 LG유플러스의 스마트홈 플랫폼과 연결돼 U+ 드라이브로 차 안에서 집 안의 가전 기기를 제어할 수 있고, U+ 모바일 tv와 지니뮤직, 팟빵 등 미디어 서비스를 시청할 수 있다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG유플러스는 향후 국내 시장에 출시되는 완성차에 U+ 드라이브를 확대 적용해 나갈 계획이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "강종오 LG유플러스 스마트모빌리티사업담당(상무)은 \\\"앞으로도 U+ 드라이브의 인포테인먼트와 AI 기능을 확대 적용해 서비스를 업그레이드하고 더 많은 차량에 U+ 드라이브를 보급하도록 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LGU+, 렉서스 뉴 제너레이션 NX에 'U+드라이브' 탑재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

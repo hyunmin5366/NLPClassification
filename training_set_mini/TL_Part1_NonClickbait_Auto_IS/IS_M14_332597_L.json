@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332597",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "‘끊임없는 기업 네트워크 공격, DNS로 원천봉쇄하기’ 세미나 열려",
+		"newsSubTitle": "",
+		"newsContent": "기업 네트워크를 통해 다양한 트래픽이 내α외부로 들고 나는 데 그중 유해한 트래픽도 있다.\n방화벽에서 감시를 하지만 완벽하지 못하고 기업 내부의 디바이스들은 생각보다 많은 Malware에 감염돼 있다.\n이들은 일정기간 잠복해 있거나 내부에서 외부로 나가는 DNS 요청에 기밀정보를 암호화해서 유출하기도 한다.\n이는 기존의 기업 네트워크 감시가 외부로 나가는 트래픽을 소홀히 하기 때문이다.\n전자신문 웹비나 전문방송 allshow TV는 오는 6월 14일 오후 2시부터 3시까지 `끊임없는 기업 네트워크 공격, DNS로 원천 봉쇄하기` 라는 주제로 무료 온라인 세미나를 개최한다.\n이번 웨비나에서는 복잡하고 변화가 많은 기업 네트워크의 통신상태를 DNS 요청 모니터링으로 쉽고 빠르게 위험요소를 대응하고 탐지하는 법을 알려준다.\nDNS를 통한 빠르고 편한 기업 보안 강화법의 실 사례를 경험할 수 있다.\n이 웨비나에서는 아카마이 테크놀로지스 한국법인의 신동곤 상무가 기업의 보안에서 왜 내부에서 외부로 나가는 트래픽에 관심을 가져야 하며 어떠한 문제점을 가지고 있는지 살펴본다.\n또한 DNS를 통한 기업정보 유출 기법 소개 및 AUP(Acceptable User Policy)에 대한 소개와 아울러 기업의 네트워크보안을 강화하는 아카마이의 ETP(Enterprise Threat Protector)의 동작원리와 적용 실 사례를 살펴본다.\n끊임없는 예측불허의 공격의 대상이 되는 기업의 네트워크 보안을 강화하고 비즈니스를 안정적으로 이끄는 지름길을 안내 받을 수 있는 기회가 될 것이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "기업 네트워크를 통해 다양한 트래픽이 내α외부로 들고 나는 데 그중 유해한 트래픽도 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방화벽에서 감시를 하지만 완벽하지 못하고 기업 내부의 디바이스들은 생각보다 많은 Malware에 감염돼 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들은 일정기간 잠복해 있거나 내부에서 외부로 나가는 DNS 요청에 기밀정보를 암호화해서 유출하기도 한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 기존의 기업 네트워크 감시가 외부로 나가는 트래픽을 소홀히 하기 때문이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전자신문 웹비나 전문방송 allshow TV는 오는 6월 14일 오후 2시부터 3시까지 `끊임없는 기업 네트워크 공격, DNS로 원천 봉쇄하기` 라는 주제로 무료 온라인 세미나를 개최한다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 웨비나에서는 복잡하고 변화가 많은 기업 네트워크의 통신상태를 DNS 요청 모니터링으로 쉽고 빠르게 위험요소를 대응하고 탐지하는 법을 알려준다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "DNS를 통한 빠르고 편한 기업 보안 강화법의 실 사례를 경험할 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 웨비나에서는 아카마이 테크놀로지스 한국법인의 신동곤 상무가 기업의 보안에서 왜 내부에서 외부로 나가는 트래픽에 관심을 가져야 하며 어떠한 문제점을 가지고 있는지 살펴본다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또한 DNS를 통한 기업정보 유출 기법 소개 및 AUP(Acceptable User Policy)에 대한 소개와 아울러 기업의 네트워크보안을 강화하는 아카마이의 ETP(Enterprise Threat Protector)의 동작원리와 적용 실 사례를 살펴본다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "끊임없는 예측불허의 공격의 대상이 되는 기업의 네트워크 보안을 강화하고 비즈니스를 안정적으로 이끄는 지름길을 안내 받을 수 있는 기회가 될 것이다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘끊임없는 기업 네트워크 공격, DNS로 원천봉쇄하기’ 세미나 열려",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

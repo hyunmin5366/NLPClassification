@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327807",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "LG유플러스, 광선로 관리시스템으로 5G 서비스 끊김없이 제공",
+		"newsSubTitle": "",
+		"newsContent": "LG유플러스가 광선로감시시스템을 서울과 수도권 5G 네트워크에 적용했다.\n광선로감시시스템은 5G 기지국·중계기·통신국사를 연결하는 광선로를 체계적으로 관리하고 장애 발생 시 위치와 원인까지 실시간으로 파악할 수 있다.\nLG유플러스는 서울·수도권에 이어 전국으로 확대할 계획이다.\n5G 네트워크 품질확보를 위해 적용하는 광선로감시시스템은 5G 중계기와 기지국, 통신국사간 광선로는 물론 인터넷과 전용회선 서비스에 사용하는 유선망 상황까지 24시간 모니터링할 수 있다.\n광신호 파장 분석을 통해 광선로 이상이 발생하면 10미터 이내 오차 범위에서 위치 파악이 가능하다.\n이에 따라 LG유플러스 5G 고객은 증강현실(VR)과 가상현실(AR) 등 5G 킬러서비스를 안정적으로 즐길 수 있게 됨은 물론 IPTV와 인터넷서비스 이용 고객도 개선된 서비스를 이용이 가능하다.\nLG유플러스는 유비쿼스·코위버 등과 광선로감시시스템을 개발했다.\n조창길 LG유플러스 상무는 “광선로감시시스템 적용으로 망 안정성 측면에서 차별화된 고품질의 통신서비스를 제공할 수 있게 됐다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스가 광선로감시시스템을 서울과 수도권 5G 네트워크에 적용했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "광선로감시시스템은 5G 기지국·중계기·통신국사를 연결하는 광선로를 체계적으로 관리하고 장애 발생 시 위치와 원인까지 실시간으로 파악할 수 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LG유플러스는 서울·수도권에 이어 전국으로 확대할 계획이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "5G 네트워크 품질확보를 위해 적용하는 광선로감시시스템은 5G 중계기와 기지국, 통신국사간 광선로는 물론 인터넷과 전용회선 서비스에 사용하는 유선망 상황까지 24시간 모니터링할 수 있다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "광신호 파장 분석을 통해 광선로 이상이 발생하면 10미터 이내 오차 범위에서 위치 파악이 가능하다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 따라 LG유플러스 5G 고객은 증강현실(VR)과 가상현실(AR) 등 5G 킬러서비스를 안정적으로 즐길 수 있게 됨은 물론 IPTV와 인터넷서비스 이용 고객도 개선된 서비스를 이용이 가능하다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "LG유플러스는 유비쿼스·코위버 등과 광선로감시시스템을 개발했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "조창길 LG유플러스 상무는 “광선로감시시스템 적용으로 망 안정성 측면에서 차별화된 고품질의 통신서비스를 제공할 수 있게 됐다”고 말했다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG유플러스, 광선로 관리시스템으로 5G 서비스 끊김없이 제공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348428",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "LGU+, 양자내성암호로 산업·의료계 보안 강화한다",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 양자컴퓨터의 공격을 막을 수 있는 양자내성암호(PQC) 기술을 USB에 담은 'Q-PUF USB' 보안토큰을 개발하고, 이를 디지털뉴딜 사업에 적용했다고 19일 밝혔다.\n양자내성암호는 양자컴퓨터로도 해킹할 수 없다는 의미에서 붙은 이름이다.\n현재 일반적으로 사용하는 RSA 암호화 방식은 양자컴퓨터에 의해 쉽게 풀릴 수 있기 때문에 양자내성암호와 같은 차세대 보안기술이 필요하다.\n양자내성암호는 암호키 교환, 데이터 암·복호화, 무결성 인증 등 보안의 주요 핵심요소에 적용할 수 있고, 별도의 장비 없이 소프트웨어만으로도 구현 가능하다.\n이 덕분에 휴대폰에서 소형 사물인터넷(IoT) 디바이스까지 유연하게 적용해 유무선 통신망의 모든 영역에서 엔드 투 엔드 보안을 제공할 수 있다.\nLG유플러스는 ICTK 홀딩스와 함께 인증시 보안위협을 해결할 양자내성 알고리즘을 한층 업그레이드시켜 USB 형태의 보안토큰인 'Q-PUF USB'를 개발했다.\nQ-PUF USB는 ICTK 홀딩스의 하드웨어 보안기술인 물리적 복제 방지기능(PUF)과 양자난수발생기(QRNG)를 결합해 만든 USB형 보안토큰이다.\nQRNG의 양자난수를 이용해 응용서비스에서 사용하는 암호키를 생성하고 PUF를 이용해 보호하므로 높은 보안성을 제공한다.\n기존의 보안토큰은 관리자가 키 또는 인증서를 주입하는 방법이었지만, Q-PUF USB는 인증서를 자체 하드웨어로 발급하고 발급된 개인키를 내부 보안 스토리지에 저장한다.\n외부에 유출될 염려가 없어 보안성이 뛰어나다.\n또한 ICTK 홀딩스의 PUF가 갖는 특성 가운데 복제나 변경이 불가능한 ‘inborn ID(일명 반도체 지문)’를 이용해 유일성 검증·소유기반 인증 기능을 제공할 수 있다.\n이를 통해 원격서비스에서 다양한 인증과 암호통신, 데이터 암호화에 사용될 수 있어, 원격제어 또는 원격의료서비스 등의 보안을 강화할 수 있다.\nLG유플러스는 Q-PUF USB를 디지털뉴딜 사업에 투입한다.\n지난해 정부의 디지털뉴딜 사업 과제를 수행하며 LG이노텍 공장(평택~부산 640km 구간)과 을지대병원(서울 노원구~대전 207km 구간)이 사용하는 전용회선에 양자내성암호화모듈을 장착한 바 있다.\n이번에는 Q-PUF USB를 산업·의료현장에서 사용하는 애플리케이션에 적용해 실제 이용자와 근접한 구간에서도 보안을 강화했다.\n구성철 LG유플러스 유선사업담당은 \\\"다가올 원격제어, 원격의료 등 차세대 5G 서비스에서도 양자내성암호기술을 확대 적용해 양자컴퓨팅의 공격에도 끄떡없는 강화된 엔드투엔드 보안체계를 완성하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 양자컴퓨터의 공격을 막을 수 있는 양자내성암호(PQC) 기술을 USB에 담은 'Q-PUF USB' 보안토큰을 개발하고, 이를 디지털뉴딜 사업에 적용했다고 19일 밝혔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양자내성암호는 양자컴퓨터로도 해킹할 수 없다는 의미에서 붙은 이름이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재 일반적으로 사용하는 RSA 암호화 방식은 양자컴퓨터에 의해 쉽게 풀릴 수 있기 때문에 양자내성암호와 같은 차세대 보안기술이 필요하다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "양자내성암호는 암호키 교환, 데이터 암·복호화, 무결성 인증 등 보안의 주요 핵심요소에 적용할 수 있고, 별도의 장비 없이 소프트웨어만으로도 구현 가능하다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 덕분에 휴대폰에서 소형 사물인터넷(IoT) 디바이스까지 유연하게 적용해 유무선 통신망의 모든 영역에서 엔드 투 엔드 보안을 제공할 수 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LG유플러스는 ICTK 홀딩스와 함께 인증시 보안위협을 해결할 양자내성 알고리즘을 한층 업그레이드시켜 USB 형태의 보안토큰인 'Q-PUF USB'를 개발했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "Q-PUF USB는 ICTK 홀딩스의 하드웨어 보안기술인 물리적 복제 방지기능(PUF)과 양자난수발생기(QRNG)를 결합해 만든 USB형 보안토큰이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "QRNG의 양자난수를 이용해 응용서비스에서 사용하는 암호키를 생성하고 PUF를 이용해 보호하므로 높은 보안성을 제공한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기존의 보안토큰은 관리자가 키 또는 인증서를 주입하는 방법이었지만, Q-PUF USB는 인증서를 자체 하드웨어로 발급하고 발급된 개인키를 내부 보안 스토리지에 저장한다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "외부에 유출될 염려가 없어 보안성이 뛰어나다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또한 ICTK 홀딩스의 PUF가 갖는 특성 가운데 복제나 변경이 불가능한 ‘inborn ID(일명 반도체 지문)’를 이용해 유일성 검증·소유기반 인증 기능을 제공할 수 있다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이를 통해 원격서비스에서 다양한 인증과 암호통신, 데이터 암호화에 사용될 수 있어, 원격제어 또는 원격의료서비스 등의 보안을 강화할 수 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "LG유플러스는 Q-PUF USB를 디지털뉴딜 사업에 투입한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "지난해 정부의 디지털뉴딜 사업 과제를 수행하며 LG이노텍 공장(평택~부산 640km 구간)과 을지대병원(서울 노원구~대전 207km 구간)이 사용하는 전용회선에 양자내성암호화모듈을 장착한 바 있다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이번에는 Q-PUF USB를 산업·의료현장에서 사용하는 애플리케이션에 적용해 실제 이용자와 근접한 구간에서도 보안을 강화했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "구성철 LG유플러스 유선사업담당은 \\\"다가올 원격제어, 원격의료 등 차세대 5G 서비스에서도 양자내성암호기술을 확대 적용해 양자컴퓨팅의 공격에도 끄떡없는 강화된 엔드투엔드 보안체계를 완성하겠다\\\"고 말했다.",
+				"sentenceSize": 115
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LGU+, 양자내성암호로 산업·의료계 보안 강화한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

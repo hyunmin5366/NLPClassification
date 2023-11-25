@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325260",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "현대차, 중국 현지 공장 4곳 1주일 만에 가동 재개",
+		"newsSubTitle": "",
+		"newsContent": "지난주부터 부품 공급 차질로 가동이 중단됐던 현대자동차 중국 공장 4곳이 30일 생산을 재개했다.\n현대차와 업계에 따르면 부품 공급을 중단했던 현지 협력사가 부품 공급을 다시 시작함에 따라 이날 베이징현대(현대차 중국 현지 합작사) 4개 모든 공장이 순차적으로 가동에 들어갔다.\n현대차 관계자는 “해당 협력사가 일단 부품을 공급해 공장 가동이 재개됐다”며 “하지만 밀린 대금 지급 문제는 계속 협의 중”이라고 말했다.\n앞서 지난주 이후 29일까지 베이징현대 베이징 1·2·3공장, 창저우 4공장 등 4개 공장은 부품 공급 차질로 가동이 중단됐다.\n플라스틱 연료탱크 등을 공급하는 부품업체 베이징잉루이제가 납품 대금이 밀리자 아예 납품을 거부했기 때문이다.\n자동차는 약 2만개의 부품으로 구성되는데, 이 중 부품 하나만 공급이 안 돼도 차량 제작에 어려움을 겪는다.\n지난 25일 기준 베이징잉루이제가 베이징현대로부터 받지 못한 대금은 1억1100만위안(약189억원)으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난주부터 부품 공급 차질로 가동이 중단됐던 현대자동차 중국 공장 4곳이 30일 생산을 재개했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대차와 업계에 따르면 부품 공급을 중단했던 현지 협력사가 부품 공급을 다시 시작함에 따라 이날 베이징현대(현대차 중국 현지 합작사) 4개 모든 공장이 순차적으로 가동에 들어갔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현대차 관계자는 “해당 협력사가 일단 부품을 공급해 공장 가동이 재개됐다”며 “하지만 밀린 대금 지급 문제는 계속 협의 중”이라고 말했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 지난주 이후 29일까지 베이징현대 베이징 1·2·3공장, 창저우 4공장 등 4개 공장은 부품 공급 차질로 가동이 중단됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "플라스틱 연료탱크 등을 공급하는 부품업체 베이징잉루이제가 납품 대금이 밀리자 아예 납품을 거부했기 때문이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자동차는 약 2만개의 부품으로 구성되는데, 이 중 부품 하나만 공급이 안 돼도 차량 제작에 어려움을 겪는다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 25일 기준 베이징잉루이제가 베이징현대로부터 받지 못한 대금은 1억1100만위안(약189억원)으로 알려졌다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대차, 중국 현지 공장 4곳 1주일 만에 가동 재개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

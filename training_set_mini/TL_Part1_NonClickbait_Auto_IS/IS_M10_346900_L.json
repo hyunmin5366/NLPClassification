@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_346900",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "삼성전자 지난해 4Q 스마트폰 판매량 7000만대 중반",
+		"newsSubTitle": "null",
+		"newsContent": "삼성전자 지난해 4분기 스마트폰 판매량이 7600만대에 못 미치는 것으로 추정된다.\n이명진 삼성전자 전무는 29일 지난해 4분기 실적발표 컨퍼런스콜을 통해 \\\"4분기 휴대폰 판매량은 9500만대이며, 스마트폰 비중은 전체에서 70%후반대\\\"라고 말했다.\n이에 따라 삼성전자 4분기 스마트폰 판매량은 7200만~7600만대로 추정된다.\n시장조사 기관 SA(스트래티지 애널리틱스)에 따르면 삼성전자 3분기 스마트폰 판매량은 7920만대다.\n이 전무는 \\\"태블릿 판매량은 1100만대이고, 휴대폰 ASP(평균판매단가)는 200달러 선\\\"이라고 밝혔다.\n올해 1분기에는 휴대폰 판매량이 전분기 대비 증가하는 반면 태블릿은 감소할 것으로 전망했다.\n이 전무는 \\\"휴대폰 전체 ASP는 1분기 제품 믹스가 개선되면서 증가할 것으로 예상된다\\\"며 \\\"휴대폰 내 스마트폰 비중은 80% 초반 대를 기록할 것\\\"이라고 예상했다.\n이 전무는 또 이번 분기 스마트폰 사업은 신규 라인업 전략의 성공적 도입에 역량을 집중할 것이라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자 지난해 4분기 스마트폰 판매량이 7600만대에 못 미치는 것으로 추정된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이명진 삼성전자 전무는 29일 지난해 4분기 실적발표 컨퍼런스콜을 통해 \\\"4분기 휴대폰 판매량은 9500만대이며, 스마트폰 비중은 전체에서 70%후반대\\\"라고 말했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따라 삼성전자 4분기 스마트폰 판매량은 7200만~7600만대로 추정된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시장조사 기관 SA(스트래티지 애널리틱스)에 따르면 삼성전자 3분기 스마트폰 판매량은 7920만대다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 전무는 \\\"태블릿 판매량은 1100만대이고, 휴대폰 ASP(평균판매단가)는 200달러 선\\\"이라고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올해 1분기에는 휴대폰 판매량이 전분기 대비 증가하는 반면 태블릿은 감소할 것으로 전망했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 전무는 \\\"휴대폰 전체 ASP는 1분기 제품 믹스가 개선되면서 증가할 것으로 예상된다\\\"며 \\\"휴대폰 내 스마트폰 비중은 80% 초반 대를 기록할 것\\\"이라고 예상했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 전무는 또 이번 분기 스마트폰 사업은 신규 라인업 전략의 성공적 도입에 역량을 집중할 것이라고 덧붙였다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자 지난해 4Q 스마트폰 판매량 7000만대 중반",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

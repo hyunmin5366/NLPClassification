@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012133",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "천문연, 인공위성 24시간 감시 독자시스템 개발",
+		"newsSubTitle": "우주자산보호 능력 확보 기대",
+		"newsContent": "우리나라가 독자적으로 인공위성을 상시 감시할 수 있는 '우주물체 전자광학감시 시스템'을 개발, 11월 12일 몽골 천문 및 지구물리 관측소에 첫 번째 광학 관측소를 설치할 계획이라고 밝혔다.\n우주물체 전자광학감시시스템은 미국에 의존하던 인공위성궤도 자료를 우리나라가 독자적으로 확보할 수 있는 능력을 갖추게 된다는 점에서 중요한 의미가 있다.\n이에 따라 현재 운영 및 폐기된 저궤도 인공위성의 궤도 정보를 지속적으로 파악할 수 있게 되고, 한반도 정지궤도 영역을 상시 관측해 위성보유국으로서 기본적인 우주정보 획득 및 우주자산 보호 능력을 확보할 수 있을 것으로 기대된다.\n한국천문연구원(원장 박필호)은 지난 3년 동안 구경 50cm 광시야 망원경과 CCD카메라, 고속 위성 추적 마운트로 구성된 우주물체 광학 감시시스템을 개발해 연구원 내에 설치 및 시험가동에 성공했다.\n이 시스템은 전자동망원경을 이용한 세계 최초의 우주물체 광학 감시 시스템으로 국내 독자기술로 다중궤적 관측을 통한 우주물체 위치정보 획득 방법 실용화에 성공했다는 의미가 있다.\n올해 11월 몽골 지역의 관측소 설치를 시작으로 카자흐스탄, 뉴질랜드 지역에 차례로 설치되어 글로벌 우주물체 전자광학감시네트워크 구축으로 확대할 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리나라가 독자적으로 인공위성을 상시 감시할 수 있는 '우주물체 전자광학감시 시스템'을 개발, 11월 12일 몽골 천문 및 지구물리 관측소에 첫 번째 광학 관측소를 설치할 계획이라고 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우주물체 전자광학감시시스템은 미국에 의존하던 인공위성궤도 자료를 우리나라가 독자적으로 확보할 수 있는 능력을 갖추게 된다는 점에서 중요한 의미가 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따라 현재 운영 및 폐기된 저궤도 인공위성의 궤도 정보를 지속적으로 파악할 수 있게 되고, 한반도 정지궤도 영역을 상시 관측해 위성보유국으로서 기본적인 우주정보 획득 및 우주자산 보호 능력을 확보할 수 있을 것으로 기대된다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국천문연구원(원장 박필호)은 지난 3년 동안 구경 50cm 광시야 망원경과 CCD카메라, 고속 위성 추적 마운트로 구성된 우주물체 광학 감시시스템을 개발해 연구원 내에 설치 및 시험가동에 성공했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 시스템은 전자동망원경을 이용한 세계 최초의 우주물체 광학 감시 시스템으로 국내 독자기술로 다중궤적 관측을 통한 우주물체 위치정보 획득 방법 실용화에 성공했다는 의미가 있다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올해 11월 몽골 지역의 관측소 설치를 시작으로 카자흐스탄, 뉴질랜드 지역에 차례로 설치되어 글로벌 우주물체 전자광학감시네트워크 구축으로 확대할 예정이다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG전자 프리미엄 마케팅 확대",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013748",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "박물관 생생체험…ETRI, 전시안내시스템 개발",
+		"newsSubTitle": "스마트폰 통해 이해도 높여",
+		"newsContent": "한국전자통신연구원(ETRI)은 스마트폰 앱을 통한 박물관 등의 전시품을 실제와 가상이 혼합된 양방향 체험이 가능한 전시안내 시스템을 개발했다고 12일 밝혔다.\n이 시스템은 블루투스와 와이파이 통신을 연동, 실내의 위치정보에 대한 정밀도를 높이는 게 핵심기술이다.\nETRI는 전시공간의 미러월드나 박물관 가이드, 감성형 전시로 큰 인기가 기대되고, 문화유산 콘텐츠 신산업 창출, 해외 전시안내 시장의 수출도 가능할 것으로 전망했다.\n이 기술은 영상 처리기술을 이용, 화면을 통해 정확한 위치를 파악하는 것은 물론 전시품과 상호 연동하는 아바타 기술이 포함돼 있다.\n이제껏 박물관이나 전시관 등은 단편적이고 일방적인 안내가 이뤄졌지만 ICT 기술을 접목한 새로운 안내 시스템은 전시품에 대한 이해도를 높임과 동시에 가상체험도 가능하게 해 효과적인 정보전달 및 교육이 가능하다.\n특히 전시품의 보이지 않는 부분도 스마트폰 앱을 통해 자세히 볼 수 있고, 공룡알 학습시 발견된 장소를 가상현실로 복원, 관람객이 아바타로 변신해 대화하는 등 시대 여행도 할 수 있다.\n현재 이 기술은 천연기념물센터에 설치되 시범운영 중이며 전주 한옥마을에도 설치가 완료됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 스마트폰 앱을 통한 박물관 등의 전시품을 실제와 가상이 혼합된 양방향 체험이 가능한 전시안내 시스템을 개발했다고 12일 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 시스템은 블루투스와 와이파이 통신을 연동, 실내의 위치정보에 대한 정밀도를 높이는 게 핵심기술이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ETRI는 전시공간의 미러월드나 박물관 가이드, 감성형 전시로 큰 인기가 기대되고, 문화유산 콘텐츠 신산업 창출, 해외 전시안내 시장의 수출도 가능할 것으로 전망했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 기술은 영상 처리기술을 이용, 화면을 통해 정확한 위치를 파악하는 것은 물론 전시품과 상호 연동하는 아바타 기술이 포함돼 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이제껏 박물관이나 전시관 등은 단편적이고 일방적인 안내가 이뤄졌지만 ICT 기술을 접목한 새로운 안내 시스템은 전시품에 대한 이해도를 높임과 동시에 가상체험도 가능하게 해 효과적인 정보전달 및 교육이 가능하다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 전시품의 보이지 않는 부분도 스마트폰 앱을 통해 자세히 볼 수 있고, 공룡알 학습시 발견된 장소를 가상현실로 복원, 관람객이 아바타로 변신해 대화하는 등 시대 여행도 할 수 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 이 기술은 천연기념물센터에 설치되 시범운영 중이며 전주 한옥마을에도 설치가 완료됐다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이커머스 구독 '3파전'…네이버 '스마트스토어 정기구독' 시작",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

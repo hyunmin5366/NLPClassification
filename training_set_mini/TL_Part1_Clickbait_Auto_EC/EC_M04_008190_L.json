@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008190",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "대전 휘발유값 1950원 돌파",
+		"newsSubTitle": "리비아 사태 등 영향… 석유公 추가상승 예상",
+		"newsContent": "대전지역 주유소의 휘발유 평균가격이ℓ당 1950원을 돌파한 가운데 향후 국내 석유제품가격이 더 상승할 것으로 보인다.\n13일 한국석유공사에 따르면 지난주(3월 둘째주) 전국 주유소 판매가격은 지난해 10월 이후 강세를 지속하고 있는 국제제품가격의 영향으로 모든 유류가격이 전 주 대비 큰 폭으로 상승했다.\n지난주 휘발유와 자동차용 경유는 각각 ℓ당 38.1원, 40.6원이 오른 1916.5원, 1726.2원으로 지난 2008년 7월 이후 최고치를 기록했다.\n이런 가운데 휘발유 가격의 고공행진은 계속되고 있다.\n이날 석유공사의 유가정보서비스 오피넷에 따르면 휘발유의 전국평균 가격은 ℓ당 1930원대를 유지했고, 대전지역은 1950원을 넘어섰다.\n한국석유공사 관계자는 “최근 리비아 등 중동지역 정세불안이 지속되면서 국제휘발유는 배럴당 120달러대, 국제경유는 130달러대를 기록하는 등 국제제품가격이 초강세를 보이고 있어, 향후 국내 석유제품가격의 추가적인 상승이 예상된다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전지역 주유소의 휘발유 평균가격이ℓ당 1950원을 돌파한 가운데 향후 국내 석유제품가격이 더 상승할 것으로 보인다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 한국석유공사에 따르면 지난주(3월 둘째주) 전국 주유소 판매가격은 지난해 10월 이후 강세를 지속하고 있는 국제제품가격의 영향으로 모든 유류가격이 전 주 대비 큰 폭으로 상승했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난주 휘발유와 자동차용 경유는 각각 ℓ당 38.1원, 40.6원이 오른 1916.5원, 1726.2원으로 지난 2008년 7월 이후 최고치를 기록했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이런 가운데 휘발유 가격의 고공행진은 계속되고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 석유공사의 유가정보서비스 오피넷에 따르면 휘발유의 전국평균 가격은 ℓ당 1930원대를 유지했고, 대전지역은 1950원을 넘어섰다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국석유공사 관계자는 “최근 리비아 등 중동지역 정세불안이 지속되면서 국제휘발유는 배럴당 120달러대, 국제경유는 130달러대를 기록하는 등 국제제품가격이 초강세를 보이고 있어, 향후 국내 석유제품가격의 추가적인 상승이 예상된다”고 말했다.",
+				"sentenceSize": 134
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'웹툰도 취향대로' 카카오엔터, IP 장르 다각화",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

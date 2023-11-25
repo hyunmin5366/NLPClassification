@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324170",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "3중 보안으로 랜섬웨어 철통 방어... 솔루세움, 중소기업용 보안 솔루션 출시",
+		"newsSubTitle": "",
+		"newsContent": "중소기업도 랜섬웨어 공격을 3중 보안으로 막아낼 수 있게 됐다.\n솔루세움(대표 서동현)은 중소기업용 랜섬웨어 솔루션을 새로 선보였다.\n이 솔루션은 PC단말 시스템 방어와 지능형 백업, 서버보호 등 3중 보안으로 이뤄진다. 1단계 PC단말 시스템 방어는 와이즈캡 3.0이 맡는다.\n와이즈캡 3.0은 랜섬웨어에 감염된 데이터를 삭제하고 1~2초 내에 복구하는 방식으로 대응한다.\n솔루세움이 직접 개발한 디스크 BIOS 제어 드라이버를 활용해 랜섬웨어가 동작하는 공간을 가상으로 철저히 분리한다.\n가상영역이 랜셈웨어에 감염되기에 실제 PC단말에는 영향을 주지 않는다.\n100% 데이터 복구가 가능해 모니터링이 필요 없다.\n사용자 지정 시점 이후 저장된 데이터는 별도 영역으로 자동 백업하는 데이터 관리 기능도 지원한다. 2단계 지능형 백업은 내부 파일서버를 분리하고 주기적으로 백업하는 방식이다.\n상시 백업이 아니라 특정 시간에만 백업하고 망을 분리해 랜섬웨어 침입을 막는다.\n업무용 데이터를 중앙집중화해 파일서버나 네트워크스토리지(NAS)에 보관하는 기업에 적합하다.\n3단계는 보안백업 서버에 시스템 보호 솔루션 '오로라Ⅱ'를 설치한다.\n만에 하나 보안백업 서버가 공격을 받을 경우를 대비했다.\n오로라Ⅱ는 서버 복구 솔루션이다.\n부팅만 하면 된다.\n관리자가 미리 정해놓은 시점으로 되돌린다.\n현재 상태를 저장하는 데 걸리는 시간을 제공해 서비스 중지 예상 시간 예측이 가능하다.\n서비스 중단시간을 최소화할 수 있다.\n랜섬웨어나 악성코드가 디스크 커널드라이버를 인식하거나 접근할 수 없기 때문에 백업 서버에 영향을 미치지 못한다고 회사 측은 설명했다.\n솔루세움이 3중 보안을 설계한 이유는 기존 방식으로는 랜섬웨어 대응이 어렵기 때문이다.\n실제로 알려진 악성코드 데이터를 기반으로 하는 시그니처 방식과 비정상 행위를 찾아내는 행위기반 방식은 새로운 공격에 대응하기엔 한계가 있다.\n샌드박스는 우회 방식에 취약하다.\n데이터 백업은 장비 갖추는 비용이 비싸고 별도 백업하기 번거롭다.\n서동현 솔루세움 대표는 “와이즈캡 3.0 하나만으로도 PC 보안이 충분하지만 혹시 모를 침입 가능성을 열어 놓고 대비책을 세웠다”면서 “백업 서버 하나 가격으로 3중 보안 솔루션을 구축할 수 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중소기업도 랜섬웨어 공격을 3중 보안으로 막아낼 수 있게 됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "솔루세움(대표 서동현)은 중소기업용 랜섬웨어 솔루션을 새로 선보였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 솔루션은 PC단말 시스템 방어와 지능형 백업, 서버보호 등 3중 보안으로 이뤄진다. 1단계 PC단말 시스템 방어는 와이즈캡 3.0이 맡는다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "와이즈캡 3.0은 랜섬웨어에 감염된 데이터를 삭제하고 1~2초 내에 복구하는 방식으로 대응한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "솔루세움이 직접 개발한 디스크 BIOS 제어 드라이버를 활용해 랜섬웨어가 동작하는 공간을 가상으로 철저히 분리한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가상영역이 랜셈웨어에 감염되기에 실제 PC단말에는 영향을 주지 않는다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "100% 데이터 복구가 가능해 모니터링이 필요 없다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사용자 지정 시점 이후 저장된 데이터는 별도 영역으로 자동 백업하는 데이터 관리 기능도 지원한다. 2단계 지능형 백업은 내부 파일서버를 분리하고 주기적으로 백업하는 방식이다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "상시 백업이 아니라 특정 시간에만 백업하고 망을 분리해 랜섬웨어 침입을 막는다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "업무용 데이터를 중앙집중화해 파일서버나 네트워크스토리지(NAS)에 보관하는 기업에 적합하다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "3단계는 보안백업 서버에 시스템 보호 솔루션 '오로라Ⅱ'를 설치한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "만에 하나 보안백업 서버가 공격을 받을 경우를 대비했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "오로라Ⅱ는 서버 복구 솔루션이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "부팅만 하면 된다.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "관리자가 미리 정해놓은 시점으로 되돌린다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "현재 상태를 저장하는 데 걸리는 시간을 제공해 서비스 중지 예상 시간 예측이 가능하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "서비스 중단시간을 최소화할 수 있다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "랜섬웨어나 악성코드가 디스크 커널드라이버를 인식하거나 접근할 수 없기 때문에 백업 서버에 영향을 미치지 못한다고 회사 측은 설명했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "솔루세움이 3중 보안을 설계한 이유는 기존 방식으로는 랜섬웨어 대응이 어렵기 때문이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "실제로 알려진 악성코드 데이터를 기반으로 하는 시그니처 방식과 비정상 행위를 찾아내는 행위기반 방식은 새로운 공격에 대응하기엔 한계가 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "샌드박스는 우회 방식에 취약하다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "데이터 백업은 장비 갖추는 비용이 비싸고 별도 백업하기 번거롭다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "서동현 솔루세움 대표는 “와이즈캡 3.0 하나만으로도 PC 보안이 충분하지만 혹시 모를 침입 가능성을 열어 놓고 대비책을 세웠다”면서 “백업 서버 하나 가격으로 3중 보안 솔루션을 구축할 수 있다”고 말했다.",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "3중 보안으로 랜섬웨어 철통 방어... 솔루세움, 중소기업용 보안 솔루션 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

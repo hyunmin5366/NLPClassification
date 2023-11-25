@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006746",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "1782.27… 코스피 26개월만에 최고",
+		"newsSubTitle": "",
+		"newsContent": "코스피지수가 782일 만에 1780선을 넘어서며 연중 최고치를 기록했다.\n2일 코스피지수는 전 거래일(1759.33)보다 22.94포인트(1.30%) 높은 1782.27로 마감됐다.\n지난주 1750대까지 떨어졌지만, 단숨에 1780대까지 올랐다.\n지수가 1780선을 넘어선 것은 지난 2008년 6월 11일(1781.67포인트) 이후 약 2년2개월 만이다.\n이날 종가 1782는 연중 최고치이자 2008년 6월 9일(1808.96) 이후 최고치다.\n이날 지수는 1771.38로 12.05포인트 상승 출발했다.\n지난주 후반 하락에 따른 반발 매수세가 유입됐다.\n외국인과 기관이 주식을 쌍끌이 매수했다.\n코스닥지수는 2.44포인트(0.51%) 오른 483.89로 개장했지만 기관의 매도 공세 속에 상승폭을 줄여 0.53포인트(0.11%) 오른 481.98로 마감했다.\n원·달러 환율은 1170원대 초반까지 떨어졌다.\n서울 외환시장에서 미국 달러화에 대한 원화 환율은 지난 주말보다 10.20원 떨어진 1172.50원을 나타냈다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피지수가 782일 만에 1780선을 넘어서며 연중 최고치를 기록했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 코스피지수는 전 거래일(1759.33)보다 22.94포인트(1.30%) 높은 1782.27로 마감됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난주 1750대까지 떨어졌지만, 단숨에 1780대까지 올랐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지수가 1780선을 넘어선 것은 지난 2008년 6월 11일(1781.67포인트) 이후 약 2년2개월 만이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 종가 1782는 연중 최고치이자 2008년 6월 9일(1808.96) 이후 최고치다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 지수는 1771.38로 12.05포인트 상승 출발했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난주 후반 하락에 따른 반발 매수세가 유입됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "외국인과 기관이 주식을 쌍끌이 매수했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "코스닥지수는 2.44포인트(0.51%) 오른 483.89로 개장했지만 기관의 매도 공세 속에 상승폭을 줄여 0.53포인트(0.11%) 오른 481.98로 마감했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "원·달러 환율은 1170원대 초반까지 떨어졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "서울 외환시장에서 미국 달러화에 대한 원화 환율은 지난 주말보다 10.20원 떨어진 1172.50원을 나타냈다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "IMF, 올해 한국 경제성장률 3%→2.5%로 하향…\\\"물가 4% 뛸 것\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334258",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "큐샌 NAS, 새 펌웨어 QSM 3.1 배포",
+		"newsSubTitle": "",
+		"newsContent": "위드앤아이티(대표 강명일)는 엔터프라이즈 데이터 스토리지 제조회사 큐샌테크놀러지가 엑스큐브 나스(NAS) 시리즈에 사용되는 펌웨어 QSM 3.1을 배포했다고 밝혔다.\n큐샌테크놀러지는 대만 스토리지 전문기업으로 위드앤아이티가 나스와 SAN을 국내 독점 공급하고 있다.\nQSM 3.1 펌웨어는 향상된 성능을 제공하며 사용자가 데이터 안정성, 스토리지 용량 효율성, 클라우드와 로컬 백업 솔루션을 누릴 수 있도록 새로운 기능을 추가했다.\nQSM 3.1은 트리플-패리티 RAID그룹과 RAID Z3를 지원한다.\n파일 유지 옵션 사항은 사용자가 얼마만큼 기간동안 파일을 유지하고 싶은지 선택하도록 도와준다.\n큐샌 자체 X미러를 지원해 볼륨 단위로 8개 다른 위치에서 백업이 가능하다.\n또 ZFS 네이티브 스냅샷을 구현해 스냅샷이 영원히 데이터를 보호한다.\n스냅샷에서 파일을 복구하는 일도 단순해졌다.\n최근 개인 프라이빗클라우드솔루션에서 사실상 업계 표준이 된 S3언어도 지원한다.\n클라우드 백업 솔루션에서 하이클라우드 S3을 포함해 S3와 호환된다.\n강명일 위드앤아이티 대표는 “큐샌 엑스큐브나스는 엔터프라이즈 기업이 클라우드를 생성하도록 도와주는 베스트 파트너”라면서 “QSM으로 사용자는 신속하게 엑스큐브나스를 워크 스테이션으로 실행할 수 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "위드앤아이티(대표 강명일)는 엔터프라이즈 데이터 스토리지 제조회사 큐샌테크놀러지가 엑스큐브 나스(NAS) 시리즈에 사용되는 펌웨어 QSM 3.1을 배포했다고 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "큐샌테크놀러지는 대만 스토리지 전문기업으로 위드앤아이티가 나스와 SAN을 국내 독점 공급하고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "QSM 3.1 펌웨어는 향상된 성능을 제공하며 사용자가 데이터 안정성, 스토리지 용량 효율성, 클라우드와 로컬 백업 솔루션을 누릴 수 있도록 새로운 기능을 추가했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "QSM 3.1은 트리플-패리티 RAID그룹과 RAID Z3를 지원한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "파일 유지 옵션 사항은 사용자가 얼마만큼 기간동안 파일을 유지하고 싶은지 선택하도록 도와준다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "큐샌 자체 X미러를 지원해 볼륨 단위로 8개 다른 위치에서 백업이 가능하다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 ZFS 네이티브 스냅샷을 구현해 스냅샷이 영원히 데이터를 보호한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스냅샷에서 파일을 복구하는 일도 단순해졌다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최근 개인 프라이빗클라우드솔루션에서 사실상 업계 표준이 된 S3언어도 지원한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "클라우드 백업 솔루션에서 하이클라우드 S3을 포함해 S3와 호환된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "강명일 위드앤아이티 대표는 “큐샌 엑스큐브나스는 엔터프라이즈 기업이 클라우드를 생성하도록 도와주는 베스트 파트너”라면서 “QSM으로 사용자는 신속하게 엑스큐브나스를 워크 스테이션으로 실행할 수 있다”고 말했다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "큐샌 NAS, 새 펌웨어 QSM 3.1 배포",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

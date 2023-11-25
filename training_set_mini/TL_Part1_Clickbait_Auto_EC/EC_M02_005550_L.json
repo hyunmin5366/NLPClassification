@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005550",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "현대차·기아, 국내 정상 대학들과 전기車 제어 공동연구키로",
+		"newsSubTitle": "연구개발·교육·채용 연계 산학 클러스터 구축",
+		"newsContent": "현대자동차·기아가 전기자동차 지능 제어 기술 개발을 위해 국내 최고의 대학들과 손을 잡았다.\n현대차·기아는 지난 27일 서울대학교에서 지능 제어 공동연구실 설립 기념행사를 개최했다고 28일 밝혔다.\n지능 제어 공동연구실에서는 앞으로 3년 동안 각 대학 교수들이△인공지능(AI) △모델 예측 제어(MPC) △제어·관측기 세 그룹으로 나눠 미래 전기차 핵심 기술 개발과 제어 방법론 연구를 실시할 예정이다.\n현대차·기아는 각 그룹이 연구를 수행할 수 있도록 공동연구실의 운영을 총괄하고 연구 예산을 지원한다.\n또한 현대차·기아 연구원들과 대학 연구팀의 교류를 통해 양 측의 역량 향상을 도모하고 나아가 우수한 연구원들을 채용할 예정이다.\n현대차·기아 연구개발본부 관계자는 데일리임팩트에 \\\"별 과제와 연구실 중심으로 진행되던 일반적인 산학 프로그램과 달리 참여 대학 및 연구실 간의 활발한 교류를 꾀해 유기적인 산학 클러스터 역시 구축할 계획\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차·기아가 전기자동차 지능 제어 기술 개발을 위해 국내 최고의 대학들과 손을 잡았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대차·기아는 지난 27일 서울대학교에서 지능 제어 공동연구실 설립 기념행사를 개최했다고 28일 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지능 제어 공동연구실에서는 앞으로 3년 동안 각 대학 교수들이△인공지능(AI) △모델 예측 제어(MPC) △제어·관측기 세 그룹으로 나눠 미래 전기차 핵심 기술 개발과 제어 방법론 연구를 실시할 예정이다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현대차·기아는 각 그룹이 연구를 수행할 수 있도록 공동연구실의 운영을 총괄하고 연구 예산을 지원한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 현대차·기아 연구원들과 대학 연구팀의 교류를 통해 양 측의 역량 향상을 도모하고 나아가 우수한 연구원들을 채용할 예정이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현대차·기아 연구개발본부 관계자는 데일리임팩트에 \\\"별 과제와 연구실 중심으로 진행되던 일반적인 산학 프로그램과 달리 참여 대학 및 연구실 간의 활발한 교류를 꾀해 유기적인 산학 클러스터 역시 구축할 계획\\\"이라고 밝혔다.",
+				"sentenceSize": 124
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카드사, 간편결제 시장 성장에 이커머스 제휴 확대",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

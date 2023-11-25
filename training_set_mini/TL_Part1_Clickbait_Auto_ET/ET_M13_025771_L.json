@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_025771",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "현직 기상캐스터 A씨, 음주운전으로 벌금 300만원",
+		"newsSubTitle": "",
+		"newsContent": "현직 기상캐스터가 음주운전 혐의로 검찰에 넘겨져 벌금 300만 원의 약식 명령이 내려진 사실이 뒤늦게 알려졌다.\n27일 오후 MBN 뉴스는 서울 강남경찰서가 기상캐스터 A 씨를 지난 6월 도로교통법상 음주운전 혐의로 검찰에 송치했다고 보도했다.\n보도에 따르면 A 씨는 지난 5월 11일 밤, 서울 압구정동의 한 사거리에서 경찰의 음주운전 단속에 적발됐다.\n당시 A 씨의 혈중알코올농도는 면허정지 수준으로 동승자는 없었던 것으로 알려졌다.\nA씨는 이후 조사에서 자신의 혐의를 인정한 것으로 확인됐다.\n매체는 또 사건을 넘겨받은 검찰은 A 씨를 약식 기소했고, 법원은 A 씨에 대해 벌금 300만 원의 약식 명령을 내렸다고 밝혔다.\n한편 보도는 A 씨가 최근까지도 한 방송사에서 날씨 예보를 전달했다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현직 기상캐스터가 음주운전 혐의로 검찰에 넘겨져 벌금 300만 원의 약식 명령이 내려진 사실이 뒤늦게 알려졌다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 오후 MBN 뉴스는 서울 강남경찰서가 기상캐스터 A 씨를 지난 6월 도로교통법상 음주운전 혐의로 검찰에 송치했다고 보도했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보도에 따르면 A 씨는 지난 5월 11일 밤, 서울 압구정동의 한 사거리에서 경찰의 음주운전 단속에 적발됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 A 씨의 혈중알코올농도는 면허정지 수준으로 동승자는 없었던 것으로 알려졌다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "A씨는 이후 조사에서 자신의 혐의를 인정한 것으로 확인됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매체는 또 사건을 넘겨받은 검찰은 A 씨를 약식 기소했고, 법원은 A 씨에 대해 벌금 300만 원의 약식 명령을 내렸다고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 보도는 A 씨가 최근까지도 한 방송사에서 날씨 예보를 전달했다고 밝혔다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘초호화 캐스팅’ 이병헌·한지민·신민아·배성우·남주혁, 노희경 신작 출연확정",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

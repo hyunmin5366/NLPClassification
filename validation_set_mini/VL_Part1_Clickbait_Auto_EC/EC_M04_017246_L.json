@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017246",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "관세청 FTA 활용률 통계 27일부터 공개",
+		"newsSubTitle": "",
+		"newsContent": "산업별로 확대, 10개 대분류 56개 중분류로 구분 관세청이 자유무역협정(이하 FTA) 활용률 통계를 사업별로 확대해 27일부터 공개한다.\n기존 활용률 통계만으로는 구체적인 산업별 FTA 활용현황을 파악하는데 한계가 있어, 이를 확인할 수 있는 기초지표에 대한 민관의 요구가 지속해 왔다.\n이에 관세청은 공공데이터의 개방을 확대하고 산업별 FTA 활용률을 높이기 위해 기존 통계를 산업부 통계분류코드(MTI) 기준에 따라 산업별로 세분화한 활용률 통계를 새롭게 공개했다.\n산업별 FTA 활용률은 산업부 통계분류코드 기준에 따르고 발효 1년이 경과된 11개 협정, 49개국 대상으로 산출된다.\n산업별 FTA 활용률은 10개 대분류 및 56개 중분류로 구분해 볼 수 있고 어느 산업군이 FTA 활용에 취약한지 활용지원 정책의 효과가 어느 정도인지 분석이 가능하다.\n산업별 활용률은 관세청 FTA 포털을 통해 공개되고 분기별로 갱신될 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "산업별로 확대, 10개 대분류 56개 중분류로 구분 관세청이 자유무역협정(이하 FTA) 활용률 통계를 사업별로 확대해 27일부터 공개한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기존 활용률 통계만으로는 구체적인 산업별 FTA 활용현황을 파악하는데 한계가 있어, 이를 확인할 수 있는 기초지표에 대한 민관의 요구가 지속해 왔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 관세청은 공공데이터의 개방을 확대하고 산업별 FTA 활용률을 높이기 위해 기존 통계를 산업부 통계분류코드(MTI) 기준에 따라 산업별로 세분화한 활용률 통계를 새롭게 공개했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "산업별 FTA 활용률은 산업부 통계분류코드 기준에 따르고 발효 1년이 경과된 11개 협정, 49개국 대상으로 산출된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "산업별 FTA 활용률은 10개 대분류 및 56개 중분류로 구분해 볼 수 있고 어느 산업군이 FTA 활용에 취약한지 활용지원 정책의 효과가 어느 정도인지 분석이 가능하다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "산업별 활용률은 관세청 FTA 포털을 통해 공개되고 분기별로 갱신될 예정이다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한미 FTA 발효땐 지역 車산업 호황",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

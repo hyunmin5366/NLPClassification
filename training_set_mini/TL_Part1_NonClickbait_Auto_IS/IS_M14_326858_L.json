@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326858",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[테크비즈코리아 2021]<20>폐PET 해중합 촉매 공정 기술",
+		"newsSubTitle": "",
+		"newsContent": "한국화학연구원은 폐PET 또는 폐폴리에스터 섬유를 50도 이하 저온에서 해중합(분해)해 고분자 소재 합성 이전 원료인 테레프탈산(TPA)을 제조하는 기술을 개발, 테크비즈코리아 2021에 선보인다.\n기존 폴리에스터계 고분자 해중합 반응, 이를 통해 만든 단량체 정제공정은 에너지 소모량이 커 경제성 확보가 어렵다.\n또 반응성이 높은 금속 촉매가 요구된다.\n연구팀이 만든 기술은 저온에서 고수율로 고순도 TPA를 얻는 것이 가능하다.\n이를 중합공정 원료로 직접 활용하기 때문에 별도 설비 투자도 필요 없다.\n더욱이 저가 친환경 용매가 사용되며 회수와 재사용도 용이하다.\n무엇보다 에너지 소모량이 매우 낮기 때문에 경쟁력 있는 재생 단량체 제조 공정을 구현할 수 있다.\n연구팀은 이 기술을 폐플라스틱 재활용에 적용 가능하다고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국화학연구원은 폐PET 또는 폐폴리에스터 섬유를 50도 이하 저온에서 해중합(분해)해 고분자 소재 합성 이전 원료인 테레프탈산(TPA)을 제조하는 기술을 개발, 테크비즈코리아 2021에 선보인다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기존 폴리에스터계 고분자 해중합 반응, 이를 통해 만든 단량체 정제공정은 에너지 소모량이 커 경제성 확보가 어렵다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 반응성이 높은 금속 촉매가 요구된다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연구팀이 만든 기술은 저온에서 고수율로 고순도 TPA를 얻는 것이 가능하다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 중합공정 원료로 직접 활용하기 때문에 별도 설비 투자도 필요 없다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "더욱이 저가 친환경 용매가 사용되며 회수와 재사용도 용이하다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "무엇보다 에너지 소모량이 매우 낮기 때문에 경쟁력 있는 재생 단량체 제조 공정을 구현할 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구팀은 이 기술을 폐플라스틱 재활용에 적용 가능하다고 설명했다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[테크비즈코리아 2021]<20>폐PET 해중합 촉매 공정 기술",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354669",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "누리호 내일 발사대로 이송…예정대로 모레 발사",
+		"newsSubTitle": "null",
+		"newsContent": "센서 이상과 기상 악화로 발사가 미뤄졌던 누리호가 오는 20일 다시 발사대로 이송된다.\n한국항공우주연구원은 19일 오후 비행시험위원회를 열어 기상상황 등을 점검한 결과 오는 20일 오전 7시20분 누리호를 발사대로 옮기기로 결정했다고 밝혔다.\n누리호 발사는 오는 21일 오후 4시로 예정됐다.\n기상 상황과 우주물체와의 충돌 등을 고려해 정확한 발사 시각은 20일 오후 최종 결정된다.\n누리호는 지난 15일 2차 발사될 예정이었지만 발사 하루 전 기상 악화로 이송과 발사가 하루씩 미뤄졌다.\n15일 발사대로 이송된 뒤에는 산화제 탱크 센서 이상으로 발사가 미뤄졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "센서 이상과 기상 악화로 발사가 미뤄졌던 누리호가 오는 20일 다시 발사대로 이송된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국항공우주연구원은 19일 오후 비행시험위원회를 열어 기상상황 등을 점검한 결과 오는 20일 오전 7시20분 누리호를 발사대로 옮기기로 결정했다고 밝혔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "누리호 발사는 오는 21일 오후 4시로 예정됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기상 상황과 우주물체와의 충돌 등을 고려해 정확한 발사 시각은 20일 오후 최종 결정된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누리호는 지난 15일 2차 발사될 예정이었지만 발사 하루 전 기상 악화로 이송과 발사가 하루씩 미뤄졌다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "15일 발사대로 이송된 뒤에는 산화제 탱크 센서 이상으로 발사가 미뤄졌다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "누리호 내일 발사대로 이송…예정대로 모레 발사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

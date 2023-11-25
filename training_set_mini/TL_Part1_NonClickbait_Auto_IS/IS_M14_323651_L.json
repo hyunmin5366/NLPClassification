@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323651",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "KAIST, 뎁스 정보 가능한 360도 카메라 개발",
+		"newsSubTitle": "",
+		"newsContent": "한국과학기술원(KAIST) 연구진이 뎁스(깊이) 정보까지 얻을 수 있는 전방향 360도 카메라를 개발했다.\n지금까지 360도 카메라와 뎁스 카메라를 일체화한 시스템은 없었다.\n개발 기술은 자율주행 모빌리티 분야에서 각광 받을 것으로 전망된다.\n김민혁 KAIST 전산학부 교수팀(비주얼 컴퓨팅 랩)이 관련 하드웨어(HW)와 소프트웨어(SW) 기술을 개발했다.\nHW는 기존 어안렌즈를 활용했다.\n어안렌즈는 화각이 200도 정도인 카메라로, 마치 물고기가 보는 듯한 왜곡 영상을 얻을 수 있다.\n통상 이런 어안렌즈를 2~4개 사용해서 360도 카메라를 구성한다.\n다만 기존에는 360도 카메라로는 뎁스 정보를 얻을 수 없었다.\n별도로 일반 카메라 두 대를 활용, 양안 시차로 뎁스 정보를 얻었다.\n연구팀은 360도 카메라에서도 양안 시차를 활용할 수 있게 했다.\n어안렌즈 카메라로 얻은 영상 속에 겹치는 부분(오버랩)에 주목했다.\n다만 어안렌즈로 얻은 영상은 왜곡이 커서 뎁스 정보 추출이 어렵다는 문제가 있다.\n불가능한 일은 아니지만 실시간 처리가 안 됐다.\n빠른 반응이 필수인 자율주행 모빌리티에 쓸 수 없었다.\n연구진은 어안렌즈 카메라의 영상 왜곡 현상을 해결하고 프레임별 360도 '뎁스맵'을 도출하는 알고리즘으로 문제를 해결했다.\n정보를 실시간으로 얻는다는 것이 큰 특징이다.\n오버랩 부분에 존재하는 뎁스 정보를 영상 전 영역으로 확장하는 고속화 기술을 알고리즘에 적용한 덕분이다.\n차량에 설치 가능한 소형 임베디드 컴퓨터를 써도 초당 30프레임 영상 획득이 가능하다.\n지연 시간은 0.28밀리세컨드(ms) 수준이다.\n연구진은 이 기술과 관련해 국내 특허를 출원했고, 미국을 비롯한 해외 3개국 특허 출원을 준비하고 있다.\n김민혁 교수는 \\\"360도 카메라로는 뎁스 정보를 얻을 수 없다는 고정관념을 깨고 얻은 성과\\\"라며 \\\"향후 자율주행 업계에서 큰 반향이 있을 것으로 보고 있다\\\"고 말했다.\n관련 연구는 컴퓨터비전 최고 학회인 CVPR 2021에서 소개됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국과학기술원(KAIST) 연구진이 뎁스(깊이) 정보까지 얻을 수 있는 전방향 360도 카메라를 개발했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지금까지 360도 카메라와 뎁스 카메라를 일체화한 시스템은 없었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개발 기술은 자율주행 모빌리티 분야에서 각광 받을 것으로 전망된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김민혁 KAIST 전산학부 교수팀(비주얼 컴퓨팅 랩)이 관련 하드웨어(HW)와 소프트웨어(SW) 기술을 개발했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "HW는 기존 어안렌즈를 활용했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "어안렌즈는 화각이 200도 정도인 카메라로, 마치 물고기가 보는 듯한 왜곡 영상을 얻을 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "통상 이런 어안렌즈를 2~4개 사용해서 360도 카메라를 구성한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다만 기존에는 360도 카메라로는 뎁스 정보를 얻을 수 없었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "별도로 일반 카메라 두 대를 활용, 양안 시차로 뎁스 정보를 얻었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "연구팀은 360도 카메라에서도 양안 시차를 활용할 수 있게 했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "어안렌즈 카메라로 얻은 영상 속에 겹치는 부분(오버랩)에 주목했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "다만 어안렌즈로 얻은 영상은 왜곡이 커서 뎁스 정보 추출이 어렵다는 문제가 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "불가능한 일은 아니지만 실시간 처리가 안 됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "빠른 반응이 필수인 자율주행 모빌리티에 쓸 수 없었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "연구진은 어안렌즈 카메라의 영상 왜곡 현상을 해결하고 프레임별 360도 '뎁스맵'을 도출하는 알고리즘으로 문제를 해결했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "정보를 실시간으로 얻는다는 것이 큰 특징이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "오버랩 부분에 존재하는 뎁스 정보를 영상 전 영역으로 확장하는 고속화 기술을 알고리즘에 적용한 덕분이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "차량에 설치 가능한 소형 임베디드 컴퓨터를 써도 초당 30프레임 영상 획득이 가능하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "지연 시간은 0.28밀리세컨드(ms) 수준이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "연구진은 이 기술과 관련해 국내 특허를 출원했고, 미국을 비롯한 해외 3개국 특허 출원을 준비하고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "김민혁 교수는 \\\"360도 카메라로는 뎁스 정보를 얻을 수 없다는 고정관념을 깨고 얻은 성과\\\"라며 \\\"향후 자율주행 업계에서 큰 반향이 있을 것으로 보고 있다\\\"고 말했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "관련 연구는 컴퓨터비전 최고 학회인 CVPR 2021에서 소개됐다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KAIST, 뎁스 정보 가능한 360도 카메라 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

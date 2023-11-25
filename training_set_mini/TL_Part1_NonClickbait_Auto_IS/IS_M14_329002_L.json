@@ -1,0 +1,276 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329002",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "美 소니픽쳐스 해킹 조직이 한국 방위산업체 공격",
+		"newsSubTitle": "",
+		"newsContent": "미국 영화사 소니픽쳐스 공격 그룹이 국내 방산기업을 지속해서 해킹했다.\n미국 침해사고대응팀(US-CERT)은 최근 소니픽쳐스 해킹 사고 배후로 북한을 지목했다.\n안랩(대표 권치중)이 4일 내놓은 '국내 방위산업체 공격 동향 보고서'에 따르면 2010년 이후 4개 이상 그룹이 국내 방위사업체 공격에 가담했다.\n일부 공격 그룹은 방위산업체뿐만 아니라 국내 정치, 외교 분야도 공격했다.\n이들 중 일부 그룹이 소니픽쳐스 해킹사고와 연루됐다.\n이들이 사용한 악성코드와 공격 프로그램에서 한글이 쓰이는 등 공격자 중 한국어 사용자가 있는 것으로 추정된다.\n안랩이 분석한 공격 그룹은 △아이스포그 △레드닷∙고스트 라이플 △어나니머스 팬텀 △고스트 라이플 등 4개다.\n국내 방위산업체를 노린 공격은 2013년부터 증가했다.\n2013년 15개, 2014년 22개, 2015년 77개, 2016년 44개, 2017년(5월기준) 3개 악성코드가 발견됐다.\n총 160여종에 달한다.\n주요 공급 그룹 중 하나인 아이스포그는 2011년부터 시작해 2013년 10월까지 활동했다.\n정상한글(HWP) 파일을 보여줘 사용자를 속이는 수법을 주로 쓴다.\n레드닷 그룹은 2014년 6월부터 2016년 말까지 활동했다.\n이 그룹은 2014년 11월 미국 소니픽쳐스 공격에 연관됐다.\n안랩은 레드닷 그룹과 연계된 100여개 악성코드를 발견했다.\n이들은 2014년 소니픽쳐스 사건 후 주로 국내 방위산업체를 공격했다.\n특정 학회를 사칭한 스피어 피싱이나 한컴오피스 취약점을 이용한 공격을 했다.\n2015년 등장한 고스트 라이플 그룹은 2016년 초 국내 보안기업 공격과 대기업 해킹에도 연루됐다.\n이들은 국내 보안 기업 DRM 프로그램으로 위장한 악성코드 등을 배포했다.\n어나니머스 팬텀은 올 초 에너지 관련 연구소를 공격했다.\n이들은 주로 스피어피싱 이메일로 악성코드를 유포하거나 워터링 홀 공격, 중앙 관리 시스템 공격을 썼다.\n이들이 사용한 명령&제어(C&C) 주소 중 미국이 14곳으로 가장 많다.\n브라질 5곳, 대만 5곳 순이다.\n아르헨티나, 벨기에, 볼리비아, 브라질, 중국, 체코, 프랑스, 독일, 인도, 인도네시아, 이란, 일본 등 세계 여러 곳에 C&C를 뒀다.\n안랩은 4개 그룹이 사용한 악성코드와 암호화 방식 유사성으로 미뤄 동일 조직이거나 협력 관계라고 분석했다.\n일부 그룹에서 사용한 프로그램에서 한국어도 쓰인다.\n고스트 라이플이 사용한 악성코드 제어 프로그램은 '체계설정', '문자렬', '통보문현시' 등과 같은 어색한 한글이 쓰였다.\n안랩은 \\\"일부 공격 그룹은 국내 방위산업체뿐만 아니라 정치, 외교까지 공격하는 등 산업 스파이가 아닌 경쟁국이나 적대국 첩보 가능성이 높다\\\"면서 \\\"방위산업체 공격은 산업 기밀 유출을 넘어 안보 위협을 야기할 수 있어 강력한 보안 대책과 관리가 필수\\\"라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 28,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 영화사 소니픽쳐스 공격 그룹이 국내 방산기업을 지속해서 해킹했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 침해사고대응팀(US-CERT)은 최근 소니픽쳐스 해킹 사고 배후로 북한을 지목했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "안랩(대표 권치중)이 4일 내놓은 '국내 방위산업체 공격 동향 보고서'에 따르면 2010년 이후 4개 이상 그룹이 국내 방위사업체 공격에 가담했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일부 공격 그룹은 방위산업체뿐만 아니라 국내 정치, 외교 분야도 공격했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들 중 일부 그룹이 소니픽쳐스 해킹사고와 연루됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들이 사용한 악성코드와 공격 프로그램에서 한글이 쓰이는 등 공격자 중 한국어 사용자가 있는 것으로 추정된다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "안랩이 분석한 공격 그룹은 △아이스포그 △레드닷∙고스트 라이플 △어나니머스 팬텀 △고스트 라이플 등 4개다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국내 방위산업체를 노린 공격은 2013년부터 증가했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "2013년 15개, 2014년 22개, 2015년 77개, 2016년 44개, 2017년(5월기준) 3개 악성코드가 발견됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "총 160여종에 달한다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "주요 공급 그룹 중 하나인 아이스포그는 2011년부터 시작해 2013년 10월까지 활동했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "정상한글(HWP) 파일을 보여줘 사용자를 속이는 수법을 주로 쓴다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "레드닷 그룹은 2014년 6월부터 2016년 말까지 활동했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이 그룹은 2014년 11월 미국 소니픽쳐스 공격에 연관됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "안랩은 레드닷 그룹과 연계된 100여개 악성코드를 발견했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이들은 2014년 소니픽쳐스 사건 후 주로 국내 방위산업체를 공격했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "특정 학회를 사칭한 스피어 피싱이나 한컴오피스 취약점을 이용한 공격을 했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "2015년 등장한 고스트 라이플 그룹은 2016년 초 국내 보안기업 공격과 대기업 해킹에도 연루됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이들은 국내 보안 기업 DRM 프로그램으로 위장한 악성코드 등을 배포했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "어나니머스 팬텀은 올 초 에너지 관련 연구소를 공격했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이들은 주로 스피어피싱 이메일로 악성코드를 유포하거나 워터링 홀 공격, 중앙 관리 시스템 공격을 썼다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이들이 사용한 명령&제어(C&C) 주소 중 미국이 14곳으로 가장 많다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "브라질 5곳, 대만 5곳 순이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "아르헨티나, 벨기에, 볼리비아, 브라질, 중국, 체코, 프랑스, 독일, 인도, 인도네시아, 이란, 일본 등 세계 여러 곳에 C&C를 뒀다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "안랩은 4개 그룹이 사용한 악성코드와 암호화 방식 유사성으로 미뤄 동일 조직이거나 협력 관계라고 분석했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "일부 그룹에서 사용한 프로그램에서 한국어도 쓰인다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "고스트 라이플이 사용한 악성코드 제어 프로그램은 '체계설정', '문자렬', '통보문현시' 등과 같은 어색한 한글이 쓰였다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "안랩은 \\\"일부 공격 그룹은 국내 방위산업체뿐만 아니라 정치, 외교까지 공격하는 등 산업 스파이가 아닌 경쟁국이나 적대국 첩보 가능성이 높다\\\"면서 \\\"방위산업체 공격은 산업 기밀 유출을 넘어 안보 위협을 야기할 수 있어 강력한 보안 대책과 관리가 필수\\\"라고 밝혔다.",
+				"sentenceSize": 150
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美 소니픽쳐스 해킹 조직이 한국 방위산업체 공격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

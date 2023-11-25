@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355322",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "의료서비스에 '이음5G' 적용…네이블커뮤니케이션즈에 주파수 할당",
+		"newsSubTitle": "null",
+		"newsContent": "과학기술정보통신부는 '네이블커뮤니케이션즈'가 신청한 '이음5G'(5G 특화망) 주파수 할당과 기간통신사업 변경등록이 8월 10일 완료됐다고 밝혔다.\n네이블커뮤니케이션즈의 이음5G는 환자의 CT·MRI( 컴퓨터단층촬영·자기공명영상) 등 검사 결과를 바탕으로 3D 모델링한 AR(증강현실) 수술 가이드 서비스를 지원하고, 수술실과 의사들의 실시간 비대면 협진 등 서비스를 제공한다.\n과기정통부는 네이블커뮤니케이션즈가 신청한 이대목동병원 지역, 4.7㎓ 대역의 100㎒ 폭 주파수 전체를 할당했다.\n이용기간은 3년이다.\n네이블커뮤니케이션즈는 이를 바탕으로 다양한 수술 분야의 지능형의료 서비스에 이음5G 도입을 확산할 계획이다.\n네이블커뮤니케이션즈의 이음5G 주파수 할당 및 기간통신사업 등록은 네이버클라우드·LG CNS·SK네트웍스서비스에 이어 4번째 사례인 동시에 지난 6월 '5G 융합서비스 프로젝트' 선정 과제 중에선 첫 번째다.\n박윤규 과기정통부 2차관은 \\\"네이블커뮤니케이션즈는 AI(인공지능), AR 등의 디지털전환 기술이 이음5G를 통해 지능형 의료 서비스로 개화한 사례\\\"라며 \\\"이처럼 5G의 장점을 극대화 시킬 수 있는 다양한 산업분야에서 이음5G 중심으로 융합서비스를 적극 발굴·확산할 계획\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학기술정보통신부는 '네이블커뮤니케이션즈'가 신청한 '이음5G'(5G 특화망) 주파수 할당과 기간통신사업 변경등록이 8월 10일 완료됐다고 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이블커뮤니케이션즈의 이음5G는 환자의 CT·MRI( 컴퓨터단층촬영·자기공명영상) 등 검사 결과를 바탕으로 3D 모델링한 AR(증강현실) 수술 가이드 서비스를 지원하고, 수술실과 의사들의 실시간 비대면 협진 등 서비스를 제공한다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과기정통부는 네이블커뮤니케이션즈가 신청한 이대목동병원 지역, 4.7㎓ 대역의 100㎒ 폭 주파수 전체를 할당했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이용기간은 3년이다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이블커뮤니케이션즈는 이를 바탕으로 다양한 수술 분야의 지능형의료 서비스에 이음5G 도입을 확산할 계획이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네이블커뮤니케이션즈의 이음5G 주파수 할당 및 기간통신사업 등록은 네이버클라우드·LG CNS·SK네트웍스서비스에 이어 4번째 사례인 동시에 지난 6월 '5G 융합서비스 프로젝트' 선정 과제 중에선 첫 번째다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박윤규 과기정통부 2차관은 \\\"네이블커뮤니케이션즈는 AI(인공지능), AR 등의 디지털전환 기술이 이음5G를 통해 지능형 의료 서비스로 개화한 사례\\\"라며 \\\"이처럼 5G의 장점을 극대화 시킬 수 있는 다양한 산업분야에서 이음5G 중심으로 융합서비스를 적극 발굴·확산할 계획\\\"이라고 밝혔다.",
+				"sentenceSize": 163
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "의료서비스에 '이음5G' 적용…네이블커뮤니케이션즈에 주파수 할당",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

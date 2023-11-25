@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_001692",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "\\\"재난속보, AI 아나운서가 알려준다\\\" 카카오-KBS 맞손",
+		"newsSubTitle": "",
+		"newsContent": "카카오의 AI 자회사 카카오엔터프라이즈가 KBS와 손잡고 방송 콘텐츠 분야에 AI와 클라우드를 접목한다.\n카카오엔터프라이즈는 지난 8일 서울 여의도 KBS 사옥에서 AI 기술을 활용한 미디어 인프라 및 재난방송 시스템 구현을 위한 업무협약(MOU)을 체결했다고 11일 밝혔다.\n양사는 방송콘텐츠 인프라, 재난방송 등 분야에서 협력할 예정이다.\n먼저 KBS 재난방송에 자동으로 스크립트를 읽어주는 `AI 아나운서`를 연내 선보인다.\nKBS는 재난방송 주관사로 기상청에서 재난 정보를 받아 속보로 내보내는 시스템을 운영하고 있다.\n국민의 안전과 직결된 재난방송은 심야, 주말, 공휴일과 관계없이 재난 발생 시 방송이 가능한 상시적 인력과 리소스가 필요하다.\n카카오엔터프라이즈는 AI 기술을 활용해 효율적인 재난 방송 시스템을 구축하기로 했다.\n자연어처리기술을 적용해 빠르고 정교하게 스크립트를 만들 수 있게 한다.\n이후 TTS(Text To Speech) 음성 기술을 통해 스크립트를 KBS 아나운서 목소리로 자동 변환해 방송을 송출한다.\n또한 카카오엔터프라이즈는 통합 AI 플랫폼 '카카오 i'의 시각 엔진 기술을 활용해 KBS의 영상 콘텐츠의 편집, 검색, 관리 시스템 혁신도 지원한다.\n시각 엔진을 활용하면 드라마, 예능, 뉴스, 교양/시사/다큐 등 다양한 영상에서 인물, 주제, 키워드 등의 중요 데이터를 자동으로 추출, 분류할 수 있다.\n카카오 관계자는 미디어SR에 \\\"동일한 출연자가 나오거나 특정 장소가 배경이 된 영상이 궁금할 때 과거에는 기억에 의존해 자료를 찾았다면 앞으로는 콘텐츠 검색을 통해 보다 편리하고 빠르게 편집할 수 있을 것\\\"이라고 기대했다.\nKBS가 보유한 미디어콘텐츠를 카카오엔터프라이즈 자체 분산 스토리지 기술과 미디어 트랜스코딩 기술 등 AI 플랫폼을 지원하는 클라우드 인프라 서비스도 함께 제공한다는 설명이다.\n카카오엔터프라이즈 측은 \\\"AI와 클라우드 기술로 KBS의 방송 시스템과 미디어 인프라 구축을 전격 지원하고 방송제작 환경을 혁신하기 위해 힘쓸 것\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오의 AI 자회사 카카오엔터프라이즈가 KBS와 손잡고 방송 콘텐츠 분야에 AI와 클라우드를 접목한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오엔터프라이즈는 지난 8일 서울 여의도 KBS 사옥에서 AI 기술을 활용한 미디어 인프라 및 재난방송 시스템 구현을 위한 업무협약(MOU)을 체결했다고 11일 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양사는 방송콘텐츠 인프라, 재난방송 등 분야에서 협력할 예정이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "먼저 KBS 재난방송에 자동으로 스크립트를 읽어주는 `AI 아나운서`를 연내 선보인다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KBS는 재난방송 주관사로 기상청에서 재난 정보를 받아 속보로 내보내는 시스템을 운영하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국민의 안전과 직결된 재난방송은 심야, 주말, 공휴일과 관계없이 재난 발생 시 방송이 가능한 상시적 인력과 리소스가 필요하다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "카카오엔터프라이즈는 AI 기술을 활용해 효율적인 재난 방송 시스템을 구축하기로 했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "자연어처리기술을 적용해 빠르고 정교하게 스크립트를 만들 수 있게 한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 TTS(Text To Speech) 음성 기술을 통해 스크립트를 KBS 아나운서 목소리로 자동 변환해 방송을 송출한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또한 카카오엔터프라이즈는 통합 AI 플랫폼 '카카오 i'의 시각 엔진 기술을 활용해 KBS의 영상 콘텐츠의 편집, 검색, 관리 시스템 혁신도 지원한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "시각 엔진을 활용하면 드라마, 예능, 뉴스, 교양/시사/다큐 등 다양한 영상에서 인물, 주제, 키워드 등의 중요 데이터를 자동으로 추출, 분류할 수 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "카카오 관계자는 미디어SR에 \\\"동일한 출연자가 나오거나 특정 장소가 배경이 된 영상이 궁금할 때 과거에는 기억에 의존해 자료를 찾았다면 앞으로는 콘텐츠 검색을 통해 보다 편리하고 빠르게 편집할 수 있을 것\\\"이라고 기대했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "KBS가 보유한 미디어콘텐츠를 카카오엔터프라이즈 자체 분산 스토리지 기술과 미디어 트랜스코딩 기술 등 AI 플랫폼을 지원하는 클라우드 인프라 서비스도 함께 제공한다는 설명이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "카카오엔터프라이즈 측은 \\\"AI와 클라우드 기술로 KBS의 방송 시스템과 미디어 인프라 구축을 전격 지원하고 방송제작 환경을 혁신하기 위해 힘쓸 것\\\"이라고 밝혔다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "4월 수출입물가 두 달 연속 동반 하락...\\\"코로나 여파, 국제 유가 급락 탓\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

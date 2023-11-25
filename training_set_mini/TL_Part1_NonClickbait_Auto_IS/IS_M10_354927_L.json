@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354927",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "\\\"디지털 플랫폼 정부, 보안 대응방안은\\\"..과기정통부, 세미나 개최",
+		"newsSubTitle": "null",
+		"newsContent": "과학기술정보통신부와 한국인터넷진흥원(KISA)은 인공지능(AI) 보안 산업 활성화를 위해 오는 14일 '제5회 AI 시큐리티 데이 세미나'를 개최한다.\n이번 세미나는 'AI로 만드는 안전한 디지털플랫폼정부'를 주제로 진행된다.\n디지털플랫폼정부 구현을 위한 기술과 보안 취약점 대응방안이 논의된다.\n기조연설은 디지털플랫폼정부위원회 출범 준비단의 고진 단장이 '디지털플랫폼정부 추진 방향'을 주제로 발표한다.\n이후 '디지털플랫폼정부와 기반 기술' 세션에서는 △디지털 전환을 위한 클라우드 활용 및 보안 전략(이장원 카카오엔터프라이즈 상무) △민간 데이터 댐의 현주소를 통해 미리 보는 디지털플랫폼정부(전응배 SK텔레콤 팀장) △디지털플랫폼 시대, 일상으로 스며든 AI와 보안 이슈(민옥기 ETRI 본부장) 등을 논의한다. '디지털플랫폼 AI 보안' 세션에서는 △최신 클라우드 보안 기술 동향 및 AI 적용 방안(조근석 아스트론시큐리티 대표) △Privacy-preserving machine learning in theory and practice(이재우 조지아대 교수) △ AI Model Adversial Attack & Defense(아비람 제닉 비욘드시큐리티 대표)를 주제로 AI 보안 기술이 소개된다.\n홍진배 과기정통부 네트워크정책실장은 \\\"디지털플랫폼정부를 구현하기 위한 신기술엔 다양한 보안 위협이 내재돼있다\\\"며 \\\"AI 보안기업 등을 지속 육성해 안전한 디지털 환경이 조성되도록 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학기술정보통신부와 한국인터넷진흥원(KISA)은 인공지능(AI) 보안 산업 활성화를 위해 오는 14일 '제5회 AI 시큐리티 데이 세미나'를 개최한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 세미나는 'AI로 만드는 안전한 디지털플랫폼정부'를 주제로 진행된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "디지털플랫폼정부 구현을 위한 기술과 보안 취약점 대응방안이 논의된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기조연설은 디지털플랫폼정부위원회 출범 준비단의 고진 단장이 '디지털플랫폼정부 추진 방향'을 주제로 발표한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 '디지털플랫폼정부와 기반 기술' 세션에서는 △디지털 전환을 위한 클라우드 활용 및 보안 전략(이장원 카카오엔터프라이즈 상무) △민간 데이터 댐의 현주소를 통해 미리 보는 디지털플랫폼정부(전응배 SK텔레콤 팀장) △디지털플랫폼 시대, 일상으로 스며든 AI와 보안 이슈(민옥기 ETRI 본부장) 등을 논의한다. '디지털플랫폼 AI 보안' 세션에서는 △최신 클라우드 보안 기술 동향 및 AI 적용 방안(조근석 아스트론시큐리티 대표) △Privacy-preserving machine learning in theory and practice(이재우 조지아대 교수) △ AI Model Adversial Attack & Defense(아비람 제닉 비욘드시큐리티 대표)를 주제로 AI 보안 기술이 소개된다.",
+				"sentenceSize": 392
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "홍진배 과기정통부 네트워크정책실장은 \\\"디지털플랫폼정부를 구현하기 위한 신기술엔 다양한 보안 위협이 내재돼있다\\\"며 \\\"AI 보안기업 등을 지속 육성해 안전한 디지털 환경이 조성되도록 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"디지털 플랫폼 정부, 보안 대응방안은\\\"..과기정통부, 세미나 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

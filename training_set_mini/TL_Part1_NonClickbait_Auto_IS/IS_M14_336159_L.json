@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336159",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "장비",
+		"newsTitle": "포엔사, HDI PCB 검사 속도 9배 늘린 자동화 장비 개발",
+		"newsSubTitle": "",
+		"newsContent": "반도체 장비업체 포엔사는 고밀도 인쇄회로기판(PCB)용 초품 검사 자동화 장비를 개발했다고 24일 밝혔다.\n포엔사는 기존 수작업으로 PCB 내 소자와 부품을 검사했던 것 대비 9배 빠른 속도로 검사할 수 있어 제품 생산 주기를 앞당기고 PCB 신뢰성을 높일 것으로 기대했다.\n최근 정보기술(IT) 기기 소형화와 소자·부품 집적도 증가로 고밀도(HDI) PCB 신뢰성 요구가 크게 늘었다.\n특히 초고속 통신과 차량용 기판 시장이 성장하면서 안정적으로 제품을 운용할 수 있는 기판 수요도 함께 증가하는 추세다.\nHDI PCB는 스마트폰이나 각종 IT 기기의 주기판으로 쓰인다.\nHDI PCB에는 저항, 콘덴서, 다이오드 등 최대 900여개 소자와 부품이 탑재된다.\n각종 소자와 부품이 작아지면 2㎜ 이하로 정밀하게 PCB를 검사해야 신뢰성을 확보할 수 있다.\n또 기존에는 수동 작업으로 직접 검사하다보니 한 기판 초품 검사에 3~4시간 걸리는 사례도 빈번했다.\n소자와 부품이 제대로 실장되지 않아 IT 기기 오작동을 일으키는 등 문제도 발생했다.\n포엔사 검사 자동화 장비는 0.1~0.2mm 단위의 초소형 소자와 부품을 컴퓨터 비전 등을 활용해 초정밀 검사가 가능하다.\n개당 소자 및 부품 검사 시간을 1초 단위까지 줄일 수 있다.\n기판 하나당 전체 검사를 20분 이내에 완료할 수 있다.\nPCB 부품 실장의 기준이 되는 거버 데이터와 부품목록(BOM)을 활용해 측정하려는 소자 및 부품 종류, 크기를 인식하고 소프트웨어로 자동 측정한다.\n그 결과 값을 생산관리 시스템(MES)을 통해 고객사에 제공한다. 고객사는 이를 통해 제품 생산성을 높일 수 있다는 게 포엔사 설명이다.\n포엔사는 국내 PCB 주문자상표부착(OEM) 업체와 신규 제품 공급을 논의 중이다.\n장기적으로 HDI PCB 시장이 확대되는 중국 등 글로벌 시장 공략도 추진할 계획이다.\n박지암 포엔사 대표는 “PCB 초품 검사 자동화 장비 개발로 제품 생산성 향상뿐 아니라 초정밀 계측 분야에서 요구하는 품질 확보 방안을 제공할 수 있게 됐다”면서 “HDI PCB 시장 확대에 기폭제 역할을 할 수 있을 것”으로 기대했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "반도체 장비업체 포엔사는 고밀도 인쇄회로기판(PCB)용 초품 검사 자동화 장비를 개발했다고 24일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "포엔사는 기존 수작업으로 PCB 내 소자와 부품을 검사했던 것 대비 9배 빠른 속도로 검사할 수 있어 제품 생산 주기를 앞당기고 PCB 신뢰성을 높일 것으로 기대했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 정보기술(IT) 기기 소형화와 소자·부품 집적도 증가로 고밀도(HDI) PCB 신뢰성 요구가 크게 늘었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 초고속 통신과 차량용 기판 시장이 성장하면서 안정적으로 제품을 운용할 수 있는 기판 수요도 함께 증가하는 추세다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "HDI PCB는 스마트폰이나 각종 IT 기기의 주기판으로 쓰인다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "HDI PCB에는 저항, 콘덴서, 다이오드 등 최대 900여개 소자와 부품이 탑재된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "각종 소자와 부품이 작아지면 2㎜ 이하로 정밀하게 PCB를 검사해야 신뢰성을 확보할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 기존에는 수동 작업으로 직접 검사하다보니 한 기판 초품 검사에 3~4시간 걸리는 사례도 빈번했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "소자와 부품이 제대로 실장되지 않아 IT 기기 오작동을 일으키는 등 문제도 발생했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "포엔사 검사 자동화 장비는 0.1~0.2mm 단위의 초소형 소자와 부품을 컴퓨터 비전 등을 활용해 초정밀 검사가 가능하다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "개당 소자 및 부품 검사 시간을 1초 단위까지 줄일 수 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기판 하나당 전체 검사를 20분 이내에 완료할 수 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "PCB 부품 실장의 기준이 되는 거버 데이터와 부품목록(BOM)을 활용해 측정하려는 소자 및 부품 종류, 크기를 인식하고 소프트웨어로 자동 측정한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "그 결과 값을 생산관리 시스템(MES)을 통해 고객사에 제공한다. 고객사는 이를 통해 제품 생산성을 높일 수 있다는 게 포엔사 설명이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "포엔사는 국내 PCB 주문자상표부착(OEM) 업체와 신규 제품 공급을 논의 중이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "장기적으로 HDI PCB 시장이 확대되는 중국 등 글로벌 시장 공략도 추진할 계획이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "박지암 포엔사 대표는 “PCB 초품 검사 자동화 장비 개발로 제품 생산성 향상뿐 아니라 초정밀 계측 분야에서 요구하는 품질 확보 방안을 제공할 수 있게 됐다”면서 “HDI PCB 시장 확대에 기폭제 역할을 할 수 있을 것”으로 기대했다.",
+				"sentenceSize": 132
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "포엔사, HDI PCB 검사 속도 9배 늘린 자동화 장비 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

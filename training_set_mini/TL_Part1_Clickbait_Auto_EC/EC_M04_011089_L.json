@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011089",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "KAIST 등록률 4년째 미달 ",
+		"newsSubTitle": "설립이후 첫 추가모집에도 등록률 84%",
+		"newsContent": "KAIST 등록률 4년째 미달 KAIST는 신입생 등록률이 4년째 미달된 것으로 나타났다.\nKAIST가 25일까지 내국인 학생 850명 모집에 717명이 등록해 84%의 등록률을 기록했다.\nKAIST의 신입생 등록률은 2009학년도 110.3%에 달했지만 2010학년도 97.3%로 미달이 발생한 뒤 2011학년도 85.7%, 2012학년도 82.2%로 급락했다.\n올해 KAIST의 신입생 등록률이 84%는 1971년 학교 설립 이후 처음으로 추가 모집을 했지만, 정원에 미달했다.\nKAIST는 매년 예산 규모에 따라 선발할 신입생 수를 정하는 가운데 2013학년에도 모집정원을 850명 내외로 규정했다.\n아직 확정된 되지 않았지만 다른 대학의 추가합격 발표에 따라 등록을 취소할 수 있어 KAIST 등록률은 더 떨어질 수 있을 것으로 보인다.\nKAIST 미달 사태의 이유로는 이공계 기피현상뿐 아니라 서남표 총장의 정책에 적응하지 못한 학생들이 잇따라 자살하는 사건 등 ‘서남표 현상’을 꼽을 수 있다.\n서 총장의 거취를 둘러싸고 잡음이 이어지며 교수와 학생들 사이에선 학습 환경이 나빠졌다는 불만이 제기됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KAIST 등록률 4년째 미달 KAIST는 신입생 등록률이 4년째 미달된 것으로 나타났다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KAIST가 25일까지 내국인 학생 850명 모집에 717명이 등록해 84%의 등록률을 기록했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KAIST의 신입생 등록률은 2009학년도 110.3%에 달했지만 2010학년도 97.3%로 미달이 발생한 뒤 2011학년도 85.7%, 2012학년도 82.2%로 급락했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올해 KAIST의 신입생 등록률이 84%는 1971년 학교 설립 이후 처음으로 추가 모집을 했지만, 정원에 미달했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KAIST는 매년 예산 규모에 따라 선발할 신입생 수를 정하는 가운데 2013학년에도 모집정원을 850명 내외로 규정했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아직 확정된 되지 않았지만 다른 대학의 추가합격 발표에 따라 등록을 취소할 수 있어 KAIST 등록률은 더 떨어질 수 있을 것으로 보인다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KAIST 미달 사태의 이유로는 이공계 기피현상뿐 아니라 서남표 총장의 정책에 적응하지 못한 학생들이 잇따라 자살하는 사건 등 ‘서남표 현상’을 꼽을 수 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서 총장의 거취를 둘러싸고 잡음이 이어지며 교수와 학생들 사이에선 학습 환경이 나빠졌다는 불만이 제기됐다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서학개미도 반도체 닥공",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

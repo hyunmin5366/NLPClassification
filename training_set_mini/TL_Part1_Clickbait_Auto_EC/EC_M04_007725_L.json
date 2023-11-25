@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007725",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "내년 1월 기업경기 3개월 연속 하락세 지속",
+		"newsSubTitle": "",
+		"newsContent": "국내 대기업들의 경기지수가 3개월 연속 하락세를 이어간 것으로 나타났다.\n전국경제인연합회가 최근 국내 600대 기업을 대상으로 기업경기실사지수(BSI)를 조사한 결과, 내년 1월 전망치가 101.8을 기록해 세달 연속 하락했다.\n이는 최근 지정학적 리스크가 부각된데다 내년도 대내외 경제여건이 올해보다 악화될 것이라는 전망이 우세한데 따른 것으로 보인다.\n부문별로는 고용(101.7→103.3)을 제외한 모든 부문의 지수가 하락했다.\n채산성(102.1→100.7)의 경우 두달 연속 하락해 100선을 위협했고, 재고(104.5→105.3)는 부진세를 보였다.\n그동안 호조세를 보였던 수출(105.4→103.3), 투자(105.5→105.1), 자금사정(102.9→102.1)도 지수가 소폭 하락하며 100선 가까이 다가섰다.\n또 업종별로는 제조업(101.8)과 서비스업(101.6)이 모두 100을 넘었으나, 지수는 다소 하락했다.\n전고점인 지난 10월 전망에서 호조세를 점친 업종이 16개였던 것에 비해, 이번 조사에서는 7개로 나타나, 세달 사이 업황 호전을 점치는 업종이 크게 줄어든 것으로 조사됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 대기업들의 경기지수가 3개월 연속 하락세를 이어간 것으로 나타났다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전국경제인연합회가 최근 국내 600대 기업을 대상으로 기업경기실사지수(BSI)를 조사한 결과, 내년 1월 전망치가 101.8을 기록해 세달 연속 하락했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 최근 지정학적 리스크가 부각된데다 내년도 대내외 경제여건이 올해보다 악화될 것이라는 전망이 우세한데 따른 것으로 보인다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부문별로는 고용(101.7→103.3)을 제외한 모든 부문의 지수가 하락했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "채산성(102.1→100.7)의 경우 두달 연속 하락해 100선을 위협했고, 재고(104.5→105.3)는 부진세를 보였다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그동안 호조세를 보였던 수출(105.4→103.3), 투자(105.5→105.1), 자금사정(102.9→102.1)도 지수가 소폭 하락하며 100선 가까이 다가섰다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 업종별로는 제조업(101.8)과 서비스업(101.6)이 모두 100을 넘었으나, 지수는 다소 하락했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전고점인 지난 10월 전망에서 호조세를 점친 업종이 16개였던 것에 비해, 이번 조사에서는 7개로 나타나, 세달 사이 업황 호전을 점치는 업종이 크게 줄어든 것으로 조사됐다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "저축은행중앙회, 인터넷‧모바일뱅킹 금융인증서 도입",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

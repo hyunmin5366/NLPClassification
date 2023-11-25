@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007291",
+		"newsCategory": "경제",
+		"newsSubcategory": "취업/창업",
+		"newsTitle": "상반기 평균연봉 SK에너지 1위",
+		"newsSubTitle": "1인당 3860만원… 매출 100대기업 평균 2901만원",
+		"newsContent": "올해 상반기 1인당 평균 연봉이 가장 높은 기업은 SK에너지인 것으로 나타났다.\n온라인 취업포털 사람인이 매출액 100대 기업(증권사, 지주회사 제외) 가운데 금융감독원에 올해 반기보고서를 제출한 73개사를 조사한 결과, 1인당 상반기 평균 연봉이 가장 높은 기업은 SK에너지로 3860만원인 것으로 조사됐다.\n이어 한국남부발전(3800만원), 삼성엔지니어링(3800만원), 삼성전자(3790만원), GS건설(3720만원), 삼성중공업(3700만원) 등이 뒤를 이었다.\n전체 평균 연봉은 2901만원으로 집계됐으며, 평균보다 연봉이 높은 기업은 46.6%(34개사)였다.\n또 연봉 인상률은 지난해 같은 기간보다 평균 4.3%가 인상된 것으로 나타났다.\n인상률이 가장 높은 기업은 삼성전자로 36.3%가 인상됐고, 다음으로 삼성중공업(32.1%), 삼성SDI(32%), 하이닉스반도체(31.5%), 대우인터내셔널(30%), SK에너지(23.2%) 등의 순이었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 상반기 1인당 평균 연봉이 가장 높은 기업은 SK에너지인 것으로 나타났다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "온라인 취업포털 사람인이 매출액 100대 기업(증권사, 지주회사 제외) 가운데 금융감독원에 올해 반기보고서를 제출한 73개사를 조사한 결과, 1인당 상반기 평균 연봉이 가장 높은 기업은 SK에너지로 3860만원인 것으로 조사됐다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 한국남부발전(3800만원), 삼성엔지니어링(3800만원), 삼성전자(3790만원), GS건설(3720만원), 삼성중공업(3700만원) 등이 뒤를 이었다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전체 평균 연봉은 2901만원으로 집계됐으며, 평균보다 연봉이 높은 기업은 46.6%(34개사)였다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 연봉 인상률은 지난해 같은 기간보다 평균 4.3%가 인상된 것으로 나타났다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인상률이 가장 높은 기업은 삼성전자로 36.3%가 인상됐고, 다음으로 삼성중공업(32.1%), 삼성SDI(32%), 하이닉스반도체(31.5%), 대우인터내셔널(30%), SK에너지(23.2%) 등의 순이었다.",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“경주 지진 동일본 대지진 영향?” 확실치 않아",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

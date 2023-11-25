@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008053",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전저축은행 6개월 영업정지",
+		"newsSubTitle": "삼화저축은행 이어 한달여만에 또 지속적 예금인출로 유동성부족 탓",
+		"newsContent": "▲ 금융위원회가 대전저축은행과 부산저축은행에 대해 영업정지 조치 결정을 내린 가운데 17일 대전 중구 선화동에 위치한 대전저축은행 영업점 앞에 예금자들이 '영업정지 공고문'을 살펴보고 있다.\n/손인중 기자 dlswnd98@ 금융위원회는 17일 임시회의를 열고 부산저축은행, 대전저축은행의 영업을 6개월 정지키로 했다.\n저축은행의 영업정지는 지난달 14일 삼화저축은행에 이어 한 달여 만이다.\n이에 따라 부산저축은행과 대전저축은행은 만기도래 어음과 대출의 만기연장 등을 제외한 영업을 할 수 없게 된다.\n금융위에 따르면 대전저축은행은 지속적인 예금인출로 유동성이 부족하고, 예금자의 인출요구에 응할 수 없는 상황이라는 점이 부실금융기관 지정의 원인이 됐다.\n부산저축은행은 자기자본(-216억원 지난해 12월말 기준)이 완전잠식됐고 자회사인 대전저축은행 영업정지로 더이상 예금지급이 어렵다고 판단했다고 금융위는 설명했다.\n금융감독원은 부산저축은행과 대전저축은행의 검사에 착수해 계열관계에 있는 부산2, 중앙부산, 전주저축은행도 연계검사를 시행하기로 했다.\n한편 두 저축은행의 예금자는 예금자보호법에 따라 1인당 원리금 5000만원까지 예금이 전액 보호된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 금융위원회가 대전저축은행과 부산저축은행에 대해 영업정지 조치 결정을 내린 가운데 17일 대전 중구 선화동에 위치한 대전저축은행 영업점 앞에 예금자들이 '영업정지 공고문'을 살펴보고 있다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "/손인중 기자 dlswnd98@ 금융위원회는 17일 임시회의를 열고 부산저축은행, 대전저축은행의 영업을 6개월 정지키로 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "저축은행의 영업정지는 지난달 14일 삼화저축은행에 이어 한 달여 만이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 부산저축은행과 대전저축은행은 만기도래 어음과 대출의 만기연장 등을 제외한 영업을 할 수 없게 된다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금융위에 따르면 대전저축은행은 지속적인 예금인출로 유동성이 부족하고, 예금자의 인출요구에 응할 수 없는 상황이라는 점이 부실금융기관 지정의 원인이 됐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "부산저축은행은 자기자본(-216억원 지난해 12월말 기준)이 완전잠식됐고 자회사인 대전저축은행 영업정지로 더이상 예금지급이 어렵다고 판단했다고 금융위는 설명했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "금융감독원은 부산저축은행과 대전저축은행의 검사에 착수해 계열관계에 있는 부산2, 중앙부산, 전주저축은행도 연계검사를 시행하기로 했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 두 저축은행의 예금자는 예금자보호법에 따라 1인당 원리금 5000만원까지 예금이 전액 보호된다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지역 소비심리 새해부터 위축",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

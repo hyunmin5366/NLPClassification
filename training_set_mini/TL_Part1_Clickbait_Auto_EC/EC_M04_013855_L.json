@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013855",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "빅데이터 어떻게 활용할 것인가",
+		"newsSubTitle": "KAIST, 12일 코엑스서 워크숍",
+		"newsContent": "한국과학기술원(KAIST) 지식서비스공학과는 오는 12일 서울 코엑스에서 '빅데이터 이용의 실제'를 주제로 지식서비스 워크숍을 개최한다고 8일 밝혔다.\n올해 3회째는 맞는 이번 워크숍에서는 KAIST 지식서비스공학과 교수 5명이 나서 '어떻게 빅데이터를 활용할 것인가'에 대해 사례 중심으로 소개할 예정이다.\n학과장인 이문용 교수는 '예측 모델링의 비즈니스 응용'을 주제로 미래의 결과를 추정하거나 결과 값이 알려지지 않은 사건을 통계적 기법으로 분석하는 방법을 제시한다.\n이재길 교수는 '소셜 네트워크 빅데이터를 활용한 전문가 발견', 이의진 교수는 '교육 분야에서의 빅데이터', 윤완철 교수는 '텍스트 마이닝:텍스트에서 지식 추출하기'를 주제로 강연이 이어진다.\n워크숍 참석을 희망하는 빅데이터 기업이나 학생들은 오는 11일까지 홈페이지(http://kseworkshop.kaist.ac.kr)에 하면 되고, 일반 15만원, 학생 10만원의 등록비가 소요된다.\n한편 빅데이터는 기존의 정보처리 기술로는 처리할 수 없는 대용량의 데이터로부터 가치를 창출하고, 결과를 분석하는 기술을 뜻하며, 이를 활용하면 개인별 맞춤형 정보 제공이 가능할 뿐더러 다원화된 사회에서 비교적 정확한 상황을 예측할 수 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국과학기술원(KAIST) 지식서비스공학과는 오는 12일 서울 코엑스에서 '빅데이터 이용의 실제'를 주제로 지식서비스 워크숍을 개최한다고 8일 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올해 3회째는 맞는 이번 워크숍에서는 KAIST 지식서비스공학과 교수 5명이 나서 '어떻게 빅데이터를 활용할 것인가'에 대해 사례 중심으로 소개할 예정이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "학과장인 이문용 교수는 '예측 모델링의 비즈니스 응용'을 주제로 미래의 결과를 추정하거나 결과 값이 알려지지 않은 사건을 통계적 기법으로 분석하는 방법을 제시한다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이재길 교수는 '소셜 네트워크 빅데이터를 활용한 전문가 발견', 이의진 교수는 '교육 분야에서의 빅데이터', 윤완철 교수는 '텍스트 마이닝:텍스트에서 지식 추출하기'를 주제로 강연이 이어진다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "워크숍 참석을 희망하는 빅데이터 기업이나 학생들은 오는 11일까지 홈페이지(http://kseworkshop.kaist.ac.kr)에 하면 되고, 일반 15만원, 학생 10만원의 등록비가 소요된다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 빅데이터는 기존의 정보처리 기술로는 처리할 수 없는 대용량의 데이터로부터 가치를 창출하고, 결과를 분석하는 기술을 뜻하며, 이를 활용하면 개인별 맞춤형 정보 제공이 가능할 뿐더러 다원화된 사회에서 비교적 정확한 상황을 예측할 수 있다.",
+				"sentenceSize": 134
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손해·생명보험협회, 실손보험사기 특별신고기간 연말까지 연장",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

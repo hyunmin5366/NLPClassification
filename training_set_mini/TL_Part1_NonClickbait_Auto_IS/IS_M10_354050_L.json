@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354050",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 게임",
+		"newsTitle": "\\\"사내 진료 안돼, 계약직이잖아\\\"…'노조 탄압' 美닌텐도 조사 받는다",
+		"newsSubTitle": "null",
+		"newsContent": "미국 노동관계위원회(NLRB)가 노조 탄압 의혹을 받는 닌텐도 북미지사(닌텐도오브아메리카)를 상대로 조사에 들어갔다.\n지난 22일(현지시간) 미국 게임매체 코타쿠 등 외신은 닌텐도오브아메리카에서 근무하는 계약직 직원들이 의료혜택에서 배제되고 휴식기간을 보장받지 못하는 등 차별대우를 받았다고 전했다.\n보도에 따르면 이들에게는 정규직 전환 기회가 거의 주어지지 않았고 일부 계약직은 건강보험조차 적용되지 않고 있는 것으로 알려졌다.\n2020년에는 빙판에 미끄러지며 머리를 다친 한 계약직 직원이 사내 진료소를 방문했지만 정규직이 아니란 이유로 치료를 거부당했다.\n회사는 동료 직원이 해당 직원을 외부 병원으로 데려다주는 것조차 금지했다.\n또 노조 결성을 언급한 또다른 계약직 직원을 관련 발언 직후 해고하기도 했다.\n닌텐도오브아메리카는 혐의를 부인하면서도 NLRB 조사에 협조하겠다는 입장이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 노동관계위원회(NLRB)가 노조 탄압 의혹을 받는 닌텐도 북미지사(닌텐도오브아메리카)를 상대로 조사에 들어갔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 22일(현지시간) 미국 게임매체 코타쿠 등 외신은 닌텐도오브아메리카에서 근무하는 계약직 직원들이 의료혜택에서 배제되고 휴식기간을 보장받지 못하는 등 차별대우를 받았다고 전했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보도에 따르면 이들에게는 정규직 전환 기회가 거의 주어지지 않았고 일부 계약직은 건강보험조차 적용되지 않고 있는 것으로 알려졌다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2020년에는 빙판에 미끄러지며 머리를 다친 한 계약직 직원이 사내 진료소를 방문했지만 정규직이 아니란 이유로 치료를 거부당했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "회사는 동료 직원이 해당 직원을 외부 병원으로 데려다주는 것조차 금지했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 노조 결성을 언급한 또다른 계약직 직원을 관련 발언 직후 해고하기도 했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "닌텐도오브아메리카는 혐의를 부인하면서도 NLRB 조사에 협조하겠다는 입장이다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"사내 진료 안돼, 계약직이잖아\\\"…'노조 탄압' 美닌텐도 조사 받는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

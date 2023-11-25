@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354190",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "\\\"다음주 신규확진 1만명 밑으로\\\"…새 변이가 변수",
+		"newsSubTitle": "null",
+		"newsContent": "이르면 내주부터 코로나19 신규 확진자가 1만명대로 떨어질 것이라는 전망이 나왔다.\n5일 코로나19 수리모델링 태스크포스(TF)가 공개한 '수리모델링으로 분석한 코로나19 유행 예측'에 따르면 권오규 국가수리과학연구소 공공데이터분석연구팀장은 \\\"일일 신규 확진자의 지속적 감소가 예상되며 일주일 후에는 전국 신규 확진자 수가 1만명 이하로 떨어질 것\\\"이라고 분석했다.\nKT 이동통신 위치 데이터로 집계한 읍면동 단위 이동량과 4월26일~5월3일 시도별 누적 확진자수를 분석한 결과다.\n정도의 차이는 있지만 다른 수학자들도 이 추세라면 신규 확진자가 줄 것으로 내다봤다.\nTF에 참여한 정은옥 교수 연구팀은 현재 수준의 감염재생산지수(0.69)가 지속될 경우 확진자는 △1주 후 3만700명 △2주 후 2만2200명 △4주 후 1만2100명으로 감소할 것으로 예상했다.\n중증환자 역시 △1주 후 300명 △2주 후 220명 △4주 후 120명으로 줄 것이란 분석이다.\n이창형 울산과학기술원(UNIST) 수리과학과 교수는 현행 거리두기 정책이 유지되고 새로운 변이가 발행하지 않으면 전날 49만9038명 수준인 신규 확진자가 오는 11일엔 2만5673명, 18일엔 1만6840명이 될 것으로 전망했다.\n정일효 부산대 교수 역시 현재 수준으로 코로나19 유행이 유지될시 4~10일 일평균 신규 확진자는 2만5742명, 11~17일은 1만6191명으로 감소할 것으로 예측했다.\n또 주간 일평균 사망자도 4~10일 34명, 11~17일 21명이 줄어들 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이르면 내주부터 코로나19 신규 확진자가 1만명대로 떨어질 것이라는 전망이 나왔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 코로나19 수리모델링 태스크포스(TF)가 공개한 '수리모델링으로 분석한 코로나19 유행 예측'에 따르면 권오규 국가수리과학연구소 공공데이터분석연구팀장은 \\\"일일 신규 확진자의 지속적 감소가 예상되며 일주일 후에는 전국 신규 확진자 수가 1만명 이하로 떨어질 것\\\"이라고 분석했다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KT 이동통신 위치 데이터로 집계한 읍면동 단위 이동량과 4월26일~5월3일 시도별 누적 확진자수를 분석한 결과다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정도의 차이는 있지만 다른 수학자들도 이 추세라면 신규 확진자가 줄 것으로 내다봤다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "TF에 참여한 정은옥 교수 연구팀은 현재 수준의 감염재생산지수(0.69)가 지속될 경우 확진자는 △1주 후 3만700명 △2주 후 2만2200명 △4주 후 1만2100명으로 감소할 것으로 예상했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중증환자 역시 △1주 후 300명 △2주 후 220명 △4주 후 120명으로 줄 것이란 분석이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이창형 울산과학기술원(UNIST) 수리과학과 교수는 현행 거리두기 정책이 유지되고 새로운 변이가 발행하지 않으면 전날 49만9038명 수준인 신규 확진자가 오는 11일엔 2만5673명, 18일엔 1만6840명이 될 것으로 전망했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정일효 부산대 교수 역시 현재 수준으로 코로나19 유행이 유지될시 4~10일 일평균 신규 확진자는 2만5742명, 11~17일은 1만6191명으로 감소할 것으로 예측했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 주간 일평균 사망자도 4~10일 34명, 11~17일 21명이 줄어들 전망이다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"다음주 신규확진 1만명 밑으로\\\"…새 변이가 변수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

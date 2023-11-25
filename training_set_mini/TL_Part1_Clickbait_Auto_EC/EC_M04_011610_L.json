@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011610",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "건설업체 체감경기 3개월째 상승",
+		"newsSubTitle": "5월 경기실사지수 66.1 전월比 3.3p ↑",
+		"newsContent": "건설업체들이 느끼는 체감경기가 3개월 상승세를 보였다.\n하지만 아직도 건설경기 전망을 낙관적 보다는 비관적으로 보는 기업들이 많은 것으로 나타났다.\n한국건설산업연구원은 5월 건설기업 경기실사지수(CBSI)가 66.1로 전달보다 3.3포인트 상승했다고 2일 밝혔다.\nCBSI가 기준치인 100을 밑돌면 현재 건설경기를 비관적으로 보는 기업이 낙관적으로 보는 기업보다 많다는 뜻이고 100을 넘으면 반대를 의미한다.\nCBSI지수는 올해 3월부터 3개월 연속 상승세를 나타냈다.\nCBSI가 올해 2월 54.3으로 30개월 만에 최저치를 기록한 데 따른 기저효과와 봄철 성수기, 정부의 4·1 부동산 대책 등의 영향 때문으로 분석됐다.\n대형업체 지수는 78.6으로 2개월째 개선됐고, 중소업체 지수는 50.9로 8개월 만에 최고 수준을 나타냈다.\n또 중견업체 지수는 66.7로 3개월째 같은 수준을 유지했다.\n한편, 건설업체들이 예상하는 6월 CBSI 전망치는 5월보다 8.9포인트 상승한 75.0으로 조사됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "건설업체들이 느끼는 체감경기가 3개월 상승세를 보였다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하지만 아직도 건설경기 전망을 낙관적 보다는 비관적으로 보는 기업들이 많은 것으로 나타났다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국건설산업연구원은 5월 건설기업 경기실사지수(CBSI)가 66.1로 전달보다 3.3포인트 상승했다고 2일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "CBSI가 기준치인 100을 밑돌면 현재 건설경기를 비관적으로 보는 기업이 낙관적으로 보는 기업보다 많다는 뜻이고 100을 넘으면 반대를 의미한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CBSI지수는 올해 3월부터 3개월 연속 상승세를 나타냈다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CBSI가 올해 2월 54.3으로 30개월 만에 최저치를 기록한 데 따른 기저효과와 봄철 성수기, 정부의 4·1 부동산 대책 등의 영향 때문으로 분석됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대형업체 지수는 78.6으로 2개월째 개선됐고, 중소업체 지수는 50.9로 8개월 만에 최고 수준을 나타냈다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 중견업체 지수는 66.7로 3개월째 같은 수준을 유지했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편, 건설업체들이 예상하는 6월 CBSI 전망치는 5월보다 8.9포인트 상승한 75.0으로 조사됐다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성-LG전자, 미국 환경보호청 'SMM 어워드' 나란히 수상",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

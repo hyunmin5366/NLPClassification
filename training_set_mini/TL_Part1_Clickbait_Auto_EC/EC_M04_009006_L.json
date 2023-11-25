@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009006",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "“태양흑점 폭발 지구에 영향 적을 것”",
+		"newsSubTitle": "",
+		"newsContent": "강력한 태양흑점 폭발이 발생했으나 지구에 미치는 영향은 그리 크지 않을 것으로 조사됐다.\n이날 한국천문연구원에 따르면 이날 오전 7시 12분부터 24분까지 태양흑점(흑점군 번호 1283)이 폭발했다.\n폭발규모는 X2.1급이며 X급은 다섯단계(A, B, C, M, X)로 구분된 등급 중 가장 강력한 폭발에 해당된다.\n이날 폭발로 코로나질량방출(CME)이 동반됐으며 이 CME는 초속 917㎞로 이동 중이다.\nCME는 9일 오후 7시에서 10일 오전 5시 사이 지구에 도달할 것으로 예상된다.\n조경석 천문연 박사는 “일반적으로 CME가 지구에 도달하면 지구 자기장에 영향을 미처 전파교란이나 인공위성 운영 장애 등이 발생한다”며 “이번 CME 진행방향은 지구를 비켜 가기 때문에 지구에 미치는 영향은 미미할 것이다”라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "강력한 태양흑점 폭발이 발생했으나 지구에 미치는 영향은 그리 크지 않을 것으로 조사됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 한국천문연구원에 따르면 이날 오전 7시 12분부터 24분까지 태양흑점(흑점군 번호 1283)이 폭발했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "폭발규모는 X2.1급이며 X급은 다섯단계(A, B, C, M, X)로 구분된 등급 중 가장 강력한 폭발에 해당된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 폭발로 코로나질량방출(CME)이 동반됐으며 이 CME는 초속 917㎞로 이동 중이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CME는 9일 오후 7시에서 10일 오전 5시 사이 지구에 도달할 것으로 예상된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조경석 천문연 박사는 “일반적으로 CME가 지구에 도달하면 지구 자기장에 영향을 미처 전파교란이나 인공위성 운영 장애 등이 발생한다”며 “이번 CME 진행방향은 지구를 비켜 가기 때문에 지구에 미치는 영향은 미미할 것이다”라고 말했다.",
+				"sentenceSize": 131
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세종시 분양시장 포스코가 움직였다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012587",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "작년 하반기 도내 고용률 태안 '최고' 천안 '최저'",
+		"newsSubTitle": "",
+		"newsContent": "지난해 하반기 고용률은 충남 시·군 가운데 태안군이 가장 높은 반면 천안시가 가장 저조한 것으로 조사됐다.\n26일 통계청이 발표한 2013년 하반기 지역별 고용조사에 따르면 7개 특별·광역시를 제외한 9개 도의 시지역(77개) 취업자 수는 1137만3000명으로 고용률 58.1%를 보였다.\n전국 군지역 79개 취업자수는 215만5000명으로 고용률은 65.9%였다.\n전국 77개 시지역 가운데 상위 고용률을 보인 지역은 제주 서귀포시(70.6%), 보령시(66.4%), 당진시(66.4%) 등 순으로 집계됐다.\n보령시와 당진시 고용률은 각각 전국 상위 2위, 3위를 기록한 반면 천안시 고용률은 59.1%로 충남지역에서 최하위인 것으로 조사됐다.\n충남지역 군지역에서는 태안군(75.1%), 청양군(73.0%), 홍성군(68.8%) 순으로 고용률이 높았다.\n실업률은 천안시(2.5%), 아산시(2.3%), 당진시(1.9%) 등 순으로 높았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 하반기 고용률은 충남 시·군 가운데 태안군이 가장 높은 반면 천안시가 가장 저조한 것으로 조사됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 통계청이 발표한 2013년 하반기 지역별 고용조사에 따르면 7개 특별·광역시를 제외한 9개 도의 시지역(77개) 취업자 수는 1137만3000명으로 고용률 58.1%를 보였다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전국 군지역 79개 취업자수는 215만5000명으로 고용률은 65.9%였다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전국 77개 시지역 가운데 상위 고용률을 보인 지역은 제주 서귀포시(70.6%), 보령시(66.4%), 당진시(66.4%) 등 순으로 집계됐다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보령시와 당진시 고용률은 각각 전국 상위 2위, 3위를 기록한 반면 천안시 고용률은 59.1%로 충남지역에서 최하위인 것으로 조사됐다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "충남지역 군지역에서는 태안군(75.1%), 청양군(73.0%), 홍성군(68.8%) 순으로 고용률이 높았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실업률은 천안시(2.5%), 아산시(2.3%), 당진시(1.9%) 등 순으로 높았다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "충청권 광공업 생산, 지난해보다 크게 늘어",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

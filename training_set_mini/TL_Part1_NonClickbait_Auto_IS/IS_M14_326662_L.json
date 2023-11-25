@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326662",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "해외 발생 감염병, AI 예측 어렵나",
+		"newsSubTitle": "",
+		"newsContent": "인공지능(AI)이 신종 코로나바이러스 등 주요 감염병 경로 확산 등을 예측하는 기술로 활용될지 관심이 집중된다.\n미국 정보기술(IT) 매체 와이어드에 따르면 캐나다의 AI 기반 건강 모니터링 플랫폼 '블루닷'이 세계보건기구(WHO)보다 앞서 신종 코로나 위험성을 경고했다.\n블루닷은 지난해 12월 31일 신종 코로나 집담 감염이 우려된다는 메시지를 이용자에 전달했다.\n블루닷은 항공사 데이터와 동식물 질병 흐름, 언론 보도 등 빅데이터를 분석해 바이러스 감염 우려 지역 정보를 제공한다.\n블루닷은 소셜관계망(SNS) 게시글을 신뢰도가 낮다고 판단해 분석에 사용하지 않는다.\n블루닷은 이 같은 정보 분석으로 신종 코로나가 서울, 대만, 방콕, 도쿄 등으로 확산할 것이라 예측했다.\n이는 WHO가 처음 감염 우려를 보고한 1월 9일보다 9일가량 앞선 예측이다.\n아직 국내는 블루닷처럼 빅데이터 분석과 AI를 활용한 질병 경고 시스템 개발 전 단계다.\n다만 통신사 데이터를 활용해 감염 경로를 예측하는 서비스가 진행 중이다.\n2017년 정부 지원 사업으로 시작한 '로밍 빅데이터를 활용한 해외유입 감염병 차단 서비스'는 해외에서 감염병이 국내로 유입됐을 때 초기 대응에 활용하는 방식이다.\n통신사 로밍 빅데이터와 질병관리본부 입국자 검역정보 데이터를 융합해 해외 감염병 오염국가 방문 후 국내 입국자를 빠르게 파악한다.\n통신사 가입자 정보(핸드폰 번호)를 바탕으로 감염병 우려 지역에 다녀온 여행객을 추적한다.\n감염에 노출된 국민을 조기 관리하는데 활용한다.\n업계 관계자는 “통신사 데이터뿐 아니라 블루닷처럼 다양한 데이터를 결합해 감염 경로 등을 예측·파악하는 시스템이 중요하다”면서 “이번 사태를 기점으로 정부나 민간에서 다양한 서비스를 개발해 국민 불안감을 줄이고 정확한 정보제공에 활용되는 기반을 다져야할 때”라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI)이 신종 코로나바이러스 등 주요 감염병 경로 확산 등을 예측하는 기술로 활용될지 관심이 집중된다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 정보기술(IT) 매체 와이어드에 따르면 캐나다의 AI 기반 건강 모니터링 플랫폼 '블루닷'이 세계보건기구(WHO)보다 앞서 신종 코로나 위험성을 경고했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "블루닷은 지난해 12월 31일 신종 코로나 집담 감염이 우려된다는 메시지를 이용자에 전달했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "블루닷은 항공사 데이터와 동식물 질병 흐름, 언론 보도 등 빅데이터를 분석해 바이러스 감염 우려 지역 정보를 제공한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "블루닷은 소셜관계망(SNS) 게시글을 신뢰도가 낮다고 판단해 분석에 사용하지 않는다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "블루닷은 이 같은 정보 분석으로 신종 코로나가 서울, 대만, 방콕, 도쿄 등으로 확산할 것이라 예측했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이는 WHO가 처음 감염 우려를 보고한 1월 9일보다 9일가량 앞선 예측이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아직 국내는 블루닷처럼 빅데이터 분석과 AI를 활용한 질병 경고 시스템 개발 전 단계다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "다만 통신사 데이터를 활용해 감염 경로를 예측하는 서비스가 진행 중이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "2017년 정부 지원 사업으로 시작한 '로밍 빅데이터를 활용한 해외유입 감염병 차단 서비스'는 해외에서 감염병이 국내로 유입됐을 때 초기 대응에 활용하는 방식이다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "통신사 로밍 빅데이터와 질병관리본부 입국자 검역정보 데이터를 융합해 해외 감염병 오염국가 방문 후 국내 입국자를 빠르게 파악한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "통신사 가입자 정보(핸드폰 번호)를 바탕으로 감염병 우려 지역에 다녀온 여행객을 추적한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "감염에 노출된 국민을 조기 관리하는데 활용한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "업계 관계자는 “통신사 데이터뿐 아니라 블루닷처럼 다양한 데이터를 결합해 감염 경로 등을 예측·파악하는 시스템이 중요하다”면서 “이번 사태를 기점으로 정부나 민간에서 다양한 서비스를 개발해 국민 불안감을 줄이고 정확한 정보제공에 활용되는 기반을 다져야할 때”라고 말했다.",
+				"sentenceSize": 151
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "해외 발생 감염병, AI 예측 어렵나",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

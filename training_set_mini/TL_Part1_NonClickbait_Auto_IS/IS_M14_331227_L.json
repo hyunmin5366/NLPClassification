@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331227",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "포스코ICT, 산업현장 굴뚝 대기오염 감시솔루션 개발",
+		"newsSubTitle": "",
+		"newsContent": "포스코ICT가 산업현장 굴뚝에서 배출되는 매연 등 오염물질을 모니터링하는 굴뚝원격감시(TMS) 솔루션을 개발하고 사업화에 나선다.\nTMS는 생산현장 굴뚝에서 배출되는 대기 오염물질 양과 농도를 24시간 자동 측정하고 이를 환경부 산하 전국 4개 권역 관제센터로 전송하는 시스템이다.\n먼지를 비롯해 황산화물, 질소산화물, 암모니아, 일산화탄소, 염화수소, 불화수소 등을 측정한다.\n측정결과는 한국환경공단에서 운영하는 사이트를 통해 실시간 제공된다.\n환경부는 2024년까지 권역별 연평균 초미세먼지 농도 33% 저감을 목표로 '대기관리권역의 대기환경개선에 관한 특별법'을 입법해 지난 4월부터 시행하고 있다.\n수도권 지역에만 시행하던 '대기관리권역' 제도를 오염이 심한 지역(부산/울산권, 여수/광양권, 충청권)으로 확대했다.\n대기관리권역법의 적용을 받음으로써 질소산화물, 황산화물, 먼지 배출량이 연간 80톤을 초과하는 사업장의 경우 총량관리사업장으로 지정된다.\n모든 배출굴뚝에 의무적으로 TMS를 부착해야 하며 허용기준을 초과하는 경우 조업정지 등 행정처분을 받거나 과징금이 부과된다.\n포스코ICT TMS 솔루션은 데이터 로거(자료수집기)와 FEP(자료전송장치) 두 개의 장비로 구성된다.\n데이터 로거는 굴뚝에서 배출되는 다양한 오염물질의 농도를 측정기로부터 5초 주기로 수집·보정·저장하고 상위장치로 전송하는 역할을 수행한다.\nFEP는 다수의 데이터 로거로 받은 자료를 취합하여 환경부 관제센터 및 사업장 내 환경관리 통합시스템에 전송하며 원격으로 데이터 로거 실시간 운영상태와 이력관리 기능을 제공한다.\n포스코ICT는 관계자는 “솔루션을 개발해 지난 8월에는 한국환경공단의 대기오염공정시험기준 28개 시험항목 모두 적합 판정으로 인증을 획득해 사업추진에 필요한 준비를 마쳤다”면서 “포스코 제철소를 대상으로 TMS 구축을 진행 중으로 정유 및 화학, 발전소 등 TMS 설치가 필요한 산업시설을 대상으로 공급을 확대해 나갈 예정”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "포스코ICT가 산업현장 굴뚝에서 배출되는 매연 등 오염물질을 모니터링하는 굴뚝원격감시(TMS) 솔루션을 개발하고 사업화에 나선다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "TMS는 생산현장 굴뚝에서 배출되는 대기 오염물질 양과 농도를 24시간 자동 측정하고 이를 환경부 산하 전국 4개 권역 관제센터로 전송하는 시스템이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "먼지를 비롯해 황산화물, 질소산화물, 암모니아, 일산화탄소, 염화수소, 불화수소 등을 측정한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "측정결과는 한국환경공단에서 운영하는 사이트를 통해 실시간 제공된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "환경부는 2024년까지 권역별 연평균 초미세먼지 농도 33% 저감을 목표로 '대기관리권역의 대기환경개선에 관한 특별법'을 입법해 지난 4월부터 시행하고 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "수도권 지역에만 시행하던 '대기관리권역' 제도를 오염이 심한 지역(부산/울산권, 여수/광양권, 충청권)으로 확대했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대기관리권역법의 적용을 받음으로써 질소산화물, 황산화물, 먼지 배출량이 연간 80톤을 초과하는 사업장의 경우 총량관리사업장으로 지정된다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "모든 배출굴뚝에 의무적으로 TMS를 부착해야 하며 허용기준을 초과하는 경우 조업정지 등 행정처분을 받거나 과징금이 부과된다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "포스코ICT TMS 솔루션은 데이터 로거(자료수집기)와 FEP(자료전송장치) 두 개의 장비로 구성된다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "데이터 로거는 굴뚝에서 배출되는 다양한 오염물질의 농도를 측정기로부터 5초 주기로 수집·보정·저장하고 상위장치로 전송하는 역할을 수행한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "FEP는 다수의 데이터 로거로 받은 자료를 취합하여 환경부 관제센터 및 사업장 내 환경관리 통합시스템에 전송하며 원격으로 데이터 로거 실시간 운영상태와 이력관리 기능을 제공한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "포스코ICT는 관계자는 “솔루션을 개발해 지난 8월에는 한국환경공단의 대기오염공정시험기준 28개 시험항목 모두 적합 판정으로 인증을 획득해 사업추진에 필요한 준비를 마쳤다”면서 “포스코 제철소를 대상으로 TMS 구축을 진행 중으로 정유 및 화학, 발전소 등 TMS 설치가 필요한 산업시설을 대상으로 공급을 확대해 나갈 예정”이라고 말했다.",
+				"sentenceSize": 189
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "포스코ICT, 산업현장 굴뚝 대기오염 감시솔루션 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

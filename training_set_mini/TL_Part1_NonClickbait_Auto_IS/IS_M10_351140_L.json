@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351140",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"통일부 사무관입니다\\\"...안내문 인척 악성코드 배포",
+		"newsSubTitle": "null",
+		"newsContent": "최근 통일부 직원을 사칭한 악성 이메일 공격이 발견돼 이용자 주의가 요구된다.\n통일부에서 발송한 사이버 보안 안내문인척 위장한 악성코드가 담긴 문서를 배포하는 방식이다.\n보안기업 이스트시큐리티는 통일부 정착지원과의 모 사무관이 발송한 것처럼 위장한 이메일 공격이 발견됐다고 13일 밝혔다.\n이메일에는 최근 유력 인사를 노린 사이버 공격이 전방위로 진행되고 있어 안전에 유의하라는 내용과 함께 문서파일이 첨부돼있다.\n이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 이번 공격은 국내 대북 분야 전문가가 대상이다.\n최근 민관 사이버 위기 경보가 '정상'에서 '관심'으로 격상되면서, 공직자와 대북 관계자들이 사이버 공격 관련 문서를 열어볼 가능성이 크다는 점을 노린 것이다.\n이메일에 첨부된 문서 파일을 클릭하면 \\\"호환성 문제로 콘텐츠를 불러올 수 없으며 정상적인 문서 확인을 위해 '콘텐츠 사용' 버튼을 클릭하라'는 메시지가 뜬다. '콘텐츠 사용'은 문서에 삽입된 일부 코드가 사용자 허가없이 작동하지 않도록 차단하는 기능이다. 콘텐츠 사용을 누르면 해커가 설정해둔 악성 매크로 코드가 자동 실행된다. ESRC는 이번 공격 배후로 북한 연계 해킹조직인 '탈륨'을 지목했다. 지난 5월 탈륨이 수행했던 작전명 '사이버 스톰'공격과 동일한 계열의 코드가 발견됐기 때문이다.\n탈륨은 오랜 기간 MS 워드 형식의 문서를 이용한 해킹공격을 시도해왔다.\n문종현 이스트시큐리티 ESRC 센터장은 \\\"최근 외교·안보·국방·통일 등 분야에서 활동하는 유력인사를 집중 겨냥한 공격이 이어지고 있다\\\"며 \\\"\"이메일로 문서를 전달받을 경우 문서를 열기 전 발신자에게 발송여부를 확인하는 것이 중요하다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 통일부 직원을 사칭한 악성 이메일 공격이 발견돼 이용자 주의가 요구된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "통일부에서 발송한 사이버 보안 안내문인척 위장한 악성코드가 담긴 문서를 배포하는 방식이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보안기업 이스트시큐리티는 통일부 정착지원과의 모 사무관이 발송한 것처럼 위장한 이메일 공격이 발견됐다고 13일 밝혔다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이메일에는 최근 유력 인사를 노린 사이버 공격이 전방위로 진행되고 있어 안전에 유의하라는 내용과 함께 문서파일이 첨부돼있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 이번 공격은 국내 대북 분야 전문가가 대상이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 민관 사이버 위기 경보가 '정상'에서 '관심'으로 격상되면서, 공직자와 대북 관계자들이 사이버 공격 관련 문서를 열어볼 가능성이 크다는 점을 노린 것이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이메일에 첨부된 문서 파일을 클릭하면 \\\"호환성 문제로 콘텐츠를 불러올 수 없으며 정상적인 문서 확인을 위해 '콘텐츠 사용' 버튼을 클릭하라'는 메시지가 뜬다. '콘텐츠 사용'은 문서에 삽입된 일부 코드가 사용자 허가없이 작동하지 않도록 차단하는 기능이다. 콘텐츠 사용을 누르면 해커가 설정해둔 악성 매크로 코드가 자동 실행된다. ESRC는 이번 공격 배후로 북한 연계 해킹조직인 '탈륨'을 지목했다. 지난 5월 탈륨이 수행했던 작전명 '사이버 스톰'공격과 동일한 계열의 코드가 발견됐기 때문이다.",
+				"sentenceSize": 278
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "탈륨은 오랜 기간 MS 워드 형식의 문서를 이용한 해킹공격을 시도해왔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "문종현 이스트시큐리티 ESRC 센터장은 \\\"최근 외교·안보·국방·통일 등 분야에서 활동하는 유력인사를 집중 겨냥한 공격이 이어지고 있다\\\"며 \\\"\"이메일로 문서를 전달받을 경우 문서를 열기 전 발신자에게 발송여부를 확인하는 것이 중요하다\\\"고 말했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"통일부 사무관입니다\\\"...안내문 인척 악성코드 배포",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

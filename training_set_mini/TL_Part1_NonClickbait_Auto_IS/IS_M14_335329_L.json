@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335329",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "중기/벤처",
+		"newsTitle": "[2022 중소기업우수제품]시코드, 블루투스 이어폰 'NBT 912'",
+		"newsSubTitle": "",
+		"newsContent": "시코드(대표 김수호)는 무전기 PTT(Push to talk) 기능을 내장한 블루투스 이어폰 'NBT 912'를 출시했다.\n이 제품은 종일 블루투스를 사용하는 이용자들의 편의를 위해 본체를 옷깃에 부착해 사용하는 옷깃부착형이다.\n일반적인 블루투스는 마이크와 이어폰만 있어 듣고 말하는 기능만 있는데 시코드 제품은 이 기능 외에 무전기를 사용할 때 누르고 말하는 PTT 기능을 갖췄다.\n평소에는 스마트폰과 같이 블루투스 이어폰으로 사용하고 무전기 기능이 필요할 때 PTT 버튼을 누르면 스마트폰 내부에 설치된 무전기 앱이 작동해 미리 설정된 그룹과 무전할 수 있다.\n시코드는 블루투스 제품에서 음성과 데이터를 사용하는 프로파일이 유기적으로 작동하는 기술을 개발해 미국 등에 특허를 출원했다.\n김수호 대표는 “이 제품은 국내에는 국가 재난망 등 공공기관은 물론 호텔, 병원, 음식점에 공급했다”면서 “일본 ANA, JAL에 공급했고 독일 루프트한자항공, 싱가포르 경찰 등에서 사용을 시작해 향후 판매 증가가 기대된다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "시코드(대표 김수호)는 무전기 PTT(Push to talk) 기능을 내장한 블루투스 이어폰 'NBT 912'를 출시했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 제품은 종일 블루투스를 사용하는 이용자들의 편의를 위해 본체를 옷깃에 부착해 사용하는 옷깃부착형이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "일반적인 블루투스는 마이크와 이어폰만 있어 듣고 말하는 기능만 있는데 시코드 제품은 이 기능 외에 무전기를 사용할 때 누르고 말하는 PTT 기능을 갖췄다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "평소에는 스마트폰과 같이 블루투스 이어폰으로 사용하고 무전기 기능이 필요할 때 PTT 버튼을 누르면 스마트폰 내부에 설치된 무전기 앱이 작동해 미리 설정된 그룹과 무전할 수 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시코드는 블루투스 제품에서 음성과 데이터를 사용하는 프로파일이 유기적으로 작동하는 기술을 개발해 미국 등에 특허를 출원했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김수호 대표는 “이 제품은 국내에는 국가 재난망 등 공공기관은 물론 호텔, 병원, 음식점에 공급했다”면서 “일본 ANA, JAL에 공급했고 독일 루프트한자항공, 싱가포르 경찰 등에서 사용을 시작해 향후 판매 증가가 기대된다”고 말했다.",
+				"sentenceSize": 131
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2022 중소기업우수제품]시코드, 블루투스 이어폰 'NBT 912'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009829",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "“휴일근로 제한 말도 안돼”",
+		"newsSubTitle": "제조업체 84% 부정적",
+		"newsContent": "대다수의 제조업체가 주 12시간까지 허용되는 연장근로 한도에 휴일근무를 포함시키려는 정부 방침에 부정적인 입장을 나타냈다.\n대한상공회의소가 최근 제조업체 313개사를 대상으로 '근로시간 단축에 대한 의견'을 물은 결과, 응답기업 84.0%가 '휴일근무를 연장근무에 포함해 근로시간을 제한하려는 정부 계획이 타당하지 않다'는 반응을 보였다.\n지금까지는 주당 12시간의 연장근무 외에 토ㆍ일요일 각 8시간씩의 휴일근무를 허용하고 있었다.\n기업들은 정부 방침이 휴일근무를 할 수밖에 없는 업계 현실을 이해하지 못하는 것이라고 입을 모았다.\n실제 응답기업 70.0%는 납기일을 맞추기 위해, 23.3%는 업종 특성상 휴일근무가 불가피해서 휴일근무를 한다고 답했다.\n매 휴일마다 일하는 제조업체는 그리 많지 않았다.\n주문량 증가 등 특별한 상황이 발생할 때만 휴일근무를 한다(68.1%)는 기업이, 매 휴일마다 일한다(23.3%)는 기업보다 월등히 많았다.\n기업들은 휴일근로를 제한하면 납품물량ㆍ납기일을 못 지켜 거래처를 잃거나(45.7%), 인건비 상승으로 제품원가가 높아져 기업 경쟁력이 낮아질 것(42.5%)을 우려했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대다수의 제조업체가 주 12시간까지 허용되는 연장근로 한도에 휴일근무를 포함시키려는 정부 방침에 부정적인 입장을 나타냈다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대한상공회의소가 최근 제조업체 313개사를 대상으로 '근로시간 단축에 대한 의견'을 물은 결과, 응답기업 84.0%가 '휴일근무를 연장근무에 포함해 근로시간을 제한하려는 정부 계획이 타당하지 않다'는 반응을 보였다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지금까지는 주당 12시간의 연장근무 외에 토ㆍ일요일 각 8시간씩의 휴일근무를 허용하고 있었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기업들은 정부 방침이 휴일근무를 할 수밖에 없는 업계 현실을 이해하지 못하는 것이라고 입을 모았다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제 응답기업 70.0%는 납기일을 맞추기 위해, 23.3%는 업종 특성상 휴일근무가 불가피해서 휴일근무를 한다고 답했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매 휴일마다 일하는 제조업체는 그리 많지 않았다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주문량 증가 등 특별한 상황이 발생할 때만 휴일근무를 한다(68.1%)는 기업이, 매 휴일마다 일한다(23.3%)는 기업보다 월등히 많았다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기업들은 휴일근로를 제한하면 납품물량ㆍ납기일을 못 지켜 거래처를 잃거나(45.7%), 인건비 상승으로 제품원가가 높아져 기업 경쟁력이 낮아질 것(42.5%)을 우려했다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지역 땅값 '나홀로 강세'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

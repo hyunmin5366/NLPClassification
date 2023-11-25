@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352905",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"우리집 공유기, 비트코인 채굴에?\\\"...국정원 \\\"1만여대 기기 감염\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "CC(폐쇄회로)TV, 공유기 등 IT기기 1만여 대가 악성코드에 감염된 것으로 나타났다.\n한국을 포함 전 세계 72개국에서 현재 사용 중인 장비로, 일부 IoT 장비는 암호화폐 채굴용 악성코드를 유포하는 경로로 악용됐다는 분석도 나왔다.\n국가정보원은 최근 전 세계 IoT(사물인터넷) 기기 1만1700여 대가 'Mozi봇넷'이라는 악성코드에 감염됐다는 사실을 확인했다고 19일 밝혔다.\n이 중 한국에서 사용 중인 기기는 100여대이며, 대부분은 중국(83%)에서 사용한다.\n기기 종류는 유무선 공유기와 CCTV, 영상녹화장비(DVR), PC일체형 광고 모니터 등 일상적인 제품들이다.\nMozi봇넷은 보안에 취약한 비밀번호와 최신 소프트웨어를 사용하지 않는 장비를 노린 악성코드다.\n감염한 장비는 디도스(DDos, 분산서비스 거부) 공격용 좀비PC로 조종할 수 있다.\n국정원 조사 결과 감염된 일부 IoT 장비는 암호화폐 채굴을 위한 악성코드 유포에도 활용된 것으로 나타났다.\n국정원은 지난해 12월 러시아 침해사고대응팀(CERT)으로부터 한국 IP(인터넷 프로토콜) 주소를 경유한 해킹 시도가 있다는 정보를 입수했다.\n이후 진행조사에서 국정원은 국내 모 지자체의 PC 일체형 광고모니터가 이 악성코드에 감염된 사실을 확인했다.\n국정원은 국내외 유관기관과 정보를 공유하고 공동 대응 중이다.\n국정원은 \\\"국내 피해 방지를 위해 사이버 위협정보 공유 시스템(NCTI, KCTI) 등을 통해 공공기관과 민간기업 등에 관련 사실을 알리고 악성코드 제거 등 보안조치를 진행했다\\\"며 \\\"특히 감염장비가 많은 중국에는 관련 자료를 요청했다\\\"고 말했다.\n국정원은 많은 이용자들이 제품 구매 당시 첫 비밀번호를 바꾸지 않거나 쉬운 조합의 비밀번호를 사용하는 것을 노린 악성코드로 보고 있다.\n국정원 관계자는 \\\"IoT 장비를 사용할 때 비밀번호를 변경하는 등 기본적인 보안조치를 취해야 한다\\\"고 당부했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "CC(폐쇄회로)TV, 공유기 등 IT기기 1만여 대가 악성코드에 감염된 것으로 나타났다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국을 포함 전 세계 72개국에서 현재 사용 중인 장비로, 일부 IoT 장비는 암호화폐 채굴용 악성코드를 유포하는 경로로 악용됐다는 분석도 나왔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국가정보원은 최근 전 세계 IoT(사물인터넷) 기기 1만1700여 대가 'Mozi봇넷'이라는 악성코드에 감염됐다는 사실을 확인했다고 19일 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 중 한국에서 사용 중인 기기는 100여대이며, 대부분은 중국(83%)에서 사용한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기기 종류는 유무선 공유기와 CCTV, 영상녹화장비(DVR), PC일체형 광고 모니터 등 일상적인 제품들이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "Mozi봇넷은 보안에 취약한 비밀번호와 최신 소프트웨어를 사용하지 않는 장비를 노린 악성코드다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "감염한 장비는 디도스(DDos, 분산서비스 거부) 공격용 좀비PC로 조종할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국정원 조사 결과 감염된 일부 IoT 장비는 암호화폐 채굴을 위한 악성코드 유포에도 활용된 것으로 나타났다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "국정원은 지난해 12월 러시아 침해사고대응팀(CERT)으로부터 한국 IP(인터넷 프로토콜) 주소를 경유한 해킹 시도가 있다는 정보를 입수했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이후 진행조사에서 국정원은 국내 모 지자체의 PC 일체형 광고모니터가 이 악성코드에 감염된 사실을 확인했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "국정원은 국내외 유관기관과 정보를 공유하고 공동 대응 중이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "국정원은 \\\"국내 피해 방지를 위해 사이버 위협정보 공유 시스템(NCTI, KCTI) 등을 통해 공공기관과 민간기업 등에 관련 사실을 알리고 악성코드 제거 등 보안조치를 진행했다\\\"며 \\\"특히 감염장비가 많은 중국에는 관련 자료를 요청했다\\\"고 말했다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "국정원은 많은 이용자들이 제품 구매 당시 첫 비밀번호를 바꾸지 않거나 쉬운 조합의 비밀번호를 사용하는 것을 노린 악성코드로 보고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "국정원 관계자는 \\\"IoT 장비를 사용할 때 비밀번호를 변경하는 등 기본적인 보안조치를 취해야 한다\\\"고 당부했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"우리집 공유기, 비트코인 채굴에?\\\"...국정원 \\\"1만여대 기기 감염\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

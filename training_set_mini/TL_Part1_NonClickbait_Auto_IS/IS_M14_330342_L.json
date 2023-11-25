@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330342",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[기획]행안부, 공공부문 민간 SaaS 활용 촉진한다",
+		"newsSubTitle": "",
+		"newsContent": "행정안전부는 공공부문에 클라우드 확산을 위해 공공 클라우드 전환 사업과 함께 민간 서비스형 소프트웨어(SaaS) 활용 촉진 사업을 추진한다.\n클라우드컴퓨팅서비스의 하나인 SaaS는 직접 설치하지 않고 인터넷에 접속해 사용하는 소프트웨어(SW)다.\n저렴한 도입 비용 등 다양한 장점에도 보안 등 여러 이유로 도입이 제한돼 있다.\n우선 공공에서 이용 가능한 보안인증(CSAP)을 받은 SaaS가 51개에 불과하다.\n이마저도 공공이 아닌 민간 수요에 기반을 둔 제품이 대다수다.\n이는 중소 SW 기업이 SaaS 개발·전환에 대한 비용 부담과 공공의 제도·업무절차에 대한 이해 부족 등으로 공공 수요에 맞는 SaaS 개발이 어렵기 때문이다.\n공공에 맞는 SaaS를 개발한다고 하더라도 공공시스템 특성상 내·외부시스템이 복합적으로 연계돼 있고, 망분리 등 보안정책 준수를 위한 기술적·비용적 제약이 따른다.\n이에 따라 공공에 도입된 민간 SaaS는 인터넷 등 대외 업무에만 제한적으로 사용되는 실정이다.\n공공 업무용 SaaS 개발·이용을 위해서는 '전자정부 공통서비스' '행정망 내부업무시스템'과 연계가 필요하다.\n전자정부 공통서비스는 인증(GPKI·모바일 공무원증 등), 사용자 관리(통합계정관리), 조직·부서 관리(정부디렉터리시스템) 등을 포함한다.\n행정망 내부업무시스템은 온나라, e-사람, 새올, e-호조, 인사랑 등이다.\nSaaS 개발사가 전자정부 공통서비스나 내부업무시스템과 연계하기 위한 절차나 선례가 없다.\n개별 SaaS 기업이 공공시스템과 연계한 SaaS를 개발하는 것은 어려운 실정이다.\n이 같은 문제를 해결해야만 공공 분야에 민간 SaaS 활용을 늘릴 수 있다는 게 중론이다.\n행안부는 공공의 제도와 업무절차 등 공공 특성이 반영된 SaaS를 선제 발굴, 수요기관에 매칭하는 민간 SaaS 활용 촉진을 추진한다.\n민간 SaaS를 전자정부 공통서비스 및 행정·공공기관 내부업무시스템과 연계하기 위해 필요한 제도적·기술적 환경 조성도 추진할 방침이다.\n올해 하반기에는 행정망 내 민간 SaaS 서비스 존을 구성하는 시범사업을 추진, 망분리 등 보안상 제약으로 내부업무에 이용하기 어려웠던 민간의 SaaS 활용을 늘릴 계획이다.\n행안부 관계자는 “공공부문에 이용 가능한 SaaS 확충으로 행정·공공기관이 적시에 필요한 서비스를 이용할 수 있게 되면 업무 효율성이 높아질 것”이라며 “SaaS 기업, 스타트업의 공공부문 참여 기회를 확대하는 효과도 기대된다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "행정안전부는 공공부문에 클라우드 확산을 위해 공공 클라우드 전환 사업과 함께 민간 서비스형 소프트웨어(SaaS) 활용 촉진 사업을 추진한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "클라우드컴퓨팅서비스의 하나인 SaaS는 직접 설치하지 않고 인터넷에 접속해 사용하는 소프트웨어(SW)다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "저렴한 도입 비용 등 다양한 장점에도 보안 등 여러 이유로 도입이 제한돼 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우선 공공에서 이용 가능한 보안인증(CSAP)을 받은 SaaS가 51개에 불과하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이마저도 공공이 아닌 민간 수요에 기반을 둔 제품이 대다수다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는 중소 SW 기업이 SaaS 개발·전환에 대한 비용 부담과 공공의 제도·업무절차에 대한 이해 부족 등으로 공공 수요에 맞는 SaaS 개발이 어렵기 때문이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공공에 맞는 SaaS를 개발한다고 하더라도 공공시스템 특성상 내·외부시스템이 복합적으로 연계돼 있고, 망분리 등 보안정책 준수를 위한 기술적·비용적 제약이 따른다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 따라 공공에 도입된 민간 SaaS는 인터넷 등 대외 업무에만 제한적으로 사용되는 실정이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공공 업무용 SaaS 개발·이용을 위해서는 '전자정부 공통서비스' '행정망 내부업무시스템'과 연계가 필요하다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "전자정부 공통서비스는 인증(GPKI·모바일 공무원증 등), 사용자 관리(통합계정관리), 조직·부서 관리(정부디렉터리시스템) 등을 포함한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "행정망 내부업무시스템은 온나라, e-사람, 새올, e-호조, 인사랑 등이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "SaaS 개발사가 전자정부 공통서비스나 내부업무시스템과 연계하기 위한 절차나 선례가 없다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "개별 SaaS 기업이 공공시스템과 연계한 SaaS를 개발하는 것은 어려운 실정이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이 같은 문제를 해결해야만 공공 분야에 민간 SaaS 활용을 늘릴 수 있다는 게 중론이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "행안부는 공공의 제도와 업무절차 등 공공 특성이 반영된 SaaS를 선제 발굴, 수요기관에 매칭하는 민간 SaaS 활용 촉진을 추진한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "민간 SaaS를 전자정부 공통서비스 및 행정·공공기관 내부업무시스템과 연계하기 위해 필요한 제도적·기술적 환경 조성도 추진할 방침이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "올해 하반기에는 행정망 내 민간 SaaS 서비스 존을 구성하는 시범사업을 추진, 망분리 등 보안상 제약으로 내부업무에 이용하기 어려웠던 민간의 SaaS 활용을 늘릴 계획이다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "행안부 관계자는 “공공부문에 이용 가능한 SaaS 확충으로 행정·공공기관이 적시에 필요한 서비스를 이용할 수 있게 되면 업무 효율성이 높아질 것”이라며 “SaaS 기업, 스타트업의 공공부문 참여 기회를 확대하는 효과도 기대된다”고 말했다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[기획]행안부, 공공부문 민간 SaaS 활용 촉진한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

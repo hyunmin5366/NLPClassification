@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008676",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "유성구 특허·발명 新메카로",
+		"newsSubTitle": "연구단지 밀집… 8723건 전국 2위",
+		"newsContent": "유성구가 발명과 특허의 새로운 메카로 자리잡아가고 있다.\n26일 특허청에 따르면 지난해 전국 광역 및 기초 지방자치단체별 특허출원 현황을 분석한 결과, 수원시가 1만1405건으로 가장 많았다.\n이는 수원에 있는 삼성전자의 활발한 특허출원에 힘입은 것으로, 수원시는 최근 5년 연속 특허출원 1위를 기록했다.\n이어 유성구 8723건, 서울 서초구 6434건, 서울 영등포구 6341건 등 순이었다.\n유성구는 ETRI, KAIST 등 공공출연연구기관에서 특허출원이 많은 것으로 집계됐다.\n발명자의 거주지 기준으로는 대전 유성구(2만6334건)가 단연 앞서갔다.\n다음이 경기도 수원시(1만9015건), 경기도 용인시(1만7527건) 등 순으로 많았다.\n인구대비 특허 다출원 지역은 서울 중구(408건), 대전 유성구(324건), 인천 동구(185건) 순이었고, 광역자치단체별로는 서울, 경기, 대전 등 3개 도시가 전체 특허출원의 69%를 차지하는 등 지역별 편중이 심한 것으로 평가됐다.\n유성은 연구단지가 밀집해있는데다 앞으로도 특허와 발명 건수는 크게 늘어날 것으로 전망된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유성구가 발명과 특허의 새로운 메카로 자리잡아가고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 특허청에 따르면 지난해 전국 광역 및 기초 지방자치단체별 특허출원 현황을 분석한 결과, 수원시가 1만1405건으로 가장 많았다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 수원에 있는 삼성전자의 활발한 특허출원에 힘입은 것으로, 수원시는 최근 5년 연속 특허출원 1위를 기록했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 유성구 8723건, 서울 서초구 6434건, 서울 영등포구 6341건 등 순이었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유성구는 ETRI, KAIST 등 공공출연연구기관에서 특허출원이 많은 것으로 집계됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "발명자의 거주지 기준으로는 대전 유성구(2만6334건)가 단연 앞서갔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다음이 경기도 수원시(1만9015건), 경기도 용인시(1만7527건) 등 순으로 많았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인구대비 특허 다출원 지역은 서울 중구(408건), 대전 유성구(324건), 인천 동구(185건) 순이었고, 광역자치단체별로는 서울, 경기, 대전 등 3개 도시가 전체 특허출원의 69%를 차지하는 등 지역별 편중이 심한 것으로 평가됐다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "유성은 연구단지가 밀집해있는데다 앞으로도 특허와 발명 건수는 크게 늘어날 것으로 전망된다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중기청, 녹색기업 해외진출 지원",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

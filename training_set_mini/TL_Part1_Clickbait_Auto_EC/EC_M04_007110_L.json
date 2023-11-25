@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007110",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "저축은행 부실 '위험수위'",
+		"newsSubTitle": "잠재규모 6개월 만에 47% 급증… 대비책은 허술",
+		"newsContent": "저축은행의 잠재 부실규모가 6개월 만에 47% 증가해 대책 마련이 시급한 것으로 지적됐다.\n금융감독원이 국회 정무위원회 정옥임(한) 의원에게 제출한 자료에 따르면, 지난 6월 현재 저축은행권의 요주의 여신규모는 16조6193억원이다.\n지난해 말 11조2864억원보다 47.3%인 5조3329억원 늘어난 것으로, 저축은행 총 여신인 65조9325억원의 25%에 달하는 규모다.\n요주의 여신은 부실화될 수 있는 잠재부실 대출로, 급증한 것은 부동산 프로젝트파이낸싱(PF) 대출과 기업운영자금 등 기업대출 연체가 늘었기 때문이다.\n6월 말 현재 부동산 관련 대출 중 요주의 여신은 8조758억원으로 PF 사태 여파로 올 들어서만 1조원 넘게 늘었다.\n기업운영자금으로 대출한 금액 중 요주의 여신 역시 지난해 말보다 4조581억원 증가했다.\n하지만, 대비책은 허술한 것으로 지적됐다.\n6월 현재 저축은행들이 요주의 여신에 대한 대손충당금 규모는 5674억원으로 지난해 말 5692억원보다 18억원 감소했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "저축은행의 잠재 부실규모가 6개월 만에 47% 증가해 대책 마련이 시급한 것으로 지적됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융감독원이 국회 정무위원회 정옥임(한) 의원에게 제출한 자료에 따르면, 지난 6월 현재 저축은행권의 요주의 여신규모는 16조6193억원이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 말 11조2864억원보다 47.3%인 5조3329억원 늘어난 것으로, 저축은행 총 여신인 65조9325억원의 25%에 달하는 규모다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "요주의 여신은 부실화될 수 있는 잠재부실 대출로, 급증한 것은 부동산 프로젝트파이낸싱(PF) 대출과 기업운영자금 등 기업대출 연체가 늘었기 때문이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "6월 말 현재 부동산 관련 대출 중 요주의 여신은 8조758억원으로 PF 사태 여파로 올 들어서만 1조원 넘게 늘었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기업운영자금으로 대출한 금액 중 요주의 여신 역시 지난해 말보다 4조581억원 증가했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만, 대비책은 허술한 것으로 지적됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "6월 현재 저축은행들이 요주의 여신에 대한 대손충당금 규모는 5674억원으로 지난해 말 5692억원보다 18억원 감소했다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우리은행·하나은행, DLS·DLF 불완전 판매 요소 다분",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

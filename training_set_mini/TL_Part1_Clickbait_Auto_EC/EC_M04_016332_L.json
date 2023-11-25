@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016332",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "[주식 주가 업다운-특징주]에너지 기능조정안 발표에 한국전력 약세",
+		"newsSubTitle": "",
+		"newsContent": "▲ 네이버 증권정보 정부의 에너지 분야 공공기관 기능 조정 방안 발표로 14일 한국전력을 포함한 에너지 공기업들의 주가가 대부분 약세를 보였다.\n한국전력은 이날 전날보다 500원 (0.83%) 내린 5만9700원에 장을 마감했다.\n거래량은 81만3789주였다.\n지역난방공사는 4400원(6.24%) 떨어진 6만6100원에 거래를 마쳤다.\n한전기술은 1650원(5.77%) 떨어진 2만6천950원을 기록했다.\n반면 한국가스공사는 650원(1.6%) 오른 4만1250원에 거래됐다.\n코스피는 4거래일째 약세를 이어, 전날보다 7.03포인트(0.36%) 내린 1,972.03으로 마감했다.\n코스닥지수는 2.67포인트(0.38%) 내린 692.94로 장을 마감했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 네이버 증권정보 정부의 에너지 분야 공공기관 기능 조정 방안 발표로 14일 한국전력을 포함한 에너지 공기업들의 주가가 대부분 약세를 보였다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전력은 이날 전날보다 500원 (0.83%) 내린 5만9700원에 장을 마감했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "거래량은 81만3789주였다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지역난방공사는 4400원(6.24%) 떨어진 6만6100원에 거래를 마쳤다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한전기술은 1650원(5.77%) 떨어진 2만6천950원을 기록했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반면 한국가스공사는 650원(1.6%) 오른 4만1250원에 거래됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코스피는 4거래일째 약세를 이어, 전날보다 7.03포인트(0.36%) 내린 1,972.03으로 마감했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "코스닥지수는 2.67포인트(0.38%) 내린 692.94로 장을 마감했다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지역 제조업 '하락' 비제조업'상승'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

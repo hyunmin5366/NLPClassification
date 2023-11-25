@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331589",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "HDC신라免, 20일까지 영업 중단…롯데 제주점도 주말·휴일 휴점",
+		"newsSubTitle": "",
+		"newsContent": "코로나19 여파 매출이 급감한 면세점 업계가 잇달아 영업을 중단한다. 3일 업계에 따르면 롯데면세점 제주점은 오는 11일부터 이달 말까지 주말과 공휴일 영업을 중단한다.\n코엑스점과 부산점은 이달 한 달간 매주 월요일 주1회 휴점을 결정했다.\n나머지 명동본점과 월드타워점은 운영 시간을 오전 9시30분부터 오후 5시30분까지로 단축한다.\n롯데면세점은 현재 김포공항점과 김해공항점이 지난달부터 임시 휴업 중이다.\n서울 용산 HDC신라아이파크면세점도 이달 20일까지 영업을 중단한다.\n단 온라인 면세점은 정상 운영한다.\n앞서 신라면세점 제주점도 이달 주말과 공휴일 등 열흘간 휴점한다고 밝혔다.\n김포공항과 김해공항, 제주공항 면세점 매장은 이미 전부 임시 휴업에 들어갔다.\n신세계면세점의 경우 인천공항 탑승동에서 운영 중인 19개 매장 중 5개 매장을 임시휴업했다.\nSM면세점도 인천공항 면세점 운영 시간을 단축한다. 24시간 운영 중인 제1여객터미널 입국장 면세점 중 2곳 중 한 곳을 6일부터 임시 휴업한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 여파 매출이 급감한 면세점 업계가 잇달아 영업을 중단한다. 3일 업계에 따르면 롯데면세점 제주점은 오는 11일부터 이달 말까지 주말과 공휴일 영업을 중단한다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코엑스점과 부산점은 이달 한 달간 매주 월요일 주1회 휴점을 결정했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "나머지 명동본점과 월드타워점은 운영 시간을 오전 9시30분부터 오후 5시30분까지로 단축한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "롯데면세점은 현재 김포공항점과 김해공항점이 지난달부터 임시 휴업 중이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서울 용산 HDC신라아이파크면세점도 이달 20일까지 영업을 중단한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "단 온라인 면세점은 정상 운영한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 신라면세점 제주점도 이달 주말과 공휴일 등 열흘간 휴점한다고 밝혔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김포공항과 김해공항, 제주공항 면세점 매장은 이미 전부 임시 휴업에 들어갔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "신세계면세점의 경우 인천공항 탑승동에서 운영 중인 19개 매장 중 5개 매장을 임시휴업했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "SM면세점도 인천공항 면세점 운영 시간을 단축한다. 24시간 운영 중인 제1여객터미널 입국장 면세점 중 2곳 중 한 곳을 6일부터 임시 휴업한다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "HDC신라免, 20일까지 영업 중단…롯데 제주점도 주말·휴일 휴점",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

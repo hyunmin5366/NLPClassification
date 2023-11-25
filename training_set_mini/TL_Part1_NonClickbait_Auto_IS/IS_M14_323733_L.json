@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323733",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "싱가포르, 우버·그랩에 106억원 벌금...\\\"공정경쟁 저해\\\"",
+		"newsSubTitle": "",
+		"newsContent": "동남아시아의 차량호출 시장을 사실상 독점한 그랩과 이 회사에 동남아 사업을 넘긴 우버에 대해 싱가포르 당국이 \\\"공정경쟁을 저해했다\\\"며 106억원에 달하는 벌금을 부과했다.\n싱가포르 경쟁∙소비자위원회(CCCS)는 24일 우버에 658만싱가포르달러(약 53억8000만원), 그랩에 642만싱가포르달러(약 52억5000만원)의 벌금을 각각 부과했다고 현지 매체인 채널뉴스아시아(CNA)가 전했다.\n양사는 지난 3월 우버의 동남아 사업 전부를 그랩에 넘기고 그랩은 합병회사 지분 27.5%를 우버에 주는 '빅 딜'에 합의했다.\nCCCS는 \\\"양사의 거래로 그랩이 80%가량의 시장을 점유하고 경쟁사의 시장확대를 어렵게 하면서 이용요금을 10∼15% 인상했다\\\"면서 \\\"경쟁을 해치는 불가역적이고 완전한 합병을 단념시키려고 벌금을 부과한다\\\"고 밝혔다.\n당국은 또 \\\"이용객이 받는 포인트와 운전기사들의 인센티브 등이 줄어 수많은 민원을 접수했다\\\"면서 그랩에 시정하라고 지시했다.\n이어 운전기사들에게 다른 차량호출 업체를 동시에 이용하지 못하게 하는 등 경쟁을 해치는 규정을 철폐하라고 요구했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "동남아시아의 차량호출 시장을 사실상 독점한 그랩과 이 회사에 동남아 사업을 넘긴 우버에 대해 싱가포르 당국이 \\\"공정경쟁을 저해했다\\\"며 106억원에 달하는 벌금을 부과했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "싱가포르 경쟁∙소비자위원회(CCCS)는 24일 우버에 658만싱가포르달러(약 53억8000만원), 그랩에 642만싱가포르달러(약 52억5000만원)의 벌금을 각각 부과했다고 현지 매체인 채널뉴스아시아(CNA)가 전했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양사는 지난 3월 우버의 동남아 사업 전부를 그랩에 넘기고 그랩은 합병회사 지분 27.5%를 우버에 주는 '빅 딜'에 합의했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "CCCS는 \\\"양사의 거래로 그랩이 80%가량의 시장을 점유하고 경쟁사의 시장확대를 어렵게 하면서 이용요금을 10∼15% 인상했다\\\"면서 \\\"경쟁을 해치는 불가역적이고 완전한 합병을 단념시키려고 벌금을 부과한다\\\"고 밝혔다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당국은 또 \\\"이용객이 받는 포인트와 운전기사들의 인센티브 등이 줄어 수많은 민원을 접수했다\\\"면서 그랩에 시정하라고 지시했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 운전기사들에게 다른 차량호출 업체를 동시에 이용하지 못하게 하는 등 경쟁을 해치는 규정을 철폐하라고 요구했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "싱가포르, 우버·그랩에 106억원 벌금...\\\"공정경쟁 저해\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

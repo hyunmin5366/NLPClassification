@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014186",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "포르쉐의 선택은 '한국타이어'",
+		"newsSubTitle": "초고성능 타이어 국내 최초 공급",
+		"newsContent": "한국타이어가 국내 타이어업계 최초로 포르쉐에 신차용 타이어를 공급한다.\n한국타이어(대표이사 서승화)는 대표적인 초고성능 타이어인 '벤투스 S1 에보2' 의 스포츠유틸리티차량(SUV)용 상품 '벤투스 S1 에보2 SUV'를 포르쉐 마칸에 장착하기로 했다고 14일 밝혔다.\n포르쉐 마칸은 극한의 주행에도 안정적인 접지력과 스포티한 핸들링을 요구하는 세계 최초 전·후륜 이종규격을 도입한 SUV 스포츠카다.\n이번에 한국타이어가 포르쉐에 공급한 벤투스 S1 에보2 SUV는 듀얼 레이어 트래드(Dual Layer Tread) 기술이 적용돼 전·후륜 이종규격에 최적화된 초고성능 타이어다.\n듀얼 레이어 트래드는 극한의 조건에서 트래드가 닳아 성능이 저하되는 것을 방지하기 위해 트래드에 두 개의 컴파운드를 적용해 안정적인 접지력과 스포티한 핸들링의 성능이 동시에 나타나도록 설계됐다.\n벤투스 S1 에보2 SUV는 포르쉐 마칸처럼 스포티한 차종의 특성을 최적으로 구현하기 위해 개발한 초고성능 타이어로 편안한 드라이빙과 낮은 전동소음 등의 기능을 갖추고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국타이어가 국내 타이어업계 최초로 포르쉐에 신차용 타이어를 공급한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국타이어(대표이사 서승화)는 대표적인 초고성능 타이어인 '벤투스 S1 에보2' 의 스포츠유틸리티차량(SUV)용 상품 '벤투스 S1 에보2 SUV'를 포르쉐 마칸에 장착하기로 했다고 14일 밝혔다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "포르쉐 마칸은 극한의 주행에도 안정적인 접지력과 스포티한 핸들링을 요구하는 세계 최초 전·후륜 이종규격을 도입한 SUV 스포츠카다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번에 한국타이어가 포르쉐에 공급한 벤투스 S1 에보2 SUV는 듀얼 레이어 트래드(Dual Layer Tread) 기술이 적용돼 전·후륜 이종규격에 최적화된 초고성능 타이어다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "듀얼 레이어 트래드는 극한의 조건에서 트래드가 닳아 성능이 저하되는 것을 방지하기 위해 트래드에 두 개의 컴파운드를 적용해 안정적인 접지력과 스포티한 핸들링의 성능이 동시에 나타나도록 설계됐다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "벤투스 S1 에보2 SUV는 포르쉐 마칸처럼 스포티한 차종의 특성을 최적으로 구현하기 위해 개발한 초고성능 타이어로 편안한 드라이빙과 낮은 전동소음 등의 기능을 갖추고 있다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘대전 델라웨어 포도 맛보세유’",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

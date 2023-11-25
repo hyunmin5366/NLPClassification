@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328352",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "KAIST 개발 mOS, USENIX NSDI 최우수 논문상 수상... 인텔·리눅스 프로젝트 참여",
+		"newsSubTitle": "",
+		"newsContent": "한국과학기술원(KAIST∙총장 신성철) 연구진이 네트워크 시스템 학회인 'USENIX NSDI 2017'에서 네트워크 미들박스 제작 운용체계(OS)를 선보여 최우수 논문상을 수상했다.\nKAIST는 박경수∙한동수 전기 및 전자공학부 교수팀이 지난달 27~29일 미국 보스턴에서 열린 USENIX NSDI에서 'mOS' 연구 논문을 발표, 최우수 논문상을 받았다고 밝혔다.\nUSENIX NSDI는 네트워크 시스템 분야에서 손꼽히는 학회다.\n올해 미국∙유럽 명문학교에서 253개 논문을 제출했다.\n46편이 게재허락을 받았고, 이 중 최우수 논문은 mOS 연구논문 한 편이다.\n이번 수상은 국내 최초 사례다.\n아시아에서는 두 번째다.\n연구팀은 개인∙영세기업도 손쉽게 미들박스를 제작할 수 있도록 체계를 마련해 호평을 받았다.\n미들박스는 각종 네트워크에 부가기능을 구현하는 기기∙SW다.\n보안, 네트워킹 속도 향상, 사용자 분산 기능을 추가한다.\n네트워크 환경 발전으로 중요성이 커지고 있다.\n하지만 SW를 구현하려면 수만 줄의 소스코드(프로그래밍 언어)가 필요하다.\n연구팀은 2만7000줄의 소스코드 '스택(데이터 구조의 일종)'을 mOS에 담았다.\n소스코드를 몇 줄 추가하면 개별 미들박스 SW를 구성할 수 있다.\n이미 오픈 소스로 민간에 공개해 개발능력이 떨어지는 개인, 영세기업도 충분히 활용할 수 있게했다.\nmOS는 이번 수상을 발판삼아 세계 규모의 오픈 소스 프로젝트로 공개된다.\n연구팀은 인텔의 '고속 패킷 처리기술 개발 프로젝트(DPDK)'에 참여한다.\n인텔로부터 최신 연구 장비를 지원받는다. '리눅스 파운데이션' 멤버로도 참여한다.\n연구팀은 mOS를 기반으로 다양한 비즈니스 모델도 개발한다.\n박경수 교수는 \\\"mOS가 USENIX NSDI 최우수 논문으로 선정되면서 세계적으로 성과를 인정받고 더 큰 물로 나갈 수 있게됐다\\\"면서 \\\"mOS를 활용한 비즈니스 모델도 개발할 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국과학기술원(KAIST∙총장 신성철) 연구진이 네트워크 시스템 학회인 'USENIX NSDI 2017'에서 네트워크 미들박스 제작 운용체계(OS)를 선보여 최우수 논문상을 수상했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KAIST는 박경수∙한동수 전기 및 전자공학부 교수팀이 지난달 27~29일 미국 보스턴에서 열린 USENIX NSDI에서 'mOS' 연구 논문을 발표, 최우수 논문상을 받았다고 밝혔다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "USENIX NSDI는 네트워크 시스템 분야에서 손꼽히는 학회다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올해 미국∙유럽 명문학교에서 253개 논문을 제출했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "46편이 게재허락을 받았고, 이 중 최우수 논문은 mOS 연구논문 한 편이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 수상은 국내 최초 사례다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아시아에서는 두 번째다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구팀은 개인∙영세기업도 손쉽게 미들박스를 제작할 수 있도록 체계를 마련해 호평을 받았다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "미들박스는 각종 네트워크에 부가기능을 구현하는 기기∙SW다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "보안, 네트워킹 속도 향상, 사용자 분산 기능을 추가한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "네트워크 환경 발전으로 중요성이 커지고 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "하지만 SW를 구현하려면 수만 줄의 소스코드(프로그래밍 언어)가 필요하다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "연구팀은 2만7000줄의 소스코드 '스택(데이터 구조의 일종)'을 mOS에 담았다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "소스코드를 몇 줄 추가하면 개별 미들박스 SW를 구성할 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이미 오픈 소스로 민간에 공개해 개발능력이 떨어지는 개인, 영세기업도 충분히 활용할 수 있게했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "mOS는 이번 수상을 발판삼아 세계 규모의 오픈 소스 프로젝트로 공개된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "연구팀은 인텔의 '고속 패킷 처리기술 개발 프로젝트(DPDK)'에 참여한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "인텔로부터 최신 연구 장비를 지원받는다. '리눅스 파운데이션' 멤버로도 참여한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "연구팀은 mOS를 기반으로 다양한 비즈니스 모델도 개발한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "박경수 교수는 \\\"mOS가 USENIX NSDI 최우수 논문으로 선정되면서 세계적으로 성과를 인정받고 더 큰 물로 나갈 수 있게됐다\\\"면서 \\\"mOS를 활용한 비즈니스 모델도 개발할 계획\\\"이라고 말했다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KAIST 개발 mOS, USENIX NSDI 최우수 논문상 수상... 인텔·리눅스 프로젝트 참여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

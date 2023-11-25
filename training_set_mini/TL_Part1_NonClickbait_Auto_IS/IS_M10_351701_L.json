@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351701",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "지니언스, 원광대병원에 보안 솔루션 공급 \\\"악성코드 방어\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "통합 보안 플랫폼 기업 지니언스가 전라북도 익산의 상급 종합병원인 원광대학교 병원에 EDR(엔드포인트탐지대응) 솔루션을 구축한다고 5일 밝혔다.\nEDR은 PC 등 기기를 통한 악성코드 유입을 막고 감염여부를 실시간 탐지하는 보안 솔루션이다.\n원광대병원은 호남지역 대표 상급 종합병원으로, 의료기관 겨냥 해킹이 늘어남에 따라 각종 보안 대비책을 마련해왔다.\n랜섬웨어와 APT 등 최근 고도화된 위협에 효율적으로 대응하기 위해 EDR 솔루션 도입을 추진했다.\n지니언스의 EDR 솔루션인 지니언 인사이트 E(Genian Insight E)는 악성코드 유입과 감염을 탐지하고 반복적으로 발생하는 이상행위와 위협을 실시간으로 추적해 신속하게 대응하는 보안 솔루션이다.\n최근 기승을 부리는 지능형 공격과 랜섬웨어 등 공격 위협을 탐지하고 공격 징후와 진행 과정도 추적할 수 있다.\n머신러닝(ML)과 행위기반 위협탐지(XBA) 등 차세대 기술을 적용해 알려지지 않은 모든 공격을 탐지하고 대응할 수 있다.\n이동범 지니언스 대표는 \\\"지니언스의 EDR 솔루션은 글로벌 수준의 위협탐지 역량과 기술력을 갖췄다\\\"며 \\\"원광대병원이 안전한 의료서비스 체계를 완비하도록 지원을 아끼지 않겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "통합 보안 플랫폼 기업 지니언스가 전라북도 익산의 상급 종합병원인 원광대학교 병원에 EDR(엔드포인트탐지대응) 솔루션을 구축한다고 5일 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "EDR은 PC 등 기기를 통한 악성코드 유입을 막고 감염여부를 실시간 탐지하는 보안 솔루션이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "원광대병원은 호남지역 대표 상급 종합병원으로, 의료기관 겨냥 해킹이 늘어남에 따라 각종 보안 대비책을 마련해왔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "랜섬웨어와 APT 등 최근 고도화된 위협에 효율적으로 대응하기 위해 EDR 솔루션 도입을 추진했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지니언스의 EDR 솔루션인 지니언 인사이트 E(Genian Insight E)는 악성코드 유입과 감염을 탐지하고 반복적으로 발생하는 이상행위와 위협을 실시간으로 추적해 신속하게 대응하는 보안 솔루션이다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 기승을 부리는 지능형 공격과 랜섬웨어 등 공격 위협을 탐지하고 공격 징후와 진행 과정도 추적할 수 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "머신러닝(ML)과 행위기반 위협탐지(XBA) 등 차세대 기술을 적용해 알려지지 않은 모든 공격을 탐지하고 대응할 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이동범 지니언스 대표는 \\\"지니언스의 EDR 솔루션은 글로벌 수준의 위협탐지 역량과 기술력을 갖췄다\\\"며 \\\"원광대병원이 안전한 의료서비스 체계를 완비하도록 지원을 아끼지 않겠다\\\"고 말했다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지니언스, 원광대병원에 보안 솔루션 공급 \\\"악성코드 방어\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

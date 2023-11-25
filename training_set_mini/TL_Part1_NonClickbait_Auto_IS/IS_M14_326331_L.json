@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326331",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "해킹그룹 'FIN 10...민감 데이터 탈취 후 최대 150비트코인 요구",
+		"newsSubTitle": "",
+		"newsContent": "파이어아이(지사장 전수홍)가 데이터 탈취 후 비트코인을 요구하는 해킹 그룹 '핀(FIN)10'의 전술∙기법∙절차(TTP) 정보를 내놓았다.\n파이어아이에 따르면, FIN10은 2013년부터 2016년까지 캐나다를 비롯한 북미 지역에서 활동했다.\n카지노∙광산업계 조직 네트워크를 공격해 민감 데이터를 탈취했다.\n데이터 몸값으로 비트코인을 요구하는 등 금전적인 동기를 지닌 해킹그룹이다.\nFIN10은 주로 공개적으로 사용 가능한 소프트웨어(SW), 스크립트∙기술로 피해자 네트워크에 침투한다.\n일반인이 접근 가능한 웹 사이트 탈취 데이터 증거를 게시한다.\n데이터 몸값을 지불하지 않으면 탈취한 데이터를 공개하거나 공격 대상 조직 정보 자산∙시스템을 파괴한다.\nFIN10의 최초 침입은 주로 스피어 피싱 이메일을 통해 이뤄진다.\n미터프리터(Meterpreter), 파워쉘 엠파이어(PowerShell Empire) 스플린터랫(SplinterRAT) 등 많이 사용하는 툴로 내부 시스템을 해킹한다.\n피해자 파일 서버에 접속해 기업 비즈니스 데이터, 파일, 기록, 서신 등 파일을 탈취한다.\nFIN10은 드롭박스 같은 클라우드 기반 파일 공유∙저장 솔루션을 이용해 탈취한 데이터를 전송 받는다. 'pastebin.com' 'justpaste.it' 'thepiratebay.se' 등 공개적으로 접근 가능한 웹사이트에서 탈취한 데이터를 보여준다.\nFIN10은 탈취한 데이터의 몸값으로 100~150개 비트코인(약 12만5000~60만 달러)을 요구한다. 10일 안에 비트코인을 지불하지 않으면, 1차로 회사 및 고객 데이터 일부를 인터넷에 공개하고 탈취한 정보 내 고객에게 이메일로 탈취 사실을 알린다. 72시간 안에 지불하지 않으면, 2번째 데이터 덤프를 진행한다.\n이후 매 72시간마다 다크웹∙토렌트 사이트에 자료를 공개한다.\nFIN10은 두 해킹 사건에서 비트코인 지급을 끝까지 거부할 경우 윈도우 서버의 시스템 파일을 삭제하는 배치 스크립트를 실행한다.\n중요 시스템을 대상으로 마이크로소프트 '로보카피(robocopy)' 툴을 이용해 윈도우 디렉토리를 삭제했다.\n전수홍 파이어아이코리아 지사장은 \\\"FIN10의 경우 주로 북미지역을 타깃으로 하고 있지만, 다른 지역에서도 금전적 동기로 활동하는 해킹 그룹이 많이 존재 한다\\\"며 \\\"광범위한 보안 개선에 초점을 맞춰 미리 대비하는 지혜가 필요하다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "파이어아이(지사장 전수홍)가 데이터 탈취 후 비트코인을 요구하는 해킹 그룹 '핀(FIN)10'의 전술∙기법∙절차(TTP) 정보를 내놓았다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "파이어아이에 따르면, FIN10은 2013년부터 2016년까지 캐나다를 비롯한 북미 지역에서 활동했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카지노∙광산업계 조직 네트워크를 공격해 민감 데이터를 탈취했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "데이터 몸값으로 비트코인을 요구하는 등 금전적인 동기를 지닌 해킹그룹이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "FIN10은 주로 공개적으로 사용 가능한 소프트웨어(SW), 스크립트∙기술로 피해자 네트워크에 침투한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일반인이 접근 가능한 웹 사이트 탈취 데이터 증거를 게시한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "데이터 몸값을 지불하지 않으면 탈취한 데이터를 공개하거나 공격 대상 조직 정보 자산∙시스템을 파괴한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "FIN10의 최초 침입은 주로 스피어 피싱 이메일을 통해 이뤄진다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "미터프리터(Meterpreter), 파워쉘 엠파이어(PowerShell Empire) 스플린터랫(SplinterRAT) 등 많이 사용하는 툴로 내부 시스템을 해킹한다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "피해자 파일 서버에 접속해 기업 비즈니스 데이터, 파일, 기록, 서신 등 파일을 탈취한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "FIN10은 드롭박스 같은 클라우드 기반 파일 공유∙저장 솔루션을 이용해 탈취한 데이터를 전송 받는다. 'pastebin.com' 'justpaste.it' 'thepiratebay.se' 등 공개적으로 접근 가능한 웹사이트에서 탈취한 데이터를 보여준다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "FIN10은 탈취한 데이터의 몸값으로 100~150개 비트코인(약 12만5000~60만 달러)을 요구한다. 10일 안에 비트코인을 지불하지 않으면, 1차로 회사 및 고객 데이터 일부를 인터넷에 공개하고 탈취한 정보 내 고객에게 이메일로 탈취 사실을 알린다. 72시간 안에 지불하지 않으면, 2번째 데이터 덤프를 진행한다.",
+				"sentenceSize": 179
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이후 매 72시간마다 다크웹∙토렌트 사이트에 자료를 공개한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "FIN10은 두 해킹 사건에서 비트코인 지급을 끝까지 거부할 경우 윈도우 서버의 시스템 파일을 삭제하는 배치 스크립트를 실행한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "중요 시스템을 대상으로 마이크로소프트 '로보카피(robocopy)' 툴을 이용해 윈도우 디렉토리를 삭제했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "전수홍 파이어아이코리아 지사장은 \\\"FIN10의 경우 주로 북미지역을 타깃으로 하고 있지만, 다른 지역에서도 금전적 동기로 활동하는 해킹 그룹이 많이 존재 한다\\\"며 \\\"광범위한 보안 개선에 초점을 맞춰 미리 대비하는 지혜가 필요하다\\\"고 말했다.",
+				"sentenceSize": 138
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "해킹그룹 'FIN 10...민감 데이터 탈취 후 최대 150비트코인 요구",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

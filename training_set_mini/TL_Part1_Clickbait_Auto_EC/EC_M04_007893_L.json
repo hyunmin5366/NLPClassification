@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007893",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "충남 1분기 아파트 4548호 집들이",
+		"newsSubTitle": "전국 4만6611호 달해",
+		"newsContent": "1/4분기 충남은 모두 4548호의 아파트단지가 집들이를 준비한다.\n반면 대전은 입주아파트단지가 없는 것으로 조사됐다.\n23일 국토해양부에 따르면 올해 1/4분기 입주예정 아파트단지는 전국 4만6611호, 수도권 2만4338호, 지방 2만2273호가 입주예정으로 조사됐다.\n월별로는 1월 2만1892호, 2월 1만6589호, 3월 8130호로 1월에서 2월중 입주물량이 많은 것으로 나타났다.\n사업주체별로는 공공 1만7798호(38%), 민간 2만8813호(62%)가 입주예정이다.\n공공 1만7798호 중 분양은 4158호, 임대는 1만3640호로 집계됐다.\n주택규모별로는 85㎡이하 아파트가 3만0526호(66%), 85㎡초과 아파트가 1만6085호(34%)로 최근 중소형 주택 선호도에도 대응할 수 있을 것으로 기대된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "1/4분기 충남은 모두 4548호의 아파트단지가 집들이를 준비한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "반면 대전은 입주아파트단지가 없는 것으로 조사됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "23일 국토해양부에 따르면 올해 1/4분기 입주예정 아파트단지는 전국 4만6611호, 수도권 2만4338호, 지방 2만2273호가 입주예정으로 조사됐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "월별로는 1월 2만1892호, 2월 1만6589호, 3월 8130호로 1월에서 2월중 입주물량이 많은 것으로 나타났다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사업주체별로는 공공 1만7798호(38%), 민간 2만8813호(62%)가 입주예정이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공공 1만7798호 중 분양은 4158호, 임대는 1만3640호로 집계됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주택규모별로는 85㎡이하 아파트가 3만0526호(66%), 85㎡초과 아파트가 1만6085호(34%)로 최근 중소형 주택 선호도에도 대응할 수 있을 것으로 기대된다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "中企 정책 첫발…대통령 직속 상생위, '新경제 3불' 해결 나선다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

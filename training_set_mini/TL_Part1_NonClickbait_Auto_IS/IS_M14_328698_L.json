@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328698",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "자로 잰듯 정확한 5G 자율주차...이용자 편의·안전 높여",
+		"newsSubTitle": "",
+		"newsContent": "모바일 앱을 실행해 극장 좌석 예매하듯 빈 주차 공간을 선택하자 제네시스 GV80을 개조한 자율주행자동차 '에이원(A1)'이 스스로 주차를 시작한다.\nSUV가 주차하기엔 다소 좁은 공간처럼 보였지만, 한 번의 후진으로 주차가 마무리 됐다.\n주차된 차량은 마치 자로 잰듯 완벽히 주차선과 평행을 유지했다.\n문콕 위험 없이 안전하게 탑승과 하차가 가능했다.\n에이원을 서울 상암동 5G 자율주행 시범지구에서 체험했다.\n상암동 YTN 건물에서 출발한 에이원 뒷 좌석에 탑승해 약 800m를 자율주행해 상암 1공영주차장에 도착했다.\n주차장 입구에서 차에서 내려 모바일 앱을 실행, 자율주차 명령을 내리자 에이원이 미리 입력해 둔 주차장소로 스스로 운전해 찾아갔다.\n5G 자율주차는 에이원 자체에 탑재된 센서, 자율주행 소프트웨어(SW)와 결합한 실시간 주차공간 인식 시스템을 통해 이뤄졌다.\n주차장 곳곳에 지능형 CCTV가 설치돼 주차장소와 주차장 내부에 상황을 모니터링하고 있었다.\n실시간 주차공간 인식 시스템은 딥러닝을 기반으로 주차장에 설치된 CCTV를 통해 진행된다.\n사전에 비어있는 공간의 모습을 다양한 각도와 채도로 AI에 학습시켜 CCTV상 화면만으로 빈 자리를 찾아내고 5G 망을 이용해 LG유플러스 5G 클라우드 관제센터로 전송된다.\n조성진 한양대 에이스랩 연구원은 “주차는 주변물 인지보다 주차 경로 설정이 중요하다”며 “CCTV로 확보한 주차공간을 인식해 경로를 형성하는 알고리즘 기반으로 안전하고 편리한 주차가 가능한 것”이라고 설명했다.\n조 연구원은 “주차 시 발생할 수 있는 우발 상황은 자동차에 탑재된 라이다와 레이더가 인지해 사고를 막는다”고 덧붙였다.\n5G 자율주차는 운전을 하면서 가장 어려운 부분인 주차에 대한 걱정을 해소할 것으로 기대된다.\n한 번에 이뤄지는 정확한 주차로 주차장에서 빈번하게 발생하는 차 긁힘, 문콕 등 사고를 예방할 수 있다.\n급한 약속 시간을 앞두고 빈 주차장을 찾아 헤멜 필요없이 앱을 실행해 맡겨두면 스스로 주차해 시간을 줄여줘 생활 편의를 높일 전망이다.\nLG유플러스 관계자는 “에이스랩·컨트롤웍스와 이르면 내달부터 일반 시민을 대상으로 하는 공개 시연을 시작할 예정”이라며 “5G 자율주차 이용자 체험기회를 늘리겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모바일 앱을 실행해 극장 좌석 예매하듯 빈 주차 공간을 선택하자 제네시스 GV80을 개조한 자율주행자동차 '에이원(A1)'이 스스로 주차를 시작한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SUV가 주차하기엔 다소 좁은 공간처럼 보였지만, 한 번의 후진으로 주차가 마무리 됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주차된 차량은 마치 자로 잰듯 완벽히 주차선과 평행을 유지했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "문콕 위험 없이 안전하게 탑승과 하차가 가능했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "에이원을 서울 상암동 5G 자율주행 시범지구에서 체험했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "상암동 YTN 건물에서 출발한 에이원 뒷 좌석에 탑승해 약 800m를 자율주행해 상암 1공영주차장에 도착했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주차장 입구에서 차에서 내려 모바일 앱을 실행, 자율주차 명령을 내리자 에이원이 미리 입력해 둔 주차장소로 스스로 운전해 찾아갔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "5G 자율주차는 에이원 자체에 탑재된 센서, 자율주행 소프트웨어(SW)와 결합한 실시간 주차공간 인식 시스템을 통해 이뤄졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "주차장 곳곳에 지능형 CCTV가 설치돼 주차장소와 주차장 내부에 상황을 모니터링하고 있었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "실시간 주차공간 인식 시스템은 딥러닝을 기반으로 주차장에 설치된 CCTV를 통해 진행된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "사전에 비어있는 공간의 모습을 다양한 각도와 채도로 AI에 학습시켜 CCTV상 화면만으로 빈 자리를 찾아내고 5G 망을 이용해 LG유플러스 5G 클라우드 관제센터로 전송된다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "조성진 한양대 에이스랩 연구원은 “주차는 주변물 인지보다 주차 경로 설정이 중요하다”며 “CCTV로 확보한 주차공간을 인식해 경로를 형성하는 알고리즘 기반으로 안전하고 편리한 주차가 가능한 것”이라고 설명했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "조 연구원은 “주차 시 발생할 수 있는 우발 상황은 자동차에 탑재된 라이다와 레이더가 인지해 사고를 막는다”고 덧붙였다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "5G 자율주차는 운전을 하면서 가장 어려운 부분인 주차에 대한 걱정을 해소할 것으로 기대된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "한 번에 이뤄지는 정확한 주차로 주차장에서 빈번하게 발생하는 차 긁힘, 문콕 등 사고를 예방할 수 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "급한 약속 시간을 앞두고 빈 주차장을 찾아 헤멜 필요없이 앱을 실행해 맡겨두면 스스로 주차해 시간을 줄여줘 생활 편의를 높일 전망이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "LG유플러스 관계자는 “에이스랩·컨트롤웍스와 이르면 내달부터 일반 시민을 대상으로 하는 공개 시연을 시작할 예정”이라며 “5G 자율주차 이용자 체험기회를 늘리겠다”고 말했다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "자로 잰듯 정확한 5G 자율주차...이용자 편의·안전 높여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

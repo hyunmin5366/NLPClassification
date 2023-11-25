@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011057",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "세종시 여수신 모두 껑충",
+		"newsSubTitle": "기업 여유자금 유입, 부동산 주택대출 증가",
+		"newsContent": "중앙정부부처 이전과 공무원들의 이주 효과 등으로 세종지역의 금융기관 여수신이 증가한 것으로 나타났다.\n한국은행 대전충남지역본부가 17일 발표한 '2012년 11월 중 대전ㆍ세종ㆍ충남지역 금융기관 여수신 동향'에 따르면 세종지역의 수신과 여신은 기업의 일시 여유자금 유입, 중소기업 대출 부진 등의 모두 증가했다.\n세종지역 예금은행 수신(10월 -26억원→11월 +33억원)은 정기예금의 감소에도 기업자유예금 등이 늘었다.\n예금(-26억원→+32억원)은 정기예금이 예금금리 하락 등으로 감소했지만, 기업자유예금이 지자체, 교육청 등의 자금유입으로 증가했다.\n비은행기관 수신(10월 +15억원→11월 +194억원)은 상호금융 정기예금을 중심으로 증가폭이 크게 확대됐다.\n세종지역 여신(10월 +541억원→11월 1040억원) 또한 세종지역의 주택대출이 늘어나면서 증가했다.\n기업대출(+147억원→+34억원)은 대기업대출을 중심으로 증가폭이 축소됐고, 가계대출(+392억원→1002억원)은 세종시 아파트 집단대출이 늘었다.\n비은행기관 여신(10월 -20억원→11월 +235억원)은 상호금융의 호조 등으로 증가했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중앙정부부처 이전과 공무원들의 이주 효과 등으로 세종지역의 금융기관 여수신이 증가한 것으로 나타났다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전충남지역본부가 17일 발표한 '2012년 11월 중 대전ㆍ세종ㆍ충남지역 금융기관 여수신 동향'에 따르면 세종지역의 수신과 여신은 기업의 일시 여유자금 유입, 중소기업 대출 부진 등의 모두 증가했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "세종지역 예금은행 수신(10월 -26억원→11월 +33억원)은 정기예금의 감소에도 기업자유예금 등이 늘었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예금(-26억원→+32억원)은 정기예금이 예금금리 하락 등으로 감소했지만, 기업자유예금이 지자체, 교육청 등의 자금유입으로 증가했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비은행기관 수신(10월 +15억원→11월 +194억원)은 상호금융 정기예금을 중심으로 증가폭이 크게 확대됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "세종지역 여신(10월 +541억원→11월 1040억원) 또한 세종지역의 주택대출이 늘어나면서 증가했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기업대출(+147억원→+34억원)은 대기업대출을 중심으로 증가폭이 축소됐고, 가계대출(+392억원→1002억원)은 세종시 아파트 집단대출이 늘었다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "비은행기관 여신(10월 -20억원→11월 +235억원)은 상호금융의 호조 등으로 증가했다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "IBS, 원유 대체 물질 실마리 찾았다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

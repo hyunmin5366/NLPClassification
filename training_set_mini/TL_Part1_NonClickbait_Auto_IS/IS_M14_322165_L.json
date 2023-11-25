@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322165",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "위썸 '스파이크필터' GS 1등급 인증 획득",
+		"newsSubTitle": "",
+		"newsContent": "정보보호 메일시스템 전문업체 위썸(대표 정동원)은 개인정보 및 금칙어 통제 솔루션 '스파이크 필터'가 한국정보통신기술협회(TTA)로부터 GS 1등급 인증을 획득했다고 1일 밝혔다.\n스파이크 필터는 주민·카드·통장번호 등 개인정보와 금칙어를 통제하고 관리할 수 있는 서버용 솔루션이다.\nMS오피스, PDF, 아래아 한글 파일은 물론 압축 파일도 지원한다.\n위썸은 신한금융, 하나금융 등의 금융그룹 메일시스템에 스파이크필터를 적용했으며 KB금융 포털 전체 업무에 적용하면서 대상 시장을 확대하고 있다.\n단순하게 개인정보와 금칙어를 패턴으로 차단하는 제품과 달리 스파이크필터는 체크섬 검증으로 개인정보를 정확하게 탐지하고 API로 결과값을 돌려준다.\n검사 이력을 관리하고 감사할 수 있는 관리자 기능도 제공한다.\n웹메일, 게시판, 메신저, KMS 등 정보가 유통되는 모든 시스템에 적용할 수 있다.\n정동원 위썸 대표는 “업무상 개인정보를 다룰 수 밖에 없는 조직은 무조건 차단 보다는 적절한 통제와 유통 절차 제공, 감사 체계가 필요하다”면서 “GS인증을 계기로 금융 이외에도 공공, 기업 정보보호에도 기여하고자 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정보보호 메일시스템 전문업체 위썸(대표 정동원)은 개인정보 및 금칙어 통제 솔루션 '스파이크 필터'가 한국정보통신기술협회(TTA)로부터 GS 1등급 인증을 획득했다고 1일 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스파이크 필터는 주민·카드·통장번호 등 개인정보와 금칙어를 통제하고 관리할 수 있는 서버용 솔루션이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "MS오피스, PDF, 아래아 한글 파일은 물론 압축 파일도 지원한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "위썸은 신한금융, 하나금융 등의 금융그룹 메일시스템에 스파이크필터를 적용했으며 KB금융 포털 전체 업무에 적용하면서 대상 시장을 확대하고 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "단순하게 개인정보와 금칙어를 패턴으로 차단하는 제품과 달리 스파이크필터는 체크섬 검증으로 개인정보를 정확하게 탐지하고 API로 결과값을 돌려준다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "검사 이력을 관리하고 감사할 수 있는 관리자 기능도 제공한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "웹메일, 게시판, 메신저, KMS 등 정보가 유통되는 모든 시스템에 적용할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정동원 위썸 대표는 “업무상 개인정보를 다룰 수 밖에 없는 조직은 무조건 차단 보다는 적절한 통제와 유통 절차 제공, 감사 체계가 필요하다”면서 “GS인증을 계기로 금융 이외에도 공공, 기업 정보보호에도 기여하고자 한다”고 말했다.",
+				"sentenceSize": 129
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "위썸 '스파이크필터' GS 1등급 인증 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

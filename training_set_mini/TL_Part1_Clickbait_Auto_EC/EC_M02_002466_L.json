@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002466",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "하나은행, 해외송금 특화 앱 'Hana EZ'에 오픈뱅킹 도입",
+		"newsSubTitle": "해외송금 전 과정을 앱에서 처리 다른 은행 계좌 출금 및 송금도 가능",
+		"newsContent": "하나은행은 해외송금 특화 앱 'Hana EZ'에 오픈뱅킹 서비스를 도입·구축했다고 8일 밝혔다.\n이번 오픈뱅킹 서비스 도입은 언택트 거래 증가에 따른 수요에 초점을 맞췄다.\n기존 유학생 특화 송금 소요시간 예측 실시간 진행상황 조회 서비스에 오픈뱅킹 서비스를 추가, 하나은행 계좌뿐만 아니라 다른 은행 계좌에서도 바로 해외로 송금할 수 있다.\n착오 송금 예방 서비스도 추가돼 수취인 및 계좌번호를 잘못 입력해도 영업점 방문 없이 앱을 통해 수정 신청을 할 수 있다.\n또 해외에서 웨스턴유니온을 통해 보내온 송금을 영업점 방문없이 앱을 통해 직접 계좌로 받을 수 있도록 서비스를 확충할 예정(2021년 1월 중)이다.\n하나은행 외환상품부 관계자는 \\\"은행 방문 없이도 오픈뱅킹을 이용해 다른 은행 계좌에서 하나은행의 특화된 해외송금 서비스를 만나볼 수 있다\\\"며 \\\"외국환 전문 은행으로서 축적된 노하우와 차별화된 서비스로 손님께 최고의 만족을 선사할 것\\\"이라고 밝혔다.\n한편 지난 2019년 7월 공개된 하나은행의 'Hana EZ'는 빅데이터 기술과 인공지능(AI) 알고리즘을 도입한 차별화된 해외송금 서비스다.\n현재까지 가입자수 10만명과 누적 송금 금액 3억6000만 달러(미화 기준), 누적 송금 건수 30만건을 달성하며 하나은행의 대표 해외송금 앱으로 자리매김 했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하나은행은 해외송금 특화 앱 'Hana EZ'에 오픈뱅킹 서비스를 도입·구축했다고 8일 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 오픈뱅킹 서비스 도입은 언택트 거래 증가에 따른 수요에 초점을 맞췄다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 유학생 특화 송금 소요시간 예측 실시간 진행상황 조회 서비스에 오픈뱅킹 서비스를 추가, 하나은행 계좌뿐만 아니라 다른 은행 계좌에서도 바로 해외로 송금할 수 있다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "착오 송금 예방 서비스도 추가돼 수취인 및 계좌번호를 잘못 입력해도 영업점 방문 없이 앱을 통해 수정 신청을 할 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 해외에서 웨스턴유니온을 통해 보내온 송금을 영업점 방문없이 앱을 통해 직접 계좌로 받을 수 있도록 서비스를 확충할 예정(2021년 1월 중)이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하나은행 외환상품부 관계자는 \\\"은행 방문 없이도 오픈뱅킹을 이용해 다른 은행 계좌에서 하나은행의 특화된 해외송금 서비스를 만나볼 수 있다\\\"며 \\\"외국환 전문 은행으로서 축적된 노하우와 차별화된 서비스로 손님께 최고의 만족을 선사할 것\\\"이라고 밝혔다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 지난 2019년 7월 공개된 하나은행의 'Hana EZ'는 빅데이터 기술과 인공지능(AI) 알고리즘을 도입한 차별화된 해외송금 서비스다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현재까지 가입자수 10만명과 누적 송금 금액 3억6000만 달러(미화 기준), 누적 송금 건수 30만건을 달성하며 하나은행의 대표 해외송금 앱으로 자리매김 했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "충남 면세점에 천안 '디에프코리아'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005224",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "현대차 아이오닉5, 美도 인정한 최고의 가족용 전기車",
+		"newsSubTitle": "美 자동차 평가 전문 사이트 카즈닷컴 평가",
+		"newsContent": "현대자동차 전기자동차 아이오닉5가 미국 자동차 평가 전문 사이트로부터 최고의 가족용 전기차로 뽑혔다.\n현대차는 31일 아이오닉5가 미국 유력 자동차 평가 전문 웹사이트 카즈닷컴이 29일(현지시간) 발표한 올해의 '전기차 톱픽'서 최고의 가족용 전기차로 선정됐다고 밝혔다.\n전기차 톱 픽은 카즈닷컴이 올해부터 처음 실시한 전기차 평가다.\n차량 이용 특성 등을 기준으로 가족용·가성비·출퇴근용·럭셔리 4개 부문으로 나눠 각 부문별 최고의 전기차를 선정했다.\n이 중 아이오닉 5는 가족용 톱픽 전기차에 올랐다.\n카즈닷컴은 아이오닉 5를 선정한 이유로 넓은 실내 공간과 다양한 수납공간을 꼽았다.\n카즈닷컴은 \\\"전기차는 일반 내연기관 자동차보다 실내 공간 활용성 측면에서 이점이 있는데, 아이오닉 5가 이를 가장 잘 대변한다\\\"며 \\\"아이오닉 5의 외관 크기는 소형 SUV 수준이지만, 내부는 훨씬 더 개방적이고 다양한 짐을 운반하기 위한 유연성 측면에서 뛰어나다\\\"고 설명했다.\n현대차 관계자는 데일리임팩트에 \\\"아이오닉5 특성상 가족들이 필요로 하고 좋아하는 것들을 갖췄다\\\"며 \\\"넓은 실내 및 초고속 충전 등이 고객들의 마음을 움직인 것 같다\\\"라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차 전기자동차 아이오닉5가 미국 자동차 평가 전문 사이트로부터 최고의 가족용 전기차로 뽑혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대차는 31일 아이오닉5가 미국 유력 자동차 평가 전문 웹사이트 카즈닷컴이 29일(현지시간) 발표한 올해의 '전기차 톱픽'서 최고의 가족용 전기차로 선정됐다고 밝혔다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전기차 톱 픽은 카즈닷컴이 올해부터 처음 실시한 전기차 평가다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "차량 이용 특성 등을 기준으로 가족용·가성비·출퇴근용·럭셔리 4개 부문으로 나눠 각 부문별 최고의 전기차를 선정했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 중 아이오닉 5는 가족용 톱픽 전기차에 올랐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카즈닷컴은 아이오닉 5를 선정한 이유로 넓은 실내 공간과 다양한 수납공간을 꼽았다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "카즈닷컴은 \\\"전기차는 일반 내연기관 자동차보다 실내 공간 활용성 측면에서 이점이 있는데, 아이오닉 5가 이를 가장 잘 대변한다\\\"며 \\\"아이오닉 5의 외관 크기는 소형 SUV 수준이지만, 내부는 훨씬 더 개방적이고 다양한 짐을 운반하기 위한 유연성 측면에서 뛰어나다\\\"고 설명했다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현대차 관계자는 데일리임팩트에 \\\"아이오닉5 특성상 가족들이 필요로 하고 좋아하는 것들을 갖췄다\\\"며 \\\"넓은 실내 및 초고속 충전 등이 고객들의 마음을 움직인 것 같다\\\"라고 말했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신한은행, 미성년자 종합금융 서비스 '리틀신한' 공개",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

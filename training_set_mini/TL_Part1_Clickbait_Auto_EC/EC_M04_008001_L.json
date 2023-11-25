@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008001",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "계룡건설 작년 영업이익 362억",
+		"newsSubTitle": "전년비 6.3% 증가… 매출 1조2466억 3.1%↑",
+		"newsContent": "계룡건설의 2010년도 영업이익이 362억원으로 전년도에 비해 6.3% 증가한 것으로 밝혀졌다.\n계룡건설산업은 9일 공시를 통해 지난해 영업이익을 이 같이 밝혔다.\n또 지난해 매출은 1조2466억원으로 전년 같은기간에 비해 3.1% 늘었고, 당기순이익은 142억원으로 53.6% 감소했다.\n계룡건설측은 “이자수익과 유형자산 처분이익이 감소해 순이익이 줄었다”고 밝혔다.\n한편, 계룡건설은 보통주에 대해 주당 300원의 결산배당을 결정했다.\n시가배당률은 1.8%다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "계룡건설의 2010년도 영업이익이 362억원으로 전년도에 비해 6.3% 증가한 것으로 밝혀졌다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "계룡건설산업은 9일 공시를 통해 지난해 영업이익을 이 같이 밝혔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 지난해 매출은 1조2466억원으로 전년 같은기간에 비해 3.1% 늘었고, 당기순이익은 142억원으로 53.6% 감소했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "계룡건설측은 “이자수익과 유형자산 처분이익이 감소해 순이익이 줄었다”고 밝혔다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 계룡건설은 보통주에 대해 주당 300원의 결산배당을 결정했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시가배당률은 1.8%다.",
+				"sentenceSize": 13
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이베이 품은 신세계, '숙련된 IT 개발인력' 확보가 최대 성과",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

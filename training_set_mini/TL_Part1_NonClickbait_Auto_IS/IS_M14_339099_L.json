@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339099",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "교통신호정보 실시간 연계, 모바일 내비 지원 가능",
+		"newsSubTitle": "내년까지 대구 전역에 구축 교통신호정보 데이터 개방 웨이브 대비 수신제약 적어",
+		"newsContent": "자율주행차뿐 아니라 모바일 내비게이션도 실시간 교통신호정보 연계를 받을 수 있게 될 전망이다.\n자율주행차처럼 첨단운전자보조시스템(ADAS)와 연계는 불가능하지만 교통신호를 미리 인지할 수 있어 안전성 제고가 기대된다.\n12일 도로교통공단에 따르면 교통과학연구원은 대구에서 수집하는 교통신호정보 실시간 연계 정보를 필요한 기관과 민간 기업에 개방할 계획이다.\n공단 관계자는 “지능형자동차부품진흥원과 데이터 연계와 관련해 협의 중에 있고, 서비스 업체와도 논의 단계에 있다”면서 “서비스 품질 향상 차원에서 여러 업체가 관심을 보이고 있다”고 말했다.\n공단은 지난해 대구 수성알파시티 1개 지점에서 실시간 신호정보연계 지연 테스트를 진행한 데 이어 올해는 연말까지 30개 지점으로 인프라를 확대할 예정이다.\n내년까지 대구 전역으로 넓힌다는 계획을 세웠다.\n이를 통해 다양한 환경에서 교통신호정보를 LTE망으로 제공하는 데 있어 지연시간을 검증 및 개선한다.\n지난해 1개 지점에서 총 101회 측정한 결과 지연시간은 최소 0.101초, 최대 0.2초로 나타났다.\n공단은 현장 직접통신 방식과 차이가 크지 않고 자율주행차를 지원하는 데 있어 0.1초는 부족함이 없는 수준이라고 평가했다.\n공단은 향후 5세대(5G) 이동통신망을 활용하면 지연시간을 최대 30%가량 줄일 수 있다고 보고 있다.\n교통신호 전달 경로는 기존 '교통신호제어기→지역신호센터→도시교통정보센터→운전자' 4단계에서 '교통신호제어기→지역신호센터·도시교통정보센터(자율주행허브센터)→운전자' 3단계로 줄었다.\n공단은 듀얼-VPN LTE 모뎀을 활용해 지연시간을 단축하고 통신비와 구축 비용을 줄였다.\n센터 기반 교통신호정보 실시간 연계 방식은 자율주행차가 아니더라도 이동통신 모뎀이 있는 커넥티드카, 스마트폰이라면 수신이 가능하다.\n복잡한 교차로에서도 내비게이션 경로를 기반으로 정확한 교통신호정보를 받아볼 수 있다.\n이동통신망을 활용하기에 교통신호제어기와 수신 단말 간 거리 제약도 없다.\n반면에 웨이브 방식은 직접 통신으로 통신비가 들지 않고, 지연시간이 더 짧지만 교통신호제어기별로 노변기지국(RSE)이 필요하고, 차량에는 이를 수신하는 전용 단말이 있어야 한다.\n공단 관계자는 “대구에서 진행되는 교통신호정보 실시간 연계 사업이 전국적으로 확대될지는 아직 결정되지 않았다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자율주행차뿐 아니라 모바일 내비게이션도 실시간 교통신호정보 연계를 받을 수 있게 될 전망이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자율주행차처럼 첨단운전자보조시스템(ADAS)와 연계는 불가능하지만 교통신호를 미리 인지할 수 있어 안전성 제고가 기대된다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "12일 도로교통공단에 따르면 교통과학연구원은 대구에서 수집하는 교통신호정보 실시간 연계 정보를 필요한 기관과 민간 기업에 개방할 계획이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공단 관계자는 “지능형자동차부품진흥원과 데이터 연계와 관련해 협의 중에 있고, 서비스 업체와도 논의 단계에 있다”면서 “서비스 품질 향상 차원에서 여러 업체가 관심을 보이고 있다”고 말했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공단은 지난해 대구 수성알파시티 1개 지점에서 실시간 신호정보연계 지연 테스트를 진행한 데 이어 올해는 연말까지 30개 지점으로 인프라를 확대할 예정이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "내년까지 대구 전역으로 넓힌다는 계획을 세웠다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 통해 다양한 환경에서 교통신호정보를 LTE망으로 제공하는 데 있어 지연시간을 검증 및 개선한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난해 1개 지점에서 총 101회 측정한 결과 지연시간은 최소 0.101초, 최대 0.2초로 나타났다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공단은 현장 직접통신 방식과 차이가 크지 않고 자율주행차를 지원하는 데 있어 0.1초는 부족함이 없는 수준이라고 평가했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "공단은 향후 5세대(5G) 이동통신망을 활용하면 지연시간을 최대 30%가량 줄일 수 있다고 보고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "교통신호 전달 경로는 기존 '교통신호제어기→지역신호센터→도시교통정보센터→운전자' 4단계에서 '교통신호제어기→지역신호센터·도시교통정보센터(자율주행허브센터)→운전자' 3단계로 줄었다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "공단은 듀얼-VPN LTE 모뎀을 활용해 지연시간을 단축하고 통신비와 구축 비용을 줄였다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "센터 기반 교통신호정보 실시간 연계 방식은 자율주행차가 아니더라도 이동통신 모뎀이 있는 커넥티드카, 스마트폰이라면 수신이 가능하다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "복잡한 교차로에서도 내비게이션 경로를 기반으로 정확한 교통신호정보를 받아볼 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이동통신망을 활용하기에 교통신호제어기와 수신 단말 간 거리 제약도 없다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "반면에 웨이브 방식은 직접 통신으로 통신비가 들지 않고, 지연시간이 더 짧지만 교통신호제어기별로 노변기지국(RSE)이 필요하고, 차량에는 이를 수신하는 전용 단말이 있어야 한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "공단 관계자는 “대구에서 진행되는 교통신호정보 실시간 연계 사업이 전국적으로 확대될지는 아직 결정되지 않았다”고 말했다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "교통신호정보 실시간 연계, 모바일 내비 지원 가능",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

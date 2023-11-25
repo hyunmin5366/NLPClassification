@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006990",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "2018년부터 010번호 강제통합",
+		"newsSubTitle": "KT 내년 6월·LG 2015년 2G서비스 중단",
+		"newsContent": "2018년부터는 이동통신 전화번호 앞부분인 01X가 모두 010으로 강제 통합된다.\n강제통합 이전까지는 010이 아닌 번호로도 한시적으로 3세대(G) 서비스가 허용된다.\n방송통신위원회는 15일 전체회의를 열고 '010 번호통합 전책방안에 관한 건'을 의결했다.\n이번 의결로 KT는 2011년 6월, LG유플러스는 2015년, SK텔레콤은 2018년에 현재 운용하고 있는 2G서비스를 중단할 전망이다.\n내년 1월1일부터 01X이용자가 3G로 전환을 원하면 3G로의 한시적 번호 이동과 01X 번호표시서비스를 선택할 수 있다.\n방통위 관계자는 “지난 2월 010 번호통합 비율이 80%를 넘어서긴 했지만 8월말 현재 01X 이용자가 819만명에 달해 현 시점에서의 강제통합은 이용자들의 불편을 초래할 것으로 판단했다”며 “3G로의 한시적 번호이동와 01X번호 표시서비스를 통해 010으로의 번호이동을 유도한 뒤 2018년 전부 통합할 계획”이라고 말했다.\n2G(2세대)는 디지털 방식 이동통신 시스템을 적용한 통신서비스이며 3G(3세대)는 음성 데이터와 데이터 다운로드, 메일 주고 받기, 메시지 보내기 등의 기능을 이용할 수 있는 서비스이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2018년부터는 이동통신 전화번호 앞부분인 01X가 모두 010으로 강제 통합된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "강제통합 이전까지는 010이 아닌 번호로도 한시적으로 3세대(G) 서비스가 허용된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방송통신위원회는 15일 전체회의를 열고 '010 번호통합 전책방안에 관한 건'을 의결했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 의결로 KT는 2011년 6월, LG유플러스는 2015년, SK텔레콤은 2018년에 현재 운용하고 있는 2G서비스를 중단할 전망이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "내년 1월1일부터 01X이용자가 3G로 전환을 원하면 3G로의 한시적 번호 이동과 01X 번호표시서비스를 선택할 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방통위 관계자는 “지난 2월 010 번호통합 비율이 80%를 넘어서긴 했지만 8월말 현재 01X 이용자가 819만명에 달해 현 시점에서의 강제통합은 이용자들의 불편을 초래할 것으로 판단했다”며 “3G로의 한시적 번호이동와 01X번호 표시서비스를 통해 010으로의 번호이동을 유도한 뒤 2018년 전부 통합할 계획”이라고 말했다.",
+				"sentenceSize": 183
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2G(2세대)는 디지털 방식 이동통신 시스템을 적용한 통신서비스이며 3G(3세대)는 음성 데이터와 데이터 다운로드, 메일 주고 받기, 메시지 보내기 등의 기능을 이용할 수 있는 서비스이다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KCGI 공개서한으로 조양호 한진 회장에 선공",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

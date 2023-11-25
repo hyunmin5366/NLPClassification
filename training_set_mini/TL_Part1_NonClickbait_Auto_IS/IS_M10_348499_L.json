@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348499",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "마스크 써도 알아본다…99% AI 안면인식 출입자 관리시스템 개발",
+		"newsSubTitle": "null",
+		"newsContent": "코로나19(COVID-19) 확산 방지를 위해 출입자 체온 측정, 방문기록 작성이 일반화됐다.\n하지만 이런 절차들이 각각 별도로 이뤄져 정보 파악에 시간이 많이 들 뿐만 아니라, 관리 요원도 상시 주재해야 하고 정보 확인 과정에서 상호 접촉 및 교차 감염 우려도 있다.\n한국전기연구원(KERI) 스마트그리드연구단 배정효 박사팀이 인공지능(AI) 기술을 활용해 출입자 안면 인식, 발열 체크, 방문·신원 정보 등을 한 번에 통합 관리할 수 있는 ‘AI 안면인식 및 출입자 관리 시스템’을 ㈜아이이에스, ㈜아디아랩과 공동 개발했다고 26일 밝혔다.\n이 시스템 강점은 높은 안면 인식률이다.\n연구팀은 다양한 상황의 알고리즘 분석 연구를 통해 기존 상용제품의 안면 인식률인 68~94%를 훨씬 뛰어넘는 98~99%를 달성했다.\n연구팀은 “딥러닝 기반 AI 안면인식 기술을 통해 마스크를 쓴 상태에서도 사람을 구별할 수 있는 수준”이라고 설명했다.\n방문자들은 최초 1회만 데이터 등록을 해 놓으면, 추후 방문 시 마스크를 착용한 상태에서도 체온 측정과 동시에 방문·신원 정보가 자동으로 출입관리 시스템으로 넘어가 번거로운 입장 절차를 거치지 않아도 된다.\n배 박사는 “이번에 개발한 시스템은 사람들이 반복적으로 오고 가는 관공서 및 공공기관, 공항, 사무실, 공장 등에 설치하면 큰 효과를 발휘할 것으로 보고 있다”며 “특히 공항의 경우 여권 정보와 연동해 활용하면 여행객들이 보다 빠르고 간단하게 수속절차 과정을 거칠 수 있다”고 말했다.\n연구팀은 현재 성과에 대한 원천특허 출원을 완료했으며, AI 인식률 강화를 위한 추가적인 알고리즘 보완 연구를 수행하고 있다.\n차후 선진국을 대상으로 한 기술 수출에 나설 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19(COVID-19) 확산 방지를 위해 출입자 체온 측정, 방문기록 작성이 일반화됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하지만 이런 절차들이 각각 별도로 이뤄져 정보 파악에 시간이 많이 들 뿐만 아니라, 관리 요원도 상시 주재해야 하고 정보 확인 과정에서 상호 접촉 및 교차 감염 우려도 있다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국전기연구원(KERI) 스마트그리드연구단 배정효 박사팀이 인공지능(AI) 기술을 활용해 출입자 안면 인식, 발열 체크, 방문·신원 정보 등을 한 번에 통합 관리할 수 있는 ‘AI 안면인식 및 출입자 관리 시스템’을 ㈜아이이에스, ㈜아디아랩과 공동 개발했다고 26일 밝혔다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 시스템 강점은 높은 안면 인식률이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연구팀은 다양한 상황의 알고리즘 분석 연구를 통해 기존 상용제품의 안면 인식률인 68~94%를 훨씬 뛰어넘는 98~99%를 달성했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구팀은 “딥러닝 기반 AI 안면인식 기술을 통해 마스크를 쓴 상태에서도 사람을 구별할 수 있는 수준”이라고 설명했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방문자들은 최초 1회만 데이터 등록을 해 놓으면, 추후 방문 시 마스크를 착용한 상태에서도 체온 측정과 동시에 방문·신원 정보가 자동으로 출입관리 시스템으로 넘어가 번거로운 입장 절차를 거치지 않아도 된다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "배 박사는 “이번에 개발한 시스템은 사람들이 반복적으로 오고 가는 관공서 및 공공기관, 공항, 사무실, 공장 등에 설치하면 큰 효과를 발휘할 것으로 보고 있다”며 “특히 공항의 경우 여권 정보와 연동해 활용하면 여행객들이 보다 빠르고 간단하게 수속절차 과정을 거칠 수 있다”고 말했다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "연구팀은 현재 성과에 대한 원천특허 출원을 완료했으며, AI 인식률 강화를 위한 추가적인 알고리즘 보완 연구를 수행하고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "차후 선진국을 대상으로 한 기술 수출에 나설 계획이다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마스크 써도 알아본다…99% AI 안면인식 출입자 관리시스템 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

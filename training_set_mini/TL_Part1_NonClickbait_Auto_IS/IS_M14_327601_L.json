@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327601",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "엘젠아이씨티, 음성인식·챗봇솔루션 프로모션 진행",
+		"newsSubTitle": "",
+		"newsContent": "인공지능(AI) 전문기업 엘젠아이씨티(대표 김남현)는 AI기반 음성인식·챗봇 솔루션 '아이보이스앱', '아이보이스박스', '아이챗박스' 프로모션 행사를 진행한다고 11일 밝혔다.\nAI챗봇, AI음성, AI영상, 빅데이터 분석 등 기술력과 성공사례를 쌓으며 동종업계 최고 기술력과 성공사례를 보유하고 있다.\n아이보이스는 기존 검색엔진에 음성엔진을 적용해 간단한 음성검색을 지원한다.\n콜센터와 연계해 음성 텍스트전환과 가상상담사 상담서비스까지 원활하게 이뤄진다.\n음성 데이터를 빠르고 정확하게 텍스트화해 인식률이 90%에 달한다.\n키워드, 풀텍스트, 리얼타임, 배치 등 다양한 인터페이스를 제공한다.\n아이챗박스는 온라인을 통해 고객과 상담을 처리하고 서비스를 제공하는 AI기반 챗봇 솔루션이다.\n엘젠아이씨티는 하드웨어 일체형 패키지로 제공하며 스마트키오스크로도 구축이 가능하다고 밝혔다.\n엘젠아이씨티는 “공공, 금융, 엔터프라이즈, 서비스 기업 고객에게 경제적이고 원활한 AI 활용을 지원하고 고객내부 AI를 활용한 업무확산에 대한 기초와 AI인프라를 제공하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI) 전문기업 엘젠아이씨티(대표 김남현)는 AI기반 음성인식·챗봇 솔루션 '아이보이스앱', '아이보이스박스', '아이챗박스' 프로모션 행사를 진행한다고 11일 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AI챗봇, AI음성, AI영상, 빅데이터 분석 등 기술력과 성공사례를 쌓으며 동종업계 최고 기술력과 성공사례를 보유하고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이보이스는 기존 검색엔진에 음성엔진을 적용해 간단한 음성검색을 지원한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "콜센터와 연계해 음성 텍스트전환과 가상상담사 상담서비스까지 원활하게 이뤄진다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "음성 데이터를 빠르고 정확하게 텍스트화해 인식률이 90%에 달한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "키워드, 풀텍스트, 리얼타임, 배치 등 다양한 인터페이스를 제공한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아이챗박스는 온라인을 통해 고객과 상담을 처리하고 서비스를 제공하는 AI기반 챗봇 솔루션이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "엘젠아이씨티는 하드웨어 일체형 패키지로 제공하며 스마트키오스크로도 구축이 가능하다고 밝혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "엘젠아이씨티는 “공공, 금융, 엔터프라이즈, 서비스 기업 고객에게 경제적이고 원활한 AI 활용을 지원하고 고객내부 AI를 활용한 업무확산에 대한 기초와 AI인프라를 제공하겠다”고 말했다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엘젠아이씨티, 음성인식·챗봇솔루션 프로모션 진행",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

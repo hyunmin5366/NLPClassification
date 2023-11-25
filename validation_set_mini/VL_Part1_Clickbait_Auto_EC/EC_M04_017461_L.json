@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017461",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "공장, 이제는 무선으로 원격제어한다",
+		"newsSubTitle": "한국전자통신연구원 국내 최초 이동통신 기술 스마프팩토리 생산 자동화 시스템에 적용",
+		"newsContent": "ETRI 연구진이 '셀룰러 이동통신 기반 산업용 사물인터넷 서비스'를 활용, 공장 운영 현황데이터를 살펴 보고 있다.\n국내 연구진이 스마트팩토리에 이동통신기술을 적용하면서 공장을 무선으로 원격제어 하는 길이 열릴 전망이다.\n6일 한국전자통신연구원(ETRI)에 따르면 국내 최초로 이동통신 기술을 스마트팩토리 생산 자동화 시스템에 적용, 산업용 사물인터넷(IIoT) 서비스 시연에 성공했다.\n그동안 공장과 같은 산업현장에서는 자체적으로 IT를 적용해 왔다.\n공장 현장에서 널리 사용되는 유선통신 기술은 무선통신에 비해 신뢰도는 높지만 이동작업에 적합하지 않아 배선·안전에 개선해야했다.\n또 공정의 변화에 따른 공장 재배치나 기계나 로봇의 이동시 공장전체의 유선통신을 새로 깔아야 하는 불편이 있어왔다.\n여기에 공장의 블루투스나 와이파이와 같은 무선통신기술은 통신거리가 짧아 특정 영역을 벗어나면 통신이 되지 않아 넓은 공장에 활용하기에는 무리가 있었다.\nETRI 연구진은 이러한 불편함을 해소했다.\n연구진은 스마트팩토리에 스마트폰 방식의 셀룰러(celluar) 이동통신기술을 적용, 기지국이 서비스하는 반경 내에서 안정적인 통신이 가능하도록 만들었다.\n공장 내부와 공장과 소비자 간 물류·유통 단계에서도 통신이 가능하게 했다.\nETRI는 국제표준 기반 협대역 사물인터넷(NB-IoT)용 단말 시제품 제작에 성공했으며, 지난 5일 경북 구미 종합 비즈니스 지원센터에서 셀룰러 이동통신 기반 산업용 사물인터넷 서비스 시연회를 성공적으로 마쳤다.\nETRI의 NB IoT 단말은 IoT에서 필수로 요구되는 저전력·장거리 무선통신이 가능한 기술이다.\nNB IoT 기술은 기지국 통신 반경을 넓혀주고, 1㎢내 5만대 이상 단말지원이 가능하다.\n연구진은 시연회에서 이번 개발한 산업용 사물인터넷(IIoT)용 기지국 시스템을 활용했다.\n또 테스트베드의 생산 라인에 설치된 소음과 이동감지 센서에서 수집된 데이터를 상용 단말을 통해 연구진이 개발한 기지국과 서비스 플랫폼으로 전송했다.\n생산라인에서 발생하는 소음의 정도와 공정에 따라 움직이는 제조물품의 현황이 실시간 모니터링 됐다.\n공장자동화를 위해 설치된 기존 생산관리시스템(MES)과도 연동됐다.\n이번 기술이 상용화되면 5G 이동통신 기술과 스마트팩토리가 만나 산업용 광역 사물 네트워크 구축도 가능할 전망이다.\n연구진은 앞으로 산업용 사물인터넷 시장의 큰 부분을 차지할 5G이동통신 기술 기반의 산업용 기지국과 저전력 IoT 단말기 개발을 통해 국내 중소기업을 적극 육성한다는 계획이다.\n정현구 ETRI 5G기가서비스연구부문장은 \\\"공정이 복잡한 공장에서 통신 신뢰도를 향상시켜 기술 활용도를 높이고 스마트팩토리의 저변 확대에 주력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "ETRI 연구진이 '셀룰러 이동통신 기반 산업용 사물인터넷 서비스'를 활용, 공장 운영 현황데이터를 살펴 보고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 연구진이 스마트팩토리에 이동통신기술을 적용하면서 공장을 무선으로 원격제어 하는 길이 열릴 전망이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "6일 한국전자통신연구원(ETRI)에 따르면 국내 최초로 이동통신 기술을 스마트팩토리 생산 자동화 시스템에 적용, 산업용 사물인터넷(IIoT) 서비스 시연에 성공했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그동안 공장과 같은 산업현장에서는 자체적으로 IT를 적용해 왔다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공장 현장에서 널리 사용되는 유선통신 기술은 무선통신에 비해 신뢰도는 높지만 이동작업에 적합하지 않아 배선·안전에 개선해야했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 공정의 변화에 따른 공장 재배치나 기계나 로봇의 이동시 공장전체의 유선통신을 새로 깔아야 하는 불편이 있어왔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "여기에 공장의 블루투스나 와이파이와 같은 무선통신기술은 통신거리가 짧아 특정 영역을 벗어나면 통신이 되지 않아 넓은 공장에 활용하기에는 무리가 있었다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "ETRI 연구진은 이러한 불편함을 해소했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "연구진은 스마트팩토리에 스마트폰 방식의 셀룰러(celluar) 이동통신기술을 적용, 기지국이 서비스하는 반경 내에서 안정적인 통신이 가능하도록 만들었다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "공장 내부와 공장과 소비자 간 물류·유통 단계에서도 통신이 가능하게 했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ETRI는 국제표준 기반 협대역 사물인터넷(NB-IoT)용 단말 시제품 제작에 성공했으며, 지난 5일 경북 구미 종합 비즈니스 지원센터에서 셀룰러 이동통신 기반 산업용 사물인터넷 서비스 시연회를 성공적으로 마쳤다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "ETRI의 NB IoT 단말은 IoT에서 필수로 요구되는 저전력·장거리 무선통신이 가능한 기술이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "NB IoT 기술은 기지국 통신 반경을 넓혀주고, 1㎢내 5만대 이상 단말지원이 가능하다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "연구진은 시연회에서 이번 개발한 산업용 사물인터넷(IIoT)용 기지국 시스템을 활용했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "또 테스트베드의 생산 라인에 설치된 소음과 이동감지 센서에서 수집된 데이터를 상용 단말을 통해 연구진이 개발한 기지국과 서비스 플랫폼으로 전송했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "생산라인에서 발생하는 소음의 정도와 공정에 따라 움직이는 제조물품의 현황이 실시간 모니터링 됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "공장자동화를 위해 설치된 기존 생산관리시스템(MES)과도 연동됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이번 기술이 상용화되면 5G 이동통신 기술과 스마트팩토리가 만나 산업용 광역 사물 네트워크 구축도 가능할 전망이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "연구진은 앞으로 산업용 사물인터넷 시장의 큰 부분을 차지할 5G이동통신 기술 기반의 산업용 기지국과 저전력 IoT 단말기 개발을 통해 국내 중소기업을 적극 육성한다는 계획이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "정현구 ETRI 5G기가서비스연구부문장은 \\\"공정이 복잡한 공장에서 통신 신뢰도를 향상시켜 기술 활용도를 높이고 스마트팩토리의 저변 확대에 주력하겠다\\\"고 말했다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'IT인재 영입 확대'…KB국민은행, 상반기 200여명 채용한다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

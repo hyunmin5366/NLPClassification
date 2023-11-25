@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332968",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "[뉴스해설]'레벨3' 자율주행차, 올 가을부터 도로 등장",
+		"newsSubTitle": "",
+		"newsContent": "자율주행차 시대가 성큼 다가온다.\n캐딜락과 아우디가 미국자동차공학회(SAE) 기준 '레벨3'에 해당하는 자율주행차를 시장에 출시한다.\n캐딜락은 올 가을 스티어링 휠에 손을 잡지 않고도 안정적인 주행을 할 수 있는 슈퍼 크루즈(Super Cruise) 시스템이 출시 예정인 '2018 캐딜락 CT6'를 출시한다.\n이는 레벨3 부분자율주행을 처음으로 상용화하는 것이다.\n캐딜락은 완전 자율주행 시대를 열기 위해 지난 2012년부터 슈퍼 크루즈 개발에 전념해왔다.\n슈퍼 크루즈 기반 자율주행 시스템이 장착된 볼트(Volt)를 미시간주 워렌 기술 센터 내부에서 시범운영했고, 카셰어링 앱과 연동된 자율주행 기술도 개발해왔다.\n슈퍼 크루즈 시스템은 온보드 카메라, GPS 및 레이더 센서 등이 장착되며 고정밀 지도 데이터 수집을 위한 라이다(LiDAR) 센서도 탑재된다.\n지도 데이터 수집으로 차량이 급커브나 언덕 주행 시보다 안정된 주행을 제공한다.\n아우디는 최근 레벨3 부분자율주행 기능을 갖춘 신형 A8을 공개했다.\nA8은 차량에 탑재된 인공지능(AI)이 6대 카메라와 레이저 스캐너를 활용해 자동으로 차선을 변경하거나 장애물을 피한다.\n중앙 분리대가 있는 고속도로를 시속 60㎞ 이하 속도로 탑승자가 운전대에서 손을 떼고 주행할 수 있다.\n교통 정체가 있는 시내에서도 자율주행이 가능하다.\n운전석 탑승자가 주행 중 차내 장착된 TV도 시청할 수 있다.\n이외의 운전 조건에선 자동차가 탑승자에게 수동 운전을 촉구한다.\nA8 자율주행을 책임지는 엔비디아 프로세서는 중앙운전자보조제어장치(zFAS) 시스템 두뇌를 제공한다.\nzFAS는 중앙 분리대와 진∙출입로가 있는 고속도로에서 사용할 수 있는 세계 최초의 교통체증 지원 시스템을 구현한다.\n운전사 역할을 하는 인공지능 트래픽 잼 파일럿 시스템(AI TJP)은 오작동을 방지하기 위한 빌트인 리던던시(Built in redundancy)를 고려해 설계됐다.\n카메라가 탑재된 레이저 스캐너를 활용해 자율주행하는 세계 최초의 양산용 시스템으로 차량 앞 전체를 스캔한다.\n센서로 입력된 데이터는 zFAS에서 처리된다.\n시스템에서는 초당 25억건 속도로 정확한 환경 모델을 생성한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자율주행차 시대가 성큼 다가온다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "캐딜락과 아우디가 미국자동차공학회(SAE) 기준 '레벨3'에 해당하는 자율주행차를 시장에 출시한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "캐딜락은 올 가을 스티어링 휠에 손을 잡지 않고도 안정적인 주행을 할 수 있는 슈퍼 크루즈(Super Cruise) 시스템이 출시 예정인 '2018 캐딜락 CT6'를 출시한다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 레벨3 부분자율주행을 처음으로 상용화하는 것이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "캐딜락은 완전 자율주행 시대를 열기 위해 지난 2012년부터 슈퍼 크루즈 개발에 전념해왔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "슈퍼 크루즈 기반 자율주행 시스템이 장착된 볼트(Volt)를 미시간주 워렌 기술 센터 내부에서 시범운영했고, 카셰어링 앱과 연동된 자율주행 기술도 개발해왔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "슈퍼 크루즈 시스템은 온보드 카메라, GPS 및 레이더 센서 등이 장착되며 고정밀 지도 데이터 수집을 위한 라이다(LiDAR) 센서도 탑재된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지도 데이터 수집으로 차량이 급커브나 언덕 주행 시보다 안정된 주행을 제공한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "아우디는 최근 레벨3 부분자율주행 기능을 갖춘 신형 A8을 공개했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "A8은 차량에 탑재된 인공지능(AI)이 6대 카메라와 레이저 스캐너를 활용해 자동으로 차선을 변경하거나 장애물을 피한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "중앙 분리대가 있는 고속도로를 시속 60㎞ 이하 속도로 탑승자가 운전대에서 손을 떼고 주행할 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "교통 정체가 있는 시내에서도 자율주행이 가능하다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "운전석 탑승자가 주행 중 차내 장착된 TV도 시청할 수 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이외의 운전 조건에선 자동차가 탑승자에게 수동 운전을 촉구한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "A8 자율주행을 책임지는 엔비디아 프로세서는 중앙운전자보조제어장치(zFAS) 시스템 두뇌를 제공한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "zFAS는 중앙 분리대와 진∙출입로가 있는 고속도로에서 사용할 수 있는 세계 최초의 교통체증 지원 시스템을 구현한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "운전사 역할을 하는 인공지능 트래픽 잼 파일럿 시스템(AI TJP)은 오작동을 방지하기 위한 빌트인 리던던시(Built in redundancy)를 고려해 설계됐다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "카메라가 탑재된 레이저 스캐너를 활용해 자율주행하는 세계 최초의 양산용 시스템으로 차량 앞 전체를 스캔한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "센서로 입력된 데이터는 zFAS에서 처리된다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "시스템에서는 초당 25억건 속도로 정확한 환경 모델을 생성한다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[뉴스해설]'레벨3' 자율주행차, 올 가을부터 도로 등장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

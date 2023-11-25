@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333814",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "파수닷컴 '스패로우', 금융권·대기업에서 인기",
+		"newsSubTitle": "",
+		"newsContent": "파수닷컴(대표 조규곤) 정태 분석 도구 '스패로우'가 금융∙대기업을 중심으로 인기를 끌고 있다.\n파수닷컴은 스패로우가 금융∙대기업을 중심으로 윈백(Win Back)사례가 늘고 있다고 12일 밝혔다.\n장일수 파수닷컴 상무는 \\\"올해 L카드사, W카드사, H그룹사 등 다양한 분야에서 윈백 및 신규 수주를 이끌어 냈다\\\"며 \\\"자사 제품의 기술력이 외산 제품보다 더 뛰어나다는 것을 인정받은 것\\\"이라고 말했다.\n스패로우는 개발 단계부터 소스코드 상 보안 취약점을 검출∙제거하는 정적 분석 도구다.\n경쟁제품에서 볼 수 없는 인공지능(AI) 기반 차별화된 편의기능을 제공한다.\n지난 3월 가트너가 발행한 '애플리케이션 보안 테스팅 매직 쿼드런트'에 국내 기업 최초로 이름을 올렸다.\n파수닷컴은 스패로우 서비스를 지속 확대한다.\n중■소 규모 업체도 손쉽게 시큐어코딩을 적용하도록 '스패로우 온 클라우드(SPARROW on Cloud)' 서비스를 확장한다.\n소프트웨어(SW) 개발에서 운영까지 전 과정에서 보안 취약점 검출기술을 연계하는 상호작용∙통합관리 시스템을 개발한다.\n장 상무는 \\\"앞으로 고객이 필요로 하는 기능 개발과 기술지원 체계 강화로 시장 점유율을 확대할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "파수닷컴(대표 조규곤) 정태 분석 도구 '스패로우'가 금융∙대기업을 중심으로 인기를 끌고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "파수닷컴은 스패로우가 금융∙대기업을 중심으로 윈백(Win Back)사례가 늘고 있다고 12일 밝혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장일수 파수닷컴 상무는 \\\"올해 L카드사, W카드사, H그룹사 등 다양한 분야에서 윈백 및 신규 수주를 이끌어 냈다\\\"며 \\\"자사 제품의 기술력이 외산 제품보다 더 뛰어나다는 것을 인정받은 것\\\"이라고 말했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스패로우는 개발 단계부터 소스코드 상 보안 취약점을 검출∙제거하는 정적 분석 도구다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경쟁제품에서 볼 수 없는 인공지능(AI) 기반 차별화된 편의기능을 제공한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 3월 가트너가 발행한 '애플리케이션 보안 테스팅 매직 쿼드런트'에 국내 기업 최초로 이름을 올렸다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "파수닷컴은 스패로우 서비스를 지속 확대한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "중■소 규모 업체도 손쉽게 시큐어코딩을 적용하도록 '스패로우 온 클라우드(SPARROW on Cloud)' 서비스를 확장한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "소프트웨어(SW) 개발에서 운영까지 전 과정에서 보안 취약점 검출기술을 연계하는 상호작용∙통합관리 시스템을 개발한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "장 상무는 \\\"앞으로 고객이 필요로 하는 기능 개발과 기술지원 체계 강화로 시장 점유율을 확대할 것\\\"이라고 말했다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파수닷컴 '스패로우', 금융권·대기업에서 인기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

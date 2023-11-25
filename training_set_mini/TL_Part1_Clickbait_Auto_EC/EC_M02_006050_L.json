@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006050",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "신한은행, '보유 주담대 기간 연장' 비대면 프로세스 시행",
+		"newsSubTitle": "금리는 그대로…만기만 5년 연장 지원",
+		"newsContent": "신한은행은 금리 상승기에 금융소비자의 원리금 부담을 완화하기 위해, 보유 중인 주택담보대출 금리 그대로 기간만 5년 연장하는 프로세스를 비대면으로 확대 시행한다고 22일 밝혔다.\n이번 확대 시행으로 주택담보대출을 보유한 고객은 신한 쏠(SOL)에서 간단한 입력만으로 기존 금리 그대로 대출 기간을 5년 연장해 매월 상환하는 원리금을 낮출 수 있다.\n예를 들어, 주택담보대출 기간이 15년인 고객은 20년으로, 30년인 고객은 35년으로, 35년인 고객은 40년까지 기존 금리 그대로 기간만 5년을 연장할 수 있다.\n비대면 만기 연장은 신한 쏠(SOL)에 로그인 후 하단 우측 전체메뉴에서 '관리 > 대출 > 만기연장(주택담보대출)'을 통해 진행할 수 있다.\n신한은행 관계자는 데일리임팩트에 \\\"다만, 집단대출이나 공동명의담보인 주택담보대출은 영업점 방문을 통해 신청할 수 있다\\\"라고 설명했다.\n한편, 신한은행은 앞으로도 금융소비자의 주거 안정과 금융비용부담 완화를 위해 포용적인 금융지원을 확대해 나갈 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신한은행은 금리 상승기에 금융소비자의 원리금 부담을 완화하기 위해, 보유 중인 주택담보대출 금리 그대로 기간만 5년 연장하는 프로세스를 비대면으로 확대 시행한다고 22일 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 확대 시행으로 주택담보대출을 보유한 고객은 신한 쏠(SOL)에서 간단한 입력만으로 기존 금리 그대로 대출 기간을 5년 연장해 매월 상환하는 원리금을 낮출 수 있다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예를 들어, 주택담보대출 기간이 15년인 고객은 20년으로, 30년인 고객은 35년으로, 35년인 고객은 40년까지 기존 금리 그대로 기간만 5년을 연장할 수 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비대면 만기 연장은 신한 쏠(SOL)에 로그인 후 하단 우측 전체메뉴에서 '관리 > 대출 > 만기연장(주택담보대출)'을 통해 진행할 수 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신한은행 관계자는 데일리임팩트에 \\\"다만, 집단대출이나 공동명의담보인 주택담보대출은 영업점 방문을 통해 신청할 수 있다\\\"라고 설명했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 신한은행은 앞으로도 금융소비자의 주거 안정과 금융비용부담 완화를 위해 포용적인 금융지원을 확대해 나갈 예정이다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "동국제강, 국내 최초 '코일철근' 온라인 판매",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

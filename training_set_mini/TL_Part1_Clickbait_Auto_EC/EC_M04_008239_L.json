@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008239",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "농·신협 등 상호금융 감독 강화",
+		"newsSubTitle": "금감원 사전점검으로 전환 SMS 활용 신고센터 설치",
+		"newsContent": "농·수협, 신협 등 상호금융기관에 대한 금융당국의 감독이 강화된다.\n금융감독원은 23일 농협과 수협, 신협, 산림조합 등에 대한 감독방식을 사후 점검방식에서 사전 점검방식으로 전환하는 금융사고 예방대책을 추진하겠다고 밝혔다.\n우선, 예금주의 계좌에서 예탁금 중도해지, 담보설정, 대출금 지급, 비밀번호 변경 등 변동사항이 생기면 상호금융기관은 예금주에게 즉시 문자메시지(SMS)로 알려야 한다.\n창구 직원 등이 고객의 예탁금을 개인 용도로 사용하거나 고객 예탁금을 담보로 대출받는 횡령 범죄 등을 차단하기 위해서다.\n또, 고객 확인과 대출심사 절차를 강화하는 방향으로 4개 상호금융중앙회가 회원조합을 상시, 감시하도록 했다.\n이와 함께 금융사고가 발생한 조합의 조합장과 감사에 대해 책임을 보다 엄격하게 묻고 감사의 내부통제 기능을 강화할 수 있도록 감사용 체크리스트를 제공하기로 했다.\n특히, 상호금융기관의 내부고발을 활성화하기 위해 금감원 내 내부자 신고센터도 설치할 방침이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "농·수협, 신협 등 상호금융기관에 대한 금융당국의 감독이 강화된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융감독원은 23일 농협과 수협, 신협, 산림조합 등에 대한 감독방식을 사후 점검방식에서 사전 점검방식으로 전환하는 금융사고 예방대책을 추진하겠다고 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우선, 예금주의 계좌에서 예탁금 중도해지, 담보설정, 대출금 지급, 비밀번호 변경 등 변동사항이 생기면 상호금융기관은 예금주에게 즉시 문자메시지(SMS)로 알려야 한다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "창구 직원 등이 고객의 예탁금을 개인 용도로 사용하거나 고객 예탁금을 담보로 대출받는 횡령 범죄 등을 차단하기 위해서다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또, 고객 확인과 대출심사 절차를 강화하는 방향으로 4개 상호금융중앙회가 회원조합을 상시, 감시하도록 했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이와 함께 금융사고가 발생한 조합의 조합장과 감사에 대해 책임을 보다 엄격하게 묻고 감사의 내부통제 기능을 강화할 수 있도록 감사용 체크리스트를 제공하기로 했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히, 상호금융기관의 내부고발을 활성화하기 위해 금감원 내 내부자 신고센터도 설치할 방침이다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "랜드마크 기대…대우건설, '음성 푸르지오 센터피크' 6월 중 분양",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

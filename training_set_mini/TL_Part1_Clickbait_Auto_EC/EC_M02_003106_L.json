@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003106",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "'금융과 인공지능의 만남'…KB국민은행, AI체험존 오픈",
+		"newsSubTitle": "오는 15일 여의도 신관에 오픈 다양한 AI기술기반 체험 선봬",
+		"newsContent": "KB국민은행은 금융서비스와 인공지능(AI)기술을 접목한 AI체험존(Zone)을 오는 15일 여의도 신관에 오픈한다고 12일 밝혔다.\nAI체험존은 두 개의 키오스크에서 KB국민은행의 AI기술을 만나볼 수 있는 인공지능 금융서비스 체험 공간이다.\n첫 번째 키오스크에서는 아바타가 등장하는 'AI 가상상담 서비스'를 경험할 수 있다.\n아바타는 KB신사옥에 대한 소개와 더불어 KB국민은행의 인공지능 방향 소개 금융에 특화한 한글 자연어 학습 모델인 딥러닝 언어모델 KB-ALBERT 키보드로 입력한 문장을 귀여운 목소리로 읽어주는 기능을 제공한다.\n국민은행 관계자는 미디어SR에 \\\"금융이 갖고있는 다소 어려운 이미지와 높은 진입장벽을 허물고, 고객에게 가깝게 다가가기 위해 귀여운 아바타 기반의 서비스를 준비했다\\\"고 설명했다.\n두 번째 키오스크에서는 통장개설, 청약, 예적금, IRP, 대출 등 은행업무 관련 상담이 가능한 AI은행원도 만나 볼 수 있다.\nAI은행원 서비스는 음성합성, 영상합성, 음성인식, 자연어처리 기술이 적용돼 실제 은행원과 같은 품질로 상담이 가능하다.\nKB국민은행측은 \\\"앞으로도 다양한 KB국민은행의 AI기술을 체험할 수 있도록 영업점과 모바일까지 체험 서비스를 확대해 금융소비자의 편의성을 제고할 것\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KB국민은행은 금융서비스와 인공지능(AI)기술을 접목한 AI체험존(Zone)을 오는 15일 여의도 신관에 오픈한다고 12일 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AI체험존은 두 개의 키오스크에서 KB국민은행의 AI기술을 만나볼 수 있는 인공지능 금융서비스 체험 공간이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "첫 번째 키오스크에서는 아바타가 등장하는 'AI 가상상담 서비스'를 경험할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아바타는 KB신사옥에 대한 소개와 더불어 KB국민은행의 인공지능 방향 소개 금융에 특화한 한글 자연어 학습 모델인 딥러닝 언어모델 KB-ALBERT 키보드로 입력한 문장을 귀여운 목소리로 읽어주는 기능을 제공한다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국민은행 관계자는 미디어SR에 \\\"금융이 갖고있는 다소 어려운 이미지와 높은 진입장벽을 허물고, 고객에게 가깝게 다가가기 위해 귀여운 아바타 기반의 서비스를 준비했다\\\"고 설명했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 번째 키오스크에서는 통장개설, 청약, 예적금, IRP, 대출 등 은행업무 관련 상담이 가능한 AI은행원도 만나 볼 수 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "AI은행원 서비스는 음성합성, 영상합성, 음성인식, 자연어처리 기술이 적용돼 실제 은행원과 같은 품질로 상담이 가능하다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "KB국민은행측은 \\\"앞으로도 다양한 KB국민은행의 AI기술을 체험할 수 있도록 영업점과 모바일까지 체험 서비스를 확대해 금융소비자의 편의성을 제고할 것\\\"이라고 밝혔다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 9월 아파트값 동향... 기는 매매가 뛰는 전세가",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

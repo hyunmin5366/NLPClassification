@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014701",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "코레일, 14일 임시공휴일 청춘열차 8회 증편",
+		"newsSubTitle": "13일 4회 등 총 12회",
+		"newsContent": "코레일은 오는 14일이 임시공휴일로 지정됨에 따라 늘어나는 이용객 수요에 맞춰 ITX-청춘 열차를 임시공휴일 전날 13일부터 이틀 동안 12회 추가로 운행한다고 밝혔다.\n▲ 코레일이 14일 임시공휴일을 맞아 청춘열차를 8회 추가한다.\n/사진=연합DB임시 운행하는 경춘선 ITX-청춘은 연휴 전날인 13일 4회, 임시공휴일인 14일 8회 등 총 12회 추가된다.\n증편되는 12회 중 용산에서 출발해 춘천으로 가는 하행이 6회, 춘천에서 출발해 용산에 도착하는 상행이 6회 증가한다.\n수도권전철은 평상시 공휴일에 운행횟수가 줄어드는 것과는 달리 이번 임시공휴일 당일인 14일에는 평일 수준으로 2200여회 운행해 출퇴근 이용객과 나들이객 모두 편리하게 전철을 이용할 수 있도록 할 계획이다.\n특히, ITX-청춘은 연휴기간에 하루 평균 2만6000여명이 이용할 것으로 예상돼 혼잡시간에 차내 질서유지, 무임승차 단속 등 쾌적한 열차이용 문화조성에도 대책을 마련할 방침이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코레일은 오는 14일이 임시공휴일로 지정됨에 따라 늘어나는 이용객 수요에 맞춰 ITX-청춘 열차를 임시공휴일 전날 13일부터 이틀 동안 12회 추가로 운행한다고 밝혔다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "▲ 코레일이 14일 임시공휴일을 맞아 청춘열차를 8회 추가한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "/사진=연합DB임시 운행하는 경춘선 ITX-청춘은 연휴 전날인 13일 4회, 임시공휴일인 14일 8회 등 총 12회 추가된다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "증편되는 12회 중 용산에서 출발해 춘천으로 가는 하행이 6회, 춘천에서 출발해 용산에 도착하는 상행이 6회 증가한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "수도권전철은 평상시 공휴일에 운행횟수가 줄어드는 것과는 달리 이번 임시공휴일 당일인 14일에는 평일 수준으로 2200여회 운행해 출퇴근 이용객과 나들이객 모두 편리하게 전철을 이용할 수 있도록 할 계획이다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히, ITX-청춘은 연휴기간에 하루 평균 2만6000여명이 이용할 것으로 예상돼 혼잡시간에 차내 질서유지, 무임승차 단속 등 쾌적한 열차이용 문화조성에도 대책을 마련할 방침이다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "으능정이 불법상점에 과태료 폭탄… 노점상 철거는 답보",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

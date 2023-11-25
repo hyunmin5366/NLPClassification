@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016880",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "중소기업 매출채권보험 17조원으로 확대",
+		"newsSubTitle": "",
+		"newsContent": "5000억 추가 인수… 외상거래 위험부담 줄어 중소기업청(청장 주영섭)과 신용보증기금(이사장 서근우)이 매출채권보험의 연간 인수 규모를 애초보다 5000억 증가한 17조 5000억 원으로 확대한다.\n매출채권보험은 중소기업이 물품 또는 용역을 제공하고 취득한 매출채권(상업어음 및 외상매출금)의 부도 위험을 공적보험으로 인수하는 정책 사업이다.\n중소기업은 신보(보험사)의 지원을 통해 외상거래에 대한 위험관리 역량을 강화할 수 있게 됐다.\n또 채무불이행 시 손실금 80%까지 보험금을 지급해 경영안정과 연쇄도산 방지수단으로 활용할 수 있다.\n제도개선을 통해 초기 중견기업과 오는 30일부터는 중소기업활동조합도 보험에 가입할 수 있다.\n보험한도는 30억에서 50억으로 상향했고 신용거래의 연간한도도 250억~300억 원 규모로 확대한다.\n중기청 관계자는 “추경을 통해 매출채권보험 인수규모를 확대했다. 외상거래가 불가피한 중소기업 현실을 고려해 기업 스스로 매출채권 부도 위험을 분산해 관리할 필요가 있다”라고 강조했다.\n매출채권보험은 신보 10개 신용보험센터와 106개 영업점에서 가입할 수 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "5000억 추가 인수… 외상거래 위험부담 줄어 중소기업청(청장 주영섭)과 신용보증기금(이사장 서근우)이 매출채권보험의 연간 인수 규모를 애초보다 5000억 증가한 17조 5000억 원으로 확대한다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "매출채권보험은 중소기업이 물품 또는 용역을 제공하고 취득한 매출채권(상업어음 및 외상매출금)의 부도 위험을 공적보험으로 인수하는 정책 사업이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "중소기업은 신보(보험사)의 지원을 통해 외상거래에 대한 위험관리 역량을 강화할 수 있게 됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 채무불이행 시 손실금 80%까지 보험금을 지급해 경영안정과 연쇄도산 방지수단으로 활용할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제도개선을 통해 초기 중견기업과 오는 30일부터는 중소기업활동조합도 보험에 가입할 수 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보험한도는 30억에서 50억으로 상향했고 신용거래의 연간한도도 250억~300억 원 규모로 확대한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중기청 관계자는 “추경을 통해 매출채권보험 인수규모를 확대했다. 외상거래가 불가피한 중소기업 현실을 고려해 기업 스스로 매출채권 부도 위험을 분산해 관리할 필요가 있다”라고 강조했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "매출채권보험은 신보 10개 신용보험센터와 106개 영업점에서 가입할 수 있다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[기획] 나눔은...함께하는 마음",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

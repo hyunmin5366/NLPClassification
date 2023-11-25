@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322976",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "엠엘소프트, 재택근무 필수 보안 솔루션 '티게이트 SDP' 무상지원 화제",
+		"newsSubTitle": "임직원·허가 단말만 앱 사용 허용 국내 상황 따라 3개월 추가 연장도",
+		"newsContent": "코로나19 확산으로 산업 현장에 전방위 충격이 가해지는 가운데 중소 소프트웨어(SW) 기업이 재택근무에 필수적인 보안 제품 '소프트웨어정의경계(SDP)' 솔루션 무상 지원을 선언해 화제다.\n엠엘소프트(대표 이무성)는 유통∙금융 등 기업들이 임직원의 안전과 업무 연속성을 위한 대안으로 재택근무에 눈을 돌림에 따라 SDP 솔루션 '티게이트(Tgate) SDP'를 3개월 동안 무료 지원한다고 25일 밝혔다.\nSDP는 미국 국방성을 비롯 글로벌 기업이 재택근무제 도입을 위해 사용하고 있다.\n엠엘소프트는 무료 라이선스 관련 금융∙일반기업 등 기존고객을 1차 지원 대상으로 삼고 담당자 확인을 거친 후 지원한다.\n신종 코로나 바이러스 진전 상황에 따라 무료 지원 기한 3개월을 추가 연장할 계획이다.\nSDP는 제로트러스트 개념의 솔루션이다.\n화이트리스트에 의해 허가된 임직원과 허가된 단말만이 허가된 특정 서버의 특정 애플리케이션만을 사용하도록 하는 간단하면서도 강력한 보안 솔루션으로 재택근무용으로 적합하다.\nSDP 목적은 서버를 보호하는 것으로서 게이트웨이, 에이전트, 컨트롤러 등 세 가지 SW 모듈로 구성돼 있다.\n이중 가장 중요한 것은 게이트웨이다.\n보호하고자 하는 서버나 서버팜 앞에 설치해 뒤에 있는 모든 서버를 은폐해 안전하게 만든다.\n에이전트는 PC나 스마트폰 등 단말에 설치하는 모듈이다.\n컨트롤러는 게이트웨이와 에이전트 간에 안전한 통신을 위한 관리와 통제 역할을 하는 서버이다.\n엠엘소프트는 국내 최초로 범용 SDP인 '티게이트 SDP'를 개발∙보급하고 있다. '티게이트 SDP'는 한국전자통신연구원(ETRI)으로부터 네트워크 보안 기술을 이전 받아 개발한 사용자 중심의 SDP이다.\n구축과 운영을 획기적으로 개선해 쉽게 사용할 수 있는 범용 SDP인 셈이다.\n이무성 대표는 \\\"재택근무뿐만 아니라 언제 어디서나 안전하게 업무를 수행할 수 있는 환경이 돼야 한다\\\"면서 \\\"무료 지원이 비상시국의 어려움을 함께하고 기업에 조금이나마 도움이 돼 빨리 위기에서 극복할 수 있기 바란다고\\\" 말했다.\n엠엘소프트는 25년간 엔드포인트 관리솔루션 'TCO'와 통제솔루션인 'NAC' 등을 개발∙보급하고 있다.\n금융, 의료, 군, 정부, 대기업 등 300여개 곳을 주요 고객을 삼는 엔드포인트 분야 선도 기업이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 확산으로 산업 현장에 전방위 충격이 가해지는 가운데 중소 소프트웨어(SW) 기업이 재택근무에 필수적인 보안 제품 '소프트웨어정의경계(SDP)' 솔루션 무상 지원을 선언해 화제다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엠엘소프트(대표 이무성)는 유통∙금융 등 기업들이 임직원의 안전과 업무 연속성을 위한 대안으로 재택근무에 눈을 돌림에 따라 SDP 솔루션 '티게이트(Tgate) SDP'를 3개월 동안 무료 지원한다고 25일 밝혔다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SDP는 미국 국방성을 비롯 글로벌 기업이 재택근무제 도입을 위해 사용하고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "엠엘소프트는 무료 라이선스 관련 금융∙일반기업 등 기존고객을 1차 지원 대상으로 삼고 담당자 확인을 거친 후 지원한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신종 코로나 바이러스 진전 상황에 따라 무료 지원 기한 3개월을 추가 연장할 계획이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SDP는 제로트러스트 개념의 솔루션이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "화이트리스트에 의해 허가된 임직원과 허가된 단말만이 허가된 특정 서버의 특정 애플리케이션만을 사용하도록 하는 간단하면서도 강력한 보안 솔루션으로 재택근무용으로 적합하다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SDP 목적은 서버를 보호하는 것으로서 게이트웨이, 에이전트, 컨트롤러 등 세 가지 SW 모듈로 구성돼 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이중 가장 중요한 것은 게이트웨이다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "보호하고자 하는 서버나 서버팜 앞에 설치해 뒤에 있는 모든 서버를 은폐해 안전하게 만든다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "에이전트는 PC나 스마트폰 등 단말에 설치하는 모듈이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "컨트롤러는 게이트웨이와 에이전트 간에 안전한 통신을 위한 관리와 통제 역할을 하는 서버이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "엠엘소프트는 국내 최초로 범용 SDP인 '티게이트 SDP'를 개발∙보급하고 있다. '티게이트 SDP'는 한국전자통신연구원(ETRI)으로부터 네트워크 보안 기술을 이전 받아 개발한 사용자 중심의 SDP이다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "구축과 운영을 획기적으로 개선해 쉽게 사용할 수 있는 범용 SDP인 셈이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이무성 대표는 \\\"재택근무뿐만 아니라 언제 어디서나 안전하게 업무를 수행할 수 있는 환경이 돼야 한다\\\"면서 \\\"무료 지원이 비상시국의 어려움을 함께하고 기업에 조금이나마 도움이 돼 빨리 위기에서 극복할 수 있기 바란다고\\\" 말했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "엠엘소프트는 25년간 엔드포인트 관리솔루션 'TCO'와 통제솔루션인 'NAC' 등을 개발∙보급하고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "금융, 의료, 군, 정부, 대기업 등 300여개 곳을 주요 고객을 삼는 엔드포인트 분야 선도 기업이다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엠엘소프트, 재택근무 필수 보안 솔루션 '티게이트 SDP' 무상지원 화제",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

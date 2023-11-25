@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334415",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[이슈분석]IoT 자가망 확대하는 지자체",
+		"newsSubTitle": "",
+		"newsContent": "지방자치단체를 중심으로 로라 사물인터넷(IoT) 자가망 구축 사례가 늘고 있다.\n지자체는 로라 IoT 자가망을 구축, 주민 대상 복지 서비스 시범사업에 활용 중이다.\n앞으로는 가로등과 전력계 등 도시 인프라 전반으로 확산할 계획이라 자가망을 둘러싼 논란도 확대될 전망이다.\n지자체는 치매환자 돌봄서비스, 어린이 안전 등 무상 복지 서비스에 로라 망을 도입했다.\n경남 양산시는 로라 기지국 100개를 자체 구축했다.\n별도 전송망(백홀) 구축없이 통신사가 제공하는 CCTV용 인터넷 망에 로라 기지국을 설치해 연동하는 방식으로 설치했다.\n양산시는 로라와 지그비 IoT 기술을 적용, 독거노인과 초등학생 약 5000명에게 무상 서비스를 제공했다.\n예산을 1억원 가까이 절감했고 주민 만족도가 높다고 설명했다.\n양산시는 사업 가능성을 확인한만큼 구축한 인프라를 활용해 가로등, 농업 관제 서비스 등으로 활용 범위를 넓히겠다는 입장이다.\n경기도 오산시는 지난달부터 로라 자가망을 활용해 기초수급대상 독거노인과 부부노인 582명에게 사회안전돌보미 서비스를 제공하기 시작했다.\n복지대상 주민에게 IoT 단말기를 보급하고 지자체담당자, 사회복지사, 보호자가 위치정보와 활동량 확인, 긴급호출 등 정보를 스마트폰 애플리케이션으로 확인하도록 했다.\n서울시가 대표 복지 서비스로 내세운 '따릉이' 공공자전거에도 로라 자가망이 적용됐다.\n시내에 마련된 따릉이 대여소에는 로라 모뎀이 장착돼 위치와 대여소 상태 등 데이터를 중앙 서버에 전송한다.\n지자체는 양산시 사례처럼 자가망 활용서비스를 주민 대상에서 도시 인프라까지 확대하려 한다.\n그러나 이동통신사는 공들여 개발해 도입하려던 공공서비스 기술과 서비스가 사장될 수 있다며 우려한다.\n지자체와 정부는 전문역량 부족과 중복 투자, 보안사고 책임 소재 등도 문제가 될 수 있다고 지적한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지방자치단체를 중심으로 로라 사물인터넷(IoT) 자가망 구축 사례가 늘고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지자체는 로라 IoT 자가망을 구축, 주민 대상 복지 서비스 시범사업에 활용 중이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞으로는 가로등과 전력계 등 도시 인프라 전반으로 확산할 계획이라 자가망을 둘러싼 논란도 확대될 전망이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지자체는 치매환자 돌봄서비스, 어린이 안전 등 무상 복지 서비스에 로라 망을 도입했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경남 양산시는 로라 기지국 100개를 자체 구축했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "별도 전송망(백홀) 구축없이 통신사가 제공하는 CCTV용 인터넷 망에 로라 기지국을 설치해 연동하는 방식으로 설치했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "양산시는 로라와 지그비 IoT 기술을 적용, 독거노인과 초등학생 약 5000명에게 무상 서비스를 제공했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "예산을 1억원 가까이 절감했고 주민 만족도가 높다고 설명했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "양산시는 사업 가능성을 확인한만큼 구축한 인프라를 활용해 가로등, 농업 관제 서비스 등으로 활용 범위를 넓히겠다는 입장이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "경기도 오산시는 지난달부터 로라 자가망을 활용해 기초수급대상 독거노인과 부부노인 582명에게 사회안전돌보미 서비스를 제공하기 시작했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "복지대상 주민에게 IoT 단말기를 보급하고 지자체담당자, 사회복지사, 보호자가 위치정보와 활동량 확인, 긴급호출 등 정보를 스마트폰 애플리케이션으로 확인하도록 했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "서울시가 대표 복지 서비스로 내세운 '따릉이' 공공자전거에도 로라 자가망이 적용됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "시내에 마련된 따릉이 대여소에는 로라 모뎀이 장착돼 위치와 대여소 상태 등 데이터를 중앙 서버에 전송한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "지자체는 양산시 사례처럼 자가망 활용서비스를 주민 대상에서 도시 인프라까지 확대하려 한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "그러나 이동통신사는 공들여 개발해 도입하려던 공공서비스 기술과 서비스가 사장될 수 있다며 우려한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "지자체와 정부는 전문역량 부족과 중복 투자, 보안사고 책임 소재 등도 문제가 될 수 있다고 지적한다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]IoT 자가망 확대하는 지자체",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

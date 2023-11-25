@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010984",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "생산도 늘고 제품재고도 늘어",
+		"newsSubTitle": "대전·충북 광공업 생산동향 지난달 동반상승",
+		"newsContent": "대전과 충북의 지난달 광공업 생산과 제품재고가 작년 동월 대비 동반 상승한 것으로 나타났다.\n30일 충청지방통계청이 제공한 11월 기준 충청지역 광공업 생산동향을 보면, 대전의 광공업생산은 담배와 화학제품, 의복 및 모피, 전기장비 등 증가세와 함께 작년 같은 달보다 5.3% 증가했다.\n고무 및 플라스틱, 화학제품 등의 업종은 감소세를 나타냈다.\n제품출하는 작년 동월 대비 0.4% 증가한 데 반해, 제품재고 역시 12.1% 늘어났다.\n충북의 광공업 생산은 영상ㆍ음향ㆍ통신, 종이제품, 화학제품, 비금속광물제품 등을 중심으로 작년 동월 대비 5.3% 확대됐다.\n제품출하 역시 의약품과 종이제품, 자동차 등의 업종 증가세로 4.4% 늘었다.\n다만 제품재고는 영상ㆍ음향ㆍ통신과 고무 및 플라스틱, 금속가공제품, 제1차금속 등의 업종 증가로 작년보다 무려 35.4% 증가했다.\n충남은 생산 및 제품출하 모두에서 감소세를 기록해 대조를 이뤘다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전과 충북의 지난달 광공업 생산과 제품재고가 작년 동월 대비 동반 상승한 것으로 나타났다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 충청지방통계청이 제공한 11월 기준 충청지역 광공업 생산동향을 보면, 대전의 광공업생산은 담배와 화학제품, 의복 및 모피, 전기장비 등 증가세와 함께 작년 같은 달보다 5.3% 증가했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "고무 및 플라스틱, 화학제품 등의 업종은 감소세를 나타냈다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "제품출하는 작년 동월 대비 0.4% 증가한 데 반해, 제품재고 역시 12.1% 늘어났다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "충북의 광공업 생산은 영상ㆍ음향ㆍ통신, 종이제품, 화학제품, 비금속광물제품 등을 중심으로 작년 동월 대비 5.3% 확대됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제품출하 역시 의약품과 종이제품, 자동차 등의 업종 증가세로 4.4% 늘었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다만 제품재고는 영상ㆍ음향ㆍ통신과 고무 및 플라스틱, 금속가공제품, 제1차금속 등의 업종 증가로 작년보다 무려 35.4% 증가했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "충남은 생산 및 제품출하 모두에서 감소세를 기록해 대조를 이뤘다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한-인니 '보라매 사업' 대전서 시동",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

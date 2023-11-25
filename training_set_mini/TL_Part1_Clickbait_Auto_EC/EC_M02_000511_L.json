@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000511",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "SK브로드밴드-가비아, 디도스 공격으로 서버 장애",
+		"newsSubTitle": "",
+		"newsContent": "SK브로드밴드 네트워크가 디도스 공격을 받아 서비스 장애가 발생했다.\n8일 오전 10시경 SK브로드밴드 서초 IDC 네트워크를 이용 중인 웹호스팅 업체 '가비아' 네트워크 회선으로 공격량 16기가(Gbps) 디도스 공격이 들어왔다.\n이에 가비아를 사용 중인 엔디소프트 등에서 접속 장애가 발생해 이용자들이 웹사이트에 접속하지 못하는 등 불편함을 겪었다.\n서비스 지연은 총 4차례 발생했다.\n1차는 오전 10시 16분부터 24분까지 8분간, 2차는 10시 48분부터 11시 5분까지 17분간 발생했다.\n이후에도 오전 11시 8분부터 40분까지 32분간, 오전 11시 48분부터 12시 48분까지 1시간 동안 두 차례 더 지연됐다.\nSK브로드밴드는 조치가 지연된 이유에 대해 \\\"보안 공격 탐지와 차단에 대한 지연은 없었으나 일부 IP차단 뒤에도 공격 트래픽이 지속적으로 발생했다\\\"고 밝혔다.\n공격 유형은 UDP 플러딩(Flooding)으로 추정되며 공격자가 다수의 PC를 이용해 네트워크를 과부하시키는 방식이다.\n디도스 공격 후 SK브로드밴드는 공격 IP를 차단했다.\nSK브로드밴드 관계자는 10일 미디어SR에 \\\"현재 디도스 클린존으로 우회한 상태\\\"라고 밝혔다.\nSK브로드밴드는 향후 대책으로 물리적 네트워크 회선을 추가 증설해 대역폭을 확보하고 고객사 하향트래픽 라우팅 처리를 통해 공격 발생 시 트래픽 분산을 추진하겠다고 밝혔다.\n한국인터넷진흥원 관계자는 10일 미디어SR에 \\\"가비아에 사이버대피소 방어 서비스와 피해신고를 안내하고 있고 상황을 모니터링하고 있다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK브로드밴드 네트워크가 디도스 공격을 받아 서비스 장애가 발생했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 오전 10시경 SK브로드밴드 서초 IDC 네트워크를 이용 중인 웹호스팅 업체 '가비아' 네트워크 회선으로 공격량 16기가(Gbps) 디도스 공격이 들어왔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 가비아를 사용 중인 엔디소프트 등에서 접속 장애가 발생해 이용자들이 웹사이트에 접속하지 못하는 등 불편함을 겪었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서비스 지연은 총 4차례 발생했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1차는 오전 10시 16분부터 24분까지 8분간, 2차는 10시 48분부터 11시 5분까지 17분간 발생했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후에도 오전 11시 8분부터 40분까지 32분간, 오전 11시 48분부터 12시 48분까지 1시간 동안 두 차례 더 지연됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SK브로드밴드는 조치가 지연된 이유에 대해 \\\"보안 공격 탐지와 차단에 대한 지연은 없었으나 일부 IP차단 뒤에도 공격 트래픽이 지속적으로 발생했다\\\"고 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공격 유형은 UDP 플러딩(Flooding)으로 추정되며 공격자가 다수의 PC를 이용해 네트워크를 과부하시키는 방식이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "디도스 공격 후 SK브로드밴드는 공격 IP를 차단했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "SK브로드밴드 관계자는 10일 미디어SR에 \\\"현재 디도스 클린존으로 우회한 상태\\\"라고 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "SK브로드밴드는 향후 대책으로 물리적 네트워크 회선을 추가 증설해 대역폭을 확보하고 고객사 하향트래픽 라우팅 처리를 통해 공격 발생 시 트래픽 분산을 추진하겠다고 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "한국인터넷진흥원 관계자는 10일 미디어SR에 \\\"가비아에 사이버대피소 방어 서비스와 피해신고를 안내하고 있고 상황을 모니터링하고 있다\\\"고 밝혔다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코스트코 대전점 교통 해소 ‘밑그림’",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

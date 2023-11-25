@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351599",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "인천국제공항에서 음식 주문하면…배민 배달로봇 달려온다",
+		"newsSubTitle": "null",
+		"newsContent": "우아한형제들의 실내 배달로봇 '딜리타워'가 내년 인천국제공항에서 배송 서비스를 시작한다.\n우아한형제들은 인천국제공항공사, 한국로봇산업진흥원과 로봇 배송 서비스를 위한 협약을 체결했다고 24일 밝혔다.\n우아한형제들은 내년 하반기에 인천국제공항 제1터미널에서 로봇 배송 서비스를 선보인다.\n이를 위해 인천공항 전용 로봇배달 가게 페이지 등 서비스 인프라 구축에 나선다.\n딜리타워 적재공간을 공항 환경에 맞게 바꾸는 등 개선작업도 진행할 예정이다.\n공항 이용객이 QR코드로 터미널 면세구역 카페·음식점에서 주문하면 딜리타워가 이용객이 있는 위치까지 배달해준다.\n이용객은 여객 터미널 탑승 게이트 위치와 관계없이 면세구역 내 식음료 매장을 이용할 수 있어 편하다.\n입점 매장 매출 향상에도 도움이 될 전망이다.\n김요섭 우아한형제들 로봇사업실장은 \\\"대한민국의 관문 역할을 하는 인천공항에서 로봇 배송 서비스를 선보이게 돼 뜻깊다\\\"며 \\\"배달로봇 기술과 서비스 운용 노하우로 고도화된 로봇 배송 서비스를 이용객들에게 제공할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우아한형제들의 실내 배달로봇 '딜리타워'가 내년 인천국제공항에서 배송 서비스를 시작한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우아한형제들은 인천국제공항공사, 한국로봇산업진흥원과 로봇 배송 서비스를 위한 협약을 체결했다고 24일 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우아한형제들은 내년 하반기에 인천국제공항 제1터미널에서 로봇 배송 서비스를 선보인다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 위해 인천공항 전용 로봇배달 가게 페이지 등 서비스 인프라 구축에 나선다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "딜리타워 적재공간을 공항 환경에 맞게 바꾸는 등 개선작업도 진행할 예정이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공항 이용객이 QR코드로 터미널 면세구역 카페·음식점에서 주문하면 딜리타워가 이용객이 있는 위치까지 배달해준다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이용객은 여객 터미널 탑승 게이트 위치와 관계없이 면세구역 내 식음료 매장을 이용할 수 있어 편하다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "입점 매장 매출 향상에도 도움이 될 전망이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "김요섭 우아한형제들 로봇사업실장은 \\\"대한민국의 관문 역할을 하는 인천공항에서 로봇 배송 서비스를 선보이게 돼 뜻깊다\\\"며 \\\"배달로봇 기술과 서비스 운용 노하우로 고도화된 로봇 배송 서비스를 이용객들에게 제공할 것\\\"이라고 말했다.",
+				"sentenceSize": 130
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인천국제공항에서 음식 주문하면…배민 배달로봇 달려온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

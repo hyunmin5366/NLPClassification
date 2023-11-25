@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330849",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "삼성전자, 그리스 음성기술 전문업체 '이노틱스' 인수··· \\\"빅스비와 시너지\\\"",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 그리스 음성기술 전문기업 '이노틱스(Innoetics)'를 인수했다.\n이번 인수는 자체 인공지능(AI) 서비스 '빅스비' 서비스와 시너지를 내기 위한 것으로 보인다.\n11일(현지시간) 테크크런치 등 외신은 삼성전자가 이노틱스 지분을 100% 인수했다고 보도했다.\n인수 작업은 삼성 글로벌이노베이션센터(GIC)가 주도했다.\n2006년 설립된 이노틱스는 문자를 음성으로 바꿔주는 '텍스트 음성변환(TTS∙Text-to-Speech) 기술을 보유한 회사다. 직원 수 7명의 작은 회사지만 기술 수준이 높은 것으로 알려졌다. 아테나연구혁신센터와 협력, 언어 및 음성 처리 기술을 개발해왔으며 국제 기술상을 여러 차례 수상한 바 있다. 삼성전자는 이노틱스 기술을 AI 스피커와 '빅스비'에 접목해 기능 향상을 모색할 것으로 예상된다.\n이노틱스가 자연어 기반 소프트웨어 기술을 개발하는 만큼, 빅스비 외국어 버전 출시에 도움이 될 것으로 전망된다.\n당초 삼성전자는 5월 빅스비 영어 버전, 6월 중국어 버전을 선보일 예정이었다.\n하지만 빅데이터와 언어 관련 개발자 부족 등의 문제로 출시를 미루고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 그리스 음성기술 전문기업 '이노틱스(Innoetics)'를 인수했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 인수는 자체 인공지능(AI) 서비스 '빅스비' 서비스와 시너지를 내기 위한 것으로 보인다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "11일(현지시간) 테크크런치 등 외신은 삼성전자가 이노틱스 지분을 100% 인수했다고 보도했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인수 작업은 삼성 글로벌이노베이션센터(GIC)가 주도했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2006년 설립된 이노틱스는 문자를 음성으로 바꿔주는 '텍스트 음성변환(TTS∙Text-to-Speech) 기술을 보유한 회사다. 직원 수 7명의 작은 회사지만 기술 수준이 높은 것으로 알려졌다. 아테나연구혁신센터와 협력, 언어 및 음성 처리 기술을 개발해왔으며 국제 기술상을 여러 차례 수상한 바 있다. 삼성전자는 이노틱스 기술을 AI 스피커와 '빅스비'에 접목해 기능 향상을 모색할 것으로 예상된다.",
+				"sentenceSize": 225
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이노틱스가 자연어 기반 소프트웨어 기술을 개발하는 만큼, 빅스비 외국어 버전 출시에 도움이 될 것으로 전망된다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "당초 삼성전자는 5월 빅스비 영어 버전, 6월 중국어 버전을 선보일 예정이었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하지만 빅데이터와 언어 관련 개발자 부족 등의 문제로 출시를 미루고 있다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자, 그리스 음성기술 전문업체 '이노틱스' 인수··· \\\"빅스비와 시너지\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

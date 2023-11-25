@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334567",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "삼성SDI, 미국서 100여대 PHEV 배터리 리콜....\\\"용접 불량\\\"",
+		"newsSubTitle": "",
+		"newsContent": "삼성SDI가 미국에서 전기차 배터리 모듈의 용접 불량으로 자발적 리콜을 신청한 것으로 확인됐다.\n4일 미국 도로교통안전국(NHTSA)에 따르면 삼성SDI는 지난달 28일(현지시간) NHTSA에 미국 완성차업체인 포드와 스텔란티스 플러그인하이브리드(PHEV)에 탑재된 고전압 배터리 리콜 계획을 신청했다.\n교체 예정인 배터리 모듈은 총 1163개로, 미국에서 판매된 포드와 스텔란티스 PHEV 차량 100여 대다.\nNHTSA는 홈페이지를 통해 “고전압 배터리 오류로 구동력을 갑자기 잃으면 충돌 위험이 높아진다”고 지적했다.\n삼성SDI 측은 배터리 모듈화 작업 과정에서 모듈과 셀 단자 사이에 연결하는 부스바에 용접 불량이 발생해 자발적 리콜을 실시한다고 밝혔다.\n삼성SDI 관계자는 “용접 불량 문제로 파악됐다”며 “셀과 부스바를 용접으로 연결하는데, 특정 기간에 생산된 부품의 경우 용접이 약하게 된 것”이라고 말했다.\n용접 불량으로 화재 가능성 등 안전사고와는 무관하지만, 배터리의 출력 성능이 다소 떨어질 수 있다는 설명이다.\n삼성SDI는 NHTSA에 “보고서 제출 후 60일 이내, 늦어도 3월28일까지 소유자에게 리콜 통지서가 발송될 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성SDI가 미국에서 전기차 배터리 모듈의 용접 불량으로 자발적 리콜을 신청한 것으로 확인됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 미국 도로교통안전국(NHTSA)에 따르면 삼성SDI는 지난달 28일(현지시간) NHTSA에 미국 완성차업체인 포드와 스텔란티스 플러그인하이브리드(PHEV)에 탑재된 고전압 배터리 리콜 계획을 신청했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "교체 예정인 배터리 모듈은 총 1163개로, 미국에서 판매된 포드와 스텔란티스 PHEV 차량 100여 대다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "NHTSA는 홈페이지를 통해 “고전압 배터리 오류로 구동력을 갑자기 잃으면 충돌 위험이 높아진다”고 지적했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성SDI 측은 배터리 모듈화 작업 과정에서 모듈과 셀 단자 사이에 연결하는 부스바에 용접 불량이 발생해 자발적 리콜을 실시한다고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성SDI 관계자는 “용접 불량 문제로 파악됐다”며 “셀과 부스바를 용접으로 연결하는데, 특정 기간에 생산된 부품의 경우 용접이 약하게 된 것”이라고 말했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "용접 불량으로 화재 가능성 등 안전사고와는 무관하지만, 배터리의 출력 성능이 다소 떨어질 수 있다는 설명이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성SDI는 NHTSA에 “보고서 제출 후 60일 이내, 늦어도 3월28일까지 소유자에게 리콜 통지서가 발송될 것”이라고 밝혔다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성SDI, 미국서 100여대 PHEV 배터리 리콜....\\\"용접 불량\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

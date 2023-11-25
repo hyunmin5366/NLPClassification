@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354876",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "KISA, 실종·익수자 찾는 지능형 CCTV 성능시험",
+		"newsSubTitle": "null",
+		"newsContent": "한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 시험·인증대상 지능형 CC(폐쇄회로)TV를 기존 7종에서 10종으로 늘렸다고 6일 밝혔다.\n지능형 CCTV 성능시험·인증제도는 CCTV가 영상 내 이벤트를 얼마나 잘 탐지하는지 인증하는 제도다.\n기존 7종은 △배회 △침입 △유기 △쓰러짐 △싸움 △방화 △마케팅용 CCTV가 대상이다.\n이번에 △실종자 △익수자 △화재탐지용이 추가됐다.\n경찰과 소방서에서는 실종·익수자 수색, 화재지점 파악을 위해 드론으로 실시간 데이터를 촬영·분석하는 기술을 현장에서 활용 중이다.\n다만 현재까진 영상분석 성능을 평가하는 제도는 없어 현장 활용 전 제품을 검증하기 어려웠다.\n이에 KISA는 드론을 활용한 인명수색과 화재감시 분야에 대한 CCTV 성능시험과 인증제를 오는 11일부터 시행한다.\n향후 해당 인증이 공공기관 등에서 지표로 활용될 수 있도록 지원하고, 기술 수준 향상을 위한 데이터셋 구축 등을 추진할 방침이다.\n최광희 KISA 디지털보안산업본부장은 \\\"이번 성능시험을 통해 인증받은 지능형 CCTV가 시장에서 널리 활용돼 사건사고 대응능력이 강화되길 기대한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 시험·인증대상 지능형 CC(폐쇄회로)TV를 기존 7종에서 10종으로 늘렸다고 6일 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지능형 CCTV 성능시험·인증제도는 CCTV가 영상 내 이벤트를 얼마나 잘 탐지하는지 인증하는 제도다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 7종은 △배회 △침입 △유기 △쓰러짐 △싸움 △방화 △마케팅용 CCTV가 대상이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번에 △실종자 △익수자 △화재탐지용이 추가됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "경찰과 소방서에서는 실종·익수자 수색, 화재지점 파악을 위해 드론으로 실시간 데이터를 촬영·분석하는 기술을 현장에서 활용 중이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만 현재까진 영상분석 성능을 평가하는 제도는 없어 현장 활용 전 제품을 검증하기 어려웠다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 KISA는 드론을 활용한 인명수색과 화재감시 분야에 대한 CCTV 성능시험과 인증제를 오는 11일부터 시행한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "향후 해당 인증이 공공기관 등에서 지표로 활용될 수 있도록 지원하고, 기술 수준 향상을 위한 데이터셋 구축 등을 추진할 방침이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최광희 KISA 디지털보안산업본부장은 \\\"이번 성능시험을 통해 인증받은 지능형 CCTV가 시장에서 널리 활용돼 사건사고 대응능력이 강화되길 기대한다\\\"고 말했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KISA, 실종·익수자 찾는 지능형 CCTV 성능시험",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

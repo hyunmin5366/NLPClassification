@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327066",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "'꼼수 인상' 논란 불거진 발란…\\\"서버오류 문제\\\"",
+		"newsSubTitle": "",
+		"newsContent": "명품 거래 플랫폼 업체 '발란'이 가격 꼼수 인상 논란이 불거져 소비자들의 불만을 사고 있다.\n29일 발란은 이날 오전 모바일 애플리케이션(앱)과 홈페이지 접속을 제한하고 긴급 서버 점검을 진행하고 있다.\n복구 시간은 오전 11시30분으로 예정했다.\n긴급 점검은 제품 가격이 갑자기 인상되는 사태가 발생하면서 소비자 불만이 빗발친 데 따른 것으로 관측된다.\n전날 최형록 발란 대표가 유튜브 웹예능 '네고왕4'에 참석해 17% 할인을 약속했는데, 제품 가격이 갑자기 오르면서 '생색내기용 할인'이란 지적이 나오면서다.\n판매가가 100만원인 제품에 17% 할인쿠폰을 적용하면 83만원이어야 하지만 판매가가 110만원으로 인상된다면 할인가는 91만원대로 형성된다.\n소비자 입장에서 실질할인율은 한 자릿수에 그친다.\n온라인에서 한 누리꾼은 '17% 할인 소식을 보고 발란에 접속했는데 같은 제품이 이전보다 20만원 인상돼 있었다'며 '할인 행사 직전에 악의적으로 가격을 인상한 것 아니냐'고 지적했다.\n발란은 서버 오류로 인한 오해라는 입장이다.\n17% 할인 쿠폰을 새롭게 적용하는 과정에서 서버 오류가 발생해 일부 가격이 인상됐다고 해명했다.\n발란 관계자는 '의도적인 가격 인상은 아니며 점검을 통해 가격을 원래대로 수정할 것'이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "명품 거래 플랫폼 업체 '발란'이 가격 꼼수 인상 논란이 불거져 소비자들의 불만을 사고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 발란은 이날 오전 모바일 애플리케이션(앱)과 홈페이지 접속을 제한하고 긴급 서버 점검을 진행하고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "복구 시간은 오전 11시30분으로 예정했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "긴급 점검은 제품 가격이 갑자기 인상되는 사태가 발생하면서 소비자 불만이 빗발친 데 따른 것으로 관측된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전날 최형록 발란 대표가 유튜브 웹예능 '네고왕4'에 참석해 17% 할인을 약속했는데, 제품 가격이 갑자기 오르면서 '생색내기용 할인'이란 지적이 나오면서다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "판매가가 100만원인 제품에 17% 할인쿠폰을 적용하면 83만원이어야 하지만 판매가가 110만원으로 인상된다면 할인가는 91만원대로 형성된다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소비자 입장에서 실질할인율은 한 자릿수에 그친다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인에서 한 누리꾼은 '17% 할인 소식을 보고 발란에 접속했는데 같은 제품이 이전보다 20만원 인상돼 있었다'며 '할인 행사 직전에 악의적으로 가격을 인상한 것 아니냐'고 지적했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "발란은 서버 오류로 인한 오해라는 입장이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "17% 할인 쿠폰을 새롭게 적용하는 과정에서 서버 오류가 발생해 일부 가격이 인상됐다고 해명했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "발란 관계자는 '의도적인 가격 인상은 아니며 점검을 통해 가격을 원래대로 수정할 것'이라고 말했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'꼼수 인상' 논란 불거진 발란…\\\"서버오류 문제\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

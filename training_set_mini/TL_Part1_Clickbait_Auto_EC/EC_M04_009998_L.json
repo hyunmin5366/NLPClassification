@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009998",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "나들이철 삼겹살ㆍ상추 불티",
+		"newsSubTitle": "공급량 증가로 가격은 내려… 햇양파는 오름세",
+		"newsContent": "●장바구니 물가 5월 첫째주 대전의 생활물가 동향은 닭고기와 돼지고기를 중심으로 공급물량이 늘면서 하락 및 약보합세를 나타냈다.\n채소류는 품목별 선호 및 지역별 수급상황에 따라 다소 엇갈린 등락을 나타낸 가운데 수산물은 갈치와 오징어를 중심으로 강세가 지속되고 있다.\n특히 닭고기는 미국의 광우병 발생 영향에 따른 대체 수요 증가로 판매량은 늘었지만 시장내 공급물량 증가로 보합세를 유지했고, 돼지고기도 나들이철 수요 증가에도 공급량이 늘어 하락세를 보였다.\n닭고기는 생닭 1㎏ 기준으로 지난주와 비슷한 6980원에 거래돼 보합세를 유지했다.\n돼지고기는 삼겹살 500 기준으로 0.8% 하락한 9520원에 판매됐다.\n상추는 야외활동 및 나들이철에 따른 수요 증가에도 생육 호조에 따른 출하물량 증가로 100기준으로 지난주보다 7.1% 하락한 650원에 거래됐다.\n반면 양파는 재배면적 감소에 따른 출하량 감소 및 햇양파에 대한 소비 수요 증가로 지난주보다 8.5% 오른 1280원에 판매됐다.\n배추는 올해 초 이상저온과 강풍, 지난해 배추가격 폭락으로 재배 면적이 줄어 높은 가격이 유지되는 가운데 포기당 지난주보다 0.8% 상승한 2500원을 보였다.\n딸기는 출하물량 증가와 오렌지와 포도의 수입물량 증가에 따른 소비 분산 영향으로 1㎏기준 1.1% 오른 8900원에 판매됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "●장바구니 물가 5월 첫째주 대전의 생활물가 동향은 닭고기와 돼지고기를 중심으로 공급물량이 늘면서 하락 및 약보합세를 나타냈다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "채소류는 품목별 선호 및 지역별 수급상황에 따라 다소 엇갈린 등락을 나타낸 가운데 수산물은 갈치와 오징어를 중심으로 강세가 지속되고 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 닭고기는 미국의 광우병 발생 영향에 따른 대체 수요 증가로 판매량은 늘었지만 시장내 공급물량 증가로 보합세를 유지했고, 돼지고기도 나들이철 수요 증가에도 공급량이 늘어 하락세를 보였다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "닭고기는 생닭 1㎏ 기준으로 지난주와 비슷한 6980원에 거래돼 보합세를 유지했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "돼지고기는 삼겹살 500 기준으로 0.8% 하락한 9520원에 판매됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "상추는 야외활동 및 나들이철에 따른 수요 증가에도 생육 호조에 따른 출하물량 증가로 100기준으로 지난주보다 7.1% 하락한 650원에 거래됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "반면 양파는 재배면적 감소에 따른 출하량 감소 및 햇양파에 대한 소비 수요 증가로 지난주보다 8.5% 오른 1280원에 판매됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "배추는 올해 초 이상저온과 강풍, 지난해 배추가격 폭락으로 재배 면적이 줄어 높은 가격이 유지되는 가운데 포기당 지난주보다 0.8% 상승한 2500원을 보였다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "딸기는 출하물량 증가와 오렌지와 포도의 수입물량 증가에 따른 소비 분산 영향으로 1㎏기준 1.1% 오른 8900원에 판매됐다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'인플레 파이터' 이창용…금리 인상 가시밭길 간다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

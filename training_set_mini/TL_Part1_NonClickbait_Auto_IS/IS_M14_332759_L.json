@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332759",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "담배 줄이면 암 위험 26% 줄어",
+		"newsSubTitle": "",
+		"newsContent": "흡연 량만 줄여도 암 위험이 26%나 줄어든다는 연구결과가 나왔다.\n분당서울대병원(원장 전상훈)은 이기헌 가정의학과 교수팀이 흡연 양을 줄이면 암 발생 위험이 감소한다는 연구결과를 발표했다고 13일 밝혀다. 연구팀은 국민건강보험공단 빅데이터를 활용해 2002~2005년 사이 총 두 번 건강검진을 받은 40대 이상 남성 14만3071명을 대상으로, 흡연 습관 변화와 암 발생 위험정도를 분석했다.\n하루 평균 10~19개비를 피우는 흡연자가 10개 미만으로 담배를 줄였을 때, 20개비 이상 흡연 량을 유지하는 흡연자에 비해 폐암에 걸릴 위험이 45%나 감소했다.\n흡연 관련 암에 걸릴 위험성은 26%, 모든 암에 걸릴 위험성은 18% 감소했다.\n흡연 관련 암은 비인두암, 식도암, 위암, 대장암 등이다.\n이기헌 교수는 \\\"그동안 흡연 량과 암 발생의 상관관계 연구는 서양인 대상으로 진행돼 아시아 환자 정보가 부족했다\\\"면서 \\\"이번 연구는 국내 건강검진 대상자 일반인 대상으로 했으며, 14만이 넘는 방대한 빅데이터로 높은 대표성을 갖는다\\\"고 말했다.\n연구결과는 대한암학회에서 발행하는 국제학술지 '캔서 리서치 앤 트리트먼트'에 발표됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "흡연 량만 줄여도 암 위험이 26%나 줄어든다는 연구결과가 나왔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "분당서울대병원(원장 전상훈)은 이기헌 가정의학과 교수팀이 흡연 양을 줄이면 암 발생 위험이 감소한다는 연구결과를 발표했다고 13일 밝혀다. 연구팀은 국민건강보험공단 빅데이터를 활용해 2002~2005년 사이 총 두 번 건강검진을 받은 40대 이상 남성 14만3071명을 대상으로, 흡연 습관 변화와 암 발생 위험정도를 분석했다.",
+				"sentenceSize": 183
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하루 평균 10~19개비를 피우는 흡연자가 10개 미만으로 담배를 줄였을 때, 20개비 이상 흡연 량을 유지하는 흡연자에 비해 폐암에 걸릴 위험이 45%나 감소했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "흡연 관련 암에 걸릴 위험성은 26%, 모든 암에 걸릴 위험성은 18% 감소했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "흡연 관련 암은 비인두암, 식도암, 위암, 대장암 등이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이기헌 교수는 \\\"그동안 흡연 량과 암 발생의 상관관계 연구는 서양인 대상으로 진행돼 아시아 환자 정보가 부족했다\\\"면서 \\\"이번 연구는 국내 건강검진 대상자 일반인 대상으로 했으며, 14만이 넘는 방대한 빅데이터로 높은 대표성을 갖는다\\\"고 말했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구결과는 대한암학회에서 발행하는 국제학술지 '캔서 리서치 앤 트리트먼트'에 발표됐다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "담배 줄이면 암 위험 26% 줄어",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

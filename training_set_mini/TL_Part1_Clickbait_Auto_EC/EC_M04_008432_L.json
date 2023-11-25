@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008432",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "2세대 디스플러스 3종 출시",
+		"newsSubTitle": "오늘부터 시판… 2100원",
+		"newsContent": "디스플러스 2세대 제품이 새롭게 출시된다.\nKT&G는 더 진한 맛을 구현한 디스플러스 확장 신제품 '디스리얼', '디스와일드'와 기존의 디자인을 획기적으로 변경한 디스 플러스 등 '2세대 디스플러스' 3종<사진>을 새롭게 출시한다고 밝혔다.\n신제품 '디스리얼'과 '디스와일드'는 기존 디스플러스 담배의 본연의 맛은 유지하면서도 더 진한 맛을 원하는 수요를 고려해 고타르를 적용한 제품이다.\n기존 디스플러스의 타르는 5.5mg이며 신제품 '디스리얼', '디스와일드'는 각각 6.5mg, 8mg이다.\n디스플러스는 합리적인 가격과 변하지 않는 담배 맛으로 지난 1999년 출시 이후, 12년 간 소비자들의 꾸준한 사랑을 받아왔다.\n지난 한해 동안 약 2억5000만갑의 판매량을 기록, 담배시장 점유율 5.6%를 차지했다.\nKT&G 관계자는 “소비자조사에 따르면 디스플러스 흡연자의 32.6%가 20대”라며, “디스플러스의 진한 담배 맛을 선호하는 젊은 소비층을 고려해 고타르 신제품과 함께 한층 업그레이드된 디자인을 선보이게 됐다”고 밝혔다.\n2세대 디스플러스 3종 가격은 기존대로 2100원이며, 3일부터 시중에 판매된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "디스플러스 2세대 제품이 새롭게 출시된다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT&G는 더 진한 맛을 구현한 디스플러스 확장 신제품 '디스리얼', '디스와일드'와 기존의 디자인을 획기적으로 변경한 디스 플러스 등 '2세대 디스플러스' 3종<사진>을 새롭게 출시한다고 밝혔다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신제품 '디스리얼'과 '디스와일드'는 기존 디스플러스 담배의 본연의 맛은 유지하면서도 더 진한 맛을 원하는 수요를 고려해 고타르를 적용한 제품이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 디스플러스의 타르는 5.5mg이며 신제품 '디스리얼', '디스와일드'는 각각 6.5mg, 8mg이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "디스플러스는 합리적인 가격과 변하지 않는 담배 맛으로 지난 1999년 출시 이후, 12년 간 소비자들의 꾸준한 사랑을 받아왔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 한해 동안 약 2억5000만갑의 판매량을 기록, 담배시장 점유율 5.6%를 차지했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KT&G 관계자는 “소비자조사에 따르면 디스플러스 흡연자의 32.6%가 20대”라며, “디스플러스의 진한 담배 맛을 선호하는 젊은 소비층을 고려해 고타르 신제품과 함께 한층 업그레이드된 디자인을 선보이게 됐다”고 밝혔다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "2세대 디스플러스 3종 가격은 기존대로 2100원이며, 3일부터 시중에 판매된다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하이트진로 참이슬 공장 출고가 인상… 맥키스컴퍼니 이제우린은?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

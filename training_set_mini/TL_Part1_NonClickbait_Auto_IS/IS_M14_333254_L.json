@@ -1,0 +1,267 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333254",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "게임 최적화하려다 내 돈 탈탈...금감원 위장 파밍 주의",
+		"newsSubTitle": "",
+		"newsContent": "#온라인 게임을 좋아하는 김영철(가명)씨. 실감난 게임을 위해 데스크톱 성능 최적화 프로그램을 이용했다.\n이후 게임 카페 접속을 위해 들어간 포털사이트에서 금융감독원 전자금융사기 안내 팝업을 봤다.\n최근 본 보안사고 기사가 생각나 무심코 팝업에 관련 정보를 입력했다.\n김씨는 무심코 올린 정보로 자신의 계좌에서 현금이 대량 인출됐다.\n금감원 팝업이 가짜였다.\n게임 최적화 프로그램을 활용한 금감원 위장 '파밍(Pharming)' 악성코드가 인터넷에서 또다시 발생했다.\n정보를 탈취해 대량으로 현금을 인출하는 등 피해가 우려된다.\n이스트시큐리티 시큐리티대응센터는 게임 최적화 프로그램∙업데이트 설치 시 악성코드에 감염되는 파밍이 포착됐다고 21일 밝혔다.\n경로로 게임 최적화 프로그램이 이용됐다.\n악성코드에 감염된 PC가 포털사이트에 접속하면 금감원 안내 메시지로 위장한 팝업창이 뜬다.\n금융사기 예방을 위해 이름, 전화번호, 신분증 발행 일자 등을 요구한다.\n특정 카드 정보를 탈취하는 변종도 있다.\n이스트시큐리티 관계자는 \\\"해당 파밍은 한국어를 이용한 설치 파일로 둔갑, 우리나라를 표적으로 삼았다\\\"고 말했다.\n파밍은 가짜 사이트를 사용자가 진짜 사이트로 오인해 접속하도록 유도한 뒤 개인 정보를 훔치는 범죄 수법이다.\n합법 사용자의 도메인을 탈취하거나 도메인네임시스템(DNS)∙프락시 서버 주소를 변조한다.\n수법이 교묘해서 총 없는 인터넷 은행 강도로 불린다.\n파밍에서 공격자는 게임 최적화 프로그램 서버 권한을 탈취해 악성코드를 유포했다.\n최신 업데이트 기능을 수행하는 URL 특정 요소 값을 변경했다.\n이용자가 프로그램∙업데이트 설치를 실행하면 자동으로 악성코드에 감염되도록 했다.\n게임 최적화 프로그램 공식 설치 경로에 악성코드가 유포된 것은 심각한 문제다.\n이용자는 공식 사이트에서 프로그램을 내려 받았다는 안도감에 감염 사실을 알지 못한다.\n이스트시큐리티 관계자는 \\\"공격자 입장에서는 공식 사이트 파일을 활용하는 것이 악성코드 유포에 용이하다\\\"고 설명했다.\nPC 최적화 프로그램과 금감원 팝업을 활용한 파밍은 새로운 수법은 아니다.\n과거에도 유명 PC 최적화 프로그램 업데이트 서버가 해킹돼 금감원 팝업으로 위장한 파밍이 나왔다.\n지난해에도 금감원 위장 파밍으로 피해가 발생했다.\n전문가는 백신 프로그램을 최신 버전으로 유지하고 정상 사이트 확인 습관을 길러야 한다고 강조했다.\n이스트시큐리티 관계자는 \\\"한국에서 파밍 등 전자금융사기는 랜섬웨어보다 오래된 대표 보안 위협 요소\\\"라면서 \\\"유명 포털사이트는 팝업을 띄우지 않는다는 사실을 이용자가 유념하고, 백신 프로그램을 최신으로 유지해야 한다\\\"고 조언했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 27,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "#온라인 게임을 좋아하는 김영철(가명)씨. 실감난 게임을 위해 데스크톱 성능 최적화 프로그램을 이용했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이후 게임 카페 접속을 위해 들어간 포털사이트에서 금융감독원 전자금융사기 안내 팝업을 봤다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 본 보안사고 기사가 생각나 무심코 팝업에 관련 정보를 입력했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김씨는 무심코 올린 정보로 자신의 계좌에서 현금이 대량 인출됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금감원 팝업이 가짜였다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "게임 최적화 프로그램을 활용한 금감원 위장 '파밍(Pharming)' 악성코드가 인터넷에서 또다시 발생했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정보를 탈취해 대량으로 현금을 인출하는 등 피해가 우려된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이스트시큐리티 시큐리티대응센터는 게임 최적화 프로그램∙업데이트 설치 시 악성코드에 감염되는 파밍이 포착됐다고 21일 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "경로로 게임 최적화 프로그램이 이용됐다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "악성코드에 감염된 PC가 포털사이트에 접속하면 금감원 안내 메시지로 위장한 팝업창이 뜬다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "금융사기 예방을 위해 이름, 전화번호, 신분증 발행 일자 등을 요구한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "특정 카드 정보를 탈취하는 변종도 있다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이스트시큐리티 관계자는 \\\"해당 파밍은 한국어를 이용한 설치 파일로 둔갑, 우리나라를 표적으로 삼았다\\\"고 말했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "파밍은 가짜 사이트를 사용자가 진짜 사이트로 오인해 접속하도록 유도한 뒤 개인 정보를 훔치는 범죄 수법이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "합법 사용자의 도메인을 탈취하거나 도메인네임시스템(DNS)∙프락시 서버 주소를 변조한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "수법이 교묘해서 총 없는 인터넷 은행 강도로 불린다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "파밍에서 공격자는 게임 최적화 프로그램 서버 권한을 탈취해 악성코드를 유포했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "최신 업데이트 기능을 수행하는 URL 특정 요소 값을 변경했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이용자가 프로그램∙업데이트 설치를 실행하면 자동으로 악성코드에 감염되도록 했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "게임 최적화 프로그램 공식 설치 경로에 악성코드가 유포된 것은 심각한 문제다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이용자는 공식 사이트에서 프로그램을 내려 받았다는 안도감에 감염 사실을 알지 못한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이스트시큐리티 관계자는 \\\"공격자 입장에서는 공식 사이트 파일을 활용하는 것이 악성코드 유포에 용이하다\\\"고 설명했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "PC 최적화 프로그램과 금감원 팝업을 활용한 파밍은 새로운 수법은 아니다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "과거에도 유명 PC 최적화 프로그램 업데이트 서버가 해킹돼 금감원 팝업으로 위장한 파밍이 나왔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "지난해에도 금감원 위장 파밍으로 피해가 발생했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "전문가는 백신 프로그램을 최신 버전으로 유지하고 정상 사이트 확인 습관을 길러야 한다고 강조했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "이스트시큐리티 관계자는 \\\"한국에서 파밍 등 전자금융사기는 랜섬웨어보다 오래된 대표 보안 위협 요소\\\"라면서 \\\"유명 포털사이트는 팝업을 띄우지 않는다는 사실을 이용자가 유념하고, 백신 프로그램을 최신으로 유지해야 한다\\\"고 조언했다.",
+				"sentenceSize": 131
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "게임 최적화하려다 내 돈 탈탈...금감원 위장 파밍 주의",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

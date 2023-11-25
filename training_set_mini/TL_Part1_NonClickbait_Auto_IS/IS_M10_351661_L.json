@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351661",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "케네디 대통령 조카도 차단…유튜브 '백신 가짜뉴스' 전쟁 [IT썰]",
+		"newsSubTitle": "null",
+		"newsContent": "유튜브가 코로나19(COVID-19)를 비롯해 백신 관련 '가짜뉴스'에 칼을 빼들었다.\n유튜브는 29일(현지시간) 공식 블로그에 \\\"지역 보건 당국과 세계보건기구(WHO)가 안전하고 효과적이라고 확인해 접종을 승인한 백신에 우리의 의료 가짜뉴스 정책을 확대하고 새 지침을 적용하기로 했다\\\"고 밝혔다.\n유튜브에서 '백신 회의론'이 확산하며 코로나19 백신 접종 속도가 늦춰지고 있다는 일각의 비판을 고려한 조치로 풀이된다.\n유튜브는 지난 2019년 백신 접종 방지 콘텐츠에서 광고를 제외한 데 이어, 지난해 10월부터 총 13만개 이상의 코로나19 백신 관련 가짜뉴스를 삭제했다.\n조셉 머콜라, 로버트 F 케네디 주니어 등 유명 백신 반대 활동가의 유튜브 채널도 차단했다.\n유튜브는 코로나19뿐 아니라 보건당국이 승인한 독감·홍역·인유두종바이러스(HPV) 백신 등에도 관련 지침을 확대 적용키로 했다.\n예컨대 독감예방백신이 암, 불임을 유발한다는 허위 동영상은 삭제될 수 있다.\n다만, 백신 접종에 대한 개인적인 경험을 공유하는 것은 가능하다.\n유튜브 측은 \\\"이번 정책은 우리 플랫폼에서 백신과 건강 가짜뉴스에 대처하기 위한 중요한 조치\\\"라며 \\\"시청자와 전체 유튜브 커뮤니티에 고품질의 정보를 제공하는 정책과 제품에 지속적으로 투자할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유튜브가 코로나19(COVID-19)를 비롯해 백신 관련 '가짜뉴스'에 칼을 빼들었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유튜브는 29일(현지시간) 공식 블로그에 \\\"지역 보건 당국과 세계보건기구(WHO)가 안전하고 효과적이라고 확인해 접종을 승인한 백신에 우리의 의료 가짜뉴스 정책을 확대하고 새 지침을 적용하기로 했다\\\"고 밝혔다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유튜브에서 '백신 회의론'이 확산하며 코로나19 백신 접종 속도가 늦춰지고 있다는 일각의 비판을 고려한 조치로 풀이된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유튜브는 지난 2019년 백신 접종 방지 콘텐츠에서 광고를 제외한 데 이어, 지난해 10월부터 총 13만개 이상의 코로나19 백신 관련 가짜뉴스를 삭제했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조셉 머콜라, 로버트 F 케네디 주니어 등 유명 백신 반대 활동가의 유튜브 채널도 차단했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유튜브는 코로나19뿐 아니라 보건당국이 승인한 독감·홍역·인유두종바이러스(HPV) 백신 등에도 관련 지침을 확대 적용키로 했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "예컨대 독감예방백신이 암, 불임을 유발한다는 허위 동영상은 삭제될 수 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다만, 백신 접종에 대한 개인적인 경험을 공유하는 것은 가능하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "유튜브 측은 \\\"이번 정책은 우리 플랫폼에서 백신과 건강 가짜뉴스에 대처하기 위한 중요한 조치\\\"라며 \\\"시청자와 전체 유튜브 커뮤니티에 고품질의 정보를 제공하는 정책과 제품에 지속적으로 투자할 것\\\"이라고 말했다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "케네디 대통령 조카도 차단…유튜브 '백신 가짜뉴스' 전쟁 [IT썰]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

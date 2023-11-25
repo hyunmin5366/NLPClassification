@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007509",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "기업은행, IBK스마트fun 통장",
+		"newsSubTitle": "",
+		"newsContent": "IBK기업은행은 스마트폰뱅킹 전용 예금상품인 'IBK스마트fun 통장'을 출시했다.\n가입대상은 개인으로 계약기간은 1년이며 스마트폰뱅킹을 통해서만 가입할 수 있다.\n정기예금은 300만원 이상 1000만원 이하, 적금은 계약금 1000만원 이내에서 월 10만원부터 가입할 수 있다.\n안드로이드 기반의 스마트폰 이용 고객을 대상으로 하며 조만간 아이폰으로도 서비스를 확대할 예정이다.\n통장 출시를 기념해 총 100억원 한도로, 연 4.1%(우대금리 0.5%p 포함)금리를 제공하는 특판행사도 연다. 이 상품은 전자금융 수수료 또는 자동화기기 영업시간 외 수수료 중 하나를 2011년 말까지 면제받을 수 있으며, 캐쉬백 포인트와 어플리케이션 포인트 가운데 하나를 선택해 적용받을 수 있다.\n캐쉬백 포인트는 예·적금 실적에 따라 포인트를 적립한 후 만기 때 현금으로 돌려주고, 어플리케이션 포인트는 앱스토어에서 어플리케이션을 살 수 있도록 2000~1만 포인트까지 제공된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "IBK기업은행은 스마트폰뱅킹 전용 예금상품인 'IBK스마트fun 통장'을 출시했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가입대상은 개인으로 계약기간은 1년이며 스마트폰뱅킹을 통해서만 가입할 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정기예금은 300만원 이상 1000만원 이하, 적금은 계약금 1000만원 이내에서 월 10만원부터 가입할 수 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안드로이드 기반의 스마트폰 이용 고객을 대상으로 하며 조만간 아이폰으로도 서비스를 확대할 예정이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "통장 출시를 기념해 총 100억원 한도로, 연 4.1%(우대금리 0.5%p 포함)금리를 제공하는 특판행사도 연다. 이 상품은 전자금융 수수료 또는 자동화기기 영업시간 외 수수료 중 하나를 2011년 말까지 면제받을 수 있으며, 캐쉬백 포인트와 어플리케이션 포인트 가운데 하나를 선택해 적용받을 수 있다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "캐쉬백 포인트는 예·적금 실적에 따라 포인트를 적립한 후 만기 때 현금으로 돌려주고, 어플리케이션 포인트는 앱스토어에서 어플리케이션을 살 수 있도록 2000~1만 포인트까지 제공된다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유럽 질주 '현대기아 전기차', 올 하반기 이후 녹록지않다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

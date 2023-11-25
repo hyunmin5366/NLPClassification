@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350126",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "네이버-어바웃펫, 반려동물 플랫폼 구축한다",
+		"newsSubTitle": "null",
+		"newsContent": "네이버쇼핑이 반려동물 생활 플랫폼 어바웃펫과 양해각서(MOU)를 맺고 개인화된 반려동물 서비스 플랫폼을 구축한다고 27일 밝혔다.\n어바웃펫은 반려동물 관리·양육 콘텐츠와 상품을 선보이고, 이용자 커뮤니티 기능을 제공하는 원스톱 반려동물 생활 플랫폼이다.\n이번 협약으로 네이버는 개인화 상품 추천 기술인 AiTEMS(에이아이템즈)를 어바웃펫 서비스에 적용해 반려동물 용품 및 콘텐츠를 이용자 취향에 맞게 추천한다.\n반려동물 데이터 공동 분석을 위한 데이터 구축 및 통합도 진행한다.\n더불어 연내 네이버 장보기 서비스에 어바웃펫이 입점해 반려동물 서비스를 활성화하고, GS리테일 유통망을 활용해 당일 배송 서비스를 제공할 예정이다.\n또 네이버 펫 윈도에 어바웃펫의 24시간 전문가 상담 도구(tool)를 탑재한다.\n이윤숙 네이버 포레스트CIC 대표는 \\\"네이버가 갖춘 인공지능(AI) 기술과 데이터 역량, 어바웃펫의 다양한 서비스 콘텐츠 및 유통망 시너지를 통해 반려동물 전문 서비스 범위가 확대될 것\\\"이라며 \\\"이러한 개인화된 반려동물 서비스 구축에 힘써 반려동물 가족의 만족도가 향상되고 서비스 경쟁력으로 이어질 수 있도록 상호 협력해 가겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버쇼핑이 반려동물 생활 플랫폼 어바웃펫과 양해각서(MOU)를 맺고 개인화된 반려동물 서비스 플랫폼을 구축한다고 27일 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "어바웃펫은 반려동물 관리·양육 콘텐츠와 상품을 선보이고, 이용자 커뮤니티 기능을 제공하는 원스톱 반려동물 생활 플랫폼이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 협약으로 네이버는 개인화 상품 추천 기술인 AiTEMS(에이아이템즈)를 어바웃펫 서비스에 적용해 반려동물 용품 및 콘텐츠를 이용자 취향에 맞게 추천한다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반려동물 데이터 공동 분석을 위한 데이터 구축 및 통합도 진행한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "더불어 연내 네이버 장보기 서비스에 어바웃펫이 입점해 반려동물 서비스를 활성화하고, GS리테일 유통망을 활용해 당일 배송 서비스를 제공할 예정이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 네이버 펫 윈도에 어바웃펫의 24시간 전문가 상담 도구(tool)를 탑재한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이윤숙 네이버 포레스트CIC 대표는 \\\"네이버가 갖춘 인공지능(AI) 기술과 데이터 역량, 어바웃펫의 다양한 서비스 콘텐츠 및 유통망 시너지를 통해 반려동물 전문 서비스 범위가 확대될 것\\\"이라며 \\\"이러한 개인화된 반려동물 서비스 구축에 힘써 반려동물 가족의 만족도가 향상되고 서비스 경쟁력으로 이어질 수 있도록 상호 협력해 가겠다\\\"고 말했다.",
+				"sentenceSize": 194
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버-어바웃펫, 반려동물 플랫폼 구축한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

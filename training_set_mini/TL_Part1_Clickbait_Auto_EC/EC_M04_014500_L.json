@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014500",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "노후변압기 교체 신청하세요",
+		"newsSubTitle": "",
+		"newsContent": "한국전력 대전충청지역본부(본부장 박권식)는 15년 이상 세대당 3kW미만인 노후변압기를 용량증설된 신품변압기로 교체할 경우 변압기 1kVA당 1만6000원(총 공사비의 30%정도)를 지원한다고 17일 밝혔다.\n임대아파트의 경우에는 용량증설없이 교체만 해도 지원받을 수 있으며 지원대상 선정시 영구, 공공, 국민임대아파트가 1순위, 전용면적 평균 60㎡ 이하 아파트가 2순위, 이외의 아파트가 3순위다.\n3순위 아파트의 경우 노후도, 수용률, 세대별 계약전력을 고려해 최종 선정한다.\n한전에서 올해 신품변압기를 지원하는 대상아파트는 모두 4845개 단지이며 대전, 세종, 충남지역에서는 356개 단지가 대상에 올랐다.\n한전은 2005년부터 지난해까지 1840개 단지를 지원했다.\n지원대상 아파트 중 용량증설 및 교체를 희망하는 경우 오는 7월 10일까지 가까운 한전지사에 신청하면 된다.\n기타 궁금한 사항은 한전 지사나 한전 고객센터(국번없이 123번)로 연락하면 된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전력 대전충청지역본부(본부장 박권식)는 15년 이상 세대당 3kW미만인 노후변압기를 용량증설된 신품변압기로 교체할 경우 변압기 1kVA당 1만6000원(총 공사비의 30%정도)를 지원한다고 17일 밝혔다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임대아파트의 경우에는 용량증설없이 교체만 해도 지원받을 수 있으며 지원대상 선정시 영구, 공공, 국민임대아파트가 1순위, 전용면적 평균 60㎡ 이하 아파트가 2순위, 이외의 아파트가 3순위다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "3순위 아파트의 경우 노후도, 수용률, 세대별 계약전력을 고려해 최종 선정한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한전에서 올해 신품변압기를 지원하는 대상아파트는 모두 4845개 단지이며 대전, 세종, 충남지역에서는 356개 단지가 대상에 올랐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한전은 2005년부터 지난해까지 1840개 단지를 지원했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지원대상 아파트 중 용량증설 및 교체를 희망하는 경우 오는 7월 10일까지 가까운 한전지사에 신청하면 된다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기타 궁금한 사항은 한전 지사나 한전 고객센터(국번없이 123번)로 연락하면 된다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중기청 “대전충남청 1급청 승격 노력”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

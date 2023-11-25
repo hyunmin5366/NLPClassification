@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336805",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "게임",
+		"newsTitle": "일본 공정위 '라인-야후재팬' 통합 승인",
+		"newsSubTitle": "",
+		"newsContent": "일본 정부가 네이버 종속회사 라인과 일본 소프트뱅크 자회사 Z홀딩스 경영통합을 승인했다.\n네이버는 일본 공정거래위원회로부터 라인과 Z홀딩스 경영통합 절차를 승인 받았다고 4일 공시했다.\n네이버는 이날 “자회사 라인과 소프트뱅크 자회사 Z홀딩스 주식회사 경영통합과 관련한 현지 반독점 심사가 모두 승인됐다”고 공시했다.\n일본 공정위는 “(일본 내) 경쟁을 실질적으로 제한하는 것이라고 볼 수 없다”고 밝혔다.\n네이버와 소프트뱅크는 지난해 12월 라인과 야후재팬 사업통합을 추진한다고 발표했다.\n라인 모회사 네이버와 야후재팬 모회사 소프트뱅크가 각각 50% 지분을 보유한 합작사를 세워 그 아래 Z홀딩스를 두고, 다시 Z홀딩스 아래 라인과 야후재팬, 야후쇼핑 등 사업 부문을 두는 구조로 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 정부가 네이버 종속회사 라인과 일본 소프트뱅크 자회사 Z홀딩스 경영통합을 승인했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버는 일본 공정거래위원회로부터 라인과 Z홀딩스 경영통합 절차를 승인 받았다고 4일 공시했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버는 이날 “자회사 라인과 소프트뱅크 자회사 Z홀딩스 주식회사 경영통합과 관련한 현지 반독점 심사가 모두 승인됐다”고 공시했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일본 공정위는 “(일본 내) 경쟁을 실질적으로 제한하는 것이라고 볼 수 없다”고 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버와 소프트뱅크는 지난해 12월 라인과 야후재팬 사업통합을 추진한다고 발표했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "라인 모회사 네이버와 야후재팬 모회사 소프트뱅크가 각각 50% 지분을 보유한 합작사를 세워 그 아래 Z홀딩스를 두고, 다시 Z홀딩스 아래 라인과 야후재팬, 야후쇼핑 등 사업 부문을 두는 구조로 진행된다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일본 공정위 '라인-야후재팬' 통합 승인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

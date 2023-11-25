@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352023",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"PC 문서도 안전 관리\\\" 파수, 한국남동발전에 보안 솔루션 공급",
+		"newsSubTitle": "null",
+		"newsContent": "보안전문 기업 파수는 한국남동발전에 파수 엔터프라이즈 디알엠(DRM) 등 문서보안 솔루션을 공급했다고 1일 밝혔다.\n최근 한국남동발전은 기존 솔루션 대신 파수의 PC문서 보안 솔루션과 인쇄 보안 솔루션인 '파수 스마트 프린트(FSP)'를 새로 도입했다.\n문서보안 솔루션은 PC에서 문서가 만들어진 순간부터 자동 암호화하고 설정된 권한에 따라 열람과 편집 등 문서사용을 제한하는 기능을 갖췄다.\n문서 사용내역이 기록으로 남기 때문에 누가 어떻게 편집했는지 추적관리할 수 있다.\n파수 스마트 프린트는 출력물 내의 민감정보를 실시간으로 모니터링하고 통제·관리한다.\n문서 내용 중요도에 따라 인쇄여부를 제한하거나 개인정보를 가릴 수 있다.\n원격근무, 온·오프라인 등 사용자 근무환경에 맞춰 여러 정책도 설정할 수 있다.\n조규곤 파수 대표는 \\\"사이버 보안 위협이 늘어나면서 문서 자체를 암호화하는 솔루션인 DRM 수요가 늘고 있다\\\"며 \\\"지난 20년 간 DRM 솔루션 시장을 선도한만큼 앞으로도 더 많은 기업에 보안기술을 지원하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보안전문 기업 파수는 한국남동발전에 파수 엔터프라이즈 디알엠(DRM) 등 문서보안 솔루션을 공급했다고 1일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 한국남동발전은 기존 솔루션 대신 파수의 PC문서 보안 솔루션과 인쇄 보안 솔루션인 '파수 스마트 프린트(FSP)'를 새로 도입했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "문서보안 솔루션은 PC에서 문서가 만들어진 순간부터 자동 암호화하고 설정된 권한에 따라 열람과 편집 등 문서사용을 제한하는 기능을 갖췄다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "문서 사용내역이 기록으로 남기 때문에 누가 어떻게 편집했는지 추적관리할 수 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "파수 스마트 프린트는 출력물 내의 민감정보를 실시간으로 모니터링하고 통제·관리한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "문서 내용 중요도에 따라 인쇄여부를 제한하거나 개인정보를 가릴 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "원격근무, 온·오프라인 등 사용자 근무환경에 맞춰 여러 정책도 설정할 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "조규곤 파수 대표는 \\\"사이버 보안 위협이 늘어나면서 문서 자체를 암호화하는 솔루션인 DRM 수요가 늘고 있다\\\"며 \\\"지난 20년 간 DRM 솔루션 시장을 선도한만큼 앞으로도 더 많은 기업에 보안기술을 지원하겠다\\\"고 말했다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"PC 문서도 안전 관리\\\" 파수, 한국남동발전에 보안 솔루션 공급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

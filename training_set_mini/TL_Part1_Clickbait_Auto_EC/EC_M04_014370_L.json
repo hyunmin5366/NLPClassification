@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014370",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "잘못 송금한 돈, 긴급 취소 가능해진다",
+		"newsSubTitle": "",
+		"newsContent": "인터넷이나 모바일 뱅킹 상에서 잘못 송금한 돈을 긴급 취소할 수 있게 된다.\n금융감독원은 이같은 내용을 담은 착오송금 예방과 반환절차 간소화 방안을 올해 안에 시행할 예정이라고 19일 밝혔다.\n착오송금이란 송금인의 실수로 송금 금액이나 수취 금융회사, 수취인 계좌번호 등이 잘못 입력돼 이체된 거래로 지난해 4월부터 올해 3월까지 7만330건(1708억원)이 발생했다.\n금감원은 송금을 5초에서 10초간 지연해 착오송금을 예방하는 방안을 우선 추진 중이다.\n금액의 74%를 차지하는 인터넷·모바일 송금의 경우 이체가 지연되는 5초에서 10초간 ‘긴급 취소’ 버튼이 화면에 나타나도록 해 착오 송금을 중단하는 방식이다.\nCD·ATM기에 인터넷뱅킹·모바일뱅킹에서 제공하는 ‘자주 쓰는 계좌’나 ‘최근이체’ 기능을 적용하는 방안도 시행하기로 했다.\n착오송금 반환 절차도 간소화하기로 했다.\n기존에 은행 창구에 직접 방문해 청구서를 작성해야 했던 것을 올해 3분기부터는 콜센터에 전화로 처리할 수 있도록 했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인터넷이나 모바일 뱅킹 상에서 잘못 송금한 돈을 긴급 취소할 수 있게 된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융감독원은 이같은 내용을 담은 착오송금 예방과 반환절차 간소화 방안을 올해 안에 시행할 예정이라고 19일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "착오송금이란 송금인의 실수로 송금 금액이나 수취 금융회사, 수취인 계좌번호 등이 잘못 입력돼 이체된 거래로 지난해 4월부터 올해 3월까지 7만330건(1708억원)이 발생했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "금감원은 송금을 5초에서 10초간 지연해 착오송금을 예방하는 방안을 우선 추진 중이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금액의 74%를 차지하는 인터넷·모바일 송금의 경우 이체가 지연되는 5초에서 10초간 ‘긴급 취소’ 버튼이 화면에 나타나도록 해 착오 송금을 중단하는 방식이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CD·ATM기에 인터넷뱅킹·모바일뱅킹에서 제공하는 ‘자주 쓰는 계좌’나 ‘최근이체’ 기능을 적용하는 방안도 시행하기로 했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "착오송금 반환 절차도 간소화하기로 했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기존에 은행 창구에 직접 방문해 청구서를 작성해야 했던 것을 올해 3분기부터는 콜센터에 전화로 처리할 수 있도록 했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버‧카카오 대표 등, 과기부 장관에 \\\"규제, 목표와 원칙 필요\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

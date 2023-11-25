@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010999",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "'빚의 올가미' 가계신용위험 최악",
+		"newsSubTitle": "다중채무자 늘고 상환능력은 저하… 카드사태 이후 10년만에 최고",
+		"newsContent": "올 1분기 가계 신용위험이 2003년 카드사태 이후 최고 수준으로 조사됐다.\n이는 수도권 주택가격 하락 기대가 남아 있는 등 경기 부진의 영향으로 다중채무자와 취약계층의 채무상환능력 저화 등 우려가 심각하기 때문이다.\n3일 한국은행이 지난해 12월 10~24일 산업은행과 수출입은행을 제외한 16개 국내은행을 대상으로 조사 발표한 '금융기관 대출행태서베이(조사) 결과' 1분기 가계의 신용위험지수는 34로 지난해 4분기보다 3포인트 증가했다.\n이는 카드사태(2003년 3분기ㆍ44포인트) 이후 가장 큰 수치로 금융위기(2008년4분기~2009년2분기ㆍ25) 때보다도 높은 수치다.\n가계 신용위험지수는 지난해 1분기 9에서 2분기 22 3분기 31 점점 증가하는 추세다.\n기업의 신용위험지수도 높은 수준으로 지속될 전망이다.\n중소기업의 신용위험지수는 31포인트로 지난해 1분기 13에서 2분기 24, 3분기 27, 4분기 3포인트로 증가 추세다.\n대기업 신용위험지수도 13으로 지난해 1~2분기 3, 3~4분기 9보다 증가세를 보이고 있다.\n중소기업의 신용위험은 내수 부진 등에 따른 도소매ㆍ음식숙박업, 건설ㆍ부동산 등 취약업종의 신규부실 발생 압력이 꾸준할 것으로 예상됐다.\n대기업의 경우 글로벌 경기 부진에 따른 교역환경 악화 등이 반영돼 상승세를 나타냈다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올 1분기 가계 신용위험이 2003년 카드사태 이후 최고 수준으로 조사됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 수도권 주택가격 하락 기대가 남아 있는 등 경기 부진의 영향으로 다중채무자와 취약계층의 채무상환능력 저화 등 우려가 심각하기 때문이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "3일 한국은행이 지난해 12월 10~24일 산업은행과 수출입은행을 제외한 16개 국내은행을 대상으로 조사 발표한 '금융기관 대출행태서베이(조사) 결과' 1분기 가계의 신용위험지수는 34로 지난해 4분기보다 3포인트 증가했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 카드사태(2003년 3분기ㆍ44포인트) 이후 가장 큰 수치로 금융위기(2008년4분기~2009년2분기ㆍ25) 때보다도 높은 수치다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가계 신용위험지수는 지난해 1분기 9에서 2분기 22 3분기 31 점점 증가하는 추세다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기업의 신용위험지수도 높은 수준으로 지속될 전망이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중소기업의 신용위험지수는 31포인트로 지난해 1분기 13에서 2분기 24, 3분기 27, 4분기 3포인트로 증가 추세다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "대기업 신용위험지수도 13으로 지난해 1~2분기 3, 3~4분기 9보다 증가세를 보이고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "중소기업의 신용위험은 내수 부진 등에 따른 도소매ㆍ음식숙박업, 건설ㆍ부동산 등 취약업종의 신규부실 발생 압력이 꾸준할 것으로 예상됐다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "대기업의 경우 글로벌 경기 부진에 따른 교역환경 악화 등이 반영돼 상승세를 나타냈다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "어반베이스, 올인원 인테리어 서비스 '어반베이스' 론칭",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

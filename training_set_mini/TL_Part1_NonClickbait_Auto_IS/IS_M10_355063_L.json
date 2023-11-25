@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355063",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "SKT, 에릭슨과 코어망 고도화…6G 진화 기반 확보",
+		"newsSubTitle": "null",
+		"newsContent": "SK텔레콤은 에릭슨과 초고속·대용량 5G 서비스를 위한 패킷 가속 처리, 경로 최적화, 다중 흐름 제어 등 최신 기술을 적용한 코어망을 상용화했다고 21일 밝혔다.\nSK텔레콤은 '베어메탈 기반 클라우드 네이티브' 방식을 이용한 새로운 코어망을 적용해 기존 물리 기반 코어 대비 트래픽 처리 효율을 최대 50%까지 향상시켰다고 밝혔다.\n베어메탈 기반 클라우드 네이티브는 기존 가상화 기반 시스템보다 진일보한 기술이다.\n하드웨어 자원과 클라우드에 존재하는 가상 자원 사이에 운영체계를 중복 설치하지 않도록 시스템을 경량화해준다.\n이를 통해 연휴 관광지나 콘서트장 등 급격한 트래픽 증가에도 빠르게 대응할 수 있다.\n또 통신망에 신규 애플리케이션을 적용하는 속도와 서비스 안정성을 크게 높여준다.\nSK텔레콤과 에릭슨은 2019년부터 클라우드 네이티브 기반 코어망에 대한 개발 및 검증을 진행해왔다.\nSK텔레콤에 따르면 이 같은 방식의 코어망 상용화는 이번이 처음이다.\nSK텔레콤은 이번 코어망 기술이 6G 진화로 이어지는 발판이 될 것으로 보고 미래 통신 인프라를 선도하겠다는 전략이다.\n이를 위해 6G 이동통신 및 초정밀 네트워크 기술, AI(인공지능) 기술이 포함된 인프라 구조를 오는 2025년까지 완성하기 위해 기술 역량 강화와 연구 개발을 지속할 계획이다.\n박종관 SK텔레콤 인프라 기술담당은 \\\"베어메탈 기반 클라우드 네이티브 방식 코어망 상용화를 바탕으로 첨단 ICT(정보통신기술) 서비스들을 보다 효율적이고 안정적으로 제공할 수 있는 토대를 마련했다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤은 에릭슨과 초고속·대용량 5G 서비스를 위한 패킷 가속 처리, 경로 최적화, 다중 흐름 제어 등 최신 기술을 적용한 코어망을 상용화했다고 21일 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SK텔레콤은 '베어메탈 기반 클라우드 네이티브' 방식을 이용한 새로운 코어망을 적용해 기존 물리 기반 코어 대비 트래픽 처리 효율을 최대 50%까지 향상시켰다고 밝혔다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "베어메탈 기반 클라우드 네이티브는 기존 가상화 기반 시스템보다 진일보한 기술이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하드웨어 자원과 클라우드에 존재하는 가상 자원 사이에 운영체계를 중복 설치하지 않도록 시스템을 경량화해준다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 통해 연휴 관광지나 콘서트장 등 급격한 트래픽 증가에도 빠르게 대응할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 통신망에 신규 애플리케이션을 적용하는 속도와 서비스 안정성을 크게 높여준다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SK텔레콤과 에릭슨은 2019년부터 클라우드 네이티브 기반 코어망에 대한 개발 및 검증을 진행해왔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SK텔레콤에 따르면 이 같은 방식의 코어망 상용화는 이번이 처음이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "SK텔레콤은 이번 코어망 기술이 6G 진화로 이어지는 발판이 될 것으로 보고 미래 통신 인프라를 선도하겠다는 전략이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이를 위해 6G 이동통신 및 초정밀 네트워크 기술, AI(인공지능) 기술이 포함된 인프라 구조를 오는 2025년까지 완성하기 위해 기술 역량 강화와 연구 개발을 지속할 계획이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "박종관 SK텔레콤 인프라 기술담당은 \\\"베어메탈 기반 클라우드 네이티브 방식 코어망 상용화를 바탕으로 첨단 ICT(정보통신기술) 서비스들을 보다 효율적이고 안정적으로 제공할 수 있는 토대를 마련했다\\\"고 말했다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKT, 에릭슨과 코어망 고도화…6G 진화 기반 확보",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

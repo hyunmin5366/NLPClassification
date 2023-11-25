@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323655",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "한림대성심병원, 간호·간병 통합서비스 병동 개소",
+		"newsSubTitle": "",
+		"newsContent": "한림대학교성심병원(원장 유경호)은 간호∙간병 통합서비스 병동을 개소했다고 16일 밝혔다.\n간호∙간병 통합서비스는 보호자나 간병인이 입원환자 곁에 머무르지 않고 전문 간호인력이 환자를 돌본다.\n환자 간병비로 인한 경제적 부담을 줄이고, 보호자 생활 안전을 지원한다.\n신경과, 내과계 환자가 입원한 13병동에서 시행한다.\n총 42병상 규모로 간호사, 간호조무사, 간병지원인력 등 전문 간호인력이 24시간 상주한다.\n모든 병상에는 전동침대, 욕창방지기구, 낙상감지센서, 환자 모니터링 시스템, 의료진 호출 벨 등을 갖췄다.\n치료실, 휴게실, 샤워실도 리모델링했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한림대학교성심병원(원장 유경호)은 간호∙간병 통합서비스 병동을 개소했다고 16일 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "간호∙간병 통합서비스는 보호자나 간병인이 입원환자 곁에 머무르지 않고 전문 간호인력이 환자를 돌본다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "환자 간병비로 인한 경제적 부담을 줄이고, 보호자 생활 안전을 지원한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신경과, 내과계 환자가 입원한 13병동에서 시행한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "총 42병상 규모로 간호사, 간호조무사, 간병지원인력 등 전문 간호인력이 24시간 상주한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모든 병상에는 전동침대, 욕창방지기구, 낙상감지센서, 환자 모니터링 시스템, 의료진 호출 벨 등을 갖췄다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "치료실, 휴게실, 샤워실도 리모델링했다.",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한림대성심병원, 간호·간병 통합서비스 병동 개소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

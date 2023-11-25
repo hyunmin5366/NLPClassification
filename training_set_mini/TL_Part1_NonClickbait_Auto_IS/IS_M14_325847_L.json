@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325847",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "윕스, AI기술로 기업 특허분류 업무 혁신",
+		"newsSubTitle": "",
+		"newsContent": "윕스의 특허분류서비스 '윕스클래스(WIPSCLASS)'가 기업 특허 분석 업무 패러다임을 바꿔놓고 있다.\n17일 관련업계에 따르면 윕스(대표 이형칠)가 지난해 11월 론칭한 윕스클래스가 기업의 특허전략 수립과 리스크 예방에 필요한 정보들을 빠르게 제공하며 시장에서 주목받고 있다.\n윕스클래스에 3000건의 데이터만 학습시키면, 단 40분 만에 5만건의 특허를 분류할 수 있다는 설명이다.\n윕스클래스는 사용자가 분류해 놓은 특허를 5가지의 딥러닝 분류 알고리즘을 활용해 학습한 후, 최적의 분류 방식 15가지를 선택하고 여기에 앙상블 기법을 적용해 최종적으로 분류기를 생성한다.\n선택된 최종 분류기에 분류하고자 하는 대량의 특허를 입력하면 사용자가 정의한 분류 체계에 맞게 특허를 자동으로 분류한다.\n윕스클래스는 MLP, CNN 등 5개의 알고리즘을 기본으로 여러 조건을 변형한 70여개 예비 분류기를 통해 데이터를 학습한다.\n이어 각각의 알고리즘에서 가장 적절하다고 판단되는 분류기를 3개씩 선정하고 이들을 다양한 방법으로 결합한다.\n그 결과 가장 좋은 예측력을 보이는 분류기를 선택하는 방식이다.\n학습데이터에 대한 최적의 예측률을 보이는 분류기의 정확도는 90% 이상에 달한다.\n이형칠 윕스 대표는 \\\"AI를 활용한 특허분류기로 기업 요구를 현실화해 특허 분석 업무의 패러다임을 전환하는 계기를 마련했다\\\"며 \\\"추가 연구개발을 통해 기술 분류의 정확도와 데이터학습 속도 등을 향상시키겠다\\\"고 말했다.\n한편 윕스는 이러한 기업 요구에 초점을 맞춰 5년 전부터 AI를 활용해 특허데이터를 학습시키고 분류하는 시스템을 개발하기 위한 투자를 진행해 왔다.\n2019년 한국지식재산협회(KINPA)가 주관한 행사에서 연구결과를 처음 공개해 많은 기업의 관심을 받았다.\n업계에 따르면 특허분석 업무는 대량의 특허를 다뤄야 하는 만큼 많은 시간이 소요되고 작업 자체도 까다롭다.\n특허업무의 효율과 편의를 높이는 다양한 툴들이 보편화됐지만 기업이 다루는 기술이 복잡해지면서 기술 분류 작업에만 상당한 시간이 소요된다.\n기업에 따르면 특허 5만건 분석을 위해서는 5명이 1일 8시간 총 100일 가까운 시간이 소요되는 것으로 알려지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "윕스의 특허분류서비스 '윕스클래스(WIPSCLASS)'가 기업 특허 분석 업무 패러다임을 바꿔놓고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 관련업계에 따르면 윕스(대표 이형칠)가 지난해 11월 론칭한 윕스클래스가 기업의 특허전략 수립과 리스크 예방에 필요한 정보들을 빠르게 제공하며 시장에서 주목받고 있다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "윕스클래스에 3000건의 데이터만 학습시키면, 단 40분 만에 5만건의 특허를 분류할 수 있다는 설명이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "윕스클래스는 사용자가 분류해 놓은 특허를 5가지의 딥러닝 분류 알고리즘을 활용해 학습한 후, 최적의 분류 방식 15가지를 선택하고 여기에 앙상블 기법을 적용해 최종적으로 분류기를 생성한다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "선택된 최종 분류기에 분류하고자 하는 대량의 특허를 입력하면 사용자가 정의한 분류 체계에 맞게 특허를 자동으로 분류한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윕스클래스는 MLP, CNN 등 5개의 알고리즘을 기본으로 여러 조건을 변형한 70여개 예비 분류기를 통해 데이터를 학습한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 각각의 알고리즘에서 가장 적절하다고 판단되는 분류기를 3개씩 선정하고 이들을 다양한 방법으로 결합한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그 결과 가장 좋은 예측력을 보이는 분류기를 선택하는 방식이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "학습데이터에 대한 최적의 예측률을 보이는 분류기의 정확도는 90% 이상에 달한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이형칠 윕스 대표는 \\\"AI를 활용한 특허분류기로 기업 요구를 현실화해 특허 분석 업무의 패러다임을 전환하는 계기를 마련했다\\\"며 \\\"추가 연구개발을 통해 기술 분류의 정확도와 데이터학습 속도 등을 향상시키겠다\\\"고 말했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한편 윕스는 이러한 기업 요구에 초점을 맞춰 5년 전부터 AI를 활용해 특허데이터를 학습시키고 분류하는 시스템을 개발하기 위한 투자를 진행해 왔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "2019년 한국지식재산협회(KINPA)가 주관한 행사에서 연구결과를 처음 공개해 많은 기업의 관심을 받았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "업계에 따르면 특허분석 업무는 대량의 특허를 다뤄야 하는 만큼 많은 시간이 소요되고 작업 자체도 까다롭다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "특허업무의 효율과 편의를 높이는 다양한 툴들이 보편화됐지만 기업이 다루는 기술이 복잡해지면서 기술 분류 작업에만 상당한 시간이 소요된다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "기업에 따르면 특허 5만건 분석을 위해서는 5명이 1일 8시간 총 100일 가까운 시간이 소요되는 것으로 알려지고 있다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윕스, AI기술로 기업 특허분류 업무 혁신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

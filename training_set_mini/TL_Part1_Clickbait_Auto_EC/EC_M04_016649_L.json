@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016649",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "[검색어 톡] 주식거래 시간 30분 연장… 16년만에 매매시간 변동",
+		"newsSubTitle": "",
+		"newsContent": "▲ 네이버 핫토픽 키워드 8월의 첫날 인터넷 포털의 주요 검색어에 ‘거래시간 30분 연장’이 올라왔다.\n1일 오전 11시 현재 네이버의 ‘핫토픽 키워드’에서 ‘거래시간 30분 연장’이 3위에 올라있다.\n이는 오늘(1일)부터 주식거래 시간이 30분 연장된데 따른 것으로 보인다.\n한국거래소에 따르면 증권·파생상품 시장과 금 시장의 정규장 매매거래 시간이 1일부터 30분씩 연장한다고 밝혔다.\n이에 따라 증권시장 정규장과 금 시장 마감 시간이 오후 3시에서 3시 30분으로 30분 늦춰지고, 파생상품시장 마감 시간은 오후 3시 15분에서 3시 45분으로 30분 늦춰졌다.\n다만 개장 시간은 오전 9시로 변동이 없다.\n증시 매매시간 변경은 2000년 5월 정오부터 오후 1시까지 점심시간 휴장을 폐지한 이후 16년 만이다.\n한편 전문가들은 거래시간 연장이 증권업계에 대체적으로 긍정적 영향을 미칠 것으로 내다봤다.\n한국거래소는 거래시간이 연장되면 “중국 등 아시아 증시와 맞물려 돌아가는 운영시간이 늘어나 한국 증시의 글로벌 경쟁력을 높이는 데 도움이 되고 투자자 편의 향상으로 거래량이 늘 것”으로 전망했다.\n한국거래소는 시간 연장으로 거래량이 적게는 3%에서 많게는 8%까지 늘어날 것으로 기대했다.\n하지만 ‘거래시간 연장 효과’는 제한적일 수 있다는 전망도 있어, 실질적인 효과는 당분간 지켜봐야하겠다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 네이버 핫토픽 키워드 8월의 첫날 인터넷 포털의 주요 검색어에 ‘거래시간 30분 연장’이 올라왔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 오전 11시 현재 네이버의 ‘핫토픽 키워드’에서 ‘거래시간 30분 연장’이 3위에 올라있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 오늘(1일)부터 주식거래 시간이 30분 연장된데 따른 것으로 보인다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국거래소에 따르면 증권·파생상품 시장과 금 시장의 정규장 매매거래 시간이 1일부터 30분씩 연장한다고 밝혔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 증권시장 정규장과 금 시장 마감 시간이 오후 3시에서 3시 30분으로 30분 늦춰지고, 파생상품시장 마감 시간은 오후 3시 15분에서 3시 45분으로 30분 늦춰졌다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만 개장 시간은 오전 9시로 변동이 없다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "증시 매매시간 변경은 2000년 5월 정오부터 오후 1시까지 점심시간 휴장을 폐지한 이후 16년 만이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 전문가들은 거래시간 연장이 증권업계에 대체적으로 긍정적 영향을 미칠 것으로 내다봤다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한국거래소는 거래시간이 연장되면 “중국 등 아시아 증시와 맞물려 돌아가는 운영시간이 늘어나 한국 증시의 글로벌 경쟁력을 높이는 데 도움이 되고 투자자 편의 향상으로 거래량이 늘 것”으로 전망했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한국거래소는 시간 연장으로 거래량이 적게는 3%에서 많게는 8%까지 늘어날 것으로 기대했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "하지만 ‘거래시간 연장 효과’는 제한적일 수 있다는 전망도 있어, 실질적인 효과는 당분간 지켜봐야하겠다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKT-서울대, 유동인구데이터 활용 산학협력",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

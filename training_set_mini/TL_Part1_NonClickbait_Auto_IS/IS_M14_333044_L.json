@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333044",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[이슈분석]관심은 높은데 EDR 도입엔 신중",
+		"newsSubTitle": "",
+		"newsContent": "EDR를 도입하면 지금까지 고민하던 모든 보안 문제가 해결될 것인가.\n보안 담당자는 EDR 도입에 관심은 높지만 상황을 더 지켜보자는 입장이다.\nA기업 보안 담당자는 “EDR는 사이버 위협을 자동으로 탐지하고 인텔리전스를 이용해 알아서 해주는 부분이 많다”면서 “하지만 모든 최종 상황 판단은 사람의 몫 이었다”고 토로했다.\n이어 “솔루션 도입이 전부는 아니며 결국 이를 제대로 운영할 수 있는 인력 확보가 급선무”라고 덧붙였다.\nEDR는 인텔리전스를 활용해 엔드포인트 행동을 분석하고 자동화한다.\n특정 위협이 무엇인지 언제 어디서 어떻게 발생했는지를 알려준다.\n실제 위협과 오·탐지를 구분하고 공격을 식별하는 행동 분석도 가능하다.\n자동화로 보안 상태 가시성을 확보하며 위협을 관리한다.\n최근 EDR에 머신러닝 기술이 적용돼 알려지지 않은 악성코드 대응과 프로그램 경량화와 통합화가 이뤄졌다.\n이런 발전에도 아직 시장은 초기 단계다.\n국내 복잡한 엔드포인트 환경도 EDR 시장 확대 장애물이다.\n한 EDR기업은 B대기업 환경에 EDR를 설치했는데 계속되는 장애에 어려움을 겪었다.\n국내 엔드포인트 환경은 해외와 달리 여러 개 소프트웨어 애플리케이션이 설치된다.\n해외에서 사용하지 않는 전자정부나 인터넷뱅킹용 프로그램이 여러 개 깔려있다.\n기업 내 PC 운용체계(OS) 환경도 표준화되지 않아 다양한 버전이 쓰인다.\nEDR 기업들이 제품을 개발한 후 엔드포인트에 설치할 때 점검해야 하는 환경이 최소 30개가 넘는다.\n국내 전용 프로그램 환경에 익숙지 않은 글로벌 EDR 기업이 어려워하는 이유다.\n한 은행 CISO는 “알려지지 않은 1% 위협을 잡기 위해 EDR 도입은 피할 수 없다”면서 “아직 시장이 초기 단계여서 기업 마다 적합한 솔루션을 찾는데 신중하게 접근 중”이라고 설명했다.\n전수홍 파이어아이코리아 대표는 “한국의 다양한 엔드포인트 환경에 맞춰 EDR를 성공적으로 배포한 사례가 점점 나오기 시작했다”면서 “글로벌 기업은 한국 내 파트너와 함께 환경을 시험하고 준비해 진입하고 있다”고 말했다.\n이동범 지니언스 대표는 “EDR가 알려지지 않은 위협에 대한 효율적 대응을 내세운다”면서 “머신러닝 기술을 활용해 정탐과 오탐 등 탐지 결과가 채택된다”고 설명했다.\n그는 “머신러닝 기술을 적용한 기업이 다양한 악성코드 탐지를 위해 최적화한 학습 모델을 연구한다”면서 “동시 학습과 재학습을 통해 악성코드 탐지를 고도화하고 오탐율을 줄이는데 집중한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "EDR를 도입하면 지금까지 고민하던 모든 보안 문제가 해결될 것인가.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "보안 담당자는 EDR 도입에 관심은 높지만 상황을 더 지켜보자는 입장이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "A기업 보안 담당자는 “EDR는 사이버 위협을 자동으로 탐지하고 인텔리전스를 이용해 알아서 해주는 부분이 많다”면서 “하지만 모든 최종 상황 판단은 사람의 몫 이었다”고 토로했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “솔루션 도입이 전부는 아니며 결국 이를 제대로 운영할 수 있는 인력 확보가 급선무”라고 덧붙였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "EDR는 인텔리전스를 활용해 엔드포인트 행동을 분석하고 자동화한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특정 위협이 무엇인지 언제 어디서 어떻게 발생했는지를 알려준다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실제 위협과 오·탐지를 구분하고 공격을 식별하는 행동 분석도 가능하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "자동화로 보안 상태 가시성을 확보하며 위협을 관리한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최근 EDR에 머신러닝 기술이 적용돼 알려지지 않은 악성코드 대응과 프로그램 경량화와 통합화가 이뤄졌다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이런 발전에도 아직 시장은 초기 단계다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "국내 복잡한 엔드포인트 환경도 EDR 시장 확대 장애물이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "한 EDR기업은 B대기업 환경에 EDR를 설치했는데 계속되는 장애에 어려움을 겪었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "국내 엔드포인트 환경은 해외와 달리 여러 개 소프트웨어 애플리케이션이 설치된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "해외에서 사용하지 않는 전자정부나 인터넷뱅킹용 프로그램이 여러 개 깔려있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "기업 내 PC 운용체계(OS) 환경도 표준화되지 않아 다양한 버전이 쓰인다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "EDR 기업들이 제품을 개발한 후 엔드포인트에 설치할 때 점검해야 하는 환경이 최소 30개가 넘는다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "국내 전용 프로그램 환경에 익숙지 않은 글로벌 EDR 기업이 어려워하는 이유다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "한 은행 CISO는 “알려지지 않은 1% 위협을 잡기 위해 EDR 도입은 피할 수 없다”면서 “아직 시장이 초기 단계여서 기업 마다 적합한 솔루션을 찾는데 신중하게 접근 중”이라고 설명했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "전수홍 파이어아이코리아 대표는 “한국의 다양한 엔드포인트 환경에 맞춰 EDR를 성공적으로 배포한 사례가 점점 나오기 시작했다”면서 “글로벌 기업은 한국 내 파트너와 함께 환경을 시험하고 준비해 진입하고 있다”고 말했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이동범 지니언스 대표는 “EDR가 알려지지 않은 위협에 대한 효율적 대응을 내세운다”면서 “머신러닝 기술을 활용해 정탐과 오탐 등 탐지 결과가 채택된다”고 설명했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "그는 “머신러닝 기술을 적용한 기업이 다양한 악성코드 탐지를 위해 최적화한 학습 모델을 연구한다”면서 “동시 학습과 재학습을 통해 악성코드 탐지를 고도화하고 오탐율을 줄이는데 집중한다”고 말했다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]관심은 높은데 EDR 도입엔 신중",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

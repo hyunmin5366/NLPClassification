@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349966",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "中 톈원 1호, 화성 지표면 착륙 시도…美 이어 '우주굴기' 성큼",
+		"newsSubTitle": "null",
+		"newsContent": "중국의 첫 화성 무인탐사선 톈원 1호가 이번 주말 화성 지표면 착륙을 시도한다.\n중국국가항천국(CNSA)은 14일 홈페이지에 \\\"현재 비행상황을 볼 때 15일 새벽부터 19일 사이에 적절한 시간을 택해 유토피아 평원에 착륙할 계획\\\"이라고 밝혔다.\n톈원 1호는 지난해 7월 발사된 뒤 올해 2월 화성 궤도에 진입했다.\n화성 지표면에 곧바로 착륙한 미국 항공우주국(NASA)의 화상탐사선 ''퍼서비어런스와 달리 톈원 1호는 화성 궤도에 머물며 지표면 착륙을 준비해왔다.\n톈원 1호에는 탐사로봇 '주룽'이 실려있다.\n주룽은 약 3개월 동안 화평 표면을 탐사하며 지표면의 구조와 성분, 대기, 물에 대한 조사를 실시한다.\n톈원 1호는 화성의 토양을 채취한 뒤 2030년에 지구로 돌아올 것으로 예상되고 있다.\n현재까지 화성 지표면 착륙에 성공한 국가는 미국과 구소련 뿐이다.\n중국이 이번에 화성 지표면 착륙에 성공하면, 탐사선을 화성 땅에 내린 세 번째 국가가 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국의 첫 화성 무인탐사선 톈원 1호가 이번 주말 화성 지표면 착륙을 시도한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "중국국가항천국(CNSA)은 14일 홈페이지에 \\\"현재 비행상황을 볼 때 15일 새벽부터 19일 사이에 적절한 시간을 택해 유토피아 평원에 착륙할 계획\\\"이라고 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "톈원 1호는 지난해 7월 발사된 뒤 올해 2월 화성 궤도에 진입했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "화성 지표면에 곧바로 착륙한 미국 항공우주국(NASA)의 화상탐사선 ''퍼서비어런스와 달리 톈원 1호는 화성 궤도에 머물며 지표면 착륙을 준비해왔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "톈원 1호에는 탐사로봇 '주룽'이 실려있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주룽은 약 3개월 동안 화평 표면을 탐사하며 지표면의 구조와 성분, 대기, 물에 대한 조사를 실시한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "톈원 1호는 화성의 토양을 채취한 뒤 2030년에 지구로 돌아올 것으로 예상되고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현재까지 화성 지표면 착륙에 성공한 국가는 미국과 구소련 뿐이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "중국이 이번에 화성 지표면 착륙에 성공하면, 탐사선을 화성 땅에 내린 세 번째 국가가 된다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "中 톈원 1호, 화성 지표면 착륙 시도…美 이어 '우주굴기' 성큼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

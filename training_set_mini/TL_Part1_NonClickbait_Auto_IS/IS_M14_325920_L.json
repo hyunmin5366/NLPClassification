@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325920",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "[ICT시사용어]SCOBIS(스캔 만화 및 웹툰 식별 서비스)",
+		"newsSubTitle": "",
+		"newsContent": "스코비스(SCOBIS)는 스캐너를 이용해 이미지 형식으로 변환된 스캔 만화 및 웹툰을 식별하는 기술이다.\nScan Comic Book & Webtoon Identification Service를 줄인 글자다.\n포털사이트, 웹하드, 토렌트 등을 통해 불법 유통되는 만화 및 웹툰 콘텐츠를 찾아낸다.\n스코비스는 만화 특징과 식별 시스템을 합쳐 놓은 것이다.\n스캔 만화 및 웹툰 특징을 추출, 비교, 분석해 권 단위 만화·웹툰을 식별한다.\n출판 만화에서 만화 특징을 추출해 저작물 정보, 저작권 정보, 특징 정보와 함께 '특징 데이터베이스(DB) 관리 시스템'에 올려놓으면 불법 유통되는 스캔 만화 특징과 만화 정보를 파악할 수 있도록 돕는다.\n조판 방향 및 변형이 가해진 스캔 만화 및 웹툰 식별도 가능하다.\n불법 공유되는 출판 만화는 스캐너, 디지털카메라로 촬영하고 편집·보정한 후 다양한 파일 형식으로 저장된다.\n촬영 과정에서 찢어짐, 접힘, 회전, 페이지 나눔, 메모 등 변형이 발생하기 때문에 현행 비주얼 크롤링으로는 인지하기 어려운 점이 있었다.\n권당 식별 소요 시간은 0.22초다.\nPDF, 이펍(ePUB) 등 포맷과 ZIP, TAR, RAR 같은 압축 포맷도 지원한다.\n웹툰 역시 광고나 분할, 번역, 중단 분할, 결합에 의해 변형이 생긴다.\n이를 웹툰 저작물 자동 수집 기술과 식별 기술, 특징 데이터 관리 기술로 잡아낼 수 있다.\n웹툰 특징 등록 프로그램으로 웹툰 저작물 특징 및 정보를 웹툰 저작물 식별 서버에 등록, 식별 클라이언트를 통해 웹툰 이미지 파일을 식별할 수 있다.\n문화체육관광부와 한국저작권위원회는 저작권 기술 연구개발(R&D) 과제로 만화·웹툰 저작물 보호 시스템 개발 및 서비스를 수행하고 있다.\n영화나 방송에 비해 불법 복제물 시장 규모가 큰 출판물 시장, 특히 만화·웹툰 불법 복제물 유통 근절을 목표로 한다.\n스코비스도 한국웹툰산업협회와 디알엠인사이드, 엠더블유스토리가 웹툰 저작권 보호를 위한 업무협약(MOU)을 체결하고 불법 유통 방지를 위한 사업을 추진하면서 개발됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스코비스(SCOBIS)는 스캐너를 이용해 이미지 형식으로 변환된 스캔 만화 및 웹툰을 식별하는 기술이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "Scan Comic Book & Webtoon Identification Service를 줄인 글자다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "포털사이트, 웹하드, 토렌트 등을 통해 불법 유통되는 만화 및 웹툰 콘텐츠를 찾아낸다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스코비스는 만화 특징과 식별 시스템을 합쳐 놓은 것이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스캔 만화 및 웹툰 특징을 추출, 비교, 분석해 권 단위 만화·웹툰을 식별한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "출판 만화에서 만화 특징을 추출해 저작물 정보, 저작권 정보, 특징 정보와 함께 '특징 데이터베이스(DB) 관리 시스템'에 올려놓으면 불법 유통되는 스캔 만화 특징과 만화 정보를 파악할 수 있도록 돕는다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조판 방향 및 변형이 가해진 스캔 만화 및 웹툰 식별도 가능하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "불법 공유되는 출판 만화는 스캐너, 디지털카메라로 촬영하고 편집·보정한 후 다양한 파일 형식으로 저장된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "촬영 과정에서 찢어짐, 접힘, 회전, 페이지 나눔, 메모 등 변형이 발생하기 때문에 현행 비주얼 크롤링으로는 인지하기 어려운 점이 있었다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "권당 식별 소요 시간은 0.22초다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "PDF, 이펍(ePUB) 등 포맷과 ZIP, TAR, RAR 같은 압축 포맷도 지원한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "웹툰 역시 광고나 분할, 번역, 중단 분할, 결합에 의해 변형이 생긴다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이를 웹툰 저작물 자동 수집 기술과 식별 기술, 특징 데이터 관리 기술로 잡아낼 수 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "웹툰 특징 등록 프로그램으로 웹툰 저작물 특징 및 정보를 웹툰 저작물 식별 서버에 등록, 식별 클라이언트를 통해 웹툰 이미지 파일을 식별할 수 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "문화체육관광부와 한국저작권위원회는 저작권 기술 연구개발(R&D) 과제로 만화·웹툰 저작물 보호 시스템 개발 및 서비스를 수행하고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "영화나 방송에 비해 불법 복제물 시장 규모가 큰 출판물 시장, 특히 만화·웹툰 불법 복제물 유통 근절을 목표로 한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "스코비스도 한국웹툰산업협회와 디알엠인사이드, 엠더블유스토리가 웹툰 저작권 보호를 위한 업무협약(MOU)을 체결하고 불법 유통 방지를 위한 사업을 추진하면서 개발됐다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[ICT시사용어]SCOBIS(스캔 만화 및 웹툰 식별 서비스)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

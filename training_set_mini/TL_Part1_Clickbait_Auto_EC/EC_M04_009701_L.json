@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009701",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "'알뜰주유소' 대전 1호점 오픈",
+		"newsSubTitle": "신탄진농협 ℓ당 100원 저렴",
+		"newsContent": "대전지역에서 처음으로 농협 알뜰주유소가 영업에 나서 소비자들의 기름값 부담을 덜어줄 전망이다.\n전국 광역시·도 가운데 처음으로 알뜰주유소가 문을 여는 것이다.\n신탄진농협은 15일 오전부터 신탄진농협주유소를 열고 소비자들에게 ℓ당 100원가량 저렴한 가격으로 주유에 나선다.\n이 주유소는 4297㎡ 부지에 세워져 50만ℓ의 저장탱크를 갖췄다.\n주유기 8대는 셀프형식으로 설치됐고 터널식 자동세차 서비스도 제공된다.\n여기에 출시 예정인 농협알뜰주유소 전용카드를 이용하면 ℓ당 100원이 추가 할인돼 최대 ℓ당 200원의 주유비 절감효과를 거둘 수 있다.\n대전농협 관계자는 “일반 주유소가 거둬들였던 수익이 소비자에게 돌아가는 형태”라며 “천정부지로 치솟는 기름값 앞에 농협이 소비자들의 가계 부담을 줄이는 데 앞장설 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전지역에서 처음으로 농협 알뜰주유소가 영업에 나서 소비자들의 기름값 부담을 덜어줄 전망이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전국 광역시·도 가운데 처음으로 알뜰주유소가 문을 여는 것이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신탄진농협은 15일 오전부터 신탄진농협주유소를 열고 소비자들에게 ℓ당 100원가량 저렴한 가격으로 주유에 나선다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 주유소는 4297㎡ 부지에 세워져 50만ℓ의 저장탱크를 갖췄다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주유기 8대는 셀프형식으로 설치됐고 터널식 자동세차 서비스도 제공된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "여기에 출시 예정인 농협알뜰주유소 전용카드를 이용하면 ℓ당 100원이 추가 할인돼 최대 ℓ당 200원의 주유비 절감효과를 거둘 수 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대전농협 관계자는 “일반 주유소가 거둬들였던 수익이 소비자에게 돌아가는 형태”라며 “천정부지로 치솟는 기름값 앞에 농협이 소비자들의 가계 부담을 줄이는 데 앞장설 것”이라고 말했다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대형마트 의무휴업에도 전통시장, 반사이익 없어",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

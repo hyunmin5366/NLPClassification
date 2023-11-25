@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330199",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[보안 미래, 스타트업에서 찾다]<11>새롭게모바일 'M세이버'",
+		"newsSubTitle": "",
+		"newsContent": "새롭게모바일(대표 박지민)은 생체인증과 위치기반 서비스를 통합한 이중 인증 서비스 'M세이버'를 개발·서비스한다.\nM세이버는 스마트 기기를 이용해 보안이 취약한 시스템 인증을 강화하는 서비스다.\n사용자는 시스템 접근 시 본인이 소유한 기기 위치, 시간, 생체정보 통해 승인을 요청한다.\n기업 사원증, 전자결재, 출입통제 등에 활용 가능하다.\n최근 인증시장은 보안성뿐 아니라 높은 편의성을 요구한다.\n과거 패스워드 기반 인증사회는 적은 도입 비용과 사용자 편의성에서 우위를 보였다.\n하지만 해킹문제가 불거졌고 개인이 패스워드를 모두 기억해야 해 분실 위험이 컸다.\n이후 공인인증서, OPT방식 등이 등장해 보안성을 갖췄지만 인증시스템 구축비용이 높고 각종 프로그램 설치를 유도해 사용자 편의성은 떨어졌다.\nM세이버는 생체인증 분야 국제 표준 파이도(FIDO) 인증 기술 기반으로 사용자 생체정보를 이용한다.\n사용자는 소유한 기기를 통해 인증을 실행한다.\n기존 방식과 같이 단순 생체인증으로 끝나는 것이 아니라 위성항법장치(GPS), 비콘, 와이파이를 활용해 사용자가 승인에 필요한 적합한 위치에 있는지를 파악한다.\n부정접속을 시도하더라도 해당 사용자가 정해진 위치 등에 있지 않을 경우 출입·허가 등 인증은 취소된다.\nM세이버는 높은 보안성뿐 아니라 편의성까지 고려했다.\n단일 애플리케이션(앱)으로 출입, 시스템접근, 승인을 진행하며 각 영역에 맞춰 인증절차나 등급을 차등 적용해 통합 관리한다.\n모바일디바이스매니지먼트(MDM)를 통해 사용자 인증 시 필요한 기기 권한을 설정하고 비 인가된 사용자는 접근 불가하도록 한다.\n인증 편의성과 높은 보안으로 이미 기업 고객도 확보했다.\n대덕전자, 한전KDN 등이 해당 솔루션을 도입했으며 무궁화신탁도 도입을 위한 프로젝트 중이다.\n새롭게모바일은 올해 1급 보안시설·공공기관 대상 레퍼런스 확보에 총력을 기울인다.\n매출 목표는 18억원으로 잡았다.\n서우SNC, 휴네시온, 이지닉스 등 보안 관련 업체와 제휴를 맺고 파트너 모집에 주력한다.\n박지민 새롭게모바일 대표는 “현재는 기업 업무시스템, 출입보안, 전자결재 시스템 등 기업 간 거래(B2B) 시장에 집중하고 있다”면서 “해당 기업과 기술, 신뢰를 쌓은 후 이들 기업이 보유한 소비자 대상으로 M세이버를 확장하는 것이 목표”라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "새롭게모바일(대표 박지민)은 생체인증과 위치기반 서비스를 통합한 이중 인증 서비스 'M세이버'를 개발·서비스한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "M세이버는 스마트 기기를 이용해 보안이 취약한 시스템 인증을 강화하는 서비스다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사용자는 시스템 접근 시 본인이 소유한 기기 위치, 시간, 생체정보 통해 승인을 요청한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기업 사원증, 전자결재, 출입통제 등에 활용 가능하다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 인증시장은 보안성뿐 아니라 높은 편의성을 요구한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "과거 패스워드 기반 인증사회는 적은 도입 비용과 사용자 편의성에서 우위를 보였다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 해킹문제가 불거졌고 개인이 패스워드를 모두 기억해야 해 분실 위험이 컸다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 공인인증서, OPT방식 등이 등장해 보안성을 갖췄지만 인증시스템 구축비용이 높고 각종 프로그램 설치를 유도해 사용자 편의성은 떨어졌다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "M세이버는 생체인증 분야 국제 표준 파이도(FIDO) 인증 기술 기반으로 사용자 생체정보를 이용한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "사용자는 소유한 기기를 통해 인증을 실행한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "기존 방식과 같이 단순 생체인증으로 끝나는 것이 아니라 위성항법장치(GPS), 비콘, 와이파이를 활용해 사용자가 승인에 필요한 적합한 위치에 있는지를 파악한다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "부정접속을 시도하더라도 해당 사용자가 정해진 위치 등에 있지 않을 경우 출입·허가 등 인증은 취소된다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "M세이버는 높은 보안성뿐 아니라 편의성까지 고려했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "단일 애플리케이션(앱)으로 출입, 시스템접근, 승인을 진행하며 각 영역에 맞춰 인증절차나 등급을 차등 적용해 통합 관리한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "모바일디바이스매니지먼트(MDM)를 통해 사용자 인증 시 필요한 기기 권한을 설정하고 비 인가된 사용자는 접근 불가하도록 한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "인증 편의성과 높은 보안으로 이미 기업 고객도 확보했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "대덕전자, 한전KDN 등이 해당 솔루션을 도입했으며 무궁화신탁도 도입을 위한 프로젝트 중이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "새롭게모바일은 올해 1급 보안시설·공공기관 대상 레퍼런스 확보에 총력을 기울인다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "매출 목표는 18억원으로 잡았다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "서우SNC, 휴네시온, 이지닉스 등 보안 관련 업체와 제휴를 맺고 파트너 모집에 주력한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "박지민 새롭게모바일 대표는 “현재는 기업 업무시스템, 출입보안, 전자결재 시스템 등 기업 간 거래(B2B) 시장에 집중하고 있다”면서 “해당 기업과 기술, 신뢰를 쌓은 후 이들 기업이 보유한 소비자 대상으로 M세이버를 확장하는 것이 목표”라고 말했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[보안 미래, 스타트업에서 찾다]<11>새롭게모바일 'M세이버'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

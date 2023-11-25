@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010128",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "세종시에 LED 도입 확산",
+		"newsSubTitle": "보급활성화 기준 마련ㆍ시행",
+		"newsContent": "행복도시에 친환경 고효율 조명인 LED 도입이 확산될 전망이다.\n행정중심복합도시건설청은 1일부터 이와 관련한 보급기준을 마련ㆍ시행한다.\n현재까지 보급량은 정부청사와 공동주택 등 21개 단위사업에 30% 수준. 하지만 발주부서의 LED 제품 판단기준 불분명과 설계 도입기준 부재로 확대에 어려움을 겪어왔다.\n결국 지난 2월부터 관계 전문가 의견수렴을 거쳐 보급기준을 마련하게됐다.\n주요 내용을 보면, 안전기준은 전기용품 안전인증제품, 성능은 KS(한국산업표준) 또는 고효율 인증제품을 적용키로 했다.\n또 KS 수준 이상의 보급기준을 마련했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "행복도시에 친환경 고효율 조명인 LED 도입이 확산될 전망이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "행정중심복합도시건설청은 1일부터 이와 관련한 보급기준을 마련ㆍ시행한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재까지 보급량은 정부청사와 공동주택 등 21개 단위사업에 30% 수준. 하지만 발주부서의 LED 제품 판단기준 불분명과 설계 도입기준 부재로 확대에 어려움을 겪어왔다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "결국 지난 2월부터 관계 전문가 의견수렴을 거쳐 보급기준을 마련하게됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주요 내용을 보면, 안전기준은 전기용품 안전인증제품, 성능은 KS(한국산업표준) 또는 고효율 인증제품을 적용키로 했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 KS 수준 이상의 보급기준을 마련했다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "후불제 목돈마련 부담, 무이자는 분양가 상승 우려",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

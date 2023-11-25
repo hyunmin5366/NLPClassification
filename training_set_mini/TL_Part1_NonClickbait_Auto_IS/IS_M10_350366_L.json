@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350366",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "SKT, 양자보안 적용 '생체인증 카드키' 세계 첫 출시",
+		"newsSubTitle": "null",
+		"newsContent": "SK텔레콤은 아이디퀀티크(IDQ), 생체인증 벤처기업 옥타코와 함께 양자난수생성기술이 적용된 지문인식 보안키 '이지퀀트(EzQuant)'를 세계 최초로 출시했다고15일 밝혔다.\n양자보안과 생체인증기술이 융합돼 보안을 획기적으로 개선한 제품이다.\n양자난수생성기술(QRNG)은 양자 역학의 특성을 이용해 예측 불가능하고 패턴이 없는 순수 난수를 만들어내는 장치 또는 기술을 이른다. '이지퀀트'는 신속한 온라인 인증(FIDO)을 기반으로 한 카드형 지문보안키에 양자난수생성기술을 결합한 것이다. '이지퀀트' 출시로 양자보안기술 적용 분야는 큰 폭으로 확대된다.\n양자키분배기(QKD)를 기반으로 양자암호통신망을 공급한데 이어 양자난수생성기(QRNG)가 적용된 스마트폰(갤럭시 퀀텀)이 출시됐고 이번에 생체인증 기반 보안키가 추가됐다. '이지퀀트'는 기존 생체인증으로 수행하던 PC로그인 및 사내 업무에 필요한 모든 인증과 연동할 수 있다.\n카드키내에 있는 NFC 기능을 활용해 사무실 출입에도 이용할 수 있다.\nFIDO 인증 서비스를 제공하는 모든 웹인증 서비스에서도 사용할 수 있다.\n양자 난수(QRNG) 기술이 적용된 생체인증 보안키는 향후 금융서비스, 국방, 온라인 행정, 스마트 오피스 등으로 활용 분야가 확대될 것으로 전망된다.\nSK텔레콤과 IDQ, 옥타코는 양자보안 FIDO 생체인증 보안키의 글로벌 확산을 위해 올해 미국과 싱가폴 시장에 진출한다는 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤은 아이디퀀티크(IDQ), 생체인증 벤처기업 옥타코와 함께 양자난수생성기술이 적용된 지문인식 보안키 '이지퀀트(EzQuant)'를 세계 최초로 출시했다고15일 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양자보안과 생체인증기술이 융합돼 보안을 획기적으로 개선한 제품이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양자난수생성기술(QRNG)은 양자 역학의 특성을 이용해 예측 불가능하고 패턴이 없는 순수 난수를 만들어내는 장치 또는 기술을 이른다. '이지퀀트'는 신속한 온라인 인증(FIDO)을 기반으로 한 카드형 지문보안키에 양자난수생성기술을 결합한 것이다. '이지퀀트' 출시로 양자보안기술 적용 분야는 큰 폭으로 확대된다.",
+				"sentenceSize": 174
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "양자키분배기(QKD)를 기반으로 양자암호통신망을 공급한데 이어 양자난수생성기(QRNG)가 적용된 스마트폰(갤럭시 퀀텀)이 출시됐고 이번에 생체인증 기반 보안키가 추가됐다. '이지퀀트'는 기존 생체인증으로 수행하던 PC로그인 및 사내 업무에 필요한 모든 인증과 연동할 수 있다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카드키내에 있는 NFC 기능을 활용해 사무실 출입에도 이용할 수 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "FIDO 인증 서비스를 제공하는 모든 웹인증 서비스에서도 사용할 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "양자 난수(QRNG) 기술이 적용된 생체인증 보안키는 향후 금융서비스, 국방, 온라인 행정, 스마트 오피스 등으로 활용 분야가 확대될 것으로 전망된다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SK텔레콤과 IDQ, 옥타코는 양자보안 FIDO 생체인증 보안키의 글로벌 확산을 위해 올해 미국과 싱가폴 시장에 진출한다는 계획이다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKT, 양자보안 적용 '생체인증 카드키' 세계 첫 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

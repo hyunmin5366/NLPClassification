@@ -1,0 +1,285 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328508",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "삼성전자, 제품 보안 강화 방법 '달라졌네'",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 전자 제품 보안을 대폭 강화한다.\n삼성전자 소프트웨어센터에 안길준 시큐리티팀장(전무)을 영입한 데 이어 해킹대회와 시큐리티 테크포럼, 모바일 시큐리티 리워드 프로그램까지 시작했다.\n삼성전자가 외부 전문가 활용으로 제품과 서비스 보안 강화에 나서 주목된다.\n삼성전자는 지난 5월 안길준 애리조나주립대 교수를 시큐리티 팀장으로 영입한 것으로 파악됐다.\n안 팀장은 미국 정부와 금융권 보안 프로젝트에 참여했으며 ACM, IEEE 등 저널 리뷰어로 활동해 온 보안 전문가다.\n삼성전자 내부에 각 사업부별로 흩어진 보안을 총괄하는 역할을 맡은 것으로 알려졌다.\n국내외 전문가는 그간 삼성전자 제품과 서비스 보안성을 강화해야 한다고 지적해왔다.\n위키리크스는 CIA가 삼성 스마트TV 취약점을 악용해 도청도구로 활용한 사실을 폭로했다.\n글로벌 기업 명성에 맞는 보안 체계가 필요하다는 목소리가 높았다.\n삼성전자는 구글, 페이스북 등 글로벌 기업이 도입한 '버그 바운티'를 확대 적용한다.\n스마트TV에 한정했던 버그바운티를 모바일 기기까지 확대했다.\n최대 20만달러(약 2억2600만원)에 달하는 포상금을 내걸었다.\n버그 바운티는 모바일 기기와 소프트웨어(SW)에서 보안 취약점을 찾으면 보상하는 '모바일 시큐리티 리워드 프로그램'이다.\n이 프로그램은 삼성전자 스마트폰은 물론 빅스비(Bixby), 삼성 계정(Account), 삼성 페이, 삼성 패스 등에 적용된다.\n삼성전자는 보안 취약점 보상금으로 최소 200달러에서 최대 20만달러를 지급할 계획이다.\n삼성전자는 최상·상·중·하 등 4등급으로 보안 취약점 영향도와 중요성을 고려한 후 포상금을 지급한다.\n삼성전자는 올해 처음 해킹대회를 열었다.\n삼성전자가 필요한 보안 인력을 다각적으로 평가해 영입하려는 목적이다.\n삼성해킹대회는 공격, 방어, 코딩, 알고리즘, 역공학 5개 분야 문제가 나왔다.\n기존 공격과 방어에 치중한 대회와 성격이 다르다.\n삼성전자는 대회 결과를 바탕으로 필요한 인재를 영입한다.\n시큐리티 테크 포럼을 열며 사물인터넷(IoT) 시대 보안 방향도 제시했다.\n시큐리티 테크 포럼 주제는 삼성전자가 강점인 하드웨어와 IoT 기기 해킹의 미래를 다뤘다.\n글로벌 ICT 기업을 비롯해 각국 정부도 외부 보안 전문가를 활용한 제품과 서비스 보안을 향상을 꾀한다.\n구글은 2016년 50개국 350명 외부 보안전문가에 총 3억원을 지급했다.\n안드로이드콰 크롬 등 구글 대표 제품과 서비스에서 이들이 발견한 취약점은 1000개가 넘었다.\n페이스북 역시 총 5억원이 넘는 보안 취약점 포상금을 지급했다.\n미국 국방부는 지난해 '펜타곤을 해킹하라' 프로그램을 시행했다.\n올해는 공군도 호주, 캐나다, 뉴질랜드, 영국 보안전문가를 초청해 '공군을 해킹하라'를 운영했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 29,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 전자 제품 보안을 대폭 강화한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자 소프트웨어센터에 안길준 시큐리티팀장(전무)을 영입한 데 이어 해킹대회와 시큐리티 테크포럼, 모바일 시큐리티 리워드 프로그램까지 시작했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성전자가 외부 전문가 활용으로 제품과 서비스 보안 강화에 나서 주목된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "삼성전자는 지난 5월 안길준 애리조나주립대 교수를 시큐리티 팀장으로 영입한 것으로 파악됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "안 팀장은 미국 정부와 금융권 보안 프로젝트에 참여했으며 ACM, IEEE 등 저널 리뷰어로 활동해 온 보안 전문가다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자 내부에 각 사업부별로 흩어진 보안을 총괄하는 역할을 맡은 것으로 알려졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국내외 전문가는 그간 삼성전자 제품과 서비스 보안성을 강화해야 한다고 지적해왔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "위키리크스는 CIA가 삼성 스마트TV 취약점을 악용해 도청도구로 활용한 사실을 폭로했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "글로벌 기업 명성에 맞는 보안 체계가 필요하다는 목소리가 높았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "삼성전자는 구글, 페이스북 등 글로벌 기업이 도입한 '버그 바운티'를 확대 적용한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "스마트TV에 한정했던 버그바운티를 모바일 기기까지 확대했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "최대 20만달러(약 2억2600만원)에 달하는 포상금을 내걸었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "버그 바운티는 모바일 기기와 소프트웨어(SW)에서 보안 취약점을 찾으면 보상하는 '모바일 시큐리티 리워드 프로그램'이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이 프로그램은 삼성전자 스마트폰은 물론 빅스비(Bixby), 삼성 계정(Account), 삼성 페이, 삼성 패스 등에 적용된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "삼성전자는 보안 취약점 보상금으로 최소 200달러에서 최대 20만달러를 지급할 계획이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "삼성전자는 최상·상·중·하 등 4등급으로 보안 취약점 영향도와 중요성을 고려한 후 포상금을 지급한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "삼성전자는 올해 처음 해킹대회를 열었다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "삼성전자가 필요한 보안 인력을 다각적으로 평가해 영입하려는 목적이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "삼성해킹대회는 공격, 방어, 코딩, 알고리즘, 역공학 5개 분야 문제가 나왔다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "기존 공격과 방어에 치중한 대회와 성격이 다르다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "삼성전자는 대회 결과를 바탕으로 필요한 인재를 영입한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "시큐리티 테크 포럼을 열며 사물인터넷(IoT) 시대 보안 방향도 제시했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "시큐리티 테크 포럼 주제는 삼성전자가 강점인 하드웨어와 IoT 기기 해킹의 미래를 다뤘다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "글로벌 ICT 기업을 비롯해 각국 정부도 외부 보안 전문가를 활용한 제품과 서비스 보안을 향상을 꾀한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "구글은 2016년 50개국 350명 외부 보안전문가에 총 3억원을 지급했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "안드로이드콰 크롬 등 구글 대표 제품과 서비스에서 이들이 발견한 취약점은 1000개가 넘었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "페이스북 역시 총 5억원이 넘는 보안 취약점 포상금을 지급했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "미국 국방부는 지난해 '펜타곤을 해킹하라' 프로그램을 시행했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "올해는 공군도 호주, 캐나다, 뉴질랜드, 영국 보안전문가를 초청해 '공군을 해킹하라'를 운영했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자, 제품 보안 강화 방법 '달라졌네'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

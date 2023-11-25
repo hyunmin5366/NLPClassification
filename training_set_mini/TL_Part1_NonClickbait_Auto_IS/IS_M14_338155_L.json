@@ -1,0 +1,258 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338155",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "[카&테크]“사람 시력 뛰어넘는 정밀도”...자율주행차 '다기능 전방 인식 카메라'",
+		"newsSubTitle": "",
+		"newsContent": "자율주행에 이르기 위해선 자동차의 여러 기능을 구분해 사람보다 뛰어나게 해야 한다.\n이 중 주행환경 인지에 가장 핵심적인 것이 영상인식 기술이다.\n이 기술은 자동차 시스템에 '인공 시력'과 '인지 능력'을 부여하는 것으로 '다기능 전방 인식 카메라(MFC∙Multi Function Camera)'가 이 기능을 담당한다.\nMFC는 빛 신호를 디지털로 변환하는 '카메라 모듈부', 영상 분석을 담당하고 제어신호를 출력하는 '전자제어장치', 내장 부품을 보호하고 반사광과 전자파를 차단하는 '기구부'로 이뤄진다.\n카메라 모듈부는 렌즈와 이미지 센서로 구성된다.\n렌즈는 가시거리가 길지만 시야각이 좁은 협각 렌즈 또는 이와 반대인 광각 렌즈를 목적에 맞게 적용한다.\n이미지 센서는 피사체 정보를 전기적인 영상신호로 변환하는 부품이다.\n전자제어장치는 디지털신호처리프로세서와 마이컴으로 나눌 수 있다.\n디지털신호처리프로세서의 주요 기능은 영상의 밝기와 선명도, 색상 등을 사전에 튜닝하는 전처리 과정과 먼저 처리된 영상을 분석해 차선, 광원, 차량, 표지판, 신호등, 보행자 등 객체를 인식하는 기능이다.\n마이컴은 영상인식 결과와 자차 주행정보, 내비게이션 정보, 레이다∙센서∙고정밀 지도 등 제3의 데이터를 융합해 제동과 조향, 시트벨트 제어, 경보 등 차량 제어에 필요한 '전방 차량과 충돌까지 시간(TTC∙Time To Collision)' 등의 신호를 송신한다.\nMFC 핵심은 객체인식으로 디지털신호처리프로세서에 이식된 고유 알고리즘이 이 기능을 담당한다.\n마치 사람이 뇌에 축적된 과거 경험을 참조해 시각 정보의 잡음과 오류를 분류하고 인지하는 과정과 유사하게 객체를 인식한다.\n기계의 경우 '관심지역 설정→객체검출과 분류(인식)→추적' 순으로 진행한다.\n관심지역(ROI∙Region Of Interest) 설정은 먼 산, 하늘 등 안전을 위협하지 않는 원거리 객체는 식별할 필요가 없기 때문에 근접 객체 중심으로 우선 순위를 정하는 것이다.\n객체 검출과 분류는 패턴검출 방식으로 이뤄진다.\n전방 근접거리에 차량으로 추정되는 물체가 있다고 가정할 경우, 추정 물체에 차폭과 차고, 후미등 개수, 바퀴 위치 등 경우에 따라 적게는 10개부터 많게는 수백 개의 패턴 데이터 필터를 순차적으로 대입하면서 차량인지 아닌지를 판단하게 된다.\n중요 객체가 검출되고 분류되면, 시스템은 이 객체에 경계박스(Bounding Box)를 설정하고 위치, 크기 변화와 이동 방향을 탐색하는 기능을 수행한다.\n검출한 객체는 화소(pixel) 데이터를 분석해 정확한 형태를 추출한다. '화소 분할'이라 불리는 이 과정은 종이 오리기 놀이를 연상하면 이해하기 쉽다.\n예를 들어 같은 보행자라도 한 손을 위로 올린 사람과 한 발을 앞으로 내민 사람의 형상을 시스템이 구분하는 식이다.\nMFC는 이론적으로 이미 사람의 시력을 능가하고 있다.\n광각렌즈를 적용한 MFC의 경우 150도 범위까지 볼 수 있으며 740만화소 카메라의 경우 160m 밖 교통표지판 글자까지 고정밀 촬영이 가능하다.\n고감도 설정을 적용하면 달빛 정도 밝기에서도 보행자를 검출할 수 있다.\n이제 MFC의 객체 인식 성능이 비약적으로 향상될 차례다.\n객체인식은 프레임당 이미지에 대한 패턴정보(정답지)를 많이 보유할수록 유리하다.\n업계는 현재 수작업으로 패턴정보를 확보하는 과정을 인공지능과 딥러닝에 기반해 자동 라벨링으로 전환하기 위한 기술 경쟁이 치열하다.\n지역별 교통 환경과 무관하게 객체를 인식할 수 있도록 내장형 데이터베이스가 아닌 초고속 통신망과 클라우드서버 등을 활용한 외장형 데이터베이스도 개발될 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 26,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자율주행에 이르기 위해선 자동차의 여러 기능을 구분해 사람보다 뛰어나게 해야 한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 중 주행환경 인지에 가장 핵심적인 것이 영상인식 기술이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 기술은 자동차 시스템에 '인공 시력'과 '인지 능력'을 부여하는 것으로 '다기능 전방 인식 카메라(MFC∙Multi Function Camera)'가 이 기능을 담당한다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MFC는 빛 신호를 디지털로 변환하는 '카메라 모듈부', 영상 분석을 담당하고 제어신호를 출력하는 '전자제어장치', 내장 부품을 보호하고 반사광과 전자파를 차단하는 '기구부'로 이뤄진다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카메라 모듈부는 렌즈와 이미지 센서로 구성된다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "렌즈는 가시거리가 길지만 시야각이 좁은 협각 렌즈 또는 이와 반대인 광각 렌즈를 목적에 맞게 적용한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이미지 센서는 피사체 정보를 전기적인 영상신호로 변환하는 부품이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전자제어장치는 디지털신호처리프로세서와 마이컴으로 나눌 수 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "디지털신호처리프로세서의 주요 기능은 영상의 밝기와 선명도, 색상 등을 사전에 튜닝하는 전처리 과정과 먼저 처리된 영상을 분석해 차선, 광원, 차량, 표지판, 신호등, 보행자 등 객체를 인식하는 기능이다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "마이컴은 영상인식 결과와 자차 주행정보, 내비게이션 정보, 레이다∙센서∙고정밀 지도 등 제3의 데이터를 융합해 제동과 조향, 시트벨트 제어, 경보 등 차량 제어에 필요한 '전방 차량과 충돌까지 시간(TTC∙Time To Collision)' 등의 신호를 송신한다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "MFC 핵심은 객체인식으로 디지털신호처리프로세서에 이식된 고유 알고리즘이 이 기능을 담당한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "마치 사람이 뇌에 축적된 과거 경험을 참조해 시각 정보의 잡음과 오류를 분류하고 인지하는 과정과 유사하게 객체를 인식한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "기계의 경우 '관심지역 설정→객체검출과 분류(인식)→추적' 순으로 진행한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "관심지역(ROI∙Region Of Interest) 설정은 먼 산, 하늘 등 안전을 위협하지 않는 원거리 객체는 식별할 필요가 없기 때문에 근접 객체 중심으로 우선 순위를 정하는 것이다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "객체 검출과 분류는 패턴검출 방식으로 이뤄진다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "전방 근접거리에 차량으로 추정되는 물체가 있다고 가정할 경우, 추정 물체에 차폭과 차고, 후미등 개수, 바퀴 위치 등 경우에 따라 적게는 10개부터 많게는 수백 개의 패턴 데이터 필터를 순차적으로 대입하면서 차량인지 아닌지를 판단하게 된다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "중요 객체가 검출되고 분류되면, 시스템은 이 객체에 경계박스(Bounding Box)를 설정하고 위치, 크기 변화와 이동 방향을 탐색하는 기능을 수행한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "검출한 객체는 화소(pixel) 데이터를 분석해 정확한 형태를 추출한다. '화소 분할'이라 불리는 이 과정은 종이 오리기 놀이를 연상하면 이해하기 쉽다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "예를 들어 같은 보행자라도 한 손을 위로 올린 사람과 한 발을 앞으로 내민 사람의 형상을 시스템이 구분하는 식이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "MFC는 이론적으로 이미 사람의 시력을 능가하고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "광각렌즈를 적용한 MFC의 경우 150도 범위까지 볼 수 있으며 740만화소 카메라의 경우 160m 밖 교통표지판 글자까지 고정밀 촬영이 가능하다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "고감도 설정을 적용하면 달빛 정도 밝기에서도 보행자를 검출할 수 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이제 MFC의 객체 인식 성능이 비약적으로 향상될 차례다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "객체인식은 프레임당 이미지에 대한 패턴정보(정답지)를 많이 보유할수록 유리하다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "업계는 현재 수작업으로 패턴정보를 확보하는 과정을 인공지능과 딥러닝에 기반해 자동 라벨링으로 전환하기 위한 기술 경쟁이 치열하다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "지역별 교통 환경과 무관하게 객체를 인식할 수 있도록 내장형 데이터베이스가 아닌 초고속 통신망과 클라우드서버 등을 활용한 외장형 데이터베이스도 개발될 전망이다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[카&테크]“사람 시력 뛰어넘는 정밀도”...자율주행차 '다기능 전방 인식 카메라'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

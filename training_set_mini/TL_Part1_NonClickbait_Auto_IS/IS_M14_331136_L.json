@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331136",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "국가통계정보, 네이버로 통한다… 스마트폰 검색으로 해결",
+		"newsSubTitle": "",
+		"newsContent": "네이버 모바일 검색 한번으로 신뢰할 수 있는 국가통계정보를 얻을 수 있다.\n네이버(대표 한성숙)는 모바일 검색으로 통계청 국가통계포털(KOSIS)에서 구축한 정보를 〃제공한다고 28일 밝혔다.\n이용자가 경제와 사회, 건강 등 다양한 분야 통계 정보를 보다 쉽게 접할 수 있도록 했다.\n네이버 검색으로 접근할 수 있는 국가통계지표는 △인구가구 △고용노동 △경기물가가계 △보건복지 등 총 9개 주제 300여개 대표 통계지표와 800여 세부 지표 등이다.\n이용방법은 쉽다.\n네이버 모바일 검색창에 인구수나 청년실업률, 수출액 등과 같은 키워드를 입력하면 된다.\n관련 수치는 물론이고 키워드에 따라 연도·월별 추이 그래프, 연령별 지표, 시도별 지표, G20국제 지표까지 한번에 볼 수 있다고 네이버 측은 설명했다.\n네이버 관계자는 “모바일뿐만 아니라 PC 검색 결과에서도 통계청 정보를 접할 수 있도록 적용범위를 확대할 계획”이라면서 “인공지능 스마트 스피커로도 정보 확인이 가능해질 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버 모바일 검색 한번으로 신뢰할 수 있는 국가통계정보를 얻을 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버(대표 한성숙)는 모바일 검색으로 통계청 국가통계포털(KOSIS)에서 구축한 정보를 〃제공한다고 28일 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이용자가 경제와 사회, 건강 등 다양한 분야 통계 정보를 보다 쉽게 접할 수 있도록 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버 검색으로 접근할 수 있는 국가통계지표는 △인구가구 △고용노동 △경기물가가계 △보건복지 등 총 9개 주제 300여개 대표 통계지표와 800여 세부 지표 등이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이용방법은 쉽다.",
+				"sentenceSize": 9
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네이버 모바일 검색창에 인구수나 청년실업률, 수출액 등과 같은 키워드를 입력하면 된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "관련 수치는 물론이고 키워드에 따라 연도·월별 추이 그래프, 연령별 지표, 시도별 지표, G20국제 지표까지 한번에 볼 수 있다고 네이버 측은 설명했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "네이버 관계자는 “모바일뿐만 아니라 PC 검색 결과에서도 통계청 정보를 접할 수 있도록 적용범위를 확대할 계획”이라면서 “인공지능 스마트 스피커로도 정보 확인이 가능해질 것”이라고 말했다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국가통계정보, 네이버로 통한다… 스마트폰 검색으로 해결",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333092",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "코코링크, 슈퍼컴퓨팅 기반 고품질 에너지자원 탐사기술 국산화",
+		"newsSubTitle": "",
+		"newsContent": "에너지자원 탐사기술 수준을 비약적으로 끌어올릴 수 있는 소프트웨어(SW)가 상용화된다.\n에너지자원 탐사 분야에서 완전한 기술자립과 글로벌 경쟁력을 확보하게 됐다.\n슈퍼컴퓨팅 전문기업 코코링크(대표 이동학)는 18일 서울대 호암교수회관에서 석유탐사선이 초음파로 측정한 방대한 데이터값을 처리해 석유 매장 지층 구조도를 만드는 SW '룩솔 OGX'를 공개했다.\n이 SW는 신창수 서울대 자원공학과 교수가 개발한 완전파형 역산(FWI:Full Waveform Inversion) 기술을 기반으로 한 것이다.\n완전파형역산 기술은 탄성파 전달 속도를 통해 석유나 가스가 있을 것으로 추정되는 지층 내부 구조를 예측하는 에너지 자원 탐사자료 처리 기술이다.\n중합속도분석, 코히어런트 역산, 토모그라피 역산 등 기존 방식보다 월등한 정확도를 자랑하지만 처리 데이터가 방대해 실용화가 어려웠다.\n이론적으로는 매우 발전적인 기술이지만 과도한 컴퓨팅 파워를 요구했다.\n코코링크는 서울대 산학협력단을 통해 신창수 교수의 연구성과를 이전받아 룩솔OGX 개발을 완료했다.\n룩솔OGX는 코코링크의 독자 슈퍼컴퓨팅 기술과 SW최적화 기술을 적용해 석유시추와 같은 에너지자원 탐사자료를 처리한다.\n에너지자원 위치를 찾아내고 매장량을 평가하기 위해 지하 지층구조를 시각화한다.\n지금까지 거의 불가능한 것으로 여겨졌던 에너지자원 매장위치를 실제 그대로 정확한 지층 지질도로 그려낸다.\n코코링크는 기존보다 10배 이상 정확하게 석유∙가스 등 에너지 자원을 탐사할 수 있을 것으로 기대했다.\n코코링크는 FWI 원천기술에 슈퍼컴퓨팅 기술을 접목하고 이를 통해 데이터 처리 속도를 100배 이상 향상, 기술을 상용화했다고 밝혔다.\n코코링크는 GPU 기반 시스템 설계 및 응용프로그램 이식 작업에 주안점을 둬 고효율, 고성능을 구현했다.\nGPU가 20개 장착된 컴퓨터 시스템 20대로 2500㎢ 범위를 2개월만에 고품질로 처리할 수 있는 수준이다.\n그동안 100% 해외기술에 의존했던 에너지자원 탐사의 자료처리 기술을 상용화하는데 그치지 않고 고성능화와 고정밀화에도 성공해 완전한 기술자립과 실용화를 달성했다고 코코링크는 밝혔다.\n이동학 코코링크 대표는 \\\"해외 기술에 의존하던 에너지 자원 탐사 자료 처리 기술을 국산화했다는데 큰 의미가 있다\\\"면서 \\\"탄성파 탐사에서 요구되는 탄성파 자료취득, 자료처리, 자료해석 등 전 영역에서 세계 최고수준 기술력을 보유하게 됐다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "에너지자원 탐사기술 수준을 비약적으로 끌어올릴 수 있는 소프트웨어(SW)가 상용화된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "에너지자원 탐사 분야에서 완전한 기술자립과 글로벌 경쟁력을 확보하게 됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "슈퍼컴퓨팅 전문기업 코코링크(대표 이동학)는 18일 서울대 호암교수회관에서 석유탐사선이 초음파로 측정한 방대한 데이터값을 처리해 석유 매장 지층 구조도를 만드는 SW '룩솔 OGX'를 공개했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 SW는 신창수 서울대 자원공학과 교수가 개발한 완전파형 역산(FWI:Full Waveform Inversion) 기술을 기반으로 한 것이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "완전파형역산 기술은 탄성파 전달 속도를 통해 석유나 가스가 있을 것으로 추정되는 지층 내부 구조를 예측하는 에너지 자원 탐사자료 처리 기술이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중합속도분석, 코히어런트 역산, 토모그라피 역산 등 기존 방식보다 월등한 정확도를 자랑하지만 처리 데이터가 방대해 실용화가 어려웠다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이론적으로는 매우 발전적인 기술이지만 과도한 컴퓨팅 파워를 요구했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "코코링크는 서울대 산학협력단을 통해 신창수 교수의 연구성과를 이전받아 룩솔OGX 개발을 완료했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "룩솔OGX는 코코링크의 독자 슈퍼컴퓨팅 기술과 SW최적화 기술을 적용해 석유시추와 같은 에너지자원 탐사자료를 처리한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "에너지자원 위치를 찾아내고 매장량을 평가하기 위해 지하 지층구조를 시각화한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "지금까지 거의 불가능한 것으로 여겨졌던 에너지자원 매장위치를 실제 그대로 정확한 지층 지질도로 그려낸다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "코코링크는 기존보다 10배 이상 정확하게 석유∙가스 등 에너지 자원을 탐사할 수 있을 것으로 기대했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "코코링크는 FWI 원천기술에 슈퍼컴퓨팅 기술을 접목하고 이를 통해 데이터 처리 속도를 100배 이상 향상, 기술을 상용화했다고 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "코코링크는 GPU 기반 시스템 설계 및 응용프로그램 이식 작업에 주안점을 둬 고효율, 고성능을 구현했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "GPU가 20개 장착된 컴퓨터 시스템 20대로 2500㎢ 범위를 2개월만에 고품질로 처리할 수 있는 수준이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "그동안 100% 해외기술에 의존했던 에너지자원 탐사의 자료처리 기술을 상용화하는데 그치지 않고 고성능화와 고정밀화에도 성공해 완전한 기술자립과 실용화를 달성했다고 코코링크는 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이동학 코코링크 대표는 \\\"해외 기술에 의존하던 에너지 자원 탐사 자료 처리 기술을 국산화했다는데 큰 의미가 있다\\\"면서 \\\"탄성파 탐사에서 요구되는 탄성파 자료취득, 자료처리, 자료해석 등 전 영역에서 세계 최고수준 기술력을 보유하게 됐다\\\"고 말했다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코코링크, 슈퍼컴퓨팅 기반 고품질 에너지자원 탐사기술 국산화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

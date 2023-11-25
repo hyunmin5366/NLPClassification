@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336593",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "AMD, 서버·노트북·PC 시장서 점유율 확대",
+		"newsSubTitle": "",
+		"newsContent": "AMD가 서버, 데스크톱, 노트북 시장에서 약진하고 있다는 조사 결과가 나왔다.\n11일 시장조사업체 머큐리리서치에 따르면 AMD는 작년 4분기 서버, 데스크톱, 노트북 시장에서 각각 3.2%, 15.8%, 12.1%를 점유한 것으로 나타났다.\n이는 전분기와 작년 동기 대비 모두 성장한 수치다.\n서버는 직전 분기 대비 1.5%포인트(P), 작년 동기 대비 2.4%P 늘었다.\n데스크톱은 각각 2.8%P, 3.9%P 증가했고, 노트북은 1.3%P, 5.3%P 늘었다.\n서버와 데스크톱 점유율은 2014년 이후, 노트북은 2013년 이후 가장 높은 것이라고 머큐리리서치는 설명했다.\n경쟁사인 인텔에 밀려 그간 고전을 면치 못했던 AMD는 2017년 '젠(Zen)' 아키텍처 기반 PC용 CPU인 라이젠과 서버용 CPU 에픽 등 경쟁력 있는 제품을 출시하며 분위기를 반전시키는 모습이다.\n최근 발표된 실적에서도 AMD는 지난해 매출 64억8000만달러를 기록, 2년 연속 성장을 달성했다.\n리사 수 AMD 최고경영자(CEO)는 작년 실적을 설명하며 \\\"2년 연속 매출이 크게 늘었고 시장점유율과 매출 총 이익률이 확대됐다\\\"고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "AMD가 서버, 데스크톱, 노트북 시장에서 약진하고 있다는 조사 결과가 나왔다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 시장조사업체 머큐리리서치에 따르면 AMD는 작년 4분기 서버, 데스크톱, 노트북 시장에서 각각 3.2%, 15.8%, 12.1%를 점유한 것으로 나타났다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 전분기와 작년 동기 대비 모두 성장한 수치다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서버는 직전 분기 대비 1.5%포인트(P), 작년 동기 대비 2.4%P 늘었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "데스크톱은 각각 2.8%P, 3.9%P 증가했고, 노트북은 1.3%P, 5.3%P 늘었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서버와 데스크톱 점유율은 2014년 이후, 노트북은 2013년 이후 가장 높은 것이라고 머큐리리서치는 설명했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "경쟁사인 인텔에 밀려 그간 고전을 면치 못했던 AMD는 2017년 '젠(Zen)' 아키텍처 기반 PC용 CPU인 라이젠과 서버용 CPU 에픽 등 경쟁력 있는 제품을 출시하며 분위기를 반전시키는 모습이다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근 발표된 실적에서도 AMD는 지난해 매출 64억8000만달러를 기록, 2년 연속 성장을 달성했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "리사 수 AMD 최고경영자(CEO)는 작년 실적을 설명하며 \\\"2년 연속 매출이 크게 늘었고 시장점유율과 매출 총 이익률이 확대됐다\\\"고 강조했다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AMD, 서버·노트북·PC 시장서 점유율 확대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003507",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "NH농협은행, 인도에 의료용 산소발생기 50대 지원",
+		"newsSubTitle": "현지 의료기관과 교민·주재원 사회에서 사용 예정",
+		"newsContent": "NH농협은행은 최근 코로나19의 급격한 확산으로 고통 받고 있는 인도에 '의료용 산소발생기' 50대를 지원한다고 18일 밝혔다.\n최근 인도 내 코로나19 신규 감염자 수는 전파력이 강한 '이중 변이 바이러스(B1617)'의 확산 및 종교행사 등의 영향으로 지난 달 기준 일평균 38만 명을 기록하고 있다.\n치료를 위한 방역·보건 물품과 의료시설이 매우 부족한 상황이다.\n농협은행 관계자는 미디어SR에 \\\"전달된 산소발생기는 인도지역의 의료 환경 지원을 위하여 현지 의료기관과 교민·주재원 사회에서 사용될 예정\\\"이라고 설명했다.\n해당 의료용 산소발생기는 '인도 적십자사'와 '주인도대한민국대사관'을 통해 전달될 예정이다.\n권준학 은행장은 \\\"인도의 코로나19 심각 단계에 따른 피해 소식을 접하고 어려운 시기를 극복하는데 조금이나마 보탬이 되고자 기부에 동참했다\\\"며 \\\"사태가 하루빨리 진정돼 인도 국민과 교민들이 건강한 일상을 되찾길 바란다\\\"고 밝혔다.\n한편, 농협은행은 인도 구르가온에 대표사무소를 두고 있으며 노이다 지점 개설을 추진하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "NH농협은행은 최근 코로나19의 급격한 확산으로 고통 받고 있는 인도에 '의료용 산소발생기' 50대를 지원한다고 18일 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 인도 내 코로나19 신규 감염자 수는 전파력이 강한 '이중 변이 바이러스(B1617)'의 확산 및 종교행사 등의 영향으로 지난 달 기준 일평균 38만 명을 기록하고 있다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "치료를 위한 방역·보건 물품과 의료시설이 매우 부족한 상황이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "농협은행 관계자는 미디어SR에 \\\"전달된 산소발생기는 인도지역의 의료 환경 지원을 위하여 현지 의료기관과 교민·주재원 사회에서 사용될 예정\\\"이라고 설명했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 의료용 산소발생기는 '인도 적십자사'와 '주인도대한민국대사관'을 통해 전달될 예정이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "권준학 은행장은 \\\"인도의 코로나19 심각 단계에 따른 피해 소식을 접하고 어려운 시기를 극복하는데 조금이나마 보탬이 되고자 기부에 동참했다\\\"며 \\\"사태가 하루빨리 진정돼 인도 국민과 교민들이 건강한 일상을 되찾길 바란다\\\"고 밝혔다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 농협은행은 인도 구르가온에 대표사무소를 두고 있으며 노이다 지점 개설을 추진하고 있다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[원자잿값 추락]슈퍼사이클 꺾였다…\\\"경기둔화 수출기업 직격탄\\\"(종합)",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

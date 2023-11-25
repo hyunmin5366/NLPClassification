@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324219",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "[2020 핫이슈-해외] 도쿄 올림픽 TV 전쟁",
+		"newsSubTitle": "",
+		"newsContent": "새해 일본 도쿄 올림픽 개최로 TV 업계는 치열한 진검승부를 예고했다.\n올림픽과 같은 대형 스포츠 이벤트가 열리는 해엔 TV 판매량이 예년 대비 높기 때문이다.\nTV 제조사들은 마케팅을 확대하며 시장 점유율 확보에 주력할 예정이다.\nIHS마킷에 따르면 2020년 TV 예상 판매량은 2억2753만대로 작년 대비 3.3% 성장할 것으로 예측된다.\n8K 시장 확대도 기대된다.\n도쿄 올림픽은 최초로 8K로 중계될 예정이다.\n삼성전자와 LG전자도 새해 확대된 8K TV 라인업을 공개할 예정이다.\n일본 소니, 파나소닉, 샤프도 2020년형 8K TV 제품군을 대거 확충한다.\n빅카메라 등 장비 업체와 대형 가전 유통 업체도 8K TV를 대대적으로 홍보하고 있다.\n도쿄 올림픽을 계기로 8K 시장이 크게 성장할 것으로 전망된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "새해 일본 도쿄 올림픽 개최로 TV 업계는 치열한 진검승부를 예고했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올림픽과 같은 대형 스포츠 이벤트가 열리는 해엔 TV 판매량이 예년 대비 높기 때문이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "TV 제조사들은 마케팅을 확대하며 시장 점유율 확보에 주력할 예정이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "IHS마킷에 따르면 2020년 TV 예상 판매량은 2억2753만대로 작년 대비 3.3% 성장할 것으로 예측된다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "8K 시장 확대도 기대된다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "도쿄 올림픽은 최초로 8K로 중계될 예정이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자와 LG전자도 새해 확대된 8K TV 라인업을 공개할 예정이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "일본 소니, 파나소닉, 샤프도 2020년형 8K TV 제품군을 대거 확충한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "빅카메라 등 장비 업체와 대형 가전 유통 업체도 8K TV를 대대적으로 홍보하고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "도쿄 올림픽을 계기로 8K 시장이 크게 성장할 것으로 전망된다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2020 핫이슈-해외] 도쿄 올림픽 TV 전쟁",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

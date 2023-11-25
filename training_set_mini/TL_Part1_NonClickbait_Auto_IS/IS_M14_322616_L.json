@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322616",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "페이스북, 백신 관련 거짓정보 집중 단속한다",
+		"newsSubTitle": "",
+		"newsContent": "페이스북이 백신 관련 거짓정보 집중 관리에 나선다.\n페이스북 뉴스룸 블로그에서 모니카 비커트(Monica Bickert) 글로벌 정책 부사장은 백신 관련 잘못된 정보를 포함한 그룹·페이지는 검색 결과와 뉴스 피드 페이지에서 내린다고 밝혔다.\n백신 관련 거짓 광고를 없애고 광고업자가 '백신 논란'에 관심을 보이는 사용자 타기팅을 금지한다.\n이번 발표 배경은 지난달 아담 시프 미국 민주당 하원 의장이 마크 저커버그 페이스북 CEO를 공개 비판한 글에서 시작한다.\n의장은 어린아이에게 백신관련 정보가 쉽게 흘러갈 수 있는 소셜미디어 구조를 비판했다.\n소셜미디어에 떠도는 잘못된 정보가 공중 보건에 큰 위협이 될 수 있기 때문이다.\n그는 “페이스북·아마존 등을 포함한 모든 온라인 플랫폼은 공공 건강에 있어 재난이 발생하지 않도록 책임감을 가져야 한다”고 말했다.\n페이스북은 이번 발표와 관련해 정확한 백신 정보 전달 방법을 업데이트 할 예정이라 밝혔다.\n비커트 부사장은 “WHO와 미국 질병 관리본부센터에서 검증 가능한 거짓 백신 소문을 확인했다”며 “이러한 거짓 정보가 페이스북에 나타나면 그에 맞는 조취를 취하겠다”고 밝혔다.\n페이스북 코리아 관계자는 “의약품 백신 관련 페이스북 정책은 글로벌 정책으로 한국에서도 동일하게 적용한다”며 “다만 언어 차이로 백신 관련 게시글을 감지하는 데 시차가 있을 수 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "페이스북이 백신 관련 거짓정보 집중 관리에 나선다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "페이스북 뉴스룸 블로그에서 모니카 비커트(Monica Bickert) 글로벌 정책 부사장은 백신 관련 잘못된 정보를 포함한 그룹·페이지는 검색 결과와 뉴스 피드 페이지에서 내린다고 밝혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "백신 관련 거짓 광고를 없애고 광고업자가 '백신 논란'에 관심을 보이는 사용자 타기팅을 금지한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 발표 배경은 지난달 아담 시프 미국 민주당 하원 의장이 마크 저커버그 페이스북 CEO를 공개 비판한 글에서 시작한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "의장은 어린아이에게 백신관련 정보가 쉽게 흘러갈 수 있는 소셜미디어 구조를 비판했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소셜미디어에 떠도는 잘못된 정보가 공중 보건에 큰 위협이 될 수 있기 때문이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 “페이스북·아마존 등을 포함한 모든 온라인 플랫폼은 공공 건강에 있어 재난이 발생하지 않도록 책임감을 가져야 한다”고 말했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "페이스북은 이번 발표와 관련해 정확한 백신 정보 전달 방법을 업데이트 할 예정이라 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "비커트 부사장은 “WHO와 미국 질병 관리본부센터에서 검증 가능한 거짓 백신 소문을 확인했다”며 “이러한 거짓 정보가 페이스북에 나타나면 그에 맞는 조취를 취하겠다”고 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "페이스북 코리아 관계자는 “의약품 백신 관련 페이스북 정책은 글로벌 정책으로 한국에서도 동일하게 적용한다”며 “다만 언어 차이로 백신 관련 게시글을 감지하는 데 시차가 있을 수 있다”고 말했다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "페이스북, 백신 관련 거짓정보 집중 단속한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

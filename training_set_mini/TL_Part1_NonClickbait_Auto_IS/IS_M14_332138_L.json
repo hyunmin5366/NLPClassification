@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332138",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "재이랩스, 의료 데이터 전문 라벨링 솔루션으로 주목",
+		"newsSubTitle": "",
+		"newsContent": "재이랩스가 의료 인공지능(AI) 개발을 위한 필수 단계인 데이터 라벨링(전처리) 과정을 반자동화해주는 솔루션으로 주목받고 있다.\n이준호 재이랩스 대표는 “딥러닝 기술을 활용해 기존 의료 영상 라벨링 작업 비용과 시간을 10분의 1 수준으로 절감시켜주고 개발 지식이 없는 의료진도 쉽게 사용할 수 있는 솔루션”이라며 “의료 AI 개발에 드는 비용과 시간을 단축하고 누구나 AI를 연구할 수 있는 환경을 만들겠다”고 13일 밝혔다.\n올해 1월 설립된 재이랩스는 의료 영상 데이터를 빠르게 라벨링해주는 반자동 의료 이미지 라벨링 솔루션 '메디라벨'을 개발해 국내 병원에 공급하고 있다.\n프토토타입 제품에도 불구하고 세브란스병원, 삼성서울병원, 서울성모병원 등에서 많은 의료진이 사용하고 있다.\nAI 진단 소프트웨어를 개발하기 위해 꼭 필요한 것이 라벨링 데이터다.\n잘못된 데이터를 토대로 AI를 학습시킬 경우 엉뚱한 진단을 내릴 수 있어 의료 데이터 라벨링은 높은 전문성과 정확도를 요구한다.\n다른 산업군에 비해 높은 비용과 많은 시간이 들어 의료 AI 연구에 병목 과정으로도 꼽힌다.\n기존 복부 컴퓨터단층촬영(CT) 이미지를 라벨링 하려면 뼈, 지방, 근육, 장기, 병변 등에 대해 의료진이 일일이 수작업으로 경계선을 그리고 색칠해야했다.\n의료 지식이 있는 숙련된 의료진이 작업해야하는데다 경계선을 정확히 그리기 어려웠다.\n기존 라벨링 소프트웨어는 의료 영상에 특화되지 않아 정확도가 떨어지고 시간이 오래 걸리는 문제가 있었다.\n재이랩스가 개발한 '메디라벨'은 의료진이 라벨링을 쉽게 할 수 있도록 몇 번의 클릭만으로 부위별 영역을 자동 지정해준다.\n수정이 필요한 부분은 연구자가 수작업으로 고칠 수 있다.\n미세 결절이나 미세 출혈도 잡아낼 수 있게 정확도도 높였다.\n결절이 너무 미세해 일일이 세그멘테이션(분할)이 어려운 경우 면 자체를 라벨링 해주거나 CT 같은 3D 영상을 라벨링할 때 일부 2D 슬라이스만 작업하면 나머지 슬라이스를 AI가 자동으로 라벨링해주는 기능도 갖췄다.\n이 대표는 “메디라벨을 사용하면 의료 영상을 세그멘테이션 하는데 필요한 클릭수를 기존에 비해 10분의 1로 줄인다”면서 “의료 데이터 라벨링을 전문 회사는 유일하다보니 의료진들의 수요가 늘고 있다”고 설명했다.\n재이랩스는 메디라벨 정식 버전 출시를 준비하고 있다.\n범부처 전주기 의료기기 연구개발사업 '의료기기 성능 평가 방법과 데이터 레이블링 국제 표준 및 기준 데이터 개발' 사업에 선정돼 데이터 라벨링에 대한 국제 표준을 만드는 작업도 진행하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "재이랩스가 의료 인공지능(AI) 개발을 위한 필수 단계인 데이터 라벨링(전처리) 과정을 반자동화해주는 솔루션으로 주목받고 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이준호 재이랩스 대표는 “딥러닝 기술을 활용해 기존 의료 영상 라벨링 작업 비용과 시간을 10분의 1 수준으로 절감시켜주고 개발 지식이 없는 의료진도 쉽게 사용할 수 있는 솔루션”이라며 “의료 AI 개발에 드는 비용과 시간을 단축하고 누구나 AI를 연구할 수 있는 환경을 만들겠다”고 13일 밝혔다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올해 1월 설립된 재이랩스는 의료 영상 데이터를 빠르게 라벨링해주는 반자동 의료 이미지 라벨링 솔루션 '메디라벨'을 개발해 국내 병원에 공급하고 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "프토토타입 제품에도 불구하고 세브란스병원, 삼성서울병원, 서울성모병원 등에서 많은 의료진이 사용하고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "AI 진단 소프트웨어를 개발하기 위해 꼭 필요한 것이 라벨링 데이터다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "잘못된 데이터를 토대로 AI를 학습시킬 경우 엉뚱한 진단을 내릴 수 있어 의료 데이터 라벨링은 높은 전문성과 정확도를 요구한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다른 산업군에 비해 높은 비용과 많은 시간이 들어 의료 AI 연구에 병목 과정으로도 꼽힌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기존 복부 컴퓨터단층촬영(CT) 이미지를 라벨링 하려면 뼈, 지방, 근육, 장기, 병변 등에 대해 의료진이 일일이 수작업으로 경계선을 그리고 색칠해야했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "의료 지식이 있는 숙련된 의료진이 작업해야하는데다 경계선을 정확히 그리기 어려웠다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "기존 라벨링 소프트웨어는 의료 영상에 특화되지 않아 정확도가 떨어지고 시간이 오래 걸리는 문제가 있었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "재이랩스가 개발한 '메디라벨'은 의료진이 라벨링을 쉽게 할 수 있도록 몇 번의 클릭만으로 부위별 영역을 자동 지정해준다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "수정이 필요한 부분은 연구자가 수작업으로 고칠 수 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "미세 결절이나 미세 출혈도 잡아낼 수 있게 정확도도 높였다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "결절이 너무 미세해 일일이 세그멘테이션(분할)이 어려운 경우 면 자체를 라벨링 해주거나 CT 같은 3D 영상을 라벨링할 때 일부 2D 슬라이스만 작업하면 나머지 슬라이스를 AI가 자동으로 라벨링해주는 기능도 갖췄다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이 대표는 “메디라벨을 사용하면 의료 영상을 세그멘테이션 하는데 필요한 클릭수를 기존에 비해 10분의 1로 줄인다”면서 “의료 데이터 라벨링을 전문 회사는 유일하다보니 의료진들의 수요가 늘고 있다”고 설명했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "재이랩스는 메디라벨 정식 버전 출시를 준비하고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "범부처 전주기 의료기기 연구개발사업 '의료기기 성능 평가 방법과 데이터 레이블링 국제 표준 및 기준 데이터 개발' 사업에 선정돼 데이터 라벨링에 대한 국제 표준을 만드는 작업도 진행하고 있다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "재이랩스, 의료 데이터 전문 라벨링 솔루션으로 주목",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

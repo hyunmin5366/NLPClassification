@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339688",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "주니퍼네트웍스, AI스피커 노리는 '스킬스쿼팅' 위협 증가 전망",
+		"newsSubTitle": "",
+		"newsContent": "인공지능(AI) 스피커를 노려 사용자 정보를 탈취하는 공격이 늘어날 전망이다.\n주니퍼네트웍스는 올해 '스킬스쿼팅(Skill-Squatting)' 위협이 본격화될 것으로 예상했다.\n특정 음성 요청을 탐지, AI스피커가 작업을 실행하기 전에 빼돌리는 신종 보안위협이다.\nAI스피커가 널리 보급되면서 구두명령으로 작업을 실행하도록 지시하는 '스킬'도 보편화했다.\nAI스피커에 들어있는 가상비서를 불러 콘텐츠를 즐기거나 연결된 기기를 음성으로 제어한다.\n공격자는 키보드 등 PC 입력장치와 달리 음성 인터페이스에는 아직 별다른 보안조치가 강구되지 않은 점을 이용한다.\n음성인식은 아직 주인 목소리까지 명확히 구분하는 수준이 아니다.\n공격자는 인터넷에 연결된 AI스피커에 악성코드를 심어 특정 키워드를 다르게 인식하거나 별도 작업을 수행한다.\n감염된 AI스피커가 '주방에 음악 틀어줘'와 같은 명령을 받아 수행할 때 와이파이, 홈네트워크, 비밀번호 등 개인정보를 사용자 모르게 공격자에게 보내는 식이다.\n전자신문이 지난해 10월 조사한 결과, 시중에 판매되는 AI스피커 제품에는 평균 350여개에 이르는 보안 취약점이 방치된 것으로 나타났다.\n딜로이트가 지난달 발표한 보고서에 따르면 AI스피커는 지난해 전 세계에서 평균 4만8000원 가격으로 1억6400만개가 팔렸다.\n올해 60% 성장해 70억달러 규모에 달할 전망이다.\n주니퍼네트웍스는 AI스피커 시장이 성장하면서 스킬스쿼팅 위협도 늘어날 것으로 내다봤다.\n오동열 한국주니퍼네트웍스 상무는 \\\"기존 주요 공격 대상이었던 PC와 달리 임베디드 시스템과 사물인터넷(IoT) 기기는 보안이 취약하다\\\"면서 \\\"IoT 기기 중 확산이 빠른 AI스피커에 대한 공격이 늘어날 것으로 예상된다\\\"고 밝혔다.\n주니퍼네트웍스는 올해 개인정보보호법 위반∙침해에 따른 벌금이 2000% 증가하고, 크립토재킹(암호화폐 채굴∙탈취) 공격도 10배 늘어날 것으로 예측했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI) 스피커를 노려 사용자 정보를 탈취하는 공격이 늘어날 전망이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주니퍼네트웍스는 올해 '스킬스쿼팅(Skill-Squatting)' 위협이 본격화될 것으로 예상했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특정 음성 요청을 탐지, AI스피커가 작업을 실행하기 전에 빼돌리는 신종 보안위협이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AI스피커가 널리 보급되면서 구두명령으로 작업을 실행하도록 지시하는 '스킬'도 보편화했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "AI스피커에 들어있는 가상비서를 불러 콘텐츠를 즐기거나 연결된 기기를 음성으로 제어한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공격자는 키보드 등 PC 입력장치와 달리 음성 인터페이스에는 아직 별다른 보안조치가 강구되지 않은 점을 이용한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "음성인식은 아직 주인 목소리까지 명확히 구분하는 수준이 아니다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공격자는 인터넷에 연결된 AI스피커에 악성코드를 심어 특정 키워드를 다르게 인식하거나 별도 작업을 수행한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "감염된 AI스피커가 '주방에 음악 틀어줘'와 같은 명령을 받아 수행할 때 와이파이, 홈네트워크, 비밀번호 등 개인정보를 사용자 모르게 공격자에게 보내는 식이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "전자신문이 지난해 10월 조사한 결과, 시중에 판매되는 AI스피커 제품에는 평균 350여개에 이르는 보안 취약점이 방치된 것으로 나타났다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "딜로이트가 지난달 발표한 보고서에 따르면 AI스피커는 지난해 전 세계에서 평균 4만8000원 가격으로 1억6400만개가 팔렸다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "올해 60% 성장해 70억달러 규모에 달할 전망이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "주니퍼네트웍스는 AI스피커 시장이 성장하면서 스킬스쿼팅 위협도 늘어날 것으로 내다봤다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "오동열 한국주니퍼네트웍스 상무는 \\\"기존 주요 공격 대상이었던 PC와 달리 임베디드 시스템과 사물인터넷(IoT) 기기는 보안이 취약하다\\\"면서 \\\"IoT 기기 중 확산이 빠른 AI스피커에 대한 공격이 늘어날 것으로 예상된다\\\"고 밝혔다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "주니퍼네트웍스는 올해 개인정보보호법 위반∙침해에 따른 벌금이 2000% 증가하고, 크립토재킹(암호화폐 채굴∙탈취) 공격도 10배 늘어날 것으로 예측했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "주니퍼네트웍스, AI스피커 노리는 '스킬스쿼팅' 위협 증가 전망",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

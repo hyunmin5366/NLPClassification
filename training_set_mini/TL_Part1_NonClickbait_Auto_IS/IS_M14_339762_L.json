@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339762",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "플랫폼·유통",
+		"newsTitle": "日닛산, 차량 116만대 리콜 신고",
+		"newsSubTitle": "",
+		"newsContent": "일본 닛산자동차가 검사 자격이 없는 종업원이 완성차를 검사해 문제가 된 데 대해 38종 차량 116만대를 리콜(무료회수∙수리)한다. 7일 닛산자동차에 따르면 2014년 1월부터 지난 9월 사이에 제조된 노트, 세레나 등 총 38개 차종을 리콜하겠다고 국토교통성에 신고했다.\n리콜 비용은 250억엔(약 2550억원)으로 추산하고 있다.\n당초 닛산 측은 리콜 대상 차량이 121만대에 달할 것으로 예상했으나, 추가 조사 결과 상용차 등 일부는 출하 후 정상적인 차량검사를 받은 것으로 확인돼 리콜 대상에서 제외됐다.\n차종별로는 노트가 35만대, 세레나 23만대, 엑스트레일 17만대 등이었다.\n이번 리콜은 닛산 측이 정부를 대신해 브레이크 안전검사 등을 하면서 검사 자격증이 없는 사원을 투입해서 문제가 됐다.\n일본 도로운수차량법은 안전검사를 자동차 업체에 대행하는 것을 인정하되, 검사 자격증을 갖춘 종업원들만이 할 수 있도록 하고 있다.\n그러나 닛산은 일본 내 6개 전 공장에서 무자격 종업원을 투입해 검사를 한 것이 적발됐다.\n닛산 측은 해당 차량의 안전성에는 문제가 없는 것으로 파악됐다면서도 출하 후 한 번도 차량검사를 받지 않은 차량은 재점검이 필요하다고 보고 리콜을 결정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 닛산자동차가 검사 자격이 없는 종업원이 완성차를 검사해 문제가 된 데 대해 38종 차량 116만대를 리콜(무료회수∙수리)한다. 7일 닛산자동차에 따르면 2014년 1월부터 지난 9월 사이에 제조된 노트, 세레나 등 총 38개 차종을 리콜하겠다고 국토교통성에 신고했다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "리콜 비용은 250억엔(약 2550억원)으로 추산하고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당초 닛산 측은 리콜 대상 차량이 121만대에 달할 것으로 예상했으나, 추가 조사 결과 상용차 등 일부는 출하 후 정상적인 차량검사를 받은 것으로 확인돼 리콜 대상에서 제외됐다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "차종별로는 노트가 35만대, 세레나 23만대, 엑스트레일 17만대 등이었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 리콜은 닛산 측이 정부를 대신해 브레이크 안전검사 등을 하면서 검사 자격증이 없는 사원을 투입해서 문제가 됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일본 도로운수차량법은 안전검사를 자동차 업체에 대행하는 것을 인정하되, 검사 자격증을 갖춘 종업원들만이 할 수 있도록 하고 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 닛산은 일본 내 6개 전 공장에서 무자격 종업원을 투입해 검사를 한 것이 적발됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "닛산 측은 해당 차량의 안전성에는 문제가 없는 것으로 파악됐다면서도 출하 후 한 번도 차량검사를 받지 않은 차량은 재점검이 필요하다고 보고 리콜을 결정했다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "日닛산, 차량 116만대 리콜 신고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

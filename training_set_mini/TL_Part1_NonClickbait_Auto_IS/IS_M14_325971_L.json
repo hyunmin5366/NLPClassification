@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325971",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "이통유통協, 애플 공정위에 신고",
+		"newsSubTitle": "",
+		"newsContent": "휴대폰 유통점이 이동통신사를 통해 시연폰(데모폰) 구입을 요구한 행위가 갑질이라고 주장, 공정거래위원회(이하 공정위)에 애플을 신고하기로 했다.\n전국이동통신유통협회는 애플이 아이폰을 출시할 때마다 시연폰 구입비용과 전시비용을 유통점에 전가했고, 시연폰 판매는 출시 1년 이후에 가능하도록 제약을 걸었다고 주장했다.\n시연폰을 구입하지 않으면 아이폰 판매가 불가하다고 덧붙였다.\n유통점은 정상 출고가 70%를 지불하고 아이폰을 구입할 수 있었지만 아이폰XS(텐에스)·아이폰XS 맥스·아이폰XR(텐아르) 시연폰 구입비용이 274만원에 달해 부담이 컸다고 주장했다.\n삼성전자·LG전자는 시연폰을 전량 지원, 진열 기간 종료 후 회수한다고 설명했다.\n매장당 연간 300만원을 상회하는 애플 단말기 시연공간(애플존) 설치비·유지비도 유통점에 전가했다고도 설명했다.\n협회는 “이통사가 책임져야 할 비용 문제를 유통망에 떠넘기는 무책임한 행태도 비판 대상”이라며 “애플과 이통사는 10년간 유통망에 부당하고 불공정하게 전가돼 온 피해액을 보상해야 한다”고 요구했다.\n이통사는 대리점에 시연폰을 강매한 것은 사실과 다르다고 해명했다.\n다만 애플과 계약 내용을 모두 공개할 순 없다고 덧붙였다.\n애플코리아는 휴대폰 유통점 주장에 별도 입장을 내놓지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "휴대폰 유통점이 이동통신사를 통해 시연폰(데모폰) 구입을 요구한 행위가 갑질이라고 주장, 공정거래위원회(이하 공정위)에 애플을 신고하기로 했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전국이동통신유통협회는 애플이 아이폰을 출시할 때마다 시연폰 구입비용과 전시비용을 유통점에 전가했고, 시연폰 판매는 출시 1년 이후에 가능하도록 제약을 걸었다고 주장했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시연폰을 구입하지 않으면 아이폰 판매가 불가하다고 덧붙였다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유통점은 정상 출고가 70%를 지불하고 아이폰을 구입할 수 있었지만 아이폰XS(텐에스)·아이폰XS 맥스·아이폰XR(텐아르) 시연폰 구입비용이 274만원에 달해 부담이 컸다고 주장했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성전자·LG전자는 시연폰을 전량 지원, 진열 기간 종료 후 회수한다고 설명했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매장당 연간 300만원을 상회하는 애플 단말기 시연공간(애플존) 설치비·유지비도 유통점에 전가했다고도 설명했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "협회는 “이통사가 책임져야 할 비용 문제를 유통망에 떠넘기는 무책임한 행태도 비판 대상”이라며 “애플과 이통사는 10년간 유통망에 부당하고 불공정하게 전가돼 온 피해액을 보상해야 한다”고 요구했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이통사는 대리점에 시연폰을 강매한 것은 사실과 다르다고 해명했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "다만 애플과 계약 내용을 모두 공개할 순 없다고 덧붙였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "애플코리아는 휴대폰 유통점 주장에 별도 입장을 내놓지 않았다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이통유통協, 애플 공정위에 신고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353610",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "우크라·러 사이버전 확산에…위기경보 '관심→주의' 상향",
+		"newsSubTitle": "null",
+		"newsContent": "과학기술정보통신부와 국가정보원은 민간 분야 국가 사이버위기 경보를 '관심'에서 '주의'로 상향 조정한다고 21일 밝혔다.\n사이버위기 경보는 총 다섯 단계로 '정상→관심→주의→경계→심각' 등이다.\n이번 조치는 최근 우크라이나 사태 관련 사이버전이 전세계로 확산하고 국내 기업을 노린 랜섬웨어 공격과 정보 유출사고가 발생한 데 따른 것이다.\n또 정부 교체기를 겨냥해 정책자료를 입수하려는 해킹 시도도 우려된다.\n이에 따라 정부부처와 지자체, 공공기관 등은 자체 '긴급대응반'을 가동해 기술·관리적 보안대책을 시행하고, 위협 모니터링을 강화하는 등 사이버 대비 태세를 강화해야 한다.\n일반 국민은 사회적 이슈 등을 악용한 스미싱 주의 등 정보보안수칙을 준수하고 사이버위협 공격 징후를 발견하거나 피해를 입을 경우 즉시 118에 신고해야한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학기술정보통신부와 국가정보원은 민간 분야 국가 사이버위기 경보를 '관심'에서 '주의'로 상향 조정한다고 21일 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사이버위기 경보는 총 다섯 단계로 '정상→관심→주의→경계→심각' 등이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 조치는 최근 우크라이나 사태 관련 사이버전이 전세계로 확산하고 국내 기업을 노린 랜섬웨어 공격과 정보 유출사고가 발생한 데 따른 것이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 정부 교체기를 겨냥해 정책자료를 입수하려는 해킹 시도도 우려된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 정부부처와 지자체, 공공기관 등은 자체 '긴급대응반'을 가동해 기술·관리적 보안대책을 시행하고, 위협 모니터링을 강화하는 등 사이버 대비 태세를 강화해야 한다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일반 국민은 사회적 이슈 등을 악용한 스미싱 주의 등 정보보안수칙을 준수하고 사이버위협 공격 징후를 발견하거나 피해를 입을 경우 즉시 118에 신고해야한다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우크라·러 사이버전 확산에…위기경보 '관심→주의' 상향",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

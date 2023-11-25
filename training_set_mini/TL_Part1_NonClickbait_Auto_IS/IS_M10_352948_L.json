@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352948",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT, 노키아와 30㎞ 프론트홀 검증…\\\"무선 장애 해결, 빨라져\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "KT가 글로벌 통신장비 제조사인 노키아와 협력해 30㎞ 장거리 프론트홀 검증에 성공했다고 24일 밝혔다.\n프론트홀은 동네마다 무선 기지국에 설치된 RU(무선신호처리부·Radio Unit)와 지역국사에 설치된 DU(분산장치·Distributed Unit) 사이 구간을 말한다.\nRU는 무선 기지국에서 고주파(RF) 신호를 처리하는 유닛이며, DU는 지역국사에서 디지털 데이터를 처리하는 유닛이다.\n일반적으로 무선통신을 위해 RU 안테나에 모인 데이터는 프론트홀의 광케이블을 통해 DU로 전송된다.\n기존 프론트홀은 최대 20㎞의 간격까지만 지원 가능했기 때문에 보통 지역국사를 거치지 않고서는 RU가 설치된 무선 기지국 운영이 불가능했다.\n이 때문에 무선 네트워크에 장애가 발생하면 원인 분석을 위해 중앙국사에서 지역국사까지 출동해야 했고, 자연히 시간도 지체됐다.\n중앙국사는 DU가 집중화된 국사를 의미하며 보통 시·군별로 1개씩 존재한다.\n이번 기술 개발로 KT는 중앙국사에서 바로 무선 기지국을 직접 연결해 커버리지를 확대할 수 있게 됐다.\nKT 관계자는 \\\"기존에는 프론트홀 구간이 짧아 중앙국사-지역국사-무선기지국 형태로 운영했다면, 이제는 프론트홀 구간이 길어져 중앙국사-무선기지국 형태로 운영이 가능해지게 됐다\\\"고 설명했다.\n5G와 LTE 모두 30㎞ 장거리 프론트홀 기술을 상용망에 적용한 사례는 KT가 국내 최초다.\n이 기술로 무선 네트워크의 디지털 신호를 처리하는 DU의 집중화를 높여 효율적인 네트워크 투자·운용이 가능해질 것으로 기대된다.\n이종식 KT 융합기술원 인프라DX연구소장은 \\\"5G 커버리지와 품질을 동시에 만족하는 네트워크를 구성하고 6G 진화를 위한 네트워크 구조 연구개발을 위해 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 글로벌 통신장비 제조사인 노키아와 협력해 30㎞ 장거리 프론트홀 검증에 성공했다고 24일 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프론트홀은 동네마다 무선 기지국에 설치된 RU(무선신호처리부·Radio Unit)와 지역국사에 설치된 DU(분산장치·Distributed Unit) 사이 구간을 말한다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "RU는 무선 기지국에서 고주파(RF) 신호를 처리하는 유닛이며, DU는 지역국사에서 디지털 데이터를 처리하는 유닛이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일반적으로 무선통신을 위해 RU 안테나에 모인 데이터는 프론트홀의 광케이블을 통해 DU로 전송된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기존 프론트홀은 최대 20㎞의 간격까지만 지원 가능했기 때문에 보통 지역국사를 거치지 않고서는 RU가 설치된 무선 기지국 운영이 불가능했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 때문에 무선 네트워크에 장애가 발생하면 원인 분석을 위해 중앙국사에서 지역국사까지 출동해야 했고, 자연히 시간도 지체됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중앙국사는 DU가 집중화된 국사를 의미하며 보통 시·군별로 1개씩 존재한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이번 기술 개발로 KT는 중앙국사에서 바로 무선 기지국을 직접 연결해 커버리지를 확대할 수 있게 됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "KT 관계자는 \\\"기존에는 프론트홀 구간이 짧아 중앙국사-지역국사-무선기지국 형태로 운영했다면, 이제는 프론트홀 구간이 길어져 중앙국사-무선기지국 형태로 운영이 가능해지게 됐다\\\"고 설명했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "5G와 LTE 모두 30㎞ 장거리 프론트홀 기술을 상용망에 적용한 사례는 KT가 국내 최초다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이 기술로 무선 네트워크의 디지털 신호를 처리하는 DU의 집중화를 높여 효율적인 네트워크 투자·운용이 가능해질 것으로 기대된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이종식 KT 융합기술원 인프라DX연구소장은 \\\"5G 커버리지와 품질을 동시에 만족하는 네트워크를 구성하고 6G 진화를 위한 네트워크 구조 연구개발을 위해 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 노키아와 30㎞ 프론트홀 검증…\\\"무선 장애 해결, 빨라져\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

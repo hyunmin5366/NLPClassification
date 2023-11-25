@@ -1,0 +1,384 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322568",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[이슈분석]엔터프라이즈 기업 DBMS도 클라우드로 올린다",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 기업과 국내 엔터프라이즈 대기업이 클라우드 기반 데이터베이스관리시스템(DBMS)으로 이동한다.\n클라우드 DBMS 도입 시 기존 구축형 대비 비용 절감과 관리 효율성, 최신 정보기술(IT) 인프라를 유지할 수 있다.\n기존 서비스형인프라(IaaS) 중심 클라우드 시장에서 서비스형소프트웨어(SaaS)와 서비스형플랫폼(PaaS) 비중이 점차 확대된다.\n시장조사업체 IDC 조사에 따르면 내년 세계 클라우드 시장 서비스별 분포는 SaaS 60.0%, IaaS 22.6%, PaaS 17.4% 순으로 예측된다.\nSaaS 시장이 IaaS 대비 두 배 이상 범위가 확대될 전망이다. '클라우드 2.0' 시대 도래다.\n클라우드 DBMS 도입 역시 SaaS 시장 성장세와 함께 확대된다.\n삼성·SK·LG 등 국내 대기업 그룹사부터 직방·클래스팅 등 스타트업까지 국내를 비롯해 나이키, 필립스, 뉴욕타임스, 오토데스크, 캐피털원, 에어비앤비 등 외국계 기업까지 세계적으로 이뤄지고 있다.\n아마존웹서비스(AWS), 오라클, 구글 클라우드 등 주요 클라우드 기업은 클라우드 네이티브 DBMS를 제공한다.\nAWS와 같이 기업 수요 맞춤형 DBMS 라인업을 확대하기도 하고 오라클처럼 인공지능(AI) 기반 자율운영 체계를 구축하기도 한다.\n구글 클라우드 역시 다양한 DBMS 솔루션으로 기업 디지털 혁신을 지원한다.\n클라우드 기술로 스토리지와 컴퓨팅 비용이 지속 하락되고 새로운 세대 애플리케이션(앱)이 등장하면서 데이터베이스(DB) 성능에 대한 요구가 커졌다.\n모바일 디바이스 등장과 AI, 사물인터넷(IoT) 등 첨단기술 출현으로 기업에서 활용하는 데이터 양은 점차 방대해진다.\nTB(테라바이트)에서 PB(페타바이트) 규모로 저장하고, 밀리초 단위 지연 시간으로 데이터에 액세스하고 초당 수백만건 요청을 처리하며, 세계적으로 수백만 사용자를 지원하도록 확장할 수 있어야 한다.\n클라우드 DBMS는 구축형 대비 확장성과 유연성 측면에서 강점이 있다.\nAWS는 아마존 오로라, 다이나모DB, 레드시프트 등 특정 앱 활용에 특화된 다양한 데이터베이스를 제공한다.\n삼성, SK, LG 등 주요 대기업 계열사와 현대백화점, 현대캐피탈, 넥슨, 게임빌, 아모레퍼시픽 등 다양한 국내 기업이 AWS DBMS를 사용한다.\n나이키, 나스닥, 넷플릭스, 다우존스, 스냅챗, 오토데스크, 필립스, 캐피털원, UN 등 해외에서도 AWS DBMS 활용도는 크다.\n트랜잭션 앱을 위한 관계형 DB, 인터넷 규모 앱을 위한 비관계형 DB, 분석을 위한 데이터웨어하우스(DW), 캐싱과 실시간 워크로드를 위한 인메모리 데이터 스토어, 상호연결성이 높은 데이터가 있는 앱 구축을 위한 그래프 DB, 시간에 따른 변화를 측정하기 위한 시계열 DB, 완전하고 검증 가능한 트랜잭션 레코드를 유지 관리하기 위한 원장 DB 등이 AWS 대표 DBMS다.\n오라클은 40여년간 가장 복잡한 기업 애플리케이션을 성공적으로 지원해온 오라클 데이터 관리 역량을 바탕으로 설계한 자율운영 데이터베이스(DB)로 승부수를 띄웠다.\n오라클 자율운영 DB는 혁신적 머신러닝으로 가능해진 자율 관리, 자율 보안, 자율 복구 기능으로 클라우드 분야에서 탄력성 있는 규모 경제를 실현한다.\n프로비저닝, 보안, 모니터링, 백업, 복구, 튜닝 등 DB 운영에 필요한 모든 일련의 과정이 자율운영 DB에서 자동 수행되기 때문에 비용 절감 효과를 기대할 수 있다.\nDB 관리자는 데이터에서 더 많은 가치를 얻고 새로운 혁신을 구축하는 데 집중할 수 있다.\nSK스토아, 바스랩 등 국내 엔터프라이즈 기업 100여개사와 영국 메스텍, 스카이 브라질 등이 주요 고객이다.\n구글 클라우드는 기업 맞춤형 DBMS 클라우드 서비스를 제공한다.\n관계형 DBMS뿐 아니라 인메모리, 비관계형까지 지원한다.\n클라우드 네이티브 형태로 개발됐다.\nSQL, 트랜잭션, 확장성을 갖춘 완전 관리형 관계형 DB 서비스 클라우드 스패너를 독자 개발해 99.9999% 가용성을 보장한다.\n필립스, 닌텐도, 뉴욕타임스 등이 주요 고객이다.\n구글 클라우드 플랫폼 데이터 관리와 분석 플랫폼은 통합성, 확장성, 엔터프라이즈급 보안, AI 활용 등을 지향한다.\n제품에 관계없이 일관된 경험을 제공해 빠른 통합을 지원한다.\n규모에 관계없이 성장세에 맞춰 온디맨드 방식으로 확장이 가능하다.\n액세스 투명성과 고가용성을 기본으로 제공하는 보안 설계를 제공한다.\n국산 DBMS 강자 티맥스티베로도 클라우드 DBMS를 서비스할 계획이다.\n티맥스가 개발 중인 DBMS '티베로 8'은 기존 DB 한계를 해결한다.\n모든 종류 데이터를 통합해 SQL 단일 방식으로 처리할 수 있다.\n기존 핵심 보유 기술 '액티브 클러스터'를 발전시켜 클라우드에서 무한대 확장이 제공되는 DB로 강화한다.\n티맥스 클라우드 DBMS는 DB 가상화를 넘어 테이블 가상화 개념을 적용해 사용자가 필요에 따라서 자유롭게 DB를 구성하도록 한다.\n관련 기술은 특허 출원 중이다.\n티맥스는 데이터 수집부터 분석, 활용까지 전체 데이터 라이프사이클에 걸쳐 클라우드 최적화되고 일관된 형태로 데이터 시스템을 제공한다.\n클라우드 맞춤형 데이터 아키텍처 지원을 목표로 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 40,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 기업과 국내 엔터프라이즈 대기업이 클라우드 기반 데이터베이스관리시스템(DBMS)으로 이동한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "클라우드 DBMS 도입 시 기존 구축형 대비 비용 절감과 관리 효율성, 최신 정보기술(IT) 인프라를 유지할 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 서비스형인프라(IaaS) 중심 클라우드 시장에서 서비스형소프트웨어(SaaS)와 서비스형플랫폼(PaaS) 비중이 점차 확대된다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시장조사업체 IDC 조사에 따르면 내년 세계 클라우드 시장 서비스별 분포는 SaaS 60.0%, IaaS 22.6%, PaaS 17.4% 순으로 예측된다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SaaS 시장이 IaaS 대비 두 배 이상 범위가 확대될 전망이다. '클라우드 2.0' 시대 도래다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "클라우드 DBMS 도입 역시 SaaS 시장 성장세와 함께 확대된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성·SK·LG 등 국내 대기업 그룹사부터 직방·클래스팅 등 스타트업까지 국내를 비롯해 나이키, 필립스, 뉴욕타임스, 오토데스크, 캐피털원, 에어비앤비 등 외국계 기업까지 세계적으로 이뤄지고 있다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아마존웹서비스(AWS), 오라클, 구글 클라우드 등 주요 클라우드 기업은 클라우드 네이티브 DBMS를 제공한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "AWS와 같이 기업 수요 맞춤형 DBMS 라인업을 확대하기도 하고 오라클처럼 인공지능(AI) 기반 자율운영 체계를 구축하기도 한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "구글 클라우드 역시 다양한 DBMS 솔루션으로 기업 디지털 혁신을 지원한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "클라우드 기술로 스토리지와 컴퓨팅 비용이 지속 하락되고 새로운 세대 애플리케이션(앱)이 등장하면서 데이터베이스(DB) 성능에 대한 요구가 커졌다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "모바일 디바이스 등장과 AI, 사물인터넷(IoT) 등 첨단기술 출현으로 기업에서 활용하는 데이터 양은 점차 방대해진다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "TB(테라바이트)에서 PB(페타바이트) 규모로 저장하고, 밀리초 단위 지연 시간으로 데이터에 액세스하고 초당 수백만건 요청을 처리하며, 세계적으로 수백만 사용자를 지원하도록 확장할 수 있어야 한다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "클라우드 DBMS는 구축형 대비 확장성과 유연성 측면에서 강점이 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "AWS는 아마존 오로라, 다이나모DB, 레드시프트 등 특정 앱 활용에 특화된 다양한 데이터베이스를 제공한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "삼성, SK, LG 등 주요 대기업 계열사와 현대백화점, 현대캐피탈, 넥슨, 게임빌, 아모레퍼시픽 등 다양한 국내 기업이 AWS DBMS를 사용한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "나이키, 나스닥, 넷플릭스, 다우존스, 스냅챗, 오토데스크, 필립스, 캐피털원, UN 등 해외에서도 AWS DBMS 활용도는 크다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "트랜잭션 앱을 위한 관계형 DB, 인터넷 규모 앱을 위한 비관계형 DB, 분석을 위한 데이터웨어하우스(DW), 캐싱과 실시간 워크로드를 위한 인메모리 데이터 스토어, 상호연결성이 높은 데이터가 있는 앱 구축을 위한 그래프 DB, 시간에 따른 변화를 측정하기 위한 시계열 DB, 완전하고 검증 가능한 트랜잭션 레코드를 유지 관리하기 위한 원장 DB 등이 AWS 대표 DBMS다.",
+				"sentenceSize": 210
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "오라클은 40여년간 가장 복잡한 기업 애플리케이션을 성공적으로 지원해온 오라클 데이터 관리 역량을 바탕으로 설계한 자율운영 데이터베이스(DB)로 승부수를 띄웠다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "오라클 자율운영 DB는 혁신적 머신러닝으로 가능해진 자율 관리, 자율 보안, 자율 복구 기능으로 클라우드 분야에서 탄력성 있는 규모 경제를 실현한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "프로비저닝, 보안, 모니터링, 백업, 복구, 튜닝 등 DB 운영에 필요한 모든 일련의 과정이 자율운영 DB에서 자동 수행되기 때문에 비용 절감 효과를 기대할 수 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "DB 관리자는 데이터에서 더 많은 가치를 얻고 새로운 혁신을 구축하는 데 집중할 수 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "SK스토아, 바스랩 등 국내 엔터프라이즈 기업 100여개사와 영국 메스텍, 스카이 브라질 등이 주요 고객이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "구글 클라우드는 기업 맞춤형 DBMS 클라우드 서비스를 제공한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "관계형 DBMS뿐 아니라 인메모리, 비관계형까지 지원한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "클라우드 네이티브 형태로 개발됐다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "SQL, 트랜잭션, 확장성을 갖춘 완전 관리형 관계형 DB 서비스 클라우드 스패너를 독자 개발해 99.9999% 가용성을 보장한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "필립스, 닌텐도, 뉴욕타임스 등이 주요 고객이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "구글 클라우드 플랫폼 데이터 관리와 분석 플랫폼은 통합성, 확장성, 엔터프라이즈급 보안, AI 활용 등을 지향한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "제품에 관계없이 일관된 경험을 제공해 빠른 통합을 지원한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "규모에 관계없이 성장세에 맞춰 온디맨드 방식으로 확장이 가능하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "액세스 투명성과 고가용성을 기본으로 제공하는 보안 설계를 제공한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "국산 DBMS 강자 티맥스티베로도 클라우드 DBMS를 서비스할 계획이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "티맥스가 개발 중인 DBMS '티베로 8'은 기존 DB 한계를 해결한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "모든 종류 데이터를 통합해 SQL 단일 방식으로 처리할 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "기존 핵심 보유 기술 '액티브 클러스터'를 발전시켜 클라우드에서 무한대 확장이 제공되는 DB로 강화한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 37,
+				"sentenceContent": "티맥스 클라우드 DBMS는 DB 가상화를 넘어 테이블 가상화 개념을 적용해 사용자가 필요에 따라서 자유롭게 DB를 구성하도록 한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 38,
+				"sentenceContent": "관련 기술은 특허 출원 중이다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 39,
+				"sentenceContent": "티맥스는 데이터 수집부터 분석, 활용까지 전체 데이터 라이프사이클에 걸쳐 클라우드 최적화되고 일관된 형태로 데이터 시스템을 제공한다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 40,
+				"sentenceContent": "클라우드 맞춤형 데이터 아키텍처 지원을 목표로 한다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]엔터프라이즈 기업 DBMS도 클라우드로 올린다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 37,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 38,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 39,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 40,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

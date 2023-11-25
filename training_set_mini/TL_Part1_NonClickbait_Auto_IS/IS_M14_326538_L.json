@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326538",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "공격자와 채팅 요구하는 신종 랜섬웨어 국내 유포 중",
+		"newsSubTitle": "",
+		"newsContent": "감염 시 공격자와 채팅으로 연결, 협상을 유도하는 신종 랜섬웨어가 국내에 유포되고 있다.\n피해자 질문에 대한 답변은 챗봇이 아닌 공격자가 직접 수행하는 것으로 추정된다.\n안랩 시큐리티대응센터(ASEC)에 따르면 랜섬웨어 제작자와 채팅을 유도하는 신종 랜섬웨어가 국내에서 발견됐다.\n확장자와 무관하게 모든 파일을 암호화하는 '파라다이스' 랜섬웨어 변형으로 취약점과 스크립트 파일에 의해 유포되는 것으로 분석된다.\n랜섬웨어 제작일은 21일, 국내 첫 피해는 23일로 확인됐다.\n감염 전 이용자 윈도 설치 언어 확인, 프로세스와 서비스 종료 등을 거친 후 파일 암호화를 진행한다.\n시스템 복원을 막기 위해 볼륨 섀도를 삭제하고 윈도 디펜더를 꺼 악성행위 진단을 차단한다.\n암호화 시 일부 폴더를 지정해 암호화하지 않고 확장자 구별 없이 가능한 모든 파일을 감염시킨다.\n원본 확장자 이름에는 '_r00t_{6자_랜덤}.RaaS'가 추가된다.\n스타트업 폴더에 랜덤명으로 자가 복제를 수행, 재부팅 시 자동 실행한다.\n공격자는 랜섬노트를 통해 “파일을 복구하고 싶으면 온라인 채팅을 해야 한다”면서 채팅 사이트와 피해자별 개인ID를 알려준다.\n일반 브라우저로 채팅 사이트에 접속할 수 없으면 토르 브라우저나 가상사설망(VPN)을 사용하라고도 조언한다.\n실제 채팅에 연결되면 공격자는 피해자에게 비트코인으로 특정 금액을 요구한다.\n피해자가 돈이 없다고 하면 “첫번째니 할인해주겠다”면서 다소 줄어든 금액을 제시하며 협상을 이어간다.\nASEC 측은 “애초 답변자를 챗봇으로 추정했지만, 예상치 못한 대화에도 대답하는 것으로 보아 공격자가 확인하는 것으로 짐작된다”고 설명했다.\n랜섬웨어 피해를 예방하려면 출처가 불분명한 파일 실행 시 주의하고 의심스러운 경우 백신을 통해 확인해야 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "감염 시 공격자와 채팅으로 연결, 협상을 유도하는 신종 랜섬웨어가 국내에 유포되고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "피해자 질문에 대한 답변은 챗봇이 아닌 공격자가 직접 수행하는 것으로 추정된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "안랩 시큐리티대응센터(ASEC)에 따르면 랜섬웨어 제작자와 채팅을 유도하는 신종 랜섬웨어가 국내에서 발견됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "확장자와 무관하게 모든 파일을 암호화하는 '파라다이스' 랜섬웨어 변형으로 취약점과 스크립트 파일에 의해 유포되는 것으로 분석된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "랜섬웨어 제작일은 21일, 국내 첫 피해는 23일로 확인됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "감염 전 이용자 윈도 설치 언어 확인, 프로세스와 서비스 종료 등을 거친 후 파일 암호화를 진행한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시스템 복원을 막기 위해 볼륨 섀도를 삭제하고 윈도 디펜더를 꺼 악성행위 진단을 차단한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "암호화 시 일부 폴더를 지정해 암호화하지 않고 확장자 구별 없이 가능한 모든 파일을 감염시킨다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "원본 확장자 이름에는 '_r00t_{6자_랜덤}.RaaS'가 추가된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "스타트업 폴더에 랜덤명으로 자가 복제를 수행, 재부팅 시 자동 실행한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "공격자는 랜섬노트를 통해 “파일을 복구하고 싶으면 온라인 채팅을 해야 한다”면서 채팅 사이트와 피해자별 개인ID를 알려준다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "일반 브라우저로 채팅 사이트에 접속할 수 없으면 토르 브라우저나 가상사설망(VPN)을 사용하라고도 조언한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "실제 채팅에 연결되면 공격자는 피해자에게 비트코인으로 특정 금액을 요구한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "피해자가 돈이 없다고 하면 “첫번째니 할인해주겠다”면서 다소 줄어든 금액을 제시하며 협상을 이어간다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "ASEC 측은 “애초 답변자를 챗봇으로 추정했지만, 예상치 못한 대화에도 대답하는 것으로 보아 공격자가 확인하는 것으로 짐작된다”고 설명했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "랜섬웨어 피해를 예방하려면 출처가 불분명한 파일 실행 시 주의하고 의심스러운 경우 백신을 통해 확인해야 한다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공격자와 채팅 요구하는 신종 랜섬웨어 국내 유포 중",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

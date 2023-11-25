@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010089",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "내 위치서 필요한 앱 자동추천",
+		"newsSubTitle": "KAIST 한동수 교수팀 '플레이스 앱스' 개발",
+		"newsContent": "스마트폰을 한층 더 스마트하게 사용할 수 있는 앱이 개발됐다.\n▲ KAIST가 개발한 '플레이스 앱스' KAIST 전산학과 한동수 교수 연구팀은 스마트폰 이용자가 특정 위치에 접근하면 해당 장소 근처에서 사용할 수 있는 앱을 자동으로 추천해 주는 위치 기반 앱 스토어 '플레이스 앱스(PlacesApps)'를 개발했다고 22일 밝혔다.\n여행 중 주변의 맛집 앱이나 교통정보 앱을 일일이 찾아보지 않아도 플레이스앱스만 있으면 주변의 각종 정보를 사용할 수 있는 앱을 자동으로 추천해 준다.\n사용자가 자신이 원하는 앱을 키워드나 카테고리 검색을 통해 찾는 기존의 방식과는 달리, 개발된 앱은 특정 위치에서 사용 가능한 앱을 자동으로 추천하고 추천된 앱을 사용자가 선택하는 방식이다.\n플레이스 앱스는 한마디로 스마트폰 사용자가 정보를 찾지 않아도 사용할 수 있는 앱을 알려주는 똑똑한 앱인 셈이다.\n이에 따라 원하는 앱을 실시간으로 찾아 활용하는 것에 익숙하지 않은 사람들도 새로운 앱을 접하고 사용하는 환경을 획기적으로 개선해 줄 것으로 기대된다.\n이 앱은 지난 15일부터 18일까지 서울 코엑스에서 열린'2012 월드 IT 쇼(World IT Show 2012)에서 선보여 참가자들로부터 커다란 호응을 받았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스마트폰을 한층 더 스마트하게 사용할 수 있는 앱이 개발됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "▲ KAIST가 개발한 '플레이스 앱스' KAIST 전산학과 한동수 교수 연구팀은 스마트폰 이용자가 특정 위치에 접근하면 해당 장소 근처에서 사용할 수 있는 앱을 자동으로 추천해 주는 위치 기반 앱 스토어 '플레이스 앱스(PlacesApps)'를 개발했다고 22일 밝혔다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "여행 중 주변의 맛집 앱이나 교통정보 앱을 일일이 찾아보지 않아도 플레이스앱스만 있으면 주변의 각종 정보를 사용할 수 있는 앱을 자동으로 추천해 준다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사용자가 자신이 원하는 앱을 키워드나 카테고리 검색을 통해 찾는 기존의 방식과는 달리, 개발된 앱은 특정 위치에서 사용 가능한 앱을 자동으로 추천하고 추천된 앱을 사용자가 선택하는 방식이다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "플레이스 앱스는 한마디로 스마트폰 사용자가 정보를 찾지 않아도 사용할 수 있는 앱을 알려주는 똑똑한 앱인 셈이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 따라 원하는 앱을 실시간으로 찾아 활용하는 것에 익숙하지 않은 사람들도 새로운 앱을 접하고 사용하는 환경을 획기적으로 개선해 줄 것으로 기대된다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 앱은 지난 15일부터 18일까지 서울 코엑스에서 열린'2012 월드 IT 쇼(World IT Show 2012)에서 선보여 참가자들로부터 커다란 호응을 받았다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유통공룡 신세계 백화점에 지역 백화점 '초긴장'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

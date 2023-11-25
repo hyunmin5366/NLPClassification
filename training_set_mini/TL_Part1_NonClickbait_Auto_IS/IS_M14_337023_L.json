@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337023",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "자일링스, FPGA 칩으로 핀테크 시장 공략",
+		"newsSubTitle": "",
+		"newsContent": "자일링스가 자사 필드 프로그래머블 게이트 어레이(FPGA) 칩 '알베오' 시리즈로 핀테크 시장을 공략한다.\n다양한 정보가 수집되는 금융 관련 업체들이 자일링스 칩이 구현하는 인공지능(AI) 연산으로 데이터를 더욱 효율적으로 관리할 수 있다는 설명이다.\n17일 자일링스는 서울 강남구 JW 메리어트 강남 호텔에서 기자회견을 열고 회사의 핀테크 시장 진입 전략을 발표했다.\n이날 자일링스 핀테크 부문에서 글로벌 비즈니스 개발을 담당하는 앨러스테어 리차드슨 매니저는 회사가 지난달 출시한 FPGA 칩 '알베오'가 핀테크 시장에 적합한 제품이 될 것이라고 자신했다.\n그는 “오늘날 금융 환경은 이전보다 훨씬 복잡하고 다양한 데이터가 모이고 있다”고 설명했다.\n삼성페이, 애플페이 등 모바일 결제 서비스 발달로 소액 결제를 하는 사례가 늘었기 때문이다.\n현금 계산 외에도 카드, 사회관계망서비스(SNS) 등 결제 채널이 폭발적으로 늘어난 것도 주요한 이유다.\n따라서 그는 금융 시장에서 인공지능(AI)를 활용한 데이터 관리가 대세가 되고 있다고 전했다.\n잘 훈련된 AI 시스템이 스스로 정보를 분류해 저장하고, 유연하게 대처를 할 수 있다는 얘기다.\n이 때 FPGA 칩은 큰 강점을 지닌다.\n사용자가 상황에 따라 회로의 속성을 바꿀 수 있는 FPGA의 특성을 적절하게 활용할 수 있는 곳이 AI 생태계이기 때문이다.\n특정한 기준 없이 시시각각 몰려드는 금융 정보를 모으고 재분류할 때, 고정된 역할이 있는 중앙처리장치(CPU)나 그래픽카드(GPU)보다 더욱 유연하게 분석하고 적응할 수 있는 것이다.\n자일링스는 1980년대 업계에서 처음으로 FPGA 칩을 선보인 뒤 다양한 제품을 선보였다.\n특히 지난달 출시한 '알베오 U50'으로 AI 연산을 구현하고자 하는 금융 업체 고객사를 공략한다. .\n특히 알베오 U50 제품은 딥 러닝 추론 능력을 GPU에 비해 최대 25배 낮은 지연시간과 10배 높은 처리량으로 구현한다.\nCPU에 비해 7배 뛰어난 전력 효율을 제공하는가 하면, 인-메모리 CPU보다 4배 높은 처리량을 제공한다.\n또 리차드슨 매니저는 “이번 제품으로 운영비와 초기 설치 비용까지 대폭 줄였다”고 덧붙였다.\n자일링스는 칩 엔지니어들이 마치 소프트웨어 개발자들처럼 자유롭게 칩 성능을 개조하며 AI 환경에 대응하도록 회사 차원에서 FPGA 칩 생태계를 플랫폼화 한다는 전략도 있다.\n그는 “FPGA 칩으로 새로운 접근을 시도하는 업체들을 공략하고 있다”면서“자일링스 제품을 채택한 고객사들에게 이미 좋은 반응을 얻고 있다고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자일링스가 자사 필드 프로그래머블 게이트 어레이(FPGA) 칩 '알베오' 시리즈로 핀테크 시장을 공략한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다양한 정보가 수집되는 금융 관련 업체들이 자일링스 칩이 구현하는 인공지능(AI) 연산으로 데이터를 더욱 효율적으로 관리할 수 있다는 설명이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "17일 자일링스는 서울 강남구 JW 메리어트 강남 호텔에서 기자회견을 열고 회사의 핀테크 시장 진입 전략을 발표했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 자일링스 핀테크 부문에서 글로벌 비즈니스 개발을 담당하는 앨러스테어 리차드슨 매니저는 회사가 지난달 출시한 FPGA 칩 '알베오'가 핀테크 시장에 적합한 제품이 될 것이라고 자신했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 “오늘날 금융 환경은 이전보다 훨씬 복잡하고 다양한 데이터가 모이고 있다”고 설명했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성페이, 애플페이 등 모바일 결제 서비스 발달로 소액 결제를 하는 사례가 늘었기 때문이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현금 계산 외에도 카드, 사회관계망서비스(SNS) 등 결제 채널이 폭발적으로 늘어난 것도 주요한 이유다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "따라서 그는 금융 시장에서 인공지능(AI)를 활용한 데이터 관리가 대세가 되고 있다고 전했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "잘 훈련된 AI 시스템이 스스로 정보를 분류해 저장하고, 유연하게 대처를 할 수 있다는 얘기다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 때 FPGA 칩은 큰 강점을 지닌다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "사용자가 상황에 따라 회로의 속성을 바꿀 수 있는 FPGA의 특성을 적절하게 활용할 수 있는 곳이 AI 생태계이기 때문이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "특정한 기준 없이 시시각각 몰려드는 금융 정보를 모으고 재분류할 때, 고정된 역할이 있는 중앙처리장치(CPU)나 그래픽카드(GPU)보다 더욱 유연하게 분석하고 적응할 수 있는 것이다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "자일링스는 1980년대 업계에서 처음으로 FPGA 칩을 선보인 뒤 다양한 제품을 선보였다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "특히 지난달 출시한 '알베오 U50'으로 AI 연산을 구현하고자 하는 금융 업체 고객사를 공략한다. .",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "특히 알베오 U50 제품은 딥 러닝 추론 능력을 GPU에 비해 최대 25배 낮은 지연시간과 10배 높은 처리량으로 구현한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "CPU에 비해 7배 뛰어난 전력 효율을 제공하는가 하면, 인-메모리 CPU보다 4배 높은 처리량을 제공한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "또 리차드슨 매니저는 “이번 제품으로 운영비와 초기 설치 비용까지 대폭 줄였다”고 덧붙였다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "자일링스는 칩 엔지니어들이 마치 소프트웨어 개발자들처럼 자유롭게 칩 성능을 개조하며 AI 환경에 대응하도록 회사 차원에서 FPGA 칩 생태계를 플랫폼화 한다는 전략도 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "그는 “FPGA 칩으로 새로운 접근을 시도하는 업체들을 공략하고 있다”면서“자일링스 제품을 채택한 고객사들에게 이미 좋은 반응을 얻고 있다고 전했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "자일링스, FPGA 칩으로 핀테크 시장 공략",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353960",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "웨이브, K콘텐츠 '글로벌 장벽' 낮춘다…\\\"번역·자막 플랫폼 개발\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "OTT(온라인동영상서비스) 웨이브(wavve)는 콘텐츠·AI(인공지능)·번역 전문 기업들과 함께 '구어체 방송 콘텐츠를 위한 자동 자막 제작·편집 기술 개발사업'을 추진한다고 15일 밝혔다.\n이번 사업은 과학기술정보통신부 정보통신방송기술개발사업 선정 과제로, 번역·자막 비용을 절감하고 제작시간을 단축하면서도 K-콘텐츠를 실시간으로 글로벌 현지화 할 수 있는 VOD(주문형비디오) 시범 서비스를 구축하는 게 목표다.\n웨이브 컨소시엄에는 AI 전문기업 트위그팜, SBS, 글로벌 기계번역 전문기업 시스트란, 미디어 현지화 전문기업 푸르모디티 등이 참여한다.\n웨이브에 따르면, 기존에 국내 콘텐츠의 글로벌 현지화 비용은 분당 11달러로 비싼 편이었다.\n또 비용을 낮추려고 기계 번역을 이용할 경우, 한꺼번에 여러 명이 말하는 '다자발화'나 구어적 맥락이 제대로 반영되지 않아 자막 품질이 떨어지는 경우가 많았다.\n이에 따라 웨이브 컨소시엄은 △콘텐츠 전용 한국어 음성인식기 △장르별 문맥 기반 기계 번역기 △클라우드 자막 편집 도구 등 다양한 서비스 모델과 도구를 개발해 내년까지 서비스 플랫폼을 구축하며, 2024년에는 플랫폼 확장에 나설 계획이다.\n김태형 콘텐츠웨이브 미디어 데이터개발 그룹장은 \\\"우리 콘텐츠를 세계 시장에 빠르게 선보일 수 있는 솔루션을 개발, 효율적 글로벌 서비스가 가능하도록 지원할 것\\\"이라고 말했다",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "OTT(온라인동영상서비스) 웨이브(wavve)는 콘텐츠·AI(인공지능)·번역 전문 기업들과 함께 '구어체 방송 콘텐츠를 위한 자동 자막 제작·편집 기술 개발사업'을 추진한다고 15일 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 사업은 과학기술정보통신부 정보통신방송기술개발사업 선정 과제로, 번역·자막 비용을 절감하고 제작시간을 단축하면서도 K-콘텐츠를 실시간으로 글로벌 현지화 할 수 있는 VOD(주문형비디오) 시범 서비스를 구축하는 게 목표다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "웨이브 컨소시엄에는 AI 전문기업 트위그팜, SBS, 글로벌 기계번역 전문기업 시스트란, 미디어 현지화 전문기업 푸르모디티 등이 참여한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "웨이브에 따르면, 기존에 국내 콘텐츠의 글로벌 현지화 비용은 분당 11달러로 비싼 편이었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 비용을 낮추려고 기계 번역을 이용할 경우, 한꺼번에 여러 명이 말하는 '다자발화'나 구어적 맥락이 제대로 반영되지 않아 자막 품질이 떨어지는 경우가 많았다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 따라 웨이브 컨소시엄은 △콘텐츠 전용 한국어 음성인식기 △장르별 문맥 기반 기계 번역기 △클라우드 자막 편집 도구 등 다양한 서비스 모델과 도구를 개발해 내년까지 서비스 플랫폼을 구축하며, 2024년에는 플랫폼 확장에 나설 계획이다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김태형 콘텐츠웨이브 미디어 데이터개발 그룹장은 \\\"우리 콘텐츠를 세계 시장에 빠르게 선보일 수 있는 솔루션을 개발, 효율적 글로벌 서비스가 가능하도록 지원할 것\\\"이라고 말했다",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "웨이브, K콘텐츠 '글로벌 장벽' 낮춘다…\\\"번역·자막 플랫폼 개발\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

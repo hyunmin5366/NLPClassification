@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_340052",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "[기획]LG유플러스-전주시, 자율주행로봇으로 대기오염 잡는다",
+		"newsSubTitle": "",
+		"newsContent": "LG유플러스는 전주시와 대기환경 관리를 위한 '5G 환경로봇'을 선보일 예정이다.\n이를 위해 양 기관은 지난달 '5G 로봇을 활용한 스마트 대기환경 서비스 업무협약'을 체결했다.\n양 기관은 2022년까지 총 사업비 30억원을 투입, 팔복동 산업단지와 만성지구, 혁신도시 등 주거지역에 자율주행 로봇 6대와 고정형 대기측정기 20기를 설치해 대기환경을 스마트하게 관리하기로 했다.\n자율주행 로봇은 인공지능(AI) 기반으로 대기 질을 실시간으로 분석하고, 24시간 감시활동한다.\n로봇은 순찰 도중 대기 오염도가 높은 지역을 발견했을 때 원격으로 음원·영상 정보를 시에 보내 현장을 방문하지 않고도 즉시 대처할 수 있도록 해 산업단지 내 사업장을 효율적으로 관리하는 데 보탬이 될 것으로 기대된다.\nLG유플러스와 전주시는 자율주행 로봇이 수집한 빅데이터 정보를 기반으로 '5G를 기반으로 한 통합형 대기관리시스템'을 개발, 미세먼지 관리 종합대책과 연계해 대기환경 개선 사업을 확대할 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 전주시와 대기환경 관리를 위한 '5G 환경로봇'을 선보일 예정이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이를 위해 양 기관은 지난달 '5G 로봇을 활용한 스마트 대기환경 서비스 업무협약'을 체결했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양 기관은 2022년까지 총 사업비 30억원을 투입, 팔복동 산업단지와 만성지구, 혁신도시 등 주거지역에 자율주행 로봇 6대와 고정형 대기측정기 20기를 설치해 대기환경을 스마트하게 관리하기로 했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "자율주행 로봇은 인공지능(AI) 기반으로 대기 질을 실시간으로 분석하고, 24시간 감시활동한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "로봇은 순찰 도중 대기 오염도가 높은 지역을 발견했을 때 원격으로 음원·영상 정보를 시에 보내 현장을 방문하지 않고도 즉시 대처할 수 있도록 해 산업단지 내 사업장을 효율적으로 관리하는 데 보탬이 될 것으로 기대된다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LG유플러스와 전주시는 자율주행 로봇이 수집한 빅데이터 정보를 기반으로 '5G를 기반으로 한 통합형 대기관리시스템'을 개발, 미세먼지 관리 종합대책과 연계해 대기환경 개선 사업을 확대할 방침이다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[기획]LG유플러스-전주시, 자율주행로봇으로 대기오염 잡는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

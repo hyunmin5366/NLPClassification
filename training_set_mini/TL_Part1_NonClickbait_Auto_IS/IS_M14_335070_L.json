@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335070",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "저전력 위치추적기 개발이 빨라진다…유블럭스 '유트랙 툴셋'",
+		"newsSubTitle": "",
+		"newsContent": "최근 GNSS 수신기가 탑재된 배터리 구동형 제품들이 증가하고 있다.\n가상 현실 헤드셋(virtual reality headsets), 스마트워치 및 노약자, 컨테이너 또는 우편물 추적 장치 등이 이러한 제품의 대표적인 예이다.\nLTE-M 및 NB-IoT 기술과 같은 저전력 광역 셀룰러 네트워크(LPWAN) 기술이 전세계에 지속적으로 보급되고 초저전력으로 기능함에 따라 무선 위치 추적기의 활용 범위가 크게 확장될 것으로 예상된다.\n유블럭스는 유트랙(u-track) 소프트웨어와 C030-R410M 애플리케이션 보드로 구성된 툴셋(toolset)을 발표했다.\n이 툴셋은 프로토타입(prototype)을 빠르게 개발할 수 있는 플랫폼이다.\n제품 설계자가 LTE-M 및 NB-IoT(협대역 사물인터넷) 셀룰러 네트워크는 물론 GNSS (글로벌 위성항법시스템) 기술을 사용하는 무선 위치 추적 애플리케이션의 위치 정확도와 전력 소비를 테스트하거나 최적화할 수 있다.\n스포츠, 사람 및 자산 추적기와 같은 배터리 구동형 애플리케이션을 제품화하는 개발자용 툴셋이다.\n유트랙 소프트웨어는 새로운 유블럭스 C030-R410M 애플리케이션 보드에 내장된 펌웨어를 통해 실행된다.\n이 보드는 사물 인터넷(IoT)용 애플리케이션의 신속한 프로토타입 개발을 위해 설계되었으며, 초소형, 저전력 유블럭스 ZOE-M8B GNSS 수신기 및 최적화된 크기를 가진 SARA-R410M LTE-M/NB-IoT 셀룰러 통신 모듈을 탑재하고 있다.\n유트랙에는 PC 소프트웨어 애플리케이션도 포함된다.\n사용자 친화적인 대시보드는 전력 소비 내역, 정확도뿐만 아니라 GNSS 수신기가 켜진 후 위치 계산에 소요된 시간(Time-To-First-Fix; TTFF) 등과 같은 다양한 주요 데이터를 기록, 조회하며 시각화한다.\n유블럭스 플로리안 부스케(Florian Bousquet) 위치추적 제품센터 수석 매니저는 “이 제품으로 개발자들이 디자인한 제품의 정확도 및 전력 소비 수준을 쉽고 빠르게 테스트할 수 있다. 고객들은 이 툴셋을 15분 이내에 다양한 설정으로 테스트를 시작할 수 있다”며 “이 툴셋은 LTE-M 및 NB-IoT 셀룰러 통신뿐만 아니라, GNSS 수신기의 전력 소비와 포지셔닝 성능 간 균형을 유지하는 Super-E 모드등의 최첨단 기술을 사용할 수 있게 해준다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 GNSS 수신기가 탑재된 배터리 구동형 제품들이 증가하고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가상 현실 헤드셋(virtual reality headsets), 스마트워치 및 노약자, 컨테이너 또는 우편물 추적 장치 등이 이러한 제품의 대표적인 예이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LTE-M 및 NB-IoT 기술과 같은 저전력 광역 셀룰러 네트워크(LPWAN) 기술이 전세계에 지속적으로 보급되고 초저전력으로 기능함에 따라 무선 위치 추적기의 활용 범위가 크게 확장될 것으로 예상된다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유블럭스는 유트랙(u-track) 소프트웨어와 C030-R410M 애플리케이션 보드로 구성된 툴셋(toolset)을 발표했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 툴셋은 프로토타입(prototype)을 빠르게 개발할 수 있는 플랫폼이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제품 설계자가 LTE-M 및 NB-IoT(협대역 사물인터넷) 셀룰러 네트워크는 물론 GNSS (글로벌 위성항법시스템) 기술을 사용하는 무선 위치 추적 애플리케이션의 위치 정확도와 전력 소비를 테스트하거나 최적화할 수 있다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스포츠, 사람 및 자산 추적기와 같은 배터리 구동형 애플리케이션을 제품화하는 개발자용 툴셋이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "유트랙 소프트웨어는 새로운 유블럭스 C030-R410M 애플리케이션 보드에 내장된 펌웨어를 통해 실행된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 보드는 사물 인터넷(IoT)용 애플리케이션의 신속한 프로토타입 개발을 위해 설계되었으며, 초소형, 저전력 유블럭스 ZOE-M8B GNSS 수신기 및 최적화된 크기를 가진 SARA-R410M LTE-M/NB-IoT 셀룰러 통신 모듈을 탑재하고 있다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "유트랙에는 PC 소프트웨어 애플리케이션도 포함된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "사용자 친화적인 대시보드는 전력 소비 내역, 정확도뿐만 아니라 GNSS 수신기가 켜진 후 위치 계산에 소요된 시간(Time-To-First-Fix; TTFF) 등과 같은 다양한 주요 데이터를 기록, 조회하며 시각화한다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "유블럭스 플로리안 부스케(Florian Bousquet) 위치추적 제품센터 수석 매니저는 “이 제품으로 개발자들이 디자인한 제품의 정확도 및 전력 소비 수준을 쉽고 빠르게 테스트할 수 있다. 고객들은 이 툴셋을 15분 이내에 다양한 설정으로 테스트를 시작할 수 있다”며 “이 툴셋은 LTE-M 및 NB-IoT 셀룰러 통신뿐만 아니라, GNSS 수신기의 전력 소비와 포지셔닝 성능 간 균형을 유지하는 Super-E 모드등의 최첨단 기술을 사용할 수 있게 해준다”고 밝혔다.",
+				"sentenceSize": 263
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "저전력 위치추적기 개발이 빨라진다…유블럭스 '유트랙 툴셋'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338894",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "위드앤아이티, 테라마스터 신제품 NAS 출시",
+		"newsSubTitle": "",
+		"newsContent": "위드앤아이티(대표 강명일)가 중국 스토리지 전문 제조 기업 테라마스터의 나스(NAS) 신제품 TNAS422 시리즈를 출시했다.\n타워형 제품으로 기존 론칭한 5베이 모델 F5-422에 이어 2, 4, 8베이인 F2-422, F4-422, F8-422 모델을 선보였다.\n높은 하드웨어 사양에 합리적 가격이 강점이다.\n인텔 쿼드코어 1.5㎓프로세서와 8GB DDR3 메모리, 10Gbps 이더넷 포트 1개, 1Gbps 이더넷 포트 2개, AES NI 하드웨어 암호화 탑재로 강력한 구성과 뛰어난 성능을 자랑한다.\nRAID 0, 1, 5, 6, 10, JBOD 지원, 애플 타임머신 백업, 클라우드 마이그레이션 및 동기화, 나스 대 나스 Rsync 지원 등으로 사용자가 필요한 대부분 기능을 갖췄다.\n또 자동 일정 백업, Ntrfs 파일시스템, 스냅샷, 멀티 RAID 어레이 보안, AES 하드웨어 폴더 암호화 및 네트워크 전송 암호화 기능 등으로 멀티 데이터 보안 기능을 지원한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "위드앤아이티(대표 강명일)가 중국 스토리지 전문 제조 기업 테라마스터의 나스(NAS) 신제품 TNAS422 시리즈를 출시했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "타워형 제품으로 기존 론칭한 5베이 모델 F5-422에 이어 2, 4, 8베이인 F2-422, F4-422, F8-422 모델을 선보였다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "높은 하드웨어 사양에 합리적 가격이 강점이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인텔 쿼드코어 1.5㎓프로세서와 8GB DDR3 메모리, 10Gbps 이더넷 포트 1개, 1Gbps 이더넷 포트 2개, AES NI 하드웨어 암호화 탑재로 강력한 구성과 뛰어난 성능을 자랑한다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "RAID 0, 1, 5, 6, 10, JBOD 지원, 애플 타임머신 백업, 클라우드 마이그레이션 및 동기화, 나스 대 나스 Rsync 지원 등으로 사용자가 필요한 대부분 기능을 갖췄다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 자동 일정 백업, Ntrfs 파일시스템, 스냅샷, 멀티 RAID 어레이 보안, AES 하드웨어 폴더 암호화 및 네트워크 전송 암호화 기능 등으로 멀티 데이터 보안 기능을 지원한다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "위드앤아이티, 테라마스터 신제품 NAS 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

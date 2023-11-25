@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330299",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "현대모비스, 마북 연구소 코로나19 확진자 나와...이틀간 폐쇄",
+		"newsSubTitle": "",
+		"newsContent": "경기도 용인시 소재 현대모비스 마북 기술연구소에서 코로나19 확진자가 나왔다.\n현대모비스는 연구소를 3~4일 이틀 간 폐쇄하고 방역에 들어갔다.\n3일 현대모비스에 따르면 연구소에 근무하는 직원 A씨는 이날 1차 확진 판정을 받았다.\nA씨는 지난달 27일 오전 감기증상으로 조퇴했고 28일 재택근무 후 이달 1일 발열증세로 병원을 찾았다.\n2일 코로나19 검사를 진행했고 이날 최종 확진자로 확인됐다.\n현대모비스는 질병관리본부와 협조해 연구소 방역과 역학조사에 들어갔다.\n현대모비스는 지난주부터 본사와 연구소 격일 재택근무를 실시하고 있다.\n현대모비스 관계자는 “임직원 건강을 최우선에 두고 필요한 조치를 신속히 실행할 것”이라며 “의왕연구소 등의 백업도 가능해 연구개발(R&D) 활동에는 차질이 없을 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "경기도 용인시 소재 현대모비스 마북 기술연구소에서 코로나19 확진자가 나왔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대모비스는 연구소를 3~4일 이틀 간 폐쇄하고 방역에 들어갔다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "3일 현대모비스에 따르면 연구소에 근무하는 직원 A씨는 이날 1차 확진 판정을 받았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "A씨는 지난달 27일 오전 감기증상으로 조퇴했고 28일 재택근무 후 이달 1일 발열증세로 병원을 찾았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2일 코로나19 검사를 진행했고 이날 최종 확진자로 확인됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현대모비스는 질병관리본부와 협조해 연구소 방역과 역학조사에 들어갔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현대모비스는 지난주부터 본사와 연구소 격일 재택근무를 실시하고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현대모비스 관계자는 “임직원 건강을 최우선에 두고 필요한 조치를 신속히 실행할 것”이라며 “의왕연구소 등의 백업도 가능해 연구개발(R&D) 활동에는 차질이 없을 것”이라고 말했다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대모비스, 마북 연구소 코로나19 확진자 나와...이틀간 폐쇄",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

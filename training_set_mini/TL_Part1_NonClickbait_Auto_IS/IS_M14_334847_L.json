@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334847",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "스마트시티를 완성하는 영상전용 컨버지드 플랫폼은?",
+		"newsSubTitle": "",
+		"newsContent": "현재 각 지자체에서 스마트시티(통합플랫폼) 사업이 활발하게 진행 중에 있다.\n스마트시티를 구현하기 위해서는 도시 곳곳에서 발생하는 주요 데이터들이 하나의 플랫폼으로 통합돼야 하며, 방대한 데이터를 제대로 해석할 수 있어야 한다.\n스마트시티는 도시운영센터가 도시 상황을 통합관리하기 위한 목적으로 설계 되고 있으며, 궁극적인 목표는 도시의 다양한 데이터(영상 데이터, 교통정보, 환경정보, 시설물 정보)를 통합하고 분석하여 활용하고 서비스 하는데 있다.\n스마트시티에서 가장 많이 활용 되는 데이터는 영상 데이터이다.\n5대 연계 서비스를 통해 활용도가 더 높아지고 있으며, 영상 데이터의 안정적인 보관과 시스템 변화에 유연하게 대응하기 위해 하드웨어 인프라의 중요성도 높아지고 있다.\n현재까지 각종 솔루션, 서비스는 플랫폼 기반기술을 통해 통합되어 운영되고 있지만, 하드웨어 인프라는 아직 분산 운영되고 있는 실정이다.\n진정한 스마트시티 구현을 위해서는 시스템과 하드웨어 인프라의 통합된 아키텍처 제공이 필요하다.\nICT 통합 서비스 전문 기업 효성인포메이션시스템은 히타치 밴타라(Hitachi Vantara)의 영상 전용 컨버지드 플랫폼인 HVMP(Hitachi Video Management Platform)로 도시의 네트워크에서 생성된 데이터를 실시간으로 통합 및 분석해 도시민과 기업들의 편의 및 안전을 증진하는 스마트시티를 실현하고 있다. ‘HVMP’는 영상 데이터의 비용 효율적인 관리를 위해 서버, 스토리지, 플래시 모듈, VM웨어 가상화 및 네트워크 환경을 사전에 테스트 및 일체화해 탑재한 컨버지드 형태의 인프라로 다수의 IP CCTV 및 각종 IoT 센서로부터 수집되는 모든 데이터를 통합, 연계, 분석할 수 있다.\nHVMP는 효율적인 자원 활용이 가능하다.\n현재 도시운영센터는 전통적인 통합관제 시스템과 영상분석 시스템은 통합 플랫폼을 통해 하나의 인프라로 구축되고 운영되고 있으며, 이는 솔루션과의 연계성은 구현되나 솔루션을 운영하는 하드웨어가 분산 운영되어 호환성, 가용성, 안정성이 부족하다.\nHVMP는 개별 특징을 가지고 있는 솔루션들을 분산 서버로 운영하는 것이 아니라, 하나의 통합 서버에 올려 모든 리소스를 효율적으로 활용할 수 있다.\n뛰어난 공간 활용 능력도 갖췄다.\n단일 서버에서 다양한 솔루션을 동시 운영 하여 서버의 수량을 대폭 줄일 수 있으며, 60베이의 디스크 트레이를 활용하여 4U만으로 Physical 600TB를 담을 수 있다.\n통합관제시스템을 기준으로 2,500대 카메라를 운영하기 위한 인프라를 단일 RACK으로 구성할 수 있다.\n효율적인 자원활용과 공간 활용 능력은 전체적인 비용 절감 효과도 있다.\n기존 인프라와의 호환되므로 기 구축하여 사용하고 있는 스토리지 및 서버를 가상화하여 통합 운영이 가능해져, 기 존 시스템을 연속적으로 활용할 수 있다.\n구성품목 전체에 대한 통합 관리 기능도 제공된다.\nHitachi Advisor와 Hi-Track Monitor를 이용하여, 시스템의 운영 및 장애 관리를 할 수 있으며, 시스템 장애 발생에 대한 알람을 담당 엔지니어에게 보내어 즉각 대응이 가능하다.\nHVMP는 영상 저장에서부터 분석 및 모니터링까지 다양한 포트폴리오의 솔루션들을 제공하고 있으며, 특히 스마트시티 구축의 5대 연계서비스의 마지막에 해당하는 사회적 약자 지원에 활용할 수 있는 치매노인 및 미아찾기가 가능한 LFM(얼굴인식솔루션), MPS(포렌식서치)를 통합 제공하고 있다.\n얼굴인식솔루션 LFM은 방범 CCTV 카메라를 이용하여, 광범위 얼굴인식이 가능한 솔루션으로 빠른 처리 속도 및 높은 인식률을 지원한다.\n포렌식서치 MPS는 딥러닝 기반 객체분석 기술을 이용하여 객체의 특징 (나이, 성별, 복장)을 검색하여 대상을 찾아내는 솔루션으로 신속하게 검색할 수 있다.\n히타치는 가상화 기반 영상분석 및 관리에 최적화된 서버►네트워크►스토리지 통합 플랫폼인 HVMP(Hitachi Video Management Platform), 비즈니스 통찰력까지 제공하는 지능형 영상 분석 솔루션 HVA(Hitachi Video Analytics), 시공간정보 기반의 실시간 시각화 솔루션인 HVS(Hitachi Visualization Suite), 데이터 분석 통합 환경을 제공하는 빅데이터 분석 솔루션 펜타호(Pentaho) 등 스마트시티를 위한 다양한 솔루션을 제공하고 있다.\n히타치 밴타라의 스마트시티 포트폴리오는 도시를 데이터화해 시민이 편리하고 안전한 생활을 할 수 있도록 지원한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현재 각 지자체에서 스마트시티(통합플랫폼) 사업이 활발하게 진행 중에 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스마트시티를 구현하기 위해서는 도시 곳곳에서 발생하는 주요 데이터들이 하나의 플랫폼으로 통합돼야 하며, 방대한 데이터를 제대로 해석할 수 있어야 한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스마트시티는 도시운영센터가 도시 상황을 통합관리하기 위한 목적으로 설계 되고 있으며, 궁극적인 목표는 도시의 다양한 데이터(영상 데이터, 교통정보, 환경정보, 시설물 정보)를 통합하고 분석하여 활용하고 서비스 하는데 있다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스마트시티에서 가장 많이 활용 되는 데이터는 영상 데이터이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "5대 연계 서비스를 통해 활용도가 더 높아지고 있으며, 영상 데이터의 안정적인 보관과 시스템 변화에 유연하게 대응하기 위해 하드웨어 인프라의 중요성도 높아지고 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재까지 각종 솔루션, 서비스는 플랫폼 기반기술을 통해 통합되어 운영되고 있지만, 하드웨어 인프라는 아직 분산 운영되고 있는 실정이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "진정한 스마트시티 구현을 위해서는 시스템과 하드웨어 인프라의 통합된 아키텍처 제공이 필요하다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "ICT 통합 서비스 전문 기업 효성인포메이션시스템은 히타치 밴타라(Hitachi Vantara)의 영상 전용 컨버지드 플랫폼인 HVMP(Hitachi Video Management Platform)로 도시의 네트워크에서 생성된 데이터를 실시간으로 통합 및 분석해 도시민과 기업들의 편의 및 안전을 증진하는 스마트시티를 실현하고 있다. ‘HVMP’는 영상 데이터의 비용 효율적인 관리를 위해 서버, 스토리지, 플래시 모듈, VM웨어 가상화 및 네트워크 환경을 사전에 테스트 및 일체화해 탑재한 컨버지드 형태의 인프라로 다수의 IP CCTV 및 각종 IoT 센서로부터 수집되는 모든 데이터를 통합, 연계, 분석할 수 있다.",
+				"sentenceSize": 346
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "HVMP는 효율적인 자원 활용이 가능하다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "현재 도시운영센터는 전통적인 통합관제 시스템과 영상분석 시스템은 통합 플랫폼을 통해 하나의 인프라로 구축되고 운영되고 있으며, 이는 솔루션과의 연계성은 구현되나 솔루션을 운영하는 하드웨어가 분산 운영되어 호환성, 가용성, 안정성이 부족하다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "HVMP는 개별 특징을 가지고 있는 솔루션들을 분산 서버로 운영하는 것이 아니라, 하나의 통합 서버에 올려 모든 리소스를 효율적으로 활용할 수 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "뛰어난 공간 활용 능력도 갖췄다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "단일 서버에서 다양한 솔루션을 동시 운영 하여 서버의 수량을 대폭 줄일 수 있으며, 60베이의 디스크 트레이를 활용하여 4U만으로 Physical 600TB를 담을 수 있다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "통합관제시스템을 기준으로 2,500대 카메라를 운영하기 위한 인프라를 단일 RACK으로 구성할 수 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "효율적인 자원활용과 공간 활용 능력은 전체적인 비용 절감 효과도 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "기존 인프라와의 호환되므로 기 구축하여 사용하고 있는 스토리지 및 서버를 가상화하여 통합 운영이 가능해져, 기 존 시스템을 연속적으로 활용할 수 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "구성품목 전체에 대한 통합 관리 기능도 제공된다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "Hitachi Advisor와 Hi-Track Monitor를 이용하여, 시스템의 운영 및 장애 관리를 할 수 있으며, 시스템 장애 발생에 대한 알람을 담당 엔지니어에게 보내어 즉각 대응이 가능하다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "HVMP는 영상 저장에서부터 분석 및 모니터링까지 다양한 포트폴리오의 솔루션들을 제공하고 있으며, 특히 스마트시티 구축의 5대 연계서비스의 마지막에 해당하는 사회적 약자 지원에 활용할 수 있는 치매노인 및 미아찾기가 가능한 LFM(얼굴인식솔루션), MPS(포렌식서치)를 통합 제공하고 있다.",
+				"sentenceSize": 162
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "얼굴인식솔루션 LFM은 방범 CCTV 카메라를 이용하여, 광범위 얼굴인식이 가능한 솔루션으로 빠른 처리 속도 및 높은 인식률을 지원한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "포렌식서치 MPS는 딥러닝 기반 객체분석 기술을 이용하여 객체의 특징 (나이, 성별, 복장)을 검색하여 대상을 찾아내는 솔루션으로 신속하게 검색할 수 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "히타치는 가상화 기반 영상분석 및 관리에 최적화된 서버►네트워크►스토리지 통합 플랫폼인 HVMP(Hitachi Video Management Platform), 비즈니스 통찰력까지 제공하는 지능형 영상 분석 솔루션 HVA(Hitachi Video Analytics), 시공간정보 기반의 실시간 시각화 솔루션인 HVS(Hitachi Visualization Suite), 데이터 분석 통합 환경을 제공하는 빅데이터 분석 솔루션 펜타호(Pentaho) 등 스마트시티를 위한 다양한 솔루션을 제공하고 있다.",
+				"sentenceSize": 280
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "히타치 밴타라의 스마트시티 포트폴리오는 도시를 데이터화해 시민이 편리하고 안전한 생활을 할 수 있도록 지원한다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스마트시티를 완성하는 영상전용 컨버지드 플랫폼은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

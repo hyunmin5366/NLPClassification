@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350975",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT '헨나호텔 서울 명동'에 AI호텔 서비스",
+		"newsSubTitle": "null",
+		"newsContent": "KT는 일본 호텔 체인 '헨나호텔'의 국내 1호점인 '헨나호텔 서울 명동'에 AI(인공지능) 호텔 서비스을 선보인다고 1일 밝혔다.\n헨나호텔은 일본의 종합 여행사인 H.I.S가 2015년에 선보인 호텔이다.\n로봇이 직원으로 일하는 세계 최초의 호텔로 기네스북에 올랐다.\nKT는 지난 2018년부터 글로벌 호텔 체인인 아코르(Accor), 하얏트(Hyatt), 메리어트(Marriott)계열에서 AI호텔 서비스를 제공하고 있다.\nKT는 새롭게 개편된 '기가지니 호텔 미니' 단말을 통해 음성 명령을 바탕으로 헨나호텔 서울 명동의 객실 내 비대면 서비스를 책임진다. '기가기니 호텔' 단말로 음성 한 마디로 호텔 객실 내 조명·TV·냉난방 조절 등 객실제어가 가능하다.\n어메니티 물품과 컨시어지 서비스를 요청할 수 있으며, 지니뮤직의 콘텐츠를 무제한으로 즐길 수 있다.\n기가지니 호텔 미니 단말로 객실에서 별도의 전화기 없이 프런트 데스크는 물론 다른 객실과 자유롭게 통화할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT는 일본 호텔 체인 '헨나호텔'의 국내 1호점인 '헨나호텔 서울 명동'에 AI(인공지능) 호텔 서비스을 선보인다고 1일 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "헨나호텔은 일본의 종합 여행사인 H.I.S가 2015년에 선보인 호텔이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "로봇이 직원으로 일하는 세계 최초의 호텔로 기네스북에 올랐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KT는 지난 2018년부터 글로벌 호텔 체인인 아코르(Accor), 하얏트(Hyatt), 메리어트(Marriott)계열에서 AI호텔 서비스를 제공하고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KT는 새롭게 개편된 '기가지니 호텔 미니' 단말을 통해 음성 명령을 바탕으로 헨나호텔 서울 명동의 객실 내 비대면 서비스를 책임진다. '기가기니 호텔' 단말로 음성 한 마디로 호텔 객실 내 조명·TV·냉난방 조절 등 객실제어가 가능하다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "어메니티 물품과 컨시어지 서비스를 요청할 수 있으며, 지니뮤직의 콘텐츠를 무제한으로 즐길 수 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기가지니 호텔 미니 단말로 객실에서 별도의 전화기 없이 프런트 데스크는 물론 다른 객실과 자유롭게 통화할 수 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT '헨나호텔 서울 명동'에 AI호텔 서비스",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

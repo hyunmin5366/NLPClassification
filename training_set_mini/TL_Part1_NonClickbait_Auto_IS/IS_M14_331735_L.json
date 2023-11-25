@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331735",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "IRDS “2024년 반도체 CMOS 기술 한계 도달”",
+		"newsSubTitle": "",
+		"newsContent": "오는 2024년이면 P-N 접합 구조가 근간인 상보성금속산화막반도체(CMOS) 공정 기술 진화가 끝이 날 것이라는 전망이 나왔다.\n포스트 CMOS 시대를 열기 위해 연구개발(R&D) 활동에 역량을 집중해야 한다는 주장에 힘이 실리고 있다.\n국제전기전자기술자협회(IEEE)를 주축으로 이뤄진 국제 디바이스∙시스템 로드맵(IRDS)이 최근 발간한 기술 백서에 따르면 현재 반도체 생산에 활용되고 있는 CMOS 공정 기술은 2024년을 기점으로 더 이상 발전이 없을 것으로 예상됐다.\nIRDS는 지난해 활동을 마친 국제반도체기술로드맵(ITRS) 뒤를 이어 미래 반도체 공정 기술을 연구하고 로드맵을 제시하는 단체다.\nITRS는 미국 반도체산업협회(SIA)를 주축으로 1993년 형성된 국가반도체기술로드맵(NTRS)의 확장된 성격이었다.\n1998년 일본, 한국, 대만, 유럽이 참여하면서 미국뿐 아니라 범국가적 반도체 기술 로드맵으로 격상됐다.\n그러나 지난해 5월 발간한 'ITRS 2.0' 보고서를 마지막으로 활동을 종료했다.\nITRS 2.0 보고서에 따르면 2021년이 지나면 더 이상 선폭 축소가 힘들 것으로 전망됐다.\n그러나 IRDS는 실리콘을 대체하는 게르마늄(Ge) 같은 3-5족 화합물 기반 반도체 재료 기술과 핀펫(FinFET) 뒤를 잇는 게이트올어라운드(GAA) 등 기술로 2024년까지 CMOS 공정 기술이 명맥을 이어갈 것으로 관측했다.\nGAA는 전류가 흐르는 게이트 통로를 기존 각형 핀펫 구조에서 원통형으로 바꾸는 것이 핵심이다.\n핀펫은 3개 면에서 전류가 흘렀지만, GAA는 원통을 감싸는 모든 면으로 전류를 흘릴 수 있다.\n전류가 흐르는 통로가 커지면 그 만큼 성능이 좋아진다.\n선폭 축소가 비교적 용이한 것도 특징이다.\nIRDS는 '모어 무어(More Moore)' 기술도 대안으로 내세웠다.\n평면에서 집적도를 높이는 것이 어렵다면 M3D(Monolithic 3-Dimension) 같은 적층 기법으로 성능 향상과 비용 절감이 가능하다는 의미다.\n파올로 갈기니 IRDS 의장은 \\\"한계를 돌파할 수 있는 다양한 과제를 도출하고, 여러 제언을 하기 위한 기반을 구축하겠다\\\"고 설명했다.\nIRDS는 오는 11월 7일 미국 워싱턴DC에서 첫 번째 정식 로드맵을 발표할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오는 2024년이면 P-N 접합 구조가 근간인 상보성금속산화막반도체(CMOS) 공정 기술 진화가 끝이 날 것이라는 전망이 나왔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "포스트 CMOS 시대를 열기 위해 연구개발(R&D) 활동에 역량을 집중해야 한다는 주장에 힘이 실리고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국제전기전자기술자협회(IEEE)를 주축으로 이뤄진 국제 디바이스∙시스템 로드맵(IRDS)이 최근 발간한 기술 백서에 따르면 현재 반도체 생산에 활용되고 있는 CMOS 공정 기술은 2024년을 기점으로 더 이상 발전이 없을 것으로 예상됐다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "IRDS는 지난해 활동을 마친 국제반도체기술로드맵(ITRS) 뒤를 이어 미래 반도체 공정 기술을 연구하고 로드맵을 제시하는 단체다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ITRS는 미국 반도체산업협회(SIA)를 주축으로 1993년 형성된 국가반도체기술로드맵(NTRS)의 확장된 성격이었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "1998년 일본, 한국, 대만, 유럽이 참여하면서 미국뿐 아니라 범국가적 반도체 기술 로드맵으로 격상됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 지난해 5월 발간한 'ITRS 2.0' 보고서를 마지막으로 활동을 종료했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "ITRS 2.0 보고서에 따르면 2021년이 지나면 더 이상 선폭 축소가 힘들 것으로 전망됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그러나 IRDS는 실리콘을 대체하는 게르마늄(Ge) 같은 3-5족 화합물 기반 반도체 재료 기술과 핀펫(FinFET) 뒤를 잇는 게이트올어라운드(GAA) 등 기술로 2024년까지 CMOS 공정 기술이 명맥을 이어갈 것으로 관측했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "GAA는 전류가 흐르는 게이트 통로를 기존 각형 핀펫 구조에서 원통형으로 바꾸는 것이 핵심이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "핀펫은 3개 면에서 전류가 흘렀지만, GAA는 원통을 감싸는 모든 면으로 전류를 흘릴 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "전류가 흐르는 통로가 커지면 그 만큼 성능이 좋아진다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "선폭 축소가 비교적 용이한 것도 특징이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "IRDS는 '모어 무어(More Moore)' 기술도 대안으로 내세웠다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "평면에서 집적도를 높이는 것이 어렵다면 M3D(Monolithic 3-Dimension) 같은 적층 기법으로 성능 향상과 비용 절감이 가능하다는 의미다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "파올로 갈기니 IRDS 의장은 \\\"한계를 돌파할 수 있는 다양한 과제를 도출하고, 여러 제언을 하기 위한 기반을 구축하겠다\\\"고 설명했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "IRDS는 오는 11월 7일 미국 워싱턴DC에서 첫 번째 정식 로드맵을 발표할 예정이다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "IRDS “2024년 반도체 CMOS 기술 한계 도달”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

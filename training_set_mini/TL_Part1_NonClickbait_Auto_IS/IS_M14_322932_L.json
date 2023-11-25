@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322932",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "유블럭스, 차선 구분 가능한 고정밀도 위성측위시스템 모듈 공개",
+		"newsSubTitle": "",
+		"newsContent": "차량 차선정보까지 파악할 수 있는 위성 위치추적 모듈이 출시됐다.\n자율주행차와 첨단운전자지원시스템(ADAS) 정밀도가 획기적으로 높아질 전망이다.\n무선통신과 위치추적 칩·모듈 분야 글로벌 선도기업 유블럭스는 관성 센서가 내장된 고정밀 멀티밴드 위성측위시스템(GNSS) 모듈 ZED-F9K를 공개했다.\n이 모듈은 수십 센티미터 수준 정밀도를 수초 내 제공한다.\n높은 정밀도 때문에 ADAS 및 자율주행차에 적용할 수 있다.\n제품 샘플은 7월부터 공급된다.\n이 모듈은 GNSS 수신기 분야 최신 기술과 신호 처리 알고리즘·보정 서비스를 통합한 제품이다.\nGNSS 보정 서비스로 전리층 및 기타 오차를 보정해 위치정보 정확도를 크게 개선했다.\n멀티밴드 및 다중 위성을 지원, 모든 궤도 GNSS위성으로부터 신호를 수신한다.\n위성신호가 부분 차단된 상황에서 위치추적 성능도 개선됐으며 신호 일시 중단 후 정밀위치 도달 시간도 향상됐다.\n관성센서를 통합해 주차장, 터널, 빌딩숲, 삼림 지역 등 위성신호가 단절되는 환경에서도 차선 구분이 가능한 수준의 위치추적 정확도를 유지할 수 있다.\n위성 신호가 다시 수신되면 관성센서 데이터와 GNSS 신호를 함께 처리해 빠르게 위치정보를 제공한다.\n기존 표준 정밀 솔루션과 비교할 때 10배 정도 향상된 위치정보 성능을 제공한다.\n차선 구분이 가능한 수준의 정밀한 위치 정보를 제공해 첨단 내비게이션뿐 아니라 ADAS 및 자율주행 분야 요구를 충족할 수 있다.\n차량 위치정보를 다른 차량 또는 교통 인프라와 끊임없이 교환하는 V2X시스템에 적용하면 도로 안전성을 향상하고 교통 혼잡 완화에 기여할 것으로 기대된다.\n알렉스 기 유블럭스 제품담당 수석은 “커넥티드 카 요구를 충족하는 턴키 방식 고정밀 GNSS 솔루션”이라면서 “GNSS 수신기에서 관성 측정 장치 및 추측 항법 알고리즘에 이르는 다양한 기술을 통합한 집약체로 제품 개발 사이클 전반에 걸쳐 탁월한 성능을 보장할 수 있다”고 말했다.\n손광수 유블럭스 한국지사장은 “유블럭스는 많은 국내 OEM 및 1차 벤더에 제품을 공급해 성능을 인정받고 있으며 다양한 V2X와 자율주행차 선행개발 프로젝트에도 참여하고 있다”면서 “ZED-F9K 출시로 차원이 다른 성능을 고객사에 제공하고 새로운 비지니스 방향을 제시할 수 있을 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "차량 차선정보까지 파악할 수 있는 위성 위치추적 모듈이 출시됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자율주행차와 첨단운전자지원시스템(ADAS) 정밀도가 획기적으로 높아질 전망이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "무선통신과 위치추적 칩·모듈 분야 글로벌 선도기업 유블럭스는 관성 센서가 내장된 고정밀 멀티밴드 위성측위시스템(GNSS) 모듈 ZED-F9K를 공개했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 모듈은 수십 센티미터 수준 정밀도를 수초 내 제공한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "높은 정밀도 때문에 ADAS 및 자율주행차에 적용할 수 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제품 샘플은 7월부터 공급된다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 모듈은 GNSS 수신기 분야 최신 기술과 신호 처리 알고리즘·보정 서비스를 통합한 제품이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "GNSS 보정 서비스로 전리층 및 기타 오차를 보정해 위치정보 정확도를 크게 개선했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "멀티밴드 및 다중 위성을 지원, 모든 궤도 GNSS위성으로부터 신호를 수신한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "위성신호가 부분 차단된 상황에서 위치추적 성능도 개선됐으며 신호 일시 중단 후 정밀위치 도달 시간도 향상됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "관성센서를 통합해 주차장, 터널, 빌딩숲, 삼림 지역 등 위성신호가 단절되는 환경에서도 차선 구분이 가능한 수준의 위치추적 정확도를 유지할 수 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "위성 신호가 다시 수신되면 관성센서 데이터와 GNSS 신호를 함께 처리해 빠르게 위치정보를 제공한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "기존 표준 정밀 솔루션과 비교할 때 10배 정도 향상된 위치정보 성능을 제공한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "차선 구분이 가능한 수준의 정밀한 위치 정보를 제공해 첨단 내비게이션뿐 아니라 ADAS 및 자율주행 분야 요구를 충족할 수 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "차량 위치정보를 다른 차량 또는 교통 인프라와 끊임없이 교환하는 V2X시스템에 적용하면 도로 안전성을 향상하고 교통 혼잡 완화에 기여할 것으로 기대된다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "알렉스 기 유블럭스 제품담당 수석은 “커넥티드 카 요구를 충족하는 턴키 방식 고정밀 GNSS 솔루션”이라면서 “GNSS 수신기에서 관성 측정 장치 및 추측 항법 알고리즘에 이르는 다양한 기술을 통합한 집약체로 제품 개발 사이클 전반에 걸쳐 탁월한 성능을 보장할 수 있다”고 말했다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "손광수 유블럭스 한국지사장은 “유블럭스는 많은 국내 OEM 및 1차 벤더에 제품을 공급해 성능을 인정받고 있으며 다양한 V2X와 자율주행차 선행개발 프로젝트에도 참여하고 있다”면서 “ZED-F9K 출시로 차원이 다른 성능을 고객사에 제공하고 새로운 비지니스 방향을 제시할 수 있을 것”이라고 밝혔다.",
+				"sentenceSize": 167
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유블럭스, 차선 구분 가능한 고정밀도 위성측위시스템 모듈 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

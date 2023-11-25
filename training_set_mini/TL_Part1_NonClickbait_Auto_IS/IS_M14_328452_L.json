@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328452",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[기획]인텔의 5G 핵심병기 XMM8060 모뎀칩 솔루션은",
+		"newsSubTitle": "",
+		"newsContent": "스마트폰 등 단말기에 탑재되는 모뎀칩은 5G 시장 공략에 없어서는 안 될 핵심 요소다.\n인텔은 4G 롱텀에벌루션(LTE) 모뎀칩 분야에선 퀄컴보다 한발 혹은 두발 정도 느리게 제품을 상용화했다.\n그러나 5G에선 과거처럼 큰 차이가 나지 않는다.\n이 때문에 진정한 경쟁 시대가 열릴 것으로 업계에선 기대한다.\n인텔 5G 상용 모뎀칩 솔루션 XMM8060 샘플은 올 하반기 고객사로 전달될 예정이다.\n내년 중반기에 이 모뎀칩을 탑재한 스마트폰이 출시될 계획이라고 인텔은 설명했다.\n인텔 XMM8060은 5G 표준을 모두 준수한다.\n멀티모드 기능을 탑재해 5G NSA(Non-Standalone), 5G SA(Standalone)는 물론 2G~4G 통신까지 모두 지원한다.\nNSA는 세계 각국이 새로운 5G 주파수를 확보할 동안 기존의 무선 코어망을 활용하는 가상화 기술이다.\n스마트폰을 통해 5G 기지국으로 들어온 전파를 4G LTE 유선망과 연결하거나 반대로 LTE 기지국을 거쳐 들어온 전파를 5G 유선 코어망과 연결한다. 5G 통신 인프라가 완전하게 깔리는 'SA' 시대가 오기 전까지 NSA가 주류를 이룰 것으로 보인다.\nXMM8060은 28㎓ 이상 고주파 대역을 지원한다.\n각 주파수 대역(100㎒) 8개를 주파수집성(CA) 기술로 묶어 최대 800㎒ 대역폭을 쓸 수 있다.\n이에 따라 5G 상용화 초기에는 현재 이론상 약 500Mbps의 LTE 통신 속도보다 10배 이상 빠른 5Gbps 이상 다운로드 속도를 낼 수 있을 전망이다.\nXMM8060은 6㎓ 이하 저주파 대역에서도 동작한다. 28㎓ 이상 고주파 대역은 속도는 빠르지만 전파 파장이 짧아 도달 거리가 짧고, 장애물 영향을 받기 쉽다.\n이 때문에 6㎓ 이하 주파수 대역은 고도의 신뢰성을 요하는 서비스에 적용될 것으로 관측되고 있다.\n코맥 콘로이 인텔 커뮤니케이션디바이스그룹 총괄 부사장은 “4G에서 5G로의 전환이 원활하게 이뤄지도록 모뎀 기술 개발과 투자를 계속할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스마트폰 등 단말기에 탑재되는 모뎀칩은 5G 시장 공략에 없어서는 안 될 핵심 요소다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인텔은 4G 롱텀에벌루션(LTE) 모뎀칩 분야에선 퀄컴보다 한발 혹은 두발 정도 느리게 제품을 상용화했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러나 5G에선 과거처럼 큰 차이가 나지 않는다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 때문에 진정한 경쟁 시대가 열릴 것으로 업계에선 기대한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인텔 5G 상용 모뎀칩 솔루션 XMM8060 샘플은 올 하반기 고객사로 전달될 예정이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "내년 중반기에 이 모뎀칩을 탑재한 스마트폰이 출시될 계획이라고 인텔은 설명했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인텔 XMM8060은 5G 표준을 모두 준수한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "멀티모드 기능을 탑재해 5G NSA(Non-Standalone), 5G SA(Standalone)는 물론 2G~4G 통신까지 모두 지원한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "NSA는 세계 각국이 새로운 5G 주파수를 확보할 동안 기존의 무선 코어망을 활용하는 가상화 기술이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "스마트폰을 통해 5G 기지국으로 들어온 전파를 4G LTE 유선망과 연결하거나 반대로 LTE 기지국을 거쳐 들어온 전파를 5G 유선 코어망과 연결한다. 5G 통신 인프라가 완전하게 깔리는 'SA' 시대가 오기 전까지 NSA가 주류를 이룰 것으로 보인다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "XMM8060은 28㎓ 이상 고주파 대역을 지원한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "각 주파수 대역(100㎒) 8개를 주파수집성(CA) 기술로 묶어 최대 800㎒ 대역폭을 쓸 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이에 따라 5G 상용화 초기에는 현재 이론상 약 500Mbps의 LTE 통신 속도보다 10배 이상 빠른 5Gbps 이상 다운로드 속도를 낼 수 있을 전망이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "XMM8060은 6㎓ 이하 저주파 대역에서도 동작한다. 28㎓ 이상 고주파 대역은 속도는 빠르지만 전파 파장이 짧아 도달 거리가 짧고, 장애물 영향을 받기 쉽다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이 때문에 6㎓ 이하 주파수 대역은 고도의 신뢰성을 요하는 서비스에 적용될 것으로 관측되고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "코맥 콘로이 인텔 커뮤니케이션디바이스그룹 총괄 부사장은 “4G에서 5G로의 전환이 원활하게 이뤄지도록 모뎀 기술 개발과 투자를 계속할 것”이라고 말했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[기획]인텔의 5G 핵심병기 XMM8060 모뎀칩 솔루션은",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

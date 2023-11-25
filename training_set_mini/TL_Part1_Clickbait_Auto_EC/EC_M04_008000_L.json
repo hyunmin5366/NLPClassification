@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008000",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피 올 최저치로 하락",
+		"newsSubTitle": "24.12포인트 내린 2045.58 中 금리인상·환율하락 영향",
+		"newsContent": "코스피지수가 중국의 기습적인 금리 인상과 환율하락 등으로 연중 최저치로 하락했다.\n9일 코스피지수는 전날보다 24.12포인트(1.17%) 내린 2045.58로 장을 마감했다.\n올 들어 가장 낮은 수준이다.\n코스피는 미국 증시가 상승 마감 소식에 전날보다 7.42포인트(0.36%) 오른 2077.12로 출발했다.\n하지만, 중국을 시작으로 국내외 긴축 움직임에 따른 불안감 등으로 하락, 반전했다.\n여기에 외국인들이 현물과 선물시장에서 동시에 매도에 가담하면서 지수의 하락폭을 키웠다.\n이날 코스닥지수도 5.73포인트(1.08%) 내려 525.74로 마감해 나흘만에 하락, 반전했다.\n반면, 원·달러 환율은 전날보다 4.2원 오른 1108.9원을 기록했다.\n3년 만기 국고채 금리는 전날보다 0.06%포인트 내린 4.00%로 장을 마쳤으며 1년짜리 국고채 금리도 3.39%로 0.01%포인트 떨어졌다.\n5년 만기 국고채 금리는 전날과 같은 4.51%를 유지하고, 10년 물 금리는 4.82%로 0.01%포인트 올랐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피지수가 중국의 기습적인 금리 인상과 환율하락 등으로 연중 최저치로 하락했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 코스피지수는 전날보다 24.12포인트(1.17%) 내린 2045.58로 장을 마감했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올 들어 가장 낮은 수준이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코스피는 미국 증시가 상승 마감 소식에 전날보다 7.42포인트(0.36%) 오른 2077.12로 출발했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만, 중국을 시작으로 국내외 긴축 움직임에 따른 불안감 등으로 하락, 반전했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "여기에 외국인들이 현물과 선물시장에서 동시에 매도에 가담하면서 지수의 하락폭을 키웠다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 코스닥지수도 5.73포인트(1.08%) 내려 525.74로 마감해 나흘만에 하락, 반전했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "반면, 원·달러 환율은 전날보다 4.2원 오른 1108.9원을 기록했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "3년 만기 국고채 금리는 전날보다 0.06%포인트 내린 4.00%로 장을 마쳤으며 1년짜리 국고채 금리도 3.39%로 0.01%포인트 떨어졌다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "5년 만기 국고채 금리는 전날과 같은 4.51%를 유지하고, 10년 물 금리는 4.82%로 0.01%포인트 올랐다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세종 주택거래규모 '주춤'…왜?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353015",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "마스크 써도 얼굴로 아이폰 잠금해제...\\\"iOS 새 버전 공개\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "이르면 이달 중 마스크를 쓰고도 얼굴인식으로 아이폰을 잠금해제 할 수 있게 될 전망이다.\n28일(현지시각) IT전문매체 나인투파이브맥(9to5Mac) 등에 따르면 애플은 최근 이 기능을 반영한 iOS 15.4 베타 버전을 공개했다.\n이 버전은 현재 개발자용으로 배포되고 있으며, 정식버전은 이르면 이달 중 배포 예정이다.\n단, 해당 기능은 아이폰12 이상에서만 쓸 수 있다.\n이 기능은 눈 주변의 고유한 특징을 잡아 사용자를 인식한다.\n안경 착용자는 안경을 쓴 상태와 쓰지 않은 상태 모두에서 얼굴을 스캔해야 특징을 잡아낼 수 있다.\n외신에 따르면 얼굴 전체를 인식하는 기존 방식보다는 정확도가 낮아질 수 있지만, 인식 오인율은 100만분의 1 수준으로 지문인식(5만분의 1) 보다는 적다.\n아이폰8 시리즈까지는 기기 전면의 원형 홈버튼을 통해 지문인식만으로도 잠금을 해제할 수 있었지만, 이후 기기는 홈버튼이 사라지면서 안면인식이 도입됐다.\n애플은 코로나19(COVID-19) 팬데믹 이후 마스크 착용이 일상화되면서 관련 기능을 개발해왔다.\n지난해에는 애플워치를 이용한 안면인식 잠금해제 기능을 내놓기도 했다.\n사용자가 애플워치를 손목에 착용한 상태에서 아이폰을 보면 애플워치가 아이폰에 잠금해제를 알리는 방식이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이르면 이달 중 마스크를 쓰고도 얼굴인식으로 아이폰을 잠금해제 할 수 있게 될 전망이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일(현지시각) IT전문매체 나인투파이브맥(9to5Mac) 등에 따르면 애플은 최근 이 기능을 반영한 iOS 15.4 베타 버전을 공개했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 버전은 현재 개발자용으로 배포되고 있으며, 정식버전은 이르면 이달 중 배포 예정이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "단, 해당 기능은 아이폰12 이상에서만 쓸 수 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 기능은 눈 주변의 고유한 특징을 잡아 사용자를 인식한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안경 착용자는 안경을 쓴 상태와 쓰지 않은 상태 모두에서 얼굴을 스캔해야 특징을 잡아낼 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "외신에 따르면 얼굴 전체를 인식하는 기존 방식보다는 정확도가 낮아질 수 있지만, 인식 오인율은 100만분의 1 수준으로 지문인식(5만분의 1) 보다는 적다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아이폰8 시리즈까지는 기기 전면의 원형 홈버튼을 통해 지문인식만으로도 잠금을 해제할 수 있었지만, 이후 기기는 홈버튼이 사라지면서 안면인식이 도입됐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "애플은 코로나19(COVID-19) 팬데믹 이후 마스크 착용이 일상화되면서 관련 기능을 개발해왔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지난해에는 애플워치를 이용한 안면인식 잠금해제 기능을 내놓기도 했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "사용자가 애플워치를 손목에 착용한 상태에서 아이폰을 보면 애플워치가 아이폰에 잠금해제를 알리는 방식이다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마스크 써도 얼굴로 아이폰 잠금해제...\\\"iOS 새 버전 공개\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337046",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "[알림]2020년 하반기 인기상품 모집",
+		"newsSubTitle": "",
+		"newsContent": "전자신문은 기업이 개발한 우수 상품을 독자에게 널리 알리는 한편 올바른 상품 선택 정보를 제공하기 위해 2020년 하반기 인기상품을 선정, 발표합니다.\n인기상품 선정 과정에서 공정성과 객관성 확보를 위해 전문가 의견 수렴은 물론 전자 전문점, 대형 유통상가, 인터넷몰, 홈쇼핑 등 판매 실적을 종합 반영합니다.\n인기상품 선정 결과는 12월 22~23일 이틀에 걸쳐 전자신문 지면과 전자신문인터넷 온라인으로 발표할 예정입니다.\n인기상품 관련 자세한 내용은 전자신문 홈페이지를 참조하면 됩니다.\n여러분의 많은 관심과 참여 바랍니다.\n●시상 내용 : 고객만족, 품질우수, 마케팅우수, 브랜드우수 4개 부문",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전자신문은 기업이 개발한 우수 상품을 독자에게 널리 알리는 한편 올바른 상품 선택 정보를 제공하기 위해 2020년 하반기 인기상품을 선정, 발표합니다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인기상품 선정 과정에서 공정성과 객관성 확보를 위해 전문가 의견 수렴은 물론 전자 전문점, 대형 유통상가, 인터넷몰, 홈쇼핑 등 판매 실적을 종합 반영합니다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인기상품 선정 결과는 12월 22~23일 이틀에 걸쳐 전자신문 지면과 전자신문인터넷 온라인으로 발표할 예정입니다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인기상품 관련 자세한 내용은 전자신문 홈페이지를 참조하면 됩니다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여러분의 많은 관심과 참여 바랍니다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "●시상 내용 : 고객만족, 품질우수, 마케팅우수, 브랜드우수 4개 부문",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[알림]2020년 하반기 인기상품 모집",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

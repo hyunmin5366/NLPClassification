@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332548",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "YTN 유튜브, 해킹 공격에 먹통됐다 복구",
+		"newsSubTitle": "",
+		"newsContent": "보도 전문채널YTN의 유튜브 채널이 해킹 공격을 받아 2시간 30분 가량 운영이 일시 중단됐다 복구됐다.\nYTN유튜브 채널은 이날 오후 6시께 가상 화폐를 홍보하는 불건전 영상들이 노출되면서 채널 운영이 중단됐다.\n복구 전까지 YTN 계정을 클릭하면 '커뮤니티 가이드를 위반해 계정이 해지됐다'는 안내 글이 뜨고 재생 목록은 사라진 상태가 이어졌다.\nYTN은 “유튜브 운영사인 구글은 자체 알고리즘을 통해 커뮤니티 가이드를 심각하게 또는 반복적으로 위반하는 유해 영상을 업로드할 경우 채널 운영을 중단시킨다”면서 “YTN은 유튜브 담당팀과 협력을 통해 해당 문제를 해결해 이날 오후 8시50분께 채널이 복구됐다”고 설명했다.\nYTN계정은 전날 오전에도 해킹 공격을 받아 가상화폐 홍보 관련 영상이 일시적으로 노출된 바 있다.\nYTN은 “YTN과 유튜브 담당팀은 해킹으로 추정되는 이번 중단 사태에 대해 원인 파악과 함께 재발 방지책 마련을 위해 협력하고 있다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보도 전문채널YTN의 유튜브 채널이 해킹 공격을 받아 2시간 30분 가량 운영이 일시 중단됐다 복구됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "YTN유튜브 채널은 이날 오후 6시께 가상 화폐를 홍보하는 불건전 영상들이 노출되면서 채널 운영이 중단됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "복구 전까지 YTN 계정을 클릭하면 '커뮤니티 가이드를 위반해 계정이 해지됐다'는 안내 글이 뜨고 재생 목록은 사라진 상태가 이어졌다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "YTN은 “유튜브 운영사인 구글은 자체 알고리즘을 통해 커뮤니티 가이드를 심각하게 또는 반복적으로 위반하는 유해 영상을 업로드할 경우 채널 운영을 중단시킨다”면서 “YTN은 유튜브 담당팀과 협력을 통해 해당 문제를 해결해 이날 오후 8시50분께 채널이 복구됐다”고 설명했다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "YTN계정은 전날 오전에도 해킹 공격을 받아 가상화폐 홍보 관련 영상이 일시적으로 노출된 바 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "YTN은 “YTN과 유튜브 담당팀은 해킹으로 추정되는 이번 중단 사태에 대해 원인 파악과 함께 재발 방지책 마련을 위해 협력하고 있다”고 덧붙였다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "YTN 유튜브, 해킹 공격에 먹통됐다 복구",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

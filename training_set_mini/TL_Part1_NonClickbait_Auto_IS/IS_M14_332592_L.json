@@ -1,0 +1,267 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332592",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "제2의 스턱스넷?...국내 보안USB로 망분리 무력화하는 공격 발견",
+		"newsSubTitle": "",
+		"newsContent": "인터넷망과 제어망이 분리된 군부대, 발전소, 공항 등 주요 시설을 표적한 사이버 공격이 발견됐다.\n망 분리 환경에서 주요 자료를 전달할 때 쓰는 보안USB를 이용, 제어망(폐쇄망)에 악성코드 감염을 시도했다.\n이란 원심분리기를 마비시킨 스턱스넷 악성코드처럼 망 분리 환경을 무력화하는 공격이다.\n팔로알토네트웍스 위협인텔리전스팀 유닛42는 '틱(TICK)'으로 명명한 해킹그룹이 한국 방산기업 B사의 보안USB를 활용, 제어망 공격을 시도했다고 27일 밝혔다.\nB사는 군과 경찰 등 국내 주요 시설에 보안USB를 공급했다.\n틱은 한국과 일본을 주로 공격하는 해킹그룹이다.\n보안USB는 군이나 공공기관, 발전소와 공항 등 망 분리가 된 시설에서 쓴다.\n인터넷이 분리된 폐쇄망으로 자료를 옮길 때 사용한다.\n해당 기관이 쓰는 보안USB는 국제공통평가기준(CC) 인증을 받아야 한다.\n팔로알토네트웍스는 보안USB 무기화는 인터넷이 연결되지 않는 시스템 감염을 목적으로 하는 특화 공격이라고 설명했다.\n틱 그룹은 제어망 내부에 있는 구형 윈도 시스템 감염에 집중했다.\n틱 그룹이 보안USB로 퍼뜨린 악성코드는 윈도XP, 윈도 서버2003 등 구형 시스템만 감염시킨다.\n군 전장망이나 발전소 제어망 등은 인터넷과 연결되지 않도록 폐쇄망 환경으로 운영된다.\n그 가운데 보안 지원이 종료된 구형 시스템이 많다.\n폐쇄망으로 운영되는 기간시설망은 멈추지 않고 가동이 지속되는 게 중요하다.\n이 때문에 일반 IT 인프라와 달리 보안 패치와 실시간 보안 관리가 어렵다.\n산업제어시스템(ICS)이나 무기 체계 소프트웨어에 영향을 받는지 점검한 후 악성코드를 치료해야 한다.\n보안USB로 악성코드가 전파되면 보안 패치가 되지 않는 구형 시스템이 쉽게 악성코드에 감염된다.\n팔로알토네트웍스는 방산기업 B사가 해킹 당해 보안USB가 손상됐는지 여부는 확인되지 않았다고 전했다.\n틱그룹은 스토리지 장치를 모니터링하는 정상 소프트웨어에 트로이목마 악성코드를 넣어 배포했다.\n표적한 기관 내부 사용자 인터넷 PC에 감염되기를 기다린다.\n트로이목마는 특정 보안USB가 시스템에 접속할 때까지 잠복한다.\n보안USB가 확인되면 새로운 악성코드를 USB 내부에 추가한다.\n보안USB에 자료를 담아 제어망에 꽂으면 악성코드가 내부 시스템에 감염된다.\n인터넷이 연결되지 않은 망 분리 환경이지만 악성코드에 감염된다.\n보안 전문가는 \\\"해당 보안USB는 국내 주요 기관이 사용하는 제품\\\"이라면서 \\\"인터넷이 연결된 폐쇄망 내 시스템에 피해를 주려는 공격\\\"이라고 설명했다.\n이 전문가는 \\\"해당 보안USB 취약점인지 기업이 침해당했는지는 확인되지 않는다\\\"면서 \\\"공격 난이도 등을 봤을 때 국가 지원 해킹 조직으로 보인다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 27,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인터넷망과 제어망이 분리된 군부대, 발전소, 공항 등 주요 시설을 표적한 사이버 공격이 발견됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "망 분리 환경에서 주요 자료를 전달할 때 쓰는 보안USB를 이용, 제어망(폐쇄망)에 악성코드 감염을 시도했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이란 원심분리기를 마비시킨 스턱스넷 악성코드처럼 망 분리 환경을 무력화하는 공격이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팔로알토네트웍스 위협인텔리전스팀 유닛42는 '틱(TICK)'으로 명명한 해킹그룹이 한국 방산기업 B사의 보안USB를 활용, 제어망 공격을 시도했다고 27일 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "B사는 군과 경찰 등 국내 주요 시설에 보안USB를 공급했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "틱은 한국과 일본을 주로 공격하는 해킹그룹이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "보안USB는 군이나 공공기관, 발전소와 공항 등 망 분리가 된 시설에서 쓴다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인터넷이 분리된 폐쇄망으로 자료를 옮길 때 사용한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해당 기관이 쓰는 보안USB는 국제공통평가기준(CC) 인증을 받아야 한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "팔로알토네트웍스는 보안USB 무기화는 인터넷이 연결되지 않는 시스템 감염을 목적으로 하는 특화 공격이라고 설명했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "틱 그룹은 제어망 내부에 있는 구형 윈도 시스템 감염에 집중했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "틱 그룹이 보안USB로 퍼뜨린 악성코드는 윈도XP, 윈도 서버2003 등 구형 시스템만 감염시킨다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "군 전장망이나 발전소 제어망 등은 인터넷과 연결되지 않도록 폐쇄망 환경으로 운영된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "그 가운데 보안 지원이 종료된 구형 시스템이 많다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "폐쇄망으로 운영되는 기간시설망은 멈추지 않고 가동이 지속되는 게 중요하다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이 때문에 일반 IT 인프라와 달리 보안 패치와 실시간 보안 관리가 어렵다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "산업제어시스템(ICS)이나 무기 체계 소프트웨어에 영향을 받는지 점검한 후 악성코드를 치료해야 한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "보안USB로 악성코드가 전파되면 보안 패치가 되지 않는 구형 시스템이 쉽게 악성코드에 감염된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "팔로알토네트웍스는 방산기업 B사가 해킹 당해 보안USB가 손상됐는지 여부는 확인되지 않았다고 전했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "틱그룹은 스토리지 장치를 모니터링하는 정상 소프트웨어에 트로이목마 악성코드를 넣어 배포했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "표적한 기관 내부 사용자 인터넷 PC에 감염되기를 기다린다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "트로이목마는 특정 보안USB가 시스템에 접속할 때까지 잠복한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "보안USB가 확인되면 새로운 악성코드를 USB 내부에 추가한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "보안USB에 자료를 담아 제어망에 꽂으면 악성코드가 내부 시스템에 감염된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "인터넷이 연결되지 않은 망 분리 환경이지만 악성코드에 감염된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "보안 전문가는 \\\"해당 보안USB는 국내 주요 기관이 사용하는 제품\\\"이라면서 \\\"인터넷이 연결된 폐쇄망 내 시스템에 피해를 주려는 공격\\\"이라고 설명했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "이 전문가는 \\\"해당 보안USB 취약점인지 기업이 침해당했는지는 확인되지 않는다\\\"면서 \\\"공격 난이도 등을 봤을 때 국가 지원 해킹 조직으로 보인다\\\"고 덧붙였다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제2의 스턱스넷?...국내 보안USB로 망분리 무력화하는 공격 발견",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

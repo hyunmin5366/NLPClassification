@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330452",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "써브웨이, '샐러드' 판매 정상화…\\\"양상추 수급 불안 해결\\\"",
+		"newsSubTitle": "",
+		"newsContent": "써브웨이가 양상추 수급 불안정으로 일부 판매 차질을 겪어온 샐러드 메뉴 판매를 정상화한다고 4일 밝혔다.\n이날부터 써브웨이 전국 매장에서 19종에 달하는 모든 샐러드 메뉴의 판매가 전면 정상화된다.\n지난달 중순 전국을 강타한 기습 가을한파에 따른 냉해로 인해 양상추 수급이 급격히 불안정해지면서 샌드위치, 햄버거, 샐러드 등 양상추가 들어가는 메뉴를 판매하는 외식업체들은 메뉴에서 양상추를 빼고 판매하거나 관련 메뉴 판매를 중단하는 등 어려움을 겪어왔다.\n써브웨이는 지난달 19일부터 일부 매장에서 양상추가 들어가는 샐러드 메뉴의 판매를 한시적으로 중단해왔다.\n써브웨이에서 샐러드는 샌드위치 못지 않는 인기 메뉴다.\n지난해 전년 대비 약 53%, 올 1~9월 전년 동기 대비 약 35% 매출이 상승하는 등 뚜렷한 성장세를 보이고 있다.\n써브웨이 샐러드는 샌드위치와 마찬가지로 재료를 취향에 따라 선택하는 '커스터마이징'이 가능하다.\n다.\n써브웨이 관계자는 “기후나 물류 등 외부 요인으로 인한 수급 차질을 최소화하고 안정적인 공급을 위해 지속적으로 노력할 계획”이라며 “샐러드 메뉴 판매가 정상화될 때까지 기다려주신 고객 분들께 진심으로 감사드린다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "써브웨이가 양상추 수급 불안정으로 일부 판매 차질을 겪어온 샐러드 메뉴 판매를 정상화한다고 4일 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날부터 써브웨이 전국 매장에서 19종에 달하는 모든 샐러드 메뉴의 판매가 전면 정상화된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난달 중순 전국을 강타한 기습 가을한파에 따른 냉해로 인해 양상추 수급이 급격히 불안정해지면서 샌드위치, 햄버거, 샐러드 등 양상추가 들어가는 메뉴를 판매하는 외식업체들은 메뉴에서 양상추를 빼고 판매하거나 관련 메뉴 판매를 중단하는 등 어려움을 겪어왔다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "써브웨이는 지난달 19일부터 일부 매장에서 양상추가 들어가는 샐러드 메뉴의 판매를 한시적으로 중단해왔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "써브웨이에서 샐러드는 샌드위치 못지 않는 인기 메뉴다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 전년 대비 약 53%, 올 1~9월 전년 동기 대비 약 35% 매출이 상승하는 등 뚜렷한 성장세를 보이고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "써브웨이 샐러드는 샌드위치와 마찬가지로 재료를 취향에 따라 선택하는 '커스터마이징'이 가능하다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다.",
+				"sentenceSize": 2
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "써브웨이 관계자는 “기후나 물류 등 외부 요인으로 인한 수급 차질을 최소화하고 안정적인 공급을 위해 지속적으로 노력할 계획”이라며 “샐러드 메뉴 판매가 정상화될 때까지 기다려주신 고객 분들께 진심으로 감사드린다”고 말했다.",
+				"sentenceSize": 124
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "써브웨이, '샐러드' 판매 정상화…\\\"양상추 수급 불안 해결\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

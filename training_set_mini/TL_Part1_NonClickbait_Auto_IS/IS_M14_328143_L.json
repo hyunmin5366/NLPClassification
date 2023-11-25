@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328143",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "현대차, 8월 美시장 판매량 24% 줄어...4개월 연속 두 자리수 감소",
+		"newsSubTitle": "",
+		"newsContent": "현대·기아자동차가 8월에도 미국 시장에서 판매 하락세를 이어가며 고전하고 있다.\n3일 현대·기아차에 따르면 현대차의 8월 미국 시장 판매량은 5만4310대(제네시스 브랜드 포함)로 작년 같은 기간(7만5003대)보다 24.6% 줄었다.\n지난 5월부터 4개월 연속으로 두 자릿수 감소율을 이어갔다.\n현대차 주력 차종은 지난 달 판매량은 일제히 감소했다. '엑센트'는 무려 68.4% 줄었고, '엘란트라(아반떼)'와 '아제라(그랜저)'는 각각 23.2%, 12.3% 판매 실적이 떨어졌다. '투싼'은 9757대를 팔아 현대차 차종 중 유일하게 전년 동기 대비 성장세(28.2%)를 기록했다.\n기아차는 올해 8월 5만3323대를 팔아 작년 8월(5만4248대)보다 1.7% 감소했다.\n기아차 역시 대다수 차종 판매가 부진했다. '리오(프라이드)'는 지난해 같은 기간과 비교해 8월 판매량이 50.7% 줄었고 '뉴옵티마(K5)'와 '세도나(카니발)', '스포티지(스포티지R)'는 각각 25.3%, 68.7%, 12.7% 감소했다.\n같은 기간 '포르테(K3)'는 28.7%, '카덴자(K7)' 80.5% 판매가 늘었다.\n올해 새롭게 선보인 니로는 2677대 팔려 전월(2763대)보다 소폭 떨어졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대·기아자동차가 8월에도 미국 시장에서 판매 하락세를 이어가며 고전하고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 현대·기아차에 따르면 현대차의 8월 미국 시장 판매량은 5만4310대(제네시스 브랜드 포함)로 작년 같은 기간(7만5003대)보다 24.6% 줄었다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 5월부터 4개월 연속으로 두 자릿수 감소율을 이어갔다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현대차 주력 차종은 지난 달 판매량은 일제히 감소했다. '엑센트'는 무려 68.4% 줄었고, '엘란트라(아반떼)'와 '아제라(그랜저)'는 각각 23.2%, 12.3% 판매 실적이 떨어졌다. '투싼'은 9757대를 팔아 현대차 차종 중 유일하게 전년 동기 대비 성장세(28.2%)를 기록했다.",
+				"sentenceSize": 162
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기아차는 올해 8월 5만3323대를 팔아 작년 8월(5만4248대)보다 1.7% 감소했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기아차 역시 대다수 차종 판매가 부진했다. '리오(프라이드)'는 지난해 같은 기간과 비교해 8월 판매량이 50.7% 줄었고 '뉴옵티마(K5)'와 '세도나(카니발)', '스포티지(스포티지R)'는 각각 25.3%, 68.7%, 12.7% 감소했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "같은 기간 '포르테(K3)'는 28.7%, '카덴자(K7)' 80.5% 판매가 늘었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "올해 새롭게 선보인 니로는 2677대 팔려 전월(2763대)보다 소폭 떨어졌다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대차, 8월 美시장 판매량 24% 줄어...4개월 연속 두 자리수 감소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

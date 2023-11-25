@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348401",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "개인정보 논란 '이루다' 데이터베이스·학습용 대화 내용 '폐기'",
+		"newsSubTitle": "null",
+		"newsContent": "인공지능(AI) 챗봇 이루다 개발사 스캐터랩은 ‘이루다’ 데이터베이스(DB) 및 학습에 사용한 딥러닝 대화 모델을 폐기한다고 15일 밝혔다.\n스캐터랩 측은 \\\"이루다 DB는 비식별화(익명화) 절차를 거쳐 개별적·독립적인 문장으로 이뤄져 있고, 딥러닝 대화 모델은 대화 패턴만 학습하기 때문에 개인정보 유출 위험은 전혀 없다\\\"면서도 \\\"이용자들 불안감을 고려해 폐기를 결정했다\\\"고 설명했다.\n스캐터랩은 현재 한국인터넷진흥원(KISA) 및 개인정보보호위원회 조사를 받고 있다.\n조사가 종료되는 즉시 이루다 DB와 딥러닝 대화 모델의 폐기를 진행한다는 방침이다.\n스캐터랩은 이루다 개발에 활용한 연애의 과학과 텍스트앳 데이터는 활용을 원하지 않는 이용자로부터 신청을 받은 후 삭제할 예정이다.\n이는 향후 딥러닝 대화 모델에도 이용되지 않는다.\n스캐터랩 측은 \\\"향후 신규 가입 및 서비스 이용시에는 개인정보 수집, 이용 동의 절차를 강화할 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI) 챗봇 이루다 개발사 스캐터랩은 ‘이루다’ 데이터베이스(DB) 및 학습에 사용한 딥러닝 대화 모델을 폐기한다고 15일 밝혔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스캐터랩 측은 \\\"이루다 DB는 비식별화(익명화) 절차를 거쳐 개별적·독립적인 문장으로 이뤄져 있고, 딥러닝 대화 모델은 대화 패턴만 학습하기 때문에 개인정보 유출 위험은 전혀 없다\\\"면서도 \\\"이용자들 불안감을 고려해 폐기를 결정했다\\\"고 설명했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스캐터랩은 현재 한국인터넷진흥원(KISA) 및 개인정보보호위원회 조사를 받고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조사가 종료되는 즉시 이루다 DB와 딥러닝 대화 모델의 폐기를 진행한다는 방침이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스캐터랩은 이루다 개발에 활용한 연애의 과학과 텍스트앳 데이터는 활용을 원하지 않는 이용자로부터 신청을 받은 후 삭제할 예정이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는 향후 딥러닝 대화 모델에도 이용되지 않는다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스캐터랩 측은 \\\"향후 신규 가입 및 서비스 이용시에는 개인정보 수집, 이용 동의 절차를 강화할 계획\\\"이라고 말했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "개인정보 논란 '이루다' 데이터베이스·학습용 대화 내용 '폐기'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

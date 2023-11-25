@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004964",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "현대제철, 근로자 1명 사망사고 발생",
+		"newsSubTitle": "중대재해처벌법 적용 불가피",
+		"newsContent": "현대자동차그룹 계열 현대제철이 중대재해처벌법 적용 철강업계 1호 기업이 될 위기에 처했다.\n2일 철강업계에 따르면 이날 오전 5시 40분께 충청남도 당진시 현대제철 1냉연공장 도금공정에서 작업하던 근로자 1명이 대형용기에 빠지는 사고가 발생했다.\n해당 근로자는 현장에서 즉사했다.\n경찰과 고용노동부는 해당 근로자의 신원을 확인하고 정확한 사고원인을 조사 중이다.\n현대제철에서 이날 발생한 사고는 중대재해법 적용 대상이다.\n중대재해법은 5인 이상 근무 사업장에서 1명 이상의 사망자나 부상자 2명 이상이 발생하는 중대재해가 발생한 경우 사업주나 경영 책임자를 처벌토록 규정하고 있다.\n현대제철 측은 고인에 애도를 표하면서 유가족에 대한 후속수습도 책임지겠다는 입장이다.\n현대제철 관계자는 데일리임팩트에 \\\"현재 사고대책반을 설치하고 관계 기관에 적극 협조하며 신속한 사고 수습과 원인 파악에 최선을 다하고 있다\\\"라며 \\\"향후 이러한 사고가 다시 발생하지 않도록 대책 마련 및 안전점검을 최우선으로 진행할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차그룹 계열 현대제철이 중대재해처벌법 적용 철강업계 1호 기업이 될 위기에 처했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 철강업계에 따르면 이날 오전 5시 40분께 충청남도 당진시 현대제철 1냉연공장 도금공정에서 작업하던 근로자 1명이 대형용기에 빠지는 사고가 발생했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 근로자는 현장에서 즉사했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "경찰과 고용노동부는 해당 근로자의 신원을 확인하고 정확한 사고원인을 조사 중이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현대제철에서 이날 발생한 사고는 중대재해법 적용 대상이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중대재해법은 5인 이상 근무 사업장에서 1명 이상의 사망자나 부상자 2명 이상이 발생하는 중대재해가 발생한 경우 사업주나 경영 책임자를 처벌토록 규정하고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현대제철 측은 고인에 애도를 표하면서 유가족에 대한 후속수습도 책임지겠다는 입장이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현대제철 관계자는 데일리임팩트에 \\\"현재 사고대책반을 설치하고 관계 기관에 적극 협조하며 신속한 사고 수습과 원인 파악에 최선을 다하고 있다\\\"라며 \\\"향후 이러한 사고가 다시 발생하지 않도록 대책 마련 및 안전점검을 최우선으로 진행할 것\\\"이라고 말했다.",
+				"sentenceSize": 143
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "거리두기 완화 첫 주말 전통시장 ‘활기’... 매출회복 미온적 의견도",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

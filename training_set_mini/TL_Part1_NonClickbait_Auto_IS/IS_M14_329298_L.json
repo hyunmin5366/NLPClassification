@@ -1,0 +1,366 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329298",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[케이스스터디]파이어아이 '워너크라이'는 여전히 위협",
+		"newsSubTitle": "",
+		"newsContent": "파이어아이(대표 전수홍)는 워너크라이 재확산 매커니즘이 매우 효과적이어서 여전히 위협적이라고 지적했다.\n파이어아이가 분석한 워너크라이 랜섬웨어 사태와 위협 내용을 소개한다.\n워너크라이는 자체적으로 확산하는(웜과 같은) 랜섬웨어다.\n마이크로소프트 서버 메시지 블록(SMB) 프로토콜 취약점을 악용해 공공 인터넷과 내부 네트워크로 확산된다.\n워너크라이는 데이터 파일 확장자를 .WCRY로 암호화하고 파일 복호화를 대가로 미화 300달러~600달러(비트코인으로)를 요구한다.\n워너크라이 명령 및 제어(C2) 통신에 암호화된 토르(Tor)을 사용한다.\n워너크라이 공격과 관련된 악성 바이너리는 서로 다른 두 개의 요소로 구성된다.\n하나는 랜섬웨어 기능을 제공하며, 5월 12일 이전에 보고된 워너크라이 샘플과 매우 유사하게 행동한다.\n다른 하나는 확산에 사용돼 스캐닝과 SMB 취약점 악용 기능을 활성화하는 역할이다.\n파이어아이 아이사이트(iSIGHT) 인텔리전스는 취약한 윈도 컴퓨터를 사용하는 모든 조직에 잠재적으로 상당한 위협이 될 것으로 본다.\n◇감염 경로 워너크라이는 환경에 침투한 후, 윈도 SMB 취약성을 악용해 확산된다.\n이러한 확산 매커니즘은 감염된 네트워크에서 내부적으로는 물론 공공 인터넷을 통해 악성코드를 유포할 수 있다.\n사용된 익스플로잇(exploit)은 이터널블루(EternalBlue)라는 코드명으로 쉐도브로커(ShadowBrokers)가 유출했다.\n마이크로소프트는 지난 3월 보안패치 MS17-010을 발표했다.\n워너크라이는 두 가지 스레드로 증식한다.\n첫 번째 스레드는 네트워크 어댑터들을 나열해 시스템이 어떤 서브넷에 위치해 있는지 판단한다.\n그 후 악성코드는 서브넷의 각 IP에 대해 스레드를 생성한다.\n이 스레드는 TCP 포트 445의 IP에 연결을 시도하며, 성공하면 시스템 악용을 시도한다.\n이러한 취약성 악용에 대응해 마이크로소프트는 워너크라이에 대응한 위험 관리 단계를 제공했다.\n워너크라이 랜섬웨어가 주로 SMB 취약점을 악용해 확산되고는 있지만, 주 공격자들이 다른 유포 방식을 사용할 가능성도 배제할 수 없다.\n워너크라이가 스팸 메시지에 포함된 악성 링크를 통해 확산됐다고 초기 보도되었으나, 파이어아이의 자체 조사 결과 그 정보는 아직까지 입증되지 않았다.\n원래 감염 경로가 무엇이 되었든 간에, 워너크라이 공격자는 악성 문서, 온라인 광고를 통한 악성코드(malvertising) 유포 또는 트래픽이 높은 사이트의 침해 등 랜섬웨어 공격에 보편적으로 사용되는 모든 메커니즘을 사용할 수가 있다.\n이번 공격이 보여준 큰 영향력과 조기 유포 경로의 불확실성을 고려할 때, 조직들은 모든 보편적인 악성코드 유포 경로를 잠재적인 워너크라이 감염 소스로 간주해야 한다.\n◇악성코드 특징 지금까지 식별된 각 워너크라이 변종(웜과 유사한 기능 실행)에는 여러 보안 연구자들이 악성코드 파일 암호화 방지에 사용했던 킬스위치(killswitch)가 포함돼 있다.\n새로운 도메인을 가진 다양한 변종이 등장한 것으로 보아 공격자가 이 기능을 제거 또는 수정할 수 있는 것으로 보인다.\n5월 12일 확산이 시작된 워너크라이 패키지는 피해자 PC를 감염시킨 후, www[.]iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea[.]com에 접속하려는 시도를 한다.\n파이어아이의 테스트에 따르면, 성공적으로 이 도메인에 도달한 악성코드는 암호화나 자체 확산을 수행하지 않는다. (일부 조직들은 멀웨어가 이 경우 지속적으로 자체 확산된다고 보고했지만, 파이어아이는 테스트 환경에서 이러한 행동을 확인할 수 없었다.) 5월 12일 한 보안 전문가가 이 도메인을 등록했으며, 이로 인해 대량 감염을 유발하는 암호화 행동이 중단된 것은 분명하다.\n워너크라이 개발자들은 이 킬스위치 기능을 샌드박스 분석에 대한 대책의 하나로 사용하고자 의도했을 수 있다. 5월 14일, 새로운 킬스위치 도메인 www[.]ifferfsodp9ifjaposdfjhgosurijfaewrwergwea[.]com을 가진 변종이 모습을 드러냈다.\n이 도메인 또한 싱크홀(sinkhole)로 차단돼 표면상으로는 킬스위치 행동이 도메인에 접근한 모든 워너크라이 감염을 비활성화하도록 했다.\n이러한 도메인 접속 변경이 원래 악성코드 유포자들에 의해 구현된 것인지 아니면 제3자가 유포된 샘플을 수정한 것인지는 분명하지 않다.\n또한 5월 14일, 도메인 접속 킬스위치 기능이 포함되지 않은 새로운 변종이 파악됐다.\n이러한 변경은 악성코드가 컴파일 된 후 공격자가 아니라 제3자에 의해 구현됐을 수 있다.\n변종의 랜섬웨어 요소는 손상된 것으로 보이며 테스트 환경에서 기능을 수행하지 않는다.\n위협 활동이 줄어 들고 있다는 반가운 보도가 나오고 있지만, 워너크라이는 여전히 상당한 위협이다.\n워너크리아 재확산 매커니즘이 얼마나 효과적인지를 고려한다면, 마이크로소프트가 권장한 완화 매커니즘을 적용하지 않은 거의 모든 조직이 잠재적으로 워너크라이 확산 시도에 노출된다.\n새로운 변종의 출현은 공격자들이 원하면 워너크라이의 킬스위치 기능을 제거하거나 대폭 수정해 이제까지 취해진 대응책을 회피할 수 있다.\n전수홍 파이어아이 코리아 대표는 \\\"이번 랜섬웨어 사태는 시스템을 최신상태로 업데이트하는 것이 얼마나 중요한 지 잘 보여준다\\\"면서 \\\"만약 업데이트가 불가능할 경우, 시스템을 인터넷 연결로부터 차단하는 조치를 취한 후, 다른 보안 콘트롤을 실행하는 것이 중요하다\\\"고 말했다.\n이번 워너크라이 랜섬웨어 공격의 배후에 북한이 있다는 주장에 대해 파이어아이 분석팀 매니저 존 밀러(John Miler)는 \\\"워너크라이와 배후로 지목된 북한 해킹 그룹이 사용하는 악성코드 간의 유사점이 충분하지 않아 현시점에서는 단정짓기는 어렵다\\\"면서 \\\"파이어아이는 지속적으로 가능한 모든 시나리오를 면밀히 조사할 예정\\\"이라고 밝혔다",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 38,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "파이어아이(대표 전수홍)는 워너크라이 재확산 매커니즘이 매우 효과적이어서 여전히 위협적이라고 지적했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "파이어아이가 분석한 워너크라이 랜섬웨어 사태와 위협 내용을 소개한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "워너크라이는 자체적으로 확산하는(웜과 같은) 랜섬웨어다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마이크로소프트 서버 메시지 블록(SMB) 프로토콜 취약점을 악용해 공공 인터넷과 내부 네트워크로 확산된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "워너크라이는 데이터 파일 확장자를 .WCRY로 암호화하고 파일 복호화를 대가로 미화 300달러~600달러(비트코인으로)를 요구한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "워너크라이 명령 및 제어(C2) 통신에 암호화된 토르(Tor)을 사용한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "워너크라이 공격과 관련된 악성 바이너리는 서로 다른 두 개의 요소로 구성된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하나는 랜섬웨어 기능을 제공하며, 5월 12일 이전에 보고된 워너크라이 샘플과 매우 유사하게 행동한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "다른 하나는 확산에 사용돼 스캐닝과 SMB 취약점 악용 기능을 활성화하는 역할이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "파이어아이 아이사이트(iSIGHT) 인텔리전스는 취약한 윈도 컴퓨터를 사용하는 모든 조직에 잠재적으로 상당한 위협이 될 것으로 본다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "◇감염 경로 워너크라이는 환경에 침투한 후, 윈도 SMB 취약성을 악용해 확산된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이러한 확산 매커니즘은 감염된 네트워크에서 내부적으로는 물론 공공 인터넷을 통해 악성코드를 유포할 수 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "사용된 익스플로잇(exploit)은 이터널블루(EternalBlue)라는 코드명으로 쉐도브로커(ShadowBrokers)가 유출했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "마이크로소프트는 지난 3월 보안패치 MS17-010을 발표했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "워너크라이는 두 가지 스레드로 증식한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "첫 번째 스레드는 네트워크 어댑터들을 나열해 시스템이 어떤 서브넷에 위치해 있는지 판단한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "그 후 악성코드는 서브넷의 각 IP에 대해 스레드를 생성한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이 스레드는 TCP 포트 445의 IP에 연결을 시도하며, 성공하면 시스템 악용을 시도한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이러한 취약성 악용에 대응해 마이크로소프트는 워너크라이에 대응한 위험 관리 단계를 제공했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "워너크라이 랜섬웨어가 주로 SMB 취약점을 악용해 확산되고는 있지만, 주 공격자들이 다른 유포 방식을 사용할 가능성도 배제할 수 없다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "워너크라이가 스팸 메시지에 포함된 악성 링크를 통해 확산됐다고 초기 보도되었으나, 파이어아이의 자체 조사 결과 그 정보는 아직까지 입증되지 않았다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "원래 감염 경로가 무엇이 되었든 간에, 워너크라이 공격자는 악성 문서, 온라인 광고를 통한 악성코드(malvertising) 유포 또는 트래픽이 높은 사이트의 침해 등 랜섬웨어 공격에 보편적으로 사용되는 모든 메커니즘을 사용할 수가 있다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이번 공격이 보여준 큰 영향력과 조기 유포 경로의 불확실성을 고려할 때, 조직들은 모든 보편적인 악성코드 유포 경로를 잠재적인 워너크라이 감염 소스로 간주해야 한다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "◇악성코드 특징 지금까지 식별된 각 워너크라이 변종(웜과 유사한 기능 실행)에는 여러 보안 연구자들이 악성코드 파일 암호화 방지에 사용했던 킬스위치(killswitch)가 포함돼 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "새로운 도메인을 가진 다양한 변종이 등장한 것으로 보아 공격자가 이 기능을 제거 또는 수정할 수 있는 것으로 보인다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "5월 12일 확산이 시작된 워너크라이 패키지는 피해자 PC를 감염시킨 후, www[.]iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea[.]com에 접속하려는 시도를 한다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "파이어아이의 테스트에 따르면, 성공적으로 이 도메인에 도달한 악성코드는 암호화나 자체 확산을 수행하지 않는다. (일부 조직들은 멀웨어가 이 경우 지속적으로 자체 확산된다고 보고했지만, 파이어아이는 테스트 환경에서 이러한 행동을 확인할 수 없었다.) 5월 12일 한 보안 전문가가 이 도메인을 등록했으며, 이로 인해 대량 감염을 유발하는 암호화 행동이 중단된 것은 분명하다.",
+				"sentenceSize": 208
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "워너크라이 개발자들은 이 킬스위치 기능을 샌드박스 분석에 대한 대책의 하나로 사용하고자 의도했을 수 있다. 5월 14일, 새로운 킬스위치 도메인 www[.]ifferfsodp9ifjaposdfjhgosurijfaewrwergwea[.]com을 가진 변종이 모습을 드러냈다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "이 도메인 또한 싱크홀(sinkhole)로 차단돼 표면상으로는 킬스위치 행동이 도메인에 접근한 모든 워너크라이 감염을 비활성화하도록 했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "이러한 도메인 접속 변경이 원래 악성코드 유포자들에 의해 구현된 것인지 아니면 제3자가 유포된 샘플을 수정한 것인지는 분명하지 않다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "또한 5월 14일, 도메인 접속 킬스위치 기능이 포함되지 않은 새로운 변종이 파악됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "이러한 변경은 악성코드가 컴파일 된 후 공격자가 아니라 제3자에 의해 구현됐을 수 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "변종의 랜섬웨어 요소는 손상된 것으로 보이며 테스트 환경에서 기능을 수행하지 않는다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "위협 활동이 줄어 들고 있다는 반가운 보도가 나오고 있지만, 워너크라이는 여전히 상당한 위협이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "워너크리아 재확산 매커니즘이 얼마나 효과적인지를 고려한다면, 마이크로소프트가 권장한 완화 매커니즘을 적용하지 않은 거의 모든 조직이 잠재적으로 워너크라이 확산 시도에 노출된다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "새로운 변종의 출현은 공격자들이 원하면 워너크라이의 킬스위치 기능을 제거하거나 대폭 수정해 이제까지 취해진 대응책을 회피할 수 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 37,
+				"sentenceContent": "전수홍 파이어아이 코리아 대표는 \\\"이번 랜섬웨어 사태는 시스템을 최신상태로 업데이트하는 것이 얼마나 중요한 지 잘 보여준다\\\"면서 \\\"만약 업데이트가 불가능할 경우, 시스템을 인터넷 연결로부터 차단하는 조치를 취한 후, 다른 보안 콘트롤을 실행하는 것이 중요하다\\\"고 말했다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 38,
+				"sentenceContent": "이번 워너크라이 랜섬웨어 공격의 배후에 북한이 있다는 주장에 대해 파이어아이 분석팀 매니저 존 밀러(John Miler)는 \\\"워너크라이와 배후로 지목된 북한 해킹 그룹이 사용하는 악성코드 간의 유사점이 충분하지 않아 현시점에서는 단정짓기는 어렵다\\\"면서 \\\"파이어아이는 지속적으로 가능한 모든 시나리오를 면밀히 조사할 예정\\\"이라고 밝혔다",
+				"sentenceSize": 190
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[케이스스터디]파이어아이 '워너크라이'는 여전히 위협",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 37,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 38,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

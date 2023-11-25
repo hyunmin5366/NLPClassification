@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354010",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "루게릭병에 잃어버린 목소리…KT 인공지능이 되찾았다",
+		"newsSubTitle": "null",
+		"newsContent": "KT가 사고나 질병 등 후천적으로 목소리를 잃은 이들의 목소리를 복원해주는 '목소리 찾기' 프로젝트에 착수했다.\nKT는 비영리재단법인 승일희망재단과 함께 목소리를 잃어가는 루게릭병 환우 8명의 목소리를 복원했다고 19일 밝혔다.\n또 복원된 목소리를 일상에서 활용할 수 있도록 모바일 앱 '마음톡'을 무상 지원했다.\n루게릭병은 운동 세포 파괴로 신체 근육을 약화시키는데, 혀의 근육이 약해지면 분명한 발음이 어려워지거나 마비가 진행돼 기도를 절개해야 할 경우 목소리를 완전히 잃게 된다.\n이에 많은 루게릭병 환우들은 갑자기 목소리를 잃게 될 것에 대비해 사전에 자신의 음성을 남기기를 원한다.\nKT는 개인화 음성합성기술(P-TTS)을 활용해 이들의 목소리를 복원했다.\n이 기술은 적은 양의 음성 샘플만으로도 딥러닝 기반 AI 학습을 통해 사람의 음색, 어조, 말투 등을 반영한 목소리를 그대로 구현한다.\nKT는 환우들이 스마트폰으로 500개의 대화체 문장을 녹음해 전달한 오디오 파일을 바탕으로 이들의 음성 샘플 데이터를 교정하고 목소리를 생성했다.\n루게릭병 환우들이 KT의 마음톡 앱에 텍스트를 입력하면, 이 앱이 해당 환우의 목소리로 읽어준다.\n텍스트를 음성으로 변환하는 과정에서 수천만 번의 연산을 거치는데 연산 시간은 1초 내외로 체감 지연이 없어 타인과 실시간으로 대화할 수 있다.\n음성 및 영상통화도 가능하며, 음성통화 도중 끊김 없이 영상통화로 전환할 수도 있다.\n이번 프로젝트는 한 고객센터 문의에서 시작됐다.\n루게릭 환우의 부인이 남편이 목소리를 잃은 후에도 자녀들이 아빠의 목소리를 들을 수 있도록 기가지니의 '내 목소리 동화' 서비스를 이용할 수 있을지 문의했다.\n이 서비스는 한시적 이벤트였지만, 사연을 접수한 상담원과 담당 부서의 노력으로 이 환우는 기도 절개 수술 이후에도 목소리 복원을 이용할 수 있었다.\n이후 비슷한 상황에 놓인 환우들에게 KT 마음톡 앱을 소개하면서 확대됐다.\nKT는 2020년부터 농인들의 목소리를 AI 기술로 복원하는 활동을 해왔다.\n김무성 KT ESG경영추진실 상무는 \\\"디지털 포용을 실천하고 고객의 삶의 변화를 이끌어 내겠다는 것이 KT ESG 경영의 지향점\\\"이라며 \\\"목소리 찾기 프로젝트와 같이 앞으로도 KT가 가장 잘할 수 있는 기술과 솔루션으로 다양한 영역의 사회 문제를 해결하는 데 앞장서겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 사고나 질병 등 후천적으로 목소리를 잃은 이들의 목소리를 복원해주는 '목소리 찾기' 프로젝트에 착수했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT는 비영리재단법인 승일희망재단과 함께 목소리를 잃어가는 루게릭병 환우 8명의 목소리를 복원했다고 19일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 복원된 목소리를 일상에서 활용할 수 있도록 모바일 앱 '마음톡'을 무상 지원했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "루게릭병은 운동 세포 파괴로 신체 근육을 약화시키는데, 혀의 근육이 약해지면 분명한 발음이 어려워지거나 마비가 진행돼 기도를 절개해야 할 경우 목소리를 완전히 잃게 된다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 많은 루게릭병 환우들은 갑자기 목소리를 잃게 될 것에 대비해 사전에 자신의 음성을 남기기를 원한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT는 개인화 음성합성기술(P-TTS)을 활용해 이들의 목소리를 복원했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 기술은 적은 양의 음성 샘플만으로도 딥러닝 기반 AI 학습을 통해 사람의 음색, 어조, 말투 등을 반영한 목소리를 그대로 구현한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "KT는 환우들이 스마트폰으로 500개의 대화체 문장을 녹음해 전달한 오디오 파일을 바탕으로 이들의 음성 샘플 데이터를 교정하고 목소리를 생성했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "루게릭병 환우들이 KT의 마음톡 앱에 텍스트를 입력하면, 이 앱이 해당 환우의 목소리로 읽어준다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "텍스트를 음성으로 변환하는 과정에서 수천만 번의 연산을 거치는데 연산 시간은 1초 내외로 체감 지연이 없어 타인과 실시간으로 대화할 수 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "음성 및 영상통화도 가능하며, 음성통화 도중 끊김 없이 영상통화로 전환할 수도 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이번 프로젝트는 한 고객센터 문의에서 시작됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "루게릭 환우의 부인이 남편이 목소리를 잃은 후에도 자녀들이 아빠의 목소리를 들을 수 있도록 기가지니의 '내 목소리 동화' 서비스를 이용할 수 있을지 문의했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이 서비스는 한시적 이벤트였지만, 사연을 접수한 상담원과 담당 부서의 노력으로 이 환우는 기도 절개 수술 이후에도 목소리 복원을 이용할 수 있었다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이후 비슷한 상황에 놓인 환우들에게 KT 마음톡 앱을 소개하면서 확대됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "KT는 2020년부터 농인들의 목소리를 AI 기술로 복원하는 활동을 해왔다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "김무성 KT ESG경영추진실 상무는 \\\"디지털 포용을 실천하고 고객의 삶의 변화를 이끌어 내겠다는 것이 KT ESG 경영의 지향점\\\"이라며 \\\"목소리 찾기 프로젝트와 같이 앞으로도 KT가 가장 잘할 수 있는 기술과 솔루션으로 다양한 영역의 사회 문제를 해결하는 데 앞장서겠다\\\"고 말했다.",
+				"sentenceSize": 161
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "루게릭병에 잃어버린 목소리…KT 인공지능이 되찾았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

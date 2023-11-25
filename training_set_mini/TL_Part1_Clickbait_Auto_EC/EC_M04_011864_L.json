@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011864",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "휘발유 값 숨고르기… 10주만에 상승폭 둔화 ℓ당 1950.14원",
+		"newsSubTitle": "대전은 ℓ당 1952.96원, 충남은 1950.02원",
+		"newsContent": "휘발유 가격이 10주 연속 상승세를 이어갔지만, 최근 국제유가 하락 영향 등으로 상승폭은 둔화됐다.\n4일 한국석유공사의 유가정보사이트 오피넷에 따르면 8월 첫째주 전국 보통휘발유 평균 판매가격은 전주보다 4.46원 오른 ℓ당 1950.14원을 기록했다.\n지역별로는 서울 (2034.55원), 제주(2012.84원), 경기(1958.88원), 세종(1953,36원), 강원(1954.13원), 대전(1952.96원), 인천(1948.53원), 충남(1950.02원) 등의 순으로 가격이 높았고, 대구(1927.79)원, 경북(1930.94원), 경남(1933.52) 순으로 가격이 낮았다.\n최고가격인 서울과 최저가격인 대구와의 휘발유 가격은 ℓ당 106.76원 차이를 보였다.\n휘발유의 정유사 공급가격은 4주 만에 하락했다.\n휘발유 가격은 전주 대비 3.17원 내린 958.62원을 나타냈다.\n주유소별 보통휘발유 판매가격은 SK에너지가 ℓ당 1963.40원으로 가장 비쌌다.\n이어 GS칼텍스 1959.36원, S-OIL 1943.08원, 현대오일뱅크 1937.03원 순이었다.\n알뜰 주유소는 1920.80원이다.\n석유공사 관계자는 “중국의 경제성장 둔화 우려와 달러화 강세 등의 영향으로 국제유가가 내림세를 보이고 있다”며 “하지만, 국제가격과 국내 정유사 공급가격 상승분이 상쇄되면서 앞으로 국내 석유제품 가격이 소폭 상승하거나 정체를 보이는 강보합세가 예상된다”고 전망했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "휘발유 가격이 10주 연속 상승세를 이어갔지만, 최근 국제유가 하락 영향 등으로 상승폭은 둔화됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 한국석유공사의 유가정보사이트 오피넷에 따르면 8월 첫째주 전국 보통휘발유 평균 판매가격은 전주보다 4.46원 오른 ℓ당 1950.14원을 기록했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지역별로는 서울 (2034.55원), 제주(2012.84원), 경기(1958.88원), 세종(1953,36원), 강원(1954.13원), 대전(1952.96원), 인천(1948.53원), 충남(1950.02원) 등의 순으로 가격이 높았고, 대구(1927.79)원, 경북(1930.94원), 경남(1933.52) 순으로 가격이 낮았다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최고가격인 서울과 최저가격인 대구와의 휘발유 가격은 ℓ당 106.76원 차이를 보였다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "휘발유의 정유사 공급가격은 4주 만에 하락했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "휘발유 가격은 전주 대비 3.17원 내린 958.62원을 나타냈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주유소별 보통휘발유 판매가격은 SK에너지가 ℓ당 1963.40원으로 가장 비쌌다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 GS칼텍스 1959.36원, S-OIL 1943.08원, 현대오일뱅크 1937.03원 순이었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "알뜰 주유소는 1920.80원이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "석유공사 관계자는 “중국의 경제성장 둔화 우려와 달러화 강세 등의 영향으로 국제유가가 내림세를 보이고 있다”며 “하지만, 국제가격과 국내 정유사 공급가격 상승분이 상쇄되면서 앞으로 국내 석유제품 가격이 소폭 상승하거나 정체를 보이는 강보합세가 예상된다”고 전망했다.",
+				"sentenceSize": 148
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "뉴스제휴평가위, 상반기 심사일정 확정...15개 단체서 2명씩 위원 참여",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

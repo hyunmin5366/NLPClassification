@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332289",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[이슈분석]스펙터·멜트다운 보안 패치시 일부 성능 저하",
+		"newsSubTitle": "",
+		"newsContent": "스펙터와 멜트다운 취약점을 해결하려면 펌웨어를 통해 중앙처리장치(CPU) 동작 구조를 고치고 운용체계(OS)와 웹브라우저 등 일부 응용 프로그램의 보안 업데이트를 실시해야 한다.\n성능 저하는 있다.\n그러나 처음 더레지스터가 보도한 대로 '최대 30% 성능 저하'는 과장됐다는 게 전문가들의 평가다.\n인텔은 지난 10일 6세대, 7세대, 8세대 코어 프로세서 CPU가 탑재된 개인PC에 보안 업데이트를 한 뒤 벤치마크테스트 결과를 공개했다.\n구형 6세대 코어 i7-6700 CPU를 탑재한 PC에서 프로그램 응답성 테스트(시스마크 2014)를 실시했을 때 21%의 성능 저하가 있었던 것이 가장 컸다.\n나머지 대부분 제품과 테스트 항목에선 6~8% 성능 감소가 평균이었다.\n대부분 저장장치에서 데이터를 읽거나 쓸 때 성능이 일부 감소했다.\n전문가들은 구형 CPU 일수록 성능 저하가 보다 클 것이라는 분석을 내놓았다.\n스마트폰에 탑재되는 ARM 아키텍처 기반 모바일 CPU의 경우 일부 성능 저하는 있으나 사용시 큰 영향을 미칠 정도는 아니라는 것이 전문가의 분석이다.\n애플은 멜트다운 보안 업그레이드로 인해 아이폰 등에서 일어나는 성능 저하는 전혀 없다고 밝혔다.\n다만 스펙터 보안 패치시 웹 브라우저 성능이 약 2.5% 감소할 수도 있다는 분석을 내놓았다.\n문제는 서버다.\n인텔 최신 서버용 CPU인 제온 스케일러블 시스템의 경우 성능 감소폭은 0~2% 수준으로 나타났다.\n성능 저하가 크진 않으나 서버를 대량으로 연결해서 쓰는 클라우드 서비스 사업자의 경우 영향이 적지 않다.\n김승주 고려대 정보보호대학원 교수는 “일반 사용자가 쓰는 개인용 컴퓨터나 스마트폰보다는 클라우드 환경에서의 위협과 비용 부담이 클 것”이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스펙터와 멜트다운 취약점을 해결하려면 펌웨어를 통해 중앙처리장치(CPU) 동작 구조를 고치고 운용체계(OS)와 웹브라우저 등 일부 응용 프로그램의 보안 업데이트를 실시해야 한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "성능 저하는 있다.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러나 처음 더레지스터가 보도한 대로 '최대 30% 성능 저하'는 과장됐다는 게 전문가들의 평가다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인텔은 지난 10일 6세대, 7세대, 8세대 코어 프로세서 CPU가 탑재된 개인PC에 보안 업데이트를 한 뒤 벤치마크테스트 결과를 공개했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구형 6세대 코어 i7-6700 CPU를 탑재한 PC에서 프로그램 응답성 테스트(시스마크 2014)를 실시했을 때 21%의 성능 저하가 있었던 것이 가장 컸다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "나머지 대부분 제품과 테스트 항목에선 6~8% 성능 감소가 평균이었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대부분 저장장치에서 데이터를 읽거나 쓸 때 성능이 일부 감소했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전문가들은 구형 CPU 일수록 성능 저하가 보다 클 것이라는 분석을 내놓았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "스마트폰에 탑재되는 ARM 아키텍처 기반 모바일 CPU의 경우 일부 성능 저하는 있으나 사용시 큰 영향을 미칠 정도는 아니라는 것이 전문가의 분석이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "애플은 멜트다운 보안 업그레이드로 인해 아이폰 등에서 일어나는 성능 저하는 전혀 없다고 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "다만 스펙터 보안 패치시 웹 브라우저 성능이 약 2.5% 감소할 수도 있다는 분석을 내놓았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "문제는 서버다.",
+				"sentenceSize": 8
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "인텔 최신 서버용 CPU인 제온 스케일러블 시스템의 경우 성능 감소폭은 0~2% 수준으로 나타났다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "성능 저하가 크진 않으나 서버를 대량으로 연결해서 쓰는 클라우드 서비스 사업자의 경우 영향이 적지 않다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "김승주 고려대 정보보호대학원 교수는 “일반 사용자가 쓰는 개인용 컴퓨터나 스마트폰보다는 클라우드 환경에서의 위협과 비용 부담이 클 것”이라고 설명했다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]스펙터·멜트다운 보안 패치시 일부 성능 저하",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

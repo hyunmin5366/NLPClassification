@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323262",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "큐샌 엑스큐브나스 , 시게이트 'IHM'기능 지원",
+		"newsSubTitle": "",
+		"newsContent": "대만 큐샌 나스(NAS) 국내 총판 위드앤아이티는 큐샌 엑스큐브나스가 시게이트 IHM(IronWolf Health Management)를 지원한다고 밝혔다.\n위드앤아이티는 고객에게 안정적 스토리지 솔루션을 제공하기 위해 IHM 기능을 탑재했다고 설명했다.\nIHM 기능은 시게이트 아이언울프 디스크 상태와 수명 등 모니터링과 진단 툴을 제공한다.\n데이터 보호는 물론 혹시 일어날 수 있는 재난도 막을 수 있다.\nIHM 기능은 엑스큐브나스 QSM 3.1.5 버전부터 사용 가능하다.\nQSM 3.1.5 버전은 기존 ZFS에 IHM을 내부에 임베드해 나스에 저장된 데이터 보안성이 많이 높아졌다.\nZFS 데이터 통합, 재난 복구 솔루션과 IHM의 키 매개변수와 중재 분석을 통한 디스크 상태와 성능 감시 기능이 더해졌다.\nQSM과 IHM의 콜라보레이션은 데이터 재난 위험성을 미리 예방한다.\nIHM이 탑재된 QSM 3.1.5 버전은 6월에 출시 예정이며 사용자 요청을 수렴해 다양한 기능을 추가했다고 위드앤아이티는 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대만 큐샌 나스(NAS) 국내 총판 위드앤아이티는 큐샌 엑스큐브나스가 시게이트 IHM(IronWolf Health Management)를 지원한다고 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "위드앤아이티는 고객에게 안정적 스토리지 솔루션을 제공하기 위해 IHM 기능을 탑재했다고 설명했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "IHM 기능은 시게이트 아이언울프 디스크 상태와 수명 등 모니터링과 진단 툴을 제공한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "데이터 보호는 물론 혹시 일어날 수 있는 재난도 막을 수 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "IHM 기능은 엑스큐브나스 QSM 3.1.5 버전부터 사용 가능하다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "QSM 3.1.5 버전은 기존 ZFS에 IHM을 내부에 임베드해 나스에 저장된 데이터 보안성이 많이 높아졌다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "ZFS 데이터 통합, 재난 복구 솔루션과 IHM의 키 매개변수와 중재 분석을 통한 디스크 상태와 성능 감시 기능이 더해졌다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "QSM과 IHM의 콜라보레이션은 데이터 재난 위험성을 미리 예방한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "IHM이 탑재된 QSM 3.1.5 버전은 6월에 출시 예정이며 사용자 요청을 수렴해 다양한 기능을 추가했다고 위드앤아이티는 밝혔다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "큐샌 엑스큐브나스 , 시게이트 'IHM'기능 지원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

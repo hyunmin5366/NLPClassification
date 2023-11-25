@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007601",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "“침으로 코카인 중독 억제”",
+		"newsSubTitle": "한의학연 최선미 박사·대구한의대 양재하 교수팀 연구",
+		"newsContent": "'침'을 통해 중독성 있는 대표적인 마약류인 코카인을 치료할 수 있는 가능성이 확인됐다.\n한국한의학연구원은 침구경락연구센터 최선미 박사팀과 대구한의대 양재하 교수팀이 만성 코카인 투여에 의해 중독된 쥐를 대상으로 동물실험을 실시한 결과 침이 스트레스로 인한 코카인 중독을 억제할 수 있다는 것을 확인했다고 9일 밝혔다.\n연구팀은 코카인을 먹은 쥐를 통해 외부에서 육체적 자극을 주면 스트레스를 받아 스스로 코카인을 흡입하게 되는 '코카인 자가 투여 실험 모델'을 만든 뒤, 침 시술 후 코카인 자가 투여 행동 억제 효과를 관찰하는 실험을 실시했다.\n실험에서 침 시술에 사용된 '신문혈'은 불안, 놀람 등 정신 신경성 질환 치료에 효과가 있는 혈자리다.\n실험 결과 신문혈에 침 자극을 받은 쥐는 침 자극을 하지 않은 쥐와 구별되게 코카인 자가 투여 행동이 나타나지 않았다고 연구팀은 설명했다.\n또 연구팀은 중독에 의해 활성화되는 대뇌 측좌핵의 신경활성 물질이 침 자극으로 억제 되는 것도 확인했다.\n공동연구팀은 이 연구결과를 지난 11월 미국 샌디에이고에서 열린 미국 신경과학회에서 발표했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'침'을 통해 중독성 있는 대표적인 마약류인 코카인을 치료할 수 있는 가능성이 확인됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국한의학연구원은 침구경락연구센터 최선미 박사팀과 대구한의대 양재하 교수팀이 만성 코카인 투여에 의해 중독된 쥐를 대상으로 동물실험을 실시한 결과 침이 스트레스로 인한 코카인 중독을 억제할 수 있다는 것을 확인했다고 9일 밝혔다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연구팀은 코카인을 먹은 쥐를 통해 외부에서 육체적 자극을 주면 스트레스를 받아 스스로 코카인을 흡입하게 되는 '코카인 자가 투여 실험 모델'을 만든 뒤, 침 시술 후 코카인 자가 투여 행동 억제 효과를 관찰하는 실험을 실시했다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "실험에서 침 시술에 사용된 '신문혈'은 불안, 놀람 등 정신 신경성 질환 치료에 효과가 있는 혈자리다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실험 결과 신문혈에 침 자극을 받은 쥐는 침 자극을 하지 않은 쥐와 구별되게 코카인 자가 투여 행동이 나타나지 않았다고 연구팀은 설명했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 연구팀은 중독에 의해 활성화되는 대뇌 측좌핵의 신경활성 물질이 침 자극으로 억제 되는 것도 확인했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공동연구팀은 이 연구결과를 지난 11월 미국 샌디에이고에서 열린 미국 신경과학회에서 발표했다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공정위, \\\"지주회사가 벤처캐피탈 소유시 사익편취 우려\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

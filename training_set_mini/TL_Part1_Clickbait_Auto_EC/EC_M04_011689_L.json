@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011689",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "날개잃은 코스피…하루만에 1900선 다시 붕괴",
+		"newsSubTitle": "",
+		"newsContent": "▲ 19일 코스피가 외국인 매도세에 전날보다 12.31포인트(0.65%) 내린 1888.31로 장을 마감했다.\n환율은 달러당 1130.8원. 연합뉴스코스피 지수가 상승 하루 만에 1900선이 다시 무너졌다.\n19일 코스피 지수는 전 거래일보다 12.31포인트(0.65%) 내린 1888.31로 장을 마쳤다.\n이날 개인과 기관은 각각 1199억원, 115억원어치를 사들였으나 외국인이 1284억원어치를 내놓으며 지수 하락을 이끌었다.\n업종별로는 의료정밀(2.75%), 종이목재(1.54%) 등이 상승한 반면 기계(2.69%), 건설업(2.34%), 통신업(1.35%) 등은 하락했다 코스닥은 전거래일보다 2.85포인트(0.53%) 내린 531.41을 기록했다.\n원·달러 환율은 전장보다 0.30원 내린 1130.80원에 거래를 마쳤다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 19일 코스피가 외국인 매도세에 전날보다 12.31포인트(0.65%) 내린 1888.31로 장을 마감했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "환율은 달러당 1130.8원. 연합뉴스코스피 지수가 상승 하루 만에 1900선이 다시 무너졌다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "19일 코스피 지수는 전 거래일보다 12.31포인트(0.65%) 내린 1888.31로 장을 마쳤다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 개인과 기관은 각각 1199억원, 115억원어치를 사들였으나 외국인이 1284억원어치를 내놓으며 지수 하락을 이끌었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업종별로는 의료정밀(2.75%), 종이목재(1.54%) 등이 상승한 반면 기계(2.69%), 건설업(2.34%), 통신업(1.35%) 등은 하락했다 코스닥은 전거래일보다 2.85포인트(0.53%) 내린 531.41을 기록했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "원·달러 환율은 전장보다 0.30원 내린 1130.80원에 거래를 마쳤다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[르포] 흔들리고, 녹슬고… 대전 신탄진역 연결통로 육교 가보니",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

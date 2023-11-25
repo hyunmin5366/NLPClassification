@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336449",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "워너크라이 패러디 프로그램까지 나돌아",
+		"newsSubTitle": "",
+		"newsContent": "워너크라이 랜섬웨어를 악용한 패러디 프로그램까지 나타났다.\n이스트시큐리티(대표 정상원)는 알약블로그에 워너크라이 랜섬 메시지와 유사한 잠금화면을 표시하는 프로그램이 나타났다고 밝혔다.\n단순히 잠금 화면만 내보내는 것부터 실제로 파일을 암호화하는 랜섬웨어 기능을 포함된 형태(DarkoderCrypt0r)까지 다양하다.\nDarkoderCrypt0r는 워너크라이와 거의 유사한 경고문구를 내보낸다.\n실제로 바탕화면에 위치한 파일을 '.DARKCRY'로 암호화한다.\n워너크라이 랜섬웨어와 동일한 형태 경고 메시지를 제작하는 도구도 등장했다.\n랜섬행위는 하지 않지만 문구를 보여준다.\n워나크립트 V2.5는 이름도 워너크라이와 비슷한데 경고 메시지만 내보내고 별도 악성행위는 하지 않는다.\n또 다른 가짜는 워나크립트 4.0이다.\n워나크립트 v2.5와 거의 동일한 프로그램으로 분석된다.\n이 프로그램은 실제 워너크라이에서 지원하지 않았던 태국어 경고문구를 초기설정으로 해놨다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "워너크라이 랜섬웨어를 악용한 패러디 프로그램까지 나타났다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이스트시큐리티(대표 정상원)는 알약블로그에 워너크라이 랜섬 메시지와 유사한 잠금화면을 표시하는 프로그램이 나타났다고 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "단순히 잠금 화면만 내보내는 것부터 실제로 파일을 암호화하는 랜섬웨어 기능을 포함된 형태(DarkoderCrypt0r)까지 다양하다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "DarkoderCrypt0r는 워너크라이와 거의 유사한 경고문구를 내보낸다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제로 바탕화면에 위치한 파일을 '.DARKCRY'로 암호화한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "워너크라이 랜섬웨어와 동일한 형태 경고 메시지를 제작하는 도구도 등장했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "랜섬행위는 하지 않지만 문구를 보여준다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "워나크립트 V2.5는 이름도 워너크라이와 비슷한데 경고 메시지만 내보내고 별도 악성행위는 하지 않는다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 다른 가짜는 워나크립트 4.0이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "워나크립트 v2.5와 거의 동일한 프로그램으로 분석된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이 프로그램은 실제 워너크라이에서 지원하지 않았던 태국어 경고문구를 초기설정으로 해놨다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "워너크라이 패러디 프로그램까지 나돌아",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

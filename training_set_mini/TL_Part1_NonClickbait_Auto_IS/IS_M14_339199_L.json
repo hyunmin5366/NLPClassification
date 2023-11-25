@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339199",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "'CES 2022' 첫 기조연설자에 '마이크 시버트' T모바일 CEO",
+		"newsSubTitle": "",
+		"newsContent": "마이크 시버트 T모바일 최고경영자(CEO)가 내년 초 열릴 예정인 세계 최대 전자·정보기술(IT) 전시회 'CES 2022' 첫 기조연설자로 나선다. 1일 업계에 따르면 CES를 주관하는 미국 소비자기술협회(CTA)는 최근 'CES 2022' 기조연설자로 마이크 시버트 T모바일 CEO를 선정했다고 발표했다.\nCTA는 내년 CES 핵심 주제 중 하나로 5G를 선정하고, 이를 소개할 기조연설자로 시버트 CEO를 정했다.\n그는 기조연설에서 소비자와 기업을 위한 5G 혁신과 이를 통해 효율적으로 일하고 소통할 수 있는 미래에 대해 조명할 예정이다.\n시버트 CEO는 “소비자, 기업, 사회 전반에 걸쳐 연결성이 우리 삶에서 중요한 역할을 하고 있음을 보여줬다”면서 “5G 리더인 T모바일은 무선 통신의 변혁을 주도하고 있고 CES 2022에서 5G 네트워크가 현재와 미래의 판도를 바꾸는 혁신을 촉발하는 모습을 보여주겠다”고 말했다.\n올해 온라인으로 열렸던 CES는 내년에 다시 온·오프라인으로 동시 개최된다.\nCES 2022는 내년 1월 5일부터 8일까지 미국 라스베이거스에서 열린다.\nCTA는 현재 기조연설자 선정 절차를 진행 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마이크 시버트 T모바일 최고경영자(CEO)가 내년 초 열릴 예정인 세계 최대 전자·정보기술(IT) 전시회 'CES 2022' 첫 기조연설자로 나선다. 1일 업계에 따르면 CES를 주관하는 미국 소비자기술협회(CTA)는 최근 'CES 2022' 기조연설자로 마이크 시버트 T모바일 CEO를 선정했다고 발표했다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CTA는 내년 CES 핵심 주제 중 하나로 5G를 선정하고, 이를 소개할 기조연설자로 시버트 CEO를 정했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 기조연설에서 소비자와 기업을 위한 5G 혁신과 이를 통해 효율적으로 일하고 소통할 수 있는 미래에 대해 조명할 예정이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시버트 CEO는 “소비자, 기업, 사회 전반에 걸쳐 연결성이 우리 삶에서 중요한 역할을 하고 있음을 보여줬다”면서 “5G 리더인 T모바일은 무선 통신의 변혁을 주도하고 있고 CES 2022에서 5G 네트워크가 현재와 미래의 판도를 바꾸는 혁신을 촉발하는 모습을 보여주겠다”고 말했다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올해 온라인으로 열렸던 CES는 내년에 다시 온·오프라인으로 동시 개최된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CES 2022는 내년 1월 5일부터 8일까지 미국 라스베이거스에서 열린다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "CTA는 현재 기조연설자 선정 절차를 진행 중이다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'CES 2022' 첫 기조연설자에 '마이크 시버트' T모바일 CEO",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

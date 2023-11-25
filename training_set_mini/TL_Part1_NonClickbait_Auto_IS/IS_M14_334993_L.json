@@ -1,0 +1,312 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334993",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "'오레오' 안드로이드 보안 업데이트 패러다임 바꾼다",
+		"newsSubTitle": "",
+		"newsContent": "구글이 안드로이드 8.0 '오레오' 공개로 생태계 보안 업데이트 과정을 대폭 줄였다.\n구글은 내년 초부터 기기 제조사(OEM)가 정기 보안 업데이트 체계를 갖출 것으로 예상했다.\n한국을 방문한 아드리안 루드비히 구글 안드로이드 보안 총괄은 오레오가 안드로이드 생태계 보안에 전기를 마련할 것으로 내다봤다.\n구글은 오레오를 통해 안드로이드 보안 기능을 재설계했다.\n구글은 오레오에 '프로젝트 트레블(Project Treble)' 기능을 넣었다.\n프로젝트 트레블은 단말기와 반도체 제조사가 보다 쉽게 안드로이드 보안을 업데이트하는 구조다.\n구글의 최대 보안 과제는 파편화된 안드로이드 플랫폼에 신속한 업데이트다.\n기존에 얽혀있던 안드로이드 구조를 △앱 △안드로이드OS 프레임워크 △제조사 구현 부분으로 분리했다.\n지금까지 구글은 안드로이드 OS에 보안 취약점이 발견되면 패치를 만들어 반도체 제조사에 배포했다.\n반도체 제조사는 커스터마이징을 거쳐 단말기 제조사에 전달한다.\n단말기 제조사는 각 기기에 맞춘 보안 업데이트를 개발한다.\n이를 통신사와 협의해 최종 사용자 단말에 배포한다.\n구글이 보안 패치를 내놓고 최종 사용자에게 업데이트되기까지 5단계를 거쳤다.\n프로젝트 트레블이 적용된 오레오는 이 과정을 한 단계로 단순화한다.\n구글이 안드로이드 보안 업데이트를 내놓으면 안드로이드 OS 플랫폼에 바로 적용하면 된다.\n제조사 구현 부분이 분리돼 커스터마이징 패치를 만드는 수고를 덜어준다.\n아드리안 총괄은 “구글의 궁극적인 목표는 단말기 제조사가 정기 보안 업데이트를 하게 하는 것”이라면서 “프로젝트 트레블은 쉽고 신속한 보안 업데이트 환경을 지원한다”고 설명했다.\n오레오의 또 다른 보안 기능은 애플리케이션 격리다.\n예를 들어 뉴스리더 앱이나 SNS 앱은 외부 콘텐츠를 별도 URL링크로 처리한다.\n일부 외부 URL은 악성코드 등을 포함하는 경우가 있다.\n오레오는 웹뷰(WebView) 기능으로 신뢰할 수 없는 콘텐츠를 다룬다.\n아드리안 총괄은 “오레오부터는 특정 앱이 불러오는 외부 URL은 해당 웹뷰에서만 보인다”면서 “별개 격리된 프로세스에서 실행된다”고 설명했다.\n특정 SNS에서 뉴스 URL을 눌러 악성코드에 감염되더라도 앱이나 기기 내 다른 정보 유출은 불가하다.\n해당 악성 URL는 격리된 웹뷰에서만 보이는 덕이다.\n아드리안 총괄은 “오레오는 가능한 많은 부분을 분리하는 방향으로 개발했다”면서 “해커가 보안 취약점을 쉽게 악용하지 못하게 많은 벽을 세웠다”고 설명했다.\n구글은 머신러닝으로 안드로이드 기기를 보호한다.\n구글플레이 프로텍트 기능이다.\n안드로이드 기기는 20억대에 달한다.\n구글은 하루에 10억개 기기 보안 상태를 점검한다.\n안드로이드 고객은 최소한 일주일에 한차례 이상 구글의 보안 서비스를 받는 셈이다.\n구글플레이 프로텍트는 악성앱 실행을 중지하고 사용자에게 경고를 보낸다.\n아드리안 총괄은 “머신러닝은 인간이 볼 수 없는 앱 특징을 한 번에 파악한다”면서 “수십만개 앱 특성을 비교해 악성 여부를 가려낸다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 32,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구글이 안드로이드 8.0 '오레오' 공개로 생태계 보안 업데이트 과정을 대폭 줄였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구글은 내년 초부터 기기 제조사(OEM)가 정기 보안 업데이트 체계를 갖출 것으로 예상했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국을 방문한 아드리안 루드비히 구글 안드로이드 보안 총괄은 오레오가 안드로이드 생태계 보안에 전기를 마련할 것으로 내다봤다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "구글은 오레오를 통해 안드로이드 보안 기능을 재설계했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구글은 오레오에 '프로젝트 트레블(Project Treble)' 기능을 넣었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "프로젝트 트레블은 단말기와 반도체 제조사가 보다 쉽게 안드로이드 보안을 업데이트하는 구조다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "구글의 최대 보안 과제는 파편화된 안드로이드 플랫폼에 신속한 업데이트다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기존에 얽혀있던 안드로이드 구조를 △앱 △안드로이드OS 프레임워크 △제조사 구현 부분으로 분리했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지금까지 구글은 안드로이드 OS에 보안 취약점이 발견되면 패치를 만들어 반도체 제조사에 배포했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "반도체 제조사는 커스터마이징을 거쳐 단말기 제조사에 전달한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "단말기 제조사는 각 기기에 맞춘 보안 업데이트를 개발한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이를 통신사와 협의해 최종 사용자 단말에 배포한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "구글이 보안 패치를 내놓고 최종 사용자에게 업데이트되기까지 5단계를 거쳤다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "프로젝트 트레블이 적용된 오레오는 이 과정을 한 단계로 단순화한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "구글이 안드로이드 보안 업데이트를 내놓으면 안드로이드 OS 플랫폼에 바로 적용하면 된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "제조사 구현 부분이 분리돼 커스터마이징 패치를 만드는 수고를 덜어준다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "아드리안 총괄은 “구글의 궁극적인 목표는 단말기 제조사가 정기 보안 업데이트를 하게 하는 것”이라면서 “프로젝트 트레블은 쉽고 신속한 보안 업데이트 환경을 지원한다”고 설명했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "오레오의 또 다른 보안 기능은 애플리케이션 격리다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "예를 들어 뉴스리더 앱이나 SNS 앱은 외부 콘텐츠를 별도 URL링크로 처리한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "일부 외부 URL은 악성코드 등을 포함하는 경우가 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "오레오는 웹뷰(WebView) 기능으로 신뢰할 수 없는 콘텐츠를 다룬다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "아드리안 총괄은 “오레오부터는 특정 앱이 불러오는 외부 URL은 해당 웹뷰에서만 보인다”면서 “별개 격리된 프로세스에서 실행된다”고 설명했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "특정 SNS에서 뉴스 URL을 눌러 악성코드에 감염되더라도 앱이나 기기 내 다른 정보 유출은 불가하다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "해당 악성 URL는 격리된 웹뷰에서만 보이는 덕이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "아드리안 총괄은 “오레오는 가능한 많은 부분을 분리하는 방향으로 개발했다”면서 “해커가 보안 취약점을 쉽게 악용하지 못하게 많은 벽을 세웠다”고 설명했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "구글은 머신러닝으로 안드로이드 기기를 보호한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "구글플레이 프로텍트 기능이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "안드로이드 기기는 20억대에 달한다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "구글은 하루에 10억개 기기 보안 상태를 점검한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "안드로이드 고객은 최소한 일주일에 한차례 이상 구글의 보안 서비스를 받는 셈이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "구글플레이 프로텍트는 악성앱 실행을 중지하고 사용자에게 경고를 보낸다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "아드리안 총괄은 “머신러닝은 인간이 볼 수 없는 앱 특징을 한 번에 파악한다”면서 “수십만개 앱 특성을 비교해 악성 여부를 가려낸다”고 말했다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'오레오' 안드로이드 보안 업데이트 패러다임 바꾼다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

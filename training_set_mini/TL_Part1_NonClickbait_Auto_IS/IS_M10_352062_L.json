@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352062",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "CCTV가 화재 찍으면 AI가 신고···ETRI, AI·네트워크 융합플랫폼",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 AI(인공지능)와 네트워크 기술을 융합한 차세대 네트워킹 플랫폼 개발에 성공했다.\n플랫폼 기반 응용서비스 시연도 성공, 인간 중심 초연결사회 실현이 빨라질 전망이다.\n한국전자통신연구원(ETRI)은 AI와 네트워크 기술을 결합한 '지능형 에지 네트워킹 플랫폼'을 개발하고 네트워크 관련 기술 연구용 시험망인 'KOREN'과 연동해 시연에 성공했다고 3일 밝혔다.\nETRI가 개발한 지능형 에지 네트워킹 플랫폼은 얼굴인식·상황인지 AI 기술로 사용자 주변 정보를 자동으로 인식하고 사용자와 가까운 위치(에지)에서 신속하고 안전하게 필요한 서비스를 제공하는 기술이다.\n이 플랫폼은 AI가 관찰·수집한 데이터를 적절하게 분산·처리해 네트워크에 전송하는 '이벤트커넥터'기술이 핵심이다.\n기존에는 단말끼리 IoT(사물인터넷)을 이용해 저용량 AI 데이터만 처리하거나, 보안성이 낮은 클라우드를 통해 데이터를 처리했지만 이 기술은 사람·사물과 가까운 서버를 활용해 빠르고 안전한 통신이 가능하다.\nETRI는 이 플랫폼을 대전-판교 간 KOREN과 연동해 △상황인지 기반 영상정보 전송경로 제어 서비스 △상황인지 기반 지능형 보안 네트워킹 서비스 △상황인지 기반 네트워크 대역폭 제어 서비스△상황인지 기반 맞춤형 응용 서비스 등 4가지 서비스를 시연해 기술검증에 성공했다.\n우선 화재, 침입 등 비상상황을 AI가 인식해 자동으로 해당 영상을 중앙 관제센터에 전송할 수 있다.\n상시 모니터링을 수행하다 비상상황만 구별해 중앙에 해당 영상을 전송할 수 있다.\n인구 밀집 구역에서 미아를 찾거나 금연구역에서 흡연자를 탐지하는 등 다양한 상황에 활용될 수 있다.\n또 사용자 맞춤형으로 사설 네트워크에 자동 연결하거나, 화재 등 비상 상황을 AI가 인지해 기존 송출 영상 대신 대피 안내도, 비상시 행동 매뉴얼 등을 우선 송출한고, 시·청각장애인을 인식해 맞춤형으로 음성안내 또는 텍스트 정보를 제공할 수도 있다.\n이번 기술개발과정에는 ㈜넷비젼텔레콤, ㈜케이벨, ㈜에프아이시스, 한국네트워크산업협회 등이 참여했다.\n또 연구성과를 통해 SCI급 논문 7편 이상 게재 및 국내외 특허 15건 출원의 성과를 거뒀고 민간 기술이전도 이뤄졌다.\n김선미 ETRI 네트워크연구본부장은 \\\"지능형 에지 기술과 네트워킹 기술의 만남으로 특정상황에 대처해 정보를 필요한 곳에 신속하게 전달하고 대응할 수 있게 됐다\\\"며 \\\"특히 뉴노멀 시대에 새로운 경험을 제공키 위한 핵심기술로 활용도가 높을 것으로 기대된다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 AI(인공지능)와 네트워크 기술을 융합한 차세대 네트워킹 플랫폼 개발에 성공했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "플랫폼 기반 응용서비스 시연도 성공, 인간 중심 초연결사회 실현이 빨라질 전망이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 AI와 네트워크 기술을 결합한 '지능형 에지 네트워킹 플랫폼'을 개발하고 네트워크 관련 기술 연구용 시험망인 'KOREN'과 연동해 시연에 성공했다고 3일 밝혔다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "ETRI가 개발한 지능형 에지 네트워킹 플랫폼은 얼굴인식·상황인지 AI 기술로 사용자 주변 정보를 자동으로 인식하고 사용자와 가까운 위치(에지)에서 신속하고 안전하게 필요한 서비스를 제공하는 기술이다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 플랫폼은 AI가 관찰·수집한 데이터를 적절하게 분산·처리해 네트워크에 전송하는 '이벤트커넥터'기술이 핵심이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기존에는 단말끼리 IoT(사물인터넷)을 이용해 저용량 AI 데이터만 처리하거나, 보안성이 낮은 클라우드를 통해 데이터를 처리했지만 이 기술은 사람·사물과 가까운 서버를 활용해 빠르고 안전한 통신이 가능하다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "ETRI는 이 플랫폼을 대전-판교 간 KOREN과 연동해 △상황인지 기반 영상정보 전송경로 제어 서비스 △상황인지 기반 지능형 보안 네트워킹 서비스 △상황인지 기반 네트워크 대역폭 제어 서비스△상황인지 기반 맞춤형 응용 서비스 등 4가지 서비스를 시연해 기술검증에 성공했다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "우선 화재, 침입 등 비상상황을 AI가 인식해 자동으로 해당 영상을 중앙 관제센터에 전송할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "상시 모니터링을 수행하다 비상상황만 구별해 중앙에 해당 영상을 전송할 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "인구 밀집 구역에서 미아를 찾거나 금연구역에서 흡연자를 탐지하는 등 다양한 상황에 활용될 수 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또 사용자 맞춤형으로 사설 네트워크에 자동 연결하거나, 화재 등 비상 상황을 AI가 인지해 기존 송출 영상 대신 대피 안내도, 비상시 행동 매뉴얼 등을 우선 송출한고, 시·청각장애인을 인식해 맞춤형으로 음성안내 또는 텍스트 정보를 제공할 수도 있다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이번 기술개발과정에는 ㈜넷비젼텔레콤, ㈜케이벨, ㈜에프아이시스, 한국네트워크산업협회 등이 참여했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "또 연구성과를 통해 SCI급 논문 7편 이상 게재 및 국내외 특허 15건 출원의 성과를 거뒀고 민간 기술이전도 이뤄졌다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "김선미 ETRI 네트워크연구본부장은 \\\"지능형 에지 기술과 네트워킹 기술의 만남으로 특정상황에 대처해 정보를 필요한 곳에 신속하게 전달하고 대응할 수 있게 됐다\\\"며 \\\"특히 뉴노멀 시대에 새로운 경험을 제공키 위한 핵심기술로 활용도가 높을 것으로 기대된다\\\"고 말했다.",
+				"sentenceSize": 151
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "CCTV가 화재 찍으면 AI가 신고···ETRI, AI·네트워크 융합플랫폼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

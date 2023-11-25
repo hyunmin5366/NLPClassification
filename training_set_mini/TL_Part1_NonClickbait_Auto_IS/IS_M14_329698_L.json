@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329698",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "한국IBM 'IBM 클라우드 라이브' 오픈",
+		"newsSubTitle": "",
+		"newsContent": "한국IBM(대표 장화진)은 'IBM 클라우드 라이브'를 오픈했다고 20일 밝혔다.\nIBM 클라우드 라이브에서는 IBM 클라우드 분야별 전문가들이 전하는 정보와 인사이트가 동영상으로 제공된다.\n기업 고객을 위해 △클라우드로의 마이그레이션 방법론 △클라우드 보안 △클라우드 운영 및 관리(매니지드 서비스) △IBM 클라우드에서의 VM웨어 및 SAP 적용방안 등 콘텐츠를 선별해 구성했다.\nIBM 클라우드 전문가와 고객사가 토크쇼 형식으로 진행하는 생방송 웨비나가 매달 IBM 클라우드 비디오에서 실시간 진행된다.\n최근 금융권을 비롯해 국내 여러 산업분야에서 활발하게 도입되는 '챗봇 서비스'가 다뤄진다.\n생방송 웨비나는 IBM 클라우드 라이브 공식 홈페이지에서 사전 등록 가능하다.\n등록과 동시에 웨비나 접속 URL과 안내 사항을 이메일로 전달받는다.\n자세한 내용은 해당 링크에서 확인 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국IBM(대표 장화진)은 'IBM 클라우드 라이브'를 오픈했다고 20일 밝혔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "IBM 클라우드 라이브에서는 IBM 클라우드 분야별 전문가들이 전하는 정보와 인사이트가 동영상으로 제공된다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기업 고객을 위해 △클라우드로의 마이그레이션 방법론 △클라우드 보안 △클라우드 운영 및 관리(매니지드 서비스) △IBM 클라우드에서의 VM웨어 및 SAP 적용방안 등 콘텐츠를 선별해 구성했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "IBM 클라우드 전문가와 고객사가 토크쇼 형식으로 진행하는 생방송 웨비나가 매달 IBM 클라우드 비디오에서 실시간 진행된다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 금융권을 비롯해 국내 여러 산업분야에서 활발하게 도입되는 '챗봇 서비스'가 다뤄진다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "생방송 웨비나는 IBM 클라우드 라이브 공식 홈페이지에서 사전 등록 가능하다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "등록과 동시에 웨비나 접속 URL과 안내 사항을 이메일로 전달받는다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "자세한 내용은 해당 링크에서 확인 가능하다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국IBM 'IBM 클라우드 라이브' 오픈",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

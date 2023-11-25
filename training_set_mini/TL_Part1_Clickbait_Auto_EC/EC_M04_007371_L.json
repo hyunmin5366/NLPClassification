@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007371",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "9월말 보험사 대출채권 연체율 소폭 하락",
+		"newsSubTitle": "대출채권 연체율 전분기 대비 0.11% 하락",
+		"newsContent": "보험사들의 대출채권 연체율이 소폭 하락한 것으로 나타났다.\n8일 금융감독원에 따르면, 지난 9월말 기준 보험사 대출채권 연체율은 2.56%로 전분기말(2.67%) 대비 0.11%포인트 떨어졌다.\n가계대출 연체율은 2.72%로 전 분기말 2.85에 비해 0.13%포인트, 기업대출은 2.17%로 전 분기말 2.25%보다 0.08%포인트 감소했다.\n가계대출 중 가장 많은 비중(61.0%)을 차지하고 있는 보험계약대출의 연체율은 전분기말(4.11%) 보다 0.12%포인트 하락한 3.99%를 기록했다.\n주택담보대출 연체율은 전분기말(0.53%) 대비 0.05%포인트 상승한 0.58%로 올해 3월말 이후 증가추세지만, 가계대출 리스크관리 강화 노력에 힘입어 1% 미만의 낮은 수준을 지속적으로 유지한 것으로 나타났다.\n기업대출의 대부분(69.2%)을 점유하고 있는 중소기업대출의 연체율은 전분기말(3.23%)보다 0.09%포인트 하락한 3.14%였다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보험사들의 대출채권 연체율이 소폭 하락한 것으로 나타났다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 금융감독원에 따르면, 지난 9월말 기준 보험사 대출채권 연체율은 2.56%로 전분기말(2.67%) 대비 0.11%포인트 떨어졌다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "가계대출 연체율은 2.72%로 전 분기말 2.85에 비해 0.13%포인트, 기업대출은 2.17%로 전 분기말 2.25%보다 0.08%포인트 감소했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가계대출 중 가장 많은 비중(61.0%)을 차지하고 있는 보험계약대출의 연체율은 전분기말(4.11%) 보다 0.12%포인트 하락한 3.99%를 기록했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주택담보대출 연체율은 전분기말(0.53%) 대비 0.05%포인트 상승한 0.58%로 올해 3월말 이후 증가추세지만, 가계대출 리스크관리 강화 노력에 힘입어 1% 미만의 낮은 수준을 지속적으로 유지한 것으로 나타났다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기업대출의 대부분(69.2%)을 점유하고 있는 중소기업대출의 연체율은 전분기말(3.23%)보다 0.09%포인트 하락한 3.14%였다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "브레이크 없는 물가, 최저임금 끌어올릴까",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

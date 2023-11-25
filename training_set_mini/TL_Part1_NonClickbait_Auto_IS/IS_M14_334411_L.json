@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334411",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[올쇼TV]한국IBM, 20일 '하이브리드 멀티 클라우드 사례 발표",
+		"newsSubTitle": "",
+		"newsContent": "한국IBM은 20일 전자신문 웨비나 전문방송 올쇼TV에서 '하이브리드 멀티 클라우드 구현을 위한 접근 방안 및 활용 사례'를 발표한다.\n클라우드를 도입한 많은 기업은 이미 여러 개의 클라우드를 사용한다.\n비즈니스 요건에 따라 여러 공급사 클라우드의 장점을 각각 활용하는 목적이다.\n단순히 여러 클라우드만 사용하는 것으로는 하이브리드 클라우드 효과를 기대하기 어렵다.\n하이브리드 클라우드 환경을 효과를 극대화하기 위해서는, 워크로드를 여러 클라우드에 분산 배치해 탄력적으로 운영해야 한다.\n이를 위해선 어플리케이션 운영 환경의 표준화가 전제되어야 하며 컨테이너 기술과 그 관리체계가 핵심적인 역할을 한다.\nIBM은 웨비나에서 그동안 수행한 여러 유형의 하이브리드 클라우드 전환 사례를 소개한다.\n하이브리드 멀티 클라우드 환경으로 전환하는데 필요한 고려사항과 접근 방안을 제시한다.\n웨비나는 무료며 올쇼TV 사이트(http://www.allshowtv.com/detail.html?idx=147)에서 사전 신청하면 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국IBM은 20일 전자신문 웨비나 전문방송 올쇼TV에서 '하이브리드 멀티 클라우드 구현을 위한 접근 방안 및 활용 사례'를 발표한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "클라우드를 도입한 많은 기업은 이미 여러 개의 클라우드를 사용한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "비즈니스 요건에 따라 여러 공급사 클라우드의 장점을 각각 활용하는 목적이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "단순히 여러 클라우드만 사용하는 것으로는 하이브리드 클라우드 효과를 기대하기 어렵다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하이브리드 클라우드 환경을 효과를 극대화하기 위해서는, 워크로드를 여러 클라우드에 분산 배치해 탄력적으로 운영해야 한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 위해선 어플리케이션 운영 환경의 표준화가 전제되어야 하며 컨테이너 기술과 그 관리체계가 핵심적인 역할을 한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "IBM은 웨비나에서 그동안 수행한 여러 유형의 하이브리드 클라우드 전환 사례를 소개한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하이브리드 멀티 클라우드 환경으로 전환하는데 필요한 고려사항과 접근 방안을 제시한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "웨비나는 무료며 올쇼TV 사이트(http://www.allshowtv.com/detail.html?idx=147)에서 사전 신청하면 된다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[올쇼TV]한국IBM, 20일 '하이브리드 멀티 클라우드 사례 발표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

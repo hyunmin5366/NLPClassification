@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007152",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "위변조 연구개발 예산 증가에도 위·변조 지폐 증가",
+		"newsSubTitle": "",
+		"newsContent": "한국조폐공사가 10년간 1000억원이 넘는 연구개발비를 투자했지만, 위조지폐 발생은 증가한 것으로 나타났다.\n11일 공사가 국회 기획재정위원회 이한구(한나라당) 의원에게 제출한 자료 분석 결과, 2000∼2009년까지 위·변조 방지를 위한 기술개발 등 연구개발비로 1023억2200만원을 투입했다.\n2000년 매출액(2142억원) 대비 2.97%인 63억에 불과했던 연구개발비는 2009년 매출액(3529억원) 대비 4.81%인 169억으로 증가했다.\n하지만, 2000년 1142장이던 위·변조 지폐는 2002년 3014건, 2005년 1만2889건, 2006년 2만1939건으로 증가했다가 지난해 1만4261건이 발생하는 등 10년간 12.5배 늘었다.\n2000년 71장에 불과하던 5000원권은 2008년 9251장에 달하며 130배나 급증했고, 2009년에도 7614장이 발견돼 107배 증가했다.\n이 의원은 “최근 위·변조 방지 기술을 대폭 강화해 발생건수가 주춤하고 있으나, 5000원권은 2008년 9251건이 발생하며 다시 증가했는데 대책은 무엇이냐”고 따졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국조폐공사가 10년간 1000억원이 넘는 연구개발비를 투자했지만, 위조지폐 발생은 증가한 것으로 나타났다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 공사가 국회 기획재정위원회 이한구(한나라당) 의원에게 제출한 자료 분석 결과, 2000∼2009년까지 위·변조 방지를 위한 기술개발 등 연구개발비로 1023억2200만원을 투입했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2000년 매출액(2142억원) 대비 2.97%인 63억에 불과했던 연구개발비는 2009년 매출액(3529억원) 대비 4.81%인 169억으로 증가했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만, 2000년 1142장이던 위·변조 지폐는 2002년 3014건, 2005년 1만2889건, 2006년 2만1939건으로 증가했다가 지난해 1만4261건이 발생하는 등 10년간 12.5배 늘었다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2000년 71장에 불과하던 5000원권은 2008년 9251장에 달하며 130배나 급증했고, 2009년에도 7614장이 발견돼 107배 증가했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 의원은 “최근 위·변조 방지 기술을 대폭 강화해 발생건수가 주춤하고 있으나, 5000원권은 2008년 9251건이 발생하며 다시 증가했는데 대책은 무엇이냐”고 따졌다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "구글플레이 등 이용자 80.6%, 앱마켓 결제시스템 통합 관리 원한다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

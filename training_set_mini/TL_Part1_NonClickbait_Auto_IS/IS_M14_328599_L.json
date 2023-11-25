@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328599",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "DB마이그레이션 비용·시간 획기적 절감…코드마인드 '하나코드'",
+		"newsSubTitle": "",
+		"newsContent": "소프트웨어 분석 검증 전문기업 코드마인드(대표 신승철)의 SAP 하나(HANA) 데이터베이스를 위한 SQL 자동 마이그레이션 솔루션 '하나코드'가 큰 호응을 얻고 있다.\n최근 SAP가 오라클DB 지원 중단을 선언하면서 오라클DB와 SAP ERP를 겸용하는 기업 사이에서 SAP 하나DB로 변환이 주요 사안으로 떠오르고 있다.\n이러한 시장 흐름에 발맞춰 코드마인드는 인력 소요가 많고 높은 변환 비용을 유발하는 DB SQL 애플리케이션 변환 업무를 자동화해 기업 비즈니스 효율성을 증대하는 솔루션 하나코드를 선보였다.\n지금까지 DB 마이그레이션에서 데이터 마이그레이션은 자동도구로 손쉽게 이루어지는 반면 애플리케이션 마이그레이션은 대규모 수작업이 필요했다.\n하나코드를 이용하면 SQL 애플리케이션 마이그레이션을 위한 비용의 70% 이상을 절감할 수 있다.\nDB애플리케이션 자동변환은 100% 완전할 수 없는 특성을 갖고 있다.\n오라클 PL/SQL과 SAP 하나 SQL의 언어적 불일치 때문이다.\n게다가 SQL 마이그레이션 후 성능 제고를 위한 최적화도 필요하다.\nDB 동적요소나 MyBatis와 같은 XML 처리 등도 중요한 장애물이다.\n마이그레이션용 SQL 편집기 하나코드는 자동변환 기능 외에도 변환된 SQL 코드를 비교하면서 최적화할 수 있는 편집 기능을 제공한다.\n또 코드분석의 하나인 타입분석 기술을 적용해 DB 스키마를 위배하는 타입 오류를 미리 검출한다.\n신승철 코드마인드 대표는 \\\"DB 마이그레이션에서 애플리케이션을 재작성해야 하는 부담은 전체 과정 중에서 80% 이상\\\"이라면서 \\\"하나코드는 코드마인드 코드분석 기술을 DB SQL 마이그레이션에 적용한 솔루션으로 DB마이그레이션 비용과 시간을 획기적으로 절감할 수 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "소프트웨어 분석 검증 전문기업 코드마인드(대표 신승철)의 SAP 하나(HANA) 데이터베이스를 위한 SQL 자동 마이그레이션 솔루션 '하나코드'가 큰 호응을 얻고 있다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 SAP가 오라클DB 지원 중단을 선언하면서 오라클DB와 SAP ERP를 겸용하는 기업 사이에서 SAP 하나DB로 변환이 주요 사안으로 떠오르고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이러한 시장 흐름에 발맞춰 코드마인드는 인력 소요가 많고 높은 변환 비용을 유발하는 DB SQL 애플리케이션 변환 업무를 자동화해 기업 비즈니스 효율성을 증대하는 솔루션 하나코드를 선보였다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지금까지 DB 마이그레이션에서 데이터 마이그레이션은 자동도구로 손쉽게 이루어지는 반면 애플리케이션 마이그레이션은 대규모 수작업이 필요했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하나코드를 이용하면 SQL 애플리케이션 마이그레이션을 위한 비용의 70% 이상을 절감할 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "DB애플리케이션 자동변환은 100% 완전할 수 없는 특성을 갖고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "오라클 PL/SQL과 SAP 하나 SQL의 언어적 불일치 때문이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "게다가 SQL 마이그레이션 후 성능 제고를 위한 최적화도 필요하다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "DB 동적요소나 MyBatis와 같은 XML 처리 등도 중요한 장애물이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "마이그레이션용 SQL 편집기 하나코드는 자동변환 기능 외에도 변환된 SQL 코드를 비교하면서 최적화할 수 있는 편집 기능을 제공한다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또 코드분석의 하나인 타입분석 기술을 적용해 DB 스키마를 위배하는 타입 오류를 미리 검출한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "신승철 코드마인드 대표는 \\\"DB 마이그레이션에서 애플리케이션을 재작성해야 하는 부담은 전체 과정 중에서 80% 이상\\\"이라면서 \\\"하나코드는 코드마인드 코드분석 기술을 DB SQL 마이그레이션에 적용한 솔루션으로 DB마이그레이션 비용과 시간을 획기적으로 절감할 수 있다\\\"고 말했다.",
+				"sentenceSize": 159
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "DB마이그레이션 비용·시간 획기적 절감…코드마인드 '하나코드'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

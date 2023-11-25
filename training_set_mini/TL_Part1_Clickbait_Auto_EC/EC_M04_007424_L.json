@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007424",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "KAIST 전기차 '세계최고 발명품'",
+		"newsSubTitle": "타임지 50개 선정… 수송부문 녹색기술 소개",
+		"newsContent": "KAIST의 온라인전기자동차가 세계의 주목을 받았다.\nKAIST는 미국의 유명 주간지 '타임(Time)'지가 오는 22일자 특집란에 KAIST 온라인전기자동차(OLEV)를 올 세계 최고 발명품 중 하나로 선정했다고 14일 밝혔다. '타임'은 '올해 전 세계에 소개된 최고 발명품 50개'를 선정, 리스트는 올 한 해 동안 일반 대중에게 알려진 혁신 과학기술 제품이나 예술작품을 기술, 수송, 건강 및 의료, 생명공학 등으로 나눠 소개하고 있다.\n온라인전기자동차는 수송부문에서 버스를 비롯한 교통수단의 전기차 상용화를 앞당길 수 있는 녹색기술로 소개됐다.\n지난 2009년 이명박 정부는 지식경제시대 한국의 경제를 이끌어 나갈 신성장 동력원으로서 '녹색성장기술개발을 위한 혁신연구사업'의 하나로 KAIST의 온라인전기자동차사업을 선정했다.\n정부의 지속적인 성원과 투자로 개발에 착수한 지 1년만인 올 3월, KAIST는 과천 서울대공원에 온라인전기자동차의 첫 시범 모델을 선보였다.\n과천에 있는 온라인전기자동차는 국내 언론은 물론, 'CNN', '뉴욕타임즈', 'USA Today', '로이터', 'AFP', 'The Times', '산케이신문' '신화통신' 등 해외 유수 언론에 소개되었으며, 오는 12월에는 'Discovery Channel'의 과학 프로그램인 'Into the Future'에서 '차세대 친환경 교통수단'으로 소개될 예정이다.\n또한 지난주 폐막된 'G20정상회의'에서 KAIST는 온라인전기자동차 홍보관을 마련하고 회의 참석자들에게 친환경 녹색교통기술을 선보여 큰 호응을 받았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KAIST의 온라인전기자동차가 세계의 주목을 받았다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KAIST는 미국의 유명 주간지 '타임(Time)'지가 오는 22일자 특집란에 KAIST 온라인전기자동차(OLEV)를 올 세계 최고 발명품 중 하나로 선정했다고 14일 밝혔다. '타임'은 '올해 전 세계에 소개된 최고 발명품 50개'를 선정, 리스트는 올 한 해 동안 일반 대중에게 알려진 혁신 과학기술 제품이나 예술작품을 기술, 수송, 건강 및 의료, 생명공학 등으로 나눠 소개하고 있다.",
+				"sentenceSize": 218
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "온라인전기자동차는 수송부문에서 버스를 비롯한 교통수단의 전기차 상용화를 앞당길 수 있는 녹색기술로 소개됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 2009년 이명박 정부는 지식경제시대 한국의 경제를 이끌어 나갈 신성장 동력원으로서 '녹색성장기술개발을 위한 혁신연구사업'의 하나로 KAIST의 온라인전기자동차사업을 선정했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정부의 지속적인 성원과 투자로 개발에 착수한 지 1년만인 올 3월, KAIST는 과천 서울대공원에 온라인전기자동차의 첫 시범 모델을 선보였다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "과천에 있는 온라인전기자동차는 국내 언론은 물론, 'CNN', '뉴욕타임즈', 'USA Today', '로이터', 'AFP', 'The Times', '산케이신문' '신화통신' 등 해외 유수 언론에 소개되었으며, 오는 12월에는 'Discovery Channel'의 과학 프로그램인 'Into the Future'에서 '차세대 친환경 교통수단'으로 소개될 예정이다.",
+				"sentenceSize": 204
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 지난주 폐막된 'G20정상회의'에서 KAIST는 온라인전기자동차 홍보관을 마련하고 회의 참석자들에게 친환경 녹색교통기술을 선보여 큰 호응을 받았다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전통시장 자매결연 '효과없네'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

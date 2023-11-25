@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016636",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "채널 따라 고화질ㆍ초고화질 영상 동시 방송",
+		"newsSubTitle": "",
+		"newsContent": "ETRI, 프랑스 공동연구진과 고품질 영상기술 개발 한국과 프랑스 공동 연구진이 하나의 채널로 초고화질(UHD)·고화질(HD) 방송을 볼 수 있는 기술을 개발했다.\nETRI(한국전자통신연구원)는 프랑스 방송기술업체인 ‘테크니컬러(Technicolor)’ㆍ‘아템(ATEME)’과 개발한 고품질 영상기술을 현장시연에 성공했다고 28일 밝혔다.\n이 기술은 ETRI의 계층분할다중화(LDM) 기술과 프랑스 연구진의 영상압축기술(SHVC)이 접목된 것이다.\nLDM은 2개 이상의 방송 신호를 서로 다른 전력으로 나눠 전송하는 것이다.\n이는 채널 하나로 UHD TV와 이동 HDTV 방송을 동시에 송ㆍ수신할 수 있다.\nSHVC는 기존 HEVC(초고화질 영상용 압축기술)를 HD와 UHD 영상으로 나눠서 부호화하는 기술이다.\n두 기술을 결합하면 고정 환경에서 UHD로 보다가 이동 중에는 HD로 끊김 없이 시청할 수 있고 부호를 계층별로 나누어 전송해 추가 데이터가 필요 없다.\n이 기술은 내년 2월 국내 지상파 3사를 통해 상용화할 계획이다.\n허남호 ETRI 방송시스템연구부장은 “ETRI의 LDM 기술은 오는 10월 국제표준 채택이 유력하다”며 “각각의 단말기에서 독립적으로 콘텐츠를 내보내는 방식이 아닌, 하나의 단말에서 부호를 나눠 송수신함으로써 고품질의 UHD 방송서비스를 제공할 수 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "ETRI, 프랑스 공동연구진과 고품질 영상기술 개발 한국과 프랑스 공동 연구진이 하나의 채널로 초고화질(UHD)·고화질(HD) 방송을 볼 수 있는 기술을 개발했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ETRI(한국전자통신연구원)는 프랑스 방송기술업체인 ‘테크니컬러(Technicolor)’ㆍ‘아템(ATEME)’과 개발한 고품질 영상기술을 현장시연에 성공했다고 28일 밝혔다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 기술은 ETRI의 계층분할다중화(LDM) 기술과 프랑스 연구진의 영상압축기술(SHVC)이 접목된 것이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "LDM은 2개 이상의 방송 신호를 서로 다른 전력으로 나눠 전송하는 것이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 채널 하나로 UHD TV와 이동 HDTV 방송을 동시에 송ㆍ수신할 수 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SHVC는 기존 HEVC(초고화질 영상용 압축기술)를 HD와 UHD 영상으로 나눠서 부호화하는 기술이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 기술을 결합하면 고정 환경에서 UHD로 보다가 이동 중에는 HD로 끊김 없이 시청할 수 있고 부호를 계층별로 나누어 전송해 추가 데이터가 필요 없다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 기술은 내년 2월 국내 지상파 3사를 통해 상용화할 계획이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "허남호 ETRI 방송시스템연구부장은 “ETRI의 LDM 기술은 오는 10월 국제표준 채택이 유력하다”며 “각각의 단말기에서 독립적으로 콘텐츠를 내보내는 방식이 아닌, 하나의 단말에서 부호를 나눠 송수신함으로써 고품질의 UHD 방송서비스를 제공할 수 있다”고 말했다.",
+				"sentenceSize": 148
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"잘 나가는 인플루언서들 '미용→홈리빙' 활동 영역 넓힌다\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325426",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "후지쯔, AI로 교량 내부 손상 추정 기술개발",
+		"newsSubTitle": "",
+		"newsContent": "한국후지쯔(대표 박형구, 최재일)는 인공지능(AI) 기술을 활용해 교량 내부의 손상 정도를 추정하는 데이터 분석 기술을 개발했다고 12일 밝혔다.\n후지쯔가 개발한 AI기술 '진라이(FUJITSU Human Centric AI Zinrai)'는 교량 표면에 부착한 센서에서 얻은 진동 데이터로 교량 내부 손상을 추정한다.\n시계열 데이터에 대한 후지쯔 딥러닝(Deep Learning) 기술을 확장했다.\n변동이 심한 진동 데이터에서 추출한 기하학적 특징을 학습해 구조물∙기기 등 이상(상태 정상 값과 차이)∙변화를 수치화한다.\n이상 발생과 특징적인 변화를 검지한다.\n후지쯔는 기술을 모니터링 시스템 기술 연구조합(RAIMS)이 실시한 가속시험(고리 하중 주행 시험)으로 취득된 진동데이터에 적용했다.\n그 결과 교량 내부에 손상이 없을 때 측정값 형상은 하나 덩어리로 모아지고 손상이 발생하면 변화한다는 결론을 얻었다.\n기하학적 특징을 수치화하고 여기서 산출된 이상∙변화 결과가 교량 바닥 내부 측정용 변형 센서를 측정한 결과와 일치한다는 것을 확인했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국후지쯔(대표 박형구, 최재일)는 인공지능(AI) 기술을 활용해 교량 내부의 손상 정도를 추정하는 데이터 분석 기술을 개발했다고 12일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "후지쯔가 개발한 AI기술 '진라이(FUJITSU Human Centric AI Zinrai)'는 교량 표면에 부착한 센서에서 얻은 진동 데이터로 교량 내부 손상을 추정한다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시계열 데이터에 대한 후지쯔 딥러닝(Deep Learning) 기술을 확장했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "변동이 심한 진동 데이터에서 추출한 기하학적 특징을 학습해 구조물∙기기 등 이상(상태 정상 값과 차이)∙변화를 수치화한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이상 발생과 특징적인 변화를 검지한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "후지쯔는 기술을 모니터링 시스템 기술 연구조합(RAIMS)이 실시한 가속시험(고리 하중 주행 시험)으로 취득된 진동데이터에 적용했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그 결과 교량 내부에 손상이 없을 때 측정값 형상은 하나 덩어리로 모아지고 손상이 발생하면 변화한다는 결론을 얻었다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기하학적 특징을 수치화하고 여기서 산출된 이상∙변화 결과가 교량 바닥 내부 측정용 변형 센서를 측정한 결과와 일치한다는 것을 확인했다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "후지쯔, AI로 교량 내부 손상 추정 기술개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331008",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "세계 패닉 랜섬웨어 '워너크라이' 北이 개입했나",
+		"newsSubTitle": "",
+		"newsContent": "세계를 강타한 워너크라이 랜섬웨어 배후로 북한이 지목됐다.\n국내외 보안 업계는 워너크라이 랜섬웨어가 소니픽처스, 방글라데시 중앙은행 해킹 조직 '나자로'와 연계된 정황이 포착됐다고 밝혔다.\n나자로 그룹은 북한 사이버 전사와 연계된다.\n최근 1~2년 사이 최대 규모 은행 절도 사건을 일으킨 북한이 랜섬웨어로 국제 사회 제재에 반발하면서 동시에 외화 획득까지 도모한 정황이다.\n국내 사이버전 전문가는 4월 초 워너크라이 랜섬웨어 초기 버전이 발견됐을 때 해외 보안업체보다 앞서 북 연계 가능성을 시사했다.\n한 전문가는 \\\"초기 워너크라이는 중국어로 만들어졌으며 HWP를 암호화 대상에 포함했다\\\"면서 \\\"기존에 북이 쓰던 코드와 유사성이 높았다\\\"고 말했다.\n당시 워너크라이는 윈도 서버메시지블록(SMB) 취약점을 사용하지 않았다.\n이후 쉐도브로커가 미국 국가안보국(NSA)가 쓰던 사이버 무기를 공개한 후 관련 취약점을 이용해 전 세계를 패닉에 빠트렸다.\n사이먼 최 이슈메이커스랩 대표는 \\\"워너크라이 랜섬웨어는 소니픽처스, 스위프트 국제 금융 공격 등 기존에 북한이 사용하던 악성코드 백도어에 들어간 특이한 암복호화 로직이 유사하다\\\"고 설명했다.\n그는 \\\"스팸테크라는 그룹이 워너크라이를 만들었다고 주장하는데 과거 소니픽처스 해킹 조직인 평화의수호자(GOP)와 유사한 방법으로 활동 한다\\\"고 덧붙였다.\n러시아 보안업체 카스퍼스키랩은 15일 자사 블로그에 워나크라이 랜섬웨어와 나자로 그룹이 쓰던 코드와 유사성을 언급했다.\n워너크라이 랜섬웨어 초기버전은 지난주가 아니라 2017년 2월 발견됐다.\n이 코드를 공유하는 나자로 그룹 코드 샘플은 2015년 2월 것이다.\n카스퍼스키랩은 두 그룹이 코드 샘플이 공유한다고 설명한다.\n다른 공격에 쓰인 악성코드가 일부 코드를 공유하는 건 두 조직이 협력 관계에 있다는 말이다.\n카스퍼스키랩은 \\\"나자로 그룹의 작업 범위가 충격적\\\"이라면서 \\\"2011년부터 매우 활발하게 악성코드 공장을 운영했다\\\"고 설명했다.\n카스퍼스키랩은 워너크라이 초기 버전을 더 연구해 확실한 증거를 찾는데 집중하고 있다.\n이스라엘 인테저 랩스도 워너크라이 랜섬웨어가 북한과 관계있다는 주장에 힘을 실었다.\n이타이 데베트 인테저 랩스 대표는 \\\"공격자는 북한이며 나자로 그룹이 쓰던 기능뿐만 아니라 다른 정보도 발견 된다\\\"고 말했다.\n북한은 워너크라이 랜섬웨어가 세계를 강타한 다음 달 14일 탄도미사일을 발사하며 물리적 무력시위도 했다.\n사이먼 최 대표는 \\\"랜섬웨어 사태로 세계가 시끄러운 시점에 미사일을 발사했다\\\"면서 \\\"자신들의 사이버 공격 능력과 미사일 실력을 한꺼번에 과시했다\\\"고 덧붙였다.\n워너크라이는 100개국이 넘는 곳에 엄청난 피해를 입혔는데 세계에서 유일하게 북한에서만 감염 사례가 나타나지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세계를 강타한 워너크라이 랜섬웨어 배후로 북한이 지목됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내외 보안 업계는 워너크라이 랜섬웨어가 소니픽처스, 방글라데시 중앙은행 해킹 조직 '나자로'와 연계된 정황이 포착됐다고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "나자로 그룹은 북한 사이버 전사와 연계된다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 1~2년 사이 최대 규모 은행 절도 사건을 일으킨 북한이 랜섬웨어로 국제 사회 제재에 반발하면서 동시에 외화 획득까지 도모한 정황이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국내 사이버전 전문가는 4월 초 워너크라이 랜섬웨어 초기 버전이 발견됐을 때 해외 보안업체보다 앞서 북 연계 가능성을 시사했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한 전문가는 \\\"초기 워너크라이는 중국어로 만들어졌으며 HWP를 암호화 대상에 포함했다\\\"면서 \\\"기존에 북이 쓰던 코드와 유사성이 높았다\\\"고 말했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "당시 워너크라이는 윈도 서버메시지블록(SMB) 취약점을 사용하지 않았다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 쉐도브로커가 미국 국가안보국(NSA)가 쓰던 사이버 무기를 공개한 후 관련 취약점을 이용해 전 세계를 패닉에 빠트렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "사이먼 최 이슈메이커스랩 대표는 \\\"워너크라이 랜섬웨어는 소니픽처스, 스위프트 국제 금융 공격 등 기존에 북한이 사용하던 악성코드 백도어에 들어간 특이한 암복호화 로직이 유사하다\\\"고 설명했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그는 \\\"스팸테크라는 그룹이 워너크라이를 만들었다고 주장하는데 과거 소니픽처스 해킹 조직인 평화의수호자(GOP)와 유사한 방법으로 활동 한다\\\"고 덧붙였다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "러시아 보안업체 카스퍼스키랩은 15일 자사 블로그에 워나크라이 랜섬웨어와 나자로 그룹이 쓰던 코드와 유사성을 언급했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "워너크라이 랜섬웨어 초기버전은 지난주가 아니라 2017년 2월 발견됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이 코드를 공유하는 나자로 그룹 코드 샘플은 2015년 2월 것이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "카스퍼스키랩은 두 그룹이 코드 샘플이 공유한다고 설명한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "다른 공격에 쓰인 악성코드가 일부 코드를 공유하는 건 두 조직이 협력 관계에 있다는 말이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "카스퍼스키랩은 \\\"나자로 그룹의 작업 범위가 충격적\\\"이라면서 \\\"2011년부터 매우 활발하게 악성코드 공장을 운영했다\\\"고 설명했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "카스퍼스키랩은 워너크라이 초기 버전을 더 연구해 확실한 증거를 찾는데 집중하고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이스라엘 인테저 랩스도 워너크라이 랜섬웨어가 북한과 관계있다는 주장에 힘을 실었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이타이 데베트 인테저 랩스 대표는 \\\"공격자는 북한이며 나자로 그룹이 쓰던 기능뿐만 아니라 다른 정보도 발견 된다\\\"고 말했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "북한은 워너크라이 랜섬웨어가 세계를 강타한 다음 달 14일 탄도미사일을 발사하며 물리적 무력시위도 했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "사이먼 최 대표는 \\\"랜섬웨어 사태로 세계가 시끄러운 시점에 미사일을 발사했다\\\"면서 \\\"자신들의 사이버 공격 능력과 미사일 실력을 한꺼번에 과시했다\\\"고 덧붙였다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "워너크라이는 100개국이 넘는 곳에 엄청난 피해를 입혔는데 세계에서 유일하게 북한에서만 감염 사례가 나타나지 않았다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세계 패닉 랜섬웨어 '워너크라이' 北이 개입했나",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

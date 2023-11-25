@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335200",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "메가존클라우드-드림라인, ‘하이브리드 클라우드’ 사업 박차",
+		"newsSubTitle": "",
+		"newsContent": "메가존클라우드(공동대표 이주완, 조원우)는 기간통신사업자 드림라인과 사업협력을 위한 양해각서를 체결하고 ‘하이브리드 클라우드’ 사업에 박차를 가하고 있다고 18일 밝혔다.\n드림라인은 광케이블 전국망을 보유하고 있는 기간통신사업자로, 국내 주요 기업들을 대상으로 전용회선, 인터넷회선, 인터넷전화등을 제공하고 있다.\n최근 자회사인 드림마크원을 통해 IDC건물을 인수, 본격적인 IDC 시장에 진출하는 등 비즈니스 모델을 다각화하고 있다.\n특히, AWS DX(Direct Connect)공식 파트너로서, AWS 내 가상의 IDC를 연결하는 전용선 서비스를 제공하는등 IDC와 클라우드 연결에 최적의 네트워크를 제공하고 있다.\n메가존클라우드는 온프레미스 데이터센터(IDC)와 프라이빗 클라우드(Private Cloud) 서비스를 제공하는 드림라인의 기술과 제휴, 글로벌트렌드로 보안에 민감한 금융권 및 엔터프라이즈 기업에 경쟁력 있는 하이브리드 클라우드를 제공할 예정이다.\n고객은 사내 보안문서 및 개인정보 등 데이터베이스서버와 같이 자체적으로 관리하고 싶은 민감한 정보가 포함된 인프라는 프라이빗 클라우드로, 웹서버와 같이 외부 접속이 허용된 인프라는 퍼블릭클라우드로 구축할 수 있다.\n메가존클라우드는 어떤 클라우드에서도 일관되게 보안이 적용된 서비스를 제공할 수 있게 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "메가존클라우드(공동대표 이주완, 조원우)는 기간통신사업자 드림라인과 사업협력을 위한 양해각서를 체결하고 ‘하이브리드 클라우드’ 사업에 박차를 가하고 있다고 18일 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "드림라인은 광케이블 전국망을 보유하고 있는 기간통신사업자로, 국내 주요 기업들을 대상으로 전용회선, 인터넷회선, 인터넷전화등을 제공하고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 자회사인 드림마크원을 통해 IDC건물을 인수, 본격적인 IDC 시장에 진출하는 등 비즈니스 모델을 다각화하고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히, AWS DX(Direct Connect)공식 파트너로서, AWS 내 가상의 IDC를 연결하는 전용선 서비스를 제공하는등 IDC와 클라우드 연결에 최적의 네트워크를 제공하고 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "메가존클라우드는 온프레미스 데이터센터(IDC)와 프라이빗 클라우드(Private Cloud) 서비스를 제공하는 드림라인의 기술과 제휴, 글로벌트렌드로 보안에 민감한 금융권 및 엔터프라이즈 기업에 경쟁력 있는 하이브리드 클라우드를 제공할 예정이다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "고객은 사내 보안문서 및 개인정보 등 데이터베이스서버와 같이 자체적으로 관리하고 싶은 민감한 정보가 포함된 인프라는 프라이빗 클라우드로, 웹서버와 같이 외부 접속이 허용된 인프라는 퍼블릭클라우드로 구축할 수 있다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "메가존클라우드는 어떤 클라우드에서도 일관되게 보안이 적용된 서비스를 제공할 수 있게 된다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "메가존클라우드-드림라인, ‘하이브리드 클라우드’ 사업 박차",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

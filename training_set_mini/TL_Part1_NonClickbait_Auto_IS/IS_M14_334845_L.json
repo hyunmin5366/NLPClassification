@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334845",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "토요타, 美 자율주행차 지도·데이터 업체 '카메라' 인수",
+		"newsSubTitle": "",
+		"newsContent": "토요타가 미국 자율주행 차량용 지도∙데이터 제공업체 '카메라(Carmera)'를 인수했다.\n15일 로이터통신에 따르면 토요타는 자회사 우븐 플래닛을 통해 카메라를 인수했다고 밝혔다.\n다만 인수 금액은 공개하지 않았다.\n토요타는 이번 인수로 자율주행차 위치 확인 등에 필요한 실시간, 고해상도 지도를 비롯해 크라우드소싱 데이터를 확보할 수 있을 것으로 기대한다고 설명했다.\n앞으로 개방형 지도 플랫폼을 개발해 외부 업체에도 판매할 계획이다.\n토요타는 2018년부터 카메라와 손잡고 고해상도 지도에 재도색한 차선 정보를 갱신하는 프로젝트를 진행하고 있다.\n앞서 토요타는 올해 4월 차량 공유 업체 리프트의 자율주행차 부문을 5억5000만 달러에 인수했다.\n차량 관리 소프트웨어 업체 라이드셀에도 투자했다.\n우븐 플래닛은 토요타가 인공지능(AI)을 이용한 이동 기술을 개발하기 위해 올해 1월 출범한 업체다.\n일본 후지산에 토요타가 구상하는 미래형 스마트 도시 모델 우븐 시티 건설을 추진하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "토요타가 미국 자율주행 차량용 지도∙데이터 제공업체 '카메라(Carmera)'를 인수했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 로이터통신에 따르면 토요타는 자회사 우븐 플래닛을 통해 카메라를 인수했다고 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다만 인수 금액은 공개하지 않았다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "토요타는 이번 인수로 자율주행차 위치 확인 등에 필요한 실시간, 고해상도 지도를 비롯해 크라우드소싱 데이터를 확보할 수 있을 것으로 기대한다고 설명했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞으로 개방형 지도 플랫폼을 개발해 외부 업체에도 판매할 계획이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "토요타는 2018년부터 카메라와 손잡고 고해상도 지도에 재도색한 차선 정보를 갱신하는 프로젝트를 진행하고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 토요타는 올해 4월 차량 공유 업체 리프트의 자율주행차 부문을 5억5000만 달러에 인수했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "차량 관리 소프트웨어 업체 라이드셀에도 투자했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "우븐 플래닛은 토요타가 인공지능(AI)을 이용한 이동 기술을 개발하기 위해 올해 1월 출범한 업체다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "일본 후지산에 토요타가 구상하는 미래형 스마트 도시 모델 우븐 시티 건설을 추진하고 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "토요타, 美 자율주행차 지도·데이터 업체 '카메라' 인수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

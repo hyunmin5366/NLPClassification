@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337620",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "바인테크, 클라우드 온습도 모니터링 솔루션으로 시장 개척",
+		"newsSubTitle": "",
+		"newsContent": "사업장 온·습도를 모니터링할 수 있는 클라우드 사물인터넷(IoT) 솔루션이 주목 받고 있다.\n바인테크(대표 김학기)는 온도와 습도에 민감한 자산을 모니터링하고 관리할 수 있는 '리트머스 클라우드'를 개발, 식품관리와 병원 등을 대상으로 시장을 개척하고 있다고 19일 밝혔다.\n이 서비스는 사업장에 온·습도 센서를 설치하고 게이트웨이를 통해 클라우드에 데이터를 보내 모니터링하는 솔루션이다.\n엄격하게 실내 온·습도를 유지해야 하는 식품저장소나 병실 등에 활용할 수 있다.\n클라우드에 저장되기 때문에 언제 어디서나 스마트폰과 PC로 데이터 확인이 가능하다.\n온·습도 센서는 초저전력 설계로 배터리 교체없이 5년 이상 사용할 수 있다.\n센서는 수량 제한없이 필요한 공간과 위치에 설치할 수 있다.\n복잡한 전원선이나 통신선없이 무선 메쉬네트워크와 복수 게이트웨이로 설치가 용이하다.\n통신장애로 인한 데이터 손실을 방지할 수 있다.\n바인테크는 리트머스클라우드와 같은 클라우드 IoT서비스를 위한 플랫폼 코어엔진도 개발했다.\n이 엔진은 온·습도 등 다양한 센싱 데이터를 가공, 분석, 가시화하는 서비스 플랫폼이다.\n다양한 정보 수집을 위한 미들웨어 서버와 트리거에 의한 자동화 정책을 지원한다.\n사용자 IoT디바이스 관리 및 업무시스템 연동을 위해 로컬환경 또는 클라우드 환경으로 설치가 가능하다.\n바인테크는 “데이터를 수집, 저장, 분석, 가시화하는 기능이 있어 다양한 서비스에 적용할 수 있다”면서 “실내 위치 추적 등 다양한 서비스 확장을 위한 기능도 추가할 수 있도록 설계했다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사업장 온·습도를 모니터링할 수 있는 클라우드 사물인터넷(IoT) 솔루션이 주목 받고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "바인테크(대표 김학기)는 온도와 습도에 민감한 자산을 모니터링하고 관리할 수 있는 '리트머스 클라우드'를 개발, 식품관리와 병원 등을 대상으로 시장을 개척하고 있다고 19일 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 서비스는 사업장에 온·습도 센서를 설치하고 게이트웨이를 통해 클라우드에 데이터를 보내 모니터링하는 솔루션이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "엄격하게 실내 온·습도를 유지해야 하는 식품저장소나 병실 등에 활용할 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "클라우드에 저장되기 때문에 언제 어디서나 스마트폰과 PC로 데이터 확인이 가능하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온·습도 센서는 초저전력 설계로 배터리 교체없이 5년 이상 사용할 수 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "센서는 수량 제한없이 필요한 공간과 위치에 설치할 수 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "복잡한 전원선이나 통신선없이 무선 메쉬네트워크와 복수 게이트웨이로 설치가 용이하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "통신장애로 인한 데이터 손실을 방지할 수 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "바인테크는 리트머스클라우드와 같은 클라우드 IoT서비스를 위한 플랫폼 코어엔진도 개발했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이 엔진은 온·습도 등 다양한 센싱 데이터를 가공, 분석, 가시화하는 서비스 플랫폼이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "다양한 정보 수집을 위한 미들웨어 서버와 트리거에 의한 자동화 정책을 지원한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "사용자 IoT디바이스 관리 및 업무시스템 연동을 위해 로컬환경 또는 클라우드 환경으로 설치가 가능하다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "바인테크는 “데이터를 수집, 저장, 분석, 가시화하는 기능이 있어 다양한 서비스에 적용할 수 있다”면서 “실내 위치 추적 등 다양한 서비스 확장을 위한 기능도 추가할 수 있도록 설계했다”고 말했다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "바인테크, 클라우드 온습도 모니터링 솔루션으로 시장 개척",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

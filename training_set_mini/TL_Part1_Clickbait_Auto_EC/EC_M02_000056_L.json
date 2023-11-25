@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000056",
+		"newsCategory": "경제",
+		"newsSubcategory": "일반",
+		"newsTitle": "스티글리츠 \\\"비트코인 사회적으로 유용하지 못해 규제 필요\\\"",
+		"newsSubTitle": "",
+		"newsContent": "\\\"비트코인은 법을 회피하는 것 외에는 전혀 유용하지 못하다\\\" 노벨경제학상을 수상한 조지프 스티글리츠 미국 컬럼비아대 교수가 24일 세계경제포럼이 열리는 다보스에서 블룸버그TV와의 인터뷰를 통해 비트코인에 대해 이같이 말했다.\n그는 비트코인이 주로 돈세탁이나 탈세와 같은 불법적인 목적으로 사용되고 있다고 주장하면서, 규제 등을 통해 불법화하라고 요구해온 인물이다.\n이어 \\\"달러라는 좋은 교환 매체가 있다. 비트코인은 근본적으로 존재하지 않는 문제를 해결하기 위해 노력하고 있다\\\"며 \\\" 규제는 그것을 없애버리는 것을 의미한다\\\"고 강조했다.\n조지프 스티글리츠는 비트코인 폐지론자로 유명하다.\n지난해 11월에도 블룸버그TV에 출연해 \\\"비트코인은 정부 당국의 감독 부족으로 인해 성공한 사기며 불법화해야 한다\\\"고 강력하게 주장했다.\n인터뷰에서 \\\"최근 시세가 2만 달러를 돌파해 최고가로 올라간 이후 비트코인이 추락했다. 이는 부분적으로 한국, 중국 정부의 규제 강화 영향이다\\\"라고 한국을 언급하기도 했다.\n그 밖에도 \\\"비트코인은 사회적으로 유용하지 못하다\\\", \\\"돈세탁과 다른 모든 일에 관여하지 못하게 하면 비트코인에 대한 수요는 없을 것\\\" 등 비트코인을 반대하는 다수의 발언을 언론을 통해 쏟아 냈다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "\\\"비트코인은 법을 회피하는 것 외에는 전혀 유용하지 못하다\\\" 노벨경제학상을 수상한 조지프 스티글리츠 미국 컬럼비아대 교수가 24일 세계경제포럼이 열리는 다보스에서 블룸버그TV와의 인터뷰를 통해 비트코인에 대해 이같이 말했다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그는 비트코인이 주로 돈세탁이나 탈세와 같은 불법적인 목적으로 사용되고 있다고 주장하면서, 규제 등을 통해 불법화하라고 요구해온 인물이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"달러라는 좋은 교환 매체가 있다. 비트코인은 근본적으로 존재하지 않는 문제를 해결하기 위해 노력하고 있다\\\"며 \\\" 규제는 그것을 없애버리는 것을 의미한다\\\"고 강조했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조지프 스티글리츠는 비트코인 폐지론자로 유명하다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 11월에도 블룸버그TV에 출연해 \\\"비트코인은 정부 당국의 감독 부족으로 인해 성공한 사기며 불법화해야 한다\\\"고 강력하게 주장했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인터뷰에서 \\\"최근 시세가 2만 달러를 돌파해 최고가로 올라간 이후 비트코인이 추락했다. 이는 부분적으로 한국, 중국 정부의 규제 강화 영향이다\\\"라고 한국을 언급하기도 했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그 밖에도 \\\"비트코인은 사회적으로 유용하지 못하다\\\", \\\"돈세탁과 다른 모든 일에 관여하지 못하게 하면 비트코인에 대한 수요는 없을 것\\\" 등 비트코인을 반대하는 다수의 발언을 언론을 통해 쏟아 냈다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"韓 농식품 수출 사상 최대\\\"…동남아에서 사랑받는 'K-푸드'는?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

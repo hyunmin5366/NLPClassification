@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331796",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "중기/벤처",
+		"newsTitle": "[AI사피엔스 시대]“매장손님, 뭐 찾으세요?\\\"...AI가 보고 있다",
+		"newsSubTitle": "",
+		"newsContent": "유통 생태계에서 오프라인 매장은 소비자를 만나는 유일한 통로로 여겨졌지만, 온라인 쇼핑 대중화로 역할이 상당히 축소됐다.\n스마트폰으로 언제 어디서나 온라인 판매처에 접속할 수 있는 상황에서 오프라인 매장은 온라인이 줄 수 없는 상품 경험 및 확인, 체험에 더 무게를 둔다. '영상 처리 인공지능(AI)' 기술은 이런 흐름과 맞닿아 오프라인 매장에서 새로운 가치의 데이터를 만들어 내도록 돕는다.\n딥러닝 기술 중 하나인 컨벌루션 신경망(CNN)을 활용하면 매장 내 카메라 등으로 영상 정보를 분석해 고객의 특성과 행동패턴을 읽어낼 수 있다.\n간단하게는 고객 방문 요일과 시간과 체류시간, 나아가서는 매장에 방문한 소비자 성별, 연령대 추정, 인터랙션 여부까지 수치화된 지표로 표현할 수 있다.\n오프라인 공간에서도 각 요소 디지털화를 가능하게 한다.\n온라인에서 방문자가 남기는 체류시간, 카테고리 이동 동선, 결제 전환율 등 '로그 데이터'를 분석하듯 온라인에서 적용되던 마케팅 기법을 오프라인에도 유사하게 적용할 수 있게 된 것이다.\n기존 소비자 행동 분석에 비콘이나 무선랜 연결(와이파이) 장치를 활용하려는 시도가 있었다.\n그러나 이 같은 방식은 의도를 가진 사람의 행동 대신 휴대 기기가 담고 있는 단편 정보밖에 수집할 수 없다는 단점이 있었다.\n오차범위도 10m 수준으로 상당히 넓어 데이터 정확도가 떨어졌다.\n카메라를 여러 대 설치하는 등 기술을 더 세밀하게 적용하면 개별 매대에서 소비자 반응까지 측정할 수 있다.\n가령 20~30대 소비자 타깃으로 구성한 매대에 실제로는 40~50대 소비자 반응이 더 뚜렷하게 나타난다면 관리자는 원인을 파악해야 한다. 20대가 좋아하는 상품을 추가 배치하거나 인테리어를 바꾸는 등 여러 가지 테스트를 진행해보면 이후 지표에 근거해 답을 찾을 수 있게 된다.\nAI발전으로 이를 활용한 리테일 분석 시장 역시 매년 높은 성장세를 보인다.\n시장조사업체 마켓엔드마켓에 따르면 관련 시장규모는 2017년 기준 9억9000만달러로 산정되고 있으며 연평균성장률은 38.3%에 달한다.\n아마존이 운영하는 무인 매장 '아마존고'는 이런 방식을 확장해 실제 시범 매장에서 테스트하고 있다.\n카메라와 각종 사물인터넷(IoT) 기기는 구매자 생체 정보와 이름, 구매 내역까지 파악해 매장에서 나가는 순간 결제까지 마무리한다.\n고객의 이동 경로, 구매 내역, 진열대에 머무는 시간을 분석하면 마케팅과 재고 관리에도 활용 가능하다.\n국내 스타트업 중에서는 메이아이가 좋은 성과를 내고 있다.\n추가 장비 설치 없이 기존 매장에서 사용하던 폐쇄회로TV(CCTV) 영상을 분석에 활용 가능한 기술을 보유하고 있다.\n수집된 방문자 데이터를 가공해 웹 대시보드 형태로 제공한다.\n공간의 변화 이전과 이후를 한 눈에 비교할 수 있고 '히트맵'을 통해 매대별 인터랙션 지표도 확인 가능하다.\n이 같은 기술은 일반 오프라인 매장 외에도 전시회나 팝업 스토어 등 전략적 목적으로 오픈한 매장에서 높은 효율을 이끌어낼 수 있다.\n최근 스타트업 액셀러레이터 퓨처플레이와 이랜드리테일 등으로부터 투자를 유치했으며, 이랜드 NC백화점 킴스클럽 매장에 직접 기술을 도입해 분석 작업을 진행 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유통 생태계에서 오프라인 매장은 소비자를 만나는 유일한 통로로 여겨졌지만, 온라인 쇼핑 대중화로 역할이 상당히 축소됐다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스마트폰으로 언제 어디서나 온라인 판매처에 접속할 수 있는 상황에서 오프라인 매장은 온라인이 줄 수 없는 상품 경험 및 확인, 체험에 더 무게를 둔다. '영상 처리 인공지능(AI)' 기술은 이런 흐름과 맞닿아 오프라인 매장에서 새로운 가치의 데이터를 만들어 내도록 돕는다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "딥러닝 기술 중 하나인 컨벌루션 신경망(CNN)을 활용하면 매장 내 카메라 등으로 영상 정보를 분석해 고객의 특성과 행동패턴을 읽어낼 수 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "간단하게는 고객 방문 요일과 시간과 체류시간, 나아가서는 매장에 방문한 소비자 성별, 연령대 추정, 인터랙션 여부까지 수치화된 지표로 표현할 수 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오프라인 공간에서도 각 요소 디지털화를 가능하게 한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "온라인에서 방문자가 남기는 체류시간, 카테고리 이동 동선, 결제 전환율 등 '로그 데이터'를 분석하듯 온라인에서 적용되던 마케팅 기법을 오프라인에도 유사하게 적용할 수 있게 된 것이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기존 소비자 행동 분석에 비콘이나 무선랜 연결(와이파이) 장치를 활용하려는 시도가 있었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그러나 이 같은 방식은 의도를 가진 사람의 행동 대신 휴대 기기가 담고 있는 단편 정보밖에 수집할 수 없다는 단점이 있었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "오차범위도 10m 수준으로 상당히 넓어 데이터 정확도가 떨어졌다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "카메라를 여러 대 설치하는 등 기술을 더 세밀하게 적용하면 개별 매대에서 소비자 반응까지 측정할 수 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "가령 20~30대 소비자 타깃으로 구성한 매대에 실제로는 40~50대 소비자 반응이 더 뚜렷하게 나타난다면 관리자는 원인을 파악해야 한다. 20대가 좋아하는 상품을 추가 배치하거나 인테리어를 바꾸는 등 여러 가지 테스트를 진행해보면 이후 지표에 근거해 답을 찾을 수 있게 된다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "AI발전으로 이를 활용한 리테일 분석 시장 역시 매년 높은 성장세를 보인다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "시장조사업체 마켓엔드마켓에 따르면 관련 시장규모는 2017년 기준 9억9000만달러로 산정되고 있으며 연평균성장률은 38.3%에 달한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "아마존이 운영하는 무인 매장 '아마존고'는 이런 방식을 확장해 실제 시범 매장에서 테스트하고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "카메라와 각종 사물인터넷(IoT) 기기는 구매자 생체 정보와 이름, 구매 내역까지 파악해 매장에서 나가는 순간 결제까지 마무리한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "고객의 이동 경로, 구매 내역, 진열대에 머무는 시간을 분석하면 마케팅과 재고 관리에도 활용 가능하다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "국내 스타트업 중에서는 메이아이가 좋은 성과를 내고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "추가 장비 설치 없이 기존 매장에서 사용하던 폐쇄회로TV(CCTV) 영상을 분석에 활용 가능한 기술을 보유하고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "수집된 방문자 데이터를 가공해 웹 대시보드 형태로 제공한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "공간의 변화 이전과 이후를 한 눈에 비교할 수 있고 '히트맵'을 통해 매대별 인터랙션 지표도 확인 가능하다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이 같은 기술은 일반 오프라인 매장 외에도 전시회나 팝업 스토어 등 전략적 목적으로 오픈한 매장에서 높은 효율을 이끌어낼 수 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "최근 스타트업 액셀러레이터 퓨처플레이와 이랜드리테일 등으로부터 투자를 유치했으며, 이랜드 NC백화점 킴스클럽 매장에 직접 기술을 도입해 분석 작업을 진행 중이다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[AI사피엔스 시대]“매장손님, 뭐 찾으세요?\\\"...AI가 보고 있다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

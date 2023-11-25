@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339609",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "KT, 변칙 P2P 소송전 승리···法, 합리적 트래픽 관리 인정",
+		"newsSubTitle": "",
+		"newsContent": "법원이 통신사의 트래픽 관리 권한을 인정, 망 중립성 논쟁에 방향타가 될 것으로 전망된다.\n서울중앙지법 민사24부(황정수 부장판사)는 10개 웹하드 사업자가 2016년 5월 31일 KT를 상대로 제기한 변칙 개인간정보공유(P2P) 본안 소송 1심에서 원고 청구를 기각했다.\n법원은 원고인 웹하드 사업자가 제공하는 서비스가 일반 콘텐츠전송네트워크(CDN)와 다른 형태라고 판시했다.\n이용자 동의 없이 이용자 PC 자원을 활용하는 것은 '불법 프로그램'이라고 봤다.\n재판부는 피고 KT가 변칙 P2P 트래픽을 관리한 것은 불합리하지 않다고 판단했다.\nKT는 변칙 P2P가 이용 약관을 위반한 데다 가입자 피해를 유발할 수 있다고 보고 2012년 5월부터 P2P 서비스 가운데 일부를 차단했다.\nP2P 업체는 이른바 '그리드 프로그램'을 설치, 이용자 PC를 일종의 서버로 활용했다.\n이용자 PC에 저장된 콘텐츠 목록을 검색해서 제공하고, 다른 이용자가 콘텐츠를 다운로드할 수 있도록 중계했다.\nP2P 가입 시 동의 절차가 있지만 설명이 충분하지 않고 막연해서 이용자가 내용을 알기 어렵다는 게 법원의 판단이다.\n법원은 컴퓨터학과 교수의 증언을 통해 그리드 프로그램을 설치한 이용자 PC가 켜지면 이용자가 인지하지 못한 상황에서 콘텐츠가 빠져나가는 것을 확인했다.\n재판부는 통신 가입자가 인터넷 회선 자체를 3자에게 제공해선 안 된다는 이용 약관도 위반했다고 결론 내렸다.\n상업용으로 활용했다는 의미다.\nKT는 P2P 그리드 프로그램을 무력화하기 위해 이용자 PC 콘텐츠 목록을 수집하는 행위만 선별 차단했다.\n목록이 없으면 콘텐츠 제공도 불가능하기 때문이다.\nP2P 업계와 인터넷 자유 옹호단체는 KT의 행위가 트래픽 차별을 금지한 망 중립성 원칙 위반이라며 반발, 소송전이 시작됐다.\n2015년 11월 12개 웹하드 사업자가 수원지방법원에 KT를 업무방해 금지 가처분 신청을 냈지만 이듬해 1월 패소했다.\n이들은 2016년 5월 서울중앙지법에 본안 소송을 제기했다가 재차 패소했다.\n법원 판결은 국내 망 중립성 원칙 기준을 제시했다는 점에서 의미가 각별하다.\n선언 수준이던 망 중립성 가이드라인의 '트래픽 합리 관리' 사례를 규정했다.\n가이드라인은 '필요한 경우 트래픽 관리를 허용한다'고 규정했을 뿐 세부 기준이 없다.\n통신사가 기계식 망 중립성 원칙에서 탈피해 필요하면 망을 관리할 수 있다는 해석이 가능하다.\n한편 방송통신위원회와 과학기술정보통신부(옛 미래창조과학부)는 변칙 P2P 트래픽 차단 논란이 발생했을 당시 법원 판단 이후 규제 방향을 결정하겠다고 밝힌 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "법원이 통신사의 트래픽 관리 권한을 인정, 망 중립성 논쟁에 방향타가 될 것으로 전망된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울중앙지법 민사24부(황정수 부장판사)는 10개 웹하드 사업자가 2016년 5월 31일 KT를 상대로 제기한 변칙 개인간정보공유(P2P) 본안 소송 1심에서 원고 청구를 기각했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "법원은 원고인 웹하드 사업자가 제공하는 서비스가 일반 콘텐츠전송네트워크(CDN)와 다른 형태라고 판시했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이용자 동의 없이 이용자 PC 자원을 활용하는 것은 '불법 프로그램'이라고 봤다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "재판부는 피고 KT가 변칙 P2P 트래픽을 관리한 것은 불합리하지 않다고 판단했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT는 변칙 P2P가 이용 약관을 위반한 데다 가입자 피해를 유발할 수 있다고 보고 2012년 5월부터 P2P 서비스 가운데 일부를 차단했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "P2P 업체는 이른바 '그리드 프로그램'을 설치, 이용자 PC를 일종의 서버로 활용했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이용자 PC에 저장된 콘텐츠 목록을 검색해서 제공하고, 다른 이용자가 콘텐츠를 다운로드할 수 있도록 중계했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "P2P 가입 시 동의 절차가 있지만 설명이 충분하지 않고 막연해서 이용자가 내용을 알기 어렵다는 게 법원의 판단이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "법원은 컴퓨터학과 교수의 증언을 통해 그리드 프로그램을 설치한 이용자 PC가 켜지면 이용자가 인지하지 못한 상황에서 콘텐츠가 빠져나가는 것을 확인했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "재판부는 통신 가입자가 인터넷 회선 자체를 3자에게 제공해선 안 된다는 이용 약관도 위반했다고 결론 내렸다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "상업용으로 활용했다는 의미다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "KT는 P2P 그리드 프로그램을 무력화하기 위해 이용자 PC 콘텐츠 목록을 수집하는 행위만 선별 차단했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "목록이 없으면 콘텐츠 제공도 불가능하기 때문이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "P2P 업계와 인터넷 자유 옹호단체는 KT의 행위가 트래픽 차별을 금지한 망 중립성 원칙 위반이라며 반발, 소송전이 시작됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "2015년 11월 12개 웹하드 사업자가 수원지방법원에 KT를 업무방해 금지 가처분 신청을 냈지만 이듬해 1월 패소했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이들은 2016년 5월 서울중앙지법에 본안 소송을 제기했다가 재차 패소했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "법원 판결은 국내 망 중립성 원칙 기준을 제시했다는 점에서 의미가 각별하다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "선언 수준이던 망 중립성 가이드라인의 '트래픽 합리 관리' 사례를 규정했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "가이드라인은 '필요한 경우 트래픽 관리를 허용한다'고 규정했을 뿐 세부 기준이 없다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "통신사가 기계식 망 중립성 원칙에서 탈피해 필요하면 망을 관리할 수 있다는 해석이 가능하다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "한편 방송통신위원회와 과학기술정보통신부(옛 미래창조과학부)는 변칙 P2P 트래픽 차단 논란이 발생했을 당시 법원 판단 이후 규제 방향을 결정하겠다고 밝힌 바 있다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 변칙 P2P 소송전 승리···法, 합리적 트래픽 관리 인정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

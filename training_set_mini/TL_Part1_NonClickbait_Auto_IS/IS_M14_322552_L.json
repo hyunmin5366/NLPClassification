@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322552",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "애플, 프랑스서 1조5000억원 과징금... \\\"경쟁질서 교란\\\"",
+		"newsSubTitle": "",
+		"newsContent": "프랑스 당국이 애플에 경쟁질서 교란으로 11억유로(약 1조5000억원) 과징금을 부과했다.\n프랑스 공정거래위원회는 16일(현지시간) 애플이 시장우월적 지위를 남용해 프랑스 독립 소매업체의 정상적인 가격 경쟁을 방해했다고 판단했다면서 11억 유로 과징금을 부과한다고 밝혔다.\n프랑스 내 애플 도매업체 두 곳도 총 1억4000만유로(약 1900억원)가량 과징금 부과 결정을 받았다.\n이사벨 드 실바 공정위원장은 “애플과 두 도매업체는 상호 간 경쟁하지 않기로 합의하고 독립 소매업체가 프로모션이나 할인 등 가격 경쟁을 하지 못하게 방해함으로써 시장을 교란했다”고 밝혔다.\n애플에 부과된 11억유로 과징금은 프랑스 공정위가 한 기업에 대해 부과한 액수로는 역대 최고 수준이다.\n프랑스 공정위는 앞서 지난해 12월에는 검색광고에서 시장 우월적 지위를 남용했다면서 구글에 1억5000만유로(약 1900억원) 과징금을 부과한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "프랑스 당국이 애플에 경쟁질서 교란으로 11억유로(약 1조5000억원) 과징금을 부과했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프랑스 공정거래위원회는 16일(현지시간) 애플이 시장우월적 지위를 남용해 프랑스 독립 소매업체의 정상적인 가격 경쟁을 방해했다고 판단했다면서 11억 유로 과징금을 부과한다고 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "프랑스 내 애플 도매업체 두 곳도 총 1억4000만유로(약 1900억원)가량 과징금 부과 결정을 받았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이사벨 드 실바 공정위원장은 “애플과 두 도매업체는 상호 간 경쟁하지 않기로 합의하고 독립 소매업체가 프로모션이나 할인 등 가격 경쟁을 하지 못하게 방해함으로써 시장을 교란했다”고 밝혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플에 부과된 11억유로 과징금은 프랑스 공정위가 한 기업에 대해 부과한 액수로는 역대 최고 수준이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "프랑스 공정위는 앞서 지난해 12월에는 검색광고에서 시장 우월적 지위를 남용했다면서 구글에 1억5000만유로(약 1900억원) 과징금을 부과한 바 있다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플, 프랑스서 1조5000억원 과징금... \\\"경쟁질서 교란\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

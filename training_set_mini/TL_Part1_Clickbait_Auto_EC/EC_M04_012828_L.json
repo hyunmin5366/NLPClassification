@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012828",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "때이른 더위에 보양식 인기",
+		"newsSubTitle": "한우 부산물 지난해比 102% 증가",
+		"newsContent": "이른 더위로 보양식 매출이 큰 폭 상승한 것으로 나타났다.\n롯데마트가 지난 4월 매출 동향을 집계한 결과 사골, 우족, 잡뼈 등 오랜 시간 고아 몸보신용으로 먹는 '한우 부산물'의 매출이 지난해 같은 기간보다 101.7%나 늘었다.\n힘든 밭일을 앞두고 소에게 먹였다는 '낙지'의 경우 144.4%증가했으며 '전복' 27.2%, '장어' 22.0% 매출이 늘어나며 이른 더위로 인한 특수를 누렸다.\n반면, 대중 보양식 삼계탕의 주 재료인 '백숙용 닭' 매출은 작년 같은 기간보다 -2.4%하락했다.\n다만 AI 여파로 지난 2월~3월 매출이 20% 이상 하락한 것에 비교하면 역신장 폭이 크게 줄어 이른 더위가 AI 여파까지 잠재운 것으로 나타났다.\n이렇게 올해 이른 더위로 인해, 보양식이 인기를 끌자 롯데마트는 8일부터 14일까지 '국산 활 전복(100g)'을 시세보다 30% 가량 저렴한 각 5480원(중), 5980원(대)에 선보이며, '하림 토종닭(냉장/1kg 이상)'은 25% 가량 저렴한 6900원에 판매한다.\n정재우 롯데마트 마케팅전략팀장은 “주춤했던 '백숙용 닭' 매출도 무더위 덕택에 살아나고 있는 것으로 보인다”며, “올해 여름도 무더위가 예상되는 만큼, 보양식 5인방도 본격 여름 특수가 기대되는 상황”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이른 더위로 보양식 매출이 큰 폭 상승한 것으로 나타났다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "롯데마트가 지난 4월 매출 동향을 집계한 결과 사골, 우족, 잡뼈 등 오랜 시간 고아 몸보신용으로 먹는 '한우 부산물'의 매출이 지난해 같은 기간보다 101.7%나 늘었다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "힘든 밭일을 앞두고 소에게 먹였다는 '낙지'의 경우 144.4%증가했으며 '전복' 27.2%, '장어' 22.0% 매출이 늘어나며 이른 더위로 인한 특수를 누렸다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면, 대중 보양식 삼계탕의 주 재료인 '백숙용 닭' 매출은 작년 같은 기간보다 -2.4%하락했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만 AI 여파로 지난 2월~3월 매출이 20% 이상 하락한 것에 비교하면 역신장 폭이 크게 줄어 이른 더위가 AI 여파까지 잠재운 것으로 나타났다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이렇게 올해 이른 더위로 인해, 보양식이 인기를 끌자 롯데마트는 8일부터 14일까지 '국산 활 전복(100g)'을 시세보다 30% 가량 저렴한 각 5480원(중), 5980원(대)에 선보이며, '하림 토종닭(냉장/1kg 이상)'은 25% 가량 저렴한 6900원에 판매한다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정재우 롯데마트 마케팅전략팀장은 “주춤했던 '백숙용 닭' 매출도 무더위 덕택에 살아나고 있는 것으로 보인다”며, “올해 여름도 무더위가 예상되는 만큼, 보양식 5인방도 본격 여름 특수가 기대되는 상황”이라고 말했다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "자활의지 있다면 저금리 대출해요",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007461",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "NH농협, 농작물재해보험 판매",
+		"newsSubTitle": "",
+		"newsContent": "농협 충남지역본부(본부장 신충식)가 2001년 첫 도입돼 올해로 10년차인 농작물 재해보험 품목 중 포도와 복숭아를 오는 22일부터 다음 달 21일까지 판매한다.\n포도, 복숭아 품목에 한해 특정위험방식에서 종합위험방식으로 바뀌면서 가입기간이 변경됐다.\n사과, 배, 단감, 떫은감 등은 종전처럼 매년 2~3월 중에 가입할 수 있다.\n보장기간은 계약체결일 밤 12시부터 2011년 수확기 종료 시점까지며 농가부담을 덜어주기 위해 정부 및 지방비를 지원받아 순보험료의 20%만 농업인이 부담하면 된다.\n보상하는 재해는 자연재해(태풍, 우박, 동상해, 호우, 강풍, 한해(旱害), 냉해, 조해(潮害), 설해) 등과 조수해, 화재로 인한 피해까지 포함된다.\n단, 나무손해보상은 선택 가입할 수 있다.\n세부사항은 농협에 직접 방문하거나 전화로 안내받을 수 있다.\n충남의 경우 2002년 태풍 루사 피해 때 가입농가 846가구에 22억원, 2009년 우박과 동상해로 99개 농가에 5억5500만원을 지급했고, 지난 9월의 태풍 곤파스 피해로 1641건에 167억원의 보험금을 지급할 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "농협 충남지역본부(본부장 신충식)가 2001년 첫 도입돼 올해로 10년차인 농작물 재해보험 품목 중 포도와 복숭아를 오는 22일부터 다음 달 21일까지 판매한다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "포도, 복숭아 품목에 한해 특정위험방식에서 종합위험방식으로 바뀌면서 가입기간이 변경됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사과, 배, 단감, 떫은감 등은 종전처럼 매년 2~3월 중에 가입할 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보장기간은 계약체결일 밤 12시부터 2011년 수확기 종료 시점까지며 농가부담을 덜어주기 위해 정부 및 지방비를 지원받아 순보험료의 20%만 농업인이 부담하면 된다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보상하는 재해는 자연재해(태풍, 우박, 동상해, 호우, 강풍, 한해(旱害), 냉해, 조해(潮害), 설해) 등과 조수해, 화재로 인한 피해까지 포함된다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "단, 나무손해보상은 선택 가입할 수 있다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "세부사항은 농협에 직접 방문하거나 전화로 안내받을 수 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "충남의 경우 2002년 태풍 루사 피해 때 가입농가 846가구에 22억원, 2009년 우박과 동상해로 99개 농가에 5억5500만원을 지급했고, 지난 9월의 태풍 곤파스 피해로 1641건에 167억원의 보험금을 지급할 예정이다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "나무로 만든 친환경 고층 아파트 들어선다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

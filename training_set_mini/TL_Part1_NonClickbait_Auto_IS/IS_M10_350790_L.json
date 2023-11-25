@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350790",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "SK(주)C&C, MS클라우드 에저 공인자격 인증 획득",
+		"newsSubTitle": "null",
+		"newsContent": "SK(주)C&C가 쿠버네티스 온 마이크로소프트(MS) 애저 어드밴스드 스페셜라이제이션 인증을 획득했다고 19일 밝혔다.\nMS 클라우드 서비스 애저에서 쿠버네티스(컨테이너를 쉽고 빠르게 배포하고 관리해주는 오픈소스 플랫폼)를 관리하기 위한 전문 지식을 갖춘 파트너에게 부여하는 인증이다.\n기술을 적용한 고객 성공사례와 기술 기준을 충족하고 제3자 감사를 통과해야 획득할 수 있다.\nSK(주)C&C는 MS 애저 클라우드와 애저 쿠버네티스 서비스를 적용해 호텔 등 서비스 분야 고객 멤버십 관리 시스템을 클라우드로 전환한 바 있다.\n금융과 제조, 유통, 서비스, 통신 등 국내 주요기업 고객을 대상으로 △클라우드 전환 컨설팅 △아키텍처 설계 △마이그레이션 사업을 수행하고 있다.\nSK(주)C&C의 종합 클라우드 서비스 클라우드제트(Cloud Z)의 컨테이너 플랫폼인 Z CP(Container Platform)와 MCM(Multi Cluster Management)도 강점으로 인정받았다.\n자체 개발해 출시한 클라우드 컨테이너 플랫폼 서비스 클라우드제트 CP는 쿠버네티스 서비스 기반의 애플리케이션 개발·운영을 위한 통합 플랫폼이다.\n김완종 SK(주)C&C 클라우드 부문장은 \\\"산업 전분야에 걸쳐 고객 밀착형 디지털 전환 수요를 이끌고 안정적으로 클라우드 사업을 확장하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK(주)C&C가 쿠버네티스 온 마이크로소프트(MS) 애저 어드밴스드 스페셜라이제이션 인증을 획득했다고 19일 밝혔다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "MS 클라우드 서비스 애저에서 쿠버네티스(컨테이너를 쉽고 빠르게 배포하고 관리해주는 오픈소스 플랫폼)를 관리하기 위한 전문 지식을 갖춘 파트너에게 부여하는 인증이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기술을 적용한 고객 성공사례와 기술 기준을 충족하고 제3자 감사를 통과해야 획득할 수 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SK(주)C&C는 MS 애저 클라우드와 애저 쿠버네티스 서비스를 적용해 호텔 등 서비스 분야 고객 멤버십 관리 시스템을 클라우드로 전환한 바 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금융과 제조, 유통, 서비스, 통신 등 국내 주요기업 고객을 대상으로 △클라우드 전환 컨설팅 △아키텍처 설계 △마이그레이션 사업을 수행하고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SK(주)C&C의 종합 클라우드 서비스 클라우드제트(Cloud Z)의 컨테이너 플랫폼인 Z CP(Container Platform)와 MCM(Multi Cluster Management)도 강점으로 인정받았다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "자체 개발해 출시한 클라우드 컨테이너 플랫폼 서비스 클라우드제트 CP는 쿠버네티스 서비스 기반의 애플리케이션 개발·운영을 위한 통합 플랫폼이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김완종 SK(주)C&C 클라우드 부문장은 \\\"산업 전분야에 걸쳐 고객 밀착형 디지털 전환 수요를 이끌고 안정적으로 클라우드 사업을 확장하겠다\\\"고 말했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK(주)C&C, MS클라우드 에저 공인자격 인증 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

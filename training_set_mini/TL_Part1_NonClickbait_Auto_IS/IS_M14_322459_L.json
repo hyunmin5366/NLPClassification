@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322459",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "자연어 처리 전문기업 다이퀘스트, NHN엔터테인먼트 계열사로 편입",
+		"newsSubTitle": "",
+		"newsContent": "다이퀘스트(대표 강락근)는 NHN엔터테인먼트(대표 정우진)와 전략적 제휴 협약을 맺고 지분 인수 과정을 거쳐 계열사로 편입됐다고 22일 밝혔다.\n지난달 NHN엔터테인먼트가 다이퀘스트 지분50%를 인수하며 인수와 계열사 편입 절차가 완료됐다.\n다이퀘스트는 인공지능 한 분야인 자연어 처리 핵심 기술을 보유한 자연어 처리 전문 업체다.\n대화형 인공지능 에이전트 '인포채터(InfoChatter)'와 자연어처리를 기반으로 한 다양한 자체 기술 솔루션을 보유했다.\n다양한 산업에서 △AI 언어 지능 플랫폼 전문 컨설팅 및 구축 △빅데이터 처리 솔루션 공급 및 구축 △정보서비스 플랫폼 통합 컨설팅 등 서비스 구축사업을 진행했다.\n다이퀘스트는 자연어 처리 기술을 바탕으로 질의응답을 위한 대화처리시스템 구축과 빅데이터 검색 서비스 구축 등 국내 1000여개 고객사를 대상으로 시스템 2000여개를 서비스한다.\n강락근 다이퀘스트 대표는 \\\"NHN엔터테인먼트와 다이퀘스트가 사업적 시너지 효과를 낸다면 보유 기술 발전과 확장은 물론 사업 다각화를 기대하는 좋은 기회가 될 것\\\"이라면서 \\\"기존 사업과 향후 진행 사업에도 다양한 고객 요구사항을 수용해 안정적이고 전문적인 서비스를 제공할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "다이퀘스트(대표 강락근)는 NHN엔터테인먼트(대표 정우진)와 전략적 제휴 협약을 맺고 지분 인수 과정을 거쳐 계열사로 편입됐다고 22일 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난달 NHN엔터테인먼트가 다이퀘스트 지분50%를 인수하며 인수와 계열사 편입 절차가 완료됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다이퀘스트는 인공지능 한 분야인 자연어 처리 핵심 기술을 보유한 자연어 처리 전문 업체다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대화형 인공지능 에이전트 '인포채터(InfoChatter)'와 자연어처리를 기반으로 한 다양한 자체 기술 솔루션을 보유했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다양한 산업에서 △AI 언어 지능 플랫폼 전문 컨설팅 및 구축 △빅데이터 처리 솔루션 공급 및 구축 △정보서비스 플랫폼 통합 컨설팅 등 서비스 구축사업을 진행했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다이퀘스트는 자연어 처리 기술을 바탕으로 질의응답을 위한 대화처리시스템 구축과 빅데이터 검색 서비스 구축 등 국내 1000여개 고객사를 대상으로 시스템 2000여개를 서비스한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "강락근 다이퀘스트 대표는 \\\"NHN엔터테인먼트와 다이퀘스트가 사업적 시너지 효과를 낸다면 보유 기술 발전과 확장은 물론 사업 다각화를 기대하는 좋은 기회가 될 것\\\"이라면서 \\\"기존 사업과 향후 진행 사업에도 다양한 고객 요구사항을 수용해 안정적이고 전문적인 서비스를 제공할 것\\\"이라고 말했다.",
+				"sentenceSize": 165
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "자연어 처리 전문기업 다이퀘스트, NHN엔터테인먼트 계열사로 편입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

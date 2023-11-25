@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336529",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "이스톰, 보안인증솔루션 '오토패스워드' 조달청 나라장터 등록",
+		"newsSubTitle": "",
+		"newsContent": "보안인증 전문기업 이스톰(대표 우종현)은 업무용 상호인증 OTP 솔루션 '오토패스워드 엔터프라이즈'와 PC 및 서버 로그인 패스워드 자동관리 솔루션 '오토패스워드 로그온'을 조달청 나라장터에 등록 완료했다고 26일 밝혔다.\n오토패스워드 엔터프라이즈는 기업 임직원용 내부 업무 시스템에 사용되며 오토패스워드 로그온은 PC 및 서버 로그인 비밀번호를 자동 변경하고 이를 모바일 인증으로 대체한다.\n오토패스워드는 불안한 암기 기반 패스워드를 모바일을 이용해 대체하는 기술이다.\n사용자는 아이디만 입력하면 된다.\n비밀키와 시간, IP, 해시값, 푸쉬ID, 세션ID를 체크하고 조합해 OTP를 생성한다.\n이 기술은 국내 및 미국에 특허 등록됐다.\n생체인증기술 국제 표준 FIDO 인증을 획득한 지문인식 기술과 애플리케이션(앱) 위변조방지, 화면 복제 방지, 미러링 방지 기술 등을 적용해 보안성을 높였다.\n오토패스워드 기술을 PC에 적용한 오토패스워드 로그온은 편리한 로그인뿐 아니라 운용체계(OS) 계정 비밀번호도 자동으로 지속 변경해 사용자 비밀번호 관리 보안 정책을 준수한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보안인증 전문기업 이스톰(대표 우종현)은 업무용 상호인증 OTP 솔루션 '오토패스워드 엔터프라이즈'와 PC 및 서버 로그인 패스워드 자동관리 솔루션 '오토패스워드 로그온'을 조달청 나라장터에 등록 완료했다고 26일 밝혔다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오토패스워드 엔터프라이즈는 기업 임직원용 내부 업무 시스템에 사용되며 오토패스워드 로그온은 PC 및 서버 로그인 비밀번호를 자동 변경하고 이를 모바일 인증으로 대체한다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오토패스워드는 불안한 암기 기반 패스워드를 모바일을 이용해 대체하는 기술이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사용자는 아이디만 입력하면 된다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비밀키와 시간, IP, 해시값, 푸쉬ID, 세션ID를 체크하고 조합해 OTP를 생성한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 기술은 국내 및 미국에 특허 등록됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "생체인증기술 국제 표준 FIDO 인증을 획득한 지문인식 기술과 애플리케이션(앱) 위변조방지, 화면 복제 방지, 미러링 방지 기술 등을 적용해 보안성을 높였다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오토패스워드 기술을 PC에 적용한 오토패스워드 로그온은 편리한 로그인뿐 아니라 운용체계(OS) 계정 비밀번호도 자동으로 지속 변경해 사용자 비밀번호 관리 보안 정책을 준수한다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이스톰, 보안인증솔루션 '오토패스워드' 조달청 나라장터 등록",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

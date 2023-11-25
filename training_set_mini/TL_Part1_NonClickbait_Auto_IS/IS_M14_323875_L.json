@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323875",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "유럽연합, 벤츠·BMW·폭스바겐 독일차 업계 담합 의혹 조사 실시",
+		"newsSubTitle": "",
+		"newsContent": "유럽연합(EU)이 독일 자동차 제조업체 담합 의혹에 대해 조사하고 있다고 EU 집행위가 22일 밝혔다.\nEU 집행위는 이날 \\\"EU 집행위와 독일 경쟁 당국이 이 문제(자동차 업체 담합 의혹)에 대한 정보를 입수해 조사를 진행 중\\\"이라면서 \\\"현 단계에서 더 이상의 추측은 설익은 것\\\"이라고만 말했다.\n담합 의혹이 사실로 확인되면 이들 업체는 막대한 과징금을 부과 받을 수 있다.\n앞서 독일 주간지 슈피겔은 전날 폭스바겐, BMW, 아우디, 포르셰가 디젤차 배기가스 시스템의 가격을 담합한 의혹이 있다고 보도했다.\n그러면서 폴크스바겐이 지난 4일 경쟁 당국에 보낸 서한에서 반(反)경쟁적 행위를 했을 가능성에 대해 인정했다고 슈피겔은 전했다.\n이들 회사가 EU의 카르텔 규정 위반이 확인되면 글로벌 매출의 10%까지 과징금을 부과 받을 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유럽연합(EU)이 독일 자동차 제조업체 담합 의혹에 대해 조사하고 있다고 EU 집행위가 22일 밝혔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "EU 집행위는 이날 \\\"EU 집행위와 독일 경쟁 당국이 이 문제(자동차 업체 담합 의혹)에 대한 정보를 입수해 조사를 진행 중\\\"이라면서 \\\"현 단계에서 더 이상의 추측은 설익은 것\\\"이라고만 말했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "담합 의혹이 사실로 확인되면 이들 업체는 막대한 과징금을 부과 받을 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 독일 주간지 슈피겔은 전날 폭스바겐, BMW, 아우디, 포르셰가 디젤차 배기가스 시스템의 가격을 담합한 의혹이 있다고 보도했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 폴크스바겐이 지난 4일 경쟁 당국에 보낸 서한에서 반(反)경쟁적 행위를 했을 가능성에 대해 인정했다고 슈피겔은 전했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들 회사가 EU의 카르텔 규정 위반이 확인되면 글로벌 매출의 10%까지 과징금을 부과 받을 수 있다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유럽연합, 벤츠·BMW·폭스바겐 독일차 업계 담합 의혹 조사 실시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

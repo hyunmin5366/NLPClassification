@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351253",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "'세계 톱' AI학술지 편집장에 서울대 이경무 교수…\\\"동양인 최초\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "인공지능 기술 분야 세계 최고 학술지인 '국제전기전자공학회 패턴분석 및 머신지능'(IEEE TPAMI) 편집장에 이경무 서울대 전기정보공학부 이경무 교수가 선정됐다.\n서울대 공과대학은 24일 \\\"이경무 교수의 편집장 선정은 지난 42년 역사에서 한국인을 포함, 동양인 최초\\\"라며 \\\"우리나라 공학계열의 역사를 새로 쓰는 것과 같은 쾌거\\\"라며 이같이 밝혔다.\nIEEE TPAMI는 국제적 수준의 학술지 분류 기준은 SCI와 구글 스칼라에서 가장 권위 있는 학술지며, 영향력 지수(IF·임팩트 팩터)는 16.389다.\n논문이 많이 인용될 수록 IF값이 높다.\n이 교수는 현재까지 250여편의 논문을 발표했으며, 인용수가 2만1000회를 넘는 인공지능 분야 석학으로 꼽힌다 . 이같은 경력을 바탕으로 지난 5년간 IEEE TPAMI 부편집장으로 활동해왔다.\n이 교수는 \\\"개인적으로 그동안의 노력을 통해 세계적 동료 연구자들로부터 신임과 인정을 받았다는 것이 매우 기쁘고, 학자로서 더할 나위 없는 영광\\\"이라며 \\\"개인의 역량과 더불어 인공지능 분야에서 우리나라의 학문적 위상이 그만큼 성장했다는 것을 반증한다\\\"고 밝혔다.\n이 교수는 내년 1월부터 2년간 IEEE TPAMI 편집장 역할을 맡게되며, 6명의 부편집장과 120명의 편집위원 등 인공지능 분야 최고의 학자들로 구성된 편집위원회를 이끌 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능 기술 분야 세계 최고 학술지인 '국제전기전자공학회 패턴분석 및 머신지능'(IEEE TPAMI) 편집장에 이경무 서울대 전기정보공학부 이경무 교수가 선정됐다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울대 공과대학은 24일 \\\"이경무 교수의 편집장 선정은 지난 42년 역사에서 한국인을 포함, 동양인 최초\\\"라며 \\\"우리나라 공학계열의 역사를 새로 쓰는 것과 같은 쾌거\\\"라며 이같이 밝혔다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "IEEE TPAMI는 국제적 수준의 학술지 분류 기준은 SCI와 구글 스칼라에서 가장 권위 있는 학술지며, 영향력 지수(IF·임팩트 팩터)는 16.389다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "논문이 많이 인용될 수록 IF값이 높다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 교수는 현재까지 250여편의 논문을 발표했으며, 인용수가 2만1000회를 넘는 인공지능 분야 석학으로 꼽힌다 . 이같은 경력을 바탕으로 지난 5년간 IEEE TPAMI 부편집장으로 활동해왔다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 교수는 \\\"개인적으로 그동안의 노력을 통해 세계적 동료 연구자들로부터 신임과 인정을 받았다는 것이 매우 기쁘고, 학자로서 더할 나위 없는 영광\\\"이라며 \\\"개인의 역량과 더불어 인공지능 분야에서 우리나라의 학문적 위상이 그만큼 성장했다는 것을 반증한다\\\"고 밝혔다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 교수는 내년 1월부터 2년간 IEEE TPAMI 편집장 역할을 맡게되며, 6명의 부편집장과 120명의 편집위원 등 인공지능 분야 최고의 학자들로 구성된 편집위원회를 이끌 예정이다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'세계 톱' AI학술지 편집장에 서울대 이경무 교수…\\\"동양인 최초\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334541",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "안드로이드 설계 구조 취약점 발견...공인된 앱 스토어에서도 앱 설치 유의해야",
+		"newsSubTitle": "",
+		"newsContent": "안드로이드 운용체계(OS) 설계 구조를 이용한 취약점이 발견됐다.\n안드로이드에서 허용된 사용자 권한을 악용해 악성 애플리케이션 실행이 가능하다.\n현재 안드로이드 최신 버전인 누가(Nougat)까지 해당 문제점에 노출된 상태다.\n전문가는 사용자가 공인된 앱 스토어라도 권한 획득 유무를 꼼꼼히 살펴봐야 한다고 조언한다. 5일 한국인터넷진흥원(KISA)에 따르면, 미국 조지아 공대와 샌타바버라 연구팀은 안드로이드 플랫폼 설계 단점을 활용한 악성 앱 실행 취약점을 발견했다.\n취약점은 장애인 스크린 읽기 기능 등을 포함한 접근권 기능(a11y)을 활용했다.\n구글플레이 스토어는 어플이 설치될 때 해당 권한을 명시적으로 알리지 않아도 된다.\n정상경로로 a11y 권한을 획득한 악성 어플은 사용자 명령과 다르게 OS를 동작시킬 수 있다.\n공격자가 이 같은 문제를 악용하면 기기 핀번호, 온라인 계정 패스워드 등 기기 속 개인정보가 손쉽게 노출된다.\n심재홍 KISA 침해사고분석단 종합분석팀장은 \\\"안드로이드는 화면을 터치했을 때 정해진 앱을 실행하는 것을 이벤트 방식으로 처리하는데, 이 이벤트를 가로채 활용한 공격이 가능하다\\\"며 \\\"일례로 사용자는 정상앱을 실행시키려고 했는데 악성앱이 실행된다. (안드로이드 최고 권한인) 루팅을 획득하는 것과 비슷하다\\\"고 설명했다.\n해당 취약점은 안드로이드 설계 구조상 문제다.\n가장 최신 버전인 누가(v7.1.2)에서도 문제는 해결되지 않았다.\n현재로선 사용자 주의 외에는 방법이 없다.\n구글플레이 스토어를 활용한 취약점 발견, 악성코드 공격은 지속 발견된다.\n체크포인트는 지난달 구글플레이 스토어에 등록된 앱에 악성 광고 클릭 소프트웨어가 삽입됐다고 밝혔다.\n해당 앱은 3650만명 가량이 설치했다.\n공인된 앱 스토어에도 악성 앱이 올라올 수 있는 셈이다.\n전문가는 사용자가 공인된 앱 스토어 보안을 맹신하지 말고 주의해야 한다고 당부한다.\n앱 설치 시 사용자 권한 획득 여부를 꼼꼼히 봐야 살펴봐야 한다.\n심 팀장은 \\\"사용자는 구글플레이스토어 등 공인된 앱 스토어에 올려진 것은 믿고 다운로드 하는 경향이 있다\\\"면서 \\\"공인된 앱 스토어도 보안 시스템이 악성 앱 다운 방지에 충분하지 않기 때문에 사용자 주의가 필요하다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안드로이드 운용체계(OS) 설계 구조를 이용한 취약점이 발견됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안드로이드에서 허용된 사용자 권한을 악용해 악성 애플리케이션 실행이 가능하다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재 안드로이드 최신 버전인 누가(Nougat)까지 해당 문제점에 노출된 상태다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전문가는 사용자가 공인된 앱 스토어라도 권한 획득 유무를 꼼꼼히 살펴봐야 한다고 조언한다. 5일 한국인터넷진흥원(KISA)에 따르면, 미국 조지아 공대와 샌타바버라 연구팀은 안드로이드 플랫폼 설계 단점을 활용한 악성 앱 실행 취약점을 발견했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "취약점은 장애인 스크린 읽기 기능 등을 포함한 접근권 기능(a11y)을 활용했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구글플레이 스토어는 어플이 설치될 때 해당 권한을 명시적으로 알리지 않아도 된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정상경로로 a11y 권한을 획득한 악성 어플은 사용자 명령과 다르게 OS를 동작시킬 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공격자가 이 같은 문제를 악용하면 기기 핀번호, 온라인 계정 패스워드 등 기기 속 개인정보가 손쉽게 노출된다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "심재홍 KISA 침해사고분석단 종합분석팀장은 \\\"안드로이드는 화면을 터치했을 때 정해진 앱을 실행하는 것을 이벤트 방식으로 처리하는데, 이 이벤트를 가로채 활용한 공격이 가능하다\\\"며 \\\"일례로 사용자는 정상앱을 실행시키려고 했는데 악성앱이 실행된다. (안드로이드 최고 권한인) 루팅을 획득하는 것과 비슷하다\\\"고 설명했다.",
+				"sentenceSize": 181
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "해당 취약점은 안드로이드 설계 구조상 문제다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "가장 최신 버전인 누가(v7.1.2)에서도 문제는 해결되지 않았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "현재로선 사용자 주의 외에는 방법이 없다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "구글플레이 스토어를 활용한 취약점 발견, 악성코드 공격은 지속 발견된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "체크포인트는 지난달 구글플레이 스토어에 등록된 앱에 악성 광고 클릭 소프트웨어가 삽입됐다고 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "해당 앱은 3650만명 가량이 설치했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "공인된 앱 스토어에도 악성 앱이 올라올 수 있는 셈이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "전문가는 사용자가 공인된 앱 스토어 보안을 맹신하지 말고 주의해야 한다고 당부한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "앱 설치 시 사용자 권한 획득 여부를 꼼꼼히 봐야 살펴봐야 한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "심 팀장은 \\\"사용자는 구글플레이스토어 등 공인된 앱 스토어에 올려진 것은 믿고 다운로드 하는 경향이 있다\\\"면서 \\\"공인된 앱 스토어도 보안 시스템이 악성 앱 다운 방지에 충분하지 않기 때문에 사용자 주의가 필요하다\\\"고 말했다.",
+				"sentenceSize": 129
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안드로이드 설계 구조 취약점 발견...공인된 앱 스토어에서도 앱 설치 유의해야",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004376",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "오늘 수능일(18일), 은행-증시 \\\"1시간 늦게 만나요\\\"",
+		"newsSubTitle": "은행 영업시간 오전 10시부터 오후 4시까지 운영 국내 증시 역시 오전 10시부터 오후 4시30분 까지",
+		"newsContent": "대학수학능력시힘이 진행되는 오늘(18일) 주요 시중은행의 영업이 평소보다 1시간 늦게 시작된다.\n은행연합회는 수능일 아침 수험생과 감독관, 학부모의 원활한 이동을 위해 18일 은행 영업시간을 기존 오전9시~오후3시에서 오전 10시~오후 4시까지로 변경한다고 밝혔다.\n다만 공항, 공단지역, 시장, 기관입점 등 점포 입지나 고객의 특성에 따라 영업시간을 탄력적으로 운영하는 점포에 대해서는 해당 은행의 영업시간을 확인할 필요가 있다.\n은행연합회 관계자는 데일리임팩트에 \\\"은행 간 외환시장 역시 기존보다 1시간 늦은 오전 10시에 문을 연다\\\"고 설명했다.\n다만, 폐장 시간은 기존과 동일한 오후 3시30분이다.\n한편, 국내 주식시장 개장도 1시간씩 늦춰진다.\n한국거래소에 따르면 오늘 코스피, 코스닥, 코넥스 시장의 정규 시장은 기존 오전 9시에서 한 시간 늦춰진 오전 10시에 개장한다.\n이에 따라 폐장 시간 역시 기존보다 1시간 후인 오후 4시 30분으로 늦춰진다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대학수학능력시힘이 진행되는 오늘(18일) 주요 시중은행의 영업이 평소보다 1시간 늦게 시작된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "은행연합회는 수능일 아침 수험생과 감독관, 학부모의 원활한 이동을 위해 18일 은행 영업시간을 기존 오전9시~오후3시에서 오전 10시~오후 4시까지로 변경한다고 밝혔다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다만 공항, 공단지역, 시장, 기관입점 등 점포 입지나 고객의 특성에 따라 영업시간을 탄력적으로 운영하는 점포에 대해서는 해당 은행의 영업시간을 확인할 필요가 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "은행연합회 관계자는 데일리임팩트에 \\\"은행 간 외환시장 역시 기존보다 1시간 늦은 오전 10시에 문을 연다\\\"고 설명했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만, 폐장 시간은 기존과 동일한 오후 3시30분이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 국내 주식시장 개장도 1시간씩 늦춰진다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국거래소에 따르면 오늘 코스피, 코스닥, 코넥스 시장의 정규 시장은 기존 오전 9시에서 한 시간 늦춰진 오전 10시에 개장한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 따라 폐장 시간 역시 기존보다 1시간 후인 오후 4시 30분으로 늦춰진다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[기업]설명절 앞 타이어 공기압·마모·얼라이먼트 등 점검 필요",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

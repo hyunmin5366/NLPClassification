@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332810",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "갈수록 심화되는 인증정보 스터핑 공격, 올해 210억건 넘어",
+		"newsSubTitle": "",
+		"newsContent": "올해 세계에서 210억건이 넘는 인증정보 스터핑(Credential Stuffing) 공격이 발생했다.\n인증정보 스터핑은 탈취된 사용자 계정 정보를 다른 웹서비스 접속에 이용하는 공격이다.\n아카마이에 따르면 봇을 이용한 악성 로그인 시도가 지난 1월부터 4월까지 월평균 32억건을 기록했다.\n5월과 6월에는 월평균 30% 증가해 두 달 동안 83억건에 달했다.\n아카마이는 하반기에도 100억건이 넘는 인증정보 스터핑 공격이 발생한 것으로 추정한다.\n인증정보 스터핑 공격은 봇 기반으로 자동화·지능화했다.\n주로 은행과 이커머스 로그인 시스템을 표적으로 삼는다.\n지난 6월 우리은행도 일주일 동안 85만여 차례 인증정보 스터핑 공격을 받았고, 이 중 5만6000여건의 부정접속이 이뤄졌다.\n공격자는 인증정보 스터핑으로 사용자 계정을 도용하거나 블랙마켓에 내다판다.\n아직도 적잖은 사용자가 같거나 비슷한 ID와 비밀번호 조합을 여러 곳에 적용한다.\n연쇄 유출 사고의 위험이 높다.\n전문성을 갖춘 해커는 낮은 수준 데이터를 구입해 공격을 수행하고 탈취한 정보를 재판매한다.\n블랙마켓이 갈수록 커지고 전문화되면서 악순환이 반복된다.\n그동안 기업은 웹에이전트 기반으로 보안문자 입력이나 접속 시도 횟수 제한 등 조치를 섞어 인증정보 스터핑을 방어했다.\n웹브라우저를 바꿔가며 자동으로 시도되는 공격을 막기에는 한계가 있다.\n최근에는 텔레메트리를 수집해 머신러닝과 행위 기반 분석으로 봇과 사람을 구분한다.\n변칙 행동 분석에는 키보드나 마우스 등 사용자 입력장치의 움직임과 스마트폰, 태블릿의 자이로스코프 데이터 등이 쓰인다.\n정상 사용자의 서비스 이용에 지장을 주지 않도록 오탐을 최소화하는 것이 관건으로 꼽힌다.\n신동곤 아카마이코리아 상무는 “시간당 최대 13만건 이상 요청을 발생시킨 공격을 받은 한 의류유통업체가 '아카마이 봇 매니저 프리미어'를 도입한 결과, 탐지된 봇 로그인 트래픽이 줄고 정상 사용자 로그인 트래픽은 그대로 유지됐다”며 “최근 사이버공격은 디도스로 방어자 주의를 돌려놓고서 APT 공격이나 인증정보 스터핑을 병행해 직접 이득을 취하려 드는 양상을 띤다”고 말했다.\n이어 “새해에는 이러한 멀티벡터 위협에 대응하는 토털 솔루션 수요가 늘어날 것”이라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 세계에서 210억건이 넘는 인증정보 스터핑(Credential Stuffing) 공격이 발생했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인증정보 스터핑은 탈취된 사용자 계정 정보를 다른 웹서비스 접속에 이용하는 공격이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아카마이에 따르면 봇을 이용한 악성 로그인 시도가 지난 1월부터 4월까지 월평균 32억건을 기록했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "5월과 6월에는 월평균 30% 증가해 두 달 동안 83억건에 달했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아카마이는 하반기에도 100억건이 넘는 인증정보 스터핑 공격이 발생한 것으로 추정한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인증정보 스터핑 공격은 봇 기반으로 자동화·지능화했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주로 은행과 이커머스 로그인 시스템을 표적으로 삼는다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난 6월 우리은행도 일주일 동안 85만여 차례 인증정보 스터핑 공격을 받았고, 이 중 5만6000여건의 부정접속이 이뤄졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공격자는 인증정보 스터핑으로 사용자 계정을 도용하거나 블랙마켓에 내다판다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "아직도 적잖은 사용자가 같거나 비슷한 ID와 비밀번호 조합을 여러 곳에 적용한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "연쇄 유출 사고의 위험이 높다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "전문성을 갖춘 해커는 낮은 수준 데이터를 구입해 공격을 수행하고 탈취한 정보를 재판매한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "블랙마켓이 갈수록 커지고 전문화되면서 악순환이 반복된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "그동안 기업은 웹에이전트 기반으로 보안문자 입력이나 접속 시도 횟수 제한 등 조치를 섞어 인증정보 스터핑을 방어했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "웹브라우저를 바꿔가며 자동으로 시도되는 공격을 막기에는 한계가 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "최근에는 텔레메트리를 수집해 머신러닝과 행위 기반 분석으로 봇과 사람을 구분한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "변칙 행동 분석에는 키보드나 마우스 등 사용자 입력장치의 움직임과 스마트폰, 태블릿의 자이로스코프 데이터 등이 쓰인다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "정상 사용자의 서비스 이용에 지장을 주지 않도록 오탐을 최소화하는 것이 관건으로 꼽힌다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "신동곤 아카마이코리아 상무는 “시간당 최대 13만건 이상 요청을 발생시킨 공격을 받은 한 의류유통업체가 '아카마이 봇 매니저 프리미어'를 도입한 결과, 탐지된 봇 로그인 트래픽이 줄고 정상 사용자 로그인 트래픽은 그대로 유지됐다”며 “최근 사이버공격은 디도스로 방어자 주의를 돌려놓고서 APT 공격이나 인증정보 스터핑을 병행해 직접 이득을 취하려 드는 양상을 띤다”고 말했다.",
+				"sentenceSize": 210
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이어 “새해에는 이러한 멀티벡터 위협에 대응하는 토털 솔루션 수요가 늘어날 것”이라고 덧붙였다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "갈수록 심화되는 인증정보 스터핑 공격, 올해 210억건 넘어",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

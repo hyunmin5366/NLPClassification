@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322200",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "오픈소스 DBMS, 공공 클라우드 격전지로",
+		"newsSubTitle": "행안부·NIA, 이달 말 1차 발주 구축기간 단축·관리 편의성 장점 MSP·CSP 이어 DBMS 경쟁 치열 선재소프트·알티베이스 등 도전장",
+		"newsContent": "공공 클라우드 사업을 둘러싸고 전운이 감돌고 있다.\n오픈소스 데이터베이스관리시스템(DBMS) 기업이 공공 클라우드 전환과 대구 정부통합데이터센터 사업에 대거 참여할 예정이다.\n행정안전부와 한국지능정보사회진흥원(NIA)은 이르면 이달 말 '2022년 행정·공공기관 정보시스템 클라우드 전환·통합사업(1차)'을 발주한다.\n올해 공공 클라우드 전환 사업은 클라우드 관리서비스 제공사(MSP)와 클라우드 서비스 제공사(CSP)뿐만 아니라 오픈소스 DBMS 기업 경쟁도 관전 포인트로 떠올랐다.\n지난해보다 전체 사업 규모가 몇배 커진 데다 내부 업무까지 클라우드 이전이 시작되면서 DBMS의 중요성이 커졌기 때문이다.\n클라우드 환경을 지원할 유연성과 비용 절감 요인 등을 감안하면 오픈소스 DBMS가 도입될 것으로 예상된다.\n남재욱 인젠트 전무는 “오라클 DBMS의 강점인 '리얼 애플리케이션 클러스터'(RAC) 기능이 클라우드 환경에서는 큰 의미가 없다”고 말했다.\nRAC는 DB를 여러 서버가 공유하는 기술로, 자원을 공유·통합 운영하는 클라우드 환경에서는 기본적 요소라는 의미다.\n이우상 마리아DB 지사장은 “클라우드 환경에서는 애플리케이션을 단위업무(MSA, 마이크로서비스 아키텍처)로 구성하는 게 대세”라며 “오픈소스 DBMS는 상용 제품보다 유연성이 높다”고 말했다. '클라우드+오픈소스' DBMS 조합을 통해 구축 기간을 줄이고 관리의 편의성을 높일 수 있다는 점도 오픈소스 DBMS가 주목받는 이유로 꼽힌다.\n큐브리드, 알티베이스, 선재소프트, 티맥스소프트, 인젠트와 글로벌 기업인 EDB·마리아DB 등 주요 오픈소스 DBMS 기업이 모두 참여한다.\n큐브리드와 알티베이스, 선재소프트는 자체 DBMS를 개발, 오픈소스로 공개했다.\n티맥스소프트와 인젠트는 오픈소스 DBMS인 포스트그레SQL 기반 제품을 개발했고, EDB는 포스트그레SQL에 오라클 호환성을 높인 제품으로 경쟁하고 있다.\n공상휘 티맥스티베로 부사장은 “기존 상용 제품인 티베로에 최근 발표한 오픈소스 DBMS '하이퍼SQL'을 동시에 제안, 고객 요구를 충족시킬 것”이라고 말했다.\n김기완 선재소프트 대표는 “클라우드 환경에서는 탄력적인 수평 확장(스케일 아웃)이 필수인데 '골디락스'는 여기에 초점을 두고 개발한 제품”이라고 소개했다.\n알티베이스 관계자는 “'알티베이스' 등 국산 제품은 해외 제품 대비 고객 장애 대응과 기술 지원 등 여러 측면에서 유리하다”고 말했다.\n큐브리드는 원천기술 기반 기술경쟁력, 고객밀착형 기술 지원이 경쟁력이라고 밝혔다.\n인젠트는 활용성과 편의성, 서비스 다양성을 차별화 요소로 앞세운다.\n마리아DB는 모든 클라우드 지원 능력과 높은 경제성, EDB는 오라클 호환성을 최대 강점으로 각각 내세운다.\n이들은 공공 클라우드 전환 사업뿐만 아니라 하반기 발주 예상인 대구 정부통합데이터센터 정보화사업도 참여할 방침이다.\n국내 오픈소스 DBMS 시장은 올해 공공 클라우드 전환과 대구 센터 사업을 기점으로 성장할 전망이다.\n이강일 EDB코리아 지사장은 “대용량과 고가용성을 요구하는 업무는 오라클 등 기존 상용 제품을 사용하고 사업 기간 단축과 유연성·편의성 등을 원하는 고객은 오픈소스 DBMS를 선택하는 등 시장은 두 방향으로 발전할 것”이라고 말했다.\n정병주 큐브리드 대표는 “장기적으로는 계정계를 비롯한 주요 시스템에서도 오픈소스 DBMS가 사용될 것”이라고 전망했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "공공 클라우드 사업을 둘러싸고 전운이 감돌고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오픈소스 데이터베이스관리시스템(DBMS) 기업이 공공 클라우드 전환과 대구 정부통합데이터센터 사업에 대거 참여할 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "행정안전부와 한국지능정보사회진흥원(NIA)은 이르면 이달 말 '2022년 행정·공공기관 정보시스템 클라우드 전환·통합사업(1차)'을 발주한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올해 공공 클라우드 전환 사업은 클라우드 관리서비스 제공사(MSP)와 클라우드 서비스 제공사(CSP)뿐만 아니라 오픈소스 DBMS 기업 경쟁도 관전 포인트로 떠올랐다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해보다 전체 사업 규모가 몇배 커진 데다 내부 업무까지 클라우드 이전이 시작되면서 DBMS의 중요성이 커졌기 때문이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "클라우드 환경을 지원할 유연성과 비용 절감 요인 등을 감안하면 오픈소스 DBMS가 도입될 것으로 예상된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "남재욱 인젠트 전무는 “오라클 DBMS의 강점인 '리얼 애플리케이션 클러스터'(RAC) 기능이 클라우드 환경에서는 큰 의미가 없다”고 말했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "RAC는 DB를 여러 서버가 공유하는 기술로, 자원을 공유·통합 운영하는 클라우드 환경에서는 기본적 요소라는 의미다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이우상 마리아DB 지사장은 “클라우드 환경에서는 애플리케이션을 단위업무(MSA, 마이크로서비스 아키텍처)로 구성하는 게 대세”라며 “오픈소스 DBMS는 상용 제품보다 유연성이 높다”고 말했다. '클라우드+오픈소스' DBMS 조합을 통해 구축 기간을 줄이고 관리의 편의성을 높일 수 있다는 점도 오픈소스 DBMS가 주목받는 이유로 꼽힌다.",
+				"sentenceSize": 188
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "큐브리드, 알티베이스, 선재소프트, 티맥스소프트, 인젠트와 글로벌 기업인 EDB·마리아DB 등 주요 오픈소스 DBMS 기업이 모두 참여한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "큐브리드와 알티베이스, 선재소프트는 자체 DBMS를 개발, 오픈소스로 공개했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "티맥스소프트와 인젠트는 오픈소스 DBMS인 포스트그레SQL 기반 제품을 개발했고, EDB는 포스트그레SQL에 오라클 호환성을 높인 제품으로 경쟁하고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "공상휘 티맥스티베로 부사장은 “기존 상용 제품인 티베로에 최근 발표한 오픈소스 DBMS '하이퍼SQL'을 동시에 제안, 고객 요구를 충족시킬 것”이라고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "김기완 선재소프트 대표는 “클라우드 환경에서는 탄력적인 수평 확장(스케일 아웃)이 필수인데 '골디락스'는 여기에 초점을 두고 개발한 제품”이라고 소개했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "알티베이스 관계자는 “'알티베이스' 등 국산 제품은 해외 제품 대비 고객 장애 대응과 기술 지원 등 여러 측면에서 유리하다”고 말했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "큐브리드는 원천기술 기반 기술경쟁력, 고객밀착형 기술 지원이 경쟁력이라고 밝혔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "인젠트는 활용성과 편의성, 서비스 다양성을 차별화 요소로 앞세운다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "마리아DB는 모든 클라우드 지원 능력과 높은 경제성, EDB는 오라클 호환성을 최대 강점으로 각각 내세운다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이들은 공공 클라우드 전환 사업뿐만 아니라 하반기 발주 예상인 대구 정부통합데이터센터 정보화사업도 참여할 방침이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "국내 오픈소스 DBMS 시장은 올해 공공 클라우드 전환과 대구 센터 사업을 기점으로 성장할 전망이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이강일 EDB코리아 지사장은 “대용량과 고가용성을 요구하는 업무는 오라클 등 기존 상용 제품을 사용하고 사업 기간 단축과 유연성·편의성 등을 원하는 고객은 오픈소스 DBMS를 선택하는 등 시장은 두 방향으로 발전할 것”이라고 말했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "정병주 큐브리드 대표는 “장기적으로는 계정계를 비롯한 주요 시스템에서도 오픈소스 DBMS가 사용될 것”이라고 전망했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오픈소스 DBMS, 공공 클라우드 격전지로",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

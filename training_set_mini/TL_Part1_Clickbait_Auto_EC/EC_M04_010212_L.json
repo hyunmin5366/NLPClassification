@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010212",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "금융상품 불균형 축소 불구 경제위기 초래 원인중 하나",
+		"newsSubTitle": "",
+		"newsContent": "[알기 쉬운 경제 상식]19.헤지펀드(hedge fund) 헤지펀드란 소수의 고액투자자로부터 거액의 자금을 모아 파트너십을 결성한 후 국제증권 및 외환시장에 높은 위험을 감수하고 공격적으로 투자하여 고수익을 추구하는 민간 투자기금을 말한다.\n헤지펀드는 보통 원금의 몇배에 달하는 자금을 차입하여 선물이나 옵션 등 파생상품에 투자하는 방식으로 운영되는데 이러한 투자방식의 특성상 레버리지(leverage)가 크게 높다.\n헤지펀드는 국제 금융시장을 교란시키는 요인으로 지적되고 있는데 특히 1990년대 후반 아시아 국가들의 경제위기를 초래한 원인 중 하나라는 주장이 나오기도 하였다.\n이에 따라 미국, 유럽 등의 금융선진국에서는 헤지펀드에 대하여 일정한 규제를 가하기도 한다.\n그러나 긍정적인 측면도 있다.\n금융시장의 유동성 제고와 높은 투자수익기회 제공 등으로 금융시장 및 투자자의 효용을 높일 수 있다는 점이다.\n파생상품시장 등 고위험시장에 대한 유동성 공급과 활발한 거래를 통하여 시장을 활성화하고 차익거래를 하여 금융상품의 가격 불균형을 축소하는 역할을 하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "[알기 쉬운 경제 상식]19.헤지펀드(hedge fund) 헤지펀드란 소수의 고액투자자로부터 거액의 자금을 모아 파트너십을 결성한 후 국제증권 및 외환시장에 높은 위험을 감수하고 공격적으로 투자하여 고수익을 추구하는 민간 투자기금을 말한다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "헤지펀드는 보통 원금의 몇배에 달하는 자금을 차입하여 선물이나 옵션 등 파생상품에 투자하는 방식으로 운영되는데 이러한 투자방식의 특성상 레버리지(leverage)가 크게 높다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "헤지펀드는 국제 금융시장을 교란시키는 요인으로 지적되고 있는데 특히 1990년대 후반 아시아 국가들의 경제위기를 초래한 원인 중 하나라는 주장이 나오기도 하였다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 미국, 유럽 등의 금융선진국에서는 헤지펀드에 대하여 일정한 규제를 가하기도 한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 긍정적인 측면도 있다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "금융시장의 유동성 제고와 높은 투자수익기회 제공 등으로 금융시장 및 투자자의 효용을 높일 수 있다는 점이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "파생상품시장 등 고위험시장에 대한 유동성 공급과 활발한 거래를 통하여 시장을 활성화하고 차익거래를 하여 금융상품의 가격 불균형을 축소하는 역할을 하고 있다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "청약부담 없는 '국민평형' 오피스텔 주목",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

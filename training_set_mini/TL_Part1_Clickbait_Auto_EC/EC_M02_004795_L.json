@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004795",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "현대차, 공간활용성 높인 '캐스퍼 밴' 출시",
+		"newsSubTitle": "단일트림 1375만원 운영",
+		"newsContent": "현대자동차는 3일 SUV 캐스퍼의 밴 모델 '캐스퍼 밴'을 출시했다.\n캐스퍼 밴은 캐스퍼 디자인과 안전·편의사양을 그대로 계승하면서 기존 2열 시트 공간을 비워내 940ℓ의 적재용량을 구현했다.\n현대차는 캐스퍼 밴에 지능형 안전기술 △전방충돌방지보조(차량/보행자/자전거 탑승자) △차로 이탈방지 보조(LKA) △차로 유지 보조(LFA) △운전자 주의 경고(DAW) △하이빔 보조(HBA) △전방차량 출발 알림 등을 기본 적용했다.\n캐스퍼 밴은 가솔린 1.0 엔진을 탑재해 최고 출력 76마력, 최대토크 9.7kgf·m, 복합연료소비효율 14.3km/ℓ를 달성했다.\n가솔린 1.0 터보 엔진도 선택 옵션으로 운영된다.\n터보엔진은 최고출력 100마력, 최대토크 17.5kgf·m, 복합연비 12.8km/ℓ의 성능을 갖췄다.\n캐스퍼 밴 판매 가격은 단일트림 1375만원으로 운영된다.\n현대차 관계자는 데일리임팩트에 \\\"밴 모델 출시로 고객에게 캐스퍼의 다채로운 매력을 다시 한 번 선보일 수 있는 기회가 될 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차는 3일 SUV 캐스퍼의 밴 모델 '캐스퍼 밴'을 출시했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "캐스퍼 밴은 캐스퍼 디자인과 안전·편의사양을 그대로 계승하면서 기존 2열 시트 공간을 비워내 940ℓ의 적재용량을 구현했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현대차는 캐스퍼 밴에 지능형 안전기술 △전방충돌방지보조(차량/보행자/자전거 탑승자) △차로 이탈방지 보조(LKA) △차로 유지 보조(LFA) △운전자 주의 경고(DAW) △하이빔 보조(HBA) △전방차량 출발 알림 등을 기본 적용했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "캐스퍼 밴은 가솔린 1.0 엔진을 탑재해 최고 출력 76마력, 최대토크 9.7kgf·m, 복합연료소비효율 14.3km/ℓ를 달성했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가솔린 1.0 터보 엔진도 선택 옵션으로 운영된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "터보엔진은 최고출력 100마력, 최대토크 17.5kgf·m, 복합연비 12.8km/ℓ의 성능을 갖췄다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "캐스퍼 밴 판매 가격은 단일트림 1375만원으로 운영된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현대차 관계자는 데일리임팩트에 \\\"밴 모델 출시로 고객에게 캐스퍼의 다채로운 매력을 다시 한 번 선보일 수 있는 기회가 될 것\\\"이라고 말했다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공정위에 꼬리 내린 구글...넷플릭스 약관도 심사 중",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

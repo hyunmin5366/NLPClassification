@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335435",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "인텔 보안결함 패치로 해결될까…MS \\\"성능 현저히 떨어지기도\\\"",
+		"newsSubTitle": "",
+		"newsContent": "마이크로소프트(MS)가 인텔 중앙처리장치(CPU) 보안 결함을 해결하기 위해 제공한 '소프트웨어(SW) 업데이트'가 성능저하를 일으킬 수 있다고 공식 인정했다.\nAMD용 업데이트 배포도 중단했다.\n보안 결함 파문이 쉽게 잦아들지 않을 전망이라고 블룸버그통신 등이 10일 보도했다.\n테리 마이어슨 MS 윈도 스토어 담당 수석부사장은 이날 자신의 블로그에 성명을 냈다.\n인텔 보안 결함을 해결하려고 적용한 패치로 인해 특정 서버 처리 속도가 느려지고, PC 성능도 약화할 수 있다고 경고했다.\n그는 패치에 따른 성능 저하문제가 인텔이 시사한 것보다 심각할 수 있다고 지적했다.\n그는 \\\"일부 PC나 서버 속도가 현저하게 떨어졌는데 특히 2015년형 PC로 윈도7이나 윈도8를 사용하는 소비자 대부분이 뚜렷한 성능저하(significant slowdowns)를 느낄 것\\\"이라고 전했다.\nMS는 패치로 영향 받은 서버나 PC의 구체적 숫자는 제시하지 않았다.\n다양한 시스템을 시험하며 오류 사항을 업데이트할 예정이라고 덧붙였다.\nMS는 '멜트다운(Meltdown)'과 '스펙터(Spectre)'라는 인텔 CPU 칩셋 상 보안 취약점이 폭로되자 지난 4일 윈도 10, 8.1, 7 SP1용 긴급 업데이트 패치를 내놓았다.\nMS는 AMD용 업데이트 패치 배포도 중단했다.\nAMD 프로세서가 장착된 기기에서 MS 패치를 적용할 경우 부팅이 되지 않는 사례가 다수 발생했기 때문이다.\nMS는 문제 해결을 위해 AMD 장착기기에 한해 윈도 운영체제 업데이트를 일시적으로 중지한다고 공지했다.\n브라이언 크르자니크 인텔 CEO는 패치에 따른 성능저하 문제가 처음 예상보다 커졌다는 점은 인정했지만 문제의 범위나 해결책에 대해선 입을 다물고 있다.\n그는 CES 2018 기조연설에서 정보기술(IT)업계가 이번 보안 결함 파문을 '훌륭하게(remarkable)' 대처했다는 발언으로 빈축을 샀다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마이크로소프트(MS)가 인텔 중앙처리장치(CPU) 보안 결함을 해결하기 위해 제공한 '소프트웨어(SW) 업데이트'가 성능저하를 일으킬 수 있다고 공식 인정했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AMD용 업데이트 배포도 중단했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보안 결함 파문이 쉽게 잦아들지 않을 전망이라고 블룸버그통신 등이 10일 보도했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "테리 마이어슨 MS 윈도 스토어 담당 수석부사장은 이날 자신의 블로그에 성명을 냈다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인텔 보안 결함을 해결하려고 적용한 패치로 인해 특정 서버 처리 속도가 느려지고, PC 성능도 약화할 수 있다고 경고했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 패치에 따른 성능 저하문제가 인텔이 시사한 것보다 심각할 수 있다고 지적했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 \\\"일부 PC나 서버 속도가 현저하게 떨어졌는데 특히 2015년형 PC로 윈도7이나 윈도8를 사용하는 소비자 대부분이 뚜렷한 성능저하(significant slowdowns)를 느낄 것\\\"이라고 전했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "MS는 패치로 영향 받은 서버나 PC의 구체적 숫자는 제시하지 않았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "다양한 시스템을 시험하며 오류 사항을 업데이트할 예정이라고 덧붙였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "MS는 '멜트다운(Meltdown)'과 '스펙터(Spectre)'라는 인텔 CPU 칩셋 상 보안 취약점이 폭로되자 지난 4일 윈도 10, 8.1, 7 SP1용 긴급 업데이트 패치를 내놓았다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "MS는 AMD용 업데이트 패치 배포도 중단했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "AMD 프로세서가 장착된 기기에서 MS 패치를 적용할 경우 부팅이 되지 않는 사례가 다수 발생했기 때문이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "MS는 문제 해결을 위해 AMD 장착기기에 한해 윈도 운영체제 업데이트를 일시적으로 중지한다고 공지했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "브라이언 크르자니크 인텔 CEO는 패치에 따른 성능저하 문제가 처음 예상보다 커졌다는 점은 인정했지만 문제의 범위나 해결책에 대해선 입을 다물고 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "그는 CES 2018 기조연설에서 정보기술(IT)업계가 이번 보안 결함 파문을 '훌륭하게(remarkable)' 대처했다는 발언으로 빈축을 샀다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인텔 보안결함 패치로 해결될까…MS \\\"성능 현저히 떨어지기도\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

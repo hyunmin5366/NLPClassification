@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003032",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "우리은행, '채용 비리' 부정입사자 퇴직 조치 단행",
+		"newsSubTitle": "지난 2월말부로 부정입사자 8명 퇴직 조치 오는 3월 중, 20명 규모의 '특별 채용' 진행",
+		"newsContent": "우리은행이 지난 2015년부터 2017년 사이 채용 비리로 부정 입사한 직원들에 대한 후속 조치를 단행했다.\n우리은행은 채용비리에 연루된 부정입사자에 대해 2월말부로 퇴사 조치를 실시했다고 2일 밝혔다.\n채용비리 관련 대법원 최종판결에 따르면 우리은행 부정입사자는 총 20명으로, 이 중 12명은 자발적으로 퇴직했다.\n이후 우리은행은 부정입사자 조치 방안에 대한 법률검토를 토대로, 남은 8명의 부정입사자에 대해 퇴직조치를 취했다.\n한편 우리은행은 채용비리 피해자에 대한 구제방안의 일환으로 3월 중 특별 채용을 실시한다는 계획이다.\n이번 특별채용은 당초 채용 계획 인원과는 별도로 20명 규모로 진행될 예정이다.\n우리은행 관계자는 미디어SR에 \\\"채용비리로 인한 피해자 구제방안을 검토했으나, 피해자를 특정하기 어려워 당시 불합격자에 대한 직접적 구제는 사실상 어렵다\\\"고 설명했다.\n한편 우리은행은 이번 특별채용을 통해 저소득가정 등 사회적 배려 대상자를 우대해 은행의 신뢰도 제고와 사회적 책임을 다한다는 방침이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리은행이 지난 2015년부터 2017년 사이 채용 비리로 부정 입사한 직원들에 대한 후속 조치를 단행했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우리은행은 채용비리에 연루된 부정입사자에 대해 2월말부로 퇴사 조치를 실시했다고 2일 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "채용비리 관련 대법원 최종판결에 따르면 우리은행 부정입사자는 총 20명으로, 이 중 12명은 자발적으로 퇴직했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 우리은행은 부정입사자 조치 방안에 대한 법률검토를 토대로, 남은 8명의 부정입사자에 대해 퇴직조치를 취했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 우리은행은 채용비리 피해자에 대한 구제방안의 일환으로 3월 중 특별 채용을 실시한다는 계획이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 특별채용은 당초 채용 계획 인원과는 별도로 20명 규모로 진행될 예정이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "우리은행 관계자는 미디어SR에 \\\"채용비리로 인한 피해자 구제방안을 검토했으나, 피해자를 특정하기 어려워 당시 불합격자에 대한 직접적 구제는 사실상 어렵다\\\"고 설명했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 우리은행은 이번 특별채용을 통해 저소득가정 등 사회적 배려 대상자를 우대해 은행의 신뢰도 제고와 사회적 책임을 다한다는 방침이다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"대박 맛집이에요\\\" 리뷰가 광고?...배민, 불법 리뷰와 전쟁 선포",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

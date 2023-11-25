@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334775",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "여기어때 개인정보 해킹 '홈페이지 관리 부실' 人災",
+		"newsSubTitle": "",
+		"newsContent": "숙박 O2O '여기어때' 해킹 사고는 위드이노베이션 홈페이지의 낮은 보안에 따른 인재(人災)였다.\n홈페이지 제작시 가장 기초적 고려하는 보안 취약점을 조치하지 않았다.\n방송통신위원회와 미래창조과학부는 26일 위드이노베이션 개인정보 유출 침해 사고 관련 '민관합동조사단' 결과를 발표했다.\n해커는 여기어때 홈페이지 취약점을 이용해 제휴점 정보와 예약내역, 회원가입 정보, 개인정보 등 총 99만584건을 유출했다.\n조사 결과 여기어때 마케팅센터 웹페이지가 SQL인젝션 공격을 받았다.\nSQL인젝션 공격은 가장 흔한 취약점이다.\n웹페이지 제작 시 고려해야 하는 조치 사항 중 첫 번째 보안 분야다.\n해커는 DB에 보내는 메시지를 조작해 정상 자료 외에 다른 내용까지 유출하는 공격을 감행했다.\nDB에 저장된 관리자 세션 값을 알아냈고 이를 이용해 외부에 노출된 '서비스 관리 웹페이지'를 관리자 권한으로 접속했다.\n여기서 여기어때 고객의 예약, 제휴점, 회원정보를 유출했다.\n여기어때 홈페이지는 비정상적인 DB질의를 검증하는 절차가 없었다.\n탈취된 관리자 세션값을 이용해 우회 접속하는 것을 탐지, 차단하는 체계도 없었다.\n조사 결과 유출된 개인정보 중 가입자 이메일과 페이스북 등 소셜네트워크서비스(SNS)에 연계된 경우가 많았다.\n공격자가 페이스북 등을 조회해 숙박이용 정보 등을 이용한 협박성 글을 무단 등록하는 경우 엄청난 파장이 예상된다.\n휴대폰 번호는 스미싱 등에 악용되거나 불법 대출 등에 사용될 수 있다.\n이미 공격자는 휴대폰 번호로 성적 수치심을 일으키는 문자메시지를 대량 발송했다.\n방통위는 위드이노베이션 개인정보보호조치 위반 사항에 대해 '정보통신망 이용촉진 및 정보보호 등에 관한 법률'에 따라 과징금을 부과하고 행정처분할 예정이다.\n빠른 시일 내에 관련 업계를 대상으로 개인정보보호 교육과 기술적, 관리적 보호조치 수준 여부에 대한 일제 점검을 추진한다.\n미래부는 13일부터 민감한 정보를 다루는 200여개 O2O 서비스 기업에 대해 유사 피해를 차단하고 보안성을 높이기 위하여 기업 신청을 받아 보안취약점 점검과 기술지원을 시작했다.\n송정수 민관합동조사단장(미래부 정보보호정책관)은 \\\"정보보호 투자는 기업 연속성 확보를 위한 선택이 아닌 필수사항\\\"이라면서 \\\"기업 스스로 정보보호 투자 확대와 인식제고 노력이 필요하다\\\"고 말했다.\n송 단장은 \\\"정부도 스타트업 등 중소기업을 대상으로 기본 정보보호 체계를 갖추도록 지원을 확대 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "숙박 O2O '여기어때' 해킹 사고는 위드이노베이션 홈페이지의 낮은 보안에 따른 인재(人災)였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "홈페이지 제작시 가장 기초적 고려하는 보안 취약점을 조치하지 않았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방송통신위원회와 미래창조과학부는 26일 위드이노베이션 개인정보 유출 침해 사고 관련 '민관합동조사단' 결과를 발표했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해커는 여기어때 홈페이지 취약점을 이용해 제휴점 정보와 예약내역, 회원가입 정보, 개인정보 등 총 99만584건을 유출했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조사 결과 여기어때 마케팅센터 웹페이지가 SQL인젝션 공격을 받았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SQL인젝션 공격은 가장 흔한 취약점이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "웹페이지 제작 시 고려해야 하는 조치 사항 중 첫 번째 보안 분야다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해커는 DB에 보내는 메시지를 조작해 정상 자료 외에 다른 내용까지 유출하는 공격을 감행했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "DB에 저장된 관리자 세션 값을 알아냈고 이를 이용해 외부에 노출된 '서비스 관리 웹페이지'를 관리자 권한으로 접속했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "여기서 여기어때 고객의 예약, 제휴점, 회원정보를 유출했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "여기어때 홈페이지는 비정상적인 DB질의를 검증하는 절차가 없었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "탈취된 관리자 세션값을 이용해 우회 접속하는 것을 탐지, 차단하는 체계도 없었다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "조사 결과 유출된 개인정보 중 가입자 이메일과 페이스북 등 소셜네트워크서비스(SNS)에 연계된 경우가 많았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "공격자가 페이스북 등을 조회해 숙박이용 정보 등을 이용한 협박성 글을 무단 등록하는 경우 엄청난 파장이 예상된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "휴대폰 번호는 스미싱 등에 악용되거나 불법 대출 등에 사용될 수 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이미 공격자는 휴대폰 번호로 성적 수치심을 일으키는 문자메시지를 대량 발송했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "방통위는 위드이노베이션 개인정보보호조치 위반 사항에 대해 '정보통신망 이용촉진 및 정보보호 등에 관한 법률'에 따라 과징금을 부과하고 행정처분할 예정이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "빠른 시일 내에 관련 업계를 대상으로 개인정보보호 교육과 기술적, 관리적 보호조치 수준 여부에 대한 일제 점검을 추진한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "미래부는 13일부터 민감한 정보를 다루는 200여개 O2O 서비스 기업에 대해 유사 피해를 차단하고 보안성을 높이기 위하여 기업 신청을 받아 보안취약점 점검과 기술지원을 시작했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "송정수 민관합동조사단장(미래부 정보보호정책관)은 \\\"정보보호 투자는 기업 연속성 확보를 위한 선택이 아닌 필수사항\\\"이라면서 \\\"기업 스스로 정보보호 투자 확대와 인식제고 노력이 필요하다\\\"고 말했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "송 단장은 \\\"정부도 스타트업 등 중소기업을 대상으로 기본 정보보호 체계를 갖추도록 지원을 확대 한다\\\"고 말했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "여기어때 개인정보 해킹 '홈페이지 관리 부실' 人災",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

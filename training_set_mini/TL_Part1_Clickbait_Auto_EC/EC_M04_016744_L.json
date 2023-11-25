@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016744",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "소비자원, 일부 수입냉동 과일제품 대장균군 ‘주의보’",
+		"newsSubTitle": "",
+		"newsContent": "최대 허용한계치의 5∼6배 달해 일부 수입냉동 과일제품에서 최대 허용한계치의 5∼6배에 달하는 대장균군이 검출된 것으로 드러났다.\n냉동과일은 조리 없이 그대로 섭취하는 경우가 많아 소비자의 각별한 주의가 필요하다.\n한국소비자원은 농산물품질관리원과 시중에 유통되는 수입 냉동과일 25개 제품의 위생도와 잔류농약 여부를 조사한 결과, 2개 제품에서 대장균군이 초과 검출됐다고 16일 밝혔다.\n대장균군 최대허용한계치가 100CFU/ｇ임에도 ㈜에스데일의 냉동망고와 ㈜이룸푸드시스템의 애플망고에선 ｇ당 각각 0∼560CFU, 0∼650CFU가 검출됐다.\n이에 소비자원은 기준을 위반한 업체에 제품의 자발적 회수와 판매중단을 권고했다.\n식중독균인 리스테리아 모노사이토제네스는 25개 제품 모두 검출되지 않았고 일반세균 역시 기준에 적합한 검출 수치를 보였다.\n또 18개 제품에서 농약성분 12가지가 나왔지만 모두 식품위생법에 따른 잔류 농약 허용 기준 이내였다는 게 소비자원의 설명이다.\n소비자원은 식품의약품안전처에 냉동과일의 수입과 유통 단계의 위생관리 강화를 요청할 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최대 허용한계치의 5∼6배 달해 일부 수입냉동 과일제품에서 최대 허용한계치의 5∼6배에 달하는 대장균군이 검출된 것으로 드러났다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "냉동과일은 조리 없이 그대로 섭취하는 경우가 많아 소비자의 각별한 주의가 필요하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국소비자원은 농산물품질관리원과 시중에 유통되는 수입 냉동과일 25개 제품의 위생도와 잔류농약 여부를 조사한 결과, 2개 제품에서 대장균군이 초과 검출됐다고 16일 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대장균군 최대허용한계치가 100CFU/ｇ임에도 ㈜에스데일의 냉동망고와 ㈜이룸푸드시스템의 애플망고에선 ｇ당 각각 0∼560CFU, 0∼650CFU가 검출됐다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 소비자원은 기준을 위반한 업체에 제품의 자발적 회수와 판매중단을 권고했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "식중독균인 리스테리아 모노사이토제네스는 25개 제품 모두 검출되지 않았고 일반세균 역시 기준에 적합한 검출 수치를 보였다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 18개 제품에서 농약성분 12가지가 나왔지만 모두 식품위생법에 따른 잔류 농약 허용 기준 이내였다는 게 소비자원의 설명이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소비자원은 식품의약품안전처에 냉동과일의 수입과 유통 단계의 위생관리 강화를 요청할 계획이다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파리크라상, 동반성장몰 도입…\\\"상생협력 실천할 것\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

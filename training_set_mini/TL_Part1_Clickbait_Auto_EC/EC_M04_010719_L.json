@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010719",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "미국기업 실적부진 환율 8일만에 반등",
+		"newsSubTitle": "0.9원 오른 1104.20원에 마감",
+		"newsContent": "원ㆍ달러 환율이 8거래일 만에 상승세로 돌아섰다.\n미국 기업들의 실적 부진과 유럽연합(EU) 정상회담 결과에 대한 실망감이 반영된 것으로 풀이된다.\n22일 서울 외환시장에서 원ㆍ달러 환율은 전 거래일보다 0.90원 오른 1104.20원에 장을 마쳤다.\n이날 환율은 2.70원 오른 1106.00원에 출발해 1106.50원까지 고점을 높였다.\n주말 동안 마이크로소프트와 맥도널드 등 미국 주요 기업들의 3분기 실적이 부진하고, 주택지표가 지지부진한 모습을 보인 것이 환율 상승 압력으로 작용했다.\n유로화가 약세로 돌아선 점도 원ㆍ달러 환율 상승에 힘을 보탰다.\n한편, 22일 코스피 지수는 전 거래일보다 2.25포인트(0.12%) 하락한 1941.59로 거래를 마쳤다.\n또 이날 코스닥 지수는 전일대비 4.19포인트(0.81%) 오른 523.00에 마감했다.\n업종별로는 대부분의 업종이 상승 마감했다.\n오락문화가 3% 이상 급등했고 방송서비스, 음식료담배가 2%대 상승세를 보였다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "원ㆍ달러 환율이 8거래일 만에 상승세로 돌아섰다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 기업들의 실적 부진과 유럽연합(EU) 정상회담 결과에 대한 실망감이 반영된 것으로 풀이된다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "22일 서울 외환시장에서 원ㆍ달러 환율은 전 거래일보다 0.90원 오른 1104.20원에 장을 마쳤다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 환율은 2.70원 오른 1106.00원에 출발해 1106.50원까지 고점을 높였다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주말 동안 마이크로소프트와 맥도널드 등 미국 주요 기업들의 3분기 실적이 부진하고, 주택지표가 지지부진한 모습을 보인 것이 환율 상승 압력으로 작용했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유로화가 약세로 돌아선 점도 원ㆍ달러 환율 상승에 힘을 보탰다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 22일 코스피 지수는 전 거래일보다 2.25포인트(0.12%) 하락한 1941.59로 거래를 마쳤다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 이날 코스닥 지수는 전일대비 4.19포인트(0.81%) 오른 523.00에 마감했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "업종별로는 대부분의 업종이 상승 마감했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "오락문화가 3% 이상 급등했고 방송서비스, 음식료담배가 2%대 상승세를 보였다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "구글, 플레이스토어 '인앱결제' 수수료 15%로 내린다...오는 7월부터 적용",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

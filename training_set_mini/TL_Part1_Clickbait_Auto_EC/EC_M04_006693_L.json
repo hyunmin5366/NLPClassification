@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006693",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "세계 최고 '광수신 신소자' 개발",
+		"newsSubTitle": "ETRI, 데이터 광통신 등 가능 인지컨트롤스와 기술이전 계약",
+		"newsContent": "국내 연구진이 기존의 화합물반도체 기반의 광수신 소자를 대체할 고성능 저전력 신소자 기술을 개발, 상용화했다.\n한국전자통신연구원(ETRI)은 미래 컴퓨터나 차세대 네트워크, 데이터 광통신에 쓰일 광-실리콘 기반의 저전력 게르마늄-온-실리콘 광수신 신소자 제작기술을 이전했다고 19일 밝혔다.\nETRI는 이번에 개발한 신소자를 활용해 1550㎚ 통신파장에서 10Gbps 전송실험을 실시한 결과 데이터 수신감도가 -18.5dBm에 이르는 것을 확인했다.\n이는 해외 선진기업 제품들의 같은 조건 수신감도 -18.0dBm을 넘어서는 것이다.\n850㎚ 통신파장에서의 실험에서는 수신감도가 -15.0dBm으로 세계 최고 기록(기존 -13.6dBm)을 달성했다.\n이로써 ETRI는 미래 컴퓨터와 차세대 네트워크 및 데이터 광통신을 가능케 하는 세계 최고 성능의 핵심기술을 국산화하는 데 성공했다.\n기존 광수신 소자가 고가의 화합물 반도체 소재를 기반으로 하고 있는 데 반해 이번에 개발된 소자는 저가의 실리콘을 기반으로 하고 있어 그 파급효과가 매우 클 것으로 ETRI는 내다보고 있다.\nETRI는 이날 오후 대회의실에서 ㈜인지컨트롤스와 기술이전 계약을 체결했다.\n이번 계약을 통해 인지컨트롤스는 세계 최초로 광수신 신소자 기술 상용화에 나서며 ETRI는 착수기본료 10억원과 러닝로열티를 받게 된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 기존의 화합물반도체 기반의 광수신 소자를 대체할 고성능 저전력 신소자 기술을 개발, 상용화했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 미래 컴퓨터나 차세대 네트워크, 데이터 광통신에 쓰일 광-실리콘 기반의 저전력 게르마늄-온-실리콘 광수신 신소자 제작기술을 이전했다고 19일 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ETRI는 이번에 개발한 신소자를 활용해 1550㎚ 통신파장에서 10Gbps 전송실험을 실시한 결과 데이터 수신감도가 -18.5dBm에 이르는 것을 확인했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 해외 선진기업 제품들의 같은 조건 수신감도 -18.0dBm을 넘어서는 것이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "850㎚ 통신파장에서의 실험에서는 수신감도가 -15.0dBm으로 세계 최고 기록(기존 -13.6dBm)을 달성했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이로써 ETRI는 미래 컴퓨터와 차세대 네트워크 및 데이터 광통신을 가능케 하는 세계 최고 성능의 핵심기술을 국산화하는 데 성공했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기존 광수신 소자가 고가의 화합물 반도체 소재를 기반으로 하고 있는 데 반해 이번에 개발된 소자는 저가의 실리콘을 기반으로 하고 있어 그 파급효과가 매우 클 것으로 ETRI는 내다보고 있다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "ETRI는 이날 오후 대회의실에서 ㈜인지컨트롤스와 기술이전 계약을 체결했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이번 계약을 통해 인지컨트롤스는 세계 최초로 광수신 신소자 기술 상용화에 나서며 ETRI는 착수기본료 10억원과 러닝로열티를 받게 된다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 '맥스' 금산에 야구장 조성",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349294",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "네이버 먹통 '디도스 공격'이 원인…\\\"개인정보 유출 없어\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "네이버의 지난 24일 서비스 접속 장애가 '디도스'(DDoS·분산서비스거부) 공격에 따른 것으로 확인됐다.\n25일 네이버에 따르면 전날 이용자 불편을 초래했던 뉴스·블로그·카페 등 일부 서비스 접속 장애는 디도스 공격의 영향이었다.\n네이버 관계자는 \\\"정밀 분석 결과 디도스 공격의 영향이 맞았다\\\"면서도 \\\"개인정보 유출 우려는 전혀 없다\\\"고 말했다.\n디도스는 다수의 서버를 동원해 대량 트래픽을 발생시켜 서버 용량을 초과시키는 공격 방식이다.\n단순 디도스 공격만으로는 개인정보가 유출되지는 않는다.\n네이버는 2009년과 2011년에도 디도스 공격을 받아 일부 서비스 장애가 발생한 바 있다.\n이날 오후 5시26분쯤부터 네이버는 뉴스, 블로그, 카페 등에서 장애가 발생해 긴급복구에 나섰다.\n정상적인 화면 대신 '일시적인 서비스 장애입니다'라는 안내 문구만 화면에 나타났다.\n일부 이용자는 접속은 되지만 속도가 느려지는 등 오류를 겪었다.\n이번 접속 장애는 전날 구글 안드로이드 앱 실행 중단 사태 하루 만이라 이용자 불편이 더했다.\n전날 구글의 안드로이드 앱 충돌 현상으로 스마트폰에 깔린 카카오톡, 네이버앱 등이 강제 종료되는 현상을 겪었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버의 지난 24일 서비스 접속 장애가 '디도스'(DDoS·분산서비스거부) 공격에 따른 것으로 확인됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 네이버에 따르면 전날 이용자 불편을 초래했던 뉴스·블로그·카페 등 일부 서비스 접속 장애는 디도스 공격의 영향이었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버 관계자는 \\\"정밀 분석 결과 디도스 공격의 영향이 맞았다\\\"면서도 \\\"개인정보 유출 우려는 전혀 없다\\\"고 말했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "디도스는 다수의 서버를 동원해 대량 트래픽을 발생시켜 서버 용량을 초과시키는 공격 방식이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "단순 디도스 공격만으로는 개인정보가 유출되지는 않는다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네이버는 2009년과 2011년에도 디도스 공격을 받아 일부 서비스 장애가 발생한 바 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 오후 5시26분쯤부터 네이버는 뉴스, 블로그, 카페 등에서 장애가 발생해 긴급복구에 나섰다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정상적인 화면 대신 '일시적인 서비스 장애입니다'라는 안내 문구만 화면에 나타났다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "일부 이용자는 접속은 되지만 속도가 느려지는 등 오류를 겪었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이번 접속 장애는 전날 구글 안드로이드 앱 실행 중단 사태 하루 만이라 이용자 불편이 더했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "전날 구글의 안드로이드 앱 충돌 현상으로 스마트폰에 깔린 카카오톡, 네이버앱 등이 강제 종료되는 현상을 겪었다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버 먹통 '디도스 공격'이 원인…\\\"개인정보 유출 없어\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

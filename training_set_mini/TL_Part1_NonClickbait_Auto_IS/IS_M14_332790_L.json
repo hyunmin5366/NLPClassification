@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332790",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[카드뉴스] '4월은 과학의 달' 아빠 어디가? 누리호 보러!",
+		"newsSubTitle": "",
+		"newsContent": "과학의 달이 돌아왔습니다.\n올해로 52번째 입니다.\n우리나라가 4월을 과학의 달로 지정한 것은 1934년 4월 19일입니다.\n당시 과학대중화에 앞장선 '발명학회'가 찰스 로버트 다윈이 죽은 지 50주년이 되는 해인 1934년 다윈의 기일을 기념해 '과학 데이'를 지정했습니다.\n올해는 △최고의 과학기술 성과 공유 △국민이 함께 즐기는 체험 기회 제공 △국민생활 문제를 해결하는 과학기술 △전국적 붐이 핵심 콘셉트입니다.\n이에 맞춰 한 달간 과학관, 연구기관, 지방자치단체, 학교 등 전국 62개 기관에서 168개 과학기술 행사가 열립니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학의 달이 돌아왔습니다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올해로 52번째 입니다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우리나라가 4월을 과학의 달로 지정한 것은 1934년 4월 19일입니다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 과학대중화에 앞장선 '발명학회'가 찰스 로버트 다윈이 죽은 지 50주년이 되는 해인 1934년 다윈의 기일을 기념해 '과학 데이'를 지정했습니다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올해는 △최고의 과학기술 성과 공유 △국민이 함께 즐기는 체험 기회 제공 △국민생활 문제를 해결하는 과학기술 △전국적 붐이 핵심 콘셉트입니다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 맞춰 한 달간 과학관, 연구기관, 지방자치단체, 학교 등 전국 62개 기관에서 168개 과학기술 행사가 열립니다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[카드뉴스] '4월은 과학의 달' 아빠 어디가? 누리호 보러!",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

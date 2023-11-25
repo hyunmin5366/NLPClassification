@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337038",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[LTE, 시작과 끝]상용화 남은 LTE 기술은?",
+		"newsSubTitle": "",
+		"newsContent": "롱텀에벌루션(LTE)은 5밴드 주파수 집성(CA)으로 대부분 기술 상용화가 완료된다.\n일부 기술은 개발 막바지로, 내년까지 상용화가 진행된다.\n직접통화(D2D), 단독기지국, 비면허대역 주파수 집성(LAA, Licensed Assisted Access)이 대표적이다.\nD2D는 기지국 없이 단말간 데이터를 전달하는 기술이다.\nLTE는 기술 특성상 기지국을 거쳐야 데이터를 전달할 수 있다.\nD2D는 이를 극복, 기지국이 없는 상황에서도 데이터를 전달할 수 있다.\n지난해 3월 3GPP 릴리즈 13에서 표준화를 완료했다.\n삼성전자가 D2D 칩과 단말을 개발, 국가재난안전통신망(재난망) 본사업에 공급할 계획이다.\n단독기지국은 기지국에 연결된 광케이블에 문제가 발생할 경우, 기지국 독자적으로 신호를 처리할 수 있게 해준다.\n전쟁이나 지진 등 대규모 재해로 유선망이 무력화됐을 때를 대비한 기술이다.\n가상화 기술 발달로 LTE 교환기(EPC) 등을 기지국에 소프트웨어(SW)로 설치하는 게 핵심이다.\n광케이블이 필요없다.\n하지만 비용이나 효용성 등이 이슈로 남아 있다.\nLAA는 이동통신 LTE 주파수와 와이파이(비면허) 주파수를 묶어 속도를 높이는 기술이다.\n주파수 자원이 한정돼 반드시 필요한 기술이다.\n비면허 대역을 쓰기 때문에 혼선 충돌을 막기 위한 LBT(listen before talk) 기술을 쓴다.\nSK텔레콤은 MWC2017에서 LTE 주파수 20㎒폭과 와이파이 주파수 60㎒폭을 묶고, 4×4 다중안테나(MIMO) 기술을 적용해 1Gbps를 시연했다.\n이외에 해외에서 널리 쓰이는 시분할 롱텀에벌루션(LTE-TDD)은 우리나라에서 5세대(5G) 이동통신에서 볼 수 있게 됐다.\n5G는 기본 LTE-TDD 방식을 쓴다.\n초기 5G 표준인 '논스탠드얼론(NSA)'에서 28㎓ 5G 대역과 함께 쓰는 3.5㎓ LTE 대역 역시 LTE-TDD를 쓴다.\nLTE-TDD는 같은 주파수 대역에서 시차를 두고 데이터를 송∙수신, 주파수 효율을 높인다.\n우리나라는 주파수분할 LTE(LTE-FDD)를 먼저 도입했지만, LTE-TDD는 주파수 이슈와 제4이통 불발로 시기를 놓쳤다.\n공군 등 일부 자가망에서 쓰이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "롱텀에벌루션(LTE)은 5밴드 주파수 집성(CA)으로 대부분 기술 상용화가 완료된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "일부 기술은 개발 막바지로, 내년까지 상용화가 진행된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "직접통화(D2D), 단독기지국, 비면허대역 주파수 집성(LAA, Licensed Assisted Access)이 대표적이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "D2D는 기지국 없이 단말간 데이터를 전달하는 기술이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LTE는 기술 특성상 기지국을 거쳐야 데이터를 전달할 수 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "D2D는 이를 극복, 기지국이 없는 상황에서도 데이터를 전달할 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난해 3월 3GPP 릴리즈 13에서 표준화를 완료했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성전자가 D2D 칩과 단말을 개발, 국가재난안전통신망(재난망) 본사업에 공급할 계획이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "단독기지국은 기지국에 연결된 광케이블에 문제가 발생할 경우, 기지국 독자적으로 신호를 처리할 수 있게 해준다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "전쟁이나 지진 등 대규모 재해로 유선망이 무력화됐을 때를 대비한 기술이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "가상화 기술 발달로 LTE 교환기(EPC) 등을 기지국에 소프트웨어(SW)로 설치하는 게 핵심이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "광케이블이 필요없다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "하지만 비용이나 효용성 등이 이슈로 남아 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "LAA는 이동통신 LTE 주파수와 와이파이(비면허) 주파수를 묶어 속도를 높이는 기술이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "주파수 자원이 한정돼 반드시 필요한 기술이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "비면허 대역을 쓰기 때문에 혼선 충돌을 막기 위한 LBT(listen before talk) 기술을 쓴다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "SK텔레콤은 MWC2017에서 LTE 주파수 20㎒폭과 와이파이 주파수 60㎒폭을 묶고, 4×4 다중안테나(MIMO) 기술을 적용해 1Gbps를 시연했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이외에 해외에서 널리 쓰이는 시분할 롱텀에벌루션(LTE-TDD)은 우리나라에서 5세대(5G) 이동통신에서 볼 수 있게 됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "5G는 기본 LTE-TDD 방식을 쓴다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "초기 5G 표준인 '논스탠드얼론(NSA)'에서 28㎓ 5G 대역과 함께 쓰는 3.5㎓ LTE 대역 역시 LTE-TDD를 쓴다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "LTE-TDD는 같은 주파수 대역에서 시차를 두고 데이터를 송∙수신, 주파수 효율을 높인다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "우리나라는 주파수분할 LTE(LTE-FDD)를 먼저 도입했지만, LTE-TDD는 주파수 이슈와 제4이통 불발로 시기를 놓쳤다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "공군 등 일부 자가망에서 쓰이고 있다.",
+				"sentenceSize": 21
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[LTE, 시작과 끝]상용화 남은 LTE 기술은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

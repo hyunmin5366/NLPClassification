@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_034868",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "서유리가 밝힌 보톡스 시술 의혹에 대한 해명",
+		"newsSubTitle": "",
+		"newsContent": "방송인 서유리씨가 보톡스 시술 의혹에 대해 해명했다.\n서유리씨는 7일 자신의 인스타그램을 통해 셀카를 공개하며 보톡스 시술 의혹에 대해 해명글을 올렸다.\n글에서 그는 \\\"얼굴, 보톡스 넣을 시간도 없다\\\"며 \\\"최근 갑상선 쪽에 문제가 생겨서 1년 동안 약을 먹어야 하는데 그 영향으로 부었다\\\"고 밝혔다.\n이어 \\\"나도 왜 붓는지 모르겠고 살이 찐 거로만 생각했는데 건강 문제였다\\\"고 전했다.\n마지막으로 그는 \\\"좋지 못한 모습 보여드려 죄송하다. 빨리 좋아지게끔 노력하겠다\\\"며 글을 끝냈다.\n앞서 서유리씨는 라디오스타서 얼굴이 다소 부은 상태로 출연해 보톡스 시술 의혹을 받았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방송인 서유리씨가 보톡스 시술 의혹에 대해 해명했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서유리씨는 7일 자신의 인스타그램을 통해 셀카를 공개하며 보톡스 시술 의혹에 대해 해명글을 올렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글에서 그는 \\\"얼굴, 보톡스 넣을 시간도 없다\\\"며 \\\"최근 갑상선 쪽에 문제가 생겨서 1년 동안 약을 먹어야 하는데 그 영향으로 부었다\\\"고 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"나도 왜 붓는지 모르겠고 살이 찐 거로만 생각했는데 건강 문제였다\\\"고 전했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마지막으로 그는 \\\"좋지 못한 모습 보여드려 죄송하다. 빨리 좋아지게끔 노력하겠다\\\"며 글을 끝냈다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 서유리씨는 라디오스타서 얼굴이 다소 부은 상태로 출연해 보톡스 시술 의혹을 받았다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'탐정 홍길동' 고아라 \\\"분량 적어 아쉽다…속편 제작됐으면\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

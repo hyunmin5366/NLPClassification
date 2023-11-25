@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016110",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "KDI “국내 경제 성장세, 여전히 낮은 수준”",
+		"newsSubTitle": "",
+		"newsContent": "KDI 경제동향 공개 한국개발연구원(KDI)은 국내 경제의 성장세가 여전히 낮은 수준에 머물러 있다고 진단했다.\n9일 KDI 경제동향(5월) 자료를 보면 민간소비가 완만한 증가세를 유지하는 가운데 건설투자는 일시적으로 크게 확대되는 등 일부 지표가 개선되는 모습이다.\n민간소비는 소비활성화 대책의 영향으로 소매판매액이 비교적 큰 폭으로 증가하고, 소비자심리지수도 상승하는 등 완만한 개선추세를 유지하고 있다.\n또 건설투자는 건축부문이 높은 증가세를 유지하는 가운데 그동안 부진을 지속한 토목부문도 일시적으로 개선되면서 양호한 모습이고, 서비스업생산도 금융ㆍ보험과 보건ㆍ사회복지를 중심으로 대부분의 산업에서 최근의 증가세를 지속하고 있다.\n그러나 수출 감소에 주로 기인한 제조업과 설비투자의 부진은 국내 경제의 성장세를 제약하고 있다.\n수출은 중국, 일본 등을 중심으로 세계경제의 성장세가 둔화되면서 부진이 지속되고 있고, 제조업 생산 및 출하가 감소한 가운데 동행지수 순환변동치도 소폭 하락해 전반적인 경기 여건이 개선되지 못하고 있다.\n아울러 설비투자도 기계류를 중심으로 감소세가 지속되고 있는 가운데, 제조업 평균가동률은 낮은 수준에서 정체돼 있는 모습이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KDI 경제동향 공개 한국개발연구원(KDI)은 국내 경제의 성장세가 여전히 낮은 수준에 머물러 있다고 진단했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 KDI 경제동향(5월) 자료를 보면 민간소비가 완만한 증가세를 유지하는 가운데 건설투자는 일시적으로 크게 확대되는 등 일부 지표가 개선되는 모습이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "민간소비는 소비활성화 대책의 영향으로 소매판매액이 비교적 큰 폭으로 증가하고, 소비자심리지수도 상승하는 등 완만한 개선추세를 유지하고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 건설투자는 건축부문이 높은 증가세를 유지하는 가운데 그동안 부진을 지속한 토목부문도 일시적으로 개선되면서 양호한 모습이고, 서비스업생산도 금융ㆍ보험과 보건ㆍ사회복지를 중심으로 대부분의 산업에서 최근의 증가세를 지속하고 있다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 수출 감소에 주로 기인한 제조업과 설비투자의 부진은 국내 경제의 성장세를 제약하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "수출은 중국, 일본 등을 중심으로 세계경제의 성장세가 둔화되면서 부진이 지속되고 있고, 제조업 생산 및 출하가 감소한 가운데 동행지수 순환변동치도 소폭 하락해 전반적인 경기 여건이 개선되지 못하고 있다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아울러 설비투자도 기계류를 중심으로 감소세가 지속되고 있는 가운데, 제조업 평균가동률은 낮은 수준에서 정체돼 있는 모습이다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "골프존, 6월30일까지 ‘우먼스 골프 페스티벌’",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

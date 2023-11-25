@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337356",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "공공 IoT 발주, 교통 분야가 최다···규모는 에너지 분야가 최대",
+		"newsSubTitle": "",
+		"newsContent": "공공분야 사물인터넷(IoT) 사업은 교통 분야가 가장 많은 반면에 예산 투입 규모는 에너지 분야가 최대인 것으로 나타났다.\n한국지능형사물인터넷협회가 작성한 '2분기 정부·공공분야 IoT 관련 사업 발주현황' 조사 보고서에 따르면 2분기 정부·공공분야 IoT 사업 발주 건수는 총 254건, 발주금액은 약 1161억원으로 파악됐다.\n분야별로는 교통 분야가 76건으로 가장 많았고 사회복지 34건, 안전 및 재난 19건 순으로 나타났다.\n환경 15건, 지역개발과 교육, 에너지 분야가 각각 14건으로 뒤를 이었다.\n교통 분야에서는 지능형교통체계(ITS)와 버스정보시스템(BIS) 구축, 스마트 도시철도 운영시스템, 불법주차 단속 CCTV 설치 등 다양한 용도로 IoT를 도입했다.\n발주금액 기준으로는 에너지 분야가 356억원으로 가장 많았다.\n이어 교통 350억원, 지역개발 71억원 순으로 조사됐다.\n에너지 분야에서는 스마트 에너지 혁신 마을 조성사업, 저압 지능형검침기(AMI) 서버시스템 구조개선 확대사업, 원격검침시스템 구축 등 굵직한 사업이 진행됐다.\n정부·공공분야 IoT 관련 사업 발주현황 조사는 IoT 기업 사업계획 수립, 정부·공공기관 IoT 사업 전략 수립에 정보를 제공하기 위해 실시된다.\n지난해 최근 3년간 발주 현황을 1년 단위로 처음 조사했으며 올해부터는 매 분기마다 조사를 실시하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "공공분야 사물인터넷(IoT) 사업은 교통 분야가 가장 많은 반면에 예산 투입 규모는 에너지 분야가 최대인 것으로 나타났다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국지능형사물인터넷협회가 작성한 '2분기 정부·공공분야 IoT 관련 사업 발주현황' 조사 보고서에 따르면 2분기 정부·공공분야 IoT 사업 발주 건수는 총 254건, 발주금액은 약 1161억원으로 파악됐다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "분야별로는 교통 분야가 76건으로 가장 많았고 사회복지 34건, 안전 및 재난 19건 순으로 나타났다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "환경 15건, 지역개발과 교육, 에너지 분야가 각각 14건으로 뒤를 이었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "교통 분야에서는 지능형교통체계(ITS)와 버스정보시스템(BIS) 구축, 스마트 도시철도 운영시스템, 불법주차 단속 CCTV 설치 등 다양한 용도로 IoT를 도입했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "발주금액 기준으로는 에너지 분야가 356억원으로 가장 많았다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 교통 350억원, 지역개발 71억원 순으로 조사됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "에너지 분야에서는 스마트 에너지 혁신 마을 조성사업, 저압 지능형검침기(AMI) 서버시스템 구조개선 확대사업, 원격검침시스템 구축 등 굵직한 사업이 진행됐다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "정부·공공분야 IoT 관련 사업 발주현황 조사는 IoT 기업 사업계획 수립, 정부·공공기관 IoT 사업 전략 수립에 정보를 제공하기 위해 실시된다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지난해 최근 3년간 발주 현황을 1년 단위로 처음 조사했으며 올해부터는 매 분기마다 조사를 실시하고 있다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공공 IoT 발주, 교통 분야가 최다···규모는 에너지 분야가 최대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

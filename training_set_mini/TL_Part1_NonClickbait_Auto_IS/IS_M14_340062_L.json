@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_340062",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "알티베이스 클라우드플랫폼 로드쇼 성료",
+		"newsSubTitle": "",
+		"newsContent": "알티베이스(대표 장재웅)는 최근 부산, 대전, 광주 지역에서 열린 클라우드 플랫폼 로드쇼를 성공적으로 완료했다.\n로드쇼 세미나에서는 알티베이스와 협력 관계에 있는 국내외 주요 벤더사가 공동으로 6개 세션을 마련해 최신 제품을 소개했다.\n맨텍은 PASS플랫폼 아코디언, 네이버는 G클라우드센터, 넷티어시스템즈는 인비저블인프라스트럭처, 웨어밸리는 DB개발툴 오렌지, 토마토시스템은 개발플랫폼 엑스빌더를 각각 소개했다.\n알티베이스는 알티베이스 v7이 오픈소스로 전환됐음을 알리고 클라우드 환경에 걸맞는 유연한 라이선스 정책을 채택해 개발 업체가 폭넓게 사용할 수 있는 기반을 조성했다고 밝혔다.\n도윤석 알티베이스 상무는 “최신버전 알티베이스 v7은 기존 데이터베이스에서 사용하던 기능을 대거 채용해 외산 데이터베이스를 알티베이스로 쉽게 교체할 수 있다”면서 “외산 데이터베이스 유지보수를 위해 과도하게 지출됐던 비용을 대폭 절감할 수 있다”고 말했다.\n알티베이스는 이번 로드쇼 성공을 기반으로 지역에서 더 많은 엔지니어와 개발자가 알티베이스 전문가로 성장할 수 있도록 교육, 홍보를 진행할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "알티베이스(대표 장재웅)는 최근 부산, 대전, 광주 지역에서 열린 클라우드 플랫폼 로드쇼를 성공적으로 완료했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로드쇼 세미나에서는 알티베이스와 협력 관계에 있는 국내외 주요 벤더사가 공동으로 6개 세션을 마련해 최신 제품을 소개했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "맨텍은 PASS플랫폼 아코디언, 네이버는 G클라우드센터, 넷티어시스템즈는 인비저블인프라스트럭처, 웨어밸리는 DB개발툴 오렌지, 토마토시스템은 개발플랫폼 엑스빌더를 각각 소개했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "알티베이스는 알티베이스 v7이 오픈소스로 전환됐음을 알리고 클라우드 환경에 걸맞는 유연한 라이선스 정책을 채택해 개발 업체가 폭넓게 사용할 수 있는 기반을 조성했다고 밝혔다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "도윤석 알티베이스 상무는 “최신버전 알티베이스 v7은 기존 데이터베이스에서 사용하던 기능을 대거 채용해 외산 데이터베이스를 알티베이스로 쉽게 교체할 수 있다”면서 “외산 데이터베이스 유지보수를 위해 과도하게 지출됐던 비용을 대폭 절감할 수 있다”고 말했다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "알티베이스는 이번 로드쇼 성공을 기반으로 지역에서 더 많은 엔지니어와 개발자가 알티베이스 전문가로 성장할 수 있도록 교육, 홍보를 진행할 예정이다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "알티베이스 클라우드플랫폼 로드쇼 성료",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

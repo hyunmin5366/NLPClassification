@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331211",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "美 \\\"이란 해킹조직, VPN 취약점 악용해 정보 유출\\\"",
+		"newsSubTitle": "",
+		"newsContent": "코로나19로 가상사설망(VPN) 기반 원격근무가 확산하는 가운데 이를 악용한 정부 지원 해킹 공격이 포착됐다.\n미국 국토안보부(DHS) 산하 사이버∙인프라안보국(CISA)과 연방수사국(FBI)은 이란 해킹조직이 VPN 취약점을 악용해 해킹 공격을 펼친다며 보안 경보를 발령했다.\n경보에 따르면 이란 해킹조직은 정보 유출을 목적으로 미국 연방기관과 네트워크를 겨냥해 사이버공격을 수행했다.\n사이버공격을 위해 펄스시큐어 VPN, 시트릭스 넷스케일러, F5 취약점 등을 악용한 것으로 나타났다.\n미국 정부는 해킹조직이 표적 네트워크에 최초 침투하기 위해 이 같은 취약점을 활용했으며 이후 수개월에 걸쳐 감염 네트워크에 존속했다고 경고했다.\n이 해킹조직은 보안업계에서 '파이어니어 키튼' 또는 'UNC757'로 불리는 일당이다.\n미국 정부는 이들이 이란 정부를 지원하는 하청업체로 활동하면서 자체 금전 이익을 위한 악성 활동도 수행한다고 지적했다.\n공격 표적에는 미국 정보기술(IT) 기업, 공공기관, 의료기관, 금융사, 보험사, 언론사 등이 광범위하게 포함됐다.\n해킹조직은 이들 기업과 기관 내부에 열린 포트를 식별한 뒤 VPN과 연계된 취약점을 여러 건 활용했다.\n△공통보안취약점공개항목(CVE)-2019-11510 △CVE-2019-11539 △CVE-2019-19781 △CVE-2020-5902 등 알려진 취약점 다수가 공격에 쓰였다.\nVPN에 침투한 이후에는 관리자 권한을 확보하고 추가 악성행위를 수행했다.\n해킹조직은 표적 네트워크에 장기간 머물면서 정보를 탈취했으며 침해한 네트워크 접근권을 다크웹에서 판매하기도 했다.\n미국 정부는 이로 인한 피해 예방을 위해 △취약점 패치를 위한 권고를 따를 것 △관리 프로그램을 정기적으로 패치하고 정기 감사를 실시할 것 △승인되지 않은 프로토콜 등 네트워크 트래픽을 모니터링할 것 △특권 계정에 다중인증을 도입할 것 △데이터 접근 시 최소 권한의 원칙을 지킬 것 등을 권고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19로 가상사설망(VPN) 기반 원격근무가 확산하는 가운데 이를 악용한 정부 지원 해킹 공격이 포착됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 국토안보부(DHS) 산하 사이버∙인프라안보국(CISA)과 연방수사국(FBI)은 이란 해킹조직이 VPN 취약점을 악용해 해킹 공격을 펼친다며 보안 경보를 발령했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "경보에 따르면 이란 해킹조직은 정보 유출을 목적으로 미국 연방기관과 네트워크를 겨냥해 사이버공격을 수행했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사이버공격을 위해 펄스시큐어 VPN, 시트릭스 넷스케일러, F5 취약점 등을 악용한 것으로 나타났다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미국 정부는 해킹조직이 표적 네트워크에 최초 침투하기 위해 이 같은 취약점을 활용했으며 이후 수개월에 걸쳐 감염 네트워크에 존속했다고 경고했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 해킹조직은 보안업계에서 '파이어니어 키튼' 또는 'UNC757'로 불리는 일당이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "미국 정부는 이들이 이란 정부를 지원하는 하청업체로 활동하면서 자체 금전 이익을 위한 악성 활동도 수행한다고 지적했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공격 표적에는 미국 정보기술(IT) 기업, 공공기관, 의료기관, 금융사, 보험사, 언론사 등이 광범위하게 포함됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해킹조직은 이들 기업과 기관 내부에 열린 포트를 식별한 뒤 VPN과 연계된 취약점을 여러 건 활용했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "△공통보안취약점공개항목(CVE)-2019-11510 △CVE-2019-11539 △CVE-2019-19781 △CVE-2020-5902 등 알려진 취약점 다수가 공격에 쓰였다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "VPN에 침투한 이후에는 관리자 권한을 확보하고 추가 악성행위를 수행했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "해킹조직은 표적 네트워크에 장기간 머물면서 정보를 탈취했으며 침해한 네트워크 접근권을 다크웹에서 판매하기도 했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "미국 정부는 이로 인한 피해 예방을 위해 △취약점 패치를 위한 권고를 따를 것 △관리 프로그램을 정기적으로 패치하고 정기 감사를 실시할 것 △승인되지 않은 프로토콜 등 네트워크 트래픽을 모니터링할 것 △특권 계정에 다중인증을 도입할 것 △데이터 접근 시 최소 권한의 원칙을 지킬 것 등을 권고했다.",
+				"sentenceSize": 166
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美 \\\"이란 해킹조직, VPN 취약점 악용해 정보 유출\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

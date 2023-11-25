@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337987",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "게임",
+		"newsTitle": "네이버 프리즘 라이브, 클로바 AI기술로 자동 자막 생성",
+		"newsSubTitle": "",
+		"newsContent": "네이버 모바일 라이브 스트리밍 서비스 '프리즘 라이브 스튜디오'가 클로바의 AI기술을 활용한 동영상 자동 자막 생성 기능을 출시했다.\n동영상 장면과 내용에 어울리는 자막 템플릿 기능도 함께 제공한다.\n프리즘 라이브 스튜디오를 이용해 동영상을 편집하면, 클로바 음성인식 엔진인 네스트(NEST)가 동영상 내 삽입된 오디오를 분석하여 자동으로 텍스트를 자막으로 변환한다.\nNEST는 보다 복잡하고 다양한 장문 음성을 정확하게 인식하고 텍스트로 변환하도록 네이버가 개발한 기술이다.\n자동자막 생성 기능을 사용하면, 동영상 자막 작업 편집 시간을 단축하고, 정확도를 보다 높일 수 있다.\n이와 다양한 디자인 자막 폰트와 텍스트를 제공하는 템플릿 기능을 통해 더욱 다양한 디자인 자막을 만들 수 있다.\n동영상 자동 자막 생성 기능은 안드로이드와 iOS 모바일 플랫폼을 모두 지원하며 안드로이드앱은 20일, iOS앱은 23일에 출시될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버 모바일 라이브 스트리밍 서비스 '프리즘 라이브 스튜디오'가 클로바의 AI기술을 활용한 동영상 자동 자막 생성 기능을 출시했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "동영상 장면과 내용에 어울리는 자막 템플릿 기능도 함께 제공한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "프리즘 라이브 스튜디오를 이용해 동영상을 편집하면, 클로바 음성인식 엔진인 네스트(NEST)가 동영상 내 삽입된 오디오를 분석하여 자동으로 텍스트를 자막으로 변환한다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "NEST는 보다 복잡하고 다양한 장문 음성을 정확하게 인식하고 텍스트로 변환하도록 네이버가 개발한 기술이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "자동자막 생성 기능을 사용하면, 동영상 자막 작업 편집 시간을 단축하고, 정확도를 보다 높일 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이와 다양한 디자인 자막 폰트와 텍스트를 제공하는 템플릿 기능을 통해 더욱 다양한 디자인 자막을 만들 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "동영상 자동 자막 생성 기능은 안드로이드와 iOS 모바일 플랫폼을 모두 지원하며 안드로이드앱은 20일, iOS앱은 23일에 출시될 예정이다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버 프리즘 라이브, 클로바 AI기술로 자동 자막 생성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

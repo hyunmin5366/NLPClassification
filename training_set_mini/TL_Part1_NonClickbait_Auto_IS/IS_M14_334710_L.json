@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334710",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "워터월시스템즈 '워터월', 맥 운영체제 지원",
+		"newsSubTitle": "",
+		"newsContent": "워터월시스템즈 내부유출방지(DLP) 솔루션이 맥(Mac) 운영체제를 지원한다.\n워터월시스템즈는 마이크로소프트(MS) 윈도우즈, 리눅스, 맥 운영체제를 모두 지원하며 보안 영역을 한층 강화했다.\n워터월시스템즈는 자사 DLP 솔루션 '워터월'이 맥 운영체제 지원을 시작했다고 10일 밝혔다.\n보안 관리가 필요한 운영 대상 맥 PC에 워터월 DLP 클라이언트가 설치된다.\n내부 정보 보호를 위한 로그 수집, 제어, 모니터링을 실시한다.\n네트워크 단절 시에는 자체 로컬로 보안정책을 수행한다.\n맥 PC 단말 취약요소를 통제한다.\n고의적 성격 정보 유출에 대응하기 위한 관리체계를 강화했다.\n워터월시스템즈 관계자는 \\\"워터월 DLP는 하나의 에이전트 설치만으로 이 모든 기능을 서비스하고 있다\\\"며 \\\"기업은 워터월 솔루션으로 호환성 장애 없이 퍼포먼스는 유지하고, 핵심 정보 자산을 보호할 수 있을 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "워터월시스템즈 내부유출방지(DLP) 솔루션이 맥(Mac) 운영체제를 지원한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "워터월시스템즈는 마이크로소프트(MS) 윈도우즈, 리눅스, 맥 운영체제를 모두 지원하며 보안 영역을 한층 강화했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "워터월시스템즈는 자사 DLP 솔루션 '워터월'이 맥 운영체제 지원을 시작했다고 10일 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보안 관리가 필요한 운영 대상 맥 PC에 워터월 DLP 클라이언트가 설치된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "내부 정보 보호를 위한 로그 수집, 제어, 모니터링을 실시한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네트워크 단절 시에는 자체 로컬로 보안정책을 수행한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "맥 PC 단말 취약요소를 통제한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "고의적 성격 정보 유출에 대응하기 위한 관리체계를 강화했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "워터월시스템즈 관계자는 \\\"워터월 DLP는 하나의 에이전트 설치만으로 이 모든 기능을 서비스하고 있다\\\"며 \\\"기업은 워터월 솔루션으로 호환성 장애 없이 퍼포먼스는 유지하고, 핵심 정보 자산을 보호할 수 있을 것\\\"이라고 말했다.",
+				"sentenceSize": 128
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "워터월시스템즈 '워터월', 맥 운영체제 지원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

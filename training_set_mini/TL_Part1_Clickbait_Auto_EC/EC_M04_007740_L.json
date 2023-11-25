@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007740",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "구제역 농가에 3억 특례보증",
+		"newsSubTitle": "금융위·농협중앙회",
+		"newsContent": "구제역 피해를 입은 농가가 최대 3억원의 특례보증을 받을 수 있게 된다.\n금융위원회와 농협중앙회는 30일 구제역 피해 농가의 피해복구와 경영안전 지원을 위해 농림수산업자 신용보증기금 특례보증을 실시 방안을 마련했다고 밝혔다.\n지원 대상은 가축 매몰과 이동 제한 지역의 농가이며 농협중앙회와 지역 농·축협에서 최대 2000억원을 지원할 계획이다.\n농가당 보증 한도는 피해액 범위 안에서 3억원이며 피해액 전액을 보증하거나 85% 부분 보증이 이뤄진다.\n또 피해 지역 농가의 기존 보증에 대해서는 만기를 연장해줄 계획이다.\n현재는 가축매몰 농가에 대해 살처분보상금(가축시세의 100% 국비 지원)과 생계안정자금(평균생계비의 3~6개월분 지원) 등을 지원하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구제역 피해를 입은 농가가 최대 3억원의 특례보증을 받을 수 있게 된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융위원회와 농협중앙회는 30일 구제역 피해 농가의 피해복구와 경영안전 지원을 위해 농림수산업자 신용보증기금 특례보증을 실시 방안을 마련했다고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지원 대상은 가축 매몰과 이동 제한 지역의 농가이며 농협중앙회와 지역 농·축협에서 최대 2000억원을 지원할 계획이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "농가당 보증 한도는 피해액 범위 안에서 3억원이며 피해액 전액을 보증하거나 85% 부분 보증이 이뤄진다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 피해 지역 농가의 기존 보증에 대해서는 만기를 연장해줄 계획이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재는 가축매몰 농가에 대해 살처분보상금(가축시세의 100% 국비 지원)과 생계안정자금(평균생계비의 3~6개월분 지원) 등을 지원하고 있다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LH 하반기 입주 '순항'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009079",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "'이사철 앞' 8월 전월세 거래증가",
+		"newsSubTitle": "전달보다 대전 991건·충남 611건 늘어",
+		"newsContent": "지난달 전·월세 실거래 건수는 대전은 3520건, 충남 3518건, 충북 2535건으로 밝혀졌다.\n전달대비는 대전(2907건) 991건, 충남(2907건) 611건, 충북(1956건) 579건이 증가한 수치다. 26일 국토해양부에 따르면 전·월세 거래정보시스템을 통해 취합한 지난달 전·월세 거래량 및 아파트 전·월세 실거래가 자료를 공개했다.\n전·월세 거래량(전체주택 기준)은 전국 11만5492건으로 전달 9만2857건 대비 2만2635건이 증가했다.\n전·월세 거래량은 지난 4월부터 4개월 연속 감소하다가 하반기 이사철을 맞아 지난달 들어 증가세로 전환됐다.\n거래유형은 전세 7만6000건(66%), 월세 3만9000건(34%)이며 아파트는 전세 4만2000건(74%), 월세 1만5000건(26%)으로 각각 조사됐다.\n한편, 전·월세 실거래가 세부정보는 실거래가 공개홈페이지(rt.mltm.go.kr), 온나라 부동산정보 통합포털(www.onnara.go.kr)에서 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 전·월세 실거래 건수는 대전은 3520건, 충남 3518건, 충북 2535건으로 밝혀졌다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전달대비는 대전(2907건) 991건, 충남(2907건) 611건, 충북(1956건) 579건이 증가한 수치다. 26일 국토해양부에 따르면 전·월세 거래정보시스템을 통해 취합한 지난달 전·월세 거래량 및 아파트 전·월세 실거래가 자료를 공개했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전·월세 거래량(전체주택 기준)은 전국 11만5492건으로 전달 9만2857건 대비 2만2635건이 증가했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전·월세 거래량은 지난 4월부터 4개월 연속 감소하다가 하반기 이사철을 맞아 지난달 들어 증가세로 전환됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "거래유형은 전세 7만6000건(66%), 월세 3만9000건(34%)이며 아파트는 전세 4만2000건(74%), 월세 1만5000건(26%)으로 각각 조사됐다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 전·월세 실거래가 세부정보는 실거래가 공개홈페이지(rt.mltm.go.kr), 온나라 부동산정보 통합포털(www.onnara.go.kr)에서 확인할 수 있다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한화 갤러리아 동백점 빠르면 이번주중 매각",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

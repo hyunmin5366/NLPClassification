@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332551",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[제12회 ICT논문공모 대제전] \\\"국제 무대에 내놔도 경쟁력있어\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'제12회 ICT논문 공모 대제전'에는 우수 논문이 대거 제출돼 치열한 경쟁을 펼쳤다.\n심사위원은 논문 심사과정에서 젊은 인재의 ICT 경쟁력을 확인할 수 있었다며 공모 대제전 참가자 모두를 격려했다.\nICT, 과학기술 관련 후원학회 소속 교수진으로 구성된 4명 심사위원이 독창성, 창의성, 논리성을 주요 평가 지표로 심사했다.\n총 120편 논문 중 대상 1편, 최우수상 2편, 우수상 4편, 장려상 2편 등 총 9편을 수상작으로 선정했다.\n딥러닝, 5G 등 최근 각광받는 다양한 ICT 분야 우수 연구 결과물로, 연구주제의 창의성, 제안 방법의 독창성, 기술 실용성, 논문 완성도 및 기술 측면에서 우수하다는 평가를 내렸다.\n대상 논문은 딥러닝 기술을 활용한 'pre-trained' 생성모델을 이용, 이미지 몰핑을 시도했다.\n시도 자체가 신선했고 실험을 통해 기술은 물론 성능 우수성을 동시에 입증했다는 평가를 받았다.\n심사위원인 심규석 서울대 교수는 “올해 출품된 대다수 논문의 질적 수준이 높아 국제 무대에서도 좋은 평가를 받을 가능성이 높다”며 “매년 수상작 선정에 어려움이 커지고 있다”고 말했다.\n심 교수는 “수상자에게 축하 인사를 전하며 앞으로도 우리나라 ICT 발전에 기여해 달라”고 당부했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'제12회 ICT논문 공모 대제전'에는 우수 논문이 대거 제출돼 치열한 경쟁을 펼쳤다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "심사위원은 논문 심사과정에서 젊은 인재의 ICT 경쟁력을 확인할 수 있었다며 공모 대제전 참가자 모두를 격려했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ICT, 과학기술 관련 후원학회 소속 교수진으로 구성된 4명 심사위원이 독창성, 창의성, 논리성을 주요 평가 지표로 심사했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "총 120편 논문 중 대상 1편, 최우수상 2편, 우수상 4편, 장려상 2편 등 총 9편을 수상작으로 선정했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "딥러닝, 5G 등 최근 각광받는 다양한 ICT 분야 우수 연구 결과물로, 연구주제의 창의성, 제안 방법의 독창성, 기술 실용성, 논문 완성도 및 기술 측면에서 우수하다는 평가를 내렸다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대상 논문은 딥러닝 기술을 활용한 'pre-trained' 생성모델을 이용, 이미지 몰핑을 시도했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시도 자체가 신선했고 실험을 통해 기술은 물론 성능 우수성을 동시에 입증했다는 평가를 받았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "심사위원인 심규석 서울대 교수는 “올해 출품된 대다수 논문의 질적 수준이 높아 국제 무대에서도 좋은 평가를 받을 가능성이 높다”며 “매년 수상작 선정에 어려움이 커지고 있다”고 말했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "심 교수는 “수상자에게 축하 인사를 전하며 앞으로도 우리나라 ICT 발전에 기여해 달라”고 당부했다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[제12회 ICT논문공모 대제전] \\\"국제 무대에 내놔도 경쟁력있어\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

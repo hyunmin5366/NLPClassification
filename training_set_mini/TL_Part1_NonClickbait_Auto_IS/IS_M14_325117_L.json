@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325117",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "권오준 포스코 회장 CES 참관...\\\"삼성 LG 고급이미지 포스코 철강에서 와\\\"",
+		"newsSubTitle": "",
+		"newsContent": "권오준 포스코 회장이 10일 현지시간 오전 9시 30분 CES2018 현장에 방문해 삼성전자와 LG전자 부스를 포함해 주요 전시관을 돌아봤다.\n권 회장은 최두환 포스코ICT 사장과 박미화 포스코 정보기획실장(상무)과 동행했다.\n권 회장과 포스코 임원들은 VIP투어를 돌며 가이드의 제품 설명을 들었다.\n권 회장은 LG시그니처 냉장고와 가스레인지 등을 만져보며 꼼꼼히 살폈다.\n권 회장은 “(LG전자가) 철강 부문에서 포스코 제품을 많이 쓰고 있다”면서 “(LG가) 고급이미지를 주는데 포스코가 큰 역할을 하는 것 같다”고 자평했다.\n포스코 CEO가 CES를 방문한 것은 처음이다.\n그는 “올해 (CES를) 처음 왔다”면서 “삼성전자도 방문하고 (전시관들을) 두루 살펴보려고 한다. 지금 한창 배우고 있는 중”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "권오준 포스코 회장이 10일 현지시간 오전 9시 30분 CES2018 현장에 방문해 삼성전자와 LG전자 부스를 포함해 주요 전시관을 돌아봤다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "권 회장은 최두환 포스코ICT 사장과 박미화 포스코 정보기획실장(상무)과 동행했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "권 회장과 포스코 임원들은 VIP투어를 돌며 가이드의 제품 설명을 들었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "권 회장은 LG시그니처 냉장고와 가스레인지 등을 만져보며 꼼꼼히 살폈다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "권 회장은 “(LG전자가) 철강 부문에서 포스코 제품을 많이 쓰고 있다”면서 “(LG가) 고급이미지를 주는데 포스코가 큰 역할을 하는 것 같다”고 자평했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "포스코 CEO가 CES를 방문한 것은 처음이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 “올해 (CES를) 처음 왔다”면서 “삼성전자도 방문하고 (전시관들을) 두루 살펴보려고 한다. 지금 한창 배우고 있는 중”이라고 말했다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "권오준 포스코 회장 CES 참관...\\\"삼성 LG 고급이미지 포스코 철강에서 와\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

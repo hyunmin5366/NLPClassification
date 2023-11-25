@@ -1,0 +1,258 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333367",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "누리호 1단 엔진 최종성능 확인...10월 1차 발사 '청신호'",
+		"newsSubTitle": "",
+		"newsContent": "한국형발사체 '누리호'가 올해 10월 발사 예정인 가운데, 핵심 요소인 1단 클러스터링 엔진의 최종 성능이 확인됐다.\n이번 시험 성공으로 누리호 발사 성공에 청신호가 켜졌다.\n과학기술정보통신부와 한국항공우주연구원은 25일 전남 고흥 나로우주센터에서 문재인 대통령이 참관한 가우데 누리호 인증모델(QM) 1단 엔진의 최종 종합연소시험을 성공리에 마쳤다.\n관련 시험은 오후 2시50분부터 시작됐다.\n10분간 자동운영 절차(PLO)에 들어간 후, 3시 점화했다.\n이날 연소시간은 125.5초다.\n당초 목표는 127초로, 이날 기록은 오차범위 내다.\n항우연은 실제 발사시 주입하는 연료와 산화제 양을 모두 소진했다.\n실제와 같은 자동 발사 소프트웨어(SW)를 검증하는 방식으로 진행, 추진제가 엔진에 정상 공급되고 안정적으로 연소가 진행되는 과정을 확인했다.\n추진기관성능과 내구성을 확인할 수 있었다.\n1단 연소시험은 이번이 3번째다.\n첫 번째는 지난 1월 28일 진행, 30초간 연소에 성공했다.\n2월 25일 2차 시험에서는 101초 연소한 바 있다.\n이번 시험에서는 연소 시간을 늘리는 것 외에 발사체 자세 제어 및 방향을 조정하는 '추력 벡터 제어(TVC)' 시험도 진행됐다.\nTVC 시험은 엔진 방향을 조금씩 움직이면서 로켓 방향을 조절하는 시험이다.\n이날 성공은 누리호 발사를 위해 넘어야 할 가장 큰 난관을 넘어선 것으로 평가된다.\n오늘 시험한 1단은 4기 엔진을 엮는 클러스터링 방식 탓에 특히 구현이 어려운 부분으로 평가받아 왔다.\n클러스터링 방식은 상대적으로 추력이 작은 엔진을 여러 대 엮어 높은 추력을 내는 방식이다.\n큰 엔진을 만드는 고생은 덜지만, 이것 역시 꽃길은 아니다.\n각기 엔진이 동시에, 오차 없이 동작하도록 하는 고도의 제어기술이 필요하다.\n다행히 이번 시험으로 기술 구현에 성공했다.\n현재 다른 2단부와 3단부의 경우 개발을 마친 상태다.\n남은 것은 QM에 이은 비행모델(FM) 조립과 발사 리허설이다.\n리허설은 오는 9월로 예정돼 있다.\n누리호를 발사대로 이송, 기립한 후 연료와 산화제를 충전 및 배출하는 시험이다.\n항우연은 “2단부, 3단부에 이어 1단부 개발도 마쳤다”며 “10월로 예정된 누리호 1차 발사를위한 FM 제작도 순조롭게 진행될 것으로 전망한다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 26,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국형발사체 '누리호'가 올해 10월 발사 예정인 가운데, 핵심 요소인 1단 클러스터링 엔진의 최종 성능이 확인됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 시험 성공으로 누리호 발사 성공에 청신호가 켜졌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과학기술정보통신부와 한국항공우주연구원은 25일 전남 고흥 나로우주센터에서 문재인 대통령이 참관한 가우데 누리호 인증모델(QM) 1단 엔진의 최종 종합연소시험을 성공리에 마쳤다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "관련 시험은 오후 2시50분부터 시작됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "10분간 자동운영 절차(PLO)에 들어간 후, 3시 점화했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 연소시간은 125.5초다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "당초 목표는 127초로, 이날 기록은 오차범위 내다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "항우연은 실제 발사시 주입하는 연료와 산화제 양을 모두 소진했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "실제와 같은 자동 발사 소프트웨어(SW)를 검증하는 방식으로 진행, 추진제가 엔진에 정상 공급되고 안정적으로 연소가 진행되는 과정을 확인했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "추진기관성능과 내구성을 확인할 수 있었다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "1단 연소시험은 이번이 3번째다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "첫 번째는 지난 1월 28일 진행, 30초간 연소에 성공했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "2월 25일 2차 시험에서는 101초 연소한 바 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이번 시험에서는 연소 시간을 늘리는 것 외에 발사체 자세 제어 및 방향을 조정하는 '추력 벡터 제어(TVC)' 시험도 진행됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "TVC 시험은 엔진 방향을 조금씩 움직이면서 로켓 방향을 조절하는 시험이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이날 성공은 누리호 발사를 위해 넘어야 할 가장 큰 난관을 넘어선 것으로 평가된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "오늘 시험한 1단은 4기 엔진을 엮는 클러스터링 방식 탓에 특히 구현이 어려운 부분으로 평가받아 왔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "클러스터링 방식은 상대적으로 추력이 작은 엔진을 여러 대 엮어 높은 추력을 내는 방식이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "큰 엔진을 만드는 고생은 덜지만, 이것 역시 꽃길은 아니다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "각기 엔진이 동시에, 오차 없이 동작하도록 하는 고도의 제어기술이 필요하다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "다행히 이번 시험으로 기술 구현에 성공했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "현재 다른 2단부와 3단부의 경우 개발을 마친 상태다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "남은 것은 QM에 이은 비행모델(FM) 조립과 발사 리허설이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "리허설은 오는 9월로 예정돼 있다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "누리호를 발사대로 이송, 기립한 후 연료와 산화제를 충전 및 배출하는 시험이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "항우연은 “2단부, 3단부에 이어 1단부 개발도 마쳤다”며 “10월로 예정된 누리호 1차 발사를위한 FM 제작도 순조롭게 진행될 것으로 전망한다”고 밝혔다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "누리호 1단 엔진 최종성능 확인...10월 1차 발사 '청신호'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

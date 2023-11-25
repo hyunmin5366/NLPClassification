@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007456",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "기준금리 인상에 대출금리 '들썩'",
+		"newsSubTitle": "주택대출 변동금리 최고 6.4%대… 8개월만에 최고 수준",
+		"newsContent": "지난 16일 기준금리가 인상되면서 은행들의 대출금리도 상승세를 타고 있다.\n18일 금융권에 따르면 주요 시중은행은 지난 16일 한국은행의 기준금리 인상 이후 변동금리형 주택담보대출 금리를 인상했다.\n하나은행 변동금리형 주택대출 금리는 4.9~6.4%로 지난 주말보다 0.14%포인트 높아졌고, 신한은행과 외환은행도 각각 4.35~5.75%와 4.39~6.14%로 3월 27일 이후 거의 8개월 만에 최고 수준으로 올랐다.\n우리은행도 4.15~5.47%로 5월 20일 이후 최고치다.\n이 처럼 시중은행들이 대출금리를 인상한 것은 금융통화위원회의 기준금리 인상 여파로 CD금리가 큰 폭으로 올랐기 때문이다.\nCD금리는 기준금리 인상 전날인 15일보다 0.14%포인트 상승한 2.80%를 기록하고 있다.\n하지만 대표적인 장기 고정금리 상품인 주택금융공사의 U-보금자리론 대출금리는 이달 들어 종전보다 0.3%포인트 인하되면서 최저 연 5.0%까지 가능해졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 16일 기준금리가 인상되면서 은행들의 대출금리도 상승세를 타고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 금융권에 따르면 주요 시중은행은 지난 16일 한국은행의 기준금리 인상 이후 변동금리형 주택담보대출 금리를 인상했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하나은행 변동금리형 주택대출 금리는 4.9~6.4%로 지난 주말보다 0.14%포인트 높아졌고, 신한은행과 외환은행도 각각 4.35~5.75%와 4.39~6.14%로 3월 27일 이후 거의 8개월 만에 최고 수준으로 올랐다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우리은행도 4.15~5.47%로 5월 20일 이후 최고치다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 처럼 시중은행들이 대출금리를 인상한 것은 금융통화위원회의 기준금리 인상 여파로 CD금리가 큰 폭으로 올랐기 때문이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CD금리는 기준금리 인상 전날인 15일보다 0.14%포인트 상승한 2.80%를 기록하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 대표적인 장기 고정금리 상품인 주택금융공사의 U-보금자리론 대출금리는 이달 들어 종전보다 0.3%포인트 인하되면서 최저 연 5.0%까지 가능해졌다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"마스크 주문 취소 당했다면 소비자원에 신고하세요\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

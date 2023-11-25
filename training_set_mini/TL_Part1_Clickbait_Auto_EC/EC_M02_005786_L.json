@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005786",
+		"newsCategory": "경제",
+		"newsSubcategory": "IT·통신",
+		"newsTitle": "LGU+, 친환경 데이터센터로 탄소배출 줄인다",
+		"newsSubTitle": "30년생 소나무 289만 그루 조성 효과",
+		"newsContent": "LG유플러스가 전국 인터넷데이터센터(IDC)에 친환경 냉각 방식을 도입해 탄소 배출량을 줄이는 등 ESG(환경·사회·투명경영)경영에 집중한다.\nLG유플러스는 23일 회사가 운영 중인 IDC에서 방출되는 열을 식히는 과정에서 차가운 바람을 끌어오고 에너지 효율이 높은 냉방장치를 적용하는 등 친환경 냉각 방식을 도입했다고 밝혔다.\nLG유플러스가 활용하고 있는 시스템으로는 △외기 냉방 시스템 △냉동기가 만들어내는 냉수 온도 상향 △냉각수 비상 배관을 활용한 최적 운전법 도입 △IDC 건물 내 LED 센서 설치 △냉동기 냉수 펌프 회전 속도 최적화 △냉각탑 팬 운전 속도 자동 제어 등이 있다.\nLG유플러스 관계자는 데일리임팩트에 \\\"열에 민감한 IDC는 서버의 적정 온도를 유지하기 위해 엄청난 양의 에너지를 사용한다\\\"라며 \\\"회사는 친환경적으로 열기를 식히기 위해 다양한 방안을 도입했으며, 이를 모두 합산하면 30년생 소나무 289만그루를 심은 것과 비슷한 탄소 저감효과를 낸다\\\"라고 강조했다.\nLG유플러스는 아시아 최대 규모 수준인 평촌메가센터 등 전국 10여 곳에 IDC를 운영하고 있다.\n아울러 오는 2023년 3분기 연면적 4만450㎡, 축구장 6개 너비의 신규 하이퍼스케일급 친환경 IDC 평촌2센터를 준공할 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스가 전국 인터넷데이터센터(IDC)에 친환경 냉각 방식을 도입해 탄소 배출량을 줄이는 등 ESG(환경·사회·투명경영)경영에 집중한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG유플러스는 23일 회사가 운영 중인 IDC에서 방출되는 열을 식히는 과정에서 차가운 바람을 끌어오고 에너지 효율이 높은 냉방장치를 적용하는 등 친환경 냉각 방식을 도입했다고 밝혔다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LG유플러스가 활용하고 있는 시스템으로는 △외기 냉방 시스템 △냉동기가 만들어내는 냉수 온도 상향 △냉각수 비상 배관을 활용한 최적 운전법 도입 △IDC 건물 내 LED 센서 설치 △냉동기 냉수 펌프 회전 속도 최적화 △냉각탑 팬 운전 속도 자동 제어 등이 있다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "LG유플러스 관계자는 데일리임팩트에 \\\"열에 민감한 IDC는 서버의 적정 온도를 유지하기 위해 엄청난 양의 에너지를 사용한다\\\"라며 \\\"회사는 친환경적으로 열기를 식히기 위해 다양한 방안을 도입했으며, 이를 모두 합산하면 30년생 소나무 289만그루를 심은 것과 비슷한 탄소 저감효과를 낸다\\\"라고 강조했다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG유플러스는 아시아 최대 규모 수준인 평촌메가센터 등 전국 10여 곳에 IDC를 운영하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아울러 오는 2023년 3분기 연면적 4만450㎡, 축구장 6개 너비의 신규 하이퍼스케일급 친환경 IDC 평촌2센터를 준공할 계획이다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전시 '글로벌 강소기업 도전하세요'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

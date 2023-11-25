@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331661",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "감성인지 AI로 모바일서 콘텐츠·마케팅 반응 확인한다",
+		"newsSubTitle": "",
+		"newsContent": "감성인지 인공지능(AI) 기술로 모바일 애플리케이션(앱) 광고 등 콘텐츠·마케팅 반응을 확인하는 기술이 개발됐다.\n세미콘네트웍스(대표 홍경이)는 목소리와 얼굴 표정으로 화자 감정을 실시간으로 파악하는 요소기술 AIMDVF(AI based Mood Detection thru Voice and Face) v1.0 기반 '페페로네(PEPERONE)'를 개발했다.\n모바일 기반 서비스 개발에 활용 가능하다.\n얼굴 표정은 메사추세츠공과대학(MIT)이 제공하는 공공데이터와 직접 수집해 확보한 36만장 사진을 토대로 기쁨, 슬픔, 화남 등 8개 감정 기본값에 AI 학습을 더해 분석력을 키웠다.\n목소리 정보도 MIT 데이터와 직접 수집한 데이터로 학습했다.\n페페로네는 한국어와 영어 모두 지원한다.\n동양인과 서양인 표정 인식이 가능하도록 개발했다.\n목소리와 얼굴을 분석하는 4개 뉴럴 네트워크에서 도출한 예측값을 다층구조화해 분석 정확도를 높였다.\n모바일에서 기사나 광고 등 콘텐츠 소비자 반응을 확인하는 도구로 사용한다.\n모바일 화면을 응시하는 얼굴과 주변 목소리를 분석, 사용자에 콘텐츠가 얼마나 유의미하게 도달했는지 여부를 확인해준다.\n콘텐츠나 마케팅 효율성 확인이 가능하다.\nAI 스피커나 로봇 등에 탑재해 화자 감정 상태를 파악한다.\n대화 내용을 친밀하게 구성하도록 지원한다.\n페페로네가 탑재된 AI 로봇은 화자 발성 방향을 인식하고 화자와 눈 맞춤할 수 있어 사용자와 친밀도를 높인다.\n반려로봇 등에 기술 활용이 가능하다.\n세미콘네트웍스는 최근 페페로네 기술에 활용된 '소비자 감정을 인식해서 디스플레이 되는 콘텐츠에 대한 만족도를 조사하는 방법' 등 14개 항목에 대한 특허 등록을 신청했다.\n페페로네 요소기술은 현재 상용화 단계다.\n국내외 모바일 앱 관련 기업과 AI 스피커, AI 로봇 기업을 적극 공략한다는 계획이다.\n백대원 세미콘네트웍스 부사장은 “페페로네는 표정과 목소리로 사용자 감정을 확인하는 주요 기술”이라며 “포털, 전자상거래 등 모바일 앱 개발 또는 서비스 기업이나 AI 스피커·로봇을 제작하는 제조기업에 공급할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "감성인지 인공지능(AI) 기술로 모바일 애플리케이션(앱) 광고 등 콘텐츠·마케팅 반응을 확인하는 기술이 개발됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "세미콘네트웍스(대표 홍경이)는 목소리와 얼굴 표정으로 화자 감정을 실시간으로 파악하는 요소기술 AIMDVF(AI based Mood Detection thru Voice and Face) v1.0 기반 '페페로네(PEPERONE)'를 개발했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "모바일 기반 서비스 개발에 활용 가능하다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "얼굴 표정은 메사추세츠공과대학(MIT)이 제공하는 공공데이터와 직접 수집해 확보한 36만장 사진을 토대로 기쁨, 슬픔, 화남 등 8개 감정 기본값에 AI 학습을 더해 분석력을 키웠다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "목소리 정보도 MIT 데이터와 직접 수집한 데이터로 학습했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "페페로네는 한국어와 영어 모두 지원한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "동양인과 서양인 표정 인식이 가능하도록 개발했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "목소리와 얼굴을 분석하는 4개 뉴럴 네트워크에서 도출한 예측값을 다층구조화해 분석 정확도를 높였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "모바일에서 기사나 광고 등 콘텐츠 소비자 반응을 확인하는 도구로 사용한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "모바일 화면을 응시하는 얼굴과 주변 목소리를 분석, 사용자에 콘텐츠가 얼마나 유의미하게 도달했는지 여부를 확인해준다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "콘텐츠나 마케팅 효율성 확인이 가능하다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "AI 스피커나 로봇 등에 탑재해 화자 감정 상태를 파악한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "대화 내용을 친밀하게 구성하도록 지원한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "페페로네가 탑재된 AI 로봇은 화자 발성 방향을 인식하고 화자와 눈 맞춤할 수 있어 사용자와 친밀도를 높인다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "반려로봇 등에 기술 활용이 가능하다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "세미콘네트웍스는 최근 페페로네 기술에 활용된 '소비자 감정을 인식해서 디스플레이 되는 콘텐츠에 대한 만족도를 조사하는 방법' 등 14개 항목에 대한 특허 등록을 신청했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "페페로네 요소기술은 현재 상용화 단계다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "국내외 모바일 앱 관련 기업과 AI 스피커, AI 로봇 기업을 적극 공략한다는 계획이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "백대원 세미콘네트웍스 부사장은 “페페로네는 표정과 목소리로 사용자 감정을 확인하는 주요 기술”이라며 “포털, 전자상거래 등 모바일 앱 개발 또는 서비스 기업이나 AI 스피커·로봇을 제작하는 제조기업에 공급할 것”이라고 말했다.",
+				"sentenceSize": 126
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "감성인지 AI로 모바일서 콘텐츠·마케팅 반응 확인한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

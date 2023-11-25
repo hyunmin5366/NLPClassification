@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326305",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[2021 핫이슈-해외]세계 반도체 시장 슈퍼사이클 진입",
+		"newsSubTitle": "",
+		"newsContent": "올해 글로벌 반도체 시장이 '슈퍼 사이클'에 진입할 것이라는 전망이 곳곳에서 나온다.\n코로나19 사태 이후 '언택트' 수요 증가와 함께 5G 네트워크, 자율주행차 등 차세대 산업 성장이 맞물리면서 반도체가 더욱 많이 필요해지고 있기 때문이다.\n세계반도체시장통계기구(WSTS)는 올해 반도체 시장 규모가 519조5000억원으로 예상치보다 8.4% 증가할 것으로 내다봤다.\n올해는 데이터센터가 반도체 시장 성장을 견인할 것으로 전망된다.\n구글, 아마존 등 글로벌 데이터센터 회사들은 작년 하반기 재고 관리를 위해 반도체 구매를 보수적으로 진행했지만, 올해 상반기부터 적극적으로 반도체를 사들일 것으로 점쳐진다.\n또 5G 스마트폰이 더욱 대중화하면서 이에 대응한 반도체 출하량도 증가할 전망이다.\n삼성전자, SK하이닉스 등 국내 반도체 업체들은 반도체 호황에 대비하기 위해 신규 투자에 속도를 올린다.\n삼성전자는 월 15만장(150K) 규모 신규 메모리 설비 투자와 함께 5나노 파운드리 양산 라인 투자에도 박차를 가할 것으로 예상된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 글로벌 반도체 시장이 '슈퍼 사이클'에 진입할 것이라는 전망이 곳곳에서 나온다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코로나19 사태 이후 '언택트' 수요 증가와 함께 5G 네트워크, 자율주행차 등 차세대 산업 성장이 맞물리면서 반도체가 더욱 많이 필요해지고 있기 때문이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "세계반도체시장통계기구(WSTS)는 올해 반도체 시장 규모가 519조5000억원으로 예상치보다 8.4% 증가할 것으로 내다봤다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올해는 데이터센터가 반도체 시장 성장을 견인할 것으로 전망된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구글, 아마존 등 글로벌 데이터센터 회사들은 작년 하반기 재고 관리를 위해 반도체 구매를 보수적으로 진행했지만, 올해 상반기부터 적극적으로 반도체를 사들일 것으로 점쳐진다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 5G 스마트폰이 더욱 대중화하면서 이에 대응한 반도체 출하량도 증가할 전망이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자, SK하이닉스 등 국내 반도체 업체들은 반도체 호황에 대비하기 위해 신규 투자에 속도를 올린다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성전자는 월 15만장(150K) 규모 신규 메모리 설비 투자와 함께 5나노 파운드리 양산 라인 투자에도 박차를 가할 것으로 예상된다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2021 핫이슈-해외]세계 반도체 시장 슈퍼사이클 진입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

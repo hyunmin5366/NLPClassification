@@ -1,0 +1,312 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326769",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "워너크라이, 공장 괴롭히는 '좀비' 악성코드되다",
+		"newsSubTitle": "",
+		"newsContent": "워너크라이 랜섬웨어가 제조 공장 '좀비'가 됐다.\n지난해 5월 등장한 워너크라이 랜섬웨어는 대규모 확산이 멈춘 후 인터넷이 연결되지 않은 공장이나 제조시설 폐쇄망에서 좀비처럼 되살아나 피해를 입혔다.\n워너크라이는 몸값을 요구하는 랜섬웨어인데 제조시설을 마비시키는 파괴 악성코드로 악명을 떨친다.\n워너크라이는 왜 주로 공장에 영향을 끼칠까.\n공장이나 제조시설은 산업제어시스템(ICS)으로 운영된다.\nICS가 가동되는 기기 상당수가 구형 윈도 운용체계(OS)에 기반한 임베디드 시스템이다.\n윈도2000이나 윈도XP 등 보안 업데이트가 끝난 OS가 대부분이다.\n생산설비는 특히 가용성 문제로 보안 업데이트에 소홀하다.\n보안 업데이트를 위해 라인을 멈춰야 하는데 이런 결정이 쉽지 않다.\n공장 설비는 인터넷과 연결하지 않고 폐쇄망으로 운영한다.\n이 때문에 보안 업데이트를 소홀히 한다.\n워너크라이가 공장 위주로 계속해 피해를 발생시키는 것은 폐쇄망 때문이다.\n지난해 5월 보안전문가가 당시 워너크라이 확산을 막는 킬스위치를 만들었다.\n인터넷으로 연결된 시스템은 킬스위치가 작동해 워너크라이가 작동하지 않는다.\n공장 등 폐쇄망에 워너크라이가 감염되면 킬스위치가 연결되지 않아 피해를 입는다.\n워너크라이는 윈도 OS 서버메시지블록(SMB) 취약점을 이용해 자동으로 전파되는 악성코드다.\n사용자가 어떤 행동을 하지 않아도 랜섬웨어가 내부 네트워크를 통해 스스로 전파한다.\n마이크로소프트는 이미 1년 전에 관련 패치를 내놨다.\n워너크라이에 당한 제조 공정은 계속 늘어난다.\n워너크라이는 지난 4일 세계 최대 반도체 위탁생산 기업 대만 TSMC 생산설비를 멈췄다.\nTSMC는 연 매출 3%에 해당하는 3000억원에 달하는 손해를 볼 전망이다.\n반도체 위탁생산 공정상 생산설비 가동 중단은 치명타다.\n애플 등 일부 고객사 부품 확보에 차질이 예상된다.\nTSMC는 생산설비 소프트웨어 업그레이드 과정에서 악성코드에 감염된 휴대용저장장치(USB)를 연결해 감염된 것으로 추정된다.\n워너크라이는 글로벌 항공기 제작사 보잉 생산라인에도 영향을 끼쳤다.\n3월 보잉 787드림라이너와 신규 777 항공기 제조 라인이 피해를 입었다.\n공장 제조시설 ICS에 보안 업데이트가 제대로 되지 않은 탓이다.\n그나마 보잉이 일부만 피해를 입은 것은 전체 조립 라인에 윈도 시스템을 쓰지 않아서다.\n자동차 기업 혼다, 르노 등도 워너크라이를 피하지 못했다.\n일본 혼다자동차는 지난해 6월 도쿄 북서부 사야마 공정 생산라인이 워너크라이 피해를 입어 약 1000대 차량 생산에 차질을 빚었다.\n워너크라이가 대규모로 확산한 지난해 5월에는 닛산 영국 선덜랜드 공장과 프랑스 르노 자동차 생산라인이 멈췄다.\n한 보안기업 대표는 \\\"TSMC 사고 후 국내 제조사가 ICS 보안 제품을 문의했다\\\"면서 \\\"워너크라이 창궐 후 1년이 지났지만 아직도 보안 조치가 제대로 이뤄지지 않은 제조 시설이 많다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 32,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "워너크라이 랜섬웨어가 제조 공장 '좀비'가 됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 5월 등장한 워너크라이 랜섬웨어는 대규모 확산이 멈춘 후 인터넷이 연결되지 않은 공장이나 제조시설 폐쇄망에서 좀비처럼 되살아나 피해를 입혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "워너크라이는 몸값을 요구하는 랜섬웨어인데 제조시설을 마비시키는 파괴 악성코드로 악명을 떨친다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "워너크라이는 왜 주로 공장에 영향을 끼칠까.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공장이나 제조시설은 산업제어시스템(ICS)으로 운영된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "ICS가 가동되는 기기 상당수가 구형 윈도 운용체계(OS)에 기반한 임베디드 시스템이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "윈도2000이나 윈도XP 등 보안 업데이트가 끝난 OS가 대부분이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "생산설비는 특히 가용성 문제로 보안 업데이트에 소홀하다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "보안 업데이트를 위해 라인을 멈춰야 하는데 이런 결정이 쉽지 않다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "공장 설비는 인터넷과 연결하지 않고 폐쇄망으로 운영한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이 때문에 보안 업데이트를 소홀히 한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "워너크라이가 공장 위주로 계속해 피해를 발생시키는 것은 폐쇄망 때문이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "지난해 5월 보안전문가가 당시 워너크라이 확산을 막는 킬스위치를 만들었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "인터넷으로 연결된 시스템은 킬스위치가 작동해 워너크라이가 작동하지 않는다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "공장 등 폐쇄망에 워너크라이가 감염되면 킬스위치가 연결되지 않아 피해를 입는다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "워너크라이는 윈도 OS 서버메시지블록(SMB) 취약점을 이용해 자동으로 전파되는 악성코드다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "사용자가 어떤 행동을 하지 않아도 랜섬웨어가 내부 네트워크를 통해 스스로 전파한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "마이크로소프트는 이미 1년 전에 관련 패치를 내놨다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "워너크라이에 당한 제조 공정은 계속 늘어난다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "워너크라이는 지난 4일 세계 최대 반도체 위탁생산 기업 대만 TSMC 생산설비를 멈췄다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "TSMC는 연 매출 3%에 해당하는 3000억원에 달하는 손해를 볼 전망이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "반도체 위탁생산 공정상 생산설비 가동 중단은 치명타다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "애플 등 일부 고객사 부품 확보에 차질이 예상된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "TSMC는 생산설비 소프트웨어 업그레이드 과정에서 악성코드에 감염된 휴대용저장장치(USB)를 연결해 감염된 것으로 추정된다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "워너크라이는 글로벌 항공기 제작사 보잉 생산라인에도 영향을 끼쳤다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "3월 보잉 787드림라이너와 신규 777 항공기 제조 라인이 피해를 입었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "공장 제조시설 ICS에 보안 업데이트가 제대로 되지 않은 탓이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "그나마 보잉이 일부만 피해를 입은 것은 전체 조립 라인에 윈도 시스템을 쓰지 않아서다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "자동차 기업 혼다, 르노 등도 워너크라이를 피하지 못했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "일본 혼다자동차는 지난해 6월 도쿄 북서부 사야마 공정 생산라인이 워너크라이 피해를 입어 약 1000대 차량 생산에 차질을 빚었다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "워너크라이가 대규모로 확산한 지난해 5월에는 닛산 영국 선덜랜드 공장과 프랑스 르노 자동차 생산라인이 멈췄다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "한 보안기업 대표는 \\\"TSMC 사고 후 국내 제조사가 ICS 보안 제품을 문의했다\\\"면서 \\\"워너크라이 창궐 후 1년이 지났지만 아직도 보안 조치가 제대로 이뤄지지 않은 제조 시설이 많다\\\"고 말했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "워너크라이, 공장 괴롭히는 '좀비' 악성코드되다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

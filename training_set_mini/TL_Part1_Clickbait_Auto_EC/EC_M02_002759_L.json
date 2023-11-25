@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002759",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "우리은행, 400여개 점포에 '안면인식 발열체크기' 도입",
+		"newsSubTitle": "",
+		"newsContent": "우리은행은 코로나19로부터 영업점 내점고객이 안심하고 편리하게 금융서비스를 이용할 수 있도록 안면인식 발열체크기를 도입한다고 25일 밝혔다.\n안면인식 발열체크기는 불필요한 접촉을 최소화하고, 고객의 발열과 마스크 착용 여부를 자동으로 측정하는 기기로, 코로나19 감염 의심자를 신속하게 선별할 수 있다.\n우리은행 관계자는 미디어SR에 \\\"이번에 도입하는 안면인식 발열체크기는 내점 고객이 많은 400여개 영업점에 우선 도입할 예정으로, 추가 설치 역시 검토할 예정\\\"이라고 설명했다.\n코로나19 위기대응 TF를 운영중인 우리은행은 코로나19 대유행이 시작될 조짐을 보인 지난해 4월부터 전국 모든 영업점 고객창구에 투명 칸막이를 선제적으로 설치했다.\n또한 영업점 내부 및 365자동화코너를 주기적으로 방역하는 등, 고객이 안전한 환경에서 금융서비스를 받을 수 있도록 하고 있다.\n우리은행 관계자는\\\"이번 안면인식 발열체크기 도입을 통해 우리은행을 방문하는 고객들이 안전하고 편리하게 금융서비스를 이용할 수 있게됐다\\\"며 \\\"앞으로도 코로나19로부터 안전한 객장환경을 제공하기 위해 앞으로도 최선을 다할 것\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리은행은 코로나19로부터 영업점 내점고객이 안심하고 편리하게 금융서비스를 이용할 수 있도록 안면인식 발열체크기를 도입한다고 25일 밝혔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안면인식 발열체크기는 불필요한 접촉을 최소화하고, 고객의 발열과 마스크 착용 여부를 자동으로 측정하는 기기로, 코로나19 감염 의심자를 신속하게 선별할 수 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우리은행 관계자는 미디어SR에 \\\"이번에 도입하는 안면인식 발열체크기는 내점 고객이 많은 400여개 영업점에 우선 도입할 예정으로, 추가 설치 역시 검토할 예정\\\"이라고 설명했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코로나19 위기대응 TF를 운영중인 우리은행은 코로나19 대유행이 시작될 조짐을 보인 지난해 4월부터 전국 모든 영업점 고객창구에 투명 칸막이를 선제적으로 설치했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 영업점 내부 및 365자동화코너를 주기적으로 방역하는 등, 고객이 안전한 환경에서 금융서비스를 받을 수 있도록 하고 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "우리은행 관계자는\\\"이번 안면인식 발열체크기 도입을 통해 우리은행을 방문하는 고객들이 안전하고 편리하게 금융서비스를 이용할 수 있게됐다\\\"며 \\\"앞으로도 코로나19로부터 안전한 객장환경을 제공하기 위해 앞으로도 최선을 다할 것\\\"이라고 밝혔다.",
+				"sentenceSize": 136
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'세종시 인접' 노은지구 꿈틀",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329526",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "'당근마켓 거래주의'···온라인사기 증가세에도 검거율 '뚝'",
+		"newsSubTitle": "",
+		"newsContent": "최근 5년간 중고나라, 당근마켓 등에서 이뤄지는 온라인 거래의 사기범 검거율이 지속해서 낮아진 것으로 나타났다.\n31일 국민의힘 성일종 의원이 경찰청으로부터 제출받은 자료에 따르면 온라인 직거래 사기범죄 검거율은 2016년 90.5%에서 지난해 76.1%로 떨어졌다.\n2017년에는 89.5%, 2018년 81.3%, 2019년 81.2% 등으로 해마다 점차 검거율이 떨어지는 추세를 보였다.\n반면 온라인 사기 발생 건수는 증가세다.\n온라인 거래 사기 발생 건수는 2018년 7만 4044건, 2019년 8만 90797건, 지난해 12만 3168건으로 지속 증가했다.\n검거 건수도 같은 기간 6만 224명에서 7만 2935명, 9만 3690명으로 늘어났지만 발생건수 증가 속도를 따라잡지 못하는 상황이다.\n성 의원은 \\\"코로나19 여파로 온라인 거래가 증가하면서 사기 발생 건수는 지속해서 증가하고 있지만 범인 검거율이 계속 떨어지고 있다\\\"며 \\\"플랫폼 차원에서 방지대책을 세우는 것도 중요하지만 무엇보다 수사당국이 적극적으로 나서서 검거율을 높여야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 5년간 중고나라, 당근마켓 등에서 이뤄지는 온라인 거래의 사기범 검거율이 지속해서 낮아진 것으로 나타났다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "31일 국민의힘 성일종 의원이 경찰청으로부터 제출받은 자료에 따르면 온라인 직거래 사기범죄 검거율은 2016년 90.5%에서 지난해 76.1%로 떨어졌다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2017년에는 89.5%, 2018년 81.3%, 2019년 81.2% 등으로 해마다 점차 검거율이 떨어지는 추세를 보였다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면 온라인 사기 발생 건수는 증가세다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "온라인 거래 사기 발생 건수는 2018년 7만 4044건, 2019년 8만 90797건, 지난해 12만 3168건으로 지속 증가했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "검거 건수도 같은 기간 6만 224명에서 7만 2935명, 9만 3690명으로 늘어났지만 발생건수 증가 속도를 따라잡지 못하는 상황이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "성 의원은 \\\"코로나19 여파로 온라인 거래가 증가하면서 사기 발생 건수는 지속해서 증가하고 있지만 범인 검거율이 계속 떨어지고 있다\\\"며 \\\"플랫폼 차원에서 방지대책을 세우는 것도 중요하지만 무엇보다 수사당국이 적극적으로 나서서 검거율을 높여야 한다\\\"고 말했다.",
+				"sentenceSize": 148
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'당근마켓 거래주의'···온라인사기 증가세에도 검거율 '뚝'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

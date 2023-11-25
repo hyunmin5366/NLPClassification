@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350390",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "삼성전자, 6G THz대역 무선통신 시연 \\\"상용화 이정표\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "삼성전자는 미국 샌타바버라 캘리포니아 주립대(UCSB)와 6G(6세대 이동통신) 테라헤르츠(THz) 대역에서 통신 시스템 시연에 성공했다고 16일 밝혔다.\n테라헤르츠 대역은 100GHz~10 THz 사이의 주파수를 의미한다.\n일반적으로 주파수 대역이 올라갈수록 넓은 통신 대역폭을 사용할 수 있어 6G에서 요구하는 초고속 통신에 적합하다.\n테라헤르츠 대역은 특히 5G(이론상 최고 20Gbps)보다 최대 50배 빠른 1Tbps(1초에 1조 비트를 전송하는 속도)를 목표로 하는 6G 통신의 후보 주파수 대역으로 꼽힌다.\n하지만 높은 주파수 대역일수록 전파 특성상 경로 손실이 크고 전파 도달 거리가 짧아지는 문제가 있어 통신 시스템 내에 수많은 안테나를 집적하고 전파를 특정 방향으로 송·수신하는 고도의 빔포밍(Beamforming) 기술이 요구된다.\n초고속 통신을 위해서는 더 세밀한 RFIC(무선주파수 집적회로)의 회로 제작도 필요하다.\n삼성리서치와 삼성리서치 아메리카(SRA), UCSB 연구진은 최근 개최된 IEEE(국제전기전자공학회) 국제통신회의(ICC 2021) 테라헤르츠 통신 워크샵에서 삼성전자의 테라헤르츠 대역인 140 GHz를 활용해 송신기와 수신기가 15m 떨어진 거리에서 6.2 Gbps(초당 기가비트)의 데이터 전송 속도를 확보·시연했다고 발표했다.\n테라헤르츠 대역의 시연은 RFIC 또는 모뎀 역할을 하는 계측 장비와 안테나만을 이용해 데이터를 전송하는 방식이었으나 삼성전자와 UCSB 연구진은 RFIC, 안테나, 베이스밴드 모뎀까지 통합해 실시간 전송 시연에 성공했다.\n6G 상용화를 위해 해결해야 할 테라헤르츠 대역의 높은 경로 손실과 낮은 전력 효율 등 기술적 난제 극복에 의미 있는 진전을 이룬 것이다.\n최성현 삼성리서치 차세대통신연구센터장(전무)은 \\\"테라헤르츠 대역이 6G 주요 주파수 대역으로 활용될 것으로 보고 있다\\\"며 \\\"이번 시연은 이의 상용화 실현 가능성을 보여주는 중요한 이정표\\\"라고 말했다.\n6G가 상용화되면 모바일 단말에서도 몰입형 XR(eXtended Reality)이나 홀로그램 서비스를 이용할 수 있다.\n위성 통신이나 도심 항공 모빌리티까지 이동통신 기술이 확장될 것으로 예상된다.\n삼성전자는 지난해 '6G 백서'를 공개하는 등 6G 기술 연구를 본격화해 글로벌 표준화와 기술개발 생태계를 주도적으로 이끌어 갈 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자는 미국 샌타바버라 캘리포니아 주립대(UCSB)와 6G(6세대 이동통신) 테라헤르츠(THz) 대역에서 통신 시스템 시연에 성공했다고 16일 밝혔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "테라헤르츠 대역은 100GHz~10 THz 사이의 주파수를 의미한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "일반적으로 주파수 대역이 올라갈수록 넓은 통신 대역폭을 사용할 수 있어 6G에서 요구하는 초고속 통신에 적합하다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "테라헤르츠 대역은 특히 5G(이론상 최고 20Gbps)보다 최대 50배 빠른 1Tbps(1초에 1조 비트를 전송하는 속도)를 목표로 하는 6G 통신의 후보 주파수 대역으로 꼽힌다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 높은 주파수 대역일수록 전파 특성상 경로 손실이 크고 전파 도달 거리가 짧아지는 문제가 있어 통신 시스템 내에 수많은 안테나를 집적하고 전파를 특정 방향으로 송·수신하는 고도의 빔포밍(Beamforming) 기술이 요구된다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "초고속 통신을 위해서는 더 세밀한 RFIC(무선주파수 집적회로)의 회로 제작도 필요하다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성리서치와 삼성리서치 아메리카(SRA), UCSB 연구진은 최근 개최된 IEEE(국제전기전자공학회) 국제통신회의(ICC 2021) 테라헤르츠 통신 워크샵에서 삼성전자의 테라헤르츠 대역인 140 GHz를 활용해 송신기와 수신기가 15m 떨어진 거리에서 6.2 Gbps(초당 기가비트)의 데이터 전송 속도를 확보·시연했다고 발표했다.",
+				"sentenceSize": 185
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "테라헤르츠 대역의 시연은 RFIC 또는 모뎀 역할을 하는 계측 장비와 안테나만을 이용해 데이터를 전송하는 방식이었으나 삼성전자와 UCSB 연구진은 RFIC, 안테나, 베이스밴드 모뎀까지 통합해 실시간 전송 시연에 성공했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "6G 상용화를 위해 해결해야 할 테라헤르츠 대역의 높은 경로 손실과 낮은 전력 효율 등 기술적 난제 극복에 의미 있는 진전을 이룬 것이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "최성현 삼성리서치 차세대통신연구센터장(전무)은 \\\"테라헤르츠 대역이 6G 주요 주파수 대역으로 활용될 것으로 보고 있다\\\"며 \\\"이번 시연은 이의 상용화 실현 가능성을 보여주는 중요한 이정표\\\"라고 말했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "6G가 상용화되면 모바일 단말에서도 몰입형 XR(eXtended Reality)이나 홀로그램 서비스를 이용할 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "위성 통신이나 도심 항공 모빌리티까지 이동통신 기술이 확장될 것으로 예상된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "삼성전자는 지난해 '6G 백서'를 공개하는 등 6G 기술 연구를 본격화해 글로벌 표준화와 기술개발 생태계를 주도적으로 이끌어 갈 계획이다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자, 6G THz대역 무선통신 시연 \\\"상용화 이정표\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

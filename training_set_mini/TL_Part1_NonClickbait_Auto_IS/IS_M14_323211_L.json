@@ -1,0 +1,276 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323211",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "한국 이메일·비밀번호 1만7000건 인터넷에 무방비 노출",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 자료 공유 사이트 '패스트빈'에 한국 이메일 주소와 비밀번호 1만7000개가 무방비로 노출됐다.\n해당 자료는 누구나 쉽게 접근이 가능하고, 이미 수천 건이 조회됐다.\n해당 자료가 다른 사이버 공격 등 2차 피해로 이어질 수 있어 대책 마련이 시급하다.\n4일 보안업계는 지난 2일 패스트빈에 올라온 1만7000개 한국 이메일 주소와 비밀번호를 확인했다고 밝혔다.\n해당 내용은 한국인터넷진흥원(KISA)에 신고했다.\n패스트빈은 해외 사이트여서 공개된 내용을 즉시 삭제하는 건 어렵다.\nKISA 관계자는 “패스트빈에 자료 삭제를 요청했다”면서 “해외 사이트여서 시간이 걸린다”고 설명했다.\n전자신문이 패스트빈에서 정보를 확인한 결과 검색만 할 줄 알면 1만7000개 자료를 그대로 내려 받을 수 있다.\n유출된 이메일 주소 상당수는 네이버, 다음, 네이트 등 국내 포털 계정과 비밀번호다. 'go.kr'로 끝나는 정부·공공기관 이메일 주소 27건도 포함됐다.\n서울교육청, 법원, 경기도청, 마포구청 등 계정이다.\n정부 공공기관은 피싱 공격 등 표적이 돼 이메일 공개를 꺼린다.\n인터넷 사이트에 이메일 계정과 비밀번호까지 올라와 2차 피해가 예상된다.\n네이버, 다음 등 다른 계정도 마찬가지다.\n한 보안 전문가는 “1만7000건에 이르는 이메일과 비밀번호가 인터넷에 무방비로 유출된 건 처음”이라면서 “아무나 내려 받을 수 있어 악성코드가 담긴 이메일 공격이나 스팸, 부정 로그인 등에 이용할 수 있다”고 말했다.\n해커가 공개된 정보를 활용하면 다른 인터넷 서비스 공격이 가능하다.\n올해 발생한 우리은행 부정 로그인 사고와 유사한 형태다.\n우리은행은 6월 말 대량 부정 로그인 시도가 발생했다.\n약 75만회에 걸쳐 인터넷 뱅킹 접속 시도가 발생했고 이중 5만6000여회가 로그인에 성공했다.\n어디서 유출됐는 지 모르는 정보가 우리은행 공격에 쓰였다.\n이용자는 같은 ID와 비밀번호를 각종 인터넷 서비스에 쓴다.\n이메일 계정에 쓴 문자를 ID로 이용한다.\n비밀번호도 마찬가지다.\n이번에 유출된 자료는 이메일 계정 주소와 비밀번호다.\n해커는 계정 앞 문자를 ID로 사용해 인터넷뱅킹이나 각종 서비스에 로그인할 수 있다.\n중국에서는 유출된 정보를 수집해 실제로 로그인되는 계정만 판매하는 사례가 많다.\n어디서 유출된 지 모르는 개인정보(막 DB)를 확보, 실제 작동하는 계정을 추려 낸 후 재판매한다.\n패스트빈 자료가 이런 경로로 다시 중국 암시장에서 유출될 가능성이 있다.\n보안 전문가는 “패스트빈에 올라온 자료가 실제 인터넷 서비스에서 작동하는지 확인하는 게 정보통신망법 위반 행위”라면서 “해당 정보를 올린 사람 계정을 살펴보니 여러 곳에서 수집하고 있는 것으로 보인다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 28,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 자료 공유 사이트 '패스트빈'에 한국 이메일 주소와 비밀번호 1만7000개가 무방비로 노출됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해당 자료는 누구나 쉽게 접근이 가능하고, 이미 수천 건이 조회됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 자료가 다른 사이버 공격 등 2차 피해로 이어질 수 있어 대책 마련이 시급하다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "4일 보안업계는 지난 2일 패스트빈에 올라온 1만7000개 한국 이메일 주소와 비밀번호를 확인했다고 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 내용은 한국인터넷진흥원(KISA)에 신고했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "패스트빈은 해외 사이트여서 공개된 내용을 즉시 삭제하는 건 어렵다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KISA 관계자는 “패스트빈에 자료 삭제를 요청했다”면서 “해외 사이트여서 시간이 걸린다”고 설명했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전자신문이 패스트빈에서 정보를 확인한 결과 검색만 할 줄 알면 1만7000개 자료를 그대로 내려 받을 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "유출된 이메일 주소 상당수는 네이버, 다음, 네이트 등 국내 포털 계정과 비밀번호다. 'go.kr'로 끝나는 정부·공공기관 이메일 주소 27건도 포함됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "서울교육청, 법원, 경기도청, 마포구청 등 계정이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "정부 공공기관은 피싱 공격 등 표적이 돼 이메일 공개를 꺼린다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "인터넷 사이트에 이메일 계정과 비밀번호까지 올라와 2차 피해가 예상된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "네이버, 다음 등 다른 계정도 마찬가지다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한 보안 전문가는 “1만7000건에 이르는 이메일과 비밀번호가 인터넷에 무방비로 유출된 건 처음”이라면서 “아무나 내려 받을 수 있어 악성코드가 담긴 이메일 공격이나 스팸, 부정 로그인 등에 이용할 수 있다”고 말했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "해커가 공개된 정보를 활용하면 다른 인터넷 서비스 공격이 가능하다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "올해 발생한 우리은행 부정 로그인 사고와 유사한 형태다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "우리은행은 6월 말 대량 부정 로그인 시도가 발생했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "약 75만회에 걸쳐 인터넷 뱅킹 접속 시도가 발생했고 이중 5만6000여회가 로그인에 성공했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "어디서 유출됐는 지 모르는 정보가 우리은행 공격에 쓰였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이용자는 같은 ID와 비밀번호를 각종 인터넷 서비스에 쓴다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이메일 계정에 쓴 문자를 ID로 이용한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "비밀번호도 마찬가지다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이번에 유출된 자료는 이메일 계정 주소와 비밀번호다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "해커는 계정 앞 문자를 ID로 사용해 인터넷뱅킹이나 각종 서비스에 로그인할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "중국에서는 유출된 정보를 수집해 실제로 로그인되는 계정만 판매하는 사례가 많다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "어디서 유출된 지 모르는 개인정보(막 DB)를 확보, 실제 작동하는 계정을 추려 낸 후 재판매한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "패스트빈 자료가 이런 경로로 다시 중국 암시장에서 유출될 가능성이 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "보안 전문가는 “패스트빈에 올라온 자료가 실제 인터넷 서비스에서 작동하는지 확인하는 게 정보통신망법 위반 행위”라면서 “해당 정보를 올린 사람 계정을 살펴보니 여러 곳에서 수집하고 있는 것으로 보인다”고 말했다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국 이메일·비밀번호 1만7000건 인터넷에 무방비 노출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

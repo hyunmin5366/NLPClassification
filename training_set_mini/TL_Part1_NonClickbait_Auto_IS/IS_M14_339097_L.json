@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339097",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "애플 '리퍼비시 애플워치3' 판매 개시… 새 제품보다 13~15% 저렴",
+		"newsSubTitle": "",
+		"newsContent": "애플이 리퍼비시(Refurbished) 애플워치 시리즈3를 새 제품보다 최대 15% 저렴한 가격에 판매한다.\n미국 정보기술(IT) 전문매체 맥루머스에 따르면, 애플은 미국 공식 홈페이지에서 리퍼비시 애플워치 시리즈3 두 가지 모델 판매를 개시했다.\n리퍼비시는 기능상 문제나 단순변심에 의해 반품된 제품을 새 것처럼 정비해 정가보다 저렴하게 판매하는 제품이다.\n맥루머스는 \\\"애플의 모든 리퍼비시 제품은 검사, 수리, 세척, 재포장 등 엄격한 처리 과정을 거친다\\\"고 소개했다.\n애플이 판매하는 리퍼비시 애플워치 시리즈3는 △애플워치 시리즈3 GPS 42㎜ 스페이스 그레이 알루미늄 케이스와 블랙 스포츠 밴드 △애플워치 시리즈3 GPS 38㎜ 골드 알루미늄 케이스와 핑크 샌드 스포츠밴드다.\n애플은 두 제품 가격을 각각 309달러(약 33만원)와 279달러(약 30만원)로 책정, 새 제품보다 모두 50달러씩 할인했다.\n품질 보증 기간은 1년이다.\n우리나라에는 리퍼비시 애플워치 시리즈3를 출시하지 않았으며, 두 제품 판매가격은 42만9000원~46만9000원이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 리퍼비시(Refurbished) 애플워치 시리즈3를 새 제품보다 최대 15% 저렴한 가격에 판매한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 정보기술(IT) 전문매체 맥루머스에 따르면, 애플은 미국 공식 홈페이지에서 리퍼비시 애플워치 시리즈3 두 가지 모델 판매를 개시했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "리퍼비시는 기능상 문제나 단순변심에 의해 반품된 제품을 새 것처럼 정비해 정가보다 저렴하게 판매하는 제품이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "맥루머스는 \\\"애플의 모든 리퍼비시 제품은 검사, 수리, 세척, 재포장 등 엄격한 처리 과정을 거친다\\\"고 소개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플이 판매하는 리퍼비시 애플워치 시리즈3는 △애플워치 시리즈3 GPS 42㎜ 스페이스 그레이 알루미늄 케이스와 블랙 스포츠 밴드 △애플워치 시리즈3 GPS 38㎜ 골드 알루미늄 케이스와 핑크 샌드 스포츠밴드다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "애플은 두 제품 가격을 각각 309달러(약 33만원)와 279달러(약 30만원)로 책정, 새 제품보다 모두 50달러씩 할인했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "품질 보증 기간은 1년이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "우리나라에는 리퍼비시 애플워치 시리즈3를 출시하지 않았으며, 두 제품 판매가격은 42만9000원~46만9000원이다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플 '리퍼비시 애플워치3' 판매 개시… 새 제품보다 13~15% 저렴",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

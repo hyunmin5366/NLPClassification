@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354482",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT, 소상공인에 최대 500만원 보장 보험 무료 제공",
+		"newsSubTitle": "null",
+		"newsContent": "KT는 빅데이터 상권분석 플랫폼 'KT 잘나가게' 회원을 대상으로 사이버 금융범죄 보장 보험을 무료로 제공한다고 27일 밝혔다.\nKT 잘나가게는 상권정보와 매출정보, 유동인구, 배달수요 등 영업에 도움이 되는 빅데이터를 분석해 창업자와 예비 창업자에게 인사이트를 제공하는 KT 상권분석 플랫폼이다.\n현재는 많은 소상공인들이 쉽게 접근할 수 있도록 통신사 구분 없이 무료로 서비스를 제공하고 있다.\nKT 잘나가게가 이번에 회원 대상으로 제공하는 보험은 한화손해보험 사이버금융범죄 500만원 보장 보험이다.\n가입 고객이 피싱이나 스미싱 또는 메모리 해킹 등에 따른 부당인출이나 결제 피해를 입을 경우 자기부담금 10%만 부담하면 최대 500만원까지 보상받는다.\n신청은 내달 30일까지 '잘나가게' 홈페이지 이벤트 페이지 팝업 화면을 통해 받는다.\n선착순 3000명 한정이다.\nKT 잘나가게의 기존 고객이 아니어도 간단한 회원 가입을 마치면 누구나 신청할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT는 빅데이터 상권분석 플랫폼 'KT 잘나가게' 회원을 대상으로 사이버 금융범죄 보장 보험을 무료로 제공한다고 27일 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT 잘나가게는 상권정보와 매출정보, 유동인구, 배달수요 등 영업에 도움이 되는 빅데이터를 분석해 창업자와 예비 창업자에게 인사이트를 제공하는 KT 상권분석 플랫폼이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재는 많은 소상공인들이 쉽게 접근할 수 있도록 통신사 구분 없이 무료로 서비스를 제공하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KT 잘나가게가 이번에 회원 대상으로 제공하는 보험은 한화손해보험 사이버금융범죄 500만원 보장 보험이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가입 고객이 피싱이나 스미싱 또는 메모리 해킹 등에 따른 부당인출이나 결제 피해를 입을 경우 자기부담금 10%만 부담하면 최대 500만원까지 보상받는다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신청은 내달 30일까지 '잘나가게' 홈페이지 이벤트 페이지 팝업 화면을 통해 받는다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "선착순 3000명 한정이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "KT 잘나가게의 기존 고객이 아니어도 간단한 회원 가입을 마치면 누구나 신청할 수 있다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 소상공인에 최대 500만원 보장 보험 무료 제공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

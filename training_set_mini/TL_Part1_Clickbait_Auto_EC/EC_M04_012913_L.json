@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012913",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "힘빠진 코스피 2000선 반납…전일比 13.08P↓…",
+		"newsSubTitle": "나흘만에 하락",
+		"newsContent": "코스피 지수가 4거래일 만에 2000선을 반납했다.\n5일 코스피 지수는 전일 대비 13.08포인트(0.65%) 내린 1995.48에 장을 마쳤다.\n이날 코스피는 장 막판 외국인이 순매수를 돌아섰지만, 오전 기관과 외국인투자자가 동시에 순매도 한계에 부딪히며 2000선 밑으로 떨어졌다.\n투자 주체별로는 기관이 2657억원을 매도했으며, 개인과 외국인이 각각 1900억원, 657억원을 순매수를 기록했다.\n코스닥 지수는 전거래일대비 8.16포인트(1.54%) 떨어진 523.12를 기록했다.\n주체별로는 개인과 외구긴이 각각 292억원, 22억원 순매수를 기록했고, 기관은 324억원 순매도했다.\n한편, 서울 외환시장에서 원·달러 환율은 전일보다 2.60원 내린 1020.50원에 마감했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피 지수가 4거래일 만에 2000선을 반납했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 코스피 지수는 전일 대비 13.08포인트(0.65%) 내린 1995.48에 장을 마쳤다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 코스피는 장 막판 외국인이 순매수를 돌아섰지만, 오전 기관과 외국인투자자가 동시에 순매도 한계에 부딪히며 2000선 밑으로 떨어졌다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "투자 주체별로는 기관이 2657억원을 매도했으며, 개인과 외국인이 각각 1900억원, 657억원을 순매수를 기록했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코스닥 지수는 전거래일대비 8.16포인트(1.54%) 떨어진 523.12를 기록했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주체별로는 개인과 외구긴이 각각 292억원, 22억원 순매수를 기록했고, 기관은 324억원 순매도했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 서울 외환시장에서 원·달러 환율은 전일보다 2.60원 내린 1020.50원에 마감했다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전월세 주인 맘대로 못 올린다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

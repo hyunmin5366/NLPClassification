@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352632",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "과기정통부 \\\"로그4j 실시간 공격정보 C-TAS로 한번에 검색\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "과학기술정보통신부가 사이버위협 정보 분석·공유 시스템(C-TAS 1.0)을 사용자 중심으로 개편(C-TAS 2.0)했다고 23일 밝혔다.\n개편 후엔 기존 C-TAS 참여사 이외에 일반 기업들도 가입만 하면 아파치(Apache) 로그4j(Log4j) 등 실시간 사이버 위협정보를 검색할 수 있게 됐다.\nC-TAS는 2014년부터 한국인터넷진흥원(KISA)이 다양한 사이버 위협 정보를 공유하기 위해 운영하는 플랫폼으로 제조업과 IT(정보통신) 기업 등 328개 회원사가 참여한다.\n과기정통부는 최근 사이버 공격이 기승을 부리면서 회원사 이외 기업들과도 사이버 위협정보와 대응방안을 공유하기 위해 개편해왔다.\n개편 후 가입회원은 크게 일반회원과 공유회원 두 가지로 분류된다.\n일반회원은 문자메시지 등을 통한 실시간 긴급상황과 최신동향, 정보보호최고책임자(CISO), 보안 실무자 별 특성을 반영한 맞춤형 정보 등을 제공받을 수 있다.\n공유회원은 자사 기업정보를 제공하는 회원들로, 자체 탐지시스템 등을 통해 확보된 공격 IP 등 위협정보를 공유한다.\n이들 기업은 C-TAS 2.0에서 신뢰성있는 부가정보와 심층 연관분석(통계·시계열 등) 정보를 제공받고 공동 대응에 나선다.\n과기정통부는 기업의 정보보안 활동을 유도하기 위해 정보보호산업법 일부개정에 따른 개정 가이드라인에도 기업의 '공시항목(기타활동)'에 C-TAS 활동사항을 반영할 계획이다.\n과기정통부 관계자는 \\\"이번 개편을 통해 여력이 부족했던 중소·영세기업 등도 C-TAS에 참여하게 돼 정보보안 사각지대가 줄어들 것으로 기대된다\\\"며 \\\"로그4j 취약점 등 새로운 보안 위협에도 효과적인 대응이 가능할 것\\\"이라고 말했다.\n한편 과기정통부는 아파치 로그4j의 취약점을 노린 공격이 계속 이어질 것으로 전망하고 C-TAS 체계를 통한 장기전에 대비할 계획이다.\n기업 시스템 내의 로그4j 사용 범위가 넓다보니 일선 기업들이 대응에 어려움을 겪고 있어서다.\n과기정통부는 로그4j 취약점을 악용하는 IP와 차단 방법 등을 기업들과 공유하고 협력대응에 나설 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학기술정보통신부가 사이버위협 정보 분석·공유 시스템(C-TAS 1.0)을 사용자 중심으로 개편(C-TAS 2.0)했다고 23일 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "개편 후엔 기존 C-TAS 참여사 이외에 일반 기업들도 가입만 하면 아파치(Apache) 로그4j(Log4j) 등 실시간 사이버 위협정보를 검색할 수 있게 됐다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "C-TAS는 2014년부터 한국인터넷진흥원(KISA)이 다양한 사이버 위협 정보를 공유하기 위해 운영하는 플랫폼으로 제조업과 IT(정보통신) 기업 등 328개 회원사가 참여한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "과기정통부는 최근 사이버 공격이 기승을 부리면서 회원사 이외 기업들과도 사이버 위협정보와 대응방안을 공유하기 위해 개편해왔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개편 후 가입회원은 크게 일반회원과 공유회원 두 가지로 분류된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일반회원은 문자메시지 등을 통한 실시간 긴급상황과 최신동향, 정보보호최고책임자(CISO), 보안 실무자 별 특성을 반영한 맞춤형 정보 등을 제공받을 수 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공유회원은 자사 기업정보를 제공하는 회원들로, 자체 탐지시스템 등을 통해 확보된 공격 IP 등 위협정보를 공유한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이들 기업은 C-TAS 2.0에서 신뢰성있는 부가정보와 심층 연관분석(통계·시계열 등) 정보를 제공받고 공동 대응에 나선다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "과기정통부는 기업의 정보보안 활동을 유도하기 위해 정보보호산업법 일부개정에 따른 개정 가이드라인에도 기업의 '공시항목(기타활동)'에 C-TAS 활동사항을 반영할 계획이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "과기정통부 관계자는 \\\"이번 개편을 통해 여력이 부족했던 중소·영세기업 등도 C-TAS에 참여하게 돼 정보보안 사각지대가 줄어들 것으로 기대된다\\\"며 \\\"로그4j 취약점 등 새로운 보안 위협에도 효과적인 대응이 가능할 것\\\"이라고 말했다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한편 과기정통부는 아파치 로그4j의 취약점을 노린 공격이 계속 이어질 것으로 전망하고 C-TAS 체계를 통한 장기전에 대비할 계획이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기업 시스템 내의 로그4j 사용 범위가 넓다보니 일선 기업들이 대응에 어려움을 겪고 있어서다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "과기정통부는 로그4j 취약점을 악용하는 IP와 차단 방법 등을 기업들과 공유하고 협력대응에 나설 방침이다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "과기정통부 \\\"로그4j 실시간 공격정보 C-TAS로 한번에 검색\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

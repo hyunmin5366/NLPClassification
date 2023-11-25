@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331554",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "권영수 LG유플러스 부회장의 깜짝 선물은?",
+		"newsSubTitle": "",
+		"newsContent": "권영수 LG유플러스 부회장이 새해 첫 달 임직원 전원에게 깜짝 선물을 증정했다.\n권 부회장은 LG유플러스 정규직과 비정규직은 물론 고객센터, 자회사 임직원을 포함 약 1만 5000명에게 인공지능(AI) 스피커 '프렌즈 플러스'를 선물했다.\n권 부회장의 선물은 2015년 말 LG전자 스마트폰 V10 이후 두 번째다.\n프렌즈 플러스는 지난해 12월 LG유플러스가 네이버 AI 플랫폼 클로버를 접목해 선보인 AI스피커다.\n기본 음성지원 AI 스피커 기능은 물론이고 주문형비디오(VoD) 연동과 홈 사물인터넷(IoT) 제어 모두 가능하다.\n가격은 12만9000원이다.\n권 부회장은 LG유플러스가 AI 스피커를 처음 선보이는 만큼 임직원이 기능과 서비스를 경험해야 한다고 판단했다.\n권 부회장은 임직원에게 \\\"잘 써보고, 널리 알려 달라\\\"는 메시지를 전달했다.\nLG유플러스 관계자는 \\\"원하는 모델을 신청하고 받았다\\\"며 \\\"정말 기대하지 못했던 깜짝 선물이었다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "권영수 LG유플러스 부회장이 새해 첫 달 임직원 전원에게 깜짝 선물을 증정했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "권 부회장은 LG유플러스 정규직과 비정규직은 물론 고객센터, 자회사 임직원을 포함 약 1만 5000명에게 인공지능(AI) 스피커 '프렌즈 플러스'를 선물했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "권 부회장의 선물은 2015년 말 LG전자 스마트폰 V10 이후 두 번째다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "프렌즈 플러스는 지난해 12월 LG유플러스가 네이버 AI 플랫폼 클로버를 접목해 선보인 AI스피커다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기본 음성지원 AI 스피커 기능은 물론이고 주문형비디오(VoD) 연동과 홈 사물인터넷(IoT) 제어 모두 가능하다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가격은 12만9000원이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "권 부회장은 LG유플러스가 AI 스피커를 처음 선보이는 만큼 임직원이 기능과 서비스를 경험해야 한다고 판단했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "권 부회장은 임직원에게 \\\"잘 써보고, 널리 알려 달라\\\"는 메시지를 전달했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "LG유플러스 관계자는 \\\"원하는 모델을 신청하고 받았다\\\"며 \\\"정말 기대하지 못했던 깜짝 선물이었다\\\"고 말했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "권영수 LG유플러스 부회장의 깜짝 선물은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

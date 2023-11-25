@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013851",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "행복도시 이마트 5일 개장… 시내 두번째 대형마트",
+		"newsSubTitle": "",
+		"newsContent": "행정중심복합도시 내 두번째 대형마트가 5일 시민들을 맞이한다.\n행복도시건설청은 이날 개장을 앞둔 이마트 오픈 준비 사항을 설명했다.\n이마트는 한솔동 첫마을 6단지 인근에 둥지를 틀고, 연면적 3만2000㎡ 부지에 건축면적 1만234㎡에 지하1층~지상4층 규모로 완공됐다.\n지하 1층은 기계실로 배치하고, 지상 1~2층은 영업·임대매장, 3층 일부와 4층 및 옥상은 주차장(614대)으로 편성했다.\n대전 방면에서는 대전~세종 연결도로를 따라 금강1교(학나래교) 아래로 진입하면 되고, 공주 및 조치원 주민들의 접근도 용이하다.\n행복청은 장래 교통량 증가 및 지·정체 발생 우려를 고려, 학나래교 아래 연결로를 2차로로 확장하는 공사를 진행 중이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "행정중심복합도시 내 두번째 대형마트가 5일 시민들을 맞이한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "행복도시건설청은 이날 개장을 앞둔 이마트 오픈 준비 사항을 설명했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이마트는 한솔동 첫마을 6단지 인근에 둥지를 틀고, 연면적 3만2000㎡ 부지에 건축면적 1만234㎡에 지하1층~지상4층 규모로 완공됐다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지하 1층은 기계실로 배치하고, 지상 1~2층은 영업·임대매장, 3층 일부와 4층 및 옥상은 주차장(614대)으로 편성했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대전 방면에서는 대전~세종 연결도로를 따라 금강1교(학나래교) 아래로 진입하면 되고, 공주 및 조치원 주민들의 접근도 용이하다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "행복청은 장래 교통량 증가 및 지·정체 발생 우려를 고려, 학나래교 아래 연결로를 2차로로 확장하는 공사를 진행 중이다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한화솔루션, 유상증자 '탄탄대로'...우리사주조합 청약률 106%",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324159",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[이슈분석]데이터 품질·활용 좌우하는 LOD(Linked Open Data)",
+		"newsSubTitle": "",
+		"newsContent": "'링크드오픈데이터(LOD)'는 공개된 데이터를 주제에 맞춰 연결한 데이터를 말한다.\n공공데이터 활용도를 높인다는 점에서 주목받는다.\nLOD는 △통합 자원 식별자(URI) 사용 △RDF나 스파클 등 표준 사용 △풍부한 링크 정도 등 주요 원칙을 따라야 한다.\n공개된 데이터를 무작정 연결하기 어렵기 때문이다.\n일정 양식에 맞춰 데이터를 가공해야 LOD를 통한 데이터 단계조정이 가능하다.\n효율적 LOD 구축을 위해 다양한 글로벌 프로젝트가 진행 중이다. 'LOD2' 프로젝트는 LOD관련 기술을 정의하고 개념을 체계적으로 분류했다.\n상용 서비스 개발과 검증을 시도했다는 점에서 기존 LOD 프로젝트보다 진일보한 사례로 평가받는다. 'DaPaaS' 프로젝트는 LOD 발행을 돕는 도구 개발을 목표로 '데이터크래프트'를 개발했다.\n이는 테이블 형태 데이터를 링크드 데이터로 변환하고 플랫폼에서 서비스하도록 도와준다.\nLOD가 적용된 대표 분야가 인공지능(AI)이다.\nIBM 왓슨은 질의응답 프로그램 기반 기술로 LOD를 활용했다.\n방대한 양의 LOD가 왓슨 지식 소스로 사용된다.\n구글 지식 그래프와 나우 서비스도 디비피디아, 위키피디아 등 다양한 LOD를 지식 기반으로 사용한다.\nLOD는 AI, 빅데이터 등 데이터 기반 서비스 품질을 높여준다.\n기존 개별 데이터를 하나의 데이터 세트로 만들어 데이터 활용도를 높인다.\n국내도 공공데이터 개방 정책 이후 LOD 관심이 높아졌다.\n국토지리정보원의 지리인문정보, 국립중앙도서관 국가서지, 특허청 산업재산권 등 LOD가 구축됐다.\n이 가운데 산업재산권 LOD는 아시아 최대 규모 LOD 구축 사례로 주목받았다.\n국내 LOD 관심은 높아졌지만 사례 발굴, 전파 등은 더디다.\n공공데이터 활용도를 높이기 위해 LOD 구축과 투자에 소홀해선 안 된다는 지적이다.\n오픈데이터 전문기관인 ODI(오픈데이터인스티튜트) 한국 사무소 관계자는 \\\"세계적으로 오픈데이터가 경제적, 사회적으로 어떤 효과를 가져 올지 관심이 많다\\\"면서 \\\"데이터 개방뿐 아니라 LOD처럼 데이터 활용에 주력해야 신규 서비스와 스타트업을 육성하는 발판을 만들 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'링크드오픈데이터(LOD)'는 공개된 데이터를 주제에 맞춰 연결한 데이터를 말한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공공데이터 활용도를 높인다는 점에서 주목받는다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LOD는 △통합 자원 식별자(URI) 사용 △RDF나 스파클 등 표준 사용 △풍부한 링크 정도 등 주요 원칙을 따라야 한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 데이터를 무작정 연결하기 어렵기 때문이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일정 양식에 맞춰 데이터를 가공해야 LOD를 통한 데이터 단계조정이 가능하다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "효율적 LOD 구축을 위해 다양한 글로벌 프로젝트가 진행 중이다. 'LOD2' 프로젝트는 LOD관련 기술을 정의하고 개념을 체계적으로 분류했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "상용 서비스 개발과 검증을 시도했다는 점에서 기존 LOD 프로젝트보다 진일보한 사례로 평가받는다. 'DaPaaS' 프로젝트는 LOD 발행을 돕는 도구 개발을 목표로 '데이터크래프트'를 개발했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이는 테이블 형태 데이터를 링크드 데이터로 변환하고 플랫폼에서 서비스하도록 도와준다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "LOD가 적용된 대표 분야가 인공지능(AI)이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "IBM 왓슨은 질의응답 프로그램 기반 기술로 LOD를 활용했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "방대한 양의 LOD가 왓슨 지식 소스로 사용된다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "구글 지식 그래프와 나우 서비스도 디비피디아, 위키피디아 등 다양한 LOD를 지식 기반으로 사용한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "LOD는 AI, 빅데이터 등 데이터 기반 서비스 품질을 높여준다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "기존 개별 데이터를 하나의 데이터 세트로 만들어 데이터 활용도를 높인다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "국내도 공공데이터 개방 정책 이후 LOD 관심이 높아졌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "국토지리정보원의 지리인문정보, 국립중앙도서관 국가서지, 특허청 산업재산권 등 LOD가 구축됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이 가운데 산업재산권 LOD는 아시아 최대 규모 LOD 구축 사례로 주목받았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "국내 LOD 관심은 높아졌지만 사례 발굴, 전파 등은 더디다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "공공데이터 활용도를 높이기 위해 LOD 구축과 투자에 소홀해선 안 된다는 지적이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "오픈데이터 전문기관인 ODI(오픈데이터인스티튜트) 한국 사무소 관계자는 \\\"세계적으로 오픈데이터가 경제적, 사회적으로 어떤 효과를 가져 올지 관심이 많다\\\"면서 \\\"데이터 개방뿐 아니라 LOD처럼 데이터 활용에 주력해야 신규 서비스와 스타트업을 육성하는 발판을 만들 것\\\"이라고 말했다.",
+				"sentenceSize": 160
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]데이터 품질·활용 좌우하는 LOD(Linked Open Data)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354825",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "뒤늦게 인앱법 따르겠다는 애플…외부결제 '아웃링크'는 \\\"글쎄?\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "애플이 지난해 국회를 통과한 '인앱결제 강제 방지법'에 따라 외부 결제를 허용하겠다는 입장을 밝혔다.\n한국에 한정해 새 앱마켓 정책을 도입하겠다는 것이다.\n그러나, 애플의 새 정책이 법을 우회하는지 여부에 대한 확인은 필요할 것으로 보인다.\n이에 방송통신위원회는 애플의 새 정책이 법을 준수하는지 점검할 계획이다.\n애플은 30일 자사 홈페이지에 \\\"최근 대한민국의 전기통신사업법 규정은 대한민국에서 앱 마켓 사업자에 의해 배포되는 앱이 앱 내에서 대체 결제 처리 옵션을 제공하도록 허용되어야 한다고 수정됐다\\\"며 \\\"해당 법률에 따라 개발자는 '외부 구입 권한(StoreKit External Purchase Entitlement)'을 사용할 수 있다\\\"고 공지했다.\n해당 정책은 한국에서만 시행되며, 외부 구입 권한을 사용하고 싶은 개발자는 애플 측에 '사용 권한 요청 양식'을 제출해야 한다.\n일명 '인앱결제 강제 방지법'이라 불리는 이 법은 앱마켓 사업자가 앱 개발사에 특정 결제 방식을 강요하지 못하도록 하는 내용을 골자로 한다.\n공지에 따르면 애플 앱스토어에 등록된 앱은 외부 결제 시스템을 도입할 수 있게 된다.\n다만, 애플이 제공하는 외부 결제가 국내법을 준수하는지 여부는 추가 확인이 필요해 보인다.\n구글의 '개발자 제공 인앱결제'와 같이 인앱결제 시스템 내에 제3자 결제시스템을 허용하는 등 법을 우회하는 방식일 가능성을 배제할 수 없기 때문이다.\n영문 공지에 따르면 '외부 구입 권한'을 사용하기 위해 외부 결제 처리 정보를 등록하는 과정에서 '사전에 승인된 결제 서비스 제공업체'를 선택해 한국 스토어를 통해 인앱 구매를 처리하라고 명시돼 있는 등 해석에 다소 모호한 부분이 남아있다.\n사전에 승인되지 않은 결제 서비스를 선택할 경우 요청이 \\\"지연되거나 거부될 수 있다\\\"는 내용도 있다.\n외부 결제로 연결되는 아웃링크에 대한 언급도 없다.\n앞서 애플은 제3자 결제 수수료를 인앱결제보다 4%p(포인트) 인하한다는 이행계획을 제출한 바 있다.\n구글의 '개발자 제공 인앱결제'도 이와 동일한 4%p 할인률을 채택하고 있다.\n주무 부처인 방통위는 애플의 제3자 결제 허용 방식이 국내법에 부합하는지 구체적인 점검에 나설 계획이다.\n전혜선 방통위 통신시장조사과장은 \\\"현재 애플에 자료를 요청한 상태\\\"라며 \\\"서둘러 점검하려고 하고 있다\\\"고 했다.\n전 과장은 이어 \\\"법이 바뀌고 방통위와 애플이 지속적으로 협의한 결과물\\\"이라며 \\\"한발 더 나아가 개발자에게 선택권을 부여한 것이라 생각한다\\\"고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 지난해 국회를 통과한 '인앱결제 강제 방지법'에 따라 외부 결제를 허용하겠다는 입장을 밝혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국에 한정해 새 앱마켓 정책을 도입하겠다는 것이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러나, 애플의 새 정책이 법을 우회하는지 여부에 대한 확인은 필요할 것으로 보인다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 방송통신위원회는 애플의 새 정책이 법을 준수하는지 점검할 계획이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플은 30일 자사 홈페이지에 \\\"최근 대한민국의 전기통신사업법 규정은 대한민국에서 앱 마켓 사업자에 의해 배포되는 앱이 앱 내에서 대체 결제 처리 옵션을 제공하도록 허용되어야 한다고 수정됐다\\\"며 \\\"해당 법률에 따라 개발자는 '외부 구입 권한(StoreKit External Purchase Entitlement)'을 사용할 수 있다\\\"고 공지했다.",
+				"sentenceSize": 197
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 정책은 한국에서만 시행되며, 외부 구입 권한을 사용하고 싶은 개발자는 애플 측에 '사용 권한 요청 양식'을 제출해야 한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일명 '인앱결제 강제 방지법'이라 불리는 이 법은 앱마켓 사업자가 앱 개발사에 특정 결제 방식을 강요하지 못하도록 하는 내용을 골자로 한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공지에 따르면 애플 앱스토어에 등록된 앱은 외부 결제 시스템을 도입할 수 있게 된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "다만, 애플이 제공하는 외부 결제가 국내법을 준수하는지 여부는 추가 확인이 필요해 보인다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "구글의 '개발자 제공 인앱결제'와 같이 인앱결제 시스템 내에 제3자 결제시스템을 허용하는 등 법을 우회하는 방식일 가능성을 배제할 수 없기 때문이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "영문 공지에 따르면 '외부 구입 권한'을 사용하기 위해 외부 결제 처리 정보를 등록하는 과정에서 '사전에 승인된 결제 서비스 제공업체'를 선택해 한국 스토어를 통해 인앱 구매를 처리하라고 명시돼 있는 등 해석에 다소 모호한 부분이 남아있다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "사전에 승인되지 않은 결제 서비스를 선택할 경우 요청이 \\\"지연되거나 거부될 수 있다\\\"는 내용도 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "외부 결제로 연결되는 아웃링크에 대한 언급도 없다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "앞서 애플은 제3자 결제 수수료를 인앱결제보다 4%p(포인트) 인하한다는 이행계획을 제출한 바 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "구글의 '개발자 제공 인앱결제'도 이와 동일한 4%p 할인률을 채택하고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "주무 부처인 방통위는 애플의 제3자 결제 허용 방식이 국내법에 부합하는지 구체적인 점검에 나설 계획이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "전혜선 방통위 통신시장조사과장은 \\\"현재 애플에 자료를 요청한 상태\\\"라며 \\\"서둘러 점검하려고 하고 있다\\\"고 했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "전 과장은 이어 \\\"법이 바뀌고 방통위와 애플이 지속적으로 협의한 결과물\\\"이라며 \\\"한발 더 나아가 개발자에게 선택권을 부여한 것이라 생각한다\\\"고 강조했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "뒤늦게 인앱법 따르겠다는 애플…외부결제 '아웃링크'는 \\\"글쎄?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338252",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "인터넷나야나, 해커와 2차 거래 중...복호화 키 작동 여부 확인에 시간 걸려",
+		"newsSubTitle": "",
+		"newsContent": "랜섬웨어 공격을 당한 웹호스팅 업체 '인터넷나야나'가 해커와 2차 거래에 나섰다.\n1차 거래에서 받은 복호화 키 작동 여부를 확인하느라 당초 예상보다 거래가 늦어졌다.\n황칠홍 인터넷나야나 대표는 16일 오전 \\\"2차 거래에 사용할 서버 리스트를 확인했고, 해커에게 비트코인을 송금할 예정\\\"이라면서 \\\"서버 리스트가 중복되지 않게 확인하는 절차가 필요하다\\\"고 말했다.\n인터넷나야나는 총 3번 해커와 거래를 시도한다.\n각 거래마다 50개씩 서버 리스트를 공유하고, 복호화 키를 받아 작동 여부를 확인한다.\n애초 15일까지 해커와 3차 거래까지 끝낼 예정이었다.\n하지만 1차 거래에서 받은 복호화 키∙서버 리스트 중복 여부 확인에 시간이 걸려 거래가 당초 예상보다 늦어졌다.\n인터넷나야나는 해커가 '가짜' 복호화 키를 줄 수도 있기 때문에 매 거래가 끝날 때마다 받은 복호화 키를 일일이 확인할 예정이다.\n인터넷나야나는 오늘 안으로 2, 3차 거래를 시도하고 협상을 완료한다는 방침이다.\n해커가 가짜 '복호화' 키를 제공하지만 않는다면 늦어도 주말까지는 거래가 완료될 것으로 보인다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "랜섬웨어 공격을 당한 웹호스팅 업체 '인터넷나야나'가 해커와 2차 거래에 나섰다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1차 거래에서 받은 복호화 키 작동 여부를 확인하느라 당초 예상보다 거래가 늦어졌다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "황칠홍 인터넷나야나 대표는 16일 오전 \\\"2차 거래에 사용할 서버 리스트를 확인했고, 해커에게 비트코인을 송금할 예정\\\"이라면서 \\\"서버 리스트가 중복되지 않게 확인하는 절차가 필요하다\\\"고 말했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인터넷나야나는 총 3번 해커와 거래를 시도한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "각 거래마다 50개씩 서버 리스트를 공유하고, 복호화 키를 받아 작동 여부를 확인한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "애초 15일까지 해커와 3차 거래까지 끝낼 예정이었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 1차 거래에서 받은 복호화 키∙서버 리스트 중복 여부 확인에 시간이 걸려 거래가 당초 예상보다 늦어졌다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인터넷나야나는 해커가 '가짜' 복호화 키를 줄 수도 있기 때문에 매 거래가 끝날 때마다 받은 복호화 키를 일일이 확인할 예정이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "인터넷나야나는 오늘 안으로 2, 3차 거래를 시도하고 협상을 완료한다는 방침이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "해커가 가짜 '복호화' 키를 제공하지만 않는다면 늦어도 주말까지는 거래가 완료될 것으로 보인다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인터넷나야나, 해커와 2차 거래 중...복호화 키 작동 여부 확인에 시간 걸려",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

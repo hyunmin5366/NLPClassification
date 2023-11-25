@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335112",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "北 라자루스, 해킹 위해 가짜 SW회사 만들어",
+		"newsSubTitle": "",
+		"newsContent": "북한 해킹 조직 라자루스가 가짜 소프트웨어 기업을 만들어 암호화폐거래소 사이버 공격에 악용했다.\n악성 활동을 하는 암호화폐 거래 프로그램을 만들어 배포했다.\n카스퍼스키랩은 20일 캄보디아 시엠레아프에서 '사이버 위크 2018'을 열고 아시아태평양지역을 위협하는 사이버공격 사례를 발표했다.\n박성수 카스퍼스키랩 글로벌 위협연구분석팀 연구원은 “라자루스가 '셀라스'라는 회사를 만들고 암호화폐 트레이딩 프로그램을 배포했다”고 밝혔다.\n카스퍼스키랩은 조사 초기 셀라스를 암호화폐 트레이딩 프로그램을 개발하는 정상 회사로 인식했다.\n하지만 셀라스 웹사이트와 도메인, 트레이딩 프로그램 인증서 등을 분석한 결과 수상한 점을 발견했다.\n박 연구원은 “셀라스 회사 주소가 미국 한 라면집으로 설정됐다”면서 “인증서를 등록한 주소 역시 미국 시골이었다”고 설명했다.\n정상 기업이 사용할 수 없는 주소가 계속 발견됐다.\n가짜 공급망 공격이다.\n라자루스는 암호화폐 거래자에게 이메일을 보내 '셀라스 트레이드 프로그램'을 내려받도록 하면서 PC에 몰래 침투했다.\n셀라스 트레이드 프로그램은 여러 암호화폐거래소를 한눈에 보는 프로그램이다.\n셀라스 트레이드 프로그램을 깔고 암호화폐거래소 계정을 연결하면 한 곳에서 거래한다.\n라자루스는 지난해 국내서 발생한 코인이즈 해킹에도 흔적을 남겼다.\n박 연구원은 “라자루스는 오픈 SSL 라이브러리로 위장한 프로그램을 오픈소스로 공개했다”면서 “해당 파일은 웨이브스트링이라는 회사 인증서(코드사인)로 서명됐다”고 말했다.\n웨이브스트링은 암호화폐거래소 코인이즈 사명이다.\n공격자가 웨이브스트링을 해킹해 기업 인증서를 탈취한 정황이다.\n악성코드를 해당 인증서로 서명했다.\n보안 프로그램은 기업 인증서로 서명된 파일은 정상으로 분류한다.\n박 연구원은 “공격자는 악성파일을 코인이즈 홈트레이딩시스템(HTS)에 업데이트했다”면서 “거래소는 물론이고 개인까지 공격했을 가능성이 크다”고 설명했다.\n코인이즈는 지난해 10월 21억원 규모 암호화폐를 해킹 당했다.\n박 연구원은 “라자루스는 국가지원을 받는 해킹 그룹으로 사이버 첩보활동은 물론이고 최근 금전을 목적으로 한 사이버범죄에 집중한다”고 강조했다.\n미국 FBI는 소니픽처스 공격과 방글라데시 중앙은행 해킹, 워너크라이 랜섬웨어 주범으로 라자루스 멤버 중 한 명인 '박진혁'을 밝혀내고 공개 수배했다.\n스테판 나우메이어 카스퍼스키랩 APAC 매니징 디렉터는 “사이버 무장을 하는 국가가 늘어나고 있다”면서 “핵과 미사일은 사용하지 않기 위해 개발되는데 반해 사이버 무기는 바로 쓰인다”고 설명했다.\n이어 “국가가 지원하는 조직이 만든 사이버 무기 증가를 경계해야 한다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "북한 해킹 조직 라자루스가 가짜 소프트웨어 기업을 만들어 암호화폐거래소 사이버 공격에 악용했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "악성 활동을 하는 암호화폐 거래 프로그램을 만들어 배포했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카스퍼스키랩은 20일 캄보디아 시엠레아프에서 '사이버 위크 2018'을 열고 아시아태평양지역을 위협하는 사이버공격 사례를 발표했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박성수 카스퍼스키랩 글로벌 위협연구분석팀 연구원은 “라자루스가 '셀라스'라는 회사를 만들고 암호화폐 트레이딩 프로그램을 배포했다”고 밝혔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카스퍼스키랩은 조사 초기 셀라스를 암호화폐 트레이딩 프로그램을 개발하는 정상 회사로 인식했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 셀라스 웹사이트와 도메인, 트레이딩 프로그램 인증서 등을 분석한 결과 수상한 점을 발견했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박 연구원은 “셀라스 회사 주소가 미국 한 라면집으로 설정됐다”면서 “인증서를 등록한 주소 역시 미국 시골이었다”고 설명했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정상 기업이 사용할 수 없는 주소가 계속 발견됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "가짜 공급망 공격이다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "라자루스는 암호화폐 거래자에게 이메일을 보내 '셀라스 트레이드 프로그램'을 내려받도록 하면서 PC에 몰래 침투했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "셀라스 트레이드 프로그램은 여러 암호화폐거래소를 한눈에 보는 프로그램이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "셀라스 트레이드 프로그램을 깔고 암호화폐거래소 계정을 연결하면 한 곳에서 거래한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "라자루스는 지난해 국내서 발생한 코인이즈 해킹에도 흔적을 남겼다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "박 연구원은 “라자루스는 오픈 SSL 라이브러리로 위장한 프로그램을 오픈소스로 공개했다”면서 “해당 파일은 웨이브스트링이라는 회사 인증서(코드사인)로 서명됐다”고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "웨이브스트링은 암호화폐거래소 코인이즈 사명이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "공격자가 웨이브스트링을 해킹해 기업 인증서를 탈취한 정황이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "악성코드를 해당 인증서로 서명했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "보안 프로그램은 기업 인증서로 서명된 파일은 정상으로 분류한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "박 연구원은 “공격자는 악성파일을 코인이즈 홈트레이딩시스템(HTS)에 업데이트했다”면서 “거래소는 물론이고 개인까지 공격했을 가능성이 크다”고 설명했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "코인이즈는 지난해 10월 21억원 규모 암호화폐를 해킹 당했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "박 연구원은 “라자루스는 국가지원을 받는 해킹 그룹으로 사이버 첩보활동은 물론이고 최근 금전을 목적으로 한 사이버범죄에 집중한다”고 강조했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "미국 FBI는 소니픽처스 공격과 방글라데시 중앙은행 해킹, 워너크라이 랜섬웨어 주범으로 라자루스 멤버 중 한 명인 '박진혁'을 밝혀내고 공개 수배했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "스테판 나우메이어 카스퍼스키랩 APAC 매니징 디렉터는 “사이버 무장을 하는 국가가 늘어나고 있다”면서 “핵과 미사일은 사용하지 않기 위해 개발되는데 반해 사이버 무기는 바로 쓰인다”고 설명했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "이어 “국가가 지원하는 조직이 만든 사이버 무기 증가를 경계해야 한다”고 덧붙였다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "北 라자루스, 해킹 위해 가짜 SW회사 만들어",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

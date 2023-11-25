@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325801",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "자일링스 \\\"FPGA로 SK텔레콤 AI 가속, 데이터센터 성능 5배 높여\\\"",
+		"newsSubTitle": "",
+		"newsContent": "'프로그래머블반도체(FPGA)가 AI 성능을 높인다' 자일링스는 SK텔레콤이 자사의 프로그래머블반도체(FPGA)를 사용해 데이터센터 성능을 향상시켰다고 16일 밝혔다.\n자일링스와 SK텔레콤은 이날 서울 그랜드인터콘티넨탈 서울 파르나스에서 열린 기자간담회를 갖고 데이터센터에 FPGA를 접목한 성과를 발표했다.\n양사에 따르면 데이터센터에 인공지능(AI) 가속기로 자일링스 FPGA를 배치한 뒤 최대 5배 이상 성능을 달성했다고 소개했다.\n와트당 성능은 16배 향상됐고, 소비전력은 3배 줄였다고 설명했다.\nSK텔레콤은 급증하는 AI 관련 데이터처리 능력을 향상하기 위해 6월부터 자일링스 '킨텍스 울트라스케일 FPGA'를 채택했다.\n이 제품은 현재 SK텔레콤 음성인식 플랫폼 누구(NUGU)를 가속하기 위해 SK텔레콤 자동 음성인식(ASR) 애플리케이션을 구동하고 있다.\n한국 대규모 데이터 센터에서 FPGA 가속기를 상용 채택한 것은 최초다.\n자일링스는 기존 CPU 전용 서버에 자일링스 FPGA 카드를 추가하면 ASR 애플리케이션 서버 총소유비용(TCO)을 낮출 수 있다고 강조했다.\n전력 소비가 적고, 서버 증설 없이 데이터 처리 성능을 높일 수 있기 때문이다.\n이강원 SK텔레콤소프트웨어 기술원장은 “FPGA 기반 AI 가속기는 서버 5대를 카드 하나로 대체하는 효과가 있다”면서 “FPGA는 처리 성능을 향상하면서 전력소비, 발열을 줄이고 서버공간을 절약해 GPU나 CPU보다 효율적”이라고 설명했다.\n자일링스는 SK텔렐콤과 협력, 다양한 영역으로 도입을 확대할 계획이다.\n회사는 FPGA가 빠르게 발전하는 AI와 딥러닝 분야에 가장 적합한 제품이라고 강조했다.\nFPGA는 사용자가 프로그래밍으로 원하는 기능을 구현할 수 있다.\n새롭게 프로그래밍 하는 것만으로 제품 교체 없이 신기술을 반영할 수 있다.\n자일링스는 세계 FPGA 시장 60% 이상을 차지하는 세계 1위 업체다.\n향후 FPGA를 개선해 '적응형 가속화 플랫폼(ACAP)'을 선보일 계획이다.\n라민 론 자일링스 솔루션 마케팅 부문 부사장은 “AI 알고리즘과 네트워크가 한 달마다 혁신될 정도로 빠르게 발전하고 있지만 이를 지원할 GPU, CPU는 발전 속도가 더디다”면서 “FPGA를 이용하면 하드웨어 추가 없이 AI 성능을 높일 수 있다”고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'프로그래머블반도체(FPGA)가 AI 성능을 높인다' 자일링스는 SK텔레콤이 자사의 프로그래머블반도체(FPGA)를 사용해 데이터센터 성능을 향상시켰다고 16일 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자일링스와 SK텔레콤은 이날 서울 그랜드인터콘티넨탈 서울 파르나스에서 열린 기자간담회를 갖고 데이터센터에 FPGA를 접목한 성과를 발표했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양사에 따르면 데이터센터에 인공지능(AI) 가속기로 자일링스 FPGA를 배치한 뒤 최대 5배 이상 성능을 달성했다고 소개했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "와트당 성능은 16배 향상됐고, 소비전력은 3배 줄였다고 설명했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SK텔레콤은 급증하는 AI 관련 데이터처리 능력을 향상하기 위해 6월부터 자일링스 '킨텍스 울트라스케일 FPGA'를 채택했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 제품은 현재 SK텔레콤 음성인식 플랫폼 누구(NUGU)를 가속하기 위해 SK텔레콤 자동 음성인식(ASR) 애플리케이션을 구동하고 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국 대규모 데이터 센터에서 FPGA 가속기를 상용 채택한 것은 최초다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "자일링스는 기존 CPU 전용 서버에 자일링스 FPGA 카드를 추가하면 ASR 애플리케이션 서버 총소유비용(TCO)을 낮출 수 있다고 강조했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "전력 소비가 적고, 서버 증설 없이 데이터 처리 성능을 높일 수 있기 때문이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이강원 SK텔레콤소프트웨어 기술원장은 “FPGA 기반 AI 가속기는 서버 5대를 카드 하나로 대체하는 효과가 있다”면서 “FPGA는 처리 성능을 향상하면서 전력소비, 발열을 줄이고 서버공간을 절약해 GPU나 CPU보다 효율적”이라고 설명했다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "자일링스는 SK텔렐콤과 협력, 다양한 영역으로 도입을 확대할 계획이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "회사는 FPGA가 빠르게 발전하는 AI와 딥러닝 분야에 가장 적합한 제품이라고 강조했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "FPGA는 사용자가 프로그래밍으로 원하는 기능을 구현할 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "새롭게 프로그래밍 하는 것만으로 제품 교체 없이 신기술을 반영할 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "자일링스는 세계 FPGA 시장 60% 이상을 차지하는 세계 1위 업체다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "향후 FPGA를 개선해 '적응형 가속화 플랫폼(ACAP)'을 선보일 계획이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "라민 론 자일링스 솔루션 마케팅 부문 부사장은 “AI 알고리즘과 네트워크가 한 달마다 혁신될 정도로 빠르게 발전하고 있지만 이를 지원할 GPU, CPU는 발전 속도가 더디다”면서 “FPGA를 이용하면 하드웨어 추가 없이 AI 성능을 높일 수 있다”고 강조했다.",
+				"sentenceSize": 145
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "자일링스 \\\"FPGA로 SK텔레콤 AI 가속, 데이터센터 성능 5배 높여\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

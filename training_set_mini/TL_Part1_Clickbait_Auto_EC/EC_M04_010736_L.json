@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010736",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "1913.96 주저앉은 코스피 '美어닝쇼크에 사흘연속 하락'",
+		"newsSubTitle": "",
+		"newsContent": "코스피가 미국 기업 어닝 쇼크 여파 등으로 사흘연속 하락하면서 1910선까지 내려 앉았다.\n24일 코스피 지수는 전일대비 12.85포인트(0.67%) 내린 1913.96에 장을 마쳤다.\n코스피 지수는 스페인 지방정부의 신용강등 소식과 미국 주요기업의 어닝 쇼크 여파로 하락했다.\n업종별로는 의약품, 음식료, 보험, 통신료가 상승했으며, 의료정밀, 운송장비, 화학, 기계, 증권 등이 하락했다.\n코스피 지수에서는 상한가 6개를 비롯해 336개 종목이 상승했고, 하한가 1개를 포함 493개 종목이 하락했다.\n보합은 72개 종목에 그쳤다.\n이날 코스닥 지수는 전거래일 0.20포인트(0.04%) 상승한 524.35로 장을 마쳤다.\n코스닥 지수는 개인이 359억원 순매도했고, 외국인과 기관이 각각 159억원, 185억원을 순매수했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피가 미국 기업 어닝 쇼크 여파 등으로 사흘연속 하락하면서 1910선까지 내려 앉았다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 코스피 지수는 전일대비 12.85포인트(0.67%) 내린 1913.96에 장을 마쳤다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코스피 지수는 스페인 지방정부의 신용강등 소식과 미국 주요기업의 어닝 쇼크 여파로 하락했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "업종별로는 의약품, 음식료, 보험, 통신료가 상승했으며, 의료정밀, 운송장비, 화학, 기계, 증권 등이 하락했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코스피 지수에서는 상한가 6개를 비롯해 336개 종목이 상승했고, 하한가 1개를 포함 493개 종목이 하락했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보합은 72개 종목에 그쳤다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 코스닥 지수는 전거래일 0.20포인트(0.04%) 상승한 524.35로 장을 마쳤다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "코스닥 지수는 개인이 359억원 순매도했고, 외국인과 기관이 각각 159억원, 185억원을 순매수했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "펄어비스, 팩토리얼게임즈 인수...신작 '슈퍼스트링' 출시 예정",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

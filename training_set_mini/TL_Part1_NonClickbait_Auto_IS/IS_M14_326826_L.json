@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326826",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "한화시스템, 정부 주도 개방형 클라우드 플랫폼 민간 첫 적용",
+		"newsSubTitle": "",
+		"newsContent": "정부 주도로 개발한 개방형 클라우드 플랫폼 '파스-타'(PaaS-TA)가 민간에도 활용된다.\n한화시스템이 자체 클라우드 플랫폼에 파스-타를 처음 적용한다.\nKT, 네이버클라우드, NHN 등이 파스-타 기반 클라우드 플랫폼을 제공하고 있지만 공공 영역에 한정돼 있었다.\n파스-타 운영기관 한국지능정보사회진흥원(NIA)은 한화시스템과 파스-타 기반 클라우드 플랫폼 개발을 위한 양해각서(MOU)를 교환한 것으로 확인됐다.\n한화시스템은 오픈소스 기반으로 개발하고 있는 자체 클라우드 플랫폼에 파스-타를 적용하고, 향후 기능 개선과 고도화에 나선다.\n한화시스템이 이를 어떻게 활용할지는 알려지지 않았다. 고객사에 소프트웨어(SW) 개발과 운용을 위한 PaaS 서비스를 구축하고, 자체 PaaS 서비스용 플랫폼도 구축할 것으로 전망된다.\n민간에서는 주로 레드햇(오픈시프트), VM웨어 등 외산 PaaS를 사용한다.\n한화시스템을 시작으로 파스-타 기반 클라우드 플랫폼의 민간 서비스가 시작되면 'PaaS 국산화'가 속도를 내게 된다.\n나성욱 NIA 디지털플랫폼팀장은 “파스-타는 최신 흐름인 쿠버네티스 중심으로 전환, 가볍고 유연하게 활용할 수 있게 됐다”고 말했다.\nNIA는 파스-타 확산을 위해 여러 기업 대상으로 확장성 검증을 지속한다. <용어> 파스-타(PaaS-TA)=소프트웨어(SW) 개발과 운영을 지원하는 오픈소스 '서비스형 플랫폼'(PaaS). 정부와 NIA가 연구개발(R&D)을 지원한 가운데 5개 기업이 개발했다.\n지난해에 이어 올해 나무기술(칵테일), 레빗 등 3개 기업이 추가로 플랫폼 확장성을 검증한다.\n플랫폼 스펙을 최대 4분의 1(16VM→4VM, 7VM) 수준으로 경량화한 '파스-타 min'도 개발했다.\n4가상머신(VM)은 테스트·교육용, 7VM은 소규모 운영용이다.\n기존 기능은 100% 제공한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부 주도로 개발한 개방형 클라우드 플랫폼 '파스-타'(PaaS-TA)가 민간에도 활용된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한화시스템이 자체 클라우드 플랫폼에 파스-타를 처음 적용한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KT, 네이버클라우드, NHN 등이 파스-타 기반 클라우드 플랫폼을 제공하고 있지만 공공 영역에 한정돼 있었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파스-타 운영기관 한국지능정보사회진흥원(NIA)은 한화시스템과 파스-타 기반 클라우드 플랫폼 개발을 위한 양해각서(MOU)를 교환한 것으로 확인됐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한화시스템은 오픈소스 기반으로 개발하고 있는 자체 클라우드 플랫폼에 파스-타를 적용하고, 향후 기능 개선과 고도화에 나선다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한화시스템이 이를 어떻게 활용할지는 알려지지 않았다. 고객사에 소프트웨어(SW) 개발과 운용을 위한 PaaS 서비스를 구축하고, 자체 PaaS 서비스용 플랫폼도 구축할 것으로 전망된다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "민간에서는 주로 레드햇(오픈시프트), VM웨어 등 외산 PaaS를 사용한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한화시스템을 시작으로 파스-타 기반 클라우드 플랫폼의 민간 서비스가 시작되면 'PaaS 국산화'가 속도를 내게 된다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "나성욱 NIA 디지털플랫폼팀장은 “파스-타는 최신 흐름인 쿠버네티스 중심으로 전환, 가볍고 유연하게 활용할 수 있게 됐다”고 말했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "NIA는 파스-타 확산을 위해 여러 기업 대상으로 확장성 검증을 지속한다. <용어> 파스-타(PaaS-TA)=소프트웨어(SW) 개발과 운영을 지원하는 오픈소스 '서비스형 플랫폼'(PaaS). 정부와 NIA가 연구개발(R&D)을 지원한 가운데 5개 기업이 개발했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "지난해에 이어 올해 나무기술(칵테일), 레빗 등 3개 기업이 추가로 플랫폼 확장성을 검증한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "플랫폼 스펙을 최대 4분의 1(16VM→4VM, 7VM) 수준으로 경량화한 '파스-타 min'도 개발했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "4가상머신(VM)은 테스트·교육용, 7VM은 소규모 운영용이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "기존 기능은 100% 제공한다.",
+				"sentenceSize": 17
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한화시스템, 정부 주도 개방형 클라우드 플랫폼 민간 첫 적용",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

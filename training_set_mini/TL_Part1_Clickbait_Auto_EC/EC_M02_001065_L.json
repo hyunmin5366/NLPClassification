@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_001065",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "한국투자증권 1000배 착오 입고 사고, '시스템 오류'라 더 심각",
+		"newsSubTitle": "",
+		"newsContent": "실제 보유 물량의 1천배에 달하는 채권 매도 주문이 시장에 나오는 금융 사고가 발생했다.\n18일 한국거래소에 따르면 지난 16일 오전 JTBC 회사채 10차에 대한 매도 주문이 2차례에 걸쳐 300억원어치와, 500억원어치가 한국투자증권 창구를 통해 채권 시장에 나왔다.\n매수 수량의 1천배에 달하는 채권이 전산 오류로 증권 계좌에 입고되어 장내 매도 주문까지 이어졌다.\n이날 주문액은 JTBC 회사채 발행액 510억원을 초과한 금액이다.\n다행히 주문은 거래까지 이뤄지지는 않았으나 담당 직원의 오기가 아닌 시스템 오류로 인한 문제로 밝혀져 인적 오류가 아닌 시스템적인 문제로 드러났다.\n한국투자증권 측 설명에 따르면 해당 오류는 전자증권제도 도입 시기에 맞춰 증권사들이 관련 프로그램을 업데이트하는 과정에서 발생했다.\n해당 채권은 다른 증권사에서 소매로 산 투자자가 한국예탁결제원을 거처 한국투자증권으로 채권이 옮겨 왔는데 예탁결제원을 거쳐 입고되는 과정에서 전산 오류가 발생한 것이다.\n한국투자증권 관계자는 미디어SR에 \\\"예탁원에서 전자증권제도 도입하면서 증권사들이 관련 프로그램을 업데이트하고 재정비하는 과정에서 프로그램 오류가 있었다\\\"고 설명했다.\n한투 관계자는 \\\"전산시스템 업데이트 당시 충분한 테스트를 실시했으나 시스템 업데이트 과정에서 검증 작업이 누락된 것으로 보인다\\\"고 설명했다.\n무결성 검증 작업이 완벽히 이루어지지 않은 것이다.\n금융당국은 지난해 4월 삼성증권의 우리사주 배당과 관련해 착오 주식 등의 거래를 방지하기 위해 예탁결제원 확인 전 매도될 수 있는 시스템을 보완하기로 했으나 동일 문제가 발생하면서 충격을 주고 있다.\n특히, 한국투자증권 외에도 한국거래소가 발행 금액을 넘어선 주문을 허용하면서 재발방지를 위한 시스템 개선이 요구되고 있다.\n한국거래소에 따르면 거래소는 발행금액을 넘어서는 주문에 대한 자동 거부는 설계되어 있으나 300억원과 500억원으로 두 차례로 주문이 나누어져 감지하지 못했다는 설명이다.\n한투 관계자는 \\\"프로그램 오류로 인해 시장에 영향을 미치거나 고객 피해가 발생하지 않은 것으로 파악된다\\\"고 입장을 밝혔다.\n그럼에도 삼성증권 배당사고 이후에도 지속적으로 착오 입고 사건이 발생해 금융 거래 시스템에 대한 문제 제기가 이어질 것으로 전망된다.\n이번 사건 조사와 관련 금융감독원 관계자는 미디어SR에 \\\"사실 관계를 파악 중\\\"이라고 전했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "실제 보유 물량의 1천배에 달하는 채권 매도 주문이 시장에 나오는 금융 사고가 발생했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 한국거래소에 따르면 지난 16일 오전 JTBC 회사채 10차에 대한 매도 주문이 2차례에 걸쳐 300억원어치와, 500억원어치가 한국투자증권 창구를 통해 채권 시장에 나왔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매수 수량의 1천배에 달하는 채권이 전산 오류로 증권 계좌에 입고되어 장내 매도 주문까지 이어졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 주문액은 JTBC 회사채 발행액 510억원을 초과한 금액이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다행히 주문은 거래까지 이뤄지지는 않았으나 담당 직원의 오기가 아닌 시스템 오류로 인한 문제로 밝혀져 인적 오류가 아닌 시스템적인 문제로 드러났다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국투자증권 측 설명에 따르면 해당 오류는 전자증권제도 도입 시기에 맞춰 증권사들이 관련 프로그램을 업데이트하는 과정에서 발생했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해당 채권은 다른 증권사에서 소매로 산 투자자가 한국예탁결제원을 거처 한국투자증권으로 채권이 옮겨 왔는데 예탁결제원을 거쳐 입고되는 과정에서 전산 오류가 발생한 것이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한국투자증권 관계자는 미디어SR에 \\\"예탁원에서 전자증권제도 도입하면서 증권사들이 관련 프로그램을 업데이트하고 재정비하는 과정에서 프로그램 오류가 있었다\\\"고 설명했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한투 관계자는 \\\"전산시스템 업데이트 당시 충분한 테스트를 실시했으나 시스템 업데이트 과정에서 검증 작업이 누락된 것으로 보인다\\\"고 설명했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "무결성 검증 작업이 완벽히 이루어지지 않은 것이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "금융당국은 지난해 4월 삼성증권의 우리사주 배당과 관련해 착오 주식 등의 거래를 방지하기 위해 예탁결제원 확인 전 매도될 수 있는 시스템을 보완하기로 했으나 동일 문제가 발생하면서 충격을 주고 있다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "특히, 한국투자증권 외에도 한국거래소가 발행 금액을 넘어선 주문을 허용하면서 재발방지를 위한 시스템 개선이 요구되고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "한국거래소에 따르면 거래소는 발행금액을 넘어서는 주문에 대한 자동 거부는 설계되어 있으나 300억원과 500억원으로 두 차례로 주문이 나누어져 감지하지 못했다는 설명이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한투 관계자는 \\\"프로그램 오류로 인해 시장에 영향을 미치거나 고객 피해가 발생하지 않은 것으로 파악된다\\\"고 입장을 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "그럼에도 삼성증권 배당사고 이후에도 지속적으로 착오 입고 사건이 발생해 금융 거래 시스템에 대한 문제 제기가 이어질 것으로 전망된다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이번 사건 조사와 관련 금융감독원 관계자는 미디어SR에 \\\"사실 관계를 파악 중\\\"이라고 전했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "충남도 상반기 건축허가ㆍ착공 증가",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

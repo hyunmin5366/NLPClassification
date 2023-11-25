@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352259",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "'이프 카카오' 뒷얘기 궁금하다면…\\\"'음mm'에서 만나요\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "카카오는 22,23일 소셜 오디오 플랫폼 '음mm'에서 지난주 열린 '이프 카카오(if kakao) 2021' 뒷이야기를 담은 '애프터 톡' 행사를 연다. 카카오와 공동체 11개사는 지난 16일부터 3일간 이프 카카오 온라인 컨퍼런스를 열고 총 120여개 세션을 선보였다.\n이프 카카오 공식 홈페이지는 300만명 이상이 방문했다.\n이번 행사에선 카카오 크루들이 세션 준비 과정에서의 다양한 에피소드를 공유한다.\n참여자들도 컨퍼런스와 관련해 질문할 수 있다. 22일은 카카오와 카카오엔터테인먼트, 카카오페이, 그라운드X의 크루들이 진행하는 6개의 애프터 톡이 오후 3시부터 열린다. 23일엔 카카오, 카카오엔터프라이즈, 카카오커머스에서 4개 애프터 톡을 준비했다.\n특히 22일 밤 10시, 23일 밤 8시에 각각 진행하는 음mm, 카카오 뷰의 애프터 톡 시간에는 세션에 참여한 크리에이터들도 함께한다.\n카카오 관계자는 \\\"컨퍼런스에 대한 다양한 내용을 소셜 오디오 플랫폼이라는 음성 중심의 공간에서 나누는 이색 커뮤니케이션 자리가 될 것\\\"이라며 \\\"컨퍼런스에서 나누지 못한 많은 이야기들을 보다 구체적으로 소통할 수 있는 계기가 될 것으로 기대한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오는 22,23일 소셜 오디오 플랫폼 '음mm'에서 지난주 열린 '이프 카카오(if kakao) 2021' 뒷이야기를 담은 '애프터 톡' 행사를 연다. 카카오와 공동체 11개사는 지난 16일부터 3일간 이프 카카오 온라인 컨퍼런스를 열고 총 120여개 세션을 선보였다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이프 카카오 공식 홈페이지는 300만명 이상이 방문했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 행사에선 카카오 크루들이 세션 준비 과정에서의 다양한 에피소드를 공유한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "참여자들도 컨퍼런스와 관련해 질문할 수 있다. 22일은 카카오와 카카오엔터테인먼트, 카카오페이, 그라운드X의 크루들이 진행하는 6개의 애프터 톡이 오후 3시부터 열린다. 23일엔 카카오, 카카오엔터프라이즈, 카카오커머스에서 4개 애프터 톡을 준비했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 22일 밤 10시, 23일 밤 8시에 각각 진행하는 음mm, 카카오 뷰의 애프터 톡 시간에는 세션에 참여한 크리에이터들도 함께한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카카오 관계자는 \\\"컨퍼런스에 대한 다양한 내용을 소셜 오디오 플랫폼이라는 음성 중심의 공간에서 나누는 이색 커뮤니케이션 자리가 될 것\\\"이라며 \\\"컨퍼런스에서 나누지 못한 많은 이야기들을 보다 구체적으로 소통할 수 있는 계기가 될 것으로 기대한다\\\"고 말했다.",
+				"sentenceSize": 146
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'이프 카카오' 뒷얘기 궁금하다면…\\\"'음mm'에서 만나요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

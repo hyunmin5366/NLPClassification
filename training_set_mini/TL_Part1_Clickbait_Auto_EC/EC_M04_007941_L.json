@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007941",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "고향 가는 길 '막힘없이'",
+		"newsSubTitle": "도공 충청본부 트위터·문자로 교통정보 제공",
+		"newsContent": "한국도로공사 충청본부는 다음달 1일부터 6일까지 설 연휴 특별교통소통대책을 시행한다고 27일 밝혔다.\n설연휴 교통량은 348만대(설 당일 최대 433만대)로 전년보다 2.1% 증가, 충청권은 일평균 입출구 방향 각 35만대로 전년대비 7.0% 증가할 것으로 예상된다.\n충청권 주요 혼잡 구간은 경부고속도로 안성~천안, 서해안고속도로 해미~송악, 중부고속도로 증평~호법 구간이 될 것으로 예상된다.\n이에 따라 도로공사는 다양한 교통정보 제공을 통해 교통 수요 분산을 유도한다는 방침이다.\n승용차 전용 임시갓길차로제는 경부고속도로 귀성방향 천안나들목~천안분기점에서 시행되며, 교통 상황에 따라 탄력적으로 운영된다.\n스마트폰과 트위터, 휴대폰 문자, 인터넷, 콜센터(1588-2504) 등으로 실시간 교통 정보를 제공한다.\n한편 트위터 정보는 (http://twitter.com/15882504, http://twitter.com/15882505)를 통해 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국도로공사 충청본부는 다음달 1일부터 6일까지 설 연휴 특별교통소통대책을 시행한다고 27일 밝혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "설연휴 교통량은 348만대(설 당일 최대 433만대)로 전년보다 2.1% 증가, 충청권은 일평균 입출구 방향 각 35만대로 전년대비 7.0% 증가할 것으로 예상된다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "충청권 주요 혼잡 구간은 경부고속도로 안성~천안, 서해안고속도로 해미~송악, 중부고속도로 증평~호법 구간이 될 것으로 예상된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 도로공사는 다양한 교통정보 제공을 통해 교통 수요 분산을 유도한다는 방침이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "승용차 전용 임시갓길차로제는 경부고속도로 귀성방향 천안나들목~천안분기점에서 시행되며, 교통 상황에 따라 탄력적으로 운영된다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스마트폰과 트위터, 휴대폰 문자, 인터넷, 콜센터(1588-2504) 등으로 실시간 교통 정보를 제공한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 트위터 정보는 (http://twitter.com/15882504, http://twitter.com/15882505)를 통해 확인할 수 있다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'접속장애 과징금' 페이스북, 방통위에 불복 소송",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

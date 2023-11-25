@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002482",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "신한은행, '콜센터 품질지수 조사' 6년 연속 1위 달성",
+		"newsSubTitle": "은행권 최초 ‘재택상담’ 도입해 AI기반 고품질 상담서비스 추진",
+		"newsContent": "신한은행은 한국표준협회(KSA)가 주관하는 '2020 KS-CQI 콜센터 품질지수' 조사에서 은행권 최초로 6년 연속 1위를 수상했다고 10일 밝혔다.\nKS-CQI(Korean Standard Contact Service Quality Index)는 콜센터의 상담서비스 품질 수준을 측정하는 조사다.\n국내 콜센터 산업의 발전과 경쟁력 향상을 위해 한국표준협회와 한국서비스경영학회가 공동으로 개발했다.\n신한은행은 코로나19라는 국가적 비상상황에서 지역사회의 확산방지와 상담사 보호를 위해 지난 3월 은행권 최초로 '재택상담'을 시행했다.\n또 디지털 시대 고객변화에 대응하기 위해 'AI기반 상담'을 선도적으로 추진해 2018년엔 챗봇 '오로라', 지난 5월엔 AI음성봇 '쏠리' 1단계 프로젝트를 성공적으로 이행, 운영 중이다.\n가시적인 성과도 조금씩 나오고 있다.\n스마일콜(투자상품 및 대출상품에 대한 점검 서비스)과 같은 아웃바운드 업무의 95%를 AI상담사가 대체하면서 상담 역량은 기존 대비 4배 향상됐다.\n또한 영업점 업무 경감, 대기 시간 축소 등으로 고객만족도 역시 높아졌다는 평가다.\n신한은행 관계자는 \\\"앞으로도 일상의 많은 부분이 달라진 'With 코로나' 시대에 재택근무, AI기반 상담 등 뉴노멀(New normal)에 최적화된 상담운영 체계를 준비해 지금보다 향상된 고품질 상담을 제공할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신한은행은 한국표준협회(KSA)가 주관하는 '2020 KS-CQI 콜센터 품질지수' 조사에서 은행권 최초로 6년 연속 1위를 수상했다고 10일 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KS-CQI(Korean Standard Contact Service Quality Index)는 콜센터의 상담서비스 품질 수준을 측정하는 조사다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내 콜센터 산업의 발전과 경쟁력 향상을 위해 한국표준협회와 한국서비스경영학회가 공동으로 개발했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신한은행은 코로나19라는 국가적 비상상황에서 지역사회의 확산방지와 상담사 보호를 위해 지난 3월 은행권 최초로 '재택상담'을 시행했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 디지털 시대 고객변화에 대응하기 위해 'AI기반 상담'을 선도적으로 추진해 2018년엔 챗봇 '오로라', 지난 5월엔 AI음성봇 '쏠리' 1단계 프로젝트를 성공적으로 이행, 운영 중이다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가시적인 성과도 조금씩 나오고 있다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스마일콜(투자상품 및 대출상품에 대한 점검 서비스)과 같은 아웃바운드 업무의 95%를 AI상담사가 대체하면서 상담 역량은 기존 대비 4배 향상됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또한 영업점 업무 경감, 대기 시간 축소 등으로 고객만족도 역시 높아졌다는 평가다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "신한은행 관계자는 \\\"앞으로도 일상의 많은 부분이 달라진 'With 코로나' 시대에 재택근무, AI기반 상담 등 뉴노멀(New normal)에 최적화된 상담운영 체계를 준비해 지금보다 향상된 고품질 상담을 제공할 것\\\"이라고 말했다.",
+				"sentenceSize": 130
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지난해 새희망홀씨 대출 3.2조 공급…목표치에는 미달",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337116",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "베렉스, 노키아에 5G 기지국 장비 RF 핵심칩 공급...국내 첫 사례",
+		"newsSubTitle": "",
+		"newsContent": "국내 무선통신용 반도체 기업 베렉스가 노키아 5세대(5G) 이동통신 기지국 장비에 탑재되는 무선주파수(RF) 핵심 칩을 공급한다.\n국내 기업이 노키아 기지국 장비에 RF 핵심 부품을 공급하는 것은 처음이다.\n베렉스는 SiP(시스템인패키지) 기술로 RF 디지털 감쇄기와 3개 증폭기가 결합된 디지털조절식가변이득앰프(DVGA) 제품 'BVA3143(3.3~3.8GHz)', 'BVA3144(4.4~5.0GHz)'를 노키아에 공급한다고 27일 밝혔다.\n이 제품은 개발 단계부터 노키아 상하이연구소와 규격을 협의했다.\n노키아 5G 장비 편의성을 높이고, 설계 공간은 50% 이상 줄였다.\n증폭기 3개, 디지털 감쇄기 1개, 수동소자까지 SiP에 설계했다.\n휴대폰 기지국 장비는 기지국과 휴대폰 간 거리가 짧으면 RF 신호 세기를 줄이고 멀면 이를 증폭해야 원활한 통신이 가능하다.\n이때 사용되는 증폭기와 감쇄기를 하나로 통합하면 기지국 시스템 설계 공간과 비용을 줄일 수 있다.\nRF 집적회로(IC)용 과전압 보호 회로도 내장됐다.\n무선통신 장비에서 동작 전압 이상 입력 시 외부 전원을 차단, RF IC 영구 손상을 방지한다.\nRF 디지털 감쇄기∙증폭기 시장은 텍사스인스트루먼츠(TI), 아날로그디바이스(ADI), 맥심, 코보 등 미국 아날로그 반도체 기업이 장악하고 있다.\n베렉스는 통합 칩으로 이 시장을 공략, 성과를 거뒀다.\n베렉스는 노키아 공급을 계기로 5G 부품 수출을 본격화할 방침이다.\n베렉스는 무선통신용 화합물 반도체를 개발, 생산, 판매하는 전문 벤처 기업이다.\n2004년 설립 후 2008년 미국 캘리포니아주 새너제이에 자회사를 설립, 미국 레이더 위성통신장비 시장에 진입했다.\n화합물 반도체 외에 실리콘∙게르마늄(SiGe) 반도체, 실리콘 절연막 반도체 기술을 이용해 제품∙시장 다변화를 추진하고 있다.\n세계 20개 국가, 492개 고객사를 확보했다.\n앞으로 SiP 기술 기반 수동소자와 자사 IP를 활용한 능동 소자를 결합해 다양한 멀티칩 모듈(MCM) 제품을 출시할 계획이다.\n노키아뿐만 아니라 세계 주요 기지국 장비 제조사에 제품을 공급하는 RF 반도체 회사를 도모한다.\n베렉스 관계자는 \\\"5G 상용화가 시작되는 2020년부터 100억원 이상 매출을 달성할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 무선통신용 반도체 기업 베렉스가 노키아 5세대(5G) 이동통신 기지국 장비에 탑재되는 무선주파수(RF) 핵심 칩을 공급한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 기업이 노키아 기지국 장비에 RF 핵심 부품을 공급하는 것은 처음이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "베렉스는 SiP(시스템인패키지) 기술로 RF 디지털 감쇄기와 3개 증폭기가 결합된 디지털조절식가변이득앰프(DVGA) 제품 'BVA3143(3.3~3.8GHz)', 'BVA3144(4.4~5.0GHz)'를 노키아에 공급한다고 27일 밝혔다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 제품은 개발 단계부터 노키아 상하이연구소와 규격을 협의했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "노키아 5G 장비 편의성을 높이고, 설계 공간은 50% 이상 줄였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "증폭기 3개, 디지털 감쇄기 1개, 수동소자까지 SiP에 설계했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "휴대폰 기지국 장비는 기지국과 휴대폰 간 거리가 짧으면 RF 신호 세기를 줄이고 멀면 이를 증폭해야 원활한 통신이 가능하다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이때 사용되는 증폭기와 감쇄기를 하나로 통합하면 기지국 시스템 설계 공간과 비용을 줄일 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "RF 집적회로(IC)용 과전압 보호 회로도 내장됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "무선통신 장비에서 동작 전압 이상 입력 시 외부 전원을 차단, RF IC 영구 손상을 방지한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "RF 디지털 감쇄기∙증폭기 시장은 텍사스인스트루먼츠(TI), 아날로그디바이스(ADI), 맥심, 코보 등 미국 아날로그 반도체 기업이 장악하고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "베렉스는 통합 칩으로 이 시장을 공략, 성과를 거뒀다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "베렉스는 노키아 공급을 계기로 5G 부품 수출을 본격화할 방침이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "베렉스는 무선통신용 화합물 반도체를 개발, 생산, 판매하는 전문 벤처 기업이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "2004년 설립 후 2008년 미국 캘리포니아주 새너제이에 자회사를 설립, 미국 레이더 위성통신장비 시장에 진입했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "화합물 반도체 외에 실리콘∙게르마늄(SiGe) 반도체, 실리콘 절연막 반도체 기술을 이용해 제품∙시장 다변화를 추진하고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "세계 20개 국가, 492개 고객사를 확보했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "앞으로 SiP 기술 기반 수동소자와 자사 IP를 활용한 능동 소자를 결합해 다양한 멀티칩 모듈(MCM) 제품을 출시할 계획이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "노키아뿐만 아니라 세계 주요 기지국 장비 제조사에 제품을 공급하는 RF 반도체 회사를 도모한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "베렉스 관계자는 \\\"5G 상용화가 시작되는 2020년부터 100억원 이상 매출을 달성할 것\\\"이라고 말했다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "베렉스, 노키아에 5G 기지국 장비 RF 핵심칩 공급...국내 첫 사례",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

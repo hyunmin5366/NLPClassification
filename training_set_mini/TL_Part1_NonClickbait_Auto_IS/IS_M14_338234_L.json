@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338234",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "EDGC, 국가브랜드 대상 기업부문 대상 수상",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 유전체기업 이원다이애그노믹스(EDGC)는 코로나19 진단키트와 세포유리(Cell-free)DNA 분석기술 유전자서비스 등으로 국가브랜드 기여 공로를 인정받아 국가브랜드진흥원이 주최한 '2020국가브랜드 대상' 시상식에서 기업 부문 대상을 수상했다고 18일 밝혔다.\nEDGC는 세포유리DNA 분석기술을 기반으로 산모 혈액만으로 태아 건강을 검사하는 '나이스'서비스를 제공하고 있다.\n또 미국 그레일사와 함께 액체생검(미량의 혈액을 통해 암을 극초기에 진단하는 기술) 연구를 하고 있다.\n그레일은 최근 미국증권거래소에 예비투자설명서를 제출하며 IPO를 진행 중이다.\n기업가치는 최대 10조원에 이를 것으로 예상되고 있다.\n또 EDGC 관계사인 EDGC헬스케어와 솔젠트는 60여개국에 코로나19 진단키트를 공급하며 코로나19의 세계적 확산을 사전 차단하는데 기여하고 있다.\n신상철 EDGC 공동대표는 \\\"EDGC의 세포유리DNA 분석기술은 3, 4년전만 해도 과학적으로 극히 어려운 기술로 여겨졌다\\\"면서 \\\"EDGC는 이 기술을 바탕으로 질병의 근본원인을 찾아내 질병을 예측하고 예방하는 새로운 시대를 열겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 유전체기업 이원다이애그노믹스(EDGC)는 코로나19 진단키트와 세포유리(Cell-free)DNA 분석기술 유전자서비스 등으로 국가브랜드 기여 공로를 인정받아 국가브랜드진흥원이 주최한 '2020국가브랜드 대상' 시상식에서 기업 부문 대상을 수상했다고 18일 밝혔다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "EDGC는 세포유리DNA 분석기술을 기반으로 산모 혈액만으로 태아 건강을 검사하는 '나이스'서비스를 제공하고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 미국 그레일사와 함께 액체생검(미량의 혈액을 통해 암을 극초기에 진단하는 기술) 연구를 하고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그레일은 최근 미국증권거래소에 예비투자설명서를 제출하며 IPO를 진행 중이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기업가치는 최대 10조원에 이를 것으로 예상되고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 EDGC 관계사인 EDGC헬스케어와 솔젠트는 60여개국에 코로나19 진단키트를 공급하며 코로나19의 세계적 확산을 사전 차단하는데 기여하고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신상철 EDGC 공동대표는 \\\"EDGC의 세포유리DNA 분석기술은 3, 4년전만 해도 과학적으로 극히 어려운 기술로 여겨졌다\\\"면서 \\\"EDGC는 이 기술을 바탕으로 질병의 근본원인을 찾아내 질병을 예측하고 예방하는 새로운 시대를 열겠다\\\"고 말했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "EDGC, 국가브랜드 대상 기업부문 대상 수상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

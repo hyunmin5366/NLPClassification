@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333036",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "노키아, 러시아 통신장비 사업 철수... 기존 네트워크는 유지",
+		"newsSubTitle": "",
+		"newsContent": "핀란드 통신장비업체 노키아가 러시아 시장에서 철수한다. 12일(현지시간) 노키아는 \\\"러시아 시장을 떠날 것\\\"이라며 \\\"지난 몇 주 동안 노키아는 배송과 새 사업을 중단했으며 연구개발(R&D) 활동도 러시아 이외 지역으로 옮겼다\\\"고 밝혔다.\n다만 인도적 차원에서 기존 네트워크는 유지된다.\n러시아 내 중요 통신 네트워크 인프라가 위험에 처하는 것을 방지하기 위해서다.\n노키아는 \\\"러시아 국민에게 외부 관점에 대한 정보 제공과 인터넷 접속을 보장하기 위해 네트워크 유지와 지원을 계속할 것\\\"이라고 부연했다.\n노키아는 러시아 시장에서 철수해도 재정적 영향은 거의 없다는 입장이다.\n2021년 노키아 매가운데 중 러시아 시장이 차지하는 비중은 2% 미만이다.\n러시아 시장 철수로 영향을 받는 노키아 직원은 2000여명이다.\n노키아는 철수 과정에서 직원 안전과 복지를 최우선으로 한다는 방침이다.\n이보다 앞서 스웨덴 통신장비업체 에릭슨 역시 러시아 내 무기한 사업 중단을 결정했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "핀란드 통신장비업체 노키아가 러시아 시장에서 철수한다. 12일(현지시간) 노키아는 \\\"러시아 시장을 떠날 것\\\"이라며 \\\"지난 몇 주 동안 노키아는 배송과 새 사업을 중단했으며 연구개발(R&D) 활동도 러시아 이외 지역으로 옮겼다\\\"고 밝혔다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다만 인도적 차원에서 기존 네트워크는 유지된다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "러시아 내 중요 통신 네트워크 인프라가 위험에 처하는 것을 방지하기 위해서다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "노키아는 \\\"러시아 국민에게 외부 관점에 대한 정보 제공과 인터넷 접속을 보장하기 위해 네트워크 유지와 지원을 계속할 것\\\"이라고 부연했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "노키아는 러시아 시장에서 철수해도 재정적 영향은 거의 없다는 입장이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2021년 노키아 매가운데 중 러시아 시장이 차지하는 비중은 2% 미만이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "러시아 시장 철수로 영향을 받는 노키아 직원은 2000여명이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "노키아는 철수 과정에서 직원 안전과 복지를 최우선으로 한다는 방침이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이보다 앞서 스웨덴 통신장비업체 에릭슨 역시 러시아 내 무기한 사업 중단을 결정했다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노키아, 러시아 통신장비 사업 철수... 기존 네트워크는 유지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

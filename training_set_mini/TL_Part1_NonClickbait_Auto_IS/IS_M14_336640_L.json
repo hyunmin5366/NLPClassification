@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336640",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "KT, 25% 선택약정 위약금 면제 10일부터",
+		"newsSubTitle": "",
+		"newsContent": "10일부터 선택약정 기간이 6개월 남은 KT 가입자도 할인율 25% 상향 시 위약금을 면제받는다.\nKT는 10일을 목표로 전산시스템 개발에 속도를 내고 있다고 7일 밝혔다.\n고객 요구가 높아지면서 당초 계획보다 일정을 3주가량 앞당겼다.\n10일부터 남은 선택약정 기간이 6개월 미만인 KT 가입자가 할인율을 25%로 올려 1년 또는 2년으로 재계약을 해도 위약금을 면제받는다.\n남은 약정 기간만큼 새로운 약정을 유지하면 위약금이 면제된다.\nSK텔레콤은 9월부터, LG유플러스는 10월부터 위약금 유예 제도를 시행했다.\nKT는 유무선 시스템을 통합한 이후이기 때문에 제도 시행이 지연됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "10일부터 선택약정 기간이 6개월 남은 KT 가입자도 할인율 25% 상향 시 위약금을 면제받는다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT는 10일을 목표로 전산시스템 개발에 속도를 내고 있다고 7일 밝혔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "고객 요구가 높아지면서 당초 계획보다 일정을 3주가량 앞당겼다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "10일부터 남은 선택약정 기간이 6개월 미만인 KT 가입자가 할인율을 25%로 올려 1년 또는 2년으로 재계약을 해도 위약금을 면제받는다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "남은 약정 기간만큼 새로운 약정을 유지하면 위약금이 면제된다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SK텔레콤은 9월부터, LG유플러스는 10월부터 위약금 유예 제도를 시행했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KT는 유무선 시스템을 통합한 이후이기 때문에 제도 시행이 지연됐다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 25% 선택약정 위약금 면제 10일부터",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

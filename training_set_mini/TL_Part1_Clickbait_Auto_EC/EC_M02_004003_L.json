@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004003",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "KB국민은행, 차세대 담보평가시스템 'KB스담스담' 구축",
+		"newsSubTitle": "알고리즘 기반의 시스템으로 신속한 금융 지원 기대",
+		"newsContent": "KB국민은행은 지난 30일 차세대 담보평가·심사 시스템인 'KB스담스담'을 구축했다고 31일 밝혔다. '스피드(Speed) 담보, 스마트(Smart) 담보'의 줄임말인 'KB스담스담'은 KB국민은행에서 새롭게 구축한 알고리즘 기반의 담보평가 심사시스템이다.\nKB스담스담을 활용하면 은행직원이 부동산 등기사항전부증명서, 부동산 대장 등 공적장부를 전자열람만으로도 알고리즘 기술을 통해 해당 부동산의 물건 구분, 평가방법 및 가치산정까지 한 번에 처리할 수 있다.\n기존 KB국민은행 부동산 담보평가 프로세스는 부동산 공적장부 열람 물건 및 공적장부 일치 여부 검증 물건구분 및 용도 분류 가치 산청 평가 완료의 5단계로 이루어졌다.\nKB스담스담의 도입을 통해 부동산 공적장부 열람 가치 산정 및 완료의 2단계로 프로세스가 간소화된다.\nKB국민은행은 이번 KB스담스담 도입을 통한 업무 자동화로 이전 대비 영업점 직원의 업무처리 시간을 통한 신속한 금융 지원을 할 수 있을 것으로 기대하고 있다.\nKB국민은행 관계자는 데일리임팩트에 \\\"특히 연립·다세대주택의 담보평가 시 최대 4영업일 정도 소요되던 업무처리 시간이 5분 이내로 단축됐다\\\"며 \\\"코로나19로 많은 어려움을 겪고 있는 중소기업과 소상공인에게 신속하고 원활한 금융지원이 이루어질 수 있도록 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KB국민은행은 지난 30일 차세대 담보평가·심사 시스템인 'KB스담스담'을 구축했다고 31일 밝혔다. '스피드(Speed) 담보, 스마트(Smart) 담보'의 줄임말인 'KB스담스담'은 KB국민은행에서 새롭게 구축한 알고리즘 기반의 담보평가 심사시스템이다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KB스담스담을 활용하면 은행직원이 부동산 등기사항전부증명서, 부동산 대장 등 공적장부를 전자열람만으로도 알고리즘 기술을 통해 해당 부동산의 물건 구분, 평가방법 및 가치산정까지 한 번에 처리할 수 있다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 KB국민은행 부동산 담보평가 프로세스는 부동산 공적장부 열람 물건 및 공적장부 일치 여부 검증 물건구분 및 용도 분류 가치 산청 평가 완료의 5단계로 이루어졌다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KB스담스담의 도입을 통해 부동산 공적장부 열람 가치 산정 및 완료의 2단계로 프로세스가 간소화된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KB국민은행은 이번 KB스담스담 도입을 통한 업무 자동화로 이전 대비 영업점 직원의 업무처리 시간을 통한 신속한 금융 지원을 할 수 있을 것으로 기대하고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KB국민은행 관계자는 데일리임팩트에 \\\"특히 연립·다세대주택의 담보평가 시 최대 4영업일 정도 소요되던 업무처리 시간이 5분 이내로 단축됐다\\\"며 \\\"코로나19로 많은 어려움을 겪고 있는 중소기업과 소상공인에게 신속하고 원활한 금융지원이 이루어질 수 있도록 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 157
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제주 첫 호반써밋 단지, 25일 분양 돌입",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

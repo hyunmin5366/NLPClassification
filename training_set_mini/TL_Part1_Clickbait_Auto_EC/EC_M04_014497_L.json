@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014497",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "생명연 고위험 바이러스 연구 본격화",
+		"newsSubTitle": "생물안전3등급 연구시설 개소",
+		"newsContent": "국가영장류센터에 국내 첫 영장류 생물안전 3등급 연구시설(ABL3)이 구축돼 본격 가동된다.\n최근 급속한 확산세를 보이는 중동호흡기증후군(MERS, 메르스)이나 신종플루 등 고위험성 바이러스의 영장류 감염을 연구하는 시설이다.\n한국생명공학연구원(KRIBB)은 충북 오창 분원에 있는 국가영장류센터에 55억원을 투입, 247㎡ 규모의 동물이용 생물안전 3등급 연구시설을 구축, 18일부터 본격 운영한다고 17일 밝혔다.\nABL3는 고위험 병원체를 이용한 연구를 진행할 수 있는 시설이다.\n특히 병원체가 연구자나 외부 환경에 노출되는 생물 재해를 방지하도록 특수 설계됐다.\nABL3에서는 신종플루, 조류독감 등 고위험성 병원체 감염모델을 개발하고, 최근 메르스와 같은 국가재난형감염병, 국가 현안사항인 인수공통감염병, 바이오테러 등에 대한 연구 지원 체계 구축을 목표로 하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국가영장류센터에 국내 첫 영장류 생물안전 3등급 연구시설(ABL3)이 구축돼 본격 가동된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 급속한 확산세를 보이는 중동호흡기증후군(MERS, 메르스)이나 신종플루 등 고위험성 바이러스의 영장류 감염을 연구하는 시설이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국생명공학연구원(KRIBB)은 충북 오창 분원에 있는 국가영장류센터에 55억원을 투입, 247㎡ 규모의 동물이용 생물안전 3등급 연구시설을 구축, 18일부터 본격 운영한다고 17일 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "ABL3는 고위험 병원체를 이용한 연구를 진행할 수 있는 시설이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 병원체가 연구자나 외부 환경에 노출되는 생물 재해를 방지하도록 특수 설계됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "ABL3에서는 신종플루, 조류독감 등 고위험성 병원체 감염모델을 개발하고, 최근 메르스와 같은 국가재난형감염병, 국가 현안사항인 인수공통감염병, 바이오테러 등에 대한 연구 지원 체계 구축을 목표로 하고 있다.",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "5월 아파트 거래 '뚝'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

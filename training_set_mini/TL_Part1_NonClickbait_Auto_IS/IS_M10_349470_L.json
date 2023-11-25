@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349470",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "SKT, 국립국어원과 AI 한국어 모델 개발 협력",
+		"newsSubTitle": "null",
+		"newsContent": "SK텔레콤이 7일 국립국어원과 업무 협약을 체결하고, 국립국어원의 언어 정보를 활용하여 한국어에 최적화된 차세대 인공지능(AI) 언어 모델을 개발하기로 했다.\n차세대 AI 한국어 모델은 사람의 능력 수준으로 평가되는 GPT-3와 유사한 성능을 발휘하는 한국어 범용 언어 모델(GLM)이다.\n언어 관련 문제풀이, 글짓기, 번역 및 주어진 문장에 따라 간단한 코딩을 수행할 수 있는 GPT-3의 기능을 한국어에서도 구현할 수 있게 된다.\nGLM은 일상의 감성대화, 다양한 업종의 고객센터 대화뿐 아니라 시사, 문학, 역사, 게임에 이르기까지 다양한 영역의 언어 활동에 적용될 수 있으며, 이를 기반으로 새로운 산업 분야에 추가 활용될 수 있을 것으로 기대된다.\nSK텔레콤이 개발하는 GLM은 1500억개의 매개변수를 가진 거대 언어 모델로 개발될 예정이다.\n최신 언어 모델인 GPT-3가 1750억개의 매개변수를 가지고 있는 것을 감안하면 GLM은 한국어 AI 언어 모델에서 보다 높은 정확도와 넓은 활용도를 가질 것으로 보인다.\nSK텔레콤은 올해 말까지 GLM을 개발하여 내부 서비스를 통해 모델 성능을 검증한 후 상용화를 진행할 예정이다.\n또한, 한국어 언어모델 성능 평가 방법 개발 및 한국어 데이터 품질 평가 연구도 추진한다.\nSK텔레콤은 2018년부터 AI 언어모델을 개발해 왔으며 2019년 KoBERT를 개발하여 챗봇 등에 활용하고 있다.\n지난해 4월 KoGPT-2를 개발 완료해 챗봇의 대화를 보다 자연스럽게 발전시켰으며, 같은 해 10월에는 뉴스나 문서를 고품질 요약문으로 만들어내는 능력 등 텍스트 처리 역량이 뛰어난 KoBART를 개발하여 자연어 이해·처리 영역의 기술력을 강화해 왔다.\n이와 함께 국립국어원은 '2021년 국어 정보처리 시스템 경진대회'를 SK텔레콤의 AI 언어 모델을 활용하여 AI의 언어소통 능력을 겨루는 방식으로 개편해 한글 주간에 개최하기로 했다.\n데이비스 에릭 하트먼 SK텔레콤 Language Superintelligence Labs장은 \\\"SKT는 한국어에 최적화된 인공지능 언어모델을 선제적으로 개발하여 한국어의 정보화에 이바지하고 있다\\\"며, 이번 국립국어원과의 협력을 계기로 한국어의 과학화, 세계화에도 기여할 계획\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤이 7일 국립국어원과 업무 협약을 체결하고, 국립국어원의 언어 정보를 활용하여 한국어에 최적화된 차세대 인공지능(AI) 언어 모델을 개발하기로 했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "차세대 AI 한국어 모델은 사람의 능력 수준으로 평가되는 GPT-3와 유사한 성능을 발휘하는 한국어 범용 언어 모델(GLM)이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "언어 관련 문제풀이, 글짓기, 번역 및 주어진 문장에 따라 간단한 코딩을 수행할 수 있는 GPT-3의 기능을 한국어에서도 구현할 수 있게 된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "GLM은 일상의 감성대화, 다양한 업종의 고객센터 대화뿐 아니라 시사, 문학, 역사, 게임에 이르기까지 다양한 영역의 언어 활동에 적용될 수 있으며, 이를 기반으로 새로운 산업 분야에 추가 활용될 수 있을 것으로 기대된다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SK텔레콤이 개발하는 GLM은 1500억개의 매개변수를 가진 거대 언어 모델로 개발될 예정이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최신 언어 모델인 GPT-3가 1750억개의 매개변수를 가지고 있는 것을 감안하면 GLM은 한국어 AI 언어 모델에서 보다 높은 정확도와 넓은 활용도를 가질 것으로 보인다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SK텔레콤은 올해 말까지 GLM을 개발하여 내부 서비스를 통해 모델 성능을 검증한 후 상용화를 진행할 예정이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또한, 한국어 언어모델 성능 평가 방법 개발 및 한국어 데이터 품질 평가 연구도 추진한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "SK텔레콤은 2018년부터 AI 언어모델을 개발해 왔으며 2019년 KoBERT를 개발하여 챗봇 등에 활용하고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지난해 4월 KoGPT-2를 개발 완료해 챗봇의 대화를 보다 자연스럽게 발전시켰으며, 같은 해 10월에는 뉴스나 문서를 고품질 요약문으로 만들어내는 능력 등 텍스트 처리 역량이 뛰어난 KoBART를 개발하여 자연어 이해·처리 영역의 기술력을 강화해 왔다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이와 함께 국립국어원은 '2021년 국어 정보처리 시스템 경진대회'를 SK텔레콤의 AI 언어 모델을 활용하여 AI의 언어소통 능력을 겨루는 방식으로 개편해 한글 주간에 개최하기로 했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "데이비스 에릭 하트먼 SK텔레콤 Language Superintelligence Labs장은 \\\"SKT는 한국어에 최적화된 인공지능 언어모델을 선제적으로 개발하여 한국어의 정보화에 이바지하고 있다\\\"며, 이번 국립국어원과의 협력을 계기로 한국어의 과학화, 세계화에도 기여할 계획\\\"이라고 밝혔다.",
+				"sentenceSize": 165
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKT, 국립국어원과 AI 한국어 모델 개발 협력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014387",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "'탄산수' PL덕에 날개 달았네",
+		"newsSubTitle": "",
+		"newsContent": "계절과 시기를 막론하고 탄산수의 인기가 계속되고 있다.\n20일 이마트에 따르면 전체생수 매출에서 탄산수가 차지하는 비중은 2013년 5.4%였으나 지난해 6.4%로 늘어난 데 이어 올해 1분기 11.0%까지 증가했다.\n이마트의 탄산수 매출 역시 2013년에서 2014년 1년 사이에 25.4% 신장했다.\n더욱이 지난달에는 최초로 탄산수 매출이 사이다 매출을 뛰어넘으며 날이 갈수록 더해지는 탄산수의 인기를 실감케 했다.\n그 중심에 있는 것은 다름 아닌 PL 상품이다.\n이마트는 지난 6월 세종대왕이 머물며 심신을 다스렸던 일화로 유명한 초정리 광천수를 원재료로 사용하고 탄산 보관능력이 우수하다고 알려진 유리병 용기를 택한 '피코크 스파클링 워터'를 출시, 한 달 만에 판매수량 10만개를 돌파한 데 이어 현재까지 138만개의 누적판매량을 기록 중이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "계절과 시기를 막론하고 탄산수의 인기가 계속되고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 이마트에 따르면 전체생수 매출에서 탄산수가 차지하는 비중은 2013년 5.4%였으나 지난해 6.4%로 늘어난 데 이어 올해 1분기 11.0%까지 증가했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이마트의 탄산수 매출 역시 2013년에서 2014년 1년 사이에 25.4% 신장했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "더욱이 지난달에는 최초로 탄산수 매출이 사이다 매출을 뛰어넘으며 날이 갈수록 더해지는 탄산수의 인기를 실감케 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그 중심에 있는 것은 다름 아닌 PL 상품이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이마트는 지난 6월 세종대왕이 머물며 심신을 다스렸던 일화로 유명한 초정리 광천수를 원재료로 사용하고 탄산 보관능력이 우수하다고 알려진 유리병 용기를 택한 '피코크 스파클링 워터'를 출시, 한 달 만에 판매수량 10만개를 돌파한 데 이어 현재까지 138만개의 누적판매량을 기록 중이다.",
+				"sentenceSize": 159
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "영동 곶감 '대박 행진'… 용산·부산역 행사서 4억 매출",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

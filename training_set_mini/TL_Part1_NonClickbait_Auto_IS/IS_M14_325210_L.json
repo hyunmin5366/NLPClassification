@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325210",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[사이버위협 인텔리전스]SK인포섹 '정부, 기업 협력해 위협 인텔리전스 탐지대응체계 마련'",
+		"newsSubTitle": "",
+		"newsContent": "SK인포섹은 기업, 보안전문업체, 정부 협력으로 위협 인텔리전스 기반 탐지대응체계 전환이 필요하다고 설명했다.\n이재우 SK인포섹 그룹장은 지난해 국내에서 발생한 주요 보안사고 사례를 중심으로 위협 인텔리전스를 활용해 공격자를 프로파일링하는 방법과 분석 결과를 발표했다.\n프로파일링은 여러 공격자 그룹을 해킹 목적, 타깃 식별 등으로 연관성을 분석한다.\n보안위협은 공격자 그룹에 따라 대응체계가 달라져야 한다.\n북한공격으로 판별됐을 때는 대응위험도를 높이는 것이 일반적이다.\n공격자 성향에 따라 서버 해킹, 엔드포인트 해킹 등 다양한 형태로 보안위협이 발생하기 때문에 대응방법 자체가 다르다.\n타깃 성향파악이 무엇보다 중요한 이유다.\n이 그룹장은 “공격형태, IP, 개발 코드 등을 바탕으로 프로파일링해 70% 이상 비슷한 형태를 보이면 같은 공격자로 판단한다”고 말했다.\n이 그룹장은 지난해 발생한 4건의 보안사고를 분석했다.\n이들 사고는 프로파일링기업으로 분석 전 악성코드 배포 방법이 달라 서로 연관성이 없어보였다.\n그러나 해당 기법을 적용해 해시값, 코드성향, URL 등에서 유사점을 보여 3개 사건을 동일 공격자로 분류했다.\n공격자는 빠르게 진화하지만 악성코드 대응체계는 여전히 과거에 머물러 있다.\n대부분 기업이 악성코드 감염 시 해결법은 운용체계 포맷으로 끝낸다.\n하지만 중앙관리 서버가 악성코드에 감염되면 포맷된 PC는 다시 악성코드에 감염된다.\n서로 정보를 공유하는 위협 인텔리전스 기반 탐지대응체계 전환이 필요하다.\n이 그룹장은 “향후 공격은 원인파악과 탐지가 더 어려워 질 것”이라면서 “기업, 보안전문업체, 정부 협력 등 데이터를 주고받고 능동적으로 대응할 수 있는 체계를 만드는 것이 중요하다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK인포섹은 기업, 보안전문업체, 정부 협력으로 위협 인텔리전스 기반 탐지대응체계 전환이 필요하다고 설명했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이재우 SK인포섹 그룹장은 지난해 국내에서 발생한 주요 보안사고 사례를 중심으로 위협 인텔리전스를 활용해 공격자를 프로파일링하는 방법과 분석 결과를 발표했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "프로파일링은 여러 공격자 그룹을 해킹 목적, 타깃 식별 등으로 연관성을 분석한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보안위협은 공격자 그룹에 따라 대응체계가 달라져야 한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "북한공격으로 판별됐을 때는 대응위험도를 높이는 것이 일반적이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공격자 성향에 따라 서버 해킹, 엔드포인트 해킹 등 다양한 형태로 보안위협이 발생하기 때문에 대응방법 자체가 다르다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "타깃 성향파악이 무엇보다 중요한 이유다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 그룹장은 “공격형태, IP, 개발 코드 등을 바탕으로 프로파일링해 70% 이상 비슷한 형태를 보이면 같은 공격자로 판단한다”고 말했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 그룹장은 지난해 발생한 4건의 보안사고를 분석했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이들 사고는 프로파일링기업으로 분석 전 악성코드 배포 방법이 달라 서로 연관성이 없어보였다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "그러나 해당 기법을 적용해 해시값, 코드성향, URL 등에서 유사점을 보여 3개 사건을 동일 공격자로 분류했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "공격자는 빠르게 진화하지만 악성코드 대응체계는 여전히 과거에 머물러 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "대부분 기업이 악성코드 감염 시 해결법은 운용체계 포맷으로 끝낸다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "하지만 중앙관리 서버가 악성코드에 감염되면 포맷된 PC는 다시 악성코드에 감염된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "서로 정보를 공유하는 위협 인텔리전스 기반 탐지대응체계 전환이 필요하다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이 그룹장은 “향후 공격은 원인파악과 탐지가 더 어려워 질 것”이라면서 “기업, 보안전문업체, 정부 협력 등 데이터를 주고받고 능동적으로 대응할 수 있는 체계를 만드는 것이 중요하다”고 덧붙였다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[사이버위협 인텔리전스]SK인포섹 '정부, 기업 협력해 위협 인텔리전스 탐지대응체계 마련'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

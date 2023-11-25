@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331310",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "나무소프트, 랜섬웨어 예방 보안 파일서버 인기",
+		"newsSubTitle": "",
+		"newsContent": "5월 중순 발생한 대규모 랜섬웨어 공격으로 국내외를 막론하고 막대한 피해를 입었다.\n하지만 뚜렷한 예방 대책이 없어 잇따를 공격에 대한 우려가 높아지고 있다.\n국내 중소기업인 나무소프트는 최근 모든 랜섬웨어를 미연에 방지할 수 있는 보안 파일 서버 솔루션을 출시해 업계 주목을 받고 있다.\n나무소프트가 만든 '파일링박스 2.0' 솔루션은 PC에서 C 또는 D로 표시되는 로컬 드라이브와 같이 자동으로 E 드라이브가 생성돼 마치 로컬 D 드라이브와 동일한 사용 경험을 제공하면서 기존 파일 서버가 갖지 못한 랜섬웨어 사전 차단 기능을 제공한다.\n일반 파일 서버와 달리 파일링박스에서 제공하는 드라이브에서 파일을 열면 파일이 CD롬처럼 읽기 전용으로 열람된다.\nPC가 랜섬웨어에 감염되더라도 파일링박스 내 문서는 암호화되지 않는 특징이 있다.\n보안전문가들은 \\\"우리 회사는 방화벽으로 막혀있으니까. 백신을 깔았으니까 괜찮겠지라고 생각하면 큰 재앙을 불러올 수 있다\\\"고 경고한다.\n랜섬웨어침해대응센터의 2017년 침해분석 보고서에 따르면, 피해자 대부분은 최소한 백신은 사용하고 있었고 감염사례 절반 이상이 방화벽 등 보안솔루션을 도입한 가운데 당한 것으로 나타났다.\n또 하드디스크에 보안 영역을 만들어 저장하는 솔루션은 괜찮다고 생각하는 것도 문제로 지적된다.\n발견된 랜섬웨어 중에는 몸값을 지급하지 않으면 하드디스크 자체를 못쓰게 하는 것도 있다.\n강봉호 나무소프트 전략사업본부장은 \\\"랜섬웨어 피해를 막기 위해서는 적어도 PC와 분리된 저장소에 데이터가 저장돼 있어야 한다\\\"고 강조했다.\n드롭박스 같은 클라우드에 연결돼 있다고 안심하는 것도 피해를 예약하는 것과 다름없다는 주장이다.\n올해 미국 샌프란시스코에서 열린 세계 최고 보안 콘퍼런스 'RSA 2017' 자료에 따르면 랜섬웨어 감염 시 A클라우드기업의 경우 70%가량이 스토리지 내용도 감염되었다고 한다.\nPC에 동기화 우선권을 주게 되면 PC 내용으로 동기화가 이뤄지기 때문에 감염된 자료로 클라우드 저장소도 동기화가 돼 버리기 때문이다.\n우종현 나무소프트 대표는 \\\"파일링박스 2.0에는 회사 조직도에 기반한 문서접근 제어 외에 사용자 파일의 자동 업로드 등 편리하고 보안성 높은 협업∙관리 기능이 탑재돼 있다\\\"며 \\\"모든 랜섬웨어를 방지할 수 있는 세계 최초 보안 파일 서버 솔루션\\\"이라고 말했다.\n한편 파일링박스 2.0은 SK텔레콤, 경찰청, KB국민카드, NH투자증권 등 많은 기업에서 사용하고 있어 안정성과 보안성이 검증된 솔루션이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "5월 중순 발생한 대규모 랜섬웨어 공격으로 국내외를 막론하고 막대한 피해를 입었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하지만 뚜렷한 예방 대책이 없어 잇따를 공격에 대한 우려가 높아지고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내 중소기업인 나무소프트는 최근 모든 랜섬웨어를 미연에 방지할 수 있는 보안 파일 서버 솔루션을 출시해 업계 주목을 받고 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "나무소프트가 만든 '파일링박스 2.0' 솔루션은 PC에서 C 또는 D로 표시되는 로컬 드라이브와 같이 자동으로 E 드라이브가 생성돼 마치 로컬 D 드라이브와 동일한 사용 경험을 제공하면서 기존 파일 서버가 갖지 못한 랜섬웨어 사전 차단 기능을 제공한다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일반 파일 서버와 달리 파일링박스에서 제공하는 드라이브에서 파일을 열면 파일이 CD롬처럼 읽기 전용으로 열람된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "PC가 랜섬웨어에 감염되더라도 파일링박스 내 문서는 암호화되지 않는 특징이 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "보안전문가들은 \\\"우리 회사는 방화벽으로 막혀있으니까. 백신을 깔았으니까 괜찮겠지라고 생각하면 큰 재앙을 불러올 수 있다\\\"고 경고한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "랜섬웨어침해대응센터의 2017년 침해분석 보고서에 따르면, 피해자 대부분은 최소한 백신은 사용하고 있었고 감염사례 절반 이상이 방화벽 등 보안솔루션을 도입한 가운데 당한 것으로 나타났다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 하드디스크에 보안 영역을 만들어 저장하는 솔루션은 괜찮다고 생각하는 것도 문제로 지적된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "발견된 랜섬웨어 중에는 몸값을 지급하지 않으면 하드디스크 자체를 못쓰게 하는 것도 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "강봉호 나무소프트 전략사업본부장은 \\\"랜섬웨어 피해를 막기 위해서는 적어도 PC와 분리된 저장소에 데이터가 저장돼 있어야 한다\\\"고 강조했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "드롭박스 같은 클라우드에 연결돼 있다고 안심하는 것도 피해를 예약하는 것과 다름없다는 주장이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "올해 미국 샌프란시스코에서 열린 세계 최고 보안 콘퍼런스 'RSA 2017' 자료에 따르면 랜섬웨어 감염 시 A클라우드기업의 경우 70%가량이 스토리지 내용도 감염되었다고 한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "PC에 동기화 우선권을 주게 되면 PC 내용으로 동기화가 이뤄지기 때문에 감염된 자료로 클라우드 저장소도 동기화가 돼 버리기 때문이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "우종현 나무소프트 대표는 \\\"파일링박스 2.0에는 회사 조직도에 기반한 문서접근 제어 외에 사용자 파일의 자동 업로드 등 편리하고 보안성 높은 협업∙관리 기능이 탑재돼 있다\\\"며 \\\"모든 랜섬웨어를 방지할 수 있는 세계 최초 보안 파일 서버 솔루션\\\"이라고 말했다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "한편 파일링박스 2.0은 SK텔레콤, 경찰청, KB국민카드, NH투자증권 등 많은 기업에서 사용하고 있어 안정성과 보안성이 검증된 솔루션이다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "나무소프트, 랜섬웨어 예방 보안 파일서버 인기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

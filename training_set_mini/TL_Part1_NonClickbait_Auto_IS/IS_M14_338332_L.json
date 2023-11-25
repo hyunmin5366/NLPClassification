@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338332",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "명인이노, QCT GPU서버 국내 공급 개시",
+		"newsSubTitle": "",
+		"newsContent": "명인이노(대표 원용선)가 글로벌 서버 기업 QCT의 GPU 서버 국내 공급을 시작한다.\nQCT는 데이터센터 토털 솔루션 제공 업체로 뛰어난 성능과 품질의 서버 하드웨어를 기반으로 명성을 쌓아왔다.\n최근 AI·HPC·빅데이터·딥러닝 등에 적합한 GPU 서버를 공급하며 시장을 선도하고 있다.\n이번에 출시하는 콴타그리드 D52G-4U와 콴타그리드 D52BV-2U는 엔비디아 차세대 볼타 아키텍처를 기반으로 인공지능 및 슈퍼컴퓨팅 환경에 대응하는 고성능 GPU 서버다.\n최대 8개 GPU를 탑재할 수 있는 D52G-4U는 PCIe 모델과 SXM2 모델이 있다.\n최대 4개 GPU를 탑재할 수 있는 D52BV-2U는 4U 제품 기술 요소를 적용하면서 신속한 I/O 처리를 요하는 분야에 대응하는 병렬처리컴퓨팅 플랫폼으로 구성됐다.\n다양한 형태 PCIe 인터페이스를 구성할 수 있도록 해 서버 플랫폼 유연성을 높였다.\n두 제품 모두 2개 인텔 제온 스케일러블 프로세서를 탑재했으며 GPU 메모리 간 직접 통신이 가능한 GPU 다이렉트 RDMA를 지원한다.\n명인이노는 자체 도커를 통해 고객사에게 컨테이너 업그레이드, 패치 라이브러리 지원, 솔루션 Q&A 등 차별화된 사후관리를 제공할 계획이다.\n원용선 명인이노 대표는 “QCT GPU 서버는 글로벌 시장에서 안정적 품질과 탁월한 성능을 바탕으로 대형 데이터센터 벤더를 주요 고객사로 두고 있다”면서 “고성능 딥러닝 컴퓨팅 분야에 가장 적합한 QCT GPU 서버와 명인이노의 축적된 엔지니어링 경험이 좋은 시너지를 낼 것으로 기대한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "명인이노(대표 원용선)가 글로벌 서버 기업 QCT의 GPU 서버 국내 공급을 시작한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "QCT는 데이터센터 토털 솔루션 제공 업체로 뛰어난 성능과 품질의 서버 하드웨어를 기반으로 명성을 쌓아왔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 AI·HPC·빅데이터·딥러닝 등에 적합한 GPU 서버를 공급하며 시장을 선도하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번에 출시하는 콴타그리드 D52G-4U와 콴타그리드 D52BV-2U는 엔비디아 차세대 볼타 아키텍처를 기반으로 인공지능 및 슈퍼컴퓨팅 환경에 대응하는 고성능 GPU 서버다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최대 8개 GPU를 탑재할 수 있는 D52G-4U는 PCIe 모델과 SXM2 모델이 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최대 4개 GPU를 탑재할 수 있는 D52BV-2U는 4U 제품 기술 요소를 적용하면서 신속한 I/O 처리를 요하는 분야에 대응하는 병렬처리컴퓨팅 플랫폼으로 구성됐다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다양한 형태 PCIe 인터페이스를 구성할 수 있도록 해 서버 플랫폼 유연성을 높였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "두 제품 모두 2개 인텔 제온 스케일러블 프로세서를 탑재했으며 GPU 메모리 간 직접 통신이 가능한 GPU 다이렉트 RDMA를 지원한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "명인이노는 자체 도커를 통해 고객사에게 컨테이너 업그레이드, 패치 라이브러리 지원, 솔루션 Q&A 등 차별화된 사후관리를 제공할 계획이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "원용선 명인이노 대표는 “QCT GPU 서버는 글로벌 시장에서 안정적 품질과 탁월한 성능을 바탕으로 대형 데이터센터 벤더를 주요 고객사로 두고 있다”면서 “고성능 딥러닝 컴퓨팅 분야에 가장 적합한 QCT GPU 서버와 명인이노의 축적된 엔지니어링 경험이 좋은 시너지를 낼 것으로 기대한다”고 말했다.",
+				"sentenceSize": 167
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "명인이노, QCT GPU서버 국내 공급 개시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

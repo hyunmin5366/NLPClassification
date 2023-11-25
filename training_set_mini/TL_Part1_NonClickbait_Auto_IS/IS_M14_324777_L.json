@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324777",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "제네시스 3세대 G80 'HDA2' 최초 탑재…\\\"고속도로 반자율주행 구현\\\"",
+		"newsSubTitle": "",
+		"newsContent": "제네시스 준대형 세단 'G80' 3세대 모델이 고속도로에서 자율주행에 가까운 기술인 '고속도로주행보조시스템2(HDA2)'를 탑재한다.\n현대자동차그룹은 내년 국내에서는 HDA2를 상용화하고, 미국 시장에 사상 처음으로 신형 쏘나타, G90 등에 HDA를 적용해 자율주행 분야에서 한 단계 도약한다는 계획이다.\n12일 현대차그룹에 따르면 고급 브랜드 제네시스는 내년 하반기 출시 예정인 신형 G80에 고속도로에서 일정 시간 동안 조향과 가·감속 없이 주행이 가능한 'HDA2'를 장착한다.\n당초 플래그십 세단 'EQ900' 페이스리프트 모델인 2019년형 'G90'부터 HDA2를 적용할 계획이었지만, 하드웨어(HW)와 소프트웨어(SW) 안정화를 위해 내년으로 미뤄졌다.\n현대차그룹은 HDA2를 완성하기 위해 HW와 SW 분야에서 상당한 R&D를 진행했다.\nHDA2는 전방과 측방에 레이더를 추가로 장착해 갑자기 끼어드는 차량이 있으면 속도를 자동으로 제어, 빠른 대응이 가능하다.\n이에 따라 센서 미인지로 인한 주행 중 급제동을 방지할 수 있다.\n기존 HDA 센서 인식 범위는 전방과 후방인 데 반해 HDA2는 센서와 카메라 개수를 늘려 차량 주변 360도 인식이 가능하다.\nHDA2는 고속도로 주행 시 운전자가 방향지시등만 켜주면 차 스스로 차선 변경이나 분기로 진입, 본선 합류가 가능하다.\n이는 현재 메르세데스-벤츠 '드라이브 파일럿(Drive Pilot,)', 테슬라 '오토파일럿(Autoilot)' 등 일부 업체만 양산차에 적용하는 기술이다.\n미국자동차공학회(SAE) 기준 '레벨2'에 해당하지만, 고속도로에서 만큼은 '레벨3'에 버금간다.\nBMW, 볼보 등 부분자율주행 선두기업도 조향 보조를 제공하는 정도에 불과하다.\n지도 정보도 일반 전자지도에서 ADAS 맵으로 업데이트했다.\nADAS 맵은 정밀도가 일반 전자지도보다 10배가량 높다.\n또 지도 데이터에 도로 곡률, 경사도, 제한속도, 분기점 등 도로 정보를 포함하고 있다.\n이에 따라 HDA2는 지도 정보와 카메라, 레이더 등 '센싱(Sensing)' 정보를 통합해서 최적의 부분 자율주행을 수행한다.\n현대차그룹 관계자는 “HDA2는 사실상 레벨3에 가까운 ADAS 기술로, 이론적으로는 서울에서 부산까지 운전자 개입 없이 주행이 가능한 수준”이라며 “향후 2~3년 내로 HDA3, 레벨3 자율주행 등 다양한 기술을 내놓을 것”이라고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "제네시스 준대형 세단 'G80' 3세대 모델이 고속도로에서 자율주행에 가까운 기술인 '고속도로주행보조시스템2(HDA2)'를 탑재한다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대자동차그룹은 내년 국내에서는 HDA2를 상용화하고, 미국 시장에 사상 처음으로 신형 쏘나타, G90 등에 HDA를 적용해 자율주행 분야에서 한 단계 도약한다는 계획이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "12일 현대차그룹에 따르면 고급 브랜드 제네시스는 내년 하반기 출시 예정인 신형 G80에 고속도로에서 일정 시간 동안 조향과 가·감속 없이 주행이 가능한 'HDA2'를 장착한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당초 플래그십 세단 'EQ900' 페이스리프트 모델인 2019년형 'G90'부터 HDA2를 적용할 계획이었지만, 하드웨어(HW)와 소프트웨어(SW) 안정화를 위해 내년으로 미뤄졌다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현대차그룹은 HDA2를 완성하기 위해 HW와 SW 분야에서 상당한 R&D를 진행했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "HDA2는 전방과 측방에 레이더를 추가로 장착해 갑자기 끼어드는 차량이 있으면 속도를 자동으로 제어, 빠른 대응이 가능하다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 따라 센서 미인지로 인한 주행 중 급제동을 방지할 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기존 HDA 센서 인식 범위는 전방과 후방인 데 반해 HDA2는 센서와 카메라 개수를 늘려 차량 주변 360도 인식이 가능하다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "HDA2는 고속도로 주행 시 운전자가 방향지시등만 켜주면 차 스스로 차선 변경이나 분기로 진입, 본선 합류가 가능하다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이는 현재 메르세데스-벤츠 '드라이브 파일럿(Drive Pilot,)', 테슬라 '오토파일럿(Autoilot)' 등 일부 업체만 양산차에 적용하는 기술이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "미국자동차공학회(SAE) 기준 '레벨2'에 해당하지만, 고속도로에서 만큼은 '레벨3'에 버금간다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "BMW, 볼보 등 부분자율주행 선두기업도 조향 보조를 제공하는 정도에 불과하다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "지도 정보도 일반 전자지도에서 ADAS 맵으로 업데이트했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "ADAS 맵은 정밀도가 일반 전자지도보다 10배가량 높다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "또 지도 데이터에 도로 곡률, 경사도, 제한속도, 분기점 등 도로 정보를 포함하고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이에 따라 HDA2는 지도 정보와 카메라, 레이더 등 '센싱(Sensing)' 정보를 통합해서 최적의 부분 자율주행을 수행한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "현대차그룹 관계자는 “HDA2는 사실상 레벨3에 가까운 ADAS 기술로, 이론적으로는 서울에서 부산까지 운전자 개입 없이 주행이 가능한 수준”이라며 “향후 2~3년 내로 HDA3, 레벨3 자율주행 등 다양한 기술을 내놓을 것”이라고 했다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제네시스 3세대 G80 'HDA2' 최초 탑재…\\\"고속도로 반자율주행 구현\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

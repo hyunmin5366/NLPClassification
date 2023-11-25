@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_001331",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "네이버, AI로 뉴스 영상 자막 제공한다",
+		"newsSubTitle": "",
+		"newsContent": "네이버가 방송 뉴스 콘텐츠에 네이버의 인공지능(AI) 플랫폼 클로바 엔진을 활용한 자동 자막 생성 서비스를 선보이겠다고 3일 밝혔다.\nPC, 모바일 웹, 네이버TV 앱에서 방송 뉴스(지상파 3사, 종편 4사, 보도채널 2사)를 시청할 때 인공지능 엔진이 생성한 자막을 이용할 수 있다.\n이에 대중교통이나 공공장소 등 음성 콘텐츠를 즐길 수 없는 환경에서도 동영상 뉴스를 접할 수 있게 된다.\n기사에 포함된 동영상 플레이어 우측 하단의 '자막' 기능을 설정하면 서비스를 이용할 수 있다. 1월 3일 오전 이후 송고되는 영상 기사부터 적용된다.\n네이버는 \\\"해당 기능은 네이버의 AI 기술 플랫폼 클로바의 STT(Speech to Text) 엔진이 고도화됨에 따라 선보이게 되었다\\\"고 밝혔다.\nSTT는 음성을 문자로 변환하는 인공지능 기술로, 음성검색이나 인공지능 스피커와 같이 음성 정보를 매개로 활용하는 서비스의 핵심 기술 중 하나이다.\n네이버는 내부 테스트 결과, 자막의 정확도가 92% 이상이었다고 밝혔다.\n긴 문장이 이어지는 영상 보도에도 높은 정확도의 자막이 가능한 것은 장문의 음성 받아쓰기에 특화된 클로바의 end-to-end 방식 음성인식 엔진인 '클로바 NEST(Neural End-to-end Speech Transcriber, 심층신경망 엔드투엔드 음성 자동자막 생성기)'가 도입됐기 때문이다.\n현재는 네이버 PC 웹, 모바일 웹, 네이버TV 앱에만 우선 적용됐으며, 1분기 내에는 네이버 앱에도 적용될 예정이다.\n네이버 관계자는 미디어SR에 \\\"일반 동영상 등 다양한 영역으로 확대해나갈 예정\\\"이라 전했다.\n네이버 유봉석 서비스 운영총괄은 \\\"고도화된 인공지능 기술이 서비스를 통해 이용자들의 실생활에 도움을 줄 수 있게 되었다\\\"며 \\\"앞으로 뉴스만이 아닌 다양한 동영상 콘텐츠에도 해당 기술을 통한 자막 서비스를 만나볼 수 있게 될 것\\\"이라 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 방송 뉴스 콘텐츠에 네이버의 인공지능(AI) 플랫폼 클로바 엔진을 활용한 자동 자막 생성 서비스를 선보이겠다고 3일 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "PC, 모바일 웹, 네이버TV 앱에서 방송 뉴스(지상파 3사, 종편 4사, 보도채널 2사)를 시청할 때 인공지능 엔진이 생성한 자막을 이용할 수 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 대중교통이나 공공장소 등 음성 콘텐츠를 즐길 수 없는 환경에서도 동영상 뉴스를 접할 수 있게 된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기사에 포함된 동영상 플레이어 우측 하단의 '자막' 기능을 설정하면 서비스를 이용할 수 있다. 1월 3일 오전 이후 송고되는 영상 기사부터 적용된다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버는 \\\"해당 기능은 네이버의 AI 기술 플랫폼 클로바의 STT(Speech to Text) 엔진이 고도화됨에 따라 선보이게 되었다\\\"고 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "STT는 음성을 문자로 변환하는 인공지능 기술로, 음성검색이나 인공지능 스피커와 같이 음성 정보를 매개로 활용하는 서비스의 핵심 기술 중 하나이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버는 내부 테스트 결과, 자막의 정확도가 92% 이상이었다고 밝혔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "긴 문장이 이어지는 영상 보도에도 높은 정확도의 자막이 가능한 것은 장문의 음성 받아쓰기에 특화된 클로바의 end-to-end 방식 음성인식 엔진인 '클로바 NEST(Neural End-to-end Speech Transcriber, 심층신경망 엔드투엔드 음성 자동자막 생성기)'가 도입됐기 때문이다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "현재는 네이버 PC 웹, 모바일 웹, 네이버TV 앱에만 우선 적용됐으며, 1분기 내에는 네이버 앱에도 적용될 예정이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "네이버 관계자는 미디어SR에 \\\"일반 동영상 등 다양한 영역으로 확대해나갈 예정\\\"이라 전했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "네이버 유봉석 서비스 운영총괄은 \\\"고도화된 인공지능 기술이 서비스를 통해 이용자들의 실생활에 도움을 줄 수 있게 되었다\\\"며 \\\"앞으로 뉴스만이 아닌 다양한 동영상 콘텐츠에도 해당 기술을 통한 자막 서비스를 만나볼 수 있게 될 것\\\"이라 밝혔다.",
+				"sentenceSize": 138
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "기업은행-소상공인연합회, 소상공인 디지털 경쟁력 강화 업무협약",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

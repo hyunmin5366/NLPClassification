@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326723",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[이슈분석]인터넷망 상호접속 제도 변천사",
+		"newsSubTitle": "",
+		"newsContent": "인터넷 망 상호접속 제도가 정식 도입된 시점은 2004년 7월이다.\n옛 정보통신부는 초고속인터넷을 부가통신역무에서 기간통신역무로 변경하고 강력한 규제를 가하기 시작했다.\n상호접속이 공정하지 않으면 초고속 인터넷 시장에서 공정경쟁이 어렵다고 판단한 것이다.\n옛 정통부는 2004년 말 전기통신설비 상호접속기준을 도입했다.\n이를 통해 상호접속 의무화, 대형 통신사(ISP) 라우팅 정보 공개 등 조치를 단행했다.\n2016년 1월 1일에는 동일 계위 간 상호정산을 특징으로 하는 새로운 상호접속고시가 시행됐다.\n1계위 상호 간에도 접속료를 정산하도록 의무화한 게 골자다.\n요율도 회선연동용량별(Gbps) 체계에서 데이터트래픽(TB) 기반으로 변경했다.\n인터넷 망 상호접속 제도에서 가장 중요한 것은 계위 평가와 정산 방식이다.\n국내에선 통신망 규모와 가입자 수, 트래픽 교환비율을 기준으로 계위를 평가한다. 1계위는 KT와 SK브로드밴드, LG유플러스다.\n나머지 계위는 상대 평가한다.\n계위가 작은 쪽이 망 외부효과에 따른 이익을 보기 때문에 중계접속은 하위 계위가 상위 계위에 일방 정산하는 구조다.\n과거에는 통신사가 마음대로 계위를 정했지만 지금은 표준인터넷접속조건을 통해 정확한 계위 평가가 가능하다.\n이는 하위 계위 사업자가 상위 계위로 올라갈 수 있다는 의미로, 망 투자 유인이 된다.\n인터넷 망 상호접속 제도는 통신사와 콘텐츠제공사업자(CP) 간 갈등 원인으로 지목돼왔다.\n인터넷 망 상호접속료 제도는 데이터 트래픽 폭증에 대비해 명확한 기준에 따른 공정한 접속 규칙이다.\n네트워크 투자 기반을 조성하기 위한 합리적 장치로 볼 수 있다.\n과학기술정보통신부가 접속료를 대폭 인하하면서도 제도 틀을 유지하려는 이유다.\n이 같은 명분에도 CP는 인터넷망 상호접속료 제도에 회의적 입장이다.\n접속료 증가가 망 이용대가 상승으로 이어질 것이라는 우려 때문이다.\n2018년 페이스북의 접속경로 변경 사태를 계기로 CP 반발이 증폭됐다.\n반면에 통신사는 접속료가 망 이용대가를 증가시키는 명확한 인과관계는 없다며 망 유지비용 분담을 위해 인터넷망 상호접속료 제도를 유지해야 한다고 맞서고 있다.\n과기정통부는 이 같은 논란을 배제하고 통신사, 종합유선방송사업자(SO) 등과 2020~2021년 인터넷상호접속료 요율 협상을 마무리했다.\n통신사의 전격 양보를 유도해, 역대 최대 폭인 30% 인하 방안을 마련했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인터넷 망 상호접속 제도가 정식 도입된 시점은 2004년 7월이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "옛 정보통신부는 초고속인터넷을 부가통신역무에서 기간통신역무로 변경하고 강력한 규제를 가하기 시작했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "상호접속이 공정하지 않으면 초고속 인터넷 시장에서 공정경쟁이 어렵다고 판단한 것이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "옛 정통부는 2004년 말 전기통신설비 상호접속기준을 도입했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 통해 상호접속 의무화, 대형 통신사(ISP) 라우팅 정보 공개 등 조치를 단행했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2016년 1월 1일에는 동일 계위 간 상호정산을 특징으로 하는 새로운 상호접속고시가 시행됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "1계위 상호 간에도 접속료를 정산하도록 의무화한 게 골자다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "요율도 회선연동용량별(Gbps) 체계에서 데이터트래픽(TB) 기반으로 변경했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "인터넷 망 상호접속 제도에서 가장 중요한 것은 계위 평가와 정산 방식이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "국내에선 통신망 규모와 가입자 수, 트래픽 교환비율을 기준으로 계위를 평가한다. 1계위는 KT와 SK브로드밴드, LG유플러스다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "나머지 계위는 상대 평가한다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "계위가 작은 쪽이 망 외부효과에 따른 이익을 보기 때문에 중계접속은 하위 계위가 상위 계위에 일방 정산하는 구조다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "과거에는 통신사가 마음대로 계위를 정했지만 지금은 표준인터넷접속조건을 통해 정확한 계위 평가가 가능하다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이는 하위 계위 사업자가 상위 계위로 올라갈 수 있다는 의미로, 망 투자 유인이 된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "인터넷 망 상호접속 제도는 통신사와 콘텐츠제공사업자(CP) 간 갈등 원인으로 지목돼왔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "인터넷 망 상호접속료 제도는 데이터 트래픽 폭증에 대비해 명확한 기준에 따른 공정한 접속 규칙이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "네트워크 투자 기반을 조성하기 위한 합리적 장치로 볼 수 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "과학기술정보통신부가 접속료를 대폭 인하하면서도 제도 틀을 유지하려는 이유다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이 같은 명분에도 CP는 인터넷망 상호접속료 제도에 회의적 입장이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "접속료 증가가 망 이용대가 상승으로 이어질 것이라는 우려 때문이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "2018년 페이스북의 접속경로 변경 사태를 계기로 CP 반발이 증폭됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "반면에 통신사는 접속료가 망 이용대가를 증가시키는 명확한 인과관계는 없다며 망 유지비용 분담을 위해 인터넷망 상호접속료 제도를 유지해야 한다고 맞서고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "과기정통부는 이 같은 논란을 배제하고 통신사, 종합유선방송사업자(SO) 등과 2020~2021년 인터넷상호접속료 요율 협상을 마무리했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "통신사의 전격 양보를 유도해, 역대 최대 폭인 30% 인하 방안을 마련했다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]인터넷망 상호접속 제도 변천사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

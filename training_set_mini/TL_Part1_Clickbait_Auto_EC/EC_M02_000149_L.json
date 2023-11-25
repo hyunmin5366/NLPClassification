@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000149",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "카카오브레인, 드론 기술 개발 프로젝트 진행... 드론사업 진출은 아냐",
+		"newsSubTitle": "",
+		"newsContent": "카카오브레인이 드론 관련 로보틱스 기술 개발을 진행하고 있다고 밝혔다.\n카카오브레인은 16일 공식 블로그를 통해 \\\"(카카오브레인의) 드론팀은 카카오 서비스 접목과는 별개로, 드론 제품 개발 및 로보틱스 연구 등 원천 기술에 개발을 진행하고 있다\\\"고 밝혔다.\n카카오브레인은 인공지능을 가미한 자율비행 드론을 연구하는 딥 드론(Deep Drone)팀을 꾸려, 현재 카카오브레인 판교 연구소에서 연구를 진행하고 있다.\n카카오브레인과 지난 1월 인터뷰를 진행한 딥 드론 팀 소속 김태규 엔지니어는 \\\"이번 목표는 드론을 제품화하는 것이다. 아직 갈 길은 멀고 멀지만, 현재는 드론에 탑재되는 다양한 센서의 퓨전을 개선하는 데 집중하고 있다\\\"고 밝혔다.\n카카오브레인이 드론 관련 AI 기술을 개발하고 있지만, 카카오가 드론 사업에 진출한다는 의미는 아니다.\n카카오 김유한 홍보팀 매니저는 미디어SR에 \\\"카카오가 드론 사업에 진출하거나 드론을 개발하고 있는 것은 아니다. 김태규 엔지니어가 카카오브레인 블로그에 밝힌 것은 개인의 목표로, 카카오브레인 차원의 목표는 아니다\\\"라며 \\\"카카오브레인의 로보틱스 연구 중 드론을 연구하고 있다는 것뿐이다\\\"라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오브레인이 드론 관련 로보틱스 기술 개발을 진행하고 있다고 밝혔다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오브레인은 16일 공식 블로그를 통해 \\\"(카카오브레인의) 드론팀은 카카오 서비스 접목과는 별개로, 드론 제품 개발 및 로보틱스 연구 등 원천 기술에 개발을 진행하고 있다\\\"고 밝혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카카오브레인은 인공지능을 가미한 자율비행 드론을 연구하는 딥 드론(Deep Drone)팀을 꾸려, 현재 카카오브레인 판교 연구소에서 연구를 진행하고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "카카오브레인과 지난 1월 인터뷰를 진행한 딥 드론 팀 소속 김태규 엔지니어는 \\\"이번 목표는 드론을 제품화하는 것이다. 아직 갈 길은 멀고 멀지만, 현재는 드론에 탑재되는 다양한 센서의 퓨전을 개선하는 데 집중하고 있다\\\"고 밝혔다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카카오브레인이 드론 관련 AI 기술을 개발하고 있지만, 카카오가 드론 사업에 진출한다는 의미는 아니다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카카오 김유한 홍보팀 매니저는 미디어SR에 \\\"카카오가 드론 사업에 진출하거나 드론을 개발하고 있는 것은 아니다. 김태규 엔지니어가 카카오브레인 블로그에 밝힌 것은 개인의 목표로, 카카오브레인 차원의 목표는 아니다\\\"라며 \\\"카카오브레인의 로보틱스 연구 중 드론을 연구하고 있다는 것뿐이다\\\"라고 말했다.",
+				"sentenceSize": 170
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대차 정의선 부회장 수소위원회서 3대 비전 제시...맥킨지컨설팅, \\\"수소 원가 10년 내 50% 절감\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

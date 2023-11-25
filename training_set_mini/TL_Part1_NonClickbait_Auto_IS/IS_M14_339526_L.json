@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339526",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "씨큐앤비 범죄·화재예방 솔루션, 지페어코리아 전시",
+		"newsSubTitle": "",
+		"newsContent": "재난·안전솔루션 전문업체 씨큐앤비(대표 이재원)는 1일부터 4일까지 일산 킨텍스에서 열리고 있는 '2017 지페어코리아(G-FAIR KOREA)'에 KT와 함께 사물인터넷(IoT)기반 재난 안전상품을 전시한다.\n씨큐앤비가 선보인 범죄예방 솔루션은 비명을 감지해 112로 자동 신고하는 IoT기반 제품이다.\n우범지역에 비명이 감지되면 CCTV가 이를 감지해 LTE라우터를 통해 영상 스틸컷 및 음원파일을 전송, 신속하게 조치를 취할 수 있게 지원한다.\nKT와 경기창조경제혁신센터가 지원하는 비즈콜라보레이션(BIZ Collaboration) 사업으로 선정됐다.\n전통시장에서 화재가 발생하면 불꽃·연기·온도를 감지할 수 있는 복합화재센서가 작동, 즉시 관련정보를 게이트웨이를 통해 중앙서버로 전송, 화재피해를 최소화하는 특화 솔루션도 선보이고 있다.\n또 옥상 비상문자동개폐기 및 스마트ID카드 등 출입통제 제품도 함께 출시해 홍보하고 있다.\n최근 씨큐앤비는 경기도 유망중소기업 선정 및 굿컴퍼니 대상에 선정됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "재난·안전솔루션 전문업체 씨큐앤비(대표 이재원)는 1일부터 4일까지 일산 킨텍스에서 열리고 있는 '2017 지페어코리아(G-FAIR KOREA)'에 KT와 함께 사물인터넷(IoT)기반 재난 안전상품을 전시한다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "씨큐앤비가 선보인 범죄예방 솔루션은 비명을 감지해 112로 자동 신고하는 IoT기반 제품이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우범지역에 비명이 감지되면 CCTV가 이를 감지해 LTE라우터를 통해 영상 스틸컷 및 음원파일을 전송, 신속하게 조치를 취할 수 있게 지원한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KT와 경기창조경제혁신센터가 지원하는 비즈콜라보레이션(BIZ Collaboration) 사업으로 선정됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전통시장에서 화재가 발생하면 불꽃·연기·온도를 감지할 수 있는 복합화재센서가 작동, 즉시 관련정보를 게이트웨이를 통해 중앙서버로 전송, 화재피해를 최소화하는 특화 솔루션도 선보이고 있다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 옥상 비상문자동개폐기 및 스마트ID카드 등 출입통제 제품도 함께 출시해 홍보하고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근 씨큐앤비는 경기도 유망중소기업 선정 및 굿컴퍼니 대상에 선정됐다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "씨큐앤비 범죄·화재예방 솔루션, 지페어코리아 전시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

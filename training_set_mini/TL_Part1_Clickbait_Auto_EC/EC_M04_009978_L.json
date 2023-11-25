@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009978",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "충남 농가 평균자산 4억원",
+		"newsSubTitle": "전국 3위… 소득은 2709만원 평균치 못미쳐",
+		"newsContent": "충남 농가의 평균 자산이 전국 3위로 나타났다.\n30일 통계청이 제공한 지난해 기준 농ㆍ어가 경제조사 결과를 보면, 연간 충남 농가의 평균 자산은 4억629만1000원으로, 경기(6억7990억여원)와 제주(4억5655억원)에 이어 3위를 차지했다.\n전국 평균인 3억8718만원보다 2000만원 이상 높은 수치다.\n농가소득이 전국 평균치보다 적은 반면, 가계지출과 부채 역시 평균보다 낮았기 때문이다.\n농가소득은 2709만3000원으로 전국 9개 도 중 8위에 그쳤고 평균치인 3014만8000원에 못미쳤다.\n하지만 가계지출(2683만4000원, 6위)과 부채(2265만6000원, 6위) 역시 전국 평균치보다 낮아 이를 상쇄했다.\n충북 농가의 평균 자산은 3억3014만6000원으로 평균치보다 낮았고, 전국 9개 도 중 5위에 올랐다.\n소득은 2855만9000원(7위), 가계지출은 2797만4000원(5위), 부채는 2074만원(7위)으로 각각 조사됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "충남 농가의 평균 자산이 전국 3위로 나타났다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 통계청이 제공한 지난해 기준 농ㆍ어가 경제조사 결과를 보면, 연간 충남 농가의 평균 자산은 4억629만1000원으로, 경기(6억7990억여원)와 제주(4억5655억원)에 이어 3위를 차지했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전국 평균인 3억8718만원보다 2000만원 이상 높은 수치다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "농가소득이 전국 평균치보다 적은 반면, 가계지출과 부채 역시 평균보다 낮았기 때문이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "농가소득은 2709만3000원으로 전국 9개 도 중 8위에 그쳤고 평균치인 3014만8000원에 못미쳤다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 가계지출(2683만4000원, 6위)과 부채(2265만6000원, 6위) 역시 전국 평균치보다 낮아 이를 상쇄했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "충북 농가의 평균 자산은 3억3014만6000원으로 평균치보다 낮았고, 전국 9개 도 중 5위에 올랐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소득은 2855만9000원(7위), 가계지출은 2797만4000원(5위), 부채는 2074만원(7위)으로 각각 조사됐다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "메이필드호텔 서울, MINI·콜맨 협업 '차박 인 더 가든 시즌3' 출시",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

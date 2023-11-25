@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337103",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "한국인 스마트폰 앱 하루 평균 사용시간 200분",
+		"newsSubTitle": "",
+		"newsContent": "우리나라 휴대전화 이용자 하루 평균 모바일 애플리케이션(앱) 사용시간이 3시간 이상이라는 조사결과가 나왔다.\n브라질, 멕시코, 일본, 인도, 미국, 영국, 독일, 프랑스 등을 포함한 주요 9개국 중 최대치다.\n글로벌 앱 분석업체 앱애니가 1분기 9개국 이용자의 모바일 앱 사용 현황을 분석한 결과, 우리나라 이용자 하루 평균 앱 사용시간은 약 200분으로 가장 길었다.\n브라질, 멕시코, 일본이 뒤를 이었다.\n우리나라 이용자는 앱 이용 시간의 25%를 게임하는데 사용한 것으로 나타났다.\n하루 평균 게임 앱 이용 시간도 조사 대상국 중 가장 길었다.\n브라질과 멕시코 이용자는 소셜네트워킹과 커뮤니케이션 앱에 50% 이상 시간을 소비했다.\n분석 대상 9개 국가 스마트폰 사용자는 매달 30개 이상, 매일 최소 9개 모바일 앱을 실행했다.\n앱애니는 \\\"카테고리별 앱 실행 횟수와 사용시간 차이가 큰 만큼 앱이 사용되는 명확한 이유와 시점을 분석하고 그 결과를 앱 구성에 반영할 필요가 있다\\\"고 조언했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리나라 휴대전화 이용자 하루 평균 모바일 애플리케이션(앱) 사용시간이 3시간 이상이라는 조사결과가 나왔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "브라질, 멕시코, 일본, 인도, 미국, 영국, 독일, 프랑스 등을 포함한 주요 9개국 중 최대치다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글로벌 앱 분석업체 앱애니가 1분기 9개국 이용자의 모바일 앱 사용 현황을 분석한 결과, 우리나라 이용자 하루 평균 앱 사용시간은 약 200분으로 가장 길었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "브라질, 멕시코, 일본이 뒤를 이었다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우리나라 이용자는 앱 이용 시간의 25%를 게임하는데 사용한 것으로 나타났다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하루 평균 게임 앱 이용 시간도 조사 대상국 중 가장 길었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "브라질과 멕시코 이용자는 소셜네트워킹과 커뮤니케이션 앱에 50% 이상 시간을 소비했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "분석 대상 9개 국가 스마트폰 사용자는 매달 30개 이상, 매일 최소 9개 모바일 앱을 실행했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "앱애니는 \\\"카테고리별 앱 실행 횟수와 사용시간 차이가 큰 만큼 앱이 사용되는 명확한 이유와 시점을 분석하고 그 결과를 앱 구성에 반영할 필요가 있다\\\"고 조언했다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국인 스마트폰 앱 하루 평균 사용시간 200분",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

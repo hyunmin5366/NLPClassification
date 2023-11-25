@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012307",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "'스마트폰 융합' 디지털 도어록 더 똑똑해진다",
+		"newsSubTitle": "특허출원 3년간 97건",
+		"newsContent": "디지털 도어록(문을 잠그는 장치)이 똑똑해지고 있다.\n2일 특허청에 따르면 스마트폰과 도어록을 융합한 특허출원이 2009년까지 9건에 불과했지만 2010~2012년 3년간 97건으로 급증했다.\n스마트폰 도어록 기술은 ▲근거리 무선통신(NFC) ▲블루투스 ▲와이파이 등 크게 세 가지 무선 통신을 활용하고 있다.\n근거리 무선통신 방식은 스마트폰의 유심(USIM)에 비밀번호와 같은 인증번호를 탑재해 스마트폰을 도어록에 접촉, 현관문을 제어하는 기술이다.\n통신거리가 짧아서 상대적으로 무선보안이 우수하고 가격이 저렴하다.\n블루투스 방식은 사전에 상호 인식된 스마트폰이 일정 범위 안으로 접근하게 되면 손으로 도어록을 터치하는 방식으로 스마트폰과 별도로 개인별로 무선 키를 사용할 수 있어 출입 상황을 실시간으로 확인할 수 있다.\n와이파이 방식은 스마트폰에 설치된 어플리케이션을 통해 현관문을 제어하는 방식으로 스마트폰 고유번호를 인식해 출입자 신원을 확인하는 것은 물론, 전 세계 어디서든 제어할 수 있고, 비정상적으로 작동할 때는 스마트폰 소유자에게 경고 메시지가 전달돼 안전성이 높은 것이 특징이다.\n스마트폰 도어록 기술은 앞으로 국내는 물론 미국 등지에서 상용화돼 정체된 기존 디지털 도어록 시장에 활력을 불어 넣을 것으로 특허청은 기대하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "디지털 도어록(문을 잠그는 장치)이 똑똑해지고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 특허청에 따르면 스마트폰과 도어록을 융합한 특허출원이 2009년까지 9건에 불과했지만 2010~2012년 3년간 97건으로 급증했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스마트폰 도어록 기술은 ▲근거리 무선통신(NFC) ▲블루투스 ▲와이파이 등 크게 세 가지 무선 통신을 활용하고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "근거리 무선통신 방식은 스마트폰의 유심(USIM)에 비밀번호와 같은 인증번호를 탑재해 스마트폰을 도어록에 접촉, 현관문을 제어하는 기술이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "통신거리가 짧아서 상대적으로 무선보안이 우수하고 가격이 저렴하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "블루투스 방식은 사전에 상호 인식된 스마트폰이 일정 범위 안으로 접근하게 되면 손으로 도어록을 터치하는 방식으로 스마트폰과 별도로 개인별로 무선 키를 사용할 수 있어 출입 상황을 실시간으로 확인할 수 있다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "와이파이 방식은 스마트폰에 설치된 어플리케이션을 통해 현관문을 제어하는 방식으로 스마트폰 고유번호를 인식해 출입자 신원을 확인하는 것은 물론, 전 세계 어디서든 제어할 수 있고, 비정상적으로 작동할 때는 스마트폰 소유자에게 경고 메시지가 전달돼 안전성이 높은 것이 특징이다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스마트폰 도어록 기술은 앞으로 국내는 물론 미국 등지에서 상용화돼 정체된 기존 디지털 도어록 시장에 활력을 불어 넣을 것으로 특허청은 기대하고 있다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카카오뱅크, 제휴 신용카드 '카카오뱅크 롯데카드' 출시",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

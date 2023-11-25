@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351023",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "멀쩡해보이는 PDF파일..알고보니 악성코드? 판별법",
+		"newsSubTitle": "null",
+		"newsContent": "최근 PDF 형식의 문서파일이 악성코드 배포에 악용되는 사례가 늘고 있어 주의가 필요하다는 지적이다.\n진짜 PDF 파일인 것처럼 위장해 클릭을 유도하는 수법인데, 파일 형식과 첨부 방식을 자세히 살펴보면 피해를 예방할 수 있다는 분석이다.\n3일(현지시각) 글로벌 보안기업 카스퍼스키는 자사 블로그 게시물을 통해, 이메일로 악성코드가 담긴 PDF 파일을 전송하는 해킹공격이 이어지고 있다며 주의를 당부했다.\n송장이나 견적서 등 업무관련 이메일인 것처럼 내용을 적은 뒤 첨부파일을 확인하라며 PDF 파일 클릭을 유도하는 것이다.\n카스퍼스키는 첨부된 PDF 아이콘을 잘 살필 것을 당부했다.\n한 가지 방법은 이용자 PC에 설치된 것과 다른 버전의 PDF 파일 아이콘인지 확인하는 것이다.\n버전이 다를 경우 악성코드를 담고 있을 가능성이 높다.\n이메일 본문 안에 PDF 파일로 위장한 이미지 파일(jpg)을 첨부해 다운받도록 유도하는 수법도 있다.\n정상적인 이메일이라면 첨부파일은 이메일 본문이 아닌 하단 공간에 따로 첨부돼있다.\nPDF파일이 이메일 본문 안에 첨부됐다면, 본문 문장을 전체선택(Ctrl+A)해보면 된다.\n만약 글자와 함께 음영처리되면 첨부파일이 아닌 이미지 파일이라는 뜻이다.\n첨부파일을 다운받지 않고도 마우스 포인터만 갖다대도 이름과 유형, 크기 등 파일 세부정보를 볼 수 있는 기능도 활용할만하다.\n마이크로소프트(MS) 오피스 메일에서 제공하는 기능으로, 만약 파일 세부정보 대신 특정 웹사이트 링크가 뜰 경우 주의가 필요하다.\n실제로 국내에서는 PDF 파일을 이용한 해킹 공격이 발견되기도 했다.\n국내 보안전문 기업 이스트시큐리티에 따르면 최근 북한 배후세력으로 추정되는 해커 집단이 외교·국방·통일 분야 전·현직 종사자를 대상으로 PDF 파일이 담긴 이메일을 대량 유포했다.\n첨부파일을 누르면 문서 내에 숨겨졌던 악성코드가 자동 실행된다.\n이스트시큐리티 관계자는 \\\"일반적으로 PDF 형식 문서가 보안으로부터 안전하다는 인식이 있어 보안수칙을 엄격히 준수하지 않는 경우가 있다\\\"며 \\\"더이상 PDF 파일도 안전하지 않다는 인식을 갖고 각별히 주의를 기울여야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 PDF 형식의 문서파일이 악성코드 배포에 악용되는 사례가 늘고 있어 주의가 필요하다는 지적이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "진짜 PDF 파일인 것처럼 위장해 클릭을 유도하는 수법인데, 파일 형식과 첨부 방식을 자세히 살펴보면 피해를 예방할 수 있다는 분석이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "3일(현지시각) 글로벌 보안기업 카스퍼스키는 자사 블로그 게시물을 통해, 이메일로 악성코드가 담긴 PDF 파일을 전송하는 해킹공격이 이어지고 있다며 주의를 당부했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "송장이나 견적서 등 업무관련 이메일인 것처럼 내용을 적은 뒤 첨부파일을 확인하라며 PDF 파일 클릭을 유도하는 것이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카스퍼스키는 첨부된 PDF 아이콘을 잘 살필 것을 당부했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한 가지 방법은 이용자 PC에 설치된 것과 다른 버전의 PDF 파일 아이콘인지 확인하는 것이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "버전이 다를 경우 악성코드를 담고 있을 가능성이 높다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이메일 본문 안에 PDF 파일로 위장한 이미지 파일(jpg)을 첨부해 다운받도록 유도하는 수법도 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "정상적인 이메일이라면 첨부파일은 이메일 본문이 아닌 하단 공간에 따로 첨부돼있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "PDF파일이 이메일 본문 안에 첨부됐다면, 본문 문장을 전체선택(Ctrl+A)해보면 된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "만약 글자와 함께 음영처리되면 첨부파일이 아닌 이미지 파일이라는 뜻이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "첨부파일을 다운받지 않고도 마우스 포인터만 갖다대도 이름과 유형, 크기 등 파일 세부정보를 볼 수 있는 기능도 활용할만하다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "마이크로소프트(MS) 오피스 메일에서 제공하는 기능으로, 만약 파일 세부정보 대신 특정 웹사이트 링크가 뜰 경우 주의가 필요하다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "실제로 국내에서는 PDF 파일을 이용한 해킹 공격이 발견되기도 했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "국내 보안전문 기업 이스트시큐리티에 따르면 최근 북한 배후세력으로 추정되는 해커 집단이 외교·국방·통일 분야 전·현직 종사자를 대상으로 PDF 파일이 담긴 이메일을 대량 유포했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "첨부파일을 누르면 문서 내에 숨겨졌던 악성코드가 자동 실행된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이스트시큐리티 관계자는 \\\"일반적으로 PDF 형식 문서가 보안으로부터 안전하다는 인식이 있어 보안수칙을 엄격히 준수하지 않는 경우가 있다\\\"며 \\\"더이상 PDF 파일도 안전하지 않다는 인식을 갖고 각별히 주의를 기울여야 한다\\\"고 말했다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "멀쩡해보이는 PDF파일..알고보니 악성코드? 판별법",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

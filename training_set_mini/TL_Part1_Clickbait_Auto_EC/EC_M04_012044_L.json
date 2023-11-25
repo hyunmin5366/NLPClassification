@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012044",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "휘발유 가격 5주 연속 하락…ℓ당 1939.06원",
+		"newsSubTitle": "충남1945.47, 세종1944.28원, 대전1933.82원",
+		"newsContent": "전국 주유소에서 판매되는 보통휘발유 가격이 5주 연속 하락했다.\n15일 한국석유공사의 유가정보사이트 오피넷에 따르면 9월 셋째 주 보통휘발유 가격은 전주 대비 2.35원 하락한 ℓ당 1939.06원을 기록했다.\n지역별로는 서울이 ℓ당 2009.64원으로 가장 비쌌으며, 이어 충남(1945.47), 세종(1944.28원), 경기(1942.94원), 강원(1942.46원), 제주(1940.81원), 충북(1935,74원), 대전(1933.82원) 순이었다.\n가장 저렴한 지역은 대구(1908.61원)로 조사됐다.\n셀프주유소와 비셀프주유소의 보통휘발유 판매가격 차이는 ℓ당 39.29원으로 나타났다.\n셀프주유소의 휘발유 평균 판매가격은 ℓ당 1903.36원, 비셀프주유소의 판매가격은 ℓ당 1942.65원으로 각각 집계됐다.\n주유소별 휘발유 평균 판매가격은 SK에너지가 ℓ당 1950.20원으로 가장 비쌌으며, GS칼텍스(1944.18원), 현대오일뱅크(1924.78원), S-Oil(1927.92원)의 순으로 나타났다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전국 주유소에서 판매되는 보통휘발유 가격이 5주 연속 하락했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 한국석유공사의 유가정보사이트 오피넷에 따르면 9월 셋째 주 보통휘발유 가격은 전주 대비 2.35원 하락한 ℓ당 1939.06원을 기록했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지역별로는 서울이 ℓ당 2009.64원으로 가장 비쌌으며, 이어 충남(1945.47), 세종(1944.28원), 경기(1942.94원), 강원(1942.46원), 제주(1940.81원), 충북(1935,74원), 대전(1933.82원) 순이었다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가장 저렴한 지역은 대구(1908.61원)로 조사됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "셀프주유소와 비셀프주유소의 보통휘발유 판매가격 차이는 ℓ당 39.29원으로 나타났다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "셀프주유소의 휘발유 평균 판매가격은 ℓ당 1903.36원, 비셀프주유소의 판매가격은 ℓ당 1942.65원으로 각각 집계됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주유소별 휘발유 평균 판매가격은 SK에너지가 ℓ당 1950.20원으로 가장 비쌌으며, GS칼텍스(1944.18원), 현대오일뱅크(1924.78원), S-Oil(1927.92원)의 순으로 나타났다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신보, 지역소재 중학교에 코로나19 예방 마스크 3600장 전달",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004383",
+		"newsCategory": "경제",
+		"newsSubcategory": "IT·통신",
+		"newsTitle": "LG유플러스, 클라우드 백본장비 실증 성공",
+		"newsSubTitle": "네트워크 장애 발생 시 피해 최소화 ... 안정적 서비스 제공 가능 향후 코어망-기지국 등 모든 통신인프라에 클라우드 환경 적용",
+		"newsContent": "LG유플러스가 국내 최초로 클라우드 백본 장비 실증에 성공했다.\n회사는 향후 이를 안정적인 네트워크 서비스 제공의 발판으로 삼겠다는 구상이다.\n18일 LG유플러스는 이스라엘의 드라이브넷(DriveNets) 사와 협력해 네트워크 장애에 유연하게 대응할 수 있는 클라우드 유선 백본 패킷 전달장비 실증에 성공했다고 밝혔다.\n클라우드 기반 네트워크 전문기업 드라이브넷의 클라우드 유선 백본 패킷 전달 장비는 범용 서버와 범용 스위치에 컨테이너 기반 소프트웨어를 탑재한 가상화 장비다.\n컨테이너란 어디서나 실행 가능한 소형의 독립 운영체제를 말한다.\n여러 IT 장비와 마찬가지로 통신 인프라도 클라우드 환경에 최적화된 모습으로 진화하고 있다.\n이미 아마존, 구글, 마이크로소프트 등의 IT 업계에서는 클라우드 인프라에 이미 컨테이너의 개념을 도입해 사용하고 있다.\nLG유플러스 관계자는 데일리임팩트에 \\\"컨테이너의 개념을 PC에 비유해보면, 기존 방식은 한 프로그램이 오류를 일으킬 경우 전체의 전원이 꺼져버리거나, 먹통이 돼 기능을 아예 사용할 수 없었다\\\"며 \\\"그러나 컨테이너는 운영체제 프로그램을 작게 조각내 따로 저장해 둬 한 곳에 문제가 생겨 재시작을 하더라도, 다른 기능은 문제없이 사용할 수 있다\\\"라고 설명했다.\n즉, 네트워크 환경에서 특정 구간이나 프로그램이 오류를 일으키더라도, 이것이 전체 통신을 마비시키는 것이 아니라 나머지 부분이 제대로 작동하기 때문에 피해 규모를 줄이면서 복구가 용이하다는 것이다.\n최근 스마트팩토리, 가상·증강현실(AR·VR), 클라우드 게임, 자율주행 자동차, 로봇 등의 서비스를 사용하기 위해서는 5G 네트워크의 서비스 민첩성, 확장성, 자원 효율성, 안정적인 운영이 필수적이다.\n이에 따라 컨테이너는 클라우드 환경에 필요한 차세대 5G의 핵심요소로 평가받고 있다.\n통신사는 컨테이너 기술이 적용된 통신장비를 활용하여 트래픽 증가 시 유연하게 장비의 성능·용량을 확장하고 균일한 최적의 품질을 제공할 수 있다.\n또한 운영 중에도 고장 조치, 애플리케이션 배포 등의 운영 업무를 자동화해 안정성을 확보할 수 있다.\n통신과 컨테이너 기술의 결합은 전 세계 통신업계의 화두로 떠오르고 있다.\n글로벌 기업들의 경우, 네트워크를 세분화와 클라우드 중심 구조로 전환하고 있거나 전환을 계획 중이다.\n최근 헤비리딩(Heavy Reading)의 조사에 따르면 35%의 통신사업자들은 이미 클라우드 중심 또는 세분화 구조를 도입하고 있고, 50% 이상은 향후 5년 이내 도입할 계획이라고 답변했다.\nLG유플러스는 기지국-유선망-코어망까지 전체 네트워크 인프라를 클라우드로 전환하기 위한 연구를 지속하고 있다.\n앞서 8월에는 아마존웹서비스(AWS) 클라우드에 5G 코어 장비와 MEC(모바일엣지클라우드) 서비스를 동시에 수용하는 실증을 완료했다.\n또한 개방형 네트워크 관련 국제 기구인 '텔레콤 인프라 프로젝트(Telecom Infra Project)'에 참여하여 관련 기술 개발의 국제 협력을 확대할 예정이다.\n이상헌 LG유플러스 NW선행개발담당은 \\\"차세대 네트워크 클라우드 핵심기술인 컨테이너 기술을 통해 트래픽이 증가하거나 고장 시에도 서비스 중단 없이 최적의 품질을 제공할 수 있을 것이다\\\"라며 \\\"앞으로도 미래 네트워크 클라우드 기술을 선제적으로 확보하여 고객 경험을 향상시키는데 도움이 되도록 하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스가 국내 최초로 클라우드 백본 장비 실증에 성공했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "회사는 향후 이를 안정적인 네트워크 서비스 제공의 발판으로 삼겠다는 구상이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "18일 LG유플러스는 이스라엘의 드라이브넷(DriveNets) 사와 협력해 네트워크 장애에 유연하게 대응할 수 있는 클라우드 유선 백본 패킷 전달장비 실증에 성공했다고 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "클라우드 기반 네트워크 전문기업 드라이브넷의 클라우드 유선 백본 패킷 전달 장비는 범용 서버와 범용 스위치에 컨테이너 기반 소프트웨어를 탑재한 가상화 장비다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "컨테이너란 어디서나 실행 가능한 소형의 독립 운영체제를 말한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "여러 IT 장비와 마찬가지로 통신 인프라도 클라우드 환경에 최적화된 모습으로 진화하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이미 아마존, 구글, 마이크로소프트 등의 IT 업계에서는 클라우드 인프라에 이미 컨테이너의 개념을 도입해 사용하고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "LG유플러스 관계자는 데일리임팩트에 \\\"컨테이너의 개념을 PC에 비유해보면, 기존 방식은 한 프로그램이 오류를 일으킬 경우 전체의 전원이 꺼져버리거나, 먹통이 돼 기능을 아예 사용할 수 없었다\\\"며 \\\"그러나 컨테이너는 운영체제 프로그램을 작게 조각내 따로 저장해 둬 한 곳에 문제가 생겨 재시작을 하더라도, 다른 기능은 문제없이 사용할 수 있다\\\"라고 설명했다.",
+				"sentenceSize": 203
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "즉, 네트워크 환경에서 특정 구간이나 프로그램이 오류를 일으키더라도, 이것이 전체 통신을 마비시키는 것이 아니라 나머지 부분이 제대로 작동하기 때문에 피해 규모를 줄이면서 복구가 용이하다는 것이다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "최근 스마트팩토리, 가상·증강현실(AR·VR), 클라우드 게임, 자율주행 자동차, 로봇 등의 서비스를 사용하기 위해서는 5G 네트워크의 서비스 민첩성, 확장성, 자원 효율성, 안정적인 운영이 필수적이다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이에 따라 컨테이너는 클라우드 환경에 필요한 차세대 5G의 핵심요소로 평가받고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "통신사는 컨테이너 기술이 적용된 통신장비를 활용하여 트래픽 증가 시 유연하게 장비의 성능·용량을 확장하고 균일한 최적의 품질을 제공할 수 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "또한 운영 중에도 고장 조치, 애플리케이션 배포 등의 운영 업무를 자동화해 안정성을 확보할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "통신과 컨테이너 기술의 결합은 전 세계 통신업계의 화두로 떠오르고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "글로벌 기업들의 경우, 네트워크를 세분화와 클라우드 중심 구조로 전환하고 있거나 전환을 계획 중이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "최근 헤비리딩(Heavy Reading)의 조사에 따르면 35%의 통신사업자들은 이미 클라우드 중심 또는 세분화 구조를 도입하고 있고, 50% 이상은 향후 5년 이내 도입할 계획이라고 답변했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "LG유플러스는 기지국-유선망-코어망까지 전체 네트워크 인프라를 클라우드로 전환하기 위한 연구를 지속하고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "앞서 8월에는 아마존웹서비스(AWS) 클라우드에 5G 코어 장비와 MEC(모바일엣지클라우드) 서비스를 동시에 수용하는 실증을 완료했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "또한 개방형 네트워크 관련 국제 기구인 '텔레콤 인프라 프로젝트(Telecom Infra Project)'에 참여하여 관련 기술 개발의 국제 협력을 확대할 예정이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이상헌 LG유플러스 NW선행개발담당은 \\\"차세대 네트워크 클라우드 핵심기술인 컨테이너 기술을 통해 트래픽이 증가하거나 고장 시에도 서비스 중단 없이 최적의 품질을 제공할 수 있을 것이다\\\"라며 \\\"앞으로도 미래 네트워크 클라우드 기술을 선제적으로 확보하여 고객 경험을 향상시키는데 도움이 되도록 하겠다\\\"고 말했다.",
+				"sentenceSize": 176
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마이셰프, 가수 '영탁'과 손잡고 '기부 캠페인' 성황리 개최",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

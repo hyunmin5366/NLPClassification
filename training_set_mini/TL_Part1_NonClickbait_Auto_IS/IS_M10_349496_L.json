@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349496",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "금융서비스 전용 IBM클라우드 상용서비스 개시",
+		"newsSubTitle": "null",
+		"newsContent": "IBM은 자사 '금융 서비스 전용 IBM클라우드'가 8일부터 상용서비스를 시작한다고 밝혔다.\n금융 서비스 전용 IBM클라우드는 2019년 처음 공개된 금융 전용 클라우드 플랫폼으로 뱅크오브아메리카와의 협업으로 설계됐다.\n레드햇 오픈시프트와 다양한 클라우드 네이티브 서비스를 지원한다.\n업계 최고의 보안·규제 준수 기능을 적용해 민감한 업무와 데이터를 보호해야 하는 금융업계의 요구에 맞는 클라우드 환경을 구축했다는 설명이다.\nIBM은 뱅크오브아메리카 외에도 BNP파리바, 루미노뱅크, 미쓰비시UFJ파이낸셜그룹(MUFG) 등 글로벌 금융기관과 90곳 이상의 독립 소프트웨어 제공업체, 클라우드 기반 서비스형 소프트웨어(SaaS) 제공업체와도 금융전용 IBM 클라우드 확산에 협력하고 있다.\nIBM은 이날부터는 SAP도 IBM 금융클라우드 생태계에 합류했다고 밝혔다.\nIBM 하이브리드 클라우드 플랫폼 총괄 하워드 보빌은 \\\"금융업계의 보안 및 규제 준수 역량을 향상한다는 목표 아래 규제가 엄격한 산업에서의 클라우드 도입에 있어 변화를 주도하겠다\\\"며 \\\"은행, 보험사, 기타 금융 서비스 기업을 위해 공급망의 위험 완화를 지원하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "IBM은 자사 '금융 서비스 전용 IBM클라우드'가 8일부터 상용서비스를 시작한다고 밝혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융 서비스 전용 IBM클라우드는 2019년 처음 공개된 금융 전용 클라우드 플랫폼으로 뱅크오브아메리카와의 협업으로 설계됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "레드햇 오픈시프트와 다양한 클라우드 네이티브 서비스를 지원한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "업계 최고의 보안·규제 준수 기능을 적용해 민감한 업무와 데이터를 보호해야 하는 금융업계의 요구에 맞는 클라우드 환경을 구축했다는 설명이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "IBM은 뱅크오브아메리카 외에도 BNP파리바, 루미노뱅크, 미쓰비시UFJ파이낸셜그룹(MUFG) 등 글로벌 금융기관과 90곳 이상의 독립 소프트웨어 제공업체, 클라우드 기반 서비스형 소프트웨어(SaaS) 제공업체와도 금융전용 IBM 클라우드 확산에 협력하고 있다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "IBM은 이날부터는 SAP도 IBM 금융클라우드 생태계에 합류했다고 밝혔다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "IBM 하이브리드 클라우드 플랫폼 총괄 하워드 보빌은 \\\"금융업계의 보안 및 규제 준수 역량을 향상한다는 목표 아래 규제가 엄격한 산업에서의 클라우드 도입에 있어 변화를 주도하겠다\\\"며 \\\"은행, 보험사, 기타 금융 서비스 기업을 위해 공급망의 위험 완화를 지원하겠다\\\"고 말했다.",
+				"sentenceSize": 157
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "금융서비스 전용 IBM클라우드 상용서비스 개시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

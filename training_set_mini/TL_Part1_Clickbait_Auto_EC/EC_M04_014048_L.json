@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014048",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "SW만 깔아도 저장용량 확 늘어난다",
+		"newsSubTitle": "ETRI 클라우드 스토리지 확장기술 개발",
+		"newsContent": "간단하게 소프트웨어(SW) 설치만으로 기존 저장용량을 대폭 늘리는 등 효율적으로 사용할 수 있는 기술이 개발됐다.\n한국전자통신연구원(ETRI)은 '고성능 클라우드 분산 파일 시스템 SW'를 통해 저장장치(스토리지) 용량을 늘리고 성능도 향상시키는 기술개발에 성공했다고 18일 밝혔다.\n이번에 개발된 기술은 SW를 여러 대의 컴퓨터에 설치하기만 하면 온라인 상에서 대용량의 하드디스크를 이용할 수 있게 한다.\n물리적으로 다른 공간에 있는 각 컴퓨터의 디스크 조각들을 모아 하나의 거대한 하드디스크처럼 보이게 하는 '스토리지 가상화' 기술이 적용됐다.\n한 컴퓨터에 내장된 하드디스크 1개의 크기는 수 테라바이트(TB)에 불과하지만 새로 개발된 SW를 설치하면 모든 컴퓨터의 하드디스크 공간이 하나로 합쳐져 탐색기에 수십 페타바이트(PB)에 달하는 거대 용량의 가상 하드디스크가 나타나는 원리다.\n이 가상공간에 사용자가 자료를 올리면 원본은 자동복제돼 컴퓨터 고장 시에도 자료를 복구할 수 있고, 접속자가 몰리더라도 서비스 품질 유지가 가능해 유지, 보수비용 절감도 기대된다.\n이 기술의 핵심은 컴퓨터가 네트워크에 연결되면 내부파일을 자유롭게 저장하고 신속하게 접근할 수 있도록 지능적으로 관리하는 것이다.\nETRI는 이 기술의 성능이 외산에 비해 40~50% 수준의 저렴한 가격으로 공급할 수 있어 1년에 100 PB 구축을 가정했을 때 100억원의 비용절감 효과가 있다고 설명했다.\n지난달 10일에는 LG 유플러스의 'U+ Box' 클라우드 스토리지에 적용, 성공적으로 상용화했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "간단하게 소프트웨어(SW) 설치만으로 기존 저장용량을 대폭 늘리는 등 효율적으로 사용할 수 있는 기술이 개발됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 '고성능 클라우드 분산 파일 시스템 SW'를 통해 저장장치(스토리지) 용량을 늘리고 성능도 향상시키는 기술개발에 성공했다고 18일 밝혔다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번에 개발된 기술은 SW를 여러 대의 컴퓨터에 설치하기만 하면 온라인 상에서 대용량의 하드디스크를 이용할 수 있게 한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "물리적으로 다른 공간에 있는 각 컴퓨터의 디스크 조각들을 모아 하나의 거대한 하드디스크처럼 보이게 하는 '스토리지 가상화' 기술이 적용됐다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한 컴퓨터에 내장된 하드디스크 1개의 크기는 수 테라바이트(TB)에 불과하지만 새로 개발된 SW를 설치하면 모든 컴퓨터의 하드디스크 공간이 하나로 합쳐져 탐색기에 수십 페타바이트(PB)에 달하는 거대 용량의 가상 하드디스크가 나타나는 원리다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 가상공간에 사용자가 자료를 올리면 원본은 자동복제돼 컴퓨터 고장 시에도 자료를 복구할 수 있고, 접속자가 몰리더라도 서비스 품질 유지가 가능해 유지, 보수비용 절감도 기대된다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 기술의 핵심은 컴퓨터가 네트워크에 연결되면 내부파일을 자유롭게 저장하고 신속하게 접근할 수 있도록 지능적으로 관리하는 것이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "ETRI는 이 기술의 성능이 외산에 비해 40~50% 수준의 저렴한 가격으로 공급할 수 있어 1년에 100 PB 구축을 가정했을 때 100억원의 비용절감 효과가 있다고 설명했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지난달 10일에는 LG 유플러스의 'U+ Box' 클라우드 스토리지에 적용, 성공적으로 상용화했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "주택청약 55만명 넘어",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

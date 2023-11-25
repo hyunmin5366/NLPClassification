@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332877",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "그리드위즈-펜타시큐리티, 전기차 충전 솔루션 출시",
+		"newsSubTitle": "",
+		"newsContent": "에너지전문기업 그리드위즈(대표 김구환)와 보안전문기업 펜타시큐리티시스템(대표 이석우)은 별도 충전인증 및 카드결제가 필요 없는 자동차 충전 플랫폼 '플러그앤차지'를 출시했다고 14일 밝혔다.\n플러그앤차지는 사용자가 전기자동차 충전기 커넥터를 연결하면 자동으로 인증과 결제가 이뤄진다.\n향후 무선충전과 무선통신, 자율주행자동차 충전인프라 구축을 위한 핵심기술이 될 전망이다.\n플러그앤차지는 그리드위즈 전기자동차 충전 통신 국제표준 ISO15118과 충전인프라 관제 통신프로토콜 OCPP 2.0을 펜타시큐리티 암호화 솔루션에 접목했다.\n플러그앤차지 플랫폼은 내년 유럽시장에 우선적용될 예정이다.\n또 무선충전, 양방향전력전송, 신재생에너지 연계형 충전솔루션 등을 출시한다. 15일 네덜란드 아른헴에서 개최되는 제10회 ISO/IEC 전기차 충전 테스팅 심포지움에 참가해 해외 주요 전기차 제조사와 충전 국제 표준 규격 상호운용성과 적합성을 테스트할 예정이다.\n그리드위즈는 전기자동차 충전인프라 외에도 수요관리(DR), 에너지저장장치(ESS), 에너지효율화(EE), 태양광(PV) 등 에너지사업을 하고 있다.\n펜타시큐리티는 사물인터넷(IoT) 보안전문기업으로 차세대지능형교통시스템과 스마트카를 위한 보안 솔루션을 중심으로 자동차 보안 사업을 진행하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "에너지전문기업 그리드위즈(대표 김구환)와 보안전문기업 펜타시큐리티시스템(대표 이석우)은 별도 충전인증 및 카드결제가 필요 없는 자동차 충전 플랫폼 '플러그앤차지'를 출시했다고 14일 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "플러그앤차지는 사용자가 전기자동차 충전기 커넥터를 연결하면 자동으로 인증과 결제가 이뤄진다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "향후 무선충전과 무선통신, 자율주행자동차 충전인프라 구축을 위한 핵심기술이 될 전망이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "플러그앤차지는 그리드위즈 전기자동차 충전 통신 국제표준 ISO15118과 충전인프라 관제 통신프로토콜 OCPP 2.0을 펜타시큐리티 암호화 솔루션에 접목했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "플러그앤차지 플랫폼은 내년 유럽시장에 우선적용될 예정이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 무선충전, 양방향전력전송, 신재생에너지 연계형 충전솔루션 등을 출시한다. 15일 네덜란드 아른헴에서 개최되는 제10회 ISO/IEC 전기차 충전 테스팅 심포지움에 참가해 해외 주요 전기차 제조사와 충전 국제 표준 규격 상호운용성과 적합성을 테스트할 예정이다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그리드위즈는 전기자동차 충전인프라 외에도 수요관리(DR), 에너지저장장치(ESS), 에너지효율화(EE), 태양광(PV) 등 에너지사업을 하고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "펜타시큐리티는 사물인터넷(IoT) 보안전문기업으로 차세대지능형교통시스템과 스마트카를 위한 보안 솔루션을 중심으로 자동차 보안 사업을 진행하고 있다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "그리드위즈-펜타시큐리티, 전기차 충전 솔루션 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

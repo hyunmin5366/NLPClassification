@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338158",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "워터월시스템즈, 서버용 개인정보 보호 시스템 'WW SPIS' 선보여",
+		"newsSubTitle": "",
+		"newsContent": "워터월시스템즈(대표 이종성)는 최근 서울 여의도 콘래드 호텔에서 열린 금융정보보호 컨퍼런스 'FISCON 2021'에 참가, 신제품 'WW SPIS'를 소개했다고 25일 밝혔다.\n행사장 내 전용부스를 설치한 워터월시스템즈는 자사 엔드포인트 DLP 솔루션 WaterWall™을 비롯해 근무시간 관리 솔루션 'WW WLB', 로그 데이터 분석 솔루션 'WW LA'를 전시했다.\n이와 함께 최근 개발한 서버용 지능형 개인정보 보호 시스템 'WW SPIS'도 처음 공개했다. 'WW SPIS'는 서버 과부하에 대한 부담을 낮춰, 민감한 정보를 빠르게 검출한다.\n탐지 패턴의 다양한 설정과 사용자 정의 분석 기능도 지원한다.\n실시간 탐지와 분석·경보 기능, 대시보드의 커스텀 설정을 지원, 사용자 편의성이 높다.\n워터월시스템즈 관계자는 “금융계는 고객 개인정보 보안·유출에 까다롭다”며 “행사에서 소개한 제품들은 금융기관과 기업 IT 담당자 등 금융업계 관련 종사자의 주목을 끌었다”고 전했다.\n한편 금융보안원의 주최로 열린 콘퍼런스는 '디지털 플랫폼 시대, 금융보안의 도전 과제와 미래 전략'을 주제로, 실시간 온라인 생중계와 함께 온오프라인을 병행해 진행됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "워터월시스템즈(대표 이종성)는 최근 서울 여의도 콘래드 호텔에서 열린 금융정보보호 컨퍼런스 'FISCON 2021'에 참가, 신제품 'WW SPIS'를 소개했다고 25일 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "행사장 내 전용부스를 설치한 워터월시스템즈는 자사 엔드포인트 DLP 솔루션 WaterWall™을 비롯해 근무시간 관리 솔루션 'WW WLB', 로그 데이터 분석 솔루션 'WW LA'를 전시했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이와 함께 최근 개발한 서버용 지능형 개인정보 보호 시스템 'WW SPIS'도 처음 공개했다. 'WW SPIS'는 서버 과부하에 대한 부담을 낮춰, 민감한 정보를 빠르게 검출한다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "탐지 패턴의 다양한 설정과 사용자 정의 분석 기능도 지원한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실시간 탐지와 분석·경보 기능, 대시보드의 커스텀 설정을 지원, 사용자 편의성이 높다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "워터월시스템즈 관계자는 “금융계는 고객 개인정보 보안·유출에 까다롭다”며 “행사에서 소개한 제품들은 금융기관과 기업 IT 담당자 등 금융업계 관련 종사자의 주목을 끌었다”고 전했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 금융보안원의 주최로 열린 콘퍼런스는 '디지털 플랫폼 시대, 금융보안의 도전 과제와 미래 전략'을 주제로, 실시간 온라인 생중계와 함께 온오프라인을 병행해 진행됐다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "워터월시스템즈, 서버용 개인정보 보호 시스템 'WW SPIS' 선보여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

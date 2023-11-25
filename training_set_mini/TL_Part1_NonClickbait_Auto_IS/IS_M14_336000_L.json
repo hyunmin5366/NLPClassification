@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336000",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "간편결제 이용자 노리는 '스미싱'...온라인쇼핑 주의보",
+		"newsSubTitle": "",
+		"newsContent": "주요 온라인쇼핑 업체를 사칭해 간편결제 서비스 이용자를 속이는 '스미싱'이 기승을 부린다.\n결제 관련 허위 단문메시지(SMS)를 전송해 악성코드 설치나 소액결제 등을 유도하는 수법이다.\n간편결제 서비스를 이용하는 소비자의 주의가 요구된다.\n29일 유통업계에 따르면 최근 온라인쇼핑 간편결제 서비스를 사칭한 신종 스미싱 수법이 확산되고 있다.\n특정 사이트에서 요청한 간편결제가 완료됐다며 주문번호, 결제금액 등을 명시한 단문메시지(SMS)다.\nSMS에는 특정 사이트로 이동하는 링크가 담겨있다.\n갑작스러운 내용에 당황한 고객이 해당 링크를 터치하면 스마트폰에 악성코드를 설치하는 사이트로 이동하는 수법이다.\n스미싱 조직은 악성코드에 감염된 스마트폰에서 이용자 개인정보와 금융정보를 빼낸다.\n이를 이용해 휴대폰 소액결제를 반복해 돈을 빼돌린다.\n피해자 스마트폰에 담긴 가족, 친구, 지인들의 연락처는 또 다른 범죄 표적이다.\n유통업계 관계자는 “스미싱 조직은 유명 온라인쇼핑과 간편결제 서비스 이름을 악용해 고객의 눈을 속인다”면서 “피해가 발생한 즉시 사이버테러대응센터나 가까운 경찰서에 신고해야 한다”고 말했다.\n이베이코리아는 최근 발생한 '스마일페이' 사칭 스미싱 사례를 공개했다.\n스미싱 조직은 스마일페이로 수십만원이 결제됐다며 주문번호와 무료거부 전화번호 링크를 SMS로 전송했다.\n이베이코리아 G마켓과 옥션은 스마일페이 결제 관련 SMS에 별도 링크 없이 △결제수단 △결제금액 △스마일캐시 적립예정일 △적립 예정 스마일캐시 관련 내용만 일반 텍스트로 전송한다.\n간편결제 스미싱은 앞으로 한층 지능화될 것으로 보인다.\n주요 온라인쇼핑 업체가 고객 쇼핑 편의를 강화하기 위해 속속 자체 간편결제 서비스를 선보이고 있기 때문이다.\n스마일페이(이베이코리아), 11페이(SK플래닛 11번가), 네이버페이(네이버쇼핑) 등이 시장에 안착하면서 이용자 한 명이 여러 개 간편결제 서비스를 이용하는 추세다.\n이베이코리아 관계자는 “일반적으로 결제 관련 SMS에는 링크를 제공하지 않는다”면서 “의심스러 링크가 포함된 SMS를 수신했다면 누르지 말고 해당 사이트에서 직접 확인해야 한다”고 당부했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "주요 온라인쇼핑 업체를 사칭해 간편결제 서비스 이용자를 속이는 '스미싱'이 기승을 부린다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "결제 관련 허위 단문메시지(SMS)를 전송해 악성코드 설치나 소액결제 등을 유도하는 수법이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "간편결제 서비스를 이용하는 소비자의 주의가 요구된다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "29일 유통업계에 따르면 최근 온라인쇼핑 간편결제 서비스를 사칭한 신종 스미싱 수법이 확산되고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특정 사이트에서 요청한 간편결제가 완료됐다며 주문번호, 결제금액 등을 명시한 단문메시지(SMS)다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SMS에는 특정 사이트로 이동하는 링크가 담겨있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "갑작스러운 내용에 당황한 고객이 해당 링크를 터치하면 스마트폰에 악성코드를 설치하는 사이트로 이동하는 수법이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스미싱 조직은 악성코드에 감염된 스마트폰에서 이용자 개인정보와 금융정보를 빼낸다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이를 이용해 휴대폰 소액결제를 반복해 돈을 빼돌린다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "피해자 스마트폰에 담긴 가족, 친구, 지인들의 연락처는 또 다른 범죄 표적이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "유통업계 관계자는 “스미싱 조직은 유명 온라인쇼핑과 간편결제 서비스 이름을 악용해 고객의 눈을 속인다”면서 “피해가 발생한 즉시 사이버테러대응센터나 가까운 경찰서에 신고해야 한다”고 말했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이베이코리아는 최근 발생한 '스마일페이' 사칭 스미싱 사례를 공개했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "스미싱 조직은 스마일페이로 수십만원이 결제됐다며 주문번호와 무료거부 전화번호 링크를 SMS로 전송했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이베이코리아 G마켓과 옥션은 스마일페이 결제 관련 SMS에 별도 링크 없이 △결제수단 △결제금액 △스마일캐시 적립예정일 △적립 예정 스마일캐시 관련 내용만 일반 텍스트로 전송한다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "간편결제 스미싱은 앞으로 한층 지능화될 것으로 보인다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "주요 온라인쇼핑 업체가 고객 쇼핑 편의를 강화하기 위해 속속 자체 간편결제 서비스를 선보이고 있기 때문이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "스마일페이(이베이코리아), 11페이(SK플래닛 11번가), 네이버페이(네이버쇼핑) 등이 시장에 안착하면서 이용자 한 명이 여러 개 간편결제 서비스를 이용하는 추세다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이베이코리아 관계자는 “일반적으로 결제 관련 SMS에는 링크를 제공하지 않는다”면서 “의심스러 링크가 포함된 SMS를 수신했다면 누르지 말고 해당 사이트에서 직접 확인해야 한다”고 당부했다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "간편결제 이용자 노리는 '스미싱'...온라인쇼핑 주의보",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

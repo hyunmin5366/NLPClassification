@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336152",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[리인벤트19]AWS, 인공지능으로 스포츠 안전 책임진다",
+		"newsSubTitle": "",
+		"newsContent": "야구·농구·미식축구 등 스포츠에서 인공지능(AI) 기술 활용이 확대된다.\n전력·경기·상대 분석에서 나아가 선수 건강과 안전을 확보하는 데 AI기술을 사용한다.\n아마존웹서비스(AWS)는 5일(현지시간) 미국 라스베이거스에서 열린 'AWS 리인벤트 2019'에서 미국 프로풋볼리그(NFL)와 AI·머신러닝 등을 활용해 선수 개인 건강과 안전을 책임지겠다고 발표했다.\nAWS는 클라우드, AI, 사물인터넷(IoT) 기술 등을 지원한다.\nNFL은 선수 부상 이력, 경기 스타일, 비디오 아카이브 등 데이터를 제공한다.\n양사는 관련 엔지니어 로드맵을 수립하고 있다.\n선수 건강 데이터 등을 활용해 미식축구 선수별 부상 위험도가 높은 시기, 부위 등을 미리 확인한다.\n기존에는 AI가 통계 위주로 경기 전력과 선수별 플레이 특징과 실력 등을 비교하는 데 주로 사용했다.\nAI 분석에는 머신러닝 구축·관리 플랫폼 '아마존 세이즈메이커'를 활용한다.\n양사는 게임규칙, 헬멧 등 장비, 포지션 등 다양한 변수가 부상에 미치는 영향을 분석한다.\n앤디 재시 AWS 최고경영자(CEO)는 “NFL 데이터와 인사이프, AWS 머신러닝 기술과 역량을 활용해 선수 건강과 안전을 확보하는 파트너십을 확보하게 됐다”며 “경기를 잘하는 데 AI를 사용하던 것에서 나아가 선수 미래에 도움이 될 좋은 기회”라고 말했다.\n로저 구델 NFL 위원은 “부상을 어떻게 이겨내야 하는지, 부상 예방은 어떻게 해야 할지 등 데이터 기반 AI 분석으로 선수는 건강에, 구단은 선수 전력 유지에 도움이 될 것”이라며 “헬멧 등 선수 맞춤형 보호장비도 개발하는 등 안전을 위해서도 의미있는 시도”라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "야구·농구·미식축구 등 스포츠에서 인공지능(AI) 기술 활용이 확대된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전력·경기·상대 분석에서 나아가 선수 건강과 안전을 확보하는 데 AI기술을 사용한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아마존웹서비스(AWS)는 5일(현지시간) 미국 라스베이거스에서 열린 'AWS 리인벤트 2019'에서 미국 프로풋볼리그(NFL)와 AI·머신러닝 등을 활용해 선수 개인 건강과 안전을 책임지겠다고 발표했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AWS는 클라우드, AI, 사물인터넷(IoT) 기술 등을 지원한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "NFL은 선수 부상 이력, 경기 스타일, 비디오 아카이브 등 데이터를 제공한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양사는 관련 엔지니어 로드맵을 수립하고 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "선수 건강 데이터 등을 활용해 미식축구 선수별 부상 위험도가 높은 시기, 부위 등을 미리 확인한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기존에는 AI가 통계 위주로 경기 전력과 선수별 플레이 특징과 실력 등을 비교하는 데 주로 사용했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "AI 분석에는 머신러닝 구축·관리 플랫폼 '아마존 세이즈메이커'를 활용한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "양사는 게임규칙, 헬멧 등 장비, 포지션 등 다양한 변수가 부상에 미치는 영향을 분석한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "앤디 재시 AWS 최고경영자(CEO)는 “NFL 데이터와 인사이프, AWS 머신러닝 기술과 역량을 활용해 선수 건강과 안전을 확보하는 파트너십을 확보하게 됐다”며 “경기를 잘하는 데 AI를 사용하던 것에서 나아가 선수 미래에 도움이 될 좋은 기회”라고 말했다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "로저 구델 NFL 위원은 “부상을 어떻게 이겨내야 하는지, 부상 예방은 어떻게 해야 할지 등 데이터 기반 AI 분석으로 선수는 건강에, 구단은 선수 전력 유지에 도움이 될 것”이라며 “헬멧 등 선수 맞춤형 보호장비도 개발하는 등 안전을 위해서도 의미있는 시도”라고 설명했다.",
+				"sentenceSize": 153
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[리인벤트19]AWS, 인공지능으로 스포츠 안전 책임진다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

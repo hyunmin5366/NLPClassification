@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335950",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "'견적 송장' 위장한 피싱 이메일 주의",
+		"newsSubTitle": "",
+		"newsContent": "견적 송장을 위장한 피싱 이메일이 유포되고 있어 이용자 주의가 요구된다.\n이스트시큐리티 시큐리티대응센터(ESRC)는 최근 '견적 송장(Proforma Invoice)'을 위장한 피싱 이메일을 발견했다.\n공격자는 이메일에 견적 송장을 첨부했다면서 HTM 파일을 확인하라고 썼다.\n이용자가 파일을 클릭하면 PDF를 내려받으라는 페이지가 나타난다.\n다운로드 버튼 클릭 시 이메일 계정 정보를 입력하라고 요구하는데 입력된 정보는 모두 공격자 명령제어(C2) 서버로 보내진다.\nESRC 관계자는 “이렇게 유출된 정보는 크리덴셜스터핑 등 2차 공격에 악용되기 쉽다”면서 “출처가 불분명한 이메일 첨부파일은 실행하지 말라”고 당부했다.\n현재 알약은 해당 HTM 파일을 'Trojan.HTMLPhish'로 탐지하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "견적 송장을 위장한 피싱 이메일이 유포되고 있어 이용자 주의가 요구된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이스트시큐리티 시큐리티대응센터(ESRC)는 최근 '견적 송장(Proforma Invoice)'을 위장한 피싱 이메일을 발견했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공격자는 이메일에 견적 송장을 첨부했다면서 HTM 파일을 확인하라고 썼다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이용자가 파일을 클릭하면 PDF를 내려받으라는 페이지가 나타난다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다운로드 버튼 클릭 시 이메일 계정 정보를 입력하라고 요구하는데 입력된 정보는 모두 공격자 명령제어(C2) 서버로 보내진다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "ESRC 관계자는 “이렇게 유출된 정보는 크리덴셜스터핑 등 2차 공격에 악용되기 쉽다”면서 “출처가 불분명한 이메일 첨부파일은 실행하지 말라”고 당부했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 알약은 해당 HTM 파일을 'Trojan.HTMLPhish'로 탐지하고 있다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'견적 송장' 위장한 피싱 이메일 주의",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

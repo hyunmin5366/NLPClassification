@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348190",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "서울서 배민 라이더 2명 확진…\\\"접촉 고객 규모 파악중\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "배달업체 배달의민족(이하 배민) 라이더(배달원) 2명이 코로나19 확진 판정을 받은 것으로 확인됐다.\n28일 업계에 따르면 이날 오전 배민 서울 서부센터 소속 라이더 2명이 보건당국으로부터 코로나19 양성 판정을 통보 받았다.\n배민 서울 서부센터는 서울 강서구와 관악구, 구로구, 금천구, 동작구, 양천구, 영등포구 등 서울 남서부 지역을 관할한다.\n배민 운영사 '우아한형제들'에 따르면 확진자는 배달을 할 때 마스크를 착용했다.\n배민과 보건당국은 이들 배달원이 접촉한 고객 규모를 파악 중이다.\n우아한형제들은 배민 서부센터를 최근 1주일 사이 다녀간 라이더 전원과 상주 직원들에게 코로나19 검사를 받게 했다고 밝혔다.\n또 이들의 코로나19 검사 결과가 나올 때까지 라이더 계정을 일시중지했다고 밝혔다.\n우아한형제들은 확진 배달원들이 무증상 상태에서 최근 진행된 서울시 선제 검사를 받고 코로나19 양성 반응을 알게 된 것으로 파악된다고 설명했다.\n우아한형제들 관계자는 \\\"최근 수도권 코로나19 신규 감염자가 연일 급증하고 있어 라이더들의 감염경로가 불분명한 것으로 안다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배달업체 배달의민족(이하 배민) 라이더(배달원) 2명이 코로나19 확진 판정을 받은 것으로 확인됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 업계에 따르면 이날 오전 배민 서울 서부센터 소속 라이더 2명이 보건당국으로부터 코로나19 양성 판정을 통보 받았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "배민 서울 서부센터는 서울 강서구와 관악구, 구로구, 금천구, 동작구, 양천구, 영등포구 등 서울 남서부 지역을 관할한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "배민 운영사 '우아한형제들'에 따르면 확진자는 배달을 할 때 마스크를 착용했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "배민과 보건당국은 이들 배달원이 접촉한 고객 규모를 파악 중이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "우아한형제들은 배민 서부센터를 최근 1주일 사이 다녀간 라이더 전원과 상주 직원들에게 코로나19 검사를 받게 했다고 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 이들의 코로나19 검사 결과가 나올 때까지 라이더 계정을 일시중지했다고 밝혔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "우아한형제들은 확진 배달원들이 무증상 상태에서 최근 진행된 서울시 선제 검사를 받고 코로나19 양성 반응을 알게 된 것으로 파악된다고 설명했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "우아한형제들 관계자는 \\\"최근 수도권 코로나19 신규 감염자가 연일 급증하고 있어 라이더들의 감염경로가 불분명한 것으로 안다\\\"고 말했다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서울서 배민 라이더 2명 확진…\\\"접촉 고객 규모 파악중\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

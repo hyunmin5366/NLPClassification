@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351247",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "AI 학습 데이터 전문가 되볼까...NIA, 교육 참가자 모집",
+		"newsSubTitle": "null",
+		"newsContent": "과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 인공지능(AI) 학습용 데이터 라벨링 전문 교육사이트를 신규 개설하고 교육 참가자를 모집한다고 23일 밝혔다.\n정부가 진행 중인 AI 학습용 데이터 구축사업은 AI 서비스 개발에 필수적인 학습용 데이터를 대규모로 구축·개방하는 사업이다.\nAI 학습용 데이터는 크라우드소싱 방식을 통해 대부분 사람이 수작업으로 만든다.\n지난해 총 3만8000여명의 크라우드 워커가 참여해 170종의 대규모 데이터가 구축됐다.\n올해 6월 데이터 개방 이후 1만2000건이 넘는 다운로드 수를 기록했다.\n이번 교육은 AI 학습용 데이터 구축사업 참여 희망자를 대상으로 진행한다.\nAI 데이터 수요가 늘어남에 따라 데이터 품질을 높일 수 있도록 사업 참여인력의 역량을 키우는 것이 목표다.\n교육은 AI와 데이터 라벨링에서 준용해야 할 △AI 윤리 △개인정보보안 과정을 포함 △데이터 유형별 라벨러 과정 △데이터 전문가 과정 △데이터 고급 관리자 과정 등으로 구성된다.\n문용식 NIA 원장은 \\\"크라우드소싱 기반 데이터 가공 교육을 통해 고품질 데이터를 확보하고 전문직 일자리를 창출하는 등 AI 산업 생태계 조성을 위한 인력 인프라를 구축하는데 도움이 될 것으로 기대한다\\\"고 말했다.\n한편 모든 교육과정은 무료로 진행되며, 오는 24일부터 12월까지 온·오프라인 교육을 병행할 예정이다.\n자세한 정보는 홈페이지에서 확인 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 인공지능(AI) 학습용 데이터 라벨링 전문 교육사이트를 신규 개설하고 교육 참가자를 모집한다고 23일 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정부가 진행 중인 AI 학습용 데이터 구축사업은 AI 서비스 개발에 필수적인 학습용 데이터를 대규모로 구축·개방하는 사업이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AI 학습용 데이터는 크라우드소싱 방식을 통해 대부분 사람이 수작업으로 만든다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 총 3만8000여명의 크라우드 워커가 참여해 170종의 대규모 데이터가 구축됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올해 6월 데이터 개방 이후 1만2000건이 넘는 다운로드 수를 기록했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 교육은 AI 학습용 데이터 구축사업 참여 희망자를 대상으로 진행한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "AI 데이터 수요가 늘어남에 따라 데이터 품질을 높일 수 있도록 사업 참여인력의 역량을 키우는 것이 목표다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "교육은 AI와 데이터 라벨링에서 준용해야 할 △AI 윤리 △개인정보보안 과정을 포함 △데이터 유형별 라벨러 과정 △데이터 전문가 과정 △데이터 고급 관리자 과정 등으로 구성된다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "문용식 NIA 원장은 \\\"크라우드소싱 기반 데이터 가공 교육을 통해 고품질 데이터를 확보하고 전문직 일자리를 창출하는 등 AI 산업 생태계 조성을 위한 인력 인프라를 구축하는데 도움이 될 것으로 기대한다\\\"고 말했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편 모든 교육과정은 무료로 진행되며, 오는 24일부터 12월까지 온·오프라인 교육을 병행할 예정이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "자세한 정보는 홈페이지에서 확인 가능하다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AI 학습 데이터 전문가 되볼까...NIA, 교육 참가자 모집",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

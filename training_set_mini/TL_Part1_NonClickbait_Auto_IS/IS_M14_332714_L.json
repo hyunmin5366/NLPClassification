@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332714",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "지난 1분기 표적형 공격 정교해져...흔적조차 남기지 않는다",
+		"newsSubTitle": "",
+		"newsContent": "지난 1분기 국가 지원을 받는 사이버 공격 정교함이 증가했다.\n해커는 '공격 흔적 삭제 툴(와이퍼)'을 활용하고, 금융 범죄에 열을 올렸다.\n카스퍼스키랩(지사장 이창훈)은 2일 '2017년 1분기 APT 트렌드 보고서'를 내고, 표적형 공격이 와이퍼∙금융범죄로 향하는 추세라고 지적했다.\n카스퍼스키랩에 따르면, 지난 1분기 샤문(Shamoon)공격에서 진화한 버전 와이퍼가 사용됐다.\n샤문은 시스템 부트 영역인 마스터 부트 레코드(MBR)∙파일을 변조하는 악성코드다.\n해커는 와이퍼를 활용해 사이버 사보타주 활동 이후 흔적을 삭제하고자 했다.\n표적형 공격은 금융 범죄로 손을 뻗었다.\n카스퍼스키랩은 라자러스(Lazarus) 그룹을 추적한 결과 하위조직 블루노로프(BlueNoroff)를 확인했다고 밝혔다.\n이들은 폴란드 중요 기관∙방글라데시 은행 강도 사건을 일으켰다.\n라자러스 그룹은 2014년 소니 픽쳐스 엔터테인먼트 공격 사건 배후로 지목되는 조직이다.\n카스퍼스키랩 관계자는 \\\"라자러스 그룹이 하위 조직을 활용해 공격을 한다는 점이 이번에 드러났다\\\"고 밝혔다. '파일리스 악성 코드(Fileless malware attacks)'는 표적형 공격 해커는 물론 일반 사이버 범죄자 공격에도 이용됐다.\n탐지를 피하고 포렌식 수사를 교란시키는 역할을 했다.\n지능형 지속 위협(APT) 활동에서 측면 무브먼트 공격 툴이 사용된 사례도 발견했다.\n이창훈 카스퍼스키랩코리아 지사장은 \\\"표적형 공격 환경은 끊임없이 진화하면서 위협 인텔리전스 활용이 더욱 중요해졌다\\\"면서 \\\"기업은 위협 인텔리전스로 문제를 빠르게 파악하고 대응책을 준비할 수 있을 것\\\"이라고 말했다.\n카스퍼스키랩은 1997년 설립된 글로벌 사이버 보안 전문 회사다.\n심층적인 보안 위협 인텔리전스∙보안 전문 지식을 바탕으로 전 세계 각지 기업∙기간 산업 인프라∙정부∙개인 소비자에게 보안 솔루션∙서비스를 제공한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 1분기 국가 지원을 받는 사이버 공격 정교함이 증가했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해커는 '공격 흔적 삭제 툴(와이퍼)'을 활용하고, 금융 범죄에 열을 올렸다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카스퍼스키랩(지사장 이창훈)은 2일 '2017년 1분기 APT 트렌드 보고서'를 내고, 표적형 공격이 와이퍼∙금융범죄로 향하는 추세라고 지적했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "카스퍼스키랩에 따르면, 지난 1분기 샤문(Shamoon)공격에서 진화한 버전 와이퍼가 사용됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "샤문은 시스템 부트 영역인 마스터 부트 레코드(MBR)∙파일을 변조하는 악성코드다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해커는 와이퍼를 활용해 사이버 사보타주 활동 이후 흔적을 삭제하고자 했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "표적형 공격은 금융 범죄로 손을 뻗었다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카스퍼스키랩은 라자러스(Lazarus) 그룹을 추적한 결과 하위조직 블루노로프(BlueNoroff)를 확인했다고 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이들은 폴란드 중요 기관∙방글라데시 은행 강도 사건을 일으켰다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "라자러스 그룹은 2014년 소니 픽쳐스 엔터테인먼트 공격 사건 배후로 지목되는 조직이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "카스퍼스키랩 관계자는 \\\"라자러스 그룹이 하위 조직을 활용해 공격을 한다는 점이 이번에 드러났다\\\"고 밝혔다. '파일리스 악성 코드(Fileless malware attacks)'는 표적형 공격 해커는 물론 일반 사이버 범죄자 공격에도 이용됐다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "탐지를 피하고 포렌식 수사를 교란시키는 역할을 했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "지능형 지속 위협(APT) 활동에서 측면 무브먼트 공격 툴이 사용된 사례도 발견했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이창훈 카스퍼스키랩코리아 지사장은 \\\"표적형 공격 환경은 끊임없이 진화하면서 위협 인텔리전스 활용이 더욱 중요해졌다\\\"면서 \\\"기업은 위협 인텔리전스로 문제를 빠르게 파악하고 대응책을 준비할 수 있을 것\\\"이라고 말했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "카스퍼스키랩은 1997년 설립된 글로벌 사이버 보안 전문 회사다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "심층적인 보안 위협 인텔리전스∙보안 전문 지식을 바탕으로 전 세계 각지 기업∙기간 산업 인프라∙정부∙개인 소비자에게 보안 솔루션∙서비스를 제공한다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지난 1분기 표적형 공격 정교해져...흔적조차 남기지 않는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

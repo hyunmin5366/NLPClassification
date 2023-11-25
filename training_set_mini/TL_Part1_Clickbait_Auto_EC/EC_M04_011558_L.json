@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011558",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "힘받은 코스피 '1993.83'",
+		"newsSubTitle": "12.74포인트 오르며 마감",
+		"newsContent": "코스피 지수가 기관과 외국인 투자자들의 동반 매수세에 힘입어 전거래일보다 12.74포인트(0.64%)오른 1993.83으로 장을 마쳤다.\n이날 외국인은 1354억원, 기관은 1101억원의 주식을 순매수했다.\n개인은 지수 상승으로 2316억원의 순매도했다.\n종이·목재(2.39%), 비금속광물(2.23%), 운송장비(1.98%), 철강·금속(1.42%) 등 대부분의 업종이 올랐다.\n반면 의료정밀(-1.28%), 음식료품(-1.17%), 통신업(-0.45%), 서비스업(-0.42%) 등은 하락했다.\n코스닥 지수는 전 거래일보다 1.56포인트(0.27%) 상승한 574.25에 마감했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피 지수가 기관과 외국인 투자자들의 동반 매수세에 힘입어 전거래일보다 12.74포인트(0.64%)오른 1993.83으로 장을 마쳤다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 외국인은 1354억원, 기관은 1101억원의 주식을 순매수했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개인은 지수 상승으로 2316억원의 순매도했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "종이·목재(2.39%), 비금속광물(2.23%), 운송장비(1.98%), 철강·금속(1.42%) 등 대부분의 업종이 올랐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "반면 의료정밀(-1.28%), 음식료품(-1.17%), 통신업(-0.45%), 서비스업(-0.42%) 등은 하락했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코스닥 지수는 전 거래일보다 1.56포인트(0.27%) 상승한 574.25에 마감했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "올해 추석제수용품, 외국산 잔치",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325634",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "에이치투오, '타이탄 뉴럴웍스' 론칭… “100만 접속 초연결사회 구현”",
+		"newsSubTitle": "",
+		"newsContent": "100만 동시접속 초연결사회를 구현하는 MQTT(Message Queueing Telemetry Transport) 기반 고성능 메시징 처리 어플라이언스가 등장한다.\n에이치투오시스템테크놀로지(대표 임종혁)는 위치기반서비스(LBS) 사물인터넷(IoT) 솔루션 '타이탄 뉴럴웍스(TiTAN Neural Works)'가 최근 한국정보통신기술협회(TTA) 성능시험 인증을 통과, 상용화한다고 28일 밝혔다.\n지난 2년간 산학연 협력으로 개발한 타이탄 뉴럴웍스는 TTA로부터 △100만 클라이언트 동시접속 △비신뢰 메시지 초당 1500만건 처리 △신뢰 메시지 초당 40만건 처리 성능을 입증했다.\n해당 성과를 바탕으로 1분기 중 GS인증을 통과할 것으로 기대되며 조달시장을 적극 공략한다는 계획이다.\n타이탄 뉴럴웍스는 모바일, 스마트센서, 원격측정 디바이스 등 IoT기기 간 무선연결과 모바일 메시징에 최적화된 메시징 전용 어플라이언스다.\n30분 이내 빠르고 간편한 배치와 신뢰성 높은 양방향 메시징 서비스도 강점이다.\n국제표준화기구 OASIS의 국제표준 MQTT를 준수하며 대규모 클라이언트 연결, 대량 메시지 처리를 안정적으로 지원한다.\n메시지 보안을 위한 SSL/TLS 통신보안지원, 메시지 전송보장을 위한 3가지 QoS 레벨을 지원한다.\n제품은 휴대폰, 건물, 생체인식, 센서 등 연결할 수 있는 모든 사물을 이어주며 이벤트 통지, 데이터 수집, 협업, 지불∙결제 등 빅데이터 처리에 최적화된 모바일 환경을 제공한다.\n지능화된 예측∙분석∙중개가 필요한 에너지∙공익사업, 교통상황 관측∙통제를 하는 스마트시티, 원격 모니터링∙통제를 하는 스마트빌딩, 환자모니터링∙기록자동화를 필요로 하는 스마트의료 등 산업 전반에 걸쳐 확대 적용될 것으로 기대된다.\n에이치투오시스템은 '우선순위 기반 긴급 메시지 처리 기술'로 국내외 특허를 출원 중이다.\nMQTT 프로토콜 기반 긴급메시지와 일반메시지를 구분하는 기술로 긴급 구독리스트에 저장된 메시지를 우선 처리해 긴급정보 전송서비스를 지원할 수 있다.\n임종혁 대표는 \\\"서울시 실증사업에 참여해 뉴럴웍스를 공급하고 서울시와 산하기관이 필요로 하는 다양한 서비스를 개발할 것\\\"이라면서 \\\"스마트팩토리, 스마트카, 드론 등 파트너를 발굴해 차별화된 IoT 서비스로 초연결사회를 구현하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "100만 동시접속 초연결사회를 구현하는 MQTT(Message Queueing Telemetry Transport) 기반 고성능 메시징 처리 어플라이언스가 등장한다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "에이치투오시스템테크놀로지(대표 임종혁)는 위치기반서비스(LBS) 사물인터넷(IoT) 솔루션 '타이탄 뉴럴웍스(TiTAN Neural Works)'가 최근 한국정보통신기술협회(TTA) 성능시험 인증을 통과, 상용화한다고 28일 밝혔다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 2년간 산학연 협력으로 개발한 타이탄 뉴럴웍스는 TTA로부터 △100만 클라이언트 동시접속 △비신뢰 메시지 초당 1500만건 처리 △신뢰 메시지 초당 40만건 처리 성능을 입증했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 성과를 바탕으로 1분기 중 GS인증을 통과할 것으로 기대되며 조달시장을 적극 공략한다는 계획이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타이탄 뉴럴웍스는 모바일, 스마트센서, 원격측정 디바이스 등 IoT기기 간 무선연결과 모바일 메시징에 최적화된 메시징 전용 어플라이언스다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "30분 이내 빠르고 간편한 배치와 신뢰성 높은 양방향 메시징 서비스도 강점이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국제표준화기구 OASIS의 국제표준 MQTT를 준수하며 대규모 클라이언트 연결, 대량 메시지 처리를 안정적으로 지원한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "메시지 보안을 위한 SSL/TLS 통신보안지원, 메시지 전송보장을 위한 3가지 QoS 레벨을 지원한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "제품은 휴대폰, 건물, 생체인식, 센서 등 연결할 수 있는 모든 사물을 이어주며 이벤트 통지, 데이터 수집, 협업, 지불∙결제 등 빅데이터 처리에 최적화된 모바일 환경을 제공한다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지능화된 예측∙분석∙중개가 필요한 에너지∙공익사업, 교통상황 관측∙통제를 하는 스마트시티, 원격 모니터링∙통제를 하는 스마트빌딩, 환자모니터링∙기록자동화를 필요로 하는 스마트의료 등 산업 전반에 걸쳐 확대 적용될 것으로 기대된다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "에이치투오시스템은 '우선순위 기반 긴급 메시지 처리 기술'로 국내외 특허를 출원 중이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "MQTT 프로토콜 기반 긴급메시지와 일반메시지를 구분하는 기술로 긴급 구독리스트에 저장된 메시지를 우선 처리해 긴급정보 전송서비스를 지원할 수 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "임종혁 대표는 \\\"서울시 실증사업에 참여해 뉴럴웍스를 공급하고 서울시와 산하기관이 필요로 하는 다양한 서비스를 개발할 것\\\"이라면서 \\\"스마트팩토리, 스마트카, 드론 등 파트너를 발굴해 차별화된 IoT 서비스로 초연결사회를 구현하겠다\\\"고 말했다.",
+				"sentenceSize": 138
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에이치투오, '타이탄 뉴럴웍스' 론칭… “100만 접속 초연결사회 구현”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

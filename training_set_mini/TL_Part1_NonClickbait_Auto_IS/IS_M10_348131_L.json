@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348131",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "유튜브로도 악성코드 유포…'SW 불법다운로드' 설명 영상 주의",
+		"newsSubTitle": "null",
+		"newsContent": "최근 유튜브 영상으로도 악성코드가 유포되고 있어 주의가 당부된다.\n상용 소프트웨어(SW)를 불법 다운로드 할 수 있다며 악성코드가 담긴 링크를 유튜브 영상 상세 설명에 첨부하는 방식의 악성코드다.\n22일 안랩에 따르면 최근 상용 작곡 프로그램의 불법 설치 방법을 설명하는 'Download Crack for Ableton Live Suite for FREE (2020 Working)'이라는 제목의 영상을 통해 악성코드가 유포되고 있었다.\n3분 가량의 이 영상은 무단 복제나 불법 다운로드 방지 기술이 적용된 상용 소프트웨어를 불법으로 사용하기 위해 보호 방식을 제거한 '크랙'(Crack) 프로그램을 이용한 소프트웨어 불법 설치 방법을 설명했다.\n해당 영상의 상세 설명란에는 '크랙 다운로드 URL'과 '파일 암호'를 기재해 소프트웨어 불법 다운로드에 관심 있는 이용자가 URL을 실행하도록 유인했다.\nURL은 실행 파일(.exe)이 포함된 압축파일(.zip)이 다운로드 되도록 설계됐다.\n이용자가 여기에 파일 암호를 입력해 압축을 해제한 후 실행파일을 열면 악성코드가 설치되는 방식이다.\n이 악성코드에 PC가 감염되면 웹브라우저 계정 정보와 VPN(가상사설망) 프로그램 사용자 정보, 인스턴트 메신저 계정 정보 등이 탈취되는 것으로 조사됐다.\n안랩은 자사 안티바이러스엔진(백신프로그램)인 V3 제품군이 이 악성코드를 진단하고 있다고 설명했다.\n안랩은 악성코드 피해를 막기 위해 정품 소프트웨어나 콘텐츠를 다운로드하고 의심되는 웹사이트 방문을 자제할 것을 당부했다.\n또 OS(운영체제)와 인터넷 브라우저, 응용 프로그램, 오피스 소프트웨어 등 프로그램의 최신 버전을 유지하고 보안 패치를 적용해야 하며 최신 버전의 백신 프로그램으로 주기적으로 PC를 검사하는 등 보안 수칙을 지켜야 한다고 했다.\n이재진 안랩 분석팀 연구원은 \\\"공격자는 악성코드 유포를 위해 가짜 웹사이트 등에서 나아가 유튜브 영상같은 새로운 방법도 이용한다\\\"며 \\\"향후 유사한 제목과 방식으로 공격이 이어질 가능성이 있어 반드시 정품 소프트웨어를 이용하는 등 보안 수칙을 준수해야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 유튜브 영상으로도 악성코드가 유포되고 있어 주의가 당부된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "상용 소프트웨어(SW)를 불법 다운로드 할 수 있다며 악성코드가 담긴 링크를 유튜브 영상 상세 설명에 첨부하는 방식의 악성코드다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "22일 안랩에 따르면 최근 상용 작곡 프로그램의 불법 설치 방법을 설명하는 'Download Crack for Ableton Live Suite for FREE (2020 Working)'이라는 제목의 영상을 통해 악성코드가 유포되고 있었다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "3분 가량의 이 영상은 무단 복제나 불법 다운로드 방지 기술이 적용된 상용 소프트웨어를 불법으로 사용하기 위해 보호 방식을 제거한 '크랙'(Crack) 프로그램을 이용한 소프트웨어 불법 설치 방법을 설명했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 영상의 상세 설명란에는 '크랙 다운로드 URL'과 '파일 암호'를 기재해 소프트웨어 불법 다운로드에 관심 있는 이용자가 URL을 실행하도록 유인했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "URL은 실행 파일(.exe)이 포함된 압축파일(.zip)이 다운로드 되도록 설계됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이용자가 여기에 파일 암호를 입력해 압축을 해제한 후 실행파일을 열면 악성코드가 설치되는 방식이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 악성코드에 PC가 감염되면 웹브라우저 계정 정보와 VPN(가상사설망) 프로그램 사용자 정보, 인스턴트 메신저 계정 정보 등이 탈취되는 것으로 조사됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "안랩은 자사 안티바이러스엔진(백신프로그램)인 V3 제품군이 이 악성코드를 진단하고 있다고 설명했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "안랩은 악성코드 피해를 막기 위해 정품 소프트웨어나 콘텐츠를 다운로드하고 의심되는 웹사이트 방문을 자제할 것을 당부했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또 OS(운영체제)와 인터넷 브라우저, 응용 프로그램, 오피스 소프트웨어 등 프로그램의 최신 버전을 유지하고 보안 패치를 적용해야 하며 최신 버전의 백신 프로그램으로 주기적으로 PC를 검사하는 등 보안 수칙을 지켜야 한다고 했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이재진 안랩 분석팀 연구원은 \\\"공격자는 악성코드 유포를 위해 가짜 웹사이트 등에서 나아가 유튜브 영상같은 새로운 방법도 이용한다\\\"며 \\\"향후 유사한 제목과 방식으로 공격이 이어질 가능성이 있어 반드시 정품 소프트웨어를 이용하는 등 보안 수칙을 준수해야 한다\\\"고 말했다.",
+				"sentenceSize": 153
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유튜브로도 악성코드 유포…'SW 불법다운로드' 설명 영상 주의",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

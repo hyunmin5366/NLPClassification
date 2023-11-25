@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014902",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "세종, 인구 순이동률 전국 1위… 대전은 마이너스",
+		"newsSubTitle": "",
+		"newsContent": "최근 인구 20만명을 돌파한 세종시의 지난 8월 인구 순이동률이 전국에서 가장 높은 것으로 나타났다.\n24일 통계청이 공개한 2015년 8월 국내인구이동 조사 자료를 보면, 지난 8월 국내 이동자 수는 61만9000명으로, 전년 동월 대비 6.2%(3만6000명) 증가했다.\n총 이동자 중 시·도내 이동자는 66.9%, 시·도간 이동자는 33.1%를 차지했다.\n전년 동월 대비 시·도내 이동자는 5.2% 증가했고 시·도간 이동자는 8.2% 증가했으며, 인구이동률(인구 100명당 이동자 수)은 1.21%로, 전년 동월 대비 0.07% 늘었다.\n또한, 지난 8월 시·도별 순이동(전입-전출) 현황에서 경기(9781명), 세종(4527명), 충남(1793명) 등 7개 시·도는 순유입, 서울(-1만2911명), 대전(-1787명), 부산(-1737명) 등 10개 시·도는 순유출됐다.\n8월 시·도별 순이동률의 경우 세종(2.34%), 제주(0.19%), 충남(0.09%) 등은 순유입, 서울(-0.13%), 대전(-0.12%), 광주(-0.07%) 등은 순유출로 집계됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 인구 20만명을 돌파한 세종시의 지난 8월 인구 순이동률이 전국에서 가장 높은 것으로 나타났다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 통계청이 공개한 2015년 8월 국내인구이동 조사 자료를 보면, 지난 8월 국내 이동자 수는 61만9000명으로, 전년 동월 대비 6.2%(3만6000명) 증가했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "총 이동자 중 시·도내 이동자는 66.9%, 시·도간 이동자는 33.1%를 차지했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전년 동월 대비 시·도내 이동자는 5.2% 증가했고 시·도간 이동자는 8.2% 증가했으며, 인구이동률(인구 100명당 이동자 수)은 1.21%로, 전년 동월 대비 0.07% 늘었다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한, 지난 8월 시·도별 순이동(전입-전출) 현황에서 경기(9781명), 세종(4527명), 충남(1793명) 등 7개 시·도는 순유입, 서울(-1만2911명), 대전(-1787명), 부산(-1737명) 등 10개 시·도는 순유출됐다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "8월 시·도별 순이동률의 경우 세종(2.34%), 제주(0.19%), 충남(0.09%) 등은 순유입, 서울(-0.13%), 대전(-0.12%), 광주(-0.07%) 등은 순유출로 집계됐다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카이스트, 인공광합성 기술을 구현 성공",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

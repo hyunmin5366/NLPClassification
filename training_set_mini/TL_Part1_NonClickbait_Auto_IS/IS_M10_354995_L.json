@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354995",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "\\\"엄마한테 5만원 보내줘\\\"…KT·기업銀, 'AI 보이스뱅킹' 서비스",
+		"newsSubTitle": "null",
+		"newsContent": "KT가 IBK기업은행과 AI(인공지능) 음성인식 플랫폼을 이용한 'AI보이스뱅킹 서비스'를 공동 개발하고 상용화했다고 15일 밝혔다.\nAI보이스뱅킹 서비스가 적용된 기능은 △간편송금 △메뉴찾기 △일상대화 등 세 가지다.\n간편송금은 별칭으로 등록된 계좌에 빠르게 돈을 보내는 기능이다. '엄마'로 등록된 계좌로 5만원을 송금하려면 앱 실행 후 \\\"엄마에게 오만원 송금해줘\\\"라고 말하고 보내기 버튼을 누르면 된다.\n메뉴찾기는 금융 서비스 관련 메뉴를 문자가 아닌 음성으로 검색하는 기능이며, 일상대화로는 뉴스 브리핑이나 날씨 정보를 확인할 수 있다.\n향후 KT는 IBK기업은행과 서비스 고도화를 위한 전략적 협업을 지속해 AI 기술을 활용해 금융 DX(디지털 혁신) 사업을 이어간다.\n이미희 KT C레벨컨설팅본부장은 \\\"AI보이스뱅킹은 KT의 정보통신기술(ICT) 역량, IBK기업은행의 금융사업 노하우가 시너지를 낸 결과\\\"라며 \\\"앞으로도 금융산업의 혁신을 이끌겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 IBK기업은행과 AI(인공지능) 음성인식 플랫폼을 이용한 'AI보이스뱅킹 서비스'를 공동 개발하고 상용화했다고 15일 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AI보이스뱅킹 서비스가 적용된 기능은 △간편송금 △메뉴찾기 △일상대화 등 세 가지다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "간편송금은 별칭으로 등록된 계좌에 빠르게 돈을 보내는 기능이다. '엄마'로 등록된 계좌로 5만원을 송금하려면 앱 실행 후 \\\"엄마에게 오만원 송금해줘\\\"라고 말하고 보내기 버튼을 누르면 된다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "메뉴찾기는 금융 서비스 관련 메뉴를 문자가 아닌 음성으로 검색하는 기능이며, 일상대화로는 뉴스 브리핑이나 날씨 정보를 확인할 수 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "향후 KT는 IBK기업은행과 서비스 고도화를 위한 전략적 협업을 지속해 AI 기술을 활용해 금융 DX(디지털 혁신) 사업을 이어간다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이미희 KT C레벨컨설팅본부장은 \\\"AI보이스뱅킹은 KT의 정보통신기술(ICT) 역량, IBK기업은행의 금융사업 노하우가 시너지를 낸 결과\\\"라며 \\\"앞으로도 금융산업의 혁신을 이끌겠다\\\"고 말했다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"엄마한테 5만원 보내줘\\\"…KT·기업銀, 'AI 보이스뱅킹' 서비스",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

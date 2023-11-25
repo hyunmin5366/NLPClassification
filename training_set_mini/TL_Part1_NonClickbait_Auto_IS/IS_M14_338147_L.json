@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338147",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "라이드플럭스, 라이다 없이 자율차 위치 파악 기술 확보",
+		"newsSubTitle": "",
+		"newsContent": "자율주행 스타트업 라이드플럭스가 카메라와 저가 위성항법장치(GPS)만으로 차량의 차선까지 정확히 파악하는 기술을 개발했다.\n고가의 라이다 없이 구현이 가능하다는 점에서 향후 자율주행차 보급 확대에 긍정적일 것으로 예상된다.\n라이드플럭스는 저가 GPS와 카메라로 정밀지도(HD맵)상 위치를 파악할 수 있는 기술을 확보했다고 6일 밝혔다.\n라이드플럭스는 라이다, 레이더, 카메라 센서를 모두 사용해 자율주행 기술을 구현한다.\n안전성을 최대한 높이기 위해서다.\n라이다를 사용하지만 카메라만으로도 자율주행을 구현하는 기술을 병행 개발하면서 해당 기술을 확보했다.\n모든 고객 요구 사양에 대응할 수 있는 기술 경쟁력을 갖추기 위해서다.\n일반적으로 자율주행차의 HD맵상 위치를 파악하려면 고가의 GPS와 라이다 센서를 활용한다.\n라이다 센서는 사양에 따라 1000만원이 넘는다.\n라이다 센서는 주행 안전성을 높이지만 아직 가격이 높아 보급 확대에 걸림돌로 꼽힌다.\n라이드플럭스는 GPS 좌표값에 카메라로 수집한 데이터를 기반으로 차선 위치를 추정할 수 있도록 했다.\n자율주행차는 차량이 위치한 차선을 정확히 인식, 주행 중인 차선을 고려한 목적지 도달 방법을 도출할 수 있다.\n차량이 속한 차선을 고려해 미리 차선을 변경할 수 있다.\n해당 기술은 비 자율주행차 대상 내비게이션에도 적용 가능하다.\n차선을 토대로 차량 내비게이션 경로 이탈을 빠르게 인식하고 재탐색할 수 있다.\n라이드플럭스 관계자는 “자율주행 구현을 위한 요소 기술로 상대적으로 저가 센서로 정확한 위치를 파악할 수 있는 게 강점”이라며 “향후 내비게이션 관련 외부 업체와 제휴 가능성도 열려 있다”고 말했다.\n라이드플럭스는 지난 2020년 5월 제주에서 국내 최초 실시간 수요응답형 자율주행 셔틀 서비스를 내놓은 업체다.\n지난해 12월에는 제주공항~중문관광단지 왕복 76㎞ 구간에서 자율주행 유상 운송 서비스를 시작했다.\n오는 2024년까지 서울을 포함한 전국 주요 도시에서 서비스를 제공할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자율주행 스타트업 라이드플럭스가 카메라와 저가 위성항법장치(GPS)만으로 차량의 차선까지 정확히 파악하는 기술을 개발했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고가의 라이다 없이 구현이 가능하다는 점에서 향후 자율주행차 보급 확대에 긍정적일 것으로 예상된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "라이드플럭스는 저가 GPS와 카메라로 정밀지도(HD맵)상 위치를 파악할 수 있는 기술을 확보했다고 6일 밝혔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "라이드플럭스는 라이다, 레이더, 카메라 센서를 모두 사용해 자율주행 기술을 구현한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "안전성을 최대한 높이기 위해서다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "라이다를 사용하지만 카메라만으로도 자율주행을 구현하는 기술을 병행 개발하면서 해당 기술을 확보했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "모든 고객 요구 사양에 대응할 수 있는 기술 경쟁력을 갖추기 위해서다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "일반적으로 자율주행차의 HD맵상 위치를 파악하려면 고가의 GPS와 라이다 센서를 활용한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "라이다 센서는 사양에 따라 1000만원이 넘는다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "라이다 센서는 주행 안전성을 높이지만 아직 가격이 높아 보급 확대에 걸림돌로 꼽힌다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "라이드플럭스는 GPS 좌표값에 카메라로 수집한 데이터를 기반으로 차선 위치를 추정할 수 있도록 했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "자율주행차는 차량이 위치한 차선을 정확히 인식, 주행 중인 차선을 고려한 목적지 도달 방법을 도출할 수 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "차량이 속한 차선을 고려해 미리 차선을 변경할 수 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "해당 기술은 비 자율주행차 대상 내비게이션에도 적용 가능하다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "차선을 토대로 차량 내비게이션 경로 이탈을 빠르게 인식하고 재탐색할 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "라이드플럭스 관계자는 “자율주행 구현을 위한 요소 기술로 상대적으로 저가 센서로 정확한 위치를 파악할 수 있는 게 강점”이라며 “향후 내비게이션 관련 외부 업체와 제휴 가능성도 열려 있다”고 말했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "라이드플럭스는 지난 2020년 5월 제주에서 국내 최초 실시간 수요응답형 자율주행 셔틀 서비스를 내놓은 업체다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "지난해 12월에는 제주공항~중문관광단지 왕복 76㎞ 구간에서 자율주행 유상 운송 서비스를 시작했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "오는 2024년까지 서울을 포함한 전국 주요 도시에서 서비스를 제공할 계획이다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라이드플럭스, 라이다 없이 자율차 위치 파악 기술 확보",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

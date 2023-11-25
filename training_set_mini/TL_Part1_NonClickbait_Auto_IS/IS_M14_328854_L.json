@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328854",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "中, 5G 산업기밀 해킹 확대…23개사 공격 받아",
+		"newsSubTitle": "",
+		"newsContent": "중국 해킹조직이 5세대(5G) 이동통신 등 산업기밀을 탈취하기 위해 사이버공격을 확대한 것으로 나타났다.\n16일(현지시간) 글로벌 보안업체 맥아피에 따르면 중국 정부가 배후로 지목되는 해킹조직은 5G 기술 정보 등을 확보하기 위해 최소 23개 통신업체를 공격한 것으로 확인됐다.\n이들은 '레드델타' 또는 '무스탕판다'로 호명되는 첩보 전문 해킹조직으로 최근 5G 산업으로까지 공격 범위를 넓힌 것으로 조사됐다.\n동남아, 유럽, 미국 소재 통신사가 공격 대상에 대거 포함됐다.\n레드델타는 화웨이 웹사이트를 모방한 피싱 사이트를 만들고 멀웨어를 유포했다.\n실제 화웨이 웹사이트와 차이점을 찾기 어려울 정도로 정교하게 제작했다.\n연구진은 화웨이 자체가 이번 첩보전과 관계있는 것은 아니라고 덧붙였다.\n이용자가 피싱 사이트에 방문하면 악성 플래시 애플리케이션(앱)이 배포됐다.\n이른바 '코발트 스트라이크'라는 백도어가 이용자 기기에 배포됐다.\n레드델타는 이 백도어를 활용해 이용자 기기에 대한 가시성을 확보하고 민감 정보를 수집, 탈취했다.\n특히 레드델타는 5G 정보를 보유한 통신업계 조직을 대상으로 맞춤형 공격을 수행한 것으로 분석됐다.\n연구진은 레드델타가 구사한 전술·기술·절차(TTP)가 기존 중국 해킹조직과 유사하다고 판단, 이번 공격 배후를 중국 해킹조직으로 결론 내렸다.\n레드델타는 지난해 8월부터 활발한 움직임을 보였다.\n연구진은 레드델타로부터 공격을 받았다고 확인된 업체만 23곳일 뿐 얼마나 많은 업체가 실제 공격을 받았는지는 아직 밝혀지지 않았다고 강조했다.\n연구진 측은 “이번 공격에서 악성 도메인이 중요한 역할을 수행하는 만큼 피해 예방을 위해서는 피싱 사이트에 대한 경각심을 가져야 할 것”이라고 조언했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국 해킹조직이 5세대(5G) 이동통신 등 산업기밀을 탈취하기 위해 사이버공격을 확대한 것으로 나타났다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일(현지시간) 글로벌 보안업체 맥아피에 따르면 중국 정부가 배후로 지목되는 해킹조직은 5G 기술 정보 등을 확보하기 위해 최소 23개 통신업체를 공격한 것으로 확인됐다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들은 '레드델타' 또는 '무스탕판다'로 호명되는 첩보 전문 해킹조직으로 최근 5G 산업으로까지 공격 범위를 넓힌 것으로 조사됐다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "동남아, 유럽, 미국 소재 통신사가 공격 대상에 대거 포함됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "레드델타는 화웨이 웹사이트를 모방한 피싱 사이트를 만들고 멀웨어를 유포했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "실제 화웨이 웹사이트와 차이점을 찾기 어려울 정도로 정교하게 제작했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구진은 화웨이 자체가 이번 첩보전과 관계있는 것은 아니라고 덧붙였다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이용자가 피싱 사이트에 방문하면 악성 플래시 애플리케이션(앱)이 배포됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이른바 '코발트 스트라이크'라는 백도어가 이용자 기기에 배포됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "레드델타는 이 백도어를 활용해 이용자 기기에 대한 가시성을 확보하고 민감 정보를 수집, 탈취했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "특히 레드델타는 5G 정보를 보유한 통신업계 조직을 대상으로 맞춤형 공격을 수행한 것으로 분석됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "연구진은 레드델타가 구사한 전술·기술·절차(TTP)가 기존 중국 해킹조직과 유사하다고 판단, 이번 공격 배후를 중국 해킹조직으로 결론 내렸다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "레드델타는 지난해 8월부터 활발한 움직임을 보였다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "연구진은 레드델타로부터 공격을 받았다고 확인된 업체만 23곳일 뿐 얼마나 많은 업체가 실제 공격을 받았는지는 아직 밝혀지지 않았다고 강조했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "연구진 측은 “이번 공격에서 악성 도메인이 중요한 역할을 수행하는 만큼 피해 예방을 위해서는 피싱 사이트에 대한 경각심을 가져야 할 것”이라고 조언했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "中, 5G 산업기밀 해킹 확대…23개사 공격 받아",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

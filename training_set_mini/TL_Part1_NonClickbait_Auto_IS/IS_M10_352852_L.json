@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352852",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "카카오 계열사 CEO, 상장 후 2년간 주식 못판다",
+		"newsSubTitle": "null",
+		"newsContent": "카카오는 공동체 얼라인먼트센터(Corporate Alignment Center, CAC, 센터장 여민수)가 전 계열사 대상 임원 주식 매도 규정을 마련하고 이를 즉시 시행한다고 13일 밝혔다.\n규정에 따르면 앞으로 카카오 계열 회사의 임원은 상장 후 1년 간 주식을 매도할 수 없다.\n스톡옵션 행사를 통해 받은 주식에도 예외 없이 매도 제한을 적용한다.\n적용 시점은 증권신고서 제출일로부터 상장 후 1년까지다.\nCEO의 경우 매도 제한 기간을 2년으로 제한한다.\n임원들의 공동 주식 매도 행위도 금지된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오는 공동체 얼라인먼트센터(Corporate Alignment Center, CAC, 센터장 여민수)가 전 계열사 대상 임원 주식 매도 규정을 마련하고 이를 즉시 시행한다고 13일 밝혔다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "규정에 따르면 앞으로 카카오 계열 회사의 임원은 상장 후 1년 간 주식을 매도할 수 없다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스톡옵션 행사를 통해 받은 주식에도 예외 없이 매도 제한을 적용한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "적용 시점은 증권신고서 제출일로부터 상장 후 1년까지다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CEO의 경우 매도 제한 기간을 2년으로 제한한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "임원들의 공동 주식 매도 행위도 금지된다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카카오 계열사 CEO, 상장 후 2년간 주식 못판다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009494",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "끊김없이 위성방송 본다",
+		"newsSubTitle": "ETRI·KT스카이라이프 채널적응형 스케일러블 개발",
+		"newsContent": "한국전자통신연구원(ETRI)과 KT스카이라이프가 폭우·폭설·자연재해에도 끊김없이 위성방송을 시청할 수 있는 기술을 개발했다.\nETRI와 KT스카이라이프는 '채널 적응형 스케일러블(Scalable) 위성방송서비스' 기술 개발을 완료하고 Ka 대역(위성방송 및 통신에서 사용되는 20~30㎓대역 주파수) 위성인 천리안위성을 통해 서비스 시연을 성공적으로 마쳤다고 26일 밝혔다.\n또 ETRI는 국제표준화 기구인 ITU-R에 채널 적응형 스케일러블 위성방송서비스 기술을 Ka 대역 위성방송서비스를 위한 국제 표준기술로 제안해 채택됐다.\n기존의 위성방송 기술로 Ka 대역 위성인 천리안위성으로 위성방송서비스를 제공할 경우, 강우에 따라 연간 방송 중단시간이 약 13시간(가용도 99.85%) 정도에 이른다.\n하지만 이 기술을 적용하면 방송 중단시간이 약 4시간(가용도 99.95%) 정도로 대폭 감소되는 효과를 얻을 수 있다.\n이번 시연에 사용된 시제품은 HD·SD급의 스케일러블 비디오 인코딩 기술과 가변 변복조 기술을 연동해 수신기 스스로 강우 상태에 따라 최적의 수신방식을 결정하는 적응형 위성방송 핵심기술이 적용됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전자통신연구원(ETRI)과 KT스카이라이프가 폭우·폭설·자연재해에도 끊김없이 위성방송을 시청할 수 있는 기술을 개발했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ETRI와 KT스카이라이프는 '채널 적응형 스케일러블(Scalable) 위성방송서비스' 기술 개발을 완료하고 Ka 대역(위성방송 및 통신에서 사용되는 20~30㎓대역 주파수) 위성인 천리안위성을 통해 서비스 시연을 성공적으로 마쳤다고 26일 밝혔다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 ETRI는 국제표준화 기구인 ITU-R에 채널 적응형 스케일러블 위성방송서비스 기술을 Ka 대역 위성방송서비스를 위한 국제 표준기술로 제안해 채택됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존의 위성방송 기술로 Ka 대역 위성인 천리안위성으로 위성방송서비스를 제공할 경우, 강우에 따라 연간 방송 중단시간이 약 13시간(가용도 99.85%) 정도에 이른다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 이 기술을 적용하면 방송 중단시간이 약 4시간(가용도 99.95%) 정도로 대폭 감소되는 효과를 얻을 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 시연에 사용된 시제품은 HD·SD급의 스케일러블 비디오 인코딩 기술과 가변 변복조 기술을 연동해 수신기 스스로 강우 상태에 따라 최적의 수신방식을 결정하는 적응형 위성방송 핵심기술이 적용됐다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우리금융, 아주캐피탈 내년에 인수한다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

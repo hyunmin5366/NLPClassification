@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_035028",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'최순실 특종' JTBC, 어제 뉴스 8% 기록…MBC, SBS 제쳐",
+		"newsSubTitle": "",
+		"newsContent": "손석희 보도담당 사장이 맡고 있는 JTBC 메인뉴스 ‘뉴스룸’이 이른바 ‘최순실 비선 실세 의혹’ 특종 보도로 시청률 대박을 쳤다.\n닐슨코리아 시청률 분석자료에 따르면 25일 JTBC 뉴스룸은 유료방송 전국가구 기준 8.0%의 시청률을 보였다.\n이를 지상파 안테나 직수신 가구 등을 포함한 전체 전국 가구 기준으로 집계하더라도 JTBC는 사실상 고정 1위인 KBS1의 메인뉴스 ‘KBS 9시뉴스’에 이어 2위였다.\nKBS 9시 뉴스가 17.7%, JTBC 뉴스룸이 7.7%, MBC 뉴스데스크가 7.1%, SBS 8뉴스가 5.9%, MBN 뉴스8이 3.3%, TV조선 뉴스쇼판이 2.6%, 채널A 종합뉴스가 2.4%였다.\n25일 JTBC 뉴스룸은 최순실씨가 보고받은 자료 중 이명박 당시 대통령과 박근혜 당시 당선인 간의 국방 비밀을 일부 포함한 대화 주요 내용에 관한 자료 등이 포함됐다는 점을 단독보도해 시청자들의 공분을 일으킨바 있다.\n전날인 24일에도 최순실씨의 것으로 추정되는 태블릿PC의 내용을 입수해 단독 보도했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "손석희 보도담당 사장이 맡고 있는 JTBC 메인뉴스 ‘뉴스룸’이 이른바 ‘최순실 비선 실세 의혹’ 특종 보도로 시청률 대박을 쳤다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "닐슨코리아 시청률 분석자료에 따르면 25일 JTBC 뉴스룸은 유료방송 전국가구 기준 8.0%의 시청률을 보였다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이를 지상파 안테나 직수신 가구 등을 포함한 전체 전국 가구 기준으로 집계하더라도 JTBC는 사실상 고정 1위인 KBS1의 메인뉴스 ‘KBS 9시뉴스’에 이어 2위였다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KBS 9시 뉴스가 17.7%, JTBC 뉴스룸이 7.7%, MBC 뉴스데스크가 7.1%, SBS 8뉴스가 5.9%, MBN 뉴스8이 3.3%, TV조선 뉴스쇼판이 2.6%, 채널A 종합뉴스가 2.4%였다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "25일 JTBC 뉴스룸은 최순실씨가 보고받은 자료 중 이명박 당시 대통령과 박근혜 당시 당선인 간의 국방 비밀을 일부 포함한 대화 주요 내용에 관한 자료 등이 포함됐다는 점을 단독보도해 시청자들의 공분을 일으킨바 있다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전날인 24일에도 최순실씨의 것으로 추정되는 태블릿PC의 내용을 입수해 단독 보도했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[매거진M] ‘화이트 오스카’ 논란 일자 … 흑인들 대거 시상자로",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325456",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW·보안",
+		"newsTitle": "[국제]EU, MS의 깃허브 인수 승인",
+		"newsSubTitle": "",
+		"newsContent": "유럽연합(EU)이 마이크로소프트(MS)의 깃허브 인수를 조건없이 승인했다고 로이터통신이 21일(현지시간) 보도했다.\nEU 측은 \\\"MS와 깃허브는 합병 이후에도 다른 업체들과 계속 경쟁에 직면할 것으로 보인다\\\"며 \\\"경쟁 제한 우려가 없다고 최종 판단했다\\\"고 승인 이유를 밝혔다.\nMS는 지난 6월 세계 최대 오픈소스 코딩 사이트 깃허브를 인수할 계획이라고 발표했다.\n깃허브는 소셜네트워크형 코딩사이트다.\n이번 인수로 개발툴 분야에서 MS 영향력이 늘어날 것으로 전망된다.\n대부분 개발자가 깃허브를 사용한다.\n사용자수는 지난해 10월 기준 2400만명이며 조직 수는 1500만개다.\n1000명이 넘는 MS 개발자가 깃허브에서 코딩작업을 진행한다.\nMS 인수 후에도 깃허브는 독립성을 유지할 것이라고 밝혔다.\n나트프리드먼 깃허브 대표는 \\\"MS가 깃허브를 광고의 늪으로 만들지 않겠다고 약속했다\\\"고 밝혔다.\nMS도 깃허브에 광고를 게재해서 수익을 내지 않을 것이라고 강조했다.\nMS는 인수한 마인크래프트와 링크드인도 독립적으로 운영되고 있다고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유럽연합(EU)이 마이크로소프트(MS)의 깃허브 인수를 조건없이 승인했다고 로이터통신이 21일(현지시간) 보도했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "EU 측은 \\\"MS와 깃허브는 합병 이후에도 다른 업체들과 계속 경쟁에 직면할 것으로 보인다\\\"며 \\\"경쟁 제한 우려가 없다고 최종 판단했다\\\"고 승인 이유를 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "MS는 지난 6월 세계 최대 오픈소스 코딩 사이트 깃허브를 인수할 계획이라고 발표했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "깃허브는 소셜네트워크형 코딩사이트다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 인수로 개발툴 분야에서 MS 영향력이 늘어날 것으로 전망된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대부분 개발자가 깃허브를 사용한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사용자수는 지난해 10월 기준 2400만명이며 조직 수는 1500만개다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "1000명이 넘는 MS 개발자가 깃허브에서 코딩작업을 진행한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "MS 인수 후에도 깃허브는 독립성을 유지할 것이라고 밝혔다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "나트프리드먼 깃허브 대표는 \\\"MS가 깃허브를 광고의 늪으로 만들지 않겠다고 약속했다\\\"고 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "MS도 깃허브에 광고를 게재해서 수익을 내지 않을 것이라고 강조했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "MS는 인수한 마인크래프트와 링크드인도 독립적으로 운영되고 있다고 덧붙였다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]EU, MS의 깃허브 인수 승인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

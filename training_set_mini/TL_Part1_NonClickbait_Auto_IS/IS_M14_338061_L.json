@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338061",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "LS전선, 케이블 추천 앱 커넥트LS 국내 최초 개발",
+		"newsSubTitle": "",
+		"newsContent": "LS전선은 케이블 추천 애플리케이션(앱) '커넥트LS'를 국내 최초로 개발했다고 3일 밝혔다.\n커넥트LS는 사용자가 환경에 따라 가장 적합한 케이블을 간편하게 찾을 수 있는 앱이다.\n송전망을 비롯해 각종 건설, 산업현장용 케이블 종류는 수백 종에 이른다.\n커넥트LS는 케이블 수와 길이, 전압, 배열 방식, 매설 깊이, 주위 온도 등 각종 조건들을 선택하면 가장 적합한 케이블을 추천해 준다.\n기존에는 사용자가 케이블 사양서를 보면서 여러 조건들을 고려, 허용전류를 계산하는 복잡한 과정을 거쳐야 했다.\n하지만 이 앱만 있으면 몇 번의 터치만으로 맞춤 케이블을 찾을 수 있다.\n회사는 이 앱이 전문 엔지니어가 없는 소규모 건설현장 등에서 유용하게 쓰일 것으로 본다.\nLS전선은 향후 커넥트LS 앱에서 모아진 고객 정보들을 바탕으로 빅 데이터를 구축해 맞춤 서비스를 구현할 방침이다.\n또 온라인으로 케이블 구매까지 할 수 있는 기능을 준비하고 있다.\n명노현 LS전선 대표는 “LS그룹의 미래 준비 전략인 '디지털 전환'에 발맞춰 케이블 사업에 빅데이터와 사물인터넷(IoT), 인공지능(AI)을 접목할 계획”이라고 말했다.\n앱은 초고압(HV), 중저압(MV/LV), 버스덕트(Busduct) 등 3종으로 구글플레이와 앱스토어에서 내려받을 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LS전선은 케이블 추천 애플리케이션(앱) '커넥트LS'를 국내 최초로 개발했다고 3일 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "커넥트LS는 사용자가 환경에 따라 가장 적합한 케이블을 간편하게 찾을 수 있는 앱이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "송전망을 비롯해 각종 건설, 산업현장용 케이블 종류는 수백 종에 이른다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "커넥트LS는 케이블 수와 길이, 전압, 배열 방식, 매설 깊이, 주위 온도 등 각종 조건들을 선택하면 가장 적합한 케이블을 추천해 준다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기존에는 사용자가 케이블 사양서를 보면서 여러 조건들을 고려, 허용전류를 계산하는 복잡한 과정을 거쳐야 했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 이 앱만 있으면 몇 번의 터치만으로 맞춤 케이블을 찾을 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "회사는 이 앱이 전문 엔지니어가 없는 소규모 건설현장 등에서 유용하게 쓰일 것으로 본다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "LS전선은 향후 커넥트LS 앱에서 모아진 고객 정보들을 바탕으로 빅 데이터를 구축해 맞춤 서비스를 구현할 방침이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 온라인으로 케이블 구매까지 할 수 있는 기능을 준비하고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "명노현 LS전선 대표는 “LS그룹의 미래 준비 전략인 '디지털 전환'에 발맞춰 케이블 사업에 빅데이터와 사물인터넷(IoT), 인공지능(AI)을 접목할 계획”이라고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "앱은 초고압(HV), 중저압(MV/LV), 버스덕트(Busduct) 등 3종으로 구글플레이와 앱스토어에서 내려받을 수 있다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LS전선, 케이블 추천 앱 커넥트LS 국내 최초 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

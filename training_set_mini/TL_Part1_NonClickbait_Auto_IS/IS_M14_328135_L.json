@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328135",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "김효준 BMW코리아 회장, 10일 경찰 소환 \\\"결함 은폐 의혹 초점\\\"",
+		"newsSubTitle": "",
+		"newsContent": "김효준 BMW그룹코리아 회장이 BMW 차량 결함 은폐 의혹과 관련해 경찰 소환 조사를 받는다.\n서울지방경찰청 지능범죄수사대는 10일 오전 김 회장을 소환해 결함을 알고도 은폐했는지 여부를 집중 조사할 방침이다.\n경찰은 지난 8개월간 BMW 차량 결함 은폐 의혹에 대해 수사해왔다.\n지난달 16일에는 BMW그룹코리아 본사와 서버 보관장소 2곳에 수사관을 투입해 압수수색을 진행하기도 했다.\n지난해 8월 수사 착수 이후 세 번째 압수수색이었다.\n결함 은폐 의혹은 지난해 여름 BMW 차량에서 연달아 화재가 발생하면서 불거졌다.\n이에 BMW는 “2016년부터 화재 원인 규명을 위해 실험해왔으며, 최근에야 EGR(엔진 배기가스 재순환장치) 결함이라는 결론을 내려 리콜을 진행했다”고 주장해왔다.\n김 회장은 2000년 BMW그룹코리아 대표이사에 취임해 20여년간 회사를 이끌었다.\n올해 4월 1일부터는 BMW그룹코리아 대표이사직을 후임인 한상윤 사장에 물려주고, 회장직만 수행하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김효준 BMW그룹코리아 회장이 BMW 차량 결함 은폐 의혹과 관련해 경찰 소환 조사를 받는다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울지방경찰청 지능범죄수사대는 10일 오전 김 회장을 소환해 결함을 알고도 은폐했는지 여부를 집중 조사할 방침이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "경찰은 지난 8개월간 BMW 차량 결함 은폐 의혹에 대해 수사해왔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난달 16일에는 BMW그룹코리아 본사와 서버 보관장소 2곳에 수사관을 투입해 압수수색을 진행하기도 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 8월 수사 착수 이후 세 번째 압수수색이었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "결함 은폐 의혹은 지난해 여름 BMW 차량에서 연달아 화재가 발생하면서 불거졌다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 BMW는 “2016년부터 화재 원인 규명을 위해 실험해왔으며, 최근에야 EGR(엔진 배기가스 재순환장치) 결함이라는 결론을 내려 리콜을 진행했다”고 주장해왔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김 회장은 2000년 BMW그룹코리아 대표이사에 취임해 20여년간 회사를 이끌었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "올해 4월 1일부터는 BMW그룹코리아 대표이사직을 후임인 한상윤 사장에 물려주고, 회장직만 수행하고 있다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김효준 BMW코리아 회장, 10일 경찰 소환 \\\"결함 은폐 의혹 초점\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

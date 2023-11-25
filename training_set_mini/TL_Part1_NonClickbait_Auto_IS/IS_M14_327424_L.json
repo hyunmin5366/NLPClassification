@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327424",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "구리서 신생아 RSV 추가 확진 판정…2명 격리 치료",
+		"newsSubTitle": "",
+		"newsContent": "경기도 구리 시내 한 산후조리원에서 호흡기 세포 융합 바이러스(RSV)에 감염된 신생아가 추가로 확인됐다.\n3일 구리시보건소에 따르면 시내 한 산후조리원을 이용했던 신생아 1명이 이날 RSV 확진 판정을 받았다.\n전날에도 이 산후조리원에 있던 한 신생아가 콧물을 흘리고 열이 나는 등 의심 증상을 보여 정밀검사 후 RSV 판정을 받았다.\n신생아 2명은 현재 인근 종합병원에서 격리 치료를 받고 있다.\n보건당국은 해당 산후조리원에 입실해 있던 신생아들과 산모, 근무자들을 상대로 감염 여부를 조사했고, 희망자는 귀가시켰다.\n구리시 보건소 관계자는 \\\"해당 산후조리원 이용객 등을 대상으로 역학조사를 진행했지만 감염 경로 등은 명확하게 규명하지 못했다\\\"면서 \\\"RSV 잠복기가 2∼8일인 만큼 증상 발현 여부를 관찰 중\\\"이라고 말했다.\nRSV는 감염이 되면 성인의 경우 감기 같은 약한 증상만 보이나 면역이 약한 신생아나 노약자는 폐렴을 일으킬 수 있는 전염병이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "경기도 구리 시내 한 산후조리원에서 호흡기 세포 융합 바이러스(RSV)에 감염된 신생아가 추가로 확인됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 구리시보건소에 따르면 시내 한 산후조리원을 이용했던 신생아 1명이 이날 RSV 확진 판정을 받았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전날에도 이 산후조리원에 있던 한 신생아가 콧물을 흘리고 열이 나는 등 의심 증상을 보여 정밀검사 후 RSV 판정을 받았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신생아 2명은 현재 인근 종합병원에서 격리 치료를 받고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보건당국은 해당 산후조리원에 입실해 있던 신생아들과 산모, 근무자들을 상대로 감염 여부를 조사했고, 희망자는 귀가시켰다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구리시 보건소 관계자는 \\\"해당 산후조리원 이용객 등을 대상으로 역학조사를 진행했지만 감염 경로 등은 명확하게 규명하지 못했다\\\"면서 \\\"RSV 잠복기가 2∼8일인 만큼 증상 발현 여부를 관찰 중\\\"이라고 말했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "RSV는 감염이 되면 성인의 경우 감기 같은 약한 증상만 보이나 면역이 약한 신생아나 노약자는 폐렴을 일으킬 수 있는 전염병이다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "구리서 신생아 RSV 추가 확진 판정…2명 격리 치료",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

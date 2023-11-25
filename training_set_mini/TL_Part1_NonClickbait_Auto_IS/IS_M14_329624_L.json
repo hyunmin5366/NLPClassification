@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329624",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "a2z, 15인승 자율주행 셔틀 세종 BRT 운행 시작",
+		"newsSubTitle": "",
+		"newsContent": "오토노머스에이투지(이하 a2z)가 세종시 간선급행버스체계(BRT)에서 자율주행 셔틀 미니버스 기반 유상 운송 서비스를 시작했다.\na2z는 6월부터 세종시 '세종테크노밸리~고속시외버스터미널' 11㎞ 구간에서 자율주행 셔틀 서비스를 시작했다고 6일 밝혔다.\n자율주행 셔틀은 15인승 미니버스다.\n기존에 카카오모빌리티와 세종시 정부청사 인근 도로에서 제공했던 5인승 세단으로 제공했던 수요응답형 유상 자율주행 서비스보다 많은 사람을 운송할 수 있다.\na2z는 라이다 4대, 레이더 1개, 카메라 6개를 15인승 미니버스에 장착해 자율주행을 구현했다.\n운전자는 없지만 긴급상황에 대응할 안전요원이 동승한다.\n자율주행 셔틀 미니버스의 최고속도는 국토교통부로부터 80㎞/h로 인증을 받았다.\n다만 BRT 제한속도인 50㎞/h을 준수한다.\n이용방법은 버스와 유사하다.\n탑승 시 교통카드로 500원만 결제하면 된다.\n주간 운행은 월~금 주 5일 하루 4회씩, 야간운행은 수요일과 금요일에만 4회씩 이뤄진다.\na2z는 주·야간 악천후 환경에서도 운행해 주행 데이터를 수집할 예정이다.\n앞서 a2z는 세종시 6.4㎞ 일반도로에서 주·야간 악천후 주행과 회전교차로 주행 실증을 통해 안정성을 높여왔다.\nBRT 구간은 일반도로 대비 상대적으로 운행이 쉽지만, 세종시의 경우 터널 내 좌회전 또는 우회전 구간이 있어 자율주행 구현 난도가 높다.\na2z는 주행을 통해 수집한 자율주행 데이터를 세종시가 구축하는 세종시 자율주행 빅데이터 관제센터에 제공할 예정이다.\n세종 자율주행 규제자유특구 사업은 오는 8월 종료되지만 세종시는 2년 추가 연장을 중소벤처기업부와 협의하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오토노머스에이투지(이하 a2z)가 세종시 간선급행버스체계(BRT)에서 자율주행 셔틀 미니버스 기반 유상 운송 서비스를 시작했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "a2z는 6월부터 세종시 '세종테크노밸리~고속시외버스터미널' 11㎞ 구간에서 자율주행 셔틀 서비스를 시작했다고 6일 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자율주행 셔틀은 15인승 미니버스다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존에 카카오모빌리티와 세종시 정부청사 인근 도로에서 제공했던 5인승 세단으로 제공했던 수요응답형 유상 자율주행 서비스보다 많은 사람을 운송할 수 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "a2z는 라이다 4대, 레이더 1개, 카메라 6개를 15인승 미니버스에 장착해 자율주행을 구현했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "운전자는 없지만 긴급상황에 대응할 안전요원이 동승한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "자율주행 셔틀 미니버스의 최고속도는 국토교통부로부터 80㎞/h로 인증을 받았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다만 BRT 제한속도인 50㎞/h을 준수한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이용방법은 버스와 유사하다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "탑승 시 교통카드로 500원만 결제하면 된다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "주간 운행은 월~금 주 5일 하루 4회씩, 야간운행은 수요일과 금요일에만 4회씩 이뤄진다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "a2z는 주·야간 악천후 환경에서도 운행해 주행 데이터를 수집할 예정이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "앞서 a2z는 세종시 6.4㎞ 일반도로에서 주·야간 악천후 주행과 회전교차로 주행 실증을 통해 안정성을 높여왔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "BRT 구간은 일반도로 대비 상대적으로 운행이 쉽지만, 세종시의 경우 터널 내 좌회전 또는 우회전 구간이 있어 자율주행 구현 난도가 높다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "a2z는 주행을 통해 수집한 자율주행 데이터를 세종시가 구축하는 세종시 자율주행 빅데이터 관제센터에 제공할 예정이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "세종 자율주행 규제자유특구 사업은 오는 8월 종료되지만 세종시는 2년 추가 연장을 중소벤처기업부와 협의하고 있다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "a2z, 15인승 자율주행 셔틀 세종 BRT 운행 시작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

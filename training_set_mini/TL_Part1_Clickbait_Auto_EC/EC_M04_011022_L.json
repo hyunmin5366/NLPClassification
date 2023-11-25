@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011022",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "전기요금 14일부터 인상",
+		"newsSubTitle": "평균 4%… 가구당 월 930원 가중",
+		"newsContent": "전기요금이 오는 14일부터 평균 4.0% 인상된다.\n이에 따라 일반가구의 경우 월평균 930원, 산업체는 27만원이 추가로 늘어나 전기요금 부담이 가중될 전망이다.\n지식경제부는 평균 4.0% 인상안이 포함된 한국전력공사의 전기공급약관 변경안을 인가했다고 9일 밝혔다.\n이번 변경안에 따라 주택의 경우, 서민생활의 부담을 낮추기 위해 2.0% 가량 인상한다.\n산업용을 비롯한 일반용 저압요금 역시 중소기업 및 중소상인 보호차원에서 각각 3.5%, 2.7%씩 올린다.\n교육용과 농사용 역시 각각 3.5%, 3.0%로 평균 이하로 상향조정했다.\n반면, 산업용ㆍ일반용 고압요금은 각각 4.4%, 6.3%로 평균 이상 수준으로 인상한다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전기요금이 오는 14일부터 평균 4.0% 인상된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이에 따라 일반가구의 경우 월평균 930원, 산업체는 27만원이 추가로 늘어나 전기요금 부담이 가중될 전망이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지식경제부는 평균 4.0% 인상안이 포함된 한국전력공사의 전기공급약관 변경안을 인가했다고 9일 밝혔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 변경안에 따라 주택의 경우, 서민생활의 부담을 낮추기 위해 2.0% 가량 인상한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "산업용을 비롯한 일반용 저압요금 역시 중소기업 및 중소상인 보호차원에서 각각 3.5%, 2.7%씩 올린다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "교육용과 농사용 역시 각각 3.5%, 3.0%로 평균 이하로 상향조정했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "반면, 산업용ㆍ일반용 고압요금은 각각 4.4%, 6.3%로 평균 이상 수준으로 인상한다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "셀트리온, 글로벌 매출 1위 '휴미라' 유럽 판매 허가",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

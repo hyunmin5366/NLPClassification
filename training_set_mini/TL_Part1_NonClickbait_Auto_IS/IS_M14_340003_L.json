@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_340003",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "모니터랩, 미 샌프란시코 RSA2019 3년 연속 참가",
+		"newsSubTitle": "",
+		"newsContent": "애플리케이션 보안 전문기업 모니터랩(대표 이광후)이 미국 샌프란시스코에서 4일(현지시간)부터 8일까지 열리는 세계 최대 보안 전시회 'RSA 콘퍼런스 2019'에 참가했다.\n이 행사는 매년 세계 700여개 기업, 5만여명이 참가한다.\n모니터랩은 3년 연속 RSA에 참가하며 한국공동 전시관 부스에서 '아이온클라우드(Aion Cloud)' 서비스를 선보였다.\n아이온클라우드는 웹 공격 차단 서비스 클라우드WAF와 웹사이트 보안진단 서비스 사이트체커로 구성됐다.\n간편한 가입으로 웹서버 위치 및 네트워크 구성과 무관하게 서비스를 이용할 수 있다.\n웹 공격과 취약점 방어 및 비정상적 접근을 차단한다. 5GB 까지 무료로 이용할 수 있는 프로모션을 진행 중이다.\n모니터랩은 웹방화벽 AIWAF, 지능형 웹보안게이트웨이 AISWG, 고성능 SSL 가시성 솔루션 AISVA도 함께 출품했다.\n윤승원 모니터랩 상무는 “아이온클라우드는 출시 이후 지속적 해외 마케팅으로 미국, 유럽, 일본, 동남아에서 다수 고객을 확보했다”면서 “최근 일본 정보보안 컨설팅 업체 시큐어이노베이션과 파트너십을 맺는 등 공격적으로 해외시장을 개척 중”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플리케이션 보안 전문기업 모니터랩(대표 이광후)이 미국 샌프란시스코에서 4일(현지시간)부터 8일까지 열리는 세계 최대 보안 전시회 'RSA 콘퍼런스 2019'에 참가했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 행사는 매년 세계 700여개 기업, 5만여명이 참가한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "모니터랩은 3년 연속 RSA에 참가하며 한국공동 전시관 부스에서 '아이온클라우드(Aion Cloud)' 서비스를 선보였다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이온클라우드는 웹 공격 차단 서비스 클라우드WAF와 웹사이트 보안진단 서비스 사이트체커로 구성됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "간편한 가입으로 웹서버 위치 및 네트워크 구성과 무관하게 서비스를 이용할 수 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "웹 공격과 취약점 방어 및 비정상적 접근을 차단한다. 5GB 까지 무료로 이용할 수 있는 프로모션을 진행 중이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "모니터랩은 웹방화벽 AIWAF, 지능형 웹보안게이트웨이 AISWG, 고성능 SSL 가시성 솔루션 AISVA도 함께 출품했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "윤승원 모니터랩 상무는 “아이온클라우드는 출시 이후 지속적 해외 마케팅으로 미국, 유럽, 일본, 동남아에서 다수 고객을 확보했다”면서 “최근 일본 정보보안 컨설팅 업체 시큐어이노베이션과 파트너십을 맺는 등 공격적으로 해외시장을 개척 중”이라고 말했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모니터랩, 미 샌프란시코 RSA2019 3년 연속 참가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

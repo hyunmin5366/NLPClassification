@@ -1,0 +1,249 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330141",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "넥셀, AI 음성비서 칩 솔루션 공급 추진… 값 낮추고 성능 높여",
+		"newsSubTitle": "",
+		"newsContent": "팹리스 반도체 업체 넥셀이 인공지능(AI) 음성비서 시스템용 칩 솔루션 시장에 진출한다.\n해외 경쟁사 솔루션과 비교해 값은 절반가량으로 저렴하고 인식 성능은 높인 것이 특징이다.\n넥셀은 AI 음성비서 시스템용 칩 솔루션 '스마트보이스'를 개발 완료했다고 11일 밝혔다.\n기존 애플리케이션프로세서(AP) NXP4330 시리즈와 4개 마이크 입력을 지원하는 마이크로컨트롤러(MCU) NXC100를 묶어 솔루션으로 구성했다.\nNXP4330 AP에는 마이티웍스 음성 전처리 알고리즘을 내장했다.\n이 회사 알고리즘은 노이즈 캔슬링 등 다양한 음성 전처리 기술을 지원한다.\n기존 AI 음성비서 시장에서 입지를 확보하고 있는 반도체 업체는 미국 커넥선트다.\n커넥선트는 디지털신호처리(DSP) 기술 기반 시스템온칩(SoC)을 세계 각국 고객사에 공급 중이다.\n넥셀 제품은 커넥선트 제품과 비교해 값이 절반가량으로 저렴하다.\n마이크 입력 개수는 커넥선트 제품(2개)보다 두 배 많다.\n여러 마이크에서 음성을 입력받을수록 인식률이 높아진다.\n넥셀 관계자는 \\\"오는 3분기면 넥셀 스마트보이스 솔루션을 탑재한 AI 음성비서 시스템이 국내 시장에 출시될 것으로 예상된다\\\"면서 \\\"AI 음성비서 시스템은 향후 홈 사물인터넷(IoT)의 중심이 될 것으로 예상돼 회사가 기대하는 향후 매출액 수준도 높다\\\"고 설명했다.\nAI 음성비서 시스템은 아마존 음성인식 스피커 '에코'가 대표적이다.\n이 제품은 글로벌 누적 판매량 1000만대를 돌파했다.\n구글도 '구글홈'을 내놓았다.\nSK텔레콤은 누구, KT는 기가지니를 상용화했다.\n네이버도 조만간 이 시장에 뛰어들 전망이다.\n애플과 마이크로소프트, 삼성전자도 AI 음성비서 시장을 눈여겨보고 있다.\n넥셀은 2009년 설립된 팹리스 반도체 업체다.\nAP가 주력이다.\n이 회사 강태원 사장을 포함한 주요 인력은 삼성전자와 국내 팹리스 업계에 근무했던 베테랑들이다.\n그간 미국 리프포그에 에듀테인먼트 단말기용 AP를 공급해왔다.\n지난 2011년 산업통상자원부 '스타 팹리스 기술개발사업'에 참여하기도 했다.\n최근에는 유력 IoT 개발보드 공급사에 AP를 제공했다.\n작년 매출은 100억원 수준, 직원 수는 약 50명이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 25,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "팹리스 반도체 업체 넥셀이 인공지능(AI) 음성비서 시스템용 칩 솔루션 시장에 진출한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해외 경쟁사 솔루션과 비교해 값은 절반가량으로 저렴하고 인식 성능은 높인 것이 특징이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "넥셀은 AI 음성비서 시스템용 칩 솔루션 '스마트보이스'를 개발 완료했다고 11일 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 애플리케이션프로세서(AP) NXP4330 시리즈와 4개 마이크 입력을 지원하는 마이크로컨트롤러(MCU) NXC100를 묶어 솔루션으로 구성했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "NXP4330 AP에는 마이티웍스 음성 전처리 알고리즘을 내장했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 회사 알고리즘은 노이즈 캔슬링 등 다양한 음성 전처리 기술을 지원한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기존 AI 음성비서 시장에서 입지를 확보하고 있는 반도체 업체는 미국 커넥선트다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "커넥선트는 디지털신호처리(DSP) 기술 기반 시스템온칩(SoC)을 세계 각국 고객사에 공급 중이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "넥셀 제품은 커넥선트 제품과 비교해 값이 절반가량으로 저렴하다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "마이크 입력 개수는 커넥선트 제품(2개)보다 두 배 많다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "여러 마이크에서 음성을 입력받을수록 인식률이 높아진다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "넥셀 관계자는 \\\"오는 3분기면 넥셀 스마트보이스 솔루션을 탑재한 AI 음성비서 시스템이 국내 시장에 출시될 것으로 예상된다\\\"면서 \\\"AI 음성비서 시스템은 향후 홈 사물인터넷(IoT)의 중심이 될 것으로 예상돼 회사가 기대하는 향후 매출액 수준도 높다\\\"고 설명했다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "AI 음성비서 시스템은 아마존 음성인식 스피커 '에코'가 대표적이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이 제품은 글로벌 누적 판매량 1000만대를 돌파했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "구글도 '구글홈'을 내놓았다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "SK텔레콤은 누구, KT는 기가지니를 상용화했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "네이버도 조만간 이 시장에 뛰어들 전망이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "애플과 마이크로소프트, 삼성전자도 AI 음성비서 시장을 눈여겨보고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "넥셀은 2009년 설립된 팹리스 반도체 업체다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "AP가 주력이다.",
+				"sentenceSize": 9
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이 회사 강태원 사장을 포함한 주요 인력은 삼성전자와 국내 팹리스 업계에 근무했던 베테랑들이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "그간 미국 리프포그에 에듀테인먼트 단말기용 AP를 공급해왔다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "지난 2011년 산업통상자원부 '스타 팹리스 기술개발사업'에 참여하기도 했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "최근에는 유력 IoT 개발보드 공급사에 AP를 제공했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "작년 매출은 100억원 수준, 직원 수는 약 50명이다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "넥셀, AI 음성비서 칩 솔루션 공급 추진… 값 낮추고 성능 높여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

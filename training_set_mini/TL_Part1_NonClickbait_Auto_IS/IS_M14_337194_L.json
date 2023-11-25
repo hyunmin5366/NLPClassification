@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337194",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "지티원, '인공 지능 모형 기반의 어노테이션 데이터 검증 방법' 특허 획득",
+		"newsSubTitle": "",
+		"newsContent": "데이터 거버넌스 및 비정형 데이터 품질관리 분야 선도 기업 지티원(대표 이수용)은 '인공지능(AI) 모형 기반의 어노테이션(annotation) 데이터 검증 기술'에 관한 특허를 획득했다고 28일 밝혔다.\n일반적으로 비정형 데이터의 AI 학습을 위해서는 '이미지 수집→수집된 이미지에 대한 어노테이션 작업→어노테이션된 이미지를 이용하여 학습 진행' 단계를 거친다.\n어노테이션을 생성할 때 시간과 비용이 많이 든다.\n또 사용자에 의해 어노테이션된 데이터 품질을 사람이 재확인, 많은 검증 리소스가 소요된다.\n지티원이 특허 등록한 기술은 사람이 수행한 어노테이션 결과 값에 대해 품질 수준을 통계적으로 측정하고 수치화하는 방법을 제시한다.\n이를 통해 기존 방식에 비해 효율적인 어노테이션 데이터 품질 개선 작업을 수행할 수 있다.\n이 사장은 “특허 기술은 AI 모형을 이용해 각 원본 데이터에 어노테이션 오류를 얼마나 가지고 있을지를 예측, 전체적인 데이터 품질 개선 작업의 효율성 높인다”며 “특허 기술을 바탕으로 인공 지능 학습을 위한 데이터의 품질 측정·관리에 활용할 수 있는 'DQMiner for AI Data' 제품을 출시해 인공 지능 학습 관련 업무생산성을 높이는 데 기여할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "데이터 거버넌스 및 비정형 데이터 품질관리 분야 선도 기업 지티원(대표 이수용)은 '인공지능(AI) 모형 기반의 어노테이션(annotation) 데이터 검증 기술'에 관한 특허를 획득했다고 28일 밝혔다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "일반적으로 비정형 데이터의 AI 학습을 위해서는 '이미지 수집→수집된 이미지에 대한 어노테이션 작업→어노테이션된 이미지를 이용하여 학습 진행' 단계를 거친다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "어노테이션을 생성할 때 시간과 비용이 많이 든다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 사용자에 의해 어노테이션된 데이터 품질을 사람이 재확인, 많은 검증 리소스가 소요된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지티원이 특허 등록한 기술은 사람이 수행한 어노테이션 결과 값에 대해 품질 수준을 통계적으로 측정하고 수치화하는 방법을 제시한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 통해 기존 방식에 비해 효율적인 어노테이션 데이터 품질 개선 작업을 수행할 수 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 사장은 “특허 기술은 AI 모형을 이용해 각 원본 데이터에 어노테이션 오류를 얼마나 가지고 있을지를 예측, 전체적인 데이터 품질 개선 작업의 효율성 높인다”며 “특허 기술을 바탕으로 인공 지능 학습을 위한 데이터의 품질 측정·관리에 활용할 수 있는 'DQMiner for AI Data' 제품을 출시해 인공 지능 학습 관련 업무생산성을 높이는 데 기여할 것”이라고 말했다.",
+				"sentenceSize": 210
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지티원, '인공 지능 모형 기반의 어노테이션 데이터 검증 방법' 특허 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351257",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"가격정보 알려달라\\\"…해외서 온 업무메일에 개인정보 '탈탈'",
+		"newsSubTitle": "null",
+		"newsContent": "안랩은 무역 거래를 위장한 메일 속 첨부파일이 악성코드를 유포하는 사례를 발견했다고 24일 밝혔다.\n공격자는 인도네시아어로 '가격 정보를 부탁드립니다'(Mohon Info Harga) 라는 제목의 메일을 보내 '첨부된 상품 및 배송비 견적을 확인해달라'며 첨부파일 실행을 유도했다.\n첨부파일은 마이크로소프트 파워포인트 프로그램에서 실행 가능한 PPAM 파일로, 이를 열면 MS의 보안알림창이 뜬다.\n이용자가 무심코 '매크로 포함' 버튼을 누르면 파일에 포함된 악성 매크로가 작동해 악성코드가 포함된 웹사이트로 연결된다.\n이 웹페이이지에 접속만 해도 이용자 정보 유출, 추가 악성코드 다운로드 등의 악성 행위를 수행하는 악성코드가 다운로드된다는 게 안랩의 설명이다.\n현재 V3 제품군은 해당 악성코드를 진단하고 있다.\n안랩은 악성코드 피해 예방을 위해 △출처가 불분명한 메일의 첨부파일 실행 금지 △발신자가 신뢰할 수 있는 사람이더라도 메일주소 재확인 △출처 불분명한 문서 파일의 '콘텐츠 사용' 또는 '매크로 포함' 버튼 클릭 자제 △최신 버전 백신 사용 등을 당부했다.\n장서준 안랩 분석팀 주임연구원은 \\\"7월 말부터 업무 관련 메일에 파워포인트 형식의 파일을 첨부해 악성코드를 유포하는 사례가 지속 발견된다\\\"며 \\\"외국어로 된 업무 메일을 일상적으로 접하는 무역 분야 종사자는 발신자와 메일 주소를 재확인하는 등 주의가 필요하다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안랩은 무역 거래를 위장한 메일 속 첨부파일이 악성코드를 유포하는 사례를 발견했다고 24일 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공격자는 인도네시아어로 '가격 정보를 부탁드립니다'(Mohon Info Harga) 라는 제목의 메일을 보내 '첨부된 상품 및 배송비 견적을 확인해달라'며 첨부파일 실행을 유도했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "첨부파일은 마이크로소프트 파워포인트 프로그램에서 실행 가능한 PPAM 파일로, 이를 열면 MS의 보안알림창이 뜬다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이용자가 무심코 '매크로 포함' 버튼을 누르면 파일에 포함된 악성 매크로가 작동해 악성코드가 포함된 웹사이트로 연결된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 웹페이이지에 접속만 해도 이용자 정보 유출, 추가 악성코드 다운로드 등의 악성 행위를 수행하는 악성코드가 다운로드된다는 게 안랩의 설명이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 V3 제품군은 해당 악성코드를 진단하고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "안랩은 악성코드 피해 예방을 위해 △출처가 불분명한 메일의 첨부파일 실행 금지 △발신자가 신뢰할 수 있는 사람이더라도 메일주소 재확인 △출처 불분명한 문서 파일의 '콘텐츠 사용' 또는 '매크로 포함' 버튼 클릭 자제 △최신 버전 백신 사용 등을 당부했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "장서준 안랩 분석팀 주임연구원은 \\\"7월 말부터 업무 관련 메일에 파워포인트 형식의 파일을 첨부해 악성코드를 유포하는 사례가 지속 발견된다\\\"며 \\\"외국어로 된 업무 메일을 일상적으로 접하는 무역 분야 종사자는 발신자와 메일 주소를 재확인하는 등 주의가 필요하다\\\"고 말했다.",
+				"sentenceSize": 154
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"가격정보 알려달라\\\"…해외서 온 업무메일에 개인정보 '탈탈'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

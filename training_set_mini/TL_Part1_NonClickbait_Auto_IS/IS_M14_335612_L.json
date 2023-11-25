@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335612",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "한독 음성공장, 무재해 5배수 달성 인증 획득",
+		"newsSubTitle": "",
+		"newsContent": "한독(회장 김영진)은 음성공장이 한국산업안전공단으로부터 무재해 5배수 달성 인증을 획득했다고 19일 밝혔다.\n음성공장은 2010년 4월 무재해 운동을 시작해 7년 연속(작업 기간 2480일) 한건의 산업재해도 발생하지 않았다.\n2004년 안전보건경영시스템을 구축해 유해물질 감축, 설비 개선에 투자했다.\n매달 생산본부장과 노조위원장이 나서 노사합동 안전점검을 실시한다.\n위험성 평가, 안전제안 등으로 매년 200여 건 현장 안전 개선 활동을 펼친다.\n이번 무재해 5배수 달성을 기념해 무재해 서약서를 작성했다.\n안전수칙을 알아보는 안전벨트 퀴즈대회와 사진 공모전을 진행했다.\n한독 음성공장은 내용 고형제, 외용액제, 플라스타 등을 생산하는 설비를 갖춘다.\n작년 연간 3억9000만매를 생산하는 플라스타 전용공장을 신축했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한독(회장 김영진)은 음성공장이 한국산업안전공단으로부터 무재해 5배수 달성 인증을 획득했다고 19일 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "음성공장은 2010년 4월 무재해 운동을 시작해 7년 연속(작업 기간 2480일) 한건의 산업재해도 발생하지 않았다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2004년 안전보건경영시스템을 구축해 유해물질 감축, 설비 개선에 투자했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "매달 생산본부장과 노조위원장이 나서 노사합동 안전점검을 실시한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "위험성 평가, 안전제안 등으로 매년 200여 건 현장 안전 개선 활동을 펼친다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 무재해 5배수 달성을 기념해 무재해 서약서를 작성했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "안전수칙을 알아보는 안전벨트 퀴즈대회와 사진 공모전을 진행했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한독 음성공장은 내용 고형제, 외용액제, 플라스타 등을 생산하는 설비를 갖춘다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "작년 연간 3억9000만매를 생산하는 플라스타 전용공장을 신축했다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한독 음성공장, 무재해 5배수 달성 인증 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

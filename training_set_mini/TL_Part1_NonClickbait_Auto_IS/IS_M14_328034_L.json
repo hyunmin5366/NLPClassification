@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328034",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[2021 핫이슈-해외]6G 경쟁 본격화",
+		"newsSubTitle": "",
+		"newsContent": "미국, 중국, 유럽연합(EU), 일본 등 주요국이 2030년 6세대(6G) 이동통신 상용화를 목표로 본격 경쟁을 시작한다.\n미국은 민간기업 중심 '넥스트G 얼라이언스'가 출범했다.\n버라이즌·AT&T·T모바일 등 주요 이통사를 포함해 퀄컴, 인터디지털, 마이크로소프트(MS), 페이스북, 삼성전자 등을 중심으로 6G 기술 표준화와 생태계 확산을 위해 협력한다.\nEU는 민간이 중심이 된 6G 연구개발(R&D) 그룹 '헥사-X'가 출범했다.\n노키아와 에릭슨, 오렌지, 텔레포니카, 인텔, 지멘스, CEA, 핀란드 오룰루대학, 이탈리아 피사 대학 등으로 멤버를 구성해 6G 표준기술을 선점한다는 목표다.\n중국은 위성, 광통신 등 국책 과제에 약 4600억원을 투입하고 있으며 세계 최초 6G 인공위성 '톈옌-5호' 위성을 발사하며 기술력을 과시했다.\n일본은 총무성이 1월 '6G 연구회'를 발족한 데 이어 비욘드5G(6G)에 대한 의견을 수렴하며 비전을 확립하고 있다.\n과학기술정보통신부는 '6G 시대를 선도하기 위한 미래이동통신 R&D 추진전략'을 수립, 추진 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국, 중국, 유럽연합(EU), 일본 등 주요국이 2030년 6세대(6G) 이동통신 상용화를 목표로 본격 경쟁을 시작한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국은 민간기업 중심 '넥스트G 얼라이언스'가 출범했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "버라이즌·AT&T·T모바일 등 주요 이통사를 포함해 퀄컴, 인터디지털, 마이크로소프트(MS), 페이스북, 삼성전자 등을 중심으로 6G 기술 표준화와 생태계 확산을 위해 협력한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "EU는 민간이 중심이 된 6G 연구개발(R&D) 그룹 '헥사-X'가 출범했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "노키아와 에릭슨, 오렌지, 텔레포니카, 인텔, 지멘스, CEA, 핀란드 오룰루대학, 이탈리아 피사 대학 등으로 멤버를 구성해 6G 표준기술을 선점한다는 목표다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중국은 위성, 광통신 등 국책 과제에 약 4600억원을 투입하고 있으며 세계 최초 6G 인공위성 '톈옌-5호' 위성을 발사하며 기술력을 과시했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일본은 총무성이 1월 '6G 연구회'를 발족한 데 이어 비욘드5G(6G)에 대한 의견을 수렴하며 비전을 확립하고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "과학기술정보통신부는 '6G 시대를 선도하기 위한 미래이동통신 R&D 추진전략'을 수립, 추진 중이다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2021 핫이슈-해외]6G 경쟁 본격화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329634",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "원하는 장면 'AI'가 자동 찾아준다…네이버, '장면 탐색' 검색 가능",
+		"newsSubTitle": "",
+		"newsContent": "네이버가 사용자가 원하는 장면으로 쉽고 빠르게 이동할 수 있는 '장면 탐색' 기능을 내놓았다.\n검색어와 가장 관련성 높은 주요 장면을 인공지능(AI)이 자동으로 식별, 사용자는 빠르게 보고 싶은 주요 장면만 확인하거나 특정 구간을 반복 시청할 수 있게 됐다.\n네이버가 새롭게 출시한 '장면 탐색' 기능에는 동영상과 관련된 △이미지 분석 △사물 인식 △광학문자판독(OCR) 등 네이버의 AI 관련기술이 집약됐다.\n장면 탐색 기술은 특정 동영상 내 비슷한 이미지를 인식해 묶음으로 분류하고 각 구간이 어떤 주제인지를 판단하는 과정을 거친다.\n네이버가 자체 개발한 사물 인식 및 이미지 분류 기술은 동영상 속 등장하는 인물, 배경, 사물 등 동영상 내부 정보와 동일한 주제의 다른 동영상과 같은 외부 정보를 모두 활용해, 두개의 서로 다른 이미지나 동영상의 관계를 딥러닝 모델을 기반으로 판단한다.\n예를 들어 스포츠 경기 영상에 등장하는 선수의 얼굴이나 선수가 착용한 의상, 배경과 사물 등 동영상 속 데이터와 동일한 스포츠 경기에서 발생한 동영상들을 종합적으로 비교분석해 주요 장면을 식별한다.\n게다가 네이버 스포츠 내 경기 기록 데이터와 동영상 속 스코어보드를 비교해 주요 장면의 신뢰도를 한 번 더 점검한다.\n네이버는 우선 장면 탐색 기능을 사용자 검색 요구가 높은 스포츠와 날씨 분야에 먼저 적용했다.\n스포츠 경기의 하이라이트 장면을 찾는 검색 사용자에게 유용할 것으로 예상된다.\n네이버는 향후 고도화된 음성 인식 기술을 적용해 단계별 진행되는 레슨, 여러 가수가 함께 등장하는 무대 영상 등 다양한 분야로도 확대 적용할 계획이다.\n윤주호 네이버서치CIC 리더는 “다양한 분야의 동영상 콘텐츠를 찾는 사용자들이 자신이 원하는 장면을 빠르고 정확하게 찾을 수 있도록, AI를 활용한 멀티미디어 분석 기술을 고도화하기 위해 지속적으로 연구 개발을 이어갈 것”이라고 말했다.\n한편, 구글은 동영상 콘텐츠를 소비하는 시청자들이 필요한 정보를 빠르게 확인할 수 있도록 동영상 내 주요 장면을 자동으로 표시해주는 '키 모먼트' 기능을 지난 2020년 출시했다.\n나아가 구글은 딥마인드의 멀티모달 기술을 적용해 해당 기능이 적용된 동영상을 올해 800만개에서 내년 8000만개까지 10배 늘릴 계획이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 사용자가 원하는 장면으로 쉽고 빠르게 이동할 수 있는 '장면 탐색' 기능을 내놓았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "검색어와 가장 관련성 높은 주요 장면을 인공지능(AI)이 자동으로 식별, 사용자는 빠르게 보고 싶은 주요 장면만 확인하거나 특정 구간을 반복 시청할 수 있게 됐다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버가 새롭게 출시한 '장면 탐색' 기능에는 동영상과 관련된 △이미지 분석 △사물 인식 △광학문자판독(OCR) 등 네이버의 AI 관련기술이 집약됐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "장면 탐색 기술은 특정 동영상 내 비슷한 이미지를 인식해 묶음으로 분류하고 각 구간이 어떤 주제인지를 판단하는 과정을 거친다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버가 자체 개발한 사물 인식 및 이미지 분류 기술은 동영상 속 등장하는 인물, 배경, 사물 등 동영상 내부 정보와 동일한 주제의 다른 동영상과 같은 외부 정보를 모두 활용해, 두개의 서로 다른 이미지나 동영상의 관계를 딥러닝 모델을 기반으로 판단한다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예를 들어 스포츠 경기 영상에 등장하는 선수의 얼굴이나 선수가 착용한 의상, 배경과 사물 등 동영상 속 데이터와 동일한 스포츠 경기에서 발생한 동영상들을 종합적으로 비교분석해 주요 장면을 식별한다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "게다가 네이버 스포츠 내 경기 기록 데이터와 동영상 속 스코어보드를 비교해 주요 장면의 신뢰도를 한 번 더 점검한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "네이버는 우선 장면 탐색 기능을 사용자 검색 요구가 높은 스포츠와 날씨 분야에 먼저 적용했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "스포츠 경기의 하이라이트 장면을 찾는 검색 사용자에게 유용할 것으로 예상된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "네이버는 향후 고도화된 음성 인식 기술을 적용해 단계별 진행되는 레슨, 여러 가수가 함께 등장하는 무대 영상 등 다양한 분야로도 확대 적용할 계획이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "윤주호 네이버서치CIC 리더는 “다양한 분야의 동영상 콘텐츠를 찾는 사용자들이 자신이 원하는 장면을 빠르고 정확하게 찾을 수 있도록, AI를 활용한 멀티미디어 분석 기술을 고도화하기 위해 지속적으로 연구 개발을 이어갈 것”이라고 말했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "한편, 구글은 동영상 콘텐츠를 소비하는 시청자들이 필요한 정보를 빠르게 확인할 수 있도록 동영상 내 주요 장면을 자동으로 표시해주는 '키 모먼트' 기능을 지난 2020년 출시했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "나아가 구글은 딥마인드의 멀티모달 기술을 적용해 해당 기능이 적용된 동영상을 올해 800만개에서 내년 8000만개까지 10배 늘릴 계획이라고 밝혔다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "원하는 장면 'AI'가 자동 찾아준다…네이버, '장면 탐색' 검색 가능",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

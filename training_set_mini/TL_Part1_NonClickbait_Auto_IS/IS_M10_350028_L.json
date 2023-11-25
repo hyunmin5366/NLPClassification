@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350028",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "SK㈜C&C, 스마트 팩토리 데이터 처리 엔진 출시",
+		"newsSubTitle": "null",
+		"newsContent": "SK㈜C&C가 제조업 특화 데이터 처리 엔진 '아이팩토리 디플로(I-FACTs DiFlow)'를 출시한다고 20일 밝혔다.\n아이팩토리 디플로는 '데이터 상호 흐름'(Data Interactive Flow)의 약자로, 스마트 팩토리 구축·확장 시 추가되는 각종 애플리케이션·장비·센서·웹사이트에서 취합한 데이터를 실시간 활용·관리한다.\n디플로는 제조 현장의 데이터를 스마트 팩토리 플랫폼에서 사용할 수 있도록 다양한 데이터를 수집하고 제조 표준 메타 데이터로 정제·변환한다.\n디플로의 강점은 모든 종류의 데이터를 끊김없이 처리·전달한다는 점이다.\n데이터 전달 정체 구간을 실시간으로 찾아내 개선점을 도출하고, 장애 발생 시 데이터를 자동으로 재전송하는 기능도 갖췄다.\n대시보드를 통해 개발자와 서비스 운영자 모두 실시간 데이터 수집·전달 상황을 한 눈에 확인할 수 있다.\n조재관 SK㈜C&C 제조 솔루션 디지털그룹장은 \\\"제조 스마트 팩토리 구축의 핵심은 기존 내부 시스템과 현장의 모든 데이터를 언제든 유기적으로 수집 활용할 수 있어야 하는 것\\\"이라며 \\\"아이팩토리 디플로는 별도의 시스템을 구축하지 않아도 언제든 제조 데이터 수집·처리 범위를 확장할 수 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK㈜C&C가 제조업 특화 데이터 처리 엔진 '아이팩토리 디플로(I-FACTs DiFlow)'를 출시한다고 20일 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이팩토리 디플로는 '데이터 상호 흐름'(Data Interactive Flow)의 약자로, 스마트 팩토리 구축·확장 시 추가되는 각종 애플리케이션·장비·센서·웹사이트에서 취합한 데이터를 실시간 활용·관리한다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "디플로는 제조 현장의 데이터를 스마트 팩토리 플랫폼에서 사용할 수 있도록 다양한 데이터를 수집하고 제조 표준 메타 데이터로 정제·변환한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "디플로의 강점은 모든 종류의 데이터를 끊김없이 처리·전달한다는 점이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "데이터 전달 정체 구간을 실시간으로 찾아내 개선점을 도출하고, 장애 발생 시 데이터를 자동으로 재전송하는 기능도 갖췄다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대시보드를 통해 개발자와 서비스 운영자 모두 실시간 데이터 수집·전달 상황을 한 눈에 확인할 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조재관 SK㈜C&C 제조 솔루션 디지털그룹장은 \\\"제조 스마트 팩토리 구축의 핵심은 기존 내부 시스템과 현장의 모든 데이터를 언제든 유기적으로 수집 활용할 수 있어야 하는 것\\\"이라며 \\\"아이팩토리 디플로는 별도의 시스템을 구축하지 않아도 언제든 제조 데이터 수집·처리 범위를 확장할 수 있다\\\"고 말했다.",
+				"sentenceSize": 171
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK㈜C&C, 스마트 팩토리 데이터 처리 엔진 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

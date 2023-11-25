@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002389",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "포스코, 전남 광양 제철소 폭발 화재...3명 사망",
+		"newsSubTitle": "",
+		"newsContent": "24일 포스코 광양제철소에서 굉음과 함께 화재가 발생해 작업노동자 3명이 숨졌다.\n이날 화재는 오후 4시 5분께 전남 광양시 금호동 포스코 광양제철소에서 발생했다.\n이 폭발로 각각 50대와 30대인 작업자 2명과 실종된 1명 등 모두 3명이 사망한 것으로 확인됐다.\n광양제철소 측에 따르면 1고로 인근 산소 배관 누출에 의한 화재로 추정되는 사고가 발생했으며 제철소 자체 소방대가 투입돼 오후 4시24분 화재 진압을 완료한 것으로 알려졌다.\n전라남도 소방본부는 미디어SR에 \\\"현재 상황 파악 중\\\"이라면서 \\\"정확한 화재 원인과 사태 파악은 현장 대응이 끝난 뒤에 알 수 있다\\\"고 말했다.\n소방당국과 광양제철소는 1고로 부대설비에서 산소 밸브를 열고 작업하려다가 사고가 난 것으로 보고 정확한 인명 피해와 사고 원인을 조사하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "24일 포스코 광양제철소에서 굉음과 함께 화재가 발생해 작업노동자 3명이 숨졌다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 화재는 오후 4시 5분께 전남 광양시 금호동 포스코 광양제철소에서 발생했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 폭발로 각각 50대와 30대인 작업자 2명과 실종된 1명 등 모두 3명이 사망한 것으로 확인됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "광양제철소 측에 따르면 1고로 인근 산소 배관 누출에 의한 화재로 추정되는 사고가 발생했으며 제철소 자체 소방대가 투입돼 오후 4시24분 화재 진압을 완료한 것으로 알려졌다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전라남도 소방본부는 미디어SR에 \\\"현재 상황 파악 중\\\"이라면서 \\\"정확한 화재 원인과 사태 파악은 현장 대응이 끝난 뒤에 알 수 있다\\\"고 말했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소방당국과 광양제철소는 1고로 부대설비에서 산소 밸브를 열고 작업하려다가 사고가 난 것으로 보고 정확한 인명 피해와 사고 원인을 조사하고 있다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "화학연, 고효율 페로브스카이트 태양전지 개발",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

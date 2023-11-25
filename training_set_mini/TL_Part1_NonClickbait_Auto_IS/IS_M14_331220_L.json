@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331220",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[이슈분석]혁신인가 범죄인가, 다크웹 실태...대부분 비트코인 악용",
+		"newsSubTitle": "",
+		"newsContent": "프라이버시코인이 이처럼 수난을 겪는 이유는 다크웹 때문이다.\n범죄 온상으로 다크웹이 부상하면서 익명성을 보장하는 코인이 악용될 소지가 있다는 우려가 확산되고 있기 때문이다.\n하지만 실제 다크웹에서 사용되는 95% 이상 암호화폐는 비트코인이다.\n다크웹에서는 마약, 무기, 랜섬웨어 등 다양한 범죄수단이 암호화폐로 거래된다.\n비트코인을 중심으로 대부분 거래가 이뤄진다.\n익명 코인인 모네로 등이 가끔 거론되지만 악용 사례는 아직 밝혀진 바 없다.\n암호화폐로 거래가 이뤄진 마약, 청부살인 등은 수없이 많다.\n올해 5월 국내서 다크웹을 통해 해외로부터 마약류를 밀수한 혐의를 받은 범죄자가 징역 3년과 집행유예 5년을 선고 받았다.\n범죄자는 지난해 12월부터 2월까지 다크웹에서 비트코인으로 해외 마약업자로부터 대마 등을 구입, 11회에 걸쳐 국내로 마약을 밀수한 혐의로 기소됐다.\n또 해외에서 다크웹 주요 포털로 알려진 '딥닷웹' 운영자가 체포됐다.\n딥닷웹은 직접 다크웹 장터에 접근하지 못하는 사람을 위해 검색만으로도 불법 무기, 마약, 탈취정보 등 거래 창구 역할을 했다.\n거래는 모두 비트코인으로 이뤄졌다.\n이들은 비트코인을 현금화하기 위한 가짜회사를 만들기도 했다.\n2017년 세계를 강타한 워너크라이 랜섬웨어는 사고 발생 전 다크웹에서 거래가 먼저 시작됐다.\n뿐만 아니라 현재 소디노키비, 사탄, 크라켄 랜섬웨어 등도 '서비스형랜섬웨어(RaaS)'로 불리며 다크웹에서 암호화폐를 통해 거래된다.\n랜섬웨어 공격자는 랜섬웨어 구입뿐만 아니라 공격 후 피해자에게 암호화 파일을 풀어주는 대가로 비트코인을 요구한다.\n다크웹은 암호화폐 이전부터 존재했지만 대부분 달러, 유로화 등 일반 화폐로 거래됐다.\n범죄자는 대포통장 등을 이용했지만 계좌추적 등 위협도 함께 있었다.\n신승원 KAIST 교수는 “비트코인 열풍 이후 암호화폐는 다크웹의 새로운 전성기를 가져오는 데 결정적 역할을 했다”면서 “암호화폐가 익명성을 담보하고 있을 뿐만 아니라 최근에는 암호화폐 자금세탁 사이트와 함께 움직이면서 자금 출처를 확인하는 등 범죄 수사에 상당한 어려움을 겪는다”고 덧붙였다.\n암호화폐가 범죄 수단으로 악용되는 것은 맞지만 프라이버시 코인을 여기에 직접 결부시키는 건 무리가 있다는 의견이 많다.\n한 거래소 관계자는 “국제 테러범이 이용하는 다크웹 실상을 보면 프라이버시 코인을 요구하는 것은 사실상 거의 없다”면서 “익명성이 강하다는 것만으로 범죄의 온상과 결부 짓는 것은 매우 위험하며, 이들 프라이버시코인이 갖는 혁신성도 검증할 필요가 있다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "프라이버시코인이 이처럼 수난을 겪는 이유는 다크웹 때문이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "범죄 온상으로 다크웹이 부상하면서 익명성을 보장하는 코인이 악용될 소지가 있다는 우려가 확산되고 있기 때문이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하지만 실제 다크웹에서 사용되는 95% 이상 암호화폐는 비트코인이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다크웹에서는 마약, 무기, 랜섬웨어 등 다양한 범죄수단이 암호화폐로 거래된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비트코인을 중심으로 대부분 거래가 이뤄진다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "익명 코인인 모네로 등이 가끔 거론되지만 악용 사례는 아직 밝혀진 바 없다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "암호화폐로 거래가 이뤄진 마약, 청부살인 등은 수없이 많다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "올해 5월 국내서 다크웹을 통해 해외로부터 마약류를 밀수한 혐의를 받은 범죄자가 징역 3년과 집행유예 5년을 선고 받았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "범죄자는 지난해 12월부터 2월까지 다크웹에서 비트코인으로 해외 마약업자로부터 대마 등을 구입, 11회에 걸쳐 국내로 마약을 밀수한 혐의로 기소됐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또 해외에서 다크웹 주요 포털로 알려진 '딥닷웹' 운영자가 체포됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "딥닷웹은 직접 다크웹 장터에 접근하지 못하는 사람을 위해 검색만으로도 불법 무기, 마약, 탈취정보 등 거래 창구 역할을 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "거래는 모두 비트코인으로 이뤄졌다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이들은 비트코인을 현금화하기 위한 가짜회사를 만들기도 했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "2017년 세계를 강타한 워너크라이 랜섬웨어는 사고 발생 전 다크웹에서 거래가 먼저 시작됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "뿐만 아니라 현재 소디노키비, 사탄, 크라켄 랜섬웨어 등도 '서비스형랜섬웨어(RaaS)'로 불리며 다크웹에서 암호화폐를 통해 거래된다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "랜섬웨어 공격자는 랜섬웨어 구입뿐만 아니라 공격 후 피해자에게 암호화 파일을 풀어주는 대가로 비트코인을 요구한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "다크웹은 암호화폐 이전부터 존재했지만 대부분 달러, 유로화 등 일반 화폐로 거래됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "범죄자는 대포통장 등을 이용했지만 계좌추적 등 위협도 함께 있었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "신승원 KAIST 교수는 “비트코인 열풍 이후 암호화폐는 다크웹의 새로운 전성기를 가져오는 데 결정적 역할을 했다”면서 “암호화폐가 익명성을 담보하고 있을 뿐만 아니라 최근에는 암호화폐 자금세탁 사이트와 함께 움직이면서 자금 출처를 확인하는 등 범죄 수사에 상당한 어려움을 겪는다”고 덧붙였다.",
+				"sentenceSize": 164
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "암호화폐가 범죄 수단으로 악용되는 것은 맞지만 프라이버시 코인을 여기에 직접 결부시키는 건 무리가 있다는 의견이 많다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "한 거래소 관계자는 “국제 테러범이 이용하는 다크웹 실상을 보면 프라이버시 코인을 요구하는 것은 사실상 거의 없다”면서 “익명성이 강하다는 것만으로 범죄의 온상과 결부 짓는 것은 매우 위험하며, 이들 프라이버시코인이 갖는 혁신성도 검증할 필요가 있다”고 덧붙였다.",
+				"sentenceSize": 147
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]혁신인가 범죄인가, 다크웹 실태...대부분 비트코인 악용",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010463",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "대전충남 어음부도율 하락",
+		"newsSubTitle": "0.33% 전월비 0.04%p↓",
+		"newsContent": "지난달 대전ㆍ충남지역 기업의 어음부도율이 전월 대비 하락세를 나타냈다.\n21일 한국은행 대전충남지역본부에 따르면 7월중 대전ㆍ충남지역의 어음부도율(전자결제조정전)은 0.33%로 전월(0.37%)보다 0.04%포인트 감소했다.\n지난달 대전ㆍ충남지역의 부도금액은 91억5000만원으로 전월(87억9000만원)보다 3억6000만원이 늘었다.\n업종별로는 제조업이 17억4000만원(39억4000만원→22억원) 감소했으며, 건설업은 21억8000만원(23억6000만원→45억4000만원) 증가했다.\n서비스업은 6억6000만원(23억9000만원→17억3000만원) 감소했다.\n대전ㆍ충남지역의 부도업체수(당좌거래정지업체수)는 6개로 전월(7개)보다 1개 줄었다.\n업종별로는 제조업이 3개(4개→1개) 감소했으며 서비스업은 1개(1개→2개) 증가했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 대전ㆍ충남지역 기업의 어음부도율이 전월 대비 하락세를 나타냈다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 한국은행 대전충남지역본부에 따르면 7월중 대전ㆍ충남지역의 어음부도율(전자결제조정전)은 0.33%로 전월(0.37%)보다 0.04%포인트 감소했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난달 대전ㆍ충남지역의 부도금액은 91억5000만원으로 전월(87억9000만원)보다 3억6000만원이 늘었다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "업종별로는 제조업이 17억4000만원(39억4000만원→22억원) 감소했으며, 건설업은 21억8000만원(23억6000만원→45억4000만원) 증가했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서비스업은 6억6000만원(23억9000만원→17억3000만원) 감소했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대전ㆍ충남지역의 부도업체수(당좌거래정지업체수)는 6개로 전월(7개)보다 1개 줄었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "업종별로는 제조업이 3개(4개→1개) 감소했으며 서비스업은 1개(1개→2개) 증가했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "동시통역 앱 ‘지니톡’ 평창올림픽서 8개국어 통역",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

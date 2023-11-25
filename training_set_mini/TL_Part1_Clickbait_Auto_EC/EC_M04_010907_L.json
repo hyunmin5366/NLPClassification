@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010907",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "국토청, “눈오면 자전거 안돼요”",
+		"newsSubTitle": "금강변 통행제한",
+		"newsContent": "겨울철을 맞아 눈이 내리면 금강과 한강 자전거길 통행이 제한된다.\n대전지방국토관리청(청장 박광열)은 최근 지자체, 수자원공사 등과 가진 '4대강 친수공간 제설대책 회의' 결과를 토대로 겨울철 눈이 올 경우 자전거길 통행을 부분적으로 제한한다고 9일 밝혔다.\n통행제한은 자전거길 이용자들의 안전사고 예방을 위한 조치로 제설작업 후 결빙상태 등을 고려해 통행여부를 결정한다.\n주요 자전거길 구간에는 차단시설 및 경고판, 현수막이 설치된다.\n친수공간 제설작업은 자전거 종주노선, 수변공원, 금강문화관, 보 공도교 등 이용객이 많은 구간부터 우선적으로 실시된다.\n안전사고 위험성이 높은 경사로, 상시결빙구간 등에는 친환경 제설재를 제한적으로 사용할 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "겨울철을 맞아 눈이 내리면 금강과 한강 자전거길 통행이 제한된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대전지방국토관리청(청장 박광열)은 최근 지자체, 수자원공사 등과 가진 '4대강 친수공간 제설대책 회의' 결과를 토대로 겨울철 눈이 올 경우 자전거길 통행을 부분적으로 제한한다고 9일 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "통행제한은 자전거길 이용자들의 안전사고 예방을 위한 조치로 제설작업 후 결빙상태 등을 고려해 통행여부를 결정한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주요 자전거길 구간에는 차단시설 및 경고판, 현수막이 설치된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "친수공간 제설작업은 자전거 종주노선, 수변공원, 금강문화관, 보 공도교 등 이용객이 많은 구간부터 우선적으로 실시된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안전사고 위험성이 높은 경사로, 상시결빙구간 등에는 친환경 제설재를 제한적으로 사용할 계획이다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[유난한 식탁: 저는 채식주의자입니다] \\\"음식이 지구를 만든다\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

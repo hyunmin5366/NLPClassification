@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327586",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]애플, 美 인종차별 시위 격화로 애플스토어 다시 폐쇄",
+		"newsSubTitle": "",
+		"newsContent": "코로나19 확산으로 한동안 문을 닫았다가 재개장한 미국 애플스토어가 미국 내 인종차별 시위 격화로 다시 폐쇄했다.\n애플은 31일(현지시간) 성명을 통해 “우리 팀의 건강과 안전을 고려해 미국 매장 다수를 폐쇄하기로 결정했다”고 밝혔다.\n앞서 애플은 3월 코로나19 사태로 미국 애플스토어를 폐쇄한 후, 지난 달부터 단계적으로 애플스토어를 재개장했다.\n지난 달 26일부터 미국 매장 271개 중 100여곳 애플스토어를 추가로 재개장 했지만 5일 만에 또다시 문을 닫게 됐다.\n앞서 미국 미네소타주 미니애폴리스 백인 경찰관이 무릎으로 흑인 플로이드의 목을 짓눌러 사망케 하는 일이 벌어지면서 현재 미국 전역에서 격렬한 항의 시위가 벌어지고 있다.\n일부 시위대는 애플스토어와 명품 매장, 월마트 등을 약탈하는 등 폭력 시위로 번지는 양상이다.\n포틀랜드, 필라델피아, 브루클린, 솔트레이트시티, 로스앤젤레스(LA), 워싱턴DC, 샌프란시스코 등에 위치한 애플스토어 매장이 공격을 받았다.\n애플은 해당 매장에서 약탈당한 아이폰 등을 사용할 수 없도록 원격으로 제한 조치를 취한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 확산으로 한동안 문을 닫았다가 재개장한 미국 애플스토어가 미국 내 인종차별 시위 격화로 다시 폐쇄했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애플은 31일(현지시간) 성명을 통해 “우리 팀의 건강과 안전을 고려해 미국 매장 다수를 폐쇄하기로 결정했다”고 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 애플은 3월 코로나19 사태로 미국 애플스토어를 폐쇄한 후, 지난 달부터 단계적으로 애플스토어를 재개장했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 달 26일부터 미국 매장 271개 중 100여곳 애플스토어를 추가로 재개장 했지만 5일 만에 또다시 문을 닫게 됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 미국 미네소타주 미니애폴리스 백인 경찰관이 무릎으로 흑인 플로이드의 목을 짓눌러 사망케 하는 일이 벌어지면서 현재 미국 전역에서 격렬한 항의 시위가 벌어지고 있다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일부 시위대는 애플스토어와 명품 매장, 월마트 등을 약탈하는 등 폭력 시위로 번지는 양상이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "포틀랜드, 필라델피아, 브루클린, 솔트레이트시티, 로스앤젤레스(LA), 워싱턴DC, 샌프란시스코 등에 위치한 애플스토어 매장이 공격을 받았다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "애플은 해당 매장에서 약탈당한 아이폰 등을 사용할 수 없도록 원격으로 제한 조치를 취한 것으로 알려졌다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]애플, 美 인종차별 시위 격화로 애플스토어 다시 폐쇄",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

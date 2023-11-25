@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016153",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "KAIST, 무선인터넷 시뮬레이션 기술 ‘모파이심’ 개발",
+		"newsSubTitle": "",
+		"newsContent": "▲ 김순태 KAIST 교수. (사진제공=KAIST) 실제 모바일 기기와 유사 환경 조성해 시뮬레이션에 반영가능 KAIST(총장 강성모)는 김순태 전산학부 교수 연구팀이 스마트폰ㆍ컴퓨터에서 사용되는 무선 인터넷 환경을 컴퓨터 시뮬레이션을 통해 미리 구현할 수 있는 시뮬레이션 플랫폼 모파이심(MofySim)을 개발했다고 16일 밝혔다.\n이로써 스마트폰의 인터넷 환경과 비슷하게 시뮬레이션을 수행해 하드웨어와 소프트웨어의 문제점의 개선 사항을 쉽게 파악할 수 있게 됐다.\n실제 시스템에서는 추출하기 어려운 하드웨어 상에서 발생하는 다양한 현상과 시스템 소프트웨어의 활동 상황, 네트워크 상황에 따라 생기는 하드웨어와 소프트웨어의 문제점을 찾을 수 있다.\n또 모바일 시스템의 성능, 전력소비, 신뢰성도 측정 가능하다.\n무선 네트워크는 모바일 기기에서 가장 핵심적인 요소로 꼽힌다.\n그러나 무선 네트워크에서는 상황에 따라 패킷 손실, 손상 등의 오류가 발생할 수 있으며 이는 배터리 소모의 원인이 된다.\n따라서 모바일 기기를 설계할 때 네트워크 상황에 따라 기기의 성능 및 소비 에너지 등을 고려하는 것은 필수적이다.\n기존 시뮬레이션 시스템은 통신을 통한 인터넷 연결을 완벽히 지원하지 못하고 로컬 디스크에서 데이터를 읽는 형태로 이뤄졌다.\n로컬 디스크에 있는 오프라인 상의 자료만을 토대로 웹 서핑을 시뮬레이션해 왔기 때문에 네트워크의 변동성을 반영하지 못해 신뢰도가 떨어질 수밖에 없었던 것이다.\n연구팀은 모파이심으로 3G, 4G, 와이파이 등 무선통신 네트워크와 통신 대역폭(bandwidth), 패킷(packet) 분실, 지연시간 등 발생 가능한 네트워크 상황을 모델링하는 모바일 시스템 시뮬레이션을 지원한다.\n모파이심은 모바일 시스템, 서버 시스템, 두 시스템부를 연결하는 무선 통신부로 구성됐다.\n모바일 시스템부는 CPUㆍ메모리ㆍ저장장치ㆍ디스플레이 등의 하드웨어를 모델링하고 리눅스 운영체제와 안드로이드 시스템을 구동하고, 서버 시스템부는 모바일 시스템이 접속하는 인터넷에 연결된 원격 서버를 모델링한다.\n마지막으로 무선 통신부는 두 시스템을 무선 통신을 통해 연결한다.\n김 교수는 “모파이심을 이용해 현재 뿐 아니라 미래의 모바일 시스템 모델링이 가능해진다”며 “하드웨어가 개발되지 않은 상황에서 미래 시스템을 실험할 수 있는 유용한 플랫폼이 될 것이다”고 말했다.\n이번 연구성과는 지난달 19일 스웨덴 웁살라에서 열린 ISPASS(International Symposium on Performance Analysis of Systems and Software)학회에서 발표됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 김순태 KAIST 교수. (사진제공=KAIST) 실제 모바일 기기와 유사 환경 조성해 시뮬레이션에 반영가능 KAIST(총장 강성모)는 김순태 전산학부 교수 연구팀이 스마트폰ㆍ컴퓨터에서 사용되는 무선 인터넷 환경을 컴퓨터 시뮬레이션을 통해 미리 구현할 수 있는 시뮬레이션 플랫폼 모파이심(MofySim)을 개발했다고 16일 밝혔다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이로써 스마트폰의 인터넷 환경과 비슷하게 시뮬레이션을 수행해 하드웨어와 소프트웨어의 문제점의 개선 사항을 쉽게 파악할 수 있게 됐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "실제 시스템에서는 추출하기 어려운 하드웨어 상에서 발생하는 다양한 현상과 시스템 소프트웨어의 활동 상황, 네트워크 상황에 따라 생기는 하드웨어와 소프트웨어의 문제점을 찾을 수 있다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 모바일 시스템의 성능, 전력소비, 신뢰성도 측정 가능하다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "무선 네트워크는 모바일 기기에서 가장 핵심적인 요소로 꼽힌다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 무선 네트워크에서는 상황에 따라 패킷 손실, 손상 등의 오류가 발생할 수 있으며 이는 배터리 소모의 원인이 된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "따라서 모바일 기기를 설계할 때 네트워크 상황에 따라 기기의 성능 및 소비 에너지 등을 고려하는 것은 필수적이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기존 시뮬레이션 시스템은 통신을 통한 인터넷 연결을 완벽히 지원하지 못하고 로컬 디스크에서 데이터를 읽는 형태로 이뤄졌다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "로컬 디스크에 있는 오프라인 상의 자료만을 토대로 웹 서핑을 시뮬레이션해 왔기 때문에 네트워크의 변동성을 반영하지 못해 신뢰도가 떨어질 수밖에 없었던 것이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "연구팀은 모파이심으로 3G, 4G, 와이파이 등 무선통신 네트워크와 통신 대역폭(bandwidth), 패킷(packet) 분실, 지연시간 등 발생 가능한 네트워크 상황을 모델링하는 모바일 시스템 시뮬레이션을 지원한다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "모파이심은 모바일 시스템, 서버 시스템, 두 시스템부를 연결하는 무선 통신부로 구성됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "모바일 시스템부는 CPUㆍ메모리ㆍ저장장치ㆍ디스플레이 등의 하드웨어를 모델링하고 리눅스 운영체제와 안드로이드 시스템을 구동하고, 서버 시스템부는 모바일 시스템이 접속하는 인터넷에 연결된 원격 서버를 모델링한다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "마지막으로 무선 통신부는 두 시스템을 무선 통신을 통해 연결한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "김 교수는 “모파이심을 이용해 현재 뿐 아니라 미래의 모바일 시스템 모델링이 가능해진다”며 “하드웨어가 개발되지 않은 상황에서 미래 시스템을 실험할 수 있는 유용한 플랫폼이 될 것이다”고 말했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이번 연구성과는 지난달 19일 스웨덴 웁살라에서 열린 ISPASS(International Symposium on Performance Analysis of Systems and Software)학회에서 발표됐다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"겨우 그 정도?\\\" vs \\\"나름 괜찮네!\\\" 네이버 멤버십 반응 엇갈려",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

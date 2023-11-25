@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337424",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "[LG전자 컨콜]\\\"위생·건강 제품 수요가 제품 교체 사이클 줄일 것\\\"",
+		"newsSubTitle": "",
+		"newsContent": "올해 세계 생활가전 수요는 대용량, 위생, 건강 제품 위주로 유의미하게 확대될 것 같다.\n최근 시장 분석에 따르면 유럽 등 선진 시장, 성장 시장에서 대용량, 위생 제품 판매가 증가했다.\n위생 제품군 수요가 일반 냉장고 등 메이저 제품 대비 수요 역성장 폭이 적었다.\n과거 소비자는 실생활에서 필수가전 구매를 주로 고민했지만, IT기기와 마찬가지로 신제품, 신기술 등 신 가전에 관심이 증가한다.\n위생, 건강, 하이테크 제품 중심으로 고급 제품 수요가 늘어날 것이다.\n이런 수요 예측을 대응하면 소비자 구매로 연결돼 기존 교체 사이클도 단축할 수 있을 것 이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 세계 생활가전 수요는 대용량, 위생, 건강 제품 위주로 유의미하게 확대될 것 같다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 시장 분석에 따르면 유럽 등 선진 시장, 성장 시장에서 대용량, 위생 제품 판매가 증가했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "위생 제품군 수요가 일반 냉장고 등 메이저 제품 대비 수요 역성장 폭이 적었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "과거 소비자는 실생활에서 필수가전 구매를 주로 고민했지만, IT기기와 마찬가지로 신제품, 신기술 등 신 가전에 관심이 증가한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "위생, 건강, 하이테크 제품 중심으로 고급 제품 수요가 늘어날 것이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이런 수요 예측을 대응하면 소비자 구매로 연결돼 기존 교체 사이클도 단축할 수 있을 것 이다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[LG전자 컨콜]\\\"위생·건강 제품 수요가 제품 교체 사이클 줄일 것\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

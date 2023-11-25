@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334501",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "장비",
+		"newsTitle": "텔레다인르크로이, 15.4인치 디스플레이 채용 오실로스코프 발표",
+		"newsSubTitle": "",
+		"newsContent": "텔레다인르크로이(지사장 이운재)는 15.4인치 대형 디스플레이와 500㎒~4㎓ 대역폭, 샘플링 최고속도 40GS/s의 혼합 신호 오실로스코프 '웨이브러너9000' 시리즈를 발표했다.\n웨이브러너9000시리즈는 심도 깊은 툴박스와 완벽한 시리얼 데이터 디버깅 및 검증 솔루션 콜렉션을 제공한다.\n임베디드 시스템, 자동차, EMC·EMI 테스트 애플리케이션에 이상적이다.\n필터링으로 대역폭을 제한해 분해능을 향상하는 기능을 포함하고 있다.\n스펙트럼 분석 모드는 대화형 피크 및 마커 테이블을 사용해 넓은 EMC 대역에서 고조파 피크를 정확히 찾아낸다.\n전용 EMC 펄스 패라미터 측정 패키지를 사용해 특정 EMC·ESD 표준에 적합한 측정이 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "텔레다인르크로이(지사장 이운재)는 15.4인치 대형 디스플레이와 500㎒~4㎓ 대역폭, 샘플링 최고속도 40GS/s의 혼합 신호 오실로스코프 '웨이브러너9000' 시리즈를 발표했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "웨이브러너9000시리즈는 심도 깊은 툴박스와 완벽한 시리얼 데이터 디버깅 및 검증 솔루션 콜렉션을 제공한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임베디드 시스템, 자동차, EMC·EMI 테스트 애플리케이션에 이상적이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "필터링으로 대역폭을 제한해 분해능을 향상하는 기능을 포함하고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스펙트럼 분석 모드는 대화형 피크 및 마커 테이블을 사용해 넓은 EMC 대역에서 고조파 피크를 정확히 찾아낸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전용 EMC 펄스 패라미터 측정 패키지를 사용해 특정 EMC·ESD 표준에 적합한 측정이 가능하다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "텔레다인르크로이, 15.4인치 디스플레이 채용 오실로스코프 발표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325408",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]애플, 美 폭식증 연구 위해 애플워치 1000개 기증",
+		"newsSubTitle": "",
+		"newsContent": "애플이 폭식증 관련 연구를 위해 애플워치 1000개를 기증하기로 했다.\n미국 CNBC에 따르면 애플은 노스캐롤라이나 의과대에서 진행하는 폭식 관련 연구에 애플워치 1000대를 기증한다.\n연구진은 만 18세 이상 폭식증 유경험자 1000명에게 애플워치를 무료로 제공, 음식을 먹기 이전 심장박동 수 등 신체에 어떤 변화가 일어나는 지 관찰한다.\n폭식증은 짧은 시간 동안 많은 양의 음식을 섭취한 이후 구토 등으로 체중 증가를 막으려는 증상이다.\n불릭 연구원은 \\\"실험에서 많은 사람 데이터를 수집해 생물학적 또는 행동에 어떤 특성 변화가 일어나는 지 관찰할 것\\\"이라고 말했다.\n애플은 애플워치4 시리즈에 처음으로 심전도 측정 기능을 탑재하는 등 헬스케어 서비스 강화에 힘쓰고 있다.\n애플이 의과대 연구을 지원하겠다고 나선 것도 향후 애플워치 시리즈에 새로운 헬스케어 서비스를 접목하기 위한 것으로 풀이된다.\n폭식증에 대한 데이터는 애플워치 이용자 식습관에 따른 행동 변화 측정에 도움이 될 것으로 판단, 폭식 예방법∙운동 방법 등을 제시할 수 있다는 점에서 효과적일 것으로 예상된다.\nCNBC는 \\\"미국에서만 최소 3000만명 이상이 섭식장애를 앓고 있다\\\"면서 \\\"이번 연구 데이터로 어떤 종류의 경고가 폭식증 환자에게 도움이 될 수 있을 지 후속 연구로 이어질 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 폭식증 관련 연구를 위해 애플워치 1000개를 기증하기로 했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 CNBC에 따르면 애플은 노스캐롤라이나 의과대에서 진행하는 폭식 관련 연구에 애플워치 1000대를 기증한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연구진은 만 18세 이상 폭식증 유경험자 1000명에게 애플워치를 무료로 제공, 음식을 먹기 이전 심장박동 수 등 신체에 어떤 변화가 일어나는 지 관찰한다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "폭식증은 짧은 시간 동안 많은 양의 음식을 섭취한 이후 구토 등으로 체중 증가를 막으려는 증상이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "불릭 연구원은 \\\"실험에서 많은 사람 데이터를 수집해 생물학적 또는 행동에 어떤 특성 변화가 일어나는 지 관찰할 것\\\"이라고 말했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "애플은 애플워치4 시리즈에 처음으로 심전도 측정 기능을 탑재하는 등 헬스케어 서비스 강화에 힘쓰고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "애플이 의과대 연구을 지원하겠다고 나선 것도 향후 애플워치 시리즈에 새로운 헬스케어 서비스를 접목하기 위한 것으로 풀이된다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "폭식증에 대한 데이터는 애플워치 이용자 식습관에 따른 행동 변화 측정에 도움이 될 것으로 판단, 폭식 예방법∙운동 방법 등을 제시할 수 있다는 점에서 효과적일 것으로 예상된다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "CNBC는 \\\"미국에서만 최소 3000만명 이상이 섭식장애를 앓고 있다\\\"면서 \\\"이번 연구 데이터로 어떤 종류의 경고가 폭식증 환자에게 도움이 될 수 있을 지 후속 연구로 이어질 것\\\"이라고 말했다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]애플, 美 폭식증 연구 위해 애플워치 1000개 기증",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

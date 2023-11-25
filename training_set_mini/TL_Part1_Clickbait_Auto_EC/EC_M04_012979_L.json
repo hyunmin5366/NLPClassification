@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012979",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "[국민연금 돋보기]환급 전화 믿어야하나…",
+		"newsSubTitle": "과오납금·연금 지급 안내 ARS전화는 100% 사기",
+		"newsContent": "Q. ARS로 국민연금 환급해준다는 전화를 받았는데 사실인가요?\nA. 국민연금공단에서는 과오납금이나 연금을 지급해 드릴 경우, 절대 ARS를 통해 전화를 드리지 않습니다.\n최근 국제 사기 조직에 의한 사기 전화가 극성입니다.\n주로, 중국 등을 통해 전화가 유입되는데 국민연금, 건강보험, 국세청, 경찰청, 우체국, 카드회사 등을 사칭하여 환급금이 있다며 현금 지급기로 유인하여 조작하게 한 후 금액을 인출하는 사례가 종종 발생하고 있습니다.\n이러한 사례에 대하여 경찰에 수사를 의뢰하여 일부 검거한 사례가 있지만, 해외에 기반을 둔 범죄조직이기 때문에 그 뿌리를 뽑기가 어려운 것 같습니다.\n이런 전화를 받으시면, 전화를 거는 사람의 이름, 연락처, 소속 등을 물어 보셔야 하고, 자신을 밝히지 않는 전화는 바로 끊어버리셔야 합니다.\n또한 현금지급기로 유인하거나 비밀번호를 묻는 것은 100% 사기 전화이니 절대 요구하는 대로 응하시면 안 되며 반드시 경찰에 신고하시기 바랍니다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "Q. ARS로 국민연금 환급해준다는 전화를 받았는데 사실인가요?",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "A. 국민연금공단에서는 과오납금이나 연금을 지급해 드릴 경우, 절대 ARS를 통해 전화를 드리지 않습니다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 국제 사기 조직에 의한 사기 전화가 극성입니다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주로, 중국 등을 통해 전화가 유입되는데 국민연금, 건강보험, 국세청, 경찰청, 우체국, 카드회사 등을 사칭하여 환급금이 있다며 현금 지급기로 유인하여 조작하게 한 후 금액을 인출하는 사례가 종종 발생하고 있습니다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이러한 사례에 대하여 경찰에 수사를 의뢰하여 일부 검거한 사례가 있지만, 해외에 기반을 둔 범죄조직이기 때문에 그 뿌리를 뽑기가 어려운 것 같습니다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이런 전화를 받으시면, 전화를 거는 사람의 이름, 연락처, 소속 등을 물어 보셔야 하고, 자신을 밝히지 않는 전화는 바로 끊어버리셔야 합니다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 현금지급기로 유인하거나 비밀번호를 묻는 것은 100% 사기 전화이니 절대 요구하는 대로 응하시면 안 되며 반드시 경찰에 신고하시기 바랍니다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유망 스타트업, LG전자 B2B 파트너 된다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

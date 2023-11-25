@@ -1,0 +1,294 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339636",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW·보안",
+		"newsTitle": "드론 추락, 뜨기 전에 안다",
+		"newsSubTitle": "",
+		"newsContent": "드론 이상 유무를 비행 전에 확인해볼 수 있게 됐다.\n스택허니(대표 박기용)는 드론 프로펠러와 제어 능력을 검사하는 소음∙진동 솔루션을 개발했다고 3일 밝혔다.\n솔루션은 진동 센서 '드론 스팅'과 스마트폰 앱 '드론 체커'로 구성된다.\n프로펠러 검사는 스마트폰만 있으면 된다.\n구글플레이에서 '드론 체커'를 내려 받아 회원 가입 후 사용할 수 있다.\n검사 방법은 간단하다.\n드론 프로펠러를 가동한 상태에서 드론 체커 앱을 실행하고 시작 버튼만 누르면 된다.\n5초 정도 프로펠러에서 들리는 소리를 녹음한 후 즉시 분석 결과를 알려준다.\n프로펠러에서 나오는 소음을 측정해 동일 모델 정상 값과 비교하는 방식이다.\n측정값은 회사 서버에서 분석한다.\n결과 값은 누적돼 소음 발생 추이를 그래프로 한 눈에 보여준다.\n드론 스팅은 직경이 5cm도 안 되는 소형 센서다.\n육각 형태다.\n드론 제어 능력을 검사한다.\n드론 제어 이상에 따른 드론 추락 사고를 미리 막을 수 있다.\n현재 시제품 단계다.\n이르면 이달말 상용 제품이 출시될 예정이다.\n이 센서는 프로펠러가 움직일 때 발생하는 진동을 측정해 스마트폰으로 보낸다.\n블루투스로 스마트폰과 연결한다.\n측정하려면 센서를 드론 위에 올려놓기만 하면 된다.\n무게가 18g에 불과해 드론에 영향을 주지 않는다.\n사용방법과 결과 도출은 소음 측정 때와 같다.\n진동 원인을 모터와 날개로 구분해 알 수 있는 것도 장점이다.\n박기용 대표가 소음∙진동 관련 업체에서 쌓은 주파수 분석 기술이 바탕이 됐다.\n일반 사용자는 물론이고 A/S 이후 정상 여부 확인용으로도 쓸 수 있다.\n데이터 기반이라 객관적 판단이 가능하다.\n글로벌 드론 제조기업과 협상 중이다.\n드론 체커 앱과 스택허니 홈페이지에서는 드론 상태 리포트를 비롯해 자기장 지수(KP), 비행금지 구역, 지역 날씨 등 드론 비행 관련 정보도 확인 가능하다.\n박기용 스택허니 대표는 \\\"소형 센서와 스마트폰만 있으면 사전 점검이 가능해 비행 도중 추락사고 예방이 가능해졌다\\\"면서 \\\"신규 구매한 사용자를 비롯해 장기간 미사용자, 사고 경험자에게도 도움이 될 것\\\"이라고 기대했다.\n박 대표는 \\\"드론 스팅 마무리 작업 단계\\\"라면서 \\\"제품 출시와 함께 앱도 새롭게 선보일 것\\\"이라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 30,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "드론 이상 유무를 비행 전에 확인해볼 수 있게 됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스택허니(대표 박기용)는 드론 프로펠러와 제어 능력을 검사하는 소음∙진동 솔루션을 개발했다고 3일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "솔루션은 진동 센서 '드론 스팅'과 스마트폰 앱 '드론 체커'로 구성된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "프로펠러 검사는 스마트폰만 있으면 된다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구글플레이에서 '드론 체커'를 내려 받아 회원 가입 후 사용할 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "검사 방법은 간단하다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "드론 프로펠러를 가동한 상태에서 드론 체커 앱을 실행하고 시작 버튼만 누르면 된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "5초 정도 프로펠러에서 들리는 소리를 녹음한 후 즉시 분석 결과를 알려준다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "프로펠러에서 나오는 소음을 측정해 동일 모델 정상 값과 비교하는 방식이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "측정값은 회사 서버에서 분석한다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "결과 값은 누적돼 소음 발생 추이를 그래프로 한 눈에 보여준다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "드론 스팅은 직경이 5cm도 안 되는 소형 센서다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "육각 형태다.",
+				"sentenceSize": 7
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "드론 제어 능력을 검사한다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "드론 제어 이상에 따른 드론 추락 사고를 미리 막을 수 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "현재 시제품 단계다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이르면 이달말 상용 제품이 출시될 예정이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이 센서는 프로펠러가 움직일 때 발생하는 진동을 측정해 스마트폰으로 보낸다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "블루투스로 스마트폰과 연결한다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "측정하려면 센서를 드론 위에 올려놓기만 하면 된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "무게가 18g에 불과해 드론에 영향을 주지 않는다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "사용방법과 결과 도출은 소음 측정 때와 같다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "진동 원인을 모터와 날개로 구분해 알 수 있는 것도 장점이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "박기용 대표가 소음∙진동 관련 업체에서 쌓은 주파수 분석 기술이 바탕이 됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "일반 사용자는 물론이고 A/S 이후 정상 여부 확인용으로도 쓸 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "데이터 기반이라 객관적 판단이 가능하다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "글로벌 드론 제조기업과 협상 중이다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "드론 체커 앱과 스택허니 홈페이지에서는 드론 상태 리포트를 비롯해 자기장 지수(KP), 비행금지 구역, 지역 날씨 등 드론 비행 관련 정보도 확인 가능하다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "박기용 스택허니 대표는 \\\"소형 센서와 스마트폰만 있으면 사전 점검이 가능해 비행 도중 추락사고 예방이 가능해졌다\\\"면서 \\\"신규 구매한 사용자를 비롯해 장기간 미사용자, 사고 경험자에게도 도움이 될 것\\\"이라고 기대했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "박 대표는 \\\"드론 스팅 마무리 작업 단계\\\"라면서 \\\"제품 출시와 함께 앱도 새롭게 선보일 것\\\"이라고 덧붙였다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "드론 추락, 뜨기 전에 안다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

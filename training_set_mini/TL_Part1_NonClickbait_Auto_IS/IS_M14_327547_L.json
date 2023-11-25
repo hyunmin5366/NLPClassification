@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327547",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전력",
+		"newsTitle": "[2018 결산]올해의 인물-김종갑 한국전력 사장",
+		"newsSubTitle": "",
+		"newsContent": "김종갑 한국전력 사장은 올해 4월 취임 했다.\n한전은 고유가, 탈원전 기조로 인한 해외 원전사업 불투명, 내부 비리, 사업 적자 등 내우외환에 빠져 있었다.\n김 사장은 취임 후 고강도 비상경영체제를 발표했다.\n연말까지 비용절감 체제를 유지하면서 상반기 적자에 놓였던 사업을 3분기에 흑자로 돌려세웠다.\n김 사장은 옛 산업자원부 차관을 지내다 2007년 위기에 처한 하이닉스반도체를 정상화시키며 경영능력을 인정받았다.\n새해에도 여러 난관이 얽혀있는 위기의 한전을 구해낼지 관심이 쏠린다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "김종갑 한국전력 사장은 올해 4월 취임 했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한전은 고유가, 탈원전 기조로 인한 해외 원전사업 불투명, 내부 비리, 사업 적자 등 내우외환에 빠져 있었다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김 사장은 취임 후 고강도 비상경영체제를 발표했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연말까지 비용절감 체제를 유지하면서 상반기 적자에 놓였던 사업을 3분기에 흑자로 돌려세웠다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김 사장은 옛 산업자원부 차관을 지내다 2007년 위기에 처한 하이닉스반도체를 정상화시키며 경영능력을 인정받았다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "새해에도 여러 난관이 얽혀있는 위기의 한전을 구해낼지 관심이 쏠린다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2018 결산]올해의 인물-김종갑 한국전력 사장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

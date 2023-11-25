@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352118",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "애플, 일론 머스크 저격수 영입…애플카 페달밟나[IT썰]",
+		"newsSubTitle": "null",
+		"newsContent": "애플이 테슬라의 자율주행시스템 '오토파일럿' 개발책임자를 최근 영입했다.\n애플이 '애플카' 출시에 속도를 낼 것이란 전망이 나온다.\n7일(현지시간) 블룸버그에 따르면 애플은 테슬라에서 오토파일럿 개발팀을 이끈 크리스토퍼 CJ 무어를 영입했다.\n무어는 애플카의 소프트웨어 개발을 맡을 전망이며, 지난해 애플로 이직한 스튜어트 보어스 전 테슬라 임원과 함께 일할 것으로 보인다.\n이에 따라 애플이 애플카 출시에 속도를 낼 것이란 기대가 나온다.\n애플은 자율주행차를 개발한다고 공식 인정하지 않았지만, 관련 인재를 적극 영입하고 있다.\n테슬라에서 드라이브 트레인 개발을 맡은 마이클 슈베쿠치와 인테리어 책임자인 스티브 맥매너스도 애플에 합류했다.\n무어는 올 초 일론 머스크 테슬라 CEO가 오토파일럿을 과대평가하고 있다고 지적해 화제가 된 인물이다.\n연내 운전자가 개입하지 않아도 되는 '레벨5' 수준의 완전자율주행 기능을 선보이겠다는 일론 머스크 말에 \\\"현재 테슬라의 자율주행기술은 레벨2 수준\\\"이라며 \\\"공학적 현실과 맞지 않는다\\\"고 반박한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 테슬라의 자율주행시스템 '오토파일럿' 개발책임자를 최근 영입했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애플이 '애플카' 출시에 속도를 낼 것이란 전망이 나온다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "7일(현지시간) 블룸버그에 따르면 애플은 테슬라에서 오토파일럿 개발팀을 이끈 크리스토퍼 CJ 무어를 영입했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "무어는 애플카의 소프트웨어 개발을 맡을 전망이며, 지난해 애플로 이직한 스튜어트 보어스 전 테슬라 임원과 함께 일할 것으로 보인다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 애플이 애플카 출시에 속도를 낼 것이란 기대가 나온다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "애플은 자율주행차를 개발한다고 공식 인정하지 않았지만, 관련 인재를 적극 영입하고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "테슬라에서 드라이브 트레인 개발을 맡은 마이클 슈베쿠치와 인테리어 책임자인 스티브 맥매너스도 애플에 합류했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "무어는 올 초 일론 머스크 테슬라 CEO가 오토파일럿을 과대평가하고 있다고 지적해 화제가 된 인물이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "연내 운전자가 개입하지 않아도 되는 '레벨5' 수준의 완전자율주행 기능을 선보이겠다는 일론 머스크 말에 \\\"현재 테슬라의 자율주행기술은 레벨2 수준\\\"이라며 \\\"공학적 현실과 맞지 않는다\\\"고 반박한 바 있다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플, 일론 머스크 저격수 영입…애플카 페달밟나[IT썰]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

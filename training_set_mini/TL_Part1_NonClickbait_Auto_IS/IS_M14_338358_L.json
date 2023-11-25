@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338358",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW교육",
+		"newsTitle": "[소프트웨어야 놀자]공 옮기기 게임",
+		"newsSubTitle": "",
+		"newsContent": "오늘 만들 작품이 있는 페이지에 접속하고(https://goo.gl/XnQg9H) 화면 중앙 시작하기 버튼을 클릭해요.\n게임이 시작되면 공은 오른쪽으로 움직여요.\n별에 닿으면 점수가 10점씩 올라가고 별은 무작위 위치에 다시 나타나요.\n상자는 계속 마우스 위치에 있어요.\n공이 이동하는 길목에 마우스를 클릭해 상자를 설치해 볼게요.\n공이 상자에 닿으면 방향을 90도 만큼 바꾸게 돼요.\n상자는 시간이 지나면 사라지고 여러 번 설치 가능해요.\n공이 화면 밖으로 나가면 게임이 끝나요.\n이제 게임을 어떻게 만드는지 알아볼게요. [강의 학습하기] 버튼을 클릭해요.\n공이 일정한 방향으로 이동하다가 상자에 닿으면 방향을 바꾸고, 화면 밖으로 나가면 게임이 끝나게 해 볼게요. [흐름]의 '계속 반복하기'와 [움직임]의 '이동 방향으로 ∼만큼 움직이기'로 공을 계속 움직이게 할게요. [흐름]의 '만일 ∼이라면'과 [움직임]의 '방향을 ∼만큼 회전하기'로 상자에 닿았을 때 공을 회전시켜요.\n공에 그림 (1)처럼 코드를 작성해요.\n이어서 공이 화면을 벗어났을 때 모양을 숨기고 모든 코드를 멈춰서 게임이 끝나게 해 볼게요.\n그림 (2)와 같은 코드를 작성해 그림 (1)의 '계속 반복하기' 안에 끼워 넣어요.\n이번에는 상자가 계속 마우스를 따라오고 마우스를 클릭하면 상자가 설치되게 해 볼게요.\n먼저 계속 반복해서 마우스를 따라오도록 상자에 그림 (3)처럼 코드를 작성해요.\n마우스를 클릭했을 때 상자가 설치되게 하려면 [시작]에서 '마우스를 클릭했을 때'와 [흐름]에서 '자신의 복제본 만들기'를 연결해 상자에 그림 (4)처럼 코드를 작성해요. '자신의 복제본 만들기' 블록은 자신과 동일한 성질을 가진 오브젝트를 복사하는 명령어에요. 복제본이 만들어 졌을 때 특정한 동작을 하게하려면 '복제본이 처음 생성되었을 때' 블록을 사용하면 돼요.\n다음으로 설치된 상자가 2초가 지나면 사라지도록 해 볼게요. [흐름]에서 '복제본이 처음 생성됐을 때'와 '2초 기다리기' '이 복제본 삭제하기' 블록을 연결해 상자에 그림 (5)처럼 코드를 작성해요.\n마지막으로 별이 공에 닿으면 점수가 올라가고, 무작위 위치에 다시 나타나도록 해 볼게요.\n먼저 [속성]-[변수]-[변수추가]로 '점수'변수를 만들고 별에 그림 (6)처럼 코드를 작성해요.\n드디어 게임이 완성됐어요.\n다양한 상자를 추가해 나만의 공 옮기기 게임을 만들어 보는 것은 어떨까요?",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오늘 만들 작품이 있는 페이지에 접속하고(https://goo.gl/XnQg9H) 화면 중앙 시작하기 버튼을 클릭해요.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "게임이 시작되면 공은 오른쪽으로 움직여요.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "별에 닿으면 점수가 10점씩 올라가고 별은 무작위 위치에 다시 나타나요.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "상자는 계속 마우스 위치에 있어요.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공이 이동하는 길목에 마우스를 클릭해 상자를 설치해 볼게요.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공이 상자에 닿으면 방향을 90도 만큼 바꾸게 돼요.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "상자는 시간이 지나면 사라지고 여러 번 설치 가능해요.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공이 화면 밖으로 나가면 게임이 끝나요.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이제 게임을 어떻게 만드는지 알아볼게요. [강의 학습하기] 버튼을 클릭해요.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "공이 일정한 방향으로 이동하다가 상자에 닿으면 방향을 바꾸고, 화면 밖으로 나가면 게임이 끝나게 해 볼게요. [흐름]의 '계속 반복하기'와 [움직임]의 '이동 방향으로 ∼만큼 움직이기'로 공을 계속 움직이게 할게요. [흐름]의 '만일 ∼이라면'과 [움직임]의 '방향을 ∼만큼 회전하기'로 상자에 닿았을 때 공을 회전시켜요.",
+				"sentenceSize": 180
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "공에 그림 (1)처럼 코드를 작성해요.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이어서 공이 화면을 벗어났을 때 모양을 숨기고 모든 코드를 멈춰서 게임이 끝나게 해 볼게요.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "그림 (2)와 같은 코드를 작성해 그림 (1)의 '계속 반복하기' 안에 끼워 넣어요.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이번에는 상자가 계속 마우스를 따라오고 마우스를 클릭하면 상자가 설치되게 해 볼게요.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "먼저 계속 반복해서 마우스를 따라오도록 상자에 그림 (3)처럼 코드를 작성해요.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "마우스를 클릭했을 때 상자가 설치되게 하려면 [시작]에서 '마우스를 클릭했을 때'와 [흐름]에서 '자신의 복제본 만들기'를 연결해 상자에 그림 (4)처럼 코드를 작성해요. '자신의 복제본 만들기' 블록은 자신과 동일한 성질을 가진 오브젝트를 복사하는 명령어에요. 복제본이 만들어 졌을 때 특정한 동작을 하게하려면 '복제본이 처음 생성되었을 때' 블록을 사용하면 돼요.",
+				"sentenceSize": 205
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "다음으로 설치된 상자가 2초가 지나면 사라지도록 해 볼게요. [흐름]에서 '복제본이 처음 생성됐을 때'와 '2초 기다리기' '이 복제본 삭제하기' 블록을 연결해 상자에 그림 (5)처럼 코드를 작성해요.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "마지막으로 별이 공에 닿으면 점수가 올라가고, 무작위 위치에 다시 나타나도록 해 볼게요.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "먼저 [속성]-[변수]-[변수추가]로 '점수'변수를 만들고 별에 그림 (6)처럼 코드를 작성해요.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "드디어 게임이 완성됐어요.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "다양한 상자를 추가해 나만의 공 옮기기 게임을 만들어 보는 것은 어떨까요?",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[소프트웨어야 놀자]공 옮기기 게임",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

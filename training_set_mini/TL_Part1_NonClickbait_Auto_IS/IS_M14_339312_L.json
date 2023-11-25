@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339312",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[과학·정보통신의 날]정보통신 발전 유공 수상자",
+		"newsSubTitle": "",
+		"newsContent": "◇근정포장 김영길 한국전자통신연구원(ETRI) 그룹장은 최고 수준 한국어 대화체 자동번역 기술인 지니톡을 개발해 2012년 대국민 무료서비스와 2018년 평창동계올림픽 통역서비스를 제공했다.\n김성철 고려대 교수는 정책 자문 및 강의를 통해 스마트 미디어 위주의 정보통신기술(ICT) 산업 생태계 구축·재편에 기여하고, 미디어와 콘텐츠간 융합을 통해 ICT 산업 생태계 발전에 이바지했다.\n◇산업포장 김경남 셀바스에이아이 대표는 의료 빅데이터 기반 인공지능(AI) 질병예측 솔루션을 실용화하고 세계에 우리나라 ICT 경쟁력을 알렸다.\n오성목 KT 네트워크 부문장은 세계 최초 5세대(5G)를 추진하고 2018 평창 동계올림픽에 5G서비스를 선보였다.\n기가(GiGA) 인터넷 전국망 구축 등을 통해 정보격차를 해소하는 데 앞장섰다.\n황인환 코위버 대표는 광통신장비 자체 개발을 통해 해외 업체의 국내 시장 독점을 저지하고 지속적인 연구개발을 통해 네트워크 분야 기술 혁신 및 국내 산업 발전을 선도했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "◇근정포장 김영길 한국전자통신연구원(ETRI) 그룹장은 최고 수준 한국어 대화체 자동번역 기술인 지니톡을 개발해 2012년 대국민 무료서비스와 2018년 평창동계올림픽 통역서비스를 제공했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김성철 고려대 교수는 정책 자문 및 강의를 통해 스마트 미디어 위주의 정보통신기술(ICT) 산업 생태계 구축·재편에 기여하고, 미디어와 콘텐츠간 융합을 통해 ICT 산업 생태계 발전에 이바지했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "◇산업포장 김경남 셀바스에이아이 대표는 의료 빅데이터 기반 인공지능(AI) 질병예측 솔루션을 실용화하고 세계에 우리나라 ICT 경쟁력을 알렸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오성목 KT 네트워크 부문장은 세계 최초 5세대(5G)를 추진하고 2018 평창 동계올림픽에 5G서비스를 선보였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기가(GiGA) 인터넷 전국망 구축 등을 통해 정보격차를 해소하는 데 앞장섰다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "황인환 코위버 대표는 광통신장비 자체 개발을 통해 해외 업체의 국내 시장 독점을 저지하고 지속적인 연구개발을 통해 네트워크 분야 기술 혁신 및 국내 산업 발전을 선도했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[과학·정보통신의 날]정보통신 발전 유공 수상자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

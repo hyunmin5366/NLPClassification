@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334866",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[이슈분석]KT 아현지사 화재...국과수 등 2차 합동감식, 원인 분석 착수",
+		"newsSubTitle": "",
+		"newsContent": "KT는 26일 오후 6시 기준 인터넷 회선 98%, 무선은 86%가 임시 복구됐다고 밝혔다.\n지하 통신구 케이블을 실외로 꺼내 직접 연결 또는 우회하는 방식으로 복구를 하고 있다.\nLG유플러스 광케이블도 일부 활용한 것으로 알려졌다.\n유선보다 무선 서비스 복구가 오래 걸리는 이유는 거미줄처럼 연결된 유선망은 우회 통로가 많은 반면에 무선은 백홀 망을 일일이 다시 연결해야 하기 때문이다.\n이에 따라 무선 가입자 일부는 여전히 서비스에 불편을 겪고 있다.\n현재 KT가 하는 작업은 임시 복구로 정상 복구까지 길게는 일주일가량 걸릴 전망이다.\n화재로 소실된 장비와 광케이블을 새 것으로 교체해야 하기 때문이다.\n25일 관계기관(소방, 한국전력, KT) 1차 현장감식에 이어 26일에는 경찰과 소방당국, 한국전기안전공사, 국립과학수사연구원이 2차 현장 합동감식을 했다.\n발화지점과 원인, 책임소재 등을 파악하는 게 목적이다.\n경찰 관계자는 \\\"1차 감식은 현장을 육안으로 확인하고 피해상황 전반을 살폈다\\\"면서 \\\"오늘은 발화 지점과 화재 원인을 살피는 정밀 감식이 이뤄진다\\\"고 설명했다.\n전문가들은 화재가 전기적 요인일 가능성이 큰 것으로 보고 있다.\n지하 통신구에 외부인이 들어가기가 쉽지 않기 때문이다.\n정확한 원인 발표까지는 시간이 걸릴 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT는 26일 오후 6시 기준 인터넷 회선 98%, 무선은 86%가 임시 복구됐다고 밝혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지하 통신구 케이블을 실외로 꺼내 직접 연결 또는 우회하는 방식으로 복구를 하고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LG유플러스 광케이블도 일부 활용한 것으로 알려졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유선보다 무선 서비스 복구가 오래 걸리는 이유는 거미줄처럼 연결된 유선망은 우회 통로가 많은 반면에 무선은 백홀 망을 일일이 다시 연결해야 하기 때문이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 무선 가입자 일부는 여전히 서비스에 불편을 겪고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 KT가 하는 작업은 임시 복구로 정상 복구까지 길게는 일주일가량 걸릴 전망이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "화재로 소실된 장비와 광케이블을 새 것으로 교체해야 하기 때문이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "25일 관계기관(소방, 한국전력, KT) 1차 현장감식에 이어 26일에는 경찰과 소방당국, 한국전기안전공사, 국립과학수사연구원이 2차 현장 합동감식을 했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "발화지점과 원인, 책임소재 등을 파악하는 게 목적이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "경찰 관계자는 \\\"1차 감식은 현장을 육안으로 확인하고 피해상황 전반을 살폈다\\\"면서 \\\"오늘은 발화 지점과 화재 원인을 살피는 정밀 감식이 이뤄진다\\\"고 설명했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "전문가들은 화재가 전기적 요인일 가능성이 큰 것으로 보고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "지하 통신구에 외부인이 들어가기가 쉽지 않기 때문이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "정확한 원인 발표까지는 시간이 걸릴 전망이다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]KT 아현지사 화재...국과수 등 2차 합동감식, 원인 분석 착수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

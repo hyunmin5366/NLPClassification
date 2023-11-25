@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348563",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "韓 연구진 '10억 분의 1 암페어' 미세전류 측정 장치 개발",
+		"newsSubTitle": "null",
+		"newsContent": "한국표준과학연구원(KRISS)은 1 나노 암페어(nA, 10-9A) 이하 미세전류 표준을 가장 정확하게 구현할 수 있는 장치를 개발, 세계 최초로 저항·전압 표준 장치와 비교 검증하는 데 성공했다고 29일 밝혔다.\n전류는 반도체 효율, 미세먼지의 농도, 암 치료에 사용되는 방사선량 측정 등 일상생활부터 다양한 산업까지 사용되는 필수적 요소다.\n피코 암페어(pA, 10-12A) 수준의 미세전류를 정확히 측정·교정하려면 믿을 수 있는 전류 표준이 필요하다.\n그러나 현재의 전류 표준은 저항과 전압보다 100배 이상 정확성이 떨어진다.\n현재 표준 저항값·전압값은 각각의 고유 양자 상태에서 발현되는 저항과 전압에 의해 주어지지만, 전류는 아직 이에 대응되는 소자가 개발돼 있지 않아 다른 이차적인 방법을 사용하기 때문이다. ‘옴의 법칙’을 보면 알 수 있듯 전류, 저항, 전압은 떼려야 뗄 수 없는 관계다.\n전류의 세기는 전압에 비례하고 저항에 반비례하기에, 셋 중 둘의 값만 정확하게 안다면 나머지 하나를 유도해서 구할 수 있다.\nKRISS를 포함한 세계 각국 측정표준기관에서는 전압표준기와 저항표준기를 이용한 방식을 사용해 전류 표준을 구현해 왔다.\n그러나 이 방법 외에 전류 표준의 사전적 정의를 그대로 구현할 가장 확실한 방법은 1초당 흐르는 전자의 개수를 직접 재는 것이다.\nKRISS 전기자기표준그룹 연구팀은 전자의 개수를 측정해 전류 단위를 정의할 수 있는 ‘단전자 펌프 소자’를 개발하고 정확성을 양자측정표준 삼각체계(Quantum Metrology Triangle, QMT) 플랫폼을 이용한 방법으로 검증했다.\nQMT는 새롭게 정의되는 암페어를 실현하는 방식과 기존 암페어를 구현하는 방식의 일치 여부 검증 방법을 말한다.\n즉, 연구팀이 개발한 장치를 통해 발생한 단전자 전류의 크기를 조셉슨전압 표준기와 양자홀저항 표준기와 비교 검증하는 데 성공한 것이다.\nKRISS 연구팀이 개발한 단전자 펌프 소자는 물을 계속해 끌어올리는 양수기(펌프)와 비슷한 개념이다.\n전자를 담는 양자 우물을 이용해 일정한 시간 간격으로 전자를 하나씩 퍼 담아 내보내는 방식으로 전류를 만들어 낸다.\n이 장치는 1 초에 약 1억 개 전자가 흘러갈 때, 약 40개의 에러가 발생하는 수준의 정확성을 갖는다.\n세계 최고 수준인 영국, 독일 표준기관과 동일한 기술력이다.\n배명호 책임연구원은 “이번 성과는 KRISS가 이미 확보한 저항, 전압 표준이 있었기에 가능했다”며 “세계적 수준의 측정 능력으로 미세전류 표준을 선도할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국표준과학연구원(KRISS)은 1 나노 암페어(nA, 10-9A) 이하 미세전류 표준을 가장 정확하게 구현할 수 있는 장치를 개발, 세계 최초로 저항·전압 표준 장치와 비교 검증하는 데 성공했다고 29일 밝혔다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전류는 반도체 효율, 미세먼지의 농도, 암 치료에 사용되는 방사선량 측정 등 일상생활부터 다양한 산업까지 사용되는 필수적 요소다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "피코 암페어(pA, 10-12A) 수준의 미세전류를 정확히 측정·교정하려면 믿을 수 있는 전류 표준이 필요하다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 현재의 전류 표준은 저항과 전압보다 100배 이상 정확성이 떨어진다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 표준 저항값·전압값은 각각의 고유 양자 상태에서 발현되는 저항과 전압에 의해 주어지지만, 전류는 아직 이에 대응되는 소자가 개발돼 있지 않아 다른 이차적인 방법을 사용하기 때문이다. ‘옴의 법칙’을 보면 알 수 있듯 전류, 저항, 전압은 떼려야 뗄 수 없는 관계다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전류의 세기는 전압에 비례하고 저항에 반비례하기에, 셋 중 둘의 값만 정확하게 안다면 나머지 하나를 유도해서 구할 수 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KRISS를 포함한 세계 각국 측정표준기관에서는 전압표준기와 저항표준기를 이용한 방식을 사용해 전류 표준을 구현해 왔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그러나 이 방법 외에 전류 표준의 사전적 정의를 그대로 구현할 가장 확실한 방법은 1초당 흐르는 전자의 개수를 직접 재는 것이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "KRISS 전기자기표준그룹 연구팀은 전자의 개수를 측정해 전류 단위를 정의할 수 있는 ‘단전자 펌프 소자’를 개발하고 정확성을 양자측정표준 삼각체계(Quantum Metrology Triangle, QMT) 플랫폼을 이용한 방법으로 검증했다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "QMT는 새롭게 정의되는 암페어를 실현하는 방식과 기존 암페어를 구현하는 방식의 일치 여부 검증 방법을 말한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "즉, 연구팀이 개발한 장치를 통해 발생한 단전자 전류의 크기를 조셉슨전압 표준기와 양자홀저항 표준기와 비교 검증하는 데 성공한 것이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "KRISS 연구팀이 개발한 단전자 펌프 소자는 물을 계속해 끌어올리는 양수기(펌프)와 비슷한 개념이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "전자를 담는 양자 우물을 이용해 일정한 시간 간격으로 전자를 하나씩 퍼 담아 내보내는 방식으로 전류를 만들어 낸다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이 장치는 1 초에 약 1억 개 전자가 흘러갈 때, 약 40개의 에러가 발생하는 수준의 정확성을 갖는다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "세계 최고 수준인 영국, 독일 표준기관과 동일한 기술력이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "배명호 책임연구원은 “이번 성과는 KRISS가 이미 확보한 저항, 전압 표준이 있었기에 가능했다”며 “세계적 수준의 측정 능력으로 미세전류 표준을 선도할 것”이라고 말했다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "韓 연구진 '10억 분의 1 암페어' 미세전류 측정 장치 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

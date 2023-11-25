@@ -1,0 +1,438 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004509",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "LG, 초거대 AI '엑사원' 공개…\\\"스스로 학습하고 인간처럼 사고\\\"",
+		"newsSubTitle": "세계 최대 6000억 말뭉치 학습…국내 초거대 AI 중 가장 우수 ‘상위 1% 수준의 전문가‘…영어·한국어 구사하는 이중 언어 AI",
+		"newsContent": "LG그룹이 사람의 뇌와 닮은 초거대 AI(인공지능) '엑사원(EXAONE)'을 공개했다.\n스스로 학습하고 인간처럼 사고하는 초거대 AI는 고객가치 혁신과 삶의 질 향상이라는 구광모 회장의 경영 철학을 실현하는 데 중요하다.\nLG그룹은 주요 계열사를 비롯해 사실상 모든 산업 분야에서 초거대 AI를 활용하기로 했다.\n이를 위해 외부 협력을 바탕으로 초거대 AI 생태계를 조성할 계획이다.\nLG AI연구원은 14일 설립 1주년을 맞아 온라인으로 진행한 'LG AI 토크 콘서트'에서 엑사원을 공개하고 주요 연구 성과와 향후 계획을 밝혔다.\n엑사원은 'EXpert Ai for everyONE'의 축약어로 '인간을 위한 전문가 AI'를 의미한다. 'EX'는 '전문가'라는 뜻 외에 10의 18승 즉, 100경(京)을 뜻하는 접두어 'EXA'의 의미를 갖고 있다.\n인류가 지금까지 사용한 모든 단어를 데이터로 저장한다고 가정할 때 그 양이 5엑사바이트(Exabyte)일 만큼 매우 큰 단위이기 때문에 초거대 AI의 규모를 가늠할 수 있도록 EX를 사용했다는 설명이다.\nLG는 지난해 AI의 새로운 패러다임으로 부상하고 있는 초거대 AI를 개발하겠다는 구상을 밝히며 전담 조직인 AI연구원을 세웠다.\nLG그룹 관계자는 데일리임팩트에 \\\"엑사원이 개발되기까지는 1년 정도 걸렸다\\\"며 \\\"지난해 말 AI연구원이 출범해서 기존에 연구하던 과제들을 발전시켜 초거대 AI를 개발했다\\\"고 설명했다.\n초거대 AI는 인간의 뇌 구조를 닮은 AI다.\n대용량의 연산이 가능한 컴퓨팅 인프라를 기반으로 대규모 데이터를 스스로 학습해 인간처럼 사고·학습·판단할 수 있다.\n특정 용도에 국한되지 않고 다양한 분야에서 활용이 가능하다.\n초거대 AI는 인간 뇌에서 뉴런을 연결해 정보를 학습·기억하는 역할을 담당하는 시냅스와 유사한 파라미터(매개변수)를 갖고 있는데, 이 파라미터 규모가 커질수록 AI 지능이 높아진다.\nAI연구원은 지난 5월부터는 파라미터를 13억개, 130억개, 390억개, 1750억개 등 단계적으로 키우며 연구해왔다.\n이날 공개한 액사원은 국내 최대인 약 3000억개의 파라미터를 보유하고 있으며, 언어뿐 아니라 이미지와 영상에 이르기까지 인간의 의사 소통과 관련된 다양한 정보를 습득하고 다룰 수 있는 멀티 모달리티 능력을 갖췄다.\nLG그룹 관계자는 데일리임팩트에 \\\"이전 AI들은 특정 목적만 수행해낼 수 있었다면 엑사원은 최대한 인간처럼 사고를 할 수 있기 때문에 다양한 분야에 적용이 가능하다\\\"며 \\\"제품가별, 고객 접대 등 다양한 활동에 접목시킬 수 있는 AI\\\"라고 강조했다.\n특히 엑사원은 멀티 모달 AI로 가는 첫 단계로 자체 개발한 알고리즘으로 언어를 이미지로, 이미지를 언어로 변환하는 기술을 구현했을 뿐 아니라 품질 역시 글로벌 최고 수준의 성능을 의미하는 SOTA(State-of-the-art)를 달성했다.\n향후 멀티 모달 AI 기술이 고도화되면 AI가 데이터를 습득해 이해하는 수준을 넘어 추론하고, 시각과 청각 등 다양한 감각 영역을 넘나드는 창조적 생성을 할 수 있다.\n예를 들어, 기존 AI는 텍스트를 분석해 이미지를 찾는 수준이었다면 엑사원은 \\\"호박 모양의 모자를 만들어 줘\\\"라고 말할 시 학습된 정보를 기반으로 스스로 판단해 '호박 모양의 모자' 이미지를 새롭게 만들어 낸다.\nLG관계자는 데일리임팩트에 \\\"엑사원의 창조 기능은 디자이너들이 엑사원이 제안한 제품 후보군들을 통해 영감을 얻어 최종적인 디자인을 완성할 수 있도록 돕고 있다\\\"고 설명했다.\n엑사원을 활용해 실제 고객 경험을 개선해나가고 있다.\n메타버스 공간에서 크리스마스 파티를 준비하는 엑사원이 고객이 말하는 의도를 파악해 의상을 직접 만들어 추천하고, 집안의 공간을 꾸미는 식이다.\n이처럼 멀티 모달 AI를 개발하기 위해 LG AI연구원은 세계 최대 규모의 학습 데이터를 활용했다.\n엑사원은 말뭉치 6000억개, 언어와 이미지가 결합되어 있는 고해상도 이미지 2억5000만장 이상을 학습했다.\n여기에 LG전자, LG화학, LG유플러스, LG CNS 등 LG 계열사들이 보유하고 있는 전문 데이터를 포함해 논문, 특허 등의 정제된 말뭉치들을 학습해 다양한 산업 분야에서 활용될 수 있도록 했다.\n무엇보다 기존 초거대 AI보다 한층 진일보됐다는 평가다.\n미국 AI연구소 오픈AI가 개발한 초거대 AI인 GPT-3가 영어를 학습하고, 국내에서 개발 중인 다른 초거대 AI들이 한국어에 집중돼있다.\n자국 언어에 특화된 셈이다.\n이와 달리 엑사원은 원어민 수준으로 한국어와 영어를 이해하고 구사하는 이중 언어 AI다.\nLG AI연구원은 엑사원을 제조, 연구, 교육, 금융 등 사실상 모든 분야에서 '상위 1% 수준의 전문가 AI'로 활약할 수 있도록 만든다는 계획이다.\n이를 위해 LG 계열사와의 협업을 통한 실증, 국내를 포함한 전 세계적 AI 연합 결성 결성 등을 통해 초거대 AI 생태계를 구축하기로 했다.\n우선 엑사원을 사용할 수 있는 통로인 오픈 API를 LG 계열사들에게 공개해 전자·화학·통신 등 LG 사업 전반에 초거대 AI를 적용할 수 있도록 했다.\n각 사는 언어에 내포되어 있는 감정까지 이해하며 인간처럼 자연스럽게 고객과 대화하는 챗봇 고도화, 지난 100년간의 화학 분야 문헌 약 2000만건에 대한 분석과 학습을 통한 신소재·신물질 발굴 등에 엑사원을 실제 적용하고 있다.\n기존 AI는 전공자가 논문이나 특허와 같은 전문 문헌을 직접 읽고 내용을 요약해 데이터 베이스에 입력한 것을 학습해 왔다.\n반면, 언어와 시각을 모두 다룰 수 있는 멀티 모달 AI인 엑사원은 스스로 문헌을 읽고 분석한 뒤, 데이터 베이스를 구축한다.\n엑사원이 데이터를 계속해서 축적하며 학습하는 과정을 통해 연구의 속도는 비약적으로 상승하게 된다.\n이는 고급 인력들이 단순 작업이 아닌 더 가치 있는 일에 시간을 집중할 수 있도록 함과 동시에 인류의 난제를 푸는 실마리를 엑사원이 제공할 수도 있다는 의미다.\nLG그룹 관계자는 데일리임팩트에 \\\"엑사원은 전문가들이 연구 시간을 단축시킬 수 있도록 돕는다\\\"며 \\\"AI가 100%로 연구를 진행하는 것은 아니지만 전문가들이 효율적으로 작업할 수 있도록 도움을 줄 수 있다\\\"고 말했다.\nAI연구원은 금융, 패션, 유통, 교육 등 다양한 글로벌 파트너사와 함께 연합을 결성해 초거대 AI 활용 영역을 넓혀 나갈 계획이다.\n이와 관련, 'EXAONE-Tuning(엑사원-튜닝)'이라는 알고리즘도 자체적으로 개발해 데이터 보안 문제를 해결하기로 했다.\nAI연구원은 궁극적으로 초거대 AI를 일부 기업이 독점하는 것이 아니라, 일반 대중까지 공개하는 대중화를 통한 상생 환경 구축 방안도 검토 중이다.\n한편, LG AI연구원은 이날 행사에서 지난해 12월 출범 이후 1년간의 성과들도 공개했다.\n연구 분야에서는 '최적 경로 강화 학습', '작곡 하는 AI' 등 올해에만 18건의 논문이 AAAI, CVPR, ICLR, NeurlPS 등 세계 최고 권위의 인공지능 학회에서 채택되는 성과를 거뒀다.\n또한 LG 계열사들의 AI 조직과 협력해 사업 기여도와 난이도가 높은 산업 과제를 해결하는 데 AI를 도입했다.\n올해는 '맞춤형 항암 치료제 개발을 위한 신항원 예측 모델 개발', '세계 최고 수준의 기계 독해(MRC) 기술을 적용한 챗봇 개발', '비지도 학습 방식의 품질 검사 AI 세계 최초 상용화' 등 18건의 난제를 해결했으며, 내년에는 25건 이상의 난제 해결을 목표로 하고 있다.\n배경훈 AI연구원장은 \\\"어려운 난제를 해결하기 위해 끊임없이 도전하고, 우수한 연구 성과를 바탕으로 고객에게 꼭 필요한 전문가 AI를 만드는 연구원이 되고자 한다\\\"며 \\\"캐나다 토론토대, 미국 미시건대, 서울대, 카이스트 등 국내외 주요 대학 및 석학들과 연구개발 연계 체계를 더욱 강화하고, 향후 API 공개 및 외부 파트너십을 통해 집단 지성으로 글로벌 초거대 AI 생태계를 만드는 데 기여할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 46,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG그룹이 사람의 뇌와 닮은 초거대 AI(인공지능) '엑사원(EXAONE)'을 공개했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스스로 학습하고 인간처럼 사고하는 초거대 AI는 고객가치 혁신과 삶의 질 향상이라는 구광모 회장의 경영 철학을 실현하는 데 중요하다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LG그룹은 주요 계열사를 비롯해 사실상 모든 산업 분야에서 초거대 AI를 활용하기로 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 위해 외부 협력을 바탕으로 초거대 AI 생태계를 조성할 계획이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG AI연구원은 14일 설립 1주년을 맞아 온라인으로 진행한 'LG AI 토크 콘서트'에서 엑사원을 공개하고 주요 연구 성과와 향후 계획을 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "엑사원은 'EXpert Ai for everyONE'의 축약어로 '인간을 위한 전문가 AI'를 의미한다. 'EX'는 '전문가'라는 뜻 외에 10의 18승 즉, 100경(京)을 뜻하는 접두어 'EXA'의 의미를 갖고 있다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인류가 지금까지 사용한 모든 단어를 데이터로 저장한다고 가정할 때 그 양이 5엑사바이트(Exabyte)일 만큼 매우 큰 단위이기 때문에 초거대 AI의 규모를 가늠할 수 있도록 EX를 사용했다는 설명이다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "LG는 지난해 AI의 새로운 패러다임으로 부상하고 있는 초거대 AI를 개발하겠다는 구상을 밝히며 전담 조직인 AI연구원을 세웠다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "LG그룹 관계자는 데일리임팩트에 \\\"엑사원이 개발되기까지는 1년 정도 걸렸다\\\"며 \\\"지난해 말 AI연구원이 출범해서 기존에 연구하던 과제들을 발전시켜 초거대 AI를 개발했다\\\"고 설명했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "초거대 AI는 인간의 뇌 구조를 닮은 AI다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "대용량의 연산이 가능한 컴퓨팅 인프라를 기반으로 대규모 데이터를 스스로 학습해 인간처럼 사고·학습·판단할 수 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "특정 용도에 국한되지 않고 다양한 분야에서 활용이 가능하다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "초거대 AI는 인간 뇌에서 뉴런을 연결해 정보를 학습·기억하는 역할을 담당하는 시냅스와 유사한 파라미터(매개변수)를 갖고 있는데, 이 파라미터 규모가 커질수록 AI 지능이 높아진다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "AI연구원은 지난 5월부터는 파라미터를 13억개, 130억개, 390억개, 1750억개 등 단계적으로 키우며 연구해왔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이날 공개한 액사원은 국내 최대인 약 3000억개의 파라미터를 보유하고 있으며, 언어뿐 아니라 이미지와 영상에 이르기까지 인간의 의사 소통과 관련된 다양한 정보를 습득하고 다룰 수 있는 멀티 모달리티 능력을 갖췄다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "LG그룹 관계자는 데일리임팩트에 \\\"이전 AI들은 특정 목적만 수행해낼 수 있었다면 엑사원은 최대한 인간처럼 사고를 할 수 있기 때문에 다양한 분야에 적용이 가능하다\\\"며 \\\"제품가별, 고객 접대 등 다양한 활동에 접목시킬 수 있는 AI\\\"라고 강조했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "특히 엑사원은 멀티 모달 AI로 가는 첫 단계로 자체 개발한 알고리즘으로 언어를 이미지로, 이미지를 언어로 변환하는 기술을 구현했을 뿐 아니라 품질 역시 글로벌 최고 수준의 성능을 의미하는 SOTA(State-of-the-art)를 달성했다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "향후 멀티 모달 AI 기술이 고도화되면 AI가 데이터를 습득해 이해하는 수준을 넘어 추론하고, 시각과 청각 등 다양한 감각 영역을 넘나드는 창조적 생성을 할 수 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "예를 들어, 기존 AI는 텍스트를 분석해 이미지를 찾는 수준이었다면 엑사원은 \\\"호박 모양의 모자를 만들어 줘\\\"라고 말할 시 학습된 정보를 기반으로 스스로 판단해 '호박 모양의 모자' 이미지를 새롭게 만들어 낸다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "LG관계자는 데일리임팩트에 \\\"엑사원의 창조 기능은 디자이너들이 엑사원이 제안한 제품 후보군들을 통해 영감을 얻어 최종적인 디자인을 완성할 수 있도록 돕고 있다\\\"고 설명했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "엑사원을 활용해 실제 고객 경험을 개선해나가고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "메타버스 공간에서 크리스마스 파티를 준비하는 엑사원이 고객이 말하는 의도를 파악해 의상을 직접 만들어 추천하고, 집안의 공간을 꾸미는 식이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이처럼 멀티 모달 AI를 개발하기 위해 LG AI연구원은 세계 최대 규모의 학습 데이터를 활용했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "엑사원은 말뭉치 6000억개, 언어와 이미지가 결합되어 있는 고해상도 이미지 2억5000만장 이상을 학습했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "여기에 LG전자, LG화학, LG유플러스, LG CNS 등 LG 계열사들이 보유하고 있는 전문 데이터를 포함해 논문, 특허 등의 정제된 말뭉치들을 학습해 다양한 산업 분야에서 활용될 수 있도록 했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "무엇보다 기존 초거대 AI보다 한층 진일보됐다는 평가다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "미국 AI연구소 오픈AI가 개발한 초거대 AI인 GPT-3가 영어를 학습하고, 국내에서 개발 중인 다른 초거대 AI들이 한국어에 집중돼있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "자국 언어에 특화된 셈이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "이와 달리 엑사원은 원어민 수준으로 한국어와 영어를 이해하고 구사하는 이중 언어 AI다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "LG AI연구원은 엑사원을 제조, 연구, 교육, 금융 등 사실상 모든 분야에서 '상위 1% 수준의 전문가 AI'로 활약할 수 있도록 만든다는 계획이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "이를 위해 LG 계열사와의 협업을 통한 실증, 국내를 포함한 전 세계적 AI 연합 결성 결성 등을 통해 초거대 AI 생태계를 구축하기로 했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "우선 엑사원을 사용할 수 있는 통로인 오픈 API를 LG 계열사들에게 공개해 전자·화학·통신 등 LG 사업 전반에 초거대 AI를 적용할 수 있도록 했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "각 사는 언어에 내포되어 있는 감정까지 이해하며 인간처럼 자연스럽게 고객과 대화하는 챗봇 고도화, 지난 100년간의 화학 분야 문헌 약 2000만건에 대한 분석과 학습을 통한 신소재·신물질 발굴 등에 엑사원을 실제 적용하고 있다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "기존 AI는 전공자가 논문이나 특허와 같은 전문 문헌을 직접 읽고 내용을 요약해 데이터 베이스에 입력한 것을 학습해 왔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "반면, 언어와 시각을 모두 다룰 수 있는 멀티 모달 AI인 엑사원은 스스로 문헌을 읽고 분석한 뒤, 데이터 베이스를 구축한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "엑사원이 데이터를 계속해서 축적하며 학습하는 과정을 통해 연구의 속도는 비약적으로 상승하게 된다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 37,
+				"sentenceContent": "이는 고급 인력들이 단순 작업이 아닌 더 가치 있는 일에 시간을 집중할 수 있도록 함과 동시에 인류의 난제를 푸는 실마리를 엑사원이 제공할 수도 있다는 의미다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 38,
+				"sentenceContent": "LG그룹 관계자는 데일리임팩트에 \\\"엑사원은 전문가들이 연구 시간을 단축시킬 수 있도록 돕는다\\\"며 \\\"AI가 100%로 연구를 진행하는 것은 아니지만 전문가들이 효율적으로 작업할 수 있도록 도움을 줄 수 있다\\\"고 말했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 39,
+				"sentenceContent": "AI연구원은 금융, 패션, 유통, 교육 등 다양한 글로벌 파트너사와 함께 연합을 결성해 초거대 AI 활용 영역을 넓혀 나갈 계획이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 40,
+				"sentenceContent": "이와 관련, 'EXAONE-Tuning(엑사원-튜닝)'이라는 알고리즘도 자체적으로 개발해 데이터 보안 문제를 해결하기로 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 41,
+				"sentenceContent": "AI연구원은 궁극적으로 초거대 AI를 일부 기업이 독점하는 것이 아니라, 일반 대중까지 공개하는 대중화를 통한 상생 환경 구축 방안도 검토 중이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 42,
+				"sentenceContent": "한편, LG AI연구원은 이날 행사에서 지난해 12월 출범 이후 1년간의 성과들도 공개했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 43,
+				"sentenceContent": "연구 분야에서는 '최적 경로 강화 학습', '작곡 하는 AI' 등 올해에만 18건의 논문이 AAAI, CVPR, ICLR, NeurlPS 등 세계 최고 권위의 인공지능 학회에서 채택되는 성과를 거뒀다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 44,
+				"sentenceContent": "또한 LG 계열사들의 AI 조직과 협력해 사업 기여도와 난이도가 높은 산업 과제를 해결하는 데 AI를 도입했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 45,
+				"sentenceContent": "올해는 '맞춤형 항암 치료제 개발을 위한 신항원 예측 모델 개발', '세계 최고 수준의 기계 독해(MRC) 기술을 적용한 챗봇 개발', '비지도 학습 방식의 품질 검사 AI 세계 최초 상용화' 등 18건의 난제를 해결했으며, 내년에는 25건 이상의 난제 해결을 목표로 하고 있다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 46,
+				"sentenceContent": "배경훈 AI연구원장은 \\\"어려운 난제를 해결하기 위해 끊임없이 도전하고, 우수한 연구 성과를 바탕으로 고객에게 꼭 필요한 전문가 AI를 만드는 연구원이 되고자 한다\\\"며 \\\"캐나다 토론토대, 미국 미시건대, 서울대, 카이스트 등 국내외 주요 대학 및 석학들과 연구개발 연계 체계를 더욱 강화하고, 향후 API 공개 및 외부 파트너십을 통해 집단 지성으로 글로벌 초거대 AI 생태계를 만드는 데 기여할 것\\\"이라고 말했다.",
+				"sentenceSize": 235
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국 철도기술 세계에 전파한다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 37,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 38,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 39,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 40,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 41,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 42,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 43,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 44,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 45,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 46,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

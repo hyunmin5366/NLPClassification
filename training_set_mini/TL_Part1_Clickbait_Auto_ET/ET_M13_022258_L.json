@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_022258",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "검찰 ‘오토바이 뺑소니 혐의’ 김흥국 약식기소",
+		"newsSubTitle": "",
+		"newsContent": "운전 중 오토바이를 친 뒤 현장 수습 없이 달아난 혐의를 받는 가수 김흥국이 검찰에 약식기소 됐다.\n5일 법조계에 따르면 서울서부지검은 지난 3일 특정범죄 가중처벌 등에 관한 법률상 도주치상과 도로교통법 위반(사고 후 미조치) 혐의로 김흥국을 약식기소했다.\n약식기소는 징역형·금고형보다 벌금형이 적절하다고 판단할 때 정식 재판에 회부하지 않고 서면 심리로 약식명령을 청구하는 절차다.\n앞서 김흥국은 지난 4월 24일 오전 11시 20분께 용산구 이촌동 사거리에서 스포츠유틸리티차량(SUV)을 운전하던 중 신호를 어기고 불법 좌회전을 하며 오토바이를 들이받은 뒤 도주한 혐의를 받는다.\n이 사고로 오토바이 운전자는 다리를 다친 것으로 알려졌다.\n사고 후 김흥국 측이 공개한 차량 블랙박스 영상으로 인해 진위 논란이 일기도 했다.\n하지만 경찰은 블랙박스와 현장 폐쇄회로TV(CCTV), 목격자 진술, 피해자 병원 진료 내용 등을 분석한 결과 김흥국의 혐의가 성립한다고 판단, 지난 6월 사건을 검찰에 송치했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "운전 중 오토바이를 친 뒤 현장 수습 없이 달아난 혐의를 받는 가수 김흥국이 검찰에 약식기소 됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 법조계에 따르면 서울서부지검은 지난 3일 특정범죄 가중처벌 등에 관한 법률상 도주치상과 도로교통법 위반(사고 후 미조치) 혐의로 김흥국을 약식기소했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "약식기소는 징역형·금고형보다 벌금형이 적절하다고 판단할 때 정식 재판에 회부하지 않고 서면 심리로 약식명령을 청구하는 절차다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 김흥국은 지난 4월 24일 오전 11시 20분께 용산구 이촌동 사거리에서 스포츠유틸리티차량(SUV)을 운전하던 중 신호를 어기고 불법 좌회전을 하며 오토바이를 들이받은 뒤 도주한 혐의를 받는다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 사고로 오토바이 운전자는 다리를 다친 것으로 알려졌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사고 후 김흥국 측이 공개한 차량 블랙박스 영상으로 인해 진위 논란이 일기도 했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 경찰은 블랙박스와 현장 폐쇄회로TV(CCTV), 목격자 진술, 피해자 병원 진료 내용 등을 분석한 결과 김흥국의 혐의가 성립한다고 판단, 지난 6월 사건을 검찰에 송치했다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엔하이픈 제이, 코로나19 재확진",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

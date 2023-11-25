@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329494",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[제7회 대한민국 SW제품 품질대상]우수상-아이도트 '써비레이'",
+		"newsSubTitle": "",
+		"newsContent": "아이도트는 머신러닝 기반 자궁경부암 인공지능(AI) 솔루션 '써비레이'를 출시했다.\n아이도트는 자체 개발한 AI 알고리즘을 개선할 때마다 한국정보통신기술협회(TTA)를 통해 소프트웨어(SW) 품질을 평가해 민감도 93%, 특이도 89% 우수한 품질을 인정받은 바 있다.\n이를 기반으로 국내 GMP 3등급 인증을 획득했고 KFDA 3등급 인증을 위해 임상계획서를 정식 접수해 인증절차에 들어갔다.\n아이도트는 국내 의료재단과 상호 사업협력 계약을 체결 완료했다.\n내년 초 식약처 인증이 완료되는 대로 도입 의향을 밝힌 1차 병원에 곧바로 적용할 계획이다.\n아이도트는 글로벌 시장에 적극적인 마케팅을 진행한 결과 인도와 남미등에 추가 계약을 체결했다.\n특히 서울시와 코트라(KOTRA)에서 진행하는 '바이오 헬스 월드와이드 온라인 2020' 프로그램에 선정돼 총 17개 국가별 파트너와 집중적으로 컨퍼런스를 진행한 결과 가시적인 진출 성과를 달성했다.\n또 정보통신산업진흥원(NIPA) 특화된 해외진출 프로그램을 통해 이미 진출한 베트남 국가 헬스케어 기업 관심이 높아 공동 연구와 본 계약을 추가로 진행했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이도트는 머신러닝 기반 자궁경부암 인공지능(AI) 솔루션 '써비레이'를 출시했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이도트는 자체 개발한 AI 알고리즘을 개선할 때마다 한국정보통신기술협회(TTA)를 통해 소프트웨어(SW) 품질을 평가해 민감도 93%, 특이도 89% 우수한 품질을 인정받은 바 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이를 기반으로 국내 GMP 3등급 인증을 획득했고 KFDA 3등급 인증을 위해 임상계획서를 정식 접수해 인증절차에 들어갔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이도트는 국내 의료재단과 상호 사업협력 계약을 체결 완료했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "내년 초 식약처 인증이 완료되는 대로 도입 의향을 밝힌 1차 병원에 곧바로 적용할 계획이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이도트는 글로벌 시장에 적극적인 마케팅을 진행한 결과 인도와 남미등에 추가 계약을 체결했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 서울시와 코트라(KOTRA)에서 진행하는 '바이오 헬스 월드와이드 온라인 2020' 프로그램에 선정돼 총 17개 국가별 파트너와 집중적으로 컨퍼런스를 진행한 결과 가시적인 진출 성과를 달성했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 정보통신산업진흥원(NIPA) 특화된 해외진출 프로그램을 통해 이미 진출한 베트남 국가 헬스케어 기업 관심이 높아 공동 연구와 본 계약을 추가로 진행했다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[제7회 대한민국 SW제품 품질대상]우수상-아이도트 '써비레이'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

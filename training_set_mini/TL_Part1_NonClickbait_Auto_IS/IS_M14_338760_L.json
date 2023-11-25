@@ -1,0 +1,249 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338760",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "삼성 '갤노트9'에도 SLP 도입...LG 'G8' 도입 추진",
+		"newsSubTitle": "LG도 내년 전략 스마트폰 'G8'에 탑재 계획",
+		"newsContent": "삼성전자가 갤럭시S9 시리즈에 이어 갤럭시노트9(가칭)에도 차세대 메인 기판 SLP를 도입한다.\nLG전자는 내년 상반기 전략 스마트폰을 타깃으로 SLP를 준비하고 있는 것으로 파악됐다.\n스마트폰 메인 기판 시장이 기존 고밀도다층기판(HDI)에서 SLP로 전환될 전망이다.\n2일 업계에 따르면 삼성전자는 갤럭시노트9에 SLP를 탑재한다.\n삼성은 갤럭시S9과 같이 애플리케이션프로세스(AP)에 따라 SLP와 HDI를 혼용할 방침인 것으로 파악됐다.\n갤럭시S9에서 SLP 비중은 전체 물량의 약 60%를 차지했다. 'Substrate Like PCB'의 약자인 SLP는 반도체 기판 제조에 쓰던 'MSAP(Modified Semi Additive Process)' 공법을 '고밀도다층기판(HDI)'에 접목한 것이다.\n반도체 기판을 닮았다 해서 SLP라는 용어가 붙었다.\n최근 스마트폰은 공간 활용도를 끌어올리는 게 과제다.\n배터리를 최대한 크게 만들어서 스마트폰을 오래 쓸 수 있게 하고, 여러 고성능 부품을 탑재하려면 공간 확보가 필요하다.\nSLP는 작은 기판 위에 회로를 더 많이 구현할 수 있는 강점이 부각되고 있다.\n스마트폰 메인 기판은 얇은 기판을 12층으로 쌓아 올린 구조다.\n각층의 회로 구현에는 텐팅 공법이 쓰였다.\n이 기술로 구현할 수 있는 회로 선폭과 간격은 각각 30마이크로미터(㎛), 40마이크로미터(㎛)다.\nSLP는 12층 가운데 2개층이나 4개층을 MSAP로 구현한다. 2개층 또는 4개층 회로를 전보다 더 얇게 만드는 것이다.\n전문가에 따르면 MSAP 공법으로 가능한 선폭과 간격은 30/30㎛이며, 최대 20/20㎛까지 구현할 수 있다.\n삼성전자가 갤럭시S9에 처음으로 SLP를 도입키로 하면서 협력사인 삼성전기, 코리아써키트, 대덕GDS, 이수엑사보드 등은 지난해 설비 투자를 단행했다.\nS9에 이어 노트9까지 SLP 적용이 확대되면 향후 이들 협력사의 SLP 공급량이 늘어날 것으로 전망된다.\n사업 규모를 확대할 수 있는 기회가 된다.\n삼성에 이어 LG전자도 내년에 SLP를 도입할 계획이어서 SLP 시장은 더 확대될 전망이다.\nLG전자는 내년 상반기에 출시할 전략 스마트폰 적용이 목표인 것으로 알려졌다.\nLG전자의 첫 SLP 탑재 스마트폰은 G7의 차기작 G8(가칭)이 될 것으로 예상된다.\nLG전자 협력사인 LG이노텍은 최근 SLP 개발 내용을 PCB 전시회에서 공개, 눈길을 끌었다.\n비록 실물은 외부에 보여 주지 않았지만 LG이노텍은 MSAP 공법으로 30/30㎛를 구현할 수 있다고 설명했다.\n국내 양대 스마트폰 제조사인 삼성전자와 LG전자의 SLP 확대 도입으로 기존 스마트폰 메인보드 시장은 변화를 맞을 것으로 보인다.\nSLP 기술을 보유한 곳은 기회가 되지만 준비가 되지 않은 PCB 제조사는 도태될 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 25,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 갤럭시S9 시리즈에 이어 갤럭시노트9(가칭)에도 차세대 메인 기판 SLP를 도입한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG전자는 내년 상반기 전략 스마트폰을 타깃으로 SLP를 준비하고 있는 것으로 파악됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스마트폰 메인 기판 시장이 기존 고밀도다층기판(HDI)에서 SLP로 전환될 전망이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2일 업계에 따르면 삼성전자는 갤럭시노트9에 SLP를 탑재한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성은 갤럭시S9과 같이 애플리케이션프로세스(AP)에 따라 SLP와 HDI를 혼용할 방침인 것으로 파악됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "갤럭시S9에서 SLP 비중은 전체 물량의 약 60%를 차지했다. 'Substrate Like PCB'의 약자인 SLP는 반도체 기판 제조에 쓰던 'MSAP(Modified Semi Additive Process)' 공법을 '고밀도다층기판(HDI)'에 접목한 것이다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "반도체 기판을 닮았다 해서 SLP라는 용어가 붙었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근 스마트폰은 공간 활용도를 끌어올리는 게 과제다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "배터리를 최대한 크게 만들어서 스마트폰을 오래 쓸 수 있게 하고, 여러 고성능 부품을 탑재하려면 공간 확보가 필요하다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "SLP는 작은 기판 위에 회로를 더 많이 구현할 수 있는 강점이 부각되고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "스마트폰 메인 기판은 얇은 기판을 12층으로 쌓아 올린 구조다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "각층의 회로 구현에는 텐팅 공법이 쓰였다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이 기술로 구현할 수 있는 회로 선폭과 간격은 각각 30마이크로미터(㎛), 40마이크로미터(㎛)다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "SLP는 12층 가운데 2개층이나 4개층을 MSAP로 구현한다. 2개층 또는 4개층 회로를 전보다 더 얇게 만드는 것이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "전문가에 따르면 MSAP 공법으로 가능한 선폭과 간격은 30/30㎛이며, 최대 20/20㎛까지 구현할 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "삼성전자가 갤럭시S9에 처음으로 SLP를 도입키로 하면서 협력사인 삼성전기, 코리아써키트, 대덕GDS, 이수엑사보드 등은 지난해 설비 투자를 단행했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "S9에 이어 노트9까지 SLP 적용이 확대되면 향후 이들 협력사의 SLP 공급량이 늘어날 것으로 전망된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "사업 규모를 확대할 수 있는 기회가 된다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "삼성에 이어 LG전자도 내년에 SLP를 도입할 계획이어서 SLP 시장은 더 확대될 전망이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "LG전자는 내년 상반기에 출시할 전략 스마트폰 적용이 목표인 것으로 알려졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "LG전자의 첫 SLP 탑재 스마트폰은 G7의 차기작 G8(가칭)이 될 것으로 예상된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "LG전자 협력사인 LG이노텍은 최근 SLP 개발 내용을 PCB 전시회에서 공개, 눈길을 끌었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "비록 실물은 외부에 보여 주지 않았지만 LG이노텍은 MSAP 공법으로 30/30㎛를 구현할 수 있다고 설명했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "국내 양대 스마트폰 제조사인 삼성전자와 LG전자의 SLP 확대 도입으로 기존 스마트폰 메인보드 시장은 변화를 맞을 것으로 보인다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "SLP 기술을 보유한 곳은 기회가 되지만 준비가 되지 않은 PCB 제조사는 도태될 수 있다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성 '갤노트9'에도 SLP 도입...LG 'G8' 도입 추진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

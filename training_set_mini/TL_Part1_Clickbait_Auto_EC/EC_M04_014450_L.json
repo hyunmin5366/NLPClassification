@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014450",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "실손보험 중복가입 확인하세요",
+		"newsSubTitle": "",
+		"newsContent": "실손의료보험을 중복으로 가입한 사례가 23만건을 넘는 것으로 나타났다.\n금융감독원은 2일 2009년 10월 이후 판매된 실손의료보험 중 중복계약 건수가 지난 4월 말 현재 23만2874건으로 파악됐다고 밝혔다.\n중복계약 건수는 손해보험사 약 16만5192건, 생보사 2만9378건, 공제사 3만8304건이다.\n이달 중순부터 보험사들은 한 달간 금융소비자에게 중복 계약 사실을 통보할 예정이다.\n나중에 가입한 보험사가 계약자에게 우편 또는 전자메일로 안내장을 발송하게 된다.\n중복가입 사실을 통보받은 사람은 계약해지를 요청할 수 있다.\n불완전판매 사실이 확인되면 이미 납입한 보험료를 모두 환급받을 수 있다.\n금융권 관계자들은 실손의료보험은 한 개만 유지하는 게 바람직하다고 조언한다.\n중복 가입자는 보험료를 2배 더 내는 대신 자기부담금 10%를 내지 않는 것이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "실손의료보험을 중복으로 가입한 사례가 23만건을 넘는 것으로 나타났다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융감독원은 2일 2009년 10월 이후 판매된 실손의료보험 중 중복계약 건수가 지난 4월 말 현재 23만2874건으로 파악됐다고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "중복계약 건수는 손해보험사 약 16만5192건, 생보사 2만9378건, 공제사 3만8304건이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이달 중순부터 보험사들은 한 달간 금융소비자에게 중복 계약 사실을 통보할 예정이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "나중에 가입한 보험사가 계약자에게 우편 또는 전자메일로 안내장을 발송하게 된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중복가입 사실을 통보받은 사람은 계약해지를 요청할 수 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "불완전판매 사실이 확인되면 이미 납입한 보험료를 모두 환급받을 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "금융권 관계자들은 실손의료보험은 한 개만 유지하는 게 바람직하다고 조언한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "중복 가입자는 보험료를 2배 더 내는 대신 자기부담금 10%를 내지 않는 것이다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "통신료 '찔끔 인하'… 소비자 '싸늘'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

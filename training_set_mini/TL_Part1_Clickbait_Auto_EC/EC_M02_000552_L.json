@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000552",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "쿠팡 2인자, 나비드 베이세 부사장 3월 사임",
+		"newsSubTitle": "",
+		"newsContent": "쿠팡의 나비드 베이세 수석 부사장이 3월 사임한다.\n쿠팡에 따르면, 나비드 베이세 수석수바장은 최근 사임 의사를 밝혔고 오는 3월 쿠팡과의 계약이 종료된다.\n쿠팡 관계자는 30일 미디어SR에 \\\"3년 정도 일하셨고 작년에 투자를 받아 회사가 어느 정도 궤도에 올라왔다고 판단한 상태에서 그런 판단을 내리셨다. 결코 갑작스러운 결정은 아니고 얼마전부터 내부적으로 논의를 거친 결론이다\\\"라고 전했다.\n쿠팡 측은 일각에서 제기된 김범석 대표와의 불화설에 대해서는 일축했다.\n미국 최대 전자상거래 업체, 아마존에서 글로벌 총괄 역을 역임한 바 있는 나비드 베이세는 지난 2016년 2월 쿠팡에 합류했다.\n쿠팡은 나비드 베이세 외에도 다수의 외국인 경영진을 기용했고, 이는 글로벌 전자상거래 업체로의 도약으로 읽혀지기도 했다.\n하지만 2015년 3월 영입됐던 헨리 로 COO가 2년여 만인 지난 2017년 쿠팡을 떠난 바 있으며, 이후 헨리 로 COO의 후임으로 합류한 프랑스인 앙드레 뽈 클레잉도 1년도 채 안돼 쿠팡을 떠났다.\n이들 모두 아마존 출신이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "쿠팡의 나비드 베이세 수석 부사장이 3월 사임한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "쿠팡에 따르면, 나비드 베이세 수석수바장은 최근 사임 의사를 밝혔고 오는 3월 쿠팡과의 계약이 종료된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "쿠팡 관계자는 30일 미디어SR에 \\\"3년 정도 일하셨고 작년에 투자를 받아 회사가 어느 정도 궤도에 올라왔다고 판단한 상태에서 그런 판단을 내리셨다. 결코 갑작스러운 결정은 아니고 얼마전부터 내부적으로 논의를 거친 결론이다\\\"라고 전했다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "쿠팡 측은 일각에서 제기된 김범석 대표와의 불화설에 대해서는 일축했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미국 최대 전자상거래 업체, 아마존에서 글로벌 총괄 역을 역임한 바 있는 나비드 베이세는 지난 2016년 2월 쿠팡에 합류했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "쿠팡은 나비드 베이세 외에도 다수의 외국인 경영진을 기용했고, 이는 글로벌 전자상거래 업체로의 도약으로 읽혀지기도 했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 2015년 3월 영입됐던 헨리 로 COO가 2년여 만인 지난 2017년 쿠팡을 떠난 바 있으며, 이후 헨리 로 COO의 후임으로 합류한 프랑스인 앙드레 뽈 클레잉도 1년도 채 안돼 쿠팡을 떠났다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이들 모두 아마존 출신이다.",
+				"sentenceSize": 15
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 대청공영·충남 현대스틸 1위",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

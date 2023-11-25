@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_033903",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "태연이 갑자기 SNS 댓글기능 중지한 까닭",
+		"newsSubTitle": "",
+		"newsContent": "가수 태연이 소셜네트워크서비스(SNS) 댓글 기능을 차단해 팬들의 관심을 끌었다.\n11일 태연의 인스타그램 속 게시물에는 댓글 기능 해제에 따라 댓글을 달 수 없는 상태다.\n한 네티즌의 주장에 따르면 태연이 갑작스럽게 댓글 기능을 중지한 까닭은 일부 중국 네티즌의 악성 댓글 때문이었다.\n앞서 태연은 자신의 SNS에 \\\"너 오늘 왜 이렇게 맛있냐\\\"라며 사탕 껍질을 촬영한 사진을 게재했다.\n해당 제품은 최근 고고도미사일방어체계(THAAD·사드) 부지 제공으로 중국의 반감을 사고 있는 기업의 것으로 알려졌다.\n이를 본 몇몇 중국 네티즌이 항의하는 댓글을 남겼고, 악성 댓글이 이어지자 태연은 해당 게시물을 삭제하고 이 같은 조처를 한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 태연이 소셜네트워크서비스(SNS) 댓글 기능을 차단해 팬들의 관심을 끌었다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 태연의 인스타그램 속 게시물에는 댓글 기능 해제에 따라 댓글을 달 수 없는 상태다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한 네티즌의 주장에 따르면 태연이 갑작스럽게 댓글 기능을 중지한 까닭은 일부 중국 네티즌의 악성 댓글 때문이었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 태연은 자신의 SNS에 \\\"너 오늘 왜 이렇게 맛있냐\\\"라며 사탕 껍질을 촬영한 사진을 게재했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 제품은 최근 고고도미사일방어체계(THAAD·사드) 부지 제공으로 중국의 반감을 사고 있는 기업의 것으로 알려졌다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 본 몇몇 중국 네티즌이 항의하는 댓글을 남겼고, 악성 댓글이 이어지자 태연은 해당 게시물을 삭제하고 이 같은 조처를 한 것으로 알려졌다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘인간실격’ 전도연×류준열, 서로를 향한 이끌림",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

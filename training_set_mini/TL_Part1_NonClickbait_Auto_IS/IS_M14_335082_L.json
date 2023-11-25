@@ -1,0 +1,267 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335082",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[이슈분석]SW 공급망 보안은 어떻게?",
+		"newsSubTitle": "",
+		"newsContent": "공급망 보안은 개발사, 공급사, 기관 등 소프트웨어(SW) 개발에서 도입까지 전 단계에 걸쳐 고려해야 하는 문제다.\nSW 공급망은 수많은 구성원으로 이뤄진다.\n공급망 환경에서는 특정 제품이나 서비스가 누구의 손을 거쳤는지 확인해야 한다.\nSW 개발부터 공급, 도입에 이르는 전 단계가 관리돼야 공급망 공격 피해를 최소화할 수 있다.\n첫 단계는 안전한 SW 개발이다.\n개발 회사는 시큐어코딩을 한다.\nSW 개발 과정에서 개발자의 실수나 논리 오류로 나타나는 취약점을 최소화한다.\n해킹과 보안 위협에 대응하는 안전한 SW를 개발하는 과정이다.\n개발 환경 보안도 필수다.\n최근 공급망 해킹 사례는 개발사의 허술한 보안 체계에서 비롯된 사례도 많다.\n특히 기업 내에서 주로 이용하는 백신, 네트워크접근제어(NAC), 자산관리시스템, PC보안솔루션, 그룹웨어 등 중앙 관리형 SW 개발사의 보안 강화가 시급하다.\n공격자는 주로 중앙 관리형 SW 개발사를 해킹한다.\n중앙 관리형 SW에 악성코드를 숨기면 다수의 PC를 한꺼번에 감염시킬 수 있다.\n공급업체는 SW를 사용자에게 전달하는 방법과 운송 중에 공격자가 악성코드를 투입할 가능성을 면밀히 검토한다.\nSW 약점을 관리하고 공급망에서 SW 생명 주기 관련 품질을 보증한다.\n공급망 안에서 SW 품질을 보증하려면 검증 프로세스가 진행돼야 한다.\n검증 프로세스는 SW가 요구 사항에 맞게 설계되고 개발됐는지 시험, 검토, 분석하는 과정이다.\n개발사가 SW를 단계마다 검증했다 하더라도 공급자 구간에서 검증과 추적이 이뤄지지 않으면 안전성을 담보할 수 없다.\n개발자와 공급자의 모든 프로세스에서 검증과 추적 상황을 확보해야 한다.\n최종 수요 기관은 SW 도입 시 해당 제품에 문제가 없는지 철저히 검수한다.\n외부 인력 관리와 위탁 용역의 보안을 강화한다.\n이를 통해 안전한 SW와 공급망 생태계를 만든다.\n한국인터넷진흥원이 발간한 '상용 및 공개 SW 도입 시 보안성 점검 동향 조사연구'에 따르면 공급망 보안 위험 확인은 개시, 개발, 변경, 배포, 운영, 유지, 폐기 등 인수 생명 주기 모든 단계에서 이뤄져야 한다.\n미국 기술표준원(NIST)은 공공기관 등이 활용하는 공급망위험관리(SCRM) 가이드라인을 만들었다.\n공공기관이 SW 등을 도입할 때 반드시 SCRM을 지키게 한다.\n한근희 고려대 교수는 \\\"SW 공급망 보증의 의미는 단순한 통관 제도 강화 이상\\\"이라면서 \\\"이란 스턱스넷 공격에서 보듯 국가 안보에 영향을 미치는 사안\\\"이라고 강조했다.\n한 교수는 \\\"미국은 2013년 국방수권법에 국방 공급자의 책임과 공급망 보안을 규정했다\\\"면서 \\\"국내에서는 최소한 국방과 군수 등 중요 시설에 대한 공급망 보안이 시급하다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 27,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "공급망 보안은 개발사, 공급사, 기관 등 소프트웨어(SW) 개발에서 도입까지 전 단계에 걸쳐 고려해야 하는 문제다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SW 공급망은 수많은 구성원으로 이뤄진다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공급망 환경에서는 특정 제품이나 서비스가 누구의 손을 거쳤는지 확인해야 한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SW 개발부터 공급, 도입에 이르는 전 단계가 관리돼야 공급망 공격 피해를 최소화할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "첫 단계는 안전한 SW 개발이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "개발 회사는 시큐어코딩을 한다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SW 개발 과정에서 개발자의 실수나 논리 오류로 나타나는 취약점을 최소화한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해킹과 보안 위협에 대응하는 안전한 SW를 개발하는 과정이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "개발 환경 보안도 필수다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "최근 공급망 해킹 사례는 개발사의 허술한 보안 체계에서 비롯된 사례도 많다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "특히 기업 내에서 주로 이용하는 백신, 네트워크접근제어(NAC), 자산관리시스템, PC보안솔루션, 그룹웨어 등 중앙 관리형 SW 개발사의 보안 강화가 시급하다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "공격자는 주로 중앙 관리형 SW 개발사를 해킹한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "중앙 관리형 SW에 악성코드를 숨기면 다수의 PC를 한꺼번에 감염시킬 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "공급업체는 SW를 사용자에게 전달하는 방법과 운송 중에 공격자가 악성코드를 투입할 가능성을 면밀히 검토한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "SW 약점을 관리하고 공급망에서 SW 생명 주기 관련 품질을 보증한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "공급망 안에서 SW 품질을 보증하려면 검증 프로세스가 진행돼야 한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "검증 프로세스는 SW가 요구 사항에 맞게 설계되고 개발됐는지 시험, 검토, 분석하는 과정이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "개발사가 SW를 단계마다 검증했다 하더라도 공급자 구간에서 검증과 추적이 이뤄지지 않으면 안전성을 담보할 수 없다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "개발자와 공급자의 모든 프로세스에서 검증과 추적 상황을 확보해야 한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "최종 수요 기관은 SW 도입 시 해당 제품에 문제가 없는지 철저히 검수한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "외부 인력 관리와 위탁 용역의 보안을 강화한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이를 통해 안전한 SW와 공급망 생태계를 만든다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "한국인터넷진흥원이 발간한 '상용 및 공개 SW 도입 시 보안성 점검 동향 조사연구'에 따르면 공급망 보안 위험 확인은 개시, 개발, 변경, 배포, 운영, 유지, 폐기 등 인수 생명 주기 모든 단계에서 이뤄져야 한다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "미국 기술표준원(NIST)은 공공기관 등이 활용하는 공급망위험관리(SCRM) 가이드라인을 만들었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "공공기관이 SW 등을 도입할 때 반드시 SCRM을 지키게 한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "한근희 고려대 교수는 \\\"SW 공급망 보증의 의미는 단순한 통관 제도 강화 이상\\\"이라면서 \\\"이란 스턱스넷 공격에서 보듯 국가 안보에 영향을 미치는 사안\\\"이라고 강조했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "한 교수는 \\\"미국은 2013년 국방수권법에 국방 공급자의 책임과 공급망 보안을 규정했다\\\"면서 \\\"국내에서는 최소한 국방과 군수 등 중요 시설에 대한 공급망 보안이 시급하다\\\"고 덧붙였다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]SW 공급망 보안은 어떻게?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

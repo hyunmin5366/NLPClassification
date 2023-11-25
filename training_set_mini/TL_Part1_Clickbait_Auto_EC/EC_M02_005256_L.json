@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005256",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "현대차 3월 판매, 반도체 수급난에 전년 대비 17%↓",
+		"newsSubTitle": "글로벌 시장서 총 31만3926대 판매",
+		"newsContent": "현대자동차가 반도체 수급 영향 등으로 지난 3월 판매실적에서 다소 부진한 성적을 거두었다.\n현대차는 지난달 국내 5만2883대, 해외 26만1043대 등 글로벌 총 31만3926대를 판매했다고 1일 밝혔다.\n이는 지난해 동월과 비교해 17% 줄어든 수치다.\n국내 판매는 28.4%, 해외 판매는 14.3% 모두 감소했다.\n국내 시장에서 세단은 그랜저가 6663대, 쏘나타 4317대, 아반떼 3892대 등 총 1만4902대가 팔렸다.\nRV는 팰리세이드 4501대, 싼타페 1860대, 투싼 2740대, 아이오닉5 3208대, 캐스퍼 3725대 등 총 1만7911대가 팔렸다.\n포터는 4708대, 스타리아는 2096대 판매를 기록했다.\n중대형 버스와 트럭은 2435대 판매됐다.\n프리미엄 브랜드 제네시스는 G80 3967대, GV80 1959대, GV70 1907대, GV60 685대 등 총 1만831대가 팔렸다.\n현대차 관계자는 데일리임팩트에 \\\"반도체 부품 수급 부족으로 인한 생산 차질 및 오미크론 확산 등 경영 불확실성이 지속되는 상황에도 차량 생산 일정 조정 등을 통해 공급 지연 영향을 최소화할 것\\\"이라고 밝혔다.\n이 관게자는 이어 \\\"이번 달부터 GV70 전동화 모델을 본격 판매하는 등 경쟁력 있는 신차를 지속 출시하고 내실 있는 판매 전략을 펼쳐 시장 점유율 확대 및 수익성 강화를 추진하겠다\\\"라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차가 반도체 수급 영향 등으로 지난 3월 판매실적에서 다소 부진한 성적을 거두었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대차는 지난달 국내 5만2883대, 해외 26만1043대 등 글로벌 총 31만3926대를 판매했다고 1일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난해 동월과 비교해 17% 줄어든 수치다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국내 판매는 28.4%, 해외 판매는 14.3% 모두 감소했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국내 시장에서 세단은 그랜저가 6663대, 쏘나타 4317대, 아반떼 3892대 등 총 1만4902대가 팔렸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "RV는 팰리세이드 4501대, 싼타페 1860대, 투싼 2740대, 아이오닉5 3208대, 캐스퍼 3725대 등 총 1만7911대가 팔렸다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "포터는 4708대, 스타리아는 2096대 판매를 기록했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "중대형 버스와 트럭은 2435대 판매됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "프리미엄 브랜드 제네시스는 G80 3967대, GV80 1959대, GV70 1907대, GV60 685대 등 총 1만831대가 팔렸다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "현대차 관계자는 데일리임팩트에 \\\"반도체 부품 수급 부족으로 인한 생산 차질 및 오미크론 확산 등 경영 불확실성이 지속되는 상황에도 차량 생산 일정 조정 등을 통해 공급 지연 영향을 최소화할 것\\\"이라고 밝혔다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이 관게자는 이어 \\\"이번 달부터 GV70 전동화 모델을 본격 판매하는 등 경쟁력 있는 신차를 지속 출시하고 내실 있는 판매 전략을 펼쳐 시장 점유율 확대 및 수익성 강화를 추진하겠다\\\"라고 덧붙였다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하나·외환 '통합임박' 22일 예비인가 가닥",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

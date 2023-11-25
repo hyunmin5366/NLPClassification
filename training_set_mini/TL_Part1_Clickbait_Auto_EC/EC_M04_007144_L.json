@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007144",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "세계 첫 원음수준 전화기 개발",
+		"newsSubTitle": "",
+		"newsContent": "한국전자통신연구원(ETRI)은 원음 수준의 통화품질을 제공할 수 있는 '유무선 고품질 인터넷전화 단말기'를 세계 최초로 개발했다고 10일 밝혔다.\n이번에 개발된 단말기는 현재의 유선전화와 인터넷전화 등이 300~3400㎐의 정보만을 제한적으로 처리하고 나머지는 버리는 방식과 다르다.\n이 단말기는 사람의 음성정보인 50~7000㎐의 정보를 모두 처리해 원음 수준의 통화가 가능하다고 전자통신연 측은 설명했다.\n또한 ITU-T G.711.1 광대역 코덱기술을 적용해 세계적으로 가장 많이 사용중인 G.711 코덱이 적용된 모든 단말기와 호환되며 또 다른 광대역 코덱에 비해서 상당히 짧은 지연시간(5ms)과 적은 계산량 및 메모리를 요구해 적은 비용으로 서비스를 제공할 수 있다.\nETRI는 070 인터넷전화 서비스 품질을 획기적으로 향상시킬 수 있어 급속한 국내외 보급이 이뤄질 것으로 내다보는 동시에 미국, 일본 등과의 인터넷전화 기술경쟁에서 앞서나갈 수 있을 것으로 기대하고 있다.\n전자통신연 관계자는 “늦어도 올해 안에 국내 서비스에 도입될 것으로 예상되며 최근 급속도로 확산되고 있는 스마트폰에서도 서비스가 가능한 기술을 개발중”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 원음 수준의 통화품질을 제공할 수 있는 '유무선 고품질 인터넷전화 단말기'를 세계 최초로 개발했다고 10일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번에 개발된 단말기는 현재의 유선전화와 인터넷전화 등이 300~3400㎐의 정보만을 제한적으로 처리하고 나머지는 버리는 방식과 다르다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 단말기는 사람의 음성정보인 50~7000㎐의 정보를 모두 처리해 원음 수준의 통화가 가능하다고 전자통신연 측은 설명했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 ITU-T G.711.1 광대역 코덱기술을 적용해 세계적으로 가장 많이 사용중인 G.711 코덱이 적용된 모든 단말기와 호환되며 또 다른 광대역 코덱에 비해서 상당히 짧은 지연시간(5ms)과 적은 계산량 및 메모리를 요구해 적은 비용으로 서비스를 제공할 수 있다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ETRI는 070 인터넷전화 서비스 품질을 획기적으로 향상시킬 수 있어 급속한 국내외 보급이 이뤄질 것으로 내다보는 동시에 미국, 일본 등과의 인터넷전화 기술경쟁에서 앞서나갈 수 있을 것으로 기대하고 있다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전자통신연 관계자는 “늦어도 올해 안에 국내 서비스에 도입될 것으로 예상되며 최근 급속도로 확산되고 있는 스마트폰에서도 서비스가 가능한 기술을 개발중”이라고 말했다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK에코플랜트, 한강변 소규모 재건축 수주…하반기 마수걸이",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351316",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "\\\"최신 클라우드형 솔루션 한 자리에\\\"...SKC&C, 컨퍼런스 개최",
+		"newsSubTitle": "null",
+		"newsContent": "SK(주) C&C가 오는 1일 클라우드형 인공지능(AI), 데이터, 블록체인 플랫폼, 솔루션 기술 등을 소개하는 컨퍼런스를 진행한다고 30일 밝혔다.\n컨퍼런스의 키노트 스피치에는 글로벌 데이터 클라우드 기업인 스노우플레이크의 경영진 베놔 다쥬빌(Benoil Dageville), 존 로버슨(Jon Robertson), 앨런 엘드리지(Alan Eldridge) 등이 참석해 클라우드 AI·데이터 플랫폼의 미래에 대해 강연한다.\n또 이기열 SK C&C 디지털플랫폼총괄과 프로덕트 별 전문가들이 '클라우드 온 클라우드'라는 주제로 SK C&C의 클라우드형 디지털 플랫폼을 소개한다.\n아울러 AI 플랫폼과 데이터 플랫폼, 블록체인 플랫폼 등 사업군 별 플랫폼 모델도 소개한다.\nAI 플랫폼 세션에서는 AI 자연어처리와 비전 AI, 인사이트 AI 가 금융과 제조, 유통 등 산업에서 이뤄낸 혁신 사례 등을 소개한다.\n데이터 플랫폼 세션에서는 데이터 큐레이션 서비스인 '아큐레이터(AccuRator)'와 데이터 전처리, 모델링 분석을 담당하는 '아큐인사이트 플러스' 등을 선보인다.\n이외에 SK C&C의 산업별 전문 플랫폼과 솔루션을 확인해볼 수 있는 세션도 마련된다.\n이기열 SK C&C 디지털플랫폼총괄은 \\\"이번 컨퍼런스를 통해 디지털 생태계가 만들어낸 산업의 디지털 혁신 성과와 기술 진화를 살펴보고 자신에게 맞는 최적의 디지털 혁신 모델을 찾는 계기가 되길 바란다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK(주) C&C가 오는 1일 클라우드형 인공지능(AI), 데이터, 블록체인 플랫폼, 솔루션 기술 등을 소개하는 컨퍼런스를 진행한다고 30일 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "컨퍼런스의 키노트 스피치에는 글로벌 데이터 클라우드 기업인 스노우플레이크의 경영진 베놔 다쥬빌(Benoil Dageville), 존 로버슨(Jon Robertson), 앨런 엘드리지(Alan Eldridge) 등이 참석해 클라우드 AI·데이터 플랫폼의 미래에 대해 강연한다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 이기열 SK C&C 디지털플랫폼총괄과 프로덕트 별 전문가들이 '클라우드 온 클라우드'라는 주제로 SK C&C의 클라우드형 디지털 플랫폼을 소개한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아울러 AI 플랫폼과 데이터 플랫폼, 블록체인 플랫폼 등 사업군 별 플랫폼 모델도 소개한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "AI 플랫폼 세션에서는 AI 자연어처리와 비전 AI, 인사이트 AI 가 금융과 제조, 유통 등 산업에서 이뤄낸 혁신 사례 등을 소개한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "데이터 플랫폼 세션에서는 데이터 큐레이션 서비스인 '아큐레이터(AccuRator)'와 데이터 전처리, 모델링 분석을 담당하는 '아큐인사이트 플러스' 등을 선보인다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이외에 SK C&C의 산업별 전문 플랫폼과 솔루션을 확인해볼 수 있는 세션도 마련된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이기열 SK C&C 디지털플랫폼총괄은 \\\"이번 컨퍼런스를 통해 디지털 생태계가 만들어낸 산업의 디지털 혁신 성과와 기술 진화를 살펴보고 자신에게 맞는 최적의 디지털 혁신 모델을 찾는 계기가 되길 바란다\\\"고 말했다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"최신 클라우드형 솔루션 한 자리에\\\"...SKC&C, 컨퍼런스 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

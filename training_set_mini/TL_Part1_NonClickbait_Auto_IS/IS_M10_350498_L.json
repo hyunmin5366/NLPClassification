@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350498",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "잇따른 北 추정 해킹 공격 \\\"통일부 사칭 메일 주의해야\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "이스트시큐리티가 국내에서 북한 해킹조직인 '김수키(또는 탈륨)' 소행으로 추정되는 해킹 공격이 이어지고 있다며 주의를 당부했다.\n25일 이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 최근 통일부와 통일연구원을 사칭한 이메일 해킹 공격 사례가 국내에서 발견됐다.\n이번 공격은 일반 이메일 공격처럼 첨부파일을 열어보도록 유도하는 방식이 아닌 악성 URL 링크를 메일 본문에 삽입한 것이 특징이다.\n실제 이메일 본문에는 통일부나 통일연구원에서 공식 발행한 것처럼 교묘하게 도용된 화면을 활용했다.\n본문의 링크를 클릭하면 문서 대신 이메일 계정 암호 입력창이 뜬다.\n여기에 비밀번호를 입력하면 이메일 정보가 해커에게 전송된다.\n해커는 이메일 계정정보 탈취는 물론, 이메일 주소록에 등록된 이들에게 해킹메일을 보내는 2차 피해도 가할 수 있게 된다.\nESRC는 \\\"백신 등 보안 솔루션의 위협탐지 기능을 우회하기 위해 일부러 별도의 악성파일을 사용하지 않고 URL 링크를 삽입한 것으로 보인다\\\"며 \\\" 이용자가 자신의 정보가 유출된 사실을 알지 못하도록 정상적인 문서가 보이도록 눈속임을 했다\\\"고 분석했다.\nESRC는 이메일 전송지를 역추적한 결과, 지난 18일 국가안보전략연구원을 사칭한 공격과 지난 21일 한국인터넷진흥원(KISA) 사칭 공격 당시 사용한 거점이라는 점을 확인했다.\nESRC는 분석결과를 바탕으로 북한 해킹조직 김수키를 이번 공격의 배후로 지목했다.\nESRC는 \\\"이메일 내 문서가 공식 홈페이지에도 실제 있는 문서인지 꼼꼼히 살펴보는 등 세심한 주의가 필요하다\\\"며 \\\"이번에 발견된 통일부 등의 문서화면을 본 적이 있다면, 사용 중인 이메일 암호를 빨리 변경하고 2차 보안인증을 설정해야 한다\\\"고 당부했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이스트시큐리티가 국내에서 북한 해킹조직인 '김수키(또는 탈륨)' 소행으로 추정되는 해킹 공격이 이어지고 있다며 주의를 당부했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 최근 통일부와 통일연구원을 사칭한 이메일 해킹 공격 사례가 국내에서 발견됐다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 공격은 일반 이메일 공격처럼 첨부파일을 열어보도록 유도하는 방식이 아닌 악성 URL 링크를 메일 본문에 삽입한 것이 특징이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "실제 이메일 본문에는 통일부나 통일연구원에서 공식 발행한 것처럼 교묘하게 도용된 화면을 활용했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "본문의 링크를 클릭하면 문서 대신 이메일 계정 암호 입력창이 뜬다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "여기에 비밀번호를 입력하면 이메일 정보가 해커에게 전송된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해커는 이메일 계정정보 탈취는 물론, 이메일 주소록에 등록된 이들에게 해킹메일을 보내는 2차 피해도 가할 수 있게 된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "ESRC는 \\\"백신 등 보안 솔루션의 위협탐지 기능을 우회하기 위해 일부러 별도의 악성파일을 사용하지 않고 URL 링크를 삽입한 것으로 보인다\\\"며 \\\" 이용자가 자신의 정보가 유출된 사실을 알지 못하도록 정상적인 문서가 보이도록 눈속임을 했다\\\"고 분석했다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "ESRC는 이메일 전송지를 역추적한 결과, 지난 18일 국가안보전략연구원을 사칭한 공격과 지난 21일 한국인터넷진흥원(KISA) 사칭 공격 당시 사용한 거점이라는 점을 확인했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "ESRC는 분석결과를 바탕으로 북한 해킹조직 김수키를 이번 공격의 배후로 지목했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ESRC는 \\\"이메일 내 문서가 공식 홈페이지에도 실제 있는 문서인지 꼼꼼히 살펴보는 등 세심한 주의가 필요하다\\\"며 \\\"이번에 발견된 통일부 등의 문서화면을 본 적이 있다면, 사용 중인 이메일 암호를 빨리 변경하고 2차 보안인증을 설정해야 한다\\\"고 당부했다.",
+				"sentenceSize": 146
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "잇따른 北 추정 해킹 공격 \\\"통일부 사칭 메일 주의해야\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

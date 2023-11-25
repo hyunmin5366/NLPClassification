@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336232",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "LG유플러스, 재난망 출사표",
+		"newsSubTitle": "",
+		"newsContent": "LG유플러스가 국가재난안전통신망(이하 재난망) 사업에 도전한다. 6일 행정안전부에 따르면 '2018년 평창 동계올림픽 안전 지원을 위한 재난안전통신망 보강 사업'에 SK텔레콤과 KT, LG유플러스가 제안서를 제출했다.\n재작년 시범사업에 참여하지 않았던 LG유플러스가 재난망 사업에 도전장을 냈다.\nLG유플러스 관계자는 “재난망 사업 참여를 계기로 향후 다른 재난망 관련 사업에도 참여를 검토할 것”이라고 말했다.\nLG유플러스는 재난망(PS-LTE)뿐만 철도망(LTE-R), 해상망(LTE-M) 등 LTE-X 사업에 잇달아 나서고 있다.\n내년 재난망 본사업이 시작되고 매년 수백억원 규모 LTE-R 발주가 예상돼 수주 기회가 상당할 것으로 예상하기 때문이다.\n한편 평창 동계올림픽 재난망 보강사업은 올림픽에서 우리나라 PS-LTE 기술을 알리기 위해 추진된다.\n규모는 크지 않지만 재난망이 상용화된다는 의미다.\n연말까지 추진되며 상용망 연동 검증이 핵심이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스가 국가재난안전통신망(이하 재난망) 사업에 도전한다. 6일 행정안전부에 따르면 '2018년 평창 동계올림픽 안전 지원을 위한 재난안전통신망 보강 사업'에 SK텔레콤과 KT, LG유플러스가 제안서를 제출했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "재작년 시범사업에 참여하지 않았던 LG유플러스가 재난망 사업에 도전장을 냈다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LG유플러스 관계자는 “재난망 사업 참여를 계기로 향후 다른 재난망 관련 사업에도 참여를 검토할 것”이라고 말했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "LG유플러스는 재난망(PS-LTE)뿐만 철도망(LTE-R), 해상망(LTE-M) 등 LTE-X 사업에 잇달아 나서고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "내년 재난망 본사업이 시작되고 매년 수백억원 규모 LTE-R 발주가 예상돼 수주 기회가 상당할 것으로 예상하기 때문이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 평창 동계올림픽 재난망 보강사업은 올림픽에서 우리나라 PS-LTE 기술을 알리기 위해 추진된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "규모는 크지 않지만 재난망이 상용화된다는 의미다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연말까지 추진되며 상용망 연동 검증이 핵심이다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG유플러스, 재난망 출사표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

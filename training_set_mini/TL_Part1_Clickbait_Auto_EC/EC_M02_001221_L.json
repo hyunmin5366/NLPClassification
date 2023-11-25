@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_001221",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "카카오 김범수 의장, 아쇼카 한국에 1만 주 기부",
+		"newsSubTitle": "",
+		"newsContent": "카카오는 19일 김 의장이 카카오 계열사 케이큐브홀딩스를 통해 아쇼카 한국 재단에 주식 1만주를 기부했다고 공시했다.\n아쇼카 한국 재단은 사회의 복잡한 문제를 해결하는 사회혁신가를 지원하는 비영리 재단이다.\n김 의장은 2021년까지 케이큐브홀딩스가 보유한 카카오 지분 2만 주를 아쇼카 한국에 기부할 계획이다.\n이는 카카오 19일 종가 15만6500원을 기준으로, 약 30억원 규모다.\n김 의장은 케이큐브홀딩스 지분 100%를 보유하고 있다.\n김 의장은 2016년부터 2018년에 거쳐 개인이 보유한 카카오 지분 6만 주를 아쇼카 한국과 문화예술사회공헌네트워크에 기부한 바 있다.\n이번에 공시된 기부를 합하면 총 8만 주, 약 100억원을 사회에 환원했다.\n카카오 관계자는 20일 미디어SR에 \\\"평소 교육 생태계 변화를 위해 꾸준히 관심을 가져온 김 의장의 뜻에 따라 기부가 진행된 것으로 알고 있다\\\"며 \\\"케이큐브홀딩스를 통해 올해부터 2021년까지 총 2만 주의 카카오 주식이 기부될 것\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오는 19일 김 의장이 카카오 계열사 케이큐브홀딩스를 통해 아쇼카 한국 재단에 주식 1만주를 기부했다고 공시했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아쇼카 한국 재단은 사회의 복잡한 문제를 해결하는 사회혁신가를 지원하는 비영리 재단이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김 의장은 2021년까지 케이큐브홀딩스가 보유한 카카오 지분 2만 주를 아쇼카 한국에 기부할 계획이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 카카오 19일 종가 15만6500원을 기준으로, 약 30억원 규모다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김 의장은 케이큐브홀딩스 지분 100%를 보유하고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김 의장은 2016년부터 2018년에 거쳐 개인이 보유한 카카오 지분 6만 주를 아쇼카 한국과 문화예술사회공헌네트워크에 기부한 바 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번에 공시된 기부를 합하면 총 8만 주, 약 100억원을 사회에 환원했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카카오 관계자는 20일 미디어SR에 \\\"평소 교육 생태계 변화를 위해 꾸준히 관심을 가져온 김 의장의 뜻에 따라 기부가 진행된 것으로 알고 있다\\\"며 \\\"케이큐브홀딩스를 통해 올해부터 2021년까지 총 2만 주의 카카오 주식이 기부될 것\\\"이라고 밝혔다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[하나로 원자로 내진 설계 대진단]1. 하나로 내진 설계의 진실",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

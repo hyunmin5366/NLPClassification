@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_018300",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "한은 사상 첫 빅스텝...기준금리 0.5%포인트 올려 '2.25%시대'",
+		"newsSubTitle": "",
+		"newsContent": "정부가 기준금리를 한 번에 0.50%포인트 올리는 사상 첫 빅스텝을 밟았다.\n한국은행 금융통화위원회는 13일 기준금리를 1.75%에서 0.50%포인트 올린 2.25%로 인상했다.\n4월과 5월 0.25%포인트씩 두 차례 올린 이후 0.50%포인트 인상하며 사상 첫 3개월 연속 금리 인상과 역사상 첫 빅스텝을 단행했다.\n한은이 기준금리를 인상한 데는 물가상승 압력이 큰 탓이다.\n6월 소비자물가지수는 국제 원자재와 곡물 가격 상승 등의 영향으로 1년 전보다 6.0% 상승했다.\n이는 외환위기 당시인 1998년 11월 6.8%가 오른 이후 23년 7개월만에 가장 높다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부가 기준금리를 한 번에 0.50%포인트 올리는 사상 첫 빅스텝을 밟았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 금융통화위원회는 13일 기준금리를 1.75%에서 0.50%포인트 올린 2.25%로 인상했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "4월과 5월 0.25%포인트씩 두 차례 올린 이후 0.50%포인트 인상하며 사상 첫 3개월 연속 금리 인상과 역사상 첫 빅스텝을 단행했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한은이 기준금리를 인상한 데는 물가상승 압력이 큰 탓이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "6월 소비자물가지수는 국제 원자재와 곡물 가격 상승 등의 영향으로 1년 전보다 6.0% 상승했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는 외환위기 당시인 1998년 11월 6.8%가 오른 이후 23년 7개월만에 가장 높다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'적의 적은 동지' L·A(LG전자·애플) 동맹 강화",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

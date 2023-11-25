@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017967",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "대전 아파트 매매가 상승률 전국 3위",
+		"newsSubTitle": "",
+		"newsContent": "대전의 아파트 매매가 상승세가 이어지고 있다.\n지난주 대비 상승폭이 다소 축소되긴 했으나 상승세를 유지하며 전국에서 세 번째로 높은 상승률을 보였다.\n한국감정원(원장 김학규)이 2020년 11월 5주(11.30일 기준) 전국 주간 아파트 가격 동향을 조사한 결과, 매매가격은 0.24% 상승, 전세가격은 0.29% 상승했다.\n전국 주간 아파트 매매가격은 지난주 대비 상승폭이 확대됐다.\n수도권(0.15%→0.16%), 서울(0.02%→0.03%)은 상승폭 확대, 지방(0.31%→0.31%)은 상승폭을 유지했다.\n시·도별로는 울산(0.83%), 부산(0.50%), 대전(0.40%), 대구(0.36%), 경남(0.34%), 세종(0.27%), 충북(0.27%), 충남(0.25%), 경기(0.24%), 광주(0.18%), 인천(0.13%), 전북(0.12%) 등은 상승했다.\n대전의 경우 각종 정비사업 활성화와 혁신도시 지정, 전세수요의 매매전환 등의 여파로 매매가 상승이 이뤄졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전의 아파트 매매가 상승세가 이어지고 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난주 대비 상승폭이 다소 축소되긴 했으나 상승세를 유지하며 전국에서 세 번째로 높은 상승률을 보였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국감정원(원장 김학규)이 2020년 11월 5주(11.30일 기준) 전국 주간 아파트 가격 동향을 조사한 결과, 매매가격은 0.24% 상승, 전세가격은 0.29% 상승했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전국 주간 아파트 매매가격은 지난주 대비 상승폭이 확대됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "수도권(0.15%→0.16%), 서울(0.02%→0.03%)은 상승폭 확대, 지방(0.31%→0.31%)은 상승폭을 유지했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시·도별로는 울산(0.83%), 부산(0.50%), 대전(0.40%), 대구(0.36%), 경남(0.34%), 세종(0.27%), 충북(0.27%), 충남(0.25%), 경기(0.24%), 광주(0.18%), 인천(0.13%), 전북(0.12%) 등은 상승했다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대전의 경우 각종 정비사업 활성화와 혁신도시 지정, 전세수요의 매매전환 등의 여파로 매매가 상승이 이뤄졌다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "편의점에 밀리고 규제에 막히고…문닫는 SSM",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347124",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "페이스북, 유명인사-팬 소통 서비스 '라이브 동영상' 출시",
+		"newsSubTitle": "null",
+		"newsContent": "페이스북이 유명인사와 팬이 소통할 수 있는 새로운 채널 '라이브 동영상'을 선보인다.\n페이스북은 지난 5일(현지시각) 페이스북 뉴스룸을 통해 라이브 동영상 서비스를 출시한다고 밝혔다.\n페이스북 라이브 동영상은 운동선수나 가수, 정치인과 같은 유명 인사가 페이스북 멘션 앱(애플리케이션)을 통해 자신의 영상을 실시간으로 중계하는 서비스다.\n해당 유명인사의 팬은 페이스북 뉴스피드에서 라이브 동영상을 확인할 수 있다.\n라이브 동영상을 보는 동안 댓글을 남기거나 '좋아요'를 누를 수 있으며 공유도 가능하다.\n뿐만 아니라, 자신의 페이스북 친구들이나 다른 유명 인사가 어떤 라이브 동영상을 보고 있는지도 확인할 수 있다.\n페이스북은 \\\"라이브 동영상은 자신이 좋아하는 유명 인사의 활동을 실시간으로 감상하면서, 댓글을 통해 진솔하게 소통할 수 있는 방법\\\"이라고 설명했다.\n드웨인 존슨, 세레나 윌리엄스, 루크 브라이언, 리카르도 카카, 애슐리 티스데일, 레스터 홀트, 마사 스튜어트, 마이클 부블레와 같은 스타들이 라이브 동영상에 참여할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "페이스북이 유명인사와 팬이 소통할 수 있는 새로운 채널 '라이브 동영상'을 선보인다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "페이스북은 지난 5일(현지시각) 페이스북 뉴스룸을 통해 라이브 동영상 서비스를 출시한다고 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "페이스북 라이브 동영상은 운동선수나 가수, 정치인과 같은 유명 인사가 페이스북 멘션 앱(애플리케이션)을 통해 자신의 영상을 실시간으로 중계하는 서비스다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 유명인사의 팬은 페이스북 뉴스피드에서 라이브 동영상을 확인할 수 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "라이브 동영상을 보는 동안 댓글을 남기거나 '좋아요'를 누를 수 있으며 공유도 가능하다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "뿐만 아니라, 자신의 페이스북 친구들이나 다른 유명 인사가 어떤 라이브 동영상을 보고 있는지도 확인할 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "페이스북은 \\\"라이브 동영상은 자신이 좋아하는 유명 인사의 활동을 실시간으로 감상하면서, 댓글을 통해 진솔하게 소통할 수 있는 방법\\\"이라고 설명했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "드웨인 존슨, 세레나 윌리엄스, 루크 브라이언, 리카르도 카카, 애슐리 티스데일, 레스터 홀트, 마사 스튜어트, 마이클 부블레와 같은 스타들이 라이브 동영상에 참여할 예정이다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "페이스북, 유명인사-팬 소통 서비스 '라이브 동영상' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

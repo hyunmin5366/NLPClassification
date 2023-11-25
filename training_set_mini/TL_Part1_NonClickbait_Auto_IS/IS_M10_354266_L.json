@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354266",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "SK쉴더스 \\\"악성메일 실시간 대응\\\" 서비스 출시",
+		"newsSubTitle": "null",
+		"newsContent": "SK쉴더스가 '인포섹 이메일 보안관제' 서비스를 출시한다고 12일 밝혔다.\n지난 3월 민간 랜섬웨어 협의체 '카라'(Korea Anti-Ransomware Alliance·KARA)를 발족한 SK쉴더스는 이번 서비스를 기반으로 이메일 타깃 랜섬웨어 공격 대응을 강화할 계획이다.\nSK쉴더스 사이버보안 관제센터 '시큐디움 센터' 데이터에 따르면 2021~2022년 침해사고 원인 73%가 이메일을 통한 유입으로 나타났다.\n최근 글로벌 빅테크 기업을 연달아 해킹한 '랩서스'도 기업 임직원 메일을 타깃 삼아 그래픽처리장치(GPU), 소스코드, 직원 이메일 계정 등을 유출했다.\n인포섹 이메일 보안관제 서비스는 △24시간 악성메일 상시모니터링 △악성 공격 패턴 전문가 분석 △악성 메일 모의 훈련 △악성 메일 동향 및 대응방안 등을 제공한다.\n클라우드형(SaaS)과 구축형(On-Premise)형으로 구성돼 고객 환경에 맞게 서비스된다.\n최근 많이 발생하고 있는 업무용 이메일을 사칭하는 공격의 '이메일 발신자 주소' '이메일 내 URL' '발신 IP' '첨부파일 이상 유무' '도메인' 등을 종합 분석해 악성메일 유무를 판단하고 악성코드 전문가가 악성 행위를 상세 분석한다.\n김병무 SK쉴더스 클라우드사업본부장은 \\\"이메일을 타깃으로 한 랜섬웨어 공격이 기하급수적으로 증가하고 있어 기업의 대비가 필수적인 시점\\\"이라며 \\\"상대적으로 보안 여력이 부족한 중소·중견기업에서도 고객 맞춤형 이메일 보안 관제 서비스를 통해 부담은 줄이고 효율은 높일 수 있는 보안 체계를 수립해 나가길 바란다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK쉴더스가 '인포섹 이메일 보안관제' 서비스를 출시한다고 12일 밝혔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 3월 민간 랜섬웨어 협의체 '카라'(Korea Anti-Ransomware Alliance·KARA)를 발족한 SK쉴더스는 이번 서비스를 기반으로 이메일 타깃 랜섬웨어 공격 대응을 강화할 계획이다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SK쉴더스 사이버보안 관제센터 '시큐디움 센터' 데이터에 따르면 2021~2022년 침해사고 원인 73%가 이메일을 통한 유입으로 나타났다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 글로벌 빅테크 기업을 연달아 해킹한 '랩서스'도 기업 임직원 메일을 타깃 삼아 그래픽처리장치(GPU), 소스코드, 직원 이메일 계정 등을 유출했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인포섹 이메일 보안관제 서비스는 △24시간 악성메일 상시모니터링 △악성 공격 패턴 전문가 분석 △악성 메일 모의 훈련 △악성 메일 동향 및 대응방안 등을 제공한다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "클라우드형(SaaS)과 구축형(On-Premise)형으로 구성돼 고객 환경에 맞게 서비스된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근 많이 발생하고 있는 업무용 이메일을 사칭하는 공격의 '이메일 발신자 주소' '이메일 내 URL' '발신 IP' '첨부파일 이상 유무' '도메인' 등을 종합 분석해 악성메일 유무를 판단하고 악성코드 전문가가 악성 행위를 상세 분석한다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김병무 SK쉴더스 클라우드사업본부장은 \\\"이메일을 타깃으로 한 랜섬웨어 공격이 기하급수적으로 증가하고 있어 기업의 대비가 필수적인 시점\\\"이라며 \\\"상대적으로 보안 여력이 부족한 중소·중견기업에서도 고객 맞춤형 이메일 보안 관제 서비스를 통해 부담은 줄이고 효율은 높일 수 있는 보안 체계를 수립해 나가길 바란다\\\"고 말했다.",
+				"sentenceSize": 182
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK쉴더스 \\\"악성메일 실시간 대응\\\" 서비스 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

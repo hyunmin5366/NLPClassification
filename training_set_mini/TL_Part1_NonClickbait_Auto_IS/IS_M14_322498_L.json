@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322498",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]美 국무부·법무부 등, FCC에 중국 차이나텔레콤 퇴출 요구",
+		"newsSubTitle": "",
+		"newsContent": "미국 연방정부 주요 부처와 기관이 중국 차이나텔레콤의 자국 내 사업 허가를 취소할 것을 연방통신위원회(FCC)에 요구했다.\n9일(현지시간) 로이터 등 외신에 따르면 미국 국무부와 법무부, 국토안보부, 상무부, 무역대표부 등은 FCC 공동 서한을 보내 중국 국영통신사 차이나텔레콤의 미국 자회사 승인 취소를 촉구했다.\n법무부는 \\\"FCC가 미국에서 국제 통신 서비스를 제공하는 차이텔레콤 미국법인 허가를 취소할 것을 만장일치로 권고했다\\\"며 \\\"미국 내 차이나텔레콤 사업 운영과 관련해 실질적이고 용납할 수 없는 국가 안보 및 법 집행 위험을 확인했다\\\"고 밝혔다.\n법무부는 차이나텔레콤이 허가를 받을 당시 체결한 안보위협 완화 협정 관련해서도 위반 행위가 발생했다고 지적했다.\n로이터는 주요 부처가 차이나텔레콤에 대한 중국 정부 통제와 영향 가능성을 국가 안보 위협으로 받아들이고 있다고 전했다.\n또 중국 정부기관이 차이나텔레콤을 통해 악의적인 사이버 활동에 참여해 미국 경제에 대한 첩보 활동을 하고 통신망을 교란할 수 있다는 점도 우려사항으로 지목됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 연방정부 주요 부처와 기관이 중국 차이나텔레콤의 자국 내 사업 허가를 취소할 것을 연방통신위원회(FCC)에 요구했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일(현지시간) 로이터 등 외신에 따르면 미국 국무부와 법무부, 국토안보부, 상무부, 무역대표부 등은 FCC 공동 서한을 보내 중국 국영통신사 차이나텔레콤의 미국 자회사 승인 취소를 촉구했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "법무부는 \\\"FCC가 미국에서 국제 통신 서비스를 제공하는 차이텔레콤 미국법인 허가를 취소할 것을 만장일치로 권고했다\\\"며 \\\"미국 내 차이나텔레콤 사업 운영과 관련해 실질적이고 용납할 수 없는 국가 안보 및 법 집행 위험을 확인했다\\\"고 밝혔다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "법무부는 차이나텔레콤이 허가를 받을 당시 체결한 안보위협 완화 협정 관련해서도 위반 행위가 발생했다고 지적했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "로이터는 주요 부처가 차이나텔레콤에 대한 중국 정부 통제와 영향 가능성을 국가 안보 위협으로 받아들이고 있다고 전했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 중국 정부기관이 차이나텔레콤을 통해 악의적인 사이버 활동에 참여해 미국 경제에 대한 첩보 활동을 하고 통신망을 교란할 수 있다는 점도 우려사항으로 지목됐다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]美 국무부·법무부 등, FCC에 중국 차이나텔레콤 퇴출 요구",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

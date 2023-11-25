@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005664",
+		"newsCategory": "경제",
+		"newsSubcategory": "보험",
+		"newsTitle": "교보생명, 디지털 전환 속도…아마존웹서비스와 업무협약",
+		"newsSubTitle": "플랫폼에 클라우드 적용",
+		"newsContent": "교보생명은 디지털 전환을 위해 글로벌 클라우드 선도 기업 아마존웹서비스(이하 AWS) 전략적 업무 협약을 체결했다고 10일 밝혔다.\n이번 협약 체결을 통해 교보생명은 향후 개발하는 디지털 서비스와 플랫폼에 AWS 클라우드 서비스 사용을 활성화할 예정이다.\n데이터 애널리틱스, 기계학습을 포함한 AWS의 첨단 서비스 도입도 적극 검토한다.\n교보생명은 지난해 임직원 대상 빅데이터시스템 '오션'과 인공지능(AI) 기반의 보험 가입심사 서비스 '바로' 등의 핵심 워크로드를 AWS 클라우드로 이전했다.\n이를 통해 서버나 시스템의 제약 없이 고객 서비스를 제공 중이다.\n교보생명 관계자는 데일리임팩트에 \\\"AWS가 제공하는 클라우드로의 전환을 통해 변화와 확장에 용이한 디지털 환경으로 탈바꿈하고 새로운 아이디어를 빠르게 반영해 진정한 고객경험 혁신에 더욱 힘쓸 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "교보생명은 디지털 전환을 위해 글로벌 클라우드 선도 기업 아마존웹서비스(이하 AWS) 전략적 업무 협약을 체결했다고 10일 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 협약 체결을 통해 교보생명은 향후 개발하는 디지털 서비스와 플랫폼에 AWS 클라우드 서비스 사용을 활성화할 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "데이터 애널리틱스, 기계학습을 포함한 AWS의 첨단 서비스 도입도 적극 검토한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "교보생명은 지난해 임직원 대상 빅데이터시스템 '오션'과 인공지능(AI) 기반의 보험 가입심사 서비스 '바로' 등의 핵심 워크로드를 AWS 클라우드로 이전했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 통해 서버나 시스템의 제약 없이 고객 서비스를 제공 중이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "교보생명 관계자는 데일리임팩트에 \\\"AWS가 제공하는 클라우드로의 전환을 통해 변화와 확장에 용이한 디지털 환경으로 탈바꿈하고 새로운 아이디어를 빠르게 반영해 진정한 고객경험 혁신에 더욱 힘쓸 것\\\"이라고 말했다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "추석차례상, 백화점은 사상 최고 전통시장은 상승세 최고",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

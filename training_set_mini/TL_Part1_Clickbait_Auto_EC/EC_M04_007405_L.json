@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007405",
+		"newsCategory": "경제",
+		"newsSubcategory": "취업/창업",
+		"newsTitle": "'경기 회복세' 고용시장 휘파람",
+		"newsSubTitle": "10월 취업자 2417만2천명… 전월비 31만 6천명 늘어",
+		"newsContent": "경기 회복세가 지속됨에 따라 제조업을 중심으로 한 민간 부문의 주도로 취업 시장이 회복세로 돌아섰다.\n10일 통계청이 발표한 10월 고용동향에 따르면 취업자는 2417만2000명으로 전월대비 31만6000명이 증가했다.\n취업자 수 증가폭이 지난 9월에 추석 등 계절적 요인으로 20만명대로 떨어져 고용 회복세가 둔화됐지만 한달만에 30만명대로 회복했다.\n취업자 수 증감을 작년 동월 대비로 보면 지난 3월 26만7000명, 4월 40만1000명, 5월 58만6000명, 6월 31만4000명, 7월 47만3000명, 8월 38만6000명, 9월 24만9000명이었다.\n통계청은 “희망근로 사업의 종료에 따라 공공행정 부문에서 20만7000명이 줄었지만 공공행정 이외 부문에서 52만3000명이 증가해 민간 주도의 취업자 수 증가세가 지속됐다”고 설명했다.\n10월 실업률은 3.3%로 작년 동월보다 0.1%포인트 증가했지만 이는 인구주택총조사원 선발에 따른 일시적 요인이 반영된 것으로 7개월 연속 3%대를 유지했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "경기 회복세가 지속됨에 따라 제조업을 중심으로 한 민간 부문의 주도로 취업 시장이 회복세로 돌아섰다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일 통계청이 발표한 10월 고용동향에 따르면 취업자는 2417만2000명으로 전월대비 31만6000명이 증가했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "취업자 수 증가폭이 지난 9월에 추석 등 계절적 요인으로 20만명대로 떨어져 고용 회복세가 둔화됐지만 한달만에 30만명대로 회복했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "취업자 수 증감을 작년 동월 대비로 보면 지난 3월 26만7000명, 4월 40만1000명, 5월 58만6000명, 6월 31만4000명, 7월 47만3000명, 8월 38만6000명, 9월 24만9000명이었다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "통계청은 “희망근로 사업의 종료에 따라 공공행정 부문에서 20만7000명이 줄었지만 공공행정 이외 부문에서 52만3000명이 증가해 민간 주도의 취업자 수 증가세가 지속됐다”고 설명했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "10월 실업률은 3.3%로 작년 동월보다 0.1%포인트 증가했지만 이는 인구주택총조사원 선발에 따른 일시적 요인이 반영된 것으로 7개월 연속 3%대를 유지했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "부동산 안정화 기류에도 대전 도시정비사업은 '활기'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

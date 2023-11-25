@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323969",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "北 해킹조직 '금성121', 교원 모집 사칭해 대남 사이버공격",
+		"newsSubTitle": "",
+		"newsContent": "북한발 사이버공격이 끊이지 않는다.\n이번에는 교원 모집 공문을 사칭했다.\n북한 사이버위협에 대한 민관 협력과 대응이 절실하다.\n이스트시큐리티 시큐리티대응센터(ESRC)는 해킹조직 '금성121'이 새로운 지능형지속위협(APT) 공격을 수행한다고 경고했다.\nAPT는 공격 대상이 알아차리기 어렵도록 오랜 기간 정교하게 침투하는 전술이다.\n이번에 포착된 공격에는 '워터링 홀' 수법이 쓰였다.\n워터링 홀은 사자가 먹잇감을 습격하기 위해 물 웅덩이 주변에서 매복하는 것을 빗댄 용어다.\n공격 대상이 주로 방문할 만한 웹사이트를 감염시킨 후 기다리는 수법이다. '금성121'은 국내 특정 웹사이트 안내 게시판에 '2020학년도 모집공고역사'라는 제목으로 악성 한글 문서를 올렸다.\n고등학교 역사 교육을 담당할 기간제 교원을 모집하는 내용이다.\n이 문서를 실행하는 이용자는 감염 위험에 노출된다.\n이용자 정보를 해외 클라우드 서버로 은밀하게 전송한다.\n또 추가 악성 파일을 내려받아 원격제어 공격 등으로 이어질 위험도 있다.\n이번 공격에서 '금성121'은 웹 브라우저 취약점을 악용하거나 악성 스크립트를 삽입하지 않았다.\nESRC 측은 '금성121'이 웹 서버에 침투해 정상 문서를 악성으로 바꾼 것인지, 관리자를 해킹해 악성코드를 삽입한 것인지 등은 추가 조사가 필요하다고 설명했다.\nESRC는 지난 수개월 간 국내에서 운영되는 북한 관련 웹사이트 다수에서 이 같은 공격을 다수 발견했다.\n분석 결과 위협 배후는 모두 '금성121'으로 지목됐다.\n악성 문서는 '금성121' 의도에 따라 다양한 형태로 배포됐다.\n악성 문서 등록 경위 등 정확한 침해사고 원인 파악이 되지 않으면 계속 위협에 노출될 가능성이 있다. '금성121'은 북한 정부가 지원하는 해킹조직으로 추정된다.\n첩보 수집이 주 목적이다.\n지난달 국회 사무처를 사칭해 APT 공격을 펼쳤다.\n지난해에는 외교·통일·국방 관련 자유한국당 의원실을 공격하기도 했다.\n문종현 ESRC 센터장은 “'금성121'은 '라자루스', '김수키', '코니'와 함께 한국에 지속적인 사이버 안보 위협을 가하고 있다”면서 “과감하고 노골적인 해킹 작전을 수행, 위협도 갈수록 고도화하는 실정”이라고 우려했다.\n이어 “APT 공격에 대한 체계적인 분석과 연구 노력이 절실하다”면서 “위협 인텔리전스 기반 민관 대응과 협력이 필요하다”고 촉구했다. '라자루스', '김수키', '코니' 역시 북한이 배후로 지목되는 해킹조직이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "북한발 사이버공격이 끊이지 않는다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번에는 교원 모집 공문을 사칭했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "북한 사이버위협에 대한 민관 협력과 대응이 절실하다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이스트시큐리티 시큐리티대응센터(ESRC)는 해킹조직 '금성121'이 새로운 지능형지속위협(APT) 공격을 수행한다고 경고했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "APT는 공격 대상이 알아차리기 어렵도록 오랜 기간 정교하게 침투하는 전술이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번에 포착된 공격에는 '워터링 홀' 수법이 쓰였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "워터링 홀은 사자가 먹잇감을 습격하기 위해 물 웅덩이 주변에서 매복하는 것을 빗댄 용어다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공격 대상이 주로 방문할 만한 웹사이트를 감염시킨 후 기다리는 수법이다. '금성121'은 국내 특정 웹사이트 안내 게시판에 '2020학년도 모집공고역사'라는 제목으로 악성 한글 문서를 올렸다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "고등학교 역사 교육을 담당할 기간제 교원을 모집하는 내용이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 문서를 실행하는 이용자는 감염 위험에 노출된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이용자 정보를 해외 클라우드 서버로 은밀하게 전송한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "또 추가 악성 파일을 내려받아 원격제어 공격 등으로 이어질 위험도 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이번 공격에서 '금성121'은 웹 브라우저 취약점을 악용하거나 악성 스크립트를 삽입하지 않았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "ESRC 측은 '금성121'이 웹 서버에 침투해 정상 문서를 악성으로 바꾼 것인지, 관리자를 해킹해 악성코드를 삽입한 것인지 등은 추가 조사가 필요하다고 설명했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "ESRC는 지난 수개월 간 국내에서 운영되는 북한 관련 웹사이트 다수에서 이 같은 공격을 다수 발견했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "분석 결과 위협 배후는 모두 '금성121'으로 지목됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "악성 문서는 '금성121' 의도에 따라 다양한 형태로 배포됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "악성 문서 등록 경위 등 정확한 침해사고 원인 파악이 되지 않으면 계속 위협에 노출될 가능성이 있다. '금성121'은 북한 정부가 지원하는 해킹조직으로 추정된다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "첩보 수집이 주 목적이다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "지난달 국회 사무처를 사칭해 APT 공격을 펼쳤다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "지난해에는 외교·통일·국방 관련 자유한국당 의원실을 공격하기도 했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "문종현 ESRC 센터장은 “'금성121'은 '라자루스', '김수키', '코니'와 함께 한국에 지속적인 사이버 안보 위협을 가하고 있다”면서 “과감하고 노골적인 해킹 작전을 수행, 위협도 갈수록 고도화하는 실정”이라고 우려했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이어 “APT 공격에 대한 체계적인 분석과 연구 노력이 절실하다”면서 “위협 인텔리전스 기반 민관 대응과 협력이 필요하다”고 촉구했다. '라자루스', '김수키', '코니' 역시 북한이 배후로 지목되는 해킹조직이다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "北 해킹조직 '금성121', 교원 모집 사칭해 대남 사이버공격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

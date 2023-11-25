@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331540",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "게임",
+		"newsTitle": "카카오브레인, AI 기술 상품화···포즈 API 유료로 첫 공개",
+		"newsSubTitle": "",
+		"newsContent": "카카오 인공지능(AI) 연구개발 자회사 카카오브레인이 AI 솔루션을 첫 상품화했다.\n카카오는 카카오브레인 '포즈(pose∙자세분석) API'를 유료 공개한다고 24일 밝혔다.\n카카오브레인이 AI 기술을 유료 API를 공개하는 것은 처음이다.\n공개하자마자 외부 문의가 쇄도한다.\n포즈는 AI 비전(VISION, 영상∙화면분석) 분야 중 하나다.\n카카오브레인 포즈 API는 이미지나 영상을 분석해 사람 자세를 추출하는 기능을 제공한다.\n포즈 API는 특정 이미지 내에서 사람을 찾아 눈, 코, 어깨, 팔꿈치, 손목, 골반, 무릎, 발목 총 17개 키포인트를 추출, 사람 자세를 분석하는 것을 기본 기능으로 제공한다.\n동영상 내에서 시간별로 사람 자세를 분석하는 것도 가능하다.\n해당 기술을 활용하면 홈 트레이닝 서비스에서 사진 속 사용자 자세 교정을 시도하거나, 사진 속 인물과 같은 자세를 취한 캐릭터를 그리는 기능 등을 구현할 수 있다.\n요가나 스포츠 등 난도가 높은 자세 분석, 사진이나 영상 속 인물과 동작 일치 정도를 점수화하거나 부위별 차이를 알려주는 자세 교정 서비스가 가능하다.\n사진이나 영상 속 인물과 같은 자세를 취한 캐릭터 개발, 축구 동영상 속 슈팅과 같은 특정 동작 검색 서비스, 특정 이상 행동을 감지하는 모니터링 등에도 적용할 수 있다.\n카카오VX는 자사 '스마트홈트' 앱에 이 기술을 적용했다.\n사용자 실시간 관절 움직임을 추출해 정교하게 분석 후 올바른 운동 자세를 추천해 주는 용도다.\n카카오 관계자는 \\\"관련 개발자, 스타트업이 원하는 서비스에 손쉽게 활용할 수 있도록 API를 개발했다\\\"면서 \\\"6월 중순 공개 이후 현재 10곳 이상 스타트업 등에서 포즈 API 제휴 문의가 오고 있다\\\"고 말했다.\n카카오브레인은 비전 분야에서 세계 수위권 경쟁력을 가진 것으로 평가받는다.\n특히 '휴먼 포즈 추정' 분야는 선행 연구를 바탕으로 '객체 인식 머신러닝 알고리즘 개발대회(ICCV19 COCO Key Point Challenge)'에서 혁신상을 수상하는 등 능력을 인정받았다.\n카카오브레인은 현재 자연어, 비전 등 다양한 딥러닝 분야를 연구 중이다.\n연구 결과를 외부에서 손쉽게 활용할 수 있도록 API 등 다양한 형태로 계속 개방할 예정이다.\n홍상훈 카카오브레인 휴먼CV 팀장은 \\\"모바일 기기 등 에지 디바이스에서 실시간 자세 분석을 할 수 있도록 개발 중\\\"이라면서 \\\"자세 분석 활용 범위를 넓히기 위한 연구를 지속할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오 인공지능(AI) 연구개발 자회사 카카오브레인이 AI 솔루션을 첫 상품화했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오는 카카오브레인 '포즈(pose∙자세분석) API'를 유료 공개한다고 24일 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카카오브레인이 AI 기술을 유료 API를 공개하는 것은 처음이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개하자마자 외부 문의가 쇄도한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "포즈는 AI 비전(VISION, 영상∙화면분석) 분야 중 하나다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카카오브레인 포즈 API는 이미지나 영상을 분석해 사람 자세를 추출하는 기능을 제공한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "포즈 API는 특정 이미지 내에서 사람을 찾아 눈, 코, 어깨, 팔꿈치, 손목, 골반, 무릎, 발목 총 17개 키포인트를 추출, 사람 자세를 분석하는 것을 기본 기능으로 제공한다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "동영상 내에서 시간별로 사람 자세를 분석하는 것도 가능하다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해당 기술을 활용하면 홈 트레이닝 서비스에서 사진 속 사용자 자세 교정을 시도하거나, 사진 속 인물과 같은 자세를 취한 캐릭터를 그리는 기능 등을 구현할 수 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "요가나 스포츠 등 난도가 높은 자세 분석, 사진이나 영상 속 인물과 동작 일치 정도를 점수화하거나 부위별 차이를 알려주는 자세 교정 서비스가 가능하다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "사진이나 영상 속 인물과 같은 자세를 취한 캐릭터 개발, 축구 동영상 속 슈팅과 같은 특정 동작 검색 서비스, 특정 이상 행동을 감지하는 모니터링 등에도 적용할 수 있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "카카오VX는 자사 '스마트홈트' 앱에 이 기술을 적용했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "사용자 실시간 관절 움직임을 추출해 정교하게 분석 후 올바른 운동 자세를 추천해 주는 용도다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "카카오 관계자는 \\\"관련 개발자, 스타트업이 원하는 서비스에 손쉽게 활용할 수 있도록 API를 개발했다\\\"면서 \\\"6월 중순 공개 이후 현재 10곳 이상 스타트업 등에서 포즈 API 제휴 문의가 오고 있다\\\"고 말했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "카카오브레인은 비전 분야에서 세계 수위권 경쟁력을 가진 것으로 평가받는다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "특히 '휴먼 포즈 추정' 분야는 선행 연구를 바탕으로 '객체 인식 머신러닝 알고리즘 개발대회(ICCV19 COCO Key Point Challenge)'에서 혁신상을 수상하는 등 능력을 인정받았다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "카카오브레인은 현재 자연어, 비전 등 다양한 딥러닝 분야를 연구 중이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "연구 결과를 외부에서 손쉽게 활용할 수 있도록 API 등 다양한 형태로 계속 개방할 예정이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "홍상훈 카카오브레인 휴먼CV 팀장은 \\\"모바일 기기 등 에지 디바이스에서 실시간 자세 분석을 할 수 있도록 개발 중\\\"이라면서 \\\"자세 분석 활용 범위를 넓히기 위한 연구를 지속할 것\\\"이라고 말했다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카카오브레인, AI 기술 상품화···포즈 API 유료로 첫 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

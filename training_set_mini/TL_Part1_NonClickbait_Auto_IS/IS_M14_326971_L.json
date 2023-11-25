@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326971",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW교육",
+		"newsTitle": "[소프트웨어야 놀자]홀짝 게임 만들기",
+		"newsSubTitle": "",
+		"newsContent": "오늘 만들 작품이 있는 페이지에 접속하고(https://goo.gl/FyxHoY) 화면 중앙 시작하기 버튼을 클릭해요.\n게임이 시작되면 귀여운 뱀이 게임에 대해 설명해요.\n그 다음 “짝수일까, 홀수일까?”라는 말과 함께 사용자 대답을 기다려요.\n입력창에 0 혹은 1을 입력해 봐요.\n정답을 맞힌 경우에는 뱀 왼쪽에 있는 금화가 한 개 추가돼요.\n정답을 못 맞힌 경우에는 그대로 게임이 종료돼요.\n게임을 어떻게 만드는지 알아볼까요? [강의 학습하기] 버튼을 클릭해요.\n시작하기 버튼을 클릭하면 뱀이 게임을 설명하도록 해 볼게요. [시작]의 '시작하기 버튼을 클릭했을 때' 블록과 [생김새]의 '∼을(를) ∼초 동안 말하기' 블록을 이용해 뱀에 그림(1)처럼 작성해요.\n게임 진행 횟수를 설정해 볼게요.\n이 게임에서는 총 10번의 게임을 진행해요. [흐름]의 '∼번 반복하기' 블록을 이용해 그림 (2)처럼 작성해 그림(1)에 연결해요.\n사용자가 맞출 임의의 수를 정 하고 짝수인지, 홀수인지 묻게 해 볼게요. '정답'이라는 변수를 만들어요. [자료]의 '변수 ∼를 ∼로 정하기' 블록과 '∼을(를) 묻고 대답 기다리기' 블록을 이용해 그림 (3)처럼 작성해 그림 (2)블록 안에 끼워 넣어요.\n사용자가 입력한 숫자와 '정답' 변수를 2로 나눈 나머지를 비교해요.\n게임을 더 진행할 것인지 종료할 것인지 결정하도록 해볼게요.\n만약 변수에 저장된 값이 짝수라면 2로 나눈 나머지가 0이고, 반대 경우 1이 돼요. [판단]의 크기비교 블록과 [계산]의 나누기 블록을 활용해 그림 (4)처럼 조건 블록을 작성해요.\n그림 (4) 조건을 만족한 경우 축하의 말과 함께 '복제' 신호를 보내요.\n만족하지 못한 경우 게임을 중단하도록 해 볼게요.\n앞에서 작성한 조건 블록과 [흐름]의 '만약 ∼라면 아니면' 블록, [생김새]의 '∼을(를) ∼초 동안 말하기' 블록을 활용해 그림 (5)처럼 작성해요.\n작성한 블록은 게임이 진행되는 동안 반복되도록 그림 (2) '10번 반복하기' 블록 안에 끼워 넣어요.\n마지막으로 복제 신호를 받으면 동전이 복제되도록 해 볼게요. [시작]의 '∼신호를 받았을 때' 블록과 [흐름]의 '∼의 복제본 만들기' 블록을 이용해 동전에 그림 (6)처럼 작성해요.\n게임을 실행해 보면 복제된 동전이 기존 동전과 겹쳐 늘어난 것이 보이지 않아요.\n복제되는 동전 y좌표를 바꿔 문제를 해결해 볼게요. [시작]의 '복제본이 처음 생성되었을 때'블록과 [움직임]의 'y좌표를 ∼만큼 바꾸기' 블록을 활용해 동전에 그림(7)처럼 작성해요.\n게임이 완성됐어요.\n스스로 진행 횟수나 수의 범위를 조절해 더 어려운 게임을 만들어 보세요.\n도움말=송상수 엔트리교육연구소 연구원",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오늘 만들 작품이 있는 페이지에 접속하고(https://goo.gl/FyxHoY) 화면 중앙 시작하기 버튼을 클릭해요.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "게임이 시작되면 귀여운 뱀이 게임에 대해 설명해요.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그 다음 “짝수일까, 홀수일까?”라는 말과 함께 사용자 대답을 기다려요.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "입력창에 0 혹은 1을 입력해 봐요.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정답을 맞힌 경우에는 뱀 왼쪽에 있는 금화가 한 개 추가돼요.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정답을 못 맞힌 경우에는 그대로 게임이 종료돼요.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "게임을 어떻게 만드는지 알아볼까요? [강의 학습하기] 버튼을 클릭해요.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "시작하기 버튼을 클릭하면 뱀이 게임을 설명하도록 해 볼게요. [시작]의 '시작하기 버튼을 클릭했을 때' 블록과 [생김새]의 '∼을(를) ∼초 동안 말하기' 블록을 이용해 뱀에 그림(1)처럼 작성해요.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "게임 진행 횟수를 설정해 볼게요.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 게임에서는 총 10번의 게임을 진행해요. [흐름]의 '∼번 반복하기' 블록을 이용해 그림 (2)처럼 작성해 그림(1)에 연결해요.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "사용자가 맞출 임의의 수를 정 하고 짝수인지, 홀수인지 묻게 해 볼게요. '정답'이라는 변수를 만들어요. [자료]의 '변수 ∼를 ∼로 정하기' 블록과 '∼을(를) 묻고 대답 기다리기' 블록을 이용해 그림 (3)처럼 작성해 그림 (2)블록 안에 끼워 넣어요.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "사용자가 입력한 숫자와 '정답' 변수를 2로 나눈 나머지를 비교해요.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "게임을 더 진행할 것인지 종료할 것인지 결정하도록 해볼게요.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "만약 변수에 저장된 값이 짝수라면 2로 나눈 나머지가 0이고, 반대 경우 1이 돼요. [판단]의 크기비교 블록과 [계산]의 나누기 블록을 활용해 그림 (4)처럼 조건 블록을 작성해요.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "그림 (4) 조건을 만족한 경우 축하의 말과 함께 '복제' 신호를 보내요.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "만족하지 못한 경우 게임을 중단하도록 해 볼게요.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "앞에서 작성한 조건 블록과 [흐름]의 '만약 ∼라면 아니면' 블록, [생김새]의 '∼을(를) ∼초 동안 말하기' 블록을 활용해 그림 (5)처럼 작성해요.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "작성한 블록은 게임이 진행되는 동안 반복되도록 그림 (2) '10번 반복하기' 블록 안에 끼워 넣어요.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "마지막으로 복제 신호를 받으면 동전이 복제되도록 해 볼게요. [시작]의 '∼신호를 받았을 때' 블록과 [흐름]의 '∼의 복제본 만들기' 블록을 이용해 동전에 그림 (6)처럼 작성해요.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "게임을 실행해 보면 복제된 동전이 기존 동전과 겹쳐 늘어난 것이 보이지 않아요.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "복제되는 동전 y좌표를 바꿔 문제를 해결해 볼게요. [시작]의 '복제본이 처음 생성되었을 때'블록과 [움직임]의 'y좌표를 ∼만큼 바꾸기' 블록을 활용해 동전에 그림(7)처럼 작성해요.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "게임이 완성됐어요.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "스스로 진행 횟수나 수의 범위를 조절해 더 어려운 게임을 만들어 보세요.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "도움말=송상수 엔트리교육연구소 연구원",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[소프트웨어야 놀자]홀짝 게임 만들기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

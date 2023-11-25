@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007350",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "한국수자원공사, 스마크워크 시대 개막",
+		"newsSubTitle": "공기업 처음 도입 ... 첨단 인프라 활용 업무 향상",
+		"newsContent": "한국수자원공사(K-water)가 스마트 워크(smart work) 시대 개막을 선언했다.\n수동은 3일 대전 본사에 첨단 정보통신 인프라를 활용한 스마트워크센터를 구축하고 시범운영에 들어갔다고 밝혔다.\n▲ 수자원공사 대전 본사 스마트워크센터에서 현장 직원들과 영상회의를 하는 모습.스마트 워크는 최첨단 정보통신 기술을 활용해 시간과 장소의 제약 없이 언제, 어디서나 업무를 수행토록 하는 새로운 개념의 근무형태다.\n수공은 이를 위해 본사와 교육원(대전 유성구), 수도권본부(과천), 전남본부 등 4곳에 영상회의설비 등이 갖추어진 스마트 워크 센터를 만들어 출장이나 교육 중인 직원도 원격업무를 할 수 있도록 했다.\n또 스마트 워크의 취약점인 정보유출 방지를 위해 자체 웹 하드와 보안 USB를 사용하고, 개인 저장기록 자동소거 S/W를 설치하기도 했다.\n공사 관계자는 “탄력근무제, 근무시간 선택제, 집중근무제 등을 활성화해 집중력을 높일 계획”이라며 “CO2 배출량도 연간 32t 가까이 감소시킬 수 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국수자원공사(K-water)가 스마트 워크(smart work) 시대 개막을 선언했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "수동은 3일 대전 본사에 첨단 정보통신 인프라를 활용한 스마트워크센터를 구축하고 시범운영에 들어갔다고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "▲ 수자원공사 대전 본사 스마트워크센터에서 현장 직원들과 영상회의를 하는 모습.스마트 워크는 최첨단 정보통신 기술을 활용해 시간과 장소의 제약 없이 언제, 어디서나 업무를 수행토록 하는 새로운 개념의 근무형태다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수공은 이를 위해 본사와 교육원(대전 유성구), 수도권본부(과천), 전남본부 등 4곳에 영상회의설비 등이 갖추어진 스마트 워크 센터를 만들어 출장이나 교육 중인 직원도 원격업무를 할 수 있도록 했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 스마트 워크의 취약점인 정보유출 방지를 위해 자체 웹 하드와 보안 USB를 사용하고, 개인 저장기록 자동소거 S/W를 설치하기도 했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공사 관계자는 “탄력근무제, 근무시간 선택제, 집중근무제 등을 활성화해 집중력을 높일 계획”이라며 “CO2 배출량도 연간 32t 가까이 감소시킬 수 있다”고 말했다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서남표 총장 내년 2월 사퇴",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

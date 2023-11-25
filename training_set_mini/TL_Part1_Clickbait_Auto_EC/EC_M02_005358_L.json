@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005358",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "BMW코리아, 이달 한정 에디션 2종 온라인서 선봬",
+		"newsSubTitle": "‘M240i xDrive 쿠페 퍼스트 에디션’과 ‘M135i xDrive 프리즘’ 출시",
+		"newsContent": "BMW코리아가 온라인에서 4월 한정 에디션 2종을 선보인다.\nBMW코리아는 12일 국내 최초로 'M240i xDrive 쿠페 퍼스트 에디션'과 'M135i xDrive 프리즘' 2종을 온라인 판매 채널을 통해 출시했다.\nM240i xDrive 쿠페 퍼스트 에디션은 국내에 처음 소개하는 BMW 뉴 2시리즈 쿠페의 고성능 M 퍼포먼스 모델이다.\nBMW 쿠페 모델 특유의 실루엣과 대담하고 매력적인 '썬더 나이트 메탈릭' 색깔이 조화를 이뤄 한층 역동적이다.\nBMW 샵 온라인을 통해 단 27대만 한정 판매된다.\nM135i xDrive 프리즘은 BMW M의 고성능 컴팩트 해치백 모델 M135i xDrive에 개성 있는 BMW 인디비주얼색을 적용한 모델이다.\n독특하고 대담한 차체 외부의 '시그널 그린' 색상과 사이드 미러 캡, 테일파이프에 적용된 블랙 하이글로스 및 실내에 적용된 검정색이 선명한 대비를 이룬다.\n해당 모델은 단 18대만 한정 판매된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "BMW코리아가 온라인에서 4월 한정 에디션 2종을 선보인다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "BMW코리아는 12일 국내 최초로 'M240i xDrive 쿠페 퍼스트 에디션'과 'M135i xDrive 프리즘' 2종을 온라인 판매 채널을 통해 출시했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "M240i xDrive 쿠페 퍼스트 에디션은 국내에 처음 소개하는 BMW 뉴 2시리즈 쿠페의 고성능 M 퍼포먼스 모델이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "BMW 쿠페 모델 특유의 실루엣과 대담하고 매력적인 '썬더 나이트 메탈릭' 색깔이 조화를 이뤄 한층 역동적이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "BMW 샵 온라인을 통해 단 27대만 한정 판매된다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "M135i xDrive 프리즘은 BMW M의 고성능 컴팩트 해치백 모델 M135i xDrive에 개성 있는 BMW 인디비주얼색을 적용한 모델이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "독특하고 대담한 차체 외부의 '시그널 그린' 색상과 사이드 미러 캡, 테일파이프에 적용된 블랙 하이글로스 및 실내에 적용된 검정색이 선명한 대비를 이룬다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해당 모델은 단 18대만 한정 판매된다.",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "내포상의 설립추진 '본격화'…홍성서 발기인대회",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

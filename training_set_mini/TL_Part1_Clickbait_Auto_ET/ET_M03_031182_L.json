@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_031182",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "K-방역 궁금한 해외시청자…아리랑TV '코로나19 뉴스' 조회수 8100만",
+		"newsSubTitle": "",
+		"newsContent": "아리랑TV가 보도한 신종 코로나바이러스(코로나19) 감염증 뉴스가 8100만 건 넘는 조회 수를 기록했다.\n올해 방송한 전체 뉴스 조회 수 1억 2100건의 약 70%에 해당하는 수치다.\nK팝 스타가 출연한 방송프로그램이 많은 조회 수를 기록한 사례는 있지만, 특정 이슈를 다룬 뉴스가 이처럼 관심받은 건 이례적이다.\n아리랑TV는 현재 질병관리본부·재난안전대책본부의 하루 두 차례 브리핑을 영어 동시통역으로 전하고 있다.\n뉴스 편성도 하루 6~7차례에서 최대 11회까지 확대했다.\n전문가 해설을 곁들인 ‘COVID-19 팬데믹’ 프로그램은 매일 생방송 중이다.\n코로나19 뉴스 중 가장 많은 조회 수를 기록한 것은 \\\"코로나19 바이러스가 중국 우한 수산시장이 아닌 실험실에서 유출됐을 가능성이 있다\\\"는 중국 과학자의 의혹 제기를 다룬 2월 17일 보도였다.\n조회 수 420만 건을 넘어섰고, 댓글이 7500여 개 달렸다.\n아리랑TV 김형곤 편성센터장은 “동아시아 국가 중 한국이 가장 투명하게 코로나19 정보를 공개하고 있다는 해외 시청자의 신뢰가 큰 관심으로 이어지고 있다”며 “한국의 우수한 방역 사례들이 해외 이용자들을 끌어들인 것 같다”고 말했다.\n아리랑TV에 따르면 뉴스의 주요 시청 국가는 미국(27%), 인도(14%), 필리핀(10%), 캐나다(5%), 대한민국(4%)다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아리랑TV가 보도한 신종 코로나바이러스(코로나19) 감염증 뉴스가 8100만 건 넘는 조회 수를 기록했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올해 방송한 전체 뉴스 조회 수 1억 2100건의 약 70%에 해당하는 수치다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "K팝 스타가 출연한 방송프로그램이 많은 조회 수를 기록한 사례는 있지만, 특정 이슈를 다룬 뉴스가 이처럼 관심받은 건 이례적이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아리랑TV는 현재 질병관리본부·재난안전대책본부의 하루 두 차례 브리핑을 영어 동시통역으로 전하고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뉴스 편성도 하루 6~7차례에서 최대 11회까지 확대했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전문가 해설을 곁들인 ‘COVID-19 팬데믹’ 프로그램은 매일 생방송 중이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코로나19 뉴스 중 가장 많은 조회 수를 기록한 것은 \\\"코로나19 바이러스가 중국 우한 수산시장이 아닌 실험실에서 유출됐을 가능성이 있다\\\"는 중국 과학자의 의혹 제기를 다룬 2월 17일 보도였다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "조회 수 420만 건을 넘어섰고, 댓글이 7500여 개 달렸다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "아리랑TV 김형곤 편성센터장은 “동아시아 국가 중 한국이 가장 투명하게 코로나19 정보를 공개하고 있다는 해외 시청자의 신뢰가 큰 관심으로 이어지고 있다”며 “한국의 우수한 방역 사례들이 해외 이용자들을 끌어들인 것 같다”고 말했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "아리랑TV에 따르면 뉴스의 주요 시청 국가는 미국(27%), 인도(14%), 필리핀(10%), 캐나다(5%), 대한민국(4%)다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘군검사 도베르만’ 김우석 첫 빌런, 전작을 지웠다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

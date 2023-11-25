@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338817",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[올해의 인물]박대연 티맥스소프트 CTO",
+		"newsSubTitle": "",
+		"newsContent": "박대연 티맥스소프트 최고기술책임자(CTO)는 올해 국산 운용체계(OS) 출시로 국내시장 외산OS 종속을 타개할 기반을 마련했다.\n미들웨어 '제우스'와 데이터베이스관리시스템(DBMS) '티베로' 출시에 이어 2년 만에 재공개한 '티맥스OS'로 3연타 홈런을 날릴지 주목된다.\n티맥스OS는 리눅스 기반 시스템 커널과 티맥스가 자체 개발한 그래픽 커널과 유저랜드로 구성했다.\n한컴·MS오피스와 호환성 100%를 지향해 시장성을 높였다.\n우정사업본부 인터넷 망분리 사업으로 공공시장 진출도 성공했다.\n티맥스소프트는 내년 상반기 코스닥 상장을 앞두고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박대연 티맥스소프트 최고기술책임자(CTO)는 올해 국산 운용체계(OS) 출시로 국내시장 외산OS 종속을 타개할 기반을 마련했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미들웨어 '제우스'와 데이터베이스관리시스템(DBMS) '티베로' 출시에 이어 2년 만에 재공개한 '티맥스OS'로 3연타 홈런을 날릴지 주목된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "티맥스OS는 리눅스 기반 시스템 커널과 티맥스가 자체 개발한 그래픽 커널과 유저랜드로 구성했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한컴·MS오피스와 호환성 100%를 지향해 시장성을 높였다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우정사업본부 인터넷 망분리 사업으로 공공시장 진출도 성공했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "티맥스소프트는 내년 상반기 코스닥 상장을 앞두고 있다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[올해의 인물]박대연 티맥스소프트 CTO",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

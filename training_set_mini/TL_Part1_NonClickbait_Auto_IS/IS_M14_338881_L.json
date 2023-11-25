@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338881",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[제13회 ICT논문공모대제전]주요 수상작",
+		"newsSubTitle": "",
+		"newsContent": "제13회 ICT논문 공모 대제전 대상으로 선정된 이덕호 학생은 홀로그램 디스플레이 실용화 걸림돌을 참신한 방법으로 극복하고 상용화 가능성도 크다는 평가를 받았다.\n이덕호 학생은 SLM(spatial light modulator) 기반 홀로그램 디스플레이가 갖는 불충분한 시야각(FOV)과 아이박스(eyebox) 크기 문제를 해결하기 위해 상호 결이 맞는 다중 조사 광원 어레이를 포함하는 근안(near-eye) 홀로그램 디스플레이 프로토타입을 제작하고 혼색(crosstalk)이 없는 신호를 생성해 SLM에 사용할 수 있도록 컴퓨터 기반 홀로그램(CGH) 최적화 알고리즘을 새롭게 개발했다.\n제안된 CGH 최적화 알고리즘은 기준광 파면(wavefront)을 실제로 측정하고 이를 반영 실행돼 광수차, 시스템 정렬 오차 및 제조 오차도 어느 정도 허용해 동작할 수 있는 장점을 보였다.\n최우수상을 받은 김성연 학생은 새로운 심층 거리 학습 방법으로 연속 레이블을 최대한 활용하는 새로운 트리플렛(Triplet) 손실 함수와 트리플렛 마이닝 전략을 제안했다.\n다양한 응용에서 기존 방법보다 높은 성능을 낼 수 있음을 실험을 통해 증명했다.\n논문 아이디어 및 논문 구성과 전개, 설명 방법, 실험 결과 분석 등이 우수한 논문으로 평가됐다.\n김지원, 김형준, 김태주 학생은 다중 카메라(RGB, 열화상)를 사용해 센싱된 이미지에서 보행자를 검출할 때 두 카메라에서 같은 장면을 캡처한다는 가정하에 개발된 기존 방법 문제점을 분석했다.\n실제 다중 카메라에서는 캡처된 장면이 같지 않을 때 해결 방법을 제안했다.\n공학적 논문으로 우수하다는 평가를 받았다.\n우수상을 받은 장윤호 학생은 차세대 메모리 기반 시냅스 크로스바 어레이 기반 스토케스틱 멀티비트 회전 궤도 토크(SOT) 장치를 제안했다.\n홍성혁 학생은 하이브리드 빔포밍(Hybrid beamforming) 구조를 사용하는 IRS-aided 다중입력다중출력(MIMO) 시스템을 제안, 제안한 방법 실험 결과도 우수하다는 평가를 받았다. 라경진 학생은 빅데이터와 아웃소싱 서버를 통한 사용자 중심 안정된 데이터 공유 환경에 대해 제시했다.\n이는 데이터 주권과 프라이버시 침해 문제점이라는 점에서 중요한 기술로 많은 수요가 기대된다는 평이다.\n이승훈 학생은 비지도 도메인 적응 문제를 해결하기 위해 잠재 공간에서의 이미지 정보를 분리하고 시각적인 특징을 전달하는 신경망인 DRANet을 제안했다.\nDNN(Deep neural networks)이 사용되는 분야에 성능 향상을 가져올 것으로 기대된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "제13회 ICT논문 공모 대제전 대상으로 선정된 이덕호 학생은 홀로그램 디스플레이 실용화 걸림돌을 참신한 방법으로 극복하고 상용화 가능성도 크다는 평가를 받았다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이덕호 학생은 SLM(spatial light modulator) 기반 홀로그램 디스플레이가 갖는 불충분한 시야각(FOV)과 아이박스(eyebox) 크기 문제를 해결하기 위해 상호 결이 맞는 다중 조사 광원 어레이를 포함하는 근안(near-eye) 홀로그램 디스플레이 프로토타입을 제작하고 혼색(crosstalk)이 없는 신호를 생성해 SLM에 사용할 수 있도록 컴퓨터 기반 홀로그램(CGH) 최적화 알고리즘을 새롭게 개발했다.",
+				"sentenceSize": 239
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "제안된 CGH 최적화 알고리즘은 기준광 파면(wavefront)을 실제로 측정하고 이를 반영 실행돼 광수차, 시스템 정렬 오차 및 제조 오차도 어느 정도 허용해 동작할 수 있는 장점을 보였다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최우수상을 받은 김성연 학생은 새로운 심층 거리 학습 방법으로 연속 레이블을 최대한 활용하는 새로운 트리플렛(Triplet) 손실 함수와 트리플렛 마이닝 전략을 제안했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다양한 응용에서 기존 방법보다 높은 성능을 낼 수 있음을 실험을 통해 증명했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "논문 아이디어 및 논문 구성과 전개, 설명 방법, 실험 결과 분석 등이 우수한 논문으로 평가됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김지원, 김형준, 김태주 학생은 다중 카메라(RGB, 열화상)를 사용해 센싱된 이미지에서 보행자를 검출할 때 두 카메라에서 같은 장면을 캡처한다는 가정하에 개발된 기존 방법 문제점을 분석했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "실제 다중 카메라에서는 캡처된 장면이 같지 않을 때 해결 방법을 제안했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공학적 논문으로 우수하다는 평가를 받았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "우수상을 받은 장윤호 학생은 차세대 메모리 기반 시냅스 크로스바 어레이 기반 스토케스틱 멀티비트 회전 궤도 토크(SOT) 장치를 제안했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "홍성혁 학생은 하이브리드 빔포밍(Hybrid beamforming) 구조를 사용하는 IRS-aided 다중입력다중출력(MIMO) 시스템을 제안, 제안한 방법 실험 결과도 우수하다는 평가를 받았다. 라경진 학생은 빅데이터와 아웃소싱 서버를 통한 사용자 중심 안정된 데이터 공유 환경에 대해 제시했다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이는 데이터 주권과 프라이버시 침해 문제점이라는 점에서 중요한 기술로 많은 수요가 기대된다는 평이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이승훈 학생은 비지도 도메인 적응 문제를 해결하기 위해 잠재 공간에서의 이미지 정보를 분리하고 시각적인 특징을 전달하는 신경망인 DRANet을 제안했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "DNN(Deep neural networks)이 사용되는 분야에 성능 향상을 가져올 것으로 기대된다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[제13회 ICT논문공모대제전]주요 수상작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

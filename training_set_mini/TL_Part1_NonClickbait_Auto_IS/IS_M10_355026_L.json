@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355026",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "SK C&C, 클라우드 기반 시스템 개발 지원하는 AMDP 출시",
+		"newsSubTitle": "null",
+		"newsContent": "SK(주)C&C는 고객사의 클라우드 시스템 개발을 지원하는 애플리케이션 현대화(AM) 플랫폼 '클라우드 제트 AMDP'를 출시했다고 19일 밝혔다.\nAM은 기존 서비스를 미래 사업목적에 맞게 클라우드를 접목해 재구성하는 기술을 뜻한다.\n서비스를 여러 단위로 분할해 필요한 부분만 빠르게 업데이트·개발할 수 있다.\nSK C&C는 클라우드 제트 AMDP에서 마이크로서비스 개발에 필요한 기본 프로그래밍 코드, 아키텍처 패턴 등을 지원한다.\n클라우드 제트 AMDP를 비롯, AM에 필수적인 컨테이너와 데이터 저장기술, 응용프로그램 인터페이스 관리기술 등도 통합 제공한다.\n클라우드 제트 AMDP는 마이크로 서비스를 사전에 설계하고 클라우드 네이티브 환경 구축과정을 직접 검증할 수 있는 기능도 지원한다.\n김용신 SK C&C 클라우드 트랜스포메이션 그룹장은 \\\"클라우드 네이티브 환경을 실현하는 AM 개발 플랫폼 공급자이자 디지털 전환 파트너로 자리매김하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK(주)C&C는 고객사의 클라우드 시스템 개발을 지원하는 애플리케이션 현대화(AM) 플랫폼 '클라우드 제트 AMDP'를 출시했다고 19일 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AM은 기존 서비스를 미래 사업목적에 맞게 클라우드를 접목해 재구성하는 기술을 뜻한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서비스를 여러 단위로 분할해 필요한 부분만 빠르게 업데이트·개발할 수 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SK C&C는 클라우드 제트 AMDP에서 마이크로서비스 개발에 필요한 기본 프로그래밍 코드, 아키텍처 패턴 등을 지원한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "클라우드 제트 AMDP를 비롯, AM에 필수적인 컨테이너와 데이터 저장기술, 응용프로그램 인터페이스 관리기술 등도 통합 제공한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "클라우드 제트 AMDP는 마이크로 서비스를 사전에 설계하고 클라우드 네이티브 환경 구축과정을 직접 검증할 수 있는 기능도 지원한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김용신 SK C&C 클라우드 트랜스포메이션 그룹장은 \\\"클라우드 네이티브 환경을 실현하는 AM 개발 플랫폼 공급자이자 디지털 전환 파트너로 자리매김하겠다\\\"고 말했다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK C&C, 클라우드 기반 시스템 개발 지원하는 AMDP 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

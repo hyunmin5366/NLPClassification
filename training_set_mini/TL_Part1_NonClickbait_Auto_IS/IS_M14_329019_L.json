@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329019",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "테슬라, 전기트럭 '세미' 최소 1억6300만원 책정",
+		"newsSubTitle": "",
+		"newsContent": "테슬라가 최근 공개한 전기트럭 테슬라 세미의 가격을 최소 약 1억6000만원으로 책정했다.\n현지 시장 반응은 적정하다는 분위기다.\n24일 테슬라 미국 웹사이트에 따르면 주행거리 300마일(482.8㎞)형 테슬라 세미의 예상 판매가를 15만 달러(약 1억6300만원)로 책정했다.\n주행거리 500마일(804.7㎞)형은 18만달러(1억9500만원)로 우선 정했다.\n구매 예약 계약금은 2만달러로 우리돈 약 2200만원이다.\n초기 생산분 한정판인 파운더스 시리즈를 구매하려면 20만 달러(2억1700만 원)를 모두 선불로 내야 한다.\n테슬라는 당초 예고했던 9월보다 두 달 늦은 지난 16일(현지시간) 테슬라 세미를 처음으로 공개했고 판매 예상가는 1주일 더 지나서야 웹사이트를 통해 슬그머니 오픈했다.\n미국 시장 반응은 테슬라 세미의 가격에 대해 예상외로 비싸지 않다는 분위기다.\n500마일형 테슬라 세미가 일반 디젤 세미트럭보다 약 6만달러(6505만원) 비싸지만, 테슬라 예측대로라면 테슬라 세미의 운행 비용이 20%가량 적기 때문이다.\n이는 100만 마일을 주행할 경우 테슬라 세미의 운행 비용이 25만달러 적게 드는 격이라고 미국 IT매체 엔가젯이 보도했다.\n전기트럭 테슬라 세미 생산은 2019년부터 시작될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "테슬라가 최근 공개한 전기트럭 테슬라 세미의 가격을 최소 약 1억6000만원으로 책정했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현지 시장 반응은 적정하다는 분위기다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "24일 테슬라 미국 웹사이트에 따르면 주행거리 300마일(482.8㎞)형 테슬라 세미의 예상 판매가를 15만 달러(약 1억6300만원)로 책정했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주행거리 500마일(804.7㎞)형은 18만달러(1억9500만원)로 우선 정했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구매 예약 계약금은 2만달러로 우리돈 약 2200만원이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "초기 생산분 한정판인 파운더스 시리즈를 구매하려면 20만 달러(2억1700만 원)를 모두 선불로 내야 한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "테슬라는 당초 예고했던 9월보다 두 달 늦은 지난 16일(현지시간) 테슬라 세미를 처음으로 공개했고 판매 예상가는 1주일 더 지나서야 웹사이트를 통해 슬그머니 오픈했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "미국 시장 반응은 테슬라 세미의 가격에 대해 예상외로 비싸지 않다는 분위기다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "500마일형 테슬라 세미가 일반 디젤 세미트럭보다 약 6만달러(6505만원) 비싸지만, 테슬라 예측대로라면 테슬라 세미의 운행 비용이 20%가량 적기 때문이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이는 100만 마일을 주행할 경우 테슬라 세미의 운행 비용이 25만달러 적게 드는 격이라고 미국 IT매체 엔가젯이 보도했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "전기트럭 테슬라 세미 생산은 2019년부터 시작될 예정이다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "테슬라, 전기트럭 '세미' 최소 1억6300만원 책정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

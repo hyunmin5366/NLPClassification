@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352533",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "상용화 첫 발 내딘 양자내성암호...\\\"현 제품에 사용가능\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "국내에서 양자내성암호 기술을 상용제품에 처음으로 적용한 실증 결과가 공개됐다.\n양자내성암호는 양자컴퓨터로도 뚫기 어려운 암호를 생성하는 기술인데, 이를 상용 제품에 적용해도 사용에 무리가 없을 것이란 결과다.\n그간 연구실 내에만 머물렀던 양자내성암호 기술이 상용화 첫 발을 내딘 것이란 평가가 나온다.\n한국인터넷진흥원(KISA)는 올해 이스트시큐리티와 잉카인터넷, NSHC 등 국내 정보보호기업 3사와 양자내성암호 시범적용을 추진한 결과를 16일 공개했다.\n시범적용 결과 국내 ICT 상용제품에 양자내성암호를 적용해도 충분히 사용가능한 수준임을 확인했다.\n양자컴퓨터는 현재의 디지털 컴퓨터와 달리, 양자역학적 현상을 이용해 연산 성능을 획기적으로 개선한 컴퓨팅 기술이다.\n양자내성암호는 양자컴퓨터 환경에서도 암호 해독을 할 수 없도록 설계된 새로운 공개키 암호 알고리즘을 뜻한다.\n이번 실증은 연구실에서만 진행됐던 양자내성암호 테스트를 처음으로 국내 상용 ICT제품에 확대적용한 것이다.\nKISA는 지난 5월 협약 체결 후 6개월 간 △이스트시큐리티의 악성코드탐지시스템(MIST) △잉카인터넷의 엔프로텍트(nProtect) △NSHC의 엔필터(nFilter) 등 세 개 제품에 양자내성암호를 시범적용하고 성능 테스트를 진행했다.\n시범적용 과정에서는 기존의 공개키 암호가 적용됐던 제품 내의 코드와 라이브러리를 국내외 양자내성암호로 교체했다.\n기존 공개키 암호를 적용했을 때와 양자내성암호를 적용했을 때의 암호키 교환 또는 암·복호화 속도를 비교한 결과, 성능 상 큰 문제가 없는 수준인 것으로 파악됐다.\n다만 기기에 따라 속도가 조금 느려지는 변화는 있었다.\n다만 이번 실증에는 양자내성암호에 적합한 암호키 검증 등 부가기술이 적용되지 않았다.\nKISA 측은 \\\"실제 서비스를 위해서는 난수발생기와 암호키 관리기술 등 추가 기술적용과 테스트가 필요하다\\\"고 말했다.\n최광희 KISA 디지털보안산업본부장은 글로벌 테크기업 주도로 양자컴퓨터 개발 경쟁이 치열해지고 있는 상황에서, 공개키 암호 해독 위험은 계속 이슈가 될 것\\\"이라며 \\\"KISA는 산업계·학계와 협력해 양자컴퓨터의 보안 위협에 선제적으로 대응하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내에서 양자내성암호 기술을 상용제품에 처음으로 적용한 실증 결과가 공개됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양자내성암호는 양자컴퓨터로도 뚫기 어려운 암호를 생성하는 기술인데, 이를 상용 제품에 적용해도 사용에 무리가 없을 것이란 결과다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그간 연구실 내에만 머물렀던 양자내성암호 기술이 상용화 첫 발을 내딘 것이란 평가가 나온다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국인터넷진흥원(KISA)는 올해 이스트시큐리티와 잉카인터넷, NSHC 등 국내 정보보호기업 3사와 양자내성암호 시범적용을 추진한 결과를 16일 공개했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시범적용 결과 국내 ICT 상용제품에 양자내성암호를 적용해도 충분히 사용가능한 수준임을 확인했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양자컴퓨터는 현재의 디지털 컴퓨터와 달리, 양자역학적 현상을 이용해 연산 성능을 획기적으로 개선한 컴퓨팅 기술이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "양자내성암호는 양자컴퓨터 환경에서도 암호 해독을 할 수 없도록 설계된 새로운 공개키 암호 알고리즘을 뜻한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이번 실증은 연구실에서만 진행됐던 양자내성암호 테스트를 처음으로 국내 상용 ICT제품에 확대적용한 것이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "KISA는 지난 5월 협약 체결 후 6개월 간 △이스트시큐리티의 악성코드탐지시스템(MIST) △잉카인터넷의 엔프로텍트(nProtect) △NSHC의 엔필터(nFilter) 등 세 개 제품에 양자내성암호를 시범적용하고 성능 테스트를 진행했다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "시범적용 과정에서는 기존의 공개키 암호가 적용됐던 제품 내의 코드와 라이브러리를 국내외 양자내성암호로 교체했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "기존 공개키 암호를 적용했을 때와 양자내성암호를 적용했을 때의 암호키 교환 또는 암·복호화 속도를 비교한 결과, 성능 상 큰 문제가 없는 수준인 것으로 파악됐다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "다만 기기에 따라 속도가 조금 느려지는 변화는 있었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "다만 이번 실증에는 양자내성암호에 적합한 암호키 검증 등 부가기술이 적용되지 않았다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "KISA 측은 \\\"실제 서비스를 위해서는 난수발생기와 암호키 관리기술 등 추가 기술적용과 테스트가 필요하다\\\"고 말했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "최광희 KISA 디지털보안산업본부장은 글로벌 테크기업 주도로 양자컴퓨터 개발 경쟁이 치열해지고 있는 상황에서, 공개키 암호 해독 위험은 계속 이슈가 될 것\\\"이라며 \\\"KISA는 산업계·학계와 협력해 양자컴퓨터의 보안 위협에 선제적으로 대응하겠다\\\"고 말했다.",
+				"sentenceSize": 145
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "상용화 첫 발 내딘 양자내성암호...\\\"현 제품에 사용가능\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

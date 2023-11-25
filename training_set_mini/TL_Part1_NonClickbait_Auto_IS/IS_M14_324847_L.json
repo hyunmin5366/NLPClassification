@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324847",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "이통3사, '하이브리드 양자암호 통신' 선보인다",
+		"newsSubTitle": "과기정통부 시범구축 현장에 적용 기존 암호체계 '공개키 방식' 결합 신기술 의구심 불식…과도기 극복",
+		"newsContent": "SK텔레콤, KT, LG유플러스가 정부가 디지털 뉴딜 일환으로 추진하는 양자암호통신망 구축 사업에 하이브리드 양자암호통신 기술을 적용한다.\n양자암호통신 기술과 기존 암호 체계인 공개키 방식을 결합, 이중 보안을 통해 안전성을 한층 강화한다.\n이동통신3사는 과학기술정보통신부가 선정한 양자암호통신 인프라 시범 구축 현장에 하이브리드 양자암호통신 기술을 적용하기로 했다.\n시범 구축은 제주도청, 대전상수도사업본부, 충남도청 등 공공분야 7개 기간과 ADT캡스, 순천향대병원, 하이브 등 민간 사업체 10곳에서 진행되고 있다.\n이통3사는 현재 각 현장에 적합한 양자암호통신 장비를 개발하고 있다.\n11월까지 하이브리드 양자암호통신망을 구축한다는 계획이다.\n하이브리드 양자암호통신은 SK텔레콤과 KT의 양자암호키분배기(QKD), LG유플러스의 양자내성암호(PQC)와 같은 양자암호기술에 기존 암호 체계인 공개키 방식을 결합한 것을 말한다.\n각 암호체계가 무용화돼도 다른 암호체계가 작동해 보안성이 개선된다.\n양자암호 기술과 공개키방식이 결합되면 대칭방식과 비대칭방식의 암호 체계를 동시에 적용해 이중 보안이 가능해질 전망이다.\n양자암호가 데이터 암호화와 복호화에 동일한 키를 주입하는 대칭 방식을 사용하는 것과 달리 공개키 방식은 암호화에는 공개 키, 복호화에는 개인 키를 주입하는 비대칭 방식을 사용하고 있다.\nRSA 또는 타원 곡선 방식 등이 대표적인 공개키 방식이다.\n하이브리드 양자암호통신이 적용되면 병원 환자 정보나 수술 영상 또는 공연 티켓 구매 시 필요한 개인 정보 데이터 등 민감한 정보를 송출할 때 안정성을 대폭 강화할 수 있을 전망이다.\n하이브리드 양자암호통신의 등장은 통신 암호 체계가 공개키 방식에서 양자암호기술로 전환되는 과도기에 진입한 것이라는 분석이다.\n양자암호업계 관계자는 “공개키방식은 슈퍼 컴퓨터로도 암호 해독에 1만년 이상이 걸리는 만큼 양자암호기술이 등장하기 전부터 안정성을 대표하는 암호체계였다”며 “양자컴퓨터가 등장하고 이를 해독하는 시간이 수십 분 수준으로 대폭 줄면서 양자 컴퓨터로도 풀기 힘든 QKD나 PQC 기술의 필요성이 대두됐다”고 분석했다.\n이 관계자는 “양자암호통신과 기존에 안전성을 인정받아왔던 공개 키 방식을 결합하면 새 방식에 대한 의구심도 낮추고, 기존 방식의 장점 또한 계속 활용할 수 있다”며 “최근 미국 등 해외에서도 하이브리드 양자암호통신을 적극 도입하는 추세”라고 덧붙였다.\n또 다른 업계 관계자는 “양자암호통신 관련 장비 등에 CC인증을 부여하는 국정원도 하이브리드 방식을 권고하고 있다”며 “두 개 기술을 결합하면 기존 성능 이상을 제공, 어떤 암호 시스템보다도 안전한 통신망을 구현할 수 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤, KT, LG유플러스가 정부가 디지털 뉴딜 일환으로 추진하는 양자암호통신망 구축 사업에 하이브리드 양자암호통신 기술을 적용한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양자암호통신 기술과 기존 암호 체계인 공개키 방식을 결합, 이중 보안을 통해 안전성을 한층 강화한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이동통신3사는 과학기술정보통신부가 선정한 양자암호통신 인프라 시범 구축 현장에 하이브리드 양자암호통신 기술을 적용하기로 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시범 구축은 제주도청, 대전상수도사업본부, 충남도청 등 공공분야 7개 기간과 ADT캡스, 순천향대병원, 하이브 등 민간 사업체 10곳에서 진행되고 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이통3사는 현재 각 현장에 적합한 양자암호통신 장비를 개발하고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "11월까지 하이브리드 양자암호통신망을 구축한다는 계획이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하이브리드 양자암호통신은 SK텔레콤과 KT의 양자암호키분배기(QKD), LG유플러스의 양자내성암호(PQC)와 같은 양자암호기술에 기존 암호 체계인 공개키 방식을 결합한 것을 말한다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "각 암호체계가 무용화돼도 다른 암호체계가 작동해 보안성이 개선된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "양자암호 기술과 공개키방식이 결합되면 대칭방식과 비대칭방식의 암호 체계를 동시에 적용해 이중 보안이 가능해질 전망이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "양자암호가 데이터 암호화와 복호화에 동일한 키를 주입하는 대칭 방식을 사용하는 것과 달리 공개키 방식은 암호화에는 공개 키, 복호화에는 개인 키를 주입하는 비대칭 방식을 사용하고 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "RSA 또는 타원 곡선 방식 등이 대표적인 공개키 방식이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "하이브리드 양자암호통신이 적용되면 병원 환자 정보나 수술 영상 또는 공연 티켓 구매 시 필요한 개인 정보 데이터 등 민감한 정보를 송출할 때 안정성을 대폭 강화할 수 있을 전망이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "하이브리드 양자암호통신의 등장은 통신 암호 체계가 공개키 방식에서 양자암호기술로 전환되는 과도기에 진입한 것이라는 분석이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "양자암호업계 관계자는 “공개키방식은 슈퍼 컴퓨터로도 암호 해독에 1만년 이상이 걸리는 만큼 양자암호기술이 등장하기 전부터 안정성을 대표하는 암호체계였다”며 “양자컴퓨터가 등장하고 이를 해독하는 시간이 수십 분 수준으로 대폭 줄면서 양자 컴퓨터로도 풀기 힘든 QKD나 PQC 기술의 필요성이 대두됐다”고 분석했다.",
+				"sentenceSize": 174
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이 관계자는 “양자암호통신과 기존에 안전성을 인정받아왔던 공개 키 방식을 결합하면 새 방식에 대한 의구심도 낮추고, 기존 방식의 장점 또한 계속 활용할 수 있다”며 “최근 미국 등 해외에서도 하이브리드 양자암호통신을 적극 도입하는 추세”라고 덧붙였다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "또 다른 업계 관계자는 “양자암호통신 관련 장비 등에 CC인증을 부여하는 국정원도 하이브리드 방식을 권고하고 있다”며 “두 개 기술을 결합하면 기존 성능 이상을 제공, 어떤 암호 시스템보다도 안전한 통신망을 구현할 수 있다”고 말했다.",
+				"sentenceSize": 131
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이통3사, '하이브리드 양자암호 통신' 선보인다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

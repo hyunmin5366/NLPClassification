@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334667",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "해킹 취약한 아파트 월패드 망분리 추진",
+		"newsSubTitle": "",
+		"newsContent": "정부가 아파트 월패드 망분리 의무화를 재추진한다.\n앞서 관련 기업 반발로 유보했지만, 최근 발생한 월패드 해킹사건으로 망분리 의무화가 필요하다고 판단했다.\n과학기술정보통신부는 2일 '지능형 홈네트워크 고시 개정 사업자 설명회'를 열고 단지 서버와 세대간 망분리 의무화를 골자로 하는 월패드 망분리 규정을 공개했다.\n월패트 망분리 규정은 과기정통부와 국토교통부, 산업통상자원부 등 3개 부처가 합동으로 마련했다.\n이날 공개된 규정(안)에 따르면, 공동주택 망을 구성할 때 단지 서버와 세대별 홈게이트웨이간 망은 전송되는 데이터의 노출∙탈취 등을 방지하기 위해 물리적 방법으로 분리해야 한다.\n단지 서버에서 각 동까지 하나의 광케이블로 연결한 뒤 허브로 각 세대를 연결하는 기존 방식에서 탈피, 각 세대까지 개별망을 갖춰야 한다.\n소프트웨어를 이용한 가상사설통신망, 가상근거리통신망, 암호화기술 등을 활용해 논리적 방법으로 분리, 구성토록 했다.\n이와 함께 홈네트워크 기기의 기밀, 보안성 구현을 의무화했다.\n홈네트워크 기기는 이용자 식별정보, 인증정보, 개인정보 등에 대해 암호 알고리즘, 암호키 생성∙관리 등 암호화 기술과 민감 데이터 접근제어 관리기술을 통해 기밀성을 확보해야 한다.\n이용자 식별정보, 인증정보, 개인정보는 해시함수, 디지털서명 등 기술을 적용해 위∙변조 여부 확인∙방지 기능을 갖추고 전자서명, 아이디∙비밀번호, 일회용 비밀번호(OTP) 등 신원확인∙인증 수단도 확보해야 한다.\n자산∙사용자 식별, IP관리, 단말인증 등 기술로 사용자 유형 분류, 접근권한 부여∙제한 기능 등 비인가 접근 차단 기능도 갖추게 했다.\n현재 규정엔 아파트의 세대망 분리 의무가 명시돼 있지 않다.\n이로 인해 각 동 세대가 사실상 하나의 망을 공유하는 방식으로 월패드 등 홈네트워크 기기를 사용하고 있다.\n한 세대가 해킹되면 전 세대로 피해가 확산할 수 있는 구조다.\n과기정통부는 올 초 망분리 의무화를 추진했지만 관련 기기 제조업체 반발로 유보했다.\n최성준 과기정통부 과장은 \\\"망 분리 범위∙방안 등을 구체화했다\\\"며 \\\"의견 수렴을 거쳐 이르면 내년 하반기부터 적용될 수 있도록 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부가 아파트 월패드 망분리 의무화를 재추진한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "앞서 관련 기업 반발로 유보했지만, 최근 발생한 월패드 해킹사건으로 망분리 의무화가 필요하다고 판단했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과학기술정보통신부는 2일 '지능형 홈네트워크 고시 개정 사업자 설명회'를 열고 단지 서버와 세대간 망분리 의무화를 골자로 하는 월패드 망분리 규정을 공개했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "월패트 망분리 규정은 과기정통부와 국토교통부, 산업통상자원부 등 3개 부처가 합동으로 마련했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 공개된 규정(안)에 따르면, 공동주택 망을 구성할 때 단지 서버와 세대별 홈게이트웨이간 망은 전송되는 데이터의 노출∙탈취 등을 방지하기 위해 물리적 방법으로 분리해야 한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "단지 서버에서 각 동까지 하나의 광케이블로 연결한 뒤 허브로 각 세대를 연결하는 기존 방식에서 탈피, 각 세대까지 개별망을 갖춰야 한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소프트웨어를 이용한 가상사설통신망, 가상근거리통신망, 암호화기술 등을 활용해 논리적 방법으로 분리, 구성토록 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이와 함께 홈네트워크 기기의 기밀, 보안성 구현을 의무화했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "홈네트워크 기기는 이용자 식별정보, 인증정보, 개인정보 등에 대해 암호 알고리즘, 암호키 생성∙관리 등 암호화 기술과 민감 데이터 접근제어 관리기술을 통해 기밀성을 확보해야 한다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이용자 식별정보, 인증정보, 개인정보는 해시함수, 디지털서명 등 기술을 적용해 위∙변조 여부 확인∙방지 기능을 갖추고 전자서명, 아이디∙비밀번호, 일회용 비밀번호(OTP) 등 신원확인∙인증 수단도 확보해야 한다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "자산∙사용자 식별, IP관리, 단말인증 등 기술로 사용자 유형 분류, 접근권한 부여∙제한 기능 등 비인가 접근 차단 기능도 갖추게 했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "현재 규정엔 아파트의 세대망 분리 의무가 명시돼 있지 않다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이로 인해 각 동 세대가 사실상 하나의 망을 공유하는 방식으로 월패드 등 홈네트워크 기기를 사용하고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한 세대가 해킹되면 전 세대로 피해가 확산할 수 있는 구조다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "과기정통부는 올 초 망분리 의무화를 추진했지만 관련 기기 제조업체 반발로 유보했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "최성준 과기정통부 과장은 \\\"망 분리 범위∙방안 등을 구체화했다\\\"며 \\\"의견 수렴을 거쳐 이르면 내년 하반기부터 적용될 수 있도록 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "해킹 취약한 아파트 월패드 망분리 추진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

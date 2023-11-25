@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_030986",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "민규동 감독, 코로나 확진판정…엄정화·임필성 감독 등 검사",
+		"newsSubTitle": "",
+		"newsContent": "민규동 감독이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.\n7일 충무로영화제 측에 따르면 민규동 감독은 지난 6일 코로나19 확진 판정을 받았다.\n이에 제5회 충무로영화제–디렉터스 위크에서 민규동 감독과 동선이 겹친 감독 및 배우, 스태프 등이 코로나19 검사를 받고 결과를 기다리는 중이다.\n민규동 감독과 동선이 겹쳤던 영화인들은 임필성 감독, 배우 윤경호, 안세호, 엄정화 등이다.\n앞서 엄정화는 지난 6일 코로나19 확진자와 동선이 겹쳐 생방송으로 진행되는 ‘2020 MAMA’에 긴급 불참하게 된 바 있다.\n윤경호, 안세호 등도 출연 중인 작품에 검사 사실을 전달한 상황인 것으로 전해졌다.\n한편 민규동 감독은 ‘내 아내의 모든 것’(2012), ‘간신’(2015), ‘허스토리’(2018) 등을 연출했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "민규동 감독이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 충무로영화제 측에 따르면 민규동 감독은 지난 6일 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 제5회 충무로영화제–디렉터스 위크에서 민규동 감독과 동선이 겹친 감독 및 배우, 스태프 등이 코로나19 검사를 받고 결과를 기다리는 중이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "민규동 감독과 동선이 겹쳤던 영화인들은 임필성 감독, 배우 윤경호, 안세호, 엄정화 등이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 엄정화는 지난 6일 코로나19 확진자와 동선이 겹쳐 생방송으로 진행되는 ‘2020 MAMA’에 긴급 불참하게 된 바 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윤경호, 안세호 등도 출연 중인 작품에 검사 사실을 전달한 상황인 것으로 전해졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 민규동 감독은 ‘내 아내의 모든 것’(2012), ‘간신’(2015), ‘허스토리’(2018) 등을 연출했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "런닝맨 송지효, 연결고리 민경훈 \\\"화장실 갈 때만…\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

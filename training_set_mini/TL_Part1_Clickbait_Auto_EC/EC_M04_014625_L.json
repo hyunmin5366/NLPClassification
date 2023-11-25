@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014625",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "롯데마트 액체세제 단독 판매",
+		"newsSubTitle": "",
+		"newsContent": "롯데마트가 LG생활건강과 손잡고 '옷이 예뻐지는 액체 세제, 섬유유연제'를 단독 판매한다고 26일 밝혔다.\n옷이 예뻐지는 액체세제는 일반 세탁기용과 드럼 세탁기용으로 나뉘며 2.8ℓ용량으로 옷감 손상을 최소화하는 황금 누에고치 세리신 성분과 코팅 성분을 함유했다.\n옷감 색상을 선명하게 해주는 케어자임 효소도 들어있다.\n일반 액체세제보다 고농축이라 기존 사용량의 절반인 34㎖만 사용해도 된다고 롯데마트 측은 설명했다.\n섬유유연제는 코튼린넨향과 시프레향 등 두 제품으로, 용량은 모두 2.8ℓ이다. 고농축 상품이라 기존 사용량의 절반인 20ℓ만 사용해도 되며 피부 비자극 테스트를 통과했으며 양이온 유연성분과 실리콘 성분이 들어있어 옷의 볼륨을 살려준다.\n액체세제와 섬유유연제 모두 가격은 1만2900원이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "롯데마트가 LG생활건강과 손잡고 '옷이 예뻐지는 액체 세제, 섬유유연제'를 단독 판매한다고 26일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "옷이 예뻐지는 액체세제는 일반 세탁기용과 드럼 세탁기용으로 나뉘며 2.8ℓ용량으로 옷감 손상을 최소화하는 황금 누에고치 세리신 성분과 코팅 성분을 함유했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "옷감 색상을 선명하게 해주는 케어자임 효소도 들어있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일반 액체세제보다 고농축이라 기존 사용량의 절반인 34㎖만 사용해도 된다고 롯데마트 측은 설명했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "섬유유연제는 코튼린넨향과 시프레향 등 두 제품으로, 용량은 모두 2.8ℓ이다. 고농축 상품이라 기존 사용량의 절반인 20ℓ만 사용해도 되며 피부 비자극 테스트를 통과했으며 양이온 유연성분과 실리콘 성분이 들어있어 옷의 볼륨을 살려준다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "액체세제와 섬유유연제 모두 가격은 1만2900원이다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노은3 B4블록·문지지구 큰 장 선다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

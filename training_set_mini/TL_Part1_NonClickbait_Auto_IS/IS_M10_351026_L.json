@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351026",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "삼성 갤럭시폰에 디지털 화폐 적용된다",
+		"newsSubTitle": "null",
+		"newsContent": "삼성전자가 갤럭시 스마트폰에 디지털화폐를 적용하기 위한 기술 개발에 돌입한다.\n한국은행과 카카오가 추진중인 중앙은행디지털화폐(CBDC) 사업에 합류하면서다. 4일 한은과 관련 업계에 따르면 삼성전자는 지난달 한은의 CBDC 모의시험 연구 용역사업자로 선정된 카카오 컨소시엄에 참여했다.\nCBDC는 중앙은행이 발행하는 전자적 형태의 화폐로 기존 법정통화와 1 대 1 교환이 가능하다.\n삼성전자는 한은, 카카오 블록체인 자회사인 그라운드X 등과 함께 오는 28일부터 내년 6월까지 CBDC 모의시험 연구에 나선다.\n올해 말까지 1단계 실험을 완료하고, 내년 6월까지 2단계 시험을 마칠 예정이다.\n삼성전자는 이번 시험에서 CBDC가 갤럭시 스마트폰에서도 작동하는지 여부를 확인할 것으로 알려졌다.\n스마트폰에 CBDC를 담아 인터넷 연결이 되지 않는 상태에서 결제가 가능한지 등을 실험할 것으로 전망된다.\n삼성SDS의 자회사인 에스코어도 CBDC 실험에 기술자문을 제공할 계획이다.\n이번 컨소시엄에는 그라운드X와 카카오뱅크, 카카오페이, 미국 블록체인 기술 기업 컨센시스, 삼성SDS 자회사 에스코어, 컨설팅 기업 KPMG, 블록체인 스타트업 온더, 핀테크 솔루션 업체 코나아이 등이 참여하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 갤럭시 스마트폰에 디지털화폐를 적용하기 위한 기술 개발에 돌입한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행과 카카오가 추진중인 중앙은행디지털화폐(CBDC) 사업에 합류하면서다. 4일 한은과 관련 업계에 따르면 삼성전자는 지난달 한은의 CBDC 모의시험 연구 용역사업자로 선정된 카카오 컨소시엄에 참여했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "CBDC는 중앙은행이 발행하는 전자적 형태의 화폐로 기존 법정통화와 1 대 1 교환이 가능하다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "삼성전자는 한은, 카카오 블록체인 자회사인 그라운드X 등과 함께 오는 28일부터 내년 6월까지 CBDC 모의시험 연구에 나선다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올해 말까지 1단계 실험을 완료하고, 내년 6월까지 2단계 시험을 마칠 예정이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자는 이번 시험에서 CBDC가 갤럭시 스마트폰에서도 작동하는지 여부를 확인할 것으로 알려졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스마트폰에 CBDC를 담아 인터넷 연결이 되지 않는 상태에서 결제가 가능한지 등을 실험할 것으로 전망된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성SDS의 자회사인 에스코어도 CBDC 실험에 기술자문을 제공할 계획이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이번 컨소시엄에는 그라운드X와 카카오뱅크, 카카오페이, 미국 블록체인 기술 기업 컨센시스, 삼성SDS 자회사 에스코어, 컨설팅 기업 KPMG, 블록체인 스타트업 온더, 핀테크 솔루션 업체 코나아이 등이 참여하고 있다.",
+				"sentenceSize": 121
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성 갤럭시폰에 디지털 화폐 적용된다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

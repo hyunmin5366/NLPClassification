@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331654",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "마크애니, AI 기술로 차량 검색·추적 서비스 개발",
+		"newsSubTitle": "",
+		"newsContent": "마크애니가 인공지능(AI) 기술로 특정 차량을 추적할 수 있는 '스마트시티 안전망 차량검색 서비스' 모델을 개발했다.\n서울산업진흥원이 발주한 '2020년 포스트 코로나 특화 인공지능 기술사업화 기업사업' 일환으로 마크애니는 자체 개발한 AI 모델과 메타데이터를 융합했다.\n딥러닝 AI로 수배·문제 차량 정보(차종, 차색, 차번)를 추출하고, 메타데이터를 분석해 이동 경로를 신속하게 파악하는 차량 검색 지원 서비스다.\nCCTV 영상에서 차량 번호 인식 딥러닝 모델로 차량 번호판을 우선 검출·분석한다.\n차량 기하학적 모형과 형태를 분석해 차종을 구분하고 색상을 분류한다.\n차량 번호가 명확하게 촬영된 CCTV 위치 정보와 차량 특징이 분석된 실시간 메타데이터를 융합해 특정 차량 위치뿐 아니라 이동 경로까지 예측한다.\n마크애니는 수배 차량 정보를 경찰청에 신속하게 전송해 검거율을 획기적으로 높임은 물론, 교통·안전 빅데이터 분석 서비스 제공으로 사건·사고 정보공유를 통해 선제적 대비도 가능할 것으로 예상했다.\n수배 차량 추적 검색 이외에도 도난, 체납, 음주, 공해 차량 등 특징을 분석하는 선별 관제 형태로 검색대상 CCTV 범위를 확대할 수 있다.\n최고 마크애니 대표는 “CCTV 관제는 방범 위주 관제에서 차량 정보 추출 관제로 빠르게 확대되고 있다”며 “광역형 스마트시티 통합 플랫폼을 통해 행정기관과 유기적인 정보 공유로 안전하고 편리한 세상을 만들 것을 기대하고 있다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마크애니가 인공지능(AI) 기술로 특정 차량을 추적할 수 있는 '스마트시티 안전망 차량검색 서비스' 모델을 개발했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울산업진흥원이 발주한 '2020년 포스트 코로나 특화 인공지능 기술사업화 기업사업' 일환으로 마크애니는 자체 개발한 AI 모델과 메타데이터를 융합했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "딥러닝 AI로 수배·문제 차량 정보(차종, 차색, 차번)를 추출하고, 메타데이터를 분석해 이동 경로를 신속하게 파악하는 차량 검색 지원 서비스다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "CCTV 영상에서 차량 번호 인식 딥러닝 모델로 차량 번호판을 우선 검출·분석한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "차량 기하학적 모형과 형태를 분석해 차종을 구분하고 색상을 분류한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "차량 번호가 명확하게 촬영된 CCTV 위치 정보와 차량 특징이 분석된 실시간 메타데이터를 융합해 특정 차량 위치뿐 아니라 이동 경로까지 예측한다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "마크애니는 수배 차량 정보를 경찰청에 신속하게 전송해 검거율을 획기적으로 높임은 물론, 교통·안전 빅데이터 분석 서비스 제공으로 사건·사고 정보공유를 통해 선제적 대비도 가능할 것으로 예상했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "수배 차량 추적 검색 이외에도 도난, 체납, 음주, 공해 차량 등 특징을 분석하는 선별 관제 형태로 검색대상 CCTV 범위를 확대할 수 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최고 마크애니 대표는 “CCTV 관제는 방범 위주 관제에서 차량 정보 추출 관제로 빠르게 확대되고 있다”며 “광역형 스마트시티 통합 플랫폼을 통해 행정기관과 유기적인 정보 공유로 안전하고 편리한 세상을 만들 것을 기대하고 있다”고 밝혔다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마크애니, AI 기술로 차량 검색·추적 서비스 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

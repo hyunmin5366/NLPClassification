@@ -1,0 +1,420 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348084",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "\\\"운전자 내리면 차가 주차장 찾아가 주차를 했다\\\"…LGU+ 자율차 타보니",
+		"newsSubTitle": "null",
+		"newsContent": "17일 오후 서울 마포구 상암동 YTN 본사 앞 도로. LG유플러스와 한양대, 컨트롤웍스가 함께 개발한 5세대(5G) 기반 자율주행차 에이원(AI)에 탑승해 5G 자율주차 애플리케이션을 실행했다.\n현재 위치에서 주차 가능한 가장 가까운 주차장이 2개 떴다.\n상암 1공영주차장과 수색역 2주차장. 둘 중 더 가까운 상암 1 공영 주차장을 선택하니, 영화관 좌석 배치도 같은 주차장 화면이 떴다.\n이미 다른 차량이 주차돼있는 공간은 빨간색, 비어 있는 공간은 파란색으로 표시됐다.\n이 앱은 주차장에 설치돼 있는 지능형 CCTV를 통해 실시간으로 주차장 내 빈자리를 읽어낸다.\n사전에 비어 있는 공간의 모습을 다양한 각도, 채도로 인공지능(AI)에 학습시켜, CCTV 상 화면만으로 빈 자리를 찾아낼 수 있도록 한 것이다.\n이렇게 찾은 빈 주차공간 데이터는 5G 클라우드 관제 플랫폼으로 모두 취합된다.\n이후 해당 정보가 모바일 앱으로 전달돼 탑승자가 확인하게 되는 방식이다.\n입구와 가까운 주차공간 빈 자리를 선택하고 '자율주차 하기'를 누르니 \\\"부우우웅\\\" 차가 출발했다.\n앱에는 \\\"자율주차 중입니다\\\"라는 배너가 뜬 후 차량의 실시간 위치 정보가 떴다.\n앱으로 자율주차를 해놓고 운전자는 실내로 들어가더라도 차량이 잘 가고 있는지 확인할 수 있는 것이다.\n━느릴 줄 알았는데...\n시속 60km로 시원하게 내달렸다━ 사람이 하는 운전이 아닌, 자율주행이라 천천히 달릴 줄 알았지만 오산이었다.\nA1은 상암 도심 일대를 시속 60km로 시원하게 내달렸다.\n앞에 차량이 있거나 신호에 걸렸을 때는 부드럽고 안정적으로 속도를 낮추기도 했다.\n주차장까지 가는 동안에는 총 5개의 횡단보도와 3개의 교차로를 만났다.\nA1은 신호등과 5G 통신으로 소통하며 매 순간 주행을 지속할지, 제동을 시작할지 여부를 스스로 판단했다.\n기존에는 카메라로 신호등 색상을 판별해 주행 여부를 결정했다.\n하지만 이 경우 눈·비와 같은 궂은 날씨나 빛의 굴절, 가로수 시야 방해 등으로 카메라 인식의 오차가 발생할 가능성이 있었다.\n선우명호 한양대 교수는 \\\"기존 방식과 달리 5G 통신으로 신호 데이터를 받아 100% 완벽하게 AI이 교통신호를 파악할 수 있게 됐다\\\"고 설명했다.\n주행 중에는 인공지능(AI) 기반 주행 환경 인식 기술이 핵심적 역할을 했다.\n초보 운전자는 '끼어들 시점'을 잡기 어려워하기도 하지만, A1은 주변 차량 간 거리를 계산하더니 좌측 깜박이를 켜고 자연스럽게 본선에 합류했다.\n이는 차량에 장착된 라이다(Lidar), 레이다(Radar) 센서 정보 덕분이다.\n라이다 센서는 레이저를, 레이더 센서는 강력한 전자기파를 발사해 그 빛이 주위 대상 물체에서 반사돼 돌아오는 것을 통해 거리를 측정한다.\n이를 통해 전·후·측방 차량의 차선변경과 갑작스러운 끼어들기에 안정적으로 대응할 수 있다.\n━단 한번의 후진으로 주차 완료…자동으로 시동 꺼져━ AI는 목적지인 상암1공영주차장 진입로에 들어서자 속도를 줄이며 차단기 아래를 지나갔다.\n차는 출발전 앱으로 지정한 주차 공간 앞에서 멈춰섰다.\n자동으로 후진 기어가 걸리고, 핸들이 돌아갔다.\n주차 공간을 맞추기 위해 전진과 후진을 몇번씩이나 반복하는 사람과 달리, 단 한번의 후진으로 주차가 마무리됐다.\n특히 차량 좌우의 여유 공간이 마치 자로 잰 듯이 동일해 현장에서는 '사람보다 낫다'는 평이 나오기도 했다.\n앱 화면에 '주차 완료'라는 배너가 떴다.\n주차가 완료되자 자동으로 시동은 꺼졌다.\n이 모든 과정은 자율 주행으로 이뤄졌다.\n시연을 위해 사람이 안에 타기는 했지만 단 한순간도 운전대에 손을 올리지 않고 진행됐다.\nAI은 운전자가 일을 마치고 다시 YTN 본사에서 앱을 통해 부르면 운전자 앞으로 스스로 도착한다.\n박재현 한양대학교 자동차제어연구실 ACE랩 연구원은 \\\"5G망으로 주차장 정보와 신호등 정보 받고 있지만 향후 돌발 상황 등 실시간 정보까지 받게 되면 완전한 자율주행이 가능해질 것\\\"이라며 \\\"그렇게 데이터 양이 점점 더 많아질수록 5G와 클라우드 플랫폼이 필수적일 것\\\"이라고 말했다.\n━\\\"5G 통신망 이용한 자율주행, 무궁무진한 가능성 열려 있다\\\"━LG유플러스는 이번 5G 자율주차를 통해 차량의 무인 픽업-주행-주차로 이어지는 일련의 미래 모빌리티 기술 기반이 완성된 것으로 평가한다.\n승∙하차를 위한 지체 시간이 사라져 마치 '콜택시'나 '나만의 AI 운전기사'같은 역할을 할 것이라는 설명이다.\n5G 통신망을 이용한 자율주행 기술 개발은 향후 더욱 가속화할 것으로 보인다.\n주영준 LG유플러스 미래기술개발랩 담당(상무)는 \\\"1년에서 1년 반 정도 데이터를 확보하고 실증을 통해 누적시킨 경험을 가지고 2022년도 중반쯤 오픈랩을 열 것\\\"이라며 \\\"발렛주차 통해서 확보한 기술은 드론에도 확장이 가능할 것으로 생각한다\\\"고 밝혔다.\n5G는 통신지연이 이론적으로 1㎳까지 줄어든다. 예컨대, 시속 100㎞로 달리는 자율차에 ‘멈춰’ 명령을 내리면 LTE 망은2.8m달린 뒤에 브레이크를 밟지만, 5G 환경에서는 2.8㎝ 주행 뒤 바로 제동을 한다.\n앞에 사람이 지나간다면 생사가 갈릴 수 있다.\n다만 법·제도적 여건 때문에 상용화에는 다소 시간이 걸릴 전망이다.\n선우명호 한양대학교 자동차전자제어연구실 ACELAB 교수는 \\\"기술적으로는 상당부분 상용화 단계에 와있으나, 관련한 법·제도적 여건 때문에 이 같은 서비스가 상용화되려면 시간이 걸릴 것\\\"이라며 \\\"이번 시연을 통해 자율주행이 성공적으로 수행될 수 있다는 가능성을 보게 되면 더 나아가 다양한 서비스로 확장시킬 수 있을 것 같다. 향후 장애인·고령자·임산부 등 교통 약자들을 위한 서비스로도 큰 역할을 할 수 있길 기대한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 44,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "17일 오후 서울 마포구 상암동 YTN 본사 앞 도로. LG유플러스와 한양대, 컨트롤웍스가 함께 개발한 5세대(5G) 기반 자율주행차 에이원(AI)에 탑승해 5G 자율주차 애플리케이션을 실행했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현재 위치에서 주차 가능한 가장 가까운 주차장이 2개 떴다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "상암 1공영주차장과 수색역 2주차장. 둘 중 더 가까운 상암 1 공영 주차장을 선택하니, 영화관 좌석 배치도 같은 주차장 화면이 떴다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이미 다른 차량이 주차돼있는 공간은 빨간색, 비어 있는 공간은 파란색으로 표시됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 앱은 주차장에 설치돼 있는 지능형 CCTV를 통해 실시간으로 주차장 내 빈자리를 읽어낸다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사전에 비어 있는 공간의 모습을 다양한 각도, 채도로 인공지능(AI)에 학습시켜, CCTV 상 화면만으로 빈 자리를 찾아낼 수 있도록 한 것이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이렇게 찾은 빈 주차공간 데이터는 5G 클라우드 관제 플랫폼으로 모두 취합된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 해당 정보가 모바일 앱으로 전달돼 탑승자가 확인하게 되는 방식이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "입구와 가까운 주차공간 빈 자리를 선택하고 '자율주차 하기'를 누르니 \\\"부우우웅\\\" 차가 출발했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "앱에는 \\\"자율주차 중입니다\\\"라는 배너가 뜬 후 차량의 실시간 위치 정보가 떴다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "앱으로 자율주차를 해놓고 운전자는 실내로 들어가더라도 차량이 잘 가고 있는지 확인할 수 있는 것이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "━느릴 줄 알았는데...",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "시속 60km로 시원하게 내달렸다━ 사람이 하는 운전이 아닌, 자율주행이라 천천히 달릴 줄 알았지만 오산이었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "A1은 상암 도심 일대를 시속 60km로 시원하게 내달렸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "앞에 차량이 있거나 신호에 걸렸을 때는 부드럽고 안정적으로 속도를 낮추기도 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "주차장까지 가는 동안에는 총 5개의 횡단보도와 3개의 교차로를 만났다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "A1은 신호등과 5G 통신으로 소통하며 매 순간 주행을 지속할지, 제동을 시작할지 여부를 스스로 판단했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "기존에는 카메라로 신호등 색상을 판별해 주행 여부를 결정했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "하지만 이 경우 눈·비와 같은 궂은 날씨나 빛의 굴절, 가로수 시야 방해 등으로 카메라 인식의 오차가 발생할 가능성이 있었다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "선우명호 한양대 교수는 \\\"기존 방식과 달리 5G 통신으로 신호 데이터를 받아 100% 완벽하게 AI이 교통신호를 파악할 수 있게 됐다\\\"고 설명했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "주행 중에는 인공지능(AI) 기반 주행 환경 인식 기술이 핵심적 역할을 했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "초보 운전자는 '끼어들 시점'을 잡기 어려워하기도 하지만, A1은 주변 차량 간 거리를 계산하더니 좌측 깜박이를 켜고 자연스럽게 본선에 합류했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이는 차량에 장착된 라이다(Lidar), 레이다(Radar) 센서 정보 덕분이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "라이다 센서는 레이저를, 레이더 센서는 강력한 전자기파를 발사해 그 빛이 주위 대상 물체에서 반사돼 돌아오는 것을 통해 거리를 측정한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "이를 통해 전·후·측방 차량의 차선변경과 갑작스러운 끼어들기에 안정적으로 대응할 수 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "━단 한번의 후진으로 주차 완료…자동으로 시동 꺼져━ AI는 목적지인 상암1공영주차장 진입로에 들어서자 속도를 줄이며 차단기 아래를 지나갔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "차는 출발전 앱으로 지정한 주차 공간 앞에서 멈춰섰다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "자동으로 후진 기어가 걸리고, 핸들이 돌아갔다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "주차 공간을 맞추기 위해 전진과 후진을 몇번씩이나 반복하는 사람과 달리, 단 한번의 후진으로 주차가 마무리됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "특히 차량 좌우의 여유 공간이 마치 자로 잰 듯이 동일해 현장에서는 '사람보다 낫다'는 평이 나오기도 했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "앱 화면에 '주차 완료'라는 배너가 떴다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "주차가 완료되자 자동으로 시동은 꺼졌다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "이 모든 과정은 자율 주행으로 이뤄졌다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "시연을 위해 사람이 안에 타기는 했지만 단 한순간도 운전대에 손을 올리지 않고 진행됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "AI은 운전자가 일을 마치고 다시 YTN 본사에서 앱을 통해 부르면 운전자 앞으로 스스로 도착한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "박재현 한양대학교 자동차제어연구실 ACE랩 연구원은 \\\"5G망으로 주차장 정보와 신호등 정보 받고 있지만 향후 돌발 상황 등 실시간 정보까지 받게 되면 완전한 자율주행이 가능해질 것\\\"이라며 \\\"그렇게 데이터 양이 점점 더 많아질수록 5G와 클라우드 플랫폼이 필수적일 것\\\"이라고 말했다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 37,
+				"sentenceContent": "━\\\"5G 통신망 이용한 자율주행, 무궁무진한 가능성 열려 있다\\\"━LG유플러스는 이번 5G 자율주차를 통해 차량의 무인 픽업-주행-주차로 이어지는 일련의 미래 모빌리티 기술 기반이 완성된 것으로 평가한다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 38,
+				"sentenceContent": "승∙하차를 위한 지체 시간이 사라져 마치 '콜택시'나 '나만의 AI 운전기사'같은 역할을 할 것이라는 설명이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 39,
+				"sentenceContent": "5G 통신망을 이용한 자율주행 기술 개발은 향후 더욱 가속화할 것으로 보인다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 40,
+				"sentenceContent": "주영준 LG유플러스 미래기술개발랩 담당(상무)는 \\\"1년에서 1년 반 정도 데이터를 확보하고 실증을 통해 누적시킨 경험을 가지고 2022년도 중반쯤 오픈랩을 열 것\\\"이라며 \\\"발렛주차 통해서 확보한 기술은 드론에도 확장이 가능할 것으로 생각한다\\\"고 밝혔다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 41,
+				"sentenceContent": "5G는 통신지연이 이론적으로 1㎳까지 줄어든다. 예컨대, 시속 100㎞로 달리는 자율차에 ‘멈춰’ 명령을 내리면 LTE 망은2.8m달린 뒤에 브레이크를 밟지만, 5G 환경에서는 2.8㎝ 주행 뒤 바로 제동을 한다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 42,
+				"sentenceContent": "앞에 사람이 지나간다면 생사가 갈릴 수 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 43,
+				"sentenceContent": "다만 법·제도적 여건 때문에 상용화에는 다소 시간이 걸릴 전망이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 44,
+				"sentenceContent": "선우명호 한양대학교 자동차전자제어연구실 ACELAB 교수는 \\\"기술적으로는 상당부분 상용화 단계에 와있으나, 관련한 법·제도적 여건 때문에 이 같은 서비스가 상용화되려면 시간이 걸릴 것\\\"이라며 \\\"이번 시연을 통해 자율주행이 성공적으로 수행될 수 있다는 가능성을 보게 되면 더 나아가 다양한 서비스로 확장시킬 수 있을 것 같다. 향후 장애인·고령자·임산부 등 교통 약자들을 위한 서비스로도 큰 역할을 할 수 있길 기대한다\\\"고 말했다.",
+				"sentenceSize": 244
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"운전자 내리면 차가 주차장 찾아가 주차를 했다\\\"…LGU+ 자율차 타보니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 37,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 38,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 39,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 40,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 41,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 42,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 43,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 44,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324991",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "애플 '아이폰X' 11월 3일 출시… 가격은 999달러부터",
+		"newsSubTitle": "",
+		"newsContent": "베일에 싸여 있던 애플 '아이폰X' 출시일과 가격이 공개됐다.\n애플은 미국 캘리포니아주 쿠퍼티노 본사에 위치한 스티브 잡스 극장에서 이벤트를 열고, 11월 3일 '아이폰X'를 정식 출시한다고 밝혔다.\n사전예약은 27일부터 시작한다.\n아이폰X는 64GB∙256GB 용량으로 구분되며, 가격은 999달러(약 113만원)부터다.\n아이폰X는 유기발광다이오드(OLED) 디스플레이를 탑재했으며, 안면인식 기능인 '페이스ID'를 처음 지원한다.\n애플페이에도 페이스ID 기능을 적용했다.\n베젤리스 디자인을 채택하고, 홈 버튼을 없앴다.\n5.8인치 수퍼 레티나 디스플레이, 1200만 화소 듀얼카메라, A11 칩셋, 무선충전 및 고속충전 기능을 품었다.\n이용자 얼굴 표정을 기반으로 맞춤형 3D 이모티콘을 만드는 '애니모지' 기능도 지원한다.\n애플은 이날 아이폰X를 비롯해 △아이폰8∙아이폰8플러스 △롱텀에벌루션(LTE) 기능을 탑재한 애플워치3 △HDR 4K 해상도를 지원하는 애플TV 등을 공개했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "베일에 싸여 있던 애플 '아이폰X' 출시일과 가격이 공개됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애플은 미국 캘리포니아주 쿠퍼티노 본사에 위치한 스티브 잡스 극장에서 이벤트를 열고, 11월 3일 '아이폰X'를 정식 출시한다고 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사전예약은 27일부터 시작한다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이폰X는 64GB∙256GB 용량으로 구분되며, 가격은 999달러(약 113만원)부터다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아이폰X는 유기발광다이오드(OLED) 디스플레이를 탑재했으며, 안면인식 기능인 '페이스ID'를 처음 지원한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "애플페이에도 페이스ID 기능을 적용했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "베젤리스 디자인을 채택하고, 홈 버튼을 없앴다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "5.8인치 수퍼 레티나 디스플레이, 1200만 화소 듀얼카메라, A11 칩셋, 무선충전 및 고속충전 기능을 품었다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이용자 얼굴 표정을 기반으로 맞춤형 3D 이모티콘을 만드는 '애니모지' 기능도 지원한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "애플은 이날 아이폰X를 비롯해 △아이폰8∙아이폰8플러스 △롱텀에벌루션(LTE) 기능을 탑재한 애플워치3 △HDR 4K 해상도를 지원하는 애플TV 등을 공개했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플 '아이폰X' 11월 3일 출시… 가격은 999달러부터",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

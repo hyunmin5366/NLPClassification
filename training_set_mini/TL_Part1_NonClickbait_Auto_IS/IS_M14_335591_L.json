@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335591",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "지티원, IoT 데이터 품질 측정기술 개발…관련 특허 획득",
+		"newsSubTitle": "",
+		"newsContent": "사물인터넷(IoT) 데이터 품질을 측정할 수 있는 기술이 개발됐다.\n이 특허를 바탕으로 한 솔루션이 하반기 중 선보인다.\nIoT 데이터 품질을 높여 스마트팩토리 등 생산성 향상에 기여할 전망이다.\n거버넌스∙컴플라이언스 솔루션 전문기업 지티원(대표 이수용)은 'IoT 스트림 데이터 품질 측정 지표∙프로파일링 방법 및 그 시스템'에 대한 특허를 획득했다고 6일 밝혔다.\nIoT 시장이 확대되고 있지만 엄청난 양의 실시간 센서 데이터를 제대로 활용하기에는 현실적 어려움이 존재한다.\nIoT 센서 데이터가 다양한 오류 상황에 처할 수 있기 때문이다.\n실시간 센서 오류, 네트워크 신호지연 등으로 △데이터 생성 급증 또는 급감 △데이터 값 변동폭 폭등 또는 폭락 △이상 데이터 생성 증가 등이 발생해 해당 데이터 품질 확보가 어려울 수 있다.\n이에따라 IoT 활용도가 낮아지는 상황이 발생한다.\n지티원은 이같은 문제를 해결하기 위해 국내 최초로 IoT 데이터 품질 측정 방법을 제시했다.\nIoT 실시간 스트리밍 데이터 품질을 단일 신호 및 다중 신호 기반으로 측정할 수 있는 다양한 지표와 분석 방법을 개발했다.\n데이터 생성이 급증하거나 데이터가 아주 작은 변동 범위 안에서만 변화하는 상황 등을 측정해 데이터 품질 수준을 파악한다.\n또 IoT 센서 데이터 간 규칙을 이용해 품질을 측정하고 관리하는 방법을 제시했다.\n지티원은 이번 특허를 활용해 현장에서 생산되는 IoT 데이터 품질를 실시간 측정할 수 있는 솔루션을 개발할 예정이다.\n데이터 품질을 진단 관리해 저품질 데이터로 인한 비즈니스 위험을 방지하고 보다 나은 의사결정을 유도하는 '디큐(DQ)마이너'에 관련 기능을 탑재한다.\n디큐마이너는 주요 데이터 품질지표를 설정하고 설정 지표에 의해 계량화된 측정이 가능하도록 해준다.\n기간별 측정 품질지표 추이 모니터링, 데이터 프로파일링, 규칙 위배 오류 데이터 추출, 데이터 품질 관리 프로세스 생성, 등록 및 관리 기능 등 데이터 품질 관리를 위해 필요한 다양한 기능을 제공한다.\n이수용 지티원 대표는 \\\"스마트팩토리 등은 IoT 장비 활용에만 초점을 맞춰져 있지만 고품질 IoT 데이터 확보도 중요하다\\\"면서 \\\"하반기 특허 기술을 기반으로 '디큐마이너 포 IoT'를 상용화해 시계열 빅데이터와 실시간 스트리밍 데이터 품질을 확보해야 하는 스마트팩토리와 스마트시티 등에 적용하겠다\\\"고 말했다.\n지티원은 올해 △애플리케이션거버넌스 △데이터거버넌스 △금융컴플라이언스 등 3대 솔루션 제품군을 앞세워 국내외 시장을 공략한다. 3대 솔루션 제품군의 차별화를 위한 끊임없는 기술력 향상과 신속한 현지화 전략으로 해외 시장을 공략할 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사물인터넷(IoT) 데이터 품질을 측정할 수 있는 기술이 개발됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 특허를 바탕으로 한 솔루션이 하반기 중 선보인다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "IoT 데이터 품질을 높여 스마트팩토리 등 생산성 향상에 기여할 전망이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "거버넌스∙컴플라이언스 솔루션 전문기업 지티원(대표 이수용)은 'IoT 스트림 데이터 품질 측정 지표∙프로파일링 방법 및 그 시스템'에 대한 특허를 획득했다고 6일 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "IoT 시장이 확대되고 있지만 엄청난 양의 실시간 센서 데이터를 제대로 활용하기에는 현실적 어려움이 존재한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "IoT 센서 데이터가 다양한 오류 상황에 처할 수 있기 때문이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실시간 센서 오류, 네트워크 신호지연 등으로 △데이터 생성 급증 또는 급감 △데이터 값 변동폭 폭등 또는 폭락 △이상 데이터 생성 증가 등이 발생해 해당 데이터 품질 확보가 어려울 수 있다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에따라 IoT 활용도가 낮아지는 상황이 발생한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지티원은 이같은 문제를 해결하기 위해 국내 최초로 IoT 데이터 품질 측정 방법을 제시했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "IoT 실시간 스트리밍 데이터 품질을 단일 신호 및 다중 신호 기반으로 측정할 수 있는 다양한 지표와 분석 방법을 개발했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "데이터 생성이 급증하거나 데이터가 아주 작은 변동 범위 안에서만 변화하는 상황 등을 측정해 데이터 품질 수준을 파악한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "또 IoT 센서 데이터 간 규칙을 이용해 품질을 측정하고 관리하는 방법을 제시했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "지티원은 이번 특허를 활용해 현장에서 생산되는 IoT 데이터 품질를 실시간 측정할 수 있는 솔루션을 개발할 예정이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "데이터 품질을 진단 관리해 저품질 데이터로 인한 비즈니스 위험을 방지하고 보다 나은 의사결정을 유도하는 '디큐(DQ)마이너'에 관련 기능을 탑재한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "디큐마이너는 주요 데이터 품질지표를 설정하고 설정 지표에 의해 계량화된 측정이 가능하도록 해준다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "기간별 측정 품질지표 추이 모니터링, 데이터 프로파일링, 규칙 위배 오류 데이터 추출, 데이터 품질 관리 프로세스 생성, 등록 및 관리 기능 등 데이터 품질 관리를 위해 필요한 다양한 기능을 제공한다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이수용 지티원 대표는 \\\"스마트팩토리 등은 IoT 장비 활용에만 초점을 맞춰져 있지만 고품질 IoT 데이터 확보도 중요하다\\\"면서 \\\"하반기 특허 기술을 기반으로 '디큐마이너 포 IoT'를 상용화해 시계열 빅데이터와 실시간 스트리밍 데이터 품질을 확보해야 하는 스마트팩토리와 스마트시티 등에 적용하겠다\\\"고 말했다.",
+				"sentenceSize": 176
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "지티원은 올해 △애플리케이션거버넌스 △데이터거버넌스 △금융컴플라이언스 등 3대 솔루션 제품군을 앞세워 국내외 시장을 공략한다. 3대 솔루션 제품군의 차별화를 위한 끊임없는 기술력 향상과 신속한 현지화 전략으로 해외 시장을 공략할 방침이다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지티원, IoT 데이터 품질 측정기술 개발…관련 특허 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

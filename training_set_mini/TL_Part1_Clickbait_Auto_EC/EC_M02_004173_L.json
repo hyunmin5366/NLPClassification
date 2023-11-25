@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004173",
+		"newsCategory": "경제",
+		"newsSubcategory": "정책금융",
+		"newsTitle": "한국은행, 기준금리 0.75%로 동결...경기 불확실성 여파",
+		"newsSubTitle": "실물경제 및 부동산-주식 시장 불확실성 영향",
+		"newsContent": "한국은행이 기준금리를 연 0.75%로 동결했다.\n지난 8월 한국은행 금융통화위원회(이하 금통위)에서 기준금리를 0.75%로 0.25%p 인상한 이후, 첫 번째 동결이다.\n신종 코로나바이러스 감염증(코로나19)의 4차 대유행이 장기화되면서 경기 불확실성이 심화된데 따른 조치로 해석된다.\n한국은행은 12일 오전 금융통화위원회 본회의를 열고 기준금리를 연 0.75%로 동결한다고 밝혔다.\n한국은행은 지난해 기존 0.75%에서 0.5%로 0.25%p 인하한 이후, 지난 8월 금통위에서 1년 3개월만에 전격 금리를 인상하며 '초저금리 시대'의 마감을 알린 바 있다.\n일각에서는 연내 기준금리 추가 인상을 공언한 한국은행이 전격적으로 두 번째 금리인상을 결정할 가능성도 점쳤다.\n하지만 코로나19사태의 4차 대유행에 따른 실물경기 및 주식·부동산 시장의 불안정성이 이번 동결 결정으로 이어진 것으로 분석된다.\n금융업계의 한 관계자는 데일리임팩트에 \\\"오늘 금통위에서 8월 금리인상 여파를 분석하고 효과를 논의했을 것\\\"이라며 \\\"11월 기준금리 인상 가능성은 여전히 높아보인다\\\"라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국은행이 기준금리를 연 0.75%로 동결했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 8월 한국은행 금융통화위원회(이하 금통위)에서 기준금리를 0.75%로 0.25%p 인상한 이후, 첫 번째 동결이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신종 코로나바이러스 감염증(코로나19)의 4차 대유행이 장기화되면서 경기 불확실성이 심화된데 따른 조치로 해석된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국은행은 12일 오전 금융통화위원회 본회의를 열고 기준금리를 연 0.75%로 동결한다고 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국은행은 지난해 기존 0.75%에서 0.5%로 0.25%p 인하한 이후, 지난 8월 금통위에서 1년 3개월만에 전격 금리를 인상하며 '초저금리 시대'의 마감을 알린 바 있다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일각에서는 연내 기준금리 추가 인상을 공언한 한국은행이 전격적으로 두 번째 금리인상을 결정할 가능성도 점쳤다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 코로나19사태의 4차 대유행에 따른 실물경기 및 주식·부동산 시장의 불안정성이 이번 동결 결정으로 이어진 것으로 분석된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "금융업계의 한 관계자는 데일리임팩트에 \\\"오늘 금통위에서 8월 금리인상 여파를 분석하고 효과를 논의했을 것\\\"이라며 \\\"11월 기준금리 인상 가능성은 여전히 높아보인다\\\"라고 말했다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "내년 열차 하루평균 34회 증차",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

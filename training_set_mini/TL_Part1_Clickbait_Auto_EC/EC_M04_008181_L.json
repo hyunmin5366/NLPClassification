@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008181",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "일본 쓰나미 피해지역 해양변화 포착",
+		"newsSubTitle": "육상파괴 잔존물 유입에 따른 급격한 해수환경 변화 관측",
+		"newsContent": "한국해양연구원은 13일 일본 북동부 지역 대지진으로 인해 발생한 급격한 해양의 변화를 관측한 위성영상 자료를 공개했다.\n천리안 해양관측위성(GOCI·Geostationary Ocean Color Imager)이 12일 포착한 자료에 따르면, 지진과 쓰나미로 인해 육상에서 파괴된 다량의 잔존물과 탁수가 해안가에서부터 바다 쪽으로 약 10㎞ 가량 넓게 퍼져 있는 모습을 바다의 색을 통하여 확인할 수 있다.\n이는 쓰나미가 발생하면서 육지를 덮쳤던 바닷물이 바다로 빠져나가는 과정에서 다량의 흙탕물과 오염물질을 포함한 채 바다로 흘러 들어갔기 때문인 것으로 보인다.\n해양연은 일본의 대지진 및 쓰나미 피해가 발생하기 전인 3월 9일 관측자료도 추가로 공개했다.\n9일 자료에서는 연안의 바다색에서 특이한 징후를 발견할 수 없으나 쓰나미 발생 이후 관측된 12일 영상에서는 동쪽 해안을 따라 탁도가 높은 것으로 판단할 수 있는 바다색이 관측됐다.\n천리안 해양관측위성은 동북아 인근 지역을 1시간 간격으로 매일 8회 관측함으로써 해양에서 단기간에 일어나는 변화를 빠르게 관측하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국해양연구원은 13일 일본 북동부 지역 대지진으로 인해 발생한 급격한 해양의 변화를 관측한 위성영상 자료를 공개했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "천리안 해양관측위성(GOCI·Geostationary Ocean Color Imager)이 12일 포착한 자료에 따르면, 지진과 쓰나미로 인해 육상에서 파괴된 다량의 잔존물과 탁수가 해안가에서부터 바다 쪽으로 약 10㎞ 가량 넓게 퍼져 있는 모습을 바다의 색을 통하여 확인할 수 있다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 쓰나미가 발생하면서 육지를 덮쳤던 바닷물이 바다로 빠져나가는 과정에서 다량의 흙탕물과 오염물질을 포함한 채 바다로 흘러 들어갔기 때문인 것으로 보인다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해양연은 일본의 대지진 및 쓰나미 피해가 발생하기 전인 3월 9일 관측자료도 추가로 공개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "9일 자료에서는 연안의 바다색에서 특이한 징후를 발견할 수 없으나 쓰나미 발생 이후 관측된 12일 영상에서는 동쪽 해안을 따라 탁도가 높은 것으로 판단할 수 있는 바다색이 관측됐다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "천리안 해양관측위성은 동북아 인근 지역을 1시간 간격으로 매일 8회 관측함으로써 해양에서 단기간에 일어나는 변화를 빠르게 관측하고 있다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "IBK기업은행, 중소기업을 위한 'ESG가이드' 발간",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

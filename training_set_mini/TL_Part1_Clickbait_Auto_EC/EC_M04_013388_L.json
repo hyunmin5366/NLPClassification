@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013388",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "중견기업 '모뉴엘' 법정관리 신청… 빌게이츠도 극찬했는데 왜?",
+		"newsSubTitle": "",
+		"newsContent": "▲ 모뉴엘 모뉴엘 법정관리 모뉴엘(대표 박홍석)이 갑자기 법정관리를 신청해 충격을 주고있다.\n이 기업은 지난해 영업이익 1100원을 기록한 강소기업으로, 마이크로소프트 창업자 빌 게이츠가 2007년 CES 기조연설에서 주목할 회사로 지목해 화제가 되기도 했었다.\n금융계에 따르면 모뉴엘은 채권은행에 갚아야 할 차입금을 연체하자 지난 20일 법무법인을 통해 수원지방법원에 법정관리를 신청했다.\n모뉴엘의 채권은행은 기업과 산업, 농협은행 등 대부분이 1금융권이고, 채권규모는 5천억 원대인 것으로 알려졌다.\n지난 2004년 설립된 모뉴엘은 로봇청소기와 PC 등 주요 생활가전 제품에서 두각을 나타냈으며, 청각장애인 부모를 위한 아기 돌보미 제품 '배블' 등을 출시해 주목을 받아왔다.\n법정관리를 신청한 후 박 대표의 행적이 묘연한 상황이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 모뉴엘 모뉴엘 법정관리 모뉴엘(대표 박홍석)이 갑자기 법정관리를 신청해 충격을 주고있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 기업은 지난해 영업이익 1100원을 기록한 강소기업으로, 마이크로소프트 창업자 빌 게이츠가 2007년 CES 기조연설에서 주목할 회사로 지목해 화제가 되기도 했었다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "금융계에 따르면 모뉴엘은 채권은행에 갚아야 할 차입금을 연체하자 지난 20일 법무법인을 통해 수원지방법원에 법정관리를 신청했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "모뉴엘의 채권은행은 기업과 산업, 농협은행 등 대부분이 1금융권이고, 채권규모는 5천억 원대인 것으로 알려졌다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 2004년 설립된 모뉴엘은 로봇청소기와 PC 등 주요 생활가전 제품에서 두각을 나타냈으며, 청각장애인 부모를 위한 아기 돌보미 제품 '배블' 등을 출시해 주목을 받아왔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "법정관리를 신청한 후 박 대표의 행적이 묘연한 상황이다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세종 전세시장, 지난주도 휘청",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

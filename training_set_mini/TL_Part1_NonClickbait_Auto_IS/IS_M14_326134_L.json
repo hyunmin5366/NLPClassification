@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326134",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "[테크비즈코리아 2020]<10>항 코로나19 정전분무 공기정화 시스템",
+		"newsSubTitle": "",
+		"newsContent": "한국과학기술원(KAIST)은 물방울을 활용, 코로나19 바이러스를 죽이는 기술을 내놨다.\n이승섭 기계공학과 교수팀이 성과를 냈다.\n정식 기술명은 '가습, 탈취, 미세먼지 제거, 항균·바이러스가 가능한 물 정전분무 시스템'이다.\n폴리머 초미세 노즐로 코로나19 바이러스 살균 기능을 가진 초미세 물방울을 양산하는 것이 주된 기술 내용이다.\n이 기술을 활용하면 작게는 나노미터(㎚) 크기로 'OH 래디컬'을 함유한 물방울을 만들 수 있다.\nOH 래디컬은 오염물질을 살균하지만, 인체에는 무해하다.\n연구팀은 세계에서 처음으로 멤스(MEMS) 기술로 제작된 폴리머 재질 초미세 노즐을 이용해 정전분무 방식을 구현했다.\n이때 인체에 해로운 오존이 발생하지 않는 것이 특징이다.\n기존에도 작은 물방울을 구현하는 기술이 있었지만, 오존이 발생하는 문제가 있었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국과학기술원(KAIST)은 물방울을 활용, 코로나19 바이러스를 죽이는 기술을 내놨다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이승섭 기계공학과 교수팀이 성과를 냈다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정식 기술명은 '가습, 탈취, 미세먼지 제거, 항균·바이러스가 가능한 물 정전분무 시스템'이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "폴리머 초미세 노즐로 코로나19 바이러스 살균 기능을 가진 초미세 물방울을 양산하는 것이 주된 기술 내용이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 기술을 활용하면 작게는 나노미터(㎚) 크기로 'OH 래디컬'을 함유한 물방울을 만들 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "OH 래디컬은 오염물질을 살균하지만, 인체에는 무해하다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구팀은 세계에서 처음으로 멤스(MEMS) 기술로 제작된 폴리머 재질 초미세 노즐을 이용해 정전분무 방식을 구현했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이때 인체에 해로운 오존이 발생하지 않는 것이 특징이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기존에도 작은 물방울을 구현하는 기술이 있었지만, 오존이 발생하는 문제가 있었다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[테크비즈코리아 2020]<10>항 코로나19 정전분무 공기정화 시스템",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335339",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "페북 메신저에서 애플 뮤직 듣는다…'채팅 중 노래 공유'",
+		"newsSubTitle": "",
+		"newsContent": "애플 뮤직이 페이스북 메신저에서 실행된다.\n6일(현지시간) 영국 데일리메일에 따르면 애플 뮤직이 페이스북 메신저에서 공식 출시됐다.\n사용자는 채팅하면서 노래를 스트리밍할 수 있다.\n상대방과 음악을 공유하는 것도 가능하다.\n애플 뮤직 가입자는 페이스북 메신저에서 전체 노래를 들을 수 있다.\n비회원은 30초짜리 클립 음악을 듣고 공유할 수 있다.\n사용법은 간단하다.\n페이스북 메신저 앱 그룹 채팅 기능 중 일대일 '+' 기호를 선택하면 음악 채팅 확장 프로그램이 해당 대화에 추가되는 방식이다.\n앱과 데스크톱 메신저 홈 화면에서 애플 뮤직을 검색한 뒤 노래를 찾을 수도 있다.\n채팅 봇 확장 프로그램에 메시지를 보내도 된다.\n데일리메일은 \\\"애플 뮤직이 메신저를 떠나지 않고도 좋아하는 음악을 감상할 수 있는 놀라운 경험을 구현했다\\\"며 \\\"10만명이 넘는 개발자가 만들어낸 성과\\\"라고 평가했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플 뮤직이 페이스북 메신저에서 실행된다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일(현지시간) 영국 데일리메일에 따르면 애플 뮤직이 페이스북 메신저에서 공식 출시됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사용자는 채팅하면서 노래를 스트리밍할 수 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "상대방과 음악을 공유하는 것도 가능하다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플 뮤직 가입자는 페이스북 메신저에서 전체 노래를 들을 수 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비회원은 30초짜리 클립 음악을 듣고 공유할 수 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사용법은 간단하다.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "페이스북 메신저 앱 그룹 채팅 기능 중 일대일 '+' 기호를 선택하면 음악 채팅 확장 프로그램이 해당 대화에 추가되는 방식이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "앱과 데스크톱 메신저 홈 화면에서 애플 뮤직을 검색한 뒤 노래를 찾을 수도 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "채팅 봇 확장 프로그램에 메시지를 보내도 된다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "데일리메일은 \\\"애플 뮤직이 메신저를 떠나지 않고도 좋아하는 음악을 감상할 수 있는 놀라운 경험을 구현했다\\\"며 \\\"10만명이 넘는 개발자가 만들어낸 성과\\\"라고 평가했다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "페북 메신저에서 애플 뮤직 듣는다…'채팅 중 노래 공유'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

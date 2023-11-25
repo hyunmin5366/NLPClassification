@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335967",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "엘라스틱, 데이터 솔루션 '엘라스틱 스택 v7.6' 출시…검색·보안·머신러닝 기능 강화",
+		"newsSubTitle": "",
+		"newsContent": "실시간 대용량 데이터 수집·통계·분석·처리 분야 글로벌 선도업체 엘라스틱은 검색·분석 엔진 '엘라스틱 서치'의 속도를 대폭 향상하고 보안 기능과 지도 머신러닝 기능 등을 강화한 '엘라스틱 스택 v7.6'을 출시했다.\n엘라스틱 스택 v7.6은 엘라스틱 서치의 검색 성능을 대폭 향상했다.\n엘라스틱은 날짜별 또는 다른 긴 값을 기준으로 정렬되는 쿼리 성능을 개선하기 위해 정렬된 쿼리에 문서를 특정 블록 단위로 묶고 맥스 스코어를 기록하는 '블록-맥스 WAND 최적화' 방식을 적용했다.\n이를 통해 이용자는 시간에 맞춰 데이터를 정렬할 수 있으며 엘라스틱 로그 앱에서 오류를 추적해 찾거나 위협을 조사하는 속도를 대폭 향상할 수 있다.\n지도 머신러닝 기능도 주요 특징이다.\n모델 교육에서부터 수집 시 추론을 위해 모델을 사용하는 것에 이르기까지 엔드투엔드 지도 머신러닝 기능을 제공한다.\n이를 통해 실무자들은 통합 가시성, 보안, 엔터프라이즈 검색 사용 사례 등에서 분류·회귀 등 지도 머신러닝 방법을 턴키 방식으로 만들 수 있다.\n보안 기능도 강화했다.\n새 통합보안관리 탐색엔진을 도입해 스레드 탐색을 자동화하고 평균 진단 시간을 최소화한다.\n보안 조사 시간을 수 시간에서 수 분으로 줄여준다.\n참조 자료에 맞춘 100여개 위협 기본규칙도 제공, 다른 도구가 놓치는 위협 신호를 드러내는데 도움을 준다.\n결과적으로 탐색엔진이 생성하는 신호 위험과 심각도 점수를 쉽게 파악할 수 있어 효율적 분류를 제공, 분석가가 가장 중요한 작업에 집중할 수 있다.\n아마존 웹서비스(AWS), 구글 클라우드 플랫폼 로그와 통합으로 더욱 강력한 클라우드 보안이 가능하다.\n엘라스틱 스택 7.6버전은 엘라스틱 클라우드 호스트형 서비스 '엘라스틱 서치 서비스'에서 즉시 사용할 수 있으며 자체 관리 환경에서도 다운로드할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "실시간 대용량 데이터 수집·통계·분석·처리 분야 글로벌 선도업체 엘라스틱은 검색·분석 엔진 '엘라스틱 서치'의 속도를 대폭 향상하고 보안 기능과 지도 머신러닝 기능 등을 강화한 '엘라스틱 스택 v7.6'을 출시했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엘라스틱 스택 v7.6은 엘라스틱 서치의 검색 성능을 대폭 향상했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "엘라스틱은 날짜별 또는 다른 긴 값을 기준으로 정렬되는 쿼리 성능을 개선하기 위해 정렬된 쿼리에 문서를 특정 블록 단위로 묶고 맥스 스코어를 기록하는 '블록-맥스 WAND 최적화' 방식을 적용했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 통해 이용자는 시간에 맞춰 데이터를 정렬할 수 있으며 엘라스틱 로그 앱에서 오류를 추적해 찾거나 위협을 조사하는 속도를 대폭 향상할 수 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지도 머신러닝 기능도 주요 특징이다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모델 교육에서부터 수집 시 추론을 위해 모델을 사용하는 것에 이르기까지 엔드투엔드 지도 머신러닝 기능을 제공한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 통해 실무자들은 통합 가시성, 보안, 엔터프라이즈 검색 사용 사례 등에서 분류·회귀 등 지도 머신러닝 방법을 턴키 방식으로 만들 수 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "보안 기능도 강화했다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "새 통합보안관리 탐색엔진을 도입해 스레드 탐색을 자동화하고 평균 진단 시간을 최소화한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "보안 조사 시간을 수 시간에서 수 분으로 줄여준다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "참조 자료에 맞춘 100여개 위협 기본규칙도 제공, 다른 도구가 놓치는 위협 신호를 드러내는데 도움을 준다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "결과적으로 탐색엔진이 생성하는 신호 위험과 심각도 점수를 쉽게 파악할 수 있어 효율적 분류를 제공, 분석가가 가장 중요한 작업에 집중할 수 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "아마존 웹서비스(AWS), 구글 클라우드 플랫폼 로그와 통합으로 더욱 강력한 클라우드 보안이 가능하다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "엘라스틱 스택 7.6버전은 엘라스틱 클라우드 호스트형 서비스 '엘라스틱 서치 서비스'에서 즉시 사용할 수 있으며 자체 관리 환경에서도 다운로드할 수 있다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엘라스틱, 데이터 솔루션 '엘라스틱 스택 v7.6' 출시…검색·보안·머신러닝 기능 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

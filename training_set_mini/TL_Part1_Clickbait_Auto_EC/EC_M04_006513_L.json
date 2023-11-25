@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006513",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "'헝가리 쇼크' 국내증시 요동",
+		"newsSubTitle": "부도 가능성 언급에 코스피 26P 급락… 1637.97 마감",
+		"newsContent": "그리스에 이어 헝가리 부도사태 우려 등 유럽발 악재로 국내 주식시장이 요동쳤다.\n7일 코스피는 전거래일보다 26.16포인트(1.57%) 내린 1637.97에 장을 마감했다.\n헝가리 부도 가능성이 언급되며 유럽증시 2%, 뉴욕증시도 3%이상 하락했다.\n국내증시는 외국인은 2661억원을 매도했고 개인은 1094억원, 기관은 1041억원 어치를 사들였다.\n업종별로는 통신업(-0.27%), 음식료품(-0.40%), 의약품(-0.44%), 운수장비(-0.82%), 은행(-3.17%), 의료정밀(-3.06%), 기계(-2.90%), 금융업(-2.75%)이 하락했다.\n코스닥 지수도 10.59포인트(2.14%) 내린 483.12에 장을 마감했다.\n코스닥은 개인이 358억원을 순매수했고 외국인은 288억원, 기관은 62억원을 순매도했다.\n업종별로는 음식료·담배(+0.46%)은 상승했고 방송서비스(-0.19%), 출판·매체복제(-0.43%), 오락·문화(-0.67%), 섬유·의류(-3.61%), 컴퓨터서비스(-3.06%), 금속(-2.99%), 일반전기전자(-2.94%)는 하락했다.\n한편, 서울 외환시장에서 원·달러 환율은 34.10원(2.84%) 오른 1235.90원에 거래를 마쳤다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그리스에 이어 헝가리 부도사태 우려 등 유럽발 악재로 국내 주식시장이 요동쳤다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 코스피는 전거래일보다 26.16포인트(1.57%) 내린 1637.97에 장을 마감했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "헝가리 부도 가능성이 언급되며 유럽증시 2%, 뉴욕증시도 3%이상 하락했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국내증시는 외국인은 2661억원을 매도했고 개인은 1094억원, 기관은 1041억원 어치를 사들였다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업종별로는 통신업(-0.27%), 음식료품(-0.40%), 의약품(-0.44%), 운수장비(-0.82%), 은행(-3.17%), 의료정밀(-3.06%), 기계(-2.90%), 금융업(-2.75%)이 하락했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코스닥 지수도 10.59포인트(2.14%) 내린 483.12에 장을 마감했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코스닥은 개인이 358억원을 순매수했고 외국인은 288억원, 기관은 62억원을 순매도했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "업종별로는 음식료·담배(+0.46%)은 상승했고 방송서비스(-0.19%), 출판·매체복제(-0.43%), 오락·문화(-0.67%), 섬유·의류(-3.61%), 컴퓨터서비스(-3.06%), 금속(-2.99%), 일반전기전자(-2.94%)는 하락했다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편, 서울 외환시장에서 원·달러 환율은 34.10원(2.84%) 오른 1235.90원에 거래를 마쳤다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "새해 첫 달 지역 경기 웃을까?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

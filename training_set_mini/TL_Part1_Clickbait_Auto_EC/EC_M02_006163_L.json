@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006163",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설부동산",
+		"newsTitle": "GS건설, 상반기 정비사업 수주액 3조원 돌파",
+		"newsSubTitle": "서울 등 알짜도시 중심 수주 의미",
+		"newsContent": "GS건설의 상반기 도시정비 수주액이 3조원을 돌파했다.\nGS건설은 올해 초부터 6월 말까지 서울시 용산구 이촌한강맨션 재건축을 시작으로 모두 8건의 도시정비 사업을 수주, 3조2107억원의 누적수주액을 기록했다고 1일 밝혔다.\n정비사업 유형별로는 재건축과 재개발 각각 4건이다.\n지역별로 서울·부산·대전·광주로 사업 안정성이 높은 곳을 중심으로 수주가 이뤄졌다.\nGS건설은 서울에서만 전체 수주액의 절반이 넘는 1조6206억원을 기록했다.\nGS건설 관계자는 데일리임팩트에 \\\"자이 브랜드 신뢰도를 바탕으로 도시정비에서 올 상반기에만 3조원의 수주액을 달성하게 됐다\\\"라며 \\\"하반기에도 재개발과 재건축 뿐 아니라 리모델링까지 적극적으로 수주해 지난 2021년(5조원) 못지 않은 실적을 거둘 것으로 기대한다\\\"라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "GS건설의 상반기 도시정비 수주액이 3조원을 돌파했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "GS건설은 올해 초부터 6월 말까지 서울시 용산구 이촌한강맨션 재건축을 시작으로 모두 8건의 도시정비 사업을 수주, 3조2107억원의 누적수주액을 기록했다고 1일 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정비사업 유형별로는 재건축과 재개발 각각 4건이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지역별로 서울·부산·대전·광주로 사업 안정성이 높은 곳을 중심으로 수주가 이뤄졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "GS건설은 서울에서만 전체 수주액의 절반이 넘는 1조6206억원을 기록했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "GS건설 관계자는 데일리임팩트에 \\\"자이 브랜드 신뢰도를 바탕으로 도시정비에서 올 상반기에만 3조원의 수주액을 달성하게 됐다\\\"라며 \\\"하반기에도 재개발과 재건축 뿐 아니라 리모델링까지 적극적으로 수주해 지난 2021년(5조원) 못지 않은 실적을 거둘 것으로 기대한다\\\"라고 밝혔다.",
+				"sentenceSize": 158
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우리은행, 4000억원 규모 'ESG 원화 후순위채권' 발행 성공",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

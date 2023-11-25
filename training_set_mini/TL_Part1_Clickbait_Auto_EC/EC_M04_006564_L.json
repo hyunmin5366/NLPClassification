@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006564",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "대전 미분양 5개월 연속 감소",
+		"newsSubTitle": "2567가구로 한달새 154가구 ↓… 대덕구 1040가구 물량 최다",
+		"newsContent": "대전지역 미분양주택이 5개월 연속 감소한 것으로 나타났다.\n16일 대전시에 따르면 지난달 말 기준 대전 미분양주택은 2567가구로 전월말보다 154가구(5.7%) 줄었다.\n전년 동월 대비로는 497가구(16.2%) 감소한 것이다.\n5월에도 신규 미분양 물량이 없었고, 5개구지역의 기존 미분양주택이 일부 해소되면서 1월부터 5개월째 감소세를 이어가고 있다.\n구별로는 대덕구가 1040가구로 미분양 물량이 가장 많았으며, 유성구 793가구, 서구 430가구, 중구 265가구, 동구 39가구 순이다.\n준공 후 미분양은 서구지역의 준공물량이 반영되면서 전월보다 75가구 증가한 303가구를 기록했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전지역 미분양주택이 5개월 연속 감소한 것으로 나타났다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 대전시에 따르면 지난달 말 기준 대전 미분양주택은 2567가구로 전월말보다 154가구(5.7%) 줄었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전년 동월 대비로는 497가구(16.2%) 감소한 것이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "5월에도 신규 미분양 물량이 없었고, 5개구지역의 기존 미분양주택이 일부 해소되면서 1월부터 5개월째 감소세를 이어가고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구별로는 대덕구가 1040가구로 미분양 물량이 가장 많았으며, 유성구 793가구, 서구 430가구, 중구 265가구, 동구 39가구 순이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "준공 후 미분양은 서구지역의 준공물량이 반영되면서 전월보다 75가구 증가한 303가구를 기록했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전서 2억4천만원 아파트 올 구입땐 내년에 팔면 588만원 세금 면제",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

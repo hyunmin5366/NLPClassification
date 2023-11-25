@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326214",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]삼성전자 태블릿 獨 내구성 평가서 1위",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자 태블릿 '갤럭시탭' 시리즈가 독일에서 실시된 내구성 평가에서 가장 높은 평가를 받았다.\n독일 전자기기 보증서비스 업체 버트가란티가 시장조사업체 스태티스타가와 공동 실시한 '2018 태블릿 내구성 테스트 결과'에 따르면, 삼성전자는 태블릿 제품 부문에서 평균 1.5점으로 가장 높은 평가를 받았다.\n버트가란티는 \\\"태블릿 안전 보험 가입자의 제품 수리 정보와 독일 태블릿 이용자 1만1149명을 대상으로 설문조사 한 것\\\"이라며 \\\"평점이 낮을 수록 내구성이 우수하다는 의미\\\"라고 소개했다.\n화웨이 미디어패드 T2 프로(10인치)도 평점 1.3점으로 5위권에 포함됐으며, 애플 아이패드 시리즈는 평균 1.9점으로 전체 평균 1.7점보다 낮은 평가를 받았다.\n최하위 제품은 레노버 탭2(평점 2.6점)와 에이수스 젠패드(평점 3.5점)가 차지했다.\n버트가란티는 \\\"갤럭시탭4(7인치)의 경우 튼튼한 내구성을 갖춰 수리 빈도가 가장 적고, 고장 시 수리 비용이 낮다는 점을 높게 평가한 것\\\"이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자 태블릿 '갤럭시탭' 시리즈가 독일에서 실시된 내구성 평가에서 가장 높은 평가를 받았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "독일 전자기기 보증서비스 업체 버트가란티가 시장조사업체 스태티스타가와 공동 실시한 '2018 태블릿 내구성 테스트 결과'에 따르면, 삼성전자는 태블릿 제품 부문에서 평균 1.5점으로 가장 높은 평가를 받았다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "버트가란티는 \\\"태블릿 안전 보험 가입자의 제품 수리 정보와 독일 태블릿 이용자 1만1149명을 대상으로 설문조사 한 것\\\"이라며 \\\"평점이 낮을 수록 내구성이 우수하다는 의미\\\"라고 소개했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "화웨이 미디어패드 T2 프로(10인치)도 평점 1.3점으로 5위권에 포함됐으며, 애플 아이패드 시리즈는 평균 1.9점으로 전체 평균 1.7점보다 낮은 평가를 받았다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최하위 제품은 레노버 탭2(평점 2.6점)와 에이수스 젠패드(평점 3.5점)가 차지했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "버트가란티는 \\\"갤럭시탭4(7인치)의 경우 튼튼한 내구성을 갖춰 수리 빈도가 가장 적고, 고장 시 수리 비용이 낮다는 점을 높게 평가한 것\\\"이라고 설명했다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]삼성전자 태블릿 獨 내구성 평가서 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

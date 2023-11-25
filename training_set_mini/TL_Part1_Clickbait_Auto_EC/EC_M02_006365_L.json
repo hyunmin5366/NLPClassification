@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006365",
+		"newsCategory": "경제",
+		"newsSubcategory": "종목",
+		"newsTitle": "케이씨씨, 주당 1000원 현금 분기배당 실시",
+		"newsSubTitle": "",
+		"newsContent": "케이씨씨가 현금 분기배당을 실시한다.\n케이씨씨는 보통주 1주당 1000원의 현금 분기배당을 결정했다고 21일 공시했다.\n배당금총액은 73억5417만원이다.\n배당금지급 예정일자는 2022년 8월 10일이다.\n케이씨씨 관계자는 데일리임팩트에 \\\"배당금총액은 당사 발행주식총수에서 배당기준일 보유중인 자사주와 자사주 취득 신탁계약을 통해 취득한 주식을 제외한 735만4171주 기준\\\"이라고 전했다.\n한편 케이씨씨는 최근 2021년 1월 1일부터 12월 31일까지의 지속가능경영 활동과 그 성과를 기록한 '2021/22 지속가능성보고서'를 제출했다고 공시한 바 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "케이씨씨가 현금 분기배당을 실시한다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "케이씨씨는 보통주 1주당 1000원의 현금 분기배당을 결정했다고 21일 공시했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "배당금총액은 73억5417만원이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "배당금지급 예정일자는 2022년 8월 10일이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "케이씨씨 관계자는 데일리임팩트에 \\\"배당금총액은 당사 발행주식총수에서 배당기준일 보유중인 자사주와 자사주 취득 신탁계약을 통해 취득한 주식을 제외한 735만4171주 기준\\\"이라고 전했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 케이씨씨는 최근 2021년 1월 1일부터 12월 31일까지의 지속가능경영 활동과 그 성과를 기록한 '2021/22 지속가능성보고서'를 제출했다고 공시한 바 있다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[클릭 e종목] \\\"사상 최대 3Q 영업익 달성 제일기획, 북미서 고성장\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

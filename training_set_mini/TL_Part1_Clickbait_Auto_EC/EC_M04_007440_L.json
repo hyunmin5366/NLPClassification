@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007440",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "쌀생산량 급감… 30년만에 최저",
+		"newsSubTitle": "올 429만 5천t 전년비 12.6%… 이상기후 영향",
+		"newsContent": "올해 쌀 생산량이 429만 5000t으로 30년 만에 가장 낮은 수준을 기록했다.\n16일 통계청이 발표한 '쌀 생산량 조사결과'에 따르면 올해 생산량은 지난해보다 62만 1000t 줄어 12.6%의 감소폭을 보였다.\n올해 쌀 생산이 이처럼 감소한 것은 연초부터 계속된 이상기후 때문이다.\n벼 생육초기인 5~6월에는 저온현상으로 이삭수가 감소했고 8~10월에는 비가 너무 많이 와 일조시간이 부족해 낟알이 영그는데 방해가 됐다.\n이른바 등숙기인 8월 중순~10월 하순의 강우량은 2008년 260.4㎜, 2009년 221.1㎜에서 올해는 무려 600.6㎜에 달했고 일조시간 역시 지난해 516.6시간에서 올해는 412.3시간으로 100시간 이상 줄었다.\n8~9월 태풍으로 벼가 쓰러지는 피해가 컸다.\n쓰러짐 피해구역 비율이 지난해 11.8%에서 올해는 29.1%로 두 배 이상 증가했다.\n지역별로는 전남이 84만6000t으로 생산량이 가장 많았고 그 뒤를 충남(79만1000t), 전북(69만1000t)이 이었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 쌀 생산량이 429만 5000t으로 30년 만에 가장 낮은 수준을 기록했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 통계청이 발표한 '쌀 생산량 조사결과'에 따르면 올해 생산량은 지난해보다 62만 1000t 줄어 12.6%의 감소폭을 보였다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올해 쌀 생산이 이처럼 감소한 것은 연초부터 계속된 이상기후 때문이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "벼 생육초기인 5~6월에는 저온현상으로 이삭수가 감소했고 8~10월에는 비가 너무 많이 와 일조시간이 부족해 낟알이 영그는데 방해가 됐다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이른바 등숙기인 8월 중순~10월 하순의 강우량은 2008년 260.4㎜, 2009년 221.1㎜에서 올해는 무려 600.6㎜에 달했고 일조시간 역시 지난해 516.6시간에서 올해는 412.3시간으로 100시간 이상 줄었다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "8~9월 태풍으로 벼가 쓰러지는 피해가 컸다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "쓰러짐 피해구역 비율이 지난해 11.8%에서 올해는 29.1%로 두 배 이상 증가했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지역별로는 전남이 84만6000t으로 생산량이 가장 많았고 그 뒤를 충남(79만1000t), 전북(69만1000t)이 이었다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“강남에서 즐기는 프라이빗 풀” AC호텔 바이 메리어트 서울 강남, 22일 개관",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

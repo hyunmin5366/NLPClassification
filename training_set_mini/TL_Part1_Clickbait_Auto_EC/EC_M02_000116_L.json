@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000116",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "국토부, 현기차 에어백 결함 조사 중",
+		"newsSubTitle": "",
+		"newsContent": "미국도로교통안전국이 지난 16일 현대기아차 모델에서 발생한 에어백 작동 불량 사건 전수 조사에 들어간 가운데 국토교통부도 해당 차종 에어백 점검에 착수했다.\n20일 박대순 국토교통부 자동차정책과장은 \\\"미국에서 문제가 됐던 YF쏘나타와 포르테 중 YF쏘나타는 대상에 없는 것으로 파악하고 있으며 포르테는 확인 중에 있다\\\"고 답했다.\n이어 \\\"문제가 됐던 독일 에어백 업체 ZF-TRW가 제작한 에어백 컨트롤 유닛에 대한 국내 유통 여부를 확인 중에 있다\\\"고 덧붙였다.\n관련 ACU 부품의 국내 유통 여부를 묻고자 현대자동차 뉴미디어실 등에 수차례 통화 시도를 했으나 연락이 닿지 않았다.\n미국도로교통안전국(NHTSA)은 2011년형 쏘나타와 2012~13년형 기아차 포르테(국내명 K3) 차량의 에어백 결함 사고가 발생하자 해당 차종 42만 5천 대의 에어백 문제를 조사하고 있다.\n현대자동차는 19일 다수 언론을 통해 \\\"생산 공장, 에어백 전개 방식 달라 국내 판매 차량과는 관련이 없다\\\"고 밝힌 바 있다.\n현대자동차 홈페이지에 별도 공지는 올라오지 않은 상태며 현대자동차 남부서비스센터 문의 결과 \\\"방송을 통해 국내 차종은 해당하지 않는다는 사실을 확인했다. 본사에서 별도 지침이 내려오지는 않았다\\\"고 답했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국도로교통안전국이 지난 16일 현대기아차 모델에서 발생한 에어백 작동 불량 사건 전수 조사에 들어간 가운데 국토교통부도 해당 차종 에어백 점검에 착수했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 박대순 국토교통부 자동차정책과장은 \\\"미국에서 문제가 됐던 YF쏘나타와 포르테 중 YF쏘나타는 대상에 없는 것으로 파악하고 있으며 포르테는 확인 중에 있다\\\"고 답했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"문제가 됐던 독일 에어백 업체 ZF-TRW가 제작한 에어백 컨트롤 유닛에 대한 국내 유통 여부를 확인 중에 있다\\\"고 덧붙였다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "관련 ACU 부품의 국내 유통 여부를 묻고자 현대자동차 뉴미디어실 등에 수차례 통화 시도를 했으나 연락이 닿지 않았다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미국도로교통안전국(NHTSA)은 2011년형 쏘나타와 2012~13년형 기아차 포르테(국내명 K3) 차량의 에어백 결함 사고가 발생하자 해당 차종 42만 5천 대의 에어백 문제를 조사하고 있다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현대자동차는 19일 다수 언론을 통해 \\\"생산 공장, 에어백 전개 방식 달라 국내 판매 차량과는 관련이 없다\\\"고 밝힌 바 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현대자동차 홈페이지에 별도 공지는 올라오지 않은 상태며 현대자동차 남부서비스센터 문의 결과 \\\"방송을 통해 국내 차종은 해당하지 않는다는 사실을 확인했다. 본사에서 별도 지침이 내려오지는 않았다\\\"고 답했다.",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "매월 한번은 전통시장 가요",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

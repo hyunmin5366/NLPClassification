@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334953",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "[2019 국내 10대 뉴스]<7> 배달의민족, 딜리버리히어로에 매각",
+		"newsSubTitle": "",
+		"newsContent": "국내 1위 배달 애플리케이션(앱) '배달의민족' 운영사 우아한형제들이 독일 딜리버리히어로(DH)에 매각됐다.\nDH는 우아한형제들 기업가치를 40억달러(약 4조7500억원)으로 평가하고 지분 87%를 인수하기로 했다.\nDH가 국내에서 운영 중인 배달 앱 '요기요'와 '배달통'은 독자 운영된다.\n우아한형제들은 DH와 싱가포르에 50대50대 지분으로 합작회사(JV) '우아DH아시아'를 설립한다.\n김봉진 우아한형제들 대표가 신설법인 회장을 맡아 대만, 라오스, 말레이시아를 포함한 11개국 사업 전반을 경영한다.\n국내 1·2·3위 배달 앱이 모두 DH 산하로 들어가면서 점유율 90% 이상을 차지하는 독점 기업 등장에 대한 시장 우려가 커졌다.\n공정거래위원회는 기업결합 심사에서 향후 각 서비스가 독립적으로 경영된다는 객관적 증거, 또 다른 경쟁업체가 진입할 수 있다는 시장 유동성 등이 종합적으로 고려해 최종 판단을 내릴 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 1위 배달 애플리케이션(앱) '배달의민족' 운영사 우아한형제들이 독일 딜리버리히어로(DH)에 매각됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "DH는 우아한형제들 기업가치를 40억달러(약 4조7500억원)으로 평가하고 지분 87%를 인수하기로 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "DH가 국내에서 운영 중인 배달 앱 '요기요'와 '배달통'은 독자 운영된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우아한형제들은 DH와 싱가포르에 50대50대 지분으로 합작회사(JV) '우아DH아시아'를 설립한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김봉진 우아한형제들 대표가 신설법인 회장을 맡아 대만, 라오스, 말레이시아를 포함한 11개국 사업 전반을 경영한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국내 1·2·3위 배달 앱이 모두 DH 산하로 들어가면서 점유율 90% 이상을 차지하는 독점 기업 등장에 대한 시장 우려가 커졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공정거래위원회는 기업결합 심사에서 향후 각 서비스가 독립적으로 경영된다는 객관적 증거, 또 다른 경쟁업체가 진입할 수 있다는 시장 유동성 등이 종합적으로 고려해 최종 판단을 내릴 예정이다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2019 국내 10대 뉴스]<7> 배달의민족, 딜리버리히어로에 매각",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

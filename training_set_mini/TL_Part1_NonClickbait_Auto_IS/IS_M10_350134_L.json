@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350134",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "라온시큐어 생체인증으로 SRT 승차권 예매한다",
+		"newsSubTitle": "null",
+		"newsContent": "라온시큐어는 자사 FIDO(Fast IDentity Online·온라인 신속신원인증) 생체인증 기반 다채널 인증 플랫폼 '원패스(OnePass)'가 SRT 예약 앱의 생체 인증 로그인 서비스에 적용됐다고 27일 밝혔다.\n라온시큐어에 따르면 SRT앱 이용자들이 회원가입 후 지문, 페이스ID 등 개인 단말기에 저장된 생체정보를 등록하면 아이디와 패스워드를 입력하지 않고도 생체인증을 통해 빠르고 간편하게 승차권 예매·확인 등의 서비스를 이용할 수 있다.\nSRT앱 회원 620만명이 원패스를 이용하게 된다.\n라온시큐어의 '원패스' 기반 생체인증 로그인 서비스는 개인정보에 대한 보안을 강화해 국제 기술 표준 규격인 FIDO 인증을 획득했다.\n이용자 생체 인증 정보를 개인이 통제할 수 있는 스마트폰에 안전하게 저장해 서버 해킹을 통한 정보 유출을 원천적으로 방지한다.\n모바일 OTP나 PC OTP, 보안 PIN 등 다양한 2차 인증 수단도 제공해 높은 보안 수준의 다중인증(MFA·Multi-Factor Authentication) 체계를 편리하게 구현할 수 있다.\n이순형 라온시큐어 대표는 \\\"코로나19로 사회 전반에서 비대면 서비스가 확대되면서 다양한 산업 분야에서 편의성과 보안성을 모두 충족하는 FIDO 생체인증에 대한 수요가 높아지고 있다\\\"며 \\\"라온시큐어는 국내 생체인증 시장을 선도하고 있는 '원패스'를 중심으로 인증 생태계를 지속 발전시켜 나가겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "라온시큐어는 자사 FIDO(Fast IDentity Online·온라인 신속신원인증) 생체인증 기반 다채널 인증 플랫폼 '원패스(OnePass)'가 SRT 예약 앱의 생체 인증 로그인 서비스에 적용됐다고 27일 밝혔다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "라온시큐어에 따르면 SRT앱 이용자들이 회원가입 후 지문, 페이스ID 등 개인 단말기에 저장된 생체정보를 등록하면 아이디와 패스워드를 입력하지 않고도 생체인증을 통해 빠르고 간편하게 승차권 예매·확인 등의 서비스를 이용할 수 있다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SRT앱 회원 620만명이 원패스를 이용하게 된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "라온시큐어의 '원패스' 기반 생체인증 로그인 서비스는 개인정보에 대한 보안을 강화해 국제 기술 표준 규격인 FIDO 인증을 획득했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이용자 생체 인증 정보를 개인이 통제할 수 있는 스마트폰에 안전하게 저장해 서버 해킹을 통한 정보 유출을 원천적으로 방지한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모바일 OTP나 PC OTP, 보안 PIN 등 다양한 2차 인증 수단도 제공해 높은 보안 수준의 다중인증(MFA·Multi-Factor Authentication) 체계를 편리하게 구현할 수 있다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이순형 라온시큐어 대표는 \\\"코로나19로 사회 전반에서 비대면 서비스가 확대되면서 다양한 산업 분야에서 편의성과 보안성을 모두 충족하는 FIDO 생체인증에 대한 수요가 높아지고 있다\\\"며 \\\"라온시큐어는 국내 생체인증 시장을 선도하고 있는 '원패스'를 중심으로 인증 생태계를 지속 발전시켜 나가겠다\\\"고 말했다.",
+				"sentenceSize": 174
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라온시큐어 생체인증으로 SRT 승차권 예매한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

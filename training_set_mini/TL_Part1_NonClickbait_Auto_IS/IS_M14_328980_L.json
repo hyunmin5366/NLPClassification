@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328980",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "글로벌 기반시설 원격정지 취약점, 국보연이 막았다",
+		"newsSubTitle": "",
+		"newsContent": "국가보안기술연구소가 제조, 댐, 에너지 등 세계 각종 기반시설을 원격 정지할 수 있는 취약점을 발견, 피해를 예방했다.\n국보연은 세계 각종 기반시설에서 폭넓게 사용 중인 GE 'PAC시스템스 RX3i'에서 치명적인 서비스 거부 취약점(CVE 2019-13524)을 발견했다. 'PAC시스템스 RX3i'는 한국뿐만 아니라 세계 각국 기반시설에서 두루 사용되는 임베디드 제어기기다. 고성능 프로그래머블 로직 컨트롤러(PLC)로 지난해 2월 에머슨이 GE '인텔리전트 플랫폼' 사업 부문을 인수하면서 에머슨 자동화 솔루션으로 편입됐다.\n취약점은 PLC 관리 소프트웨어인 '프로파이시 머신 에디션(PME)'과 'PAC시스템스 RX3i' 간 통신에 사용되는 제조사 전용 프로토콜 네트워크 패킷에서 발견됐다.\n이를 정교하게 조작하면 별도 인증과정 없이 원격에서 'PAC시스템스 RX3i'를 정지 상태로 만들 수 있다.\nPLC는 기반시설 내 모터, 펌프, 밸브 같은 현장 장치 제어를 담당하기 때문에 갑자기 정지되면 물리적 피해와 함께 경제적 손실이 발생할 수 있다.\n국보연은 기반시설 제어시스템 취약점 대응 업무를 담당하는 미국 국토안보부(DHS) 산하 사이버∙인프라안보국(CISA)에 통지(ICSA-20-014-01)해 제조사인 GE가 취약점 패치를 개발하고 배포하도록 조치했다.\n에머슨은 현재 기술 지원이 만료된 CRU320 모델을 제외하고 CPE100/115/302/205/310/330/400, CPL410 모델을 대상으로 취약점이 패치된 펌웨어를 배포하고 있다.\n국보연이 취약점을 발견한 때부터 제조사 GE가 패치하기까지 걸린 시간은 1년여다.\n이번 취약점을 발견한 국보연 연구진은 \\\"'PAC시스템스 RX3i'에서 발견한 취약점은 제어시스템과 사이버보안 지식이 있는 공격자라면 어렵지 않게 악용할 수 있다\\\"면서 \\\"대다수 'PAC시스템스 RX3i' CPU 모델이 취약점을 가지고 있기 때문에 해당 모델을 보유한 기관은 반드시 보안패치를 수행해야 한다\\\"고 말했다.\n이어 \\\"즉각적인 패치 적용이 어렵다면 망분리와 접근통제 같은 보안 대책을 적용해야 할 것\\\"이라고 부연했다.\n조현숙 국보연 소장은 \\\"국보연은 국가 기반시설 제어시스템 보호 업무를 꾸준히 수행해 왔다\\\"면서 \\\"앞으로도 제어시스템에 사용되는 각종 지능형 제어기기에 대한 취약점을 찾아 보호대책 수립에 필요한 보안기술을 선제적으로 연구 개발할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국가보안기술연구소가 제조, 댐, 에너지 등 세계 각종 기반시설을 원격 정지할 수 있는 취약점을 발견, 피해를 예방했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국보연은 세계 각종 기반시설에서 폭넓게 사용 중인 GE 'PAC시스템스 RX3i'에서 치명적인 서비스 거부 취약점(CVE 2019-13524)을 발견했다. 'PAC시스템스 RX3i'는 한국뿐만 아니라 세계 각국 기반시설에서 두루 사용되는 임베디드 제어기기다. 고성능 프로그래머블 로직 컨트롤러(PLC)로 지난해 2월 에머슨이 GE '인텔리전트 플랫폼' 사업 부문을 인수하면서 에머슨 자동화 솔루션으로 편입됐다.",
+				"sentenceSize": 229
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "취약점은 PLC 관리 소프트웨어인 '프로파이시 머신 에디션(PME)'과 'PAC시스템스 RX3i' 간 통신에 사용되는 제조사 전용 프로토콜 네트워크 패킷에서 발견됐다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 정교하게 조작하면 별도 인증과정 없이 원격에서 'PAC시스템스 RX3i'를 정지 상태로 만들 수 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "PLC는 기반시설 내 모터, 펌프, 밸브 같은 현장 장치 제어를 담당하기 때문에 갑자기 정지되면 물리적 피해와 함께 경제적 손실이 발생할 수 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국보연은 기반시설 제어시스템 취약점 대응 업무를 담당하는 미국 국토안보부(DHS) 산하 사이버∙인프라안보국(CISA)에 통지(ICSA-20-014-01)해 제조사인 GE가 취약점 패치를 개발하고 배포하도록 조치했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "에머슨은 현재 기술 지원이 만료된 CRU320 모델을 제외하고 CPE100/115/302/205/310/330/400, CPL410 모델을 대상으로 취약점이 패치된 펌웨어를 배포하고 있다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국보연이 취약점을 발견한 때부터 제조사 GE가 패치하기까지 걸린 시간은 1년여다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이번 취약점을 발견한 국보연 연구진은 \\\"'PAC시스템스 RX3i'에서 발견한 취약점은 제어시스템과 사이버보안 지식이 있는 공격자라면 어렵지 않게 악용할 수 있다\\\"면서 \\\"대다수 'PAC시스템스 RX3i' CPU 모델이 취약점을 가지고 있기 때문에 해당 모델을 보유한 기관은 반드시 보안패치를 수행해야 한다\\\"고 말했다.",
+				"sentenceSize": 180
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이어 \\\"즉각적인 패치 적용이 어렵다면 망분리와 접근통제 같은 보안 대책을 적용해야 할 것\\\"이라고 부연했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "조현숙 국보연 소장은 \\\"국보연은 국가 기반시설 제어시스템 보호 업무를 꾸준히 수행해 왔다\\\"면서 \\\"앞으로도 제어시스템에 사용되는 각종 지능형 제어기기에 대한 취약점을 찾아 보호대책 수립에 필요한 보안기술을 선제적으로 연구 개발할 것\\\"이라고 말했다.",
+				"sentenceSize": 141
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "글로벌 기반시설 원격정지 취약점, 국보연이 막았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

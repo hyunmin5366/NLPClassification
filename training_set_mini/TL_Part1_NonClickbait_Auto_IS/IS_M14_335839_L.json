@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335839",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "소재",
+		"newsTitle": "이석희 SK하이닉스 사장 \\\"용인 클러스터 상반기 착공…오픈 진도 잘나가\\\"",
+		"newsSubTitle": "",
+		"newsContent": "SK하이닉스가 상반기 용인 반도체 생산 라인을 착공할 전망이다.\n이석희 SK하이닉스 대표는 16일 용인 반도체 클러스터 조성에 대해 \\\"진도가 잘 나가고 있다\\\"고 밝혔다.\n우크라이나 반도체 공급망 이슈에 대해서는 문제 없이 대비하고 있다고 강조했다.\n이 사장은 이날 서울 롯데호텔에서 열린 '반도체 투자 활성화 간담회'에서 기자들과 만나 이같이 말했다.\n업계에 따르면 용인 클러스터는 토지 보상 문제로 착공이 지연되고 있는 것으로 알려졌다.\n이 사장의 발언은 착공 일정이 차질 없이 진행되고 있는 것으로 풀이된다.\n이 사장은 \\\"용인 대체 부지 검토는 플랜 ABC 차원\\\"이라면서 \\\"클러스터 오픈에는 지장이 없을 것\\\"이라고 강조했다.\nSK하이닉스 미국 연구개발(R&D) 센터 진행 상황과 관련 이 사장은 \\\"완공은 2026년으로 보고 있다\\\"고 말했다.\n러시아와 우크라이나 군사적 충돌로 인한 원자재 수급 우려에 대해서는 문제가 없다고 강조했다.\n반도체 주요 소재인 네온 가스 20%를 우크라이나에서 들여온다.\n업계는 이를 대비해 중국을 비롯해 다른 나라에서 수급을 강화하고 있다.\n문승욱 산업통상자원부 장관도 간담회에서 \\\"반도체 원자재 공급망 다변화와 국산화에 최선을 다해달라\\\"고 주문했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK하이닉스가 상반기 용인 반도체 생산 라인을 착공할 전망이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이석희 SK하이닉스 대표는 16일 용인 반도체 클러스터 조성에 대해 \\\"진도가 잘 나가고 있다\\\"고 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우크라이나 반도체 공급망 이슈에 대해서는 문제 없이 대비하고 있다고 강조했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 사장은 이날 서울 롯데호텔에서 열린 '반도체 투자 활성화 간담회'에서 기자들과 만나 이같이 말했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업계에 따르면 용인 클러스터는 토지 보상 문제로 착공이 지연되고 있는 것으로 알려졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 사장의 발언은 착공 일정이 차질 없이 진행되고 있는 것으로 풀이된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 사장은 \\\"용인 대체 부지 검토는 플랜 ABC 차원\\\"이라면서 \\\"클러스터 오픈에는 지장이 없을 것\\\"이라고 강조했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SK하이닉스 미국 연구개발(R&D) 센터 진행 상황과 관련 이 사장은 \\\"완공은 2026년으로 보고 있다\\\"고 말했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "러시아와 우크라이나 군사적 충돌로 인한 원자재 수급 우려에 대해서는 문제가 없다고 강조했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "반도체 주요 소재인 네온 가스 20%를 우크라이나에서 들여온다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "업계는 이를 대비해 중국을 비롯해 다른 나라에서 수급을 강화하고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "문승욱 산업통상자원부 장관도 간담회에서 \\\"반도체 원자재 공급망 다변화와 국산화에 최선을 다해달라\\\"고 주문했다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이석희 SK하이닉스 사장 \\\"용인 클러스터 상반기 착공…오픈 진도 잘나가\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

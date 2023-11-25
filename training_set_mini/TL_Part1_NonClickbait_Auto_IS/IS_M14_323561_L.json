@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323561",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "노벨생리의학상, 생체시계연구한 美과학자 '홀·로스바쉬·영' 공동수상",
+		"newsSubTitle": "",
+		"newsContent": "올해 노벨생리의학상은 제프리 C. 홀(72), 마이클 로스바쉬(73), 마이클 영(68) 등 미국 과학자 3명에게 돌아갔다.\n이들은 생체시계를 통제하는 분자 메커니즘을 발견한 공로로 노벨상의 영예를 안았다.\n스웨덴 카롤린스카의대 노벨위원회는 2일(현지시간) 이들 3명을 2017년 노벨생리의학상 공동 수상자로 선정했다고 발표했다.\n홀 교수는 워싱턴대학교에서 박사학위를 받았다.\n캘리포니아공과대학을 거쳐 1974년부터 브랜다이스대학에서 교수로 재직하고 있다.\n로스바쉬 교수는 메사추세츠 공과대학에서 박사 학위를 받고 이후 3년 동안 스코틀랜드 에딘버러대학에서 연구원으로 일했다.\n이후 1974년부터 브랜다이스대학에서 교수로 재직하고 있다.\n영 교수는 스탠포드대학에서 박사 후 과정을 마친 후 1978년부터 뉴욕의 록펠러대학에서 교수로 재직 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 노벨생리의학상은 제프리 C. 홀(72), 마이클 로스바쉬(73), 마이클 영(68) 등 미국 과학자 3명에게 돌아갔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이들은 생체시계를 통제하는 분자 메커니즘을 발견한 공로로 노벨상의 영예를 안았다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스웨덴 카롤린스카의대 노벨위원회는 2일(현지시간) 이들 3명을 2017년 노벨생리의학상 공동 수상자로 선정했다고 발표했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "홀 교수는 워싱턴대학교에서 박사학위를 받았다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "캘리포니아공과대학을 거쳐 1974년부터 브랜다이스대학에서 교수로 재직하고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "로스바쉬 교수는 메사추세츠 공과대학에서 박사 학위를 받고 이후 3년 동안 스코틀랜드 에딘버러대학에서 연구원으로 일했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 1974년부터 브랜다이스대학에서 교수로 재직하고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "영 교수는 스탠포드대학에서 박사 후 과정을 마친 후 1978년부터 뉴욕의 록펠러대학에서 교수로 재직 중이다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노벨생리의학상, 생체시계연구한 美과학자 '홀·로스바쉬·영' 공동수상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

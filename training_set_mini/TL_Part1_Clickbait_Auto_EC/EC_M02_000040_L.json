@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000040",
+		"newsCategory": "경제",
+		"newsSubcategory": "일반",
+		"newsTitle": "인공지능으로 장애인 돕는다",
+		"newsSubTitle": "",
+		"newsContent": "'인공지능(AI)으로 장애인 돕는다.' AI로 장애인에게 시각이나 청각 등 장애인들이 갖지 못한 감각을 경험할 수 있도록 하는 기업이 늘고 있다.\n이처럼 AI를 통해 장애인을 도우면 착한 일을 하는 기업이란 명성을 얻을 수 있다.\n또 첨단 분야의 기술을 활용하는 것이어서 새로운 기술의 수용에 진취적이란 느낌도 줄 수 있다. 8일 업계에 따르면 SKC&C는 AI를 이용해 청각장애인을 지원하는 '행복한 소리 드림 캠페인'을 벌이고 있다.\nSKC&C는 이 캠페인 차원에서 사회적협동조합 AUD와 공동으로 청각장애인의 커뮤니케이션을 도와주는 AI 기반 문자 통역 서비스를 만들었다.\n비장애인이 말하면 그 내용을 문자로 변환해 청각장애인에게 알려주는 서비스다.\n특히 청각장애인의 취학, 직업 교육, 개인 간 커뮤니케이션에 도움을 준다.\nSKC&C는 지난 7월 이후 초교 고학년 국어·사회 과목, 바리스타와 캘리그라피 등 직업 교육의 강의 내용을 동영상으로 찍은 뒤 이 서비스를 이용해 문자로 만들고 있다.\n강의 내용을 문자로 더 정확하게 변환하려면 더 많은 목소리로 강의를 녹음해야 해 SKC&C가 목소리 기부를 받아왔었는데 지금까지 4만2,000여 명이 동참했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'인공지능(AI)으로 장애인 돕는다.' AI로 장애인에게 시각이나 청각 등 장애인들이 갖지 못한 감각을 경험할 수 있도록 하는 기업이 늘고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이처럼 AI를 통해 장애인을 도우면 착한 일을 하는 기업이란 명성을 얻을 수 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 첨단 분야의 기술을 활용하는 것이어서 새로운 기술의 수용에 진취적이란 느낌도 줄 수 있다. 8일 업계에 따르면 SKC&C는 AI를 이용해 청각장애인을 지원하는 '행복한 소리 드림 캠페인'을 벌이고 있다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SKC&C는 이 캠페인 차원에서 사회적협동조합 AUD와 공동으로 청각장애인의 커뮤니케이션을 도와주는 AI 기반 문자 통역 서비스를 만들었다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비장애인이 말하면 그 내용을 문자로 변환해 청각장애인에게 알려주는 서비스다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 청각장애인의 취학, 직업 교육, 개인 간 커뮤니케이션에 도움을 준다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SKC&C는 지난 7월 이후 초교 고학년 국어·사회 과목, 바리스타와 캘리그라피 등 직업 교육의 강의 내용을 동영상으로 찍은 뒤 이 서비스를 이용해 문자로 만들고 있다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "강의 내용을 문자로 더 정확하게 변환하려면 더 많은 목소리로 강의를 녹음해야 해 SKC&C가 목소리 기부를 받아왔었는데 지금까지 4만2,000여 명이 동참했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'스마트폰처럼 안면 인식'…삼성전자, '웹캠 모니터' 출시",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

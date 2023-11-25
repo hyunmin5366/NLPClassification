@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006263",
+		"newsCategory": "경제",
+		"newsSubcategory": "종목",
+		"newsTitle": "엔에이치엔, 계열사 엔에이치엔빅풋 흡수합병 결정",
+		"newsSubTitle": "",
+		"newsContent": "IT기업 엔에이치엔(NHN)이 계열사인 게임제작사 엔에이치엔빅풋을 흡수합병한다.\n엔에이치엔은 계열사 엔에이치엔빅풋을 흡수합병하기로 결정했다고 14일 공시했다.\n합병 비율은 1(엔에이치엔):0(엔에이치엔빅풋)으로 신주를 발행하지 않는 무증자합병이다.\n합병기일은 2022년 10월 1일이다.\n엔에이치엔 관계자는 데일리임팩트에 \\\"이번 합병은 그룹사 구조 효율화의 일환으로 모회사를 주축으로 한 사업 시너지 창출이 목적\\\"이라고 설명했다.\n한편 엔에이치엔은 최근 시행된 게임산업진흥에관한법률 시행령 일부개정안으로 게임머니 구매 및 베팅 한도가 늘어나면서 이에 따른 매출 급증 효과를 보고 있다.\n실제로 엔에이치엔의 '한게임 포커'가 지난 10일 구글플레이 매출 순위 10위를 달성하는 등 다른 주요 웹보드 게임 역시 주말 내 최근 90일간 최고 매출 순위를 기록하기도 했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "IT기업 엔에이치엔(NHN)이 계열사인 게임제작사 엔에이치엔빅풋을 흡수합병한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엔에이치엔은 계열사 엔에이치엔빅풋을 흡수합병하기로 결정했다고 14일 공시했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "합병 비율은 1(엔에이치엔):0(엔에이치엔빅풋)으로 신주를 발행하지 않는 무증자합병이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "합병기일은 2022년 10월 1일이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엔에이치엔 관계자는 데일리임팩트에 \\\"이번 합병은 그룹사 구조 효율화의 일환으로 모회사를 주축으로 한 사업 시너지 창출이 목적\\\"이라고 설명했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 엔에이치엔은 최근 시행된 게임산업진흥에관한법률 시행령 일부개정안으로 게임머니 구매 및 베팅 한도가 늘어나면서 이에 따른 매출 급증 효과를 보고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실제로 엔에이치엔의 '한게임 포커'가 지난 10일 구글플레이 매출 순위 10위를 달성하는 등 다른 주요 웹보드 게임 역시 주말 내 최근 90일간 최고 매출 순위를 기록하기도 했다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "출연연 비리의혹 수사 촉각",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

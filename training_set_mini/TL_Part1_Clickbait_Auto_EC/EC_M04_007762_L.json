@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007762",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "ETRI, 위성항법 신호감시국용 GPS, 복합수신기 개발",
+		"newsSubTitle": "",
+		"newsContent": "한국전자통신연구원(ETRI) 연구진이 위치기반 서비스에 제공하는 핵심 기술을 개발했다.\nETRI는 미국식 위성위치확인시스템(GPS)과 유럽식 갈릴레오 위성항법신호를 모두 처리할 수 있는 ‘위성항법 신호감시국용 GPS.갈릴레오 복합수신기’를 개발했다고 5일 밝혔다.\n현재 국내에는 GPS 신호관측용 기준국 및 상시관측소 80여개가 운영되면서 정밀지도 제작과 지각운용 연구 등에 활용중인데 유럽연합(EU)과 유럽우주청(ESA)은 30기의 인공위성을 중궤도(약 2만4천㎞ 상공)에 배치해 오차 1ｍ 이내의 정확한 항법신호를 제공하는 갈릴레오 시스템을 추진하고 있다.\n여기에 일본과 중국 등도 독자 항법시스템을 개발중이어서 정밀도와 신뢰도가 향상된 위치기반 서비스를 제공하기 위해서는 여러 신호를 동시에 처리할 수 있는 수신기 개발이 필요한 상황이다.\nETRI는 국내외 위성항법시장 개척을 위해 이번에 개발된 기술에 대한 설명회와 전시회를 거쳐 업체로의 기술이전을 적극 추진할 계획이다.\n연구책임자인 이상욱 ETRI 위성항법연구팀장은 “향후 다원화 항법신호 환경 하에서 안정적이고 향상된 위치기반서비스 제공에 필요한 핵심기술을 국산 기술로 개발했다는 점에 큰 의미가 있다”며 “그동안 수입에 의존해온 고정밀 위성항법 수신기에도 응용할 수 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전자통신연구원(ETRI) 연구진이 위치기반 서비스에 제공하는 핵심 기술을 개발했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ETRI는 미국식 위성위치확인시스템(GPS)과 유럽식 갈릴레오 위성항법신호를 모두 처리할 수 있는 ‘위성항법 신호감시국용 GPS.갈릴레오 복합수신기’를 개발했다고 5일 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재 국내에는 GPS 신호관측용 기준국 및 상시관측소 80여개가 운영되면서 정밀지도 제작과 지각운용 연구 등에 활용중인데 유럽연합(EU)과 유럽우주청(ESA)은 30기의 인공위성을 중궤도(약 2만4천㎞ 상공)에 배치해 오차 1ｍ 이내의 정확한 항법신호를 제공하는 갈릴레오 시스템을 추진하고 있다.",
+				"sentenceSize": 165
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기에 일본과 중국 등도 독자 항법시스템을 개발중이어서 정밀도와 신뢰도가 향상된 위치기반 서비스를 제공하기 위해서는 여러 신호를 동시에 처리할 수 있는 수신기 개발이 필요한 상황이다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ETRI는 국내외 위성항법시장 개척을 위해 이번에 개발된 기술에 대한 설명회와 전시회를 거쳐 업체로의 기술이전을 적극 추진할 계획이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구책임자인 이상욱 ETRI 위성항법연구팀장은 “향후 다원화 항법신호 환경 하에서 안정적이고 향상된 위치기반서비스 제공에 필요한 핵심기술을 국산 기술로 개발했다는 점에 큰 의미가 있다”며 “그동안 수입에 의존해온 고정밀 위성항법 수신기에도 응용할 수 있다”고 말했다.",
+				"sentenceSize": 149
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김재수 KISTI 원장 \\\"대전시와 융합연구과제 기획 중\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

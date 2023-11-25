@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353609",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"이번엔 진짜 문 열리나\\\" 싸이월드, 구글·원스토어 '승인'",
+		"newsSubTitle": "null",
+		"newsContent": "오는 4월 2일 오후 4시 42분 출시되는 싸이월드 앱이 원스토어에 이어 구글에서도 승인받았다.\n싸이월드제트는 새로운 앱이 구글플레이 승인을 받았다고 21일 밝혔다.\n앞써 싸이월드는 지난해 12월 출시될 예정이었으나, 구글·애플의 앱 심사 지연으로 재개장 일정이 무기한 미뤄진 바 있다.\n싸이월드제트는 애플 앱스토어 승인만 남겨둬 4월 출시가 예정대로 가능하다는 입장이다.\n싸이월드제트 측은 \\\"지난 18일 밤 애플 앱스토어의 수정사항 요청이 있어 이를 반영해 19일 다시 제출한 상황\\\"이라며 \\\"주초 승인에 문제 없을 것으로 예상한다\\\"고 말했다.\n싸이월드제트는 클로즈베타서비스인 '도토리 원정대' 5주차 미니홈피도 공개했다.\n이는 싸이월드 앱의 UI와 미니룸, 사진첩 기능을 간접적으로 경험해볼 수 있는 서비스다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오는 4월 2일 오후 4시 42분 출시되는 싸이월드 앱이 원스토어에 이어 구글에서도 승인받았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "싸이월드제트는 새로운 앱이 구글플레이 승인을 받았다고 21일 밝혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞써 싸이월드는 지난해 12월 출시될 예정이었으나, 구글·애플의 앱 심사 지연으로 재개장 일정이 무기한 미뤄진 바 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "싸이월드제트는 애플 앱스토어 승인만 남겨둬 4월 출시가 예정대로 가능하다는 입장이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "싸이월드제트 측은 \\\"지난 18일 밤 애플 앱스토어의 수정사항 요청이 있어 이를 반영해 19일 다시 제출한 상황\\\"이라며 \\\"주초 승인에 문제 없을 것으로 예상한다\\\"고 말했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "싸이월드제트는 클로즈베타서비스인 '도토리 원정대' 5주차 미니홈피도 공개했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이는 싸이월드 앱의 UI와 미니룸, 사진첩 기능을 간접적으로 경험해볼 수 있는 서비스다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"이번엔 진짜 문 열리나\\\" 싸이월드, 구글·원스토어 '승인'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

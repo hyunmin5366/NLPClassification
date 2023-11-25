@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324926",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "삼성전자, 내달부터 모더나 백신 자체 접종 시작",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자는 방역 당국과 협의해 이르면 내달 27일부터 사업장 내 자체 백신접종을 시작한다고 25일 밝혔다.\n자체 백신 접종 대상은 삼성전자 수원사업장을 비롯해 구미∙광주∙기흥∙화성∙평택∙천안 등 사내 부속 의원이 있는 사업장의 만 18∼59세 임직원과 상주 협력사 직원이 대상이다.\n모더나 백신이 공급되고, 사업장 부속 의원을 통해 자체적으로 접종된다.\n백신 접종 신청은 이달 28일부터 받고, 실제 접종은 내달 27일부터 시작될 예정이다.\n1차 접종 후 4주 이상 간격으로 2차 접종을 한다.\n삼성전자는 \\\"정부의 만 18∼59세 대상 접종 시기에 맞춰 전 국민 집단면역 조기달성에 기여하기 위해 자체 접종을 하게 됐다\\\"고 설명했다.\n삼성디스플레이도 내달부터 사업장 내 임직원과 상주 협력사 직원을 대상으로 모더나 백신 자체 접종을 시작한다고 전날 공지했다.\n이들 기업 외에도 SK하이닉스와 LG디스플레이 등 주요 기업들이 백신 자체접종 참여를 검토하고 있는 것으로 전해졌다.\n방역 당국은 오는 8월께부터 기업들의 주요 생산 공장 사업장에서 부속의원 등 사업장 내 의료시설을 통해 코로나19 백신접종을 하겠다고 밝힌 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자는 방역 당국과 협의해 이르면 내달 27일부터 사업장 내 자체 백신접종을 시작한다고 25일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자체 백신 접종 대상은 삼성전자 수원사업장을 비롯해 구미∙광주∙기흥∙화성∙평택∙천안 등 사내 부속 의원이 있는 사업장의 만 18∼59세 임직원과 상주 협력사 직원이 대상이다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "모더나 백신이 공급되고, 사업장 부속 의원을 통해 자체적으로 접종된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "백신 접종 신청은 이달 28일부터 받고, 실제 접종은 내달 27일부터 시작될 예정이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1차 접종 후 4주 이상 간격으로 2차 접종을 한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자는 \\\"정부의 만 18∼59세 대상 접종 시기에 맞춰 전 국민 집단면역 조기달성에 기여하기 위해 자체 접종을 하게 됐다\\\"고 설명했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성디스플레이도 내달부터 사업장 내 임직원과 상주 협력사 직원을 대상으로 모더나 백신 자체 접종을 시작한다고 전날 공지했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이들 기업 외에도 SK하이닉스와 LG디스플레이 등 주요 기업들이 백신 자체접종 참여를 검토하고 있는 것으로 전해졌다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "방역 당국은 오는 8월께부터 기업들의 주요 생산 공장 사업장에서 부속의원 등 사업장 내 의료시설을 통해 코로나19 백신접종을 하겠다고 밝힌 바 있다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자, 내달부터 모더나 백신 자체 접종 시작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

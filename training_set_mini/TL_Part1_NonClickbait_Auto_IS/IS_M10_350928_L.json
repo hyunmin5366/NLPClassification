@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350928",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "통관서류도 AI가 읽어준다...한컴, 관세청 빅데이터 사업 참여",
+		"newsSubTitle": "null",
+		"newsContent": "한글과컴퓨터(이하 한컴)가 관세청의 빅데이터 플랫폼 구축 및 분석 모델 개발사업에 참여한다고 28일 밝혔다.\n한컴은 인공지능(AI) 기술 가반 광학문자인식 솔루션을 공급한다.\n관세청은 스마트 관세행정을 구현하기 위해 지난해부터 해당 사업을 추진 중이다.\n한컴은 KCNET과 컨소시엄을 구성해 사업에 참여한다.\n관세청은 이번 사업을 통해 효율적인 행정을 구현하는 한편, 빅데이터 기반 행정혁신을 추진한다.\n한컴은 관세청에 접수되는 다양한 통관서류에 담긴 국가명과 협정명, 발급기관 등 8개 텍스트와 이미지 정보를 OCR(광학문자인식)로 자동 추출해 데이터화하는 분석과제를 지원한다.\n국가별로 양식이 다른 비정형 문서인 인보이스 문서에서 필수정보를 보다 효과적으로 추출해 수출입 신고서 작성에 도움을 줄 수 있게 될 전망이다.\n한컴은 이를 위해 OCR 엔진 고도화 작업도 진행한다.\n김대기 한컴 총괄 부사장은 \\\"한컴의 OCR 솔루션은 외산 솔루션과 대등한 기술력과 경쟁력을 보유하고 있다\\\"며 \\\"관세청의 스마트 세관 구축사업이 성공적으로 마무리될 수 있도록 지원하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한글과컴퓨터(이하 한컴)가 관세청의 빅데이터 플랫폼 구축 및 분석 모델 개발사업에 참여한다고 28일 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한컴은 인공지능(AI) 기술 가반 광학문자인식 솔루션을 공급한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "관세청은 스마트 관세행정을 구현하기 위해 지난해부터 해당 사업을 추진 중이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한컴은 KCNET과 컨소시엄을 구성해 사업에 참여한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "관세청은 이번 사업을 통해 효율적인 행정을 구현하는 한편, 빅데이터 기반 행정혁신을 추진한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한컴은 관세청에 접수되는 다양한 통관서류에 담긴 국가명과 협정명, 발급기관 등 8개 텍스트와 이미지 정보를 OCR(광학문자인식)로 자동 추출해 데이터화하는 분석과제를 지원한다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국가별로 양식이 다른 비정형 문서인 인보이스 문서에서 필수정보를 보다 효과적으로 추출해 수출입 신고서 작성에 도움을 줄 수 있게 될 전망이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한컴은 이를 위해 OCR 엔진 고도화 작업도 진행한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "김대기 한컴 총괄 부사장은 \\\"한컴의 OCR 솔루션은 외산 솔루션과 대등한 기술력과 경쟁력을 보유하고 있다\\\"며 \\\"관세청의 스마트 세관 구축사업이 성공적으로 마무리될 수 있도록 지원하겠다\\\"고 말했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "통관서류도 AI가 읽어준다...한컴, 관세청 빅데이터 사업 참여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

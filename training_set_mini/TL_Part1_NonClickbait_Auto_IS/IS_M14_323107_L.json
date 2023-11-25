@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323107",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "[2021 해외 10대 뉴스]오미크론 변이 발생",
+		"newsSubTitle": "",
+		"newsContent": "지난 11월 남아프리카 지역을 중심으로 발생한 코로나19 오미크론 변이는 전 세계로 확산되며 곳곳에서 우세종으로 자리잡았다.\n오미크론은 코로나 바이러스가 인체와 결합하는 스파이크 단백질에 32개 돌연변이를 보유해 전염력이 매우 강한 것이 특징이다.\n오미크론 기세에 전 세계 코로나19 신규 확진자 수도 급증하고 있다.\n방역당국은 국내에서도 새해 1월 말이면 오미크론이 우세종이 될 가능성이 있다고 보고 있다.\n현재까지 오미크론은 델타 변이 바이러스 보다 중증화율이 낮다고 알려져있다.\n대부분의 환자가 경미한 증상만을 호소하고 있으며, 확진자 폭증에도 코로나19로 인한 입원과 사망이 지난해와 비교해 낮은 수준으로 나타났다.\n이 때문에 일각에서는 코로나19가 감기 수준으로 약화되는 신호라는 긍정적 해석도 나온다.\n하지만 일반화는 이르다.\n높은 전파력 때문에 확진자 숫자가 급격하게 늘어나는 만큼 고위험 환자가 증가할 수 있기 때문이다.\n백신 유도 면역을 회피한다는 연구 결과도 발표되고 있다.\n각국도 방역 대응 수위를 섣불리 낮추지 않고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 11월 남아프리카 지역을 중심으로 발생한 코로나19 오미크론 변이는 전 세계로 확산되며 곳곳에서 우세종으로 자리잡았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오미크론은 코로나 바이러스가 인체와 결합하는 스파이크 단백질에 32개 돌연변이를 보유해 전염력이 매우 강한 것이 특징이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오미크론 기세에 전 세계 코로나19 신규 확진자 수도 급증하고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방역당국은 국내에서도 새해 1월 말이면 오미크론이 우세종이 될 가능성이 있다고 보고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재까지 오미크론은 델타 변이 바이러스 보다 중증화율이 낮다고 알려져있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대부분의 환자가 경미한 증상만을 호소하고 있으며, 확진자 폭증에도 코로나19로 인한 입원과 사망이 지난해와 비교해 낮은 수준으로 나타났다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 때문에 일각에서는 코로나19가 감기 수준으로 약화되는 신호라는 긍정적 해석도 나온다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하지만 일반화는 이르다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "높은 전파력 때문에 확진자 숫자가 급격하게 늘어나는 만큼 고위험 환자가 증가할 수 있기 때문이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "백신 유도 면역을 회피한다는 연구 결과도 발표되고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "각국도 방역 대응 수위를 섣불리 낮추지 않고 있다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2021 해외 10대 뉴스]오미크론 변이 발생",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

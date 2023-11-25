@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336806",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "[LG전자 컨콜]미니 LED TV, 올레드 TV 시장 잠식 없을 것",
+		"newsSubTitle": "",
+		"newsContent": "미니 LED TV는 LCD TV의 신기술이다.\n올레드 TV를 최상위 모델로 이해하면 된다.\n미니 LED TV에 의한 올레드 TV의 카니발리제이션(자기 시장 잠식)은 없다.\n올레드 TV는 무한대 명암비, 정확한 컬러, 빠른 응답속도 등 분명한 장점이 있다.\n뛰어난 명암이나 게임 시 빠른 응답속도 등을 원하는 고객층은 유지한다.\n반면 미니 LED TV는 기존 LCD TV 중 더 얇고 올레드 TV에 근접한 화질을 원하는 고객이 될 것이다.\n각 고객 니즈에 맞게 올레드 TV와 미니 LED TV를 운영할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미니 LED TV는 LCD TV의 신기술이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올레드 TV를 최상위 모델로 이해하면 된다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미니 LED TV에 의한 올레드 TV의 카니발리제이션(자기 시장 잠식)은 없다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올레드 TV는 무한대 명암비, 정확한 컬러, 빠른 응답속도 등 분명한 장점이 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뛰어난 명암이나 게임 시 빠른 응답속도 등을 원하는 고객층은 유지한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반면 미니 LED TV는 기존 LCD TV 중 더 얇고 올레드 TV에 근접한 화질을 원하는 고객이 될 것이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "각 고객 니즈에 맞게 올레드 TV와 미니 LED TV를 운영할 예정이다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[LG전자 컨콜]미니 LED TV, 올레드 TV 시장 잠식 없을 것",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

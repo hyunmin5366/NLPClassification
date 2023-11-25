@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339637",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "한전, 전력통신망에 양자암호통신기술 실증 연구 완료",
+		"newsSubTitle": "",
+		"newsContent": "한국전력 전력연구원은 전력통신망에 최적화된 양자암호통신기술 개발을 위해 충남 관내 안면·태안 변전소 간 40Km 구간 광섬유복합가공지선(OPGW)에 양자암호 통신망을 시범 구축하고 자체 기술확보를 위한 실증 연구를 완료했다고 밝혔다.\n전력연구원은 해킹 기법의 고도화, 양자컴퓨터의 기존 암호체계 해독 등으로부터 전력통신망을 보호하기 위해 차세대 보안기술인 양자암호통신기술을 확보하고자 지난 2020년 4월 실증에 착수했다.\n양자암호 전문 회사인 IDQ 장비를 도입, 송암시스콤과 협력해 연구개발을 추진했다.\n양자컴퓨터의 기존 암호체계 해독에 대응하기 위한 보안기술로 양자암호통신(QKD)과 양자내성암호(PQC)가 개발되고 있다.\nQKD는 양자의 중첩, 불확정성, 복제 불가능성을 이용, 송신자와 수신자 사이에 정보를 암호화할 때 필요한 암호키를 안전하게 생성·분배하는 기술이다.\n도·감청이 원천적으로 불가능한 차세대 암호화 기술로 불린다.\n한전은 전국에 설치한 1만6000km의 OPGW를 기반으로 한 양자암호통신기술을 개발·적용해 보안성을 강화할 계획이다.\nOPGW는 통신사의 광케이블(지중)과 달리 산악지역에 설치된 송전철탑의 상단에 설치돼 온도변화가 심하고 바람에 의한 흔들림으로 편광변화로 인한 전송거리, 암호키전송률, 양자에러률 등에 영향을 많이 받는다.\n전력연구원은 이런 영향을 정확히 측정·분석해 전력통신망 환경에 맞는 양자암호통신기술을 개발한다는 목표다.\n전력연구원은 OPGW에서 편광변화가 큰 단점을 극복하기 위해 편광에 의존하지 않는 전송방식과 OPGW 최장거리(100km)에서도 암호통신이 가능하도록 고감도 단일광검출기(SPAD)의 성능개선 방안을 도출했다.\n이를 기반으로 스마트그리드, 분산전원 등 전력 분야에 양자암호통신기술 확대 적용방안을 수립했다.\n전력연구원은 시범 적용 연구성과와 노하우를 바탕으로 OPGW에 최적화된 양자암호통신기술을 개발할 예정이다.\n우선 전력통신망에 효율적으로 적용하기 위한 암복호화(인크립터) 기술, 장거리 전송 기술 등을 확보하고 전력용 양자암호키분배(e-QKD) 기술을 개발해 단계적으로 확대 구축해 나갈 예정이다.\n전력연구원 관계자는 “국가암호모듈검증제도(KCMVP) 인증 확보 등 제약요건이 있었으나 과기정통부에서 양자정보통신 육성을 위해 제도 개선 계획을 밝힘에 따라 개발여건이 개선될 것으로 기대한다”면서 “전력통신망에 최적화항 세계 최고 수준 양자암호통신기술을 개발·적용해 안정적 전력공급에 최선을 다하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전력 전력연구원은 전력통신망에 최적화된 양자암호통신기술 개발을 위해 충남 관내 안면·태안 변전소 간 40Km 구간 광섬유복합가공지선(OPGW)에 양자암호 통신망을 시범 구축하고 자체 기술확보를 위한 실증 연구를 완료했다고 밝혔다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전력연구원은 해킹 기법의 고도화, 양자컴퓨터의 기존 암호체계 해독 등으로부터 전력통신망을 보호하기 위해 차세대 보안기술인 양자암호통신기술을 확보하고자 지난 2020년 4월 실증에 착수했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양자암호 전문 회사인 IDQ 장비를 도입, 송암시스콤과 협력해 연구개발을 추진했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "양자컴퓨터의 기존 암호체계 해독에 대응하기 위한 보안기술로 양자암호통신(QKD)과 양자내성암호(PQC)가 개발되고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "QKD는 양자의 중첩, 불확정성, 복제 불가능성을 이용, 송신자와 수신자 사이에 정보를 암호화할 때 필요한 암호키를 안전하게 생성·분배하는 기술이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "도·감청이 원천적으로 불가능한 차세대 암호화 기술로 불린다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한전은 전국에 설치한 1만6000km의 OPGW를 기반으로 한 양자암호통신기술을 개발·적용해 보안성을 강화할 계획이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "OPGW는 통신사의 광케이블(지중)과 달리 산악지역에 설치된 송전철탑의 상단에 설치돼 온도변화가 심하고 바람에 의한 흔들림으로 편광변화로 인한 전송거리, 암호키전송률, 양자에러률 등에 영향을 많이 받는다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "전력연구원은 이런 영향을 정확히 측정·분석해 전력통신망 환경에 맞는 양자암호통신기술을 개발한다는 목표다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "전력연구원은 OPGW에서 편광변화가 큰 단점을 극복하기 위해 편광에 의존하지 않는 전송방식과 OPGW 최장거리(100km)에서도 암호통신이 가능하도록 고감도 단일광검출기(SPAD)의 성능개선 방안을 도출했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이를 기반으로 스마트그리드, 분산전원 등 전력 분야에 양자암호통신기술 확대 적용방안을 수립했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "전력연구원은 시범 적용 연구성과와 노하우를 바탕으로 OPGW에 최적화된 양자암호통신기술을 개발할 예정이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "우선 전력통신망에 효율적으로 적용하기 위한 암복호화(인크립터) 기술, 장거리 전송 기술 등을 확보하고 전력용 양자암호키분배(e-QKD) 기술을 개발해 단계적으로 확대 구축해 나갈 예정이다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "전력연구원 관계자는 “국가암호모듈검증제도(KCMVP) 인증 확보 등 제약요건이 있었으나 과기정통부에서 양자정보통신 육성을 위해 제도 개선 계획을 밝힘에 따라 개발여건이 개선될 것으로 기대한다”면서 “전력통신망에 최적화항 세계 최고 수준 양자암호통신기술을 개발·적용해 안정적 전력공급에 최선을 다하겠다”고 말했다.",
+				"sentenceSize": 174
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한전, 전력통신망에 양자암호통신기술 실증 연구 완료",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

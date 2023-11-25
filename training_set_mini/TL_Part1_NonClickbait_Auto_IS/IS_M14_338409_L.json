@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338409",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "아라드네트웍스, 국내 최초 아파트 '세대 간 사이버경계벽' 구축… 단지 내부 해킹 원천 차단",
+		"newsSubTitle": "",
+		"newsContent": "아라드네트웍스가 국내 최초로 아파트 단지 내 '세대 간 사이버경계벽'을 구축했다.\n내부 해킹공격에 취약한 스마트홈 해킹피해를 원천 차단할 것으로 기대된다.\n아라드네트웍스(대표 정창영)가 서울시 구로구 SH공사 하버라인 아파트 4단지 297세대에 '차세대 스마트홈 보안시스템'을 적용, 세대 간 사이버경계벽을 구축했다고 11일 밝혔다.\n최근 스마트홈이 보편화되면서 아파트 단지가 해킹 당해 홈네트워크 시스템 사용이 중지되거나 전기요금이 변경되는 사례가 발생했다.\n스마트홈 해킹은 개인정보 유출뿐 아니라 도어락이나 엘리베이터까지 조종할 수 있어 입주민 안전·생명에 큰 위협이 된다.\n특히 기존 아파트 단지 스마트홈 시스템은 메인서버에만 방화벽이 설치돼 외부해킹은 방어할 수 있지만 단지 내 스마트홈 시스템에 접속한 해킹 방어는 불가능하다.\n세대 간 물리적 장벽은 견고하게 구축했지만 사이버 보안에는 취약하다는 지적이다.\nSH공사는 아라드네트웍스 '차세대 스마트홈 보안시스템'을 적용해 세대 간 사이버경계벽을 구축했다.\n세대 단자함에 가로·세로 각 10㎝ 크기 포인트 게이트웨이를 설치해 단지 내 해킹 원천 방어체계를 구현했다.\n세대 간 사이버경계벽은 물리적 공간처럼 세대별로 독립된 사이버 공간을 구성하는 네트워크 보안 기술이다.\n일종의 '사이버방화벽' 개념으로 네트워크 가상화를 통해 네트워크를 세대별로 분리하고 IP주소와 서비스 포트를 은닉·통제한다.\n다만 아직 스마트홈 보안을 강제할 법규가 없고 대다수 스마트홈 시스템이 단지망과 세대망 보안대응을 하지 않아 세부 보안기준 마련이 시급한 상황이다.\nSH공사는 구로 하버라인 4단지 시범운영을 통해 세부기준을 마련해 향후 공동주택까지 적용범위를 확대할 예정이다.\n아라드네트웍스는 해킹방지 솔루션 '아라드(ARAD)' 적용 분야를 스마트홈, 스마트시티 등으로 확장하고 있다.\n스마트시티 필수 기능 네트워크 가상화·슬라이싱 기술을 탑재해 네트워크 유연성과 서비스 간 보안을 강화한 만큼 국내외 스마트시티 시장 진출 확대가 기대된다.\n정창영 아라드네트웍스 대표는 “지난해부터 SH공사와 손잡고 스마트홈 시스템 보안강화를 위한 실증사업을 완료했다”면서 “안전한 스마트홈을 넘어 안전한 스마트시티 건설에 이바지할 수 있도록 최선을 다할 것”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아라드네트웍스가 국내 최초로 아파트 단지 내 '세대 간 사이버경계벽'을 구축했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "내부 해킹공격에 취약한 스마트홈 해킹피해를 원천 차단할 것으로 기대된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아라드네트웍스(대표 정창영)가 서울시 구로구 SH공사 하버라인 아파트 4단지 297세대에 '차세대 스마트홈 보안시스템'을 적용, 세대 간 사이버경계벽을 구축했다고 11일 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 스마트홈이 보편화되면서 아파트 단지가 해킹 당해 홈네트워크 시스템 사용이 중지되거나 전기요금이 변경되는 사례가 발생했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스마트홈 해킹은 개인정보 유출뿐 아니라 도어락이나 엘리베이터까지 조종할 수 있어 입주민 안전·생명에 큰 위협이 된다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 기존 아파트 단지 스마트홈 시스템은 메인서버에만 방화벽이 설치돼 외부해킹은 방어할 수 있지만 단지 내 스마트홈 시스템에 접속한 해킹 방어는 불가능하다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "세대 간 물리적 장벽은 견고하게 구축했지만 사이버 보안에는 취약하다는 지적이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SH공사는 아라드네트웍스 '차세대 스마트홈 보안시스템'을 적용해 세대 간 사이버경계벽을 구축했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "세대 단자함에 가로·세로 각 10㎝ 크기 포인트 게이트웨이를 설치해 단지 내 해킹 원천 방어체계를 구현했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "세대 간 사이버경계벽은 물리적 공간처럼 세대별로 독립된 사이버 공간을 구성하는 네트워크 보안 기술이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "일종의 '사이버방화벽' 개념으로 네트워크 가상화를 통해 네트워크를 세대별로 분리하고 IP주소와 서비스 포트를 은닉·통제한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "다만 아직 스마트홈 보안을 강제할 법규가 없고 대다수 스마트홈 시스템이 단지망과 세대망 보안대응을 하지 않아 세부 보안기준 마련이 시급한 상황이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "SH공사는 구로 하버라인 4단지 시범운영을 통해 세부기준을 마련해 향후 공동주택까지 적용범위를 확대할 예정이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "아라드네트웍스는 해킹방지 솔루션 '아라드(ARAD)' 적용 분야를 스마트홈, 스마트시티 등으로 확장하고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "스마트시티 필수 기능 네트워크 가상화·슬라이싱 기술을 탑재해 네트워크 유연성과 서비스 간 보안을 강화한 만큼 국내외 스마트시티 시장 진출 확대가 기대된다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "정창영 아라드네트웍스 대표는 “지난해부터 SH공사와 손잡고 스마트홈 시스템 보안강화를 위한 실증사업을 완료했다”면서 “안전한 스마트홈을 넘어 안전한 스마트시티 건설에 이바지할 수 있도록 최선을 다할 것”이라고 전했다.",
+				"sentenceSize": 121
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아라드네트웍스, 국내 최초 아파트 '세대 간 사이버경계벽' 구축… 단지 내부 해킹 원천 차단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

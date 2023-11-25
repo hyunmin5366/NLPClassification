@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325417",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "텔콤아이씨피, 코셀 AC/DC 전원공급장치 신제품 출시",
+		"newsSubTitle": "",
+		"newsContent": "텔콤아이씨피(대표 최유섭)가 코셀(COSEL)사 AC/DC 전원공급장치 신제품(모델명 FETA7000 시리즈)을 국내 공급한다.\nFETA7000 시리즈는 코셀 제품 중 최고 출력 전압(DC 144V) 제품이다.\n1U 높이의 컴팩트한 디자인, 높은 효율, 이전 고전력 제품(PBA1500F)보다 2~3배 높은 전력밀도를 자랑한다.\n높은 출력 전압을 얻기 위한 직렬 연결이 필요없으며 TRM을 사용해 광범위한 출력 전압(0V~158.4V) 조절이 가능하다.\n입력 전압 범위는 FETA7000T 시리즈의 경우 170~264VAC 3상, FETA7000ST 시리즈의 경우 300~480VAC 3상(4-wire) 이다.\n과전류 보호 기능, 과전압 보호 및 과온 보호 기능이 있으며 셧다운 및 전원 공급 장치 비정상 상태를 나타내는 LED를 제공한다.\n간편한 전력 확장 조절이 가능하며 주출력 전압과 독립 AUX가 장착돼 있다.\n병렬 연결과 직렬 연결을 사용해 더 높은 전력을 얻을 수 있다.\n대형 산업 장비, 고주파 전원, 건설 장비, 반도체 제조 장비 등에 적용 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "텔콤아이씨피(대표 최유섭)가 코셀(COSEL)사 AC/DC 전원공급장치 신제품(모델명 FETA7000 시리즈)을 국내 공급한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "FETA7000 시리즈는 코셀 제품 중 최고 출력 전압(DC 144V) 제품이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "1U 높이의 컴팩트한 디자인, 높은 효율, 이전 고전력 제품(PBA1500F)보다 2~3배 높은 전력밀도를 자랑한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "높은 출력 전압을 얻기 위한 직렬 연결이 필요없으며 TRM을 사용해 광범위한 출력 전압(0V~158.4V) 조절이 가능하다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "입력 전압 범위는 FETA7000T 시리즈의 경우 170~264VAC 3상, FETA7000ST 시리즈의 경우 300~480VAC 3상(4-wire) 이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "과전류 보호 기능, 과전압 보호 및 과온 보호 기능이 있으며 셧다운 및 전원 공급 장치 비정상 상태를 나타내는 LED를 제공한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "간편한 전력 확장 조절이 가능하며 주출력 전압과 독립 AUX가 장착돼 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "병렬 연결과 직렬 연결을 사용해 더 높은 전력을 얻을 수 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "대형 산업 장비, 고주파 전원, 건설 장비, 반도체 제조 장비 등에 적용 가능하다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "텔콤아이씨피, 코셀 AC/DC 전원공급장치 신제품 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

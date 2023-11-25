@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327307",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "코드마인드, 임베디드SW 자동검증도구 '코요테' 출시",
+		"newsSubTitle": "",
+		"newsContent": "코드마인드가 자동차 전장 등 임베디드소프트웨어(SW) 자동 검증도구를 출시했다.\n자율주행차 등 신뢰성 확보가 필수적인 분야에 크게 기여할 것으로 예상된다.\n코드마인드(대표 신승철)는 자동차 전장 SW와 같은 임베디드SW 검증에 적용 가능한 임베디드 단위 테스팅 자동도구 '코요테(COYOTE)'를 출시했다고 20일 밝혔다.\n코드마인드는 화이트박스 자동 테스팅을 위한 자동 검증 도구와 소스코드 진단을 위한 정적분석 도구를 개발하는 SW분석검증 전문기업이다.\n최근 열린 국내 최대 규모 SW테스팅 콘퍼런스 '베스트콘(BeSTCon:Better Software Testing Conference) 2019'에서 코요테를 정식 소개했다.\n코드마인드는 코요테로 단위 테스팅 전 과정을 업계 최초로 완전자동화하는데 성공했다고 설명했다.\n최근 SW산업 발달로 SW테스팅 산업이 고속 성장하고 있다.\n하지만 테스팅 수요가 급증하고 있어 테스트 엔지니어 중심 인력 서비스만으로 감당하기 어려운 실정이다.\n특히 임베디드SW의 화이트박스 테스팅과 같이 시간과 비용이 많이 필요한 분야는 자동테스팅 요구가 많았다.\n하지만 만족할 만한 도구가 없어 화이트박스 테스팅 자체가 적절하게 이뤄지지 않는 경우도 많았다.\n코드마인드 코요테는 최신 심볼릭 테스팅 기술과 머신러닝 기술을 융합해 자동화 수준과 코드커버리지를 획기적으로 개선한다.\n해당 기술을 적용하면 자동차 전장 SW 등 임베디드SW 테스팅 생산성이 최소 3~6배 이상 향상된다.\n대규모 프로젝트일수록 생산성 향상이 더 커지는 것이 특징이다.\n또 기존 단위 테스트 자동화 도구는 테스트 케이스를 자동 생성하는 핵심기능이 제 역할을 못하고 수작업 단위 테스트를 관리하는 보조 역할에 머물렀다.\n이마저도 국내 SW 검증 시장은 외산도구가 점유하고 있는 실정이다.\n코요테는 테스팅 전 과정을 완전 자동화함으로써 기존 도구와 비교할 수 없는 성능을 보여준다.\n자율주행차 등 4차 산업혁명 기술 발전에 기반이 되는 SW검증 기술을 국산 SW가 선도하는 계기가 될 것으로 기대된다.\n신승철 코드마인드 대표는 \\\"인공지능과 자율주행차 등에서 대두되는 SW안전 문제를 해결하는 중요한 대책 중 하나가 화이트박스 테스팅 자동화\\\"라면서 \\\"코요테가 자동테스팅 새로운 길을 이끌고 국내 SW검증 산업 수준을 한 단계 높일 것\\\"이라고 말했다.\n코드마인드는 고객 대기 수요로 인해 C프로그램용 도구를 먼저 출시했으며 내년 초에는 C++프로그램용 검증도구를 내놓을 예정이다.\n코드마인드는 코요테 활용 범위가 자동차 전장을 비롯하여 국방, 로봇, 통신 등 임베디드SW 산업 전체로 점차 확대할 것으로 기대했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코드마인드가 자동차 전장 등 임베디드소프트웨어(SW) 자동 검증도구를 출시했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자율주행차 등 신뢰성 확보가 필수적인 분야에 크게 기여할 것으로 예상된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코드마인드(대표 신승철)는 자동차 전장 SW와 같은 임베디드SW 검증에 적용 가능한 임베디드 단위 테스팅 자동도구 '코요테(COYOTE)'를 출시했다고 20일 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코드마인드는 화이트박스 자동 테스팅을 위한 자동 검증 도구와 소스코드 진단을 위한 정적분석 도구를 개발하는 SW분석검증 전문기업이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 열린 국내 최대 규모 SW테스팅 콘퍼런스 '베스트콘(BeSTCon:Better Software Testing Conference) 2019'에서 코요테를 정식 소개했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코드마인드는 코요테로 단위 테스팅 전 과정을 업계 최초로 완전자동화하는데 성공했다고 설명했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근 SW산업 발달로 SW테스팅 산업이 고속 성장하고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하지만 테스팅 수요가 급증하고 있어 테스트 엔지니어 중심 인력 서비스만으로 감당하기 어려운 실정이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "특히 임베디드SW의 화이트박스 테스팅과 같이 시간과 비용이 많이 필요한 분야는 자동테스팅 요구가 많았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하지만 만족할 만한 도구가 없어 화이트박스 테스팅 자체가 적절하게 이뤄지지 않는 경우도 많았다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "코드마인드 코요테는 최신 심볼릭 테스팅 기술과 머신러닝 기술을 융합해 자동화 수준과 코드커버리지를 획기적으로 개선한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "해당 기술을 적용하면 자동차 전장 SW 등 임베디드SW 테스팅 생산성이 최소 3~6배 이상 향상된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "대규모 프로젝트일수록 생산성 향상이 더 커지는 것이 특징이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "또 기존 단위 테스트 자동화 도구는 테스트 케이스를 자동 생성하는 핵심기능이 제 역할을 못하고 수작업 단위 테스트를 관리하는 보조 역할에 머물렀다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이마저도 국내 SW 검증 시장은 외산도구가 점유하고 있는 실정이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "코요테는 테스팅 전 과정을 완전 자동화함으로써 기존 도구와 비교할 수 없는 성능을 보여준다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "자율주행차 등 4차 산업혁명 기술 발전에 기반이 되는 SW검증 기술을 국산 SW가 선도하는 계기가 될 것으로 기대된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "신승철 코드마인드 대표는 \\\"인공지능과 자율주행차 등에서 대두되는 SW안전 문제를 해결하는 중요한 대책 중 하나가 화이트박스 테스팅 자동화\\\"라면서 \\\"코요테가 자동테스팅 새로운 길을 이끌고 국내 SW검증 산업 수준을 한 단계 높일 것\\\"이라고 말했다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "코드마인드는 고객 대기 수요로 인해 C프로그램용 도구를 먼저 출시했으며 내년 초에는 C++프로그램용 검증도구를 내놓을 예정이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "코드마인드는 코요테 활용 범위가 자동차 전장을 비롯하여 국방, 로봇, 통신 등 임베디드SW 산업 전체로 점차 확대할 것으로 기대했다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코드마인드, 임베디드SW 자동검증도구 '코요테' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

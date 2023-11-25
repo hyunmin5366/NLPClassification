@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337867",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "빔 소프트웨어, 마이크로소프트 애저 백업 솔루션 출시",
+		"newsSubTitle": "",
+		"newsContent": "빔 소프트웨어는 마이크로소프트 애저 클라우드를 지원하는 엔터프라이즈급 클라우드 백업 및 복구 솔루션 빔 백업 포 마이크로소프트애저(Veeam Backup for Microsoft Azure)를 출시했다고 밝혔다.\n이제 고객과 클라우드 서비스 제공 업체는 더 많은 애플리케이션과 데이터를 애저로 이동하고 애저에서 클라우드 애플리케이션과 데이터를 비용 효율적이고 안전하게 보호할 수 있게 되었다.\n또한 빔 소프트웨어의 클라우드 모빌리티 기능과 연동하면 다중 클라우드 환경에서 백업, 복구 및 마이그레이션을 포함한 다양한 데이터 관리가 가능하다.\n마이크로소프트 애저와 같은 퍼블릭 클라우드 IaaS 서비스 도입세가 증가하고 있지만 고객들은 자신의 데이터뿐만 아니라 랜섬웨어와 같은 악의적 데이터 삭제와 접근방해 또는 사용자의 실수로 인한 데이터 손실과 같은 리스크 상황으로부터 데이터를 보호해야 한다.\n마이크로소프트 애저 지원 빔 백업 솔루션은 기존 온프레미스 환경의 데이터를 보호하면서 마이크로소프트 애저의 가상머신에서 호스팅되는 애저 앱과 가상머신까지 빔 소프트웨어 솔루션 기반의 포괄적인 통합 백업과 복구 관리가 가능하다.\n이 솔루션은 ▲마이크로소프트 애저 플랫폼과 연동되는 스냅샷 백업 자동화, Azure Blob 저장소 지원, 고속 파일단위 복구, ▲다중 클라우드 환경 포함 및 가상환경, 물리환경의 P2V, P2C 데이터 마이그레이션, ▲백업비용 산정기능으로 백업 데이터 보관으로 인해 예상치 못한 과도한 비용발생 예방, ▲Cross-subscription, Cross-region 백업 기능과 다중인증 기능으로 랜섬웨어와 같은 사이버 위협에 대한 보호 기능 등 다양한 기능을 제공한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빔 소프트웨어는 마이크로소프트 애저 클라우드를 지원하는 엔터프라이즈급 클라우드 백업 및 복구 솔루션 빔 백업 포 마이크로소프트애저(Veeam Backup for Microsoft Azure)를 출시했다고 밝혔다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이제 고객과 클라우드 서비스 제공 업체는 더 많은 애플리케이션과 데이터를 애저로 이동하고 애저에서 클라우드 애플리케이션과 데이터를 비용 효율적이고 안전하게 보호할 수 있게 되었다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또한 빔 소프트웨어의 클라우드 모빌리티 기능과 연동하면 다중 클라우드 환경에서 백업, 복구 및 마이그레이션을 포함한 다양한 데이터 관리가 가능하다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마이크로소프트 애저와 같은 퍼블릭 클라우드 IaaS 서비스 도입세가 증가하고 있지만 고객들은 자신의 데이터뿐만 아니라 랜섬웨어와 같은 악의적 데이터 삭제와 접근방해 또는 사용자의 실수로 인한 데이터 손실과 같은 리스크 상황으로부터 데이터를 보호해야 한다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마이크로소프트 애저 지원 빔 백업 솔루션은 기존 온프레미스 환경의 데이터를 보호하면서 마이크로소프트 애저의 가상머신에서 호스팅되는 애저 앱과 가상머신까지 빔 소프트웨어 솔루션 기반의 포괄적인 통합 백업과 복구 관리가 가능하다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 솔루션은 ▲마이크로소프트 애저 플랫폼과 연동되는 스냅샷 백업 자동화, Azure Blob 저장소 지원, 고속 파일단위 복구, ▲다중 클라우드 환경 포함 및 가상환경, 물리환경의 P2V, P2C 데이터 마이그레이션, ▲백업비용 산정기능으로 백업 데이터 보관으로 인해 예상치 못한 과도한 비용발생 예방, ▲Cross-subscription, Cross-region 백업 기능과 다중인증 기능으로 랜섬웨어와 같은 사이버 위협에 대한 보호 기능 등 다양한 기능을 제공한다.",
+				"sentenceSize": 262
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빔 소프트웨어, 마이크로소프트 애저 백업 솔루션 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

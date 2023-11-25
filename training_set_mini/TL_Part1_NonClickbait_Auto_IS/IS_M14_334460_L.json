@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334460",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "SW 개발사가 클라우드 비용을 ‘50%’ 절감, 어떻게?",
+		"newsSubTitle": "디딤365, '디딤나우 2.0'으로 블렌드씽즈 클라우드 비용 '50% 절감'",
+		"newsContent": "멀티 클라우드 전문기업 디딤365(대표 장민호)는 클라우드 자원 관리와 강력한 보안 등을 지원하는 자체 클라우드 매니지먼트 플랫폼(CMP) 디딤나우(DidimNow) v2.0와 전문적인 클라우드 매니지드 서비스를 통해 소프트웨어 개발업체 블렌드씽즈(대표 이창현)의 클라우드 비용을 최대 50% 절감했다고 15일 밝혔다.\n블렌드씽즈는 웹메일의 장점을 더한 무료 솔루션 소프트웨어 오피스 플러그인(Office Plugin), PC 환경 관리 제어 프로그램인 짜투리(zzaturi) 등 다양한 솔루션을 보유하고 있는 기업으로, 태그 형식 기반의 SNS 시그널을 선보일 예정이다.\n블렌드씽즈는 아웃룩 기반의 애드인 애플리케이션(오피스 플러그인)을 구축하고 운영하기 위해 AWS를 도입했지만 초기 클라우드 환경에 적응하는 데 어려움을 겪었다.\n특히 데이터 전송 비용이 많이 발생하는 문제에 직면했다.\n디딤365의 전문적인 클라우드 매니지드 서비스와 함께 디딤나우 v2.0을 활용해 이 문제를 해결했다.\n디딤365는 블렌드씽즈의 AWS 이용 자원을 분석하고 고비용의 아웃바운드 트래픽 요금을 그대로 납부하고 있던 블렌드씽즈에 CDN(Contents Delivery Network) 서비스인 AWS 클라우드프론트(Cloudfront) 도입을 제안, 월 30% 가량 데이터 전송 비용을 줄였다.\n여기에 디딤나우 v2.0에 탑재된 Auto RI 기능을 통해 EC2, RDS 비용을 20% 이상 절감했다.\n또한 디딤나우 2.0의 온라인 대시보드를 통해 이용요금과 할인금액을 실시간 확인하는 등 통합 관리를 통해 클라우드 비용을 효율적으로 관리할 수 있게 됐다.\n블렌드씽즈 이창현 대표는 \\\"디딤365의 솔루션과 매니지드 서비스 지원을 통해 클라우드 활용 시 클라우드 전문가와 함께 논의할 때 더욱 생산적이고 안정적인 클라우드 운영이 가능하다는 점을 깨달았다\\\"며 \\\"디딤365와 지속적인 파트너십으로 클라우드 활용 최족화를 이뤄가겠다\\\"고 말했다.\n디딤365 김정수 상무는 \\\"코로나19 경제위기로 어려움을 겪는 기업들을 위해 자동화된 클라우드 관리 서비스와 최대의 비용 절감 혜택을 제공하는 등 디딤365은 '고객과 상생' 최우선하고 있다\\\"면서 \\\"고객사들에게 최대의 비용 절감 혜택과 안정적인 클라우드 인프라 운영을 위해 지속적으로 노력하겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "멀티 클라우드 전문기업 디딤365(대표 장민호)는 클라우드 자원 관리와 강력한 보안 등을 지원하는 자체 클라우드 매니지먼트 플랫폼(CMP) 디딤나우(DidimNow) v2.0와 전문적인 클라우드 매니지드 서비스를 통해 소프트웨어 개발업체 블렌드씽즈(대표 이창현)의 클라우드 비용을 최대 50% 절감했다고 15일 밝혔다.",
+				"sentenceSize": 178
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "블렌드씽즈는 웹메일의 장점을 더한 무료 솔루션 소프트웨어 오피스 플러그인(Office Plugin), PC 환경 관리 제어 프로그램인 짜투리(zzaturi) 등 다양한 솔루션을 보유하고 있는 기업으로, 태그 형식 기반의 SNS 시그널을 선보일 예정이다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "블렌드씽즈는 아웃룩 기반의 애드인 애플리케이션(오피스 플러그인)을 구축하고 운영하기 위해 AWS를 도입했지만 초기 클라우드 환경에 적응하는 데 어려움을 겪었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 데이터 전송 비용이 많이 발생하는 문제에 직면했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "디딤365의 전문적인 클라우드 매니지드 서비스와 함께 디딤나우 v2.0을 활용해 이 문제를 해결했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "디딤365는 블렌드씽즈의 AWS 이용 자원을 분석하고 고비용의 아웃바운드 트래픽 요금을 그대로 납부하고 있던 블렌드씽즈에 CDN(Contents Delivery Network) 서비스인 AWS 클라우드프론트(Cloudfront) 도입을 제안, 월 30% 가량 데이터 전송 비용을 줄였다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "여기에 디딤나우 v2.0에 탑재된 Auto RI 기능을 통해 EC2, RDS 비용을 20% 이상 절감했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또한 디딤나우 2.0의 온라인 대시보드를 통해 이용요금과 할인금액을 실시간 확인하는 등 통합 관리를 통해 클라우드 비용을 효율적으로 관리할 수 있게 됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "블렌드씽즈 이창현 대표는 \\\"디딤365의 솔루션과 매니지드 서비스 지원을 통해 클라우드 활용 시 클라우드 전문가와 함께 논의할 때 더욱 생산적이고 안정적인 클라우드 운영이 가능하다는 점을 깨달았다\\\"며 \\\"디딤365와 지속적인 파트너십으로 클라우드 활용 최족화를 이뤄가겠다\\\"고 말했다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "디딤365 김정수 상무는 \\\"코로나19 경제위기로 어려움을 겪는 기업들을 위해 자동화된 클라우드 관리 서비스와 최대의 비용 절감 혜택을 제공하는 등 디딤365은 '고객과 상생' 최우선하고 있다\\\"면서 \\\"고객사들에게 최대의 비용 절감 혜택과 안정적인 클라우드 인프라 운영을 위해 지속적으로 노력하겠다\\\"고 밝혔다.",
+				"sentenceSize": 175
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SW 개발사가 클라우드 비용을 ‘50%’ 절감, 어떻게?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335311",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "모니터랩 SSL 가시성 솔루션 'AISVA', 시장 선도",
+		"newsSubTitle": "",
+		"newsContent": "모니터랩이 수요가 늘어나고 있는 SSL(Secure Sockets Layer) 가시성 솔루션 시장을 선도하고 있다.\n모니터랩(대표 이광후)은 자사 SSL가시성솔루션 'AISVA'가 상반기 국내외 SSL 가시성 솔루션 벤더 가운데 가장 많은 국내 레퍼런스를 확보한 것으로 자체 집계됐다고 4일 밝혔다.\nSSL가시성 솔루션은 암호화된 트래픽 복호화 기능을 지원하지 않거나 성능이 크게 떨어지는 네트워크 보안장비를 대신해 앞단에서 복호화를 수행, 가시성을 확보하는 장비다.\nSSL 트래픽 암·복호화 과정에서 발생하는 시스템 부하를 고려해 개별 보안 솔루션이 SSL을 지원하기 보다는 SSL가시성 솔루션을 구축해 다양한 보안솔루션과 연동하는 추세다.\n모니터랩 AISVA는 SSL·TLS 기반 암·복호화에 최적화된 자체 SSL 프록시 엔진을 기반으로 서버·클라이언트 양방향 암·복호화를 제공한다.\n모니터랩은 웹방화벽으로 SSL트래픽을 처리하는 3000여개 레퍼런스를 기반으로 기술력을 축적했다.\n이를 기반으로 2015년 전용 SSL가시성 솔루션 AISVA를 출시했다.\n다양한 고객 사이트에서 파이어월, IPS, DLP, APT 등 보안솔루션과 연동을 위한 최적화를 진행했다.\nSSL 암복호화 과정에서 트래픽 속도 저하, 기존 보안장비와 연동 구성 어려움을 해결하며 SSL 가시성 프로젝트 해결사 역할을 수행하고 있다.\n모니터랩은 “SSL 암복호화 과정에서 높은 성능과 70개 이상 국내외 보안솔루션과 안정 연동할 수 있는 기술력이 고객 사이트에서 검증됐다”면서 “'SSL 접속 불가 사이트 자동지원' 특허 기술을 기반으로 전년대비 5배 이상 성장하고 SSL 가시성 프로젝트 해결사로 관련 시장을 선도하고 있다”고 강조했다.\nAISVA는 높은 성능을 보장하고 기존 보안환경 변경을 최소화하며 안정적으로 연동한다.\nHTTPS, POP3, SMTPS, FTPS 등 다양한 보안 프로토콜도 지원한다.\n업계 최대 암호화키 조합'사이퍼 스위트' 지원, 인밸리드 SSL인증서 검출·배포, 다양한 네트쿼크 구성모드 지원, SSL 취약점 가상 패치 등 차별화된 기술을 제공한다.\nAISVA는 인·아웃바운드 트래픽을 동시 지원한다.\n특히 최근 아웃바운드 트래픽 가시성 제공시 고객 편의성을 위한 '인터넷 접속 불가 사이트 자동 지원' 관련 특허를 취득했다.\n이를 통해 고객은 윈도 업데이트나 카카오톡과 같은 특성을 가진 서비스에 대해서도 별도 바이패스 등록 절차 없이 사이트 접속이 가능하다.\n윤승원 모니터랩 사업개발본부장은 “AISVA는 각종 벤치마크테스트에서 높은 성과와 구축 과정에서 문제가 발생한 SSL가시성 프로젝트에서 대체 솔루션으로 각광받고 있다”면서 “일본 시장에서 추진 중인 ODM 사업을 통해 가시적 수출 성과와 기술을 인정받아 수출확대도 기대한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모니터랩이 수요가 늘어나고 있는 SSL(Secure Sockets Layer) 가시성 솔루션 시장을 선도하고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "모니터랩(대표 이광후)은 자사 SSL가시성솔루션 'AISVA'가 상반기 국내외 SSL 가시성 솔루션 벤더 가운데 가장 많은 국내 레퍼런스를 확보한 것으로 자체 집계됐다고 4일 밝혔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SSL가시성 솔루션은 암호화된 트래픽 복호화 기능을 지원하지 않거나 성능이 크게 떨어지는 네트워크 보안장비를 대신해 앞단에서 복호화를 수행, 가시성을 확보하는 장비다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SSL 트래픽 암·복호화 과정에서 발생하는 시스템 부하를 고려해 개별 보안 솔루션이 SSL을 지원하기 보다는 SSL가시성 솔루션을 구축해 다양한 보안솔루션과 연동하는 추세다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "모니터랩 AISVA는 SSL·TLS 기반 암·복호화에 최적화된 자체 SSL 프록시 엔진을 기반으로 서버·클라이언트 양방향 암·복호화를 제공한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모니터랩은 웹방화벽으로 SSL트래픽을 처리하는 3000여개 레퍼런스를 기반으로 기술력을 축적했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 기반으로 2015년 전용 SSL가시성 솔루션 AISVA를 출시했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다양한 고객 사이트에서 파이어월, IPS, DLP, APT 등 보안솔루션과 연동을 위한 최적화를 진행했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "SSL 암복호화 과정에서 트래픽 속도 저하, 기존 보안장비와 연동 구성 어려움을 해결하며 SSL 가시성 프로젝트 해결사 역할을 수행하고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "모니터랩은 “SSL 암복호화 과정에서 높은 성능과 70개 이상 국내외 보안솔루션과 안정 연동할 수 있는 기술력이 고객 사이트에서 검증됐다”면서 “'SSL 접속 불가 사이트 자동지원' 특허 기술을 기반으로 전년대비 5배 이상 성장하고 SSL 가시성 프로젝트 해결사로 관련 시장을 선도하고 있다”고 강조했다.",
+				"sentenceSize": 170
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "AISVA는 높은 성능을 보장하고 기존 보안환경 변경을 최소화하며 안정적으로 연동한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "HTTPS, POP3, SMTPS, FTPS 등 다양한 보안 프로토콜도 지원한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "업계 최대 암호화키 조합'사이퍼 스위트' 지원, 인밸리드 SSL인증서 검출·배포, 다양한 네트쿼크 구성모드 지원, SSL 취약점 가상 패치 등 차별화된 기술을 제공한다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "AISVA는 인·아웃바운드 트래픽을 동시 지원한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "특히 최근 아웃바운드 트래픽 가시성 제공시 고객 편의성을 위한 '인터넷 접속 불가 사이트 자동 지원' 관련 특허를 취득했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이를 통해 고객은 윈도 업데이트나 카카오톡과 같은 특성을 가진 서비스에 대해서도 별도 바이패스 등록 절차 없이 사이트 접속이 가능하다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "윤승원 모니터랩 사업개발본부장은 “AISVA는 각종 벤치마크테스트에서 높은 성과와 구축 과정에서 문제가 발생한 SSL가시성 프로젝트에서 대체 솔루션으로 각광받고 있다”면서 “일본 시장에서 추진 중인 ODM 사업을 통해 가시적 수출 성과와 기술을 인정받아 수출확대도 기대한다”고 말했다.",
+				"sentenceSize": 159
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모니터랩 SSL 가시성 솔루션 'AISVA', 시장 선도",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

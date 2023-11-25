@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324554",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "한컴 취약점 공격 데이터 살균으로 막는다",
+		"newsSubTitle": "",
+		"newsContent": "문서를 살균해 기업 내부로 악성코드 유입을 막는 기술이 나왔다.\n인섹시큐리티(대표 김종광)는 5일 옵스왓 '메타디펜더'에 HWP 파일 데이터 살균기술을 적용했다고 밝혔다.\n국내 공공기관과 기업을 표적한 사이버 공격에 한컴오피스 취약점이 자주 쓰인다.\n공격자는 HWP 파일 취약점을 이용해 악성코드를 전달한다.\n주로 특정인을 노리는 지능형지속위협(APT) 공격에 한컴 오피스 취약점이 활용된다.\n사용자가 한글 첨부 문서를 실행하면 악성코드에 감염된다.\n사용자는 정상 파일로 인식하기 때문에 감염 성공률이 높다.\n옵스왓 메타디펜더는 42개 안티바이러스 솔루션을 연동해 1차로 악성코드를 검색한다.\n이후 데이터살균(CDR)으로 두 번째 방어 기능을 제공한다.\n안티바이러스 제품만을 사용할 때보다 향상된 탐지율을 자랑한다.\n메타디펜더 CDR은 문서와 이미지 콘텐츠를 분해해 포함된 악성코드나 해로운 공격도구를 제거하고 본래 내용을 재구성한다.\nCDR 기술은 제로데이 공격을 포함해 악성 콘텐츠가 실행되지 않도록 파일 내 익스플로잇(취약점공격) 콘텐츠를 제거한다.\n살균 처리한 결과물을 사용자가 지정한 파일형식으로 보낸다.\n메타디펜더는 시스템 내 모든 파일의 해시 값을 추출한 뒤 백신 엔진과 동시에 대조한다.\n백신 여러 종을 동시 작동할 때 발생하는 충돌 문제와 속도 지연을 해결했다.\n옵스왓을 국내에 공급하는 김종광 인섹시큐리티 대표는 \\\"기존 안티바이러스 솔루션은 알려지지 않은 악성코드는 탐지하지 못한다\\\"며 \\\"내부로 들어오는 문서를 살균하면 안전성을 확보 한다\\\"고 설명했다.\n그는 \\\"악성코드 문서는 주로 이메일로 전달 된다\\\"며 \\\"CDR기술이 들어간 메타디펜더는 기업 메일 서버 뒤편에서 첨부파일을 살균 한다\\\"고 덧붙였다.\n메타디펜더는 HWP 파일은 물론 마이크로소프트 워드, 엑셀, 파워포인트 등 오피스 문서와 어도비 PDF, 그림판 비트맵 이미지, 사진, 출력문서 이미지, 디지털카메라 원본 사진 파일에 포함된 악성코드도 모두 살균 처리한다.\n지원 파일 포맷은 모두 17가지며 유해성을 검사해 100여개 결과 형식으로 변환한다.\n김 대표는 \\\"메타디펜더 CDR 기술을 국내 보안 기업 제품에 응용 프로그래밍 인터페이스(API)로 연동할 수 있다\\\"면서 \\\"F5네트웍스, 인텔시큐리티, 블루코트, 아라네트웍스 등에 적용했다\\\"고 설명했다.\n그는 \\\"메타디펜더는 오토캐드와 스캐치업 등으로 CDR 지원 유형을 지속 확대 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "문서를 살균해 기업 내부로 악성코드 유입을 막는 기술이 나왔다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인섹시큐리티(대표 김종광)는 5일 옵스왓 '메타디펜더'에 HWP 파일 데이터 살균기술을 적용했다고 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내 공공기관과 기업을 표적한 사이버 공격에 한컴오피스 취약점이 자주 쓰인다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공격자는 HWP 파일 취약점을 이용해 악성코드를 전달한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주로 특정인을 노리는 지능형지속위협(APT) 공격에 한컴 오피스 취약점이 활용된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사용자가 한글 첨부 문서를 실행하면 악성코드에 감염된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사용자는 정상 파일로 인식하기 때문에 감염 성공률이 높다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "옵스왓 메타디펜더는 42개 안티바이러스 솔루션을 연동해 1차로 악성코드를 검색한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 데이터살균(CDR)으로 두 번째 방어 기능을 제공한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "안티바이러스 제품만을 사용할 때보다 향상된 탐지율을 자랑한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "메타디펜더 CDR은 문서와 이미지 콘텐츠를 분해해 포함된 악성코드나 해로운 공격도구를 제거하고 본래 내용을 재구성한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "CDR 기술은 제로데이 공격을 포함해 악성 콘텐츠가 실행되지 않도록 파일 내 익스플로잇(취약점공격) 콘텐츠를 제거한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "살균 처리한 결과물을 사용자가 지정한 파일형식으로 보낸다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "메타디펜더는 시스템 내 모든 파일의 해시 값을 추출한 뒤 백신 엔진과 동시에 대조한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "백신 여러 종을 동시 작동할 때 발생하는 충돌 문제와 속도 지연을 해결했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "옵스왓을 국내에 공급하는 김종광 인섹시큐리티 대표는 \\\"기존 안티바이러스 솔루션은 알려지지 않은 악성코드는 탐지하지 못한다\\\"며 \\\"내부로 들어오는 문서를 살균하면 안전성을 확보 한다\\\"고 설명했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "그는 \\\"악성코드 문서는 주로 이메일로 전달 된다\\\"며 \\\"CDR기술이 들어간 메타디펜더는 기업 메일 서버 뒤편에서 첨부파일을 살균 한다\\\"고 덧붙였다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "메타디펜더는 HWP 파일은 물론 마이크로소프트 워드, 엑셀, 파워포인트 등 오피스 문서와 어도비 PDF, 그림판 비트맵 이미지, 사진, 출력문서 이미지, 디지털카메라 원본 사진 파일에 포함된 악성코드도 모두 살균 처리한다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "지원 파일 포맷은 모두 17가지며 유해성을 검사해 100여개 결과 형식으로 변환한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "김 대표는 \\\"메타디펜더 CDR 기술을 국내 보안 기업 제품에 응용 프로그래밍 인터페이스(API)로 연동할 수 있다\\\"면서 \\\"F5네트웍스, 인텔시큐리티, 블루코트, 아라네트웍스 등에 적용했다\\\"고 설명했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "그는 \\\"메타디펜더는 오토캐드와 스캐치업 등으로 CDR 지원 유형을 지속 확대 한다\\\"고 말했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한컴 취약점 공격 데이터 살균으로 막는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

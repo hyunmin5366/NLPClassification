@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348667",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "네이버 '자율주행 로봇' 실제 도로 달린다…성남시와 협업",
+		"newsSubTitle": "null",
+		"newsContent": "네이버랩스가 성남시와 함께 도로 자율주행 기술 고도화에 나섰다.\n네이버랩스는 8일 성남시가 마련한 자율주행 테스트베드(기본시험장)에서 도로자율주행 로봇 플랫폼 ALT의 파일럿 테스트를 진행했다고 밝혔다.\nALT는 도로 위를 자율주행하며 서비스를 제공하는 도로 자율주행 로봇 플랫폼이다.\n음식이나 상품 배송 등의 다양한 무인 서비스에서 활용이 기대된다.\n이번 실제 도로에서의 파일럿 테스트를 거쳐 최종적으로는 실내 서비스 로봇인 AROUND 플랫폼과 연계해 모든 공간에서의 서비스 연결을 목표로 하고 있다.\n성남시 자율주행 기본시험장 참여는 네이버랩스와 성남시가 자율주행 관련 기술 연구개발과 제도 개선 등을 위해 지난해 7월 맺은 MOU(업무 계약)의 일환이다.\n성남시는 판교 지역의 시뮬레이터 등 자율주행 연구를 위한 인프라를 지속해서 제공해 왔고, 지난달 성남 수질복원센터 내 일부 구간을 자율주행 기본시험장으로 정비해 오픈했다.\n네이버랩스는 이번 파일럿 테스트를 거쳐 ALT을 더욱 고도화하고, 올해 오픈할 네이버 제2사옥에서 입주 직원을 대상으로 서비스를 제공할 예정이다.\n백종윤 네이버랩스 자율주행그룹 부문장은 \\\"실제 도로에서의 파일럿 테스트를 통해 배송 등의 다양한 ALT 서비스 시나리오를 빠르게 고도화할 계획\\\"이라며 \\\"실제 공간에서 더욱 자연스러운 서비스 제공을 위해 다양한 파트너들과의 협력도 이어나갈 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버랩스가 성남시와 함께 도로 자율주행 기술 고도화에 나섰다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버랩스는 8일 성남시가 마련한 자율주행 테스트베드(기본시험장)에서 도로자율주행 로봇 플랫폼 ALT의 파일럿 테스트를 진행했다고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ALT는 도로 위를 자율주행하며 서비스를 제공하는 도로 자율주행 로봇 플랫폼이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "음식이나 상품 배송 등의 다양한 무인 서비스에서 활용이 기대된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 실제 도로에서의 파일럿 테스트를 거쳐 최종적으로는 실내 서비스 로봇인 AROUND 플랫폼과 연계해 모든 공간에서의 서비스 연결을 목표로 하고 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "성남시 자율주행 기본시험장 참여는 네이버랩스와 성남시가 자율주행 관련 기술 연구개발과 제도 개선 등을 위해 지난해 7월 맺은 MOU(업무 계약)의 일환이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "성남시는 판교 지역의 시뮬레이터 등 자율주행 연구를 위한 인프라를 지속해서 제공해 왔고, 지난달 성남 수질복원센터 내 일부 구간을 자율주행 기본시험장으로 정비해 오픈했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "네이버랩스는 이번 파일럿 테스트를 거쳐 ALT을 더욱 고도화하고, 올해 오픈할 네이버 제2사옥에서 입주 직원을 대상으로 서비스를 제공할 예정이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "백종윤 네이버랩스 자율주행그룹 부문장은 \\\"실제 도로에서의 파일럿 테스트를 통해 배송 등의 다양한 ALT 서비스 시나리오를 빠르게 고도화할 계획\\\"이라며 \\\"실제 공간에서 더욱 자연스러운 서비스 제공을 위해 다양한 파트너들과의 협력도 이어나갈 것\\\"이라고 말했다.",
+				"sentenceSize": 147
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버 '자율주행 로봇' 실제 도로 달린다…성남시와 협업",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

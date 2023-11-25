@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012214",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "대전·충남·세종 3분기 신설법인 급증했다",
+		"newsSubTitle": "대전 458개로 작년동기보다 8.3%↑… 충남도 2.6% 늘어",
+		"newsContent": "대전과 충남, 세종의 신설법인이 큰폭으로 증가했다.\n중소기업청의 '3/4분기 신설법인 동향'에 따르면 3/4분기 대전의 신설법인은 458개로 작년동기보다 8.3%, 전분기보다는 7.5%씩 각각 증가했다.\n올들어 대전의 신설법인은 1382개로 전국적으로는 2.5%를 차지하고 있다.\n3/4분기 충남의 신설법인수는 597개로 작년동기보다는 2.6%증가했다.\n올들어 충남의 신설법인은 1812개로 3.2%의 비중을 차지하고 있는 가운데 전분기에 비해서는 1.0% 감소했다.\n세종의 경우 지난해 같은 분기보다 32.7%나 증가한 73개로 집계된 가운데 전기보다는 3.9%감소했다.\n전국적으로는 신설법인수가 1만8423개로 전기(1만8929개)대비 2.7% 감소했으며, 작년동기(1만8650개) 대비해 1.2% 감소했다.\n전기대비 제조업은 증가하고 건설업과 서비스업은 감소했으며, 작년동기대비로는 제조업·건설업은 증가하고 서비스업은 감소했다.\n서울, 부산 등 8대도시 비중은 55.7%로 작년동기(54.7%) 대비 1.0%p 증가했으며 수도권 비중은 62.1%로 작년동기(62.4%)대비 0.3%p 감소했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전과 충남, 세종의 신설법인이 큰폭으로 증가했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "중소기업청의 '3/4분기 신설법인 동향'에 따르면 3/4분기 대전의 신설법인은 458개로 작년동기보다 8.3%, 전분기보다는 7.5%씩 각각 증가했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올들어 대전의 신설법인은 1382개로 전국적으로는 2.5%를 차지하고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "3/4분기 충남의 신설법인수는 597개로 작년동기보다는 2.6%증가했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올들어 충남의 신설법인은 1812개로 3.2%의 비중을 차지하고 있는 가운데 전분기에 비해서는 1.0% 감소했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "세종의 경우 지난해 같은 분기보다 32.7%나 증가한 73개로 집계된 가운데 전기보다는 3.9%감소했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전국적으로는 신설법인수가 1만8423개로 전기(1만8929개)대비 2.7% 감소했으며, 작년동기(1만8650개) 대비해 1.2% 감소했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전기대비 제조업은 증가하고 건설업과 서비스업은 감소했으며, 작년동기대비로는 제조업·건설업은 증가하고 서비스업은 감소했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "서울, 부산 등 8대도시 비중은 55.7%로 작년동기(54.7%) 대비 1.0%p 증가했으며 수도권 비중은 62.1%로 작년동기(62.4%)대비 0.3%p 감소했다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"...와 함께 합니다\\\"는 인스타그램 속 광고",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

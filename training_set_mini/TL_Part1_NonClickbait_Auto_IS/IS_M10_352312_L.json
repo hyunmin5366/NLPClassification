@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352312",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"연봉 3억원에 모십니다\\\"…삼성전자 공채 메일 열었더니",
+		"newsSubTitle": "null",
+		"newsContent": "\\\"삼성전자 신사업개발팀의 최대 연봉은 3억원입니다. 경력에 관해 간단히 기입해주세요.\\\" 북한 해커들이 삼성 직원을 가장해 '3억원'의 고액 연봉을 내거는 이 같은 악성 이메일을 보내 해킹을 시도하고 있다.\n이들은 한국 정보보안 기업 직원들에게 이메일을 보내온 것으로 확인됐다.\n28일 구글의 사이버보안 작업팀은 최근 발간된 '위협 지평'(Threat Horizon) 11월호 보고서를 통해 북한 해커들이 한국 정보보안 기업의 종사자들에게 삼성을 사칭한 취업 제안 이메일을 보냈다고 소개했다.\n구글이 제시한 이메일 예시를 보면 해커들은 최고 3억원의 연봉을 제시하며 \\\"경력에 관해서 아래 문서를 확인하시고 양식에 간단히 기입해 주세요\\\"라고 요청했다.\n이메일에는 직무 설명서 등이 PDF 파일로 첨부됐다.\n다만 이 파일은 일반적인 PDF 읽기 프로그램으로는 열리지 않았다.\n수신자가 '파일이 열리지 않는다'고 답신하면 해커들은 구글 드라이브 내 '안전한 PDF 리더기'로 연결되는 악성 링크를 보내는 수법으로 해킹을 시도했다.\n링크를 누르면 사용자의 컴퓨터에 파일이 깔리고 임의로 명령을 내릴 수 있는 악성 소프트웨어가 설치된다.\n구글은 해커들이 공격을 통해 확보한 클라우드 컴퓨팅 자원의 86%를 암호화폐 채굴에 사용한 것으로 분석했다.\n또 이와 함께 러시아 정부가 후원하는 해커들이 주로 미국, 영국, 인도 내 1만2000개 지메일 계정에 피싱 이메일을 보낸 일도 있었지만, 구글이 이메일을 막아 피해는 발생하지 않았다고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "\\\"삼성전자 신사업개발팀의 최대 연봉은 3억원입니다. 경력에 관해 간단히 기입해주세요.\\\" 북한 해커들이 삼성 직원을 가장해 '3억원'의 고액 연봉을 내거는 이 같은 악성 이메일을 보내 해킹을 시도하고 있다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이들은 한국 정보보안 기업 직원들에게 이메일을 보내온 것으로 확인됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "28일 구글의 사이버보안 작업팀은 최근 발간된 '위협 지평'(Threat Horizon) 11월호 보고서를 통해 북한 해커들이 한국 정보보안 기업의 종사자들에게 삼성을 사칭한 취업 제안 이메일을 보냈다고 소개했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "구글이 제시한 이메일 예시를 보면 해커들은 최고 3억원의 연봉을 제시하며 \\\"경력에 관해서 아래 문서를 확인하시고 양식에 간단히 기입해 주세요\\\"라고 요청했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이메일에는 직무 설명서 등이 PDF 파일로 첨부됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만 이 파일은 일반적인 PDF 읽기 프로그램으로는 열리지 않았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "수신자가 '파일이 열리지 않는다'고 답신하면 해커들은 구글 드라이브 내 '안전한 PDF 리더기'로 연결되는 악성 링크를 보내는 수법으로 해킹을 시도했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "링크를 누르면 사용자의 컴퓨터에 파일이 깔리고 임의로 명령을 내릴 수 있는 악성 소프트웨어가 설치된다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "구글은 해커들이 공격을 통해 확보한 클라우드 컴퓨팅 자원의 86%를 암호화폐 채굴에 사용한 것으로 분석했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또 이와 함께 러시아 정부가 후원하는 해커들이 주로 미국, 영국, 인도 내 1만2000개 지메일 계정에 피싱 이메일을 보낸 일도 있었지만, 구글이 이메일을 막아 피해는 발생하지 않았다고 설명했다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"연봉 3억원에 모십니다\\\"…삼성전자 공채 메일 열었더니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009741",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "기업자금사정 흉흉 어음부도율 급상승",
+		"newsSubTitle": "대전충남 1월 0.21%… 부도금액도 65억",
+		"newsContent": "지난 1월 대전·충남지역의 어음부도율이 증가한 것으로 나타났다.\n27일 한국은행 대전·충남본부가 발표한 지난 1월 대전충남지역 어음부도 동향에 따르면 어음부도율은 전월(0.07%)보다 0.14%p 상승한 0.21%로 집계됐다.\n지역별로는 대전이 0.16%p(0.07%→0.23%), 충남은 0.10%p(0.08%→0.18%) 각각 증가했다.\n부도금액도 상승해 지난달 부도금액은 전월(26억3000만원)보다 39억3000만원 증가한 65억6000만원을 기록했다.\n업종별로는 제조업(6억9000만원→26억7000만원)과 건설업(5억9000만원→10억3000만원), 서비스업(12억5000만원→21억8000만원)이 각각 19억8000만원, 4억4000만원, 9억3000만원 증가했다.\n지역별로는 대전이 25억5000만원(16억9000만원→42억4000만원), 충남은 13억8000만원(9억4000만원→23억2000만원) 상승했다.\n부도업체수(당좌거래정지업체수)는 6개로 전월과 동일한 가운데 업종별로는 제조업이 3개 증가한 반면, 건설업(3개→2개)과 서비스업(3개→1개)은 각각 1개, 2개,감소했다.\n1월중 신설법인수는 360개로 전월(378개)보다 18개 줄었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 1월 대전·충남지역의 어음부도율이 증가한 것으로 나타났다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 한국은행 대전·충남본부가 발표한 지난 1월 대전충남지역 어음부도 동향에 따르면 어음부도율은 전월(0.07%)보다 0.14%p 상승한 0.21%로 집계됐다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지역별로는 대전이 0.16%p(0.07%→0.23%), 충남은 0.10%p(0.08%→0.18%) 각각 증가했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부도금액도 상승해 지난달 부도금액은 전월(26억3000만원)보다 39억3000만원 증가한 65억6000만원을 기록했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업종별로는 제조업(6억9000만원→26억7000만원)과 건설업(5억9000만원→10억3000만원), 서비스업(12억5000만원→21억8000만원)이 각각 19억8000만원, 4억4000만원, 9억3000만원 증가했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지역별로는 대전이 25억5000만원(16억9000만원→42억4000만원), 충남은 13억8000만원(9억4000만원→23억2000만원) 상승했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "부도업체수(당좌거래정지업체수)는 6개로 전월과 동일한 가운데 업종별로는 제조업이 3개 증가한 반면, 건설업(3개→2개)과 서비스업(3개→1개)은 각각 1개, 2개,감소했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "1월중 신설법인수는 360개로 전월(378개)보다 18개 줄었다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "생명연 박승환, 슈퍼박테리아잡는 유전자 규명",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

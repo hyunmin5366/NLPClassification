@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352364",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "다크웹 떠도는 韓 카드정보 1만건...장당 8000원에 팔린다",
+		"newsSubTitle": "null",
+		"newsContent": "1만개 이상의 한국인 소유 카드(신용·직불카드)정보가 암암리에 거래되고 있다는 분석이 나왔다.\n카드 한 장 당 단가는 약 8000원이다.\n전문가들은 명세서에 의심되는 거래가 있으면 거래은행이나 카드업체에 반드시 확인할 것을 권고했다.\n가상 사설망(VPN) 전문기업 노드VPN은 최근 조사를 통해 해킹을 당해서 다크웹(특수한 웹 브라우저를 사용해야만 접근할 수 있는 웹)에서 거래되고 있는 한국인의 카드정보 수는 1만2500개에 달한다고 2일 밝혔다.\n다크웹에서 거래되는 카드 수가 가장 많은 국가는 미국으로, 전체 거래 건(448만1379건) 중 약 30%(156만1739건)를 차지했다.\n호주가 41만9806건으로 2위를 기록했다.\n조성우 노드 시큐리티 한국 지사장은 \\\"해킹당한 카드가 다크웹에서 개당 평균 10달러(한화 1만1700원)에서 거래된다고 가정하면, 전체 거래 중인 해킹카드로 인한 수익은 약 4000만달러(471억1000만원)에 달한다\\\"고 말했다.\n해킹으로 거래 중인 한국인 소유 카드의 브랜드는 대부분(1만163건)이 비자카드였으며, 마스터카드(2318건), 아메리칸 익스프레스(84건) 등이 뒤를 이었다.\n해킹된 카드는 대부분이 신용카드(80.4%)였다.\n노드VPN이 각국에서 통용되는 전체 카드 수와 다크웹에서 거래되는 카드 수를 비교해 각국 별 해킹 위험지수를 산출한 결과 한국은 0.28이었다.\n최고 점수가 1이라는 점을 감안할 때 타국에 비해 위험도는 낮은 편이다.\n또한 이번 조사에서 해커 대부분이 무차별 암호대입(Brute-forcing) 기술을 활용하는 것으로 나타났다.\n무차별 암호대입은 무작위로 암호를 계속 생성해 대입하는 방식으로, 컴퓨터로는 암호 수천 개를 1초만에 생성할 수 있다.\n노드VPN은 해킹 피해를 막으려면 특수기호 등을 사용해 복잡한 암호를 사용해야 한다고 제안했다.\n노드VPN 측은 \\\"비밀번호 이외에 생체인식, 2단계 로그인 등 다중인증을 활용해야 한다\\\"며 \\\"카드 명세서를 주의깊게 살펴보고 의심되는 거래가 있다면 반드시 확인해야 한다\\\"고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "1만개 이상의 한국인 소유 카드(신용·직불카드)정보가 암암리에 거래되고 있다는 분석이 나왔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카드 한 장 당 단가는 약 8000원이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전문가들은 명세서에 의심되는 거래가 있으면 거래은행이나 카드업체에 반드시 확인할 것을 권고했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가상 사설망(VPN) 전문기업 노드VPN은 최근 조사를 통해 해킹을 당해서 다크웹(특수한 웹 브라우저를 사용해야만 접근할 수 있는 웹)에서 거래되고 있는 한국인의 카드정보 수는 1만2500개에 달한다고 2일 밝혔다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다크웹에서 거래되는 카드 수가 가장 많은 국가는 미국으로, 전체 거래 건(448만1379건) 중 약 30%(156만1739건)를 차지했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "호주가 41만9806건으로 2위를 기록했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조성우 노드 시큐리티 한국 지사장은 \\\"해킹당한 카드가 다크웹에서 개당 평균 10달러(한화 1만1700원)에서 거래된다고 가정하면, 전체 거래 중인 해킹카드로 인한 수익은 약 4000만달러(471억1000만원)에 달한다\\\"고 말했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해킹으로 거래 중인 한국인 소유 카드의 브랜드는 대부분(1만163건)이 비자카드였으며, 마스터카드(2318건), 아메리칸 익스프레스(84건) 등이 뒤를 이었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해킹된 카드는 대부분이 신용카드(80.4%)였다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "노드VPN이 각국에서 통용되는 전체 카드 수와 다크웹에서 거래되는 카드 수를 비교해 각국 별 해킹 위험지수를 산출한 결과 한국은 0.28이었다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "최고 점수가 1이라는 점을 감안할 때 타국에 비해 위험도는 낮은 편이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "또한 이번 조사에서 해커 대부분이 무차별 암호대입(Brute-forcing) 기술을 활용하는 것으로 나타났다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "무차별 암호대입은 무작위로 암호를 계속 생성해 대입하는 방식으로, 컴퓨터로는 암호 수천 개를 1초만에 생성할 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "노드VPN은 해킹 피해를 막으려면 특수기호 등을 사용해 복잡한 암호를 사용해야 한다고 제안했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "노드VPN 측은 \\\"비밀번호 이외에 생체인식, 2단계 로그인 등 다중인증을 활용해야 한다\\\"며 \\\"카드 명세서를 주의깊게 살펴보고 의심되는 거래가 있다면 반드시 확인해야 한다\\\"고 전했다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "다크웹 떠도는 韓 카드정보 1만건...장당 8000원에 팔린다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

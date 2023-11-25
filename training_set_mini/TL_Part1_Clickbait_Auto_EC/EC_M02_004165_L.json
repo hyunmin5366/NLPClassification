@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004165",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "삼성전자, CXL 메모리 생태계 확장",
+		"newsSubTitle": "오픈소스 기반 소프트웨어 개발 솔루션 공개",
+		"newsContent": "삼성전자가 7일 소프트웨어 개발 솔루션을 공개했다.\n오픈소스 기반의 이 솔루션을 통해 CXL 메모리 생태계를 확장한다는 구상이다.\nCXL은 인공지능(AI), 머신러닝, 빅데이터 등 고성능 연산을 처리하기 위해 서로 다른 종류의 장치를 더 효율적으로 활용할 수 있도록 고안된 차세대 인터페이스(정보기기들이 데이터를 주고받도록 하는 매개)다.\nCXL 기반 D램을 적용하면 시스템 메모리 용량을 획기적으로 확장할 수 있다.\n앞서 삼성전자는 지난 5월 CXL 기반의 D램 기술을 선보인 데 이어 CXL D램 개발도구인 스케일러블 메모리 개발 키트(SMDK)를 개발했다.\nSMDK은 응용프로그램 인터페이스(API), 라이브러리 등으로 구성되며, 차세대 이종 메모리 시스템 환경에서 기존에 탑재된 메인 메모리와 CXL 메모리가 최적으로 동작하도록 도와준다.\n삼성전자 관계자는 데일리임팩트에 \\\"SMDK를 활용하면 소프트웨어 개발자들이 프로그램 개발에 필요한 기능을 별도로 만들 필요가 없다\\\"며 \\\"기존 메모리와 CXL 메모리의 사용 우선순위, 사용량, 대역폭, 보안 기능 등을 조정할 수 있다\\\"고 설명했다.\n삼성전자는 주요 고객들과 AI, 엣지 클라우드 등 다양한 응용환경에서 평가 검증을 통해 SMDK를 최적화한 뒤 내년 상반기 모든 개발자들이 이용할 수 있도록 공개할 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 7일 소프트웨어 개발 솔루션을 공개했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오픈소스 기반의 이 솔루션을 통해 CXL 메모리 생태계를 확장한다는 구상이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "CXL은 인공지능(AI), 머신러닝, 빅데이터 등 고성능 연산을 처리하기 위해 서로 다른 종류의 장치를 더 효율적으로 활용할 수 있도록 고안된 차세대 인터페이스(정보기기들이 데이터를 주고받도록 하는 매개)다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "CXL 기반 D램을 적용하면 시스템 메모리 용량을 획기적으로 확장할 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 삼성전자는 지난 5월 CXL 기반의 D램 기술을 선보인 데 이어 CXL D램 개발도구인 스케일러블 메모리 개발 키트(SMDK)를 개발했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SMDK은 응용프로그램 인터페이스(API), 라이브러리 등으로 구성되며, 차세대 이종 메모리 시스템 환경에서 기존에 탑재된 메인 메모리와 CXL 메모리가 최적으로 동작하도록 도와준다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자 관계자는 데일리임팩트에 \\\"SMDK를 활용하면 소프트웨어 개발자들이 프로그램 개발에 필요한 기능을 별도로 만들 필요가 없다\\\"며 \\\"기존 메모리와 CXL 메모리의 사용 우선순위, 사용량, 대역폭, 보안 기능 등을 조정할 수 있다\\\"고 설명했다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성전자는 주요 고객들과 AI, 엣지 클라우드 등 다양한 응용환경에서 평가 검증을 통해 SMDK를 최적화한 뒤 내년 상반기 모든 개발자들이 이용할 수 있도록 공개할 계획이다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "풀무원 올가홀푸드, 'ASC 인증' 간편식 출시",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

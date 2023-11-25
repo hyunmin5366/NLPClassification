@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017203",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "KAIST, 3차원 공간 인식하는 ‘증강현실 아바타’ 개발",
+		"newsSubTitle": "",
+		"newsContent": "▲ 이성희 교수와 김연준 박사과정생.이성희 교수, “원격에 있는 이들이 실제처럼 가상 회의 가능” KAIST(한국과학기술원)는 문화기술대학원 이성희 교수 연구팀이 사용자의 움직임을 따라 하면서도 변화된 공간의 차이를 인식할 수 있는 증강현실 아바타 기술을 개발했다고 20일 밝혔다.\n증강현실 아바타는 사용자를 대신해 가상의 공간이나 원격에서 사용자의 움직임을 반영해 똑같이 따라 하는 기술이다.\n그러나 사용자의 공간과 가상 공간의 차이 탓에 사용자의 동작을 아바타에 적용하면, 아바타는 물체를 그냥 통과해 버리는 등 사실성이 떨어진다.\n최근 주목을 받은 증강현실 게임 ‘포켓몬 고’는 가상의 캐릭터가 현실 세계에 단순 이미지화되는 방식을 사용해 지나가는 이들과 이미지가 겹치거나 공중에 떠 있는다.\n연구팀은 3차원 정보를 얻을 수 있는 ‘깊이 기반 카메라’를 활용해 환경 정보를 분석, 아바타의 동작을 변형시켜 바뀐 공간에 적응할 수 있는 기술을 개발했다.\n또 연구팀은 사용자 공간에는 식탁용 의자를, 원격 공간에는 일인용 소파를 놓고 아바타가 소파에 적합한 동작과 자세를 취해 자리에 앉도록 하는 실험에 성공했다.\n사용자의 ‘자세’(pose)가 아닌 ‘동작’(motion)의 대응점을 찾아 적용하면, 사용자의 움직임을 왜곡시키지 않고 증강현실 아바타의 동작으로 재현해낼 수 있다.\n이성희 교수는 “이 기술을 멀리 떨어져 있는 이들이 마치 한 공간에 있는 것처럼 느끼며 교류할 수 있는 ‘텔레프레즌스(telepresence·가상 화상회의)’ 분야에 적용할 수 있다”라며 “원격지에 있는 인간의 동작을 공존하는 공간의 가구 환경에 맞춰 증강현실 아바타에 적용할 수 있는 핵심기술이 될 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 이성희 교수와 김연준 박사과정생.이성희 교수, “원격에 있는 이들이 실제처럼 가상 회의 가능” KAIST(한국과학기술원)는 문화기술대학원 이성희 교수 연구팀이 사용자의 움직임을 따라 하면서도 변화된 공간의 차이를 인식할 수 있는 증강현실 아바타 기술을 개발했다고 20일 밝혔다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "증강현실 아바타는 사용자를 대신해 가상의 공간이나 원격에서 사용자의 움직임을 반영해 똑같이 따라 하는 기술이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러나 사용자의 공간과 가상 공간의 차이 탓에 사용자의 동작을 아바타에 적용하면, 아바타는 물체를 그냥 통과해 버리는 등 사실성이 떨어진다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 주목을 받은 증강현실 게임 ‘포켓몬 고’는 가상의 캐릭터가 현실 세계에 단순 이미지화되는 방식을 사용해 지나가는 이들과 이미지가 겹치거나 공중에 떠 있는다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연구팀은 3차원 정보를 얻을 수 있는 ‘깊이 기반 카메라’를 활용해 환경 정보를 분석, 아바타의 동작을 변형시켜 바뀐 공간에 적응할 수 있는 기술을 개발했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 연구팀은 사용자 공간에는 식탁용 의자를, 원격 공간에는 일인용 소파를 놓고 아바타가 소파에 적합한 동작과 자세를 취해 자리에 앉도록 하는 실험에 성공했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사용자의 ‘자세’(pose)가 아닌 ‘동작’(motion)의 대응점을 찾아 적용하면, 사용자의 움직임을 왜곡시키지 않고 증강현실 아바타의 동작으로 재현해낼 수 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이성희 교수는 “이 기술을 멀리 떨어져 있는 이들이 마치 한 공간에 있는 것처럼 느끼며 교류할 수 있는 ‘텔레프레즌스(telepresence·가상 화상회의)’ 분야에 적용할 수 있다”라며 “원격지에 있는 인간의 동작을 공존하는 공간의 가구 환경에 맞춰 증강현실 아바타에 적용할 수 있는 핵심기술이 될 것”이라고 말했다.",
+				"sentenceSize": 178
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'실태조사 압박'에 전문건설업계 찬바람",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

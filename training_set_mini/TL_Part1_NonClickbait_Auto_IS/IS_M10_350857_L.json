@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350857",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "도쿄올림픽 약물복용 선수, 한국이 잡는다",
+		"newsSubTitle": "null",
+		"newsContent": "한국과학기술연구원(KIST)이 도쿄올림픽에 반도핑 전문가를 파견한다.\nKIST는 22일 도핑콘트롤센터 손정현 센터장, 성창민 박사를 도쿄올림픽에 파견하고, 850여종의 금지약물 테스트 지원과 시료분석 노하우를 전수할 예정이라고 밝혔다.\nKIST 도핑콘트롤 센터는 1984년 설립 이후 도핑 금지약물 분석 및 최신 검출기술 개발을 통해 한국이 미국, 브라질과 함께 세계 톱3의 반도핑 기술을 확보하는 데 기여해왔다.\n도쿄올림픽을 앞두고 도핑 분야에서는 선수들의 성장호르몬제 사용 문제가 이슈로 떠오르고 있다.\n성장호르몬제는 신체능력을 끌어 올리는 효과가 매우 좋은 반면 검출이 매우 어려워 최근 엘리트 선수들을 중심으로 사용빈도가 증가하고 있다.\n손정현 센터장 \\\"올림픽이 금지약물로 얼룩지지 않도록 최신 분석기술을 개발하고, 시료를 철저히 검증하는 것이 반도핑 전문가들의 역할\\\"이라며 \\\"KIST의 우수한 분석기술과 노하우를 이웃나라 일본에 전수할 수 있는 기회가 생겨서 자랑스럽게 생각하며, 대한민국 대표선수들의 선전을 기원한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국과학기술연구원(KIST)이 도쿄올림픽에 반도핑 전문가를 파견한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KIST는 22일 도핑콘트롤센터 손정현 센터장, 성창민 박사를 도쿄올림픽에 파견하고, 850여종의 금지약물 테스트 지원과 시료분석 노하우를 전수할 예정이라고 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KIST 도핑콘트롤 센터는 1984년 설립 이후 도핑 금지약물 분석 및 최신 검출기술 개발을 통해 한국이 미국, 브라질과 함께 세계 톱3의 반도핑 기술을 확보하는 데 기여해왔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "도쿄올림픽을 앞두고 도핑 분야에서는 선수들의 성장호르몬제 사용 문제가 이슈로 떠오르고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "성장호르몬제는 신체능력을 끌어 올리는 효과가 매우 좋은 반면 검출이 매우 어려워 최근 엘리트 선수들을 중심으로 사용빈도가 증가하고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "손정현 센터장 \\\"올림픽이 금지약물로 얼룩지지 않도록 최신 분석기술을 개발하고, 시료를 철저히 검증하는 것이 반도핑 전문가들의 역할\\\"이라며 \\\"KIST의 우수한 분석기술과 노하우를 이웃나라 일본에 전수할 수 있는 기회가 생겨서 자랑스럽게 생각하며, 대한민국 대표선수들의 선전을 기원한다\\\"고 말했다.",
+				"sentenceSize": 168
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "도쿄올림픽 약물복용 선수, 한국이 잡는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

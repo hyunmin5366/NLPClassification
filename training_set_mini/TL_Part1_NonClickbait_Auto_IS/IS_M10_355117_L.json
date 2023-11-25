@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355117",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "파수 스패로우, 테스트 케이스 최적화 도구 '스패로우 TSO' 출시",
+		"newsSubTitle": "null",
+		"newsContent": "파수 자회사 스패로우는 회귀 테스트에 필수적인 테스트 케이스를 자동으로 선정하는 도구인 '스패로우(Sparrow) TSO'를 출시했다고 26일 밝혔다.\n기업이나 기관은 소프트웨어 개발 완료 이후에도 기능 개선·버그 수정 등 이유로 소스 코드를 변경하고, 변경으로 인한 오류 검출을 위해 '회귀' 테스트를 진행한다.\n이 경우 운영 중인 소프트웨어 테스트이기 때문에 불편 상황을 줄이려면 꼭 필요한 테스트 케이스만 선정할 필요가 있다.\n이에 스패로우는 소스 코드 변경 시 필수적인 테스트 케이스만을 선별, 테스트의 효율성을 높이는 스패로우 TSO를 선보였다.\n스패로우 TSO는 소스 코드 변경으로 달라진 애플리케이션(앱) 내부 동작 과정을 분석해 테스트 케이스를 선정하는 도구다.\n시큐어코딩 도구인 '스패로우 SAST·SAQT'의 소스 코드 분석 기술과 웹 앱 자가 방어 솔루션 '스패로우 RASP'에 적용된 '동작 중 앱 내부 실행 과정 추적 기술'을 접목, 최적의 케이스를 가려낸다.\n선정된 테스트 케이스만을 실행해 테스트 시간을 단축하고 코드 변경으로 인한 결함을 최소화할 수 있다.\n장일수 스패로우 대표는 \\\"데브옵스 환경에서 고품질의 제품과 서비스를 지속적으로 제공하기 위해서는 테스트가 필수적인 만큼 스패로우 TSO가 테스트 정확성과 효율성을 높이는데 기여할 것\\\"이라며 \\\"앱 보안 테스팅 시장에서 두각을 드러내고 있는 스패로우는 이번 신제품으로 SW품질 테스팅 시장에서의 역량도 강화해나갈 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "파수 자회사 스패로우는 회귀 테스트에 필수적인 테스트 케이스를 자동으로 선정하는 도구인 '스패로우(Sparrow) TSO'를 출시했다고 26일 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기업이나 기관은 소프트웨어 개발 완료 이후에도 기능 개선·버그 수정 등 이유로 소스 코드를 변경하고, 변경으로 인한 오류 검출을 위해 '회귀' 테스트를 진행한다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 경우 운영 중인 소프트웨어 테스트이기 때문에 불편 상황을 줄이려면 꼭 필요한 테스트 케이스만 선정할 필요가 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 스패로우는 소스 코드 변경 시 필수적인 테스트 케이스만을 선별, 테스트의 효율성을 높이는 스패로우 TSO를 선보였다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스패로우 TSO는 소스 코드 변경으로 달라진 애플리케이션(앱) 내부 동작 과정을 분석해 테스트 케이스를 선정하는 도구다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시큐어코딩 도구인 '스패로우 SAST·SAQT'의 소스 코드 분석 기술과 웹 앱 자가 방어 솔루션 '스패로우 RASP'에 적용된 '동작 중 앱 내부 실행 과정 추적 기술'을 접목, 최적의 케이스를 가려낸다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "선정된 테스트 케이스만을 실행해 테스트 시간을 단축하고 코드 변경으로 인한 결함을 최소화할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "장일수 스패로우 대표는 \\\"데브옵스 환경에서 고품질의 제품과 서비스를 지속적으로 제공하기 위해서는 테스트가 필수적인 만큼 스패로우 TSO가 테스트 정확성과 효율성을 높이는데 기여할 것\\\"이라며 \\\"앱 보안 테스팅 시장에서 두각을 드러내고 있는 스패로우는 이번 신제품으로 SW품질 테스팅 시장에서의 역량도 강화해나갈 계획\\\"이라고 말했다.",
+				"sentenceSize": 188
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파수 스패로우, 테스트 케이스 최적화 도구 '스패로우 TSO' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338727",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "탑, 비전검사보다 완성도 높은 배터리 검사장비 개발",
+		"newsSubTitle": "",
+		"newsContent": "이차전지 분야 자동화설비·검사장비 전문업체 탑(대표 방석현)은 배터리셀 모듈화 공정에서 용접 불량 등을 검사·검출하는 장비를 세계 최초로 개발했다고 12일 밝혔다.\n이 장비는 센싱기술과 독자 분석알고리즘을 적용한 모니터링 시스템을 통해 용접상태를 실시간 검사하고 먼지 등 이물질까지 검출한다.\n현재 업계가 주로 사용하는 비전검사 장비와 작업자 수동 용접 검사를 대체할 수 있을 것으로 기대된다.\n기존 비전검사장비는 용접기 상부에 장착된 카메라를 통해 전극탭과 셀 간 접합 부위 용접상태를 검사하기 때문에 측면 검사가 어려워 별도 수작업이 필요했다.\n하지만 탑의 검사·검출장비는 용접 품질 검사뿐 아니라 용접 전후 셀과 모듈 접합 부위에 유분이나 먼지 등 각종 이물질을 가려낸다.\n이는 미세한 거리를 측정하는 레이저 변위 센서와 분석알고리즘을 적용한 모니터링 기술로 과도한 용접이나 기준 이하 약한 용접상태, 돌기 정도를 검출하고, 데이터화까지 가능하다.\n장비를 통해 확보한 데이터를 제조실행시스템(MES)과 연동하면 배터리 모듈 공정 전반의 체계적인 품질관리까지 가능하다.\n용접 불량으로 배터리를 충·방전 때 발생하는 밸런싱 문제나 용량 저하 등 열화 발생을 근본적으로 차단할 수 있다는 게 회사 설명이다.\n탑은 최근 국내 원통형 배터리 저항용접용 검사장비에 대한 특허 등록을 완료하고 해외 특허 출원 중이다.\n방석현 대표는 “현재 비전검사장비를 사용하면 정확한 품질검사를 위해 작업자가 세라믹 핀셋을 이용해 추가 검사를 했지만 탑 장비를 사용하면 정확도뿐 아니라 수작업이 필요 없어 작업 시간을 대폭 줄일 수 있다”며 “이 장비는 배터리팩 업체인 I사에 공급해 3개월째 실제 양산라인에 사용 중”이라고 말했다.\n탑이 이번에 개발한 검사·검출장비는 원통형전지셀 모듈화 공정과정인 저항용접에 최적화됐으며 회사는 향후 레이저용접 공정에도 최적화된 검사·검출장비를 출시할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이차전지 분야 자동화설비·검사장비 전문업체 탑(대표 방석현)은 배터리셀 모듈화 공정에서 용접 불량 등을 검사·검출하는 장비를 세계 최초로 개발했다고 12일 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 장비는 센싱기술과 독자 분석알고리즘을 적용한 모니터링 시스템을 통해 용접상태를 실시간 검사하고 먼지 등 이물질까지 검출한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재 업계가 주로 사용하는 비전검사 장비와 작업자 수동 용접 검사를 대체할 수 있을 것으로 기대된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 비전검사장비는 용접기 상부에 장착된 카메라를 통해 전극탭과 셀 간 접합 부위 용접상태를 검사하기 때문에 측면 검사가 어려워 별도 수작업이 필요했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 탑의 검사·검출장비는 용접 품질 검사뿐 아니라 용접 전후 셀과 모듈 접합 부위에 유분이나 먼지 등 각종 이물질을 가려낸다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는 미세한 거리를 측정하는 레이저 변위 센서와 분석알고리즘을 적용한 모니터링 기술로 과도한 용접이나 기준 이하 약한 용접상태, 돌기 정도를 검출하고, 데이터화까지 가능하다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "장비를 통해 확보한 데이터를 제조실행시스템(MES)과 연동하면 배터리 모듈 공정 전반의 체계적인 품질관리까지 가능하다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "용접 불량으로 배터리를 충·방전 때 발생하는 밸런싱 문제나 용량 저하 등 열화 발생을 근본적으로 차단할 수 있다는 게 회사 설명이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "탑은 최근 국내 원통형 배터리 저항용접용 검사장비에 대한 특허 등록을 완료하고 해외 특허 출원 중이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "방석현 대표는 “현재 비전검사장비를 사용하면 정확한 품질검사를 위해 작업자가 세라믹 핀셋을 이용해 추가 검사를 했지만 탑 장비를 사용하면 정확도뿐 아니라 수작업이 필요 없어 작업 시간을 대폭 줄일 수 있다”며 “이 장비는 배터리팩 업체인 I사에 공급해 3개월째 실제 양산라인에 사용 중”이라고 말했다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "탑이 이번에 개발한 검사·검출장비는 원통형전지셀 모듈화 공정과정인 저항용접에 최적화됐으며 회사는 향후 레이저용접 공정에도 최적화된 검사·검출장비를 출시할 예정이다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "탑, 비전검사보다 완성도 높은 배터리 검사장비 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

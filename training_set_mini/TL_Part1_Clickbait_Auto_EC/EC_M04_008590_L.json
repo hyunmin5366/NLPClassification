@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008590",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "5월 수입차 신규등록 8777대",
+		"newsSubTitle": "4월보다 7% 증가… 올 누적 4만2700대",
+		"newsContent": "한국수입자동차협회(KAIDA)는 지난 5월 수입차 신규등록 대수가 4월보다 7.0% 증가한 8777대로 집계됐다고 7일 밝혔다.\n협회에 따르면 5월 등록 대수는 전년 5월 7193대보다 22.0% 증가했고, 올해 누적 4만2700대는 전년 동기 3만4318대보다 24.4%가 늘었다.\n5월 브랜드별 등록 대수는 BMW 2014대, 메르세데스-벤츠 1449대, 폴크스바겐 1331대, 아우디 846대, 미니 839대, 도요타 341대, 크라이슬러 253대, 포드 237대, 렉서스 220대, 혼다 206대, 푸조 184대 등으로 집계됐다.\n5월 배기량별 등록 대수는 2000cc 미만 3969대(45.2%), 2000~3000cc 미만 2744대(31.3%), 3000~4000cc 미만 1576대(18.0%), 4000cc 이상 488대(5.6%)로 나타났다.\n베스트셀링 모델은 메르세데스-벤츠 E300(620대), BMW 528(569대), BMW 520d(504대) 순이었다.\n협회 관계자는 “5월 수입차 신규등록은 일부 브랜드의 신차효과 및 대기 물량해소와 활발한 프로모션으로 인해 4월에 비해 증가했다”고 설명했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국수입자동차협회(KAIDA)는 지난 5월 수입차 신규등록 대수가 4월보다 7.0% 증가한 8777대로 집계됐다고 7일 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "협회에 따르면 5월 등록 대수는 전년 5월 7193대보다 22.0% 증가했고, 올해 누적 4만2700대는 전년 동기 3만4318대보다 24.4%가 늘었다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "5월 브랜드별 등록 대수는 BMW 2014대, 메르세데스-벤츠 1449대, 폴크스바겐 1331대, 아우디 846대, 미니 839대, 도요타 341대, 크라이슬러 253대, 포드 237대, 렉서스 220대, 혼다 206대, 푸조 184대 등으로 집계됐다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "5월 배기량별 등록 대수는 2000cc 미만 3969대(45.2%), 2000~3000cc 미만 2744대(31.3%), 3000~4000cc 미만 1576대(18.0%), 4000cc 이상 488대(5.6%)로 나타났다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "베스트셀링 모델은 메르세데스-벤츠 E300(620대), BMW 528(569대), BMW 520d(504대) 순이었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "협회 관계자는 “5월 수입차 신규등록은 일부 브랜드의 신차효과 및 대기 물량해소와 활발한 프로모션으로 인해 4월에 비해 증가했다”고 설명했다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지역 건설·부동산시장 10월을 주목하라",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

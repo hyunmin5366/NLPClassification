@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350988",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "네이버, 파파고 번역기능 UP…\\\"시간·비용 줄인다\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "네이버클라우드는 자사 플랫폼 기반 인공지능(AI) 서비스 '파파고 번역' 기능을 확장한다고 2일 밝혔다.\n기존에 문서나 웹페이지를 번역하려면 텍스트를 직접 추려서 번역하고 번역된 문장을 사이트나 서식에 적용해야 했다.\n하지만 네이버클라우드가 신규 출시한 기능을 적용하면 변환 작업없이 간편하게 번역을 사용할 수 있다.\n파파고 '문서 번역 API'는 폰트 크기 및 색상, 정렬 등 서식이나 표는 유지한 채 번역한 결과를 출력한다.\n마이크로소프트 오피스 형식(docx, pptx, xlsx)를 비롯, 아래한글(HPW 5.0 버전 이상) 문서 번역까지 지원한다.\n또 최대 100MB까지 파일을 업로드할 수 있다. '웹 번역 API'는 웹페이지 내 소스 언어로 작성된 HTML 문서를 파파고만의 태그 복원 기술을 반영해 원하는 언어로 번역한다.\nHTML 소스 내에 태그와 문장을 분리한 후 발췌된 문장 내용만 번역하고, 완성된 번역결과를 다시 HTML 태그와 조합해 완성된 형태의 HTML로 보여준다.\nAPI 방식으로 제공돼 해당 기능을 사용하고자 하는 기업은 시간과 비용을 절약하면서 업무에 필요한 기능을 바로 적용할 수 있다.\n지원 언어는 한국어, 영어, 일본어, 중국어 간체자다.\n네이버클라우드는 현재 개인용 파파고 서비스에서 제공중인 이미지 번역 기능도 기업을 위한 클라우드 서비스로 준비하고 있다.\n회사 관계자는 \\\"20년 이상 검색 포털 서비스를 운영하며 축적한 한국어 데이터 양은 세계 최고 수준\\\"이라며 \\\"최근에는 160억원을 추가로 투자하는 등 AI 번역 성능 강화를 위해 꾸준히 노력하고 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버클라우드는 자사 플랫폼 기반 인공지능(AI) 서비스 '파파고 번역' 기능을 확장한다고 2일 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기존에 문서나 웹페이지를 번역하려면 텍스트를 직접 추려서 번역하고 번역된 문장을 사이트나 서식에 적용해야 했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하지만 네이버클라우드가 신규 출시한 기능을 적용하면 변환 작업없이 간편하게 번역을 사용할 수 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파파고 '문서 번역 API'는 폰트 크기 및 색상, 정렬 등 서식이나 표는 유지한 채 번역한 결과를 출력한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마이크로소프트 오피스 형식(docx, pptx, xlsx)를 비롯, 아래한글(HPW 5.0 버전 이상) 문서 번역까지 지원한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 최대 100MB까지 파일을 업로드할 수 있다. '웹 번역 API'는 웹페이지 내 소스 언어로 작성된 HTML 문서를 파파고만의 태그 복원 기술을 반영해 원하는 언어로 번역한다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "HTML 소스 내에 태그와 문장을 분리한 후 발췌된 문장 내용만 번역하고, 완성된 번역결과를 다시 HTML 태그와 조합해 완성된 형태의 HTML로 보여준다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "API 방식으로 제공돼 해당 기능을 사용하고자 하는 기업은 시간과 비용을 절약하면서 업무에 필요한 기능을 바로 적용할 수 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지원 언어는 한국어, 영어, 일본어, 중국어 간체자다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "네이버클라우드는 현재 개인용 파파고 서비스에서 제공중인 이미지 번역 기능도 기업을 위한 클라우드 서비스로 준비하고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "회사 관계자는 \\\"20년 이상 검색 포털 서비스를 운영하며 축적한 한국어 데이터 양은 세계 최고 수준\\\"이라며 \\\"최근에는 160억원을 추가로 투자하는 등 AI 번역 성능 강화를 위해 꾸준히 노력하고 있다\\\"고 말했다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버, 파파고 번역기능 UP…\\\"시간·비용 줄인다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

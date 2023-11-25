@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323807",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]애플, 5G 아이폰 8000만대 출하",
+		"newsSubTitle": "",
+		"newsContent": "애플이 첫 5세대(5G) 스마트폰 '아이폰12' 시리즈를 올해 말까지 최대 8000만대 출하할 것으로 알려졌다.\n주요 외신에 따르면 애플은 부품업체에 5G 아이폰12를 연내 7500만~8000만대 생산해달라고 요청했다.\n이는 지난해 출시된 아이폰11 시리즈 4분기 출하량(약 7290만대)보다 최대 700만대 많은 수치로, 코로나19로 수요 위축이 지속되고 있음을 감안하면 공격적 행보다.\n글로벌 5G 상용화 확대를 고려한 것으로 풀이된다.\n다음 달 공개될 것으로 예상되는 아이폰12 시리즈는 △5.4 인치 아이폰12 △6.1인치 아이폰12 맥스 △6.1인치 아이폰12 프로 △6.7인치 아이폰12 프로 맥스 등 4종으로 출시될 예정이다.\n모두 5G를 지원하고 OLED 디스플레이를 탑재한다.\n애플은 라인업을 크기와 사양∙디자인 등에 따라 세분화해 다양한 가격대 수요를 공략하는 전략이다.\n앞서 애플은 애플워치6 모델과 보급형 애플워치를 이달 중 발표할 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 첫 5세대(5G) 스마트폰 '아이폰12' 시리즈를 올해 말까지 최대 8000만대 출하할 것으로 알려졌다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주요 외신에 따르면 애플은 부품업체에 5G 아이폰12를 연내 7500만~8000만대 생산해달라고 요청했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난해 출시된 아이폰11 시리즈 4분기 출하량(약 7290만대)보다 최대 700만대 많은 수치로, 코로나19로 수요 위축이 지속되고 있음을 감안하면 공격적 행보다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "글로벌 5G 상용화 확대를 고려한 것으로 풀이된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다음 달 공개될 것으로 예상되는 아이폰12 시리즈는 △5.4 인치 아이폰12 △6.1인치 아이폰12 맥스 △6.1인치 아이폰12 프로 △6.7인치 아이폰12 프로 맥스 등 4종으로 출시될 예정이다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모두 5G를 지원하고 OLED 디스플레이를 탑재한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "애플은 라인업을 크기와 사양∙디자인 등에 따라 세분화해 다양한 가격대 수요를 공략하는 전략이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 애플은 애플워치6 모델과 보급형 애플워치를 이달 중 발표할 것으로 알려졌다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]애플, 5G 아이폰 8000만대 출하",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

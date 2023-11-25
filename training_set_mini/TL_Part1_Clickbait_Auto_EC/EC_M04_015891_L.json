@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015891",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "국내 산업생산, 한달 만에 상승세",
+		"newsSubTitle": "",
+		"newsContent": "지난 2월 국내 전 산업생산이 한달 만에 상승세로 전환됐다.\n그러나 소비지표인 소매판매와 설비투자는 감소세를 보였다.\n31일 통계청이 발표한 ‘2016년 2월 산업활동동향’자료를 보면 지난 2월 전 산업생산은 전달(1월 전월 대비 -1.5%)보다 0.8% 증가했고, 전년 동월 대비로는 2.4% 늘었다.\n광공업 생산은 반도체(19.6%)와 금속가공(12.5%) 등이 증가하며, 전달보다 3.3% 늘었다.\n2009년 9월 3.7% 늘어난 이후 6년5개월 만에 최대 증가폭을 기록했다.\n소비동향을 알 수 있는 소매판매액지수는 개별소비세 인하 효과를 본 승용차 등 내구재 판매가 3.6% 증가했으나, 음식료품 등 비내구재(-4.4%)와 의복 등 준내구재(-2.1%) 판매가 줄면서 전체적으로 1.8% 감소했다.\n설비투자도 특수산업용기계 등 기계류·기타운송장비 등 운송장비 투자가 줄면서 전달보다 6.8% 감소했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 2월 국내 전 산업생산이 한달 만에 상승세로 전환됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그러나 소비지표인 소매판매와 설비투자는 감소세를 보였다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "31일 통계청이 발표한 ‘2016년 2월 산업활동동향’자료를 보면 지난 2월 전 산업생산은 전달(1월 전월 대비 -1.5%)보다 0.8% 증가했고, 전년 동월 대비로는 2.4% 늘었다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "광공업 생산은 반도체(19.6%)와 금속가공(12.5%) 등이 증가하며, 전달보다 3.3% 늘었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2009년 9월 3.7% 늘어난 이후 6년5개월 만에 최대 증가폭을 기록했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소비동향을 알 수 있는 소매판매액지수는 개별소비세 인하 효과를 본 승용차 등 내구재 판매가 3.6% 증가했으나, 음식료품 등 비내구재(-4.4%)와 의복 등 준내구재(-2.1%) 판매가 줄면서 전체적으로 1.8% 감소했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "설비투자도 특수산업용기계 등 기계류·기타운송장비 등 운송장비 투자가 줄면서 전달보다 6.8% 감소했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수협은행장 면접 대상 발표 D-1...정부 손교덕·수협 김철환 2파전 '유력'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

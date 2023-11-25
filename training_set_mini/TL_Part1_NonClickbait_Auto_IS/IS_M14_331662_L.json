@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331662",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "LX하우시스, 전남 순천에 '지인스퀘어' 오픈",
+		"newsSubTitle": "",
+		"newsContent": "LX하우시스는 전라남도 순천시에 '지인스퀘어' 순천점을 열었다고 3일 밝혔다.\n순천점은 LX하우시스가 전라남도 지역에 처음 선보인 토탈 인테리어 전시장이다.\n연면적 710m²(약 215평) 규모에 주방, 거실, 침실 등 주거공간별로 전시장을 꾸렸다.\n인테리어 자재뿐만 아니라 가구, 가전 제품을 원스톱 쇼핑할 수 있다.\n순천 지역 아파트 평면도를 적용한 모델하우스 공간을 마련해 눈길을 끌고 있다.\nLX하우시스는 “전남지역 고객들이 꼭 방문해야 할 매장으로 만들 계획”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LX하우시스는 전라남도 순천시에 '지인스퀘어' 순천점을 열었다고 3일 밝혔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "순천점은 LX하우시스가 전라남도 지역에 처음 선보인 토탈 인테리어 전시장이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연면적 710m²(약 215평) 규모에 주방, 거실, 침실 등 주거공간별로 전시장을 꾸렸다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인테리어 자재뿐만 아니라 가구, 가전 제품을 원스톱 쇼핑할 수 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "순천 지역 아파트 평면도를 적용한 모델하우스 공간을 마련해 눈길을 끌고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LX하우시스는 “전남지역 고객들이 꼭 방문해야 할 매장으로 만들 계획”이라고 전했다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LX하우시스, 전남 순천에 '지인스퀘어' 오픈",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

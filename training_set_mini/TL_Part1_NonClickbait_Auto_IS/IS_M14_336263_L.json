@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336263",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "北 라자루스 그룹...새해 첫 공격 포착",
+		"newsSubTitle": "",
+		"newsContent": "새해 첫 북한 추정 사이버 공격 그룹 '라자루스(Lazarus)' 활동이 포착됐다.\n지난해 9월 미국 법무부에서 라자루스 소속 해커를 기소하면서 한동안 활동이 소강상태를 보이다 다시 활동을 재개했다.\n통일부 기자단 대상 악성코드 유포 조직도 추가 사이버 공격이 포착되는 등 북한발 사이버 보안 우려가 높다. 31일 이스트시큐리티에 따르면 북한 추정 해킹그룹 '라자루스'가 수행한 최신 지능형지속위협(APT) 사이버 공격이 올해 처음 발견됐다. '악성코드'가 삽입된 워드 문서 파일이 네트워크 카메라(IP Camera), CCTV 등 판매 웹 사이트를 통해 유포됐다.\n이번에 발견된 공격은 워드파일 '직무기술서(Job Description.doc)'로 위장했다.\n미국 시스코 한국 지사 '시스템 엔지니어' 분야 모집내용을 담았다.\n공격자는 DOC 문서 파일 버전이 낮아 매크로를 실행해야 정상 문서가 보인다는 메시지로 이용자에 매크로 실행을 유도한다.\n이용자가 '콘텐츠 사용' 버튼을 클릭해 매크로가 실행되면 'Java Update Scheduler' 파일처럼 위장한 악성파일(jusched.exe)과 정상 문서가 생성·실행된다.\n해당 악성코드는 한국 특정 웹 사이트와 통신을 시도하고, 공격자의 추가 명령을 대기한다.\n라자루스는 미국 소니픽처스 영화사 해킹, 방글라데시 은행 해킹, 워너크라이 랜섬웨어 유포 등 배후로 지목됐다.\n지난해 9월 미국 정부는 북한 해커 박진혁 이름과 얼굴까지 공개하며 지명수배를 내렸다.\n문종현 이스트시큐리티 이사는 “이번 공격은 보안이 허술한 중소기업 사이트를 해킹해 악성코드를 유포했지만 공격방식은 과거와 비슷한 코드기법을 재활용 했다”면서 “9월 미 법무부가 박진혁 해커 기소 후 잠잠했던 활동히 활발하게 이뤄질지 주목한다”고 말했다.\n북한 추정 공격은 올해 초부터 계속 되고 있다.\n탈북민, 대북단체 등을 목표로 한 해커조직은 하드디스크(HDD) 파괴공격까지 담은 악성코드를 유포했다.\n1월 초 통일부 출입 취재기자 77명을 대상으로 스피어피싱 공격 조직은 최근 암호화폐 거래소 사용자 대상으로 공격 범위를 확대했다.\n장영준 NSHC 수석연구원은 “최근 라자루스 해킹그룹이 남아메리카, 중앙아시아 등지에서 금전, 정치적 목적을 뛰고 활동이 활발하다”면서 “대북경제제재가 쉽게 풀리지 않으면서 북한 정부 지원 사이버 공격 활동은 당분간 계속될 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "새해 첫 북한 추정 사이버 공격 그룹 '라자루스(Lazarus)' 활동이 포착됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 9월 미국 법무부에서 라자루스 소속 해커를 기소하면서 한동안 활동이 소강상태를 보이다 다시 활동을 재개했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "통일부 기자단 대상 악성코드 유포 조직도 추가 사이버 공격이 포착되는 등 북한발 사이버 보안 우려가 높다. 31일 이스트시큐리티에 따르면 북한 추정 해킹그룹 '라자루스'가 수행한 최신 지능형지속위협(APT) 사이버 공격이 올해 처음 발견됐다. '악성코드'가 삽입된 워드 문서 파일이 네트워크 카메라(IP Camera), CCTV 등 판매 웹 사이트를 통해 유포됐다.",
+				"sentenceSize": 204
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번에 발견된 공격은 워드파일 '직무기술서(Job Description.doc)'로 위장했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미국 시스코 한국 지사 '시스템 엔지니어' 분야 모집내용을 담았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공격자는 DOC 문서 파일 버전이 낮아 매크로를 실행해야 정상 문서가 보인다는 메시지로 이용자에 매크로 실행을 유도한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이용자가 '콘텐츠 사용' 버튼을 클릭해 매크로가 실행되면 'Java Update Scheduler' 파일처럼 위장한 악성파일(jusched.exe)과 정상 문서가 생성·실행된다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해당 악성코드는 한국 특정 웹 사이트와 통신을 시도하고, 공격자의 추가 명령을 대기한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "라자루스는 미국 소니픽처스 영화사 해킹, 방글라데시 은행 해킹, 워너크라이 랜섬웨어 유포 등 배후로 지목됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지난해 9월 미국 정부는 북한 해커 박진혁 이름과 얼굴까지 공개하며 지명수배를 내렸다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "문종현 이스트시큐리티 이사는 “이번 공격은 보안이 허술한 중소기업 사이트를 해킹해 악성코드를 유포했지만 공격방식은 과거와 비슷한 코드기법을 재활용 했다”면서 “9월 미 법무부가 박진혁 해커 기소 후 잠잠했던 활동히 활발하게 이뤄질지 주목한다”고 말했다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "북한 추정 공격은 올해 초부터 계속 되고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "탈북민, 대북단체 등을 목표로 한 해커조직은 하드디스크(HDD) 파괴공격까지 담은 악성코드를 유포했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "1월 초 통일부 출입 취재기자 77명을 대상으로 스피어피싱 공격 조직은 최근 암호화폐 거래소 사용자 대상으로 공격 범위를 확대했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "장영준 NSHC 수석연구원은 “최근 라자루스 해킹그룹이 남아메리카, 중앙아시아 등지에서 금전, 정치적 목적을 뛰고 활동이 활발하다”면서 “대북경제제재가 쉽게 풀리지 않으면서 북한 정부 지원 사이버 공격 활동은 당분간 계속될 것”이라고 말했다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "北 라자루스 그룹...새해 첫 공격 포착",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

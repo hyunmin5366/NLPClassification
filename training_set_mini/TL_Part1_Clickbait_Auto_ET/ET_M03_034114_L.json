@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_034114",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "2PM 준케이, 부상으로 콘서트 중단…병원서 검사 중",
+		"newsSubTitle": "",
+		"newsContent": "그룹 2PM 준케이가 콘서트 도중 부상을 입었다.\n26일 서울 올림픽공원 SK핸드볼경기장에서 열린 2PM의 콘서트 '6Nights' 공연 도중 준케이가 무대에서 떨어지는 사고가 발생했다.\n소속사 JYP엔터테인먼트 측은 \\\"준케이가 콘서트 도중 무대에서 떨어지는 일이 발생해 공연이 중단됐다\\\"고 밝혔다.\n소속사에 따르면 현재 병원에서 준케이가 정밀 검사 중이다.\n향후 콘서트 일정에 대해서는 \\\"아직 말씀드릴 수 있는게 없다\\\"고 전했다.\n2PM은 지난 24일부터 다음달 5일까지 6일간 서울 올림픽공원 SK올림픽핸드볼경기장에서 단독 콘서트를 진행할 예정이었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 2PM 준케이가 콘서트 도중 부상을 입었다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 서울 올림픽공원 SK핸드볼경기장에서 열린 2PM의 콘서트 '6Nights' 공연 도중 준케이가 무대에서 떨어지는 사고가 발생했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소속사 JYP엔터테인먼트 측은 \\\"준케이가 콘서트 도중 무대에서 떨어지는 일이 발생해 공연이 중단됐다\\\"고 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소속사에 따르면 현재 병원에서 준케이가 정밀 검사 중이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "향후 콘서트 일정에 대해서는 \\\"아직 말씀드릴 수 있는게 없다\\\"고 전했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2PM은 지난 24일부터 다음달 5일까지 6일간 서울 올림픽공원 SK올림픽핸드볼경기장에서 단독 콘서트를 진행할 예정이었다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "싱어송라이터 이끼, 새 싱글 ‘Be there’ 발매",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

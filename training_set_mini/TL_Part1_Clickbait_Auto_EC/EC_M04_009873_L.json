@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009873",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "KAIST 국제특허 세계대학 5위",
+		"newsSubTitle": "지난해 103건 출원해 5.9% 차지",
+		"newsContent": "KAIST가 전 세계 대학 가운데 해외특허 출원 순위 5위에 올랐다.\n유엔 산하 세계특허기구(WIPO)가 지난 한 해 동안 전 세계에 출원된 특허를 분석한 보고서에 따르면 KAIST는 지난해 모두 103건의 국제 특허를 출원해 전 세계 대학 가운데 다섯 번째로 많은 특허를 출원했다.\n전 세계 대학이 출원한 특허는 1만732건으로 전체 특허출원의 5.9%를 차지했으며, 미국 캘리포니아 주립대학이 277건으로 가장 많았고, 미국 MIT 179건, 텍사스주립대학 127건, 존스홉킨스대학 111건, KAIST는 103건으로 그 뒤를 이었다.\n이어 서울대 99건, 도쿄대 98건, 미시간대 96건, 하버드대 88건, 코넬대가 88건으로 상위 10대 학에 포함됐다.\nWIPO가 운영하고 있는 국제출원 특허협력조약(PCT)에 따르면 2011년에는 전년도보다 10.7% 증가한 총 18만1900건의 특허가 출원된 것으로 집계됐다.\n기업 및 대학을 포함해 특허를 가장 많이 낸 국가는 미국으로 4만 8596건 이었으며, 2위는 일본(3만8888건), 3위 독일(1만8568건), 4위 중국(1만6406건), 한국은 1만 447건으로 5위를 차지했다.\n기업별로 보면, 세계적인 통신장비 및 시스템 기업인 중국의 ZTE Corporation이 2826건으로 1위를 차지했으며, 국내 기업 가운데 LG 전자(8위), 삼성전자(15위), LG화학(66위) 등 3개 한국 기업이 100위안에 포함됐다.\n산업별 특허 수를 보면 전기전자, 통신, 전산, 정보통신 분야에서의 강세가 두드러졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KAIST가 전 세계 대학 가운데 해외특허 출원 순위 5위에 올랐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유엔 산하 세계특허기구(WIPO)가 지난 한 해 동안 전 세계에 출원된 특허를 분석한 보고서에 따르면 KAIST는 지난해 모두 103건의 국제 특허를 출원해 전 세계 대학 가운데 다섯 번째로 많은 특허를 출원했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전 세계 대학이 출원한 특허는 1만732건으로 전체 특허출원의 5.9%를 차지했으며, 미국 캘리포니아 주립대학이 277건으로 가장 많았고, 미국 MIT 179건, 텍사스주립대학 127건, 존스홉킨스대학 111건, KAIST는 103건으로 그 뒤를 이었다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 서울대 99건, 도쿄대 98건, 미시간대 96건, 하버드대 88건, 코넬대가 88건으로 상위 10대 학에 포함됐다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "WIPO가 운영하고 있는 국제출원 특허협력조약(PCT)에 따르면 2011년에는 전년도보다 10.7% 증가한 총 18만1900건의 특허가 출원된 것으로 집계됐다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기업 및 대학을 포함해 특허를 가장 많이 낸 국가는 미국으로 4만 8596건 이었으며, 2위는 일본(3만8888건), 3위 독일(1만8568건), 4위 중국(1만6406건), 한국은 1만 447건으로 5위를 차지했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기업별로 보면, 세계적인 통신장비 및 시스템 기업인 중국의 ZTE Corporation이 2826건으로 1위를 차지했으며, 국내 기업 가운데 LG 전자(8위), 삼성전자(15위), LG화학(66위) 등 3개 한국 기업이 100위안에 포함됐다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "산업별 특허 수를 보면 전기전자, 통신, 전산, 정보통신 분야에서의 강세가 두드러졌다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전지역 경기침체… 추석선물 저가상품 '불티'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

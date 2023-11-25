@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329616",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "케이씨에스, 암호칩 앞세워 IP카메라 보안 시장 공략 채비…성능 버전 업 막바지",
+		"newsSubTitle": "",
+		"newsContent": "케이씨에스가 초경량·저전력 암호칩을 앞세워 유·무선 인터넷과 연결된 IP카메라 영상 보안 시장 공략에 나섰다.\n회사는 IP카메라 영상 보안 시장을 발판삼아 스마트그리드·스마트카·스마트팩토리 등 사물인터넷(IoT) 응용 분야로 사업 영역을 확장한다.\n케이씨에스(대표 이규현)는 100만화소 IP카메라에 암호칩 'KEV7'을 장착해 암호칩 성능 테스트를 성공적으로 마무리했다고 7일 밝혔다.\nIP카메라 전문업체와 협력, IP카메라에서 암호 칩이 영상 데이터를 실시간으로 암호화해 NVR·VMS에 저장까지 완벽하게 구현하는 것을 입증한 것이다.\n회사는 올 4월 FBGA 121 패키징 형태 암호칩 'KEV7(크기 6×6㎜·전력소비 180 ㎽)' 개발을 마치고 그동안 영상 성능 테스트를 반복해왔다.\n암호 칩에 키생성기술(TRNG)·물리적복제방지(PUF) 등 고성능 보안기술을 적용했다.\n케이씨에스는 IP카메라 영상 정보를 실시간으로 암·복호화해 영상 정보가 중간 단계에서 탈취되더라도 암호화된 상태여서 노출 우려가 없을 뿐 아니라 물리적으로 키 복제가 불가능한 PUF 등 고성능 보안 기술을 암호칩에 접목했다.\n회사는 이에 따라 암호칩 'KEV7'을 200만~300만화소 범용 IP카메라에 접목하기 위한 활동에 나선다.\n암호화 엔진을 HW로 구현, 저렴한 가격대에 암호칩을 IP카메라 업체에 공급해 암호화칩 시장을 활성화할 계획이다.\nIP카메라 업체는 그동안 시스템 보안 취약성을 익히 알고 있었다.\n하지만 제조원가 상승 부담을 내부적으로 감내하면서까지 대중적인 IP카메라에 비싼 보안 SW를 내장할 여력을 갖고 있지 못했다.\n케이씨에스 관계자는 “100만화소 IP카메라에 암호화칩을 적용한 데 이어 200만화소 이상 범용 IP카메라에 적용하기 위해 IP카메라 전문업체의 코덱칩과 암호칩을 연동하는 성능 개선 작업을 벌이고 있다”면서 “이른 시일 내 암호칩을 내장한 200만화소 이상 IP카메라를 선보일 것”이라고 말했다.\n이 관계자는 “지난달 개최한 사물인터넷국제전시회에서 암호칩 'KEV7'에 대한 IP카메라 업체 관심도가 기대치 이상으로 높았다”면서 “외산 대비 우월한 성능과 가격으로 KEV7를 우선 IP카메라에 접목하고 지능형전력량계·홈IoT 등 영역으로 응용 분야를 확대한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "케이씨에스가 초경량·저전력 암호칩을 앞세워 유·무선 인터넷과 연결된 IP카메라 영상 보안 시장 공략에 나섰다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "회사는 IP카메라 영상 보안 시장을 발판삼아 스마트그리드·스마트카·스마트팩토리 등 사물인터넷(IoT) 응용 분야로 사업 영역을 확장한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "케이씨에스(대표 이규현)는 100만화소 IP카메라에 암호칩 'KEV7'을 장착해 암호칩 성능 테스트를 성공적으로 마무리했다고 7일 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "IP카메라 전문업체와 협력, IP카메라에서 암호 칩이 영상 데이터를 실시간으로 암호화해 NVR·VMS에 저장까지 완벽하게 구현하는 것을 입증한 것이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "회사는 올 4월 FBGA 121 패키징 형태 암호칩 'KEV7(크기 6×6㎜·전력소비 180 ㎽)' 개발을 마치고 그동안 영상 성능 테스트를 반복해왔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "암호 칩에 키생성기술(TRNG)·물리적복제방지(PUF) 등 고성능 보안기술을 적용했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "케이씨에스는 IP카메라 영상 정보를 실시간으로 암·복호화해 영상 정보가 중간 단계에서 탈취되더라도 암호화된 상태여서 노출 우려가 없을 뿐 아니라 물리적으로 키 복제가 불가능한 PUF 등 고성능 보안 기술을 암호칩에 접목했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "회사는 이에 따라 암호칩 'KEV7'을 200만~300만화소 범용 IP카메라에 접목하기 위한 활동에 나선다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "암호화 엔진을 HW로 구현, 저렴한 가격대에 암호칩을 IP카메라 업체에 공급해 암호화칩 시장을 활성화할 계획이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "IP카메라 업체는 그동안 시스템 보안 취약성을 익히 알고 있었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "하지만 제조원가 상승 부담을 내부적으로 감내하면서까지 대중적인 IP카메라에 비싼 보안 SW를 내장할 여력을 갖고 있지 못했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "케이씨에스 관계자는 “100만화소 IP카메라에 암호화칩을 적용한 데 이어 200만화소 이상 범용 IP카메라에 적용하기 위해 IP카메라 전문업체의 코덱칩과 암호칩을 연동하는 성능 개선 작업을 벌이고 있다”면서 “이른 시일 내 암호칩을 내장한 200만화소 이상 IP카메라를 선보일 것”이라고 말했다.",
+				"sentenceSize": 165
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이 관계자는 “지난달 개최한 사물인터넷국제전시회에서 암호칩 'KEV7'에 대한 IP카메라 업체 관심도가 기대치 이상으로 높았다”면서 “외산 대비 우월한 성능과 가격으로 KEV7를 우선 IP카메라에 접목하고 지능형전력량계·홈IoT 등 영역으로 응용 분야를 확대한다”고 말했다.",
+				"sentenceSize": 153
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "케이씨에스, 암호칩 앞세워 IP카메라 보안 시장 공략 채비…성능 버전 업 막바지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

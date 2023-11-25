@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354658",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "[속보]센서 고장났던 누리호, 결국 고쳤다…21일 2차 발사 시도",
+		"newsSubTitle": "null",
+		"newsContent": "한국항공우주연구원이 국산 로켓 누리호(KSLV-II)의 '1단 산화제 탱크 내부 레벨센서' 결함을 결국 고쳤다.\n이에 따라 누리호는 오는 20일 발사대로 이송돼 각종 점검을 실시해 다음날인 21일 2차 발사에 나설 예정이다.\n권현준 과학기술정보통신부 거대공공연구정책관(국장)은 17일 오후 5시30분 열린 '누리호 점검 현황 및 향후 계획 브리핑'에서 \\\"당초 레벨센서 교체를 위해 1·2단 분리가 필요하다고 봤으나 레벨센서 자체가 아닌 핵심 부품 교체만으로 문제를 해결했다\\\"며 이같이 밝혔다.\n권 국장은 \\\"연구진이 해당 부품을 교체했고 정상적인 작동을 확인했다\\\"며 \\\"1·2·3단 전기적 점검을 실시해 이상이 없음을 확인했다\\\"고 설명했다.\n앞서 지난 15일 누리호는 발사를 하루 앞두고 발사대에 이송·기립해 점검을 하던 중 로켓 1단부 산화제 탱크 내 레벨센서에서 이상이 감지돼 발사를 연기했다.\n레벨센서는 산화제 탱크 내부의 산화제 충전 수위를 계측하는 센서다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국항공우주연구원이 국산 로켓 누리호(KSLV-II)의 '1단 산화제 탱크 내부 레벨센서' 결함을 결국 고쳤다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이에 따라 누리호는 오는 20일 발사대로 이송돼 각종 점검을 실시해 다음날인 21일 2차 발사에 나설 예정이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "권현준 과학기술정보통신부 거대공공연구정책관(국장)은 17일 오후 5시30분 열린 '누리호 점검 현황 및 향후 계획 브리핑'에서 \\\"당초 레벨센서 교체를 위해 1·2단 분리가 필요하다고 봤으나 레벨센서 자체가 아닌 핵심 부품 교체만으로 문제를 해결했다\\\"며 이같이 밝혔다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "권 국장은 \\\"연구진이 해당 부품을 교체했고 정상적인 작동을 확인했다\\\"며 \\\"1·2·3단 전기적 점검을 실시해 이상이 없음을 확인했다\\\"고 설명했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 지난 15일 누리호는 발사를 하루 앞두고 발사대에 이송·기립해 점검을 하던 중 로켓 1단부 산화제 탱크 내 레벨센서에서 이상이 감지돼 발사를 연기했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "레벨센서는 산화제 탱크 내부의 산화제 충전 수위를 계측하는 센서다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[속보]센서 고장났던 누리호, 결국 고쳤다…21일 2차 발사 시도",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

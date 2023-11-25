@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007943",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "미분양 줄었다...대전 6.4%·충남 8.2%↓… 전국 7개월째 감소",
+		"newsSubTitle": "",
+		"newsContent": "미분양주택이 줄고 있다.\n지난해 12월말 기준 미분양주택은 대전이 2357호, 충남이 9020호로 전달보다 각각 6.4%, 8.2% 감소했다.\n30일 국토해양부에 따르면 지난해 말 전국 미분양 주택은 8만8706호로, 전월(9만4539호) 대비 6.2%(5833호) 감소해 7개월 연속 줄었다.\n지역별로는 대전은 전달(2205호)대비 152호 감소했고 지난 2009년말(3101호) 대비는 28.9%(896호) 감소했다.\n충남도 전달(9824호)대비 804호 줄었고 지난 2009년말(1만4277호) 대비는 36.8%(5257호)로 큰폭으로 미분양이 줄었다.\n수도권은 신규 미분양이 발생(1414호)해 전월(2만9189호) 대비 223호(0.8%) 증가한 2만9412호로 나타났다.\n지방은 분양가 인하 등 노력과 세제지원에 따른 수요증가 등으로 전월(6만5350호) 대비 6056호(-9.3%) 감소한 5만9294호로 21개월 연속 감소세를 줄었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미분양주택이 줄고 있다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 12월말 기준 미분양주택은 대전이 2357호, 충남이 9020호로 전달보다 각각 6.4%, 8.2% 감소했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "30일 국토해양부에 따르면 지난해 말 전국 미분양 주택은 8만8706호로, 전월(9만4539호) 대비 6.2%(5833호) 감소해 7개월 연속 줄었다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지역별로는 대전은 전달(2205호)대비 152호 감소했고 지난 2009년말(3101호) 대비는 28.9%(896호) 감소했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "충남도 전달(9824호)대비 804호 줄었고 지난 2009년말(1만4277호) 대비는 36.8%(5257호)로 큰폭으로 미분양이 줄었다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "수도권은 신규 미분양이 발생(1414호)해 전월(2만9189호) 대비 223호(0.8%) 증가한 2만9412호로 나타났다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지방은 분양가 인하 등 노력과 세제지원에 따른 수요증가 등으로 전월(6만5350호) 대비 6056호(-9.3%) 감소한 5만9294호로 21개월 연속 감소세를 줄었다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전충남 주택거래 늘어 '봄바람 솔솔'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

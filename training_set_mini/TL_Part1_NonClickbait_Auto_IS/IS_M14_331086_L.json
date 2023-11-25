@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331086",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "진성훈 교수 공동연구팀, 이황화몰리브데늄 기반 차세대 능동형 QD 픽셀 구동",
+		"newsSubTitle": "",
+		"newsContent": "인천대 전자공학과 진성훈 교수와 서울대 노정균 박사(현 로스앨러모스 국립연구소 박사후연구원) 공동연구팀은 이황화 몰리브데늄 기반 트랜지스터의 스위칭 전압 조절 문제를 해결한 능동형 트랜지스터 기반 QD 디스플레이 픽셀 구동을 처음 구현했다고 19일 밝혔다.\n이황화 몰리브데늄은 차세대 디스플레이 구동 소자를 위한 능동층(active layer) 소자 중 하나로 꼽힌다.\n이황화 몰리브데늄으로 구현하면 트랜지스터 두께가 수 나노미터에 불과해 투명 디스플레이나 플렉시블 디스플레이의 구동 소자로 사용할 수 있다.\n공동연구팀은 몰리브데늄(Mo) 원자와 황(S) 원자를 결합해 분자를 이룬 2차원 이황화 몰리브데늄을 기반으로 트랜지스터를 구현했다.\n또 전방채널(front channel)이 아닌 후방채널(back channel) 영역에 ODTS(Octadecyltrichlorosilane)라는 단일 원자층을 처리했다.\n이 방식으로 소자 신뢰성과 문턱 전압을 효과적으로 개선하는 방법을 개발해 다양한 로직회로를 저전력으로 구동할 수 있도록 했다.\n연구 결과는 나노분야 권위저널인 와일리 인터사이언스(Wiley-Interscience)의 스몰(Small)지 2월 15일자 인사이드 커버 논문으로 게재됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인천대 전자공학과 진성훈 교수와 서울대 노정균 박사(현 로스앨러모스 국립연구소 박사후연구원) 공동연구팀은 이황화 몰리브데늄 기반 트랜지스터의 스위칭 전압 조절 문제를 해결한 능동형 트랜지스터 기반 QD 디스플레이 픽셀 구동을 처음 구현했다고 19일 밝혔다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이황화 몰리브데늄은 차세대 디스플레이 구동 소자를 위한 능동층(active layer) 소자 중 하나로 꼽힌다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이황화 몰리브데늄으로 구현하면 트랜지스터 두께가 수 나노미터에 불과해 투명 디스플레이나 플렉시블 디스플레이의 구동 소자로 사용할 수 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공동연구팀은 몰리브데늄(Mo) 원자와 황(S) 원자를 결합해 분자를 이룬 2차원 이황화 몰리브데늄을 기반으로 트랜지스터를 구현했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 전방채널(front channel)이 아닌 후방채널(back channel) 영역에 ODTS(Octadecyltrichlorosilane)라는 단일 원자층을 처리했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 방식으로 소자 신뢰성과 문턱 전압을 효과적으로 개선하는 방법을 개발해 다양한 로직회로를 저전력으로 구동할 수 있도록 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구 결과는 나노분야 권위저널인 와일리 인터사이언스(Wiley-Interscience)의 스몰(Small)지 2월 15일자 인사이드 커버 논문으로 게재됐다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "진성훈 교수 공동연구팀, 이황화몰리브데늄 기반 차세대 능동형 QD 픽셀 구동",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

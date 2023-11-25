@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M05_018973",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "반도체 공급난 지속에…현대차 아산공장 다시 휴업",
+		"newsSubTitle": "",
+		"newsContent": "현대자동차가 차량용 반도체 수급 차질로 충남 아산공장 생산라인 가동을 다시 중단한다. 7일 자동차 업계에 따르면 현대차는 오는 9일부터 10일까지 아산공장을 멈추는 것으로 알려졌다.\n생산 중단은 동남아시아발 반도체 공급난이 원인이다.\n동남아시아에 코로나19가 확산하면서 말레이시아 등에 위치한 차량용 반도체 제조 공장이 제품 생산에 차질을 빚고 있기 때문이다.\n이번 휴업은 차량용 반도체 회사들의 말레이시아 공장의 ECU(엔진컨트롤유닛) 반도체 공급 차질이 주요 원인으로 파악된다.\n앞서 아산공장 생산라인은 차량용 반도체 공급난으로 인해 올해 몇차례 가동을 중단한 바 있다.\n아산공장에서는 쏘나타와 그랜저 등이 생산된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차가 차량용 반도체 수급 차질로 충남 아산공장 생산라인 가동을 다시 중단한다. 7일 자동차 업계에 따르면 현대차는 오는 9일부터 10일까지 아산공장을 멈추는 것으로 알려졌다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "생산 중단은 동남아시아발 반도체 공급난이 원인이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "동남아시아에 코로나19가 확산하면서 말레이시아 등에 위치한 차량용 반도체 제조 공장이 제품 생산에 차질을 빚고 있기 때문이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 휴업은 차량용 반도체 회사들의 말레이시아 공장의 ECU(엔진컨트롤유닛) 반도체 공급 차질이 주요 원인으로 파악된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 아산공장 생산라인은 차량용 반도체 공급난으로 인해 올해 몇차례 가동을 중단한 바 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아산공장에서는 쏘나타와 그랜저 등이 생산된다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정확한 ‘논 메탄가스’ 배출량 산정 가능",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

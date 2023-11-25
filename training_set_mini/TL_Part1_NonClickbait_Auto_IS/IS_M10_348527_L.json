@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348527",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "\\\"고객정보 14만건 해킹사고\\\" 네이처리퍼블릭에 과태료 3120만원 처분",
+		"newsSubTitle": "null",
+		"newsContent": "화장품 로드샵 브랜드인 네이처리퍼블릭의 회원정보 약 14만건이 해커들의 공격을 받아 유출된 것으로 27일 드러났다.\n네이처리퍼블릭에는 개인정보 보호 조치를 위반했다는 이유로 과징금(2120만원)과 과태료(1000만원) 총 3120만원이 부과됐다.\n개인정보보호위원회는 이날 오전 서울 종로구 정부서울청사에서 열린 2021년도 제2회 전체회의에서 네이처리퍼블릭과 테슬라코리아, 에스디생명공학, 씨트립코리아 등 4개 사업자에 대한 시정조치를 의결했다고 밝혔다.\n개인정보위에 따르면 네이처리퍼블릭의 회원정보 관리자 페이지가 해킹 공격을 받은 것으로 밝혀졌다.\n해커는 회원정보를 관리하는 데이터베이스(DB)의 관리자 페이지에 SQL(구조화 질의어, 데이터베이스 제어 언어) 삽입 공격으로 로그인해 개인정보를 빼낸 것으로 조사됐다.\n조사 결과 네이처리퍼블릭은 개인정보 처리 시스템에 대해 접근 통제나 개인정보 암호화 등 보호조치를 하지 않았던 것으로 파악됐다고 개인정보위는 설명했다.\n마스크팩 등을 생산하는 화장품 기업 에스디생명공학도 같은 이유로 총 2150만원을 부과받았다.\n에스디생명공학은 자체 쇼핑몰에 대한 해킹 공격을 막지 못해 회원 정보 1만4000여건을 유출한 것으로 드러났다.\n개인정보위는 이에 과징금 850만원과 과태료 800만원을 부과했다.\n에스디생명공학에는 개인정보가 유출된 사실을 바로 회원들에게 알리지 않았다는 이유로도 과태료 500만원이 추가됐다.\n전기차 업체인 테슬라코리아도 개인정보 유출 통지 위반을 이유로 과태료 500만원을 부과받았다.\n테슬라코리아는 전기차 보조금 안내 이메일을 회원들에게 전체 발신하면서 수신자 500여명의 이메일을 노출했다.\n기업들이 전체 메일을 발신할 때에는 수신인이 본인 이메일만 볼 수 있도록 개별 발송을 해서 개인정보 노출을 최소화해야 한다.\n이들 세 기업의 경우 개인정보 유출 사고 이후 사업자들이 개인정보위에 자진신고해 개인정보보호법 위반이 적발됐다.\n과태료 500만원을 부과받은 여행사 씨트립코리아는 이용자가 국민신문고로 민원을 접수하면서 개인정보 유출 조사가 이뤄졌다.\n씨트립코리아는 담당자가 이용자의 항공권을 환불 처리하는 과정에서 회사 이메일이 아닌 다른 이용자의 이메일을 안내했다는 이유로 과태료 처분을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "화장품 로드샵 브랜드인 네이처리퍼블릭의 회원정보 약 14만건이 해커들의 공격을 받아 유출된 것으로 27일 드러났다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이처리퍼블릭에는 개인정보 보호 조치를 위반했다는 이유로 과징금(2120만원)과 과태료(1000만원) 총 3120만원이 부과됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개인정보보호위원회는 이날 오전 서울 종로구 정부서울청사에서 열린 2021년도 제2회 전체회의에서 네이처리퍼블릭과 테슬라코리아, 에스디생명공학, 씨트립코리아 등 4개 사업자에 대한 시정조치를 의결했다고 밝혔다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "개인정보위에 따르면 네이처리퍼블릭의 회원정보 관리자 페이지가 해킹 공격을 받은 것으로 밝혀졌다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해커는 회원정보를 관리하는 데이터베이스(DB)의 관리자 페이지에 SQL(구조화 질의어, 데이터베이스 제어 언어) 삽입 공격으로 로그인해 개인정보를 빼낸 것으로 조사됐다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조사 결과 네이처리퍼블릭은 개인정보 처리 시스템에 대해 접근 통제나 개인정보 암호화 등 보호조치를 하지 않았던 것으로 파악됐다고 개인정보위는 설명했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "마스크팩 등을 생산하는 화장품 기업 에스디생명공학도 같은 이유로 총 2150만원을 부과받았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "에스디생명공학은 자체 쇼핑몰에 대한 해킹 공격을 막지 못해 회원 정보 1만4000여건을 유출한 것으로 드러났다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "개인정보위는 이에 과징금 850만원과 과태료 800만원을 부과했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "에스디생명공학에는 개인정보가 유출된 사실을 바로 회원들에게 알리지 않았다는 이유로도 과태료 500만원이 추가됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "전기차 업체인 테슬라코리아도 개인정보 유출 통지 위반을 이유로 과태료 500만원을 부과받았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "테슬라코리아는 전기차 보조금 안내 이메일을 회원들에게 전체 발신하면서 수신자 500여명의 이메일을 노출했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "기업들이 전체 메일을 발신할 때에는 수신인이 본인 이메일만 볼 수 있도록 개별 발송을 해서 개인정보 노출을 최소화해야 한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이들 세 기업의 경우 개인정보 유출 사고 이후 사업자들이 개인정보위에 자진신고해 개인정보보호법 위반이 적발됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "과태료 500만원을 부과받은 여행사 씨트립코리아는 이용자가 국민신문고로 민원을 접수하면서 개인정보 유출 조사가 이뤄졌다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "씨트립코리아는 담당자가 이용자의 항공권을 환불 처리하는 과정에서 회사 이메일이 아닌 다른 이용자의 이메일을 안내했다는 이유로 과태료 처분을 받았다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"고객정보 14만건 해킹사고\\\" 네이처리퍼블릭에 과태료 3120만원 처분",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

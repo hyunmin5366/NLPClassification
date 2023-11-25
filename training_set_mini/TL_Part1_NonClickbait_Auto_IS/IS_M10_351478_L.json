@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351478",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "안랩 \\\"이메일 첨부문서 내 '콘텐츠 실행' 클릭 주의하세요\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "안랩이 최근 악성코드를 실행하는 매크로가 포함된 엑셀과 파워포인트 등 문서가 유포되는 사례가 잇따라 발견됐다며 주의를 당부했다.\n10일 안랩에 따르면 학술포럼이나 법률 동의서 등 다양한 주제의 가짜 이메일에 악성 매크로를 포함한 문서 파일이 대량 유포됐다.\n악성 매크로는 자동으로 악성코드 등을 실행시키는 프로그램이다.\n사용자가 문서파일을 열면 매크로 실행 여부를 확인하라거나 콘텐츠 사용 버튼을 누르라는 메시지가 뜨는데, 이를 허용하면 악성 매크로가 악성코드를 자동 실행하게 된다.\n지난 7월 안랩이 발견한 무역 배송관련 표로 위장된 엑셀파일은 '엑셀 호환 이슈'라는 문구와 함께 \\\"자세한 내용을 보려면 콘텐츠 사용 버튼을 누르세요\\\"라는 내용을 포함하고 있다.\n지난 8월에는 인도네시아어로 작성된 이메일에'첨부된 상품 및 배송비 견적을 확인해달라\\\"는 메시지와 파워포인트 형식의 파일을 첨부한 사례가 발견됐다.\n행사 관련 안내문으로 위장한 문서도 있다.\n지난 5월 '제헌절 국제 학술포럼'이라는 제목으로 MS워드 형식 문서파일이 유포됐다.\n문서를 클릭하면 '온라인 미리보기를 사용할 수 없습니다'라는 메시지와 '콘텐츠 사용' 버튼이 함께 뜬다.\n이를 누르면 악성코드에 감염된다.\n안랩은 피해를 예방하기 위해 출처가 불분명한 메일의 첨부파일을 클릭하지 말 것을 당부했다.\n발신자가 신뢰할 수 있는 사람이나 조직 이름이더라도 메일 주소를 다시 확인해야 하며, '콘텐츠 사용' 혹은'매크로 포함'이라는 버튼은 최대한 누르지 말아야 한다.\n양하영 안랩 분석팀 팀장은 \\\"사용자들이 일상적으로 사용하는 문서 파일에 매크로를 삽입해 악성코드를 유포하는 방식은 공격자들의 단골 공격전략\\\"이라며 \\\"피해를 예방하려면 기본 보안수칙을 철저히 지켜야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안랩이 최근 악성코드를 실행하는 매크로가 포함된 엑셀과 파워포인트 등 문서가 유포되는 사례가 잇따라 발견됐다며 주의를 당부했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일 안랩에 따르면 학술포럼이나 법률 동의서 등 다양한 주제의 가짜 이메일에 악성 매크로를 포함한 문서 파일이 대량 유포됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "악성 매크로는 자동으로 악성코드 등을 실행시키는 프로그램이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사용자가 문서파일을 열면 매크로 실행 여부를 확인하라거나 콘텐츠 사용 버튼을 누르라는 메시지가 뜨는데, 이를 허용하면 악성 매크로가 악성코드를 자동 실행하게 된다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난 7월 안랩이 발견한 무역 배송관련 표로 위장된 엑셀파일은 '엑셀 호환 이슈'라는 문구와 함께 \\\"자세한 내용을 보려면 콘텐츠 사용 버튼을 누르세요\\\"라는 내용을 포함하고 있다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 8월에는 인도네시아어로 작성된 이메일에'첨부된 상품 및 배송비 견적을 확인해달라\\\"는 메시지와 파워포인트 형식의 파일을 첨부한 사례가 발견됐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "행사 관련 안내문으로 위장한 문서도 있다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난 5월 '제헌절 국제 학술포럼'이라는 제목으로 MS워드 형식 문서파일이 유포됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "문서를 클릭하면 '온라인 미리보기를 사용할 수 없습니다'라는 메시지와 '콘텐츠 사용' 버튼이 함께 뜬다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이를 누르면 악성코드에 감염된다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "안랩은 피해를 예방하기 위해 출처가 불분명한 메일의 첨부파일을 클릭하지 말 것을 당부했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "발신자가 신뢰할 수 있는 사람이나 조직 이름이더라도 메일 주소를 다시 확인해야 하며, '콘텐츠 사용' 혹은'매크로 포함'이라는 버튼은 최대한 누르지 말아야 한다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "양하영 안랩 분석팀 팀장은 \\\"사용자들이 일상적으로 사용하는 문서 파일에 매크로를 삽입해 악성코드를 유포하는 방식은 공격자들의 단골 공격전략\\\"이라며 \\\"피해를 예방하려면 기본 보안수칙을 철저히 지켜야 한다\\\"고 말했다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안랩 \\\"이메일 첨부문서 내 '콘텐츠 실행' 클릭 주의하세요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

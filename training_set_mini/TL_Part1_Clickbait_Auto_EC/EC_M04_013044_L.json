@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013044",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "지역 금융기관 여수신 큰폭 증가",
+		"newsSubTitle": "법인 여유자금·어음매입 효과",
+		"newsContent": "신탁회사의 법인 여유자금 유입과 어음매입이 증가하면서 대전ㆍ세종ㆍ충남지역 금융기관 여수신이 큰폭으로 증가했다.\n한국은행 대전충남본부가 발표한 '5월 대전ㆍ세종ㆍ충남지역 금융기관 여수신 동향' 자료에 따르면 대전ㆍ세종ㆍ충남지역 금융기관 수신은 비은행금융기관을 중심으로 전월 5487억원 감소에서 1조8902억원 증가로 전환됐다.\n비은행금융기관 수신은 신탁회사의 법인 여유자금이 유입되면서 전월 1조1667억원 감소에서 1조1555억으로 증가로 큰 폭으로 늘었다.\n예금은행은 부가세 납부와 지자체의 예산 집행 등이 소멸됐고, 공공기관과 기업체 여유자금의 유입으로 전월 6180억원에서 7347억원으로 증가폭이 확대됐다.\n지역별로 보면 대전이 전월 5882억원에서 1조4281억원으로, 충남이 918억원감소에서 3960억원으로 증가했다.\n세종은 1313억원에서 660억원으로 증가폭이 감소했다.\n여신도 비은행금융기관을 중심으로 전월 3360억원에서 9243억원으로 증가했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신탁회사의 법인 여유자금 유입과 어음매입이 증가하면서 대전ㆍ세종ㆍ충남지역 금융기관 여수신이 큰폭으로 증가했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전충남본부가 발표한 '5월 대전ㆍ세종ㆍ충남지역 금융기관 여수신 동향' 자료에 따르면 대전ㆍ세종ㆍ충남지역 금융기관 수신은 비은행금융기관을 중심으로 전월 5487억원 감소에서 1조8902억원 증가로 전환됐다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "비은행금융기관 수신은 신탁회사의 법인 여유자금이 유입되면서 전월 1조1667억원 감소에서 1조1555억으로 증가로 큰 폭으로 늘었다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예금은행은 부가세 납부와 지자체의 예산 집행 등이 소멸됐고, 공공기관과 기업체 여유자금의 유입으로 전월 6180억원에서 7347억원으로 증가폭이 확대됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지역별로 보면 대전이 전월 5882억원에서 1조4281억원으로, 충남이 918억원감소에서 3960억원으로 증가했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "세종은 1313억원에서 660억원으로 증가폭이 감소했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "여신도 비은행금융기관을 중심으로 전월 3360억원에서 9243억원으로 증가했다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "청약통장 가입, 지방은 증가 수도권은 감소 '온도차'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

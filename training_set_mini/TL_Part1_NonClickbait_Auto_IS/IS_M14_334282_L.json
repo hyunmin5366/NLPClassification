@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334282",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "산업·에너지·환경",
+		"newsTitle": "트럼프 “한미FTA로 한 해 400억달러 잃어…재협상 시작”",
+		"newsSubTitle": "",
+		"newsContent": "도널드 트럼프 미국 대통령이 한미 자유무역협정(FTA)으로 미국이 큰 손실을 보고 있다며 한국과 재협상을 통해 이를 바로잡겠다는 의지를 보였다.\n트럼프 대통령은 12일(현지시간) 에마뉘엘 마크롱 프랑스 대통령과 정상회담을 위해 프랑스로 향하는 기내 안에서 기자들과 문답 과정에서 이같이 밝혔다.\n백악관은 이날 발언 전문을 언론에 배포했다.\n배포된 전문을 보면 트럼프 대통령은 북한에 대한 중국 역할 등을 얘기하던 중 \\\"'나에게 무슨 카드를 가지고 있느냐'고 묻는데 간단하다. 난 '무역'이라고 답한다\\\"고 말했다.\n트럼프 대통령은 \\\"우리는 중국과 가장 나쁜 거래를 하고 있다. 한국과도 나쁜 거래를 하고 있다\\\"며 \\\"우리는 한국과 협상을 막 시작하고 있다\\\"고 말했다.\n그는 \\\"우리는 한국을 보호하고 있지만 무역에서 한해에 400억달러를 잃고 있다\\\"며 \\\"거래가 막 시작됐다\\\"고 설명했다.\n트럼프 대통령은 대선 경쟁자였던 힐러리 클린턴 전 국무부 장관을 겨냥해 \\\"클린턴은 (한미FTA가) 미국에 일자리를 제공하고 돈을 벌 수 있다고 했지만 우리는 일 년에 400억달러를 잃고 있다\\\"며 \\\"이건 끔찍한 거래\\\"라고 지적했다.\n그는 \\\"그래서 우리는 어제(11일)부로 한국과 재협상(renegotiating)을 시작했다\\\"며 \\\"해야만 한다\\\"고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "도널드 트럼프 미국 대통령이 한미 자유무역협정(FTA)으로 미국이 큰 손실을 보고 있다며 한국과 재협상을 통해 이를 바로잡겠다는 의지를 보였다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "트럼프 대통령은 12일(현지시간) 에마뉘엘 마크롱 프랑스 대통령과 정상회담을 위해 프랑스로 향하는 기내 안에서 기자들과 문답 과정에서 이같이 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "백악관은 이날 발언 전문을 언론에 배포했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "배포된 전문을 보면 트럼프 대통령은 북한에 대한 중국 역할 등을 얘기하던 중 \\\"'나에게 무슨 카드를 가지고 있느냐'고 묻는데 간단하다. 난 '무역'이라고 답한다\\\"고 말했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "트럼프 대통령은 \\\"우리는 중국과 가장 나쁜 거래를 하고 있다. 한국과도 나쁜 거래를 하고 있다\\\"며 \\\"우리는 한국과 협상을 막 시작하고 있다\\\"고 말했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 \\\"우리는 한국을 보호하고 있지만 무역에서 한해에 400억달러를 잃고 있다\\\"며 \\\"거래가 막 시작됐다\\\"고 설명했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "트럼프 대통령은 대선 경쟁자였던 힐러리 클린턴 전 국무부 장관을 겨냥해 \\\"클린턴은 (한미FTA가) 미국에 일자리를 제공하고 돈을 벌 수 있다고 했지만 우리는 일 년에 400억달러를 잃고 있다\\\"며 \\\"이건 끔찍한 거래\\\"라고 지적했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 \\\"그래서 우리는 어제(11일)부로 한국과 재협상(renegotiating)을 시작했다\\\"며 \\\"해야만 한다\\\"고 강조했다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트럼프 “한미FTA로 한 해 400억달러 잃어…재협상 시작”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

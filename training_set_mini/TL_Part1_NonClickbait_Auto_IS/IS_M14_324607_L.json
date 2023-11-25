@@ -1,0 +1,249 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324607",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "AI 음성합성 대중화 속도...'사람인지 로봇인지 구분 안 되네'",
+		"newsSubTitle": "",
+		"newsContent": "KT가 연내 자사 인공지능(AI) 음성합성 기술을 오디오북 업체 '밀리의 서재'에 이식한다.\n네이버와 카카오도 AI 음성합성기술 상용화를 넘어 고도화 단계에 들어가는 등 관련 기술이 빠르게 확산한다.\n실제 서비스 응용 사례가 늘면서 사용자 반응을 반영, 품질도 개선될 전망이다.\nKT는 자회사 지니뮤직이 최근 인수한 밀리의 서재에 '개인화 음성합성기술(P-TTS)'을 연내 적용할 계획이다.\nP-TTS는 AI로 음성 변조와 합성이 가능한 기술이다.\n기존 오디오북은 미리 녹음한 낭독자(성우, 셀럽) 음성으로만 들을 수 있었지만 기술을 접목하면 고객이 원하는 다양한 음성을 선택해 들을 수 있다.\n성우 목소리로 녹음된 동화책을 아빠 목소리로 듣거나 이용자가 좋아하는 아이돌 음성으로 변조해 감상할 수 있다.\n날씨∙시간∙공간∙개인 감정상태 등에 따라 고객이 선택한 다양한 톤으로 오디오북을 들을 수 있다.\n취침 전에는 수면에 방해되지 않는 편안한 톤의 보이스로, 우울한 날에는 활기찬 목소리로 오디오북을 감상하는 것이 가능하다.\nKT는 기술 적용으로 오디오북 사업에서 서비스 차별화를 기대했다.\nKT 관계자는 \\\"제작비용 절감도 가능하다\\\"면서 \\\"미래에는 자기 목소리를 활용한 AI 오디오 콘텐츠로 수익분배가 이뤄지는 등 관련 서비스가 '오디오 업계 유튜브'로 성장할 수 있을 것\\\"이라고 말했다.\nKT는 밀리의 서재 P-TTS 적용에 앞서 이달 2014년 세상을 뜬 신해철 씨의 음성을 복원해 공개하는 등 AI 음성합성 기술 상용화에 속도를 내고 있다.\n신 씨가 2001년부터 2012년까지 11년간 진행했던 '신해철의 고스트스테이션' 라디오 방송 데이터를 AI에게 학습시켜 목소리를 복원했다.\n한발 앞서 AI 음성합성기술을 적용한 네이버와 카카오는 고도화에 힘쓰고 있다.\n네이버는 'NES(Natural End-to-end Speech synthesis system)' 기술이 강점이다.\n40분 녹음, 400문장 분량 데이터만으로 실제 사람과 구분이 어려운 음성합성음을 제작한다.\n네이버는 네이버클라우드를 통해 음성합성 API를 유료 상품화했다.\n개인 콘텐츠 제작에 한해 무료로 제공하는 등 저변 확대에도 적극적이다.\n카카오엔터프라이즈는 이달 8일 현대백화점과 'AI 전화 음성봇' 사용 계약을 체결했다.\n추석 연휴를 전후해 현대백화점 일부 지점에서 배송한 선물 수령자에게 AI로 전화 안내서비스를 제공했다.\nAI 전화 음성봇에는 카카오의 STT(음성인식), TTS(음성합성), NLU(자연어 이해) 기술이 적용됐다.\n의식하지 않으면 대화상대가 AI인지 알아차리기 힘들다.\n건물과 동∙호수, 층 등 상세주소와 날짜까지 인식한다.\n고객이 배송 주소 변경을 요구하면 \\\"고객님 그럼 어디로 배송 보내드리면 될까요?\\\"라며 되물어 정보를 얻어낸다.\n업계는 실사용 사례가 늘어나 데이터가 쌓이면 AI 음성합성 품질이 향상되고, 서비스도 다양화할 것으로 전망했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 25,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 연내 자사 인공지능(AI) 음성합성 기술을 오디오북 업체 '밀리의 서재'에 이식한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버와 카카오도 AI 음성합성기술 상용화를 넘어 고도화 단계에 들어가는 등 관련 기술이 빠르게 확산한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "실제 서비스 응용 사례가 늘면서 사용자 반응을 반영, 품질도 개선될 전망이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KT는 자회사 지니뮤직이 최근 인수한 밀리의 서재에 '개인화 음성합성기술(P-TTS)'을 연내 적용할 계획이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "P-TTS는 AI로 음성 변조와 합성이 가능한 기술이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기존 오디오북은 미리 녹음한 낭독자(성우, 셀럽) 음성으로만 들을 수 있었지만 기술을 접목하면 고객이 원하는 다양한 음성을 선택해 들을 수 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "성우 목소리로 녹음된 동화책을 아빠 목소리로 듣거나 이용자가 좋아하는 아이돌 음성으로 변조해 감상할 수 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "날씨∙시간∙공간∙개인 감정상태 등에 따라 고객이 선택한 다양한 톤으로 오디오북을 들을 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "취침 전에는 수면에 방해되지 않는 편안한 톤의 보이스로, 우울한 날에는 활기찬 목소리로 오디오북을 감상하는 것이 가능하다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "KT는 기술 적용으로 오디오북 사업에서 서비스 차별화를 기대했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "KT 관계자는 \\\"제작비용 절감도 가능하다\\\"면서 \\\"미래에는 자기 목소리를 활용한 AI 오디오 콘텐츠로 수익분배가 이뤄지는 등 관련 서비스가 '오디오 업계 유튜브'로 성장할 수 있을 것\\\"이라고 말했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "KT는 밀리의 서재 P-TTS 적용에 앞서 이달 2014년 세상을 뜬 신해철 씨의 음성을 복원해 공개하는 등 AI 음성합성 기술 상용화에 속도를 내고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "신 씨가 2001년부터 2012년까지 11년간 진행했던 '신해철의 고스트스테이션' 라디오 방송 데이터를 AI에게 학습시켜 목소리를 복원했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한발 앞서 AI 음성합성기술을 적용한 네이버와 카카오는 고도화에 힘쓰고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "네이버는 'NES(Natural End-to-end Speech synthesis system)' 기술이 강점이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "40분 녹음, 400문장 분량 데이터만으로 실제 사람과 구분이 어려운 음성합성음을 제작한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "네이버는 네이버클라우드를 통해 음성합성 API를 유료 상품화했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "개인 콘텐츠 제작에 한해 무료로 제공하는 등 저변 확대에도 적극적이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "카카오엔터프라이즈는 이달 8일 현대백화점과 'AI 전화 음성봇' 사용 계약을 체결했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "추석 연휴를 전후해 현대백화점 일부 지점에서 배송한 선물 수령자에게 AI로 전화 안내서비스를 제공했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "AI 전화 음성봇에는 카카오의 STT(음성인식), TTS(음성합성), NLU(자연어 이해) 기술이 적용됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "의식하지 않으면 대화상대가 AI인지 알아차리기 힘들다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "건물과 동∙호수, 층 등 상세주소와 날짜까지 인식한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "고객이 배송 주소 변경을 요구하면 \\\"고객님 그럼 어디로 배송 보내드리면 될까요?\\\"라며 되물어 정보를 얻어낸다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "업계는 실사용 사례가 늘어나 데이터가 쌓이면 AI 음성합성 품질이 향상되고, 서비스도 다양화할 것으로 전망했다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AI 음성합성 대중화 속도...'사람인지 로봇인지 구분 안 되네'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011671",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "휘발유값 3주 연속 상승…전국평균 ℓ당 1898원",
+		"newsSubTitle": "세종·충남 상위권",
+		"newsContent": "국내 보통 휘발유 가격이 3주 연속 오름세를 이어갔다.\n16일 한국석유공사의 유가정보사이트 오피넷에 따르면 6월 둘째 주 전국 휘발유 평균 판매가격은 ℓ당 1.5원 오른 1898.01원을 기록했다.\n지역별로 살펴보면 서울(1980.98원), 제주(1977.87원), 세종(1912.92원), 충남(1909.59원), 경기(1904.94원) 순으로 가격이 비쌌다.\n가장 낮은 지역은 대구로 ℓ당 1871.7원이었다.\n이어 광주(1872.2원), 경북(1878,0원) 등의 순으로 나타났다.\n셀프주유소의 휘발유 평균 판매가격은 ℓ당 1863.00원, 비셀프주유소의 판매가격은 ℓ당 1905.92원으로 각각 집계됐다.\n셀프주유소와 비셀프주유소의 보통휘발유 판매가격 차이는 ℓ당 42.91원으로 나타났다.\n휘발유 공급가는 6월 첫째주보다 ℓ당 44.6원 오른 904.2원을 기록했다.\n석유공사 관계자는 “국제유가가 리비아, 터키 등 중동 정세 불안으로 상승세를 보이고 있다”며 “정유사 공급가격 또한 강세를 나타내고 있어 국내 석유제품 소비자가격은 당분간 상승할 것으로 보인다”고 전망했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 보통 휘발유 가격이 3주 연속 오름세를 이어갔다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일 한국석유공사의 유가정보사이트 오피넷에 따르면 6월 둘째 주 전국 휘발유 평균 판매가격은 ℓ당 1.5원 오른 1898.01원을 기록했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지역별로 살펴보면 서울(1980.98원), 제주(1977.87원), 세종(1912.92원), 충남(1909.59원), 경기(1904.94원) 순으로 가격이 비쌌다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가장 낮은 지역은 대구로 ℓ당 1871.7원이었다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 광주(1872.2원), 경북(1878,0원) 등의 순으로 나타났다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "셀프주유소의 휘발유 평균 판매가격은 ℓ당 1863.00원, 비셀프주유소의 판매가격은 ℓ당 1905.92원으로 각각 집계됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "셀프주유소와 비셀프주유소의 보통휘발유 판매가격 차이는 ℓ당 42.91원으로 나타났다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "휘발유 공급가는 6월 첫째주보다 ℓ당 44.6원 오른 904.2원을 기록했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "석유공사 관계자는 “국제유가가 리비아, 터키 등 중동 정세 불안으로 상승세를 보이고 있다”며 “정유사 공급가격 또한 강세를 나타내고 있어 국내 석유제품 소비자가격은 당분간 상승할 것으로 보인다”고 전망했다.",
+				"sentenceSize": 115
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신한은행, 오는 3월 5일 0시~12시까지 모든 거래 '일시 중지'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

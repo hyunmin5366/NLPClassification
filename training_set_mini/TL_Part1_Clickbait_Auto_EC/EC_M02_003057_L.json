@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003057",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "대한항공, 본사 코로나 확진자 6명...추가 확진자는 '無'",
+		"newsSubTitle": "",
+		"newsContent": "대한항공 본사 건물에서 줄줄이 코로나19 확진자가 나왔다.\n다만 대한항공 관계자는 5일 미디어SR에 \\\"현재 추가 확진자는 발생하지 않았다\\\"면서 \\\"당국의 방역 지침을 준수하고 있으며 추가 확산 우려를 고려해 교대 재택근무를 실시한다\\\"고 밝혔다.\n항공업계에 따르면 지난 3일 기준 대한항공 서울 강서구 본사 건물에서 근무하는 직원 총 6명이 코로나19 확진 판정을 받았다.\n6명 중 1명은 대한항공 임원이고, 1명은 대한항공 배구단 사무국 직원으로 확인됐다.\n대한항공은 확진자와 같은 층에 근무하거나 동선이 겹친 경우에 한해 전수조사를 진행하고 있다.\n회사 관계자는 미디어SR에 \\\"업무상 차질은 없는 상태\\\"라고 언급했다.\n한편 방역당국의 조사 결과 해당 확진자가 선수단과는 동선이 겹치지 않았고, 선수단 전원이 음성 판정을 받았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대한항공 본사 건물에서 줄줄이 코로나19 확진자가 나왔다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다만 대한항공 관계자는 5일 미디어SR에 \\\"현재 추가 확진자는 발생하지 않았다\\\"면서 \\\"당국의 방역 지침을 준수하고 있으며 추가 확산 우려를 고려해 교대 재택근무를 실시한다\\\"고 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "항공업계에 따르면 지난 3일 기준 대한항공 서울 강서구 본사 건물에서 근무하는 직원 총 6명이 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "6명 중 1명은 대한항공 임원이고, 1명은 대한항공 배구단 사무국 직원으로 확인됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대한항공은 확진자와 같은 층에 근무하거나 동선이 겹친 경우에 한해 전수조사를 진행하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "회사 관계자는 미디어SR에 \\\"업무상 차질은 없는 상태\\\"라고 언급했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 방역당국의 조사 결과 해당 확진자가 선수단과는 동선이 겹치지 않았고, 선수단 전원이 음성 판정을 받았다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KDI \\\"방과후학교-정규수업, 아동 흥미·특성·학습이력 정보 공유돼야\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

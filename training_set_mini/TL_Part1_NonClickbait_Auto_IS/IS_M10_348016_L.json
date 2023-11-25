@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348016",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "3시간 걸리던 반도체 표면 흠집 검사, 16분 만에 끝낸다",
+		"newsSubTitle": "null",
+		"newsContent": "반도체 등 첨단부품 표면의 미세 결함을 빠르고 정밀하게 검사할 수 있는 측정기술이 개발됐다.\n한국표준과학연구원 첨단측정장비연구소 안희경 선임연구원은 수백 나노미터(㎚·1 ㎚는 10억분의 1 m) 수준의 정밀한 분해능으로 첨단부품 표면의 흠집 등 미세 결함을 빠르게 검사할 측정기술을 개발했다고 14일 밝혔다.\n이 기술을 적용한 측정 장비는 기존 산업계에서 쓰이는 100배율 렌즈가 장착된 장비보다 더 자세하게 표면을 관찰할 수 있고, 한 번에 관찰할 수 있는 면적이 100배 정도 넓다.\n반도체 공정에서 생산 효율을 높이려면 검사 시간 단축이 필수적이다.\n연구팀이 개발한 기술은 하나의 조각에 대해서만 오차를 계산해 그 결과를 모든 조각에 적용하는 방식이다.\n이 기술을 사용하면 1mm×1mm의 이미지를 250 나노미터 이하 분해능으로 16분 만에 검사할 수 있다. 2018년 기술을 기준으로 하면 같은 면적을 검사하는데 약 3시간이 소요됐다.\n안 선임연구원은 “병렬 처리와 같은 기술을 사용해 처리 속도를 최적화한다면 반도체, 디스플레이의 표면 검사와 같이 수백 나노미터 이하의 분해능이 요구되는 산업 분야에 즉시 투입이 가능할 것으로 기대된다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "반도체 등 첨단부품 표면의 미세 결함을 빠르고 정밀하게 검사할 수 있는 측정기술이 개발됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국표준과학연구원 첨단측정장비연구소 안희경 선임연구원은 수백 나노미터(㎚·1 ㎚는 10억분의 1 m) 수준의 정밀한 분해능으로 첨단부품 표면의 흠집 등 미세 결함을 빠르게 검사할 측정기술을 개발했다고 14일 밝혔다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 기술을 적용한 측정 장비는 기존 산업계에서 쓰이는 100배율 렌즈가 장착된 장비보다 더 자세하게 표면을 관찰할 수 있고, 한 번에 관찰할 수 있는 면적이 100배 정도 넓다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반도체 공정에서 생산 효율을 높이려면 검사 시간 단축이 필수적이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연구팀이 개발한 기술은 하나의 조각에 대해서만 오차를 계산해 그 결과를 모든 조각에 적용하는 방식이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 기술을 사용하면 1mm×1mm의 이미지를 250 나노미터 이하 분해능으로 16분 만에 검사할 수 있다. 2018년 기술을 기준으로 하면 같은 면적을 검사하는데 약 3시간이 소요됐다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "안 선임연구원은 “병렬 처리와 같은 기술을 사용해 처리 속도를 최적화한다면 반도체, 디스플레이의 표면 검사와 같이 수백 나노미터 이하의 분해능이 요구되는 산업 분야에 즉시 투입이 가능할 것으로 기대된다”고 말했다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "3시간 걸리던 반도체 표면 흠집 검사, 16분 만에 끝낸다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

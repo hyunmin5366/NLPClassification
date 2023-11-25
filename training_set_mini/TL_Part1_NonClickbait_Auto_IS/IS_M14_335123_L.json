@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335123",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "미 마이크론 반도체 공장 정전으로 가동중단",
+		"newsSubTitle": "",
+		"newsContent": "미국 마이크론의 일본 히로시마 반도체 공장이 정전 여파로 멈춰 선 것으로 알려졌다.\n12일 업계 등에 따르면 일본에서 발생한 지진으로 지난 8일 마이크론의 히로시마 공장 일부 생산라인 가동이 중단됐다.\n히로시마 공장의 웨이퍼 생산량은 월 115만장 수준으로 마이크론 전체 생산능력의 32%로 알려졌다.\n마이크론은 “전력 문제로 생산을 일시 멈췄다”며 “공장은 다시 가동을 추진하지만 당분간 생산능력은 종전보다 낮아질 수밖에 없다”고 밝혔다.\n업계에선 생산 중단으로 인한 손실이 마이크론의 올해 3~4분기 실적에 영향을 줄 것으로 보고 있다.\n지난해 대만 TSMC 공장이 정전으로 6시간 가동이 중단됐을 때 영향을 받은 웨이퍼는 약 3만 개로 알려졌다.\n피해 금액은 10억대만달러(약 400억원)로 추산됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 마이크론의 일본 히로시마 반도체 공장이 정전 여파로 멈춰 선 것으로 알려졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 업계 등에 따르면 일본에서 발생한 지진으로 지난 8일 마이크론의 히로시마 공장 일부 생산라인 가동이 중단됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "히로시마 공장의 웨이퍼 생산량은 월 115만장 수준으로 마이크론 전체 생산능력의 32%로 알려졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마이크론은 “전력 문제로 생산을 일시 멈췄다”며 “공장은 다시 가동을 추진하지만 당분간 생산능력은 종전보다 낮아질 수밖에 없다”고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업계에선 생산 중단으로 인한 손실이 마이크론의 올해 3~4분기 실적에 영향을 줄 것으로 보고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 대만 TSMC 공장이 정전으로 6시간 가동이 중단됐을 때 영향을 받은 웨이퍼는 약 3만 개로 알려졌다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "피해 금액은 10억대만달러(약 400억원)로 추산됐다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미 마이크론 반도체 공장 정전으로 가동중단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

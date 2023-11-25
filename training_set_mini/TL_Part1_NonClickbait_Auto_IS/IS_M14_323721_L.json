@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323721",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "샤오미, 내달 '레드미노트10' 국내 출시",
+		"newsSubTitle": "",
+		"newsContent": "샤오미가 내달 레드미노트10 시리즈를 국내 출시한다. 20만원대 이하 롱텀에벌루션(LTE) 모델이다.\n샤오미는 내달 4일(현지시간) 레드미노트10 글로벌 버전을 인도에서 첫 공개한다.\n지난해 국내에도 정식 발매된 레드미노트9S 후속 모델로 레드미노트10 4G, 레드미노트10 프로 4G, 레드미노트10 5G, 레드미노트10 프로 5G 등 4종으로 구성됐다.\n국내 출시 예상 일정은 내달 말에서 4월초 경이 유력하다.\n국립전파연구원 적합성평가 인증을 받고, 국내 환경에 맞춰 서비스 현지화 작업 후 제품을 선보이는데 한 달가량 소요되는 것으로 알려졌다.\n사전 유출된 정보에 따르면 퀄컴 스냅드래곤732G 프로세서를 탑재했고 디스플레이는 120㎐ 주사율을 지원하는 6.5인치 FHD+ LCD다.\n배터리 용량은 6000㎃h로 22W 고속 충전을 지원한다.\n후면에는 6400만 화소 트리플 카메라를 장착했다.\n5세대(5G) 이동통신 모델도 시리즈에 포함됐지만 국내에는 LTE 모델만 선보일 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "샤오미가 내달 레드미노트10 시리즈를 국내 출시한다. 20만원대 이하 롱텀에벌루션(LTE) 모델이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "샤오미는 내달 4일(현지시간) 레드미노트10 글로벌 버전을 인도에서 첫 공개한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 국내에도 정식 발매된 레드미노트9S 후속 모델로 레드미노트10 4G, 레드미노트10 프로 4G, 레드미노트10 5G, 레드미노트10 프로 5G 등 4종으로 구성됐다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국내 출시 예상 일정은 내달 말에서 4월초 경이 유력하다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국립전파연구원 적합성평가 인증을 받고, 국내 환경에 맞춰 서비스 현지화 작업 후 제품을 선보이는데 한 달가량 소요되는 것으로 알려졌다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사전 유출된 정보에 따르면 퀄컴 스냅드래곤732G 프로세서를 탑재했고 디스플레이는 120㎐ 주사율을 지원하는 6.5인치 FHD+ LCD다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "배터리 용량은 6000㎃h로 22W 고속 충전을 지원한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "후면에는 6400만 화소 트리플 카메라를 장착했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "5세대(5G) 이동통신 모델도 시리즈에 포함됐지만 국내에는 LTE 모델만 선보일 전망이다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "샤오미, 내달 '레드미노트10' 국내 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331568",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "日 르네사스, MCU내장 24MB 플래시메모리 개발",
+		"newsSubTitle": "",
+		"newsContent": "일본 르네사스일렉트로닉스는 차량제어용 마이크로컨트롤러(MCU)를 내장한 플래시메모리 기술을 개발했다.\n차량 스마트화를 위한 대용량∙고속처리∙OTA 대응을 실현한다.\n최근 자동차 스마트화로 소프트웨어(SW) 저장영역 확보를 위해 MCU 내장 플래시 메모리 대용량화가 필요하다.\n성능 측면에서는 리얼타임 정보처리를 위해 플래시메모리의 고속 랜덤액세스 읽기가 요구된다.\n주행 중에도 무선으로 SW를 업데이트하는 OTA(Over The Air)는 저노이즈 설계와 의도하지 않은 오동작을 일으키지 않는 안정성이 요구된다.\n이 기술은 MCU 내장 플래시 메모리로는 세계 최대인 24MB를 실현했다.\n메모리 셀 사이즈를 0.053㎛∙에서 0.045㎛∙ 미만으로 15% 이상 줄여 저장 공간을 최대화했다.\n또 동일 MCU 내장 플래시 메모리로는 최고 속도인 240㎒ 랜덤액세스 읽기를 구현했다.\n드라이버의 스트레스 전압 완화와 분산배치로 고속 읽기가 가능하다.\n또 OTA 동작 시 쓰기 동작 저노이즈화를 실현했다.\n각 메모리셀에 가해지는 읽기 전류를 동작 초기와 후기로 가변해 읽기 처리량 저하 없이 전압노이즈가 MCU 동작에 미치는 악영향을 억제했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 르네사스일렉트로닉스는 차량제어용 마이크로컨트롤러(MCU)를 내장한 플래시메모리 기술을 개발했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "차량 스마트화를 위한 대용량∙고속처리∙OTA 대응을 실현한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 자동차 스마트화로 소프트웨어(SW) 저장영역 확보를 위해 MCU 내장 플래시 메모리 대용량화가 필요하다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "성능 측면에서는 리얼타임 정보처리를 위해 플래시메모리의 고속 랜덤액세스 읽기가 요구된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주행 중에도 무선으로 SW를 업데이트하는 OTA(Over The Air)는 저노이즈 설계와 의도하지 않은 오동작을 일으키지 않는 안정성이 요구된다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 기술은 MCU 내장 플래시 메모리로는 세계 최대인 24MB를 실현했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "메모리 셀 사이즈를 0.053㎛∙에서 0.045㎛∙ 미만으로 15% 이상 줄여 저장 공간을 최대화했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 동일 MCU 내장 플래시 메모리로는 최고 속도인 240㎒ 랜덤액세스 읽기를 구현했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "드라이버의 스트레스 전압 완화와 분산배치로 고속 읽기가 가능하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또 OTA 동작 시 쓰기 동작 저노이즈화를 실현했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "각 메모리셀에 가해지는 읽기 전류를 동작 초기와 후기로 가변해 읽기 처리량 저하 없이 전압노이즈가 MCU 동작에 미치는 악영향을 억제했다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "日 르네사스, MCU내장 24MB 플래시메모리 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

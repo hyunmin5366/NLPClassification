@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011842",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "주택 인허가 물량 감소… 대전·세종은 크게 늘어",
+		"newsSubTitle": "국토부 올 인허가 물량 작년동월比 24% 줄어",
+		"newsContent": "주택경기 침체로 지난 6월 주택 인허가 물량이 6개월 연속 감소하며 지난해 동월대비 24% 줄은 것으로 나타났다.\n반면에 대전과 세종은 크게 증가했다.\n국토교통부는 올해 6월 주택건설 인허가 물량이 3만8208가구로 작년 같은달(5만534가구)에 비해 24.4% 감소했다고 28일 밝혔다.\n지역별로는 수도권과 지방이 1만6570가구와 2만1638가구로 전년 동월보다 각각 26.4%, 22.8% 줄었다.\n유형별로는 아파트가 1만9956가구로 지난해 6월보다 34.8%, 아파트 외 주택은 1만8252가구로 8.4% 각각 감소했다.\n대전의 6월 주택 건설 인허가 건수는 1358건으로 작년 같은기간 354건보다 283.6% 증가했으며 지난해 6월 단 한건 없던 세종시도 892건이 인허가 된 것으로 집계됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "주택경기 침체로 지난 6월 주택 인허가 물량이 6개월 연속 감소하며 지난해 동월대비 24% 줄은 것으로 나타났다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "반면에 대전과 세종은 크게 증가했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국토교통부는 올해 6월 주택건설 인허가 물량이 3만8208가구로 작년 같은달(5만534가구)에 비해 24.4% 감소했다고 28일 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지역별로는 수도권과 지방이 1만6570가구와 2만1638가구로 전년 동월보다 각각 26.4%, 22.8% 줄었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유형별로는 아파트가 1만9956가구로 지난해 6월보다 34.8%, 아파트 외 주택은 1만8252가구로 8.4% 각각 감소했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대전의 6월 주택 건설 인허가 건수는 1358건으로 작년 같은기간 354건보다 283.6% 증가했으며 지난해 6월 단 한건 없던 세종시도 892건이 인허가 된 것으로 집계됐다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "㈜아이씨푸드, 효모 농축 김치소스 ‘김치담금이’ 출시",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

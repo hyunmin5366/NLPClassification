@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333676",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "시큐어링크 '알파시큐어 랜섬키퍼' GS인증 1등급 획득",
+		"newsSubTitle": "",
+		"newsContent": "랜섬웨어·파밍 솔루션 보안소프트웨어 전문기업 시큐어링크(대표 고준용)는 한국정보통신기술협회(TTA)로부터 GS인증 1등급을 획득했다고 9일 밝혔다.\n1등급을 받은 알파시큐어 랜섬키퍼는 기존 안티바이러스 뒷단에서 랜섬웨어를 막을 수 있도록 주안점을 둔 SW다.\n알파시큐어는 부담이 많은 설치파일을 최소화하고 이식성 최경량화로 클라우드 및 SaaS 인프라에 최적화된 제품이다.\n프로그램 행동 및 상황을 인식해 악성코드를 차단하고 훼손된 파일을 백업, 복원하는 차세대 악성코드 차단 솔루션이다.\n알파시큐어는 파일을 실제로 훼손시키는 등 악성행위를 할 경우 이를 자동으로 인지하고 차단하는 행동 및 상황기반 탐지기술인 ABC-P 엔진 기술을 사용한다.\n사용자 PC 리소스를 최소한 사용, 최적 랜섬차단 및 복구 기능을 지원한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "랜섬웨어·파밍 솔루션 보안소프트웨어 전문기업 시큐어링크(대표 고준용)는 한국정보통신기술협회(TTA)로부터 GS인증 1등급을 획득했다고 9일 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1등급을 받은 알파시큐어 랜섬키퍼는 기존 안티바이러스 뒷단에서 랜섬웨어를 막을 수 있도록 주안점을 둔 SW다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "알파시큐어는 부담이 많은 설치파일을 최소화하고 이식성 최경량화로 클라우드 및 SaaS 인프라에 최적화된 제품이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "프로그램 행동 및 상황을 인식해 악성코드를 차단하고 훼손된 파일을 백업, 복원하는 차세대 악성코드 차단 솔루션이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "알파시큐어는 파일을 실제로 훼손시키는 등 악성행위를 할 경우 이를 자동으로 인지하고 차단하는 행동 및 상황기반 탐지기술인 ABC-P 엔진 기술을 사용한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사용자 PC 리소스를 최소한 사용, 최적 랜섬차단 및 복구 기능을 지원한다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시큐어링크 '알파시큐어 랜섬키퍼' GS인증 1등급 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

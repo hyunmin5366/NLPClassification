@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348581",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "LGU+, 을지대병원 의료시스템에 '양자내성암호' 적용",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 보안전문회사 ICTK홀딩스와 을지대병원 의료정보시스템에 양자내성암호(PQC) 기술을 적용했다고 1일 밝혔다.\n의료정보시스템은 환자의 민감한 의료정보가 저장되므로 다른 곳보다 더욱 강화된 보안이 필요하다.\n일반컴퓨터보다 연산력이 뛰어난 양자컴퓨팅 시대가 도래하기에 앞서 의료분야에도 차세대 보안기술이 갖춰져야 하는 상황이다.\nLG유플러스는 이런 고민을 해결하기 위해 양자내성암호기술을 채택했다.\n양자내성암호기술은 양자컴퓨터로 풀어내는데 수십억년이 걸리는 복잡한 수학 알고리즘을 사용하는 암호화 방식이다.\n암호키 교환, 데이터 암·복호화, 무결성 인증 등 핵심 보안요소에 적용할 수 있고, 별도의 장비 없이 소프트웨어만으로도 구현할 수 있는 장점이 있다.\nLG유플러스는 을지대병원 의료정보시스템의 데이터 전송과 열람 시 보안 강화를 위해 양자내성암호를 활용하는 별도의 어플리케이션을 개발했다.\n의료인들은 데이터센터에 접근하기 위해 USB형 보안토큰을 PC에 연결하고 ID와 패스워드를 입력하면 보안칩에 저장된 인증서로 서버와 공개키 인증을 수행하는 과정을 거쳐 접근이 허용된다.\n구성철 LG유플러스 유선사업담당은 \\\"디지털뉴딜 과제를 통해 을지대병원과 협업하여 양자내성암호로 실제 의료데이터의 보안을 강화했다는데 이번 어플리케이션 개발에 의미가 크다\\\"며 \\\"통신망은 물론 데이터가 고객에게 전달되는 모든 구간에서 양자컴퓨팅시대에도 유효한 강력한 보안을 구축하겠다\\\"고 말했다.\n한편 이번 양자내성암호 의료정보시스템은 과학기술정보통신부–한국지능정보사회진흥원(NIA)의 디지털 뉴딜 양자암호통신 시범인프라 구축운영 과제를 통해 개발했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 보안전문회사 ICTK홀딩스와 을지대병원 의료정보시스템에 양자내성암호(PQC) 기술을 적용했다고 1일 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "의료정보시스템은 환자의 민감한 의료정보가 저장되므로 다른 곳보다 더욱 강화된 보안이 필요하다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "일반컴퓨터보다 연산력이 뛰어난 양자컴퓨팅 시대가 도래하기에 앞서 의료분야에도 차세대 보안기술이 갖춰져야 하는 상황이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "LG유플러스는 이런 고민을 해결하기 위해 양자내성암호기술을 채택했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양자내성암호기술은 양자컴퓨터로 풀어내는데 수십억년이 걸리는 복잡한 수학 알고리즘을 사용하는 암호화 방식이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "암호키 교환, 데이터 암·복호화, 무결성 인증 등 핵심 보안요소에 적용할 수 있고, 별도의 장비 없이 소프트웨어만으로도 구현할 수 있는 장점이 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "LG유플러스는 을지대병원 의료정보시스템의 데이터 전송과 열람 시 보안 강화를 위해 양자내성암호를 활용하는 별도의 어플리케이션을 개발했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "의료인들은 데이터센터에 접근하기 위해 USB형 보안토큰을 PC에 연결하고 ID와 패스워드를 입력하면 보안칩에 저장된 인증서로 서버와 공개키 인증을 수행하는 과정을 거쳐 접근이 허용된다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "구성철 LG유플러스 유선사업담당은 \\\"디지털뉴딜 과제를 통해 을지대병원과 협업하여 양자내성암호로 실제 의료데이터의 보안을 강화했다는데 이번 어플리케이션 개발에 의미가 크다\\\"며 \\\"통신망은 물론 데이터가 고객에게 전달되는 모든 구간에서 양자컴퓨팅시대에도 유효한 강력한 보안을 구축하겠다\\\"고 말했다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편 이번 양자내성암호 의료정보시스템은 과학기술정보통신부–한국지능정보사회진흥원(NIA)의 디지털 뉴딜 양자암호통신 시범인프라 구축운영 과제를 통해 개발했다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LGU+, 을지대병원 의료시스템에 '양자내성암호' 적용",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

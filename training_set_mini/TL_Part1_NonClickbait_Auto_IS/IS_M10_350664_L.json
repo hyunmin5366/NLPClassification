@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350664",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "블록체인, 기업문서 위·변조 막는다...삼성SDS '페이퍼리스' 출시",
+		"newsSubTitle": "null",
+		"newsContent": "삼성SDS가 블록체인 기술로 문서 위·변조를 막는 '페이퍼리스'를 8일 출시했다.\n계약서와 동의서, 증명서처럼 위·변조가 우려되는 문서를 블록체인 기술을 활용해 안전하게 관리해주는 서비스다.\n페이퍼리스는 별도 서버에 대용량 문서와 민감한 개인정보와 같은 데이터를 암호화하고, 해당 문서나 데이터에 대한 해시값(복사한 데이터가 원본과 동일한지 여부를 입증하기 위해 파일 특성을 축약해 놓은 암호값)만 블록체인에 저장하는 방식이다.\n큰 문서 용량때문에 블록체인 시스템이 느려지는 것을 막을 수 있는 장점이 있다.\n일정 기간 보관 후 폐기가 필요한 문서를 관리하는 것도 편리해진다.\n문서 생성과 변경, 폐기 등 모든 이력은 실시간 블록체인에 기록되므로 데이터 신뢰성과 투명성도 확보할 수 있다.\n별도 시스템 구축없이 API(응용프로그램 인터페이스)를 확보해 각종 계약과 증명, 투표에 손쉽게 활용할 수도 있다.\n삼성SDS는 페이퍼리스 서비스를 임직원 연봉계약과 사내투표, 인증서 관리 등에 적용해 활용한다.\n삼성SDS는 이번 서비스 출시를 계기로 서비스형 블록체인 사업(BaaS, Blockchain as a Service)을 확대할 계획이다.\n홍혜진 삼성SDS DT플랫폼추진단장(상무)은 \\\"페이퍼리스 서비스를 시작으로 신원인증과 페이먼트 등 다양한 클라우드 기반의 블록체인 서비스를 통해 고객에게 새로운 가치를 제공할 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성SDS가 블록체인 기술로 문서 위·변조를 막는 '페이퍼리스'를 8일 출시했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "계약서와 동의서, 증명서처럼 위·변조가 우려되는 문서를 블록체인 기술을 활용해 안전하게 관리해주는 서비스다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "페이퍼리스는 별도 서버에 대용량 문서와 민감한 개인정보와 같은 데이터를 암호화하고, 해당 문서나 데이터에 대한 해시값(복사한 데이터가 원본과 동일한지 여부를 입증하기 위해 파일 특성을 축약해 놓은 암호값)만 블록체인에 저장하는 방식이다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "큰 문서 용량때문에 블록체인 시스템이 느려지는 것을 막을 수 있는 장점이 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일정 기간 보관 후 폐기가 필요한 문서를 관리하는 것도 편리해진다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "문서 생성과 변경, 폐기 등 모든 이력은 실시간 블록체인에 기록되므로 데이터 신뢰성과 투명성도 확보할 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "별도 시스템 구축없이 API(응용프로그램 인터페이스)를 확보해 각종 계약과 증명, 투표에 손쉽게 활용할 수도 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성SDS는 페이퍼리스 서비스를 임직원 연봉계약과 사내투표, 인증서 관리 등에 적용해 활용한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "삼성SDS는 이번 서비스 출시를 계기로 서비스형 블록체인 사업(BaaS, Blockchain as a Service)을 확대할 계획이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "홍혜진 삼성SDS DT플랫폼추진단장(상무)은 \\\"페이퍼리스 서비스를 시작으로 신원인증과 페이먼트 등 다양한 클라우드 기반의 블록체인 서비스를 통해 고객에게 새로운 가치를 제공할 계획\\\"이라고 말했다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블록체인, 기업문서 위·변조 막는다...삼성SDS '페이퍼리스' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

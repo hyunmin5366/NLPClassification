@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333085",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "장비",
+		"newsTitle": "한화정밀기계, 스마트공장 위한 칩마운터·자동화솔루션 신제품 공개",
+		"newsSubTitle": "",
+		"newsContent": "한화정밀기계가 스마트공장을 위한 칩마운터, 자동화솔루션 신제품을 출시한다.\n기판 위에 부품을 실장하는 표면실장기술(SMT) 공정을 끊김 없이 자동화하는 데 초점을 맞췄다.\n한화정밀기계는 SMT 공정과 공장 자동화를 위한 차세대 중속 칩마운터(중속기) 제품 '데칸S1'과 공장자동화 솔루션 'T-솔루션'을 선보인다고 밝혔다.\nT솔루션 중 T-모바일은 웹 기반 SMT 공정 과정을 실시간 감시하고 제어하는 스마트공장 솔루션이다.\n이 솔루션은 생산현황을 언제 어디서나 실시간 파악하게 해준다.\n다른 업무 중이거나 공장 외부에 있더라도 이상 발생시 가동을 중단하는 등 원격으로 제어할 수도 있다.\n오류 발생 시 모바일 기기는 물론 스마트워치 같은 웨어러블 기기로도 메시지를 받아볼 수 있다. 7월 정식 출시된다.\n기존 출시된 T-PNP(예측·예방 및 모니터링)시스템과 연계돼 강화된 솔루션을 제공한다.\n데칸S1은 중속기 최고속인 47000CPH(시간당 칩 실장수)를 달성한 칩마운터다. 미소칩인 03015부품부터 대형 이형 부품 75㎜까지 넓은 범위 부품에 대응할 수 있다.\n중속기 최대 수준인 1500×460㎜ 인쇄회로기판(PCB) 대응력을 갖췄다.\n어떤 SMT 라인 구성에도 대응하라 수 있는 범용 칩마운터다. 지난해 말에는 다기능 칩마운터 SM485P를 출시, SMD부품 이외에도 작업자가 수작업으로 실장하는 공정을 기계로 대신하는 수삽자동화를 구현했다.\n다양한 형태와 크기를 가진 부품을 장착할 수 있는 2D조명으로 부품 비전검사 정확도를 높였다.\n장착 후 센서로 높이를 측정해 부품 들뜸 상태 검사를 강화했다.\n모든 포스 컨트롤 기능을 탑재, 부품별 장착압력도 설정할 수 있다.\n한화 칩마운터 제품군은 국제전자산업표준협회(IPC) CFX 통신프로토콜을 탑재, 기기와 기기, 기기와 MES 솔루션 간 상태 확인과 데이터 수집이 용이하다.\n자재 관리 솔루션인 스마트랙(Rack)도 판매를 시작했다.\n작업 준비 과정과 생산 중 자재 조달요청 등 특정 자재가 필요할 때 쉽게 찾도록 발광다이오드(LED)로 위치를 알려준다.\n자재별 재고 수량, 사용 이력 등을 관리한다.\n수많은 릴을 분류 관리해야 하는 불편함을 개선한다.\n한화정밀기계 관계자는 “자재 관리부터 칩마운터, 솔루션까지 하나로 연계, 작업 효율성을 극대화하고 있다”면서 “SMT 공정에서도 24시간 끊김 없는 스마트 공정을 구현할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한화정밀기계가 스마트공장을 위한 칩마운터, 자동화솔루션 신제품을 출시한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기판 위에 부품을 실장하는 표면실장기술(SMT) 공정을 끊김 없이 자동화하는 데 초점을 맞췄다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한화정밀기계는 SMT 공정과 공장 자동화를 위한 차세대 중속 칩마운터(중속기) 제품 '데칸S1'과 공장자동화 솔루션 'T-솔루션'을 선보인다고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "T솔루션 중 T-모바일은 웹 기반 SMT 공정 과정을 실시간 감시하고 제어하는 스마트공장 솔루션이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 솔루션은 생산현황을 언제 어디서나 실시간 파악하게 해준다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다른 업무 중이거나 공장 외부에 있더라도 이상 발생시 가동을 중단하는 등 원격으로 제어할 수도 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "오류 발생 시 모바일 기기는 물론 스마트워치 같은 웨어러블 기기로도 메시지를 받아볼 수 있다. 7월 정식 출시된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기존 출시된 T-PNP(예측·예방 및 모니터링)시스템과 연계돼 강화된 솔루션을 제공한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "데칸S1은 중속기 최고속인 47000CPH(시간당 칩 실장수)를 달성한 칩마운터다. 미소칩인 03015부품부터 대형 이형 부품 75㎜까지 넓은 범위 부품에 대응할 수 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "중속기 최대 수준인 1500×460㎜ 인쇄회로기판(PCB) 대응력을 갖췄다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "어떤 SMT 라인 구성에도 대응하라 수 있는 범용 칩마운터다. 지난해 말에는 다기능 칩마운터 SM485P를 출시, SMD부품 이외에도 작업자가 수작업으로 실장하는 공정을 기계로 대신하는 수삽자동화를 구현했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "다양한 형태와 크기를 가진 부품을 장착할 수 있는 2D조명으로 부품 비전검사 정확도를 높였다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "장착 후 센서로 높이를 측정해 부품 들뜸 상태 검사를 강화했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "모든 포스 컨트롤 기능을 탑재, 부품별 장착압력도 설정할 수 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "한화 칩마운터 제품군은 국제전자산업표준협회(IPC) CFX 통신프로토콜을 탑재, 기기와 기기, 기기와 MES 솔루션 간 상태 확인과 데이터 수집이 용이하다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "자재 관리 솔루션인 스마트랙(Rack)도 판매를 시작했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "작업 준비 과정과 생산 중 자재 조달요청 등 특정 자재가 필요할 때 쉽게 찾도록 발광다이오드(LED)로 위치를 알려준다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "자재별 재고 수량, 사용 이력 등을 관리한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "수많은 릴을 분류 관리해야 하는 불편함을 개선한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "한화정밀기계 관계자는 “자재 관리부터 칩마운터, 솔루션까지 하나로 연계, 작업 효율성을 극대화하고 있다”면서 “SMT 공정에서도 24시간 끊김 없는 스마트 공정을 구현할 것”이라고 말했다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한화정밀기계, 스마트공장 위한 칩마운터·자동화솔루션 신제품 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

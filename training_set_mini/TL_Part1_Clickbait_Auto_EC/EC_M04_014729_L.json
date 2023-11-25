@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014729",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "급성 백혈병 암세포 증식 경로 규명",
+		"newsSubTitle": "순천향대 권혁영 교수 공동연구",
+		"newsContent": "백혈병 암 세포의 증식 경로가 규명돼 관련 치료에 획기적인 발판이 될 것으로 기대된다.\n한국연구재단에 따르면 순천향대 권혁영 교수와 캘리포니아주립대 레아 교수가 주도한 연구에서 백혈병의 암 세포가 자라는데 영향을 주는 단백질(티스팬3)을 발견했다.\n급성 백혈병은 약제 내성이 강한 데다 재발을 일으켜 사망률이 높은 위험한 종양으로, 내성과 재발은 종양 줄기세포에 의해 유도되는 것으로 알려져 있다.\n연구진은 종양 및 조혈 줄기세포의 재생을 촉진하는 무사시2의 기능을 확인하기 위해 유전자를 제거한 생쥐의 조혈 줄기세포와 종양 줄기세포를 추출, 유전자 그룹 분석 및 문헌을 통해 선별된 후보에 대해 실험했다.\n연구 결과 백혈병이 유도된 생쥐의 종양 줄기세포를 분리해 티스팬3을 억제해 다시 투입하자 사망률이 50%로 낮아진 반면, 티스팬 3를 그대로 보유한 생쥐는 모두 사망했다.\n90만명의 만성 골수성 백혈병 환자로부터 분리한 샘플을 조사한 결과 만성기에서 급성기로 진행함에 따라 티스팬3의 발현이 5배 가량 증가하는 것도 확인했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "백혈병 암 세포의 증식 경로가 규명돼 관련 치료에 획기적인 발판이 될 것으로 기대된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국연구재단에 따르면 순천향대 권혁영 교수와 캘리포니아주립대 레아 교수가 주도한 연구에서 백혈병의 암 세포가 자라는데 영향을 주는 단백질(티스팬3)을 발견했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "급성 백혈병은 약제 내성이 강한 데다 재발을 일으켜 사망률이 높은 위험한 종양으로, 내성과 재발은 종양 줄기세포에 의해 유도되는 것으로 알려져 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연구진은 종양 및 조혈 줄기세포의 재생을 촉진하는 무사시2의 기능을 확인하기 위해 유전자를 제거한 생쥐의 조혈 줄기세포와 종양 줄기세포를 추출, 유전자 그룹 분석 및 문헌을 통해 선별된 후보에 대해 실험했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연구 결과 백혈병이 유도된 생쥐의 종양 줄기세포를 분리해 티스팬3을 억제해 다시 투입하자 사망률이 50%로 낮아진 반면, 티스팬 3를 그대로 보유한 생쥐는 모두 사망했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "90만명의 만성 골수성 백혈병 환자로부터 분리한 샘플을 조사한 결과 만성기에서 급성기로 진행함에 따라 티스팬3의 발현이 5배 가량 증가하는 것도 확인했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "은행들 마이너스통장 고객 유치 노력",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

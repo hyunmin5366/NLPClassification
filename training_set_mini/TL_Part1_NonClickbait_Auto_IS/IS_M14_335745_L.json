@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335745",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "LG전자, 코로나19로 美 테네시 세탁기 공장 2주간 가동 중단",
+		"newsSubTitle": "",
+		"newsContent": "LG전자 미국 세탁기 공장이 코로나19 여파로 2주간 가동이 중단된다.\nLG전자는 27일 미국 테네시주 클락스빌에 위치한 세탁기 공장 가동을 오는 30일부터 내달 12일까지 중단하기로 결정했다고 밝혔다.\n코로나19 확산을 고려한 선제조치다.\nLG전자는 현지 법인장 명의로 이같은 내용의 안내문을 직원들에게 전달했다.\n재가동 시점은 오는 4월 13일로 정해졌다.\n테네시주 세탁기 공장은 LG전자가 2018년 2월 2억5000만달러(약 2833억원)를 투자해 대지면적 125만 제곱미터(㎡)에 건물 연면적 7만7000㎡ 규모로 구축한 생산법인이다.\n미국 테네시 생산법인은 월 10만대의 드럼세탁기와 통돌이세탁기를 생산하고 있으며 약 600명이 근무한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG전자 미국 세탁기 공장이 코로나19 여파로 2주간 가동이 중단된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG전자는 27일 미국 테네시주 클락스빌에 위치한 세탁기 공장 가동을 오는 30일부터 내달 12일까지 중단하기로 결정했다고 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코로나19 확산을 고려한 선제조치다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "LG전자는 현지 법인장 명의로 이같은 내용의 안내문을 직원들에게 전달했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "재가동 시점은 오는 4월 13일로 정해졌다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "테네시주 세탁기 공장은 LG전자가 2018년 2월 2억5000만달러(약 2833억원)를 투자해 대지면적 125만 제곱미터(㎡)에 건물 연면적 7만7000㎡ 규모로 구축한 생산법인이다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "미국 테네시 생산법인은 월 10만대의 드럼세탁기와 통돌이세탁기를 생산하고 있으며 약 600명이 근무한다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG전자, 코로나19로 美 테네시 세탁기 공장 2주간 가동 중단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

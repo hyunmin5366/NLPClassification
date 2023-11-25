@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351035",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "카이스트, 집적도 3500배 높인 '뇌 모방 반도체' 개발…상용화 앞당긴다",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 인간의 뇌를 모방한 '뉴로모픽 반도체' 성능을 획기적으로 끌어올리는 방법을 개발했다.\n기존 반도체 공정에 적용도 가능해 상용화 가능성을 크게 높인 기술로 평가된다.\n카이스트(KIAST)는 5일 최양규, 최성율 전기및전자공학부 교수 공동연구팀이 인간의 뇌를 본 뜬 고집적 뉴로모픽 반도체를 개발했다고 밝혔다.\n뉴로모픽 반도체는 인간의 뇌가 매우 복잡한 기능을 수행하면서도 매우 적은 양의 에너지만 소비하는 구조에 착안해, 인간의 뇌를 모방해 인공지능 기능을 하드웨어로 구현하는 기술이다.\n뉴로모픽 반도체를 만들기 위해서는 인간의 뇌와 같이 뉴런(뇌 신경세포)과 뉴런 사이의 연결성을 기억하는 시냅스(뉴런 연결부위)가 필요하다.\n인간의 뇌는 약 1000억개의 뉴런과 약 100조개의 시냅스로 구성돼있는데, 이를 디지털 또는 아날로그 회로로 구현하기 위해서는 집적도를 높이는 과정이 필수적이다.\n그동안 이를 해결하기 위한 많은 연구가 진행됐지만, 표준 실리콘 미세 공정에 적용이 불가능해 상용화에 어려움을 겪어왔다.\n연구팀은 표준 실리콘 미세 공정으로 제작될 수 있는 단일 트랜지스터로 인간의 뉴런과 시냅스 동작을 모방하고, 이를 8인치 웨이퍼에 집적할 수 있는 뉴로모픽 반도체를 만들었다.\n디지털 및 아날로그 회로로 구성되던 뉴런을 단일 트랜지스터로 대체해 집적도를 획기적으로 높인 것이다.\n제작된 뉴로모픽 트랜지스터로 뉴런 회로를 구성할 때 필요한 평면적은 6단위로, 기존(2만1000단위)에 비해 약 3500배 줄어드는 효과가 있었다.\n연구팀이 제작한 반도체는 동시성 판단 같은 뇌의 기능을 구현할 수 있었고, 글자 이미지와 얼굴 이미지 인식도 가능했다.\n연구에 참여한 한준규 박사과정생은 \\\"상용화된 CMOS 공정을 이용해 뉴런, 시냅스, 그리고 부가적인 신호 처리 회로를 동일 웨이퍼 상에 동시에 집적함으로써, 뉴로모픽 반도체의 집적도를 개선했다\\\"며 \\\"뉴로모픽 하드웨어의 상용화를 한 단계 앞당길 수 있을 것\\\"이라고 말했다.\n이번 연구성과는 국제학술지 '사이언스 어드밴시스' 온라인판에 게재됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 인간의 뇌를 모방한 '뉴로모픽 반도체' 성능을 획기적으로 끌어올리는 방법을 개발했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기존 반도체 공정에 적용도 가능해 상용화 가능성을 크게 높인 기술로 평가된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카이스트(KIAST)는 5일 최양규, 최성율 전기및전자공학부 교수 공동연구팀이 인간의 뇌를 본 뜬 고집적 뉴로모픽 반도체를 개발했다고 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뉴로모픽 반도체는 인간의 뇌가 매우 복잡한 기능을 수행하면서도 매우 적은 양의 에너지만 소비하는 구조에 착안해, 인간의 뇌를 모방해 인공지능 기능을 하드웨어로 구현하는 기술이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뉴로모픽 반도체를 만들기 위해서는 인간의 뇌와 같이 뉴런(뇌 신경세포)과 뉴런 사이의 연결성을 기억하는 시냅스(뉴런 연결부위)가 필요하다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인간의 뇌는 약 1000억개의 뉴런과 약 100조개의 시냅스로 구성돼있는데, 이를 디지털 또는 아날로그 회로로 구현하기 위해서는 집적도를 높이는 과정이 필수적이다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그동안 이를 해결하기 위한 많은 연구가 진행됐지만, 표준 실리콘 미세 공정에 적용이 불가능해 상용화에 어려움을 겪어왔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구팀은 표준 실리콘 미세 공정으로 제작될 수 있는 단일 트랜지스터로 인간의 뉴런과 시냅스 동작을 모방하고, 이를 8인치 웨이퍼에 집적할 수 있는 뉴로모픽 반도체를 만들었다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "디지털 및 아날로그 회로로 구성되던 뉴런을 단일 트랜지스터로 대체해 집적도를 획기적으로 높인 것이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "제작된 뉴로모픽 트랜지스터로 뉴런 회로를 구성할 때 필요한 평면적은 6단위로, 기존(2만1000단위)에 비해 약 3500배 줄어드는 효과가 있었다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "연구팀이 제작한 반도체는 동시성 판단 같은 뇌의 기능을 구현할 수 있었고, 글자 이미지와 얼굴 이미지 인식도 가능했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "연구에 참여한 한준규 박사과정생은 \\\"상용화된 CMOS 공정을 이용해 뉴런, 시냅스, 그리고 부가적인 신호 처리 회로를 동일 웨이퍼 상에 동시에 집적함으로써, 뉴로모픽 반도체의 집적도를 개선했다\\\"며 \\\"뉴로모픽 하드웨어의 상용화를 한 단계 앞당길 수 있을 것\\\"이라고 말했다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이번 연구성과는 국제학술지 '사이언스 어드밴시스' 온라인판에 게재됐다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카이스트, 집적도 3500배 높인 '뇌 모방 반도체' 개발…상용화 앞당긴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

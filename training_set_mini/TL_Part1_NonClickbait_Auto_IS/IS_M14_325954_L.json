@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325954",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "솔텍, 중국 센텍과 총판계약...차세대 스위치 선보인다",
+		"newsSubTitle": "",
+		"newsContent": "솔텍이 중국 센텍(CENTEC Networks)과 총판 계약을 체결, 차세대 스위치 사업을 본격화한다.\n양 사는7월 업무협약을 시작으로 국내 차세대 스위치 시장에 대한 중장기 비즈니스 모델 개발을 위해 노력했다.\n센텍은 대용량 스위치 칩셋 전문 업체로, 소프트웨어정의네트워크(SDN)관련 기술을 보유하고 있다.\n솔텍은 오픈 네트워크에 기반한 센텍 칩셋으로 다양한 SDN 화이트박스 스위치를 국내 시장에 선보일 계획이다.\n또 차세대 네트워크 요구사항에 부합하기 위해 스위칭 실리콘(Switching Silicon)분야 사업도 확장한다.\n솔텍이 선보일 SDN 하이브리드 스위치는 SDN 기능 등을 자유롭게 조절할 수 있어 차세대 SDN 네트워크 도입을 고려하는 고객에 적합할 전망이다.\n턴키 기반 설계로 가격 경쟁력 또한 갖췄다.\n이동화 솔텍 회장은 “SDN 하이브리드 스위치를 제공으로 다양한 차세대 네트워크 비즈니스 확대에 최선을 다하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "솔텍이 중국 센텍(CENTEC Networks)과 총판 계약을 체결, 차세대 스위치 사업을 본격화한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양 사는7월 업무협약을 시작으로 국내 차세대 스위치 시장에 대한 중장기 비즈니스 모델 개발을 위해 노력했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "센텍은 대용량 스위치 칩셋 전문 업체로, 소프트웨어정의네트워크(SDN)관련 기술을 보유하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "솔텍은 오픈 네트워크에 기반한 센텍 칩셋으로 다양한 SDN 화이트박스 스위치를 국내 시장에 선보일 계획이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 차세대 네트워크 요구사항에 부합하기 위해 스위칭 실리콘(Switching Silicon)분야 사업도 확장한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "솔텍이 선보일 SDN 하이브리드 스위치는 SDN 기능 등을 자유롭게 조절할 수 있어 차세대 SDN 네트워크 도입을 고려하는 고객에 적합할 전망이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "턴키 기반 설계로 가격 경쟁력 또한 갖췄다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이동화 솔텍 회장은 “SDN 하이브리드 스위치를 제공으로 다양한 차세대 네트워크 비즈니스 확대에 최선을 다하겠다”고 말했다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "솔텍, 중국 센텍과 총판계약...차세대 스위치 선보인다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

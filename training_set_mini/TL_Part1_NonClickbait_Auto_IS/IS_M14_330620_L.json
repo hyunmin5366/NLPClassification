@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330620",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[속보]AWS 클라우드 장애로 암호화폐거래소·인터넷서비스 먹통",
+		"newsSubTitle": "",
+		"newsContent": "아마존웹서비스(AWS) 서울 리전 장애로 쿠팡∙이스타항공∙야놀자 등 AWS 클라우드 이용 서비스사 홈페이지가 마비됐다.\nAWS 서울 리전을 사용하는 국내 기업들은 22일 오전 8시경부터 AWS 서울 리전 장애로 서비스를 제공하지 못하고 있다.\n장애 원인은 아직 확인되지 않았다.\n업비트∙코인원 등 암호화폐거래소를 비롯해 야놀자∙쿠팡 등 주요 인터넷서비스까지 모두 서비스를 못하고 있다.\n최근 AWS 클라우드 전면전환을 완료한 이스타항공 역시 AWS 장애로 모바일∙PC 홈페이지 서비스가 모두 중단됐다.\nAWS 클라우드 한 고객사 관계자는 \\\"오늘 아침 갑작스런 장애로 모바일∙PC 모두 서비스가 먹통인 상황\\\"이라면서 \\\"AWS 측에서 복구를 진행 중인데 언제까지 완료될 것이라는 공지는 듣지 못했다\\\"고 말했다.\nIT서비스업계 관계자는 \\\"이번 장애로 누가 AWS 클라우드 고객인지 확인할 수 있게 됐다\\\"면서 \\\"주요 클라우드 글로벌 기업이 한국시장 공략을 강화하는 가운데 AWS에 악재\\\"라고 지적했다.\nAWS 클라우드 서비스 장애에 대한 설명을 듣고자 AWS코리아 측에 문의했으나 연락이 닿지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아마존웹서비스(AWS) 서울 리전 장애로 쿠팡∙이스타항공∙야놀자 등 AWS 클라우드 이용 서비스사 홈페이지가 마비됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AWS 서울 리전을 사용하는 국내 기업들은 22일 오전 8시경부터 AWS 서울 리전 장애로 서비스를 제공하지 못하고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장애 원인은 아직 확인되지 않았다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "업비트∙코인원 등 암호화폐거래소를 비롯해 야놀자∙쿠팡 등 주요 인터넷서비스까지 모두 서비스를 못하고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 AWS 클라우드 전면전환을 완료한 이스타항공 역시 AWS 장애로 모바일∙PC 홈페이지 서비스가 모두 중단됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "AWS 클라우드 한 고객사 관계자는 \\\"오늘 아침 갑작스런 장애로 모바일∙PC 모두 서비스가 먹통인 상황\\\"이라면서 \\\"AWS 측에서 복구를 진행 중인데 언제까지 완료될 것이라는 공지는 듣지 못했다\\\"고 말했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "IT서비스업계 관계자는 \\\"이번 장애로 누가 AWS 클라우드 고객인지 확인할 수 있게 됐다\\\"면서 \\\"주요 클라우드 글로벌 기업이 한국시장 공략을 강화하는 가운데 AWS에 악재\\\"라고 지적했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "AWS 클라우드 서비스 장애에 대한 설명을 듣고자 AWS코리아 측에 문의했으나 연락이 닿지 않았다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[속보]AWS 클라우드 장애로 암호화폐거래소·인터넷서비스 먹통",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

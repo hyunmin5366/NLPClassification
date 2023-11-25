@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005871",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "기아, 첫 목적 기반 모빌리티 '니로 플러스' 출시",
+		"newsSubTitle": "사전계약 12영업일간 약 8000대 접수",
+		"newsContent": "기아가 사상 최초 목적 기반 모빌리티(PBV) '니로 플러스'가 판매에 본격 돌입했다.\n기아는 '니로 플러스'를 30일 출시했다고 밝혔다.\n니로 플러스는 지난 12일 사전계약을 개시한 이후 27일까지 12영업일 동안 약 8000대가 계약됐다.\n택시 모델과 업무용 모델의 비율은 각각 48%와 52%로 나타났다.\n니로 플러스는 1세대 니로 EV를 기반으로 전고를 80mm 높이고 실내 구성을 최적화해 여유로운 실내 공간을 확보했다.\n또 64.0kWh 고전압 배터리와 최고 출력 150kW 모터를 조합해 1회 충전 시 392km를 주행할 수 있다.\n특히 도심 주행의 경우 1회 충전으로 433km를 주행할 수 있어 도심 위주로 운행하는 고객에게 최적화된 이동 경험을 제공한다.\n기아는 택시 영업을 위한 서비스가 늘어남에 따라 추가되는 스마트폰 등의 기기를 조작하며 산만해지는 운전 환경을 개선하기 위해 올인원 디스플레이를 개발했다.\n또한 올인원 디스플레이에 내비게이션, 앱미터, 디지털운행기록계를 통합 적용했다.\n기아 관계자는 데일리임팩트에 \\\"올인원 디스플레이를 통해 승객과의 분쟁 가능성을 줄이고 △택시 업계의 때와 장소의 제약 없이 신규 요금 체계를 적용할 수 있는 앱미터로 고객의 편의성을 높일 것\\\"이라고 기대했다.\n이와함께 현대차그룹의 인공지능(AI) 기술 개발담당 에어스 컴퍼니(AIRS Company)에서 자체 기술로 구현한 음성기반 서비스 'AI 어시스턴트'가 현대차그룹 최초로 적용됐다.\n이는 길찾기, 전기차 관련 문의에 대한 답변 등을 제공한다.\n내비게이션과 연계해 음성으로 길 안내 요청 시 목적지 도착 후 예상 배터리 잔량을 알려주며 예상 배터리 잔량이 부족할 경우 충전소를 경유하는 경로를 운전자에게 먼저 제안한다.\n기아 관계자는 \\\"실제 택시 서비스업 종사자를 대상으로 최근 두 달 동안 진행한 올인원 디스플레이 시범 운행에서 높은 인식률과 빠른 반응속도에 대해 긍정적인 피드백을 받았다\\\"라며 \\\"앞으로 사용자가 궁금해하는 질문에 대한 업데이트를 꾸준히 진행할 예정\\\"이라고 설명했다.\n니로 플러스의 가격은 세제혜택 후 △택시 모델 라이트 트림 4420만 원, 에어 트림 4570만 원 △업무용 모델 에어 트림 4570만 원, 어스 트림 4690만 원이다.\n환경부 보조금 700만원과 지자체별 보조금, 택시 추가 보조금을 받으면 실제 구입가격은 더욱 낮아진다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "기아가 사상 최초 목적 기반 모빌리티(PBV) '니로 플러스'가 판매에 본격 돌입했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기아는 '니로 플러스'를 30일 출시했다고 밝혔다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "니로 플러스는 지난 12일 사전계약을 개시한 이후 27일까지 12영업일 동안 약 8000대가 계약됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "택시 모델과 업무용 모델의 비율은 각각 48%와 52%로 나타났다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "니로 플러스는 1세대 니로 EV를 기반으로 전고를 80mm 높이고 실내 구성을 최적화해 여유로운 실내 공간을 확보했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 64.0kWh 고전압 배터리와 최고 출력 150kW 모터를 조합해 1회 충전 시 392km를 주행할 수 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 도심 주행의 경우 1회 충전으로 433km를 주행할 수 있어 도심 위주로 운행하는 고객에게 최적화된 이동 경험을 제공한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기아는 택시 영업을 위한 서비스가 늘어남에 따라 추가되는 스마트폰 등의 기기를 조작하며 산만해지는 운전 환경을 개선하기 위해 올인원 디스플레이를 개발했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또한 올인원 디스플레이에 내비게이션, 앱미터, 디지털운행기록계를 통합 적용했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "기아 관계자는 데일리임팩트에 \\\"올인원 디스플레이를 통해 승객과의 분쟁 가능성을 줄이고 △택시 업계의 때와 장소의 제약 없이 신규 요금 체계를 적용할 수 있는 앱미터로 고객의 편의성을 높일 것\\\"이라고 기대했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이와함께 현대차그룹의 인공지능(AI) 기술 개발담당 에어스 컴퍼니(AIRS Company)에서 자체 기술로 구현한 음성기반 서비스 'AI 어시스턴트'가 현대차그룹 최초로 적용됐다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이는 길찾기, 전기차 관련 문의에 대한 답변 등을 제공한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "내비게이션과 연계해 음성으로 길 안내 요청 시 목적지 도착 후 예상 배터리 잔량을 알려주며 예상 배터리 잔량이 부족할 경우 충전소를 경유하는 경로를 운전자에게 먼저 제안한다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "기아 관계자는 \\\"실제 택시 서비스업 종사자를 대상으로 최근 두 달 동안 진행한 올인원 디스플레이 시범 운행에서 높은 인식률과 빠른 반응속도에 대해 긍정적인 피드백을 받았다\\\"라며 \\\"앞으로 사용자가 궁금해하는 질문에 대한 업데이트를 꾸준히 진행할 예정\\\"이라고 설명했다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "니로 플러스의 가격은 세제혜택 후 △택시 모델 라이트 트림 4420만 원, 에어 트림 4570만 원 △업무용 모델 에어 트림 4570만 원, 어스 트림 4690만 원이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "환경부 보조금 700만원과 지자체별 보조금, 택시 추가 보조금을 받으면 실제 구입가격은 더욱 낮아진다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이랜드 둔산NC쇼핑센터 12월 착공",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354237",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "\\\"커머스가 효자\\\"...KT알파, 올해 1분기 영업익 656.4%↑",
+		"newsSubTitle": "null",
+		"newsContent": "KT알파(케이티알파)는 올해 1분기 영업이익이 연결 기준 62억3600만원으로 잠정 집계됐다고 10일 공시했다.\n이는 전년 동기 대비 656.4% 늘어난 수치다.\n같은 기간 매출액은 1319억6500만원으로 같은 기간 40.7% 증가했다.\n커머스 사업 매출은 같은 기간 23.4% 증가한 808억원을 기록했다.\n일반·건강식품, 생활·패션잡화 카테고리 분야가 매출 성장을 이끌었다.\n향후 T커머스(데이터 기반 홈쇼핑) 플랫폼 'K쇼핑'의 모바일 커머스 서비스를 확대해 성장 기반을 마련한다.\n모바일기프트 커머스 사업 매출도 설 명절 기간 기프티쇼 판매가 늘어나면서 전년 대비 27.7% 증가한 170억원을 기록했다.\n콘텐츠 사업 매출은 영화 콘텐츠가 줄어들면서 전년 대비 7.3% 감소한 92억원을 기록했다.\n콘텐츠 사업은 넷플릭스, 쿠팡플레이, 왓챠 등 OTT를 대상으로 다양한 장르의 콘텐츠 공급을 확대하고, 글로벌 판권 확보를 강화해 나갈 계획이다.\nICT 사업 매출은 통화연결음 서비스 '비즈링고'와 AICC(인공지능 컨택센터) 사업 확대 영향으로 같은 기간 35.5% 증가한 250억원을 기록했다.\nICT 사업에선 소상공인 대상 신규 통화상품 기반 영업을 강화하고 AICC 구축사업도 확대할 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT알파(케이티알파)는 올해 1분기 영업이익이 연결 기준 62억3600만원으로 잠정 집계됐다고 10일 공시했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 전년 동기 대비 656.4% 늘어난 수치다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "같은 기간 매출액은 1319억6500만원으로 같은 기간 40.7% 증가했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "커머스 사업 매출은 같은 기간 23.4% 증가한 808억원을 기록했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일반·건강식품, 생활·패션잡화 카테고리 분야가 매출 성장을 이끌었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "향후 T커머스(데이터 기반 홈쇼핑) 플랫폼 'K쇼핑'의 모바일 커머스 서비스를 확대해 성장 기반을 마련한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "모바일기프트 커머스 사업 매출도 설 명절 기간 기프티쇼 판매가 늘어나면서 전년 대비 27.7% 증가한 170억원을 기록했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "콘텐츠 사업 매출은 영화 콘텐츠가 줄어들면서 전년 대비 7.3% 감소한 92억원을 기록했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "콘텐츠 사업은 넷플릭스, 쿠팡플레이, 왓챠 등 OTT를 대상으로 다양한 장르의 콘텐츠 공급을 확대하고, 글로벌 판권 확보를 강화해 나갈 계획이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "ICT 사업 매출은 통화연결음 서비스 '비즈링고'와 AICC(인공지능 컨택센터) 사업 확대 영향으로 같은 기간 35.5% 증가한 250억원을 기록했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ICT 사업에선 소상공인 대상 신규 통화상품 기반 영업을 강화하고 AICC 구축사업도 확대할 방침이다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"커머스가 효자\\\"...KT알파, 올해 1분기 영업익 656.4%↑",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

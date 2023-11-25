@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351925",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "가장 저렴한 5G 아이폰 올까...\\\"내년 봄 아이폰SE 3세대 출시\\\" [IT썰]",
+		"newsSubTitle": "null",
+		"newsContent": "애플의 보급형 모델인 아이폰SE의 3세대 모델이 내년 1분기 출시될 것이란 관측이 제기됐다.\n출시되면 아이폰 중엔 가장 저렴한 5G(5세대 이동통신) 폰이 될 전망이다.\n21일(현지시각) GSM아레나 등 외신에 따르면 내년 초 아이폰SE 3세대는 아이폰XR 모델과 비슷한 디자인으로 출시될 전망이다.\n아이폰XR처럼 6.1인치 디스플레이와 LCD 패널이 적용될 것으로 관측된다.\n또 아이폰13과 같은 A15 바이오닉 칩셋이 탑재되며 5G(5세대 이동통신) 서비스도 지원할 것으로 예상된다.\n노치 디자인과 안면인식 기능인 페이스ID 등의 적용 여부는 알려지지 않았다.\n가격은 전작 아이폰SE와 유사한 399달러(약 47만원)선에서 책정될 것으로 전해졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플의 보급형 모델인 아이폰SE의 3세대 모델이 내년 1분기 출시될 것이란 관측이 제기됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "출시되면 아이폰 중엔 가장 저렴한 5G(5세대 이동통신) 폰이 될 전망이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "21일(현지시각) GSM아레나 등 외신에 따르면 내년 초 아이폰SE 3세대는 아이폰XR 모델과 비슷한 디자인으로 출시될 전망이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이폰XR처럼 6.1인치 디스플레이와 LCD 패널이 적용될 것으로 관측된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 아이폰13과 같은 A15 바이오닉 칩셋이 탑재되며 5G(5세대 이동통신) 서비스도 지원할 것으로 예상된다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "노치 디자인과 안면인식 기능인 페이스ID 등의 적용 여부는 알려지지 않았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가격은 전작 아이폰SE와 유사한 399달러(약 47만원)선에서 책정될 것으로 전해졌다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가장 저렴한 5G 아이폰 올까...\\\"내년 봄 아이폰SE 3세대 출시\\\" [IT썰]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

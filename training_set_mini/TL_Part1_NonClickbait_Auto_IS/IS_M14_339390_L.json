@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339390",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[ICT시사용어]네트워크 실시간 측위(Network RealTime Kinematic)",
+		"newsSubTitle": "",
+		"newsContent": "네트워크 실시간 측위(Network RealTime Kinematic)는 위성 내비게이션(GNSS) 시스템의 일반적인 오류를 수정하기 위한 측량 기술이다.\n양방향·단방향 통신을 사용하기 때문에 네트워크 초정밀 측위 기술이라고도 한다.\n군사·산업 용도 외에도 최근에는 개인용 골프 장비 등에 적용된다.\nGNSS 네트워크 방식으로 계산한 RTK 보정신호인 네트워크 RTK 보정신호는 사용자가 위치한 지점 인근에 배치된 다수의 기준국으로부터 RTK 보정신호를 수집한 후 이를 종합적으로 계산해서 사용자 위치에 적합한 RTK 보정신호를 출력한다.\n여러 기준국에서 계산한 정보를 활용해 사용자 위치에 적합한 RTK 보정신호를 계산하기 때문에 일반적인 RTK에 비해 넓은 지역에 보정신호를 생성할 수 있다는 장점이 있다.\n네트워크 RTK 보정신호는 계산 방법과 신호 구조에 따라 세 가지로 구분한다.\nVRS(Virtual Reference System)방식 네트워크 RTK 보정신호는 다수의 기준국에서 관측한 정보를 이용해 사용자 위치에 적합한 RTK 신호를 계산한다.\n네트워크 RTK 시스템이 보정신호 계산 작업을 서버에서 수행한다.\n사용자 위치 정보를 서버에 지속 전송해야 하기 때문에 양방향 통신환경이 필요하다.\nVRS 방식이 특정 지점에 대한 보정신호를 제공하는 반면에 FKP(Flachen Korrektur Paramete)방식은 기준국이 형성하는 관측망 전체에 적용할 수 있는 보정신호를 제공한다.\n수신기가 개략적인 위치를 보정면으로 선택해서 사용자 위치를 잡고 RTK 보정신호를 계산한다.\nMAC(Master Auxiliary Concept) 방식 보정신호는 주기준국과 인접한 다수의 보조기준국으로 구성되는 셀 단위 보정신호다.\n주기준국과 보조기준국 사이 거리는 100㎞ 이내다.\n주기준국이 GNSS 관측데이터, 보조 기준국이 주기준국 데이터를 각각 보조한다.\n셀 영역 내 모든 지점에 대한 보정정보를 제공한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네트워크 실시간 측위(Network RealTime Kinematic)는 위성 내비게이션(GNSS) 시스템의 일반적인 오류를 수정하기 위한 측량 기술이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양방향·단방향 통신을 사용하기 때문에 네트워크 초정밀 측위 기술이라고도 한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "군사·산업 용도 외에도 최근에는 개인용 골프 장비 등에 적용된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "GNSS 네트워크 방식으로 계산한 RTK 보정신호인 네트워크 RTK 보정신호는 사용자가 위치한 지점 인근에 배치된 다수의 기준국으로부터 RTK 보정신호를 수집한 후 이를 종합적으로 계산해서 사용자 위치에 적합한 RTK 보정신호를 출력한다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여러 기준국에서 계산한 정보를 활용해 사용자 위치에 적합한 RTK 보정신호를 계산하기 때문에 일반적인 RTK에 비해 넓은 지역에 보정신호를 생성할 수 있다는 장점이 있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네트워크 RTK 보정신호는 계산 방법과 신호 구조에 따라 세 가지로 구분한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "VRS(Virtual Reference System)방식 네트워크 RTK 보정신호는 다수의 기준국에서 관측한 정보를 이용해 사용자 위치에 적합한 RTK 신호를 계산한다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "네트워크 RTK 시스템이 보정신호 계산 작업을 서버에서 수행한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "사용자 위치 정보를 서버에 지속 전송해야 하기 때문에 양방향 통신환경이 필요하다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "VRS 방식이 특정 지점에 대한 보정신호를 제공하는 반면에 FKP(Flachen Korrektur Paramete)방식은 기준국이 형성하는 관측망 전체에 적용할 수 있는 보정신호를 제공한다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "수신기가 개략적인 위치를 보정면으로 선택해서 사용자 위치를 잡고 RTK 보정신호를 계산한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "MAC(Master Auxiliary Concept) 방식 보정신호는 주기준국과 인접한 다수의 보조기준국으로 구성되는 셀 단위 보정신호다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "주기준국과 보조기준국 사이 거리는 100㎞ 이내다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "주기준국이 GNSS 관측데이터, 보조 기준국이 주기준국 데이터를 각각 보조한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "셀 영역 내 모든 지점에 대한 보정정보를 제공한다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[ICT시사용어]네트워크 실시간 측위(Network RealTime Kinematic)",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

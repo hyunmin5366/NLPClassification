@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012412",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "현미, 쌀보다 비쌀 이유 없다",
+		"newsSubTitle": "이마트 10kg 2만5800원에 판매",
+		"newsContent": "이마트가 갑오년 새해를 맞아 '국민 건강식' 현미 가격을 인하하고 나섰다.\n이마트는 1일부터 기존 현미보다 20~35% 저렴한 2만5800원(10㎏)에 현미를 판매한다고 밝혔다.\n이번에 출시한 현미 가격은 이마트에서 판매하고 있는 10㎏ 단량의 브랜드 백미보다도 오히려 3~10% 가량 저렴한 가격으로, 현미가 백미보다 비싸다는 편견을 깨뜨릴 수 있을 것으로 기대된다.\n실제로, 현미는 백미보다 도정 과정이 한 단계 적어 생산원가는 오히려 싼 것이 정상적이지만, 시장 규모가 작아, 브랜드간 가격 경쟁으로 박리다매형 시장 구조를 가진 백미에 비해 높은 가격대가 형성돼 왔다.\n이마트는 “최근 건강에 대한 관심이 높아지면서 백미의 인당 소비량은 감소하는데 반해, 현미 소비량은 지속적으로 늘자, 가격 구조 혁신을 통해 현미 가격을 내리는 방식으로 시장 확대해 나섰다”고 밝혔다.\n이마트는 가격을 내리기 위해 농가 및 협력회사들과 6개월전부터 사전 기획을 통해 현미의 판매 가격을 낮추자는 공감대를 형성하는 한편, 물류비 등 부대비용 등을 최소화했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이마트가 갑오년 새해를 맞아 '국민 건강식' 현미 가격을 인하하고 나섰다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이마트는 1일부터 기존 현미보다 20~35% 저렴한 2만5800원(10㎏)에 현미를 판매한다고 밝혔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번에 출시한 현미 가격은 이마트에서 판매하고 있는 10㎏ 단량의 브랜드 백미보다도 오히려 3~10% 가량 저렴한 가격으로, 현미가 백미보다 비싸다는 편견을 깨뜨릴 수 있을 것으로 기대된다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "실제로, 현미는 백미보다 도정 과정이 한 단계 적어 생산원가는 오히려 싼 것이 정상적이지만, 시장 규모가 작아, 브랜드간 가격 경쟁으로 박리다매형 시장 구조를 가진 백미에 비해 높은 가격대가 형성돼 왔다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이마트는 “최근 건강에 대한 관심이 높아지면서 백미의 인당 소비량은 감소하는데 반해, 현미 소비량은 지속적으로 늘자, 가격 구조 혁신을 통해 현미 가격을 내리는 방식으로 시장 확대해 나섰다”고 밝혔다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이마트는 가격을 내리기 위해 농가 및 협력회사들과 6개월전부터 사전 기획을 통해 현미의 판매 가격을 낮추자는 공감대를 형성하는 한편, 물류비 등 부대비용 등을 최소화했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "은행에서 매긴 내 신용정보 공개 의무화되나",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,285 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335261",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "책 빌리는데 장애인복지카드 내야 하나?",
+		"newsSubTitle": "",
+		"newsContent": "시각장애인 A씨는 최근 가족 도움으로 집 주변 공공도서관 홈페이지에 회원가입을 했다.\n보고 싶은 책이 생겼기 때문이다.\n가입 절차는 비장애인과 같았다.\n그러나 막상 책을 빌리려 하자 난관에 부딪혔다.\n팩스로 장애인 복지카드나 증명서 사본을 보내야 했다.\n집에 팩스가 없다 보니 곤혹스러웠다.\n결국 서류 제출을 포기했다.\n휠체어를 끌고 가족과 도서관을 직접 찾았다.\n복지카드를 확인받고서야 어렵게 책을 손에 줬다.\n보건복지부가 보유한 장애인 데이터베이스(DB)에 일선 도서관이 연결돼 있지 않다 보니 벌어진 불편함이다.\nDB 연동이 이뤄졌다면 회원가입 시 주민등록번호 입력 단계에서 장애인임을 확인받을 수 있었다.\n대다수 도서관 사정이 비슷하다.\n국립장애인도서관에 따르면 전국에 공공도서관 수만 1020곳에 이른다.\n사립·대학 도서관까지 포함하면 5000여곳에 달할 것으로 추정된다.\n이 중 13곳만 장애인 DB를 쓴다.\n국립장애인도서관은 일선 도서관이 원할 경우 애플리케이션 프로그램 인터페이스(API)를 열어준다.\n연동 작업을 통해 장애인 DB를 쓸 수 있게 한다. 2~3일이면 회원가입 페이지에 새 API가 적용된다.\n주민등록번호만 넣으면 장애인 확인 절차가 끝난다.\n그러나 상당수 도서관은 비용 부담, 관심 부족으로 도입을 꺼린다.\n개인정보가 소홀하게 관리되는 것 아니냐는 우려가 나온다.\n제출받은 장애인 복지카드, 증명서 사본을 서류철로 보관, 책장이나 서랍에 쌓아두는 실정이다.\n그나마 일부 공공도서관들이 자발적으로 참여하고 있다.\n경북점자도서관은 홈페이지를 개편하면서 API를 연결했다.\n장애인 확인 절차를 생략할 순 없다.\n저작권법 33조는 '공표된 저작물은 시각장애인 등을 위해 점자로 복제·배포할 수 있다'고 명시했다.\n장애인임이 증명돼야만 점자책, 녹음된 자료와 같은 장애인용 도서를 빌려주게 규정한 것이다.\n전국에 장애인 수는 250만명에 달한다.\n이들은 국립중앙도서관이 운영하는 장애인 무료 책 배달 서비스 '책나래'를 이용해 지식, 정보 갈증을 채운다.\n장보성 국립장애인도서관 사무관은 “개별 도서관이 관심을 가져야 한다”며 “API 연동을 위한 정부 차원 예산 지원도 필요하다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 29,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "시각장애인 A씨는 최근 가족 도움으로 집 주변 공공도서관 홈페이지에 회원가입을 했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "보고 싶은 책이 생겼기 때문이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "가입 절차는 비장애인과 같았다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 막상 책을 빌리려 하자 난관에 부딪혔다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "팩스로 장애인 복지카드나 증명서 사본을 보내야 했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "집에 팩스가 없다 보니 곤혹스러웠다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "결국 서류 제출을 포기했다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "휠체어를 끌고 가족과 도서관을 직접 찾았다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "복지카드를 확인받고서야 어렵게 책을 손에 줬다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "보건복지부가 보유한 장애인 데이터베이스(DB)에 일선 도서관이 연결돼 있지 않다 보니 벌어진 불편함이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "DB 연동이 이뤄졌다면 회원가입 시 주민등록번호 입력 단계에서 장애인임을 확인받을 수 있었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "대다수 도서관 사정이 비슷하다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "국립장애인도서관에 따르면 전국에 공공도서관 수만 1020곳에 이른다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "사립·대학 도서관까지 포함하면 5000여곳에 달할 것으로 추정된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이 중 13곳만 장애인 DB를 쓴다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "국립장애인도서관은 일선 도서관이 원할 경우 애플리케이션 프로그램 인터페이스(API)를 열어준다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "연동 작업을 통해 장애인 DB를 쓸 수 있게 한다. 2~3일이면 회원가입 페이지에 새 API가 적용된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "주민등록번호만 넣으면 장애인 확인 절차가 끝난다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "그러나 상당수 도서관은 비용 부담, 관심 부족으로 도입을 꺼린다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "개인정보가 소홀하게 관리되는 것 아니냐는 우려가 나온다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "제출받은 장애인 복지카드, 증명서 사본을 서류철로 보관, 책장이나 서랍에 쌓아두는 실정이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "그나마 일부 공공도서관들이 자발적으로 참여하고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "경북점자도서관은 홈페이지를 개편하면서 API를 연결했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "장애인 확인 절차를 생략할 순 없다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "저작권법 33조는 '공표된 저작물은 시각장애인 등을 위해 점자로 복제·배포할 수 있다'고 명시했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "장애인임이 증명돼야만 점자책, 녹음된 자료와 같은 장애인용 도서를 빌려주게 규정한 것이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "전국에 장애인 수는 250만명에 달한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "이들은 국립중앙도서관이 운영하는 장애인 무료 책 배달 서비스 '책나래'를 이용해 지식, 정보 갈증을 채운다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "장보성 국립장애인도서관 사무관은 “개별 도서관이 관심을 가져야 한다”며 “API 연동을 위한 정부 차원 예산 지원도 필요하다”고 말했다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "책 빌리는데 장애인복지카드 내야 하나?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

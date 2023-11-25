@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352458",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"울회사 성과급 규정이 어떻게 되지\\\"…한컴에선 '규정봇'이 답한다",
+		"newsSubTitle": "null",
+		"newsContent": "한글과컴퓨터(한컴)는 사규(규정집) 내용을 묻고 답할 수 있는 인공지능(AI) 챗봇 '규정봇'을 자사 그룹웨어에 시범 적용했다고 10일 밝혔다. '규정봇'은 한컴과 한국전자통신연구원(ETRI)이 공동 개발한 '엑소브레인 행정문서 질의응답(QA)' 기술에 한글(HWP) 문서로 작성된 사규를 학습해 만들어진 챗봇(채팅 로봇)이다.\n행정 직원 대신 사규에 관해 질의응답해주는 서비스를 제공한다.\n엑소브레인 행정문서 질의응답 기술은 딥러닝 언어 모델을 이용해 단락과 표에서 사용자 질문에 대한 정답과 근거 문장을 추론하는 기술이다.\n한컴은 자사 오피스 소프트웨어 '한글'의 SDK(소프트웨어 개발 도구)를 이용해 HWP 문서의 단락과 표를 추출할 수 있도록 지원한다.\n한컴 임직원은 인사·재무·총무 등 다양한 업무에 관한 사규를 규정봇에 물어 바로 확인할 수 있다.\n예를 들어 출장을 다녀온 후 교통비를 회사에 청구하려 하거나 성과급을 얼마나 받을 수 있을지 예상해보려고 회사 내규를 찾아야 할 때 규정봇에 물으면 관련 규정을 답해준다.\n한컴은 엑소브레인 행정문서 질의응답 기술이 각종 규정과 온라인 공고 등에서 궁금한 부분에 대해 근거를 제시하며 답변할 수 있어 앞으로 활용도가 높아질 수 있다고 기대했다.\n김대기 한컴 부사장은 \\\"'규정봇'이 문서 기반 챗봇 서비스로 성공 사례가 될 수 있도록 앞으로 다양한 한글 문서에 적용해 답변 정확도 향상 등 고도화를 지속적으로 추진할 계획\\\"이라고 말했다.\n한편 규정봇 개발에 쓰인 엑소브레인 행정문서 질의응답 기술은 과학기술정보통신부와 정보통신기획평가원(IITP)의 혁신 성장 동력 프로젝트 '엑소브레인' 과제 일환으로 개발됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한글과컴퓨터(한컴)는 사규(규정집) 내용을 묻고 답할 수 있는 인공지능(AI) 챗봇 '규정봇'을 자사 그룹웨어에 시범 적용했다고 10일 밝혔다. '규정봇'은 한컴과 한국전자통신연구원(ETRI)이 공동 개발한 '엑소브레인 행정문서 질의응답(QA)' 기술에 한글(HWP) 문서로 작성된 사규를 학습해 만들어진 챗봇(채팅 로봇)이다.",
+				"sentenceSize": 183
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "행정 직원 대신 사규에 관해 질의응답해주는 서비스를 제공한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "엑소브레인 행정문서 질의응답 기술은 딥러닝 언어 모델을 이용해 단락과 표에서 사용자 질문에 대한 정답과 근거 문장을 추론하는 기술이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한컴은 자사 오피스 소프트웨어 '한글'의 SDK(소프트웨어 개발 도구)를 이용해 HWP 문서의 단락과 표를 추출할 수 있도록 지원한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한컴 임직원은 인사·재무·총무 등 다양한 업무에 관한 사규를 규정봇에 물어 바로 확인할 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예를 들어 출장을 다녀온 후 교통비를 회사에 청구하려 하거나 성과급을 얼마나 받을 수 있을지 예상해보려고 회사 내규를 찾아야 할 때 규정봇에 물으면 관련 규정을 답해준다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한컴은 엑소브레인 행정문서 질의응답 기술이 각종 규정과 온라인 공고 등에서 궁금한 부분에 대해 근거를 제시하며 답변할 수 있어 앞으로 활용도가 높아질 수 있다고 기대했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김대기 한컴 부사장은 \\\"'규정봇'이 문서 기반 챗봇 서비스로 성공 사례가 될 수 있도록 앞으로 다양한 한글 문서에 적용해 답변 정확도 향상 등 고도화를 지속적으로 추진할 계획\\\"이라고 말했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 규정봇 개발에 쓰인 엑소브레인 행정문서 질의응답 기술은 과학기술정보통신부와 정보통신기획평가원(IITP)의 혁신 성장 동력 프로젝트 '엑소브레인' 과제 일환으로 개발됐다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"울회사 성과급 규정이 어떻게 되지\\\"…한컴에선 '규정봇'이 답한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

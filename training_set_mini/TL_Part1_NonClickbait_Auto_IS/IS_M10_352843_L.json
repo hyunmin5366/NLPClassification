@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352843",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "모바일 다음 개편중 오류, 기존 버전 복귀...\\\"점검 필요\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "카카오가 13일부터 적용하려던 모바일 다음의 새 버전의 적용이 시스템 오류로 지연됐다.\n카카오는 공지사항을 통해 \\\"새벽 모바일 다음 개편 과정에서 점검이 필요한 사항을 발견하여 기존 서비스로 되돌리는 작업이 진행됐다\\\"고 밝혔다.\n카카오는 이날부터 사용자가 콘텐츠를 선택하고 발행하는 '카카오뷰'를 도입하려던 계획이었다.\n이 외에도 언론사가 직접 기사를 편집하고 발행하는 뉴스 서비스도 함께 선보이려고 했다.\n개편 모바일 다음 화면은 새벽 2시부터 5시까지만 적용됐다가 오전 6시쯤부터는 기존 버전으로 돌아간 것으로 알려졌다.\n개편 버전 적용 시점은 확정되지 않은 상태다.\n카카오 관계자는 \\\"안정적으로 서비스 배포를 진행하지 못한 점 양해 말씀 드리며 곧 새롭게 바뀐 서비스를 선보일 수 있도록 철저히 준비하도록 하겠다\\\"고 말했다.\n한편 기존 뉴스 섹션에서 제공하던 추천 기사, 랭킹 뉴스 등은 새로운 버전 적용시에는 없어질 예정이었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오가 13일부터 적용하려던 모바일 다음의 새 버전의 적용이 시스템 오류로 지연됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오는 공지사항을 통해 \\\"새벽 모바일 다음 개편 과정에서 점검이 필요한 사항을 발견하여 기존 서비스로 되돌리는 작업이 진행됐다\\\"고 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카카오는 이날부터 사용자가 콘텐츠를 선택하고 발행하는 '카카오뷰'를 도입하려던 계획이었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 외에도 언론사가 직접 기사를 편집하고 발행하는 뉴스 서비스도 함께 선보이려고 했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개편 모바일 다음 화면은 새벽 2시부터 5시까지만 적용됐다가 오전 6시쯤부터는 기존 버전으로 돌아간 것으로 알려졌다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "개편 버전 적용 시점은 확정되지 않은 상태다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "카카오 관계자는 \\\"안정적으로 서비스 배포를 진행하지 못한 점 양해 말씀 드리며 곧 새롭게 바뀐 서비스를 선보일 수 있도록 철저히 준비하도록 하겠다\\\"고 말했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 기존 뉴스 섹션에서 제공하던 추천 기사, 랭킹 뉴스 등은 새로운 버전 적용시에는 없어질 예정이었다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모바일 다음 개편중 오류, 기존 버전 복귀...\\\"점검 필요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

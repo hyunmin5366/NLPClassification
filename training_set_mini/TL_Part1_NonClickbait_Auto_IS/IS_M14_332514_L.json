@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332514",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[알림]제2기 인공지능 최고위 과정 모집",
+		"newsSubTitle": "",
+		"newsContent": "가천대(총장 이길여)와 전자신문사가 2기 인공지능(AI) 최고위 과정 원우를 모집합니다.\n이 과정은 가천대와 전자신문사가 공동 주최하며, 가천인공지능기술원이 주관합니다.\n최고위 과정은 4차 산업혁명 핵심 기술인 AI에 대한 통찰력을 제시합니다.\nAI 알파고를 통해 우리 일상과 익숙해진 로봇, 빅데이터 산업의 흐름도 알려줍니다.\n사물인터넷(IoT), 자율주행자동차, 헬스케어 분야도 다룹니다.\n교수진은 전문가로 구성했습니다.\n김진형 지능정보기술원장, 오해석 가천대 인공지능기술원장(전 대통령실 IT 특보), 백만기 산업통상자원부 R&D전략기획단장, 박명순 SK텔레콤 본부장, 전제민 아마존 이사 등 혁신 현장을 지휘하는 산·학·연·관 최고 전문가들이 인사이트를 전달합니다.\n4차 산업혁명과 관련한 해외 현장 교육도 병행합니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가천대(총장 이길여)와 전자신문사가 2기 인공지능(AI) 최고위 과정 원우를 모집합니다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 과정은 가천대와 전자신문사가 공동 주최하며, 가천인공지능기술원이 주관합니다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최고위 과정은 4차 산업혁명 핵심 기술인 AI에 대한 통찰력을 제시합니다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AI 알파고를 통해 우리 일상과 익숙해진 로봇, 빅데이터 산업의 흐름도 알려줍니다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사물인터넷(IoT), 자율주행자동차, 헬스케어 분야도 다룹니다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "교수진은 전문가로 구성했습니다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김진형 지능정보기술원장, 오해석 가천대 인공지능기술원장(전 대통령실 IT 특보), 백만기 산업통상자원부 R&D전략기획단장, 박명순 SK텔레콤 본부장, 전제민 아마존 이사 등 혁신 현장을 지휘하는 산·학·연·관 최고 전문가들이 인사이트를 전달합니다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "4차 산업혁명과 관련한 해외 현장 교육도 병행합니다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[알림]제2기 인공지능 최고위 과정 모집",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

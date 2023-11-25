@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327296",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "최기영 장관 \\\"중저가 쿼터제 도입은 신중해야\\\"...LG폰 철수, 동향 보고 대책 마련",
+		"newsSubTitle": "",
+		"newsContent": "최기영 과학기술정보통신부 장관이 중저가 단말기 쿼터제 도입에 신중하게 생각해야 한다는 입장을 표시했다.\n최 장관은 17일 국회 국회 과학기술정보방송통신위원회 전체회의에서 중저가 단말기 쿼터제 도입에 대한 의견을 묻는 양정숙 의원(무소속)의 질의에 “현재 제조사가 중저가 단말기를 판매하고 있으며 판매 결과를 살펴봐야 한다”며 “쿼터제는 신중하게 생각하고 대처해야 한다”고 말했다.\n중저가 단말기 쿼터제는 제조사가 출고하는 스마트폰 가운데 일정 비율 이상을 중저가에 모델에 배정하도록 의무화하는 제도다.\n최 장관은 삼성전자와 애플의 단말기 독과점 유통구조로 단말기가 비싸진다는 지적에 대해 “자급제폰 활성화 노력을 많이 하고 있고, 앞으로 개선될 것으로 생각한다”고 답했다.\n이날 양 의원은 “LG전자가 휴대폰 사업 철수를 검토하고 있어 독과점에 따른 가격 상승이 우려된다”며 “고가 스마트폰 비중도 높아지고 있다”고 지적했다 최 장관은 LG전자 휴대폰 사업 철수설과 관련해 대책 마련 가능성을 시사했다.\n최 장관은 “공식화된 것은 아니지만 앞으로 어떻게 진행될 지 동향을 보고 할 수 있는 범위에서 대책을 마련하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최기영 과학기술정보통신부 장관이 중저가 단말기 쿼터제 도입에 신중하게 생각해야 한다는 입장을 표시했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최 장관은 17일 국회 국회 과학기술정보방송통신위원회 전체회의에서 중저가 단말기 쿼터제 도입에 대한 의견을 묻는 양정숙 의원(무소속)의 질의에 “현재 제조사가 중저가 단말기를 판매하고 있으며 판매 결과를 살펴봐야 한다”며 “쿼터제는 신중하게 생각하고 대처해야 한다”고 말했다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "중저가 단말기 쿼터제는 제조사가 출고하는 스마트폰 가운데 일정 비율 이상을 중저가에 모델에 배정하도록 의무화하는 제도다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최 장관은 삼성전자와 애플의 단말기 독과점 유통구조로 단말기가 비싸진다는 지적에 대해 “자급제폰 활성화 노력을 많이 하고 있고, 앞으로 개선될 것으로 생각한다”고 답했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 양 의원은 “LG전자가 휴대폰 사업 철수를 검토하고 있어 독과점에 따른 가격 상승이 우려된다”며 “고가 스마트폰 비중도 높아지고 있다”고 지적했다 최 장관은 LG전자 휴대폰 사업 철수설과 관련해 대책 마련 가능성을 시사했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최 장관은 “공식화된 것은 아니지만 앞으로 어떻게 진행될 지 동향을 보고 할 수 있는 범위에서 대책을 마련하겠다”고 말했다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최기영 장관 \\\"중저가 쿼터제 도입은 신중해야\\\"...LG폰 철수, 동향 보고 대책 마련",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

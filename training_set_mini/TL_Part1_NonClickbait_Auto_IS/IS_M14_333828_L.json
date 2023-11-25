@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333828",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "나노엑스, 마이크로 LED 검사 프로브 개발…\\\"불량칩 잡아 패널 수율 개선\\\"",
+		"newsSubTitle": "",
+		"newsContent": "마이크로 발광다이오드(LED)칩 이상 유무를 진단할 수 있는 기술이 국내서 개발됐다.\n마이크로 LED 모듈 및 디스플레이 제조를 어렵게 했던 장애가 해소될지 주목된다.\n반도체 장비 업체인 나노엑스는 마이크로 LED칩 전기특성과 광특성을 측정할 수 있는 프로브 헤드를 개발했다고 7일 밝혔다.\n이 장치는 마이크로 LED칩 성능을 측정하는 것이다.\n전류를 가했을 때의 전압 변화, 빛의 파장과 세기 등을 확인해 마이크로 LED가 정상 작동하는지 검사한다.\n마이크로 LED는 통상 100마이크로미터(1㎛=100만분의 1m) 이하의 칩을 칭한다.\n나노엑스 프로브는 50㎛까지 대응할 수 있다.\n기존에는 마이크로 LED칩 자체를 검사하기 힘들었다.\n크기가 워낙 작아 칩 단위의 검사가 불가능했고, 마이크로 LED를 모아 모듈이나 패널을 만든 후에 이상 유무를 확인했다.\n그러나 이는 문제가 적지 않았다.\n불량품이 발견되면 다시 모듈에서 문제가 있는 마이크로 LED칩을 제거하고 다시 정상 칩을 부착해야 했기 때문에 디스플레이 제조를 어렵게 했고 비용 상승을 유발했다.\n장필국 나노엑스 최고기술책임자(CTO)는 “불량 칩 교체는 제조사들이 가장 고민하고 있는 부분”이라고 말했다.\n나노엑스 프로브 헤드는 5~10㎛ 크기 핀이 장착돼 마이크로 LED에 핀을 접촉시켜 검사한다.\n마이크로 LED보다 작은 초미세 핀을 사용해 각각의 칩을 직접 측정한다.\n핀은 탄성을 갖춰 마이크로 LED마다 높이가 다를 때(평탄도 차이) 생길 수 있는 비접촉 문제를 해결했다고 나노엑스는 강조했다.\n나노엑스는 이 프로브 헤드 기술을 활용하면 불량률 감소 등 마이크로 LED 모듈 및 디스플레이 양산에 큰 효과를 낼 것으로 보고 프로브 카드와 장비로 상용화할 계획이라고 밝혔다.\n장필국 CTO는 “국내외 특허를 출원했으며 현재 삼성전자, 서울바이오시스와 협력하고 있다”고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마이크로 발광다이오드(LED)칩 이상 유무를 진단할 수 있는 기술이 국내서 개발됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "마이크로 LED 모듈 및 디스플레이 제조를 어렵게 했던 장애가 해소될지 주목된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "반도체 장비 업체인 나노엑스는 마이크로 LED칩 전기특성과 광특성을 측정할 수 있는 프로브 헤드를 개발했다고 7일 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 장치는 마이크로 LED칩 성능을 측정하는 것이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전류를 가했을 때의 전압 변화, 빛의 파장과 세기 등을 확인해 마이크로 LED가 정상 작동하는지 검사한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마이크로 LED는 통상 100마이크로미터(1㎛=100만분의 1m) 이하의 칩을 칭한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "나노엑스 프로브는 50㎛까지 대응할 수 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기존에는 마이크로 LED칩 자체를 검사하기 힘들었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "크기가 워낙 작아 칩 단위의 검사가 불가능했고, 마이크로 LED를 모아 모듈이나 패널을 만든 후에 이상 유무를 확인했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그러나 이는 문제가 적지 않았다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "불량품이 발견되면 다시 모듈에서 문제가 있는 마이크로 LED칩을 제거하고 다시 정상 칩을 부착해야 했기 때문에 디스플레이 제조를 어렵게 했고 비용 상승을 유발했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "장필국 나노엑스 최고기술책임자(CTO)는 “불량 칩 교체는 제조사들이 가장 고민하고 있는 부분”이라고 말했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "나노엑스 프로브 헤드는 5~10㎛ 크기 핀이 장착돼 마이크로 LED에 핀을 접촉시켜 검사한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "마이크로 LED보다 작은 초미세 핀을 사용해 각각의 칩을 직접 측정한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "핀은 탄성을 갖춰 마이크로 LED마다 높이가 다를 때(평탄도 차이) 생길 수 있는 비접촉 문제를 해결했다고 나노엑스는 강조했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "나노엑스는 이 프로브 헤드 기술을 활용하면 불량률 감소 등 마이크로 LED 모듈 및 디스플레이 양산에 큰 효과를 낼 것으로 보고 프로브 카드와 장비로 상용화할 계획이라고 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "장필국 CTO는 “국내외 특허를 출원했으며 현재 삼성전자, 서울바이오시스와 협력하고 있다”고 전했다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "나노엑스, 마이크로 LED 검사 프로브 개발…\\\"불량칩 잡아 패널 수율 개선\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

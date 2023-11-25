@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330481",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[글로벌테크코리아2021]ASML \\\"하이NA EUV로 반도체 공정 비용 시간 대폭 단축\\\"",
+		"newsSubTitle": "",
+		"newsContent": "ASML이 준비하는 차세대 노광장비인 '하이 NA 극자외선(High NA EUV)'장비가 이르면 2025년 양산될 전망이다.\nASML는 하이 NA EUV 장비가 반도체 공정 비용과 개발 기간 증가라는 반도체 업계 고민을 해결할 '승부수'가 될 것이라고 자신했다.\n정진항 ASML코리아 상무는 테크코리아 2021에서 '하이 NA, EUV 기술의 미래' 주제 발표를 통해 차세대 EUV 노광장비 개발 현황과 기술 정보를 공유했다.\n하이 NA EUV는 EUV 장비 해상력을 높여 보다 미세한 반도체 회로를 구현할 수 있는 장비로, 최근 인텔이 첨단 공정을 위해 ASML 하이 NA EUV 장비를 우선 공급받기로 하면서 업계 주목을 받고 있다.\n정 상무는 “현재 하이 NA EUV 시제품 생산을 위해 개발을 진행 중”이라며 “이르면 2025년 하이 NA 장비를 양산할 수 있을 것”이라고 밝혔다.\n정 상무는 반도체 제조에서 미세 공정 적용이 확대되면서 하이 NA EUV 수요가 커질 것이라고 예측했다.\n그는 “하이 NA EUV는 (반도체 회로의) 싱글 패터닝 구현에 필요하다”면서 “싱글 패터닝을 반도체 공정에 적용할 경우 마스크 수를 줄여 공정을 단순화하고 시간과 비용을 줄일 수 있다”고 설명했다.\n반도체 노광 공정에서 패터닝 횟수는 공정 효율화와 직결된다.\n원하는 회로를 한번(싱글 패터닝)에 그릴수록 회로 패턴이 새겨진 마스크 수를 줄일 수 있어 비용을 절감하고 공정 시간을 단축한다.\n최근 미세 공정으로 전환하면서 싱글 패터닝에 대한 요구가 크게 늘고 있다.\nASML EUV 장비는 10나노 이하 미세 공정도 싱글 패터닝이 가능하도록 지원한다.\n그러나 반도체 공정이 보다 미세화할 경우 현재 EUV 장비도 결국 멀티 패터닝 작업을 피할 수 없을 것이란 게 정 상무 설명이다.\nASML이 현재 EUV 장비의 렌즈 수차(NA)를 0.33에서 0.55까지 끌어 올린 '하이 NA' EUV를 개발하는 이유다.\n정 상무는 “현재 0.33NA도 한계에 도달하면 마스크 수가 증가하는데 하이 NA(0.55)를 적용하면 다시 싱글 패터닝이 가능해 마스크 수를 줄일 수 있다”고 말했다.\n현재 ASML은 빛 입사각과 반사각 간 간섭 등 기술 문제를 해결하고 시제품 생산에 박차를 가하고 있다.\n기존 EUV 장비보다 생산성 높은 반도체 웨이퍼를 만들기 위한 기술 구현이 한창이다.\n정 상무는 “시제품을 글로벌 반도체연구소인 아이멕과 협업을 통해 만들고 있다”면서 “하이 NA 시스템 통합을 위한 공장 증설도 이뤄지고 있다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "ASML이 준비하는 차세대 노광장비인 '하이 NA 극자외선(High NA EUV)'장비가 이르면 2025년 양산될 전망이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ASML는 하이 NA EUV 장비가 반도체 공정 비용과 개발 기간 증가라는 반도체 업계 고민을 해결할 '승부수'가 될 것이라고 자신했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정진항 ASML코리아 상무는 테크코리아 2021에서 '하이 NA, EUV 기술의 미래' 주제 발표를 통해 차세대 EUV 노광장비 개발 현황과 기술 정보를 공유했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하이 NA EUV는 EUV 장비 해상력을 높여 보다 미세한 반도체 회로를 구현할 수 있는 장비로, 최근 인텔이 첨단 공정을 위해 ASML 하이 NA EUV 장비를 우선 공급받기로 하면서 업계 주목을 받고 있다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정 상무는 “현재 하이 NA EUV 시제품 생산을 위해 개발을 진행 중”이라며 “이르면 2025년 하이 NA 장비를 양산할 수 있을 것”이라고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정 상무는 반도체 제조에서 미세 공정 적용이 확대되면서 하이 NA EUV 수요가 커질 것이라고 예측했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 “하이 NA EUV는 (반도체 회로의) 싱글 패터닝 구현에 필요하다”면서 “싱글 패터닝을 반도체 공정에 적용할 경우 마스크 수를 줄여 공정을 단순화하고 시간과 비용을 줄일 수 있다”고 설명했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "반도체 노광 공정에서 패터닝 횟수는 공정 효율화와 직결된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "원하는 회로를 한번(싱글 패터닝)에 그릴수록 회로 패턴이 새겨진 마스크 수를 줄일 수 있어 비용을 절감하고 공정 시간을 단축한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "최근 미세 공정으로 전환하면서 싱글 패터닝에 대한 요구가 크게 늘고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ASML EUV 장비는 10나노 이하 미세 공정도 싱글 패터닝이 가능하도록 지원한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "그러나 반도체 공정이 보다 미세화할 경우 현재 EUV 장비도 결국 멀티 패터닝 작업을 피할 수 없을 것이란 게 정 상무 설명이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "ASML이 현재 EUV 장비의 렌즈 수차(NA)를 0.33에서 0.55까지 끌어 올린 '하이 NA' EUV를 개발하는 이유다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "정 상무는 “현재 0.33NA도 한계에 도달하면 마스크 수가 증가하는데 하이 NA(0.55)를 적용하면 다시 싱글 패터닝이 가능해 마스크 수를 줄일 수 있다”고 말했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "현재 ASML은 빛 입사각과 반사각 간 간섭 등 기술 문제를 해결하고 시제품 생산에 박차를 가하고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "기존 EUV 장비보다 생산성 높은 반도체 웨이퍼를 만들기 위한 기술 구현이 한창이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "정 상무는 “시제품을 글로벌 반도체연구소인 아이멕과 협업을 통해 만들고 있다”면서 “하이 NA 시스템 통합을 위한 공장 증설도 이뤄지고 있다”고 덧붙였다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[글로벌테크코리아2021]ASML \\\"하이NA EUV로 반도체 공정 비용 시간 대폭 단축\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

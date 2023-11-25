@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008074",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "대전 537호 충남 741호 착공",
+		"newsSubTitle": "지난달 주택 공급동향",
+		"newsContent": "지난달 주택 착공실적은 대전은 537호, 충남은 741호 등 전국에서 모두 1만36호로 나타났다.\n또 대전 195호, 충남 1888호, 서울 7033호 등 전국에서 2만2704호의 주택이 준공됐다.\n20일 국토해양부에 따르면 정부는 주택공급통계정보시스템(HIS)을 통해 생산된 주택 착공실적을 매달 발표하기로 하고 올해 첫 착공실적을 공개했다.\n지난달 공동주택 분양실적은 대전과 충남에는 한 세대도 없고 서울 966호, 경기 1098호 등 전국에서 3627호가 분양됐다.\n이달에도 대전ㆍ충남에는 분양계획은 한 세대도 없는 가운데 서울 9316호 등 대부분 수도권에서 10432호가 분양될 계획이다.\n그동안 주택건설 인허가 위주로 통계가 발표됐다.\n하지만 앞으로 준공, 착공실적이 생산돼 주택건설 전 단계(인허가→착공→분양→준공)의 실적 집계가 가능하게 됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 주택 착공실적은 대전은 537호, 충남은 741호 등 전국에서 모두 1만36호로 나타났다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "또 대전 195호, 충남 1888호, 서울 7033호 등 전국에서 2만2704호의 주택이 준공됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "20일 국토해양부에 따르면 정부는 주택공급통계정보시스템(HIS)을 통해 생산된 주택 착공실적을 매달 발표하기로 하고 올해 첫 착공실적을 공개했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난달 공동주택 분양실적은 대전과 충남에는 한 세대도 없고 서울 966호, 경기 1098호 등 전국에서 3627호가 분양됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이달에도 대전ㆍ충남에는 분양계획은 한 세대도 없는 가운데 서울 9316호 등 대부분 수도권에서 10432호가 분양될 계획이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그동안 주택건설 인허가 위주로 통계가 발표됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 앞으로 준공, 착공실적이 생산돼 주택건설 전 단계(인허가→착공→분양→준공)의 실적 집계가 가능하게 됐다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "특허청 “연간 100만원이면 해외 지재권 분쟁 걱정 끝”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

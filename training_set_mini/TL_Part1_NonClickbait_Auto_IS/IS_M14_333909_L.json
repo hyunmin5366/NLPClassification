@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333909",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[주목할 우수 산업기술]테크란, 밸브 내부누설 진단·감시",
+		"newsSubTitle": "",
+		"newsContent": "산업현장에 설치된 밸브는 장기 사용에 따른 내구성 약화, 외력에 의한 파손 등으로 정상작동을 하지 않는 경우가 있다.\n안전사고를 막기 위해서는 현장에서 밸브 상태 상시 모니터링과 유지보수를 진행해야 한다.\n밸브 내부 누설을 진단하기 위해서는 유량 레벨 감소, 압력계를 이용한 압력차, 온도, 습도 측정법이 있다.\n진단절차가 복잡해 간접적 측정으로 상당수 대체한다.\n테크란 밸브 누설 진단 기술은 밸브 관련 데이터베이스(DB)를 기초로, 내부 누설 여부와 누설량, 누설 위치 등을 측정한다.\n상태를 바로 확인한다.\n고정식 기술은 원자력 발전소에서 채택됐다.\n이동식 기술도 실용화 단계에 도달했으며, 등록 특허 권리 4건을 확보했다.\n여러 개 밸브를 동시에 실시간으로 누설 감지한 것은 차별화 요소다.\n누설 발생원, 누설상태 추이 분석이 가능하며 필터링 기술로 미량 유체 누설도 진단한다.\n한국수력원자력이 개발, 적용, 보유 중에 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "산업현장에 설치된 밸브는 장기 사용에 따른 내구성 약화, 외력에 의한 파손 등으로 정상작동을 하지 않는 경우가 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안전사고를 막기 위해서는 현장에서 밸브 상태 상시 모니터링과 유지보수를 진행해야 한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "밸브 내부 누설을 진단하기 위해서는 유량 레벨 감소, 압력계를 이용한 압력차, 온도, 습도 측정법이 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "진단절차가 복잡해 간접적 측정으로 상당수 대체한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "테크란 밸브 누설 진단 기술은 밸브 관련 데이터베이스(DB)를 기초로, 내부 누설 여부와 누설량, 누설 위치 등을 측정한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "상태를 바로 확인한다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "고정식 기술은 원자력 발전소에서 채택됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이동식 기술도 실용화 단계에 도달했으며, 등록 특허 권리 4건을 확보했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "여러 개 밸브를 동시에 실시간으로 누설 감지한 것은 차별화 요소다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "누설 발생원, 누설상태 추이 분석이 가능하며 필터링 기술로 미량 유체 누설도 진단한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한국수력원자력이 개발, 적용, 보유 중에 있다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[주목할 우수 산업기술]테크란, 밸브 내부누설 진단·감시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

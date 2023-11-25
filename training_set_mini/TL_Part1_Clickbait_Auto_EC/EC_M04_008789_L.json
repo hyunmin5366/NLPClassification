@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008789",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "은행계 보험사 실적 마이너스",
+		"newsSubTitle": "수십억씩 적자… 최고 2301억",
+		"newsContent": "금융지주사들이 보험업 강화를 선언했지만, 은행권 보험사들이 대부분 적자를 낸 것으로 나타났다.\n20일 금융권 등에 따르면, 은행계 보험사 6곳을 포함해 23개 주요 생명보험사 중 2010회계연도(2010년 4월~2011년 3월)에서 적자를 낸 곳은 모두 5곳이다.\n순손실을 기록한 5곳 중 4곳은 은행계 보험사다.\n다시 말해 6개의 은행계 보험사 중 4곳의 실적이 마이너스를 기록한 것이다.\n산은금융지주 계열사인 KDB생명이 순손실 2301억원으로 가장 많은 적자를 보였다.\n하나금융지주 계열사인 하나HSBC생명은 92억원의 순손실을 기록했고, 우리금융지주 계열사인 우리아비바생명은 20억원, 기업은행 계열사인 IBK연금보험의 순손실도 31억원에 달했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융지주사들이 보험업 강화를 선언했지만, 은행권 보험사들이 대부분 적자를 낸 것으로 나타났다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 금융권 등에 따르면, 은행계 보험사 6곳을 포함해 23개 주요 생명보험사 중 2010회계연도(2010년 4월~2011년 3월)에서 적자를 낸 곳은 모두 5곳이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "순손실을 기록한 5곳 중 4곳은 은행계 보험사다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다시 말해 6개의 은행계 보험사 중 4곳의 실적이 마이너스를 기록한 것이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "산은금융지주 계열사인 KDB생명이 순손실 2301억원으로 가장 많은 적자를 보였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하나금융지주 계열사인 하나HSBC생명은 92억원의 순손실을 기록했고, 우리금융지주 계열사인 우리아비바생명은 20억원, 기업은행 계열사인 IBK연금보험의 순손실도 31억원에 달했다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이피프라임, 신규 웹소설 플랫폼 '와글' 론칭",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

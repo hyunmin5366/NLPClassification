@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337713",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "KISA, CPU 칩셋 보안 취약점 피해예방 위해 업데이트 권고",
+		"newsSubTitle": "",
+		"newsContent": "한국인터넷진흥원(KISA∙원장 김석환)은 최근 발견된 컴퓨터 중앙처리장치(CPU) 제품 보안취약점으로 인한 해킹 피해 예방을 위해 PC∙모바일 기기 운용체계(OS) 보안 패치를 업데이트를 권고했다.\nKISA는 \\\"이번 보안 취약점은 컴퓨터∙모바일 기기 CPU 메모리에 저장된 식별번호∙로그인 비밀번호 등 중요 정보가 해킹 위협에 노출될 수 있는 결함\\\"이라며 \\\"현시점에서 보안 취약점을 해결하는 방안은 사용 중인 PC와 스마트폰 OS를 최신 업데이트하는 것\\\"이라고 밝혔다.\n9일 현재 윈도∙리눅스 등에서 긴급 보안 패치를 개발해 최신 보안 업데이트를 배포한다.\n마이크로소프트(MS)는 윈도10을 비롯한 윈도우 7∙8 보안 업데이트를 시행했다.\n레드햇∙데비안 등 리눅스 계열은 보안 업데이트를 지난 4일부터 배포한다.\n애플 맥(Mac)OS∙아이오에스(iOS), 구글 안드로이드도 업데이트를 내놨다.\n이동근 KISA 침해사고분석단장은 \\\"이번 CPU 취약점을 악용한 해킹 피해사례는 국내외에서 아직까지 발견되지 않았다\\\"며 \\\"만일을 대비해 사용 중인 OS 등을 최신 버전으로 업데이트하고 최신 업데이트가 제공되지 않는 제품을 사용할 때에는 패치 예정일을 확인해 패치를 적용해야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국인터넷진흥원(KISA∙원장 김석환)은 최근 발견된 컴퓨터 중앙처리장치(CPU) 제품 보안취약점으로 인한 해킹 피해 예방을 위해 PC∙모바일 기기 운용체계(OS) 보안 패치를 업데이트를 권고했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KISA는 \\\"이번 보안 취약점은 컴퓨터∙모바일 기기 CPU 메모리에 저장된 식별번호∙로그인 비밀번호 등 중요 정보가 해킹 위협에 노출될 수 있는 결함\\\"이라며 \\\"현시점에서 보안 취약점을 해결하는 방안은 사용 중인 PC와 스마트폰 OS를 최신 업데이트하는 것\\\"이라고 밝혔다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "9일 현재 윈도∙리눅스 등에서 긴급 보안 패치를 개발해 최신 보안 업데이트를 배포한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마이크로소프트(MS)는 윈도10을 비롯한 윈도우 7∙8 보안 업데이트를 시행했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "레드햇∙데비안 등 리눅스 계열은 보안 업데이트를 지난 4일부터 배포한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "애플 맥(Mac)OS∙아이오에스(iOS), 구글 안드로이드도 업데이트를 내놨다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이동근 KISA 침해사고분석단장은 \\\"이번 CPU 취약점을 악용한 해킹 피해사례는 국내외에서 아직까지 발견되지 않았다\\\"며 \\\"만일을 대비해 사용 중인 OS 등을 최신 버전으로 업데이트하고 최신 업데이트가 제공되지 않는 제품을 사용할 때에는 패치 예정일을 확인해 패치를 적용해야 한다\\\"고 말했다.",
+				"sentenceSize": 166
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KISA, CPU 칩셋 보안 취약점 피해예방 위해 업데이트 권고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015405",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "무역수지 70억 … 47개월 연속 흑자행진",
+		"newsSubTitle": "유선통신 늘고 반도체 등 감소",
+		"newsContent": "국내 무역수지가 47개월 연속 흑자행진을 이어갔다.\n17일 관세청이 공개한 2015년 12월 수출입 동향 자료를 보면, 지난해 12월 수출은 전년 동월 대비 14.1% 감소한 425억 달러, 수입은 19.2% 감소한 355억 달러를 기록, 무역흑자는 70억 달러를 달성했다.\n무역수지의 경우 지난 2012년 2월 이후 47개월 연속 흑자를 기록했다.\n우선 수출부문에서 유선통신기기(26.3%) 등은 증가한 반면, 반도체(-17.2%)와 승용차(-10.3%), 선박(-33.8%), 석유제품(-28.0%), 자동차부품(-3.3%), 액정디바이스(-29.2%) 등은 감소했다.\n또 수입의 경우 승용차(31.7%) 등은 증가했고, 원유(-31.3%), 화공품(-8.4%), 반도체(-15.7%), 기계류(-9.7%), 정보통신기기(-23.7%) 등은 감소한 것으로 집계됐다.\n한편, 2015년 연간 수출은 5269억 달러, 수입은 4365억 달러를 기록해, 무역수지는 904억 달러 흑자를 달성했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 무역수지가 47개월 연속 흑자행진을 이어갔다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 관세청이 공개한 2015년 12월 수출입 동향 자료를 보면, 지난해 12월 수출은 전년 동월 대비 14.1% 감소한 425억 달러, 수입은 19.2% 감소한 355억 달러를 기록, 무역흑자는 70억 달러를 달성했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "무역수지의 경우 지난 2012년 2월 이후 47개월 연속 흑자를 기록했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우선 수출부문에서 유선통신기기(26.3%) 등은 증가한 반면, 반도체(-17.2%)와 승용차(-10.3%), 선박(-33.8%), 석유제품(-28.0%), 자동차부품(-3.3%), 액정디바이스(-29.2%) 등은 감소했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 수입의 경우 승용차(31.7%) 등은 증가했고, 원유(-31.3%), 화공품(-8.4%), 반도체(-15.7%), 기계류(-9.7%), 정보통신기기(-23.7%) 등은 감소한 것으로 집계됐다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 2015년 연간 수출은 5269억 달러, 수입은 4365억 달러를 기록해, 무역수지는 904억 달러 흑자를 달성했다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우리은행, 사회초년생 특화 '첫급여 우리 패키지' 출시",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

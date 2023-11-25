@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_346982",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "택시앱 서비스 이것이 궁금하다",
+		"newsSubTitle": "null",
+		"newsContent": "택시앱이 갑작스럽게 부상한 만큼 궁금한 점도 많다.\n택시앱을 이용해 본 승객들의 궁금증을 택시앱 서비스 기업들에게 물어보았다.\nQ. 기사들이 이동 거리 등에 따라 고객을 차별할 수도 있을 것 같은데 A. 택시앱의 원조격인 우버는 고객을 차별해 승차 거부하는 기사에게 페널티를 주고 3번 이상 승차 거부 시 퇴출시킨다.\n현재 국내 택시앱 기업 중에는 SK플래닛이 유일하게 기사의 배차 거부 반복 시 승객 배정 횟수를 줄이는 알고리즘을 적용하고 있다.\n이는 티맵택시의 특징 중 하나인 추가요금설정 때문이다.\n추가요금설정 기능은 배차가 수월하지 않은 심야시간대에 택시 운행률을 높이기 위해 마련됐지만, 반대로 추가요금을 설정하지 않는 고객에게 콜을 거부하는 차별이 발생할 수 있다.\n이를 해소하기 위해 성실하게 콜을 받는 택시기사에게 더 좋은 콜을 연결시키는 시스템을 적용했다.\n백기사는 승객들의 평가를 모니터링해 기준 미달 기사에게는 피드백을 주고 친절 기사로 선정된 기사에게는 인센티브를 제공한다.\nQ. 기사뿐만 아니라 승객의 태도를 평가하는 앱도 있다는데 A. 다음카카오와 리모택시는 기사와 승객이 상호 평가하는 시스템을 갖춰 기사도 승객의 태도에 점수를 매길 수 있다.\n이는 기사의 권리를 증진시키기 위한 제도다.\n영업방해 행위나 기사에게 불쾌한 행동을 하는 승객 문제를 방치하면 기사의 불친절로 이어질 수 있기 때문이다.\n양성우 리모택시 대표는 “기사들의 열악한 영업환경 개선이 동반돼야 택시 서비스의 품질도 개선된다”고 말했다.\n다음카카오는 승객이 택시를 호출한 상태에서 다른 택시를 타고 가버린 경우 기사가 이를 승객 평가제도를 이용해 신고할 수 있다.\n신고가 여러 번 쌓인 승객을 기사가 사전에 확인해 헛수고를 줄일 수 있다.\nQ. 교통 약자를 위한 서비스나 특별한 서비스는 없는가 A. 백기사는 사전에 기사에게 ‘임산부’, ‘아이동반’ 등의 메시지를 보낼 수 있는 옵션을 제공한다.\n기사가 사전 메시지를 확인한 후 콜을 받기 때문에 승차거부 할 염려가 없다.\n리모택시는 일반 호출서비스인 ‘리모’와 모범택시 예약서비스인 ‘리모로얄’을 따로 제공한다.\n우버의 리무진 서비스 ‘우버블랙’과 유사하다. 30분 전에 탑승지와 탑승시간을 예약하면 원하는 시간, 원하는 장소에서 모범택시를 이용할 수 있다.\n일반택시와 달리 휴대폰 충전, 생수 제공, 도어 개폐, 수하물 운반 등의 서비스를 제공한다.\n다른 기업들은 아직 서비스를 다양화하고 있지 않으나 다양한 교통 약자에 대한 효과적 지원방법을 모색 중이라고 밝혔다.\nQ. 전화번호 등 고객 정보 유출 문제는 없나.\nA. 모든 택시앱은 ‘안심번호 서비스’를 제공하고 있다.\n승객뿐만 아니라 기사의 번호도 노출시키지 않는다.\n업체들은 전화번호 외의 개인정보도 모두 사전동의 후 수집하고 수집한 개인정보를 암호화 해 택시앱 이용에만 사용한다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "택시앱이 갑작스럽게 부상한 만큼 궁금한 점도 많다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "택시앱을 이용해 본 승객들의 궁금증을 택시앱 서비스 기업들에게 물어보았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "Q. 기사들이 이동 거리 등에 따라 고객을 차별할 수도 있을 것 같은데 A. 택시앱의 원조격인 우버는 고객을 차별해 승차 거부하는 기사에게 페널티를 주고 3번 이상 승차 거부 시 퇴출시킨다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 국내 택시앱 기업 중에는 SK플래닛이 유일하게 기사의 배차 거부 반복 시 승객 배정 횟수를 줄이는 알고리즘을 적용하고 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 티맵택시의 특징 중 하나인 추가요금설정 때문이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "추가요금설정 기능은 배차가 수월하지 않은 심야시간대에 택시 운행률을 높이기 위해 마련됐지만, 반대로 추가요금을 설정하지 않는 고객에게 콜을 거부하는 차별이 발생할 수 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 해소하기 위해 성실하게 콜을 받는 택시기사에게 더 좋은 콜을 연결시키는 시스템을 적용했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "백기사는 승객들의 평가를 모니터링해 기준 미달 기사에게는 피드백을 주고 친절 기사로 선정된 기사에게는 인센티브를 제공한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "Q. 기사뿐만 아니라 승객의 태도를 평가하는 앱도 있다는데 A. 다음카카오와 리모택시는 기사와 승객이 상호 평가하는 시스템을 갖춰 기사도 승객의 태도에 점수를 매길 수 있다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이는 기사의 권리를 증진시키기 위한 제도다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "영업방해 행위나 기사에게 불쾌한 행동을 하는 승객 문제를 방치하면 기사의 불친절로 이어질 수 있기 때문이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "양성우 리모택시 대표는 “기사들의 열악한 영업환경 개선이 동반돼야 택시 서비스의 품질도 개선된다”고 말했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "다음카카오는 승객이 택시를 호출한 상태에서 다른 택시를 타고 가버린 경우 기사가 이를 승객 평가제도를 이용해 신고할 수 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "신고가 여러 번 쌓인 승객을 기사가 사전에 확인해 헛수고를 줄일 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "Q. 교통 약자를 위한 서비스나 특별한 서비스는 없는가 A. 백기사는 사전에 기사에게 ‘임산부’, ‘아이동반’ 등의 메시지를 보낼 수 있는 옵션을 제공한다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "기사가 사전 메시지를 확인한 후 콜을 받기 때문에 승차거부 할 염려가 없다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "리모택시는 일반 호출서비스인 ‘리모’와 모범택시 예약서비스인 ‘리모로얄’을 따로 제공한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "우버의 리무진 서비스 ‘우버블랙’과 유사하다. 30분 전에 탑승지와 탑승시간을 예약하면 원하는 시간, 원하는 장소에서 모범택시를 이용할 수 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "일반택시와 달리 휴대폰 충전, 생수 제공, 도어 개폐, 수하물 운반 등의 서비스를 제공한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "다른 기업들은 아직 서비스를 다양화하고 있지 않으나 다양한 교통 약자에 대한 효과적 지원방법을 모색 중이라고 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "Q. 전화번호 등 고객 정보 유출 문제는 없나.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "A. 모든 택시앱은 ‘안심번호 서비스’를 제공하고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "승객뿐만 아니라 기사의 번호도 노출시키지 않는다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "업체들은 전화번호 외의 개인정보도 모두 사전동의 후 수집하고 수집한 개인정보를 암호화 해 택시앱 이용에만 사용한다고 밝혔다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "택시앱 서비스 이것이 궁금하다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

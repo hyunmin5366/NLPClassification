@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350500",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "쿠팡, 도쿄올림픽 온라인 단독 중계 불발",
+		"newsSubTitle": "null",
+		"newsContent": "쿠팡의 온라인 동영상 서비스(OTT)인 쿠팡플레이가 추진하던 도쿄올림픽 온라인 단독 중계가 불발된 것으로 알려졌다.\n25일 방송가에 따르면 쿠팡플레이는 다음달 23일 개막하는 도쿄올림픽 온라인 중계권을 놓고 지상파 3사와 구매 협상을 벌이다 최종 단계에서 철회 의사를 밝힌 것으로 전해졌다.\n온라인 플랫폼을 통해 올림픽 경기를 중계하려면 지상파 3사로부터 중계권을 사야 한다.\n앞서 네이버, 카카오, 이통3사 등이 아닌 쿠팡이 최초로 독점 시청권을 확보하려 한다는 소식에 '보편적 시청권' 논란이 제기된 바 있다.\n최근 쿠팡 덕평 물류센터 화재 사고에 따른 부정적인 여론을 의식해 쿠팡이 이번 사업 의지를 접었다는 관측이 나온다.\n업계에선 쿠팡이 올림픽 온라인 중계권을 사기 위해 500억원 이상을 썼을 것이란 추정이 제기되고 있다.\n다만 쿠팡측은 도쿄올림픽 중계를 한다고 공식 발표한 적은 없다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "쿠팡의 온라인 동영상 서비스(OTT)인 쿠팡플레이가 추진하던 도쿄올림픽 온라인 단독 중계가 불발된 것으로 알려졌다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 방송가에 따르면 쿠팡플레이는 다음달 23일 개막하는 도쿄올림픽 온라인 중계권을 놓고 지상파 3사와 구매 협상을 벌이다 최종 단계에서 철회 의사를 밝힌 것으로 전해졌다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "온라인 플랫폼을 통해 올림픽 경기를 중계하려면 지상파 3사로부터 중계권을 사야 한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 네이버, 카카오, 이통3사 등이 아닌 쿠팡이 최초로 독점 시청권을 확보하려 한다는 소식에 '보편적 시청권' 논란이 제기된 바 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 쿠팡 덕평 물류센터 화재 사고에 따른 부정적인 여론을 의식해 쿠팡이 이번 사업 의지를 접었다는 관측이 나온다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "업계에선 쿠팡이 올림픽 온라인 중계권을 사기 위해 500억원 이상을 썼을 것이란 추정이 제기되고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다만 쿠팡측은 도쿄올림픽 중계를 한다고 공식 발표한 적은 없다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쿠팡, 도쿄올림픽 온라인 단독 중계 불발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

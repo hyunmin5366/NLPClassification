@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334214",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[2020 전자신문 10대뉴스(국내)]굿바이 공인인증서 시대",
+		"newsSubTitle": "",
+		"newsContent": "지난 21년간 국민 경제생활과 함께한 공인인증서가 지난 10일 공식 폐지됐다.\n공인증서는 1999년 전자서명법이 발표되면서 정부가 공인하는 인증서로 출발했다.\n지난달까지 발급 건수는 4676만건으로 국민 대부분이 공인인증서를 한 번쯤 발급받았다.\n공인인증서는 금융권을 비롯해 안전한 인터넷 환경을 구축하는데 이바지 했다는 평가를 받는다.\n그러나 공인인증서는 설치 불편함과 다양한 방식의 인증서가 등장하면서 변화가 요구됐다.\n정부는 2018년 공인전자서명제도 정책을 발표하고 전자서명법을 개정, 이달 10일부터 시행했다.\n공인인증서의 '공인' 지위를 없애고 다양한 민간 전자서명 서비스를 사용하는 기틀을 마련했다.\n공인인증서가 사라지면서 내년부터 지문, 홍채 등 다양한 생체인식과 블록체인 등 신기술이 적용된 새로운 전자서명 서비스가 확대될 것으로 기대된다.\n공공도 공인인증서가 없어지면서 민간 인증서비스를 공공 사이트 등에서 활용하도록 준비 중이다.\n내년 연말정산부터 다양한 민간 인증서비스를 사용할 것으로 전망된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 21년간 국민 경제생활과 함께한 공인인증서가 지난 10일 공식 폐지됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공인증서는 1999년 전자서명법이 발표되면서 정부가 공인하는 인증서로 출발했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난달까지 발급 건수는 4676만건으로 국민 대부분이 공인인증서를 한 번쯤 발급받았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공인인증서는 금융권을 비롯해 안전한 인터넷 환경을 구축하는데 이바지 했다는 평가를 받는다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 공인인증서는 설치 불편함과 다양한 방식의 인증서가 등장하면서 변화가 요구됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정부는 2018년 공인전자서명제도 정책을 발표하고 전자서명법을 개정, 이달 10일부터 시행했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공인인증서의 '공인' 지위를 없애고 다양한 민간 전자서명 서비스를 사용하는 기틀을 마련했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공인인증서가 사라지면서 내년부터 지문, 홍채 등 다양한 생체인식과 블록체인 등 신기술이 적용된 새로운 전자서명 서비스가 확대될 것으로 기대된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공공도 공인인증서가 없어지면서 민간 인증서비스를 공공 사이트 등에서 활용하도록 준비 중이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "내년 연말정산부터 다양한 민간 인증서비스를 사용할 것으로 전망된다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2020 전자신문 10대뉴스(국내)]굿바이 공인인증서 시대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

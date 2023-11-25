@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325834",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[ICT시사용어]애플 신경 엔진",
+		"newsSubTitle": "",
+		"newsContent": "애플 신경 엔진은 애플이 독자 개발하는 인공지능(AI) 전용 칩이다.\n애플은 자체 개발한 AI 기술을 이르면 이달 열리는 '세계개발자회의 2017(WWDC 2017)'에서 공개할 것으로 알려졌다.\n애플은 이 칩을 이용해 얼굴 인식, 자연어 인식 기능을 향상시킬 계획이다.\n애플 자율주행자동차 소프트웨어(SW), 증강현실(AR), 시리 기능 개선에 쓰인다.\n아이폰, 아이패드 등 자사 제품에 뉴럴 엔진을 통합한다는 구상도 세웠다.\n블룸버그는 \\\"현재 애플 디바이스는 메인 프로세서와 그래픽 칩을 활용해 AI 프로세스를 처리한다\\\"고 소개했다.\nAI 전용 칩이 개발되면 AI 처리 전용 모듈에서 AI 프로세스를 처리하게 되는 것이다.\n속도가 빨라진다.\n이에 따른 배터리 성능과 수명 향상도 기대된다.\n애플은 이미 AI 전용 칩 아이폰 버전을 테스트한 것으로 알려졌다.\n그러나 올 하반기 출시 예정인 아이폰8 시리즈에 해당 칩이 탑재될지는 불분명하다.\n애플은 2011년 시리를 내놓으면서 AI 분야에서 한 발 앞서 나가는 듯 했지만 이후 아마존 알렉사와 구글 어시스턴트에 밀린다는 평가를 받아 왔다.\n구글은 이미 텐서프로세싱유닛(TPU)으로 알려진 AI 기반의 프로세서를 발표했다.\n엔비디아 역시 딥러닝 분야에서 각광받는 그래픽처리장치(GPU)로 AI 하드웨어(HW) 시장을 공략하고 있다.\n경제 전문지 블룸버그는 최근 \\\"애플은 지난날 기밀 문화로 말미암아 AI 개발 인력 확보에 어려움을 겪은 적이 있다\\\"면서 \\\"최근에는 다양한 AI 개발 업체를 인수하는 한편 AI 연구 논문도 발표하기 시작했다\\\"고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플 신경 엔진은 애플이 독자 개발하는 인공지능(AI) 전용 칩이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애플은 자체 개발한 AI 기술을 이르면 이달 열리는 '세계개발자회의 2017(WWDC 2017)'에서 공개할 것으로 알려졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "애플은 이 칩을 이용해 얼굴 인식, 자연어 인식 기능을 향상시킬 계획이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "애플 자율주행자동차 소프트웨어(SW), 증강현실(AR), 시리 기능 개선에 쓰인다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아이폰, 아이패드 등 자사 제품에 뉴럴 엔진을 통합한다는 구상도 세웠다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "블룸버그는 \\\"현재 애플 디바이스는 메인 프로세서와 그래픽 칩을 활용해 AI 프로세스를 처리한다\\\"고 소개했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "AI 전용 칩이 개발되면 AI 처리 전용 모듈에서 AI 프로세스를 처리하게 되는 것이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "속도가 빨라진다.",
+				"sentenceSize": 9
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 따른 배터리 성능과 수명 향상도 기대된다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "애플은 이미 AI 전용 칩 아이폰 버전을 테스트한 것으로 알려졌다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "그러나 올 하반기 출시 예정인 아이폰8 시리즈에 해당 칩이 탑재될지는 불분명하다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "애플은 2011년 시리를 내놓으면서 AI 분야에서 한 발 앞서 나가는 듯 했지만 이후 아마존 알렉사와 구글 어시스턴트에 밀린다는 평가를 받아 왔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "구글은 이미 텐서프로세싱유닛(TPU)으로 알려진 AI 기반의 프로세서를 발표했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "엔비디아 역시 딥러닝 분야에서 각광받는 그래픽처리장치(GPU)로 AI 하드웨어(HW) 시장을 공략하고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "경제 전문지 블룸버그는 최근 \\\"애플은 지난날 기밀 문화로 말미암아 AI 개발 인력 확보에 어려움을 겪은 적이 있다\\\"면서 \\\"최근에는 다양한 AI 개발 업체를 인수하는 한편 AI 연구 논문도 발표하기 시작했다\\\"고 전했다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[ICT시사용어]애플 신경 엔진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015513",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "스마트폰만 비추면 문화재 정보가 쫙~",
+		"newsSubTitle": "KAIST K-컬쳐 타임머신 개발… 문화재 설명 '한눈에'",
+		"newsContent": "스마트 폰에 유적지나 문화유산을 비추기만해도 문화재에 대한 설명을 한눈에 볼 수 있는 스마트한 관광이 곧 현실화된다.\nKAIST는 우운택 문화기술대학원 교수와 김정화 연구원이 공동으로 스마트 관광을 위한 모바일 증강현실 플랫폼 'K-컬쳐 타임머신(K-Culture Time Machine)'을 개발했다고 28일 밝혔다.\n스마트폰에 설치된 플랫폼을 실행한 후, 유적지나 문화유산을 스마트폰에 비추면 관련 문화재에 대한 설명이 제공된다.\n예를 들면 A씨가 창덕궁 인정전을 거닐다가 스마트폰으로 그 모습을 찍으면 인정전에 대한 정보를 한 눈에 볼 수 있다.\n또 유물 카테고리에서 '인정전을 구성하는 이화문 장식'이나 '인정전에서 발생한 왕세자탄강진하례' 등을 검색해 부가 정보도 얻는 것이 가능하다.\n연구팀은 기술을 개발하기 위해 문화유산과 관련된 인물, 유물, 장소, 사건 등을 정의하고 연관관계를 분석해 온톨로지(단어와 관계로 구성된 일종의 사전)를 설계·구현했다.\n우 교수는 “증강현실 콘텐츠의 메타데이터 체계를 개발하고 표준화해 다양한 증강현실 콘텐츠의 재사용과 개별 플랫폼, 독립적인 콘텐츠 공유가 가능해 질 것”이라며 “우리나라 문화유산 정보시스템과 소셜미디어 기반의 신뢰성 높은 추천 정보, 사용자 프로파일을 증강현실 콘텐츠로 연계 활용할 것”이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스마트 폰에 유적지나 문화유산을 비추기만해도 문화재에 대한 설명을 한눈에 볼 수 있는 스마트한 관광이 곧 현실화된다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KAIST는 우운택 문화기술대학원 교수와 김정화 연구원이 공동으로 스마트 관광을 위한 모바일 증강현실 플랫폼 'K-컬쳐 타임머신(K-Culture Time Machine)'을 개발했다고 28일 밝혔다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스마트폰에 설치된 플랫폼을 실행한 후, 유적지나 문화유산을 스마트폰에 비추면 관련 문화재에 대한 설명이 제공된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예를 들면 A씨가 창덕궁 인정전을 거닐다가 스마트폰으로 그 모습을 찍으면 인정전에 대한 정보를 한 눈에 볼 수 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 유물 카테고리에서 '인정전을 구성하는 이화문 장식'이나 '인정전에서 발생한 왕세자탄강진하례' 등을 검색해 부가 정보도 얻는 것이 가능하다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구팀은 기술을 개발하기 위해 문화유산과 관련된 인물, 유물, 장소, 사건 등을 정의하고 연관관계를 분석해 온톨로지(단어와 관계로 구성된 일종의 사전)를 설계·구현했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "우 교수는 “증강현실 콘텐츠의 메타데이터 체계를 개발하고 표준화해 다양한 증강현실 콘텐츠의 재사용과 개별 플랫폼, 독립적인 콘텐츠 공유가 가능해 질 것”이라며 “우리나라 문화유산 정보시스템과 소셜미디어 기반의 신뢰성 높은 추천 정보, 사용자 프로파일을 증강현실 콘텐츠로 연계 활용할 것”이라고 설명했다.",
+				"sentenceSize": 169
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "달라진 1㎏… 우리나라 국가질량원기 36㎍ 줄어",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

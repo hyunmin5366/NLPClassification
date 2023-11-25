@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337957",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "소프트위드솔루션 '크로스넷' V4.0 CC인증 획득",
+		"newsSubTitle": "",
+		"newsContent": "소프트위드솔루션(대표 김태현)은 크로스넷(CrossNet) V4.0 제품이 CC인증을 받았다고 밝혔다.\n이 제품은 CC인증 EAL3 등급 인증을 받았으며 자체 개발한 암호체계가 탑재됐다.\n자체개발 암호체계는 검증필 심사 중이며 인증을 받으면 업계 최초로 자체 개발한 검증필 암호를 사용한 망연계 제품이 된다.\n대부분 망연계 제품은 검증필암호를 구매해 사용하고 있다.\nCC인증 유효기간 내에 대부분 검증필암호 인증이 만료, 도입 후에는 비인증된 암호체계를 사용하는 경우가 많다.\n자체 개발 암호체계를 탑재한 크로스넷 V4.0을 사용하면 망연계제품 인증과 검증필 암호 인증을 관리할 수 있어 고객은 인증 만료 우려가 줄어들게 된다.\n소프트위드솔루션은 크로스넷 V4.0 조달등록을 추진해 고객사가 최신 보안제품을 쉽게 구매해 사용할 수 있도록 할 예정이다.\n또 기존 제품 사용 고객은 적은 비용으로 보안성이 강화된 제품으로 업그레이드 할 수 있게 됐다고 회사는 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "소프트위드솔루션(대표 김태현)은 크로스넷(CrossNet) V4.0 제품이 CC인증을 받았다고 밝혔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 제품은 CC인증 EAL3 등급 인증을 받았으며 자체 개발한 암호체계가 탑재됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자체개발 암호체계는 검증필 심사 중이며 인증을 받으면 업계 최초로 자체 개발한 검증필 암호를 사용한 망연계 제품이 된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대부분 망연계 제품은 검증필암호를 구매해 사용하고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CC인증 유효기간 내에 대부분 검증필암호 인증이 만료, 도입 후에는 비인증된 암호체계를 사용하는 경우가 많다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자체 개발 암호체계를 탑재한 크로스넷 V4.0을 사용하면 망연계제품 인증과 검증필 암호 인증을 관리할 수 있어 고객은 인증 만료 우려가 줄어들게 된다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소프트위드솔루션은 크로스넷 V4.0 조달등록을 추진해 고객사가 최신 보안제품을 쉽게 구매해 사용할 수 있도록 할 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 기존 제품 사용 고객은 적은 비용으로 보안성이 강화된 제품으로 업그레이드 할 수 있게 됐다고 회사는 밝혔다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소프트위드솔루션 '크로스넷' V4.0 CC인증 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

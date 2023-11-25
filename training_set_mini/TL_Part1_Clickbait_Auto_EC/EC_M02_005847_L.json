@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005847",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "우리은행, 주요 예·적금 금리 최고 0.4%p 인상",
+		"newsSubTitle": "26일 기준금리 인상분 반영",
+		"newsContent": "우리은행은 한국은행 기준금리 인상에 따라 22개의 정기예금과 16개의 적금 금리를 최고 0.40%p 인상한다고 26일 밝혔다.\n오는 27일부터 적용되는 금리인상을 통해 우리은행의 비대면 전용상품 '우리 첫거래우대 예금'은 최고 연 2.8%에서 최고 연 3.1%로 인상된다.\n또 'WON 예금'은 최고 연 2.30%에서 최고 연 2.50%로 오른다.\n적금의 경우, 비대면 전용상품인 'WON 적금'은 최고 연 2.80%에서 최고 연 3.00%로, '우리 으쓱(ESG) 적금'은 최고 연 2.65%에서 최고 연 2.90%로 인상한다.\n우리은행 관계자는 데일리임팩트에 \\\"기준금리 인상에 따라 예금상품의 금리를 신속하게 인상했다\\\"고 설명했다.\n이밖에 우리은행은 비대면 전용상품 뿐 아니라, 판매 중인 대부분의 예적금 상품 금리도 0.10%p~0.40%p 인상할 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리은행은 한국은행 기준금리 인상에 따라 22개의 정기예금과 16개의 적금 금리를 최고 0.40%p 인상한다고 26일 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오는 27일부터 적용되는 금리인상을 통해 우리은행의 비대면 전용상품 '우리 첫거래우대 예금'은 최고 연 2.8%에서 최고 연 3.1%로 인상된다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 'WON 예금'은 최고 연 2.30%에서 최고 연 2.50%로 오른다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "적금의 경우, 비대면 전용상품인 'WON 적금'은 최고 연 2.80%에서 최고 연 3.00%로, '우리 으쓱(ESG) 적금'은 최고 연 2.65%에서 최고 연 2.90%로 인상한다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우리은행 관계자는 데일리임팩트에 \\\"기준금리 인상에 따라 예금상품의 금리를 신속하게 인상했다\\\"고 설명했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이밖에 우리은행은 비대면 전용상품 뿐 아니라, 판매 중인 대부분의 예적금 상품 금리도 0.10%p~0.40%p 인상할 계획이다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정운찬 “세종시 원안 부작용 클 것”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

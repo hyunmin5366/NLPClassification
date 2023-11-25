@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006906",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "아이폰4 국내 공식출시",
+		"newsSubTitle": "",
+		"newsContent": "애플사의 아이폰4가 10일 본격적으로 국내에서 공식출시된다.\nKT는 오는 10일 서울 광화문 KT 사옥에서 아이폰4 론칭 행사를 열고 예약 고객 우선으로 아이폰4를 공급한다고 4일 밝혔다.\n현재까지 아이폰4 사전 예약 고객은 27만여명으로 집계됐으며 이달안에 대부분 아이폰4를 손에 넣을 수 있을 전망이다.\n아이폰4 16GB 기종의 가격은 4만5000원 요금제, 2년 약정으로 26만4000원이다.\n같은 요금제를 이용하면 32GB 모델은 39만6000원이다.\nKT 관계자는 “아이폰4의 본격적인 출시로 한동한 주춤했던 아이폰 판매가 활기를 띌 것”이라며 “다양한 어플과 고해상도 등 아이폰4만의 매력으로 한국인의 시선을 사로잡을 것 같다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플사의 아이폰4가 10일 본격적으로 국내에서 공식출시된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT는 오는 10일 서울 광화문 KT 사옥에서 아이폰4 론칭 행사를 열고 예약 고객 우선으로 아이폰4를 공급한다고 4일 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재까지 아이폰4 사전 예약 고객은 27만여명으로 집계됐으며 이달안에 대부분 아이폰4를 손에 넣을 수 있을 전망이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이폰4 16GB 기종의 가격은 4만5000원 요금제, 2년 약정으로 26만4000원이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "같은 요금제를 이용하면 32GB 모델은 39만6000원이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT 관계자는 “아이폰4의 본격적인 출시로 한동한 주춤했던 아이폰 판매가 활기를 띌 것”이라며 “다양한 어플과 고해상도 등 아이폰4만의 매력으로 한국인의 시선을 사로잡을 것 같다”고 말했다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임영록 KB금융회장 전방위 사퇴압박 불구 강경 대응",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

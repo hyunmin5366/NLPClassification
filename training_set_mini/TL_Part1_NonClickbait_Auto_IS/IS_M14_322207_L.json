@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322207",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[국제]해커 AWS 트래픽 납치해 암호화폐 15만 달러 인출",
+		"newsSubTitle": "",
+		"newsContent": "해커가 아마존웹서비스(AWS) 인터넷 연결을 하이재킹(납치)해 전자지갑서비스 '마이이더월렛닷컴'에서 암호화폐를 빼돌렸다.\n레지스터는 25일 해커가 마이이더월렛닷컴과 똑같이 생긴 가짜 웹사이트를 만들어 고객 암호화폐 지갑을 털었다고 보도했다.\n고객은 마이이더월렛닷컴으로 로그인한 줄 알았지만 해커가 만든 가짜 사이트로 연결됐다.\n고객은 가짜 사이트에서 계정 정보를 털렸다.\n해커는 실제 마이이더월렛에서 코인을 다른 지갑으로 인출해 달아났다.\n피해금액이 15만달러(약 1억6000만원)에 달하는 것으로 알려졌다.\n이번 공격은 BGP(Border Gateway Protocal) 메시지를 위조해 DNS를 하이재킹했다.\nDNS 하이재킹이란 해커가 DNS 서버를 공격해 특정 도메인에 연결되는 IP 주소를 다른 주소로 변경하는 수법이다.\n이용자가 특정 웹사이트 접속 요청시 가짜 주소로 연결한다.\n마이이더월렛닷컴은 AWS DNS 서비스를 거친다.\n공격자는 오전 11시부터 1시 사이 인터넷 코어 라우터에 BGP 메시지를 보냈다.\n1300개 AWS 소유 IP주소가 BGP 간섭으로 도용됐다.\nBGP는 인터넷 핵심 요소다.\n인터넷 코어에 있는 라우팅 장비는 활성 경로 테이블을 유지하기 위해 BGP 메시지를 교환한다.\n적절한 네트워크와 물리 링크를 통해 패킷이 올바른 인터넷주소에 도달하게 돕는다.\n공격자는 마이이더월렛닷컴으로 연결되는 AWS IP주소 중 일부를 납치해 자신이 만든 가짜 사이트로 연결했다.\n아츠테크니카는 \\\"이런 공격은 수많은 DNS 트래픽을 처리해야 한다\\\"면서 \\\"당장 피해를 입은 마이이더월렛만의 문제가 아니다\\\"고 보도했다.\n이어 \\\"AWS 트래픽을 납치할 수 있는 공격자는 더 큰 공격을 감행할 수 있다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "해커가 아마존웹서비스(AWS) 인터넷 연결을 하이재킹(납치)해 전자지갑서비스 '마이이더월렛닷컴'에서 암호화폐를 빼돌렸다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "레지스터는 25일 해커가 마이이더월렛닷컴과 똑같이 생긴 가짜 웹사이트를 만들어 고객 암호화폐 지갑을 털었다고 보도했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "고객은 마이이더월렛닷컴으로 로그인한 줄 알았지만 해커가 만든 가짜 사이트로 연결됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고객은 가짜 사이트에서 계정 정보를 털렸다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해커는 실제 마이이더월렛에서 코인을 다른 지갑으로 인출해 달아났다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "피해금액이 15만달러(약 1억6000만원)에 달하는 것으로 알려졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 공격은 BGP(Border Gateway Protocal) 메시지를 위조해 DNS를 하이재킹했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "DNS 하이재킹이란 해커가 DNS 서버를 공격해 특정 도메인에 연결되는 IP 주소를 다른 주소로 변경하는 수법이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이용자가 특정 웹사이트 접속 요청시 가짜 주소로 연결한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "마이이더월렛닷컴은 AWS DNS 서비스를 거친다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "공격자는 오전 11시부터 1시 사이 인터넷 코어 라우터에 BGP 메시지를 보냈다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "1300개 AWS 소유 IP주소가 BGP 간섭으로 도용됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "BGP는 인터넷 핵심 요소다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "인터넷 코어에 있는 라우팅 장비는 활성 경로 테이블을 유지하기 위해 BGP 메시지를 교환한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "적절한 네트워크와 물리 링크를 통해 패킷이 올바른 인터넷주소에 도달하게 돕는다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "공격자는 마이이더월렛닷컴으로 연결되는 AWS IP주소 중 일부를 납치해 자신이 만든 가짜 사이트로 연결했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "아츠테크니카는 \\\"이런 공격은 수많은 DNS 트래픽을 처리해야 한다\\\"면서 \\\"당장 피해를 입은 마이이더월렛만의 문제가 아니다\\\"고 보도했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이어 \\\"AWS 트래픽을 납치할 수 있는 공격자는 더 큰 공격을 감행할 수 있다\\\"고 덧붙였다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]해커 AWS 트래픽 납치해 암호화폐 15만 달러 인출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

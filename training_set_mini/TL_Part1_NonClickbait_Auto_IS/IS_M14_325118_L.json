@@ -1,0 +1,249 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325118",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "행정전자서명(GPKI) 인증기관 신뢰성 '흔들'",
+		"newsSubTitle": "",
+		"newsContent": "전자정부 웹서비스에 적용되는 G-SSL(Government Secure Socket Layer) 인증서 신뢰성이 흔들린다.\nG-SSL을 발급하는 행정전자서명(GPKI) 인증기관이 보안에 허술한 인증서를 발급했다.\n구글과 마이크로소프트 등 글로벌 웹 브라우저 기업이 국내 G-SSL을 신뢰하지 않을 수 있는 심각한 사안이다.\nGPKI 인증서 발행 대행기관인 경남교육청이 보안에 허술한 '와일드 카드 인증서'를 발급한 사실이 드러났다.\n와일드 카드 인증서는 각 도메인별로 발급하는 인증서를 하나로 대체하는 형태다.\nGPKI는 행정안전부가 최상위 인증기관(Root CA)이다.\n이 아래 교육부와 법원, 경찰 등 5개 인증기관을 운영한다.\n이성재씨가 트위터에 교육부 산하 경남교육청이 와일드 카드 인증서를 발행한 사실을 올리며 공론화됐다.\n공공기관이나 학교는 특정 웹사이트 도메인별로 G-SSL 인증서를 발급받는다.\nGPKI 인증기관은 해당 사이트와 신청 기관 신뢰성을 확인한 후 G-SSL을 발급한다.\nG-SSL 인증서가 붙어있는 사이트는 웹 브라우저에서 '안전'이라고 표시한다.\n와일드 카드 인증서는 특정 도메인을 넘어 2∙3차 서브 도메인에 무제한으로 쓴다.\nGPKI 인증기관이 *.or.kr(비영리기관) *.sc.kr(기타학교) *.kg.kr(유치원) *.es.kr(초등학교) 등에서 모두 쓸 수 있는 와일드 카드 인증서를 발급했다.\n한 개 도메인마다 사이트와 기관을 확인해야 하는 절차를 무시했다.\n이런 형태로 발급된 와일드 카드 인증서는 특정 도메인이 아니라 or.kr, sc.kr, kg.kr, es.kr 등으로 끝나는 모든 사이트를 안전하다고 표시한다.\n김승주 고려대 정보보호대학원 교수는 \\\"or.kr, sc.kr, kg.kr, es.kr 와일드 카드 인증서는 앞에 어떤 도메인이 오든지 저런 형태로 끝나는 모든 사이트를 인증한다\\\"면서 \\\"광범위한 서브도메인에 쓰는 와일드카드 인증서는 자칫 감청이나 피싱 공격에 악용될 수 있어 발급 때 철저히 검증해야 한다\\\"고 말했다.\n보안전문가는 \\\"와일드 카드 인증서 발행은 GPKI 국제 신뢰성을 담보할 수 없는 사안\\\"이라면서 \\\"GPKI 인증기관이 인증서 발급 절차를 무시한 사례\\\"라고 지적했다.\n인증서 신뢰성 논쟁은 국제 이슈다.\n지난해 구글은 크롬 브라우저에서 모든 시만텍 인증서를 신뢰하지 않겠다고 선언했다.\n구글이 시만텍 이름으로 부정 발급된 인증서를 발견하고 문제 삼았다.\n당시 시만텍 이름으로 부정 발급된 인증서 일부는 한국전자인증이 발행했다.\n한국전자인증은 시만텍 인증서 발급대행 사업자였다.\n이 후 시만텍은 한국전자인증에서 인증서 발급 대행 권한을 회수했다.\n행안부 관계자는 \\\"경남교육청이 발급한 와일드 카드 인증서를 6일 오후 폐지했다\\\"면서 \\\"교육부 산하 시도교육청에서 발행한 GPKI 인증서에 문제가 없는 지 실태 파악에 나섰다\\\"고 밝혔다.\n이어 \\\"이런 일이 재발하지 않도록 관리 감독을 강화한다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 25,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전자정부 웹서비스에 적용되는 G-SSL(Government Secure Socket Layer) 인증서 신뢰성이 흔들린다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "G-SSL을 발급하는 행정전자서명(GPKI) 인증기관이 보안에 허술한 인증서를 발급했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "구글과 마이크로소프트 등 글로벌 웹 브라우저 기업이 국내 G-SSL을 신뢰하지 않을 수 있는 심각한 사안이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "GPKI 인증서 발행 대행기관인 경남교육청이 보안에 허술한 '와일드 카드 인증서'를 발급한 사실이 드러났다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "와일드 카드 인증서는 각 도메인별로 발급하는 인증서를 하나로 대체하는 형태다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "GPKI는 행정안전부가 최상위 인증기관(Root CA)이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 아래 교육부와 법원, 경찰 등 5개 인증기관을 운영한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이성재씨가 트위터에 교육부 산하 경남교육청이 와일드 카드 인증서를 발행한 사실을 올리며 공론화됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공공기관이나 학교는 특정 웹사이트 도메인별로 G-SSL 인증서를 발급받는다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "GPKI 인증기관은 해당 사이트와 신청 기관 신뢰성을 확인한 후 G-SSL을 발급한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "G-SSL 인증서가 붙어있는 사이트는 웹 브라우저에서 '안전'이라고 표시한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "와일드 카드 인증서는 특정 도메인을 넘어 2∙3차 서브 도메인에 무제한으로 쓴다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "GPKI 인증기관이 *.or.kr(비영리기관) *.sc.kr(기타학교) *.kg.kr(유치원) *.es.kr(초등학교) 등에서 모두 쓸 수 있는 와일드 카드 인증서를 발급했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한 개 도메인마다 사이트와 기관을 확인해야 하는 절차를 무시했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이런 형태로 발급된 와일드 카드 인증서는 특정 도메인이 아니라 or.kr, sc.kr, kg.kr, es.kr 등으로 끝나는 모든 사이트를 안전하다고 표시한다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "김승주 고려대 정보보호대학원 교수는 \\\"or.kr, sc.kr, kg.kr, es.kr 와일드 카드 인증서는 앞에 어떤 도메인이 오든지 저런 형태로 끝나는 모든 사이트를 인증한다\\\"면서 \\\"광범위한 서브도메인에 쓰는 와일드카드 인증서는 자칫 감청이나 피싱 공격에 악용될 수 있어 발급 때 철저히 검증해야 한다\\\"고 말했다.",
+				"sentenceSize": 180
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "보안전문가는 \\\"와일드 카드 인증서 발행은 GPKI 국제 신뢰성을 담보할 수 없는 사안\\\"이라면서 \\\"GPKI 인증기관이 인증서 발급 절차를 무시한 사례\\\"라고 지적했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "인증서 신뢰성 논쟁은 국제 이슈다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "지난해 구글은 크롬 브라우저에서 모든 시만텍 인증서를 신뢰하지 않겠다고 선언했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "구글이 시만텍 이름으로 부정 발급된 인증서를 발견하고 문제 삼았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "당시 시만텍 이름으로 부정 발급된 인증서 일부는 한국전자인증이 발행했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "한국전자인증은 시만텍 인증서 발급대행 사업자였다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이 후 시만텍은 한국전자인증에서 인증서 발급 대행 권한을 회수했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "행안부 관계자는 \\\"경남교육청이 발급한 와일드 카드 인증서를 6일 오후 폐지했다\\\"면서 \\\"교육부 산하 시도교육청에서 발행한 GPKI 인증서에 문제가 없는 지 실태 파악에 나섰다\\\"고 밝혔다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "이어 \\\"이런 일이 재발하지 않도록 관리 감독을 강화한다\\\"고 덧붙였다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "행정전자서명(GPKI) 인증기관 신뢰성 '흔들'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

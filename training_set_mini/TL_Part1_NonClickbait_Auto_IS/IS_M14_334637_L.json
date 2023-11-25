@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334637",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "르네사스, IoT 엔드포인트용 MCU출시",
+		"newsSubTitle": "",
+		"newsContent": "일 르네사스일렉트로닉스는 보안기능을 갖추고 소비전력이 낮아 사물인터넷(IoT) 엔드포인트 기기에 적합한 S5D3 마이크로프로세서(MCU)를 출시했다.\nS5D3 MCU는 120㎒ 암 코텍스-M4를 채택했으며 40㎚공정으로 생산됐다.\n빌딩, 산업자동화, 사무기기, 스마트미터, 가전 등 엔드포인트 기기에 사용할 수 있다.\n개발에 필요한 HAL드라이버, 애플리케이션 프레임워크 및 RTOS가 소프트웨어패키지로 제공된다.\n르네사스 이투스튜디오나 IAR임베디드워크벤치를 활용해 설계 및 커스터마이징이 가능하다.\n시큐어 부트코드와 IoT 엔드포인트 기기와 안전한 통신을 위한 키보호 보안엔진이 내장됐다.\n보안엔진을 내장해 추가 보안부품이 필요없어 제조비 절감이 가능하다.\n보안엔진은 RSA, DSA, AES, ECC, SHA, TRNG 등 하드웨어 암호 액셀러레이터를 탑재해 클라우드인증 등 안전한 커뮤니케이션이 가능하다.\n12비트 아날로그디지털 컨버터(ADC), 12비트 디지털아날로그 컨버터(DAC), 6채널 고속컴퍼레이터와 프로그래머블게인앰프(PGA) 등 복수 아날로그컴포넌트도 탑재했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일 르네사스일렉트로닉스는 보안기능을 갖추고 소비전력이 낮아 사물인터넷(IoT) 엔드포인트 기기에 적합한 S5D3 마이크로프로세서(MCU)를 출시했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "S5D3 MCU는 120㎒ 암 코텍스-M4를 채택했으며 40㎚공정으로 생산됐다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "빌딩, 산업자동화, 사무기기, 스마트미터, 가전 등 엔드포인트 기기에 사용할 수 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "개발에 필요한 HAL드라이버, 애플리케이션 프레임워크 및 RTOS가 소프트웨어패키지로 제공된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "르네사스 이투스튜디오나 IAR임베디드워크벤치를 활용해 설계 및 커스터마이징이 가능하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시큐어 부트코드와 IoT 엔드포인트 기기와 안전한 통신을 위한 키보호 보안엔진이 내장됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "보안엔진을 내장해 추가 보안부품이 필요없어 제조비 절감이 가능하다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "보안엔진은 RSA, DSA, AES, ECC, SHA, TRNG 등 하드웨어 암호 액셀러레이터를 탑재해 클라우드인증 등 안전한 커뮤니케이션이 가능하다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "12비트 아날로그디지털 컨버터(ADC), 12비트 디지털아날로그 컨버터(DAC), 6채널 고속컴퍼레이터와 프로그래머블게인앰프(PGA) 등 복수 아날로그컴포넌트도 탑재했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "르네사스, IoT 엔드포인트용 MCU출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

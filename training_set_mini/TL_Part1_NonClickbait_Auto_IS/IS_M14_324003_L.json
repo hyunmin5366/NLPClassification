@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324003",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "콘티넨탈, 전기차·PHEV 전동화 솔루션 중국 출시",
+		"newsSubTitle": "",
+		"newsContent": "콘티넨탈이 48V 마일드 하이브리드 시스템과 플러그인하이브리드(PHEV)∙배터리전기차(BEV)용 고전압 구동시스템을 중국에 출시한다고 31일 밝혔다.\n콘티넨탈은 올해 말 중국 텐진에서 48V 마일드 하이브리드 차량(MHEV) 솔루션 생산을 시작하고, 현지 시장 요구조건에 맞춘 배터리전기차(BEV)용 통합형 고전압 구동시스템도 생산할 예정이다.\n콘티넨탈 차량 전동화 포트폴리오에는 전기모터∙인버터∙전력변환장치 같은 핵심 장치 이외에도 배터리관리시스템(BMS)과 cEM(connected Energy Management)도 포함됐다.\n콘티넨탈 솔루션은 중형차종의 파워(100~150kW급), 무게(78kg이하) 및 패키징 공간(400x500x320mm) 요구조건을 충족한 전기구동시스템이다.\n주문자생산방식(OEM)업체는 최소한의 엔지니어링 비용으로 소형의 일체형 구동시스템을 적용한 전기차 양산이 가능하다는 게 회사 측 설명이다.\n루돌프 스타크(Rudolf Stark) 콘티넨탈 전기차부품 사업부 부사장은 \\\"cEM 솔루션으로 특정 주행 상황에서 가용 에너지를 최대한 사용하는 네트워킹과 알고리즘을 추가하는 것만으로 전기차 주행거리를 늘릴 수 있다\\\"며 \\\"열관리 및 전기적으로 발열되는 촉매 변환장치까지 확대 적용된다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "콘티넨탈이 48V 마일드 하이브리드 시스템과 플러그인하이브리드(PHEV)∙배터리전기차(BEV)용 고전압 구동시스템을 중국에 출시한다고 31일 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "콘티넨탈은 올해 말 중국 텐진에서 48V 마일드 하이브리드 차량(MHEV) 솔루션 생산을 시작하고, 현지 시장 요구조건에 맞춘 배터리전기차(BEV)용 통합형 고전압 구동시스템도 생산할 예정이다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "콘티넨탈 차량 전동화 포트폴리오에는 전기모터∙인버터∙전력변환장치 같은 핵심 장치 이외에도 배터리관리시스템(BMS)과 cEM(connected Energy Management)도 포함됐다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "콘티넨탈 솔루션은 중형차종의 파워(100~150kW급), 무게(78kg이하) 및 패키징 공간(400x500x320mm) 요구조건을 충족한 전기구동시스템이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주문자생산방식(OEM)업체는 최소한의 엔지니어링 비용으로 소형의 일체형 구동시스템을 적용한 전기차 양산이 가능하다는 게 회사 측 설명이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "루돌프 스타크(Rudolf Stark) 콘티넨탈 전기차부품 사업부 부사장은 \\\"cEM 솔루션으로 특정 주행 상황에서 가용 에너지를 최대한 사용하는 네트워킹과 알고리즘을 추가하는 것만으로 전기차 주행거리를 늘릴 수 있다\\\"며 \\\"열관리 및 전기적으로 발열되는 촉매 변환장치까지 확대 적용된다\\\"고 말했다.",
+				"sentenceSize": 169
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "콘티넨탈, 전기차·PHEV 전동화 솔루션 중국 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

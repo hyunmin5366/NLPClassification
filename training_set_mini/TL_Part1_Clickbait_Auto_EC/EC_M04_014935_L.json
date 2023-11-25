@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014935",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "신협, 자영업자 우대금리 상품 출시",
+		"newsSubTitle": "사업자 등록증 가진 개인 가입 가능",
+		"newsContent": "신협중앙회는 6일 자영업자에게 우대금리를 제공하는 '사장님더드림예탁금'을 출시했다.\n이 상품은 사업자등록증이 있는 개인이나 개인사업자(자영업자)면 가입이 가능하다.\n자유입출금식 예금으로 3개월 간 예금 평균잔액이 100만원 이상, 자동이체가 3건 이상일 경우 우대이율(정기예금 3개월 금리)을 제공한다.\n예금 평균 잔액이 많을수록 높은 우대금리가 적용된다.\n3개월 예금 평균잔액이 100만원인 경우 예금 잔액의 30%, 200만원인 경우 40%, 300만원인 경우 50%의 금액에 대해 우대금리가 적용된다.\n또 잔액과 월 자동이체 건수에 따라 전자금융(인터넷뱅킹·텔레뱅킹·스마트폰뱅킹)수수료를 면제해주거나 입출금 SMS문자서비스도 무료로 제공된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신협중앙회는 6일 자영업자에게 우대금리를 제공하는 '사장님더드림예탁금'을 출시했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 상품은 사업자등록증이 있는 개인이나 개인사업자(자영업자)면 가입이 가능하다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자유입출금식 예금으로 3개월 간 예금 평균잔액이 100만원 이상, 자동이체가 3건 이상일 경우 우대이율(정기예금 3개월 금리)을 제공한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예금 평균 잔액이 많을수록 높은 우대금리가 적용된다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "3개월 예금 평균잔액이 100만원인 경우 예금 잔액의 30%, 200만원인 경우 40%, 300만원인 경우 50%의 금액에 대해 우대금리가 적용된다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 잔액과 월 자동이체 건수에 따라 전자금융(인터넷뱅킹·텔레뱅킹·스마트폰뱅킹)수수료를 면제해주거나 입출금 SMS문자서비스도 무료로 제공된다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "충남도, 5월 파견될 중국 무역사절단 참가기업 모집",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

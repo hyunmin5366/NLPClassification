@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325719",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "게임",
+		"newsTitle": "조명 아래 책 펼치면...'클로바 리더'가 읽어드려요",
+		"newsSubTitle": "",
+		"newsContent": "네이버가 동화책을 읽어주는 인공지능(AI) 디바이스를 내년 중 출시한다.\n네이버 AI 기능을 집약했다.\n네이버는 '클로바 리더(Clova Reader)'를 개발 중이다.\n클로바 리더는 상단 조명과 하단 스피커로 구성된 탁상용 스탠드 형태 AI 디바이스다.\n조명에 동화책을 인식하기 위한 카메라가 탑재돼 있다.\n조명 밑에 책을 놓고 '클로바, 책 읽어줘'라고 말하면 펼쳐진 페이지부터 책을 읽어준다.\n네이버 관계자는 “클로바 리더를 2020년에 출시할 예정”이라고 말했다.\n클로바 리더에는 네이버 화면인식, 문자인식(OCR), 자연어처리(NLP), 음성합성 기술이 종합적으로 적용됐다.\n네이버가 보유한 기술은 각 분야에서 세계적 수준이다.\n클로바 리더는 비전 기술로 책 페이지 이미지를 인식한다.\n책에 출판사 음원이 있는 경우 음원을 바로 재생한다.\n음원이 없는 경우 OCR 기술로 문자를 인식하고, 음성합성 기술을 통해 자연스럽게 변환해 읽어준다.\n아이들이 책읽기에 몰입할 수 있도록, 자연어처리 기술로 문장별 감정을 파악한다.\n기쁨, 슬픔 등의 감정까지 목소리에 반영할 수 있다.\n동화책은 특성상 그림과 글자가 섞여있다.\n네이버는 곡선이나 원 모양으로 글자가 돌아가는 등 다양한 텍스트 배치와 방향을 인식하는 문제를 해결하는데 주력했다.\n비전 기술로 글자를 문맥에 맞게 클러스터링하고, 글자 방향을 인식하는 기술을 적용했다.\n자연어처리 기술로 문장별, 의미단위별로 텍스트를 구분해 자연스럽게 끊어 읽을 수 있도록 했다.\n네이버는 최근 열린 콘퍼런스 'AI 서밋 2019 서울'에서 클로바 리더 일부를 최초 공개했다.\n상용화 수준에 근접했다는 판단이다.\n클로바 비즈니스를 총괄하는 정석근 네이버 리더는 “기존 클로바 스마트 스피커를 가장 적극적으로 활용하는 사용자 중 하나가 바로 아이들”이라면서 “아이들에게 보다 특화된 디바이스와 서비스를 고민한 결과 '동화책 읽어주는 AI'를 개발하게 됐다”고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 동화책을 읽어주는 인공지능(AI) 디바이스를 내년 중 출시한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버 AI 기능을 집약했다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버는 '클로바 리더(Clova Reader)'를 개발 중이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "클로바 리더는 상단 조명과 하단 스피커로 구성된 탁상용 스탠드 형태 AI 디바이스다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조명에 동화책을 인식하기 위한 카메라가 탑재돼 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조명 밑에 책을 놓고 '클로바, 책 읽어줘'라고 말하면 펼쳐진 페이지부터 책을 읽어준다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버 관계자는 “클로바 리더를 2020년에 출시할 예정”이라고 말했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "클로바 리더에는 네이버 화면인식, 문자인식(OCR), 자연어처리(NLP), 음성합성 기술이 종합적으로 적용됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네이버가 보유한 기술은 각 분야에서 세계적 수준이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "클로바 리더는 비전 기술로 책 페이지 이미지를 인식한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "책에 출판사 음원이 있는 경우 음원을 바로 재생한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "음원이 없는 경우 OCR 기술로 문자를 인식하고, 음성합성 기술을 통해 자연스럽게 변환해 읽어준다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "아이들이 책읽기에 몰입할 수 있도록, 자연어처리 기술로 문장별 감정을 파악한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "기쁨, 슬픔 등의 감정까지 목소리에 반영할 수 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "동화책은 특성상 그림과 글자가 섞여있다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "네이버는 곡선이나 원 모양으로 글자가 돌아가는 등 다양한 텍스트 배치와 방향을 인식하는 문제를 해결하는데 주력했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "비전 기술로 글자를 문맥에 맞게 클러스터링하고, 글자 방향을 인식하는 기술을 적용했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "자연어처리 기술로 문장별, 의미단위별로 텍스트를 구분해 자연스럽게 끊어 읽을 수 있도록 했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "네이버는 최근 열린 콘퍼런스 'AI 서밋 2019 서울'에서 클로바 리더 일부를 최초 공개했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "상용화 수준에 근접했다는 판단이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "클로바 비즈니스를 총괄하는 정석근 네이버 리더는 “기존 클로바 스마트 스피커를 가장 적극적으로 활용하는 사용자 중 하나가 바로 아이들”이라면서 “아이들에게 보다 특화된 디바이스와 서비스를 고민한 결과 '동화책 읽어주는 AI'를 개발하게 됐다”고 설명했다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조명 아래 책 펼치면...'클로바 리더'가 읽어드려요",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

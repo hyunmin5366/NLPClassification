@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323224",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "트렌드마이크로, 컨테이너용 마이터 어택 프레임워크 개발 지원",
+		"newsSubTitle": "",
+		"newsContent": "트렌드마이크로(지사장 김진광)는 마이터(MITRE)의 새로운 컨테이너 프레임워크 개발을 지원했다고 14일 밝혔다.\n트렌드마이크로는 자사 위협 인텔리전스를 통해 '컨테이너용 마이터 어택(MITRE ATT&CK for Containers)' 개발에 기여했으며 지난 몇 년간 마이터와 협력해 프레임워크 구축을 위해 실제 증거에 기반한 연구 결과를 제공해왔다.\n젠 번스 마이터 사이버 보안 선임은 \\\"마이터는 어택을 비롯한 지식 기반을 공통 언어로 활용해 기업들이 사이버 공격으로부터 보안을 확립하도록 지원한다\\\"며 \\\"트렌드마이크로를 비롯한 본 연구에 참여한 조직들은 실제 공격에 대한 전문성과 경험을 제공, 마이터 보안 커뮤니티를 위한 보안 목표를 달성할 수 있도록 했다\\\"고 말했다.\n트렌드마이크로는 일곱 가지 마이터 테크닉을 지원하기 위해 실제 공격 기반 증거를 제공했다.\n이 중 두 가지 테크닉은 컨테이너용 어택을 위해 새롭게 추가됐다.\n기업과 조직은 테크닉을 참고해 공격자가 컨테이너 환경을 표적으로 삼는 방식을 확인하고 관련 위협에 대응하기 위한 인사이트를 확보할 수 있다.\n웬디 무어 트렌드마이크로 제품 솔루션 부문 부사장은 \\\"마이터의 새로운 컨테이너 프레임워크 개발을 지원할 수 있어 기쁘다\\\"며 \\\"트렌드마이크로 연구 커뮤니티는 항상 현재와 미래 위협으로부터 고객과 디지털 세계를 보호하는데 주력하고 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트렌드마이크로(지사장 김진광)는 마이터(MITRE)의 새로운 컨테이너 프레임워크 개발을 지원했다고 14일 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "트렌드마이크로는 자사 위협 인텔리전스를 통해 '컨테이너용 마이터 어택(MITRE ATT&CK for Containers)' 개발에 기여했으며 지난 몇 년간 마이터와 협력해 프레임워크 구축을 위해 실제 증거에 기반한 연구 결과를 제공해왔다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "젠 번스 마이터 사이버 보안 선임은 \\\"마이터는 어택을 비롯한 지식 기반을 공통 언어로 활용해 기업들이 사이버 공격으로부터 보안을 확립하도록 지원한다\\\"며 \\\"트렌드마이크로를 비롯한 본 연구에 참여한 조직들은 실제 공격에 대한 전문성과 경험을 제공, 마이터 보안 커뮤니티를 위한 보안 목표를 달성할 수 있도록 했다\\\"고 말했다.",
+				"sentenceSize": 183
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "트렌드마이크로는 일곱 가지 마이터 테크닉을 지원하기 위해 실제 공격 기반 증거를 제공했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 중 두 가지 테크닉은 컨테이너용 어택을 위해 새롭게 추가됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기업과 조직은 테크닉을 참고해 공격자가 컨테이너 환경을 표적으로 삼는 방식을 확인하고 관련 위협에 대응하기 위한 인사이트를 확보할 수 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "웬디 무어 트렌드마이크로 제품 솔루션 부문 부사장은 \\\"마이터의 새로운 컨테이너 프레임워크 개발을 지원할 수 있어 기쁘다\\\"며 \\\"트렌드마이크로 연구 커뮤니티는 항상 현재와 미래 위협으로부터 고객과 디지털 세계를 보호하는데 주력하고 있다\\\"고 말했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트렌드마이크로, 컨테이너용 마이터 어택 프레임워크 개발 지원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

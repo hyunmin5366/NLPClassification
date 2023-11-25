@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009179",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "충남 8월 금융기관 수신 급증",
+		"newsSubTitle": "지자체 교부금 등 유입",
+		"newsContent": "금융기관 수신이 충남지역을 중심으로 증가폭이 크게 확대(7월 +1218억원→8월 +5525억원)됐다.\n한국은행 대전ㆍ충남본부가 17일 발표한 8월 중 여ㆍ수신동향에 따르면, 충남지역의 예금은행 수신이 많이 증가(7월 +446억→8월 +4040억원)한 것으로 나타났다.\n예금(+73억원→+4391억원)은 지자체 교부금 및 법인 여유자금 등이 요구불예금 및 기업자유예금으로 크게 유입되고 정기예금도 증가세를 지속했다.\n대전지역 예금은행 수신은 기업자유예금을 중심으로 확대(7월 -1303억원→8월 +1681억원)됐다.\n예금(-1378억원→+2909억원)은 정기예금이 지자체 예산집행 등으로 감소했지만, 기업자유예금이 지자체 교부금 및 대학교 등록금 유입 등으로 크게 늘었다.\n금융기관 여신은 대전과 충남 모두 증가세를 지속했다.\n대전지역 예금은행의 대출 중 기업대출(+1249억원→+1337억원)은 중소기업 시설자금 및 법인세 납부용 차입 수요 등으로, 가계대출(+1340억원→+1423억원)은 아파트집단대출 등 주택 관련 대출을 중심으로 증가했다.\n충남지역 예금은행 여신은 기업대출(+1167억원→+1146억원)이 대기업의 법인세 납부용 차입 수요 등으로 증가세를 지속했지만, 가계대출(+108억원→+76억원)은 주택 관련 대출 감소 등으로 축소됐다.\n예금은행의 중소기업 대출은 크게 둔화(7월 +819억원→8월 +19억원)됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융기관 수신이 충남지역을 중심으로 증가폭이 크게 확대(7월 +1218억원→8월 +5525억원)됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전ㆍ충남본부가 17일 발표한 8월 중 여ㆍ수신동향에 따르면, 충남지역의 예금은행 수신이 많이 증가(7월 +446억→8월 +4040억원)한 것으로 나타났다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예금(+73억원→+4391억원)은 지자체 교부금 및 법인 여유자금 등이 요구불예금 및 기업자유예금으로 크게 유입되고 정기예금도 증가세를 지속했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대전지역 예금은행 수신은 기업자유예금을 중심으로 확대(7월 -1303억원→8월 +1681억원)됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "예금(-1378억원→+2909억원)은 정기예금이 지자체 예산집행 등으로 감소했지만, 기업자유예금이 지자체 교부금 및 대학교 등록금 유입 등으로 크게 늘었다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "금융기관 여신은 대전과 충남 모두 증가세를 지속했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대전지역 예금은행의 대출 중 기업대출(+1249억원→+1337억원)은 중소기업 시설자금 및 법인세 납부용 차입 수요 등으로, 가계대출(+1340억원→+1423억원)은 아파트집단대출 등 주택 관련 대출을 중심으로 증가했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "충남지역 예금은행 여신은 기업대출(+1167억원→+1146억원)이 대기업의 법인세 납부용 차입 수요 등으로 증가세를 지속했지만, 가계대출(+108억원→+76억원)은 주택 관련 대출 감소 등으로 축소됐다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "예금은행의 중소기업 대출은 크게 둔화(7월 +819억원→8월 +19억원)됐다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "TV홈쇼핑 소비자 불만 피해 증가 ",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

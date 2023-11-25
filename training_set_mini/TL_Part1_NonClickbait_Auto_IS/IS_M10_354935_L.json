@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354935",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "\\\"아이폰보다 비싸다\\\"…130만원 '애플워치' 뭐가 다른데?",
+		"newsSubTitle": "null",
+		"newsContent": "운동선수 전용 애플워치 가격이 1000달러(약 130만원)에 달할 것이란 분석이 나왔다.\n11일(현지시각) 블룸버그 통신의 애플 전문기자 마크 거먼은 애플워치8 익스트림 스포츠 전용모델이 약 999달러에 판매될 것이라고 보도했다.\n이는 최신 아이폰 상위모델인 '아이폰13 프로'와 비슷한 가격이다.\n전작인 애플워치7 가격은 41mm 제품이 399달러, 티타늄 케이스가 적용된 45mm 제품이 849달러에서 시작했다.\n애플워치8 가격이 최소 17% 이상 오르는 셈이다.\n이번 제품은 운동선수나 익스트림 스포츠를 즐기는 이용자를 위한 스마트시계로, 기존보다 큰 화면과 긴 배터리 수명, 체온 측정 센서, 내구성 높은 금속 케이스 등을 탑재할 전망이다.\n모델명으로 △애플워치 익스트림 △애플워치 맥스 △애플워치 익스플로러 에디션 등이 거론된다.\n특히 거먼은 더 높은 가격대 제품에 '프로'란 이름이 붙을 것으로 예상했다.\n거먼은 \\\"익스트림 스포츠를 즐기는 운동선수와 고가의 가민(Garmin) 스포츠용 스마트워치를 구매한 고객에게 매력적인 제품이 될 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "운동선수 전용 애플워치 가격이 1000달러(약 130만원)에 달할 것이란 분석이 나왔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일(현지시각) 블룸버그 통신의 애플 전문기자 마크 거먼은 애플워치8 익스트림 스포츠 전용모델이 약 999달러에 판매될 것이라고 보도했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 최신 아이폰 상위모델인 '아이폰13 프로'와 비슷한 가격이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전작인 애플워치7 가격은 41mm 제품이 399달러, 티타늄 케이스가 적용된 45mm 제품이 849달러에서 시작했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플워치8 가격이 최소 17% 이상 오르는 셈이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 제품은 운동선수나 익스트림 스포츠를 즐기는 이용자를 위한 스마트시계로, 기존보다 큰 화면과 긴 배터리 수명, 체온 측정 센서, 내구성 높은 금속 케이스 등을 탑재할 전망이다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "모델명으로 △애플워치 익스트림 △애플워치 맥스 △애플워치 익스플로러 에디션 등이 거론된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 거먼은 더 높은 가격대 제품에 '프로'란 이름이 붙을 것으로 예상했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "거먼은 \\\"익스트림 스포츠를 즐기는 운동선수와 고가의 가민(Garmin) 스포츠용 스마트워치를 구매한 고객에게 매력적인 제품이 될 것\\\"이라고 말했다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"아이폰보다 비싸다\\\"…130만원 '애플워치' 뭐가 다른데?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

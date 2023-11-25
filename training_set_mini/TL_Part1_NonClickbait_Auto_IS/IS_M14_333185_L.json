@@ -1,0 +1,267 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333185",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "'파일 없는 악성코드' 역습...1분기 지난해 공격 절반 넘어",
+		"newsSubTitle": "",
+		"newsContent": "파일 없는(Fileless) 악성코드가 급증했다.\n탐지를 막고 사후조치를 어렵게 하는 사이버 공격이다.\n한국인터넷진흥원(원장 백기승)은 지난 1분기 파일 없는 악성코드 공격이 1911건에 달했다고 밝혔다.\n지난해 파일 없는 악성 공격은 3782건이었다.\n1분기 만에 지난해 공격건수 절반을 넘어섰다.\n1분기 추세로 미뤄 올해 파일 없는 악성코드 공격은 사상 최대치에 달할 전망이다.\n파일 없는 악성코드는 말 그대로 시스템에 파일로 존재하지 않는다.\n보안 솔루션과 탐지 포렌식 검사를 우회한다.\n일반 악성코드는 사용자가 인터넷 사이트에 방문하거나 이메일에 첨부된 파일을 열면 내려온다.\n악성코드 파일이 PC에서 실행돼 정보를 빼내거나 좀비로 만든다.\n파일 없는 악성코드는 PC에 파일을 내려 받지 않는다.\n공격자는 윈도7부터 들어간 파워쉘(Powershell)과 윈도관리도구 '명령유틸리티(WMIC)'를 이용해 정보를 빼내거나 악성행위를 한다.\n파워쉘은 시스템 관리용으로 특별히 설계된 언어다.\n윈도와 응용 프로그램 관리를 자동화하는데 쓰인다.\nOS에서 정상적으로 쓰이는 명령어다.\n파일 없는 악성코드는 주로 메모리나 기본 시스템 구성 요소를 저장한 레지스트리에서 동작한다.\n공격은 주로 웹 브라우저 취약점을 이용한다.\n국내에서 주로 파일 없는 악성코드 공격은 랜섬웨어다.\n록키 랜섬웨어가 대표적이다.\n록키 랜섬웨어는 메모장으로 위장한 바로가기(.LNK) 파일 형태로 유포됐다.\n사용자가 바로가기 파일을 실행하면 파워쉘 프로그램을 이용했다.\n최근 카스퍼스키랩 발표에 따르면 세계 100곳 이상 은행과 금융기관을 공격한 악성코드 역시 파일이 없는 형태다.\n해당 악성코드는 메모리에서 실행돼 시스템을 재부팅해 확인해도 흔적을 찾기 어렵다.\n분석가들은 해당 악성코드 탐지가 어려워 실제 감염 숫자는 훨씬 많을 것으로 예측했다.\n해당 악성코드는 파일이 없는 상태로 메모리에만 존재해 기존 솔루션으로 탐지가 어렵다.\n앞으로 기업과 개인은 메모리 기반 악성코드 진단과 최초 취약점을 통해 실행되는 파워쉘 등을 차단하는 보안 솔루션을 도입해야 한다.\nKISA는 \\\"파일 없는 악성코드와 같이 기존 보안 솔루션을 우회하고 탐지와 분석을 어렵게 하는 기술적 진화가 눈에 띈다\\\"고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 27,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "파일 없는(Fileless) 악성코드가 급증했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "탐지를 막고 사후조치를 어렵게 하는 사이버 공격이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국인터넷진흥원(원장 백기승)은 지난 1분기 파일 없는 악성코드 공격이 1911건에 달했다고 밝혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 파일 없는 악성 공격은 3782건이었다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1분기 만에 지난해 공격건수 절반을 넘어섰다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "1분기 추세로 미뤄 올해 파일 없는 악성코드 공격은 사상 최대치에 달할 전망이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "파일 없는 악성코드는 말 그대로 시스템에 파일로 존재하지 않는다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "보안 솔루션과 탐지 포렌식 검사를 우회한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "일반 악성코드는 사용자가 인터넷 사이트에 방문하거나 이메일에 첨부된 파일을 열면 내려온다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "악성코드 파일이 PC에서 실행돼 정보를 빼내거나 좀비로 만든다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "파일 없는 악성코드는 PC에 파일을 내려 받지 않는다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "공격자는 윈도7부터 들어간 파워쉘(Powershell)과 윈도관리도구 '명령유틸리티(WMIC)'를 이용해 정보를 빼내거나 악성행위를 한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "파워쉘은 시스템 관리용으로 특별히 설계된 언어다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "윈도와 응용 프로그램 관리를 자동화하는데 쓰인다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "OS에서 정상적으로 쓰이는 명령어다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "파일 없는 악성코드는 주로 메모리나 기본 시스템 구성 요소를 저장한 레지스트리에서 동작한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "공격은 주로 웹 브라우저 취약점을 이용한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "국내에서 주로 파일 없는 악성코드 공격은 랜섬웨어다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "록키 랜섬웨어가 대표적이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "록키 랜섬웨어는 메모장으로 위장한 바로가기(.LNK) 파일 형태로 유포됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "사용자가 바로가기 파일을 실행하면 파워쉘 프로그램을 이용했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "최근 카스퍼스키랩 발표에 따르면 세계 100곳 이상 은행과 금융기관을 공격한 악성코드 역시 파일이 없는 형태다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "해당 악성코드는 메모리에서 실행돼 시스템을 재부팅해 확인해도 흔적을 찾기 어렵다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "분석가들은 해당 악성코드 탐지가 어려워 실제 감염 숫자는 훨씬 많을 것으로 예측했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "해당 악성코드는 파일이 없는 상태로 메모리에만 존재해 기존 솔루션으로 탐지가 어렵다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "앞으로 기업과 개인은 메모리 기반 악성코드 진단과 최초 취약점을 통해 실행되는 파워쉘 등을 차단하는 보안 솔루션을 도입해야 한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "KISA는 \\\"파일 없는 악성코드와 같이 기존 보안 솔루션을 우회하고 탐지와 분석을 어렵게 하는 기술적 진화가 눈에 띈다\\\"고 설명했다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'파일 없는 악성코드' 역습...1분기 지난해 공격 절반 넘어",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

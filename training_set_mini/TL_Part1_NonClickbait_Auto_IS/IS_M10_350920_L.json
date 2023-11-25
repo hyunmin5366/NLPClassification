@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350920",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "윈스, 美 크라우드스트라이크와 차세대 EDR 시장 공략",
+		"newsSubTitle": "null",
+		"newsContent": "정보보안 전문기업 윈스는 글로벌 엔드포인트(EDR) 보안기업 크라우드스트라이크와 리셀러 파트너십을 체결했다고 27일 밝혔다.\nEDR은 PC, 모바일 기기 등에서 랜섬웨어와 악성코드를 탐지하는 솔루션이다.\n이번 파트너십 체결로 윈스는 크라우드스트라이크의 △차세대 백신(NGAV) △엔드포인트의 실시간 위협을 탐지해 대응하는 EDR 솔루션 △관리형 위협헌팅(Threat Hunting, 위협추적 및 제거)이 포함된 보안 서비스 등의 국내 판매 자격을 획득했다.\n크라우드스트라이크는 미국 캘리포니아주(州)에 본사를 둔 클라우드 기반 보안업체로, 엔드포인트 보호 플랫폼(EPP)과 엔드포인트 탐지 및 대응(EDR) 분야에서 전문성을 인정받았다.\n이 회사는 2016년 미국 대통령 선거전에서 민주당 전국위원회(DNC) 서버가 해킹됐을 때 피해를 검증해 주목 받았다.\n이번 협약을 통해 윈스는 엔드포인트부터 네트워크까지 모든 영역에서 발생하는 위협을 탐지하고 대응하는 다계층 보안 전략을 추진할 방침이다.\n최근 늘어난 클라우드 보안 수요에 발맞춰 이번 협약 이후 클라우드 사업도 강화한다.\n박기담 윈스 전무는 \\\"엔드포인트부터 네트워크, 클라우드 보안까지 전 부문에서 고객 만족도를 높이고 IT인프라 관리 전반을 책임지는 클라우드 사업자로 발돋움 하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정보보안 전문기업 윈스는 글로벌 엔드포인트(EDR) 보안기업 크라우드스트라이크와 리셀러 파트너십을 체결했다고 27일 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "EDR은 PC, 모바일 기기 등에서 랜섬웨어와 악성코드를 탐지하는 솔루션이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 파트너십 체결로 윈스는 크라우드스트라이크의 △차세대 백신(NGAV) △엔드포인트의 실시간 위협을 탐지해 대응하는 EDR 솔루션 △관리형 위협헌팅(Threat Hunting, 위협추적 및 제거)이 포함된 보안 서비스 등의 국내 판매 자격을 획득했다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "크라우드스트라이크는 미국 캘리포니아주(州)에 본사를 둔 클라우드 기반 보안업체로, 엔드포인트 보호 플랫폼(EPP)과 엔드포인트 탐지 및 대응(EDR) 분야에서 전문성을 인정받았다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 회사는 2016년 미국 대통령 선거전에서 민주당 전국위원회(DNC) 서버가 해킹됐을 때 피해를 검증해 주목 받았다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 협약을 통해 윈스는 엔드포인트부터 네트워크까지 모든 영역에서 발생하는 위협을 탐지하고 대응하는 다계층 보안 전략을 추진할 방침이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근 늘어난 클라우드 보안 수요에 발맞춰 이번 협약 이후 클라우드 사업도 강화한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "박기담 윈스 전무는 \\\"엔드포인트부터 네트워크, 클라우드 보안까지 전 부문에서 고객 만족도를 높이고 IT인프라 관리 전반을 책임지는 클라우드 사업자로 발돋움 하겠다\\\"고 말했다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윈스, 美 크라우드스트라이크와 차세대 EDR 시장 공략",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

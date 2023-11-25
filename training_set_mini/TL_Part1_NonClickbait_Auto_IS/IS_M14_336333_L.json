@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336333",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[코로나19 급속 확산]삼성전자, 구미사업장 재가동... 갤럭시Z 플립 생산 재개",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 코로나19 확진자 발생으로 일시 폐쇄한 구미사업장을 24일 오후 1시부터 재가동했다.\n갤럭시Z 플립 등 스마트폰 생산도 차질 없이 진행할 예정이다.\n앞서 22일 삼성전자는 구미2사업장에 근무하는 직원이 코로나19 확진 판정을 받자 직원을 모두 퇴근 시키고 사업장 폐쇄와 함께 긴급 방역에 들어갔다.\n해당 직원은 18~19일 이틀에 걸쳐 동료 44명과 같은 공간에 근무했으나 아직 접촉자 중 추가 감염 의심 징후는 발견되지 않은 것으로 알려졌다.\n삼성전자는 확진자와 접촉이 의심되는 임직원 662명과 대구지역 출퇴근자 900여명을 자가격리, 재택근무 조치했다.\n대구지역 거주자 재택근무 기간은 24일부터 일주일이다.\n삼성전자 구미2사업장 근무 인원은 9000여명으로 추산된다.\n갤럭시S20 시리즈 등 플래그십 모델 국내 공급 물량과 갤럭시Z 플립을 비롯한 폴더블 스마트폰을 생산한다.\n삼성전자는 추가조업을 통해 생산 라인 폐쇄에 따른 공급 차질 등 영향을 최소화할 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 코로나19 확진자 발생으로 일시 폐쇄한 구미사업장을 24일 오후 1시부터 재가동했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "갤럭시Z 플립 등 스마트폰 생산도 차질 없이 진행할 예정이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 22일 삼성전자는 구미2사업장에 근무하는 직원이 코로나19 확진 판정을 받자 직원을 모두 퇴근 시키고 사업장 폐쇄와 함께 긴급 방역에 들어갔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 직원은 18~19일 이틀에 걸쳐 동료 44명과 같은 공간에 근무했으나 아직 접촉자 중 추가 감염 의심 징후는 발견되지 않은 것으로 알려졌다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성전자는 확진자와 접촉이 의심되는 임직원 662명과 대구지역 출퇴근자 900여명을 자가격리, 재택근무 조치했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대구지역 거주자 재택근무 기간은 24일부터 일주일이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자 구미2사업장 근무 인원은 9000여명으로 추산된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "갤럭시S20 시리즈 등 플래그십 모델 국내 공급 물량과 갤럭시Z 플립을 비롯한 폴더블 스마트폰을 생산한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "삼성전자는 추가조업을 통해 생산 라인 폐쇄에 따른 공급 차질 등 영향을 최소화할 방침이다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[코로나19 급속 확산]삼성전자, 구미사업장 재가동... 갤럭시Z 플립 생산 재개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

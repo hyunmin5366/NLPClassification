@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007103",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "김장 채소 수입문이라도 '활짝'",
+		"newsSubTitle": "",
+		"newsContent": "수급차질을 빚고 있는 김장 채소류의 수입 관세가 인하된다.\n5일 정부는 배추와 무 등의 현행 관세율을 무(無)세로 인하하고 민간의 자유로운 수입 등을 보장하기 위해 수입전량에 대해 적용키로 했다.\n현행 배추는 관세율이 27%, 무는 30% 등이다.\n마늘에 대해서는 낮은 세율로 수입할 수 있는 2010년 수입물량을 당초 1만4467톤에서 2만6467톤으로 늘리기로 했다.\n아울러 서민생활안정 지원을 위해 국내외 가격차가 큰 생필품 중 수입가격이 상승하거나 국내 소비자 가격이 상승한 품목에 대해서도 할당관세를 적용할 계획이다.\n관세인하 대상품목은 세제, 종합비타민, 두발용품, 화장비누, 향수, 타이어 등이다.\n적용세율은 국내외 가격차이를 고려해 기본세율의 50% 수준으로 인하할 예정이다.\n다만 타이어의 경우 대외경쟁력 수준 등 산업여건을 감안해 2%P 인하하고 40만개로 할당물량을 설정했다.\n이번 관세 운용안은 5일 국무회의 의결을 거쳐 확정되며, 오는 14일 전후 시행돼 올해말까지 적용될 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "수급차질을 빚고 있는 김장 채소류의 수입 관세가 인하된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 정부는 배추와 무 등의 현행 관세율을 무(無)세로 인하하고 민간의 자유로운 수입 등을 보장하기 위해 수입전량에 대해 적용키로 했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현행 배추는 관세율이 27%, 무는 30% 등이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마늘에 대해서는 낮은 세율로 수입할 수 있는 2010년 수입물량을 당초 1만4467톤에서 2만6467톤으로 늘리기로 했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아울러 서민생활안정 지원을 위해 국내외 가격차가 큰 생필품 중 수입가격이 상승하거나 국내 소비자 가격이 상승한 품목에 대해서도 할당관세를 적용할 계획이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "관세인하 대상품목은 세제, 종합비타민, 두발용품, 화장비누, 향수, 타이어 등이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "적용세율은 국내외 가격차이를 고려해 기본세율의 50% 수준으로 인하할 예정이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다만 타이어의 경우 대외경쟁력 수준 등 산업여건을 감안해 2%P 인하하고 40만개로 할당물량을 설정했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이번 관세 운용안은 5일 국무회의 의결을 거쳐 확정되며, 오는 14일 전후 시행돼 올해말까지 적용될 예정이다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우리카드, 저소득 가정 대상 '생필품 꾸러미 200박스' 전달",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

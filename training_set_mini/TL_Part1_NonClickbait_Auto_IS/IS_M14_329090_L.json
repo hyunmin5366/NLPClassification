@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329090",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[기획]베리타스 백업 솔루션",
+		"newsSubTitle": "",
+		"newsContent": "베리타스 액세스 어플라이언스는 스토리지와 액세스 소프트웨어가 결합된 데이터 장기 보관용 올인원 어플라이언스다.\n디수 백업 서버 또는 미디어 서버와 연동하고 중복 데이터를 제거한다.\n넷백업 환경에서 데이터 장기보관이 가능해 테이프를 대체하기에 충분하다.\n액세스 어플라이언스 최대 장점은 안정성이다.\n베리타스 인포스케일을 통해 효율적이고 안정적인 데이터 관리가 가능하다.\n시만텍 데이터센터 시큐리티 솔루션으로 데이터를 보호하고 AES(Advanced Encryption Standard) 방식 암호화 및 압축 기능을 제공한다.\n확장성 또한 우수하다.\n넷백업 클라우드카탈리스트와 연동하면 S3 프로토콜 기반 대용량 오브젝트 스토리지로 사용할 수 있고 네트워크저장장치(NAS)로도 활용할 수 있다.\n단일 패치로 하드웨어 및 소프트웨어 업데이트 관리할 수 있고 설치, 구성이 간편하다.\n오토 서포트나 이메일 서비스 기능으로 하드웨어 장애가 발생하면 즉시 대응할 수 있다.\n베리타스 리커버리 볼트는 클라우드 백업 솔루션이다.\n자체 관리하는 퍼블릭 클라우드 서비스 제공업체를 통해 클라우드 기반 스토리지를 프로비저닝하려면 번거로운 절차를 거친다.\n리커버리 볼트는 안전하고 익숙한, 넷백업의 통합된 인터페이스를 제공해 이 과정을 단순화했다.\n리스크는 줄이면서 백업 및 복구를 모두 관리하고 원하는 클라우드 업체로 선택해 클라우드 스토리지를 손쉽게 프로비저닝할 수 있도록 해준다.\n이를 통해 기업은 유연하게 단일 구독 방식 내에서 애플리케이션별로 서로 다른 제공 업체간 클라우드 스토리지 프로비저닝 자동화를 할 수 있다.\n리커버리 볼트는 △예상하지 못한 데이터 트랜잭션 비용 절감 △ 테이프 대비 비용 효율적 클라우드 스토리지로 전환 △자동화 및 통합 데이터 보호 스토리지 관리로 운영 간소화 △기업에 최적화된 구독 기반 모델 활용 △클라우드에서 전송, 저장, 검색되는 데이터 용량 절감 등 효용을 제공한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "베리타스 액세스 어플라이언스는 스토리지와 액세스 소프트웨어가 결합된 데이터 장기 보관용 올인원 어플라이언스다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "디수 백업 서버 또는 미디어 서버와 연동하고 중복 데이터를 제거한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "넷백업 환경에서 데이터 장기보관이 가능해 테이프를 대체하기에 충분하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "액세스 어플라이언스 최대 장점은 안정성이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "베리타스 인포스케일을 통해 효율적이고 안정적인 데이터 관리가 가능하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시만텍 데이터센터 시큐리티 솔루션으로 데이터를 보호하고 AES(Advanced Encryption Standard) 방식 암호화 및 압축 기능을 제공한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "확장성 또한 우수하다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "넷백업 클라우드카탈리스트와 연동하면 S3 프로토콜 기반 대용량 오브젝트 스토리지로 사용할 수 있고 네트워크저장장치(NAS)로도 활용할 수 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "단일 패치로 하드웨어 및 소프트웨어 업데이트 관리할 수 있고 설치, 구성이 간편하다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "오토 서포트나 이메일 서비스 기능으로 하드웨어 장애가 발생하면 즉시 대응할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "베리타스 리커버리 볼트는 클라우드 백업 솔루션이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "자체 관리하는 퍼블릭 클라우드 서비스 제공업체를 통해 클라우드 기반 스토리지를 프로비저닝하려면 번거로운 절차를 거친다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "리커버리 볼트는 안전하고 익숙한, 넷백업의 통합된 인터페이스를 제공해 이 과정을 단순화했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "리스크는 줄이면서 백업 및 복구를 모두 관리하고 원하는 클라우드 업체로 선택해 클라우드 스토리지를 손쉽게 프로비저닝할 수 있도록 해준다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이를 통해 기업은 유연하게 단일 구독 방식 내에서 애플리케이션별로 서로 다른 제공 업체간 클라우드 스토리지 프로비저닝 자동화를 할 수 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "리커버리 볼트는 △예상하지 못한 데이터 트랜잭션 비용 절감 △ 테이프 대비 비용 효율적 클라우드 스토리지로 전환 △자동화 및 통합 데이터 보호 스토리지 관리로 운영 간소화 △기업에 최적화된 구독 기반 모델 활용 △클라우드에서 전송, 저장, 검색되는 데이터 용량 절감 등 효용을 제공한다.",
+				"sentenceSize": 160
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[기획]베리타스 백업 솔루션",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

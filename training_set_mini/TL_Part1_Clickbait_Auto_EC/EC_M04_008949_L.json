@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008949",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "지역 전월세 실거래 줄었다",
+		"newsSubTitle": "7월 대전 6.4%·충남 4.5%·충북 2.1% ↓… 계절요인 커",
+		"newsContent": "지난 7월 대전ㆍ충남ㆍ충북 지역의 전·월세 시장은 여름철 비수기영향으로 실거래 건수가 감소했다.\n25일 국토해양부에 따르면 지난달 전·월세 거래량은 전월대비 전국 7.9%, 수도권 6.9%, 지방은 9.9% 준 것으로 나타났다.\n대전은 2529건으로 전달(2702건)대비 6.4%(173건), 충남은 2907건으로 전달(3045건)대비 4.5%(138건) 줄었다.\n충북도 1956건으로 전월(1999건)대비 2.1%(43건) 감소했다.\n전국의 전·월세 거래량(전체주택 기준)은 9만2857건으로 전달(10만855건)대비 7.9%(7998건) 줄었다.\n전월대비 수도권 6.9%(서울 5%), 지방도 9.9% 감소해 계절적 비수기 영향 등이 감소요인으로 작용한 것으로 분석된다.\n계약 유형별로는 전체주택은 전세 6만2000건(66%), 월세 3만1000건(34%)이며 아파트는 전세 3만4000건(74%), 월세 1만2000건(26%) 등으로 조사됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 7월 대전ㆍ충남ㆍ충북 지역의 전·월세 시장은 여름철 비수기영향으로 실거래 건수가 감소했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 국토해양부에 따르면 지난달 전·월세 거래량은 전월대비 전국 7.9%, 수도권 6.9%, 지방은 9.9% 준 것으로 나타났다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대전은 2529건으로 전달(2702건)대비 6.4%(173건), 충남은 2907건으로 전달(3045건)대비 4.5%(138건) 줄었다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "충북도 1956건으로 전월(1999건)대비 2.1%(43건) 감소했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전국의 전·월세 거래량(전체주택 기준)은 9만2857건으로 전달(10만855건)대비 7.9%(7998건) 줄었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전월대비 수도권 6.9%(서울 5%), 지방도 9.9% 감소해 계절적 비수기 영향 등이 감소요인으로 작용한 것으로 분석된다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "계약 유형별로는 전체주택은 전세 6만2000건(66%), 월세 3만1000건(34%)이며 아파트는 전세 3만4000건(74%), 월세 1만2000건(26%) 등으로 조사됐다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "재개발 뜨거운 도마·변동에 초등학교 신설될까",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

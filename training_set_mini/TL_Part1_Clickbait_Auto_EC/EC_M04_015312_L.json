@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015312",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "1인당 연간 주류 소비량 살펴보니…낮은 도수, 높은 매출",
+		"newsSubTitle": "맥주 148.7병으로 늘고 소주 62.5병으로 3.9병↓",
+		"newsContent": "최근 저도주 시장이 강세를 보이면서 맥주 소비는 증가한 반면 소주 소비는 감소한 것으로 조사됐다.\n27일 농림축산식품부와 한국농수산식품유통공사(aT)에 따르면 소주병 용량(360㎖) 기준 2013년 1인당 연간 주류 소비량은 맥주가 148.7병으로 가장 많았으며, 이어 소주 62.5병, 전통주 33병, 양주 2.7병, 와인 2.2병 순이다.\n1인당 소비량을 2010년과 비교하면 맥주는 139.8병에서 8.9병 늘었지만 소주는 66.4병에서 3.9병 감소했다.\n농식품부 측은 건강과 웰빙에 대한 관심이 높아지면서 도수가 높은 술의 소비가 줄어들고 맥주 등 저도주가 인기를 끌고 있다고 분석했다.\n특히 여성을 중심으로 저도주를 선호하는 소비층이 넓어지면서 도수를 낮추고 과일향, 탄산, 소다수 등을 첨가한 주류와 무알콜 맥주가 잇따라 출시됐다.\n소비자 선호도 조사에서도 응답자의 맥주 선호 비중이 가장 높게 나타났다.\n주류 구매 경험이 있는 20~50대 소비자 500명을 설문조사한 결과 맥주를 선호한다고 답한 비율은 48.8%를 기록했다.\n소주를 선호한다고 답한 비율은 35.6% 수준이었다.\n다양한 수입맥주의 유입도 맥주 인기의 한 요인으로 꼽힌다.\n지난해 기준 맥주 수입량은 11만9501t으로 2009년(4만192t)보다 288% 증가했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 저도주 시장이 강세를 보이면서 맥주 소비는 증가한 반면 소주 소비는 감소한 것으로 조사됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 농림축산식품부와 한국농수산식품유통공사(aT)에 따르면 소주병 용량(360㎖) 기준 2013년 1인당 연간 주류 소비량은 맥주가 148.7병으로 가장 많았으며, 이어 소주 62.5병, 전통주 33병, 양주 2.7병, 와인 2.2병 순이다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "1인당 소비량을 2010년과 비교하면 맥주는 139.8병에서 8.9병 늘었지만 소주는 66.4병에서 3.9병 감소했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "농식품부 측은 건강과 웰빙에 대한 관심이 높아지면서 도수가 높은 술의 소비가 줄어들고 맥주 등 저도주가 인기를 끌고 있다고 분석했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 여성을 중심으로 저도주를 선호하는 소비층이 넓어지면서 도수를 낮추고 과일향, 탄산, 소다수 등을 첨가한 주류와 무알콜 맥주가 잇따라 출시됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소비자 선호도 조사에서도 응답자의 맥주 선호 비중이 가장 높게 나타났다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주류 구매 경험이 있는 20~50대 소비자 500명을 설문조사한 결과 맥주를 선호한다고 답한 비율은 48.8%를 기록했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소주를 선호한다고 답한 비율은 35.6% 수준이었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "다양한 수입맥주의 유입도 맥주 인기의 한 요인으로 꼽힌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지난해 기준 맥주 수입량은 11만9501t으로 2009년(4만192t)보다 288% 증가했다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'4주 후엔 못 삽니다' KT&G, 더원 임팩트 한정 판매",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

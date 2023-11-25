@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009568",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "1분기 기업자금사정 '얼음'",
+		"newsSubTitle": "FBSI 79… 3분기 연속 하락 역대 최저",
+		"newsContent": "장기적인 경기침체 영향으로 올해 1분기 기업들의 자금사정이 급격히 냉각될 것으로 조사됐다.\n대한상공회의소가 국내 500개 기업을 대상으로'1분기 기업자금사정지수(FBSI)를 조사한 결과, 전망치가 79로 직전 분기에 비해 무려 13p가 하락하며 3분기 연속 하락세를 이어갔다.\n이는 지난 2009년 3분기 최초 조사 이래 가장 낮은 수치로 가장 큰 낙폭이다.\n자금사정 악화 이유로는 가장 많은 기업이 매출감소(65.0%)를 꼽았고, 다음으로 제조원가 상승(19.7%), 수익성 감소(14.5%), 대출 축소(0.8%) 등을 꼽았다.\n대한상의는 “국내외 경제환경 악화로 인한 수출과 내수 증가세 둔화로 기업들의 자금사정이 원활하지 않다”면서 “향후 유럽발 재정위기, 가계부채, 원자재 가격 상승 등 불안요인이 지속될 가능성이 높아, 2분기 중 자금난이 더 가중될 수 있다”고 지적했다.\n기업규모별로 보면 대기업(87) 보다는 중소기업(78)이, 업태별로는 제조업(84)보다 비제조업(74)의 자금사정이 상대적으로 좋지 않을 것으로 전망됐다.\n대기업의 경우 전년도 4분기에 99로 최초로 기준치 100 아래로 떨어진데 이어, 올해 1분기 전망이 87로 나타나 대기업의 자금사정도 여의치 않을 것으로 전망됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "장기적인 경기침체 영향으로 올해 1분기 기업들의 자금사정이 급격히 냉각될 것으로 조사됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대한상공회의소가 국내 500개 기업을 대상으로'1분기 기업자금사정지수(FBSI)를 조사한 결과, 전망치가 79로 직전 분기에 비해 무려 13p가 하락하며 3분기 연속 하락세를 이어갔다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난 2009년 3분기 최초 조사 이래 가장 낮은 수치로 가장 큰 낙폭이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "자금사정 악화 이유로는 가장 많은 기업이 매출감소(65.0%)를 꼽았고, 다음으로 제조원가 상승(19.7%), 수익성 감소(14.5%), 대출 축소(0.8%) 등을 꼽았다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대한상의는 “국내외 경제환경 악화로 인한 수출과 내수 증가세 둔화로 기업들의 자금사정이 원활하지 않다”면서 “향후 유럽발 재정위기, 가계부채, 원자재 가격 상승 등 불안요인이 지속될 가능성이 높아, 2분기 중 자금난이 더 가중될 수 있다”고 지적했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기업규모별로 보면 대기업(87) 보다는 중소기업(78)이, 업태별로는 제조업(84)보다 비제조업(74)의 자금사정이 상대적으로 좋지 않을 것으로 전망됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대기업의 경우 전년도 4분기에 99로 최초로 기준치 100 아래로 떨어진데 이어, 올해 1분기 전망이 87로 나타나 대기업의 자금사정도 여의치 않을 것으로 전망됐다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"삼성전자 제쳤다\\\" SK하이닉스 238단 낸드 개발",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

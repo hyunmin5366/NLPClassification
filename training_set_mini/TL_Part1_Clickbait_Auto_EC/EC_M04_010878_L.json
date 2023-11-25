@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010878",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "나로호 발사 카운트다운 중단 추진력 제어기 때문",
+		"newsSubTitle": "",
+		"newsContent": "나로호의 발사 카운트다운이 중단된 원인은 추진력 제어기 때문인 것으로 파악되고 있다.\n교육과학기술부와 한국항공우주연구원은 나로호의 발사를 15분여 앞둔 29일 오후 3시 46분 나로호 발사 카운트 다운을 중지했다.\n발사 카운트다운을 지켜보다 전광판 숫자가 멈추자 관람석에서 ‘뭐야’ 하는 소리가 들리며 웅성거렸다.\n항우연 관계자의 표정이 굳어졌고 통제동 내 연구원이 조광래 단장과 의견을 나뉜 뒤 통제동을 가리는 블라인드로 가려졌다.\n조율래 교육과학기술부 제2차관은 현장에서 긴급 브리핑을 갖고 “발사 자동 카운트 다운에 돌입하기 전 문제가 발생해 잠시 카운트다운을 중단한 것”이라며 “아직 발사가 중단이나 연기된 것은 아니다”고 말했다.\n노경원 교과부 전략기술개발관은 “발사 자동 카운트다운 직전인 발사 16분 52초에 2단 상단부 추력배터 제어기 신호이상으로 발사가 중단됐다. 발사 연기나 중지는 아니고 홀드 된 상태”라며 30분 이내 추진 여부 결정할 것이라고 덧붙였다.\n추진력 제어기는 로켓 비행 방향을 조절하기 위해 로켓 엔진의 추력 방향의 변화를 제공하는 장치다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "나로호의 발사 카운트다운이 중단된 원인은 추진력 제어기 때문인 것으로 파악되고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "교육과학기술부와 한국항공우주연구원은 나로호의 발사를 15분여 앞둔 29일 오후 3시 46분 나로호 발사 카운트 다운을 중지했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "발사 카운트다운을 지켜보다 전광판 숫자가 멈추자 관람석에서 ‘뭐야’ 하는 소리가 들리며 웅성거렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "항우연 관계자의 표정이 굳어졌고 통제동 내 연구원이 조광래 단장과 의견을 나뉜 뒤 통제동을 가리는 블라인드로 가려졌다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조율래 교육과학기술부 제2차관은 현장에서 긴급 브리핑을 갖고 “발사 자동 카운트 다운에 돌입하기 전 문제가 발생해 잠시 카운트다운을 중단한 것”이라며 “아직 발사가 중단이나 연기된 것은 아니다”고 말했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "노경원 교과부 전략기술개발관은 “발사 자동 카운트다운 직전인 발사 16분 52초에 2단 상단부 추력배터 제어기 신호이상으로 발사가 중단됐다. 발사 연기나 중지는 아니고 홀드 된 상태”라며 30분 이내 추진 여부 결정할 것이라고 덧붙였다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "추진력 제어기는 로켓 비행 방향을 조절하기 위해 로켓 엔진의 추력 방향의 변화를 제공하는 장치다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "선양 세이셸 마라톤 세계인의 축제 됐다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

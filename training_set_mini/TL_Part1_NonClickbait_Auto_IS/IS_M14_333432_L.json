@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333432",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "쌍용차, 평택공장 가동 정상화 차질...부품사 3곳 공급 재개 주저",
+		"newsSubTitle": "현대모비스·S&T중공업만 공급 재개 평택공장 부분 가동 재개",
+		"newsContent": "쌍용자동차가 평택공장 가동 정상화를 추진했으나 부품사 3곳이 납품을 거절하면서 차질을 빚고 있다.\n부분적으로 가동을 재개했으나 생산 손실이 지속 발생하면서 피해가 커지고 있다.\n29일 쌍용차에 따르면 평택공장 라인은 적정 재고로 부분 가동에 들어갔다.\n부품 공금을 끊었던 부품사 5곳 중 현대모비스(헤드램프), S&T중공업(차축 어셈블리)은 납품을 재개했다.\n다만 LG하우시스(범퍼), 보그워너오창(T/C 어셈블리), 콘티넨탈오토모티브(콤비 미터) 등은 아직 공급 재개를 결정하지 않았다.\n이들은 쌍용차가 법원에 회생 신청을 하자 부품 공급을 주저하고 있다.\n이미 납품한 부품 대금 결제가 힘든 상황에서 추가 공급은 힘들다는 입장이다.\n쌍용차는 나머지 협력사들과 협의를 지속할 방침이다.\n지난 25일과 28일 이틀간 공장 가동 중단으로 발생한 생산손실 규모는 1300대로 전해졌다.\n한편, 전날 서울회생법원은 쌍용차가 신청한 자율 구조조정 지원(ARS) 프로그램을 받아들여 법인 회생 절차 개시 결정을 새해 2월28일까지 보류했다.\n쌍용차는 2개월 동안 생산∙판매 활동을 이어가며 미국 HAAH오토모티브와의 신규 투자 협상을 마무리할 방침이다.\n나머지 부품사 3곳의 공급이 재개되지 않으면 이 같은 계획에서 차질이 생길 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "쌍용자동차가 평택공장 가동 정상화를 추진했으나 부품사 3곳이 납품을 거절하면서 차질을 빚고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "부분적으로 가동을 재개했으나 생산 손실이 지속 발생하면서 피해가 커지고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "29일 쌍용차에 따르면 평택공장 라인은 적정 재고로 부분 가동에 들어갔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부품 공금을 끊었던 부품사 5곳 중 현대모비스(헤드램프), S&T중공업(차축 어셈블리)은 납품을 재개했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만 LG하우시스(범퍼), 보그워너오창(T/C 어셈블리), 콘티넨탈오토모티브(콤비 미터) 등은 아직 공급 재개를 결정하지 않았다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들은 쌍용차가 법원에 회생 신청을 하자 부품 공급을 주저하고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이미 납품한 부품 대금 결제가 힘든 상황에서 추가 공급은 힘들다는 입장이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "쌍용차는 나머지 협력사들과 협의를 지속할 방침이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지난 25일과 28일 이틀간 공장 가동 중단으로 발생한 생산손실 규모는 1300대로 전해졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편, 전날 서울회생법원은 쌍용차가 신청한 자율 구조조정 지원(ARS) 프로그램을 받아들여 법인 회생 절차 개시 결정을 새해 2월28일까지 보류했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "쌍용차는 2개월 동안 생산∙판매 활동을 이어가며 미국 HAAH오토모티브와의 신규 투자 협상을 마무리할 방침이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "나머지 부품사 3곳의 공급이 재개되지 않으면 이 같은 계획에서 차질이 생길 전망이다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쌍용차, 평택공장 가동 정상화 차질...부품사 3곳 공급 재개 주저",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

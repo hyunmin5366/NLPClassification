@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339349",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "망분리 시장 잠식 KVM…보안 우려 목소리",
+		"newsSubTitle": "",
+		"newsContent": "망분리 공공기관에서 사용이 늘어나고 있는 KVM 장비에 대한 보안 전수조사가 필요하는 목소리가 높아지고 있다.\nUSB허브 기능을 갖춘 KVM이 사실상 망분리 환경을 무력화하고 있다는 지적이다.\n13일 관련업계에 따르면 망분리 환경을 구축한 공공기관과 금융기관에서 최근 두 대 PC를 공유할 수 있는 KVM 장비 사용이 늘어나고 있으나 일부 외산 제품에 대한 보안 우려가 제기되고 있다.\nKVM은 한 대의 키보드(K), 모니터(V), 마우스(M)로 두 대 PC를 공유해 사용할 수 있는 장비다.\n해킹을 막기 위해 인터넷망PC과 업무망PC를 물리적으로 분리, 2대 PC를 사용하는 공공기관에서 사용편의성을 위해 KVM 장비 사용이 늘고 있다.\n물리적 망분리는 업무용과 인터넷용으로 네트워크를 완전히 분리해 2개 네트워크간 정보공유가 이루어지질 수 없게 한다.\n어떠한 경우에도 인터넷으로부터 업무망을 보호하기 위한 가장 강력한 보안체계다.\n이같은 물리적 망분리 환경에서 2대 PC를 사용함에 따라 사용자는 많은 불편을 느끼게 됐다.\n이를 해결하고자 키보드, 마우스, 모니터를 공유하는 KVM을 사용한다.\n망분리에 따른 불편을 해소할 수 있는 방안으로 KVM이 인기를 얻고 있다.\n하지만 국내 시장을 독점하고 있는 일부 외산 KVM은 최근 USB메모리를 공유할 수 있는 USB허브를 탑재해 보안 우려가 제기되고 있다.\nUSB허브 기능을 갖춘 KVM이 사실상 물리적 망분리를 무력화하고 있다는 지적이다.\nUSB허브 기능으로 업무망과 인터넷망 간 데이터 이동이 자유롭게 이뤄져 인터넷에 연결되지 않은 업무망PC도 정보유출이나 랜섬웨어 감염 등 허점이 생긴 것이다.\n특히 외산 KVM은 보안취약점에 대한 펌웨어 업데이트 등이 신속히 이뤄지지 않아 문제를 키울 것이라는 우려감이 크다.\n업계에서는 KVM도 망연계솔루션에 버금가는 보안성 적용이 필요하다고 강조했다.\n망연계솔루션은 망분리환경에서 업무용과 인터넷용 PC간 데이터 전송이 이뤄지도록 하는 제품이다.\n망연계솔루션에는 인프라 보호와 정보 유출을 막기 위해 국가정보원이 강력한 보안가이드라인과 CC인증을 적용하고 있다.\n국정원 망분리 가이드라인에 따라 전송서버 접근통제, 구간 암호화, 자동 바이러스 검사, 로그인 관리 등 철저한 보안을 준수한다.\nKVM은 망연계솔루션에 적용되는 가이드라인이나 인증이 없어 치명적 보안사고가 발생할 수 있다.\n따라서 KVM의 기본기능을 유지하면서 강력한 보안을 유지할 수 있도록 당국이 대책을 세워야 한다고 업계는 지적했다.\n업계 관계자는 “문제가 되고 있는 KVM을 이미 도입된 기관에 대해 보안성 전수조사가 필요하다”면서 “전수조사로 문제가 확인되면 기도입된 KVM 스위치를 전량 폐기하고 보안성에 적합한 업무 환경으로 재구축해야 할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "망분리 공공기관에서 사용이 늘어나고 있는 KVM 장비에 대한 보안 전수조사가 필요하는 목소리가 높아지고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "USB허브 기능을 갖춘 KVM이 사실상 망분리 환경을 무력화하고 있다는 지적이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "13일 관련업계에 따르면 망분리 환경을 구축한 공공기관과 금융기관에서 최근 두 대 PC를 공유할 수 있는 KVM 장비 사용이 늘어나고 있으나 일부 외산 제품에 대한 보안 우려가 제기되고 있다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KVM은 한 대의 키보드(K), 모니터(V), 마우스(M)로 두 대 PC를 공유해 사용할 수 있는 장비다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해킹을 막기 위해 인터넷망PC과 업무망PC를 물리적으로 분리, 2대 PC를 사용하는 공공기관에서 사용편의성을 위해 KVM 장비 사용이 늘고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "물리적 망분리는 업무용과 인터넷용으로 네트워크를 완전히 분리해 2개 네트워크간 정보공유가 이루어지질 수 없게 한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "어떠한 경우에도 인터넷으로부터 업무망을 보호하기 위한 가장 강력한 보안체계다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이같은 물리적 망분리 환경에서 2대 PC를 사용함에 따라 사용자는 많은 불편을 느끼게 됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이를 해결하고자 키보드, 마우스, 모니터를 공유하는 KVM을 사용한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "망분리에 따른 불편을 해소할 수 있는 방안으로 KVM이 인기를 얻고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "하지만 국내 시장을 독점하고 있는 일부 외산 KVM은 최근 USB메모리를 공유할 수 있는 USB허브를 탑재해 보안 우려가 제기되고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "USB허브 기능을 갖춘 KVM이 사실상 물리적 망분리를 무력화하고 있다는 지적이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "USB허브 기능으로 업무망과 인터넷망 간 데이터 이동이 자유롭게 이뤄져 인터넷에 연결되지 않은 업무망PC도 정보유출이나 랜섬웨어 감염 등 허점이 생긴 것이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "특히 외산 KVM은 보안취약점에 대한 펌웨어 업데이트 등이 신속히 이뤄지지 않아 문제를 키울 것이라는 우려감이 크다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "업계에서는 KVM도 망연계솔루션에 버금가는 보안성 적용이 필요하다고 강조했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "망연계솔루션은 망분리환경에서 업무용과 인터넷용 PC간 데이터 전송이 이뤄지도록 하는 제품이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "망연계솔루션에는 인프라 보호와 정보 유출을 막기 위해 국가정보원이 강력한 보안가이드라인과 CC인증을 적용하고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "국정원 망분리 가이드라인에 따라 전송서버 접근통제, 구간 암호화, 자동 바이러스 검사, 로그인 관리 등 철저한 보안을 준수한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "KVM은 망연계솔루션에 적용되는 가이드라인이나 인증이 없어 치명적 보안사고가 발생할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "따라서 KVM의 기본기능을 유지하면서 강력한 보안을 유지할 수 있도록 당국이 대책을 세워야 한다고 업계는 지적했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "업계 관계자는 “문제가 되고 있는 KVM을 이미 도입된 기관에 대해 보안성 전수조사가 필요하다”면서 “전수조사로 문제가 확인되면 기도입된 KVM 스위치를 전량 폐기하고 보안성에 적합한 업무 환경으로 재구축해야 할 것”이라고 말했다.",
+				"sentenceSize": 129
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "망분리 시장 잠식 KVM…보안 우려 목소리",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

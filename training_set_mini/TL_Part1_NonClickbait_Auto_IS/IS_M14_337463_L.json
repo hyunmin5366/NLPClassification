@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337463",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "강현귀 국립암센터 교수, 대한정형외과학회 학술상 수상",
+		"newsSubTitle": "",
+		"newsContent": "강현귀 국립암센터 특수암센터장이 '3D프린팅 기술을 이용한 골종양 수술' 연구로 대한정형회과학회 제61차 추계학술대회에서 학술전시우수상을 수상했다.\n기술은 3D 프린팅 기술로 환자 맞춤형 티타늄 금속 임플란트를 짧은 시간 내 출력해 수술에 사용한다.\n수술시간과 출혈, 합병증을 줄인다.\n기존 방법으로 재건이 어렵거나 팔다리를 절단해야 하는 환자 골관절을 해부학적으로 재건한다.\n기능적으로도 정상에 가깝게 회복시킨다.\n골반골, 천추골, 사지 관절 근처, 족부 등 수술과 재건이 어려운 부위에서 3D 프린팅 기술을 이용해 골재건 가능성을 보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "강현귀 국립암센터 특수암센터장이 '3D프린팅 기술을 이용한 골종양 수술' 연구로 대한정형회과학회 제61차 추계학술대회에서 학술전시우수상을 수상했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기술은 3D 프린팅 기술로 환자 맞춤형 티타늄 금속 임플란트를 짧은 시간 내 출력해 수술에 사용한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수술시간과 출혈, 합병증을 줄인다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 방법으로 재건이 어렵거나 팔다리를 절단해야 하는 환자 골관절을 해부학적으로 재건한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기능적으로도 정상에 가깝게 회복시킨다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "골반골, 천추골, 사지 관절 근처, 족부 등 수술과 재건이 어려운 부위에서 3D 프린팅 기술을 이용해 골재건 가능성을 보였다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "강현귀 국립암센터 교수, 대한정형외과학회 학술상 수상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

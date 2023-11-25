@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355303",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"인천공항으로 우티택시 부르세요\\\"…해외여행객 편의 강화",
+		"newsSubTitle": "null",
+		"newsContent": "우티(UT LLC)는 해외여행 수요 증가에 따라 인천공항 차량 호출 서비스를 선보인다고 9일 밝혔다.\n국내 우티 앱은 해외에서 우버(Uber) 앱으로 자동 전환된다.\n별도 앱을 설치하지 않아도 세계 1만여개 도시에서 우버를 호출할수 있다.\n앱에서 100개 이상의 언어로 실시간 메시지 번역 기능을 제공해 승객과 기사간 소통을 지원한다.\n여기에 인천공항으로 택시를 호출하는 기능까지 더해 국내외 여행객을 위한 종합 모빌리티 앱으로 자리매김한다는 방침이다.\n톰 화이트 우티 CEO는 \\\"국내 이동뿐 아니라 해외여행 기간 이용자의 안전하고 편안한 이동 서비스를 위해 다양한 모빌리티 서비스를 제공하고 있다\\\"라며 \\\"앞으로도 소비자의 변화하는 수요에 선제적으로 대응하고 이용자 편의성을 강화할 것\\\"이라고 말했다.\n한편, 우티는 택시수요가 몰리는 피크시간대 최대 3000원의 이용료를 우티 가맹택시와 일반택시에 적용키로 했다.\n가맹택시 기사엔 연말까지 이용료 전액을 지급한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우티(UT LLC)는 해외여행 수요 증가에 따라 인천공항 차량 호출 서비스를 선보인다고 9일 밝혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 우티 앱은 해외에서 우버(Uber) 앱으로 자동 전환된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "별도 앱을 설치하지 않아도 세계 1만여개 도시에서 우버를 호출할수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앱에서 100개 이상의 언어로 실시간 메시지 번역 기능을 제공해 승객과 기사간 소통을 지원한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 인천공항으로 택시를 호출하는 기능까지 더해 국내외 여행객을 위한 종합 모빌리티 앱으로 자리매김한다는 방침이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "톰 화이트 우티 CEO는 \\\"국내 이동뿐 아니라 해외여행 기간 이용자의 안전하고 편안한 이동 서비스를 위해 다양한 모빌리티 서비스를 제공하고 있다\\\"라며 \\\"앞으로도 소비자의 변화하는 수요에 선제적으로 대응하고 이용자 편의성을 강화할 것\\\"이라고 말했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 우티는 택시수요가 몰리는 피크시간대 최대 3000원의 이용료를 우티 가맹택시와 일반택시에 적용키로 했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "가맹택시 기사엔 연말까지 이용료 전액을 지급한다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"인천공항으로 우티택시 부르세요\\\"…해외여행객 편의 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

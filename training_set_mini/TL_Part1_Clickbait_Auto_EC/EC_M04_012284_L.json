@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012284",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "'쌍끌이' 코스피 2010선 회복",
+		"newsSubTitle": "외국인·기관 동반 매수 '상승 견인'",
+		"newsContent": "코스피 지수가 2거래일째 상승세를 이어가며 2010선을 회복했다.\n25일 코스피는 전거래일 대비 9.75포인트(0.49%) 오른 2015.98에 거래를 마쳤다.\n이날 코스피는 미국발 훈풍과 외국인과 기관의 동반 매수세가 초반부터 상승세를 이끌었다.\n주체별로는 외국인과 기관이 각각 883억원,576억원 매수했다.\n개인은 3홀로 1447억원 매도했다.\n코스닥 지수는 전일대비 3.70포인트 오른 507.76으로 장을 마감했다.\n코스닥은 외국인과 기관이 각각 218억원, 120억원 순매도 했으며, 개인이 310억원 순매도를 기록했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피 지수가 2거래일째 상승세를 이어가며 2010선을 회복했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 코스피는 전거래일 대비 9.75포인트(0.49%) 오른 2015.98에 거래를 마쳤다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 코스피는 미국발 훈풍과 외국인과 기관의 동반 매수세가 초반부터 상승세를 이끌었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주체별로는 외국인과 기관이 각각 883억원,576억원 매수했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개인은 3홀로 1447억원 매도했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코스닥 지수는 전일대비 3.70포인트 오른 507.76으로 장을 마감했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코스닥은 외국인과 기관이 각각 218억원, 120억원 순매도 했으며, 개인이 310억원 순매도를 기록했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "펄어비스, 신작 가뭄 속 영업익 430억... 전년 比 72% ↓",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

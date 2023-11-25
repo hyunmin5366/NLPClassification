@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002908",
+		"newsCategory": "경제",
+		"newsSubcategory": "증권",
+		"newsTitle": "삼성증권, 지난해 영업이익 6793억원…전년比 31%↑",
+		"newsSubTitle": "당기순이익은 5076억원, 전년比 30%↑",
+		"newsContent": "삼성증권이 지난해 5076억원의 당기순이익을 기록했다고 9일 밝혔다.\n지난 2019년 대비 30% 증가한 규모이며, 3년 연속 사상 최대 실적을 경신한 기록이다.\n지난해 영업이익은 전년 대비 31% 증가한 6793억원을 기록했다.\n리테일 사업 부문 순수탁수수료가 6853억원을 기록하며 실적 상승세를 이끌었다는 분석이다.\n리테일 고객 예탁자산은 한 해 동안 31조원이 순유입돼 총 264조원을 기록했다.\n예탁자산이 1억원 이상인 고객은 18만4000명으로 전년 대비 76% 늘었고, 30억원 이상인 초부유층 고객은 2841만명으로 42% 증가했다.\n삼성증권 관계자는 미디어SR에 \\\"IPO(기업공개) 딜과 구조화금융 영업 호조를 바탕으로 인수 및 자문수수료 실적이 전년보다 13% 증가한 부분도 호실적에 영향을 미쳤다\\\"고 설명했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성증권이 지난해 5076억원의 당기순이익을 기록했다고 9일 밝혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2019년 대비 30% 증가한 규모이며, 3년 연속 사상 최대 실적을 경신한 기록이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 영업이익은 전년 대비 31% 증가한 6793억원을 기록했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "리테일 사업 부문 순수탁수수료가 6853억원을 기록하며 실적 상승세를 이끌었다는 분석이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "리테일 고객 예탁자산은 한 해 동안 31조원이 순유입돼 총 264조원을 기록했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예탁자산이 1억원 이상인 고객은 18만4000명으로 전년 대비 76% 늘었고, 30억원 이상인 초부유층 고객은 2841만명으로 42% 증가했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성증권 관계자는 미디어SR에 \\\"IPO(기업공개) 딜과 구조화금융 영업 호조를 바탕으로 인수 및 자문수수료 실적이 전년보다 13% 증가한 부분도 호실적에 영향을 미쳤다\\\"고 설명했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"우리도 신약·바이오\\\"…석유화학사들 조단위 투자 나선다(종합)",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004259",
+		"newsCategory": "경제",
+		"newsSubcategory": "IT·통신",
+		"newsTitle": "AI로 영상 자막도 생생하게 만든다",
+		"newsSubTitle": "SKT-JTBC스튜디오, 자막기술 공동 개발",
+		"newsContent": "SK텔레콤이 청각 장애인의 시청 환경을 개선하고 국내 콘텐츠의 해외 확산을 위해 JTBC스튜디오와 손잡는다.\nSK텔레콤은 JTBC스튜디오와 '실시간 AI(인공지능) 자동 자막서비스' 기술 개발 협약을 27일 체결했다.\n양사는 청각 장애인 등 사회적 약자를 위해 드라마, 예능 등 모든 프로그램과 IPTV(인터넷TV), OTT(온라인서비스) 동영상 등 다양한 미디어에 자막 서비스를 제공하는 AI 미디어기술을 공동 개발한다.\nAI 영상 자막기술은 AI가 영상 콘텐츠를 인식해 자동으로 한국어 자막을 제공하는 기술이다.\nSK텔레콤의 음성인식 및 자막 생성 딥러닝 기술, JTBC스튜디오의 콘텐츠 및 방송기술 컨설팅을 활용한 원천기술을 함께 활용한다.\nSK텔레콤 관계자는 데일리임팩트에 \\\"OST 속 가수의 목소리, 외부 잡음 등을 다양한 소리를 분리해 실제 대사만 인식할 수 있게 하기 위한 기술의 정확도를 높이기 위한 연구를 하고 있다\\\"며 \\\"상품화에는 2년 정도 걸릴 것으로 보고 있다\\\"고 전했다.\n현재 주요 방송사들은 사람이 직접 영상 콘텐츠의 대화를 듣고 이를 자막화해 서비스를 제공하고 있다.\n이로 인해 4~5초 정도의 지연되면서 일부 대락이 누락되기도 했다.\n또 주문형비디오(VOD) 및 OTT 매체에는 수어·자막 서비스를 제공되지 않아 청각장애인의 시청 환경이 열악했다.\n게다가 구글의 음성 인식기를 사용하더라도 잡음이 많은 방송에서는 바로 활용하기 어려웠다.\n사투리, 배경음악, 생활잡음 등이 섞으면 자막 추출의 정확도가 떨어졌다.\n이에 양사는 방송콘텐츠에 특화된 AI 음성인식 및 잡음제거 기술을 개발키로 했다.\n해당 기술이 개발되면 대본이 없는 교양이나 예능 콘텐츠에도 자막파일 자동생성 및 싱크 기술이 포함되기 때문에 번역 등 수출 준비 시간이나 비용을 획기적으로 줄일 수 있다.\n아울러 신종 코로나바이러스 감염증(코로나19)으로 영상 콘텐츠에 대한 의존도가 높아지고 있는 상황에서 그동안 수어 방송이나 자막이 제공되는 프로그램이 부족했던 청각 장애인들의 시청권 향상에 도움이 될 것으로 보인다.\n이와 관련, 방송통신위원회는 최근 장애인을 위한 수어 방송의 의무화 비율을 세계 최고 수준으로 확대하겠다고 밝힌 바 있다.\n양사는 향후 주요 방송 채널에 실시간 제공되는 자막 서비스를 더 많은 채널과 다양한 미디어로 확대 적용할 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤이 청각 장애인의 시청 환경을 개선하고 국내 콘텐츠의 해외 확산을 위해 JTBC스튜디오와 손잡는다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SK텔레콤은 JTBC스튜디오와 '실시간 AI(인공지능) 자동 자막서비스' 기술 개발 협약을 27일 체결했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양사는 청각 장애인 등 사회적 약자를 위해 드라마, 예능 등 모든 프로그램과 IPTV(인터넷TV), OTT(온라인서비스) 동영상 등 다양한 미디어에 자막 서비스를 제공하는 AI 미디어기술을 공동 개발한다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AI 영상 자막기술은 AI가 영상 콘텐츠를 인식해 자동으로 한국어 자막을 제공하는 기술이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SK텔레콤의 음성인식 및 자막 생성 딥러닝 기술, JTBC스튜디오의 콘텐츠 및 방송기술 컨설팅을 활용한 원천기술을 함께 활용한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SK텔레콤 관계자는 데일리임팩트에 \\\"OST 속 가수의 목소리, 외부 잡음 등을 다양한 소리를 분리해 실제 대사만 인식할 수 있게 하기 위한 기술의 정확도를 높이기 위한 연구를 하고 있다\\\"며 \\\"상품화에는 2년 정도 걸릴 것으로 보고 있다\\\"고 전했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 주요 방송사들은 사람이 직접 영상 콘텐츠의 대화를 듣고 이를 자막화해 서비스를 제공하고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이로 인해 4~5초 정도의 지연되면서 일부 대락이 누락되기도 했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 주문형비디오(VOD) 및 OTT 매체에는 수어·자막 서비스를 제공되지 않아 청각장애인의 시청 환경이 열악했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "게다가 구글의 음성 인식기를 사용하더라도 잡음이 많은 방송에서는 바로 활용하기 어려웠다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "사투리, 배경음악, 생활잡음 등이 섞으면 자막 추출의 정확도가 떨어졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이에 양사는 방송콘텐츠에 특화된 AI 음성인식 및 잡음제거 기술을 개발키로 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "해당 기술이 개발되면 대본이 없는 교양이나 예능 콘텐츠에도 자막파일 자동생성 및 싱크 기술이 포함되기 때문에 번역 등 수출 준비 시간이나 비용을 획기적으로 줄일 수 있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "아울러 신종 코로나바이러스 감염증(코로나19)으로 영상 콘텐츠에 대한 의존도가 높아지고 있는 상황에서 그동안 수어 방송이나 자막이 제공되는 프로그램이 부족했던 청각 장애인들의 시청권 향상에 도움이 될 것으로 보인다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이와 관련, 방송통신위원회는 최근 장애인을 위한 수어 방송의 의무화 비율을 세계 최고 수준으로 확대하겠다고 밝힌 바 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "양사는 향후 주요 방송 채널에 실시간 제공되는 자막 서비스를 더 많은 채널과 다양한 미디어로 확대 적용할 예정이다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "은행 예금금리 또 인하 ... 저축은행 금리는 그대로",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

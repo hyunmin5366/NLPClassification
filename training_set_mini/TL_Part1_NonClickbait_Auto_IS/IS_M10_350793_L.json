@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350793",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "DGIST, 데이터 저장·찾기 43배 빠른 파일시스템 '케빈' 개발",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 데이터 저장·색인 속도를 획기적으로 높이는 파일 시스템 기술을 개발했다.\n방대한 양의 데이터 처리를 필요로 하는 인공지능, 빅데이터 분야의 혁신을 촉진할 기술로 주목받는다.\n대구경북과학기술원(DGIST)은 19일 정보통신융합전공 이성진 교수 연구팀이 전통적인 컴퓨터 데이터 저장 시스템의 성능 저하 문제를 해결할 새로운 키-값 인터페이스 기반 파일 시스템 '케빈'(KEVIN)을 개발했다고 밝혔다.\n파일 시스템은 데이터를 저장, 색인하는 시스템 소프트웨어로 빅데이터 처리, 인공지능 등 컴퓨터 시스템 전분야에서 사용된다.\n기존 블록 인터페이스 기반 파일 시스템은 데이터를 저장매체 내 크기가 고정돼있는 블록 단위별로 저장하는데, 데이터 입출력 부하가 높아 시간이 지날수록 시스템 성능이 떨어지는 문제가 있다.\n연구팀은 블록의 크기를 유연하게 바꿀 수 있는 키-값 인터페이스에 주목했다.\n키-값 인터페이스는 기존 파일 연산을 간단한 키-값으로 바꿔 파일 시스템 복잡도를 크게 줄이는데 효과적이었다.\n케빈은 기존 파일 시스템과 같은 수준의 데이터 안정성을 보이면서도, 최대 43배 빠른 파일 연산 처리 성능을 보였다.\n이성진 교수는 \\\"이번 연구는 초고속 저장장치에서 데이터를 입출력시 발생하는 병목현상을 해소하고, 40배 이상의 성능 향상의 가능성을 보여줬다\\\"며 \\\"'빅데이터, 인공지능뿐만 아니라 저장장치 설계 분야에 적용돼 데이터 처리에 혁신을 가져올 수 있도록 연구에 매진할 것\\\"이라고 말했다. 이번 연구성과는 컴퓨터시스템 분야의 저명 학회인 'USENIX Symposium on Operating Systems Design and Implementation'(OSDI)에서 지난 14일 발표됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 데이터 저장·색인 속도를 획기적으로 높이는 파일 시스템 기술을 개발했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "방대한 양의 데이터 처리를 필요로 하는 인공지능, 빅데이터 분야의 혁신을 촉진할 기술로 주목받는다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대구경북과학기술원(DGIST)은 19일 정보통신융합전공 이성진 교수 연구팀이 전통적인 컴퓨터 데이터 저장 시스템의 성능 저하 문제를 해결할 새로운 키-값 인터페이스 기반 파일 시스템 '케빈'(KEVIN)을 개발했다고 밝혔다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파일 시스템은 데이터를 저장, 색인하는 시스템 소프트웨어로 빅데이터 처리, 인공지능 등 컴퓨터 시스템 전분야에서 사용된다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기존 블록 인터페이스 기반 파일 시스템은 데이터를 저장매체 내 크기가 고정돼있는 블록 단위별로 저장하는데, 데이터 입출력 부하가 높아 시간이 지날수록 시스템 성능이 떨어지는 문제가 있다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구팀은 블록의 크기를 유연하게 바꿀 수 있는 키-값 인터페이스에 주목했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "키-값 인터페이스는 기존 파일 연산을 간단한 키-값으로 바꿔 파일 시스템 복잡도를 크게 줄이는데 효과적이었다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "케빈은 기존 파일 시스템과 같은 수준의 데이터 안정성을 보이면서도, 최대 43배 빠른 파일 연산 처리 성능을 보였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이성진 교수는 \\\"이번 연구는 초고속 저장장치에서 데이터를 입출력시 발생하는 병목현상을 해소하고, 40배 이상의 성능 향상의 가능성을 보여줬다\\\"며 \\\"'빅데이터, 인공지능뿐만 아니라 저장장치 설계 분야에 적용돼 데이터 처리에 혁신을 가져올 수 있도록 연구에 매진할 것\\\"이라고 말했다. 이번 연구성과는 컴퓨터시스템 분야의 저명 학회인 'USENIX Symposium on Operating Systems Design and Implementation'(OSDI)에서 지난 14일 발표됐다.",
+				"sentenceSize": 274
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "DGIST, 데이터 저장·찾기 43배 빠른 파일시스템 '케빈' 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

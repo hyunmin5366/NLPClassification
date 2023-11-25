@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326833",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "KT, 위즈박스로 중소기업 망분리 쉽게 한다",
+		"newsSubTitle": "",
+		"newsContent": "복잡하고 어려운 물리적 망분리를 간편하게 하는 솔루션이 나왔다.\nKT는 중소기업용 망분리 솔루션 '위즈박스'를 개발했다.\n망분리는 외부로부터 연결통로가 되는 인터넷망과 기업 업무망을 분리해 정보를 안전하게 보호하는 방법이다.\n금융권과 주요기반시설 등이 망분리 환경을 구축했다.\n최근 방산업체와 협력사까지 망분리가 의무화됐다.\n대기업을 제외하고 중소 방위산업체나 협력사는 망분리 복잡성과 비용문제로 어려움을 겪는다.\nKT는 중소기업에 특화한 망분리 솔루션을 내놨다.\n위즈박스는 100명 이하 기업이 망분리를 추진할 때 적합하다.\n위즈박스는 물리적으로 업무망과 인터넷망을 구분해 외부 보안 위협을 대응한다.\n위즈박스는 구간 암호 기능이 구현됐다.\nKT는 암호모듈검증(KCMVP) 인증을 받은 구간 암호화 기술을 적용했다.\n계정은 물리적복제방지(PUF) 기술로 인증한다.\n에이전트가 없는 네트워크접근제어(NAC) 기능과 IP기반 전용회선 솔루션으로 회선 보안을 강화했다.\n2개 망분리 스위치 모듈을 한 개 박스에 구현했다.\n보안 탐지와 차단 정책을 원격에서 지원한다.\n위즈박스는 기존 망분리 솔루션보다 절반 이상 저렴한 가격에 환경을 구축한다.\nKT는 10명 미만 기업이 위즈박스를 도입하면 기존 보다 약 50%를 절감해 망분리 환경을 구축한다.\n김태균 KT 통합보안개발센터 상무는 “방산기업과 협력사 등은 망분리를 반드시 해야 하는데 구축 복잡성과 비용 때문에 어려움을 겪는다”면서 “위즈박스는 합리적 가격에 효율적으로 망분리하는 솔루션”이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "복잡하고 어려운 물리적 망분리를 간편하게 하는 솔루션이 나왔다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT는 중소기업용 망분리 솔루션 '위즈박스'를 개발했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "망분리는 외부로부터 연결통로가 되는 인터넷망과 기업 업무망을 분리해 정보를 안전하게 보호하는 방법이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "금융권과 주요기반시설 등이 망분리 환경을 구축했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 방산업체와 협력사까지 망분리가 의무화됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대기업을 제외하고 중소 방위산업체나 협력사는 망분리 복잡성과 비용문제로 어려움을 겪는다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KT는 중소기업에 특화한 망분리 솔루션을 내놨다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "위즈박스는 100명 이하 기업이 망분리를 추진할 때 적합하다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "위즈박스는 물리적으로 업무망과 인터넷망을 구분해 외부 보안 위협을 대응한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "위즈박스는 구간 암호 기능이 구현됐다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "KT는 암호모듈검증(KCMVP) 인증을 받은 구간 암호화 기술을 적용했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "계정은 물리적복제방지(PUF) 기술로 인증한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "에이전트가 없는 네트워크접근제어(NAC) 기능과 IP기반 전용회선 솔루션으로 회선 보안을 강화했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "2개 망분리 스위치 모듈을 한 개 박스에 구현했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "보안 탐지와 차단 정책을 원격에서 지원한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "위즈박스는 기존 망분리 솔루션보다 절반 이상 저렴한 가격에 환경을 구축한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "KT는 10명 미만 기업이 위즈박스를 도입하면 기존 보다 약 50%를 절감해 망분리 환경을 구축한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "김태균 KT 통합보안개발센터 상무는 “방산기업과 협력사 등은 망분리를 반드시 해야 하는데 구축 복잡성과 비용 때문에 어려움을 겪는다”면서 “위즈박스는 합리적 가격에 효율적으로 망분리하는 솔루션”이라고 설명했다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 위즈박스로 중소기업 망분리 쉽게 한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

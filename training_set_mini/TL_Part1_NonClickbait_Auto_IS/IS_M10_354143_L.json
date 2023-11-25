@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354143",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "\\\"산업 현장 실시간 대응\\\" SK쉴더스, '써미츠'에 근로자 안전상품 연동",
+		"newsSubTitle": "null",
+		"newsContent": "SK쉴더스가 융합보안 플랫폼 '써미츠'(SUMiTS)를 근로자 안전상품 '웨어러블 에어백'과 연동하는 등 산업안전 시장 강화에 나선다고 2일 밝혔다.\n지난해 10월 출시된 지능형 융합보안 플랫폼 써미츠는 인공지능(AI)·머신러닝 등 첨단 기술과 접목돼 수집된 위협 정보 분석과 즉각 대응이 가능하다는 장점을 갖췄다.\n특히 산업현장에 설치된 지능형 영상분석과 유해가스·온도·화재 감지 등 다양한 IoT센서를 활용해 정보를 수집하는 호환성을 갖췄다.\nSK쉴더스는 건설·제조·물류센터 등 현장에서 고소작업(높은 곳에서 작업하는 것)으로 발생하는 추락사고에 대비하는 '웨어러블 에어백'을 지난주 출시했다.\n웨어러블 에어백은 자동차 에어백과 같이 근로자 추락을 감지해 0.2초 내 내장된 이산화탄소가 팽창하면서 충격을 완화해준다.\n추락과 동시에 현장 관리자에게 긴급 문자메시지가 전송돼 후속 조치가 가능하다.\nSK쉴더스는 써미츠에 웨어러블 에어백을 연동할 계획이다.\n연동 시 작업장 인근 고성능 CCTV와 플랫폼 영상분석 기능을 활용해 작업 중 안전관리 현황을 실시간 모니터링할 수 있다.\n김영주 SK쉴더스 융합보안사업본부장은 \\\"융합보안 선도기업으로서 산업재해를 사전에 예방하고 대처할 수 있는 스마트한 융합보안 시스템 개발에 더욱 힘쓸 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK쉴더스가 융합보안 플랫폼 '써미츠'(SUMiTS)를 근로자 안전상품 '웨어러블 에어백'과 연동하는 등 산업안전 시장 강화에 나선다고 2일 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 10월 출시된 지능형 융합보안 플랫폼 써미츠는 인공지능(AI)·머신러닝 등 첨단 기술과 접목돼 수집된 위협 정보 분석과 즉각 대응이 가능하다는 장점을 갖췄다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 산업현장에 설치된 지능형 영상분석과 유해가스·온도·화재 감지 등 다양한 IoT센서를 활용해 정보를 수집하는 호환성을 갖췄다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SK쉴더스는 건설·제조·물류센터 등 현장에서 고소작업(높은 곳에서 작업하는 것)으로 발생하는 추락사고에 대비하는 '웨어러블 에어백'을 지난주 출시했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "웨어러블 에어백은 자동차 에어백과 같이 근로자 추락을 감지해 0.2초 내 내장된 이산화탄소가 팽창하면서 충격을 완화해준다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "추락과 동시에 현장 관리자에게 긴급 문자메시지가 전송돼 후속 조치가 가능하다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SK쉴더스는 써미츠에 웨어러블 에어백을 연동할 계획이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연동 시 작업장 인근 고성능 CCTV와 플랫폼 영상분석 기능을 활용해 작업 중 안전관리 현황을 실시간 모니터링할 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "김영주 SK쉴더스 융합보안사업본부장은 \\\"융합보안 선도기업으로서 산업재해를 사전에 예방하고 대처할 수 있는 스마트한 융합보안 시스템 개발에 더욱 힘쓸 것\\\"이라고 말했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"산업 현장 실시간 대응\\\" SK쉴더스, '써미츠'에 근로자 안전상품 연동",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

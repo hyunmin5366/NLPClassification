@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354063",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "\\\"전원 없이 데이터 복원\\\" 국내 연구진, 세계 최초 '비휘발성 컴퓨터' 개발",
+		"newsSubTitle": "null",
+		"newsContent": "카이스트(KAIST)는 전기및전자공학부 정명수 교수 연구팀이 전원 공급 없이도 모든 정보가 복원·작동되는 비휘발성 컴퓨터 '라이트PC'를 세계 최초로 개발했다고 25일 밝혔다.\n휘발성 메모리인 D램을 메인 메모리로 사용하는 기존 컴퓨터는 전원 공급이 없을 경우 메모리에 저장된 데이터가 사라진다.\n이러한 D램보다 전력 소모가 적고 용량이 큰 비휘발성 메모리(인텔 옵테인 메모리)는 데이터를 영구 기억하는 특징이 있다.\n다만, 복잡한 내부 구조 설계로 성능이 느려 D램과 함께 사용하며, 비휘발성 메모리에 저장되는 일부 데이터만을 선택적으로 유지하는 역할을 한다.\n만일 비휘발성 메모리 성능이 향상돼 메인 메모리로 단독 사용하게 돼도 갑작스럽게 전원 공급이 차단될 시 모든 정보를 유지하기는 역부족이다.\n메모리 내부 휘발성 구성요소와 프로세서 자체의 레지스터·캐시 메모리 등 임시 저장 공간 데이터는 전원 공급 없이는 지속적으로 보존되지 않는다.\n휘발성 데이터를 비휘발성 메모리나 저장장치인 SSD(Solid State Drive) 등으로 옮기는 '체크포인팅' 기법이 쓰이고 있지만 시간·전력 소모가 크다는 단점이 있다.\n정명수 교수 연구팀은 이러한 과정 없이 컴퓨터 모든 프로그램의 실행 상태와 데이터을 전원 없이 비휘발성으로 유지하는 프로세서와 메모리 컨트롤러, 운영체제 기술을 개발했다.\n연구팀이 개발한 라이트PC 기술은 프로세서 하드웨어 데이터 경로상의 휘발성 구성요소를 최소화하고 복잡한 내부 구조는 최대한 단순화해 성능을 개선했다.\n또 다양한 형태의 지속성 기능이 추가된 운영체제를 구축해 전원이 재공급되더라도 부팅 없이 멈춘 시간부터 다시 실행되도록 했다.\n라이트PC는 기존 컴퓨터 대비 최대 8배 큰 메모리와 4.3배 빠른 응용실행력, 73%의 전력 소모 절감을 보였다.\n정명수 교수는 \\\"이번 비휘발성 컴퓨터 관련 연구 핵심기술은 차량·모바일·사물인터넷 장치 등의 베터리 사용량을 최소화하고 초연결사회를 이루는 등 다양하게 활용될 수 있을 것\\\"이라고 말했다.\n한편, 이 연구는 차세대 메모리 개발 및 공급업체 멤레이, 과학기술정보통신부와 한국연구재단이 추진하는 우수신진사업, 정보통신기획평가원의 연구 지원을 받아 진행됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카이스트(KAIST)는 전기및전자공학부 정명수 교수 연구팀이 전원 공급 없이도 모든 정보가 복원·작동되는 비휘발성 컴퓨터 '라이트PC'를 세계 최초로 개발했다고 25일 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "휘발성 메모리인 D램을 메인 메모리로 사용하는 기존 컴퓨터는 전원 공급이 없을 경우 메모리에 저장된 데이터가 사라진다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이러한 D램보다 전력 소모가 적고 용량이 큰 비휘발성 메모리(인텔 옵테인 메모리)는 데이터를 영구 기억하는 특징이 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다만, 복잡한 내부 구조 설계로 성능이 느려 D램과 함께 사용하며, 비휘발성 메모리에 저장되는 일부 데이터만을 선택적으로 유지하는 역할을 한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "만일 비휘발성 메모리 성능이 향상돼 메인 메모리로 단독 사용하게 돼도 갑작스럽게 전원 공급이 차단될 시 모든 정보를 유지하기는 역부족이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "메모리 내부 휘발성 구성요소와 프로세서 자체의 레지스터·캐시 메모리 등 임시 저장 공간 데이터는 전원 공급 없이는 지속적으로 보존되지 않는다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "휘발성 데이터를 비휘발성 메모리나 저장장치인 SSD(Solid State Drive) 등으로 옮기는 '체크포인팅' 기법이 쓰이고 있지만 시간·전력 소모가 크다는 단점이 있다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정명수 교수 연구팀은 이러한 과정 없이 컴퓨터 모든 프로그램의 실행 상태와 데이터을 전원 없이 비휘발성으로 유지하는 프로세서와 메모리 컨트롤러, 운영체제 기술을 개발했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "연구팀이 개발한 라이트PC 기술은 프로세서 하드웨어 데이터 경로상의 휘발성 구성요소를 최소화하고 복잡한 내부 구조는 최대한 단순화해 성능을 개선했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또 다양한 형태의 지속성 기능이 추가된 운영체제를 구축해 전원이 재공급되더라도 부팅 없이 멈춘 시간부터 다시 실행되도록 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "라이트PC는 기존 컴퓨터 대비 최대 8배 큰 메모리와 4.3배 빠른 응용실행력, 73%의 전력 소모 절감을 보였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "정명수 교수는 \\\"이번 비휘발성 컴퓨터 관련 연구 핵심기술은 차량·모바일·사물인터넷 장치 등의 베터리 사용량을 최소화하고 초연결사회를 이루는 등 다양하게 활용될 수 있을 것\\\"이라고 말했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "한편, 이 연구는 차세대 메모리 개발 및 공급업체 멤레이, 과학기술정보통신부와 한국연구재단이 추진하는 우수신진사업, 정보통신기획평가원의 연구 지원을 받아 진행됐다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"전원 없이 데이터 복원\\\" 국내 연구진, 세계 최초 '비휘발성 컴퓨터' 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

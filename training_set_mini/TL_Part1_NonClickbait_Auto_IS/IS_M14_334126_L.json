@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334126",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "비투엔-오픈랩스, 클라우드 환경 '데이터 처리 가상화' 공동 특허 출원",
+		"newsSubTitle": "",
+		"newsContent": "빅데이터∙인공지능(AI) 전문기업 비투엔(대표 조광원)은 오픈소스 기술 전문기업 오픈랩스(대표 하창석)와 클라우드 환경 내 데이터 처리 가상화 관련 특허 3건을 공동 출원했다고 24일 밝혔다.\n양사가 공동 출원한 특허는 '마이크로 서비스 아키텍처(MSA) 기반 트랜잭션 지원 서비스'를 뒷받침하는 원천 기술이다.\n△MSA 기반 트랜잭션 가상화 처리 장치∙방법 △MSA 기반 트랜잭션 가용성과 성능 보장 처리 장치∙방법 △MSA 기반 쿼리 오케스트레이션 처리 장치∙방법 등 총 3건이다.\n비투엔은 이에 앞서 오픈랩스와 지난해 12월 데이터 처리 가상화 기술 관련 개발 업무협약(MOU)을 체결하고 향후 1년간 9억원을 들여 공동 개발키로 한 바 있다.\n이번 특허 출원은 양사간 중간 기술 개발 결과물이다.\nMSA는 단독으로 실행 가능한 최소 서비스 단위로 시스템을 설계∙개발하는 SW 개발 기법이다.\n독립적인 서비스를 제공하기 때문에 개발자들이 클라우드 망을 통해 공유하고 협업해 자유로운 개발 활동과 용이한 유지 보수가 가능하다는 장점이 있다.\n하지만 MSA 기반으로 시스템을 개발하는 경우 데이터 정합성 보장과 트랜잭션 증가로 인한 시스템 성능 저하 등 문제점이 발생하곤 한다.\n이에 양사는 클라우드 환경에서 여러 데이터베이스를 사용해도 개발 난도나 운영 복잡성이 증가하지 않도록 기술 장벽을 허물어 주는 특허 기술을 개발해 공동 출원했다.\n특히 기존 프로그램의 변경을 최소화해 적용함으로써 이미 구축된 시스템에서도 쉽게 접근이 가능한 게 특징이다.\n양사는 올해 상반기 론칭을 목표로 데이터 처리 가상화 솔루션 데모 버전을 개발 중이다.\n원천 기술을 바탕으로 최적화된 데이터 활용을 지원할 뿐만 아니라 빅데이터∙인공지능(AI) 기술을 활용해 서비스 부하에 따라 서비스를 통합하거나 세부 단위로 추가하는 추천서비스를 제공할 계획이다.\n비투엔 관계자는 \\\"이번 특허 출원으로 클라우드 환경에서 보편화되고 있는 MSA 기반 트랜잭션 처리∙관리 서비스에 대한 원천 기술을 확보했다\\\"며 \\\"AI, 빅데이터와 같은 신기술 적용과 더불어 다중 DBMS 사용으로 MSA 적용 과정에서 비롯되는 개발 복잡도, 트랜잭션 증가, 데이터 정합성 관리 등을 해결할 것\\\"으로 기대했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빅데이터∙인공지능(AI) 전문기업 비투엔(대표 조광원)은 오픈소스 기술 전문기업 오픈랩스(대표 하창석)와 클라우드 환경 내 데이터 처리 가상화 관련 특허 3건을 공동 출원했다고 24일 밝혔다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양사가 공동 출원한 특허는 '마이크로 서비스 아키텍처(MSA) 기반 트랜잭션 지원 서비스'를 뒷받침하는 원천 기술이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "△MSA 기반 트랜잭션 가상화 처리 장치∙방법 △MSA 기반 트랜잭션 가용성과 성능 보장 처리 장치∙방법 △MSA 기반 쿼리 오케스트레이션 처리 장치∙방법 등 총 3건이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비투엔은 이에 앞서 오픈랩스와 지난해 12월 데이터 처리 가상화 기술 관련 개발 업무협약(MOU)을 체결하고 향후 1년간 9억원을 들여 공동 개발키로 한 바 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 특허 출원은 양사간 중간 기술 개발 결과물이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "MSA는 단독으로 실행 가능한 최소 서비스 단위로 시스템을 설계∙개발하는 SW 개발 기법이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "독립적인 서비스를 제공하기 때문에 개발자들이 클라우드 망을 통해 공유하고 협업해 자유로운 개발 활동과 용이한 유지 보수가 가능하다는 장점이 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하지만 MSA 기반으로 시스템을 개발하는 경우 데이터 정합성 보장과 트랜잭션 증가로 인한 시스템 성능 저하 등 문제점이 발생하곤 한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 양사는 클라우드 환경에서 여러 데이터베이스를 사용해도 개발 난도나 운영 복잡성이 증가하지 않도록 기술 장벽을 허물어 주는 특허 기술을 개발해 공동 출원했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특히 기존 프로그램의 변경을 최소화해 적용함으로써 이미 구축된 시스템에서도 쉽게 접근이 가능한 게 특징이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "양사는 올해 상반기 론칭을 목표로 데이터 처리 가상화 솔루션 데모 버전을 개발 중이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "원천 기술을 바탕으로 최적화된 데이터 활용을 지원할 뿐만 아니라 빅데이터∙인공지능(AI) 기술을 활용해 서비스 부하에 따라 서비스를 통합하거나 세부 단위로 추가하는 추천서비스를 제공할 계획이다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "비투엔 관계자는 \\\"이번 특허 출원으로 클라우드 환경에서 보편화되고 있는 MSA 기반 트랜잭션 처리∙관리 서비스에 대한 원천 기술을 확보했다\\\"며 \\\"AI, 빅데이터와 같은 신기술 적용과 더불어 다중 DBMS 사용으로 MSA 적용 과정에서 비롯되는 개발 복잡도, 트랜잭션 증가, 데이터 정합성 관리 등을 해결할 것\\\"으로 기대했다.",
+				"sentenceSize": 185
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비투엔-오픈랩스, 클라우드 환경 '데이터 처리 가상화' 공동 특허 출원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

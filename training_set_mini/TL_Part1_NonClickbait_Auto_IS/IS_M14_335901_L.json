@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335901",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "중·일, AI·자율주행차 협력 논의틀 출범 \\\"아베 내달 방중시 합의\\\"",
+		"newsSubTitle": "",
+		"newsContent": "중국과 일본이 첨단 기술 분야 협력 방안을 논의하는 '이노베이션 대화'를 출범할 계획이라고 교도통신이 23일 전했다.\n교도통신에 따르면 아베 신조 일본 총리가 다음 달 중국을 방문, 시진핑 중국 국가 주석과 회담에서 이런 방안에 공식 합의할 예정이다.\n인공지능(AI)과 자율주행차량 기술 분야가 핵심 협력 분야다.\n협력 논의에는 양국 정부 관계자가 참여할 예정이다.\n동남아 국가 등에 대한 인프라 공동 개발, 금융위기 시 양국 중앙은행 간 3조엔(30조원) 규모 위안화와 엔화 간 통화교환협정(스와프) 체결 문제도 논의할 전망이다.\n일본은 중국과 대화 기회를 확대, 중국 내에서 일본 기업 지식재산권을 보호받을 수 있는 제도를 구축한다는 방침이다.\n중국 시진핑 지도부는 2015년에 내건 장기 성장 전략 '중국제조 2025'에서 첨단기술을 핵심 분야로 제시했다.\n중국이 경제와 첨단기술 분야에서 일본과 협력을 강화하는 건 각 분야 경쟁력을 확보하고 무역 마찰이 격화되는 미국을 견제하려는 복안이라고 교도통신은 분석했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국과 일본이 첨단 기술 분야 협력 방안을 논의하는 '이노베이션 대화'를 출범할 계획이라고 교도통신이 23일 전했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "교도통신에 따르면 아베 신조 일본 총리가 다음 달 중국을 방문, 시진핑 중국 국가 주석과 회담에서 이런 방안에 공식 합의할 예정이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인공지능(AI)과 자율주행차량 기술 분야가 핵심 협력 분야다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "협력 논의에는 양국 정부 관계자가 참여할 예정이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "동남아 국가 등에 대한 인프라 공동 개발, 금융위기 시 양국 중앙은행 간 3조엔(30조원) 규모 위안화와 엔화 간 통화교환협정(스와프) 체결 문제도 논의할 전망이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일본은 중국과 대화 기회를 확대, 중국 내에서 일본 기업 지식재산권을 보호받을 수 있는 제도를 구축한다는 방침이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중국 시진핑 지도부는 2015년에 내건 장기 성장 전략 '중국제조 2025'에서 첨단기술을 핵심 분야로 제시했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "중국이 경제와 첨단기술 분야에서 일본과 협력을 강화하는 건 각 분야 경쟁력을 확보하고 무역 마찰이 격화되는 미국을 견제하려는 복안이라고 교도통신은 분석했다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중·일, AI·자율주행차 협력 논의틀 출범 \\\"아베 내달 방중시 합의\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

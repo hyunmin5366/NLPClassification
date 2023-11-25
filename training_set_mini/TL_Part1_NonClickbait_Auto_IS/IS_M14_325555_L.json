@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325555",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[제1회 한국 화웨이 ICT 챌린지]'대상' 박성진 충북대 소프트웨어학과 3학년",
+		"newsSubTitle": "",
+		"newsContent": "박성진 (충북대 소프트웨어학과 3학년) 씨는 “큰 상을 받게 돼 영광”이라며 “아들과 떨어져 지내며 걱정해 주고 믿어주신 부모님께 감사하다”고 소감을 밝혔다.\n박 씨는 '사용성 개선과 바이러스 감염 예방을 위한 핸드제스처 키오스크 시스템'을 제안했다.\n패스트푸드점 등에 설치되는 키오스크(무인주문기기)에 설치된 카메라가 숫자와 동의, 거절 등 손동작을 인식하고 인공지능(AI)으로 분석해 주문과 결제를 진행하는 개념이다.\n휠체어 이용자와 어린이 등 신체적 제약으로 키오스크를 이용하기 어려운 이용자가 동작 인식을 이용해 손쉽게 활용 가능하다.\n손과 관절 모양 등 분석에 딥러닝 기술을 활용하고 저지연 통신 기술로 중앙 서버와 연결된다.\n박 씨는 패스트푸드점 키오스크를 이용하며 키작은 어린이가 햄버거를 주문하며 불편을 겪는 모습을 보고 아이디어를 떠올렸다고 소개했다.\n키오스크 사용에 익숙하지 않은 고령층만 불편을 겪는 게 아니라 보다 다양한 계층이 불편을 느낄 수 있음을 발견하고 누구나 손쉽게 이용할 수 있는 아이디어를 고안했다.\n충북대 소프트웨어학과에 재학하며 학기마다 1~2개씩 진행한 팀프로젝트 방식 창업교육이 아이디어를 다듬고 구체화하는데 도움이 됐다고 했다.\n박 씨는 “수상을 계기로 주변에 불편한 점, 사회적 문제를 조금 더 둘러보고 개선하는 기술을 개발하는 개발자가 되고 싶다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박성진 (충북대 소프트웨어학과 3학년) 씨는 “큰 상을 받게 돼 영광”이라며 “아들과 떨어져 지내며 걱정해 주고 믿어주신 부모님께 감사하다”고 소감을 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박 씨는 '사용성 개선과 바이러스 감염 예방을 위한 핸드제스처 키오스크 시스템'을 제안했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "패스트푸드점 등에 설치되는 키오스크(무인주문기기)에 설치된 카메라가 숫자와 동의, 거절 등 손동작을 인식하고 인공지능(AI)으로 분석해 주문과 결제를 진행하는 개념이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "휠체어 이용자와 어린이 등 신체적 제약으로 키오스크를 이용하기 어려운 이용자가 동작 인식을 이용해 손쉽게 활용 가능하다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "손과 관절 모양 등 분석에 딥러닝 기술을 활용하고 저지연 통신 기술로 중앙 서버와 연결된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박 씨는 패스트푸드점 키오스크를 이용하며 키작은 어린이가 햄버거를 주문하며 불편을 겪는 모습을 보고 아이디어를 떠올렸다고 소개했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "키오스크 사용에 익숙하지 않은 고령층만 불편을 겪는 게 아니라 보다 다양한 계층이 불편을 느낄 수 있음을 발견하고 누구나 손쉽게 이용할 수 있는 아이디어를 고안했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "충북대 소프트웨어학과에 재학하며 학기마다 1~2개씩 진행한 팀프로젝트 방식 창업교육이 아이디어를 다듬고 구체화하는데 도움이 됐다고 했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "박 씨는 “수상을 계기로 주변에 불편한 점, 사회적 문제를 조금 더 둘러보고 개선하는 기술을 개발하는 개발자가 되고 싶다”고 덧붙였다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[제1회 한국 화웨이 ICT 챌린지]'대상' 박성진 충북대 소프트웨어학과 3학년",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

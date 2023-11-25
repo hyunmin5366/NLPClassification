@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008817",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "한국타이어 2분기 매출 1조5800억",
+		"newsSubTitle": "전년比 21%↑… 영업이익 1107억",
+		"newsContent": "한국타이어(주)가 세계 타이어 업황이 둔화되고 있음에도, 안정적인 매출 성장세를 이어간 것으로 나타났다.\n26일 한국타이어에 따르면 지난 2분기 글로벌 연결 경영실적 기준으로 1조5801억원의 매출을 달성했다.\n이는 지난해 같은 기간 대비 21%, 직전 분기 대비 8.2%가 증가한 수치며, 영업이익은 1107억원, 영업이익률 7.0%를 기록했다.\n특히 중국 경영실적의 경우 높은 품질과 브랜드 이미지, 전년 동기 대비 28.9% 증가한 교체용 타이어 공급에 힘입어 전년 대비 21%가 증가한 4486억원의 매출을 기록, 글로벌 시장에서의 매출 증대를 이끌었다.\n또 유럽 전진기지인 헝가리 경영실적도 공장 증설을 통한 생산성 향상, 초고성능(UHP) 타이어를 중심으로 한 유럽시장 수요 증가를 통해 매출이 지난해 같은 기간보다 115% 증가했다.\n글로벌 시장에서의 성장에 힘입어 한국 경영실적도 증가세를 이어갔다.\n한국타이어의 2분기 한국 경영실적은 전년 동기 대비 17.8% 증가한 9687억원의 매출을 기록, 중국, 헝가리와 함께 분기 매출 최대치를 경신했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국타이어(주)가 세계 타이어 업황이 둔화되고 있음에도, 안정적인 매출 성장세를 이어간 것으로 나타났다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 한국타이어에 따르면 지난 2분기 글로벌 연결 경영실적 기준으로 1조5801억원의 매출을 달성했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난해 같은 기간 대비 21%, 직전 분기 대비 8.2%가 증가한 수치며, 영업이익은 1107억원, 영업이익률 7.0%를 기록했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 중국 경영실적의 경우 높은 품질과 브랜드 이미지, 전년 동기 대비 28.9% 증가한 교체용 타이어 공급에 힘입어 전년 대비 21%가 증가한 4486억원의 매출을 기록, 글로벌 시장에서의 매출 증대를 이끌었다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 유럽 전진기지인 헝가리 경영실적도 공장 증설을 통한 생산성 향상, 초고성능(UHP) 타이어를 중심으로 한 유럽시장 수요 증가를 통해 매출이 지난해 같은 기간보다 115% 증가했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "글로벌 시장에서의 성장에 힘입어 한국 경영실적도 증가세를 이어갔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국타이어의 2분기 한국 경영실적은 전년 동기 대비 17.8% 증가한 9687억원의 매출을 기록, 중국, 헝가리와 함께 분기 매출 최대치를 경신했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공공기관·출연연, 이래도 되나",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

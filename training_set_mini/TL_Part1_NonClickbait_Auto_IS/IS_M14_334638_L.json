@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334638",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "3GPP, 릴리즈17 개발 과제 확정···완전한 LTE 대체 목적",
+		"newsSubTitle": "",
+		"newsContent": "이동통신 국제표준화단체(3GPP)가 차세대 표준규격 개발 로드맵 '릴리즈17(Release17)' 주요 개발 과제를 확정했다.\n롱텀에벌루션(LTE)이 제공하는 기능을 모두 제공, LTE를 완전히 대체하는 게 릴리즈17 개발 목적이다.\n3GPP는 무선접속네트워크(RAN) 연례회의에서 릴리즈17에서 개발할 RAN1~RAN3까지 아이템을 확정했다.\nRAN1은 물리적 신호 전송과 하드웨어 표준을 연구한다.\nRNA2와 RAN3은 각각 무선 프로토콜과 무선 아키텍처를 연구하는 분과다.\n새해 1월부터 시작하는 RAN1에서는 전반적인 5G 시스템 성능과 효율을 개선하는 연구가 진행된다.\n5G 다중입출력(MIMO)과 주파수 공유 기술 개선, 사용자 장치(UE) 전력 절감, 커버리지 확대, 52.6~71㎓까지 지원을 위한 표준 규격을 개발한다.\n이외에도 자동차 산업 등 초민감 통신을 위한 사이드링크, 제조업 등 실내 산업을 위해 정확도와 초저지연 성능을 향상시키는 포지셔닝 등 융합산업 지원 표준 규격이 개발된다.\n5G 협대역 사물인터넷(NB-IoT)과 산업용 IoT 표준규격 개발도 추진된다.\n스마트폰 등에 위성 통신을 탑재할 수 있는 'NR for NTN', 5G 기반 IoT 서비스를 위한 'IoT for NR' 표준규격도 개발한다.\nRAN2는 새해 2분기에 착수한다.\nRAN1에서 추가되는 새로운 표준규격에 맞춰 무선 프로토콜 성능 향상에 초점을 맞췄다.\nRAN3에서는 RAN1과 RAN2에서 추가되는 표준규격에 맞춰 아키텍처 개선이 이뤄진다. 5G 아키텍처는 LTE 대비 실질 체감품질 개선에 초점을 맞췄다.\nLTE 네트워크가 5G의 개선된 기능 일부를 사용하도록 하는 시도도 추진된다.\n릴리즈17은 2021년 상반기에 마무리된다.\n3GPP는 릴리즈15에서 논스탠드얼론(NSA)과 스탠드얼론(SA) 등 5G 기본 규격을, 릴리즈16에서는 융합서비스를 위한 5G 표준규격을 개발했다.\n통신사 관계자는 “릴리즈15에서 초기 5G 규격을 개발하고 릴리즈16에서는 다른 산업 분야에 5G를 적용하기 위한 규격을 개발했다”면서 “릴리즈17은 LTE가 제공하던 모든 기능을 5G가 제공, LTE를 완전히 대체하도록 하는 게 목적”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이동통신 국제표준화단체(3GPP)가 차세대 표준규격 개발 로드맵 '릴리즈17(Release17)' 주요 개발 과제를 확정했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "롱텀에벌루션(LTE)이 제공하는 기능을 모두 제공, LTE를 완전히 대체하는 게 릴리즈17 개발 목적이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "3GPP는 무선접속네트워크(RAN) 연례회의에서 릴리즈17에서 개발할 RAN1~RAN3까지 아이템을 확정했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "RAN1은 물리적 신호 전송과 하드웨어 표준을 연구한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "RNA2와 RAN3은 각각 무선 프로토콜과 무선 아키텍처를 연구하는 분과다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "새해 1월부터 시작하는 RAN1에서는 전반적인 5G 시스템 성능과 효율을 개선하는 연구가 진행된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "5G 다중입출력(MIMO)과 주파수 공유 기술 개선, 사용자 장치(UE) 전력 절감, 커버리지 확대, 52.6~71㎓까지 지원을 위한 표준 규격을 개발한다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이외에도 자동차 산업 등 초민감 통신을 위한 사이드링크, 제조업 등 실내 산업을 위해 정확도와 초저지연 성능을 향상시키는 포지셔닝 등 융합산업 지원 표준 규격이 개발된다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "5G 협대역 사물인터넷(NB-IoT)과 산업용 IoT 표준규격 개발도 추진된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "스마트폰 등에 위성 통신을 탑재할 수 있는 'NR for NTN', 5G 기반 IoT 서비스를 위한 'IoT for NR' 표준규격도 개발한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "RAN2는 새해 2분기에 착수한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "RAN1에서 추가되는 새로운 표준규격에 맞춰 무선 프로토콜 성능 향상에 초점을 맞췄다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "RAN3에서는 RAN1과 RAN2에서 추가되는 표준규격에 맞춰 아키텍처 개선이 이뤄진다. 5G 아키텍처는 LTE 대비 실질 체감품질 개선에 초점을 맞췄다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "LTE 네트워크가 5G의 개선된 기능 일부를 사용하도록 하는 시도도 추진된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "릴리즈17은 2021년 상반기에 마무리된다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "3GPP는 릴리즈15에서 논스탠드얼론(NSA)과 스탠드얼론(SA) 등 5G 기본 규격을, 릴리즈16에서는 융합서비스를 위한 5G 표준규격을 개발했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "통신사 관계자는 “릴리즈15에서 초기 5G 규격을 개발하고 릴리즈16에서는 다른 산업 분야에 5G를 적용하기 위한 규격을 개발했다”면서 “릴리즈17은 LTE가 제공하던 모든 기능을 5G가 제공, LTE를 완전히 대체하도록 하는 게 목적”이라고 말했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "3GPP, 릴리즈17 개발 과제 확정···완전한 LTE 대체 목적",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

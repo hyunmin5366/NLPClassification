@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013545",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "금융회사 사칭 대출사기 주의",
+		"newsSubTitle": "금감원 소비자 경보 발령",
+		"newsContent": "금융회사를 사칭한 대출사기 피해가 급증하고 있어 소비자들의 각별한 주의가 요구된다.\n금융감독원은 26일 최근 금융회사를 사칭한 대출사기범이 '정부에서 취급하는 서민대출을 소개해 준다'며 공탁금 명목으로 돈을 편취하는 등 대출사기피해 민원이 계속 접수돼 소비자 경보를 발령했다.\n이번 사기수법은 지난 2012년 울산지역에서 발생한 대출사기사건의 수법과 유사한 것으로, 최근 이와 같은 고전적인 대출사기 수법이 다시 유행했다.\n특히 이들 사기범은 발신번호 조작을 통해 금융회사 대표번호를 사용하고, “A캐피탈에 근무하는 김모씨”라며 이름까지 밝히고 있어 금융소비자들이 쉽게 속는 상황이다.\n이에 금융소비자보호처는 금융소비자의 추가 피해 확산을 방지하기 위해 주요 대출사기수법을 유형화한 후 그에 따른 유의사항을 정리해 소비자경보를 발령했다.\n금감원 관계자는 “금융회사는 사전에 수신을 동의한 고객에게만 전화마케팅을 통해 대출을 권유하거나 대출안내 문자메시지를 발송하고 있다”며 “금융회사를 직접 방문하거나 대표 전화번호로 전화해 해당직원 연결 요청 후 대출상담을 진행해야 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융회사를 사칭한 대출사기 피해가 급증하고 있어 소비자들의 각별한 주의가 요구된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융감독원은 26일 최근 금융회사를 사칭한 대출사기범이 '정부에서 취급하는 서민대출을 소개해 준다'며 공탁금 명목으로 돈을 편취하는 등 대출사기피해 민원이 계속 접수돼 소비자 경보를 발령했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 사기수법은 지난 2012년 울산지역에서 발생한 대출사기사건의 수법과 유사한 것으로, 최근 이와 같은 고전적인 대출사기 수법이 다시 유행했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 이들 사기범은 발신번호 조작을 통해 금융회사 대표번호를 사용하고, “A캐피탈에 근무하는 김모씨”라며 이름까지 밝히고 있어 금융소비자들이 쉽게 속는 상황이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 금융소비자보호처는 금융소비자의 추가 피해 확산을 방지하기 위해 주요 대출사기수법을 유형화한 후 그에 따른 유의사항을 정리해 소비자경보를 발령했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "금감원 관계자는 “금융회사는 사전에 수신을 동의한 고객에게만 전화마케팅을 통해 대출을 권유하거나 대출안내 문자메시지를 발송하고 있다”며 “금융회사를 직접 방문하거나 대표 전화번호로 전화해 해당직원 연결 요청 후 대출상담을 진행해야 한다”고 말했다.",
+				"sentenceSize": 138
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대우조선해양, '영원한 유럽 우방'에 100번째 선박 인도",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

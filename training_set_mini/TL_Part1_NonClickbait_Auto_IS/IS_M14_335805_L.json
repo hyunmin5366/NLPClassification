@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335805",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "[2021 핫이슈-해외]사상 첫 '온라인 CES'",
+		"newsSubTitle": "",
+		"newsContent": "코로나19 팬데믹 여파로 세계 최대 정보통신기술(ICT) 박람회 CES가 사상 처음 온라인에서 개최된다.\nCES가 처음 시작한 1967년 이래 처음 있는 일이다.\nCES를 주관하는 미국소비자기술협회(CTA)는 이달 11일(현지시각)부터 14일까지 나흘간 온라인으로 CES 2021을 개최한다.\n주최 측은 온라인 쇼케이스와 컨퍼런스 등 다양한 방식으로 행사를 꾸밀 예정이다.\nCES는 전자업체뿐 아니라 자동차, 항공, 여행 등 다양한 산업의 혁신 기업이 참가해 신기술을 뽐내는 기술 경연의 자리다.\n지난해 CES 2020에는 161개국, 4500개 기업이 참가했고 약 18만명이 방문했다.\n온라인으로 열리는 CES 2021는 작년 대비 4분의 1 수준인 1000여개 기업이 참가할 것으로 전해진다.\nCES 2021 참가 기업들은 코로나19 시대의 '뉴노멀' 혁신 기술을 선보일 전망이다.\n삼성전자와 LG전자 등 글로벌 기업들은 언택트 시대 소비자 라이프 스타일에 최적화한 혁신 제품과 서비스를 공개한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 팬데믹 여파로 세계 최대 정보통신기술(ICT) 박람회 CES가 사상 처음 온라인에서 개최된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CES가 처음 시작한 1967년 이래 처음 있는 일이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "CES를 주관하는 미국소비자기술협회(CTA)는 이달 11일(현지시각)부터 14일까지 나흘간 온라인으로 CES 2021을 개최한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주최 측은 온라인 쇼케이스와 컨퍼런스 등 다양한 방식으로 행사를 꾸밀 예정이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CES는 전자업체뿐 아니라 자동차, 항공, 여행 등 다양한 산업의 혁신 기업이 참가해 신기술을 뽐내는 기술 경연의 자리다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 CES 2020에는 161개국, 4500개 기업이 참가했고 약 18만명이 방문했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인으로 열리는 CES 2021는 작년 대비 4분의 1 수준인 1000여개 기업이 참가할 것으로 전해진다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "CES 2021 참가 기업들은 코로나19 시대의 '뉴노멀' 혁신 기술을 선보일 전망이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "삼성전자와 LG전자 등 글로벌 기업들은 언택트 시대 소비자 라이프 스타일에 최적화한 혁신 제품과 서비스를 공개한다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2021 핫이슈-해외]사상 첫 '온라인 CES'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349340",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "딥페이크 잡는 모바일앱 나왔다..카이스트 '카이캐치' 출시",
+		"newsSubTitle": "null",
+		"newsContent": "일반인들이 손쉽게 위변조된 영상, 사진을 가려낼 수 있는 모바일 애플리케이션이 개발돼 주목된다.\n카이스트(KAIST)는 30일 전산학부 이흥규 교수 연구팀이 인공신경망 기반 딥페이크(deepfake) 탐지 및 사진 위변조 탐지 기술을 갖춘 '카이캐치'(KaiCatch)를 모바일 애플리케이션 형태로 개발해 서비스를 시작한다고 밝혔다.\n딥페이크는 기존 영상, 사진 자료에 나타난 사람의 얼굴을 교체하거나 재현, 속성을 변환하는 기술로 음란물 제작 등 악용 사례가 적지 않다.\n연구팀은 딥페이크 여부를 탐지하기 위해 영상의 미세 변형 신호 흔적과 미세 이상 신호 흔적 탐지 기술을 적용한 신호처리, 인공지능 기술을 개발했다.\n얼굴 영역의 미세한 변형과 코, 입, 얼굴 윤곽 등 얼굴 내 기하학적 왜곡 발생 가능 영역의 이상 신호를 분석해 위변조 여부를 판독하는 기술이다.\n사용자가 avi, mp4 형식의 동영상 한 프레임을 이미지로 만들어 업로드하면, 애플리케이션이 0~100% 값으로 위변조 여부를 가려낸다.\n숫자가 높을 수록 딥페이크일 확률이 높다.\n사진도 마찬가지 방식으로 위변조 여부를 확인할 수 있다.\n사진은 BMP, TIF, TIFF, PNG 등 무압축, 무손실 압축을 포함해 50여 개의 표준 양자화 테이블과 1000여 개가 넘는 비표준화된 양자화 테이블에 기반한 JPEG 이미지 모두 판독 가능하다.\n이흥규 교수는 \\\"카이캐치는 인공지능과 미세 이상 신호 흔적 분석 기법이라는 첨단 기술을 사용해 다양한 유형의 변형에 대응한 범용성을 가지도록 개발됐다\\\"며 \\\"우리가 예측하지 못하거나 모르는 변형 기법을 사용해도 90% 내외의 높은 신뢰도로 탐지한다\\\"고 말했다.\n애플리케이션은 구글스토어에서 다운로드 할 수 있으며, 애플 iOS 기반 애플리케이션도 조만간 출시될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일반인들이 손쉽게 위변조된 영상, 사진을 가려낼 수 있는 모바일 애플리케이션이 개발돼 주목된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카이스트(KAIST)는 30일 전산학부 이흥규 교수 연구팀이 인공신경망 기반 딥페이크(deepfake) 탐지 및 사진 위변조 탐지 기술을 갖춘 '카이캐치'(KaiCatch)를 모바일 애플리케이션 형태로 개발해 서비스를 시작한다고 밝혔다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "딥페이크는 기존 영상, 사진 자료에 나타난 사람의 얼굴을 교체하거나 재현, 속성을 변환하는 기술로 음란물 제작 등 악용 사례가 적지 않다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연구팀은 딥페이크 여부를 탐지하기 위해 영상의 미세 변형 신호 흔적과 미세 이상 신호 흔적 탐지 기술을 적용한 신호처리, 인공지능 기술을 개발했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "얼굴 영역의 미세한 변형과 코, 입, 얼굴 윤곽 등 얼굴 내 기하학적 왜곡 발생 가능 영역의 이상 신호를 분석해 위변조 여부를 판독하는 기술이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사용자가 avi, mp4 형식의 동영상 한 프레임을 이미지로 만들어 업로드하면, 애플리케이션이 0~100% 값으로 위변조 여부를 가려낸다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "숫자가 높을 수록 딥페이크일 확률이 높다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사진도 마찬가지 방식으로 위변조 여부를 확인할 수 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "사진은 BMP, TIF, TIFF, PNG 등 무압축, 무손실 압축을 포함해 50여 개의 표준 양자화 테이블과 1000여 개가 넘는 비표준화된 양자화 테이블에 기반한 JPEG 이미지 모두 판독 가능하다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이흥규 교수는 \\\"카이캐치는 인공지능과 미세 이상 신호 흔적 분석 기법이라는 첨단 기술을 사용해 다양한 유형의 변형에 대응한 범용성을 가지도록 개발됐다\\\"며 \\\"우리가 예측하지 못하거나 모르는 변형 기법을 사용해도 90% 내외의 높은 신뢰도로 탐지한다\\\"고 말했다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "애플리케이션은 구글스토어에서 다운로드 할 수 있으며, 애플 iOS 기반 애플리케이션도 조만간 출시될 예정이다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "딥페이크 잡는 모바일앱 나왔다..카이스트 '카이캐치' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

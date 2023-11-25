@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328550",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "삼성전자, 주식거래 30일부터 거래정지",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자 주식거래가 30일부터 4일동안 정지된다.\n삼성전자는 자사주의 50대 1 액면분할을 결정했다.\n이 결정에 따라 30일부터 5월 3일까지 주식거래가 정지된다.\n변경상장 이후 삼성전자 주가는 현재 250만원 수준에서 5만원대로 낮아진다.\n주가가 큰 폭으로 낮아져 소액투자자의 매수가 활발해 질 것으로 예상된다.\n삼성전자가 액면분할을 발표한 1월 31일 이후 개인은 2조5573억원에 이르는 삼성전자 주식을 순매수했다.\n같은 기간 기관과 외국인이 각각 1조148억원, 1조7209억원을 순매도한 것과는 반대되는 모습이다.\n황민성 삼성증권 연구원은 “삼성전자는 올해 계속해서 실적이 개선되는 상황에서 배당을 높일 수 있는 여지도 있다”면서 “액면분할이 겹치는 상황이라면 수급 개선 등 긍정적인 영향을 줄 수 있다”고 분석했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자 주식거래가 30일부터 4일동안 정지된다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자는 자사주의 50대 1 액면분할을 결정했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 결정에 따라 30일부터 5월 3일까지 주식거래가 정지된다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "변경상장 이후 삼성전자 주가는 현재 250만원 수준에서 5만원대로 낮아진다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주가가 큰 폭으로 낮아져 소액투자자의 매수가 활발해 질 것으로 예상된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자가 액면분할을 발표한 1월 31일 이후 개인은 2조5573억원에 이르는 삼성전자 주식을 순매수했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "같은 기간 기관과 외국인이 각각 1조148억원, 1조7209억원을 순매도한 것과는 반대되는 모습이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "황민성 삼성증권 연구원은 “삼성전자는 올해 계속해서 실적이 개선되는 상황에서 배당을 높일 수 있는 여지도 있다”면서 “액면분할이 겹치는 상황이라면 수급 개선 등 긍정적인 영향을 줄 수 있다”고 분석했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자, 주식거래 30일부터 거래정지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

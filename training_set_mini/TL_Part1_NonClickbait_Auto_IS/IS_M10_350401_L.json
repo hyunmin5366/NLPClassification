@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350401",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "그래픽카드 4개 중 1개 가상화폐 채굴꾼이 쓸어갔다…\\\"1분기 70만대\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "지난 1분기 전세계 그래픽카드 공급량의 25%가 암호 화폐 채굴업자에게 공급된 것으로 나타났다.\n약 5억 달러(5593억원) 어치에 달한다. 17일 시장조사업체 존페디리서치(JPR) 보고서에 따르면 지난 1분기 그래픽 카드 출하량은 약 280만여 개다.\n이 중 25%에 달하는 70만여 개 그래픽카드가 가상 화폐 채굴업자와 투기꾼에게 돌아갔다.\n암호 화폐 채굴이 크게 늘면서 한때 50% 수준이었던 외장 그래픽 카드 장착률은 25%로 크게 하락한 것으로 조사됐다.\n채굴업자와 투기꾼이 그래픽 카드를 쓸어가 공급이 원활하지 못해서다.\n품귀현상에 따라 그래픽 카드 가격도 두 배 이상 큰 폭으로 상승했다.\n지난 1월을 기준으로 채굴에 가장 많이 사용되는 엔비디아 그래픽 카드 RTX 30시리즈는 △RTX 3060Ti 76만 원 △RTX 3070 95만 원 △RTX 3080 155만 원 △RTX 3090 227만 원으로 나타났다.\n지난해 11월과 비교해 △RTX 3070은 139% △RTX 3080은 145% △RTX 3090은 105% 상승했다.\n지난해 12월 출시된 RTX 3060Ti는 출시 당시와 비교해 약 137% 올랐다.\n품귀현상이 지속되자 GPU(그래픽처리장치) 제조사인 엔비디아는 암호화폐 채굴 전용 그래픽카드를 출시하는 동시에 일반 그래픽카드로 채굴 시 성능을 저하하는 대책으로 시장 안정화를 시도하고 있다.\n현재 판매되는 대부분 RTX 30시리즈에는 채굴 방지 제한이 구현됐다.\nRTX 3060, RTX 3070Ti 및 RTX 3080Ti는 모두 해시 레이트(암호화폐채굴효율)를 50%로 낮췄다.\n기존에 출시된 그래픽 카드에 대해서는 소프트웨어 드라이버를 통해 암호 화폐 채굴 알고리즘을 감지해 해시 레이트를 제한한다.\n일반 사용에는 성능을 낮추지 않는다.\n이와 함께 채굴에 특화된 CMP(암호화폐 채굴프로세서)도 별도 출시해 소비자용과 채굴용 제품을 구분한다.\nCMP가 탑재된 제품은 기존 RTX 시리즈와 달리 디스플레이 출력 기능이 없다.\n다만, 또 다른 GPU 제조사 AMD는 이같은 현상에 대해 별 다른 조치에 나서지 않고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 1분기 전세계 그래픽카드 공급량의 25%가 암호 화폐 채굴업자에게 공급된 것으로 나타났다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "약 5억 달러(5593억원) 어치에 달한다. 17일 시장조사업체 존페디리서치(JPR) 보고서에 따르면 지난 1분기 그래픽 카드 출하량은 약 280만여 개다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 중 25%에 달하는 70만여 개 그래픽카드가 가상 화폐 채굴업자와 투기꾼에게 돌아갔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "암호 화폐 채굴이 크게 늘면서 한때 50% 수준이었던 외장 그래픽 카드 장착률은 25%로 크게 하락한 것으로 조사됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "채굴업자와 투기꾼이 그래픽 카드를 쓸어가 공급이 원활하지 못해서다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "품귀현상에 따라 그래픽 카드 가격도 두 배 이상 큰 폭으로 상승했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 1월을 기준으로 채굴에 가장 많이 사용되는 엔비디아 그래픽 카드 RTX 30시리즈는 △RTX 3060Ti 76만 원 △RTX 3070 95만 원 △RTX 3080 155만 원 △RTX 3090 227만 원으로 나타났다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난해 11월과 비교해 △RTX 3070은 139% △RTX 3080은 145% △RTX 3090은 105% 상승했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지난해 12월 출시된 RTX 3060Ti는 출시 당시와 비교해 약 137% 올랐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "품귀현상이 지속되자 GPU(그래픽처리장치) 제조사인 엔비디아는 암호화폐 채굴 전용 그래픽카드를 출시하는 동시에 일반 그래픽카드로 채굴 시 성능을 저하하는 대책으로 시장 안정화를 시도하고 있다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "현재 판매되는 대부분 RTX 30시리즈에는 채굴 방지 제한이 구현됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "RTX 3060, RTX 3070Ti 및 RTX 3080Ti는 모두 해시 레이트(암호화폐채굴효율)를 50%로 낮췄다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "기존에 출시된 그래픽 카드에 대해서는 소프트웨어 드라이버를 통해 암호 화폐 채굴 알고리즘을 감지해 해시 레이트를 제한한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "일반 사용에는 성능을 낮추지 않는다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이와 함께 채굴에 특화된 CMP(암호화폐 채굴프로세서)도 별도 출시해 소비자용과 채굴용 제품을 구분한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "CMP가 탑재된 제품은 기존 RTX 시리즈와 달리 디스플레이 출력 기능이 없다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "다만, 또 다른 GPU 제조사 AMD는 이같은 현상에 대해 별 다른 조치에 나서지 않고 있다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "그래픽카드 4개 중 1개 가상화폐 채굴꾼이 쓸어갔다…\\\"1분기 70만대\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323276",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "LG유플러스, 원주-제천 LTE-R 사업 수주",
+		"newsSubTitle": "",
+		"newsContent": "LG유플러스가 원주-제천 철도통합망(LTE-R) 사업을 수주, 다음 주 초 계약을 체결한다고 19일 밝혔다.\nLG유플러스가 최초 수주한 LTE-R 사업이다.\n사업 규모는 약 64억원으로 LG유플러스는 2019년 상반기 개통을 목표로 LTE-R를 구축한다.\n통신망을 설치하고 전용 무전기를 공급한다.\nLG유플러스는 7월 'LTE-R 솔루션 사업팀'을 신설, 철도 사업 수주를 위해 노력해 왔다.\nLG유플러스의 첫 사업 수주로 내년 LTE-R 시장 경쟁이 치열해질 전망이다.\n국토교통부는 2025년까지 전국 모든 철도 통신망을 LTE-R로 교체한다.\n사업 규모는 2조원에 이른다.\n내년에도 올해와 비슷한 규모(약 400억원)의 사업 발주가 예상된다.\n국토부 사업 외에 서울교통공사가 5호선 연장선을 시작으로 서울지하철 전 노선 통신망을 LTE-R로 교체한다.\n전체 사업 규모가 수천억원에 달할 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스가 원주-제천 철도통합망(LTE-R) 사업을 수주, 다음 주 초 계약을 체결한다고 19일 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG유플러스가 최초 수주한 LTE-R 사업이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사업 규모는 약 64억원으로 LG유플러스는 2019년 상반기 개통을 목표로 LTE-R를 구축한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "통신망을 설치하고 전용 무전기를 공급한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG유플러스는 7월 'LTE-R 솔루션 사업팀'을 신설, 철도 사업 수주를 위해 노력해 왔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LG유플러스의 첫 사업 수주로 내년 LTE-R 시장 경쟁이 치열해질 전망이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국토교통부는 2025년까지 전국 모든 철도 통신망을 LTE-R로 교체한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사업 규모는 2조원에 이른다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "내년에도 올해와 비슷한 규모(약 400억원)의 사업 발주가 예상된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "국토부 사업 외에 서울교통공사가 5호선 연장선을 시작으로 서울지하철 전 노선 통신망을 LTE-R로 교체한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "전체 사업 규모가 수천억원에 달할 전망이다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG유플러스, 원주-제천 LTE-R 사업 수주",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

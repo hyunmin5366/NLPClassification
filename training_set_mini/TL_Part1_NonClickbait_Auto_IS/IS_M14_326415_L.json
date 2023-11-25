@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326415",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "5개 금융기관 대규모 디도스 공격 시작",
+		"newsSubTitle": "",
+		"newsContent": "금융결제원과 수협은행, 대구은행, 전북은행, KDB생명 등 5개 금융기관을 타깃으로 국제 해커들의 분산서비스거부(DDos∙디도스)공격이 시작됐다.\n상대적으로 대형 금융사보다 취약한 지방은행과 은행 결제망을 운영하는 금융결제원을 표적으로 지목했다.\n26일 금융당국과 금융권, 보안업계에 따르면 이 날 아침부터 국제해킹그룹 아르마다컬렉티브의 디도스 공격이 시작됐다.\n금융결제원은 약 1Gbps, 전북은행 800Mbps, 수협은행 700Mbps 등의 디도스 공격이 시작됐고 KDB생명보험과 대구은행도 비슷한 수준의 공격 시도가 지속적으로 이어지고 있다.\n과거에 비해 대용량의 공격이지만 아직 큰 피해는 없는 것으로 확인됐다.\n이번 공격은 28일 목표한 대규모 공격을 앞두고 금융시장 혼란을 극대화하기 위한 전술로 풀이된다.\n한 금융사 고위 관계자는 \\\"트래픽의 97%이상이 해외로 과거에 비해 공격 패턴이 지능화됐다\\\"며 \\\"대형은행과 금융기관도 5곳의 공격 징후를 파악하느라 분주하다\\\"고 설명했다.\n5개 금융사는 공격 여부에 대해 확인해주기 어렵다는 입장이지만, 서비스는 차질 없이 제공 중이라고 답했다.\n금융감독원은 \\\"디도스 공격이 오늘부터 진행되는 사실을 파악하고, 대응 방안을 모색 중\\\"이라며 \\\"정확한 파악을 위해 금융사와 공조체제를 구축했다\\\"고 설명했다.\n보안업계 전문가는 \\\"아직 공격 규모가 그리 크지는 않다\\\"면서도 \\\"40~60Gbps규모이면 왠만한 우리나라 금융기관들은 서비스 불능 가능성 높기 때문에 주의가 필요하다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융결제원과 수협은행, 대구은행, 전북은행, KDB생명 등 5개 금융기관을 타깃으로 국제 해커들의 분산서비스거부(DDos∙디도스)공격이 시작됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "상대적으로 대형 금융사보다 취약한 지방은행과 은행 결제망을 운영하는 금융결제원을 표적으로 지목했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "26일 금융당국과 금융권, 보안업계에 따르면 이 날 아침부터 국제해킹그룹 아르마다컬렉티브의 디도스 공격이 시작됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "금융결제원은 약 1Gbps, 전북은행 800Mbps, 수협은행 700Mbps 등의 디도스 공격이 시작됐고 KDB생명보험과 대구은행도 비슷한 수준의 공격 시도가 지속적으로 이어지고 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "과거에 비해 대용량의 공격이지만 아직 큰 피해는 없는 것으로 확인됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 공격은 28일 목표한 대규모 공격을 앞두고 금융시장 혼란을 극대화하기 위한 전술로 풀이된다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한 금융사 고위 관계자는 \\\"트래픽의 97%이상이 해외로 과거에 비해 공격 패턴이 지능화됐다\\\"며 \\\"대형은행과 금융기관도 5곳의 공격 징후를 파악하느라 분주하다\\\"고 설명했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "5개 금융사는 공격 여부에 대해 확인해주기 어렵다는 입장이지만, 서비스는 차질 없이 제공 중이라고 답했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "금융감독원은 \\\"디도스 공격이 오늘부터 진행되는 사실을 파악하고, 대응 방안을 모색 중\\\"이라며 \\\"정확한 파악을 위해 금융사와 공조체제를 구축했다\\\"고 설명했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "보안업계 전문가는 \\\"아직 공격 규모가 그리 크지는 않다\\\"면서도 \\\"40~60Gbps규모이면 왠만한 우리나라 금융기관들은 서비스 불능 가능성 높기 때문에 주의가 필요하다\\\"고 밝혔다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "5개 금융기관 대규모 디도스 공격 시작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352494",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "LG CNS, '로그4j' 헬프데스크 가동…고객사 보안 지원 총력",
+		"newsSubTitle": "null",
+		"newsContent": "LG CNS는 인터넷 역사상 최악의 보안 위협으로 평가받는 '로그4j' 취약점 공격에 대비하기 위한 헬프데스크를 14일부터 가동한다고 밝혔다. 고객사에서 로그4j 취약점으로 인한 피해를 최소화하는 목적이다.\n로그4j는 기업 홈페이지와 같은 인터넷 서비스나 웹 애플리케이션 개발시 운영·관리를 위해 이용자 접속 기록(로그)을 남기기위해 사용하는 오픈소스 라이브러리(소프트웨어 모듈)다.\n게임이나 클라우드 서버, 기업과 기관의 웹 서비스 등 대부분의 웹 프로그래밍에 이용된다.\n이번에 발견된 로그4j 취약점은 외부 침입자가 서버 관리자 권한을 쉽게 탈취할 수 있는 통로로 악용 우려가 있다.\n해커들은 이를 통해 멀쩡한 웹 서버에 악성코드를 심어 유포하거나 개인정보 유출, 데이터 삭제 등의 공격을 한다.\nLG CNS는 이미 고객사에 공격자 의심 IP 차단과 로그4j 보안 패치, 웹애플리케이션 방화벽(WAF) 설정 등 대응 가이드를 배포했다.\nLG CNS는 현재 보안·클라우드·아키텍처·솔루션 등 사내 디지털전환(DX) 전문 조직을 총동원한 비상 근무 체제에 돌입했다고 밝혔다.\n공식 블로그를 통해서도 로그4j 관련 대응 방안을 실시간 업데이트하고 있다.\nLG CNS는 향후 로그4j 사태가 국가적 IT 재난으로 확산될 경우 고객사가 아니더라도 도움이 필요한 기업에 헬프데스크를 통해 지원하는 방안을 검토 중이다.\n배민 LG CNS DT(디지털 테크놀로지) 사업부 보안사업담당 상무는 \\\"LG CNS 고객이라면 로그4j 걱정 없이 IT 시스템을 운영할 수 있도록 통합 지원책을 선제적으로 제공하고 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG CNS는 인터넷 역사상 최악의 보안 위협으로 평가받는 '로그4j' 취약점 공격에 대비하기 위한 헬프데스크를 14일부터 가동한다고 밝혔다. 고객사에서 로그4j 취약점으로 인한 피해를 최소화하는 목적이다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로그4j는 기업 홈페이지와 같은 인터넷 서비스나 웹 애플리케이션 개발시 운영·관리를 위해 이용자 접속 기록(로그)을 남기기위해 사용하는 오픈소스 라이브러리(소프트웨어 모듈)다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게임이나 클라우드 서버, 기업과 기관의 웹 서비스 등 대부분의 웹 프로그래밍에 이용된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번에 발견된 로그4j 취약점은 외부 침입자가 서버 관리자 권한을 쉽게 탈취할 수 있는 통로로 악용 우려가 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해커들은 이를 통해 멀쩡한 웹 서버에 악성코드를 심어 유포하거나 개인정보 유출, 데이터 삭제 등의 공격을 한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LG CNS는 이미 고객사에 공격자 의심 IP 차단과 로그4j 보안 패치, 웹애플리케이션 방화벽(WAF) 설정 등 대응 가이드를 배포했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "LG CNS는 현재 보안·클라우드·아키텍처·솔루션 등 사내 디지털전환(DX) 전문 조직을 총동원한 비상 근무 체제에 돌입했다고 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공식 블로그를 통해서도 로그4j 관련 대응 방안을 실시간 업데이트하고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "LG CNS는 향후 로그4j 사태가 국가적 IT 재난으로 확산될 경우 고객사가 아니더라도 도움이 필요한 기업에 헬프데스크를 통해 지원하는 방안을 검토 중이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "배민 LG CNS DT(디지털 테크놀로지) 사업부 보안사업담당 상무는 \\\"LG CNS 고객이라면 로그4j 걱정 없이 IT 시스템을 운영할 수 있도록 통합 지원책을 선제적으로 제공하고 있다\\\"고 말했다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG CNS, '로그4j' 헬프데스크 가동…고객사 보안 지원 총력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

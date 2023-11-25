@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355074",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "MS '팀즈' 먹통에 국내 기업 반사이익…알서포트 \\\"기업 문의 10배↑\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "21일 마이크로소프트(MS)의 협업툴 '팀즈'(Teams) 장애로 우리나라를 포함해 전 세계적 이용자들이 피해를 입은 가운데, 국내 화상회의 서비스 기업 알서포트가 반사이익을 얻고 있다.\n팀즈의 서비스 장애는 이날 오전 11시부터 약 2시간 동안 이어졌다.\n팀즈에 접속하면 '예상치 않은 오류로 작업이 실패했다'(operation failed with unexpected error)는 문구가 뜨면서 서비스 접근이 차단됐다.\n이에 팀즈 대체제로 알서포트를 찾는 이들이 급증했다.\n알서포트 관계자는 \\\"오늘 오후부터 화상회의 플랫폼 '리모트미팅'을 찾는 기업들의 문의가 평소 대비 10배 가량 증가했다\\\"며 \\\"급하게 사용해야 하는 기업 사용자에게는 리모트미팅 홈페이지에서 무료 데모 체험을 신청해 즉시 이용할 수 있도록 안내하고 있다\\\"고 말했다.\n한편, 팀즈 접속 오류 관련 명확한 원인은 밝혀지지 않았지만 내부 스토리지 문제 때문인 것으로 추정된다.\nMS는 트위터를 통해 \\\"최근 배포한 내부 스토리지 서비스에 대한 연결이 끊어져 영향을 받은 것으로 확인됐다\\\"며\\\"정상 서비스로 트래픽을 유도하기 위해 노력 중\\\"이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "21일 마이크로소프트(MS)의 협업툴 '팀즈'(Teams) 장애로 우리나라를 포함해 전 세계적 이용자들이 피해를 입은 가운데, 국내 화상회의 서비스 기업 알서포트가 반사이익을 얻고 있다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "팀즈의 서비스 장애는 이날 오전 11시부터 약 2시간 동안 이어졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "팀즈에 접속하면 '예상치 않은 오류로 작업이 실패했다'(operation failed with unexpected error)는 문구가 뜨면서 서비스 접근이 차단됐다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 팀즈 대체제로 알서포트를 찾는 이들이 급증했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "알서포트 관계자는 \\\"오늘 오후부터 화상회의 플랫폼 '리모트미팅'을 찾는 기업들의 문의가 평소 대비 10배 가량 증가했다\\\"며 \\\"급하게 사용해야 하는 기업 사용자에게는 리모트미팅 홈페이지에서 무료 데모 체험을 신청해 즉시 이용할 수 있도록 안내하고 있다\\\"고 말했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 팀즈 접속 오류 관련 명확한 원인은 밝혀지지 않았지만 내부 스토리지 문제 때문인 것으로 추정된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "MS는 트위터를 통해 \\\"최근 배포한 내부 스토리지 서비스에 대한 연결이 끊어져 영향을 받은 것으로 확인됐다\\\"며\\\"정상 서비스로 트래픽을 유도하기 위해 노력 중\\\"이라고 설명했다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "MS '팀즈' 먹통에 국내 기업 반사이익…알서포트 \\\"기업 문의 10배↑\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

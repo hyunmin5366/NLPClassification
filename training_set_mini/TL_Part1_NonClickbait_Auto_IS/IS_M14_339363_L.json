@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339363",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[제11회 ICT논문 공모 대제전]수상작 들여다보니",
+		"newsSubTitle": "",
+		"newsContent": "'제11회 ICT논문 공모 대제전' 대상으로 선정된 최진수 학생의 논문은 높은 초당 프레임 수(FPS)의 고해상도 비디오 영상을 복원하기 위한 목적으로 딥러닝 기반 조인트 '초 해상도'(SR) 기술과 프레임 인터포레이션 기법을 제안했다.\n공개 비디오 데이터 셋을 적용, 최신 발표한 SR 프레임 보간 방법을 조합한 벤치마킹 방법을 정의하고 비교 실험을 통해 제안 방법의 우수성을 입증했다.\n최우수상을 받은 신동엽 학생은 심층신경망(DNN) 계층, 필터 등을 고려해 'DNN 액셀레이터 설계 시 전력 손실을 최소화하는 기법'을 제안했다.\n동적 프로그래밍 기법을 사용해서 적절한 MAC 유닛의 크기를 결정함으로써 DNN의 정확도를 극대화 했다.\n시뮬레이션을 통해 기존 방식 대비 34%의 에너지 절감 효과가 있음을 입증했다.\nDNN 분야에 학술적으로 기여하는 바가 큰 논문이라는 평가를 받았다.\n우수상의 박범유·이명훈·이동구 학생은 수정된 전류-블리딩 기법(Current Bleeding, CBLD) 방법과 균형 작업 부하 방법을 적용한 새로운 새로운 노이즈 제거 방법을 제안했다.\n이를 적용한 광대역 애플리케이션을 위한 저잡음증폭기(LNA)를 설계·개발하고 이에 대한 체계적인 성능분석 실험 결과를 제시했다.\n같은 상 수상자로 선정된 김수철 학생은 UPA(Uniform Planar Array)를 장착한 밀리미터웨이브(mmWave) MIMO 백홀시스템을 위한 하이브리드 빔포밍 디자인을 제안했다.\n또한 최적 싱글 폴러라이제이션 빔포머로부터 최적의 듀얼 폴러라이제이션 빔포머를 만들어 낼 수 있다는 점도 입증했다.\n심사위원단으로부터 문제 정의, 포뮬레이션까지 잘 정리한 논문이라는 평을 받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'제11회 ICT논문 공모 대제전' 대상으로 선정된 최진수 학생의 논문은 높은 초당 프레임 수(FPS)의 고해상도 비디오 영상을 복원하기 위한 목적으로 딥러닝 기반 조인트 '초 해상도'(SR) 기술과 프레임 인터포레이션 기법을 제안했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공개 비디오 데이터 셋을 적용, 최신 발표한 SR 프레임 보간 방법을 조합한 벤치마킹 방법을 정의하고 비교 실험을 통해 제안 방법의 우수성을 입증했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최우수상을 받은 신동엽 학생은 심층신경망(DNN) 계층, 필터 등을 고려해 'DNN 액셀레이터 설계 시 전력 손실을 최소화하는 기법'을 제안했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "동적 프로그래밍 기법을 사용해서 적절한 MAC 유닛의 크기를 결정함으로써 DNN의 정확도를 극대화 했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시뮬레이션을 통해 기존 방식 대비 34%의 에너지 절감 효과가 있음을 입증했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "DNN 분야에 학술적으로 기여하는 바가 큰 논문이라는 평가를 받았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "우수상의 박범유·이명훈·이동구 학생은 수정된 전류-블리딩 기법(Current Bleeding, CBLD) 방법과 균형 작업 부하 방법을 적용한 새로운 새로운 노이즈 제거 방법을 제안했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 적용한 광대역 애플리케이션을 위한 저잡음증폭기(LNA)를 설계·개발하고 이에 대한 체계적인 성능분석 실험 결과를 제시했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "같은 상 수상자로 선정된 김수철 학생은 UPA(Uniform Planar Array)를 장착한 밀리미터웨이브(mmWave) MIMO 백홀시스템을 위한 하이브리드 빔포밍 디자인을 제안했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또한 최적 싱글 폴러라이제이션 빔포머로부터 최적의 듀얼 폴러라이제이션 빔포머를 만들어 낼 수 있다는 점도 입증했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "심사위원단으로부터 문제 정의, 포뮬레이션까지 잘 정리한 논문이라는 평을 받았다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[제11회 ICT논문 공모 대제전]수상작 들여다보니",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

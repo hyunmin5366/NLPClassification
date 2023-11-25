@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326777",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "스냅 \\\"동영상 촬영 선글라스 스펙터클스 2.0 올가을 출시\\\"",
+		"newsSubTitle": "",
+		"newsContent": "스냅이 올 가을 동영상 촬영 선글라스 스펙터클스 두 번째 버전을 출시한다고 IT전문매체 테크크런치가 보도했다.\n2016년 출시 이후 미국 서부의 한적한 해안가나 그랜드캐니언 같은 곳에 노란색 자판기 한 대를 설치해 '팝업 스토어' 형식으로 판매한 기발한 상술로 구매 욕구를 자극하며 인기를 끌었던 스펙터클스로 인해 스냅은 스스로를 '카메라 회사'라고 불렀다.\n하지만 온라인 판매 전환 이후 매출이 급감했고, 15만대를 판매한 뒤 주문이 거의 끊겨 재고가 수십만대 쌓였다는 보도까지 나오면서 스냅이 하드웨어 꿈을 포기했다는 성급한 관측이 나왔다.\n하드웨어 부문 인력 수십명이 해고됐다는 보도도 나왔다.\n그러나 테크크런치는 \\\"스냅이 첫 스펙터클스가 가진 단점을 보완하고, 향상된 카메라 성능과 방수기능을 갖춘 스펙터클스 2.0 버전을 현재 제작 중이다\\\"면서 \\\"여기에 그치지 않고 두 대의 카메라가 정착돼 3D 기능까지 갖추게 되는 알루미늄 프레임의 3세대 버전 원형도 이미 만들었고 내년쯤 출시를 목표로 하고 있다\\\"고 전했다.\n내장형 GPS와 가죽 케이스를 가진 3세대 버전의 잠정적 가격은 약 300달러가 될 것이라고 한다.\n현재 스펙터클스 가격은 130달러다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스냅이 올 가을 동영상 촬영 선글라스 스펙터클스 두 번째 버전을 출시한다고 IT전문매체 테크크런치가 보도했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2016년 출시 이후 미국 서부의 한적한 해안가나 그랜드캐니언 같은 곳에 노란색 자판기 한 대를 설치해 '팝업 스토어' 형식으로 판매한 기발한 상술로 구매 욕구를 자극하며 인기를 끌었던 스펙터클스로 인해 스냅은 스스로를 '카메라 회사'라고 불렀다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하지만 온라인 판매 전환 이후 매출이 급감했고, 15만대를 판매한 뒤 주문이 거의 끊겨 재고가 수십만대 쌓였다는 보도까지 나오면서 스냅이 하드웨어 꿈을 포기했다는 성급한 관측이 나왔다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하드웨어 부문 인력 수십명이 해고됐다는 보도도 나왔다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 테크크런치는 \\\"스냅이 첫 스펙터클스가 가진 단점을 보완하고, 향상된 카메라 성능과 방수기능을 갖춘 스펙터클스 2.0 버전을 현재 제작 중이다\\\"면서 \\\"여기에 그치지 않고 두 대의 카메라가 정착돼 3D 기능까지 갖추게 되는 알루미늄 프레임의 3세대 버전 원형도 이미 만들었고 내년쯤 출시를 목표로 하고 있다\\\"고 전했다.",
+				"sentenceSize": 184
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "내장형 GPS와 가죽 케이스를 가진 3세대 버전의 잠정적 가격은 약 300달러가 될 것이라고 한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 스펙터클스 가격은 130달러다.",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스냅 \\\"동영상 촬영 선글라스 스펙터클스 2.0 올가을 출시\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

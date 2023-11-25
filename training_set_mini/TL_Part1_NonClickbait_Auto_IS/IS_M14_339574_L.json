@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339574",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "화웨이폰 미국 진출 임박…삼성·LG '긴장'",
+		"newsSubTitle": "",
+		"newsContent": "화웨이가 내년 초 미국 스마트폰 시장에 본격 진출할 것으로 알려지면서 북미 시장에서 높은 점유율을 보이는 국내 제조사들에 긴장감이 감돌고 있다.\n31일 업계와 외신에 따르면 화웨이는 내년 2월 미국 이동통신사인 AT&T를 통해 최신 스마트폰 메이트 10을 출시한다.\n화웨이는 이에앞서 1월 미국 라스베이거스에서 열리는 전자전시회 'CES 2018'에서 이같은 방침을 밝힐 전망이다.\n메이트10은 화웨이가 독자 개발한 인공지능(AI) 칩셋 '기린970'을 탑재한 제품이다.\n세계 스마트폰 3위 업체인 화웨이가 미국에서 본격적으로 주력 모델 판매에 나서고 있지만 화웨이 등 중국 업체들이 점유율을 꽉 잡고 있는 중국, 인도 등 저가 시장과 미국 프리미엄폰 시장은 특성이 달라 화웨이가 단기간 브랜드 이미지를 높이고 의미있는 성과를 거두기 어려울 것이라는 관측이 우세하다.\n시장조사업체 스트래티지 애널리틱스(SA)에 따르면 3분기 북미 스마트폰 시장에서 1위 애플(30.7%) 다음으로 삼성(25.7%), LG(17%)가 2∼3위를 기록했다.\n중국 ZTE는 11.3%로 4위, 모토로라는 5.0%로 5위였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "화웨이가 내년 초 미국 스마트폰 시장에 본격 진출할 것으로 알려지면서 북미 시장에서 높은 점유율을 보이는 국내 제조사들에 긴장감이 감돌고 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "31일 업계와 외신에 따르면 화웨이는 내년 2월 미국 이동통신사인 AT&T를 통해 최신 스마트폰 메이트 10을 출시한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "화웨이는 이에앞서 1월 미국 라스베이거스에서 열리는 전자전시회 'CES 2018'에서 이같은 방침을 밝힐 전망이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "메이트10은 화웨이가 독자 개발한 인공지능(AI) 칩셋 '기린970'을 탑재한 제품이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "세계 스마트폰 3위 업체인 화웨이가 미국에서 본격적으로 주력 모델 판매에 나서고 있지만 화웨이 등 중국 업체들이 점유율을 꽉 잡고 있는 중국, 인도 등 저가 시장과 미국 프리미엄폰 시장은 특성이 달라 화웨이가 단기간 브랜드 이미지를 높이고 의미있는 성과를 거두기 어려울 것이라는 관측이 우세하다.",
+				"sentenceSize": 165
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시장조사업체 스트래티지 애널리틱스(SA)에 따르면 3분기 북미 스마트폰 시장에서 1위 애플(30.7%) 다음으로 삼성(25.7%), LG(17%)가 2∼3위를 기록했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중국 ZTE는 11.3%로 4위, 모토로라는 5.0%로 5위였다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "화웨이폰 미국 진출 임박…삼성·LG '긴장'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

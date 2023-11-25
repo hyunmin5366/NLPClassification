@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009463",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "내년 10월께 나로호 3차 발사",
+		"newsSubTitle": "한-러 기술협의, 실패원인 개선·시스템 보완키로",
+		"newsContent": "우리나라 첫 우주발사체인 나로호(KSLV-1) 3차 발사가 내년 10월 이전에 이뤄질 전망이다.\n교육과학기술부와 한국항공우주연구원은 14일부터 16일까지 러시아 모스크바에서 나로호 발사 한·러 계약당사자, 즉 한국항공우주연구원과 러시아 흐루니체프사가 3차 발사 추진에 앞서 기술 협의를 진행했다고 20일 밝혔다.\n이번 회의에서 양측은 정부 차원의 '한·러 공동조사단(FIG: Failure Investigation Group)'에서 합의한 권고사항을 바탕으로 나로호 2차 발사의 잠재적 실패 원인을 개선·보완하는 동시에 1차 발사에서 문제가 됐던 페어링(위성보호용 덮개) 시스템도 손보기로 합의했다.\n구체적으로는 우선 2단부 비행종단시스템(FTS)의 화약 장치를 제거하고 고전압 기폭장치를 저전압으로 바꾸기로 했다.\nFTS(Fight Termination System)는 발사체의 비행 궤적이 잘못돼 민가 피해 등 문제가 예상될 경우 자폭하기 위한 장치를 말한다.\n페어링 분리를 위한 고전압 장치 역시 저전압으로 변경된다.\n이번 회의에서 양측은 개선·보완 조치 적용과 1단 제작·점검·운반에 필요한 시간 등을 고려해 내년 10월 안에 3차 발사를 추진하기로 의견을 모았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리나라 첫 우주발사체인 나로호(KSLV-1) 3차 발사가 내년 10월 이전에 이뤄질 전망이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "교육과학기술부와 한국항공우주연구원은 14일부터 16일까지 러시아 모스크바에서 나로호 발사 한·러 계약당사자, 즉 한국항공우주연구원과 러시아 흐루니체프사가 3차 발사 추진에 앞서 기술 협의를 진행했다고 20일 밝혔다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 회의에서 양측은 정부 차원의 '한·러 공동조사단(FIG: Failure Investigation Group)'에서 합의한 권고사항을 바탕으로 나로호 2차 발사의 잠재적 실패 원인을 개선·보완하는 동시에 1차 발사에서 문제가 됐던 페어링(위성보호용 덮개) 시스템도 손보기로 합의했다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "구체적으로는 우선 2단부 비행종단시스템(FTS)의 화약 장치를 제거하고 고전압 기폭장치를 저전압으로 바꾸기로 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "FTS(Fight Termination System)는 발사체의 비행 궤적이 잘못돼 민가 피해 등 문제가 예상될 경우 자폭하기 위한 장치를 말한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "페어링 분리를 위한 고전압 장치 역시 저전압으로 변경된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 회의에서 양측은 개선·보완 조치 적용과 1단 제작·점검·운반에 필요한 시간 등을 고려해 내년 10월 안에 3차 발사를 추진하기로 의견을 모았다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전, 충남지역 토지거래허가구역 1년 연장",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332039",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "BMW그룹, MINI 서비스 예약 앱 'MINI 플러스' 출시",
+		"newsSubTitle": "",
+		"newsContent": "BMW그룹코리아는 MINI 고객들을 위한 실시간 모바일 애프터서비스(AS) 예약 시스템 'MINI 플러스'를 출시했다고 2일 밝혔다.\nMINI 플러스는 고객들이 모바일을 통해 실시간으로 서비스 센터를 예약하고, 차량을 편리하게 점검할 수 있도록 한 모바일 애플리케이션(앱)이다.\nMINI 플러스를 통해 서비스를 신청하면 1분 이내 예약을 확정할 수 있다.\n고객은 MSI 항목인 에어필터, 마이크로 필터, 점화 플러그 또는 연료 필터, 브레이크 디스크와 패드, 와이퍼 블레이드 교체(1년 1회) 등에 대해 예약할 수 있다.\n또 픽업 및 딜리버리 서비스, 긴급출동 서비스 등 다양한 편의 기능을 제공한다.\n워런티와 MSI 만료 일자 등 차량 관리 상태도 간편하게 확인할 수 있다.\n정상천 BMW그룹코리아 애프터세일즈 총괄 이사는 “MINI 플러스 출시를 통해 더 많은 고객에게 편리한 모바일 AS 예약 시스템을 제공할 수 있게 됐다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "BMW그룹코리아는 MINI 고객들을 위한 실시간 모바일 애프터서비스(AS) 예약 시스템 'MINI 플러스'를 출시했다고 2일 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "MINI 플러스는 고객들이 모바일을 통해 실시간으로 서비스 센터를 예약하고, 차량을 편리하게 점검할 수 있도록 한 모바일 애플리케이션(앱)이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "MINI 플러스를 통해 서비스를 신청하면 1분 이내 예약을 확정할 수 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고객은 MSI 항목인 에어필터, 마이크로 필터, 점화 플러그 또는 연료 필터, 브레이크 디스크와 패드, 와이퍼 블레이드 교체(1년 1회) 등에 대해 예약할 수 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 픽업 및 딜리버리 서비스, 긴급출동 서비스 등 다양한 편의 기능을 제공한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "워런티와 MSI 만료 일자 등 차량 관리 상태도 간편하게 확인할 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정상천 BMW그룹코리아 애프터세일즈 총괄 이사는 “MINI 플러스 출시를 통해 더 많은 고객에게 편리한 모바일 AS 예약 시스템을 제공할 수 있게 됐다”고 말했다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "BMW그룹, MINI 서비스 예약 앱 'MINI 플러스' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

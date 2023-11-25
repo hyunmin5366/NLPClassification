@@ -1,0 +1,258 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336205",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "원격에서 생산공정 불량 잡아낸다… 한 번에 최대 3000대 모니터링",
+		"newsSubTitle": "",
+		"newsContent": "원격에서 생산공정 불량을 잡아낼 수 있게 됐다.\n작업자가 현장에 있는 것과 다름없다.\n코이노(대표 오주병)는 스마트 팩토리용 생산관리시스템(MES) '링크미마인(LinkMeMine)'을 출시했다고 25일 밝혔다.\n링크미마인은 장비가 아닌 SW다.\nPC 기반 제조 설비와 서버, POS 기기, 키오스크 장비 상태를 실시간 화면으로 확인한다.\n상황실에서 작업자 한 명이 여러 설비를 동시에 관제한다.\n한 번에 최대 3000개 공정을 지켜볼 수 있다.\n정식 출시 전에 이미 국내 한 대기업 디스플레이 생산 공정에 적용됐다.\n작업자가 일일이 방진복을 입고 생산라인에 들어가지 않아도 된다.\n핵심 기술은 영상이다.\n멀리 떨어진 곳에서도 실제로 보는 것처럼 화질이 선명해야 한다.\n초고화질 영상이라도 끊어지면 안 되기 때문이다.\n디스플레이 생산 도중 발생하는 머리카락 굵기보다 가는 미세한 불량도 잡아낼 정도다.\n네트워크가 불안정해도 영상 걱정은 없다.\n유·무선 네트워크 상태에 따라 화질을 자동 조정하는 코이노만의 기술을 활용했다.\n영상과 음성을 분리해서 전달, 데이터 부하를 줄였다.\n별도 전용 네트워크를 구축하거나 단말을 따로 구입하지 않고 기존 장비를 활용할 수 있는 것도 장점이다.\n해당 기술은 영상통화 솔루션 '유씨투게더'로 비대면 인증수단으로도 쓰인다고 회사 측은 설명했다.\n링크미마인은 원격제어 기능도 갖췄다.\n현장에서 설비를 조작하는 것과 유사한 수준으로 성능을 끌어올렸다.\n입력 지연시간을 최소화했다.\n모니터링 도중 필요에 따라 원격에서 생산과 작업 변경 지시 등이 가능하다.\n사용 정보와 원격접속 기록, 파일 전송 등 솔루션 로그 정보를 파일 매니저로 올리거나 내려받을 수도 있다.\n솔루션 사용자별 권한 부여, 사용 IP 제한 등 보안 기능도 갖췄다.\n국제 표준 암호화 알고리즘인 AES(Advanced Encryption Standard)-256 Bit를 사용, 네트워크 간 보안도 해결했다.\n장민 코이노 부사장은 “링크미마인은 기존 고가 하드웨어 방식 솔루션 단점인 확장성과 초기 구축비용을 해결했다”면서 “단말과 운용체계(OS)를 가리지 않고 통합 관리할 수 있기 때문에 다양한 산업에 적용할 수 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 26,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "원격에서 생산공정 불량을 잡아낼 수 있게 됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "작업자가 현장에 있는 것과 다름없다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코이노(대표 오주병)는 스마트 팩토리용 생산관리시스템(MES) '링크미마인(LinkMeMine)'을 출시했다고 25일 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "링크미마인은 장비가 아닌 SW다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "PC 기반 제조 설비와 서버, POS 기기, 키오스크 장비 상태를 실시간 화면으로 확인한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "상황실에서 작업자 한 명이 여러 설비를 동시에 관제한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한 번에 최대 3000개 공정을 지켜볼 수 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정식 출시 전에 이미 국내 한 대기업 디스플레이 생산 공정에 적용됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "작업자가 일일이 방진복을 입고 생산라인에 들어가지 않아도 된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "핵심 기술은 영상이다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "멀리 떨어진 곳에서도 실제로 보는 것처럼 화질이 선명해야 한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "초고화질 영상이라도 끊어지면 안 되기 때문이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "디스플레이 생산 도중 발생하는 머리카락 굵기보다 가는 미세한 불량도 잡아낼 정도다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "네트워크가 불안정해도 영상 걱정은 없다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "유·무선 네트워크 상태에 따라 화질을 자동 조정하는 코이노만의 기술을 활용했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "영상과 음성을 분리해서 전달, 데이터 부하를 줄였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "별도 전용 네트워크를 구축하거나 단말을 따로 구입하지 않고 기존 장비를 활용할 수 있는 것도 장점이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "해당 기술은 영상통화 솔루션 '유씨투게더'로 비대면 인증수단으로도 쓰인다고 회사 측은 설명했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "링크미마인은 원격제어 기능도 갖췄다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "현장에서 설비를 조작하는 것과 유사한 수준으로 성능을 끌어올렸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "입력 지연시간을 최소화했다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "모니터링 도중 필요에 따라 원격에서 생산과 작업 변경 지시 등이 가능하다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "사용 정보와 원격접속 기록, 파일 전송 등 솔루션 로그 정보를 파일 매니저로 올리거나 내려받을 수도 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "솔루션 사용자별 권한 부여, 사용 IP 제한 등 보안 기능도 갖췄다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "국제 표준 암호화 알고리즘인 AES(Advanced Encryption Standard)-256 Bit를 사용, 네트워크 간 보안도 해결했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "장민 코이노 부사장은 “링크미마인은 기존 고가 하드웨어 방식 솔루션 단점인 확장성과 초기 구축비용을 해결했다”면서 “단말과 운용체계(OS)를 가리지 않고 통합 관리할 수 있기 때문에 다양한 산업에 적용할 수 있다”고 말했다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "원격에서 생산공정 불량 잡아낸다… 한 번에 최대 3000대 모니터링",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

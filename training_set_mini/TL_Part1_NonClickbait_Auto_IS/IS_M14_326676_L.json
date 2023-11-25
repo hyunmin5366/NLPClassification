@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326676",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "방송",
+		"newsTitle": "[ET뷰]지역농가 유통 활로 주역 '케이블TV'",
+		"newsSubTitle": "",
+		"newsContent": "케이블TV 지역채널 커머스방송이 지역 농가의 새로운 유통 활로로 자리매김했다.\n케이블TV 커머스방송은 정보통신기술(ICT) 규제 샌드박스 실증특례 승인을 받은 올해 6월부터 지난달까지 6개월 동안 1174회 커머스방송(재방송 포함)을 통해 108종 품목 2만8699건을 판매했다.\n코로나19 팬데믹으로 2년째 지역 축제가 취소되거나 축소되면서 특산품과 특산물 홍보∙판매에 어려움을 겪고 있는 지역 상품의 판매 창구가 됐다.\n강원 고랭지무, 광양 키위, 금산 인삼, 완도 전복 등 생산자 중심의 비가공 농어업 특산물이 주된 상품이다.\nLG헬로비전∙SK브로드밴드∙딜라이브∙CMB∙HCN 등 복수종합유선방송사업자(MSO) 5개사와 금강방송∙서경방송∙KCTV제주방송 등 개별SO 8개사는 지역 채널에서 정부 또는 지방자치단체 행사와 연계, 하루 최대 3시간 3회 이내로 프라임시간대를 피해서 커머스 방송을 진행하고 있다.\n높은 수수료 문제로 홈쇼핑∙T커머스, e커머스 등에 입점하지 못한 소기업과 소상공인∙농민 등에 든든한 대안이 됐다.\n가입자에게는 신선한 1차 상품을 합리적인 가격에 안방에서 손쉽게 구매할 수 있도록 지원한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "케이블TV 지역채널 커머스방송이 지역 농가의 새로운 유통 활로로 자리매김했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "케이블TV 커머스방송은 정보통신기술(ICT) 규제 샌드박스 실증특례 승인을 받은 올해 6월부터 지난달까지 6개월 동안 1174회 커머스방송(재방송 포함)을 통해 108종 품목 2만8699건을 판매했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코로나19 팬데믹으로 2년째 지역 축제가 취소되거나 축소되면서 특산품과 특산물 홍보∙판매에 어려움을 겪고 있는 지역 상품의 판매 창구가 됐다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강원 고랭지무, 광양 키위, 금산 인삼, 완도 전복 등 생산자 중심의 비가공 농어업 특산물이 주된 상품이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG헬로비전∙SK브로드밴드∙딜라이브∙CMB∙HCN 등 복수종합유선방송사업자(MSO) 5개사와 금강방송∙서경방송∙KCTV제주방송 등 개별SO 8개사는 지역 채널에서 정부 또는 지방자치단체 행사와 연계, 하루 최대 3시간 3회 이내로 프라임시간대를 피해서 커머스 방송을 진행하고 있다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "높은 수수료 문제로 홈쇼핑∙T커머스, e커머스 등에 입점하지 못한 소기업과 소상공인∙농민 등에 든든한 대안이 됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가입자에게는 신선한 1차 상품을 합리적인 가격에 안방에서 손쉽게 구매할 수 있도록 지원한다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[ET뷰]지역농가 유통 활로 주역 '케이블TV'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

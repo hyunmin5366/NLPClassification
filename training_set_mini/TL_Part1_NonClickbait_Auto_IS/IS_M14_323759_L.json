@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323759",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "中 CATL, 美 펠로시 의장 대만 방문으로 미국 공장 발표 보류",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 배터리 시장 점유율 1위인 중국 CATL이 테슬라와 포드 공급을 위해 건설할 수조원 규모의 북미 공장 계획 발표를 보류했다.\n미국 낸시 펠로시 하원의장의 대만 방문에 따라 미-중 긴장이 고조되는 것을 우려한 것으로 보인다.\nCATL은 미국과 멕시코에 50억 달러(6조5000억원)를 투입, 전기차용 배터리 공장을 구축할 예정으로 이들 지자체와 인센티브 등 막판 조율 중이다.\n블룸버그에 따르면 CATL은 당초 수주 내 최종 부지 등 투자 계획을 발표할 예정이었지만, 이를 9~10월로 미뤘다고 밝혔다.\nCATL이 미중 관계가 민감해진 시기에 자신들의 발표로 긴장이 고조되거나 중국 정부의 심기를 거스를 가능성을 우려했기 때문으로 풀이된다.\n특히 CATL 본사가 위치한 푸젠성은 지리적으로 대만과 마주하고 있다.\n중국은 4일부터 대만을 포위하는 형태로 대대적 군사 훈련을 실시한다고 밝힌 바 있다.\nCATL이 배터리 공장 부지로 물색 중인 곳은 미국과 접경 지역인 멕시코 치와와주의 사우다드 후아레스, 코아우일라주의 살티요 등 두곳이다.\n이 공장에서 만들어진 배터리는 미국 테슬라와 포드 등에 공급될 예정이다.\n다만, CATL은 미중 갈등에도 이번 북미 투자 계획을 완전히 포기할 생각은 없는 것으로 알려졌다.\n블룸버그는 시기를 조율할 뿐 투자는 예정대로 진행될 것이라고 다수의 소식통을 인용해 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 배터리 시장 점유율 1위인 중국 CATL이 테슬라와 포드 공급을 위해 건설할 수조원 규모의 북미 공장 계획 발표를 보류했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 낸시 펠로시 하원의장의 대만 방문에 따라 미-중 긴장이 고조되는 것을 우려한 것으로 보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "CATL은 미국과 멕시코에 50억 달러(6조5000억원)를 투입, 전기차용 배터리 공장을 구축할 예정으로 이들 지자체와 인센티브 등 막판 조율 중이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "블룸버그에 따르면 CATL은 당초 수주 내 최종 부지 등 투자 계획을 발표할 예정이었지만, 이를 9~10월로 미뤘다고 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CATL이 미중 관계가 민감해진 시기에 자신들의 발표로 긴장이 고조되거나 중국 정부의 심기를 거스를 가능성을 우려했기 때문으로 풀이된다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 CATL 본사가 위치한 푸젠성은 지리적으로 대만과 마주하고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중국은 4일부터 대만을 포위하는 형태로 대대적 군사 훈련을 실시한다고 밝힌 바 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "CATL이 배터리 공장 부지로 물색 중인 곳은 미국과 접경 지역인 멕시코 치와와주의 사우다드 후아레스, 코아우일라주의 살티요 등 두곳이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 공장에서 만들어진 배터리는 미국 테슬라와 포드 등에 공급될 예정이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "다만, CATL은 미중 갈등에도 이번 북미 투자 계획을 완전히 포기할 생각은 없는 것으로 알려졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "블룸버그는 시기를 조율할 뿐 투자는 예정대로 진행될 것이라고 다수의 소식통을 인용해 전했다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "中 CATL, 美 펠로시 의장 대만 방문으로 미국 공장 발표 보류",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

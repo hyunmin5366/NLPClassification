@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351799",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "애플 \\\"외부결제 허용 미뤄달라\\\"…에픽게임즈 판결 항소[IT썰]",
+		"newsSubTitle": "null",
+		"newsContent": "애플이 자체 앱마켓인 '앱스토어'에 외부결제를 허용하라는 미국 법원 판결에 불복해 항소했다.\n11일(현지시간) CNBC 등 미 외신에 따르면 애플은 지난 8일 에픽게임즈와 인앱(In-app)결제 소송에 대한 항소를 미국 샌프란시스코 제9연방순회항소법원에 제기했다.\n또 애플은 항소가 끝날 때까지 앱스토어에 외부결제를 허용하라는 법원 명령을 연기해달라고 요청했다.\n앞서 에픽게임즈는 지난해 8월 애플이 앱스토어에서 인앱 결제 시스템을 강제하고 30%의 수수료를 받는 것이 반독점법 위반이라며 소송을 제기했다.\n이에 연방법원은 지난 9월 \\\"반독점법 위반은 아니지만 반경쟁적 행위\\\"라며 애플에 오는 12월까지 앱스토어에 타사 결제시스템을 연동할 수 있는 조치를 취하라고 명령했다.\n에픽게임즈 역시 지난 9월 1심 판결에 대해 항소를 제기한 만큼, 양측 항소심이 끝날 때까지는 수년이 걸릴 전망이다.\n지난주 일부 앱 개발사는 애플의 인앱 결제 시스템보다 저렴한 대체 시스템을 마련중이라고 발표했으나, 애플의 요청이 받아들여진다면 항소심이 끝날 때까지 앱스토어의 현재 결제 정책은 유지된다.\nCNBC는 \\\"비평가들은 애플이 대체 결제시스템 사용을 막음으로써 앱스토어 수익을 보존할 것이라고 지적했다\\\"라며 \\\"애플은 앱스토어 이윤을 공개하지 않고 있지만, 지난해 약 640억 달러의 매출을 올렸다\\\"라고 분석했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 자체 앱마켓인 '앱스토어'에 외부결제를 허용하라는 미국 법원 판결에 불복해 항소했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일(현지시간) CNBC 등 미 외신에 따르면 애플은 지난 8일 에픽게임즈와 인앱(In-app)결제 소송에 대한 항소를 미국 샌프란시스코 제9연방순회항소법원에 제기했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 애플은 항소가 끝날 때까지 앱스토어에 외부결제를 허용하라는 법원 명령을 연기해달라고 요청했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 에픽게임즈는 지난해 8월 애플이 앱스토어에서 인앱 결제 시스템을 강제하고 30%의 수수료를 받는 것이 반독점법 위반이라며 소송을 제기했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 연방법원은 지난 9월 \\\"반독점법 위반은 아니지만 반경쟁적 행위\\\"라며 애플에 오는 12월까지 앱스토어에 타사 결제시스템을 연동할 수 있는 조치를 취하라고 명령했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "에픽게임즈 역시 지난 9월 1심 판결에 대해 항소를 제기한 만큼, 양측 항소심이 끝날 때까지는 수년이 걸릴 전망이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난주 일부 앱 개발사는 애플의 인앱 결제 시스템보다 저렴한 대체 시스템을 마련중이라고 발표했으나, 애플의 요청이 받아들여진다면 항소심이 끝날 때까지 앱스토어의 현재 결제 정책은 유지된다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "CNBC는 \\\"비평가들은 애플이 대체 결제시스템 사용을 막음으로써 앱스토어 수익을 보존할 것이라고 지적했다\\\"라며 \\\"애플은 앱스토어 이윤을 공개하지 않고 있지만, 지난해 약 640억 달러의 매출을 올렸다\\\"라고 분석했다.",
+				"sentenceSize": 124
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플 \\\"외부결제 허용 미뤄달라\\\"…에픽게임즈 판결 항소[IT썰]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

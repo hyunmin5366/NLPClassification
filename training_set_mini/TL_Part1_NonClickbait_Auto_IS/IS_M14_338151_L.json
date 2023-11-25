@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338151",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "[ET뷰]플랫폼 업계, 크롤링 '뜨거운 감자'",
+		"newsSubTitle": "",
+		"newsContent": "플랫폼 업체가 증가하며 크롤링 이슈가 수면으로 떠올랐다.\n잡코리아와 사람인, 야놀자와 여기어때, 네이버와 위메프·다윈중개 등이 크롤링 사용으로 다투고 있다.\n크롤링은 웹페이지 내용을 긁어 온 뒤 데이터를 가공·저장하는 행위를 말한다.\n웹페이지를 대상으로 이뤄져 '웹크롤링'이라 한다.\n크롤링이라는 기술 자체는 불법이라고 단정하기 어렵다.\n구글이나 네이버도 검색 결과를 제공하기 위해 크롤링을 사용한다.\n이용자에게 넓은 스펙트럼의 정보를 제공하고 타업체의 수익을 올려주는 등 긍정적으로 작용하기 때문에 모든 크롤링을 부정적으로 낙인찍을 수 없다.\n오프라인에서 직접 현장에 방문해서 사람을 만나 수요 조사와 설문 조사를 하는 등의 작업을 생략할 수 있어 금융권, 마케팅 기업 등에서 활용되고 있다.\n다만 비즈니스모델(BM)이 비슷한 후발주자가 선두기업을 따라잡기 위해 크롤링을 시도하는 경우 법적 분쟁이 발생할 수 있다.\n특히 플랫폼 운영자가 크롤링을 막아 놓는 등 복제 금지 조치를 취한 데이터를 긁어 가거나 복제한 데이터로 이득을 취함으로써 원 데이터 제공자에게 심각한 금전적 손해를 끼쳤을 경우 법적 제재를 받을 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "플랫폼 업체가 증가하며 크롤링 이슈가 수면으로 떠올랐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "잡코리아와 사람인, 야놀자와 여기어때, 네이버와 위메프·다윈중개 등이 크롤링 사용으로 다투고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "크롤링은 웹페이지 내용을 긁어 온 뒤 데이터를 가공·저장하는 행위를 말한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "웹페이지를 대상으로 이뤄져 '웹크롤링'이라 한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "크롤링이라는 기술 자체는 불법이라고 단정하기 어렵다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구글이나 네이버도 검색 결과를 제공하기 위해 크롤링을 사용한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이용자에게 넓은 스펙트럼의 정보를 제공하고 타업체의 수익을 올려주는 등 긍정적으로 작용하기 때문에 모든 크롤링을 부정적으로 낙인찍을 수 없다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오프라인에서 직접 현장에 방문해서 사람을 만나 수요 조사와 설문 조사를 하는 등의 작업을 생략할 수 있어 금융권, 마케팅 기업 등에서 활용되고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "다만 비즈니스모델(BM)이 비슷한 후발주자가 선두기업을 따라잡기 위해 크롤링을 시도하는 경우 법적 분쟁이 발생할 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특히 플랫폼 운영자가 크롤링을 막아 놓는 등 복제 금지 조치를 취한 데이터를 긁어 가거나 복제한 데이터로 이득을 취함으로써 원 데이터 제공자에게 심각한 금전적 손해를 끼쳤을 경우 법적 제재를 받을 수 있다.",
+				"sentenceSize": 115
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[ET뷰]플랫폼 업계, 크롤링 '뜨거운 감자'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

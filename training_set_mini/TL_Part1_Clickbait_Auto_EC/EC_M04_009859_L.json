@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009859",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피 2020선 요지부동",
+		"newsSubTitle": "",
+		"newsContent": "코스피가 외국인과 기관의 매도세에도 불구하고 2020선을 지켜냈다.\n22일 코스피 지수는 전거래일 대비 1.11p(0.05%) 내린 2026.12에 거래를 마쳤다.\n코스피 지수는 장초반 약보합으로 출발해 기관을 중심으로 '팔자세'에 외국인이 가세하며 등락을 거듭하면서 하락마감했다.\n업종별로는 은행, 금융, 보험, 통신, 의약품 등이 올랐고 철강금속, 운수창고, 섬유의복, 종이목재, 증권, 비금속광물, 전기가스업종 등이 하락했다.\n코스피 지수에서는 상한가 5개를 비롯해 266개 종목이 상승했고 하한가 2개를 포함해 572개 종목이 하락했다.\n보합은 62개 종목에 그쳤다.\n이날 코스닥 지수는 전거래일 대비 6.03포인트(1.13%) 내린 527.90에 장을 마감했다.\n코스닥 지수는 외국인과 기관의 동반 매도세가 나흘째 이어지며 하락했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피가 외국인과 기관의 매도세에도 불구하고 2020선을 지켜냈다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 코스피 지수는 전거래일 대비 1.11p(0.05%) 내린 2026.12에 거래를 마쳤다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코스피 지수는 장초반 약보합으로 출발해 기관을 중심으로 '팔자세'에 외국인이 가세하며 등락을 거듭하면서 하락마감했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "업종별로는 은행, 금융, 보험, 통신, 의약품 등이 올랐고 철강금속, 운수창고, 섬유의복, 종이목재, 증권, 비금속광물, 전기가스업종 등이 하락했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코스피 지수에서는 상한가 5개를 비롯해 266개 종목이 상승했고 하한가 2개를 포함해 572개 종목이 하락했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보합은 62개 종목에 그쳤다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 코스닥 지수는 전거래일 대비 6.03포인트(1.13%) 내린 527.90에 장을 마감했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "코스닥 지수는 외국인과 기관의 동반 매도세가 나흘째 이어지며 하락했다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네오플 노사 임금협약 잠정합의...평균 6.8% 인상",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339557",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "과기정통부, 5G 기술 기준 세계 최초 완성",
+		"newsSubTitle": "",
+		"newsContent": "과학기술정보통신부가 5세대(5G) 이동통신 서비스를 위한 기술 기준을 세계 최초로 완성했다.\n5G 주파수 효율을 극대화하고 전파 간섭 없이 안정되게 이용할 수 있는 네트워크 운영 규칙으로, 글로벌 참조 모델이 될 전망이다.\n과기정통부와 국립전파연구원은 5G 서비스를 위한 '전기통신사업용 무선설비의 기술기준 개정(안)' 고시를 행정 예고했다.\n3.5㎓와 28㎒ 대역에서 5G 무선설비의 기술 기준 관련 조항을 신설하는 게 핵심이다.\n기술 기준은 국제표준과 국내 전파 환경을 고려해 개발했다.\n5G 주파수 활용을 위해 기지국과 이동국(단말기) 전파 활용 관련 제반 규칙을 망라했다.\n기본 규칙으로 5G 주파수는 직교주파수분할 다중접속(OFDM) 기술을 적용해 업로드∙다운로드 간 이격이 없는 시분할(TDD) 방식으로 활용토록 했다.\n3.5㎓ 주파수 대역으로 3420~3700㎒ 범위 내에서 대역폭을 최소 10㎒ 폭에서 최대 100㎒ 폭까지 사용할 수 있도록 규정했다.\n28㎓는 26.5∼29.5㎓ 범위 내에서 100㎒, 200㎒, 400㎒ 폭을 사용하도록 기준을 정했다.\n유심(USIM) 호환성도 명시했다.\n어떤 유심을 탑재해도 단말기 간 음성∙영상 통화, 발신자번호표시, 문자메시지(SMS∙MMS), 데이터 서비스를 지원해야 한다.\n또 △주파수 허용 편차 △총 복사 전력 △인접 채널 누설 전력비 △대역외 발사 △스퓨리어스(불요파) 발사에 대해 전파 강도 허용 범위, 평균 전력 등 세부 기술 항목도 규정했다.\n우리나라가 마련한 5G 기술 기준은 5G 상용화를 준비하는 다른 국가에도 레퍼런스가 될 것으로 전망된다.\n미국의 경우 버라이즌 등 일부 이통사가 28㎓ 대역을 활용한 고정형 5G 서비스(FWA) 네트워크 상용화를 추진하고 있지만 연방통신위원회(FCC)는 이통 관련 기술 기준을 아직까지 마련하지 않았다.\n과기정통부 관계자는 \\\"차질 없는 5G 상용화를 위해 전문가 연구를 거쳐 민간표준화단체 3GPP가 확정을 앞둔 표준 기술을 선제 반영, 기술 기준을 완성했다\\\"고 말했다.\n과기정통부는 8월까지 전문가 의견 수렴을 거쳐 고시 개정을 완료할 방침이다.\n제도가 마련되면 이동통신사는 9월부터 5G 망 구축에 들어가 12월 1일부터 전파를 발사할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학기술정보통신부가 5세대(5G) 이동통신 서비스를 위한 기술 기준을 세계 최초로 완성했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5G 주파수 효율을 극대화하고 전파 간섭 없이 안정되게 이용할 수 있는 네트워크 운영 규칙으로, 글로벌 참조 모델이 될 전망이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과기정통부와 국립전파연구원은 5G 서비스를 위한 '전기통신사업용 무선설비의 기술기준 개정(안)' 고시를 행정 예고했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "3.5㎓와 28㎒ 대역에서 5G 무선설비의 기술 기준 관련 조항을 신설하는 게 핵심이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기술 기준은 국제표준과 국내 전파 환경을 고려해 개발했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "5G 주파수 활용을 위해 기지국과 이동국(단말기) 전파 활용 관련 제반 규칙을 망라했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기본 규칙으로 5G 주파수는 직교주파수분할 다중접속(OFDM) 기술을 적용해 업로드∙다운로드 간 이격이 없는 시분할(TDD) 방식으로 활용토록 했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "3.5㎓ 주파수 대역으로 3420~3700㎒ 범위 내에서 대역폭을 최소 10㎒ 폭에서 최대 100㎒ 폭까지 사용할 수 있도록 규정했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "28㎓는 26.5∼29.5㎓ 범위 내에서 100㎒, 200㎒, 400㎒ 폭을 사용하도록 기준을 정했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "유심(USIM) 호환성도 명시했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "어떤 유심을 탑재해도 단말기 간 음성∙영상 통화, 발신자번호표시, 문자메시지(SMS∙MMS), 데이터 서비스를 지원해야 한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "또 △주파수 허용 편차 △총 복사 전력 △인접 채널 누설 전력비 △대역외 발사 △스퓨리어스(불요파) 발사에 대해 전파 강도 허용 범위, 평균 전력 등 세부 기술 항목도 규정했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "우리나라가 마련한 5G 기술 기준은 5G 상용화를 준비하는 다른 국가에도 레퍼런스가 될 것으로 전망된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "미국의 경우 버라이즌 등 일부 이통사가 28㎓ 대역을 활용한 고정형 5G 서비스(FWA) 네트워크 상용화를 추진하고 있지만 연방통신위원회(FCC)는 이통 관련 기술 기준을 아직까지 마련하지 않았다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "과기정통부 관계자는 \\\"차질 없는 5G 상용화를 위해 전문가 연구를 거쳐 민간표준화단체 3GPP가 확정을 앞둔 표준 기술을 선제 반영, 기술 기준을 완성했다\\\"고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "과기정통부는 8월까지 전문가 의견 수렴을 거쳐 고시 개정을 완료할 방침이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "제도가 마련되면 이동통신사는 9월부터 5G 망 구축에 들어가 12월 1일부터 전파를 발사할 수 있다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "과기정통부, 5G 기술 기준 세계 최초 완성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

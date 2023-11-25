@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355068",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "\\\"넥슨 악성코드 분석률 50%↑\\\"…사이버보안도 AI 데이터 효과 컸다",
+		"newsSubTitle": "null",
+		"newsContent": "정부의 사이버보안 인공지능(AI) 데이터셋을 활용해 기업들이 각종 악성코드 분석과 탐지 정확도를 대거 향상시킨 것으로 나타났다.\n과학기술정보통신부와 한국인터넷진흥원(KISA)은 21일 '사이버보안 AI 데이터셋 구축 성과 공유회'를 열고 이같이 밝혔다.\nAI 데이터셋은 AI 기술을 활용한 보안 제품·서비스 개발에 필요한 정상·공격 데이터를 수집·분석·가공해 축적한 AI 학습용 데이터를 말한다.\n악성코드, 도메인, 접속기록, 네트워크 패킷, 인터넷주소(URL/IP) 등 원본 정보가 이에 해당한다.\n그간 국내 보안기업들은 양질의 학습용 데이터셋이 없어 고충을 겪어왔다.\n이에 과기정통부와 KISA는 지난해부터 사이버보안 분야 학습용 AI 데이터셋 구축사업을 추진했다.\n이번 사업은 악성코드와 침해사고 2개 분야로 나뉘어 추진됐고 구축된 데이터셋은 2개월간 실증기간을 거쳐 이번에 성과를 공유하게 됐다.\n올해는 △응용 프로그램 보안(취약점) △능동형 보안관제 △위협 공격자 분석(프로파일링) 등 3개 분야 사업을 추진 중이다.\n악성코드 분야(약 4억건) 데이터셋은 △백신 진단명 △속성정보(제작도구 및 유포·경유지 등) △사회적 관심사항(코로나19·랜섬웨어·비트코인 채굴 등) 키워드를 기반으로 구축됐다.\n침해사고 분야(약 4억건) 데이터셋은 △침해 행위(시스템·네트워크·장비 등) △침해사고 단계별(정보수집·실행·정보유출 등) △최신 침해사고 각본(시나리오) 등을 기반으로 만들어졌다.\n구축한 AI 데이터셋은 침해대응 실효성 검증을 통해 악성코드 분석률·탐지 정확도 제고 등 개선효과가 확인됐다.\n넥슨코리아는 AI 기반 악성코드 탐지모델 도입으로 내부 생성 데이터 악성 여부 분석률을 50%에서 100%로 높였다.\n핵툴(Hacktool) 분석·탐지 자동화로 전문인력 투입 비용도 10명에서 1명으로 감소했다.\nKT 역시 이메일 서비스 첨부파일 내 악성코드 탐지 정확도가 95% 98% 향상됐다.\n김정삼 과기정통부 정보보호네트워크정책관은 \\\"이번에 구축된 데이터셋이 민간 부분의 사이버 대응능력을 한 단계 도약 시킬 수 있는 마중물이 될 것\\\"이라며 \\\"앞으로도 정부는 양질의 사이버보안 분야 AI 데이터셋을 확대 구축할 계획이며, 타 산업분야 적용확대 및 미래 보안기술 개발 촉진으로 이어질 수 있도록 더욱 노력 하겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부의 사이버보안 인공지능(AI) 데이터셋을 활용해 기업들이 각종 악성코드 분석과 탐지 정확도를 대거 향상시킨 것으로 나타났다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과학기술정보통신부와 한국인터넷진흥원(KISA)은 21일 '사이버보안 AI 데이터셋 구축 성과 공유회'를 열고 이같이 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AI 데이터셋은 AI 기술을 활용한 보안 제품·서비스 개발에 필요한 정상·공격 데이터를 수집·분석·가공해 축적한 AI 학습용 데이터를 말한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "악성코드, 도메인, 접속기록, 네트워크 패킷, 인터넷주소(URL/IP) 등 원본 정보가 이에 해당한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그간 국내 보안기업들은 양질의 학습용 데이터셋이 없어 고충을 겪어왔다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 과기정통부와 KISA는 지난해부터 사이버보안 분야 학습용 AI 데이터셋 구축사업을 추진했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 사업은 악성코드와 침해사고 2개 분야로 나뉘어 추진됐고 구축된 데이터셋은 2개월간 실증기간을 거쳐 이번에 성과를 공유하게 됐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "올해는 △응용 프로그램 보안(취약점) △능동형 보안관제 △위협 공격자 분석(프로파일링) 등 3개 분야 사업을 추진 중이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "악성코드 분야(약 4억건) 데이터셋은 △백신 진단명 △속성정보(제작도구 및 유포·경유지 등) △사회적 관심사항(코로나19·랜섬웨어·비트코인 채굴 등) 키워드를 기반으로 구축됐다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "침해사고 분야(약 4억건) 데이터셋은 △침해 행위(시스템·네트워크·장비 등) △침해사고 단계별(정보수집·실행·정보유출 등) △최신 침해사고 각본(시나리오) 등을 기반으로 만들어졌다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "구축한 AI 데이터셋은 침해대응 실효성 검증을 통해 악성코드 분석률·탐지 정확도 제고 등 개선효과가 확인됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "넥슨코리아는 AI 기반 악성코드 탐지모델 도입으로 내부 생성 데이터 악성 여부 분석률을 50%에서 100%로 높였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "핵툴(Hacktool) 분석·탐지 자동화로 전문인력 투입 비용도 10명에서 1명으로 감소했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "KT 역시 이메일 서비스 첨부파일 내 악성코드 탐지 정확도가 95% 98% 향상됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "김정삼 과기정통부 정보보호네트워크정책관은 \\\"이번에 구축된 데이터셋이 민간 부분의 사이버 대응능력을 한 단계 도약 시킬 수 있는 마중물이 될 것\\\"이라며 \\\"앞으로도 정부는 양질의 사이버보안 분야 AI 데이터셋을 확대 구축할 계획이며, 타 산업분야 적용확대 및 미래 보안기술 개발 촉진으로 이어질 수 있도록 더욱 노력 하겠다\\\"고 밝혔다.",
+				"sentenceSize": 189
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"넥슨 악성코드 분석률 50%↑\\\"…사이버보안도 AI 데이터 효과 컸다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

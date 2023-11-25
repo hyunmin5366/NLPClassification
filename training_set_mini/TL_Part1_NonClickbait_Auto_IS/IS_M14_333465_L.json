@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333465",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "AWS, 머신러닝·인공지능 기반 기업 디지털 혁신 지원",
+		"newsSubTitle": "",
+		"newsContent": "아마존웹서비스(AWS)가 머신러닝과 인공지능(AI) 기술로 기업 디지털 혁신을 지원한다. '레코그니션'을 사용하는 기아자동차를 비롯해 롯데마트, CJ대한통운 등 국내 기업에서 AWS 머신러닝 서비스를 채택했다.\n김일호 AWS코리아 솔루션즈아키텍트 매니저는 13일 서울 삼성동 그랜드 인터컨티넨탈 파르나스에서 “AI를 디지털 트랜스포메이션에 활용하겠다는 기업 수요가 크다”며 “AWS 세이즈메이커로 데이터 수집, 분석, 활용과 머신러닝 기술 등 고객 맞춤형 AI 서비스를 지원한다”고 말했다.\n지난해 AWS 리인벤트에서 발표한 '퍼스널라이즈' '포캐스트' '세이즈메이커 그라운드 트루스' 등 주요 머신러닝 솔루션을 토대로 AI·머신러닝 서비스를 강화했다.\n퍼스널라이즈는 차별화된 개인화 서비스를 지원하는 기계학습이다.\n고객맞춤형 제품과 콘텐츠를 추천할 수 있다.\n아마존닷컴에서 완성된 기계학습 기술을 사용, 과거 학습 경험 없이 복잡한 응용 프로그램에 쉽게 개인화 기능을 구축한다.\n퍼스널라이즈로 머신러닝 기술을 검색 결과와 마케팅 프로모션에 적용, 비용을 절감한다.\n고객 데이터 확보를 위한 프로모션 최소화가 가능하다.\n롯데마트가 도입했다.\n아마존닷컴 사용시간에 따른 예측 기술 기반 서비스 포캐스트를 제공한다.\n정확한 시계열 예측으로 과거 데이터까지 인과관계 데이터를 사용하도록 돕는다.\n맞춤형 개인학습 예측 모델을 자동으로 조정·배포, 지출을 합리화하는 등 고객에 긍정적인 경험을 제공하도록 지원한다.\nCJ대한통운이 물류 예측 등에 포캐스트를 활용한다.\nAWS 세이즈메이커 그라운드 트루스로 레이블을 데이터에 쉽게 지정하도록 지원한다.\n실시간 학습 데이터 세트 대부분에 레이블을 자동으로 적용, 단순·반복 작업을 최소화한다.\n정확한 훈련 데이터 세트를 생성해 시간과 복잡성을 줄인다.\n개발자 작업 대비 비용을 최대 70%까지 절감한다.\nAWS는 딥레이서로 기업이 AI 강화학습을 체험하도록 돕는다.\n김 매니저는 “기업에서는 업무환경 개선과 개인 맞춤형 서비스 지원을 위해 AI와 머신러닝 기술을 활용하는 추세”라며 “유통, 제조뿐 아니라 게임, 정보기술(IT) 등 다양한 산업영역에서 수요가 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아마존웹서비스(AWS)가 머신러닝과 인공지능(AI) 기술로 기업 디지털 혁신을 지원한다. '레코그니션'을 사용하는 기아자동차를 비롯해 롯데마트, CJ대한통운 등 국내 기업에서 AWS 머신러닝 서비스를 채택했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김일호 AWS코리아 솔루션즈아키텍트 매니저는 13일 서울 삼성동 그랜드 인터컨티넨탈 파르나스에서 “AI를 디지털 트랜스포메이션에 활용하겠다는 기업 수요가 크다”며 “AWS 세이즈메이커로 데이터 수집, 분석, 활용과 머신러닝 기술 등 고객 맞춤형 AI 서비스를 지원한다”고 말했다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 AWS 리인벤트에서 발표한 '퍼스널라이즈' '포캐스트' '세이즈메이커 그라운드 트루스' 등 주요 머신러닝 솔루션을 토대로 AI·머신러닝 서비스를 강화했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "퍼스널라이즈는 차별화된 개인화 서비스를 지원하는 기계학습이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고객맞춤형 제품과 콘텐츠를 추천할 수 있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아마존닷컴에서 완성된 기계학습 기술을 사용, 과거 학습 경험 없이 복잡한 응용 프로그램에 쉽게 개인화 기능을 구축한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "퍼스널라이즈로 머신러닝 기술을 검색 결과와 마케팅 프로모션에 적용, 비용을 절감한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "고객 데이터 확보를 위한 프로모션 최소화가 가능하다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "롯데마트가 도입했다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "아마존닷컴 사용시간에 따른 예측 기술 기반 서비스 포캐스트를 제공한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "정확한 시계열 예측으로 과거 데이터까지 인과관계 데이터를 사용하도록 돕는다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "맞춤형 개인학습 예측 모델을 자동으로 조정·배포, 지출을 합리화하는 등 고객에 긍정적인 경험을 제공하도록 지원한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "CJ대한통운이 물류 예측 등에 포캐스트를 활용한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "AWS 세이즈메이커 그라운드 트루스로 레이블을 데이터에 쉽게 지정하도록 지원한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "실시간 학습 데이터 세트 대부분에 레이블을 자동으로 적용, 단순·반복 작업을 최소화한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "정확한 훈련 데이터 세트를 생성해 시간과 복잡성을 줄인다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "개발자 작업 대비 비용을 최대 70%까지 절감한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "AWS는 딥레이서로 기업이 AI 강화학습을 체험하도록 돕는다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "김 매니저는 “기업에서는 업무환경 개선과 개인 맞춤형 서비스 지원을 위해 AI와 머신러닝 기술을 활용하는 추세”라며 “유통, 제조뿐 아니라 게임, 정보기술(IT) 등 다양한 산업영역에서 수요가 있다”고 말했다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AWS, 머신러닝·인공지능 기반 기업 디지털 혁신 지원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

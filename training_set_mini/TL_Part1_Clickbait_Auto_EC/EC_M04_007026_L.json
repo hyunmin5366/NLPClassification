@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007026",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "추석지났는데… 여전히 추 무",
+		"newsSubTitle": "명절 전 경매된 물량 때문에 채소값 상승세 못 막아",
+		"newsContent": "채소값이 추석연휴가 지났어도 여전히 상승세를 멈추지 않고 있다.\n26일 유통업계에 따르면 이마트에서 상추 1봉지, 시금치 1단은 각각 3980원, 3780원으로 지난해 이맘때와 비교해 볼 때 224%, 250%씩 올랐다.\n배추 1통 4480원, 무 1개 3000원, 흙대파 1단 4480원 등 채소값이 금값으로 둔갑했다.\n지난해와 비교하면 배추 184%, 무 144%, 흙대파 126%씩의 상승세를 보이고 있다.\n채소가격은 수요가 많았던 지난 17일과 동일한 수준인 것으로 나타났다.\n추석이 지나도 이처럼 채소값이 떨어지지 않은 데는 현재 판매되고 있는 상품이 추석전에 경매된 물량이기 때문이다.\n뿐만 아니라 사례없는 이상기후로 농산물 반입량 역시 떨어져 채소값의 고공행진을 막지 못한 것 역시 원인으로 손꼽혔다.\n유통업계 관계자는 “현재로서는 농산물 가격이 언제부터 내릴 것이라고 확답을 내릴 수가 없다”며 “다음주 시장 상황을 살펴봐야 농산물 가격이 계속 오를 지 또는 내릴 지 판단할 수 있을 것 같다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "채소값이 추석연휴가 지났어도 여전히 상승세를 멈추지 않고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 유통업계에 따르면 이마트에서 상추 1봉지, 시금치 1단은 각각 3980원, 3780원으로 지난해 이맘때와 비교해 볼 때 224%, 250%씩 올랐다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "배추 1통 4480원, 무 1개 3000원, 흙대파 1단 4480원 등 채소값이 금값으로 둔갑했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해와 비교하면 배추 184%, 무 144%, 흙대파 126%씩의 상승세를 보이고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "채소가격은 수요가 많았던 지난 17일과 동일한 수준인 것으로 나타났다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "추석이 지나도 이처럼 채소값이 떨어지지 않은 데는 현재 판매되고 있는 상품이 추석전에 경매된 물량이기 때문이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "뿐만 아니라 사례없는 이상기후로 농산물 반입량 역시 떨어져 채소값의 고공행진을 막지 못한 것 역시 원인으로 손꼽혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "유통업계 관계자는 “현재로서는 농산물 가격이 언제부터 내릴 것이라고 확답을 내릴 수가 없다”며 “다음주 시장 상황을 살펴봐야 농산물 가격이 계속 오를 지 또는 내릴 지 판단할 수 있을 것 같다”고 말했다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쿠팡의 '자부심'....\\\"모든 택배기사 '쿠친'처럼 주5일 근무 희망해\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

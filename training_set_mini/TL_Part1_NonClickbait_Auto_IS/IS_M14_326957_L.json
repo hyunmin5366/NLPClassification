@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326957",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW·보안",
+		"newsTitle": "아나로그디바이스, 계측 및 방위 애플리케이션용 컨버터 제품군 출시",
+		"newsSubTitle": "",
+		"newsContent": "신호 처리 애플리케이션용 고성능 반도체 분야 글로벌 선도 기업인 아나로그디바이스(NASDAQ: ADI)가 뛰어난 속도와 선형성으로 IF/RF 샘플링을 지원하는 14비트, 2.6GSPS 듀얼 ADC를 출시했다.\nAD9689 ADC는 경쟁 솔루션 대비 절반에 불과한 채널당 1.55W 의 전력 소비량으로, 더욱 다양한 설계 상황에서 유연하게 사용 가능하다.\nADI는 고성능 AD9689외에도 관련 컨버터 2종을 추가 출시했다.\n듀얼 14비트 1300/625 MSPS 장치인 AD9695및 싱글 14비트1300MSPS 장치인 AD9697은 모두 기존 장치 대비 저전력으로 운영이 가능하며, 기존 장치와의 핀 호환이 가능하도록 업그레이드 되었다.\n이번에 출시한 ADI의 ADC 3종은 최고 속도에서 FPGA와의 상호 연결을 효율적으로 제공하기 위해 JESD204B 인터페이스를 내장하고 있다.\n또한 동일한 레지스터 맵을 공유하고 있기 때문에 다양한 플랫폼에서 최소한의 코딩으로도 최적의 성능을 발휘할 수 있는 것이 특징이다.\n이뿐만 아니라 AD9689 및 AD9698성능에 대응되는 신호 전송 채널을 시스템 아키텍처에 사용할 수 있도록 AD9172 및 AD9162 DAC 역시 공급 중이다.\nAD9689가 보유한 전속력의 스퓨리어스 없는 동적 범위(spurious free dynamic range, SFDR)는 3GHz 아날로그 입력에 대해 전체 범위 64dB의 놀라운 성능을 보여 준다.\n또한 성능 최적화를 위해 사용자가 이차 오류 보정 및 동등화(equalization)를 시행할 수 있도록 프로그래밍이 가능한 FIR 필터를 제공하며, BGA 패키지 버전에서 최대 4차 나이퀴스트 영역 또는 그 이상까지 RF 샘플링이 가능하도록 9GHz의 아날로그 입력 대역폭 역시 지원한다.\nAD9689 ADC의 JESD204B인터페이스는 표준 성능 요건(레인 당 12.5GPBS)을 뛰어 넘는 레인 당 16GBPS의 성능을 제공함으로써 시스템 FPGA에서 사용되는 레인 수를 줄이는 동시에 다른 기능에 자원을 활용할 수 있도록 돕는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신호 처리 애플리케이션용 고성능 반도체 분야 글로벌 선도 기업인 아나로그디바이스(NASDAQ: ADI)가 뛰어난 속도와 선형성으로 IF/RF 샘플링을 지원하는 14비트, 2.6GSPS 듀얼 ADC를 출시했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AD9689 ADC는 경쟁 솔루션 대비 절반에 불과한 채널당 1.55W 의 전력 소비량으로, 더욱 다양한 설계 상황에서 유연하게 사용 가능하다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ADI는 고성능 AD9689외에도 관련 컨버터 2종을 추가 출시했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "듀얼 14비트 1300/625 MSPS 장치인 AD9695및 싱글 14비트1300MSPS 장치인 AD9697은 모두 기존 장치 대비 저전력으로 운영이 가능하며, 기존 장치와의 핀 호환이 가능하도록 업그레이드 되었다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번에 출시한 ADI의 ADC 3종은 최고 속도에서 FPGA와의 상호 연결을 효율적으로 제공하기 위해 JESD204B 인터페이스를 내장하고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 동일한 레지스터 맵을 공유하고 있기 때문에 다양한 플랫폼에서 최소한의 코딩으로도 최적의 성능을 발휘할 수 있는 것이 특징이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이뿐만 아니라 AD9689 및 AD9698성능에 대응되는 신호 전송 채널을 시스템 아키텍처에 사용할 수 있도록 AD9172 및 AD9162 DAC 역시 공급 중이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "AD9689가 보유한 전속력의 스퓨리어스 없는 동적 범위(spurious free dynamic range, SFDR)는 3GHz 아날로그 입력에 대해 전체 범위 64dB의 놀라운 성능을 보여 준다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또한 성능 최적화를 위해 사용자가 이차 오류 보정 및 동등화(equalization)를 시행할 수 있도록 프로그래밍이 가능한 FIR 필터를 제공하며, BGA 패키지 버전에서 최대 4차 나이퀴스트 영역 또는 그 이상까지 RF 샘플링이 가능하도록 9GHz의 아날로그 입력 대역폭 역시 지원한다.",
+				"sentenceSize": 162
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "AD9689 ADC의 JESD204B인터페이스는 표준 성능 요건(레인 당 12.5GPBS)을 뛰어 넘는 레인 당 16GBPS의 성능을 제공함으로써 시스템 FPGA에서 사용되는 레인 수를 줄이는 동시에 다른 기능에 자원을 활용할 수 있도록 돕는다.",
+				"sentenceSize": 137
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아나로그디바이스, 계측 및 방위 애플리케이션용 컨버터 제품군 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

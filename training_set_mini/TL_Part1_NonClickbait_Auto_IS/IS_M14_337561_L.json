@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337561",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "SK텔레콤, 초고속 데이터분석 '라이트닝 디비' 사업 본격화",
+		"newsSubTitle": "",
+		"newsContent": "SK텔레콤이 초고속 데이터 분석 소프트웨어(SW) '라이트닝 디비'(Lightning DB) 사업을 본격화한다.\n라이트닝 디비 개발팀을 사내 유망 기술 사업화 프로그램 '스타게이트'를 통해 스핀오프하는 방안은 물론 조인트벤처 설립·투자 유치 등을 검토한다.\n라이트닝 디비는 SK텔레콤이 2016년 개발한 SW로 글로벌 최고 수준 성능을 갖췄다는 평가다.\n물리 서버당 초에 50만건 이상 적재와 2000만건 이상 분석이 가능하다.\n자체 테스트 결과 SK텔레콤 보유 30만개 기지국에서 하루 발생되는 60테라바이트(TB) 규모 로그 데이터를 1분 만에 분석해냈다.\n데이터 수집에서 외부 모니터로 시각화하는 전 과정을 5분 만에 완료했다.\n이는 기존 범용 오픈소스 SW인 하둡과 스파크 대비 20배 이상 빠른 성능이다.\n이처럼 초고속 데이터 분석이 가능한 이유는 라이트닝 디비에 자체 개발 파티셔닝(partitioning) 기술을 적용했기 때문이다.\n파티셔닝은 데이터를 특정 조건으로 나눠 데이터베이스(DB)를 저장하는 기술이다.\n파티션이 많을수록 검색 조건에 맞는 결과값을 빠르게 찾아낸다.\n기존 범용 SW는 테이블당 최대 100만개 파티션을 만들지만 라이트닝디비는 10억개 이상을 생성한다.\nSK텔레콤은 본격적 사업화에 앞서 성능을 고도화했다.\n데이터 기반 통계치 산출 역량을 강화할 계획이다.\n파티션 수가 늘어나 데이터가 잘개 쪼개지기 때문에 일정 기준으로 데이터별 통계 자료를 산출하는 데 시간이 소요될 수밖에 없다.\n이 같은 약점을 파티셔닝 이전 통계 연산 작업을 전처리하는 방식으로 개선한다.\n적용 범위도 확장한다.\n현재 소상공인을 위한 상권 분석에 활용하지만 금융·유통·제조업 등으로 범위를 늘린다.\n이강원 SK텔레콤 클라우드랩스장은 “데이터베이스 분석 기술력을 평가하는 3가지 요소 중 데이터 선별 질의 영역에서는 SK텔레콤이 세계 최고 수준”이라며 “나머지 요소인 통계 질의 역량도 향상시켜 서비스 활용도를 높이겠다”고 말했다.\n이 랩스장은 “GPU 업체를 포함한 다수 업체와 협력, 라이트닝 디비를 고도화하겠다”며 “라이트닝 디비를 오픈소스로 공개, 개선점을 발굴·보완하는 과정을 통해 국내 대표 데이터 분석 SW가 되도록 하겠다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤이 초고속 데이터 분석 소프트웨어(SW) '라이트닝 디비'(Lightning DB) 사업을 본격화한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "라이트닝 디비 개발팀을 사내 유망 기술 사업화 프로그램 '스타게이트'를 통해 스핀오프하는 방안은 물론 조인트벤처 설립·투자 유치 등을 검토한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "라이트닝 디비는 SK텔레콤이 2016년 개발한 SW로 글로벌 최고 수준 성능을 갖췄다는 평가다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "물리 서버당 초에 50만건 이상 적재와 2000만건 이상 분석이 가능하다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "자체 테스트 결과 SK텔레콤 보유 30만개 기지국에서 하루 발생되는 60테라바이트(TB) 규모 로그 데이터를 1분 만에 분석해냈다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "데이터 수집에서 외부 모니터로 시각화하는 전 과정을 5분 만에 완료했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이는 기존 범용 오픈소스 SW인 하둡과 스파크 대비 20배 이상 빠른 성능이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이처럼 초고속 데이터 분석이 가능한 이유는 라이트닝 디비에 자체 개발 파티셔닝(partitioning) 기술을 적용했기 때문이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "파티셔닝은 데이터를 특정 조건으로 나눠 데이터베이스(DB)를 저장하는 기술이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "파티션이 많을수록 검색 조건에 맞는 결과값을 빠르게 찾아낸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "기존 범용 SW는 테이블당 최대 100만개 파티션을 만들지만 라이트닝디비는 10억개 이상을 생성한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "SK텔레콤은 본격적 사업화에 앞서 성능을 고도화했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "데이터 기반 통계치 산출 역량을 강화할 계획이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "파티션 수가 늘어나 데이터가 잘개 쪼개지기 때문에 일정 기준으로 데이터별 통계 자료를 산출하는 데 시간이 소요될 수밖에 없다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이 같은 약점을 파티셔닝 이전 통계 연산 작업을 전처리하는 방식으로 개선한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "적용 범위도 확장한다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "현재 소상공인을 위한 상권 분석에 활용하지만 금융·유통·제조업 등으로 범위를 늘린다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이강원 SK텔레콤 클라우드랩스장은 “데이터베이스 분석 기술력을 평가하는 3가지 요소 중 데이터 선별 질의 영역에서는 SK텔레콤이 세계 최고 수준”이라며 “나머지 요소인 통계 질의 역량도 향상시켜 서비스 활용도를 높이겠다”고 말했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이 랩스장은 “GPU 업체를 포함한 다수 업체와 협력, 라이트닝 디비를 고도화하겠다”며 “라이트닝 디비를 오픈소스로 공개, 개선점을 발굴·보완하는 과정을 통해 국내 대표 데이터 분석 SW가 되도록 하겠다”고 덧붙였다.",
+				"sentenceSize": 121
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK텔레콤, 초고속 데이터분석 '라이트닝 디비' 사업 본격화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

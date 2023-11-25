@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336981",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "아이디, 비번 터는 페북 방문자 추적기 여전히 기승...사용자 주의 요구",
+		"newsSubTitle": "",
+		"newsContent": "페이스북 방문자 추적기가 여전히 기승이다.\n페이스북 사용자 아이디∙패스워드 입력을 유도해 로그인 상태 유지 권한인 '엑세스 토큰(Access Token)'을 탈취하는 방식이다.\n전문가는 심각한 보안 위협을 초래한다고 경고한다.\n사용자가 스스로 주의하는 것 외에 방지할 방법도 없다. 25일 페이스북 사이트를 살펴보면, '리미트 연구소' 등 방문자 추적기가 페이스북에서 여전히 활발히 이용된다.\n페이스북에서 '방문자 추적'으로 검색하면 리미트 연구소를 사용할 시 뜨는 피드가 실시간으로 올라온다.\n방문자 추적 사이트 '페북미' 또한 페이스북 페이지에서 활발히 활동한다.\n페북미에 '좋아요'를 누른 사람만 262명에 이른다.\n이 페이지는 접근을 유도하는 게시물도 지난 22일에 올렸다.\n두 사이트는 페이스북의 '엑세스 토큰'을 요구한다. '엑세스 토큰'은 페이스북에 로그인 했을 때 로그인 상태를 유지하는 권한이다.\n이 권한을 넘기면 페이스북에서 '좋아요'와 게시물 공유, 친구 맺기 등 기능이 사용 가능하다.\n업계 한 전문가는 \\\"두 사이트 모두 페이스북 토큰을 빼내는 수법을 사용 한다\\\"며 \\\"토큰은 페이스북 로그인을 했을 때 로그인 상태 그대로 사용하는 권한으로 (방문자 추적 사이트는) 이 같은 권한을 가져다가 사용자를 보는 것이기 때문에 위험하다\\\"고 밝혔다.\n해당 수법은 초기 소셜네트워크서비스(SNS)에서도 사용됐던 수법이다.\n다만 같은 수법이 지속 발생하고 있음에도 제재방안도 마땅치 않다는 점이 문제다.\n업계 전문가는 \\\"토큰을 넘기는 것은 집 주인이 손님에게 집 열쇠를 주는 것과 같기 때문에 사용자가 속지 않는 것 외에는 방법이 없다\\\"고 지적했다.\n페이스북은 위험성은 인지하지만 사용자 주의 외에는 마땅한 대안이 없다는 입장이다.\n페이스북 관계자는 \\\"페이스북은 플랫폼 역할로서 최선을 다하지만 개인정보 보호는 사용자 역할이 중요하다\\\"며 \\\"현재로서는 피해사례가 신고된 것이 없어서 조치를 취하지 않고 있다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "페이스북 방문자 추적기가 여전히 기승이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "페이스북 사용자 아이디∙패스워드 입력을 유도해 로그인 상태 유지 권한인 '엑세스 토큰(Access Token)'을 탈취하는 방식이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전문가는 심각한 보안 위협을 초래한다고 경고한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사용자가 스스로 주의하는 것 외에 방지할 방법도 없다. 25일 페이스북 사이트를 살펴보면, '리미트 연구소' 등 방문자 추적기가 페이스북에서 여전히 활발히 이용된다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "페이스북에서 '방문자 추적'으로 검색하면 리미트 연구소를 사용할 시 뜨는 피드가 실시간으로 올라온다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방문자 추적 사이트 '페북미' 또한 페이스북 페이지에서 활발히 활동한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "페북미에 '좋아요'를 누른 사람만 262명에 이른다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 페이지는 접근을 유도하는 게시물도 지난 22일에 올렸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "두 사이트는 페이스북의 '엑세스 토큰'을 요구한다. '엑세스 토큰'은 페이스북에 로그인 했을 때 로그인 상태를 유지하는 권한이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 권한을 넘기면 페이스북에서 '좋아요'와 게시물 공유, 친구 맺기 등 기능이 사용 가능하다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "업계 한 전문가는 \\\"두 사이트 모두 페이스북 토큰을 빼내는 수법을 사용 한다\\\"며 \\\"토큰은 페이스북 로그인을 했을 때 로그인 상태 그대로 사용하는 권한으로 (방문자 추적 사이트는) 이 같은 권한을 가져다가 사용자를 보는 것이기 때문에 위험하다\\\"고 밝혔다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "해당 수법은 초기 소셜네트워크서비스(SNS)에서도 사용됐던 수법이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "다만 같은 수법이 지속 발생하고 있음에도 제재방안도 마땅치 않다는 점이 문제다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "업계 전문가는 \\\"토큰을 넘기는 것은 집 주인이 손님에게 집 열쇠를 주는 것과 같기 때문에 사용자가 속지 않는 것 외에는 방법이 없다\\\"고 지적했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "페이스북은 위험성은 인지하지만 사용자 주의 외에는 마땅한 대안이 없다는 입장이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "페이스북 관계자는 \\\"페이스북은 플랫폼 역할로서 최선을 다하지만 개인정보 보호는 사용자 역할이 중요하다\\\"며 \\\"현재로서는 피해사례가 신고된 것이 없어서 조치를 취하지 않고 있다\\\"고 밝혔다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이디, 비번 터는 페북 방문자 추적기 여전히 기승...사용자 주의 요구",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

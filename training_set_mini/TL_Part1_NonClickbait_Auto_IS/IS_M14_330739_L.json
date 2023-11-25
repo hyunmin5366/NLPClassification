@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330739",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "세인트시큐리티, 맥스 '바이러스 토털' 등재",
+		"newsSubTitle": "",
+		"newsContent": "세인트시큐리티(대표 김기홍)은 머신러닝 기반 안티바이러스 엔진 맥스(MAX)가 바이러스 토털 사이트에 올라갔다고 밝혔다.\n바이러스 토털은 구글이 운영하는 보안 인텔리전스 서비스다.\n글로벌 안티바이러스 엔진을 기반으로 수집된 파일이 악성인지 파악하는 정보 서비스다.\n현재 바이러스 토털 사이트에 총 63개 안티바이러스 엔진이 올라갔다.\n매일 약 150만개 파일을 분석한다.\n국내에서는 안랩 V3, 하우리 바이로봇, 이스트시큐리티 알약, 잉카인터넷 엔프로텍트 엔진이 탑재됐으며 이번 세인트시큐리티 맥스가 다섯번째로 들어갔다.\n세인트시큐리티는 지난해부터 맥스를 개발했다.\n작년 말에 영국 안티바이러스 테스트 기관인 SE-랩에서 엔진 성능을 검증받았다.\n올해 초 맥스 안티바이러스 일반 사용자용을 개발해 베타 서비스를 진행 중에 있으며 약 8만 사용자가 참여했다.\n김기홍 대표 \\\"이번 기회를 기반으로 머신 러닝 기반 안티 바이러스 엔진이 국내외 시장에 진출할 수 있는 전기를 만들겠다\\\"고 전했다.\n맥스 안티바이러스는 8월말 국내에 정식 버전이 나온다.\n올해 말과 내년 초 CC평가 인증이 끝나면 기업과 공공기관 버전을 내놓는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세인트시큐리티(대표 김기홍)은 머신러닝 기반 안티바이러스 엔진 맥스(MAX)가 바이러스 토털 사이트에 올라갔다고 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "바이러스 토털은 구글이 운영하는 보안 인텔리전스 서비스다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글로벌 안티바이러스 엔진을 기반으로 수집된 파일이 악성인지 파악하는 정보 서비스다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 바이러스 토털 사이트에 총 63개 안티바이러스 엔진이 올라갔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "매일 약 150만개 파일을 분석한다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국내에서는 안랩 V3, 하우리 바이로봇, 이스트시큐리티 알약, 잉카인터넷 엔프로텍트 엔진이 탑재됐으며 이번 세인트시큐리티 맥스가 다섯번째로 들어갔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "세인트시큐리티는 지난해부터 맥스를 개발했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "작년 말에 영국 안티바이러스 테스트 기관인 SE-랩에서 엔진 성능을 검증받았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "올해 초 맥스 안티바이러스 일반 사용자용을 개발해 베타 서비스를 진행 중에 있으며 약 8만 사용자가 참여했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "김기홍 대표 \\\"이번 기회를 기반으로 머신 러닝 기반 안티 바이러스 엔진이 국내외 시장에 진출할 수 있는 전기를 만들겠다\\\"고 전했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "맥스 안티바이러스는 8월말 국내에 정식 버전이 나온다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "올해 말과 내년 초 CC평가 인증이 끝나면 기업과 공공기관 버전을 내놓는다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세인트시큐리티, 맥스 '바이러스 토털' 등재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

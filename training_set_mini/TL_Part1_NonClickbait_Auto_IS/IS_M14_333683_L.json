@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333683",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "BMW '520d' 승용차, 주행 중에 또 화재 사고",
+		"newsSubTitle": "",
+		"newsContent": "BMW '520d' 승용차가 달리는 도중에 불이 나는 사고가 또 발생했다.\n현재까지 밝혀진 차량 화재 건 만 29번째다.\n경찰에 따르면 2일 오전 11시 47분쯤 강원 원주시 부론면 영동고속도로 강릉 방면 104㎞ 지점에서 최모(29여)씨가 몰던 BMW 525d 승용차에서 불길이 치솟았다.\n운전자 최씨는 경찰에서 \\\"주행 중 가속 패들이 작동하지 않아 갓길에 차를 세운 뒤 갑자기 앞부분에서 불이 올라왔다\\\"고 전한 것으로 전해졌다.\n화재 직후 운전자와 동승자는 재빨리 대피해 인명피해는 발생하지 않았다.\n이 불은 출동한 소방대원들에 의해 20여분 만에 진압됐다.\n앞서 지난달 29일 강원 원주시 중앙고속도로에서 주행 중인 BMW 520d 차량에서 불이 나는 등 최근 들어 20여건이 넘는 사고가 발생하자 소비자이 집단 법적대응에 돌입한 상태다.\nBMW코리아는 520d 모델을 포함해 모두 42개 모델 10만6317대를 대상으로 자발적 리콜조치와 긴급 안전진단을 벌이고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "BMW '520d' 승용차가 달리는 도중에 불이 나는 사고가 또 발생했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현재까지 밝혀진 차량 화재 건 만 29번째다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "경찰에 따르면 2일 오전 11시 47분쯤 강원 원주시 부론면 영동고속도로 강릉 방면 104㎞ 지점에서 최모(29여)씨가 몰던 BMW 525d 승용차에서 불길이 치솟았다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "운전자 최씨는 경찰에서 \\\"주행 중 가속 패들이 작동하지 않아 갓길에 차를 세운 뒤 갑자기 앞부분에서 불이 올라왔다\\\"고 전한 것으로 전해졌다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "화재 직후 운전자와 동승자는 재빨리 대피해 인명피해는 발생하지 않았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 불은 출동한 소방대원들에 의해 20여분 만에 진압됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 지난달 29일 강원 원주시 중앙고속도로에서 주행 중인 BMW 520d 차량에서 불이 나는 등 최근 들어 20여건이 넘는 사고가 발생하자 소비자이 집단 법적대응에 돌입한 상태다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "BMW코리아는 520d 모델을 포함해 모두 42개 모델 10만6317대를 대상으로 자발적 리콜조치와 긴급 안전진단을 벌이고 있다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "BMW '520d' 승용차, 주행 중에 또 화재 사고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

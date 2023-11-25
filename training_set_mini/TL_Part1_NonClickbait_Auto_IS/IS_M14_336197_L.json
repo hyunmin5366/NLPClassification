@@ -1,0 +1,258 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336197",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "편리한 IT관리 도구...해커가 이용하면",
+		"newsSubTitle": "",
+		"newsContent": "액티브디렉토리(AD)와 패치관리시스템(PMS) 등 IT관리 편의 도구가 해킹 통로로 악용된다.\n기업 IT 관리자 업무 편의를 위해 도입했는데 해커가 장악하면 악성코드를 내부로 확산시키는 위협이 된다.\n한국인터넷진흥원(원장 김석환) 사이버침해사고대응본부는 해커가 기업 침투 후 내부 확산 거점으로 주로 AD서버와 PMS를 이용한다고 4일 밝혔다.\n기업은 주로 외부에서 내부로 들어오는 경계지점 사이버 위협 방어에 힘쓴다.\n하지만 해커가 경계를 뚫고 내부로 들어오면 손쉽게 중요 시스템을 장악한다.\n내부 확산 통로 관리가 소홀한 탓이다.\n해커가 내부로 들어온 후 확산하는 통로 보안 대응이 시급하다.\nAD서버는 계정과 시스템 관리에 쓰인다.\n기업은 여러 개 AD를 쓰는 경우가 많다.\nIT관리자는 AD 서버를 이용해 파일이나 정책을 공유한다.\n파일을 배포하거나 스크립트를 실행한다.\n보안 정책 변경도 AD서버를 활용한다.\nIT관리자가 AD서버 접근제어와 보안을 소홀히 하면 해커 도구가 된다.\n상당수 IT관리자는 AD서버에 네트워크 공유 정책이나 계정 관리 정책을 적용하지 않는다.\n이동근 KISA 침해사고분석단장은 “AD서버 권한이 막강하다”면서 “AD서버가 보안에 소홀하면 전체 기업 장악 포인트가 된다”고 설명했다.\n파일공유서버도 해커 거점 확산에 자주 악용된다.\n윈도 환경에서 주로 내부 파일을 공유할 때 파일서버를 쓴다.\n해커는 윈도 기본 명령어 조합으로 손쉽게 파일서버를 공격한다.\n한 개 시스템을 장악하면 전체 시스템 공격이 가능하다.\nPMS를 악용한 공격도 자주 발견된다.\n해커는 지능형지속위협(APT) 공격으로 내부에 침투한 후 PMS를 장악한다.\nPMS는 보안 업데이트 등을 하는 중앙관리 서버다.\n해커는 이를 활용해 내부 PC에 악성코드를 한꺼번에 유포한다.\nPMS에 대한 관리가 소홀하면 내부 전체가 장악당한다.\n이 단장은 “PMS와 AD 서버 등에 대한 접근제어 정책이 부재한 경우가 많다”면서 “내부에서 쓰는 IT관리도구에 대해 접근 이력 등을 철저히 기록해야 한다”고 말했다.\n이어 “이런 관리 도구가 주요 시스템에 접근하는 권한을 가진 경우가 많다”면서 “원격 명령 수행 이력, 파일 배포이력까지 모두 관리해야 한다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 26,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "액티브디렉토리(AD)와 패치관리시스템(PMS) 등 IT관리 편의 도구가 해킹 통로로 악용된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기업 IT 관리자 업무 편의를 위해 도입했는데 해커가 장악하면 악성코드를 내부로 확산시키는 위협이 된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국인터넷진흥원(원장 김석환) 사이버침해사고대응본부는 해커가 기업 침투 후 내부 확산 거점으로 주로 AD서버와 PMS를 이용한다고 4일 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기업은 주로 외부에서 내부로 들어오는 경계지점 사이버 위협 방어에 힘쓴다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 해커가 경계를 뚫고 내부로 들어오면 손쉽게 중요 시스템을 장악한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "내부 확산 통로 관리가 소홀한 탓이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해커가 내부로 들어온 후 확산하는 통로 보안 대응이 시급하다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "AD서버는 계정과 시스템 관리에 쓰인다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기업은 여러 개 AD를 쓰는 경우가 많다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "IT관리자는 AD 서버를 이용해 파일이나 정책을 공유한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "파일을 배포하거나 스크립트를 실행한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "보안 정책 변경도 AD서버를 활용한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "IT관리자가 AD서버 접근제어와 보안을 소홀히 하면 해커 도구가 된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "상당수 IT관리자는 AD서버에 네트워크 공유 정책이나 계정 관리 정책을 적용하지 않는다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이동근 KISA 침해사고분석단장은 “AD서버 권한이 막강하다”면서 “AD서버가 보안에 소홀하면 전체 기업 장악 포인트가 된다”고 설명했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "파일공유서버도 해커 거점 확산에 자주 악용된다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "윈도 환경에서 주로 내부 파일을 공유할 때 파일서버를 쓴다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "해커는 윈도 기본 명령어 조합으로 손쉽게 파일서버를 공격한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "한 개 시스템을 장악하면 전체 시스템 공격이 가능하다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "PMS를 악용한 공격도 자주 발견된다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "해커는 지능형지속위협(APT) 공격으로 내부에 침투한 후 PMS를 장악한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "PMS는 보안 업데이트 등을 하는 중앙관리 서버다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "해커는 이를 활용해 내부 PC에 악성코드를 한꺼번에 유포한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "PMS에 대한 관리가 소홀하면 내부 전체가 장악당한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "이 단장은 “PMS와 AD 서버 등에 대한 접근제어 정책이 부재한 경우가 많다”면서 “내부에서 쓰는 IT관리도구에 대해 접근 이력 등을 철저히 기록해야 한다”고 말했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "이어 “이런 관리 도구가 주요 시스템에 접근하는 권한을 가진 경우가 많다”면서 “원격 명령 수행 이력, 파일 배포이력까지 모두 관리해야 한다”고 덧붙였다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "편리한 IT관리 도구...해커가 이용하면",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

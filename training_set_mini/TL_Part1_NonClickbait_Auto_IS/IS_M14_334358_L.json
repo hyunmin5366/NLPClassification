@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334358",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "네이버 검색, 초대규모 AI로 질문도 제안한다",
+		"newsSubTitle": "",
+		"newsContent": "네이버 검색이 초대규모 인공지능(Hyperscale AI)으로 질문까지 제안해 준다.\n정보 탐색 연속성을 높일 전망이다.\n네이버는 21일부터 지식스니펫 하단에 '질문 제안' 영역을 신규로 추가한다.\n네이버 초대규모 인공지능(AI) '하이퍼클로바' 기술을 활용, 사용자가 검색한 키워드와 관련한 여러 질문을 제안하는 서비스다.\n지식스니펫은 지식백과, 뉴스, 블로그 등 수많은 문서 중에 사용자 검색 의도에 맞는 정보를 AI 기반으로 자동 추출·편집해 검색 결과 최상단에 보여주는 서비스다.\n21일 추가하는 질문 제안 기능에는 하이퍼클로바 기술을 적용한다.\n예를 들어 사용자가 네이버 검색창에 '갑상선 통증'이라고 입력하면 최상단에 뜨는 지식스니펫 아래 갑상선암 원인, 갑상선암 치료법 등 사용자가 관심 가질만한 질의를 선별해 보여준다.\n이 질의는 하이퍼클로바 기술을 활용해 자연스러운 의문문 형식 문장으로 생성한다.\n네이버 관계자는 “사용자는 생성된 연관 질문을 통해 다음으로 찾고자 하는 정보가 무엇인지 인지, 선택 할 수 있다”면서 “해당 질문을 클릭했을 때 어떤 정보를 얻을 수 있는지 한눈에 파악할 수 있다”고 설명했다.\n네이버는 질병이나 사회정책 주제 중심으로 질문 제안을 우선 적용할 예정이다.\n모델을 개선해 향후 더 많은 주제 키워드에 질문 제안을 적용할 계획이다.\n네이버는 “이번 개선을 통해 검색 의도가 명확한 질의들을 검색했을 때 원하는 답변을 빠르게 찾아주는 것에서 한 걸음 더 나아가겠다”면서 “유사 의도를 가진 다른 키워드로 잘 연결해서 사용자가 원하는 신뢰할만한 정보 중심으로 연속적 탐색이 가능해질 것”으로 기대했다.\n하이퍼클로바는 네이버가 올해 5월 공개한 국내 기업 최초 초대규모 AI다.\n올해 5월 공개됐다.\n오픈AI가 2020년 공개한 초거대 AI 'GPT-3'보다 규모가 크다.\n하이퍼클로바 파라미터(매개변수)는 2040억개로 GPT-3 1750억개를 넘어선다.\n한글에 기반한 AI 모델이라는 점에서 차별화 된다.\n네이버에 따르면 하이퍼클로바가 학습한 한국어 데이터 규모는 5600억 토큰으로 GPT-3보다 6500배 크다.\nGPT-3는 학습한 언어 중 영어가 93%인 반면 하이퍼클로바는 학습 언어 97%가 한국어다.\n하이퍼클로바는 한글·한국어 AI 분야에서 학술·산업적 성과를 내고 있다.\n네이버는 5월 하이퍼클로바 공개 직후 검색 서비스에서 사용자가 검색어를 잘못 입력하는 경우 교정하거나 적잘한 검색어를 추천하는 기능을 선보였다.\n네이버는 이달 열린 '한글 및 한국어 정보처리 학술대회(HCLT) 2021'에서 지난해에 비해 2.5배 많은 총 15건 한국어 처리기술과 연구 성과를 논문으로 발표했다.\n이 가운데 일부 연구 성과는 이미 네이버 서비스에 적용 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버 검색이 초대규모 인공지능(Hyperscale AI)으로 질문까지 제안해 준다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정보 탐색 연속성을 높일 전망이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버는 21일부터 지식스니펫 하단에 '질문 제안' 영역을 신규로 추가한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버 초대규모 인공지능(AI) '하이퍼클로바' 기술을 활용, 사용자가 검색한 키워드와 관련한 여러 질문을 제안하는 서비스다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지식스니펫은 지식백과, 뉴스, 블로그 등 수많은 문서 중에 사용자 검색 의도에 맞는 정보를 AI 기반으로 자동 추출·편집해 검색 결과 최상단에 보여주는 서비스다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "21일 추가하는 질문 제안 기능에는 하이퍼클로바 기술을 적용한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "예를 들어 사용자가 네이버 검색창에 '갑상선 통증'이라고 입력하면 최상단에 뜨는 지식스니펫 아래 갑상선암 원인, 갑상선암 치료법 등 사용자가 관심 가질만한 질의를 선별해 보여준다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 질의는 하이퍼클로바 기술을 활용해 자연스러운 의문문 형식 문장으로 생성한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네이버 관계자는 “사용자는 생성된 연관 질문을 통해 다음으로 찾고자 하는 정보가 무엇인지 인지, 선택 할 수 있다”면서 “해당 질문을 클릭했을 때 어떤 정보를 얻을 수 있는지 한눈에 파악할 수 있다”고 설명했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "네이버는 질병이나 사회정책 주제 중심으로 질문 제안을 우선 적용할 예정이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "모델을 개선해 향후 더 많은 주제 키워드에 질문 제안을 적용할 계획이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "네이버는 “이번 개선을 통해 검색 의도가 명확한 질의들을 검색했을 때 원하는 답변을 빠르게 찾아주는 것에서 한 걸음 더 나아가겠다”면서 “유사 의도를 가진 다른 키워드로 잘 연결해서 사용자가 원하는 신뢰할만한 정보 중심으로 연속적 탐색이 가능해질 것”으로 기대했다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "하이퍼클로바는 네이버가 올해 5월 공개한 국내 기업 최초 초대규모 AI다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "올해 5월 공개됐다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "오픈AI가 2020년 공개한 초거대 AI 'GPT-3'보다 규모가 크다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "하이퍼클로바 파라미터(매개변수)는 2040억개로 GPT-3 1750억개를 넘어선다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "한글에 기반한 AI 모델이라는 점에서 차별화 된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "네이버에 따르면 하이퍼클로바가 학습한 한국어 데이터 규모는 5600억 토큰으로 GPT-3보다 6500배 크다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "GPT-3는 학습한 언어 중 영어가 93%인 반면 하이퍼클로바는 학습 언어 97%가 한국어다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "하이퍼클로바는 한글·한국어 AI 분야에서 학술·산업적 성과를 내고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "네이버는 5월 하이퍼클로바 공개 직후 검색 서비스에서 사용자가 검색어를 잘못 입력하는 경우 교정하거나 적잘한 검색어를 추천하는 기능을 선보였다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "네이버는 이달 열린 '한글 및 한국어 정보처리 학술대회(HCLT) 2021'에서 지난해에 비해 2.5배 많은 총 15건 한국어 처리기술과 연구 성과를 논문으로 발표했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이 가운데 일부 연구 성과는 이미 네이버 서비스에 적용 중이다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버 검색, 초대규모 AI로 질문도 제안한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353410",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"건강검진 결과 확인\\\" 메일..근데 北에서 보냈다는데",
+		"newsSubTitle": "null",
+		"newsContent": "최근 국내에서 병원과 의료원 건강검진 결과 안내서로 교묘하게 위장한 피싱메일(Phishing Mail)이 발견돼 주의가 필요하다.\n메일 내 첨부파일을 열면 숨겨진 악성코드가 자동 실행되는 방식으로 북한 연계 해커세력이 조직적으로 유포한 것으로 추정된다.\n보안기업 이스트시큐리티는 최근 이 같은 북한 연계 해킹공격이 등장했다고 4일 밝혔다. '검진 결과서 조회 및 발급'이라는 제목으로 보낸 메일에는 국내 병원 등이 증명서 발급 때 설치를 요구하는 실제 플러그인 프로그램이 첨부돼있는데, 여기엔 악성코드가 숨겨져있다.\n실행하면 컴퓨터 화면에는 프로그램 설치 과정만 보이지만 실제로는 악성코드도 함께 설치된다.\n악성코드는 은밀하게 사용자 PC의 주요 데이터 등에 접근할 수 있다.\n이스트시큐리티의 시큐리티대응센터(ESRC)는 이번 공격이 지난달 국내 지상파 방송사 등을 겨냥한 APT(지능형지속위협) 공격 당시와 같은 북한 연계 해커 조직이 수행한 것으로 보고 있다.\n공격 도메인과 주요 함수구조 등이 유사하기 때문이다.\n당시 발견된 위협지표에는 북한식 표기인 '현시', 북한발 해킹 공격에서 자주 발견되는 이니셜 'KGH' 등이 포함됐다.\n문종현 이스트시큐리티 ESRC 센터장은 \\\"러시아 소행으로 알려진 데이터 파괴용 악성 파일이 우크라이나에서 다수 보고되고 있는 가운데, 국내도 北 연계 사이버 위협이 꾸준히 발견되고 있다\\\"며 \\\"특히 다가오는 대한민국 대통령 선거와 관련해 사회공학적 해킹 공격이 등장할 수 있어 각별한 주의가 필요하다\\\"고 당부했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 국내에서 병원과 의료원 건강검진 결과 안내서로 교묘하게 위장한 피싱메일(Phishing Mail)이 발견돼 주의가 필요하다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "메일 내 첨부파일을 열면 숨겨진 악성코드가 자동 실행되는 방식으로 북한 연계 해커세력이 조직적으로 유포한 것으로 추정된다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보안기업 이스트시큐리티는 최근 이 같은 북한 연계 해킹공격이 등장했다고 4일 밝혔다. '검진 결과서 조회 및 발급'이라는 제목으로 보낸 메일에는 국내 병원 등이 증명서 발급 때 설치를 요구하는 실제 플러그인 프로그램이 첨부돼있는데, 여기엔 악성코드가 숨겨져있다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "실행하면 컴퓨터 화면에는 프로그램 설치 과정만 보이지만 실제로는 악성코드도 함께 설치된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "악성코드는 은밀하게 사용자 PC의 주요 데이터 등에 접근할 수 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이스트시큐리티의 시큐리티대응센터(ESRC)는 이번 공격이 지난달 국내 지상파 방송사 등을 겨냥한 APT(지능형지속위협) 공격 당시와 같은 북한 연계 해커 조직이 수행한 것으로 보고 있다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공격 도메인과 주요 함수구조 등이 유사하기 때문이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "당시 발견된 위협지표에는 북한식 표기인 '현시', 북한발 해킹 공격에서 자주 발견되는 이니셜 'KGH' 등이 포함됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "문종현 이스트시큐리티 ESRC 센터장은 \\\"러시아 소행으로 알려진 데이터 파괴용 악성 파일이 우크라이나에서 다수 보고되고 있는 가운데, 국내도 北 연계 사이버 위협이 꾸준히 발견되고 있다\\\"며 \\\"특히 다가오는 대한민국 대통령 선거와 관련해 사회공학적 해킹 공격이 등장할 수 있어 각별한 주의가 필요하다\\\"고 당부했다.",
+				"sentenceSize": 178
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"건강검진 결과 확인\\\" 메일..근데 北에서 보냈다는데",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

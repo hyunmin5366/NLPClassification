@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339395",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "패션테크 기업 비주얼, 투자 유치",
+		"newsSubTitle": "",
+		"newsContent": "주얼리 패션테크 기업 비주얼이 최근 벤처캐피털 캡스톤파트너스 등으로부터 투자를 유치했다.\n비주얼은 세종대 소프트웨어융합대학장 백성욱 교수팀, 인공지능-빅데이터연구센터와 산학협력 연구를 진행 중이다.\n캡스톤파트너스 등 투자 기업은 비주얼이 보유한 딥러닝 기술력은 물론 주얼리 시장 유일한 IT서비스 업체, 악세서리 및 이커머스 시장이 급성장 중임을 고려해 투자를 결정했다.\n지난해 세종대 인공지능-빅데이터연구센터(센터장 유성준 교수)와 비주얼은 산학협력 협약을 맺고 빅데이터 및 딥러닝 분야 기술 공유 및 연구개발(R&D) 공동 사업 업무 제휴를 맺었다.\n세종대 인공지능-빅데이터연구센터는 과기정통부가 지원하는 정보통신연구기반구축사업을 통해 국내 기업에 대용량데이터 초고속처리 장비 지원 및 기술 컨설팅을 제공하고 있다.\n양 기관은 인공지능 및 빅데이터 공동 연구개발을 통해 △고가형 주얼리 시장 O2O 서비스 플랫폼 개발 △주얼리 이미지 딥러닝 기술 △이미지 기반 추천 기술 △AI 트랜드 어드바이저 기술 개발 등 패션테크 기업으로 경쟁력을 강화할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "주얼리 패션테크 기업 비주얼이 최근 벤처캐피털 캡스톤파트너스 등으로부터 투자를 유치했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비주얼은 세종대 소프트웨어융합대학장 백성욱 교수팀, 인공지능-빅데이터연구센터와 산학협력 연구를 진행 중이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "캡스톤파트너스 등 투자 기업은 비주얼이 보유한 딥러닝 기술력은 물론 주얼리 시장 유일한 IT서비스 업체, 악세서리 및 이커머스 시장이 급성장 중임을 고려해 투자를 결정했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 세종대 인공지능-빅데이터연구센터(센터장 유성준 교수)와 비주얼은 산학협력 협약을 맺고 빅데이터 및 딥러닝 분야 기술 공유 및 연구개발(R&D) 공동 사업 업무 제휴를 맺었다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "세종대 인공지능-빅데이터연구센터는 과기정통부가 지원하는 정보통신연구기반구축사업을 통해 국내 기업에 대용량데이터 초고속처리 장비 지원 및 기술 컨설팅을 제공하고 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양 기관은 인공지능 및 빅데이터 공동 연구개발을 통해 △고가형 주얼리 시장 O2O 서비스 플랫폼 개발 △주얼리 이미지 딥러닝 기술 △이미지 기반 추천 기술 △AI 트랜드 어드바이저 기술 개발 등 패션테크 기업으로 경쟁력을 강화할 계획이다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "패션테크 기업 비주얼, 투자 유치",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

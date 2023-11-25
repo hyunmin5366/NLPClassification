@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338498",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "中 바둑AI '줴이', 일본 정상급 바둑 기사 꺾어",
+		"newsSubTitle": "",
+		"newsContent": "중국 인터넷기업 텐센트가 만든 인공지능(AI) 바둑프로그램 '줴이(絶藝)'가 일본 정상급 바둑 기사를 꺾었다.\n28일 중국 국제라디오 등에 따르면 줴이는 지난 26일 도쿄에서 일본의 이치리키 료 7단과 대국에서 승리했다.\n이날 대국은 중국 랭킹 1위 커제 9단이 해설을 맡을 정도로 관심을 끌었다.\n줴이는 지난 19일 일본 전기통신대학배 컴퓨터 바둑대회 결승에서 일본 바둑 AI 프로그램 딥젠고(DeepZenGo)를 꺾고 우승했다.\n줴이는 텐센트가 지난해 2월 개발에 착수해 바둑 알고리즘과 적응력을 가미시켰다.\n세계 정상급 바둑 기사에 대항하는 자체 학습 능력을 갖췄다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국 인터넷기업 텐센트가 만든 인공지능(AI) 바둑프로그램 '줴이(絶藝)'가 일본 정상급 바둑 기사를 꺾었다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 중국 국제라디오 등에 따르면 줴이는 지난 26일 도쿄에서 일본의 이치리키 료 7단과 대국에서 승리했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 대국은 중국 랭킹 1위 커제 9단이 해설을 맡을 정도로 관심을 끌었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "줴이는 지난 19일 일본 전기통신대학배 컴퓨터 바둑대회 결승에서 일본 바둑 AI 프로그램 딥젠고(DeepZenGo)를 꺾고 우승했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "줴이는 텐센트가 지난해 2월 개발에 착수해 바둑 알고리즘과 적응력을 가미시켰다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "세계 정상급 바둑 기사에 대항하는 자체 학습 능력을 갖췄다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "中 바둑AI '줴이', 일본 정상급 바둑 기사 꺾어",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

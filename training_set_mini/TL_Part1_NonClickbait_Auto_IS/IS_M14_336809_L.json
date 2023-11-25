@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336809",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "오라클, 기존 모델 대비 2.5배 빨라진 '스팍 M12' 출시",
+		"newsSubTitle": "",
+		"newsContent": "한국오라클(대표 김형래)은 고사양급 서버 '스팍 M12'를 출시했다고 18일 밝혔다.\n제품은 스팍 64 XII 프로세서를 탑재해 기존 제품 대비 코어성능이 최대 2.5배 향상됐다.\n기업 핵심업무 영역부터 빅데이터처리까지 지원한다.\n오라클 솔라리스 운용체계(OS)로 보안성과 확장성을 갖췄다.\n가상화 소프트웨어(SW)가 돌아가는 오라클 VM 서버 효율성을 강화한다.\nM12 서버는 2개 프로세서로 구성된 M12-2와 최대 32개 프로세서를 장착하는 M12-2S로 구성된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국오라클(대표 김형래)은 고사양급 서버 '스팍 M12'를 출시했다고 18일 밝혔다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제품은 스팍 64 XII 프로세서를 탑재해 기존 제품 대비 코어성능이 최대 2.5배 향상됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기업 핵심업무 영역부터 빅데이터처리까지 지원한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오라클 솔라리스 운용체계(OS)로 보안성과 확장성을 갖췄다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가상화 소프트웨어(SW)가 돌아가는 오라클 VM 서버 효율성을 강화한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "M12 서버는 2개 프로세서로 구성된 M12-2와 최대 32개 프로세서를 장착하는 M12-2S로 구성된다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오라클, 기존 모델 대비 2.5배 빨라진 '스팍 M12' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

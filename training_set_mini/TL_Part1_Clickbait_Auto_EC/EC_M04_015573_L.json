@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015573",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "작년 주택건설경기가 유난히 따뜻했던 이유는…",
+		"newsSubTitle": "뉴스테이 등 기대감 영향…작년 대전 주택건설등록업체, 43곳 늘어난 156곳",
+		"newsContent": "지난해 대전에 등록한 주택건설사업 등록업체수가 전년에 비해 큰 폭으로 증가한 것으로 집계됐다.\n10일 대전시에 따르면 지난해 지역 주택건설사업 등록업체수는 156개로 2014년 113개에서 43개(38%) 증가했다.\n대전시에 등록한 주택건설업 등록업체 증가는 근래들어 최고치다.\n연도별 사업체 변화 폭을 보면 2012년 129개 업체에서 2013년 112개로 17개 업체가 오히려 폐업했으며 2014년에는 113개로 전년에서 1개 업체 증가에 그쳤다.\n지난해 세종, 서울 경기 등 수도권의 아파트 분양시장 호황과 정부의 중산층 주거안정을 위한 기업형 임대주택(뉴스테이) 사업 추진 등 주택경기 활성화 기대감으로 지역에 등록한 주택건설업체가 증가한 것으로 평가된다.\n한편, 대한주택건설협회에 등록한 주택건설사업 업체도 10일 현재 충남 200개, 세종 58개를 기록하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 대전에 등록한 주택건설사업 등록업체수가 전년에 비해 큰 폭으로 증가한 것으로 집계됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일 대전시에 따르면 지난해 지역 주택건설사업 등록업체수는 156개로 2014년 113개에서 43개(38%) 증가했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대전시에 등록한 주택건설업 등록업체 증가는 근래들어 최고치다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연도별 사업체 변화 폭을 보면 2012년 129개 업체에서 2013년 112개로 17개 업체가 오히려 폐업했으며 2014년에는 113개로 전년에서 1개 업체 증가에 그쳤다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 세종, 서울 경기 등 수도권의 아파트 분양시장 호황과 정부의 중산층 주거안정을 위한 기업형 임대주택(뉴스테이) 사업 추진 등 주택경기 활성화 기대감으로 지역에 등록한 주택건설업체가 증가한 것으로 평가된다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 대한주택건설협회에 등록한 주택건설사업 업체도 10일 현재 충남 200개, 세종 58개를 기록하고 있다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "내포 '경남 아너스빌' 뜨거운 관심",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

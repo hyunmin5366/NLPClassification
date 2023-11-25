@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326257",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "테슬라 충전기, 왜 작고 예쁜가 봤더니?",
+		"newsSubTitle": "",
+		"newsContent": "테슬라 전용 전기자동차 충전기가 전기차 이용자 사이에서 화재를 모으고 있다.\n지금까지 국내서 사용해온 충전기 보다 유별나게 작고, 예쁘기 때문이다.\n16일 업계에 따르면 테슬라 벽걸이형 충전기(완속) '데스티네이션 차저'에는 별도의 누전차단기(장치)가 없다.\n테슬라는 일반적인 하드웨어 형태의 누전차단기 대신에 누전차단 기능을 임베디드화 시켰다.\n이 때문에 보통의 국산 충전기 크기보다 절반 가량 작게 만들 수 있고, 디자인 구현에도 유리하다.\n반면 국산 충전기는 주먹만한 크기의 누전차단기가 내장돼 있다.\n여기에 일부 차종(르노삼성 'SM3 Z.E.' 등)에는 누전차단기에다 누설차단기까지 한 개 더 장착됐다.\n누전차단기는 전기가 전선 등으로 밖으로 새어 나올 때, 자동으로 스위치를 열어 전류를 끊어주는 역할을 한다.\n누설차단기는 최초 설정된 전류값 이상으로 충전됐을 때 전력을 차단하는 장치다.\n테슬라 충전기는 이 같은 기능과 역할을 임베디드화 시키면서도, 국가규격 기준(KS 61851-1·61851-22)에 따른 안전확인신고까지 마친 제품이다.\n한국 제품과 다른 기능도 있다.\n테슬라 전기차는 지금까지 한국 출시된 각종 전기차에 비해 최대 3배 많은 고용량(90㎾h) 배터리를 장착하기 때문에 사용자 설정에 따라 1시간에 최대 22㎾의 전기를 충전할 수 있다.\n완속충전 7㎾급이 기준인 우리나라 충전기보다 3배 큰 전기로 충전할 수 있다.\n테슬라 '데스티네이션 차저'뿐 아니라 급속충전기 '슈퍼차저'도 국산 급속충전기와 달리 작고, 디자인도 투박하지 않다.\n슈퍼차저는 변압기나 차단기 등이 포함된 충전·전력설비는 보통 주차장 뒤편, 눈에 잘 띄지 않는 곳에 설치해 놓고, 충전 이용자가 필요한 충전케이블과 충전걸이 등 최소한의 장치만 시설물 전면에 설치했다.\n완제품·설비로 따지만 우리나라 급속충전기 크기와 큰 차이 없지만, 당장 쓸 것과 그렇지 않은 것을 별도 설치한 것이다.\n슈퍼차저는 135㎾ 출력의 충전·전력설비로 2대 전기차를 동시에 충전하도록 했다.\n이같은 테슬라 충전기가 전국에 확대됨에 따라 우리나라 충전기에도 적지 않은 변화가 예상된다.\n업계 관계자는 “테슬라 충전기 누전차단 임베디드화는 어려운 기술이 아니라, 향후 국내 충전기에도 좋은 본보기가 될 것”이라며 “전기차 수요가 늘면서 충전기 역시 딱딱한 설비가 아닌 가전제품화되는 추세다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "테슬라 전용 전기자동차 충전기가 전기차 이용자 사이에서 화재를 모으고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지금까지 국내서 사용해온 충전기 보다 유별나게 작고, 예쁘기 때문이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "16일 업계에 따르면 테슬라 벽걸이형 충전기(완속) '데스티네이션 차저'에는 별도의 누전차단기(장치)가 없다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "테슬라는 일반적인 하드웨어 형태의 누전차단기 대신에 누전차단 기능을 임베디드화 시켰다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 때문에 보통의 국산 충전기 크기보다 절반 가량 작게 만들 수 있고, 디자인 구현에도 유리하다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반면 국산 충전기는 주먹만한 크기의 누전차단기가 내장돼 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "여기에 일부 차종(르노삼성 'SM3 Z.E.' 등)에는 누전차단기에다 누설차단기까지 한 개 더 장착됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "누전차단기는 전기가 전선 등으로 밖으로 새어 나올 때, 자동으로 스위치를 열어 전류를 끊어주는 역할을 한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "누설차단기는 최초 설정된 전류값 이상으로 충전됐을 때 전력을 차단하는 장치다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "테슬라 충전기는 이 같은 기능과 역할을 임베디드화 시키면서도, 국가규격 기준(KS 61851-1·61851-22)에 따른 안전확인신고까지 마친 제품이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한국 제품과 다른 기능도 있다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "테슬라 전기차는 지금까지 한국 출시된 각종 전기차에 비해 최대 3배 많은 고용량(90㎾h) 배터리를 장착하기 때문에 사용자 설정에 따라 1시간에 최대 22㎾의 전기를 충전할 수 있다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "완속충전 7㎾급이 기준인 우리나라 충전기보다 3배 큰 전기로 충전할 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "테슬라 '데스티네이션 차저'뿐 아니라 급속충전기 '슈퍼차저'도 국산 급속충전기와 달리 작고, 디자인도 투박하지 않다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "슈퍼차저는 변압기나 차단기 등이 포함된 충전·전력설비는 보통 주차장 뒤편, 눈에 잘 띄지 않는 곳에 설치해 놓고, 충전 이용자가 필요한 충전케이블과 충전걸이 등 최소한의 장치만 시설물 전면에 설치했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "완제품·설비로 따지만 우리나라 급속충전기 크기와 큰 차이 없지만, 당장 쓸 것과 그렇지 않은 것을 별도 설치한 것이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "슈퍼차저는 135㎾ 출력의 충전·전력설비로 2대 전기차를 동시에 충전하도록 했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이같은 테슬라 충전기가 전국에 확대됨에 따라 우리나라 충전기에도 적지 않은 변화가 예상된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "업계 관계자는 “테슬라 충전기 누전차단 임베디드화는 어려운 기술이 아니라, 향후 국내 충전기에도 좋은 본보기가 될 것”이라며 “전기차 수요가 늘면서 충전기 역시 딱딱한 설비가 아닌 가전제품화되는 추세다”고 말했다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "테슬라 충전기, 왜 작고 예쁜가 봤더니?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

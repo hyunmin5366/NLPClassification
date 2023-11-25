@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336150",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "네이버 \\\"카페 댓글도 검색결과로 활용\\\" 지역·전문분야 정보력 높인다",
+		"newsSubTitle": "검색 알고리즘 '다이아' 모델 개선 생활밀착형 댓글 정보 제공 주력 향후 카페 전문성·경험 등 반영 예정",
+		"newsContent": "네이버가 이달 들어 카페 댓글도 통합검색 결과로 노출하기 시작했다.\n전문성 있는 댓글이나 지역 등 특정 상황에 대한 정보를 추리기 위해 검색 알고리즘을 강화했다.\n네이버는 네이버 카페 댓글을 통합검색에 게시한다고 7일 밝혔다.\n네이버 카페에 있는 정보성 댓글을 사용자에게 제공하기 위한 조치다.\n이를 위해 자사 검색 알고리즘 'D.I.A. (다이아, Deep Intent Analysis)' 모델을 개선했다.\n다이아는 네이버 데이터를 기반으로 키워드별로 사용자가 선호하는 문서에 대한 점수를 랭킹에 반영한 알고리즘이다.\n네이버는 이번 개편에서 사용자에게 유용한 댓글 정보를 제공하는데 주력했다.\n카페 글과 댓글, 검색 사용자 검색 로그, 카페 C-Rank(검색결과 랭킹을 파악하는 모델) 정보 등을 입력받아 정보가 얼마나 유의미하고 신뢰할 수 있는지 추정했다.\n글 작성 의도를 파악해 개인 정보나 욕설, 단순 상거래 등의 정보성이 떨어지거나 부적절한 정보가 노출되지 않도록 보완했다.\n댓글 노출로 카페 검색 활용도는 높아졌다.\n네이버에 따르면 이달 카페 댓글 정보 노출이 이루어진 2일 이후 통합검색 결과 내에서 카페 게시글에 대한 클릭은 평균 34% 이상 늘었다.\n카페와 블로그, 포스트를 포함한 뷰(VIEW) 검색 컬렉션에서도 클릭이 17.5% 증가했다.\n네이버는 “댓글이 카페 문서 정보를 보다 풍성한 콘텐츠로 완성시켜 사용자로부터 높은 만족도를 얻기 때문”이라고 분석했다.\n이번 개편으로 사용자는 생활밀착형 주제와 관련해 카페 게시글을 많이 활용하는 것으로 나타났다.\n최근 한반도에 진입이 잦은 태풍과 관련해 통합검색을 통해 태풍 실외기, 태풍 주차, 태풍 유리창, 태풍 택배 등 관련한 정보 게시글과 댓글 클릭이 늘어난 것이 대표적이다.\n네이버는 앞으로 댓글 노출 검색 알고리즘을 강화할 계획이다.\n특정 주제에서 뛰어난 전문성과 경험 등 카페 상황을 고려한다.\n특히 지역에서 일어나는 중요한 이슈나 일상 정보를 활발하게 교류하는 카페를 중심으로 해당 정보가 더욱 잘 검색될 수 있도록 관련 알고리즘과 서비스 개선이 진행한다.\n〃 네이버는 “주제별 전문성을 갖춘 카페 출처 노출을 위한 분석이 더욱 개선할 것”이라면서 “출처에 대한 사용자 관심이 더욱 높아지는 만큼, 사용자에게 신뢰를 받는 출처의 게시글이 잘 노출되고 조명받도록 관련 검색 알고리즘 개선을 준비 중”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 이달 들어 카페 댓글도 통합검색 결과로 노출하기 시작했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전문성 있는 댓글이나 지역 등 특정 상황에 대한 정보를 추리기 위해 검색 알고리즘을 강화했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버는 네이버 카페 댓글을 통합검색에 게시한다고 7일 밝혔다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버 카페에 있는 정보성 댓글을 사용자에게 제공하기 위한 조치다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 위해 자사 검색 알고리즘 'D.I.A. (다이아, Deep Intent Analysis)' 모델을 개선했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다이아는 네이버 데이터를 기반으로 키워드별로 사용자가 선호하는 문서에 대한 점수를 랭킹에 반영한 알고리즘이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버는 이번 개편에서 사용자에게 유용한 댓글 정보를 제공하는데 주력했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카페 글과 댓글, 검색 사용자 검색 로그, 카페 C-Rank(검색결과 랭킹을 파악하는 모델) 정보 등을 입력받아 정보가 얼마나 유의미하고 신뢰할 수 있는지 추정했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "글 작성 의도를 파악해 개인 정보나 욕설, 단순 상거래 등의 정보성이 떨어지거나 부적절한 정보가 노출되지 않도록 보완했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "댓글 노출로 카페 검색 활용도는 높아졌다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "네이버에 따르면 이달 카페 댓글 정보 노출이 이루어진 2일 이후 통합검색 결과 내에서 카페 게시글에 대한 클릭은 평균 34% 이상 늘었다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "카페와 블로그, 포스트를 포함한 뷰(VIEW) 검색 컬렉션에서도 클릭이 17.5% 증가했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "네이버는 “댓글이 카페 문서 정보를 보다 풍성한 콘텐츠로 완성시켜 사용자로부터 높은 만족도를 얻기 때문”이라고 분석했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이번 개편으로 사용자는 생활밀착형 주제와 관련해 카페 게시글을 많이 활용하는 것으로 나타났다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "최근 한반도에 진입이 잦은 태풍과 관련해 통합검색을 통해 태풍 실외기, 태풍 주차, 태풍 유리창, 태풍 택배 등 관련한 정보 게시글과 댓글 클릭이 늘어난 것이 대표적이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "네이버는 앞으로 댓글 노출 검색 알고리즘을 강화할 계획이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "특정 주제에서 뛰어난 전문성과 경험 등 카페 상황을 고려한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "특히 지역에서 일어나는 중요한 이슈나 일상 정보를 활발하게 교류하는 카페를 중심으로 해당 정보가 더욱 잘 검색될 수 있도록 관련 알고리즘과 서비스 개선이 진행한다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "〃 네이버는 “주제별 전문성을 갖춘 카페 출처 노출을 위한 분석이 더욱 개선할 것”이라면서 “출처에 대한 사용자 관심이 더욱 높아지는 만큼, 사용자에게 신뢰를 받는 출처의 게시글이 잘 노출되고 조명받도록 관련 검색 알고리즘 개선을 준비 중”이라고 밝혔다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버 \\\"카페 댓글도 검색결과로 활용\\\" 지역·전문분야 정보력 높인다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

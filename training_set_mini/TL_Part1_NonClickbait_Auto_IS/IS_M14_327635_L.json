@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327635",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "스트리밍 셋톱박스회사 로쿠, 상장 첫날 68% 급등",
+		"newsSubTitle": "",
+		"newsContent": "미국 스트리밍 디바이스(셋톱박스) 시장의 강자인 로쿠가 28일(현지시간) 뉴욕증시 상장 첫 거래에서 공모가보다 68% 상승하며 성공적으로 데뷔했다. 'ROKU'라는 이름으로 나스닥에 상장된 로쿠는 이날 주당 14달러 공모가로 출발했지만, 장 초반부터 지속적인 상승세를 보이다가 23.50 달러에 첫 거래를 마감했다.\n이로써 로쿠의 시장가치는 22억달러(약 2조5000억원)로 치솟았다.\n시장조사업체인 파크 어소시에이츠의 최근 보고서에 따르면 올해 1분기 로쿠 셋톱박스의 시장점유율은 37%였다.\n이는 전년 동기의 32%보다 늘어난 것이다.\n로쿠의 경쟁자인 아마존 '파이어 TV'의 시장점유율은 25%다.\n그 뒤를 구글의 크롬캐스트와 애플 TV가 추격하고 있다.\n하지만 애플 TV의 경우 기기 가격이 150달러(약 17만원)인데 반해, 로쿠는 29.99달러면 셋톱박스를 살 수 있어 가격경쟁력에서 우위를 보이고 있다.\n앤서니 우드 로쿠 최고경영자(CEO)는 테크크런치와 인터뷰에서 29달러짜리 셋톱박스를 거론하면서 \\\"가격을 낮췄기 때문에 매출 증가는 완만했지만, 그것은 엄청난 성공이었다\\\"고 자평했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 스트리밍 디바이스(셋톱박스) 시장의 강자인 로쿠가 28일(현지시간) 뉴욕증시 상장 첫 거래에서 공모가보다 68% 상승하며 성공적으로 데뷔했다. 'ROKU'라는 이름으로 나스닥에 상장된 로쿠는 이날 주당 14달러 공모가로 출발했지만, 장 초반부터 지속적인 상승세를 보이다가 23.50 달러에 첫 거래를 마감했다.",
+				"sentenceSize": 176
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이로써 로쿠의 시장가치는 22억달러(약 2조5000억원)로 치솟았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시장조사업체인 파크 어소시에이츠의 최근 보고서에 따르면 올해 1분기 로쿠 셋톱박스의 시장점유율은 37%였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 전년 동기의 32%보다 늘어난 것이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "로쿠의 경쟁자인 아마존 '파이어 TV'의 시장점유율은 25%다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그 뒤를 구글의 크롬캐스트와 애플 TV가 추격하고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 애플 TV의 경우 기기 가격이 150달러(약 17만원)인데 반해, 로쿠는 29.99달러면 셋톱박스를 살 수 있어 가격경쟁력에서 우위를 보이고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앤서니 우드 로쿠 최고경영자(CEO)는 테크크런치와 인터뷰에서 29달러짜리 셋톱박스를 거론하면서 \\\"가격을 낮췄기 때문에 매출 증가는 완만했지만, 그것은 엄청난 성공이었다\\\"고 자평했다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스트리밍 셋톱박스회사 로쿠, 상장 첫날 68% 급등",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

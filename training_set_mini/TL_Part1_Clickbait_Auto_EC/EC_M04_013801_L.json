@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013801",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "국내 유통 배추·쌀 '방사능 안전'",
+		"newsSubTitle": "180개 제품 검출 안돼",
+		"newsContent": "배추, 쌀 등 국내에서 유통되는 180개 제품에서 방사능이 검출되지 않은 것으로 나타났다.\n한국소비자원은 천일염을 비롯해 배추, 버섯, 커피, 분유, 차, 명태내장 등 12개 품목별 180개 제품에서 방사성 세슘과 요오드가 검출되지 않았다고 27일 밝혔다.\n이번 소비자원의 조사는 천일염(2012년 11월)을 제외한 11개 품목을 대상으로 2013년 말에서 지난해 말까지 진행됐다.\n반면, 상당수 소비자는 국내 제품의 방사능 오염 가능성에 대해 우려하고 있는 것으로 조사됐다.\n소비자원이 지난해 9월 수도권에 거주하는 성인 600명을 대상으로 방사능에 대한 인식조사를 실시한 결과 응답자 93%는 '일본 원전사고로 인한 방사능 오염을 우려하고 있다'고 답했다.\n안전성에 대한 불안감은 일본산 수입식품(93%)이 국내산 식품(72%)보다 높았다.\n소비자원 관계자는 “일본 원전사고 이후 국민들은 식품의 방사능 오염 가능성에 대해 불안해하고 있다”며 “방사능에 대한 국민의 막연한 불안감 해소를 위해서는 정확한 정보 제공을 통한 인식 제고 노력이 요구된다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배추, 쌀 등 국내에서 유통되는 180개 제품에서 방사능이 검출되지 않은 것으로 나타났다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국소비자원은 천일염을 비롯해 배추, 버섯, 커피, 분유, 차, 명태내장 등 12개 품목별 180개 제품에서 방사성 세슘과 요오드가 검출되지 않았다고 27일 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 소비자원의 조사는 천일염(2012년 11월)을 제외한 11개 품목을 대상으로 2013년 말에서 지난해 말까지 진행됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면, 상당수 소비자는 국내 제품의 방사능 오염 가능성에 대해 우려하고 있는 것으로 조사됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소비자원이 지난해 9월 수도권에 거주하는 성인 600명을 대상으로 방사능에 대한 인식조사를 실시한 결과 응답자 93%는 '일본 원전사고로 인한 방사능 오염을 우려하고 있다'고 답했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안전성에 대한 불안감은 일본산 수입식품(93%)이 국내산 식품(72%)보다 높았다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소비자원 관계자는 “일본 원전사고 이후 국민들은 식품의 방사능 오염 가능성에 대해 불안해하고 있다”며 “방사능에 대한 국민의 막연한 불안감 해소를 위해서는 정확한 정보 제공을 통한 인식 제고 노력이 요구된다”고 말했다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국회도 ‘대전지역 원자력안전 우려’",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

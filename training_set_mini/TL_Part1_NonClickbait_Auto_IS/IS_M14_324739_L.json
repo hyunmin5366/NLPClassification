@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324739",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "넥스트와이즈, 올플래시 슈퍼서버 공개",
+		"newsSubTitle": "",
+		"newsContent": "슈퍼마이크로 공식수입원 넥스트와이즈(대표 유영주)는 최대 36개 비휘발성메모리익스프레스(NVMe) SSD를 탑재한 새로운 올플래시 NVMe 1U 슈퍼서버를 공개했다.\n이 서버는 1U 시스템 하나에 36개 삼성 핫스왑 NGSFF NVMe 드라이브를 장착했다.\n새 솔루션은 NVMe 용량을 페타바이트(PB) 규모로 제공한다.\n현재 시스템당 288테라바이트(TB)를 지원한다.\n올해 말에는 시스템당 페타바이트 절반 이상 규모까지 지원할 예정이다.\nNVMe 기술은 첨단 컴퓨팅을 위해 최저 레이턴시와 보다 빠른 CPU-to-데이터 스토리지 성능을 제공하도록 개발됐다.\n새 삼성 NGSFF SSD에 최적화된 이 시스템은 표준 SSD를 지원하는 종전 올플래시 스토리지 서버보다 300% 향상된 스토리지 집적도를 제공한다.\n또 듀얼 인텔 제온 스케일러블 프로세서, 24개 DIMM 슬롯을 제공하며 표준형에는 리던던트 핫스왑냉각팬, 전원 공급 장치와 핫스왑 드라이브 트레이가 탑재돼 편의성과 가용성을 향상시켰다.\n접근성을 위해 원격 시스템 온오프와 시스템 관리 기능뿐 아니라 각각 드라이브에 원격 파워 사이클링 기능을 지원한다.\n넥스트와이즈는 1U 시스템은 슈퍼마이크로 스토리지 서버와 JBOD 제품 포트폴리오에 최근 추가된 제품으로 판매가 시작되면 한국에서도 구입할 수 있다고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "슈퍼마이크로 공식수입원 넥스트와이즈(대표 유영주)는 최대 36개 비휘발성메모리익스프레스(NVMe) SSD를 탑재한 새로운 올플래시 NVMe 1U 슈퍼서버를 공개했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 서버는 1U 시스템 하나에 36개 삼성 핫스왑 NGSFF NVMe 드라이브를 장착했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "새 솔루션은 NVMe 용량을 페타바이트(PB) 규모로 제공한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 시스템당 288테라바이트(TB)를 지원한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올해 말에는 시스템당 페타바이트 절반 이상 규모까지 지원할 예정이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "NVMe 기술은 첨단 컴퓨팅을 위해 최저 레이턴시와 보다 빠른 CPU-to-데이터 스토리지 성능을 제공하도록 개발됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "새 삼성 NGSFF SSD에 최적화된 이 시스템은 표준 SSD를 지원하는 종전 올플래시 스토리지 서버보다 300% 향상된 스토리지 집적도를 제공한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 듀얼 인텔 제온 스케일러블 프로세서, 24개 DIMM 슬롯을 제공하며 표준형에는 리던던트 핫스왑냉각팬, 전원 공급 장치와 핫스왑 드라이브 트레이가 탑재돼 편의성과 가용성을 향상시켰다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "접근성을 위해 원격 시스템 온오프와 시스템 관리 기능뿐 아니라 각각 드라이브에 원격 파워 사이클링 기능을 지원한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "넥스트와이즈는 1U 시스템은 슈퍼마이크로 스토리지 서버와 JBOD 제품 포트폴리오에 최근 추가된 제품으로 판매가 시작되면 한국에서도 구입할 수 있다고 덧붙였다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "넥스트와이즈, 올플래시 슈퍼서버 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

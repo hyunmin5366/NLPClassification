@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338223",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "여기어때 해킹은 전문해커 고용 범죄..경찰 일당 검거",
+		"newsSubTitle": "",
+		"newsContent": "숙박O2O '여기어때'를 해킹 사건은 전문 해커를 고용한 사이버 범죄였다.\n경찰청 사이버수사과는 해커를 고용해 여기어때 전산망에 침입해 총 99만 명의 개인정보 341만 건을 유출한 후 금품을 요구한 피의자 일당 총 5명 중 4명(한국인 3명, 중국인 1명)을 검거했다.\n해외 체류 중인 피의자도 추적 중이다.\n이모(47)씨는 박모(34)씨와 조모(31)씨를 통해 국내에 체류하던 중국동포 해커 남모(26)씨를 소개받아 해킹을 의뢰했다.\n남씨는 돈을 받고 청부 해킹을 하는 중국인 해커집단 소속인 것으로 조사됐다.\n남씨는 데이터베이스(DB) 접근 페이지의 보안상 취약점을 이용한 'SQL 인젝션(injection)', 관리자 권한을 가로채는 '세션 하이재킹(session hijacking)' 등 흔히 알려진 해킹 수법을 쓴 것으로 파악됐다.\n이씨와 A씨는 남씨가 해킹한 개인정보를 넘겨받은 뒤 여기어때 측에 해킹 사실을 알리고 가상화폐인 비트코인으로 6억 원을 요구했다.\n이들은 가상의 보안업체를 사칭, 여기어때 측에 19차례 이메일을 보내고 고객센터 게시판에 글을 올려 \\\"보안점검을 맡겨 놓고 왜 대가를 지급하지 않느냐\\\"며 금품을 요구한 것으로 드러났다.\n여기어때 측이 응하지 않자 이들은 이용자 4600여명에게 3차례에 걸처 성적 수치심을 유발하는 문자 메시지를 발송했다.\n이후 소셜네트워크서비스(SNS)에 따로 계정을 만든 뒤 유출 개인정보 5000건을 올리고, 여기어때 측에 해당 계정 주소를 보내 압박했다.\n경찰은 해커 남씨를 포함한 일당 4명을 차례로 검거한 뒤 유출된 개인정보 원본 파일을 모두 압수했다.\n다만 도피 중인 공범 A씨가 남씨로부터 파일을 넘겨받아 사본을 소지한 상태여서 추가 유출 우려가 남아있다.\n아울러 해커 남씨의 PC에서 여기어때 뿐 아니라 다른 홈페이지를 해킹해 얻은 개인정보 파일이 다수 발견돼 추가 수사를 검토 중이다.\n경찰 관계자는 \\\"외국에 체류 중인 A씨를 조속히 체포해 개인정보 파일을 회수하고, 유출된 정보가 전화금융사기(보이스피싱) 조직 등에 흘러들어가 2차 피해가 발생할 가능성을 차단하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "숙박O2O '여기어때'를 해킹 사건은 전문 해커를 고용한 사이버 범죄였다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "경찰청 사이버수사과는 해커를 고용해 여기어때 전산망에 침입해 총 99만 명의 개인정보 341만 건을 유출한 후 금품을 요구한 피의자 일당 총 5명 중 4명(한국인 3명, 중국인 1명)을 검거했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해외 체류 중인 피의자도 추적 중이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이모(47)씨는 박모(34)씨와 조모(31)씨를 통해 국내에 체류하던 중국동포 해커 남모(26)씨를 소개받아 해킹을 의뢰했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "남씨는 돈을 받고 청부 해킹을 하는 중국인 해커집단 소속인 것으로 조사됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "남씨는 데이터베이스(DB) 접근 페이지의 보안상 취약점을 이용한 'SQL 인젝션(injection)', 관리자 권한을 가로채는 '세션 하이재킹(session hijacking)' 등 흔히 알려진 해킹 수법을 쓴 것으로 파악됐다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이씨와 A씨는 남씨가 해킹한 개인정보를 넘겨받은 뒤 여기어때 측에 해킹 사실을 알리고 가상화폐인 비트코인으로 6억 원을 요구했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이들은 가상의 보안업체를 사칭, 여기어때 측에 19차례 이메일을 보내고 고객센터 게시판에 글을 올려 \\\"보안점검을 맡겨 놓고 왜 대가를 지급하지 않느냐\\\"며 금품을 요구한 것으로 드러났다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "여기어때 측이 응하지 않자 이들은 이용자 4600여명에게 3차례에 걸처 성적 수치심을 유발하는 문자 메시지를 발송했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이후 소셜네트워크서비스(SNS)에 따로 계정을 만든 뒤 유출 개인정보 5000건을 올리고, 여기어때 측에 해당 계정 주소를 보내 압박했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "경찰은 해커 남씨를 포함한 일당 4명을 차례로 검거한 뒤 유출된 개인정보 원본 파일을 모두 압수했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "다만 도피 중인 공범 A씨가 남씨로부터 파일을 넘겨받아 사본을 소지한 상태여서 추가 유출 우려가 남아있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "아울러 해커 남씨의 PC에서 여기어때 뿐 아니라 다른 홈페이지를 해킹해 얻은 개인정보 파일이 다수 발견돼 추가 수사를 검토 중이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "경찰 관계자는 \\\"외국에 체류 중인 A씨를 조속히 체포해 개인정보 파일을 회수하고, 유출된 정보가 전화금융사기(보이스피싱) 조직 등에 흘러들어가 2차 피해가 발생할 가능성을 차단하겠다\\\"고 말했다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "여기어때 해킹은 전문해커 고용 범죄..경찰 일당 검거",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

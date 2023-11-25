@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010279",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "전기요금 인상되나… 기업 비상",
+		"newsSubTitle": "'한전 10.7% 의결' 지역산업계 반발… 정부반려 가능성도",
+		"newsContent": "올 여름 전기요금 인상안이 현실화될 전망이다.\n9일 한국전력 대전·충남본부에 따르면 한국전력은 이날 서울 삼성동 본사에서 이사회를 열고, 상반기 제시한 13.1% 인상안에서 한발 물러난 10.7%의 전기요금 인상안을 의결했다.\n의결안은 조만간 정부에 제출된다.\n하지만 정부는 이에 대해 과도하다는 판단을 내리고 있는 것으로 알려져, 실제 인상폭에 대한 귀추가 주목되고 있다.\n또 다시 반려될 가능성이 높다는게 전문가들의 대체적인 인식이다.\n최근 경기침체로 어려운 서민생활 불안정과 산업경쟁력 악화를 초래할 수있다는 판단에서다.\n이 같은 소식을 접한 지역 산업계도 반발의 목소리를 높이고 있다.\n대전산업단지 입주기업 한 관계자는 “최근 장기적인 내수경기 침체와 유럽발 재정위기 등으로 인해 제조업체들이 전반적인 어려움을 겪고 있다”면서 “이런 상황에서 전기요금 인상안이 정부 협의를 통과한다면 기업들은 더 큰 경영난에 빠지게 될 것”이라고 우려했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올 여름 전기요금 인상안이 현실화될 전망이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 한국전력 대전·충남본부에 따르면 한국전력은 이날 서울 삼성동 본사에서 이사회를 열고, 상반기 제시한 13.1% 인상안에서 한발 물러난 10.7%의 전기요금 인상안을 의결했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "의결안은 조만간 정부에 제출된다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 정부는 이에 대해 과도하다는 판단을 내리고 있는 것으로 알려져, 실제 인상폭에 대한 귀추가 주목되고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 다시 반려될 가능성이 높다는게 전문가들의 대체적인 인식이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 경기침체로 어려운 서민생활 불안정과 산업경쟁력 악화를 초래할 수있다는 판단에서다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 같은 소식을 접한 지역 산업계도 반발의 목소리를 높이고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "대전산업단지 입주기업 한 관계자는 “최근 장기적인 내수경기 침체와 유럽발 재정위기 등으로 인해 제조업체들이 전반적인 어려움을 겪고 있다”면서 “이런 상황에서 전기요금 인상안이 정부 협의를 통과한다면 기업들은 더 큰 경영난에 빠지게 될 것”이라고 우려했다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "천동2지구 전매제한도 역부족?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

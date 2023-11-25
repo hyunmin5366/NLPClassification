@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_032278",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "설리 \\\"최자와 다시 안 사귄다…그거 다 뻥\\\" 팬들과 인스타 라이브",
+		"newsSubTitle": "",
+		"newsContent": "설리가 인스타그램 라이브 방송을 통해 팬들과 소통했다.\n설리는 13일 인스타그램을 라이브 방송으로 근황을 전했다.\n설리는 \\\"친구를 만나러 가기 전에 잠깐 인스타를 켰다\\\"면서 라이브를 켰고, 팬들의 질문을 받았다.\n그는 \\\"빨래 돌리는 법을 아는가\\\"라는 질문에 \\\"잘 모른다. 이모가 해주신다\\\"라고 답했다.\n\\\"화장을 어떻게 하는가\\\"라는 질문에는 \\\"피부화장은 안 하고 다크서클만 가린다. 피부가 타고났다고 생각한다\\\"고 말했다.\n\\\"최자와 다시 사귀는가\\\"라는 질문에는 \\\"안 사귄다. 그거 다 뻥이다. 나한테는 아니 땐 굴뚝에 연기가 나더라\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "설리가 인스타그램 라이브 방송을 통해 팬들과 소통했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "설리는 13일 인스타그램을 라이브 방송으로 근황을 전했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "설리는 \\\"친구를 만나러 가기 전에 잠깐 인스타를 켰다\\\"면서 라이브를 켰고, 팬들의 질문을 받았다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"빨래 돌리는 법을 아는가\\\"라는 질문에 \\\"잘 모른다. 이모가 해주신다\\\"라고 답했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "\\\"화장을 어떻게 하는가\\\"라는 질문에는 \\\"피부화장은 안 하고 다크서클만 가린다. 피부가 타고났다고 생각한다\\\"고 말했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "\\\"최자와 다시 사귀는가\\\"라는 질문에는 \\\"안 사귄다. 그거 다 뻥이다. 나한테는 아니 땐 굴뚝에 연기가 나더라\\\"고 말했다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "임수향 '아이가 다섯' 출연, \\\"장진주, 한번 해보고 싶은 캐릭터…엉뚱한 면 닮았다\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

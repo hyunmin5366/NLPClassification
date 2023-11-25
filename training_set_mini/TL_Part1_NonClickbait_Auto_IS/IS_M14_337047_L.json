@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337047",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[테크비즈코리아 2021]<17>미세먼지를 흡착하는 열차풍 차단벽 구조체",
+		"newsSubTitle": "",
+		"newsContent": "한국철도기술연구원의 소개 기술은 미세먼지를 흡착하는 열차풍 차단벽 구조체다.\n이는 열차풍(바람) 차단벽 구조체가, 바람에 실린 초미세먼지를 흡착 및 탈착할 수 있도록 한 것이 핵심이다.\n기존 기술의 흡입 가능 공기량은 공기 세정기 크기 및 용량에 따라 결정된다.\n열차가 승강장으로 진입할 때 열차풍에 의해 발생된 다량 미세먼지가 일시에 플랫폼으로 유입되는 경우에는 별다른 미세먼지 제거 기능을 기대할 수 없다.\n개발 기술은 열차풍 차단과 동시에 여기 함유된 미세먼지를 흡착해 열차 이동 공간의 공기질을 개선하는 효과가 있다.\n물을 분사해 구조체를 세척할 시, 흡착제는 잘 젖지 않아 포집 미세먼지만을 효율적으로 탈착하는 효과도 갖추고 있다.\n이 기술은 지하철 등의 스크린도어와 열차풍 차단분야에 쓸 수 있다.\n각종 철도시설물 산업에서도 활용 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국철도기술연구원의 소개 기술은 미세먼지를 흡착하는 열차풍 차단벽 구조체다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 열차풍(바람) 차단벽 구조체가, 바람에 실린 초미세먼지를 흡착 및 탈착할 수 있도록 한 것이 핵심이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 기술의 흡입 가능 공기량은 공기 세정기 크기 및 용량에 따라 결정된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "열차가 승강장으로 진입할 때 열차풍에 의해 발생된 다량 미세먼지가 일시에 플랫폼으로 유입되는 경우에는 별다른 미세먼지 제거 기능을 기대할 수 없다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개발 기술은 열차풍 차단과 동시에 여기 함유된 미세먼지를 흡착해 열차 이동 공간의 공기질을 개선하는 효과가 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "물을 분사해 구조체를 세척할 시, 흡착제는 잘 젖지 않아 포집 미세먼지만을 효율적으로 탈착하는 효과도 갖추고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 기술은 지하철 등의 스크린도어와 열차풍 차단분야에 쓸 수 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "각종 철도시설물 산업에서도 활용 가능하다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[테크비즈코리아 2021]<17>미세먼지를 흡착하는 열차풍 차단벽 구조체",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330832",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "KMS테크놀로지, 블랙덕으로 Log4j 취약점 자동 진단",
+		"newsSubTitle": "",
+		"newsContent": "KMS테크놀로지는 자사가 공급하는 시높시스(Synopsys)사 오픈소스 보안취약점 탐지 솔루션 블랙덕이 'log4j' 보안 취약점(CVE-2021-44228)을 자동으로 탐지한다고 15일 밝혔다.\n오픈소스 점검 및 관리도구인 블랙덕은 소프트웨어에 log4j 취약점이 포함되었는지 자동으로 탐지한다.\n자체 보안취약점 데이터베이스(BDSA)를 통해 NVD(National Vulnerability Database)에 log4j 취약점이 CVE-2021-44228로 등록되기 전에, 취약점 정보를 제공했다.\nlog4j 취약점 사례에 관한 자세한 내용은 KMS테크놀로지의 홈페이지, 블로그에서 확인이 가능하며, 별도의 상담 서비스도 함께 지원한다.\nLog4j는 프로그램 수행 중에 로그를 남기기 위해 사용되는 JAVA 기반 로깅 유틸리티다.\n이번에 발견된 취약점은 Log4j에 존재하는 JNDI(Java Naming and Directory Interface) Injection 취약점으로 이를 악용하면, 악성 코드의 원격 실행(RCE)이 가능하게 된다.\n특별한 준비와 구성이 필요 없이 취약점을 악용할 수 있다.\n역대 비디오게임 판매량 1위인 온라인게임 '마인크래프트'에서 확인된 결과로는 특정 채팅 메시지를 입력하면 대상 컴퓨터에서 원격으로 프로그램을 실행시킬 수 있는 것으로 나타나 문제의 심각성이 확인됐다.\n보안취약점의 정보와 위험성 평가를 제공하는 NVD에서는 log4j 취약점의 점수를 가장 높은 10점을 부여했다.\nKMS테크놀로지 김상모 이사는 \\\"모든 산업 분야에 IT 기술과 통신 기술이 적용되면서, 소프트웨어 개발과 사용이 급격히 증가하고 있으며, 이에 비례해 어플리케이션의 보안 취약점이 증가하고 있다\\\"며 \\\"시높시스 블랙덕은 log4j 취약점이 포함됐는지 자동으로 탐지해 신속하게 대응할 수 있으며 고객 지원을 위해 상담 서비스도 제공한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KMS테크놀로지는 자사가 공급하는 시높시스(Synopsys)사 오픈소스 보안취약점 탐지 솔루션 블랙덕이 'log4j' 보안 취약점(CVE-2021-44228)을 자동으로 탐지한다고 15일 밝혔다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오픈소스 점검 및 관리도구인 블랙덕은 소프트웨어에 log4j 취약점이 포함되었는지 자동으로 탐지한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자체 보안취약점 데이터베이스(BDSA)를 통해 NVD(National Vulnerability Database)에 log4j 취약점이 CVE-2021-44228로 등록되기 전에, 취약점 정보를 제공했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "log4j 취약점 사례에 관한 자세한 내용은 KMS테크놀로지의 홈페이지, 블로그에서 확인이 가능하며, 별도의 상담 서비스도 함께 지원한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "Log4j는 프로그램 수행 중에 로그를 남기기 위해 사용되는 JAVA 기반 로깅 유틸리티다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번에 발견된 취약점은 Log4j에 존재하는 JNDI(Java Naming and Directory Interface) Injection 취약점으로 이를 악용하면, 악성 코드의 원격 실행(RCE)이 가능하게 된다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특별한 준비와 구성이 필요 없이 취약점을 악용할 수 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "역대 비디오게임 판매량 1위인 온라인게임 '마인크래프트'에서 확인된 결과로는 특정 채팅 메시지를 입력하면 대상 컴퓨터에서 원격으로 프로그램을 실행시킬 수 있는 것으로 나타나 문제의 심각성이 확인됐다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "보안취약점의 정보와 위험성 평가를 제공하는 NVD에서는 log4j 취약점의 점수를 가장 높은 10점을 부여했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "KMS테크놀로지 김상모 이사는 \\\"모든 산업 분야에 IT 기술과 통신 기술이 적용되면서, 소프트웨어 개발과 사용이 급격히 증가하고 있으며, 이에 비례해 어플리케이션의 보안 취약점이 증가하고 있다\\\"며 \\\"시높시스 블랙덕은 log4j 취약점이 포함됐는지 자동으로 탐지해 신속하게 대응할 수 있으며 고객 지원을 위해 상담 서비스도 제공한다\\\"고 말했다.",
+				"sentenceSize": 195
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KMS테크놀로지, 블랙덕으로 Log4j 취약점 자동 진단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

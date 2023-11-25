@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335328",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "이노그리드, 50억원 투자유치 성공...공공클라우드 공략 강화",
+		"newsSubTitle": "",
+		"newsContent": "이노그리드(대표 조호견)가 50억원 규모 투자유치를 성공했다.\n회사는 퍼블릭 클라우드 사업 확장과 신규 인력 채용 등 인프라 투자를 확대해 제2의 성장기반을 마련한다. 8일 이노그리드는 KB인베스트먼트(25억원)와 네오플럭스(25억원)으로부터 50억원 투자금액을 유치했다고 밝혔다.\n토종 클라우드 업체 가운데 소프트웨어(SW) 기술력을 인정받아 수십억원대 투자를 유치한 경우가 드물다.\n조영호 KB인베스트먼트 팀장은 \\\"클라우드 분야 우수한 기술력과 사업전략 타당성을 주목했다\\\"면서 \\\"이노그리드가 클라우드 솔루션 공급뿐 아니라 공공부문 클라우드 분야를 중심으로 사업 영역을 확대할 것\\\"이라며 투자 배경을 설명했다.\n이노그리드는 최근 본사를 서울 삼성동에서 신사동으로 확장 이전했다.\n회사는 투자 유치 자금을 공공클라우드 사업확장을 위한 클라우드데이터센터(CDC) 인프라 투자와 신규 개발인력등에 투자할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이노그리드(대표 조호견)가 50억원 규모 투자유치를 성공했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "회사는 퍼블릭 클라우드 사업 확장과 신규 인력 채용 등 인프라 투자를 확대해 제2의 성장기반을 마련한다. 8일 이노그리드는 KB인베스트먼트(25억원)와 네오플럭스(25억원)으로부터 50억원 투자금액을 유치했다고 밝혔다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "토종 클라우드 업체 가운데 소프트웨어(SW) 기술력을 인정받아 수십억원대 투자를 유치한 경우가 드물다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조영호 KB인베스트먼트 팀장은 \\\"클라우드 분야 우수한 기술력과 사업전략 타당성을 주목했다\\\"면서 \\\"이노그리드가 클라우드 솔루션 공급뿐 아니라 공공부문 클라우드 분야를 중심으로 사업 영역을 확대할 것\\\"이라며 투자 배경을 설명했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이노그리드는 최근 본사를 서울 삼성동에서 신사동으로 확장 이전했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "회사는 투자 유치 자금을 공공클라우드 사업확장을 위한 클라우드데이터센터(CDC) 인프라 투자와 신규 개발인력등에 투자할 계획이다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이노그리드, 50억원 투자유치 성공...공공클라우드 공략 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337805",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "랜섬웨어 심상치 않다...사이버 위기 '주의' 발령",
+		"newsSubTitle": "",
+		"newsContent": "국가사이버안전센터는 워너크라이 랜섬웨어 확산과 변종 출현에 대비 사이버위기 경보를 '주의'로 상향했다.\n국가사이버안전센터는 14일 오후 18시부로 사이버 위기 경보를 '관심'에서 '주의'로 올렸다.\n각급 기관은 보안 활동을 강화하고 국가 정보통신기반시설 전반에 보안 태세 강화가 필요하다.\n각급기관은 위기대응 실무 매뉴얼에 따라 사이버위기 '주의' 경보단계 대응활동을 수행한다.\n전산망 장애, 사이버공격 등 특이징후 포착시 국가사이버안전센터와 국가안보실(위기관리센터)로 즉시 통보한다.\n기관별 자체 긴급 대응반을 가동 준비하고 필요시 운영한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국가사이버안전센터는 워너크라이 랜섬웨어 확산과 변종 출현에 대비 사이버위기 경보를 '주의'로 상향했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국가사이버안전센터는 14일 오후 18시부로 사이버 위기 경보를 '관심'에서 '주의'로 올렸다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "각급 기관은 보안 활동을 강화하고 국가 정보통신기반시설 전반에 보안 태세 강화가 필요하다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "각급기관은 위기대응 실무 매뉴얼에 따라 사이버위기 '주의' 경보단계 대응활동을 수행한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전산망 장애, 사이버공격 등 특이징후 포착시 국가사이버안전센터와 국가안보실(위기관리센터)로 즉시 통보한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기관별 자체 긴급 대응반을 가동 준비하고 필요시 운영한다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "랜섬웨어 심상치 않다...사이버 위기 '주의' 발령",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

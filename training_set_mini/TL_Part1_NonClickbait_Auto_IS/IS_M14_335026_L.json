@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335026",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "화웨이 메이트10·구글 픽셀2도 '100만원폰'",
+		"newsSubTitle": "",
+		"newsContent": "화웨이와 구글이 내달 출시하는 스마트폰도 100만원을 상회할 전망이다.\n삼성전자와 애플에 이어 화웨이∙구글 가세로 '100만원폰'이 대세가 됐다.\n미국 정보기술(IT) 전문매체 폰아레나는 화웨이 '메이트10프로(8GB 램, 256GB 메모리)' 가격이 1138달러(약 129만원)로 책정했다고 보도했다.\n폰아레나는 \\\"1138달러는 중국 시장을 기준으로 한 가격이라 다른 국가에서는 더 높은 가격에 판매될 수 있다\\\"고 예상했다.\n1138달러는 역대 아이폰 최고가를 기록한 아이폰X 256GB 모델(1149달러) 가격과 1만원 정도 밖에 차이나지 않는다.\n이외에 메이트10프로 6GB 램∙256GB 메모리 모델이 1024달러(약 116만원), 6GB 램∙128GB 메모리 모델이 941달러(약 106만원)로 100만원 이상이다.\n구글이 내달 4일 공개하는 픽셀2와 픽셀2XL 역시 100만원 이상으로 책정될 가능성이 높다.\n미국 IT전문매체 더버지는 구글 신제품 가격이 849∼949달러(약 96만∼107만원)에 결정된다고 소개했다.\n외신은 픽셀2XL 64GB 모델이 849달러(약 96만원), 128GB 모델이 949달러(약 107만원)에 출시될 것이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "화웨이와 구글이 내달 출시하는 스마트폰도 100만원을 상회할 전망이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자와 애플에 이어 화웨이∙구글 가세로 '100만원폰'이 대세가 됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미국 정보기술(IT) 전문매체 폰아레나는 화웨이 '메이트10프로(8GB 램, 256GB 메모리)' 가격이 1138달러(약 129만원)로 책정했다고 보도했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "폰아레나는 \\\"1138달러는 중국 시장을 기준으로 한 가격이라 다른 국가에서는 더 높은 가격에 판매될 수 있다\\\"고 예상했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1138달러는 역대 아이폰 최고가를 기록한 아이폰X 256GB 모델(1149달러) 가격과 1만원 정도 밖에 차이나지 않는다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이외에 메이트10프로 6GB 램∙256GB 메모리 모델이 1024달러(약 116만원), 6GB 램∙128GB 메모리 모델이 941달러(약 106만원)로 100만원 이상이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "구글이 내달 4일 공개하는 픽셀2와 픽셀2XL 역시 100만원 이상으로 책정될 가능성이 높다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "미국 IT전문매체 더버지는 구글 신제품 가격이 849∼949달러(약 96만∼107만원)에 결정된다고 소개했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "외신은 픽셀2XL 64GB 모델이 849달러(약 96만원), 128GB 모델이 949달러(약 107만원)에 출시될 것이라고 전했다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "화웨이 메이트10·구글 픽셀2도 '100만원폰'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

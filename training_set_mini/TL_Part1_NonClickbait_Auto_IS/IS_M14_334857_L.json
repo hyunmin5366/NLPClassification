@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334857",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "세계 1위 배터리 中CATL, 영업익 3.1조원 최대실적 전망",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 배터리 1위 업체인 중국 CATL이 세계적인 전기차 수요 증가에 힘입어 지난해 최대 실적을 기록했다.\nCATL은 최근 선전거래소를 통해 발표한 실적 예비 보고서에서 지난해 순익이 전년 대비 150~195% 증가한 140억~165억 위안(약 3조1200억원)에 달할 것으로 예고했다.\n이는 CATL이 2018년 상장한 이래 최고 호실적이다.\n지난해 1~3분기 누적 순익이 77억5000만 위안이었던 것을 감안하면, 지난해 4분기에만 CATL은 62억5000만~87억5000만 위안을 벌어들인 셈이다.\n분기별 순익으로는 최고치다.\nCATL은 잠정실적 발표에서 지난해 전기차와 에너지저장장치(ESS) 시장이 확대하면서 배터리 매출 성장을 견인했다고 밝혔다.\n또한 회사의 시장 개척이 가시적인 성과를 내고 있으며 신규 생산시설이 가동으로 생산량이 증가 중이라고 덧붙였다.\n중국 온라인매체 제몐망은 CATL이 지난해 2.5일마다 1억 위안(약 190억원)씩 벌어들인 셈이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 배터리 1위 업체인 중국 CATL이 세계적인 전기차 수요 증가에 힘입어 지난해 최대 실적을 기록했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CATL은 최근 선전거래소를 통해 발표한 실적 예비 보고서에서 지난해 순익이 전년 대비 150~195% 증가한 140억~165억 위안(약 3조1200억원)에 달할 것으로 예고했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 CATL이 2018년 상장한 이래 최고 호실적이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 1~3분기 누적 순익이 77억5000만 위안이었던 것을 감안하면, 지난해 4분기에만 CATL은 62억5000만~87억5000만 위안을 벌어들인 셈이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "분기별 순익으로는 최고치다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CATL은 잠정실적 발표에서 지난해 전기차와 에너지저장장치(ESS) 시장이 확대하면서 배터리 매출 성장을 견인했다고 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 회사의 시장 개척이 가시적인 성과를 내고 있으며 신규 생산시설이 가동으로 생산량이 증가 중이라고 덧붙였다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "중국 온라인매체 제몐망은 CATL이 지난해 2.5일마다 1억 위안(약 190억원)씩 벌어들인 셈이라고 설명했다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세계 1위 배터리 中CATL, 영업익 3.1조원 최대실적 전망",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

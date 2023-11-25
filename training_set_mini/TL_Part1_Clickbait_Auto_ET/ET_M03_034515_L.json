@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_034515",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'로리타' 논란 중인 수지 화보",
+		"newsSubTitle": "",
+		"newsContent": "현재 온라인 커뮤니티를 중심으로 과거 수지가 찍었던 화보가 논란 중이다.\n1년 전 쯤 수지가 찍었던 화보가 ‘로리타 콤플렉스’를 연상시킨다는 주장이 제기되었기 때문이다.\n문제제기의 근거는 수지가 동화책을 들고 누워 있는 사진에서 작가가 미리 소품을 준비해 가서 의도적으로 연출했다는 것과 사진 밑에 달린 캡션들이 ‘로리타’의 뉘앙스를 풍긴다는 것이었다.\n하지만 수지의 화보를 찍은 작가는 문제제기에 대해 “당시 현장에 있는 소품들을 즉흥적으로 사용했으며 소품을 준비해가지 않았다”며 “동화책은 (촬영 현장을 제공한 업주의) 손주가 보다가 놓고 간 것”라고 말하며 대답할 가치가 없다고 일축한 바 있다.\n또 나머지 사진들도 시시각각 바뀌는 순간을 포착한 것일 뿐이라고 답했다.\n캡션의 “말 안듣게 생겼다” “아빠 미안” 등의 문구에 대해서는 ‘로리타 콤플렉스’를 갖다 붙이는 것은 억지라며 확대해석이라는 의견과 작가의 설명을 들어도 로리타를 연상시킨다는 반대 의견이 있었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현재 온라인 커뮤니티를 중심으로 과거 수지가 찍었던 화보가 논란 중이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1년 전 쯤 수지가 찍었던 화보가 ‘로리타 콤플렉스’를 연상시킨다는 주장이 제기되었기 때문이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "문제제기의 근거는 수지가 동화책을 들고 누워 있는 사진에서 작가가 미리 소품을 준비해 가서 의도적으로 연출했다는 것과 사진 밑에 달린 캡션들이 ‘로리타’의 뉘앙스를 풍긴다는 것이었다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 수지의 화보를 찍은 작가는 문제제기에 대해 “당시 현장에 있는 소품들을 즉흥적으로 사용했으며 소품을 준비해가지 않았다”며 “동화책은 (촬영 현장을 제공한 업주의) 손주가 보다가 놓고 간 것”라고 말하며 대답할 가치가 없다고 일축한 바 있다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 나머지 사진들도 시시각각 바뀌는 순간을 포착한 것일 뿐이라고 답했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "캡션의 “말 안듣게 생겼다” “아빠 미안” 등의 문구에 대해서는 ‘로리타 콤플렉스’를 갖다 붙이는 것은 억지라며 확대해석이라는 의견과 작가의 설명을 들어도 로리타를 연상시킨다는 반대 의견이 있었다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "MBC 사장, 검언유착 의혹 보도 지적에 “전혀 문제 없었다”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

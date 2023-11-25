@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348754",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"발주서 확인해주세요\\\"에 낚였다…새해 맞은 기업, 피싱 주의보",
+		"newsSubTitle": "null",
+		"newsContent": "신사업 견적·발주서로 위장한 악성 이메일이 잇따라 발견되고 있어 주의가 요구된다.\n새해 사업을 시작한 기업들을 타깃으로 한 것이다.\n16일 안랩에 따르면 지난달부터 '견적 의뢰'나 '발주서' 등으로 위장한 이메일로 개인정보 등의 탈취를 시도하는 사례가 다수 발견됐다.\n한국어를 쓰는 공격자는 가짜 견적 의뢰서나 발주서에 실제 기업을 사칭했다.\n메일 본문에도 \\\"첨부파일을 확인해 달라\\\"는 내용을 적어 메일 수신자가 첨부파일을 실행하도록 유도했다.\n본문에 특정 직원을 사칭한 메일 서명을 남기기도 했다.\n일례로 지난달 발견된 악성 메일은 '견적 의뢰 건'이라는 제목을달고 본문에 \\\"발주서를 송부하오니 참고하시어 제품 납기 바랍니다\\\"라는 문구로 유인했다.\n공격자는 여기에 'Purchase order.html'과 'Request for PO.html'이라는 파일명을 가진 2개의 악성 HTML 파일을 첨부했다.\n이 HTML 파일들은 실행하면 엑셀 파일 화면과 유사하게 제작된 피싱 사이트로 연결되도록 설계됐다.\n메일 수신자가 여기에 속아 이메일 주소와 비밀번호를 입력하도록 유도한 것이다.\n입력창에 입력된 개인정보는 즉히 공격자에게 전송되는 구조다.\n안랩은 이같은 수법의 피싱 이메일이 이달에도 발견됐다고 밝혔다. '설계서 및 견적서 요청에 관한 건', '중국 수출용 발주서 첨부 건' 등의 제목을 가진 이메일이 연달아 탐지됐다.\n두 메일은 발신자가 한국인 이름을 사용했을뿐 아니라 자연스러운 우리말을 사용하는 등 비교적 정교하게 위장했다.\n실제 발주처 직원인 것처럼 상세한 메일 명함을 첨부하기도 했다.\n이들 공격자는 메일에 압축 파일을 첨부했다.\n메일 수신자가 이를 내려받아 압축 해제하고 실행파일(확장자 '.exe' 파일)을 실행하면 악성코드에 감염되도록 설계한 파일이었다.\n공격자들은 이에 감염된 PC 이용자의 키 로그 정보나 웹 브라우저에 저장된 사용자 계정 정보 등을 빼돌리려고 했다.\n안랩은 자사 백신(안티바이러스) 프로그램 V3가 이 악성코드와 피싱 사이트를 모두 차단하고 있다고 밝혔다.\n양하영 안랩 분석팀 팀장은 \\\"(각 기업의) 사업 담당 직원들이 비슷한 내용의 메일을 자주 받기 때문에 조금만 부주의해도 악성코드에 감염될 수 있다\\\"며 \\\"이렇게 유출된 계정정보 같은 사용자 정보는 타깃형 공격 등 2차 공격에 사용될 수도 있기 때문에, 메일의 발신자와 첨부파일을 꼼꼼히 살펴보고 출처를 알 수 없는 이메일 속 첨부파일이나 URL은 실행하지 말아야 한다\\\"고 당부했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신사업 견적·발주서로 위장한 악성 이메일이 잇따라 발견되고 있어 주의가 요구된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "새해 사업을 시작한 기업들을 타깃으로 한 것이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "16일 안랩에 따르면 지난달부터 '견적 의뢰'나 '발주서' 등으로 위장한 이메일로 개인정보 등의 탈취를 시도하는 사례가 다수 발견됐다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국어를 쓰는 공격자는 가짜 견적 의뢰서나 발주서에 실제 기업을 사칭했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "메일 본문에도 \\\"첨부파일을 확인해 달라\\\"는 내용을 적어 메일 수신자가 첨부파일을 실행하도록 유도했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "본문에 특정 직원을 사칭한 메일 서명을 남기기도 했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일례로 지난달 발견된 악성 메일은 '견적 의뢰 건'이라는 제목을달고 본문에 \\\"발주서를 송부하오니 참고하시어 제품 납기 바랍니다\\\"라는 문구로 유인했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공격자는 여기에 'Purchase order.html'과 'Request for PO.html'이라는 파일명을 가진 2개의 악성 HTML 파일을 첨부했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 HTML 파일들은 실행하면 엑셀 파일 화면과 유사하게 제작된 피싱 사이트로 연결되도록 설계됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "메일 수신자가 여기에 속아 이메일 주소와 비밀번호를 입력하도록 유도한 것이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "입력창에 입력된 개인정보는 즉히 공격자에게 전송되는 구조다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "안랩은 이같은 수법의 피싱 이메일이 이달에도 발견됐다고 밝혔다. '설계서 및 견적서 요청에 관한 건', '중국 수출용 발주서 첨부 건' 등의 제목을 가진 이메일이 연달아 탐지됐다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "두 메일은 발신자가 한국인 이름을 사용했을뿐 아니라 자연스러운 우리말을 사용하는 등 비교적 정교하게 위장했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "실제 발주처 직원인 것처럼 상세한 메일 명함을 첨부하기도 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이들 공격자는 메일에 압축 파일을 첨부했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "메일 수신자가 이를 내려받아 압축 해제하고 실행파일(확장자 '.exe' 파일)을 실행하면 악성코드에 감염되도록 설계한 파일이었다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "공격자들은 이에 감염된 PC 이용자의 키 로그 정보나 웹 브라우저에 저장된 사용자 계정 정보 등을 빼돌리려고 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "안랩은 자사 백신(안티바이러스) 프로그램 V3가 이 악성코드와 피싱 사이트를 모두 차단하고 있다고 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "양하영 안랩 분석팀 팀장은 \\\"(각 기업의) 사업 담당 직원들이 비슷한 내용의 메일을 자주 받기 때문에 조금만 부주의해도 악성코드에 감염될 수 있다\\\"며 \\\"이렇게 유출된 계정정보 같은 사용자 정보는 타깃형 공격 등 2차 공격에 사용될 수도 있기 때문에, 메일의 발신자와 첨부파일을 꼼꼼히 살펴보고 출처를 알 수 없는 이메일 속 첨부파일이나 URL은 실행하지 말아야 한다\\\"고 당부했다.",
+				"sentenceSize": 216
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"발주서 확인해주세요\\\"에 낚였다…새해 맞은 기업, 피싱 주의보",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

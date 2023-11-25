@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013350",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "중소제조업 “4분기 기대”",
+		"newsSubTitle": "경기전망지수 106… 3분기보다 7p 상승",
+		"newsContent": "IBK기업은행 산하 IBK경제연구소가 전국 중소제조기업 3169곳을 대상으로 조사한 '4분기 경기전망지수'에 따르면, 중소제조업 경기전망지수는 지난 3분기보다 7포인트 상승한 106으로 집계됐다.\n이는 기준금리 인하와 정부의 내수경기 활성화 정책에 대한 기대감을 원인으로 분석했다.\n항목별로는 수주(105)와 내수판매(105)가 호전될 전망으로 조사됐다.\n반면, 자금사정(98), 채산성(97), 수출단가(95) 등은 여전히 부진해 전반적인 경영상황 회복에는 시간이 더 필요할 것으로 보였다.\n한편, 3분기 주요 경영애로 요인으로는 '내수부진'과 '판매대금 회수난', '과당경쟁' 등이 꼽혔다.\nIBK경제연구소 관계자는 “경기회복에 대한 기대감이 높아지고 있지만, 내수와 환율 등 대내외 여건은 여전히 어렵다”며 “정부의 과감한 정책과 지속적인 관심이 필요하다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "IBK기업은행 산하 IBK경제연구소가 전국 중소제조기업 3169곳을 대상으로 조사한 '4분기 경기전망지수'에 따르면, 중소제조업 경기전망지수는 지난 3분기보다 7포인트 상승한 106으로 집계됐다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 기준금리 인하와 정부의 내수경기 활성화 정책에 대한 기대감을 원인으로 분석했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "항목별로는 수주(105)와 내수판매(105)가 호전될 전망으로 조사됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면, 자금사정(98), 채산성(97), 수출단가(95) 등은 여전히 부진해 전반적인 경영상황 회복에는 시간이 더 필요할 것으로 보였다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 3분기 주요 경영애로 요인으로는 '내수부진'과 '판매대금 회수난', '과당경쟁' 등이 꼽혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "IBK경제연구소 관계자는 “경기회복에 대한 기대감이 높아지고 있지만, 내수와 환율 등 대내외 여건은 여전히 어렵다”며 “정부의 과감한 정책과 지속적인 관심이 필요하다”고 말했다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쿠팡 2인자, 나비드 베이세 부사장 3월 사임",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

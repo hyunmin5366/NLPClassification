@@ -1,0 +1,294 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322412",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "'메모리 중심 컴퓨팅' 글로벌 경쟁 본격 점화…ETRI서도 독자 기술 개발 나서",
+		"newsSubTitle": "",
+		"newsContent": "중앙처리장치(CPU)와 메모리 간 병목 현상을 줄여 연산 성능을 높이는 이른바 '메모리 중심 컴퓨팅' 시대가 열린다.\nCPU-메모리-스토리지(저장장치) 구조로 돼 있는 현재 컴퓨터 구조를 CPU-스토리지클래스메모리(SCM)로 전환하는 것이 골자다.\nSCM은 기존 D램 속도를 유지하면서도 전원을 꺼도 데이터가 사라지지 않는 비휘발성, 고용량이 특징이다.\n인텔은 CPU 경쟁력을 기반으로 메모리 시장에 새로 진입하려 하고 있다.\n삼성전자와 SK하이닉스 같은 전통 메모리업계는 이를 저지하기 위해 신규 표준을 제안하고 있다.\n휴렛팩커드엔터프라이즈(HPE)도 세계 굴지 반도체, 소프트웨어(SW) 업체와 손잡고 새로운 메모리 인터페이스를 개발하고 있다.\n한국 정부도 이 같은 '메모리 중심 컴퓨팅 구조'를 국책 과제로 진행한다.\n컴퓨팅 기술의 일대 변화가 예상된다.\n20일 국내 메모리 반도체 업계에 따르면 국제반도체표준협의기구(JEDEC)는 연내에 비휘발성메모리모듈(NVDIMM)-P 표준안을 내놓을 예정이다.\n이 표준은 삼성전자, SK하이닉스 등 메모리 업계가 주도한다.\nNVDIMM-P 규격은 D램이 얹히는 DIMM 모듈에 낸드플래시나 P램 같은 비휘발성 메모리를 결합한 일종의 하이브리드 메모리 모듈이다.\nD램은 전원을 끄면 데이터가 사라지지만 NVDIMM-P는 데이터를 영구 저장할 수 있어 전원 손실이 발생했을 때 작업하고 있던 임시 데이터를 안전하게 저장, 복구할 수 있다.\nCPU와 직접 통신하는 DIMM 규격인 데다 D램이 캐시 메모리 역할을 해 주기 때문에 서버 업체는 많은 비용을 들이지 않고도 데이터 처리 속도를 높이는 것이 가능하다.\nSK하이닉스는 NVDIMM-P에 붙이는 것을 목표로 몇 년 전부터 '매니지드 D램 솔루션(MDS)' 기술을 개발하고 있다.\nMDS는 로직 칩을 활용, 범용 D램 단점인 용량당 비싼 가격을 극복하는 구조인 것으로 알려졌다.\n삼성의 경우 지난 2015년 미국 NVDIMM 전문 업체 넷리스트에 약 270억원을 투자하며 NVDIMM 기술 역량을 추가 확보했다.\n인텔은 이미 마이크론과 상변화메모리(P램) 일종인 3D 크로스포인트 메모리를 개발하고 '옵테인'이란 이름으로 이 시장을 공략하고 있다.\n3D 크로스포인트 메모리를 DDR4 D램과 DIMM 모듈로 구성해서 서버 시장을 공략하는 것이 목표다.\n메모리 업계 관계자는 \\\"궁극으로 STT-M램 같은 차세대 메모리가 SCM 영역을 꿰차고 앉을 것\\\"이라면서 \\\"CPU 중심으로 메모리 시장에 진출하려는 인텔과 메모리로 컴퓨팅 연산 성능을 높이려는 삼성전자 및 SK하이닉스 간 수 싸움이 치열하게 전개되고 있다\\\"고 말했다.\n세계 1위 서버 업체인 HPE는 삼성전자, SK하이닉스, 마이크론, AMD, ARM, 델EMC 등 기업과 손잡고 Gen-Z라는 이름의 '메모리 중심 컴퓨팅' 기술을 개발하고 있다.\nNVDIMM 등 다수 SCM을 하나로 연결해서 거대한 공유 메모리 풀을 구성하는 것이 골자다.\n이 풀을 활용하면 데이터를 병렬로 처리할 수 있어 처리 속도가 눈부시게 빨라진다.\n국내에서도 기술 연구가 활발하다.\nETRI는 테라텍, 케이티엔에프(KTNF), 한국컴퓨팅산업협회 등 민∙관 합작으로 '메모리 중심 차세대 컴퓨팅 시스템 구조 연구'를 시작했다.\nETRI는 주관사이자 전문 연구실, 테라텍∙KTNF 등은 공동 연구기관으로 각각 참여한다.\n개발 코드명은 '모카(MOCA)'이며, 정부 지원을 받아 개발비를 총 135억원 투입한다.\n올해 예산은 13억원이 책정됐다.\n2025년 개발 완료가 목표다.\nETRI 관계자는 \\\"메모리 중심 컴퓨팅 환경은 처리해야 할 데이터 양이 방대해질수록 효율이 높아진다\\\"면서 \\\"여러 컴퓨터가 서로 데이터를 교환하는 방식이 아니라 메모리 풀을 서로 나눠 공유하는 방식이기 때문에 대용량 데이터 처리뿐만 아니라 데이터 이동도 빠르다\\\"고 설명했다.\n나연묵 단국대 교수는 \\\"메모리 중심 컴퓨팅 개발은 취약한 국내 서버 기술 보완뿐만 아니라 신기술 확보를 통한 시장 선점을 기대한다\\\"면서 \\\"새로운 구조 컴퓨터가 딥러닝, 의료 등 빅데이터 수요에 많은 도움이 될 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 30,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중앙처리장치(CPU)와 메모리 간 병목 현상을 줄여 연산 성능을 높이는 이른바 '메모리 중심 컴퓨팅' 시대가 열린다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CPU-메모리-스토리지(저장장치) 구조로 돼 있는 현재 컴퓨터 구조를 CPU-스토리지클래스메모리(SCM)로 전환하는 것이 골자다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SCM은 기존 D램 속도를 유지하면서도 전원을 꺼도 데이터가 사라지지 않는 비휘발성, 고용량이 특징이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인텔은 CPU 경쟁력을 기반으로 메모리 시장에 새로 진입하려 하고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성전자와 SK하이닉스 같은 전통 메모리업계는 이를 저지하기 위해 신규 표준을 제안하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "휴렛팩커드엔터프라이즈(HPE)도 세계 굴지 반도체, 소프트웨어(SW) 업체와 손잡고 새로운 메모리 인터페이스를 개발하고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국 정부도 이 같은 '메모리 중심 컴퓨팅 구조'를 국책 과제로 진행한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "컴퓨팅 기술의 일대 변화가 예상된다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "20일 국내 메모리 반도체 업계에 따르면 국제반도체표준협의기구(JEDEC)는 연내에 비휘발성메모리모듈(NVDIMM)-P 표준안을 내놓을 예정이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 표준은 삼성전자, SK하이닉스 등 메모리 업계가 주도한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "NVDIMM-P 규격은 D램이 얹히는 DIMM 모듈에 낸드플래시나 P램 같은 비휘발성 메모리를 결합한 일종의 하이브리드 메모리 모듈이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "D램은 전원을 끄면 데이터가 사라지지만 NVDIMM-P는 데이터를 영구 저장할 수 있어 전원 손실이 발생했을 때 작업하고 있던 임시 데이터를 안전하게 저장, 복구할 수 있다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "CPU와 직접 통신하는 DIMM 규격인 데다 D램이 캐시 메모리 역할을 해 주기 때문에 서버 업체는 많은 비용을 들이지 않고도 데이터 처리 속도를 높이는 것이 가능하다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "SK하이닉스는 NVDIMM-P에 붙이는 것을 목표로 몇 년 전부터 '매니지드 D램 솔루션(MDS)' 기술을 개발하고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "MDS는 로직 칩을 활용, 범용 D램 단점인 용량당 비싼 가격을 극복하는 구조인 것으로 알려졌다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "삼성의 경우 지난 2015년 미국 NVDIMM 전문 업체 넷리스트에 약 270억원을 투자하며 NVDIMM 기술 역량을 추가 확보했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "인텔은 이미 마이크론과 상변화메모리(P램) 일종인 3D 크로스포인트 메모리를 개발하고 '옵테인'이란 이름으로 이 시장을 공략하고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "3D 크로스포인트 메모리를 DDR4 D램과 DIMM 모듈로 구성해서 서버 시장을 공략하는 것이 목표다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "메모리 업계 관계자는 \\\"궁극으로 STT-M램 같은 차세대 메모리가 SCM 영역을 꿰차고 앉을 것\\\"이라면서 \\\"CPU 중심으로 메모리 시장에 진출하려는 인텔과 메모리로 컴퓨팅 연산 성능을 높이려는 삼성전자 및 SK하이닉스 간 수 싸움이 치열하게 전개되고 있다\\\"고 말했다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "세계 1위 서버 업체인 HPE는 삼성전자, SK하이닉스, 마이크론, AMD, ARM, 델EMC 등 기업과 손잡고 Gen-Z라는 이름의 '메모리 중심 컴퓨팅' 기술을 개발하고 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "NVDIMM 등 다수 SCM을 하나로 연결해서 거대한 공유 메모리 풀을 구성하는 것이 골자다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이 풀을 활용하면 데이터를 병렬로 처리할 수 있어 처리 속도가 눈부시게 빨라진다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "국내에서도 기술 연구가 활발하다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "ETRI는 테라텍, 케이티엔에프(KTNF), 한국컴퓨팅산업협회 등 민∙관 합작으로 '메모리 중심 차세대 컴퓨팅 시스템 구조 연구'를 시작했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "ETRI는 주관사이자 전문 연구실, 테라텍∙KTNF 등은 공동 연구기관으로 각각 참여한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "개발 코드명은 '모카(MOCA)'이며, 정부 지원을 받아 개발비를 총 135억원 투입한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "올해 예산은 13억원이 책정됐다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "2025년 개발 완료가 목표다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "ETRI 관계자는 \\\"메모리 중심 컴퓨팅 환경은 처리해야 할 데이터 양이 방대해질수록 효율이 높아진다\\\"면서 \\\"여러 컴퓨터가 서로 데이터를 교환하는 방식이 아니라 메모리 풀을 서로 나눠 공유하는 방식이기 때문에 대용량 데이터 처리뿐만 아니라 데이터 이동도 빠르다\\\"고 설명했다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "나연묵 단국대 교수는 \\\"메모리 중심 컴퓨팅 개발은 취약한 국내 서버 기술 보완뿐만 아니라 신기술 확보를 통한 시장 선점을 기대한다\\\"면서 \\\"새로운 구조 컴퓨터가 딥러닝, 의료 등 빅데이터 수요에 많은 도움이 될 것\\\"이라고 말했다.",
+				"sentenceSize": 131
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'메모리 중심 컴퓨팅' 글로벌 경쟁 본격 점화…ETRI서도 독자 기술 개발 나서",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

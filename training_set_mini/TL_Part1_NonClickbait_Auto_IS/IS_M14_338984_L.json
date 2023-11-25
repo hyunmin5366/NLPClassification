@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338984",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "클라우드 이용 기업 80%, 매달 공격 받았다",
+		"newsSubTitle": "",
+		"newsContent": "클라우드 보안 위협이 현실화됐다.\n클라우드 도입 기업 10개 가운데 8개 이상은 한 달에 한 번 이상 침해 공격을 받았다.\n클라우드 이용 기업 증가와 함께 고객 민감 정보까지 클라우드로 옮겨가고 있지만 데이터 보호정책은 변화를 따라가지 못 한다. 2일 맥아피가 발표한 클라우드 활용과 위협 보고서(Cloud Adoption and Risk Report)에 따르면 클라우드 도입 기업 가운데 80%는 한 달에 한 번 이상 계정탈취 공격 받은 것으로 나타났다.\n취약 계정, 권한 있는 사용자, 내부자 위협 등 클라우드 보안위협은 전년 대비 27.7% 증가했다.\n이들 공격은 클라우드에 저장된 고객 데이터, 패스워드, 카드사용 내역 등 탈취를 노렸다.\n이번 조사는 맥아피 클라우드 엠비전(MVISION) 클라우드 고객 3000만명 사용데이터와 11개국 1400여명 클라우드 사용자를 대상으로 설문조사를 실시했다.\n클라우드 저장 민감데이터는 증가 추세다.\n클라우드 이용 고객 21%는 사용자 민감정보를 저장하고 있으며 이는 전년대비 17% 늘어난 수치다.\n전체 클라우드 저장정보 가운데 기밀데이터가 차지하는 비중은 5.64%로 2016년(4.4%), 2017년(5.6%) 등 증가한다.\n조엘 캐미샤 맥아피 엠비전 클라우드 디렉터는 \\\"클라우드에 저장된 데이터 21%는 고객 민감정보이지만 클라우드 내에서 해당 정보는 아무런 제약 없이 공유된다\\\"면서 \\\"많은 기업이 클라우드 퍼스트 전략을 구사해 도입을 늘리면서 공격자도 자연스럽게 클라우드를 새로운 공격지로 삼는다\\\"고 말했다.\n클라우드 보안 위협은 늘어난 반면 이들 위협에 대한 인식은 개선되지 못했다.\n실제 미국, 일본, 유럽 등 클라우드 사용기업 대부분 사내 직원이 활용하는 클라우드 애플리케이션(앱)이 100개 미만 정도로 예상한다.\n하지만 실제 사용은 1935개에 달했다.\n게다가 이들 앱은 엔터프라이즈 고객을 대상으로 하지 않아 암호화, 민감데이터 등에 취약하다.\n반면 개별 기업 클라우드 정책은 미흡해 이들 사용을 막을 뚜렷한 방법도 없다.\nIT, 보안 담당자는 어떤 위협이 발생하는지 가늠하지 못한다.\n고객 데이터 책임 이해도 부족하다.\n아마존웹서비스(AWS), 마이크로소프트(MS) 애저(Azure), 구글 클라우드 모두 고객 데이터 유출책임을 지지 않는다.\n이미 계약 단계부터 명시하고 있지만 이를 제대로 이해하지 못한다.\n캐미샤 디렉터는 \\\"AWS, 구글클라우드, MS 애저 등 모든 클라우드 서비스 사업자는 자사 데이터 센터 등 물리적 위협 사항에 대해 100% 책임지지만 데이터는 전혀 다른 얘기\\\"라면서 \\\"고객 데이터 유출에 관해서는 클라우드 서비스 제공 형태나 사업자와 관계없이 책임은 고객사에 있다\\\"고 덧붙였다.\n표 : 클라우드 애플리케이션 이용 현황 (단위 개)",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "클라우드 보안 위협이 현실화됐다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "클라우드 도입 기업 10개 가운데 8개 이상은 한 달에 한 번 이상 침해 공격을 받았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "클라우드 이용 기업 증가와 함께 고객 민감 정보까지 클라우드로 옮겨가고 있지만 데이터 보호정책은 변화를 따라가지 못 한다. 2일 맥아피가 발표한 클라우드 활용과 위협 보고서(Cloud Adoption and Risk Report)에 따르면 클라우드 도입 기업 가운데 80%는 한 달에 한 번 이상 계정탈취 공격 받은 것으로 나타났다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "취약 계정, 권한 있는 사용자, 내부자 위협 등 클라우드 보안위협은 전년 대비 27.7% 증가했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들 공격은 클라우드에 저장된 고객 데이터, 패스워드, 카드사용 내역 등 탈취를 노렸다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 조사는 맥아피 클라우드 엠비전(MVISION) 클라우드 고객 3000만명 사용데이터와 11개국 1400여명 클라우드 사용자를 대상으로 설문조사를 실시했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "클라우드 저장 민감데이터는 증가 추세다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "클라우드 이용 고객 21%는 사용자 민감정보를 저장하고 있으며 이는 전년대비 17% 늘어난 수치다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "전체 클라우드 저장정보 가운데 기밀데이터가 차지하는 비중은 5.64%로 2016년(4.4%), 2017년(5.6%) 등 증가한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "조엘 캐미샤 맥아피 엠비전 클라우드 디렉터는 \\\"클라우드에 저장된 데이터 21%는 고객 민감정보이지만 클라우드 내에서 해당 정보는 아무런 제약 없이 공유된다\\\"면서 \\\"많은 기업이 클라우드 퍼스트 전략을 구사해 도입을 늘리면서 공격자도 자연스럽게 클라우드를 새로운 공격지로 삼는다\\\"고 말했다.",
+				"sentenceSize": 164
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "클라우드 보안 위협은 늘어난 반면 이들 위협에 대한 인식은 개선되지 못했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "실제 미국, 일본, 유럽 등 클라우드 사용기업 대부분 사내 직원이 활용하는 클라우드 애플리케이션(앱)이 100개 미만 정도로 예상한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "하지만 실제 사용은 1935개에 달했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "게다가 이들 앱은 엔터프라이즈 고객을 대상으로 하지 않아 암호화, 민감데이터 등에 취약하다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "반면 개별 기업 클라우드 정책은 미흡해 이들 사용을 막을 뚜렷한 방법도 없다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "IT, 보안 담당자는 어떤 위협이 발생하는지 가늠하지 못한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "고객 데이터 책임 이해도 부족하다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "아마존웹서비스(AWS), 마이크로소프트(MS) 애저(Azure), 구글 클라우드 모두 고객 데이터 유출책임을 지지 않는다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이미 계약 단계부터 명시하고 있지만 이를 제대로 이해하지 못한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "캐미샤 디렉터는 \\\"AWS, 구글클라우드, MS 애저 등 모든 클라우드 서비스 사업자는 자사 데이터 센터 등 물리적 위협 사항에 대해 100% 책임지지만 데이터는 전혀 다른 얘기\\\"라면서 \\\"고객 데이터 유출에 관해서는 클라우드 서비스 제공 형태나 사업자와 관계없이 책임은 고객사에 있다\\\"고 덧붙였다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "표 : 클라우드 애플리케이션 이용 현황 (단위 개)",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "클라우드 이용 기업 80%, 매달 공격 받았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

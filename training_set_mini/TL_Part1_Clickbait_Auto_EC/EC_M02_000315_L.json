@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000315",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "우리은행 전산 장애, 하필 이런 시기에",
+		"newsSubTitle": "",
+		"newsContent": "추석 연휴를 앞두고 우리은행 타행 이체거래 장애가 발생해 고객들이 큰 불편을 겪고 있다.\n현재 우리은행 인터넷 뱅킹으로 타행 이체 시도 시 \\\"해당 거래는 일시 중지되었습니다. 거래 개시 공지 후 재 거래하시기 바랍니다.\\\"라는 메시지가 뜨고 있다.\n우리은행 관계자는 1시 30분 경 미디어SR에 \\\"현재 장애가 있어 복구 중이다. 복구 완료 시간은 확답할 수 없으나 빠른 시간 내에 정상 이용할 수 있도록 노력하겠다\\\"고 말했다.\n추석 연휴를 맞이해 상당수 기업이 급여와 상여금 앞당겨 지급 하는 상황에서 고객들은 불만을 쏟아내고 있다.\n다수 커뮤니티에는 \\\"급여 통장 다른 곳으로 옮기기로 했다\\\", \\\"3중 4중으로 회선을 마련하는 게 은행 전산망인 줄 알았는데 이해할 수 없다\\\", \\\"우리은행이 아니라 워리(worry)은행이다\\\" 등 부정적 의견이 쏟아졌다.\n한편, 우리은행 측은 \\\"차세대 전산 시스템 위니와 관련 없는 사안\\\"이라고 일축했으나 위니가 말썽을 일으킨 것이 아니냐는 추측이 나오고 있다.\n우리은행이 지난 5월 전산 시스템을 교체한 이후 잇따라 전산 장애가 발생하면서 고객 불편을 초래한 전적이 있기 때문이다.\n지난 8월 전국은행연합회 조사에 따르면 올해 2분기 우리은행에 제기된 민원은 총 682건으로 지난 분기 90건 대비 750%가량 증가했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "추석 연휴를 앞두고 우리은행 타행 이체거래 장애가 발생해 고객들이 큰 불편을 겪고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현재 우리은행 인터넷 뱅킹으로 타행 이체 시도 시 \\\"해당 거래는 일시 중지되었습니다. 거래 개시 공지 후 재 거래하시기 바랍니다.\\\"라는 메시지가 뜨고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우리은행 관계자는 1시 30분 경 미디어SR에 \\\"현재 장애가 있어 복구 중이다. 복구 완료 시간은 확답할 수 없으나 빠른 시간 내에 정상 이용할 수 있도록 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "추석 연휴를 맞이해 상당수 기업이 급여와 상여금 앞당겨 지급 하는 상황에서 고객들은 불만을 쏟아내고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다수 커뮤니티에는 \\\"급여 통장 다른 곳으로 옮기기로 했다\\\", \\\"3중 4중으로 회선을 마련하는 게 은행 전산망인 줄 알았는데 이해할 수 없다\\\", \\\"우리은행이 아니라 워리(worry)은행이다\\\" 등 부정적 의견이 쏟아졌다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 우리은행 측은 \\\"차세대 전산 시스템 위니와 관련 없는 사안\\\"이라고 일축했으나 위니가 말썽을 일으킨 것이 아니냐는 추측이 나오고 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "우리은행이 지난 5월 전산 시스템을 교체한 이후 잇따라 전산 장애가 발생하면서 고객 불편을 초래한 전적이 있기 때문이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난 8월 전국은행연합회 조사에 따르면 올해 2분기 우리은행에 제기된 민원은 총 682건으로 지난 분기 90건 대비 750%가량 증가했다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'사이언스타운' 오늘 1순위 청약접수",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

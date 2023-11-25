@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012151",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "한은, 기준금리 연 2.50%로 동결",
+		"newsSubTitle": "",
+		"newsContent": "기준금리가 5개월째 연 2.50%로 동결됐다.\n한국은행은 10일 금융통화위원회 본회의를 열고 기준금리를 현행 수준에서 동결하기로 결정했다.\n기준금리는 지난 5월 9일 0.25%포인트 내린 이후 5개월 연속 동결됐다.\n이번 기준금리 동결 결정은 미국의 양적완화 축소 논의 등 불확실성이 계속되고는 있지만 미국 경기 회복세가 지속되고, 유로 지역의 경기 부진 완화와 국내경기 회복세와 물가 안정세가 이어지고 있다는 점을 고려한 것으로 풀이된다.\n유럽중앙은행(ECB)과 호주 등도 이번달 기준금리를 동결했다금통위는 앞으로 해외 위험요인의 전개 상황을 주시하는 한편 기준금리 인하 등정부 경제정책 효과를 점검하겠다는 입장이다.\n한편, 지난해 7월과 10월 기준금리를 각각 3.00%, 2.75%로 내린후 올해 5월 현 2.50%로 한 차례 더 인하했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "기준금리가 5개월째 연 2.50%로 동결됐다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행은 10일 금융통화위원회 본회의를 열고 기준금리를 현행 수준에서 동결하기로 결정했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기준금리는 지난 5월 9일 0.25%포인트 내린 이후 5개월 연속 동결됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 기준금리 동결 결정은 미국의 양적완화 축소 논의 등 불확실성이 계속되고는 있지만 미국 경기 회복세가 지속되고, 유로 지역의 경기 부진 완화와 국내경기 회복세와 물가 안정세가 이어지고 있다는 점을 고려한 것으로 풀이된다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유럽중앙은행(ECB)과 호주 등도 이번달 기준금리를 동결했다금통위는 앞으로 해외 위험요인의 전개 상황을 주시하는 한편 기준금리 인하 등정부 경제정책 효과를 점검하겠다는 입장이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 지난해 7월과 10월 기준금리를 각각 3.00%, 2.75%로 내린후 올해 5월 현 2.50%로 한 차례 더 인하했다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'원조 하림맨' 정호석, 대표로 선임",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

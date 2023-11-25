@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_032231",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "‘광고인 줄 알았다’는 수지 시구 장면",
+		"newsSubTitle": "",
+		"newsContent": "가수 겸 배우 수지가 두산 베어스-KIA 타이거즈의 한국시리즈 4차전 시구에 나섰다.\nKIA 타이거즈의 연고지인 광주 출신인 수지는 29일 서울 잠실야구장에서 열린 2017 타이어뱅크 KBO 한국시리즈 4차전의 시구자로 나섰다.\n가슴에 ‘코리안 시리즈’라는 문구가 적힌 집업 점퍼를 입고 등장한 수지는 관중에게 손을 흔들며 환하게 웃었다.\n이후 마운드에 선 수지는 와인드업 후 정확히 스트라이크 존에 공을 꽂았다.\n수지는 시구에 만족한 듯 환하게 미소 지었다.\n아래는 수지의 시구 장면이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 겸 배우 수지가 두산 베어스-KIA 타이거즈의 한국시리즈 4차전 시구에 나섰다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KIA 타이거즈의 연고지인 광주 출신인 수지는 29일 서울 잠실야구장에서 열린 2017 타이어뱅크 KBO 한국시리즈 4차전의 시구자로 나섰다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "가슴에 ‘코리안 시리즈’라는 문구가 적힌 집업 점퍼를 입고 등장한 수지는 관중에게 손을 흔들며 환하게 웃었다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 마운드에 선 수지는 와인드업 후 정확히 스트라이크 존에 공을 꽂았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "수지는 시구에 만족한 듯 환하게 미소 지었다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아래는 수지의 시구 장면이다.",
+				"sentenceSize": 16
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"트와이스 표절\\\" 지적받는 中 의류업체 포스터 보니…",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

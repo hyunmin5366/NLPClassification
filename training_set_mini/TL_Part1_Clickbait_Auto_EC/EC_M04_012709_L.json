@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012709",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "하이트맥주 '뉴 하이트' 재탄생",
+		"newsSubTitle": "맛·상표 디자인 등 리뉴얼",
+		"newsContent": "하이트진로(사장 김인규)의 전면적인 리뉴얼을 단행한 뉴 하이트(New hite)를 3일 출시했다.\n하이트진로는 80년의 양조기술을 집약해 상표 디자인뿐 아니라 제조공정 등 전 부문에 걸쳐 신제품 수준으로 새롭게 선보인다.\n뉴 하이트는 하이트진로가 구축한 월드 비어 얼라이언스(WBA)를 통한 공동연구의 첫 결과물이다.\n하이트진로는 맥주품질 세계화를 위해 올해 초 세계 정상급 기업들과의 WBA 구축을 선언했다.\n뉴 하이트는 맛도 새롭게 업그레이드 했다.\n최적의 부드러운 목넘김을 구현하기 위해 제조공정을 조정해 쓴 맛을 줄였다.\n홉, 몰트, 탄산을 최적으로 조합해 청량감을 강화하고 알코올 도수도 4.3%로 조정했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하이트진로(사장 김인규)의 전면적인 리뉴얼을 단행한 뉴 하이트(New hite)를 3일 출시했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하이트진로는 80년의 양조기술을 집약해 상표 디자인뿐 아니라 제조공정 등 전 부문에 걸쳐 신제품 수준으로 새롭게 선보인다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "뉴 하이트는 하이트진로가 구축한 월드 비어 얼라이언스(WBA)를 통한 공동연구의 첫 결과물이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하이트진로는 맥주품질 세계화를 위해 올해 초 세계 정상급 기업들과의 WBA 구축을 선언했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뉴 하이트는 맛도 새롭게 업그레이드 했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최적의 부드러운 목넘김을 구현하기 위해 제조공정을 조정해 쓴 맛을 줄였다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "홉, 몰트, 탄산을 최적으로 조합해 청량감을 강화하고 알코올 도수도 4.3%로 조정했다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대차그룹, 택시운행정보 수집 수월해진다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

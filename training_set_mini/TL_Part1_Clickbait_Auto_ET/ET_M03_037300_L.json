@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_037300",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "자넷 잭슨, 수술 위해 월드투어 연기",
+		"newsSubTitle": "",
+		"newsContent": "미국 팝 가수 자넷 잭슨이 수술을 받기 위해 월드 투어를 연기했다.\n최근 미국 현지 언론들에 따르면 故 마이클 잭슨의 여동생 자넷 잭슨은 최근 수술을 받기 위해 예정됐던 월드 투어를 봄까지 연기한다고 발표했다.\n잭슨은 지난 8월 캐나다 밴쿠버에서 투어를 시작, 내년 6월까지 미국, 유럽 등 세계 각지에서 투어를 펼칠 예정이었다.\n그러나 잭슨은 의사로부터 즉시 수술을 받을 필요가 있다는 진단을 받았다.\n증상과 수술 내용 등 자세한 내용은 밝히지 않은 상황. 잭슨은 \\\"투어의 연기를 발표하는 것은 정말 괴롭다\\\"고 심경을 밝혔다.\n한편 잭슨은 지난 가을, 마이클 잭슨이 사망 후 7년만에 앨범을 발표했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 팝 가수 자넷 잭슨이 수술을 받기 위해 월드 투어를 연기했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 미국 현지 언론들에 따르면 故 마이클 잭슨의 여동생 자넷 잭슨은 최근 수술을 받기 위해 예정됐던 월드 투어를 봄까지 연기한다고 발표했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "잭슨은 지난 8월 캐나다 밴쿠버에서 투어를 시작, 내년 6월까지 미국, 유럽 등 세계 각지에서 투어를 펼칠 예정이었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 잭슨은 의사로부터 즉시 수술을 받을 필요가 있다는 진단을 받았다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "증상과 수술 내용 등 자세한 내용은 밝히지 않은 상황. 잭슨은 \\\"투어의 연기를 발표하는 것은 정말 괴롭다\\\"고 심경을 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 잭슨은 지난 가을, 마이클 잭슨이 사망 후 7년만에 앨범을 발표했다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'더 폰' 엄지원, \\\"손현주와 전화 통화로만 연기…전화 너무 많이했다\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

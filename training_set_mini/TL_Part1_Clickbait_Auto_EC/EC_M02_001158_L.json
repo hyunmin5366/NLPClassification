@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_001158",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "네이버 모바일 실검 개편...이용자 동일 연령대 관심사 보여준다",
+		"newsSubTitle": "",
+		"newsContent": "네이버가 모바일 실시간 급상승 검색어 서비스를 개편한다.\n네이버는 네이버 모바일에 로그인한 이용자가 실시간 급상승 검색어(실검) 차트를 열면 같은 연령대의 실검 차트가 먼저 보이도록 개편한다고 30일 밝혔다.\n내일 31일부터 적용된다.\n지금까지는 검색차트를 열면 이용자 전체 연령대의 실검 차트가 보였다.\n그러나 개편 이후 20대 이용자라면 20대 실검 차트가, 60대 이용자라면 60대의 실검 차트가 먼저 보인다.\n이번 개편은 네이버 실검에 정치적, 상업적 키워드가 과도하게 올라오면서 '이용자 관심 반영'이라는 본연의 기능을 못한다는 지적에 따른 것이다.\n한성숙 네이버 대표는 지난 2일 과학기술정보통신부 국정감사에서 \\\"지금은 너무 전체값을 기본으로 제공한다\\\"며 \\\"실시간 급상승 검색어를 연령대별로 나눈다든지, 좀 더 개인 요구에 맞는 형태로 개편해서 제공할 예정\\\"이라고 밝힌 바 있다.\n한편, 지난 25일 카카오는 다음 실검 폐지를 검토하고 카카오톡 내 '샵(#)탭'에서 실검을 빼겠다고 밝혔다.\n네이버 관계자는 미디어SR에 \\\"실시간 검색어 폐지는 검토하고 있지 않다\\\"고 전했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 모바일 실시간 급상승 검색어 서비스를 개편한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버는 네이버 모바일에 로그인한 이용자가 실시간 급상승 검색어(실검) 차트를 열면 같은 연령대의 실검 차트가 먼저 보이도록 개편한다고 30일 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "내일 31일부터 적용된다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지금까지는 검색차트를 열면 이용자 전체 연령대의 실검 차트가 보였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 개편 이후 20대 이용자라면 20대 실검 차트가, 60대 이용자라면 60대의 실검 차트가 먼저 보인다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 개편은 네이버 실검에 정치적, 상업적 키워드가 과도하게 올라오면서 '이용자 관심 반영'이라는 본연의 기능을 못한다는 지적에 따른 것이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한성숙 네이버 대표는 지난 2일 과학기술정보통신부 국정감사에서 \\\"지금은 너무 전체값을 기본으로 제공한다\\\"며 \\\"실시간 급상승 검색어를 연령대별로 나눈다든지, 좀 더 개인 요구에 맞는 형태로 개편해서 제공할 예정\\\"이라고 밝힌 바 있다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 지난 25일 카카오는 다음 실검 폐지를 검토하고 카카오톡 내 '샵(#)탭'에서 실검을 빼겠다고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네이버 관계자는 미디어SR에 \\\"실시간 검색어 폐지는 검토하고 있지 않다\\\"고 전했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "관세청, 사상최대 규모 밀수출입 단속 실적 올려",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

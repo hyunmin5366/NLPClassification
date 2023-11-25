@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352192",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "AI가 상품 리뷰도 쓴다…카카오 '가상 인간' 만든다",
+		"newsSubTitle": "null",
+		"newsContent": "카카오가 AI(인공지능)을 기반으로 하는 '디지털 휴먼'(가상인간)을 만든다.\n김일두 카카오브레인 대표는 '이프(if) 카카오 2021'에서 \\\"카카오의 모든 유저에게 친근하면서도 유용한 디지털 휴먼을 완성해 나가고자 한다\\\"고 밝혔다.\n디지털 휴먼은 이날 카카오브레인이 최대 오픈소스 커뮤니티 깃허브에 공개한 'GPT-3' 모델의 한국어 특화 AI 언어모델 'KoGPT'를 바탕으로 한다.\n언어 모델 GPT-3는 인간과 AI가 자연어 기반으로 소통할 수 있는 AI 모델이다.\n카카오브레인의 'KoGPT'는 이같은 GPT-3 모델의 한국어 특화 버전으로, 60억개의 매개변수와 2000억개 토큰(token)의 한국어 데이터를 바탕으로 구축했다.\n카카오브레인은 KoGPT가 한국어를 사전적, 문맥적으로 이해하고 이용자가 원하는 결과값을 보여 준다고 설명했다.\n주어진 문장의 긍정과 부정 판단을 비롯해 △긴 문장 한줄 요약 △문장을 추론해 결론 예측 △문맥을 이해한 답변 등 언어를 가지고 활용할 수 있는 모든 과제를 수행한다.\n맥락에 따라 자동으로 글쓰기가 가능해지기 때문에 상품 소개글 작성, 감정 분석, 기계 독해, 기계 번역 등 높은 수준의 언어 과제를 해결하고 다양한 분야에서 활용할 수 있다.\n김 대표는 \\\"GPT는 대규모 데이터를 다루기 때문에 높은 수준의 리소스와 투자가 필요하다\\\"며 \\\"GPT를 오픈소스로 개방해 일반 대학이나 스타트업 등의 기술 접근성을 높일 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오가 AI(인공지능)을 기반으로 하는 '디지털 휴먼'(가상인간)을 만든다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "김일두 카카오브레인 대표는 '이프(if) 카카오 2021'에서 \\\"카카오의 모든 유저에게 친근하면서도 유용한 디지털 휴먼을 완성해 나가고자 한다\\\"고 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "디지털 휴먼은 이날 카카오브레인이 최대 오픈소스 커뮤니티 깃허브에 공개한 'GPT-3' 모델의 한국어 특화 AI 언어모델 'KoGPT'를 바탕으로 한다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "언어 모델 GPT-3는 인간과 AI가 자연어 기반으로 소통할 수 있는 AI 모델이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카카오브레인의 'KoGPT'는 이같은 GPT-3 모델의 한국어 특화 버전으로, 60억개의 매개변수와 2000억개 토큰(token)의 한국어 데이터를 바탕으로 구축했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카카오브레인은 KoGPT가 한국어를 사전적, 문맥적으로 이해하고 이용자가 원하는 결과값을 보여 준다고 설명했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주어진 문장의 긍정과 부정 판단을 비롯해 △긴 문장 한줄 요약 △문장을 추론해 결론 예측 △문맥을 이해한 답변 등 언어를 가지고 활용할 수 있는 모든 과제를 수행한다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "맥락에 따라 자동으로 글쓰기가 가능해지기 때문에 상품 소개글 작성, 감정 분석, 기계 독해, 기계 번역 등 높은 수준의 언어 과제를 해결하고 다양한 분야에서 활용할 수 있다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "김 대표는 \\\"GPT는 대규모 데이터를 다루기 때문에 높은 수준의 리소스와 투자가 필요하다\\\"며 \\\"GPT를 오픈소스로 개방해 일반 대학이나 스타트업 등의 기술 접근성을 높일 것\\\"이라고 말했다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AI가 상품 리뷰도 쓴다…카카오 '가상 인간' 만든다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

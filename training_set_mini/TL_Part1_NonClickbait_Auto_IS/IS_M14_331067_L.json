@@ -1,0 +1,258 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331067",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "부천시, IoT 자가망-상용망 첫 동시 활용",
+		"newsSubTitle": "",
+		"newsContent": "사물인터넷(IoT) 자가망∙상용망 논란이 지속되는 가운데 갈등을 해소할 대안이 제시됐다.\n국내 최초로 IoT 상용망과 자가망을 동시 활용하는 사례가 등장했다.\n부천시는 전체 수용가 12만전 중 3300전에 IoT 상수도 원격검침시스템을 우선 구축키로 하고 와이선(Wi-SUN) 전문업체 프리스타일과 계약을 체결했다.\n와이선은 저전력광대역(LPWA) 기술로 900㎒ 비면허대역을 활용, 자가망에 주로 사용된다.\n부천시는 3300전 중 2000여전에 와이선 기반 자가망을 활용하고 나머지에는 LG유플러스 협대역 사물인터넷(NB-IoT) 서비스를 적용키로 했다.\nNB-IoT는 상용망인 롱텀에벌루션(LTE) 기반 IoT 서비스다.\n프리스타일은 검침 대상이 집중된 지역에는 자가망을, 그렇지 않은 곳에는 상용망을 활용할 계획이다.\n소수 가구만 떨어져 있는 지역에는 자가망을 설치하는 것보다 상용망을 활용하는 게 비용 효율적이라고 판단했다.\nIoT 망을 구축하면서 자가망과 상용망을 혼합해 서비스를 구성하는 것은 처음이다.\n부천시는 12만전 전체 확대에 앞서 다양한 방식을 시험해보고 장단점을 파악하기 위해서 이 같은 결정을 내렸다.\n부천시는 자가망 유선 부분은 CCTV용 케이블을 활용한다.\n향후 사업 확대에도 자가망은 유지할 공산이 크다.\n하지만 상용망 역시 검침 사각지역 등에 지속 사용할 것이라는 게 관계자 설명이다.\n부천시 사례는 자가망∙상용망 논란에 새로운 해법을 제시했다는 점에서 주목할 만하다.\nIoT 상용망∙자가망 논란은 통신사가 IoT 전국망을 설치하면서 확대됐다.\n통신사는 전기통신사업법에 따라서 특수 경우를 제외한 일반 대중을 위한 통신 서비스는 면허를 가진 사업자만 가능하다는 입장을 고수해왔다.\n즉 지자체 IoT 서비스도 통신사가 구축한 상용망을 활용해야 한다는 입장이다.\n지방자치단체가 자가망을 구축하면 중복투자 이슈가 불거질 수 있고 통신사는 수익성 확보가 어려워지기 때문이다.\n반면 지자체는 비용 절감과 다양한 서비스 제공을 위해서는 자가망이 필요하다는 입장이다.\n정부 스마트시티 확산 기조와 맞물려 자가망과 상용망 논란은 가중됐다.\n자가망을 구축하는 지자체도 늘었다.\n과학기술정보통신부와 국토교통부, 지자체, 통신사는 자가망 제도개선 연구반을 통해 절충점을 모색해왔다.\n자가망 예외적용 스마트시티 서비스를 기존 4개에서 19개로 확대하되 비수익사업 등 공익 목적으로만 활용하고 대국민 서비스에는 제한을 두기로 협의했다.\n그러나 전기통신사업법 자가망 특례 규정(고시) 개정 등 아직 넘어야 할 산이 많다.\nIoT 서비스 종류가 광범위한 만큼 규정이 개정되더라도 상황에 따라 다양한 유권해석과 갈등이 재현될 소지가 크다.\nIoT 자가망과 상용망 동시 활용 가능성을 제시한 부천시 사례에 안팎의 이목이 집중되고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 26,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사물인터넷(IoT) 자가망∙상용망 논란이 지속되는 가운데 갈등을 해소할 대안이 제시됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 최초로 IoT 상용망과 자가망을 동시 활용하는 사례가 등장했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "부천시는 전체 수용가 12만전 중 3300전에 IoT 상수도 원격검침시스템을 우선 구축키로 하고 와이선(Wi-SUN) 전문업체 프리스타일과 계약을 체결했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "와이선은 저전력광대역(LPWA) 기술로 900㎒ 비면허대역을 활용, 자가망에 주로 사용된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "부천시는 3300전 중 2000여전에 와이선 기반 자가망을 활용하고 나머지에는 LG유플러스 협대역 사물인터넷(NB-IoT) 서비스를 적용키로 했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "NB-IoT는 상용망인 롱텀에벌루션(LTE) 기반 IoT 서비스다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "프리스타일은 검침 대상이 집중된 지역에는 자가망을, 그렇지 않은 곳에는 상용망을 활용할 계획이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소수 가구만 떨어져 있는 지역에는 자가망을 설치하는 것보다 상용망을 활용하는 게 비용 효율적이라고 판단했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "IoT 망을 구축하면서 자가망과 상용망을 혼합해 서비스를 구성하는 것은 처음이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "부천시는 12만전 전체 확대에 앞서 다양한 방식을 시험해보고 장단점을 파악하기 위해서 이 같은 결정을 내렸다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "부천시는 자가망 유선 부분은 CCTV용 케이블을 활용한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "향후 사업 확대에도 자가망은 유지할 공산이 크다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "하지만 상용망 역시 검침 사각지역 등에 지속 사용할 것이라는 게 관계자 설명이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "부천시 사례는 자가망∙상용망 논란에 새로운 해법을 제시했다는 점에서 주목할 만하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "IoT 상용망∙자가망 논란은 통신사가 IoT 전국망을 설치하면서 확대됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "통신사는 전기통신사업법에 따라서 특수 경우를 제외한 일반 대중을 위한 통신 서비스는 면허를 가진 사업자만 가능하다는 입장을 고수해왔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "즉 지자체 IoT 서비스도 통신사가 구축한 상용망을 활용해야 한다는 입장이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "지방자치단체가 자가망을 구축하면 중복투자 이슈가 불거질 수 있고 통신사는 수익성 확보가 어려워지기 때문이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "반면 지자체는 비용 절감과 다양한 서비스 제공을 위해서는 자가망이 필요하다는 입장이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "정부 스마트시티 확산 기조와 맞물려 자가망과 상용망 논란은 가중됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "자가망을 구축하는 지자체도 늘었다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "과학기술정보통신부와 국토교통부, 지자체, 통신사는 자가망 제도개선 연구반을 통해 절충점을 모색해왔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "자가망 예외적용 스마트시티 서비스를 기존 4개에서 19개로 확대하되 비수익사업 등 공익 목적으로만 활용하고 대국민 서비스에는 제한을 두기로 협의했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "그러나 전기통신사업법 자가망 특례 규정(고시) 개정 등 아직 넘어야 할 산이 많다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "IoT 서비스 종류가 광범위한 만큼 규정이 개정되더라도 상황에 따라 다양한 유권해석과 갈등이 재현될 소지가 크다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "IoT 자가망과 상용망 동시 활용 가능성을 제시한 부천시 사례에 안팎의 이목이 집중되고 있다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "부천시, IoT 자가망-상용망 첫 동시 활용",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

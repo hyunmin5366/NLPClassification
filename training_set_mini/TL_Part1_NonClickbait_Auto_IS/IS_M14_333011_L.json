@@ -1,0 +1,285 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333011",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "알서포트 코드서명 인증서 탈취...보안 강화",
+		"newsSubTitle": "",
+		"newsContent": "원격 지원 전문기업 알서포트의 코드서명 인증서가 외부로 유출됐다.\n해커는 코드서명 인증서를 악용해 악성코드에 서명한 후 특정 알서포트 고객사를 감염시켰다.\n코드서명 인증서를 탈취한 공급망(SCM) 공격이다.\n알서포트는 7월 상시 보안점검 중 인증서가 외부로 유출된 징후를 파악했다고 공지했다.\n알서포트는 한국인터넷진흥원과 공조해 사고 경위 파악과 인증서를 교체했다.\n알서포트는 6일 기존 인증서를 폐기하고 신규 인증서로 대체했다.\n알서포트는 고객사 피해를 최소화하는데 집중한다고 밝혔다.\n개발사는 인터넷으로 소프트웨어(SW)를 배포할 때 사용자에게 신뢰할 만한 프로그램임을 알리기 위해 코드 서명을 한다.\n코드 서명한 SW는 인증기관에서 일종의 디지털 인감을 받는 것과 같다.\n인터넷에서 SW를 다운로드할 때 코드 서명이 없으면 알 수 없는 게시자가 배포했다며 '보안 경고창'이 뜬다.\n이와 달리 코드 서명된 경우는 개발회사 정보를 알려줘 안심하고 다운받게 한다.\n해커는 이 점을 악용한다.\nSW제조사 코드서명 인증서를 탈취한 후 악성코드를 해당 인증서로 서명해 배포한다.\n공격자는 알서포트 업데이트 서버에 탈취한 코드서명를 붙인 악성 프로그램을 올리려 시도했다.\n알서포트 프로그램을 쓰는 고객사를 노린 SCM 공격이다.\n알서포트는 매출 절반이 해외에서 나온다.\n국내는 물론 해외 고객도 사이버 위협에 노출됐다.\n한국인터넷진흥원이 발행한 '코드서명 인증서 보안 가이드'에 따르면 공격자는 인증서 관리가 취약한 부분을 이용해 악성코드를 감염시키고 코드서명 인증서를 탈취한다.\n코드 서명 인증서를 개발자 PC에서 관리하거나 사내 인터넷망에 인증서 PC를 두면 해커 표적이 된다.\n알서포트는 공지에서 '사내 PC 한 대가 악성코드에 감염돼 코드 서명 인증서가 유출된 것으로 추정된다'고 밝혔다.\n내부 PC 관리 소홀로 인한 유출로 보인다.\n코드 서명 작업을 하는 PC와 인증서 관리시스템을 일반 업무 PC와 혼용하면 안 된다.\n코드 서명용 PC는 인터넷이 연결되지 않은 망분리 환경에 둔다.\n타임스탬프 포트를 제외한 모든 포트를 차단한다.\n이번 공격은 3∙20 사이버테러 사건과 같이 코드 서명 인증서 탈취 후 업데이트 서버가 악성코드 유포지로 악용된 사례다.\n코드 서명 탈취 후 SCM 공격은 해당 제품을 쓰는 고객사를 한꺼번에 악성코드에 감염시키는 대규모 사이버 테러가 가능하다.\n한 보안 전문가는 \\\"기업 코드 서명 인증서는 주로 핵심 개발자가 관리한다\\\"면서 \\\"개발사 핵심 역량이 해커에 노출된 것\\\"이라고 설명했다.\n이어 \\\"공격자가 개발사 업데이트 서버를 이용해 특정 고객사를 리다이렉션해 악성코드 감염을 시도했다\\\"면서 \\\"발각되기 전 오랜 시간에 걸쳐 공격했을 가능성이 높아 고객사 전수조사가 시급하다\\\"고 말했다.\n알서포트 관계자는 \\\"원인을 명확히 조사해 고객사로 2차 피해 방지에 주력하고 있다\\\"면서 \\\"고객사에서는 보안 솔루션을 최신 상태로 업데이트하기를 당부한다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 29,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "원격 지원 전문기업 알서포트의 코드서명 인증서가 외부로 유출됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해커는 코드서명 인증서를 악용해 악성코드에 서명한 후 특정 알서포트 고객사를 감염시켰다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코드서명 인증서를 탈취한 공급망(SCM) 공격이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "알서포트는 7월 상시 보안점검 중 인증서가 외부로 유출된 징후를 파악했다고 공지했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "알서포트는 한국인터넷진흥원과 공조해 사고 경위 파악과 인증서를 교체했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "알서포트는 6일 기존 인증서를 폐기하고 신규 인증서로 대체했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "알서포트는 고객사 피해를 최소화하는데 집중한다고 밝혔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "개발사는 인터넷으로 소프트웨어(SW)를 배포할 때 사용자에게 신뢰할 만한 프로그램임을 알리기 위해 코드 서명을 한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "코드 서명한 SW는 인증기관에서 일종의 디지털 인감을 받는 것과 같다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "인터넷에서 SW를 다운로드할 때 코드 서명이 없으면 알 수 없는 게시자가 배포했다며 '보안 경고창'이 뜬다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이와 달리 코드 서명된 경우는 개발회사 정보를 알려줘 안심하고 다운받게 한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "해커는 이 점을 악용한다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "SW제조사 코드서명 인증서를 탈취한 후 악성코드를 해당 인증서로 서명해 배포한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "공격자는 알서포트 업데이트 서버에 탈취한 코드서명를 붙인 악성 프로그램을 올리려 시도했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "알서포트 프로그램을 쓰는 고객사를 노린 SCM 공격이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "알서포트는 매출 절반이 해외에서 나온다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "국내는 물론 해외 고객도 사이버 위협에 노출됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "한국인터넷진흥원이 발행한 '코드서명 인증서 보안 가이드'에 따르면 공격자는 인증서 관리가 취약한 부분을 이용해 악성코드를 감염시키고 코드서명 인증서를 탈취한다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "코드 서명 인증서를 개발자 PC에서 관리하거나 사내 인터넷망에 인증서 PC를 두면 해커 표적이 된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "알서포트는 공지에서 '사내 PC 한 대가 악성코드에 감염돼 코드 서명 인증서가 유출된 것으로 추정된다'고 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "내부 PC 관리 소홀로 인한 유출로 보인다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "코드 서명 작업을 하는 PC와 인증서 관리시스템을 일반 업무 PC와 혼용하면 안 된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "코드 서명용 PC는 인터넷이 연결되지 않은 망분리 환경에 둔다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "타임스탬프 포트를 제외한 모든 포트를 차단한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "이번 공격은 3∙20 사이버테러 사건과 같이 코드 서명 인증서 탈취 후 업데이트 서버가 악성코드 유포지로 악용된 사례다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "코드 서명 탈취 후 SCM 공격은 해당 제품을 쓰는 고객사를 한꺼번에 악성코드에 감염시키는 대규모 사이버 테러가 가능하다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "한 보안 전문가는 \\\"기업 코드 서명 인증서는 주로 핵심 개발자가 관리한다\\\"면서 \\\"개발사 핵심 역량이 해커에 노출된 것\\\"이라고 설명했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "이어 \\\"공격자가 개발사 업데이트 서버를 이용해 특정 고객사를 리다이렉션해 악성코드 감염을 시도했다\\\"면서 \\\"발각되기 전 오랜 시간에 걸쳐 공격했을 가능성이 높아 고객사 전수조사가 시급하다\\\"고 말했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "알서포트 관계자는 \\\"원인을 명확히 조사해 고객사로 2차 피해 방지에 주력하고 있다\\\"면서 \\\"고객사에서는 보안 솔루션을 최신 상태로 업데이트하기를 당부한다\\\"고 밝혔다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "알서포트 코드서명 인증서 탈취...보안 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

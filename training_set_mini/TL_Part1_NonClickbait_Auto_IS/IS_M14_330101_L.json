@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330101",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW교육",
+		"newsTitle": "인더스트리미디어, 스마트러닝 난제 기술로 해결한다",
+		"newsSubTitle": "",
+		"newsContent": "인더스트리미디어(대표 민승재)가 스마트러닝 관련 신기술에 대해 연이어 특허를 등록하며 시장 선도 기업 입지를 공고히 하고 있다.\n인더스트리미디어는 스마트러닝 업계의 난제로 거론되는 '콜드 스타트(cold start)' 문제를 해결한 기술을 특허등록 했다고 17일 밝혔다.\n콜드 스타트는 처음 스마트러닝을 사용하는 학습자의 경우 기존 학습데이터가 없어 어떤 콘텐츠를 학습하는 것이 좋은지 추천하기가 어려운 상황을 말한다.\n인더스트리미디어는 이 문제를 해결하기 위해 'TF-IDF' 방식을 적용했다.\n우선 콘텐츠들을 클러스터링하고 각 클러스터의 대표 콘텐츠를 선정한다.\n대표 콘텐츠 중에서 학습자가 관심 있는 콘텐츠 3개를 고르면 시스템이 해당 콘텐츠를 포함하는 클러스터에서 우수 콘텐츠를 학습자에게 추천하는 방식이다.\n이에 앞서 명함인식 기반 콘텐츠 추천 기술 관련 특허도 획득한 바 있다.\n이 기술은 학습자 명함을 인식한 뒤 회사 이름과 직무, 직급과 같은 정보를 추출해 해당 직무, 직급, 산업의 학습자들이 어떤 콘텐츠를 학습했는지를 분석한다.\n이후 학습자 개인에게 맞춤화된 콘텐츠를 추천해준다.\n학습자가 자신의 명함을 사진으로 찍으면 9초 이내에 명함 내용을 인식한다.\n작년과 재작년에도 신기술 특허를 등록했다. 'AiLearnö'으로 명명된 기술은 기계학습 기반의 인공지능(AI) 콘텐츠 추천 기술이다.\n학습자의 직무, 직급, 산업, 과거 학습이력, 역량 수준, 관심 분야, 비슷한 성향을 보이는 학습자나 준거집단의 학습패턴, 최근 이슈에 관한 빅데이터를 분석해 학습자에게 최적화된 콘텐츠를 추천해준다.\n최근에는 메타버스 관련한 2개의 특허를 출원했다.\n학습자가 메타버스 상에서 AI가 추천하는 콘텐츠를 학습하면서 업무에 바로 적용할 수 있는 지식을 얻거나 관련 역량을 개발할 수 있도록 구성한 기술이다.\n민승재 대표는 \\\"에듀테크에 대한 연구개발에 지속 투자해 에듀테크 스마트러닝 기업으로서의 위상을 높여나가겠다\\\"고 말했다.\n인더스트리미디어는 10여년 동안 국내 스마트러닝 시장을 선도하며 차별화된 서비스를 제공해오고 있다.\n국내 최다 마이크로콘텐츠를 보유하고 있으며 '유밥(ubob)'이라는 솔루션을 통해 2500여개 기업의 스마트러닝을 책임지고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인더스트리미디어(대표 민승재)가 스마트러닝 관련 신기술에 대해 연이어 특허를 등록하며 시장 선도 기업 입지를 공고히 하고 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인더스트리미디어는 스마트러닝 업계의 난제로 거론되는 '콜드 스타트(cold start)' 문제를 해결한 기술을 특허등록 했다고 17일 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "콜드 스타트는 처음 스마트러닝을 사용하는 학습자의 경우 기존 학습데이터가 없어 어떤 콘텐츠를 학습하는 것이 좋은지 추천하기가 어려운 상황을 말한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인더스트리미디어는 이 문제를 해결하기 위해 'TF-IDF' 방식을 적용했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우선 콘텐츠들을 클러스터링하고 각 클러스터의 대표 콘텐츠를 선정한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대표 콘텐츠 중에서 학습자가 관심 있는 콘텐츠 3개를 고르면 시스템이 해당 콘텐츠를 포함하는 클러스터에서 우수 콘텐츠를 학습자에게 추천하는 방식이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 앞서 명함인식 기반 콘텐츠 추천 기술 관련 특허도 획득한 바 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 기술은 학습자 명함을 인식한 뒤 회사 이름과 직무, 직급과 같은 정보를 추출해 해당 직무, 직급, 산업의 학습자들이 어떤 콘텐츠를 학습했는지를 분석한다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 학습자 개인에게 맞춤화된 콘텐츠를 추천해준다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "학습자가 자신의 명함을 사진으로 찍으면 9초 이내에 명함 내용을 인식한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "작년과 재작년에도 신기술 특허를 등록했다. 'AiLearnö'으로 명명된 기술은 기계학습 기반의 인공지능(AI) 콘텐츠 추천 기술이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "학습자의 직무, 직급, 산업, 과거 학습이력, 역량 수준, 관심 분야, 비슷한 성향을 보이는 학습자나 준거집단의 학습패턴, 최근 이슈에 관한 빅데이터를 분석해 학습자에게 최적화된 콘텐츠를 추천해준다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "최근에는 메타버스 관련한 2개의 특허를 출원했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "학습자가 메타버스 상에서 AI가 추천하는 콘텐츠를 학습하면서 업무에 바로 적용할 수 있는 지식을 얻거나 관련 역량을 개발할 수 있도록 구성한 기술이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "민승재 대표는 \\\"에듀테크에 대한 연구개발에 지속 투자해 에듀테크 스마트러닝 기업으로서의 위상을 높여나가겠다\\\"고 말했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "인더스트리미디어는 10여년 동안 국내 스마트러닝 시장을 선도하며 차별화된 서비스를 제공해오고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "국내 최다 마이크로콘텐츠를 보유하고 있으며 '유밥(ubob)'이라는 솔루션을 통해 2500여개 기업의 스마트러닝을 책임지고 있다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인더스트리미디어, 스마트러닝 난제 기술로 해결한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

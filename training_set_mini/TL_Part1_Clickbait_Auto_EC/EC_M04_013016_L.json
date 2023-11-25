@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013016",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "대기업 집단 내부 지분율 감소",
+		"newsSubTitle": "지난해보다 3.0%P↓",
+		"newsContent": "대기업 집단의 내부 지분율이 28.7%로 지난해(31.7%, 62개)보다 3.0%p 감소한 것으로 나타났다.\n내부 지분율은 계열회사 전체 자본금 중 총수·친족·임원 및 계열회사, 비영리 법인 등이 보유한 주식 지분이 차지하는 비중이다.\n공정거래위원회는 10일 이같은 내용이 담긴 국내 63개 상호출자제한 기업집단의 주식 소유현황을 공개했다.\n이번 공개자료를 보면, 총수 있는 집단(40개)의 내부 지분율은 54.7%로 지난해(54.8%, 43개 집단)와 비슷한 수준이다.\n총수일가(4.2%)와 비영리 법인·임원(2.2%) 등의 지분율이 지난해보다 0.2%p, 0.1%p씩 감소하고, 계열회사 지분율(48.3%)은 지난해보다 0.2%p 증가했다.\n계열사 간 합병, 증자·감자, 계열사 편입·제외 등 기업 구조조정과 일부 집단의 신규 지정이 지분율의 일부 변동을 초래한 것으로 보인다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대기업 집단의 내부 지분율이 28.7%로 지난해(31.7%, 62개)보다 3.0%p 감소한 것으로 나타났다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "내부 지분율은 계열회사 전체 자본금 중 총수·친족·임원 및 계열회사, 비영리 법인 등이 보유한 주식 지분이 차지하는 비중이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공정거래위원회는 10일 이같은 내용이 담긴 국내 63개 상호출자제한 기업집단의 주식 소유현황을 공개했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 공개자료를 보면, 총수 있는 집단(40개)의 내부 지분율은 54.7%로 지난해(54.8%, 43개 집단)와 비슷한 수준이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "총수일가(4.2%)와 비영리 법인·임원(2.2%) 등의 지분율이 지난해보다 0.2%p, 0.1%p씩 감소하고, 계열회사 지분율(48.3%)은 지난해보다 0.2%p 증가했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "계열사 간 합병, 증자·감자, 계열사 편입·제외 등 기업 구조조정과 일부 집단의 신규 지정이 지분율의 일부 변동을 초래한 것으로 보인다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AI·조직개편·이종산업…시중은행, 디지털 금융 '광폭행보'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

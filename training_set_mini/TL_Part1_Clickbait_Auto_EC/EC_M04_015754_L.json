@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015754",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "'알파고 아버지' 하사비스, 바쁜 일정 속 대전찾은 까닭은?",
+		"newsSubTitle": "학생 대상 '인공지능과 미래' 강연… 이상완 교수와의 특별한 인연으로 성사",
+		"newsContent": "▲ 인공지능 컴퓨터 알파고를 개발한 구글 딥마인드 최고경영자 데미스 허사비스가 11일 오후 대전 유성구 한국과학기술원에서 열린 '바이오 및 뇌공학과석학 초청강연'에서 강연하고 있다.\n/연합 인공지능(AI) 프로그램 '알파고(AlphaGo)'의 아버지 데미스 하사비스(Demis Hassabis) 박사가 11일 오후 2시에 대전 유성구 KAIST를 찾았다.\n이날 하사비스 박사는 KAIST 바이오및뇌공학과가 개최한 특별 세미나에서 카이스트 학생들을 대상으로 초청강연을 했다.\n강연의 주제는 '인공지능과 미래'였다.\n하사비스 박사는 강연을 통해 인공지능(AI), 딥러닝(deep learning), 알파고(AlphaGo) 등 에 대해 설명했다.\n하사비스 박사는 강연 끝머리에 '구글 딥 마인드는 채용 중'이라는 프레젠테이션 화면을 띄워 카이스트 학생들의 박수를 자아내기도 했다.\n한편, 하사비스 박사가 촉박한 국내 일정에도 KAIST를 찾아 직접 강연에 나선 이유는 이상완 KAIST 바이오및뇌공학과 교수와의 인연 때문으로 알려졌다.\n최소망 기자 ▲ 인공지능 컴퓨터 알파고를 개발한 구글 딥마인드 최고경영자 데미스 허사비스가 11일 오후 대전 유성구 한국과학기술원에서 열린 '바이오 및 뇌공학과 석학 초청강연'에서 '인공지능과 미래'를 주제로 강연하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 인공지능 컴퓨터 알파고를 개발한 구글 딥마인드 최고경영자 데미스 허사비스가 11일 오후 대전 유성구 한국과학기술원에서 열린 '바이오 및 뇌공학과석학 초청강연'에서 강연하고 있다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "/연합 인공지능(AI) 프로그램 '알파고(AlphaGo)'의 아버지 데미스 하사비스(Demis Hassabis) 박사가 11일 오후 2시에 대전 유성구 KAIST를 찾았다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 하사비스 박사는 KAIST 바이오및뇌공학과가 개최한 특별 세미나에서 카이스트 학생들을 대상으로 초청강연을 했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강연의 주제는 '인공지능과 미래'였다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하사비스 박사는 강연을 통해 인공지능(AI), 딥러닝(deep learning), 알파고(AlphaGo) 등 에 대해 설명했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하사비스 박사는 강연 끝머리에 '구글 딥 마인드는 채용 중'이라는 프레젠테이션 화면을 띄워 카이스트 학생들의 박수를 자아내기도 했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 하사비스 박사가 촉박한 국내 일정에도 KAIST를 찾아 직접 강연에 나선 이유는 이상완 KAIST 바이오및뇌공학과 교수와의 인연 때문으로 알려졌다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최소망 기자 ▲ 인공지능 컴퓨터 알파고를 개발한 구글 딥마인드 최고경영자 데미스 허사비스가 11일 오후 대전 유성구 한국과학기술원에서 열린 '바이오 및 뇌공학과 석학 초청강연'에서 '인공지능과 미래'를 주제로 강연하고 있다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "해외출장 잦은 특구 기관장은?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

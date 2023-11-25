@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332833",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[2017 SAP 사파이어나우](동영상)목소리로 '빌딩' 관리하는 시대 열린다",
+		"newsSubTitle": "",
+		"newsContent": "\\\"Emergency(비상상황)!\\\" 18일(현지시간) 미국 올랜도에서 열린 '사파이어나우' 행사장에서 SAP 한 직원이 비상상황이라고 말하자 아마존 인공지능 스피커가 목소리를 인식, 모형으로 제작된 빌딩 건물에 정보를 보낸다.\n비상상황을 얘기한 지 수 초도 되지 않아 빌딩이 비상 상황등이 깜빡인다.\n클라우드 플랫폼과 인공지능 음성인식 서비스가 결합해 만든 스마트 빌딩 관리 시스템이다.\n인공지능 스피커가 목소리를 인지하고 명령을 내리는 방식이다.\n비상상황뿐 아니라 엘리베이터 관리, 출입문 관리 등 빌딩 관리가 목소리로 가능하다.\n시스템은 아직 시험 단계다.\n인공지능 스피커 음성 인식, 명령 전달 기능 보완이 더 필요하다.\n인공지능 스피커 기능과 머신러닝 등 시스템이 업그레이드되면 빌딩 관리 시스템 변화가 예상된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "\\\"Emergency(비상상황)!\\\" 18일(현지시간) 미국 올랜도에서 열린 '사파이어나우' 행사장에서 SAP 한 직원이 비상상황이라고 말하자 아마존 인공지능 스피커가 목소리를 인식, 모형으로 제작된 빌딩 건물에 정보를 보낸다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비상상황을 얘기한 지 수 초도 되지 않아 빌딩이 비상 상황등이 깜빡인다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "클라우드 플랫폼과 인공지능 음성인식 서비스가 결합해 만든 스마트 빌딩 관리 시스템이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인공지능 스피커가 목소리를 인지하고 명령을 내리는 방식이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비상상황뿐 아니라 엘리베이터 관리, 출입문 관리 등 빌딩 관리가 목소리로 가능하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시스템은 아직 시험 단계다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인공지능 스피커 음성 인식, 명령 전달 기능 보완이 더 필요하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인공지능 스피커 기능과 머신러닝 등 시스템이 업그레이드되면 빌딩 관리 시스템 변화가 예상된다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2017 SAP 사파이어나우](동영상)목소리로 '빌딩' 관리하는 시대 열린다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

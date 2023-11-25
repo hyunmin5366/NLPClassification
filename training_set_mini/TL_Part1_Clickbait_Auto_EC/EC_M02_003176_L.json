@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003176",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "KB국민은행, 금융소비자 보호 위한 'AI 금융상담시스템' 구축",
+		"newsSubTitle": "고객에게 정확한 상품 설명과 적법한 판매 절차 준수하기 위한 서비스",
+		"newsContent": "KB국민은행은 금융소비자 보호를 위해 인공지능(AI) 금융상담시스템을 구축했다고 23일 밝혔다.\nAI 금융상담시스템은 금융투자상품 판매 시 고객에게 정확한 상품 설명과 함께 소비자 보호 의무에 따른 적법한 판매 절차를 준수하기 위한 서비스다.\n이번 시스템에서는 텍스트 데이터를 음성 파일로 변환하는 기술(Text to Speech·TTS)과 음성 파일을 텍스트 데이터로 변환하는 기술(Speech to Text·STT)이 활용된다.\nTTS는 고객에게 안내할 상품을 음성으로 설명할 때 사용되며 STT는 고객 상담 녹취 정보를 분석해 불완전 판매 여부를 검증할 때 활용된다.\n특히 이번에 개발한 음성인식 기술은 영업점에서 수개월 동안 학습을 통해 90% 이상의 음성 인식이 가능하다.\nAI 금융상담시스템의 주요 기능으로는 △상품 설명에 대한 자동 리딩 △투자성향에 적합한 상품 추천 △고객 맞춤형 상품 설명 △상담 시 금칙어 사용 여부 검증 △설명 내용 자동 녹취 및 저장 기능 △녹취 시간·불완전판매 현황 모니터링 △주요 불완전판매 유형 분석 등이 있다.\n이를 통해 영업점 직원의 금융투자상품 상담을 지원한다.\n이번 시스템은 타 금융회사에서 제공되는 상품 자동설명 기능 이외에도 시장 전망, 적합상품 안내까지 가능하다.\n또한 AI가 상품 신규 상담내용을 실시간으로 분석해 상담 진행 과정에서 불완전판매 여부를 자체 점검할 수도 있다.\n상담 과정에 오류가 있으면, AI 금융상담시스템이 즉시 직원에게 안내해준다.\n신규프로세스를 실시간으로 분석해 불완전판매를 차단하는 기능은 은행권 최초의 서비스다.\nKB국민은행 관계자는 미디어SR에 \\\"AI 금융상담시스템 도입을 통해 KB국민은행의 금융소비자보호가 한층 강화될 것\\\"이라며 \\\"앞으로도 고객의 관점에서 고품질 자산관리서비스를 제공할 수 있도록 프로세스를 개선해 나갈 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KB국민은행은 금융소비자 보호를 위해 인공지능(AI) 금융상담시스템을 구축했다고 23일 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AI 금융상담시스템은 금융투자상품 판매 시 고객에게 정확한 상품 설명과 함께 소비자 보호 의무에 따른 적법한 판매 절차를 준수하기 위한 서비스다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 시스템에서는 텍스트 데이터를 음성 파일로 변환하는 기술(Text to Speech·TTS)과 음성 파일을 텍스트 데이터로 변환하는 기술(Speech to Text·STT)이 활용된다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "TTS는 고객에게 안내할 상품을 음성으로 설명할 때 사용되며 STT는 고객 상담 녹취 정보를 분석해 불완전 판매 여부를 검증할 때 활용된다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 이번에 개발한 음성인식 기술은 영업점에서 수개월 동안 학습을 통해 90% 이상의 음성 인식이 가능하다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "AI 금융상담시스템의 주요 기능으로는 △상품 설명에 대한 자동 리딩 △투자성향에 적합한 상품 추천 △고객 맞춤형 상품 설명 △상담 시 금칙어 사용 여부 검증 △설명 내용 자동 녹취 및 저장 기능 △녹취 시간·불완전판매 현황 모니터링 △주요 불완전판매 유형 분석 등이 있다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 통해 영업점 직원의 금융투자상품 상담을 지원한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이번 시스템은 타 금융회사에서 제공되는 상품 자동설명 기능 이외에도 시장 전망, 적합상품 안내까지 가능하다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또한 AI가 상품 신규 상담내용을 실시간으로 분석해 상담 진행 과정에서 불완전판매 여부를 자체 점검할 수도 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "상담 과정에 오류가 있으면, AI 금융상담시스템이 즉시 직원에게 안내해준다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "신규프로세스를 실시간으로 분석해 불완전판매를 차단하는 기능은 은행권 최초의 서비스다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "KB국민은행 관계자는 미디어SR에 \\\"AI 금융상담시스템 도입을 통해 KB국민은행의 금융소비자보호가 한층 강화될 것\\\"이라며 \\\"앞으로도 고객의 관점에서 고품질 자산관리서비스를 제공할 수 있도록 프로세스를 개선해 나갈 계획\\\"이라고 말했다.",
+				"sentenceSize": 134
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소노인터내셔널, 단양군과 양방산 케이블카 조성 MOU",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

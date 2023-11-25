@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006521",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "'집값 더 내리기전에…' 주택연금 가입 역대 최고",
+		"newsSubTitle": "5월 신규가입 160건… 대전충남은 6건",
+		"newsContent": "지난달 주택연금 신규가입 건수가 영업일수 기준으로 역대 최고치를 나타냈다.\n8일 한국주택금융공사에 따르면 5월중 주택연금 신규가입은 160건, 보증공급액은 2361억원을 기록했다.\n이는 지난해 같은 기간 실적보다 각각 14%(19건), 11%(235억원) 증가한 수치다.\n또한, 월단위 최대 실적을 기록했던 지난 4월(신규가입 180건, 보증공급액 2797억원)에 비해서는 신규 가입이 소폭 줄었다.\n하지만, 5월 영업일수(19일)가 4월(22일)에 비해 14%(3일) 감소했기 때문에 이를 반영할 경우 하루평균 가입은 8.2건에서 8.4건으로 2.4% 증가해 역대 최대 기록이다.\n지난달 대전·충남지역 주택연금 신규가입 건수는 6건, 보증공급액은 5490억원을 기록했다.\n주택금융공사 관계자는 “주택연금 가입 증가는 최근 집값 하락에 따라 월지급금이 줄어들 것을 우려한 고령자들이 서둘러 가입하는 경향과 고령자 스스로 노후자금을 활용하는 분위기가 전반적으로 확산되고 있기 때문”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 주택연금 신규가입 건수가 영업일수 기준으로 역대 최고치를 나타냈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 한국주택금융공사에 따르면 5월중 주택연금 신규가입은 160건, 보증공급액은 2361억원을 기록했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난해 같은 기간 실적보다 각각 14%(19건), 11%(235억원) 증가한 수치다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한, 월단위 최대 실적을 기록했던 지난 4월(신규가입 180건, 보증공급액 2797억원)에 비해서는 신규 가입이 소폭 줄었다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만, 5월 영업일수(19일)가 4월(22일)에 비해 14%(3일) 감소했기 때문에 이를 반영할 경우 하루평균 가입은 8.2건에서 8.4건으로 2.4% 증가해 역대 최대 기록이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난달 대전·충남지역 주택연금 신규가입 건수는 6건, 보증공급액은 5490억원을 기록했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주택금융공사 관계자는 “주택연금 가입 증가는 최근 집값 하락에 따라 월지급금이 줄어들 것을 우려한 고령자들이 서둘러 가입하는 경향과 고령자 스스로 노후자금을 활용하는 분위기가 전반적으로 확산되고 있기 때문”이라고 말했다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "65세 고령인구 16만명… 대전인구 10% 비중",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

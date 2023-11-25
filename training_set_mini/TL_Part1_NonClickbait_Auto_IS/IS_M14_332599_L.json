@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332599",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW·보안",
+		"newsTitle": "美 정부, '워너크라이' 공격 배후로 북한 공식 지목",
+		"newsSubTitle": "",
+		"newsContent": "미국 정부가 올 초 전 세계 병원과 은행, 기업 네트워크를 마비시킨 '워너크라이' 사이버 공격 배후로 북한을 공식 지목했다.\n18일(현지시간) 로이터통신에 따르면 토머스 보서트 백악관 국토안보보좌관은 월스트리트저널(WSJ)에 기고한 칼럼에서 북한을 워너크라이 랜섬웨어 배후로 지목했다.\n그는 \\\"사이버이든 또 다른 종류이든 북한의 강화되는 공격 능력을 억제하기 위해 최대한 압력 전략을 구사하겠다\\\"고 밝혔다.\n워너크라이는 마이크로소프트(MS) 윈도 운용체계 취약점을 겨냥한 랜섬웨어다.\n감염된 파일을 풀려면 대가를 지불해야 한다. 5월 시작된 워너크라이 공격으로 전 세계 150여개국에서 23만 대 이상 컴퓨터가 감염됐다.\n영국은 국민보건서비스(NHS) 등 의료체계가 마비됐다.\n그동안 워너크라이 랜섬웨어 공격 배후로는 북한이 여러 차례 지목됐으나 미 정부가 이를 공식 인정한 것은 처음이다.\n보서트 보좌관은 마이크로소프트(MS) 추적 결과 북한 정부와 연계된 사실을 확인했다는 점을 근거로 제시했다.\n미 정부는 19일 성명을 내고 이같은 조사결과를 공식 발표할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 정부가 올 초 전 세계 병원과 은행, 기업 네트워크를 마비시킨 '워너크라이' 사이버 공격 배후로 북한을 공식 지목했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일(현지시간) 로이터통신에 따르면 토머스 보서트 백악관 국토안보보좌관은 월스트리트저널(WSJ)에 기고한 칼럼에서 북한을 워너크라이 랜섬웨어 배후로 지목했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 \\\"사이버이든 또 다른 종류이든 북한의 강화되는 공격 능력을 억제하기 위해 최대한 압력 전략을 구사하겠다\\\"고 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "워너크라이는 마이크로소프트(MS) 윈도 운용체계 취약점을 겨냥한 랜섬웨어다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "감염된 파일을 풀려면 대가를 지불해야 한다. 5월 시작된 워너크라이 공격으로 전 세계 150여개국에서 23만 대 이상 컴퓨터가 감염됐다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영국은 국민보건서비스(NHS) 등 의료체계가 마비됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그동안 워너크라이 랜섬웨어 공격 배후로는 북한이 여러 차례 지목됐으나 미 정부가 이를 공식 인정한 것은 처음이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "보서트 보좌관은 마이크로소프트(MS) 추적 결과 북한 정부와 연계된 사실을 확인했다는 점을 근거로 제시했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "미 정부는 19일 성명을 내고 이같은 조사결과를 공식 발표할 계획이다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美 정부, '워너크라이' 공격 배후로 북한 공식 지목",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326900",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[카드뉴스] 날 '풀'로 보지마, 벌레잡는 식물",
+		"newsSubTitle": "",
+		"newsContent": "먹이사슬이라 들어보셨나요?\n이는 생태계에서 생산자인 식물이 생산하는 유기물을 바탕으로 군집 내에 구성되는 피식자-포식자 상호 관계에 의한 연결고리를 뜻합니다.\n피라미드 구조의 이 먹이사슬의 가장 아랫부분에 속하는 것이 바로 식물입니다.\n일반적으로 식물은 먹이사슬의 하위계체인 벌레의 먹이감이 되기 때문에 가장 약하고 무력한 존재로 알려져 있습니다.\n그러나 이런 사슬관계를 역행하는 식물들이 존재합니다.\n바로 식충식물이죠.\n식충식물이란 벌레를 잡아 그 영양소로 살아가는 식물들로, 보통은 곤충을 잡아먹지만 드물게는 개구리, 쥐 심지어는 작은 새까지 잡아먹는 모습에 충격을 줬습니다.\n식충식물의 종류와 특성에 대해 알아보겠습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "먹이사슬이라 들어보셨나요?",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 생태계에서 생산자인 식물이 생산하는 유기물을 바탕으로 군집 내에 구성되는 피식자-포식자 상호 관계에 의한 연결고리를 뜻합니다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "피라미드 구조의 이 먹이사슬의 가장 아랫부분에 속하는 것이 바로 식물입니다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일반적으로 식물은 먹이사슬의 하위계체인 벌레의 먹이감이 되기 때문에 가장 약하고 무력한 존재로 알려져 있습니다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 이런 사슬관계를 역행하는 식물들이 존재합니다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "바로 식충식물이죠.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "식충식물이란 벌레를 잡아 그 영양소로 살아가는 식물들로, 보통은 곤충을 잡아먹지만 드물게는 개구리, 쥐 심지어는 작은 새까지 잡아먹는 모습에 충격을 줬습니다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "식충식물의 종류와 특성에 대해 알아보겠습니다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[카드뉴스] 날 '풀'로 보지마, 벌레잡는 식물",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350287",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"늘어나는 악성코드 해킹위협, AI로 대비하세요\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "한국인터넷진흥원(KISA)이 인공지능(AI)을 활용해 악성코드를 분석할 때 활용할 수 있는 악성코드 특징정보를 공개한다고 8일 밝혔다.\n디지털 전환기를 맞아 해킹 등 사이버 위협이 늘어나는 가운데, 국내 다양한 기업들이 AI로 침해사고를 막을 수 있도록 지원하기 위해서다.\n이번에 공개하는 악성코드 특징정보에는 수년간 침해사고를 분석·대응해온 KISA의 노하우와 실제 공격정보가 포함됐다.\n각 기업은 이를 활용해 AI 기반 악성코드 분석기술에 특징정보를 활용하고 자체 대응능력을 키울 수 있게 될 전망이다.\n구체적으로 △파일의 일반적인 속성을 담은 메타데이터 △파일의 악성행위 정보(Static Info) △네트워크 △악성코드 공격의 전략 및 기술(ATT&CK Matrix) 등 총 6가지로 구성됐다.\n항목별 세부 특징정보 72개와 예시 데이터, 설명이 포함됐다.\nKISA는 산학연 관계자가 요청하면 악성코드 샘플 등이 담긴 원천데이터와 특징정보 데이터셋도 제공할 계획이다.\n최근 사이버 보안 사고가 급증하는 모바일 악성앱 등의 관련 정보도 공유할 계획이다.\n최근 지능화하는 사이버위협에 대응해 국내 정보보안 분야에서도 다양한 기술이 연구·개발 중이다.\n하지만 개별 기업 차원에서 침해사고 현장의 원천데이터를 수집하거나 악성코드의 주요 특징정보를 분석하는 등 대응방안을 마련하기는 쉽지 않았다.\n이원태 KISA 원장은 \\\"이번 자료공개가 국내 정보보호 기업의 사이버 위협 대응능력이 향상되는 계기가 되길 기대한다\\\"며 \\\"앞으로도 최신 ICT기술을 접목해 국내에 유입되는 대량 악성코드를 신속하게 분석하고 유관기관에 공유하는 등 국가 사이버 방역에 앞장서겠다\\\"고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국인터넷진흥원(KISA)이 인공지능(AI)을 활용해 악성코드를 분석할 때 활용할 수 있는 악성코드 특징정보를 공개한다고 8일 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "디지털 전환기를 맞아 해킹 등 사이버 위협이 늘어나는 가운데, 국내 다양한 기업들이 AI로 침해사고를 막을 수 있도록 지원하기 위해서다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번에 공개하는 악성코드 특징정보에는 수년간 침해사고를 분석·대응해온 KISA의 노하우와 실제 공격정보가 포함됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "각 기업은 이를 활용해 AI 기반 악성코드 분석기술에 특징정보를 활용하고 자체 대응능력을 키울 수 있게 될 전망이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구체적으로 △파일의 일반적인 속성을 담은 메타데이터 △파일의 악성행위 정보(Static Info) △네트워크 △악성코드 공격의 전략 및 기술(ATT&CK Matrix) 등 총 6가지로 구성됐다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "항목별 세부 특징정보 72개와 예시 데이터, 설명이 포함됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KISA는 산학연 관계자가 요청하면 악성코드 샘플 등이 담긴 원천데이터와 특징정보 데이터셋도 제공할 계획이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최근 사이버 보안 사고가 급증하는 모바일 악성앱 등의 관련 정보도 공유할 계획이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최근 지능화하는 사이버위협에 대응해 국내 정보보안 분야에서도 다양한 기술이 연구·개발 중이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하지만 개별 기업 차원에서 침해사고 현장의 원천데이터를 수집하거나 악성코드의 주요 특징정보를 분석하는 등 대응방안을 마련하기는 쉽지 않았다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이원태 KISA 원장은 \\\"이번 자료공개가 국내 정보보호 기업의 사이버 위협 대응능력이 향상되는 계기가 되길 기대한다\\\"며 \\\"앞으로도 최신 ICT기술을 접목해 국내에 유입되는 대량 악성코드를 신속하게 분석하고 유관기관에 공유하는 등 국가 사이버 방역에 앞장서겠다\\\"고 강조했다.",
+				"sentenceSize": 156
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"늘어나는 악성코드 해킹위협, AI로 대비하세요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

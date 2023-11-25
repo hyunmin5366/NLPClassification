@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336979",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "네이버 지방선거 페이지 오픈… 실명 댓글+최신순 정렬",
+		"newsSubTitle": "",
+		"newsContent": "6.13 지방선거 뉴스 댓글은 최신순으로만 제공되고 실명으로만 달 수 있다.\n헤드라인은 인공지능(AI)이 맡는다.\n네이버(대표 한성숙)는 15일 '2018 제7회 지방선거' 특집 페이지를 공개했다.\n네이버는 지방선거 기간동안 특정 상위 댓글에 관심이 집중되는 문제를 최소화하기 위해 정치섹션 댓글 서비스를 개선했다.\n정치 섹션과 선거 페이지 본문 하단 영역에 바로 댓글 내용이 노출되지 않도록 했다.\n본문에 작성된 댓글 수만 제공하고 댓글 페이지로 넘어간다.\n댓글은 최신순으로 정렬된다.\n언론사 페이지에서 작성한 댓글은 언론사 댓글로 이동해 바로 확인해 볼 수 있다.\n페이스북이나 트위터 계정을 통한 댓글 작성은 제한된다.\n공식 선거운동 기간인 31일부터 내달 12일까지는 실명으로만 댓글을 달 수 있다.\n공직선거법 제82조의 6에 따른 조치다.\n개별 댓글에 대한 공감이나 비공감 표시도 마찬가지다.\n제공 중인 다수 이용자의 접기 요청에 따른 일반 댓글 접기는 접기 요청을 한 해당 이용자에 대해서만 적용된다.\n지방선거 특집 페이지는 AI 기술에 따라 자동 추천된 기사로 제공된다.\n클러스터링 기술이 기반이다.\n클러스터링 기술은 기사 본문 형태소를 분석, 기사 본문 간 유사도를 측정·분류해 유사한 기사끼리 묶는다.\n네이버 뉴스로 전달되는 기사를 대상으로 10분 단위로 자동분류하고 묶어 이슈 묶음을 만든다.\n뉴스 묶음은 최신성과 유사 이슈로 묶인 기사의 양, 기사 길이 등 다양한 요소에 따라 배열 순서가 정해진다.\n개인 소비 성향에 가장 부합하는 기사가 자동 추천된다.\n동일한 헤드라인 뉴스 묶음이라도 헤드라인 대표기사는 이용자마다 다르게 보일 수 있다.\n로그인을 하지 않은 이용자는 클러스터링 알고리즘에 따라 달라진다.\n특집 페이지 주요뉴스는 언론사가 지방선거 섹션으로 전송한 기사 중에서 AI 기반 추천 시스템 에어스(AiRS)가 자동 추천하는 기사로 구성된다.\n네이버 관계자는 “후보자 등록이 마감되면 네이버 지방선거 특집 페이지에서 후보자 페이지를 열고 사전투표 현황과 토론회 등 다양한 정보를 제공할 예정”이라면서 “특집 페이지 1차 오픈 후 순차적으로 다양한 서비스를 소개할 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "6.13 지방선거 뉴스 댓글은 최신순으로만 제공되고 실명으로만 달 수 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "헤드라인은 인공지능(AI)이 맡는다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버(대표 한성숙)는 15일 '2018 제7회 지방선거' 특집 페이지를 공개했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버는 지방선거 기간동안 특정 상위 댓글에 관심이 집중되는 문제를 최소화하기 위해 정치섹션 댓글 서비스를 개선했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정치 섹션과 선거 페이지 본문 하단 영역에 바로 댓글 내용이 노출되지 않도록 했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "본문에 작성된 댓글 수만 제공하고 댓글 페이지로 넘어간다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "댓글은 최신순으로 정렬된다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "언론사 페이지에서 작성한 댓글은 언론사 댓글로 이동해 바로 확인해 볼 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "페이스북이나 트위터 계정을 통한 댓글 작성은 제한된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "공식 선거운동 기간인 31일부터 내달 12일까지는 실명으로만 댓글을 달 수 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "공직선거법 제82조의 6에 따른 조치다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "개별 댓글에 대한 공감이나 비공감 표시도 마찬가지다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "제공 중인 다수 이용자의 접기 요청에 따른 일반 댓글 접기는 접기 요청을 한 해당 이용자에 대해서만 적용된다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "지방선거 특집 페이지는 AI 기술에 따라 자동 추천된 기사로 제공된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "클러스터링 기술이 기반이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "클러스터링 기술은 기사 본문 형태소를 분석, 기사 본문 간 유사도를 측정·분류해 유사한 기사끼리 묶는다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "네이버 뉴스로 전달되는 기사를 대상으로 10분 단위로 자동분류하고 묶어 이슈 묶음을 만든다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "뉴스 묶음은 최신성과 유사 이슈로 묶인 기사의 양, 기사 길이 등 다양한 요소에 따라 배열 순서가 정해진다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "개인 소비 성향에 가장 부합하는 기사가 자동 추천된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "동일한 헤드라인 뉴스 묶음이라도 헤드라인 대표기사는 이용자마다 다르게 보일 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "로그인을 하지 않은 이용자는 클러스터링 알고리즘에 따라 달라진다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "특집 페이지 주요뉴스는 언론사가 지방선거 섹션으로 전송한 기사 중에서 AI 기반 추천 시스템 에어스(AiRS)가 자동 추천하는 기사로 구성된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "네이버 관계자는 “후보자 등록이 마감되면 네이버 지방선거 특집 페이지에서 후보자 페이지를 열고 사전투표 현황과 토론회 등 다양한 정보를 제공할 예정”이라면서 “특집 페이지 1차 오픈 후 순차적으로 다양한 서비스를 소개할 것”이라고 밝혔다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버 지방선거 페이지 오픈… 실명 댓글+최신순 정렬",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

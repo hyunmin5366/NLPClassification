@@ -1,0 +1,312 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339847",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "가족 외 침입자만 탐지하는 CCTV 개발…영상감시 시대 대중화 눈앞",
+		"newsSubTitle": "",
+		"newsContent": "가족 외 침입자 모습을 선택해서 녹화하고 경보음을 울리는 영상감시 시대가 열렸다.\n사물인터넷(IoT) 기반 빅데이터 분석 전문 스타트업 스타코프(대표 안태효)는 지능형 폐쇄회로(CC)TV 운영비를 대폭 줄일 수 있는 기술을 개발했다.\n재프로그램화반도체(FPGA)와 IoT 기술이 활용됐다.\n지능형 CCTV 대중화를 가로막던 인프라 구축비를 크게 낮출 수 있을 전망이다.\n현재도 지능형 CCTV는 많이 개발돼 있다.\n그러나 이 같은 CCTV가 실제 적용된 사례는 드물다.\n막대한 프로세싱 파워를 감당하지 못하기 때문이다.\n지능형 CCTV는 수집한 데이터를 서버로 보내 분석 작업을 맡긴다.\n중앙처리장치(CPU) 성능과 서버 용량이 뒷받침돼야만 원활한 분석이 가능하다.\n문제는 서버 증설 비용이다.\nCCTV 10대 정보 분석에만 구축비가 1000만원 넘게 든다.\n대형 건물에서는 CCTV를 수백대 설치하기도 한다.\n수십억원을 들여야만 프로세싱 파워를 이겨낼 수 있다.\n지능형 CCTV를 달아 놓고 녹화용으로만 쓰는 사례가 허다한 이유다.\n스타코프는 FPGA와 IoT 기술을 활용, 이 같은 문제를 풀어냈다.\nFPGA에 자체 개발 알고리즘을 적용했다.\nCCTV 데이터가 서버로 가기 전에 인공지능(AI)이 먼저 중요 내용을 걸러내도록 설계했다.\n예컨대 가정용 방범 CCTV는 가족 외 다른 사람이 나타날 때만 경보음이 울리도록 설정할 수 있다.\n침입자 발생 정보만 서버로 보내는 식이다.\n프로세싱 부담을 줄일 수 있다.\n회사 측은 CCTV 수만대를 돌려도 서버를 추가하지 않아도 된다고 설명했다.\n안태효 스타코프 대표는 \\\"특별한 기술이 아니어도 어떻게 활용하느냐에 따라 세상을 바꿀 수 있다\\\"면서 \\\"산업 곳곳에 쓰이고 있는 FPGA, 빅데이터, AI 등 기술을 융합해 지능형 CCTV를 합리 비용으로 쓸 수 있다\\\"고 말했다.\n스타코프는 에너지 전문 스타트업이다.\n한국전력공사가 운영하는 'K-에너지스타트업 프로그램' 지원을 받고 있다.\n가상 계측장치를 개발했다.\n공장 내 설비별 전력 사용량을 실시간 계산할 수 있다.\n개별 설비에 있는 부하 특성을 반영해 가상의 결과 수치를 산출하는 구조다.\n가상 계측장치는 이렇게 모은 데이터를 AI로 분석, 중소 제조업체 대상 에너지 효율화를 돕는다.\n응용 기술로 전기차 콘센트를 내놨다.\n전기차만 가려내 전력 사용량을 알려준다.\n기존에는 공용 콘센트에 전기차용 계량기를 별도로 달아야 했다.\n다른 전자기기와 구분해서 충전 요금을 매기기 위해서다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 32,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가족 외 침입자 모습을 선택해서 녹화하고 경보음을 울리는 영상감시 시대가 열렸다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사물인터넷(IoT) 기반 빅데이터 분석 전문 스타트업 스타코프(대표 안태효)는 지능형 폐쇄회로(CC)TV 운영비를 대폭 줄일 수 있는 기술을 개발했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "재프로그램화반도체(FPGA)와 IoT 기술이 활용됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지능형 CCTV 대중화를 가로막던 인프라 구축비를 크게 낮출 수 있을 전망이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재도 지능형 CCTV는 많이 개발돼 있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 이 같은 CCTV가 실제 적용된 사례는 드물다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "막대한 프로세싱 파워를 감당하지 못하기 때문이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지능형 CCTV는 수집한 데이터를 서버로 보내 분석 작업을 맡긴다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "중앙처리장치(CPU) 성능과 서버 용량이 뒷받침돼야만 원활한 분석이 가능하다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "문제는 서버 증설 비용이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "CCTV 10대 정보 분석에만 구축비가 1000만원 넘게 든다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "대형 건물에서는 CCTV를 수백대 설치하기도 한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "수십억원을 들여야만 프로세싱 파워를 이겨낼 수 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "지능형 CCTV를 달아 놓고 녹화용으로만 쓰는 사례가 허다한 이유다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "스타코프는 FPGA와 IoT 기술을 활용, 이 같은 문제를 풀어냈다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "FPGA에 자체 개발 알고리즘을 적용했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "CCTV 데이터가 서버로 가기 전에 인공지능(AI)이 먼저 중요 내용을 걸러내도록 설계했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "예컨대 가정용 방범 CCTV는 가족 외 다른 사람이 나타날 때만 경보음이 울리도록 설정할 수 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "침입자 발생 정보만 서버로 보내는 식이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "프로세싱 부담을 줄일 수 있다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "회사 측은 CCTV 수만대를 돌려도 서버를 추가하지 않아도 된다고 설명했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "안태효 스타코프 대표는 \\\"특별한 기술이 아니어도 어떻게 활용하느냐에 따라 세상을 바꿀 수 있다\\\"면서 \\\"산업 곳곳에 쓰이고 있는 FPGA, 빅데이터, AI 등 기술을 융합해 지능형 CCTV를 합리 비용으로 쓸 수 있다\\\"고 말했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "스타코프는 에너지 전문 스타트업이다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "한국전력공사가 운영하는 'K-에너지스타트업 프로그램' 지원을 받고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "가상 계측장치를 개발했다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "공장 내 설비별 전력 사용량을 실시간 계산할 수 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "개별 설비에 있는 부하 특성을 반영해 가상의 결과 수치를 산출하는 구조다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "가상 계측장치는 이렇게 모은 데이터를 AI로 분석, 중소 제조업체 대상 에너지 효율화를 돕는다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "응용 기술로 전기차 콘센트를 내놨다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "전기차만 가려내 전력 사용량을 알려준다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "기존에는 공용 콘센트에 전기차용 계량기를 별도로 달아야 했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "다른 전자기기와 구분해서 충전 요금을 매기기 위해서다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가족 외 침입자만 탐지하는 CCTV 개발…영상감시 시대 대중화 눈앞",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

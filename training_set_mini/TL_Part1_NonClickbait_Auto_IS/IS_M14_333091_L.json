@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333091",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "중기/벤처",
+		"newsTitle": "인그래디언트 \\\"췌장암 전이 여부 AI 개발 도전\\\"…강창무 췌장암 전문의와 협업",
+		"newsSubTitle": "",
+		"newsContent": "인공지능(AI) 의료 스타트업 인그래디언트가 강창무 연세암병원 췌장담도암센터 간담췌외과 교수와 췌장암 림프절 전이 여부를 예측하는 AI 개발에 나섰다.\n췌장암 전이 여부를 사전에 확인하고 항암치료를 보조해 절제술 성공률을 높이는 게 목표다.\n이준호 인그래디언트 대표는 \\\"췌장암 절제 수술을 받은 환자들의 데이터를 받아 췌장암 형태와 림프절 전이의 상관관계를 분석하고 있다\\\"고 말했다.\n췌장암 환자의 5년 생존율은 13.9%다.\n조기 발견이 어렵고 재발 가능성이 높아 다른 암과 비교해 매우 낮은 편이다.\n한국간담췌외과학회 등 암 관련 8개 학회가 지난해 제정한 '한국 췌장암 진료 가이드라인'에 따르면 절제 수술 전 항암치료를 선행보조하면 생존율을 높일 수 있다.\n현재 림프절 전이 여부는 수술 전에 알 수 없어, 예측 AI가 개발되면 수술 전 항암치료를 시행해 생존율을 높이는 데 도움이 될 것으로 기대된다.\n예측 AI 개발에는 인그래디언트의 의료영상 데이터 분류 기술(메디라벨)을 활용하고 있다.\n기존에는 암세포 등을 일일이 손으로 체크한 후 색칠하는 방식으로 분류해 연구했는데, 인그래디언 기술은 클릭 한 번으로 비슷한 데이터가 반자동으로 선택돼 라벨링을 10배 단축할 수 있고, 정확도는 2배 이상 높인다.\n이 대표는 \\\"의료 프로젝트의 80% 이상이 데이터 라벨링에 소요된다\\\"며 \\\"데이터 가공 문제로 의료 AI 개발 프로젝트가 중단된 경우도 다반사\\\"라고 말했다.\n이어 \\\"의료 데이터 가공 환경이 갖춰져야만 경쟁력 있는 의료 AI 개발이 가능하다\\\"고 덧붙였다.\n이 대표가 의료 데이터 가공에 관심을 가진 건 누구나 고품질의 의료 서비스를 받는 세상을 만들고 싶어서다.\n그는 \\\"데이터를 기반으로 의료진이 적은 인력으로도 효율적으로 진료할 수 있도록 하는 게 목표\\\"라면서 \\\"의료 AI가 누구나 고품질의 의료 서비스를 받을 수 있는 세상을 열어 줄 것\\\"이라고 강조했다.\n인그래디언트는 메디라벨 고도화에도 힘쓰고 있다.\nAI 보완을 위한 클라우드 서비스를 선보일 예정이다.\n이 대표는 \\\"신종 질병 등 상황 변화에 대응하기 위해 AI를 주기적으로 학습시켜 개선해나갈 것\\\"이라며 \\\"협업 프로젝트 진행 시 데이터 품질 관리가 용이하도록 라벨링 신뢰도를 확인할 수 있는 품질 평가 기능도 추가할 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI) 의료 스타트업 인그래디언트가 강창무 연세암병원 췌장담도암센터 간담췌외과 교수와 췌장암 림프절 전이 여부를 예측하는 AI 개발에 나섰다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "췌장암 전이 여부를 사전에 확인하고 항암치료를 보조해 절제술 성공률을 높이는 게 목표다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이준호 인그래디언트 대표는 \\\"췌장암 절제 수술을 받은 환자들의 데이터를 받아 췌장암 형태와 림프절 전이의 상관관계를 분석하고 있다\\\"고 말했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "췌장암 환자의 5년 생존율은 13.9%다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조기 발견이 어렵고 재발 가능성이 높아 다른 암과 비교해 매우 낮은 편이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국간담췌외과학회 등 암 관련 8개 학회가 지난해 제정한 '한국 췌장암 진료 가이드라인'에 따르면 절제 수술 전 항암치료를 선행보조하면 생존율을 높일 수 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 림프절 전이 여부는 수술 전에 알 수 없어, 예측 AI가 개발되면 수술 전 항암치료를 시행해 생존율을 높이는 데 도움이 될 것으로 기대된다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "예측 AI 개발에는 인그래디언트의 의료영상 데이터 분류 기술(메디라벨)을 활용하고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기존에는 암세포 등을 일일이 손으로 체크한 후 색칠하는 방식으로 분류해 연구했는데, 인그래디언 기술은 클릭 한 번으로 비슷한 데이터가 반자동으로 선택돼 라벨링을 10배 단축할 수 있고, 정확도는 2배 이상 높인다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 대표는 \\\"의료 프로젝트의 80% 이상이 데이터 라벨링에 소요된다\\\"며 \\\"데이터 가공 문제로 의료 AI 개발 프로젝트가 중단된 경우도 다반사\\\"라고 말했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이어 \\\"의료 데이터 가공 환경이 갖춰져야만 경쟁력 있는 의료 AI 개발이 가능하다\\\"고 덧붙였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이 대표가 의료 데이터 가공에 관심을 가진 건 누구나 고품질의 의료 서비스를 받는 세상을 만들고 싶어서다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "그는 \\\"데이터를 기반으로 의료진이 적은 인력으로도 효율적으로 진료할 수 있도록 하는 게 목표\\\"라면서 \\\"의료 AI가 누구나 고품질의 의료 서비스를 받을 수 있는 세상을 열어 줄 것\\\"이라고 강조했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "인그래디언트는 메디라벨 고도화에도 힘쓰고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "AI 보완을 위한 클라우드 서비스를 선보일 예정이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이 대표는 \\\"신종 질병 등 상황 변화에 대응하기 위해 AI를 주기적으로 학습시켜 개선해나갈 것\\\"이라며 \\\"협업 프로젝트 진행 시 데이터 품질 관리가 용이하도록 라벨링 신뢰도를 확인할 수 있는 품질 평가 기능도 추가할 계획\\\"이라고 말했다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인그래디언트 \\\"췌장암 전이 여부 AI 개발 도전\\\"…강창무 췌장암 전문의와 협업",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

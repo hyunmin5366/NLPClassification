@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332144",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "구글, 한글 글꼴 공식 지원... 머신러닝으로 용량 문제 해결",
+		"newsSubTitle": "",
+		"newsContent": "구글이 한글 글꼴을 공식 지원한다. 9일 구글에 따르면 깃허브(Github) 구글 폰트 사이트 'Google Fonts + 한국어'에서 한글 폰트 23개가 무료로 제공된다.\n베타버전은 있었지만 구글이 한글 폰트를 개발해 지원하는 건 처음이다.\n해당 폰트는 오픈 폰트 라이선스(OFL)를 따르고 있어 무료로 사용하거나 공유할 수 있다.\n구글은 머신러닝을 이용해 문제점으로 지적돼온 한글 폰트 용량 문제를 러신머닝으로 해결, 지연 현상을 줄였다.\n머신러닝에 기반을 둔 최적화 기술로 한글 폰트를 동적으로 분할 다운로드하는 방식이다.\n웹 페이지를 불러올 때 글꼴 전체를 다운로드 하는 대신 내용을 표시하는 데 필요한 몇 가지 그룹만을 선택적으로 내려받아 제공한다.\n사용자는 글꼴 전체를 다운로드한 것처럼 인식한다.\n구글 측은 “웹에 있는 한국어 문서를 분석해 주제에 따라 사용되는 글자 패턴을 발견했다”면서 “패턴에 따라 한글 폰트에 포함된 1만7388개의 글리프를 100여 가지 그룹으로 나눴다”고 설명했다.\n실제로 구글이 제공하는 라틴어 폰트는 250kB를 넘지 않는다.\n전형적인 한글폰트는 4MB로 16배에 달한다.\n중국어와 일본어, 한글이 포함된 CJK 버전은 15MB 수준이다.\n구글에 따르면 한글을 바르게 표시하려면 해당 글리프를 폰트 하나에 모두 담아야 한다.\n폰트 제작 기간과 비용, 파일 용량에도 영향을 미칠 수밖에 없다.\n구글은 글꼴이 여러 도메인에서 사용된다는 점에 착안, 이미 내려받은 글꼴은 브라우저 캐시에 저장토록 했다.\n동일한 글꼴 파일을 사용하는 다른 사이트를 방문하면 해당 글꼴은 다시 다운로드 할 필요가 없는 셈이다.\n구글 측은 “구글 폰트 API의 사이트 간 캐싱을 통해 해당 폰트가 여러 웹사이트에서 사용될수록 전체 다운로드 시간은 줄어들고, 한글 폰트 사용자 경험은 개선될 것”이라면서 “좋은 타이포그래피로 웹은 더욱 아름답고 빨라지고, 누구나 참여할 수 있는 공간이 될 수 있을 것”이라고 기대했다.\n한편 구글 깃허브는 글로벌 개발자가 자유롭게 참여해 오픈소스를 공유·개방하는 사이트다.\n세계 주요 IT 기업이 SW 프로젝트를 깃허브에 올려 평가를 받는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구글이 한글 글꼴을 공식 지원한다. 9일 구글에 따르면 깃허브(Github) 구글 폰트 사이트 'Google Fonts + 한국어'에서 한글 폰트 23개가 무료로 제공된다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "베타버전은 있었지만 구글이 한글 폰트를 개발해 지원하는 건 처음이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 폰트는 오픈 폰트 라이선스(OFL)를 따르고 있어 무료로 사용하거나 공유할 수 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "구글은 머신러닝을 이용해 문제점으로 지적돼온 한글 폰트 용량 문제를 러신머닝으로 해결, 지연 현상을 줄였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "머신러닝에 기반을 둔 최적화 기술로 한글 폰트를 동적으로 분할 다운로드하는 방식이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "웹 페이지를 불러올 때 글꼴 전체를 다운로드 하는 대신 내용을 표시하는 데 필요한 몇 가지 그룹만을 선택적으로 내려받아 제공한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사용자는 글꼴 전체를 다운로드한 것처럼 인식한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "구글 측은 “웹에 있는 한국어 문서를 분석해 주제에 따라 사용되는 글자 패턴을 발견했다”면서 “패턴에 따라 한글 폰트에 포함된 1만7388개의 글리프를 100여 가지 그룹으로 나눴다”고 설명했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "실제로 구글이 제공하는 라틴어 폰트는 250kB를 넘지 않는다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "전형적인 한글폰트는 4MB로 16배에 달한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "중국어와 일본어, 한글이 포함된 CJK 버전은 15MB 수준이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "구글에 따르면 한글을 바르게 표시하려면 해당 글리프를 폰트 하나에 모두 담아야 한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "폰트 제작 기간과 비용, 파일 용량에도 영향을 미칠 수밖에 없다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "구글은 글꼴이 여러 도메인에서 사용된다는 점에 착안, 이미 내려받은 글꼴은 브라우저 캐시에 저장토록 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "동일한 글꼴 파일을 사용하는 다른 사이트를 방문하면 해당 글꼴은 다시 다운로드 할 필요가 없는 셈이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "구글 측은 “구글 폰트 API의 사이트 간 캐싱을 통해 해당 폰트가 여러 웹사이트에서 사용될수록 전체 다운로드 시간은 줄어들고, 한글 폰트 사용자 경험은 개선될 것”이라면서 “좋은 타이포그래피로 웹은 더욱 아름답고 빨라지고, 누구나 참여할 수 있는 공간이 될 수 있을 것”이라고 기대했다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "한편 구글 깃허브는 글로벌 개발자가 자유롭게 참여해 오픈소스를 공유·개방하는 사이트다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "세계 주요 IT 기업이 SW 프로젝트를 깃허브에 올려 평가를 받는다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "구글, 한글 글꼴 공식 지원... 머신러닝으로 용량 문제 해결",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

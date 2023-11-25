@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002646",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "KT, 'AI 원팀' 첫 성과 공개...로봇·음성·영상 등",
+		"newsSubTitle": "딥러닝 음성합성, E2E 음성인식, 무빙픽처, AI 로봇 고장진단 등 KT 인공지능 성능향상 및 현대중공업그룹 산업현장에 적용 공동 R&D 성과로 사회문제 해결과 AI 인재양성에 지속 협력",
+		"newsContent": "KT 'AI 원팀'이 출범 10개월 만에 첫 공동 연구개발(R&D) 성과 4종을 발표했다.\nKT AI 원팀은 AI 핵심기술 개발과 전문인력 양성을 위해 현대중공업그룹, LG전자, LG U+, 한국투자증권, 동원그룹, KAIST, 한양대, ETRI 등이 함께하는 산학연 협의체다. AI 원팀이 밝힌 R&D 성과 4종은△딥러닝 음성합성(P-TTS) △E2E 음성인식 △무빙 픽처(Moving Picture) △AI 기반 로봇 고장 진단 기술이다.\n이중 딥러닝 음성합성, E2E 음성인식, 무빙 픽처 기술은 KT 사업의 핵심기술로 활용하고, AI 기반 로봇 고장 진단 기술은 현대중공업그룹의 산업 현장에 적용될 예정이다.\n먼저 '딥러닝 음성합성(P-TTS, Personalized-Text To Speech)' 기술은 KT와 KAIST 김회린 교수가 협력해 개발했다.\n기존 대비 비용을 4분의 1 수준으로 줄이고, 속도는 10배 가량 향상시킨 것이 특징이다.\n순서대로 음성을 만드는 방식에서 동시에 음성을 만들어내는 방식으로 구조를 변경해, 획기적인 속도향상이 가능했다.\nKT는 올해 1분기 중으로 이 기술을 상용화해 AI 컨택센터(AICC), 차세대 기가지니 등에 활용하기로 했다. 'E2E(End-to-End) 음성인식' 기술은 KT가 한양대 장준혁 교수와 함께했다.\n음성인식 분야의 최신 트렌드인 이 기술은 인식 정확도를 크게 높일 수 있고, 적은 양의 학습데이터로 도메인 확장이 가능해 활용성이 크다.\n사양 증강(Spec Augmentation), 데이터 증강(Data Augmentation) 등 최신 학습기술을 적용해 기존 하이브리드 방식에 비해 단어 오류율(WER)을 7% 이상 향상시켰다.\nKT는 이 기술을 토대로 자유발화 음성인식률을 끌어올린다는 계획이다. '무빙 픽처(Moving Picture)' 솔루션은 이미지를 영상으로 변환하는 AI 기술로 KT와 한양대 김태현 교수가 함께 연구했다.\n이미지에 모션 효과를 적용해 영상으로 바꿔준다.\n영상 분할, 객체 검출, 모션 추정, 초해상도 이미지 복원(인페인팅)과 같은 최신 AI 기술을 적용했다.\nKT는 이 무빙 픽처 솔루션을 IPTV를 비롯해 포스터, 웹툰, 애니메이티드 광고 등 다양한 분야에서 활용한다는 방침이다.\n무빙 픽처 솔루션에 적용된 핵심 기술은 이미 국내에서 2건의 특허를 확보했으며, 국제학술지 'IEEE Access' 등재를 위한 심사도 진행 중이다. 'AI 기반 로봇 고장 진단' 기술은 현대중공업그룹이 한양대 장준혁 교수와 공동으로 개발했다.\nAI가 산업용 로봇의 고장을 진단할 수 있는 기술로, 진동 신호에 음성처리 기술과 딥러닝 기술을 적용해 핵심 구동부품인 감속기의 이상을 탐지할 수 있다.\n운전 조건에 관계 없이 적용 가능하고, 정상상태와 고장상태의 데이터 불균형을 해결해 진단의 정확도를 높였다.\n현대중공업그룹은 이 기술을 다양한 로봇 제품에 적용해 자동화 라인의 유지보수 효율을 극대화할 수 있을 것으로 기대하고 있다.\nKT 관계자는 미디어SR에 \\\"이번 성과는 산업 현장의 살아있는 데이터가 실제 AI 연구개발에 활용될 수 있었기에 가능했다\\\"면서 \\\"AI 원팀은 데이터활용-AI 기술개발-상용화-산업문제 해결의 빠른 선순환 구조를 만들 계획이다\\\"고 밝혔다.\n한편 AI 원팀은 AI를 활용한 사회문제 해결에도 협력 중이다.\n지난해 3월 KT가 시작한 '코로나19 확산예측 연구 얼라이언스'에는 KAIST가 참여해 감염병 해외유입 위험도 예측, 국내 확산지역 예측모델 등의 공동 연구성과를 거뒀다.\n지난해 6월에는 LG전자와 LG유플러스가 참여해 감염병 확산방지 모델을 고도화하고, 활용 방안에 대해 협력하고 있다.\n아울러 2021 올해 AI 원팀은 이번에 공개한 4개 프로젝트 외에도 AI 로봇 등 다양한 분야에서 7개 프로젝트를 추가로 추진하며, AI 혁신을 위해 지속적으로 노력하기로 했다.\nKT AI/DX융합사업부문장 송재호 부사장은 \\\"AI 원팀이 개발한 AI 기술은 산업현장에서 나온 정확한 데이터와 최신 연구개발 역량이 즉시 결합돼 가능했다\\\"며 \\\"KT는 AI 원팀의 산학연 시너지를 기반으로 산업현장 현안 해결은 물론 사회문제 해결과 AI 인재양성을 위해 더욱 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT 'AI 원팀'이 출범 10개월 만에 첫 공동 연구개발(R&D) 성과 4종을 발표했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT AI 원팀은 AI 핵심기술 개발과 전문인력 양성을 위해 현대중공업그룹, LG전자, LG U+, 한국투자증권, 동원그룹, KAIST, 한양대, ETRI 등이 함께하는 산학연 협의체다. AI 원팀이 밝힌 R&D 성과 4종은△딥러닝 음성합성(P-TTS) △E2E 음성인식 △무빙 픽처(Moving Picture) △AI 기반 로봇 고장 진단 기술이다.",
+				"sentenceSize": 196
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이중 딥러닝 음성합성, E2E 음성인식, 무빙 픽처 기술은 KT 사업의 핵심기술로 활용하고, AI 기반 로봇 고장 진단 기술은 현대중공업그룹의 산업 현장에 적용될 예정이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "먼저 '딥러닝 음성합성(P-TTS, Personalized-Text To Speech)' 기술은 KT와 KAIST 김회린 교수가 협력해 개발했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기존 대비 비용을 4분의 1 수준으로 줄이고, 속도는 10배 가량 향상시킨 것이 특징이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "순서대로 음성을 만드는 방식에서 동시에 음성을 만들어내는 방식으로 구조를 변경해, 획기적인 속도향상이 가능했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KT는 올해 1분기 중으로 이 기술을 상용화해 AI 컨택센터(AICC), 차세대 기가지니 등에 활용하기로 했다. 'E2E(End-to-End) 음성인식' 기술은 KT가 한양대 장준혁 교수와 함께했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "음성인식 분야의 최신 트렌드인 이 기술은 인식 정확도를 크게 높일 수 있고, 적은 양의 학습데이터로 도메인 확장이 가능해 활용성이 크다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "사양 증강(Spec Augmentation), 데이터 증강(Data Augmentation) 등 최신 학습기술을 적용해 기존 하이브리드 방식에 비해 단어 오류율(WER)을 7% 이상 향상시켰다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "KT는 이 기술을 토대로 자유발화 음성인식률을 끌어올린다는 계획이다. '무빙 픽처(Moving Picture)' 솔루션은 이미지를 영상으로 변환하는 AI 기술로 KT와 한양대 김태현 교수가 함께 연구했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이미지에 모션 효과를 적용해 영상으로 바꿔준다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "영상 분할, 객체 검출, 모션 추정, 초해상도 이미지 복원(인페인팅)과 같은 최신 AI 기술을 적용했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "KT는 이 무빙 픽처 솔루션을 IPTV를 비롯해 포스터, 웹툰, 애니메이티드 광고 등 다양한 분야에서 활용한다는 방침이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "무빙 픽처 솔루션에 적용된 핵심 기술은 이미 국내에서 2건의 특허를 확보했으며, 국제학술지 'IEEE Access' 등재를 위한 심사도 진행 중이다. 'AI 기반 로봇 고장 진단' 기술은 현대중공업그룹이 한양대 장준혁 교수와 공동으로 개발했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "AI가 산업용 로봇의 고장을 진단할 수 있는 기술로, 진동 신호에 음성처리 기술과 딥러닝 기술을 적용해 핵심 구동부품인 감속기의 이상을 탐지할 수 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "운전 조건에 관계 없이 적용 가능하고, 정상상태와 고장상태의 데이터 불균형을 해결해 진단의 정확도를 높였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "현대중공업그룹은 이 기술을 다양한 로봇 제품에 적용해 자동화 라인의 유지보수 효율을 극대화할 수 있을 것으로 기대하고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "KT 관계자는 미디어SR에 \\\"이번 성과는 산업 현장의 살아있는 데이터가 실제 AI 연구개발에 활용될 수 있었기에 가능했다\\\"면서 \\\"AI 원팀은 데이터활용-AI 기술개발-상용화-산업문제 해결의 빠른 선순환 구조를 만들 계획이다\\\"고 밝혔다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "한편 AI 원팀은 AI를 활용한 사회문제 해결에도 협력 중이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "지난해 3월 KT가 시작한 '코로나19 확산예측 연구 얼라이언스'에는 KAIST가 참여해 감염병 해외유입 위험도 예측, 국내 확산지역 예측모델 등의 공동 연구성과를 거뒀다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "지난해 6월에는 LG전자와 LG유플러스가 참여해 감염병 확산방지 모델을 고도화하고, 활용 방안에 대해 협력하고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "아울러 2021 올해 AI 원팀은 이번에 공개한 4개 프로젝트 외에도 AI 로봇 등 다양한 분야에서 7개 프로젝트를 추가로 추진하며, AI 혁신을 위해 지속적으로 노력하기로 했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "KT AI/DX융합사업부문장 송재호 부사장은 \\\"AI 원팀이 개발한 AI 기술은 산업현장에서 나온 정확한 데이터와 최신 연구개발 역량이 즉시 결합돼 가능했다\\\"며 \\\"KT는 AI 원팀의 산학연 시너지를 기반으로 산업현장 현안 해결은 물론 사회문제 해결과 AI 인재양성을 위해 더욱 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 170
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "3분기 중견기업 체감 경기전망 ‘역대 최고’…내수·수출 회복 기대감",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

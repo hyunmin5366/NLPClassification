@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335492",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "日, 자율주행차 육성 드라이브...규제 완화 등 지원책 마련",
+		"newsSubTitle": "",
+		"newsContent": "일본이 자율주행차 산업을 육성하는데 팔을 걷었다.\n산업 발전을 저해하는 규제를 풀고 투자를 늘려 미래 자동차 산업 주도권을 확보할 계획이다.\n7일 관련 업계에 따르면 일본 정부는 최근 자율주행차 산업 지원책을 속속 내놓고 있다.\n일본 정부는 지난해 발표한 '일본 재흥전략'에서 자율주행, 첨단 스마트공장, 첨단로봇, 핀테크, 드론 분야에서 신시장을 창출하겠다고 밝혔다.\n유망 시장 관련 정책을 신속하게 입안하기 위한 '미래투자회의'도 발족했다.\n차세대 자동차 육성 6대 전략도 마련했다.\n소프트웨어(SW)와 하부 구조 시스템을 강화해 전기차와 자율주행차 분야를 집중 육성한다.\n오는 2025년까지 완전 자율주행을 실용화할 계획이다.\n도쿄도는 2020년 도쿄 올림픽에서 자율주행을 실현한다는 목표를 세웠다.\n경시청은 자율주행 테스트 관련 규제를 대폭 완화할 방침으로 알려졌다.\n일본 정부는 자율주행 상용차도 적극 추진한다.\n차량 4대가 각각 4m 간격을 유지해 달리는 '대형트럭 군집주행 프로젝트'에는 총 44억엔(약 440억원)을 투입했다.\n도요타와 닛산 중심 완성차 업체들은 최근 대규모 자율주행차 연구 프로젝트를 추진하기 시작한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본이 자율주행차 산업을 육성하는데 팔을 걷었다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "산업 발전을 저해하는 규제를 풀고 투자를 늘려 미래 자동차 산업 주도권을 확보할 계획이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "7일 관련 업계에 따르면 일본 정부는 최근 자율주행차 산업 지원책을 속속 내놓고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일본 정부는 지난해 발표한 '일본 재흥전략'에서 자율주행, 첨단 스마트공장, 첨단로봇, 핀테크, 드론 분야에서 신시장을 창출하겠다고 밝혔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유망 시장 관련 정책을 신속하게 입안하기 위한 '미래투자회의'도 발족했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "차세대 자동차 육성 6대 전략도 마련했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소프트웨어(SW)와 하부 구조 시스템을 강화해 전기차와 자율주행차 분야를 집중 육성한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오는 2025년까지 완전 자율주행을 실용화할 계획이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "도쿄도는 2020년 도쿄 올림픽에서 자율주행을 실현한다는 목표를 세웠다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "경시청은 자율주행 테스트 관련 규제를 대폭 완화할 방침으로 알려졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "일본 정부는 자율주행 상용차도 적극 추진한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "차량 4대가 각각 4m 간격을 유지해 달리는 '대형트럭 군집주행 프로젝트'에는 총 44억엔(약 440억원)을 투입했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "도요타와 닛산 중심 완성차 업체들은 최근 대규모 자율주행차 연구 프로젝트를 추진하기 시작한 것으로 알려졌다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "日, 자율주행차 육성 드라이브...규제 완화 등 지원책 마련",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

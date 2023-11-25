@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332859",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[AI 사피엔스 시대]코로나19 이후 불확실성으로 AI 기반 기업부실예측 서비스 '관심'",
+		"newsSubTitle": "",
+		"newsContent": "#최근 부도처리 된 A사, 불과 한 달 전 이 회사 신용평가는 'B+/Risk 등급 정상'으로 조회됐다.\n이 결과를 신뢰하고 A사와 거래를 지속했던 기업은 대금을 회수하지 못해 곤란한 상황에 빠졌다.\n인공지능(AI) 기반 기업 부실예측시스템 '크레덱스(CREDEX)'는 A사에 대해 4개월 전부터 위험구간인 6레벨을 판정했다.\n3개월 내에 부실이 발생할 것으로 예측했다.\nA사와 거래했던 기업이 크레덱스 서비스를 활용했다면 부실을 미리 인지하고, 리스크를 사전에 차단할 수 있었을 것이다.\n코로나 19로 인한 경기 침체가 산업 전반으로 확대돼 불확실성이 증가하고 있다.\n기업 부실 가능성을 사전에 예측해주는 서비스 관심이 높아진다.\n포스코ICT와 기업신용평가 전문기업 이크레더블이 공동 개발한 국내 최초 AI 기반 기업부실예측 솔루션 '크레덱스' 서비스 가입 고객이 100개사를 넘어섰다.\n크레덱스는 AI, 빅데이터 기술을 활용해 기업 재무·비재무 데이터를 실시간 수집, 분석한다.\n기업부실 리스크와 자금조달 능력을 사전 예측해 부실이 발생하기 전에 고객에게 예측 정보를 제공한다.\n지난해 말 유료 서비스를 시작해 동부건설, 두산건설, 쌍용건설, 대한제강, SK네트웍스서비스 등 대외기업과 포스코건설 등 5개 그룹사가 활용 중이다.\n기존 신용등급은 연간·분기 단위로 등급을 산정한다.\n코로나19로 인해 경영상황이 급변하는 기업 부실을 예측하는 데는 한계가 있다.\n크레덱스는 재무제표는 물론 금융거래내역, 국민연금 납부실적, 공공조달 참여 실적, 상거래정보 등 기업 다양한 활동성 데이터를 실시간 수집, 자체 개발한 AI를 활용해 분석한다.\n이를 통해 해당 기업 채무상환능력을 종합 평가한다.\n신용상태 변화를 감지해 부실 발생 위험을 사전에 알려주고 예상 시점까지 알려주는 것이 특징이다.\n크레덱스는 출시 이후 AI 모델 정확도 향상을 위해 지속 업그레이드했다.\n실제 부실기업 예측 적중률을 높였다.\n사용자 편의성을 향상시키기 위해 고객 시스템에 크레덱스가 도출한 부실 등급을 연동하는 서비스와 일 단위 레벨변동 알림 등 기능을 추가했다.\n이달부터는 모바일 서비스를 시작해 정보 접근성을 강화했다.\n포스코ICT 관계자는 “향후에는 포스트 코로나 시대를 대비한 온라인 계약갱신, 서비스 가입 전 주요 기능을 사용하는 데모 버전을 제공할 계획”이라면서 “비대면 마케팅을 강화하고 다양한 재무정보 제공 등 고객 요구를 반영한 기능 고도화로 고객을 지속 확대할 예정”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "#최근 부도처리 된 A사, 불과 한 달 전 이 회사 신용평가는 'B+/Risk 등급 정상'으로 조회됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 결과를 신뢰하고 A사와 거래를 지속했던 기업은 대금을 회수하지 못해 곤란한 상황에 빠졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인공지능(AI) 기반 기업 부실예측시스템 '크레덱스(CREDEX)'는 A사에 대해 4개월 전부터 위험구간인 6레벨을 판정했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "3개월 내에 부실이 발생할 것으로 예측했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "A사와 거래했던 기업이 크레덱스 서비스를 활용했다면 부실을 미리 인지하고, 리스크를 사전에 차단할 수 있었을 것이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코로나 19로 인한 경기 침체가 산업 전반으로 확대돼 불확실성이 증가하고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기업 부실 가능성을 사전에 예측해주는 서비스 관심이 높아진다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "포스코ICT와 기업신용평가 전문기업 이크레더블이 공동 개발한 국내 최초 AI 기반 기업부실예측 솔루션 '크레덱스' 서비스 가입 고객이 100개사를 넘어섰다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "크레덱스는 AI, 빅데이터 기술을 활용해 기업 재무·비재무 데이터를 실시간 수집, 분석한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "기업부실 리스크와 자금조달 능력을 사전 예측해 부실이 발생하기 전에 고객에게 예측 정보를 제공한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "지난해 말 유료 서비스를 시작해 동부건설, 두산건설, 쌍용건설, 대한제강, SK네트웍스서비스 등 대외기업과 포스코건설 등 5개 그룹사가 활용 중이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기존 신용등급은 연간·분기 단위로 등급을 산정한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "코로나19로 인해 경영상황이 급변하는 기업 부실을 예측하는 데는 한계가 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "크레덱스는 재무제표는 물론 금융거래내역, 국민연금 납부실적, 공공조달 참여 실적, 상거래정보 등 기업 다양한 활동성 데이터를 실시간 수집, 자체 개발한 AI를 활용해 분석한다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이를 통해 해당 기업 채무상환능력을 종합 평가한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "신용상태 변화를 감지해 부실 발생 위험을 사전에 알려주고 예상 시점까지 알려주는 것이 특징이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "크레덱스는 출시 이후 AI 모델 정확도 향상을 위해 지속 업그레이드했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "실제 부실기업 예측 적중률을 높였다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "사용자 편의성을 향상시키기 위해 고객 시스템에 크레덱스가 도출한 부실 등급을 연동하는 서비스와 일 단위 레벨변동 알림 등 기능을 추가했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이달부터는 모바일 서비스를 시작해 정보 접근성을 강화했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "포스코ICT 관계자는 “향후에는 포스트 코로나 시대를 대비한 온라인 계약갱신, 서비스 가입 전 주요 기능을 사용하는 데모 버전을 제공할 계획”이라면서 “비대면 마케팅을 강화하고 다양한 재무정보 제공 등 고객 요구를 반영한 기능 고도화로 고객을 지속 확대할 예정”이라고 말했다.",
+				"sentenceSize": 154
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[AI 사피엔스 시대]코로나19 이후 불확실성으로 AI 기반 기업부실예측 서비스 '관심'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

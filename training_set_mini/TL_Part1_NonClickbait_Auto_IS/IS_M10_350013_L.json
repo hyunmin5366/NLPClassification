@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350013",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "\\\"일·월·공휴일, 기온 뚝 떨어지면 심정지 발생 빈도 높다\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "인공지능(AI)의 기계학습 결과 갑자기 심장 박동이 멈추는 심정지는 일요일과 월요일, 공휴일에 발생 빈도가 높다는 연구 결과가 나왔다.\n단기간 내 기온이 급격히 떨어질 때도 심정지가 발생 사례가 많았다.\n타카히로 나카시마 일본 국립순환기센터(NCVC) 박사 연구팀은 17일(현지시각) 영국의학저널(BMJ)의 심장학회지(Heart)에 발표한 논문에서 인공지능 기계학습으로 구축한 '병원밖 심정지'(OHCA·Out of hospital cardiac arrect) 예측 모델을 소개했다.\n초기 대응이 중요한 심정지 질환의 특성상 병원 밖에서 발생한 심정지 환자의 생존율은 극히 낮은 것으로 알려져있다.\n연구팀은 병원밖 심정지에 효과적인 응급의료 대응 체계를 구성하고, 날씨와 연계한 심혈관 질환 경보 기능을 강화하기 위해 이번 연구를 시작했다.\n연구팀은 2005년부터 2015년까지 일본 소방청에 등록된 병원밖 심정지 신고 기록과 IBM의 기상 데이터 등을 토대로 총 52만5374건의 기계학습 데이터를 만들었다.\n2005년부터 2013년까지의 데이터를 토대로 병원밖 심정지 예측 모델을 구축했고, 2014~2015년 병원밖 심정지 발생 데이터로 모델의 예측 정확성을 측정했다.\n분석에 따르면 병원밖 심정지는 요일별로 일요일, 월요일, 공휴일에 발생 건수가 많았다.\n아울러 짧은 기간 동안 기온이 급격히 떨어진 날을전후해 병원밖 심정지 신고 사례가 늘었다.\n연구팀이 개발한 예측 모델은 예측 정확도를 측정하는 평균절대비율오차(MAPE) 평가에서 7.788%를 기록했다.\nMAPE 값은 절댓값이 낮을 수록 정확도가 높음을 의미한다.\nMAPE 값이 10% 미만인 경우 정확도가 '매우 정확한 수준'이라고 평가받는다.\n연구팀이 개발한 예측 모델은 2018년 1월 18일부터 2월 3일까지 고베 지역에서 병원밖 심정지 사례가 24건 발생할 것으로 예상했는데, 실제로 예측값과 비슷한 27건의 병원밖 심정지 사례가 신고됐다.\n연구팀은 이번 연구에 사용된 표본의 크기가 크고, 국제적으로 널리 사용되고 있는 IBM사의 기상 데이터를 활용했기 때문에 예측 모델을 일본 외 지역에서 활용하는 것도 가능할 것으로 전망했다.\n데이비드 가이세키 미국 토마스 제퍼슨 대학교 의대 교수는 이번 연구결과에 대해 \\\"날씨예보를 토대로 심정지 가능성이 높은 사람들에게 미리 위험을 경고할 수 있다\\\"며 \\\"병원밖 심정지 환자에 대응하기 위한 응급 의료 체계를 꾸리고 관련된 의료 서비스 자원을 효율적으로 배치하는 데도 도움이 될 것\\\"이라고 평가했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI)의 기계학습 결과 갑자기 심장 박동이 멈추는 심정지는 일요일과 월요일, 공휴일에 발생 빈도가 높다는 연구 결과가 나왔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "단기간 내 기온이 급격히 떨어질 때도 심정지가 발생 사례가 많았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "타카히로 나카시마 일본 국립순환기센터(NCVC) 박사 연구팀은 17일(현지시각) 영국의학저널(BMJ)의 심장학회지(Heart)에 발표한 논문에서 인공지능 기계학습으로 구축한 '병원밖 심정지'(OHCA·Out of hospital cardiac arrect) 예측 모델을 소개했다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "초기 대응이 중요한 심정지 질환의 특성상 병원 밖에서 발생한 심정지 환자의 생존율은 극히 낮은 것으로 알려져있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연구팀은 병원밖 심정지에 효과적인 응급의료 대응 체계를 구성하고, 날씨와 연계한 심혈관 질환 경보 기능을 강화하기 위해 이번 연구를 시작했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구팀은 2005년부터 2015년까지 일본 소방청에 등록된 병원밖 심정지 신고 기록과 IBM의 기상 데이터 등을 토대로 총 52만5374건의 기계학습 데이터를 만들었다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2005년부터 2013년까지의 데이터를 토대로 병원밖 심정지 예측 모델을 구축했고, 2014~2015년 병원밖 심정지 발생 데이터로 모델의 예측 정확성을 측정했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "분석에 따르면 병원밖 심정지는 요일별로 일요일, 월요일, 공휴일에 발생 건수가 많았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "아울러 짧은 기간 동안 기온이 급격히 떨어진 날을전후해 병원밖 심정지 신고 사례가 늘었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "연구팀이 개발한 예측 모델은 예측 정확도를 측정하는 평균절대비율오차(MAPE) 평가에서 7.788%를 기록했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "MAPE 값은 절댓값이 낮을 수록 정확도가 높음을 의미한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "MAPE 값이 10% 미만인 경우 정확도가 '매우 정확한 수준'이라고 평가받는다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "연구팀이 개발한 예측 모델은 2018년 1월 18일부터 2월 3일까지 고베 지역에서 병원밖 심정지 사례가 24건 발생할 것으로 예상했는데, 실제로 예측값과 비슷한 27건의 병원밖 심정지 사례가 신고됐다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "연구팀은 이번 연구에 사용된 표본의 크기가 크고, 국제적으로 널리 사용되고 있는 IBM사의 기상 데이터를 활용했기 때문에 예측 모델을 일본 외 지역에서 활용하는 것도 가능할 것으로 전망했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "데이비드 가이세키 미국 토마스 제퍼슨 대학교 의대 교수는 이번 연구결과에 대해 \\\"날씨예보를 토대로 심정지 가능성이 높은 사람들에게 미리 위험을 경고할 수 있다\\\"며 \\\"병원밖 심정지 환자에 대응하기 위한 응급 의료 체계를 꾸리고 관련된 의료 서비스 자원을 효율적으로 배치하는 데도 도움이 될 것\\\"이라고 평가했다.",
+				"sentenceSize": 176
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"일·월·공휴일, 기온 뚝 떨어지면 심정지 발생 빈도 높다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

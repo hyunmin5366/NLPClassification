@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327100",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "솔트룩스, '딥시그널' 4월 출시…B2C 시장 개척",
+		"newsSubTitle": "",
+		"newsContent": "솔트룩스가 초개인화 인공지능(AI) 서비스 '딥시그널'을 4월 한국과 미국 등 글로벌 시장에 동시 출시한다.\n솔트룩스 최초의 B2C 서비스 '딥시그널'은 세계 웹에서 실시간 심층 정보 수집과 인지검색을 통해 개인 관심과 목적을 배워 맞춤 정보를 제공하고 개인의 의사결정을 돕는 증강지능 서비스다.\n개인 맞춤형으로 데이터를 정리하고 실시간 추천, 영향력 있는 인물·기관에 대한 인맥 지도를 지원한다.\n이슈 추적과 이상징후 감지로 사용자 관심 주제에 대해 24시간, 365일 추적 및 알림을 제공한다.\n솔트룩스는 2002년 검색엔진 출시를 시작으로 자연어처리 기반 기업간거래(B2B) 시장에 주력했다.\n딥시그널 출시로 고객에 AI 서비스를 제공하는 형태로 B2C 시장으로 사업을 확대할 방침이다.\n조슈아 배 솔트룩스 미국법인장은 “오픈 베타 출시까지 개발과 베타 사용자 인터뷰 그리고 파트너와 협력을 통해 성공적 론칭을 준비하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "솔트룩스가 초개인화 인공지능(AI) 서비스 '딥시그널'을 4월 한국과 미국 등 글로벌 시장에 동시 출시한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "솔트룩스 최초의 B2C 서비스 '딥시그널'은 세계 웹에서 실시간 심층 정보 수집과 인지검색을 통해 개인 관심과 목적을 배워 맞춤 정보를 제공하고 개인의 의사결정을 돕는 증강지능 서비스다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개인 맞춤형으로 데이터를 정리하고 실시간 추천, 영향력 있는 인물·기관에 대한 인맥 지도를 지원한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이슈 추적과 이상징후 감지로 사용자 관심 주제에 대해 24시간, 365일 추적 및 알림을 제공한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "솔트룩스는 2002년 검색엔진 출시를 시작으로 자연어처리 기반 기업간거래(B2B) 시장에 주력했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "딥시그널 출시로 고객에 AI 서비스를 제공하는 형태로 B2C 시장으로 사업을 확대할 방침이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조슈아 배 솔트룩스 미국법인장은 “오픈 베타 출시까지 개발과 베타 사용자 인터뷰 그리고 파트너와 협력을 통해 성공적 론칭을 준비하겠다”고 말했다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "솔트룩스, '딥시그널' 4월 출시…B2C 시장 개척",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

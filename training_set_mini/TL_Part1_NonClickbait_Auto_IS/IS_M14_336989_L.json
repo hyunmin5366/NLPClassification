@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336989",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "연예인 폰 잇단 해킹, 크리덴셜스터핑에 당했나",
+		"newsSubTitle": "",
+		"newsContent": "유명 배우와 아이돌 등 연예인을 겨냥한 스마트폰 해킹이 잇따르면서 해킹 수법에 이목이 쏠린다.\n애초 삼성 갤럭시와 클라우드 보안이 문제시됐지만, 삼성 측에서 해킹 의혹을 부인했다.\n현재 유력한 수법으로 '크리덴셜스터핑'이 지목된다.\n크리덴셜스터핑은 한 곳에서 유출된 로그인 정보를 다른 계정에 무작위 대입하는 수법이다.\n서비스별로 아이디와 비밀번호를 다르게 만들면 잊어버리기 쉬워 이용자가 대다수 서비스에 동일한 아이디와 비밀번호를 쓴다는 사실을 악용한다.\n정보 유출 사고가 발생한 기업 고객이면서 이후에도 동일한 아이디와 비밀번호를 쓴다면 다크웹 내 개인정보 거래에 의해 또 다시 동일한 피해를 입을 수 있다.\n공격자는 다크웹에서 구매한 아이디·비밀번호 조합을 여러 서비스에 대입해 해킹한다.\n계정 탈취를 가장 쉽게, 자동화한 방식으로 수행할 수 있어 보안업계에서는 수년 전부터 크리덴셜스터핑을 경고했다.\n대표 사례로 2018년 우리은행 해킹 시도가 있다.\n당시 공격자는 5일간 우리은행 인터넷뱅킹 웹사이트에서 총 85만회 로그인을 시도했다.\n공격자가 주입한 로그인 정보는 다른 서비스에서 유출된 정보를 이용한 것으로 추정됐다.\n동일한 로그인 정보를 이용한 우리은행 고객 5만6000명이 피해를 입었다.\n실제 이용자 로그인 정보를 사용하기 때문에 은행 시스템은 정당한 이용자라고 판단한다. 2017년 알툴즈 해킹도 있다.\n당시 알툴즈 사이트 회원 아이디와 비밀번호 13만4000여건 등이 유출됐다.\n공격자는 7개월 동안 다른 사이트에서 유출된 로그인 정보로 크리덴셜스터핑 공격을 감행한 것으로 조사됐다.\n아이디와 비밀번호 정보를 바꾸지 않는 이상 계속해서 동일한 위협에 노출될 위험이 있는 것이다.\n앞서 8일 배우 주진모와 A씨가 나눈 문자 등이 유포되면서 연예인을 겨냥한 스마트폰 해킹 공격이 일반에 알려졌다.\n해커는 이들이 삼성 클라우드에 저장해둔 문자와 사진 등 정보를 빼낸 뒤 복제폰을 제작했다.\n이후 복제폰에서 유출한 정보를 캡처해 유포했다.\n돈을 지불하면 유포하지 않겠다며 협박했다.\n경찰은 수사에 착수한 상태다.\n삼성전자는 9일 삼성 멤버스 커뮤니티 공지를 통해 “삼성 갤럭시폰이나 삼성 클라우드 서비스가 해킹 당한 것은 아니다”면서 “일부 사용자 계정이 외부 유출된 후 도용돼 발생한 것으로 추정된다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유명 배우와 아이돌 등 연예인을 겨냥한 스마트폰 해킹이 잇따르면서 해킹 수법에 이목이 쏠린다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애초 삼성 갤럭시와 클라우드 보안이 문제시됐지만, 삼성 측에서 해킹 의혹을 부인했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재 유력한 수법으로 '크리덴셜스터핑'이 지목된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "크리덴셜스터핑은 한 곳에서 유출된 로그인 정보를 다른 계정에 무작위 대입하는 수법이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서비스별로 아이디와 비밀번호를 다르게 만들면 잊어버리기 쉬워 이용자가 대다수 서비스에 동일한 아이디와 비밀번호를 쓴다는 사실을 악용한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정보 유출 사고가 발생한 기업 고객이면서 이후에도 동일한 아이디와 비밀번호를 쓴다면 다크웹 내 개인정보 거래에 의해 또 다시 동일한 피해를 입을 수 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공격자는 다크웹에서 구매한 아이디·비밀번호 조합을 여러 서비스에 대입해 해킹한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "계정 탈취를 가장 쉽게, 자동화한 방식으로 수행할 수 있어 보안업계에서는 수년 전부터 크리덴셜스터핑을 경고했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "대표 사례로 2018년 우리은행 해킹 시도가 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "당시 공격자는 5일간 우리은행 인터넷뱅킹 웹사이트에서 총 85만회 로그인을 시도했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "공격자가 주입한 로그인 정보는 다른 서비스에서 유출된 정보를 이용한 것으로 추정됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "동일한 로그인 정보를 이용한 우리은행 고객 5만6000명이 피해를 입었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "실제 이용자 로그인 정보를 사용하기 때문에 은행 시스템은 정당한 이용자라고 판단한다. 2017년 알툴즈 해킹도 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "당시 알툴즈 사이트 회원 아이디와 비밀번호 13만4000여건 등이 유출됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "공격자는 7개월 동안 다른 사이트에서 유출된 로그인 정보로 크리덴셜스터핑 공격을 감행한 것으로 조사됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "아이디와 비밀번호 정보를 바꾸지 않는 이상 계속해서 동일한 위협에 노출될 위험이 있는 것이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "앞서 8일 배우 주진모와 A씨가 나눈 문자 등이 유포되면서 연예인을 겨냥한 스마트폰 해킹 공격이 일반에 알려졌다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "해커는 이들이 삼성 클라우드에 저장해둔 문자와 사진 등 정보를 빼낸 뒤 복제폰을 제작했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이후 복제폰에서 유출한 정보를 캡처해 유포했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "돈을 지불하면 유포하지 않겠다며 협박했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "경찰은 수사에 착수한 상태다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "삼성전자는 9일 삼성 멤버스 커뮤니티 공지를 통해 “삼성 갤럭시폰이나 삼성 클라우드 서비스가 해킹 당한 것은 아니다”면서 “일부 사용자 계정이 외부 유출된 후 도용돼 발생한 것으로 추정된다”고 밝혔다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "연예인 폰 잇단 해킹, 크리덴셜스터핑에 당했나",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

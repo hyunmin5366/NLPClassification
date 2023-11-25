@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326709",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "[테크리포트]HCI 핵심은 지능형 가상화 SW",
+		"newsSubTitle": "",
+		"newsContent": "하이퍼 컨버지드 인프라스트럭처(HCI)는 간단히 말해 컴퓨팅(서버), 스토리지, 네트워크를 단일 시스템 혹은 어플라이언스로 통합한 장비다.\n여기까지는 컨버지드 인프라와 같다.\n컨버지드 인프라와 가장 큰 차이이자 HCI 핵심은 가상화 소프트웨어다.\n지능형 소프트웨어 컴포넌트에 의존해 데이터센터 모든 요소를 결합한 단일 통합 시스템이 HCI다.\n소프트웨어 중심 접근 방식은 장비 부피를 압축하면서 관리를 간소화하고 리소스를 통합하며 비용을 절감할 수 있도록 해준다.\nHCI 플랫폼의 멀티노드 디자인은 고도의 안정성과 즉각적인 확장성을 제공한다.\nHCI 클러스터는 몇 개 노드로 구성되는데, 노드 하나에 장애가 일어나면 남아 있는 노드가 해당 노드 작업을 가져가 마무리한다.\n다운타임 없이 워크로드에 영향을 주지 않고 노드를 추가하거나 변경할 수 있어 하드웨어 재설정이나 기존 인프라 변경 없이도 역동적인 비즈니스 요구사항을 충족할 수 있다.\n데이터 중복 제거와 압축, 재해복구 등 기능을 내장해 해당 어플라이언스나 소프트웨어를 별도 구매할 필요도 없다.\n스토리지와 프로세싱이 긴밀히 붙어 있어 케이블 작업을 할 필요가 없으며 지연 시간도 줄어든다. 스토리지 성능을 떨어뜨리는 이유 중 하나가 입출력(I/O)인 점을 감안하면 이런 장점은 더욱 커진다.\n시스템 구축을 단순화하려는 요구 역시 시장 성장에 기여하고 있는데 구축의 단순성은 HCI 시스템을 구입할 때부터 시작돼 워크로드 셋업 등 사용하는 내내 유지된다.\n비용은 낮추되 보다 강력한 정보기술(IT) 운영 관리에 대한 수요 증가, IT 인프라 확장성 향상, 재해복구 및 데이터 보호 기능 강화 등이 HCI 시장을 뒷받침하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하이퍼 컨버지드 인프라스트럭처(HCI)는 간단히 말해 컴퓨팅(서버), 스토리지, 네트워크를 단일 시스템 혹은 어플라이언스로 통합한 장비다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "여기까지는 컨버지드 인프라와 같다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "컨버지드 인프라와 가장 큰 차이이자 HCI 핵심은 가상화 소프트웨어다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지능형 소프트웨어 컴포넌트에 의존해 데이터센터 모든 요소를 결합한 단일 통합 시스템이 HCI다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소프트웨어 중심 접근 방식은 장비 부피를 압축하면서 관리를 간소화하고 리소스를 통합하며 비용을 절감할 수 있도록 해준다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "HCI 플랫폼의 멀티노드 디자인은 고도의 안정성과 즉각적인 확장성을 제공한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "HCI 클러스터는 몇 개 노드로 구성되는데, 노드 하나에 장애가 일어나면 남아 있는 노드가 해당 노드 작업을 가져가 마무리한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다운타임 없이 워크로드에 영향을 주지 않고 노드를 추가하거나 변경할 수 있어 하드웨어 재설정이나 기존 인프라 변경 없이도 역동적인 비즈니스 요구사항을 충족할 수 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "데이터 중복 제거와 압축, 재해복구 등 기능을 내장해 해당 어플라이언스나 소프트웨어를 별도 구매할 필요도 없다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "스토리지와 프로세싱이 긴밀히 붙어 있어 케이블 작업을 할 필요가 없으며 지연 시간도 줄어든다. 스토리지 성능을 떨어뜨리는 이유 중 하나가 입출력(I/O)인 점을 감안하면 이런 장점은 더욱 커진다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "시스템 구축을 단순화하려는 요구 역시 시장 성장에 기여하고 있는데 구축의 단순성은 HCI 시스템을 구입할 때부터 시작돼 워크로드 셋업 등 사용하는 내내 유지된다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "비용은 낮추되 보다 강력한 정보기술(IT) 운영 관리에 대한 수요 증가, IT 인프라 확장성 향상, 재해복구 및 데이터 보호 기능 강화 등이 HCI 시장을 뒷받침하고 있다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[테크리포트]HCI 핵심은 지능형 가상화 SW",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002676",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "안랩, 유명 메신저 다운로드 위장한 악성코드 주의 당부",
+		"newsSubTitle": "유명 메신저 홈페이지와 매우 유사한 가짜 사이트로 악성코드 유포 설치파일 다운로드 후 실행 시 악성코드 감염, PC 정보 탈취 등 수행",
+		"newsContent": "유명 메신저 홈페이지와 매우 유사한 가짜 사이트를 만들어 악성코드를 유포하는 사례가 발견되고 있다.\n안랩은 12일 카카오톡 등 국내 사용자가 많은 메신저의 홈페이지를 위장한 피싱 사이트에서 원격제어 악성코드가 유포되는 사례를 발견해 사용자 주의를 당부했다.\n공격자는 서비스 제공 기업이 가짜 사이트 제작 여부를 알기 어려운 환경을 악용해, 사용자가 많은 메신저 프로그램의 홈페이지를 위장한 피싱 사이트를 만들었다.\n해당 피싱 사이트에 접속하는 악성 URL을 피싱 이메일 등으로 유포했을 것으로 추정된다.\n이 피싱 사이트는 정상 사이트와 화면 구성이 매우 유사해 사용자가 URL 등을 꼼꼼히 확인하지 않을 경우 가짜임을 알아채기 어렵다.\n만약 사용자가 피싱 사이트의 '다운로드' 버튼을 누르면 메신저 설치 파일로 위장한 악성 파일(.exe)이 다운로드 된다.\n사용자가 해당 설치 파일을 실행하면 악성코드에 감염된다.\n악성코드는 PC감염 후 추가로 원격제어 악성코드를 내려받아, 최종적으로 사용자의 키보드 및 마우스 입력값, 클립보드 변경 내용 등 다양한 PC정보 탈취를 시도한다.\n안랩 측은 미디어SR에 \\\"공격자는 메신저 홈페이지 사칭 피싱사이트 뿐만 아니라 업무용 그룹웨어 다운로드 페이지로 위장한 사이트에서 해당 악성코드를 유포하기도 했다\\\"면서 \\\"현재 안랩 V3 제품군은 해당 악성코드를 진단하고 있다\\\"고 밝혔다.\n피해를 예방하기 위해서는 △소프트웨어 설치 시 공식 홈페이지 이용 △출처가 불분명한 메일 속 URL/첨부파일 실행 자제 △OS 및 인터넷 브라우저, 응용프로그램, 오피스 SW 등 프로그램의 최신 버전 유지 및 보안 패치 적용 △최신 버전 백신 사용 및 실시간 감시 적용 등 보안수칙을 준수해야 한다.\n안랩 ASEC대응팀 박태환 팀장은 \\\"공격자들은 많은 사람들이 사용하는 서비스를 타겟으로 서비스 제공 기업 몰래 가짜 사이트를 만드는 경우가 많다\\\"며, \\\"가짜 사이트는 대부분 매우 정교하게 만들어지기 때문에 사용자는 출처가 불분명한 URL 접속을 자제하고 SW 설치는 공식 홈페이지를 이용해야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유명 메신저 홈페이지와 매우 유사한 가짜 사이트를 만들어 악성코드를 유포하는 사례가 발견되고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안랩은 12일 카카오톡 등 국내 사용자가 많은 메신저의 홈페이지를 위장한 피싱 사이트에서 원격제어 악성코드가 유포되는 사례를 발견해 사용자 주의를 당부했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공격자는 서비스 제공 기업이 가짜 사이트 제작 여부를 알기 어려운 환경을 악용해, 사용자가 많은 메신저 프로그램의 홈페이지를 위장한 피싱 사이트를 만들었다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 피싱 사이트에 접속하는 악성 URL을 피싱 이메일 등으로 유포했을 것으로 추정된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 피싱 사이트는 정상 사이트와 화면 구성이 매우 유사해 사용자가 URL 등을 꼼꼼히 확인하지 않을 경우 가짜임을 알아채기 어렵다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "만약 사용자가 피싱 사이트의 '다운로드' 버튼을 누르면 메신저 설치 파일로 위장한 악성 파일(.exe)이 다운로드 된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사용자가 해당 설치 파일을 실행하면 악성코드에 감염된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "악성코드는 PC감염 후 추가로 원격제어 악성코드를 내려받아, 최종적으로 사용자의 키보드 및 마우스 입력값, 클립보드 변경 내용 등 다양한 PC정보 탈취를 시도한다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "안랩 측은 미디어SR에 \\\"공격자는 메신저 홈페이지 사칭 피싱사이트 뿐만 아니라 업무용 그룹웨어 다운로드 페이지로 위장한 사이트에서 해당 악성코드를 유포하기도 했다\\\"면서 \\\"현재 안랩 V3 제품군은 해당 악성코드를 진단하고 있다\\\"고 밝혔다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "피해를 예방하기 위해서는 △소프트웨어 설치 시 공식 홈페이지 이용 △출처가 불분명한 메일 속 URL/첨부파일 실행 자제 △OS 및 인터넷 브라우저, 응용프로그램, 오피스 SW 등 프로그램의 최신 버전 유지 및 보안 패치 적용 △최신 버전 백신 사용 및 실시간 감시 적용 등 보안수칙을 준수해야 한다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "안랩 ASEC대응팀 박태환 팀장은 \\\"공격자들은 많은 사람들이 사용하는 서비스를 타겟으로 서비스 제공 기업 몰래 가짜 사이트를 만드는 경우가 많다\\\"며, \\\"가짜 사이트는 대부분 매우 정교하게 만들어지기 때문에 사용자는 출처가 불분명한 URL 접속을 자제하고 SW 설치는 공식 홈페이지를 이용해야 한다\\\"고 말했다.",
+				"sentenceSize": 176
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세종시 첫마을 내달 분양 '촉각'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

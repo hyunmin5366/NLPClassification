@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334685",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "미국, '反트럼프' 구글 등 독점금지법 위반 조사 대통령령 준비",
+		"newsSubTitle": "",
+		"newsContent": "도널드 트럼프 행정부가 소셜네트워크서비스(SNS) 등 온라인 플랫폼을 겨냥해 반(反) 독점 여부 조사를 지시하는 내용을 담은 행정명령을 준비 중이라고 블룸버그 통신이 22일(현지시간) 보도했다.\n블룸버그 통신은 백악관이 작성한 행정명령 초안에는 구체적인 기업 이름이 적시되지는 않았지만 구글과 페이스북, 트위터 등이 표적이 될 것이라고 밝혔다.\n초안은 온라인 플랫폼들이 반독점법을 위반했는지에 대해 당국이 철저한 조사를 하도록 했다.\n또한 \\\"미국 시민이 지배적 온라인 플랫폼 반 경쟁 행위로부터 보호받는 것이 중요하다\\\"며 \\\"독점금지법 위반 행위가 없는지를 철저히 조사하라'고 법무부 등에 명령하는 내용을 담고 있다.\n제프 세션스 미 법무장관은 오는 25일 주(州) 정부 법무부 장관들을 모아 온라인 플랫폼 기업들이 표현의 자유를 저해했거나 불공정 경쟁을 저질렀을 가능성이 있는지 논의할 예정이다.\n행정명령 초안은 트럼프 대통령이 온라인 플랫폼 기업에 잇따라 공격을 퍼부은 뒤 나왔다.\n트럼프 대통령은 지난달 말 \\\"구글, 페이스북, 트위터는 보수파와 공화당원을 매우 불공정하게 대한다\\\"며 \\\"이는 올바르지 않고 공정하지 않다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "도널드 트럼프 행정부가 소셜네트워크서비스(SNS) 등 온라인 플랫폼을 겨냥해 반(反) 독점 여부 조사를 지시하는 내용을 담은 행정명령을 준비 중이라고 블룸버그 통신이 22일(현지시간) 보도했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "블룸버그 통신은 백악관이 작성한 행정명령 초안에는 구체적인 기업 이름이 적시되지는 않았지만 구글과 페이스북, 트위터 등이 표적이 될 것이라고 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "초안은 온라인 플랫폼들이 반독점법을 위반했는지에 대해 당국이 철저한 조사를 하도록 했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 \\\"미국 시민이 지배적 온라인 플랫폼 반 경쟁 행위로부터 보호받는 것이 중요하다\\\"며 \\\"독점금지법 위반 행위가 없는지를 철저히 조사하라'고 법무부 등에 명령하는 내용을 담고 있다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제프 세션스 미 법무장관은 오는 25일 주(州) 정부 법무부 장관들을 모아 온라인 플랫폼 기업들이 표현의 자유를 저해했거나 불공정 경쟁을 저질렀을 가능성이 있는지 논의할 예정이다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "행정명령 초안은 트럼프 대통령이 온라인 플랫폼 기업에 잇따라 공격을 퍼부은 뒤 나왔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "트럼프 대통령은 지난달 말 \\\"구글, 페이스북, 트위터는 보수파와 공화당원을 매우 불공정하게 대한다\\\"며 \\\"이는 올바르지 않고 공정하지 않다\\\"고 말했다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미국, '反트럼프' 구글 등 독점금지법 위반 조사 대통령령 준비",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

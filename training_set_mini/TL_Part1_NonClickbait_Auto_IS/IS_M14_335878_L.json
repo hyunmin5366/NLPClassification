@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335878",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "스마트한 세상, 철도도 스마트하게",
+		"newsSubTitle": "",
+		"newsContent": "한국철도기술연구원이 정보통신기술(ICT) 기반의 차세대 스마트철도 연구에 박차를 가하고 있다.\n1일 경기도 의왕시 한국철도기술연구원에서 연구원들이 최고 속도 시속 1200㎞로 서울에서 부산까지 20분 안 주행이 가능한 하이퍼튜브 열차의 자기부상 성능을 연구하고 있다.\n한국형 무선기반 열차제어시스템 KRTCS를 국제표준기반 철도차량 전용 단일 이더넷과 연동, 차량 운행제어 실험을 하고 있다.\n한국철도기술연구원이 국내 최초로 개발한 대용량 실시간 무선 네트워크 장치는 기존 차량 내 복잡한 배선을 없앤다.\n사물인터넷(IoT) 기술을 융합한 근거리 통신 방식으로 통신 오류를 차단하고, 전송 용량을 50배 이상 향상시켰다.\n자율주행 및 인공지능(AI)을 열차제어기술에 융합한 '열차자율주행제어시스템' 시뮬레이션을 하고 있다.\n열차자율주행제어시스템은 열차와 열차가 직접 통신해 경로, 정차역, 주행 속도 등의 정보를 공유하고 운행 상황을 실시간 자율 판단 및 제어한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국철도기술연구원이 정보통신기술(ICT) 기반의 차세대 스마트철도 연구에 박차를 가하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 경기도 의왕시 한국철도기술연구원에서 연구원들이 최고 속도 시속 1200㎞로 서울에서 부산까지 20분 안 주행이 가능한 하이퍼튜브 열차의 자기부상 성능을 연구하고 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국형 무선기반 열차제어시스템 KRTCS를 국제표준기반 철도차량 전용 단일 이더넷과 연동, 차량 운행제어 실험을 하고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국철도기술연구원이 국내 최초로 개발한 대용량 실시간 무선 네트워크 장치는 기존 차량 내 복잡한 배선을 없앤다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사물인터넷(IoT) 기술을 융합한 근거리 통신 방식으로 통신 오류를 차단하고, 전송 용량을 50배 이상 향상시켰다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자율주행 및 인공지능(AI)을 열차제어기술에 융합한 '열차자율주행제어시스템' 시뮬레이션을 하고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "열차자율주행제어시스템은 열차와 열차가 직접 통신해 경로, 정차역, 주행 속도 등의 정보를 공유하고 운행 상황을 실시간 자율 판단 및 제어한다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스마트한 세상, 철도도 스마트하게",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

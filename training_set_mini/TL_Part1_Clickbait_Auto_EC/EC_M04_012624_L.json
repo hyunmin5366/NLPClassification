@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012624",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "유족연금 중복지급률 10%p 인상",
+		"newsSubTitle": "현 입법예고중… 노령·유족연금간 선택 폭 확대 기대 [국민연금 돋보기] 바뀌는 제도",
+		"newsContent": "Q. 올해부터 새롭게 바뀌는 국민연금제도가 있나요?\nA. 유족연금 중복지급률을 10%p 인상합니다.\n현재 입법예고 중으로, 배우자 사망 등으로 유족연금 수급권이 발생할 경우, 유족연금을 포기하고 노령(장애)연금을 선택하면 지금까지는 유족연금의 20%를 추가로 지급받았으나 그 비율을 30%까지 상향할 예정입니다.\n또한, 중복지급률 상향으로 노령(장애)연금과 유족연금 간 선택의 폭이 더 커질 것으로 기대됩니다.\n기존에 노령연금과 유족연금(20%)을 중복으로 받고 있는 분도 시행일 이후부터는 유족연금을 인상(20%→30%)해 받게 됩니다.\n또 노령연금보다 유족연금이 더 커서 유족연금만 받으시던 분도 노령연금을 선택하시면 유족연금 30%를 함께 받으실 수 있습니다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "Q. 올해부터 새롭게 바뀌는 국민연금제도가 있나요?",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "A. 유족연금 중복지급률을 10%p 인상합니다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재 입법예고 중으로, 배우자 사망 등으로 유족연금 수급권이 발생할 경우, 유족연금을 포기하고 노령(장애)연금을 선택하면 지금까지는 유족연금의 20%를 추가로 지급받았으나 그 비율을 30%까지 상향할 예정입니다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한, 중복지급률 상향으로 노령(장애)연금과 유족연금 간 선택의 폭이 더 커질 것으로 기대됩니다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기존에 노령연금과 유족연금(20%)을 중복으로 받고 있는 분도 시행일 이후부터는 유족연금을 인상(20%→30%)해 받게 됩니다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 노령연금보다 유족연금이 더 커서 유족연금만 받으시던 분도 노령연금을 선택하시면 유족연금 30%를 함께 받으실 수 있습니다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배스킨라빈스, 아이스크림 구독 서비스 '핑크 버드' 론칭",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

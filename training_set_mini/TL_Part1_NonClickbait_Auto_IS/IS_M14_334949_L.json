@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334949",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "안경덕 고용노동부 장관, 코로나19 확진…국무위원 중 첫 사례",
+		"newsSubTitle": "",
+		"newsContent": "안경덕 고용노동부 장관이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받고 자가격리에 들어갔다.\n고용노동부는 안 장관이 지난 주말 피로감을 느껴 코로나19 검사를 받고 6일 저녁 양성판정을 받았다고 7일 밝혔다.\n안 장관은 백신을 3차까지 접종한 상태에서 '돌파감염' 된 것으로 알려졌으며, 현재 증상은 거의 없는 것으로 전해한다.\n가족과 비서진도 신속항원검사에서 음성판정을 받은 것으로 전한다.\n고용노동부 관계자는 “안 장관이 현재 서울 자택에서 격리하며 비대면으로 업무를 보고 있다”면서 “이번 주 예정된 일정은 차관이나 실장이 대신 참석할 계획”이라고 말했다.\n국무위원이 코로나19에 확진된 것은 안 장관이 처음이다.\n장관급 가운데는 한상혁 방송통신위원장이 작년 11월 확진된 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안경덕 고용노동부 장관이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받고 자가격리에 들어갔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고용노동부는 안 장관이 지난 주말 피로감을 느껴 코로나19 검사를 받고 6일 저녁 양성판정을 받았다고 7일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "안 장관은 백신을 3차까지 접종한 상태에서 '돌파감염' 된 것으로 알려졌으며, 현재 증상은 거의 없는 것으로 전해한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가족과 비서진도 신속항원검사에서 음성판정을 받은 것으로 전한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고용노동부 관계자는 “안 장관이 현재 서울 자택에서 격리하며 비대면으로 업무를 보고 있다”면서 “이번 주 예정된 일정은 차관이나 실장이 대신 참석할 계획”이라고 말했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국무위원이 코로나19에 확진된 것은 안 장관이 처음이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "장관급 가운데는 한상혁 방송통신위원장이 작년 11월 확진된 바 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안경덕 고용노동부 장관, 코로나19 확진…국무위원 중 첫 사례",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

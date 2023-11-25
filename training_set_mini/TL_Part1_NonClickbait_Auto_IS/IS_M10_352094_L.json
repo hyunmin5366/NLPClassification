@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352094",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT, 장애보상 '홈페이지·콜센터' 개설…\\\"액수 안내, 신청접수\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "KT는 최근 전국 네트워크 장애 사고에 따른 고객보상 '전담지원센터'를 5일 개설했다.\n전담 지원센터는 전용 홈페이지와 전담 콜센터에 각각 설치됐다.\n전용 홈페이지에서는 보상기준 및 보상대상, 보상금액 등을 안내한다.\n이메일 상담도 가능하다.\n전담 콜센터는 홈페이지 이용이 어려운 고객을 배려하고 소상공인 분류에서 누락된 고객의 추가 신청을 접수받는다.\n한편 KT는 지난 1일 발표한 네트워크 장애 사고 보상안에서 개인고객은 15시간, 소상공인은 10일 분량의 요금을 감면하기로 했다.\n회선당 감면액은 개인 1000원, 소상공인 7000~8000원 수준이 될 것으로 보인다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT는 최근 전국 네트워크 장애 사고에 따른 고객보상 '전담지원센터'를 5일 개설했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전담 지원센터는 전용 홈페이지와 전담 콜센터에 각각 설치됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전용 홈페이지에서는 보상기준 및 보상대상, 보상금액 등을 안내한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이메일 상담도 가능하다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전담 콜센터는 홈페이지 이용이 어려운 고객을 배려하고 소상공인 분류에서 누락된 고객의 추가 신청을 접수받는다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 KT는 지난 1일 발표한 네트워크 장애 사고 보상안에서 개인고객은 15시간, 소상공인은 10일 분량의 요금을 감면하기로 했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "회선당 감면액은 개인 1000원, 소상공인 7000~8000원 수준이 될 것으로 보인다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 장애보상 '홈페이지·콜센터' 개설…\\\"액수 안내, 신청접수\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

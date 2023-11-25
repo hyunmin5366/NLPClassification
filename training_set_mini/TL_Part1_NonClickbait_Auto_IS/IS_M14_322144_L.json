@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322144",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "[소프트웨이브 2019]정희두 마크로젠 최고의학책임자",
+		"newsSubTitle": "",
+		"newsContent": "정희두 마크로젠 최고의학책임자는 인터렉티브 웹 애니메이션을 이용한 유전자 분석 활용 등 새로운 의료 패러다임을 설명했다.\n유전자는 개개인이 다른 형질을 갖고 있어 질병진단·예측 분야에 쓰인다.\n과거와 달리 빅데이터 분석기술과 데이터 축적으로 활용도가 높아졌다.\n정 최고의학책임자는 “현재 전체 유전자 20%가 밝혀졌으며 IT기술 발달로 분석 속도까지 빨라지고 있다”면서 “전장유전체연관분석(GWAS)기반으로 평균대비 얼마나 위암 위험이 좋은지 등 위험을 수치로 나타낸다”고 말했다.\nGWAS기반 분석은 단순히 유전적 요인뿐 아니라 식이·운동습관, 주거·근무 환경, 사회·심리 요인 등 복잡성을 바탕으로 분석 결과를 추론한다.\n정 최고의학책임자는 “질병예측 유전자 검사는 개인 정기검진 시 어떤 부분 검진이 추가로 필요한지 판단 가능하다”면서 “개인 맞춤형 검진으로 진단 효율성을 높일 수 있다”고 말했다.\n이어 “유전자분석결과는 자체 개발한 사이트를 통해 익명화 시켜 로그인, 직접 활용 가능하다”면서 “진료현장에서 쓸 수 있도록 설명 시스템도 구축했다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정희두 마크로젠 최고의학책임자는 인터렉티브 웹 애니메이션을 이용한 유전자 분석 활용 등 새로운 의료 패러다임을 설명했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유전자는 개개인이 다른 형질을 갖고 있어 질병진단·예측 분야에 쓰인다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과거와 달리 빅데이터 분석기술과 데이터 축적으로 활용도가 높아졌다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정 최고의학책임자는 “현재 전체 유전자 20%가 밝혀졌으며 IT기술 발달로 분석 속도까지 빨라지고 있다”면서 “전장유전체연관분석(GWAS)기반으로 평균대비 얼마나 위암 위험이 좋은지 등 위험을 수치로 나타낸다”고 말했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "GWAS기반 분석은 단순히 유전적 요인뿐 아니라 식이·운동습관, 주거·근무 환경, 사회·심리 요인 등 복잡성을 바탕으로 분석 결과를 추론한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정 최고의학책임자는 “질병예측 유전자 검사는 개인 정기검진 시 어떤 부분 검진이 추가로 필요한지 판단 가능하다”면서 “개인 맞춤형 검진으로 진단 효율성을 높일 수 있다”고 말했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 “유전자분석결과는 자체 개발한 사이트를 통해 익명화 시켜 로그인, 직접 활용 가능하다”면서 “진료현장에서 쓸 수 있도록 설명 시스템도 구축했다”고 덧붙였다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[소프트웨이브 2019]정희두 마크로젠 최고의학책임자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

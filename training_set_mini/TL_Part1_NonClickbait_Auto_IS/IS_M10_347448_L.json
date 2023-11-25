@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347448",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "네이버가 말하는 '고래(웨일)'의 꿈",
+		"newsSubTitle": "null",
+		"newsContent": "#. 나 보안씨는 얼마전 거래하던 은행 웹사이트에 접근했다가 깜짝 놀랐다.\n뜬금없이 '보안관련 인증절차를 진행 중'이라는 문구와 금융감독원 마크가 새겨진 팝업창이 나타났다.\n이용자 PC에 악성코드를 심어 가짜 사이트로 유도하는 '파밍'(Pharming·전자금융사기) 수법이었다.\n이용자들을 대상으로 사기를 치는 파밍 사이트 자체를 사전에 차단할 수 있는 방법은 없을까.\n이에 대한 해답을 네이버가 찾았다.\n네이버의 브라우저 '웨일'(whale)은 는 파밍으로 만든 사이트를 사용자에게 연결하지 않는다.\n송창현 네이버 최고기술책임자(CTO)는 16일 서울 강남구 삼성동 코엑스 그랜드볼룸에서 진행한 개발자 대회 '데뷰 2017'에서 웨일의 정식 버전 출시를 알리며 \\\"다양한 기능과 보안을 중심으로 기술적인 보완작업을 진행했다\\\"고 밝혔다.\n웨일은 네이버가 5년의 개발 기간을 거쳐 지난해 처음 베터버전을 공개한 브라우저다.\n이번에 정식 버전을 내놓으며 편의성과 함께 강조한 것이 보안이다.\n우선 사용자입장에서 가장 중요한 아이디, 비밀번호와 같은 민감한 정보의 암호화를 강화했다.\n조상현 네이버 웨일 시큐리티 리더는 \\\"이용자들이 갈수록 다양한 종류의 사이트 아이디와 비밀번호를 관리하는 것을 힘겨워 하고 있다\\\"며 \\\"웨일은 이용자마다 다른 암호키로 비밀번호를 암호화하고 저장해오고 있다\\\"고 설명했다.\n네이버 웨일은 구글에서 쓰는 '세이프 브라우징'도 도입했다.\n세이프 브라우징이란 안전하지 않은 웹사이트를 식별해 사용자가 피해를 입는 상황을 예방하는 기능이다.\n현재 구글 세이프 브라우징은 전 세계 30억개 디바이스를 분석해 매주 5000만개의 디바이스에 차단 메시지를 보내고 있다.\n웨일의 보안 기조에는 네이버가 그동안 다양한 서비스를 운영하며 쌓은 노하우가 집약됐다고 해도 과언이 아니다.\n조 리더는 \\\"웨일의 기본적인 목표는 이용자들이 웹서핑 중 악성코드에 감염되지 않는 이상적인 세상을 만드는 것\\\"이라며 \\\"구글의 세이프 브라우징 데이터베이스(DB)를 포함해 네이버에서 운영하는 다양한 종류의 악성 사이트 관리 시스템 등의 데이터를 분석한다\\\"고 설명했다.\n웨일 브라우저에서는 일반 백신이 탐지하는 것과 달리 가상의 머신이 사이트를 방문해 해커들의 행위를 분석하는 작업도 이뤄진다.\n정상적인 사이트를 악성으로 오인하는 오탐률을 최소화하기 위한 노력도 병행한다.\n조 리더는 \\\"2009년부터 네이버 메인 뉴스 사이트를 운영하면서 오탐률을 줄이기 위한 노하우를 쌓아왔다\\\"며 \\\"파밍 뿐 아니라 금융, 공공기관 등을 가장해 개인의 금융정보 등을 탈취하는 피싱과 같은 공격을 방지하기 위한 기능도 강화했다\\\"고 밝혔다.\n한편, 네이버는 지난해 말 웨일을 공개하면서 개선 의견, 아이디어를 소통하는 공간인 '웨일 연구소'를 통해 서비스 개선을 위한 2만여개에 달하는 의견을 받아왔다.\n네이버는 이용자들의 의견을 반영해 10개월간의 베타 서비스 기간 동안 총 23차례 업데이트를 진행했다.\n김효 네이버 웨일 리더는 \\\"모바일 버전 웨일 브라우저까지 선보이면 이용자들은 윈도, 맥, 모바일 등 어떠한 환경에서도 더 편리하고 새로운 경험이 가능해진다\\\"며 \\\"웨일은 기술적 측면에서 새로운 부분을 시도해나가면서 이용자들의 새로운 아이디어를 반영해 만들어가겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "#. 나 보안씨는 얼마전 거래하던 은행 웹사이트에 접근했다가 깜짝 놀랐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "뜬금없이 '보안관련 인증절차를 진행 중'이라는 문구와 금융감독원 마크가 새겨진 팝업창이 나타났다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이용자 PC에 악성코드를 심어 가짜 사이트로 유도하는 '파밍'(Pharming·전자금융사기) 수법이었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이용자들을 대상으로 사기를 치는 파밍 사이트 자체를 사전에 차단할 수 있는 방법은 없을까.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 대한 해답을 네이버가 찾았다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네이버의 브라우저 '웨일'(whale)은 는 파밍으로 만든 사이트를 사용자에게 연결하지 않는다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송창현 네이버 최고기술책임자(CTO)는 16일 서울 강남구 삼성동 코엑스 그랜드볼룸에서 진행한 개발자 대회 '데뷰 2017'에서 웨일의 정식 버전 출시를 알리며 \\\"다양한 기능과 보안을 중심으로 기술적인 보완작업을 진행했다\\\"고 밝혔다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "웨일은 네이버가 5년의 개발 기간을 거쳐 지난해 처음 베터버전을 공개한 브라우저다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이번에 정식 버전을 내놓으며 편의성과 함께 강조한 것이 보안이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "우선 사용자입장에서 가장 중요한 아이디, 비밀번호와 같은 민감한 정보의 암호화를 강화했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "조상현 네이버 웨일 시큐리티 리더는 \\\"이용자들이 갈수록 다양한 종류의 사이트 아이디와 비밀번호를 관리하는 것을 힘겨워 하고 있다\\\"며 \\\"웨일은 이용자마다 다른 암호키로 비밀번호를 암호화하고 저장해오고 있다\\\"고 설명했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "네이버 웨일은 구글에서 쓰는 '세이프 브라우징'도 도입했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "세이프 브라우징이란 안전하지 않은 웹사이트를 식별해 사용자가 피해를 입는 상황을 예방하는 기능이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "현재 구글 세이프 브라우징은 전 세계 30억개 디바이스를 분석해 매주 5000만개의 디바이스에 차단 메시지를 보내고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "웨일의 보안 기조에는 네이버가 그동안 다양한 서비스를 운영하며 쌓은 노하우가 집약됐다고 해도 과언이 아니다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "조 리더는 \\\"웨일의 기본적인 목표는 이용자들이 웹서핑 중 악성코드에 감염되지 않는 이상적인 세상을 만드는 것\\\"이라며 \\\"구글의 세이프 브라우징 데이터베이스(DB)를 포함해 네이버에서 운영하는 다양한 종류의 악성 사이트 관리 시스템 등의 데이터를 분석한다\\\"고 설명했다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "웨일 브라우저에서는 일반 백신이 탐지하는 것과 달리 가상의 머신이 사이트를 방문해 해커들의 행위를 분석하는 작업도 이뤄진다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "정상적인 사이트를 악성으로 오인하는 오탐률을 최소화하기 위한 노력도 병행한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "조 리더는 \\\"2009년부터 네이버 메인 뉴스 사이트를 운영하면서 오탐률을 줄이기 위한 노하우를 쌓아왔다\\\"며 \\\"파밍 뿐 아니라 금융, 공공기관 등을 가장해 개인의 금융정보 등을 탈취하는 피싱과 같은 공격을 방지하기 위한 기능도 강화했다\\\"고 밝혔다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "한편, 네이버는 지난해 말 웨일을 공개하면서 개선 의견, 아이디어를 소통하는 공간인 '웨일 연구소'를 통해 서비스 개선을 위한 2만여개에 달하는 의견을 받아왔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "네이버는 이용자들의 의견을 반영해 10개월간의 베타 서비스 기간 동안 총 23차례 업데이트를 진행했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "김효 네이버 웨일 리더는 \\\"모바일 버전 웨일 브라우저까지 선보이면 이용자들은 윈도, 맥, 모바일 등 어떠한 환경에서도 더 편리하고 새로운 경험이 가능해진다\\\"며 \\\"웨일은 기술적 측면에서 새로운 부분을 시도해나가면서 이용자들의 새로운 아이디어를 반영해 만들어가겠다\\\"고 말했다.",
+				"sentenceSize": 156
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버가 말하는 '고래(웨일)'의 꿈",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

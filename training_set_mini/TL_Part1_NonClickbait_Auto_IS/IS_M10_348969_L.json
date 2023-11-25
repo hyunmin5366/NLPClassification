@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348969",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "네이버, SNS·댓글 반응 보여주는 '실시간검색' 18일 종료",
+		"newsSubTitle": "null",
+		"newsContent": "네이버가 SNS(사회관계망서비스)와 뉴스의 댓글 등 사용자의 반응을 검색해주는 '실시간검색' 서비스를 오는 18일 종료한다.\n네이버는 \\\"여러 가지 플랫폼을 통해 라이브 영상을 보며 채팅으로 의견을 나누는 등 콘텐츠를 제공하는 플랫폼과 이에 대해 사용자가 의견을 남기는 방식들이 다양해지면서 실시간 검색 서비스 종료를 결정했다\\\"고 3일 밝혔다.\n실시간검색은 사용자가 입력한 키워드와 관련 검색 시점의 다양한 의견이나 반응을 보여주는 서비스다.\n뉴스의 댓글, 네이버 카페글, SNS 등에서 연관 키워드가 검색된다.\n연예나 스포츠 등 화제성이 높은 분야에서 많은 검색 결과가 노출됐다.\n앞서 네이버는 지난달 25일을 기준으로 실시간 검색어 순위와 뉴스토픽 등 서비스를 종료한 바 있다.\n네이버 관계자는 \\\"인공지능(AI) 기반의 추천 콘텐츠 강화를 통해 개인화된 맞춤형 정보와 사용자 의도에 맞는 정확한 정보를 제공하고 더 다양한 형태로 생성되는 실시간 반응을 효과적으로 확인할 수 있도록 서비스를 개선해 나가겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 SNS(사회관계망서비스)와 뉴스의 댓글 등 사용자의 반응을 검색해주는 '실시간검색' 서비스를 오는 18일 종료한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버는 \\\"여러 가지 플랫폼을 통해 라이브 영상을 보며 채팅으로 의견을 나누는 등 콘텐츠를 제공하는 플랫폼과 이에 대해 사용자가 의견을 남기는 방식들이 다양해지면서 실시간 검색 서비스 종료를 결정했다\\\"고 3일 밝혔다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "실시간검색은 사용자가 입력한 키워드와 관련 검색 시점의 다양한 의견이나 반응을 보여주는 서비스다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "뉴스의 댓글, 네이버 카페글, SNS 등에서 연관 키워드가 검색된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연예나 스포츠 등 화제성이 높은 분야에서 많은 검색 결과가 노출됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 네이버는 지난달 25일을 기준으로 실시간 검색어 순위와 뉴스토픽 등 서비스를 종료한 바 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버 관계자는 \\\"인공지능(AI) 기반의 추천 콘텐츠 강화를 통해 개인화된 맞춤형 정보와 사용자 의도에 맞는 정확한 정보를 제공하고 더 다양한 형태로 생성되는 실시간 반응을 효과적으로 확인할 수 있도록 서비스를 개선해 나가겠다\\\"고 말했다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버, SNS·댓글 반응 보여주는 '실시간검색' 18일 종료",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

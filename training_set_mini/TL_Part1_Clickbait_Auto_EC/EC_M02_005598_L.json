@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005598",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통",
+		"newsTitle": "네이버 최초 가상인간 '이솔' 네쇼라에서 데뷔",
+		"newsSubTitle": "3일 나스 신상품 론칭쇼 출연 뷰티 관심 많은 MZ 인플루언서",
+		"newsContent": "네이버가 만든 최초의 버츄얼 휴먼 '이솔(SORI)'이 대중에 모습을 드러낸다.\n네이버는 3일 자이언트스텝과 공동개발한 이솔이 이날 오후 네이버 쇼핑라이브 '나스(NARS)' 신상품 론칭쇼에서 데뷔를 한다고 밝혔다.\n이솔은 리얼타임 엔진 기반으로 제작된 Full 3D 버츄얼 휴먼이다.\nCG 및 딥페이크 기술로 실제 사람 모델에 얼굴을 합성하는 일반적인 버츄얼 휴먼보다 표현력이 풍부하고 모션 연출이 자유로운 것이 특징이다.\n이솔은 뷰티 분야에 관심이 많은 24세로 캐릭터 설정이 돼있다.\n나스 신상품 론칭쇼에서 이솔은 시청자들에게 상품의 특장점을 소개하며 MZ 인플루언서로 첫 발을 뗄 예정이다.\n뷰티 분야를 좋아하는 자신의 경험을 살려 봄에 어울리는 색조 아이템을 다양하게 추천하고 라이브스타 김해나의 '클로즈업 뷰티' 라이브에도 출연해 소통하는 모습을 보일 예정이다.\n네이버는 향후 TTS 데이터를 연동하고 인공지능 보이스 기술을 결합하는 작업을 거쳐 더욱 고도화된 버츄얼 휴먼을 구현해 낸다는 계획이다.\n네이버 관계자는 데일리임팩트에 \\\"이솔은 쇼핑라이브를 시작으로 네이버의 다양한 콘텐츠 영역에서 활동할 예정\\\"이라며 \\\"성우나 시연자 없이도 자신만의 목소리로 사람과 실시간 소통이 가능한 완전 자동화된 버츄얼 휴먼을 선보이는 것이 목표\\\"라고 전했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 만든 최초의 버츄얼 휴먼 '이솔(SORI)'이 대중에 모습을 드러낸다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버는 3일 자이언트스텝과 공동개발한 이솔이 이날 오후 네이버 쇼핑라이브 '나스(NARS)' 신상품 론칭쇼에서 데뷔를 한다고 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이솔은 리얼타임 엔진 기반으로 제작된 Full 3D 버츄얼 휴먼이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "CG 및 딥페이크 기술로 실제 사람 모델에 얼굴을 합성하는 일반적인 버츄얼 휴먼보다 표현력이 풍부하고 모션 연출이 자유로운 것이 특징이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이솔은 뷰티 분야에 관심이 많은 24세로 캐릭터 설정이 돼있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "나스 신상품 론칭쇼에서 이솔은 시청자들에게 상품의 특장점을 소개하며 MZ 인플루언서로 첫 발을 뗄 예정이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "뷰티 분야를 좋아하는 자신의 경험을 살려 봄에 어울리는 색조 아이템을 다양하게 추천하고 라이브스타 김해나의 '클로즈업 뷰티' 라이브에도 출연해 소통하는 모습을 보일 예정이다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "네이버는 향후 TTS 데이터를 연동하고 인공지능 보이스 기술을 결합하는 작업을 거쳐 더욱 고도화된 버츄얼 휴먼을 구현해 낸다는 계획이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네이버 관계자는 데일리임팩트에 \\\"이솔은 쇼핑라이브를 시작으로 네이버의 다양한 콘텐츠 영역에서 활동할 예정\\\"이라며 \\\"성우나 시연자 없이도 자신만의 목소리로 사람과 실시간 소통이 가능한 완전 자동화된 버츄얼 휴먼을 선보이는 것이 목표\\\"라고 전했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지역 아파트 거래량 소폭 감소",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

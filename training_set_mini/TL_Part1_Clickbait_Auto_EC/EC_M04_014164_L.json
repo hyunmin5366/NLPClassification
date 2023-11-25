@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014164",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "'직류송전' 최대 난제 해결했다",
+		"newsSubTitle": "전기연 고속 직류 차단기 개발…장거리 송전시 손실 최소화",
+		"newsContent": "직류(DC)송전의 최대 난제를 풀 수 있는 기술이 개발돼 신뢰성 높은 전력 공급의 조기 실현이 가능할 전망이다.\n한국전기연구원(KERI)은 전력기기연구센터 이우영 책임연구원팀이 고압 직류송전(HVDC) 전력망 발전에 혁신을 불러올 고속 직류 차단기(DC Circuit-Breaker·사진) 개발에 성공했다고 12일 밝혔다.\n이번에 개발된 직류 차단기는 정격전압 33kV, 정격전류 1kA, 차단전류 8kA, 차단시간 2ms(1000분의 2초)이며, 전기연은 다음 단계로 송전급 전압의 직류 차단기(정격전압 80kV, 정격전류 2kA, 차단전류 8kA, 차단시간 2ms) 기술을 개발 중이다.\nHVDC는 현재 일반적으로 사용하는 교류(AC)가 아닌 고압의 직류를 이용해 전기에너지를 전송하는 기술이다.\n직류는 교류와 달리 전력제어가 가능하고 장거리 송전시 손실이 적어 새롭게 대두되고 있다.\n특히 다른 전력망 연계는 물론 국가간 계통연계에 활용하거나 반대로 전력망을 분할해 고장이 파급되는 것을 막을 수 있는 차세대 전력전송 개념으로 주목받고 있다.\n차세대 전력망은 교류와 직류가 혼합된 하이브리드 형태로 발전할 것으로 예측되는 상황이다.\n중첩된 직류 전력망은 나라와 대륙을 연계하고 전력 부하 균형을 조정, 기존 교류 송전망을 보강하게 된다.\n직류 전력망을 구성하는데 가장 큰 기술적 장애 중 하나가 직류 차단기다.\n2012년 스위스 전력기업인 ABB가 최초로 직류 차단기 기술을 제시해 100여년 간의 전기계 숙원을 해결한 것으로 평가됐지만 아직 상용화에는 이르지 못했다.\n전기연 연구팀이 개발한 기술은 기존에 공개된 직류 차단기보다 한층 개선된 형태다.\n고장 전류 발생시 눈 깜빡임보다 수십배 빠른 1000분의 2초 이내에 발전소 전력 조류를 차단할 수 있다.\n주 통전로를 기계식 스위치만으로 구성해 정상 운전시 전력 손실을 최소화할 수 있고, 구조도 간단하다.\n차단기의 신뢰도 향상은 물론 비용 절감이라는 경쟁력도 갖추고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "직류(DC)송전의 최대 난제를 풀 수 있는 기술이 개발돼 신뢰성 높은 전력 공급의 조기 실현이 가능할 전망이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전기연구원(KERI)은 전력기기연구센터 이우영 책임연구원팀이 고압 직류송전(HVDC) 전력망 발전에 혁신을 불러올 고속 직류 차단기(DC Circuit-Breaker·사진) 개발에 성공했다고 12일 밝혔다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번에 개발된 직류 차단기는 정격전압 33kV, 정격전류 1kA, 차단전류 8kA, 차단시간 2ms(1000분의 2초)이며, 전기연은 다음 단계로 송전급 전압의 직류 차단기(정격전압 80kV, 정격전류 2kA, 차단전류 8kA, 차단시간 2ms) 기술을 개발 중이다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "HVDC는 현재 일반적으로 사용하는 교류(AC)가 아닌 고압의 직류를 이용해 전기에너지를 전송하는 기술이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "직류는 교류와 달리 전력제어가 가능하고 장거리 송전시 손실이 적어 새롭게 대두되고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 다른 전력망 연계는 물론 국가간 계통연계에 활용하거나 반대로 전력망을 분할해 고장이 파급되는 것을 막을 수 있는 차세대 전력전송 개념으로 주목받고 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "차세대 전력망은 교류와 직류가 혼합된 하이브리드 형태로 발전할 것으로 예측되는 상황이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "중첩된 직류 전력망은 나라와 대륙을 연계하고 전력 부하 균형을 조정, 기존 교류 송전망을 보강하게 된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "직류 전력망을 구성하는데 가장 큰 기술적 장애 중 하나가 직류 차단기다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "2012년 스위스 전력기업인 ABB가 최초로 직류 차단기 기술을 제시해 100여년 간의 전기계 숙원을 해결한 것으로 평가됐지만 아직 상용화에는 이르지 못했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "전기연 연구팀이 개발한 기술은 기존에 공개된 직류 차단기보다 한층 개선된 형태다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "고장 전류 발생시 눈 깜빡임보다 수십배 빠른 1000분의 2초 이내에 발전소 전력 조류를 차단할 수 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "주 통전로를 기계식 스위치만으로 구성해 정상 운전시 전력 손실을 최소화할 수 있고, 구조도 간단하다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "차단기의 신뢰도 향상은 물론 비용 절감이라는 경쟁력도 갖추고 있다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정부 행복주택 사업지 6곳 추가로 선정",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

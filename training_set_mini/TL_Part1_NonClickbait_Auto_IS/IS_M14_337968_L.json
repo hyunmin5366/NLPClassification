@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337968",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "악성코드 감염 ATM '개인정보 저장'",
+		"newsSubTitle": "",
+		"newsContent": "악성코드에 감염된 현금인출기(ATM)가 저장해서는 안 될 개인정보를 남긴 것으로 드러났다.\nATM에 연결된 백신 업데이트 관리 서버 보안도 허술했다.\nATM을 운영하는 VAN(밴) 기업은 기기 내 개인정보가 저장되는 사실을 최근 발생한 사고 조사에서 파악했다.\n현금과 개인정보가 오가는 ATM 응용프로그램 설계와 보안 시스템 운영에 허점이 드러난 인재였다.\n29일 금융업계에 따르면 악성코드에 감염된 ATM을 조사한 결과 내부에 개인정보를 저장한 것이 발견됐다.\n해당 ATM 기기 외에 다른 기종은 신용카드 등 개인정보를 저장하지 않았다.\nATM 밴사는 제조사에서 응용프로그램을 업데이트, 개인정보 저장 기능을 삭제했다.\n국내 대부분의 ATM은 윈도 환경에 제조사가 개발한 응용프로그램을 운영한다.\n사실상 윈도 PC와 같은 환경이다.\n다른 ATM 기기는 내부에 카드 정보를 저장하지 않는다.\n해당 기기는 암호화 없이 개인정보를 저장했다.\n경찰은 공격자가 해당 ATM에 어떻게 침투했는지 최초 유입 경로를 조사하고 있다.\nATM 밴 운영사 관계자는 \\\"ATM 밴 망 자체가 뚫린 것이 아니라 특정 제조사가 개발한 ATM만 악성코드에 감염됐다\\\"면서 \\\"ATM에 안티바이러스 솔루션을 자동으로 업데이트하는 백신 서버를 통해 침투했을 가능성을 보고 있다\\\"고 설명했다.\nATM 밴사가 운영하는 기기는 인터넷망에 가상사설망(VPN) 기능으로 연결된다.\n현재 상당수의 공용 ATM 기기에는 PC처럼 안티바이러스 솔루션이 깔려 있다.\n매일 등장하는 수많은 악성코드의 패턴을 업데이트하는 서버가 연결된다.\n해당 업데이트 서버에 취약점이 있고, 이를 이용했을 가능성이 점쳐진다.\n한 보안 전문가는 \\\"2013년 3∙20 사이버테러 때도 백신 업데이트 서버를 안전하게 운영하지 않아 해커가 이를 통해 금융 폐쇄망으로 들어갔다\\\"면서 \\\"이번 사고도 과거와 유사한 통로를 이용한 정황\\\"이라고 분석했다.\n백신 업데이트 서버처럼 중앙관리 소프트웨어(SW)는 해커의 표적이다.\n한꺼번에 연결된 모든 기기에 악성코드를 유포, 정보를 유출하기 때문이다.\nNSHC가 최근 내놓은 'ATM 공격 사례와 악성코드 특징 분석 보고서'에 따르면 ATM은 윈도 시스템에서 발견된 많은 취약점에 그대로 노출된다.\n네트워크에 연결된 기기를 확인하는 검색 엔진 쇼단(Shodan)에서도 ATM은 쉽게 검색된다.\nATM은 운용체계(OS)와 네트워크 공격에 모두 노출된다.\n해커는 2007년부터 ATM을 노린 악성코드를 제작해 유포했으며, 매년 그 수가 증가했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "악성코드에 감염된 현금인출기(ATM)가 저장해서는 안 될 개인정보를 남긴 것으로 드러났다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ATM에 연결된 백신 업데이트 관리 서버 보안도 허술했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ATM을 운영하는 VAN(밴) 기업은 기기 내 개인정보가 저장되는 사실을 최근 발생한 사고 조사에서 파악했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현금과 개인정보가 오가는 ATM 응용프로그램 설계와 보안 시스템 운영에 허점이 드러난 인재였다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "29일 금융업계에 따르면 악성코드에 감염된 ATM을 조사한 결과 내부에 개인정보를 저장한 것이 발견됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 ATM 기기 외에 다른 기종은 신용카드 등 개인정보를 저장하지 않았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "ATM 밴사는 제조사에서 응용프로그램을 업데이트, 개인정보 저장 기능을 삭제했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국내 대부분의 ATM은 윈도 환경에 제조사가 개발한 응용프로그램을 운영한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "사실상 윈도 PC와 같은 환경이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "다른 ATM 기기는 내부에 카드 정보를 저장하지 않는다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "해당 기기는 암호화 없이 개인정보를 저장했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "경찰은 공격자가 해당 ATM에 어떻게 침투했는지 최초 유입 경로를 조사하고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "ATM 밴 운영사 관계자는 \\\"ATM 밴 망 자체가 뚫린 것이 아니라 특정 제조사가 개발한 ATM만 악성코드에 감염됐다\\\"면서 \\\"ATM에 안티바이러스 솔루션을 자동으로 업데이트하는 백신 서버를 통해 침투했을 가능성을 보고 있다\\\"고 설명했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "ATM 밴사가 운영하는 기기는 인터넷망에 가상사설망(VPN) 기능으로 연결된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "현재 상당수의 공용 ATM 기기에는 PC처럼 안티바이러스 솔루션이 깔려 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "매일 등장하는 수많은 악성코드의 패턴을 업데이트하는 서버가 연결된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "해당 업데이트 서버에 취약점이 있고, 이를 이용했을 가능성이 점쳐진다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "한 보안 전문가는 \\\"2013년 3∙20 사이버테러 때도 백신 업데이트 서버를 안전하게 운영하지 않아 해커가 이를 통해 금융 폐쇄망으로 들어갔다\\\"면서 \\\"이번 사고도 과거와 유사한 통로를 이용한 정황\\\"이라고 분석했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "백신 업데이트 서버처럼 중앙관리 소프트웨어(SW)는 해커의 표적이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "한꺼번에 연결된 모든 기기에 악성코드를 유포, 정보를 유출하기 때문이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "NSHC가 최근 내놓은 'ATM 공격 사례와 악성코드 특징 분석 보고서'에 따르면 ATM은 윈도 시스템에서 발견된 많은 취약점에 그대로 노출된다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "네트워크에 연결된 기기를 확인하는 검색 엔진 쇼단(Shodan)에서도 ATM은 쉽게 검색된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "ATM은 운용체계(OS)와 네트워크 공격에 모두 노출된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "해커는 2007년부터 ATM을 노린 악성코드를 제작해 유포했으며, 매년 그 수가 증가했다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "악성코드 감염 ATM '개인정보 저장'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

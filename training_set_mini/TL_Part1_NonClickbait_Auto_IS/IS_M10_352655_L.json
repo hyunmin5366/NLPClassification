@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352655",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "테슬라, '뛰뛰빵빵' 대신 \\\"차 지나갑니다!\\\"…확성기로 외친다",
+		"newsSubTitle": "null",
+		"newsContent": "앞으로 전기차 테슬라 운전자는 경적 소리 대신 외부 스피커를 통해 육성으로 보행자 경고를 할 수 있다. 26일(현지시간) 일렉트렉과 더버지 등 미국 IT매체에 따르면 테슬라는 크리스마스 연휴 동안 진행된 현지 소프트웨어 업데이트에서 이른바 '메가폰(확성기)' 기능을 추가했다.\n해당 업데이트는 2019년 이후 출시된 최신 테슬라 모델에서만 사용할 수 있다.\n전기·하이브리드차는 보행자 안전을 위해 저속 주행할 때 소음을 발생시켜야 한다는 미국 도로교통안전국 규정에 따라 마련된 기능이다.\n테슬라는 이를 운전자가 직접 외부 스피커로 보행자에게 경고할 수 있는 형태로 구현했다.\n테슬라는 지난해 크리스마스 연휴 기간의 소프트웨어 업데이트에서 이미 운전자가 외부 스피커를 자유롭게 이용할 수 있도록 했다.\n그 일환으로 기본 경적 소리를 운전자가 원하는 음원으로 변경할 수 있도록 하는 이른바 '붐박스' 기능을 추가했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "앞으로 전기차 테슬라 운전자는 경적 소리 대신 외부 스피커를 통해 육성으로 보행자 경고를 할 수 있다. 26일(현지시간) 일렉트렉과 더버지 등 미국 IT매체에 따르면 테슬라는 크리스마스 연휴 동안 진행된 현지 소프트웨어 업데이트에서 이른바 '메가폰(확성기)' 기능을 추가했다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해당 업데이트는 2019년 이후 출시된 최신 테슬라 모델에서만 사용할 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전기·하이브리드차는 보행자 안전을 위해 저속 주행할 때 소음을 발생시켜야 한다는 미국 도로교통안전국 규정에 따라 마련된 기능이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "테슬라는 이를 운전자가 직접 외부 스피커로 보행자에게 경고할 수 있는 형태로 구현했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "테슬라는 지난해 크리스마스 연휴 기간의 소프트웨어 업데이트에서 이미 운전자가 외부 스피커를 자유롭게 이용할 수 있도록 했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그 일환으로 기본 경적 소리를 운전자가 원하는 음원으로 변경할 수 있도록 하는 이른바 '붐박스' 기능을 추가했다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "테슬라, '뛰뛰빵빵' 대신 \\\"차 지나갑니다!\\\"…확성기로 외친다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

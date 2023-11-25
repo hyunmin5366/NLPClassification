@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327241",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "비스텔, 미 세미콘웨스트에 스마트 제조 솔루션 전시",
+		"newsSubTitle": "",
+		"newsContent": "스마트 제조 솔루션 선도 기업 비스텔(대표 최운규)이 미국 샌프란시스코에서 열린 미국 최대 반도체장비 및 부품전시회 세미콘웨스트에 참가했다.\n비스텔은 적응형 인텔리전스(AI:Adaptive Intelligence)를 적용한 DFD(Dynamic Fault Detection)와 CM(Chamber Matching)을 선보였다.\n이 솔루션은 반도체 제조 환경에 생산성 향상 발판을 마련해 생산 경쟁력을 갖추는데 유리하게 작용한다.\nDFD는 실시간 모니터링 솔루션으로 데이터를 실시간 모니터링하고 추적 및 분석 기능을 제공, 결함을 사전 감지하고 품질과 수율을 향상시킬 수 있다.\nCM은 반도체 제조 공장에 구성된 기기 내 공정을 수행하는 단위인 챔버를 비교 분석해 제조 장비 성능을 최적화하고 수율 저하를 예방한다.\n최운규 대표는 “공정 환경에 실시간 모니터링 및 고급 분석을 수행해 문제를 조기 파악하고 공정 상태를 최적화하며 고객에게 장비나 프로세스 성능을 향상할 수 있는 기회를 제공할 것”이라면서 “북미 지역 경쟁력을 확보하고 스마트 제조 솔루션 선도업체로 입지를 확고히 할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스마트 제조 솔루션 선도 기업 비스텔(대표 최운규)이 미국 샌프란시스코에서 열린 미국 최대 반도체장비 및 부품전시회 세미콘웨스트에 참가했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비스텔은 적응형 인텔리전스(AI:Adaptive Intelligence)를 적용한 DFD(Dynamic Fault Detection)와 CM(Chamber Matching)을 선보였다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 솔루션은 반도체 제조 환경에 생산성 향상 발판을 마련해 생산 경쟁력을 갖추는데 유리하게 작용한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "DFD는 실시간 모니터링 솔루션으로 데이터를 실시간 모니터링하고 추적 및 분석 기능을 제공, 결함을 사전 감지하고 품질과 수율을 향상시킬 수 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CM은 반도체 제조 공장에 구성된 기기 내 공정을 수행하는 단위인 챔버를 비교 분석해 제조 장비 성능을 최적화하고 수율 저하를 예방한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최운규 대표는 “공정 환경에 실시간 모니터링 및 고급 분석을 수행해 문제를 조기 파악하고 공정 상태를 최적화하며 고객에게 장비나 프로세스 성능을 향상할 수 있는 기회를 제공할 것”이라면서 “북미 지역 경쟁력을 확보하고 스마트 제조 솔루션 선도업체로 입지를 확고히 할 것”이라고 말했다.",
+				"sentenceSize": 159
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비스텔, 미 세미콘웨스트에 스마트 제조 솔루션 전시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

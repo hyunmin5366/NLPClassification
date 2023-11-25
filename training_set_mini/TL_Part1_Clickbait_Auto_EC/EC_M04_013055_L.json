@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013055",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "요금 자동납부 해지 쉬워진다",
+		"newsSubTitle": "",
+		"newsContent": "앞으로 통신료나 렌탈료, 후원금 등 자동납부를 은행에서 손쉽게 해지할 수 있게 된다.\n금융감독원은 23일 소비자들이 은행에서 자동납부를 간편하게 해지할 수 있도록 개선했다고 밝혔다.\n소비자는 계좌를 개설한 은행 영업점을 방문해 자동 납부 현황을 조회하고, 특정 업체나 단체에 대한 자동납부를 즉시 해지할 수 있다.\n다만 이용업체나 단체가 대행업체를 이용해 자동납부를 받는 경우가 많아 해지까지 1~2일이 소요된다.\n이전에는 은행이 자동납부 이용업체에 대한 정보를 보유하지 않아 소비자가 영업점에서 해지를 요청해도 곤란한 경우가 많았다.\n또 모든 자동납부에 대한 조회와 해지가 인터넷 뱅킹을 통해 할 수 있게 된다.\n금감원 관계자는 “자동납부를 해지하면 관련 서비스 등의 이용요금을 완납하지 않은 경우, 연체료가 발생할 수 있고 서비스가 중단될 수 있어 소비자의 주의가 필요 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "앞으로 통신료나 렌탈료, 후원금 등 자동납부를 은행에서 손쉽게 해지할 수 있게 된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융감독원은 23일 소비자들이 은행에서 자동납부를 간편하게 해지할 수 있도록 개선했다고 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소비자는 계좌를 개설한 은행 영업점을 방문해 자동 납부 현황을 조회하고, 특정 업체나 단체에 대한 자동납부를 즉시 해지할 수 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다만 이용업체나 단체가 대행업체를 이용해 자동납부를 받는 경우가 많아 해지까지 1~2일이 소요된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이전에는 은행이 자동납부 이용업체에 대한 정보를 보유하지 않아 소비자가 영업점에서 해지를 요청해도 곤란한 경우가 많았다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 모든 자동납부에 대한 조회와 해지가 인터넷 뱅킹을 통해 할 수 있게 된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "금감원 관계자는 “자동납부를 해지하면 관련 서비스 등의 이용요금을 완납하지 않은 경우, 연체료가 발생할 수 있고 서비스가 중단될 수 있어 소비자의 주의가 필요 있다”고 말했다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“사랑합니다” 대신 듣고 싶은 말은?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

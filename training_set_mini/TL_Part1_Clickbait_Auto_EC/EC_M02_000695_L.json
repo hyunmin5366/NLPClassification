@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000695",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "페이스북·인스타그램 오류 발생...\\\"현재 복구 완료\\\"",
+		"newsSubTitle": "",
+		"newsContent": "14일 오후 8시경부터 페이스북과 인스타그램에서 접속 장애가 발생해 이용자들이 불편을 겪었다.\n페이스북 관계자는 15일 미디어SR에 \\\"14일 늦은 밤 페이스북과 인스타그램에 한시적으로 오류가 발생했으나 현재는 복구된 상태\\\"라고 밝혔다.\n페이스북과 인스타그램은 장애 원인을 뚜렷하게 밝히지는 않았다.\n지난달 13일에도 페이스북과 인스타그램은 접속 장애를 일으켰다.\n당시 페이스북은 디도스 타입의 공격은 아니며, 서버구성 변경이라는 기술적 요인 때문에 장애가 발생했다고 밝혔다.\n이에 이용자들은 트위터 등 타 SNS에 #facebookdown(페이스북 오류), #instagramdown(인스타그램 오류) 해시태그를 공유했다.\n14일 오후 9시, 인스타그램 오류와 페이스북 오류가 네이버 실시간 검색어 순위에 오르기도 했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "14일 오후 8시경부터 페이스북과 인스타그램에서 접속 장애가 발생해 이용자들이 불편을 겪었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "페이스북 관계자는 15일 미디어SR에 \\\"14일 늦은 밤 페이스북과 인스타그램에 한시적으로 오류가 발생했으나 현재는 복구된 상태\\\"라고 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "페이스북과 인스타그램은 장애 원인을 뚜렷하게 밝히지는 않았다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난달 13일에도 페이스북과 인스타그램은 접속 장애를 일으켰다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 페이스북은 디도스 타입의 공격은 아니며, 서버구성 변경이라는 기술적 요인 때문에 장애가 발생했다고 밝혔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 이용자들은 트위터 등 타 SNS에 #facebookdown(페이스북 오류), #instagramdown(인스타그램 오류) 해시태그를 공유했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "14일 오후 9시, 인스타그램 오류와 페이스북 오류가 네이버 실시간 검색어 순위에 오르기도 했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정부출연연구기관 특허, 장롱 특허",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

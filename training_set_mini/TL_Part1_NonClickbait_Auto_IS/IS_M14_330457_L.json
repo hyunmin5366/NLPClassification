@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330457",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "노르웨이, 기름차보다 전기차 더 많이 팔렸다...테슬라 효과?",
+		"newsSubTitle": "",
+		"newsContent": "지난달 노르웨이에서 판매된 승용차 가운데 절반 이상이 전기차(BEV·PHEV)로 나타났다.\n노르웨이는 오는 2025년부터 화석 연료를 사용하는 승용차 판매를 전면 금지한다는 목표로 차량 구입비의 절반에 해당하는 보조금과 세제혜택을 지원해 왔다.\n노르웨이 정부는 가솔린 등 내연기관을 주로 쓰는 하이브리드차량(HEV)은 애초부터 지원대상에서 제외시켰다.\n12일 노르웨이의 OFV 도로교통자문위원회에 따르면 지난 3월 판매된 승용차 1만8375대(등록기준) 가운데 58.4%인 1만728대가 전기차로 집계됐다.\n이는 지금까지 월간 승용차 판매 대수 가운데 전기차 비율로 가장 높은 것이라고 OFV는 밝혔다.\n지난해 노르웨이에서 판매된 자동차 3대 가운데 1대꼴로 전기차였고, 지난 2월의 경우 전기차 비율이 약 40%에 이르렀다. 지난 3월에 전기차 판매 비율이 예전보다 더 높게 나타난 것은 사전 주문됐던 테슬라 모델3이 판매된 데 따른 것이라고 OFV는 분석했다.\n이 같은 영향을 받아 테슬라의 지난 3월 노르웨이 승용차 판매 시장 점유율은 30%를 넘어섰다.\n전기차 판매가 늘어난 반면에 디젤과 휘발유 차량은 감소했다.\n지난 3월 노르웨이에서 판매된 승용차 가운데 디젤 차량은 10.4%, 휘발유 차량은 12.3%였다.\n작년 3월 노르웨이의 디젤 차량 판매 비율은 16.0%, 휘발유 차량 판매 비율은 20.0%였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 노르웨이에서 판매된 승용차 가운데 절반 이상이 전기차(BEV·PHEV)로 나타났다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "노르웨이는 오는 2025년부터 화석 연료를 사용하는 승용차 판매를 전면 금지한다는 목표로 차량 구입비의 절반에 해당하는 보조금과 세제혜택을 지원해 왔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "노르웨이 정부는 가솔린 등 내연기관을 주로 쓰는 하이브리드차량(HEV)은 애초부터 지원대상에서 제외시켰다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "12일 노르웨이의 OFV 도로교통자문위원회에 따르면 지난 3월 판매된 승용차 1만8375대(등록기준) 가운데 58.4%인 1만728대가 전기차로 집계됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 지금까지 월간 승용차 판매 대수 가운데 전기차 비율로 가장 높은 것이라고 OFV는 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 노르웨이에서 판매된 자동차 3대 가운데 1대꼴로 전기차였고, 지난 2월의 경우 전기차 비율이 약 40%에 이르렀다. 지난 3월에 전기차 판매 비율이 예전보다 더 높게 나타난 것은 사전 주문됐던 테슬라 모델3이 판매된 데 따른 것이라고 OFV는 분석했다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 같은 영향을 받아 테슬라의 지난 3월 노르웨이 승용차 판매 시장 점유율은 30%를 넘어섰다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전기차 판매가 늘어난 반면에 디젤과 휘발유 차량은 감소했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지난 3월 노르웨이에서 판매된 승용차 가운데 디젤 차량은 10.4%, 휘발유 차량은 12.3%였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "작년 3월 노르웨이의 디젤 차량 판매 비율은 16.0%, 휘발유 차량 판매 비율은 20.0%였다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노르웨이, 기름차보다 전기차 더 많이 팔렸다...테슬라 효과?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

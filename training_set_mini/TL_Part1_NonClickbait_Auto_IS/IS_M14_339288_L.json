@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339288",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "TSMC \\\"2021년 3D 패키징 양산\\\"…애플 차기 AP도 독점?",
+		"newsSubTitle": "",
+		"newsContent": "세계 최대 파운드리 업체인 대만 TSMC가 3차원(D) 패키징 기술을 완성했다고 밝혀 주목된다.\n최근 외신 보도에 따르면 TSMC는 1분기 실적설명회에서 세계 최초로 3D IC 패키지를 개발하고 2021년부터 양산에 적용할 예정이라고 밝혔다.\n패키징은 가공이 끝난 실리콘 웨이퍼 칩(Die)을 포장하는 공정이다.\n외부 습기나 불순물, 충격으로부터 칩을 보호하고 주기판과 신호를 전달할 수 있게 한다.\nTSMC는 2015년 팬아웃-웨이퍼레벨패키지(FO-WLP)라는 기술을 상용화해 업계 주목을 받았다.\n패키징을 통해 반도체 성능을 끌어올릴 수 있다는 것을 증명하면서 TSMC는 삼성전자와 나눠 하던 애플 애플리케이션프로세서(AP)를 독점 수주했다.\nTSMC의 새로운 3D 패키징 기술은 '웨이퍼-온-웨이퍼(Wafer-on-Wafer)'로 불린다.\n웨이퍼를 쌓은 뒤 실리콘관통전극(TSV) 기술로 연결, 단일 패키지 안에 더 많은 CPU와 GPU 등을 배치할 수 있는 것으로 알려졌다.\nTSMC는 5나노미터(㎚) 공정에 3D 패키징을 접목할 전망이다.\n일각에서는 TSMC가 5㎚ 파운드리와 3D 패키징을 앞세워 애플 신형 AP를 수주할 것이란 관측도 나온다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세계 최대 파운드리 업체인 대만 TSMC가 3차원(D) 패키징 기술을 완성했다고 밝혀 주목된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 외신 보도에 따르면 TSMC는 1분기 실적설명회에서 세계 최초로 3D IC 패키지를 개발하고 2021년부터 양산에 적용할 예정이라고 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "패키징은 가공이 끝난 실리콘 웨이퍼 칩(Die)을 포장하는 공정이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "외부 습기나 불순물, 충격으로부터 칩을 보호하고 주기판과 신호를 전달할 수 있게 한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "TSMC는 2015년 팬아웃-웨이퍼레벨패키지(FO-WLP)라는 기술을 상용화해 업계 주목을 받았다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "패키징을 통해 반도체 성능을 끌어올릴 수 있다는 것을 증명하면서 TSMC는 삼성전자와 나눠 하던 애플 애플리케이션프로세서(AP)를 독점 수주했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "TSMC의 새로운 3D 패키징 기술은 '웨이퍼-온-웨이퍼(Wafer-on-Wafer)'로 불린다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "웨이퍼를 쌓은 뒤 실리콘관통전극(TSV) 기술로 연결, 단일 패키지 안에 더 많은 CPU와 GPU 등을 배치할 수 있는 것으로 알려졌다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "TSMC는 5나노미터(㎚) 공정에 3D 패키징을 접목할 전망이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "일각에서는 TSMC가 5㎚ 파운드리와 3D 패키징을 앞세워 애플 신형 AP를 수주할 것이란 관측도 나온다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "TSMC \\\"2021년 3D 패키징 양산\\\"…애플 차기 AP도 독점?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

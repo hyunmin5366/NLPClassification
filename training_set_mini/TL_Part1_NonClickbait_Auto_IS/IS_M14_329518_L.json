@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329518",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "피싱의 진화...'계정 탈취 후 2차 스피어피싱 공격까지'",
+		"newsSubTitle": "",
+		"newsContent": "구글 번역 홈페이지를 위장한 피싱 공격이 등장했다.\n공격자는 단순 계정 탈취를 넘어 2차 스피어피싱 공격도 시도한다. 12일 아카마이 보안인텔리전스 연구팀에 따르면 최근 구글 번역을 사칭한 피싱 공격이 감지 됐다.\n공격자는 구글, 페이스북 계정을 탈취한다.\nPC는 피싱 페이지 확인이 쉬운데 모바일은 어렵다.\n공격자는 '보안 알림'으로 새로운 윈도 기기에서 로그인이 됐다는 내용을 첨부한다.\n이를 확인하기 위해 새로운 사이트로 이동을 유도한다.\n새로운 사이트 연결 시 '구글 번역'과 동일하게 만든 가짜 구글 로그인 페이지를 만들어 아이디와 비밀번호를 입력하도록 유도한다.\n페이스북 계정을 탈취하기 위해 이전과 같은 방식으로 또다시 페이스북 가짜 페이지를 이동 유도, 로그인 정보 탈취를 시도한다.\n국내서도 최근 네이버, 다음 등 가짜 포털사이트를 개설해 피싱 공격을 실시했다.\n지난달 9일 북한추정 '국회-국방위 보고서(최종)'으로 명시된 피싱 공격은 'PDF'파일을 다운로드하도록 유도했다.\n메일 내용에는 '본 메일은 지정된 수취인만을 위해 작성된 보안메일입니다. 첨부파일을 클릭하셔서 본인확인을 확인 하신 후 자료를 받으세요.' 라며 안내한다.\n본인확인 과정에서 '네이버∙다음' 등 피싱 포털을 정교하게 만들어 로그인을 유도했다.\n수신자 사용메일에 따라 아이디가 미리 입력 돼 의심을 피했다.\n과거 조악한 피싱 페이지와 달리 최근 사용 페이지와 거의 흡사하게 제작했다.\n설 연휴 전∙후 북한발 탈북민을 대상으로 한 네이버 계정 피싱 공격과 음란물 동영상을 미끼로한 피싱 공격도 이어졌다.\n보안 전문가는 피싱공격이 단순 계정탈취를 넘어 스피어피싱 등 2차 공격이 가능해 해커에게 매력적인 공격 수단이라고 설명한다.\n국내는 지난해 하반기부터 관련 공격이 증가 추세다.\n사용자는 과거 PC환경과 달리 스마트폰, 태블릿 등으로 스마트기기 이용이 다양해져 피싱과 실제사이트를 이미지만으로는 구별 어렵다.\n장연준 NSHC 수석 연구원은 \\\"계정 탈취를 목적으로 하는 피싱 공격은 주류는 아니었으나 지난해 가을쯤부터 급격하게 증가하기 시작했다\\\"면서 \\\"해킹 기법 등 전략을 변경하는 흐름으로 분석하고 있다\\\"고 말했다.\n이어 \\\"계정 탈취를 통해 해당 포털 메일을 열람 가능하며 이는 또다른 스피어피싱 등 목표 공격이 가능하기 때문에 관련 공격을 지속 증가할 것으로 보인다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구글 번역 홈페이지를 위장한 피싱 공격이 등장했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공격자는 단순 계정 탈취를 넘어 2차 스피어피싱 공격도 시도한다. 12일 아카마이 보안인텔리전스 연구팀에 따르면 최근 구글 번역을 사칭한 피싱 공격이 감지 됐다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공격자는 구글, 페이스북 계정을 탈취한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "PC는 피싱 페이지 확인이 쉬운데 모바일은 어렵다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공격자는 '보안 알림'으로 새로운 윈도 기기에서 로그인이 됐다는 내용을 첨부한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 확인하기 위해 새로운 사이트로 이동을 유도한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "새로운 사이트 연결 시 '구글 번역'과 동일하게 만든 가짜 구글 로그인 페이지를 만들어 아이디와 비밀번호를 입력하도록 유도한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "페이스북 계정을 탈취하기 위해 이전과 같은 방식으로 또다시 페이스북 가짜 페이지를 이동 유도, 로그인 정보 탈취를 시도한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "국내서도 최근 네이버, 다음 등 가짜 포털사이트를 개설해 피싱 공격을 실시했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지난달 9일 북한추정 '국회-국방위 보고서(최종)'으로 명시된 피싱 공격은 'PDF'파일을 다운로드하도록 유도했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "메일 내용에는 '본 메일은 지정된 수취인만을 위해 작성된 보안메일입니다. 첨부파일을 클릭하셔서 본인확인을 확인 하신 후 자료를 받으세요.' 라며 안내한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "본인확인 과정에서 '네이버∙다음' 등 피싱 포털을 정교하게 만들어 로그인을 유도했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "수신자 사용메일에 따라 아이디가 미리 입력 돼 의심을 피했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "과거 조악한 피싱 페이지와 달리 최근 사용 페이지와 거의 흡사하게 제작했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "설 연휴 전∙후 북한발 탈북민을 대상으로 한 네이버 계정 피싱 공격과 음란물 동영상을 미끼로한 피싱 공격도 이어졌다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "보안 전문가는 피싱공격이 단순 계정탈취를 넘어 스피어피싱 등 2차 공격이 가능해 해커에게 매력적인 공격 수단이라고 설명한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "국내는 지난해 하반기부터 관련 공격이 증가 추세다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "사용자는 과거 PC환경과 달리 스마트폰, 태블릿 등으로 스마트기기 이용이 다양해져 피싱과 실제사이트를 이미지만으로는 구별 어렵다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "장연준 NSHC 수석 연구원은 \\\"계정 탈취를 목적으로 하는 피싱 공격은 주류는 아니었으나 지난해 가을쯤부터 급격하게 증가하기 시작했다\\\"면서 \\\"해킹 기법 등 전략을 변경하는 흐름으로 분석하고 있다\\\"고 말했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이어 \\\"계정 탈취를 통해 해당 포털 메일을 열람 가능하며 이는 또다른 스피어피싱 등 목표 공격이 가능하기 때문에 관련 공격을 지속 증가할 것으로 보인다\\\"고 덧붙였다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "피싱의 진화...'계정 탈취 후 2차 스피어피싱 공격까지'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

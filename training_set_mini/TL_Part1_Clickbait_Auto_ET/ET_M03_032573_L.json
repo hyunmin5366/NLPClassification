@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_032573",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "영화상영 중 정전…관람객들 스마트폰 불 밝혀 극장 나와",
+		"newsSubTitle": "",
+		"newsContent": "영화를 보던 관람객들이 갑자기 발생한 건물 정전 사태에 스마트폰 불을 켜고 상가를 빠져나오는 불편을 겪었다.\n2일 청주 지웰시티몰에 따르면 이날 오전 11시께 3층에 전기 공급이 약 1시간 동안 끊기는 사고가 발생했다.\n이 건물 3층에는 영화관 CGV가 입점해 있었다.\n영화관은 30분가량 자가발전기를 가동했지만, 결국 최대 가동 시간을 초과해 영화상영이 중단됐다.\n영화가 중간에 끊기고 실내가 컴컴해지자 관람객들은 스마트폰 불빛을 밝혀 스스로 극장을 빠져나왔다.\n다치거나 고립된 사람은 없는 것으로 알려졌다.\n지웰시티몰 관계자는 \\\"3층 변압기에 문제가 생겨 1시간가량 전기 공급이 끊겼고, 이후 복구를 완료했다\\\"고 설명했다.\n영화관은 영화를 끝까지 보지 못한 관람객들에게 환불 조치한 것으로 전해졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영화를 보던 관람객들이 갑자기 발생한 건물 정전 사태에 스마트폰 불을 켜고 상가를 빠져나오는 불편을 겪었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 청주 지웰시티몰에 따르면 이날 오전 11시께 3층에 전기 공급이 약 1시간 동안 끊기는 사고가 발생했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 건물 3층에는 영화관 CGV가 입점해 있었다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영화관은 30분가량 자가발전기를 가동했지만, 결국 최대 가동 시간을 초과해 영화상영이 중단됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영화가 중간에 끊기고 실내가 컴컴해지자 관람객들은 스마트폰 불빛을 밝혀 스스로 극장을 빠져나왔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다치거나 고립된 사람은 없는 것으로 알려졌다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지웰시티몰 관계자는 \\\"3층 변압기에 문제가 생겨 1시간가량 전기 공급이 끊겼고, 이후 복구를 완료했다\\\"고 설명했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "영화관은 영화를 끝까지 보지 못한 관람객들에게 환불 조치한 것으로 전해졌다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'라스', 밤 샐 것 같은 유부남들의 수다 삼매경",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325334",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "제2의 인터넷나야나? 아이웹 랜섬웨어 공격에 고객사 마비",
+		"newsSubTitle": "",
+		"newsContent": "웹에이전시 '아이웹'이 랜섬웨어 공격에 마비됐다.\n20일 해외 해커그룹 랜섬웨어 공격받은 후 자사 홈페이지뿐 아니라 2~3000여개 고객사 홈페이지가 모두 마비 상태에 빠졌다.\n지난해 6월 발생한 '인터넷 나야나 랜섬웨어' 사태를 방불케 한다.\n아이웹은 전문가와 함께 대응에 나선다고 밝혔지만 중요 데이터베이스(DB)가 암호화 돼 뾰족한 대책을 세우지 못하고 있는 상황이다.\n27일 보안업계에 따르면 아이웹은 26일 홈페이지 메인 화면에 '긴급공지'를 올려 랜섬웨어 공격으로 인한 복구 작업이 진행 중이라고 밝혔다.\n아이웹 고객센터에서 올린 공지에 따르면 “아이웹빌더 전용 서버가 명절 연휴 전문화된 해외 해커 그룹 랜섬웨어 공격을 받아 자료가 암호화됐고 아이웹이 감당할 수 없는 큰 금액을 요구하고 있는 상태”라고 밝혔다.\n이어 “아이웹, IDC 기술진이 현재 복구작업 진행 중이나 중요 DB영역이 최신기술로 암호화 돼 복구작업에 차질을 빚는다”고 덧붙였다.\n아이웹 공격인지는 20일 새벽이다.\n이후 2~3000여개 고객사 홈페이지 등이 모두 마비됐다.\n하지만 대부분 중·소 영세업체 홈페이지로 해킹 사실은 외부로 크게 알려지지 않았다.\n실제 아이웹 블로그에서 밝힌 '홈페이지 제작사례' 기업 홈페이지는 수 십여개 모두 접속 불가로 나타났다.\n한국인터넷진흥원(KISA) 신고는 24일 진행됐다.\n피해는 곧바로 아이웹을 통해 홈페이지를 제작한 고객사로 번졌다.\n피해를 입은 A고객사는 “홈페이지가 접속불가인 상태를 전해 받지 못했다”면서 “아이웹 측으로부터 아예 연락 받지 못했다”고 말했다.\n또 다른 피해기업 관계자는 “홈페이지 내부에서 견적을 내는 기능 등 고객 응대기능이 있는데 이를 활용하지 못해 피해를 입고 있다”면서 “현재 아이웹 등 어디서도 제대로 된 정보를 제공하지 않고 있어 어떻게 해야할지 모르고 발발동동 구르고 있다”고 말했다.\n아이웹 관계자는 “연휴기간 등이 겹치면서 신고가 제대로 되지 않았다”면서 “KISA와 경찰청 사이버스수사대에 신고 후 대응에 나서고 있다”고 말했다.\n이어 “현재 백업 DB가 복구되는 대로 고객사에게 연락을 취하고 있다”고 밝혔다.\n아이웹 고객센터는 아이웹 이용자 홈페이지 방문자를 위해 임시팝업, 페이지를 제작 준비를 위해 이용자 아이디, 도메인 주소, 상호, 전화번호, 이메일주소, 관련 자료를 이메일로 보내줄 것을 요청했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "웹에이전시 '아이웹'이 랜섬웨어 공격에 마비됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 해외 해커그룹 랜섬웨어 공격받은 후 자사 홈페이지뿐 아니라 2~3000여개 고객사 홈페이지가 모두 마비 상태에 빠졌다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 6월 발생한 '인터넷 나야나 랜섬웨어' 사태를 방불케 한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이웹은 전문가와 함께 대응에 나선다고 밝혔지만 중요 데이터베이스(DB)가 암호화 돼 뾰족한 대책을 세우지 못하고 있는 상황이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "27일 보안업계에 따르면 아이웹은 26일 홈페이지 메인 화면에 '긴급공지'를 올려 랜섬웨어 공격으로 인한 복구 작업이 진행 중이라고 밝혔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이웹 고객센터에서 올린 공지에 따르면 “아이웹빌더 전용 서버가 명절 연휴 전문화된 해외 해커 그룹 랜섬웨어 공격을 받아 자료가 암호화됐고 아이웹이 감당할 수 없는 큰 금액을 요구하고 있는 상태”라고 밝혔다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 “아이웹, IDC 기술진이 현재 복구작업 진행 중이나 중요 DB영역이 최신기술로 암호화 돼 복구작업에 차질을 빚는다”고 덧붙였다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아이웹 공격인지는 20일 새벽이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 2~3000여개 고객사 홈페이지 등이 모두 마비됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하지만 대부분 중·소 영세업체 홈페이지로 해킹 사실은 외부로 크게 알려지지 않았다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "실제 아이웹 블로그에서 밝힌 '홈페이지 제작사례' 기업 홈페이지는 수 십여개 모두 접속 불가로 나타났다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "한국인터넷진흥원(KISA) 신고는 24일 진행됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "피해는 곧바로 아이웹을 통해 홈페이지를 제작한 고객사로 번졌다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "피해를 입은 A고객사는 “홈페이지가 접속불가인 상태를 전해 받지 못했다”면서 “아이웹 측으로부터 아예 연락 받지 못했다”고 말했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "또 다른 피해기업 관계자는 “홈페이지 내부에서 견적을 내는 기능 등 고객 응대기능이 있는데 이를 활용하지 못해 피해를 입고 있다”면서 “현재 아이웹 등 어디서도 제대로 된 정보를 제공하지 않고 있어 어떻게 해야할지 모르고 발발동동 구르고 있다”고 말했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "아이웹 관계자는 “연휴기간 등이 겹치면서 신고가 제대로 되지 않았다”면서 “KISA와 경찰청 사이버스수사대에 신고 후 대응에 나서고 있다”고 말했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이어 “현재 백업 DB가 복구되는 대로 고객사에게 연락을 취하고 있다”고 밝혔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "아이웹 고객센터는 아이웹 이용자 홈페이지 방문자를 위해 임시팝업, 페이지를 제작 준비를 위해 이용자 아이디, 도메인 주소, 상호, 전화번호, 이메일주소, 관련 자료를 이메일로 보내줄 것을 요청했다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제2의 인터넷나야나? 아이웹 랜섬웨어 공격에 고객사 마비",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

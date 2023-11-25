@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006047",
+		"newsCategory": "경제",
+		"newsSubcategory": "증권",
+		"newsTitle": "미 증시 반등에도 코스피 2300선 후퇴",
+		"newsSubTitle": "외국인, 기관 동반 매도 행렬",
+		"newsContent": "코스피가 미국 증시 반등에도 불구하고 장 초반 부진한 흐름을 보이고 있다.\n22일 한국거래소에 따르면 이날 코스피지수는 전장보다 7.39포인트 오른 2416.32로 출발했지만, 기관과 외국인의 동반 팔자세에 밀리며 오전 10시 3분 현재 2386.80에 머무르고 있다.\n코스피 시가총액 상위 10개 종목 중 7개가 하락세다.\n같은 시간 현재 기아(+0.13%), LG화학(-1.23%), 현대차(+0.29%), 삼성전자(+0.68%), 네이버(-3.13%), 삼성SDI(-2.27%), 카카오(-1.56%), LG에너지솔루션(-0.24%), SK하이닉스(-1.26%), 삼성바이오로직스(-0.12%) 등이다.\n개인은 3105억원 순매수했다.\n기관은 1960억원, 외국인은 1187억원 순매도했다.\n코스닥지수는 5.95 올라간 784.25에서 시작했다.\n시작 이후 하락세를 보이며 770선까지 내려왔다.\n코스닥 시가총액 상위 10개 종목 중 6개가 하락세다.\n종목별로 살펴보면 알테오젠(+0.33%), HLB(-0.30%), 셀트리온제약(+1.21%), 천보(+0.41%), 펄어비스(-1.66%), 셀트리온헬스케어(+1.14%), CJ ENM(-1.97%), 엘앤에프(+1.87%), 카카오게임즈(-6.63%), 에코프로비엠(+2.47%) 등이다.\n개인은 842억원 순매수했다.\n외국인은 698억원, 기관은 207억원 순매도했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피가 미국 증시 반등에도 불구하고 장 초반 부진한 흐름을 보이고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 한국거래소에 따르면 이날 코스피지수는 전장보다 7.39포인트 오른 2416.32로 출발했지만, 기관과 외국인의 동반 팔자세에 밀리며 오전 10시 3분 현재 2386.80에 머무르고 있다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코스피 시가총액 상위 10개 종목 중 7개가 하락세다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "같은 시간 현재 기아(+0.13%), LG화학(-1.23%), 현대차(+0.29%), 삼성전자(+0.68%), 네이버(-3.13%), 삼성SDI(-2.27%), 카카오(-1.56%), LG에너지솔루션(-0.24%), SK하이닉스(-1.26%), 삼성바이오로직스(-0.12%) 등이다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개인은 3105억원 순매수했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기관은 1960억원, 외국인은 1187억원 순매도했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코스닥지수는 5.95 올라간 784.25에서 시작했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "시작 이후 하락세를 보이며 770선까지 내려왔다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "코스닥 시가총액 상위 10개 종목 중 6개가 하락세다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "종목별로 살펴보면 알테오젠(+0.33%), HLB(-0.30%), 셀트리온제약(+1.21%), 천보(+0.41%), 펄어비스(-1.66%), 셀트리온헬스케어(+1.14%), CJ ENM(-1.97%), 엘앤에프(+1.87%), 카카오게임즈(-6.63%), 에코프로비엠(+2.47%) 등이다.",
+				"sentenceSize": 162
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "개인은 842억원 순매수했다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "외국인은 698억원, 기관은 207억원 순매도했다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "11월 자금사정 '꽁꽁'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

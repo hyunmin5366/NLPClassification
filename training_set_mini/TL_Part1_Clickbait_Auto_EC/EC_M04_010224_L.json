@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010224",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "예대금리 5개월째 하락",
+		"newsSubTitle": "저축성금리 전월비 0.06p ↓",
+		"newsContent": "금융기관의 예금금리가 5개월째 하락세를 보였다.\n대출금리도 하락세를 보였지만 대출 이자부담은 줄어든 것으로 나타났다.\n27일 한국은행이 발표한 '2012년 5월 중 금융기관 가중평균금리' 조사 결과에 따르면 5월 중 예금은행의 저축성금리는 연 3.64%로 전월대비 0.06%p 하락했다.\n예금금리는 지난해 12월 3.77%를 기록한 후 5개월째 하락세가 이어지고 있다.\n저축성수신금리의 순수저축성예금과 시장형금융상품은 전월대비 각각 0.07%p, 0.03%p 하락했다.\n대출금리도 1년 3개월만에 가장 낮은 수준을 기록했다.\n비은행기간의 예금금리와 대출금리도 일제히 하락했다.\n상호저축은행의 예금과 대출금리는 0.08%p, 0.36%p씩 각각 하락했다.\n이는 2011년중 구조조정된 저축은행을 중심으로 기업대출금리가 하락해 저축은행 평균금리가 하락한 것으로 풀이된다.\n신용협도조합의 예금ㆍ대출금리는 각각 0.04%p, 상호금융 예금ㆍ대출금리는 0.04%p, 0.01%p씩 떨어졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융기관의 예금금리가 5개월째 하락세를 보였다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대출금리도 하락세를 보였지만 대출 이자부담은 줄어든 것으로 나타났다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "27일 한국은행이 발표한 '2012년 5월 중 금융기관 가중평균금리' 조사 결과에 따르면 5월 중 예금은행의 저축성금리는 연 3.64%로 전월대비 0.06%p 하락했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예금금리는 지난해 12월 3.77%를 기록한 후 5개월째 하락세가 이어지고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "저축성수신금리의 순수저축성예금과 시장형금융상품은 전월대비 각각 0.07%p, 0.03%p 하락했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대출금리도 1년 3개월만에 가장 낮은 수준을 기록했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "비은행기간의 예금금리와 대출금리도 일제히 하락했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "상호저축은행의 예금과 대출금리는 0.08%p, 0.36%p씩 각각 하락했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이는 2011년중 구조조정된 저축은행을 중심으로 기업대출금리가 하락해 저축은행 평균금리가 하락한 것으로 풀이된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "신용협도조합의 예금ㆍ대출금리는 각각 0.04%p, 상호금융 예금ㆍ대출금리는 0.04%p, 0.01%p씩 떨어졌다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LH, 당진대덕수청지구 임대주택 333세대 공급",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

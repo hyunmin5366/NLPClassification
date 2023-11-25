@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351314",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "\\\"아이폰13의 새로운 연결옵션…'위성연결' 기능?\\\"[IT썰]",
+		"newsSubTitle": "null",
+		"newsContent": "내달 중순 공개를 앞둔 애플의 신제품 아이폰13이 \\\"'위성통화 기능'을 내장할 수 있다\\\"는 관측이 제기됐다.\nIT전문매체 더 버지, 폰아레나 등은 애플 전문 애널리스트 밍치 쿠오를 인용해 \\\"아이폰13 시리즈가 새로운 연결 옵션을 추가한다\\\"며 \\\"새 아이폰13 모델에는 지구 저궤도 위성(LEO:Low Earth Orbit) 통신을 지원할 수 있는 퀄컴 X60 베이스밴드 칩이 포함될 것\\\"이라고 예상했다.\n이에 따라 아이폰13에서 글로벌스타의 위성통신 서비스을 직접 이용할 수 있을 것으로 전망된다.\n기존의 아이폰에 새로운 연결 옵션이 한 가지 더 추가되는 셈이다.\n버지는 \\\"저궤도위성을 활용한 5G는 아직 5G 연결이 어려운 환경에서 (5G 속도를) 지원할 것이고, 특히 3G 또는 4G 연결조차 어려운 시골 지역에서 유용할 것\\\"이라고 내다봤다.\n다만 위성 연결 기능이 스마트폰의 배터리 수명에 부정적 영향을 줄 수 있고, 나무 등 지형지물의 간섭에 취약할 수도 있다는 건 극복해야 할 한계점으로 꼽혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "내달 중순 공개를 앞둔 애플의 신제품 아이폰13이 \\\"'위성통화 기능'을 내장할 수 있다\\\"는 관측이 제기됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "IT전문매체 더 버지, 폰아레나 등은 애플 전문 애널리스트 밍치 쿠오를 인용해 \\\"아이폰13 시리즈가 새로운 연결 옵션을 추가한다\\\"며 \\\"새 아이폰13 모델에는 지구 저궤도 위성(LEO:Low Earth Orbit) 통신을 지원할 수 있는 퀄컴 X60 베이스밴드 칩이 포함될 것\\\"이라고 예상했다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따라 아이폰13에서 글로벌스타의 위성통신 서비스을 직접 이용할 수 있을 것으로 전망된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존의 아이폰에 새로운 연결 옵션이 한 가지 더 추가되는 셈이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "버지는 \\\"저궤도위성을 활용한 5G는 아직 5G 연결이 어려운 환경에서 (5G 속도를) 지원할 것이고, 특히 3G 또는 4G 연결조차 어려운 시골 지역에서 유용할 것\\\"이라고 내다봤다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만 위성 연결 기능이 스마트폰의 배터리 수명에 부정적 영향을 줄 수 있고, 나무 등 지형지물의 간섭에 취약할 수도 있다는 건 극복해야 할 한계점으로 꼽혔다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"아이폰13의 새로운 연결옵션…'위성연결' 기능?\\\"[IT썰]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

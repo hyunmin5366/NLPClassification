@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336282",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "AWS \\\"통지의무 충실히 이행\\\" 주장…정부 현장조사 일단 종료",
+		"newsSubTitle": "",
+		"newsContent": "과학기술정보통신부 중앙전파관리소가 지난 6일 오후 아마존웹서비스(AWS) 서울리전 장애 현장 조사를 마쳤다.\nAWS코리아는 통지의무를 충실히 이행했다는 입장을 견지한 것으로 확인됐다.\n과기정통부 관계자는 7일 \\\"중앙전파관리소로부터 사실 확인 조사서를 받아 검토 중\\\"이라면서 \\\"AWS 측이 주장하는 통지의무 방식인 대시보드 공지 등 추가 자료가 필요해 자료를 요청하는 상황\\\"이라고 밝혔다.\n지난 6일 중앙전파관리소가 실시한 AWS코리아 현장조사는 오후 4시 30분부터 약 6시간에 걸쳐 진행됐다.\n이번 조사는 최초 지난 4일 예정돼 있었으나 AWS코리아 요청으로 하루씩 두 번 밀려 전날 실시됐다.\n조사는 클라우드컴퓨팅법에 근거해 AWS가 장애 발생 이후 고객사에게 △발생 내용 △발생 원인 △AWS의 피해 확산 방지 조치 현황 △고객 피해 예방 또는 확산 방지 방법 △담당부서와 연락처 등 법상 고지사항을 이행했는지에 초점이 맞춰졌다.\nAWS의 법 위반 사실이 확인되면 최대 1000만원 과태료가 부과된다.\nAWS 측은 장애 시 대시보드를 통해 관련 내용을 공지한다는 조항이 고객과 계약서상 명시돼 있다며 통지의무를 다했다고 주장한 것으로 알려졌다.\n과기정통부 관계자는 \\\"추가 자료 확인 등을 거쳐 다음주 법 위반 여부를 결정할 것\\\"이라면서 \\\"정보통신망법 등 다른 법 위반 여부는 없는지 검토 중으로 추가 조사 여부 역시 다음주 결론이 날 것 같다\\\"고 말했다.\nAWS 클라우드 고객사들은 99.90%대 SLA(서비스레벨어그리먼트) 계약 체결로 피해 보상은 받기 어렵다는 것을 인정하면서도 불만을 토로했다.\nSLA 계약은 AWS가 중단 없는 서비스를 약속했기 때문에 체결된 것이라는 지적이다.\n지난달 22일 AWS 서울리전 도메인네임시스템(DNS) 오류로 쿠팡, 야놀자, 이스타항공, 업비트 등 AWS 클라우드 고객사는 2~3시간 가량 서비스 장애를 겪었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학기술정보통신부 중앙전파관리소가 지난 6일 오후 아마존웹서비스(AWS) 서울리전 장애 현장 조사를 마쳤다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AWS코리아는 통지의무를 충실히 이행했다는 입장을 견지한 것으로 확인됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과기정통부 관계자는 7일 \\\"중앙전파관리소로부터 사실 확인 조사서를 받아 검토 중\\\"이라면서 \\\"AWS 측이 주장하는 통지의무 방식인 대시보드 공지 등 추가 자료가 필요해 자료를 요청하는 상황\\\"이라고 밝혔다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 6일 중앙전파관리소가 실시한 AWS코리아 현장조사는 오후 4시 30분부터 약 6시간에 걸쳐 진행됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 조사는 최초 지난 4일 예정돼 있었으나 AWS코리아 요청으로 하루씩 두 번 밀려 전날 실시됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "조사는 클라우드컴퓨팅법에 근거해 AWS가 장애 발생 이후 고객사에게 △발생 내용 △발생 원인 △AWS의 피해 확산 방지 조치 현황 △고객 피해 예방 또는 확산 방지 방법 △담당부서와 연락처 등 법상 고지사항을 이행했는지에 초점이 맞춰졌다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "AWS의 법 위반 사실이 확인되면 최대 1000만원 과태료가 부과된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "AWS 측은 장애 시 대시보드를 통해 관련 내용을 공지한다는 조항이 고객과 계약서상 명시돼 있다며 통지의무를 다했다고 주장한 것으로 알려졌다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "과기정통부 관계자는 \\\"추가 자료 확인 등을 거쳐 다음주 법 위반 여부를 결정할 것\\\"이라면서 \\\"정보통신망법 등 다른 법 위반 여부는 없는지 검토 중으로 추가 조사 여부 역시 다음주 결론이 날 것 같다\\\"고 말했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "AWS 클라우드 고객사들은 99.90%대 SLA(서비스레벨어그리먼트) 계약 체결로 피해 보상은 받기 어렵다는 것을 인정하면서도 불만을 토로했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "SLA 계약은 AWS가 중단 없는 서비스를 약속했기 때문에 체결된 것이라는 지적이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "지난달 22일 AWS 서울리전 도메인네임시스템(DNS) 오류로 쿠팡, 야놀자, 이스타항공, 업비트 등 AWS 클라우드 고객사는 2~3시간 가량 서비스 장애를 겪었다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AWS \\\"통지의무 충실히 이행\\\" 주장…정부 현장조사 일단 종료",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

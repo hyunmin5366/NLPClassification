@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004309",
+		"newsCategory": "경제",
+		"newsSubcategory": "정책금융",
+		"newsTitle": "금융위 \\\"전세대출 분할상환 의무화 검토한 적 없다\\\"",
+		"newsSubTitle": "\\\"기존안 대로 분할상환에 인센티브 확대할 것\\\"",
+		"newsContent": "금융당국이 일각에서 제기된 전세자금대출의 분할상환 의무화 계획에 대해 \\\"검토를 한 바 없다\\\"고 선을 그었다.\n금융위원회는 8일 입장문을 통해 \\\"지난달 26일 발표한 가계부채 관리 강화방안에 근거해 전세대출 분할상환을 추진할 예정\\\"이라면서도 \\\"그 방식은 인센티브 부여가 될 것\\\"이라고 설명했다.\n이는 전세대출 분할상환을 전면 확대할 것이라는 일부 보도에 대해 적극 반박한 것으로 해석된다.\n금융위 관계자는 데일리임팩트에 \\\"전세대출의 분할상환을 유도할 계획이지만, 이를 의무화할 계획이나 관련 내용을 검토한 바는 없다\\\"고 설명했다.\n금융위는 지난달 발표한 가계부채 관리 추가 대책을 통해 재년 1월부터 전세대출의 분할상환을 유도하기 위한 인센티브 확대방안을 공개했다.\n이를 통해 전세대출 분할상환 우수 금융회사에는 정책모기지를 우선 배정하고, 분할상환 대출자에게는 한도 확대 또는 금리 인하의 인센티브를 주는 방안을 검토할 방침이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융당국이 일각에서 제기된 전세자금대출의 분할상환 의무화 계획에 대해 \\\"검토를 한 바 없다\\\"고 선을 그었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융위원회는 8일 입장문을 통해 \\\"지난달 26일 발표한 가계부채 관리 강화방안에 근거해 전세대출 분할상환을 추진할 예정\\\"이라면서도 \\\"그 방식은 인센티브 부여가 될 것\\\"이라고 설명했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 전세대출 분할상환을 전면 확대할 것이라는 일부 보도에 대해 적극 반박한 것으로 해석된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "금융위 관계자는 데일리임팩트에 \\\"전세대출의 분할상환을 유도할 계획이지만, 이를 의무화할 계획이나 관련 내용을 검토한 바는 없다\\\"고 설명했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금융위는 지난달 발표한 가계부채 관리 추가 대책을 통해 재년 1월부터 전세대출의 분할상환을 유도하기 위한 인센티브 확대방안을 공개했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 통해 전세대출 분할상환 우수 금융회사에는 정책모기지를 우선 배정하고, 분할상환 대출자에게는 한도 확대 또는 금리 인하의 인센티브를 주는 방안을 검토할 방침이다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성생명, 경증부터 중증까지 보장 '생활보장보험 탄탄하게' 출시",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354646",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "사진 뽀샵하려다 개인정보 털린다 \\\"'이 앱' 바로 삭제하세요\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "구글 플레이스토어에 개인정보를 빼내는 악성 앱이 발견돼 사용자 주의가 당부된다.\n16일(현지시간) IT(정보기술) 보안솔루션 제공업체 닥터웹(Doctor Web)은 구글 플레이스토어 앱을 통해 여러 악성코드가 유포되고 있다고 경고했다.\n특정 앱을 다운받으면 악성코드가 실행돼 사용자 의사와 관계없이 광고를 띄우거나, 심지어 페이스북 로그인 정보를 훔치기도 한다.\n닥터웹의 보고서에 따르면 'PIP Pic Camera Photo Editor'는 일반 사진 편집 앱처럼 보이지만 '트로이목마(정상적인 프로그램으로 위장한 악성코드)'가 숨겨져있다.\n이 트로이목마는 설치된 후 사용자의 페이스북 자격 증명을 훔친다.\n약 50만회 다운로드된 심리·타로 점 앱인 'ZodiHoroscope' 역시 페이스북 로그인 정보를 빼낸다.\n또 'Wild & Exotic Animal Wallpaper'는 스마트폰용 배경화면으로 각종 동물, 자연 사진을 다운받을 수 있는 앱처럼 보이지만 트로이목마가 포함돼있다.\n트로이목마는 사용자 스마트폰의 '배터리 최적화 예외 앱' 목록에 이 앱을 자동으로 추가하고 사용자 동의 없이 광고를 띄운다.\n레이싱 게임 앱 'Driving Real Race'에 담긴 트로이목마는 사용자를 유료 서비스로 가입시키기 위해 자동으로 관련 웹 페이지를 띄운다. 'Recovery'라는 데이터 복구 앱의 트로이목마도 비슷한 방식으로 작동한다.\n보고서에서 언급된 많은 앱들은 플레이스토어에서 삭제된 것으로 보인다.\n다만 전문가들은 이미 사용자가 다운받아 사용하고 있는 경우도 있어 즉시 삭제해야 한다고 당부한다.\n또 구글 플레이스토어 이외의 다른 앱 마켓에서는 같은 앱들이 여전히 배포되고 있을 수 있다고 경고한다.\nIT전문매체 폰아레나는 \\\"신뢰할 수 있는 출처에서만 앱을 다운받고 바이러스 백신 솔루션을 사용해야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구글 플레이스토어에 개인정보를 빼내는 악성 앱이 발견돼 사용자 주의가 당부된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일(현지시간) IT(정보기술) 보안솔루션 제공업체 닥터웹(Doctor Web)은 구글 플레이스토어 앱을 통해 여러 악성코드가 유포되고 있다고 경고했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특정 앱을 다운받으면 악성코드가 실행돼 사용자 의사와 관계없이 광고를 띄우거나, 심지어 페이스북 로그인 정보를 훔치기도 한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "닥터웹의 보고서에 따르면 'PIP Pic Camera Photo Editor'는 일반 사진 편집 앱처럼 보이지만 '트로이목마(정상적인 프로그램으로 위장한 악성코드)'가 숨겨져있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 트로이목마는 설치된 후 사용자의 페이스북 자격 증명을 훔친다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "약 50만회 다운로드된 심리·타로 점 앱인 'ZodiHoroscope' 역시 페이스북 로그인 정보를 빼낸다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 'Wild & Exotic Animal Wallpaper'는 스마트폰용 배경화면으로 각종 동물, 자연 사진을 다운받을 수 있는 앱처럼 보이지만 트로이목마가 포함돼있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "트로이목마는 사용자 스마트폰의 '배터리 최적화 예외 앱' 목록에 이 앱을 자동으로 추가하고 사용자 동의 없이 광고를 띄운다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "레이싱 게임 앱 'Driving Real Race'에 담긴 트로이목마는 사용자를 유료 서비스로 가입시키기 위해 자동으로 관련 웹 페이지를 띄운다. 'Recovery'라는 데이터 복구 앱의 트로이목마도 비슷한 방식으로 작동한다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "보고서에서 언급된 많은 앱들은 플레이스토어에서 삭제된 것으로 보인다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "다만 전문가들은 이미 사용자가 다운받아 사용하고 있는 경우도 있어 즉시 삭제해야 한다고 당부한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "또 구글 플레이스토어 이외의 다른 앱 마켓에서는 같은 앱들이 여전히 배포되고 있을 수 있다고 경고한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "IT전문매체 폰아레나는 \\\"신뢰할 수 있는 출처에서만 앱을 다운받고 바이러스 백신 솔루션을 사용해야 한다\\\"고 말했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "사진 뽀샵하려다 개인정보 털린다 \\\"'이 앱' 바로 삭제하세요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

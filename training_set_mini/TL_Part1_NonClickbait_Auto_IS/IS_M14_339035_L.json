@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339035",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "호반건설, 임직원 건강검진 플랫폼 '착한의사' 도입",
+		"newsSubTitle": "호반건설, 임직원 헬스케어를 위해 데이터 기반 건강검진 플랫폼 도입 쉽고 빠른 검진 예약, 검진 결과 모바일 조회, 정밀검진 AI 추천 등 건강검진 편리성 제고 호반건설 자회사 플랜에이치벤처스, '착한의사' 운영사 비바이노베이션에 투자·서비스 고도화",
+		"newsContent": "호반건설이 데이터 기반 건강검진 플랫폼을 통해 임직원 건강관리를 돕는다.\n호반건설은 임직원 건강검진 예약을 위해 비바이노베이션의 건강검진 플랫폼 '착한의사'를 도입했다고 5일 밝혔다.\n국내 100만 회원이 이용 중인 건강검진 플랫폼 '착한의사'는 △검진 예약 △검진 결과 모바일 조회 △의료진 원격 상담 △건강 예후 모니터링 △맞춤 검진 인공지능(AI) 추천 등 원스톱 검진 관리 서비스를 제공한다.\n특히 호반건설 자회사 플랜에이치벤처스 투자 이후 오픈이노베이션 팀과 협업해 서비스 고도화를 추진했다.\nAI 건강 데이터 분석을 통해 검진 전 개인에 적합한 검진을 안내하고 검진 결과에 따라 추가 정밀검진 안내를 받는 '주치의 서비스' 개발도 완료했다.\n서비스 도입으로 호반건설 임직원은 본인의 누적된 의료기록(병원, 약국, 국가 검진, 종합검진 등)을 실시간 확인할 수 있다.\n이동이 많은 현장 임직원도 검진 기관 변동과 상관없이 본인의 검진 결과를 확인하고 차후 건강관리에 활용할 수 있다.\n호반건설 관계자는 “'착한의사'를 도입해 임직원 검진 예약이 더 편리해졌고 인사 담당자 업무 효율성도 증대됐다”며 “임직원 건강관리를 위해 호반그룹 전 계열사 확대를 검토하고 있다”고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "호반건설이 데이터 기반 건강검진 플랫폼을 통해 임직원 건강관리를 돕는다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "호반건설은 임직원 건강검진 예약을 위해 비바이노베이션의 건강검진 플랫폼 '착한의사'를 도입했다고 5일 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내 100만 회원이 이용 중인 건강검진 플랫폼 '착한의사'는 △검진 예약 △검진 결과 모바일 조회 △의료진 원격 상담 △건강 예후 모니터링 △맞춤 검진 인공지능(AI) 추천 등 원스톱 검진 관리 서비스를 제공한다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 호반건설 자회사 플랜에이치벤처스 투자 이후 오픈이노베이션 팀과 협업해 서비스 고도화를 추진했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "AI 건강 데이터 분석을 통해 검진 전 개인에 적합한 검진을 안내하고 검진 결과에 따라 추가 정밀검진 안내를 받는 '주치의 서비스' 개발도 완료했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서비스 도입으로 호반건설 임직원은 본인의 누적된 의료기록(병원, 약국, 국가 검진, 종합검진 등)을 실시간 확인할 수 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이동이 많은 현장 임직원도 검진 기관 변동과 상관없이 본인의 검진 결과를 확인하고 차후 건강관리에 활용할 수 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "호반건설 관계자는 “'착한의사'를 도입해 임직원 검진 예약이 더 편리해졌고 인사 담당자 업무 효율성도 증대됐다”며 “임직원 건강관리를 위해 호반그룹 전 계열사 확대를 검토하고 있다”고 전했다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "호반건설, 임직원 건강검진 플랫폼 '착한의사' 도입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334030",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "'발신번호 거짓표시' 사기 급증...번호 등록해 사전 차단 가능",
+		"newsSubTitle": "",
+		"newsContent": "한국인터넷진흥원(KISA)은 최근 금융기관이나 개인 전화번호로 발신번호를 변경해 사기에 이용하는 '발신번호 거짓표시' 사기 피해 사례가 급증하고 있어 각별한 주의가 요구된다고 7일 밝혔다.\n발신번호 거짓표시는 보이스피싱, 스미싱과 같은 전자금융사기 또는 불법 광고성 정보 전송 등의 목적으로 전화 및 문자를 보낼 때 타인의 전화번호나 없는 전화번호 등으로 발신전화번호를 거짓 표시하는 행위다.\n최근 발신번호 변작중계기를 통해 전화번호를 변경한 뒤, 불특정 다수에게 전화를 걸어 검찰이나 금융기관을 사칭하는 수법으로 수억원을 편취한 일당이 검거되기도 했다.\nKISA은 의심 전화 및 문자 사전 차단 및 확인 등 대응 강화를 당부했다.\nKISA은 전화·문자 전달경로를 추적해 최초 발신지를 확인해주는 서비스를 제공하고 있다.\nKISA 보호나라 홈페이지에서 신고가 가능하다.\n이와함께 공공, 금융기관의 전화번호를 기간통신사업자에 등록하면 해외나 회선설비를 보유하지 않은 기간통신사업자에게서 발신될 경우 사전 차단된다.\n개인의 경우 자신의 번호를 문자중계사업자에 등록하면 도용시 사전 차단할 수 있다.\nKISA는 통신사업자 서비스 이용약관 개정을 통해 보이스피싱 발신번호를 차단할 수 있는 근거 또한 강화했다고 밝혔다.\n이통3사와 70여개 알뜰폰 사업자, 회선설비를 보유한 8개 기간통신사업자가 이용약관을 개정했고 현재 회선설비를 보유하지 않은 500여개 기간통신사업자 또한 적용을 준비중이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국인터넷진흥원(KISA)은 최근 금융기관이나 개인 전화번호로 발신번호를 변경해 사기에 이용하는 '발신번호 거짓표시' 사기 피해 사례가 급증하고 있어 각별한 주의가 요구된다고 7일 밝혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "발신번호 거짓표시는 보이스피싱, 스미싱과 같은 전자금융사기 또는 불법 광고성 정보 전송 등의 목적으로 전화 및 문자를 보낼 때 타인의 전화번호나 없는 전화번호 등으로 발신전화번호를 거짓 표시하는 행위다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 발신번호 변작중계기를 통해 전화번호를 변경한 뒤, 불특정 다수에게 전화를 걸어 검찰이나 금융기관을 사칭하는 수법으로 수억원을 편취한 일당이 검거되기도 했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KISA은 의심 전화 및 문자 사전 차단 및 확인 등 대응 강화를 당부했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KISA은 전화·문자 전달경로를 추적해 최초 발신지를 확인해주는 서비스를 제공하고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KISA 보호나라 홈페이지에서 신고가 가능하다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이와함께 공공, 금융기관의 전화번호를 기간통신사업자에 등록하면 해외나 회선설비를 보유하지 않은 기간통신사업자에게서 발신될 경우 사전 차단된다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "개인의 경우 자신의 번호를 문자중계사업자에 등록하면 도용시 사전 차단할 수 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "KISA는 통신사업자 서비스 이용약관 개정을 통해 보이스피싱 발신번호를 차단할 수 있는 근거 또한 강화했다고 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이통3사와 70여개 알뜰폰 사업자, 회선설비를 보유한 8개 기간통신사업자가 이용약관을 개정했고 현재 회선설비를 보유하지 않은 500여개 기간통신사업자 또한 적용을 준비중이라고 설명했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'발신번호 거짓표시' 사기 급증...번호 등록해 사전 차단 가능",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

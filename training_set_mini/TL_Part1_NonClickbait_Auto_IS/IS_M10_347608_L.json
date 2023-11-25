@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347608",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "네이버 지난해 카드 결제액 15조원 육박",
+		"newsSubTitle": "null",
+		"newsContent": "지난해 네이버 플랫폼에서 이뤄진 카드 결제금액이 15조원에 육박하는 것으로 나타났다.\n앱 분석업체 와이즈앱은 지난해 네이버의 카드 결제금액이 14조7000억원으로 집계됐다고 12일 밝혔다.\n쇼핑과 광고, 콘텐츠 등 네이버에서 이뤄진 모든 카드 결제금액을 더한 것이다.\n와이즈앱은 \\\"쇼핑 분류는 어려우나 콘텐츠, 광고 등 쇼핑 외 결제금액을 제외하더라도 홈쇼핑·인터넷쇼핑 업종에서 높은 순위로 추정된다\\\"고 밝혔다.\n홈쇼핑·인터넷쇼핑 플랫폼별 카드 결제금액 순위에서는 이베이코리아의 옥션·지마켓이 15조5000억원으로 1위를 차지했다.\n이어 11번가 10조8000억원, 쿠팡 8조7000억원, 롯데홈쇼핑·롯데닷컴 5조6000억원, 위메프 5조1000억원 순이었다.\n쇼핑 분류가 어려운 네이버는 순위에서 제외됐다.\n이번 조사는 전국 13만명의 신용·체크카드 결제 데이터 분석으로 이뤄졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 네이버 플랫폼에서 이뤄진 카드 결제금액이 15조원에 육박하는 것으로 나타났다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "앱 분석업체 와이즈앱은 지난해 네이버의 카드 결제금액이 14조7000억원으로 집계됐다고 12일 밝혔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "쇼핑과 광고, 콘텐츠 등 네이버에서 이뤄진 모든 카드 결제금액을 더한 것이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "와이즈앱은 \\\"쇼핑 분류는 어려우나 콘텐츠, 광고 등 쇼핑 외 결제금액을 제외하더라도 홈쇼핑·인터넷쇼핑 업종에서 높은 순위로 추정된다\\\"고 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "홈쇼핑·인터넷쇼핑 플랫폼별 카드 결제금액 순위에서는 이베이코리아의 옥션·지마켓이 15조5000억원으로 1위를 차지했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 11번가 10조8000억원, 쿠팡 8조7000억원, 롯데홈쇼핑·롯데닷컴 5조6000억원, 위메프 5조1000억원 순이었다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "쇼핑 분류가 어려운 네이버는 순위에서 제외됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이번 조사는 전국 13만명의 신용·체크카드 결제 데이터 분석으로 이뤄졌다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버 지난해 카드 결제액 15조원 육박",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

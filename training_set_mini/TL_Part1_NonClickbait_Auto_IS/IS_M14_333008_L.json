@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333008",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "일 르네사스, 디바이스보안업체 시큐어씽스와 협업",
+		"newsSubTitle": "",
+		"newsContent": "일본 르네사스일렉트로닉스는 디바이스보안 전문기업 시큐어씽스(Secure Thingz)와 사물인터넷(IoT) 보안 애플리케이션 개발 협업을 발표했다.\n르네사스는 RX패밀리 MCU에 시큐어씽스 시큐어디플로이 아키텍처를 지원한다.\n시큐어씽스는 르네사스 RX65N를 플랫폼 MCU 하나로 채택한 임베디드트러스트 플랫폼을 내년 출시할 예정이다.\n르네사스 32비트 MCU RX패밀리는 뛰어난 전력효율과 높은 성능을 실현하며 IoT 임베디드 애플리케이션에 적합하다.\n협업을 통해 르네사스와 시큐어씽스는 RX패밀리를 이용한 IoT장치에 보다 쉽게 보안을 구현할 수 있는 차세대 보안개발툴을 제공한다.\n르네사스 RX65N에는 견고한 보안을 구현하는 트러스티드시큐어IP(TSIP)가 탑재돼 도청, 변조 및 바이러스 등 외부 공격을 방지하기 위한 견고한 암호키 관리, 암호화 통신, 조작탐지 기능을 제공한다.\n대럴 쿠 르네사스 IoT플랫폼사업부 제품마케팅 부사장은 “IoT 임베디드 애플리케이션은 강력한 보안과 높은 신뢰성이 요구되고 있다”면서 “이번 협업으로 MCU를 이용한 엔드투엔드 솔루션 보안을 더 쉽게 구현할 수 있게 됐다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 르네사스일렉트로닉스는 디바이스보안 전문기업 시큐어씽스(Secure Thingz)와 사물인터넷(IoT) 보안 애플리케이션 개발 협업을 발표했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "르네사스는 RX패밀리 MCU에 시큐어씽스 시큐어디플로이 아키텍처를 지원한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시큐어씽스는 르네사스 RX65N를 플랫폼 MCU 하나로 채택한 임베디드트러스트 플랫폼을 내년 출시할 예정이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "르네사스 32비트 MCU RX패밀리는 뛰어난 전력효율과 높은 성능을 실현하며 IoT 임베디드 애플리케이션에 적합하다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "협업을 통해 르네사스와 시큐어씽스는 RX패밀리를 이용한 IoT장치에 보다 쉽게 보안을 구현할 수 있는 차세대 보안개발툴을 제공한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "르네사스 RX65N에는 견고한 보안을 구현하는 트러스티드시큐어IP(TSIP)가 탑재돼 도청, 변조 및 바이러스 등 외부 공격을 방지하기 위한 견고한 암호키 관리, 암호화 통신, 조작탐지 기능을 제공한다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대럴 쿠 르네사스 IoT플랫폼사업부 제품마케팅 부사장은 “IoT 임베디드 애플리케이션은 강력한 보안과 높은 신뢰성이 요구되고 있다”면서 “이번 협업으로 MCU를 이용한 엔드투엔드 솔루션 보안을 더 쉽게 구현할 수 있게 됐다”고 말했다.",
+				"sentenceSize": 131
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일 르네사스, 디바이스보안업체 시큐어씽스와 협업",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

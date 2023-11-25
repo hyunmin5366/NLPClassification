@@ -1,0 +1,267 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334543",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "베리타스, '데이터 가시성' 확보해 랜섬웨어 피해 예방 돕는다",
+		"newsSubTitle": "",
+		"newsContent": "랜섬웨어 공격이 거세지는 가운데 베리타스가 데이터 가시성을 중심으로 기업 피해 예방을 돕는다.\n중요 데이터가 감염되지 않도록 조치하고 감염 시에도 빠른 복구를 지원한다.\n김지현 베리타스 최고기술책임자(CTO) 상무는 “랜섬웨어가 결국 데이터를 인질로 삼는 공격인 만큼 데이터 관점에서 준비해야 한다”고 말했다.\n베리타스는 데이터 관리 전문 기업으로 랜섬웨어 대응을 위한 백업 등 데이터 보호 솔루션을 제공한다.\n김 상무는 최근 랜섬웨어 공격 증가 이유로 두 가지를 꼽았다.\n첫째, 고객 신용정보 등 기업 데이터 가치가 높아지고 데이터 규모도 커졌다.\n둘째, 정보기술(IT) 인프라가 복잡해지면서 공격에 취약해졌다.\n데이터 중요성은 계속 높아지는데 취약성과 보안 구멍은 더욱 많아졌다.\n특히 IT 복잡성은 랜섬웨어 대응에 큰 걸림돌이다.\n랜섬웨어 공격을 받았을 때 데이터가 어디에 있고, 무엇을 어떻게 복구할지 알아야 하지만 대부분 대응 체계가 미흡하다.\n베리타스가 발간한 '랜섬웨어 회복력' 보고서에 따르면 기업 64%가 자사 데이터 보호 인프라가 IT 복잡성을 따라가지 못한다고 밝혔다.\n코로나19 사태 이후 비대면 업무 전환도 복잡성을 높이는 요인이다.\n김 상무는 “기업에 중요 데이터가 어디에 있냐고 물어보면 대부분 답을 하지 못한다”면서 “어디에 있는지도 모르는 데이터를 보호할 수는 없다”고 강조했다.\n김 상무는 “100% 보안은 없지만 감염 시 피해를 최소화하는 것은 가능하다”고 설명했다.\n랜섬웨어에 감염되더라도 기업 데이터를 위·변조 없는 무결한 상태로 복구하면 된다.\n베리타스는 일반 백업이 아닌 '보안 백업'을 제공, 랜섬웨어에 영향 받지 않는 백업 인프라를 구축한다.\n침입을 탐지·방지하고 인가되지 않은 이용자는 백업본에 접근하지 못한다.\n랜섬웨어 감염 시 서비스 정상화를 위한 빠른 복구가 중요하다.\n베리타스는 △보호 △탐지 △복구 등 세 가지 축으로 대응책을 마련한다.\n랜섬웨어 공격자는 침투 시점에 바로 피해를 일으키는 것이 아니라 일정 기간 잠복기를 거쳐 피해를 극대화할 만한 대상을 선정한다.\n데이터 이상징후를 미리 파악하는 것만으로도 보다 큰 피해를 막을 수 있다.\n백업 시 유의점으로 '3-2-1 원칙'이 있다.\n최소 세 벌의 백업본을 두 매체에 원격으로 보관해야 한다는 원칙이다.\n베리타스는 원격 보관을 위한 '에어갭(망분리)'을 자동화하는 기능도 제공한다.\n국내 한 건축사무소는 랜섬웨어 피해와 정보 유출을 예방하기 위해 베리타스 '넷백업'과 '넷백업 어플라이언스'를 도입했다.\n백업 속도와 관리 부담은 줄이고 데이터 보안은 강화했다.\n김 상무는 “랜섬웨어는 업계를 가리지 않는다”면서 “데이터가 지속 증가하는 가운데 데이터 가시성을 확보하고 피해 예방 대책을 마련하길 바란다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 27,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "랜섬웨어 공격이 거세지는 가운데 베리타스가 데이터 가시성을 중심으로 기업 피해 예방을 돕는다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "중요 데이터가 감염되지 않도록 조치하고 감염 시에도 빠른 복구를 지원한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김지현 베리타스 최고기술책임자(CTO) 상무는 “랜섬웨어가 결국 데이터를 인질로 삼는 공격인 만큼 데이터 관점에서 준비해야 한다”고 말했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "베리타스는 데이터 관리 전문 기업으로 랜섬웨어 대응을 위한 백업 등 데이터 보호 솔루션을 제공한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김 상무는 최근 랜섬웨어 공격 증가 이유로 두 가지를 꼽았다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "첫째, 고객 신용정보 등 기업 데이터 가치가 높아지고 데이터 규모도 커졌다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "둘째, 정보기술(IT) 인프라가 복잡해지면서 공격에 취약해졌다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "데이터 중요성은 계속 높아지는데 취약성과 보안 구멍은 더욱 많아졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "특히 IT 복잡성은 랜섬웨어 대응에 큰 걸림돌이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "랜섬웨어 공격을 받았을 때 데이터가 어디에 있고, 무엇을 어떻게 복구할지 알아야 하지만 대부분 대응 체계가 미흡하다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "베리타스가 발간한 '랜섬웨어 회복력' 보고서에 따르면 기업 64%가 자사 데이터 보호 인프라가 IT 복잡성을 따라가지 못한다고 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "코로나19 사태 이후 비대면 업무 전환도 복잡성을 높이는 요인이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "김 상무는 “기업에 중요 데이터가 어디에 있냐고 물어보면 대부분 답을 하지 못한다”면서 “어디에 있는지도 모르는 데이터를 보호할 수는 없다”고 강조했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "김 상무는 “100% 보안은 없지만 감염 시 피해를 최소화하는 것은 가능하다”고 설명했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "랜섬웨어에 감염되더라도 기업 데이터를 위·변조 없는 무결한 상태로 복구하면 된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "베리타스는 일반 백업이 아닌 '보안 백업'을 제공, 랜섬웨어에 영향 받지 않는 백업 인프라를 구축한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "침입을 탐지·방지하고 인가되지 않은 이용자는 백업본에 접근하지 못한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "랜섬웨어 감염 시 서비스 정상화를 위한 빠른 복구가 중요하다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "베리타스는 △보호 △탐지 △복구 등 세 가지 축으로 대응책을 마련한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "랜섬웨어 공격자는 침투 시점에 바로 피해를 일으키는 것이 아니라 일정 기간 잠복기를 거쳐 피해를 극대화할 만한 대상을 선정한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "데이터 이상징후를 미리 파악하는 것만으로도 보다 큰 피해를 막을 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "백업 시 유의점으로 '3-2-1 원칙'이 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "최소 세 벌의 백업본을 두 매체에 원격으로 보관해야 한다는 원칙이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "베리타스는 원격 보관을 위한 '에어갭(망분리)'을 자동화하는 기능도 제공한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "국내 한 건축사무소는 랜섬웨어 피해와 정보 유출을 예방하기 위해 베리타스 '넷백업'과 '넷백업 어플라이언스'를 도입했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "백업 속도와 관리 부담은 줄이고 데이터 보안은 강화했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "김 상무는 “랜섬웨어는 업계를 가리지 않는다”면서 “데이터가 지속 증가하는 가운데 데이터 가시성을 확보하고 피해 예방 대책을 마련하길 바란다”고 말했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "베리타스, '데이터 가시성' 확보해 랜섬웨어 피해 예방 돕는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

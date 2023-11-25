@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007490",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "출생아 수, 7개월째 증가",
+		"newsSubTitle": "",
+		"newsContent": "출생아 수가 7개월 연속 증가하고 있다.\n24일 통계청이 발표한 월간 인구동향에 따르면 지난 9월 출생아는 4만2200명으로 지난해 같은 달보다 10.5%(4000명) 늘어 증가율은 2007년 11월(12.9%) 이후 2년 10개월 만에 최고치를 기록했다.\n출생아 수는 2008년 3월부터 지난 1월까지 23개월 연속 감소세를 지속했으나 지난 3월부터 증가세로 돌아서 9월까지 7개월째 증가세를 이어갔다.\n이에 따라 올해 1~9월 출생아 누계는 34만9300명으로 지난해 같은 기간의 33만8300명보다 3.3% 증가했다.\n9월 사망자는 2만400명으로 작년 동월보다 1300명(6.8%) 증가했으며 1~9월 누계는 18만7400명으로 지난해 같은 기간의 18만3200명보다 2.3% 늘었다.\n9월 혼인 건수는 2만1200건으로 지난해 같은 달보다 300건(1.4%) 증가했으며 이혼 건수는 9200건으로 작년 9월의 1만600건보다 1400건(-13.2%) 줄어 9개월째 감소세를 이어갔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "출생아 수가 7개월 연속 증가하고 있다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 통계청이 발표한 월간 인구동향에 따르면 지난 9월 출생아는 4만2200명으로 지난해 같은 달보다 10.5%(4000명) 늘어 증가율은 2007년 11월(12.9%) 이후 2년 10개월 만에 최고치를 기록했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "출생아 수는 2008년 3월부터 지난 1월까지 23개월 연속 감소세를 지속했으나 지난 3월부터 증가세로 돌아서 9월까지 7개월째 증가세를 이어갔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 올해 1~9월 출생아 누계는 34만9300명으로 지난해 같은 기간의 33만8300명보다 3.3% 증가했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "9월 사망자는 2만400명으로 작년 동월보다 1300명(6.8%) 증가했으며 1~9월 누계는 18만7400명으로 지난해 같은 기간의 18만3200명보다 2.3% 늘었다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "9월 혼인 건수는 2만1200건으로 지난해 같은 달보다 300건(1.4%) 증가했으며 이혼 건수는 9200건으로 작년 9월의 1만600건보다 1400건(-13.2%) 줄어 9개월째 감소세를 이어갔다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성·한화·교보 RBC 하락…금리 인상에 건전성 관리 '비상'(종합)",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

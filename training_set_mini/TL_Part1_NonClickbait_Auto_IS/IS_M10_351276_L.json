@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351276",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "이스라엘 스파이웨어 페가수스, 최신 아이폰 OS도 뚫었다",
+		"newsSubTitle": "null",
+		"newsContent": "이스라엘 보안기업 NSO그룹이 만든 스파이웨어 '페가수스'가 아이폰의 최신 OS(운영체제) 보안까지 뚫었다고 외신이 보도했다.\n24일(현지시각) 캐나다 기술인권 연구소 시티즌랩(Citizen Lab)에 따르면 최근 바레인 인권운동가 등 9명이 사용하던 아이폰이 NSO그룹의 페가수스에 해킹당했다고 밝혔다.\n시티즌랩은 이들 대상 해킹이 바레인 정부에 의해 지난해 6월부터 올해 2월까지 진행된 것으로 추정했다.\n페가수스는 아이폰의 문자 메시지 앱인 아이메시지의 취약점을 이용한다.\n이용자가 URL을 누르는 등 특정한 행위를 하지 않아도 스마트폰 내에 해킹 도구를 설치할 수 있다.\n스마트폰에서 주요 정보를 빼내는 것뿐만 아니라 카메라와 마이크 권한도 원격 조정하며, GPS를 통한 실시간 위치 추적도 가능한 것으로 알려졌다.\n시티즌랩은 이번 해킹공격에서 페가수스가 최신 OS인 iOS 14의 보안기능인 블래스트도어(BlastDoor)를 우회한 것으로 분석했다.\n공격에 성공한 OS는 iOS 14.4와 iOS 14.6이다.\niOS 14.6은 지난 5월 업데이트된 버전이다.\n빌 마크작 시티즌랩 연구원은 \\\"애플이 해킹을 견디도록 설계한 새로운 보안장치를 페가수스가 뚫었다\\\"며 \\\"해당 내용을 발견한 즉시 애플에 알렸다\\\"고 말했다.\n애플 측도 추가 조치를 취한 것으로 알려졌다.\n애플 측은 IT전문매체 테크크런치에 \\\"블래스트도어는 아이메시지를 보호하기 위한 노력의 전부가 아니다\\\"라며 \\\"다음달 출시 예정인 iOS 15는 보안기능을 더욱 강화했다\\\"고 말했다.\nNSO그룹 페가수스는 약 10년 전 이스라엘 전직 사이버 스파이가 개발한 스파이웨어다.\n테러 방지나 마약 단속 등에 관심이 있는 현재 세계 40개국, 60곳 정보 및 군사 기관, 법 집행 기관이 NSO그룹 고객인 것으로 알려졌다.\n최근 미국 워싱턴포스트(WP)를 비롯한 세계 16개 언론사 공동취재팀은 페가수스가 34개 국가 정치인과 공직자 등의 휴대전화를 해킹하는데 사용됐다고 보도했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이스라엘 보안기업 NSO그룹이 만든 스파이웨어 '페가수스'가 아이폰의 최신 OS(운영체제) 보안까지 뚫었다고 외신이 보도했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일(현지시각) 캐나다 기술인권 연구소 시티즌랩(Citizen Lab)에 따르면 최근 바레인 인권운동가 등 9명이 사용하던 아이폰이 NSO그룹의 페가수스에 해킹당했다고 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시티즌랩은 이들 대상 해킹이 바레인 정부에 의해 지난해 6월부터 올해 2월까지 진행된 것으로 추정했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "페가수스는 아이폰의 문자 메시지 앱인 아이메시지의 취약점을 이용한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이용자가 URL을 누르는 등 특정한 행위를 하지 않아도 스마트폰 내에 해킹 도구를 설치할 수 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스마트폰에서 주요 정보를 빼내는 것뿐만 아니라 카메라와 마이크 권한도 원격 조정하며, GPS를 통한 실시간 위치 추적도 가능한 것으로 알려졌다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시티즌랩은 이번 해킹공격에서 페가수스가 최신 OS인 iOS 14의 보안기능인 블래스트도어(BlastDoor)를 우회한 것으로 분석했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공격에 성공한 OS는 iOS 14.4와 iOS 14.6이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "iOS 14.6은 지난 5월 업데이트된 버전이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "빌 마크작 시티즌랩 연구원은 \\\"애플이 해킹을 견디도록 설계한 새로운 보안장치를 페가수스가 뚫었다\\\"며 \\\"해당 내용을 발견한 즉시 애플에 알렸다\\\"고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "애플 측도 추가 조치를 취한 것으로 알려졌다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "애플 측은 IT전문매체 테크크런치에 \\\"블래스트도어는 아이메시지를 보호하기 위한 노력의 전부가 아니다\\\"라며 \\\"다음달 출시 예정인 iOS 15는 보안기능을 더욱 강화했다\\\"고 말했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "NSO그룹 페가수스는 약 10년 전 이스라엘 전직 사이버 스파이가 개발한 스파이웨어다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "테러 방지나 마약 단속 등에 관심이 있는 현재 세계 40개국, 60곳 정보 및 군사 기관, 법 집행 기관이 NSO그룹 고객인 것으로 알려졌다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "최근 미국 워싱턴포스트(WP)를 비롯한 세계 16개 언론사 공동취재팀은 페가수스가 34개 국가 정치인과 공직자 등의 휴대전화를 해킹하는데 사용됐다고 보도했다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이스라엘 스파이웨어 페가수스, 최신 아이폰 OS도 뚫었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

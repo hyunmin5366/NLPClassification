@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332127",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[이슈분석] CPU 취약점 해결 위해 업계 총력 대응",
+		"newsSubTitle": "",
+		"newsContent": "CPU 취약점 해결을 위해 칩 제조사, 운용체계(OS) 업체, PC, 스마트폰, 클라우드 서비스 업체가 발빠르게 움직이고 있다.\n아직 스펙터와 멜트다운 피해 사례는 보고되지 않았으나, 일단 외부로 취약점이 공개된 만큼 하루 빨리 구조를 뜯어고치는 것이 목표다.\nPC에선 CPU 업체가 하드웨어 구조를 고쳐주는 펌웨어를 만들면 PC 제조업체는 이를 받아 최종 소비자에게 배포한다.\nOS 업데이트는 자체적으로 이뤄진다.\n인텔은 작년 12월 초부터 대상 제품 펌웨어 업데이트를 제공했다.\n이달 중 업데이트를 완료하는 것이 인텔의 목표다.\n다만 인텔은 일부 제품군(하스웰과 브로드웰)에서 재부팅 문제가 일어나자 새로운 보안패치를 만들고 있다.\n테스트가 완료되면 배포할 예정이다.\nAMD도 업데이트로 문제를 해결했다고 밝히면서 성능 저하는 무시해도 될 만한 수준이라고 밝혔다.\nIBM은 메인프레임 서버 등에 탑재되고 있는 파워7+, 파워8, 파워9 CPU 플랫폼이 스펙터와 멜트다운 취약점에 노출돼 있다며 펌웨어 패치를 제공했다.\n파워7+의 경우 2월 중 패치가 가능하다.\n마이크로소프트(MS)는 윈도10, 윈도8, 윈도7 OS 정기 업데이트에서 패치를 마쳤고 애플도 맥OS 업데이트를 했다.\n리눅스 커널에도 이미 패치를 적용했다.\n자바스크립트를 통해 스펙터 취약점이 운용될 수 있다는 점이 알려지면서 주요 웹브라우저에도 보안 업데이트가 단행됐다.\n모질라 파이어폭스, 구글 크롬, 윈도 익스플로러와 엣지 등이 대상 프로그램이다.\nARM의 경우 CPU 코어를 제공한 삼성전자 시스템LSI, 퀄컴, 미디어텍, 하이실리콘 등과 논의해 펌웨어를 개발한 것으로 전해졌다.\n퀄컴 등은 해당 펌웨어를 삼성전자 무선사업부나 LG전자 MC사업본부 등으로 제공했다.\n구글 역시 이에 맞춰 스마트폰 안드로이드 OS용 보안 업데이트를 제조사로 전달했다.\n스마트폰 업체는 이르면 이달을 시작으로 자사 제품군에 맞는 보안 패치를 단행할 예정이다.\n업계 관계자는 “근본 해결책은 취약점을 없앤 새로운 CPU 내부 구조를 적용하는 것이겠지만, 여기에는 상당한 시간이 걸린다”면서 “현재로써는 소프트웨어로 막는 수밖에 없다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "CPU 취약점 해결을 위해 칩 제조사, 운용체계(OS) 업체, PC, 스마트폰, 클라우드 서비스 업체가 발빠르게 움직이고 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아직 스펙터와 멜트다운 피해 사례는 보고되지 않았으나, 일단 외부로 취약점이 공개된 만큼 하루 빨리 구조를 뜯어고치는 것이 목표다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "PC에선 CPU 업체가 하드웨어 구조를 고쳐주는 펌웨어를 만들면 PC 제조업체는 이를 받아 최종 소비자에게 배포한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "OS 업데이트는 자체적으로 이뤄진다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인텔은 작년 12월 초부터 대상 제품 펌웨어 업데이트를 제공했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이달 중 업데이트를 완료하는 것이 인텔의 목표다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다만 인텔은 일부 제품군(하스웰과 브로드웰)에서 재부팅 문제가 일어나자 새로운 보안패치를 만들고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "테스트가 완료되면 배포할 예정이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "AMD도 업데이트로 문제를 해결했다고 밝히면서 성능 저하는 무시해도 될 만한 수준이라고 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "IBM은 메인프레임 서버 등에 탑재되고 있는 파워7+, 파워8, 파워9 CPU 플랫폼이 스펙터와 멜트다운 취약점에 노출돼 있다며 펌웨어 패치를 제공했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "파워7+의 경우 2월 중 패치가 가능하다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "마이크로소프트(MS)는 윈도10, 윈도8, 윈도7 OS 정기 업데이트에서 패치를 마쳤고 애플도 맥OS 업데이트를 했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "리눅스 커널에도 이미 패치를 적용했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "자바스크립트를 통해 스펙터 취약점이 운용될 수 있다는 점이 알려지면서 주요 웹브라우저에도 보안 업데이트가 단행됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "모질라 파이어폭스, 구글 크롬, 윈도 익스플로러와 엣지 등이 대상 프로그램이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "ARM의 경우 CPU 코어를 제공한 삼성전자 시스템LSI, 퀄컴, 미디어텍, 하이실리콘 등과 논의해 펌웨어를 개발한 것으로 전해졌다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "퀄컴 등은 해당 펌웨어를 삼성전자 무선사업부나 LG전자 MC사업본부 등으로 제공했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "구글 역시 이에 맞춰 스마트폰 안드로이드 OS용 보안 업데이트를 제조사로 전달했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "스마트폰 업체는 이르면 이달을 시작으로 자사 제품군에 맞는 보안 패치를 단행할 예정이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "업계 관계자는 “근본 해결책은 취약점을 없앤 새로운 CPU 내부 구조를 적용하는 것이겠지만, 여기에는 상당한 시간이 걸린다”면서 “현재로써는 소프트웨어로 막는 수밖에 없다”고 말했다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석] CPU 취약점 해결 위해 업계 총력 대응",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

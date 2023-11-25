@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008857",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "지역 주택연금 가입자 두배↑",
+		"newsSubTitle": "올들어 7월까지 74명",
+		"newsContent": "휴가철 대전·충남 지역의 주택연금 가입자 수가 전년대비 두 배 이상 늘어난 것으로 나타났다.\n지역의 지난달까지 가입자수는 74명으로 전년동기(36명)보다 105%증가, 보증공급액은 113% 증가(283→605억원)했고 단독주택은 300%(5→20건) 늘었다.\n한국주택금융공사는 지난달 주택연금 신규가입이 212명(보증공급액 2812억원)이었다고 7일 밝혔다.\n이는 전년동기(신규가입 157명, 보증공급액 2423억원)대비 가입자 35%, 보증공급액은 16%가 증가한 수치다.\n주택연금은 올해 총 1548명이 신규가입해 전년동기대비 54% 증가(1006명→1548명)했다.\n일 평균 가입도 전년 6.9명에서 올해 10.8명으로 57% 증가했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "휴가철 대전·충남 지역의 주택연금 가입자 수가 전년대비 두 배 이상 늘어난 것으로 나타났다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지역의 지난달까지 가입자수는 74명으로 전년동기(36명)보다 105%증가, 보증공급액은 113% 증가(283→605억원)했고 단독주택은 300%(5→20건) 늘었다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국주택금융공사는 지난달 주택연금 신규가입이 212명(보증공급액 2812억원)이었다고 7일 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 전년동기(신규가입 157명, 보증공급액 2423억원)대비 가입자 35%, 보증공급액은 16%가 증가한 수치다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주택연금은 올해 총 1548명이 신규가입해 전년동기대비 54% 증가(1006명→1548명)했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일 평균 가입도 전년 6.9명에서 올해 10.8명으로 57% 증가했다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "HMM, 상반기 영업익 2.4조원…사상 최대",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

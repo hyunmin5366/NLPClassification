@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_025233",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "브레이브걸스 민영, 코로나19 음성 (전문)[공식]",
+		"newsSubTitle": "",
+		"newsContent": "그룹 브레이브걸스의 민영이 코로나19 음성 판정을 받았다.\n소속사 브레이브 엔터테인먼트 측은 17일, “어제 선제적 대응 차원에서 실시한 코로나19 검사 결과 민영이 음성 판정을 받았다.”고 밝혔다.\n이어 “많은 분들께 심려를 끼쳐드려 대단히 죄송하다.”며 “앞으로도 보건 당국의 방역 지침을 준수하고 아티스트의 건강과 안전에 만전을 기하겠다.”고 전했다.\n한편, 민영은 코로나19 확진자와 동선이 겹쳐 지난16일 선제적으로 코로나19 검사를 실시한 바 있다. <브레이브 엔터테인먼트 공식입장 전문> 안녕하세요.\n브레이브 엔터테인먼트입니다.\n어제(9/16) 선제적 대응 차원에서 실시한 코로나19 검사 결과 브레이브걸스 멤버 민영이 음성 판정을 받았습니다.\n많은 여러분께 심려를 끼쳐드려 대단히 죄송합니다.\n앞으로도 당사는 보건 당국의 방역 지침을 준수하고 아티스트의 건강과 안전에 만전을 기하겠습니다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 브레이브걸스의 민영이 코로나19 음성 판정을 받았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소속사 브레이브 엔터테인먼트 측은 17일, “어제 선제적 대응 차원에서 실시한 코로나19 검사 결과 민영이 음성 판정을 받았다.”고 밝혔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 “많은 분들께 심려를 끼쳐드려 대단히 죄송하다.”며 “앞으로도 보건 당국의 방역 지침을 준수하고 아티스트의 건강과 안전에 만전을 기하겠다.”고 전했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편, 민영은 코로나19 확진자와 동선이 겹쳐 지난16일 선제적으로 코로나19 검사를 실시한 바 있다. <브레이브 엔터테인먼트 공식입장 전문> 안녕하세요.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "브레이브 엔터테인먼트입니다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "어제(9/16) 선제적 대응 차원에서 실시한 코로나19 검사 결과 브레이브걸스 멤버 민영이 음성 판정을 받았습니다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "많은 여러분께 심려를 끼쳐드려 대단히 죄송합니다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞으로도 당사는 보건 당국의 방역 지침을 준수하고 아티스트의 건강과 안전에 만전을 기하겠습니다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘식스센스2’ 문별, 무인도 질문에 “이상엽, 유재석 잔소리 많을 듯”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

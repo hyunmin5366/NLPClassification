@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334831",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "머스크, 테슬라 주식 15조원 팔아...주가 최고점 대비 21%↓",
+		"newsSubTitle": "",
+		"newsContent": "일론 머스크 테슬라 최고경영자(CEO)가 한 달 동안 15조원에 달하는 테슬라 지분을 처분했다.\n머스크의 지분 처분 영향 등으로 인해 테슬라 주가는 11월 최고점 대비 21% 하락했다.\n머스크는 13일(현지시간) 213만주 규모의 주식매수청구권(스톡옵션) 행사에 따른 세금 납부를 위해 9억650만 달러(약 1조735 원) 규모의 93만4901주를 추가 매도했다고 미국 증권거래위원회(SEC)에 신고했다.\n로이터통신은 이번 주식 매도를 포함해 머스크가 한 달간 129억4000만 달러 규모의 주식을 팔았다고 보도했다.\n지난달 6일 머스크는 테슬라 보유 지분 10% 매각 여부를 묻는 트윗을 올렸고, 58%가 찬성하자 같은달 8일부터 보유 지분을 팔았다.\n블룸버그통신은 머스크가 지분을 매각한 이후 테슬라 주가가 최고점 대비 21%가량 빠졌다고 전했다.\n지난밤 테슬라는 전일 대비 4.98% 하락한 966.41달러에 거래를 마쳤다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일론 머스크 테슬라 최고경영자(CEO)가 한 달 동안 15조원에 달하는 테슬라 지분을 처분했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "머스크의 지분 처분 영향 등으로 인해 테슬라 주가는 11월 최고점 대비 21% 하락했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "머스크는 13일(현지시간) 213만주 규모의 주식매수청구권(스톡옵션) 행사에 따른 세금 납부를 위해 9억650만 달러(약 1조735 원) 규모의 93만4901주를 추가 매도했다고 미국 증권거래위원회(SEC)에 신고했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "로이터통신은 이번 주식 매도를 포함해 머스크가 한 달간 129억4000만 달러 규모의 주식을 팔았다고 보도했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난달 6일 머스크는 테슬라 보유 지분 10% 매각 여부를 묻는 트윗을 올렸고, 58%가 찬성하자 같은달 8일부터 보유 지분을 팔았다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "블룸버그통신은 머스크가 지분을 매각한 이후 테슬라 주가가 최고점 대비 21%가량 빠졌다고 전했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난밤 테슬라는 전일 대비 4.98% 하락한 966.41달러에 거래를 마쳤다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "머스크, 테슬라 주식 15조원 팔아...주가 최고점 대비 21%↓",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

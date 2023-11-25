@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330346",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "안랩 \\\"업무 메일로 유포되는 MS 365 계정 탈취 피싱사이트 주의\\\"",
+		"newsSubTitle": "",
+		"newsContent": "안랩이 부재중 전화 알림, 팩신 수신 확인 등 업무 관련 내용을 위장한 피싱 메일로 사용자의 마이크로소프트 365(MS 365) 계정을 탈취하는 공격 사례를 잇따라 발견하고 사용자 주의를 당부했다.\nMS 365는 온라인 구독 기반으로 마이크로소프트의 다양한 오피스 앱을 패키지로 이용할 수 있는 서비스다.\n공격 유형은 크게 두가지다.\n부재중 전화 알림 위장 사례에선 공격자가 '이 메일은 ○○○(수신자 이메일의 도메인 부분)에서 발송됐습니다(This E-mail was sent from ○○○)'라는 제목의 메일을 보냈다.\n메일 본문에는 부재중에 녹음된 음성 메시지를 첨부했다는 내용과 함께 '다시 듣기'를 의미하는 'playback_38629.html'이라는 파일이 첨부돼 있다.\n사용자가 첨부파일을 열면 MS 365 로그인 페이지와 매우 유사하게 제작된 피싱 사이트로 연결된다.\n팩스 수신 확인으로 위장한 메일의 경우, 공격자가 가짜 문서번호 및 '검토해달라(for review)'라는 제목의 메일을 보냈다.\n공격자는 '스캐너에서 성공적으로 팩스를 수신했다'는 메시지를 본문에 적고, 피싱 사이트로 연결되는 파일을 첨부했다.\n사용자가 첨부파일을 열면 MS 365 계정의 비밀번호 입력을 유도하는 피싱 사이트로 연결된다.\n두 공격에서 사용된 로그인 위장 피싱 사이트에는 이미 사용자의 이메일 주소가 입력된 것처럼 꾸며져 있어 사용자가 의심 없이 비밀번호를 입력할 수 있다.\n사용자가 비밀번호를 입력하면 즉시 공격자에게 전송된다.\n이 뿐만 아니라 해당 계정과 연결된 프로그램 내 정보까지 탈취당하는 등 추가 피해로 이어질 수 있어 사용자의 각별한 주의가 필요하다.\n현재 안랩 V3 제품군은 해당 피싱 사이트를 차단하고 있다.\n안랩은 △이메일 발신자 등 출처 확인 △출처가 의심스러운 메일 내 첨부파일 및 URL 실행 금지 △사이트 별로 다른 계정 사용 및 비밀번호 주기적 변경 △V3 등 백신 프로그램 최신버전 유지 및 피싱 사이트 차단 기능 활성화 △사용중인 프로그램(OS/인터넷 브라우저/오피스 SW 등) 최신버전 유지 및 보안 패치 적용 등 기본 보안수칙을 준수해야 한다고 당부했다.\n김성경 안랩 분석팀 연구원은 “사용자가 피싱 사이트에 속아 조직에서 사용 중인 계정정보를 입력할 경우 개인정보 뿐 아니라 조직의 정보까지 탈취될 위험이 있어 각별한 주의가 필요하다”며 “피해 예방을 위해 의심스러운 메일 속 첨부파일이나 URL을 실행하지 않아야 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안랩이 부재중 전화 알림, 팩신 수신 확인 등 업무 관련 내용을 위장한 피싱 메일로 사용자의 마이크로소프트 365(MS 365) 계정을 탈취하는 공격 사례를 잇따라 발견하고 사용자 주의를 당부했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "MS 365는 온라인 구독 기반으로 마이크로소프트의 다양한 오피스 앱을 패키지로 이용할 수 있는 서비스다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공격 유형은 크게 두가지다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부재중 전화 알림 위장 사례에선 공격자가 '이 메일은 ○○○(수신자 이메일의 도메인 부분)에서 발송됐습니다(This E-mail was sent from ○○○)'라는 제목의 메일을 보냈다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "메일 본문에는 부재중에 녹음된 음성 메시지를 첨부했다는 내용과 함께 '다시 듣기'를 의미하는 'playback_38629.html'이라는 파일이 첨부돼 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사용자가 첨부파일을 열면 MS 365 로그인 페이지와 매우 유사하게 제작된 피싱 사이트로 연결된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "팩스 수신 확인으로 위장한 메일의 경우, 공격자가 가짜 문서번호 및 '검토해달라(for review)'라는 제목의 메일을 보냈다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공격자는 '스캐너에서 성공적으로 팩스를 수신했다'는 메시지를 본문에 적고, 피싱 사이트로 연결되는 파일을 첨부했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "사용자가 첨부파일을 열면 MS 365 계정의 비밀번호 입력을 유도하는 피싱 사이트로 연결된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "두 공격에서 사용된 로그인 위장 피싱 사이트에는 이미 사용자의 이메일 주소가 입력된 것처럼 꾸며져 있어 사용자가 의심 없이 비밀번호를 입력할 수 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "사용자가 비밀번호를 입력하면 즉시 공격자에게 전송된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이 뿐만 아니라 해당 계정과 연결된 프로그램 내 정보까지 탈취당하는 등 추가 피해로 이어질 수 있어 사용자의 각별한 주의가 필요하다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "현재 안랩 V3 제품군은 해당 피싱 사이트를 차단하고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "안랩은 △이메일 발신자 등 출처 확인 △출처가 의심스러운 메일 내 첨부파일 및 URL 실행 금지 △사이트 별로 다른 계정 사용 및 비밀번호 주기적 변경 △V3 등 백신 프로그램 최신버전 유지 및 피싱 사이트 차단 기능 활성화 △사용중인 프로그램(OS/인터넷 브라우저/오피스 SW 등) 최신버전 유지 및 보안 패치 적용 등 기본 보안수칙을 준수해야 한다고 당부했다.",
+				"sentenceSize": 203
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "김성경 안랩 분석팀 연구원은 “사용자가 피싱 사이트에 속아 조직에서 사용 중인 계정정보를 입력할 경우 개인정보 뿐 아니라 조직의 정보까지 탈취될 위험이 있어 각별한 주의가 필요하다”며 “피해 예방을 위해 의심스러운 메일 속 첨부파일이나 URL을 실행하지 않아야 한다”고 말했다.",
+				"sentenceSize": 155
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안랩 \\\"업무 메일로 유포되는 MS 365 계정 탈취 피싱사이트 주의\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

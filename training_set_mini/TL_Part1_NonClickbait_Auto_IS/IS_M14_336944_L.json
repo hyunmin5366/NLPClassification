@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336944",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "치솟는 '비트코인'에 급증한 '사이버 공격'",
+		"newsSubTitle": "",
+		"newsContent": "비트코인 가격이 1200만원을 돌파하는 등 암호화폐가 연일 급등세를 보이자 암호화폐 거래소, 사용자 등을 노린 공격이 위험수준이다.\n북한정부 지원 해커그룹 '라자루스'의 암호화폐 관련 산업 공격이 포착된 가운데 단순 사칭메일부터 피싱사이트, 워터링홀 공격까지 거래소, 사용자를 대상으로 다양한 공격이 시도된다.\n이스트시큐리티 시큐리티대응센터(ESRC)는 최근 북한 정부지원 해킹 그룹으로 알려진 '라자루스' 지능형지속위협(APT)조직이 한글(HWP)취약점 문서 파일을 악용해 암호화폐 관련 산업 공격 행위를 발견했다고 밝혔다.\n공격에 사용한 문서는 '투자계약서_2019619.hwp' 파일명으로 이달 19일 제작된 것으로 파악됐다.\n문서 파일 내부에 공격 서버와 연결된 'C2주소'를 숨겼으며, 취약점 작동 시 C2로 통신을 시도하며 추가 명령을 기다린다.\n해당 문서는 실제 계약서와 비슷하게 꾸몄다. '암호화폐 운영사업에 다음과 같이 투자계약을 체결한다'는 등 암호화폐 거래소를 통한 암호화폐 투자 사업이 주된 내용이다.\n실제 피해기업은 아직 확인되지 않았으나 문서 내용, 공격 정황 등을 고려할 때 거래소 주요 관계자를 노린 것으로 분석된다.\n피싱사이트는 암호화폐 거래소 골칫거리다.\n코인원, 빗썸, 업비트, 고팍스 등 국내 암호화폐 거래소는 한 달 사이 공지사항, 사이트 팝업 등을 통해 피싱사이트, 사칭문자 주의 등을 안내했다.\n피싱사이트는 구글 등 검색엔진을 통해 암호화폐 거래소를 검색한 사용자를 대상으로 접속을 유도한다.\n접속 후 거래소를 혼동해 피싱사이트에 이메일주소, 패스워드, 원타임패스워드(OTP) 인증번호 입력 시 해커는 동시간대 실제 거래소 홈페이지에 접속, 암호화폐 출금 등을 시도한다.\n거래소를 향한 공격과 달리 곧바로 이용자 피해로 이어진다.\n한국인터넷진흥원(KISA)에 피싱사이트 관련 신고도 지속된다.\nKISA 관계자는 \\\"최근 피싱페이지 신고가 이어져 관련 사이트, 통신사와 협조해 차단 조치를 했다\\\"면서 \\\"암호화폐 거래소나 거래이용자를 대상으로 한 공격은 꾸준히 있었으나 최근 가격 상승과 함께 다시 기승을 부린다\\\"고 설명했다.\n비트코인은 13개월 만에 9000달러(1046만원)를 넘어 1만 달러를 돌파했다.\n국내 주요거래소에서도 거래가가 1200만원을 돌파하는 등 지속 상승을 보인다.\n이외 주요 암호화폐도 급락을 지속하는 등 제2 암호화폐 열풍까지 감지된다.\n전문가는 향후 암호화폐 가격이 지속 급등세를 이어 갈 것으로 예상되는 만큼 주요 공격에 대비 하는 등 주의가 필요하다고 지적한다.\n공격 대상이 자주 방문하는 웹사이트에 미리 악성코드를 심어둔 뒤 접속을 기다리는 '워터링홀' 공격, 관계자를 사칭한 스피어피싱, 공급망 공격 등을 해커가 주로 이용한다.\n문종현 이스트시큐리티 이사는 \\\"비트코인 시세 상승과 함께 암호화폐 거래소나 관계자를 노린 공격이 비례적으로 증가할 우려가 있다\\\"면서 \\\"특히 스피어피싱, 워터링홀, 공급망 공격 등에 특별히 주의가 필요하다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "비트코인 가격이 1200만원을 돌파하는 등 암호화폐가 연일 급등세를 보이자 암호화폐 거래소, 사용자 등을 노린 공격이 위험수준이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "북한정부 지원 해커그룹 '라자루스'의 암호화폐 관련 산업 공격이 포착된 가운데 단순 사칭메일부터 피싱사이트, 워터링홀 공격까지 거래소, 사용자를 대상으로 다양한 공격이 시도된다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이스트시큐리티 시큐리티대응센터(ESRC)는 최근 북한 정부지원 해킹 그룹으로 알려진 '라자루스' 지능형지속위협(APT)조직이 한글(HWP)취약점 문서 파일을 악용해 암호화폐 관련 산업 공격 행위를 발견했다고 밝혔다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공격에 사용한 문서는 '투자계약서_2019619.hwp' 파일명으로 이달 19일 제작된 것으로 파악됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "문서 파일 내부에 공격 서버와 연결된 'C2주소'를 숨겼으며, 취약점 작동 시 C2로 통신을 시도하며 추가 명령을 기다린다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 문서는 실제 계약서와 비슷하게 꾸몄다. '암호화폐 운영사업에 다음과 같이 투자계약을 체결한다'는 등 암호화폐 거래소를 통한 암호화폐 투자 사업이 주된 내용이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실제 피해기업은 아직 확인되지 않았으나 문서 내용, 공격 정황 등을 고려할 때 거래소 주요 관계자를 노린 것으로 분석된다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "피싱사이트는 암호화폐 거래소 골칫거리다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "코인원, 빗썸, 업비트, 고팍스 등 국내 암호화폐 거래소는 한 달 사이 공지사항, 사이트 팝업 등을 통해 피싱사이트, 사칭문자 주의 등을 안내했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "피싱사이트는 구글 등 검색엔진을 통해 암호화폐 거래소를 검색한 사용자를 대상으로 접속을 유도한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "접속 후 거래소를 혼동해 피싱사이트에 이메일주소, 패스워드, 원타임패스워드(OTP) 인증번호 입력 시 해커는 동시간대 실제 거래소 홈페이지에 접속, 암호화폐 출금 등을 시도한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "거래소를 향한 공격과 달리 곧바로 이용자 피해로 이어진다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "한국인터넷진흥원(KISA)에 피싱사이트 관련 신고도 지속된다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "KISA 관계자는 \\\"최근 피싱페이지 신고가 이어져 관련 사이트, 통신사와 협조해 차단 조치를 했다\\\"면서 \\\"암호화폐 거래소나 거래이용자를 대상으로 한 공격은 꾸준히 있었으나 최근 가격 상승과 함께 다시 기승을 부린다\\\"고 설명했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "비트코인은 13개월 만에 9000달러(1046만원)를 넘어 1만 달러를 돌파했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "국내 주요거래소에서도 거래가가 1200만원을 돌파하는 등 지속 상승을 보인다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이외 주요 암호화폐도 급락을 지속하는 등 제2 암호화폐 열풍까지 감지된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "전문가는 향후 암호화폐 가격이 지속 급등세를 이어 갈 것으로 예상되는 만큼 주요 공격에 대비 하는 등 주의가 필요하다고 지적한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "공격 대상이 자주 방문하는 웹사이트에 미리 악성코드를 심어둔 뒤 접속을 기다리는 '워터링홀' 공격, 관계자를 사칭한 스피어피싱, 공급망 공격 등을 해커가 주로 이용한다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "문종현 이스트시큐리티 이사는 \\\"비트코인 시세 상승과 함께 암호화폐 거래소나 관계자를 노린 공격이 비례적으로 증가할 우려가 있다\\\"면서 \\\"특히 스피어피싱, 워터링홀, 공급망 공격 등에 특별히 주의가 필요하다\\\"고 말했다.",
+				"sentenceSize": 124
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "치솟는 '비트코인'에 급증한 '사이버 공격'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

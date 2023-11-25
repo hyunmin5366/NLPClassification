@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353096",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "내 음식을 범죄자가 배달 중? 경찰관이 한 돌발행동",
+		"newsSubTitle": "null",
+		"newsContent": "범죄를 저지른 라이더(배달원)를 체포한 뒤 음식배달을 마무리한 경찰관이 온라인상에서 화제가 되고 있다.\n9일 미국 CNN 등 외신에 따르면 사우스다코타의 시우스 폴스 경찰관은 최근 주립대 대학원생 아나스타샤 엘싱어가 주문한 도어대시(Doordash) 배달을 마무리했다.\n이 경찰관은 도로에서 범죄 혐의가 있는 라이더를 체포한 뒤, 배달 중이던 음식을 직접 가져다 준 것이다.\n경관의 호의에 감동한 엘싱어는 이 장면을 숏폼 동영상 플랫폼 틱톡에 올렸다.\n영상에서 폴스 경관은 \\\"당신이 기대했던 사람은 아니\\\"라면서도 \\\"라이더가 몇가지 일로 체포돼, 당신을 위해 도어대시를 마무리 해야겠다고 생각했다\\\"고 말했다.\n해당 영상은 틱톡에서 1100만회 이상 조회되는 등 큰 화제를 모았다.\n엘싱어는 배달앱에서 음식이 도로에 멈춰서 있자 교통체증에 걸린 것으로만 생각했지, 경찰이 직접 음식을 배달할 줄은 몰랐다고 설명했다.\n한편 이번 사건을 계기로 도어대시는 모든 라이더에 대한 신원 조사에 들어갔다.\n체포된 라이더의 범죄 혐의와 관련해서도 경찰에 적극 협조키로 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "범죄를 저지른 라이더(배달원)를 체포한 뒤 음식배달을 마무리한 경찰관이 온라인상에서 화제가 되고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 미국 CNN 등 외신에 따르면 사우스다코타의 시우스 폴스 경찰관은 최근 주립대 대학원생 아나스타샤 엘싱어가 주문한 도어대시(Doordash) 배달을 마무리했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 경찰관은 도로에서 범죄 혐의가 있는 라이더를 체포한 뒤, 배달 중이던 음식을 직접 가져다 준 것이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "경관의 호의에 감동한 엘싱어는 이 장면을 숏폼 동영상 플랫폼 틱톡에 올렸다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영상에서 폴스 경관은 \\\"당신이 기대했던 사람은 아니\\\"라면서도 \\\"라이더가 몇가지 일로 체포돼, 당신을 위해 도어대시를 마무리 해야겠다고 생각했다\\\"고 말했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 영상은 틱톡에서 1100만회 이상 조회되는 등 큰 화제를 모았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "엘싱어는 배달앱에서 음식이 도로에 멈춰서 있자 교통체증에 걸린 것으로만 생각했지, 경찰이 직접 음식을 배달할 줄은 몰랐다고 설명했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 이번 사건을 계기로 도어대시는 모든 라이더에 대한 신원 조사에 들어갔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "체포된 라이더의 범죄 혐의와 관련해서도 경찰에 적극 협조키로 했다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "내 음식을 범죄자가 배달 중? 경찰관이 한 돌발행동",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

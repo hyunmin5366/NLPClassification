@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329381",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "에이치케이넷츠, '페이온' 공과금 간편 납부 서비스 공식 오픈",
+		"newsSubTitle": "",
+		"newsContent": "에이치케이넷츠(대표 최경선)가 '페이온' 공과금 간편 납부 서비스를 공식적으로 시작했다.\n에이치케이넷츠는 전화 주문·예약 시 고객 스마트폰에 문자를 전송하면 URL 터치 즉시 상점명과 주문금액을 확인·결제하는 '페이온 서비스'를 공과금 납부에 확대 적용했다고 밝혔다.\n페이온 공과금 간편 납부서비스는 청구기관이 페이온 서버에 청구내역을 전송하거나 엑셀로 업로드하면 서버에서 각 고객 스마트폰으로 문자를 발송하는 방식이다.\n고객이 문자 URL을 터치하면 바로 청구 내역이 화면에 표시돼 청구기관, 납부항목, 금액 등 정보 확인 직후 온라인 납부할 수 있다.\n고객이 납부한 결과는 페이온 서버가 실시간으로 각 기관 서버에 전송하거나 각 기관 담당자가 언제든지 페이온 서버에 로그인해 검색하고 다운받을 수도 있다.\n고객은 사이트에 로그인할 필요가 없고 납부번호나 계좌번호를 입력할 필요도 없어 편리하고 다양한 수단으로 결제할 수 있다.\n청구서를 잃어버려도 문자를 삭제하지 않는 한 언제든지 청구내역을 확인할 수 있다.\n한번 납부한 건은 다시 문자를 터치하면 결제완료 메시지가 떠 이중 납부할 염려도 없다.\n각 기관도 종이 고지서를 발급할 필요가 없어 고지서 발급·발송에 소요되는 비용을 절감할 수 있다.\n내부적으로 사용하는 납부번호로 납부결과를 확인할 수 있어 가상계좌를 사용할 필요도 없다.\n임종진 에이치케이넷츠 이사는 “페이온 간편 납부 서비스는 재산세 등 세금부터 전기요금, 가스요금, 전화요금, 아파트 관리비 공과금과 학교등록금, 월세 납부에 적용할 수 있다”면서 “향후 서비스를 확산시켜 나갈 계획”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "에이치케이넷츠(대표 최경선)가 '페이온' 공과금 간편 납부 서비스를 공식적으로 시작했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "에이치케이넷츠는 전화 주문·예약 시 고객 스마트폰에 문자를 전송하면 URL 터치 즉시 상점명과 주문금액을 확인·결제하는 '페이온 서비스'를 공과금 납부에 확대 적용했다고 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "페이온 공과금 간편 납부서비스는 청구기관이 페이온 서버에 청구내역을 전송하거나 엑셀로 업로드하면 서버에서 각 고객 스마트폰으로 문자를 발송하는 방식이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고객이 문자 URL을 터치하면 바로 청구 내역이 화면에 표시돼 청구기관, 납부항목, 금액 등 정보 확인 직후 온라인 납부할 수 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고객이 납부한 결과는 페이온 서버가 실시간으로 각 기관 서버에 전송하거나 각 기관 담당자가 언제든지 페이온 서버에 로그인해 검색하고 다운받을 수도 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "고객은 사이트에 로그인할 필요가 없고 납부번호나 계좌번호를 입력할 필요도 없어 편리하고 다양한 수단으로 결제할 수 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "청구서를 잃어버려도 문자를 삭제하지 않는 한 언제든지 청구내역을 확인할 수 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한번 납부한 건은 다시 문자를 터치하면 결제완료 메시지가 떠 이중 납부할 염려도 없다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "각 기관도 종이 고지서를 발급할 필요가 없어 고지서 발급·발송에 소요되는 비용을 절감할 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "내부적으로 사용하는 납부번호로 납부결과를 확인할 수 있어 가상계좌를 사용할 필요도 없다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "임종진 에이치케이넷츠 이사는 “페이온 간편 납부 서비스는 재산세 등 세금부터 전기요금, 가스요금, 전화요금, 아파트 관리비 공과금과 학교등록금, 월세 납부에 적용할 수 있다”면서 “향후 서비스를 확산시켜 나갈 계획”이라고 말했다.",
+				"sentenceSize": 128
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에이치케이넷츠, '페이온' 공과금 간편 납부 서비스 공식 오픈",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

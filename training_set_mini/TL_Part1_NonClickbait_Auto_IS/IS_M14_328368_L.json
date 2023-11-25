@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328368",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "르네사스, 화상처리성능 10배 향상 디바이스 샘플 출하",
+		"newsSubTitle": "",
+		"newsContent": "日 르네사스일렉트로닉스는 영상처리성능을 기존 자사 마이크로프로세서(MPU)보다 10배 향상시킨 하이엔드 e-AI솔루션 디바이스 'RZ/A2M' 샘플출하를 시작했다.\nRZ/A2M은 르네사스 독자 DRP(Dynamically Reconfigurable Processor)를 탑재, 저소비 전력으로 실시간 영상처리가 가능하다.\n스마트가전, 서비스로봇, 소형산업기기 등 임베디드기기에 카메라를 사용한 영상인식과 인공지능(AI)기능을 저소비 전력으로 구현한다.\n모바일기기에 많이 사용되는 MIPI 카메라인터페이스를 지원하고 입력영상을 고속처리하는 DRP를 탑재해 카메라애플리케이션에 최적화됐다.\n2채널 이더넷을 지원해 네트워크 기능 강화와 함께 하드웨어 암호액셀러레이터도 탑재했다.\n양산은 2019년 1분기에 시작하며 2021년까지 월생산량은 40만개가 될 것으로 르네사스는 예상했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "日 르네사스일렉트로닉스는 영상처리성능을 기존 자사 마이크로프로세서(MPU)보다 10배 향상시킨 하이엔드 e-AI솔루션 디바이스 'RZ/A2M' 샘플출하를 시작했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "RZ/A2M은 르네사스 독자 DRP(Dynamically Reconfigurable Processor)를 탑재, 저소비 전력으로 실시간 영상처리가 가능하다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스마트가전, 서비스로봇, 소형산업기기 등 임베디드기기에 카메라를 사용한 영상인식과 인공지능(AI)기능을 저소비 전력으로 구현한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "모바일기기에 많이 사용되는 MIPI 카메라인터페이스를 지원하고 입력영상을 고속처리하는 DRP를 탑재해 카메라애플리케이션에 최적화됐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2채널 이더넷을 지원해 네트워크 기능 강화와 함께 하드웨어 암호액셀러레이터도 탑재했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양산은 2019년 1분기에 시작하며 2021년까지 월생산량은 40만개가 될 것으로 르네사스는 예상했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "르네사스, 화상처리성능 10배 향상 디바이스 샘플 출하",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

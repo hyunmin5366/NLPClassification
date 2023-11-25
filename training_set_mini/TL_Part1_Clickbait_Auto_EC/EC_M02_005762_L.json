@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005762",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "우리은행, 주담대 만기 35→40년으로 확대",
+		"newsSubTitle": "이로써 5대 시중은행 모두 주담대 만기 확대 완료",
+		"newsContent": "우리은행이 주택담보대출의 대출 기간을 기존 35년에서 40년으로 확대한다.\n기준금리 인상으로 이자 부담이 점차 가중되는 것을 고려해, 월 상환금액을 낮춰 차주들의 부담을 보다 완화하겠다는 의도로 해석된다.\n우리은행은 오는 20일부터 주요 주택담보대출 상품의 대출 기간을 기존 35년에서 40년으로 확대한다고 19일 밝혔다.\n대상 상품은 △우리아파트론 △우리부동산론(주택) △집단 입주자금대출이다.\n원(리)금균등분할상환방식을 선택할 경우에 적용받을 수 있다.\n우리은행 관계자는 데일리임팩트에 \\\"금리인상으로 매월 상환해야 하는 금액에 대한 부담이 높아지고 있다는 점에 주목했다\\\"며 \\\"금융소비자들의 매월 원리금 상환 부담을 경감시키기 위해 대출 기간을 늘렸다\\\"라고 설명했다.\n한편, 이번 우리은행의 발표로 국내 5대 시중은행(KB국민‧신한‧하나‧우리‧NH농협) 모두 주담대 최장 만기 기간이 40년으로 확대됐다.\n지난달 말 하나은행을 시작으로 신한은행, NH농협은행, KB국민은행이 차례로 주담대 만기를 40년으로 확대한 바 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리은행이 주택담보대출의 대출 기간을 기존 35년에서 40년으로 확대한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기준금리 인상으로 이자 부담이 점차 가중되는 것을 고려해, 월 상환금액을 낮춰 차주들의 부담을 보다 완화하겠다는 의도로 해석된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우리은행은 오는 20일부터 주요 주택담보대출 상품의 대출 기간을 기존 35년에서 40년으로 확대한다고 19일 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대상 상품은 △우리아파트론 △우리부동산론(주택) △집단 입주자금대출이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "원(리)금균등분할상환방식을 선택할 경우에 적용받을 수 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "우리은행 관계자는 데일리임팩트에 \\\"금리인상으로 매월 상환해야 하는 금액에 대한 부담이 높아지고 있다는 점에 주목했다\\\"며 \\\"금융소비자들의 매월 원리금 상환 부담을 경감시키기 위해 대출 기간을 늘렸다\\\"라고 설명했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 이번 우리은행의 발표로 국내 5대 시중은행(KB국민‧신한‧하나‧우리‧NH농협) 모두 주담대 최장 만기 기간이 40년으로 확대됐다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난달 말 하나은행을 시작으로 신한은행, NH농협은행, KB국민은행이 차례로 주담대 만기를 40년으로 확대한 바 있다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국콜마, 주총 결과 어떨까…제약 사업 부문 양도하나",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

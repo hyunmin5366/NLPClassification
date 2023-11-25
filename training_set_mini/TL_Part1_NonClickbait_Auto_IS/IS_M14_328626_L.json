@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328626",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[특집-통합계정관리]넷앤드 '하이웨어', AI 적용한 통합접근·계정관리 솔루션",
+		"newsSubTitle": "",
+		"newsContent": "넷앤드(대표 신호철) '하이웨어(HIWARE)'는 국내 최초로 인공지능(AI) 기술을 적용한 통합 접근·계정관리 솔루션이다.\n클라우드 환경에서도 기존 레거시 환경과 동일한 수준 보안 관리가 가능하다.\n하이웨어는 게이트웨이 방식 솔루션이다.\n단일 플랫폼과 단일 UI상에서 △시스템 접근통제 △시스템 계정관리 △DB 접근통제 △DB 계정관리 △AD 계정관리 △위협분석 △모바일 OTP까지 제공한다.\n현재 사이버 보안 위협은 단일 솔루션만으로는 막을 수 없는 구조다.\n하이웨어는 사용자별로 접속 및 작업 권한을 차등 부여하고 시스템과 DB에 산재된 계정을 취합, 통합 관리한다.\n인사시스템과 연동해 계정 라이프사이클과 패스워드를 자동 관리한다.\n휴면계정이나 불법계정을 자동 탐지해 관리자에게 통지하고 자동 삭제·잠금 처리해 계정 탈취로 인한 보안 취약점을 제거한다.\n아이디와 패스워드 외에 인증 요소를 추가해 보안성을 강화했다.\n명령어 등 작업을 권한별로 통제해 사용자의 악의적 행위나 실수로 발생하는 보안 사고를 방지할 수 있다.\n사용자 접속과 작업 내역 저장, 감사 보고서 제공 등으로 정보보안 담당자의 최대 고민거리인 컴플라이언스와 감사 대응 문제 역시 해결한다.\n넷앤드는 미국 샌프란시스코 넷앤드 정보기술연구소에서 진행한 AI기술 연구개발 성과를 ID 및 액세스 관리(IAM)솔루션에 적용했다.\n대규모 정보유출 사고는 권한이 있는 내부인 계정으로 이뤄지는 경우가 많다.\n하이웨어는 사용자 사용이력 데이터를 분석해 평소와 다른 이상 패턴이 탐지되면 즉시 관리자에게 알리고 차단하는 위협분석 기능을 제공한다.\n사용자 패턴과 위협 정보는 AI기반 딥러닝 기술을 통해 수시 자동 업데이트된다.\n보안 기술에 실시간 적용하기 때문에 스스로 보안성을 강화하는 차세대 IAM 솔루션이다.\n클라우드 환경에서도 동일한 기능을 제공한다.\n주요 클라우드 벤더사와 API를 연동해 클라우드 환경에서 동적으로 변경 및 할당되는 리소스를 중앙에서 통합 관리한다.\n또 사용자 접속 위치에 따라 접근 및 작업 권한을 별도 부여해 망 분리 환경 보안 수준을 유지하면서 관리 어려움을 해소하고 업무 효율성을 향상시킨다.\nKT, 아마존웹서비스(AWS), 알리바바, 네이버 등에서 클라우드 서비스를 제공하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "넷앤드(대표 신호철) '하이웨어(HIWARE)'는 국내 최초로 인공지능(AI) 기술을 적용한 통합 접근·계정관리 솔루션이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "클라우드 환경에서도 기존 레거시 환경과 동일한 수준 보안 관리가 가능하다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하이웨어는 게이트웨이 방식 솔루션이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "단일 플랫폼과 단일 UI상에서 △시스템 접근통제 △시스템 계정관리 △DB 접근통제 △DB 계정관리 △AD 계정관리 △위협분석 △모바일 OTP까지 제공한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 사이버 보안 위협은 단일 솔루션만으로는 막을 수 없는 구조다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하이웨어는 사용자별로 접속 및 작업 권한을 차등 부여하고 시스템과 DB에 산재된 계정을 취합, 통합 관리한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인사시스템과 연동해 계정 라이프사이클과 패스워드를 자동 관리한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "휴면계정이나 불법계정을 자동 탐지해 관리자에게 통지하고 자동 삭제·잠금 처리해 계정 탈취로 인한 보안 취약점을 제거한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "아이디와 패스워드 외에 인증 요소를 추가해 보안성을 강화했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "명령어 등 작업을 권한별로 통제해 사용자의 악의적 행위나 실수로 발생하는 보안 사고를 방지할 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "사용자 접속과 작업 내역 저장, 감사 보고서 제공 등으로 정보보안 담당자의 최대 고민거리인 컴플라이언스와 감사 대응 문제 역시 해결한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "넷앤드는 미국 샌프란시스코 넷앤드 정보기술연구소에서 진행한 AI기술 연구개발 성과를 ID 및 액세스 관리(IAM)솔루션에 적용했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "대규모 정보유출 사고는 권한이 있는 내부인 계정으로 이뤄지는 경우가 많다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "하이웨어는 사용자 사용이력 데이터를 분석해 평소와 다른 이상 패턴이 탐지되면 즉시 관리자에게 알리고 차단하는 위협분석 기능을 제공한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "사용자 패턴과 위협 정보는 AI기반 딥러닝 기술을 통해 수시 자동 업데이트된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "보안 기술에 실시간 적용하기 때문에 스스로 보안성을 강화하는 차세대 IAM 솔루션이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "클라우드 환경에서도 동일한 기능을 제공한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "주요 클라우드 벤더사와 API를 연동해 클라우드 환경에서 동적으로 변경 및 할당되는 리소스를 중앙에서 통합 관리한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "또 사용자 접속 위치에 따라 접근 및 작업 권한을 별도 부여해 망 분리 환경 보안 수준을 유지하면서 관리 어려움을 해소하고 업무 효율성을 향상시킨다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "KT, 아마존웹서비스(AWS), 알리바바, 네이버 등에서 클라우드 서비스를 제공하고 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[특집-통합계정관리]넷앤드 '하이웨어', AI 적용한 통합접근·계정관리 솔루션",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

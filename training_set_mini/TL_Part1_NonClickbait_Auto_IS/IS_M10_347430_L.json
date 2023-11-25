@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347430",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "범죄집단과 협상한 '인터넷나야나'…韓, 랜섬웨어 텃밭 되나",
+		"newsSubTitle": "null",
+		"newsContent": "랜섬웨어에 감염돼 수천 개 업체에 피해를 입힌 웹호스팅업체 '인터넷나야나'가 결국 해커에 굴복했다.\n보안 당국과 업계는 범죄집단으로 간주하는 해커들에게 돈을 보냈다는 것은 결국 한국시장 공략의 빌미를 준 것이나 마찬가지라며 깊은 우려를 표하고 있다.\n14일 인터넷나야나는 홈페이지를 통해 \\\"고객님들의 이익을 최우선적으로 보호하기 위해 지속적으로 해커와 협상을 진행해 타결했다\\\"며 \\\"13억원 정도의 비용을 지불해 복호화키 값을 받기로 했다\\\"고 공지했다.\n이어 \\\"해커가 제시한 비용은 인수제안을 했던 업체를 통해 지분을 담보로 마련키로 했다\\\"며 \\\"현재 이체한도 증액, 비트코인 환전 등 비용지불을 위한 절차를 진행하고 있으며 키를 받는대로 각 서버별 상세한 복원 일정에 대해 공지하겠다\\\"고 밝혔다.\n해커들은 13억원을 일시불로 지급하라고 요구했지만 인터넷나야나 측에서 분할 방식의 송금을 요구하고 있는 상황이다.\n해커들은 일정 비용을 송금 받을 때마다 복구할 수 있는 키를 제공키로 약조했다고 업체 관계자는 전했다.\n인터넷나야나는 지난 10일 랜섬웨어에 감염되면서 고객사로 있는 국내 웹사이트 5000여 곳이 마비되는 대란을 일으켰다.\n원본 파일을 저장하는 서버와 백업 서버까지 모두 암호화되면서 데이터 복구가 사실상 어려운 상황이었다.\n해커집단은 사태 초반 데이터를 복구할 수 있는 복호화 키를 주는 대가로 50억원을 요구했다가 최종 13억원까지 복구 비용을 낮췄다.\n인터넷나야나는 이 비용을 마련하기 위해 회사 매각을 검토했다가 업계에서 비용을 조달하면서 매각은 모면했다.\n고객들은 인터넷나야나 측의 협상 결정에 안도의 숨을 내쉬었지만 함께 복구작업을 하고 있던 경찰청 사이버수사대와 한국인터넷진흥원(KISA), 미래창조과학부 등은 우려를 넘어 혼란스러운 입장이다.\n일단, 인터넷나야나 측의 아마추어적인 태도가 최악의 선례를 남기게 됐다는 점을 우려한다.\n보안업계 관계자는 \\\"한국 업체는 협박에 못 이겨 결국 10억원에 달하는 돈을 보내줬다는 것이 전 세계 해커들에게 전파될 것\\\"이라며 \\\"이들은 불법으로 받은 자금을 더 진화된 해킹 방식 개발에 탕진할 것\\\"이라고 지적했다.\n사고 경위를 파악하기 위해 함께 머리를 맞대던 경찰이나 당국 역시 당황스러운 입장이다.\n인터넷나야나는 해커와 협상 후 KISA에 관련 공문을 보내 협상 사실을 알렸다.\n공문에는 송금 액수나 데이터 복구 방식, 시점 등에 대한 언급은 없었던 반면, 당국의 기술 지원 요청 요구 대목이 있었던 것으로 알려졌다.\n해커와 협상하며 쓰인 정보들이 사실상 경찰의 수사 정보로 활용할 수 있다는 점도 간과해버린 인터넷나야나 측의 협상 태도도 도마에 오르고 있다.\n해커들이 돈을 받고도 해커와의 협상 및 데이터 복구에 실패하는 사례가 적지 않다는 점 역시 우려점이다.\n특히 이번 사안의 경우 해커들이 인터넷나야나 시스템의 전체적인 구조를 파악하고 저질렀을 가능성이 높아 이들이 돈을 받고도 어떤 속임수를 부릴지 모르는 상황. 실제 해커가 약속을 지킨다고 하더라도 데이터 복구에는 2주 이상이 걸린다.\n당국 관계자는 \\\"해커와 협상하는 것 자체를 막을 수 있는 권한이 미래부나 KISA에는 없지만 도의적으로 범죄자와의 협상은 옳지 않다\\\"고 지적했다.\n인터넷나야나측의 해커 협상과는 별도로 KISA는 사고 경위 분석을, 사이버수사대는 범죄자 파악 작업을 각각 이어갈 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "랜섬웨어에 감염돼 수천 개 업체에 피해를 입힌 웹호스팅업체 '인터넷나야나'가 결국 해커에 굴복했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "보안 당국과 업계는 범죄집단으로 간주하는 해커들에게 돈을 보냈다는 것은 결국 한국시장 공략의 빌미를 준 것이나 마찬가지라며 깊은 우려를 표하고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "14일 인터넷나야나는 홈페이지를 통해 \\\"고객님들의 이익을 최우선적으로 보호하기 위해 지속적으로 해커와 협상을 진행해 타결했다\\\"며 \\\"13억원 정도의 비용을 지불해 복호화키 값을 받기로 했다\\\"고 공지했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"해커가 제시한 비용은 인수제안을 했던 업체를 통해 지분을 담보로 마련키로 했다\\\"며 \\\"현재 이체한도 증액, 비트코인 환전 등 비용지불을 위한 절차를 진행하고 있으며 키를 받는대로 각 서버별 상세한 복원 일정에 대해 공지하겠다\\\"고 밝혔다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해커들은 13억원을 일시불로 지급하라고 요구했지만 인터넷나야나 측에서 분할 방식의 송금을 요구하고 있는 상황이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해커들은 일정 비용을 송금 받을 때마다 복구할 수 있는 키를 제공키로 약조했다고 업체 관계자는 전했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인터넷나야나는 지난 10일 랜섬웨어에 감염되면서 고객사로 있는 국내 웹사이트 5000여 곳이 마비되는 대란을 일으켰다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "원본 파일을 저장하는 서버와 백업 서버까지 모두 암호화되면서 데이터 복구가 사실상 어려운 상황이었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해커집단은 사태 초반 데이터를 복구할 수 있는 복호화 키를 주는 대가로 50억원을 요구했다가 최종 13억원까지 복구 비용을 낮췄다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "인터넷나야나는 이 비용을 마련하기 위해 회사 매각을 검토했다가 업계에서 비용을 조달하면서 매각은 모면했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "고객들은 인터넷나야나 측의 협상 결정에 안도의 숨을 내쉬었지만 함께 복구작업을 하고 있던 경찰청 사이버수사대와 한국인터넷진흥원(KISA), 미래창조과학부 등은 우려를 넘어 혼란스러운 입장이다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "일단, 인터넷나야나 측의 아마추어적인 태도가 최악의 선례를 남기게 됐다는 점을 우려한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "보안업계 관계자는 \\\"한국 업체는 협박에 못 이겨 결국 10억원에 달하는 돈을 보내줬다는 것이 전 세계 해커들에게 전파될 것\\\"이라며 \\\"이들은 불법으로 받은 자금을 더 진화된 해킹 방식 개발에 탕진할 것\\\"이라고 지적했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "사고 경위를 파악하기 위해 함께 머리를 맞대던 경찰이나 당국 역시 당황스러운 입장이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "인터넷나야나는 해커와 협상 후 KISA에 관련 공문을 보내 협상 사실을 알렸다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "공문에는 송금 액수나 데이터 복구 방식, 시점 등에 대한 언급은 없었던 반면, 당국의 기술 지원 요청 요구 대목이 있었던 것으로 알려졌다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "해커와 협상하며 쓰인 정보들이 사실상 경찰의 수사 정보로 활용할 수 있다는 점도 간과해버린 인터넷나야나 측의 협상 태도도 도마에 오르고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "해커들이 돈을 받고도 해커와의 협상 및 데이터 복구에 실패하는 사례가 적지 않다는 점 역시 우려점이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "특히 이번 사안의 경우 해커들이 인터넷나야나 시스템의 전체적인 구조를 파악하고 저질렀을 가능성이 높아 이들이 돈을 받고도 어떤 속임수를 부릴지 모르는 상황. 실제 해커가 약속을 지킨다고 하더라도 데이터 복구에는 2주 이상이 걸린다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "당국 관계자는 \\\"해커와 협상하는 것 자체를 막을 수 있는 권한이 미래부나 KISA에는 없지만 도의적으로 범죄자와의 협상은 옳지 않다\\\"고 지적했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "인터넷나야나측의 해커 협상과는 별도로 KISA는 사고 경위 분석을, 사이버수사대는 범죄자 파악 작업을 각각 이어갈 방침이다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "범죄집단과 협상한 '인터넷나야나'…韓, 랜섬웨어 텃밭 되나",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

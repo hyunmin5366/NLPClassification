@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012408",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전지역 기업 자금사정 하락…제조·비제조 3p↓",
+		"newsSubTitle": "충남은 소폭 상승",
+		"newsContent": "대전·충남지역 기업의 자금사정이 여전히 기준치를 밑돌았다.\n30일 한국은행 대전충남본부가 대전·충남지역 625개 업체를 대상으로 '2013년 12월 동향 및 2014년 1월 전망'을 조사한 결과 12월 제조업 자금사정BSI는 94로 전월 1p, 비제조업이 85로 전월보다 1p 각각 상승했다.\nBSI가 기준치인 100 이상인 경우이면 긍정 응답업체수가 부정 응답업체 수보다 많음을 의미하며, 100 이하인 경우에는 그 반대임를 나타낸다.\n대전지역 자금사정BSI는 제조업이 92, 비제조업은 88로 전월대비 각각 3p 하락했다.\n충남지역 자금사정BSI는 제조업이 94으로 전월보다 1p,비제조업은 82로 전월대비 1p 각각 상승했다.\n2014년 1월 제조업 자금사정전망BSI 90으로 전월보다 5p, 비제조업은 85로 전월보다 5p 각각 하락했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전·충남지역 기업의 자금사정이 여전히 기준치를 밑돌았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 한국은행 대전충남본부가 대전·충남지역 625개 업체를 대상으로 '2013년 12월 동향 및 2014년 1월 전망'을 조사한 결과 12월 제조업 자금사정BSI는 94로 전월 1p, 비제조업이 85로 전월보다 1p 각각 상승했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "BSI가 기준치인 100 이상인 경우이면 긍정 응답업체수가 부정 응답업체 수보다 많음을 의미하며, 100 이하인 경우에는 그 반대임를 나타낸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대전지역 자금사정BSI는 제조업이 92, 비제조업은 88로 전월대비 각각 3p 하락했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "충남지역 자금사정BSI는 제조업이 94으로 전월보다 1p,비제조업은 82로 전월대비 1p 각각 상승했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2014년 1월 제조업 자금사정전망BSI 90으로 전월보다 5p, 비제조업은 85로 전월보다 5p 각각 하락했다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "충남도농기원, '탑프루트 평가'서 최고품질 과일 수상 '쾌거'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

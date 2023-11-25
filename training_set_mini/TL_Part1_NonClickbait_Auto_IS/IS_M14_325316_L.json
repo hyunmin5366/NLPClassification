@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325316",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "애플 아이폰11 시리즈, 25일 국내 출시 확정",
+		"newsSubTitle": "",
+		"newsContent": "애플이 25일 아이폰11과 아이폰11 프로·프로 맥스, 애플워치 시리즈5를 국내 출시한다.\n애플 홈페이지와 앱스토어 앱, 애플 가로수길, 애플 공인 리셀러와 지정된 통신사에서 구매 가능하다.\n애플코리아는 15일 홈페이지에 아이폰11 시리즈 국내 출시 일정을 25일로 확정 공지했다.\nSK텔레콤과 KT, LG유플러스 등 이통사는 18일부터 예약판매에 돌입할 것으로 알려졌다.\n기본 모델인 아이폰11 국내 출고가는 64GB 모델 99만원부터다. 128GB는 106만원, 256GB는 120만원이다.\n색상은 화이트, 블랙, 그린, 옐로, 퍼플, 레드 중 선택 가능하다.\n5.8형 디스플레이와 후면 트리플 카메라를 탑재한 아이폰11 프로는 139만원(64GB)부터다. 256GB는 160만원, 512GB는 187만원이다.\n스페이스 그레이, 실버, 미드나이트 그린, 골드 색상을 선택할 수 있다.\n가장 크고 비싼 아이폰11 프로맥스(6.5형 디스플레이)는 64GB 모델이 155만원이다.\n256GB는 176만원, 512GB는 203만원이다.\n같은 날 출시되는 애플워치 시리즈5는 전작인 애플워치4와 디자인과 크기, 주요 기능에 큰 변화가 없다.\n화면을 보지 않을 때도 시계가 표시되는 '올웨이즈온 디스플레이(AOD)'가 적용됐다.\n애플워치 시리즈5 GPS 모델은 53만9000원부터, 셀룰러 모델은 65만9000원부터다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 25일 아이폰11과 아이폰11 프로·프로 맥스, 애플워치 시리즈5를 국내 출시한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애플 홈페이지와 앱스토어 앱, 애플 가로수길, 애플 공인 리셀러와 지정된 통신사에서 구매 가능하다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "애플코리아는 15일 홈페이지에 아이폰11 시리즈 국내 출시 일정을 25일로 확정 공지했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SK텔레콤과 KT, LG유플러스 등 이통사는 18일부터 예약판매에 돌입할 것으로 알려졌다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기본 모델인 아이폰11 국내 출고가는 64GB 모델 99만원부터다. 128GB는 106만원, 256GB는 120만원이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "색상은 화이트, 블랙, 그린, 옐로, 퍼플, 레드 중 선택 가능하다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "5.8형 디스플레이와 후면 트리플 카메라를 탑재한 아이폰11 프로는 139만원(64GB)부터다. 256GB는 160만원, 512GB는 187만원이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스페이스 그레이, 실버, 미드나이트 그린, 골드 색상을 선택할 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "가장 크고 비싼 아이폰11 프로맥스(6.5형 디스플레이)는 64GB 모델이 155만원이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "256GB는 176만원, 512GB는 203만원이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "같은 날 출시되는 애플워치 시리즈5는 전작인 애플워치4와 디자인과 크기, 주요 기능에 큰 변화가 없다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "화면을 보지 않을 때도 시계가 표시되는 '올웨이즈온 디스플레이(AOD)'가 적용됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "애플워치 시리즈5 GPS 모델은 53만9000원부터, 셀룰러 모델은 65만9000원부터다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플 아이폰11 시리즈, 25일 국내 출시 확정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

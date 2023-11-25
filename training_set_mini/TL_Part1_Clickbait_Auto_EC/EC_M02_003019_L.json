@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003019",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "\\\"경기 불확실성 여파\\\"…한은, 기준금리 0.50%로 동결",
+		"newsSubTitle": "지난해 5월 인하 후 9개월째 동결 경기침체로 인한 불확실성 여파",
+		"newsContent": "한국은행은 25일 금융통화위원회(이하 금통위)를 열고 2월 기준금리를 현행 연 0.50% 수준으로 동결했다.\n그동안 금통위는 신종 코로나바이러스 감염증(이하 코로나19)의 확산으로 경기침체가 본격화된 지난해 3월과 5월 각각 0.5%p(1.25%→0.75%), 0.25%p(0.75%→0.5%) 금리를 인하한 후 금리를 동결해왔다.\n이번 동결 역시, 코로나19의 재유행에 따른 실물경제의 불확실성을 고려한 결정으로 해석된다.\n이주열 한은 총재 역시 최근 국회 기획재정위원회에 참석해 \\\"수출 호조 등으로 완만한 회복세를 보이고 있지만, 소비 및 고용 둔화 등 불확실성은 여전히 높은 상황\\\"이라고 밝힌 바 있다.\n전문가들은 가계부채와 과잉 유동성 문제가 여전한 상황에서 한은의 기준금리 동결 기조는 당분간 유지될 것으로 관측하고 있다.\n김지만 삼성증권 연구원은 미디어SR에 \\\"고용과 물가, 마이너스 국내총생산(GDP) 등을 감안하면 한은의 기준금리 동결 기조는 상당기간 지속될 것\\\"이라고 내다봤다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국은행은 25일 금융통화위원회(이하 금통위)를 열고 2월 기준금리를 현행 연 0.50% 수준으로 동결했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그동안 금통위는 신종 코로나바이러스 감염증(이하 코로나19)의 확산으로 경기침체가 본격화된 지난해 3월과 5월 각각 0.5%p(1.25%→0.75%), 0.25%p(0.75%→0.5%) 금리를 인하한 후 금리를 동결해왔다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 동결 역시, 코로나19의 재유행에 따른 실물경제의 불확실성을 고려한 결정으로 해석된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이주열 한은 총재 역시 최근 국회 기획재정위원회에 참석해 \\\"수출 호조 등으로 완만한 회복세를 보이고 있지만, 소비 및 고용 둔화 등 불확실성은 여전히 높은 상황\\\"이라고 밝힌 바 있다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전문가들은 가계부채와 과잉 유동성 문제가 여전한 상황에서 한은의 기준금리 동결 기조는 당분간 유지될 것으로 관측하고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김지만 삼성증권 연구원은 미디어SR에 \\\"고용과 물가, 마이너스 국내총생산(GDP) 등을 감안하면 한은의 기준금리 동결 기조는 상당기간 지속될 것\\\"이라고 내다봤다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"매출 늘었냐고요? 글쎄요\\\"…동네 슈퍼도 '개성' 필요한 시대",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

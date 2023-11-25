@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331471",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "'스마트폰, 바이러스 감염' 가짜 메시지에 낚일라",
+		"newsSubTitle": "",
+		"newsContent": "\\\"경고! 당신 스마트폰이 바이러스에 감염돼 즉각 조치가 필요합니다.\\\" 안랩(대표 권치중)은 악성코드 감염 메시지로 위장해 불필요한 앱 설치를 유도하는 사례를 발견했다.\n스마트폰에 악성코드 감염 메시지를 띄우고 경고음까지 울린다.\n메시지가 나타나면 '뒤로가기' 버튼을 눌러도 경고창이 사라지지 않는다.\n가짜 바이러스 감염 메시지에는 스마트폰을 그대로 두면 심(SIM) 카드와 데이터, 사진 연락처가 훼손된다고 위협한다. '배터리까지 손상시키는 바이러스에 감염됐다' '스마트폰 메모리 100%가 손상됐으니 지금 치료하지 않으면 감염이 계속돼 심각한 손상 원인이 된다'는 메시지가 나와 사용자를 당황하게 만든다.\n뒤로가기 버튼을 계속 눌러도 벗어날 수 없다.\n오히려 '시스템 경고'라는 창이 나타난다.\n사용자 스마트폰 기종을 정확히 언급하는 치밀함을 보였다.\n이후 바이러스 제거법을 안내하며 특정 앱 설치를 유도한다.\n경고 화면에 나온 '바이러스 제거하세요' 버튼을 누르면 악성코드와 관계없는 앱을 설치한다.\n안랩은 앱 설치를 유도하는 허위 메시지는 최근 사용자 스마트폰 운용체계(OS)와 브라우저 정보를 수집해 진짜 악성코드에 감염된 걸로 믿게 만든다고 설명했다.\n이런 메시지는 주로 다운로드나 성인콘텐츠 사이트, P2P 검색을 이용했을 때 나타난다.\n허위 경고 메시지로 설치되는 앱은 중국 등 해외에서 제작됐다.\n해당 앱은 'Pay per Installer(PPI)'라고 불리는 제휴 프로그램이다.\n앱 설치로 금전 이익을 얻는다.\n해당 앱은 설치를 위해 정상 구글 플레이스토어 페이지로 연결된다.\n안랩은 \\\"허위 메시지로 불필요한 앱을 설치해 사용자에게 불편을 초래하지만 정보 유출 등 직접 피해는 주지 않는다\\\"면서 \\\"앱을 부적절한 방법으로 설치하게 유도하는 것만으로 악성 앱으로 간주해 차단하기 어렵다\\\"고 설명했다.\n극단적 과장 광고이지만 설치되는 앱이 악성이 아닌 경우가 많아 논란의 소지가 있다.\n안랩은 \\\"가짜 경고 메시지가 나타나면 모바일 백신을 이용해 바이러스 감염 여부를 확인하라\\\"면서 \\\"불필요한 앱(Potentially Unwanted App)을 확인해 제거하면 된다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "\\\"경고! 당신 스마트폰이 바이러스에 감염돼 즉각 조치가 필요합니다.\\\" 안랩(대표 권치중)은 악성코드 감염 메시지로 위장해 불필요한 앱 설치를 유도하는 사례를 발견했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스마트폰에 악성코드 감염 메시지를 띄우고 경고음까지 울린다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "메시지가 나타나면 '뒤로가기' 버튼을 눌러도 경고창이 사라지지 않는다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가짜 바이러스 감염 메시지에는 스마트폰을 그대로 두면 심(SIM) 카드와 데이터, 사진 연락처가 훼손된다고 위협한다. '배터리까지 손상시키는 바이러스에 감염됐다' '스마트폰 메모리 100%가 손상됐으니 지금 치료하지 않으면 감염이 계속돼 심각한 손상 원인이 된다'는 메시지가 나와 사용자를 당황하게 만든다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뒤로가기 버튼을 계속 눌러도 벗어날 수 없다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오히려 '시스템 경고'라는 창이 나타난다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사용자 스마트폰 기종을 정확히 언급하는 치밀함을 보였다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 바이러스 제거법을 안내하며 특정 앱 설치를 유도한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "경고 화면에 나온 '바이러스 제거하세요' 버튼을 누르면 악성코드와 관계없는 앱을 설치한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "안랩은 앱 설치를 유도하는 허위 메시지는 최근 사용자 스마트폰 운용체계(OS)와 브라우저 정보를 수집해 진짜 악성코드에 감염된 걸로 믿게 만든다고 설명했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이런 메시지는 주로 다운로드나 성인콘텐츠 사이트, P2P 검색을 이용했을 때 나타난다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "허위 경고 메시지로 설치되는 앱은 중국 등 해외에서 제작됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "해당 앱은 'Pay per Installer(PPI)'라고 불리는 제휴 프로그램이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "앱 설치로 금전 이익을 얻는다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "해당 앱은 설치를 위해 정상 구글 플레이스토어 페이지로 연결된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "안랩은 \\\"허위 메시지로 불필요한 앱을 설치해 사용자에게 불편을 초래하지만 정보 유출 등 직접 피해는 주지 않는다\\\"면서 \\\"앱을 부적절한 방법으로 설치하게 유도하는 것만으로 악성 앱으로 간주해 차단하기 어렵다\\\"고 설명했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "극단적 과장 광고이지만 설치되는 앱이 악성이 아닌 경우가 많아 논란의 소지가 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "안랩은 \\\"가짜 경고 메시지가 나타나면 모바일 백신을 이용해 바이러스 감염 여부를 확인하라\\\"면서 \\\"불필요한 앱(Potentially Unwanted App)을 확인해 제거하면 된다\\\"고 밝혔다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'스마트폰, 바이러스 감염' 가짜 메시지에 낚일라",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_001176",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "검찰, 타다 기소 이어 파파도 수사한다",
+		"newsSubTitle": "",
+		"newsContent": "검찰이 타다를 기소한 데 이어, 타다와 유사한 렌터카 기반 차량 호출 서비스 '파파'에 대해서도 수사에 나섰다.\n5일 법조계에 따르면, 서울중앙지검 형사5부(부장검사 김태훈)는 파파 서비스 운영사 큐브카 김보섭 대표에 대한 고발 사건을 서울 강남경찰서로 보내 조사하도록 했다.\n서울개인택시조합원으로 구성된 서울개인택시평의회는 지난 8월 큐브카를 형사 고발한 바 있다.\n파파는 현재 서울 전 지역과 경기 일부에서 운행하고 있으며, 80여 대를 운영하는 것으로 알려졌다.\n타다와 파파는 11인승~15인승 승합차에는 운전자 알선이 가능하다는 여객자동차운수사업법 시행령 예외조항을 활용한 서비스다.\n택시업계는 해당 예외조항은 관광활성화를 위한 것으로 입법 취지에 어긋나 불법이라고 주장하고 있다.\n이에 검찰은 지난 28일 쏘카 이재웅 대표, 타다 운영사 VCNC 박재욱 대표를 자동차대여사업자로서 법률상 허용되지 않는 유상여객운송을 한 혐의로 불구속 기소했다.\n서울개인택시조합 관계자는 미디어SR에 \\\"조합원 일부가 파파에 고발장을 접수한 것으로, 이미 조합원 조사는 마친 상태다. 파파 또한 타다와 유사한 서비스이므로 허용해서는 안 된다고 본다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "검찰이 타다를 기소한 데 이어, 타다와 유사한 렌터카 기반 차량 호출 서비스 '파파'에 대해서도 수사에 나섰다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 법조계에 따르면, 서울중앙지검 형사5부(부장검사 김태훈)는 파파 서비스 운영사 큐브카 김보섭 대표에 대한 고발 사건을 서울 강남경찰서로 보내 조사하도록 했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서울개인택시조합원으로 구성된 서울개인택시평의회는 지난 8월 큐브카를 형사 고발한 바 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파파는 현재 서울 전 지역과 경기 일부에서 운행하고 있으며, 80여 대를 운영하는 것으로 알려졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타다와 파파는 11인승~15인승 승합차에는 운전자 알선이 가능하다는 여객자동차운수사업법 시행령 예외조항을 활용한 서비스다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "택시업계는 해당 예외조항은 관광활성화를 위한 것으로 입법 취지에 어긋나 불법이라고 주장하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 검찰은 지난 28일 쏘카 이재웅 대표, 타다 운영사 VCNC 박재욱 대표를 자동차대여사업자로서 법률상 허용되지 않는 유상여객운송을 한 혐의로 불구속 기소했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서울개인택시조합 관계자는 미디어SR에 \\\"조합원 일부가 파파에 고발장을 접수한 것으로, 이미 조합원 조사는 마친 상태다. 파파 또한 타다와 유사한 서비스이므로 허용해서는 안 된다고 본다\\\"고 말했다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우체국 ATM 이용수수료 '0원'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

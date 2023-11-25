@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332303",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "타다 1심 무죄, 밝게 웃는 이재웅 쏘카 대표",
+		"newsSubTitle": "",
+		"newsContent": "여객자동차 운수사업법 위반 혐의로 기소된 쏘카 이재웅 대표와 자회사 VCNC의 박재욱 대표 선고공판이 19일 서울 서초구 서울중앙지법에서 열렸다.\n1심에서 무죄를 선고받은 이 대표(왼쪽)가 취재진의 질문을 받으며 밝은 표정을 짓고 있다.\n이재웅 쏘카 대표가 법원을 나서며 취재진의 질문을 받고 있다.\n이재웅 쏘카 대표와 박재욱 VCNC 대표가 법원을 나서고 있다.\n박재욱 VCNC 대표가 취재진의 질문에 답하고 있다.\n1심에서 무죄를 선고받은 이재웅 쏘카 대표가 밝은 표정으로 차량에 탑승하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "여객자동차 운수사업법 위반 혐의로 기소된 쏘카 이재웅 대표와 자회사 VCNC의 박재욱 대표 선고공판이 19일 서울 서초구 서울중앙지법에서 열렸다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1심에서 무죄를 선고받은 이 대표(왼쪽)가 취재진의 질문을 받으며 밝은 표정을 짓고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이재웅 쏘카 대표가 법원을 나서며 취재진의 질문을 받고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이재웅 쏘카 대표와 박재욱 VCNC 대표가 법원을 나서고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박재욱 VCNC 대표가 취재진의 질문에 답하고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "1심에서 무죄를 선고받은 이재웅 쏘카 대표가 밝은 표정으로 차량에 탑승하고 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "타다 1심 무죄, 밝게 웃는 이재웅 쏘카 대표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

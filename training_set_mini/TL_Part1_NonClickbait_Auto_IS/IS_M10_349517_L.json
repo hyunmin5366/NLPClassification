@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349517",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "쿠팡이츠, 파트너앱 서버 다운…배달 주문 1시간 넘게 지연",
+		"newsSubTitle": "null",
+		"newsContent": "쿠팡이츠가 서비스 오류로 배달 주문이 중단됐다.\n9일 쿠팡이츠에 따르면 쿠팡이츠 배달 파트너앱은 오후 6시쯤 이후부터 서버가 다운된 상태다.\n쿠팡이츠는 \\\"시스템 오류로 주문이 원활하지 않을 수 있다\\\"며 \\\"빠른 복구를 위해 최선을 다하겠다\\\"고 공지했다.\n이날 오류가 저녁 식사시간 발생함에 따라 주문을 하고도 음식을 못 받는 사태가 속출하고 있다.\n소비자의 주문은 식당에 들어가는데, 라이더앱 오류로 콜을 못받는 상황이다.\n소비자들은 한시간 넘게 주문한 음식을 받아보지 못하는 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "쿠팡이츠가 서비스 오류로 배달 주문이 중단됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 쿠팡이츠에 따르면 쿠팡이츠 배달 파트너앱은 오후 6시쯤 이후부터 서버가 다운된 상태다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "쿠팡이츠는 \\\"시스템 오류로 주문이 원활하지 않을 수 있다\\\"며 \\\"빠른 복구를 위해 최선을 다하겠다\\\"고 공지했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 오류가 저녁 식사시간 발생함에 따라 주문을 하고도 음식을 못 받는 사태가 속출하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소비자의 주문은 식당에 들어가는데, 라이더앱 오류로 콜을 못받는 상황이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소비자들은 한시간 넘게 주문한 음식을 받아보지 못하는 것으로 알려졌다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쿠팡이츠, 파트너앱 서버 다운…배달 주문 1시간 넘게 지연",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

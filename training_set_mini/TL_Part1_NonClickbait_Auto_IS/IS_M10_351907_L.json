@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351907",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "\\\"지니야, 생수 떨어졌다\\\"…말 한마디로 삼다수 주문한다",
+		"newsSubTitle": "null",
+		"newsContent": "KT가 인공지능 TV '기가지니'를 활용해 집에서 간편하게 생수를 주문할 수 있는 '생수 간편주문 서비스'를 출시했다고 21일 밝혔다.\n생수 간편주문 서비스는 KT 기가지니로 제주삼다수를 주문할 수 있는 AI(인공지능) 쇼핑 서비스다.\n\\\"지니야, 삼다수 주문해줘\\\"라고 말하면 서비스가 실행된다.\n\\\"담아줘\\\", \\\"구매해줘\\\", \\\"결제해줘\\\" 세 단계 음성명령으로 생수를 집으로 주문할 수 있다.\n기가지니에서 배송지 정보를 자동으로 가져오기 때문에 간편한 주문이 가능하며, 재구매는 기존 구매 이력이 남아 더 편리하게 주문할 수 있다.\nKT의 개인화 AI 기술로 고객의 생수 소비패턴을 예측해 구매시점을 미리 음성으로 알려주는 기능도 연내 제공할 예정이다.\n출시를 기념해 제주삼다수 할인행사도 진행한다.\n이날부터 11월 30일까지 기가지니에서 제주삼다수를 특별 할인가에 구매할 수 있다.\n최준기 KT AI/빅데이터 사업본부장(상무)는 \\\"앞으로도 기가지니의 음성인식과 개인화 AI 기술로 고객이 보다 편리하게 상품을 주문하고 배송 받을 수 있도록 하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 인공지능 TV '기가지니'를 활용해 집에서 간편하게 생수를 주문할 수 있는 '생수 간편주문 서비스'를 출시했다고 21일 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "생수 간편주문 서비스는 KT 기가지니로 제주삼다수를 주문할 수 있는 AI(인공지능) 쇼핑 서비스다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "\\\"지니야, 삼다수 주문해줘\\\"라고 말하면 서비스가 실행된다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "\\\"담아줘\\\", \\\"구매해줘\\\", \\\"결제해줘\\\" 세 단계 음성명령으로 생수를 집으로 주문할 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기가지니에서 배송지 정보를 자동으로 가져오기 때문에 간편한 주문이 가능하며, 재구매는 기존 구매 이력이 남아 더 편리하게 주문할 수 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT의 개인화 AI 기술로 고객의 생수 소비패턴을 예측해 구매시점을 미리 음성으로 알려주는 기능도 연내 제공할 예정이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "출시를 기념해 제주삼다수 할인행사도 진행한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이날부터 11월 30일까지 기가지니에서 제주삼다수를 특별 할인가에 구매할 수 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최준기 KT AI/빅데이터 사업본부장(상무)는 \\\"앞으로도 기가지니의 음성인식과 개인화 AI 기술로 고객이 보다 편리하게 상품을 주문하고 배송 받을 수 있도록 하겠다\\\"고 말했다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"지니야, 생수 떨어졌다\\\"…말 한마디로 삼다수 주문한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

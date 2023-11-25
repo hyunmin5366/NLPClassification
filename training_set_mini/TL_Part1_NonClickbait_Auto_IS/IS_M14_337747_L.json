@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337747",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "올 1분기 우리나라 겨냥 디도스 공격 급증...중국 이어 2위 차지",
+		"newsSubTitle": "",
+		"newsContent": "올해 1분기 세계 분산서비스거부디도스(디도스∙DDoS) 공격 4개 중 1개는 우리나라를 겨냥했다.\n우리나라는 디도스 공격 대상 순위에서 중국에 이어 2위를 차지했다.\n올 1분기에는 윈도 기반 봇넷 공격 비중이 크게 늘었다.\n카스퍼스키랩은 17일 '2017년 1분기 카스퍼스키랩 DDoS 공격 보고서'를 발간하고, 우리나라가 디도스 공격 대상 국가 2위를 기록했다고 밝혔다.\n우리나라를 겨냥한 디도스 공격은 올 1분기 특히 급증했다.\n지난해 4분기 우리나라는 세계 전체 디도스 공격 중 9.42%를 차지했다.\n올 1분기에는 세계 전체 디도스 공격 중 26.57%를 기록해 큰 폭 증가세를 보였다.\n우리나라에서 탐지된 명령제어(C&C) 서버는 세계 1위를 기록했다.\n미국(2위), 네덜란드(3위)가 뒤를 이었다.\n카스퍼스키랩이 모니터링을 시작한 이래로 3위 아래로 떨어진 적이 없던 중국은 7위로 하락했다.\n디도스 공격은 올 1분기 공격 양상이 변했다.\n윈도 기반 봇넷 비중이 지난해 4분기 25%에서올 1분기 60%로 껑충 뛰었다.\n지난해 4분기에는 리눅스 기반 사물인터넷(IoT) 봇넷이 성행한 것과 다른 양상이다.\n전송제어규약(TCP)∙사용자데이터그램프로토콜(UDP)∙인터넷콘트롤메시지프로트콜(ICMP) 공격 횟수 또한 증가했다.\n증폭 유형 공격은 한 차례도 관찰되지 않았지만 암호화 기반 공격은 늘었다.\n디도스 공격 양상이 식별이 어렵게 바뀐 셈이다.\n전반적으로 이번 분기는 비교적 잠잠했다.\n공격이 가장 많이 관찰된 날은 2월 18일(994회)이었다.\n올 1분기 최장기 디도스 공격은 120시간 동안 이어졌다.\n이는 지난해 4분기 292시간 절반에도 미치지 못한다.\n이창훈 카스퍼스키랩코리아 지사장은 \\\"연초는 대개 디도스 공격 횟수가 눈에 띄게 줄어드는데, 이는 사이버 범죄자가 잠시 휴식 기간을 갖고 있기 때문\\\"이라면서도 \\\"지금은 방어태세를 늦출 것이 아니라 오히려 사이버 범죄자가 활동을 재개하기 전에 보안을 재정비해야 할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 1분기 세계 분산서비스거부디도스(디도스∙DDoS) 공격 4개 중 1개는 우리나라를 겨냥했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우리나라는 디도스 공격 대상 순위에서 중국에 이어 2위를 차지했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올 1분기에는 윈도 기반 봇넷 공격 비중이 크게 늘었다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "카스퍼스키랩은 17일 '2017년 1분기 카스퍼스키랩 DDoS 공격 보고서'를 발간하고, 우리나라가 디도스 공격 대상 국가 2위를 기록했다고 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우리나라를 겨냥한 디도스 공격은 올 1분기 특히 급증했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 4분기 우리나라는 세계 전체 디도스 공격 중 9.42%를 차지했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "올 1분기에는 세계 전체 디도스 공격 중 26.57%를 기록해 큰 폭 증가세를 보였다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "우리나라에서 탐지된 명령제어(C&C) 서버는 세계 1위를 기록했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "미국(2위), 네덜란드(3위)가 뒤를 이었다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "카스퍼스키랩이 모니터링을 시작한 이래로 3위 아래로 떨어진 적이 없던 중국은 7위로 하락했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "디도스 공격은 올 1분기 공격 양상이 변했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "윈도 기반 봇넷 비중이 지난해 4분기 25%에서올 1분기 60%로 껑충 뛰었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "지난해 4분기에는 리눅스 기반 사물인터넷(IoT) 봇넷이 성행한 것과 다른 양상이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "전송제어규약(TCP)∙사용자데이터그램프로토콜(UDP)∙인터넷콘트롤메시지프로트콜(ICMP) 공격 횟수 또한 증가했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "증폭 유형 공격은 한 차례도 관찰되지 않았지만 암호화 기반 공격은 늘었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "디도스 공격 양상이 식별이 어렵게 바뀐 셈이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "전반적으로 이번 분기는 비교적 잠잠했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "공격이 가장 많이 관찰된 날은 2월 18일(994회)이었다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "올 1분기 최장기 디도스 공격은 120시간 동안 이어졌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이는 지난해 4분기 292시간 절반에도 미치지 못한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이창훈 카스퍼스키랩코리아 지사장은 \\\"연초는 대개 디도스 공격 횟수가 눈에 띄게 줄어드는데, 이는 사이버 범죄자가 잠시 휴식 기간을 갖고 있기 때문\\\"이라면서도 \\\"지금은 방어태세를 늦출 것이 아니라 오히려 사이버 범죄자가 활동을 재개하기 전에 보안을 재정비해야 할 것\\\"이라고 말했다.",
+				"sentenceSize": 160
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "올 1분기 우리나라 겨냥 디도스 공격 급증...중국 이어 2위 차지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

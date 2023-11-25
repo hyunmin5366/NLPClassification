@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324149",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "삼성SDS, 국내외 AI 경진대회 1위 석권",
+		"newsSubTitle": "",
+		"newsContent": "삼성SDS가 국내외 인공지능(AI) 경진대회에서 1위를 석권하며 기술력을 인정받았다.\n삼성SDS 연구소가 개발한 AI 자연어 이해 학습모델이 최근 영어로 진행하는'HotpotQA'와 한국어를 테스트하는 '코쿼드 1.0' '코쿼드 2.0' AI 독해 경진대회에서 각각 1위를 차지했다. 'HotpotQA'는 카네기멜론, 스탠퍼드, 몬트리올대가 만든 데이터셋 기반 글로벌 AI 독해 경진대회다.\n삼성SDS는 위키피디아 전체에서 답을 찾는 방식으로 가장 난도가 높은 'HotpotQA Fullwiki Setting'에서 1위를 기록하고 있다.\n테스트는 질문에 대해 AI가 2개 이상 문장을 근거로 정답을 제시해야 하므로 AI의 수준 높은 논리적 추론 역량을 요구한다.\n코쿼드(KorQuAD: Korean Question Answering Dataset) 1.0은 제시된 질문에 AI가 한정된 내용을 읽고 정확한 답을 찾아내는 테스트다.\n코쿼드 2.0은 한국어 위키피디아 전체에서 답을 찾는 방식으로 문장에 대한 높은 이해도를 바탕으로 장문의 답변을 요구한다.\n삼성SDS는 코쿼드 2.0 참가팀 중 처음으로 사람의 수준을 능가하는 점수를 기록했다.\n삼성SDS는 올해 NeurlPS, ACCV, AAAI, ICIP, ICPR 등 세계적인 AI 학회에 11건의 논문이 채택되는 성과를 이뤘다.\n특히 지난 9월에는 제품 설계∙제조∙물류 공정의 최적화를 위한 강화학습 기법을 다룬 논문이 AI 최고 권위 학회 중 하나인 'NeurlPS 2020'에서 채택됐다.\n이상욱 삼성SDS 연구소장(전무)은 \\\"AI 기술 연구를 고도화하고 다양한 인재를 지속 확보해 고객 디지털 트랜스포메이션을 적극 지원하겠다\\\"고 말했다.\n한편 삼성SDS는 11월 12일 제3회 개발자 콘퍼런스 'Techtonic(테크토닉) 2020'을 개최한다.\n온라인으로 진행되는 이번 행사에는 AI, 블록체인, 클라우드, 데이터 분석, 보안 등 핵심기술 연구개발 노하우와 적용 사례에 대한 발표와 토론이 준비됐다.\nTechtonic 2020 참가 등록은 10월 28일부터 삼성SDS 홈페이지에서 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성SDS가 국내외 인공지능(AI) 경진대회에서 1위를 석권하며 기술력을 인정받았다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성SDS 연구소가 개발한 AI 자연어 이해 학습모델이 최근 영어로 진행하는'HotpotQA'와 한국어를 테스트하는 '코쿼드 1.0' '코쿼드 2.0' AI 독해 경진대회에서 각각 1위를 차지했다. 'HotpotQA'는 카네기멜론, 스탠퍼드, 몬트리올대가 만든 데이터셋 기반 글로벌 AI 독해 경진대회다.",
+				"sentenceSize": 170
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성SDS는 위키피디아 전체에서 답을 찾는 방식으로 가장 난도가 높은 'HotpotQA Fullwiki Setting'에서 1위를 기록하고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "테스트는 질문에 대해 AI가 2개 이상 문장을 근거로 정답을 제시해야 하므로 AI의 수준 높은 논리적 추론 역량을 요구한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코쿼드(KorQuAD: Korean Question Answering Dataset) 1.0은 제시된 질문에 AI가 한정된 내용을 읽고 정확한 답을 찾아내는 테스트다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코쿼드 2.0은 한국어 위키피디아 전체에서 답을 찾는 방식으로 문장에 대한 높은 이해도를 바탕으로 장문의 답변을 요구한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성SDS는 코쿼드 2.0 참가팀 중 처음으로 사람의 수준을 능가하는 점수를 기록했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성SDS는 올해 NeurlPS, ACCV, AAAI, ICIP, ICPR 등 세계적인 AI 학회에 11건의 논문이 채택되는 성과를 이뤘다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "특히 지난 9월에는 제품 설계∙제조∙물류 공정의 최적화를 위한 강화학습 기법을 다룬 논문이 AI 최고 권위 학회 중 하나인 'NeurlPS 2020'에서 채택됐다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이상욱 삼성SDS 연구소장(전무)은 \\\"AI 기술 연구를 고도화하고 다양한 인재를 지속 확보해 고객 디지털 트랜스포메이션을 적극 지원하겠다\\\"고 말했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한편 삼성SDS는 11월 12일 제3회 개발자 콘퍼런스 'Techtonic(테크토닉) 2020'을 개최한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "온라인으로 진행되는 이번 행사에는 AI, 블록체인, 클라우드, 데이터 분석, 보안 등 핵심기술 연구개발 노하우와 적용 사례에 대한 발표와 토론이 준비됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "Techtonic 2020 참가 등록은 10월 28일부터 삼성SDS 홈페이지에서 가능하다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성SDS, 국내외 AI 경진대회 1위 석권",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

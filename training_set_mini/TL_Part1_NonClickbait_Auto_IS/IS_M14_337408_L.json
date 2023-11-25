@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337408",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "우리가 만든 자동차 어때요",
+		"newsSubTitle": "",
+		"newsContent": "2018 PRIME 국제대학생 자작자동차대회가 11일부터 나흘간의 일정으로 경북 경산시 영남대학교 경산캠퍼스에서 열렸다.\n대회 이틀째인 12일 홍익대 자동차 동아리 '라이트온'이 정적검사 및 기본검사를 앞두고 차량을 점검하고 있다.\n창원대 기계공학부 소속 참가자가 마무리 용접작업을 하고 있다.\n참가자가 마무리 작업에 구슬땀을 흘리고 있다.\n영남대 자동차 동아리 '유새'팀이 기본검사를 받고 있다.\n차량의 인테리어를 검사하고 있다.\n기본검사를 마친 드라이버가 땀을 닦고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2018 PRIME 국제대학생 자작자동차대회가 11일부터 나흘간의 일정으로 경북 경산시 영남대학교 경산캠퍼스에서 열렸다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대회 이틀째인 12일 홍익대 자동차 동아리 '라이트온'이 정적검사 및 기본검사를 앞두고 차량을 점검하고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "창원대 기계공학부 소속 참가자가 마무리 용접작업을 하고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "참가자가 마무리 작업에 구슬땀을 흘리고 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영남대 자동차 동아리 '유새'팀이 기본검사를 받고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "차량의 인테리어를 검사하고 있다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기본검사를 마친 드라이버가 땀을 닦고 있다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우리가 만든 자동차 어때요",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

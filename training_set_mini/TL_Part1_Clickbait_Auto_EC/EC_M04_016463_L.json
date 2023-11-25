@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016463",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "“장마철, 따끈한 전과 막걸리 어떠세요?”",
+		"newsSubTitle": "",
+		"newsContent": "이마트, 자체브랜드 피코크 전류와 막걸리 할인행사 이마트가 장마철 하면 생각나는 전과 막걸리로 고객 몰이에 나섰다.\n이마트는 오는 8일부터 자체브랜드 피코크 ‘수미감자전’을 선보인다.\n수미감자전은 당분이 많고 식감이 차진 국내산 수미감자를 사용해 감자 본연의 맛과 향을 살렸으며 겉은 바삭하고 속은 쫄깃한 것이 특징이다.\n가격은 5480원(420g)이다.\n또 땅끝 해남에서 자란 배추로 만든 묵은지를 사용해 새콤달콤하고 깊은맛을 자랑하는 피코크 묵은지 김치전(390g)을 5480원에 진열한다.\n푸짐한 해물을 자랑하는 피코크 해물 파전(390g)은 5980원이다.\n막걸리 할인행사도 연다. 국순당 대박 막걸리와 옛날 막걸리를 13일까지 2병 이상 구매 시 10%를 깎아준다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이마트, 자체브랜드 피코크 전류와 막걸리 할인행사 이마트가 장마철 하면 생각나는 전과 막걸리로 고객 몰이에 나섰다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이마트는 오는 8일부터 자체브랜드 피코크 ‘수미감자전’을 선보인다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수미감자전은 당분이 많고 식감이 차진 국내산 수미감자를 사용해 감자 본연의 맛과 향을 살렸으며 겉은 바삭하고 속은 쫄깃한 것이 특징이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가격은 5480원(420g)이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 땅끝 해남에서 자란 배추로 만든 묵은지를 사용해 새콤달콤하고 깊은맛을 자랑하는 피코크 묵은지 김치전(390g)을 5480원에 진열한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "푸짐한 해물을 자랑하는 피코크 해물 파전(390g)은 5980원이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "막걸리 할인행사도 연다. 국순당 대박 막걸리와 옛날 막걸리를 13일까지 2병 이상 구매 시 10%를 깎아준다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "치솟는 외식물가 \\\"치킨 사먹기 겁나~\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

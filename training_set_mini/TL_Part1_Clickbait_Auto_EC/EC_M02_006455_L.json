@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006455",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "대한항공, 9월부터 이탈리아·스페인 운항 재개",
+		"newsSubTitle": "수요 회복 따라 글로벌 운항 재개할 것",
+		"newsContent": "대한항공은 해외여행 수요 회복에 따라 오는 9월부터 유럽 일부 노선의 운항을 재개한다.\n대한항공은 코로나19로 지난 2020년 3월부터 운항을 중단한 인천~로마 및 인천~바르셀로나 총 2개 노선 운항을 재개한다고 29일 밝혔다.\n인천~로마 노선은 오는 9월 1일부터 화·목·토 주 3회 운항될 예정이다.\n인천국제공항을 오후 1시에 출발해 로마공항에 오후 7시 30분 도착한다.\n귀국 편은 로마공항에서 오후 9시 25분에 출발해 인천국제공항에 다음날 오후 3시 40분에 도착하는 일정이다.\n인천~바르셀로나 노선은 9월 2일부터 월·수·금 주 3회 운항된다.\n인천국제공항을 오전 11시 40분 출발해 바르셀로나공항에 오후 7시에 도착한다.\n귀국편은 바르셀로나공항에서 오후 9시에 출발해 인천국제공항에 다음날 오후 4시 5분에 도착한다.\n대한항공 관계자는 데일리임팩트에 \\\"코로나19 이후 해외 여행 수요 회복 추이를 면밀히 검토해 장거리 네트워크 중심 항공사로서 노선 정상화를 지속적으로 추진해 나갈 계획\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대한항공은 해외여행 수요 회복에 따라 오는 9월부터 유럽 일부 노선의 운항을 재개한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대한항공은 코로나19로 지난 2020년 3월부터 운항을 중단한 인천~로마 및 인천~바르셀로나 총 2개 노선 운항을 재개한다고 29일 밝혔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인천~로마 노선은 오는 9월 1일부터 화·목·토 주 3회 운항될 예정이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인천국제공항을 오후 1시에 출발해 로마공항에 오후 7시 30분 도착한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "귀국 편은 로마공항에서 오후 9시 25분에 출발해 인천국제공항에 다음날 오후 3시 40분에 도착하는 일정이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인천~바르셀로나 노선은 9월 2일부터 월·수·금 주 3회 운항된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인천국제공항을 오전 11시 40분 출발해 바르셀로나공항에 오후 7시에 도착한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "귀국편은 바르셀로나공항에서 오후 9시에 출발해 인천국제공항에 다음날 오후 4시 5분에 도착한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "대한항공 관계자는 데일리임팩트에 \\\"코로나19 이후 해외 여행 수요 회복 추이를 면밀히 검토해 장거리 네트워크 중심 항공사로서 노선 정상화를 지속적으로 추진해 나갈 계획\\\"이라고 밝혔다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "원전 뺀 K택소노미 최종 확정…환경부 \\\"EU·국내상황 변화시 재검토\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

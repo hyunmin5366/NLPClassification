@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324161",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "고대 안산병원, 고위험산모 집중 치료실 개소",
+		"newsSubTitle": "",
+		"newsContent": "고려대 안산병원(원장 차상훈)은 고위험산모 치료와 신생아에게 쾌적한 환경을 제공하기 위한 고위험산모 집중 치료실을 개소했다고 4일 밝혔다.\n고위험산모 집중치료실은 기존 산부인과 병동 내 8개 병상을 더해 운영한다.\n임신부터 출산까지 모든 과정을 체계적으로 지원한다.\n분만 후 대량출혈, 조기양막파열 등으로 집중 치료가 필요한 산모를 수용한다.\n병동 개소와 함께 지역병∙의원과 공동으로 간담회를 개최했다.\n전원된 산후출혈 환자 예후와 임상적 고찰, 중증 선천심질환 선별 검사 등을 논의했다.\n차상훈 원장은 \\\"신혼부부가 많고 출생률이 높은 경기 서남부권에서 고위험산모와 신생아를 위한 진료시스템을 구축해 상급종합병원 역할을 수행할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고려대 안산병원(원장 차상훈)은 고위험산모 치료와 신생아에게 쾌적한 환경을 제공하기 위한 고위험산모 집중 치료실을 개소했다고 4일 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고위험산모 집중치료실은 기존 산부인과 병동 내 8개 병상을 더해 운영한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임신부터 출산까지 모든 과정을 체계적으로 지원한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "분만 후 대량출혈, 조기양막파열 등으로 집중 치료가 필요한 산모를 수용한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "병동 개소와 함께 지역병∙의원과 공동으로 간담회를 개최했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전원된 산후출혈 환자 예후와 임상적 고찰, 중증 선천심질환 선별 검사 등을 논의했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "차상훈 원장은 \\\"신혼부부가 많고 출생률이 높은 경기 서남부권에서 고위험산모와 신생아를 위한 진료시스템을 구축해 상급종합병원 역할을 수행할 것\\\"이라고 말했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "고대 안산병원, 고위험산모 집중 치료실 개소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

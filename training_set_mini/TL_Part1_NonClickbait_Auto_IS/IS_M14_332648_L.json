@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332648",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "지난 1분기 중국 발 C&C 공격 기승...사드로 인한 외교 마찰 영향",
+		"newsSubTitle": "",
+		"newsContent": "지난 1분기 사이버 공격에 활용된 '공격 명령&제어(C&C)' 서버 10개 중 6개 이상이 중국에 있는 것으로 나타났다.\n고고도미사일방어체계(THAAD∙사드)로 인해 중국발 해킹공격이 빈번하게 발생한 것으로 풀이된다.\n중국 해커가 우리나라 사이트 공격에 활용한 아파치 스트럿처(Apache Struts)∙워드프레스 취약점 패치가 필요하다는 분석이다.\n2일 한국인터넷진흥원(KISA) '2017년 1분기 사이버 위협 동향 보고서'에 따르면, 지난 1분기 C&C로 가장 많이 악용된 국가는 중국이 전체 중 67%로 가장 많은 비율을 차지했다.\n이어 미국(12%), 한국(7%), 네덜란드(4%)가 뒤를 이었다.\n사드로 인한 외교 갈등이 일면서 중국 사이버 공격이 활발하게 일어난 영향으로 풀이된다.\nKISA는 \\\"한국∙중국 간 외교∙정치적 이슈로 인해 중국발 해킹공격이 빈번하게 발생한 요인이 반영된 것으로 추정 된다\\\"고 밝혔다.\n향후 중국 해커 공격은 계속될 것으로 보여 아파치 스트럿처∙워드프레스 취약점 패치가 요구된다.\nKISA는 \\\"타깃팅 된 취약점이 아닌 일반 취약점을 보완하면 사이버테러 중 상당수를 차단할 수 있다\\\"면서 \\\"1분기에 해커 공격에 많이 사용된 스트럿쳐 취약점(CVE-2017-5638), 워드프레스 취약점 등을 패치하면 상당수 공격을 막을 수 있다\\\"고 분석했다.\n지난 1분기에 랜섬웨어 공격도 기승을 부렸다.\nKISA가 1분기 악성코드 633개를 수집∙분석한 결과, 랜섬웨어가 275건으로 전체 중 44%를 차지했다.\n이어 원격제어 224건(35%), 정보탈취 80건(13%), 파밍 38건(6%), 디도스 8건(1%), 결제유도 8건(1%) 순으로 나타났다.\n랜섬웨어 피해 민원접수 현황을 살펴보면 지난 1분기 990건을 기록, 2015년 랜섬웨어 민원접수 770건을 이미 넘어섰다.\n지난해 민원접수 1438건의 68%가 이미 1분기에 발생했다.\n그만큼 업계 랜섬웨어 체감 피해가 크다는 의미다.\nKISA는 \\\"랜섬웨어가 유행하면서 변종, 신종 등 종류가 다양해지고 있다\\\"면서 \\\"랜섬웨어 변종∙신종은 스피어피싱, 정상파일 위장, 당시 정치 상황을 반영하는 형태 등 여러 유형으로 배포되고 있다\\\"고 지적했다.\n이어 \\\"2분기에는 광고 서버 해킹(멀버타이징) 등 더욱 진화된 방식을 이용한 랜섬웨어, 원격제어 악성코드 등 다양한 방식 악성코드 유포가 예상 된다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 1분기 사이버 공격에 활용된 '공격 명령&제어(C&C)' 서버 10개 중 6개 이상이 중국에 있는 것으로 나타났다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고고도미사일방어체계(THAAD∙사드)로 인해 중국발 해킹공격이 빈번하게 발생한 것으로 풀이된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "중국 해커가 우리나라 사이트 공격에 활용한 아파치 스트럿처(Apache Struts)∙워드프레스 취약점 패치가 필요하다는 분석이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2일 한국인터넷진흥원(KISA) '2017년 1분기 사이버 위협 동향 보고서'에 따르면, 지난 1분기 C&C로 가장 많이 악용된 국가는 중국이 전체 중 67%로 가장 많은 비율을 차지했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 미국(12%), 한국(7%), 네덜란드(4%)가 뒤를 이었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사드로 인한 외교 갈등이 일면서 중국 사이버 공격이 활발하게 일어난 영향으로 풀이된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KISA는 \\\"한국∙중국 간 외교∙정치적 이슈로 인해 중국발 해킹공격이 빈번하게 발생한 요인이 반영된 것으로 추정 된다\\\"고 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "향후 중국 해커 공격은 계속될 것으로 보여 아파치 스트럿처∙워드프레스 취약점 패치가 요구된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "KISA는 \\\"타깃팅 된 취약점이 아닌 일반 취약점을 보완하면 사이버테러 중 상당수를 차단할 수 있다\\\"면서 \\\"1분기에 해커 공격에 많이 사용된 스트럿쳐 취약점(CVE-2017-5638), 워드프레스 취약점 등을 패치하면 상당수 공격을 막을 수 있다\\\"고 분석했다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지난 1분기에 랜섬웨어 공격도 기승을 부렸다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "KISA가 1분기 악성코드 633개를 수집∙분석한 결과, 랜섬웨어가 275건으로 전체 중 44%를 차지했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이어 원격제어 224건(35%), 정보탈취 80건(13%), 파밍 38건(6%), 디도스 8건(1%), 결제유도 8건(1%) 순으로 나타났다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "랜섬웨어 피해 민원접수 현황을 살펴보면 지난 1분기 990건을 기록, 2015년 랜섬웨어 민원접수 770건을 이미 넘어섰다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "지난해 민원접수 1438건의 68%가 이미 1분기에 발생했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "그만큼 업계 랜섬웨어 체감 피해가 크다는 의미다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "KISA는 \\\"랜섬웨어가 유행하면서 변종, 신종 등 종류가 다양해지고 있다\\\"면서 \\\"랜섬웨어 변종∙신종은 스피어피싱, 정상파일 위장, 당시 정치 상황을 반영하는 형태 등 여러 유형으로 배포되고 있다\\\"고 지적했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이어 \\\"2분기에는 광고 서버 해킹(멀버타이징) 등 더욱 진화된 방식을 이용한 랜섬웨어, 원격제어 악성코드 등 다양한 방식 악성코드 유포가 예상 된다\\\"고 덧붙였다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지난 1분기 중국 발 C&C 공격 기승...사드로 인한 외교 마찰 영향",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

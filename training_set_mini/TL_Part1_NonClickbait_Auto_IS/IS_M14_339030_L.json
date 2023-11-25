@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339030",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "인코디움, 코인패스 거래소 상장 후 '토큰스왑(Token Swap)' 추진",
+		"newsSubTitle": "",
+		"newsContent": "인코디움(공동대표 박선영·장순찬)이 다음 달 코인패스 거래소에 상장하고 토큰스왑(Token Swap) 계약을 체결할 계획이라고 20일 밝혔다.\n코인패스는 국내 최초로 마진거래를 할 수 있는 거래소로 투자자가 거래소 보증을 통해 투자금보다 수배 많은 암호화폐를 구매할 수 있는 레버리지 시스템을 갖췄다.\n기존 거래소와 달리 특정인만 가능했던 공매도를 통해 하락장에서도 수익을 낼 수 있다.\n인코디움은 암호화폐 거래소 해킹 보상코인으로 코인패스와 거래소 해킹피해 보상물량에 대해 일정비율을 토큰스왑을 통해 교환할 수 있는 관계를 구축할 계획이다.\n양사는 사용자 투자자산을 안전하게 지킬 수 있도록 협력해 나갈 방침이다.\n인코(INCO) 토큰과 콥(COP) 토큰을 서로 스왑(Swap)해 투자자의 해킹피해 보상에 대해 신속하고 정확하게 공동 대응할 예정이다.\n김승래 인코디움 공동창업자는 “인코디움의 거래소 보안 모니터링 서비스로 향후 전 세계 거래소를 대상으로 해킹시도를 사전 차단하고 암호해독이 불가능한 솔루션을 제공할 것”이라면서 “해당 거래소 사용자의 자산을 보다 안전하게 보관할 수 있게 할 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인코디움(공동대표 박선영·장순찬)이 다음 달 코인패스 거래소에 상장하고 토큰스왑(Token Swap) 계약을 체결할 계획이라고 20일 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코인패스는 국내 최초로 마진거래를 할 수 있는 거래소로 투자자가 거래소 보증을 통해 투자금보다 수배 많은 암호화폐를 구매할 수 있는 레버리지 시스템을 갖췄다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 거래소와 달리 특정인만 가능했던 공매도를 통해 하락장에서도 수익을 낼 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인코디움은 암호화폐 거래소 해킹 보상코인으로 코인패스와 거래소 해킹피해 보상물량에 대해 일정비율을 토큰스왑을 통해 교환할 수 있는 관계를 구축할 계획이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양사는 사용자 투자자산을 안전하게 지킬 수 있도록 협력해 나갈 방침이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인코(INCO) 토큰과 콥(COP) 토큰을 서로 스왑(Swap)해 투자자의 해킹피해 보상에 대해 신속하고 정확하게 공동 대응할 예정이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김승래 인코디움 공동창업자는 “인코디움의 거래소 보안 모니터링 서비스로 향후 전 세계 거래소를 대상으로 해킹시도를 사전 차단하고 암호해독이 불가능한 솔루션을 제공할 것”이라면서 “해당 거래소 사용자의 자산을 보다 안전하게 보관할 수 있게 할 것”이라고 밝혔다.",
+				"sentenceSize": 145
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인코디움, 코인패스 거래소 상장 후 '토큰스왑(Token Swap)' 추진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

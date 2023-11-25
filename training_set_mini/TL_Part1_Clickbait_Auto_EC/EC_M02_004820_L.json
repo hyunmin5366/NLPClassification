@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004820",
+		"newsCategory": "경제",
+		"newsSubcategory": "정책금융",
+		"newsTitle": "고승범 금융위원장 코로나19 확진…재택 치료",
+		"newsSubTitle": "7일 오전 코로나 양성 판정…접촉자들도 검사 진행",
+		"newsContent": "고승범 금융위원장이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.\n7일 금융위원회에 따르면 고승범 위원장은 이날 오전 나온 코로나19 검사 결과에서 양성 판정을 받았다.\n자가검진, 이후 진행된 PCR검사에서도 모두 양성이 나온 것이다.\n현재 고 위원장은 향후 예정된 이번주 일정을 전면 취소하고 자택 격리 중이다.\n금융위 관계자는 데일리임팩트에 \\\"다만, 업무에 차질을 빚지 않도록 자택에서 비대면으로 업무보고를 받고 있다\\\"라고 설명했다.\n한편, 고 위원장은 백신 3차 접종까지 완료했지만 돌파감염이 된 것으로 알려졌다.\n이번 고 위원장의 확진으로 금융위 비서실 인력들도 재택근무에 돌입했다.\n이들 역시 코로나19 검사를 받은 후 결과를 기다리고 있는 중이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고승범 금융위원장이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 금융위원회에 따르면 고승범 위원장은 이날 오전 나온 코로나19 검사 결과에서 양성 판정을 받았다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자가검진, 이후 진행된 PCR검사에서도 모두 양성이 나온 것이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 고 위원장은 향후 예정된 이번주 일정을 전면 취소하고 자택 격리 중이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금융위 관계자는 데일리임팩트에 \\\"다만, 업무에 차질을 빚지 않도록 자택에서 비대면으로 업무보고를 받고 있다\\\"라고 설명했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 고 위원장은 백신 3차 접종까지 완료했지만 돌파감염이 된 것으로 알려졌다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 고 위원장의 확진으로 금융위 비서실 인력들도 재택근무에 돌입했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이들 역시 코로나19 검사를 받은 후 결과를 기다리고 있는 중이다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세븐일레븐-경기도, 가정보육 어린이 위한 건강과일 판매",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

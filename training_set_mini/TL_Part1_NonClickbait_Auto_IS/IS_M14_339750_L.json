@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339750",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "‘2019년 사이버 위협 대응 5선’ 세미나 개최",
+		"newsSubTitle": "",
+		"newsContent": "올 한해 예측불허의 각종 사이버 보안사고 및 위협정보들로 많은 기업과 기관은 막대한 피해를 입었다.\n전체 산업군에서 발생하는 보안사고 중 커머스와 금융분야에서 크리덴셜 스터핑 및 개인정보 탈취 공격이었다.\n전체 산업군을 대상으로 대규모 디도스 공격이 지속적으로 시도됐으며, 계속 진화되고 다양한 변형을 통한 봇 공격의 공격으로 막대한 트래픽 비용이 증가했다.\n제로데이를 포함한 웹 보안 취약점을 노린 공격, API 트랙픽의 증가로 인해 공격 횟수도 증가하고있으며, 보안성 측면에서 그동안 간과되었던 DNS 보안의 위험성도 높아지고 있다.\n그러므로 기업과 기관에서는 문제시되고 있고 있는 여러 보안 취약점 및 공격에 대한 효과적인 대응방안 및 투자대비 효과(인력/비용)를 고려해야 한다.\n전자신문 웨비나 전문방송 allshow TV는 오는 11월 15일 오후 2시부터 3시까지 '2019년 사이버 위협 대응 5선' 무료 온라인 세미나를 개최한다. 2018년의 사이버 위협 트렌드를 살펴보고 2019년에 기업들이 준비해야 할 사이버 보안 대책을 알아 본다.\n사이버 보안 사고 유형 및 사례별로 잠재적인 보안 위험성을 살펴보고 2019년 사이버 5가지 위협 및 전망, 2019년 보안 점검사항 및 대응방안에 대해 알아본다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올 한해 예측불허의 각종 사이버 보안사고 및 위협정보들로 많은 기업과 기관은 막대한 피해를 입었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전체 산업군에서 발생하는 보안사고 중 커머스와 금융분야에서 크리덴셜 스터핑 및 개인정보 탈취 공격이었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전체 산업군을 대상으로 대규모 디도스 공격이 지속적으로 시도됐으며, 계속 진화되고 다양한 변형을 통한 봇 공격의 공격으로 막대한 트래픽 비용이 증가했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "제로데이를 포함한 웹 보안 취약점을 노린 공격, API 트랙픽의 증가로 인해 공격 횟수도 증가하고있으며, 보안성 측면에서 그동안 간과되었던 DNS 보안의 위험성도 높아지고 있다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러므로 기업과 기관에서는 문제시되고 있고 있는 여러 보안 취약점 및 공격에 대한 효과적인 대응방안 및 투자대비 효과(인력/비용)를 고려해야 한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전자신문 웨비나 전문방송 allshow TV는 오는 11월 15일 오후 2시부터 3시까지 '2019년 사이버 위협 대응 5선' 무료 온라인 세미나를 개최한다. 2018년의 사이버 위협 트렌드를 살펴보고 2019년에 기업들이 준비해야 할 사이버 보안 대책을 알아 본다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사이버 보안 사고 유형 및 사례별로 잠재적인 보안 위험성을 살펴보고 2019년 사이버 5가지 위협 및 전망, 2019년 보안 점검사항 및 대응방안에 대해 알아본다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘2019년 사이버 위협 대응 5선’ 세미나 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_034981",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "팬이 못 나온 사진 보여주자 시무룩한 표정의 정연",
+		"newsSubTitle": "",
+		"newsContent": "팬이 보여준 사진에 시무룩한 표정을 보이는 정연의 모습이 화제다.\n최근 온라인 커뮤니티에는 \\\"팬이 보여준 사진에 억울한 표정 짓는 정연\\\"이라는 제목의 게시물이 올라왔다.\n게시물 속 정연은 팬사인회에서 팬들을 맞이하는 정연의 모습이 담겨 있다.\n팬사인회는 지난 8일 롯데시네마 건대입구점에서 진행됐다.\n한 팬은 정연의 얼굴이 담긴 사진을 정연에게 보여줬고, 정연은 시무룩한 표정을 지으며 사진을 바라봤다.\n팬들은 \\\"시무룩한 얼굴이 너무 귀엽다\\\", \\\"어떤 사진이길래?\\\" 등의 반응을 보이고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "팬이 보여준 사진에 시무룩한 표정을 보이는 정연의 모습이 화제다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인 커뮤니티에는 \\\"팬이 보여준 사진에 억울한 표정 짓는 정연\\\"이라는 제목의 게시물이 올라왔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게시물 속 정연은 팬사인회에서 팬들을 맞이하는 정연의 모습이 담겨 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팬사인회는 지난 8일 롯데시네마 건대입구점에서 진행됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한 팬은 정연의 얼굴이 담긴 사진을 정연에게 보여줬고, 정연은 시무룩한 표정을 지으며 사진을 바라봤다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "팬들은 \\\"시무룩한 얼굴이 너무 귀엽다\\\", \\\"어떤 사진이길래?\\\" 등의 반응을 보이고 있다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "양요섭, 솔로 컴백 ‘브레인’ 음원 1위",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

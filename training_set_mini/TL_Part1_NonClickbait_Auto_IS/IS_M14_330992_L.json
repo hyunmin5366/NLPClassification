@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330992",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "현대오토에버, 도로상황정보 표출 내비 기반 기술 확보",
+		"newsSubTitle": "",
+		"newsContent": "현대오토에버가 도로상황정보 표출 내비게이션 기반 기술을 확보했다.\n자동차가 클라우드에 실시간으로 보낸 데이터를 인공지능(AI)으로 분석해 다른 차량에 재공유하는 방식이다.\n31일 업계에 따르면 현대오토에버는 국민대와 2019년 4월부터 올해 7월까지 진행한 '차량 내부(CAN) 데이터 기반 도로상황 판단 시스템 개발' 연구를 통해 관련 기술을 확보했다.\n해당 연구는 한국도로공사가 발주한 연구용역으로 현대오토에버는 최근 최종 보고서 제출도 마쳤다.\n현대오토에버는 한국도로공사 4개 지사의 순찰 차량과 안전운행 차량를 통해 기술 실증을 진행했다.\n도로상황 판단 시스템을 통한 미끄럼 정보 제공 서비스, 포트홀 확인 기술 구현이 목적이다.\nCAN 데이터와 카메라 데이터 등을 활용해 기술을 구현했다.\n현대오토에버가 개발한 도로상황 판단 시스템은 차량용 단말기를 포함한 데이터 수집 시스템, 도로상황 판단 모델링 시스템, 도로상황 제공 시스템 등으로 이뤄진다.\n일반적으로 CAN 통신은 자동차 제어와 직접적 관련이 있어 원격 접속이 불가능하다.\n현대오토에버는 차량용 단말 시스템을 별도로 개발해 CAN 데이터, 카메라 영상 데이터, GPS 데이터를 추출·저장하고 롱텀에벌루션(LTE) 통신으로 클라우드 서버에 전송하도록 했다.\n클라우드 서버에선 AI 기반 도로상황 판단 소프트웨어(SW)가 수신한 데이터를 분석한다.\n분석한 데이터베이스(DB)는 애플리케이션 프로그래밍 인터페이스(API)를 이용해 외부 시스템에 제공할 수 있도록 구성했다.\n차량이 파악한 노면 정보의 차로 위치 파악을 위해 정밀지도도 활용했다.\n과제 기간 차량 SW 유지보수를 위해 무선 업데이트(OTA) 기능도 적용했다.\n현대오토에버는 타이어 모델과 CAN 데이터를 활용해 미끄럼 발생 구간을 파악하는 데 성공했다.\n네 바퀴 속도를 기반으로 연산한 미끄럼비(Slip ratio) 값과 종방향 및 종·횡 방향 가속도 값을 통해 노면 상태를 추정했다.\n카메라 영상 데이터를 AI로 분석해 포트홀을 검출하는 기능도 구현했다.\n다만 인식률은 약 20%대로 높지 않았다.\n현대오토에버는 CAN 통신을 통해 가속도 센서 신호 등을 수집해 융합할 경우 성능 개선이 가능할 것으로 예상했다.\n현대오토에버가 개발한 기술은 공공 서비스뿐 아니라 여러 내비게이션에서 활용 가능성이 크다.\n주행 안전을 담보할 수 있는 CAN 통신 보안 대책만 수립한다면 양산차에도 적용 가능하다.\n해당 기술을 활용하면 △낙하물, 도로 작업 구간 등 도로 위험 구간 △파손·포트홀 등 물리적 노면 상태 △결빙·수막·안개·침수 등 기상에 따른 도로 상황 △기상정보 △도로 정체 정보 등을 효과적으로 불특정 다수의 차량 운전자에게 제공할 수 있다.\n현대오토에버는 “한국도로공사의 실시간 도로상황 정보는 정밀지도를 탑재할 자율주행차에 서비스됨으로써 자율주행 품질 향상에도 크게 기여할 것”이라고 예상했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대오토에버가 도로상황정보 표출 내비게이션 기반 기술을 확보했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자동차가 클라우드에 실시간으로 보낸 데이터를 인공지능(AI)으로 분석해 다른 차량에 재공유하는 방식이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "31일 업계에 따르면 현대오토에버는 국민대와 2019년 4월부터 올해 7월까지 진행한 '차량 내부(CAN) 데이터 기반 도로상황 판단 시스템 개발' 연구를 통해 관련 기술을 확보했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해당 연구는 한국도로공사가 발주한 연구용역으로 현대오토에버는 최근 최종 보고서 제출도 마쳤다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현대오토에버는 한국도로공사 4개 지사의 순찰 차량과 안전운행 차량를 통해 기술 실증을 진행했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "도로상황 판단 시스템을 통한 미끄럼 정보 제공 서비스, 포트홀 확인 기술 구현이 목적이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "CAN 데이터와 카메라 데이터 등을 활용해 기술을 구현했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현대오토에버가 개발한 도로상황 판단 시스템은 차량용 단말기를 포함한 데이터 수집 시스템, 도로상황 판단 모델링 시스템, 도로상황 제공 시스템 등으로 이뤄진다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "일반적으로 CAN 통신은 자동차 제어와 직접적 관련이 있어 원격 접속이 불가능하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "현대오토에버는 차량용 단말 시스템을 별도로 개발해 CAN 데이터, 카메라 영상 데이터, GPS 데이터를 추출·저장하고 롱텀에벌루션(LTE) 통신으로 클라우드 서버에 전송하도록 했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "클라우드 서버에선 AI 기반 도로상황 판단 소프트웨어(SW)가 수신한 데이터를 분석한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "분석한 데이터베이스(DB)는 애플리케이션 프로그래밍 인터페이스(API)를 이용해 외부 시스템에 제공할 수 있도록 구성했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "차량이 파악한 노면 정보의 차로 위치 파악을 위해 정밀지도도 활용했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "과제 기간 차량 SW 유지보수를 위해 무선 업데이트(OTA) 기능도 적용했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "현대오토에버는 타이어 모델과 CAN 데이터를 활용해 미끄럼 발생 구간을 파악하는 데 성공했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "네 바퀴 속도를 기반으로 연산한 미끄럼비(Slip ratio) 값과 종방향 및 종·횡 방향 가속도 값을 통해 노면 상태를 추정했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "카메라 영상 데이터를 AI로 분석해 포트홀을 검출하는 기능도 구현했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "다만 인식률은 약 20%대로 높지 않았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "현대오토에버는 CAN 통신을 통해 가속도 센서 신호 등을 수집해 융합할 경우 성능 개선이 가능할 것으로 예상했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "현대오토에버가 개발한 기술은 공공 서비스뿐 아니라 여러 내비게이션에서 활용 가능성이 크다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "주행 안전을 담보할 수 있는 CAN 통신 보안 대책만 수립한다면 양산차에도 적용 가능하다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "해당 기술을 활용하면 △낙하물, 도로 작업 구간 등 도로 위험 구간 △파손·포트홀 등 물리적 노면 상태 △결빙·수막·안개·침수 등 기상에 따른 도로 상황 △기상정보 △도로 정체 정보 등을 효과적으로 불특정 다수의 차량 운전자에게 제공할 수 있다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "현대오토에버는 “한국도로공사의 실시간 도로상황 정보는 정밀지도를 탑재할 자율주행차에 서비스됨으로써 자율주행 품질 향상에도 크게 기여할 것”이라고 예상했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대오토에버, 도로상황정보 표출 내비 기반 기술 확보",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,393 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332507",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW교육",
+		"newsTitle": "SW사고력올림피아드, 학년별 예시 문제 확인해요",
+		"newsSubTitle": "",
+		"newsContent": "제1회 소프트웨어(SW)사고력 올림피아드에는 어떤 문제가 나올까요?\nSW사고력 올림피아드는 참가 대상을 '초등학교 3∼4학년', '초등학교 5∼6학년', '중학교 1∼3학년'으로 나눠서 시행해요.\n학년별로 문제 난이도가 다르겠죠?\n어떤 문제가 나올지 예시 문제를 설명해줄게요.\n◇초등학교 저학년(3∼4학년) 예시문제: 양면에 아무 내용도 적혀있지 않은 카드 8개와 볼펜 한 개가 있어요.\n이를 이용해 새로운 놀이를 생각하고 그 방법을 설명해보세요.\n→이렇게 문제가 제출됐다고 가정해 볼게요.\n카드 8개와 볼펜을 이용해 어떤 놀이를 할 수 있을까요?\n여러분이 생각해 보는 거예요.\n주어진 조건인 카드 8개로 어떤 게임을 만들어볼까요.\n볼펜 한 개는 어떻게 사용하면 좋을까요.\n게임이기 때문에 규칙도 필요하겠죠?\n벌칙도 추가할 수 있어요.\n누구 도움 없이 여러분이 다양한 게임을 만들어 봐요.\n◇초등학교 고학년(5∼6학년) 예시문제: 어떤 회사에서 바닥을 움직이며 먼지를 빨아들이는 청소로봇을 개발하려고해요.\n이 로봇에는 시각 센서가 없어요.\n장애물과 부딪히면 좌우로 이동하거나 뒤로 가는 기능만 있어요.\n빨아들인 먼지 무게를 측정하는 기능도 있고요.\n효율적으로 집안을 청소하는 로봇 모양과 작동원리를 설명하세요.\n→어떻게 하면 집안을 구석구석 청소할 수 있을까요?\n시각 센서가 없다는 점이 문제네요.\n장애물 위치도 중요하겠죠?\n집안에 장애물이 많다면 어떤식으로 피할 수 있을까요?\n먼지 무게를 측정하는 기능도 활용하면 좋을 것 같은데요.\n정답은 없어요.\n여러분이 한 번 생각해보세요.\n집안 구조를 그려보면서 생각해봐도 좋겠네요.\n◇중학교 1∼3학년 예시문제: 한 신문사에서 웹사이트를 운영하는 관리자라고 가정해볼게요.\n신문사 소속 기자들이 다양한 종류의 기사를 작성해 사이트에 올려요.\n웹사이트 관리자는 기사를 경제, 사회, 스포츠 등 섹션별로 분류해야 해요.\n기자들은 기사를 분류해서 올리지 않아요.\n관리자는 어떻게 많은 기사를 섹션별로 분류할 수 있을까요?\n단, 기사는 하나의 섹션에만 속할 수 있고 향후 다른 섹션으로 이동은 가능해요.\n→보통 신문사 웹사이트에는 새로운 기사가 하루에 수백 건에서 많게는 수천 건까지 올라와요.\n기사를 일일이 읽어보고 분류하기란 어렵겠네요.\n기사가 다른 섹션에 겹쳐서 올라가도 안되는 상황이고요.\n어떻게 분류해야할까요?\n여러 가지 방법을 생각해볼 수 있겠네요.\n알고리즘을 만들어 자동 분류 기능을 포함시켜도 될 것 같아요.\n알고리즘 기능이 중요하겠네요.\n어떤 기준으로 기사를 분류할지 나름대로 방안을 만들어보세요.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 41,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "제1회 소프트웨어(SW)사고력 올림피아드에는 어떤 문제가 나올까요?",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SW사고력 올림피아드는 참가 대상을 '초등학교 3∼4학년', '초등학교 5∼6학년', '중학교 1∼3학년'으로 나눠서 시행해요.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "학년별로 문제 난이도가 다르겠죠?",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "어떤 문제가 나올지 예시 문제를 설명해줄게요.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "◇초등학교 저학년(3∼4학년) 예시문제: 양면에 아무 내용도 적혀있지 않은 카드 8개와 볼펜 한 개가 있어요.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 이용해 새로운 놀이를 생각하고 그 방법을 설명해보세요.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "→이렇게 문제가 제출됐다고 가정해 볼게요.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카드 8개와 볼펜을 이용해 어떤 놀이를 할 수 있을까요?",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "여러분이 생각해 보는 거예요.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "주어진 조건인 카드 8개로 어떤 게임을 만들어볼까요.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "볼펜 한 개는 어떻게 사용하면 좋을까요.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "게임이기 때문에 규칙도 필요하겠죠?",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "벌칙도 추가할 수 있어요.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "누구 도움 없이 여러분이 다양한 게임을 만들어 봐요.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "◇초등학교 고학년(5∼6학년) 예시문제: 어떤 회사에서 바닥을 움직이며 먼지를 빨아들이는 청소로봇을 개발하려고해요.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이 로봇에는 시각 센서가 없어요.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "장애물과 부딪히면 좌우로 이동하거나 뒤로 가는 기능만 있어요.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "빨아들인 먼지 무게를 측정하는 기능도 있고요.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "효율적으로 집안을 청소하는 로봇 모양과 작동원리를 설명하세요.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "→어떻게 하면 집안을 구석구석 청소할 수 있을까요?",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "시각 센서가 없다는 점이 문제네요.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "장애물 위치도 중요하겠죠?",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "집안에 장애물이 많다면 어떤식으로 피할 수 있을까요?",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "먼지 무게를 측정하는 기능도 활용하면 좋을 것 같은데요.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "정답은 없어요.",
+				"sentenceSize": 8
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "여러분이 한 번 생각해보세요.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "집안 구조를 그려보면서 생각해봐도 좋겠네요.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "◇중학교 1∼3학년 예시문제: 한 신문사에서 웹사이트를 운영하는 관리자라고 가정해볼게요.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "신문사 소속 기자들이 다양한 종류의 기사를 작성해 사이트에 올려요.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "웹사이트 관리자는 기사를 경제, 사회, 스포츠 등 섹션별로 분류해야 해요.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "기자들은 기사를 분류해서 올리지 않아요.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "관리자는 어떻게 많은 기사를 섹션별로 분류할 수 있을까요?",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "단, 기사는 하나의 섹션에만 속할 수 있고 향후 다른 섹션으로 이동은 가능해요.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "→보통 신문사 웹사이트에는 새로운 기사가 하루에 수백 건에서 많게는 수천 건까지 올라와요.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "기사를 일일이 읽어보고 분류하기란 어렵겠네요.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "기사가 다른 섹션에 겹쳐서 올라가도 안되는 상황이고요.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 37,
+				"sentenceContent": "어떻게 분류해야할까요?",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 38,
+				"sentenceContent": "여러 가지 방법을 생각해볼 수 있겠네요.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 39,
+				"sentenceContent": "알고리즘을 만들어 자동 분류 기능을 포함시켜도 될 것 같아요.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 40,
+				"sentenceContent": "알고리즘 기능이 중요하겠네요.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 41,
+				"sentenceContent": "어떤 기준으로 기사를 분류할지 나름대로 방안을 만들어보세요.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SW사고력올림피아드, 학년별 예시 문제 확인해요",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 37,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 38,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 39,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 40,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 41,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

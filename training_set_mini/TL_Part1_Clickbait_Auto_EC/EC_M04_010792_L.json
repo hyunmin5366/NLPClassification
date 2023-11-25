@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010792",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "대전 롯데백화점, 애니팡 고수 선발대회",
+		"newsSubTitle": "예선과 결선 치러 전국 1위 상품권 200만원",
+		"newsContent": "‘애니팡 최고수를 찾아라!’ 대전 롯데백화점은 오는 10일부터 백화점 3층 샤롯데공원에서 애니팡 고수 선발대회를 치른다.\n전국의 롯데백화점 권역별로 치러지는 이번 대회는 10일과 11일 이틀간 예선을 치러 오는 17일 결선이 진행되며 점수에 따라 전국 최고수도 선발한다.\n예선은 오전 11시부터 선착순 200명 접수를 받아 1대1 배틀방식으로 총 10연승까지 가능한 경기방식으로 진행된다.\n예선에서 10연승을 한 참가자에게는 롯데상품권 5만원이 제공되며, 5연승은 롯데상품권 2만원이 주어진다.\n결선에서는 예선을 거친 100명이 참여하며 1인당 2게임을 펼쳐 최고점을 개인점수로 인정한다.\n대전지역 1~3위에게는 롯데상품권 50~20만원이 증정되고 전국 1위로 선발되면 롯데상품권 200만원이 제공된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘애니팡 최고수를 찾아라!’ 대전 롯데백화점은 오는 10일부터 백화점 3층 샤롯데공원에서 애니팡 고수 선발대회를 치른다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전국의 롯데백화점 권역별로 치러지는 이번 대회는 10일과 11일 이틀간 예선을 치러 오는 17일 결선이 진행되며 점수에 따라 전국 최고수도 선발한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예선은 오전 11시부터 선착순 200명 접수를 받아 1대1 배틀방식으로 총 10연승까지 가능한 경기방식으로 진행된다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예선에서 10연승을 한 참가자에게는 롯데상품권 5만원이 제공되며, 5연승은 롯데상품권 2만원이 주어진다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "결선에서는 예선을 거친 100명이 참여하며 1인당 2게임을 펼쳐 최고점을 개인점수로 인정한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대전지역 1~3위에게는 롯데상품권 50~20만원이 증정되고 전국 1위로 선발되면 롯데상품권 200만원이 제공된다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "피비파트너스, '근무시간 조작' 논란",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

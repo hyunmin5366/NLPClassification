@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353901",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "SKT, 더존비즈온과 그룹영상회의 솔루션 '미더스' 공급 체결",
+		"newsSubTitle": "null",
+		"newsContent": "SK텔레콤은 ICT 전문기업 더존비즈온과 자사 그룹영상회의 솔루션 '미더스' 공급계약을 체결했다고 12일 밝혔다. '미더스'는 더존비즈온의 전사자원관리(ERP), 그룹웨어 등이 통합된 비즈니스 플랫폼 '아마란스10 (Amaranth 10)' 사용자들에게 영상회의 솔루션으로 제공된다.\n계정 연동은 물론, 양사 앱 간 응용프로그램 인터페이스(API) 연동을 통해 아마란스 10 메신저 앱을 통한 미더스 그룹회의 구동도 가능하다.\n아마란스10 사용자들 간 미더스 무제한 사용이 가능하고 외부 참여자를 추가로 초대하는 기능을 넣는 등 활용도가 높아질 것으로 예상된다.\nSK텔레콤은 이번 제휴로 미더스를 들고 기업 협업툴 시장에 본격적으로 나선다.\n외산 영상 솔루션이 국내 시장 대부분을 잠식한 상황에서 보안 및 안정성에 대한 우려를 불식하고, 다양한 형태의 기업용 플랫폼을 지원할 수 있는 사례가 될 것으로 보고 있다.\n이현아 SK텔레콤 AI&CO 담당은 \\\"이번 사업제휴는 공교육 중심으로 제공되던 영상회의 솔루션 '미더스'가 기업 B2B 시장에 본격적으로 진출하는 첫 사례로 의미가 크다\\\"며 \\\"향후에도 양사간 지속적 협업을 통해 사용자 및 시장을 확대하고, 다양한 기업 협업툴 시장을 공략하겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤은 ICT 전문기업 더존비즈온과 자사 그룹영상회의 솔루션 '미더스' 공급계약을 체결했다고 12일 밝혔다. '미더스'는 더존비즈온의 전사자원관리(ERP), 그룹웨어 등이 통합된 비즈니스 플랫폼 '아마란스10 (Amaranth 10)' 사용자들에게 영상회의 솔루션으로 제공된다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "계정 연동은 물론, 양사 앱 간 응용프로그램 인터페이스(API) 연동을 통해 아마란스 10 메신저 앱을 통한 미더스 그룹회의 구동도 가능하다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아마란스10 사용자들 간 미더스 무제한 사용이 가능하고 외부 참여자를 추가로 초대하는 기능을 넣는 등 활용도가 높아질 것으로 예상된다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SK텔레콤은 이번 제휴로 미더스를 들고 기업 협업툴 시장에 본격적으로 나선다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "외산 영상 솔루션이 국내 시장 대부분을 잠식한 상황에서 보안 및 안정성에 대한 우려를 불식하고, 다양한 형태의 기업용 플랫폼을 지원할 수 있는 사례가 될 것으로 보고 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이현아 SK텔레콤 AI&CO 담당은 \\\"이번 사업제휴는 공교육 중심으로 제공되던 영상회의 솔루션 '미더스'가 기업 B2B 시장에 본격적으로 진출하는 첫 사례로 의미가 크다\\\"며 \\\"향후에도 양사간 지속적 협업을 통해 사용자 및 시장을 확대하고, 다양한 기업 협업툴 시장을 공략하겠다\\\"고 밝혔다.",
+				"sentenceSize": 165
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKT, 더존비즈온과 그룹영상회의 솔루션 '미더스' 공급 체결",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

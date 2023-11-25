@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339767",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]애플, 신종 코로나로 中 모든 매장 임시 폐쇄",
+		"newsSubTitle": "",
+		"newsContent": "애플이 중국 본토의 모든 공식 매장을 임시 폐쇄했다.\n신종 코로나 바이러스 감염증 확산에 따른 조치로 폐쇄 기간은 현지시간 9일 밤 12시까지다.\n애플은 성명을 통해 “신종 코로나 바이러스 영향을 가장 직접적으로 받은 이들과 바이러스 연구·억제를 위해 밤낮으로 일하는 이들의 마음을 함께 한다”며 중국 내 매장과 사무실, 고객센터 문을 닫는다고 밝혔다.\n애플 중국어 홈페이지에도 '최근 공중 보건과 예방에 관한 우려 때문에 모든 매장을 2월9일 밤 12시까지 임시 폐쇄한다'고 공지했다.\n다만 온라인 매장은 계속 영업한다.\n블룸버그통신에 따르면 앞서 애플은 임직원 중국 출장을 '경영 활동에 매우 중요한 상황'으로 제한하고, 매장 청소와 직원 체온 점검을 강화한다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 중국 본토의 모든 공식 매장을 임시 폐쇄했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신종 코로나 바이러스 감염증 확산에 따른 조치로 폐쇄 기간은 현지시간 9일 밤 12시까지다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "애플은 성명을 통해 “신종 코로나 바이러스 영향을 가장 직접적으로 받은 이들과 바이러스 연구·억제를 위해 밤낮으로 일하는 이들의 마음을 함께 한다”며 중국 내 매장과 사무실, 고객센터 문을 닫는다고 밝혔다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "애플 중국어 홈페이지에도 '최근 공중 보건과 예방에 관한 우려 때문에 모든 매장을 2월9일 밤 12시까지 임시 폐쇄한다'고 공지했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만 온라인 매장은 계속 영업한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "블룸버그통신에 따르면 앞서 애플은 임직원 중국 출장을 '경영 활동에 매우 중요한 상황'으로 제한하고, 매장 청소와 직원 체온 점검을 강화한다고 밝혔다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]애플, 신종 코로나로 中 모든 매장 임시 폐쇄",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

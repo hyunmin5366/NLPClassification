@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329305",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "보안 완벽 블록체인?, '51% 공격'으로 올해만 2000만달러 털렸다",
+		"newsSubTitle": "",
+		"newsContent": "블록체인을 무력화하는 '51% 공격'으로 올해만 2000만달러(227억원)가량 피해가 발생했다.\n올해 4~6월 비트코인골드, 젠캐시, 버지코인 등이 잇달아 공격받아 일부 거래소는 해당 코인 거래를 정지시켰다.\n국내서도 블록 내 암호를 풀면(채굴하면) 일정한 보상을 주는 작업증명(PoW) 방식을 채용한 다양한 기업 코인이 발행돼 블록체인 안전성 검토가 필요하다는 지적이 나온다.\n31일 사이버범죄 조사기업 그룹-IB가 발표한 '첨단 범죄 동향(Hi-Tech Crime Trends 2018)' 보고서에 따르면 올해 해커의 블록체인 무력화 '51% 공격'으로 1950만달러가 탈취됐다.\n이들 공격은 상대적으로 블록체인 블록 규모가 작은 소규모 암호화폐에 집중됐다.\n51% 공격은 블록체인 네트워크에서 특정 집단이나 개인이 전체 절반을 초과한 컴퓨팅 연산자원(해싱파워)을 확보해 원장 기록을 위·변조하는 행위다.\n해커는 블록체인에서 절반 이상(51%) 참여자 동의가 있으면 해당 노드 내용·정보 등 변경 가능하다는 점을 노렸다.\n51% 공격으로 네트워크 통제 가능하기 때문에 시스템 정지, 거래 검증·채굴작업 중단뿐 아니라 거래 확인도 할 수 없게 한다.\n블록체인 네트워크에 두 가지 거래를 동시에 진행하는 이중지불 행위까지 가능해진다.\n한 쪽으로는 채굴을 계속하면서 다른 쪽으로는 따로 거래를 발생시켜 거래소 등을 통해 돈을 빼돌리는 것이다.\n보고서는 “이중 결제가 작업증명 블록체인의 가장 큰 위협”이라면서 “전체 네트워크 파워를 제어하지 않고도 해커가 모든 것을 통제해 51% 장악으로 만들어진 블록은 기존 원장을 대체하게 된다”고 설명했다.\n올해 해커 공격은 소규모 블록체인을 형성한 알트코인에 집중됐다.\n채굴 경쟁이 높거나 이미 상당한 블록을 형성한 비트코인 등은 절반이상 네트워크를 확보하는 것이 불가능에 가깝다.\n때문에 채굴 경쟁이 낮은 소규모 코인에 공격이 몰린다.\n올해 4월 버지코인은 51% 공격으로 100만달러가 탈취됐고 6월 젠캐시도 55만달러가 털렸다.\n라이트코인은 해커 공격으로 원활한 블록형성 등이 되지 않았다.\n올해 가장 큰 피해는 비트코인골드(BTG)에서 발생했다.\n공격자는 BTG 네트워크 대부분을 장악해 38만8200BTG를 개인 지갑으로 전송했다.\n이 여파로 미국 비트렉스 거래소가 BTG를 상장폐지 시켰고 국내서도 업비트 등이 해당 코인을 퇴출 시켰다.\n김용대 KAIST 교수는 “메인넷에 코인이 올라가거나 상장되면 해커 공격 대상이 돼 대책을 세워야 한다”면서 “51% 공격 외에도 블록체인을 무력화시키는 공격이 이미 세계 각지에서 시도되고 있는 만큼 주의해야 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "블록체인을 무력화하는 '51% 공격'으로 올해만 2000만달러(227억원)가량 피해가 발생했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올해 4~6월 비트코인골드, 젠캐시, 버지코인 등이 잇달아 공격받아 일부 거래소는 해당 코인 거래를 정지시켰다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내서도 블록 내 암호를 풀면(채굴하면) 일정한 보상을 주는 작업증명(PoW) 방식을 채용한 다양한 기업 코인이 발행돼 블록체인 안전성 검토가 필요하다는 지적이 나온다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "31일 사이버범죄 조사기업 그룹-IB가 발표한 '첨단 범죄 동향(Hi-Tech Crime Trends 2018)' 보고서에 따르면 올해 해커의 블록체인 무력화 '51% 공격'으로 1950만달러가 탈취됐다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들 공격은 상대적으로 블록체인 블록 규모가 작은 소규모 암호화폐에 집중됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "51% 공격은 블록체인 네트워크에서 특정 집단이나 개인이 전체 절반을 초과한 컴퓨팅 연산자원(해싱파워)을 확보해 원장 기록을 위·변조하는 행위다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해커는 블록체인에서 절반 이상(51%) 참여자 동의가 있으면 해당 노드 내용·정보 등 변경 가능하다는 점을 노렸다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "51% 공격으로 네트워크 통제 가능하기 때문에 시스템 정지, 거래 검증·채굴작업 중단뿐 아니라 거래 확인도 할 수 없게 한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "블록체인 네트워크에 두 가지 거래를 동시에 진행하는 이중지불 행위까지 가능해진다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한 쪽으로는 채굴을 계속하면서 다른 쪽으로는 따로 거래를 발생시켜 거래소 등을 통해 돈을 빼돌리는 것이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "보고서는 “이중 결제가 작업증명 블록체인의 가장 큰 위협”이라면서 “전체 네트워크 파워를 제어하지 않고도 해커가 모든 것을 통제해 51% 장악으로 만들어진 블록은 기존 원장을 대체하게 된다”고 설명했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "올해 해커 공격은 소규모 블록체인을 형성한 알트코인에 집중됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "채굴 경쟁이 높거나 이미 상당한 블록을 형성한 비트코인 등은 절반이상 네트워크를 확보하는 것이 불가능에 가깝다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "때문에 채굴 경쟁이 낮은 소규모 코인에 공격이 몰린다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "올해 4월 버지코인은 51% 공격으로 100만달러가 탈취됐고 6월 젠캐시도 55만달러가 털렸다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "라이트코인은 해커 공격으로 원활한 블록형성 등이 되지 않았다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "올해 가장 큰 피해는 비트코인골드(BTG)에서 발생했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "공격자는 BTG 네트워크 대부분을 장악해 38만8200BTG를 개인 지갑으로 전송했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이 여파로 미국 비트렉스 거래소가 BTG를 상장폐지 시켰고 국내서도 업비트 등이 해당 코인을 퇴출 시켰다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "김용대 KAIST 교수는 “메인넷에 코인이 올라가거나 상장되면 해커 공격 대상이 돼 대책을 세워야 한다”면서 “51% 공격 외에도 블록체인을 무력화시키는 공격이 이미 세계 각지에서 시도되고 있는 만큼 주의해야 한다”고 말했다.",
+				"sentenceSize": 126
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "보안 완벽 블록체인?, '51% 공격'으로 올해만 2000만달러 털렸다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

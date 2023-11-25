@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337775",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "\\\"가짜기지국 신호 통한 해킹 주의보\\\"...포지티브테크놀로지",
+		"newsSubTitle": "",
+		"newsContent": "해커 조직이 기지국 신호를 조작해 이동통신망에 교란을 일으키는 '가짜 기지국 공격'에 대응해야 한다는 보안전문기업 조언이 나왔다.\n이동통신망 보안전문기업인 포지티브테크놀로지스는 13일 '가짜 기지국 네트워크 취약점' 보고서를 통해 한국을 포함한 글로벌 이동통신망에 새로운 유형의 공격 위협이 증가하고 있다고 경고했다.\n김성준 포지티브테크놀로지스코리아 대표는 “해킹 기술이 발달하면서 롱텀에벌루션(LTE) 기지국 신호를 방해하거나, 정당한 연결인 것처럼 속이는 가짜 기지국을 이용한 공격이 증가하고 있다”며 “특정 장소 내 단말에서 LTE가 2G·3G로 인위적으로 전환(fallback) 처리되는 상황이 자주 발생한다면 통신망에 대해 주의를 기울이고 살펴봐야 한다”고 설명했다.\n해커가 시중에서 쉽게 구할 수 있는 다양한 무선 전파발신 장비에 자체 소프트웨어(SW)를 설치하는 방식으로 가짜 기지국을 구축해 이동통신망을 공격하는 사례가 발견되고 있다.\n가짜 기지국은 정상적인 연결을 제공하는 기지국을 모방해 허위 신호를 생성, 커버리지 내 단말기에 공격을 시도한다.\n단순한 기능으로 음성·데이터 등 복잡한 기능을 수행하지는 못한다.\n하지만, 가짜 기지국이 통신망에 접속하면 단말기고유정보(IMEI) 검색과 문자메시지(SMS) 발송 등을 통해 과도한 신호를 보내는 방식으로 특정범위 내 통신망 운영을 교란시키에는 충분하다는 진단이다.\n3G 가짜 기지국을 설치해 침투에 성공할 경우 LTE, 5G 통신망 등 전체에 영향을 끼칠 수 있다고 경고했다.\n가짜 기지국은 실제 해외에서 다양한 사례가 발견되고 있으며, 국내 이통사도 대응을 준비해야 한다고 조언했다.\n김 대표는 “가짜 기지국 공격은 네트워크 운영시스템에서 이상탐지 기능 모니터링을 통해 1차적으로 예방이 가능하다”며 “알려지지 않은 기지국으로부터의 신호 접속, 데이터 전송 등을 파악할 수 있도록 네트워크 가시성을 충분히 확보하는 게 중요하다”고 말했다.\n이어 그는 “이통사는 탐지·분석·차단 기술력으로 효과적인 대응을 준비해야 한다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "해커 조직이 기지국 신호를 조작해 이동통신망에 교란을 일으키는 '가짜 기지국 공격'에 대응해야 한다는 보안전문기업 조언이 나왔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이동통신망 보안전문기업인 포지티브테크놀로지스는 13일 '가짜 기지국 네트워크 취약점' 보고서를 통해 한국을 포함한 글로벌 이동통신망에 새로운 유형의 공격 위협이 증가하고 있다고 경고했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김성준 포지티브테크놀로지스코리아 대표는 “해킹 기술이 발달하면서 롱텀에벌루션(LTE) 기지국 신호를 방해하거나, 정당한 연결인 것처럼 속이는 가짜 기지국을 이용한 공격이 증가하고 있다”며 “특정 장소 내 단말에서 LTE가 2G·3G로 인위적으로 전환(fallback) 처리되는 상황이 자주 발생한다면 통신망에 대해 주의를 기울이고 살펴봐야 한다”고 설명했다.",
+				"sentenceSize": 200
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해커가 시중에서 쉽게 구할 수 있는 다양한 무선 전파발신 장비에 자체 소프트웨어(SW)를 설치하는 방식으로 가짜 기지국을 구축해 이동통신망을 공격하는 사례가 발견되고 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가짜 기지국은 정상적인 연결을 제공하는 기지국을 모방해 허위 신호를 생성, 커버리지 내 단말기에 공격을 시도한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "단순한 기능으로 음성·데이터 등 복잡한 기능을 수행하지는 못한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만, 가짜 기지국이 통신망에 접속하면 단말기고유정보(IMEI) 검색과 문자메시지(SMS) 발송 등을 통해 과도한 신호를 보내는 방식으로 특정범위 내 통신망 운영을 교란시키에는 충분하다는 진단이다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "3G 가짜 기지국을 설치해 침투에 성공할 경우 LTE, 5G 통신망 등 전체에 영향을 끼칠 수 있다고 경고했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "가짜 기지국은 실제 해외에서 다양한 사례가 발견되고 있으며, 국내 이통사도 대응을 준비해야 한다고 조언했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "김 대표는 “가짜 기지국 공격은 네트워크 운영시스템에서 이상탐지 기능 모니터링을 통해 1차적으로 예방이 가능하다”며 “알려지지 않은 기지국으로부터의 신호 접속, 데이터 전송 등을 파악할 수 있도록 네트워크 가시성을 충분히 확보하는 게 중요하다”고 말했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이어 그는 “이통사는 탐지·분석·차단 기술력으로 효과적인 대응을 준비해야 한다”고 덧붙였다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"가짜기지국 신호 통한 해킹 주의보\\\"...포지티브테크놀로지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

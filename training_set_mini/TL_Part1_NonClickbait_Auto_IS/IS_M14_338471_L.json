@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338471",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[2017 SAP 사파이어나우]SAP, '구글-AWS-MS' 클라우드 지원 강화",
+		"newsSubTitle": "",
+		"newsContent": "SAP가 클라우드 플랫폼 지원을 확대한다.\nSAP 고객은 구글, 아마존웹서비스(AWS), 마이크로소프트(MS) 등 다양한 클라우드 환경에서 SAP 제품을 개발, 구동한다.\nSAP는 16일(현지시간) 미국 올랜도에서 열린 '사파이어 나우'에서 이 같은 클라우드 지원 전략을 발표했다.\nSAP 고객사는 SAP뿐 아니라 'AWS(출시)' 'MS 애저(퍼블릭 프리뷰)', '구글 클라우드 플랫폼(데모 공개)' 등 다양한 인프라형소프트웨어(IaaS) 중에서 원하는 업체를 선택해 앱 개발과 구동에 활용한다.\n멀티클라우드 환경은 SAP 클라우드 플랫폼에서 손쉽게 관리한다. '클라우드 파운더리' 기반 SAP 플랫폼은 자바(Java), 노드(Node.js)와 SAP 하나 확장 앱 서비스를 포함해 다언어 런타임 환경을 포함한다.\nSAP는 클라우드 플랫폼에서 고객사가 다양한 애플리케이션프로그래밍환경(API), SAP 파트너 앱과 디지털 비즈니스 서비스를 쉽게 검색, 구입하는 환경을 마련했다. 'SAP API 비즈니스 허브'에서는 SAP S/4 하나, SAP 하이브리스, SAP 아리바 솔루션을 위한 수백 개 새로운 API와 통합 플로우를 제공한다.\n고객사는 'SAP 앱 센터' 에서 각종 파트너 앱을 살펴보고 구입, 구동한다.\n이 밖에 SAP 클라우드 플랫폼은 △사물 인터넷 공식 출시 버전 △SAP 레오나르도 상 앱 지원을 위한 빅 데이터 서비스 △새로운 모바일 서비스 △SAP 피오리 클라우드 앱 개발과 구동 등을 제공한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SAP가 클라우드 플랫폼 지원을 확대한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SAP 고객은 구글, 아마존웹서비스(AWS), 마이크로소프트(MS) 등 다양한 클라우드 환경에서 SAP 제품을 개발, 구동한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SAP는 16일(현지시간) 미국 올랜도에서 열린 '사파이어 나우'에서 이 같은 클라우드 지원 전략을 발표했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SAP 고객사는 SAP뿐 아니라 'AWS(출시)' 'MS 애저(퍼블릭 프리뷰)', '구글 클라우드 플랫폼(데모 공개)' 등 다양한 인프라형소프트웨어(IaaS) 중에서 원하는 업체를 선택해 앱 개발과 구동에 활용한다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "멀티클라우드 환경은 SAP 클라우드 플랫폼에서 손쉽게 관리한다. '클라우드 파운더리' 기반 SAP 플랫폼은 자바(Java), 노드(Node.js)와 SAP 하나 확장 앱 서비스를 포함해 다언어 런타임 환경을 포함한다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SAP는 클라우드 플랫폼에서 고객사가 다양한 애플리케이션프로그래밍환경(API), SAP 파트너 앱과 디지털 비즈니스 서비스를 쉽게 검색, 구입하는 환경을 마련했다. 'SAP API 비즈니스 허브'에서는 SAP S/4 하나, SAP 하이브리스, SAP 아리바 솔루션을 위한 수백 개 새로운 API와 통합 플로우를 제공한다.",
+				"sentenceSize": 179
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "고객사는 'SAP 앱 센터' 에서 각종 파트너 앱을 살펴보고 구입, 구동한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 밖에 SAP 클라우드 플랫폼은 △사물 인터넷 공식 출시 버전 △SAP 레오나르도 상 앱 지원을 위한 빅 데이터 서비스 △새로운 모바일 서비스 △SAP 피오리 클라우드 앱 개발과 구동 등을 제공한다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2017 SAP 사파이어나우]SAP, '구글-AWS-MS' 클라우드 지원 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

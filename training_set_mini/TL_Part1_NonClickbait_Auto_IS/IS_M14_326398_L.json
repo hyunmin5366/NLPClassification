@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326398",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "아케소 '룸바냅', '2020 한국의 소비자대상' 건강기능용품 대상 수상",
+		"newsSubTitle": "",
+		"newsContent": "건강용품 브랜드 아케소(AKESO)의 허리 스트레칭기구 '룸바냅'이 '2020 한국의 소비자대상'에서 건강기능용품 부문 대상을 수상했다.\n룸바냅은 소비자의 이용 경험, 브랜드 선호도, 소비자와 약속 이행, 브랜드 건강지수와 안전성 평가에서 좋은 점수를 받았다.\n룸바냅은 건강한 척추와 골반의 안전하고 효과적인 롤링 움직임을 구현하도록 고안됐다.\n회전롤링 구조를 이용해 허리에 수분, 산소, 영양을 원활하게 공급할 수 있도록 하는 제품이다.\n허리 근육을 늘려 스트레칭 효과를 얻을 수 있고 허리와 골반을 연결하는 근육 및 인대를 자극해 허리와 골반의 긴장을 풀어준다.\n아케소는 “집에서 편하게 허리관리를 할 수 있다는 점 때문에 인기”라면서 “끊임없는 연구개발로 더 우수한 제품으로 고객에게 보답할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "건강용품 브랜드 아케소(AKESO)의 허리 스트레칭기구 '룸바냅'이 '2020 한국의 소비자대상'에서 건강기능용품 부문 대상을 수상했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "룸바냅은 소비자의 이용 경험, 브랜드 선호도, 소비자와 약속 이행, 브랜드 건강지수와 안전성 평가에서 좋은 점수를 받았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "룸바냅은 건강한 척추와 골반의 안전하고 효과적인 롤링 움직임을 구현하도록 고안됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "회전롤링 구조를 이용해 허리에 수분, 산소, 영양을 원활하게 공급할 수 있도록 하는 제품이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "허리 근육을 늘려 스트레칭 효과를 얻을 수 있고 허리와 골반을 연결하는 근육 및 인대를 자극해 허리와 골반의 긴장을 풀어준다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아케소는 “집에서 편하게 허리관리를 할 수 있다는 점 때문에 인기”라면서 “끊임없는 연구개발로 더 우수한 제품으로 고객에게 보답할 것”이라고 말했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아케소 '룸바냅', '2020 한국의 소비자대상' 건강기능용품 대상 수상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

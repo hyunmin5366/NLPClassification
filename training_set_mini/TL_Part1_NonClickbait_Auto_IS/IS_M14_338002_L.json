@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338002",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "SK주식회사 C&C, 콘텐츠 기업 디지털 전환 전략 세미나 개최",
+		"newsSubTitle": "",
+		"newsContent": "SK주식회사 C&C는 '스마트 콘텐츠 기업 대상 디지털 트랜스포메이션 전략 세미나'를 13일 개최했다.\n게임, 교육콘텐츠 제작, 음원 유통, 케이블 등 콘텐츠 기업 직원 200명이 참석했다.\n참석자는 디지털 전환 기술 기반 글로벌 사업 확장과 현지시장 ?춤형 디지털 혁신 사업∙서비스 모델에 관심을 보였다.\nSK주식회사 C&C 인공지능(AI) '에이브릴'과 '클라우드제트(Cloud Z)'를 활용하면 빅데이터 기반 최적 글로벌 상폼∙서비스 방향 설정은 물론, 고객별 개인화∙추천 서비스 구성이 가능하다.\n한류 콘텐츠의 빠른 글로벌 확산을 위해 클라우드 제트 CDN도 관심사다.\n미디어 기업 전용 콘텐츠 전송 네트워크 서비스다.\n별도 계약 없이 클라우드 제트 포털에서 북미∙유럽∙중국 등 글로벌 주요 지역 클라우드CDN 서비스를 이용한다.\n이준영 SK주식회사 C&C 통신사업부문장은 \\\"인공지능, 빅데이터, 클라우드 등 기술력과 전문가가 참여하는 지원 프로그램으로 스마트 콘텐츠 산업 혁신을 하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK주식회사 C&C는 '스마트 콘텐츠 기업 대상 디지털 트랜스포메이션 전략 세미나'를 13일 개최했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "게임, 교육콘텐츠 제작, 음원 유통, 케이블 등 콘텐츠 기업 직원 200명이 참석했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "참석자는 디지털 전환 기술 기반 글로벌 사업 확장과 현지시장 ?춤형 디지털 혁신 사업∙서비스 모델에 관심을 보였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SK주식회사 C&C 인공지능(AI) '에이브릴'과 '클라우드제트(Cloud Z)'를 활용하면 빅데이터 기반 최적 글로벌 상폼∙서비스 방향 설정은 물론, 고객별 개인화∙추천 서비스 구성이 가능하다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한류 콘텐츠의 빠른 글로벌 확산을 위해 클라우드 제트 CDN도 관심사다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미디어 기업 전용 콘텐츠 전송 네트워크 서비스다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "별도 계약 없이 클라우드 제트 포털에서 북미∙유럽∙중국 등 글로벌 주요 지역 클라우드CDN 서비스를 이용한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이준영 SK주식회사 C&C 통신사업부문장은 \\\"인공지능, 빅데이터, 클라우드 등 기술력과 전문가가 참여하는 지원 프로그램으로 스마트 콘텐츠 산업 혁신을 하겠다\\\"고 말했다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK주식회사 C&C, 콘텐츠 기업 디지털 전환 전략 세미나 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

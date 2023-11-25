@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324105",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "소재",
+		"newsTitle": "日 모리타 화학공업, 반년만에 액체 불화수소 韓수출…작년 말 허가",
+		"newsSubTitle": "",
+		"newsContent": "일본 화학업체가 약 6개월 만에 우리나라로 고순도 불화수소를 수출한다고 니혼게이자이신문이 10일 보도했다.\n보도에 따르면 모리타 화학공업은 일본 정부 허가를 받아 우리나라로 수출할 액체 고순도 불화수소를 이달 8일 출하했다.\n이 업체는 작년 12월 24일 일본 정부로부터 우리나라 수출 허가를 얻었다.\n이에 따라 작년 7월 이후 이어진 수출이 불가능한 상황이 해소되게 됐다고 닛케이는 전했다.\n모리타화학은 한국의 불화수소 시장의 약 3분의 1을 점유한다.\n삼성전자와 SK하이닉스 등에 제품을 공급해 왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 화학업체가 약 6개월 만에 우리나라로 고순도 불화수소를 수출한다고 니혼게이자이신문이 10일 보도했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "보도에 따르면 모리타 화학공업은 일본 정부 허가를 받아 우리나라로 수출할 액체 고순도 불화수소를 이달 8일 출하했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 업체는 작년 12월 24일 일본 정부로부터 우리나라 수출 허가를 얻었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 작년 7월 이후 이어진 수출이 불가능한 상황이 해소되게 됐다고 닛케이는 전했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "모리타화학은 한국의 불화수소 시장의 약 3분의 1을 점유한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자와 SK하이닉스 등에 제품을 공급해 왔다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "日 모리타 화학공업, 반년만에 액체 불화수소 韓수출…작년 말 허가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

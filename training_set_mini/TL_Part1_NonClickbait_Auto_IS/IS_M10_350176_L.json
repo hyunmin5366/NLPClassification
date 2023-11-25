@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350176",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "네이버 \\\"AI로 코로나19 백신 접종 이상반응 체크\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "네이버(NAVER) 인공지능(AI)이 코로나19(COVID-19) 백신 접종자 이상 반응을 관리한다.\n네이버는 다음달부터 전북 전주에서 AI 기반 '클로바 케어콜' 솔루션으로 백신 접종자 모니터링 시범 서비스를 진행한다고 31일 밝혔다.\n클로바 케어콜이 백신 접종일로부터 3일 간 매일 한 차례 전화를 걸어 접종자의 이상반응 여부를 확인한다.\n접종자가 이상반응이 있다고 응답하면 방역 담당자가 2차 확인 및 집중관리에 나선다.\n전주시는 일부 지역에서 75세 이상 어르신을 대상으로 클로바 케어콜 서비스를 시범 적용, 한 달간 운영 후 대상 지역을 확대한다.\n김승수 전주시장은 \\\"네이버의 인공지능 기술이 코로나19 대응 인력의 업무 부담을 해소해 원활한 백신 접종을 이어 나가는 데 큰 도움이 될 것\\\"이라고 말했다.\n네이버는 지난해 3월 국내 기업 최초로 코로나19 능동 감시자 모니터링을 위한 클로바 케어콜 솔루션을 개발해 성남, 부산, 수원, 서초, 인천 부평, 의정부, 화성에 무료 제공 중이다.\n정석근 네이버 클로바CIC 대표는 \\\"감염 확산 관리에 이어 백신 접종 시기에도 많은 의료진들이 본연의 업무에 집중하실 수 있도록 클로바 케어콜을 고도화해 나가는 한편, 다양한 지자체와 협력을 확대해 나가겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버(NAVER) 인공지능(AI)이 코로나19(COVID-19) 백신 접종자 이상 반응을 관리한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버는 다음달부터 전북 전주에서 AI 기반 '클로바 케어콜' 솔루션으로 백신 접종자 모니터링 시범 서비스를 진행한다고 31일 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "클로바 케어콜이 백신 접종일로부터 3일 간 매일 한 차례 전화를 걸어 접종자의 이상반응 여부를 확인한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "접종자가 이상반응이 있다고 응답하면 방역 담당자가 2차 확인 및 집중관리에 나선다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전주시는 일부 지역에서 75세 이상 어르신을 대상으로 클로바 케어콜 서비스를 시범 적용, 한 달간 운영 후 대상 지역을 확대한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김승수 전주시장은 \\\"네이버의 인공지능 기술이 코로나19 대응 인력의 업무 부담을 해소해 원활한 백신 접종을 이어 나가는 데 큰 도움이 될 것\\\"이라고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버는 지난해 3월 국내 기업 최초로 코로나19 능동 감시자 모니터링을 위한 클로바 케어콜 솔루션을 개발해 성남, 부산, 수원, 서초, 인천 부평, 의정부, 화성에 무료 제공 중이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "정석근 네이버 클로바CIC 대표는 \\\"감염 확산 관리에 이어 백신 접종 시기에도 많은 의료진들이 본연의 업무에 집중하실 수 있도록 클로바 케어콜을 고도화해 나가는 한편, 다양한 지자체와 협력을 확대해 나가겠다\\\"고 말했다.",
+				"sentenceSize": 124
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버 \\\"AI로 코로나19 백신 접종 이상반응 체크\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

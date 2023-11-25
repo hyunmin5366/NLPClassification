@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008610",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "참치캔 가격 줄줄이 오른다",
+		"newsSubTitle": "사조산업 오늘 10%·동원F&B 16일부터 9% ↑",
+		"newsContent": "국제 원자재 가격 인상으로 밀가루, 빵류의 가격 인상이 올 초 한차례 이뤄진데 이어 참치캔의 가격 인상도 러시를 이루고 있다.\n동원F&B는 오는 16일부터 참치캔 출고가격을 평균 9% 인상한다.\n앞서 사조산업도 10일부터 참치캔 15개 품목의 소매가격을 10%가량 인상할 계획을 밝힌 바 있다.\n이번 인상 계획에 따라 동원 '델큐브참치'와 '비빔참치'를 제외한 살코기 및 가미캔 제품 총 60여개 품목이 가격이 오른다.\n이에 따라 대형마트 기준으로 '동원 살코기참치'(150g)와 '동원 고추장참치(150g)은 기존 2000원에서 각각 9% 오른 2180원, '동원 라이트 튜나'(170g)는 2500원에서 8% 오른 2700원에 판매된다.\n업계에서는 이번 가격인상은 참치 원어 가격이 1년새 40% 이상 오르는 등 원·부자재 가격이 상승했기 때문으로 풀이했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국제 원자재 가격 인상으로 밀가루, 빵류의 가격 인상이 올 초 한차례 이뤄진데 이어 참치캔의 가격 인상도 러시를 이루고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "동원F&B는 오는 16일부터 참치캔 출고가격을 평균 9% 인상한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 사조산업도 10일부터 참치캔 15개 품목의 소매가격을 10%가량 인상할 계획을 밝힌 바 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 인상 계획에 따라 동원 '델큐브참치'와 '비빔참치'를 제외한 살코기 및 가미캔 제품 총 60여개 품목이 가격이 오른다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 대형마트 기준으로 '동원 살코기참치'(150g)와 '동원 고추장참치(150g)은 기존 2000원에서 각각 9% 오른 2180원, '동원 라이트 튜나'(170g)는 2500원에서 8% 오른 2700원에 판매된다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "업계에서는 이번 가격인상은 참치 원어 가격이 1년새 40% 이상 오르는 등 원·부자재 가격이 상승했기 때문으로 풀이했다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'클린' 스타트업이 뜬다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

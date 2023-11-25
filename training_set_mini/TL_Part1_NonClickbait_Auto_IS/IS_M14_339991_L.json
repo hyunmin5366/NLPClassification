@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339991",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "BMW, 中창청자동차와 외주 제작 협의 중",
+		"newsSubTitle": "",
+		"newsContent": "BMW가 외주 제작 업체로 중국 창청자동차와 협의 중이라는 보도가 나왔다.\n12일 블룸버그통신은 복수의 소식통을 인용해 BMW가 자사 유력 브랜드인 '미니(Mini)'를 외주 생산 제작을 위해 창청자동차와 협의 중이라고 보도했다.\n창청자동차는 중국 유력 스포츠유틸리티차량(SUV) 제조사다.\nBMW가 올 초부터 8월까지 전세계에서 판매한 미니 모델은 23만대 수준이다.\nBMW는 이미 2016년 중국 선양의 브릴리언스차이나자동차와 합작해 현지 생산에 나선 반면 창청은 중국 내 합작사를 갖고 있지 않다.\n앞서 양사의 합작설은 지난 11일 중국 매체인 아이오토데일리닷컴의 보도로 불거졌다.\n창청자동차 주가는 합작설에 힘입어 11일 14.4% 상승 마감했다.\n반면 BMW 주가는 12일 장 초반 0.4% 하락 거래 중이다.\n앞서 창청자동차는 지난 8월 오프로드 차량 메이커 지프(Jeep)를 인수하겠다는 뜻을 내비치면서 주가가 급등했으나 하루 만에 입장을 번복했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "BMW가 외주 제작 업체로 중국 창청자동차와 협의 중이라는 보도가 나왔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 블룸버그통신은 복수의 소식통을 인용해 BMW가 자사 유력 브랜드인 '미니(Mini)'를 외주 생산 제작을 위해 창청자동차와 협의 중이라고 보도했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "창청자동차는 중국 유력 스포츠유틸리티차량(SUV) 제조사다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "BMW가 올 초부터 8월까지 전세계에서 판매한 미니 모델은 23만대 수준이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "BMW는 이미 2016년 중국 선양의 브릴리언스차이나자동차와 합작해 현지 생산에 나선 반면 창청은 중국 내 합작사를 갖고 있지 않다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 양사의 합작설은 지난 11일 중국 매체인 아이오토데일리닷컴의 보도로 불거졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "창청자동차 주가는 합작설에 힘입어 11일 14.4% 상승 마감했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "반면 BMW 주가는 12일 장 초반 0.4% 하락 거래 중이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "앞서 창청자동차는 지난 8월 오프로드 차량 메이커 지프(Jeep)를 인수하겠다는 뜻을 내비치면서 주가가 급등했으나 하루 만에 입장을 번복했다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "BMW, 中창청자동차와 외주 제작 협의 중",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

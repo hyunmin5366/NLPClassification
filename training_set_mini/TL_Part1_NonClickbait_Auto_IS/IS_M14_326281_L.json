@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326281",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "국산 DBMS로 이통사 실시간 요금 시스템 구축···클라우드 DB 확산한다",
+		"newsSubTitle": "",
+		"newsContent": "선재소프트가 SK텔레콤 실시간 요금 시스템 구축 사업에 데이터베이스관리시스템(DBMS)을 공급했다.\n클라우드 DBMS를 구현, 데이터 처리 용량이 급증하더라도 시스템 안정 운영이 가능하다.\n국내 1위 이동통신사업자가 선택한 만큼 통신 분야를 시작으로 공공 등 다양한 산업에 클라우드 DBMS 도입 확대가 기대된다.\n김기완 선재소프트 대표는 14일 \\\"실시간 요금제는 데이터 처리 속도뿐만 아니라 정확한 처리도 중요하다\\\"면서 \\\"외산 솔루션 위주 시장에서 SK텔레콤이 성능 비교 등을 거쳐 국산 제품을 채택한 만큼 책임감을 발휘해서 9월 개통 때까지 시스템 구축에 주력하겠다\\\"고 각오를 다졌다.\nSK텔레콤이 외산이 아닌 선재소프트 '골디락스 클라우드'를 도입한 이유는 뛰어난 성능 때문이다.\n클라우드 데이터베이스(DB)는 실시간 대용량 데이터 처리 필수 시스템이다.\n골디락스는 △시스템 자동 확장∙운영(스케일 아웃∙스케일 인) △실시간 데이터 처리(액티브-액티브) △클라우드 장애 발생 시 서비스 지속성(클라우드 컨테이너 노드 장애 대응력) 분야 테스트에서 높은 점수를 받았다.\n쿠버네티스 기반의 컨테이너 통합 관리 기능을 제공, 편의성을 높였다.\n시스템이 작동하는 '온라인 트랜잭션' 상태에서도 스케일 아웃과 스케일 인이 가능하다는 점도 특징이다.\n골디락스 클라우드는 서비스형인프라(IaaS)뿐만 아니라 사내 구축(온프레미스) 환경에서도 클라우드 DB를 구현한다.\n이용자는 시스템 환경 고민 없이 골디락스를 설치∙운영할 수 있다.\n김 대표는 \\\"실시간 과금 처리는 하루 100억건 이상 데이터를 다루기 때문에 고성능 DBMS가 필요하다\\\"면서 \\\"골디락스는 수년간 연구개발(R&D) 투자를 통해 클라우드 기반의 고성능 요소를 강화했고, SK텔레콤 도입으로 성능을 입증했다\\\"고 설명했다.\n최근 여러 분야에서 클라우드 DBMS 수요가 높아지고 있는 추세를 보이고 있다.\n갈수록 데이터 양이 급증하고 안정 처리가 중요해지면서 기존 DBMS로는 대응하기 어려운 상황이다.\n공공도 차세대 시스템을 준비하면서 클라우드 DB 도입을 고민하고 있는 것으로 알려졌다.\n김 대표는 \\\"시장에 이미 다양한 클라우드 DBMS 제품이 출시됐지만 아직 초기 단계여서 도입 사례가 적었다\\\"면서 \\\"SK텔레콤을 시작으로 성능을 공식 인정받으면 타 통신사 확산을 비롯해 공공 등 다른 산업으로도 빠른 속도로 확대될 것\\\"이라며 기대감을 표명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "선재소프트가 SK텔레콤 실시간 요금 시스템 구축 사업에 데이터베이스관리시스템(DBMS)을 공급했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "클라우드 DBMS를 구현, 데이터 처리 용량이 급증하더라도 시스템 안정 운영이 가능하다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내 1위 이동통신사업자가 선택한 만큼 통신 분야를 시작으로 공공 등 다양한 산업에 클라우드 DBMS 도입 확대가 기대된다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김기완 선재소프트 대표는 14일 \\\"실시간 요금제는 데이터 처리 속도뿐만 아니라 정확한 처리도 중요하다\\\"면서 \\\"외산 솔루션 위주 시장에서 SK텔레콤이 성능 비교 등을 거쳐 국산 제품을 채택한 만큼 책임감을 발휘해서 9월 개통 때까지 시스템 구축에 주력하겠다\\\"고 각오를 다졌다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SK텔레콤이 외산이 아닌 선재소프트 '골디락스 클라우드'를 도입한 이유는 뛰어난 성능 때문이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "클라우드 데이터베이스(DB)는 실시간 대용량 데이터 처리 필수 시스템이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "골디락스는 △시스템 자동 확장∙운영(스케일 아웃∙스케일 인) △실시간 데이터 처리(액티브-액티브) △클라우드 장애 발생 시 서비스 지속성(클라우드 컨테이너 노드 장애 대응력) 분야 테스트에서 높은 점수를 받았다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "쿠버네티스 기반의 컨테이너 통합 관리 기능을 제공, 편의성을 높였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "시스템이 작동하는 '온라인 트랜잭션' 상태에서도 스케일 아웃과 스케일 인이 가능하다는 점도 특징이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "골디락스 클라우드는 서비스형인프라(IaaS)뿐만 아니라 사내 구축(온프레미스) 환경에서도 클라우드 DB를 구현한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이용자는 시스템 환경 고민 없이 골디락스를 설치∙운영할 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "김 대표는 \\\"실시간 과금 처리는 하루 100억건 이상 데이터를 다루기 때문에 고성능 DBMS가 필요하다\\\"면서 \\\"골디락스는 수년간 연구개발(R&D) 투자를 통해 클라우드 기반의 고성능 요소를 강화했고, SK텔레콤 도입으로 성능을 입증했다\\\"고 설명했다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "최근 여러 분야에서 클라우드 DBMS 수요가 높아지고 있는 추세를 보이고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "갈수록 데이터 양이 급증하고 안정 처리가 중요해지면서 기존 DBMS로는 대응하기 어려운 상황이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "공공도 차세대 시스템을 준비하면서 클라우드 DB 도입을 고민하고 있는 것으로 알려졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "김 대표는 \\\"시장에 이미 다양한 클라우드 DBMS 제품이 출시됐지만 아직 초기 단계여서 도입 사례가 적었다\\\"면서 \\\"SK텔레콤을 시작으로 성능을 공식 인정받으면 타 통신사 확산을 비롯해 공공 등 다른 산업으로도 빠른 속도로 확대될 것\\\"이라며 기대감을 표명했다.",
+				"sentenceSize": 148
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국산 DBMS로 이통사 실시간 요금 시스템 구축···클라우드 DB 확산한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

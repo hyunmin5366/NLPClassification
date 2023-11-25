@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326840",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "슈퍼솔루션 '멀티 노드 GPU 서버'로 대규모 IDC 시장 두드린다",
+		"newsSubTitle": "슈퍼마이크로 제품 '2114GT-DNR' 출시 제품 한대에 서버 2대 기능 집적·성능↑ SNS 등 컴퓨팅 집약적 IDC 앱에 적합 공유전력·냉방기능으로 TCO 10% 절감",
+		"newsContent": "고성능·고효율 서버 선도기업 슈퍼마이크로컴퓨터가 기존 제품과 차별성을 띤 멀티 노드 GPU(Graphic Processing Unit) 서버 솔루션을 새롭게 선보였다.\n회사의 멀티노드 GPU 시스템은 공유 전력과 냉각기능을 십분 활용해 총소유비용(TCO)를 최대 10% 절감, 대규모 데이터센터(IDC) 운영에 적합하다.\n글로벌 기업 슈퍼마이크로컴퓨터 국내 총판기업인 슈퍼솔루션(대표 김성현)은 2U2-노드 엔비디아 A100 GPU 서버 '2114GT-DNR'를 국내 출시하고 대규모 IDC 시장 공략에 나선다고 1일 밝혔다.\n회사는 제품 한 대에 GPU 서버 2대 기능을 집적, 성능은 최대한 높이면서 운영비용은 역으로 절감하는 방안을 제시했다.\n신제품은 다중 인스턴스 하이엔드 클라우드 게이밍, 비디오 스트리밍, 소셜 네트워크 등과 같은 컴퓨팅 집약적 데이터 센터 애플리케이션에 적합한 게 특징이다.\n멀티노드 GPU 서버는 노드 당 최대 속도로 구동되는 3개의 듀얼 슬롯 PCIe(PCI Express) 4.0 GPU 또는 6개의 싱글 슬롯 PCIe GPU를 내장하고 있다.\n최대 64코어·128 PCIe 4.0 레인으로 설계, IDC 운영과정에서 에너지 효율을 높이는 것은 물론 리소스를 절약할수 있다.\n또 신제품은 빠르고 유연한 네트워킹 기능을 위해 슈퍼마이크로만의 진화된 I/O 모듈(AIOM)을 장착, 인공지능(AI)·머신러닝(ML) 애플리케이션, 딥 러닝 교육, 추론을 위한 대규모 데이터 플로우도 손쉽게 처리한다.\n멀티노드 GPU 서버 솔루션은 AMD 에픽(EPYC) 7002 시리즈, 노드 당 64코어, 128 PCIe 4.0 레인을 갖춘 차세대 프로세서로 구동된다.\nGPU 서버 발열 온도를 안정적으로 유지해 최고 성능을 지속적으로 보장한다.\n이외 멀티 GPU 노드 설계는 기존 제품과 달리 뛰어난 서비스 가용성을 제공한다.\n공유 전력·쿨링 리소스로 인해 2U 시스템의 2-노드 드로어는 쉬운 서비스 가용성을 위한 분리도 가능하다.\n플랫폼 고유 디자인과 GPU 접근성은 일반적으로 고전력을 사용하고 빈번한 유지 관리가 필요한 클라우드 게이밍 같은 까다로운 GPU 가속기 유지 관리와 업그레이드 비용을 낮춰준다.\n슈퍼솔루션 관계자는 “2U2-노드 멀티 GPU 서버는 비디오 스트리밍, 하이 엔드 클라우드 게이밍, 수많은 소셜 네트워킹 애플리케이션을 위한 완벽한 플랫폼”이라며 “서버 빌딩 블록 솔루션 설계와 리소스 절약 아키텍처는 가장 에너지 효율적인 시스템”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고성능·고효율 서버 선도기업 슈퍼마이크로컴퓨터가 기존 제품과 차별성을 띤 멀티 노드 GPU(Graphic Processing Unit) 서버 솔루션을 새롭게 선보였다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "회사의 멀티노드 GPU 시스템은 공유 전력과 냉각기능을 십분 활용해 총소유비용(TCO)를 최대 10% 절감, 대규모 데이터센터(IDC) 운영에 적합하다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "글로벌 기업 슈퍼마이크로컴퓨터 국내 총판기업인 슈퍼솔루션(대표 김성현)은 2U2-노드 엔비디아 A100 GPU 서버 '2114GT-DNR'를 국내 출시하고 대규모 IDC 시장 공략에 나선다고 1일 밝혔다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "회사는 제품 한 대에 GPU 서버 2대 기능을 집적, 성능은 최대한 높이면서 운영비용은 역으로 절감하는 방안을 제시했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신제품은 다중 인스턴스 하이엔드 클라우드 게이밍, 비디오 스트리밍, 소셜 네트워크 등과 같은 컴퓨팅 집약적 데이터 센터 애플리케이션에 적합한 게 특징이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "멀티노드 GPU 서버는 노드 당 최대 속도로 구동되는 3개의 듀얼 슬롯 PCIe(PCI Express) 4.0 GPU 또는 6개의 싱글 슬롯 PCIe GPU를 내장하고 있다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최대 64코어·128 PCIe 4.0 레인으로 설계, IDC 운영과정에서 에너지 효율을 높이는 것은 물론 리소스를 절약할수 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 신제품은 빠르고 유연한 네트워킹 기능을 위해 슈퍼마이크로만의 진화된 I/O 모듈(AIOM)을 장착, 인공지능(AI)·머신러닝(ML) 애플리케이션, 딥 러닝 교육, 추론을 위한 대규모 데이터 플로우도 손쉽게 처리한다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "멀티노드 GPU 서버 솔루션은 AMD 에픽(EPYC) 7002 시리즈, 노드 당 64코어, 128 PCIe 4.0 레인을 갖춘 차세대 프로세서로 구동된다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "GPU 서버 발열 온도를 안정적으로 유지해 최고 성능을 지속적으로 보장한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이외 멀티 GPU 노드 설계는 기존 제품과 달리 뛰어난 서비스 가용성을 제공한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "공유 전력·쿨링 리소스로 인해 2U 시스템의 2-노드 드로어는 쉬운 서비스 가용성을 위한 분리도 가능하다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "플랫폼 고유 디자인과 GPU 접근성은 일반적으로 고전력을 사용하고 빈번한 유지 관리가 필요한 클라우드 게이밍 같은 까다로운 GPU 가속기 유지 관리와 업그레이드 비용을 낮춰준다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "슈퍼솔루션 관계자는 “2U2-노드 멀티 GPU 서버는 비디오 스트리밍, 하이 엔드 클라우드 게이밍, 수많은 소셜 네트워킹 애플리케이션을 위한 완벽한 플랫폼”이라며 “서버 빌딩 블록 솔루션 설계와 리소스 절약 아키텍처는 가장 에너지 효율적인 시스템”이라고 말했다.",
+				"sentenceSize": 146
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "슈퍼솔루션 '멀티 노드 GPU 서버'로 대규모 IDC 시장 두드린다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

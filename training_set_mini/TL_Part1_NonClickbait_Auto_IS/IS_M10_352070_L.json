@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352070",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "[컨콜]카카오 \\\"픽코마 연내 프랑스 진출…글로벌 테스트베드\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "배재현 카카오 부사장(CIO·최고투자책임자)는 4일 열린 3분기 실적발표 컨퍼런스 콜에서 \\\"픽코마가 지난 9월 유럽 법인을 만들었고, 연내 프랑스에 진출할 것\\\"이라고 밝혔다.\n배 부사장은 \\\"프랑스 시장은 일본 망가에 친숙하지만 디지털화는 초기 단계\\\"라며 \\\"픽코마의 글로벌 진출의 테스트베드로 적합하다고 본다\\\"고 말했다.\n이어 \\\"카카오엔터테인먼트가 보유한 한국형 웹툰부터 일본 망가까지 아우르는 콘텐츠 라이브러리가 될 뿐만 아니라 완성된 유럽시장에 대입해 볼 수 있는 좋은 기회\\\"라고 설명했다.\n픽코마는 카카오재팬의 웹툰 플랫폼으로 지난해 7월부터 라인망가(네이버)를 밀어내고 1위를 유지하고 있다.\n한편 카카오는 이날 올해 3분기 연결 기준 매출 1조7408억원, 영업이익 1682억원을 기록했다고 밝혔다.\n이는 사상 최대실적으로 분기 기준 네이버 매출(1조7273억원)을 넘어선 것도 처음이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배재현 카카오 부사장(CIO·최고투자책임자)는 4일 열린 3분기 실적발표 컨퍼런스 콜에서 \\\"픽코마가 지난 9월 유럽 법인을 만들었고, 연내 프랑스에 진출할 것\\\"이라고 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배 부사장은 \\\"프랑스 시장은 일본 망가에 친숙하지만 디지털화는 초기 단계\\\"라며 \\\"픽코마의 글로벌 진출의 테스트베드로 적합하다고 본다\\\"고 말했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"카카오엔터테인먼트가 보유한 한국형 웹툰부터 일본 망가까지 아우르는 콘텐츠 라이브러리가 될 뿐만 아니라 완성된 유럽시장에 대입해 볼 수 있는 좋은 기회\\\"라고 설명했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "픽코마는 카카오재팬의 웹툰 플랫폼으로 지난해 7월부터 라인망가(네이버)를 밀어내고 1위를 유지하고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 카카오는 이날 올해 3분기 연결 기준 매출 1조7408억원, 영업이익 1682억원을 기록했다고 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는 사상 최대실적으로 분기 기준 네이버 매출(1조7273억원)을 넘어선 것도 처음이다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[컨콜]카카오 \\\"픽코마 연내 프랑스 진출…글로벌 테스트베드\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

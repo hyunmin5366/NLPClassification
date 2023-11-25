@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325259",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "분당차병원, 복강경 이용 간이식 수술 성공",
+		"newsSubTitle": "",
+		"newsContent": "차의과대 분당차병원(원장 김동익)은 복강경을 이용한 생체 간이식 수술에 성공했다고 26일 밝혔다.\n최성훈 외과 교수는 기증자 복부에 작은 구멍 4개를 뚫어 복강경을 삽입해 간 우엽을 절제했다.\n하복부 일부를 절개해 간을 적출했다.\n이정준 이식외과 교수는 환자 간을 제거한 후 기증자 간을 이식했다.\n간 기증자는 수술 후 특별한 합병증 없이 7일 만에, 환자는 21일 만에 퇴원했다.\n국내에서는 간이식 약 85%가 가족이나 친척 사이에 생체 간을 이식한다.\n환자에게 이식하는 간과 공여자에게 남아있는 간 모두를 정교하게 보존하면서 절제·이식해야 해 고도 의료기술이 요구된다.\n수술 시 접근이 어렵고 혈관이 많은 간 특성상 쉽게 출혈이 생긴다.\n복강경을 이용한 간이식 수술은 외과에서도 가장 어려운 수술 중 하나다.\n반면 개복수술에 비해 주위 손상이 적고, 흉터와 통증 감소로 조기에 일상생활에 복귀하는 장점이 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "차의과대 분당차병원(원장 김동익)은 복강경을 이용한 생체 간이식 수술에 성공했다고 26일 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최성훈 외과 교수는 기증자 복부에 작은 구멍 4개를 뚫어 복강경을 삽입해 간 우엽을 절제했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하복부 일부를 절개해 간을 적출했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이정준 이식외과 교수는 환자 간을 제거한 후 기증자 간을 이식했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "간 기증자는 수술 후 특별한 합병증 없이 7일 만에, 환자는 21일 만에 퇴원했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국내에서는 간이식 약 85%가 가족이나 친척 사이에 생체 간을 이식한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "환자에게 이식하는 간과 공여자에게 남아있는 간 모두를 정교하게 보존하면서 절제·이식해야 해 고도 의료기술이 요구된다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "수술 시 접근이 어렵고 혈관이 많은 간 특성상 쉽게 출혈이 생긴다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "복강경을 이용한 간이식 수술은 외과에서도 가장 어려운 수술 중 하나다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "반면 개복수술에 비해 주위 손상이 적고, 흉터와 통증 감소로 조기에 일상생활에 복귀하는 장점이 있다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "분당차병원, 복강경 이용 간이식 수술 성공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

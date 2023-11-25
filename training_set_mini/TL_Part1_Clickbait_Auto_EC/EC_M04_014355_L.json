@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014355",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "기준금리 연 1.75%… 2개월째 동결",
+		"newsSubTitle": "한은 가계부채 급증 등 영향",
+		"newsContent": "한국은행의 기준금리가 연 1.75%로 동결됐다.\n한은은 지난 15일 금융통화위원회를 열어 기준금리를 현 수준으로 유지하기로 했다고 밝혔다.\n한은은 지난해 8월, 10월, 올 3월 등 3차례에 걸쳐 기준금리를 각각 0.25%포인트 내린 뒤 2개월째 기준금리를 동결했다.\n이번 동결 결정은 지난 3월 기준금리 인하 이후 부동산과 주식 등 자산가격이 상승하고 소비가 회복되는 모습을 보이는 등 경기개선 움직임이 나타난 데 따른 것이다.\n또 가계부채 급증도 동결에 영향을 줬다.\n기준금리를 추가로 내릴 경우 가계부채 증가세를 부추겨 금융시장에 위기를 불러올 수 있다는 우려 때문이다.\n실제 지난 4월 한달간 은행의 가계대출 잔액은 사상최대 규모인 8조5000억원 증가했다.\n금융권 한 관계자는 “한은의 이번 기준금리 동결은 대부분 예상했던 결과”라며 “앞으로 소비와 투자, 수출 등이 나아지지 않는다면 금리 인하 기대감이 다시 살아날 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국은행의 기준금리가 연 1.75%로 동결됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한은은 지난 15일 금융통화위원회를 열어 기준금리를 현 수준으로 유지하기로 했다고 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한은은 지난해 8월, 10월, 올 3월 등 3차례에 걸쳐 기준금리를 각각 0.25%포인트 내린 뒤 2개월째 기준금리를 동결했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 동결 결정은 지난 3월 기준금리 인하 이후 부동산과 주식 등 자산가격이 상승하고 소비가 회복되는 모습을 보이는 등 경기개선 움직임이 나타난 데 따른 것이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 가계부채 급증도 동결에 영향을 줬다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기준금리를 추가로 내릴 경우 가계부채 증가세를 부추겨 금융시장에 위기를 불러올 수 있다는 우려 때문이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실제 지난 4월 한달간 은행의 가계대출 잔액은 사상최대 규모인 8조5000억원 증가했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "금융권 한 관계자는 “한은의 이번 기준금리 동결은 대부분 예상했던 결과”라며 “앞으로 소비와 투자, 수출 등이 나아지지 않는다면 금리 인하 기대감이 다시 살아날 것”이라고 말했다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "GS리테일·하이트진로 등 17곳 팁스 운영사 선정…스타트업 발굴·투자",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

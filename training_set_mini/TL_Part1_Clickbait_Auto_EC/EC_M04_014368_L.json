@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014368",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "제조업체 이익 늘었지만 매출은 줄어든 이유가?",
+		"newsSubTitle": "",
+		"newsContent": "올해 1분기 코스피 상장사의 수익성이 1년 전보다 눈에 띄게 좋아진 것으로 나타났다.\n사업 규모는 줄었지만 국제 유가 하락 등으로 제조 원가가 낮아지면서 이익이 개선됐기 때문이다.\n한국거래소는 제조업체 501곳의 올해 1분기 연결 기준 를 분석한 결과 매출액이 432조 8,223억원으로 작년 같은 기간보다 5.8% 감소했다고 18일 밝혔다.\n영업이익은 28조 2637억원으로 7.1% 증가했고, 순이익은 20조 9286억원으로 3.8% 늘어났다 매출액 비중이 큰 삼성전자를 제외해도 4.9%의 매출 감소를 기록했다.\n반면 삼성전자를 뺀 영업이익과 순이익은 각각 24.5%, 29.5% 증가해 이익 개선세는 더 뚜렷했다.\n지난해 1분기 5.74%였던 매출액 영업이익률은 6.53%로 0.79%포인트 올랐고 매출액 순이익률은 4.39%에서 4.84%로 0.45%포인트 개선됐다.\n이는 기업이 1000원짜리 상품을 팔았을 때 약 65원의 영업이익을 남겼고, 이중 실제 손에 쥔 돈은 48원 수준이라는 의미다.\n제조업체들의 부채비율은 128.4%로 작년 말과 비교해 0.4%포인트 감소했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 1분기 코스피 상장사의 수익성이 1년 전보다 눈에 띄게 좋아진 것으로 나타났다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사업 규모는 줄었지만 국제 유가 하락 등으로 제조 원가가 낮아지면서 이익이 개선됐기 때문이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국거래소는 제조업체 501곳의 올해 1분기 연결 기준 를 분석한 결과 매출액이 432조 8,223억원으로 작년 같은 기간보다 5.8% 감소했다고 18일 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영업이익은 28조 2637억원으로 7.1% 증가했고, 순이익은 20조 9286억원으로 3.8% 늘어났다 매출액 비중이 큰 삼성전자를 제외해도 4.9%의 매출 감소를 기록했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "반면 삼성전자를 뺀 영업이익과 순이익은 각각 24.5%, 29.5% 증가해 이익 개선세는 더 뚜렷했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 1분기 5.74%였던 매출액 영업이익률은 6.53%로 0.79%포인트 올랐고 매출액 순이익률은 4.39%에서 4.84%로 0.45%포인트 개선됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이는 기업이 1000원짜리 상품을 팔았을 때 약 65원의 영업이익을 남겼고, 이중 실제 손에 쥔 돈은 48원 수준이라는 의미다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "제조업체들의 부채비율은 128.4%로 작년 말과 비교해 0.4%포인트 감소했다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이마트X네이버 상생협업 '지역명물 챌린지' 후보상품 34개 공개",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

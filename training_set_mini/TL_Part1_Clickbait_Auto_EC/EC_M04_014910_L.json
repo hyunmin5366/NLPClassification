@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014910",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "알뜰폰 28만명, 842억 아꼈네",
+		"newsSubTitle": "우체국, 1년만에 판매처 6배로",
+		"newsContent": "우체국 알뜰폰이 2년 만에 28만여명의 가입자를 모은 것으로 나타났다.\n29일 우정사업본부에 따르면 우체국알뜰폰 2주년을 맞아 가입자를 분석한 결과 누적 가입자 수는 27만 8000여명, 통신비 절감액은 약 842억원으로 나타났다.\n2013년 9월27일 첫 판매를 시작한 우체국 알뜰폰 판매는 판매우체국이 작년 226개에서 1300개로, 제휴업체도 6개사에서 10개사로 늘어났다.\n우체국 알뜰폰의 가입자 수도 27만 8000명으로 1년 전(14만명)보다 13만8000명이 증가했다.\n이 중 LTE 가입자 비중은 1년 전보다 5.2%포인트 증가한 16.5%로 확대됐다.\n우체국 알뜰폰은 국민들의 통신비 절감에도 기여했다.\n우체국 알뜰폰 가입자의 평균통신요금은 월 1만647원으로 이동통신3사 평균(3만5884원)보다 2만5000원 낮으며, 절감비율은 70%를 넘어선다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우체국 알뜰폰이 2년 만에 28만여명의 가입자를 모은 것으로 나타났다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 우정사업본부에 따르면 우체국알뜰폰 2주년을 맞아 가입자를 분석한 결과 누적 가입자 수는 27만 8000여명, 통신비 절감액은 약 842억원으로 나타났다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2013년 9월27일 첫 판매를 시작한 우체국 알뜰폰 판매는 판매우체국이 작년 226개에서 1300개로, 제휴업체도 6개사에서 10개사로 늘어났다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우체국 알뜰폰의 가입자 수도 27만 8000명으로 1년 전(14만명)보다 13만8000명이 증가했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 중 LTE 가입자 비중은 1년 전보다 5.2%포인트 증가한 16.5%로 확대됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "우체국 알뜰폰은 국민들의 통신비 절감에도 기여했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "우체국 알뜰폰 가입자의 평균통신요금은 월 1만647원으로 이동통신3사 평균(3만5884원)보다 2만5000원 낮으며, 절감비율은 70%를 넘어선다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "금호건설, 올해 첫 도시정비사업 수주 신호탄",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

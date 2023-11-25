@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010453",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "[장바구니 물가] 폭염에 수온 상승… 오징어 풍년",
+		"newsSubTitle": "판매가 6% 내려… 채소류는 작황부진에 오름세",
+		"newsContent": "●장바구니 물가 8월 셋째주 생활물가는 폭염과 폭우가 이어지면서 채소류는 작황 부진으로 뚜렷한 상승세를 보였다.\n축산물 중 닭고기와 돼지고기는 소비 수요 감소와 반입량 증가로 약보합세에 거래됐다.\n16일 (사)한국물가협회가 조사한 8월 셋째주 생활물가동향에 따르면 닭고기는 말복이 지나면서 수요가 감소, 생닭 1㎏ 한 마리에 6600원으로 약보합세에 판매됐다.\n돼지고기 삼겹살은 반입량 증가로 500g당 2% 내린 9600원에 거래됐다.\n배추는 폭염과 폭우로 인해 출하량이 줄어 한 포기당 4.5% 오른 2300원에 판매됐다.\n양파는 재배면적 감소와 작황 부진으로 산지 출하량이 감소, 1kg당 1980원으로 지난주와 같은 시세를 유지했다.\n대파 역시 가뭄에 이은 산지 우천으로 작황이 부진했지만 수요 감소로 한 단에 11.3% 내린 2110원에 거래됐다.\n수박은 소비 수요 활발로 한 통에 7.2% 오른 1만4800원에 판매됐다.\n포도는 시설 재배분에 이어 노지 재배물량이 늘어 100g에 12.5% 내린 698원의 시세를 보였다.\n고등어는 어획량이 증가한 반면, 반입량이 줄어 한 마리에 9.1% 오른 5980원에 판매됐다.\n오징어는 산지 수온상승으로 어획량이 늘어 한 마리에 6% 내린 2800원에 거래됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "●장바구니 물가 8월 셋째주 생활물가는 폭염과 폭우가 이어지면서 채소류는 작황 부진으로 뚜렷한 상승세를 보였다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "축산물 중 닭고기와 돼지고기는 소비 수요 감소와 반입량 증가로 약보합세에 거래됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "16일 (사)한국물가협회가 조사한 8월 셋째주 생활물가동향에 따르면 닭고기는 말복이 지나면서 수요가 감소, 생닭 1㎏ 한 마리에 6600원으로 약보합세에 판매됐다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "돼지고기 삼겹살은 반입량 증가로 500g당 2% 내린 9600원에 거래됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "배추는 폭염과 폭우로 인해 출하량이 줄어 한 포기당 4.5% 오른 2300원에 판매됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양파는 재배면적 감소와 작황 부진으로 산지 출하량이 감소, 1kg당 1980원으로 지난주와 같은 시세를 유지했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대파 역시 가뭄에 이은 산지 우천으로 작황이 부진했지만 수요 감소로 한 단에 11.3% 내린 2110원에 거래됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "수박은 소비 수요 활발로 한 통에 7.2% 오른 1만4800원에 판매됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "포도는 시설 재배분에 이어 노지 재배물량이 늘어 100g에 12.5% 내린 698원의 시세를 보였다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "고등어는 어획량이 증가한 반면, 반입량이 줄어 한 마리에 9.1% 오른 5980원에 판매됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "오징어는 산지 수온상승으로 어획량이 늘어 한 마리에 6% 내린 2800원에 거래됐다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노사정 합의했지만…경제5단체, 반기 들었다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

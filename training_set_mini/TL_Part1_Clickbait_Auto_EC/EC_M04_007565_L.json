@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007565",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "대형소매점 판매, 대전 ‘웃고’ · 충남 ‘울고’",
+		"newsSubTitle": "",
+		"newsContent": "대전·충남지역 대형소매점 희비가 엇갈렸다.\n6일 충청지방통계청이 발표한 ‘10월 대형소매점 판매동향’에 따르면 대전지역 대형소매점 경상판매액이 전년 동월 대비 19.0%늘었다.\n이는 백화점과 대형마트 판매액이 각각 25.9% 13.5% 증가했기 때문이다.\n판매증가에 기인한 품목은 신발(124.0%), 내구재 기타(86.6%), 가전제품(39.3%), 가방(28.0%)순 이었다.\n반면 지난 10월 충남지역 대형소매점 경상 판매액은 지난해 같은달 대비 2.3% 감소됐다.\n대형마트 판매액은 2.1% 증가했으나 백화점을 포함한 대형 소매점 전체 판매액이 2.3% 줄었다.\n판매 감소가 큰 품목은 음식료품(-30.4%), 화장품(-18.4%), 가방(-16.5%) 등으로 조사됐다.\n한편, 10월 전국 대형 소매점 경상판매액은 지난해 같은달 대비 10.1% 증가했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전·충남지역 대형소매점 희비가 엇갈렸다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 충청지방통계청이 발표한 ‘10월 대형소매점 판매동향’에 따르면 대전지역 대형소매점 경상판매액이 전년 동월 대비 19.0%늘었다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 백화점과 대형마트 판매액이 각각 25.9% 13.5% 증가했기 때문이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "판매증가에 기인한 품목은 신발(124.0%), 내구재 기타(86.6%), 가전제품(39.3%), 가방(28.0%)순 이었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "반면 지난 10월 충남지역 대형소매점 경상 판매액은 지난해 같은달 대비 2.3% 감소됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대형마트 판매액은 2.1% 증가했으나 백화점을 포함한 대형 소매점 전체 판매액이 2.3% 줄었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "판매 감소가 큰 품목은 음식료품(-30.4%), 화장품(-18.4%), 가방(-16.5%) 등으로 조사됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 10월 전국 대형 소매점 경상판매액은 지난해 같은달 대비 10.1% 증가했다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코스피 사흘연속 하락 '연중 최저'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323502",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "퀄컴 스냅드래곤 865 플러스, 삼성 갤럭시노트20 등 신규 폰에 탑재",
+		"newsSubTitle": "",
+		"newsContent": "퀄컴 테크날러지는 삼성전자의 신규 플래그십 스마트폰에 퀄컴 스냅드래곤 865 플러스 칩이 탑재된다고 6일 밝혔다.\n삼성전자가 출시한 갤럭시노트20 울트라, 갤럭시노트20에는 출시 지역에 따라 퀄컴 스냅드래곤 865 플러스가 탑재될 예정이다.\n또 삼성 갤럭시Z폴드2와 갤럭시탭S7, S7+는 세계 모든 지역에서 퀄컴 스냅드래곤 865 플러스가 탑재됐다.\n스냅드래곤 865 플러스는 5G 기술 구현과 사용자의 인공지능(AI) 경험 향상을 위해 이전 세대보다 개선된 성능을 제공한다.\n칩에 내장된 퀄컴 크라이오 585 중앙처리장치(CPU)는 최대 3.09㎓ 속도를 제공한다.\n또 퀄컴 아드레노 650 그래픽처리장치(GPU)는 기존 스냅드래곤 865에 비해 10% 향상된 성능을 구현한다. 5세대 퀄컴 AI 엔진과 신규 퀄컴 센싱 허브는 갤럭시 사용자들에게 새로운 지능 및 개인화 기능을 제공한다.\n알렉스 카투지안 퀄컴 테크날러지 수석부사장은 “퀄컴 스냅드래곤865 플러스를 탑재한 새로운 기기는 사용자에게 차세대 연결성, 카메라, AI 및 게이밍 경험을 제공할 것이다”라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "퀄컴 테크날러지는 삼성전자의 신규 플래그십 스마트폰에 퀄컴 스냅드래곤 865 플러스 칩이 탑재된다고 6일 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자가 출시한 갤럭시노트20 울트라, 갤럭시노트20에는 출시 지역에 따라 퀄컴 스냅드래곤 865 플러스가 탑재될 예정이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 삼성 갤럭시Z폴드2와 갤럭시탭S7, S7+는 세계 모든 지역에서 퀄컴 스냅드래곤 865 플러스가 탑재됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스냅드래곤 865 플러스는 5G 기술 구현과 사용자의 인공지능(AI) 경험 향상을 위해 이전 세대보다 개선된 성능을 제공한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "칩에 내장된 퀄컴 크라이오 585 중앙처리장치(CPU)는 최대 3.09㎓ 속도를 제공한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 퀄컴 아드레노 650 그래픽처리장치(GPU)는 기존 스냅드래곤 865에 비해 10% 향상된 성능을 구현한다. 5세대 퀄컴 AI 엔진과 신규 퀄컴 센싱 허브는 갤럭시 사용자들에게 새로운 지능 및 개인화 기능을 제공한다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "알렉스 카투지안 퀄컴 테크날러지 수석부사장은 “퀄컴 스냅드래곤865 플러스를 탑재한 새로운 기기는 사용자에게 차세대 연결성, 카메라, AI 및 게이밍 경험을 제공할 것이다”라고 전했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "퀄컴 스냅드래곤 865 플러스, 삼성 갤럭시노트20 등 신규 폰에 탑재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

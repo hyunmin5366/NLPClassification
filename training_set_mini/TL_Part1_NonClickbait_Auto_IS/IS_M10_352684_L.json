@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352684",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "'미국의 배민' 도어대시 \\\"고위직도 개발자도 '월 1회' 배달원 해라\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "미국의 배달앱 1위 사업자인 '도어대시'가 모든 임직원들에게 한 달에 한 번씩은 배달을 하라는 업무지시를 내려 논란이다.\n29일 CNN, 마켓워치 등 외신에 따르면 도어대시는 코로나19(COVID-19)로 중단됐던 위대시(WeDash) 프로그램을 내년 1월 부활시킨다.\n해당 프로그램은 개발자, 기획자 등 도어대시에 근무하는 모든 임직원이 한 달에 한 번은 음식 배달을 직접 경험하는 것이다.\n2013년 처음 등장했으나 코로나로 인해 한동안 중단된 상태였다.\n이 같은 지시에 개발자와 고위 임원을 포함한 일부 직원들은 벌써부터 불만을 드러내는 것으로 알려졌다.\n실제 한 도어대시의 개발자는 익명 커뮤니티 앱인 블라인드에 글을 올리기도 했다.\n이 개발자는 게시글에서 자신이 계약한 직무 설명서에는 이같은 내용이 포함되지 않았고 동의하지도 않았다고 지적했다.\n글에는 1500개의 댓글이 달리며 찬반 논쟁이 벌어진 상태다.\n회사 측은 음식 배달을 직접 경험하면서 도어대시가 만든 서비스가 어떻게 작동하는지, '대셔'(Dasher·배달원)는 어떻게 일을 하는지 경험하라는 취지라고 설명했다.\n직원들이 배달로 번 수익은 비영리 단체에 기부된다.\n도어대시는 미국 배달시장에서 점유율 1위를 기록 중인 업체다.\n국내 열풍이 불고 있는 '단건배달'과 '15분 배달'로 유명하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국의 배달앱 1위 사업자인 '도어대시'가 모든 임직원들에게 한 달에 한 번씩은 배달을 하라는 업무지시를 내려 논란이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 CNN, 마켓워치 등 외신에 따르면 도어대시는 코로나19(COVID-19)로 중단됐던 위대시(WeDash) 프로그램을 내년 1월 부활시킨다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 프로그램은 개발자, 기획자 등 도어대시에 근무하는 모든 임직원이 한 달에 한 번은 음식 배달을 직접 경험하는 것이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2013년 처음 등장했으나 코로나로 인해 한동안 중단된 상태였다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 같은 지시에 개발자와 고위 임원을 포함한 일부 직원들은 벌써부터 불만을 드러내는 것으로 알려졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "실제 한 도어대시의 개발자는 익명 커뮤니티 앱인 블라인드에 글을 올리기도 했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 개발자는 게시글에서 자신이 계약한 직무 설명서에는 이같은 내용이 포함되지 않았고 동의하지도 않았다고 지적했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "글에는 1500개의 댓글이 달리며 찬반 논쟁이 벌어진 상태다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "회사 측은 음식 배달을 직접 경험하면서 도어대시가 만든 서비스가 어떻게 작동하는지, '대셔'(Dasher·배달원)는 어떻게 일을 하는지 경험하라는 취지라고 설명했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "직원들이 배달로 번 수익은 비영리 단체에 기부된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "도어대시는 미국 배달시장에서 점유율 1위를 기록 중인 업체다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "국내 열풍이 불고 있는 '단건배달'과 '15분 배달'로 유명하다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'미국의 배민' 도어대시 \\\"고위직도 개발자도 '월 1회' 배달원 해라\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

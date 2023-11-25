@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M05_018377",
+		"newsCategory": "경제",
+		"newsSubcategory": "증권기타",
+		"newsTitle": "[특징주]이노뎁, 상장 첫날 12% 약세...공모가는 상회",
+		"newsSubTitle": "",
+		"newsContent": "인공지능(AI) 기반 보안 플랫폼 기업 이노뎁이 코스닥 상장 첫날 하락세를 면치 못하고 있다.\n18일 오전 10시17분 기준 이노뎁은 시초가 대비 2650원(11.94%) 떨어진 1만9950원에 거래되고 있다.\n공모가 1만8000원보다 소폭 웃도는 수준이다.\n이노뎁은 2008년 1월 설립된 AI 기반 보안 플랫폼 전문기업이다.\n영상인식 및 데이터 플랫폼 솔루션 서비스를 주요 사업으로 하고 있다.\n앞서 진행된 기관투자자 대상 수요예측에서는 1573.93대 1의 경쟁률을 나타냈다.\n일반투자자 대상 공모 청약은 692.12대 1의 경쟁률을 기록했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI) 기반 보안 플랫폼 기업 이노뎁이 코스닥 상장 첫날 하락세를 면치 못하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 오전 10시17분 기준 이노뎁은 시초가 대비 2650원(11.94%) 떨어진 1만9950원에 거래되고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공모가 1만8000원보다 소폭 웃도는 수준이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이노뎁은 2008년 1월 설립된 AI 기반 보안 플랫폼 전문기업이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영상인식 및 데이터 플랫폼 솔루션 서비스를 주요 사업으로 하고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 진행된 기관투자자 대상 수요예측에서는 1573.93대 1의 경쟁률을 나타냈다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일반투자자 대상 공모 청약은 692.12대 1의 경쟁률을 기록했다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "금융위, 변동금리 대응 주담대 상품 2종 공급",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

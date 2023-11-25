@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351981",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "LG유플러스-한국교통연구원, 자율주행 공공데이터 만든다",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 한국교통연구원과 자율주행기반모빌리티 서비스 실증사업을 수행하기 위한 업무협약을 맺었다고 28일 밝혔다.\n양측은 모빌리티 서비스를 실증하면서 축적된 공공데이터를 활용해 자율주행 기술 및 서비스를 발전시키는 연구개발사업을 진행해 갈 계획이다.\n또한 데이터 기반 모빌리티 정책을 발굴하여 모빌리티 산업의 성장에 이바지한다는 구상이다.\n한국교통연구원의 공공데이터는 △차량이동 데이터(교통량·통행비용·도로 혼잡비용 등) △사람이동 데이터(시간대별 통행량·유동인구·지역별 통행시간 등) △대중교통 데이터(BIS 데이터, 노선단위 카드데이터 등) 등으로 구성된다.\n앞서 LG유플러스는 올해 3월 국토교통부의 '자율주행 기술개발 혁신사업-교통약자 이동지원 모빌리티 서비스 개발 과제'를 한국교통연구원과 함께 수주하여 오는 2026년까지 자율주행 공동연구 개발을 진행하고 있다.\n주영준 LG유플러스 차세대기술랩장은 \\\"이번 협력으로 유플러스의 5G 통신, 다이내믹맵과 한국교통연구원이 보유한 도로·교통 데이터의 시너지를 통해 자율주행 인프라 기술을 발전시키는 계기가 될 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 한국교통연구원과 자율주행기반모빌리티 서비스 실증사업을 수행하기 위한 업무협약을 맺었다고 28일 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양측은 모빌리티 서비스를 실증하면서 축적된 공공데이터를 활용해 자율주행 기술 및 서비스를 발전시키는 연구개발사업을 진행해 갈 계획이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또한 데이터 기반 모빌리티 정책을 발굴하여 모빌리티 산업의 성장에 이바지한다는 구상이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국교통연구원의 공공데이터는 △차량이동 데이터(교통량·통행비용·도로 혼잡비용 등) △사람이동 데이터(시간대별 통행량·유동인구·지역별 통행시간 등) △대중교통 데이터(BIS 데이터, 노선단위 카드데이터 등) 등으로 구성된다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 LG유플러스는 올해 3월 국토교통부의 '자율주행 기술개발 혁신사업-교통약자 이동지원 모빌리티 서비스 개발 과제'를 한국교통연구원과 함께 수주하여 오는 2026년까지 자율주행 공동연구 개발을 진행하고 있다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주영준 LG유플러스 차세대기술랩장은 \\\"이번 협력으로 유플러스의 5G 통신, 다이내믹맵과 한국교통연구원이 보유한 도로·교통 데이터의 시너지를 통해 자율주행 인프라 기술을 발전시키는 계기가 될 것\\\"이라고 말했다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG유플러스-한국교통연구원, 자율주행 공공데이터 만든다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

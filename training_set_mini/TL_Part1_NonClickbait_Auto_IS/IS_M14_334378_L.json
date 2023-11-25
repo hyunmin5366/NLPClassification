@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334378",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[2017 SAP 사파이어나우]애플 iOS로 소매업(리테일) 간편하게 관리",
+		"newsSubTitle": "",
+		"newsContent": "애플이 소매업(Retail) 시장 지원 솔루션과 3D 프린팅 지원 시스템을 선보였다.\n18일(현지시간) 애플은 미국 올랜도에서 열린 '사파이어나우'에 파트너사로 참여해 리테일과 3D프린팅 관련 서비스를 전시했다.\n리테일 지원 솔루션은 매장 내 정보를 아이패드나 아이폰 등 iOS가 탑재된 모바일로 관리하도록 돕는다.\n점원은 아이패드로 제품 정보, 가격, 재고, 주문까지 한번에 해결 가능하다.\n제품 진열대에 센서를 부착해 고객이 제품을 들어 올리면 관련 정보를 벽면 디스플레이에 보여준다.\n3D 프린팅 지원 시스템은 제품 주문부터 생산까지 전 과정을 모니터링하고 관리한다.\n온라인으로 접수된 주문 현황과 주문 담당 직원, 제작 상황까지 한 눈에 확인 가능하다.\n애플은 SAP와 협력 관계를 발표했다.\n주요 시스템 개발과 기업간기업(B2B)사업 분야 등에서 SAP와 협력한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 소매업(Retail) 시장 지원 솔루션과 3D 프린팅 지원 시스템을 선보였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일(현지시간) 애플은 미국 올랜도에서 열린 '사파이어나우'에 파트너사로 참여해 리테일과 3D프린팅 관련 서비스를 전시했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "리테일 지원 솔루션은 매장 내 정보를 아이패드나 아이폰 등 iOS가 탑재된 모바일로 관리하도록 돕는다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "점원은 아이패드로 제품 정보, 가격, 재고, 주문까지 한번에 해결 가능하다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제품 진열대에 센서를 부착해 고객이 제품을 들어 올리면 관련 정보를 벽면 디스플레이에 보여준다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "3D 프린팅 지원 시스템은 제품 주문부터 생산까지 전 과정을 모니터링하고 관리한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "온라인으로 접수된 주문 현황과 주문 담당 직원, 제작 상황까지 한 눈에 확인 가능하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "애플은 SAP와 협력 관계를 발표했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "주요 시스템 개발과 기업간기업(B2B)사업 분야 등에서 SAP와 협력한다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2017 SAP 사파이어나우]애플 iOS로 소매업(리테일) 간편하게 관리",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

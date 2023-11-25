@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331445",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "시스트란, 키움증권 금융센터에 AI기반 솔루션 공급",
+		"newsSubTitle": "",
+		"newsContent": "시스트란 인터내셔널(대표 지 루카스)은 자체 개발 DNN(인공지능 신경망·Deep Neural Network) 기술이 적용된 전화망 음성인식·텍스트 분석 시스템(STT, Speech To Text)을 키움증권 금융센터에 공급한다고 19일 밝혔다.\n시스트란 STT 솔루션은 예측이 힘든 고객 인바운드콜까지도 분석이 가능하다.\n이전에는 고객에게 전화를 거는 아웃바운드 콜에 음성인식을 적용했다.\n최근에는 고객이 콜센터로 전화를 거는 인바운드 콜 분석 수요가 높아진다고 회사는 설명했다.\nSTT 솔루션에 활용되는 음성인식기는 시스트란과 키움증권 금융센터 양사가 장기간 축적한 음성인식 데이터, 고객 데이터, 관련 기술 노하우가 집약됐다.\n화자 분리 기능을 이용해 상담사와 고객 음성을 분리, 서로 말이 겹치는 순간 소리도 정확히 인지한다.\n회사 관계자는 “시스트란 언어처리 솔루션은 음성 데이터를 텍스트 분석 형태로 제공하기 때문에 상담사가 음성 전체를 듣는 것보다 훨씬 빠르게 상담내용을 파악 한다”면서 “이번 도입 사업으로 축적된 데이터는 고객 상담 패턴 분석, 사용자 질문 분석, 컴플레인 예방, 챗봇을 통한 무인상담 개발 등에 활용할 예정”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "시스트란 인터내셔널(대표 지 루카스)은 자체 개발 DNN(인공지능 신경망·Deep Neural Network) 기술이 적용된 전화망 음성인식·텍스트 분석 시스템(STT, Speech To Text)을 키움증권 금융센터에 공급한다고 19일 밝혔다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시스트란 STT 솔루션은 예측이 힘든 고객 인바운드콜까지도 분석이 가능하다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이전에는 고객에게 전화를 거는 아웃바운드 콜에 음성인식을 적용했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근에는 고객이 콜센터로 전화를 거는 인바운드 콜 분석 수요가 높아진다고 회사는 설명했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "STT 솔루션에 활용되는 음성인식기는 시스트란과 키움증권 금융센터 양사가 장기간 축적한 음성인식 데이터, 고객 데이터, 관련 기술 노하우가 집약됐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "화자 분리 기능을 이용해 상담사와 고객 음성을 분리, 서로 말이 겹치는 순간 소리도 정확히 인지한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "회사 관계자는 “시스트란 언어처리 솔루션은 음성 데이터를 텍스트 분석 형태로 제공하기 때문에 상담사가 음성 전체를 듣는 것보다 훨씬 빠르게 상담내용을 파악 한다”면서 “이번 도입 사업으로 축적된 데이터는 고객 상담 패턴 분석, 사용자 질문 분석, 컴플레인 예방, 챗봇을 통한 무인상담 개발 등에 활용할 예정”이라고 말했다.",
+				"sentenceSize": 180
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시스트란, 키움증권 금융센터에 AI기반 솔루션 공급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

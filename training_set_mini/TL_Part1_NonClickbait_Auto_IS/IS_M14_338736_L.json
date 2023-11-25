@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338736",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "파트론, '베젤리스 스마트폰' 구현 근조도 센서 개발",
+		"newsSubTitle": "",
+		"newsContent": "파트론이 베젤리스 스마트폰 구현에 적합한 초소형 근조도 센서를 개발했다.\n베젤리스란 디스플레이를 감싸는 테두리(베젤)를 최소화하는 것이다.\n스마트폰 업계에서는 대화면 구현을 위해 테두리를 줄이려는 수요가 강하다.\n파트론(대표 김종구)은 스마트폰 전면부 베젤을 축소하는데 적합한 근조도 센서를 개발했다고 15일 밝혔다.\n이 제품은 근접 센서와 조도 센서가 하나로 통합된 부품이다.\n근접 센서는 어떤 물체가 센서에 접근했는지 알 수 있게 한다.\n조도 센서는 주변 빛의 밝기를 감지하는 센서다.\n스마트폰에 접목했을 때 근접 센서는 통화 시 화면이 자동으로 꺼지도록 하는데 쓰인다.\n조도 센서는 어두운 곳이나 밝은 곳 등 주변 빛에 따라 스마트폰 화면 밝기를 자동으로 조절하는 역할을 한다.\n파트론 센서는 이런 두 가지 기능을 동시 지원하는 것이다.\n센서 크기는 폭 1.65㎜, 길이 3.2㎜다.\n상용화된 제품 가운데 가장 작은 사이즈라는 게 파트론의 설명이다.\n특히 센서를 구성하는 수광부(Receiver)와 발광부(Emitter) 간 거리를 최소화해 스마트폰 전면 베젤에, 단일 개구 디자인을 가능케 했다.\n기존에는 수광부와 발광부에 맞는 각각의 개구가 필요했다.\n쉽게 말해 스마트폰 전면에 구멍 두 개를 뚫어야 했다.\n하지만 파트론 센서는 한 개 개구만 있으면 된다.\n스마트폰 전면부를 보다 매끄럽게 설계하고 디자인 할 수 있다는 의미다.\n센서는 또 최대 11bit 근접 분해능(Resolution)을 갖춰 햇빛이나 실내 백열등 밑에서 기존 대비 2.5배 수준의 근접 감지를 할 수 있다.\n광원 차이에 따른 조도 출력편차도 경쟁사 대비 최대 10% 우수하게 만들었다.\n아울러 발광부에 레이저소자인 '빅셀(VCSEL)'을 적용, 스마트폰 패널 유리 표면에서 반사돼 발생하는 간섭현상을 최소화했다.\n파트론은 베젤리스 스마트폰이 트렌드로 떠오르고 있는 만큼 신규 개발한 초소형 근∙조도 센서를 내세워 부품 사업을 강화한다는 계획이다.\n파트론 관계자는 \\\"그동안 사업다각화 차원에서 근∙조도 센서, 심박 센서, MEMS 마이크, 온도 센서 등 다양한 신규 사업을 육성해왔다\\\"면서 \\\"센서를 신사업의 일부로 키워 향후 2년 내 전체 매출의 20%까지 끌어올릴 방침\\\"이라고 전했다.\n파트론은 2003년 설립돼 카메라모듈, 안테나, 센서 등 스마트폰에 쓰이는 전자 부품에 주력한 중견 기업이다.\n연매출이 8000억원 안팎에 이른다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "파트론이 베젤리스 스마트폰 구현에 적합한 초소형 근조도 센서를 개발했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "베젤리스란 디스플레이를 감싸는 테두리(베젤)를 최소화하는 것이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스마트폰 업계에서는 대화면 구현을 위해 테두리를 줄이려는 수요가 강하다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파트론(대표 김종구)은 스마트폰 전면부 베젤을 축소하는데 적합한 근조도 센서를 개발했다고 15일 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 제품은 근접 센서와 조도 센서가 하나로 통합된 부품이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "근접 센서는 어떤 물체가 센서에 접근했는지 알 수 있게 한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조도 센서는 주변 빛의 밝기를 감지하는 센서다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스마트폰에 접목했을 때 근접 센서는 통화 시 화면이 자동으로 꺼지도록 하는데 쓰인다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "조도 센서는 어두운 곳이나 밝은 곳 등 주변 빛에 따라 스마트폰 화면 밝기를 자동으로 조절하는 역할을 한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "파트론 센서는 이런 두 가지 기능을 동시 지원하는 것이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "센서 크기는 폭 1.65㎜, 길이 3.2㎜다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "상용화된 제품 가운데 가장 작은 사이즈라는 게 파트론의 설명이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "특히 센서를 구성하는 수광부(Receiver)와 발광부(Emitter) 간 거리를 최소화해 스마트폰 전면 베젤에, 단일 개구 디자인을 가능케 했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "기존에는 수광부와 발광부에 맞는 각각의 개구가 필요했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "쉽게 말해 스마트폰 전면에 구멍 두 개를 뚫어야 했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "하지만 파트론 센서는 한 개 개구만 있으면 된다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "스마트폰 전면부를 보다 매끄럽게 설계하고 디자인 할 수 있다는 의미다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "센서는 또 최대 11bit 근접 분해능(Resolution)을 갖춰 햇빛이나 실내 백열등 밑에서 기존 대비 2.5배 수준의 근접 감지를 할 수 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "광원 차이에 따른 조도 출력편차도 경쟁사 대비 최대 10% 우수하게 만들었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "아울러 발광부에 레이저소자인 '빅셀(VCSEL)'을 적용, 스마트폰 패널 유리 표면에서 반사돼 발생하는 간섭현상을 최소화했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "파트론은 베젤리스 스마트폰이 트렌드로 떠오르고 있는 만큼 신규 개발한 초소형 근∙조도 센서를 내세워 부품 사업을 강화한다는 계획이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "파트론 관계자는 \\\"그동안 사업다각화 차원에서 근∙조도 센서, 심박 센서, MEMS 마이크, 온도 센서 등 다양한 신규 사업을 육성해왔다\\\"면서 \\\"센서를 신사업의 일부로 키워 향후 2년 내 전체 매출의 20%까지 끌어올릴 방침\\\"이라고 전했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "파트론은 2003년 설립돼 카메라모듈, 안테나, 센서 등 스마트폰에 쓰이는 전자 부품에 주력한 중견 기업이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "연매출이 8000억원 안팎에 이른다.",
+				"sentenceSize": 20
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파트론, '베젤리스 스마트폰' 구현 근조도 센서 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

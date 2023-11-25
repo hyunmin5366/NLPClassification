@@ -1,0 +1,330 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017785",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "[자랑스런 출연연]②ETRI가 만들어나가는 편리한 교통 생활",
+		"newsSubTitle": "교통 스트레스 해결 위한 기술 개발 성과 두각 기존보다 120배 빠른 버스 내 와이파이 통신 18배 빠른 교통 시뮬레이션 기술 개발 성공",
+		"newsContent": "지난해 기준 대한민국 직장인의 하루 평균 출퇴근 시간은 103분. 인구가 밀집한 경기도 거주 직장인은 134분을 기록하며 무려 하루 2시간 이상을 거리에서 소비하는 것으로 나타났다.\n직장과 주거지가 가까운 것을 의미하는 '직주근접'이라는 부동산 용어가 생길 정도로 우리 국민이 겪는 출퇴근 스트레스가 만만찮은 실정이다.\n한국전자통신연구원(이하 ETRI)의 고민은 여기서 시작했다.\n교통으로 인한 스트레스와 사회문제 해결을 위한 가장 근본적인 방향은 원활한 차량 흐름이 가능한 교통 정책이지만 한정된 국토 면적에서 교통 인프라를 대대적으로 개선하는 데는 한계가 있다.\n그렇다면 이 시간을 보다 효율적으로 보내는 것이 어떨까?\nETRI는 국민 생활과 맞닿은 교통 문제 해결에 나섰다.\n지루하고 고통스러운 출퇴근 시간을 보다 유익하게 보낼 수 있도록 도울 '버스용 기가 와이파이 기술'과 최적의 교통 정책 선정을 도울 기술을 'SW 시뮬레이션'을 통해서다.\n국민 출퇴근 스트레스를 덜어줄 ETRI의 생활밀착형 성과를 살펴보자.\nETRI 연구진이 버스용 기가급 와이파이 기술 시연을 위해 기지국 장치와 차량 단말 간 전송속도를 확인하고 있는 모습.▲버스도 끊김 없이 유튜브 시청을?… 버스용 기가급 와이파이 기술 시연 성공 최근 시내버스에서도 공공 와이파이가 제공돼 데이터 통신망을 쓰지 않고도 무료로 인터넷을 쓸 수 있는 인프라가 많이 확충되고 있다.\n하지만 아직까지는 속도가 느리고 사람이 많이 탑승할 때는 사실상 원활한 사용이 어렵다.\nETRI는 기존 버스 와이파이(Wi-Fi) 속도보다 120배 빠른 차량용 통신시스템을 개발했다.\n연구진은 22GHz 대역 밀리미터파 주파수를 활용해 버스와 지상 기지국을 연결하는 백홀(Backhaul) 통신망 기술을 개발하고 이를 움직이는 네트워크라는 뜻의 MN(Moving Network) 시스템이라 명명했다.\n인터넷 서비스 품질을 높이기 위해선 높은 대역의 주파수를 이용해야 한다.\n그러나 높은 대역일수록 신호 도달거리가 짧고 회절이 잘 일어나지 않아 실외 환경에서 사용이 어렵다는 난제가 있었다.\n연구진은 필요한 곳에 효율적으로 신호를 보내는 빔포밍(Beam Forming) 기술과 여러 개의 빔을 제어하고 관리할 수 있는 빔스위칭(Beam Switching) 기술 등 원천기술을 보유해 난관을 극복하고 성과를 낼 수 있었다.\n연구진은 대전지방법원 근처 도로를 운행하는 시연을 통해 통신성능을 확인했다.\n시연 결과 기지국 장치와 차량 단말 간 최대 2.4Gbps 전송속도를 확인했다.\n500ｍ 단위로 기지국을 설치하고 해당 범위 안에 10대 버스와 100명의 승객이 탑승했다고 가정하면 한 사람당 24Mbps 속도로 고품질 동영상 스트리밍이 가능한 수준이다.\n총괄 책임자인 김일규 미래이동통신연구본부장은 \\\"국민이 원활하게 공공 와이파이를 사용하며 통신비 부담을 줄이고 진정한 5G 상용화와 초연결 시대를 체감하는 데 큰 도움이 될 전망\\\"이라고 말했다.\n연구진은 완성도를 높여 오는 2022년까지 모든 버스에서 1Gbps 와이파이 서비스가 가능하게 만드는 것을 목표하고 내년 하반기에는 경부 고속도로와 서울 도심 등에서도 더 빠른 속도로 와이파이를 접속할 수 있도록 연구를 진행할 계획이다.\n▲시뮬레이션으로 막힌 도로 뚫자… ETRI 교통혼잡 예측 시뮬레이션 '솔트' ETRI가 개발한 교통혼잡 예측 시뮬레이션 기술 '솔트'(SALT·Simulation for Analyzing Loads in Traffic)는 바뀌는 신호체계나 새로운 교통정책이 관련 지역 교통혼잡에 어떤 영향을 미치는지를 검증한다.\nETRI는 서울시와 경찰청, SKT 등으로부터 데이터를 제공받아 지역 도로망과 신호체계 데이터베이스를 구축했다.\n여기에 실측 교통량 데이터를 기반으로 차량 수요까지 추정해 분석기술을 만들었다.\n연구진이 개발한 기술은 인공지능 기계학습이나 딥러닝이 할 수 없는 교통 환경도 분석이 가능하다.\n신호체계 변경, 새로운 다리 건설 등 변수가 나타나면 기계학습·딥러닝 방식은 매번 새로운 모델을 생성해 적용해야 하지만 연구진이 개발한 모델은 매번 다른 입력값이 제공돼도 보편적으로 적용할 수 있기 때문이다.\n시뮬레이션 엔진은 클라우드에 탑재해 타 지역 데이터도 분석할 수 있다.\n이번 기술은 인공지능을 이용해 도로·기상·축제나 행사 정보를 종합한 예측도 가능하다.\n도로 공사가 시작되거나 예정된 대형 스포츠 행사로 인해 발생할 수 있는 효과를 '솔트'는 통계값과 시각 자료로 예측, 분석값을 보여준다.\n연구진은 서울 강동구를 대상으로 일 평균 40만대 차량 대상 1만 3000여 개의 도로로 나누어 24시간 교통 흐름을 5분 안에 시뮬레이션하는 데 성공했다.\n이는 기존에 이동량을 측정하는 데 가장 널리 사용되는 기술인 수모(Simulation of Urban Mobility)보다 18배 빠른 성능이다.\n연구진은 서울시와 협업을 통해 강동구 둔촌로 길동사거리 신호체계를 변경하면 어떤 파급효과가 있을지 시뮬레이션한 결과 평일 기준 하행 속도를 2.4% 개선할 수 있다고 예측했다.\n또 해당 변경안을 실제 적용한 결과 통행 속도가 4.3% 개선돼 연구진의 기술이 정책 사전검증에 효과가 있음을 보일 수 있었다.\n민옥기 ETRI 지능정보연구본부장은 \\\"매년 우리나라에서 발생하는 교통혼잡비용이 30조 원가량인 가운데 이 기술을 활용해 사회경제적 비용을 낮추는 데 도움이 되기를 바란다\\\"고 말했다.\n김명준 한국전자통신연구원장은 \\\"국민의 삶의 질을 높이기 위한 R&D를 확대하고 모두가 공감할 수 있는 과학기술을 연구해나갈 계획\\\"이라며 \\\"ETRI의 기술로 누구나 안전하면서도 편리한 삶을 영위할 수 있는 세상이 빠르게 다가오기를 기대한다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 34,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 기준 대한민국 직장인의 하루 평균 출퇴근 시간은 103분. 인구가 밀집한 경기도 거주 직장인은 134분을 기록하며 무려 하루 2시간 이상을 거리에서 소비하는 것으로 나타났다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "직장과 주거지가 가까운 것을 의미하는 '직주근접'이라는 부동산 용어가 생길 정도로 우리 국민이 겪는 출퇴근 스트레스가 만만찮은 실정이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국전자통신연구원(이하 ETRI)의 고민은 여기서 시작했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "교통으로 인한 스트레스와 사회문제 해결을 위한 가장 근본적인 방향은 원활한 차량 흐름이 가능한 교통 정책이지만 한정된 국토 면적에서 교통 인프라를 대대적으로 개선하는 데는 한계가 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그렇다면 이 시간을 보다 효율적으로 보내는 것이 어떨까?",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "ETRI는 국민 생활과 맞닿은 교통 문제 해결에 나섰다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지루하고 고통스러운 출퇴근 시간을 보다 유익하게 보낼 수 있도록 도울 '버스용 기가 와이파이 기술'과 최적의 교통 정책 선정을 도울 기술을 'SW 시뮬레이션'을 통해서다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국민 출퇴근 스트레스를 덜어줄 ETRI의 생활밀착형 성과를 살펴보자.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "ETRI 연구진이 버스용 기가급 와이파이 기술 시연을 위해 기지국 장치와 차량 단말 간 전송속도를 확인하고 있는 모습.▲버스도 끊김 없이 유튜브 시청을?… 버스용 기가급 와이파이 기술 시연 성공 최근 시내버스에서도 공공 와이파이가 제공돼 데이터 통신망을 쓰지 않고도 무료로 인터넷을 쓸 수 있는 인프라가 많이 확충되고 있다.",
+				"sentenceSize": 181
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하지만 아직까지는 속도가 느리고 사람이 많이 탑승할 때는 사실상 원활한 사용이 어렵다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ETRI는 기존 버스 와이파이(Wi-Fi) 속도보다 120배 빠른 차량용 통신시스템을 개발했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "연구진은 22GHz 대역 밀리미터파 주파수를 활용해 버스와 지상 기지국을 연결하는 백홀(Backhaul) 통신망 기술을 개발하고 이를 움직이는 네트워크라는 뜻의 MN(Moving Network) 시스템이라 명명했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "인터넷 서비스 품질을 높이기 위해선 높은 대역의 주파수를 이용해야 한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "그러나 높은 대역일수록 신호 도달거리가 짧고 회절이 잘 일어나지 않아 실외 환경에서 사용이 어렵다는 난제가 있었다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "연구진은 필요한 곳에 효율적으로 신호를 보내는 빔포밍(Beam Forming) 기술과 여러 개의 빔을 제어하고 관리할 수 있는 빔스위칭(Beam Switching) 기술 등 원천기술을 보유해 난관을 극복하고 성과를 낼 수 있었다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "연구진은 대전지방법원 근처 도로를 운행하는 시연을 통해 통신성능을 확인했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "시연 결과 기지국 장치와 차량 단말 간 최대 2.4Gbps 전송속도를 확인했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "500ｍ 단위로 기지국을 설치하고 해당 범위 안에 10대 버스와 100명의 승객이 탑승했다고 가정하면 한 사람당 24Mbps 속도로 고품질 동영상 스트리밍이 가능한 수준이다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "총괄 책임자인 김일규 미래이동통신연구본부장은 \\\"국민이 원활하게 공공 와이파이를 사용하며 통신비 부담을 줄이고 진정한 5G 상용화와 초연결 시대를 체감하는 데 큰 도움이 될 전망\\\"이라고 말했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "연구진은 완성도를 높여 오는 2022년까지 모든 버스에서 1Gbps 와이파이 서비스가 가능하게 만드는 것을 목표하고 내년 하반기에는 경부 고속도로와 서울 도심 등에서도 더 빠른 속도로 와이파이를 접속할 수 있도록 연구를 진행할 계획이다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "▲시뮬레이션으로 막힌 도로 뚫자… ETRI 교통혼잡 예측 시뮬레이션 '솔트' ETRI가 개발한 교통혼잡 예측 시뮬레이션 기술 '솔트'(SALT·Simulation for Analyzing Loads in Traffic)는 바뀌는 신호체계나 새로운 교통정책이 관련 지역 교통혼잡에 어떤 영향을 미치는지를 검증한다.",
+				"sentenceSize": 174
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "ETRI는 서울시와 경찰청, SKT 등으로부터 데이터를 제공받아 지역 도로망과 신호체계 데이터베이스를 구축했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "여기에 실측 교통량 데이터를 기반으로 차량 수요까지 추정해 분석기술을 만들었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "연구진이 개발한 기술은 인공지능 기계학습이나 딥러닝이 할 수 없는 교통 환경도 분석이 가능하다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "신호체계 변경, 새로운 다리 건설 등 변수가 나타나면 기계학습·딥러닝 방식은 매번 새로운 모델을 생성해 적용해야 하지만 연구진이 개발한 모델은 매번 다른 입력값이 제공돼도 보편적으로 적용할 수 있기 때문이다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "시뮬레이션 엔진은 클라우드에 탑재해 타 지역 데이터도 분석할 수 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "이번 기술은 인공지능을 이용해 도로·기상·축제나 행사 정보를 종합한 예측도 가능하다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "도로 공사가 시작되거나 예정된 대형 스포츠 행사로 인해 발생할 수 있는 효과를 '솔트'는 통계값과 시각 자료로 예측, 분석값을 보여준다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "연구진은 서울 강동구를 대상으로 일 평균 40만대 차량 대상 1만 3000여 개의 도로로 나누어 24시간 교통 흐름을 5분 안에 시뮬레이션하는 데 성공했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "이는 기존에 이동량을 측정하는 데 가장 널리 사용되는 기술인 수모(Simulation of Urban Mobility)보다 18배 빠른 성능이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "연구진은 서울시와 협업을 통해 강동구 둔촌로 길동사거리 신호체계를 변경하면 어떤 파급효과가 있을지 시뮬레이션한 결과 평일 기준 하행 속도를 2.4% 개선할 수 있다고 예측했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "또 해당 변경안을 실제 적용한 결과 통행 속도가 4.3% 개선돼 연구진의 기술이 정책 사전검증에 효과가 있음을 보일 수 있었다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "민옥기 ETRI 지능정보연구본부장은 \\\"매년 우리나라에서 발생하는 교통혼잡비용이 30조 원가량인 가운데 이 기술을 활용해 사회경제적 비용을 낮추는 데 도움이 되기를 바란다\\\"고 말했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "김명준 한국전자통신연구원장은 \\\"국민의 삶의 질을 높이기 위한 R&D를 확대하고 모두가 공감할 수 있는 과학기술을 연구해나갈 계획\\\"이라며 \\\"ETRI의 기술로 누구나 안전하면서도 편리한 삶을 영위할 수 있는 세상이 빠르게 다가오기를 기대한다\\\"고 밝혔다.",
+				"sentenceSize": 143
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조달청 나라장터 납품실적 작년比 15% 급감",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

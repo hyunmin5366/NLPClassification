@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332476",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "게임",
+		"newsTitle": "네이버, AI 비전 기술 1년 앞당긴다",
+		"newsSubTitle": "",
+		"newsContent": "네이버가 인공지능 비전(AI Vision) 기술 효율을 크게 높이는 방법을 발표했다.\n기술 수준을 1년 이상 앞당길 수 있는 길을 열었다.\n비전은 컴퓨터가 카메라 또는 화면을 통해 습득한 이미지와 영상을 분석하는 기술이다.\n자율주행, 영상탐지추적, 광학문자판독기술(OCR) 등 AI가 쓰이는 대표 분야 중 하나다.\n5일 네이버에 따르면 윤상두 네이버 클로바 연구원은 지난달 서울에서 열린 국제컴퓨터비전학회(ICCV)2019에서 '지역적 특징을 가지는 분류기 학습을 위한 학습 데이터 생성방법' 논문을 발표했다.\n통상 학회에 제출한 논문 중 4%만 받는 구두 발표 기회를 받았다.\n네이버는 해당 논문에서 '분류기' 기계학습 효율을 크게 높이는 방법을 제시했다.\n분류기는 컴퓨터가 파악한 영상이나 이미지 내용과 형태를 정확하게 분석하는 소프트웨어다.\n논문이 제시한 방법론 핵심은 기존 데이터를 활용해 학습량과 복잡도를 늘리는 것이다.\n예를 들어 기존에 보유한 쿠키와 컵 이미지 일부를 결합한 후 새로운 이미지를 제시하면, 분류기가 보다 고차원 학습을 수행할 수 있도록 했다.\n컴퓨터가 스스로 중첩되는 이미지를 판별하고 위치까지 파악해 낼 수 있다.\n새 방법을 적용하면 분류기 이미지 판별 정확도가 76%에서 78%로 증가했다.\n비전 분야에서 분류기 정확도는 1~2년 사이 2~3% 증가되는 것이 보통이다.\n물리적 방법으로 정확도를 2% 향상시키려면 분류기 용량을 2~3배 늘려야 한다.\n윤 연구원은 “논문은 머신러닝에 필요한 데이터와 용량, 하드웨어 인프라를 늘리지 않고도 분류기 효율을 높일 수 있다는 가설을 입증했다”면서 “이 방법을 적용하면 예산, 시간, 인력, 용량 등 투입 리소스를 늘리지 않고 분류기 수준을 끌어올릴 수 있다”고 설명했다.\n네이버 비전 분야는 박사급 연구원 10여명이 활동 중이다.\n국내에서 가장 많은 전문 인력을 보유했다.\n인력 대부분이 30대로 최신 기술을 연구하는 '젊은 박사'가 많다.\n윤 연구원은 “AI는 일 효율을 높이는 것은 물론 인간 노동력으로 해결할 수 없는 영역에 도전할 수 있는 토대가 된다”면서 “실제 서비스에 적용할 수 있는 기반 기술을 계속 연구할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 인공지능 비전(AI Vision) 기술 효율을 크게 높이는 방법을 발표했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기술 수준을 1년 이상 앞당길 수 있는 길을 열었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "비전은 컴퓨터가 카메라 또는 화면을 통해 습득한 이미지와 영상을 분석하는 기술이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "자율주행, 영상탐지추적, 광학문자판독기술(OCR) 등 AI가 쓰이는 대표 분야 중 하나다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "5일 네이버에 따르면 윤상두 네이버 클로바 연구원은 지난달 서울에서 열린 국제컴퓨터비전학회(ICCV)2019에서 '지역적 특징을 가지는 분류기 학습을 위한 학습 데이터 생성방법' 논문을 발표했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "통상 학회에 제출한 논문 중 4%만 받는 구두 발표 기회를 받았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버는 해당 논문에서 '분류기' 기계학습 효율을 크게 높이는 방법을 제시했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "분류기는 컴퓨터가 파악한 영상이나 이미지 내용과 형태를 정확하게 분석하는 소프트웨어다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "논문이 제시한 방법론 핵심은 기존 데이터를 활용해 학습량과 복잡도를 늘리는 것이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "예를 들어 기존에 보유한 쿠키와 컵 이미지 일부를 결합한 후 새로운 이미지를 제시하면, 분류기가 보다 고차원 학습을 수행할 수 있도록 했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "컴퓨터가 스스로 중첩되는 이미지를 판별하고 위치까지 파악해 낼 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "새 방법을 적용하면 분류기 이미지 판별 정확도가 76%에서 78%로 증가했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "비전 분야에서 분류기 정확도는 1~2년 사이 2~3% 증가되는 것이 보통이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "물리적 방법으로 정확도를 2% 향상시키려면 분류기 용량을 2~3배 늘려야 한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "윤 연구원은 “논문은 머신러닝에 필요한 데이터와 용량, 하드웨어 인프라를 늘리지 않고도 분류기 효율을 높일 수 있다는 가설을 입증했다”면서 “이 방법을 적용하면 예산, 시간, 인력, 용량 등 투입 리소스를 늘리지 않고 분류기 수준을 끌어올릴 수 있다”고 설명했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "네이버 비전 분야는 박사급 연구원 10여명이 활동 중이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "국내에서 가장 많은 전문 인력을 보유했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "인력 대부분이 30대로 최신 기술을 연구하는 '젊은 박사'가 많다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "윤 연구원은 “AI는 일 효율을 높이는 것은 물론 인간 노동력으로 해결할 수 없는 영역에 도전할 수 있는 토대가 된다”면서 “실제 서비스에 적용할 수 있는 기반 기술을 계속 연구할 것”이라고 말했다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버, AI 비전 기술 1년 앞당긴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

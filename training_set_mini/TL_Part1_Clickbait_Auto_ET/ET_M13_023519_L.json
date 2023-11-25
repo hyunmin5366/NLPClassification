@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_023519",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "장윤주가 몸으로 표현한 기후 위기 심각성",
+		"newsSubTitle": "",
+		"newsContent": "모델 장윤주가 기후 위기 메시지를 던진다.\n장윤수 소속사 에스팀에 따르면 장윤주는 올해 9월 창립 50주년을 맞은 국제환경단체 그린피스와 패션지 더블유코리아가 함께한 화보에 참여했다.\n이번 화보에 참여한 총 10여 명의 연예인들은 대기오염, 물 부족, 해수면 상승, 해양·플라스틱, 지구 온난화라는 5가지 환경 문제와 희망과 연대, 재생가능에너지, 탄소제로 등 5가지 해결 방안 등 각각 콘셉트와 함께 기후변화의 심각성을 전달한다.\n이번 화보에서 장윤주는 해양 플라스틱과 관련한 환경 문제 콘셉트로 엄청난 양의 플라스틱이 해양으로 흘러들어가고 있음을 한장의 사진으로 표현했다.\n장윤주는 표정과 손짓으로 해양 플라스틱 문제 대한 경각심을 높였다.\n장윤주가 참여한 기후 위기 메시지를 전하는 이번 화보는 더블유코리아 9월호에 실린다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 장윤주가 기후 위기 메시지를 던진다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장윤수 소속사 에스팀에 따르면 장윤주는 올해 9월 창립 50주년을 맞은 국제환경단체 그린피스와 패션지 더블유코리아가 함께한 화보에 참여했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 화보에 참여한 총 10여 명의 연예인들은 대기오염, 물 부족, 해수면 상승, 해양·플라스틱, 지구 온난화라는 5가지 환경 문제와 희망과 연대, 재생가능에너지, 탄소제로 등 5가지 해결 방안 등 각각 콘셉트와 함께 기후변화의 심각성을 전달한다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 화보에서 장윤주는 해양 플라스틱과 관련한 환경 문제 콘셉트로 엄청난 양의 플라스틱이 해양으로 흘러들어가고 있음을 한장의 사진으로 표현했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "장윤주는 표정과 손짓으로 해양 플라스틱 문제 대한 경각심을 높였다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "장윤주가 참여한 기후 위기 메시지를 전하는 이번 화보는 더블유코리아 9월호에 실린다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘리더의 연애’ 김흥수♥문야엘, 취중 러브시그널",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

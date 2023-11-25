@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010240",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "유럽 재정난에 중기 '죽을맛'",
+		"newsSubTitle": "기업 60% 하반기 수출감소 전망",
+		"newsContent": "유럽 재정위기로 인해 중소기업들의 수출에 빨간불이 켜졌다.\n중소기업중앙회가 최근 유럽 수출 중소기업 300개사를 대상으로 유럽 재정위기에 따른 수출 중소기업 의견조사를 한 결과, 유럽 수출 중소기업 10개 중 6개는 하반기 수출이 감소할 것으로 전망했다.\n이번 조사결과 유럽 재정위기로 인해 올해 하반기 수출이 감소할 것이라고 응답한 기업은 56.3%인 반면, 증가할 것이라고 답한 기업은 2.7%에 그쳐, 하반기 전망도 밝지 않다고 판단하고 있었다.\n이에 따라 유럽 수출 중소기업은 수출시장 다변화(72.2%)와 긴축경영(40.2%), 사업축소ㆍ전환 또는 다각화(28.4) 등의 대응방안을 마련할 계획이다.\n유럽을 대신해 신규 또는 진출을 확대하려는 수출시장으로는 미국(22.3%), 중국(19.0%), 동남아시아(13.0%), 브라질(11.0%) 등을 고려하고 있는 것으로 나타났다.\n한편, 유럽 재정위기에 따른 어려움을 극복하기 위해 기업들은 우선적으로 수출경쟁력 강화, 정책자금 지원 확대 및 금융시장 안정 등의 정부 대응책이 필요하다고 인식했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유럽 재정위기로 인해 중소기업들의 수출에 빨간불이 켜졌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "중소기업중앙회가 최근 유럽 수출 중소기업 300개사를 대상으로 유럽 재정위기에 따른 수출 중소기업 의견조사를 한 결과, 유럽 수출 중소기업 10개 중 6개는 하반기 수출이 감소할 것으로 전망했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 조사결과 유럽 재정위기로 인해 올해 하반기 수출이 감소할 것이라고 응답한 기업은 56.3%인 반면, 증가할 것이라고 답한 기업은 2.7%에 그쳐, 하반기 전망도 밝지 않다고 판단하고 있었다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 유럽 수출 중소기업은 수출시장 다변화(72.2%)와 긴축경영(40.2%), 사업축소ㆍ전환 또는 다각화(28.4) 등의 대응방안을 마련할 계획이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유럽을 대신해 신규 또는 진출을 확대하려는 수출시장으로는 미국(22.3%), 중국(19.0%), 동남아시아(13.0%), 브라질(11.0%) 등을 고려하고 있는 것으로 나타났다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 유럽 재정위기에 따른 어려움을 극복하기 위해 기업들은 우선적으로 수출경쟁력 강화, 정책자금 지원 확대 및 금융시장 안정 등의 정부 대응책이 필요하다고 인식했다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코로나19 업종 간 희비 교차...설비투자 제조건설업↑ 숙박음식업↓",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

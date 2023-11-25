@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349998",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "LGU+, '디지털 뉴딜' 양자내성암호 전용회선 시험·검증 통과",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 디지털 뉴딜 과제의 일환으로 산업·의료분야 기업에 구축한 양자내성암호 전용회선이 한국정보통신기술협회(TTA)의 시험·검증을 통과했다고 18일 밝혔다.\n양자내성암호는 양자컴퓨터가 풀어내는 데 수십억년이 걸리는 복잡한 알고리즘을 활용하는 암호기술이다.\n암호키 교환 등 보안의 주요 핵심요소에 적용할 수 있어 확장성이 높고 수백㎞ 이상의 장거리 전송이 가능하다.\n별도의 장비 없이 소프트웨어만으로도 구현 가능해 휴대폰에서 소형 사물인터넷(IoT) 디바이스까지 유연하게 적용할 수 있다.\n유무선 통신망의 모든 영역에서 종단간(End-to-end) 보안을 제공할 수 있다.\nTTA의 이번 검증은 지난해 LG유플러스가 코위버와 함께 세계 최초로 개발한 상용 광전송장비(ROADM)을 이용해 공장·병원에 구축한 양자내성암호 전용회선이 정상적으로 작동한다는 것을 확인했다는 의미가 있다.\n시험은 지난 3월 중 초연결 지능형 연구개발망(KOREN)의 구간 중 한국지능정보사회진흥원(NIA) 서울 사무소~부산 부경대학교 구간에서 진행됐다.\n양자내성암호 알고리즘과 암호전송장비, 용용서비스 성능에 대한 산업분야 37개·의료분야 35개 항목의 시험·검증을 수행했다.\nLG유플러스가 사용한 공개키(비대칭키) 방식인 격자기반 양자내성암호 알고리즘은 키생성에 소요되는 시간과 키교환 프로세스에 사용하는 메모리 용량 등 시험 기준을 훨씬 능가했다.\n이 알고리즘이 작동하는 광전송장비(ROADM)는 양자내성암호의 키교환 알고리즘을 지원하고, 양자난수발생기(QRNG)와의 연동 또한 문제없이 작동했다.\n의료정보시스템 등 응용서비스에서도 데이터 업로드·다운로드에 100% 성공했고, 전송계층보안(TLS) 요청 처리시간과 서버 사용자 로그인 처리시간, 인증토큰과 PC 응용프로그램의 연동 응답시간도 모두 1초 이내에 작동했다.\n권준혁 LG유플러스 NW부문장은 \\\"TTA의 시험·검증을 통과한 당사의 산업·의료분야 양자보안 솔루션이 올해에는 더욱 다양한 산업군에서 높은 보안성을 제공하게 된다\\\"며 \\\"암호키교환 등 알고리즘을 한층 더 업그레이드하여 더욱 보편적이고 활용도가 높은 양자보안 인프라를 늘려 나가는데 앞장서겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 디지털 뉴딜 과제의 일환으로 산업·의료분야 기업에 구축한 양자내성암호 전용회선이 한국정보통신기술협회(TTA)의 시험·검증을 통과했다고 18일 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양자내성암호는 양자컴퓨터가 풀어내는 데 수십억년이 걸리는 복잡한 알고리즘을 활용하는 암호기술이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "암호키 교환 등 보안의 주요 핵심요소에 적용할 수 있어 확장성이 높고 수백㎞ 이상의 장거리 전송이 가능하다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "별도의 장비 없이 소프트웨어만으로도 구현 가능해 휴대폰에서 소형 사물인터넷(IoT) 디바이스까지 유연하게 적용할 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유무선 통신망의 모든 영역에서 종단간(End-to-end) 보안을 제공할 수 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "TTA의 이번 검증은 지난해 LG유플러스가 코위버와 함께 세계 최초로 개발한 상용 광전송장비(ROADM)을 이용해 공장·병원에 구축한 양자내성암호 전용회선이 정상적으로 작동한다는 것을 확인했다는 의미가 있다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시험은 지난 3월 중 초연결 지능형 연구개발망(KOREN)의 구간 중 한국지능정보사회진흥원(NIA) 서울 사무소~부산 부경대학교 구간에서 진행됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "양자내성암호 알고리즘과 암호전송장비, 용용서비스 성능에 대한 산업분야 37개·의료분야 35개 항목의 시험·검증을 수행했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "LG유플러스가 사용한 공개키(비대칭키) 방식인 격자기반 양자내성암호 알고리즘은 키생성에 소요되는 시간과 키교환 프로세스에 사용하는 메모리 용량 등 시험 기준을 훨씬 능가했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 알고리즘이 작동하는 광전송장비(ROADM)는 양자내성암호의 키교환 알고리즘을 지원하고, 양자난수발생기(QRNG)와의 연동 또한 문제없이 작동했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "의료정보시스템 등 응용서비스에서도 데이터 업로드·다운로드에 100% 성공했고, 전송계층보안(TLS) 요청 처리시간과 서버 사용자 로그인 처리시간, 인증토큰과 PC 응용프로그램의 연동 응답시간도 모두 1초 이내에 작동했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "권준혁 LG유플러스 NW부문장은 \\\"TTA의 시험·검증을 통과한 당사의 산업·의료분야 양자보안 솔루션이 올해에는 더욱 다양한 산업군에서 높은 보안성을 제공하게 된다\\\"며 \\\"암호키교환 등 알고리즘을 한층 더 업그레이드하여 더욱 보편적이고 활용도가 높은 양자보안 인프라를 늘려 나가는데 앞장서겠다\\\"고 말했다.",
+				"sentenceSize": 172
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LGU+, '디지털 뉴딜' 양자내성암호 전용회선 시험·검증 통과",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

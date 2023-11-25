@@ -1,0 +1,348 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327969",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "피터 카슨 퀄컴 전무 “5G 시대도 앞서나갈 것” 자신",
+		"newsSubTitle": "",
+		"newsContent": "퀄컴에서 통신칩 솔루션 사업을 담당하는 피터 카슨 제품 마케팅 전무는 6일(현지시간) 국내 기자들과 가진 인터뷰에서 “5G 시대에도 앞서나갈 것”이라고 자신했다.\n그는 인텔이 강력한 경쟁사로 떠오르고 있다는 질문에 “그 회사 모뎀칩을 일부 쓰는 회사는 세계에서 한 곳(애플)뿐”이라면서 “디자인 면적 등 모든 효율 면에서 퀄컴 솔루션이 우수하기 때문”이라고 말했다.\n-3G, 4G 시장은 퀄컴이 시장을 압도했다.\n5G는 어떨까.\n▲우리 회사 DNA는 가장 어렵고 복잡한 문제에 대한 해결책을 제시하는 것이다.\n4G 롱텀에벌루션(LTE) 때 이런 모습을 보여줬다.\n당시 업계에선 퀄컴이 3G 시대를 이끌어왔지만 4G 때에도 그럴 것이라고 보진 않았다.\n완전히 새로운 게임이었기 때문이다.\n그런데 결과는 어땠나.\n업계에서 가장 먼저 멀티모드(3G, 2G 동시 지원) 4G LTE 모뎀 통합 시스템온칩(SoC)을 처음으로 선보였다.\n우리는 지금까지 시장을 이끌고 있다.\n5G도 LTE와 마찬가지로 새로운 도전과제가 산적해 있다.\n퀄컴은 6㎓ 이하부터 밀리미터파(24~100㎓)까지 모두 지원하는 솔루션을 빠르게 공급하겠다는 목표를 갖고 있다.\n-인텔이 쫓고 있다.\n▲노력하는 것 같다.\n그런데 한번 보자.\n그 회사가 내놓은 LTE 모뎀칩 쓰는 곳은 세계에서 한 곳 밖에 없다.\n왜 그럴까.\n효율이 떨어지기 때문이다.\n그 회사 모뎀칩을 탑재한 스마트폰을 분해해서 확인해보면 바로 안다.\n칩 면적뿐 아니라 모뎀 솔루션을 구성하는 인쇄회로기판(PCB) 면적도 매우 크다. 5G때도 이렇게 간다면? 4G때처럼 퀄컴이 시장을 선도하지 않겠나.\n-5G에선 모뎀칩과 관련된 각종 부품 면적이 커진다는데. ▲아무래도 그럴 수밖에 없다.\n최적화를 위해 계속 노력 중이다.\n일단 내년 시범 도입 단계에선 5G통신 구현과 성능 최적화에 역량을 쏟을 수밖에 없다. 2019년 상용화가 이뤄질 때는 최적화에 보다 집중해 초기 모델보다 차지 면적을 줄일 것이다.\n-5G 시대에 접어들면 주파수 집성(CA) 기술로 묶는 조합이 1만개에 이른다고 한다(초기 LTE 서비스 때는 16개, 지금은 세계에서 49개 조합이 쓰인다). 퀄컴 솔루션은 이를 모두 지원하겠다는 것이가.\n▲그렇다. 5G 시대에 새롭게 활용되는 신규 주파수 밴드는 많지 않지만, 굉장히 넓은 대역폭을 활용해야 한다.\n기존 4G LTE는 물론 일부 2G, 3G 주파수와도 조합이 필요하다.\n모뎀칩과 쌍으로 붙는 무선주파수(RF)칩 그리고 RF칩 앞단에서 신호를 주고받고 증폭하는 이른바 '프런트엔드' 쪽 복잡성이 높아질 것이다.\n다양한 조합으로 수없이 바뀌는 주파수를 끊김없이 지원하는 것은 굉장한 도전과제다.\n-5G 시대에 모뎀칩 솔루션의 원가는 얼마나 올라가나?\n▲노코멘트다.\n지금은 일단 구현하고 성능을 높이는 것이 중요한 단계다.\n-RF 프런트엔드에서 전력소모량이 적지 않을 것으로 보인다.\n▲밀리미터파 대역에서 10밀리와트(㎽)까지 전력사용량을 낮출 수 있다.\n통신 모드(3G, 4G)에 따라 적절한 전력을 제공해 효율을 높이는 엔벨롭 트래킹(envelope tracking)과 안테나 튜너에서 혁신이 일어나야 한다.\n퀄컴은 지금까지 통신칩 솔루션 시장을 선도하며 많은 경험을 쌓았기 때문에 5G에서도 도전과제를 해결할 수 있을 것이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 36,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "퀄컴에서 통신칩 솔루션 사업을 담당하는 피터 카슨 제품 마케팅 전무는 6일(현지시간) 국내 기자들과 가진 인터뷰에서 “5G 시대에도 앞서나갈 것”이라고 자신했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그는 인텔이 강력한 경쟁사로 떠오르고 있다는 질문에 “그 회사 모뎀칩을 일부 쓰는 회사는 세계에서 한 곳(애플)뿐”이라면서 “디자인 면적 등 모든 효율 면에서 퀄컴 솔루션이 우수하기 때문”이라고 말했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "-3G, 4G 시장은 퀄컴이 시장을 압도했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "5G는 어떨까.",
+				"sentenceSize": 8
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "▲우리 회사 DNA는 가장 어렵고 복잡한 문제에 대한 해결책을 제시하는 것이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "4G 롱텀에벌루션(LTE) 때 이런 모습을 보여줬다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "당시 업계에선 퀄컴이 3G 시대를 이끌어왔지만 4G 때에도 그럴 것이라고 보진 않았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "완전히 새로운 게임이었기 때문이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그런데 결과는 어땠나.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "업계에서 가장 먼저 멀티모드(3G, 2G 동시 지원) 4G LTE 모뎀 통합 시스템온칩(SoC)을 처음으로 선보였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "우리는 지금까지 시장을 이끌고 있다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "5G도 LTE와 마찬가지로 새로운 도전과제가 산적해 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "퀄컴은 6㎓ 이하부터 밀리미터파(24~100㎓)까지 모두 지원하는 솔루션을 빠르게 공급하겠다는 목표를 갖고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "-인텔이 쫓고 있다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "▲노력하는 것 같다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "그런데 한번 보자.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "그 회사가 내놓은 LTE 모뎀칩 쓰는 곳은 세계에서 한 곳 밖에 없다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "왜 그럴까.",
+				"sentenceSize": 6
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "효율이 떨어지기 때문이다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "그 회사 모뎀칩을 탑재한 스마트폰을 분해해서 확인해보면 바로 안다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "칩 면적뿐 아니라 모뎀 솔루션을 구성하는 인쇄회로기판(PCB) 면적도 매우 크다. 5G때도 이렇게 간다면? 4G때처럼 퀄컴이 시장을 선도하지 않겠나.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "-5G에선 모뎀칩과 관련된 각종 부품 면적이 커진다는데. ▲아무래도 그럴 수밖에 없다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "최적화를 위해 계속 노력 중이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "일단 내년 시범 도입 단계에선 5G통신 구현과 성능 최적화에 역량을 쏟을 수밖에 없다. 2019년 상용화가 이뤄질 때는 최적화에 보다 집중해 초기 모델보다 차지 면적을 줄일 것이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "-5G 시대에 접어들면 주파수 집성(CA) 기술로 묶는 조합이 1만개에 이른다고 한다(초기 LTE 서비스 때는 16개, 지금은 세계에서 49개 조합이 쓰인다). 퀄컴 솔루션은 이를 모두 지원하겠다는 것이가.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "▲그렇다. 5G 시대에 새롭게 활용되는 신규 주파수 밴드는 많지 않지만, 굉장히 넓은 대역폭을 활용해야 한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "기존 4G LTE는 물론 일부 2G, 3G 주파수와도 조합이 필요하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "모뎀칩과 쌍으로 붙는 무선주파수(RF)칩 그리고 RF칩 앞단에서 신호를 주고받고 증폭하는 이른바 '프런트엔드' 쪽 복잡성이 높아질 것이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "다양한 조합으로 수없이 바뀌는 주파수를 끊김없이 지원하는 것은 굉장한 도전과제다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "-5G 시대에 모뎀칩 솔루션의 원가는 얼마나 올라가나?",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "▲노코멘트다.",
+				"sentenceSize": 7
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "지금은 일단 구현하고 성능을 높이는 것이 중요한 단계다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "-RF 프런트엔드에서 전력소모량이 적지 않을 것으로 보인다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "▲밀리미터파 대역에서 10밀리와트(㎽)까지 전력사용량을 낮출 수 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "통신 모드(3G, 4G)에 따라 적절한 전력을 제공해 효율을 높이는 엔벨롭 트래킹(envelope tracking)과 안테나 튜너에서 혁신이 일어나야 한다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "퀄컴은 지금까지 통신칩 솔루션 시장을 선도하며 많은 경험을 쌓았기 때문에 5G에서도 도전과제를 해결할 수 있을 것이다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "피터 카슨 퀄컴 전무 “5G 시대도 앞서나갈 것” 자신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

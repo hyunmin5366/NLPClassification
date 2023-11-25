@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007520",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "지역 중소기업 경기전망지수 전월대비 7.5p 하락",
+		"newsSubTitle": "기준금리 인상으로 경영부담 증가",
+		"newsContent": "지역 중소기업의 경기전망지수가 크게 하락한 것으로 나타났다.\n29일 중소기업중앙회 대전충남지역본부(본부장 이근국)가 대전ㆍ충남지역 중소제조업체 143개사를 대상으로 실시한 경기전망조사 결과, 12월 중소기업 업황전망건강도지수(SBHI)는 95.8로 전월(103.3)에 비해 7.5p가 하락한 것으로 조사됐다.\n지역별로 대전 응답업체(53개)의 경우 전월(109.8)에 비해 무려 11.7p가 하락한 98.1을 기록했고, 충남지역 응답업체(90개)는 전월(99.4)에 비해 5.0p가 하락한 94.4를 기록했다.\n이는 기준금리 인상으로 경영부담 증가 및 물가상승에 따른 경기둔화 우려에 기인한 것으로 판단되며, 아일랜드를 비롯한 유럽국가의 재정위기 부각도 경기전망에 부정적인 영향을 미친 것으로 분석된다.\nSBHI는 100이상이면 다음 달 경기가 좋아질 것으로, 100미만이면 그 반대를 의미한다. 10월 중소제조업 평균가동률은 73.2%로 전월(72.5%)에 비해 0.7%p 상승했다.\n지역별로는 대전지역이 전월(72.9%)보다 1.5%p 상승한 74.4%, 충남지역은 72.6%로 전월(72.2%)보다 0.4%p 증가한 것으로 조사됐다.\n이밖에도 11월 중 지역 중소제조업체들의 최대 경영애로는 내수부진(54.0%)과 원자재가격상승(54.0%)으로 조사됐다.\n이어 인력확보난(39.6%), 업체간 과당경쟁(36.7%), 판매대금 회수지연(28.1%), 자금조달 곤란(24.5%) 등의 순으로 나타났다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지역 중소기업의 경기전망지수가 크게 하락한 것으로 나타났다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 중소기업중앙회 대전충남지역본부(본부장 이근국)가 대전ㆍ충남지역 중소제조업체 143개사를 대상으로 실시한 경기전망조사 결과, 12월 중소기업 업황전망건강도지수(SBHI)는 95.8로 전월(103.3)에 비해 7.5p가 하락한 것으로 조사됐다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지역별로 대전 응답업체(53개)의 경우 전월(109.8)에 비해 무려 11.7p가 하락한 98.1을 기록했고, 충남지역 응답업체(90개)는 전월(99.4)에 비해 5.0p가 하락한 94.4를 기록했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 기준금리 인상으로 경영부담 증가 및 물가상승에 따른 경기둔화 우려에 기인한 것으로 판단되며, 아일랜드를 비롯한 유럽국가의 재정위기 부각도 경기전망에 부정적인 영향을 미친 것으로 분석된다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SBHI는 100이상이면 다음 달 경기가 좋아질 것으로, 100미만이면 그 반대를 의미한다. 10월 중소제조업 평균가동률은 73.2%로 전월(72.5%)에 비해 0.7%p 상승했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지역별로는 대전지역이 전월(72.9%)보다 1.5%p 상승한 74.4%, 충남지역은 72.6%로 전월(72.2%)보다 0.4%p 증가한 것으로 조사됐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이밖에도 11월 중 지역 중소제조업체들의 최대 경영애로는 내수부진(54.0%)과 원자재가격상승(54.0%)으로 조사됐다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 인력확보난(39.6%), 업체간 과당경쟁(36.7%), 판매대금 회수지연(28.1%), 자금조달 곤란(24.5%) 등의 순으로 나타났다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "NH투자증권, 독일 티센크루프 엘리베이터 매각전 참여",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

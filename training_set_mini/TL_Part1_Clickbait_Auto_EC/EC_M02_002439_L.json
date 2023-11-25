@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002439",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "수능일(3일), 은행·증권·외환시장 '한 시간 늦게 문연다'",
+		"newsSubTitle": "",
+		"newsContent": "2021년 대학수학능력시험이 치러지는 3일 은행, 증권, 외환시장의 거래시간이 평소보다 1시간 늦춰진다.\n은행연합회에 따르면 수능 당일인 오늘(3일) 국내 시중은행의 영업시간은 오전 10시부터 오후 5시까지다.\n은행연합회측은 \\\"시험일 아침 수험생과 학부모, 감독관의 이동으로 교통 수요가 증가할 것으로 예상돼 영업시간을 조정한다\\\"고 설명했다.\n주식시장도 오전 10시부터 시작된다.\n한국거래소는 수능 당일인 오늘, 유가증권과 코스닥시장, 코넥스시장이 오전 10시 개장해 오후 4시30분에 마감한다고 공지했다.\n장 종료 후 시간외시장은 오후 4시40분부터 오후 6시까지 열린다.\n외환시장 역시 평소보다 한 시간 늦은 오전 10시에 문을 연다. 다만, 폐장시간은 오후 3시30분으로 평소와 동일하게 유지된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2021년 대학수학능력시험이 치러지는 3일 은행, 증권, 외환시장의 거래시간이 평소보다 1시간 늦춰진다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "은행연합회에 따르면 수능 당일인 오늘(3일) 국내 시중은행의 영업시간은 오전 10시부터 오후 5시까지다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "은행연합회측은 \\\"시험일 아침 수험생과 학부모, 감독관의 이동으로 교통 수요가 증가할 것으로 예상돼 영업시간을 조정한다\\\"고 설명했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주식시장도 오전 10시부터 시작된다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국거래소는 수능 당일인 오늘, 유가증권과 코스닥시장, 코넥스시장이 오전 10시 개장해 오후 4시30분에 마감한다고 공지했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "장 종료 후 시간외시장은 오후 4시40분부터 오후 6시까지 열린다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "외환시장 역시 평소보다 한 시간 늦은 오전 10시에 문을 연다. 다만, 폐장시간은 오후 3시30분으로 평소와 동일하게 유지된다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "4단계 거리두기에 손실보상·방역예산↑…2차추경 수정 논의",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

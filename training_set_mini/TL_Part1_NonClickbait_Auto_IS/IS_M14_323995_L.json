@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323995",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "빗썸·업비트·코인원 등 거래소, 이더리움 입출금 일시 중단",
+		"newsSubTitle": "",
+		"newsContent": "빗썸, 업비트, 코인원 등 주요 가상자산거래소가 이더리움(ETH)과 이더리움 계열(ERC20) 가상자산 입출금을 일시 중단했다.\n이더리움 메인넷 API 서비스 업체인 인퓨라 문제가 발생했기 때문이다.\n각 거래소는 11일 오후 5시경 이와 같은 내용의 공지문을 통해 입출금 중단을 발표했다.\n이들 거래소뿐만 아니라 인퓨라 서비스를 이용하는 바이낸스 등 국내외 다수 거래소가 같은 문제를 겪고 있는 것으로 알려졌다.\n거래소는 이더리움 계열 가상자산 입출금에 문제가 있을 뿐 다른 가상자산에는 이용에 문제가 없다고 설명했다.\n현재 서비스 재개를 위해 시스템을 점검 중이다.\n인퓨라 측도 “이더리움 메인넷 API 서비스를 일시 중단했다. 서비스를 복원하고 있다”고 공지했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빗썸, 업비트, 코인원 등 주요 가상자산거래소가 이더리움(ETH)과 이더리움 계열(ERC20) 가상자산 입출금을 일시 중단했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이더리움 메인넷 API 서비스 업체인 인퓨라 문제가 발생했기 때문이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "각 거래소는 11일 오후 5시경 이와 같은 내용의 공지문을 통해 입출금 중단을 발표했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들 거래소뿐만 아니라 인퓨라 서비스를 이용하는 바이낸스 등 국내외 다수 거래소가 같은 문제를 겪고 있는 것으로 알려졌다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "거래소는 이더리움 계열 가상자산 입출금에 문제가 있을 뿐 다른 가상자산에는 이용에 문제가 없다고 설명했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 서비스 재개를 위해 시스템을 점검 중이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인퓨라 측도 “이더리움 메인넷 API 서비스를 일시 중단했다. 서비스를 복원하고 있다”고 공지했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빗썸·업비트·코인원 등 거래소, 이더리움 입출금 일시 중단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

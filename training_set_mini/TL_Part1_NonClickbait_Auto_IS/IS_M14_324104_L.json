@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324104",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "코드에프, 보험 마이데이터 서비스 '핀퐁' 준비 순항",
+		"newsSubTitle": "",
+		"newsContent": "코드에프(대표 여용주·서성권)는 금융위원회로부터 마이데이터(본인신용정보관리업) 예비허가를 지난 13일 획득한 데 이어 오는 11월 본 허가를 마치기 위한 마이데이터 사업 준비를 본격 진행하고 있다고 17일 밝혔다.\n핀퐁은 코드에프의 분석·추천(비교) 알고리즘을 기반으로 까다로운 보험 영역의 서비스를 쉽고 간편하게 제공하는 마이데이터 서비스다.\n보험사에 산재한 보험 자산 내역을 수집하고 통합 조회한 서비스를 기반으로 보험 소비자가 보장 자산을 분석하고 보험상품을 비교 선택할 수 있도록 한다.\n핀퐁은 △마이(My)보험 △보장분석 △상품 비교추천 △보험금 청구 △다이렉트 자동차보험료 비교 등 크게 다섯 가지를 소비자에게 서비스한다.\n마이보험은 40여개 보험사에 흩어진 소비자의 보험계약 상세정보를 한눈에 조회하는 서비스다.\n보유 계약 수, 월 보험료 합계, 계약별 상세 정보 등을 제공한다.\n보장 분석은 암, 심혈관 질환, 수술, 입원, 실손 보험 등 7개 대표 보장을 기준으로 개인별 분석 리포트 제공하고 보장 항목별 필요한 보장금액을 산출한다.\n특히 보장분석은 가장 기본적이고 중요한 항목인 만큼 핀퐁은 마이데이터 규격의 보험계약 데이터를 정확하게 분석·리포팅한다.\n상품 비교 추천은 개인별 최적의 보험상품을 추천하는 서비스 기능이다.\n소비자에게 상품 선택에 필요한 기준 항목을 제시하고 가장 유리한 상품을 선택할 수 있도록 한다.\n보험상품을 5개 카테고리와 17개 상품군으로 분류했다.\n보험금 청구는 병원의 진료내역 데이터를 보험사로 직접 전송할 수 있는 서비스형소프트웨어(SaaS) 형태로도 제공한다.\n보험금 청구를 위한 서류 발급 및 제출의 불편함이 없다.\n회사는 연내 6000여개의 병·의원과 연동, 보험 청구의 물리적 불편함을 해소할 계획이다.\n이외 다이렉트 자동차 보험료 비교는 차량번호와 가입조건 입력만으로 보험사별 보험료를 한눈에 조회·비교할 수 있다.\n자동차 번호만 입력하면 차량의 제원을 자동 수집, 보험료 산출을 위한 DB로 변환, 보험사별 다이렉트 자동차 보험료 산출이 가능하고 보험 가입까지 완료할 수 있다.\n코드에프 관계자는 “올해 초부터 보험 서비스 플랫폼인 '핀퐁'을 준비하며 마이데이터 인허가 준비에 총력을 기울여왔다”면서 “플랫폼 사업자를 대상으로 보험서비스를 쉽게 구현할 수 있도록 API, SaaS 또는 웹뷰 형태로 제공하는 B2B 모델인 '핀퐁 플러스' 서비스도 제공한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코드에프(대표 여용주·서성권)는 금융위원회로부터 마이데이터(본인신용정보관리업) 예비허가를 지난 13일 획득한 데 이어 오는 11월 본 허가를 마치기 위한 마이데이터 사업 준비를 본격 진행하고 있다고 17일 밝혔다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "핀퐁은 코드에프의 분석·추천(비교) 알고리즘을 기반으로 까다로운 보험 영역의 서비스를 쉽고 간편하게 제공하는 마이데이터 서비스다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보험사에 산재한 보험 자산 내역을 수집하고 통합 조회한 서비스를 기반으로 보험 소비자가 보장 자산을 분석하고 보험상품을 비교 선택할 수 있도록 한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "핀퐁은 △마이(My)보험 △보장분석 △상품 비교추천 △보험금 청구 △다이렉트 자동차보험료 비교 등 크게 다섯 가지를 소비자에게 서비스한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마이보험은 40여개 보험사에 흩어진 소비자의 보험계약 상세정보를 한눈에 조회하는 서비스다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보유 계약 수, 월 보험료 합계, 계약별 상세 정보 등을 제공한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "보장 분석은 암, 심혈관 질환, 수술, 입원, 실손 보험 등 7개 대표 보장을 기준으로 개인별 분석 리포트 제공하고 보장 항목별 필요한 보장금액을 산출한다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 보장분석은 가장 기본적이고 중요한 항목인 만큼 핀퐁은 마이데이터 규격의 보험계약 데이터를 정확하게 분석·리포팅한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "상품 비교 추천은 개인별 최적의 보험상품을 추천하는 서비스 기능이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "소비자에게 상품 선택에 필요한 기준 항목을 제시하고 가장 유리한 상품을 선택할 수 있도록 한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "보험상품을 5개 카테고리와 17개 상품군으로 분류했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "보험금 청구는 병원의 진료내역 데이터를 보험사로 직접 전송할 수 있는 서비스형소프트웨어(SaaS) 형태로도 제공한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "보험금 청구를 위한 서류 발급 및 제출의 불편함이 없다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "회사는 연내 6000여개의 병·의원과 연동, 보험 청구의 물리적 불편함을 해소할 계획이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이외 다이렉트 자동차 보험료 비교는 차량번호와 가입조건 입력만으로 보험사별 보험료를 한눈에 조회·비교할 수 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "자동차 번호만 입력하면 차량의 제원을 자동 수집, 보험료 산출을 위한 DB로 변환, 보험사별 다이렉트 자동차 보험료 산출이 가능하고 보험 가입까지 완료할 수 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "코드에프 관계자는 “올해 초부터 보험 서비스 플랫폼인 '핀퐁'을 준비하며 마이데이터 인허가 준비에 총력을 기울여왔다”면서 “플랫폼 사업자를 대상으로 보험서비스를 쉽게 구현할 수 있도록 API, SaaS 또는 웹뷰 형태로 제공하는 B2B 모델인 '핀퐁 플러스' 서비스도 제공한다”고 말했다.",
+				"sentenceSize": 161
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코드에프, 보험 마이데이터 서비스 '핀퐁' 준비 순항",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

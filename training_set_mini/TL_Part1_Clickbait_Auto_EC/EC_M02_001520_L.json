@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_001520",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "타다금지법 통과 여파...타다, 신규채용 취소",
+		"newsSubTitle": "",
+		"newsContent": "지난 6일 국회 본회의에서 여객자동차운수사업법 개정안(타다금지법)이 통과되면서 타다가 신규 채용을 취소한 것으로 확인됐다.\n타다는 최근 출근을 앞두고 있던 신규 직원들에 채용 취소를 통보했다고 9일 밝혔다.\n해당 직원들은 이번 주부터 출근할 예정이었다.\n타다 측은 \\\"개정법 통과로 당장 사업을 한 치 앞도 내다볼 수 없게 됐다\\\"면서 \\\"안타깝지만 기존 인력도 유지가 어려운 상황에서 신규 채용은 불가능하다고 판단했다\\\"고 설명했다.\n타다는 지난 7일 여객법 개정안 공포 후 1개월 내 타다 베이직을 잠정 중단하겠다고 밝혔다.\n현재 1500대 운영 중인 타다 베이직은 운전기사와 함께 11인승 승합차를 초단기로 대여해주는 타다의 대표 서비스다.\n타다 관계자는 미디어SR에 \\\"추후 사업 계획에 대해 별도로 말씀드릴 것이 없다\\\"면서 \\\"기존 인력에 대해서도 결정된 바 없다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 6일 국회 본회의에서 여객자동차운수사업법 개정안(타다금지법)이 통과되면서 타다가 신규 채용을 취소한 것으로 확인됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "타다는 최근 출근을 앞두고 있던 신규 직원들에 채용 취소를 통보했다고 9일 밝혔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 직원들은 이번 주부터 출근할 예정이었다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "타다 측은 \\\"개정법 통과로 당장 사업을 한 치 앞도 내다볼 수 없게 됐다\\\"면서 \\\"안타깝지만 기존 인력도 유지가 어려운 상황에서 신규 채용은 불가능하다고 판단했다\\\"고 설명했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타다는 지난 7일 여객법 개정안 공포 후 1개월 내 타다 베이직을 잠정 중단하겠다고 밝혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 1500대 운영 중인 타다 베이직은 운전기사와 함께 11인승 승합차를 초단기로 대여해주는 타다의 대표 서비스다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "타다 관계자는 미디어SR에 \\\"추후 사업 계획에 대해 별도로 말씀드릴 것이 없다\\\"면서 \\\"기존 인력에 대해서도 결정된 바 없다\\\"고 밝혔다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방통위, 가짜뉴스 막기 위한 '자율규제 협의체' 출범",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

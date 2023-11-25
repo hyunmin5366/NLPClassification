@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353834",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 게임",
+		"newsTitle": "엔씨소프트, 이제희 CRO 영입…\\\"R&D 역량 강화\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "엔씨소프트는 CRO(최고연구책임자)로 이제희 부사장을 영입했다고 6일 밝혔다.\n이 CRO는 2003년부터 서울대 컴퓨터공학부 교수로 재직한 컴퓨터 그래픽스 및 애니메이션 분야 석학이다.\n△물리 기반 동작 제어 △데이터 기반 동작 학습 및 생성 △사실적인 인체 모델링 분야에서 세계적인 수준의 연구 결과를 발표했고, 한국컴퓨터그래픽스학회 회장, 시그라프(SIGGRAPH) 아시아 2022 테크니컬 페이버스 위원장 등을 역임했다.\n최근에는 딥러닝과 강화학습 등 AI(인공지능) 기술을 활용한 연구를 진행하고 있다.\n2019년엔 세계 최초로 딥러닝 기술을 활용해 인체의 전신 운동계를 구현하는 연구 결과를 발표했다.\n엔씨소프트는 \\\"AI, 디지털 휴먼 등 차세대 첨단 기술에 대한 인적 자원 투자를 확대하고, 연구개발(R&D) 분야를 글로벌 수준으로 끌어올려 중장기 성장 동력을 발굴할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엔씨소프트는 CRO(최고연구책임자)로 이제희 부사장을 영입했다고 6일 밝혔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 CRO는 2003년부터 서울대 컴퓨터공학부 교수로 재직한 컴퓨터 그래픽스 및 애니메이션 분야 석학이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "△물리 기반 동작 제어 △데이터 기반 동작 학습 및 생성 △사실적인 인체 모델링 분야에서 세계적인 수준의 연구 결과를 발표했고, 한국컴퓨터그래픽스학회 회장, 시그라프(SIGGRAPH) 아시아 2022 테크니컬 페이버스 위원장 등을 역임했다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근에는 딥러닝과 강화학습 등 AI(인공지능) 기술을 활용한 연구를 진행하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2019년엔 세계 최초로 딥러닝 기술을 활용해 인체의 전신 운동계를 구현하는 연구 결과를 발표했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "엔씨소프트는 \\\"AI, 디지털 휴먼 등 차세대 첨단 기술에 대한 인적 자원 투자를 확대하고, 연구개발(R&D) 분야를 글로벌 수준으로 끌어올려 중장기 성장 동력을 발굴할 것\\\"이라고 말했다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엔씨소프트, 이제희 CRO 영입…\\\"R&D 역량 강화\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

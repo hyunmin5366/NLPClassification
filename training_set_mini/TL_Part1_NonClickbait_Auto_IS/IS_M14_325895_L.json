@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325895",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "IBM, 차세대 메인프레임 제품군 'IBM Z' 발표",
+		"newsSubTitle": "",
+		"newsContent": "IBM이 차세대 거래 시스템 'IBM Z'를 공개했다.\nIBM Z는 하루 120억 건 이상 암호화된 거래를 처리한다.\n애플리케이션, 클라우드 서비스, 데이터베이스(DB) 등 관련 데이터 상시 암호화가 가능한 암호화 엔진을 도입했다.\n이전 세대보다 암호화 알고리즘 전용 실리콘 성능이 높아졌다.\nx86 시스템보다 암호화 성능은 18배가 빠른 반면 암호화 비용은 x86 기반 솔루션 5%에 불과하다.\n데이터 변조 방지를 위한 암호화 키 기능도 있다.\nIBM Z 키 관리 시스템은 미국 FIPS(Federal Information Processing Standards) 레벨 4 표준을 충족한다.\n업계에서 통상 '높은 보안 수준'으로 여겨지는 레벨 2를 뛰어넘었다.\nIBM 시큐어 서비스 컨테이너로 이동∙휴지 시 데이터∙코드 자동 암호화, 설치∙실행 시간동안 데이터 변조 방지 기능을 제공한다.\nAPI 암호화도 제공한다.\nx86 기반 시스템 보다 3배 빠른 성능을 지원한다.\n유럽연합(EU) 일반 개인정보보호법(GDPR) 같은 글로벌 규정을 준수하도록 설계됐다.\nIBM은 IBM 클라우드 데이터 센터에서 블록체인 서비스를 위해 IBM Z 암호화 엔진을 사용할 계획이다.\n뉴욕, 런던, 프랑크푸르트, 상 파울로, 도쿄, 토론토에 위치한 클라우드 데이터 센터가 대상이다.\n마리 윅(Marie Wieck) IBM 블록체인 총괄은 \\\"IBM Z 암호화와 보안 컨테이너 강력한 조합은 클라우드 기반 IBM 블록체인 서비스를 차별화하는 요소\\\"라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "IBM이 차세대 거래 시스템 'IBM Z'를 공개했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "IBM Z는 하루 120억 건 이상 암호화된 거래를 처리한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "애플리케이션, 클라우드 서비스, 데이터베이스(DB) 등 관련 데이터 상시 암호화가 가능한 암호화 엔진을 도입했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이전 세대보다 암호화 알고리즘 전용 실리콘 성능이 높아졌다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "x86 시스템보다 암호화 성능은 18배가 빠른 반면 암호화 비용은 x86 기반 솔루션 5%에 불과하다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "데이터 변조 방지를 위한 암호화 키 기능도 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "IBM Z 키 관리 시스템은 미국 FIPS(Federal Information Processing Standards) 레벨 4 표준을 충족한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "업계에서 통상 '높은 보안 수준'으로 여겨지는 레벨 2를 뛰어넘었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "IBM 시큐어 서비스 컨테이너로 이동∙휴지 시 데이터∙코드 자동 암호화, 설치∙실행 시간동안 데이터 변조 방지 기능을 제공한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "API 암호화도 제공한다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "x86 기반 시스템 보다 3배 빠른 성능을 지원한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "유럽연합(EU) 일반 개인정보보호법(GDPR) 같은 글로벌 규정을 준수하도록 설계됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "IBM은 IBM 클라우드 데이터 센터에서 블록체인 서비스를 위해 IBM Z 암호화 엔진을 사용할 계획이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "뉴욕, 런던, 프랑크푸르트, 상 파울로, 도쿄, 토론토에 위치한 클라우드 데이터 센터가 대상이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "마리 윅(Marie Wieck) IBM 블록체인 총괄은 \\\"IBM Z 암호화와 보안 컨테이너 강력한 조합은 클라우드 기반 IBM 블록체인 서비스를 차별화하는 요소\\\"라고 말했다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "IBM, 차세대 메인프레임 제품군 'IBM Z' 발표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

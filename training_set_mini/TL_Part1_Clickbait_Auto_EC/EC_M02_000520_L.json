@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000520",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "토스, 전 직원에 스톡옵션 1억원 지급",
+		"newsSubTitle": "",
+		"newsContent": "간편 송금서비스 '토스'를 운영하는 비바리퍼블리카가 모든 직원에 1억원 상당의 스톡옵션을 지급하고 연봉을 50% 인상하기로 했다고 14일 밝혔다.\n비바리퍼블리카는 전체 직원 180명에 각 5천 주씩 스톡옵션(주식매수 선택권)을 지급하기로 했다.\n현재 주당가격 2만원인 5천 주는 약 1억원의 가치를 가진다.\n향후 회사에 새로 들어올 직원 120명에게도 입사 후 일정기간이 지나면 5천 주씩 지급 계획이다.\n이승건 대표는 \\\"제 2의 창업시기라 생각하고 우수한 인재를 확보하기 위한 것\\\"이라며 직원들의 노력과 회사가 맞이할 큰 도전을 함꼐 해결해나가자는 약속\\\"이라 말했다. 비바리퍼블리카 관계자는 14일 미디어SR에 \\\"이번 파격적인 인센티브 정책은 채용을 통해 좋은 분들을 모시기 위해서다\\\"라며 \\\"직원들과 이 대표의 마음은 대동소이\\\"라고 설명했다.\n토스는 2015년 2월 출시된 간편송금 서비스로 2018년 누적 가입자 1000만 명을 돌파했다.\n2016년 매출 34억원에서 2018년 매출추정액 560억원으로 크게 성장했다.\n기업가치는 약 1조3000억원으로 인정받는다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "간편 송금서비스 '토스'를 운영하는 비바리퍼블리카가 모든 직원에 1억원 상당의 스톡옵션을 지급하고 연봉을 50% 인상하기로 했다고 14일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비바리퍼블리카는 전체 직원 180명에 각 5천 주씩 스톡옵션(주식매수 선택권)을 지급하기로 했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재 주당가격 2만원인 5천 주는 약 1억원의 가치를 가진다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "향후 회사에 새로 들어올 직원 120명에게도 입사 후 일정기간이 지나면 5천 주씩 지급 계획이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이승건 대표는 \\\"제 2의 창업시기라 생각하고 우수한 인재를 확보하기 위한 것\\\"이라며 직원들의 노력과 회사가 맞이할 큰 도전을 함꼐 해결해나가자는 약속\\\"이라 말했다. 비바리퍼블리카 관계자는 14일 미디어SR에 \\\"이번 파격적인 인센티브 정책은 채용을 통해 좋은 분들을 모시기 위해서다\\\"라며 \\\"직원들과 이 대표의 마음은 대동소이\\\"라고 설명했다.",
+				"sentenceSize": 196
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "토스는 2015년 2월 출시된 간편송금 서비스로 2018년 누적 가입자 1000만 명을 돌파했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2016년 매출 34억원에서 2018년 매출추정액 560억원으로 크게 성장했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기업가치는 약 1조3000억원으로 인정받는다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가계부채 60조원… 위기 왔다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347247",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "북한발 GPS 혼신 탐지, '주의' 발령",
+		"newsSubTitle": "null",
+		"newsContent": "정부가 31일 GPS(위성항법장치) 감시시스템에 혼신 신호가 탐지돼 '주의' 단계를 발령했다.\n이날 오후 7시36분쯤 강화 지역에서 70dB(데시벨), 강원 대성산 지역은 100dB의 혼신 신호가 탐지됐다.\n미래창조과학부에 따르면 이날 혼신 신호원은 해주와 금강산 일대로 추정된다.\n미래부는 발생 즉시 유관기관에 혼신발생 소식을 알리고 오후 7시40분쯤 주의 단계를 발령했다.\n현재까지 이동통신사, 해양수산부 등에 피해는 없는 것으로 파악됐다.\n항공기 2대에서 혼신이 발생했지만 운행에는 지장이 없었다고 미래부 측은 전했다.\n정부는 주의단계 발령에 따라 비상근무를 강화하고 혼신 주파수를 지속적으로 추적, 피해상황을 관리한다고 밝혔다.\n추가 피해가 발생하면 경계단계는 현재 '주의'에서 '심각'으로 격상된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부가 31일 GPS(위성항법장치) 감시시스템에 혼신 신호가 탐지돼 '주의' 단계를 발령했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 오후 7시36분쯤 강화 지역에서 70dB(데시벨), 강원 대성산 지역은 100dB의 혼신 신호가 탐지됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미래창조과학부에 따르면 이날 혼신 신호원은 해주와 금강산 일대로 추정된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미래부는 발생 즉시 유관기관에 혼신발생 소식을 알리고 오후 7시40분쯤 주의 단계를 발령했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재까지 이동통신사, 해양수산부 등에 피해는 없는 것으로 파악됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "항공기 2대에서 혼신이 발생했지만 운행에는 지장이 없었다고 미래부 측은 전했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정부는 주의단계 발령에 따라 비상근무를 강화하고 혼신 주파수를 지속적으로 추적, 피해상황을 관리한다고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "추가 피해가 발생하면 경계단계는 현재 '주의'에서 '심각'으로 격상된다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "북한발 GPS 혼신 탐지, '주의' 발령",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_340012",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "고동진 \\\"갤노트20 출시 예정대로... 폴더블도 가을 전 출시\\\"",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 하반기 플래그십 스마트폰 갤럭시노트20과 폴더블 스마트폰 신제품을 3분기 예정대로 출시한다.\n코로나19 확산에 따른 생산차질이나 일정 지연은 없다는 방침이다.\n고동진 삼성전자 사장은 차기 폴더블폰 출시 계획에 대해 “가을 전에 낼 것”이라고 밝혔다.\n이어 갤럭시노트20에 대해서도 “예정대로 출시될 것”이라며 “연말까지 보급형 5G폰도 두 세 개 더 나올 예정”이라고 말했다.\n삼성전자는 지난해 8월 미국 뉴욕에서 갤럭시노트10 언팩 행사를 진행했다.\n올해도 역시 비슷한 시기 갤럭시노트20과 갤럭시폴드 후속 제품 언팩이 열릴 것으로 예상됐으나 코로나19 팬데믹이라는 예기치 못한 복병을 만난 상태다. 고 사장은 국내 선보일 예정인 갤럭시A71 5G에 대해서도 “이달이나 다음달 중 출시될 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 하반기 플래그십 스마트폰 갤럭시노트20과 폴더블 스마트폰 신제품을 3분기 예정대로 출시한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코로나19 확산에 따른 생산차질이나 일정 지연은 없다는 방침이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "고동진 삼성전자 사장은 차기 폴더블폰 출시 계획에 대해 “가을 전에 낼 것”이라고 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 갤럭시노트20에 대해서도 “예정대로 출시될 것”이라며 “연말까지 보급형 5G폰도 두 세 개 더 나올 예정”이라고 말했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성전자는 지난해 8월 미국 뉴욕에서 갤럭시노트10 언팩 행사를 진행했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "올해도 역시 비슷한 시기 갤럭시노트20과 갤럭시폴드 후속 제품 언팩이 열릴 것으로 예상됐으나 코로나19 팬데믹이라는 예기치 못한 복병을 만난 상태다. 고 사장은 국내 선보일 예정인 갤럭시A71 5G에 대해서도 “이달이나 다음달 중 출시될 것”이라고 말했다.",
+				"sentenceSize": 143
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "고동진 \\\"갤노트20 출시 예정대로... 폴더블도 가을 전 출시\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

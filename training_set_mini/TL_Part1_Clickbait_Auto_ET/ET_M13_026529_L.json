@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_026529",
+		"newsCategory": "연예",
+		"newsSubcategory": "음악",
+		"newsTitle": "파격 모델 바나나, 가수로 데뷔",
+		"newsSubTitle": "",
+		"newsContent": "모델 바나나가 가수로 데뷔한다.\n크리에이티브 팀 슈퍼라이프(SUPER LIFE)는 바나나가 7일 오후 6시 각 음원사이트에 본인만의 색채를 담은 곡 ‘반하나봐’를 발매한다고 이날 밝혔다.\n바나나의 첫 발매 곡 ‘반하나봐’는 몽환적 분위기에 베이스 라인이 돋보이는 팝 장르 댄스 곡으로 ‘슈퍼라이프’의 첫 프로젝트이고 짙은 이중성을 강조해 현실과 이상을 콘셉트로 담아냈다.\n모델로 활동해왔던 바나나는 이국적 외모로 데뷔 초부터 주목을 받아왔고 맥심 란제리 화보 등으로 대중들에게 큰 인기를 얻어왔다.\n다수의 화장품 광고를 비롯해 가수들의 뮤직비디오에도 출연하며 얼굴을 알려왔다.\n슈퍼라이프 팀 관계자는 “바나나 특유의 콘셉트인 유니크하고 다크한 분위기를 잘 살려 표현했으며 마치 모델 바나나의 이름을 부르는 듯한 ‘훅’(BANANABA)에 재미를 느낄 수 있을 것”이라고 말했다.\n바바나 또한 “오랫동안 준비한 곡이고 자신만의 색채를 만들어준 크리에이티브 프로듀싱 슈퍼라이프팀에게 감사한다”며 “모델 바나나에서 신인가수 바나나로 대중 분들께 보여드릴 수 있어 기쁘다”라고 했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모델 바나나가 가수로 데뷔한다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "크리에이티브 팀 슈퍼라이프(SUPER LIFE)는 바나나가 7일 오후 6시 각 음원사이트에 본인만의 색채를 담은 곡 ‘반하나봐’를 발매한다고 이날 밝혔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "바나나의 첫 발매 곡 ‘반하나봐’는 몽환적 분위기에 베이스 라인이 돋보이는 팝 장르 댄스 곡으로 ‘슈퍼라이프’의 첫 프로젝트이고 짙은 이중성을 강조해 현실과 이상을 콘셉트로 담아냈다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "모델로 활동해왔던 바나나는 이국적 외모로 데뷔 초부터 주목을 받아왔고 맥심 란제리 화보 등으로 대중들에게 큰 인기를 얻어왔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다수의 화장품 광고를 비롯해 가수들의 뮤직비디오에도 출연하며 얼굴을 알려왔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "슈퍼라이프 팀 관계자는 “바나나 특유의 콘셉트인 유니크하고 다크한 분위기를 잘 살려 표현했으며 마치 모델 바나나의 이름을 부르는 듯한 ‘훅’(BANANABA)에 재미를 느낄 수 있을 것”이라고 말했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "바바나 또한 “오랫동안 준비한 곡이고 자신만의 색채를 만들어준 크리에이티브 프로듀싱 슈퍼라이프팀에게 감사한다”며 “모델 바나나에서 신인가수 바나나로 대중 분들께 보여드릴 수 있어 기쁘다”라고 했다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "배우 박해진, 명예소방관 위촉 이어 행안부 장관 표창받는다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

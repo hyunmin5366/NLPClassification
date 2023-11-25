@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329283",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "오토노머스에이투지, 美 도로교통안전국 자율주행 안전평가 국내 기업 첫 등재",
+		"newsSubTitle": "",
+		"newsContent": "자율주행 스타트업 오토노머스에이투지가 국내 기업으로는 처음으로 미국 도로교통안전국(NHTSA) '자발적 안전자체평가(VSSA)' 등재를 마쳤다.\n세계 27번째이자 국내 기업 최초다.\n회사는 실증 중인 개조 전기차 기반 로보택시는 물론 오는 2027년 자체 양산할 자율주행 특수목적차(PBV)를 기반으로 미국 시장에 진출할 계획이다.\n미국 정부는 레벨3~5 자율주행 기술을 개발하는 업체가 스스로 VSSA를 수행할 것을 권고하고 있다.\nNHTSA는 자율주행차 개발을 위한 12개 항목을 설정하고 업체는 이에 따라 VSSA를 작성하는 방식이다.\n모셔널, 애플, 웨이모, 죽스, 우버, 리프트, 오로라, BMW, 포드 등이 VSSA를 등재했다.\n오토노머스에이투지는 NHTSA가 발표한 '자율주행차(AV) 3.0'과 'AV 4.0'을 기반으로 VSSA를 작성했다.\n△시스템 안정성 △운영 디자인 범위(ODD) △대상 및 이벤트 감지 대응(OEDR) △대처법 △검증방법 △휴먼 머신 인터페이스(HMI) △차량 사이버 보안 △충돌 내구성 △충돌 후 ADS 동작 △데이터 기록 △소비자 교육 및 훈련 등을 담았다.\n오토노머스에이투지는 VSSA에서 지난해 기준 한국에서 자율주행 실도로 주행거리 11만6639마일(18만7712㎞)을 기록했고, 21대 자율주행차를 운영하고 있다고 소개했다.\n8가지 유형의 차량 모두 하나의 소프트웨어(SW) 알고리즘으로 자율주행을 구현했다고 설명했다.\n회사는 라이다, 레이더, 카메라를 기반으로 자율주행을 구현하는 솔루션을 갖췄다.\n해당 솔루션을 양산차에 적용해 자율주행 서비스 구현뿐 아니라 자체적으로 자율주행차를 설계해 양산하는 프로젝트도 진행 중이다.\n전장 3m 소형 배송 플랫폼 'SM'과 5m 중형 셔틀 플랫폼 'MD'를 개발한다.\n최고속도 40㎞/h로 일반도로가 아닌 특정 영역 내에서만 운영하는 형태다.\n주행 안전과 사이버 보안을 위해서도 신경썼다.\n구체적 ODD에 따라 주행하도록 차량을 설계했다.\nHMI가 ODD를 벗어나는 상황을 정확히 인지하고, 충돌 사고 우려가 있을 때 예비운전자에게 알린다.\n충돌사고 발생시 중앙관제센터가 실시간으로 상황을 확인하고 대응하도록 구성했다.\n사이버 보안을 위해 주제어PC와 통신제어PC를 분리했다.\n두 제어PC 간에는 물리적 보안 하드웨어(HW)를 설치해 통신제어PC를 사이버 공격으로부터 보호한다.\n보안 HW(보안 스위치)는 국가정보원(NIS)과 국제정보보증조합(NIAP) 'CCEAL 4+' 인증을 취득했다.\n자체 개발 자율주행 플랫폼은 보안 HW까지 제거한 보안 설계를 위해 KT와 협력해 개발 중이다.\n한지형 오토노머스에이투지 대표는 “자율주행은 미래를 극적으로 바꿀 수 있는 잠재력을 갖고 있으나 안전과 지속 가능성이라는 두 가지 핵심사항을 유지해야 실현 가능하다”며 “안전을 우선시하고 안전한 기술이 사람들에게 가져다 줄 수 있는 혜택을 증가시켜 나갈 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자율주행 스타트업 오토노머스에이투지가 국내 기업으로는 처음으로 미국 도로교통안전국(NHTSA) '자발적 안전자체평가(VSSA)' 등재를 마쳤다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "세계 27번째이자 국내 기업 최초다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "회사는 실증 중인 개조 전기차 기반 로보택시는 물론 오는 2027년 자체 양산할 자율주행 특수목적차(PBV)를 기반으로 미국 시장에 진출할 계획이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미국 정부는 레벨3~5 자율주행 기술을 개발하는 업체가 스스로 VSSA를 수행할 것을 권고하고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "NHTSA는 자율주행차 개발을 위한 12개 항목을 설정하고 업체는 이에 따라 VSSA를 작성하는 방식이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모셔널, 애플, 웨이모, 죽스, 우버, 리프트, 오로라, BMW, 포드 등이 VSSA를 등재했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "오토노머스에이투지는 NHTSA가 발표한 '자율주행차(AV) 3.0'과 'AV 4.0'을 기반으로 VSSA를 작성했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "△시스템 안정성 △운영 디자인 범위(ODD) △대상 및 이벤트 감지 대응(OEDR) △대처법 △검증방법 △휴먼 머신 인터페이스(HMI) △차량 사이버 보안 △충돌 내구성 △충돌 후 ADS 동작 △데이터 기록 △소비자 교육 및 훈련 등을 담았다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "오토노머스에이투지는 VSSA에서 지난해 기준 한국에서 자율주행 실도로 주행거리 11만6639마일(18만7712㎞)을 기록했고, 21대 자율주행차를 운영하고 있다고 소개했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "8가지 유형의 차량 모두 하나의 소프트웨어(SW) 알고리즘으로 자율주행을 구현했다고 설명했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "회사는 라이다, 레이더, 카메라를 기반으로 자율주행을 구현하는 솔루션을 갖췄다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "해당 솔루션을 양산차에 적용해 자율주행 서비스 구현뿐 아니라 자체적으로 자율주행차를 설계해 양산하는 프로젝트도 진행 중이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "전장 3m 소형 배송 플랫폼 'SM'과 5m 중형 셔틀 플랫폼 'MD'를 개발한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "최고속도 40㎞/h로 일반도로가 아닌 특정 영역 내에서만 운영하는 형태다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "주행 안전과 사이버 보안을 위해서도 신경썼다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "구체적 ODD에 따라 주행하도록 차량을 설계했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "HMI가 ODD를 벗어나는 상황을 정확히 인지하고, 충돌 사고 우려가 있을 때 예비운전자에게 알린다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "충돌사고 발생시 중앙관제센터가 실시간으로 상황을 확인하고 대응하도록 구성했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "사이버 보안을 위해 주제어PC와 통신제어PC를 분리했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "두 제어PC 간에는 물리적 보안 하드웨어(HW)를 설치해 통신제어PC를 사이버 공격으로부터 보호한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "보안 HW(보안 스위치)는 국가정보원(NIS)과 국제정보보증조합(NIAP) 'CCEAL 4+' 인증을 취득했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "자체 개발 자율주행 플랫폼은 보안 HW까지 제거한 보안 설계를 위해 KT와 협력해 개발 중이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "한지형 오토노머스에이투지 대표는 “자율주행은 미래를 극적으로 바꿀 수 있는 잠재력을 갖고 있으나 안전과 지속 가능성이라는 두 가지 핵심사항을 유지해야 실현 가능하다”며 “안전을 우선시하고 안전한 기술이 사람들에게 가져다 줄 수 있는 혜택을 증가시켜 나갈 것”이라고 말했다.",
+				"sentenceSize": 152
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오토노머스에이투지, 美 도로교통안전국 자율주행 안전평가 국내 기업 첫 등재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

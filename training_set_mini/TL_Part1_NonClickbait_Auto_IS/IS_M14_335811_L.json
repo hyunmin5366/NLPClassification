@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335811",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "빗썸 해킹 피해 350억원->190억원으로 줄어",
+		"newsSubTitle": "",
+		"newsContent": "암호화폐거래소 빗썸이 해킹 피해 규모가 190억원으로 줄었다.\n빗썸은 사고 직후 20일 암호화폐 탈취 피해 규모를 350억원으로 밝혔다.\n빗썸은 28일 피해 복구작업을 통해 현재 피해액이 약 190억원으로 잠점 집계됐다고 공지했다.\n가장 많이 탈취된 암호화폐는 비트코인으로 약 130억원 규모였다.\n리플 27억원, 이더리움 10억원 등이다.\n피해규모가 감소한 건 암호화폐 재단과 다른 거래소와 협업, 콜드월렛 보관 조치를 했기 때문이라고 설명했다.\n빗썸은 사건 직후 추가 피해 방지를 위해 암호화폐 입금 중단을 안내했는데 입금이 계속된다고 밝혔다.\n입금 서비스는 시스템 전면 교체 등 안전성이 확보될때까지 중단한다고 덧붙였다.\n빗썸은 전 회원에게 거래 수수료 무료 쿠폰을 제공하는 보상 이벤트를 한다.\n보유 암호화폐에 대한 에어드랍 이벤트도 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "암호화폐거래소 빗썸이 해킹 피해 규모가 190억원으로 줄었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빗썸은 사고 직후 20일 암호화폐 탈취 피해 규모를 350억원으로 밝혔다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "빗썸은 28일 피해 복구작업을 통해 현재 피해액이 약 190억원으로 잠점 집계됐다고 공지했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가장 많이 탈취된 암호화폐는 비트코인으로 약 130억원 규모였다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "리플 27억원, 이더리움 10억원 등이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "피해규모가 감소한 건 암호화폐 재단과 다른 거래소와 협업, 콜드월렛 보관 조치를 했기 때문이라고 설명했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "빗썸은 사건 직후 추가 피해 방지를 위해 암호화폐 입금 중단을 안내했는데 입금이 계속된다고 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "입금 서비스는 시스템 전면 교체 등 안전성이 확보될때까지 중단한다고 덧붙였다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "빗썸은 전 회원에게 거래 수수료 무료 쿠폰을 제공하는 보상 이벤트를 한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "보유 암호화폐에 대한 에어드랍 이벤트도 한다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빗썸 해킹 피해 350억원->190억원으로 줄어",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

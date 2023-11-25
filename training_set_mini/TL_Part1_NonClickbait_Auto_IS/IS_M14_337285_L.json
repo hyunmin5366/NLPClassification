@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337285",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[올쇼TV]SK C&C 5월6일 '데이터 분석가를 위해 준비한 AWS 기반의 빅데이터 분석 플랫폼'",
+		"newsSubTitle": "",
+		"newsContent": "SK C&C는 6일 오후 3시 올쇼TV에서 분석가를 위해 준비한 'AWS 기반의 빅데이터 분석 플랫폼'을 소개한다.\n기업은 빅데이터를 분석해야 하는데 알아야 할 기술도 많고 과정은 복잡하다.\nAWS 기반 빅데이터 분석 서비스도 많다.\n현업 직원은 데이터 분석을 위해 매번 환경을 세팅하는데 어려움을 호소한다.\n데이터 사이언티스트는 웹 개발을 몰라서 웹API를 만들고 테스트를 할 수 없다.\n웹 개발자는 인공지능 관련 내용을 앱API로 만들 수 없다.\nSK C&C는 웨비나에서 AWS 기반 아큐인사이트플러스(AccuInsight+)를 소개한다.\n아큐인사이트플러스는 빅데이터 분석 비용 걱정 없이 단순 워크로드와 총소유비용(TCO)를 고려하며 데이터 사이언티스트가 원하는 개별 개발 환경은 제공한다.\n분류와 예측 모델을 활용해 REST API까지 포함된 개발환경이다.\n웨비나는 무료며 올쇼TV 사이트에서 사전 신청하면 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK C&C는 6일 오후 3시 올쇼TV에서 분석가를 위해 준비한 'AWS 기반의 빅데이터 분석 플랫폼'을 소개한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기업은 빅데이터를 분석해야 하는데 알아야 할 기술도 많고 과정은 복잡하다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AWS 기반 빅데이터 분석 서비스도 많다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현업 직원은 데이터 분석을 위해 매번 환경을 세팅하는데 어려움을 호소한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "데이터 사이언티스트는 웹 개발을 몰라서 웹API를 만들고 테스트를 할 수 없다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "웹 개발자는 인공지능 관련 내용을 앱API로 만들 수 없다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SK C&C는 웨비나에서 AWS 기반 아큐인사이트플러스(AccuInsight+)를 소개한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아큐인사이트플러스는 빅데이터 분석 비용 걱정 없이 단순 워크로드와 총소유비용(TCO)를 고려하며 데이터 사이언티스트가 원하는 개별 개발 환경은 제공한다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "분류와 예측 모델을 활용해 REST API까지 포함된 개발환경이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "웨비나는 무료며 올쇼TV 사이트에서 사전 신청하면 된다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[올쇼TV]SK C&C 5월6일 '데이터 분석가를 위해 준비한 AWS 기반의 빅데이터 분석 플랫폼'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

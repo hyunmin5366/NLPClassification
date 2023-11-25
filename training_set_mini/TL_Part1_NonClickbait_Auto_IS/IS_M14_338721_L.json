@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338721",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "마그나, CES 2022 참가...아이콘 레이더 '혁신상' 수상",
+		"newsSubTitle": "",
+		"newsContent": "캐나다 자동차 부품사 마그나 인터내셔널(이하 마그나)가 CES 2022에서 차세대 모빌리티에 적용 가능한 다양한 기술을 소개한다.\n마그나는 미국 라스베이거스에서 열릴 CES 2022에 참가한다고 15일(현지시간) 밝혔다.\n또 내년 1월 4일 오전 9시 만달레이 베이에서 기자회견을 개최할 예정이라고 예고했다.\n마그나는 에코 혁신에 초점을 맞춰 전시한다.\n전동 파워트레인 시스템, 액티브 에어로다이내믹 시스템, 배터리 인클로저 솔루션 등을 선보인다.\n실물 크기의 차량과 기술 디스플레이, 혼합 현실(AR), 제품 애니메이션을 사용해 제품을 효과적으로 소개한다.\n마그나는 차량 지능 및 교통 부문에서 CES 2022 최고 혁신상을 수상한 '아이콘 디지털 레이더 기술'도 선보인다.\n자동차 업계 최초로 개발한 기술로 내년 전기차 업체 피스커의 중형 스포츠유틸리티차(SUV) '오션'에 첫 적용 예정이다.\n마그나의 부스는 라스베이거스 컨벤션 센터의 웨스트 홀, 부스 번호 #5528에서 찾을 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "캐나다 자동차 부품사 마그나 인터내셔널(이하 마그나)가 CES 2022에서 차세대 모빌리티에 적용 가능한 다양한 기술을 소개한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "마그나는 미국 라스베이거스에서 열릴 CES 2022에 참가한다고 15일(현지시간) 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 내년 1월 4일 오전 9시 만달레이 베이에서 기자회견을 개최할 예정이라고 예고했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마그나는 에코 혁신에 초점을 맞춰 전시한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전동 파워트레인 시스템, 액티브 에어로다이내믹 시스템, 배터리 인클로저 솔루션 등을 선보인다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "실물 크기의 차량과 기술 디스플레이, 혼합 현실(AR), 제품 애니메이션을 사용해 제품을 효과적으로 소개한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "마그나는 차량 지능 및 교통 부문에서 CES 2022 최고 혁신상을 수상한 '아이콘 디지털 레이더 기술'도 선보인다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "자동차 업계 최초로 개발한 기술로 내년 전기차 업체 피스커의 중형 스포츠유틸리티차(SUV) '오션'에 첫 적용 예정이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "마그나의 부스는 라스베이거스 컨벤션 센터의 웨스트 홀, 부스 번호 #5528에서 찾을 수 있다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마그나, CES 2022 참가...아이콘 레이더 '혁신상' 수상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

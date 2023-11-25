@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322538",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "애플 1Q 순이익 12조5000억… 아이폰 판매량 예상↓",
+		"newsSubTitle": "",
+		"newsContent": "애플의 지난 1분기 순이익은 전년 동기 대비 소폭 상승했지만, 아이폰 판매량은 기대치에 크게 못 미친 것으로 나타났다.\n애플은 올 1분기 매출 529억달러(약 59조8299억원), 순이익 110억3000만 달러(약12조4749억원), 주당순이익 2.1달러를 기록했다고 밝혔다.\n전년 동기대비 매출은 4.6%, 순이익은 4.9% 증가했다.\n1분기 아이폰은 총 5076만대 판매했다.\n지난해 1분기 판매량(5119만대)에 못 미칠 뿐만 아니라, 전문가 예상치인 5277만대를 크게 밑돌았다.\n이 같은 판매 부진으로 애플 주가는 장 마감 후 2% 가량 하락한 144.66달러에 거래됐다.\n앱스토어 매출은 40% 증가해 사상 최대 분기 증가율을 보였으며, 애플뮤직도 두 자릿수 성장을 기록했다.\n애플은 현금 보유고가 2568억 달러(약 290조4000억원)이며, 이 가운데 93%가 해외에 있다고 밝혔다.\n팀 쿡 애플 최고경영자(CEO)는 \\\"아이폰 매출은 중국을 제외한 전 세계 모든 지역에서 증가했다\\\"면서 \\\"중국에서는 달러 강세 등 영향으로 14% 하락했다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플의 지난 1분기 순이익은 전년 동기 대비 소폭 상승했지만, 아이폰 판매량은 기대치에 크게 못 미친 것으로 나타났다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애플은 올 1분기 매출 529억달러(약 59조8299억원), 순이익 110억3000만 달러(약12조4749억원), 주당순이익 2.1달러를 기록했다고 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전년 동기대비 매출은 4.6%, 순이익은 4.9% 증가했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "1분기 아이폰은 총 5076만대 판매했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 1분기 판매량(5119만대)에 못 미칠 뿐만 아니라, 전문가 예상치인 5277만대를 크게 밑돌았다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 같은 판매 부진으로 애플 주가는 장 마감 후 2% 가량 하락한 144.66달러에 거래됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앱스토어 매출은 40% 증가해 사상 최대 분기 증가율을 보였으며, 애플뮤직도 두 자릿수 성장을 기록했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "애플은 현금 보유고가 2568억 달러(약 290조4000억원)이며, 이 가운데 93%가 해외에 있다고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "팀 쿡 애플 최고경영자(CEO)는 \\\"아이폰 매출은 중국을 제외한 전 세계 모든 지역에서 증가했다\\\"면서 \\\"중국에서는 달러 강세 등 영향으로 14% 하락했다\\\"고 말했다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플 1Q 순이익 12조5000억… 아이폰 판매량 예상↓",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

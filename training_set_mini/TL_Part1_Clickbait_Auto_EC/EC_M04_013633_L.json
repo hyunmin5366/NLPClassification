@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013633",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "한은 기준금리 연 2.00% 동결",
+		"newsSubTitle": "가계빚 증가에 추가인하 부담… 실물경제 영향파악 6개월 판단",
+		"newsContent": "한국은행(총재 이주열·이하 한은)이 기준금리를 연 2.00%로 동결했다.\n11일 한은은 금융통화위원회 본회의를 열고 기준금리를 기존 연 2.00%로 유지하기로 결정했다.\n한은은 앞서 지난 8월과 10월에 기준금리를 0.25%포인트씩 각각 인하했다.\n이번 기준금리 동결은 기준금리 변동 효과가 실물경제에 영향을 끼치려면 적어도 6개월 이상이 필요하다고 판단한데 따른 조치다.\n또한 저금리와 정부의 부동산 금융 규제 완화 영향으로 은행의 주택담보대출을 중심으로 가계부채가 급증한 것도 추가 인하를 부담스럽게 한 요인이다.\n한은은 기준금리를 지난 2012년 7월에 3.25%에서 3.00%로 인하한 후 10월 2.75%로, 2013년 5월 2.50%로 각각 인하했다.\n이후 14개월 연속 동결해오다 올해 8월과 10월에 각각 0.25%포인트씩 내렸다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국은행(총재 이주열·이하 한은)이 기준금리를 연 2.00%로 동결했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 한은은 금융통화위원회 본회의를 열고 기준금리를 기존 연 2.00%로 유지하기로 결정했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한은은 앞서 지난 8월과 10월에 기준금리를 0.25%포인트씩 각각 인하했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 기준금리 동결은 기준금리 변동 효과가 실물경제에 영향을 끼치려면 적어도 6개월 이상이 필요하다고 판단한데 따른 조치다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 저금리와 정부의 부동산 금융 규제 완화 영향으로 은행의 주택담보대출을 중심으로 가계부채가 급증한 것도 추가 인하를 부담스럽게 한 요인이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한은은 기준금리를 지난 2012년 7월에 3.25%에서 3.00%로 인하한 후 10월 2.75%로, 2013년 5월 2.50%로 각각 인하했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 14개월 연속 동결해오다 올해 8월과 10월에 각각 0.25%포인트씩 내렸다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "외국인 부가세 즉시환급, 대전서도 호응",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

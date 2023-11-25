@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_340069",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "방송",
+		"newsTitle": "알티캐스트, 현대HCN에 CAS 솔루션 공급",
+		"newsSubTitle": "",
+		"newsContent": "알티캐스트가 현대HCN에 CAS솔루션을 공급한다.\nCAS(Conditional Access System)는 유료방송에 가입해 수신료를 지급한 가입자만이 특정 채널 및 프로그램을 시청할 수 있도록 한 방송용 보안솔루션이다.\n134만명 이상 가입자를 확보한 현대HCN에 CAS솔루션을 공급, 알티캐스트는 국내 5대 복수종합유선방송사업자(MSO)에 CAS솔루션을 공급하게 됐다.\n현대HCN은 그동안 MSO 중 유일하게 외산 CAS 솔루션을 이용했다.\n시스코(NDS)와 계약기간이 만료되자, 알티캐스트가 개발한 국산 CAS솔루션으로 전량 교체했다.\n2018년 8월까지 교체를 완료할 계획이다.\n알티캐스트는 현대 HCN에 CAS 솔루션 외에 미들웨어(M/W)와 방송 프로그램 가이드(EPG) 제품도 동시에 제공한다.\n알티캐스트는 국내 시장 호조를 바탕으로 글로벌 시장에도 진출할 계획이다.\n조미성 알티캐스트 시큐리티 사업부장은 “외산업체를 성공적으로 대체한 성공사례가 해외 방송사업자로부터 관심을 끌고 있다”며 “검증된 솔루션과 CAS전환 상용화 경험을 발판으로 글로벌 유료방송사업자를 대상으로 영업을 전개하는 중”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "알티캐스트가 현대HCN에 CAS솔루션을 공급한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CAS(Conditional Access System)는 유료방송에 가입해 수신료를 지급한 가입자만이 특정 채널 및 프로그램을 시청할 수 있도록 한 방송용 보안솔루션이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "134만명 이상 가입자를 확보한 현대HCN에 CAS솔루션을 공급, 알티캐스트는 국내 5대 복수종합유선방송사업자(MSO)에 CAS솔루션을 공급하게 됐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현대HCN은 그동안 MSO 중 유일하게 외산 CAS 솔루션을 이용했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시스코(NDS)와 계약기간이 만료되자, 알티캐스트가 개발한 국산 CAS솔루션으로 전량 교체했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2018년 8월까지 교체를 완료할 계획이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "알티캐스트는 현대 HCN에 CAS 솔루션 외에 미들웨어(M/W)와 방송 프로그램 가이드(EPG) 제품도 동시에 제공한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "알티캐스트는 국내 시장 호조를 바탕으로 글로벌 시장에도 진출할 계획이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "조미성 알티캐스트 시큐리티 사업부장은 “외산업체를 성공적으로 대체한 성공사례가 해외 방송사업자로부터 관심을 끌고 있다”며 “검증된 솔루션과 CAS전환 상용화 경험을 발판으로 글로벌 유료방송사업자를 대상으로 영업을 전개하는 중”이라고 밝혔다.",
+				"sentenceSize": 134
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "알티캐스트, 현대HCN에 CAS 솔루션 공급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

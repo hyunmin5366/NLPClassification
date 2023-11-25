@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004218",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "카카오뱅크, 오는 22일부터 전월세 보증금 대출 재개",
+		"newsSubTitle": "계약 갱신 시에는 증액 부분에 한해 대출 진행 원활한 대출 위해 1일 신규 대출 접수량 제한",
+		"newsContent": "금융당국과 은행권의 협의에 따라 이번주부터 전월세보증금 대출이 재개된 가운데, 인터넷전문은행 카카오뱅크도 일반 전월세보증금 대출을 재개한다.\n카카오뱅크는 오는 22일부터 일반 전월세보증금 대출의 신규 대출을 재개한다고 20일 밝혔다.\n이는 금융당국의 대출 규제 조치에 따라 지난 8일 전월세보증금 신규 대출을 중단한지 2주 만의 재개 조치다.\n우선 신규 대출은 전월세 계약 잔금일 이전인 경우에 신청이 가능하다.\n카카오뱅크 및 타 금융기관에서 전월세보증금 대출을 사용중인 경우, 증액 대출은 불가능하다.\n대출 미보유 고객의 경우에는 계약 갱신 시 증액 부분에 한해서만 대출이 진행된다.\n카카오뱅크 관계자는 데일리임팩트에 \\\"다만, 원활한 서류 접수 및 확인을 위해 1일 신규 대출 신청 서류 접수량에 대해서는 일정부분 수량 제한을 둘 계획\\\"이라고 설명했다.\n한편, 카카오뱅크는 실수요자 중심의 전월세보증금 대출이 원활하게 공급될 수 있도록 노력하겠다는 방침이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융당국과 은행권의 협의에 따라 이번주부터 전월세보증금 대출이 재개된 가운데, 인터넷전문은행 카카오뱅크도 일반 전월세보증금 대출을 재개한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오뱅크는 오는 22일부터 일반 전월세보증금 대출의 신규 대출을 재개한다고 20일 밝혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 금융당국의 대출 규제 조치에 따라 지난 8일 전월세보증금 신규 대출을 중단한지 2주 만의 재개 조치다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우선 신규 대출은 전월세 계약 잔금일 이전인 경우에 신청이 가능하다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카카오뱅크 및 타 금융기관에서 전월세보증금 대출을 사용중인 경우, 증액 대출은 불가능하다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대출 미보유 고객의 경우에는 계약 갱신 시 증액 부분에 한해서만 대출이 진행된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "카카오뱅크 관계자는 데일리임팩트에 \\\"다만, 원활한 서류 접수 및 확인을 위해 1일 신규 대출 신청 서류 접수량에 대해서는 일정부분 수량 제한을 둘 계획\\\"이라고 설명했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 카카오뱅크는 실수요자 중심의 전월세보증금 대출이 원활하게 공급될 수 있도록 노력하겠다는 방침이다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국토부, 호남고속철도 개통 앞두고 마무리 개통점검 돌입",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

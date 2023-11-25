@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014463",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "코레일 역·열차 소독 강화",
+		"newsSubTitle": "청소인력 1.5배 증원",
+		"newsContent": "최근 메르스(MERS)에 대한 국민적 불안감이 증폭되고 있는 가운데, 코레일이 메르스 예방대책 추진에 총력을 기울이고 있다.\n코레일은 메르스 확산 방지를 위해 약 5억원을 투입해 살균 소독제, 마스크 등을 확보하고, 청소인력도 평시 대비 1.5배 증원해 전국 주요 역과 열차에 대한 분사형 소독과 방역 및 스팀청소기 청소를 지난 3일부터 시행하고 있다.\n특히 역사 내 맞이방ㆍ의자, 출입문 손잡이, 매표창구, 승차권 자동발매기, 승강기와 에스컬레이터 손잡이 등 취약시설에 대해서는 2시간 단위로 소독을 강화하고 있다.\n접객직원 및 고객에 대한 선제적 예방대책도 시행 중이다.\n접객직원의 위생관리 및 청결유지를 위해 ▲접객직원(매표원, 안내원, 열차승무원) 마스크 지급 ▲매표창구 운영방식 개선(개방형→폐쇄형) ▲전 소속에 손 세정제 등을 비치하고 있다.\n또 열차승무원에 체온계와 장갑을 지급해 기침을 하는 의심환자 발생시 체온을 측정하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 메르스(MERS)에 대한 국민적 불안감이 증폭되고 있는 가운데, 코레일이 메르스 예방대책 추진에 총력을 기울이고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코레일은 메르스 확산 방지를 위해 약 5억원을 투입해 살균 소독제, 마스크 등을 확보하고, 청소인력도 평시 대비 1.5배 증원해 전국 주요 역과 열차에 대한 분사형 소독과 방역 및 스팀청소기 청소를 지난 3일부터 시행하고 있다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 역사 내 맞이방ㆍ의자, 출입문 손잡이, 매표창구, 승차권 자동발매기, 승강기와 에스컬레이터 손잡이 등 취약시설에 대해서는 2시간 단위로 소독을 강화하고 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "접객직원 및 고객에 대한 선제적 예방대책도 시행 중이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "접객직원의 위생관리 및 청결유지를 위해 ▲접객직원(매표원, 안내원, 열차승무원) 마스크 지급 ▲매표창구 운영방식 개선(개방형→폐쇄형) ▲전 소속에 손 세정제 등을 비치하고 있다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 열차승무원에 체온계와 장갑을 지급해 기침을 하는 의심환자 발생시 체온을 측정하고 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "은산분리 완화 통과, 카카오∙케이뱅크 남은 숙제는",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

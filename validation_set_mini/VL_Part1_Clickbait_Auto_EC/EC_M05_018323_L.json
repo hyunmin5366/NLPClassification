@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M05_018323",
+		"newsCategory": "경제",
+		"newsSubcategory": "경제일반",
+		"newsTitle": "국고채 금리 대체로 상승…3년물 연 1.276%",
+		"newsSubTitle": "",
+		"newsContent": "11일 국고채 금리가 대체로 상승했다.\n이날 서울 채권시장에서 3년 만기 국고채 금리는 전 거래일 대비 0.6bp(1bp=0.01%포인트) 내린 연 1.276%에 장을 마쳤다.\n10년물 금리는 연 2.101%로 1.6bp 상승했다.\n5년물과 2년물은 각각 2.0bp, 2.5bp 상승해 연 1.658%, 연 1.165%에 마감했다.\n20년물은 연 2.191%로 0.6bp 올랐다.\n30년물과 50년물은 각각 0.7bp, 0.5bp 상승해 연 2.185%, 연 2.184%를 기록했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "11일 국고채 금리가 대체로 상승했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 서울 채권시장에서 3년 만기 국고채 금리는 전 거래일 대비 0.6bp(1bp=0.01%포인트) 내린 연 1.276%에 장을 마쳤다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "10년물 금리는 연 2.101%로 1.6bp 상승했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "5년물과 2년물은 각각 2.0bp, 2.5bp 상승해 연 1.658%, 연 1.165%에 마감했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "20년물은 연 2.191%로 0.6bp 올랐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "30년물과 50년물은 각각 0.7bp, 0.5bp 상승해 연 2.185%, 연 2.184%를 기록했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“과거는 잊어주세요” 예나래 안간힘",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

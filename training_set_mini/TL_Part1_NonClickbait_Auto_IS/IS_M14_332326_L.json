@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332326",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "갤S8 홍채인식 해킹...눈 사진 프린트해 콘택트렌즈 올리니 인식",
+		"newsSubTitle": "",
+		"newsContent": "독일 해커가 프린트한 눈 사진에 콘택트렌즈를 올려 삼성전자 갤럭시S8 홍채인식 해킹에 성공했다.\n가디언은 24일 독일 카오스 컴퓨터 클럽이 올린 영상을 인용해 가짜 눈으로 갤럭시S8 홍채인식을 해킹했다고 보도했다.\n카오스 컴퓨터 클럽은 갤럭시S8 사용자 사진을 찍었다.\n소셜네트워크에 올라온 정면 사진 등도 사용할 수 있다.\n눈 부분을 확대해 프린터로 출력한 후 홍채 곡률을 맞추기 위해 사진 위에 콘택트렌즈을 올렸다.\n갤럭시S8에 가짜 홍채를 가까이하자 인식에 성공하며 스마트폰 잠금이 해제됐다.\n카오스 컴퓨터 클럽은 야간 모드에서 찍은 디지털 사진이라면 성공률이 훨씬 높다고 덧붙였다.\n카오스 컴퓨터 클럽 대변인은 \\\"홍채인식은 지문보다 훨씬 보안 위험이 크다\\\"면서 \\\"휴대폰에서 결제 등을 하려면 생체인증보다 비밀번호를 쓰는게 더 안전하다\\\"고 말했다.\n갤럭시S8은 얼굴 인식 기능도 들어있는데 이 역시 공식 판매가 시작되기 전에 해킹됐다.\n스마트폰 소유자 얼굴 사진만으로 인증이 이뤄졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "독일 해커가 프린트한 눈 사진에 콘택트렌즈를 올려 삼성전자 갤럭시S8 홍채인식 해킹에 성공했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가디언은 24일 독일 카오스 컴퓨터 클럽이 올린 영상을 인용해 가짜 눈으로 갤럭시S8 홍채인식을 해킹했다고 보도했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카오스 컴퓨터 클럽은 갤럭시S8 사용자 사진을 찍었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소셜네트워크에 올라온 정면 사진 등도 사용할 수 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "눈 부분을 확대해 프린터로 출력한 후 홍채 곡률을 맞추기 위해 사진 위에 콘택트렌즈을 올렸다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "갤럭시S8에 가짜 홍채를 가까이하자 인식에 성공하며 스마트폰 잠금이 해제됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "카오스 컴퓨터 클럽은 야간 모드에서 찍은 디지털 사진이라면 성공률이 훨씬 높다고 덧붙였다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카오스 컴퓨터 클럽 대변인은 \\\"홍채인식은 지문보다 훨씬 보안 위험이 크다\\\"면서 \\\"휴대폰에서 결제 등을 하려면 생체인증보다 비밀번호를 쓰는게 더 안전하다\\\"고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "갤럭시S8은 얼굴 인식 기능도 들어있는데 이 역시 공식 판매가 시작되기 전에 해킹됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "스마트폰 소유자 얼굴 사진만으로 인증이 이뤄졌다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "갤S8 홍채인식 해킹...눈 사진 프린트해 콘택트렌즈 올리니 인식",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,249 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326285",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "국내에선 잠잠한 '페트야' 랜섬웨어...특정국 겨냥한 표적용?",
+		"newsSubTitle": "",
+		"newsContent": "'페트야(Petya)' 랜섬웨어가 '워너크라이(WannaCry)'보다 강력한 파괴력을 가져 주의가 필요하다.\n하드디스크 마스터파일테이블(MFT)∙마스터부트레코드(MBR)를 암호화하고 일부 디스크 영역은 아예 파괴한다.\n강력한 파괴력, 특정 IP대역에 제한된 전파 기능 탓에 특정국을 겨냥한 표적용 악성코드라는 분석도 나온다.\n29일 국내외 보안업체에 따르면, 페트야는 워너크라이보다 강력한 암호화 기능을 가졌다.\n페트야는 MFT∙MBR를 통째로 암호화한다.\n페트야에 감염되면 PC가 통째로 '먹통'되는 현상이 발생한다.\n이미지 등 개별파일을 암호화하는 워너크라이보다 파괴력이 크다.\n일각에서는 페트야가 MBR 영역 일부를 파괴한다는 분석이다.\n최상명 하우리 CERT 실장은 \\\"MBR 영역 일부를 지워버린다\\\"며 \\\"복구가 되는 일반 랜섬웨어와 다르다\\\"고 말했다.\n페트야가 특정국을 겨냥한 표적 공격용이라는 주장이다.\n강한 파괴력으로 해커 수익모델로 주로 쓰이는 일반 랜섬웨어와 다르다는 분석이다.\n윤광택 시만텍 CTO는 \\\"일각에서는 (페트야에 대해) 랜섬웨어가 아니라 디스럽티브 멀웨어(disruptive malware)라고 표현하기도 한다\\\"며 \\\"복구 사례도 아직 알려지지 않아, 랜섬웨어가 아닌 파괴 목적을 가졌다는 것을 용의선상에 넣을 만하다\\\"고 밝혔다.\n페트야가 우크라이나를 중심으로 퍼졌고, 특정 IP에서만 퍼지는 제한적 '웜(worm)' 기능을 가진 점도 분석에 힘을 싣는다.\n카스퍼스키랩은 27일 페트야에 공격당한 사용자는 약 2000명으로 분석했다.\n이중 60%가 우크라이나 사용자라고 밝혔다.\n최 실장은 \\\"페트야 시작지점이 모두 우크라이나다. 우크라이나에서 많이 쓰이는 소프트웨어 업데이트와 우크라이나 이메일 스피어피싱, 우크라이나 언론을 통한 워터링홀로 랜섬웨어가 퍼졌다\\\"며 \\\"우크라이나와 비슷한 IP대역에서만 랜섬웨어가 퍼진 것도 무작위로 퍼진 워너크라이와 다른 점\\\"이라고 말했다.\n페트야 랜섬웨어는 감염되면 300비트코인을 요구한다.\n하지만 수익은 크게 얻지 못한 것으로 알려졌다.\n카스퍼스키랩은 28일 페트야 비트코인 지갑에 24건 거래가 기록됐다고 밝혔다.\n금액으로는 2.54비트코인(BTC)으로 6000달러 수준이다.\n파괴력에 비해 수익도 미미한 셈이다.\n29일 기준 국내에서는 제약회사 한국 MSD외 감염 사례는 알려지지 않았다.\n한국인터넷진흥원(KISA)과 이노티움 랜섬웨어 침해대응센터는 페트야 랜섬웨어 감염 신고가 들어오지 않았다고 밝혔다.\n하지만 페트야 랜섬웨어가 국내로 유입되는 만큼 지속 주의가 필요하다는 지적이다.\n윤 CTO는 \\\"시만텍에서 국내로 들어오는 페트야를 차단한 기록이 있다\\\"며 \\\"SMB취약점을 활용한 전파력도 여전히 위험하다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 25,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'페트야(Petya)' 랜섬웨어가 '워너크라이(WannaCry)'보다 강력한 파괴력을 가져 주의가 필요하다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하드디스크 마스터파일테이블(MFT)∙마스터부트레코드(MBR)를 암호화하고 일부 디스크 영역은 아예 파괴한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "강력한 파괴력, 특정 IP대역에 제한된 전파 기능 탓에 특정국을 겨냥한 표적용 악성코드라는 분석도 나온다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "29일 국내외 보안업체에 따르면, 페트야는 워너크라이보다 강력한 암호화 기능을 가졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "페트야는 MFT∙MBR를 통째로 암호화한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "페트야에 감염되면 PC가 통째로 '먹통'되는 현상이 발생한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이미지 등 개별파일을 암호화하는 워너크라이보다 파괴력이 크다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "일각에서는 페트야가 MBR 영역 일부를 파괴한다는 분석이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최상명 하우리 CERT 실장은 \\\"MBR 영역 일부를 지워버린다\\\"며 \\\"복구가 되는 일반 랜섬웨어와 다르다\\\"고 말했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "페트야가 특정국을 겨냥한 표적 공격용이라는 주장이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "강한 파괴력으로 해커 수익모델로 주로 쓰이는 일반 랜섬웨어와 다르다는 분석이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "윤광택 시만텍 CTO는 \\\"일각에서는 (페트야에 대해) 랜섬웨어가 아니라 디스럽티브 멀웨어(disruptive malware)라고 표현하기도 한다\\\"며 \\\"복구 사례도 아직 알려지지 않아, 랜섬웨어가 아닌 파괴 목적을 가졌다는 것을 용의선상에 넣을 만하다\\\"고 밝혔다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "페트야가 우크라이나를 중심으로 퍼졌고, 특정 IP에서만 퍼지는 제한적 '웜(worm)' 기능을 가진 점도 분석에 힘을 싣는다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "카스퍼스키랩은 27일 페트야에 공격당한 사용자는 약 2000명으로 분석했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이중 60%가 우크라이나 사용자라고 밝혔다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "최 실장은 \\\"페트야 시작지점이 모두 우크라이나다. 우크라이나에서 많이 쓰이는 소프트웨어 업데이트와 우크라이나 이메일 스피어피싱, 우크라이나 언론을 통한 워터링홀로 랜섬웨어가 퍼졌다\\\"며 \\\"우크라이나와 비슷한 IP대역에서만 랜섬웨어가 퍼진 것도 무작위로 퍼진 워너크라이와 다른 점\\\"이라고 말했다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "페트야 랜섬웨어는 감염되면 300비트코인을 요구한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "하지만 수익은 크게 얻지 못한 것으로 알려졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "카스퍼스키랩은 28일 페트야 비트코인 지갑에 24건 거래가 기록됐다고 밝혔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "금액으로는 2.54비트코인(BTC)으로 6000달러 수준이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "파괴력에 비해 수익도 미미한 셈이다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "29일 기준 국내에서는 제약회사 한국 MSD외 감염 사례는 알려지지 않았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "한국인터넷진흥원(KISA)과 이노티움 랜섬웨어 침해대응센터는 페트야 랜섬웨어 감염 신고가 들어오지 않았다고 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "하지만 페트야 랜섬웨어가 국내로 유입되는 만큼 지속 주의가 필요하다는 지적이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "윤 CTO는 \\\"시만텍에서 국내로 들어오는 페트야를 차단한 기록이 있다\\\"며 \\\"SMB취약점을 활용한 전파력도 여전히 위험하다\\\"고 말했다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국내에선 잠잠한 '페트야' 랜섬웨어...특정국 겨냥한 표적용?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

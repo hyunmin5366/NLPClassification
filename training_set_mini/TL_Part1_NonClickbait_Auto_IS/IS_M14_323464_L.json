@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323464",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "나노코리아 2019 개막",
+		"newsSubTitle": "",
+		"newsContent": "나노코리아 2019가 3일 경기도 고양시 킨텍스에서 열렸다.\n관람객이 LG전자 55인치 투명 OLED 사이니지를 살펴보고 있다.\n관람객이 나노 전기도금 웨이퍼를 살펴보고 있다.\n문미옥 과학기술정보통신부 제1차관(왼쪽 일곱 번째)을 비롯한 주요 내빈이 테이프커팅을 하고 있다.\n문미옥 과학기술정보통신부 제1차관이 삼성전자 5나노극자외선(EUV) 패터닝 기술을 살펴보고 있다.\n참관객들이 나노종합기술원의 참상 감염 모니터링 스마트 드레싱을 살펴보고 있다.\n참관객들이 나노융합2020사업단 부스에서 신재생에너지 잉여전력으로 수소를 생성,저장하는 엘켐텍의 P2G 시스템키트를 살펴보고 있다.\n관객들이 대학과 연구기관 등의 연구결과 포스터를 살펴보고 있다.\n참관객이 대유플러스의 발열유리를 만져보고 있다.\n참관객이 LG전자의 레이저 응용기술을 적용한 모듈을 살펴보고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "나노코리아 2019가 3일 경기도 고양시 킨텍스에서 열렸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "관람객이 LG전자 55인치 투명 OLED 사이니지를 살펴보고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "관람객이 나노 전기도금 웨이퍼를 살펴보고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "문미옥 과학기술정보통신부 제1차관(왼쪽 일곱 번째)을 비롯한 주요 내빈이 테이프커팅을 하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "문미옥 과학기술정보통신부 제1차관이 삼성전자 5나노극자외선(EUV) 패터닝 기술을 살펴보고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "참관객들이 나노종합기술원의 참상 감염 모니터링 스마트 드레싱을 살펴보고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "참관객들이 나노융합2020사업단 부스에서 신재생에너지 잉여전력으로 수소를 생성,저장하는 엘켐텍의 P2G 시스템키트를 살펴보고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "관객들이 대학과 연구기관 등의 연구결과 포스터를 살펴보고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "참관객이 대유플러스의 발열유리를 만져보고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "참관객이 LG전자의 레이저 응용기술을 적용한 모듈을 살펴보고 있다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "나노코리아 2019 개막",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

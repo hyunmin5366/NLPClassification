@@ -1,0 +1,258 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337740",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "백업 있으면 랜섬웨어 안 무섭다...인터넷교차로 서비스 정상화",
+		"newsSubTitle": "",
+		"newsContent": "서버 15대가 해킹된 후 내부 데이터가 암호화된 인터넷교차로가 완전 복구에 성공했다.\n해커가 요구한 몸값은 한 푼도 내지 않았다.\n평상시 주기적 백업으로 랜섬웨어 대응에 성공한 사례다.\n인터넷교차로는 지난달 29일 서버가 해킹 당한 후 내부 데이터가 암호화되는 사고를 겪었다.\n인터넷교차로 전국 사이트가 12월 1일 11시까지 중단됐다.\n인터넷교차로는 침해사고 발생 후 한국인터넷진흥원(KISA)에 신고한 후 범죄자와 협상하지 않는다는 원칙을 세웠다.\n해커는 랜섬노트에 2비트코인(약 2600만원)을 요구한 것으로 알려졌다.\n인터넷교차로는 공격자와 협상하지 않아 정확한 금액은 알 수 없다.\n해커가 랜섬노트에 명시한 2비트코인이 서버당 가격인지 전체 금액인지 명확치 않다.\n기존 사례 대부분은 서버당 몸값을 요구한다.\n이렇게 추산하면 인터넷교차로 데이터 몸값은 최대 30비트코인(약 3억9000만원)에 달한다.\n인터넷교차로는 매주 한 번씩 물리적 백업을 진행했다.\n매일 백업도 했는데 침해사고 당시 하루 분 백업은 유실됐다.\n다행이 사고 전일 백업이 남아 있어 이를 기반으로 서비스를 정상화했다.\n인터넷교차로 개발팀 관계자는 \\\"29일 침해사고 발생 후 백업을 이용해 철야작업을 하며 신속히 서비스를 정상화하는데 힘썼다\\\"면서 \\\"물리적으로 백업을 분리해 사이버 범죄자에 몸값을 치르지 않고 복구를 완료했다\\\"고 말했다.\n한국인터넷진흥원에 따르면 인터넷교차로에서 발견된 랜섬웨어는 지난 11월 6일 새벽 3시 인터넷나야나가 운영하는 코리아IDC 서버호스팅과 코로케이션 서버에서 발견된 것과 일치한다.\n코리아IDC를 공격했던 해커가 인터넷교차로 등 국내 서비스를 호시탐탐 노리는 정황이다.\n백업을 비롯해 보안 관리가 허술한 기업은 표적이 될 수 있어 대책 마련이 시급하다.\n웹호스팅 기업 인터넷나야나는 5월 153대 서버가 랜섬웨어에 감염됐다.\n인터넷나야나는 고객 서비스를 되살리기 위해 당시 시세 기준으로 약 13억원(397.6비트코인)을 몸값으로 주고 데이터를 돌려받았다.\n이동근 KISA 침해사고분석 단장은 \\\"인터넷교차로는 인터넷나야나처럼 일부 서버 계정이 해킹된 후 내부 데이터가 암호화되는 공격을 받았다\\\"면서 \\\"암호화 수법이 코리아IDC 때와 유사하다\\\"고 설명했다.\n이 단장은 \\\"인터넷교차로는 백업 데이터로 대형 랜섬웨어 감염사고에도 범죄자와 협상 없이 서비스를 정상화했다\\\"면서 \\\"백업만 잘하면 랜섬웨어에 대응할 수 있다는 사실을 보여줬다\\\"고 덧붙였다.\nKISA는 랜섬웨어 피해 예방을 위한 백업체계 보안 강화를 권고한다.\n기업과 기관은 자료 백업 관리를 위한 정책을 수립한다.\n백업 망 구성과 절차, 매체 등 체계를 구축한다.\n네트워크가 분리된 외부 저장장치를 이용해 주요 자료를 백업하고 별도 보관한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 26,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서버 15대가 해킹된 후 내부 데이터가 암호화된 인터넷교차로가 완전 복구에 성공했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해커가 요구한 몸값은 한 푼도 내지 않았다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "평상시 주기적 백업으로 랜섬웨어 대응에 성공한 사례다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인터넷교차로는 지난달 29일 서버가 해킹 당한 후 내부 데이터가 암호화되는 사고를 겪었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인터넷교차로 전국 사이트가 12월 1일 11시까지 중단됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인터넷교차로는 침해사고 발생 후 한국인터넷진흥원(KISA)에 신고한 후 범죄자와 협상하지 않는다는 원칙을 세웠다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해커는 랜섬노트에 2비트코인(약 2600만원)을 요구한 것으로 알려졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인터넷교차로는 공격자와 협상하지 않아 정확한 금액은 알 수 없다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해커가 랜섬노트에 명시한 2비트코인이 서버당 가격인지 전체 금액인지 명확치 않다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "기존 사례 대부분은 서버당 몸값을 요구한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이렇게 추산하면 인터넷교차로 데이터 몸값은 최대 30비트코인(약 3억9000만원)에 달한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "인터넷교차로는 매주 한 번씩 물리적 백업을 진행했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "매일 백업도 했는데 침해사고 당시 하루 분 백업은 유실됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "다행이 사고 전일 백업이 남아 있어 이를 기반으로 서비스를 정상화했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "인터넷교차로 개발팀 관계자는 \\\"29일 침해사고 발생 후 백업을 이용해 철야작업을 하며 신속히 서비스를 정상화하는데 힘썼다\\\"면서 \\\"물리적으로 백업을 분리해 사이버 범죄자에 몸값을 치르지 않고 복구를 완료했다\\\"고 말했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "한국인터넷진흥원에 따르면 인터넷교차로에서 발견된 랜섬웨어는 지난 11월 6일 새벽 3시 인터넷나야나가 운영하는 코리아IDC 서버호스팅과 코로케이션 서버에서 발견된 것과 일치한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "코리아IDC를 공격했던 해커가 인터넷교차로 등 국내 서비스를 호시탐탐 노리는 정황이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "백업을 비롯해 보안 관리가 허술한 기업은 표적이 될 수 있어 대책 마련이 시급하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "웹호스팅 기업 인터넷나야나는 5월 153대 서버가 랜섬웨어에 감염됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "인터넷나야나는 고객 서비스를 되살리기 위해 당시 시세 기준으로 약 13억원(397.6비트코인)을 몸값으로 주고 데이터를 돌려받았다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이동근 KISA 침해사고분석 단장은 \\\"인터넷교차로는 인터넷나야나처럼 일부 서버 계정이 해킹된 후 내부 데이터가 암호화되는 공격을 받았다\\\"면서 \\\"암호화 수법이 코리아IDC 때와 유사하다\\\"고 설명했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이 단장은 \\\"인터넷교차로는 백업 데이터로 대형 랜섬웨어 감염사고에도 범죄자와 협상 없이 서비스를 정상화했다\\\"면서 \\\"백업만 잘하면 랜섬웨어에 대응할 수 있다는 사실을 보여줬다\\\"고 덧붙였다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "KISA는 랜섬웨어 피해 예방을 위한 백업체계 보안 강화를 권고한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "기업과 기관은 자료 백업 관리를 위한 정책을 수립한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "백업 망 구성과 절차, 매체 등 체계를 구축한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "네트워크가 분리된 외부 저장장치를 이용해 주요 자료를 백업하고 별도 보관한다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "백업 있으면 랜섬웨어 안 무섭다...인터넷교차로 서비스 정상화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

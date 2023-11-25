@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_024674",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "미국 영화관 체인 AMC, ‘샹치’ 흥행으로 코로나19 이전 관객수 추월",
+		"newsSubTitle": "",
+		"newsContent": "마블 첫 아시안 히어로 영화 ‘샹치와 텐 링즈의 전설’이 흥행하면서 코로나19로 침체에 빠졌던 미국 대형 극장 체인에 관객이 몰렸다.\nCNBC 방송은 8일(현지시간) ‘샹치’ 흥행에 힘입어 AMC가 운영하는 극장을 찾은 미국 영화 관람객 숫자가 코로나19 이전 수준을 넘었다고 전했다.\n전 세계 950개 상영관을 보유한 AMC는 미국 노동절 연휴 기간인 지난 2∼5일 관람객이 200만명 이상으로 집계됐다고 밝혔다.\n이는 코로나 대유행 사태 이전인 2019년 같은 시기 관객 숫자를 넘어선 것이고 역대 노동절 연휴 기간 중 최다 관객이라고 AMC는 전했다.\nCNBC 방송은 “‘샹치’가 노동절 연휴 나흘 동안 박스오피스 9000만달러(1050억원)를 돌파하면서 AMC의 관객 기록을 깨는 데 도움을 줬다”고 보도했다.\n애덤 에런 최고경영자(CEO)는 “영화 관람객의 고무적인 증가는 미국인들이 다시 극장으로 돌아오기를 간절히 원한다는 신호”라고 말했다. ‘샹치’는 코로나19 유행 후 극장에서만 개봉된 첫 마블 영화다.\n앞서 지난 7월 마블 ‘블랙 위도우’는 극장 개봉과 스트리밍 서비스를 동시에 한 바 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마블 첫 아시안 히어로 영화 ‘샹치와 텐 링즈의 전설’이 흥행하면서 코로나19로 침체에 빠졌던 미국 대형 극장 체인에 관객이 몰렸다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CNBC 방송은 8일(현지시간) ‘샹치’ 흥행에 힘입어 AMC가 운영하는 극장을 찾은 미국 영화 관람객 숫자가 코로나19 이전 수준을 넘었다고 전했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전 세계 950개 상영관을 보유한 AMC는 미국 노동절 연휴 기간인 지난 2∼5일 관람객이 200만명 이상으로 집계됐다고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 코로나 대유행 사태 이전인 2019년 같은 시기 관객 숫자를 넘어선 것이고 역대 노동절 연휴 기간 중 최다 관객이라고 AMC는 전했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "CNBC 방송은 “‘샹치’가 노동절 연휴 나흘 동안 박스오피스 9000만달러(1050억원)를 돌파하면서 AMC의 관객 기록을 깨는 데 도움을 줬다”고 보도했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "애덤 에런 최고경영자(CEO)는 “영화 관람객의 고무적인 증가는 미국인들이 다시 극장으로 돌아오기를 간절히 원한다는 신호”라고 말했다. ‘샹치’는 코로나19 유행 후 극장에서만 개봉된 첫 마블 영화다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 지난 7월 마블 ‘블랙 위도우’는 극장 개봉과 스트리밍 서비스를 동시에 한 바 있다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "올해를 빛낸 탤런트 1위는 황정음, 역시 ‘믿고 보는 황정음’",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

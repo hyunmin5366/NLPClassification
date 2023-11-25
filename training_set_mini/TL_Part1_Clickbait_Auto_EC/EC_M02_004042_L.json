@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004042",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "LG유플러스, 삼성전자·AWS와 손잡고 5G 네트워크 품질 향상",
+		"newsSubTitle": "AWS Outposts 서버에 5G 코어 장비·MEC 서비스 동시 수용 실증 성공 향후 코어망-기지국 등 모든 통신인프라에 클라우드 적용 가능성 확인",
+		"newsContent": "LG유플러스는 아마존웹서비스(AWS), 삼성전자와 함께 국내 통신업계 최초로 AWS 클라우드에 5G 코어 장비· 분산 클라우드 컴퓨팅 기술(MEC) 서비스 동시 수용에 성공했다고 7일 밝혔다.\nLG유플러스는 'AWS Outposts(아웃포츠)' 서버를 별도 구축해 삼성전자의 5G 코어 장비를 설치했고, 자율주행로봇을 작동하는 MEC 서비스를 동시에 수용했다.\nAWS Outposts는 일관된 하이브리드 환경을 위해 동일한 AWS 인프라, AWS 서비스, 응용프로그램인터페이스(API)와 도구를 모든 데이터 센터, 코로케이션(co-location) 공간, 수요 고객 사이트에 제공하는 완전관리형 서비스다.\nLG유플러스는 \\\"이번 실증으로 서버 구축·운영 비용을 최소화하면서도 5G 서비스의 지연시간 단축과 보안 강화 등의 효과를 얻을 수 있음을 확인했다\\\"고 설명했다.\n통신망 운영에 클라우드를 활용하는 것은 네트워크가상화(NFV)에서 한 단계 발전된 형태이다.\n그동안 국내 통신업계에서도 클라우드 업체와 협력해 서비스 인프라를 일부 클라우드에 도입한 사례는 있었지만, 5G 코어 장비와 MEC 서비스를 퍼블릭 클라우드 플랫폼에 구축해 상용에서 실증한 것은 이번이 처음이다.\nAWS 서비스를 활용해 네트워크 장비를 구축하면 인공지능(AI), 머신러닝, 빅데이터 등 신기술을 즉시 활용할 수 있다.\n예를 들어, 실시간으로 수집된 정보를 분석해 5G 네트워크 품질 향상과 고객 맞춤형 서비스를 제공하는데 기여할 수 있다.\n또 운영 자동화 솔루션으로 고장 조치, 성능·용량 확장, 애플리케이션 배포 등 운영업무를 안정적으로 자동화할 수 있다.\n이상헌 LG유플러스 네트워크(NW)선행개발담당은 \\\"AWS Outposts를 활용해 국내 통신사 최초로 5G 핵심장비와 MEC 서비스를 동시에 운영할 수 있게 됐다\\\"라며 \\\"AWS 클라우드 서비스는 새로운 네트워크 서비스를 개발하여 고객 경험을 향상시킬 것으로 기대되며, 앞으로 클라우드 기반 기지국 기술 등 차세대 네트워크 기술 확보에 힘쓰겠다\\\"고 말했다.\nLG유플러스 관계자는 데일리임팩트에 \\\"이번 실증은 대고객 서비스보다는 통신사로서 망을 운영하고, 관리하는 데 더 많은 도움을 줄 것으로 예상한다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 아마존웹서비스(AWS), 삼성전자와 함께 국내 통신업계 최초로 AWS 클라우드에 5G 코어 장비· 분산 클라우드 컴퓨팅 기술(MEC) 서비스 동시 수용에 성공했다고 7일 밝혔다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG유플러스는 'AWS Outposts(아웃포츠)' 서버를 별도 구축해 삼성전자의 5G 코어 장비를 설치했고, 자율주행로봇을 작동하는 MEC 서비스를 동시에 수용했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AWS Outposts는 일관된 하이브리드 환경을 위해 동일한 AWS 인프라, AWS 서비스, 응용프로그램인터페이스(API)와 도구를 모든 데이터 센터, 코로케이션(co-location) 공간, 수요 고객 사이트에 제공하는 완전관리형 서비스다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "LG유플러스는 \\\"이번 실증으로 서버 구축·운영 비용을 최소화하면서도 5G 서비스의 지연시간 단축과 보안 강화 등의 효과를 얻을 수 있음을 확인했다\\\"고 설명했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "통신망 운영에 클라우드를 활용하는 것은 네트워크가상화(NFV)에서 한 단계 발전된 형태이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그동안 국내 통신업계에서도 클라우드 업체와 협력해 서비스 인프라를 일부 클라우드에 도입한 사례는 있었지만, 5G 코어 장비와 MEC 서비스를 퍼블릭 클라우드 플랫폼에 구축해 상용에서 실증한 것은 이번이 처음이다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "AWS 서비스를 활용해 네트워크 장비를 구축하면 인공지능(AI), 머신러닝, 빅데이터 등 신기술을 즉시 활용할 수 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "예를 들어, 실시간으로 수집된 정보를 분석해 5G 네트워크 품질 향상과 고객 맞춤형 서비스를 제공하는데 기여할 수 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 운영 자동화 솔루션으로 고장 조치, 성능·용량 확장, 애플리케이션 배포 등 운영업무를 안정적으로 자동화할 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이상헌 LG유플러스 네트워크(NW)선행개발담당은 \\\"AWS Outposts를 활용해 국내 통신사 최초로 5G 핵심장비와 MEC 서비스를 동시에 운영할 수 있게 됐다\\\"라며 \\\"AWS 클라우드 서비스는 새로운 네트워크 서비스를 개발하여 고객 경험을 향상시킬 것으로 기대되며, 앞으로 클라우드 기반 기지국 기술 등 차세대 네트워크 기술 확보에 힘쓰겠다\\\"고 말했다.",
+				"sentenceSize": 202
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "LG유플러스 관계자는 데일리임팩트에 \\\"이번 실증은 대고객 서비스보다는 통신사로서 망을 운영하고, 관리하는 데 더 많은 도움을 줄 것으로 예상한다\\\"고 밝혔다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "심평원, 경력단절 여성 채용한다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

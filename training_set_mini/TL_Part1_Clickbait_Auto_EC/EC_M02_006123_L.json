@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006123",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "신한은행, '인플루언서 자동입금 서비스' 출시",
+		"newsSubTitle": "광고 수익 즉시 입금 및 수수료 우대 혜택 제공",
+		"newsContent": "신한은행은 구글로부터 광고비를 수령하는 인플루언서 고객들의 금융거래 편의성을 높이기 위한 무방문, 무서류 '인플루언서 자동입금 서비스'를 시행한다고 28일 밝혔다.\n본 서비스는 유튜브 등에서 활동하며 구글로부터 광고비를 수령하는 고객이 대상이다.\n기존에는 구글의 광고비 수령을 위해 고객이 은행 영업점을 방문하고 별도의 서류를 제출해야 했다.\n하지만 이번 서비스 시행으로 미화 5만불 상당액 이하를 수령하는 고객은 신한 쏠(SOL) 에서 광고비 수령 목적임을 확인 및 신청하면 방문이나 별도의 서류 없이 자동으로 지정 계좌에 입금이 가능하다.\n영업점 신청을 원하는 고객은 영업점 방문으로도 신청이 가능하다.\n신한은행 관계자는 데일리임팩트에 \\\"반복되는 영업점 방문과 서류제출에 대한 불편을 호소해온 인플루언서 고객들의 의견을 반영해 이번 서비스를 기획했다\\\"라고 설명했다.\n한편, 신한은행은 거래 실적에 따라 해당 서비스 이용 고객들에게 환율 및 수수료 우대 혜택도 제공할 예정이다.\n신한은행 관계자는 \\\"다양해진 고객 특성에 맞는 금융상품의 지속 발굴을 위해 앞으로도 고객과 현장의 소리에 귀 기울여 고객 중심을 실천하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신한은행은 구글로부터 광고비를 수령하는 인플루언서 고객들의 금융거래 편의성을 높이기 위한 무방문, 무서류 '인플루언서 자동입금 서비스'를 시행한다고 28일 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "본 서비스는 유튜브 등에서 활동하며 구글로부터 광고비를 수령하는 고객이 대상이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존에는 구글의 광고비 수령을 위해 고객이 은행 영업점을 방문하고 별도의 서류를 제출해야 했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 이번 서비스 시행으로 미화 5만불 상당액 이하를 수령하는 고객은 신한 쏠(SOL) 에서 광고비 수령 목적임을 확인 및 신청하면 방문이나 별도의 서류 없이 자동으로 지정 계좌에 입금이 가능하다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영업점 신청을 원하는 고객은 영업점 방문으로도 신청이 가능하다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신한은행 관계자는 데일리임팩트에 \\\"반복되는 영업점 방문과 서류제출에 대한 불편을 호소해온 인플루언서 고객들의 의견을 반영해 이번 서비스를 기획했다\\\"라고 설명했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 신한은행은 거래 실적에 따라 해당 서비스 이용 고객들에게 환율 및 수수료 우대 혜택도 제공할 예정이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "신한은행 관계자는 \\\"다양해진 고객 특성에 맞는 금융상품의 지속 발굴을 위해 앞으로도 고객과 현장의 소리에 귀 기울여 고객 중심을 실천하겠다\\\"고 말했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "OLED 조명디자인 공모전 개최",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

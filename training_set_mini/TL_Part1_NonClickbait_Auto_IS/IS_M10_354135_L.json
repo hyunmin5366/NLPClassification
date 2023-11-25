@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354135",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT, 기업특화망 AI 관제 솔루션 'AiON' 상용화",
+		"newsSubTitle": "null",
+		"newsContent": "KT는 기업특화망 AI(인공지능) 관제 솔루션 'AiON'(아이온) 개발을 완료하고, 서울 금천구 가산디지털단지 대륭테크노 빌딩의 통신 인프라 운영에 시범 적용했다고 1일 밝혔다.\nKT의 '아이온'은 기업특화망의 운영·관리 효율성을 높여주는데 초점을 맞췄다.\n핵심 구성 요소는 KT의 네트워크 인프라 운영으로 검증된 AI와 자동화(SDN) 기술이다.\nAI는 기업특화망에 연동된 수백대, 많게는 수천대의 장비에서 발생하는 시스템 기록, 트래픽, 성능 데이터 등 서비스 품질에 영향을 줄 수 있는 다양한 정보를 실시간으로 분석해 조치 방법까지 제공한다.\nSDN은 기업특화망에 구축된 장비와 연결정보를 자동으로 탐색해 변경사항을 실시간으로 갱신하고, 장애가 발생할 수 있는 요소를 주기적으로 사전 점검한다.\n장비를 자동으로 제어할 수 있는 소프트웨어 도구도 제공해 명령어를 다수 장비에 빠르고 정확하게 적용할 수 있다. '아이온'을 활용하면 빌딩 통신 인프라를 비롯한 기업특화망을 더 효율적이고 안정적으로 운영할 수 있다.\n네트워크 전문가 없이도 안정적으로 기업특화망 운영이 가능해지며 기존에는 수 십 분이 소요됐던 장애 원인 분석 작업을 '아이온'을 통해서는 수 분 이내에 끝낼 수 있다.\nKT는 이번 상용화를 시작으로 5G 특화망을 포함한 다양한 기업에서 활용할 수 있는 맞춤형 통합관제 시장에도진출할 계획이다.\n이종식 KT 융합기술원 인프라DX연구소장은 \\\"아이온에 KT가 대형 네트워크 운영을 통해 축적한 노하우와 기술을 담았다\\\"며 \\\"이를 통해 고객에게 더 나은 통신 서비스를 제공하기 위한 통신 관제 분야의 DX(디지털 전환)를 리딩하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT는 기업특화망 AI(인공지능) 관제 솔루션 'AiON'(아이온) 개발을 완료하고, 서울 금천구 가산디지털단지 대륭테크노 빌딩의 통신 인프라 운영에 시범 적용했다고 1일 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT의 '아이온'은 기업특화망의 운영·관리 효율성을 높여주는데 초점을 맞췄다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "핵심 구성 요소는 KT의 네트워크 인프라 운영으로 검증된 AI와 자동화(SDN) 기술이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AI는 기업특화망에 연동된 수백대, 많게는 수천대의 장비에서 발생하는 시스템 기록, 트래픽, 성능 데이터 등 서비스 품질에 영향을 줄 수 있는 다양한 정보를 실시간으로 분석해 조치 방법까지 제공한다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SDN은 기업특화망에 구축된 장비와 연결정보를 자동으로 탐색해 변경사항을 실시간으로 갱신하고, 장애가 발생할 수 있는 요소를 주기적으로 사전 점검한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "장비를 자동으로 제어할 수 있는 소프트웨어 도구도 제공해 명령어를 다수 장비에 빠르고 정확하게 적용할 수 있다. '아이온'을 활용하면 빌딩 통신 인프라를 비롯한 기업특화망을 더 효율적이고 안정적으로 운영할 수 있다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네트워크 전문가 없이도 안정적으로 기업특화망 운영이 가능해지며 기존에는 수 십 분이 소요됐던 장애 원인 분석 작업을 '아이온'을 통해서는 수 분 이내에 끝낼 수 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "KT는 이번 상용화를 시작으로 5G 특화망을 포함한 다양한 기업에서 활용할 수 있는 맞춤형 통합관제 시장에도진출할 계획이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이종식 KT 융합기술원 인프라DX연구소장은 \\\"아이온에 KT가 대형 네트워크 운영을 통해 축적한 노하우와 기술을 담았다\\\"며 \\\"이를 통해 고객에게 더 나은 통신 서비스를 제공하기 위한 통신 관제 분야의 DX(디지털 전환)를 리딩하겠다\\\"고 말했다.",
+				"sentenceSize": 139
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 기업특화망 AI 관제 솔루션 'AiON' 상용화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

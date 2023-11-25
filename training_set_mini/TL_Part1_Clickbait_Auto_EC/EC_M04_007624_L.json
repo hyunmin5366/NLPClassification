@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007624",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피, 37개말에 2000선 탈환",
+		"newsSubTitle": "",
+		"newsContent": "코스피지수가 37개월만에 2000선을 탈환했다.\n코스피지수는 14일 오전 9시 2분 현재, 전일대비 3.66포인트(0.18%) 오른 2000.25를 기록 중다.\n코스피지수가 2000선에 오른 것은 지난 2007년 11월 9일 2017.37 이후 37개월만이다.\n코스피지수는 이날 새벽 미국 증시가 기업들의 인수·합병(M&A) 호재와 중국의 긴축 우려 완화에 상승세를 보였다.\n하지만 장 막판 차익 실현 매물의 출현으로 혼조세로 마감됐다는 소식에도 외국인 매수세가 유입되면서 2000선을 넘겨 출발했다.\n이 시각 현재 개인과 외국인투자자가 각각 121억원, 300억원씩 사들이고 있으며 기관투자가는 61억원 순매도 중이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피지수가 37개월만에 2000선을 탈환했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코스피지수는 14일 오전 9시 2분 현재, 전일대비 3.66포인트(0.18%) 오른 2000.25를 기록 중다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코스피지수가 2000선에 오른 것은 지난 2007년 11월 9일 2017.37 이후 37개월만이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코스피지수는 이날 새벽 미국 증시가 기업들의 인수·합병(M&A) 호재와 중국의 긴축 우려 완화에 상승세를 보였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 장 막판 차익 실현 매물의 출현으로 혼조세로 마감됐다는 소식에도 외국인 매수세가 유입되면서 2000선을 넘겨 출발했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 시각 현재 개인과 외국인투자자가 각각 121억원, 300억원씩 사들이고 있으며 기관투자가는 61억원 순매도 중이다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버랩스, '아크버스' 핵심기술 상용화 '성큼'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

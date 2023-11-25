@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_024761",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "미국 슈퍼볼 TV 광고, 신기록 경신",
+		"newsSubTitle": "",
+		"newsContent": "‘세계에서 가장 비싼 방송광고’로 꼽히는 미국프로풋볼(NFL) 결승전 ‘슈퍼볼’의 TV 광고가 경제회복세에 힘입어 사상 최고 기록을 경신했다.\n9일(현지시간) 뉴욕포스트등 현지언론에 따르면 슈퍼볼 광고를 판매하는 NBC 유니버설은 내년 초 열리는 슈퍼볼의 광고가 30초당 650만달러(76억원)에 판매됐다고 밝혔다.\nNBC 스포츠 광고 판매 책임자인 댄 러빙거는 최근 취재진과 만나 “내년 2월 13일 열리는 슈퍼볼 광고가 몇 개의 자리만 남겨둔 채 기본적으로 매진됐다”며 “우리는 (광고에 대한)수요가 공급을 초과했지만 이를 최대한 활용하기 위해 일부 광고 분량을 남겨뒀다”고 말했다.\n올해 초에 CBS 방송에서 방영한 슈퍼볼은 코로나19 대유행으로 시청률이 저조해 30초 광고가 550만달러(64억원)에 판매됐다.\n이는 2019년 초 560만달러보다 낮은 가격이다.\n슈퍼볼 광고가 올해 사상 최고액을 기록한 것은 코로나19 백신 접종 비율이 올라가고, 경제가 회복되면서 광고주들이 다시 소비를 늘리고 있기 때문으로 관측됐다.\n러빙거는 내년 2월 4일 개막하는 베이징 동계올림픽 광고도 매진에 가까운 수준이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘세계에서 가장 비싼 방송광고’로 꼽히는 미국프로풋볼(NFL) 결승전 ‘슈퍼볼’의 TV 광고가 경제회복세에 힘입어 사상 최고 기록을 경신했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일(현지시간) 뉴욕포스트등 현지언론에 따르면 슈퍼볼 광고를 판매하는 NBC 유니버설은 내년 초 열리는 슈퍼볼의 광고가 30초당 650만달러(76억원)에 판매됐다고 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "NBC 스포츠 광고 판매 책임자인 댄 러빙거는 최근 취재진과 만나 “내년 2월 13일 열리는 슈퍼볼 광고가 몇 개의 자리만 남겨둔 채 기본적으로 매진됐다”며 “우리는 (광고에 대한)수요가 공급을 초과했지만 이를 최대한 활용하기 위해 일부 광고 분량을 남겨뒀다”고 말했다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올해 초에 CBS 방송에서 방영한 슈퍼볼은 코로나19 대유행으로 시청률이 저조해 30초 광고가 550만달러(64억원)에 판매됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 2019년 초 560만달러보다 낮은 가격이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "슈퍼볼 광고가 올해 사상 최고액을 기록한 것은 코로나19 백신 접종 비율이 올라가고, 경제가 회복되면서 광고주들이 다시 소비를 늘리고 있기 때문으로 관측됐다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "러빙거는 내년 2월 4일 개막하는 베이징 동계올림픽 광고도 매진에 가까운 수준이라고 밝혔다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘신랑수업’ 영탁, 엉덩이 근육 상실증 쇼크",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

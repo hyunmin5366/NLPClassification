@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324646",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "쌍용차는 BYD, 기아는 CATL...中배터리 공습",
+		"newsSubTitle": "",
+		"newsContent": "쌍용차가 내년에 출시하는 '토레스 전기차(가칭)'에 중국 비야디(BYD) 배터리를 탑재한다.\n기아도 최근 신형 '니로EV'에 중국 CATL 배터리 채용을 공식화했다.\n지금까지 중국 현지 판매용 전기차에만 장착한 것과 달리 국내 판매용에도 채택하기 시작했다.\n쌍용차는 내년 하반기부터 신차인 토레스 기반 전기차를 유럽과 국내에서 판매한다.\n이 차량은 중국 BYD의 최신형 배터리인 리튬인산철(LFP) 기반 '블레이드 배터리'를 장착한다.\n기아 '니로EV'에 이어 국내 판매 차량에 중국산 배터리를 장착하는 두 번째 사례다.\n기아는 이달 초 출시한 신형 니로EV에 중국 CATL의 65㎾h급 삼원계(NCM) 배터리를 장착했다.\n두 전기차 모델의 배터리는 셀뿐만 아니라 팩 설계 기술로 에너지 밀도를 높인 것이 특징이다.\nCATL과 BYD 모두 각형 폼팩터에 모듈 공정이 없는 설계기술을 적용, 공간 활용도를 대폭 높였다.\n이는 국내 배터리 3사가 아직 확보하지 못한 신기술이다.\nBYD의 블레이드 배터리 단일 셀은 어레이로 배열해 배터리팩에 삽입하는 구조다.\n배터리팩의 공간 활용도가 기존 리튬 인산철 블록 배터리에 비해 약 50% 높다는 게 BYD의 설명이다.\n국내 업체의 주력 양극활물질인 삼원계(NCM)보다 에너지 밀도가 낮은 LFP 배터리지만 팩의 에너지 밀도를 높여 보완했다.\nLFP는 NCM보다 가격이 저렴한 반면에 에너지 밀도가 떨어진다.\nBYD는 팩 기술로 장점은 유지하면서 단점을 보완한 셈이다.\n니로EV 역시 배터리팩의 공간 활용성을 높인 CATL의 CTP(Cell to Pack) 기술을 적용했다.\n이 배터리는 리튬이온 하이니켈 삼원계(NCM 8:1:1) 기반의 모듈이 없는 구조다.\n에너지 밀도가 높은 NCM으로 제작해 국내 3사의 배터리 시스템보다 전기에너지를 10% 이상 더 담을 수 있을 것으로 예상된다.\n업계 관계자는 \\\"쌍용차가 계약 물량 초과로 국내 배터리 업체와 거래가 끊기면서, 차선책으로 중국 BYD 배터리를 택하면서 오히려 가격경쟁력과 성능 구현에 유리하게 됐다\\\"며 \\\"공간 활용도를 높인 배터리팩 설계기술은 국내 배터리 3사도 아직 상용화하지 못한 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "쌍용차가 내년에 출시하는 '토레스 전기차(가칭)'에 중국 비야디(BYD) 배터리를 탑재한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기아도 최근 신형 '니로EV'에 중국 CATL 배터리 채용을 공식화했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지금까지 중국 현지 판매용 전기차에만 장착한 것과 달리 국내 판매용에도 채택하기 시작했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "쌍용차는 내년 하반기부터 신차인 토레스 기반 전기차를 유럽과 국내에서 판매한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 차량은 중국 BYD의 최신형 배터리인 리튬인산철(LFP) 기반 '블레이드 배터리'를 장착한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기아 '니로EV'에 이어 국내 판매 차량에 중국산 배터리를 장착하는 두 번째 사례다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기아는 이달 초 출시한 신형 니로EV에 중국 CATL의 65㎾h급 삼원계(NCM) 배터리를 장착했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "두 전기차 모델의 배터리는 셀뿐만 아니라 팩 설계 기술로 에너지 밀도를 높인 것이 특징이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "CATL과 BYD 모두 각형 폼팩터에 모듈 공정이 없는 설계기술을 적용, 공간 활용도를 대폭 높였다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이는 국내 배터리 3사가 아직 확보하지 못한 신기술이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "BYD의 블레이드 배터리 단일 셀은 어레이로 배열해 배터리팩에 삽입하는 구조다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "배터리팩의 공간 활용도가 기존 리튬 인산철 블록 배터리에 비해 약 50% 높다는 게 BYD의 설명이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "국내 업체의 주력 양극활물질인 삼원계(NCM)보다 에너지 밀도가 낮은 LFP 배터리지만 팩의 에너지 밀도를 높여 보완했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "LFP는 NCM보다 가격이 저렴한 반면에 에너지 밀도가 떨어진다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "BYD는 팩 기술로 장점은 유지하면서 단점을 보완한 셈이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "니로EV 역시 배터리팩의 공간 활용성을 높인 CATL의 CTP(Cell to Pack) 기술을 적용했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이 배터리는 리튬이온 하이니켈 삼원계(NCM 8:1:1) 기반의 모듈이 없는 구조다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "에너지 밀도가 높은 NCM으로 제작해 국내 3사의 배터리 시스템보다 전기에너지를 10% 이상 더 담을 수 있을 것으로 예상된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "업계 관계자는 \\\"쌍용차가 계약 물량 초과로 국내 배터리 업체와 거래가 끊기면서, 차선책으로 중국 BYD 배터리를 택하면서 오히려 가격경쟁력과 성능 구현에 유리하게 됐다\\\"며 \\\"공간 활용도를 높인 배터리팩 설계기술은 국내 배터리 3사도 아직 상용화하지 못한 것\\\"이라고 말했다.",
+				"sentenceSize": 156
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쌍용차는 BYD, 기아는 CATL...中배터리 공습",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

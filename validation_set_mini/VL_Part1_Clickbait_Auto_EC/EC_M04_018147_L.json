@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_018147",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "'똑똑해지는 AI' 사람처럼 문서 이해 척척… ETRI 연구 성과",
+		"newsSubTitle": "AI가 행정문서 내 원하는 정보 딥러닝으로 찾아 줘 같은 의미 다른 문장 '패러프레이즈' 검색도 가능 임준호 박사 \\\"한국어 AI 생태계 활성에 도움될 것\\\"",
+		"newsContent": "인공지능(AI)이 날로 똑똑해지고 있다.\n국내 연구진은 사람처럼 문서를 이해하고 해독해 원하는 정보를 바로 안내할 수 있는 기술을 개발해 국민 누구나 사용할 수 있도록 공개했다.\n7일 한국정보통신연구원(이하 ETRI)에 따르면 언어지능연구실 연구진은 한글파일 등 오피스 문서 내용을 파악해 사용자의 질문에 답변을 주는 엑소브레인 API 2종을 개발하고 ETRI 공공 AI 오픈 API·데이터 서비스 포털에 서비스를 시작했다.\n연구진이 이번에 개발한 서비스는 사용자가 행정문서 내 원하는 정보를 문장으로 입력하면 딥러닝 검색을 통해 답변과 근거 조항을 제시하는 기술이다.\n문장의 모습은 다르지만 의미가 같은 패러프레이즈를 구분할 수도 있는 원천기술도 개발했다.\n행정문서 내 궁금한 정보를 문장 형식으로 물어보면 자세한 규정을 찾아 안내하는 행정문서 질의응답 API 기술은 딥러닝 언어모델을 이용해 단락과 표를 인식할 수 있다.\n예를 들어 교통안전법 시행규칙에 따른 '교통안전관리규정 준수 여부의 확인·평가는 언제 실시하는가?'라고 질문하면 '매 5년이 지난날의 전후 100일 이내'라고 정답을 안내하고 판단 근거가 되는 단락을 제시하는 식이다.\n일반 국민이 실생활에서 사용하기보단 정책을 알리고 홍보하는 부처 홈페이지 등에서 유용하게 사용될 수 있을 것으로 보인다.\n공동연구기관인 한글과컴퓨터의 블라인드 평가로 정확도를 측정한 결과 각각 단락을 대상으로 한 상위 5개 결과 정확도는 89.65%, 표를 대상으로 한 검색에선 81.5%가 나왔다.\n패러프레이즈(Paraphrase) 인식 API는 문장은 생김새는 다르지만 같은 의미를 파악할 수 있는 기술이다.\n앞서 나온 행정문서QA API와 다른 한국어 AI 개발 등에도 쓰일 수 있다.\nAI와 딥러닝 기술은 문장이 조금만 달라져도 의미 관계를 올바르게 인식하지 못하는 견고성(robustness) 문제가 있었다.\n연구진이 개발한 기술은 '성탄 전야 미사를 집전하며 프란치스코 교황이 전한 메시지는 '어린이를 향한 관심'입니다'와 '프란치스코 교황의 올해 첫 성탄 메시지는 고통받는 어린이를 향한 관심이었습니다' 이 두 문장의 의미가 동등하다는 것을 인식할 수 있다.\n견고성 평가셋 대상 평가 결과 96.63% 정확도를 보이며 기존 오픈소스 딥러닝 기술보다 성능을 크게 개선했다.\n개발된 기술은 표준인 XML 기반으로 문서 서식을 처리한다.\n현재는 한글 문서 대상으로만 서비스를 제공하지만 개발 기술 자체는 워드·PDF 등 다른 문서에도 범용적으로 쓰일 수 있다.\n연구진은 앞으로 딥러닝을 사용해 인간과 유사한 텍스트를 생성하는 자동 희귀 언어모델 GPT-3에 대응해 언어이해와 생성을 동시에 학습한 딥러닝 언어모델을 개발하고 관련 기술을 공개할 계획이다.\n임준호(오른쪽) ETRI 책임연구원이 배용진 선임연구원에게 오피스문서에 활용할 수 있는 API 기술을 설명하고 있다.\nETRI 제공ETRI 언어지능연구실 임준호 박사는 \\\"여러 부처 사이트 등에 관련된 법령이나 규정을 안내하는 식으로 사이트를 지능화하는 데 사용할 수 있을 것\\\"이라며 \\\"이번 연구를 통해 한국어 AI 기술 수준이 전반적으로 올라가고 한국어 AI 생태계 활성에도 도움이 될 것이라 기대한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI)이 날로 똑똑해지고 있다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 연구진은 사람처럼 문서를 이해하고 해독해 원하는 정보를 바로 안내할 수 있는 기술을 개발해 국민 누구나 사용할 수 있도록 공개했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "7일 한국정보통신연구원(이하 ETRI)에 따르면 언어지능연구실 연구진은 한글파일 등 오피스 문서 내용을 파악해 사용자의 질문에 답변을 주는 엑소브레인 API 2종을 개발하고 ETRI 공공 AI 오픈 API·데이터 서비스 포털에 서비스를 시작했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연구진이 이번에 개발한 서비스는 사용자가 행정문서 내 원하는 정보를 문장으로 입력하면 딥러닝 검색을 통해 답변과 근거 조항을 제시하는 기술이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "문장의 모습은 다르지만 의미가 같은 패러프레이즈를 구분할 수도 있는 원천기술도 개발했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "행정문서 내 궁금한 정보를 문장 형식으로 물어보면 자세한 규정을 찾아 안내하는 행정문서 질의응답 API 기술은 딥러닝 언어모델을 이용해 단락과 표를 인식할 수 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "예를 들어 교통안전법 시행규칙에 따른 '교통안전관리규정 준수 여부의 확인·평가는 언제 실시하는가?'라고 질문하면 '매 5년이 지난날의 전후 100일 이내'라고 정답을 안내하고 판단 근거가 되는 단락을 제시하는 식이다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "일반 국민이 실생활에서 사용하기보단 정책을 알리고 홍보하는 부처 홈페이지 등에서 유용하게 사용될 수 있을 것으로 보인다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공동연구기관인 한글과컴퓨터의 블라인드 평가로 정확도를 측정한 결과 각각 단락을 대상으로 한 상위 5개 결과 정확도는 89.65%, 표를 대상으로 한 검색에선 81.5%가 나왔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "패러프레이즈(Paraphrase) 인식 API는 문장은 생김새는 다르지만 같은 의미를 파악할 수 있는 기술이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "앞서 나온 행정문서QA API와 다른 한국어 AI 개발 등에도 쓰일 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "AI와 딥러닝 기술은 문장이 조금만 달라져도 의미 관계를 올바르게 인식하지 못하는 견고성(robustness) 문제가 있었다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "연구진이 개발한 기술은 '성탄 전야 미사를 집전하며 프란치스코 교황이 전한 메시지는 '어린이를 향한 관심'입니다'와 '프란치스코 교황의 올해 첫 성탄 메시지는 고통받는 어린이를 향한 관심이었습니다' 이 두 문장의 의미가 동등하다는 것을 인식할 수 있다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "견고성 평가셋 대상 평가 결과 96.63% 정확도를 보이며 기존 오픈소스 딥러닝 기술보다 성능을 크게 개선했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "개발된 기술은 표준인 XML 기반으로 문서 서식을 처리한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "현재는 한글 문서 대상으로만 서비스를 제공하지만 개발 기술 자체는 워드·PDF 등 다른 문서에도 범용적으로 쓰일 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "연구진은 앞으로 딥러닝을 사용해 인간과 유사한 텍스트를 생성하는 자동 희귀 언어모델 GPT-3에 대응해 언어이해와 생성을 동시에 학습한 딥러닝 언어모델을 개발하고 관련 기술을 공개할 계획이다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "임준호(오른쪽) ETRI 책임연구원이 배용진 선임연구원에게 오피스문서에 활용할 수 있는 API 기술을 설명하고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "ETRI 제공ETRI 언어지능연구실 임준호 박사는 \\\"여러 부처 사이트 등에 관련된 법령이나 규정을 안내하는 식으로 사이트를 지능화하는 데 사용할 수 있을 것\\\"이라며 \\\"이번 연구를 통해 한국어 AI 기술 수준이 전반적으로 올라가고 한국어 AI 생태계 활성에도 도움이 될 것이라 기대한다\\\"고 말했다.",
+				"sentenceSize": 169
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "황금연휴, 외청은 풀가동",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

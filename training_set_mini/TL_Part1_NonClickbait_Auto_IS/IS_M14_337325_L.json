@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337325",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "삼성C랩, 업계 최초 전기차 충전 로봇 'EVAR' 개발",
+		"newsSubTitle": "삼성 C랩, 자동 충전 'EVAR' 개발...최초 충전포트에 전용 어댑터 연결",
+		"newsContent": "삼성전자 사내 벤처가 업계 최초로 전기차 충전 로봇을 개발했다.\n로봇을 이용하면 충전을 위해 고압 충전케이블에 손댈 필요가 없다.\n고정설비 설치를 위해 전용 주차면을 갖추지 않아도 된다.\n전국에 방치되고 있는 전기차 폐배터리로 제작돼 재사용 가치도 확보했다.\n삼성전자가 이 로봇을 어떻게 사업화할지 주목된다.\n11일 업계에 따르면 삼성전자 사내 벤처 육성 프로그램에 참여하는 C랩 한 곳이 전기차 자동 충전 로봇 'EVAR'를 개발했다.\nEVAR는 충전이 필요한 전기차를 스스로 찾아가 사람 도움 없이 충전한 다음 다시 제자리로 찾아가는 형태다.\n가정용 로봇 청소기와 비슷한 구조다.\n폭스바겐과 쿠카(Kuka)가 공동 개발한 고정형 충전 로봇을 비롯해 미국 프리와이어(FreeWire) 이동식 충전기 등 유사한 형태 충전기는 있었지만 자율주행 기능으로 사람 도움 없이 스스로 차량을 찾아가 충전하는 로봇은 EVAR가 세계 최초다.\nEVAR는 최초 운전자가 차량 충전포트에 전용 어댑터를 연결한 후 차량 전면 번호판 위에 이 장치를 거치시키면 된다.\n스마트폰(NFC 통신)으로 충전 명령을 내리는 것만으로 모든 일처리는 끝난다.\n명령을 받은 로봇은 자기 위치에서 QR코드 인식 등으로 해당 차량까지 찾아간 후 해당 차량 번호판을 인식, 자동으로 충전한다.\n이때 3축(XYZ) 정밀 제어 알고리즘이 적용돼 차량 충전 커넥터와 로봇 충전포트 간 결합이 완벽하도록 설계됐다.\n차량 번호판 위에 거치된 어댑터가 차량과 로봇을 연결하는 도킹스테이션인 셈이다.\nEVAR는 최고 시속 2㎞ 속도로 이동한다.\n라이다와 초음파센서로 장애물과 이동 경로를 파악하고, 로봇 하단에 위치한 범퍼에는 누름 스위치 센서가 장착돼 충돌 시 즉각 멈춰 서도록 설계됐다.\n충전 이후에는 로봇에 저장된 배터리 충전을 위해 별도의 충전시설로 자동 복귀한다.\n이번에 공개된 EVAR 충전 출력은 완속(7㎾)으로 설계했지만 20~30㎾급 중속 충전 로봇 제작도 가능하다.\n로봇은 기존 전기차의 규격화된 배터리팩에 맞춰 제작돼 복잡한 응용 작업을 거치지 않고도 폐배터리 기반 제품화가 가능하다.\n한국전기차사용자협회(KEVUA) 한 관계자는 “EVAR는 공간 제약을 받지 않고 별도 주차면 없이도 전기차를 충전시키는 장점을 확보했다”면서 “재사용처를 발굴하지 못해 전국에 방치되고 있는 폐배터리를 활용할 수 있는 점도 매력”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자 사내 벤처가 업계 최초로 전기차 충전 로봇을 개발했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로봇을 이용하면 충전을 위해 고압 충전케이블에 손댈 필요가 없다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "고정설비 설치를 위해 전용 주차면을 갖추지 않아도 된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전국에 방치되고 있는 전기차 폐배터리로 제작돼 재사용 가치도 확보했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성전자가 이 로봇을 어떻게 사업화할지 주목된다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "11일 업계에 따르면 삼성전자 사내 벤처 육성 프로그램에 참여하는 C랩 한 곳이 전기차 자동 충전 로봇 'EVAR'를 개발했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "EVAR는 충전이 필요한 전기차를 스스로 찾아가 사람 도움 없이 충전한 다음 다시 제자리로 찾아가는 형태다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "가정용 로봇 청소기와 비슷한 구조다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "폭스바겐과 쿠카(Kuka)가 공동 개발한 고정형 충전 로봇을 비롯해 미국 프리와이어(FreeWire) 이동식 충전기 등 유사한 형태 충전기는 있었지만 자율주행 기능으로 사람 도움 없이 스스로 차량을 찾아가 충전하는 로봇은 EVAR가 세계 최초다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "EVAR는 최초 운전자가 차량 충전포트에 전용 어댑터를 연결한 후 차량 전면 번호판 위에 이 장치를 거치시키면 된다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "스마트폰(NFC 통신)으로 충전 명령을 내리는 것만으로 모든 일처리는 끝난다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "명령을 받은 로봇은 자기 위치에서 QR코드 인식 등으로 해당 차량까지 찾아간 후 해당 차량 번호판을 인식, 자동으로 충전한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이때 3축(XYZ) 정밀 제어 알고리즘이 적용돼 차량 충전 커넥터와 로봇 충전포트 간 결합이 완벽하도록 설계됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "차량 번호판 위에 거치된 어댑터가 차량과 로봇을 연결하는 도킹스테이션인 셈이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "EVAR는 최고 시속 2㎞ 속도로 이동한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "라이다와 초음파센서로 장애물과 이동 경로를 파악하고, 로봇 하단에 위치한 범퍼에는 누름 스위치 센서가 장착돼 충돌 시 즉각 멈춰 서도록 설계됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "충전 이후에는 로봇에 저장된 배터리 충전을 위해 별도의 충전시설로 자동 복귀한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이번에 공개된 EVAR 충전 출력은 완속(7㎾)으로 설계했지만 20~30㎾급 중속 충전 로봇 제작도 가능하다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "로봇은 기존 전기차의 규격화된 배터리팩에 맞춰 제작돼 복잡한 응용 작업을 거치지 않고도 폐배터리 기반 제품화가 가능하다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "한국전기차사용자협회(KEVUA) 한 관계자는 “EVAR는 공간 제약을 받지 않고 별도 주차면 없이도 전기차를 충전시키는 장점을 확보했다”면서 “재사용처를 발굴하지 못해 전국에 방치되고 있는 폐배터리를 활용할 수 있는 점도 매력”이라고 말했다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성C랩, 업계 최초 전기차 충전 로봇 'EVAR' 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

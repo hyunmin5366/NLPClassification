@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323543",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "이씨스, 웨이브·5G 동시 지원 V2X 단말기 개발",
+		"newsSubTitle": "",
+		"newsContent": "이씨스는 웨이브(WAVE)와 5세대(G) 이동통신을 지원하는 V2X 단말기를 개발했다고 27일 밝혔다.\nV2X는 차량사물통신을 뜻하는 용어다.\n자동차와 자동차간(V2V)이나 차량과 인프라간(V2I) 통신들이 V2X에 해당한다.\n이씨스가 개발한 단말기는 통신 기능을 내장해 V2X를 구현하는 장치로, 공공주파수대역을 이용하는 웨이브 통신과 5G 이동통신을 동시 지원한다.\n웨이브를 통해 제공되는 안전 서비스와 5G로 제공되는 정밀지도나 대용량 멀티미디어 서비스를 하나의 단말기로 이용할 수 있다.\n한국도로공사 컨소시엄이 추진하는 '자율협력 주행을 위한 5G/WAVE 하이브리드 V2X 인프라 구축 사업'의 일환으로 이번 V2X 단말기가 개발됐다.\n웨이브 통신 기반의 차세대 지능형 교통시스템(C-ITS)과 연동하며, 교차로 횡단보도의 대용량 CCTV 영상을 5G로 실시간 전송 받는 테스트를 통해 안정성을 확인했다고 이씨스는 전했다.\n김용범 이씨스 대표는 “이번 단말기 개발로 웨이브 통신 기술과 함께 5G 기반 솔루션을 확보하게 됐다”며 “V2X 전문 기업으로 기술력을 강화하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이씨스는 웨이브(WAVE)와 5세대(G) 이동통신을 지원하는 V2X 단말기를 개발했다고 27일 밝혔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "V2X는 차량사물통신을 뜻하는 용어다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자동차와 자동차간(V2V)이나 차량과 인프라간(V2I) 통신들이 V2X에 해당한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이씨스가 개발한 단말기는 통신 기능을 내장해 V2X를 구현하는 장치로, 공공주파수대역을 이용하는 웨이브 통신과 5G 이동통신을 동시 지원한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "웨이브를 통해 제공되는 안전 서비스와 5G로 제공되는 정밀지도나 대용량 멀티미디어 서비스를 하나의 단말기로 이용할 수 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국도로공사 컨소시엄이 추진하는 '자율협력 주행을 위한 5G/WAVE 하이브리드 V2X 인프라 구축 사업'의 일환으로 이번 V2X 단말기가 개발됐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "웨이브 통신 기반의 차세대 지능형 교통시스템(C-ITS)과 연동하며, 교차로 횡단보도의 대용량 CCTV 영상을 5G로 실시간 전송 받는 테스트를 통해 안정성을 확인했다고 이씨스는 전했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김용범 이씨스 대표는 “이번 단말기 개발로 웨이브 통신 기술과 함께 5G 기반 솔루션을 확보하게 됐다”며 “V2X 전문 기업으로 기술력을 강화하겠다”고 말했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이씨스, 웨이브·5G 동시 지원 V2X 단말기 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

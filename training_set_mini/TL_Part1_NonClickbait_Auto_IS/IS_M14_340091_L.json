@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_340091",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "넷크루즈, 빅데이터 분석 시스템 출시",
+		"newsSubTitle": "",
+		"newsContent": "빅데이터 기반 로그 및 네트워크 분석·관리 솔루션 전문기업 넷크루즈(대표 김선욱)는 빅데이터 분석 시스템 '빅아이SA(Smart Analyzer)'를 출시했다고 25일 밝혔다.\n빅아이SA는 빅데이터 고급 분석 기술과 서비스를 적용한 빅데이터 분석 플랫폼 '빅아이 v1.0'을 서버와 스토리지 등 하드웨어와 최적화해 통합했다.\n빅아이v1.0은 엘라스틱서치의 ELK 스택을 국내 사용환경에 맞게 최적화한 빅데이터 플랫폼이다.\n엘라스틱서치는 오픈소스 기반 실시간 검색 및 분석분야 글로벌 선도 기업이다.\n넷크루즈의 공식 파트너다.\n빅아이v1.0은 완벽한 대용량 데이터 분산처리 기능과 데이터 동기화 기능을 기본으로 제공한다.\n별도 도구없이 원본 로그에 대한 SQL 및 No-SQL을 동시 지원한다.\n빅아이SA는 기존 빅데이터 솔루션의 복잡한 구성, 어려운 설치라는 한계를 극복하기 위한 스마트 파싱, 스마트 태깅 기술을 기본 탑재했다.\n원본로그 수집, 저장, 분석기능을 하나의 장비에서 처리 가능한 구조로 설계해 다양한 고객요구에 능동적으로 대응한다.\n수집 대상이나 수집 용량 증가 등 스케일아웃 증설이 필요하면 엘라스틱서치의 유연한 확장성을 기반으로 단순 추가 증설만을 통해 자동 데이터 분산 처리, 복제 및 동기화 기능을 제공한다.\n추가 모듈 네트워크인사이트콤포넌트를 추가하면 내트워크 패킷과 플로 데이터를 수집해 네트워크 행위 분석까지 가능하다.\n기존 단순 로그분석만으로 침해대응하던 보안관제 시장에 새 기준을 제시하고 고객 보안역량 강화에 기여할 것으로 보인다.\n이택준 넷크루즈 R&D센터 상무는 “기존 유사제품 한계를 극복하고 고객 요구사항에 유연하게 대응하고 만족시킬 수 있는 시스템”이라면서 “단순한 HW와 SW 결합이 아닌 일체형 장비 장점인 단순성과 편의성을 완벽하게 구현했다”고 말했다.\n2001년 설립된 넷크루즈는 통합로그관리솔루션, 통합보안관제솔루션, 네트워크모니터링 솔루션을 개발, 공급하는 빅데이터 로그 기반 보안 및 인프라 관리 전문 기업이다",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빅데이터 기반 로그 및 네트워크 분석·관리 솔루션 전문기업 넷크루즈(대표 김선욱)는 빅데이터 분석 시스템 '빅아이SA(Smart Analyzer)'를 출시했다고 25일 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빅아이SA는 빅데이터 고급 분석 기술과 서비스를 적용한 빅데이터 분석 플랫폼 '빅아이 v1.0'을 서버와 스토리지 등 하드웨어와 최적화해 통합했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "빅아이v1.0은 엘라스틱서치의 ELK 스택을 국내 사용환경에 맞게 최적화한 빅데이터 플랫폼이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "엘라스틱서치는 오픈소스 기반 실시간 검색 및 분석분야 글로벌 선도 기업이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "넷크루즈의 공식 파트너다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "빅아이v1.0은 완벽한 대용량 데이터 분산처리 기능과 데이터 동기화 기능을 기본으로 제공한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "별도 도구없이 원본 로그에 대한 SQL 및 No-SQL을 동시 지원한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "빅아이SA는 기존 빅데이터 솔루션의 복잡한 구성, 어려운 설치라는 한계를 극복하기 위한 스마트 파싱, 스마트 태깅 기술을 기본 탑재했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "원본로그 수집, 저장, 분석기능을 하나의 장비에서 처리 가능한 구조로 설계해 다양한 고객요구에 능동적으로 대응한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "수집 대상이나 수집 용량 증가 등 스케일아웃 증설이 필요하면 엘라스틱서치의 유연한 확장성을 기반으로 단순 추가 증설만을 통해 자동 데이터 분산 처리, 복제 및 동기화 기능을 제공한다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "추가 모듈 네트워크인사이트콤포넌트를 추가하면 내트워크 패킷과 플로 데이터를 수집해 네트워크 행위 분석까지 가능하다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기존 단순 로그분석만으로 침해대응하던 보안관제 시장에 새 기준을 제시하고 고객 보안역량 강화에 기여할 것으로 보인다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이택준 넷크루즈 R&D센터 상무는 “기존 유사제품 한계를 극복하고 고객 요구사항에 유연하게 대응하고 만족시킬 수 있는 시스템”이라면서 “단순한 HW와 SW 결합이 아닌 일체형 장비 장점인 단순성과 편의성을 완벽하게 구현했다”고 말했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "2001년 설립된 넷크루즈는 통합로그관리솔루션, 통합보안관제솔루션, 네트워크모니터링 솔루션을 개발, 공급하는 빅데이터 로그 기반 보안 및 인프라 관리 전문 기업이다",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "넷크루즈, 빅데이터 분석 시스템 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

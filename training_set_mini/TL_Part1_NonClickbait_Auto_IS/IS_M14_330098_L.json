@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330098",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[AWS 리인벤트 2018]아마존 퍼스널라이즈 등 머신러닝 서비스 다수 첫선",
+		"newsSubTitle": "",
+		"newsContent": "아마존웹서비스(AWS)가 머신러닝 기반 개인맞춤형 추천 서비스 개발을 지원하는 '아마존 퍼스널라이즈'를 출시했다.\n앤디 재시 AWS 최고경영자(CEO)는 28일(현지시간) 미국 라스베이거스 'AWS 리인벤트 2018'에서 퍼스널라이즈 등 머신러닝 기반 서비스를 다수 출시했다.\n아마존 퍼스널라이즈는 차별화된 개인화 서비스를 지원하는 기계학습이다.\n고객맞춤형 제품과 콘텐츠를 추천할 수 있다.\n아마존닷컴에서 완성된 기계학습 기술을 사용, 과거 기계학습 경험이 없어도 개발자가 복잡한 응용 프로그램에 쉽게 개인화 기능을 구축한다.\n퍼스널라이즈 서비스 활용으로 머신러닝 기술을 검색 결과와 마케팅 프로모션에 적용해 비용을 절감한다.\n기업이 고객 데이터 확보를 위한 프로모션을 최소화한다.\n아마존닷컴 사용 시간에 따른 예측 기술 기반 서비스 '아마존 포캐스트'도 선보였다.\n가격·이벤트·날씨 등 관련성이 높은 요인이 많지만 포캐스트는 정확한 시계열 예측을 만든다.\n과거 데이터와 관련 인과관계 데이터를 사용한다.\n맞춤형 개인학습 예측 모델을 자동으로 조정·배포해 지출을 합리화하는 등 고객에게 긍정적인 경험을 제공하도록 지원한다.\n기계 학습 모델 구축을 위한 머신러닝 기반 서비스를 지원한다.\n개발자는 모델 훈련을 위해 데이터 세트를 준비하고 모델 학습에 필요한 레이블 작업을 해야 한다.\n많은 시간과 비용을 소모한다.\nAWS는 '아마존 세이즈메이커 그라운드 트루스'를 사용해 데이터에 쉽게 레이블을 지정하도록 돕는다.\n실시간 학습 데이터 세트 대부분에 레이블을 자동으로 적용, 사람이 해야 하는 작업을 최소화한다.\n정확한 훈련 데이터 세트를 생성하고 시간과 복잡성을 줄인다.\n개발자 작업 대비 비용을 최대 70%까지 절감한다.\n이외에도 그래픽처리장치(GPU) 기반 딥러닝 추론 가속 서비스 '아마존 엘라스틱 인프런스', 강화학습 모델을 빠르고 쉽게 개발하는 '아마존 세이즈메이커 RL', 자율주행 강화 학습을 위한 소형 경주형자동차 '아마존 딥 레이서' 등을 출시한다.\nAWS는 기계학습 알고리즘과 모델 패키지를 검색해 세이즈메이커에 직접 배치하도록 AWS 마켓플레이스에서 구매·판매를 지원한다.\n고객은 컴퓨터 비전, 자연어 처리, 음성 인식, 텍스트, 데이터, 음성, 이미지, 비디오·예측 분석 등 다양한 알고리즘과 모델을 선택한다.\n마켓플레이스 배포나 통합 결제 기능도 사용하도록 돕는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아마존웹서비스(AWS)가 머신러닝 기반 개인맞춤형 추천 서비스 개발을 지원하는 '아마존 퍼스널라이즈'를 출시했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "앤디 재시 AWS 최고경영자(CEO)는 28일(현지시간) 미국 라스베이거스 'AWS 리인벤트 2018'에서 퍼스널라이즈 등 머신러닝 기반 서비스를 다수 출시했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아마존 퍼스널라이즈는 차별화된 개인화 서비스를 지원하는 기계학습이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고객맞춤형 제품과 콘텐츠를 추천할 수 있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아마존닷컴에서 완성된 기계학습 기술을 사용, 과거 기계학습 경험이 없어도 개발자가 복잡한 응용 프로그램에 쉽게 개인화 기능을 구축한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "퍼스널라이즈 서비스 활용으로 머신러닝 기술을 검색 결과와 마케팅 프로모션에 적용해 비용을 절감한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기업이 고객 데이터 확보를 위한 프로모션을 최소화한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아마존닷컴 사용 시간에 따른 예측 기술 기반 서비스 '아마존 포캐스트'도 선보였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "가격·이벤트·날씨 등 관련성이 높은 요인이 많지만 포캐스트는 정확한 시계열 예측을 만든다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "과거 데이터와 관련 인과관계 데이터를 사용한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "맞춤형 개인학습 예측 모델을 자동으로 조정·배포해 지출을 합리화하는 등 고객에게 긍정적인 경험을 제공하도록 지원한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기계 학습 모델 구축을 위한 머신러닝 기반 서비스를 지원한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "개발자는 모델 훈련을 위해 데이터 세트를 준비하고 모델 학습에 필요한 레이블 작업을 해야 한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "많은 시간과 비용을 소모한다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "AWS는 '아마존 세이즈메이커 그라운드 트루스'를 사용해 데이터에 쉽게 레이블을 지정하도록 돕는다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "실시간 학습 데이터 세트 대부분에 레이블을 자동으로 적용, 사람이 해야 하는 작업을 최소화한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "정확한 훈련 데이터 세트를 생성하고 시간과 복잡성을 줄인다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "개발자 작업 대비 비용을 최대 70%까지 절감한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이외에도 그래픽처리장치(GPU) 기반 딥러닝 추론 가속 서비스 '아마존 엘라스틱 인프런스', 강화학습 모델을 빠르고 쉽게 개발하는 '아마존 세이즈메이커 RL', 자율주행 강화 학습을 위한 소형 경주형자동차 '아마존 딥 레이서' 등을 출시한다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "AWS는 기계학습 알고리즘과 모델 패키지를 검색해 세이즈메이커에 직접 배치하도록 AWS 마켓플레이스에서 구매·판매를 지원한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "고객은 컴퓨터 비전, 자연어 처리, 음성 인식, 텍스트, 데이터, 음성, 이미지, 비디오·예측 분석 등 다양한 알고리즘과 모델을 선택한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "마켓플레이스 배포나 통합 결제 기능도 사용하도록 돕는다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[AWS 리인벤트 2018]아마존 퍼스널라이즈 등 머신러닝 서비스 다수 첫선",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

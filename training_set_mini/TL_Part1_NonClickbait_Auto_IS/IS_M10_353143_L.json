@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353143",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "파수, 지난해 매출 422.5억원...\\\"역대 최대규모, 흑자 전환\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "보안기업 파수가 지난해 매출 422억5000만원, 영업이익 43억원을 기록, 역대 최대 실적을 달성했다고 10일 밝혔다.\n파수는 지난해를 기점으로 흑자전환에도 성공했다.\n파수의 지난해 매출과 영업이익은 전년 대비 각각 58억4000만원, 55억4000만원 늘어난 결과다.\n당기순이익 역시 53억6000만원 늘어난 39억5000만원을 달성해 역대 최대치를 기록했다.\n파수는 코로나19(COVID-19) 이후 재택근무 확산에 따라 보안 솔루션 수요가 늘어난 결과로 분석했다.\n파수 관계자는 \\\"해외 매출과 개인정보 비식별 솔루션 등 데이터 보안부문 매출이 전년 대비 25% 증가했다\\\"고 설명했다.\n조규곤 파수 대표는 \\\"매년 심각해지는 보안 위협으로 솔루션 수요도 늘어난 만큼 올해도 지난해 수준으로 성장할 수 있을 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보안기업 파수가 지난해 매출 422억5000만원, 영업이익 43억원을 기록, 역대 최대 실적을 달성했다고 10일 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "파수는 지난해를 기점으로 흑자전환에도 성공했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "파수의 지난해 매출과 영업이익은 전년 대비 각각 58억4000만원, 55억4000만원 늘어난 결과다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당기순이익 역시 53억6000만원 늘어난 39억5000만원을 달성해 역대 최대치를 기록했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "파수는 코로나19(COVID-19) 이후 재택근무 확산에 따라 보안 솔루션 수요가 늘어난 결과로 분석했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "파수 관계자는 \\\"해외 매출과 개인정보 비식별 솔루션 등 데이터 보안부문 매출이 전년 대비 25% 증가했다\\\"고 설명했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조규곤 파수 대표는 \\\"매년 심각해지는 보안 위협으로 솔루션 수요도 늘어난 만큼 올해도 지난해 수준으로 성장할 수 있을 것\\\"이라고 말했다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파수, 지난해 매출 422.5억원...\\\"역대 최대규모, 흑자 전환\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

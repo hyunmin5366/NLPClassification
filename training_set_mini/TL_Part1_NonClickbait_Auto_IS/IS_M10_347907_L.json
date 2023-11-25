@@ -1,0 +1,465 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347907",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "'소부장 전사' 최기영, 과기정통부 장관이 취임하자마자 찾아간 이 회사",
+		"newsSubTitle": "null",
+		"newsContent": "지난해 9월 18일 최기영 과학기술정보통신부 장관은 취임 8일 만에 전격적으로 기업현장 방문에 나섰다.\n그가 찾은 곳은 지능형반도체 팹리스 기업인 텔레칩스. 당시 일본의 수출 규제 등으로 반도체 산업 위기론이 고조되자 부품·소재 국산화와 함께 지능형반도체를 국가 핵심 산업으로 육성하겠다는 의지를 담은 행보였다.\n실제 텔레칩스의 상징성은 크다.\n해외에 의존하던 차량용 인포테인먼트 시스템(AVN, 오디오·비디오·네비게이션) 반도체를 처음으로 국산화해 2017년 기준 국내 시장(현대기아차)의 73.6%와 세계 시장 약 12%를 점유한 국내 차량용 반도체 1위 기업이다.\n이장규 텔레칩스 대표는 “퀄컴이나 인텔 같은 글로벌 기업과 비교하면 차량용 반도체 분야에서 아직 뒤져 있는 게 사실”이라면서도 “연구역량을 집중하면 수년 내에 격차를 좁힐 수 있을 것”이라고 자신했다.\n지난 4월 정부의 AI(인공지능) 반도체 연구개발 사업에서 모바일분야 경량 NPU(신경망처리장치) 개발을 맡은 텔레칩스는 이를 접목한 자율주행차용 AI 반도체칩셋으로 글로벌 시장을 공략한다는 계획이다.\n다음은 서울 송파구 텔레칩스 본사에서 진행한 이 대표와의 일문일답.- 텔레칩스는 어떻게 설립했나?\n▷ 삼성전자에서 반도체를 개발하다 1993년 비메모리 펩리스 회사를 공동 창업했고, 이후 독립해 1999년 텔레칩스를 설립했다.\n그동안 다양한 칩셋 개발 경험을 축적해왔는데 우연히 한 제조사의 지인 요청으로 2000년 무선전화기용 콜러아이디(Caller ID, 전화번호 표시) 칩셋을 개발하게 됐다.\n1990년대 말 무선전화기 인기가 상당했고 상대방 번호를 볼 수 있는 콜러아이디는 신기술이었다.\n그 칩을 독점하던 해외기업이 있었는데 가격이 너무 비싸 국내 제조사들이 우리에게 개발을 의뢰했다.\n페이저(무선호출기)용 칩셋까지 개발해봤는데 못할 게 없었다.\n양산하는 데 3년이 걸렸지만 결국 상용화에 성공해 세계 무선전화 1, 3위 업체에 공급했고 국내 시장도 장악할 수 있었다.\n북미로 수출해 현지 시장 30%를 점유하기도 했다.\n다음 아이템도 자연스럽게 이어졌다.\n당시 인기 있던 MP3 플레이어용 칩셋이었다.\n당시 MP3용 칩셋에 플레이 기능을 하는 디코더는 있었는데 녹음 즉 인코딩 기능은 없었다.\n두 기능을 함께 처리해주는 솔루션을 만들면 통하겠다 싶어 모토로라의 DSP(디지털신호처리)칩에 우리 알고리즘을 개발해 공급했다.\n초기엔 주목을 못 받았다.\n그러다 MP3 플레이어에 FM라디오가 지원되고 음악을 고품질로 녹음하려는 이들이 늘면서 메모리도 적게 들고 성능 좋은 우리 솔루션이 주목을 받았다.\n음원과 메모리가 비싼 시절이었다.\n모토로라칩 아닌 자체 칩으로 이를 개발했다.\n제조사들이 요구한 MP3 불법복제방지 DRM(디지털저작권관리) 기능을 포함해 수요가 커졌던 홈 오디오용으로 공급했다.\n전세계 MP3붐에다 고음질 제품으로 소문나면서 아이리버, 삼성, LG, 거원, 디지털웨이 등 거의 모든 MP3플레이어 제조사가 앞다퉈 구매했고 이른바 ‘뮤직폰’(피처폰시절 음악특화폰)에도 들어가는 등 전세계 시장을 주름잡았다.\n- 자동차용 칩셋 시장에 진출하게된 계기는? ▷MP3시장이 갑자기 꺾이고 스마트폰 시대가 열린 게 결정적이었다.\n2010년 전후로 아이팟과 아이패드가 나오면서 MP3플레이어 수요가 급감한 데다 스마트폰에는 SW(소프트웨어)로 동작하는 MP3플레이 앱이 있어 별도 칩셋이 필요 없었다.\n이때부터 수년간 매출이 급감했고 적자가 발생했다.\n다행히 USB에 MP3파일을 저장해두고 스피커에 꽂으면 바로 플레이되는 솔루션을 개발해 현대차 납품하며 기사회생했다.\nUSB에 MP3만 저장해두고 차 오디오에 꽂으면 마음대로 음악을 들을 수 있으니 신차를 구매한 고객들의 반응이 매우 좋았다.\n카 엔포테인먼트 쪽으로 눈을 돌린 결정적 계기가 됐다.\n- 텔레칩스 경쟁력 요체는 뭔가.\n▷안드로이드 OS가 처음 나왔을 때 야심차게 AP(애플리케이션 프로세서) 개발에 도전했다.\n무명의 회사를 구글이 지원할 리 없어 와이파이,블루투스, USB지원, 모바일TV 등 솔루션을 우리가 다 만들었다.\n상당한 공을 들였는데 아이폰 등장 이후 대기업들이 나서면서 무용지물이 됐다.\n그냥 포기하기엔 너무나 아까웠다.\n그래서 USB용 MP3솔루션을 공급한 현대차에 2014년부터 안드로이드에 기반한 차량용 오디오·비디오·네비게이션(AVN) 칩과 솔루션을 공급하면서 이 분야에 집중하게 됐다.\n최근 차량용 인포테인먼트 칩셋은 자동차의 계기판과 대시보드, 카메라, 첨단운전자지원시스템(ADAS) 등이 망라된 ‘디지털콕핏(차량 운전석 관련솔루션)’으로 진화 중이다.\n글로벌 기업들의 격전장이기도 한데 AP 개발 경험이 이 쪽으로 기술 역량을 집중하는데 큰 도움이 됐다.\n- 차량용 AI반도체 시장은 경쟁이 치열한데 승산이 있나?\n▷ 퀄컴, 인텔 같은 회사들에 비해 우리는 아직 1, 2세대 가량 뒤져있다.\n우리 칩셋 공정은 14나노인데 글로벌 기업들은 현재 5 나노를 개발중이다.\n집적도나 처리 속도가 월등하고 그만큼 하이엔드 차량을 타깃으로 한다.\n퀄컴은 휴대폰용 칩셋 공정을 일부 바꿔 오토모티브(차량) 시장으로 옮겨왔고 일부 추가 개발해 현재는 디지털콕핏용 NPU도 갖추고 있다.\n르네상스와 NXP, 미디어텍 등도 최근 이 분야에 적극 나서고 삼성도 자동차용 AP인 '엑시노스 오토모티브'를 가지고 있다.\n물론 우리도 가만히 있지는 않는다.\n그동안 쌓아온 기술력에다 자체 연구개발(R&D) 로드맵을 만들어 차근차근 기술력을 높이고 있다.\n이익의 상당부분을 개발인력 확충과 R&D에 재투자하고 있다.\n여기에 정부사업을 통해 개발중인 NPU를 고도화하면 글로벌 도전도 충분히 가능하다.\n현재 운전자가 발을 떼거나 손을 놓는, 자율주행 레벨 2, 3 정도에 해당하는 AI 칩셋을 개발중인데 3년내 퀄컴에 버금가는 수준의 제품을 선보일 수 있을 것으로 본다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 49,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 9월 18일 최기영 과학기술정보통신부 장관은 취임 8일 만에 전격적으로 기업현장 방문에 나섰다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그가 찾은 곳은 지능형반도체 팹리스 기업인 텔레칩스. 당시 일본의 수출 규제 등으로 반도체 산업 위기론이 고조되자 부품·소재 국산화와 함께 지능형반도체를 국가 핵심 산업으로 육성하겠다는 의지를 담은 행보였다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "실제 텔레칩스의 상징성은 크다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해외에 의존하던 차량용 인포테인먼트 시스템(AVN, 오디오·비디오·네비게이션) 반도체를 처음으로 국산화해 2017년 기준 국내 시장(현대기아차)의 73.6%와 세계 시장 약 12%를 점유한 국내 차량용 반도체 1위 기업이다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이장규 텔레칩스 대표는 “퀄컴이나 인텔 같은 글로벌 기업과 비교하면 차량용 반도체 분야에서 아직 뒤져 있는 게 사실”이라면서도 “연구역량을 집중하면 수년 내에 격차를 좁힐 수 있을 것”이라고 자신했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 4월 정부의 AI(인공지능) 반도체 연구개발 사업에서 모바일분야 경량 NPU(신경망처리장치) 개발을 맡은 텔레칩스는 이를 접목한 자율주행차용 AI 반도체칩셋으로 글로벌 시장을 공략한다는 계획이다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다음은 서울 송파구 텔레칩스 본사에서 진행한 이 대표와의 일문일답.- 텔레칩스는 어떻게 설립했나?",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "▷ 삼성전자에서 반도체를 개발하다 1993년 비메모리 펩리스 회사를 공동 창업했고, 이후 독립해 1999년 텔레칩스를 설립했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그동안 다양한 칩셋 개발 경험을 축적해왔는데 우연히 한 제조사의 지인 요청으로 2000년 무선전화기용 콜러아이디(Caller ID, 전화번호 표시) 칩셋을 개발하게 됐다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "1990년대 말 무선전화기 인기가 상당했고 상대방 번호를 볼 수 있는 콜러아이디는 신기술이었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "그 칩을 독점하던 해외기업이 있었는데 가격이 너무 비싸 국내 제조사들이 우리에게 개발을 의뢰했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "페이저(무선호출기)용 칩셋까지 개발해봤는데 못할 게 없었다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "양산하는 데 3년이 걸렸지만 결국 상용화에 성공해 세계 무선전화 1, 3위 업체에 공급했고 국내 시장도 장악할 수 있었다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "북미로 수출해 현지 시장 30%를 점유하기도 했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "다음 아이템도 자연스럽게 이어졌다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "당시 인기 있던 MP3 플레이어용 칩셋이었다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "당시 MP3용 칩셋에 플레이 기능을 하는 디코더는 있었는데 녹음 즉 인코딩 기능은 없었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "두 기능을 함께 처리해주는 솔루션을 만들면 통하겠다 싶어 모토로라의 DSP(디지털신호처리)칩에 우리 알고리즘을 개발해 공급했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "초기엔 주목을 못 받았다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "그러다 MP3 플레이어에 FM라디오가 지원되고 음악을 고품질로 녹음하려는 이들이 늘면서 메모리도 적게 들고 성능 좋은 우리 솔루션이 주목을 받았다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "음원과 메모리가 비싼 시절이었다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "모토로라칩 아닌 자체 칩으로 이를 개발했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "제조사들이 요구한 MP3 불법복제방지 DRM(디지털저작권관리) 기능을 포함해 수요가 커졌던 홈 오디오용으로 공급했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "전세계 MP3붐에다 고음질 제품으로 소문나면서 아이리버, 삼성, LG, 거원, 디지털웨이 등 거의 모든 MP3플레이어 제조사가 앞다퉈 구매했고 이른바 ‘뮤직폰’(피처폰시절 음악특화폰)에도 들어가는 등 전세계 시장을 주름잡았다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "- 자동차용 칩셋 시장에 진출하게된 계기는? ▷MP3시장이 갑자기 꺾이고 스마트폰 시대가 열린 게 결정적이었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "2010년 전후로 아이팟과 아이패드가 나오면서 MP3플레이어 수요가 급감한 데다 스마트폰에는 SW(소프트웨어)로 동작하는 MP3플레이 앱이 있어 별도 칩셋이 필요 없었다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "이때부터 수년간 매출이 급감했고 적자가 발생했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "다행히 USB에 MP3파일을 저장해두고 스피커에 꽂으면 바로 플레이되는 솔루션을 개발해 현대차 납품하며 기사회생했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "USB에 MP3만 저장해두고 차 오디오에 꽂으면 마음대로 음악을 들을 수 있으니 신차를 구매한 고객들의 반응이 매우 좋았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "카 엔포테인먼트 쪽으로 눈을 돌린 결정적 계기가 됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "- 텔레칩스 경쟁력 요체는 뭔가.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "▷안드로이드 OS가 처음 나왔을 때 야심차게 AP(애플리케이션 프로세서) 개발에 도전했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "무명의 회사를 구글이 지원할 리 없어 와이파이,블루투스, USB지원, 모바일TV 등 솔루션을 우리가 다 만들었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "상당한 공을 들였는데 아이폰 등장 이후 대기업들이 나서면서 무용지물이 됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "그냥 포기하기엔 너무나 아까웠다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "그래서 USB용 MP3솔루션을 공급한 현대차에 2014년부터 안드로이드에 기반한 차량용 오디오·비디오·네비게이션(AVN) 칩과 솔루션을 공급하면서 이 분야에 집중하게 됐다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 37,
+				"sentenceContent": "최근 차량용 인포테인먼트 칩셋은 자동차의 계기판과 대시보드, 카메라, 첨단운전자지원시스템(ADAS) 등이 망라된 ‘디지털콕핏(차량 운전석 관련솔루션)’으로 진화 중이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 38,
+				"sentenceContent": "글로벌 기업들의 격전장이기도 한데 AP 개발 경험이 이 쪽으로 기술 역량을 집중하는데 큰 도움이 됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 39,
+				"sentenceContent": "- 차량용 AI반도체 시장은 경쟁이 치열한데 승산이 있나?",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 40,
+				"sentenceContent": "▷ 퀄컴, 인텔 같은 회사들에 비해 우리는 아직 1, 2세대 가량 뒤져있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 41,
+				"sentenceContent": "우리 칩셋 공정은 14나노인데 글로벌 기업들은 현재 5 나노를 개발중이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 42,
+				"sentenceContent": "집적도나 처리 속도가 월등하고 그만큼 하이엔드 차량을 타깃으로 한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 43,
+				"sentenceContent": "퀄컴은 휴대폰용 칩셋 공정을 일부 바꿔 오토모티브(차량) 시장으로 옮겨왔고 일부 추가 개발해 현재는 디지털콕핏용 NPU도 갖추고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 44,
+				"sentenceContent": "르네상스와 NXP, 미디어텍 등도 최근 이 분야에 적극 나서고 삼성도 자동차용 AP인 '엑시노스 오토모티브'를 가지고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 45,
+				"sentenceContent": "물론 우리도 가만히 있지는 않는다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 46,
+				"sentenceContent": "그동안 쌓아온 기술력에다 자체 연구개발(R&D) 로드맵을 만들어 차근차근 기술력을 높이고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 47,
+				"sentenceContent": "이익의 상당부분을 개발인력 확충과 R&D에 재투자하고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 48,
+				"sentenceContent": "여기에 정부사업을 통해 개발중인 NPU를 고도화하면 글로벌 도전도 충분히 가능하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 49,
+				"sentenceContent": "현재 운전자가 발을 떼거나 손을 놓는, 자율주행 레벨 2, 3 정도에 해당하는 AI 칩셋을 개발중인데 3년내 퀄컴에 버금가는 수준의 제품을 선보일 수 있을 것으로 본다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'소부장 전사' 최기영, 과기정통부 장관이 취임하자마자 찾아간 이 회사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 37,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 38,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 39,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 40,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 41,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 42,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 43,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 44,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 45,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 46,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 47,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 48,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 49,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

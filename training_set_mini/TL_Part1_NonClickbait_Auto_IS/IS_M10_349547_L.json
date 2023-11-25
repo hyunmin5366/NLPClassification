@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349547",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "\\\"고개들고 주변을\\\"...보행중 스마트폰, 구글이 경고해준다",
+		"newsSubTitle": "null",
+		"newsContent": "구글이 길을 걸어가면서 주변은 살피지 않고, 스마트폰만 쳐다보는 것을 막기 위한 새로운 기능을 추가했다.\n부주의한 스마트폰 사용으로 발생하는 각종 사고를 방지하기 위한 것이다.\n12일(현지시각) 미국 IT매체 폰아레나는 구글이 스마트폰을 사용하면서 길을 걸으면 ‘고개를 들고 주변을 살펴보라’고 경고해 주는 ‘헤드업’(Heads Up) 기능을 새롭게 도입했다고 전했다.\n헤드업 기능은 사용자가 설정에서 활성화하면 작동한다.\n이후에는 길을 걷는 동안 스마트폰 사용을 감지하면 지속적인 경고 메시지를 보여준다.\n이 기능은 단순 알림만 제공할 뿐 주변 상황을 확인해 경고하는 방식은 아니다.\n헤드업 기능은 구글의 디지털 웰빙(Digital Wellbeing) 기능으로 추가된다.\n기존 디지털 웰빙 기능에는 대시보드, 앱 타이머, 방해 금지 모드, 긴장 풀기 등이 있다.\n대시보드는 앱별 사용 시간, 스마트폰 잠금 해제 횟수, 알림 개수 등 스마트폰 사용 시간 관련 정보를 제공한다.\n앱 타이머는 특정 앱에 사용 시간 제한을 설정할 수 있다.\n현재 이 기능은 구글의 자체 스마트폰 픽셀 사용자에게만 배포되고 있다.\n픽셀 이외 전체 안드로이드 스마트폰 공개 일정은 아직 알려지지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구글이 길을 걸어가면서 주변은 살피지 않고, 스마트폰만 쳐다보는 것을 막기 위한 새로운 기능을 추가했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "부주의한 스마트폰 사용으로 발생하는 각종 사고를 방지하기 위한 것이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "12일(현지시각) 미국 IT매체 폰아레나는 구글이 스마트폰을 사용하면서 길을 걸으면 ‘고개를 들고 주변을 살펴보라’고 경고해 주는 ‘헤드업’(Heads Up) 기능을 새롭게 도입했다고 전했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "헤드업 기능은 사용자가 설정에서 활성화하면 작동한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후에는 길을 걷는 동안 스마트폰 사용을 감지하면 지속적인 경고 메시지를 보여준다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 기능은 단순 알림만 제공할 뿐 주변 상황을 확인해 경고하는 방식은 아니다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "헤드업 기능은 구글의 디지털 웰빙(Digital Wellbeing) 기능으로 추가된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기존 디지털 웰빙 기능에는 대시보드, 앱 타이머, 방해 금지 모드, 긴장 풀기 등이 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "대시보드는 앱별 사용 시간, 스마트폰 잠금 해제 횟수, 알림 개수 등 스마트폰 사용 시간 관련 정보를 제공한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "앱 타이머는 특정 앱에 사용 시간 제한을 설정할 수 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "현재 이 기능은 구글의 자체 스마트폰 픽셀 사용자에게만 배포되고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "픽셀 이외 전체 안드로이드 스마트폰 공개 일정은 아직 알려지지 않았다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"고개들고 주변을\\\"...보행중 스마트폰, 구글이 경고해준다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

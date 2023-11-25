@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352810",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "어젯밤 올레tv 1시간 먹통...KT \\\"정확한 원인 파악 중\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "지난 9일 밤 약 1시간 가량 KT의 인터넷TV(IPTV)인 올레tv 일부 채널들이 방송되지 않는 서비스 장애가 발생했다.\n10일 KT에 따르면 지난 9일 밤 10시42분부터 서울과 경북, 대구, 부산 등 일부 지역에서 지상파 및 일부 채널 송출이 중단됐다.\n이날 장애는 약 1시간만인 11시40분쯤 대부분 복구됐으나 가입자들은 정확한 원인을 알지 못한 채 TV 시청에 불편을 겪었다.\n트위터를 비롯한 온라인 커뮤니티 등에서는 원인을 묻는 글들도 다수 검색됐다.\n구체적인 장애 원인은 아직 밝혀지지 않았다.\nKT 관계자는 \\\"정확한 원인은 파악 중\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 9일 밤 약 1시간 가량 KT의 인터넷TV(IPTV)인 올레tv 일부 채널들이 방송되지 않는 서비스 장애가 발생했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일 KT에 따르면 지난 9일 밤 10시42분부터 서울과 경북, 대구, 부산 등 일부 지역에서 지상파 및 일부 채널 송출이 중단됐다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 장애는 약 1시간만인 11시40분쯤 대부분 복구됐으나 가입자들은 정확한 원인을 알지 못한 채 TV 시청에 불편을 겪었다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "트위터를 비롯한 온라인 커뮤니티 등에서는 원인을 묻는 글들도 다수 검색됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구체적인 장애 원인은 아직 밝혀지지 않았다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT 관계자는 \\\"정확한 원인은 파악 중\\\"이라고 말했다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "어젯밤 올레tv 1시간 먹통...KT \\\"정확한 원인 파악 중\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

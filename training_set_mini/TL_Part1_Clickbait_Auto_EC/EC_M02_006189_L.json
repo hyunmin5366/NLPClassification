@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006189",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설부동산",
+		"newsTitle": "현대엔지니어링, AI 기반 설계 자동화 기술 개발 참여",
+		"newsSubTitle": "다양한 건설현장 경험으로 기술 검토 검증",
+		"newsContent": "현대엔지니어링은 산업통상자원부가 주관하는 연구개발사업에 최종 선정돼 AI 기반 설계 자동화 기술 개발에 나선다고 6일 밝혔다.\n현대엔지니어링은 탄소저감모델연계 디지털엔지니어링 설계기술 개발사업의 세부과제 중 하나인 AI 기반 엔지니어링 설계정보 디지털 변환·추출 기술 개발에 착수한다.\nAI 기반 엔지니어링 설계정보 디지털 변환·추출 기술은 AI가 엔지니어링 설계도면 및 문서 등에서 필요한 정보를 자동 인식하고 추출해 주는 기술이다.\n이를 통해 작업시간을 단축할 수 있으며 도면의 디지털화로 품질향상도 기대할 수 있다.\n현대엔지니어링은 컨소시엄 형태로 사업에 참여한다.\n주관사인 위세아이텍 외 한국과학기술원(KAIST), 고등기술연구원 연구조합, 고려대학교 산학협력단, 한국기술교육대학교 산학협력단과 함께 33개월간 AI 기반 설계 자동화 기술을 개발한다.\n현대엔지니어링 관계자는 데일리임팩트에 \\\"플랜트 건설사업의 기본설계와 설계·조달·시공 등 국내외 다양한 프로젝트 수행경험과 국내 최초로 AI 기반 플랜트 자동 설계 시스템 개발 이력을 바탕으로 이번 컨소시엄에서 기술 검토와 검증 역할을 맡게 됐다\\\"라며 \\\"앞으로도 산학연 기관과 다방면에서 산업발전을 위해 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대엔지니어링은 산업통상자원부가 주관하는 연구개발사업에 최종 선정돼 AI 기반 설계 자동화 기술 개발에 나선다고 6일 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대엔지니어링은 탄소저감모델연계 디지털엔지니어링 설계기술 개발사업의 세부과제 중 하나인 AI 기반 엔지니어링 설계정보 디지털 변환·추출 기술 개발에 착수한다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AI 기반 엔지니어링 설계정보 디지털 변환·추출 기술은 AI가 엔지니어링 설계도면 및 문서 등에서 필요한 정보를 자동 인식하고 추출해 주는 기술이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 통해 작업시간을 단축할 수 있으며 도면의 디지털화로 품질향상도 기대할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현대엔지니어링은 컨소시엄 형태로 사업에 참여한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주관사인 위세아이텍 외 한국과학기술원(KAIST), 고등기술연구원 연구조합, 고려대학교 산학협력단, 한국기술교육대학교 산학협력단과 함께 33개월간 AI 기반 설계 자동화 기술을 개발한다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현대엔지니어링 관계자는 데일리임팩트에 \\\"플랜트 건설사업의 기본설계와 설계·조달·시공 등 국내외 다양한 프로젝트 수행경험과 국내 최초로 AI 기반 플랜트 자동 설계 시스템 개발 이력을 바탕으로 이번 컨소시엄에서 기술 검토와 검증 역할을 맡게 됐다\\\"라며 \\\"앞으로도 산학연 기관과 다방면에서 산업발전을 위해 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 185
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[박대통령 러 순방]충청 기업 극동수출 청신호",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

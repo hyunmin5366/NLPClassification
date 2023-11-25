@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329523",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "피앤피시큐어, '디비세이퍼 OS' 출시...서버 보안 포트폴리오 완성",
+		"newsSubTitle": "",
+		"newsContent": "피앤피시큐어(대표 박천오)가 서버 운용체계(OS) 접근제어 솔루션 '디비세이퍼 OS'를 출시한다.\n피앤피시큐어는 '디비세이퍼 OS' 출시로 데이터베이스(DB), 시스템, 통합계정, OS 접근통제까지 서버에 필요한 보안 포트폴리오를 완성했다.\n박천오 피앤피시큐어 대표는 “회사 설립부터 단순하게 DB접근제어 하나만 바라본 것이 아니라 서버에 관한 토털 솔루션 구축을 목표로 했다”면서 “2003년 DB접근제어 솔루션 출시 후 17년 만에 시스템, 통합계정, OS 접근제어 솔루션까지 포트폴리오를 모두 완성했다”고 말했다.\n피앤피시큐어는 디피세이퍼 IM(통합계정관리)·DB(데이터베이스접근통제)·AM(시스템접근통제)·OS(OS접근통제) 까지 서버와 관련 제품을 꾸준히 개발해 왔다.\n암호화기반 등 개별 제품 개발에서 쌓은 노하우는 '디비세이퍼 OS'에 담았다.\n일반적인 서버 OS접근 통제 시스템은 방화벽 구간 내 프로그램 설치다.\n서버 간 통신에 대해 접속 통제 기능을 지원하지 않는다.\n시큐어 OS 사용도 찾아보기 힘들다.\n시스템 관리는 서버 별로 설정해야 해 관리자 부담이 크다.\n디비세이퍼 OS는 중앙관리서버에 설치하는 서버 에이전트다.\n호스트 방화벽, 파일 접근 통제정책을 배포·관리한다.\n통합관리솔루션으로 사용자 등록을 한 번에 관리 가능하며 인사 정보도 연동한다.\n수집된 로그를 활용해 사용자에 대한 불법 접근 행위를 추적한다.\n사용자 OS를 고려해 AIX, HP-UX, SunOS, 리눅스, 윈도 등 다양한 버전을 지원한다.\n시스템접근통제 솔루션 '디비세이퍼 AM'과 연동으로 파일 접근 이력에 대한 세션별 로그조회, 사용자 식별, 사용자 권한 부여도 가능하다.\n피앤피시큐어 올해 주요 목표 시장은 클라우드다.\n최근 많은 기업이 클라우드 서비스를 빠르게 도입하는 반면 보안·관리에 어려움을 겪는다.\n클라우드 서비스 제공기업은 데이터베이스 등 고객 자산관리는 서비스 이용자에 맡긴다.\n박 대표는 “OS보안 시장에서 개별 솔루션으로 경쟁에 나서는 것이 아닌 전체 보안제품을 연동해 통합제품으로 클라우드 시장을 공략한다”면서 “지금까지 선두를 따라가는 전략이 아닌 새로운 시장개척에 집중했던 것처럼 클라우드 영역에서도 존재감을 발휘하겠다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "피앤피시큐어(대표 박천오)가 서버 운용체계(OS) 접근제어 솔루션 '디비세이퍼 OS'를 출시한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "피앤피시큐어는 '디비세이퍼 OS' 출시로 데이터베이스(DB), 시스템, 통합계정, OS 접근통제까지 서버에 필요한 보안 포트폴리오를 완성했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박천오 피앤피시큐어 대표는 “회사 설립부터 단순하게 DB접근제어 하나만 바라본 것이 아니라 서버에 관한 토털 솔루션 구축을 목표로 했다”면서 “2003년 DB접근제어 솔루션 출시 후 17년 만에 시스템, 통합계정, OS 접근제어 솔루션까지 포트폴리오를 모두 완성했다”고 말했다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "피앤피시큐어는 디피세이퍼 IM(통합계정관리)·DB(데이터베이스접근통제)·AM(시스템접근통제)·OS(OS접근통제) 까지 서버와 관련 제품을 꾸준히 개발해 왔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "암호화기반 등 개별 제품 개발에서 쌓은 노하우는 '디비세이퍼 OS'에 담았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일반적인 서버 OS접근 통제 시스템은 방화벽 구간 내 프로그램 설치다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서버 간 통신에 대해 접속 통제 기능을 지원하지 않는다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "시큐어 OS 사용도 찾아보기 힘들다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "시스템 관리는 서버 별로 설정해야 해 관리자 부담이 크다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "디비세이퍼 OS는 중앙관리서버에 설치하는 서버 에이전트다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "호스트 방화벽, 파일 접근 통제정책을 배포·관리한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "통합관리솔루션으로 사용자 등록을 한 번에 관리 가능하며 인사 정보도 연동한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "수집된 로그를 활용해 사용자에 대한 불법 접근 행위를 추적한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "사용자 OS를 고려해 AIX, HP-UX, SunOS, 리눅스, 윈도 등 다양한 버전을 지원한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "시스템접근통제 솔루션 '디비세이퍼 AM'과 연동으로 파일 접근 이력에 대한 세션별 로그조회, 사용자 식별, 사용자 권한 부여도 가능하다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "피앤피시큐어 올해 주요 목표 시장은 클라우드다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "최근 많은 기업이 클라우드 서비스를 빠르게 도입하는 반면 보안·관리에 어려움을 겪는다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "클라우드 서비스 제공기업은 데이터베이스 등 고객 자산관리는 서비스 이용자에 맡긴다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "박 대표는 “OS보안 시장에서 개별 솔루션으로 경쟁에 나서는 것이 아닌 전체 보안제품을 연동해 통합제품으로 클라우드 시장을 공략한다”면서 “지금까지 선두를 따라가는 전략이 아닌 새로운 시장개척에 집중했던 것처럼 클라우드 영역에서도 존재감을 발휘하겠다”고 덧붙였다.",
+				"sentenceSize": 147
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "피앤피시큐어, '디비세이퍼 OS' 출시...서버 보안 포트폴리오 완성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

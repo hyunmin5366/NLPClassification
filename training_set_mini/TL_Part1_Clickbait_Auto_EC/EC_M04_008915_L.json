@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008915",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전저축銀 개별매각도 실패",
+		"newsSubTitle": "",
+		"newsContent": "영업정지 6개월이 넘은 대전상호저축은행의 매각이 또다시 수포로 돌아갔다.\n21일 예금보험공사에 따르면, 대전저축은행은 지난 12일 전주, 보해와 함께 패키지 매각에 실패한 후 개별 매각 작업에 나섰지만, 결국 또다시 무산됐다.\n7월 첫 패키지 매각 시도이래 3번째 실패다.\n2차 패키지 매각이 무산된 후 18일 개별 매각을 진행했지만, 하나금융지주와 KB금융지주사가 제시한 매각 조건이 예보의 매각 조건에 맞지 않아 최종 유찰됐다.\n예보 관계자는 “저축은행 세 곳 가운데 한 곳의 저축은행에는 아무도 입찰하지 않았고 나머지 두 곳 역시 매각 요건을 충족하지 못해 유찰됐다”고 말했다.\n이에 따라 예보는 대전과 전주, 보해저축은행에 대한 매각 작업을 중단하고 재매각 일정을 논의할 계획이다.\n하지만, 추후 매각 작업도 실패하면 청산 또는 파산 절차에 들어갈 방침이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영업정지 6개월이 넘은 대전상호저축은행의 매각이 또다시 수포로 돌아갔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 예금보험공사에 따르면, 대전저축은행은 지난 12일 전주, 보해와 함께 패키지 매각에 실패한 후 개별 매각 작업에 나섰지만, 결국 또다시 무산됐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "7월 첫 패키지 매각 시도이래 3번째 실패다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2차 패키지 매각이 무산된 후 18일 개별 매각을 진행했지만, 하나금융지주와 KB금융지주사가 제시한 매각 조건이 예보의 매각 조건에 맞지 않아 최종 유찰됐다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "예보 관계자는 “저축은행 세 곳 가운데 한 곳의 저축은행에는 아무도 입찰하지 않았고 나머지 두 곳 역시 매각 요건을 충족하지 못해 유찰됐다”고 말했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 따라 예보는 대전과 전주, 보해저축은행에 대한 매각 작업을 중단하고 재매각 일정을 논의할 계획이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만, 추후 매각 작업도 실패하면 청산 또는 파산 절차에 들어갈 방침이다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT＆G 상상마당 춘천, 개관 1주년 기념 행사 다채",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

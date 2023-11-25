@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325542",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "SK(주)C&C, 한국암웨이와 AI기반 로봇서비스 개발 계약",
+		"newsSubTitle": "",
+		"newsContent": "SK주식회사 C&C(사업대표 안정옥)는 한국암웨이(대표 김장환)와 왓슨 기반 인공지능(AI) 서비스 에이브릴(Aibril)을 적용한 '암웨이 로봇 서비스 개발 사업 계약'을 체결했다고 11일 밝혔다.\n에이브릴이 적용된 로봇은 내년 3월부터 암웨이 브랜드센터에서 암웨이 사업 파트너뿐 아니라 방문 고객과 대화하며 매장을 안내한다.\n주요 상품과 관련 프로모션 정보 소개 등 브랜드센터 방문 고객 편의를 제공한다.\n고객이 특정 상품 매대로 안내를 원할 경우 자율주행 기능을 이용해 안내한다.\nSK주식회사 C&C는 로봇 작동을 위한 운영 시스템을 구축한다.\n△고객 접견 서비스 △매장 및 상품 정보 제공 △매장 투어 서비스 등을 제공한다.\n로봇 제작은 국내 로봇 개발사 로보케어가 맡는다.\n도지헌 SK주식회사 C&C 전략사업본부장은 “암웨이에 제공한 AI 로봇을 시작으로 국내 컨시어지로봇 시대를 적극 열겠다”면서 “유통은 물론 산업 곳곳에 에이브릴 기반 로봇 서비스를 지속 창출해 국내 AI 로봇 산업 생태계 조성에 앞장서겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK주식회사 C&C(사업대표 안정옥)는 한국암웨이(대표 김장환)와 왓슨 기반 인공지능(AI) 서비스 에이브릴(Aibril)을 적용한 '암웨이 로봇 서비스 개발 사업 계약'을 체결했다고 11일 밝혔다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "에이브릴이 적용된 로봇은 내년 3월부터 암웨이 브랜드센터에서 암웨이 사업 파트너뿐 아니라 방문 고객과 대화하며 매장을 안내한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주요 상품과 관련 프로모션 정보 소개 등 브랜드센터 방문 고객 편의를 제공한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고객이 특정 상품 매대로 안내를 원할 경우 자율주행 기능을 이용해 안내한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SK주식회사 C&C는 로봇 작동을 위한 운영 시스템을 구축한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "△고객 접견 서비스 △매장 및 상품 정보 제공 △매장 투어 서비스 등을 제공한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "로봇 제작은 국내 로봇 개발사 로보케어가 맡는다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "도지헌 SK주식회사 C&C 전략사업본부장은 “암웨이에 제공한 AI 로봇을 시작으로 국내 컨시어지로봇 시대를 적극 열겠다”면서 “유통은 물론 산업 곳곳에 에이브릴 기반 로봇 서비스를 지속 창출해 국내 AI 로봇 산업 생태계 조성에 앞장서겠다”고 말했다.",
+				"sentenceSize": 140
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK(주)C&C, 한국암웨이와 AI기반 로봇서비스 개발 계약",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

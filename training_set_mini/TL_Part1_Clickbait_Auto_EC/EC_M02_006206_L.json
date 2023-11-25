@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006206",
+		"newsCategory": "경제",
+		"newsSubcategory": "증권",
+		"newsTitle": "한투증권, 해외주식형 주가연계증권 2종 공모",
+		"newsSubTitle": "테슬라, 엔비디아 등 기초 자산 50억원 한도",
+		"newsContent": "한국투자증권은 뱅키스 전용 해외주식형 주가연계증권(ELS) 3년 만기상품 2종을 각각 50억원 한도로 공모한다고 8일 밝혔다. 'TRUE ELS 15267회'는 테슬라를 기초자산으로 한다.\n기초자산의 주가를 4개월마다 관측해 최초 기준가격의 75%(4, 8, 12, 16, 20, 24, 28개월), 70%(32개월), 60%(만기) 이상일 경우 연 21.6%의 수익을 지급하고 조기상환된다. 'TRUE ELS 15268회'는 테슬라와 엔비디아가 기초자산이다.\n조기상환 여부는 6개월마다 판단한다.\n기초자산의 주가가 최초 기준가격의 80%(6, 12, 18개월), 75%(24개월), 70%(30개월), 60%(만기) 이상이면 연 28.8%의 수익과 함께 원금을 돌려받는다.\n조기상환 조건을 달성하지 못한 경우에도 투자기간 중 두 상품의 원금손실 기준선인 40% 미만으로 하락한 기초자산이 없으면 만기시 정해진 수익률을 지급한다. 40% 미만으로 하락했더라도 기초자산 가격이 만기 상환조건 이상일 경우 약정된 수익률을 지급하지만, 미만일 경우 원금손실이 발생한다.\n한국투자증권 관계자는 데일리임팩트에 \\\"일반 개인투자자 청약 기간은 7월 8일부터 11일까지다\\\"라고 전했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국투자증권은 뱅키스 전용 해외주식형 주가연계증권(ELS) 3년 만기상품 2종을 각각 50억원 한도로 공모한다고 8일 밝혔다. 'TRUE ELS 15267회'는 테슬라를 기초자산으로 한다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기초자산의 주가를 4개월마다 관측해 최초 기준가격의 75%(4, 8, 12, 16, 20, 24, 28개월), 70%(32개월), 60%(만기) 이상일 경우 연 21.6%의 수익을 지급하고 조기상환된다. 'TRUE ELS 15268회'는 테슬라와 엔비디아가 기초자산이다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "조기상환 여부는 6개월마다 판단한다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기초자산의 주가가 최초 기준가격의 80%(6, 12, 18개월), 75%(24개월), 70%(30개월), 60%(만기) 이상이면 연 28.8%의 수익과 함께 원금을 돌려받는다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조기상환 조건을 달성하지 못한 경우에도 투자기간 중 두 상품의 원금손실 기준선인 40% 미만으로 하락한 기초자산이 없으면 만기시 정해진 수익률을 지급한다. 40% 미만으로 하락했더라도 기초자산 가격이 만기 상환조건 이상일 경우 약정된 수익률을 지급하지만, 미만일 경우 원금손실이 발생한다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국투자증권 관계자는 데일리임팩트에 \\\"일반 개인투자자 청약 기간은 7월 8일부터 11일까지다\\\"라고 전했다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성카드 새 브랜드 유튜브 영상 2주 만에 100만뷰 돌파",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

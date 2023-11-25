@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329892",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "KT, 140억원 대구 도시철도 1호선 LTE-R 사업자 선정",
+		"newsSubTitle": "",
+		"newsContent": "KT가 대구 도시철도 1호선 철도통합무선망(LTE-R) 구축 사업자로 선정됐다.\nKT는 이동통신 3사가 경쟁한 대구 도시철도 1호선 안심~하양 복선 전철 구간 LTE-R 입찰에서 사업자로 최종 확정됐다.\n총 사업비 약 145억원 규모로 대구 도시철도 1호선 안심~하양 복선 간 8.89㎞ 구간이 대상이다.\nKT는 대구도시철도공사 관제센터에 중앙제어센터설비를 신규 설치할 계획이다.\n설비는 도시철도 1호선의 LTE-R 망 관련 장치를 제어 및 관리한다.\n안심~하양 복선전철 구간에는 기지국 장치인 DU(Digital Unit) 2식, RRU(Remote Radio Unit) 21식을 구축한다.\nKT는 이달 계약을 체결하고 상세 설계 작업에 돌입할 예정이다.\nKT관계자는 “2023년 상반기까지 설치를 완료하고 연동시험 및 시운전을 거쳐 2024년 상반기 준공을 완료할 계획”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 대구 도시철도 1호선 철도통합무선망(LTE-R) 구축 사업자로 선정됐다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT는 이동통신 3사가 경쟁한 대구 도시철도 1호선 안심~하양 복선 전철 구간 LTE-R 입찰에서 사업자로 최종 확정됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "총 사업비 약 145억원 규모로 대구 도시철도 1호선 안심~하양 복선 간 8.89㎞ 구간이 대상이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KT는 대구도시철도공사 관제센터에 중앙제어센터설비를 신규 설치할 계획이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "설비는 도시철도 1호선의 LTE-R 망 관련 장치를 제어 및 관리한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안심~하양 복선전철 구간에는 기지국 장치인 DU(Digital Unit) 2식, RRU(Remote Radio Unit) 21식을 구축한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KT는 이달 계약을 체결하고 상세 설계 작업에 돌입할 예정이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "KT관계자는 “2023년 상반기까지 설치를 완료하고 연동시험 및 시운전을 거쳐 2024년 상반기 준공을 완료할 계획”이라고 말했다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 140억원 대구 도시철도 1호선 LTE-R 사업자 선정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351248",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "그동안 숨겨왔던 애플? 직장 내 괴롭힘 '미투운동' 번진다",
+		"newsSubTitle": "null",
+		"newsContent": "애플에서 직장 내 괴롭힘을 고발하는 미투운동이 벌어질 전망이다.\n24일 미국 IT전문매체 더버지 등에 따르면 애플 전현직 직원 15명은 직장 내 괴롭힘과 차별사례를 모으기 위해 애플투(#AppleToo) 홈페이지와 트위터 계정을 개설했다.\n이들은 애플과 계약업체 직원 200명이 모인 디스코드 서버에 이같은 소식을 알렸고, 8명의 직원이 홈페이지에 사연을 공유했다.\n이들은 \\\"애플은 너무 오랫동안 대중의 감시를 피해왔다\\\"라며 \\\"업무 현장에서 불의에 대한 책임과 해결을 요구할 때 우리는 고립과 비하, 가스라이팅에 직면하게 된다\\\"고 비판했다.\n이어 \\\"우리는 리더십과 피플팀에 찾아가 이야기했지만 아무것도 달라지지 않았다\\\"라며 \\\"이제는 다르게 생각해야 할 때\\\"라고 강조했다.\n지난해 구글에서 해고당한 팀닛 게부르 박사는 이들 단체를 지지한다고 밝혔다.\n구글 AI윤리팀을 이끌던 게브루 박사는 구글의 검색 AI(인공지능) 기술 편향성을 우려하는 논문을 발표했다가 해고됐다고 주장한 바 있다.\n구글에 입사하기 전 애플에서 근무한 그는 \\\"애플에 있을 때 너무나 많은 터무니없는 경험을 했다\\\"라며 \\\"애플에 책임을 물을 때가 지났다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플에서 직장 내 괴롭힘을 고발하는 미투운동이 벌어질 전망이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 미국 IT전문매체 더버지 등에 따르면 애플 전현직 직원 15명은 직장 내 괴롭힘과 차별사례를 모으기 위해 애플투(#AppleToo) 홈페이지와 트위터 계정을 개설했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들은 애플과 계약업체 직원 200명이 모인 디스코드 서버에 이같은 소식을 알렸고, 8명의 직원이 홈페이지에 사연을 공유했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들은 \\\"애플은 너무 오랫동안 대중의 감시를 피해왔다\\\"라며 \\\"업무 현장에서 불의에 대한 책임과 해결을 요구할 때 우리는 고립과 비하, 가스라이팅에 직면하게 된다\\\"고 비판했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 \\\"우리는 리더십과 피플팀에 찾아가 이야기했지만 아무것도 달라지지 않았다\\\"라며 \\\"이제는 다르게 생각해야 할 때\\\"라고 강조했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 구글에서 해고당한 팀닛 게부르 박사는 이들 단체를 지지한다고 밝혔다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "구글 AI윤리팀을 이끌던 게브루 박사는 구글의 검색 AI(인공지능) 기술 편향성을 우려하는 논문을 발표했다가 해고됐다고 주장한 바 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "구글에 입사하기 전 애플에서 근무한 그는 \\\"애플에 있을 때 너무나 많은 터무니없는 경험을 했다\\\"라며 \\\"애플에 책임을 물을 때가 지났다\\\"고 말했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "그동안 숨겨왔던 애플? 직장 내 괴롭힘 '미투운동' 번진다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

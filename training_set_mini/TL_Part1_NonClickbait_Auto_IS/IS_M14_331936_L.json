@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331936",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전력",
+		"newsTitle": "한수원 3분기 영업손실 351억원… 원전이용률↓",
+		"newsSubTitle": "",
+		"newsContent": "한국수력원자력은 올해 3분기 연결 기준 351억원 영업적자를 기록했다고 14일 공시했다.\n한수원은 지난해 3분기 5330억원 영업이익을 냈지만 올 3분기에는 적자로 돌아섰다.\n매출은 2조292억원으로 전년 동기(2조4198억원) 대비 16.1% 감소했다.\n당기순손실은 1170억원이다.\n한수원은 3분기 적자 이유에 대해 “전력 판매 단가가 지난해보다 하락했다”면서 “원전이용률 감소, 원전 정비 비용 증가, 영업외 비용 증가 등도 영향을 미쳤다”고 밝혔다.\n3분기 원전 이용률은 65.2%로 지난해 3분기 73.2%보다 11%포인트(p) 하락했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국수력원자력은 올해 3분기 연결 기준 351억원 영업적자를 기록했다고 14일 공시했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한수원은 지난해 3분기 5330억원 영업이익을 냈지만 올 3분기에는 적자로 돌아섰다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매출은 2조292억원으로 전년 동기(2조4198억원) 대비 16.1% 감소했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당기순손실은 1170억원이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한수원은 3분기 적자 이유에 대해 “전력 판매 단가가 지난해보다 하락했다”면서 “원전이용률 감소, 원전 정비 비용 증가, 영업외 비용 증가 등도 영향을 미쳤다”고 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "3분기 원전 이용률은 65.2%로 지난해 3분기 73.2%보다 11%포인트(p) 하락했다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한수원 3분기 영업손실 351억원… 원전이용률↓",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

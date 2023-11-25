@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354788",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "KISA, 하이브 랜섬웨어 'V.1~4' 통합 복구도구 배포",
+		"newsSubTitle": "null",
+		"newsContent": "한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 '하이브(Hive) 랜섬웨어'를 복구할 수 있는 도구를 배포한다고 28일 밝혔다.\n하이브 랜섬웨어는 해커가 윈도의 원격 데스크톱 프로토콜(RDP) 취약점을 이용, 시스템에 침투해 파일 확장자를 '.hive'로 바꾸는 랜섬웨어다.\n버전1부터 버전4까지 다양하다.\n이번에 배포된 도구는 해커가 감염시킨 랜섬웨어의 버전을 자동 식별한다.\n기존에는 피해자가 암호화된 파일 확장자와 용량을 보고 랜섬웨어 버전을 확인해 버전에 맞는 도구를 사용해야 했다.\n하이브 랜섬웨어의 '통합 복구 도구' 개발·배포는 전 세계적으로 첫 사례다.\n이번 도구는 감염된 파일과 원본 파일의 개수가 많고, 파일 크기가 클수록 복구 가능성이 높다.\n사용하려면 '암호이용활성화 누리집'에서 사용 매뉴얼과 함께 다운받으면 된다.\n이성재 KISA 융합보안단장은 \\\"전세계적으로 랜섬웨어 공격에 의한 피해가 증가하고 있다\\\"며 \\\"신속하게 랜섬웨어 복구도구를 개발 및 배포해 피해를 줄이기 위해 최선을 다하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국인터넷진흥원(KISA)은 과학기술정보통신부와 함께 '하이브(Hive) 랜섬웨어'를 복구할 수 있는 도구를 배포한다고 28일 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하이브 랜섬웨어는 해커가 윈도의 원격 데스크톱 프로토콜(RDP) 취약점을 이용, 시스템에 침투해 파일 확장자를 '.hive'로 바꾸는 랜섬웨어다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "버전1부터 버전4까지 다양하다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번에 배포된 도구는 해커가 감염시킨 랜섬웨어의 버전을 자동 식별한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기존에는 피해자가 암호화된 파일 확장자와 용량을 보고 랜섬웨어 버전을 확인해 버전에 맞는 도구를 사용해야 했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하이브 랜섬웨어의 '통합 복구 도구' 개발·배포는 전 세계적으로 첫 사례다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 도구는 감염된 파일과 원본 파일의 개수가 많고, 파일 크기가 클수록 복구 가능성이 높다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사용하려면 '암호이용활성화 누리집'에서 사용 매뉴얼과 함께 다운받으면 된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이성재 KISA 융합보안단장은 \\\"전세계적으로 랜섬웨어 공격에 의한 피해가 증가하고 있다\\\"며 \\\"신속하게 랜섬웨어 복구도구를 개발 및 배포해 피해를 줄이기 위해 최선을 다하겠다\\\"고 말했다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KISA, 하이브 랜섬웨어 'V.1~4' 통합 복구도구 배포",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

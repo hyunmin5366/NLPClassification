@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006071",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "하나은행, 세무특공대에 '간편 급여이체 서비스' 지원",
+		"newsSubTitle": "벤처 생태계 활성화 및 생산적 금융 지원",
+		"newsContent": "하나은행은 인공지능 경영관리 솔루션 플랫폼 '세무특공대'를 운영하는 ㈜아이비즈온과 '개인·법인 사업자 편의 제고를 위한 금융솔루션 개발 추진 협약'을 체결했다고 23일 밝혔다.\n이번 업무 협약을 통해 하나은행이 자체 개발한 API 연계 '간편 급여이체 서비스'를 세무특공대 플랫폼에서 이용할 수 있게 됐다.\n하나은행의 '간편 급여이체 서비스'는 계좌와 금액을 수기로 입력하고 확인하는 급여이체 업무를 몇 차례의 클릭만으로 손쉽게 등록할 수 있게 해주는 서비스다.\n소기업, 소상공인들의 업무 부담을 줄여 주는 장점이 있다.\n하나은행 관계자는 데일리임팩트에 \\\"향후 해당 서비스를 중심으로 B2B솔루션 스타트업과 연계를 활성화하는 등 미래 지향적 서비스를 기획하고 있다\\\"라고 설명했다.\n한편, 하나은행은 향후 더욱 편리한 금융서비스 제공을 위해 B2B솔루션 업체를 지속적으로 발굴하겠다는 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하나은행은 인공지능 경영관리 솔루션 플랫폼 '세무특공대'를 운영하는 ㈜아이비즈온과 '개인·법인 사업자 편의 제고를 위한 금융솔루션 개발 추진 협약'을 체결했다고 23일 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 업무 협약을 통해 하나은행이 자체 개발한 API 연계 '간편 급여이체 서비스'를 세무특공대 플랫폼에서 이용할 수 있게 됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하나은행의 '간편 급여이체 서비스'는 계좌와 금액을 수기로 입력하고 확인하는 급여이체 업무를 몇 차례의 클릭만으로 손쉽게 등록할 수 있게 해주는 서비스다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소기업, 소상공인들의 업무 부담을 줄여 주는 장점이 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하나은행 관계자는 데일리임팩트에 \\\"향후 해당 서비스를 중심으로 B2B솔루션 스타트업과 연계를 활성화하는 등 미래 지향적 서비스를 기획하고 있다\\\"라고 설명했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 하나은행은 향후 더욱 편리한 금융서비스 제공을 위해 B2B솔루션 업체를 지속적으로 발굴하겠다는 계획이다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "출연연 기관장 하반기 대거교체",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

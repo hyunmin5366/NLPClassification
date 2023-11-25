@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002645",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "우리은행, 은행권 최초 'AI활용 개인화 마케팅' 나선다",
+		"newsSubTitle": "고객행동정보 분석해 맞춤형 상품 제공 통합 마케팅 체계 구축해 활용할 예정",
+		"newsContent": "우리은행이 은행권 최초로 인공지능(AI)를 활용한 개인화 마케팅에 나선다.\n이를 통해 고객별 맞춤형 상품 추천 기능을 강화한다는 계획이다.\n우리은행은 고객행동정보를 인공지능으로 분석해 고객별 맞춤형 상품을 추천하는 '빅데이터를 활용한 고객행동 기반 개인화 마케팅'을 실시한다고 7일 밝혔다.\n이를 통해 우리은행은 기존에 활용했던 고객 인적정보와 거래정보 등 정형데이터와 상담내역(음성) 입출금내역(텍스트) 인터넷·스마트뱅킹 이용내역(로그) 등 모든 채널의 비정형 고객행동정보를 인공지능으로 분석, 개인별 최적화된 맞춤형 상품을 추천한다.\n고객은 영업점 또는 스마트폰을 통해 평소에 관심을 갖고 있던 금융 상품을 추천받을 수 있다.\n특히 각종 정형·비정형 데이터를 결합한 고객행동정보 통합 데이터베이스를 활용해, 고객별 최적의 상품을 추천하는 인공지능 마케팅 모델도 개발했다.\n우리은행 관계자는 미디어SR에 \\\"인공지능 모델을 마케팅 시스템과 연계해 통합 마케팅 체계를 구축, 모든 채널에 반영해 활용할 예정\\\"이라고 말했다.\n한편 우리은행은 앞으로도 빅데이터를 활용한 고객행동 기반 개인화 마케팅을 통해 고객 맞춤형 서비스를 제공해 나갈 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리은행이 은행권 최초로 인공지능(AI)를 활용한 개인화 마케팅에 나선다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이를 통해 고객별 맞춤형 상품 추천 기능을 강화한다는 계획이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우리은행은 고객행동정보를 인공지능으로 분석해 고객별 맞춤형 상품을 추천하는 '빅데이터를 활용한 고객행동 기반 개인화 마케팅'을 실시한다고 7일 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 통해 우리은행은 기존에 활용했던 고객 인적정보와 거래정보 등 정형데이터와 상담내역(음성) 입출금내역(텍스트) 인터넷·스마트뱅킹 이용내역(로그) 등 모든 채널의 비정형 고객행동정보를 인공지능으로 분석, 개인별 최적화된 맞춤형 상품을 추천한다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고객은 영업점 또는 스마트폰을 통해 평소에 관심을 갖고 있던 금융 상품을 추천받을 수 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 각종 정형·비정형 데이터를 결합한 고객행동정보 통합 데이터베이스를 활용해, 고객별 최적의 상품을 추천하는 인공지능 마케팅 모델도 개발했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "우리은행 관계자는 미디어SR에 \\\"인공지능 모델을 마케팅 시스템과 연계해 통합 마케팅 체계를 구축, 모든 채널에 반영해 활용할 예정\\\"이라고 말했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 우리은행은 앞으로도 빅데이터를 활용한 고객행동 기반 개인화 마케팅을 통해 고객 맞춤형 서비스를 제공해 나갈 예정이다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전, 구색맞추기 급급… 현행과 차이없어 '시는 기업 편?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

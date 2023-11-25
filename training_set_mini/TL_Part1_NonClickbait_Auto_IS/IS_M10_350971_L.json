@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350971",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "\\\"18~49세 백신예약 먹통없다\\\"…판교 찾아간 임혜숙 장관",
+		"newsSubTitle": "null",
+		"newsContent": "임혜숙 과학기술정보통신부 장관이 오는 9일 시작되는 40대 이하 코로나19 백신 사전예약을 앞두고 시스템 개선 작업을 진행 중인 현장을 찾아 철저한 준비를 당부했다.\n임 장관은 1일 경기도 판교 기업지원허브에서 백신예약시스템 보안 인증 및 보안부분 개선 지원현황을 점검하고 시스템 개선을 지원중인 기업, 기관 관계자들을 격려했다.\n임 장관은 \\\"오는 9일부터 40대 이하의 백신 예약이 본격적으로 진행되는 만큼 국민들의 백신 예약에 불편함이 없도록 철저한 사전 준비와 함께 백신예약시스템 개선에 최선을 다해 주시길 바란다\\\"고 말했다.\n백신 사전예약시스템은 50세 이상 접수가 시작된 지난달 23일 전후로 접속이 안 되는 먹통 현상이 잇따라 발생했다.\n정부는 시스템 개선을 위해 네이버, 카카오, LG CNS 등 민간업체와 협력 체계를 구축하고 시스템 안정화 작업을 진행하고 있다.\n40세 이하 백신 접종은 우선접종 대상자 200만명을 포함 약 1777만명이 대상이다.\n예약 시스템 접속량 분산을 위해 생일 날짜를 기준으로 10부제 형태로 예약을 시작한다.\n오는 9일에는 생일 끝자리가 9인 사람이 예약 대상이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "임혜숙 과학기술정보통신부 장관이 오는 9일 시작되는 40대 이하 코로나19 백신 사전예약을 앞두고 시스템 개선 작업을 진행 중인 현장을 찾아 철저한 준비를 당부했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "임 장관은 1일 경기도 판교 기업지원허브에서 백신예약시스템 보안 인증 및 보안부분 개선 지원현황을 점검하고 시스템 개선을 지원중인 기업, 기관 관계자들을 격려했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임 장관은 \\\"오는 9일부터 40대 이하의 백신 예약이 본격적으로 진행되는 만큼 국민들의 백신 예약에 불편함이 없도록 철저한 사전 준비와 함께 백신예약시스템 개선에 최선을 다해 주시길 바란다\\\"고 말했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "백신 사전예약시스템은 50세 이상 접수가 시작된 지난달 23일 전후로 접속이 안 되는 먹통 현상이 잇따라 발생했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정부는 시스템 개선을 위해 네이버, 카카오, LG CNS 등 민간업체와 협력 체계를 구축하고 시스템 안정화 작업을 진행하고 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "40세 이하 백신 접종은 우선접종 대상자 200만명을 포함 약 1777만명이 대상이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "예약 시스템 접속량 분산을 위해 생일 날짜를 기준으로 10부제 형태로 예약을 시작한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오는 9일에는 생일 끝자리가 9인 사람이 예약 대상이다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"18~49세 백신예약 먹통없다\\\"…판교 찾아간 임혜숙 장관",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

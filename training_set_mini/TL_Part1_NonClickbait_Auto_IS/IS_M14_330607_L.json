@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330607",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]美 통신사, 와이파이 핫스팟 공개·초고속인터넷 데이터 한도 일시 폐지",
+		"newsSubTitle": "",
+		"newsContent": "미국 주요 방송통신사업자가 와이파이 핫스팟을 공개하고, 초고속인터넷 데이터 한도를 일시적으로 폐지한다.\n미국 케이블TV 차터커뮤니케이션즈는 초고속인터넷 서비스를 이용하지 못하는 학생이 있는 가정에 무료 와이파이 액세스를 설치하고 비용은 면제할 계획이다.\n스프린트는 국제 장거리 요금제를 사용하는 고객을 대상으로 코로나19 발생 국가 국제 전화 요금을 무료화한다.\n컴캐스트는 저소득층 고객 초고속인터넷 속도를 높였다.\nAT&T는 초고속인터넷 데이터 사용 제한 상품 가입자를 대상으로 한도를 폐지했다.\n미국 연방통신위원회(FCC)에 따르면 컴캐스트, AT&T, 버라이즌 등 방송통신 사업자가 코로나19로 요금을 지불할 수 없는 고객에게 향후 60일간 서비스를 중단하지 않기로 합의했다.\n아지트 파이 FCC 위원장은 “코로나19 관련 경제적 상황으로 주택 또는 소규모 기업 고객 대상 연체 수수료도 면제하기로 합의했다”고 밝혔다.\n이어 “미국 경제, 교육, 의료, 시민생활이 코로나19로 혼란을 빚을 것”이라며 “초고속인터넷이 미국 시민이 지인·의사 등과 소통, 원격근무, 원격학습에 참여할 수 있는 기반이 될 것”이라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 주요 방송통신사업자가 와이파이 핫스팟을 공개하고, 초고속인터넷 데이터 한도를 일시적으로 폐지한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 케이블TV 차터커뮤니케이션즈는 초고속인터넷 서비스를 이용하지 못하는 학생이 있는 가정에 무료 와이파이 액세스를 설치하고 비용은 면제할 계획이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스프린트는 국제 장거리 요금제를 사용하는 고객을 대상으로 코로나19 발생 국가 국제 전화 요금을 무료화한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "컴캐스트는 저소득층 고객 초고속인터넷 속도를 높였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "AT&T는 초고속인터넷 데이터 사용 제한 상품 가입자를 대상으로 한도를 폐지했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미국 연방통신위원회(FCC)에 따르면 컴캐스트, AT&T, 버라이즌 등 방송통신 사업자가 코로나19로 요금을 지불할 수 없는 고객에게 향후 60일간 서비스를 중단하지 않기로 합의했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아지트 파이 FCC 위원장은 “코로나19 관련 경제적 상황으로 주택 또는 소규모 기업 고객 대상 연체 수수료도 면제하기로 합의했다”고 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 “미국 경제, 교육, 의료, 시민생활이 코로나19로 혼란을 빚을 것”이라며 “초고속인터넷이 미국 시민이 지인·의사 등과 소통, 원격근무, 원격학습에 참여할 수 있는 기반이 될 것”이라고 덧붙였다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]美 통신사, 와이파이 핫스팟 공개·초고속인터넷 데이터 한도 일시 폐지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

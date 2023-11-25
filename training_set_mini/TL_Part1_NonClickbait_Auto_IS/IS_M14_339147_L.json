@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339147",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "과천과학관, 16일 노벨상 시상식 토크한마당",
+		"newsSubTitle": "",
+		"newsContent": "국립과천과학관(관장 직무대리 최호권)은 오는 16일 '2017 노벨상 시상식 토크한마당'을 개최한다.\n올해 노벨상 시상식 녹화 영상을 자막과 함께 상영하고 전문가와 참가자가 질의응답을 주고받는다.\n노벨과학상 수상 분야 별 과학 전문가와 시상식 참석 경험자가 전문 패널로 참여한다.\n수상자 연구 업적과 시상식에 대해 설명한다.\n이형목 서울대 물리천문학부 교수, 최희정 서울대 생명과학부 교수, 김은영 아주대 뇌과학과 교수가 나선다.\n최호권 전시연구단장은 “과학 연구 업적의 가치와 위대한 연구 자세를 생각해볼 수 있는 특별한 시간”이라고 소개했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국립과천과학관(관장 직무대리 최호권)은 오는 16일 '2017 노벨상 시상식 토크한마당'을 개최한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올해 노벨상 시상식 녹화 영상을 자막과 함께 상영하고 전문가와 참가자가 질의응답을 주고받는다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "노벨과학상 수상 분야 별 과학 전문가와 시상식 참석 경험자가 전문 패널로 참여한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수상자 연구 업적과 시상식에 대해 설명한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이형목 서울대 물리천문학부 교수, 최희정 서울대 생명과학부 교수, 김은영 아주대 뇌과학과 교수가 나선다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최호권 전시연구단장은 “과학 연구 업적의 가치와 위대한 연구 자세를 생각해볼 수 있는 특별한 시간”이라고 소개했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "과천과학관, 16일 노벨상 시상식 토크한마당",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

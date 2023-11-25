@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015737",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "카이스트 산업체연구비 세계 3위…1위는 어디?",
+		"newsSubTitle": "교수1인당 25만4700달러…1위는 獨 막시밀리안 대학",
+		"newsContent": "KAIST가 산업체로부터 받는 연구비가 세계에서 세번째로 높은 것으로 나타났다.\n영국 고등교육평가기관 THE가 조사한 '산업체 연구비 세계대학순위 20개'에 따르면 KAIST가 교수 한 명 당 산업체와 민간부문으로 부터 받은 연구비가 세계에서 3위로 집계됐다.\n독일의 루트비히 막시밀리안 대학(LMU Munich)은 2013년 교수 당 39만달러에 해당되는 연구비를 민간부문에서 지원 받아 전체 1위를 차지했다.\n미국의 듀크 대학은 29만달러로 2위를, KAIST는 25만4700달러로 3위를 차지했다.\n상위 20개 대학 중 유럽 대학이 9개, 아시아 대학이 7개, 북미 대학이 2개로 나타났다.\n이 세계대학순위는 THE의 2015~2016년 세계대학평가 순위를 활용했으며, 세계대학평가 가운데 5개 이상의 대학을 가진 나라와 각 나라별 상위 5개 대학의 연구비만 검토했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KAIST가 산업체로부터 받는 연구비가 세계에서 세번째로 높은 것으로 나타났다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영국 고등교육평가기관 THE가 조사한 '산업체 연구비 세계대학순위 20개'에 따르면 KAIST가 교수 한 명 당 산업체와 민간부문으로 부터 받은 연구비가 세계에서 3위로 집계됐다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "독일의 루트비히 막시밀리안 대학(LMU Munich)은 2013년 교수 당 39만달러에 해당되는 연구비를 민간부문에서 지원 받아 전체 1위를 차지했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미국의 듀크 대학은 29만달러로 2위를, KAIST는 25만4700달러로 3위를 차지했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "상위 20개 대학 중 유럽 대학이 9개, 아시아 대학이 7개, 북미 대학이 2개로 나타났다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 세계대학순위는 THE의 2015~2016년 세계대학평가 순위를 활용했으며, 세계대학평가 가운데 5개 이상의 대학을 가진 나라와 각 나라별 상위 5개 대학의 연구비만 검토했다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "역대 다섯 번째 규모 지진…엇갈리는 전문가 견해？",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

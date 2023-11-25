@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354690",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"도하 엑스포 초대합니다\\\" 이 문서, 절대 누르지 마세요",
+		"newsSubTitle": "null",
+		"newsContent": "최근 '2023 도하 엑스포 VIP 초대장'으로 위장한 악성코드가 배포돼 사용자 주의가 당부된다.\n21일 안랩은 워드 문서파일(.docx)로 위장한 이 같은 악성코드가 발견됐다고 밝혔다.\n이 문서를 실행하면 '2023 도하 엑스포'의 VIP 초대장 본문이 보인다.\n동시에 특정 URL에 자동 접속, 악성코드를 다운로드해 설치한다.\n감염 후엔 공격자가 PC 내 정보를 탈취하는 등 추가 공격을 시도할 수 있다.\n안랩에 따르면 공격자는 MS오피스 보안취약점을 악용했다.\n현재 해당 취약점에 대한 보안패치는 마이크로소프트 보안대응센터 웹사이트에서 다운로드할 수 있다.\n안랩은 피해 예방을 위해 △오피스SW, OS(운영체제) 및 인터넷 브라우저(엣지, 크롬, 파이어폭스) 등의 최신 보안패치 적용 △출처가 불분명한 파일 다운로드 금지 △백신 최신버전 유지 및 실시간 감시기능 실행 등을 준수해야 한다고 권고했다.\n박종윤 안랩 분석팀 선임연구원은 \\\"대형 이벤트를 사칭해 사용자 관심을 끌어 악성코드를 유포하는 시도는 꾸준히 발견되고 있다\\\"며 \\\"기본 보안수칙을 준수하는 것이 최선의 예방법\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 '2023 도하 엑스포 VIP 초대장'으로 위장한 악성코드가 배포돼 사용자 주의가 당부된다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 안랩은 워드 문서파일(.docx)로 위장한 이 같은 악성코드가 발견됐다고 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 문서를 실행하면 '2023 도하 엑스포'의 VIP 초대장 본문이 보인다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "동시에 특정 URL에 자동 접속, 악성코드를 다운로드해 설치한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "감염 후엔 공격자가 PC 내 정보를 탈취하는 등 추가 공격을 시도할 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안랩에 따르면 공격자는 MS오피스 보안취약점을 악용했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 해당 취약점에 대한 보안패치는 마이크로소프트 보안대응센터 웹사이트에서 다운로드할 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "안랩은 피해 예방을 위해 △오피스SW, OS(운영체제) 및 인터넷 브라우저(엣지, 크롬, 파이어폭스) 등의 최신 보안패치 적용 △출처가 불분명한 파일 다운로드 금지 △백신 최신버전 유지 및 실시간 감시기능 실행 등을 준수해야 한다고 권고했다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "박종윤 안랩 분석팀 선임연구원은 \\\"대형 이벤트를 사칭해 사용자 관심을 끌어 악성코드를 유포하는 시도는 꾸준히 발견되고 있다\\\"며 \\\"기본 보안수칙을 준수하는 것이 최선의 예방법\\\"이라고 말했다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"도하 엑스포 초대합니다\\\" 이 문서, 절대 누르지 마세요",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

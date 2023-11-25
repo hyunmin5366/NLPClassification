@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326444",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[2019 해외 10대 뉴스]<1>디즈니·애플, OTT 시장 진출",
+		"newsSubTitle": "",
+		"newsContent": "넷플릭스가 장악한 온라인동영상서비스(OTT) 시장에 글로벌 공룡 기업 디즈니와 애플이 뛰어들었다.\n11월 디즈니는 '디즈니 플러스'를, 애플은 '애플tv 플러스'를 출시했다.\n디즈니는 세계 최대 콘텐츠 기업으로 마블·픽사 등 폭넓은 지식재산권(IP)을 앞세웠다.\n넷플릭스 등 기존 파트너를 상대로 콘텐츠 공급도 단계적으로 중단하며 압박 중이다.\n애플은 신사업으로 OTT를 낙점했다.\n오리지널 콘텐츠 라이브러리 확보를 위해 60억달러를 투자했다.\n누적 판매량 20억대에 이르는 iOS 기기가 OTT 서비스 기반이다.\n국내 출시 계획은 확정되지 않았지만 디즈니와 애플은 OTT 서비스 국가를 확대하고 있다.\n소비자 기대는 크지만 상대적으로 자본력 열위에 있는 국내 콘텐츠 기업의 긴장감은 고조되고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "넷플릭스가 장악한 온라인동영상서비스(OTT) 시장에 글로벌 공룡 기업 디즈니와 애플이 뛰어들었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11월 디즈니는 '디즈니 플러스'를, 애플은 '애플tv 플러스'를 출시했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "디즈니는 세계 최대 콘텐츠 기업으로 마블·픽사 등 폭넓은 지식재산권(IP)을 앞세웠다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "넷플릭스 등 기존 파트너를 상대로 콘텐츠 공급도 단계적으로 중단하며 압박 중이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플은 신사업으로 OTT를 낙점했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오리지널 콘텐츠 라이브러리 확보를 위해 60억달러를 투자했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "누적 판매량 20억대에 이르는 iOS 기기가 OTT 서비스 기반이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국내 출시 계획은 확정되지 않았지만 디즈니와 애플은 OTT 서비스 국가를 확대하고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "소비자 기대는 크지만 상대적으로 자본력 열위에 있는 국내 콘텐츠 기업의 긴장감은 고조되고 있다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2019 해외 10대 뉴스]<1>디즈니·애플, OTT 시장 진출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324866",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "韓 지능형 네트워크 선도 시동…APAN 워킹그룹 첫 회의 개최",
+		"newsSubTitle": "",
+		"newsContent": "우리나라 기업·학계가 인공지능(AI) 기술을 활용한 차세대 네트워크 기술·서비스 글로벌 선도를 위한 활동에 착수했다.\n국내 네트워크에 AI 기술을 접목한 연구·실증결과를 공유, 세계 각국이 우리나라 기술에 관심을 갖도록 유도하고 활용을 확산하는 등 국내 지능형 네트워크가 국제표준으로 자리매김하도록 한다는 복안이다.\n50여개국이 참가하는 아시아·태평양 지역 최대 연구개발(R&D) 망 커뮤니티 APAN(Asian Pacific Advanced Network) 산하 '지능형 네트워크 워킹그룹(AINWG)'은 4일 각국 AI 네트워크 연구사례 공유를 목적으로 온라인 세미나를 개최했다.\n연초 초연결지능형연구개발망(KOREN·코렌) 연구협력포럼이 주도한 AINWG이 확정된 이후 첫 회의다. 〈본지 2월 25일자 1면 참조〉 KT, 광주과학기술원(GIST), 제주대가 실시간 이상탐지 기술 등 네트워크에 AI를 접목한 연구·실증사례를 공유했다.\n제주대는 코렌망에 IBN(Intent Based Network) AI 관리기법을 적용한 데 이어 머신러닝 기반 네트워크 이상징후를 실시간 확인해 문제를 해결할 수 있는 메커니즘 개발 사례를, GIST는 동일 기술을 아시아 국가에서 연구망으로 사용되는 테인(TEIN) 망에 접목한 사례를 소개했다.\nKT는 AI 기술을 활용해 'IP백본망 자가구성·자가회복 처리를 위한 관리' 기술을 소개했다.\nIP백본망 트래픽을 감시하고 장애 분석을 위한 지능형 네트워크를 구현, 지난해 구축한 전송망 지능형 네트워크와 통합해 코렌망에서 자율운영 방식 지능형 네트워크를 완성할 계획이다.\n김형우 KT 부장은 “KT는 IP-소프트웨어정의네트워크(SDN)로부터 수집한 플로우·경보·트래픽·성능 데이터와 같은 각종 네트워크 데이터에 AI 기술을 접목, 장애 원인 분석과 이상탐지를 수행하고 있다”며 “이상탐지 이후 IP 백본망을 복구 방안을 공유하는 등 실시간 네트워크 관제·관리·대응이 가능한 기술로 고도화하고 있다”고 설명했다.\n우리나라 이외에도 미국, 일본, 중국, 말레이시아에서 참여한 기업·기관 전문가도 네트워크에 AI를 접목한 각자 사례에 대해 발표했다.\n송왕철 AINWG 공동의장(제주대 컴퓨터공학과 교수)은 “세계적으로 AI 기술을 네트워크에 접목하는 연구는 대학·기관 실험실 단위에서 시작해 점차 확산되고 있다”며 “코렌망을 지능형 네트워크로 완성해가는 실증사례를 지속 공유, 우리나라가 글로벌 차세대 네트워크 주도권을 확보하는 데 일조하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리나라 기업·학계가 인공지능(AI) 기술을 활용한 차세대 네트워크 기술·서비스 글로벌 선도를 위한 활동에 착수했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 네트워크에 AI 기술을 접목한 연구·실증결과를 공유, 세계 각국이 우리나라 기술에 관심을 갖도록 유도하고 활용을 확산하는 등 국내 지능형 네트워크가 국제표준으로 자리매김하도록 한다는 복안이다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "50여개국이 참가하는 아시아·태평양 지역 최대 연구개발(R&D) 망 커뮤니티 APAN(Asian Pacific Advanced Network) 산하 '지능형 네트워크 워킹그룹(AINWG)'은 4일 각국 AI 네트워크 연구사례 공유를 목적으로 온라인 세미나를 개최했다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연초 초연결지능형연구개발망(KOREN·코렌) 연구협력포럼이 주도한 AINWG이 확정된 이후 첫 회의다. 〈본지 2월 25일자 1면 참조〉 KT, 광주과학기술원(GIST), 제주대가 실시간 이상탐지 기술 등 네트워크에 AI를 접목한 연구·실증사례를 공유했다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제주대는 코렌망에 IBN(Intent Based Network) AI 관리기법을 적용한 데 이어 머신러닝 기반 네트워크 이상징후를 실시간 확인해 문제를 해결할 수 있는 메커니즘 개발 사례를, GIST는 동일 기술을 아시아 국가에서 연구망으로 사용되는 테인(TEIN) 망에 접목한 사례를 소개했다.",
+				"sentenceSize": 165
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT는 AI 기술을 활용해 'IP백본망 자가구성·자가회복 처리를 위한 관리' 기술을 소개했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "IP백본망 트래픽을 감시하고 장애 분석을 위한 지능형 네트워크를 구현, 지난해 구축한 전송망 지능형 네트워크와 통합해 코렌망에서 자율운영 방식 지능형 네트워크를 완성할 계획이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김형우 KT 부장은 “KT는 IP-소프트웨어정의네트워크(SDN)로부터 수집한 플로우·경보·트래픽·성능 데이터와 같은 각종 네트워크 데이터에 AI 기술을 접목, 장애 원인 분석과 이상탐지를 수행하고 있다”며 “이상탐지 이후 IP 백본망을 복구 방안을 공유하는 등 실시간 네트워크 관제·관리·대응이 가능한 기술로 고도화하고 있다”고 설명했다.",
+				"sentenceSize": 189
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "우리나라 이외에도 미국, 일본, 중국, 말레이시아에서 참여한 기업·기관 전문가도 네트워크에 AI를 접목한 각자 사례에 대해 발표했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "송왕철 AINWG 공동의장(제주대 컴퓨터공학과 교수)은 “세계적으로 AI 기술을 네트워크에 접목하는 연구는 대학·기관 실험실 단위에서 시작해 점차 확산되고 있다”며 “코렌망을 지능형 네트워크로 완성해가는 실증사례를 지속 공유, 우리나라가 글로벌 차세대 네트워크 주도권을 확보하는 데 일조하겠다”고 말했다.",
+				"sentenceSize": 170
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "韓 지능형 네트워크 선도 시동…APAN 워킹그룹 첫 회의 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332278",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "T모바일, \\\"스프린트 합병 승인시 초고속 커버리지 확대\\\"",
+		"newsSubTitle": "",
+		"newsContent": "T모바일이 미국 정부 당국에 스프린트와 합병을 승인해주면 고정형 무선접속장치(FWA)를 활용해 초고속인터넷(브로드밴드) 커버리지를 확대하겠다고 선언했다.\nT모바일은 연방통신위원회(FCC)에 제출한 보고서에서 합병 승인시 2024년까지 미국 국토 50%에 해당하는 FWA 커버리지를 구축하겠다고 밝혔다.\nFWA는 일부 전송구간에서 광케이블 대신 5세대(5G) 이동통신 또는 LTE를 활용해 고정형 초고속인터넷을 제공하는 서비스다.\nT모바일은 합병이 승인될 경우 2021년까지 FWA 광대역 인터넷 가입자수 1900만명, 2024 년까지 9500만 명에이를 것으로 예상했다.\n이를 바탕으로 미국 4위 초고속인터넷 서비스 제공 업체가 될 것으로 예측했다.\nT모바일은 고객이 필요한 초고속인터넷 모뎀 등 장비를 스스로 선택할 수 있도록 하고, 예약 시스템을 개선하는 등 혁신 서비스를 제공하겠다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "T모바일이 미국 정부 당국에 스프린트와 합병을 승인해주면 고정형 무선접속장치(FWA)를 활용해 초고속인터넷(브로드밴드) 커버리지를 확대하겠다고 선언했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "T모바일은 연방통신위원회(FCC)에 제출한 보고서에서 합병 승인시 2024년까지 미국 국토 50%에 해당하는 FWA 커버리지를 구축하겠다고 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "FWA는 일부 전송구간에서 광케이블 대신 5세대(5G) 이동통신 또는 LTE를 활용해 고정형 초고속인터넷을 제공하는 서비스다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "T모바일은 합병이 승인될 경우 2021년까지 FWA 광대역 인터넷 가입자수 1900만명, 2024 년까지 9500만 명에이를 것으로 예상했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 바탕으로 미국 4위 초고속인터넷 서비스 제공 업체가 될 것으로 예측했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "T모바일은 고객이 필요한 초고속인터넷 모뎀 등 장비를 스스로 선택할 수 있도록 하고, 예약 시스템을 개선하는 등 혁신 서비스를 제공하겠다고 밝혔다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "T모바일, \\\"스프린트 합병 승인시 초고속 커버리지 확대\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

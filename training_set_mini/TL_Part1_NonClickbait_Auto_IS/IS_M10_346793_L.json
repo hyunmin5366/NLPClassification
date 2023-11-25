@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_346793",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "한전 등 공공기관 인증서도 해커 손에?…좀비PC 주의보",
+		"newsSubTitle": "null",
+		"newsContent": "한국수력원자력(한수원)의 허술한 보안체계가 비판을 받는 가운데 한국전력 등 다른 공공기관도 악성코드에 노출돼 인증서들이 유출된 것으로 밝혀졌다.\n보안업계는 인증서 유출은 곧 해당 기관 내부 PC 보안이 뚫렸다는 의미라고 분석했다.\n보안업체 빛스캔은 5일 악성코드에 의해 탈취된 인증서들의 메타데이터를 추출·분석한 결과, 기업 또는 국가 및 공공기관 인증서가 30%를 차지한다고 밝혔다.\n특히 한국전력, 원자력안전평가원, 원자력 의료원 등의 대외 인증서들을 비롯해 한전에서 발행된 인증서를 보유한 기업들의 인증서 목록도 추가로 확인됐다.\n빛스캔은 이같은 인증서 유출 정황으로 볼때 해당 기관의 보안 상태가 미흡한 것으로 빠른 대처가 필요하다고 분석했다.\n빛스캔 관계자는 \\\"기관 인증서들은 일반인이 보유한 PC에 저장될 가능성이 거의 없을 것으로 판단된다\\\"며 \\\"해당 인증서는 기관·기업내의 인터넷 이용이 가능한 PC 또는 승인된 사용자의 일반 PC에서 유출될 가능성이 매우 높다\\\"고 설명했다.\n이밖에도 다른 기반 시설로 추정되는 기관 관련 인증서도 다수 유출됐다고 전했다.\n만약 해당 인증서가 내부 PC에서 빠져나갔고 해당 PC는 공격자가 이미 권한을 가지고 있다면, 이미 내부 서버가 해커들에게 뚫렸다는 의미다.\n빛스캔은 각 기관들이 보다 정밀한 내부 검사와 대책을 세워야한다고 당부했다.\n현재 수집된 인증서는 모두 한국인터넷진흥원(KISA) 및 관련 기관으로 제공돼 폐기했지만, 각 기업이나 기관 내부에 악성코드에 감염된 이른바 '좀비PC'들은 여전히 살아있기 때문에 보안상 문제가 완전히 해결되지 않았다는 것. 빛스캔 관계자는 \\\"매년 웹을 이용해 악성코드를 유포하는 방식은 더욱 극심해지고 있으며, 최근에는 공격 형태도 다양하게 나타나고 있어 탐지가 힘든 상태\\\"라며 \\\"선제적인 대응과 확산 이전 단계에서의 대응이 최선\\\"이라고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국수력원자력(한수원)의 허술한 보안체계가 비판을 받는 가운데 한국전력 등 다른 공공기관도 악성코드에 노출돼 인증서들이 유출된 것으로 밝혀졌다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "보안업계는 인증서 유출은 곧 해당 기관 내부 PC 보안이 뚫렸다는 의미라고 분석했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보안업체 빛스캔은 5일 악성코드에 의해 탈취된 인증서들의 메타데이터를 추출·분석한 결과, 기업 또는 국가 및 공공기관 인증서가 30%를 차지한다고 밝혔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 한국전력, 원자력안전평가원, 원자력 의료원 등의 대외 인증서들을 비롯해 한전에서 발행된 인증서를 보유한 기업들의 인증서 목록도 추가로 확인됐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "빛스캔은 이같은 인증서 유출 정황으로 볼때 해당 기관의 보안 상태가 미흡한 것으로 빠른 대처가 필요하다고 분석했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "빛스캔 관계자는 \\\"기관 인증서들은 일반인이 보유한 PC에 저장될 가능성이 거의 없을 것으로 판단된다\\\"며 \\\"해당 인증서는 기관·기업내의 인터넷 이용이 가능한 PC 또는 승인된 사용자의 일반 PC에서 유출될 가능성이 매우 높다\\\"고 설명했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이밖에도 다른 기반 시설로 추정되는 기관 관련 인증서도 다수 유출됐다고 전했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "만약 해당 인증서가 내부 PC에서 빠져나갔고 해당 PC는 공격자가 이미 권한을 가지고 있다면, 이미 내부 서버가 해커들에게 뚫렸다는 의미다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "빛스캔은 각 기관들이 보다 정밀한 내부 검사와 대책을 세워야한다고 당부했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "현재 수집된 인증서는 모두 한국인터넷진흥원(KISA) 및 관련 기관으로 제공돼 폐기했지만, 각 기업이나 기관 내부에 악성코드에 감염된 이른바 '좀비PC'들은 여전히 살아있기 때문에 보안상 문제가 완전히 해결되지 않았다는 것. 빛스캔 관계자는 \\\"매년 웹을 이용해 악성코드를 유포하는 방식은 더욱 극심해지고 있으며, 최근에는 공격 형태도 다양하게 나타나고 있어 탐지가 힘든 상태\\\"라며 \\\"선제적인 대응과 확산 이전 단계에서의 대응이 최선\\\"이라고 강조했다.",
+				"sentenceSize": 255
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한전 등 공공기관 인증서도 해커 손에?…좀비PC 주의보",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007609",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "'부도' 엘드건설 회생 결정",
+		"newsSubTitle": "절차 본격화… 도안 16블록 피해우려 해소",
+		"newsContent": "지난 10월 최종부도처리된 엘드건설이 기업회생절차(법정관리)에 본격 들어간다.\n전주법원은 부도처리된 엘드건설에 대해 관리인으로는 채당석 대표이사를 선임하는 등 지난 10일 기업회생결정을 내린 것으로 확인됐다.\n법원은 또 채무자의 대표이사인 채모씨를 관리인으로 선임하도록 결정했다.\n이에 따라 엘드건설은 구조조정, 자산매각 등을 통해 경영정상화 절차를 밟는 등 회생절차를 본격 추진하게 된다.\n엘드건설의 기업회생결정으로 지난 8월 입주한 도안 16블록의 입주자, 전세입자 등 피해우려도 해소될 것으로 전망된다.\n한편, 엘드건설은 지난 10월 70억원의 어음을 막지 못해 부도처리됐고 지난달 8일 전주지법에 회생 신청 등 법정관리를 신청했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 10월 최종부도처리된 엘드건설이 기업회생절차(법정관리)에 본격 들어간다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전주법원은 부도처리된 엘드건설에 대해 관리인으로는 채당석 대표이사를 선임하는 등 지난 10일 기업회생결정을 내린 것으로 확인됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "법원은 또 채무자의 대표이사인 채모씨를 관리인으로 선임하도록 결정했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 엘드건설은 구조조정, 자산매각 등을 통해 경영정상화 절차를 밟는 등 회생절차를 본격 추진하게 된다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엘드건설의 기업회생결정으로 지난 8월 입주한 도안 16블록의 입주자, 전세입자 등 피해우려도 해소될 것으로 전망된다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 엘드건설은 지난 10월 70억원의 어음을 막지 못해 부도처리됐고 지난달 8일 전주지법에 회생 신청 등 법정관리를 신청했다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "동심 모신 대전아쿠아리움, 가족 고객 잡았다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

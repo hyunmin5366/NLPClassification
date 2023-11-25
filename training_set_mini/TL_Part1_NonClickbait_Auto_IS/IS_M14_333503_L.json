@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333503",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "인텔리빅스-쿠도, AI 기반 스마트관제솔루션 공개",
+		"newsSubTitle": "",
+		"newsContent": "인텔리빅스와 쿠도커뮤니케이션이 14일부터 16일까지 일산 킨텍스에서 열리는 세계보안전시회 SECON에서 인공지능(AI) 기반 스마트관제솔루션을 대거 공개한다.\n양사는 딥러닝을 적용한 보안관제솔루션을 전시할 예정이다.\n실시간으로 내방객이 체험할 수 있는 체험존도 마련했다.\n지속 증가하는 CCTV에 따른 관제 요원 한계 극복 및 효율적 관제를 위한 AI 기반 스마트 관제 솔루션을 주력으로 선보일 예정이다.\n이 솔루션은 이벤트 종류·용도별 필터링 기능을 제공하며 AI를 보조 모니터링 수단으로 사용한다.\n모든 채널을 대상으로 지능형 관제를 수행한다.\n영상 속 인물의 성별·머리스타일·의상 종류 등과 차량의 차종·모델·크기·색상·번호판 등을 실시간 검출해 정보를 제공한다.\n이를 통해 다수 CCTV 정보를 통합 분석, 사전 예방 기능 및 사건 감지율 향상을 기대할 수 있다.\n또 객체를 대상으로 자동·반자동·수동방식 마스킹 기능을 제공해 사생활 보호 및 불법 유출을 방지한다.\n인텔리빅스 솔루션은 6일부터 9일까지 도쿄에서 열린 시큐리티쇼에서 호평을 받았다.\n딥러닝이 적용된 지능형 영상분석 솔루션, 스마트 관제, 고속검색 등을 선보이며 진입장벽이 높은 일본 시장을 공략할 수 있는 킬러 아이템이라는 평가를 받았다고 인텔리빅스 측이 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인텔리빅스와 쿠도커뮤니케이션이 14일부터 16일까지 일산 킨텍스에서 열리는 세계보안전시회 SECON에서 인공지능(AI) 기반 스마트관제솔루션을 대거 공개한다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양사는 딥러닝을 적용한 보안관제솔루션을 전시할 예정이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "실시간으로 내방객이 체험할 수 있는 체험존도 마련했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지속 증가하는 CCTV에 따른 관제 요원 한계 극복 및 효율적 관제를 위한 AI 기반 스마트 관제 솔루션을 주력으로 선보일 예정이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 솔루션은 이벤트 종류·용도별 필터링 기능을 제공하며 AI를 보조 모니터링 수단으로 사용한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모든 채널을 대상으로 지능형 관제를 수행한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "영상 속 인물의 성별·머리스타일·의상 종류 등과 차량의 차종·모델·크기·색상·번호판 등을 실시간 검출해 정보를 제공한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 통해 다수 CCTV 정보를 통합 분석, 사전 예방 기능 및 사건 감지율 향상을 기대할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 객체를 대상으로 자동·반자동·수동방식 마스킹 기능을 제공해 사생활 보호 및 불법 유출을 방지한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "인텔리빅스 솔루션은 6일부터 9일까지 도쿄에서 열린 시큐리티쇼에서 호평을 받았다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "딥러닝이 적용된 지능형 영상분석 솔루션, 스마트 관제, 고속검색 등을 선보이며 진입장벽이 높은 일본 시장을 공략할 수 있는 킬러 아이템이라는 평가를 받았다고 인텔리빅스 측이 밝혔다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인텔리빅스-쿠도, AI 기반 스마트관제솔루션 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

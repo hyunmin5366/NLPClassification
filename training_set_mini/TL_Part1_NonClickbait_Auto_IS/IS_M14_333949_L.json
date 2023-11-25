@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333949",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "박정호 SK텔레콤 사장 \\\"AI 초협력 강력 추진\\\"",
+		"newsSubTitle": "",
+		"newsContent": "박정호 SK텔레콤 사장이 13일 “인공지능(AI) 초협력에 나서겠다”고 밝혔다.\n박 사장은 한국과학기술회관에서 열린 '2020년 과학기술인·정보방송통신인 신년인사회'에 참석, 이같이 밝혔다.\n앞서 박 사장은 미국 라스베이거스에서 열린 CES 2020에 참가, AI 중심 국내 ICT 기업간 초협력을 제안했다.\n사명 변경 가능성도 언급했다.\n박 사장은 “SK텔레콤은 IT 선두 기업 중 하나”라면서 “우리나라에 팬이 (늘어날 수 있는) 이름이 생기길 바란다”고 말했다.\n다만. 변경 시기를 두고는 “좋은 이름이 나타나면”이라고 말을 아꼈다.\n추가 인수합병(M&A) 계획에 대해서는 즉답을 피했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박정호 SK텔레콤 사장이 13일 “인공지능(AI) 초협력에 나서겠다”고 밝혔다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박 사장은 한국과학기술회관에서 열린 '2020년 과학기술인·정보방송통신인 신년인사회'에 참석, 이같이 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 박 사장은 미국 라스베이거스에서 열린 CES 2020에 참가, AI 중심 국내 ICT 기업간 초협력을 제안했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사명 변경 가능성도 언급했다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박 사장은 “SK텔레콤은 IT 선두 기업 중 하나”라면서 “우리나라에 팬이 (늘어날 수 있는) 이름이 생기길 바란다”고 말했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만. 변경 시기를 두고는 “좋은 이름이 나타나면”이라고 말을 아꼈다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "추가 인수합병(M&A) 계획에 대해서는 즉답을 피했다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박정호 SK텔레콤 사장 \\\"AI 초협력 강력 추진\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

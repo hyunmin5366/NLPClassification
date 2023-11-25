@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334149",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "GM, 반도체 '직접 구매'…반도체 공급망 변경",
+		"newsSubTitle": "",
+		"newsContent": "메리 바라 미국 제너럴모터스(GM) 최고경영자(CEO)가 차량용 반도체 부족 사태에 대응하기 위해 공급망을 변경할 계획이라고 17일(현지시간) 밝혔다.\n바라 CEO는 로이터통신과 온라인 인터뷰에서 \\\"(반도체) 공급망에 상당한 변화를 줄 것\\\"이라고 말했다.\n이어 \\\"이미 여러 단계의 공급 베이스에 대해 아주 깊이 연구하는 중\\\"이라며 \\\"왜냐면 GM은 통상 반도체를 직접 구매하지 않기 때문\\\"이라고 설명했다.\nGM의 차량용 반도체는 대부분 하청업체들이 구매하는 것으로 알려졌다.\n바라 CEO는 \\\"이제 우리는 (반도체) 제조업체들과 직접적인 관계를 구축할 것\\\"이라고 강조했다.\n바라 CEO의 이날 언급은 백악관과 미 상무부가 오는 23일 반도체 위기에 관한 대응회의를 열기로 한 가운데 나왔다.\n회의 참석자 명단은 아직 확정되지 않았지만, 앞서 두 차례 열렸던 비슷한 미 정부 회의에는 삼성전자가 참석한 바 있다.\nGM은 반도체 부족 탓에 이달 초 대부분의 북미 공장들을 가동 중단한 데 이어 전날에도 북미 지역 6개 조립 공장에서 감산에 들어간다고 밝혔다.\n이와 관련 바라 CEO는 \\\"고객들의 니즈가 바뀌면서 우리도 점점 더 많은 반도체가 필요하다\\\"며 신형 GM 자동차에는 종전 모델보다 반도체가 최대 30% 더 많이 들어간다고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "메리 바라 미국 제너럴모터스(GM) 최고경영자(CEO)가 차량용 반도체 부족 사태에 대응하기 위해 공급망을 변경할 계획이라고 17일(현지시간) 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "바라 CEO는 로이터통신과 온라인 인터뷰에서 \\\"(반도체) 공급망에 상당한 변화를 줄 것\\\"이라고 말했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 \\\"이미 여러 단계의 공급 베이스에 대해 아주 깊이 연구하는 중\\\"이라며 \\\"왜냐면 GM은 통상 반도체를 직접 구매하지 않기 때문\\\"이라고 설명했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "GM의 차량용 반도체는 대부분 하청업체들이 구매하는 것으로 알려졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "바라 CEO는 \\\"이제 우리는 (반도체) 제조업체들과 직접적인 관계를 구축할 것\\\"이라고 강조했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "바라 CEO의 이날 언급은 백악관과 미 상무부가 오는 23일 반도체 위기에 관한 대응회의를 열기로 한 가운데 나왔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "회의 참석자 명단은 아직 확정되지 않았지만, 앞서 두 차례 열렸던 비슷한 미 정부 회의에는 삼성전자가 참석한 바 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "GM은 반도체 부족 탓에 이달 초 대부분의 북미 공장들을 가동 중단한 데 이어 전날에도 북미 지역 6개 조립 공장에서 감산에 들어간다고 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이와 관련 바라 CEO는 \\\"고객들의 니즈가 바뀌면서 우리도 점점 더 많은 반도체가 필요하다\\\"며 신형 GM 자동차에는 종전 모델보다 반도체가 최대 30% 더 많이 들어간다고 말했다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "GM, 반도체 '직접 구매'…반도체 공급망 변경",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

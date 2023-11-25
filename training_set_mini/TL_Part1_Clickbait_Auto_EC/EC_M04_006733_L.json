@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006733",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "세계최고 정확도 교류전압표준기 개발",
+		"newsSubTitle": "표준연 김문석 박사팀",
+		"newsContent": "한국표준과학연구원은 전자기센터 김문석 박사팀이 세계 최고 수준의 정확도를 갖는 국가 교류전압표준기를 개발하는 데 성공했다고 29일 밝혔다.\n이번에 개발한 교류전압표준기는 1000만분의 1 수준의 정확도를 갖고 있는데 이는 세계 최고로 인정되는 미국 국가표준기관의 표준기에 뒤지지 않는 정확도이다.\n이 표준기는 최대 2.2V의 교류전압을 발생시키고 측정할 수 있으며 가용 주파수 범위는 극저주파에서 수백㎐이다.\n이번 표준기 개발로 산업체 등에서 널리 사용되고 있는 열.전압 변환기의 정확한 성능평가가 가능해졌으며 전력계, 지진계, 아날로그-디지털 변환기 등 대부분의 전기 관련 측정장비에 활용할 수 있어 관련제품의 품질향상에도 크게 기여할 수 있을 전망이다.\n김문석 박사는 “직류전압과 달리 교류전압은 시간에 따라 신호가 변하기 때문에 측정에 많은 어려움이 따르고 일반적인 교류전압은 기본파 외에 서로 다른 주파수를 가진 여러 미세 신호들이 섞여 있다”며 “이번에 개발한 표준기는 기본파 뿐 아니라 혼재하는 미세 신호의 전압과 위상을 정확히 측정할 수 있다”고 말했다.\n김 박사팀은 앞으로 교류전압표준기의 측정범위를 10V, 수㎑ 수준까지 확장하는 연구를 지속적으로 수행할 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국표준과학연구원은 전자기센터 김문석 박사팀이 세계 최고 수준의 정확도를 갖는 국가 교류전압표준기를 개발하는 데 성공했다고 29일 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번에 개발한 교류전압표준기는 1000만분의 1 수준의 정확도를 갖고 있는데 이는 세계 최고로 인정되는 미국 국가표준기관의 표준기에 뒤지지 않는 정확도이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 표준기는 최대 2.2V의 교류전압을 발생시키고 측정할 수 있으며 가용 주파수 범위는 극저주파에서 수백㎐이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 표준기 개발로 산업체 등에서 널리 사용되고 있는 열.전압 변환기의 정확한 성능평가가 가능해졌으며 전력계, 지진계, 아날로그-디지털 변환기 등 대부분의 전기 관련 측정장비에 활용할 수 있어 관련제품의 품질향상에도 크게 기여할 수 있을 전망이다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김문석 박사는 “직류전압과 달리 교류전압은 시간에 따라 신호가 변하기 때문에 측정에 많은 어려움이 따르고 일반적인 교류전압은 기본파 외에 서로 다른 주파수를 가진 여러 미세 신호들이 섞여 있다”며 “이번에 개발한 표준기는 기본파 뿐 아니라 혼재하는 미세 신호의 전압과 위상을 정확히 측정할 수 있다”고 말했다.",
+				"sentenceSize": 173
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김 박사팀은 앞으로 교류전압표준기의 측정범위를 10V, 수㎑ 수준까지 확장하는 연구를 지속적으로 수행할 계획이다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노란우산공제, 출범 9년 만에 가입자 80만명 ‘돌파’",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

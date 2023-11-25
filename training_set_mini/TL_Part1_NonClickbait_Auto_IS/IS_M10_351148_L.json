@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351148",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "불법촬영물 샅샅이 찾아 없앤다…정부, 필터링 SW 보급",
+		"newsSubTitle": "null",
+		"newsContent": "정부가 올해 12월부터 시작되는 웹하드사업자 등에 대한 불법촬영물 유통방지 조치 의무화를 앞두고 딥러닝 기술을 적용한 필터링 소프트웨어(SW)를 보급한다.\n과학기술정보통신부, 방송통신위원회는 16일 디지털성범죄물 유통방지를 위한 인터넷 사업자들의 기술적 조치 지원을 위해 불법촬영물 등에 대한 표준 필터링 기술과 공공 DNA DB(특징값 데이터베이스)를 제공한다고 밝혔다.\n자체 필터링 기술 사용 업체들에 대한 성능평가도 병행한다.\n지난해 전기통신사업법, 정보통신망법 개정으로 웹하드사업자와 일정 규모 이상의 부가통신사업자의 불법촬영물 유통방지를 위한 기술적·관리적 조치가 의무화됐다.\n기술적·관리적 조치에는 △신고기능 마련 △식별 및 검색제한 조치 △식별 및 게재제한 조치 △사전경고조치 등이 포함되며, 1년 간의 유예기간을 거쳐 오는 12월 10일부터 본격 시행된다.\n한국전자통신연구원(ETRI)은 식별 및 게재제한 조치 지원을 위해 영상물의 특징값(DNA)을 딥러닝 기술로 추출하고, 방통위가 관리 중인 불법촬영물과 매칭 여부를 식별하는 SW를 개발했다.\n인터넷사업자들은 방송통신심의위원회의 '디지털성범죄등 공공 DNA DB 기술지원포털'에 필터링 SW와 공공 DNA DB를 무료로 다운받을 수 있다.\n자체 필터링 기술을 사용하는 사업자들을 대상으로 성능평가도 시작한다.\n식별 및 게제재한 조치 기술은 정부 제공 SW와 최근 2년 내 성능평가를 통과한 기술 중 자율적으로 선택할 수 있다.\n김재철 방통위 이용자정책국장은 \\\"국가개발 표준기술 및 공공 DNA DB 제공으로 인터넷 사업자들이 기술적·관리적 조치를 준비하는데 큰 도움을 받을 수 있을 것\\\"이라며 \\\"불법촬영물로 인한 피해가 발생하지 않도록 기술적·관리적 조치를 위한 관련 고시안을 조속히 마련하는 등 정책을 강화하겠다\\\"고 말했다.\n이승원 과기정통부 정보통신산업정책관은 \\\"디지털 성범죄 대응 강화를 위해 관계부처와 협력하는 한편, 표준 필터링 기술의 성능도 지속적으로 고도화해 나가겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부가 올해 12월부터 시작되는 웹하드사업자 등에 대한 불법촬영물 유통방지 조치 의무화를 앞두고 딥러닝 기술을 적용한 필터링 소프트웨어(SW)를 보급한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과학기술정보통신부, 방송통신위원회는 16일 디지털성범죄물 유통방지를 위한 인터넷 사업자들의 기술적 조치 지원을 위해 불법촬영물 등에 대한 표준 필터링 기술과 공공 DNA DB(특징값 데이터베이스)를 제공한다고 밝혔다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자체 필터링 기술 사용 업체들에 대한 성능평가도 병행한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 전기통신사업법, 정보통신망법 개정으로 웹하드사업자와 일정 규모 이상의 부가통신사업자의 불법촬영물 유통방지를 위한 기술적·관리적 조치가 의무화됐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기술적·관리적 조치에는 △신고기능 마련 △식별 및 검색제한 조치 △식별 및 게재제한 조치 △사전경고조치 등이 포함되며, 1년 간의 유예기간을 거쳐 오는 12월 10일부터 본격 시행된다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 식별 및 게재제한 조치 지원을 위해 영상물의 특징값(DNA)을 딥러닝 기술로 추출하고, 방통위가 관리 중인 불법촬영물과 매칭 여부를 식별하는 SW를 개발했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인터넷사업자들은 방송통신심의위원회의 '디지털성범죄등 공공 DNA DB 기술지원포털'에 필터링 SW와 공공 DNA DB를 무료로 다운받을 수 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "자체 필터링 기술을 사용하는 사업자들을 대상으로 성능평가도 시작한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "식별 및 게제재한 조치 기술은 정부 제공 SW와 최근 2년 내 성능평가를 통과한 기술 중 자율적으로 선택할 수 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "김재철 방통위 이용자정책국장은 \\\"국가개발 표준기술 및 공공 DNA DB 제공으로 인터넷 사업자들이 기술적·관리적 조치를 준비하는데 큰 도움을 받을 수 있을 것\\\"이라며 \\\"불법촬영물로 인한 피해가 발생하지 않도록 기술적·관리적 조치를 위한 관련 고시안을 조속히 마련하는 등 정책을 강화하겠다\\\"고 말했다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이승원 과기정통부 정보통신산업정책관은 \\\"디지털 성범죄 대응 강화를 위해 관계부처와 협력하는 한편, 표준 필터링 기술의 성능도 지속적으로 고도화해 나가겠다\\\"고 밝혔다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "불법촬영물 샅샅이 찾아 없앤다…정부, 필터링 SW 보급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

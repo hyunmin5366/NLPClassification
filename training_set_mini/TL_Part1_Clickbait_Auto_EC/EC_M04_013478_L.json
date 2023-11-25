@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013478",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "11일은 레일데이… 신나는 철도역",
+		"newsSubTitle": "",
+		"newsContent": "코레일 대전충남본부가 11일 레일데이(Rail-day)를 맞아 주요 역에서 철도를 이용하는 고객을 위한 열린 음악회, 문화 이벤트, 전시회 등 다채로운 행사를 진행한다. 9일 코레일 대전충남본부에 따르면 대전역에서는 중부대 학생들과 '작은 음악회'를 여는 것을 비롯해 조치원역에서는 '보이스 코리아'의 송푸름 밴드와 인천아시안게임 폐막식 퓨전 국악밴드 공연, 천안역에서는 플루티스트와 직원들의 재능기부 참여 클래식 공연 등이 펼쳐진다.\n대전역은 레일모양 다트 게임에 참여하는 고객에게 도서 및 벽걸이 시계를 증정하고 영동역은 기차 종이모형 접기와 승차권 체험 기회를 제공한다.\n철도역 일부 매장은 레일데이 특별 할인 이벤트도 진행한다.\n대전역 가락국수 매장에서는 오전 11시부터 11시 30분까지 한시적으로 20% 할인해 주고 신탄진역 고트빈 커피 전문점은 당일 10%를 할인해 준다.\n또 천안역과 홍성역은 가을 국화꽃을 전시하고 오송역에서는 국화 분재와 민화를 관람할 수 있다.\n레일데이는 2011년 11월 11일 시작해 매월 11일마다 다양한 이벤트를 선보이는, 녹색생활을 위한 '기차 타는 날'(숫자 11은 기차 레일을 상징)이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코레일 대전충남본부가 11일 레일데이(Rail-day)를 맞아 주요 역에서 철도를 이용하는 고객을 위한 열린 음악회, 문화 이벤트, 전시회 등 다채로운 행사를 진행한다. 9일 코레일 대전충남본부에 따르면 대전역에서는 중부대 학생들과 '작은 음악회'를 여는 것을 비롯해 조치원역에서는 '보이스 코리아'의 송푸름 밴드와 인천아시안게임 폐막식 퓨전 국악밴드 공연, 천안역에서는 플루티스트와 직원들의 재능기부 참여 클래식 공연 등이 펼쳐진다.",
+				"sentenceSize": 243
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대전역은 레일모양 다트 게임에 참여하는 고객에게 도서 및 벽걸이 시계를 증정하고 영동역은 기차 종이모형 접기와 승차권 체험 기회를 제공한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "철도역 일부 매장은 레일데이 특별 할인 이벤트도 진행한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대전역 가락국수 매장에서는 오전 11시부터 11시 30분까지 한시적으로 20% 할인해 주고 신탄진역 고트빈 커피 전문점은 당일 10%를 할인해 준다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 천안역과 홍성역은 가을 국화꽃을 전시하고 오송역에서는 국화 분재와 민화를 관람할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "레일데이는 2011년 11월 11일 시작해 매월 11일마다 다양한 이벤트를 선보이는, 녹색생활을 위한 '기차 타는 날'(숫자 11은 기차 레일을 상징)이다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 제조업체 체감경기 '훈훈'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

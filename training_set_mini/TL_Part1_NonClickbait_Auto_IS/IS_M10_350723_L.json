@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350723",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"악성 앱 간편 차단\\\" ADT캡스, 캡스 모바일 가드 출시",
+		"newsSubTitle": "null",
+		"newsContent": "ADT캡스가 안드로이드용 스마트폰 이용자면 누구나 쓸 수 있는 모바일 보안 앱 캡스 모바일가드를 출시했다고 13일 밝혔다.\n캡스 모바일가드를 이용하면 금융정보 유출을 유도하는 악성 URL인 스미싱이나 악성 앱을 탐지하거나 스마트폰 내 저장공간을 간편하게 정리할 수 있다.\n인공지능(AI)을 이용한 클라우드 검사도 가능하다.\n최신 백신 업데이트 패턴을 실시간으로 반영시켜 알려지지 않은 신종 또는 변종 악성코드도 빠르게 찾아내는 기능이다.\nADT캡스는 스마트폰 사용자에 필수적인 보안기능을 담은 캡스 모바일가드를 무료로 배포한다.\n안드로이드 스마트폰을 사용하는 누구나 이용할 수 있으며 원스토어나 구글 플레이스토어에서 무료로 다운받을 수 있다.\n캡스 모바일가드는 SK텔레콤 사용자를 위한 무료 모바일 백신 T가드를 ADT캡스가 맡아 리브랜딩한 것이다.\n이를 통해 ADT캡스는 국내 1위 정보보안 사업 역량을 모바일 보안까지 확대했다.\nADT캡스 관계자는 \\\"스마트폰 해킹을 노린 악성 앱과 스미싱 문자가 최근 급격히 늘고 있지만 스마트폰 보안 인식은 아직 높지 않다\\\"며 \\\"누구나 안심하고 편리하게 스마트폰을 이용할 수 있도록 모바일 보안 고도화에 나설 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "ADT캡스가 안드로이드용 스마트폰 이용자면 누구나 쓸 수 있는 모바일 보안 앱 캡스 모바일가드를 출시했다고 13일 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "캡스 모바일가드를 이용하면 금융정보 유출을 유도하는 악성 URL인 스미싱이나 악성 앱을 탐지하거나 스마트폰 내 저장공간을 간편하게 정리할 수 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인공지능(AI)을 이용한 클라우드 검사도 가능하다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최신 백신 업데이트 패턴을 실시간으로 반영시켜 알려지지 않은 신종 또는 변종 악성코드도 빠르게 찾아내는 기능이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ADT캡스는 스마트폰 사용자에 필수적인 보안기능을 담은 캡스 모바일가드를 무료로 배포한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안드로이드 스마트폰을 사용하는 누구나 이용할 수 있으며 원스토어나 구글 플레이스토어에서 무료로 다운받을 수 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "캡스 모바일가드는 SK텔레콤 사용자를 위한 무료 모바일 백신 T가드를 ADT캡스가 맡아 리브랜딩한 것이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 통해 ADT캡스는 국내 1위 정보보안 사업 역량을 모바일 보안까지 확대했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "ADT캡스 관계자는 \\\"스마트폰 해킹을 노린 악성 앱과 스미싱 문자가 최근 급격히 늘고 있지만 스마트폰 보안 인식은 아직 높지 않다\\\"며 \\\"누구나 안심하고 편리하게 스마트폰을 이용할 수 있도록 모바일 보안 고도화에 나설 계획\\\"이라고 말했다.",
+				"sentenceSize": 136
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"악성 앱 간편 차단\\\" ADT캡스, 캡스 모바일 가드 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

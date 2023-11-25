@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012834",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "국내기술 제작 전동열차 운행",
+		"newsSubTitle": "코레일 12일부터 'ITX-새마을' 순차투입",
+		"newsContent": "코레일이 순수 국내기술 제작 최신형 전동열차인 'ITX-새마을' 23개 편성을 오는 12일부터 순차적으로 투입ㆍ운행한다. 1974년부터 운행된 새마을호 열차는 현재 새마을호는 30개 편성으로 하루 50회 운행되고 있다.\n이 가운데 경부선, 호남선, 전라선의 전철화 구간을 운행하는 30회를 7월 말까지 모두 ITX-새마을로 대체하게 된다.\n12일 13편성, 다음달 1일 2편성, 오는 7월 말 8편성을 각각 투입할 방침이다.\nITX-새마을은 객차당 50~74석씩 6개 객차에 총 376석의 좌석으로 편성, 고속 운행 시에도 소음과 진동을 줄여 안전성과 승차감을 높였다고 코레일은 설명했다.\n또 사회적 약자를 위한 휠체어석과 수유실, 물품보관함 등의 편의시설을 갖춰 편안한 여행서비스를 제공할 것으로 기대된다.\nITX-새마을 운임을 우선 기존 새마을호와 같게 적용할 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코레일이 순수 국내기술 제작 최신형 전동열차인 'ITX-새마을' 23개 편성을 오는 12일부터 순차적으로 투입ㆍ운행한다. 1974년부터 운행된 새마을호 열차는 현재 새마을호는 30개 편성으로 하루 50회 운행되고 있다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 가운데 경부선, 호남선, 전라선의 전철화 구간을 운행하는 30회를 7월 말까지 모두 ITX-새마을로 대체하게 된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "12일 13편성, 다음달 1일 2편성, 오는 7월 말 8편성을 각각 투입할 방침이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "ITX-새마을은 객차당 50~74석씩 6개 객차에 총 376석의 좌석으로 편성, 고속 운행 시에도 소음과 진동을 줄여 안전성과 승차감을 높였다고 코레일은 설명했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 사회적 약자를 위한 휠체어석과 수유실, 물품보관함 등의 편의시설을 갖춰 편안한 여행서비스를 제공할 것으로 기대된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "ITX-새마을 운임을 우선 기존 새마을호와 같게 적용할 예정이다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "차분히 덩치 키우는 야놀자...엔데믹 순풍 타고 美상장 성공할까",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

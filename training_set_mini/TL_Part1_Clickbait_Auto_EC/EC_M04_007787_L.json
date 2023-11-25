@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007787",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "주유소 휘발유값 '스톱'",
+		"newsSubTitle": "석유公, 현수준서 보합 전망",
+		"newsContent": "주유소 휘발유 가격이 연일 고공행진을 하고 있는 가운데, 석유공사는 현재 수준에서 더 이상은 오르지 않을 것으로 전망했다.\n10일 한국석유공사에 따르면 지난주 전국 주유소 판매가격은 지난해 11월 이후 강세를 보이고 있는 국제유가의 영향으로 12월 마지막 주에 이어 모든 제품이 큰 폭으로 상승했다.\n휘발유와 자동차용 경유는 각각 전주대비 ℓ당 12.5원, 11.9원 오른 1817.3원, 1613.9원으로, 지난해 10월 2주 이후 12주 연속 상승했고, 지난 2009년 이후 최고치를 경신했다.\n휘발유 평균가격은 서울(1885.3원), 제주(1833.3원), 인천(1830.0원)이 높았고, 전북(1793.0원), 경북(1807.7원), 전남(1807.9원)지역의 가격이 낮았다.\n대전은 1815.4원, 충남은 1810.4원을 기록, 전국 평균보다 낮게 조사됐다.\n정유사별로는 휘발유와 자동차용 경유, 실내등유 모두 SK에너지의 공급가격이 가장 낮았으며, 휘발유와 실내등유는 GS칼텍스, 자동차용 경유는 S-OIL의 공급가격이 가장 높았다.\n석유공사 측은 연초 경기회복 기대감에 따른 국제유가 강세에도 최근 정유사 가격이 하락세를 보이고 있어, 이번주 이후 국내 제품가격은 현재 수준에서 보합세를 유지할 것으로 전망하고 있다.\n한국석유공사 관계자는 “주유소 유류 가격은 최근 겨울철 한파와 함께 최고점에 달해 있다”면서 “이 같은 상승세는 일시적인 현상으로, 향후 안정세를 되찾을 것으로 보인다”고 예측했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "주유소 휘발유 가격이 연일 고공행진을 하고 있는 가운데, 석유공사는 현재 수준에서 더 이상은 오르지 않을 것으로 전망했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일 한국석유공사에 따르면 지난주 전국 주유소 판매가격은 지난해 11월 이후 강세를 보이고 있는 국제유가의 영향으로 12월 마지막 주에 이어 모든 제품이 큰 폭으로 상승했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "휘발유와 자동차용 경유는 각각 전주대비 ℓ당 12.5원, 11.9원 오른 1817.3원, 1613.9원으로, 지난해 10월 2주 이후 12주 연속 상승했고, 지난 2009년 이후 최고치를 경신했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "휘발유 평균가격은 서울(1885.3원), 제주(1833.3원), 인천(1830.0원)이 높았고, 전북(1793.0원), 경북(1807.7원), 전남(1807.9원)지역의 가격이 낮았다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대전은 1815.4원, 충남은 1810.4원을 기록, 전국 평균보다 낮게 조사됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정유사별로는 휘발유와 자동차용 경유, 실내등유 모두 SK에너지의 공급가격이 가장 낮았으며, 휘발유와 실내등유는 GS칼텍스, 자동차용 경유는 S-OIL의 공급가격이 가장 높았다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "석유공사 측은 연초 경기회복 기대감에 따른 국제유가 강세에도 최근 정유사 가격이 하락세를 보이고 있어, 이번주 이후 국내 제품가격은 현재 수준에서 보합세를 유지할 것으로 전망하고 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한국석유공사 관계자는 “주유소 유류 가격은 최근 겨울철 한파와 함께 최고점에 달해 있다”면서 “이 같은 상승세는 일시적인 현상으로, 향후 안정세를 되찾을 것으로 보인다”고 예측했다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "다시 떠나는 여행…면세업계 각종 행사 돌입",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

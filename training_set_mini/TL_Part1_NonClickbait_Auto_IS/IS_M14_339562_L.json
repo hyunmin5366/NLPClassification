@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339562",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "삼성전자, 인도·동남아에 저가폰 출시",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 2021년 첫 스마트폰 신제품 '갤럭시M02s'를 인도 시장에서 선보였다.\n삼성전자 스마트폰 중 가장 저렴한 10만원대로, 대용량 배터리 등 현지 수요 특화 기능을 담았다.\n삼성전자는 갤럭시M02s를 8999루피(약 13만4000원)에 출시했다.\n지난해 인도 시장점유율 성장을 견인한 갤럭시M 시리즈 엔트리(최저가) 모델로 '1만 루피(약 15만원)' 이하 부문에서 입지를 확고히 한다는 방침이다.\n삼성전자는 “디지털 인디아 정책에 부합하는 다양한 기능을 탑재했다”고 소개했다.\n갤럭시M02s는 6.5인치 HD+ 디스플레이에 퀄컴 스냅드래곤450 모바일 프로세서, 5000㎃h 대용량 배터리를 탑재했다.\n램 3GB·저쟝용량 32GB 모델과 4GB·64GB 모델로 구성됐으며 각각 8999루피, 9999루피에 판매된다.\n전면 카메라는 500만화소, 후면에는 1300만화소 트리플 카메라가 적용됐다.\n삼성전자는 싱가포르에서도 갤럭시A 시리즈 신제품 '갤럭시A12' 판매를 시작했다.\n출고가는 삼성전자가 자체 생산하는 중저가 스마트폰 중 가장 낮은 가격인 228달러(약 25만원)다.\n갤럭시A12는 미디어텍 모바일 프로세서가 탑재됐으며 엔트리급으로는 이례적으로 '삼성 녹스' 보안 플랫폼을 지원한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 2021년 첫 스마트폰 신제품 '갤럭시M02s'를 인도 시장에서 선보였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자 스마트폰 중 가장 저렴한 10만원대로, 대용량 배터리 등 현지 수요 특화 기능을 담았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성전자는 갤럭시M02s를 8999루피(약 13만4000원)에 출시했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 인도 시장점유율 성장을 견인한 갤럭시M 시리즈 엔트리(최저가) 모델로 '1만 루피(약 15만원)' 이하 부문에서 입지를 확고히 한다는 방침이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성전자는 “디지털 인디아 정책에 부합하는 다양한 기능을 탑재했다”고 소개했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "갤럭시M02s는 6.5인치 HD+ 디스플레이에 퀄컴 스냅드래곤450 모바일 프로세서, 5000㎃h 대용량 배터리를 탑재했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "램 3GB·저쟝용량 32GB 모델과 4GB·64GB 모델로 구성됐으며 각각 8999루피, 9999루피에 판매된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전면 카메라는 500만화소, 후면에는 1300만화소 트리플 카메라가 적용됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "삼성전자는 싱가포르에서도 갤럭시A 시리즈 신제품 '갤럭시A12' 판매를 시작했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "출고가는 삼성전자가 자체 생산하는 중저가 스마트폰 중 가장 낮은 가격인 228달러(약 25만원)다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "갤럭시A12는 미디어텍 모바일 프로세서가 탑재됐으며 엔트리급으로는 이례적으로 '삼성 녹스' 보안 플랫폼을 지원한다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자, 인도·동남아에 저가폰 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

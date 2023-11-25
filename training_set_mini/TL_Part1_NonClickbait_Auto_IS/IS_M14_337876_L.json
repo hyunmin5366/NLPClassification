@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337876",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "\\\"트럼프, HIV에 관심 없다\\\" 자문단 6명 동반사퇴",
+		"newsSubTitle": "",
+		"newsContent": "미국 도널드 트럼프 대통령의 후천성 면역 결핍 증후군(HIV/AIDS) 분야 자문단 6명이 동반 사퇴했다.\n17일(현지시간) 시사주간지 뉴스위크에 따르면 자문단 6명은 '트럼프 대통령은 HIV에 관심이 없다. 우린 떠난다'는 제목의 공동 서한을 싣고 사퇴를 공식 선언했다.\n사퇴 이유로 현 행정부가 HIV/AIDS를 다룰만한 전략이 없으면서도 전문가들과 상의조차 하지 않고, 환자들에게 해가 될 수 있는 법안을 추진하는 것을 들었다.\n또 이 질병을 극복하는 과정에서 축적된 중요한 성과들에 역행하는 움직임을 보이고 있다고 지적했다.\n이들은 \\\"이 질병과 싸우는 데 평생을 바쳐왔는데, 이 문제에 신경을 쓰지 않는 대통령을 자문하는 것이 그다지 효과적이라고 느끼지 않는다\\\"면서 \\\"환자들에게 치명적인 부정적 영향을 미칠 공화당의 오바마 케어 폐지법안이 자문단 사퇴를 결심하지 않을 수 없게 한 사유가 됐다\\\"고 설명했다.\n이어 \\\"현 행정부가 기존 노선을 고수할 경우 자문단이 아닌 외곽에서 항의하고 변화를 요구하는 것이 더 효과적일 것\\\"이라며 \\\"건강보험 개혁에 영향을 미칠 수 있는 힘을 가진 의원들이 우리와 함께 해줄 것을 기대한다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 도널드 트럼프 대통령의 후천성 면역 결핍 증후군(HIV/AIDS) 분야 자문단 6명이 동반 사퇴했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일(현지시간) 시사주간지 뉴스위크에 따르면 자문단 6명은 '트럼프 대통령은 HIV에 관심이 없다. 우린 떠난다'는 제목의 공동 서한을 싣고 사퇴를 공식 선언했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사퇴 이유로 현 행정부가 HIV/AIDS를 다룰만한 전략이 없으면서도 전문가들과 상의조차 하지 않고, 환자들에게 해가 될 수 있는 법안을 추진하는 것을 들었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 이 질병을 극복하는 과정에서 축적된 중요한 성과들에 역행하는 움직임을 보이고 있다고 지적했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들은 \\\"이 질병과 싸우는 데 평생을 바쳐왔는데, 이 문제에 신경을 쓰지 않는 대통령을 자문하는 것이 그다지 효과적이라고 느끼지 않는다\\\"면서 \\\"환자들에게 치명적인 부정적 영향을 미칠 공화당의 오바마 케어 폐지법안이 자문단 사퇴를 결심하지 않을 수 없게 한 사유가 됐다\\\"고 설명했다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 \\\"현 행정부가 기존 노선을 고수할 경우 자문단이 아닌 외곽에서 항의하고 변화를 요구하는 것이 더 효과적일 것\\\"이라며 \\\"건강보험 개혁에 영향을 미칠 수 있는 힘을 가진 의원들이 우리와 함께 해줄 것을 기대한다\\\"고 덧붙였다.",
+				"sentenceSize": 130
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"트럼프, HIV에 관심 없다\\\" 자문단 6명 동반사퇴",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

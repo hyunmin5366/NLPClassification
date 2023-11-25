@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330118",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "베트남 해킹 조직, 도요타·현대차 망 침투해 지재권 탈취 시도",
+		"newsSubTitle": "",
+		"newsContent": "베트남 정부와 연관성이 의심되는 해킹 조직이 글로벌 자동차 제조업체 네트워크에 침투, 지식재산권(IP) 탈취를 시도한 것으로 나타났다.\n23일(현지시간) 블룸버그 통신은 보안업체 크라우드스트라이크를 인용해 'APT32'로 알려진 베트남 해킹 조직이 최근 2년간 사이버 첩보 활동을 급격히 늘렸다고 보도했다.\nAPT32는 '오션로터스' 또는 '오션버팔로'로도 불린다.\n핵심 타깃은 글로벌 자동차 산업이다.\nAPT32는 도요타와 현대차를 가장한 도메인을 개설해 네트워크에 침투하려고 시도했다.\n앞서 3월 도요타는 계열사인 '도요타 도쿄 세일즈 홀딩스'를 통해 베트남과 태국에서 공격 시도를 받았다는 사실을 발견하고 조사 결과 APT32 소행으로 결론지었다.\n현대차는 이번 APT32 공격과 관련해 “보안 이벤트로 탐지한 후 즉시 대응했다”고 밝혔다.\n크라우드스트라이크에 따르면 경제, 산업과 관련한 APT32 첩보 활동은 2012년 급격히 늘어나기 시작한 후 지난해 정점을 찍었다.\n베트남 해킹 조직은 중국 해킹 조직이 산업 기밀 유출 시 사용하는 수법을 모방하면서 정교하게 진화해 왔다.\n베트남은 러시아와 중국에 이어 사이버 역량을 확대하고 있는 국가로 꼽힌다.\nAPT32가 수행하는 사이버 첩보는 베트남 제품 향상을 위한 지재권 탈취뿐만 아니라 협상에서 경쟁 우위를 얻으려는 활동까지 아우른다.\n외국 정부기관과 기자, 반체제 인사 등도 공격 대상에 포함된다.\n최근에는 페이스북을 통해 베트남 정치에 관여하는 개인도 겨냥한 것으로 나타났다.\n타깃 이용자에 페이스북 메시지 또는 페이스북 페이지 링크를 발송하고 이용자가 사진 앨범처럼 보이는 화면을 클릭하면 멀웨어가 기기에 설치되는 식이다.\n베트남 외교부와 워싱톤 소재 베트남 주미 대사관은 이번 사안과 관련해 입장을 밝히지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "베트남 정부와 연관성이 의심되는 해킹 조직이 글로벌 자동차 제조업체 네트워크에 침투, 지식재산권(IP) 탈취를 시도한 것으로 나타났다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일(현지시간) 블룸버그 통신은 보안업체 크라우드스트라이크를 인용해 'APT32'로 알려진 베트남 해킹 조직이 최근 2년간 사이버 첩보 활동을 급격히 늘렸다고 보도했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "APT32는 '오션로터스' 또는 '오션버팔로'로도 불린다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "핵심 타깃은 글로벌 자동차 산업이다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "APT32는 도요타와 현대차를 가장한 도메인을 개설해 네트워크에 침투하려고 시도했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 3월 도요타는 계열사인 '도요타 도쿄 세일즈 홀딩스'를 통해 베트남과 태국에서 공격 시도를 받았다는 사실을 발견하고 조사 결과 APT32 소행으로 결론지었다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현대차는 이번 APT32 공격과 관련해 “보안 이벤트로 탐지한 후 즉시 대응했다”고 밝혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "크라우드스트라이크에 따르면 경제, 산업과 관련한 APT32 첩보 활동은 2012년 급격히 늘어나기 시작한 후 지난해 정점을 찍었다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "베트남 해킹 조직은 중국 해킹 조직이 산업 기밀 유출 시 사용하는 수법을 모방하면서 정교하게 진화해 왔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "베트남은 러시아와 중국에 이어 사이버 역량을 확대하고 있는 국가로 꼽힌다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "APT32가 수행하는 사이버 첩보는 베트남 제품 향상을 위한 지재권 탈취뿐만 아니라 협상에서 경쟁 우위를 얻으려는 활동까지 아우른다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "외국 정부기관과 기자, 반체제 인사 등도 공격 대상에 포함된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "최근에는 페이스북을 통해 베트남 정치에 관여하는 개인도 겨냥한 것으로 나타났다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "타깃 이용자에 페이스북 메시지 또는 페이스북 페이지 링크를 발송하고 이용자가 사진 앨범처럼 보이는 화면을 클릭하면 멀웨어가 기기에 설치되는 식이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "베트남 외교부와 워싱톤 소재 베트남 주미 대사관은 이번 사안과 관련해 입장을 밝히지 않았다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "베트남 해킹 조직, 도요타·현대차 망 침투해 지재권 탈취 시도",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

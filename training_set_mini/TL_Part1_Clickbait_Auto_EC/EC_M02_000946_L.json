@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000946",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "쿠팡 '전 상품 품절' 오류 발생",
+		"newsSubTitle": "",
+		"newsContent": "인터넷쇼핑몰 쿠팡에 전 상품이 품절되는 오류가 발생했다.\n24일 오전 10시 현재 쿠팡에 접속해 어떤 제품을 구매하려 해도 '상품이 품절되었습니다. 해당 상품을 장바구니에서 삭제 후 구매해주세요.'라는 메시지만 등장해 구매할 수 없다.\n현재 전 제품이 품절로 처리된 상태로 보인다.\n장바구니에서도 품절 상태로 떠 구매할 수 없는 상황이다.\n해당 오류는 오늘 아침부터 발생한 것으로 추정된다.\n쿠팡 관계자는 24일 미디어SR에 \\\"정확한 오류 발생 시간과 원인 등 경위를 파악하고 있다\\\"고 전했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인터넷쇼핑몰 쿠팡에 전 상품이 품절되는 오류가 발생했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 오전 10시 현재 쿠팡에 접속해 어떤 제품을 구매하려 해도 '상품이 품절되었습니다. 해당 상품을 장바구니에서 삭제 후 구매해주세요.'라는 메시지만 등장해 구매할 수 없다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재 전 제품이 품절로 처리된 상태로 보인다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "장바구니에서도 품절 상태로 떠 구매할 수 없는 상황이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 오류는 오늘 아침부터 발생한 것으로 추정된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "쿠팡 관계자는 24일 미디어SR에 \\\"정확한 오류 발생 시간과 원인 등 경위를 파악하고 있다\\\"고 전했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조달청 ‘나라장터’, 데이터관리 ‘품질인증’ 획득 ",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

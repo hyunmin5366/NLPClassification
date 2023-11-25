@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_022126",
+		"newsCategory": "연예",
+		"newsSubcategory": "방송",
+		"newsTitle": "성시경 “악플러들 반성문 소용 無, 선처 없을 것”",
+		"newsSubTitle": "",
+		"newsContent": "가수 성시경이 악성댓글에 법적대응한 근황을 밝혔다.\n성시경은 3일 개인 유튜브 채널을 통해 라이브 방송을 진행하던 중 앞서 진행한 악성댓글 유포자 고소와 관련하여 말문을 열었다.\n성시경은 “악성댓글을 남기는 몇 명의 심각한 사람, 꼭 잡고 싶은 특정인이 있는데 거의 다 왔다”며 “아이디를 바꿔서라도 계속 활동해달라. 잡을 수 있을 것 같다”고 자신했다.\n이어 그는 “미국 사이트가 개인정보를 쉽게 제공하지 않는다는 것을 알고 팬들까지 우롱하던데 나는 좀 다르다. 지금 충분히 할 수 있지만 갑자기 숨지 말고 계속해줬으면 좋겠다”고 전했다.\n그런가 하면 성시경은 “뉴스를 종합해서 내지 않지만 악플단 분들이, 교육 쪽에서 시험을 보려는 분들이 계속 반성문을 보낸다”며 “저는 처음부터 그런 것(선처)이 없다고 말했다. 나쁜 마음을 썼으니 교육 쪽에서 일하면 안된다. 나중에 깨우칠 수도 있지만 저는 안된다고 생각한다”고 단호한 입장을 밝혔다.\n한편 성시경은 지난 1월에도 악성 댓글을 단 누리꾼들을 경찰에 고소한 바 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수 성시경이 악성댓글에 법적대응한 근황을 밝혔다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "성시경은 3일 개인 유튜브 채널을 통해 라이브 방송을 진행하던 중 앞서 진행한 악성댓글 유포자 고소와 관련하여 말문을 열었다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "성시경은 “악성댓글을 남기는 몇 명의 심각한 사람, 꼭 잡고 싶은 특정인이 있는데 거의 다 왔다”며 “아이디를 바꿔서라도 계속 활동해달라. 잡을 수 있을 것 같다”고 자신했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 그는 “미국 사이트가 개인정보를 쉽게 제공하지 않는다는 것을 알고 팬들까지 우롱하던데 나는 좀 다르다. 지금 충분히 할 수 있지만 갑자기 숨지 말고 계속해줬으면 좋겠다”고 전했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그런가 하면 성시경은 “뉴스를 종합해서 내지 않지만 악플단 분들이, 교육 쪽에서 시험을 보려는 분들이 계속 반성문을 보낸다”며 “저는 처음부터 그런 것(선처)이 없다고 말했다. 나쁜 마음을 썼으니 교육 쪽에서 일하면 안된다. 나중에 깨우칠 수도 있지만 저는 안된다고 생각한다”고 단호한 입장을 밝혔다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 성시경은 지난 1월에도 악성 댓글을 단 누리꾼들을 경찰에 고소한 바 있다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "그래미 벽 높았나…방탄소년단, 그래미 후보 진출 불발",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

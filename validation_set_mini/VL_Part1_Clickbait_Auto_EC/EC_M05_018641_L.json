@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M05_018641",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융",
+		"newsTitle": "NH농협생명, 모바일에서도 보험계약대출 서비스 가능",
+		"newsSubTitle": "",
+		"newsContent": "NH농협생명은 14일 보험계약대출을 모바일 홈페이지에서도 받을 수 있도록 서비스를 확대한다고 밝혔다.\n모바일 홈페이지 보험계약대출은 간편비밀번호(PIN) 인증방식을 이용해 본인인증 편의성을 높였다.\n공동인증서를 사용하지 않고 별도 앱 설치, 가입 등 절차도 생략된다.\n본인명의 핸드폰 혹은 카카오페이 인증으로 6자리 숫자 비밀번호를 설정해 대출을 실행할 수 있다.\n농협생명은 모바일 홈페이지 보험계약대출 서비스 도입을 기념해 이벤트를 실시한다.\n보험계약대출 100만원 이상 받은 고객을 대상으로 NH포인트나 스타벅스 기프티콘을 제공할 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "NH농협생명은 14일 보험계약대출을 모바일 홈페이지에서도 받을 수 있도록 서비스를 확대한다고 밝혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "모바일 홈페이지 보험계약대출은 간편비밀번호(PIN) 인증방식을 이용해 본인인증 편의성을 높였다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공동인증서를 사용하지 않고 별도 앱 설치, 가입 등 절차도 생략된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "본인명의 핸드폰 혹은 카카오페이 인증으로 6자리 숫자 비밀번호를 설정해 대출을 실행할 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "농협생명은 모바일 홈페이지 보험계약대출 서비스 도입을 기념해 이벤트를 실시한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보험계약대출 100만원 이상 받은 고객을 대상으로 NH포인트나 스타벅스 기프티콘을 제공할 예정이다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "당근마켓, 11월 5일은 '소상공인의 날' 나흘간 캠페인 진행",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

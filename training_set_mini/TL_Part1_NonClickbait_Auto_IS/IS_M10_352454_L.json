@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352454",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "\\\"GPU도 필요한 때만 빌려쓴다\\\"...KT, 하이퍼스케일 AI 컴퓨팅 출시",
+		"newsSubTitle": "null",
+		"newsContent": "KT가 클라우드 기반의 GPU(그래픽 처리장치) 인프라 제공서비스인 '하이퍼스케일 AI(인공지능) 컴퓨팅'을 출시했다고 10일 밝혔다.\n하이퍼스케일 AI 컴퓨팅은 고비용 GPU 인프라를 동적할당 방식으로 제공하는 실사용량 기반 종량제 서비스다.\nAI 서비스 전문 기업이나 AI 개발자들은 GPU 자원을 필요할 때 원하는 용량만큼만 할당받아 사용한 뒤, 이후엔 반납하면 된다.\n실제 개발과정에서 GPU는 서비스 개발기간 전체가 아닌 데이터 분석과 모델학습 등에만 활용된다.\n하지만 GPU 시장은 특정 벤더의 독과점 이슈 등으로 비용이 높게 책정돼 인프라를 쓰려는 기업에는 부담으로 작용한다.\nAI 서비스 개발과 운용이 필요한 기업들은 자체적으로 자사 전산실에 GPU 팜(컴퓨터 서버와 운영시설을 모아놓은 곳)을 구성하거나 CSP(클라우드 서비스 공급자)로부터 고정할당 방식의 인프라 서비스를 이용한다.\n고정할당 방식은 GPU를 쓰지 않는 기간에도 비용을 내야 한다.\n하이퍼스케일 AI 컴퓨팅은 대규모 GPU 자원이 필요할 때 유용하다.\n물리적으로 한 개 서버에서 구동할 수 있는 최대 GPU 수량 이상의 GPU를 활용할 수 있다.\n특정 시점에 준비된 전체 GPU가 모두 사용되고 있어 일시적으로 자원이 부족한 상황에서도 순차적으로 작업을 처리할 수 있도록 서비스 안정성을 높인 것도 특징이다.\n개발 단계마다 필요한 자원을 확대·축소할 수 있어, 할당된 자원을 변경하기 위해 서비스를 중단하지 않고도 개발작업을 할 수 있다.\n이번 서비스는 지난 10월 밝힌 AI 인프라 솔루션 전문기업 '모레'와의 협력 결과다.\nKT와 모레는 내년 중 초대규모 GPU 팜을 구축할 예정이며, 2023년에는 전용 AI 반도체 칩을 제작해 GPU 기술 국산화를 추진한다.\nKT는 서비스 출시 기념으로 내년 2월까지 GPU 인프라를 무상제공하는 프로모션을 진행한다.\n이용을 원하는 고객은 가상머신(VM) 이용 비용만 지불하면 된다.\n윤동식 KT Cloud/IDC사업추진실장 부사장은 \\\"앞으로도 AI 전문 기업들과의 협력을 강화해 대한민국 AI 개발자들이 활발하게 활동할 수 있는 생태계를 구현하기 위해 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 클라우드 기반의 GPU(그래픽 처리장치) 인프라 제공서비스인 '하이퍼스케일 AI(인공지능) 컴퓨팅'을 출시했다고 10일 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하이퍼스케일 AI 컴퓨팅은 고비용 GPU 인프라를 동적할당 방식으로 제공하는 실사용량 기반 종량제 서비스다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AI 서비스 전문 기업이나 AI 개발자들은 GPU 자원을 필요할 때 원하는 용량만큼만 할당받아 사용한 뒤, 이후엔 반납하면 된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "실제 개발과정에서 GPU는 서비스 개발기간 전체가 아닌 데이터 분석과 모델학습 등에만 활용된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 GPU 시장은 특정 벤더의 독과점 이슈 등으로 비용이 높게 책정돼 인프라를 쓰려는 기업에는 부담으로 작용한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "AI 서비스 개발과 운용이 필요한 기업들은 자체적으로 자사 전산실에 GPU 팜(컴퓨터 서버와 운영시설을 모아놓은 곳)을 구성하거나 CSP(클라우드 서비스 공급자)로부터 고정할당 방식의 인프라 서비스를 이용한다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "고정할당 방식은 GPU를 쓰지 않는 기간에도 비용을 내야 한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하이퍼스케일 AI 컴퓨팅은 대규모 GPU 자원이 필요할 때 유용하다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "물리적으로 한 개 서버에서 구동할 수 있는 최대 GPU 수량 이상의 GPU를 활용할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특정 시점에 준비된 전체 GPU가 모두 사용되고 있어 일시적으로 자원이 부족한 상황에서도 순차적으로 작업을 처리할 수 있도록 서비스 안정성을 높인 것도 특징이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "개발 단계마다 필요한 자원을 확대·축소할 수 있어, 할당된 자원을 변경하기 위해 서비스를 중단하지 않고도 개발작업을 할 수 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이번 서비스는 지난 10월 밝힌 AI 인프라 솔루션 전문기업 '모레'와의 협력 결과다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "KT와 모레는 내년 중 초대규모 GPU 팜을 구축할 예정이며, 2023년에는 전용 AI 반도체 칩을 제작해 GPU 기술 국산화를 추진한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "KT는 서비스 출시 기념으로 내년 2월까지 GPU 인프라를 무상제공하는 프로모션을 진행한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이용을 원하는 고객은 가상머신(VM) 이용 비용만 지불하면 된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "윤동식 KT Cloud/IDC사업추진실장 부사장은 \\\"앞으로도 AI 전문 기업들과의 협력을 강화해 대한민국 AI 개발자들이 활발하게 활동할 수 있는 생태계를 구현하기 위해 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"GPU도 필요한 때만 빌려쓴다\\\"...KT, 하이퍼스케일 AI 컴퓨팅 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

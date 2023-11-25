@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332640",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "스마트폰 들기만 해도 '이용자 식별'…AI로 가능해진다",
+		"newsSubTitle": "",
+		"newsContent": "스마트폰을 들기만 해도 이용자를 식별하는 시대가 인공지능(AI) 기술로 가능해질 전망이다.\n최대선 공주대 지능보안연구실 교수는 '제26회 정보통신망 정보보호 콘퍼런스'에서 'AI 기반 인증'에 관해 발표했다.\n패스워드, 생체정보 기반 인증을 넘어 행위와 환경 기반 인증이 AI 기술에 힘입어 보편화할 것으로 봤다.\n최 교수에 따르면 AI 기반 인증은 △센서 등을 통한 데이터 수집 △수치화와 특징 추출 △데이터 전처리 △AI 모델 구축 순으로 이뤄진다.\n이용자별 특징과 주변 환경 데이터를 수집한 뒤 이를 바탕으로 AI가 이용자를 빠르고 정확하게 인증하는 구조다.\n최 교수는 “AI 기반 인증을 구현하려면 데이터 수집과 전처리 과정에 많은 노하우가 필요하다”면서 “스마트폰에 탑재된 센서를 잘 활용하면 인증에 필요한 특징을 수집할 수 있고 이를 일상적 인증 수단으로 발전시킬 수 있다”고 말했다.\n스마트폰에는 △접근성 센서 △주변광 센서 △시모스(CMOS) 이미지 센서 △위치정보시스템(GPS) 센서 △습도 센서 △온도 센서 △압력 센서 등이 탑재됐다.\n이를 통해 이용자 특징 정보를 수집, 인증까지 가능하다는 설명이다.\n다양한 데이터를 수집해야 하는 만큼 비용과 시간문제가 남아 AI 기반 인증이 당장 보편화하긴 어려워 보인다.\n최 교수는 “다양한 환경을 고려해서 데이터를 수집해야 하고 사람 수, 시차와 기간 등을 어떻게 설정하느냐에 따라 AI 기반 인증 성능이 좌우 된다”면서 “사람 생체정보와 행위, 환경이 계속해서 바뀐다는 점을 데이터 수집 시 충분히 고려해야 할 것”이라고 조언했다.\n현실적 난관도 소개했다.\n최 교수가 수행한 '무자각 인증 데이터 수집' 연구에서 피실험자는 데이터 수집을 위한 애플리케이션(앱) 설치로 인해 스마트폰 과열, 배터리 소모, 개인정보 수집 거부감, 대용량 데이터 전송 시 어려움 등을 호소했다.\n최 교수는 “이번 연구는 이용자 자각 없이 인증이 가능한지 확인하기 위한 것”이라며 “중도에 이탈하는 피실험자도 있었고 비용에 대해 불만을 토로한 피실험자도 나왔다”고 밝혔다.\n이른바 '스푸핑'으로 불리는 복제 가능성도 고려해야 한다고 조언했다.\n행위와 환경 정보를 복제할 가능성이 있고 AI 기반 인증 자체 보안만큼이나 인증이 이뤄지는 플랫폼 보안 등도 중요하기 때문이다.\n최근 확산하는 비대면 서비스 인증 시에도 이 같은 보안이 종합적으로 고려돼야 한다고 지적했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스마트폰을 들기만 해도 이용자를 식별하는 시대가 인공지능(AI) 기술로 가능해질 전망이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최대선 공주대 지능보안연구실 교수는 '제26회 정보통신망 정보보호 콘퍼런스'에서 'AI 기반 인증'에 관해 발표했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "패스워드, 생체정보 기반 인증을 넘어 행위와 환경 기반 인증이 AI 기술에 힘입어 보편화할 것으로 봤다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최 교수에 따르면 AI 기반 인증은 △센서 등을 통한 데이터 수집 △수치화와 특징 추출 △데이터 전처리 △AI 모델 구축 순으로 이뤄진다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이용자별 특징과 주변 환경 데이터를 수집한 뒤 이를 바탕으로 AI가 이용자를 빠르고 정확하게 인증하는 구조다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최 교수는 “AI 기반 인증을 구현하려면 데이터 수집과 전처리 과정에 많은 노하우가 필요하다”면서 “스마트폰에 탑재된 센서를 잘 활용하면 인증에 필요한 특징을 수집할 수 있고 이를 일상적 인증 수단으로 발전시킬 수 있다”고 말했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스마트폰에는 △접근성 센서 △주변광 센서 △시모스(CMOS) 이미지 센서 △위치정보시스템(GPS) 센서 △습도 센서 △온도 센서 △압력 센서 등이 탑재됐다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 통해 이용자 특징 정보를 수집, 인증까지 가능하다는 설명이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "다양한 데이터를 수집해야 하는 만큼 비용과 시간문제가 남아 AI 기반 인증이 당장 보편화하긴 어려워 보인다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "최 교수는 “다양한 환경을 고려해서 데이터를 수집해야 하고 사람 수, 시차와 기간 등을 어떻게 설정하느냐에 따라 AI 기반 인증 성능이 좌우 된다”면서 “사람 생체정보와 행위, 환경이 계속해서 바뀐다는 점을 데이터 수집 시 충분히 고려해야 할 것”이라고 조언했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "현실적 난관도 소개했다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "최 교수가 수행한 '무자각 인증 데이터 수집' 연구에서 피실험자는 데이터 수집을 위한 애플리케이션(앱) 설치로 인해 스마트폰 과열, 배터리 소모, 개인정보 수집 거부감, 대용량 데이터 전송 시 어려움 등을 호소했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "최 교수는 “이번 연구는 이용자 자각 없이 인증이 가능한지 확인하기 위한 것”이라며 “중도에 이탈하는 피실험자도 있었고 비용에 대해 불만을 토로한 피실험자도 나왔다”고 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이른바 '스푸핑'으로 불리는 복제 가능성도 고려해야 한다고 조언했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "행위와 환경 정보를 복제할 가능성이 있고 AI 기반 인증 자체 보안만큼이나 인증이 이뤄지는 플랫폼 보안 등도 중요하기 때문이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "최근 확산하는 비대면 서비스 인증 시에도 이 같은 보안이 종합적으로 고려돼야 한다고 지적했다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스마트폰 들기만 해도 '이용자 식별'…AI로 가능해진다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

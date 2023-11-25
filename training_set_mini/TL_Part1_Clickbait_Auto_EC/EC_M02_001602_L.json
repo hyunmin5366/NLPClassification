@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_001602",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "코니스테크, 유럽 보안규정 충족한 하드디스크 파쇄 장비 출시해 눈길",
+		"newsSubTitle": "하드디스크 파쇄 전 모든 자료를 영상으로 남기는 기록장치시스템이 설치돼 있는 점이 강점",
+		"newsContent": "하드디스크 파쇄시스템 개발사 코니스테크가 유럽의 보안규정 DIN66399 H5 기준에 맞는 하드디스크 파쇄장비를 개발, 출시한다고 31일 밝혔다.\n새로 출시하는 하드 파쇄기의 제품명은 'AX-combo', 'AX-S07D', 'MSB-01s'이다.\nDIN66399 H5 기준에 따르면, 파쇄된 입자 크기가 320mm² 보다 작아야 한다.\n하드디스크 파쇄 후의 입자 크기는 보안 기준 중 하나로, 크기가 작으면 작을수록 보안성이 우수하다.\n특히 하드디스크 파쇄 전 모든 자료를 영상으로 남기는 기록장치 시스템도 설치돼 있다는 점이 특징이다.\n코니스테크 관계자는 미디어SR에 \\\"수익금의 50% 이상을 제품 개발에 투자해 커터의 소재와 감속기 자체 컨트롤러를 개발해왔다\\\"며 \\\"자동으로 제품의 속도를 조절하는 기능을 추가하고, 인공지능(AI)을 활용해 보안을 강화했다\\\"고 설명했다.\n이 관계자는 \\\"실제 유럽 기업들은 하드디스크 파쇄 서비스 이용시 구체적인 입자 사이즈에 민감하게 반응한다\\\"며 \\\"파쇄기를 제작하는 회사는 많아도 보안을 이해하는 회사는 없다는 고객의 불만을 제품 기획에 적용해 제품 우위를 점하게 됐다\\\"고 강조했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하드디스크 파쇄시스템 개발사 코니스테크가 유럽의 보안규정 DIN66399 H5 기준에 맞는 하드디스크 파쇄장비를 개발, 출시한다고 31일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "새로 출시하는 하드 파쇄기의 제품명은 'AX-combo', 'AX-S07D', 'MSB-01s'이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "DIN66399 H5 기준에 따르면, 파쇄된 입자 크기가 320mm² 보다 작아야 한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하드디스크 파쇄 후의 입자 크기는 보안 기준 중 하나로, 크기가 작으면 작을수록 보안성이 우수하다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 하드디스크 파쇄 전 모든 자료를 영상으로 남기는 기록장치 시스템도 설치돼 있다는 점이 특징이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코니스테크 관계자는 미디어SR에 \\\"수익금의 50% 이상을 제품 개발에 투자해 커터의 소재와 감속기 자체 컨트롤러를 개발해왔다\\\"며 \\\"자동으로 제품의 속도를 조절하는 기능을 추가하고, 인공지능(AI)을 활용해 보안을 강화했다\\\"고 설명했다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 관계자는 \\\"실제 유럽 기업들은 하드디스크 파쇄 서비스 이용시 구체적인 입자 사이즈에 민감하게 반응한다\\\"며 \\\"파쇄기를 제작하는 회사는 많아도 보안을 이해하는 회사는 없다는 고객의 불만을 제품 기획에 적용해 제품 우위를 점하게 됐다\\\"고 강조했다.",
+				"sentenceSize": 141
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일감 몰아주기 대책위 출범",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

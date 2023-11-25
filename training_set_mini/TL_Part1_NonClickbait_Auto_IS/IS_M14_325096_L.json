@@ -1,0 +1,276 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325096",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "급증한 가상화폐 해킹 막는 '콜드월렛' 국산화",
+		"newsSubTitle": "",
+		"newsContent": "암호전문 스타트업 키페어(대표 이창근)가 가상화폐를 안전하게 보관하는 콜드월렛을 개발했다.\n전용 보안칩에 바이오인증까지 더한 제품이다.\n2월 양산에 들어간다.\n가상화폐 시장은 하루 거래량이 코스닥을 상회할 정도로 뜨겁다.\n가상화폐에 돈이 몰리면서 해킹도 급증했다.\n지난해 말 가상화폐 거래소 유빗이 인터넷에 연결된 전자지갑(핫월렛)에 들어있던 자산 17%를 해킹당하기도 했다.\n유빗은 인터넷과 연결되지 않은 콜드월렛에 보관한 83% 자산은 지켰다.\n대부분 국내 가상화폐 이용자는 거래소 계좌를 이용한다.\n해커는 가상화폐거래소와 같은 피싱사이트를 만들어 이용자를 속인다.\n가상화폐거래소에 접속한 것으로 착각하게 만들어 ID와 비밀번호, 일회용비밀번호(OTP)까지 탈취한 후 온라인 계좌에 담긴 가상화폐를 빼돌린다.\n해커는 갖가지 방법으로 이용자와 거래소를 노린다.\n이용자는 가상화폐를 거래하면서 해킹 불안에 시달린다.\n국내 거래소는 거래 편의를 위해 이용자에게 가상의 개인키를 제공한다.\n실제 개인키는 거래소가 보관한다.\n해커는 거래소를 해킹해 실제 개인키를 탈취한다.\n콜드월렛은 개인키를 안전하게 보관하는 가상화폐 전용지갑이다.\nPC나 스마트폰 등과 물리적으로 분리된다.\n키페어는 바이오인증 기반 콜드월렛 '키월렛 시리즈'를 개발했다.\n키월렛은 키페어가 자체 개발한 알고리듬을 디바이스 내 별도 하드웨어 기반 전용 보안칩에 적용했다.\n디바이스 자체에서 키를 생성해 서명하는 방식이다.\nPC나 스마트폰과 연결해도 해커가 진입할 수 없다.\n키 유출과 도난에 안전하다.\n해커의 부채널 공격을 방어하도록 물리적 방어책을 갖춘 가상화폐 전용 지갑이다.\n키페어는 지문인식을 적용한 토큰형 '키월렛 프로'와 근거리무선통신(NFC)로 스마트폰에 터치해 서명하는 카드타입 제품을 만들었다.\n가상화폐를 안전하게 보관하려는 개인은 물론 거래소용 제품도 내놓는다.\n이창근 키페어 대표는 “가상화폐를 노린 해킹이 늘어나면서 안전하게 보관할 방법으로 콜드월렛에 대한 관심이 높다”면서 “한국블록체인협회 준비위원회는 거래소 콜드월렛 저장비율을 70% 이상 의무화하겠다고 선언했다”고 말했다.\n이 대표는 “지금까지 콜드월렛은 수입 제품밖에 없어 구매나 사후 AS가 불편했다”면서 “키월렛 개발로 국내 시장에 콜드월렛 보급이 확산할 것”이라고 덧붙였다.\n키페어는 라스베이거스에서 열리는 CES 2018에서 키월렛을 공개하고 제품 발표회를 개최한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 28,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "암호전문 스타트업 키페어(대표 이창근)가 가상화폐를 안전하게 보관하는 콜드월렛을 개발했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전용 보안칩에 바이오인증까지 더한 제품이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2월 양산에 들어간다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가상화폐 시장은 하루 거래량이 코스닥을 상회할 정도로 뜨겁다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가상화폐에 돈이 몰리면서 해킹도 급증했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 말 가상화폐 거래소 유빗이 인터넷에 연결된 전자지갑(핫월렛)에 들어있던 자산 17%를 해킹당하기도 했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유빗은 인터넷과 연결되지 않은 콜드월렛에 보관한 83% 자산은 지켰다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "대부분 국내 가상화폐 이용자는 거래소 계좌를 이용한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해커는 가상화폐거래소와 같은 피싱사이트를 만들어 이용자를 속인다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "가상화폐거래소에 접속한 것으로 착각하게 만들어 ID와 비밀번호, 일회용비밀번호(OTP)까지 탈취한 후 온라인 계좌에 담긴 가상화폐를 빼돌린다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "해커는 갖가지 방법으로 이용자와 거래소를 노린다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이용자는 가상화폐를 거래하면서 해킹 불안에 시달린다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "국내 거래소는 거래 편의를 위해 이용자에게 가상의 개인키를 제공한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "실제 개인키는 거래소가 보관한다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "해커는 거래소를 해킹해 실제 개인키를 탈취한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "콜드월렛은 개인키를 안전하게 보관하는 가상화폐 전용지갑이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "PC나 스마트폰 등과 물리적으로 분리된다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "키페어는 바이오인증 기반 콜드월렛 '키월렛 시리즈'를 개발했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "키월렛은 키페어가 자체 개발한 알고리듬을 디바이스 내 별도 하드웨어 기반 전용 보안칩에 적용했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "디바이스 자체에서 키를 생성해 서명하는 방식이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "PC나 스마트폰과 연결해도 해커가 진입할 수 없다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "키 유출과 도난에 안전하다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "해커의 부채널 공격을 방어하도록 물리적 방어책을 갖춘 가상화폐 전용 지갑이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "키페어는 지문인식을 적용한 토큰형 '키월렛 프로'와 근거리무선통신(NFC)로 스마트폰에 터치해 서명하는 카드타입 제품을 만들었다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "가상화폐를 안전하게 보관하려는 개인은 물론 거래소용 제품도 내놓는다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "이창근 키페어 대표는 “가상화폐를 노린 해킹이 늘어나면서 안전하게 보관할 방법으로 콜드월렛에 대한 관심이 높다”면서 “한국블록체인협회 준비위원회는 거래소 콜드월렛 저장비율을 70% 이상 의무화하겠다고 선언했다”고 말했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "이 대표는 “지금까지 콜드월렛은 수입 제품밖에 없어 구매나 사후 AS가 불편했다”면서 “키월렛 개발로 국내 시장에 콜드월렛 보급이 확산할 것”이라고 덧붙였다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "키페어는 라스베이거스에서 열리는 CES 2018에서 키월렛을 공개하고 제품 발표회를 개최한다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "급증한 가상화폐 해킹 막는 '콜드월렛' 국산화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

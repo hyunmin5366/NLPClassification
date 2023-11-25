@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348232",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "갑상선암 진단 가능성 높인 AI 플랫폼 개발",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 미국 메모리얼 슬로언케터링 암센터 연구진과 함께 새로운 형태의 암 진단 인공지능(AI) 플랫폼을 개발했다.\n한국연구재단은 김성영 건국대 교수 연구팀이 메타 분석 기반 기계학습 알고리즘을 이용해 높은 신뢰도로 암을 구별할 수 있는 AI 플랫폼을 개발했다고 3일 밝혔다.\n메타분석은 유사한 주제로 실시된 개별연구에 나타난 연구 추정치를 공통된 효과크기로 전환해 실험결과를 객관적이고 일반화시키는 통계기법이다.\n개별 연구들에서 간과했던 중요한 다른 결과변수에 대한 효과 추정치를 산출할 수 있다.\n건국대 연구팀은 암 조직의 유전자 발현, 관련 생물경로를 메타분석 기반의 알고리즘을 이용해 통합하고 이를 AI를 위한 학습재료로 사용했다.\n연구팀은 기계학습 알고리즘을 메타분석과 결합시켜 보다 강건한 모델(MLMA, machine learning-based meta-analytic methods)을 구축했다.\n유전체 빅데이터는 보통‘차원의 저주‘라 불리는 고차원 문제에 직면하는데 연구팀은 비선형 주성분 분석과 생물경로를 이용한 차원축소 방법이 모델의 일반성과 해석력을 크게 끌어올리는 것을 확인했다.\n이렇게 만들어진 알고리즘을 실제 암맹 갑상선암 샘플에 검증한 결과 거의 완벽한 분류 성능을 나타냈다.\n갑상선암의 여러 아형을 테스트한 결과 높은 정확도로 이들 아형까지도 구분해냈다.\n갑상선 암은 대표적인 노화관련 질환으로 노화인자를 교정한 고위험군 분류에서도 이 모델은 탁월한 성능을 보였다.\n유전체 발현 데이터는 연구자 및 수행기관, 분석플랫폼 별로 예측인자와 모델이 상이해 메타분석 및 생물경로 기반의 알고리즘은 보다 객관적이고 해석력이 뛰어나다는 설명이다.\n실제 연구팀은 다중오믹스 분석을 통해 갑상선암 관련 생물경로의 조절인자를 찾아내 모델의 해석력을 극대화했다.\n김 교수는 “인공지능 알고리즘이 새롭게 찾아낸 핵심 갑상선암 관련 생물경로는 갑상선암 신약개발에 중요한 단초를 제공할 것”이라며 “개발된 알고리즘은 다른 암에 쉽게 확대 가능하고 딥러닝 등 결과 해석이 어려운 다른 기계학습 알고리즘과는 달리 회귀 및 경로 분석 기반의 알고리즘으로 원인 분석 및 결과의 일관성을 중시하는 임상에서 선호하는 인공지능 솔루션을 제공할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 미국 메모리얼 슬로언케터링 암센터 연구진과 함께 새로운 형태의 암 진단 인공지능(AI) 플랫폼을 개발했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국연구재단은 김성영 건국대 교수 연구팀이 메타 분석 기반 기계학습 알고리즘을 이용해 높은 신뢰도로 암을 구별할 수 있는 AI 플랫폼을 개발했다고 3일 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "메타분석은 유사한 주제로 실시된 개별연구에 나타난 연구 추정치를 공통된 효과크기로 전환해 실험결과를 객관적이고 일반화시키는 통계기법이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "개별 연구들에서 간과했던 중요한 다른 결과변수에 대한 효과 추정치를 산출할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "건국대 연구팀은 암 조직의 유전자 발현, 관련 생물경로를 메타분석 기반의 알고리즘을 이용해 통합하고 이를 AI를 위한 학습재료로 사용했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구팀은 기계학습 알고리즘을 메타분석과 결합시켜 보다 강건한 모델(MLMA, machine learning-based meta-analytic methods)을 구축했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유전체 빅데이터는 보통‘차원의 저주‘라 불리는 고차원 문제에 직면하는데 연구팀은 비선형 주성분 분석과 생물경로를 이용한 차원축소 방법이 모델의 일반성과 해석력을 크게 끌어올리는 것을 확인했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이렇게 만들어진 알고리즘을 실제 암맹 갑상선암 샘플에 검증한 결과 거의 완벽한 분류 성능을 나타냈다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "갑상선암의 여러 아형을 테스트한 결과 높은 정확도로 이들 아형까지도 구분해냈다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "갑상선 암은 대표적인 노화관련 질환으로 노화인자를 교정한 고위험군 분류에서도 이 모델은 탁월한 성능을 보였다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "유전체 발현 데이터는 연구자 및 수행기관, 분석플랫폼 별로 예측인자와 모델이 상이해 메타분석 및 생물경로 기반의 알고리즘은 보다 객관적이고 해석력이 뛰어나다는 설명이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "실제 연구팀은 다중오믹스 분석을 통해 갑상선암 관련 생물경로의 조절인자를 찾아내 모델의 해석력을 극대화했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "김 교수는 “인공지능 알고리즘이 새롭게 찾아낸 핵심 갑상선암 관련 생물경로는 갑상선암 신약개발에 중요한 단초를 제공할 것”이라며 “개발된 알고리즘은 다른 암에 쉽게 확대 가능하고 딥러닝 등 결과 해석이 어려운 다른 기계학습 알고리즘과는 달리 회귀 및 경로 분석 기반의 알고리즘으로 원인 분석 및 결과의 일관성을 중시하는 임상에서 선호하는 인공지능 솔루션을 제공할 것”이라고 말했다.",
+				"sentenceSize": 213
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "갑상선암 진단 가능성 높인 AI 플랫폼 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

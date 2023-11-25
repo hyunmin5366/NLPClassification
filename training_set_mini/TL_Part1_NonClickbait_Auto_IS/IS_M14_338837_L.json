@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338837",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "아모레퍼시픽, 직원 회삿돈 횡령 적발",
+		"newsSubTitle": "",
+		"newsContent": "아모레퍼시픽 직원들이 회삿돈을 빼돌린 것이 내부 감사에서 적발됐다.\n17일 업계에 따르면 지난 주 아모레퍼시픽은 사내 공지를 통해 일부 직원이 회삿돈을 횡령한 것이 적발됐다고 알렸다.\n이들 직원은 거래처에 상품을 공급하고 대금을 착복하거나 허위 견적서나 세금 계산서를 발행하는 방식으로 회삿돈을 가로챘다.\n또 상품권 현금화 등 편법도 활용했다.\n이들은 빼돌린 회삿돈으로 가상자산 투자와 불법 도박에 탕진했다.\n회사 내부 감사에서 이러한 사실을 적발한 아모레퍼시픽은 인사위원회를 열고 이들을 징계 처분하고 대부분 횡령금액을 환수 조치했다.\n다만 해고 등 징계 수위나 횡령 금액은 밝히지 않았다.\n아모레퍼시픽관계자는 “경찰에 고소 절차를 진행하진 않았고 내부 감사를 통해 자체 적발한 후 대부분 횡령액을 회수했다”면서 “이러한 감사 내용은 지난주 사내 공지를 통해 밝혔으며 해당 직원 징계 여부는 공개하기 어렵다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아모레퍼시픽 직원들이 회삿돈을 빼돌린 것이 내부 감사에서 적발됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "17일 업계에 따르면 지난 주 아모레퍼시픽은 사내 공지를 통해 일부 직원이 회삿돈을 횡령한 것이 적발됐다고 알렸다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들 직원은 거래처에 상품을 공급하고 대금을 착복하거나 허위 견적서나 세금 계산서를 발행하는 방식으로 회삿돈을 가로챘다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 상품권 현금화 등 편법도 활용했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들은 빼돌린 회삿돈으로 가상자산 투자와 불법 도박에 탕진했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "회사 내부 감사에서 이러한 사실을 적발한 아모레퍼시픽은 인사위원회를 열고 이들을 징계 처분하고 대부분 횡령금액을 환수 조치했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다만 해고 등 징계 수위나 횡령 금액은 밝히지 않았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아모레퍼시픽관계자는 “경찰에 고소 절차를 진행하진 않았고 내부 감사를 통해 자체 적발한 후 대부분 횡령액을 회수했다”면서 “이러한 감사 내용은 지난주 사내 공지를 통해 밝혔으며 해당 직원 징계 여부는 공개하기 어렵다”고 말했다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아모레퍼시픽, 직원 회삿돈 횡령 적발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

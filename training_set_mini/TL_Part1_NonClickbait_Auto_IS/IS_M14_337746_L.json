@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337746",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "비트코인 가격 상승하자, \\\"北 추정 해커, 암호화폐 거래소 공격\\\"",
+		"newsSubTitle": "",
+		"newsContent": "비트코인 가격이 연일 상승 움직임을 보이자 북한 추적 사이버공격 집단이 한국 암화화폐 거래소를 노린다.\n암호화폐 거래소, 정부를 사칭하는 등 다양한 방법을 동원해 지능형지속위협(APT)공격을 시도한다. 28일 이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 북한 추정 사이버 공격집단 '김수키(Kimsuky)'조직이 한국 암호화폐 거래소를 대상으로 APT공격을 일삼는다고 밝혔다.\n김수키는 북한 추정 사이버 공격 해킹조직으로 안보·외교·통일 관련 분야 정보를 노린다.\n이들 조직은 금일에만 한국 유명 암호화폐 거래소 이벤트 경품 수령 안내 사칭 메일뿐 아니라 경찰청 사이버 안전국 사칭 스피어 피싱까지 다양한 공격을 시도했다.\n한국 암호화폐 거래소 조작 이메일은 이벤트 당첨 사실 등을 알리는 내용으로 정교한 한국어를 구사한다.\n이메일에는 '이벤트 당첨자 개인정보 수집 및 이용 동의 안내서.hwp' 이름의 악성 문서 파일이 첨부됐다.\n해당 첨부파일을 열면 특정 명령제어 서버로 접속해 추가 악성 파일을 다운로드한다.\n공격자 의도에 따라 다양한 피해가 예상된다.\n경찰청 사이버 안전국을 사칭한 스피어 피싱 공격도 마찬가지다.\n이스트시큐리티는 해당 공격이 암호화폐 거래소 이벤트 사칭 APT 공격과 연장선에 있으며 '김수키'조직이 연루된 것으로 파악했다.\n공격에 사용된 이메일은 사이버 안전국 민원 안내 메일처럼 정교하게 조작됐다.\n이메일 본문에는 암호화폐 해킹 피해 문의에 대한 내용과 답변처럼 꾸며져 있다.\n경찰서에서 컴퓨터 검사 프로그램을 보내는 것처럼 구성했다.\n첨부된 압축 파일명은 '사이버안전국.egg' 이며, 압축 해제 후 실행을 유도한다.\n압축 내부에는 '사이버안전국.exe' 악성 파일이 포함 됐다.\n해당 파일 실행시 감염자 정보 등을 수집·저장하고, 공격자가 지정한 특정 한메일 계정으로 정보를 전송한다.\n문종현 이스트시큐리티 이사는 “비트코인이 1000만원을 돌파하면서 암호화폐를 노린 공격도 다시 기승을 부린다”면서 “향후에도 비슷한 공격이 지속 나타날 것으로 예상되는 만큼 이메일 열람 시 본문링크, 첨부파일 등 확인에 주의가 필요하다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "비트코인 가격이 연일 상승 움직임을 보이자 북한 추적 사이버공격 집단이 한국 암화화폐 거래소를 노린다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "암호화폐 거래소, 정부를 사칭하는 등 다양한 방법을 동원해 지능형지속위협(APT)공격을 시도한다. 28일 이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 북한 추정 사이버 공격집단 '김수키(Kimsuky)'조직이 한국 암호화폐 거래소를 대상으로 APT공격을 일삼는다고 밝혔다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김수키는 북한 추정 사이버 공격 해킹조직으로 안보·외교·통일 관련 분야 정보를 노린다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이들 조직은 금일에만 한국 유명 암호화폐 거래소 이벤트 경품 수령 안내 사칭 메일뿐 아니라 경찰청 사이버 안전국 사칭 스피어 피싱까지 다양한 공격을 시도했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국 암호화폐 거래소 조작 이메일은 이벤트 당첨 사실 등을 알리는 내용으로 정교한 한국어를 구사한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이메일에는 '이벤트 당첨자 개인정보 수집 및 이용 동의 안내서.hwp' 이름의 악성 문서 파일이 첨부됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해당 첨부파일을 열면 특정 명령제어 서버로 접속해 추가 악성 파일을 다운로드한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공격자 의도에 따라 다양한 피해가 예상된다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "경찰청 사이버 안전국을 사칭한 스피어 피싱 공격도 마찬가지다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이스트시큐리티는 해당 공격이 암호화폐 거래소 이벤트 사칭 APT 공격과 연장선에 있으며 '김수키'조직이 연루된 것으로 파악했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "공격에 사용된 이메일은 사이버 안전국 민원 안내 메일처럼 정교하게 조작됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이메일 본문에는 암호화폐 해킹 피해 문의에 대한 내용과 답변처럼 꾸며져 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "경찰서에서 컴퓨터 검사 프로그램을 보내는 것처럼 구성했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "첨부된 압축 파일명은 '사이버안전국.egg' 이며, 압축 해제 후 실행을 유도한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "압축 내부에는 '사이버안전국.exe' 악성 파일이 포함 됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "해당 파일 실행시 감염자 정보 등을 수집·저장하고, 공격자가 지정한 특정 한메일 계정으로 정보를 전송한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "문종현 이스트시큐리티 이사는 “비트코인이 1000만원을 돌파하면서 암호화폐를 노린 공격도 다시 기승을 부린다”면서 “향후에도 비슷한 공격이 지속 나타날 것으로 예상되는 만큼 이메일 열람 시 본문링크, 첨부파일 등 확인에 주의가 필요하다”고 말했다.",
+				"sentenceSize": 138
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비트코인 가격 상승하자, \\\"北 추정 해커, 암호화폐 거래소 공격\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

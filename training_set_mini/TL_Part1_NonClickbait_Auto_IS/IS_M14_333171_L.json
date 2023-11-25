@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333171",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "드림시큐리티 '매직 FIDO2', 글로벌 공식인증 획득",
+		"newsSubTitle": "",
+		"newsContent": "암호기술 전문기업 드림시큐리티(대표 범진규)는 생체정보기반 간편인증솔루션 '매직FIDO2'가 국제생체인증표준협회 인증을 획득했다고 30일 밝혔다.\n이전 버전 매직FIDO 공식인증 이후 2년 8개월 만이다.\n매직FIDO2는 모바일 표준을 포함해 모든 웹환경에서 서비스가 가능하도록 W3C 인증표준을 지원한다.\n이번 글로벌 공식인증으로 드림시큐리티는 스마트폰 뿐 아니라 PC 환경에서도 안전하고 간편한 생체인증솔루션을 제공할 수 있게 됐다.\n지문·얼굴·홍채 등 단말기에서 제공하는 생체인증과 음성·PIN·패턴 등 로컬인증 등 다양한 인증 방식과 수단을 제공한다.\n매직FIDO2는 사용자 인증서와 생체정보를 연계해 전자서명 기능도 제공한다.\n한국인터넷진흥원(KISA) 생체정보 연계 구현가이드라인을 준용해 FIDO 기술과 PKI 인증서 전자서명 기술을 결합했다.\n사용자는 인증서 비밀번호 대신 생체정보를 활용하고 인증서비스 제공자는 한층 강화된 인증방식과 인증서 기반 업무처리를 할 수 있다.\n드림시큐리티 관계자는 “모바일 환경에 제한적으로 사용되던 FIDO기술이 다양한 OS, 브라우저, 디바이스에서 사용 가능하다”면서 “독립 인증시스템 운영부터 클라우드 환경 인프라까지 지원해 효율적이고 안정적 인증시스템 운영을 보장한다”고 말했다.\n드림시큐리티는 최근 열린 사물인터넷 국제전시회에 스마트폰 기반 안면인증 플랫폼 '페이스원(FaceOne)'을 출품했다.\n페이스원은 안면정보를 암호화 처리 후 서버에 등록하고 사용자 얼굴을 비교해 인증한다.\n단말기에 생체정보를 저장하는 FIDO 방식과 차이가 있다.\n드림시큐리티는 “출퇴근 및 출입통제와 같이 사후 감사를 위해 생체정보가 별도 서버에 저장이 요구되는 시장 수요를 반영했다”면서 “생체인증 선도기업으로서 제품 포트폴리오를 강화하기 위한 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "암호기술 전문기업 드림시큐리티(대표 범진규)는 생체정보기반 간편인증솔루션 '매직FIDO2'가 국제생체인증표준협회 인증을 획득했다고 30일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이전 버전 매직FIDO 공식인증 이후 2년 8개월 만이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매직FIDO2는 모바일 표준을 포함해 모든 웹환경에서 서비스가 가능하도록 W3C 인증표준을 지원한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 글로벌 공식인증으로 드림시큐리티는 스마트폰 뿐 아니라 PC 환경에서도 안전하고 간편한 생체인증솔루션을 제공할 수 있게 됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지문·얼굴·홍채 등 단말기에서 제공하는 생체인증과 음성·PIN·패턴 등 로컬인증 등 다양한 인증 방식과 수단을 제공한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매직FIDO2는 사용자 인증서와 생체정보를 연계해 전자서명 기능도 제공한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국인터넷진흥원(KISA) 생체정보 연계 구현가이드라인을 준용해 FIDO 기술과 PKI 인증서 전자서명 기술을 결합했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사용자는 인증서 비밀번호 대신 생체정보를 활용하고 인증서비스 제공자는 한층 강화된 인증방식과 인증서 기반 업무처리를 할 수 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "드림시큐리티 관계자는 “모바일 환경에 제한적으로 사용되던 FIDO기술이 다양한 OS, 브라우저, 디바이스에서 사용 가능하다”면서 “독립 인증시스템 운영부터 클라우드 환경 인프라까지 지원해 효율적이고 안정적 인증시스템 운영을 보장한다”고 말했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "드림시큐리티는 최근 열린 사물인터넷 국제전시회에 스마트폰 기반 안면인증 플랫폼 '페이스원(FaceOne)'을 출품했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "페이스원은 안면정보를 암호화 처리 후 서버에 등록하고 사용자 얼굴을 비교해 인증한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "단말기에 생체정보를 저장하는 FIDO 방식과 차이가 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "드림시큐리티는 “출퇴근 및 출입통제와 같이 사후 감사를 위해 생체정보가 별도 서버에 저장이 요구되는 시장 수요를 반영했다”면서 “생체인증 선도기업으로서 제품 포트폴리오를 강화하기 위한 것”이라고 밝혔다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "드림시큐리티 '매직 FIDO2', 글로벌 공식인증 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328864",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "인스피언, 대학IT관리자협의회에 로그관리 대책 발표",
+		"newsSubTitle": "전국대학IT관리자협의회 주최 심포지엄 참가, 최신 업계 동향 및 기술 소개 보안 및 업무 시스템에 대한 로그의 통합 운영관리 필요성 및 주요 동향",
+		"newsContent": "데이터 보안솔루션 전문 업체 인스피언(대표 최정규)은 전국대학IT관리자협의회가 개최한 춘계심포지엄에 참가, '빅데이터 시대의 로그관리'를 주제로 발표했다고 28일 밝혔다.\n심포지엄에서 인스피언은 보안 및 업무시스템, SAP시스템 등 학사 운영에 필수적인 시스템에서 어떻게 통합로그 관리를 해야 하는지에 대한 방법론을 제시했다.\n특히 인스피언은 일부 대학에서 아직도 개별 시스템 단위로 로그관리를 하거나 노후화된 기능의 로그관리 시스템을 운영 중이라고 지적하며 통합로그 시스템 도입 필요성을 강조했다.\n개인정보 법령 변경에 따른 개인정보 접속기록 처리 범위를 소개하고 SAP 개인정보 접속기록에 대한 주요 대학 구축 사례도 함께 소개했다.\n이밖에 최근 잇따라 발생되는 업무목적 외 개인정보 무단열람과 다운로드 사례 등을 제시하며 정부의 개인정보 안전성 확보조치 기준이 강화됐다는 점을 강조했다.\n신동하 인스피언 상무는 “인스피언은 SAP ERP를 위한 암호화, 접근제어, 개인정보 접속로그 솔루션을 개발한 보안 전문 회사”라며 “주요 교육기관들이 효율적이고 안전하게 로그관리를 할 수 있도록 지원 하겠다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "데이터 보안솔루션 전문 업체 인스피언(대표 최정규)은 전국대학IT관리자협의회가 개최한 춘계심포지엄에 참가, '빅데이터 시대의 로그관리'를 주제로 발표했다고 28일 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "심포지엄에서 인스피언은 보안 및 업무시스템, SAP시스템 등 학사 운영에 필수적인 시스템에서 어떻게 통합로그 관리를 해야 하는지에 대한 방법론을 제시했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 인스피언은 일부 대학에서 아직도 개별 시스템 단위로 로그관리를 하거나 노후화된 기능의 로그관리 시스템을 운영 중이라고 지적하며 통합로그 시스템 도입 필요성을 강조했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "개인정보 법령 변경에 따른 개인정보 접속기록 처리 범위를 소개하고 SAP 개인정보 접속기록에 대한 주요 대학 구축 사례도 함께 소개했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이밖에 최근 잇따라 발생되는 업무목적 외 개인정보 무단열람과 다운로드 사례 등을 제시하며 정부의 개인정보 안전성 확보조치 기준이 강화됐다는 점을 강조했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신동하 인스피언 상무는 “인스피언은 SAP ERP를 위한 암호화, 접근제어, 개인정보 접속로그 솔루션을 개발한 보안 전문 회사”라며 “주요 교육기관들이 효율적이고 안전하게 로그관리를 할 수 있도록 지원 하겠다”고 밝혔다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인스피언, 대학IT관리자협의회에 로그관리 대책 발표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

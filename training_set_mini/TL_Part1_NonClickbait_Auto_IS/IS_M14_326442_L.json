@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326442",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "게임",
+		"newsTitle": "네이버 제2데이터센터, '세종'이 품었다",
+		"newsSubTitle": "",
+		"newsContent": "네이버가 제2 데이터센터 부지로 세종특별자치시를 선정했다.\n네이버비즈니스플랫폼은 26일 홈페이지를 통해 “컨설턴트 자문과 경영진, 실무진의 의견, 당사의 경영계획 등을 기반으로 세종특별자치시 제안 부지를 우선 협상 부지로 선정했다”고 밝혔다.\n네이버는 2022년까지 제2데이터센터를 완공할 계획이다.\n네이버는 올해 하반기 클라우드 서비스를 담당할 데이터센터 부지를 공모했다.\n154개 의향서가 접수됐다.\n네이버는 총 96개 제안서를 받아 일반 요건 분석 결과에 따라 10개 후보 부지를 선정했다.\n10월 7일부터 10월 18일에 걸쳐 후보 부지 실사를 진행했다.\n항공 정밀 촬영에 의한 부지 환경 분석, 인문 환경 분석, 필수요건 재검토 작업 등을 거쳤다.\n네이버 관계자는 “후보 부지 10개 모두 풍부한 인프라와 제안자 사업 의지, 훌륭한 물리적 환경 등을 갖춘 부지로 분석했다”면서 “우선 협상 부지 제안자와 당사의 IDC 건립에 관한 협의를 이어갈 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 제2 데이터센터 부지로 세종특별자치시를 선정했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버비즈니스플랫폼은 26일 홈페이지를 통해 “컨설턴트 자문과 경영진, 실무진의 의견, 당사의 경영계획 등을 기반으로 세종특별자치시 제안 부지를 우선 협상 부지로 선정했다”고 밝혔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버는 2022년까지 제2데이터센터를 완공할 계획이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버는 올해 하반기 클라우드 서비스를 담당할 데이터센터 부지를 공모했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "154개 의향서가 접수됐다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네이버는 총 96개 제안서를 받아 일반 요건 분석 결과에 따라 10개 후보 부지를 선정했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "10월 7일부터 10월 18일에 걸쳐 후보 부지 실사를 진행했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "항공 정밀 촬영에 의한 부지 환경 분석, 인문 환경 분석, 필수요건 재검토 작업 등을 거쳤다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네이버 관계자는 “후보 부지 10개 모두 풍부한 인프라와 제안자 사업 의지, 훌륭한 물리적 환경 등을 갖춘 부지로 분석했다”면서 “우선 협상 부지 제안자와 당사의 IDC 건립에 관한 협의를 이어갈 것”이라고 말했다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버 제2데이터센터, '세종'이 품었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

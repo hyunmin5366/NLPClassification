@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329509",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "CES에 우리나라 대기업은 무엇을 선보였나",
+		"newsSubTitle": "",
+		"newsContent": "CES2019에 참가한 국내 기업을 소개하는 한국전자IT산업 융합 전시회가 29일 서울 중구 동대문디자인플라자에서 열렸다.\n관람객이 LG전자의 롤러블TV 'LG 시그니처 올레드 R'을 살펴보고 있다.\n어린이가 삼성전자의 '디지털콕핏 2019'를 체험하고 있다.\n관람객이 삼성전자의 보행보조 웨어러블 로봇 'GEMS'를 살펴보고 있다.\n관람객이 SK텔레콤의 '옥수수 소셜VR'을 체험하고 있다.\n관람객이 SK텔레콤의 AI기반 음악플랫폼 'FLO'를 체험하고 있다.\n관람객이 네이버 랩스의 로봇팔 '엠비덱스'와 어깨동무를 하며 셀피를 남기고 있다.\n석상옥 네이버랩스 헤드가 '엠비덱스'를 소개하고 있다.\n관람객이 코웨이의 K메디컬 테라피 체험을 하고 있다.\n관람객이 코웨이의 AI스피커와 연동되는 가전제품을 살펴보고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "CES2019에 참가한 국내 기업을 소개하는 한국전자IT산업 융합 전시회가 29일 서울 중구 동대문디자인플라자에서 열렸다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "관람객이 LG전자의 롤러블TV 'LG 시그니처 올레드 R'을 살펴보고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "어린이가 삼성전자의 '디지털콕핏 2019'를 체험하고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "관람객이 삼성전자의 보행보조 웨어러블 로봇 'GEMS'를 살펴보고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "관람객이 SK텔레콤의 '옥수수 소셜VR'을 체험하고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "관람객이 SK텔레콤의 AI기반 음악플랫폼 'FLO'를 체험하고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "관람객이 네이버 랩스의 로봇팔 '엠비덱스'와 어깨동무를 하며 셀피를 남기고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "석상옥 네이버랩스 헤드가 '엠비덱스'를 소개하고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "관람객이 코웨이의 K메디컬 테라피 체험을 하고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "관람객이 코웨이의 AI스피커와 연동되는 가전제품을 살펴보고 있다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "CES에 우리나라 대기업은 무엇을 선보였나",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

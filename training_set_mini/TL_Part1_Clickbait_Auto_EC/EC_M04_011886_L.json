@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011886",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "코레일, 남도해양열차 내달 운행",
+		"newsSubTitle": "매일 1회 왕복",
+		"newsContent": "남도의 맛과 멋, 문화의 향기를 느낄 수 있는 새로운 개념의 '남도해양관광열차' 가 오는 9월 첫 선을 보인다.\n코레일은 '남도해양관광열차'(S-train, 이하 S-트레인) 운영계획을 확정하고 오는 9월부터 운행에 들어가는 거북선 형태의 기차 디자인을 공개했다. 'S-트레인'은 4월 첫 선을 보인 중부내륙관광열차 OㆍV-트레인에 이어 코레일이 추진하는 5대 관광벨트 중 두 번째 선보이는 열차다. 'S-트레인'은 내달 10일 개통식을 시작으로 시승행사 등을 거쳐, 9월 27일부터 본격적인 상업운행에 들어간다.\n열차는 기관차와 5량의 객차 218석으로 구성됐으며, 부산에서 여수엑스포, 광주에서 마산 구간 등 2편성이 매일 1회씩 왕복한다.\n부산발 열차의 운행구간은 부산, 구포, 진영, 창원중앙, 마산, 진주, 북천, 하동, 순천, 여천, 여수엑스포의 250.7㎞이며, 광주발 열차는 광주, 광주송정, 남평, 보성, 득량, 벌교, 순천, 하동, 북천, 진주, 마산의 261.4㎞ 구간을 오간다.\n운행시간은 편도 4시간 30분 정도 소요된다.\nS-트레인의 기관차는 거북선의 이미지로, 객실 5량은 쪽빛, 동백꽃, 거북선, 학을 모티브로 힐링실, 가족실, 카페실, 다례실, 레포츠실 등으로 꾸며졌으며 특히 다례실은 우리나라 열차에는 처음으로 좌식이 도입됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "남도의 맛과 멋, 문화의 향기를 느낄 수 있는 새로운 개념의 '남도해양관광열차' 가 오는 9월 첫 선을 보인다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코레일은 '남도해양관광열차'(S-train, 이하 S-트레인) 운영계획을 확정하고 오는 9월부터 운행에 들어가는 거북선 형태의 기차 디자인을 공개했다. 'S-트레인'은 4월 첫 선을 보인 중부내륙관광열차 OㆍV-트레인에 이어 코레일이 추진하는 5대 관광벨트 중 두 번째 선보이는 열차다. 'S-트레인'은 내달 10일 개통식을 시작으로 시승행사 등을 거쳐, 9월 27일부터 본격적인 상업운행에 들어간다.",
+				"sentenceSize": 224
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "열차는 기관차와 5량의 객차 218석으로 구성됐으며, 부산에서 여수엑스포, 광주에서 마산 구간 등 2편성이 매일 1회씩 왕복한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부산발 열차의 운행구간은 부산, 구포, 진영, 창원중앙, 마산, 진주, 북천, 하동, 순천, 여천, 여수엑스포의 250.7㎞이며, 광주발 열차는 광주, 광주송정, 남평, 보성, 득량, 벌교, 순천, 하동, 북천, 진주, 마산의 261.4㎞ 구간을 오간다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "운행시간은 편도 4시간 30분 정도 소요된다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "S-트레인의 기관차는 거북선의 이미지로, 객실 5량은 쪽빛, 동백꽃, 거북선, 학을 모티브로 힐링실, 가족실, 카페실, 다례실, 레포츠실 등으로 꾸며졌으며 특히 다례실은 우리나라 열차에는 처음으로 좌식이 도입됐다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "참신한 아이디어 예비 창업자 다 모여!",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

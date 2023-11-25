@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330064",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW교육",
+		"newsTitle": "가천대-전자신문, 3기 인공지능 최고위 과정 모집",
+		"newsSubTitle": "",
+		"newsContent": "가천대(총장 이길여)와 전자신문사가 3기 인공지능(AI) 최고위 과정을 함께할 최고경영자(CEO)급 원우를 모집한다.\n이 과정은 4차 산업혁명 핵심 기술 인공지능(AI)을 활용한 새로운 솔루션 서비스를 이해해 인공지능 시대 비즈니스 모델을 준비할 수 있는 기회를 제공한다.\n총 13주간 △4차 산업혁명 시대 글로벌 경영환경과 리더십 △글로벌 인공지능 전략 및 빅데이터 분석을 통한 활용 △인공지능 솔루션 구축과 서비스 전략 강연과 인공지능 비즈니스 워크숍 등으로 진행된다.\n강사진은 김용수 과기정통부 차관, 백만기 산업통상자원부 R&D전략기획단장, 박명순 SK텔레콤 AI사업 유닛장, 송세경 퓨처로봇 대표 등 혁신 현장을 지휘하는 산·학·연·관 최고 전문가가 인사이트를 전달한다.\n교육기간은 9월 12일부터 12월 19일까지이며 매주 수요일 저녁 수업이 진행된다.\n모집인원은 30명 내외로 지원자격은 기업 최고경영자, 최고인공지능책임자, 최고정보관리책임자다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가천대(총장 이길여)와 전자신문사가 3기 인공지능(AI) 최고위 과정을 함께할 최고경영자(CEO)급 원우를 모집한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 과정은 4차 산업혁명 핵심 기술 인공지능(AI)을 활용한 새로운 솔루션 서비스를 이해해 인공지능 시대 비즈니스 모델을 준비할 수 있는 기회를 제공한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "총 13주간 △4차 산업혁명 시대 글로벌 경영환경과 리더십 △글로벌 인공지능 전략 및 빅데이터 분석을 통한 활용 △인공지능 솔루션 구축과 서비스 전략 강연과 인공지능 비즈니스 워크숍 등으로 진행된다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "강사진은 김용수 과기정통부 차관, 백만기 산업통상자원부 R&D전략기획단장, 박명순 SK텔레콤 AI사업 유닛장, 송세경 퓨처로봇 대표 등 혁신 현장을 지휘하는 산·학·연·관 최고 전문가가 인사이트를 전달한다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "교육기간은 9월 12일부터 12월 19일까지이며 매주 수요일 저녁 수업이 진행된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모집인원은 30명 내외로 지원자격은 기업 최고경영자, 최고인공지능책임자, 최고정보관리책임자다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가천대-전자신문, 3기 인공지능 최고위 과정 모집",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

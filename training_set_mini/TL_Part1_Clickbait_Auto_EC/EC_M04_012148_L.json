@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012148",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "대전지역 경기개선 다소 둔화",
+		"newsSubTitle": "제조업 생산감소·전세값 오름세 영향",
+		"newsContent": "취업자수 증가폭의 확대에도 불구하고 제조업 생산의 감소세 확대와 전세가격의 오름세가 지속되면서 대전지역 경기 개선이 다소 둔화됐다.\n한국은행 대전충남본부의 '최근의 대전·충남지역 실물경제 동향'을 보면 지난 8월중 대전지역 제조업 생산은 전자·영상·통신장비 등의 증가에도 불구하고 담배가 28.3%나 감소하면서 감소세가 전월 2.2%에서 5.5%로 확대됐다.\n출하는 전월 1.3% 감소에서 0.1% 증가로 전환됐지만, 재고는 전월 1.8%에서 2.5%로 증가세가 확대됐다.\n지속적인 폭염의 영향으로 여름상품 판매가 증가하면서 8월중 대형소매점 판매액지수는 전월 3.1%감소에서 2.5% 증가로 회복했지만, 전통시장 업황 BSI는 전월 59.8보다 떨어진 43.5를 기록했다.\n8월중 대전지역의 건설착공면적은 전월 26.3%증가에서 13.6%감소로 돌아섰다.\n8월중 대전지역의 취업자수는 전월 2700명에서 57000명으로 큰폭으로 늘었고, 실업률도 지난해 같은 기간에 비해 1.0%p하락한 2.4%를 기록했다.\n9월중 대전지역 소비자 물가는 전월 1.2%에서 0.6%로 상승세가 둔화된 반면, 주택전세가격은 아파트를 중심으로 지난달과 같은 0.4%상승을 이어갔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "취업자수 증가폭의 확대에도 불구하고 제조업 생산의 감소세 확대와 전세가격의 오름세가 지속되면서 대전지역 경기 개선이 다소 둔화됐다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전충남본부의 '최근의 대전·충남지역 실물경제 동향'을 보면 지난 8월중 대전지역 제조업 생산은 전자·영상·통신장비 등의 증가에도 불구하고 담배가 28.3%나 감소하면서 감소세가 전월 2.2%에서 5.5%로 확대됐다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "출하는 전월 1.3% 감소에서 0.1% 증가로 전환됐지만, 재고는 전월 1.8%에서 2.5%로 증가세가 확대됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지속적인 폭염의 영향으로 여름상품 판매가 증가하면서 8월중 대형소매점 판매액지수는 전월 3.1%감소에서 2.5% 증가로 회복했지만, 전통시장 업황 BSI는 전월 59.8보다 떨어진 43.5를 기록했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "8월중 대전지역의 건설착공면적은 전월 26.3%증가에서 13.6%감소로 돌아섰다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "8월중 대전지역의 취업자수는 전월 2700명에서 57000명으로 큰폭으로 늘었고, 실업률도 지난해 같은 기간에 비해 1.0%p하락한 2.4%를 기록했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "9월중 대전지역 소비자 물가는 전월 1.2%에서 0.6%로 상승세가 둔화된 반면, 주택전세가격은 아파트를 중심으로 지난달과 같은 0.4%상승을 이어갔다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "역사적 신고점·천스닥 시대 \\\"주도 업종은 없다…무조건 실적 각개전투\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354256",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "시스템 고치다 고객정보 유출...아디다스 코리아에 '과태료 1500만원'",
+		"newsSubTitle": "null",
+		"newsContent": "개인정보처리 시스템을 개선하던 중 담당자 실수로 고객 개인정보를 외부로 유출한 아디다스코리아에 과태료가 부과됐다.\n개인정보보호위원회는 11일 전체회의를 열고 개인정보보호법을 위반한 5개 사업자에게 과징금 총 2933만원과 과태료 3240만원 등 처분을 의결했다.\n처분대상 사업자는 △지티지엔터프라이즈 △예스콜닷컴 △아디다스코리아 △리얼마케팅 △트렌비 등이다.\n개인정보위에 따르면 아디다스코리아는 유출 후 이용자 신고로 개인정보 유출사실을 인지했으며, 유출 후 24시간 내에 이용자에게 통지하지도 않았다.\n개인정보위는 과태료 1500만원과 시정명령, 결과공표 등 조치를 내렸다.\n지티지엔터프라이즈도 개인정보처리시스템을 운영하면서 안전한 인증수단을 적용하거나 접근권한을 IP(인터넷 주소) 기반으로 제한하는 등 관리의무를 다하지 않아 개인정보가 유출됐다.\n이에 과징금 1655만원과 과태료 420만원 등이 부과됐다.\n예스콜닷컴과 리얼마케팅, 트렌비 역시 안전조치가 부실했던 것으로 조사됐다.\n윤정태 개인정보위 조사2과장은 \\\"개인정보를 처리하는 사업자는 개인정보 유출 사고가 일어나지 않도록 상시 점검해야 한다\\\"며 \\\"유출 사고가 일어나면 2차 피해를 방지할 수 있도록 피해자들에게 유출 사실을 통지해야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개인정보처리 시스템을 개선하던 중 담당자 실수로 고객 개인정보를 외부로 유출한 아디다스코리아에 과태료가 부과됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "개인정보보호위원회는 11일 전체회의를 열고 개인정보보호법을 위반한 5개 사업자에게 과징금 총 2933만원과 과태료 3240만원 등 처분을 의결했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "처분대상 사업자는 △지티지엔터프라이즈 △예스콜닷컴 △아디다스코리아 △리얼마케팅 △트렌비 등이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "개인정보위에 따르면 아디다스코리아는 유출 후 이용자 신고로 개인정보 유출사실을 인지했으며, 유출 후 24시간 내에 이용자에게 통지하지도 않았다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개인정보위는 과태료 1500만원과 시정명령, 결과공표 등 조치를 내렸다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지티지엔터프라이즈도 개인정보처리시스템을 운영하면서 안전한 인증수단을 적용하거나 접근권한을 IP(인터넷 주소) 기반으로 제한하는 등 관리의무를 다하지 않아 개인정보가 유출됐다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 과징금 1655만원과 과태료 420만원 등이 부과됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "예스콜닷컴과 리얼마케팅, 트렌비 역시 안전조치가 부실했던 것으로 조사됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "윤정태 개인정보위 조사2과장은 \\\"개인정보를 처리하는 사업자는 개인정보 유출 사고가 일어나지 않도록 상시 점검해야 한다\\\"며 \\\"유출 사고가 일어나면 2차 피해를 방지할 수 있도록 피해자들에게 유출 사실을 통지해야 한다\\\"고 말했다.",
+				"sentenceSize": 130
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시스템 고치다 고객정보 유출...아디다스 코리아에 '과태료 1500만원'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

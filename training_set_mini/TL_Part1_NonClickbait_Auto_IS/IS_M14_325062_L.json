@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325062",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[단독]北 '라자루스', 한수원 문서 사칭해 대남 사이버공격 활개",
+		"newsSubTitle": "",
+		"newsContent": "북한 정부가 배후로 추정되는 해킹조직 '라자루스'가 한국수력원자력 문서를 사칭해 사이버공격에 나섰다.\n코로나19로 혼란스런 정국을 악용, 지능형지속위협(APT) 공격을 확대한다. 27일 업계에 따르면 한수원 문서를 사칭한 사이버공격이 포착됐다.\n이 같은 공격 배후로는 라자루스가 지목된다.\n이 문서를 유포해 침해하려는 대상이 실제 한수원인지는 아직 확인되지 않았다.\n공격자는 '2020년 연구·전문원 및 수자원분야 경력사원 선발 모집요강'이라는 제목으로 악성 문서를 제작했다.\n지난해 한수원에서 실제 배포한 채용 관련 문서(PDF)를 참고해 한글 문서로 만들었다.\n문서 내용으로는 선발분야별 선발인원과 주요 수행 업무를 명시했다.\n이 문서를 다운로드할 경우 악성코드에 감염, 정보가 공격자에게 유출된다.\n라자루스가 코로나19 사태 속 APT 공격을 확대하고 있다는 분석은 보안업계에서 여러 차례 제기됐다.\n이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 최근 발견된 APT 공격 가운데 라자루스가 배후로 추정되는 공격은 △블록체인 소프트웨어(SW) 개발 계약서 △한미관계와 외교안보 관련 문서 △항공우주기업 채용 관련 문서 △모 광역시 코로나 바이러스 대응 관련 문서 △성착취물 유포사건 출석통지서 등이 포함된다.\n라자루스는 최근 국내뿐만 아니라 미국 등 국제사회에서 APT 공격을 확대하는 중이다.\n첩보 활동과 함께 금전 목적을 위한 외화벌이 활동도 꾸준히 늘리는 추세다.\n라자루스가 제작한 악성 워드 문서는 명령제어(C2) 서버가 같다는 공통점이 있다.\n해외 기관과 기업 공격 시 채용 의뢰와 직무 기술서로 위장한 이메일로 공격을 감행하는 일관성도 보인다.\n문종현 ESRC 센터장은 “라자루스 그룹은 한국과 미국을 주로 공격하는 대표 위협 행위자로 사이버 침투 작전과 함께 온라인 은행, 비트코인 거래소 해킹 등을 통한 외화벌이를 조직적으로 수행하고 있다”면서 “악성파일을 미끼로 주요 기업과 기관 종사자를 노리며 최근 위협 활동이 눈에 띄게 증가, 각별한 주의가 요구된다”고 말했다.\n라자루스는 김수키, 코니, 금성121 해킹조직과 함께 지난 수년간 국내외를 겨냥해 다양한 APT 공격을 수행해 왔다.\n한수원은 2014년 김수키에 의해 해킹 공격에 당한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "북한 정부가 배후로 추정되는 해킹조직 '라자루스'가 한국수력원자력 문서를 사칭해 사이버공격에 나섰다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코로나19로 혼란스런 정국을 악용, 지능형지속위협(APT) 공격을 확대한다. 27일 업계에 따르면 한수원 문서를 사칭한 사이버공격이 포착됐다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 같은 공격 배후로는 라자루스가 지목된다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 문서를 유포해 침해하려는 대상이 실제 한수원인지는 아직 확인되지 않았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공격자는 '2020년 연구·전문원 및 수자원분야 경력사원 선발 모집요강'이라는 제목으로 악성 문서를 제작했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 한수원에서 실제 배포한 채용 관련 문서(PDF)를 참고해 한글 문서로 만들었다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "문서 내용으로는 선발분야별 선발인원과 주요 수행 업무를 명시했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 문서를 다운로드할 경우 악성코드에 감염, 정보가 공격자에게 유출된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "라자루스가 코로나19 사태 속 APT 공격을 확대하고 있다는 분석은 보안업계에서 여러 차례 제기됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 최근 발견된 APT 공격 가운데 라자루스가 배후로 추정되는 공격은 △블록체인 소프트웨어(SW) 개발 계약서 △한미관계와 외교안보 관련 문서 △항공우주기업 채용 관련 문서 △모 광역시 코로나 바이러스 대응 관련 문서 △성착취물 유포사건 출석통지서 등이 포함된다.",
+				"sentenceSize": 173
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "라자루스는 최근 국내뿐만 아니라 미국 등 국제사회에서 APT 공격을 확대하는 중이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "첩보 활동과 함께 금전 목적을 위한 외화벌이 활동도 꾸준히 늘리는 추세다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "라자루스가 제작한 악성 워드 문서는 명령제어(C2) 서버가 같다는 공통점이 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "해외 기관과 기업 공격 시 채용 의뢰와 직무 기술서로 위장한 이메일로 공격을 감행하는 일관성도 보인다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "문종현 ESRC 센터장은 “라자루스 그룹은 한국과 미국을 주로 공격하는 대표 위협 행위자로 사이버 침투 작전과 함께 온라인 은행, 비트코인 거래소 해킹 등을 통한 외화벌이를 조직적으로 수행하고 있다”면서 “악성파일을 미끼로 주요 기업과 기관 종사자를 노리며 최근 위협 활동이 눈에 띄게 증가, 각별한 주의가 요구된다”고 말했다.",
+				"sentenceSize": 183
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "라자루스는 김수키, 코니, 금성121 해킹조직과 함께 지난 수년간 국내외를 겨냥해 다양한 APT 공격을 수행해 왔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "한수원은 2014년 김수키에 의해 해킹 공격에 당한 바 있다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독]北 '라자루스', 한수원 문서 사칭해 대남 사이버공격 활개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

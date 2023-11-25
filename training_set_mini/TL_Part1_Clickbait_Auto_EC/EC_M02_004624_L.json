@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004624",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "신한은행, 비대면 '땡겨요 사업자 대출' 출시",
+		"newsSubTitle": "배달앱 땡겨요 입점 개인사업자 전용 상품",
+		"newsContent": "시중은행 최초의 배달 앱 '땡겨요'를 출시한 신한은행이 이와 연계된 개인사업자 대출 상품을 선보인다.\n신한은행은 국내 시중은행 최초로 '땡겨요'에 입점한 개인사업자 대상 신용대출 상품 '땡겨요 사업자 대출'을 출시했다고 6일 밝혔다. '땡겨요 사업자 대출'은 배달앱 플랫폼 땡겨요에 입점한 개인사업자 고객을 대상으로 운영된다.\n대출한도는 신한은행 계좌로 입금되는 매출데이터를 분석해 최대 1000만원까지 가능하다.\n상환방식은 원금균등분할상환방식, 대출만기는 최대 36개월이다.\n땡겨요에서 발생한 매출정산대금 수령계좌를 신한은행으로 지정하면 0.5%의 우대금리를 받을 수 있다.\n이번 상품은 신한 쏠비즈(SOL Biz)에서 신청할 수 있다.\n대출 전 과정을 완전 비대면화해 생업에 바쁜 개인사업자들이 보다 손쉽게 대출 신청 할 수 있도록 구현했다.\n신한은행 관계자는 데일리임팩트에 \\\"땡겨요와 연계한 금융 및 비금융서비스를 통해 개인사업자 대상 신규 콘텐츠도 확대해 나갈 것\\\"이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "시중은행 최초의 배달 앱 '땡겨요'를 출시한 신한은행이 이와 연계된 개인사업자 대출 상품을 선보인다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신한은행은 국내 시중은행 최초로 '땡겨요'에 입점한 개인사업자 대상 신용대출 상품 '땡겨요 사업자 대출'을 출시했다고 6일 밝혔다. '땡겨요 사업자 대출'은 배달앱 플랫폼 땡겨요에 입점한 개인사업자 고객을 대상으로 운영된다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대출한도는 신한은행 계좌로 입금되는 매출데이터를 분석해 최대 1000만원까지 가능하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "상환방식은 원금균등분할상환방식, 대출만기는 최대 36개월이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "땡겨요에서 발생한 매출정산대금 수령계좌를 신한은행으로 지정하면 0.5%의 우대금리를 받을 수 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 상품은 신한 쏠비즈(SOL Biz)에서 신청할 수 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대출 전 과정을 완전 비대면화해 생업에 바쁜 개인사업자들이 보다 손쉽게 대출 신청 할 수 있도록 구현했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "신한은행 관계자는 데일리임팩트에 \\\"땡겨요와 연계한 금융 및 비금융서비스를 통해 개인사업자 대상 신규 콘텐츠도 확대해 나갈 것\\\"이라고 설명했다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대덕특구 씨앗기술로 창조경제 싹 틔운다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325987",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "인도 원자력 발전소 사이버 공격 공식 인정...'北 소행' 의심",
+		"newsSubTitle": "",
+		"newsContent": "인도 원자력 발전소 해킹의혹이 결국 사실로 밝혀졌다.\n30일(현지시간) 인도 원자력공사(NPCIL)는 공식 자료를 통해 쿠단쿨람 원자력발전소(KKNPP) 행정망에서 악성코드가 발견됐다고 인정했다.\n이번 발표는 인도 원자력공사가 '사이버 공격 자체가 불가능 하다'고 밝힌지 하루만이다.\n인도 원자력 당국은 “악성코드에 감염된 것은 관리 네트워크이며, 발전소에는 네트워크 분리가 적용돼 있어 플랜트 시스템은 영향을 받지 않았으며 이들 중요 네트워크는 지속 감시중”이라고 설명했다.\n공격 정황은 인정했지만 북한 등 공격 주도 세력에 대해서는 특정하지 않았으며 어떤 데이터 등이 도난 됐는지는 밝히지 않았다.\n29일 인디아투데이 등 외신은 쿠단쿨람 원전 제어시스템이 'DTrack'이라는 악성코드에 감염돼 2기가운데 1기가 가동을 중단됐다는 뉴스를 보도했다.\n카스퍼스키는 인도 금융업계에서 발견된 악성코드 'DTrack' 추적 결과 북한 연루 해킹그룹 '라자루스 그룹'이 나왔다고 밝혔다.\n카스퍼스키에 따르면 DTrack는 감염된 시스템에 대한 데이터를 수집, 네트워크를 스캔하며 감염된 컴퓨터 모니터링하는 스파이, 정찰 도구라고 설명했다.\n문종현 이스트시큐리티 이사는 “이번에 사용된 악성코드는 10여년전 국내서 발견된 북한 공격 세력 악성코드와 유사하다”면서 “북한이 단순 정찰이 아닌 내부 정보를 탈취하거나 파기하고자 했을 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인도 원자력 발전소 해킹의혹이 결국 사실로 밝혀졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일(현지시간) 인도 원자력공사(NPCIL)는 공식 자료를 통해 쿠단쿨람 원자력발전소(KKNPP) 행정망에서 악성코드가 발견됐다고 인정했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 발표는 인도 원자력공사가 '사이버 공격 자체가 불가능 하다'고 밝힌지 하루만이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인도 원자력 당국은 “악성코드에 감염된 것은 관리 네트워크이며, 발전소에는 네트워크 분리가 적용돼 있어 플랜트 시스템은 영향을 받지 않았으며 이들 중요 네트워크는 지속 감시중”이라고 설명했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공격 정황은 인정했지만 북한 등 공격 주도 세력에 대해서는 특정하지 않았으며 어떤 데이터 등이 도난 됐는지는 밝히지 않았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "29일 인디아투데이 등 외신은 쿠단쿨람 원전 제어시스템이 'DTrack'이라는 악성코드에 감염돼 2기가운데 1기가 가동을 중단됐다는 뉴스를 보도했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "카스퍼스키는 인도 금융업계에서 발견된 악성코드 'DTrack' 추적 결과 북한 연루 해킹그룹 '라자루스 그룹'이 나왔다고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카스퍼스키에 따르면 DTrack는 감염된 시스템에 대한 데이터를 수집, 네트워크를 스캔하며 감염된 컴퓨터 모니터링하는 스파이, 정찰 도구라고 설명했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "문종현 이스트시큐리티 이사는 “이번에 사용된 악성코드는 10여년전 국내서 발견된 북한 공격 세력 악성코드와 유사하다”면서 “북한이 단순 정찰이 아닌 내부 정보를 탈취하거나 파기하고자 했을 것”이라고 말했다.",
+				"sentenceSize": 115
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인도 원자력 발전소 사이버 공격 공식 인정...'北 소행' 의심",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

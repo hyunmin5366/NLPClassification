@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011855",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "'기준 금리 인하' 여파로 예금·대출 금리 '사상 최저'",
+		"newsSubTitle": "6월 각각 年 2.66·4.52%…수신금리 최저치 경신",
+		"newsContent": "한국은행의 기준 금리 인하 등의 여파로 지난달 은행의 예금과 대출 평균금리가 모두 사상 최저치를 기록했다.\n한국은행이 발표한 '6월 금융기관 가중평균 금리'에 따르면 지난달 예금은행의 신규취급액 기준 예금(저축성수신)금리는 0.01%p 하락한 연 2.66%를, 대출금리도 0.1%p하락한 연 4.52%를 기록했다.\n은행의 대출금리는 지난 3월부터, 수신금리는 4월부터 역대 최저치를 경신 중이다.\n순수저축성예금금리는 0.01%p하락한 2.64%를 기록했으며 시장형 금융상품은 0.02%p 오른 2.77%를 기록했다.\n신규취급액기준 대출금리는 4.52%로 전월대비 0.10%p하락한 가운데 기업대출 금리는 0.03%p 떨어진 4.70%, 가계대출 금리는 0.19%p 떨어진 4.11%를 기록했다.\n비은행금융기관의 예금금리와 대출금리도 모두 하락했다.\n예금금리는 상호저축은행이 0.19%p떨어진 2.97%를 기록한 가운데 신용협동조합은 0.11%p 하락한 3.05%%를 기록했다.\n상호금융과 새마을금고도 각각 0.10%p, 0.11%p씩 떨어지며 2.86%, 3.04%를 기록했다.\n대출금리는 상호저축은행이 0.63%p떨어진 13.10%를 기록했으며 신용협동조합이 0.16%p하락한 5.75%를 기록했다.\n상호금융과 새마을금고는 각각 0.19%p, 0.17%p씩 떨어지며 5.05%, 5.28%로 사상최저를 기록했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국은행의 기준 금리 인하 등의 여파로 지난달 은행의 예금과 대출 평균금리가 모두 사상 최저치를 기록했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행이 발표한 '6월 금융기관 가중평균 금리'에 따르면 지난달 예금은행의 신규취급액 기준 예금(저축성수신)금리는 0.01%p 하락한 연 2.66%를, 대출금리도 0.1%p하락한 연 4.52%를 기록했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "은행의 대출금리는 지난 3월부터, 수신금리는 4월부터 역대 최저치를 경신 중이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "순수저축성예금금리는 0.01%p하락한 2.64%를 기록했으며 시장형 금융상품은 0.02%p 오른 2.77%를 기록했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신규취급액기준 대출금리는 4.52%로 전월대비 0.10%p하락한 가운데 기업대출 금리는 0.03%p 떨어진 4.70%, 가계대출 금리는 0.19%p 떨어진 4.11%를 기록했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비은행금융기관의 예금금리와 대출금리도 모두 하락했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "예금금리는 상호저축은행이 0.19%p떨어진 2.97%를 기록한 가운데 신용협동조합은 0.11%p 하락한 3.05%%를 기록했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "상호금융과 새마을금고도 각각 0.10%p, 0.11%p씩 떨어지며 2.86%, 3.04%를 기록했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "대출금리는 상호저축은행이 0.63%p떨어진 13.10%를 기록했으며 신용협동조합이 0.16%p하락한 5.75%를 기록했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "상호금융과 새마을금고는 각각 0.19%p, 0.17%p씩 떨어지며 5.05%, 5.28%로 사상최저를 기록했다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "개성공단 기업 정책금융 상환 1년유예…근로자 취업 알선",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

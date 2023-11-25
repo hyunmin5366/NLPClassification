@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328966",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "케이씨에스-씨토크, 양자암호통신 모듈 탑재한 VoIP 상용화 착수",
+		"newsSubTitle": "",
+		"newsContent": "IT서비스기업 케이씨에스가 양자암호∙실시간 영상암호 등 첨단보안기술을 이중으로 접목한 사물인터넷(IoT) 보안 사업 영역을 IP카메라에서 인터넷 영상전화(VoIP)기기로 확대, 포스트코로나 시대에 재택∙원격 근무 환경에서 해킹 위협을 차단한다.\n비대면 시대를 맞아 '줌' 등 영상솔루션 사용이 활발해질수록 원격 영상회의과정에서 불거지는 영상∙음성 등 데이터 외부 유출 우려를 불식한다.\n케이씨에스(대표 이호성)는 양자암호모듈 'KMC 100C' 개발을 최근 마친 가운데 영상통신서비스기업 씨토크와 영상과 음성을 실시간 암∙복호화하는 VoIP 디바이스 개발을 완료했다고 7일 밝혔다.\n도청과 영상유출을 동시에 방지하는 VoIP 디바이스가 내년 1분기 내 첫선을 보일 전망이다.\n양자암호통신 모듈 'KMC 100C'는 스위스 양자암호솔루션 선도기업인 IDQ의 퀀텀 RNG(양자난수생성)칩(모델 S2Q000)과 케이씨에스의 실시간 영상 암호칩(모델 KEV7)을 보드에 모듈형태로 탑재한 이더넷 보안 트랜스미터다.\nIDQ의 퀀텀 RNG칩이 보내는 사람과 받는 사람이 동시에 도청 불가능한 암호키를 생성하고 이를 케이씨에스의 실시간 영상 암호칩과 연동함으로써 영상∙음성 등 제3자의 데이터 탈취를 원천 차단한다.\n특히 'KMC 100C'는 단일 칩 형태가 아닌 모듈형태로 공급, IPTV카메라∙VoIP 기기∙드론 등 제조업체들이 SW를 별도 개발하는 커스터마이징 과정을 거치지 않고 하드웨어에 곧바로 적용, 개발기간을 단축할 수 있다.\n회사 양자암호 모듈 크기는 42×42㎜로 하드웨어에 손쉽게 탑재할 수 있다.\n암호칩을 제품에 탑재하기 위해 약 6개월 걸리는 인터페이스 단계를 거쳤다면 양자암호 보안 모듈은 보드에 꽂기만 하면 어플라이언스 제품처럼 바로 작동이 가능한 게 장점이다.\n하드웨어 기반 'KMC 100C'는 △프로그램 무결성 검증기능 △HASH∙HMAC(Hash-based Message Authentication Code) 기능 △대칭키 암∙복호화 기능(AES∙ARIA) △서명∙검증기능(ESCDA∙HMAC) △공개키 교환기능(ECDH) △난수생성기능(TRNG)∙물리적복제방지기능(PUF) △양자난수생성기능(QTRNG) △사용자인증 기능(공개키교환, HAMC 검증, 난수교환) 등 주요 보안 기능을 갖고 있다.\n케이씨에스 관계자는 \\\"양자암호 모듈을 내장한 VoIP 장치는 이중 보안기능으로 군∙국회∙청와대 등 민감한 정보를 다루는 기관 간 주고받는 영상∙음성 등 데이터를 암호화해 네트워크 구간에서 해킹 우려를 원천 차단할 수 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "IT서비스기업 케이씨에스가 양자암호∙실시간 영상암호 등 첨단보안기술을 이중으로 접목한 사물인터넷(IoT) 보안 사업 영역을 IP카메라에서 인터넷 영상전화(VoIP)기기로 확대, 포스트코로나 시대에 재택∙원격 근무 환경에서 해킹 위협을 차단한다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비대면 시대를 맞아 '줌' 등 영상솔루션 사용이 활발해질수록 원격 영상회의과정에서 불거지는 영상∙음성 등 데이터 외부 유출 우려를 불식한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "케이씨에스(대표 이호성)는 양자암호모듈 'KMC 100C' 개발을 최근 마친 가운데 영상통신서비스기업 씨토크와 영상과 음성을 실시간 암∙복호화하는 VoIP 디바이스 개발을 완료했다고 7일 밝혔다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "도청과 영상유출을 동시에 방지하는 VoIP 디바이스가 내년 1분기 내 첫선을 보일 전망이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양자암호통신 모듈 'KMC 100C'는 스위스 양자암호솔루션 선도기업인 IDQ의 퀀텀 RNG(양자난수생성)칩(모델 S2Q000)과 케이씨에스의 실시간 영상 암호칩(모델 KEV7)을 보드에 모듈형태로 탑재한 이더넷 보안 트랜스미터다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "IDQ의 퀀텀 RNG칩이 보내는 사람과 받는 사람이 동시에 도청 불가능한 암호키를 생성하고 이를 케이씨에스의 실시간 영상 암호칩과 연동함으로써 영상∙음성 등 제3자의 데이터 탈취를 원천 차단한다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 'KMC 100C'는 단일 칩 형태가 아닌 모듈형태로 공급, IPTV카메라∙VoIP 기기∙드론 등 제조업체들이 SW를 별도 개발하는 커스터마이징 과정을 거치지 않고 하드웨어에 곧바로 적용, 개발기간을 단축할 수 있다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "회사 양자암호 모듈 크기는 42×42㎜로 하드웨어에 손쉽게 탑재할 수 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "암호칩을 제품에 탑재하기 위해 약 6개월 걸리는 인터페이스 단계를 거쳤다면 양자암호 보안 모듈은 보드에 꽂기만 하면 어플라이언스 제품처럼 바로 작동이 가능한 게 장점이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하드웨어 기반 'KMC 100C'는 △프로그램 무결성 검증기능 △HASH∙HMAC(Hash-based Message Authentication Code) 기능 △대칭키 암∙복호화 기능(AES∙ARIA) △서명∙검증기능(ESCDA∙HMAC) △공개키 교환기능(ECDH) △난수생성기능(TRNG)∙물리적복제방지기능(PUF) △양자난수생성기능(QTRNG) △사용자인증 기능(공개키교환, HAMC 검증, 난수교환) 등 주요 보안 기능을 갖고 있다.",
+				"sentenceSize": 246
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "케이씨에스 관계자는 \\\"양자암호 모듈을 내장한 VoIP 장치는 이중 보안기능으로 군∙국회∙청와대 등 민감한 정보를 다루는 기관 간 주고받는 영상∙음성 등 데이터를 암호화해 네트워크 구간에서 해킹 우려를 원천 차단할 수 있다\\\"고 말했다.",
+				"sentenceSize": 132
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "케이씨에스-씨토크, 양자암호통신 모듈 탑재한 VoIP 상용화 착수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

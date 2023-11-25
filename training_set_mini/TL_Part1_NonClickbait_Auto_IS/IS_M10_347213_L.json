@@ -1,0 +1,402 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347213",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "세상을 중독시킬 데이터 디자인의 미래",
+		"newsSubTitle": "null",
+		"newsContent": "데이터는 지루하고 어려운 이미지의 대명사다.\n많은 숫자는 일반인이 이해하기 편하다고 생각하는 신호가 아니다.\n사람들은 데이터가 제시하는 뉴스나 다큐보다는 구수한 입담에 화려한 색깔의 요리가 나오는 예능 프로그램을 더 선호한다.\n더 정확한 진실을 딛고 사는 것이 인생에 훨씬 필요하고 중요하다는 것을 알면서도 업무가 아니면 잘 찾아보지 않게 되는 것이 바로 데이터다.\n데이터 시각화는 색상과 구도, 인터랙티브 요소 등 효과적인 비주얼 인터페이스를 통해 데이터의 의미를 더 잘 전달하고, 능동적으로 탐색하게 해 인간과 데이터의 거리를 좁히는 디지털 사회의 주요 트렌드다.\nMIT 슬론 매니지먼트 리뷰는 2011년에 2년 내 기업에서 가장 필요한 능력으로 데이터 시각화를 꼽았다.\n하버드 비즈니스 리뷰도 2013년 데이터 시각화를 ‘행동을 이끌어내기 위해 아이디어를 커뮤니케이션하는 것’이라고 언급했다.\n비즈니스 인텔리전스(BI) 솔루션 업체 ‘타블로’는 시각화를 특화해 업계 1위로 올라서기도 했다.\n이처럼 데이터 시각화는 기업과 개인, 사회 모두에게 점점 더 중요해지고 있다.\n마이클 프렌들리 미국 요크대 교수의 논문(A Brief History of Data Visualization)을 보면 10세기에 시작된 것으로 추정되는 데이터 시각화의 역사를 한눈에 볼 수 있다.\n그는 시각화의 발전 모습을 초기 지도 및 다이어그램 → 측정과 이론 → 새로운 그래픽 형태 → 현대모델의 시작 → 황금기 → 암흑기 → 부활의 시대 → 고차원 시각화 등 8단계로 구분했다.\n이를 잘 살펴보면 데이터와 도구의 제한이 사라질수록 새로운 시각화의 세계가 열렸다는 것을 알 수 있다.\n데이터가 드물고 컴퓨터도 없던 시절에는 하늘·지도와 같은 물리적 배경에 주로 방향성 정보를 대입하는 시각화를 연필, 컴퍼스, 잉크 등을 통해 구현해냈다.\n그 후 통계가 발전하자 숫자 패턴의 이해를 돕는 꺾은선, 막대, 파이, 히스토그램과 같은 차트 표현방식이 생겨난 것으로 보인다.\n프렌들리 교수가 부흥기로 정의한 7번째 시기를 보면 컴퓨터의 등장이 핵심이다.\n컴퓨터 기술은 데이터의 생성과 축적, 활용을 늘렸다.\n특히 표현 측면에서 지리정보시스템(GIS), 2D, 3D 그래픽 도구를 통해 사람들이 더 빠르고 효율적으로 다양한 시각화를 시도할 수 있게 됐다.\n이후 단순 차트를 넘어서는 새로운 시각화 유형이 활발히 개발됐고, 최근에는 반응적이고 동적인 사용자 경험으로 진화하고 있다.\n또 데이터 측면에서는 실시간성을 반영하는 것이 거의 필수 요소가 되고 있다.\n그렇다면 데이터 시각화 분야가 지속적으로 발전해 온 이유는 무엇일까?\n무엇보다 인간의 탐구정신과 소통의지에서 찾을 수 있다.\n데이터 시각화의 고전으로 불리는 존스노우의 콜레라 지도와 나이팅게일의 로즈 다이어그램은 당시 시급하게 해결해야 했던 문제를 다루고 있다.\n특히 두 경우 모두 시각화 이전에는 정확히 파악하고 공감하기 어려웠던 상황을 의사결정자에게 단번에 설득시키는 데 효과적이었다.\n이 외에도 훌륭하다고 손꼽히는 시각화 사례는 물가, 임금, 질병, 불평등, 조세피난처, 예산감시, 동성애, 범죄, 총기폭력 등 세상이 반드시 정확히 알아야 하는 민감한 문제를 다룬 경우가 많다.\n그만큼 데이터 시각화는 현실 그대로의 데이터소통이 중요하고, 신뢰를 결정하는 데이터 품질 역시 매우 중요하다.\n시각화 기술이 어떤 역할을 하기에 이런 도움을 주는 것일까?\n첫 번째는 효과성이다.\n인간의 오감 중 같은 시간에 가장 많은 정보를 흡수하는 것이 바로 ‘시각’이다.\n사람은 거의 반사적으로 시각화 된 정보를 이해하므로, 탐구와 이해의 프로세스가 시각화되면 될수록 효율성이 높아진다.\n특히 언어장벽 없이 전파되는 오늘날 글로벌 소셜 미디어 시대에는 그 반응도가 극대화된다.\n두 번째는 각인이다.\n주제와 관련된 메타포를 가미한 그래프와 그렇지 않은 그래프는 정보를 기억하는 시간에서 분명한 차이를 보인다.\n이 때문에 학술적인 데이터 시각화에 비해 상대적으로 소홀히 대접받던 정보 디자인이 존재의의를 인정받으며 주요 트렌드가 됐다.\n이 외에도 색상과 구도의 변화가 줄 수 있는 감성 차이는 같은 데이터라도 메시지의 포커스나 임팩트를 다르게 만든다.\n효과 큰 데이터 시각화, 기업 필수 전략 돼야 시각화의 영향력이 알려지면서 데이터 시각화는 과학을 넘어 솔루션·지식서비스·마케팅·저널리즘·예술 등으로 폭넓게 퍼져나가고 있다.\n그러나 사물인터넷, 가상현실 등이 현실화되면 앞으로 데이터는 더욱더 다채롭게 증가할 것이기에 데이터 시각화의 발전방향을 함부로 점치기 어렵다.\n오히려 어떠한 새로운 데이터 경험을 만들어나갈지 다 같이 논의해볼 만하다.\n우리 사회가 다양한 목적을 생각하고 데이터를 준비해온 것이 아니므로, 데이터의 기획과 축적부터 새롭게 추진하는 것이 중요하다.\n그리고 이것이 바로 데이터 디자이너에게 요구되는 능력이다.\n81%의 국내 회사가 어떻게 데이터 활용을 해야 할지 고민하고 있을 때, 중국은 웨어러블, 사물인터넷(IoT) 활용현장에서 새로운 데이터를 착착 쌓고 있다.\n시각화 업체도 속속 등장해 동적 시각화 템플릿을 무료로 선보인다.\n데이터 시각화를 글로벌 데이터 활용경쟁에서 고부가가치를 줄 수 있는 필수 전략으로 여기고, 더 다양한 관점과 더 신선한 데이터, 그리고 더 상호적인 인터페이스를 데이터에 입혀 소비자에게 제공하는 것은 어떨까?",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 42,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "데이터는 지루하고 어려운 이미지의 대명사다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "많은 숫자는 일반인이 이해하기 편하다고 생각하는 신호가 아니다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사람들은 데이터가 제시하는 뉴스나 다큐보다는 구수한 입담에 화려한 색깔의 요리가 나오는 예능 프로그램을 더 선호한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "더 정확한 진실을 딛고 사는 것이 인생에 훨씬 필요하고 중요하다는 것을 알면서도 업무가 아니면 잘 찾아보지 않게 되는 것이 바로 데이터다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "데이터 시각화는 색상과 구도, 인터랙티브 요소 등 효과적인 비주얼 인터페이스를 통해 데이터의 의미를 더 잘 전달하고, 능동적으로 탐색하게 해 인간과 데이터의 거리를 좁히는 디지털 사회의 주요 트렌드다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "MIT 슬론 매니지먼트 리뷰는 2011년에 2년 내 기업에서 가장 필요한 능력으로 데이터 시각화를 꼽았다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하버드 비즈니스 리뷰도 2013년 데이터 시각화를 ‘행동을 이끌어내기 위해 아이디어를 커뮤니케이션하는 것’이라고 언급했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "비즈니스 인텔리전스(BI) 솔루션 업체 ‘타블로’는 시각화를 특화해 업계 1위로 올라서기도 했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이처럼 데이터 시각화는 기업과 개인, 사회 모두에게 점점 더 중요해지고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "마이클 프렌들리 미국 요크대 교수의 논문(A Brief History of Data Visualization)을 보면 10세기에 시작된 것으로 추정되는 데이터 시각화의 역사를 한눈에 볼 수 있다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "그는 시각화의 발전 모습을 초기 지도 및 다이어그램 → 측정과 이론 → 새로운 그래픽 형태 → 현대모델의 시작 → 황금기 → 암흑기 → 부활의 시대 → 고차원 시각화 등 8단계로 구분했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이를 잘 살펴보면 데이터와 도구의 제한이 사라질수록 새로운 시각화의 세계가 열렸다는 것을 알 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "데이터가 드물고 컴퓨터도 없던 시절에는 하늘·지도와 같은 물리적 배경에 주로 방향성 정보를 대입하는 시각화를 연필, 컴퍼스, 잉크 등을 통해 구현해냈다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "그 후 통계가 발전하자 숫자 패턴의 이해를 돕는 꺾은선, 막대, 파이, 히스토그램과 같은 차트 표현방식이 생겨난 것으로 보인다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "프렌들리 교수가 부흥기로 정의한 7번째 시기를 보면 컴퓨터의 등장이 핵심이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "컴퓨터 기술은 데이터의 생성과 축적, 활용을 늘렸다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "특히 표현 측면에서 지리정보시스템(GIS), 2D, 3D 그래픽 도구를 통해 사람들이 더 빠르고 효율적으로 다양한 시각화를 시도할 수 있게 됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이후 단순 차트를 넘어서는 새로운 시각화 유형이 활발히 개발됐고, 최근에는 반응적이고 동적인 사용자 경험으로 진화하고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "또 데이터 측면에서는 실시간성을 반영하는 것이 거의 필수 요소가 되고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "그렇다면 데이터 시각화 분야가 지속적으로 발전해 온 이유는 무엇일까?",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "무엇보다 인간의 탐구정신과 소통의지에서 찾을 수 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "데이터 시각화의 고전으로 불리는 존스노우의 콜레라 지도와 나이팅게일의 로즈 다이어그램은 당시 시급하게 해결해야 했던 문제를 다루고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "특히 두 경우 모두 시각화 이전에는 정확히 파악하고 공감하기 어려웠던 상황을 의사결정자에게 단번에 설득시키는 데 효과적이었다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "이 외에도 훌륭하다고 손꼽히는 시각화 사례는 물가, 임금, 질병, 불평등, 조세피난처, 예산감시, 동성애, 범죄, 총기폭력 등 세상이 반드시 정확히 알아야 하는 민감한 문제를 다룬 경우가 많다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "그만큼 데이터 시각화는 현실 그대로의 데이터소통이 중요하고, 신뢰를 결정하는 데이터 품질 역시 매우 중요하다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "시각화 기술이 어떤 역할을 하기에 이런 도움을 주는 것일까?",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "첫 번째는 효과성이다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "인간의 오감 중 같은 시간에 가장 많은 정보를 흡수하는 것이 바로 ‘시각’이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "사람은 거의 반사적으로 시각화 된 정보를 이해하므로, 탐구와 이해의 프로세스가 시각화되면 될수록 효율성이 높아진다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "특히 언어장벽 없이 전파되는 오늘날 글로벌 소셜 미디어 시대에는 그 반응도가 극대화된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "두 번째는 각인이다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "주제와 관련된 메타포를 가미한 그래프와 그렇지 않은 그래프는 정보를 기억하는 시간에서 분명한 차이를 보인다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "이 때문에 학술적인 데이터 시각화에 비해 상대적으로 소홀히 대접받던 정보 디자인이 존재의의를 인정받으며 주요 트렌드가 됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "이 외에도 색상과 구도의 변화가 줄 수 있는 감성 차이는 같은 데이터라도 메시지의 포커스나 임팩트를 다르게 만든다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "효과 큰 데이터 시각화, 기업 필수 전략 돼야 시각화의 영향력이 알려지면서 데이터 시각화는 과학을 넘어 솔루션·지식서비스·마케팅·저널리즘·예술 등으로 폭넓게 퍼져나가고 있다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "그러나 사물인터넷, 가상현실 등이 현실화되면 앞으로 데이터는 더욱더 다채롭게 증가할 것이기에 데이터 시각화의 발전방향을 함부로 점치기 어렵다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 37,
+				"sentenceContent": "오히려 어떠한 새로운 데이터 경험을 만들어나갈지 다 같이 논의해볼 만하다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 38,
+				"sentenceContent": "우리 사회가 다양한 목적을 생각하고 데이터를 준비해온 것이 아니므로, 데이터의 기획과 축적부터 새롭게 추진하는 것이 중요하다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 39,
+				"sentenceContent": "그리고 이것이 바로 데이터 디자이너에게 요구되는 능력이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 40,
+				"sentenceContent": "81%의 국내 회사가 어떻게 데이터 활용을 해야 할지 고민하고 있을 때, 중국은 웨어러블, 사물인터넷(IoT) 활용현장에서 새로운 데이터를 착착 쌓고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 41,
+				"sentenceContent": "시각화 업체도 속속 등장해 동적 시각화 템플릿을 무료로 선보인다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 42,
+				"sentenceContent": "데이터 시각화를 글로벌 데이터 활용경쟁에서 고부가가치를 줄 수 있는 필수 전략으로 여기고, 더 다양한 관점과 더 신선한 데이터, 그리고 더 상호적인 인터페이스를 데이터에 입혀 소비자에게 제공하는 것은 어떨까?",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세상을 중독시킬 데이터 디자인의 미래",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 37,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 38,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 39,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 40,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 41,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 42,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

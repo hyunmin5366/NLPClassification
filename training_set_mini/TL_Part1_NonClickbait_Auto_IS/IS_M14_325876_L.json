@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325876",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "인천공항 AI 기반 보안검색대 사업, 삼성SDS·SKT 제치고 LG CNS 수주",
+		"newsSubTitle": "",
+		"newsContent": "LG CNS가 인천공항 인공지능(AI) 기반 엑스레이 영상 시스템 구축 사업을 수주했다.\n삼성SDS, SK텔레콤 등 주요 정보기술(IT) 기업을 제치고 AI 기술력을 인정받았다.\n4일 업계에 따르면 인천공항은 AI 기반 엑스레이 영상 자동판독시스템 구축 사업 우선협상대상자로 LG CNS 컨소시엄을 선정했다.\n현재 공항 보안검색대는 보안검색 요원이 엑스레이 영상을 육안으로 확인해 폭발물을 비롯한 액체, 인화성 가스 등 유해물질을 판단한다.\n인천공항은 AI 기반 반입 금지 물품 자동 판독 알고리즘을 개발한다.\nAI가 자동으로 반입 금지 물품을 판독해 보안검색 요원 육안 판독을 보조한다.\n인천공항은 이번 사업에서 1단계로 액체류 시중 상품 5000개를 자동 판독하는 소프트웨어(SW)를 개발한다.\n내년 엑스레이 한 대에 시범 적용 후 자동 판독 학습 모델을 고도화한다.\nLG CNS뿐아니라 삼성SDS, SK텔레콤, 아시아나 IDT 등 주요 IT기업이 이번 사업에 대거 참여했다.\nLG CNS 컨소시엄은 기술점수에서 타 회사 대비 평균 4점 대를 앞서며 우위를 점했다.\n업계 관계자는 \\\"이번 프로젝트 수주 관건은 판독 정확성을 가늠하는 AI 기술력\\\"이라면서 \\\"AI 기반 영상 자동판독시스템이 성공적으로 구축되면 국내뿐 아니라 해외 공항 수출도 가능하기 때문에 업계 경쟁이 치열했다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG CNS가 인천공항 인공지능(AI) 기반 엑스레이 영상 시스템 구축 사업을 수주했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성SDS, SK텔레콤 등 주요 정보기술(IT) 기업을 제치고 AI 기술력을 인정받았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "4일 업계에 따르면 인천공항은 AI 기반 엑스레이 영상 자동판독시스템 구축 사업 우선협상대상자로 LG CNS 컨소시엄을 선정했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 공항 보안검색대는 보안검색 요원이 엑스레이 영상을 육안으로 확인해 폭발물을 비롯한 액체, 인화성 가스 등 유해물질을 판단한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인천공항은 AI 기반 반입 금지 물품 자동 판독 알고리즘을 개발한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "AI가 자동으로 반입 금지 물품을 판독해 보안검색 요원 육안 판독을 보조한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인천공항은 이번 사업에서 1단계로 액체류 시중 상품 5000개를 자동 판독하는 소프트웨어(SW)를 개발한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "내년 엑스레이 한 대에 시범 적용 후 자동 판독 학습 모델을 고도화한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "LG CNS뿐아니라 삼성SDS, SK텔레콤, 아시아나 IDT 등 주요 IT기업이 이번 사업에 대거 참여했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "LG CNS 컨소시엄은 기술점수에서 타 회사 대비 평균 4점 대를 앞서며 우위를 점했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "업계 관계자는 \\\"이번 프로젝트 수주 관건은 판독 정확성을 가늠하는 AI 기술력\\\"이라면서 \\\"AI 기반 영상 자동판독시스템이 성공적으로 구축되면 국내뿐 아니라 해외 공항 수출도 가능하기 때문에 업계 경쟁이 치열했다\\\"고 말했다.",
+				"sentenceSize": 128
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인천공항 AI 기반 보안검색대 사업, 삼성SDS·SKT 제치고 LG CNS 수주",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

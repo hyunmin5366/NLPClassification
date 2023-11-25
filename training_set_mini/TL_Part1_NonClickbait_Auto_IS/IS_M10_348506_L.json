@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348506",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "'원샷' 존슨앤존슨 백신 \\\"임상3상 결과 곧 발표\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "미국 제약사 존슨앤존슨(J&J)이 자체 코로나19(COVID-19) 백신에 대한 3상 임상시험 결과를 곧 발표할 것이라고 밝혔다.\n26일(현지시간) 로이터통신에 따르면 J&J는 이달 내 4만명이 참여한 코로나19 백신의 임상 3상 중간 데이터를 확보할 계획이라며 이 같이 전했다.\n임상 1상과 2상에선 유효한 면역 반응이 확인됐다.\nJ&J의 자회사 얀센의 백신은 단 한 번만 접종하면 된다.\n약 3~4주 간격으로 2회 접종해야 하는 화이자와 모더나의 백신과 비교할 때 큰 장점이다.\n또 '메신저 리보핵산'(mRNA) 기반 백신인 모더나와 화이자의 코로나19 백신이 각각 유통·보관시 영하 20도와 영하 70도의 초저온 환경을 필요로 하는 것과 달리 J&J 백신은 아스트라제네카의 백신처럼 일반 냉장 온도에서도 보관이 가능해 유통 역시 용이하다.\n미국은 J&J의 백신 1억회분을 사전 주문했다.\n앤서니 파우치 미 국립알레르기·감염병연구소 소장은 지난 22일 NBC와의 인터뷰에서 \\\"앞으로 2주 후면 (J&J 백신에 대한) 데이터 분석이 끝나 (긴급사용 승인 여부에 대한) 결정이 내려질 것\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 제약사 존슨앤존슨(J&J)이 자체 코로나19(COVID-19) 백신에 대한 3상 임상시험 결과를 곧 발표할 것이라고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일(현지시간) 로이터통신에 따르면 J&J는 이달 내 4만명이 참여한 코로나19 백신의 임상 3상 중간 데이터를 확보할 계획이라며 이 같이 전했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임상 1상과 2상에선 유효한 면역 반응이 확인됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "J&J의 자회사 얀센의 백신은 단 한 번만 접종하면 된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "약 3~4주 간격으로 2회 접종해야 하는 화이자와 모더나의 백신과 비교할 때 큰 장점이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 '메신저 리보핵산'(mRNA) 기반 백신인 모더나와 화이자의 코로나19 백신이 각각 유통·보관시 영하 20도와 영하 70도의 초저온 환경을 필요로 하는 것과 달리 J&J 백신은 아스트라제네카의 백신처럼 일반 냉장 온도에서도 보관이 가능해 유통 역시 용이하다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "미국은 J&J의 백신 1억회분을 사전 주문했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앤서니 파우치 미 국립알레르기·감염병연구소 소장은 지난 22일 NBC와의 인터뷰에서 \\\"앞으로 2주 후면 (J&J 백신에 대한) 데이터 분석이 끝나 (긴급사용 승인 여부에 대한) 결정이 내려질 것\\\"이라고 밝혔다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'원샷' 존슨앤존슨 백신 \\\"임상3상 결과 곧 발표\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

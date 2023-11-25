@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002877",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "IBK기업은행, '실손보험 빠른청구 서비스' 시행",
+		"newsSubTitle": "대상 고객은 삼성화재, KB손보 등 11개 보험사 실손 보험 가입자",
+		"newsContent": "IBK기업은행이 모바일 뱅킹 앱 i-ONE뱅크에서 종이 서류 없이 간편하게 보험금 청구가 가능한 '실손보험 빠른청구 서비스'를 5일 출시한다고 밝혔다.\n대상 고객은 삼성화재, KB손해보험, 현대해상, 삼성생명 등 11개 보험사의 실손 보험 가입자다.\n기업은행을 통해 보험을 가입하지 않은 고객도 이용이 가능하다.\n특히 중앙대병원, 서울성모병원 등 약 80여개 제휴 병원 이용 고객은 진료 데이터가 연동돼, i-ONE뱅크에서 주민등록번호만 입력하면 보험금을 청구할 수 있다.\n비제휴 병원의 경우 증빙서류를 발급받아 촬영한 이미지를 첨부하면 된다.\n기업은행 관계자는 미디어SR에 \\\"코로나19의 확산으로 비대면 수요가 증가함에 따라 보험금 청구 절차를 대폭 간소화했다\\\"며 \\\"향후 서비스 가능 보험사와 제휴 병원을 확대해 고객의 일상생활 속 불편함을 해소할 수 있도록 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "IBK기업은행이 모바일 뱅킹 앱 i-ONE뱅크에서 종이 서류 없이 간편하게 보험금 청구가 가능한 '실손보험 빠른청구 서비스'를 5일 출시한다고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대상 고객은 삼성화재, KB손해보험, 현대해상, 삼성생명 등 11개 보험사의 실손 보험 가입자다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기업은행을 통해 보험을 가입하지 않은 고객도 이용이 가능하다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 중앙대병원, 서울성모병원 등 약 80여개 제휴 병원 이용 고객은 진료 데이터가 연동돼, i-ONE뱅크에서 주민등록번호만 입력하면 보험금을 청구할 수 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비제휴 병원의 경우 증빙서류를 발급받아 촬영한 이미지를 첨부하면 된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기업은행 관계자는 미디어SR에 \\\"코로나19의 확산으로 비대면 수요가 증가함에 따라 보험금 청구 절차를 대폭 간소화했다\\\"며 \\\"향후 서비스 가능 보험사와 제휴 병원을 확대해 고객의 일상생활 속 불편함을 해소할 수 있도록 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 137
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신한카드 직원, 법인카드로 14억원 빼돌려 구속",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351315",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "\\\"앵그리버드 개발사, 아동데이터 불법 수집·판매로 피소\\\"[IT썰]",
+		"newsSubTitle": "null",
+		"newsContent": "세계적인 모바일 게임 '앵그리버드(Angry Birds)'의 제작사가 불법적으로 아동의 데이터를 수집하고 판매한 혐의로 송사에 휘말렸다.\nIT전문매체 애플인사이더에 따르면, 앵그리버드 제작사 로비오 엔터테인먼트(Rovio Entertainment)는 최근 미 뉴멕시코주 법무부로부터 13세 미만 아동의 개인정보를 수집·판매한 혐의로 피소됐다.\n소송의 골자는 로비오가 '아동 온라인 프라이버시 보호법(COPPA)'을 위반했다는 내용이다.\nCOPPA에 따르면, 13세 미만 아동의 개인정보 수집은 사전에 부모의 허가를 받아야 한다.\n뉴멕시코 법무부는 로비오가 앵그리버드 게임을 통해 \\\"은밀하게 아동들의 개인정보를 유출\\\"했으며, 이 정보를 제3의 마케팅 회사에 판매해 \\\"뉴멕시코 아이들을 위험하게 하고, 부모의 자녀와 사생활 보호 능력을 약화시켰으며, 주 및 연방법을 위반했다\\\"고 주장했다.\n뉴멕시코 법무장관 헥터 발데라스는 성명에서 \\\"뉴멕시코는 어린이 안전을 위협하는 회사들에게 항상 책임을 물을 것\\\"이라고 강조했다.\n한편 앵그리버드는 핀란드의 게임회사 로비오에서 제작하는 모바일 게임이다.\n텍스트 없이 그림만으로 조작법을 설명하고, 그마저도 손가락으로 새총을 당기기만 하면 돼 2009년 출시 이래 전세계적인 인기를 끌었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세계적인 모바일 게임 '앵그리버드(Angry Birds)'의 제작사가 불법적으로 아동의 데이터를 수집하고 판매한 혐의로 송사에 휘말렸다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "IT전문매체 애플인사이더에 따르면, 앵그리버드 제작사 로비오 엔터테인먼트(Rovio Entertainment)는 최근 미 뉴멕시코주 법무부로부터 13세 미만 아동의 개인정보를 수집·판매한 혐의로 피소됐다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소송의 골자는 로비오가 '아동 온라인 프라이버시 보호법(COPPA)'을 위반했다는 내용이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "COPPA에 따르면, 13세 미만 아동의 개인정보 수집은 사전에 부모의 허가를 받아야 한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "뉴멕시코 법무부는 로비오가 앵그리버드 게임을 통해 \\\"은밀하게 아동들의 개인정보를 유출\\\"했으며, 이 정보를 제3의 마케팅 회사에 판매해 \\\"뉴멕시코 아이들을 위험하게 하고, 부모의 자녀와 사생활 보호 능력을 약화시켰으며, 주 및 연방법을 위반했다\\\"고 주장했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "뉴멕시코 법무장관 헥터 발데라스는 성명에서 \\\"뉴멕시코는 어린이 안전을 위협하는 회사들에게 항상 책임을 물을 것\\\"이라고 강조했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 앵그리버드는 핀란드의 게임회사 로비오에서 제작하는 모바일 게임이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "텍스트 없이 그림만으로 조작법을 설명하고, 그마저도 손가락으로 새총을 당기기만 하면 돼 2009년 출시 이래 전세계적인 인기를 끌었다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"앵그리버드 개발사, 아동데이터 불법 수집·판매로 피소\\\"[IT썰]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

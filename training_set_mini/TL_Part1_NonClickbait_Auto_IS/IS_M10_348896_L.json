@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348896",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "DGIST, '공격 감지 후 자가복구까지' 사이버 보안기법 개발",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 사이버물리시스템(CPS) 공격을 실시간으로 감지하고, 스스로 복구를 지원하는 보안 기법을 개발했다.\n향후 자율주행차량, 스마트 팩토리 같이 보안이 필수적인 4차 산업혁명 기술분야에 활용될 수 있을 것으로 기대된다.\n대구경북과학기술원(DGIST)은 25일 \\\" 정보통신융합전공 박경준 교수팀이 네트워크와 제어이론을 융합한 새로운 개념의 보안기법을 적용해 사이버물리시스템 공격을 실시간으로 탐지하고 복구를 지원하는 보안 기법을 개발했다\\\"고 밝혔다.\nCPS는 소프트웨어를 활용해 가상의 네트워크 공간에서 컴퓨터 등 전자기기들을 실시간으로 제어하는 세스템으로, 자율주행시스템과 스마트 팩토리, 무인철도 등 사회기반시설에 사용되는 핵심요소기술이다.\n그만큼 해킹 등 외부공격에 대한 안정성 확보가 필수적이다.\n기존 네트워크 보안기술은 CPS의 작동 원리를 고려하지 않은 채 설계돼 있어, 실시간 동작 안정성을 보장하는데 한계가 있었다.\n또 은밀하고 정교하게 진행되는 공격들은 CPS를 통제하는 소프트웨어 상에서 검출이 불가능한 경우도 있어, 시스템에 심각한 손상 초래하는 한계가 있었다.\n연구팀은 CPS를 유지하는 SDN(소프트웨어 정의 네트워크) 장비에 공격탐지 알고리즘을 탑재하고, 장비가 직접 데이터를 수집하게 했다.\n공격징후가 포착되면 중앙집중화된 네트워크 관리시스템이 공격자를 네트워크로 격리시키고, CPS에 손상된 부분을 복구할 수 있도록 했다.\n박 교수는 \\\"다른 연구를 수행하던 중 기존 제어이론에서 다루던 이상탐지를 네트워크에 적용하면 정교한 공격도 검출 가능할 것으로 보여 연구를 시작했다\\\"며 \\\"실제 시스템 적용까지 가능한 수준의 기술로 만들기 위해 후속 연구를 계속 진행할 것\\\"이라고 말했다.\n이번 연구결과는 컴퓨터과학·산업공학 분야 우수 학술지인 'IEEE 트랜잭션스 온 인더스트리얼 인포매틱스'(Transactions on Industrial Informatics)에 지난달 15일 온라인 게재됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 사이버물리시스템(CPS) 공격을 실시간으로 감지하고, 스스로 복구를 지원하는 보안 기법을 개발했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "향후 자율주행차량, 스마트 팩토리 같이 보안이 필수적인 4차 산업혁명 기술분야에 활용될 수 있을 것으로 기대된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대구경북과학기술원(DGIST)은 25일 \\\" 정보통신융합전공 박경준 교수팀이 네트워크와 제어이론을 융합한 새로운 개념의 보안기법을 적용해 사이버물리시스템 공격을 실시간으로 탐지하고 복구를 지원하는 보안 기법을 개발했다\\\"고 밝혔다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "CPS는 소프트웨어를 활용해 가상의 네트워크 공간에서 컴퓨터 등 전자기기들을 실시간으로 제어하는 세스템으로, 자율주행시스템과 스마트 팩토리, 무인철도 등 사회기반시설에 사용되는 핵심요소기술이다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그만큼 해킹 등 외부공격에 대한 안정성 확보가 필수적이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기존 네트워크 보안기술은 CPS의 작동 원리를 고려하지 않은 채 설계돼 있어, 실시간 동작 안정성을 보장하는데 한계가 있었다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 은밀하고 정교하게 진행되는 공격들은 CPS를 통제하는 소프트웨어 상에서 검출이 불가능한 경우도 있어, 시스템에 심각한 손상 초래하는 한계가 있었다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구팀은 CPS를 유지하는 SDN(소프트웨어 정의 네트워크) 장비에 공격탐지 알고리즘을 탑재하고, 장비가 직접 데이터를 수집하게 했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공격징후가 포착되면 중앙집중화된 네트워크 관리시스템이 공격자를 네트워크로 격리시키고, CPS에 손상된 부분을 복구할 수 있도록 했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "박 교수는 \\\"다른 연구를 수행하던 중 기존 제어이론에서 다루던 이상탐지를 네트워크에 적용하면 정교한 공격도 검출 가능할 것으로 보여 연구를 시작했다\\\"며 \\\"실제 시스템 적용까지 가능한 수준의 기술로 만들기 위해 후속 연구를 계속 진행할 것\\\"이라고 말했다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이번 연구결과는 컴퓨터과학·산업공학 분야 우수 학술지인 'IEEE 트랜잭션스 온 인더스트리얼 인포매틱스'(Transactions on Industrial Informatics)에 지난달 15일 온라인 게재됐다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "DGIST, '공격 감지 후 자가복구까지' 사이버 보안기법 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

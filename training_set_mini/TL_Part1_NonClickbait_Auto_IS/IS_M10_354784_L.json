@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354784",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "\\\"으스스한 영화는?\\\"…LGU+ '감정 맞춤' 콘텐츠 추천 기술 개발",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 고객 감정에 맞춰 콘텐츠를 추천하는 'AI(인공지능) 기반 감정 콘텐츠 검색 기술'을 개발한다고 28일 밝혔다.\n이를 위해 LG유플러스는 AI 전문 기업 '업스테이지'와 협업한다.\n양사는 업스테이지가 보유한 AI 알고리즘을 기반으로 LG유플러스의 IPTV(인터넷TV) 서비스인 U+tv가 제공하는 콘텐츠의 내용과 리뷰를 분석한다.\n이용자의 다양한 감정을 키워드로 콘텐츠를 분류·검색·추천하는 서비스 개발이 목표다.\n기존에는 콘텐츠를 단순 공포나 로맨스 등으로 분류했다면, 이번 기술 개발을 통해 감정을 포함시켜 '으스스한 스릴러 영화', '가슴이 따뜻해지는 로맨스 영화' 등으로 세분화한다.\n양사는 AI 기반 콘텐츠 검색 기능을 U+tv에 도입하기 위해 AI 모델 학습데이터 구축 및 감성태그 추출 모델링, 유사 감정 기반 검색엔진 등 기술 개발에 집중한다.\n이후 실증을 통해 AI 기술이 분석한 데이터 품질을 확인하고, U+tv에 감정 기반 검색·추천 서비스를 적용한다는 계획이다.\n전병기 LG유플러스 AI/데이터 사이언스담당(상무)은 \\\"고객의 니즈를 얼마나 정확하게 파악하고 알맞은 결과를 제공하느냐가 검색 기술의 본질\\\"이라며 \\\"LG유플러스는 AI 전문업체인 업스테이지와 지속적인 협력을 통해 AI 기반의 검색 서비스를 도입함으로써 미디어 검색에 대한 사용자 경험을 혁신해 나갈 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 고객 감정에 맞춰 콘텐츠를 추천하는 'AI(인공지능) 기반 감정 콘텐츠 검색 기술'을 개발한다고 28일 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이를 위해 LG유플러스는 AI 전문 기업 '업스테이지'와 협업한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양사는 업스테이지가 보유한 AI 알고리즘을 기반으로 LG유플러스의 IPTV(인터넷TV) 서비스인 U+tv가 제공하는 콘텐츠의 내용과 리뷰를 분석한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이용자의 다양한 감정을 키워드로 콘텐츠를 분류·검색·추천하는 서비스 개발이 목표다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기존에는 콘텐츠를 단순 공포나 로맨스 등으로 분류했다면, 이번 기술 개발을 통해 감정을 포함시켜 '으스스한 스릴러 영화', '가슴이 따뜻해지는 로맨스 영화' 등으로 세분화한다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "양사는 AI 기반 콘텐츠 검색 기능을 U+tv에 도입하기 위해 AI 모델 학습데이터 구축 및 감성태그 추출 모델링, 유사 감정 기반 검색엔진 등 기술 개발에 집중한다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 실증을 통해 AI 기술이 분석한 데이터 품질을 확인하고, U+tv에 감정 기반 검색·추천 서비스를 적용한다는 계획이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전병기 LG유플러스 AI/데이터 사이언스담당(상무)은 \\\"고객의 니즈를 얼마나 정확하게 파악하고 알맞은 결과를 제공하느냐가 검색 기술의 본질\\\"이라며 \\\"LG유플러스는 AI 전문업체인 업스테이지와 지속적인 협력을 통해 AI 기반의 검색 서비스를 도입함으로써 미디어 검색에 대한 사용자 경험을 혁신해 나갈 것\\\"이라고 말했다.",
+				"sentenceSize": 181
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"으스스한 영화는?\\\"…LGU+ '감정 맞춤' 콘텐츠 추천 기술 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

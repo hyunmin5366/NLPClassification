@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353328",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "유튜브에서 러시아 퇴출되나? 일부 채널 수익창출 금지",
+		"newsSubTitle": "null",
+		"newsContent": "유튜브 등 IT 플랫폼이 우크라이나를 침공한 러시아에 대한 제재에 동참했다.\n26일(현지시간) 로이터통신에 따르면 구글 유튜브 측은 러시아 국영 미디어 러시아투데이(RT)와 일부 러시아 채널의 광고 수익 창출을 일시적으로 금지했다.\n마이클 아시만 구글 대변인은 이들 언론사는 구글을 통해 광고를 게재할 수 없을 것이라고 밝혔다.\n그는 \\\"필요한 경우 추가 조치를 할 것\\\"이라고 말했다.\n유튜브는 RT 등 러시아 채널 동영상이 이용자 추천에서도 이전보다 적게 나타날 것이며, 우크라이나 정부 요청에 따라 우크라이나에서는 이들 채널 접속이 차단될 것이라고도 설명했다.\n2019년 인터넷 조사 업체 오멜라스는 러시아 정부가 2017년과 2018년 2700만달러(한화 약 325억원) 광고 수익을 창출했으며, 12년간 러시아가 RT와 국가 제휴 채널로부터 얻은 수익은 7300만달러(약 879억원)에 이를 것으로 봤다.\n트위터와 메타(페이스북)도 비슷한 움직임을 보이고 있다.\n페이스북은 전날 러시아 국영 매체의 광고 등 영리 행위를 금지했으며, 트위터도 같은 날 러시아·우크라이나 관련 모든 광고를 잠정 중단한다고 알렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유튜브 등 IT 플랫폼이 우크라이나를 침공한 러시아에 대한 제재에 동참했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일(현지시간) 로이터통신에 따르면 구글 유튜브 측은 러시아 국영 미디어 러시아투데이(RT)와 일부 러시아 채널의 광고 수익 창출을 일시적으로 금지했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마이클 아시만 구글 대변인은 이들 언론사는 구글을 통해 광고를 게재할 수 없을 것이라고 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 \\\"필요한 경우 추가 조치를 할 것\\\"이라고 말했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유튜브는 RT 등 러시아 채널 동영상이 이용자 추천에서도 이전보다 적게 나타날 것이며, 우크라이나 정부 요청에 따라 우크라이나에서는 이들 채널 접속이 차단될 것이라고도 설명했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2019년 인터넷 조사 업체 오멜라스는 러시아 정부가 2017년과 2018년 2700만달러(한화 약 325억원) 광고 수익을 창출했으며, 12년간 러시아가 RT와 국가 제휴 채널로부터 얻은 수익은 7300만달러(약 879억원)에 이를 것으로 봤다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "트위터와 메타(페이스북)도 비슷한 움직임을 보이고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "페이스북은 전날 러시아 국영 매체의 광고 등 영리 행위를 금지했으며, 트위터도 같은 날 러시아·우크라이나 관련 모든 광고를 잠정 중단한다고 알렸다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유튜브에서 러시아 퇴출되나? 일부 채널 수익창출 금지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

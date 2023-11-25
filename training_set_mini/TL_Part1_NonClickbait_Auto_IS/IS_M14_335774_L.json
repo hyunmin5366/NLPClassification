@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335774",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[데이터 뉴스]한국과 중국의 대형 디스플레이 점유율",
+		"newsSubTitle": "",
+		"newsContent": "중국이 내년에 10.5세대 액정표시장치(LCD) 생산 라인을 가동할 예정이고, 올해 8세대 생산 능력을 확장하면서 2019년 대형 LCD 패널 출하량 세계 1위를 달성할 것으로 보인다.\n한국은 패널 출하 대수 기준으로 중국에 1위를 넘겨주지만 면적 기준으로는 여전히 세계 1등 국가의 입지를 유지할 것으로 전망된다.\n시장조사업체 IHS마킷 자료에 따르면 한국의 대형 디스플레이 출하량(LCD와 AMOLED 포함) 기준 국가별 점유율이 2016년 36%에서 2017년 31%로 줄어들 전망이다.\n반면에 중국은 26%에서 30%로의 성장이 예상된다.\n반면에 면적 기준으로는 한국이 영향력을 유지할 것으로 보인다.\n면적 기준 점유율은 한국이 2016년 43%에서 2017년 42%로 거의 변화가 없다고 IHS마킷은 내다봤다.\n중국은 23%에서 26%로 면적 점유율이 향상되지만 여전히 한국의 시장 지배력에는 미치지 못하는 수준이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국이 내년에 10.5세대 액정표시장치(LCD) 생산 라인을 가동할 예정이고, 올해 8세대 생산 능력을 확장하면서 2019년 대형 LCD 패널 출하량 세계 1위를 달성할 것으로 보인다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은 패널 출하 대수 기준으로 중국에 1위를 넘겨주지만 면적 기준으로는 여전히 세계 1등 국가의 입지를 유지할 것으로 전망된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시장조사업체 IHS마킷 자료에 따르면 한국의 대형 디스플레이 출하량(LCD와 AMOLED 포함) 기준 국가별 점유율이 2016년 36%에서 2017년 31%로 줄어들 전망이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면에 중국은 26%에서 30%로의 성장이 예상된다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "반면에 면적 기준으로는 한국이 영향력을 유지할 것으로 보인다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "면적 기준 점유율은 한국이 2016년 43%에서 2017년 42%로 거의 변화가 없다고 IHS마킷은 내다봤다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중국은 23%에서 26%로 면적 점유율이 향상되지만 여전히 한국의 시장 지배력에는 미치지 못하는 수준이다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[데이터 뉴스]한국과 중국의 대형 디스플레이 점유율",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

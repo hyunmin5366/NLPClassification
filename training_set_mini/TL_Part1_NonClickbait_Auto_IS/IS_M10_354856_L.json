@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354856",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "삼성SDS, 美 물류 스타트업 '비전' 투자…\\\"디지털 물류 키운다\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "삼성SDS(삼성에스디에스)는 삼성벤처투자펀드(SVIC)를 통해 해상 물류 가시성 기술을 보유한 미국 물류 스타트업 '비전'(Vizion)에 지분 투자를 했다고 5일 밝혔다.\n물류 가시성은 정확한 화물 출·도착시간과 위치 정보 등 물류 전 과정을 눈으로 확인할 수 있는 기술이다.\n제품 생산·판매 적기 및 신속한 리스크 대응 등에 필요한 핵심으로 꼽힌다.\n비전은 인공지능(AI) 기술을 활용, 전 세계 해운 선사 및 항만터미널 화물 위치 정보 등 주요 데이터를 자동 수집·분석해 높은 정확도의 화물 운송 정보를 실시간 제공한다.\n삼성SDS는 이러한 화물 위치 정보를 자사 디지털 물류 플랫폼 '첼로 스퀘어'(Cello Square)와 연계해 화물 운송 트래킹과 선박 스케줄 등 정보 제공과 화물 도착시간 예측 서비스 고도화를 추진한다.\n오구일 삼성SDS 물류사업부장(부사장)은 \\\"이번 투자로 디지털 물류서비스 경쟁력을 한층 강화할 수 있을 것으로 기대한다\\\"며 \\\"앞으로도 지속적인 투자와 기술 확보를 통해 글로벌 메이저 물류 서비스 기업으로 자리매김하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성SDS(삼성에스디에스)는 삼성벤처투자펀드(SVIC)를 통해 해상 물류 가시성 기술을 보유한 미국 물류 스타트업 '비전'(Vizion)에 지분 투자를 했다고 5일 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "물류 가시성은 정확한 화물 출·도착시간과 위치 정보 등 물류 전 과정을 눈으로 확인할 수 있는 기술이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "제품 생산·판매 적기 및 신속한 리스크 대응 등에 필요한 핵심으로 꼽힌다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비전은 인공지능(AI) 기술을 활용, 전 세계 해운 선사 및 항만터미널 화물 위치 정보 등 주요 데이터를 자동 수집·분석해 높은 정확도의 화물 운송 정보를 실시간 제공한다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성SDS는 이러한 화물 위치 정보를 자사 디지털 물류 플랫폼 '첼로 스퀘어'(Cello Square)와 연계해 화물 운송 트래킹과 선박 스케줄 등 정보 제공과 화물 도착시간 예측 서비스 고도화를 추진한다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오구일 삼성SDS 물류사업부장(부사장)은 \\\"이번 투자로 디지털 물류서비스 경쟁력을 한층 강화할 수 있을 것으로 기대한다\\\"며 \\\"앞으로도 지속적인 투자와 기술 확보를 통해 글로벌 메이저 물류 서비스 기업으로 자리매김하겠다\\\"고 말했다.",
+				"sentenceSize": 132
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성SDS, 美 물류 스타트업 '비전' 투자…\\\"디지털 물류 키운다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

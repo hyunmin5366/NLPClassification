@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014133",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스닥 '662.15'…7년 3개월 만에 최고치",
+		"newsSubTitle": "",
+		"newsContent": "코스닥이 660선을 돌파하며 7년 3개월 만에 최고치를 기록했다.\n6일 코스닥지수는 전날보다 4.11포인트 오른 662.15로 장을 마쳤다.\n이는 2008년 1월 18일 666.32를 기록한 이후 7년 3개월여 만에 가장 높은 수치다.\n이날 코스닥은 개인이 128억원 어치를 사들이며 지수 상승을 주도했다.\n코스피도 전날보다 1.01포인트 오른 2046.43으로 장을 마감했다.\n이날 코스피는 지난해 9월 18일 2053.82 이후 6개월여 만에 최고치다.\n외국인과 기관의 매도세에도 삼성전자를 중심으로 한 1분기 기업 실적 기대감이 지수를 떠받쳤다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스닥이 660선을 돌파하며 7년 3개월 만에 최고치를 기록했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 코스닥지수는 전날보다 4.11포인트 오른 662.15로 장을 마쳤다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 2008년 1월 18일 666.32를 기록한 이후 7년 3개월여 만에 가장 높은 수치다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 코스닥은 개인이 128억원 어치를 사들이며 지수 상승을 주도했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코스피도 전날보다 1.01포인트 오른 2046.43으로 장을 마감했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 코스피는 지난해 9월 18일 2053.82 이후 6개월여 만에 최고치다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "외국인과 기관의 매도세에도 삼성전자를 중심으로 한 1분기 기업 실적 기대감이 지수를 떠받쳤다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "풀무원샘물 \\\"내용물은 남기지 않고! 라벨은 분리하고!\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

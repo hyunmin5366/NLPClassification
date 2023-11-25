@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005571",
+		"newsCategory": "경제",
+		"newsSubcategory": "IT·통신",
+		"newsTitle": "KT, 기업특화망 AI 관제 솔루션 '아이온' 상용화",
+		"newsSubTitle": "AI와 SDN 기반으로 기업특화망 운영·관리효율 향상",
+		"newsContent": "KT가 기업특화망 인공지능(AI) 관제 솔루션 '아이온'(AiON) 개발은 완료하고, 서울 가산디지털단지 대륭테크노빌딩의 통신 인프라 운영에 시범 적용하는 등 상용화에 성공했다고 2일 밝혔다.\n아이온은 기업특화망의 운영과 관리 효율성을 높여주는 데 초점이 맞춰져 있다.\n이 솔루션의 핵심 구성 요소는 KT의 네트워크 인프라 운영을 통해 검증된 AI와 자동화(SDN) 기술이다.\nAI는 기업특화망에 연동된 장비에서 발생하는 시스템 기록과 트래픽, 성능 데이터 등 서비스 품질에 영향을 줄 수 있는 다양한 정보를 실시간으로 분석해 조치 방법을 제공한다.\nSDN은 기업특화망에 구축된 장비와 연결정보를 자동으로 탐색해 변경사항을 실시간으로 갱신하고, 장애가 발생할 수 있는 요소를 주기적으로 사전에 점검한다.\n장비를 자동으로 제어할 수 있는 소프트웨어 도구도 제공해, 명령어를 다수의 장비에 쉽고 빠르고, 정확하게 적용할 수 있다.\nKT는 이번 시범 적용을 시작으로 5G 특화망을 포함한 다양한 기업에서 활용할 수 있는 맞춤형 통합관제 시장에도 본격적으로 진출할 계획이다.\nKT 관계자는 데일리임팩트에 \\\"아이온을 활용하면 빌딩 통신 인프라를 비롯한 기업특화망을 효율적이고 안정적으로 운영할 수 있다\\\"라며 \\\"AI를 활용해 네트워크 전문가 없이도 기업특화망을 안정적으로 운영할 수 있고, 장애요인 분석 작업도 수 분 이내로 빠르게 끝낼 수 있다\\\"라고 강조했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 기업특화망 인공지능(AI) 관제 솔루션 '아이온'(AiON) 개발은 완료하고, 서울 가산디지털단지 대륭테크노빌딩의 통신 인프라 운영에 시범 적용하는 등 상용화에 성공했다고 2일 밝혔다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이온은 기업특화망의 운영과 관리 효율성을 높여주는 데 초점이 맞춰져 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 솔루션의 핵심 구성 요소는 KT의 네트워크 인프라 운영을 통해 검증된 AI와 자동화(SDN) 기술이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AI는 기업특화망에 연동된 장비에서 발생하는 시스템 기록과 트래픽, 성능 데이터 등 서비스 품질에 영향을 줄 수 있는 다양한 정보를 실시간으로 분석해 조치 방법을 제공한다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SDN은 기업특화망에 구축된 장비와 연결정보를 자동으로 탐색해 변경사항을 실시간으로 갱신하고, 장애가 발생할 수 있는 요소를 주기적으로 사전에 점검한다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "장비를 자동으로 제어할 수 있는 소프트웨어 도구도 제공해, 명령어를 다수의 장비에 쉽고 빠르고, 정확하게 적용할 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KT는 이번 시범 적용을 시작으로 5G 특화망을 포함한 다양한 기업에서 활용할 수 있는 맞춤형 통합관제 시장에도 본격적으로 진출할 계획이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "KT 관계자는 데일리임팩트에 \\\"아이온을 활용하면 빌딩 통신 인프라를 비롯한 기업특화망을 효율적이고 안정적으로 운영할 수 있다\\\"라며 \\\"AI를 활용해 네트워크 전문가 없이도 기업특화망을 안정적으로 운영할 수 있고, 장애요인 분석 작업도 수 분 이내로 빠르게 끝낼 수 있다\\\"라고 강조했다.",
+				"sentenceSize": 162
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "CGV 대전점, IMAX 영화관 15일 개관",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

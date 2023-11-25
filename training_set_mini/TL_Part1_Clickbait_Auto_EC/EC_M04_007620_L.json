@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007620",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "세종시 이주자택지도 '좋은 예감'",
+		"newsSubTitle": "393필지에 249명 몰려 신청률 63% '고무적'… 오늘 추첨",
+		"newsContent": "세종시 첫마을 아파트의 흥행이 이주자택지로 이어지고 있다.\nLH 세종시 본부가 13일 단독주택용지 392필지와 공동주택지 1필지 등 모두 393필지의 이주자택지 분양 신청을 마감한 결과, 모두 249명(63%)이 신청한 것으로 최종 집계됐다.\n이주자용 택지는 공동주택지와 개인이 집을 지을 수 있는 일반형 단독주택지, 동호인이나 친척 등이 모여 타운하우스 등을 지을 수 있는 블록형 단독주택지로 이뤄져 있다.\n단독주택용지 중 1-1 생활권 383필지에는 모두 229명이 신청했다.\n1-2·1-4 생활권 9필지에는 20명이 신청해 11명은 탈락하게 됐고, 공동주택지 1필지에는 단 한 명도 신청하지 않았다.\n3.3㎡당 분양가는 330㎡ 이하의 경우 158만원, 330㎡ 이상은 228만원이다.\n신청자는 14일 추첨을 통해 결정하고, 오는 20~24일 계약을 체결할 예정이다.\n이와 관련해 세종시 본부 관계자는 “50%만 넘기길 기대했지만, 63%나 기록했다는 건 고무적인 일”이라며 “퍼스트프라임이 성공한 덕분”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세종시 첫마을 아파트의 흥행이 이주자택지로 이어지고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LH 세종시 본부가 13일 단독주택용지 392필지와 공동주택지 1필지 등 모두 393필지의 이주자택지 분양 신청을 마감한 결과, 모두 249명(63%)이 신청한 것으로 최종 집계됐다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이주자용 택지는 공동주택지와 개인이 집을 지을 수 있는 일반형 단독주택지, 동호인이나 친척 등이 모여 타운하우스 등을 지을 수 있는 블록형 단독주택지로 이뤄져 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "단독주택용지 중 1-1 생활권 383필지에는 모두 229명이 신청했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1-2·1-4 생활권 9필지에는 20명이 신청해 11명은 탈락하게 됐고, 공동주택지 1필지에는 단 한 명도 신청하지 않았다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "3.3㎡당 분양가는 330㎡ 이하의 경우 158만원, 330㎡ 이상은 228만원이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신청자는 14일 추첨을 통해 결정하고, 오는 20~24일 계약을 체결할 예정이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이와 관련해 세종시 본부 관계자는 “50%만 넘기길 기대했지만, 63%나 기록했다는 건 고무적인 일”이라며 “퍼스트프라임이 성공한 덕분”이라고 말했다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아파트 주거 비율이 가장 높은 대전",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

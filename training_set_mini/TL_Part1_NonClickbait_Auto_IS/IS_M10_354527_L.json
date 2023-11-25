@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354527",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "서울대·성균관대·숭실대, AI반도체 학부 생긴다",
+		"newsSubTitle": "null",
+		"newsContent": "서울대와 성균관대, 숭실대에 인공지능(AI) 반도체 학부가 신설된다.\n3개 대학에는 올 7월부터 2025년 2월까지 대학당 14억원이 지원될 예정이다.\n과학기술정보통신부는 2일 이같은 내용을 담은 '인공지능반도체 융합인력양성' 사업 결과를 발표했다.\n이 사업은 AI반도체 분야의 인력 수요가 급증하는 상황에서 학부 때부터 실무형 인력 교육을 실시하기 위한 목적으로 기획됐다.\n이번에 선정된 3개 대학은 학내 다수 학과들이 참여해 'AI반도체 연합 전공'을 개설하게 된다.\n연합 전공은 하나의 독립된 전공으로 간주돼 이수하면 별도의 학사 학위가 수여된다.\n송상훈 과기정통부 정보통신산업정책관은 \\\"AI반도체 시장에 필요한 인력을 조기에 육성하고 확보하는 데 도움이 될 것\\\"이라며 \\\"앞으로 관련 분야의 인력 확보를 위해 정부가 지속 지원하겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울대와 성균관대, 숭실대에 인공지능(AI) 반도체 학부가 신설된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3개 대학에는 올 7월부터 2025년 2월까지 대학당 14억원이 지원될 예정이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과학기술정보통신부는 2일 이같은 내용을 담은 '인공지능반도체 융합인력양성' 사업 결과를 발표했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 사업은 AI반도체 분야의 인력 수요가 급증하는 상황에서 학부 때부터 실무형 인력 교육을 실시하기 위한 목적으로 기획됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번에 선정된 3개 대학은 학내 다수 학과들이 참여해 'AI반도체 연합 전공'을 개설하게 된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연합 전공은 하나의 독립된 전공으로 간주돼 이수하면 별도의 학사 학위가 수여된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송상훈 과기정통부 정보통신산업정책관은 \\\"AI반도체 시장에 필요한 인력을 조기에 육성하고 확보하는 데 도움이 될 것\\\"이라며 \\\"앞으로 관련 분야의 인력 확보를 위해 정부가 지속 지원하겠다\\\"고 밝혔다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서울대·성균관대·숭실대, AI반도체 학부 생긴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

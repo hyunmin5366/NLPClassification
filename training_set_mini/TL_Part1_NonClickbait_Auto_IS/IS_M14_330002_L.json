@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330002",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "일 르네사스, 혈압측정평가 키트 출시",
+		"newsSubTitle": "",
+		"newsContent": "日 르네사스일렉트로닉스는 혈압 측정에 필요한 거의 모든 기능이 구현된 헬스케어 솔루션 '혈압 측정 평가 키트'를 출시했다.\n하드웨어는 헬스케어에 최적화한 ASSP(Application Specific Standard Product) 'RL78/H1D'를 탑재했다.\n이에따라 압력센서, 커프, 펌프, 솔레노이드밸브, LCD패널 제어 뿐만 아니라 고성능아날로그 내장기능을 이용한 고정밀 혈압측정도 가능하다.\n또 BLE(Bluetooth Low Energy) 모듈을 탑재해 측정데이터를 스마트폰으로 전송할 수 있다.\nGUI툴은 압력센서, 펌프, 전자밸브 등을 직접 제어할 수 있다.\n혈압측정시 커프 압력파형으로부터 맥파 파형을 추출하기 위한 IIR 디지털필터연산도 GUI툴을 이용해 시뮬레이션할 수 있다.\n시뮬레이션으로 산출한 디지털 필터정수를 RL78/H1D 레퍼런스소프트웨어에 적용해 실제동작을 평가 할 수 있다.\n김중오 르네사스 일렉트로닉스 한국 전무는 “소비자의 건강 관심으로 혈압계 수요 증가와 웨어러블 단말기 시장이 확대 되고 있다”면서 “혈압 측정 시스템 개발 경험이 없는 개발자도 쉽고 빠르게 개발 할 수 있도록 평가 키트를 개발했다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "日 르네사스일렉트로닉스는 혈압 측정에 필요한 거의 모든 기능이 구현된 헬스케어 솔루션 '혈압 측정 평가 키트'를 출시했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하드웨어는 헬스케어에 최적화한 ASSP(Application Specific Standard Product) 'RL78/H1D'를 탑재했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에따라 압력센서, 커프, 펌프, 솔레노이드밸브, LCD패널 제어 뿐만 아니라 고성능아날로그 내장기능을 이용한 고정밀 혈압측정도 가능하다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 BLE(Bluetooth Low Energy) 모듈을 탑재해 측정데이터를 스마트폰으로 전송할 수 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "GUI툴은 압력센서, 펌프, 전자밸브 등을 직접 제어할 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "혈압측정시 커프 압력파형으로부터 맥파 파형을 추출하기 위한 IIR 디지털필터연산도 GUI툴을 이용해 시뮬레이션할 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시뮬레이션으로 산출한 디지털 필터정수를 RL78/H1D 레퍼런스소프트웨어에 적용해 실제동작을 평가 할 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김중오 르네사스 일렉트로닉스 한국 전무는 “소비자의 건강 관심으로 혈압계 수요 증가와 웨어러블 단말기 시장이 확대 되고 있다”면서 “혈압 측정 시스템 개발 경험이 없는 개발자도 쉽고 빠르게 개발 할 수 있도록 평가 키트를 개발했다”고 밝혔다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일 르네사스, 혈압측정평가 키트 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

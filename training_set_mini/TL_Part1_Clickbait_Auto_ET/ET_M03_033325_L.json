@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_033325",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"비·김태희 부부, 돈 많아서 잘 살고 있다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "god 박준형이 비와 김태희 부부를 언급했다.\n지난 20일 방송된 KBS2 '해피투게더3'는 백일섭, 설현, 박준형, 토니안, 곽시양이 출연한 '스타의 개를 소개합니다' 특집으로 꾸며졌다.\n박명수는 박준형에게 \\\"김태희, 비와 친분이 정말 있냐. 잘 살고 있냐\\\"고 물었다.\n박준형은 \\\"나 되게 잘 안다\\\"며 \\\"(두 사람) 되게 잘 살지. 돈이 그렇게 많으면 잘 살아. 솔직한 말이다\\\"라고 말해 웃음을 안겼다.\n한편 비와 김태희는 1월 17일 결혼식을 올렸다.\n이들 부부는 500억원대 부동산을 소유한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "god 박준형이 비와 김태희 부부를 언급했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 20일 방송된 KBS2 '해피투게더3'는 백일섭, 설현, 박준형, 토니안, 곽시양이 출연한 '스타의 개를 소개합니다' 특집으로 꾸며졌다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박명수는 박준형에게 \\\"김태희, 비와 친분이 정말 있냐. 잘 살고 있냐\\\"고 물었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "박준형은 \\\"나 되게 잘 안다\\\"며 \\\"(두 사람) 되게 잘 살지. 돈이 그렇게 많으면 잘 살아. 솔직한 말이다\\\"라고 말해 웃음을 안겼다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 비와 김태희는 1월 17일 결혼식을 올렸다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들 부부는 500억원대 부동산을 소유한 것으로 알려졌다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘한산’ 한일전은, 후반부터[편파적인 씨네리뷰]",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005240",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "쌍방울그룹, 쌍용차 인수 나서나",
+		"newsSubTitle": "“성사 시 자금력과 시너지는 문제 없을 듯”",
+		"newsContent": "과거 저비용항공사 이스타항공 인수 시도 등 공격적 기업인수·합병(M&A) 행보를 보이고 있는 쌍방울그룹이 쌍용자동차 인수에 나설 전망이다.\n31일 재계에 따르면 쌍방울그룹은 특장차 계열사 광림 주도로 쌍용차 인수를 적극 추진할 계획이다.\n쌍방울그룹은 이르면 다음주 초쯤 인수의향서(LOI) 제출할 예정인 것으로 알려졌다.\n자세한 인수방식은 알려지지 않았다.\n앞서 쌍용차는 지난 28일 에디슨모터스 컨소시엄이 2700여억원의 인수자금을 미납하면서 계약해지를 선언하고 빠른 재매각 추진 방침을 밝힌 바 있다.\n쌍방울그룹의 경우 비록 인수에는 실패했으나, 지난 2021년 이스타항공 M&A에 참여했을 당시 1000억원대 인수자금을 확보해 둔 상태다.\n여기에 쌍용차 인수를 위해 계열사들을 동원해 컨소시엄을 구성하면 M&A를 성사시키는 데 큰 문제는 없을 것으로 여겨진다.\n재계 관계자는 데일리임팩트에 \\\"쌍방울그룹 계열 광림은 특장차 회사인 만큼 쌍용차 인수 시 연관산업 시너지는 기대할 수 있다\\\"라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과거 저비용항공사 이스타항공 인수 시도 등 공격적 기업인수·합병(M&A) 행보를 보이고 있는 쌍방울그룹이 쌍용자동차 인수에 나설 전망이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "31일 재계에 따르면 쌍방울그룹은 특장차 계열사 광림 주도로 쌍용차 인수를 적극 추진할 계획이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "쌍방울그룹은 이르면 다음주 초쯤 인수의향서(LOI) 제출할 예정인 것으로 알려졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "자세한 인수방식은 알려지지 않았다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 쌍용차는 지난 28일 에디슨모터스 컨소시엄이 2700여억원의 인수자금을 미납하면서 계약해지를 선언하고 빠른 재매각 추진 방침을 밝힌 바 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "쌍방울그룹의 경우 비록 인수에는 실패했으나, 지난 2021년 이스타항공 M&A에 참여했을 당시 1000억원대 인수자금을 확보해 둔 상태다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "여기에 쌍용차 인수를 위해 계열사들을 동원해 컨소시엄을 구성하면 M&A를 성사시키는 데 큰 문제는 없을 것으로 여겨진다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "재계 관계자는 데일리임팩트에 \\\"쌍방울그룹 계열 광림은 특장차 회사인 만큼 쌍용차 인수 시 연관산업 시너지는 기대할 수 있다\\\"라고 밝혔다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'총재 공석' 금통위, 변화 대신 안정 가닥잡나",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

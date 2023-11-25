@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002456",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "시중은행 '영업시간 1시간 단축'...거리두기 2.5단계 격상에 따라",
+		"newsSubTitle": "오전 9시30분부터 오후 3시30분까지 영업 지난 9월에도 2주간 영업 시간 단축 시행",
+		"newsContent": "신종 코로나바이러스감염증(이하 코로나19)의 3차 대유행 조짐으로 수도권의 사회적 거리두기가 2.5단계로 격상된 가운데, 수도권 시중 은행들의 영업 시간이 조정된다.\n7일 금융권에 따르면 전국금융산업노동조합은 오는 8일부터 서울, 인천, 경기 등 수도권 은행 점포의 영업시간을 1시간 단축해 줄 것을 금융산업사용자협회에 요청했다.\n이에 따라 수도권 은행 점포의 영업시간은 기존 오전 9시~오후4시에서 1시간 줄어든 오후 9시30분~오후 3시30분이 될 전망이다.\n다만, 시행은 고객들의 혼란을 막기 위해 8일부터 시행될 예정이다.\n한편 지난 8월 금융산업사용자협의화와 전국금융산업노동조합은 사회적 거리두기 2.5단계 격상 시, 영업시간을 단축하기로 합의한 바 있다.\n이에따라 지난 9월 1일부터 13일까지 약 2주간 수도권 지역을 중심으로 은행 단축영업을 시행하기도 했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신종 코로나바이러스감염증(이하 코로나19)의 3차 대유행 조짐으로 수도권의 사회적 거리두기가 2.5단계로 격상된 가운데, 수도권 시중 은행들의 영업 시간이 조정된다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 금융권에 따르면 전국금융산업노동조합은 오는 8일부터 서울, 인천, 경기 등 수도권 은행 점포의 영업시간을 1시간 단축해 줄 것을 금융산업사용자협회에 요청했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따라 수도권 은행 점포의 영업시간은 기존 오전 9시~오후4시에서 1시간 줄어든 오후 9시30분~오후 3시30분이 될 전망이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다만, 시행은 고객들의 혼란을 막기 위해 8일부터 시행될 예정이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 지난 8월 금융산업사용자협의화와 전국금융산업노동조합은 사회적 거리두기 2.5단계 격상 시, 영업시간을 단축하기로 합의한 바 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에따라 지난 9월 1일부터 13일까지 약 2주간 수도권 지역을 중심으로 은행 단축영업을 시행하기도 했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“대전지역 백화점서 여름상품 만나보세요”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

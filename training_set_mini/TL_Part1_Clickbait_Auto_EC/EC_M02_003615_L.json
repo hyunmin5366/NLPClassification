@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003615",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "KB국민은행, '보이스피싱 악성앱 차단 서비스' 공개",
+		"newsSubTitle": "KB스타뱅킹, 리브앱 실행 만으로도 악성앱 차단 가능 차단 뿐 아니라 임의로 설치된 악성앱 탐색 및 삭제",
+		"newsContent": "KB국민은행은 로그인 없이 KB스타뱅킹, 리브를 실행만 해도 즉시 보이스피싱으로 의심되는 악성앱을 탐지하고 삭제하는 '보이스피싱 악성앱 차단 서비스'를 시행한다고 8일 밝혔다.\n이날부터 적용된 악성앱 차단 서비스는 전 세계 모든 앱 스토어에서 배포된 앱들을 인공지능(AI) 플랫폼이 실시간으로 수집‧분석해 정상적인 앱 파일의 형태에서 벗어난 앱을 찾아내는 기술이다.\n기존의 악성앱 탐지 기술은 예전에 사고가 발생했던 악성앱 블랙리스트에 속한 앱만 차단하기 때문에 사기범들이 새롭게 악성앱을 만들어 고객의 스마트폰에 설치할 경우 탐지할 수 없는 한계를 안고 있었다.\n하지만 이번 기술 탑재를 통해 보이스피싱에 활용되는 신종 악성앱(은행‧기관 사칭, 전화 가로채기, 원격제어 앱 등)까지 탐지‧차단해 사전에 고객피해를 예방하는 효과를 거두고 있다.\n악성앱 차단 서비스 시행 후 KB스타뱅킹 앱에 접속한 스마트폰 가운데 1만여개에서 악성앱을 탐지했고, 그 가운데 77% 이상 고객이 악성앱을 삭제했다.\nKB국민은행 관계자는 미디어SR에 \\\"이 뿐 아니라 사기범에 의해 고객 스마트폰에 임의로 설치된 악성앱까지 탐지할 수 있다\\\"고 설명했다.\n한편, KB국민은행은 기존 운영중인 인공지능을 활용한 이상거래탐지시스템(FDS)에 신종 사기 패턴을 추가했다.\n이를 통해 최근 3개월간 680여건의 부정이체를 차단하고 65억원 이상의 보이스피싱 피해를 예방하는 성과를 거둔 바 있다.\nKB국민은행측은 \\\"급증하는 보이스피싱 사기 범죄를 효과적으로 예방해 고객 피해를 최소화할 수 있도록 노력하겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KB국민은행은 로그인 없이 KB스타뱅킹, 리브를 실행만 해도 즉시 보이스피싱으로 의심되는 악성앱을 탐지하고 삭제하는 '보이스피싱 악성앱 차단 서비스'를 시행한다고 8일 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날부터 적용된 악성앱 차단 서비스는 전 세계 모든 앱 스토어에서 배포된 앱들을 인공지능(AI) 플랫폼이 실시간으로 수집‧분석해 정상적인 앱 파일의 형태에서 벗어난 앱을 찾아내는 기술이다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존의 악성앱 탐지 기술은 예전에 사고가 발생했던 악성앱 블랙리스트에 속한 앱만 차단하기 때문에 사기범들이 새롭게 악성앱을 만들어 고객의 스마트폰에 설치할 경우 탐지할 수 없는 한계를 안고 있었다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 이번 기술 탑재를 통해 보이스피싱에 활용되는 신종 악성앱(은행‧기관 사칭, 전화 가로채기, 원격제어 앱 등)까지 탐지‧차단해 사전에 고객피해를 예방하는 효과를 거두고 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "악성앱 차단 서비스 시행 후 KB스타뱅킹 앱에 접속한 스마트폰 가운데 1만여개에서 악성앱을 탐지했고, 그 가운데 77% 이상 고객이 악성앱을 삭제했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KB국민은행 관계자는 미디어SR에 \\\"이 뿐 아니라 사기범에 의해 고객 스마트폰에 임의로 설치된 악성앱까지 탐지할 수 있다\\\"고 설명했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, KB국민은행은 기존 운영중인 인공지능을 활용한 이상거래탐지시스템(FDS)에 신종 사기 패턴을 추가했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 통해 최근 3개월간 680여건의 부정이체를 차단하고 65억원 이상의 보이스피싱 피해를 예방하는 성과를 거둔 바 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "KB국민은행측은 \\\"급증하는 보이스피싱 사기 범죄를 효과적으로 예방해 고객 피해를 최소화할 수 있도록 노력하겠다\\\"고 밝혔다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대우건설, '스마트홈 플랫폼 사업' 본격화",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332300",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "르네사스, 가전제품 모터 고장진단 솔루션 출시",
+		"newsSubTitle": "",
+		"newsContent": "日 르네사스일렉트로닉스는 가전제품 모터의 고장 여부와 위치를 빠르게 파악할 수 있는 모터 진단 솔루션을 출시한다.\n이 솔루션은 32비트 MCU RX66T를 사용한 임베디드 인공지능(e-AI) 솔루션이다.\n냉장고, 에어콘, 세탁기 등 모터 탑재 가전제품의 고장을 감지할 수 있다.\n모터 상태를 나타내는 전류값과 회전수 등 특성 데이터를 이상 감지용으로 사용한다.\n별도 센서를 추가할 필요가 없고 모터 제어와 e-AI를 하나의 MCU로 실현한다.\n모터 동작시 항상 모터를 감시해 리얼타임으로 이상을 감지할 수 있다.\n고장 경고를 하거나 유지∙보수시기 예측, 고장위치 파악 등에 사용할 수 있다.\n최대 4개 모터제어가 가능하다.\n세탁기를 예로 들면 세탁조 회전 모터, 물 순환 펌프용 모터, 건조용 팬모터 등 3개 모터를 RX66T 1개로 제어하고 이상을 감지할 수 있다.\nRX66T로 동작하는 샘플 프로그램 1개와 모터 상태를 나타내는 특성 데이터 수집∙분석이 가능한 GUI툴을 제공한다.\n개발자는 GUI툴을 사용해 정상 상태 학습없이 AI학습과 최적화된 고장검지기능 개발에 착수할 수 있다.\n모리야 토루 르네사스 홈솔루션사업본부장은 \\\"모터 자체 이상인지 인버터회로 이상인지 찾기 어려운 경우에도 이상 위치를 빠르게 찾을 수 있다\\\"면서 \\\"고장수리 대응시 수리기사가 신속 대처할 수 있어 수리시간을 줄일 수 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "日 르네사스일렉트로닉스는 가전제품 모터의 고장 여부와 위치를 빠르게 파악할 수 있는 모터 진단 솔루션을 출시한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 솔루션은 32비트 MCU RX66T를 사용한 임베디드 인공지능(e-AI) 솔루션이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "냉장고, 에어콘, 세탁기 등 모터 탑재 가전제품의 고장을 감지할 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "모터 상태를 나타내는 전류값과 회전수 등 특성 데이터를 이상 감지용으로 사용한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "별도 센서를 추가할 필요가 없고 모터 제어와 e-AI를 하나의 MCU로 실현한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모터 동작시 항상 모터를 감시해 리얼타임으로 이상을 감지할 수 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "고장 경고를 하거나 유지∙보수시기 예측, 고장위치 파악 등에 사용할 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최대 4개 모터제어가 가능하다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "세탁기를 예로 들면 세탁조 회전 모터, 물 순환 펌프용 모터, 건조용 팬모터 등 3개 모터를 RX66T 1개로 제어하고 이상을 감지할 수 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "RX66T로 동작하는 샘플 프로그램 1개와 모터 상태를 나타내는 특성 데이터 수집∙분석이 가능한 GUI툴을 제공한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "개발자는 GUI툴을 사용해 정상 상태 학습없이 AI학습과 최적화된 고장검지기능 개발에 착수할 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "모리야 토루 르네사스 홈솔루션사업본부장은 \\\"모터 자체 이상인지 인버터회로 이상인지 찾기 어려운 경우에도 이상 위치를 빠르게 찾을 수 있다\\\"면서 \\\"고장수리 대응시 수리기사가 신속 대처할 수 있어 수리시간을 줄일 수 있다\\\"고 말했다.",
+				"sentenceSize": 132
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "르네사스, 가전제품 모터 고장진단 솔루션 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_001498",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "아이덴티티게임즈 직원 코로나19 확진...강남 사옥 폐쇄",
+		"newsSubTitle": "",
+		"newsContent": "액토즈소프트 자회사 아이덴티티게임즈의 직원 1명이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.\n아이덴티티게임즈는 \\\"3일 직원이 코로나19 양성 판정을 받았다. 해당 직원 감염 경로는 질병관리본부에서 파악 중이다\\\"고 3일 밝혔다.\n아이덴티티게임즈 관계자는 미디어SR에 \\\"서울시 강남구 역삼동에 위치한 사옥도 질병관리본부 통제에 따라 폐쇄 조치를 취했다\\\"고 밝혔다.\n회사 측은 \\\"현재 전사 재택 근무를 실시하는 만큼, 해당 직원 및 같은 층의 근무 직원은 재택에서도 가족과의 접촉 최소화, 마스크를 착용하도록 전달했다\\\"고 설명했다.\n액토즈소프트와 아이덴티티게임즈는 지난 2월 11일부터 필요한 직원에 대한 재택근무 실시, 손세정제, 손소독기, 일회용 마스크, 체온계 등을 비치하고 두 차례 방역을 실시했다.\n지난 2월 28일부터는 전사 재택근무를 시행했다.\n아이덴티티게임즈 측은 \\\"방역을 강화하고, 확진자 및 관계자 자택 근무를 실시하는 등 기존 임직원의 건강과 안전에 만전을 기하고 있다\\\"고 강조했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "액토즈소프트 자회사 아이덴티티게임즈의 직원 1명이 신종 코로나바이러스 감염증(코로나19) 확진 판정을 받았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이덴티티게임즈는 \\\"3일 직원이 코로나19 양성 판정을 받았다. 해당 직원 감염 경로는 질병관리본부에서 파악 중이다\\\"고 3일 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이덴티티게임즈 관계자는 미디어SR에 \\\"서울시 강남구 역삼동에 위치한 사옥도 질병관리본부 통제에 따라 폐쇄 조치를 취했다\\\"고 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "회사 측은 \\\"현재 전사 재택 근무를 실시하는 만큼, 해당 직원 및 같은 층의 근무 직원은 재택에서도 가족과의 접촉 최소화, 마스크를 착용하도록 전달했다\\\"고 설명했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "액토즈소프트와 아이덴티티게임즈는 지난 2월 11일부터 필요한 직원에 대한 재택근무 실시, 손세정제, 손소독기, 일회용 마스크, 체온계 등을 비치하고 두 차례 방역을 실시했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 2월 28일부터는 전사 재택근무를 시행했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아이덴티티게임즈 측은 \\\"방역을 강화하고, 확진자 및 관계자 자택 근무를 실시하는 등 기존 임직원의 건강과 안전에 만전을 기하고 있다\\\"고 강조했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "고위 공무원 '월소득 최고'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

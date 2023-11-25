@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352345",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"어디서든 원격근무 안전하게\\\" 프라이빗테크, 포스코 인터와 공급계약",
+		"newsSubTitle": "null",
+		"newsContent": "프라이빗테크놀로지는 1일 포스코인터네셔널에 통합 클라우드 네트워크 공급 계약을 체결했다고 밝혔다.\n프라이빗테크놀로지는 안전한 애플리케이션만 네트워크에 접속시키는 기술을 제공하는 보안 스타트업이다.\n네트워크에 접속하는 통신주체인 모든 애플리케이션은 랜섬웨어와 악성코드 등을 전송할 수 있기 때문에 기본적으로 신뢰할 수 없다는 '제로 트러스트 보안' 원칙을 기반으로 솔루션을 개발한다.\n기존 VPN(가상사설망)은 한번 사용자 인증 후엔 별 다른 접근제한을 두지 않는다는 보안 취약점을 갖고 있다.\n이를 악용해 랜섬웨어 등이 주요 업무 시스템에 침투해 정보를 탈취하거나 서비스를 마비시키는 보안사고가 속출한다.\n이에 일부 기업에선 VPN이 아닌 제로트러스트 네트워크 액세스(ZTNA) 기술을 도입하려는 움직임이 늘고 있다.\n이번 계약 체결로 프라이빗테크놀로지는 포스코인터내셔널에 클라우드 네트워크 서비스 '패킷고(PacketGo)'를 공급한다.\n패킷고는 접속제어 기술을 적용해 분산된 업무환경에서의 VPN 보안 취약점을 해결하고 강력한 보안 컴플라이언스 요소를 제공한다.\n회사 측은 \\\"이번 계약은 애플리케이션 접속제어 기술에 대한 필요성과 가치를 인정받은 사례\\\"라고 설명했다.\n향후 전 세계 80여개 도시에 위치한 포스코인터내셔널 해외 법인과 지사의 임직원은 프라이빗테크놀로지의 엣지 게이트웨이에 접속할 수 있는 분산 네트워크 환경을 제공받게 된다.\n기존 VPN 대비 네트워크 성능은 최대 6배 개선됐으며 전용선 임대 시 발생되는 고정비용도 낮췄다.\n김동호 포스코인터내셔널 CISO는 \\\"이번 계약으로 국내외 모든 임직원이 언제 어디서든 안전하게 업무 시스템에 접속할 수 있는 IT인프라를 갖추게 됐다\\\"고 말했다.\n한편 프라이빗테크놀로지는 마이크로소프트 코리아 등 전략적 파트너들과 함께 제로 트러스트 기반 클라우드 전용선 서비스 마케팅을 공동 진행할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "프라이빗테크놀로지는 1일 포스코인터네셔널에 통합 클라우드 네트워크 공급 계약을 체결했다고 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프라이빗테크놀로지는 안전한 애플리케이션만 네트워크에 접속시키는 기술을 제공하는 보안 스타트업이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네트워크에 접속하는 통신주체인 모든 애플리케이션은 랜섬웨어와 악성코드 등을 전송할 수 있기 때문에 기본적으로 신뢰할 수 없다는 '제로 트러스트 보안' 원칙을 기반으로 솔루션을 개발한다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 VPN(가상사설망)은 한번 사용자 인증 후엔 별 다른 접근제한을 두지 않는다는 보안 취약점을 갖고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 악용해 랜섬웨어 등이 주요 업무 시스템에 침투해 정보를 탈취하거나 서비스를 마비시키는 보안사고가 속출한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 일부 기업에선 VPN이 아닌 제로트러스트 네트워크 액세스(ZTNA) 기술을 도입하려는 움직임이 늘고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 계약 체결로 프라이빗테크놀로지는 포스코인터내셔널에 클라우드 네트워크 서비스 '패킷고(PacketGo)'를 공급한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "패킷고는 접속제어 기술을 적용해 분산된 업무환경에서의 VPN 보안 취약점을 해결하고 강력한 보안 컴플라이언스 요소를 제공한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "회사 측은 \\\"이번 계약은 애플리케이션 접속제어 기술에 대한 필요성과 가치를 인정받은 사례\\\"라고 설명했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "향후 전 세계 80여개 도시에 위치한 포스코인터내셔널 해외 법인과 지사의 임직원은 프라이빗테크놀로지의 엣지 게이트웨이에 접속할 수 있는 분산 네트워크 환경을 제공받게 된다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "기존 VPN 대비 네트워크 성능은 최대 6배 개선됐으며 전용선 임대 시 발생되는 고정비용도 낮췄다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "김동호 포스코인터내셔널 CISO는 \\\"이번 계약으로 국내외 모든 임직원이 언제 어디서든 안전하게 업무 시스템에 접속할 수 있는 IT인프라를 갖추게 됐다\\\"고 말했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "한편 프라이빗테크놀로지는 마이크로소프트 코리아 등 전략적 파트너들과 함께 제로 트러스트 기반 클라우드 전용선 서비스 마케팅을 공동 진행할 예정이다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"어디서든 원격근무 안전하게\\\" 프라이빗테크, 포스코 인터와 공급계약",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

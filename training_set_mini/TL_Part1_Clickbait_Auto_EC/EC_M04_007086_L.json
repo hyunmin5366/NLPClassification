@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007086",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "새마을금고, 끊이지 않는 금융사고 521억",
+		"newsSubTitle": "",
+		"newsContent": "새마을금고의 금융사고 피해액이 최근 5년간 500억원에 넘어선 것으로 나타났다.\n행정안전부가 국회 행정안전위원회 김소남(한나라당) 의원에 제출한 국정감사 자료에 따르면, 5년간 새마을금고의 금융사고는 모두 17건으로, 피해액은 521억원에 달했다.\n2005년 7억2500만원에서 2006년 94억400만원으로 급증했고, 2007년 77억1300만원으로 다소 줄었다가 2008년 291억4200만원으로 또다시 큰 폭으로 늘었다.\n지난해 피해액도 51억6400만원이나 됐다.\n재무구조 불건전성 등 정부로부터 받은 각종 지적사항도 2008년 24개 금고 171건에서 2009년 46개 금고 288억원으로 증가했다.\n반면, 복지사업 지원금액은 2007년 168억1000만원에서 2008년 164억8000만원, 2009년 158억원 등으로 매년 줄었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "새마을금고의 금융사고 피해액이 최근 5년간 500억원에 넘어선 것으로 나타났다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "행정안전부가 국회 행정안전위원회 김소남(한나라당) 의원에 제출한 국정감사 자료에 따르면, 5년간 새마을금고의 금융사고는 모두 17건으로, 피해액은 521억원에 달했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2005년 7억2500만원에서 2006년 94억400만원으로 급증했고, 2007년 77억1300만원으로 다소 줄었다가 2008년 291억4200만원으로 또다시 큰 폭으로 늘었다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 피해액도 51억6400만원이나 됐다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "재무구조 불건전성 등 정부로부터 받은 각종 지적사항도 2008년 24개 금고 171건에서 2009년 46개 금고 288억원으로 증가했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반면, 복지사업 지원금액은 2007년 168억1000만원에서 2008년 164억8000만원, 2009년 158억원 등으로 매년 줄었다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "바른 먹거리 고집 31년, 족발의 대명사로",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

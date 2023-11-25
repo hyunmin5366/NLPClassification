@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017857",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "현대프리미엄아울렛 대전점, 확진자 방문에 폐쇄 방역 조치",
+		"newsSubTitle": "",
+		"newsContent": "코로나19 확진자가 다녀간 현대프리미엄아울렛 대전점이 그랜드 오픈 일주일 만에 폐쇄 조치가 내려졌다.\n대전 126번과 127번 확진자는 지난달 26일과 29일 현대아울렛을 방문한 것으로 동선이 확인되면 서다.\n일각에서는 우려했던 사태가 발생했다며, 무리한 오픈 일정에 대한 책임론은 피할 수 없는 여론이 거세지고 있다.\n여기에 확진자들이 방문객이 가장 많이 몰렸던 그랜드 오픈 초기에 방문했던 터라 최악의 경우 새로운 확산 진원지가 될 수도 있다는 우려 또한 수면 위로 떠올랐다.\n현대아울렛은 26일 그랜드 오픈에 앞서 개장 연기를 논의해 왔으나 결국 강행하면서 뭇매를 맞았다.\n3일 대전시는 현대아울렛 방역은 오늘까지 실시하되 차후 폐쇄 연장 여부는 역학조사 후 판단하겠다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 확진자가 다녀간 현대프리미엄아울렛 대전점이 그랜드 오픈 일주일 만에 폐쇄 조치가 내려졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대전 126번과 127번 확진자는 지난달 26일과 29일 현대아울렛을 방문한 것으로 동선이 확인되면 서다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "일각에서는 우려했던 사태가 발생했다며, 무리한 오픈 일정에 대한 책임론은 피할 수 없는 여론이 거세지고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기에 확진자들이 방문객이 가장 많이 몰렸던 그랜드 오픈 초기에 방문했던 터라 최악의 경우 새로운 확산 진원지가 될 수도 있다는 우려 또한 수면 위로 떠올랐다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현대아울렛은 26일 그랜드 오픈에 앞서 개장 연기를 논의해 왔으나 결국 강행하면서 뭇매를 맞았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "3일 대전시는 현대아울렛 방역은 오늘까지 실시하되 차후 폐쇄 연장 여부는 역학조사 후 판단하겠다고 밝혔다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버웹툰, 문피아와 웹소설 공모전...총상금 10억원",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

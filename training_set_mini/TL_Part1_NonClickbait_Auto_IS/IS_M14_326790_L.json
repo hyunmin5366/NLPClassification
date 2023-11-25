@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326790",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "시앤지원, A3Cube와 국내 총판 계약 체결",
+		"newsSubTitle": "",
+		"newsContent": "시앤지원(대표 안재웅)은 지난 1일 미국 실리콘벨리에 위치한 A3Cube(대표 Antonella Rubicco)와 Supercomputing Appliance에 대한 국내 총판 계약을 체결했다고 발표했다.\n시앤지원은 DELLEMC의 Platinum Partner로써 2013년부터 국내 굴지의 대기업에 빅데이터 플랫폼을 구축하기 위하여 DELLEMC DCA(Data Computing Appliance)와 Pivotal의 GPDB(Greenplum Database, MPP방식의 DB), PHD(Pivotal Hadoop)을 다수 공급, 운영중인 전문 빅데이터 업체이다.\n그동안은 정형, 비정형 데이터 분석을 위한 시스템으로 저렴한 x86 서버와 10G Network Switch를 이용한 인프라를 이용하였으나, 보다 빠른 데이터의 처리 및 연산 작업, GPU를 기반으로 하는 Machine Learning, Deep Learning, AI에 적합한 새로운 분석 인프라의 필요성이 증대되고 있다.\nA3Cube의 Grifo, KIRA-CS, KIRA-EMTA, F-730 Family는 HPC(High Performance Computing)의 기술을 적용한 최고의 Supercomputing 플랫폼을 Appliance 제품으로 제작, 판매하고 있다.\nA3Cube의 Fortissimo Foundry는 Disk IO의 병목 현상을 해결하는 ANIMA PFS(Parallel File System), Infiniband Switch와 NVMe over Fabric을 결합하여 노드간의 데이터 공유 및 초고속의 전송 기능 제공한다.\nNode들의 확장성을 위한 Network Topology 및 GPU Sharing 기술(Ndivia P100 사용)을 적용하여 노드간의 GPU 자원을 공유하는 기술을 제공하는 제품이다.\nGPU Sharing의 특징은 노드에 장착된 GPU들을 GPU Domain을 통하여 각 노드에서 전체 GPU`s를 병렬 처리 할 수 있도록 하여 GPU 성능을 최대치로 활용할 수 있다.\nA3Cube의 제품은 일반 RDBMS(MySQL, PostgresSQL, GPDB등)을 탑재 운영하면, SQL의 처리 속도를 최대 42배 향상 시킬 수 있다.\n또한 고객이 원하는 빅데이터 및 각종 HPC Application(기상 예측, 유체역학 분석 등)을 운영할 수 있으며, 보다 빠른 분석 및 예측을 위한 H/W(x86 Server, Infiniband, Ronniee express card) 및 솔루션(Fotissimo Foundry)함께 제공하여 최고의 성능을 보장한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "시앤지원(대표 안재웅)은 지난 1일 미국 실리콘벨리에 위치한 A3Cube(대표 Antonella Rubicco)와 Supercomputing Appliance에 대한 국내 총판 계약을 체결했다고 발표했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시앤지원은 DELLEMC의 Platinum Partner로써 2013년부터 국내 굴지의 대기업에 빅데이터 플랫폼을 구축하기 위하여 DELLEMC DCA(Data Computing Appliance)와 Pivotal의 GPDB(Greenplum Database, MPP방식의 DB), PHD(Pivotal Hadoop)을 다수 공급, 운영중인 전문 빅데이터 업체이다.",
+				"sentenceSize": 204
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그동안은 정형, 비정형 데이터 분석을 위한 시스템으로 저렴한 x86 서버와 10G Network Switch를 이용한 인프라를 이용하였으나, 보다 빠른 데이터의 처리 및 연산 작업, GPU를 기반으로 하는 Machine Learning, Deep Learning, AI에 적합한 새로운 분석 인프라의 필요성이 증대되고 있다.",
+				"sentenceSize": 181
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "A3Cube의 Grifo, KIRA-CS, KIRA-EMTA, F-730 Family는 HPC(High Performance Computing)의 기술을 적용한 최고의 Supercomputing 플랫폼을 Appliance 제품으로 제작, 판매하고 있다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "A3Cube의 Fortissimo Foundry는 Disk IO의 병목 현상을 해결하는 ANIMA PFS(Parallel File System), Infiniband Switch와 NVMe over Fabric을 결합하여 노드간의 데이터 공유 및 초고속의 전송 기능 제공한다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "Node들의 확장성을 위한 Network Topology 및 GPU Sharing 기술(Ndivia P100 사용)을 적용하여 노드간의 GPU 자원을 공유하는 기술을 제공하는 제품이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "GPU Sharing의 특징은 노드에 장착된 GPU들을 GPU Domain을 통하여 각 노드에서 전체 GPU`s를 병렬 처리 할 수 있도록 하여 GPU 성능을 최대치로 활용할 수 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "A3Cube의 제품은 일반 RDBMS(MySQL, PostgresSQL, GPDB등)을 탑재 운영하면, SQL의 처리 속도를 최대 42배 향상 시킬 수 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또한 고객이 원하는 빅데이터 및 각종 HPC Application(기상 예측, 유체역학 분석 등)을 운영할 수 있으며, 보다 빠른 분석 및 예측을 위한 H/W(x86 Server, Infiniband, Ronniee express card) 및 솔루션(Fotissimo Foundry)함께 제공하여 최고의 성능을 보장한다.",
+				"sentenceSize": 180
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시앤지원, A3Cube와 국내 총판 계약 체결",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335573",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "센서뷰, 신호 손실 없는 다중핀 '커넥터' 출시",
+		"newsSubTitle": "",
+		"newsContent": "센서뷰는 DC~45㎓까지 사용이 가능하고 밀리미터파 대역에서 손실과 채널 간 간섭을 혁신적으로 개선한 '커넥터'를 출시했다고 26일 밝혔다.\n기존 보드 투 보드(board-to-board) 커넥터의 경우 사용 주파수 대역한계가 15㎓까지였다.\n그 이상의 주파수에서는 손실이 급격히 증가하고 인접 신호 간 간섭이 높아졌다.\n센서뷰가 개발한 커넥터는 45㎓까지 신호 손실이 매우 적고 인접 신호 간 전자파 간섭도 없다.\n표면실장(SMT)이 가능한 소형 다중핀 커넥터로 8개 핀이 지원된다.\n소형 4핀, 2핀용 제품도 조만간 추가 출시할 예정이다.\n회사 관계자는 \\\"기존 5G 시스템에서는 소형 공간에 다수 안테나 모듈을 포함하면서 밀리미터대역용 시스템을 구현하는데 제약이 있었다\\\"며 \\\"하나의 메인 보드에 복수의 밀리미터파 대역용 칩 모듈을 사용하는 경우가 많았다\\\"고 말했다.\n그는 또 \\\"이 경우 디바이스와 디바이스 또는 보드와 보드 간 전기적 연결을 위해서는 단일 채널 동축 케이블을 사용했다\\\"며 \\\"동축 케이블은 단일 채널 지원밖에 되지 않고 두께가 두꺼워 얇은 단말기에는 사용이 적절치 않다\\\"고 덧붙였다.\n특히 지름이 얇은 동축 케이블 일수록 EMI(전자파간섭) 차폐 성능이 취약해져 인접 소자에 전기적 간섭을 발생시킬 수 있다고 덧붙였다.\n이와 함께 밀리미터파 대역의 경우, 안테나가 RFIC 모듈에 직접 집적되는 구조로 사용에 제약이 많았다.\n센서뷰가 개발한 다중대역 안테나를 탑재할 경우 안테나를 RFIC 칩에서 분리할 수 있어 밀리미터 전파환경에서의 단말기∙스몰셀∙펨토셀 기지국 시스템 커버리지 환경을 개선할 수 있다고 회사 측은 설명했다.\n센서뷰는 신제품 출시에 이어 사용 주파수 대역을 70㎓까지 개선한 2세대 제품을 내년 상반기내 출시할 계획이다.\n이를 통해 상용 mmWave 대역에서 보드 투 보드(board-to-board)에 대한 모든 솔루션을 확보한다는 복안이다.\n한편 출시된 커넥터의 신호 누설을 최소화하는 핵심 부품은 초소형 정밀 부품 세계 최고 기업인 오킨스가 설계∙개발∙제조를 담당했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "센서뷰는 DC~45㎓까지 사용이 가능하고 밀리미터파 대역에서 손실과 채널 간 간섭을 혁신적으로 개선한 '커넥터'를 출시했다고 26일 밝혔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기존 보드 투 보드(board-to-board) 커넥터의 경우 사용 주파수 대역한계가 15㎓까지였다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그 이상의 주파수에서는 손실이 급격히 증가하고 인접 신호 간 간섭이 높아졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "센서뷰가 개발한 커넥터는 45㎓까지 신호 손실이 매우 적고 인접 신호 간 전자파 간섭도 없다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "표면실장(SMT)이 가능한 소형 다중핀 커넥터로 8개 핀이 지원된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소형 4핀, 2핀용 제품도 조만간 추가 출시할 예정이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "회사 관계자는 \\\"기존 5G 시스템에서는 소형 공간에 다수 안테나 모듈을 포함하면서 밀리미터대역용 시스템을 구현하는데 제약이 있었다\\\"며 \\\"하나의 메인 보드에 복수의 밀리미터파 대역용 칩 모듈을 사용하는 경우가 많았다\\\"고 말했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 또 \\\"이 경우 디바이스와 디바이스 또는 보드와 보드 간 전기적 연결을 위해서는 단일 채널 동축 케이블을 사용했다\\\"며 \\\"동축 케이블은 단일 채널 지원밖에 되지 않고 두께가 두꺼워 얇은 단말기에는 사용이 적절치 않다\\\"고 덧붙였다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "특히 지름이 얇은 동축 케이블 일수록 EMI(전자파간섭) 차폐 성능이 취약해져 인접 소자에 전기적 간섭을 발생시킬 수 있다고 덧붙였다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이와 함께 밀리미터파 대역의 경우, 안테나가 RFIC 모듈에 직접 집적되는 구조로 사용에 제약이 많았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "센서뷰가 개발한 다중대역 안테나를 탑재할 경우 안테나를 RFIC 칩에서 분리할 수 있어 밀리미터 전파환경에서의 단말기∙스몰셀∙펨토셀 기지국 시스템 커버리지 환경을 개선할 수 있다고 회사 측은 설명했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "센서뷰는 신제품 출시에 이어 사용 주파수 대역을 70㎓까지 개선한 2세대 제품을 내년 상반기내 출시할 계획이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이를 통해 상용 mmWave 대역에서 보드 투 보드(board-to-board)에 대한 모든 솔루션을 확보한다는 복안이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한편 출시된 커넥터의 신호 누설을 최소화하는 핵심 부품은 초소형 정밀 부품 세계 최고 기업인 오킨스가 설계∙개발∙제조를 담당했다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "센서뷰, 신호 손실 없는 다중핀 '커넥터' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

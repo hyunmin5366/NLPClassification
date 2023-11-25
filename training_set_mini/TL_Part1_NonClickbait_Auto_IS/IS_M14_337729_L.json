@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337729",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "누리호 목표 고도 달성...성능검증 위성 등 분리 성공",
+		"newsSubTitle": "",
+		"newsContent": "한국형 발사체 누리호가 21일 오후 4시 2차 발사 이후 목표 고도 진입과 탑재체 분리를 무사히 마쳤다.\n누리호는 발사 경과 13분 15초 고도 700㎞ 목표 고도에 도달했으며, 고도 700㎞에서 발사 경과 14분 43초에 성능검증 위성 분리를 마쳤다.\n이어 발사 후 15분 47초에 위성 모사체도 분리를 완료했다.\n현재 기술진은 누리호로부터 전달되고 있는 데이터에 대한 정밀 분석을 진행 중으로 이 과정은 약 30분이 소요될 예정이다.\n과학기술정보통신부는 데이터 분석이 완료되는 대로 주요 비행 과정 성능검증 위성 분리 및 목표 궤도 투입 여부, 향후 지상국 교신 계획 등을 발표할 예정이다.\n이때 이번 발사 공식 성공 여부도 함께 확인된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국형 발사체 누리호가 21일 오후 4시 2차 발사 이후 목표 고도 진입과 탑재체 분리를 무사히 마쳤다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "누리호는 발사 경과 13분 15초 고도 700㎞ 목표 고도에 도달했으며, 고도 700㎞에서 발사 경과 14분 43초에 성능검증 위성 분리를 마쳤다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 발사 후 15분 47초에 위성 모사체도 분리를 완료했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 기술진은 누리호로부터 전달되고 있는 데이터에 대한 정밀 분석을 진행 중으로 이 과정은 약 30분이 소요될 예정이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "과학기술정보통신부는 데이터 분석이 완료되는 대로 주요 비행 과정 성능검증 위성 분리 및 목표 궤도 투입 여부, 향후 지상국 교신 계획 등을 발표할 예정이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이때 이번 발사 공식 성공 여부도 함께 확인된다.",
+				"sentenceSize": 27
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "누리호 목표 고도 달성...성능검증 위성 등 분리 성공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

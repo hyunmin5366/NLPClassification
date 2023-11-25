@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352041",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "아뿔싸 ,'19금 게임' 생각없이 내려받다...이거 감염됐다",
+		"newsSubTitle": "null",
+		"newsContent": "최근 주요 파일공유 사이트에 19금 성인용 게임으로 위장한 악성코드 파일이 유포돼 이용자 주의가 당부된다.\n전문가들은 출처가 불분명한 파일공유 사이트 사용을 자제하고 정품 게임을 다운받을 것을 권고한다. 2일 안랩에 따르면 최근 다수 파일공유 사이트에 특정한 성인게임으로 위장한 '.egg', '.zip' 등 형식의 압축파일이 공유됐다.\n게시자는 게시글에 \\\"압축파일 속 실행파일(.exe)로 설치를 완료해야 게임을 할 수 있다\\\"며 프로그램 설치를 유도했다.\n설치가 완료되면 악성코드가 함께 실행된다.\n게임도 정상적으로 작동하므로 이용자는 악성코드 감염 사실을 알기 어렵지만, 실행된 악성코드는 디도스 공격용 원격제어 악성코드를 자동으로 내려받는 등 다양한 행위를 수행한다.\n안랩은 자극적인 콘텐츠의 경우 다운로드를 자제해야 하며, 소프트웨어 프로그램도 항상 최신 버전으로 유지할 것을 당부했다.\n백신 프로그램의 실시간 감시 설정을 켜 두는 것도 필요하다.\n이재진 안랩 분석팀 주임은 \\\"콘텐츠를 불법으로 이용하는 사용자를 노리고 파일공유 사이트에서 악성코드를 유포하는 사례가 많다\\\"며 \\\"피해예방을 위해 파일을 다운로드 받을 때 공식 홈페이지를 이용해야 한다\\\"고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 주요 파일공유 사이트에 19금 성인용 게임으로 위장한 악성코드 파일이 유포돼 이용자 주의가 당부된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전문가들은 출처가 불분명한 파일공유 사이트 사용을 자제하고 정품 게임을 다운받을 것을 권고한다. 2일 안랩에 따르면 최근 다수 파일공유 사이트에 특정한 성인게임으로 위장한 '.egg', '.zip' 등 형식의 압축파일이 공유됐다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게시자는 게시글에 \\\"압축파일 속 실행파일(.exe)로 설치를 완료해야 게임을 할 수 있다\\\"며 프로그램 설치를 유도했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "설치가 완료되면 악성코드가 함께 실행된다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "게임도 정상적으로 작동하므로 이용자는 악성코드 감염 사실을 알기 어렵지만, 실행된 악성코드는 디도스 공격용 원격제어 악성코드를 자동으로 내려받는 등 다양한 행위를 수행한다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안랩은 자극적인 콘텐츠의 경우 다운로드를 자제해야 하며, 소프트웨어 프로그램도 항상 최신 버전으로 유지할 것을 당부했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "백신 프로그램의 실시간 감시 설정을 켜 두는 것도 필요하다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이재진 안랩 분석팀 주임은 \\\"콘텐츠를 불법으로 이용하는 사용자를 노리고 파일공유 사이트에서 악성코드를 유포하는 사례가 많다\\\"며 \\\"피해예방을 위해 파일을 다운로드 받을 때 공식 홈페이지를 이용해야 한다\\\"고 강조했다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아뿔싸 ,'19금 게임' 생각없이 내려받다...이거 감염됐다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,294 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_346965",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "[기고]공인인증서 저장매체로 USIM을 활용하자",
+		"newsSubTitle": "null",
+		"newsContent": "인터넷뱅킹에서 공인인증서를 의무적으로 사용하도록 했던 규정이 지난 3월 18일자로 폐지됐다.\n금융거래, 공공기관 및 전자 상거래 등에서 광범위하게 사용돼왔던 공인인증서 의무사용이 폐지되면서 새로운 인증수단에 대한 기술개발과 도입이 검토되고 있는 것은 다행스러운 일이다.\n그러나 공인인증서에 의존해 다양한 은행 계좌 조회나 이체 및 상거래 등에 사용해 왔던 많은 이용자들은 혼란스럽기만 하다.\n그러면서도 연일 주기적으로 되풀이 되고 있는 파밍(Pharming)이나 스미싱(Smishing) 등에 의한 금융사기는 줄어들고 있지 않는다.\n과연 국민들은 어떠한 생각을 할까?\n지난 2월 한국은행은 인터넷뱅킹 등록 고객 수는 1억 300만 명과 모바일뱅킹 등록 고객 수는 6000만 명으로 전년대비 8.1% 및 20.4% 증가했다고 발표했다.\n또 인터넷진흥원 조사에 의하면, 인터넷 이용자의 92.1%가 공인인증서를 발급 받았고, 공인인증서의 저장매체로 각각 외부저장 64.9%, 컴퓨터 저장 49.0%, 스마트기기에 저장 35.5%였던 것으로 나타났다.\n이러한 지표는 대다수의 국민들이 국가에서 지정한 공인인증서를 믿고 자신의 금융거래 및 상거래 등 경제활동을 하고 있음을 보여준다.\n금융기관들이 공인인증서 의무사용 폐지에 따른 본인인증 대체수단을 찾기에 고심하면서도 뚜렷한 대책이 없는 것은 국민들의 불안감만 더 가중시키고 있다고 볼 수 있다.\n공인인증서에 사용되는 PKI(Public Key Infrastructure, 공개키기반구조)라는 기술은 미국 국가안보국(NSA)과 미국 국립표준기술연구소(NIST)에서 최고 수준의 보안등급을 받은 사용자 본인확인과 부인방지, 무결성을 제공하는 유일한 기술이다.\n이미 글로벌 기업들이 핀테크 산업의 ‘보안성 강화’ 수단으로 다양한 사용자 인증방식에 PKI기술을 활용해 강력한 암호화 부인방지를 구현하고 있다.\n그렇다면, 왜 이러한 가장 강력한 보안기술인 PKI 기술을 적용한 공인인증서가 외면을 받고 있는 것일까?\n그것은 다름 아닌 공인인증서 저장방식에 대한 잘못된 선택과 사용자 인증에 대한 결함으로 볼 수 있다.\n이는 공인인증서 기술 도입 초기에 별도의 저장매체를 사용해 안전하게 인증서와 암호화 키를 집어넣어 관리해야하는 기본원칙이 지켜지지 않고, 하드디스크나 USB드라이브에 저장하게 된 것이 1차적인 원인이다.\n또 스마트폰 보급에 따라 이러한 저장 방식은 변경되지 않고 그대로 스마트폰 메모리를 활용함으로써 2차적인 원인이 된 것이다.\n하드디스크, USB드라이브 및 스마트폰 메모리는 PC 및 스마트폰을 통해 네트워크에 연결되는 특성상 데이터를 읽을 때 중간에서 관련 내용을 가로채는 메모리 해킹 수법에 취약할 수 밖에 없다.\n또한 사용자의 인증은 우리나라의 경우 인터넷 초기부터 개인의 주민등록번호를 개인의 인증 도구로 이용되면서 개인의 주민등록번호가 해외까지 무분별하게 유출되었고 이러한 개인 정보 유출은 개인의 인증 수단으로서 의미나 효과를 상실하고 있다.\n그렇다면 이에 대한 다른 해결방안은 없을까?\n지난 3월 금융위원회가 전자금융감독규정 개정안을 발표함에 따라 보안업계의 대응이 분주하게 이루어지고 있지만, 공인인증서가 사라지기는 어렵다.\n공인인증서 폐지를 위무화한 것이 아니므로 대체 수단을 마련하기 전까지는 공인인증서는 유효할 것이다.\n또한, 기존에는 정부가 규정한 보안 규정만 준수하면 금융사고가 발생해도 면책이 됐지만 이제는 전자금융거래 보안사고 발생 시 금융사의 책임이 커짐으로써 금융사 스스로 인증과 보안 솔루션 선택에 책임 소재가 커졌다.\n그럼에도 불구하고 공인인증서가 강력한 본인 확인수단으로써의 역할이 지속된다면 그 보관 책임은 전적으로 사용자의 몫이다.\n이러한 문제를 해결하기 위해 최근 도입되고 있는 것이 ‘스마트인증’이다.\n안전한 사용자 인증을 위해 현재 스마트폰과 일반 휴대전화에 내장된 USIM(유심)을 활용해 공인인증서를 보관하는 것이다.\nUSIM카드는 강력한 암호화 기능을 수행하는 초소형 컴퓨터와 메모리가 내장된 전자 모듈로 가장 안전한 인증과 저장 매체로 인정받고 있으며, 우리나라는 전 세계적으로 USIM을 가장 많이 보급한 국가 중 하나이다.\n따라서 이러한 USIM을 잘 활용하면 개인정보 유출 위험을 획기적으로 감소시키고 개인의 자산을 안전하게 지킬 수 있다.\n최근 신한은행 및 농협이 도입한 ‘스마트 인증’은 기존의 PC 하드디스크, USB드라이브 및 스마트폰 메모리보다 강력한 보안기능을 가지고 있어 파밍이나 스미싱 등을 악성코드 감염이나 개인정보 유출을 방지할 수 있고 또한 스마트폰의 보안영역에 저장되므로 해킹에 의한 공인인증서 탈취도 방지할 수 있다.\n스마트폰 분실에 따른 걱정도 할 필요가 없다.\n각각의 승인 과정에서 사용자와 USIM만 알고 있는 약속된 비밀번호를 입력하는 방식으로 본인 여부를 확인하기 때문이다.\n증가하는 보이스피싱, 파밍 등의 해킹위협으로 전자금융거래의 안전성이 위협받고 있고, 메모리해킹 등의 사이버 범죄가 점차 정교화 ·고도화됨에 따라 사용자 인증뿐만 아니라, 이상거래탐지, 거래인증 등 다양한 방안이 도입되고 있지만 국내의 사용자 환경을 고려한 전자금융거래의 보안성 확보를 위해서는 이동통신사가 제공하는 USIM을 활용한 ‘스마트인증’을 적극 도입하는 것을 고려할 필요가 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 30,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인터넷뱅킹에서 공인인증서를 의무적으로 사용하도록 했던 규정이 지난 3월 18일자로 폐지됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융거래, 공공기관 및 전자 상거래 등에서 광범위하게 사용돼왔던 공인인증서 의무사용이 폐지되면서 새로운 인증수단에 대한 기술개발과 도입이 검토되고 있는 것은 다행스러운 일이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러나 공인인증서에 의존해 다양한 은행 계좌 조회나 이체 및 상거래 등에 사용해 왔던 많은 이용자들은 혼란스럽기만 하다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서도 연일 주기적으로 되풀이 되고 있는 파밍(Pharming)이나 스미싱(Smishing) 등에 의한 금융사기는 줄어들고 있지 않는다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "과연 국민들은 어떠한 생각을 할까?",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 2월 한국은행은 인터넷뱅킹 등록 고객 수는 1억 300만 명과 모바일뱅킹 등록 고객 수는 6000만 명으로 전년대비 8.1% 및 20.4% 증가했다고 발표했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 인터넷진흥원 조사에 의하면, 인터넷 이용자의 92.1%가 공인인증서를 발급 받았고, 공인인증서의 저장매체로 각각 외부저장 64.9%, 컴퓨터 저장 49.0%, 스마트기기에 저장 35.5%였던 것으로 나타났다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이러한 지표는 대다수의 국민들이 국가에서 지정한 공인인증서를 믿고 자신의 금융거래 및 상거래 등 경제활동을 하고 있음을 보여준다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "금융기관들이 공인인증서 의무사용 폐지에 따른 본인인증 대체수단을 찾기에 고심하면서도 뚜렷한 대책이 없는 것은 국민들의 불안감만 더 가중시키고 있다고 볼 수 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "공인인증서에 사용되는 PKI(Public Key Infrastructure, 공개키기반구조)라는 기술은 미국 국가안보국(NSA)과 미국 국립표준기술연구소(NIST)에서 최고 수준의 보안등급을 받은 사용자 본인확인과 부인방지, 무결성을 제공하는 유일한 기술이다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이미 글로벌 기업들이 핀테크 산업의 ‘보안성 강화’ 수단으로 다양한 사용자 인증방식에 PKI기술을 활용해 강력한 암호화 부인방지를 구현하고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "그렇다면, 왜 이러한 가장 강력한 보안기술인 PKI 기술을 적용한 공인인증서가 외면을 받고 있는 것일까?",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "그것은 다름 아닌 공인인증서 저장방식에 대한 잘못된 선택과 사용자 인증에 대한 결함으로 볼 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이는 공인인증서 기술 도입 초기에 별도의 저장매체를 사용해 안전하게 인증서와 암호화 키를 집어넣어 관리해야하는 기본원칙이 지켜지지 않고, 하드디스크나 USB드라이브에 저장하게 된 것이 1차적인 원인이다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "또 스마트폰 보급에 따라 이러한 저장 방식은 변경되지 않고 그대로 스마트폰 메모리를 활용함으로써 2차적인 원인이 된 것이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "하드디스크, USB드라이브 및 스마트폰 메모리는 PC 및 스마트폰을 통해 네트워크에 연결되는 특성상 데이터를 읽을 때 중간에서 관련 내용을 가로채는 메모리 해킹 수법에 취약할 수 밖에 없다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "또한 사용자의 인증은 우리나라의 경우 인터넷 초기부터 개인의 주민등록번호를 개인의 인증 도구로 이용되면서 개인의 주민등록번호가 해외까지 무분별하게 유출되었고 이러한 개인 정보 유출은 개인의 인증 수단으로서 의미나 효과를 상실하고 있다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "그렇다면 이에 대한 다른 해결방안은 없을까?",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "지난 3월 금융위원회가 전자금융감독규정 개정안을 발표함에 따라 보안업계의 대응이 분주하게 이루어지고 있지만, 공인인증서가 사라지기는 어렵다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "공인인증서 폐지를 위무화한 것이 아니므로 대체 수단을 마련하기 전까지는 공인인증서는 유효할 것이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "또한, 기존에는 정부가 규정한 보안 규정만 준수하면 금융사고가 발생해도 면책이 됐지만 이제는 전자금융거래 보안사고 발생 시 금융사의 책임이 커짐으로써 금융사 스스로 인증과 보안 솔루션 선택에 책임 소재가 커졌다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "그럼에도 불구하고 공인인증서가 강력한 본인 확인수단으로써의 역할이 지속된다면 그 보관 책임은 전적으로 사용자의 몫이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이러한 문제를 해결하기 위해 최근 도입되고 있는 것이 ‘스마트인증’이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "안전한 사용자 인증을 위해 현재 스마트폰과 일반 휴대전화에 내장된 USIM(유심)을 활용해 공인인증서를 보관하는 것이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "USIM카드는 강력한 암호화 기능을 수행하는 초소형 컴퓨터와 메모리가 내장된 전자 모듈로 가장 안전한 인증과 저장 매체로 인정받고 있으며, 우리나라는 전 세계적으로 USIM을 가장 많이 보급한 국가 중 하나이다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "따라서 이러한 USIM을 잘 활용하면 개인정보 유출 위험을 획기적으로 감소시키고 개인의 자산을 안전하게 지킬 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "최근 신한은행 및 농협이 도입한 ‘스마트 인증’은 기존의 PC 하드디스크, USB드라이브 및 스마트폰 메모리보다 강력한 보안기능을 가지고 있어 파밍이나 스미싱 등을 악성코드 감염이나 개인정보 유출을 방지할 수 있고 또한 스마트폰의 보안영역에 저장되므로 해킹에 의한 공인인증서 탈취도 방지할 수 있다.",
+				"sentenceSize": 167
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "스마트폰 분실에 따른 걱정도 할 필요가 없다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "각각의 승인 과정에서 사용자와 USIM만 알고 있는 약속된 비밀번호를 입력하는 방식으로 본인 여부를 확인하기 때문이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "증가하는 보이스피싱, 파밍 등의 해킹위협으로 전자금융거래의 안전성이 위협받고 있고, 메모리해킹 등의 사이버 범죄가 점차 정교화 ·고도화됨에 따라 사용자 인증뿐만 아니라, 이상거래탐지, 거래인증 등 다양한 방안이 도입되고 있지만 국내의 사용자 환경을 고려한 전자금융거래의 보안성 확보를 위해서는 이동통신사가 제공하는 USIM을 활용한 ‘스마트인증’을 적극 도입하는 것을 고려할 필요가 있다.",
+				"sentenceSize": 217
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[기고]공인인증서 저장매체로 USIM을 활용하자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013688",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전·세종·충남지역 어음부도율 소폭 하락",
+		"newsSubTitle": "11월 0.24% 전월比 0.04%p↓",
+		"newsContent": "대전·세종·충남지역 11월 중 어음부도율이 소폭 하락했다.\n25일 한국은행 대전충남본부가 발표한 '11월중 대전·세종·충남지역 어음부도 동향'에 따르면 11월중 대전·세종·충남지역 어음부도율은 0.24%로 전월보다 0.04%포인트 하락했다.\n이는 전국 평균(0.12%), 지방 평균(0.22%)과 비교해 높은 수치다.\n지역별로는 대전 0.24%, 세종 0.33%, 충남 0.23%로 전월에 비해 각각 0.01%포인트, 0.29%포인트, 0.06%포인트 하락했다.\n대전·세종·충남지역 부도금액은 50억4000만원으로 전월보다 21억3000만원이 감소했다.\n업종별 부도금액은 제조업 31억5000만원으로 가장 높았으며, 건설업 3000만원, 서비스업 16억8000만원으로 나타났다.\n부도업체수는 2개로 전월보다 1개 증가했다.\n11월중 대전·세종·충남지역의 신설법인수는 395개로 전월보다 31개나 줄어들었다.\n업종별로는 제조업(72)과 건설업(25)이 각각 33개, 21개가 감소했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전·세종·충남지역 11월 중 어음부도율이 소폭 하락했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 한국은행 대전충남본부가 발표한 '11월중 대전·세종·충남지역 어음부도 동향'에 따르면 11월중 대전·세종·충남지역 어음부도율은 0.24%로 전월보다 0.04%포인트 하락했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 전국 평균(0.12%), 지방 평균(0.22%)과 비교해 높은 수치다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지역별로는 대전 0.24%, 세종 0.33%, 충남 0.23%로 전월에 비해 각각 0.01%포인트, 0.29%포인트, 0.06%포인트 하락했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대전·세종·충남지역 부도금액은 50억4000만원으로 전월보다 21억3000만원이 감소했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "업종별 부도금액은 제조업 31억5000만원으로 가장 높았으며, 건설업 3000만원, 서비스업 16억8000만원으로 나타났다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "부도업체수는 2개로 전월보다 1개 증가했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "11월중 대전·세종·충남지역의 신설법인수는 395개로 전월보다 31개나 줄어들었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "업종별로는 제조업(72)과 건설업(25)이 각각 33개, 21개가 감소했다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "나스닥, 애플 덕에 사상 최고치 경신…기술 기업 주가 2% 이상 강세",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

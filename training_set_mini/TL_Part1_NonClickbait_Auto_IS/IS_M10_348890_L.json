@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348890",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "카이스트 '코로나 신속 진단'에 네이버 클라우드 기술 쓴다",
+		"newsSubTitle": "null",
+		"newsContent": "코로나19(COVID-19) 신속 진단 핵심 기술 개발에 토종 클라우드 기술이 적용됐다.\n네이버클라우드는 카이스트의 코로나 뉴딜 사업 과제인 '흉부 단순 방사선 촬영(CXR, Chest X-ray) 인공지능 분석을 이용한 감염병 신속진단' 과제에 네이버 클라우드 플랫폼을 핵심 솔루션으로 공급하고 있다고 25일 밝혔다.\n네이버클라우드는 클라우드 플랫폼의 GPU(그래픽처리장치) 서버와 이와 연동된 다양한 저장소 서비스(NAS, Block storage) 등을 제공한다.\n협력 병원을 통해 확보한 의료 데이터는 개인정보보호법 등 관련 규정에 따라 보안 이슈가 민감한 분야다.\n네이버 의료 클라우드는 의료정보보호 분야 국제표준인 ISO-27799를 인증받아 의료법 및 개인정보 보호법을 모두 준수하며, 네트워크상에 잠재된 취약점을 빠르게 탐지할 수 있는 강력한 보안체계를 갖췄다고 회사는 설명했다.\n네이버클라우드 관계자는 \\\"단순 GPU 서버 제공을 넘어 다양한 AI 연구 환경을 고려해 맞춤형 서비스를 구성해준다\\\"며 \\\"인공지능, 의료 영상, 신호처리 등 다양한 영역을 고성능 병렬 컴퓨팅을 통해 빠르게 연산 처리하고 정확한 데이터를 추출할 수 있다\\\"고 말했다.\n이 외에도 NAS(Network-Attached Storage), 블록 스토리지(Block Storage) 등 다양한 저장소 서비스를 지원해 연동성과 확장성도 높였다.\n연구원 수가 변동되는 경우가 빈번한데 이때 블록 스토리지를 통해 GPU 서버를 간편하게 생성하고 반납할 수 있다.\n카이스트 바이오및뇌공학과 예종철 교수 연구팀은 \\\"클라우드 활용에 대한 지식이 부족하더라도 바로 개발에 활용 가능한 유일한 플랫폼으로 네이버 클라우드 플랫폼을 인정한 만큼, 향후 타 과제에도 활용할 계획중\\\"이라고 말했다.\n임태건 네이버클라우드 영업총괄 상무는 \\\"네이버 클라우드 플랫폼은 과학 연산, 데이터 분석, 머신러닝 추론 등 고도의 컴퓨팅에 최적화된 자원을 제공하기 때문에 빠른 대처가 필요한 비즈니스 환경뿐만 아니라 정교하고 복잡한 과정이 수반되는 연구 개발 상황에서 활용하기에도 유리하다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19(COVID-19) 신속 진단 핵심 기술 개발에 토종 클라우드 기술이 적용됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버클라우드는 카이스트의 코로나 뉴딜 사업 과제인 '흉부 단순 방사선 촬영(CXR, Chest X-ray) 인공지능 분석을 이용한 감염병 신속진단' 과제에 네이버 클라우드 플랫폼을 핵심 솔루션으로 공급하고 있다고 25일 밝혔다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버클라우드는 클라우드 플랫폼의 GPU(그래픽처리장치) 서버와 이와 연동된 다양한 저장소 서비스(NAS, Block storage) 등을 제공한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "협력 병원을 통해 확보한 의료 데이터는 개인정보보호법 등 관련 규정에 따라 보안 이슈가 민감한 분야다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버 의료 클라우드는 의료정보보호 분야 국제표준인 ISO-27799를 인증받아 의료법 및 개인정보 보호법을 모두 준수하며, 네트워크상에 잠재된 취약점을 빠르게 탐지할 수 있는 강력한 보안체계를 갖췄다고 회사는 설명했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네이버클라우드 관계자는 \\\"단순 GPU 서버 제공을 넘어 다양한 AI 연구 환경을 고려해 맞춤형 서비스를 구성해준다\\\"며 \\\"인공지능, 의료 영상, 신호처리 등 다양한 영역을 고성능 병렬 컴퓨팅을 통해 빠르게 연산 처리하고 정확한 데이터를 추출할 수 있다\\\"고 말했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 외에도 NAS(Network-Attached Storage), 블록 스토리지(Block Storage) 등 다양한 저장소 서비스를 지원해 연동성과 확장성도 높였다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구원 수가 변동되는 경우가 빈번한데 이때 블록 스토리지를 통해 GPU 서버를 간편하게 생성하고 반납할 수 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "카이스트 바이오및뇌공학과 예종철 교수 연구팀은 \\\"클라우드 활용에 대한 지식이 부족하더라도 바로 개발에 활용 가능한 유일한 플랫폼으로 네이버 클라우드 플랫폼을 인정한 만큼, 향후 타 과제에도 활용할 계획중\\\"이라고 말했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "임태건 네이버클라우드 영업총괄 상무는 \\\"네이버 클라우드 플랫폼은 과학 연산, 데이터 분석, 머신러닝 추론 등 고도의 컴퓨팅에 최적화된 자원을 제공하기 때문에 빠른 대처가 필요한 비즈니스 환경뿐만 아니라 정교하고 복잡한 과정이 수반되는 연구 개발 상황에서 활용하기에도 유리하다\\\"고 말했다.",
+				"sentenceSize": 162
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카이스트 '코로나 신속 진단'에 네이버 클라우드 기술 쓴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

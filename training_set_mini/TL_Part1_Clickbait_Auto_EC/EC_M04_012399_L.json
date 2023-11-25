@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012399",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전·충남 소비자 체감경기 부정적",
+		"newsSubTitle": "심리지수 전월比 1p↓",
+		"newsContent": "대전·충남지역 소비자들이 체감하는 경기가 부정적인 것으로 나타났다.\n26일 한국은행 대전·충남본부가 발표한 '12월 대전·충남 지역 소비자동향조사'결과, 대전·충남지역 거주 소비자들의 경제상황에 대한 심리를 종합적으로 나타내는 소비자심리지수는 106로 전월대비 1포인트 하락했다.\n6개월 전과 비교한 현재의 생활형편을 나타내는 현재생활형편CSI는 93로 전월보다 1포인트 하락했다.\n현재와 비교한 6개월 후의 예상 생활형편을 나타내는 생활형편전망CSI는 99로 전월과 동일했다.\n가계수입 및 소비지출 전망 또한 부정적인 것으로 나타났다.\n6개월 후의 가계수입전망CSI는 102으로 전월보다 1포인트, 현재와 비교한 6개월 후의 소비지출전망CSI도 110으로 전월보다 1포인트씩 각각 하락했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전·충남지역 소비자들이 체감하는 경기가 부정적인 것으로 나타났다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 한국은행 대전·충남본부가 발표한 '12월 대전·충남 지역 소비자동향조사'결과, 대전·충남지역 거주 소비자들의 경제상황에 대한 심리를 종합적으로 나타내는 소비자심리지수는 106로 전월대비 1포인트 하락했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "6개월 전과 비교한 현재의 생활형편을 나타내는 현재생활형편CSI는 93로 전월보다 1포인트 하락했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재와 비교한 6개월 후의 예상 생활형편을 나타내는 생활형편전망CSI는 99로 전월과 동일했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가계수입 및 소비지출 전망 또한 부정적인 것으로 나타났다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "6개월 후의 가계수입전망CSI는 102으로 전월보다 1포인트, 현재와 비교한 6개월 후의 소비지출전망CSI도 110으로 전월보다 1포인트씩 각각 하락했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK, 민간기업 최초 '탄소감축인증센터' 신설…넷제로 경영 가속화",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

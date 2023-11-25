@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326543",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "[2019 해외 10대 뉴스]<10>글로벌 자동차 업체 합종연횡 가속",
+		"newsSubTitle": "",
+		"newsContent": "올해도 미래차 시장 대응을 위한 글로벌 자동차 업체 간 합종연횡이 활발히 이뤄졌다.\n전기차 시장 급성장과 배출가스 규제, 자율주행차 기술 확산 등 급변하는 자동차 시장 대응 능력 향상과 대규모 투자 자금 확보가 인수·합병(M&A) 추진 배경이다.\n이탈리아·미국 합작사 피아트크라이슬러(FCA)와 프랑스 PSA그룹이 이달 합병에 최종 합의하면서 세계에서 4번째로 큰 자동차 제조업체가 탄생했다.\n양사는 합병을 통해 매년 37억유로를 절감, 지속 가능한 자동차 신산업에 투자하겠다고 선언했다.\n시가총액 합계는 500억달러에 달한다.\n스웨덴 볼보트럭은 일본 자회사 UD트럭을 이스즈자동차에 넘기고, 향후 미래차 협업을 함께 추진하겠다고 밝혔다.\n프랑스 르노는 중국 전기차 시장 공략을 위해 장링자동차그룹(JMCG)과 합작사를 세웠다.\n현대차그룹도 자율주행 시장 개척을 위해 세계적 자율주행업체 앱티브와 4조8000억원에 이르는 합작법인 설립 계획을 밝히며 미래차 시대를 준비했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해도 미래차 시장 대응을 위한 글로벌 자동차 업체 간 합종연횡이 활발히 이뤄졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전기차 시장 급성장과 배출가스 규제, 자율주행차 기술 확산 등 급변하는 자동차 시장 대응 능력 향상과 대규모 투자 자금 확보가 인수·합병(M&A) 추진 배경이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이탈리아·미국 합작사 피아트크라이슬러(FCA)와 프랑스 PSA그룹이 이달 합병에 최종 합의하면서 세계에서 4번째로 큰 자동차 제조업체가 탄생했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "양사는 합병을 통해 매년 37억유로를 절감, 지속 가능한 자동차 신산업에 투자하겠다고 선언했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시가총액 합계는 500억달러에 달한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스웨덴 볼보트럭은 일본 자회사 UD트럭을 이스즈자동차에 넘기고, 향후 미래차 협업을 함께 추진하겠다고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "프랑스 르노는 중국 전기차 시장 공략을 위해 장링자동차그룹(JMCG)과 합작사를 세웠다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현대차그룹도 자율주행 시장 개척을 위해 세계적 자율주행업체 앱티브와 4조8000억원에 이르는 합작법인 설립 계획을 밝히며 미래차 시대를 준비했다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2019 해외 10대 뉴스]<10>글로벌 자동차 업체 합종연횡 가속",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

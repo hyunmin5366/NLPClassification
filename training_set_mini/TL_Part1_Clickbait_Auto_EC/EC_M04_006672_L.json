@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006672",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "모피, 여름에 저렴하게... 롯데百 20일까지 30~60% 할인",
+		"newsSubTitle": "",
+		"newsContent": "롯데백화점 대전점은 오는 20일까지 진도 모피, 엘페 고객 감사 특별 초대전을 열고 고가의 모피의류를 30~60% 할인된 특별가로 판매한다.\n특별 초대전은 모피업계의 선두주자인 ㈜진도에프앤 단독으로 진행하는 행사로 대전 롯데백화점 4층 본 매장 및 특별행사장에서 진행된다.\n100, 200, 300, 500, 1000만원 이상 구매 고객 대상 5%에 해당하는 롯데상품권이 증정되며 200만원 이상 구매한 고객에게는 발터그라스 유리그릇세트를 제공한다. 300만원 이상 구매 고객과 500만원 이상 구매 고객에게는 각각 빈센트 화채볼세트와 퀸즈 황실 장미문양 그릇세트를 증정한다.\n매장 방문 고객에게는 휴대폰 고리를 감사품으로 제공한다.\n모피 수선이나 세탁, 리모델링 등의 '퍼 케어(FUR CARE)' 서비스와 함께 롯데카드 구매고객에게는 3% 저렴한 가격에 모피를 판매한다.\n롯데백화점 관계자는 “이번 행사에는 각종 모피 제품이 특별가로 기획돼 겨울 성수기에 비해 30~60% 할인된 가격으로 저렴하게 구입할 수 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "롯데백화점 대전점은 오는 20일까지 진도 모피, 엘페 고객 감사 특별 초대전을 열고 고가의 모피의류를 30~60% 할인된 특별가로 판매한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "특별 초대전은 모피업계의 선두주자인 ㈜진도에프앤 단독으로 진행하는 행사로 대전 롯데백화점 4층 본 매장 및 특별행사장에서 진행된다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "100, 200, 300, 500, 1000만원 이상 구매 고객 대상 5%에 해당하는 롯데상품권이 증정되며 200만원 이상 구매한 고객에게는 발터그라스 유리그릇세트를 제공한다. 300만원 이상 구매 고객과 500만원 이상 구매 고객에게는 각각 빈센트 화채볼세트와 퀸즈 황실 장미문양 그릇세트를 증정한다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "매장 방문 고객에게는 휴대폰 고리를 감사품으로 제공한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "모피 수선이나 세탁, 리모델링 등의 '퍼 케어(FUR CARE)' 서비스와 함께 롯데카드 구매고객에게는 3% 저렴한 가격에 모피를 판매한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "롯데백화점 관계자는 “이번 행사에는 각종 모피 제품이 특별가로 기획돼 겨울 성수기에 비해 30~60% 할인된 가격으로 저렴하게 구입할 수 있다”고 말했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국연구재단 이사장 후보 3파전",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

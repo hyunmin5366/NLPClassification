@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348819",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "\\\"웹문서 검색 더 정확하게\\\"…네이버 '솔리드 프로젝트'",
+		"newsSubTitle": "null",
+		"newsContent": "네이버가 더 품질이 좋은 홈페이지와 웹문서를 우선 띄우도록 웹 검색 기능을 강화했다.\n네이버는 지난 18일 공식 블로그를 통해 네이버 웹사이트 검색 '랭킹 알고리즘'을 업데이트한다고 21일 밝혔다. '솔리드 프로젝트'로 명명된 업데이트는 사용자가 입력하는 질의에 노출해야 하는 웹문서의 순위를 결정하는 알고리즘이다.\n사용자가 원하는 더 높은 품질의 문서를 검색 결과에 노출하는 것이 목표다.\n기술적으로 더 많은 랭킹 시그널을 포함한다.\n랭킹 시그널은 사용자가 입력하는 질의의 특징이나 웹문서의 내용과 품질, 웹문서 출처에 해당하는 사이트의 특징, 사용자 질의와 문서의 관련성 등을 바탕으로 검색 노출 순위를 결정하는 요소다.\n유의어나 유사한 의미를 포함한 문서도 검색하고, 검색 결과에서 더 읽기 좋은 제목과 설명문도 제공한다.\n더 많은 질의를 빠르게 처리하면서 우선 수집해야 할 문서도 정리한다.\n네이버는 이번 업데이트로 △공식적인 정보를 제공하는 사이트 △구조적으로 잘 정리된 웹문서 △올바르게 링크가 걸린 웹사이트의 문서 △품질이 좋은 문서 등이 검색에 더 잘 노출될 가능성이 높다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 더 품질이 좋은 홈페이지와 웹문서를 우선 띄우도록 웹 검색 기능을 강화했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버는 지난 18일 공식 블로그를 통해 네이버 웹사이트 검색 '랭킹 알고리즘'을 업데이트한다고 21일 밝혔다. '솔리드 프로젝트'로 명명된 업데이트는 사용자가 입력하는 질의에 노출해야 하는 웹문서의 순위를 결정하는 알고리즘이다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사용자가 원하는 더 높은 품질의 문서를 검색 결과에 노출하는 것이 목표다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기술적으로 더 많은 랭킹 시그널을 포함한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "랭킹 시그널은 사용자가 입력하는 질의의 특징이나 웹문서의 내용과 품질, 웹문서 출처에 해당하는 사이트의 특징, 사용자 질의와 문서의 관련성 등을 바탕으로 검색 노출 순위를 결정하는 요소다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유의어나 유사한 의미를 포함한 문서도 검색하고, 검색 결과에서 더 읽기 좋은 제목과 설명문도 제공한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "더 많은 질의를 빠르게 처리하면서 우선 수집해야 할 문서도 정리한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "네이버는 이번 업데이트로 △공식적인 정보를 제공하는 사이트 △구조적으로 잘 정리된 웹문서 △올바르게 링크가 걸린 웹사이트의 문서 △품질이 좋은 문서 등이 검색에 더 잘 노출될 가능성이 높다고 밝혔다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"웹문서 검색 더 정확하게\\\"…네이버 '솔리드 프로젝트'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

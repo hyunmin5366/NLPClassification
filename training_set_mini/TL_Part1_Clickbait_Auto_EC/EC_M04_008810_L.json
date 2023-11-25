@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008810",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "대전 오피스빌딩 투자수익률 '상승'",
+		"newsSubTitle": "2분기 1.19%… 전분기보다 0.29%P↑",
+		"newsContent": "지난 이사분기 대전 오피스빌딩의 투자수익률은 1.19%, 매장용빌딩은 1.81%로 조사됐다.\n반면, 오피스빌딩과 매장용빌딩의 공실률은 전국에서 세 번째로 높은 공실률을 기록했다.\n25일 국토해양부에 따르면 서울, 6개 광역시 등 오피스빌딩 1000동과 매장용빌딩 2000동의 2분기 투자수익률, 공실률, 임대료를 발표했다.\n투자수익률은 대전은 1.19%로 전분기 대비 0.29%p 상승했다.\n매장용빌딩은 1.81%로 전분기대비 0.13%p 상승했다.\n전국의 오피스빌딩은 2%로 전분기 대비 0.12%p 상승했고 매장용빌딩은 1.85%로 전분기 대비 0.02%p 상승했다.\n공실률은 대전의 오피스빌딩은 16%로 전분기 대비 0.1%P 상승, 광주(17.4%), 울산(16.3%)에 이어서 세 번째로 높은 공실률 수준이다.\n매장용빌딩은 12.1%로 전분기 대비 2.5%P 감소했다.\n이는 인천(13.4%), 대구(13.1%)에 이어서 세번째 수준이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 이사분기 대전 오피스빌딩의 투자수익률은 1.19%, 매장용빌딩은 1.81%로 조사됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "반면, 오피스빌딩과 매장용빌딩의 공실률은 전국에서 세 번째로 높은 공실률을 기록했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "25일 국토해양부에 따르면 서울, 6개 광역시 등 오피스빌딩 1000동과 매장용빌딩 2000동의 2분기 투자수익률, 공실률, 임대료를 발표했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "투자수익률은 대전은 1.19%로 전분기 대비 0.29%p 상승했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "매장용빌딩은 1.81%로 전분기대비 0.13%p 상승했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전국의 오피스빌딩은 2%로 전분기 대비 0.12%p 상승했고 매장용빌딩은 1.85%로 전분기 대비 0.02%p 상승했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공실률은 대전의 오피스빌딩은 16%로 전분기 대비 0.1%P 상승, 광주(17.4%), 울산(16.3%)에 이어서 세 번째로 높은 공실률 수준이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "매장용빌딩은 12.1%로 전분기 대비 2.5%P 감소했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이는 인천(13.4%), 대구(13.1%)에 이어서 세번째 수준이다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국GM, 데드라인 연장하고 밤새 교섭했으나...",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

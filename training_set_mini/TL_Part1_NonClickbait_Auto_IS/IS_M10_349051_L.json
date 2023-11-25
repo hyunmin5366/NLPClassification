@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349051",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT SAT \\\"뉴스페이스 시대 전파 간섭 콕 잡아낸다\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "위성통신회사 KT SAT이 '지오로케이션(GEOLOCATION)' 시스템을 고도화해 위성통신 중 전파 간섭을 신속하게 탐지할 수 있는 역량을 강화했다고 10일 밝혔다.\n지오로케이션 시스템은 KT SAT이 보유하고 있는 무궁화 위성 2기를 활용해 신원 불명인 간섭 신호의 송출 위치를 찾아내는 솔루션이다.\n무궁화 위성 5A호와 6호가 각자 위치에서 수신한 간섭 신호의 시간·주파수 값(차분값)의 차이를 분석해 신호의 정확한 송출 위치를 특정한다.\n최근 테슬라의 '스페이스X', 아마존의 '프로젝트 카이퍼' 등 글로벌 민간기업의 우주사업 패권 경쟁이 심화되고 있다.\n이들은 전세계 위성 인터넷망을 구축하기 위해 다수의 저궤도위성(LEO)을 군집으로 발사한다.\n이에 따라 위성 네트워크 간 전파 간섭으로 인한 통신 장애 대응이 업계의 중요한 문제로 떠올랐다.\nKT SAT은 이런 흐름에 발맞춰 자체적으로 지오로케이션 시스템을 한 단계 업그레이드했다.\n지난 1월 KT SAT 위성컨설팅본부 GNOC센터 내 혼신원 탐지 시스템 고도화 작업을 완료하고 2개월 간의 시범운영 끝에 모든 검증 과정을 성공적으로 마무리했다.\n기존에는 간섭신호 발생 시 과거 수신기록을 바탕으로 신호를 대조 분석하거나 고객사에 일일이 확인하는 과정을 거쳤다.\n과거 경험에 의존한 원인 분석 방식은 많은 시간이 소요되고 장애 원인이 고객 부주의인지 송출 장비 결함에 의한 오송출인지 단번에 확인이 쉽지 않았다.\nKT SAT은 지오로케이션 시스템 도입으로 간섭 신호 탐지에 소요되는 시간이 크게 단축될 것으로 기대하고 있다.\nKT SAT 측은 \\\"현재 해당 시스템은 간섭 신호를 일으키는 지구국 및 이상송출 발생 장비를 찾아내는 작업에 높은 효율을 보이고 있다\\\"며 \\\"통신 장애는 신속 대응이 관건이기 때문에 이러한 발전은 고객 만족도 제고 차원에서 의미가 매우 크다\\\"고 설명했다.\n송경민 KT SAT 대표는 \\\"앞으로 해외 위성사업자와 적극 협업해 전 세계에서 송출되는 미확인 간섭 신호의 분석 능력을 강화해 나갈 것\\\"이라며 \\\"전파 간섭의 빠른 원인탐지 및 해소를 통해 무궁화 위성 품질 향상 및 글로벌 고객 만족도 제고를 위해 더욱 힘쓰겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "위성통신회사 KT SAT이 '지오로케이션(GEOLOCATION)' 시스템을 고도화해 위성통신 중 전파 간섭을 신속하게 탐지할 수 있는 역량을 강화했다고 10일 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지오로케이션 시스템은 KT SAT이 보유하고 있는 무궁화 위성 2기를 활용해 신원 불명인 간섭 신호의 송출 위치를 찾아내는 솔루션이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "무궁화 위성 5A호와 6호가 각자 위치에서 수신한 간섭 신호의 시간·주파수 값(차분값)의 차이를 분석해 신호의 정확한 송출 위치를 특정한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 테슬라의 '스페이스X', 아마존의 '프로젝트 카이퍼' 등 글로벌 민간기업의 우주사업 패권 경쟁이 심화되고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들은 전세계 위성 인터넷망을 구축하기 위해 다수의 저궤도위성(LEO)을 군집으로 발사한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 따라 위성 네트워크 간 전파 간섭으로 인한 통신 장애 대응이 업계의 중요한 문제로 떠올랐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KT SAT은 이런 흐름에 발맞춰 자체적으로 지오로케이션 시스템을 한 단계 업그레이드했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난 1월 KT SAT 위성컨설팅본부 GNOC센터 내 혼신원 탐지 시스템 고도화 작업을 완료하고 2개월 간의 시범운영 끝에 모든 검증 과정을 성공적으로 마무리했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기존에는 간섭신호 발생 시 과거 수신기록을 바탕으로 신호를 대조 분석하거나 고객사에 일일이 확인하는 과정을 거쳤다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "과거 경험에 의존한 원인 분석 방식은 많은 시간이 소요되고 장애 원인이 고객 부주의인지 송출 장비 결함에 의한 오송출인지 단번에 확인이 쉽지 않았다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "KT SAT은 지오로케이션 시스템 도입으로 간섭 신호 탐지에 소요되는 시간이 크게 단축될 것으로 기대하고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "KT SAT 측은 \\\"현재 해당 시스템은 간섭 신호를 일으키는 지구국 및 이상송출 발생 장비를 찾아내는 작업에 높은 효율을 보이고 있다\\\"며 \\\"통신 장애는 신속 대응이 관건이기 때문에 이러한 발전은 고객 만족도 제고 차원에서 의미가 매우 크다\\\"고 설명했다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "송경민 KT SAT 대표는 \\\"앞으로 해외 위성사업자와 적극 협업해 전 세계에서 송출되는 미확인 간섭 신호의 분석 능력을 강화해 나갈 것\\\"이라며 \\\"전파 간섭의 빠른 원인탐지 및 해소를 통해 무궁화 위성 품질 향상 및 글로벌 고객 만족도 제고를 위해 더욱 힘쓰겠다\\\"고 밝혔다.",
+				"sentenceSize": 156
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT SAT \\\"뉴스페이스 시대 전파 간섭 콕 잡아낸다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

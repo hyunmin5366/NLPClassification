@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326135",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "소재",
+		"newsTitle": "SKIET, 코스피 상장예비심사 통과",
+		"newsSubTitle": "",
+		"newsContent": "SK아이이테크놀로지(SKIET)가 유가증권시장(코스피) 상장예비심사를 통과했다고 30일 밝혔다.\n2019년 설립된 SKIET는 배터리와 디스플레이 소재 제조업체다.\nSK이노베이션 자회사로 전기차 배터리용 습식 분리막 최대 생산능력을 보유하고 있다.\nSKIET는 유럽 전기차 시장을 공략해 지속 성장을 이어간다는 방침이다.\n유럽은 전기차 최대 시장으로 SKIET 습식 분리막 수요가 급증하고 있다.\n회사의 지난해 별도 기준 매출액은 4603억원, 당기순이익은 907억원이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK아이이테크놀로지(SKIET)가 유가증권시장(코스피) 상장예비심사를 통과했다고 30일 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2019년 설립된 SKIET는 배터리와 디스플레이 소재 제조업체다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SK이노베이션 자회사로 전기차 배터리용 습식 분리막 최대 생산능력을 보유하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SKIET는 유럽 전기차 시장을 공략해 지속 성장을 이어간다는 방침이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유럽은 전기차 최대 시장으로 SKIET 습식 분리막 수요가 급증하고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "회사의 지난해 별도 기준 매출액은 4603억원, 당기순이익은 907억원이다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKIET, 코스피 상장예비심사 통과",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

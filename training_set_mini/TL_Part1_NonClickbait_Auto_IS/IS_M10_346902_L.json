@@ -1,0 +1,438 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_346902",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "멕시코시티 범죄율 낮아진 게 '사물인터넷' 때문이라고?",
+		"newsSubTitle": "null",
+		"newsContent": "멕시코시티의 범죄율은 2009년 이후 32%나 드라마틱하게 줄었다.\n치안을 강화해서, 아니면 법이 엄격해져서일까.\n그도 아니면 CCTV 설치 지역을 대폭 확대해서였을까.\n정답은 도시 전역을 아우르는 감시시스템에 장착된 오디오 센서다.\n이 센서는 주변에 설치된 CCTV 카메라를 통해 사운드를 수집하는 방식으로 총소리나 비명소리 등에 반응하는 장비다.\n각종 첨단 기술과 장비들이 전시되는 '스마트시티 엑스포'에서 소개된 이 사례는 요즘 정보통신과학기술(ICT) 분야의 가장 핫한 트렌드인 ‘사물인터넷(IoT, Internet of Things)’이 우리 생활에 어떤 이점을 주는지 잘 보여준다.\n미국의 유명한 통신 및 네트워크 전문기업 시스코의 존 체임버스 회장은 지난해 2월 전 세계 최대 가전쇼인 'CES 2014' 기조연설에서 사물인터넷을 두고 이렇게 말했다.\n\\\"단순히 기술적인 문제가 아니며, 인류 생활방식 자체를 바꾸는 혁명적인 일이다.\\\" 그로부터 딱 1년 후 지난 1월 6일부터 9일까지 미국 라스베이거스에서 열린 'CES 2015'에서는 인류의 생활방식을 크게 바꿀 '혁명적'이라고 일컬어지는 사물인터넷 기술과 서비스들이 대거 소개됐다.\n삼성전자는 5년 내 모든 제품을 100% 사물인터넷화하겠다고 선언했을 정도다.\n반도체와 센서, 배터리, 네트워크 기술 등이 집약된 사물인터넷 기술은 기존의 무선통신 기술과 어떻게 다르며 우리 실제 생활을 어디까지 변화시킬 수 있을까.\n◇2020년, 500억 개 사물이 연결된다 사물인터넷의 개념은 어렵지 않다.\n현재도 우리 생활에서 사물인터넷과 유사한 다양한 서비스를 만나볼 수 있다.\n고속도로 톨게이트에서 이미 보편화된 하이패스 시스템, 자동차 원격 시동 및 블루투스 통화 등 각종 무선 장치 등이 대표적이다.\n사물에 센서를 부착하고 센서가 읽은 데이터를 실시간으로 인터넷으로 주고받고 처리하는 기술이다.\n하지만 사물인터넷의 기본 개념은 이것과는 조금 다르다.\n사람이 조작하고 개입하는 것을 최소화시켜 사물과 사물, 즉 휴대폰과 보일러나 자동차 스마트키와 자동차가 서로 데이터를 주고받는 기술이다.\n약 15년 전인 1999년 벨킨사의 케빈 애쉬턴이 사물인터넷이라는 용어를 처음 소개한 후 반도체와 센서, 통신 및 데이터 처리 기술이 비약적으로 발전했다.\nIT 분야 글로벌 리서치사인 ABI는 앞으로 5년 뒤인 2020년까지 약 500억 개에 달하는 기기가 인터넷으로 연결될 것으로 전망했다.\n이렇게 전망하는 이유는 사물인터넷 구현을 가능케 하는 각종 과학기술이 이미 나왔기 때문이다.\n여러 대의 무선기기가 동시에 데이터 통신을 할 수 있는 무선네트워크 기술, 제타바이트(10억 테라바이트=1조 1000억 기가바이트·3메가바이트 용량의 MP3 음악파일을 281조 5000억 곡을 저장할 수 있는 용량) 용량의 데이터를 처리할 수 있는 빅데이터 기술, 모인 데이터를 저장하고 언제 어디서나 꺼내어 쓸 수 있는 클라우드 기술 등은 IT 기술에 조금이라도 관심을 가지고 있는 이들이라면 알고 있는 용어들이다.\n특히 센서와 네트워크 기술은 수집한 데이터를 바탕으로 원하는 기능을 수행하는 데 핵심이다.\n그 중에서 사용자나 사물의 위치와 통신 규격을 파악해 주는 '비컨(beacon)'은 적외선이나 무선주파수, 블루투스와 같은 무선통신 기술을 이용한다.\n사물의 위치와 정보를 센싱하는 무선통신 기술이 기존에는 몇 cm~ 수m에 불과했지만, 비컨 기술의 발달로 몇 십 m에 있는 사물끼리도 데이터를 주고받는 게 가능해졌다.\n◇자동차가 서로 피한다 앞서 설명한 대로 사물인터넷은 인간의 개입과 조작을 최소화한다는 게 핵심이다.\n사물끼리 알아서 서로를 인식하고 상황에 맞는 특정한 기능을 수행하는 것이다.\n많은 가전업체들이 이와 같은 기능을 염두하고 사물인터넷에 기반한 '스마트 홈' 구현에 앞장서고 있다.\n이를 테면 알람시계와 커피 메이커를 연동시켜 놓으면 특정 시간에 알람이 울리는 동시에 커피메이커에서는 커피가 만들어질 것이다.\n냉장고에 있는 음식이나 식재료의 유통기한이 지나면 냉장고가 인식해 신호를 보내줄 것이다.\n특정 시간이 되면 사용자가 미리 맞춰 놓은 조명이 켜지고, 조명은 사용자의 기분을 살피며 때때로 기분 전환을 할 수 있는 무드 등을 스스로 작동시킬 것이다.\n사물인터넷이 꿈꾸는 일상의 모습이지만 아직 상용화하기엔 이르다.\n그러나 이미 의료나 자동차, 농업 분야 등에서 사물인터넷을 다양한 방법으로 활용하기 시작했다.\n미국의 한 회사가 개발한 '글로우 캡(Glow Cap)'이라는 약병은 환자가 약을 복용할 시간을 알려준다.\n약을 먹을 시간에 약병 뚜껑의 램프가 켜지고 소리도 난다.\n환자가 약병을 열면 센서가 감지해 인터넷으로 환자가 약을 복용했다는 정보를 병원에 보내준다.\n이 서비스를 사물인터넷으로 보는 이유는 여기서 그치지 않고 한 단계 더 앞서갔기 때문이다.\n복용 시간이 지났음에도 약병 뚜껑이 열리지 않으면 병원 시스템이 자동으로 환자에게 SMS나 알림을 보낸다.\n독일 메르세데스 벤츠 회사는 사물인터넷을 활용한 시스템을 선보이기도 했다.\n운전자의 습관이나 출퇴근 시간 등을 학습해 운전자의 기분에 맞는 장소를 스스로 추천해 준다.\n미국 교통부는 차량이 서로 신호를 교환해 사고를 미연에 방지하는 시스템을 구상중이다.\n운전자가 보기 어려운 차량을 보고 위험을 스스로 감지해 자동차가 이를 피하도록 하는 기술이다.\n농업 분야에서도 사물인터넷 활용 시도가 등장했다.\n농업 관개 전문 첨단기업 '밸리 이리게이션'은 농작물이 뿌리를 내리는 흙 1.2m 깊이에 센서를 사용해 온도와 습도, 토양의 상태를 추적한 데이터를 관개 장비에 전송해 알아서 물이나 비료를 주는 시스템을 개발했다.\n관개 장비와 토양의 센서가 서로 통신해 토양의 조건에 따라 물과 비료를 적정하게 사용할 수 있도록 도와준다.\n선구자들이 그렸던 사물인터넷을 바탕으로 한 미래가 조금씩 우리 곁으로 다가오는 날이 멀지 않았다.\n하지만 취약한 보안 때문에 해커들에 의해 사고가 유발되거나 새로운 피싱이 발생될 수 있는 것과 같이 부정적인 측면도 공존하므로 이에 철저히 대비해야 할 것이다.\n※본 콘텐츠 저작권은 한국과학기술정보연구원(KISTI) 과학향기(scent.ndsl.kr/index.do)에 있습니다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 46,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "멕시코시티의 범죄율은 2009년 이후 32%나 드라마틱하게 줄었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "치안을 강화해서, 아니면 법이 엄격해져서일까.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그도 아니면 CCTV 설치 지역을 대폭 확대해서였을까.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정답은 도시 전역을 아우르는 감시시스템에 장착된 오디오 센서다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 센서는 주변에 설치된 CCTV 카메라를 통해 사운드를 수집하는 방식으로 총소리나 비명소리 등에 반응하는 장비다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "각종 첨단 기술과 장비들이 전시되는 '스마트시티 엑스포'에서 소개된 이 사례는 요즘 정보통신과학기술(ICT) 분야의 가장 핫한 트렌드인 ‘사물인터넷(IoT, Internet of Things)’이 우리 생활에 어떤 이점을 주는지 잘 보여준다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "미국의 유명한 통신 및 네트워크 전문기업 시스코의 존 체임버스 회장은 지난해 2월 전 세계 최대 가전쇼인 'CES 2014' 기조연설에서 사물인터넷을 두고 이렇게 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "\\\"단순히 기술적인 문제가 아니며, 인류 생활방식 자체를 바꾸는 혁명적인 일이다.\\\" 그로부터 딱 1년 후 지난 1월 6일부터 9일까지 미국 라스베이거스에서 열린 'CES 2015'에서는 인류의 생활방식을 크게 바꿀 '혁명적'이라고 일컬어지는 사물인터넷 기술과 서비스들이 대거 소개됐다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "삼성전자는 5년 내 모든 제품을 100% 사물인터넷화하겠다고 선언했을 정도다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "반도체와 센서, 배터리, 네트워크 기술 등이 집약된 사물인터넷 기술은 기존의 무선통신 기술과 어떻게 다르며 우리 실제 생활을 어디까지 변화시킬 수 있을까.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "◇2020년, 500억 개 사물이 연결된다 사물인터넷의 개념은 어렵지 않다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "현재도 우리 생활에서 사물인터넷과 유사한 다양한 서비스를 만나볼 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "고속도로 톨게이트에서 이미 보편화된 하이패스 시스템, 자동차 원격 시동 및 블루투스 통화 등 각종 무선 장치 등이 대표적이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "사물에 센서를 부착하고 센서가 읽은 데이터를 실시간으로 인터넷으로 주고받고 처리하는 기술이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "하지만 사물인터넷의 기본 개념은 이것과는 조금 다르다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "사람이 조작하고 개입하는 것을 최소화시켜 사물과 사물, 즉 휴대폰과 보일러나 자동차 스마트키와 자동차가 서로 데이터를 주고받는 기술이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "약 15년 전인 1999년 벨킨사의 케빈 애쉬턴이 사물인터넷이라는 용어를 처음 소개한 후 반도체와 센서, 통신 및 데이터 처리 기술이 비약적으로 발전했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "IT 분야 글로벌 리서치사인 ABI는 앞으로 5년 뒤인 2020년까지 약 500억 개에 달하는 기기가 인터넷으로 연결될 것으로 전망했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이렇게 전망하는 이유는 사물인터넷 구현을 가능케 하는 각종 과학기술이 이미 나왔기 때문이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "여러 대의 무선기기가 동시에 데이터 통신을 할 수 있는 무선네트워크 기술, 제타바이트(10억 테라바이트=1조 1000억 기가바이트·3메가바이트 용량의 MP3 음악파일을 281조 5000억 곡을 저장할 수 있는 용량) 용량의 데이터를 처리할 수 있는 빅데이터 기술, 모인 데이터를 저장하고 언제 어디서나 꺼내어 쓸 수 있는 클라우드 기술 등은 IT 기술에 조금이라도 관심을 가지고 있는 이들이라면 알고 있는 용어들이다.",
+				"sentenceSize": 233
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "특히 센서와 네트워크 기술은 수집한 데이터를 바탕으로 원하는 기능을 수행하는 데 핵심이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "그 중에서 사용자나 사물의 위치와 통신 규격을 파악해 주는 '비컨(beacon)'은 적외선이나 무선주파수, 블루투스와 같은 무선통신 기술을 이용한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "사물의 위치와 정보를 센싱하는 무선통신 기술이 기존에는 몇 cm~ 수m에 불과했지만, 비컨 기술의 발달로 몇 십 m에 있는 사물끼리도 데이터를 주고받는 게 가능해졌다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "◇자동차가 서로 피한다 앞서 설명한 대로 사물인터넷은 인간의 개입과 조작을 최소화한다는 게 핵심이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "사물끼리 알아서 서로를 인식하고 상황에 맞는 특정한 기능을 수행하는 것이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "많은 가전업체들이 이와 같은 기능을 염두하고 사물인터넷에 기반한 '스마트 홈' 구현에 앞장서고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "이를 테면 알람시계와 커피 메이커를 연동시켜 놓으면 특정 시간에 알람이 울리는 동시에 커피메이커에서는 커피가 만들어질 것이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "냉장고에 있는 음식이나 식재료의 유통기한이 지나면 냉장고가 인식해 신호를 보내줄 것이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "특정 시간이 되면 사용자가 미리 맞춰 놓은 조명이 켜지고, 조명은 사용자의 기분을 살피며 때때로 기분 전환을 할 수 있는 무드 등을 스스로 작동시킬 것이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "사물인터넷이 꿈꾸는 일상의 모습이지만 아직 상용화하기엔 이르다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "그러나 이미 의료나 자동차, 농업 분야 등에서 사물인터넷을 다양한 방법으로 활용하기 시작했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "미국의 한 회사가 개발한 '글로우 캡(Glow Cap)'이라는 약병은 환자가 약을 복용할 시간을 알려준다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "약을 먹을 시간에 약병 뚜껑의 램프가 켜지고 소리도 난다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "환자가 약병을 열면 센서가 감지해 인터넷으로 환자가 약을 복용했다는 정보를 병원에 보내준다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "이 서비스를 사물인터넷으로 보는 이유는 여기서 그치지 않고 한 단계 더 앞서갔기 때문이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "복용 시간이 지났음에도 약병 뚜껑이 열리지 않으면 병원 시스템이 자동으로 환자에게 SMS나 알림을 보낸다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 37,
+				"sentenceContent": "독일 메르세데스 벤츠 회사는 사물인터넷을 활용한 시스템을 선보이기도 했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 38,
+				"sentenceContent": "운전자의 습관이나 출퇴근 시간 등을 학습해 운전자의 기분에 맞는 장소를 스스로 추천해 준다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 39,
+				"sentenceContent": "미국 교통부는 차량이 서로 신호를 교환해 사고를 미연에 방지하는 시스템을 구상중이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 40,
+				"sentenceContent": "운전자가 보기 어려운 차량을 보고 위험을 스스로 감지해 자동차가 이를 피하도록 하는 기술이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 41,
+				"sentenceContent": "농업 분야에서도 사물인터넷 활용 시도가 등장했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 42,
+				"sentenceContent": "농업 관개 전문 첨단기업 '밸리 이리게이션'은 농작물이 뿌리를 내리는 흙 1.2m 깊이에 센서를 사용해 온도와 습도, 토양의 상태를 추적한 데이터를 관개 장비에 전송해 알아서 물이나 비료를 주는 시스템을 개발했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 43,
+				"sentenceContent": "관개 장비와 토양의 센서가 서로 통신해 토양의 조건에 따라 물과 비료를 적정하게 사용할 수 있도록 도와준다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 44,
+				"sentenceContent": "선구자들이 그렸던 사물인터넷을 바탕으로 한 미래가 조금씩 우리 곁으로 다가오는 날이 멀지 않았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 45,
+				"sentenceContent": "하지만 취약한 보안 때문에 해커들에 의해 사고가 유발되거나 새로운 피싱이 발생될 수 있는 것과 같이 부정적인 측면도 공존하므로 이에 철저히 대비해야 할 것이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 46,
+				"sentenceContent": "※본 콘텐츠 저작권은 한국과학기술정보연구원(KISTI) 과학향기(scent.ndsl.kr/index.do)에 있습니다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "멕시코시티 범죄율 낮아진 게 '사물인터넷' 때문이라고?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 37,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 38,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 39,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 40,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 41,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 42,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 43,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 44,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 45,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 46,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

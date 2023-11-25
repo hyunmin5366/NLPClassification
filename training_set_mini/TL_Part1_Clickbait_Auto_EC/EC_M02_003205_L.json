@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003205",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "KB국민銀, AI 스타트업 업스테이지와 전략적 파트너십 체결",
+		"newsSubTitle": "AI가상 상담 서비스 같은 고도화된 AI기술 공동 개발",
+		"newsContent": "KB국민은행은 금융에 특화된 인공지능(AI) 기술을 구축하기 위해 AI 스타트업인 업스테이지와 전략적 파트너십을 체결했다고 29일 밝혔다.\n윤진수 KB국민은행 테크그룹 부행장과 김성훈 업스테이지 대표는 각 사옥에서 비대면으로 양사의 핵심 역량을 통한 전반적인 협력을 약속했다.\n양사는 KB국민은행의 AI트랜스포메이션을 위해 AI가상 상담 서비스와 같은 고도화된 AI기술을 공동 개발할 계획이다.\n주요 업무협약 내용은 △KB국민은행 AI현황 진단 △금융 특화 OCR, STT, TTS 기술 내재화 △KB국민은행에 특화된 AI기술 엔진 개발 △KB국민은행의 중장기 AI기술 청사진 설계 등이다.\nKB국민은행 관계자는 미디어SR에 \\\"이번 전략적 파트너십을 통해 금융에 특화된 AI기술을 자체 개발해 AI금융으로 전환을 가속화할 것\\\"이라며 \\\"향후 업스테이지와 함께 자체적인 AI로드맵을 구축해 특화된 AI기술을 고도화할 계획\\\"이라고 말했다.\n김성훈 업스테이지 대표는 \\\"금융권의 AI 비대면 전환이 가속화되는 상황에서 업스테이지의 높은 기술력을 바탕으로 KB국민은행의 AI기술 고도화를 위해 함께 노력하겠다\\\"고 다짐했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KB국민은행은 금융에 특화된 인공지능(AI) 기술을 구축하기 위해 AI 스타트업인 업스테이지와 전략적 파트너십을 체결했다고 29일 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "윤진수 KB국민은행 테크그룹 부행장과 김성훈 업스테이지 대표는 각 사옥에서 비대면으로 양사의 핵심 역량을 통한 전반적인 협력을 약속했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양사는 KB국민은행의 AI트랜스포메이션을 위해 AI가상 상담 서비스와 같은 고도화된 AI기술을 공동 개발할 계획이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주요 업무협약 내용은 △KB국민은행 AI현황 진단 △금융 특화 OCR, STT, TTS 기술 내재화 △KB국민은행에 특화된 AI기술 엔진 개발 △KB국민은행의 중장기 AI기술 청사진 설계 등이다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KB국민은행 관계자는 미디어SR에 \\\"이번 전략적 파트너십을 통해 금융에 특화된 AI기술을 자체 개발해 AI금융으로 전환을 가속화할 것\\\"이라며 \\\"향후 업스테이지와 함께 자체적인 AI로드맵을 구축해 특화된 AI기술을 고도화할 계획\\\"이라고 말했다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김성훈 업스테이지 대표는 \\\"금융권의 AI 비대면 전환이 가속화되는 상황에서 업스테이지의 높은 기술력을 바탕으로 KB국민은행의 AI기술 고도화를 위해 함께 노력하겠다\\\"고 다짐했다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK브로드밴드, 지능형 초연결망 선도한다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323039",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[2017 10대 뉴스]미국 망중립성 폐지",
+		"newsSubTitle": "",
+		"newsContent": "미국 연방통신위원회(FCC)는 12월 14일(현지시간) 표결을 통해 망 중립성 원칙을 공식 폐지했다.\n망 중립성은 네트워크 사업자가 콘텐츠나 서비스를 차별할 수 없다는 원칙이다.\nFCC는 기간통신사업자로서 세밀한 사전규제를 받던 유무선 통신사업자 지위를 부가통신사업자로 낮춰 규제를 완화하는 방식으로 망 중립성을 폐지했다.\n망 중립성 폐지는 글로벌 논쟁으로 비화했다.\n폐지 찬성론자는 통신사가 유무선 네트워크에 대해 정당한 수익을 얻을 수 있어야 투자가 활성화된다는 논리를 내세웠지만, 스타트업 등은 대기업과 망 이용대가 부담 능력 차이가 차별로 이어질 것이라며 격렬하게 반대한다.\n과학기술정보통신부는 미국과 우리나라 법체계가 달라 영향이 적을 것이라는 입장이지만, 미국의 글로벌 시장 파워를 고려할 때 장기적 영향이 불가피할 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 연방통신위원회(FCC)는 12월 14일(현지시간) 표결을 통해 망 중립성 원칙을 공식 폐지했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "망 중립성은 네트워크 사업자가 콘텐츠나 서비스를 차별할 수 없다는 원칙이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "FCC는 기간통신사업자로서 세밀한 사전규제를 받던 유무선 통신사업자 지위를 부가통신사업자로 낮춰 규제를 완화하는 방식으로 망 중립성을 폐지했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "망 중립성 폐지는 글로벌 논쟁으로 비화했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "폐지 찬성론자는 통신사가 유무선 네트워크에 대해 정당한 수익을 얻을 수 있어야 투자가 활성화된다는 논리를 내세웠지만, 스타트업 등은 대기업과 망 이용대가 부담 능력 차이가 차별로 이어질 것이라며 격렬하게 반대한다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "과학기술정보통신부는 미국과 우리나라 법체계가 달라 영향이 적을 것이라는 입장이지만, 미국의 글로벌 시장 파워를 고려할 때 장기적 영향이 불가피할 전망이다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2017 10대 뉴스]미국 망중립성 폐지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

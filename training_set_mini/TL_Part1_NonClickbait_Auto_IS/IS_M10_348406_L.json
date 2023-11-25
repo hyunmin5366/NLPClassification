@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348406",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "SKT \\\"이통서비스, 모바일 전자증명서로 간편 신청하세요\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "# A씨는 비대면으로 이동통신 서비스 미성년자 법정대리인 변경 신청을 하려고 고객센터(114)에 신분증, 주민등록표등본 사본을 팩스로 보냈다.\n하지만 고객센터에선 \\\"신분증이 흐릿하게 수신돼 생년월일 식별이 어려우니 신분증 사본을 다시 보내 달라\\\"고 했다.\nSK텔레콤이 자사 이동통신 가입 상담 업무 편의를 위해 고객센터 구비서류 제출 간소화 서비스를 개시했다고 17일 밝혔다.\n고객센터 구비서류 제출 간소화는 ‘이니셜(initial)’ 앱과 행정안전부 전자문서지갑 서비스를 연결해 구비서류를 모바일 전자증명서로 발급받고 모바일로 간편하고 안전하게 제출할 수 있는 서비스다.\n적용 대상은 본인과 법정대리인이 이니셜로 신청할 수 있는 세금계산서 신청(사업자등록), 장기일시 정지 신청, 온가족할인제도 결합 신청, 미성년자 법정대리인 변경 신청, 전화해지 신청, 일 500건 SMS발송량 제한 해제, 통화내역 열람 신청(이용요금 확인용), 기타 신청 등 8개다.\n먼저 정부24 앱, 행정안전부 전자문서지갑을 활용해 주민등록표등본을 발급받고 이니셜 앱을 켠 후 MMS URL을 통해 신청서를 작성한다.\n이후 이니셜 앱으로 신분증을 촬영하고 이니셜 앱 전자문서지갑에 발급된 주민등록표등본을 선택해 제출하면 된다. ‘이니셜’은 블록체인과 DID(분산신원확인) 기술을 활용해 사용자가 본인의 단말에 다양한 증명서를 발급, 저장, 제출하는 서비스다.\n위∙변조 및 진위여부 검증에 우수한 앱이다. ‘이니셜’에 탑재된 행정안전부 전자문서지갑 서비스는 블록체인 기반의 전자증명서 발급 유통 플랫폼을 기반으로 제공된다.\n블록체인의 새로운 보안기술로 전자파일의 위변조 위험성과 진본확인의 어려움을 해결한 것이 특징이다.\n이동통신 서비스 신청에 필요한 서류를 발급 받기 위해 행정기관을 방문해야 하는 불편이 줄어들고 시간과 비용 절감 효과도 기대된다.\nSK텔레콤 관계자는 \\\"현재 팩스·이메일을 통한 구비서류 접수는 일 평균 약 4200 건 수준으로 ‘이니셜’을 통한 모바일 전자증명서 도입이 되면 많은 이용자들의 편의가 개선될 것\\\"이라고 설명했다.\n고객 정보보안이 한층 강화된다.\n이니셜 앱을 통한 구비서류 제출 시 주민등록증, 운전면허증, 여권, 외국인등록증, 가족관계증명서, 사업자등록증 등의 주민등록번호 뒤 6자리가 자동 숨김된다.\n정부24 앱, 행정안전부 전자문서지갑을 활용해 전자증명서 7종을 발급할 때에도 주민등록번호 뒤 6자리 숨김을 선택하고 이니셜 앱을 통해 전자증명서를 제출하면 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "# A씨는 비대면으로 이동통신 서비스 미성년자 법정대리인 변경 신청을 하려고 고객센터(114)에 신분증, 주민등록표등본 사본을 팩스로 보냈다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하지만 고객센터에선 \\\"신분증이 흐릿하게 수신돼 생년월일 식별이 어려우니 신분증 사본을 다시 보내 달라\\\"고 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SK텔레콤이 자사 이동통신 가입 상담 업무 편의를 위해 고객센터 구비서류 제출 간소화 서비스를 개시했다고 17일 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고객센터 구비서류 제출 간소화는 ‘이니셜(initial)’ 앱과 행정안전부 전자문서지갑 서비스를 연결해 구비서류를 모바일 전자증명서로 발급받고 모바일로 간편하고 안전하게 제출할 수 있는 서비스다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "적용 대상은 본인과 법정대리인이 이니셜로 신청할 수 있는 세금계산서 신청(사업자등록), 장기일시 정지 신청, 온가족할인제도 결합 신청, 미성년자 법정대리인 변경 신청, 전화해지 신청, 일 500건 SMS발송량 제한 해제, 통화내역 열람 신청(이용요금 확인용), 기타 신청 등 8개다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "먼저 정부24 앱, 행정안전부 전자문서지갑을 활용해 주민등록표등본을 발급받고 이니셜 앱을 켠 후 MMS URL을 통해 신청서를 작성한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 이니셜 앱으로 신분증을 촬영하고 이니셜 앱 전자문서지갑에 발급된 주민등록표등본을 선택해 제출하면 된다. ‘이니셜’은 블록체인과 DID(분산신원확인) 기술을 활용해 사용자가 본인의 단말에 다양한 증명서를 발급, 저장, 제출하는 서비스다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "위∙변조 및 진위여부 검증에 우수한 앱이다. ‘이니셜’에 탑재된 행정안전부 전자문서지갑 서비스는 블록체인 기반의 전자증명서 발급 유통 플랫폼을 기반으로 제공된다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "블록체인의 새로운 보안기술로 전자파일의 위변조 위험성과 진본확인의 어려움을 해결한 것이 특징이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이동통신 서비스 신청에 필요한 서류를 발급 받기 위해 행정기관을 방문해야 하는 불편이 줄어들고 시간과 비용 절감 효과도 기대된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "SK텔레콤 관계자는 \\\"현재 팩스·이메일을 통한 구비서류 접수는 일 평균 약 4200 건 수준으로 ‘이니셜’을 통한 모바일 전자증명서 도입이 되면 많은 이용자들의 편의가 개선될 것\\\"이라고 설명했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "고객 정보보안이 한층 강화된다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이니셜 앱을 통한 구비서류 제출 시 주민등록증, 운전면허증, 여권, 외국인등록증, 가족관계증명서, 사업자등록증 등의 주민등록번호 뒤 6자리가 자동 숨김된다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "정부24 앱, 행정안전부 전자문서지갑을 활용해 전자증명서 7종을 발급할 때에도 주민등록번호 뒤 6자리 숨김을 선택하고 이니셜 앱을 통해 전자증명서를 제출하면 된다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKT \\\"이통서비스, 모바일 전자증명서로 간편 신청하세요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334346",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "트위니, 자율주행 로봇 배송 공유 플랫폼 만든다",
+		"newsSubTitle": "",
+		"newsContent": "자율주행 로봇 스타트업 트위니(Twinny)가 이르면 내년 자율주행 로봇 배송 공유 플랫폼을 선보인다.\n단지 내 해당 플랫폼을 구축하면 택배사, 음식료 배달업체, 상가 입점가게 등이 이용료를 내고 사용하는 형태다.\n서비스별로 플랫폼을 구축하지 않아도 돼 공간효율성을 높이고 생산성을 향상시킬 수 있다.\n트위니는 최근 자율주행 배송 로봇 프로토타입 실증을 마쳤다고 18일 밝혔다.\n연내 수익성을 높인 개선 모델을 개발하고 시범 운영에 들어갈 계획이다.\n이르면 내년 상용화 예정이다.\n천홍석 트위니 대표는 “대기업을 포함한 여러 회사와 협력을 논의 중이고 이 가운데서 운영사를 선정할 것”이라고 말했다.\n트위니는 플랫폼 운영을 별도 회사에 맡기고 연구개발(R&D)에 집중할 방침이다.\n트위니는 운영사로부터 관제시스템 사용료와 로봇 대당 판매료를 받아 수익을 올리고 운영사는 택배사로부터 이용료를 받는 사업 모델이다.\n자율주행 공유 로봇 배송 플랫폼은 플랫폼 서버가 여러 서비스 서버로부터 업무를 전달받아 처리하는 방식으로 구동된다.\n플랫폼은 로봇에 업무와 이를 수행하기 위한 최적 경로를 생성해 전달한다.\n로봇은 통신 단말로 건물 설비를 조작하며 이동한다.\n출입문 개폐, 승강기 조작까지 가능하다.\n지도뿐 아니라 3D 라이다 센서를 통해 현재 위치를 파악한다.\n저속으로 이동하며 보행자나 장애물을 감지해 회피한다.\n정해진 장소만 주행해 파손이나 분실 위험이 낮고 스스로 충전까지 수행하기에 관리 부담이 적다.\n택배의 경우 택배기사가 스마트 택배 보관함에만 적재하면 로봇이 집 앞까지 배송한다.\n택배를 로봇에 싣고, 내리는 것까지 모두 자동화한다.\n택배 물동량 증가, 택배기사 과로, 아파트 출입금지 등 문제를 해결할 수 있을 것으로 기대된다.\n플랫폼 성공의 관건은 이용 고객사 확보다.\n트위니가 영업 역량이 뛰어난 외부업체와 협업하는 방식을 택한 이유다.\n비물류 대기업도 신사업 차원에서 관심이 크다고 전해졌다.\n물류업체도 운영사 참여를 희망하지만 경쟁사가 이용하지 않을 경우 로봇 생산성이 떨어질 수 있다.\n천 대표는 “회사별, 서비스별로 각각의 로봇을 도입한다면 생산성이 떨어진다”며 “로봇 배송은 사용한 만큼 이용료를 내는 공유 서비스 형태가 적합하다고 보고 기술을 이어가고 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자율주행 로봇 스타트업 트위니(Twinny)가 이르면 내년 자율주행 로봇 배송 공유 플랫폼을 선보인다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "단지 내 해당 플랫폼을 구축하면 택배사, 음식료 배달업체, 상가 입점가게 등이 이용료를 내고 사용하는 형태다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서비스별로 플랫폼을 구축하지 않아도 돼 공간효율성을 높이고 생산성을 향상시킬 수 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "트위니는 최근 자율주행 배송 로봇 프로토타입 실증을 마쳤다고 18일 밝혔다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연내 수익성을 높인 개선 모델을 개발하고 시범 운영에 들어갈 계획이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이르면 내년 상용화 예정이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "천홍석 트위니 대표는 “대기업을 포함한 여러 회사와 협력을 논의 중이고 이 가운데서 운영사를 선정할 것”이라고 말했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "트위니는 플랫폼 운영을 별도 회사에 맡기고 연구개발(R&D)에 집중할 방침이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "트위니는 운영사로부터 관제시스템 사용료와 로봇 대당 판매료를 받아 수익을 올리고 운영사는 택배사로부터 이용료를 받는 사업 모델이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "자율주행 공유 로봇 배송 플랫폼은 플랫폼 서버가 여러 서비스 서버로부터 업무를 전달받아 처리하는 방식으로 구동된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "플랫폼은 로봇에 업무와 이를 수행하기 위한 최적 경로를 생성해 전달한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "로봇은 통신 단말로 건물 설비를 조작하며 이동한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "출입문 개폐, 승강기 조작까지 가능하다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "지도뿐 아니라 3D 라이다 센서를 통해 현재 위치를 파악한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "저속으로 이동하며 보행자나 장애물을 감지해 회피한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "정해진 장소만 주행해 파손이나 분실 위험이 낮고 스스로 충전까지 수행하기에 관리 부담이 적다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "택배의 경우 택배기사가 스마트 택배 보관함에만 적재하면 로봇이 집 앞까지 배송한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "택배를 로봇에 싣고, 내리는 것까지 모두 자동화한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "택배 물동량 증가, 택배기사 과로, 아파트 출입금지 등 문제를 해결할 수 있을 것으로 기대된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "플랫폼 성공의 관건은 이용 고객사 확보다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "트위니가 영업 역량이 뛰어난 외부업체와 협업하는 방식을 택한 이유다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "비물류 대기업도 신사업 차원에서 관심이 크다고 전해졌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "물류업체도 운영사 참여를 희망하지만 경쟁사가 이용하지 않을 경우 로봇 생산성이 떨어질 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "천 대표는 “회사별, 서비스별로 각각의 로봇을 도입한다면 생산성이 떨어진다”며 “로봇 배송은 사용한 만큼 이용료를 내는 공유 서비스 형태가 적합하다고 보고 기술을 이어가고 있다”고 말했다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "트위니, 자율주행 로봇 배송 공유 플랫폼 만든다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

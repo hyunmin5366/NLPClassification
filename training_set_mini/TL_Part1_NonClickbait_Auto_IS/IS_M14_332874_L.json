@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332874",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[사이버위협 인텔리전스]카스퍼스키랩 '한국 노리는 킴수키는 여전히 활동'",
+		"newsSubTitle": "",
+		"newsContent": "카스퍼스키랩은 2014년 한국수력원자력 원전 도면 유출 후 인터넷에 공개 협박했던 '킴수키' 그룹이 여전히 활동 중이라고 밝혔다.\n박성수 카스퍼스키랩 책임연구원은 해킹그룹 '킴수키'가 사용하는 주요 악성코드 '골드드래곤'을 중심으로 공격을 파헤쳤다.\n카스퍼스키랩은 2013년 한국을 표적 공격한 그룹을 '킴수키'라 명명했다.\n최근 킴수키는 브레이브 프린스, 뷰티앤더 비스트 등 동화이름을 모티브로 넣어 악성코드를 제작했다.\n킴수키는 '팀뷰어'를 주로 쓴다.\n박 연구원은 “킴수키는 악성코드 모듈변화가 빠르고 코드 재사용이 낮은 민첩한 그룹”이라면서 “2017년 12월을 전후해 완전히 다른 악성코드를 사용한다”고 설명했다.\n킴수키는 특히 한글 프로그램 실행 프로세스를 모두 파악한 것으로 보인다.\n박 연구원은 “공격자는 한글 프로그램 경로와 메모리 구조를 분석했다”면서 “피해자 한글 파일을 열면 특정 구분자가 있는지 확인하는 상황”이라고 말했다.\n킴수키는 팀뷰어를 주로 사용한다.\n팀뷰어는 외주 제작 기업이 내부로 들어와 작업할 때 쓰는 도구다.\n킴수키가 쓴 팀뷰어는 똑같은 버전이다.\n커스터마이징한 동일한 버전이 사용되는 공격도 발견된다.\n카스퍼스키랩은 APT 리포트를 비롯해 데이터 피드 서비스(Data Feed Service), 위협 룩업(Threat Lookup) 인텔리전스 서비스를 제공한다.\n인텔리전스 APT 리포트는 대중에 공개되기 전에 진행 중인 최첨단 위협 기술자료다.\n위협 데이터 피드는 현재 운영 중인 SIEM(Security Information and Event Management)과 통합하기 위해 설계됐다.\n악성 URL과 악성 개체 데이터 베이스의 MD5 해시, 모바일 위협 피드를 제공한다.\n카스퍼스키랩은 최신 위협을 상세하게 정리한 위협 룩업 웹 서비스를 제공한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카스퍼스키랩은 2014년 한국수력원자력 원전 도면 유출 후 인터넷에 공개 협박했던 '킴수키' 그룹이 여전히 활동 중이라고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박성수 카스퍼스키랩 책임연구원은 해킹그룹 '킴수키'가 사용하는 주요 악성코드 '골드드래곤'을 중심으로 공격을 파헤쳤다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카스퍼스키랩은 2013년 한국을 표적 공격한 그룹을 '킴수키'라 명명했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 킴수키는 브레이브 프린스, 뷰티앤더 비스트 등 동화이름을 모티브로 넣어 악성코드를 제작했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "킴수키는 '팀뷰어'를 주로 쓴다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박 연구원은 “킴수키는 악성코드 모듈변화가 빠르고 코드 재사용이 낮은 민첩한 그룹”이라면서 “2017년 12월을 전후해 완전히 다른 악성코드를 사용한다”고 설명했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "킴수키는 특히 한글 프로그램 실행 프로세스를 모두 파악한 것으로 보인다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "박 연구원은 “공격자는 한글 프로그램 경로와 메모리 구조를 분석했다”면서 “피해자 한글 파일을 열면 특정 구분자가 있는지 확인하는 상황”이라고 말했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "킴수키는 팀뷰어를 주로 사용한다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "팀뷰어는 외주 제작 기업이 내부로 들어와 작업할 때 쓰는 도구다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "킴수키가 쓴 팀뷰어는 똑같은 버전이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "커스터마이징한 동일한 버전이 사용되는 공격도 발견된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "카스퍼스키랩은 APT 리포트를 비롯해 데이터 피드 서비스(Data Feed Service), 위협 룩업(Threat Lookup) 인텔리전스 서비스를 제공한다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "인텔리전스 APT 리포트는 대중에 공개되기 전에 진행 중인 최첨단 위협 기술자료다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "위협 데이터 피드는 현재 운영 중인 SIEM(Security Information and Event Management)과 통합하기 위해 설계됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "악성 URL과 악성 개체 데이터 베이스의 MD5 해시, 모바일 위협 피드를 제공한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "카스퍼스키랩은 최신 위협을 상세하게 정리한 위협 룩업 웹 서비스를 제공한다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[사이버위협 인텔리전스]카스퍼스키랩 '한국 노리는 킴수키는 여전히 활동'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

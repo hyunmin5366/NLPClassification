@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339278",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[2017 SAP 사파이어나우]SAP, 디지털 비서 '코파일럿' 선보인다",
+		"newsSubTitle": "",
+		"newsContent": "SAP가 디지털 비서 '코파일럿' 기능을 탑재한 'SAP S/4HANA 클라우드 1705'를 출시한다고 17일(현지시간) 밝혔다.\nSAP는 'SAP S/4HANA 클라우드 1705'에 디지털 비서 'SAP 코파일럿(SAP Co-Pilot)' 기능을 추가했다.\nSAP 코파일럿은 비즈니스별 상황을 인지한다.\n이를 바탕으로 맥락에 맞는 채팅 기능을 지원하고 효율적인 협업을 지원한다.\nSAP는 \\\"데이터양이 기하학적 속도로 늘어나는 시대에 클라우드 기반 애널리틱스 솔루션이 모든 데이터를 처리할 것\\\"이라면서 \\\"고객사가 변하는 업무 환경에 대비하고 반복적 업무는 제거하도록 지원하는 인텔리전트 비서로 발돋움할 것\\\"이라고 소개했다.\nSAP S/4HANA 클라우드 1705에는 머신러닝 기술이 탑재됐다.\n예측 분석과 자동 인보이스 매칭 기능을 제공한다.\n이 밖에도 △큰 규모 기업을 위한 파이낸스 기능 △제조 프로세스를 위한 엔드-투-엔드 프로세스 △협업 환경과 푸시 알림으로 인사이트를 제공하는 'SAP 프로젝트 컴패니언 모바일 애플리케이션' △판매 인력 자동화를 위한 발주 등을 지원하는 서드파티 시스템과 통합 기능 등이 업데이트됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SAP가 디지털 비서 '코파일럿' 기능을 탑재한 'SAP S/4HANA 클라우드 1705'를 출시한다고 17일(현지시간) 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SAP는 'SAP S/4HANA 클라우드 1705'에 디지털 비서 'SAP 코파일럿(SAP Co-Pilot)' 기능을 추가했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SAP 코파일럿은 비즈니스별 상황을 인지한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 바탕으로 맥락에 맞는 채팅 기능을 지원하고 효율적인 협업을 지원한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SAP는 \\\"데이터양이 기하학적 속도로 늘어나는 시대에 클라우드 기반 애널리틱스 솔루션이 모든 데이터를 처리할 것\\\"이라면서 \\\"고객사가 변하는 업무 환경에 대비하고 반복적 업무는 제거하도록 지원하는 인텔리전트 비서로 발돋움할 것\\\"이라고 소개했다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SAP S/4HANA 클라우드 1705에는 머신러닝 기술이 탑재됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "예측 분석과 자동 인보이스 매칭 기능을 제공한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 밖에도 △큰 규모 기업을 위한 파이낸스 기능 △제조 프로세스를 위한 엔드-투-엔드 프로세스 △협업 환경과 푸시 알림으로 인사이트를 제공하는 'SAP 프로젝트 컴패니언 모바일 애플리케이션' △판매 인력 자동화를 위한 발주 등을 지원하는 서드파티 시스템과 통합 기능 등이 업데이트됐다.",
+				"sentenceSize": 159
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2017 SAP 사파이어나우]SAP, 디지털 비서 '코파일럿' 선보인다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

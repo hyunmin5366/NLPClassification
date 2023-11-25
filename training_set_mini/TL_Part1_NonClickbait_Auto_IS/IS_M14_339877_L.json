@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339877",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "코그넥스, 딥러닝 기반 머신비전 솔루션 '비디 스위트' 출시",
+		"newsSubTitle": "",
+		"newsContent": "머신비전 업체 코그넥스코리아는 딥러닝 기반 산업 이미지 분석 소프트웨어(SW) '코그넥스 비디 스위트(Cognex ViDi Suite)'를 출시하고 국내 머신비전 시장 공략을 강화한다고 25일 밝혔다.\n머신비전이란 영상에서 정교한 패턴을 추출해 정밀 제어, 불량 검사, 정밀 계측, 사용자 식별 등을 돕는 제품이다.\n예를 들어 스마트폰 생산 과정에서 배터리, 카메라, PCB 모듈이 정확한 위치에 안착됐는지 마이크로 단위까지 정밀하게 판독한다.\n기존 머신비전 기술은 복잡한 배경에 있는 비정형적인 불량을 검출하거나 변형이 많은 복잡한 패턴을 정확하게 인식하는데 한계가 있었다.\n이 때문에 자동화 공장에서도 검사 영역은 대부분 사람이 직접 수행했다.\n코그넥스는 머신비전에 딥러닝 기술을 접목해 전통적인 머신비전이 해결할 수 없었던 문제를 해결했다.\n이를 위해 지난해 4월 산업용 머신비전용 딥러닝 SW 전문 제조업체 비디시스템즈를 인수하는 등 딥러닝과 인공지능(AI) 분야에 많은 투자를 해왔다.\n코그넥스 비디 스위트는 인간의 학습 과정을 모델링한 예제 기반의 학습 방법이 특징이다.\n신제품은 △이미지에서 특징을 찾아 위치를 파악하는데 사용되는 '블루' △불량을 감지하는 '레드' △물체를 서로 다른 등급으로 분류하는 '그린' △광학적 문자 판독 기능을 제공하는 '리드' 등 네 가지 툴로 구성됐다.\n기존 딥러닝 기반 머신비전 솔루션과 달리 최소 몇 십장의 이미지로도 초기 학습이 가능하고 고성능 컴퓨터 환경 구축도 필요치 않다.\n코그넥스는 비디 스위트를 사용하면 전수 검사가 용이해지고 검사 정확도가 높아져 불량률을 줄이는데 도움이 될 것으로 기대했다.\n기존 검사 방식 대비 10분의 1 이상 생산비용 절감 효과도 볼 수 있다.\n코그넥스코리아는 국내 머신비전 시장 공략을 강화하기 위해 전통적인 주력 사업군인 전자, 자동차, 반도체를 비롯해 제약, 소비재, 물류 등 신 시장을 대상으로 마케팅 활동을 강화하고 있다.\n수원에 위치한 코그넥스 연구소도 현재의 3배 규모로 확장한다.\n조재휘 코그넥스코리아 지사장은 “비용 효율적이고 신뢰성 높은 자동 품질관리시스템을 구축할 수 있도록 지원하는 딥러닝 머신비전 SW로 섬세한 검사를 요구하는 분야에서 유용하게 활용될 수 있다”며 “제조 분야 고객들이 겪고 있는 비정형 이미지 검사 문제를 해결해 제조 공정을 한 층 더 개선할 수 있도록 지원할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "머신비전 업체 코그넥스코리아는 딥러닝 기반 산업 이미지 분석 소프트웨어(SW) '코그넥스 비디 스위트(Cognex ViDi Suite)'를 출시하고 국내 머신비전 시장 공략을 강화한다고 25일 밝혔다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "머신비전이란 영상에서 정교한 패턴을 추출해 정밀 제어, 불량 검사, 정밀 계측, 사용자 식별 등을 돕는 제품이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예를 들어 스마트폰 생산 과정에서 배터리, 카메라, PCB 모듈이 정확한 위치에 안착됐는지 마이크로 단위까지 정밀하게 판독한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 머신비전 기술은 복잡한 배경에 있는 비정형적인 불량을 검출하거나 변형이 많은 복잡한 패턴을 정확하게 인식하는데 한계가 있었다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 때문에 자동화 공장에서도 검사 영역은 대부분 사람이 직접 수행했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코그넥스는 머신비전에 딥러닝 기술을 접목해 전통적인 머신비전이 해결할 수 없었던 문제를 해결했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 위해 지난해 4월 산업용 머신비전용 딥러닝 SW 전문 제조업체 비디시스템즈를 인수하는 등 딥러닝과 인공지능(AI) 분야에 많은 투자를 해왔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "코그넥스 비디 스위트는 인간의 학습 과정을 모델링한 예제 기반의 학습 방법이 특징이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "신제품은 △이미지에서 특징을 찾아 위치를 파악하는데 사용되는 '블루' △불량을 감지하는 '레드' △물체를 서로 다른 등급으로 분류하는 '그린' △광학적 문자 판독 기능을 제공하는 '리드' 등 네 가지 툴로 구성됐다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "기존 딥러닝 기반 머신비전 솔루션과 달리 최소 몇 십장의 이미지로도 초기 학습이 가능하고 고성능 컴퓨터 환경 구축도 필요치 않다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "코그넥스는 비디 스위트를 사용하면 전수 검사가 용이해지고 검사 정확도가 높아져 불량률을 줄이는데 도움이 될 것으로 기대했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기존 검사 방식 대비 10분의 1 이상 생산비용 절감 효과도 볼 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "코그넥스코리아는 국내 머신비전 시장 공략을 강화하기 위해 전통적인 주력 사업군인 전자, 자동차, 반도체를 비롯해 제약, 소비재, 물류 등 신 시장을 대상으로 마케팅 활동을 강화하고 있다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "수원에 위치한 코그넥스 연구소도 현재의 3배 규모로 확장한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "조재휘 코그넥스코리아 지사장은 “비용 효율적이고 신뢰성 높은 자동 품질관리시스템을 구축할 수 있도록 지원하는 딥러닝 머신비전 SW로 섬세한 검사를 요구하는 분야에서 유용하게 활용될 수 있다”며 “제조 분야 고객들이 겪고 있는 비정형 이미지 검사 문제를 해결해 제조 공정을 한 층 더 개선할 수 있도록 지원할 것”이라고 말했다.",
+				"sentenceSize": 182
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코그넥스, 딥러닝 기반 머신비전 솔루션 '비디 스위트' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

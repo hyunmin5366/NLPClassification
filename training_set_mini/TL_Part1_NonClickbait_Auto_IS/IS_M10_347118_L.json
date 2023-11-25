@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347118",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "LGU+ 인공지능 홈로봇 美'JIBO'사에 200만달러 지분투자",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 미국 벤처기업인 'JIBO(지보)'사에 200만달러 규모 지분 투자를 한다고 6일 밝혔다.\nJIBO사는 현재 인공지능을 갖춘 세계 최초의 소셜 홈 로봇인 'JIBO'를 개발하고 있다.\n지능은 물론 감성까지 갖춘 소셜 홈 로봇 JIBO에 대한 개발이 완료되면 내년 초 미국에서 상용화될 전망이다. 'JIBO'는 미국 MIT(메사추세츠공과대학) 연구진이 개발한 가족용 로봇이다.\n가족에 대해 메시지 전달, 사진 촬영, 리마인딩, 이야기 구연, 이야기 듣기, 화상 전화 등 6가지 기능을 갖추고 있다.\nLG유플러스는 이번 전략적 파트너십 제휴를 통해 오는 2020년까지 초연결시대를 만드는 'IoT(사물인터넷) 세계 1위' 사업자로 도약하겠다는 포부를 밝혔다.\n이를 통해 고객 중심의 미센트릭(Me-Centric) 서비스와 상품 개발에 적극 나서는 등 '뉴 라이프 크리에이터' 비전을 지속 실현해 나갈 계획이다.\n한편 올해 1월 설립된 JIBO사는 향후 소셜 홈 로봇인 JIBO 등을 앞세워 미국 외에 한국, 중국, 일본 등 아시아 시장에 진출할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 미국 벤처기업인 'JIBO(지보)'사에 200만달러 규모 지분 투자를 한다고 6일 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "JIBO사는 현재 인공지능을 갖춘 세계 최초의 소셜 홈 로봇인 'JIBO'를 개발하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지능은 물론 감성까지 갖춘 소셜 홈 로봇 JIBO에 대한 개발이 완료되면 내년 초 미국에서 상용화될 전망이다. 'JIBO'는 미국 MIT(메사추세츠공과대학) 연구진이 개발한 가족용 로봇이다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가족에 대해 메시지 전달, 사진 촬영, 리마인딩, 이야기 구연, 이야기 듣기, 화상 전화 등 6가지 기능을 갖추고 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG유플러스는 이번 전략적 파트너십 제휴를 통해 오는 2020년까지 초연결시대를 만드는 'IoT(사물인터넷) 세계 1위' 사업자로 도약하겠다는 포부를 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 통해 고객 중심의 미센트릭(Me-Centric) 서비스와 상품 개발에 적극 나서는 등 '뉴 라이프 크리에이터' 비전을 지속 실현해 나갈 계획이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 올해 1월 설립된 JIBO사는 향후 소셜 홈 로봇인 JIBO 등을 앞세워 미국 외에 한국, 중국, 일본 등 아시아 시장에 진출할 예정이다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LGU+ 인공지능 홈로봇 美'JIBO'사에 200만달러 지분투자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338665",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "사이버범죄 그룹 'TA505'에 한국 기업 당했다",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 사이버 범죄그룹 'TA505'가 한국을 노린다.\n국내 제조업 등 중소기업을 대상으로 실제 공격이 감행돼 수억원가량 피해가 발생했다.\n과거 유럽, 북미 등을 중심으로 활동한 범죄그룹이 최근 동아시아 지역으로 활동 범위를 넓히면서 기업주의가 요구된다.\n21일 NSHC에 따르면 사이버범죄를 목적으로 활동하는 글로벌 해킹그룹 'TA505(SectorJ04)'가 최근 한국을 대상으로 범죄활동을 확대했다고 밝혔다.\nTA505는 주로 유럽과 북미 지역 국가에 일반 기업을 대상으로 금전 보상 목적 해킹 활동을 수행했다.\n2014년 말 활동이 포착된 후 로키랜섬웨어, 드리덱스, 네커스 등 악성코드를 유포했다.\n글로벌 보안기업 프루프포인트는 TA505그룹에 대해 “필요에 따라 기성 악성코드뿐 아니라 자체제작을 통해 공격행위를 지속한다”면서 “오직 돈을 쫓아 행동하며 뛰어난 적응력과 기술을 보유했다”고 설명했다.\nTA505는 올해 2월 인도, 인도네시아 등 동남아시아지역을 시작해 대만, 한국 등 동아시아, 아르헨티나 등 남미 지역 국가로 활동범위를 넓혔다.\n국내서 실제 피해 기업이 나왔다.\n제조기업 A사는 스피어피싱 공격을 받아 내부 서버 등 파일 암호화 돼 피해를 입었다.\nTA505는 5억원 이하 금액을 제시하며 협상을 시도한 것으로 알려졌다.\n이외에도 일부 중소기업이 해당 공격으로 해커 협박을 받았다.\n한국을 대상으로 해킹 활동에 악용한 이메일은 한국어로 작성된 엑셀파일을 첨부해 스마트폰에서 발송한 것처럼 위장했다.\n메일 첨부된 파일명은 '인보이스'이며 메일내용은 '삼성 모바일에서 전송하였습니다'를 담았다.\n한국어 사용을 최소화 했다.\n이메일 첨부된 엑셀파일을 열람하기 위해 매크로 기능을 활성화하게 안내한다.\n피해자가 해당 매크로를 활성화하면 원격 제어 기능을 갖는 윈도 인스톨러 파일(MSI)을 생성·실행한다.\n악성코드는 'ALLO LTD'라는 전자 서명이 존재한다.\nNSHC는 보안 솔루션이 해당 악성코드를 탐지하는 것을 우회하기 위해 'TA505'그룹에서 인위적으로 악성코드에 삽입한 것으로 판단된다고 설명했다.\n최종적으로 악성코드가 실행되면 러시아, 독일 등에 위치한 C2서버로 접송해 해킹 대상 내부 네트워크 해킹을 위한 해킹툴, 추가 악성코드를 다운로드한다.\n장영준 NSHC 수석 연구원은 “해당 공격 그룹 활동 포착 후 국내 몇몇 기업이 실제 피해 사례를 알려왔다”면서 “국내에서 공격을 성공해 수익을 낸 만큼 해당 범죄 조직의 한국 기업을 향한 공격은 앞으로도 계속 될 것으로 예상된다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 사이버 범죄그룹 'TA505'가 한국을 노린다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 제조업 등 중소기업을 대상으로 실제 공격이 감행돼 수억원가량 피해가 발생했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과거 유럽, 북미 등을 중심으로 활동한 범죄그룹이 최근 동아시아 지역으로 활동 범위를 넓히면서 기업주의가 요구된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "21일 NSHC에 따르면 사이버범죄를 목적으로 활동하는 글로벌 해킹그룹 'TA505(SectorJ04)'가 최근 한국을 대상으로 범죄활동을 확대했다고 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "TA505는 주로 유럽과 북미 지역 국가에 일반 기업을 대상으로 금전 보상 목적 해킹 활동을 수행했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2014년 말 활동이 포착된 후 로키랜섬웨어, 드리덱스, 네커스 등 악성코드를 유포했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "글로벌 보안기업 프루프포인트는 TA505그룹에 대해 “필요에 따라 기성 악성코드뿐 아니라 자체제작을 통해 공격행위를 지속한다”면서 “오직 돈을 쫓아 행동하며 뛰어난 적응력과 기술을 보유했다”고 설명했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "TA505는 올해 2월 인도, 인도네시아 등 동남아시아지역을 시작해 대만, 한국 등 동아시아, 아르헨티나 등 남미 지역 국가로 활동범위를 넓혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "국내서 실제 피해 기업이 나왔다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "제조기업 A사는 스피어피싱 공격을 받아 내부 서버 등 파일 암호화 돼 피해를 입었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "TA505는 5억원 이하 금액을 제시하며 협상을 시도한 것으로 알려졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이외에도 일부 중소기업이 해당 공격으로 해커 협박을 받았다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "한국을 대상으로 해킹 활동에 악용한 이메일은 한국어로 작성된 엑셀파일을 첨부해 스마트폰에서 발송한 것처럼 위장했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "메일 첨부된 파일명은 '인보이스'이며 메일내용은 '삼성 모바일에서 전송하였습니다'를 담았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "한국어 사용을 최소화 했다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이메일 첨부된 엑셀파일을 열람하기 위해 매크로 기능을 활성화하게 안내한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "피해자가 해당 매크로를 활성화하면 원격 제어 기능을 갖는 윈도 인스톨러 파일(MSI)을 생성·실행한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "악성코드는 'ALLO LTD'라는 전자 서명이 존재한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "NSHC는 보안 솔루션이 해당 악성코드를 탐지하는 것을 우회하기 위해 'TA505'그룹에서 인위적으로 악성코드에 삽입한 것으로 판단된다고 설명했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "최종적으로 악성코드가 실행되면 러시아, 독일 등에 위치한 C2서버로 접송해 해킹 대상 내부 네트워크 해킹을 위한 해킹툴, 추가 악성코드를 다운로드한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "장영준 NSHC 수석 연구원은 “해당 공격 그룹 활동 포착 후 국내 몇몇 기업이 실제 피해 사례를 알려왔다”면서 “국내에서 공격을 성공해 수익을 낸 만큼 해당 범죄 조직의 한국 기업을 향한 공격은 앞으로도 계속 될 것으로 예상된다”고 말했다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "사이버범죄 그룹 'TA505'에 한국 기업 당했다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

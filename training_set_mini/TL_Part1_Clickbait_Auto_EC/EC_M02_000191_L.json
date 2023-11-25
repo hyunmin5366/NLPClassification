@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000191",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "검찰, 신한금융 채용비리 수사 착수... 신한 \\\"아는 바 없다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "검찰이 신한금융그룹의 임원 자녀 특혜채용 의혹 수사에 착수했다.\n서울동부지검은 금융감독원이 수사 의뢰한 신한은행 채용비리 사건을 형사6부에 배당하고 수사에 착수했다고 밝혔다.\n앞서 금융감독원은 최근 한 달간 신한은행·카드·캐피탈·생명 등 신한금융 계열사를 조사한 결과 총 22건의 특혜채용 정황이 확인됐다고 발표한 바 있다.\n이 가운데 임직원 자녀에 관한 건은 13건으로 전직 최고경영자나 고위관료가 정치인, 금감원 직원 등을 통해 채용 청탁을 한 정황을 포착했다.\n5건은 당시 현직 임직원 자녀, 7건은 외부추천이었다.\n김정훈 신한금융지주회사 홍보부팀장은 16일 미디어SR에 \\\"아직 넘겨받은 자료가 없어 사측에서도 채용비리 관련해 알고 있는 바가 없다\\\"는 입장을 밝혔다.\n현재 검찰은 금감원으로부터 자료를 넘겨받아 범죄 혐의점을 검토하고 있으며, 조만간 신한금융 관계자를 소환해 조사할 방침이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "검찰이 신한금융그룹의 임원 자녀 특혜채용 의혹 수사에 착수했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울동부지검은 금융감독원이 수사 의뢰한 신한은행 채용비리 사건을 형사6부에 배당하고 수사에 착수했다고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 금융감독원은 최근 한 달간 신한은행·카드·캐피탈·생명 등 신한금융 계열사를 조사한 결과 총 22건의 특혜채용 정황이 확인됐다고 발표한 바 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 가운데 임직원 자녀에 관한 건은 13건으로 전직 최고경영자나 고위관료가 정치인, 금감원 직원 등을 통해 채용 청탁을 한 정황을 포착했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "5건은 당시 현직 임직원 자녀, 7건은 외부추천이었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김정훈 신한금융지주회사 홍보부팀장은 16일 미디어SR에 \\\"아직 넘겨받은 자료가 없어 사측에서도 채용비리 관련해 알고 있는 바가 없다\\\"는 입장을 밝혔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 검찰은 금감원으로부터 자료를 넘겨받아 범죄 혐의점을 검토하고 있으며, 조만간 신한금융 관계자를 소환해 조사할 방침이다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코레일-노조 의견조율 안돼 '팽팽'… 직원 30% 결의대회",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

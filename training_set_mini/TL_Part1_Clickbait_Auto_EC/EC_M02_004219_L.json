@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004219",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "하나銀, 오늘(20일)부터 주담대‧신용대출 전격 중단",
+		"newsSubTitle": "가계대출 증가율 6% 임박에 따른 조치…실수요자 대출은 지속",
+		"newsContent": "하나은행이 주택담보대출과 신용대출 판매를 중단한다.\n그간 주요 시중은행들이 개별 대출 상품에 대해 일부 신규 대출 중단, 한도 축소등을 결정해왔지만 주담대와 신용대출 판매를 동시에 중단한 건 이례적이다.\n20일 은행업계에 따르면 하나은행은 일부 대출상품 판매를 중단했다.\n대출 중단 상품은 주택·상가·오피스텔·토지 등 부동산 구입자금 대출과 신용대출이다.\n하나원큐 신용대출·하나원큐 아파트론 등 비대면 대출 상품은 어제(19)일부터 중단됐다.\n하나은행은 이번 대출 중단이 가계대출 총량의 안정적 관리를 위한 조치라고 설명한다.\n지난 9월 말 기준 하나은행의 가계대출 연간 증가율은 5.19%다.\n금융당국의 가이드라인(6%대)에 근접하는 수준이다.\n하나은행 관계자는 데일리임팩트에 \\\"다만, 전세자금대출, 집단대출, 새희망홀씨 등 실수요자들을 위한 금융상품의 판매는 지속할 것\\\"이라며 \\\"가계대출 증가세를 모니터링해 판매 재개 일정을 조율하겠다\\\"라고 설명했다.\n한편, 하나은행 뿐 아니라 다른 시중은행들도 대출 총량 관리를 위한 조치를 이어가고 있다.\nNH농협은행이 부동산 관련 신규 대출을 전면 중단했고, KB국민은행도 주요 가계대출 상품의 한도를 축소하고 있다.\n이밖에 한도축소에 참여한 우리은행은 최근 일부 신용대출상품의 금리를 인상하며 대출 관리에 나서고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하나은행이 주택담보대출과 신용대출 판매를 중단한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그간 주요 시중은행들이 개별 대출 상품에 대해 일부 신규 대출 중단, 한도 축소등을 결정해왔지만 주담대와 신용대출 판매를 동시에 중단한 건 이례적이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "20일 은행업계에 따르면 하나은행은 일부 대출상품 판매를 중단했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대출 중단 상품은 주택·상가·오피스텔·토지 등 부동산 구입자금 대출과 신용대출이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하나원큐 신용대출·하나원큐 아파트론 등 비대면 대출 상품은 어제(19)일부터 중단됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하나은행은 이번 대출 중단이 가계대출 총량의 안정적 관리를 위한 조치라고 설명한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 9월 말 기준 하나은행의 가계대출 연간 증가율은 5.19%다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "금융당국의 가이드라인(6%대)에 근접하는 수준이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하나은행 관계자는 데일리임팩트에 \\\"다만, 전세자금대출, 집단대출, 새희망홀씨 등 실수요자들을 위한 금융상품의 판매는 지속할 것\\\"이라며 \\\"가계대출 증가세를 모니터링해 판매 재개 일정을 조율하겠다\\\"라고 설명했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편, 하나은행 뿐 아니라 다른 시중은행들도 대출 총량 관리를 위한 조치를 이어가고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "NH농협은행이 부동산 관련 신규 대출을 전면 중단했고, KB국민은행도 주요 가계대출 상품의 한도를 축소하고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이밖에 한도축소에 참여한 우리은행은 최근 일부 신용대출상품의 금리를 인상하며 대출 관리에 나서고 있다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하나금융투자, 신한금투 제치고 6호 초대형 IB 될까",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

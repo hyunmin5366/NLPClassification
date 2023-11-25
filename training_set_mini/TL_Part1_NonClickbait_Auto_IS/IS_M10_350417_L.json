@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350417",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT스카이라이프, 롯데카드와 제휴 \\\"月5500원 캐시백\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "KT스카이라이프는 롯데카드와 제휴해 요금을 할인한다고 17일 밝혔다.\n스카이라이프의 유무선 상품(방송, 인터넷, 모바일) 요금을 롯데카드 '롤라카드'로 납부하는 고객에게 전월 카드 사용 실적과 무관하게 12개월 동안 매월 5500원 캐시백을 제공한다.\n대상은 '롤라카드'를 로로 발급 받아 스카이라이프 상품 요금을 자동 납부하는 고객이다.\n롯데카드 6개월 동안 미사용 고객도 '롤라카드' 교체 발급 시에 동일하게 적용한다.\n롯데카드 캐시백은 스카이라이프 프로모션과도 중복이 된다.\n예를 들어 만65세 이상 시니어 고객이 데이터와 음성, 문자를 모두 무제한으로 사용할 수 있는 스카이라이프 모바일 '골드2GB+'(8900원)요금제를 가입하고 롯데카드로 자동 결제를 신청하면 골드 요금제 할인(1500원 할인)과 롯데카드 캐시백(5500원)을 더해 매월 최대 7000원의 통신비를 줄일 수 있다.\n방송, 인터넷 결합할인도 받을 수 있다.\n스카이라이프 모바일 '슬림' 요금제(4400원)처럼 캐시백(5500원)보다 저렴한 서비스를 이용해도 캐시백을 받을 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT스카이라이프는 롯데카드와 제휴해 요금을 할인한다고 17일 밝혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스카이라이프의 유무선 상품(방송, 인터넷, 모바일) 요금을 롯데카드 '롤라카드'로 납부하는 고객에게 전월 카드 사용 실적과 무관하게 12개월 동안 매월 5500원 캐시백을 제공한다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대상은 '롤라카드'를 로로 발급 받아 스카이라이프 상품 요금을 자동 납부하는 고객이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "롯데카드 6개월 동안 미사용 고객도 '롤라카드' 교체 발급 시에 동일하게 적용한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "롯데카드 캐시백은 스카이라이프 프로모션과도 중복이 된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예를 들어 만65세 이상 시니어 고객이 데이터와 음성, 문자를 모두 무제한으로 사용할 수 있는 스카이라이프 모바일 '골드2GB+'(8900원)요금제를 가입하고 롯데카드로 자동 결제를 신청하면 골드 요금제 할인(1500원 할인)과 롯데카드 캐시백(5500원)을 더해 매월 최대 7000원의 통신비를 줄일 수 있다.",
+				"sentenceSize": 174
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방송, 인터넷 결합할인도 받을 수 있다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스카이라이프 모바일 '슬림' 요금제(4400원)처럼 캐시백(5500원)보다 저렴한 서비스를 이용해도 캐시백을 받을 수 있다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT스카이라이프, 롯데카드와 제휴 \\\"月5500원 캐시백\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

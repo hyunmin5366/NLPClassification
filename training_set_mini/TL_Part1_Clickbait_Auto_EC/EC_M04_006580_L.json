@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006580",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "'중국발 훈풍' 코스피 1739.68",
+		"newsSubTitle": "위안화 절상 가능성 27p 올라… 환율은 1172원",
+		"newsContent": "국내 주식시장이 중국의 위안화 절상 가능성에 상승 마감했다.\n21일 코스피지수는 전거래일보다 27.73포인트(1.62%) 오른 1739.68에 장을 마쳤다.\n업종별로는 철강금속 (+5.86%), 기계(+2.98%), 건설업(+2.83%), 비금속광물(+2.56%)은 상승했고 통신업(-0.28%), 종이목재(-0.18%), 의료정밀은 하락했다.\n코스닥지수는 3.13포인트(0.63%) 오른 498.36을 기록했다.\n업종별로는 출판·매체복제(+3.73%), 오락·문화(+3.11%), 제약(+2.46%), 금속(+2.25%)은 상승했고 가구(-1.83%), 섬유·의류(-1.75%), 정보기기(-0.60%) 등은 하락했다.\n서울 외환시장에서 미국 달러화에 대한 원화 환율은 30.60원 떨어진 1172.00원을 기록했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 주식시장이 중국의 위안화 절상 가능성에 상승 마감했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 코스피지수는 전거래일보다 27.73포인트(1.62%) 오른 1739.68에 장을 마쳤다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "업종별로는 철강금속 (+5.86%), 기계(+2.98%), 건설업(+2.83%), 비금속광물(+2.56%)은 상승했고 통신업(-0.28%), 종이목재(-0.18%), 의료정밀은 하락했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코스닥지수는 3.13포인트(0.63%) 오른 498.36을 기록했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업종별로는 출판·매체복제(+3.73%), 오락·문화(+3.11%), 제약(+2.46%), 금속(+2.25%)은 상승했고 가구(-1.83%), 섬유·의류(-1.75%), 정보기기(-0.60%) 등은 하락했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서울 외환시장에서 미국 달러화에 대한 원화 환율은 30.60원 떨어진 1172.00원을 기록했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 장대 B구역·태평 5구역 수주전 최종 승자는 'GS'와 '퍼펙트사업단'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

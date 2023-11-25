@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352922",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 게임",
+		"newsTitle": "\\\"악플·혐오표현 막는다\\\"…스마일게이트AI센터 데이터셋 공개",
+		"newsSubTitle": "null",
+		"newsContent": "스마일게이트AI센터는 악플 및 혐오 발언 데이터셋을 공개한다고 20일 밝혔다.\n최근 온라인상에서 급증하는 혐오표현을 선제적으로 감지하고 대응하기 위해서다.\n센터는 스타트업 언더스코어와 함께 지난 2019년 1월 1일부터 2021년 7월 1일까지 포털, 커뮤니티 등 다양한 웹사이트 게시글을 대상으로 악플 및 혐오 발언 데이터를 수집했다.\n약 55만여개의 데이터를 기반으로 1만개의 데이터셋을 구축했다.\n센터는 데이터셋을 △여성/가족 △성소수자 △남성 △인종/국적 △연령 △지역 △종교 △기타혐오△ 등 8개 대상으로 범주화했다.\n혐오 발언 분류를 위한 기준 모델도 공개했다.\n이번에 수집된 데이터는 1월 중 센터 깃허브 페이지에서 공개될 예정이다.\n센터는 이번 데이터셋으로 게임 커뮤니티 댓글이나 고객 응대 상담 챗봇, 여론조사 등 여러 분야에서 혐오발언 여부를 파악할 수 있을 것으로 기대했다.\n지속적인 R&D(연구·개발)로 혐오 표현을 정확하게 찾아낼 수 있는 기술을 고도화한다는 방침이다.\n한우진 스마일게이트AI 센터장은 \\\"이번에 공개된 데이터가 인공지능을 안전하게 활용하는 밑거름이 되기를 바란다\\\"며 \\\"그동안 진행해온 연구 결과와 노력들이 기술적인 관점뿐만 아니라 사회에 긍정적인 기여를 할 수 있도록 다양한 노력을 시도할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스마일게이트AI센터는 악플 및 혐오 발언 데이터셋을 공개한다고 20일 밝혔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 온라인상에서 급증하는 혐오표현을 선제적으로 감지하고 대응하기 위해서다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "센터는 스타트업 언더스코어와 함께 지난 2019년 1월 1일부터 2021년 7월 1일까지 포털, 커뮤니티 등 다양한 웹사이트 게시글을 대상으로 악플 및 혐오 발언 데이터를 수집했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "약 55만여개의 데이터를 기반으로 1만개의 데이터셋을 구축했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "센터는 데이터셋을 △여성/가족 △성소수자 △남성 △인종/국적 △연령 △지역 △종교 △기타혐오△ 등 8개 대상으로 범주화했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "혐오 발언 분류를 위한 기준 모델도 공개했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번에 수집된 데이터는 1월 중 센터 깃허브 페이지에서 공개될 예정이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "센터는 이번 데이터셋으로 게임 커뮤니티 댓글이나 고객 응대 상담 챗봇, 여론조사 등 여러 분야에서 혐오발언 여부를 파악할 수 있을 것으로 기대했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지속적인 R&D(연구·개발)로 혐오 표현을 정확하게 찾아낼 수 있는 기술을 고도화한다는 방침이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한우진 스마일게이트AI 센터장은 \\\"이번에 공개된 데이터가 인공지능을 안전하게 활용하는 밑거름이 되기를 바란다\\\"며 \\\"그동안 진행해온 연구 결과와 노력들이 기술적인 관점뿐만 아니라 사회에 긍정적인 기여를 할 수 있도록 다양한 노력을 시도할 것\\\"이라고 말했다.",
+				"sentenceSize": 146
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"악플·혐오표현 막는다\\\"…스마일게이트AI센터 데이터셋 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

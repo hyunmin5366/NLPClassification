@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350457",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "합선 5배 빨리 감지…ETRI, 新과전류 차단기 개발",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 전기 합선을 5배 빨리 감지하는 새로운 과전류 차단기를 개발했다.\n스마트공장 같이 대용량 전기를 사용하는 곳에서 과전류로 인한 사고를 예방하는 데 도움이 될 전망이다.\n한국전자통신연구원(ETRI)은 23일 세계 최초로 전자파를 측정하는 비코일방식의 전류 센서 모듈(완전 전자식 차단기)을 개발했다고 밝혔다.\n전류 센서 모듈은 전자식 과전류 차단기에서 전력도선에 흐르는 전류를 측정하는 장치로 합선 발생 여부를 감지한다.\n주로 열이나 자기장을 이용해 전류를 측정하는데, 특정 범위에 있는 전류를 측정하지 못하거나, 측정 속도가 느리다는 단점이 있다.\n연구진은 기존 방식과 달리 회로에 전선과 센서선을 나란히 배치하고 이로부터 유도되는 전력 주위의 전자파를 측정하는 방식을 개발했다.\n개발된 센서 모듈은 크고 작은 범위의 전류 측정이 가능했으며, 최대 800암페어까지 높은 전류를 흘렸을 때도 유도 전력을 측정할 수 있었다.\n측정 속도는 기존 열 측정 방식에 비해 5배 빨랐다.\n특히 전자파로 측정하는 비접촉 방식이라 전력 손실이 적고, 센서 크기도 수 밀리미터(mm) 수준으로 매우 작게 만들 수 있어 제작비용이 크게 절감될 것으로 기대된다.\n연구진은 개발한 전류 센서를 토대로 △센서 주위 잡음제거 △전류값 전송 사물인터넷(IoT) 통신 △전력 차단 등을 프로그램으로 처리하도록 지능화한 모듈 △모터 제어용 과전류 차단 릴레이(Overload Relay)도 만들었다.\n높은 전류가 필요한 공장이나 기지국, 전기차 등에서 전류 모니터링 시스템으로 쓰거나, 전력 차단기와 전력 변환기의 과전류를 보호하는 용도로 다양하게 활용가능하다는 설명이다.\n김현탁 ETRI 연구전문위원은 \\\"이번에 개발한 기술은 제4차 산업혁명 스마트 공장 핵심 기반 기술을 만드는 모범 사례가 될 것으로 기대한다\\\"고 말했다.\nETRI는 이번에 개발한 기술을 민간기업에 이전했으며, 현재 상용화를 위한 기술개발을 진행중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 전기 합선을 5배 빨리 감지하는 새로운 과전류 차단기를 개발했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스마트공장 같이 대용량 전기를 사용하는 곳에서 과전류로 인한 사고를 예방하는 데 도움이 될 전망이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 23일 세계 최초로 전자파를 측정하는 비코일방식의 전류 센서 모듈(완전 전자식 차단기)을 개발했다고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전류 센서 모듈은 전자식 과전류 차단기에서 전력도선에 흐르는 전류를 측정하는 장치로 합선 발생 여부를 감지한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주로 열이나 자기장을 이용해 전류를 측정하는데, 특정 범위에 있는 전류를 측정하지 못하거나, 측정 속도가 느리다는 단점이 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구진은 기존 방식과 달리 회로에 전선과 센서선을 나란히 배치하고 이로부터 유도되는 전력 주위의 전자파를 측정하는 방식을 개발했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "개발된 센서 모듈은 크고 작은 범위의 전류 측정이 가능했으며, 최대 800암페어까지 높은 전류를 흘렸을 때도 유도 전력을 측정할 수 있었다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "측정 속도는 기존 열 측정 방식에 비해 5배 빨랐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "특히 전자파로 측정하는 비접촉 방식이라 전력 손실이 적고, 센서 크기도 수 밀리미터(mm) 수준으로 매우 작게 만들 수 있어 제작비용이 크게 절감될 것으로 기대된다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "연구진은 개발한 전류 센서를 토대로 △센서 주위 잡음제거 △전류값 전송 사물인터넷(IoT) 통신 △전력 차단 등을 프로그램으로 처리하도록 지능화한 모듈 △모터 제어용 과전류 차단 릴레이(Overload Relay)도 만들었다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "높은 전류가 필요한 공장이나 기지국, 전기차 등에서 전류 모니터링 시스템으로 쓰거나, 전력 차단기와 전력 변환기의 과전류를 보호하는 용도로 다양하게 활용가능하다는 설명이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "김현탁 ETRI 연구전문위원은 \\\"이번에 개발한 기술은 제4차 산업혁명 스마트 공장 핵심 기반 기술을 만드는 모범 사례가 될 것으로 기대한다\\\"고 말했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "ETRI는 이번에 개발한 기술을 민간기업에 이전했으며, 현재 상용화를 위한 기술개발을 진행중이다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "합선 5배 빨리 감지…ETRI, 新과전류 차단기 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

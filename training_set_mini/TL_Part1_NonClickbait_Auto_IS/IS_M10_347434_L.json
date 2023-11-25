@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347434",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT \\\"신한銀 고객계좌서 이중 출금…오늘 중 정상처리\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "KT 가입자들의 5월 통신 요금이 이중 출금되는 해프닝이 벌어졌다.\nKT는 해당 은행 측에 이를 통보했고 이 날 중 정상처리 될 것이라고 밝혔다.\nKT는 21일 신한은행을 통해 요금을 납부하는 고객들의 계좌에서 요금이 이중출금되는 현상이 있었다며 고객들에게 불편을 드려 죄송하다고 밝혔다.\n21일 요금 납부를 신청한 고객 가운데 신한은행 계좌로 납부하는 약 60만명이 요금이 두 번 출금되는 불편을 겪었다.\n이에 인터넷과 SNS(소셜네트워크서비스) 상 KT 요금 이중출금이 이슈가 되면서 포털사이트 검색어 상위에 KT, KT고객센터가 오르기도 했다.\nKT는 신한은행 측에 이같은 현상에 대해 즉시 통보했으며 이날 내 정상처리 될 것으로 보인다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT 가입자들의 5월 통신 요금이 이중 출금되는 해프닝이 벌어졌다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT는 해당 은행 측에 이를 통보했고 이 날 중 정상처리 될 것이라고 밝혔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KT는 21일 신한은행을 통해 요금을 납부하는 고객들의 계좌에서 요금이 이중출금되는 현상이 있었다며 고객들에게 불편을 드려 죄송하다고 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "21일 요금 납부를 신청한 고객 가운데 신한은행 계좌로 납부하는 약 60만명이 요금이 두 번 출금되는 불편을 겪었다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 인터넷과 SNS(소셜네트워크서비스) 상 KT 요금 이중출금이 이슈가 되면서 포털사이트 검색어 상위에 KT, KT고객센터가 오르기도 했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT는 신한은행 측에 이같은 현상에 대해 즉시 통보했으며 이날 내 정상처리 될 것으로 보인다고 밝혔다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT \\\"신한銀 고객계좌서 이중 출금…오늘 중 정상처리\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

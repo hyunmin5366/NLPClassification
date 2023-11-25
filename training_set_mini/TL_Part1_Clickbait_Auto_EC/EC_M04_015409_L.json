@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015409",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "맥도날드 모닝커피가 1000원! 맥카페 2주간 할인",
+		"newsSubTitle": "",
+		"newsContent": "맥도날드의 커피브랜드 맥카페가 2주간 할인 행사를 실시한다.\n프리미엄 로스트 원두커피와 아메리카노 라지사이즈를 기존 가격에서 1000원 할인해준다.\n행사는 아침 7시부터 10시30분까지 3시간30분까지만 모닝 할인을 실시한다.\n기존 2000원이었던 프리미엄 로스트 원두 라지는 1000원, 아메리카노 라지는 2500원에서 1500원으로 마실 수 있다.\n맥카페는 맛과 가격 등에서 가성비 좋은 커피로 커피마니아들에게 인기가 높다.\n단, 일부매장과 맥딜리버리 서비스로는 할인 받을 수 없다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "맥도날드의 커피브랜드 맥카페가 2주간 할인 행사를 실시한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프리미엄 로스트 원두커피와 아메리카노 라지사이즈를 기존 가격에서 1000원 할인해준다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "행사는 아침 7시부터 10시30분까지 3시간30분까지만 모닝 할인을 실시한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 2000원이었던 프리미엄 로스트 원두 라지는 1000원, 아메리카노 라지는 2500원에서 1500원으로 마실 수 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "맥카페는 맛과 가격 등에서 가성비 좋은 커피로 커피마니아들에게 인기가 높다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "단, 일부매장과 맥딜리버리 서비스로는 할인 받을 수 없다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국내증시, 지진 영향 적어",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

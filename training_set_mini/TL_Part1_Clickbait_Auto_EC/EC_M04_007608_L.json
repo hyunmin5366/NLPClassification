@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007608",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "불붙은 기름값 '고공행진'",
+		"newsSubTitle": "휘발유 28개월·경유 26개월만에 최고치",
+		"newsContent": "주유소의 휘발유와 경유 판매가격이 연일 고공행진을 하고 있다.\n12일 한국석유공사에 따르면 지난주 보통휘발유의 주유소 평균 판매가격은 전주보다 ℓ당 11.5원이 오른 1740.58원을 기록했다.\n이는 지난 2008년 8월 3주(1756.32원) 이후 최고치다.\n또 지난해 같은 기간(12월 2주) 평균 가격인 1651.68원과 비교하면 ℓ당 무려 88.9원이 상승한 것이다.\n자동차용 경유가격 역시 오름세를 이어가며, 2008년 10월 4주(1593.93원) 이후 최고가를 기록했다.\n지난주 경유 판매가격은 ℓ당 1541.54원으로 전주보다 9.84원이 올랐고, 1달 전과 비교하면 32.46원이 증가했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "주유소의 휘발유와 경유 판매가격이 연일 고공행진을 하고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 한국석유공사에 따르면 지난주 보통휘발유의 주유소 평균 판매가격은 전주보다 ℓ당 11.5원이 오른 1740.58원을 기록했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난 2008년 8월 3주(1756.32원) 이후 최고치다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 지난해 같은 기간(12월 2주) 평균 가격인 1651.68원과 비교하면 ℓ당 무려 88.9원이 상승한 것이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "자동차용 경유가격 역시 오름세를 이어가며, 2008년 10월 4주(1593.93원) 이후 최고가를 기록했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난주 경유 판매가격은 ℓ당 1541.54원으로 전주보다 9.84원이 올랐고, 1달 전과 비교하면 32.46원이 증가했다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK텔레콤, 신임 사장에 유영상 대표 선임",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

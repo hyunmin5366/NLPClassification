@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323223",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "라온넷, 랜섬웨어 공격으로 홈페이지 마비...\\\"KISA, 연락 닿지 않아\\\"",
+		"newsSubTitle": "",
+		"newsContent": "웹호스팅 서비스 전문기업 라온넷닷컴이 랜섬웨어로 추정되는 사이버 공격으로 홈페이지가 마비됐다.\n현재 라온넷닷컴 뿐 아니라 서비스 이용 고객 홈페이지까지 모두 마비상태다.\n아직까지 한국인터넷진흥원(KISA)에 사이버 공격 피해를 신고하지 않았으며 관계자 등과 연락이 닿지 않고 있다.\n라온넷닷컴이 고객에 보낸 공지문자에 따르면 “10월 30일 밤 22시경 서버 랜섬웨어 공격을 받아 데이터 변조 사건이 발생했다”면서 “공격자 해커그룹과 대화중이지만 과도한 금액을 요구해 일이 쉽게 풀리지 않는다”고 설명했다.\n이어 “이번 사태가 해결되는 기간을 말하기 어려우며 아울러 보안 이슈로 서비스도 중단된 상태”라고 전했다.\n이번 공격은 2년전 '나야나', 지난해 '아이웹' 등과 마찬가지로 웹호스팅 전문기업을 노린 타깃 공격으로 추정된다.\n웹호스팅기업 공격은 자체 홈페이지 마비뿐 아니라 이를 이용하는 고객 홈페이지 까지 먹통 된다.\n데이터베이스(DB)백업 등이 되지 않을 경우 기업, 개인사용자 등 상당한 피해가 예상된다.\n라온넷닷컴은 사고 발생 5일이 지난 현재까지 KISA에 피해신고를 하지 않았다.\n사이버 공격 원인, 피해상황 등 집계가 되지 않고 있다.\nKISA 관계자는 “사고를 인지하고 있으나 아직까지 해당 기업과 연락이 되지 않고 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "웹호스팅 서비스 전문기업 라온넷닷컴이 랜섬웨어로 추정되는 사이버 공격으로 홈페이지가 마비됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현재 라온넷닷컴 뿐 아니라 서비스 이용 고객 홈페이지까지 모두 마비상태다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아직까지 한국인터넷진흥원(KISA)에 사이버 공격 피해를 신고하지 않았으며 관계자 등과 연락이 닿지 않고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "라온넷닷컴이 고객에 보낸 공지문자에 따르면 “10월 30일 밤 22시경 서버 랜섬웨어 공격을 받아 데이터 변조 사건이 발생했다”면서 “공격자 해커그룹과 대화중이지만 과도한 금액을 요구해 일이 쉽게 풀리지 않는다”고 설명했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 “이번 사태가 해결되는 기간을 말하기 어려우며 아울러 보안 이슈로 서비스도 중단된 상태”라고 전했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 공격은 2년전 '나야나', 지난해 '아이웹' 등과 마찬가지로 웹호스팅 전문기업을 노린 타깃 공격으로 추정된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "웹호스팅기업 공격은 자체 홈페이지 마비뿐 아니라 이를 이용하는 고객 홈페이지 까지 먹통 된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "데이터베이스(DB)백업 등이 되지 않을 경우 기업, 개인사용자 등 상당한 피해가 예상된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "라온넷닷컴은 사고 발생 5일이 지난 현재까지 KISA에 피해신고를 하지 않았다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "사이버 공격 원인, 피해상황 등 집계가 되지 않고 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "KISA 관계자는 “사고를 인지하고 있으나 아직까지 해당 기업과 연락이 되지 않고 있다”고 말했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "라온넷, 랜섬웨어 공격으로 홈페이지 마비...\\\"KISA, 연락 닿지 않아\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

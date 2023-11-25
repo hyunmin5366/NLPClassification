@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322478",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "넷코아테크·너울리, 딥러닝 기반 사이버 위협 판별 시스템 개발",
+		"newsSubTitle": "",
+		"newsContent": "중소기업이 인공지능(AI) 기술을 활용, 사이버 위협을 스스로 판별하는 기술을 개발했다.\n넷코아테크와 너울리는 딥러닝 기반 '사이버 위협 자동판별 시스템'을 개발, 본격적으로 시장을 공략한다.\nAI 사이버위협 자동판별 기술은 '설명 가능한 인공지능 기술'(eXplainable AI, XAI)을 활용해 네트워크에서 포착된 적은 양의 데이터에서 보안 위협을 유발하는 부분을 세밀하게 특정할 수 있다.\n상관도가 높은 다른 보안 경보 정보를 판별해 보고 자료에 생성함으로써, 특정 위협 전후 관계와 원인을 규명할 수 있는 정보를 제공한다.\n사람이 관제할 때보다 빠르고 다양한 보안 위협에 대응해 해킹·랜섬웨어 등 사이버 보안 위협을 99% 정확도로 판별, 차단한다.\nAI는 약 15만건의 위협을 단 1분 안에 실시간으로 판별하며 매일 쌓이는 신규 데이터를 바탕으로 새로운 정보를 생성, 갱신한다.\n이를 통해 최신 위협에 대응할 수 있는 상태를 상시 유지할 수 있다.\n관제 인력은 매일 쏟아져나오는 대량의 위협 경보를 수동 판별해야 하는 부담을 덜게 돼 고급 보안 분석에 집중할 수 있게 된다.\n양 사가 개발한 사이버 위협 자동판별 시스템은 한국교육학술정보원이 운영하는 교육부 사이버안전센터(ECSC) '보안관제 종합시스템'에 우선 적용됐다.\n특허 출원도 완료됐다.\n양 사는 고도화도 추진한다.\n설명 가능한 인공지능이 제시하는 개선된 보안 위협 탐지 규칙을 스노트 (Snort) 등 현장 관제 요원이 이해하기 쉬운 표준 형태로 자동 가공해 추천할 수 있도록 할 예정이다.\n넷코아테크와 너울리는 사이버보안 위협 판별 시스템 보급을 확대할 방침이다.\n교육부를 레퍼런스로 전국 시·도 교육청과 대학 등 교육 관련 기관은 물론 중앙부처 등 공공부문을 집중 공략할 계획이다.\n윤영 너울리 대표는 “AI 활용 사이버 위협 판별 기술은 올초 교육부 종합사이버보안센터와 해외에서 축적된 CIC-IDS 등 공개 네트워크 보안 데이터를 통해서도 높은 수준의 성능을 발휘하는 것을 확인했다”며 “다양한 분야에서 광범위하게 보안 시스템이 작동하고 데이터를 확보할 수 있다”고 설명했다.\n넷코아테크는 네트워크 트래픽 관리, 상황인지 및 보안 전문 기업이다.\n너울리는 인공지능 기반 대규모 분산 시스템의 관리 및 제어 시스템을 개발하는 스타트업이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중소기업이 인공지능(AI) 기술을 활용, 사이버 위협을 스스로 판별하는 기술을 개발했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "넷코아테크와 너울리는 딥러닝 기반 '사이버 위협 자동판별 시스템'을 개발, 본격적으로 시장을 공략한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AI 사이버위협 자동판별 기술은 '설명 가능한 인공지능 기술'(eXplainable AI, XAI)을 활용해 네트워크에서 포착된 적은 양의 데이터에서 보안 위협을 유발하는 부분을 세밀하게 특정할 수 있다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "상관도가 높은 다른 보안 경보 정보를 판별해 보고 자료에 생성함으로써, 특정 위협 전후 관계와 원인을 규명할 수 있는 정보를 제공한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사람이 관제할 때보다 빠르고 다양한 보안 위협에 대응해 해킹·랜섬웨어 등 사이버 보안 위협을 99% 정확도로 판별, 차단한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "AI는 약 15만건의 위협을 단 1분 안에 실시간으로 판별하며 매일 쌓이는 신규 데이터를 바탕으로 새로운 정보를 생성, 갱신한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 통해 최신 위협에 대응할 수 있는 상태를 상시 유지할 수 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "관제 인력은 매일 쏟아져나오는 대량의 위협 경보를 수동 판별해야 하는 부담을 덜게 돼 고급 보안 분석에 집중할 수 있게 된다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "양 사가 개발한 사이버 위협 자동판별 시스템은 한국교육학술정보원이 운영하는 교육부 사이버안전센터(ECSC) '보안관제 종합시스템'에 우선 적용됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특허 출원도 완료됐다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "양 사는 고도화도 추진한다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "설명 가능한 인공지능이 제시하는 개선된 보안 위협 탐지 규칙을 스노트 (Snort) 등 현장 관제 요원이 이해하기 쉬운 표준 형태로 자동 가공해 추천할 수 있도록 할 예정이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "넷코아테크와 너울리는 사이버보안 위협 판별 시스템 보급을 확대할 방침이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "교육부를 레퍼런스로 전국 시·도 교육청과 대학 등 교육 관련 기관은 물론 중앙부처 등 공공부문을 집중 공략할 계획이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "윤영 너울리 대표는 “AI 활용 사이버 위협 판별 기술은 올초 교육부 종합사이버보안센터와 해외에서 축적된 CIC-IDS 등 공개 네트워크 보안 데이터를 통해서도 높은 수준의 성능을 발휘하는 것을 확인했다”며 “다양한 분야에서 광범위하게 보안 시스템이 작동하고 데이터를 확보할 수 있다”고 설명했다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "넷코아테크는 네트워크 트래픽 관리, 상황인지 및 보안 전문 기업이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "너울리는 인공지능 기반 대규모 분산 시스템의 관리 및 제어 시스템을 개발하는 스타트업이다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "넷코아테크·너울리, 딥러닝 기반 사이버 위협 판별 시스템 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

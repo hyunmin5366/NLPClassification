@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348102",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "LGU+ 임직원 2400명, 걸어서 모은 1800만원 기부",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 연말연시를 맞아 서울 강동구 ‘강동꿈마을보육원’에 1800만원의 기부금을 전달했다고 20일 밝혔다.\nLG유플러스 임직원들은 지난 10월21일부터 11월11일까지 22일간 걸음 수를 기준으로 기부금을 책정하는 언택트 걷기행사를 열었다.\n컨슈머사업총괄 임직원 240여명이 자발적으로 참여해 전체 누적 걸음 수가 7391만 6250보에 달했다.\n거리로 환산하면 1만1046km로 서울과 뉴욕을 2.3회 왕복할 수 있는 거리다.\n참여자 1인당 하루 평균 걸음수는 1만 4058보로 9.84km를 매일 걸었다.\n참여 임직원이 하루 1만1000보를 초과할 때마다 1원이 적립돼 3주 동안 1800여 만원이 넘는 기부금이 모였다.\n기부금은 보육원의 생활시설 개선과 아동 복지 지원에 쓰인다.\n황현식 LG유플러스 사장과 기부금 전달식에 참석한 최은미 강동꿈마을보육원장은 \\\"해마다 사회 소외계층에 따뜻한 관심을 기울여준 LG유플러스 임직원들의 따뜻한 마음에 고마움을 전한다\\\"며 \\\"원아들이 보다 나은 환경에서 생활할 수 있도록 의미있게 사용하겠다\\\"고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 연말연시를 맞아 서울 강동구 ‘강동꿈마을보육원’에 1800만원의 기부금을 전달했다고 20일 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG유플러스 임직원들은 지난 10월21일부터 11월11일까지 22일간 걸음 수를 기준으로 기부금을 책정하는 언택트 걷기행사를 열었다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "컨슈머사업총괄 임직원 240여명이 자발적으로 참여해 전체 누적 걸음 수가 7391만 6250보에 달했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "거리로 환산하면 1만1046km로 서울과 뉴욕을 2.3회 왕복할 수 있는 거리다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "참여자 1인당 하루 평균 걸음수는 1만 4058보로 9.84km를 매일 걸었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "참여 임직원이 하루 1만1000보를 초과할 때마다 1원이 적립돼 3주 동안 1800여 만원이 넘는 기부금이 모였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기부금은 보육원의 생활시설 개선과 아동 복지 지원에 쓰인다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "황현식 LG유플러스 사장과 기부금 전달식에 참석한 최은미 강동꿈마을보육원장은 \\\"해마다 사회 소외계층에 따뜻한 관심을 기울여준 LG유플러스 임직원들의 따뜻한 마음에 고마움을 전한다\\\"며 \\\"원아들이 보다 나은 환경에서 생활할 수 있도록 의미있게 사용하겠다\\\"고 했다.",
+				"sentenceSize": 149
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LGU+ 임직원 2400명, 걸어서 모은 1800만원 기부",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329996",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[출연연 유망기술]KIST 'VR 인터렉션' 기술",
+		"newsSubTitle": "",
+		"newsContent": "한국과학기술연구원(KIST)이 개발한 '가상현실(VR) 인터렉션' 기술은 이용자가 VR 이용시 느끼는 괴리감을 최소화한다.\n사용자 제자리 걸음이나 점프 행동을 VR 내 객체에 반영할 수 있도록 한 것이 특징이다.\n헤드마운티드디스플레이(HMD)에 장착된 관성측정장치(IMU)로 걸을 때마다 가해지는 상하 가속도를 해석한다.\n사용자 머리 방향을 기초로 방향정보를 생성하고, 이 정보로 VR 내 이동을 제어한다.\n점프 인식 역시 가속도를 이용한다.\n연구팀은 이 방법으로 이용자의 다양한 움직임을 이전보다 정확하게 감지하고 VR 객체에 반영할 수 있다고 설명했다.\n왼발과 오른발 움직임 구분이 가능하고 게걸음 좌우이동, 뒷걸음질 등도 감지할 수 있다.\n괴리감을 줄여 기존 VR 기술의 문제점이던 멀미 발생도 크게 줄이는 것에도 큰 역할을 한다.\n관련 기술 특허 출원 상태로, 기술 자체도 상용화 직전단계다.\n황재인 박사는 “이 기술을 활용하면 VR 이용자의 복잡한 동작과 움직임을 파악할 수 있고, 멀미 발생도 줄일 수 있다”며 “이를 복잡한 부착 요소 없이 HMD로만 가능하게 한 것이 큰 특징”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국과학기술연구원(KIST)이 개발한 '가상현실(VR) 인터렉션' 기술은 이용자가 VR 이용시 느끼는 괴리감을 최소화한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사용자 제자리 걸음이나 점프 행동을 VR 내 객체에 반영할 수 있도록 한 것이 특징이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "헤드마운티드디스플레이(HMD)에 장착된 관성측정장치(IMU)로 걸을 때마다 가해지는 상하 가속도를 해석한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사용자 머리 방향을 기초로 방향정보를 생성하고, 이 정보로 VR 내 이동을 제어한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "점프 인식 역시 가속도를 이용한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구팀은 이 방법으로 이용자의 다양한 움직임을 이전보다 정확하게 감지하고 VR 객체에 반영할 수 있다고 설명했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "왼발과 오른발 움직임 구분이 가능하고 게걸음 좌우이동, 뒷걸음질 등도 감지할 수 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "괴리감을 줄여 기존 VR 기술의 문제점이던 멀미 발생도 크게 줄이는 것에도 큰 역할을 한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "관련 기술 특허 출원 상태로, 기술 자체도 상용화 직전단계다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "황재인 박사는 “이 기술을 활용하면 VR 이용자의 복잡한 동작과 움직임을 파악할 수 있고, 멀미 발생도 줄일 수 있다”며 “이를 복잡한 부착 요소 없이 HMD로만 가능하게 한 것이 큰 특징”이라고 말했다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[출연연 유망기술]KIST 'VR 인터렉션' 기술",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009150",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "실거래가 허위신고 과태료 부과 '철퇴'",
+		"newsSubTitle": "국토부 706명에 16억9천만원",
+		"newsContent": "국토해양부가 올 1분기 부동산 실거래 신고내역을 허위로 신고한 706명(376건)에게 총 16억 9547만원의 과태료를 부과하는 철퇴를 내렸다.\n이번 과태료 부과에는 실거래 허위신고에 대한 경각심을 높이기 위해 그동안 발표해오던 국토부의 정밀조사 결과 외에 지자체의 자체조사 결과를 포함했다.\n지자체 조사결과 허위신고 660명(352건)을 적발해 과태료 15억9000만원을 부과하고 증여혐의 49건을 추가 적발했다.\n또 국토해양부는 정밀조사를 통해 지자체 조사에서 적발되지 않은 허위신고자 46명(24건)을 추가 적발해 1억400만원의 과태료를 부과했다.\n증여혐의 28건도 적발했다.\n허위신고를 유형별로 보면 신고를 지연하거나 중개거래를 당사자간의 거래로 신고한 건이 292건(534명)으로 가장 많았으며, 실거래가격 보다 낮게 신고한 사례가 45건(91명)으로 다음을 차지했다.\n실제 거래가력 보다 높게 신고한 내용 28건(61명), 가격외 계약일 등 허위신고 7건(13명), 거래대금 증명자료 미제출 4건(7명) 순으로 나타났다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국토해양부가 올 1분기 부동산 실거래 신고내역을 허위로 신고한 706명(376건)에게 총 16억 9547만원의 과태료를 부과하는 철퇴를 내렸다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 과태료 부과에는 실거래 허위신고에 대한 경각심을 높이기 위해 그동안 발표해오던 국토부의 정밀조사 결과 외에 지자체의 자체조사 결과를 포함했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지자체 조사결과 허위신고 660명(352건)을 적발해 과태료 15억9000만원을 부과하고 증여혐의 49건을 추가 적발했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 국토해양부는 정밀조사를 통해 지자체 조사에서 적발되지 않은 허위신고자 46명(24건)을 추가 적발해 1억400만원의 과태료를 부과했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "증여혐의 28건도 적발했다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "허위신고를 유형별로 보면 신고를 지연하거나 중개거래를 당사자간의 거래로 신고한 건이 292건(534명)으로 가장 많았으며, 실거래가격 보다 낮게 신고한 사례가 45건(91명)으로 다음을 차지했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실제 거래가력 보다 높게 신고한 내용 28건(61명), 가격외 계약일 등 허위신고 7건(13명), 거래대금 증명자료 미제출 4건(7명) 순으로 나타났다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정부출연 연구기관들 기관장 공모 '술렁'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

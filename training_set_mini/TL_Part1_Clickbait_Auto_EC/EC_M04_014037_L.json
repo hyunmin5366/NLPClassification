@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014037",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피 날았다…2029.91로 마감, 하루만에 42p↑",
+		"newsSubTitle": "",
+		"newsContent": "▲ 코스피는 17일 대형주의 강세로 42.58포인트(2.14%) 올라 22.91로 장을 마쳤다.\n사진은 이날 오후 서울 중구 을지로 외환은행 본점 딜링룸의 모습. /연합뉴스코스피가 하루 만에 40포인트 이상 급등하며 2030선에 근접했다.\n17일 코스피는 전날보다 42.58포인트 오른 2029.91로 장을 마쳤다.\n이는 종가 기준으로 지난해 9월 26일 2031.91을 기록한 이후 최고치로 올해 가장 높은 수치다.\n이날 시가총액도 1264조원으로 집계돼 사상 최대치를 기록했다.\n코스피가 하루사이 40포인트 이상 급등한 이유는 지난주 한국은행 기준금리 인하와 지난밤 유럽·뉴욕 주식시장 급등에 따른 영향으로 풀이된다.\n한편 코스닥 지수도 전날보다 0.65포인트(0.10%) 오른 636.05로 4거래일째 상승세를 이어갔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 코스피는 17일 대형주의 강세로 42.58포인트(2.14%) 올라 22.91로 장을 마쳤다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사진은 이날 오후 서울 중구 을지로 외환은행 본점 딜링룸의 모습. /연합뉴스코스피가 하루 만에 40포인트 이상 급등하며 2030선에 근접했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "17일 코스피는 전날보다 42.58포인트 오른 2029.91로 장을 마쳤다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 종가 기준으로 지난해 9월 26일 2031.91을 기록한 이후 최고치로 올해 가장 높은 수치다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 시가총액도 1264조원으로 집계돼 사상 최대치를 기록했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코스피가 하루사이 40포인트 이상 급등한 이유는 지난주 한국은행 기준금리 인하와 지난밤 유럽·뉴욕 주식시장 급등에 따른 영향으로 풀이된다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 코스닥 지수도 전날보다 0.65포인트(0.10%) 오른 636.05로 4거래일째 상승세를 이어갔다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"일하는 시간·장소 모두 마음대로\\\" 우아한형제들, 근무제도 바꾼다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

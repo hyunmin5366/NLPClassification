@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008273",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "대전, 방사성 요오드 불검출",
+		"newsSubTitle": "30일 전국 12곳중 서울 춘천 강릉 3곳만 극미량 검출",
+		"newsContent": "29일 발견됐던 대전지역 방사성 요오드가 30일에는 불검출됐다.\n한국원자력안전기술원(KINS)은 30일 전국 12개 지방측정소에서 대기부유진 방사능을 측정한 결과, 서울·춘천·강릉 등 세 곳에서만 극미량의 방사성 요오드가 검출됐다고 밝혔다.\n전날 춘천 측정소에서 발견된 세슘은 전국 어느 곳에서도 나오지 않았다.\n이날 발표된 측정값은 지난 28일 오전 10시부터 29일 오전 10시까지 채집된 대기에 대한 분석 결과다.\nKINS는 지난 28일 서울과 춘천 지역에 내린 빗물 시료도 분석한 결과, 극미량의 요오드가 모두 확인됐다고 밝혔다.\n그러나 방사성 세슘은 역시 검출되지 않았다.\n지난 23일 강원도 지역에서 나온 방사성 제논의 농도는 다소 감소한 것으로 나타났다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "29일 발견됐던 대전지역 방사성 요오드가 30일에는 불검출됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국원자력안전기술원(KINS)은 30일 전국 12개 지방측정소에서 대기부유진 방사능을 측정한 결과, 서울·춘천·강릉 등 세 곳에서만 극미량의 방사성 요오드가 검출됐다고 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전날 춘천 측정소에서 발견된 세슘은 전국 어느 곳에서도 나오지 않았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 발표된 측정값은 지난 28일 오전 10시부터 29일 오전 10시까지 채집된 대기에 대한 분석 결과다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KINS는 지난 28일 서울과 춘천 지역에 내린 빗물 시료도 분석한 결과, 극미량의 요오드가 모두 확인됐다고 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 방사성 세슘은 역시 검출되지 않았다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 23일 강원도 지역에서 나온 방사성 제논의 농도는 다소 감소한 것으로 나타났다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'13兆 슈퍼 감세'라는데…연소득 7800만원 외벌이 가구 月4만5천원 감세",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

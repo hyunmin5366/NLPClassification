@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328300",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "HPE, 보안 강화한 Gen10 제품군 출시...향후 고성능 컴퓨팅 분야도 강화",
+		"newsSubTitle": "",
+		"newsContent": "한국휴렛팩커드(대표 함기호·HPE)가 보안을 강화한 차세대 프로라이언트 젠(Gen)10 제품군을 발표했다.\nHPE는 젠10 제품군은 하드웨어(HW) 내부에 고유 디지털 지문을 만들어 보안수준을 높였다.\nHPE는 고성능 컴퓨팅 솔루션도 내놓았다.\n향후 빅데이터·인공지능(AI)으로 생길 확장형 프로세싱 성능 수요를 잡겠다는 구상이다.\nHPE는 18일 서울 강남구 인터콘티넨탈 서울 코엑스에서 젠10 제품군을 공개했다.\n젠10 제품군은 최근 늘어나는 사이버 위협에 대비해 보안을 강화했다.\n서버 데이터 보호와 보안 인증 가속화, 데이터·인프라 안전한 처분에 이르기까지 보안 기능을 제공한다.\n핵심 기술은 '실리콘 루트 오브 트러스트(silicon root of trust)'다.\n기술은 고유 링크로 서버가 멀웨어(malware)에 감염된 펌웨어 코드를 실행하지 않도록 막는다.\niLO HW 보안 기능을 통합해 내부 디지털 지문을 만들었다.\n펌웨어 지문이 일치하지 않으면 서버 부팅이 불가능하다.\n서유덕 HP DCHC 사업부 차장은 “복제 불가능한 키값을 HW 내부에 넣어 보안을 강화했다”며 “HPE 젠10은 서버 생산에서 폐기까지 보안을 제공한다”고 말했다.\n젠10은 데이터센터 사용량에 따른 요금 납부방식으로 경제성을 강화했다.\n중견기업은 '커패시티 케어 서비스(Capacity Care Service)'를 이용하면 젠10 구매시 실시간 사용 모니터링 등 부가서비스를 제공받는다. 'HPE프로라이언트 젠9 투 젠10 업그레이드 프로그램(HPE ProLiant Gen9 to Gen10 Upgrade Program)'을 활용하면 젠9을 구매한 후 1~3년 안에 젠10으로 업그레이드가 가능하다.\nHPE는 수냉식 페타스케일(petascale) 시스템 SGI 8600도 공개했다.\nSGI 8600은 기존 SGI ICE XA 아키텍처에 기반해 과학, 엔지니어링, 국가 안보 과제를 해결하기 위해 개발됐다.\n지난해 8월 컴퓨터 기술을 가진 SGI를 인수한 이래 공동 개발한 첫 제품이다.\nHPE는 향후 SGI 인수를 기반으로 고성능 컴퓨팅 분야를 확대한다.\n정석원 HP DCHC 사업부장은 “HP는 장기간 슈퍼컴퓨터 분야에서 1위를 달려왔지만 기상과학 분야에 약점이 있다”면서 “SGI를 인수하며 역량 향상 효과 있었고 향후 의료·바이오, 기계학습(딥러닝)에 초점을 맞춰 기술을 강화할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국휴렛팩커드(대표 함기호·HPE)가 보안을 강화한 차세대 프로라이언트 젠(Gen)10 제품군을 발표했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "HPE는 젠10 제품군은 하드웨어(HW) 내부에 고유 디지털 지문을 만들어 보안수준을 높였다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "HPE는 고성능 컴퓨팅 솔루션도 내놓았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "향후 빅데이터·인공지능(AI)으로 생길 확장형 프로세싱 성능 수요를 잡겠다는 구상이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "HPE는 18일 서울 강남구 인터콘티넨탈 서울 코엑스에서 젠10 제품군을 공개했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "젠10 제품군은 최근 늘어나는 사이버 위협에 대비해 보안을 강화했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서버 데이터 보호와 보안 인증 가속화, 데이터·인프라 안전한 처분에 이르기까지 보안 기능을 제공한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "핵심 기술은 '실리콘 루트 오브 트러스트(silicon root of trust)'다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기술은 고유 링크로 서버가 멀웨어(malware)에 감염된 펌웨어 코드를 실행하지 않도록 막는다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "iLO HW 보안 기능을 통합해 내부 디지털 지문을 만들었다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "펌웨어 지문이 일치하지 않으면 서버 부팅이 불가능하다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "서유덕 HP DCHC 사업부 차장은 “복제 불가능한 키값을 HW 내부에 넣어 보안을 강화했다”며 “HPE 젠10은 서버 생산에서 폐기까지 보안을 제공한다”고 말했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "젠10은 데이터센터 사용량에 따른 요금 납부방식으로 경제성을 강화했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "중견기업은 '커패시티 케어 서비스(Capacity Care Service)'를 이용하면 젠10 구매시 실시간 사용 모니터링 등 부가서비스를 제공받는다. 'HPE프로라이언트 젠9 투 젠10 업그레이드 프로그램(HPE ProLiant Gen9 to Gen10 Upgrade Program)'을 활용하면 젠9을 구매한 후 1~3년 안에 젠10으로 업그레이드가 가능하다.",
+				"sentenceSize": 203
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "HPE는 수냉식 페타스케일(petascale) 시스템 SGI 8600도 공개했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "SGI 8600은 기존 SGI ICE XA 아키텍처에 기반해 과학, 엔지니어링, 국가 안보 과제를 해결하기 위해 개발됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "지난해 8월 컴퓨터 기술을 가진 SGI를 인수한 이래 공동 개발한 첫 제품이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "HPE는 향후 SGI 인수를 기반으로 고성능 컴퓨팅 분야를 확대한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "정석원 HP DCHC 사업부장은 “HP는 장기간 슈퍼컴퓨터 분야에서 1위를 달려왔지만 기상과학 분야에 약점이 있다”면서 “SGI를 인수하며 역량 향상 효과 있었고 향후 의료·바이오, 기계학습(딥러닝)에 초점을 맞춰 기술을 강화할 것”이라고 말했다.",
+				"sentenceSize": 138
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "HPE, 보안 강화한 Gen10 제품군 출시...향후 고성능 컴퓨팅 분야도 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

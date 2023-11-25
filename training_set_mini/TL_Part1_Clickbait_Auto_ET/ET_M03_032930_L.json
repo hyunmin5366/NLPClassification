@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_032930",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "TV조선 전원책 앵커가 첫 방송에서 文대통령에게 한 일침",
+		"newsSubTitle": "",
+		"newsContent": "전원책 변호사가 앵커로 데뷔식을 치렀다.\n3일 TV조선 ‘종합뉴스 9’메인 앵커로 첫 방송을 한 전원책 기자는 방송을 마치며 문재인 대통령에게 일침을 가했다.\n전 변호사는 클로징 멘트에서 “문재인 대통령이 방미 기간 중 CSIS 만찬 연설과 특파원간담회에서 ‘촛불혁명’이라는 표현을 썼다는 점에 놀랐다”며 “문 대통령이 한국 정부를 혁명으로 탄생한 정부라고 하는 건 개인적 시각에서 한 발 더 나간 것”이라고 말했다.\n그러면서 “문 대통령은 헌법적 계속성을 가진 대한민국의 대통령이다. 스스로 지지층만의 대통령으로 남고 싶지는 않을 것이라고 믿고 싶다”고 일침을 가했다.\n이날 전 앵커는 첫 뉴스 진행에 긴장한 듯 카메라에 초점을 맞추기 어려워 하는 듯한 긴장된 모습을 보이기도 했다.\n전 앵커는 오프닝 멘트에서 “살아있는 뉴스를 전달하겠다. 하루종일 반복된 뉴스를 다시 전달하는걸 넘어서 그 뉴스의 이면과 배경을 놓치지 않겠다. 뉴스 가치 판단부터 매너리즘에서 벗어나 고심하고 또 고심하겠다” 등의 말로 각오를 설명했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전원책 변호사가 앵커로 데뷔식을 치렀다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 TV조선 ‘종합뉴스 9’메인 앵커로 첫 방송을 한 전원책 기자는 방송을 마치며 문재인 대통령에게 일침을 가했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전 변호사는 클로징 멘트에서 “문재인 대통령이 방미 기간 중 CSIS 만찬 연설과 특파원간담회에서 ‘촛불혁명’이라는 표현을 썼다는 점에 놀랐다”며 “문 대통령이 한국 정부를 혁명으로 탄생한 정부라고 하는 건 개인적 시각에서 한 발 더 나간 것”이라고 말했다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러면서 “문 대통령은 헌법적 계속성을 가진 대한민국의 대통령이다. 스스로 지지층만의 대통령으로 남고 싶지는 않을 것이라고 믿고 싶다”고 일침을 가했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 전 앵커는 첫 뉴스 진행에 긴장한 듯 카메라에 초점을 맞추기 어려워 하는 듯한 긴장된 모습을 보이기도 했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전 앵커는 오프닝 멘트에서 “살아있는 뉴스를 전달하겠다. 하루종일 반복된 뉴스를 다시 전달하는걸 넘어서 그 뉴스의 이면과 배경을 놓치지 않겠다. 뉴스 가치 판단부터 매너리즘에서 벗어나 고심하고 또 고심하겠다” 등의 말로 각오를 설명했다.",
+				"sentenceSize": 132
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍윤화-김민기, 서로 다른 첫 만남 장소와 첫 키스의 기억",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

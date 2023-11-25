@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000952",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "카카오, 중소사업자 위한 AI 챗봇 내놓는다",
+		"newsSubTitle": "",
+		"newsContent": "카카오가 중소사업자도 쉽게 인공지능(AI) 기반 챗봇을 도입할 수 있는 서비스를 하반기 출시할 계획이다.\n카카오는 25일 서울 광화문 센터포인트에서 세미나를 열고 \\\"하반기부터 카페, 식당, 소호쇼핑몰 등 중소사업자가 별도로 챗봇을 개발하지 않아도 입점을 통해 비즈니스에 필요한 챗봇을 손쉽게 오픈할 수 있는 챗봇 입점 모델을 선보일 예정\\\"이라 밝혔다.\n챗봇 입점 모델은 사업자가 별도로 챗봇을 설계할 필요 없이 메뉴, 가격, 상품명 등 필수적인 정보만 입력하면 비즈니스 챗봇을 만들 수 있는 서비스 모델이다.\n김유미 카카오 봇기획팀장은 \\\"예약, 예매, 커머스, 병원, 주문 등 규칙적이고 반복적인 비즈니스를 위한 챗봇 플랫폼을 우선 공개할 것\\\"이라 말했다.\n카카오가 챗봇 플랫폼을 중앙집권적으로 관리해 업그레이드가 용이하다.\n김 팀장은 미디어SR에 \\\"카카오의 중앙 플랫폼을 기반으로 각 업자의 챗봇 서비스를 대행하는 시스템\\\"이라 설명했다.\n입점비는 별도로 없으며, 이용료는 정해지지 않았지만 월정액제로 운영될 것으로 보인다.\n챗봇 시나리오가 특정 분야에 특화돼 있어 개별 커스터마이징에는 용이하지 않아, 개발력을 보유한 기업에게는 메리트가 적다는 단점이 있다.\n카카오는 챗봇을 만들 수 있는 개발 플랫폼 '카카오 i 오픈빌더(이하 오픈빌더)'에 카카오의 핵심 AI 기술을 적용함으로써 챗봇을 고도화했다.\n김 팀장은 세 가지 엔진이 구동되는 것을 카카오 챗봇의 강점으로 들었다.\n오픈빌더에는 단순하고 반복적인 고빈도 질문(숏헤드)를 처리하는 데 유용한 언어처리 엔진 'AIU', 이용자의 문의 중 중요도가 높은 단어들을 정렬한 뒤 유사도가 높은 것을 추려 이용자에 제시하는 확률 기반 검색엔진 'Simpson', 이용자가 패턴에 등록되지 않은 질문을 하더라도 이용자의 의도를 찾아내는 의도분류모델 머신러닝 기술 'ML' 기술이 적용됐다.\n김 팀장은 \\\"여러 엔진을 적용해 (복잡해 보이지만) 이용자는 오픈빌더 시스템에 들어가면 편리하게 서비스를 이용할 수 있다\\\"고 말했다.\n한편, 카카오는 챗봇을 단체카톡방에 초대해 친구들과 함께 예약·예매할 수 있는 서비스를 하반기에 내놓을 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오가 중소사업자도 쉽게 인공지능(AI) 기반 챗봇을 도입할 수 있는 서비스를 하반기 출시할 계획이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오는 25일 서울 광화문 센터포인트에서 세미나를 열고 \\\"하반기부터 카페, 식당, 소호쇼핑몰 등 중소사업자가 별도로 챗봇을 개발하지 않아도 입점을 통해 비즈니스에 필요한 챗봇을 손쉽게 오픈할 수 있는 챗봇 입점 모델을 선보일 예정\\\"이라 밝혔다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "챗봇 입점 모델은 사업자가 별도로 챗봇을 설계할 필요 없이 메뉴, 가격, 상품명 등 필수적인 정보만 입력하면 비즈니스 챗봇을 만들 수 있는 서비스 모델이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김유미 카카오 봇기획팀장은 \\\"예약, 예매, 커머스, 병원, 주문 등 규칙적이고 반복적인 비즈니스를 위한 챗봇 플랫폼을 우선 공개할 것\\\"이라 말했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카카오가 챗봇 플랫폼을 중앙집권적으로 관리해 업그레이드가 용이하다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김 팀장은 미디어SR에 \\\"카카오의 중앙 플랫폼을 기반으로 각 업자의 챗봇 서비스를 대행하는 시스템\\\"이라 설명했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "입점비는 별도로 없으며, 이용료는 정해지지 않았지만 월정액제로 운영될 것으로 보인다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "챗봇 시나리오가 특정 분야에 특화돼 있어 개별 커스터마이징에는 용이하지 않아, 개발력을 보유한 기업에게는 메리트가 적다는 단점이 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "카카오는 챗봇을 만들 수 있는 개발 플랫폼 '카카오 i 오픈빌더(이하 오픈빌더)'에 카카오의 핵심 AI 기술을 적용함으로써 챗봇을 고도화했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "김 팀장은 세 가지 엔진이 구동되는 것을 카카오 챗봇의 강점으로 들었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "오픈빌더에는 단순하고 반복적인 고빈도 질문(숏헤드)를 처리하는 데 유용한 언어처리 엔진 'AIU', 이용자의 문의 중 중요도가 높은 단어들을 정렬한 뒤 유사도가 높은 것을 추려 이용자에 제시하는 확률 기반 검색엔진 'Simpson', 이용자가 패턴에 등록되지 않은 질문을 하더라도 이용자의 의도를 찾아내는 의도분류모델 머신러닝 기술 'ML' 기술이 적용됐다.",
+				"sentenceSize": 200
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "김 팀장은 \\\"여러 엔진을 적용해 (복잡해 보이지만) 이용자는 오픈빌더 시스템에 들어가면 편리하게 서비스를 이용할 수 있다\\\"고 말했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "한편, 카카오는 챗봇을 단체카톡방에 초대해 친구들과 함께 예약·예매할 수 있는 서비스를 하반기에 내놓을 계획이다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국내기업 특허경쟁력 탄탄",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

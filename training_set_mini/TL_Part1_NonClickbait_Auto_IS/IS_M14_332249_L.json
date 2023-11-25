@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332249",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "SK텔레콤, 디지털파장응집기술로 데이터 손실 최소화",
+		"newsSubTitle": "",
+		"newsContent": "SK텔레콤이 디지털파장응집(디지털코히런트, DCO) 기술을 활용해 5세대(5G) 이동통신 대용량 데이터를 손실없이 전달한다.\n장거리 구간에서 별도 증폭 장비를 없애고 라우터간 데이터를 직접 전달해 네트워크 장애도 대폭 줄인다.\nSK텔레콤은 약 80㎞에 달하는 세종 통합국사와 둔산 교환실 구간의 5G 백홀 200Gbps광케이블에 DCO기술을 활용한 IP기반 파장다중화기술(IPoWDM, IP over WDM)을 성공적으로 상용화했다.\n5G 200Gbps 광케이블에 해당 기술을 적용한 것은 국내 최초다.\nDCO기술을 활용하면 라우터간 데이터를 직접 주고받을 수 있다.\n이에 장거리 구간에도 안정적으로 대용량 데이터를 전송할 수 있다.\n가상현실(VR)이나 증강현실(AR), 메타버스 등 많은 데이터를 필요로 하는 5G 서비스를 보다 원활하게 제공할 수 있을 것으로 관측된다.\n백홀에서 데이터를 멀리 전송하기 위해서는 냉장고 크기만한 증폭 장비를 별도 설치해 신호를 가공해야만 했다.\n기존 세종-둔산 구간에는 12대의 증폭 장비가 필요했다.\n반면 DCO기술은 장거리에 전파 신호를 보내는 기능을 광모듈에 직접 탑재해 별도 장비를 구축할 필요가 없다.\nSK텔레콤은 파장분할다중방식(WDM) 기술을 집적화, IP 장비와 일체화했다.\n이번 상용화를 통해 불필요한 장비를 줄여 네트워크 설계가 간소화될 것으로 관측된다.\n비용을 절약할 수 있고, 효율적인 운영∙관리도 가능하다.\n장비 자체의 오류가 줄어 네트워크 장애 발생 확률 또한 낮아질 것으로 기대된다.\n오류가 발생하더라도 라우터만 확인하면 돼 보다 빠른 대응을 할 수 있다.\n장비 구축에 소모되는 시간을 줄일 수 있어 5G 커버리지 확대에도 용이할 전망이다.\nSK텔레콤은 향후 전국 주요 백본망에 해당 기술을 확대 적용할 방침이다.\nSK텔레콤 관계자는 \\\"인프라에 사용되는 전력 소모량을 줄이고 온실가스 배출 또한 감소시킬 수 있어 환경∙사회∙지배구조(ESG)경영에도 기여할 수 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤이 디지털파장응집(디지털코히런트, DCO) 기술을 활용해 5세대(5G) 이동통신 대용량 데이터를 손실없이 전달한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장거리 구간에서 별도 증폭 장비를 없애고 라우터간 데이터를 직접 전달해 네트워크 장애도 대폭 줄인다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SK텔레콤은 약 80㎞에 달하는 세종 통합국사와 둔산 교환실 구간의 5G 백홀 200Gbps광케이블에 DCO기술을 활용한 IP기반 파장다중화기술(IPoWDM, IP over WDM)을 성공적으로 상용화했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "5G 200Gbps 광케이블에 해당 기술을 적용한 것은 국내 최초다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "DCO기술을 활용하면 라우터간 데이터를 직접 주고받을 수 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 장거리 구간에도 안정적으로 대용량 데이터를 전송할 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가상현실(VR)이나 증강현실(AR), 메타버스 등 많은 데이터를 필요로 하는 5G 서비스를 보다 원활하게 제공할 수 있을 것으로 관측된다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "백홀에서 데이터를 멀리 전송하기 위해서는 냉장고 크기만한 증폭 장비를 별도 설치해 신호를 가공해야만 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기존 세종-둔산 구간에는 12대의 증폭 장비가 필요했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "반면 DCO기술은 장거리에 전파 신호를 보내는 기능을 광모듈에 직접 탑재해 별도 장비를 구축할 필요가 없다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "SK텔레콤은 파장분할다중방식(WDM) 기술을 집적화, IP 장비와 일체화했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이번 상용화를 통해 불필요한 장비를 줄여 네트워크 설계가 간소화될 것으로 관측된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "비용을 절약할 수 있고, 효율적인 운영∙관리도 가능하다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "장비 자체의 오류가 줄어 네트워크 장애 발생 확률 또한 낮아질 것으로 기대된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "오류가 발생하더라도 라우터만 확인하면 돼 보다 빠른 대응을 할 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "장비 구축에 소모되는 시간을 줄일 수 있어 5G 커버리지 확대에도 용이할 전망이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "SK텔레콤은 향후 전국 주요 백본망에 해당 기술을 확대 적용할 방침이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "SK텔레콤 관계자는 \\\"인프라에 사용되는 전력 소모량을 줄이고 온실가스 배출 또한 감소시킬 수 있어 환경∙사회∙지배구조(ESG)경영에도 기여할 수 있다\\\"고 말했다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK텔레콤, 디지털파장응집기술로 데이터 손실 최소화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

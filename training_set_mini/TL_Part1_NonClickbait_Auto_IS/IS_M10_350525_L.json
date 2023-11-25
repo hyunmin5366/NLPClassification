@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350525",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "네이버클라우드-삼성생명, 클라우드·AI로 공동 협력",
+		"newsSubTitle": "null",
+		"newsContent": "네이버클라우드가 삼성생명과 클라우드와 인공지능(AI)을 활용한 공동 비즈니스 모델 구축에 나선다고 29일 밝혔다.\n협약을 계기로 삼성생명은 신규 AI 서비스 개발인프라로 네이버 클라우드 플랫폼을 활용할 계획이다.\n인프라 운영과 관리 리소스를 줄여 신규 서비스를 효율적으로 개발하기 위해서다.\n삼성생명은 현재 금융AI센터에 AI 가상 상담사의 언어모델 학습 플랫폼을 네이버 클라우드 플랫폼에서 구축해 운영하고 있다.\n또한 삼성생명은 네이버의 광학문자인식(OCR) 기술을 보험금 심사 업무에 도입할 계획이다.\n이에 따라 신분증과 진료비 영수증 등 다양한 청구서류도 AI가 자동으로 인식하고 분류해줄 수 있게 된다.\n양사는 AI 기술 교류 프로그램도 진행할 계획이다.\n삼성생명 다이렉트와 홈페이지, 모바일 등 다양한 채널에 얼굴인식기술인 페이스사인(FaceSign)을 비롯한 네이버 인증을 도입해 고객 편의를 강화하는 방안도 추가로 검토한다.\n이외에 양사 간 데이터를 결합하고 분석해 고객의 다양한 수요를 충족하는 마케팅과 서비스도 제공할 예정이다.\n김태창 네이버클라우드 사업총괄 전무는 \\\"자사의 기술력을 기반으로 보험업계의 디지털 혁신을 앞당길 수 있도록 의미있는 성과를 만들겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버클라우드가 삼성생명과 클라우드와 인공지능(AI)을 활용한 공동 비즈니스 모델 구축에 나선다고 29일 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "협약을 계기로 삼성생명은 신규 AI 서비스 개발인프라로 네이버 클라우드 플랫폼을 활용할 계획이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인프라 운영과 관리 리소스를 줄여 신규 서비스를 효율적으로 개발하기 위해서다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "삼성생명은 현재 금융AI센터에 AI 가상 상담사의 언어모델 학습 플랫폼을 네이버 클라우드 플랫폼에서 구축해 운영하고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 삼성생명은 네이버의 광학문자인식(OCR) 기술을 보험금 심사 업무에 도입할 계획이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 따라 신분증과 진료비 영수증 등 다양한 청구서류도 AI가 자동으로 인식하고 분류해줄 수 있게 된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "양사는 AI 기술 교류 프로그램도 진행할 계획이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성생명 다이렉트와 홈페이지, 모바일 등 다양한 채널에 얼굴인식기술인 페이스사인(FaceSign)을 비롯한 네이버 인증을 도입해 고객 편의를 강화하는 방안도 추가로 검토한다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이외에 양사 간 데이터를 결합하고 분석해 고객의 다양한 수요를 충족하는 마케팅과 서비스도 제공할 예정이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "김태창 네이버클라우드 사업총괄 전무는 \\\"자사의 기술력을 기반으로 보험업계의 디지털 혁신을 앞당길 수 있도록 의미있는 성과를 만들겠다\\\"고 말했다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버클라우드-삼성생명, 클라우드·AI로 공동 협력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

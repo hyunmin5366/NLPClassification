@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330039",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "할리데이비슨, 내년 첫 '전기 모터사이클' 출시",
+		"newsSubTitle": "",
+		"newsContent": "미국 모터사이클 업체 할리데이비슨이 전기를 동력으로 사용하는 모터사이클을 선보인다.\n1일 로이터 등 외신에 따르면 할리데이비슨은 내년 상반기까지 100% 전기 모터사이클을 출시하겠다고 밝혔다.\n할리데이비슨은 2014년 라이브와이어 프로젝트를 시작해 전기 모터사이클을 개발해왔다.\n할리데이비슨은 앞으로 전기 모터사이클 연구개발에 연간 2500만∼5000만달러(약 268억∼536억원)를 투자할 계획이다.\n그동안 요란한 배기음과 터프한 외관으로 브랜드 이미지를 구축해온 할리데이비슨이 전기 모터사이클을 개발하는 것은 지속된 매출 부진에서 탈출하기 위해서다.\n할리데이비슨은 지난해 24만1498대를 판매해 6년 만에 최저치로 떨어졌다.\n미국 내 판매는 전년 대비 11.1%, 해외 판매는 7.7% 감소했다.\n시장조사업체 테크나비오 보고서에 따르면 전기 모터사이클 시장은 2020년까지 45% 성장할 것으로 전망됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 모터사이클 업체 할리데이비슨이 전기를 동력으로 사용하는 모터사이클을 선보인다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 로이터 등 외신에 따르면 할리데이비슨은 내년 상반기까지 100% 전기 모터사이클을 출시하겠다고 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "할리데이비슨은 2014년 라이브와이어 프로젝트를 시작해 전기 모터사이클을 개발해왔다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "할리데이비슨은 앞으로 전기 모터사이클 연구개발에 연간 2500만∼5000만달러(약 268억∼536억원)를 투자할 계획이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그동안 요란한 배기음과 터프한 외관으로 브랜드 이미지를 구축해온 할리데이비슨이 전기 모터사이클을 개발하는 것은 지속된 매출 부진에서 탈출하기 위해서다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "할리데이비슨은 지난해 24만1498대를 판매해 6년 만에 최저치로 떨어졌다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "미국 내 판매는 전년 대비 11.1%, 해외 판매는 7.7% 감소했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "시장조사업체 테크나비오 보고서에 따르면 전기 모터사이클 시장은 2020년까지 45% 성장할 것으로 전망됐다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "할리데이비슨, 내년 첫 '전기 모터사이클' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331289",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "미국, 주요 시설 中 CCTV 도입 금지...한국은?",
+		"newsSubTitle": "",
+		"newsContent": "미국이 주요 기관과 시설에 중국산 CCTV 도입을 전면 금지한다.\n미 의회는 시장점유율 1위인 중국 하이크비전과 다후아 등 중국 CCTV를 주요 시설에서 사용금지하는 새로운 국방수권법(NDAA)을 통과시켰다.\n트럼프 대통령도 법안을 지지한다.\n법안은 2019년 2분기부터 시행되지만 시장은 즉각 반응할 것으로 보인다.\n중국산 CCTV가 미 국가 안보에 영향을 끼칠 수 있다는 우려에서 나온 조치다.\n미국은 화웨이 네트워크 장비 사용을 금지했는데 CCTV까지 확대했다.\n수년간 중국산 CCTV에 정보를 유출하는 백도어가 있다는 논란이 일었다.\nCCTV에 숨겨진 백도어는 통신장비처럼 심각한 보안 위협을 초래한다.\n단순 영상 정보 유출을 넘어 기업과 산업, 국가 기밀 유출 통로로 악용된다.\n실제로 한국에 수입된 중국 CCTV에서 제조사가 의도적으로 숨긴 백도어가 발견됐다.\n2015년 KAIST 시스템보안연구실과 보안기업 NSHC는 2개 중국 제품에서 숨겨진 백도어를 발견해 정부와 관계기관에 알렸다.\n백도어는 암호화까지 적용한 고도화된 은닉 기법으로 숨겨졌다.\n중요 산업 정보를 유출하거나 적대 국가나 기업이 간첩 활동을 하는데 이용될 수 있는 수준이었다.\n해당 백도어는 제조사만 접근해 CCTV 모든 권한을 조정하는 형태다.\n오직 중국에 존재하는 클라우드 서버에서만 접근할 수 있다.\n미국은 정부와 의회가 나서 주요 시설에 중국 CCTV 도입을 전면 금지했지만 국내는 무역 보복 등 문제로 눈치만 보고 있다.\n정부는 '공공기관용 IP카메라 보안성능 품질 인증'을 통과한 제품 도입을 권고한다. 7월에 처음으로 한국정보통신기술협회(TTA)에서 인증을 받은 제품이 시장에 나왔다.\n한화테크윈과 트루엔이, 세오, 제노시스 등 기업이 IP카메라 13종과 NVR 2종에 보안인증을 받았다.\n그동안 국내 주요기관에 얼마나 많은 중국산 CCTV가 설치됐는지 파악도 힘들다.\n중국 기업이 한국 유통망 등을 통해 TTA에서 보안 인증을 받으면 공공기관에 제품을 넣는다.\n국내 CCTV업계 한 관계자는 \\\"국내는 중국산 CCTV 보안 위협이 실제로 발견된 사례도 있는데 정부가 강력한 제재를 하지 않는다\\\"면서 \\\"국가 안보까지 연결된 잠재 위협 대응에 강대국 눈치만 보는 실정\\\"이라고 토로했다.\n이어 \\\"CCTV 관련 기업이 모인 한국첨단안전산업협회도 이렇다 할 목소리를 내지 못하며 정부 눈치만 본다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국이 주요 기관과 시설에 중국산 CCTV 도입을 전면 금지한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미 의회는 시장점유율 1위인 중국 하이크비전과 다후아 등 중국 CCTV를 주요 시설에서 사용금지하는 새로운 국방수권법(NDAA)을 통과시켰다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "트럼프 대통령도 법안을 지지한다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "법안은 2019년 2분기부터 시행되지만 시장은 즉각 반응할 것으로 보인다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "중국산 CCTV가 미 국가 안보에 영향을 끼칠 수 있다는 우려에서 나온 조치다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미국은 화웨이 네트워크 장비 사용을 금지했는데 CCTV까지 확대했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "수년간 중국산 CCTV에 정보를 유출하는 백도어가 있다는 논란이 일었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "CCTV에 숨겨진 백도어는 통신장비처럼 심각한 보안 위협을 초래한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "단순 영상 정보 유출을 넘어 기업과 산업, 국가 기밀 유출 통로로 악용된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "실제로 한국에 수입된 중국 CCTV에서 제조사가 의도적으로 숨긴 백도어가 발견됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "2015년 KAIST 시스템보안연구실과 보안기업 NSHC는 2개 중국 제품에서 숨겨진 백도어를 발견해 정부와 관계기관에 알렸다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "백도어는 암호화까지 적용한 고도화된 은닉 기법으로 숨겨졌다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "중요 산업 정보를 유출하거나 적대 국가나 기업이 간첩 활동을 하는데 이용될 수 있는 수준이었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "해당 백도어는 제조사만 접근해 CCTV 모든 권한을 조정하는 형태다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "오직 중국에 존재하는 클라우드 서버에서만 접근할 수 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "미국은 정부와 의회가 나서 주요 시설에 중국 CCTV 도입을 전면 금지했지만 국내는 무역 보복 등 문제로 눈치만 보고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "정부는 '공공기관용 IP카메라 보안성능 품질 인증'을 통과한 제품 도입을 권고한다. 7월에 처음으로 한국정보통신기술협회(TTA)에서 인증을 받은 제품이 시장에 나왔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "한화테크윈과 트루엔이, 세오, 제노시스 등 기업이 IP카메라 13종과 NVR 2종에 보안인증을 받았다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "그동안 국내 주요기관에 얼마나 많은 중국산 CCTV가 설치됐는지 파악도 힘들다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "중국 기업이 한국 유통망 등을 통해 TTA에서 보안 인증을 받으면 공공기관에 제품을 넣는다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "국내 CCTV업계 한 관계자는 \\\"국내는 중국산 CCTV 보안 위협이 실제로 발견된 사례도 있는데 정부가 강력한 제재를 하지 않는다\\\"면서 \\\"국가 안보까지 연결된 잠재 위협 대응에 강대국 눈치만 보는 실정\\\"이라고 토로했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이어 \\\"CCTV 관련 기업이 모인 한국첨단안전산업협회도 이렇다 할 목소리를 내지 못하며 정부 눈치만 본다\\\"고 덧붙였다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미국, 주요 시설 中 CCTV 도입 금지...한국은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

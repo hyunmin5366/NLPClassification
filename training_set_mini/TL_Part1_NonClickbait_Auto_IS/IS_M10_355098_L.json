@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355098",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "개인정보 털린 美이통사, 6550억 배상…\\\"고객당 최대 330만원\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "미국 이동통신사 T-모바일이 대규모 고객 정보 유출 사고와 관련된 집단소송에서 5억달러(약 6550억원) 지급에 합의했다.\n22일(현지시간) 로이터통신, 뉴욕타임스 등에 따르면 T-모바일은 이날 미주리주(州) 서부지방법원에 '소송 해결을 위해 3억5000만달러(약 4585억원)를 지급하고, 향후 사이버 보안 강화 차원에서 1억5000만달러(약 1965억원)을 지불하겠다'는 내용이 담긴 합의 서류를 제출했다.\nT-모바일은 앞서 지난해 8월 사이버 공격으로 고객들의 이름·주소·생년월일·운전면허증·사회보장번호(SSN) 등 민감한 개인정보가 유출됐다고 밝혔고, 고객들은 T-모바일을 상대로 집단소송을 제기했다.\n당시 피해 고객 수는 약 5000만명으로 추산됐으나 이후 조사를 통해 2600만명의 피해 사례가 추가로 발견됐다.\n이번 합의를 통해 고객들이 받는 보상금이 얼마인지는 분명히 알려지지 않았다.\n다만 제출된 서류에는 개인별 지급액이 2500달러(약 330만원)를 넘지 않을 것으로 명시돼 있다고 뉴욕타임스는 전했다.\nT-모바일은 성명을 통해 \\\"이 과제를 해결하기 위해 시간과 에너지, 자원을 계속 투자하고 있는 가운데 이번 집단소송을 해결하게 돼 기쁘다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 이동통신사 T-모바일이 대규모 고객 정보 유출 사고와 관련된 집단소송에서 5억달러(약 6550억원) 지급에 합의했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일(현지시간) 로이터통신, 뉴욕타임스 등에 따르면 T-모바일은 이날 미주리주(州) 서부지방법원에 '소송 해결을 위해 3억5000만달러(약 4585억원)를 지급하고, 향후 사이버 보안 강화 차원에서 1억5000만달러(약 1965억원)을 지불하겠다'는 내용이 담긴 합의 서류를 제출했다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "T-모바일은 앞서 지난해 8월 사이버 공격으로 고객들의 이름·주소·생년월일·운전면허증·사회보장번호(SSN) 등 민감한 개인정보가 유출됐다고 밝혔고, 고객들은 T-모바일을 상대로 집단소송을 제기했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 피해 고객 수는 약 5000만명으로 추산됐으나 이후 조사를 통해 2600만명의 피해 사례가 추가로 발견됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 합의를 통해 고객들이 받는 보상금이 얼마인지는 분명히 알려지지 않았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만 제출된 서류에는 개인별 지급액이 2500달러(약 330만원)를 넘지 않을 것으로 명시돼 있다고 뉴욕타임스는 전했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "T-모바일은 성명을 통해 \\\"이 과제를 해결하기 위해 시간과 에너지, 자원을 계속 투자하고 있는 가운데 이번 집단소송을 해결하게 돼 기쁘다\\\"고 밝혔다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "개인정보 털린 美이통사, 6550억 배상…\\\"고객당 최대 330만원\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

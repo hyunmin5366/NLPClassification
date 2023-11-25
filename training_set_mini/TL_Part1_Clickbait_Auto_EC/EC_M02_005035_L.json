@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005035",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "삼성중공업, 6091억원 규모 선박 4척 수주",
+		"newsSubTitle": "올해 목표의 15% 달성",
+		"newsContent": "한국조선해양에 이어 삼성중공업도 연초부터 수주가 잇따르고 있다.\n삼성중공업은 유럽 지역 선사로부터 총 6091억원 규모의 7000TEU급 컨테이너선 4척을 수주했다고 11일 공시했다.\n이번에 삼성중공업이 수주한 컨테이너선은 액화천연가스(LNG) 이중연료 추진 시스템과 다양한 연료 절감기술이 적용돼 해상 환경규제 대응이 가능한 고효율 친환경 선박이다.\n오는 2024년 12월까지 순차적으로 인도될 예정이다.\n삼성중공업은 이번 계약을 포함해 올해 들어 총 8척 13억 달러를 수주해 목표 88억 달러의 15%를 달성했다.\n삼성중공업 관계자는 데일리임팩트에 \\\"컨테이너선 운임 강세 지속 및 LNG 이중연료 추진 선박으로의 교체 수요 증가 영향으로 컨테이너선 신규 발주세는 올해에도 계속 이어질 것\\\"이라고 말했음.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국조선해양에 이어 삼성중공업도 연초부터 수주가 잇따르고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성중공업은 유럽 지역 선사로부터 총 6091억원 규모의 7000TEU급 컨테이너선 4척을 수주했다고 11일 공시했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번에 삼성중공업이 수주한 컨테이너선은 액화천연가스(LNG) 이중연료 추진 시스템과 다양한 연료 절감기술이 적용돼 해상 환경규제 대응이 가능한 고효율 친환경 선박이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오는 2024년 12월까지 순차적으로 인도될 예정이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성중공업은 이번 계약을 포함해 올해 들어 총 8척 13억 달러를 수주해 목표 88억 달러의 15%를 달성했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성중공업 관계자는 데일리임팩트에 \\\"컨테이너선 운임 강세 지속 및 LNG 이중연료 추진 선박으로의 교체 수요 증가 영향으로 컨테이너선 신규 발주세는 올해에도 계속 이어질 것\\\"이라고 말했음.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "저층까지 완판… 죽동지구 분양 '후끈'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

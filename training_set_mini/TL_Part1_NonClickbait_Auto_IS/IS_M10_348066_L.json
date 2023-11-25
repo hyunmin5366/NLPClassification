@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348066",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT, 신세계조선호텔에 'AI 로봇' 도입한다",
+		"newsSubTitle": "null",
+		"newsContent": "KT가 신세계조선호텔과 'AI·로보틱스 기반의 호텔 서비스 디지털 혁신을 위한 업무협약(MOU)'을 체결했다고 17일 밝혔다.\n협약에 따라 양사는 AI·로보틱스 기반의 호텔 솔루션을 공동 연구·개발하고 신세계조선호텔의 신규 호텔 내 AI 호텔로봇을 적용하는 데 협력한다.\nAI 호텔로봇은 신세계조선호텔이 오픈 예정인 '조선 팰리스 서울 강남, 럭셔리 컬렉션 호텔'과 '그래비티 서울 판교, 오토그래프 컬렉션 호텔'에 도입될 예정이다.\nAI 호텔로봇은 공간맵핑, 자율주행 등 첨단 ICT를 적용해 호텔 내 지정한 모든 공간을 오간다.\n직원이 목적지를 설정하고 고객의 요청 물품을 배달 로봇에 넣으면, 호텔 엘리베이터와의 통신을 통해 스스로 엘리베이터를 탑승 후 층간을 이동한다.\n배달 로봇이 객실 앞에 도착하면, 고객에게 도착했음을 알리고, 요청 물품을 고객이 직접 픽업할 수 있다.\n박정준 KT 기업고객본부장(상무)는 \\\"코로나19로 인한 비대면 서비스에 대한 선호도가 높은 가운데 KT의 AI 기술이 신세계조선호텔의 DX 혁신을 가져올 것으로 기대된다\\\"며, \\\"KT는 앞으로도 호텔업계를 비롯해 다양한 분야에서의 DX 혁신을 지속 발굴할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 신세계조선호텔과 'AI·로보틱스 기반의 호텔 서비스 디지털 혁신을 위한 업무협약(MOU)'을 체결했다고 17일 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "협약에 따라 양사는 AI·로보틱스 기반의 호텔 솔루션을 공동 연구·개발하고 신세계조선호텔의 신규 호텔 내 AI 호텔로봇을 적용하는 데 협력한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AI 호텔로봇은 신세계조선호텔이 오픈 예정인 '조선 팰리스 서울 강남, 럭셔리 컬렉션 호텔'과 '그래비티 서울 판교, 오토그래프 컬렉션 호텔'에 도입될 예정이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AI 호텔로봇은 공간맵핑, 자율주행 등 첨단 ICT를 적용해 호텔 내 지정한 모든 공간을 오간다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "직원이 목적지를 설정하고 고객의 요청 물품을 배달 로봇에 넣으면, 호텔 엘리베이터와의 통신을 통해 스스로 엘리베이터를 탑승 후 층간을 이동한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "배달 로봇이 객실 앞에 도착하면, 고객에게 도착했음을 알리고, 요청 물품을 고객이 직접 픽업할 수 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박정준 KT 기업고객본부장(상무)는 \\\"코로나19로 인한 비대면 서비스에 대한 선호도가 높은 가운데 KT의 AI 기술이 신세계조선호텔의 DX 혁신을 가져올 것으로 기대된다\\\"며, \\\"KT는 앞으로도 호텔업계를 비롯해 다양한 분야에서의 DX 혁신을 지속 발굴할 것\\\"이라고 말했다.",
+				"sentenceSize": 156
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 신세계조선호텔에 'AI 로봇' 도입한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

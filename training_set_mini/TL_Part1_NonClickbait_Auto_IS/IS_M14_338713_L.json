@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338713",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "블라우비트, TOF 기반 얼굴인식 알고리즘 개발",
+		"newsSubTitle": "",
+		"newsContent": "블라우비트는 TOF 방식 3차원(D) 얼굴인식 솔루션을 개발했다고 3일 밝혔다.\nTOF(Time Of Flight)는 피사체를 향해 발사한 빛이 튕겨 돌아오는 시간으로 거리를 계산해 사물의 입체감과 공간 정보, 움직임 등을 인식하는 기술을 뜻한다.\n블라우비트가 개발한 솔루션은 얼굴인식 알고리즘이다.\n6만개의 얼굴영역 포인트를 이용해 특장점을 추출하고 분석하는 게 기본 원리다.\n3D 기반이기 때문에 사진과 같은 2D 방식 위변조를 방지할 수 있고, 오·인식 발생 확률을 크게 줄일 수 있다고 회사 측은 설명했다.\n블라우드비트 솔루션은 출입통제 기기에 접목될 수 있게 개발됐다.\n회사는 솔루션을 발전시켜 향후 스마트폰에 적용하는 알고리즘도 개발할 계획이다.\n블라우비트는 인공지능 연구개발(R&D) 전문 스타트업이다.\n국내 주요 보안업체에 산업안전 딥러닝 엔진과 모니터링 뷰어를 공급하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "블라우비트는 TOF 방식 3차원(D) 얼굴인식 솔루션을 개발했다고 3일 밝혔다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "TOF(Time Of Flight)는 피사체를 향해 발사한 빛이 튕겨 돌아오는 시간으로 거리를 계산해 사물의 입체감과 공간 정보, 움직임 등을 인식하는 기술을 뜻한다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "블라우비트가 개발한 솔루션은 얼굴인식 알고리즘이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "6만개의 얼굴영역 포인트를 이용해 특장점을 추출하고 분석하는 게 기본 원리다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "3D 기반이기 때문에 사진과 같은 2D 방식 위변조를 방지할 수 있고, 오·인식 발생 확률을 크게 줄일 수 있다고 회사 측은 설명했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "블라우드비트 솔루션은 출입통제 기기에 접목될 수 있게 개발됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "회사는 솔루션을 발전시켜 향후 스마트폰에 적용하는 알고리즘도 개발할 계획이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "블라우비트는 인공지능 연구개발(R&D) 전문 스타트업이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "국내 주요 보안업체에 산업안전 딥러닝 엔진과 모니터링 뷰어를 공급하고 있다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "블라우비트, TOF 기반 얼굴인식 알고리즘 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

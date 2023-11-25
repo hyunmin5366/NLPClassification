@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325739",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "'최대 2250ppi' 해상도 지원 OLED 증착 기술 개발됐다",
+		"newsSubTitle": "",
+		"newsContent": "국내 연구진이 스마트폰용 유기발광다이오드(OLED)에서 최대 2250ppi 해상도를 구현할 수 있는 증착기술을 개발했다.\n추가로 증착기를 도입하지 않고도 기존 증착기에서 두 단계에 걸쳐 유기물을 증착하는 새로운 방식이다.\n단국대 벤처기업 올레드온(대표 황창훈)과 단국대 진병두 교수팀은 현 섀도마스크 기술을 이용해 최대 2250ppi(인치당 픽셀수) 해상도를 구현할 수 있는 새로운 벨트면소스 증착기 원천기술을 개발했다고 밝혔다.\n현재 상용화된 스마트폰 OLED 해상도는 약 600ppi다.\n섀도마스크는 중소형 OLED를 생산할 때 필요한 핵심 부품이다.\n금속 재질 섀도마스크에는 눈에 보이지 않을 정도로 미세한 구멍이 수없이 형성돼 있다.\n스마트폰용 섀도마스크 1장에는 약 2000만개 이상 구멍이 뚫려있다.\nTFT가 형성된 기판 아래 섀도마스크를 배치한 뒤 고온을 가하면 유기물이 기화하면서 마스크의 미세한 구멍을 통과해 기판에 달라붙어 화소를 형성하게 된다.\n올레드온과 진병두 교수팀은 리니어소스로 1차 증착한 뒤 2차로 면소스 증착을 거치는 총 두 단계의 '벨트면소스' 기술 방식을 고안했다.\n이 기술은 롤러로 위치를 바꿀 수 있도록 벨트 형태로 금속면을 배치하고 선형 리니어소스를 사용해 유기물을 기화시켜 1차로 증착한다.\n이후 롤러로 돌려 1차 증착된 금속면을 위로 향하게 위치를 바꾼 뒤 히터로 열을 가하면 기판에 유기물이 증착된다.\n올레드온은 최근 1000ppi 섀도마스크를 사용해 벨트면소스 방식을 적용한 결과 기존 리니어소스 증착만 했을 때보다 섀도 구간(Shadow Distance)이 크게 짧아졌다고 설명했다.\n리니어소스로만 증착했을 때 섀도 구간은 2.5마이크로미터(μm)였으나 벨트면소스 방식을 적용하면 0.2μm로 줄었다고 밝혔다.\n섀도 구간은 스마트폰 OLED 고해상도를 구현하는데 걸림돌이 되는 현상이다.\n섀도마스크의 각 구멍을 통과한 유기물 패턴이 겹쳐 증착되는 부분을 뜻한다.\n섀도마스크에 형성된 구멍의 모양, 섀도마스크 두께, 증착 기법 등에 따라 유기물이 증착되는 모양과 각도가 달라진다.\n섀도 구간이 클수록 또렷하고 선명한 영상을 구현할 수 없어 전체 해상도가 낮아진다.\n또 각 섀도마스크 구멍을 통과한 유기물 패턴을 분석한 결과 패턴 중앙과 모서리 부분 모양이 거의 동일한 것으로 나타났다.\n현 상용화된 증착방식은 패턴 중앙부분 형상은 평탄하고 모서리로 갈수록 일그러지는데 벨트면소스 방식은 균일한 모양을 유지했다는 것이다.\n황창훈 올레드온 대표는 “0.2μm는 섀도 구간 현상이 거의 없는 수준”이라며 “2250ppi 수준의 OLED 소자를 제작하려면 면소스 증착기술이 필수적임을 알 수 있는 결과”라고 설명했다.\n또 “벨트면소스 기술은 증착장비를 추가하지 않고 기존 장비에 적용해 사용할 수 있다”며 “공정 복잡성이 높아지는 단점이 있지만 고해상도 구현 장벽을 뛰어넘을 수 있는 기술”이라고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 스마트폰용 유기발광다이오드(OLED)에서 최대 2250ppi 해상도를 구현할 수 있는 증착기술을 개발했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "추가로 증착기를 도입하지 않고도 기존 증착기에서 두 단계에 걸쳐 유기물을 증착하는 새로운 방식이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "단국대 벤처기업 올레드온(대표 황창훈)과 단국대 진병두 교수팀은 현 섀도마스크 기술을 이용해 최대 2250ppi(인치당 픽셀수) 해상도를 구현할 수 있는 새로운 벨트면소스 증착기 원천기술을 개발했다고 밝혔다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 상용화된 스마트폰 OLED 해상도는 약 600ppi다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "섀도마스크는 중소형 OLED를 생산할 때 필요한 핵심 부품이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "금속 재질 섀도마스크에는 눈에 보이지 않을 정도로 미세한 구멍이 수없이 형성돼 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스마트폰용 섀도마스크 1장에는 약 2000만개 이상 구멍이 뚫려있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "TFT가 형성된 기판 아래 섀도마스크를 배치한 뒤 고온을 가하면 유기물이 기화하면서 마스크의 미세한 구멍을 통과해 기판에 달라붙어 화소를 형성하게 된다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "올레드온과 진병두 교수팀은 리니어소스로 1차 증착한 뒤 2차로 면소스 증착을 거치는 총 두 단계의 '벨트면소스' 기술 방식을 고안했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 기술은 롤러로 위치를 바꿀 수 있도록 벨트 형태로 금속면을 배치하고 선형 리니어소스를 사용해 유기물을 기화시켜 1차로 증착한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이후 롤러로 돌려 1차 증착된 금속면을 위로 향하게 위치를 바꾼 뒤 히터로 열을 가하면 기판에 유기물이 증착된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "올레드온은 최근 1000ppi 섀도마스크를 사용해 벨트면소스 방식을 적용한 결과 기존 리니어소스 증착만 했을 때보다 섀도 구간(Shadow Distance)이 크게 짧아졌다고 설명했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "리니어소스로만 증착했을 때 섀도 구간은 2.5마이크로미터(μm)였으나 벨트면소스 방식을 적용하면 0.2μm로 줄었다고 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "섀도 구간은 스마트폰 OLED 고해상도를 구현하는데 걸림돌이 되는 현상이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "섀도마스크의 각 구멍을 통과한 유기물 패턴이 겹쳐 증착되는 부분을 뜻한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "섀도마스크에 형성된 구멍의 모양, 섀도마스크 두께, 증착 기법 등에 따라 유기물이 증착되는 모양과 각도가 달라진다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "섀도 구간이 클수록 또렷하고 선명한 영상을 구현할 수 없어 전체 해상도가 낮아진다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "또 각 섀도마스크 구멍을 통과한 유기물 패턴을 분석한 결과 패턴 중앙과 모서리 부분 모양이 거의 동일한 것으로 나타났다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "현 상용화된 증착방식은 패턴 중앙부분 형상은 평탄하고 모서리로 갈수록 일그러지는데 벨트면소스 방식은 균일한 모양을 유지했다는 것이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "황창훈 올레드온 대표는 “0.2μm는 섀도 구간 현상이 거의 없는 수준”이라며 “2250ppi 수준의 OLED 소자를 제작하려면 면소스 증착기술이 필수적임을 알 수 있는 결과”라고 설명했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "또 “벨트면소스 기술은 증착장비를 추가하지 않고 기존 장비에 적용해 사용할 수 있다”며 “공정 복잡성이 높아지는 단점이 있지만 고해상도 구현 장벽을 뛰어넘을 수 있는 기술”이라고 강조했다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'최대 2250ppi' 해상도 지원 OLED 증착 기술 개발됐다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

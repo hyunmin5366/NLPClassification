@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327622",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "조명현 세미파이브 대표 \\\"RISC-V, AI SoC에서도 통한다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "“RISC-V(리스크-파이브)로 고객맞춤형 인공지능(AI) 시스템온칩(SoC)를 설계할 수 있습니다.” 조명현 세미파이브 대표는 RISC-V의 '개방성'으로 다양한 인공지능 칩을 개발할 수 있다고 강조했다.\n조 대표는 29일 서울 양재동 엘타워에서 열린 '차세대 시스템 반도체 테크 인사이트 포럼'에서 RISC-V 기반 설계 플랫폼을 기반으로 효율적인 AI 칩 개발을 구현할 수 있다고 설명했다.\n조 대표는 향후 AI 시대에는 인공지능 기술 자체보다 AI 시스템을 구성하는 기반 기술이 상당히 중요해질 것으로 예상했다.\n조 대표는 “AI는 용도와 응용 분야에 따라 요구 사항이 상당히 다르기 때문에, 다양한 형태의 AI 반도체가 존재하게 될 것”이라고 전했다.\n이에 따라 개방성이 보장되는 RISC-V 설계 플랫폼으로 무궁무진한 AI 반도체를 개발할 수 있다고 주장했다.\nRISC-V는 최근 반도체 설계 업계에서 각광을 받고 있는 '오픈소스' 설계 플랫폼이다.\n설계 언어의 핵심인 명령어집합구조(ISA)를 인터넷이나 RISC-V 재단 웹사이트에서 누구나 쉽게 내려받아서 설계할 수 있는 게 핵심이다.\nAI 반도체를 만들기 위한 중추적인 플랫폼을 세미파이브에서 마련하고, 팹리스 등 설계 업체들이 이를 마음껏 활용하거나 세미파이브에게 설계를 맡길 수 있다는 게 조 대표 아이디어다.\n세미파이브는 RISC-V를 활용, 다양한 설계 기능을 준비하고 있다고 전했다.\n세미파이브의 U코어, S코어, E코어 등으로 지능형 반도체의 임베디드 코어를 설계할 수 있고, 단순 연산에서 행렬 연산으로 확장한 벡터 유닛으로 지능형 반도체의 성능을 극대화 할 수 있다는 게 조 대표의 주장이다.\n또 그는 PCIe, DDR 등 AI 반도체 설계에 필요한 핵심 플랫폼 설계 자산(IP)을 '쉐어 플랫폼'에서 공유하면서 설계에 걸리는 시간과 개발 비용을 줄일 수 있다고 밝혔다.\n조 대표는 “RISC-V 플랫폼으로 기존보다 설계 비용을 2배 이상 줄일 수 있을 것”이라고 설명했다.\n한편 이번 포럼에서는 이성현 오픈엣지테크놀로지 대표, 이지효 파두 대표, 이준범 모르미 대표, 박준영 UX팩토리 대표, 송진호 연세대 교수 등 국내 AI 반도체 관계자들이 모여 차세대 시스템 반도체 발전 방향을 논의했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "“RISC-V(리스크-파이브)로 고객맞춤형 인공지능(AI) 시스템온칩(SoC)를 설계할 수 있습니다.” 조명현 세미파이브 대표는 RISC-V의 '개방성'으로 다양한 인공지능 칩을 개발할 수 있다고 강조했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조 대표는 29일 서울 양재동 엘타워에서 열린 '차세대 시스템 반도체 테크 인사이트 포럼'에서 RISC-V 기반 설계 플랫폼을 기반으로 효율적인 AI 칩 개발을 구현할 수 있다고 설명했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "조 대표는 향후 AI 시대에는 인공지능 기술 자체보다 AI 시스템을 구성하는 기반 기술이 상당히 중요해질 것으로 예상했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조 대표는 “AI는 용도와 응용 분야에 따라 요구 사항이 상당히 다르기 때문에, 다양한 형태의 AI 반도체가 존재하게 될 것”이라고 전했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 개방성이 보장되는 RISC-V 설계 플랫폼으로 무궁무진한 AI 반도체를 개발할 수 있다고 주장했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "RISC-V는 최근 반도체 설계 업계에서 각광을 받고 있는 '오픈소스' 설계 플랫폼이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "설계 언어의 핵심인 명령어집합구조(ISA)를 인터넷이나 RISC-V 재단 웹사이트에서 누구나 쉽게 내려받아서 설계할 수 있는 게 핵심이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "AI 반도체를 만들기 위한 중추적인 플랫폼을 세미파이브에서 마련하고, 팹리스 등 설계 업체들이 이를 마음껏 활용하거나 세미파이브에게 설계를 맡길 수 있다는 게 조 대표 아이디어다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "세미파이브는 RISC-V를 활용, 다양한 설계 기능을 준비하고 있다고 전했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "세미파이브의 U코어, S코어, E코어 등으로 지능형 반도체의 임베디드 코어를 설계할 수 있고, 단순 연산에서 행렬 연산으로 확장한 벡터 유닛으로 지능형 반도체의 성능을 극대화 할 수 있다는 게 조 대표의 주장이다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또 그는 PCIe, DDR 등 AI 반도체 설계에 필요한 핵심 플랫폼 설계 자산(IP)을 '쉐어 플랫폼'에서 공유하면서 설계에 걸리는 시간과 개발 비용을 줄일 수 있다고 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "조 대표는 “RISC-V 플랫폼으로 기존보다 설계 비용을 2배 이상 줄일 수 있을 것”이라고 설명했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "한편 이번 포럼에서는 이성현 오픈엣지테크놀로지 대표, 이지효 파두 대표, 이준범 모르미 대표, 박준영 UX팩토리 대표, 송진호 연세대 교수 등 국내 AI 반도체 관계자들이 모여 차세대 시스템 반도체 발전 방향을 논의했다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조명현 세미파이브 대표 \\\"RISC-V, AI SoC에서도 통한다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

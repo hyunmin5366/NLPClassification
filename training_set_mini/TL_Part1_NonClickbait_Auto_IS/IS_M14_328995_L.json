@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328995",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "하팅코리아, 사물인터넷 커넥터 '미카' 출시",
+		"newsSubTitle": "",
+		"newsContent": "하팅코리아(대표 김흥태)는 사물인터넷(IoT) 커넥터 '미카'를 출시했다고 15일 밝혔다.\n제품은 생산 설비에 부착돼 데이터를 수집하고 클라우드 서버나 전사적자원관리(ERP) 시스템에 전송하는 장치다.\n설비에 IP 주소를 부여하고 각 기기가 개별 기능을 수행하도록 한다.\nIP67 인증을 받아 충격과 진동에 강하다. 5W 이하 저전력으로 작동한다.\n산업용 통신 프로토콜을 호환하는 게이트웨이 기능을 탑재해 호환성을 높였다.\n하팅코리아 관계자는 “게이트웨이 기능을 갖춰 별도 하드웨어와 소프트웨어가 필요하지 않아 비용절감 효과가 크다”면서 “한정된 자원에서 4차산업에 대응해야 하는 중소형 공장에서도 저렴한 비용으로 인프라를 설치할 수 있다”고 설명했다.\n하팅코리아는 와이파이, 4세대 이동통신(LTE), 로라(Rola)망 등 무선통신을 지원하는 모듈을 출시할 예정이라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하팅코리아(대표 김흥태)는 사물인터넷(IoT) 커넥터 '미카'를 출시했다고 15일 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제품은 생산 설비에 부착돼 데이터를 수집하고 클라우드 서버나 전사적자원관리(ERP) 시스템에 전송하는 장치다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "설비에 IP 주소를 부여하고 각 기기가 개별 기능을 수행하도록 한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "IP67 인증을 받아 충격과 진동에 강하다. 5W 이하 저전력으로 작동한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "산업용 통신 프로토콜을 호환하는 게이트웨이 기능을 탑재해 호환성을 높였다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하팅코리아 관계자는 “게이트웨이 기능을 갖춰 별도 하드웨어와 소프트웨어가 필요하지 않아 비용절감 효과가 크다”면서 “한정된 자원에서 4차산업에 대응해야 하는 중소형 공장에서도 저렴한 비용으로 인프라를 설치할 수 있다”고 설명했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하팅코리아는 와이파이, 4세대 이동통신(LTE), 로라(Rola)망 등 무선통신을 지원하는 모듈을 출시할 예정이라고 덧붙였다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하팅코리아, 사물인터넷 커넥터 '미카' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

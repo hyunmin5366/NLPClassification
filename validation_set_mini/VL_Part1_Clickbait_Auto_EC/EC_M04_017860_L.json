@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017860",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "롯데백화점 대전점 '아름다운 팔 걷기 헌혈 캠페인' 동참",
+		"newsSubTitle": "",
+		"newsContent": "사진=롯데쇼핑 제공'코로나19' 장기화로 헌혈자가 급감한 가운데 롯데백화점 대전점은 9일 아름다운 팔 걷기 헌혈 캠페인에 동참했다.\n헌혈은 임직원과 파트너사 직원들의 자발적 참여로 사회적 거리두기를 유지하며 진행됐다.\n헌혈 캠페인을 통해 기부 받은 헌혈증은 대한적십자사를 통해 필요한 이웃에 전달될 예정이다.\n한편, 코로나 확산으로 국내 혈액수급에 비상이 걸리면서 지난 2월 5일 이후 처음으로 3개월이 지난 8일 기준 3일분 미만으로 떨어졌다.\n혈액수급 위기단계 메뉴얼에 따르면 적정, 관심, 주의, 경계, 심각 등 5단계로 분류하고 있다.\n혈액보유량 기준 5일분 이상일 때 '적정', 3일 이상 5일 미만 '관심', 2일 이상 3일 미만 '주의', 1일 이상 2일 미만 '경계', 1일 미만은 '심각'이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사진=롯데쇼핑 제공'코로나19' 장기화로 헌혈자가 급감한 가운데 롯데백화점 대전점은 9일 아름다운 팔 걷기 헌혈 캠페인에 동참했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "헌혈은 임직원과 파트너사 직원들의 자발적 참여로 사회적 거리두기를 유지하며 진행됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "헌혈 캠페인을 통해 기부 받은 헌혈증은 대한적십자사를 통해 필요한 이웃에 전달될 예정이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한편, 코로나 확산으로 국내 혈액수급에 비상이 걸리면서 지난 2월 5일 이후 처음으로 3개월이 지난 8일 기준 3일분 미만으로 떨어졌다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "혈액수급 위기단계 메뉴얼에 따르면 적정, 관심, 주의, 경계, 심각 등 5단계로 분류하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "혈액보유량 기준 5일분 이상일 때 '적정', 3일 이상 5일 미만 '관심', 2일 이상 3일 미만 '주의', 1일 이상 2일 미만 '경계', 1일 미만은 '심각'이다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 5월 실업률 2.9% ↓",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

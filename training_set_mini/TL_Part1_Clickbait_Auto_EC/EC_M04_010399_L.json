@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010399",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "전기요금 오늘부터 오른다",
+		"newsSubTitle": "평균 4.9%… 일반가정 월 1200원 부담 늘 듯",
+		"newsContent": "6일부터 전기요금이 평균 4.9% 오른다.\n한국전력이 지난 3일 이사회를 열어 전기료를 이 같이 인상하기로 결정했기 때문이다.\n인상된 전기요금은 산업용 고압요금이 6%로 가장 많이 오르고 중소기업과 영세상인이 사용하는 저압요금은 각각 3.9%, 주택용과 교육ㆍ농사용은 3% 내외 인상된다.\n이에 따라 도시 가구의 경우 월 평균 1200원정도의 전기료 부담이 늘 것으로 예상된다.\n이번 전기료 인상으로 소비자물가는 0.056%포인트, 생산자물가는 0.128%포인트 상승할 것으로 전망됐다.\n그러나 지난해 8월과 12월, 두차례나 요금이 인상된점을 감안하면 1년 새 전기료가 15%나 오른 셈이다.\n지역 경제계는 “경기 침체로 어려움에 처한 기업들이 매출 감소와 원가 상승 압박의 이중고를 겪고 있다”며 “이런 시기에 공공요금을 올리는 것은 기업경제를 무시한 처사다”고 목청을 높였다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "6일부터 전기요금이 평균 4.9% 오른다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전력이 지난 3일 이사회를 열어 전기료를 이 같이 인상하기로 결정했기 때문이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인상된 전기요금은 산업용 고압요금이 6%로 가장 많이 오르고 중소기업과 영세상인이 사용하는 저압요금은 각각 3.9%, 주택용과 교육ㆍ농사용은 3% 내외 인상된다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 도시 가구의 경우 월 평균 1200원정도의 전기료 부담이 늘 것으로 예상된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 전기료 인상으로 소비자물가는 0.056%포인트, 생산자물가는 0.128%포인트 상승할 것으로 전망됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 지난해 8월과 12월, 두차례나 요금이 인상된점을 감안하면 1년 새 전기료가 15%나 오른 셈이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지역 경제계는 “경기 침체로 어려움에 처한 기업들이 매출 감소와 원가 상승 압박의 이중고를 겪고 있다”며 “이런 시기에 공공요금을 올리는 것은 기업경제를 무시한 처사다”고 목청을 높였다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김상헌 전 네이버 대표, '우아한형제들' 부회장으로 합류",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

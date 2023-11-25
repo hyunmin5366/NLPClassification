@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323515",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]애플, 시가총액 1조 달러 아래로... 코로나19 쇼크",
+		"newsSubTitle": "",
+		"newsContent": "애플 시가총액이 1조달러(약 1261조5000억원) 아래로 내려갔다.\n올해 시가총액 1조 달러가 붕괴된 건 처음이다.\n23일(현지시간) 나스닥 종가 기준 애플 주가는 전일 대비 2.12% 하락한 224.37달러로 마감됐다.\n이에 따라 시가총액도 9817억달러로 마감됐다.\n애플 주가는 2월 12일 327달러로 고점을 기록한 이후 하락세로 전환했다.\n코로나19가 세계로 확산되며 한 달 만에 고점 대비 30%가 넘게 하락했다.\n코로나19로 중국에서 생산 차질과 글로벌 매장 폐쇄에 따른 매출 하락 가능성이 주가에 반영된 것으로 풀이된다.\n글로벌투자은행 UBS는 1분기 아이폰 출하량 전망치를 4700만대에서 3600만대로 하향 조정했다.\n앞서 애플도 생산 차질과 중국 판매 감소를 이유로 매출 전망치를 하향 조정했다.\n블룸버그통신은 “애플 시가총액 1조달러 붕괴로 MS가 13자리 수(1조)를 넘는 유일한 미국 주식으로 남게 됐다”고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플 시가총액이 1조달러(약 1261조5000억원) 아래로 내려갔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "올해 시가총액 1조 달러가 붕괴된 건 처음이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "23일(현지시간) 나스닥 종가 기준 애플 주가는 전일 대비 2.12% 하락한 224.37달러로 마감됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 시가총액도 9817억달러로 마감됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플 주가는 2월 12일 327달러로 고점을 기록한 이후 하락세로 전환했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코로나19가 세계로 확산되며 한 달 만에 고점 대비 30%가 넘게 하락했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코로나19로 중국에서 생산 차질과 글로벌 매장 폐쇄에 따른 매출 하락 가능성이 주가에 반영된 것으로 풀이된다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "글로벌투자은행 UBS는 1분기 아이폰 출하량 전망치를 4700만대에서 3600만대로 하향 조정했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "앞서 애플도 생산 차질과 중국 판매 감소를 이유로 매출 전망치를 하향 조정했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "블룸버그통신은 “애플 시가총액 1조달러 붕괴로 MS가 13자리 수(1조)를 넘는 유일한 미국 주식으로 남게 됐다”고 전했다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]애플, 시가총액 1조 달러 아래로... 코로나19 쇼크",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

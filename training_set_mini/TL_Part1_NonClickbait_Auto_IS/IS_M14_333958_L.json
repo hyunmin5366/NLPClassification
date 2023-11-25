@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333958",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "서울시-네이버, 국내 최고난도 강남역서 'AR내비' 성공",
+		"newsSubTitle": "",
+		"newsContent": "네이버와 서울시가 서울 강남역에서 증강현실(AR) 내비게이션 테스트에 성공했다.\n국내 최고난도 수준을 보이는 강남역 지하상가에서 AR 내비게이션을 점검, 상용화에 한 걸음 다가섰다.\n서울시는 이번 실험을 통해 스마트시티 전략을 더욱 구체화할 것으로 전망된다.\n네이버랩스는 서울 지하철 2호선 강남역에서 AR 내비게이션 테스트를 마쳤다고 2일 밝혔다.\n서울시가 지원하는 '환승 지하철 도보 비주얼 내비게이션 개발' 실증 사업의 일환이다.\n테스트는 지하상가 중심으로 진행됐다.\n스마트폰에 설치한 내비게이션이 주변을 자동 인식해서 목적지까지 안내하는 과정을 테스트했다.\n실제 배경을 촬영한 화면 위에 진행 방향과 목표 등을 표시, 시인성을 높였다.\n네이버랩스는 이번 테스트에서 한층 고도화한 '비주얼 로컬라이션'(VL) 기술을 적용했다.\n이미지에서 픽셀별로 특정 영역을 구분 짓는 '시맨틱 분할'(영상분할) 기술을 도입한 것이 대표적이다.\n시맨틱 분할은 특정 이미지에서 '사람'을 구분한 뒤 배경 데이터만으로 장소를 인지하는 기술이다.\n유동인구를 걸러내고 배경만 추출해 측위 정확도를 높이는 기술로, 실내용 로봇이나 자율주행 머신을 만드는 데 필수다.\n네이버 관계자는 “강남역은 서울시내에서 가장 복잡한 장소 가운데 하나로, AR 내비게이션을 테스트하기에는 국내 최고난도 지역”이라면서 “상점 교체 주기도 빠르고 유동인구가 많아서 정보 업데이트와 측위 자체가 어렵다”고 말했다.\n강남역에서 성능을 제대로 발휘한 만큼 국내 대부분 지역에 적용 가능한 기술을 확보했다는 설명이다.\n네이버와 서울시는 각각 스마트시티 프로젝트를 가동하고 있다.\n네이버랩스는 지난해부터 'A시티' 프로젝트를 가동, 자동차 도로뿐만 아니라 인도·실내까지 3차원(3D) 지도를 생성하는 기술을 연구하고 있다.\n서울시는 시 전역을 자가망으로 연결해 각종 센서를 운영하는 에스넷(S-NET) 사업을 필두로 스마트시티 전략을 펼친다.\n양측은 서울시 전역을 3D 지도로 구현하는 프로젝트를 공동 진행하고 있다.\n네이버랩스는 서울시가 올해 가동한 '버추얼 서울' 서비스에서 항공사진 기반의 3D 지도 데이터를 구축했다.\n이 같은 작업이 구체화 되면 실내 내비게이션 서비스는 물론 자율주행, 실내·도보용 로봇 도입이 가능해진다.\n네이버 관계자는 “강남역 실증으로 실제 공간에서 VL·AR 기술을 점검했다”면서 “한층 탄탄해진 실내 내비게이션 기술을 실외까지 연결하는 작업을 통해 네이버랩스 기술 공간을 확장해 나갈 것”이라고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버와 서울시가 서울 강남역에서 증강현실(AR) 내비게이션 테스트에 성공했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 최고난도 수준을 보이는 강남역 지하상가에서 AR 내비게이션을 점검, 상용화에 한 걸음 다가섰다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서울시는 이번 실험을 통해 스마트시티 전략을 더욱 구체화할 것으로 전망된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버랩스는 서울 지하철 2호선 강남역에서 AR 내비게이션 테스트를 마쳤다고 2일 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서울시가 지원하는 '환승 지하철 도보 비주얼 내비게이션 개발' 실증 사업의 일환이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "테스트는 지하상가 중심으로 진행됐다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스마트폰에 설치한 내비게이션이 주변을 자동 인식해서 목적지까지 안내하는 과정을 테스트했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "실제 배경을 촬영한 화면 위에 진행 방향과 목표 등을 표시, 시인성을 높였다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네이버랩스는 이번 테스트에서 한층 고도화한 '비주얼 로컬라이션'(VL) 기술을 적용했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이미지에서 픽셀별로 특정 영역을 구분 짓는 '시맨틱 분할'(영상분할) 기술을 도입한 것이 대표적이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "시맨틱 분할은 특정 이미지에서 '사람'을 구분한 뒤 배경 데이터만으로 장소를 인지하는 기술이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "유동인구를 걸러내고 배경만 추출해 측위 정확도를 높이는 기술로, 실내용 로봇이나 자율주행 머신을 만드는 데 필수다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "네이버 관계자는 “강남역은 서울시내에서 가장 복잡한 장소 가운데 하나로, AR 내비게이션을 테스트하기에는 국내 최고난도 지역”이라면서 “상점 교체 주기도 빠르고 유동인구가 많아서 정보 업데이트와 측위 자체가 어렵다”고 말했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "강남역에서 성능을 제대로 발휘한 만큼 국내 대부분 지역에 적용 가능한 기술을 확보했다는 설명이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "네이버와 서울시는 각각 스마트시티 프로젝트를 가동하고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "네이버랩스는 지난해부터 'A시티' 프로젝트를 가동, 자동차 도로뿐만 아니라 인도·실내까지 3차원(3D) 지도를 생성하는 기술을 연구하고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "서울시는 시 전역을 자가망으로 연결해 각종 센서를 운영하는 에스넷(S-NET) 사업을 필두로 스마트시티 전략을 펼친다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "양측은 서울시 전역을 3D 지도로 구현하는 프로젝트를 공동 진행하고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "네이버랩스는 서울시가 올해 가동한 '버추얼 서울' 서비스에서 항공사진 기반의 3D 지도 데이터를 구축했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이 같은 작업이 구체화 되면 실내 내비게이션 서비스는 물론 자율주행, 실내·도보용 로봇 도입이 가능해진다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "네이버 관계자는 “강남역 실증으로 실제 공간에서 VL·AR 기술을 점검했다”면서 “한층 탄탄해진 실내 내비게이션 기술을 실외까지 연결하는 작업을 통해 네이버랩스 기술 공간을 확장해 나갈 것”이라고 강조했다.",
+				"sentenceSize": 115
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서울시-네이버, 국내 최고난도 강남역서 'AR내비' 성공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

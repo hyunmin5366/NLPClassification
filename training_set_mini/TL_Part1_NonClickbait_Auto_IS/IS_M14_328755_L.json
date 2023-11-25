@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328755",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "[이슈분석]해외에선 비상방송장비 성능을 어떻게 관리하나",
+		"newsSubTitle": "",
+		"newsContent": "EN54는 유럽연합(EU)에서 채택하고 있는 비상방송설비에 대한 인증기준이다.\nEN54 인증을 받아야 EU 국가에 비상방송설비를 공급할 수 있다.\nEN54 관련 기준을 살펴보면 비상방송설비에 단락 또는 단선이 발생한 상황에서는 이를 관리자에게 사전에 경고하도록 고지했다.\n화재 발생 시 비상방송설비는 정상 작동 상태를 유지하기 위해서다.\nEN54-16은 음성경보제어 및 표시장비(VACIE)에 대한 규정을 수록했다.\n관련 내용은 8.2.4, 13.5 조항을 살펴보면 알 수 있다. 8.2.4 조항은 설비 오류 발생 시 경고에 관해 기술했다.\n△고장이 필수 기능에 영향을 미치지 않는 경우에도 둘 이상 캐비닛에 포함된 VACIE 부품 간 음성 경보 전송 경로 단락 또는 단선 △비상 마이크 캡슐로 가는 음성 경보 전송 경로의 단락 또는 단선 △고장이 확성기 작동에 영향을 미치지 않는 경우에도 VACIE와 확성기 간 음성 경보 전송 경로의 단락 또는 중단 △사용 시 VACIE와 화재 경보 장치 사이의 전송 경로에서 단락 또는 중단일 경우 일반 고장 경고등을 사용해 이를 알리도록 했다.\n13.5 조항은 전송 경로 무결성에 관해 규정했다.\n이는 설비에 이상이 생기더라도 비상방송시스템이 제 기능을 하도록 지시했다.\n해당 조항에는 △VACIE와 다른 구성 요소 간 음성 경보 전송 경로 고장은 VACIE 또는 다른 음성 경보 전송 경로 정상 작동에 영향을 미치지 않을 것 △확성기 전송 경로 단락 또는 단선은 고장 발생 후에도 100초 이상 둘 이상 음성 경보 구역에 영향을 미치지 않을 것 △VACIE가 별도 전원 공급 장치와 함께 사용하도록 설계된 경우, 단락 또는 전원 중단이 다른 장치에 영향을 미치지 않아야 한다고 기술했다.\n업계 관계자는 “EU는 EN54 인증 취득을 의무화했다. 비상방송설비 수입장벽인 동시에 성능 공인 역할을 한다”면서 “아프리카와 중동 국가에서는 EN54 인증을 거친 설비를 선호하고 있다. 국내에도 EN54와 같은 비상방송설비 성능 인증 시스템을 마련해야 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "EN54는 유럽연합(EU)에서 채택하고 있는 비상방송설비에 대한 인증기준이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "EN54 인증을 받아야 EU 국가에 비상방송설비를 공급할 수 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "EN54 관련 기준을 살펴보면 비상방송설비에 단락 또는 단선이 발생한 상황에서는 이를 관리자에게 사전에 경고하도록 고지했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "화재 발생 시 비상방송설비는 정상 작동 상태를 유지하기 위해서다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "EN54-16은 음성경보제어 및 표시장비(VACIE)에 대한 규정을 수록했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "관련 내용은 8.2.4, 13.5 조항을 살펴보면 알 수 있다. 8.2.4 조항은 설비 오류 발생 시 경고에 관해 기술했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "△고장이 필수 기능에 영향을 미치지 않는 경우에도 둘 이상 캐비닛에 포함된 VACIE 부품 간 음성 경보 전송 경로 단락 또는 단선 △비상 마이크 캡슐로 가는 음성 경보 전송 경로의 단락 또는 단선 △고장이 확성기 작동에 영향을 미치지 않는 경우에도 VACIE와 확성기 간 음성 경보 전송 경로의 단락 또는 중단 △사용 시 VACIE와 화재 경보 장치 사이의 전송 경로에서 단락 또는 중단일 경우 일반 고장 경고등을 사용해 이를 알리도록 했다.",
+				"sentenceSize": 248
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "13.5 조항은 전송 경로 무결성에 관해 규정했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이는 설비에 이상이 생기더라도 비상방송시스템이 제 기능을 하도록 지시했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "해당 조항에는 △VACIE와 다른 구성 요소 간 음성 경보 전송 경로 고장은 VACIE 또는 다른 음성 경보 전송 경로 정상 작동에 영향을 미치지 않을 것 △확성기 전송 경로 단락 또는 단선은 고장 발생 후에도 100초 이상 둘 이상 음성 경보 구역에 영향을 미치지 않을 것 △VACIE가 별도 전원 공급 장치와 함께 사용하도록 설계된 경우, 단락 또는 전원 중단이 다른 장치에 영향을 미치지 않아야 한다고 기술했다.",
+				"sentenceSize": 233
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "업계 관계자는 “EU는 EN54 인증 취득을 의무화했다. 비상방송설비 수입장벽인 동시에 성능 공인 역할을 한다”면서 “아프리카와 중동 국가에서는 EN54 인증을 거친 설비를 선호하고 있다. 국내에도 EN54와 같은 비상방송설비 성능 인증 시스템을 마련해야 한다”고 말했다.",
+				"sentenceSize": 152
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]해외에선 비상방송장비 성능을 어떻게 관리하나",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

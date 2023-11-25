@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326374",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "잠잠했던 '매그니베르' 랜섬웨어, 파일리스 형태로 재등장...피해속출",
+		"newsSubTitle": "",
+		"newsContent": "올해 초 기승을 부린 뒤 자취를 감췄던 매그니베르(Magniber) 랜섬웨어가 다시 등장했다.\n과거와 달리 복호화가 불가능한 파일리스 형태로 무차별 배포돼 사용자 주의가 요구된다.\n7일 안랩, 체크멀 등 보안업계 따르면 최근 매그니베르 랜섬웨어가 윈도, 플래시 등 취약점을 이용해 다시 배포되는 것으로 나타났다.\n각종 인터넷 커뮤니티 중심으로 감염 피해사례도 속출했다.\n윈도7 이용자 피해가 크다.\n매그니베르 랜섬웨어는 4월 자취를 감췄던 방식과 달리 파일리스 형태로 파일 암호화 시 사용되는 키와 벡터값이 가변적이다.\n공개키로 암호화해 공격자 개인키를 알지 못하면 복구가 어렵다.\n체크멀 관계자는 “지난달 말까지 국내서 기승을 부린 갠드크랩 랜섬웨어는 외부 C&C(Command & Control) 서버와 통신에 성공해야 암호화됐다”면서 “매그니베르 랜섬웨어는 외부 서버와 통신 없이도 암호화가 진행돼 감염 시 복호화가 사실상 불가능하다”고 말했다.\n매그니베르 랜섬웨어는 익스플로러(IE), 자바(JAVA), 플래시(Flash) 등 매그니튜드 익스플로잇킷(EK) 내 취약점을 악용한다.\n웹사이트 광고 등에 악성코드를 심는 멀버타이징 방식을 이용한다.\n웹사이트 내 드라마 다시보기 등을 이용하기 위해 광고를 본 것만으로도 매그니베르 랜섬웨어에 감염된다.\n배포된 매그니베르 랜섬웨어는 파일리스 형태다.\n사용자 PC에 별도 실행파일을 다운로드하지 않는다.\n취약점을 이용해 사용자 PC 시스템 폴더 등에 랜섬웨어 코드를 덧씌운다.\n응용소프트웨어에 랜섬웨어 코드가 삽입되기 때문에 파일 암호화뿐 아니라 PC 사용에도 오류를 일으킬 가능성이 높다.\n매그니베르 랜섬웨어는 이전 배포형태와 마찬가지로 감염 PC의 한국어 환경을 확인해 작동한다.\n공격자는 파일 암호화 후 복호화 키를 제공하는 대가로 비트코인, 대시코인을 요구한다.\n보안업계는 랜섬웨어 피해를 최소화하기 위해 각종 소프트웨어(SW)를 최신버전으로 업데이트할 것을 당부했다.\n안랩 관계자는 “파일리스 형태 랜섬웨어를 예방하기 위해 확인되지 않은 페이지 접근을 피하고 주기적 보안 업데이트를 실시해야 한다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 초 기승을 부린 뒤 자취를 감췄던 매그니베르(Magniber) 랜섬웨어가 다시 등장했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거와 달리 복호화가 불가능한 파일리스 형태로 무차별 배포돼 사용자 주의가 요구된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "7일 안랩, 체크멀 등 보안업계 따르면 최근 매그니베르 랜섬웨어가 윈도, 플래시 등 취약점을 이용해 다시 배포되는 것으로 나타났다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "각종 인터넷 커뮤니티 중심으로 감염 피해사례도 속출했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "윈도7 이용자 피해가 크다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매그니베르 랜섬웨어는 4월 자취를 감췄던 방식과 달리 파일리스 형태로 파일 암호화 시 사용되는 키와 벡터값이 가변적이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공개키로 암호화해 공격자 개인키를 알지 못하면 복구가 어렵다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "체크멀 관계자는 “지난달 말까지 국내서 기승을 부린 갠드크랩 랜섬웨어는 외부 C&C(Command & Control) 서버와 통신에 성공해야 암호화됐다”면서 “매그니베르 랜섬웨어는 외부 서버와 통신 없이도 암호화가 진행돼 감염 시 복호화가 사실상 불가능하다”고 말했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "매그니베르 랜섬웨어는 익스플로러(IE), 자바(JAVA), 플래시(Flash) 등 매그니튜드 익스플로잇킷(EK) 내 취약점을 악용한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "웹사이트 광고 등에 악성코드를 심는 멀버타이징 방식을 이용한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "웹사이트 내 드라마 다시보기 등을 이용하기 위해 광고를 본 것만으로도 매그니베르 랜섬웨어에 감염된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "배포된 매그니베르 랜섬웨어는 파일리스 형태다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "사용자 PC에 별도 실행파일을 다운로드하지 않는다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "취약점을 이용해 사용자 PC 시스템 폴더 등에 랜섬웨어 코드를 덧씌운다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "응용소프트웨어에 랜섬웨어 코드가 삽입되기 때문에 파일 암호화뿐 아니라 PC 사용에도 오류를 일으킬 가능성이 높다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "매그니베르 랜섬웨어는 이전 배포형태와 마찬가지로 감염 PC의 한국어 환경을 확인해 작동한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "공격자는 파일 암호화 후 복호화 키를 제공하는 대가로 비트코인, 대시코인을 요구한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "보안업계는 랜섬웨어 피해를 최소화하기 위해 각종 소프트웨어(SW)를 최신버전으로 업데이트할 것을 당부했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "안랩 관계자는 “파일리스 형태 랜섬웨어를 예방하기 위해 확인되지 않은 페이지 접근을 피하고 주기적 보안 업데이트를 실시해야 한다”고 덧붙였다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "잠잠했던 '매그니베르' 랜섬웨어, 파일리스 형태로 재등장...피해속출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

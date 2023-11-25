@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005294",
+		"newsCategory": "경제",
+		"newsSubcategory": "게임",
+		"newsTitle": "AI 개발 역량 강화...엔씨소프트, 이제희 서울대 교수 CRO 영입",
+		"newsSubTitle": "딥러닝·강화학습 등 AI 기술 활용한 연구 진행",
+		"newsContent": "엔시소프트가 최고연구책임자(CRO)로 이제희 부사장을 영입했다고 6일 밝혔다.\n이 CRO는 지난 2003년부터 서울대학교 컴퓨터공학부 교수로 재직해 온 컴퓨터 그래픽스 및 애니메이션 분야의 석학이다.\n특히 물리 기반 동작 제어, 데이터 기반 동작 학습 및 생성, 사실적인 인체 모델링 분야에서 세계적인 수준의 연구결과를 발표한 바 있다.\n또한 한국컴퓨터그래픽스학회 회장, 시스라프 아시아 2022 테크니컬 페이퍼스 위원장 등을 역임했다.\n엔씨는 이 CRO의 영입을 통해 인공지능(AI), 디지털 휴먼 등 차세대 첨단 기술에 대한 인적 자원 투자를 확대하고, 연구개발(R&D) 분야를 글로벌 수준으로 끌어올려 중장기 성장동력을 발굴하겠다는 방침이다.\n지난달 30일 김택진 엔씨 대표는 정기 주주총회에서 \\\"엔씨는 개발 초기 단계부터 글로벌 고객의 요구를 적극 수용하고 반영하는 오픈형 R&D 기조를 만들어 가고 있다\\\"면서 \\\"현재 최우선 목표는 더 확고한 글로벌 게임 회사로의 도약\\\"이라고 강조한 바 있다.\n엔씨 관계자는 데일리임팩트에 \\\"회사는 향후에도 R&D 관련 환경을 조성하기 위한 다양한 노력을 지속할 것\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엔시소프트가 최고연구책임자(CRO)로 이제희 부사장을 영입했다고 6일 밝혔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 CRO는 지난 2003년부터 서울대학교 컴퓨터공학부 교수로 재직해 온 컴퓨터 그래픽스 및 애니메이션 분야의 석학이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 물리 기반 동작 제어, 데이터 기반 동작 학습 및 생성, 사실적인 인체 모델링 분야에서 세계적인 수준의 연구결과를 발표한 바 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 한국컴퓨터그래픽스학회 회장, 시스라프 아시아 2022 테크니컬 페이퍼스 위원장 등을 역임했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엔씨는 이 CRO의 영입을 통해 인공지능(AI), 디지털 휴먼 등 차세대 첨단 기술에 대한 인적 자원 투자를 확대하고, 연구개발(R&D) 분야를 글로벌 수준으로 끌어올려 중장기 성장동력을 발굴하겠다는 방침이다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난달 30일 김택진 엔씨 대표는 정기 주주총회에서 \\\"엔씨는 개발 초기 단계부터 글로벌 고객의 요구를 적극 수용하고 반영하는 오픈형 R&D 기조를 만들어 가고 있다\\\"면서 \\\"현재 최우선 목표는 더 확고한 글로벌 게임 회사로의 도약\\\"이라고 강조한 바 있다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "엔씨 관계자는 데일리임팩트에 \\\"회사는 향후에도 R&D 관련 환경을 조성하기 위한 다양한 노력을 지속할 것\\\"이라고 밝혔다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세종시 상업용 38필지 다 팔렸다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

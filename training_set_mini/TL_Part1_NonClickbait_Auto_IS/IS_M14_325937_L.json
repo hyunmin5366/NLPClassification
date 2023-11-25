@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325937",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "풀무원·CJ제일제당·대상, 두부 값 일제히 인상",
+		"newsSubTitle": "",
+		"newsContent": "두부 가격이 잇달아 오를 전망이다.\n풀무원, CJ제일제당, 대상 등 식품업체들은 이달 일제히 가격을 인상하거나 조만간 올릴 예정이다.\n16일 유통업계에 따르면 국내 두부 시장 점유율 1~3위를 차지하고 있는 풀무원, CJ제일제당, 대상 등은 두부 가격 인상 방침을 결정했다.\n국내 시장점유율 1위 업체인 풀무원은 지난 10일 두부 가격을 올렸다.\n대표 제품인 부침두부 (290g)는 기존 1350원에서 7.4% 오른 1450원으로, 찌개두부(290g)는 1250원에서 8% 인상된 1350원이다.\nCJ제일제당도 수입콩 두부 가격은 평균 8% 올렸고 국산콩 두부 가격은 평균 7% 인상했다.\n종가집 두부를 판매 중인 대상도 내달 중 가격을 올릴 예정이다.\n식품업계 관계자는 “원재료인 콩 시세가 오르고 있고 인건비, 물류비 등 제반 비용 상승으로 가격을 인상했다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "두부 가격이 잇달아 오를 전망이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "풀무원, CJ제일제당, 대상 등 식품업체들은 이달 일제히 가격을 인상하거나 조만간 올릴 예정이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "16일 유통업계에 따르면 국내 두부 시장 점유율 1~3위를 차지하고 있는 풀무원, CJ제일제당, 대상 등은 두부 가격 인상 방침을 결정했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국내 시장점유율 1위 업체인 풀무원은 지난 10일 두부 가격을 올렸다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대표 제품인 부침두부 (290g)는 기존 1350원에서 7.4% 오른 1450원으로, 찌개두부(290g)는 1250원에서 8% 인상된 1350원이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CJ제일제당도 수입콩 두부 가격은 평균 8% 올렸고 국산콩 두부 가격은 평균 7% 인상했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "종가집 두부를 판매 중인 대상도 내달 중 가격을 올릴 예정이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "식품업계 관계자는 “원재료인 콩 시세가 오르고 있고 인건비, 물류비 등 제반 비용 상승으로 가격을 인상했다”고 말했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "풀무원·CJ제일제당·대상, 두부 값 일제히 인상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

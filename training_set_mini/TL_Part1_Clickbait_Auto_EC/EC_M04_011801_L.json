@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011801",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피 1870선 밀려나…하루만에 12.01p 추락",
+		"newsSubTitle": "",
+		"newsContent": "코스피가 버냉키 효과를 보지 못하고 하루 만에 1870선까지 밀렸다.\n18일 코스피 지수는 전 거래일보다 12.01포인트(0.64%) 내린 1875.48에 마감했다.\n이날 코스피 지수는 전날 벤 버냉키 미국 연준 의장이 “양적완화 정책을 유동적으로 시행하겠다”고 발언하면서 미국 증시는 상승했지만, 국내 증시엔 별다른 영향을 미치지 못했다.\n코스피 시장에서는 외국인이 6거래일 만에 1134억원을 매도에 나서면서 지수를 끌어내렸다.\n개인과 기관이 1154억원, 4억원을 각각 순매수했지만 지수 하락을 막지 못했다.\n업종별로는 하락세가 우위를 보였다.\n전기·전자업이 1.51% 내린 가운데 유통업, 금융업, 비금속광물업, 증권업 등이 1% 넘게 하락했다.\n제조업과 서비스업, 보험 등도 하락 마감했다.\n반면, 전기가스업이 2.58% 상승했고, 의약품(1.21%), 통신업(0.94%) 등은 상승했다.\n한편, 서울외환시장에서의 원·달러 환율은 글로벌 달러 강세 영향으로 전일 대비 4.7원(0.42%) 오른 1126.3원에 거래를 마쳤다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피가 버냉키 효과를 보지 못하고 하루 만에 1870선까지 밀렸다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 코스피 지수는 전 거래일보다 12.01포인트(0.64%) 내린 1875.48에 마감했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 코스피 지수는 전날 벤 버냉키 미국 연준 의장이 “양적완화 정책을 유동적으로 시행하겠다”고 발언하면서 미국 증시는 상승했지만, 국내 증시엔 별다른 영향을 미치지 못했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코스피 시장에서는 외국인이 6거래일 만에 1134억원을 매도에 나서면서 지수를 끌어내렸다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개인과 기관이 1154억원, 4억원을 각각 순매수했지만 지수 하락을 막지 못했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "업종별로는 하락세가 우위를 보였다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전기·전자업이 1.51% 내린 가운데 유통업, 금융업, 비금속광물업, 증권업 등이 1% 넘게 하락했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "제조업과 서비스업, 보험 등도 하락 마감했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "반면, 전기가스업이 2.58% 상승했고, 의약품(1.21%), 통신업(0.94%) 등은 상승했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편, 서울외환시장에서의 원·달러 환율은 글로벌 달러 강세 영향으로 전일 대비 4.7원(0.42%) 오른 1126.3원에 거래를 마쳤다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'금리 인상되나요' 대출자 불안감 상승",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

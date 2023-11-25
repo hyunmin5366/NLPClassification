@@ -1,0 +1,321 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330888",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "빅데이터로 도시문제 해결…\\\"서울 시민 삶 확 달라진다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "서울시가 빅데이터를 통해 도시문제 해결에 나선다.\n공공 서비스 전반을 혁신한다는 목표다.\n서울시는 우선 올 연말 빅데이터 기반 미세먼지 저감 시스템을 선보인다.\n공유 자전거, 장애인 콜택시와 같은 시민복지 시설에도 빅데이터 기술을 적용한다.\n빅데이터 기반 서울시를 만드는 주체는 서울디지털재단이 맡는다.\n현재 서울시설공단, 서울교통공사와 장애인 콜택시 대기시간 단축, 지하철 역사 내 공기질 관리체계 개선 사업을 펼치고 있다.\n서울 시내 장애인 콜택시 수는 487대다.\n휠체어를 실을 수 있는 차량만 포함됐다.\n이용객에 비해 숫자가 턱없이 모자란다.\n때문에 택시를 불러도 평균 1시간은 기다려야 탈 수 있다.\n서울시설공단과 올 연말까지 승객과 택시 간 최적화된 매칭 서비스를 선보일 예정이다.\n효율적 배차 알고리즘도 내놓는다.\n미세먼지 문제도 빅데이터로 해결한다.\n서울교통공사와 손잡고 지하철 역사부터 바꾼다.\n실내외 미세먼지 상관관계를 분석, 상황에 맞춰 환기 시설을 가동하는 공기질 관리 체계를 개발하고 있다.\n미세먼지 측정 시스템도 고도화한다.\n서울도시데이터사이언스연구소가 키를 잡았다.\n연구소는 서울디지털재단과 서울대 빅데이터연구원이 공동 설립한 기관이다.\n서울 시내 미세먼지측정소는 25곳이다.\n대부분 10m 이상 높이에 설치된 고정형 장치여서 측정치와 시민 체감도 간 격차가 있다는 지적을 받아왔다.\n연구소는 미세먼지, 초미세먼지 측정 센서에 온·습도 센서를 결합했다.\n환경에 따른 미세먼지 변화를 잴 수 있다.\n서울시 대중교통에 부착해 일상생활 속 미세먼지 정보를 모을 구상이다.\n김은영 서울디지털재단 팀장은 “이 같은 시도를 통해 보다 세밀한 영역에서의 미세먼지가 시간대별로 축적될 것”이라며 “미세먼지 정보와 온·습도 정보, 계절·시간적 요인이 결합해 분석된다면 미세먼지 원인과 예방대책을 수립하는데 유용하다”고 말했다.\n서울디지털재단은 연구소와 빅데이터 전문가도 육성한다.\n미세먼지를 포함한 7개 과제를 지난해부터 수행 중이다.\n올해 5개 과제를 추가했다.\n서울시 공유 자전거 브랜드 '따릉이'도 시민 곁으로 한 걸음 더 다가간다.\n대여소별 적정 재고량을 산출, 자전거거치 알고리즘을 개발한다.\n현재 자전거 대여, 반납현황 데이터를 분석하고 있다.\n여의도 일대를 대상으로 올 가을까지 데이터 기반 따릉이 재배치 알고리즘을 시범 적용한다.\n결과에 따라 서울 전역으로 확대할 계획이다.\n이정우 서울디지털재단 팀장은 “데이터 기반 스타트업을 키우고 있다”며 “서울시가 스마트시티로 발돋움하는 데 스타트업 아이디어가 적극 반영될 것”이라고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 33,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울시가 빅데이터를 통해 도시문제 해결에 나선다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공공 서비스 전반을 혁신한다는 목표다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서울시는 우선 올 연말 빅데이터 기반 미세먼지 저감 시스템을 선보인다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공유 자전거, 장애인 콜택시와 같은 시민복지 시설에도 빅데이터 기술을 적용한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "빅데이터 기반 서울시를 만드는 주체는 서울디지털재단이 맡는다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 서울시설공단, 서울교통공사와 장애인 콜택시 대기시간 단축, 지하철 역사 내 공기질 관리체계 개선 사업을 펼치고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서울 시내 장애인 콜택시 수는 487대다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "휠체어를 실을 수 있는 차량만 포함됐다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이용객에 비해 숫자가 턱없이 모자란다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "때문에 택시를 불러도 평균 1시간은 기다려야 탈 수 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "서울시설공단과 올 연말까지 승객과 택시 간 최적화된 매칭 서비스를 선보일 예정이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "효율적 배차 알고리즘도 내놓는다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "미세먼지 문제도 빅데이터로 해결한다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "서울교통공사와 손잡고 지하철 역사부터 바꾼다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "실내외 미세먼지 상관관계를 분석, 상황에 맞춰 환기 시설을 가동하는 공기질 관리 체계를 개발하고 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "미세먼지 측정 시스템도 고도화한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "서울도시데이터사이언스연구소가 키를 잡았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "연구소는 서울디지털재단과 서울대 빅데이터연구원이 공동 설립한 기관이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "서울 시내 미세먼지측정소는 25곳이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "대부분 10m 이상 높이에 설치된 고정형 장치여서 측정치와 시민 체감도 간 격차가 있다는 지적을 받아왔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "연구소는 미세먼지, 초미세먼지 측정 센서에 온·습도 센서를 결합했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "환경에 따른 미세먼지 변화를 잴 수 있다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "서울시 대중교통에 부착해 일상생활 속 미세먼지 정보를 모을 구상이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "김은영 서울디지털재단 팀장은 “이 같은 시도를 통해 보다 세밀한 영역에서의 미세먼지가 시간대별로 축적될 것”이라며 “미세먼지 정보와 온·습도 정보, 계절·시간적 요인이 결합해 분석된다면 미세먼지 원인과 예방대책을 수립하는데 유용하다”고 말했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "서울디지털재단은 연구소와 빅데이터 전문가도 육성한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "미세먼지를 포함한 7개 과제를 지난해부터 수행 중이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "올해 5개 과제를 추가했다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "서울시 공유 자전거 브랜드 '따릉이'도 시민 곁으로 한 걸음 더 다가간다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "대여소별 적정 재고량을 산출, 자전거거치 알고리즘을 개발한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "현재 자전거 대여, 반납현황 데이터를 분석하고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "여의도 일대를 대상으로 올 가을까지 데이터 기반 따릉이 재배치 알고리즘을 시범 적용한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "결과에 따라 서울 전역으로 확대할 계획이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "이정우 서울디지털재단 팀장은 “데이터 기반 스타트업을 키우고 있다”며 “서울시가 스마트시티로 발돋움하는 데 스타트업 아이디어가 적극 반영될 것”이라고 강조했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빅데이터로 도시문제 해결…\\\"서울 시민 삶 확 달라진다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

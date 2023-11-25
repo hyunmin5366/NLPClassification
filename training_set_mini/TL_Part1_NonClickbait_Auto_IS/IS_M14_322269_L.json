@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322269",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "인피니언, 650V SiC 반도체 신제품 출시",
+		"newsSubTitle": "",
+		"newsContent": "인피니언 테크놀로지스는 실리콘카바이드(SiC) 반도체 신제품을 출시했다고 5일 밝혔다.\n기존 600V 전력대 SiC 제품에 650V용 8개 제품을 추가했다.\nSiC는 차세대 반도체 소재로 각광받는다.\n기존 실리콘보다 크기를 5분의 1가량 줄일 수 있고, 에너지 효율은 20%가량 줄일 수 있는 것이 특징이다.\n전력 변환(스위치)도 실리콘 반도체보다 빠르다.\nSiC 반도체는 고압과 고열을 견뎌내야 하는 전력 반도체 분야에서 각광받고 있다.\n이번 650V 제품도 고성능 서버, 통신, 태양광 에너지 시스템, 에너지 저장 장치 등에 활용될 것으로 보인다.\n인피니언 관계자는 “CoolSiC 650V 제품으로 600V, 650V 전력대 실리콘, SiC, 갈륨 나이트라이드 기반 전력 반도체 제품군을 완성했다”며 “산업용 SiC 모스펫 스위치 1위 공급업체로 앞서나갈 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인피니언 테크놀로지스는 실리콘카바이드(SiC) 반도체 신제품을 출시했다고 5일 밝혔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기존 600V 전력대 SiC 제품에 650V용 8개 제품을 추가했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SiC는 차세대 반도체 소재로 각광받는다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 실리콘보다 크기를 5분의 1가량 줄일 수 있고, 에너지 효율은 20%가량 줄일 수 있는 것이 특징이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전력 변환(스위치)도 실리콘 반도체보다 빠르다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SiC 반도체는 고압과 고열을 견뎌내야 하는 전력 반도체 분야에서 각광받고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 650V 제품도 고성능 서버, 통신, 태양광 에너지 시스템, 에너지 저장 장치 등에 활용될 것으로 보인다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인피니언 관계자는 “CoolSiC 650V 제품으로 600V, 650V 전력대 실리콘, SiC, 갈륨 나이트라이드 기반 전력 반도체 제품군을 완성했다”며 “산업용 SiC 모스펫 스위치 1위 공급업체로 앞서나갈 것”이라고 말했다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인피니언, 650V SiC 반도체 신제품 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

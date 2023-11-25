@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327614",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "LG전자 “팬택 인수 검토한 적 없다”",
+		"newsSubTitle": "",
+		"newsContent": "LG전자가 팬택 인수설을 공식 부인했다.\nLG전자는 8일 \\\"팬택 인수에 대해 검토한 사실이 없다\\\"고 공시했다.\n이날 오전 한국거래소의 조회공시 요구에 따른 답변이다.\n코스닥 상장사 쏠리드도 팬택 인수 보도 관련 해명 공시를 통해 \\\"LG전자의 팬택 인수 추진 관련 기사는 사실무근\\\"이라고 밝혔다.\n쏠리드는 회생 절차 중이던 팬택을 인수한 업체다.\nLG전자의 팬택 인수설이 나오자 쏠리드 주가는 장중 한 때 전일보다 25.09% 오른 주당 3165원까지 급등했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG전자가 팬택 인수설을 공식 부인했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG전자는 8일 \\\"팬택 인수에 대해 검토한 사실이 없다\\\"고 공시했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 오전 한국거래소의 조회공시 요구에 따른 답변이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코스닥 상장사 쏠리드도 팬택 인수 보도 관련 해명 공시를 통해 \\\"LG전자의 팬택 인수 추진 관련 기사는 사실무근\\\"이라고 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "쏠리드는 회생 절차 중이던 팬택을 인수한 업체다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LG전자의 팬택 인수설이 나오자 쏠리드 주가는 장중 한 때 전일보다 25.09% 오른 주당 3165원까지 급등했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG전자 “팬택 인수 검토한 적 없다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

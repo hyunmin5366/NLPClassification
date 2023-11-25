@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350592",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "네이버파이낸셜 \\\"스마트스토어 주문서비스 수수료 줄입니다\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "네이버파이낸셜이 중소상공인의 수수료 부담을 줄이기 위해 오는 31일부터 스마트스토어 사업자의 주문관리서비스 수수료율 체계를 단순화한다고 2일 밝혔다.\n주문관리서비스는 결제대행(PG)부터 판매관리·배송추적·고객관리·마케팅·매출분석 등 전자상거래 사업 전반에 필요한 모든 서비스를 제공하는 통합 시스템이다.\n그동안 네이버는 결제수단별로 주문관리서비스 수수료율을 달리 적용해왔으나, 31일부터 △연매출 3억원 이하 영세 사업자는 2% △30억원 이상 일반사업자는 3.3%로 단일화된다.\n그 사이 중소사업자는 매출 규모에 따라 △2.5% △2.6% △2.8% 수수료율이 적용된다.\n네이버는 이번 수수료율 체계 개편으로 사업자의 비용 예측도가 높아질 것으로 예상했다.\n또 카드 결제에만 적용됐던 영세·중소사업자 우대가 포인트 결제로도 확대돼 매출 규모가 작은 사업자들일수록 비용 절감 효과가 클 것으로 내다봤다.\n최진우 네이버파이낸셜 총괄은 \\\"스마트스토어 주문관리서비스는 스마트스토어 사업자만을 위한 다양한 시스템을 함께 제공하면서 이커머스 업계 최저 수수료를 제공해왔다\\\"며 \\\"이번 개편으로 사업자들의 부담이 더 낮아질 것으로 예상하고 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버파이낸셜이 중소상공인의 수수료 부담을 줄이기 위해 오는 31일부터 스마트스토어 사업자의 주문관리서비스 수수료율 체계를 단순화한다고 2일 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주문관리서비스는 결제대행(PG)부터 판매관리·배송추적·고객관리·마케팅·매출분석 등 전자상거래 사업 전반에 필요한 모든 서비스를 제공하는 통합 시스템이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그동안 네이버는 결제수단별로 주문관리서비스 수수료율을 달리 적용해왔으나, 31일부터 △연매출 3억원 이하 영세 사업자는 2% △30억원 이상 일반사업자는 3.3%로 단일화된다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그 사이 중소사업자는 매출 규모에 따라 △2.5% △2.6% △2.8% 수수료율이 적용된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버는 이번 수수료율 체계 개편으로 사업자의 비용 예측도가 높아질 것으로 예상했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 카드 결제에만 적용됐던 영세·중소사업자 우대가 포인트 결제로도 확대돼 매출 규모가 작은 사업자들일수록 비용 절감 효과가 클 것으로 내다봤다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최진우 네이버파이낸셜 총괄은 \\\"스마트스토어 주문관리서비스는 스마트스토어 사업자만을 위한 다양한 시스템을 함께 제공하면서 이커머스 업계 최저 수수료를 제공해왔다\\\"며 \\\"이번 개편으로 사업자들의 부담이 더 낮아질 것으로 예상하고 있다\\\"고 말했다.",
+				"sentenceSize": 138
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버파이낸셜 \\\"스마트스토어 주문서비스 수수료 줄입니다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329346",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]갤럭시S10 5G, 내달 16일 미국 상륙... 버라이즌 예약접수 개시",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자 갤럭시S10 5G가 다음달 16일 미국에 출격한다.\n출고가는 256GB 모델 기준 1299.99달러(약 151만원)로 국내보다 10만원가량 높게 책정됐다.\n25일(현지시간) 버라이즌은 내달 15일까지 갤럭시S10 5G 예약판매를 실시한다고 밝혔다.\n버라이즌은 앞서 시카고와 미니애폴리스에서 모토로라 4G 스마트폰 '모토Z3'에 5G 모뎀칩을 탑재한 별도 모듈을 결합해 사용하는 단말로 5G 서비스를 상용화했다.\n한국과 세계 최초 상용화 타이틀을 두고 첩보전을 방불케 하는 경쟁을 펼쳤으나 서비스 지역이 제한적인데다 완전한 5G 단말이 아니라 의미가 퇴색됐다.\n버라이즌은 미국 내 제대로 된 첫 5G 단말로 갤럭시S10 5G를 선보이며 5G 시장 확장에 박차를 가할 계획이다.\n연내 5G 서비스 지역도 20곳 확장한다.\n애틀랜타, 보스턴, 샬럿, 신시내티, 클리블랜드, 콜럼버스, 댈러스, 디모인, 덴버, 디트로이트, 휴스턴, 인디애나폴리스, 캔자스시티, 리틀록, 멤피스, 피닉스, 프로비던스, 샌디에이고, 솔트레이크시티, 워싱턴DC 등이 대상 지역으로 거론된다.\n미국 내 갤럭시S10 출고가는 256GB 모델 1299.99달러, 512GB 모델 1399.99달러다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자 갤럭시S10 5G가 다음달 16일 미국에 출격한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "출고가는 256GB 모델 기준 1299.99달러(약 151만원)로 국내보다 10만원가량 높게 책정됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "25일(현지시간) 버라이즌은 내달 15일까지 갤럭시S10 5G 예약판매를 실시한다고 밝혔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "버라이즌은 앞서 시카고와 미니애폴리스에서 모토로라 4G 스마트폰 '모토Z3'에 5G 모뎀칩을 탑재한 별도 모듈을 결합해 사용하는 단말로 5G 서비스를 상용화했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국과 세계 최초 상용화 타이틀을 두고 첩보전을 방불케 하는 경쟁을 펼쳤으나 서비스 지역이 제한적인데다 완전한 5G 단말이 아니라 의미가 퇴색됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "버라이즌은 미국 내 제대로 된 첫 5G 단말로 갤럭시S10 5G를 선보이며 5G 시장 확장에 박차를 가할 계획이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연내 5G 서비스 지역도 20곳 확장한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "애틀랜타, 보스턴, 샬럿, 신시내티, 클리블랜드, 콜럼버스, 댈러스, 디모인, 덴버, 디트로이트, 휴스턴, 인디애나폴리스, 캔자스시티, 리틀록, 멤피스, 피닉스, 프로비던스, 샌디에이고, 솔트레이크시티, 워싱턴DC 등이 대상 지역으로 거론된다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "미국 내 갤럭시S10 출고가는 256GB 모델 1299.99달러, 512GB 모델 1399.99달러다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]갤럭시S10 5G, 내달 16일 미국 상륙... 버라이즌 예약접수 개시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

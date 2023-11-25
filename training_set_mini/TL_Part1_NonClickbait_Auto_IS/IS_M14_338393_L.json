@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338393",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "KT, 실제 도로에서 5G-V2X 기술 실증",
+		"newsSubTitle": "",
+		"newsContent": "KT가 실제 도로에서 5G-V2X(차량사물간 양방향 통신) 기술을 실증했다.\nKT는 서울 강북지역에서 5G-V2X 단말기를 차량에 장착해 전방추돌 경고, 보행자 경고 등 시나리오를 검증했다고 17일 밝혔다.\n차량은 5G 네트워크를 통해 C-ITS(차세대 지능형 교통시스템) 플랫폼과 연결해 주행에 필요한 교통정보를 전달받았다.\n5G-V2X 기술 실증은 기가코리아 사업단 자율주행 실증 과제 일환으로 KT는 기술 개발을 위해 아이티텔레콤과 협력하고 있다.\n연내 실증을 마무리하고 2020년 서울, 대구, 판교 3개 지역에서 자율주행 서비스와 결합한 실증을 할 예정이다.\n앞서 KT는 국내 최초로 C-V2X 차량단말기를 개발했고 자율주행에 5G를 결합해 안전한 자율주행기술을 개발 중이다.\n이선우 KT 인프라연구소장은 “5G-V2X 기술 실증은 KT가 자율주행 시대를 대비해 지속적으로 개발한 결과물을 검증하는 단계”라며 “앞으로 5G-V2X, 자율주행, C-ITS 플랫폼 등 핵심 기술을 바탕으로 다양한 실증사업에 적용해 기술력을 증명, 미래 차량 서비스 청사진을 제시할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 실제 도로에서 5G-V2X(차량사물간 양방향 통신) 기술을 실증했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT는 서울 강북지역에서 5G-V2X 단말기를 차량에 장착해 전방추돌 경고, 보행자 경고 등 시나리오를 검증했다고 17일 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "차량은 5G 네트워크를 통해 C-ITS(차세대 지능형 교통시스템) 플랫폼과 연결해 주행에 필요한 교통정보를 전달받았다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "5G-V2X 기술 실증은 기가코리아 사업단 자율주행 실증 과제 일환으로 KT는 기술 개발을 위해 아이티텔레콤과 협력하고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연내 실증을 마무리하고 2020년 서울, 대구, 판교 3개 지역에서 자율주행 서비스와 결합한 실증을 할 예정이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 KT는 국내 최초로 C-V2X 차량단말기를 개발했고 자율주행에 5G를 결합해 안전한 자율주행기술을 개발 중이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이선우 KT 인프라연구소장은 “5G-V2X 기술 실증은 KT가 자율주행 시대를 대비해 지속적으로 개발한 결과물을 검증하는 단계”라며 “앞으로 5G-V2X, 자율주행, C-ITS 플랫폼 등 핵심 기술을 바탕으로 다양한 실증사업에 적용해 기술력을 증명, 미래 차량 서비스 청사진을 제시할 것”이라고 말했다.",
+				"sentenceSize": 169
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 실제 도로에서 5G-V2X 기술 실증",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326168",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "중성자·알파 입자가 소프트에러 유발… 차 반도체 업계 대응 세미나 개최",
+		"newsSubTitle": "",
+		"newsContent": "중성자와 알파 입자로 인한 반도체의 소프트 에러 발생, 이에 따른 자동차 기능안전 이슈와 해결 방안을 짚어보는 세미나가 국내에서 처음 열린다.\n전자부품 신뢰성 검증 업체 큐알티는 19일 광교 테크노밸리 내 나노기술원에서 자동차 기능안전 국제표준인 ISO 26262 관련 세미나를 개최한다고 밝혔다.\n이날 세미나 주제는 '반도체 소프트 에러'다.\n외계에서 들어온 중성자 입자, 솔더볼 등 반도체 재료에서 방사되는 고에너지 알파 입자는 반도체에 영향을 미쳐 소프트 에러를 일으킨다.\n신호를 전달하는 핀 접촉이 제대로 되지 않는 등 이른바 물리적 에러는 고장 상태가 지속되고 그 원인도 쉽게 찾을 수 있다.\n하지만 소프트 에러는 로직 값이 일시적으로만 바뀌고 전원을 껐다 켜면 다시 원상태로 돌아오므로 고장 증거를 찾기가 쉽지 않다.\n인텔 조사 자료에 따르면 반도체 소프트 에러는 다른 모든 고장을 전부 합친 값보다 훨씬 많은 70% 비중에 이른다.\n중성자 입자에 따른 소프트 에러는 공정 노드가 축소될수록 많아진다.\n또 셀 디자인 등 반도체 설계가 변경됐을 때 영향율이 변화한다.\n알파 입자도 반도체 칩 재료, 소재가 바뀔 때 영향율이 변하므로 재점검이 필요하다.\n차량 전자장치 오류로 인한 사고를 방지하기 위해 2011년 11월에 제정된 국제 표준 ISO 26262에선 이러한 소프트 에러에 대한 규정이 존재한다.\n소프트 에러율이 어느 정도인지 측정하고, 그 정도에 따라 안전 등급이 매겨진다.\n내년 새롭게 발효되는 제2판에선 반도체 내용도 포함된다.\n최고 등급인 ASIL(Automotive Safety Integrity Level) D를 받으려면 10FITs(Failure In Time, 10FITs는 10억 시간당 10번 고장)의 낮은 소프트 에러율을 달성해야만 한다.\n그러나 아직 국내 반도체 업계는 소프트 에러에 관한 인식이 낮은 실정이다.\n큐알티는 ISO 26262가 규정한 소프트 에러율 정의 규정과 소프트오류 완화 기술을 소개한다.\n완화 기술로는 에러코드정정(ECC), 감지 기술, 또는 듀얼코어(하나가 죽어도 하나가 제대로 동작) 설계 등이 있다.\n정성수 큐알티 최고기술책임자는 “차량용 반도체는 사소한 소프트 에러로도 생명에 위험을 주는 사고로 이어질 수 있다”면서 “아직 국내 차량 반도체 업계에선 소프트에러 대응과 정보가 크게 부족한 실정으로 이번 세미나를 통해 관련 내용을 제대로 알리겠다”고 말했다.\n세미나 참가비는 무료다.\n중식과 발표자료가 제공된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중성자와 알파 입자로 인한 반도체의 소프트 에러 발생, 이에 따른 자동차 기능안전 이슈와 해결 방안을 짚어보는 세미나가 국내에서 처음 열린다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전자부품 신뢰성 검증 업체 큐알티는 19일 광교 테크노밸리 내 나노기술원에서 자동차 기능안전 국제표준인 ISO 26262 관련 세미나를 개최한다고 밝혔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 세미나 주제는 '반도체 소프트 에러'다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "외계에서 들어온 중성자 입자, 솔더볼 등 반도체 재료에서 방사되는 고에너지 알파 입자는 반도체에 영향을 미쳐 소프트 에러를 일으킨다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신호를 전달하는 핀 접촉이 제대로 되지 않는 등 이른바 물리적 에러는 고장 상태가 지속되고 그 원인도 쉽게 찾을 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 소프트 에러는 로직 값이 일시적으로만 바뀌고 전원을 껐다 켜면 다시 원상태로 돌아오므로 고장 증거를 찾기가 쉽지 않다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인텔 조사 자료에 따르면 반도체 소프트 에러는 다른 모든 고장을 전부 합친 값보다 훨씬 많은 70% 비중에 이른다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "중성자 입자에 따른 소프트 에러는 공정 노드가 축소될수록 많아진다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 셀 디자인 등 반도체 설계가 변경됐을 때 영향율이 변화한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "알파 입자도 반도체 칩 재료, 소재가 바뀔 때 영향율이 변하므로 재점검이 필요하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "차량 전자장치 오류로 인한 사고를 방지하기 위해 2011년 11월에 제정된 국제 표준 ISO 26262에선 이러한 소프트 에러에 대한 규정이 존재한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "소프트 에러율이 어느 정도인지 측정하고, 그 정도에 따라 안전 등급이 매겨진다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "내년 새롭게 발효되는 제2판에선 반도체 내용도 포함된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "최고 등급인 ASIL(Automotive Safety Integrity Level) D를 받으려면 10FITs(Failure In Time, 10FITs는 10억 시간당 10번 고장)의 낮은 소프트 에러율을 달성해야만 한다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "그러나 아직 국내 반도체 업계는 소프트 에러에 관한 인식이 낮은 실정이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "큐알티는 ISO 26262가 규정한 소프트 에러율 정의 규정과 소프트오류 완화 기술을 소개한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "완화 기술로는 에러코드정정(ECC), 감지 기술, 또는 듀얼코어(하나가 죽어도 하나가 제대로 동작) 설계 등이 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "정성수 큐알티 최고기술책임자는 “차량용 반도체는 사소한 소프트 에러로도 생명에 위험을 주는 사고로 이어질 수 있다”면서 “아직 국내 차량 반도체 업계에선 소프트에러 대응과 정보가 크게 부족한 실정으로 이번 세미나를 통해 관련 내용을 제대로 알리겠다”고 말했다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "세미나 참가비는 무료다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "중식과 발표자료가 제공된다.",
+				"sentenceSize": 15
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중성자·알파 입자가 소프트에러 유발… 차 반도체 업계 대응 세미나 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014525",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "정부, 올 경제성장률 전망치 3.1% 하향 조정",
+		"newsSubTitle": "",
+		"newsContent": "정부가 올해 경제성장률 전망치를 기존의 3.8%에서 3.1%로 하향 조정했다.\n소비자물가 상승률도 2.0%에서 0.7%로 낮췄다.\n25일 기획재정부가 발표한 ‘2015년 하반기 경제전망’을 보면, 저유가ㆍ저금리의 효과가 본격화되고 재정보강과 같은 정책효과 등으로 내수 회복세가 강화되면서 올해 연간 3.1% 성장이 예상된다.\n또한, 소비자물가는 기상변화 등으로 농ㆍ축ㆍ수산물의 불안요인이 있으나, 유가 등 공급 측 요인의 안정세가 이어지면서 연간 0.7% 상승할 것으로 보인다.\n일자리 전망은 경기 개선과 함께 정부의 일자리 창출 노력 등에 힘입어 취업자가 40만명 내외로 증가할 것으로 예상된다.\n특히, 15~64세 고용률은 지난해보다 0.7%p 수준 개선된 66.0%에 이를 전망이다.\n이외에도 경상수지는 수출이 점차 회복하는 가운데, 유가 하락 등의 영향으로 수입이 크게 감소하면서 940억 달러 흑자가 예상된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부가 올해 경제성장률 전망치를 기존의 3.8%에서 3.1%로 하향 조정했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소비자물가 상승률도 2.0%에서 0.7%로 낮췄다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "25일 기획재정부가 발표한 ‘2015년 하반기 경제전망’을 보면, 저유가ㆍ저금리의 효과가 본격화되고 재정보강과 같은 정책효과 등으로 내수 회복세가 강화되면서 올해 연간 3.1% 성장이 예상된다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한, 소비자물가는 기상변화 등으로 농ㆍ축ㆍ수산물의 불안요인이 있으나, 유가 등 공급 측 요인의 안정세가 이어지면서 연간 0.7% 상승할 것으로 보인다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일자리 전망은 경기 개선과 함께 정부의 일자리 창출 노력 등에 힘입어 취업자가 40만명 내외로 증가할 것으로 예상된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히, 15~64세 고용률은 지난해보다 0.7%p 수준 개선된 66.0%에 이를 전망이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이외에도 경상수지는 수출이 점차 회복하는 가운데, 유가 하락 등의 영향으로 수입이 크게 감소하면서 940억 달러 흑자가 예상된다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국철도 부사장 대행 돌입… 새 수장 선출에 쏠린 눈",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

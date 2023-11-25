@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349885",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "iOS 이용자 1.3억명 악성코드 감염…애플, 나몰라라 했다",
+		"newsSubTitle": "null",
+		"newsContent": "애플이 앱스토어 내 일부 앱이 멀웨어(악성코드)에 감염된 것을 알았으면서도 iOS(아이폰운영체제) 이용자에게 어떤 공지도 하지 않은 사실이 드러났다.\n감염된 앱 이용자는 약 1억 2800만 명으로 애플 사상 최대 규모였던 것으로 나타났다.\n7일(현지시각) 외신 나인투파이브맥은 2015년 애플이 앱스토어에 등록된 약 2500여개의 앱이 멀웨어에 감염된 것을 알았으면서도 이용자에게 어떤 공지도 하지 않았다고 전했다.\n이 같은 사실은 지난주 열린 에픽과 애플 간 앱스토어 독점 소송에서 공개된 내부 이메일을 통해 알려졌다.\n공개된 이메일에 따르면 2500여 개 악성 앱은 총 1억2800만 명 이용자를 통해 2억300만건 다운로드 됐다.\n애플은 이 같은 상황을 인지하고 담당자에게 관련 사실을 공지할지에 대해 논의했지만, 최종적으로 알리지 않은 것으로 확인됐다.\n멀웨어 감염이 여러 국가에서 발생한 탓에 각 국가 언어로 바꾸는 데 따른 어려움과 워낙 대규모라 이메일 전송에만 일주일이 소요되면서 무산된 것으로 전해진다.\n당시 멀웨어 감염은 개발자들이 iOS 개발 도구인 엑스코드(Xcode)를 애플 정식 사이트에서 받지 않으면서 발생했다.\n복제된 엑스코드를 통해 앱이 만들어지면서 멀웨어가 자동으로 심어진 것이다.\n이렇게 만들어진 앱은 애플의 코드 검토 과정을 통과했고 iOS 이용자에게 배포됐다.\n당시 인기 게임 '앵그리버즈2'도 영향을 받았다. '엑스코드고스트'로 불리는 이 악성 코드는 사용자 기기 정보를 비롯해 네트워크 관련 정보까지 빼내도록 설계된 것으로 전해진다.\n애플은 멀웨어가 확인되자마자 개발자에게 앱을 다시 만들도록 요구했고, 이후 앱스토어에 앱이 제출될 때 엑스코드 설치 과정 보안과 멀웨어 검사를 모두 강화했다.\nIT매체 아스테크니카는 \\\"그동안 애플이 앱스토어 내에서 강력한 통제를 한 것은 이용자 보안을 강화하기 위한 것이라고 설명했지만, 악성 앱을 다운로드한 이용자들에게 제때 공지조차 안 해 준 것은 애플의 '보안 우선' 주장의 설득력을 약화시키는 처사\\\"라고 지적했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 앱스토어 내 일부 앱이 멀웨어(악성코드)에 감염된 것을 알았으면서도 iOS(아이폰운영체제) 이용자에게 어떤 공지도 하지 않은 사실이 드러났다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "감염된 앱 이용자는 약 1억 2800만 명으로 애플 사상 최대 규모였던 것으로 나타났다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "7일(현지시각) 외신 나인투파이브맥은 2015년 애플이 앱스토어에 등록된 약 2500여개의 앱이 멀웨어에 감염된 것을 알았으면서도 이용자에게 어떤 공지도 하지 않았다고 전했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 같은 사실은 지난주 열린 에픽과 애플 간 앱스토어 독점 소송에서 공개된 내부 이메일을 통해 알려졌다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개된 이메일에 따르면 2500여 개 악성 앱은 총 1억2800만 명 이용자를 통해 2억300만건 다운로드 됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "애플은 이 같은 상황을 인지하고 담당자에게 관련 사실을 공지할지에 대해 논의했지만, 최종적으로 알리지 않은 것으로 확인됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "멀웨어 감염이 여러 국가에서 발생한 탓에 각 국가 언어로 바꾸는 데 따른 어려움과 워낙 대규모라 이메일 전송에만 일주일이 소요되면서 무산된 것으로 전해진다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "당시 멀웨어 감염은 개발자들이 iOS 개발 도구인 엑스코드(Xcode)를 애플 정식 사이트에서 받지 않으면서 발생했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "복제된 엑스코드를 통해 앱이 만들어지면서 멀웨어가 자동으로 심어진 것이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이렇게 만들어진 앱은 애플의 코드 검토 과정을 통과했고 iOS 이용자에게 배포됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "당시 인기 게임 '앵그리버즈2'도 영향을 받았다. '엑스코드고스트'로 불리는 이 악성 코드는 사용자 기기 정보를 비롯해 네트워크 관련 정보까지 빼내도록 설계된 것으로 전해진다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "애플은 멀웨어가 확인되자마자 개발자에게 앱을 다시 만들도록 요구했고, 이후 앱스토어에 앱이 제출될 때 엑스코드 설치 과정 보안과 멀웨어 검사를 모두 강화했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "IT매체 아스테크니카는 \\\"그동안 애플이 앱스토어 내에서 강력한 통제를 한 것은 이용자 보안을 강화하기 위한 것이라고 설명했지만, 악성 앱을 다운로드한 이용자들에게 제때 공지조차 안 해 준 것은 애플의 '보안 우선' 주장의 설득력을 약화시키는 처사\\\"라고 지적했다.",
+				"sentenceSize": 148
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "iOS 이용자 1.3억명 악성코드 감염…애플, 나몰라라 했다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328483",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "SW개발사 노리는 공급망 공격 '주의'",
+		"newsSubTitle": "",
+		"newsContent": "주요 소프트웨어(SW) 개발 단계에 악성코드를 몰래 숨기는 '공급망 공격(Supply Chain Attack)' 주의보가 내렸다.\n한국인터넷진흥원(KISA 원장 백기승)은 최근 국내 SW 개발사를 대상으로 제작 단계에서 설치 파일 변조 침해사고가 확인돼 주의를 당부했다.\n해당 SW를 설치한 기업을 노린 공급망 공격이다.\n공급망 공격이란 기업이나 기관에 SW나 하드웨어(HW)를 공급하는 과정에 침투해 제품을 악의적으로 변조하거나 내부에 악성코드를 숨기는 형태다.\n카스퍼스키랩은 최근 세계 수백 개 대기업이 사용하는 넷사랑 서버 관리 SW에 백도어가 설치된 것을 발견했다.\n백도어는 공격자가 추가로 악성모듈을 다운로드하거나 데이터를 훔치는 데 쓰인다.\n해당 서버 관리 SW는 금융, 교육, 통신, 제조, 에너지, 교통 등 다양한 고객이 사용 중이었다.\n카스퍼스키랩 조사 결과 해당 SW 최신 버전 내부에 악성 모듈이 숨겨져 있었다.\n감염된 SW 업데이트가 설치된 후 악성모듈이 명령&제어(C&C) 서버 특정 도메인으로 8시간에 한 번씩 감염된 시스템 정보를 보냈다.\n해커 지시에 따라 백도어 플랫폼이 악성코드를 추가로 다운로드할 수 있었다.\n랜섬웨어 등을 내려 보냈다면 세계 서버에 저장된 내용이 암호화되는 대형 사건이 될 가능성이 컸다.\n공격자는 SW 빌드단계와 관련된 서버를 해킹 한 후 악성코드를 삽입했다.\n개발사가 제품을 패키징(컴파일)할 때 정상 파일에 악성모듈이 들어가 배포됐다.\nKISA는 국내 SW개발사에 개발환경 내부 보안 강화를 주문했다.\nSW개발 과정과 관련된 개발자PC, 빌드서버, 형상관리(SVN) 서버 등 시스템에서 원격관리프로그램 접속 이력을 점검해야 한다.\n원격데스크톱과 팀뷰어 등이 불필요할 때는 삭제하고 서비스를 중지한다.\n비밀번호 관리 강화도 시급하다.\n개발사는 공용 비밀번호를 사용하지 않는다.\n주기적으로 비밀번호를 변경하고 유추가 어려운 형태로 만든다.\n개발환경은 외부와 인터넷을 차단해 운영한다.\n공급망 공격은 여파가 크다. 2013년 미국 유통회사 타깃(Target)을 비롯해 홈디포 고객 정보 유출사고 역시 공급망공격이었다.\n임종인 고려대 정보보호대학원 교수는 “공급망 보안 필요성은 이미 걸프전 이후 인식됐다”면서 “당시 미국은 이라크에 수출하는 프린터에 NSA가 개발한 악성코드를 숨겼다”고 말했다.\n그는 “SW와 HW를 도입하는 기관이나 기업은 공급망 보안에 신경 써야 한다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "주요 소프트웨어(SW) 개발 단계에 악성코드를 몰래 숨기는 '공급망 공격(Supply Chain Attack)' 주의보가 내렸다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국인터넷진흥원(KISA 원장 백기승)은 최근 국내 SW 개발사를 대상으로 제작 단계에서 설치 파일 변조 침해사고가 확인돼 주의를 당부했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 SW를 설치한 기업을 노린 공급망 공격이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공급망 공격이란 기업이나 기관에 SW나 하드웨어(HW)를 공급하는 과정에 침투해 제품을 악의적으로 변조하거나 내부에 악성코드를 숨기는 형태다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카스퍼스키랩은 최근 세계 수백 개 대기업이 사용하는 넷사랑 서버 관리 SW에 백도어가 설치된 것을 발견했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "백도어는 공격자가 추가로 악성모듈을 다운로드하거나 데이터를 훔치는 데 쓰인다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해당 서버 관리 SW는 금융, 교육, 통신, 제조, 에너지, 교통 등 다양한 고객이 사용 중이었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카스퍼스키랩 조사 결과 해당 SW 최신 버전 내부에 악성 모듈이 숨겨져 있었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "감염된 SW 업데이트가 설치된 후 악성모듈이 명령&제어(C&C) 서버 특정 도메인으로 8시간에 한 번씩 감염된 시스템 정보를 보냈다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "해커 지시에 따라 백도어 플랫폼이 악성코드를 추가로 다운로드할 수 있었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "랜섬웨어 등을 내려 보냈다면 세계 서버에 저장된 내용이 암호화되는 대형 사건이 될 가능성이 컸다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "공격자는 SW 빌드단계와 관련된 서버를 해킹 한 후 악성코드를 삽입했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "개발사가 제품을 패키징(컴파일)할 때 정상 파일에 악성모듈이 들어가 배포됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "KISA는 국내 SW개발사에 개발환경 내부 보안 강화를 주문했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "SW개발 과정과 관련된 개발자PC, 빌드서버, 형상관리(SVN) 서버 등 시스템에서 원격관리프로그램 접속 이력을 점검해야 한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "원격데스크톱과 팀뷰어 등이 불필요할 때는 삭제하고 서비스를 중지한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "비밀번호 관리 강화도 시급하다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "개발사는 공용 비밀번호를 사용하지 않는다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "주기적으로 비밀번호를 변경하고 유추가 어려운 형태로 만든다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "개발환경은 외부와 인터넷을 차단해 운영한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "공급망 공격은 여파가 크다. 2013년 미국 유통회사 타깃(Target)을 비롯해 홈디포 고객 정보 유출사고 역시 공급망공격이었다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "임종인 고려대 정보보호대학원 교수는 “공급망 보안 필요성은 이미 걸프전 이후 인식됐다”면서 “당시 미국은 이라크에 수출하는 프린터에 NSA가 개발한 악성코드를 숨겼다”고 말했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "그는 “SW와 HW를 도입하는 기관이나 기업은 공급망 보안에 신경 써야 한다”고 덧붙였다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SW개발사 노리는 공급망 공격 '주의'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

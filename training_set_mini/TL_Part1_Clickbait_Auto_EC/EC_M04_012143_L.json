@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012143",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "8월 건설수주액 작년보다 줄어… 공공부문은 증가",
+		"newsSubTitle": "",
+		"newsContent": "지난 8월 건설수주액이 지난해 같은 기간 대비 감소세를 보인 것으로 나타났다.\n8일 대한건설협회에 따르면 지난 8월 국내건설공사 수주액은 5조9679억원을 기록해 지난해 같은 기간 대비 1.9% 감소한 것으로 나타났다.\n지난 8월 공공부문에서는 2조4326억원으로 지난해 같은 기간 1조8820억원 대비 29.3%가 증가했다.\n반면, 민간부문에서는 3조5353억원으로 4조2044억원을 기록한 지난해 같은 기간 대비 15.9%가 감소했다.\n공공부문에서는 학교를 비롯해 병원, 관공서, 공장, 창고 등의 수주물량이 늘어나면서 전체 수주량 증가세에 힘을 보탰다.\n이와달리, 민간부문에서는 일부 지역 물류센터 공사 이외에 대부분의 공종에서 부진을 겪어 수주량이 급감했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 8월 건설수주액이 지난해 같은 기간 대비 감소세를 보인 것으로 나타났다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 대한건설협회에 따르면 지난 8월 국내건설공사 수주액은 5조9679억원을 기록해 지난해 같은 기간 대비 1.9% 감소한 것으로 나타났다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 8월 공공부문에서는 2조4326억원으로 지난해 같은 기간 1조8820억원 대비 29.3%가 증가했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면, 민간부문에서는 3조5353억원으로 4조2044억원을 기록한 지난해 같은 기간 대비 15.9%가 감소했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공공부문에서는 학교를 비롯해 병원, 관공서, 공장, 창고 등의 수주물량이 늘어나면서 전체 수주량 증가세에 힘을 보탰다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이와달리, 민간부문에서는 일부 지역 물류센터 공사 이외에 대부분의 공종에서 부진을 겪어 수주량이 급감했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "타이어뱅크(주) 김정규 회장 “CEO 고등학교 설립하겠다”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

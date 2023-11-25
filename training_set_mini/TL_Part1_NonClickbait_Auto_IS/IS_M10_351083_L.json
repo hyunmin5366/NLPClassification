@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351083",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "\\\"백신예약 먹통 없어요\\\"…IT 기업들 나서자 '반전'",
+		"newsSubTitle": "null",
+		"newsContent": "지난 9일부터 만 18세부터 49세까지 청장년층의 코로나19(COVID-19) 백신접종 사전예약이 시작된 가운데, 개선된 시스템이 접속오류 없이 원활하게 운영되는 것으로 나타났다.\n10부제를 통해 백신 예약자가 분산된 것도 원인이지만 LG CNS 등 주요 정보통신(IT) 기업이 긴급 투입돼 시스템을 개선하고 밤낮없이 안정화 작업에 나선 결과라는 평가다.\n10일 IT업계에 따르면 LG CNS와 네이버클라우드, 베스핀글로벌 등 주요 IT기업들과 정부는 만 18~49세 대상 사전예약 시스템 안정화 작업을 진행 중이다.\n이미 서버확충과 클라우드 전환 등 개선작업이 완료된 가운데 현재 각 IT기업 전문가들과 정부 관계자 약 100여명이 시스템 과부하와 장애현상이 없는지 관제하고 있다.\n첫 날 예약은 비교적 원활했다는 평가다.\n기존보다 본인인증 방법이 다양해졌고, 이중접속을 막기 위해 본인 인증을 10분당 1번만 받을 수 있도록 제한하면서다.\n생년월일 끝자리와 예약일 끝자리가 같은 날 예약할 수 있도록 10부제를 도입해 하루 단위 접속인원을 분산한 것도 효과가 있었다는 분석이다.\n주요 IT 기업이 시스템 개선작업에 긴급 투입, 시스템을 복구한 것도 유효했다.\nLG CNS는 데이터 이동통로인 네트워크와 애플리케이션서버, 데이터베이스 서버 등을 증설했다.\n신청자의 생년월일 끝자리와 신청일 끝자리가 일치하는지 여부를 검증하는 기능과 의료기관 별 예약가능 물량 균등분배 기능 개발에도 참여했다.\n베스핀글로벌은 본인인증 기능을 클라우드 환경으로 이전하는 작업과 다양한 본인인증 수단을 연계하는 작업 등을 맡았다.\n베스핀글로벌의 TF(태스크포스)팀 20여명은 현재 한국지능정보사회진흥원(NIA)와 자사 사무실 양 쪽에서 시스템 모니터링을 진행 중이다.\n네이버클라우드는 클라우드 플랫폼 공급을 맡았다.\n백신 사전예약 시스템 총괄을 맡은 김성훈 한국사회보장정보원 차세대개발본부장은 \\\"시스템 운영 중 발생 가능한 문제는 민간 기업들과 긴밀히 협력해 모두 해결했다\\\"며 \\\"국민들이 조금이라도 더 편안하게 예약할 수 있도록 접수 중 작은 오류도 발생하지 않게 노력할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 9일부터 만 18세부터 49세까지 청장년층의 코로나19(COVID-19) 백신접종 사전예약이 시작된 가운데, 개선된 시스템이 접속오류 없이 원활하게 운영되는 것으로 나타났다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10부제를 통해 백신 예약자가 분산된 것도 원인이지만 LG CNS 등 주요 정보통신(IT) 기업이 긴급 투입돼 시스템을 개선하고 밤낮없이 안정화 작업에 나선 결과라는 평가다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "10일 IT업계에 따르면 LG CNS와 네이버클라우드, 베스핀글로벌 등 주요 IT기업들과 정부는 만 18~49세 대상 사전예약 시스템 안정화 작업을 진행 중이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이미 서버확충과 클라우드 전환 등 개선작업이 완료된 가운데 현재 각 IT기업 전문가들과 정부 관계자 약 100여명이 시스템 과부하와 장애현상이 없는지 관제하고 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "첫 날 예약은 비교적 원활했다는 평가다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기존보다 본인인증 방법이 다양해졌고, 이중접속을 막기 위해 본인 인증을 10분당 1번만 받을 수 있도록 제한하면서다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "생년월일 끝자리와 예약일 끝자리가 같은 날 예약할 수 있도록 10부제를 도입해 하루 단위 접속인원을 분산한 것도 효과가 있었다는 분석이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "주요 IT 기업이 시스템 개선작업에 긴급 투입, 시스템을 복구한 것도 유효했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "LG CNS는 데이터 이동통로인 네트워크와 애플리케이션서버, 데이터베이스 서버 등을 증설했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "신청자의 생년월일 끝자리와 신청일 끝자리가 일치하는지 여부를 검증하는 기능과 의료기관 별 예약가능 물량 균등분배 기능 개발에도 참여했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "베스핀글로벌은 본인인증 기능을 클라우드 환경으로 이전하는 작업과 다양한 본인인증 수단을 연계하는 작업 등을 맡았다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "베스핀글로벌의 TF(태스크포스)팀 20여명은 현재 한국지능정보사회진흥원(NIA)와 자사 사무실 양 쪽에서 시스템 모니터링을 진행 중이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "네이버클라우드는 클라우드 플랫폼 공급을 맡았다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "백신 사전예약 시스템 총괄을 맡은 김성훈 한국사회보장정보원 차세대개발본부장은 \\\"시스템 운영 중 발생 가능한 문제는 민간 기업들과 긴밀히 협력해 모두 해결했다\\\"며 \\\"국민들이 조금이라도 더 편안하게 예약할 수 있도록 접수 중 작은 오류도 발생하지 않게 노력할 것\\\"이라고 말했다.",
+				"sentenceSize": 157
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"백신예약 먹통 없어요\\\"…IT 기업들 나서자 '반전'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

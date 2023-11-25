@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012293",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전지역 기업경기 칼바람… 충남은 상승",
+		"newsSubTitle": "제조업 BSI 4p·비제조업 3p 동반하락",
+		"newsContent": "내수부진과 불확실한 경제 상황 등으로 대전지역의 제조업과 비제조업 경기가 하락했다.\n27일 한국은행 대전·충남본부가 발표한 '대전·충남지역 기업경기조사결과'에 따르면 11월 대전·충남지역의 제조업 업황BSI는 84로 전월보다 4p, 비제조업은 77로 전월보다 3p 각각 상승했다.\n대전지역 제조업은 74로 전월보다 4p 하락했다.\n반면, 충남은 87로 6p 상승했다.\n대기업은 74 전월보다 2p 하락했고, 중소기업 7p 상승한 90을 기록했다.\n매출BSI와 생산BSI는 전월보다 각각 8p 상승한 102, 104를 기록했으며, 신규수주BSI, 가동률BSI도 전원보다 각각 7p 상승한 103, 101을 나타냈다.\n비제조업 업황BSI는 77로 전월보다 3p 상승한 가운데 대전은 77로 전월보다 3p 하락했고, 충남은 78로 전월보다 8p 상승했다.\n매출BSI는 전월보다 4p, 채산성BSI는 전월보다 7p 각각 상승했다.\n12월 대전·충남지역의 제조업 업황전망BSI는 85로 전월보다 1p 상승했으며, 매출전망BS와 생산전망BSI 모두 전월보다 각각 3p, 7p 상승한 101, 107을 기록했다.\n신규수주전망BSI도 전월보다 1p, 제품재고수준전망BSI는 전월보다 각각 3p 상승했다.\n12월 비제조업 업황전망BSI는 83으로 전월보다 7p 상승했으며, 매출전망BSI는 3p, 채산성전망BSI는 전월보다 5p 상승했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "내수부진과 불확실한 경제 상황 등으로 대전지역의 제조업과 비제조업 경기가 하락했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 한국은행 대전·충남본부가 발표한 '대전·충남지역 기업경기조사결과'에 따르면 11월 대전·충남지역의 제조업 업황BSI는 84로 전월보다 4p, 비제조업은 77로 전월보다 3p 각각 상승했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대전지역 제조업은 74로 전월보다 4p 하락했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면, 충남은 87로 6p 상승했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대기업은 74 전월보다 2p 하락했고, 중소기업 7p 상승한 90을 기록했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매출BSI와 생산BSI는 전월보다 각각 8p 상승한 102, 104를 기록했으며, 신규수주BSI, 가동률BSI도 전원보다 각각 7p 상승한 103, 101을 나타냈다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "비제조업 업황BSI는 77로 전월보다 3p 상승한 가운데 대전은 77로 전월보다 3p 하락했고, 충남은 78로 전월보다 8p 상승했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "매출BSI는 전월보다 4p, 채산성BSI는 전월보다 7p 각각 상승했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "12월 대전·충남지역의 제조업 업황전망BSI는 85로 전월보다 1p 상승했으며, 매출전망BS와 생산전망BSI 모두 전월보다 각각 3p, 7p 상승한 101, 107을 기록했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "신규수주전망BSI도 전월보다 1p, 제품재고수준전망BSI는 전월보다 각각 3p 상승했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "12월 비제조업 업황전망BSI는 83으로 전월보다 7p 상승했으며, 매출전망BSI는 3p, 채산성전망BSI는 전월보다 5p 상승했다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"쿠팡 통하지 않아도 새벽배송 OK\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

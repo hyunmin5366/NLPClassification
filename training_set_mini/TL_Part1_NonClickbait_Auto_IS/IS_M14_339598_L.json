@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339598",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "테슬라, 中 보안 우려에 \\\"카메라 기능, 북미서만 동의 시 활성화\\\"",
+		"newsSubTitle": "",
+		"newsContent": "중국 정부가 보안 우려로 군과 국영회사 임직원의 미국 전기차 테슬라 차량 사용을 금지하자 테슬라가 반박에 나섰다.\n카메라 기능은 북미 지역에서만 사용자가 동의할 경우 활성화된다면서, 테슬라가 간첩 활동을 할 경우 중국 공장 문을 닫겠다며 강하게 해명했다.\n미국 월스트리트저널(WSJ)과 로이터통신 등에 따르면 테슬라는 7일(현지시간) 중국 사회관계망서비스(SNS) 웨이보를 통해 중국 정부가 우려하는 카메라 기능은 북미를 제외한 다른 나라에서는 활성화되지 않는다고 밝혔다.\n또 미국 내에서도 차량 소유자들이 카메라 시스템을 사용할지 결정할 수 있다고 강조했고, 테슬라가 사생활 보호를 위해 세계 최고 수준의 네트워크 보안 시스템을 갖추고 있다고 부연했다.\n앞서 일론 머스크 테슬라 최고경영자(CEO)는 지난달 20일 북경에서 열린 중국발전포럼(CDF)에 화상으로 참석해 “테슬라 차량이 중국을 비롯한 어디서든 간첩 활동에 쓰였다면 우리는 (공장) 문을 닫을 것”이라고 밝힌 바 있다.\n앞서 중국 정부는 테슬라 차량에 장착된 카메라가 민감 정보를 촬영해 미국으로 전송할 수 있다고 보고 군과 국영회사 임직원의 테슬라 차량 이용을 금지했다고 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국 정부가 보안 우려로 군과 국영회사 임직원의 미국 전기차 테슬라 차량 사용을 금지하자 테슬라가 반박에 나섰다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카메라 기능은 북미 지역에서만 사용자가 동의할 경우 활성화된다면서, 테슬라가 간첩 활동을 할 경우 중국 공장 문을 닫겠다며 강하게 해명했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미국 월스트리트저널(WSJ)과 로이터통신 등에 따르면 테슬라는 7일(현지시간) 중국 사회관계망서비스(SNS) 웨이보를 통해 중국 정부가 우려하는 카메라 기능은 북미를 제외한 다른 나라에서는 활성화되지 않는다고 밝혔다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 미국 내에서도 차량 소유자들이 카메라 시스템을 사용할지 결정할 수 있다고 강조했고, 테슬라가 사생활 보호를 위해 세계 최고 수준의 네트워크 보안 시스템을 갖추고 있다고 부연했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 일론 머스크 테슬라 최고경영자(CEO)는 지난달 20일 북경에서 열린 중국발전포럼(CDF)에 화상으로 참석해 “테슬라 차량이 중국을 비롯한 어디서든 간첩 활동에 쓰였다면 우리는 (공장) 문을 닫을 것”이라고 밝힌 바 있다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 중국 정부는 테슬라 차량에 장착된 카메라가 민감 정보를 촬영해 미국으로 전송할 수 있다고 보고 군과 국영회사 임직원의 테슬라 차량 이용을 금지했다고 알려졌다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "테슬라, 中 보안 우려에 \\\"카메라 기능, 북미서만 동의 시 활성화\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006816",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "국민은행, KB WISE 외화정기예금",
+		"newsSubTitle": "",
+		"newsContent": "KB국민은행은 예금의 예치 기간에 변동금리가 적용되고 복리로 운용되는 KB WISE 외화 정기예금을 선보였다.\n이 상품은 기존의 일반 외화 정기예금에 비해 가입자의 수익성을 높일 수 있도록 설계된 금리변동형 외화예금이다.\n고객은 예치기간 및 금리회전주기에 따라 최고 0.3%P의 특별이자도 받을 수 있다.\n가입대상은 제한이 없고 미국 달러(USD), 일본 엔화(JPY), 유럽연합의 유로화(EUR) 등 10개국 통화로 가입 가능하며 계약기간은 12개월 이상 36개월까지 월 단위로 정할 수 있다.\n금리회전(변동)주기는 1개월, 3개월, 6개월 중 고객이 선택할 수 있으며 선택한 금리 주기별로 금리가 변동 적용된다.\n금리는 회전주기별 복리로 운용되므로 금리상승을 예상하는 고객에게 적합한 상품이다.\n또 금리변동주기를 3개월 또는 6개월로 선택한 예금은 실제 예치기간이 1년을 지날 때마다 신규원금의 0.1%P씩 최고 0.3%P의 특별이자를 해시지 원금과 함께 받을 수 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KB국민은행은 예금의 예치 기간에 변동금리가 적용되고 복리로 운용되는 KB WISE 외화 정기예금을 선보였다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 상품은 기존의 일반 외화 정기예금에 비해 가입자의 수익성을 높일 수 있도록 설계된 금리변동형 외화예금이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "고객은 예치기간 및 금리회전주기에 따라 최고 0.3%P의 특별이자도 받을 수 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가입대상은 제한이 없고 미국 달러(USD), 일본 엔화(JPY), 유럽연합의 유로화(EUR) 등 10개국 통화로 가입 가능하며 계약기간은 12개월 이상 36개월까지 월 단위로 정할 수 있다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금리회전(변동)주기는 1개월, 3개월, 6개월 중 고객이 선택할 수 있으며 선택한 금리 주기별로 금리가 변동 적용된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "금리는 회전주기별 복리로 운용되므로 금리상승을 예상하는 고객에게 적합한 상품이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 금리변동주기를 3개월 또는 6개월로 선택한 예금은 실제 예치기간이 1년을 지날 때마다 신규원금의 0.1%P씩 최고 0.3%P의 특별이자를 해시지 원금과 함께 받을 수 있다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[일일펀드동향]韓 주식형펀드 4거래일간 1678억원 순유입",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

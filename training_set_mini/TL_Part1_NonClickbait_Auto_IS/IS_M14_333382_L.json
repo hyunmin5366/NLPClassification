@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333382",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "[카&테크]HEV·EV 주행거리 늘리는 전력 반도체",
+		"newsSubTitle": "",
+		"newsContent": "전기차(EV)와 관련해 보다 긴 주행거리와 더 나은 신뢰성에 대한 소비자 요구는 앞으로도 계속될 전망이다.\n전력 아키텍처를 포함한 전력전자공학의 발전과 혁신만이 전기차에 대한 이러한 요구사항을 충족할 수 있다.\n전력 반도체는 차량 설계 엔지니어가 파워트레인 시스템 통합을 통해 시스템 비용을 절감하고 설계를 간소화하며, 기능 안전 준수를 합리화하고 신뢰성을 개선할 수 있도록 한다.\n텍사스 인스트루먼트(TI)의 UCC14240-Q1은 게이트 드라이버 바이어스를 위한 통합 트랜스포머를 갖췄다.\n업계에서 가장 작고, 가볍고, 정확한 절연 DC/DC 컨버터 모듈로 높은 전력 밀도와 효율성을 실현한다.\n절연 IGBT, SiC, GaN 스위치를 고주파수로 구동하고 150V/ns 이상의 CMTI(Common-Mode Transient Immunity) 성능으로 높은 효율을 실현할 수 있다. 【사진2】UCC14240-Q1는 높이가 3.55㎜의 소형 SOIC 패키지에 전원 트랜스포머를 통합한 형태로 부피가 크고 소음이 큰 외부 트랜스포머를 제거할 수 있다.\n이를 통해 시스템의 중량과 인쇄회로기판(PCB) 면적을 최소화해 보드 크기를 줄인다.\n더욱 낮아진 높이와 축소된 PCB 크기, 그리고 가벼워진 중량은 전력 시스템의 높은 효율로 이어진다.\n동일한 충전 조건에서 전기 자동차의 주행거리를 연장할 수 있다는 의미다.\n다상 트랙션 인버터, 보조 인버터 외에 온 보드 차저(OBC), DC/DC, 배터리관리시스템(BMS)와 같은 응용 분야에도 적용할 수 있다.\n라자르시 무코파디하이 TI 고전압 컨트롤러 제품 매니저는 “파워트레인 통합은 더 작은 크기의 솔루션에 더 많은 전력을 추가한다”며 “이를 통해 높은 시스템 효율로 전기차의 주행거리를 연장하고 전력 밀도를 개선하는 데 도움을 줄 수 있다”고 말했다.\n분산형 전력 아키텍처 대응도 가능하다.\n분산형 전력 아키텍처는 절연 고전압의 환경에서 신뢰성을 크게 높일 수 있지만, 크기와 무게가 증가한다는 게 단점이다.\n각 게이트 드라이버에 전용 절연 바이어스 공급이 필요해 부품이 많아지기 때문이다.\nUCC14240-Q1 절연 DC/DC 바이어스 공급 모듈과 같은 기존의 SOIC 패키지에 통합된 소형 통합 트랜스포머는 이 같은 문제점을 해결할 수 있다.\n분산형 아키텍처는 절연 게이트 드라이버에 대한 바이어스 공급의 근접성을 통해 PCB 레이아웃을 단순화하고 게이트 드라이버를 구동하는 전압을 안정적으로 조절할 수 있다.\nUCC14240-Q1은 출력 전압 정확도를 위한 폐쇄 루프 제어도 지원한다.\n더 작은 절연 게이트 양극성 트랜지스터(IGBT) 및 SiC 전원 스위치를 사용하고 스위치 고장을 방지하기 위해 전류를 제한한다.\n-40도~150도 온도 범위에서 ±1.0% 정확도를 유지한다.\nUCC14240-Q1은 무게중심이 가장 낮고 가볍기 때문에 진동 내성도 뛰어나다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전기차(EV)와 관련해 보다 긴 주행거리와 더 나은 신뢰성에 대한 소비자 요구는 앞으로도 계속될 전망이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전력 아키텍처를 포함한 전력전자공학의 발전과 혁신만이 전기차에 대한 이러한 요구사항을 충족할 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전력 반도체는 차량 설계 엔지니어가 파워트레인 시스템 통합을 통해 시스템 비용을 절감하고 설계를 간소화하며, 기능 안전 준수를 합리화하고 신뢰성을 개선할 수 있도록 한다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "텍사스 인스트루먼트(TI)의 UCC14240-Q1은 게이트 드라이버 바이어스를 위한 통합 트랜스포머를 갖췄다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업계에서 가장 작고, 가볍고, 정확한 절연 DC/DC 컨버터 모듈로 높은 전력 밀도와 효율성을 실현한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "절연 IGBT, SiC, GaN 스위치를 고주파수로 구동하고 150V/ns 이상의 CMTI(Common-Mode Transient Immunity) 성능으로 높은 효율을 실현할 수 있다. 【사진2】UCC14240-Q1는 높이가 3.55㎜의 소형 SOIC 패키지에 전원 트랜스포머를 통합한 형태로 부피가 크고 소음이 큰 외부 트랜스포머를 제거할 수 있다.",
+				"sentenceSize": 197
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 통해 시스템의 중량과 인쇄회로기판(PCB) 면적을 최소화해 보드 크기를 줄인다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "더욱 낮아진 높이와 축소된 PCB 크기, 그리고 가벼워진 중량은 전력 시스템의 높은 효율로 이어진다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "동일한 충전 조건에서 전기 자동차의 주행거리를 연장할 수 있다는 의미다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "다상 트랙션 인버터, 보조 인버터 외에 온 보드 차저(OBC), DC/DC, 배터리관리시스템(BMS)와 같은 응용 분야에도 적용할 수 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "라자르시 무코파디하이 TI 고전압 컨트롤러 제품 매니저는 “파워트레인 통합은 더 작은 크기의 솔루션에 더 많은 전력을 추가한다”며 “이를 통해 높은 시스템 효율로 전기차의 주행거리를 연장하고 전력 밀도를 개선하는 데 도움을 줄 수 있다”고 말했다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "분산형 전력 아키텍처 대응도 가능하다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "분산형 전력 아키텍처는 절연 고전압의 환경에서 신뢰성을 크게 높일 수 있지만, 크기와 무게가 증가한다는 게 단점이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "각 게이트 드라이버에 전용 절연 바이어스 공급이 필요해 부품이 많아지기 때문이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "UCC14240-Q1 절연 DC/DC 바이어스 공급 모듈과 같은 기존의 SOIC 패키지에 통합된 소형 통합 트랜스포머는 이 같은 문제점을 해결할 수 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "분산형 아키텍처는 절연 게이트 드라이버에 대한 바이어스 공급의 근접성을 통해 PCB 레이아웃을 단순화하고 게이트 드라이버를 구동하는 전압을 안정적으로 조절할 수 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "UCC14240-Q1은 출력 전압 정확도를 위한 폐쇄 루프 제어도 지원한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "더 작은 절연 게이트 양극성 트랜지스터(IGBT) 및 SiC 전원 스위치를 사용하고 스위치 고장을 방지하기 위해 전류를 제한한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "-40도~150도 온도 범위에서 ±1.0% 정확도를 유지한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "UCC14240-Q1은 무게중심이 가장 낮고 가볍기 때문에 진동 내성도 뛰어나다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[카&테크]HEV·EV 주행거리 늘리는 전력 반도체",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

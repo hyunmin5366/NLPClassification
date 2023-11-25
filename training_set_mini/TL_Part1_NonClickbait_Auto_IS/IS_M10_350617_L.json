@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350617",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "네이버, 잔여백신 예약 '매크로 반칙' 막았다",
+		"newsSubTitle": "null",
+		"newsContent": "올 하반기 코로나19(COVID-19) 백신 접종이 본격화된 가운데, 네이버(NAVER)가 '매크로'(자동입력 반복) 프로그램을 이용한 꼼수 예약 차단에 나섰다.\n6일 업계에 따르면 네이버는 PC 잔여백신 예약서비스에 매크로 프로그램을 차단하는 기술적 조치를 완료했다.\n네이버 관계자는 \\\"매크로 프로그램의 동작 패턴을 분석해 이같은 패턴을 보이는 프로그램은 예약 단계에 실질적으로 진입하지 못하게 했다\\\"고 설명했다.\n다만, 정확한 차단 방법은 공개하지 않았다.\n자칫 네이버의 기술적 조치를 우회하는 새로운 매크로 프로그램이 등장할 수도 있어서다.\n매크로는 마우스나 키보드로 여러 번 해야 할 동작을 한 번의 클릭으로 자동실행하는 프로그램이다.\n잔여백신 예약 페이지를 자동으로 '새로고침'하고 예약 버튼도 눌러 성공률을 높여준다.\n수요가 몰리면서 잔여백신 예약은 '하늘의 별따기'라는 평가가 나오는 가운데, 이를 이용한 잔여백신 예약 방법과 성공 후기가 유튜브와 온라인 커뮤니티에 잇따라 올라오면서 논란이 일었다.\n이에 질병관리청과 네이버는 \\\"PC에서 잔여백신을 예약하는 비율은 8%로, 이 중에서도 매크로 프로그램 이용 비율을 극히 미미하다\\\"면서도 관련 차단 방안을 논의해왔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올 하반기 코로나19(COVID-19) 백신 접종이 본격화된 가운데, 네이버(NAVER)가 '매크로'(자동입력 반복) 프로그램을 이용한 꼼수 예약 차단에 나섰다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 업계에 따르면 네이버는 PC 잔여백신 예약서비스에 매크로 프로그램을 차단하는 기술적 조치를 완료했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버 관계자는 \\\"매크로 프로그램의 동작 패턴을 분석해 이같은 패턴을 보이는 프로그램은 예약 단계에 실질적으로 진입하지 못하게 했다\\\"고 설명했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다만, 정확한 차단 방법은 공개하지 않았다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "자칫 네이버의 기술적 조치를 우회하는 새로운 매크로 프로그램이 등장할 수도 있어서다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매크로는 마우스나 키보드로 여러 번 해야 할 동작을 한 번의 클릭으로 자동실행하는 프로그램이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "잔여백신 예약 페이지를 자동으로 '새로고침'하고 예약 버튼도 눌러 성공률을 높여준다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "수요가 몰리면서 잔여백신 예약은 '하늘의 별따기'라는 평가가 나오는 가운데, 이를 이용한 잔여백신 예약 방법과 성공 후기가 유튜브와 온라인 커뮤니티에 잇따라 올라오면서 논란이 일었다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 질병관리청과 네이버는 \\\"PC에서 잔여백신을 예약하는 비율은 8%로, 이 중에서도 매크로 프로그램 이용 비율을 극히 미미하다\\\"면서도 관련 차단 방안을 논의해왔다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버, 잔여백신 예약 '매크로 반칙' 막았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

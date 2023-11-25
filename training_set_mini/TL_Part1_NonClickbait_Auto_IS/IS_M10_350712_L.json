@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350712",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "이스트시큐리티 \\\"올해 1분기 알약이 막아낸 랜섬웨어 공격 16만건\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "보안전문 기업 이스트시큐리티가 자사 백신 프로그램 알약을 통해 올해 1분기 총 15만8188건의 랜섬웨어 공격을 차단했다고 12일 밝혔다.\n일평균으로는 1758건 수준이다.\n이번 통계는 개인 사용자에게 무료로 제공하는 공개용 알약의 랜섬웨어 행위기반 사전 차단기능을 통해 차단한 공격만을 집계한 것이다.\n패턴기반 공격까지 포함하면 전체 공격은 더 많을 것으로 추정된다.\n최근 2년 간은 랜섬웨어 공격 수가 꾸준히 감소하는 추세였으나, 올해 2분기에는 1분기에 비해 소폭 증가한 것으로 나타났다.\n이스트시큐리티 대응센터(ESRC)는 올해 2분기에 발견된 주요 랜섬웨어 보안 위협으로 △소디노키비(Sodinokibi) 조직의 공격 확산 △리눅스 변종 랜섬웨어 발견 △미 송유관 회사 콜로니얼 파이프라인 등 국가 인프라 대상 공격 △바북락커 랜섬웨어 빌더 유출에 따른 변종 출현과 피해사례 △비너스락커 그룹의 마콥(Makop) 랜섬웨어 위협 등을 꼽았다.\n소디노키비 조직은 지난 4월 애플의 핵심 공급업체인 대만의 콴타 컴퓨터, 지난 6월 미국 식품가공 업체 JBS Food, 일본 후지필름 등을 공격했다.\n이 공격으로 각 기업의 생산시설이 중단됐다.\n해커들은 탈취한 데이터 중 핵심 기밀사항을 유출하겠다고 협박하기도 했다.\n6월 말에는 VM웨어 ESXi를 공격하는 소디노키비 랜섬웨어의 새로운 리눅스 변종이 발견됐다.\n지난 5월에는 미국 최대 송유관 기업인 콜로니얼 파이프라인의 시설을 노린 다크사이드(Darkside) 랜섬웨어 공격이 발생했다.\n이 공격으로 미국 전역에 공급되던 5500마일(8851km) 길이의 파이프라인 운영이 5일 간 중단됐으며, 500만달러(약 57억원) 규모의 몸값을 지불한 뒤 운영을 재개할 수 있었다.\n이외에도 올해 처음으로 바북락커라는 랜섬웨어가 발견되기도 했다.\n안랩 시큐리티대응센터(ASEC) 분석팀은 최근 해킹조직인 비너스라콥이 입사지원서와 저작권 위반 안내문으로 위장한 마콥 랜섬웨어를 이메일을 통해 유포하는 것도 확인했다.\n이지현 이스트시큐리티 ESRC 팀장은 \\\"최근 국가 핵심 인프라 시설과 유통기업을 대상으로 대규모 공격을 가하는 사례가 많다\\\"며 \\\"기업과 개인은 주기적인 백업과 안전 보안시스템 구축을 통해 감염 피해를 사전에 대비해야 한다\\\"고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보안전문 기업 이스트시큐리티가 자사 백신 프로그램 알약을 통해 올해 1분기 총 15만8188건의 랜섬웨어 공격을 차단했다고 12일 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "일평균으로는 1758건 수준이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 통계는 개인 사용자에게 무료로 제공하는 공개용 알약의 랜섬웨어 행위기반 사전 차단기능을 통해 차단한 공격만을 집계한 것이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "패턴기반 공격까지 포함하면 전체 공격은 더 많을 것으로 추정된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 2년 간은 랜섬웨어 공격 수가 꾸준히 감소하는 추세였으나, 올해 2분기에는 1분기에 비해 소폭 증가한 것으로 나타났다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이스트시큐리티 대응센터(ESRC)는 올해 2분기에 발견된 주요 랜섬웨어 보안 위협으로 △소디노키비(Sodinokibi) 조직의 공격 확산 △리눅스 변종 랜섬웨어 발견 △미 송유관 회사 콜로니얼 파이프라인 등 국가 인프라 대상 공격 △바북락커 랜섬웨어 빌더 유출에 따른 변종 출현과 피해사례 △비너스락커 그룹의 마콥(Makop) 랜섬웨어 위협 등을 꼽았다.",
+				"sentenceSize": 198
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소디노키비 조직은 지난 4월 애플의 핵심 공급업체인 대만의 콴타 컴퓨터, 지난 6월 미국 식품가공 업체 JBS Food, 일본 후지필름 등을 공격했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 공격으로 각 기업의 생산시설이 중단됐다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해커들은 탈취한 데이터 중 핵심 기밀사항을 유출하겠다고 협박하기도 했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "6월 말에는 VM웨어 ESXi를 공격하는 소디노키비 랜섬웨어의 새로운 리눅스 변종이 발견됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "지난 5월에는 미국 최대 송유관 기업인 콜로니얼 파이프라인의 시설을 노린 다크사이드(Darkside) 랜섬웨어 공격이 발생했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이 공격으로 미국 전역에 공급되던 5500마일(8851km) 길이의 파이프라인 운영이 5일 간 중단됐으며, 500만달러(약 57억원) 규모의 몸값을 지불한 뒤 운영을 재개할 수 있었다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이외에도 올해 처음으로 바북락커라는 랜섬웨어가 발견되기도 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "안랩 시큐리티대응센터(ASEC) 분석팀은 최근 해킹조직인 비너스라콥이 입사지원서와 저작권 위반 안내문으로 위장한 마콥 랜섬웨어를 이메일을 통해 유포하는 것도 확인했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이지현 이스트시큐리티 ESRC 팀장은 \\\"최근 국가 핵심 인프라 시설과 유통기업을 대상으로 대규모 공격을 가하는 사례가 많다\\\"며 \\\"기업과 개인은 주기적인 백업과 안전 보안시스템 구축을 통해 감염 피해를 사전에 대비해야 한다\\\"고 강조했다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이스트시큐리티 \\\"올해 1분기 알약이 막아낸 랜섬웨어 공격 16만건\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

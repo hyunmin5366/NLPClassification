@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010369",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "출연연 여름집중휴가제 돌입",
+		"newsSubTitle": "에너지절약 '효과'… 올 참여업체 6곳으로 늘어",
+		"newsContent": "대덕연구개발특구 내 ETRI(한국전자통신연구원)를 비롯한 6개 정부출연연구기관(이하 출연연)이 전 직원을 대상으로 집중 여름휴가를 실시한다. 30일부터 내달 3일까지 시행되는 집중휴가제는 정부의 에너지절약 시책에 동참하기 위해 지난해 첫 시행됐으며, 지난해 출연연 2곳이 참여했지만, 올해는 6곳으로 늘었다.\n한국전자통신연구원(ETRI)은 30일부터 내달 3일까지 정규직 및 파견직 연구원과 직원 등 2400여 명 가운데 연구부서 등 필수 운영인력을 제외한 90%의 직원이 휴가를 보낸다.\n한국생명공학연구원도 오창ㆍ정읍분원을 포함 1100여 직원들이 집중휴가를 시행하며, 한국기계연구원과 한국에너지 연구원, 한국생명공학연구원 이외도 연구개발특구진흥재단도 자율적으로 이에 동참하고 있다.\n집중휴가기간에는 에어컨 등 냉방장비 가동이 중단된다.\nETRI는 집중휴가기간 출근하는 직원들에게 반바지와 끈 있는 샌들을 착용할 수 있도록 복장 자율화도 실시하고 있다.\nETRI 관계자는 “지난해 출연연 최초로 집중휴가제를 도입한 결과, 에너지 절약에 상당한 효과가 있다는 판단에 따라 정부에서도 집중휴가를 권장하고 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대덕연구개발특구 내 ETRI(한국전자통신연구원)를 비롯한 6개 정부출연연구기관(이하 출연연)이 전 직원을 대상으로 집중 여름휴가를 실시한다. 30일부터 내달 3일까지 시행되는 집중휴가제는 정부의 에너지절약 시책에 동참하기 위해 지난해 첫 시행됐으며, 지난해 출연연 2곳이 참여했지만, 올해는 6곳으로 늘었다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 30일부터 내달 3일까지 정규직 및 파견직 연구원과 직원 등 2400여 명 가운데 연구부서 등 필수 운영인력을 제외한 90%의 직원이 휴가를 보낸다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국생명공학연구원도 오창ㆍ정읍분원을 포함 1100여 직원들이 집중휴가를 시행하며, 한국기계연구원과 한국에너지 연구원, 한국생명공학연구원 이외도 연구개발특구진흥재단도 자율적으로 이에 동참하고 있다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "집중휴가기간에는 에어컨 등 냉방장비 가동이 중단된다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ETRI는 집중휴가기간 출근하는 직원들에게 반바지와 끈 있는 샌들을 착용할 수 있도록 복장 자율화도 실시하고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "ETRI 관계자는 “지난해 출연연 최초로 집중휴가제를 도입한 결과, 에너지 절약에 상당한 효과가 있다는 판단에 따라 정부에서도 집중휴가를 권장하고 있다”고 말했다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT&G '5억달러 수출탑'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328433",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "中 샤오미 5만원대 AI 스피커 내놓는다",
+		"newsSubTitle": "",
+		"newsContent": "중국 스마트폰 제조사 샤오미가 인공지능(AI) 스피커 시장에 도전장을 내민다. 5만원대 저렴한 가격이 주무기다.\n미국 CNBC에 따르면, 샤오미는 중국에서 '미(Mi) AI스피커'를 출시할 예정이다.\n가격은 45달러(약 5만원)다.\n샤오미는 다음 달 중국 소비자 1000명을 선정, 1위안을 받은 조건으로 미 AI스피커를 체험해 볼 수 있도록 할 계획이다.\n미 AI스피커 가격은 애플 홈팟(349달러), 아마존 에코(179.99달러)보다 저렴하다.\n경쟁사인 알리바바가 최근 중국에 출시한 티몰 지니 X1(73달러)보다도 낮다.\n미 AI스피커는 6개 마이크를 내장해 이용자가 어느 방향에 있던 음성 명령에 대한 답을 한다.\n음악 스트리밍이나 라디오 방송을 들려주고, 날씨와 뉴스 정보를 제공하는 개인비서 역할을 담당한다.\n직사각형 디자인에 화이트 색상을 갖췄다.\n샤오미는 아마존처럼 외부 개발자가 미 AI스피커에 최적화된 다양한 앱을 만들도록 유도할 계획이다.\n다만 언어는 중국어만 지원하는 것으로 알려져 해외 출시는 불투명하다.\n시장조사기관 스트래티지 애널리틱스에 따르면 지난해 4분기 인공지능 스피커 출하량은 420만대 수준이다.\n아마존이 88% 점유율로 1위를 차지했고, 구글이 10%로 그 뒤를 이었다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국 스마트폰 제조사 샤오미가 인공지능(AI) 스피커 시장에 도전장을 내민다. 5만원대 저렴한 가격이 주무기다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 CNBC에 따르면, 샤오미는 중국에서 '미(Mi) AI스피커'를 출시할 예정이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "가격은 45달러(약 5만원)다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "샤오미는 다음 달 중국 소비자 1000명을 선정, 1위안을 받은 조건으로 미 AI스피커를 체험해 볼 수 있도록 할 계획이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미 AI스피커 가격은 애플 홈팟(349달러), 아마존 에코(179.99달러)보다 저렴하다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "경쟁사인 알리바바가 최근 중국에 출시한 티몰 지니 X1(73달러)보다도 낮다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "미 AI스피커는 6개 마이크를 내장해 이용자가 어느 방향에 있던 음성 명령에 대한 답을 한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "음악 스트리밍이나 라디오 방송을 들려주고, 날씨와 뉴스 정보를 제공하는 개인비서 역할을 담당한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "직사각형 디자인에 화이트 색상을 갖췄다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "샤오미는 아마존처럼 외부 개발자가 미 AI스피커에 최적화된 다양한 앱을 만들도록 유도할 계획이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "다만 언어는 중국어만 지원하는 것으로 알려져 해외 출시는 불투명하다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "시장조사기관 스트래티지 애널리틱스에 따르면 지난해 4분기 인공지능 스피커 출하량은 420만대 수준이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "아마존이 88% 점유율로 1위를 차지했고, 구글이 10%로 그 뒤를 이었다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "中 샤오미 5만원대 AI 스피커 내놓는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

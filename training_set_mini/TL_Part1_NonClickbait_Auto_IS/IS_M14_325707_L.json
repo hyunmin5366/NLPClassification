@@ -1,0 +1,321 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325707",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "플랫폼 올라타는 'AI 번역'…에버트란, 법령·조례 서비스",
+		"newsSubTitle": "",
+		"newsContent": "인공지능(AI) 번역 서비스가 영역별로 세분화, 플랫폼에 올라탄다.\n첫 단추가 법령·조례 번역 플랫폼으로 꿰어졌다.\n에버트란이 인공신경망번역(NMT) 기술을 활용한 법령·조례 번역 플랫폼을 출시했다.\n네이버 파파고나 구글 번역기와 같은 범용 서비스와 달리 번역 범위를 법령·조례로 전문화했다.\n법령·조례 번역문을 학습시키는 방식으로 AI 시스템을 고도화했다.\n광운대 AI번역산업연구센터가 기술 개발에 참가했다.\n기존 서비스로 법령·조례를 번역할 때보다 1.8배 높은 정확도로 결과물을 도출한다.\n전문 번역가가 직접 번역한 내용과 맞먹는 수준이다.\n지금은 한글을 영어로 바꾸는 한영 번역만 가능하다.\n영한 버전을 추가할 예정이다.\n중국어 서비스도 내놓는다.\n에버트란은 앞으로 전기·전자, 특허, 의학 분야로 번역 범위를 넓혀간다.\n이청호 에버트란 대표는 “AI 번역 산업이 분야별로 쪼개져 플랫폼 기반으로 성장하게 될 것”이라면서 “법령·조례는 시작일 뿐 서비스 영역과 언어를 지속 늘려가겠다”고 말했다.\n현재 국가 법령은 5000개, 지자체 조례는 10만건에 달한다.\n에버트란은 법제처 법령 오픈 애플리케이션 프로그래밍 인터페이스(API)를 통해 이들 조항을 실시간 받아온다.\n개정 법령이나 조례도 자동 추가되도록 시스템화했다.\n일반 사용자는 무료로 이용할 수 있다.\n공공기관, 지자체에만 사용료를 받는다.\n수요는 갈수록 많아질 전망이다.\n국내 거주 외국인을 위해 실생활 관련 법령, 조례를 번역해 서비스하는 지자체가 늘고 있기 때문이다.\n서울시는 일부 조례를 영어와 중국어로 번역, 외국인의 국내 정착을 돕는다.\n대부분 전문 번역가에 작업을 맡긴다.\n번역에 필요한 시간, 비용이 클 뿐 아니라 번역 품질이 일정치 않다는 지적을 받고 있다.\n이번 플랫폼은 웹과 애플리케이션(앱), 고객사 버전으로 구성됐다.\n고객사용에는 'MTPE' 방식을 적용했다.\n인공신경망번역 기술로 번역한 결과물을 전문 번역사가 검수하도록 설계했다.\n법, 조례 개정사항이 등장하면 실시간 알려준다.\n에버트란은 2006년에 문을 열었다.\n미국 마이크로소프트 번역 기술 공식 파트너다.\n번역 지원 소프트웨어(SW) 비주얼트란을 개발했다.\n세계 모든 언어를 번역할 수 있다.\n번역문 데이터베이스(DB)를 빅데이터 시스템에 모은다.\n에버트란은 오는 12일 광운대학교에서 AI 한영 법률번역 전문 서비스 출시 기념행사를 연다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 33,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI) 번역 서비스가 영역별로 세분화, 플랫폼에 올라탄다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "첫 단추가 법령·조례 번역 플랫폼으로 꿰어졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "에버트란이 인공신경망번역(NMT) 기술을 활용한 법령·조례 번역 플랫폼을 출시했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버 파파고나 구글 번역기와 같은 범용 서비스와 달리 번역 범위를 법령·조례로 전문화했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "법령·조례 번역문을 학습시키는 방식으로 AI 시스템을 고도화했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "광운대 AI번역산업연구센터가 기술 개발에 참가했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기존 서비스로 법령·조례를 번역할 때보다 1.8배 높은 정확도로 결과물을 도출한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전문 번역가가 직접 번역한 내용과 맞먹는 수준이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지금은 한글을 영어로 바꾸는 한영 번역만 가능하다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "영한 버전을 추가할 예정이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "중국어 서비스도 내놓는다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "에버트란은 앞으로 전기·전자, 특허, 의학 분야로 번역 범위를 넓혀간다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이청호 에버트란 대표는 “AI 번역 산업이 분야별로 쪼개져 플랫폼 기반으로 성장하게 될 것”이라면서 “법령·조례는 시작일 뿐 서비스 영역과 언어를 지속 늘려가겠다”고 말했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "현재 국가 법령은 5000개, 지자체 조례는 10만건에 달한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "에버트란은 법제처 법령 오픈 애플리케이션 프로그래밍 인터페이스(API)를 통해 이들 조항을 실시간 받아온다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "개정 법령이나 조례도 자동 추가되도록 시스템화했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "일반 사용자는 무료로 이용할 수 있다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "공공기관, 지자체에만 사용료를 받는다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "수요는 갈수록 많아질 전망이다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "국내 거주 외국인을 위해 실생활 관련 법령, 조례를 번역해 서비스하는 지자체가 늘고 있기 때문이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "서울시는 일부 조례를 영어와 중국어로 번역, 외국인의 국내 정착을 돕는다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "대부분 전문 번역가에 작업을 맡긴다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "번역에 필요한 시간, 비용이 클 뿐 아니라 번역 품질이 일정치 않다는 지적을 받고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "이번 플랫폼은 웹과 애플리케이션(앱), 고객사 버전으로 구성됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "고객사용에는 'MTPE' 방식을 적용했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "인공신경망번역 기술로 번역한 결과물을 전문 번역사가 검수하도록 설계했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "법, 조례 개정사항이 등장하면 실시간 알려준다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "에버트란은 2006년에 문을 열었다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "미국 마이크로소프트 번역 기술 공식 파트너다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "번역 지원 소프트웨어(SW) 비주얼트란을 개발했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "세계 모든 언어를 번역할 수 있다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "번역문 데이터베이스(DB)를 빅데이터 시스템에 모은다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "에버트란은 오는 12일 광운대학교에서 AI 한영 법률번역 전문 서비스 출시 기념행사를 연다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "플랫폼 올라타는 'AI 번역'…에버트란, 법령·조례 서비스",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009697",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "골프존 작년 매출 2098억원",
+		"newsSubTitle": "전년比 14%↑ 겨울성수기 라운딩 증가 영향",
+		"newsContent": "(주)골프존은 2011년도 실적 집계 결과, 4분기 매출 528억원, 2011년 전체 매출 2098억원을 달성했다고 14일 밝혔다.\n골프존의 지난해 4분기 실적은 매출 528억원, 영업이익 106억원, 순이익 138억원을 기록했다.\n네트워크 서비스 및 유통사업 매출 확대에 힘입어 매출이 전년 동기 대비 16% 증가했으며, 영업이익도 지난해 같은 기간보다 26% 늘었다.\n사업부문별 매출 중 네트워크 서비스 부문은 겨울 성수기 라운딩 수 증가에 따라 전년 대비 281%, 전분기 대비 24%로 대폭 증가했으며, 전체 매출 가운데는 18%를 차지하며 성장을 주도했다.\n유통 부문 매출 또한 오프라인 유통매장 등 B2C 유통 판매 호조에 따라 지난해 같은 기간보다 40%, 전분기 대비 21% 증가하며 전체 매출의 14%를 차지해 본격적인 성장세를 나타냈다.\n2011년도 전체 실적은 매출 2098억원, 영업이익 547억원을 달성하며, 전년 대비 각각 14% 증가, 13% 감소했다.\n한편, 골프존은 올해 실적으로 매출 2653억원, 영업이익 705억원, 당기순이익 752억원을 목표로 하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "(주)골프존은 2011년도 실적 집계 결과, 4분기 매출 528억원, 2011년 전체 매출 2098억원을 달성했다고 14일 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "골프존의 지난해 4분기 실적은 매출 528억원, 영업이익 106억원, 순이익 138억원을 기록했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네트워크 서비스 및 유통사업 매출 확대에 힘입어 매출이 전년 동기 대비 16% 증가했으며, 영업이익도 지난해 같은 기간보다 26% 늘었다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사업부문별 매출 중 네트워크 서비스 부문은 겨울 성수기 라운딩 수 증가에 따라 전년 대비 281%, 전분기 대비 24%로 대폭 증가했으며, 전체 매출 가운데는 18%를 차지하며 성장을 주도했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유통 부문 매출 또한 오프라인 유통매장 등 B2C 유통 판매 호조에 따라 지난해 같은 기간보다 40%, 전분기 대비 21% 증가하며 전체 매출의 14%를 차지해 본격적인 성장세를 나타냈다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2011년도 전체 실적은 매출 2098억원, 영업이익 547억원을 달성하며, 전년 대비 각각 14% 증가, 13% 감소했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 골프존은 올해 실적으로 매출 2653억원, 영업이익 705억원, 당기순이익 752억원을 목표로 하고 있다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한은, 기준금리 2.25%로 동결",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

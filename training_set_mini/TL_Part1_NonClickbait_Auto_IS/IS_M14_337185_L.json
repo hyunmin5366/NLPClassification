@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337185",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "국내서 워너크라이 피해 많은 곳은 '교육기관'",
+		"newsSubTitle": "",
+		"newsContent": "국내서 지난 5월 세계를 강타한 워너크라이 랜섬웨어 피해를 가장 많이 본 곳은 교육기관으로 나타났다.\n한국인터넷진흥원(KISA)이 발표한 워너크라이 분석 스페셜 리포트에 따르면 21개 피해 기관 가운데 교육기관이 5곳, 의료 3곳 순이었다.\n방송∙미디어∙출판계를 비롯해 유통∙쇼핑몰도 피해를 보았다.\n교육기관은 과거부터 해커 놀이터로 악명이 높은 곳이다.\n시스템이 낙후한 데다 보안 업데이트 등 기본 보안 수칙조차 지켜지지 않는 곳이 많다.\n피해 기관 분석 결과 윈도 서버 2008, 윈도7, 윈도XP 운용체계(OS) 시스템이 피해를 봤다.\n이들은 공통으로 윈도 서버 메시지 블록(SMB)이 활성화됐으며, 지난 3월 마이크로소프트(MS)가 내놓은 보안 업데이트를 하지 않았다.\n워너크라이 최초 유포 경로는 아직 밝혀지지 않았다.\n스피어 피싱이나 해킹된 웹 사이트 방문으로 감염된 이후 주변 국가로 전파된 것으로 추정된다.\n세계로 감염이 확산한 것은 웜 형태와 유사하게 자신을 복제, 네트워크로 전파하기 때문이다.\n워너크라이는 암호화된 파일 몸 값으로 지불해도 풀릴 가능성이 희박하다.\n해커가 수동으로 복호화 키를 전송하는 방식을 썼다.\n워너크라이 변종 상당수가 몸값을 어떤 PC에서 지불했는지 식별 정보가 없었다.\nKISA는 워너크라이는 전체 총 45종 파일로 구성됐다고 분석했다.\n익스플로잇 키트와 랜섬웨어 확산용 악성코드, 추가 악성코드 생성, 토르 네트워크 접속과 암복호화에 필요한 악성코드 및 랜섬노트, 언어 설정, 공개 키 파일 등이 포함됐다.\n워너크라이는 자폭장치(킬스위치)가 들어간 랜섬웨어였다.\n랜섬웨어가 동작하면 먼저 킬스위치 체크 루틴을 거친다.\n악성코드가 특정 도메인으로 연결이 가능하면 더 이상 동작하지 않고 스스로 종료한다.\n감염 대수가 많으면 많을수록 해커에게 이익이 되는 랜섬웨어에 종료 기능이 들어가 의구심을 불러왔다.\n일각에서는 △랜섬웨어 제어 불능 상태 폭주 방지 △보안 회사 샌드박싱을 이용한 탐지 우회 △킬 스위치 접속 로그를 통한 랜섬웨어 확산 규모 파악을 위해 해당 기능이 들어간 것으로 분석했다.\n영국의 한 보안 관계자가 5월 13일 워너크라이 전파를 무력화할 수 있는 킬 스위치를 찾아 확산이 주춤했지만 14일 킬 스위치가 없는 워너크라이 2.0 버전이 등장, 감염이 줄지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내서 지난 5월 세계를 강타한 워너크라이 랜섬웨어 피해를 가장 많이 본 곳은 교육기관으로 나타났다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국인터넷진흥원(KISA)이 발표한 워너크라이 분석 스페셜 리포트에 따르면 21개 피해 기관 가운데 교육기관이 5곳, 의료 3곳 순이었다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방송∙미디어∙출판계를 비롯해 유통∙쇼핑몰도 피해를 보았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "교육기관은 과거부터 해커 놀이터로 악명이 높은 곳이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시스템이 낙후한 데다 보안 업데이트 등 기본 보안 수칙조차 지켜지지 않는 곳이 많다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "피해 기관 분석 결과 윈도 서버 2008, 윈도7, 윈도XP 운용체계(OS) 시스템이 피해를 봤다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이들은 공통으로 윈도 서버 메시지 블록(SMB)이 활성화됐으며, 지난 3월 마이크로소프트(MS)가 내놓은 보안 업데이트를 하지 않았다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "워너크라이 최초 유포 경로는 아직 밝혀지지 않았다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "스피어 피싱이나 해킹된 웹 사이트 방문으로 감염된 이후 주변 국가로 전파된 것으로 추정된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "세계로 감염이 확산한 것은 웜 형태와 유사하게 자신을 복제, 네트워크로 전파하기 때문이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "워너크라이는 암호화된 파일 몸 값으로 지불해도 풀릴 가능성이 희박하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "해커가 수동으로 복호화 키를 전송하는 방식을 썼다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "워너크라이 변종 상당수가 몸값을 어떤 PC에서 지불했는지 식별 정보가 없었다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "KISA는 워너크라이는 전체 총 45종 파일로 구성됐다고 분석했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "익스플로잇 키트와 랜섬웨어 확산용 악성코드, 추가 악성코드 생성, 토르 네트워크 접속과 암복호화에 필요한 악성코드 및 랜섬노트, 언어 설정, 공개 키 파일 등이 포함됐다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "워너크라이는 자폭장치(킬스위치)가 들어간 랜섬웨어였다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "랜섬웨어가 동작하면 먼저 킬스위치 체크 루틴을 거친다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "악성코드가 특정 도메인으로 연결이 가능하면 더 이상 동작하지 않고 스스로 종료한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "감염 대수가 많으면 많을수록 해커에게 이익이 되는 랜섬웨어에 종료 기능이 들어가 의구심을 불러왔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "일각에서는 △랜섬웨어 제어 불능 상태 폭주 방지 △보안 회사 샌드박싱을 이용한 탐지 우회 △킬 스위치 접속 로그를 통한 랜섬웨어 확산 규모 파악을 위해 해당 기능이 들어간 것으로 분석했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "영국의 한 보안 관계자가 5월 13일 워너크라이 전파를 무력화할 수 있는 킬 스위치를 찾아 확산이 주춤했지만 14일 킬 스위치가 없는 워너크라이 2.0 버전이 등장, 감염이 줄지 않았다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국내서 워너크라이 피해 많은 곳은 '교육기관'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

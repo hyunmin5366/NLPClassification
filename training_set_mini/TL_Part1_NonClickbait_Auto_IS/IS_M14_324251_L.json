@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324251",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "글루시스, 국제 스토리지 성능평가 'SPC-2' 가격 대비 성능 1위 달성",
+		"newsSubTitle": "",
+		"newsContent": "글루시스(대표 박성순)는 올플래시 스토리지 'AnyStor 700ED'가 'SPC(Storage Performance Council)-2' 성능평가에서 가격 대비 성능 부문 1위를 달성했다고 밝혔다.\n지난 2019년 11월에 진행한 SPC-1 성능평가에서 가격 대비 성능 1위를 차지한 데 이어 SPC-2 평가에서도 1위를 차지했다.\nSPC는 스토리지 성능을 평가하고 평가결과를 제공하는 국제 비영리단체로 국내에선 TTA와 ETRI가 활동하고 있다.\n글루시스는 지난달 TTA 지원 속에 'AnyStor 700ED'에 대한 'SPC-2' 성능 평가를 진행했다.\nSPC-2 벤치마크 테스트는 대규모 미션 크리티컬한 애플리케이션을 운용하는 비즈니스의 순차적인 스루풋(Throughput)을 측정한다.\n대규모 파일 처리, 대규모 데이터베이스 쿼리, 주문형 비디오(VoD) 환경을 구현해 테스트한다.\n이번 테스트에서 'AnyStor 700ED'는 최대 스루풋 초당 10987MB 성능을 보유, MB/s(MBPS) 당 가격이 3.43달러로 가격 대비 성능 1위를 차지했다.\n이 모델은 24베이에 듀얼 컨트롤러로 구성된 올플래시 스토리지다.\n플래시 드라이브는 삼성 SAS SSD 1.9TB 24개를 탑재했다. 'AnyStor 700ED'는 기존 어플라이언스 스토리지와 달리 AIC의 x86 범용 서버를 활용한 SW 정의 스토리지다.\n지난 SPC-1 성능평가와 더불어 벤더 어플라이언스의 각축장이던 SPC 성능평가에서 거의 유일한 x86 범용 서버 활용 사례이다. 'AnyStor 700ED'는 인피니밴드를 기반으로 iSER(iSCSI Extensions for RDMA)를 지원하며, 파일 서비스도 지원해 멀티 프로토콜 서비스를 제공한다.\n빅데이터 워크로드 처리나 OTT(Over The Top) 서비스와 같은 비디오 스트리밍 서비스용 스토리지로 적합하다.\n김경표 글루시스 CTO는 “지난 SPC-1 성능평가에서는 어레이의 랜덤 IOPS(Input Output Operations Per Second)를 측정한 것과는 달리 이번 SPC-2는 스루풋 위주로 성능지표를 측정했다”면서“두 번의 국제 인증 성과로 제품의 성능과 가격 경쟁력을 충분히 인정받았다고 말했다.\n그는“국산 스토리지에 대한 인지도와 매출 측면에서 좋은 성과를 낼 수 있을 것”으로 기대했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글루시스(대표 박성순)는 올플래시 스토리지 'AnyStor 700ED'가 'SPC(Storage Performance Council)-2' 성능평가에서 가격 대비 성능 부문 1위를 달성했다고 밝혔다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2019년 11월에 진행한 SPC-1 성능평가에서 가격 대비 성능 1위를 차지한 데 이어 SPC-2 평가에서도 1위를 차지했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SPC는 스토리지 성능을 평가하고 평가결과를 제공하는 국제 비영리단체로 국내에선 TTA와 ETRI가 활동하고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "글루시스는 지난달 TTA 지원 속에 'AnyStor 700ED'에 대한 'SPC-2' 성능 평가를 진행했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SPC-2 벤치마크 테스트는 대규모 미션 크리티컬한 애플리케이션을 운용하는 비즈니스의 순차적인 스루풋(Throughput)을 측정한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대규모 파일 처리, 대규모 데이터베이스 쿼리, 주문형 비디오(VoD) 환경을 구현해 테스트한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 테스트에서 'AnyStor 700ED'는 최대 스루풋 초당 10987MB 성능을 보유, MB/s(MBPS) 당 가격이 3.43달러로 가격 대비 성능 1위를 차지했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 모델은 24베이에 듀얼 컨트롤러로 구성된 올플래시 스토리지다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "플래시 드라이브는 삼성 SAS SSD 1.9TB 24개를 탑재했다. 'AnyStor 700ED'는 기존 어플라이언스 스토리지와 달리 AIC의 x86 범용 서버를 활용한 SW 정의 스토리지다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지난 SPC-1 성능평가와 더불어 벤더 어플라이언스의 각축장이던 SPC 성능평가에서 거의 유일한 x86 범용 서버 활용 사례이다. 'AnyStor 700ED'는 인피니밴드를 기반으로 iSER(iSCSI Extensions for RDMA)를 지원하며, 파일 서비스도 지원해 멀티 프로토콜 서비스를 제공한다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "빅데이터 워크로드 처리나 OTT(Over The Top) 서비스와 같은 비디오 스트리밍 서비스용 스토리지로 적합하다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "김경표 글루시스 CTO는 “지난 SPC-1 성능평가에서는 어레이의 랜덤 IOPS(Input Output Operations Per Second)를 측정한 것과는 달리 이번 SPC-2는 스루풋 위주로 성능지표를 측정했다”면서“두 번의 국제 인증 성과로 제품의 성능과 가격 경쟁력을 충분히 인정받았다고 말했다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "그는“국산 스토리지에 대한 인지도와 매출 측면에서 좋은 성과를 낼 수 있을 것”으로 기대했다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "글루시스, 국제 스토리지 성능평가 'SPC-2' 가격 대비 성능 1위 달성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

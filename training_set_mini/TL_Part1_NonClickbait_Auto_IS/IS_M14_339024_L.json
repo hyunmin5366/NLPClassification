@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339024",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "'Mozi봇넷' 주의보 발령, 72개국 1만1700여대 IoT 장비 감염 확인",
+		"newsSubTitle": "",
+		"newsContent": "'Mozi봇넷' 주의보가 발령됐다.\n국내 공공기관 사물인터넷(IoT) 장비 100여대가 Mozi봇넷 악성코드에 감염됐다.\nMozi봇넷은 감염 장비를 DDoS 공격을 위한 좀비 PC로 활용하는 악성코드다.\n민간 부문은 피해 규모를 파악하기도 어려워 대규모 피해로 이어질 가능성도 있다.\n국가정보원은 러시아와의 정보 공유를 통해 세계 72개국 IoT 장비 1만1700여대가 Mozi봇넷 악성코드에 감염된 사실을 확인하고 대응에 나섰다고 밝혔다.\n국정원은 지난해 12월 러시아 침해사고대응팀(CERT)으로부터 \\\"한국 IP 주소를 경유한 해킹 시도가 있다\\\"는 정보를 공유했다.\n국정원이 현장 조사를 실시한 결과 국내 모 지자체 PC일체형 광고 모니터가 Mozi봇넷에 감염된 사실을 확인했다.\n국정원은 현재까지 국가∙공공기관 점검 결과 총 100여대가 감염된 것으로 파악했다.\n국정원은 이달 초 사이버위협정보공유시스템(NCTI∙KCTI)을 통해 관련 사실을 공공기관, 민간기업 등에 긴급 전파했다.\n유관기관 등과 경유지 차단, 악성코드 제거 등 보안 조치를 진행하고 있다.\n감염 장비의 IP 주소가 확인된 미국∙일본∙유럽연합(EU) 일부 회원국과 관련 정보를 공유했고, 전체 감염 장비의 83%를 차지하는 중국에는 피해 확산 차단 및 공격 주체 규명을 위해 침해사고대응팀(CERT)에 관련 자료를 지원했다.\n국정원 관계자는 \\\"제품 구매 당시 설정된 비밀번호를 바꾸지 않거나 제3자가 쉽게 추측할 수 있는 비밀번호를 사용하는 장비가 주요 공격 대상\\\"이라고 밝혔다. <용어설명>Mozi봇넷= 미라이(Mirai)를 기반한 사물인터넷(IoT) 봇넷 멀웨어.\n사실상 소스가 공개돼 해커가 자유롭게 공격에 이용하고 있으며, 최근 들어 피해 사례가 끊임없이 나오고 있다.\n공유기, CCTV 등 리눅스로 실행하는 대다수 IoT기기를 공격, 서버 등 장치를 감염시키고 좀비 기기로 전환시키고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'Mozi봇넷' 주의보가 발령됐다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 공공기관 사물인터넷(IoT) 장비 100여대가 Mozi봇넷 악성코드에 감염됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "Mozi봇넷은 감염 장비를 DDoS 공격을 위한 좀비 PC로 활용하는 악성코드다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "민간 부문은 피해 규모를 파악하기도 어려워 대규모 피해로 이어질 가능성도 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국가정보원은 러시아와의 정보 공유를 통해 세계 72개국 IoT 장비 1만1700여대가 Mozi봇넷 악성코드에 감염된 사실을 확인하고 대응에 나섰다고 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국정원은 지난해 12월 러시아 침해사고대응팀(CERT)으로부터 \\\"한국 IP 주소를 경유한 해킹 시도가 있다\\\"는 정보를 공유했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국정원이 현장 조사를 실시한 결과 국내 모 지자체 PC일체형 광고 모니터가 Mozi봇넷에 감염된 사실을 확인했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국정원은 현재까지 국가∙공공기관 점검 결과 총 100여대가 감염된 것으로 파악했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "국정원은 이달 초 사이버위협정보공유시스템(NCTI∙KCTI)을 통해 관련 사실을 공공기관, 민간기업 등에 긴급 전파했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "유관기관 등과 경유지 차단, 악성코드 제거 등 보안 조치를 진행하고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "감염 장비의 IP 주소가 확인된 미국∙일본∙유럽연합(EU) 일부 회원국과 관련 정보를 공유했고, 전체 감염 장비의 83%를 차지하는 중국에는 피해 확산 차단 및 공격 주체 규명을 위해 침해사고대응팀(CERT)에 관련 자료를 지원했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "국정원 관계자는 \\\"제품 구매 당시 설정된 비밀번호를 바꾸지 않거나 제3자가 쉽게 추측할 수 있는 비밀번호를 사용하는 장비가 주요 공격 대상\\\"이라고 밝혔다. <용어설명>Mozi봇넷= 미라이(Mirai)를 기반한 사물인터넷(IoT) 봇넷 멀웨어.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "사실상 소스가 공개돼 해커가 자유롭게 공격에 이용하고 있으며, 최근 들어 피해 사례가 끊임없이 나오고 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "공유기, CCTV 등 리눅스로 실행하는 대다수 IoT기기를 공격, 서버 등 장치를 감염시키고 좀비 기기로 전환시키고 있다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'Mozi봇넷' 주의보 발령, 72개국 1만1700여대 IoT 장비 감염 확인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

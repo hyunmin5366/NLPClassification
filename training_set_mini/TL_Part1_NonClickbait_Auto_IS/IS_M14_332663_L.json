@@ -1,0 +1,312 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332663",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "'테슬라 AI데이'...\\\"반도체·슈퍼컴퓨터·로봇, 직접 만든다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "테슬라가 19일(현지 시간) 미국 테슬라 본사에서 'AI(인공지능)데이' 행사를 열고, 반도체 'D1', 슈퍼컴퓨터 '도조(Dojo)', '테슬라 봇(Tesla Bot)'를 핵심으로 한 미래 비전을 공개했다.\n미래차 시대에 맞춰 자율주행, 인공지능(AI) 등을 준비하는 기존의 완성차 업체와 크게 다를 바 없었지만, 테슬라는 인수합병(M&A)나 전략적 제휴를 통하지 않고, 독자적 기술과 방식을 앞세운 차별화 전략이 눈에 띈다.\n테슬라는 반도체나 라이다(Lidar), 정밀지도(HDmap) 같은 기성품이나 기존 방식은 사용하지 않으면서, 처음부터 필요한 기술 전반의 자체 경쟁력을 확보해 사업 아이템 확장은 물론, 가격경쟁력을 위한 생산성까지 고려한 미래 전략을 소개했다.\n이날 가장 주목을 받은 건 휴머노이드 로봇(인간의 신체와 닮은 로봇)인' 테슬라 봇'이다.\n일론 머스크 테슬라 CEO는 “내년에 테슬라 봇의 '프로토 타입'이 나올 예정”이라고 밝혔다.\n이 로봇은 크기 172cm, 무게 57kg에 20kg 정도의 물건을 옮길 수 있도록 제작된다.\n이동 속도는 시속 8km 정도로, 머리 부위엔 정보를 표시하는 디스플레이가 탑재된다.\n머리 부문에는 각종 정보를 확인할 수 있는 스크린과 오토파일럿용 카메라가, 몸통엔 FSD(Full Self-Driving) 컴퓨터 시스템이 적용된다.\n이 시스템은 멀티캠 비디오 기반의 신경망, 신경망 운영, 자동 승인(Auto-Labeling), 시뮬레이션 툴, FSD 하드웨어 등으로 구성된다.\n또 두 발에는 균형을 맞출 수 있는 기술과 물리력을 감지할 수 있는 센서를 탑재했고 두 팔에 10개씩, 목 2개, 손 12개, 두 다리에 각각 6개 등 모두 40개의 액추에이터를 장착했다.\n테슬라는 자율주행차에 쓰일 같은 칩과 센서를 활용한다는 방침이다.\n머스크는 “휴머노이드 로봇이 인간의 반복적이고 지루한 작업을 수행할 수 있다”며 “테슬라 봇은 노동 비용을 줄여 세계 경제를 획기적으로 바꿀 것이다”고 말했다.\n이날 행사장에는 로봇 실물을 배치했지만, 움직이는 모습은 공개하지 않았다.\n또한 이날 테슬라는 자체 개발한 반도체 'D1', 슈퍼컴퓨터 '도조(Dojo)'를 기반으로 한 AI 기술을 공개했다.\n테슬라의 AI는 차량에 장착된 8개 카메라를 통해 들어온 영상 정보를 신경망 기술로 분석해 분류한 뒤 이를 주변 환경에 접목해 차량이 스스로 판단하는 구조로 완성된다.\n개별 카메라에서 들어온 데이터를 이용해 독자 알고리즘의 '3D 스페이스(공간)'를 구현해 정확한 분석과 판단을 돕도록 설계했다는 설명이다.\n여기에 지금까지 테슬라가 수집한 빅데이터를 활용해 주행 완성도를 높인다는 전략이다.\n예로 좌회전 시 교차로나 차선이 흐리거나 불분명한 도로에서 지금까지 축적된 운행 데이터를 바탕으로 정확히 차선 선택해 주행한다.\n다수의 차가 주차된 도심 주택가를 통과할 때도 주변 차량의 거리와 각도를 정확히 파악할 수 있다는 설명이다.\n카메라를 통해 수집된 각종 데이터를 처음에는 수동으로 분류한 뒤 기계학습을 통해 자동으로 분류하며, 이를 바탕으로 시뮬레이션을 거친 후 최종적으로 당장 활용 가능한 정보로 가공하는 과정을 반복하는 구조로 설계했다.\n이는 라이다(Lidar)를 이용한 정밀지도(HDmap)나 다른 보조적 수단 없이도 학습된 데이터를 바탕으로 새로운 상황에 적절하게 대응할 수 있도록 AI가 스스로 판단하도록 설계됐다.\n이날 테슬라는 이러한 AI 기술을 활용한 실제 사례도 소개했다.\n오토파일럿 모드에서 다수 차량이 주차된 좁은 골목길에서 맞은편에 차량이 2대나 순서대로 접근하는 상황에서 AI가 이를 회피 또는 양보할 수 있는 경로를 파악해 사고나 불편 없이 안전하게 골목길을 뚫고 나오는 장면을 공개했다.\n또 차량과 보행자가 뒤엉킨 원형 교차로에서 원하는 차선으로 부드럽게 진입하고 탈출하는 모습, 주차장을 돌며 빈자리를 찾아 자동으로 주차하는 모습 등도 소개했다.\n이렇게 검증된 정보들은 최종적으로 테슬라 전기차에 장착된 자율주행(FSD·Full Self-Driving) 컴퓨터를 거쳐 실제 차량 운행에 활용되지만, 중간 처리 과정에서 최상의 AI 학습 성능을 제공하기 위해 테슬라가 독자 설계한 자율주행 신경망 처리 슈퍼컴퓨터 '도조(Dojo)'가 대용량 정보 처리를 맡는다.\n전 세계 100만 대 이상의 테슬라 전기차로부터 수집한 막대한 양의 도로 교통·운행 데이터를 신경망 처리를 통해 분석, 자율주행 완성도를 높인다는 계획이다.\n이를 위해 테슬라는 슈퍼컴퓨터 도조를 위해 'D1'으로 부르는 칩을 자체 개발했다.\nD1은 50만 개 노드를 동시에 처리하며 초당 36TB의 속도로 데이터를 처리한다. 고성능 유지를 위해 전원공급 역시 개별 프로세서에 직접 공급하는 통합 구조로 완성된다.\n슈퍼컴퓨터 도조는 이러한 D1칩 3000개를 조합해 초당 100경번 연산이 가능한 1.1엑사플롭스(exaFLOP)급 성능을 제공한다.\n도조는 네트워크 패브릭으로 연결된 분산 컴퓨팅 아키텍처이며 대규모 컴퓨팅 플레인, 짧은 지연 시간을 가진 매우 높은 대역폭, 파티션 분할과 매핑된 형태로 설계됐다.\n테슬라 측은 서버용 칩과 통합 시스템, 컴퓨팅 클러스터와 이를 구동하는 소프트웨어까지 모두 독자 설계해 완성했다고 밝혔다.\n머스크는 “과거엔 엘리베이터를 작동하는 사람이 있어, 그 사람을 통해서만 운행 가능했지만, 지금은 100층이 넘는 건물도 버튼만 누르면 원하는 층에 갈 수 있는 것처럼 자율주행차도 미래엔 평범한 것이 될 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 32,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "테슬라가 19일(현지 시간) 미국 테슬라 본사에서 'AI(인공지능)데이' 행사를 열고, 반도체 'D1', 슈퍼컴퓨터 '도조(Dojo)', '테슬라 봇(Tesla Bot)'를 핵심으로 한 미래 비전을 공개했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미래차 시대에 맞춰 자율주행, 인공지능(AI) 등을 준비하는 기존의 완성차 업체와 크게 다를 바 없었지만, 테슬라는 인수합병(M&A)나 전략적 제휴를 통하지 않고, 독자적 기술과 방식을 앞세운 차별화 전략이 눈에 띈다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "테슬라는 반도체나 라이다(Lidar), 정밀지도(HDmap) 같은 기성품이나 기존 방식은 사용하지 않으면서, 처음부터 필요한 기술 전반의 자체 경쟁력을 확보해 사업 아이템 확장은 물론, 가격경쟁력을 위한 생산성까지 고려한 미래 전략을 소개했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 가장 주목을 받은 건 휴머노이드 로봇(인간의 신체와 닮은 로봇)인' 테슬라 봇'이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일론 머스크 테슬라 CEO는 “내년에 테슬라 봇의 '프로토 타입'이 나올 예정”이라고 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 로봇은 크기 172cm, 무게 57kg에 20kg 정도의 물건을 옮길 수 있도록 제작된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이동 속도는 시속 8km 정도로, 머리 부위엔 정보를 표시하는 디스플레이가 탑재된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "머리 부문에는 각종 정보를 확인할 수 있는 스크린과 오토파일럿용 카메라가, 몸통엔 FSD(Full Self-Driving) 컴퓨터 시스템이 적용된다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 시스템은 멀티캠 비디오 기반의 신경망, 신경망 운영, 자동 승인(Auto-Labeling), 시뮬레이션 툴, FSD 하드웨어 등으로 구성된다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또 두 발에는 균형을 맞출 수 있는 기술과 물리력을 감지할 수 있는 센서를 탑재했고 두 팔에 10개씩, 목 2개, 손 12개, 두 다리에 각각 6개 등 모두 40개의 액추에이터를 장착했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "테슬라는 자율주행차에 쓰일 같은 칩과 센서를 활용한다는 방침이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "머스크는 “휴머노이드 로봇이 인간의 반복적이고 지루한 작업을 수행할 수 있다”며 “테슬라 봇은 노동 비용을 줄여 세계 경제를 획기적으로 바꿀 것이다”고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이날 행사장에는 로봇 실물을 배치했지만, 움직이는 모습은 공개하지 않았다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "또한 이날 테슬라는 자체 개발한 반도체 'D1', 슈퍼컴퓨터 '도조(Dojo)'를 기반으로 한 AI 기술을 공개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "테슬라의 AI는 차량에 장착된 8개 카메라를 통해 들어온 영상 정보를 신경망 기술로 분석해 분류한 뒤 이를 주변 환경에 접목해 차량이 스스로 판단하는 구조로 완성된다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "개별 카메라에서 들어온 데이터를 이용해 독자 알고리즘의 '3D 스페이스(공간)'를 구현해 정확한 분석과 판단을 돕도록 설계했다는 설명이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "여기에 지금까지 테슬라가 수집한 빅데이터를 활용해 주행 완성도를 높인다는 전략이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "예로 좌회전 시 교차로나 차선이 흐리거나 불분명한 도로에서 지금까지 축적된 운행 데이터를 바탕으로 정확히 차선 선택해 주행한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "다수의 차가 주차된 도심 주택가를 통과할 때도 주변 차량의 거리와 각도를 정확히 파악할 수 있다는 설명이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "카메라를 통해 수집된 각종 데이터를 처음에는 수동으로 분류한 뒤 기계학습을 통해 자동으로 분류하며, 이를 바탕으로 시뮬레이션을 거친 후 최종적으로 당장 활용 가능한 정보로 가공하는 과정을 반복하는 구조로 설계했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이는 라이다(Lidar)를 이용한 정밀지도(HDmap)나 다른 보조적 수단 없이도 학습된 데이터를 바탕으로 새로운 상황에 적절하게 대응할 수 있도록 AI가 스스로 판단하도록 설계됐다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이날 테슬라는 이러한 AI 기술을 활용한 실제 사례도 소개했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "오토파일럿 모드에서 다수 차량이 주차된 좁은 골목길에서 맞은편에 차량이 2대나 순서대로 접근하는 상황에서 AI가 이를 회피 또는 양보할 수 있는 경로를 파악해 사고나 불편 없이 안전하게 골목길을 뚫고 나오는 장면을 공개했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "또 차량과 보행자가 뒤엉킨 원형 교차로에서 원하는 차선으로 부드럽게 진입하고 탈출하는 모습, 주차장을 돌며 빈자리를 찾아 자동으로 주차하는 모습 등도 소개했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "이렇게 검증된 정보들은 최종적으로 테슬라 전기차에 장착된 자율주행(FSD·Full Self-Driving) 컴퓨터를 거쳐 실제 차량 운행에 활용되지만, 중간 처리 과정에서 최상의 AI 학습 성능을 제공하기 위해 테슬라가 독자 설계한 자율주행 신경망 처리 슈퍼컴퓨터 '도조(Dojo)'가 대용량 정보 처리를 맡는다.",
+				"sentenceSize": 175
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "전 세계 100만 대 이상의 테슬라 전기차로부터 수집한 막대한 양의 도로 교통·운행 데이터를 신경망 처리를 통해 분석, 자율주행 완성도를 높인다는 계획이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "이를 위해 테슬라는 슈퍼컴퓨터 도조를 위해 'D1'으로 부르는 칩을 자체 개발했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "D1은 50만 개 노드를 동시에 처리하며 초당 36TB의 속도로 데이터를 처리한다. 고성능 유지를 위해 전원공급 역시 개별 프로세서에 직접 공급하는 통합 구조로 완성된다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "슈퍼컴퓨터 도조는 이러한 D1칩 3000개를 조합해 초당 100경번 연산이 가능한 1.1엑사플롭스(exaFLOP)급 성능을 제공한다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "도조는 네트워크 패브릭으로 연결된 분산 컴퓨팅 아키텍처이며 대규모 컴퓨팅 플레인, 짧은 지연 시간을 가진 매우 높은 대역폭, 파티션 분할과 매핑된 형태로 설계됐다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "테슬라 측은 서버용 칩과 통합 시스템, 컴퓨팅 클러스터와 이를 구동하는 소프트웨어까지 모두 독자 설계해 완성했다고 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "머스크는 “과거엔 엘리베이터를 작동하는 사람이 있어, 그 사람을 통해서만 운행 가능했지만, 지금은 100층이 넘는 건물도 버튼만 누르면 원하는 층에 갈 수 있는 것처럼 자율주행차도 미래엔 평범한 것이 될 것”이라고 말했다.",
+				"sentenceSize": 124
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'테슬라 AI데이'...\\\"반도체·슈퍼컴퓨터·로봇, 직접 만든다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

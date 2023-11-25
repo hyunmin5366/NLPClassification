@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354072",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "'재택+출근' 근무에 '네이버웍스' 이용자 늘었다…35만 돌파",
+		"newsSubTitle": "null",
+		"newsContent": "네이버클라우드는 업무용 협업도구 네이버웍스가 올 1분기 글로벌 고객사 35만개를 돌파했다고 26일 밝혔다.\n빅데이터 분석 플랫폼 모바일인덱스에 따르면 네이버웍스는 올 1월 대비 3월 신규설치 증가율이 63%로 주요 6개사(네이버웍스·잔디·카카오워크·하이웍스·플로우·두레이) 중 1위를 차지했다.\n이용자 수도 1위로, 1인당 월평균 사용일수는 15.9일 사용시간은 1.6시간으로 나타났다.\n총 사용시간·일수를 나타내는 충성도 항목은 지난해 4분기에 이어 2분기 연속 1위다.\n네이버의 AI 기술이 반영된 네이버웍스는 △'파파고' 엔진을 기반으로 9개 언어 실시간 통역 △클로바 OCR(광학식문자판독장치)을 활용한 명함 인식 △봇 API를 이용한 프로세스 자동화 기능 등을 제공한다.\n음성 통화나 화면을 공유하는 화상회의 기능도 있어 원격근무와 사무실 출근을 병행하는 하이브리드 근무에 적합하다는 설명이다.\n네이버클라우드 관계자는 \\\"야외 및 스튜디오가 근무가 많은 MBC와 전국 300개 이상의 '인생네컷' 매장을 운영하는 엘케이벤쳐스도 네이버웍스로 디지털 전환을 추진했다\\\"라며 \\\"앞으로도 철저하게 내부에서 검증된 기능들을 선보임으로써 기업 어디에서나 국내 최고 수준의 협업 인프라를 갖출 수 있도록 지원하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버클라우드는 업무용 협업도구 네이버웍스가 올 1분기 글로벌 고객사 35만개를 돌파했다고 26일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "빅데이터 분석 플랫폼 모바일인덱스에 따르면 네이버웍스는 올 1월 대비 3월 신규설치 증가율이 63%로 주요 6개사(네이버웍스·잔디·카카오워크·하이웍스·플로우·두레이) 중 1위를 차지했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이용자 수도 1위로, 1인당 월평균 사용일수는 15.9일 사용시간은 1.6시간으로 나타났다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "총 사용시간·일수를 나타내는 충성도 항목은 지난해 4분기에 이어 2분기 연속 1위다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버의 AI 기술이 반영된 네이버웍스는 △'파파고' 엔진을 기반으로 9개 언어 실시간 통역 △클로바 OCR(광학식문자판독장치)을 활용한 명함 인식 △봇 API를 이용한 프로세스 자동화 기능 등을 제공한다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "음성 통화나 화면을 공유하는 화상회의 기능도 있어 원격근무와 사무실 출근을 병행하는 하이브리드 근무에 적합하다는 설명이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버클라우드 관계자는 \\\"야외 및 스튜디오가 근무가 많은 MBC와 전국 300개 이상의 '인생네컷' 매장을 운영하는 엘케이벤쳐스도 네이버웍스로 디지털 전환을 추진했다\\\"라며 \\\"앞으로도 철저하게 내부에서 검증된 기능들을 선보임으로써 기업 어디에서나 국내 최고 수준의 협업 인프라를 갖출 수 있도록 지원하겠다\\\"고 말했다.",
+				"sentenceSize": 180
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'재택+출근' 근무에 '네이버웍스' 이용자 늘었다…35만 돌파",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

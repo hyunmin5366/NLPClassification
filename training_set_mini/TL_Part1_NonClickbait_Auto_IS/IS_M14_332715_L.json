@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332715",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "네이버 클로바노트, '한·영' 동시 인식...AI로 키워드도 추출",
+		"newsSubTitle": "",
+		"newsContent": "네이버 클로바노트가 이제 한국어와 영어가 섞인 강의나 회의 음성도 동시에 텍스트로 전환이 가능하다.\n네이버는 최근 클로바노트 1.7.0 버전으로 업데이트하면서 한국어와 영어를 동시에 인식 가능하도록 했다고 밝혔다.\n기존 인식언어 옵션에 '한국어+영어'를 추가, 각 언어의 음성에 해당하는 언어로 기록을 동시에 하도록 했다.\n클로바노트는 딥러닝 기술을 활용해 녹음된 음성을 텍스트로 변환하는 STT(speech-to-text) 서비스, 뛰어난 음성인식 품질과 편리한 사용성으로 인기를 얻고 있다.\n지난해 출시 1년만에 앱 누적 다운로드 100만건을 훌쩍 넘어섰다.\n지난해 구글플레이의 '올해를 빛낸 인기 앱'에 선정되기도 했다.\n네이버 클로바는 지난해 8월부터 한국어 외에 영어와 일본어 등 다국어 인식도 지원해 왔으며, 두 개 언어의 동시 인식은 이번이 처음이다.\n네이버 클로바노트측은 음성 인식 정확도를 높이기 위해 다각적인 노력을 기울이고 있다.\n네이버가 자체 개발한 초대규모 인공지능(AI) '하이퍼클로바' 기반 음성인식 기술을 고도화하는 것은 물론, 다양한 기능도 추가하고 있다.\n이번 업그레이드 버전에서는 한영 동시 인식외에도 AI 기술로 노트의 주요 키워드를 뽑아주는 기능이 담았다.\n노트에서 많이 언급된 주요 키워드를 자동으로 뽑아주고, 키워드를 누르면 바로 검색되어 음성 기록을 쉽게 탐색할 수 있도록 했다.\n현재 주요 키워드는 인식 언어가 '한국어'로 설정된 노트만 제공된다.\n네이버 클로바측은 “클로바노트 앱은 물론 PC버전에서도 동시에 반영했다”면서 “조만간 영어의 대소문자 구분도 가능해지도록 하는 등 더 정확하게 음성을 인식할 수 있도록 꾸준히 개선 작업을 진행해 나갈 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버 클로바노트가 이제 한국어와 영어가 섞인 강의나 회의 음성도 동시에 텍스트로 전환이 가능하다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버는 최근 클로바노트 1.7.0 버전으로 업데이트하면서 한국어와 영어를 동시에 인식 가능하도록 했다고 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 인식언어 옵션에 '한국어+영어'를 추가, 각 언어의 음성에 해당하는 언어로 기록을 동시에 하도록 했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "클로바노트는 딥러닝 기술을 활용해 녹음된 음성을 텍스트로 변환하는 STT(speech-to-text) 서비스, 뛰어난 음성인식 품질과 편리한 사용성으로 인기를 얻고 있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 출시 1년만에 앱 누적 다운로드 100만건을 훌쩍 넘어섰다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 구글플레이의 '올해를 빛낸 인기 앱'에 선정되기도 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버 클로바는 지난해 8월부터 한국어 외에 영어와 일본어 등 다국어 인식도 지원해 왔으며, 두 개 언어의 동시 인식은 이번이 처음이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "네이버 클로바노트측은 음성 인식 정확도를 높이기 위해 다각적인 노력을 기울이고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네이버가 자체 개발한 초대규모 인공지능(AI) '하이퍼클로바' 기반 음성인식 기술을 고도화하는 것은 물론, 다양한 기능도 추가하고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이번 업그레이드 버전에서는 한영 동시 인식외에도 AI 기술로 노트의 주요 키워드를 뽑아주는 기능이 담았다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "노트에서 많이 언급된 주요 키워드를 자동으로 뽑아주고, 키워드를 누르면 바로 검색되어 음성 기록을 쉽게 탐색할 수 있도록 했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "현재 주요 키워드는 인식 언어가 '한국어'로 설정된 노트만 제공된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "네이버 클로바측은 “클로바노트 앱은 물론 PC버전에서도 동시에 반영했다”면서 “조만간 영어의 대소문자 구분도 가능해지도록 하는 등 더 정확하게 음성을 인식할 수 있도록 꾸준히 개선 작업을 진행해 나갈 것”이라고 말했다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버 클로바노트, '한·영' 동시 인식...AI로 키워드도 추출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

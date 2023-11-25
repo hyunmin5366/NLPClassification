@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331417",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[2020 전자신문 10대 뉴스(해외)]민간 우주여행 시대 개막",
+		"newsSubTitle": "",
+		"newsContent": "지난달 16일 오전 9시27분, 미국 플로리다주 케네디우주센터에서 일론 머스크가 이끄는 스페이스X의 '리질리언스호'(Resilience)가 국제우주정거장(ISS)으로 날아 올랐다.\n팰컨9 로켓에 실려 발사된 레질리언스호엔 우주비행사 4명이 탑승했다.\n스페이스X가 NASA로부터 우주왕복 운영체제 인증을 받은 뒤 처음으로 수행한 공식 임무다.\n스페이스X는 앞서 2명의 우주비행사를 태우고 ISS 왕복 시험비행을 마친 바 있다.\n스페이스X는 6개월 뒤 리질리언스가 무사히 지구로 귀환하면 본격적으로 우주 여행 상품을 선보인다.\n이르면 새해 하반기에 10일간의 우주여행 상품을 출시한다.\n관광객은 ISS을 오가는 데 2일, 약 8일은 우주 비행사와 ISS에서 생활한다.\n가격은 약 5500만달러(600억원)다.\n스페이스X는 이에 앞서 지구 주위를 도는 궤도 비행 상품의 출시 계획도 발표했다.\n최대 4명의 민간인을 태우고 지구 궤도를 비행한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 16일 오전 9시27분, 미국 플로리다주 케네디우주센터에서 일론 머스크가 이끄는 스페이스X의 '리질리언스호'(Resilience)가 국제우주정거장(ISS)으로 날아 올랐다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "팰컨9 로켓에 실려 발사된 레질리언스호엔 우주비행사 4명이 탑승했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스페이스X가 NASA로부터 우주왕복 운영체제 인증을 받은 뒤 처음으로 수행한 공식 임무다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스페이스X는 앞서 2명의 우주비행사를 태우고 ISS 왕복 시험비행을 마친 바 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스페이스X는 6개월 뒤 리질리언스가 무사히 지구로 귀환하면 본격적으로 우주 여행 상품을 선보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이르면 새해 하반기에 10일간의 우주여행 상품을 출시한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "관광객은 ISS을 오가는 데 2일, 약 8일은 우주 비행사와 ISS에서 생활한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "가격은 약 5500만달러(600억원)다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "스페이스X는 이에 앞서 지구 주위를 도는 궤도 비행 상품의 출시 계획도 발표했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "최대 4명의 민간인을 태우고 지구 궤도를 비행한다.",
+				"sentenceSize": 28
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2020 전자신문 10대 뉴스(해외)]민간 우주여행 시대 개막",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332600",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "日토요타, 희토류 사용 절반 줄인 전기차용 자석 개발",
+		"newsSubTitle": "",
+		"newsContent": "일본 토요타가 희토류 사용을 크게 줄인 전기차용 신형 자석을 개발했다.\n자석 개발 배경에는 세계 희토류 광산을 장악하고 있는 중국에 대한 수입 의존도를 줄이기 위한 전략이 깔렸다.\n21일(현지시간) 미국 CNBC방송 보도에 따르면 토요타는 희토류 사용을 최대 50% 까지 줄인 신형 자석을 개발했다.\n이 자석은 자동차 전기모터나 청소기, 풍력발전기 등 전기동력장치에 사용된다.\n자석은 고가 희토류에 속하는 테르븀과 디스프로슘을 전혀 사용하지 않을뿐더러 가장 일반적인 네오디뮴의 사용량도 절반으로 줄였다.\n토요타는 오는 2025년 말까지 모든 전기차에 신형 자석을 부착할 계획이다.\n신형 자석은 전기차 배터리 생산비용을 줄이고, 희토류 광물시장을 점령하고 있는 중국에 대한 의존도를 낮추는데 크게 활용될 전망이다.\n중국은 세계 공급의 90∼95%를 좌우하는 희토류 최대 생산국이자, 공급국이다.\n중국의 공급 독점으로 희토류 가격은 중국 내 지정학적 리스크나 규제에 취약한 모습을 보여왔다.\n작년 디스프로슘 가격이 불법 채굴을 금지한 중국 정부 규제의 영향으로 급등한 것이 이를 방증한다.\n토요타 측은 \\\"신형 자석은 전기차의 고성능 모터나 전동기기∙로봇∙가전 기구에 이용될 수 있다\\\"며 \\\"희토류 수급의 교란위험을 줄이는 데 기여할 것'이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 토요타가 희토류 사용을 크게 줄인 전기차용 신형 자석을 개발했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자석 개발 배경에는 세계 희토류 광산을 장악하고 있는 중국에 대한 수입 의존도를 줄이기 위한 전략이 깔렸다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "21일(현지시간) 미국 CNBC방송 보도에 따르면 토요타는 희토류 사용을 최대 50% 까지 줄인 신형 자석을 개발했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 자석은 자동차 전기모터나 청소기, 풍력발전기 등 전기동력장치에 사용된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "자석은 고가 희토류에 속하는 테르븀과 디스프로슘을 전혀 사용하지 않을뿐더러 가장 일반적인 네오디뮴의 사용량도 절반으로 줄였다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "토요타는 오는 2025년 말까지 모든 전기차에 신형 자석을 부착할 계획이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신형 자석은 전기차 배터리 생산비용을 줄이고, 희토류 광물시장을 점령하고 있는 중국에 대한 의존도를 낮추는데 크게 활용될 전망이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "중국은 세계 공급의 90∼95%를 좌우하는 희토류 최대 생산국이자, 공급국이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "중국의 공급 독점으로 희토류 가격은 중국 내 지정학적 리스크나 규제에 취약한 모습을 보여왔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "작년 디스프로슘 가격이 불법 채굴을 금지한 중국 정부 규제의 영향으로 급등한 것이 이를 방증한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "토요타 측은 \\\"신형 자석은 전기차의 고성능 모터나 전동기기∙로봇∙가전 기구에 이용될 수 있다\\\"며 \\\"희토류 수급의 교란위험을 줄이는 데 기여할 것'이라고 설명했다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "日토요타, 희토류 사용 절반 줄인 전기차용 자석 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

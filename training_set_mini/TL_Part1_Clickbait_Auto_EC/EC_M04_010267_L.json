@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010267",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "서민금융 콜센터 9월부터 통합",
+		"newsSubTitle": "",
+		"newsContent": "오늘 9월부터 미소금융과 신용회복위원회 등 서민금융 콜센터가 하나로 통합된다.\n서민금융 이용자의 혼란을 줄이고 접근성을 높이기 위해서다.\n금융위원회는 다음달 방송통신위원회와 협의를 거쳐 3~4자리 단일 전화번호를 확정하고 9월 중 서민금융 통합 콜센터를 구축해 가동하겠다고 8일 밝혔다.\n그 동안은 캠코를 비롯해 새희망네트워크, 신용회복위원회, 미소금융, 신용보증재단 등 각 기관별로 별도의 전화번호와 콜센터를 운영해 이용자들이 혼란을 겪어왔다.\n금융위원회는 이같은 혼란을 줄이기 위해 대전에 위치한 캠코 콜센터를 이용해 서민금융 통합 콜센터를 운영하되 기존 새희망네트워크 등의 상담인원 100여명과 장비를 활용할 계획이다.\n금융위는 상담 수요 추정과 파일럿 테스트 등을 거쳐 추후 인원과 장비를 늘릴 예정이다.\n통합 콜센터는 서민금융에 대해 전반적인 내용을 안내하며 심층 상담이 필요한 경우 한국자산관리공사(캠코), 신용회복위원회, 미소재단, 신보재단 등에 착신전화를 연결해 주는 역할을 담담하게 된다.\n다만, 신용회복위원회와 미소금융재단, 지역신보 등의 콜센터는 기존 고객에 대한 서비스 제공을 위해 그대로 존치할 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오늘 9월부터 미소금융과 신용회복위원회 등 서민금융 콜센터가 하나로 통합된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서민금융 이용자의 혼란을 줄이고 접근성을 높이기 위해서다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "금융위원회는 다음달 방송통신위원회와 협의를 거쳐 3~4자리 단일 전화번호를 확정하고 9월 중 서민금융 통합 콜센터를 구축해 가동하겠다고 8일 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그 동안은 캠코를 비롯해 새희망네트워크, 신용회복위원회, 미소금융, 신용보증재단 등 각 기관별로 별도의 전화번호와 콜센터를 운영해 이용자들이 혼란을 겪어왔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금융위원회는 이같은 혼란을 줄이기 위해 대전에 위치한 캠코 콜센터를 이용해 서민금융 통합 콜센터를 운영하되 기존 새희망네트워크 등의 상담인원 100여명과 장비를 활용할 계획이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "금융위는 상담 수요 추정과 파일럿 테스트 등을 거쳐 추후 인원과 장비를 늘릴 예정이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "통합 콜센터는 서민금융에 대해 전반적인 내용을 안내하며 심층 상담이 필요한 경우 한국자산관리공사(캠코), 신용회복위원회, 미소재단, 신보재단 등에 착신전화를 연결해 주는 역할을 담담하게 된다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다만, 신용회복위원회와 미소금융재단, 지역신보 등의 콜센터는 기존 고객에 대한 서비스 제공을 위해 그대로 존치할 예정이다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세월호 참사로 경제활동 올 스톱 ‘안쓰고 안놀았다’",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

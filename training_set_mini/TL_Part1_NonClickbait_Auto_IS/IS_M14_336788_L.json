@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336788",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "엘에스디테크, 하반기 파트너스데이 개최",
+		"newsSubTitle": "",
+		"newsContent": "고성능 서버 전문업체 엘에스디테크(대표 김승욱)가 최근 하반기 파트너스데이를 개최하고 고객사 사례와 내년 신규 사업을 공유하고 사업 추진 전략을 밝혔다.\n엘에스디테크는 그동안 진출이 부진했던 금융부문과 공공부문 레퍼런스를 소개했다.\nA보험사는 엘에스디테크 시스템 도입으로 보험계리 업무가 기존보다 10배 이상 빨라져 추가 발주가 진행되고 있다고 회사는 말했다.\n또 서버 수요가 증가하고 있는 빅데이터, 인공지능 분야에서도 많은 사업 성과를 이뤘으며 교통 관제를 위한 CCTV모니터링 화면을 GPU로 분석하는 컴퓨터 비전 환경에서도 자사 서버 성능이 글로벌 제품에 비해 우수한 것으로 알려지면서 수요가 증가할 것이라고 밝혔다.\n파트너사에서는 BA솔루션즈의 김윤석 전무가 'S4/HANA 인프라 구성 방안과 AI기반 검색플랫폼 루시드웍스 활용방안', 시큐아이의 최범 부장은 'IT인프라 가상화 솔루션 버추얼맥스 영업전략', 이호스트ICT의 강성철 이사는 '고전력 AI전용데이터 센터의 수익 극대화 전략'을 소개했다.\n김승욱 엘에스디테크 대표는 “글로벌 제품에 비해 가격 경쟁력을 갖춰 사업을 추진한 결과 많은 레퍼런스와 전략사업의 인벤토리가 갖춰졌다”면서 “더 많은 제품 라인업을 만들어 파트너사가 다양한 업종 고객층에 공격적인 마케팅과 영업을 추진할 수 있도록 지원하겠다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고성능 서버 전문업체 엘에스디테크(대표 김승욱)가 최근 하반기 파트너스데이를 개최하고 고객사 사례와 내년 신규 사업을 공유하고 사업 추진 전략을 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엘에스디테크는 그동안 진출이 부진했던 금융부문과 공공부문 레퍼런스를 소개했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "A보험사는 엘에스디테크 시스템 도입으로 보험계리 업무가 기존보다 10배 이상 빨라져 추가 발주가 진행되고 있다고 회사는 말했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 서버 수요가 증가하고 있는 빅데이터, 인공지능 분야에서도 많은 사업 성과를 이뤘으며 교통 관제를 위한 CCTV모니터링 화면을 GPU로 분석하는 컴퓨터 비전 환경에서도 자사 서버 성능이 글로벌 제품에 비해 우수한 것으로 알려지면서 수요가 증가할 것이라고 밝혔다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "파트너사에서는 BA솔루션즈의 김윤석 전무가 'S4/HANA 인프라 구성 방안과 AI기반 검색플랫폼 루시드웍스 활용방안', 시큐아이의 최범 부장은 'IT인프라 가상화 솔루션 버추얼맥스 영업전략', 이호스트ICT의 강성철 이사는 '고전력 AI전용데이터 센터의 수익 극대화 전략'을 소개했다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김승욱 엘에스디테크 대표는 “글로벌 제품에 비해 가격 경쟁력을 갖춰 사업을 추진한 결과 많은 레퍼런스와 전략사업의 인벤토리가 갖춰졌다”면서 “더 많은 제품 라인업을 만들어 파트너사가 다양한 업종 고객층에 공격적인 마케팅과 영업을 추진할 수 있도록 지원하겠다”고 밝혔다.",
+				"sentenceSize": 150
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엘에스디테크, 하반기 파트너스데이 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

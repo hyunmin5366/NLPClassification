@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324134",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "국내 중소기업 협력해 슈퍼컴퓨터 만든다",
+		"newsSubTitle": "",
+		"newsContent": "국내 중소기업이 슈퍼컴퓨터를 만든다.\n초고속 디스크 입출력(IO)성능 기술을 보유한 LSD테크와 그래픽처리장치(GPU) 기반의 초고성능 연산 슈퍼컴 제조기업 코코링크가 주인공이다.\nLSD테크와 코코링크는 최근 '국산 슈퍼컴퓨팅사업 협력 및 공동 발전을 위한 협약식'을 맺고 비정형 데이터 분석 전용 슈퍼컴퓨터를 생산한다고 18일 밝혔다.\nLSD테크는 중앙처리장치(CPU) 성능과 디스크 IO를 극대화하는 MAC-T 기술을 보유했다.\nMAC-T는 트랜잭션 처리 단위를 그룹 단위로 묶어 병렬 처리한다.\n메모리는 최소로 사용하면서 일반 SSD의 두 배 이상 성능으로 높인다.\nLSD테크 SSD 서버는 KT, 포스코엔지니어링, 국방과학연구소 등에 공급했다.\n코코링크는 서울대기술지주회사 자회사다.\n슈퍼컴퓨터 아키텍처 기술을 보유, 해외 기관∙기업과도 협업한다.\nGPU 프로그래밍 분야 코드 이식과 최적화에 정상급 역량을 보유했다.\n최근 1.26페타플롭스 초고성능 레디빌트 클러스터 슈퍼컴퓨터 '클라이맥스-페타큐브'를 출시했다.\n1페타플롭스는 초당 1000조번 연상이 가능한 속도다.\nLSD테크와 코코링크는 최근 빠르게 증가하고 있는 비정형 데이터 처리에 대응하기 위해 협약을 체결했다.\n지금까지 슈퍼컴퓨터는 CPU, GPU, 메모리 성능을 기반으로 평가했다.\n이러한 연산 평가 성능은 디스크에서 파일을 불러오는 과정이 빠졌다.\n단순 숫자를 넘어 영상, 문서, 사진 등 비정형 데이터가 빠르게 증가하는 4차 산업혁명 시대와 맞지 않는 계산법이다.\n이동학 코코링크 대표는 \\\"중국은 정부 지원으로 슈퍼컴퓨터를 개발했지만 단순 연산 속도만 끌어올렸을 뿐 실제 데이터 처리 과정에서 디스크 IO 지연으로 제대로 된 성능을 내지 못했다\\\"면서 \\\"연산 과정에 필요한 실제 데이터 양이 숫자에서 영상, 문서 등으로 다양해지면서 디스크 IO 과정이 슈퍼컴퓨터 능력을 좌우하게 됐다\\\"고 설명했다.\nLSD테크와 코코링크는 협약에 따라 디스크 IO 성능과 GPU 기반 슈퍼컴퓨터 능력을 하나로 합친다.\n단일 노드로 비교할 때 세계 최고 성능을 보일 것으로 전망된다.\n기존 제품 대비 두세 배 빠른 속도를 내는 것도 가능하다.\n코코링크는 단일 노드로 0.14PF 속도를 내며, LSD테크는 60만아이옵스(IOPS) 처리 능력을 갖췄다.\n60만아이옵스는 1초에 2000개 한글 문자를 60만번 읽고 쓰는 속도다.\n이기택 LSD테크 대표는 \\\"코코링크와 LSD테크는 각 분야에서 최고 기술력을 갖췄지만 자본의 한계로 성장이 더뎠다\\\"면서 \\\"협력으로 장점을 끌어올려서 세계를 선도하는 슈퍼컴퓨터 기업으로 만들겠다\\\"고 의지를 내보였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 중소기업이 슈퍼컴퓨터를 만든다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "초고속 디스크 입출력(IO)성능 기술을 보유한 LSD테크와 그래픽처리장치(GPU) 기반의 초고성능 연산 슈퍼컴 제조기업 코코링크가 주인공이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LSD테크와 코코링크는 최근 '국산 슈퍼컴퓨팅사업 협력 및 공동 발전을 위한 협약식'을 맺고 비정형 데이터 분석 전용 슈퍼컴퓨터를 생산한다고 18일 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "LSD테크는 중앙처리장치(CPU) 성능과 디스크 IO를 극대화하는 MAC-T 기술을 보유했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "MAC-T는 트랜잭션 처리 단위를 그룹 단위로 묶어 병렬 처리한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "메모리는 최소로 사용하면서 일반 SSD의 두 배 이상 성능으로 높인다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "LSD테크 SSD 서버는 KT, 포스코엔지니어링, 국방과학연구소 등에 공급했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "코코링크는 서울대기술지주회사 자회사다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "슈퍼컴퓨터 아키텍처 기술을 보유, 해외 기관∙기업과도 협업한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "GPU 프로그래밍 분야 코드 이식과 최적화에 정상급 역량을 보유했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "최근 1.26페타플롭스 초고성능 레디빌트 클러스터 슈퍼컴퓨터 '클라이맥스-페타큐브'를 출시했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "1페타플롭스는 초당 1000조번 연상이 가능한 속도다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "LSD테크와 코코링크는 최근 빠르게 증가하고 있는 비정형 데이터 처리에 대응하기 위해 협약을 체결했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "지금까지 슈퍼컴퓨터는 CPU, GPU, 메모리 성능을 기반으로 평가했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이러한 연산 평가 성능은 디스크에서 파일을 불러오는 과정이 빠졌다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "단순 숫자를 넘어 영상, 문서, 사진 등 비정형 데이터가 빠르게 증가하는 4차 산업혁명 시대와 맞지 않는 계산법이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이동학 코코링크 대표는 \\\"중국은 정부 지원으로 슈퍼컴퓨터를 개발했지만 단순 연산 속도만 끌어올렸을 뿐 실제 데이터 처리 과정에서 디스크 IO 지연으로 제대로 된 성능을 내지 못했다\\\"면서 \\\"연산 과정에 필요한 실제 데이터 양이 숫자에서 영상, 문서 등으로 다양해지면서 디스크 IO 과정이 슈퍼컴퓨터 능력을 좌우하게 됐다\\\"고 설명했다.",
+				"sentenceSize": 189
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "LSD테크와 코코링크는 협약에 따라 디스크 IO 성능과 GPU 기반 슈퍼컴퓨터 능력을 하나로 합친다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "단일 노드로 비교할 때 세계 최고 성능을 보일 것으로 전망된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "기존 제품 대비 두세 배 빠른 속도를 내는 것도 가능하다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "코코링크는 단일 노드로 0.14PF 속도를 내며, LSD테크는 60만아이옵스(IOPS) 처리 능력을 갖췄다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "60만아이옵스는 1초에 2000개 한글 문자를 60만번 읽고 쓰는 속도다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이기택 LSD테크 대표는 \\\"코코링크와 LSD테크는 각 분야에서 최고 기술력을 갖췄지만 자본의 한계로 성장이 더뎠다\\\"면서 \\\"협력으로 장점을 끌어올려서 세계를 선도하는 슈퍼컴퓨터 기업으로 만들겠다\\\"고 의지를 내보였다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국내 중소기업 협력해 슈퍼컴퓨터 만든다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

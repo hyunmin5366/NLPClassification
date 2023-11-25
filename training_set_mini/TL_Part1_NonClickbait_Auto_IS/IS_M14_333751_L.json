@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333751",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "상용 소프트웨어 67% 오픈소스 보안 '취약'",
+		"newsSubTitle": "",
+		"newsContent": "윈도 운용체계 취약점을 악용한 워너크라이 랜섬웨어가 세계를 강타했다.\n다음에 이용될 보안 취약점은 오픈소스에서 나올 것이라는 전망이다.\n블랙덕소프트웨어가 최근 발표한 '2017 오픈소스 보안과 리스크 분석' 보고서에 따르면 지난해 새로 발견된 오픈소스 컴포넌트 보안 취약점은 3623개다.\n하루에 10개씩 새로운 보안 취약점이 발견된다.\n오픈소스 컴포넌트를 사용하는 애플리케이션에서 보안 취약점 발견율은 67%이상이다.\n상당수 보안취약점은 평균 4년 이상 공개적으로 노출돼 해커에 악용된다.\n각 애플리케이션에서 발견된 보안취약점은 평균 27개다.\n이번 조사에서 발견된 보안취약점 52.6%가 미국 국립표준기술연구소(NIST)에서 높은 위험도 취약점으로 지정됐다.\n높은 위험도 보안취약점은 아파치 커먼 컬렉션(Apache Commons Collections)과 스프링 프레임워크(Spring Framework), 오픈SSL 같은 보편적인 컴포넌트에서 발견된다.\n운영시스템이나 프로그래밍 언어의 핵심이 되는 인프라스트럭쳐용 컴포넌트에서도 다수의 심각한 보안 취약점이 나타난다.\n리눅스 커널 v.2.6.27.7의 경우 전체 보안취약점이 293개, 심각한 보안취약점이 73개나 됐다.\n보안 취약점 평균 개수가 가장 많은 산업은 금융 서비스와 핀테크다.\n평균 52.5개 보안 취약점이 발견됐다.\n심각한 보안취약점을 포함하는 애플리케이션 비율이 높은 산업군은 리테일 및 이커머스 산업(83%)이다.\n조사된 전체 애플리케이션 중 60%가 심각한 보안취약점을 포함했다.\n이번에 조사된 사이버 보안 애플리케이션의 59%도 심각한 보안취약점을 포함했다.\n김택완 블랙덕소프트웨어코리아 대표는 \\\"보안취약점, 라이선스 위반 등 오픈소스를 둘러싼 이슈 관리를 위해서는 가시화와 관리가 필수\\\"라며, \\\"자동화된 도구를 이용해 애플리케이션을 보호하는 것이 기업 경쟁력을 강화에 도움이 된다\\\"고 말했다.\n보고서 원문은 여기서 다운로드 받을 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "윈도 운용체계 취약점을 악용한 워너크라이 랜섬웨어가 세계를 강타했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다음에 이용될 보안 취약점은 오픈소스에서 나올 것이라는 전망이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "블랙덕소프트웨어가 최근 발표한 '2017 오픈소스 보안과 리스크 분석' 보고서에 따르면 지난해 새로 발견된 오픈소스 컴포넌트 보안 취약점은 3623개다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하루에 10개씩 새로운 보안 취약점이 발견된다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "오픈소스 컴포넌트를 사용하는 애플리케이션에서 보안 취약점 발견율은 67%이상이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "상당수 보안취약점은 평균 4년 이상 공개적으로 노출돼 해커에 악용된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "각 애플리케이션에서 발견된 보안취약점은 평균 27개다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이번 조사에서 발견된 보안취약점 52.6%가 미국 국립표준기술연구소(NIST)에서 높은 위험도 취약점으로 지정됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "높은 위험도 보안취약점은 아파치 커먼 컬렉션(Apache Commons Collections)과 스프링 프레임워크(Spring Framework), 오픈SSL 같은 보편적인 컴포넌트에서 발견된다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "운영시스템이나 프로그래밍 언어의 핵심이 되는 인프라스트럭쳐용 컴포넌트에서도 다수의 심각한 보안 취약점이 나타난다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "리눅스 커널 v.2.6.27.7의 경우 전체 보안취약점이 293개, 심각한 보안취약점이 73개나 됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "보안 취약점 평균 개수가 가장 많은 산업은 금융 서비스와 핀테크다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "평균 52.5개 보안 취약점이 발견됐다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "심각한 보안취약점을 포함하는 애플리케이션 비율이 높은 산업군은 리테일 및 이커머스 산업(83%)이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "조사된 전체 애플리케이션 중 60%가 심각한 보안취약점을 포함했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이번에 조사된 사이버 보안 애플리케이션의 59%도 심각한 보안취약점을 포함했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "김택완 블랙덕소프트웨어코리아 대표는 \\\"보안취약점, 라이선스 위반 등 오픈소스를 둘러싼 이슈 관리를 위해서는 가시화와 관리가 필수\\\"라며, \\\"자동화된 도구를 이용해 애플리케이션을 보호하는 것이 기업 경쟁력을 강화에 도움이 된다\\\"고 말했다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "보고서 원문은 여기서 다운로드 받을 수 있다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "상용 소프트웨어 67% 오픈소스 보안 '취약'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

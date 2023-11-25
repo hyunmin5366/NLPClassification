@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010609",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전ㆍ충남 부도금액 27억 줄어",
+		"newsSubTitle": "8월 어음부도율 0.26%로 전달보다 0.07%p 하락",
+		"newsContent": "지난달 대전ㆍ충남지역 기업의 어음부도율이 전월 대비 하락세를 보였다.\n24일 한국은행 대전충남지역본부에 따르면 8월중 대전ㆍ충남지역의 어음부도율(전자결제조정전, 금액기준)은 0.26%로 전월(0.33%)보다 0.07%포인트 하락했다.\n대전ㆍ충남지역의 지난달 부도금액은 63억9000만원으로 전월(91억5000만원)보다 27억6000만원이 줄었다.\n지역별로는 대전이 0.12%포인트(전월 0.43%), 충남은 0.02%포인트(전월 0.21%) 하락했다.\n업종별로는 제조업이 3억6000만원(22억원→18억4000만원), 건설업 14억7000만원(45억4000만원→30억7000만원), 서비스업 6억2000만원(17억3000만원→11억1000만원)으로 모두 감소했다.\n지역별로 보면 대전 22억원(66억1000만원→44억1000만원), 충남 5억6000만원(25억4000만원→19억8000만원) 감소했다.\n대전ㆍ충남지역의 부도업체수(당좌거래정지업체수)는 4개로 전월(6개)보다 2개 줄었다.\n업종별로는 건설업이 1개(2개→1개), 기타(농림어업) 1개(1개→0개) 감소했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 대전ㆍ충남지역 기업의 어음부도율이 전월 대비 하락세를 보였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 한국은행 대전충남지역본부에 따르면 8월중 대전ㆍ충남지역의 어음부도율(전자결제조정전, 금액기준)은 0.26%로 전월(0.33%)보다 0.07%포인트 하락했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대전ㆍ충남지역의 지난달 부도금액은 63억9000만원으로 전월(91억5000만원)보다 27억6000만원이 줄었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지역별로는 대전이 0.12%포인트(전월 0.43%), 충남은 0.02%포인트(전월 0.21%) 하락했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업종별로는 제조업이 3억6000만원(22억원→18억4000만원), 건설업 14억7000만원(45억4000만원→30억7000만원), 서비스업 6억2000만원(17억3000만원→11억1000만원)으로 모두 감소했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지역별로 보면 대전 22억원(66억1000만원→44억1000만원), 충남 5억6000만원(25억4000만원→19억8000만원) 감소했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대전ㆍ충남지역의 부도업체수(당좌거래정지업체수)는 4개로 전월(6개)보다 2개 줄었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "업종별로는 건설업이 1개(2개→1개), 기타(농림어업) 1개(1개→0개) 감소했다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조폐公 이스라엘 주화 수주",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

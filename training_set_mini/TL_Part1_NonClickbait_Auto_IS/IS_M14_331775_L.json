@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331775",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "컨슈머리포트 '지금 사야할 최고의 4K TV'에 삼성-LG 제품 3종 선정",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자와 LG전자 4K TV가 '지금 구매해야 할 최고의 4K TV'에 나란히 이름을 올렸다.\n7일 미국 소비자 전문매체 '컨슈머리포트'는 삼성전자와 LG전자 4K TV 3개 모델을 최고 제품으로 선정했다.\n컨슈머리포트는 250여 종의 TV를 대상으로 분석해 '최고의 TV(Best TV Overall)'로 'LG 시그니처 올레드 TV W'(OLED65W7P)를 선정했다.\n선정 이유로는 \\\"'벽지(wallpaper) TV'라고 불리는 것처럼 지금까지 등장한 TV 가운데 가장 얇다\\\"면서 \\\"화질은 물론 사운드, 하이다이내믹레인지(HDR) 등에서 최고 성능을 갖췄다\\\"고 설명했다. '최고의 점보사이즈 4K TV'에는 삼성전자 75형 4K TV(UN75MU800D)를, '1000달러 이하 최고 4K TV'에는 삼성전자 55형 초고화질 TV를 각각 선정했다.\n75형 제품에 대해 \\\"아직은 시장에서 드문 75인치 이상 4K TV를 원한다면 이 제품이 고려할만 하다\\\"면서 \\\"탁월한 화질과 우수한 HDR 성능에 음질도 훌륭하다\\\"고 평가했다.\n컨슈머리포트는 \\\"최근 4K TV 가격이 떨어지면서 소비자 선택 폭이 넓어지고, HDR 기능도 점점 대중화하고 있다\\\"면서 \\\"지금이야말로 4K TV 구입을 결정할 때\\\"라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자와 LG전자 4K TV가 '지금 구매해야 할 최고의 4K TV'에 나란히 이름을 올렸다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 미국 소비자 전문매체 '컨슈머리포트'는 삼성전자와 LG전자 4K TV 3개 모델을 최고 제품으로 선정했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "컨슈머리포트는 250여 종의 TV를 대상으로 분석해 '최고의 TV(Best TV Overall)'로 'LG 시그니처 올레드 TV W'(OLED65W7P)를 선정했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "선정 이유로는 \\\"'벽지(wallpaper) TV'라고 불리는 것처럼 지금까지 등장한 TV 가운데 가장 얇다\\\"면서 \\\"화질은 물론 사운드, 하이다이내믹레인지(HDR) 등에서 최고 성능을 갖췄다\\\"고 설명했다. '최고의 점보사이즈 4K TV'에는 삼성전자 75형 4K TV(UN75MU800D)를, '1000달러 이하 최고 4K TV'에는 삼성전자 55형 초고화질 TV를 각각 선정했다.",
+				"sentenceSize": 216
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "75형 제품에 대해 \\\"아직은 시장에서 드문 75인치 이상 4K TV를 원한다면 이 제품이 고려할만 하다\\\"면서 \\\"탁월한 화질과 우수한 HDR 성능에 음질도 훌륭하다\\\"고 평가했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "컨슈머리포트는 \\\"최근 4K TV 가격이 떨어지면서 소비자 선택 폭이 넓어지고, HDR 기능도 점점 대중화하고 있다\\\"면서 \\\"지금이야말로 4K TV 구입을 결정할 때\\\"라고 밝혔다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "컨슈머리포트 '지금 사야할 최고의 4K TV'에 삼성-LG 제품 3종 선정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

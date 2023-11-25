@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338115",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "빔 소프트웨어, 엔씨소프트 가상화 통합 사업에 백업 솔루션 공급",
+		"newsSubTitle": "",
+		"newsContent": "빔 소프트웨어코리아(지사장 박명구)가 엔씨소프트 가상화 통합 시스템 구축 사업에 Veeam Availability Suite을 공급했다고 밝혔다.\n엔씨소프트는 기존 백업 솔루션 환경에서는 가상화 백업의 낮은 성공률, 복구 성능 이슈, 실제 복구 전엔 복구 가능여부를 알 수 없었고 객체 복구가 불가능해 개선이 필요했다.\n이에 엄격한 PoC를 거쳐 빔 소프트웨어 제품을 도입했다.\n이번 공급은 굿모닝아이텍을 통해 이뤄졌으며 VMware, MS Hyper-V 통합 백업으로 구축됐다.\n엔씨소프트는 노후화된 기존 백업 시스템을 교체하고, 안정성과 성능을 고도화하여 데이터 보호 체계를 강화하였다.\nVeeam Availability Suite는 엔씨소프트의 백업 성공률 100%까지 개선하고 가상서버 즉각 복구를 통한 복구시간을 단축했다.\n단축, 백업본 자동 검증 기능, MSSQL, AD 서버에 대한 개별 단위 복구 기능 등을 활용하여 기존 백업 시스템을 개선할 수 있었다.\n복원 작업 절차가 간소화되어 있고, 사용자가 많은 지식 없이 쉽게 복원할 수 있었다.\n엔씨소프트의 장진혁 팀장은 \\\"물리서버의 가상서버 전환(P2V)과 퍼블릭 클라우드 마이그레이션도 Veeam 기능이 지원해 추가 솔루션 도입이 필요 없이 비용 절감 효과 뿐만 아니라 활용도가 높다\\\"고 말했다.\n박명구 빔 소프트웨어 지사장은 \\\"많은 기업들이 가상화 환경에서 빔 소프트웨어의 기능과 성능을 최대한 활용해 비즈니스를 향상시키고 있다\\\"며 \\\"다양한 고객 비즈니스 환경의 안정성과 업무효율을 높일 수 있도록 최선을 다하겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빔 소프트웨어코리아(지사장 박명구)가 엔씨소프트 가상화 통합 시스템 구축 사업에 Veeam Availability Suite을 공급했다고 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엔씨소프트는 기존 백업 솔루션 환경에서는 가상화 백업의 낮은 성공률, 복구 성능 이슈, 실제 복구 전엔 복구 가능여부를 알 수 없었고 객체 복구가 불가능해 개선이 필요했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 엄격한 PoC를 거쳐 빔 소프트웨어 제품을 도입했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 공급은 굿모닝아이텍을 통해 이뤄졌으며 VMware, MS Hyper-V 통합 백업으로 구축됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "엔씨소프트는 노후화된 기존 백업 시스템을 교체하고, 안정성과 성능을 고도화하여 데이터 보호 체계를 강화하였다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "Veeam Availability Suite는 엔씨소프트의 백업 성공률 100%까지 개선하고 가상서버 즉각 복구를 통한 복구시간을 단축했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "단축, 백업본 자동 검증 기능, MSSQL, AD 서버에 대한 개별 단위 복구 기능 등을 활용하여 기존 백업 시스템을 개선할 수 있었다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "복원 작업 절차가 간소화되어 있고, 사용자가 많은 지식 없이 쉽게 복원할 수 있었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "엔씨소프트의 장진혁 팀장은 \\\"물리서버의 가상서버 전환(P2V)과 퍼블릭 클라우드 마이그레이션도 Veeam 기능이 지원해 추가 솔루션 도입이 필요 없이 비용 절감 효과 뿐만 아니라 활용도가 높다\\\"고 말했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "박명구 빔 소프트웨어 지사장은 \\\"많은 기업들이 가상화 환경에서 빔 소프트웨어의 기능과 성능을 최대한 활용해 비즈니스를 향상시키고 있다\\\"며 \\\"다양한 고객 비즈니스 환경의 안정성과 업무효율을 높일 수 있도록 최선을 다하겠다\\\"고 밝혔다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빔 소프트웨어, 엔씨소프트 가상화 통합 사업에 백업 솔루션 공급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

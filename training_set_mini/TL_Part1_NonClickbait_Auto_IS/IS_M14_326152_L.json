@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326152",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "크리니티, 1일부터 클라우드 메일서비스 개시",
+		"newsSubTitle": "",
+		"newsContent": "커뮤니케이션 서비스 전문기업 크리니티(대표 유병선)는 창립 20주년을 맞아 중소사업자를 위한 클라우드 메일서비스를 11월 1일부터 시작한다.\n크리니티는 300여만명 사용자에게 웹메일, 보안메일, 스팸차단, 아카이빙 등 솔루션 구축과 서비스를 제공 중이다.\n최근에는 협업서비스 큐브를 출시하는 등 신기술 개발에 투자하고 있다.\n이번 서비스는 자사 '크리니티 메시징' 제품을 바탕으로 중소사업자가 저렴한 가격에 손쉽게 이용할 수 있도록 했다.\n아마존웹서비스(AWS) 기반 클라우드 메일서비스로 해외시장 진출을 고려했다.\n회사 도메인을 등록하고 주소록, 조직도, 캘린더 등 회사업무 핵심 기능을 활용할 수 있다.\n최대 5인 이하 이용자에게는 무료 서비스 정책을 마련해 1개 도메인 등록, 5GB 용량을 별도 비용없이 무료로 제공한다.\n유병선 크리니티 대표는 “메일서비스를 시작으로 그룹웨어, 협업툴 등 중소기업을 위한 다양한 서비스를 클라우드 형태로 확대 제공할 계획”이라면서 “지속적으로 서비스를 강화하고 신기술을 도입해 커뮤니케이션 분야 글로벌 서비스로 도약하겠다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "커뮤니케이션 서비스 전문기업 크리니티(대표 유병선)는 창립 20주년을 맞아 중소사업자를 위한 클라우드 메일서비스를 11월 1일부터 시작한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "크리니티는 300여만명 사용자에게 웹메일, 보안메일, 스팸차단, 아카이빙 등 솔루션 구축과 서비스를 제공 중이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근에는 협업서비스 큐브를 출시하는 등 신기술 개발에 투자하고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 서비스는 자사 '크리니티 메시징' 제품을 바탕으로 중소사업자가 저렴한 가격에 손쉽게 이용할 수 있도록 했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아마존웹서비스(AWS) 기반 클라우드 메일서비스로 해외시장 진출을 고려했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "회사 도메인을 등록하고 주소록, 조직도, 캘린더 등 회사업무 핵심 기능을 활용할 수 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최대 5인 이하 이용자에게는 무료 서비스 정책을 마련해 1개 도메인 등록, 5GB 용량을 별도 비용없이 무료로 제공한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "유병선 크리니티 대표는 “메일서비스를 시작으로 그룹웨어, 협업툴 등 중소기업을 위한 다양한 서비스를 클라우드 형태로 확대 제공할 계획”이라면서 “지속적으로 서비스를 강화하고 신기술을 도입해 커뮤니케이션 분야 글로벌 서비스로 도약하겠다”고 밝혔다.",
+				"sentenceSize": 137
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "크리니티, 1일부터 클라우드 메일서비스 개시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

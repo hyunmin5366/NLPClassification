@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352093",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 게임",
+		"newsTitle": "\\\"사람이야, 아바타야?\\\"…펄어비스, 美 메타버스 기업 300만불 투자",
+		"newsSubTitle": "null",
+		"newsContent": "펄어비스가 북미 메타버스 엔터테인먼트 기업 '하이퍼리얼'에 300만달러(약 35억5000만원)를 투자했다고 5일 밝혔다.\n하이퍼리얼은 유명인 기반의 초현실적 디지털 아바타 '하이퍼모델' 제작사다.\n최근 폴 매카트니가 젊은시절 모습으로 등장해 화제가 된 뮤직비디오 'Find My Way', 소니와 협업한 매디슨 비어 가상 콘서트에 하이퍼모델 아바타 기술이 적용됐다.\n업계에선 실제 인물과 아바타를 분간하기 어려울 정도로 사실적이라는 평가를 받는다.\n하이퍼리얼은 가상제작 기술을 고도화해 몰입감을 높이고, 다양한 플랫폼에서 파이퍼모델이 활용될 수 있도록 머신러닝 기반의 AI 기술을 적용할 예정이다.\n김경엽 펄어비스 투자전략총괄은 \\\"하이퍼리얼은 실존 인물을 가상 아바타로 만드는 분야에 신두 업체이자, 업계 최고 전문성을 입증한 회사\\\"라며 \\\"하이퍼리얼과의 파트너십을 구축해 게임 외에도 메타버스 시장 동향과 노하우를 공유하며 협업을 추진하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "펄어비스가 북미 메타버스 엔터테인먼트 기업 '하이퍼리얼'에 300만달러(약 35억5000만원)를 투자했다고 5일 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하이퍼리얼은 유명인 기반의 초현실적 디지털 아바타 '하이퍼모델' 제작사다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 폴 매카트니가 젊은시절 모습으로 등장해 화제가 된 뮤직비디오 'Find My Way', 소니와 협업한 매디슨 비어 가상 콘서트에 하이퍼모델 아바타 기술이 적용됐다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "업계에선 실제 인물과 아바타를 분간하기 어려울 정도로 사실적이라는 평가를 받는다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하이퍼리얼은 가상제작 기술을 고도화해 몰입감을 높이고, 다양한 플랫폼에서 파이퍼모델이 활용될 수 있도록 머신러닝 기반의 AI 기술을 적용할 예정이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김경엽 펄어비스 투자전략총괄은 \\\"하이퍼리얼은 실존 인물을 가상 아바타로 만드는 분야에 신두 업체이자, 업계 최고 전문성을 입증한 회사\\\"라며 \\\"하이퍼리얼과의 파트너십을 구축해 게임 외에도 메타버스 시장 동향과 노하우를 공유하며 협업을 추진하겠다\\\"고 말했다.",
+				"sentenceSize": 146
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"사람이야, 아바타야?\\\"…펄어비스, 美 메타버스 기업 300만불 투자",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

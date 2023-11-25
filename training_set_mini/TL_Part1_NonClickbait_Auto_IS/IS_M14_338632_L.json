@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338632",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "이삼사, 호주 다이슨 바이크에 전기자전거 100대 공급",
+		"newsSubTitle": "",
+		"newsContent": "전기자전거 스타트업 이삼사(대표 서병수)는 이달 4일 호주 다이슨 바이크와 공급 계약을 맺고 앞으로 1년 간 전기자전거 100대를 공급한다고 10일 밝혔다.\n지난 1월 미국 전기자전거 유통업체 '페데고(PEDEGO)'와도 연간 100대 공급 계약을 맺어 올해만 전기자전거 200대를 수출하게 됐다.\n이삼사 전기자전거는 화물 운반용 제품 브랜드 '스카이웨이(skyway)'의 모델명 '카고(Cargo)'이다.\n제품 가격은 3000~4000달러다.\n스카이웨이는 앞바퀴가 두개인 역삼륜 프레임으로 제작됐다.\n필요에 따라 전면부를 교체해 아이를 태우거나 2인 자전거로 이용할 수도 있다.\n화물칸이 자전거 앞단에 위치해 운전 중에도 화물 상태를 눈으로 확인할 수 있다.\n배터리는 일본 파나소닉 소형 리튬이온 전지(460Wh급)를 장착해 50㎞ 이상 주행 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전기자전거 스타트업 이삼사(대표 서병수)는 이달 4일 호주 다이슨 바이크와 공급 계약을 맺고 앞으로 1년 간 전기자전거 100대를 공급한다고 10일 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 1월 미국 전기자전거 유통업체 '페데고(PEDEGO)'와도 연간 100대 공급 계약을 맺어 올해만 전기자전거 200대를 수출하게 됐다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이삼사 전기자전거는 화물 운반용 제품 브랜드 '스카이웨이(skyway)'의 모델명 '카고(Cargo)'이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "제품 가격은 3000~4000달러다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스카이웨이는 앞바퀴가 두개인 역삼륜 프레임으로 제작됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "필요에 따라 전면부를 교체해 아이를 태우거나 2인 자전거로 이용할 수도 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "화물칸이 자전거 앞단에 위치해 운전 중에도 화물 상태를 눈으로 확인할 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "배터리는 일본 파나소닉 소형 리튬이온 전지(460Wh급)를 장착해 50㎞ 이상 주행 가능하다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이삼사, 호주 다이슨 바이크에 전기자전거 100대 공급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

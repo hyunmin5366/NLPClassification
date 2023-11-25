@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339919",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "칠레 국영은행, 랜섬웨어로 1400만달러 피해…\\\"배후는 '라자루스'\\\"",
+		"newsSubTitle": "",
+		"newsContent": "칠레 국영은행이 랜섬웨어 공격을 받아 약 1400만달러(약 165억원) 규모 피해를 입었다.\n이로 인해 은행 전 지점이 폐쇄됐으며 국가 컴퓨터보안사고대응팀(CSIRT)이 보안 경보를 발령했다.\n코인텔레그래프 등 다수 외신에 따르면 칠레 국영은행 방코에스타도는 지난 7일(현지시간) 랜섬웨어에 감염된 뒤 전 지점을 폐쇄하고 시스템 복구와 조사에 착수했다.\n방코에스타도는 칠레 유일 국영은행으로 자국 상위 3개 은행 가운데 한 곳이다.\n은행 직원이 문서 파일을 수신한 뒤 이를 실행하면서 랜섬웨어에 감염된 것으로 전해졌다.\n감염된 컴퓨터는 약 1만2000대로 집계됐다.\n공격자가 사고를 틈타 직접 탈취한 금액은 약 1300만달러(약 150억원)로 나타났다.\n시스템 복구 비용 등을 포함하면 총 피해액은 약 1400만달러로 추정된다.\n현지 언론에 따르면 이번 공격 배후는 북한 정찰총국 산하 해킹조직 '라자루스'와 '비글보이즈'로 추정된다. '라자루스'는 2017년 5월 150개국 30만대 컴퓨터를 마비시킨 '워너크라이' 랜섬웨어 공격 배후로 지목된다. '비글보이즈' 역시 최근 미국 정부 4개 부처가 합동 경보를 발령한 금융 해킹조직이다.\n현지 언론은 원격 접속으로 가짜 해외 송금을 시도한 뒤 현금자동입출금기(ATM)에서 현금을 빼돌리는 방식이 '비글보이즈' 수법과 유사하다고 지적했다.\n칠레 정부는 이번 사고와 관련해 민간 부문을 겨냥한 대규모 랜섬웨어 보안 경보를 발령했다.\n보안업계에 따르면 북한 해킹조직은 2018년부터 칠레 은행을 겨냥해 사이버공격을 시도해 왔다.\n보안업체 파이어아이는 북한 해킹조직이 2018년 6월 칠레 대형은행 방코데칠레를 비롯한 11개국 은행에서 약 11억달러(약 1조3000억원) 탈취를 시도했다고 분석했다.\n한편, 방코에스타도가 감염된 랜섬웨어 종류는 '레빌 랜섬웨어'인 것으로 나타났다.\n레빌 랜섬웨어는 복호화 대가 지불 수단으로 암호화폐 모네로(XMR)를 요구한다.\n또 공격으로 빼돌린 데이터를 다크웹에서 판매하는 것으로 악명이 높다.\n지난 6월 미국 로펌 두 곳이 레빌 랜섬웨어에 감염돼 데이터를 유출 당했으며 이 데이터는 며칠 뒤 다크웹에 등록됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "칠레 국영은행이 랜섬웨어 공격을 받아 약 1400만달러(약 165억원) 규모 피해를 입었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이로 인해 은행 전 지점이 폐쇄됐으며 국가 컴퓨터보안사고대응팀(CSIRT)이 보안 경보를 발령했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코인텔레그래프 등 다수 외신에 따르면 칠레 국영은행 방코에스타도는 지난 7일(현지시간) 랜섬웨어에 감염된 뒤 전 지점을 폐쇄하고 시스템 복구와 조사에 착수했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방코에스타도는 칠레 유일 국영은행으로 자국 상위 3개 은행 가운데 한 곳이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "은행 직원이 문서 파일을 수신한 뒤 이를 실행하면서 랜섬웨어에 감염된 것으로 전해졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "감염된 컴퓨터는 약 1만2000대로 집계됐다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공격자가 사고를 틈타 직접 탈취한 금액은 약 1300만달러(약 150억원)로 나타났다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "시스템 복구 비용 등을 포함하면 총 피해액은 약 1400만달러로 추정된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "현지 언론에 따르면 이번 공격 배후는 북한 정찰총국 산하 해킹조직 '라자루스'와 '비글보이즈'로 추정된다. '라자루스'는 2017년 5월 150개국 30만대 컴퓨터를 마비시킨 '워너크라이' 랜섬웨어 공격 배후로 지목된다. '비글보이즈' 역시 최근 미국 정부 4개 부처가 합동 경보를 발령한 금융 해킹조직이다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "현지 언론은 원격 접속으로 가짜 해외 송금을 시도한 뒤 현금자동입출금기(ATM)에서 현금을 빼돌리는 방식이 '비글보이즈' 수법과 유사하다고 지적했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "칠레 정부는 이번 사고와 관련해 민간 부문을 겨냥한 대규모 랜섬웨어 보안 경보를 발령했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "보안업계에 따르면 북한 해킹조직은 2018년부터 칠레 은행을 겨냥해 사이버공격을 시도해 왔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "보안업체 파이어아이는 북한 해킹조직이 2018년 6월 칠레 대형은행 방코데칠레를 비롯한 11개국 은행에서 약 11억달러(약 1조3000억원) 탈취를 시도했다고 분석했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한편, 방코에스타도가 감염된 랜섬웨어 종류는 '레빌 랜섬웨어'인 것으로 나타났다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "레빌 랜섬웨어는 복호화 대가 지불 수단으로 암호화폐 모네로(XMR)를 요구한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "또 공격으로 빼돌린 데이터를 다크웹에서 판매하는 것으로 악명이 높다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "지난 6월 미국 로펌 두 곳이 레빌 랜섬웨어에 감염돼 데이터를 유출 당했으며 이 데이터는 며칠 뒤 다크웹에 등록됐다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "칠레 국영은행, 랜섬웨어로 1400만달러 피해…\\\"배후는 '라자루스'\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

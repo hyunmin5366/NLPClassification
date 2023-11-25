@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336130",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "국내 보안업체 '디지털 서명' 탑재한 악성코드 발견",
+		"newsSubTitle": "",
+		"newsContent": "국내 문서보안업체 유효한 디지털서명이 탑재된 악성코드가 URL을 통한 유포가 발견 돼 주의가 요구된다.\n이스트시큐리티시큐리티대응센터(ESRC)에 따르면 해당 악성코드는 국내 보안업체 디지털서명을 악용해 문제가 없는 파일인것처럼 위장했다.\n디지털서명이 있는 모듈은 일반적으로 해당업체 서명이 포함된 위변조되지 않은 무결성을 가진 프로그램이라고 인식한다.\n화이트리스트 기반 솔루션, 보안장비 등을 우회하기에 용이하다.\n공격자는 이점을 노려 정상적 보안업체 디지털서명을 탈취해 공격에 악용하려 했다.\n악성코드에 감염되면 스케쥴러에 'Jav Maintenance64'라는 이름으로 자신을 등록하고 매일 주기적으로 재실행이 이뤄지도록 설정하는 봇을 설치한다.\n공격자는 봇에 감염된 PC에 임의 추가 악성행위를 수행한다.\nESRC는 “이번 공격은 2016년과 2017년에 걸쳐 국내 공공기관·금융기관을 대상으로 지능형지속위협(APT)공격을 수행했던 조직이 사용한 커스텀 암호화 알고리즘을 그대로 사용하고 있는 점이 확인됐다”면서 “보안업체 정상 디지털서명을 탈취해 악용한 점까지 고려했을 때, 발견된 악성코드와 악성URL이 대규모 APT캠페인 초기 단계를 구성하는 것을 추정 가능하다”고 말했다.\n공격에 악용된 디지털서명 인증서는 공격이 발견된 어제(30일) 즉각 폐기 조치됐다.\n해당 기업은 “현재 문제된 인증서는 폐기 완료돼 더이상 문제는 발생하지 않을 것으로 예상한다”면서 “향후 발생가능한 모든 문제에 대해 면밀한 검토를 진행하고 있다”고 말했다.\n이어 “인증서 유출 경로, 원인에 대해 한국인터넷진흥원(KISA)과 협력해 조사 진행한다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 문서보안업체 유효한 디지털서명이 탑재된 악성코드가 URL을 통한 유포가 발견 돼 주의가 요구된다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이스트시큐리티시큐리티대응센터(ESRC)에 따르면 해당 악성코드는 국내 보안업체 디지털서명을 악용해 문제가 없는 파일인것처럼 위장했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "디지털서명이 있는 모듈은 일반적으로 해당업체 서명이 포함된 위변조되지 않은 무결성을 가진 프로그램이라고 인식한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "화이트리스트 기반 솔루션, 보안장비 등을 우회하기에 용이하다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공격자는 이점을 노려 정상적 보안업체 디지털서명을 탈취해 공격에 악용하려 했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "악성코드에 감염되면 스케쥴러에 'Jav Maintenance64'라는 이름으로 자신을 등록하고 매일 주기적으로 재실행이 이뤄지도록 설정하는 봇을 설치한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공격자는 봇에 감염된 PC에 임의 추가 악성행위를 수행한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "ESRC는 “이번 공격은 2016년과 2017년에 걸쳐 국내 공공기관·금융기관을 대상으로 지능형지속위협(APT)공격을 수행했던 조직이 사용한 커스텀 암호화 알고리즘을 그대로 사용하고 있는 점이 확인됐다”면서 “보안업체 정상 디지털서명을 탈취해 악용한 점까지 고려했을 때, 발견된 악성코드와 악성URL이 대규모 APT캠페인 초기 단계를 구성하는 것을 추정 가능하다”고 말했다.",
+				"sentenceSize": 209
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공격에 악용된 디지털서명 인증서는 공격이 발견된 어제(30일) 즉각 폐기 조치됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "해당 기업은 “현재 문제된 인증서는 폐기 완료돼 더이상 문제는 발생하지 않을 것으로 예상한다”면서 “향후 발생가능한 모든 문제에 대해 면밀한 검토를 진행하고 있다”고 말했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이어 “인증서 유출 경로, 원인에 대해 한국인터넷진흥원(KISA)과 협력해 조사 진행한다”고 덧붙였다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국내 보안업체 '디지털 서명' 탑재한 악성코드 발견",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

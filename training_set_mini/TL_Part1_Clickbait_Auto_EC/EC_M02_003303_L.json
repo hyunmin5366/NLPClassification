@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003303",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "NH농협생명, RPA 적용으로 1만 업무시간 절감",
+		"newsSubTitle": "다음달부터 6개월 간 RPA 2단계 프로젝트 착수",
+		"newsContent": "NH농협생명이 지난 3개월 간 RPA 1단계 프로젝트를 실시한 결과 8개 부서, 10개 업무에서 연간 업무량 1만800시간 절감 효과를 거둔 것으로 나타났다.\nNH농협생명 관계자는 15일 미디어SR에 \\\"RPA(Robotic Process Automation)는 단순반복적인 업무를 복제해 PC 기반의 프로그램에 입력해 동작시키는 시스템\\\"이라며 \\\"RPA 기반 업무 자동화가 구축되면 단순 반복적인 업무를 경감시켜 효율적인 업무 환경을 만들고 인간이 만들어낼 수 있는 오류 가능성을 제거할 수 있다\\\"고 설명했다.\n대표적인 사례로는 외화 ETF 블룸버그 기준가 데이터를 내부시스템에 자동적으로 입력할 수 있는 시스템이 있다.\n시차로 인해 불편을 겪던 기준가 입력 작업을 새벽과 휴일에 작업이 가능해 편의성 및 적시성을 증대시켰다.\n아울러 △설계사 위촉 승인 자동화 △대법원 회생사건 관리 △예시환급금 및 연금예시금액 정합성 확대 등에 적용했다.\nRPA 시스템 적용을 통해 데이터 검증 표본 수가 단위 시간당 30배 이상 늘었다.\n또한 단순 반복적 업무를 RPA로 대체해 직원들이 고부가가치 업무에 집중할 수 있게 됐다.\nNH농협생명은 이번 5월부터 6개월 간 RPA 2단계 프로젝트에 착수한다.\n이번 프로젝트를 통해 고효율 업무 30개에 대해 RPA를 추가 적용하는 것이 목표다.\n또한 RPA 전문인력 양성을 위한 △RPA 개발 실습 △현업 테스트 준비·수행 방안 △설계 우수 사례 공유 등 교육도 실시할 예정이다.\n김인태 NH농협생명 대표이사는 \\\"금융 산업이 고도화되면서 단순 반복 작업보다 고부가가치 업무 처리에 대한 필요성이 점점 늘어나고 있다\\\"며 \\\"RPA 적용을 통해 임직원이 효율적으로 업무처리를 할 수 있게 지속적으로 변화를 꾀할 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "NH농협생명이 지난 3개월 간 RPA 1단계 프로젝트를 실시한 결과 8개 부서, 10개 업무에서 연간 업무량 1만800시간 절감 효과를 거둔 것으로 나타났다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "NH농협생명 관계자는 15일 미디어SR에 \\\"RPA(Robotic Process Automation)는 단순반복적인 업무를 복제해 PC 기반의 프로그램에 입력해 동작시키는 시스템\\\"이라며 \\\"RPA 기반 업무 자동화가 구축되면 단순 반복적인 업무를 경감시켜 효율적인 업무 환경을 만들고 인간이 만들어낼 수 있는 오류 가능성을 제거할 수 있다\\\"고 설명했다.",
+				"sentenceSize": 199
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대표적인 사례로는 외화 ETF 블룸버그 기준가 데이터를 내부시스템에 자동적으로 입력할 수 있는 시스템이 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시차로 인해 불편을 겪던 기준가 입력 작업을 새벽과 휴일에 작업이 가능해 편의성 및 적시성을 증대시켰다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아울러 △설계사 위촉 승인 자동화 △대법원 회생사건 관리 △예시환급금 및 연금예시금액 정합성 확대 등에 적용했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "RPA 시스템 적용을 통해 데이터 검증 표본 수가 단위 시간당 30배 이상 늘었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 단순 반복적 업무를 RPA로 대체해 직원들이 고부가가치 업무에 집중할 수 있게 됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "NH농협생명은 이번 5월부터 6개월 간 RPA 2단계 프로젝트에 착수한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이번 프로젝트를 통해 고효율 업무 30개에 대해 RPA를 추가 적용하는 것이 목표다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또한 RPA 전문인력 양성을 위한 △RPA 개발 실습 △현업 테스트 준비·수행 방안 △설계 우수 사례 공유 등 교육도 실시할 예정이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "김인태 NH농협생명 대표이사는 \\\"금융 산업이 고도화되면서 단순 반복 작업보다 고부가가치 업무 처리에 대한 필요성이 점점 늘어나고 있다\\\"며 \\\"RPA 적용을 통해 임직원이 효율적으로 업무처리를 할 수 있게 지속적으로 변화를 꾀할 계획\\\"이라고 말했다.",
+				"sentenceSize": 141
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "노은 '꿈에 그린' 분양가 3.3㎡당 900만원 넘기나",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

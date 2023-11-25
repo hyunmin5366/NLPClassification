@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337979",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "일 르네사스, 디지털 DC/DC 컨트롤러 신제품 2종 출시",
+		"newsSubTitle": "",
+		"newsContent": "日 르네사스일렉트로닉스는 PMBus규격 풀(Full) 디지털 DC/DC 컨트롤러 신제품 2종을 발표했다.\nFPGA, DSP, ASIC, 네트워크프로세서 및 범용 시스템레일 단일출력 POL(Point Of Load)에 전원을 공급하는 제품이다.\nISL68301은 MOSFET드라이버, ISL68300은 PWM출력이 포함됐다.\n데이터센터, 유선 및 무선통신, 공장자동화장비를 위한 전원설계를 단순화할 수 있다.\nISL68300은 외부 MOSFET를 직접 구동할 수 있으며 ISL68301은 르네사스 SPS(Smart Power Stage) 또는 DrMOS(Driver+MOSFET)와 함께 완전한 전압레귤레이터솔루션을 제공한다.\n두 제품 모드 8상 토폴로지 및 출력전류 240A이상을 지원하는 고속전류공유버스(Current sharing Bus)가 있다.\n르네사스 디지털 차이 모드 제어변조를 사용한다.\n이 변조는 싱글스위칭 사이클에서 로드과도현상에 빠르게 응답하고 외부보상소자없이 안정적 제어루프를 제공한다.\n제품을 사용하는 엔지니어가 ISL68300 및 ISL68301로 디자인할 경우 파워내비게이터라고 하는 GUI를 사용해 셋업, 시퀀싱, 모니터링을 설정할 수 있다.\nPMBus가 있는 GUI를 사용하므로 솔더링 또는 재작업없이 설계 및 변경이 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "日 르네사스일렉트로닉스는 PMBus규격 풀(Full) 디지털 DC/DC 컨트롤러 신제품 2종을 발표했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "FPGA, DSP, ASIC, 네트워크프로세서 및 범용 시스템레일 단일출력 POL(Point Of Load)에 전원을 공급하는 제품이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ISL68301은 MOSFET드라이버, ISL68300은 PWM출력이 포함됐다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "데이터센터, 유선 및 무선통신, 공장자동화장비를 위한 전원설계를 단순화할 수 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ISL68300은 외부 MOSFET를 직접 구동할 수 있으며 ISL68301은 르네사스 SPS(Smart Power Stage) 또는 DrMOS(Driver+MOSFET)와 함께 완전한 전압레귤레이터솔루션을 제공한다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "두 제품 모드 8상 토폴로지 및 출력전류 240A이상을 지원하는 고속전류공유버스(Current sharing Bus)가 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "르네사스 디지털 차이 모드 제어변조를 사용한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 변조는 싱글스위칭 사이클에서 로드과도현상에 빠르게 응답하고 외부보상소자없이 안정적 제어루프를 제공한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "제품을 사용하는 엔지니어가 ISL68300 및 ISL68301로 디자인할 경우 파워내비게이터라고 하는 GUI를 사용해 셋업, 시퀀싱, 모니터링을 설정할 수 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "PMBus가 있는 GUI를 사용하므로 솔더링 또는 재작업없이 설계 및 변경이 가능하다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일 르네사스, 디지털 DC/DC 컨트롤러 신제품 2종 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

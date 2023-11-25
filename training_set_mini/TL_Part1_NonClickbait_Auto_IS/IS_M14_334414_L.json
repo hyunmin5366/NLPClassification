@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334414",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "LS그룹 계열 예스코, 인스피언 '비즈인사이더 엑스콘' 도입",
+		"newsSubTitle": "SAP ERP 개인정보 접속기록 점검 통해 서비스 품질 향상 예스코, 매달 SAP 접속기록 레포트 받아 보안정책 수립 등에 활용 예정",
+		"newsContent": "LS그룹의 주요 계열사 예스코가 인스피언의 SAP 접속기록 솔루션 '비즈인사이더 엑스콘(Bizinsider xCon)'을 도입, 전산망 보안강화에 나섰다.\nSAP 보안 솔루션 전문업체 인스피언(대표 최정규)은 LS그룹 계열사인 도시가스 공급업체 예스코가 최근 자사 SAP 접속기록 솔루션 비즈인사이더 엑스콘을 도입했다고 19일 밝혔다.\n예스코는 기존에 사용 중인 SAP ERP의 보안 기능을 향상시키기 위해 내부 개발을 검토했다.\n하지만 시스템 개발의 효율성과 관리, 향후 S4 HANA 업그레이드 이슈를 고려해 전문 솔루션의 도입을 결정했다.\n예스코는 스위치 미러(Switch Mirror) 방식으로 솔루션을 설치, 기존에 사용 중인 SAP ERP에는 전혀 영향을 주지 않고 시스템을 구축했다.\n솔루션 구축으로 예스코는 지난 2년간의 시스템 접속기록에 대한 내용을 저장하고 매달 시스템 접속기록을 점검, 시스템 보안을 강화하게 됐다.\n이와 함께 개인정보 다운로드나 출력 시 소명 프로세스를 적용할 수 있다.\n사용자가 어떤 데이터를 사용했으며 어떤 행위를 했는지를 모니터링, 보안정책 수립 자료로 활용할 수 있게 됐다.\n특히 향후 예스코의 인텔리전트 엔터프라이즈 전환을 도와주는 클라우드 방식의 'SAP S/4 HANA' 도입 시에도 추가 작업 없이 시스템을 계속 사용할 수 있게 됐다.\n장기적 측면에서 비용대비 효율성을 높이면서 시스템의 안정성을 꾀하게 됐다는 게 회사 측 설명이다.\n비즈인사이더 엑스콘은 사용자와 SAP 솔루션 사이의 네트워크 통신(SAP 프로토콜)을 분석해 법률에서 요구하는 접속기록을 모두 남겨주며 네트워크 미러 방식으로 사용하는 SAP 시스템의 부하나 영향이 없다.\nSAP S/4 HANA 환경도 지원하며, 리눅스 기반의 클라우드 환경에서도 사용 가능하다.\n최정규 대표는 “예스코가 인스피언의 비즈인사이더 엑스콘을 도입함으로써 대내외적으로 SAP ERP 보안에 대한 신뢰를 한층 높일 수 있게 됐다”며 “타 도시가스 제공업체의 시스템 문의도 잇따를 것으로 기대 한다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LS그룹의 주요 계열사 예스코가 인스피언의 SAP 접속기록 솔루션 '비즈인사이더 엑스콘(Bizinsider xCon)'을 도입, 전산망 보안강화에 나섰다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SAP 보안 솔루션 전문업체 인스피언(대표 최정규)은 LS그룹 계열사인 도시가스 공급업체 예스코가 최근 자사 SAP 접속기록 솔루션 비즈인사이더 엑스콘을 도입했다고 19일 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예스코는 기존에 사용 중인 SAP ERP의 보안 기능을 향상시키기 위해 내부 개발을 검토했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 시스템 개발의 효율성과 관리, 향후 S4 HANA 업그레이드 이슈를 고려해 전문 솔루션의 도입을 결정했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "예스코는 스위치 미러(Switch Mirror) 방식으로 솔루션을 설치, 기존에 사용 중인 SAP ERP에는 전혀 영향을 주지 않고 시스템을 구축했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "솔루션 구축으로 예스코는 지난 2년간의 시스템 접속기록에 대한 내용을 저장하고 매달 시스템 접속기록을 점검, 시스템 보안을 강화하게 됐다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이와 함께 개인정보 다운로드나 출력 시 소명 프로세스를 적용할 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사용자가 어떤 데이터를 사용했으며 어떤 행위를 했는지를 모니터링, 보안정책 수립 자료로 활용할 수 있게 됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "특히 향후 예스코의 인텔리전트 엔터프라이즈 전환을 도와주는 클라우드 방식의 'SAP S/4 HANA' 도입 시에도 추가 작업 없이 시스템을 계속 사용할 수 있게 됐다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "장기적 측면에서 비용대비 효율성을 높이면서 시스템의 안정성을 꾀하게 됐다는 게 회사 측 설명이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "비즈인사이더 엑스콘은 사용자와 SAP 솔루션 사이의 네트워크 통신(SAP 프로토콜)을 분석해 법률에서 요구하는 접속기록을 모두 남겨주며 네트워크 미러 방식으로 사용하는 SAP 시스템의 부하나 영향이 없다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "SAP S/4 HANA 환경도 지원하며, 리눅스 기반의 클라우드 환경에서도 사용 가능하다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "최정규 대표는 “예스코가 인스피언의 비즈인사이더 엑스콘을 도입함으로써 대내외적으로 SAP ERP 보안에 대한 신뢰를 한층 높일 수 있게 됐다”며 “타 도시가스 제공업체의 시스템 문의도 잇따를 것으로 기대 한다”고 밝혔다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LS그룹 계열 예스코, 인스피언 '비즈인사이더 엑스콘' 도입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

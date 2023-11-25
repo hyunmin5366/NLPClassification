@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339944",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "마이지놈박스, 인공신경망 기반 개인 신체 정보 예측 신기술 특허",
+		"newsSubTitle": "",
+		"newsContent": "개인 유전체 데이터 기반 오픈 플랫폼 마이지놈박스(대표 박영태)는 인공지능(AI) 기술로 유전자 데이터를 분석해 키, 몸무게 등 개인 신체 정보를 예측하는 인공신경망 기반 신기술 특허 3건을 등록했다고 4일 밝혔다.\n개인 유전자와 신체 요건 정보를 입력하고 유전자 정보 중 분석에 부합하는 마커를 선별해 AI로 매칭해 개인 신체 정보를 최종 확인할 수 있다.\n신체 예측 정보에는 키, 몸무게, 시력, 탈모 등이 포함된다.\n함인철 마이지놈박스 개발본부장은 \\\"유전자 정보를 활용한 신체 관련 특정 정보 예측 정확도를 지속적으로 높일 수 있는 딥러닝 응용에 관한 특허\\\"라면서 \\\"유전자 정보 활용 서비스 최초로 자기 강화 학습을 통해 정확도를 스스로 향상시켜 사용자 미래 신체 조건을 예측한다\\\"고 밝혔다.\n이원다이애그노믹스(EDGC)의 관계사 마이지놈박스는 유전체 데이터를 활용한 애플리케이션으로 쉽게 자신의 유전자 정보 콘텐츠를 제공하는 글로벌 플랫폼 기업으로 약 55개국 사용자에게 서비스를 제공하고 있다.\n지난 7월부터 중소벤처기업부 지원을 받아 DNA기반 차세대 소셜네트워크서비스를 개발 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개인 유전체 데이터 기반 오픈 플랫폼 마이지놈박스(대표 박영태)는 인공지능(AI) 기술로 유전자 데이터를 분석해 키, 몸무게 등 개인 신체 정보를 예측하는 인공신경망 기반 신기술 특허 3건을 등록했다고 4일 밝혔다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "개인 유전자와 신체 요건 정보를 입력하고 유전자 정보 중 분석에 부합하는 마커를 선별해 AI로 매칭해 개인 신체 정보를 최종 확인할 수 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신체 예측 정보에는 키, 몸무게, 시력, 탈모 등이 포함된다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "함인철 마이지놈박스 개발본부장은 \\\"유전자 정보를 활용한 신체 관련 특정 정보 예측 정확도를 지속적으로 높일 수 있는 딥러닝 응용에 관한 특허\\\"라면서 \\\"유전자 정보 활용 서비스 최초로 자기 강화 학습을 통해 정확도를 스스로 향상시켜 사용자 미래 신체 조건을 예측한다\\\"고 밝혔다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이원다이애그노믹스(EDGC)의 관계사 마이지놈박스는 유전체 데이터를 활용한 애플리케이션으로 쉽게 자신의 유전자 정보 콘텐츠를 제공하는 글로벌 플랫폼 기업으로 약 55개국 사용자에게 서비스를 제공하고 있다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 7월부터 중소벤처기업부 지원을 받아 DNA기반 차세대 소셜네트워크서비스를 개발 중이다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "마이지놈박스, 인공신경망 기반 개인 신체 정보 예측 신기술 특허",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

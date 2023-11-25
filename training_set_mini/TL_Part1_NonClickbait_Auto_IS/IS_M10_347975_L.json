@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347975",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "추억의 거북이 '터틀맨' 소환, 어떻게 가능했을까",
+		"newsSubTitle": "null",
+		"newsContent": "#지난 9일 오후, 추억의 그룹 '거북이'가 3인조 완전체로 방송에 출연해 드라마 '이태원 클라쓰' OST인 '시작'을 불렀다.\n2008년 4월 심근경색으로 갑작스레 숨진 거북이의 리더 고(故) 터틀맨(임성훈)도 함께였다.\n생전 모습을 한 터틀맨이 마치 환생한 듯 거북이 멤버들과 함께 무대에 서서 춤을 췄다.\n세상을 떠난 아티스트가 최신곡을 부르며 춤을 추는 일, 어떻게 가능했을까?\n방송에 출연한 터틀맨은 인공지능(AI)을 활용한 페이스 에디팅 기술로 살아 생전 모습을 재현한 영상이었다.\nCJ올리브네트웍스는 엠넷(Mnet)의 특별 프로그램 'AI 프로젝트 다시 한번'에 페이스 에디팅 기술을 제공했다고 10일 밝혔다. '완전체' 거북이가 출연한 방송 '다시 한 번'은 대중이 그리워하는 아티스트들의 모습과 목소리를 음성 복원 기술과 페이스 에디팅, 홀로그램 등 AI 기술로 재현한 특집 음악 방송이다.\nCJ올리브네트웍스 DT융합연구소는 고 터틀맨의 과거 사진과 동영상 자료들을 토대로 AI 얼굴 학습을 진행했다.\n이를 통해 터틀맨의 일상 모습과 무대 위에서 지은 표정 등 다양한 데이터를 학습한 AI 모델을 구현했다.\n여기에는 AI 기술 중 하나인 GAN(생성적 적대 신경망)이 사용됐다.\nGAN은 딥러닝(심층학습) 기술의 일종이다.\nGAN을 활용하면 학습한 이미지 데이터를 바탕으로 사람 얼굴 등 실제 있을 법한 가짜 형상을 만들어 낼 수 있다.\nCJ올리브네트웍스 DT융합연구소는 GAN을 활용해 자체 개발한 얼굴 데이터 분석·시각화를 사용했다고 설명했다.\n터틀맨의 형상을 복원할 수 있는 최적의 데이터를 추출한 뒤 얼굴 합성 자동 최적화 기술로 자연스럽고 생동감 있는 표정을 만들었다는 것이다.\nAI로 복원된 터틀맨과 함께 무대에 오른 거북이 멤버 지이는 \\\"무대를 보니 어쩌면 이렇게 똑같은지 깜짝 놀랐다\\\"고 말했다.\n고인의 형 임준환씨는 \\\"동생의 살아 생전 모습을 보는 것 같아서 저도 모르게 무대에 뛰어 오를 뻔 했다\\\"며 눈물의 감상평을 밝혔다.\n손종수 CJ올리브네트웍스 DT융합연구소장은 \\\"인공지능 기술은 산업 발전뿐 아니라 누군가의 기억 속에 있는 사람들과 새로운 방식으로 추억을 만들수 있는 휴머니즘이 있다\\\"며 \\\"엠넷과의 협업을 시작으로 페이스 에디팅 기술을 다양한 분야에 적용될 수 있도록 확대 방안 등을 논의할 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "#지난 9일 오후, 추억의 그룹 '거북이'가 3인조 완전체로 방송에 출연해 드라마 '이태원 클라쓰' OST인 '시작'을 불렀다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2008년 4월 심근경색으로 갑작스레 숨진 거북이의 리더 고(故) 터틀맨(임성훈)도 함께였다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "생전 모습을 한 터틀맨이 마치 환생한 듯 거북이 멤버들과 함께 무대에 서서 춤을 췄다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세상을 떠난 아티스트가 최신곡을 부르며 춤을 추는 일, 어떻게 가능했을까?",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "방송에 출연한 터틀맨은 인공지능(AI)을 활용한 페이스 에디팅 기술로 살아 생전 모습을 재현한 영상이었다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CJ올리브네트웍스는 엠넷(Mnet)의 특별 프로그램 'AI 프로젝트 다시 한번'에 페이스 에디팅 기술을 제공했다고 10일 밝혔다. '완전체' 거북이가 출연한 방송 '다시 한 번'은 대중이 그리워하는 아티스트들의 모습과 목소리를 음성 복원 기술과 페이스 에디팅, 홀로그램 등 AI 기술로 재현한 특집 음악 방송이다.",
+				"sentenceSize": 175
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "CJ올리브네트웍스 DT융합연구소는 고 터틀맨의 과거 사진과 동영상 자료들을 토대로 AI 얼굴 학습을 진행했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 통해 터틀맨의 일상 모습과 무대 위에서 지은 표정 등 다양한 데이터를 학습한 AI 모델을 구현했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "여기에는 AI 기술 중 하나인 GAN(생성적 적대 신경망)이 사용됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "GAN은 딥러닝(심층학습) 기술의 일종이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "GAN을 활용하면 학습한 이미지 데이터를 바탕으로 사람 얼굴 등 실제 있을 법한 가짜 형상을 만들어 낼 수 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "CJ올리브네트웍스 DT융합연구소는 GAN을 활용해 자체 개발한 얼굴 데이터 분석·시각화를 사용했다고 설명했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "터틀맨의 형상을 복원할 수 있는 최적의 데이터를 추출한 뒤 얼굴 합성 자동 최적화 기술로 자연스럽고 생동감 있는 표정을 만들었다는 것이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "AI로 복원된 터틀맨과 함께 무대에 오른 거북이 멤버 지이는 \\\"무대를 보니 어쩌면 이렇게 똑같은지 깜짝 놀랐다\\\"고 말했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "고인의 형 임준환씨는 \\\"동생의 살아 생전 모습을 보는 것 같아서 저도 모르게 무대에 뛰어 오를 뻔 했다\\\"며 눈물의 감상평을 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "손종수 CJ올리브네트웍스 DT융합연구소장은 \\\"인공지능 기술은 산업 발전뿐 아니라 누군가의 기억 속에 있는 사람들과 새로운 방식으로 추억을 만들수 있는 휴머니즘이 있다\\\"며 \\\"엠넷과의 협업을 시작으로 페이스 에디팅 기술을 다양한 분야에 적용될 수 있도록 확대 방안 등을 논의할 계획\\\"이라고 말했다.",
+				"sentenceSize": 168
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "추억의 거북이 '터틀맨' 소환, 어떻게 가능했을까",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

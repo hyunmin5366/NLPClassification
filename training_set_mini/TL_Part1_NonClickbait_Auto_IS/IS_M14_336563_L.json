@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336563",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "케이씨에스, 세계보안엑스포에 '아파트 월패드 망분리 솔루션' 선봬",
+		"newsSubTitle": "",
+		"newsContent": "IT서비스기업 케이씨에스는 스마트홈 보안 솔루션 시장 공략을 위해 제품화한 영상암호칩 기반 'KMC100E' 'KGC100B' 등 영상 암호모듈을 일산킨텍스에서 지난 20일부터 사흘간 열린 세계보안엑스포에 출품, 이목을 끌었다.\n작년 아파트단지 월패드 해킹사고로 인한 개인 사생활 노출과 월패드에 연동된 TV·IP카메라 등 댁내 IoT 디바이스 장악을 노리는 해킹 방지대안으로 건축 현장에 적용이 가능한 영상 암호모듈을 제시했기 때문이다.\nKMC100E는 두 개의 이더넷 인·아웃 포트를 통해 영상 패킷 암·복호화를 실시간으로 수행하는 암호 트랜스미터다.\nKMC100E를 월패드에 내장하면 월패드와 연동된 IoT 기기인증, 디지털 도어록·월패드 내부 데이터 암호화 등 스마트 홈 보안 기능을 수행한다.\n또 KMC100E 암호모듈을 월패드 단말기 내에 탑재하고 KGC100B(고성능 암호게이트웨이)를 관리서버 앞단에 설치하면 별도 개발 프로세스 없이 '관리 서버와 월패드' 구간 암호통신 환경을 구축할 수 있다.\n케이씨에스 관계자는 “오는 7월부터 아파트 사업승인 계획을 받는 아파트단지는 단지 내 서버와 세대별 홈게이트웨이를 의무적으로 망 분리해야 한다”면서 “적은 비용으로 손쉽게 월패드 망분리를 구현하는 영상암호 모듈에 관람객들이 많은 관심을 보였다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "IT서비스기업 케이씨에스는 스마트홈 보안 솔루션 시장 공략을 위해 제품화한 영상암호칩 기반 'KMC100E' 'KGC100B' 등 영상 암호모듈을 일산킨텍스에서 지난 20일부터 사흘간 열린 세계보안엑스포에 출품, 이목을 끌었다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "작년 아파트단지 월패드 해킹사고로 인한 개인 사생활 노출과 월패드에 연동된 TV·IP카메라 등 댁내 IoT 디바이스 장악을 노리는 해킹 방지대안으로 건축 현장에 적용이 가능한 영상 암호모듈을 제시했기 때문이다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KMC100E는 두 개의 이더넷 인·아웃 포트를 통해 영상 패킷 암·복호화를 실시간으로 수행하는 암호 트랜스미터다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KMC100E를 월패드에 내장하면 월패드와 연동된 IoT 기기인증, 디지털 도어록·월패드 내부 데이터 암호화 등 스마트 홈 보안 기능을 수행한다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 KMC100E 암호모듈을 월패드 단말기 내에 탑재하고 KGC100B(고성능 암호게이트웨이)를 관리서버 앞단에 설치하면 별도 개발 프로세스 없이 '관리 서버와 월패드' 구간 암호통신 환경을 구축할 수 있다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "케이씨에스 관계자는 “오는 7월부터 아파트 사업승인 계획을 받는 아파트단지는 단지 내 서버와 세대별 홈게이트웨이를 의무적으로 망 분리해야 한다”면서 “적은 비용으로 손쉽게 월패드 망분리를 구현하는 영상암호 모듈에 관람객들이 많은 관심을 보였다”고 말했다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "케이씨에스, 세계보안엑스포에 '아파트 월패드 망분리 솔루션' 선봬",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

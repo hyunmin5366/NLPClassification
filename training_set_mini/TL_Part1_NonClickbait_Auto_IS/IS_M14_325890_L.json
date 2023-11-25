@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325890",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "[단독]아모레퍼시픽, '3D 프린팅 마스크팩' 앞세워 CES 첫 참가",
+		"newsSubTitle": "",
+		"newsContent": "아모레퍼시픽이 국내 대기업 화장품 업체 최초로 세계 최대 가전박람회인 CES에 참가한다. 11일 업계에 따르면 아모레퍼시픽은 내년 1월 미국 라스베이거스에서 열리는 'CES 2020'에서 베네치안 호텔에 전시부스를 마련하고 3D 맞춤형 마스크팩 서비스와 다양한 K뷰티·라이프스타일 제품을 선보인다.\n특히 아모레퍼시픽은 이번 CES 2020에서 혁신상도 수상한다.\n혁신상을 받은 기술은 3D 프린팅 기술을 활용해 사용자 맞춤 마스크팩을 제조하는 기술이다.\n아모레퍼시픽은 기존 마스크팩 제품이 사람마다 다른 얼굴 크기, 이목구비의 위치, 피부 특성을 충분히 반영하고 있지 못하는 점에 착안, 3D프린터 전문 개발업체 링크솔루션과 사용자 맞춤형 마스크팩 제조 장치를 개발했다.\n해당 기술은 3차원의 얼굴 이미지를 촬영해 사용자의 이목구미와 면적을 측정해 컴퓨터가 2D 마스크 도안을 디자인하고, 3D프린터를 통해 사용자 맞춤형 마스크팩을 실시간으로 제조하는 것이다.\nCES의 심사진은 이 같은 차별화 된 기술을 높게 평가한 것으로 알려졌다.\n아모레퍼시픽 관계자는 “이번에 CES 2020에서 혁신상을 수상하며 최초로 참가하게 됐다”면서 “라이프스타일에 초점을 맞춰 K뷰티 기술력을 알릴 수 있는 다양한 제품으로 부스를 꾸릴 예정”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아모레퍼시픽이 국내 대기업 화장품 업체 최초로 세계 최대 가전박람회인 CES에 참가한다. 11일 업계에 따르면 아모레퍼시픽은 내년 1월 미국 라스베이거스에서 열리는 'CES 2020'에서 베네치안 호텔에 전시부스를 마련하고 3D 맞춤형 마스크팩 서비스와 다양한 K뷰티·라이프스타일 제품을 선보인다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "특히 아모레퍼시픽은 이번 CES 2020에서 혁신상도 수상한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "혁신상을 받은 기술은 3D 프린팅 기술을 활용해 사용자 맞춤 마스크팩을 제조하는 기술이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아모레퍼시픽은 기존 마스크팩 제품이 사람마다 다른 얼굴 크기, 이목구비의 위치, 피부 특성을 충분히 반영하고 있지 못하는 점에 착안, 3D프린터 전문 개발업체 링크솔루션과 사용자 맞춤형 마스크팩 제조 장치를 개발했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 기술은 3차원의 얼굴 이미지를 촬영해 사용자의 이목구미와 면적을 측정해 컴퓨터가 2D 마스크 도안을 디자인하고, 3D프린터를 통해 사용자 맞춤형 마스크팩을 실시간으로 제조하는 것이다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CES의 심사진은 이 같은 차별화 된 기술을 높게 평가한 것으로 알려졌다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아모레퍼시픽 관계자는 “이번에 CES 2020에서 혁신상을 수상하며 최초로 참가하게 됐다”면서 “라이프스타일에 초점을 맞춰 K뷰티 기술력을 알릴 수 있는 다양한 제품으로 부스를 꾸릴 예정”이라고 말했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독]아모레퍼시픽, '3D 프린팅 마스크팩' 앞세워 CES 첫 참가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

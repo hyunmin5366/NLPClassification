@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_030947",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'대낮 음주운전' 배우 박시연, 기소 의견으로 검찰 송치",
+		"newsSubTitle": "",
+		"newsContent": "대낮에 음주운전을 하다 추돌 사고를 낸 배우 박시연(사진·42)씨가 기소 의견으로 검찰에 넘겨졌다.\n서울 송파경찰서는 26일 박씨를 도로교통법상 음주운전·교통사고처리 특례법 위반 등의 혐의로 검찰에 송치했다고 밝혔다.\n경찰에 따르면, 박씨는 지난 17일 오전 11시 30분쯤 서울 송파구 잠실3삼거리에서 좌회전 신호 대기 중인 아반떼 승용차 뒷범퍼를 자신이 몰던 외제차로 추돌한 혐의를 받고 있다.\n당시 박씨의 혈중 알코올농도는 0.097%로 면허취소 수준이었다.\n사고 당시 박씨는 혼자 차에 타고 있었으며, 박씨를 포함해 피해 차량 탑승자 모두 크게 다치지는 않은 것으로 알려졌다.\n박씨는 이후 소속사를 통해 \\\"전날(16일) 저녁 지인과 함께 술을 마셨고, 다음날 숙취가 풀렸다고 판단해 운전했다\\\"고 해명했다.\n이어 지난 20일에는 자신의 인스타그램에 \\\"이유를 불문하고 해서는 안 될 일이었다. 안일하게 생각한 저 자신에 대해 후회하고 깊이 반성한다\\\"며 직접 사과문을 게재했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대낮에 음주운전을 하다 추돌 사고를 낸 배우 박시연(사진·42)씨가 기소 의견으로 검찰에 넘겨졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울 송파경찰서는 26일 박씨를 도로교통법상 음주운전·교통사고처리 특례법 위반 등의 혐의로 검찰에 송치했다고 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "경찰에 따르면, 박씨는 지난 17일 오전 11시 30분쯤 서울 송파구 잠실3삼거리에서 좌회전 신호 대기 중인 아반떼 승용차 뒷범퍼를 자신이 몰던 외제차로 추돌한 혐의를 받고 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 박씨의 혈중 알코올농도는 0.097%로 면허취소 수준이었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사고 당시 박씨는 혼자 차에 타고 있었으며, 박씨를 포함해 피해 차량 탑승자 모두 크게 다치지는 않은 것으로 알려졌다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박씨는 이후 소속사를 통해 \\\"전날(16일) 저녁 지인과 함께 술을 마셨고, 다음날 숙취가 풀렸다고 판단해 운전했다\\\"고 해명했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 지난 20일에는 자신의 인스타그램에 \\\"이유를 불문하고 해서는 안 될 일이었다. 안일하게 생각한 저 자신에 대해 후회하고 깊이 반성한다\\\"며 직접 사과문을 게재했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SBS \\\"이인규 '논두렁 보도' 입장문, 법적책임 묻겠다\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

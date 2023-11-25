@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353700",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "\\\"인재 유출 막아라\\\"…애플, 최대 '2억' 주식보너스 또 쐈다",
+		"newsSubTitle": "null",
+		"newsContent": "애플이 인재 유출을 막기 위해 최대 20만 달러(약 2억4000만원)에 달하는 자사주 보너스를 지급했다.\n25일(현지시간) 블룸버그통신에 따르면 애플은 최근 하드웨어 및 소프트웨어 엔지니어링 부서 중 일부에게 약 10만~20만달러 규모의 자사주 보너스를 지급했다. '특별 유지(retention) 보조금'으로 불리는 이번 보너스는 수년에 걸쳐 순차 지급된다.\n빅테크 간 인재확보 경쟁이 치열해지는 상황에서 직원들이 이직하지 않고 애플에 남도록 설계한 것이다.\n앞서 애플은 지난 연말에도 칩설계·하드웨어·소프트웨어 부문 엔지니어에게 최소 5만~18만달러 규모의 자사주 보너스를 지급한 바 있다.\n다만 이를 4년에 걸쳐 동일한 비율로 지급한다.\n최소 4년간은 회사에 남아달라는 메시지를 담은 것이다.\n이 보너스를 받는 엔지니어는 해당 부서의 10~20% 수준으로 전해졌다.\n당시 블룸버그는 애플이 기본급과 주식옵션, 현금보너스 외에 별도의 주식보너스를 제공하는건 \\\"이례적\\\"이라고 평가했다.\n그만큼 인재 유출에 대한 위기감이 커졌다는 방증이다.\n이번 특별 보조금은 지난 연말보다는 적은 엔지니어들에게 지급된 것으로 알려졌다.\n블룸버그통신은 \\\"(다음달) 사무실 복귀가 임박한 만큼 애플은 직원들의 충성도를 유지하려 할 것\\\"이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 인재 유출을 막기 위해 최대 20만 달러(약 2억4000만원)에 달하는 자사주 보너스를 지급했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일(현지시간) 블룸버그통신에 따르면 애플은 최근 하드웨어 및 소프트웨어 엔지니어링 부서 중 일부에게 약 10만~20만달러 규모의 자사주 보너스를 지급했다. '특별 유지(retention) 보조금'으로 불리는 이번 보너스는 수년에 걸쳐 순차 지급된다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "빅테크 간 인재확보 경쟁이 치열해지는 상황에서 직원들이 이직하지 않고 애플에 남도록 설계한 것이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 애플은 지난 연말에도 칩설계·하드웨어·소프트웨어 부문 엔지니어에게 최소 5만~18만달러 규모의 자사주 보너스를 지급한 바 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만 이를 4년에 걸쳐 동일한 비율로 지급한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최소 4년간은 회사에 남아달라는 메시지를 담은 것이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 보너스를 받는 엔지니어는 해당 부서의 10~20% 수준으로 전해졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "당시 블룸버그는 애플이 기본급과 주식옵션, 현금보너스 외에 별도의 주식보너스를 제공하는건 \\\"이례적\\\"이라고 평가했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그만큼 인재 유출에 대한 위기감이 커졌다는 방증이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이번 특별 보조금은 지난 연말보다는 적은 엔지니어들에게 지급된 것으로 알려졌다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "블룸버그통신은 \\\"(다음달) 사무실 복귀가 임박한 만큼 애플은 직원들의 충성도를 유지하려 할 것\\\"이라고 설명했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"인재 유출 막아라\\\"…애플, 최대 '2억' 주식보너스 또 쐈다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

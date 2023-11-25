@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339392",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "美대법원, 삼성전자-애플 2차 특허소송 상고 기각",
+		"newsSubTitle": "",
+		"newsContent": "미국연방대법원이 '밀어서 잠금해제' 등 애플이 보유한 특허 일부를 삼성전자가 침해했다는 하급심 판결을 확정했다.\n로이터통신 등 주요 외신은 연방대법원이 6일(현지시간) 애플과 삼성전자 간 2차 특허침해 손해배상 소송과 관련, 삼성전자가 신청한 상고심을 기각했다고 보도했다.\n삼성전자는 연방대법원 결정으로 애플에 1억1960만달러(약 1334억원)을 손해배상액으로 지급하게 됐다.\n1심 재판부 캘리포니아 새너제이 연방법원은 2014년 5월 삼성전자가 △휴대폰 화면 링크를 태핑해 다른 정보를 보여주는 기능 △밀어서 잠금을 해제하는 기능 △단어를 입력할 때 오타를 자동으로 고쳐 완성해주는 기능 등 애플 특허 3건 침해에 대한 배상으로 1억1960만달러를 지불하라고 판결했다.\n재판관 3명으로 구성된 워싱턴DC 연방순회항소법원 항소심 재판부는 지난해 2월 1심 판결을 뒤집고 삼성전자 손을 들어줬지만 같은 해 10월 11명 재판관이 모두 참여한 전원합의체 재심리에서 1심 판결이 타당하다며 다시 뒤집었다.\n삼성전자는 2심 재판부 판결에 불복, 3월 연방대법원에 상고 허가 신청서를 제출했지만 대법원이 이를 받아들이지 않았다.\n한편 연방대법원은 삼성전자가 애플 디자인 특허를 침해했다는 별도 소송과 관련, 지난해 12월 디자인 관련 배상액 3억9900만달러가 과하다는 결론을 내린 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국연방대법원이 '밀어서 잠금해제' 등 애플이 보유한 특허 일부를 삼성전자가 침해했다는 하급심 판결을 확정했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로이터통신 등 주요 외신은 연방대법원이 6일(현지시간) 애플과 삼성전자 간 2차 특허침해 손해배상 소송과 관련, 삼성전자가 신청한 상고심을 기각했다고 보도했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성전자는 연방대법원 결정으로 애플에 1억1960만달러(약 1334억원)을 손해배상액으로 지급하게 됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "1심 재판부 캘리포니아 새너제이 연방법원은 2014년 5월 삼성전자가 △휴대폰 화면 링크를 태핑해 다른 정보를 보여주는 기능 △밀어서 잠금을 해제하는 기능 △단어를 입력할 때 오타를 자동으로 고쳐 완성해주는 기능 등 애플 특허 3건 침해에 대한 배상으로 1억1960만달러를 지불하라고 판결했다.",
+				"sentenceSize": 164
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "재판관 3명으로 구성된 워싱턴DC 연방순회항소법원 항소심 재판부는 지난해 2월 1심 판결을 뒤집고 삼성전자 손을 들어줬지만 같은 해 10월 11명 재판관이 모두 참여한 전원합의체 재심리에서 1심 판결이 타당하다며 다시 뒤집었다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자는 2심 재판부 판결에 불복, 3월 연방대법원에 상고 허가 신청서를 제출했지만 대법원이 이를 받아들이지 않았다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 연방대법원은 삼성전자가 애플 디자인 특허를 침해했다는 별도 소송과 관련, 지난해 12월 디자인 관련 배상액 3억9900만달러가 과하다는 결론을 내린 바 있다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美대법원, 삼성전자-애플 2차 특허소송 상고 기각",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

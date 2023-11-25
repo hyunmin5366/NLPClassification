@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007194",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "시중은행 중소기업대출 의무비율 위반",
+		"newsSubTitle": "",
+		"newsContent": "시중은행들이 중소기업대출 의무비율을 위반하고 있는 것으로 나타났다.\n18일 한은이 국회 기획재정위원회 김용구(선진당) 의원에게 제출한 자료에 따르면, 2008년 1분기부터 올해 1분기까지 시중은행의 중소기업대출 평균비율이 38.1%로, 권고기준인 45%에 미달했다.\n중소기업대출 비율제도는 중소기업에 대한 대출확대를 유도하기 위한 것으로, 은행의 원화대출금 증가액 중 일정비율 이상을 중소기업에 지원하도록 하고 있다.\n의무비율은 시중은행은 45%, 지방은행은 60%, 외은지점은 35%다.\n지키지 못할 경우 총액한도대출 배정 시 미달액의 50%에 해당하는 금액을 차감하고 있다.\n중소기업대출 의무비율 위반으로, 하나은행이 5623억원으로 가장 많이 차감됐고, 신한은행 5061억원, 씨티은행 3612억원, 우리은행 3046억원, 국민은행 2464억원, 제일은행 1563억원 등 모두 2조1369억원 등이다.\n김 의원은 “한은의 권고와 제재에도 불구, 시중은행이 중소기업대출비율을 지키지 않고 있다”고 지적했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "시중은행들이 중소기업대출 의무비율을 위반하고 있는 것으로 나타났다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 한은이 국회 기획재정위원회 김용구(선진당) 의원에게 제출한 자료에 따르면, 2008년 1분기부터 올해 1분기까지 시중은행의 중소기업대출 평균비율이 38.1%로, 권고기준인 45%에 미달했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "중소기업대출 비율제도는 중소기업에 대한 대출확대를 유도하기 위한 것으로, 은행의 원화대출금 증가액 중 일정비율 이상을 중소기업에 지원하도록 하고 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "의무비율은 시중은행은 45%, 지방은행은 60%, 외은지점은 35%다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지키지 못할 경우 총액한도대출 배정 시 미달액의 50%에 해당하는 금액을 차감하고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중소기업대출 의무비율 위반으로, 하나은행이 5623억원으로 가장 많이 차감됐고, 신한은행 5061억원, 씨티은행 3612억원, 우리은행 3046억원, 국민은행 2464억원, 제일은행 1563억원 등 모두 2조1369억원 등이다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김 의원은 “한은의 권고와 제재에도 불구, 시중은행이 중소기업대출비율을 지키지 않고 있다”고 지적했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독]매그나칩 매각, 사실상 무산…美 \\\"국가안보 리스크 존재\\\" 판단",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

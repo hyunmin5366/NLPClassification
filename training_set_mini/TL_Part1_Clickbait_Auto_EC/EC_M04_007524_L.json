@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007524",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "임금 늘고 근로시간은 줄고...1인 평균 284만6000원 4분기 연속상승",
+		"newsSubTitle": "총 근로 172.6시간 작년비 2.4% 감소",
+		"newsContent": "지난 3분기 근로자의 임금은 늘고, 근로시간은 감소한 것으로 조사됐다.\n29일 고용노동부가 상용근로자 5인 이상 사업체 7208곳을 대상으로 3분기 사업체 임금·근로시간 조사를 한 결과에 따르면, 근로자 1인당 월평균 임금총액은 284만6000원으로 전년 동기 대비 7.8%가 증가하며 4분기 연속 상승세를 이어갔다.\n소비자 물가 상승률을 고려한 실질임금총액(244만1000원)도 전년 대비 4.7%가 증가했으며, 3분기 연속 상승세를 유지했다.\n상용근로자 1인당 월평균 정액급여는 226만1000원으로 전년 대비 4.6%가 증가했고, 상용근로자 1인당 월평균 초과급여는 18만7000원으로 전년 동기(16만4000원) 대비 13.8%가 증가한 것으로 나타났다.\n산업별 임금에서는 대부분의 업종에서 임금이 증가했으나, 숙박 및 음식점업은 감소했다.\n전년 대비 임금상승률이 가장 높은 산업은 오락, 문화 및 운동 관련 서비스업(283만원, 22.5% 증가)이며, 가장 낮은 산업은 숙박 및 음식점업(181만7000원, 1.1% 감소)으로 조사됐다.\n또 지난 3분기 근로자 1인당 월평균 총근로시간은 172.6시간으로 전년 동기(176.9시간) 대비 4.3시간(2.4%)이 감소한 것으로 집계됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 3분기 근로자의 임금은 늘고, 근로시간은 감소한 것으로 조사됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 고용노동부가 상용근로자 5인 이상 사업체 7208곳을 대상으로 3분기 사업체 임금·근로시간 조사를 한 결과에 따르면, 근로자 1인당 월평균 임금총액은 284만6000원으로 전년 동기 대비 7.8%가 증가하며 4분기 연속 상승세를 이어갔다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소비자 물가 상승률을 고려한 실질임금총액(244만1000원)도 전년 대비 4.7%가 증가했으며, 3분기 연속 상승세를 유지했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "상용근로자 1인당 월평균 정액급여는 226만1000원으로 전년 대비 4.6%가 증가했고, 상용근로자 1인당 월평균 초과급여는 18만7000원으로 전년 동기(16만4000원) 대비 13.8%가 증가한 것으로 나타났다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "산업별 임금에서는 대부분의 업종에서 임금이 증가했으나, 숙박 및 음식점업은 감소했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전년 대비 임금상승률이 가장 높은 산업은 오락, 문화 및 운동 관련 서비스업(283만원, 22.5% 증가)이며, 가장 낮은 산업은 숙박 및 음식점업(181만7000원, 1.1% 감소)으로 조사됐다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 지난 3분기 근로자 1인당 월평균 총근로시간은 172.6시간으로 전년 동기(176.9시간) 대비 4.3시간(2.4%)이 감소한 것으로 집계됐다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "산림아카데미, 산림최고경영자 과정 신입생 모집",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

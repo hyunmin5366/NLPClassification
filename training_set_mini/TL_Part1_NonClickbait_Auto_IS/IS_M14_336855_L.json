@@ -1,0 +1,249 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336855",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "비전소프트, 야구공 실시간 추적 시스템 출시",
+		"newsSubTitle": "",
+		"newsContent": "비전소프트(대표 이희덕)가 야구공 실시간 궤적 추적 시스템 '다이아몬드 3D'를 출시한다고 10일 밝혔다.\n이 시스템은 투수가 던진 공이 포수 미트 속으로 들어갈 때까지 이동 경로를 보여준다.\n야구 경기 내내 모든 공 궤적을 실시간 그려내는 게 특징이다.\n수입에 의존하던 3차원 투구 추적 시스템을 국산화하는 데 성공한 것이다.\n비전소프트는 지난달 19일 대만 프로리그에서 최종 시스템 점검을 마쳤다.\n국내에서도 8월 16일 기아 대 롯데 경기 중계에 활용되며 시스템 안정성을 검증받았다.\n다이아몬드 3D는 인식부와 표출부로 구성된다.\n인식부는 카메라 3대를 사용해 공 위치를 잡아낸다.\n1초당 사진 180장을 합성해 3차원 좌푯값을 계산하는 구조다.\n좌푯값은 투수 손에서 포수 미트까지 점 형태로 찍힌다.\n점을 이으면 궤적이 완성된다.\n타석 위치와 타자 키, 자세 등도 판단한다.\n스트라이크존 높이를 계산하기 위해서다.\n좌푯값 오차 범위는 밀리미터(mm) 단위다.\n투구 인식율은 100%다.\n좌푯값은 표출부로 전달된다.\n중계 영상에 걸맞은 장면으로 재구성, 화면에 표시하는 역할을 한다.\n표출부는 투구 전체 경로를 애니메이션으로 구현한다.\n스트라이크존을 2차원(2D)·3차원(3D)으로 표시, 다양한 각도에서 날아드는 공을 정확히 재현한다.\n공 경로에 따라 구질 감상에 최적화된 각을 찾아내는 기능도 갖췄다.\n다이아몬드 3D는 한국야구위원회(KBO), 야구 구단, 방송국 등에서 도입할 수 있다.\n심판 훈련용, 경기 진행 보조 시스템으로도 사용 가능하다.\n방송 중계시 해설 보조 자료나 녹화 방송의 하이라이트 제작 과정에도 활용된다.\n향후 투수 경기력을 측정하고 타자 훈련용 가상현실(VR) 시스템을 구축하는 데 쓰일 전망이다.\n이희덕 비전소프트 대표는 “야구 보는 재미가 한층 커질 것”이라며 “대만에서 성공적으로 마무리 테스트를 진행했고, 내년 프로야구 시즌부터 정식 서비스를 선보인다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 25,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "비전소프트(대표 이희덕)가 야구공 실시간 궤적 추적 시스템 '다이아몬드 3D'를 출시한다고 10일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 시스템은 투수가 던진 공이 포수 미트 속으로 들어갈 때까지 이동 경로를 보여준다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "야구 경기 내내 모든 공 궤적을 실시간 그려내는 게 특징이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수입에 의존하던 3차원 투구 추적 시스템을 국산화하는 데 성공한 것이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비전소프트는 지난달 19일 대만 프로리그에서 최종 시스템 점검을 마쳤다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국내에서도 8월 16일 기아 대 롯데 경기 중계에 활용되며 시스템 안정성을 검증받았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다이아몬드 3D는 인식부와 표출부로 구성된다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인식부는 카메라 3대를 사용해 공 위치를 잡아낸다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "1초당 사진 180장을 합성해 3차원 좌푯값을 계산하는 구조다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "좌푯값은 투수 손에서 포수 미트까지 점 형태로 찍힌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "점을 이으면 궤적이 완성된다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "타석 위치와 타자 키, 자세 등도 판단한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "스트라이크존 높이를 계산하기 위해서다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "좌푯값 오차 범위는 밀리미터(mm) 단위다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "투구 인식율은 100%다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "좌푯값은 표출부로 전달된다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "중계 영상에 걸맞은 장면으로 재구성, 화면에 표시하는 역할을 한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "표출부는 투구 전체 경로를 애니메이션으로 구현한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "스트라이크존을 2차원(2D)·3차원(3D)으로 표시, 다양한 각도에서 날아드는 공을 정확히 재현한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "공 경로에 따라 구질 감상에 최적화된 각을 찾아내는 기능도 갖췄다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "다이아몬드 3D는 한국야구위원회(KBO), 야구 구단, 방송국 등에서 도입할 수 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "심판 훈련용, 경기 진행 보조 시스템으로도 사용 가능하다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "방송 중계시 해설 보조 자료나 녹화 방송의 하이라이트 제작 과정에도 활용된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "향후 투수 경기력을 측정하고 타자 훈련용 가상현실(VR) 시스템을 구축하는 데 쓰일 전망이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "이희덕 비전소프트 대표는 “야구 보는 재미가 한층 커질 것”이라며 “대만에서 성공적으로 마무리 테스트를 진행했고, 내년 프로야구 시즌부터 정식 서비스를 선보인다”고 말했다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "비전소프트, 야구공 실시간 추적 시스템 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

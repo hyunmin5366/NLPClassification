@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000360",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "코스피 2000 붕괴에 이어 미국 3대 지수 일제 하락",
+		"newsSubTitle": "",
+		"newsContent": "코스피 지수가 저점 경신을 반복하면서 29일 22개월 만에 2000선 이하로 추락한 1996포인트로 장 마감한 가운데 미국 3대 증시가 모두 일제히 하락했다.\n미중간 무역전쟁이 격화될 수 있다는 우려가 커지면서 다우존스 산업평균지수는 현지시간 29일 전일 종가 대비 245(0.99%) 떨어졌다.\n나스닥 종합지수는 116.92(1.63%) 하락했다.\nS&P 500 지수는 017.44(0.66%) 떨어졌다.\n지수 하락에는 주요 IT 및 기술주의 하락이 영향을 미쳤다.\n전일 대비 아마존 6.33%, 엔비디아 6.39%, 마이크로소프트 2.91%, 페이스북 2.26%, 애플 1.88% 하락했다.\n실적 부진으로 낙폭이 컸던 아마존은 마이크로소프트에 시가총액 2위 자리를 뺐겼다.\nS&P 다우존스 하워드 실버 블랫 선임 지수 분석가는 보고서에서 \\\"S&P 500지수 하락으로 시가총액 2.14조 달러가 증발했다. 이번 하락에는 아마존과 마이크로소프트, 엔비디아와 페이스북 그리고 애플의 하락이 가장 큰 영향을 미쳤다\\\"고 설명했다.\n증권 업계에서는 남은 주요 기업의 실적 발표와 미국의 중간선거가 단기적으로 증시에 가장 큰 영향을 미칠 것으로 보고 있다.\n페이스북은 오는 30일(현지시간) 애플은 1일 각각 실적을 발표한다.\n미국 월스트리트 잭스 인베스트먼트 리서치는 이번 분기 페이스북 실적과 관련 주당 순이익(EPS)을 지난해 동기 대비 0.13 달러 떨어진 1.46달러로 예상했다.\n잭스 인베스트먼트는 애플 4분기 지난 분기 대비 실적은 34% 향상 주당 순이익은 2.78달러(지난 분기 2.34달러)에 이를 것으로 전망했다.\n한편 키움증권 투자전략팀 관계자는 미디어SR에 \\\"미 증시의 하락 여파로 투자심리가 위축되며 코스피가 급락했다. 증시 급락 직접 원인은 미 연준의 공격적인 금리 인상으로 투자 심리가 크게 약화된 만큼 11월 초까지는 시장 변동성이 높은 수준을 유지할 것으로 보인다\\\"고 전했다.\n이어 그는 \\\"애플 등 주요 기업 실적이 개선될 가능성이 높은 것에 주목할 필요가 있다. 6일 미 중간선거 이후 불확실성이 완화된다면 11월 코스피 지수가 1950포인트에서 2150포인트 내에서 변동할 것으로 기대한다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피 지수가 저점 경신을 반복하면서 29일 22개월 만에 2000선 이하로 추락한 1996포인트로 장 마감한 가운데 미국 3대 증시가 모두 일제히 하락했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미중간 무역전쟁이 격화될 수 있다는 우려가 커지면서 다우존스 산업평균지수는 현지시간 29일 전일 종가 대비 245(0.99%) 떨어졌다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "나스닥 종합지수는 116.92(1.63%) 하락했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "S&P 500 지수는 017.44(0.66%) 떨어졌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지수 하락에는 주요 IT 및 기술주의 하락이 영향을 미쳤다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전일 대비 아마존 6.33%, 엔비디아 6.39%, 마이크로소프트 2.91%, 페이스북 2.26%, 애플 1.88% 하락했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실적 부진으로 낙폭이 컸던 아마존은 마이크로소프트에 시가총액 2위 자리를 뺐겼다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "S&P 다우존스 하워드 실버 블랫 선임 지수 분석가는 보고서에서 \\\"S&P 500지수 하락으로 시가총액 2.14조 달러가 증발했다. 이번 하락에는 아마존과 마이크로소프트, 엔비디아와 페이스북 그리고 애플의 하락이 가장 큰 영향을 미쳤다\\\"고 설명했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "증권 업계에서는 남은 주요 기업의 실적 발표와 미국의 중간선거가 단기적으로 증시에 가장 큰 영향을 미칠 것으로 보고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "페이스북은 오는 30일(현지시간) 애플은 1일 각각 실적을 발표한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "미국 월스트리트 잭스 인베스트먼트 리서치는 이번 분기 페이스북 실적과 관련 주당 순이익(EPS)을 지난해 동기 대비 0.13 달러 떨어진 1.46달러로 예상했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "잭스 인베스트먼트는 애플 4분기 지난 분기 대비 실적은 34% 향상 주당 순이익은 2.78달러(지난 분기 2.34달러)에 이를 것으로 전망했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "한편 키움증권 투자전략팀 관계자는 미디어SR에 \\\"미 증시의 하락 여파로 투자심리가 위축되며 코스피가 급락했다. 증시 급락 직접 원인은 미 연준의 공격적인 금리 인상으로 투자 심리가 크게 약화된 만큼 11월 초까지는 시장 변동성이 높은 수준을 유지할 것으로 보인다\\\"고 전했다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이어 그는 \\\"애플 등 주요 기업 실적이 개선될 가능성이 높은 것에 주목할 필요가 있다. 6일 미 중간선거 이후 불확실성이 완화된다면 11월 코스피 지수가 1950포인트에서 2150포인트 내에서 변동할 것으로 기대한다\\\"고 덧붙였다.",
+				"sentenceSize": 130
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "GIG-Total, 거문도 해상풍력발전단지 조성사업을 위한 상생협약 체결",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

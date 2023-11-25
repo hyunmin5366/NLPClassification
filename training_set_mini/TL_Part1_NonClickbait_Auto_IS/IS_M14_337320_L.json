@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337320",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "\\\"가전과 인테리어를 한 번에\\\" LG하우시스, 대형 가전마트 입점",
+		"newsSubTitle": "",
+		"newsContent": "LG하우시스가 소비자 대상 유통망 확대를 위해 대형 가전마트에 인테리어 매장을 열고 있다.\nLG하우시스는 최근 이마트-일렉트로마트 죽전점, 롯데하이마트 메가스토어 수원점에 LG지인 인테리어 매장을 개설했다고 25일 밝혔다.\n회사는 LG전자 가전매장인 베스트샵에 입점한 인테리어 매장이 좋은 반응을 얻어 다른 주요 대형 가전마트로 확대했다고 설명했다.\n회사 관계자는 “고객이 원하는 인테리어 스타일과 이에 어울리는 가전을 한 공간에서 선택할 수 있기 때문에 상담 초기부터 실제 구매까지 높은 구매 만족도를 나타내고 있다”고 전했다.\nLG하우시스는 LG전자 TV, 냉장고, 세탁기, 식기세척기, 쿡탑 등 가전제품이 함께 적용된 거실·욕실·주방 등을 실제 주거공간처럼 꾸며 고단열 창호, 친환경 바닥재· 벽장재 등 인테리어 제품을 선보이고 있다.\nLG하우시스는 대형 가전마트 내 인테리어 매장을 올해 말까지 전국 80여 곳으로 확대할 계획이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG하우시스가 소비자 대상 유통망 확대를 위해 대형 가전마트에 인테리어 매장을 열고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG하우시스는 최근 이마트-일렉트로마트 죽전점, 롯데하이마트 메가스토어 수원점에 LG지인 인테리어 매장을 개설했다고 25일 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "회사는 LG전자 가전매장인 베스트샵에 입점한 인테리어 매장이 좋은 반응을 얻어 다른 주요 대형 가전마트로 확대했다고 설명했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "회사 관계자는 “고객이 원하는 인테리어 스타일과 이에 어울리는 가전을 한 공간에서 선택할 수 있기 때문에 상담 초기부터 실제 구매까지 높은 구매 만족도를 나타내고 있다”고 전했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG하우시스는 LG전자 TV, 냉장고, 세탁기, 식기세척기, 쿡탑 등 가전제품이 함께 적용된 거실·욕실·주방 등을 실제 주거공간처럼 꾸며 고단열 창호, 친환경 바닥재· 벽장재 등 인테리어 제품을 선보이고 있다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LG하우시스는 대형 가전마트 내 인테리어 매장을 올해 말까지 전국 80여 곳으로 확대할 계획이라고 밝혔다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"가전과 인테리어를 한 번에\\\" LG하우시스, 대형 가전마트 입점",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

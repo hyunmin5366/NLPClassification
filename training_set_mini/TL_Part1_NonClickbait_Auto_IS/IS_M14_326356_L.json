@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326356",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "게임",
+		"newsTitle": "[2019 해외 10대 뉴스]<7>구글 창업자 퇴진",
+		"newsSubTitle": "",
+		"newsContent": "래리 페이지와 세르게이 브린이 퇴진했다.\n구글 창업자 두 사람은 12월 공동성명을 내고 알파벳 모든 직위에서 물러난다고 밝혔다.\n페이지와 브린은 1995년 스탠퍼드 대학원생으로 만나 1998년에 구글을 창업했다.\n페이지는 구글 검색 랭킹 알고리즘 기초인 페이지랭크를 만들었다.\n래리 페이지는 2001년 전문 경영인 에릭 슈미트에게 구글 CEO를 맡겼지만 2011년부터 직접 경영을 맡았다.\n2015년에 구글 지주회사 알파벳이 설립되면서 슈밋은 이사회 의장, 페이지는 CEO, 브린은 사장이 됐다.\n두 창업자가 구글 경영일선에 물러나며 구글은 크롬 개발 주역인 순다르 피차이가 맡는다.\n이미 구글 CEO인 피차이는 알파벳 CEO 자리도 겸임한다.\n구글은 미국과 유럽에서 독점 등을 이유로 규제당국 감시를 받고 있다.\n두 창업자는 퇴진 공동성명에서 “알파벳이 잘 구축되고 구글과 다른 자회사들이 독립 기업으로 운영되는 지금이야말로 우리 경영 구조를 단순화할 시기”라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "래리 페이지와 세르게이 브린이 퇴진했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구글 창업자 두 사람은 12월 공동성명을 내고 알파벳 모든 직위에서 물러난다고 밝혔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "페이지와 브린은 1995년 스탠퍼드 대학원생으로 만나 1998년에 구글을 창업했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "페이지는 구글 검색 랭킹 알고리즘 기초인 페이지랭크를 만들었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "래리 페이지는 2001년 전문 경영인 에릭 슈미트에게 구글 CEO를 맡겼지만 2011년부터 직접 경영을 맡았다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2015년에 구글 지주회사 알파벳이 설립되면서 슈밋은 이사회 의장, 페이지는 CEO, 브린은 사장이 됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 창업자가 구글 경영일선에 물러나며 구글은 크롬 개발 주역인 순다르 피차이가 맡는다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이미 구글 CEO인 피차이는 알파벳 CEO 자리도 겸임한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "구글은 미국과 유럽에서 독점 등을 이유로 규제당국 감시를 받고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "두 창업자는 퇴진 공동성명에서 “알파벳이 잘 구축되고 구글과 다른 자회사들이 독립 기업으로 운영되는 지금이야말로 우리 경영 구조를 단순화할 시기”라고 밝혔다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2019 해외 10대 뉴스]<7>구글 창업자 퇴진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

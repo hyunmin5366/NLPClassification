@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330399",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "소재·부품",
+		"newsTitle": "아나로그디바이스, 차세대 전력 스위치 기술을 위한 소형 절연 게이트 드라이버 솔루션 출시",
+		"newsSubTitle": "",
+		"newsContent": "신호 처리 애플리케이션용 고성능 반도체 분야 글로벌 선도 기업인 아나로그디바이스 (NASDAQ: ADI)가 소형 폼팩터의 절연 게이트 드라이버를 출시했다.\n이번에 출시된 제품은 SiC(탄화규소) 및 GaN(질화갈륨) 등의 전력 스위치 기술에서 요구되는 높은 스위칭 속도, 시스템 크기 제한을 해결하기 위해 설계되었다.\n이와 동시에, IGBT (절연 게이트 양극성 트랜지스터) 및 MOSFET 구성의 스위칭 특성들을 안정적으로 제어할 수 있도록 설계되었다.\nADuM4120 및 ADuM4121 제품군은 ADI의 검증된 iCoupler® 절연 기술과 고속 CMOS 및 변압기 내장 실장 기술을 결합하여 공통모드 과도응답 내성(common mode transient immunity, CMTI) 성능을 저해하지 않으면서도 극도로 낮은 전파 지연 성능을 구현한다.\n광커플러, 펄스 변압기 등 유사한 기능을 보유한 기존 장치들은 지연 속도를 축소하면서 CMTI 성능을 유지하는 데 어려움이 있었다.\n그러나 안정적인 ADuM4120 및 ADuM4121은 새로운 인버터 아키텍처의 스위칭 속도를 높일 수 있도록 설계되었다.\n다수 전력 스위치를 필요로 하는 시스템의 경우, 이처럼 소형 SOIC 패키지에 든 절연 게이트 드라이버를 사용하면 PCB 배치 공간을 최소화함으로써 냉각에 필요한 사양을 줄일 수 있다.\n이 밖에도 크기가 작기 때문에 게이트 드라이버를 전력 스위치에 가까이 탑재할 수 있어 드라이버와 스위치 간의 기생 인덕턴스를 줄일 수 있다.\n높은 온도 범위 및 작동 전압에서 작동하는 ADuM4120, ADuM4121은 에너지 효율 및 타이밍 성능 안전성을 향상시키는 데 적합하여 태양광 인버터, 모터 컨트롤러, 산업용 인버터 애플리케이션에 적합하다.\n4종의 신규 제품은 모두 2A 출력, 단일 채널의 게이트 드라이버로, 5 kV RMS 절연, 짧은 전파 지연 및 150kV/μs 이상의 CMTI 성능을 제공한다. 2.5V~6.5V의 입력 전압으로 작동하는 이들 절연 게이트 드라이버를 사용하면 입력과 출력 사이에 뛰어난 갈바닉 절연 기능을 가진 저전압 시스템과의 호환이 가능하다.\nADuM4120 및 ADuM4120-1은 과열 시 셧다운 기능을 제공하며 과열로부터 장치를 보호한다.\n입력 글리치 필터를 내장한 ADuM4120을 사용하면 잘못된 출력을 야기할 수 있는 입력 핀에서의 시스템 잡음을 줄일 수 있으며, 글리치 필터가 없는 ADuM4120-1은 33ns(typ)의 낮은 전파 지연 성능을 제공한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신호 처리 애플리케이션용 고성능 반도체 분야 글로벌 선도 기업인 아나로그디바이스 (NASDAQ: ADI)가 소형 폼팩터의 절연 게이트 드라이버를 출시했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번에 출시된 제품은 SiC(탄화규소) 및 GaN(질화갈륨) 등의 전력 스위치 기술에서 요구되는 높은 스위칭 속도, 시스템 크기 제한을 해결하기 위해 설계되었다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이와 동시에, IGBT (절연 게이트 양극성 트랜지스터) 및 MOSFET 구성의 스위칭 특성들을 안정적으로 제어할 수 있도록 설계되었다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "ADuM4120 및 ADuM4121 제품군은 ADI의 검증된 iCoupler® 절연 기술과 고속 CMOS 및 변압기 내장 실장 기술을 결합하여 공통모드 과도응답 내성(common mode transient immunity, CMTI) 성능을 저해하지 않으면서도 극도로 낮은 전파 지연 성능을 구현한다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "광커플러, 펄스 변압기 등 유사한 기능을 보유한 기존 장치들은 지연 속도를 축소하면서 CMTI 성능을 유지하는 데 어려움이 있었다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 안정적인 ADuM4120 및 ADuM4121은 새로운 인버터 아키텍처의 스위칭 속도를 높일 수 있도록 설계되었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다수 전력 스위치를 필요로 하는 시스템의 경우, 이처럼 소형 SOIC 패키지에 든 절연 게이트 드라이버를 사용하면 PCB 배치 공간을 최소화함으로써 냉각에 필요한 사양을 줄일 수 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 밖에도 크기가 작기 때문에 게이트 드라이버를 전력 스위치에 가까이 탑재할 수 있어 드라이버와 스위치 간의 기생 인덕턴스를 줄일 수 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "높은 온도 범위 및 작동 전압에서 작동하는 ADuM4120, ADuM4121은 에너지 효율 및 타이밍 성능 안전성을 향상시키는 데 적합하여 태양광 인버터, 모터 컨트롤러, 산업용 인버터 애플리케이션에 적합하다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "4종의 신규 제품은 모두 2A 출력, 단일 채널의 게이트 드라이버로, 5 kV RMS 절연, 짧은 전파 지연 및 150kV/μs 이상의 CMTI 성능을 제공한다. 2.5V~6.5V의 입력 전압으로 작동하는 이들 절연 게이트 드라이버를 사용하면 입력과 출력 사이에 뛰어난 갈바닉 절연 기능을 가진 저전압 시스템과의 호환이 가능하다.",
+				"sentenceSize": 184
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ADuM4120 및 ADuM4120-1은 과열 시 셧다운 기능을 제공하며 과열로부터 장치를 보호한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "입력 글리치 필터를 내장한 ADuM4120을 사용하면 잘못된 출력을 야기할 수 있는 입력 핀에서의 시스템 잡음을 줄일 수 있으며, 글리치 필터가 없는 ADuM4120-1은 33ns(typ)의 낮은 전파 지연 성능을 제공한다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아나로그디바이스, 차세대 전력 스위치 기술을 위한 소형 절연 게이트 드라이버 솔루션 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

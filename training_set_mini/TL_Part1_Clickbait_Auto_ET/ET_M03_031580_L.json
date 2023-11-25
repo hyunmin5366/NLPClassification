@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_031580",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "강다니엘 ‘악플러’ 수사 착수…소속사 “합의‧선처 없이 강경대응”",
+		"newsSubTitle": "",
+		"newsContent": "경찰이 ‘워너원’ 출신의 가수 강다니엘을 겨냥한 악의적 댓글과 게시글에 대해 수사에 착수했다.\n20일 서울 강남경찰서는 강다니엘의 소속사 커넥트엔터테인먼트 측이 이달 초 제출한 악플에 대한 고소장을 접수, 수사를 벌이고 있다.\n강씨 측은 지난 16일 고소인 조사도 마친 것으로 확인됐다.\n고소인 조사에는 강씨가 아닌 대리인이 참석해 진술한 것으로 알려졌다.\n소속사 측도 19일 공식 웹사이트를 통해 “자체 수집 데이터와 제보 전용 계정으로 보내주신 자료를 기반으로 상습적이고 악질적인 게시물 선별 작업을 마무리했다”고 전했다.\n그러면서 “(상습‧악질 게시물에 대해) 합의나 선처 없이 강경하게 대응할 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "경찰이 ‘워너원’ 출신의 가수 강다니엘을 겨냥한 악의적 댓글과 게시글에 대해 수사에 착수했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 서울 강남경찰서는 강다니엘의 소속사 커넥트엔터테인먼트 측이 이달 초 제출한 악플에 대한 고소장을 접수, 수사를 벌이고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "강씨 측은 지난 16일 고소인 조사도 마친 것으로 확인됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고소인 조사에는 강씨가 아닌 대리인이 참석해 진술한 것으로 알려졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소속사 측도 19일 공식 웹사이트를 통해 “자체 수집 데이터와 제보 전용 계정으로 보내주신 자료를 기반으로 상습적이고 악질적인 게시물 선별 작업을 마무리했다”고 전했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러면서 “(상습‧악질 게시물에 대해) 합의나 선처 없이 강경하게 대응할 것”이라고 밝혔다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "김용만 “유재석, 이렇게까지 잘 될 줄 예측 못 해”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

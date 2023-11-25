@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007458",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "'경기 회복세' 올 임금인상률 5.2%",
+		"newsSubTitle": "지난해비 3.8%p 증가… 대졸신입 초임은 월 230만원",
+		"newsContent": "올해 기업들의 평균 임금인상률이 전년에 비해 크게 증가한 것으로 나타났다.\n18일 한국경영자총협회가 전국 100인 이상 646개 기업을 대상으로 임금조정 실태조사를 한 결과에 따르면, 임금협상이 타결된 기업들의 평균 임금인상률은 5.2%로 지난해 1.4%에 비해 3.8%p가 증가했다.\n임금협상 과정에서 노조는 평균 8.5%의 임금인상을 요구한 반면, 사용자는 평균 3.3%를 제시한 것으로 조사됐다.\n노조 요구율과 사용자 제시율간의 격차는 5.2%p로 경제위기로 그 격차가 축소됐던 지난해 4.0%p에 비해서는 다소 확대됐다.\n이는 경기회복과 지난해 낮은 임금인상에 대한 보상심리가 크게 작용했으며, 노조전임자 급여지급 금지와 관련한 노조의 과도한 임금인상 요구도 하나의 원인으로 작용한 것으로 분석된다.\n임금인상률과 관련해 전체 응답기업의 83.8%는 적정하다(2009년 91.4%)고 답한 반면, 16.2%의 기업은 무리한 임금인상(2009년 8.6%)이라고 답했다.\n이밖에 임금조정실태조사 결과, 올해 100인 이상 기업의 4년재 대졸 신입사원 초임급은 월 229만7000원으로 조사됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 기업들의 평균 임금인상률이 전년에 비해 크게 증가한 것으로 나타났다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 한국경영자총협회가 전국 100인 이상 646개 기업을 대상으로 임금조정 실태조사를 한 결과에 따르면, 임금협상이 타결된 기업들의 평균 임금인상률은 5.2%로 지난해 1.4%에 비해 3.8%p가 증가했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임금협상 과정에서 노조는 평균 8.5%의 임금인상을 요구한 반면, 사용자는 평균 3.3%를 제시한 것으로 조사됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "노조 요구율과 사용자 제시율간의 격차는 5.2%p로 경제위기로 그 격차가 축소됐던 지난해 4.0%p에 비해서는 다소 확대됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 경기회복과 지난해 낮은 임금인상에 대한 보상심리가 크게 작용했으며, 노조전임자 급여지급 금지와 관련한 노조의 과도한 임금인상 요구도 하나의 원인으로 작용한 것으로 분석된다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "임금인상률과 관련해 전체 응답기업의 83.8%는 적정하다(2009년 91.4%)고 답한 반면, 16.2%의 기업은 무리한 임금인상(2009년 8.6%)이라고 답했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이밖에 임금조정실태조사 결과, 올해 100인 이상 기업의 4년재 대졸 신입사원 초임급은 월 229만7000원으로 조사됐다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "보유세 예외 또 예외…누더기 세제, 무너진 조세원칙",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355133",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "'AI 기계학습' 국제 표준화, ETRI 선봉 나선다",
+		"newsSubTitle": "null",
+		"newsContent": "한국전자통신연구원(ETRI)은 국제전기통신연합(ITU) 산하 '기계학습 표준화 공동조정그룹' 초대 의장으로 이강찬 지능정보표준연구실장이 선임됐다고 27일 밝혔다.\nITU는 국제연합(UN) 산하의 전기·전파·통신 분야 표준화 전문기구다.\n최근 인공지능(AI)을 활용한 기계학습 분야는 규모가 커지고 있지만, 관련 개발에 따른 표준화 작업은 미비한 상황이다.\n이에 따라 ITU는 올해 관련 표준화를 위한 기계학습 공동조정그룹을 신설했다.\n기계학습이란 기계에 데이터를 넣고 AI로 학습시켜 정보처리 능력을 극대화시키는 분야다.\nITU 기계학습 공동조정그룹은 2024년까지 '기계학습 표준화 로드맵'을 개발할 예정이다.\n이강찬 초대 의장은 \\\"국제 표준이 잘 만들어질 수 있도록 국가 간 협력은 물론 표준화 과정에서 한국의 기술도 반영될 수 있도록 노력하겠다\\\"며 \\\"우리나라가 AI 분야의 개발자에서 조정자로 위상이 바뀌면서 국제표준화 주도권 확보 계기를 마련하게 됐다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 국제전기통신연합(ITU) 산하 '기계학습 표준화 공동조정그룹' 초대 의장으로 이강찬 지능정보표준연구실장이 선임됐다고 27일 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ITU는 국제연합(UN) 산하의 전기·전파·통신 분야 표준화 전문기구다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 인공지능(AI)을 활용한 기계학습 분야는 규모가 커지고 있지만, 관련 개발에 따른 표준화 작업은 미비한 상황이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 ITU는 올해 관련 표준화를 위한 기계학습 공동조정그룹을 신설했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기계학습이란 기계에 데이터를 넣고 AI로 학습시켜 정보처리 능력을 극대화시키는 분야다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "ITU 기계학습 공동조정그룹은 2024년까지 '기계학습 표준화 로드맵'을 개발할 예정이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이강찬 초대 의장은 \\\"국제 표준이 잘 만들어질 수 있도록 국가 간 협력은 물론 표준화 과정에서 한국의 기술도 반영될 수 있도록 노력하겠다\\\"며 \\\"우리나라가 AI 분야의 개발자에서 조정자로 위상이 바뀌면서 국제표준화 주도권 확보 계기를 마련하게 됐다\\\"고 말했다.",
+				"sentenceSize": 148
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'AI 기계학습' 국제 표준화, ETRI 선봉 나선다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322345",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "이더블유비엠, MS500 보안칩 IP카메라 해킹 위험 원천 차단",
+		"newsSubTitle": "",
+		"newsContent": "실내에서 애완동물 관리나 침입자 탐지를 위해 설치된 인터넷프로토콜(IP) 카메라가 해커에게 뚫리면서 개인 사생활을 침해하는 사건이 빈번해지자 반도체 칩 업체가 보안칩으로 이를 해결하는 방안을 제시했다.\n이더블유비엠(eWBM·대표 오상근)은 자사가 개발한 보안칩(모델명 MS500)을 IP카메라에 설치하면 원천적으로 IP카메라 해킹을 막을 수 있다고 15일 밝혔다.\n최근 일부 언론 보도에서는 개인 집에 설치된 IP카메라를 해킹한 영상이 중국 동영상 사이트에 올라 개인 사생활 침해 우려가 집중 조명된 바 있다.\n이경택 이더블유비엠 전무는 “MS500 칩은 디지털 유니크 키·플랫폼 키·아이디 키 등 3개 보안 키를 갖춰 IP카메라 해킹을 원천적으로 막는다”고 말했다.\n기존 IP카메라는 해킹 방지를 위해 비밀번호를 설정해야 하지만 이마저도 필요없다고 설명했다.\n해킹된 대부분 IP카메라에 비밀번호 설정 기능이 있지만 사용자들은 불편을 이유로 간단한 비밀번호조차 입력하지 않는 경우가 다수다.\n이 전무는 “MS500칩은 칩마다 각각 고유의 3개 보안키를 갖춘 것 외에도 해킹 시도가 있을 경우 전송 작업을 멈춘다”고 덧붙였다.\n속도 지연이 없다는 점과 가벼운 용량은 소프트웨어(SW) 보안 방식과 차별점으로 꼽았다.\n일반적으로 IP카메라도 SW보안이 가능하지만 이를 구현하기 위해선 별도 메모리는 물론 구동에 따른 전송속도 지연이 발생할 수밖에 없다.\n하드웨어로 구현할 경우 메모리 부담이 없고 처리속도가 빠르다.\n이더블유비엠은 사내 실험결과 전송 속도면에서 칩과 보안 SW간 처리 속도가 최대 1만6000배 차이가 났다고 제시했다.\n이더블유비엠은 국내는 물론 일본·중국기업과 공급계약을 추진 중이라고 설명했다.\n해킹사건 외에도 유럽연합(EU)이 내년 5월부터 개인정보 유출을 차단하기 위해 일반개인정보보호법(GDPR) 시행을 앞두고 있어 수요가 급격히 늘어날 것으로 기대했다.\nGDPR에는 개인정보 유출 차단을 위한 장치 채택 등을 기업 의무로 규정했다.\n이를 어길 경우 2000만 유로 또는 매출의 4%를 과징금으로 부과하는 조항이 담겼다.\n영상을 다루는 IP카메라도 예외일 수 없다.\n세계 IP카메라 제조 시장을 장악한 중국기업이 관심을 가질 수밖에 없는 요인이다.\n글로벌 시장 조사기관 야노리서치에 따르면 IP카메라를 비롯한 네트워크 카메라는 지난해 기준 3240만대가 팔린 것으로 추산된다.\n아날로그 폐쇄회로(CCTV)를 대체하면서 올해 3730만대, 내년 4320만대 판매가 이뤄질 것으로 예측했다.\n이 전무는 “MS500칩은 개인 사생활 침해방지 뿐 아니라 개인정보 유출을 차단해 기업 위험까지 줄여준다”며 “IP카메라 시장을 중심으로 다양한 영역으로 시장을 확대하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "실내에서 애완동물 관리나 침입자 탐지를 위해 설치된 인터넷프로토콜(IP) 카메라가 해커에게 뚫리면서 개인 사생활을 침해하는 사건이 빈번해지자 반도체 칩 업체가 보안칩으로 이를 해결하는 방안을 제시했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이더블유비엠(eWBM·대표 오상근)은 자사가 개발한 보안칩(모델명 MS500)을 IP카메라에 설치하면 원천적으로 IP카메라 해킹을 막을 수 있다고 15일 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 일부 언론 보도에서는 개인 집에 설치된 IP카메라를 해킹한 영상이 중국 동영상 사이트에 올라 개인 사생활 침해 우려가 집중 조명된 바 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이경택 이더블유비엠 전무는 “MS500 칩은 디지털 유니크 키·플랫폼 키·아이디 키 등 3개 보안 키를 갖춰 IP카메라 해킹을 원천적으로 막는다”고 말했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기존 IP카메라는 해킹 방지를 위해 비밀번호를 설정해야 하지만 이마저도 필요없다고 설명했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해킹된 대부분 IP카메라에 비밀번호 설정 기능이 있지만 사용자들은 불편을 이유로 간단한 비밀번호조차 입력하지 않는 경우가 다수다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 전무는 “MS500칩은 칩마다 각각 고유의 3개 보안키를 갖춘 것 외에도 해킹 시도가 있을 경우 전송 작업을 멈춘다”고 덧붙였다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "속도 지연이 없다는 점과 가벼운 용량은 소프트웨어(SW) 보안 방식과 차별점으로 꼽았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "일반적으로 IP카메라도 SW보안이 가능하지만 이를 구현하기 위해선 별도 메모리는 물론 구동에 따른 전송속도 지연이 발생할 수밖에 없다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하드웨어로 구현할 경우 메모리 부담이 없고 처리속도가 빠르다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이더블유비엠은 사내 실험결과 전송 속도면에서 칩과 보안 SW간 처리 속도가 최대 1만6000배 차이가 났다고 제시했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이더블유비엠은 국내는 물론 일본·중국기업과 공급계약을 추진 중이라고 설명했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "해킹사건 외에도 유럽연합(EU)이 내년 5월부터 개인정보 유출을 차단하기 위해 일반개인정보보호법(GDPR) 시행을 앞두고 있어 수요가 급격히 늘어날 것으로 기대했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "GDPR에는 개인정보 유출 차단을 위한 장치 채택 등을 기업 의무로 규정했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이를 어길 경우 2000만 유로 또는 매출의 4%를 과징금으로 부과하는 조항이 담겼다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "영상을 다루는 IP카메라도 예외일 수 없다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "세계 IP카메라 제조 시장을 장악한 중국기업이 관심을 가질 수밖에 없는 요인이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "글로벌 시장 조사기관 야노리서치에 따르면 IP카메라를 비롯한 네트워크 카메라는 지난해 기준 3240만대가 팔린 것으로 추산된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "아날로그 폐쇄회로(CCTV)를 대체하면서 올해 3730만대, 내년 4320만대 판매가 이뤄질 것으로 예측했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이 전무는 “MS500칩은 개인 사생활 침해방지 뿐 아니라 개인정보 유출을 차단해 기업 위험까지 줄여준다”며 “IP카메라 시장을 중심으로 다양한 영역으로 시장을 확대하겠다”고 말했다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이더블유비엠, MS500 보안칩 IP카메라 해킹 위험 원천 차단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

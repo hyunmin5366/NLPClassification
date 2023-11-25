@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351585",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "'인앱결제 강요 금지'에 물러선 애플 \\\"앱 내 환불도 가능\\\"[IT썰]",
+		"newsSubTitle": "null",
+		"newsContent": "애플이 앱스토어에서 개발자들에게 더 많은 권한을 제공하는 방향으로 자사 인앱결제 시스템을 개선하고 나섰다.\n한국이 세계에서 최초로 '구글갑질방지법'을 통과시킨 가운데, 전세계적으로 인앱결제 강제 움직임이 일자 내린 조치다.\n22일(현지시간) 더버지, 테크크런치 등 IT매체에 따르면 애플은 iOS15(운영체제) 업데이트를 통해 새로운 인앱결제 시스템 '스토어킷(StoreKit) 2'를 선보였다고 전했다.\n스트어킷2에선 개발자의 자율성을 보장하기 위한 다양한 변화를 마련했다.\n우선 이용자가 인앱결제한 내역의 환불하려 할 때 앱 내에서 직접 신청할 수 있도록 했다.\n그간 이용자들은 환불 요청을 위해선 결제 이메일을 통해 별도 웹사이트에 들어가야 했지만, 이번 업데이트로 앱 개발자가 앱 내에서 직접 구독 관리 페이지를 표시할 수 있도록 한 것이다.\n애플 측은 \\\"이를 통해 개발자는 고객이 구독을 취소하지 않도록 특정 종류의 할인을 제공하거나, 구독을 종료하기로 결정한 이유 등을 물을 수 있다\\\"고 설명했다.\n이용자가 앱 내에서 환불 요청을 하면 애플은 환불을 처리하고 승인 또는 거절 통보를 개발자 서버로 다시 보내는 식이다.\n이밖에도 애플은 개발자에게 고객 인앱결제 정보 조회, 모든 환불 이력 조회, 구매와 관련된 문제 등에 접근할 수 있도록 했다.\n고객이 앱을 다시 설치하거나 새로운 기기에 다운로드할 때 고객 정보를 자동으로 다시 불러오기도 가능해졌다.\n이에 대해 테크크런치는 \\\"애플이 개발자들에게 더 많은 통제권을 갖도록 한 것은 애플이 얼마나 인앱결제를 지켜내기를 원하는지를 말해준다\\\"고 설명했다.\n한편 애플은 지난해 애플 앱스토어 생태계를 통해 6430억달러(715조 5947억원)의 매출을 냈다.\n부문별로 디지털 상품과 서비스 매출은 전년 대비 41% 증가한 860억달러를 기록했다.\n인앱광고 매출은 430억달러다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 앱스토어에서 개발자들에게 더 많은 권한을 제공하는 방향으로 자사 인앱결제 시스템을 개선하고 나섰다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국이 세계에서 최초로 '구글갑질방지법'을 통과시킨 가운데, 전세계적으로 인앱결제 강제 움직임이 일자 내린 조치다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "22일(현지시간) 더버지, 테크크런치 등 IT매체에 따르면 애플은 iOS15(운영체제) 업데이트를 통해 새로운 인앱결제 시스템 '스토어킷(StoreKit) 2'를 선보였다고 전했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스트어킷2에선 개발자의 자율성을 보장하기 위한 다양한 변화를 마련했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우선 이용자가 인앱결제한 내역의 환불하려 할 때 앱 내에서 직접 신청할 수 있도록 했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그간 이용자들은 환불 요청을 위해선 결제 이메일을 통해 별도 웹사이트에 들어가야 했지만, 이번 업데이트로 앱 개발자가 앱 내에서 직접 구독 관리 페이지를 표시할 수 있도록 한 것이다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "애플 측은 \\\"이를 통해 개발자는 고객이 구독을 취소하지 않도록 특정 종류의 할인을 제공하거나, 구독을 종료하기로 결정한 이유 등을 물을 수 있다\\\"고 설명했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이용자가 앱 내에서 환불 요청을 하면 애플은 환불을 처리하고 승인 또는 거절 통보를 개발자 서버로 다시 보내는 식이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이밖에도 애플은 개발자에게 고객 인앱결제 정보 조회, 모든 환불 이력 조회, 구매와 관련된 문제 등에 접근할 수 있도록 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "고객이 앱을 다시 설치하거나 새로운 기기에 다운로드할 때 고객 정보를 자동으로 다시 불러오기도 가능해졌다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이에 대해 테크크런치는 \\\"애플이 개발자들에게 더 많은 통제권을 갖도록 한 것은 애플이 얼마나 인앱결제를 지켜내기를 원하는지를 말해준다\\\"고 설명했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "한편 애플은 지난해 애플 앱스토어 생태계를 통해 6430억달러(715조 5947억원)의 매출을 냈다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "부문별로 디지털 상품과 서비스 매출은 전년 대비 41% 증가한 860억달러를 기록했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "인앱광고 매출은 430억달러다.",
+				"sentenceSize": 17
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'인앱결제 강요 금지'에 물러선 애플 \\\"앱 내 환불도 가능\\\"[IT썰]",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

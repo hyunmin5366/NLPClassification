@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000800",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "인하 증권거래세, 30일 매매체결분부터 적용",
+		"newsSubTitle": "",
+		"newsContent": "한국예탁결제원은 5월 30일 매매체결분부터 증권거래세가 인하된다고 27일 밝혔다.\n6월 3일 이후 매매거래가 확정되는 거래에 한해서 코스피 거래는 농어촌특별세를 포함해 0.25%, 코스닥 0.25%, 코넥스 0.10%, K-OTC는 0.25%의 세율이 적용된다.\n코스피, 코스닥, K-OTC 거래세는 각각 0.05% 내렸으며 코넥스는 0.20% 인하됐다.\n주식의 매매에 따른 결제는 매매체결일로부터 3영업일에 해당하는 날에 이루어지므로 매매체결일 기준으로는 5월 30일분부터 적용된다.\n한국예탁결제원은 증권회사 등에 변경 사항을 안내하고 관련 시스템 사전 점검 및 테스트 등을 거쳐 정부의 증권거래세율 인하 조치가 착오 없이 시행될 수 있도록 사전 조치했다고 밝혔다.\n증권거래세 인하는 지난 5월 21 증권거래세법 시행령 개정안 의결에 따른 후속 조치다.\n기획재정부 관계자는 미디어SR에 \\\"증권거래세 인하 조치로 투자자 세부담 완화, 투자심리 호전 등 주식 투자환경 개선에 기여할 것으로 기대된다\\\"고 말했다.\n이어 그는 \\\"금융세제 선진화 TF 구성 중으로 6월 중으로 양도소득세 과세 확대, 국내 주식, 해외주식, 펀드 등 금융투자상품의 투자 손익을 합산하는 손익통산 등에 대해 논의를 시작할 것\\\"이라고 덧붙였다.\n한편. 기재부는 비상장주식‧장외거래에 대한 증권거래세율 인하는 2019년 정기 세법개정안에 포함하여 추진할 방침이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국예탁결제원은 5월 30일 매매체결분부터 증권거래세가 인하된다고 27일 밝혔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6월 3일 이후 매매거래가 확정되는 거래에 한해서 코스피 거래는 농어촌특별세를 포함해 0.25%, 코스닥 0.25%, 코넥스 0.10%, K-OTC는 0.25%의 세율이 적용된다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코스피, 코스닥, K-OTC 거래세는 각각 0.05% 내렸으며 코넥스는 0.20% 인하됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "주식의 매매에 따른 결제는 매매체결일로부터 3영업일에 해당하는 날에 이루어지므로 매매체결일 기준으로는 5월 30일분부터 적용된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국예탁결제원은 증권회사 등에 변경 사항을 안내하고 관련 시스템 사전 점검 및 테스트 등을 거쳐 정부의 증권거래세율 인하 조치가 착오 없이 시행될 수 있도록 사전 조치했다고 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "증권거래세 인하는 지난 5월 21 증권거래세법 시행령 개정안 의결에 따른 후속 조치다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기획재정부 관계자는 미디어SR에 \\\"증권거래세 인하 조치로 투자자 세부담 완화, 투자심리 호전 등 주식 투자환경 개선에 기여할 것으로 기대된다\\\"고 말했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 그는 \\\"금융세제 선진화 TF 구성 중으로 6월 중으로 양도소득세 과세 확대, 국내 주식, 해외주식, 펀드 등 금융투자상품의 투자 손익을 합산하는 손익통산 등에 대해 논의를 시작할 것\\\"이라고 덧붙였다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편. 기재부는 비상장주식‧장외거래에 대한 증권거래세율 인하는 2019년 정기 세법개정안에 포함하여 추진할 방침이다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "호황기 맞은 SM티케이케미칼, 올해도 상승세 지속",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

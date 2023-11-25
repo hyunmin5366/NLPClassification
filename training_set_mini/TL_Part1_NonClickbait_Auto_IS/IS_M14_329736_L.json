@@ -1,0 +1,267 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329736",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "인텔, 옵테인 메모리로 데이터센터 시장 진격...\\\"성능은 올리고, 가격은 낮추고\\\"",
+		"newsSubTitle": "",
+		"newsContent": "인텔이 독자 메모리 기술인 '옵테인 메모리'로 데이터센터 시장에서 입지를 강화하고 있다.\n데이터센터 성능 평가에서 연이어 호평을 받고 있고, 옵테인 메모리를 채택하는 기업 사례도 늘어 주목된다.\n◇'옵테인 메모리로 성능 UP' 인텔은 지난해 초 옵테인 퍼시스턴트 메모리를 첫 출시했다.\n이후 데이터센터 시장에서 차근차근 보폭을 넓히고 있다.\n특히 옵테인 메모리를 장착한 서버가 기존 D램 서버에 비해 괄목할 만한 성능 개선을 보이며 주목받고 있다.\n먼저 데이터 입출력(I/O) 연구자들을 위한 조사 단체 '버추얼 인스티튜트 포 I/O' 성능 조사에서 눈에 띌만한 성적을 냈다.\n옵테인 퍼시스턴트 메모리와 인텔의 오픈소스 소프트웨어인 DAOS 솔루션을 조합한 서버 30대로, 슈퍼컴퓨터를 제치고 최고의 I/O 성능을 보여 세계 파일 시스템 성능 1위를 달성했다.\n인텔은 최고 수준 슈퍼컴퓨터와 세계적 유수 기관을 제치고 데이터 I/O 세계 신기록을 달성했다.\n또 인텔 옵테인 메모리는 최근 열렸던 '베스트 오브 VM월드 2020 어워드'에서 '파괴적 기술상'을 수상하기도 했다.\n이 상은 클라우드, 고성능 컴퓨팅(HPC) 시장에서 혁신 기술을 선보인 회사에 준다.\n옵테인 메모리는 대회에서 대용량 데이터를 거뜬히 처리할 수 있는 흥미로운 기술을 구현한다는 심사평을 받았다.\n대회 후원사인 VM웨어의 리 캐스웰 부사장은 “기존 데이터센터 인프라 성능이 한계를 초월하는 상황에서, 인텔 옵테인 메모리 기술은 VM웨어 워크로드와 함께 더 크고 복잡한 분석 작업을 실현할 수 있도록 돕는다”고 평가했다.\n데이터센터 회사에 각종 소프트웨어 솔루션을 제공하는 SAP도 옵테인 메모리를 활용하면 서버 성능을 상당히 개선하면서 비용도 절감할 수 있다는 테스트 결과를 내놨다.\n기존 D램과 옵테인 메모리를 조합했을 때가 100% D램 제품으로 꾸렸을 때보다 동일 비용으로 시스템 메모리 용량을 2배 늘릴 수 있다고 밝혔다.\n아울러 데이터센터용 데이터베이스 솔루션인 오라클의 엑사데이터 X8M은 옵테인 메모리를 D램과 조합했을 때 데이터처리를 위한 접근 지연시간을 10분의 1로 줄이고 데이터 처리량은 2.5배 늘릴 수 있다고 밝혔다.\n◇데이터센터 영토 확장 인텔 옵테인 메모리는 크게 두 가지로 나뉜다.\nD램에 가까운 '퍼시스턴트 메모리'와 저장장치로 사용되는 '옵테인 SSD'다.\n옵테인 퍼시스턴트 메모리는 인텔 독자 메모리 기술인 '3D 크로스포인트'를 활용해 만든 제품이다.\n외형은 기존 D램과 거의 같지만 제품 특성은 다르다.\n낸드플래시 장점을 접목, 서버가 꺼지더라도 정보를 기억할 수 있다.\n인텔은 기존 D램보다 앞선 가격 경쟁력으로 시장을 공략 중이다.\n특히 D램과 옵테인 메모리를 조합해 서버의 기능을 극대화할 수 있다는 게 인텔 설명이다.\n옵테인 SSD는 쿼드레벨셀(QLC) 낸드플래시 기반 저장장치로 보다 저렴한 비용으로 대용량 플래시 스토리지를 구성하기 유리하다.\n이에 실제 현장에서의 채택 사례가 늘어나는 추세다.\n인텔에 따르면 세계적 경제지 포춘이 선정한 500대 기업 중 200개 이상이 옵테인 퍼시스턴트 메모리를 평가(POC)하거나 설치 단계에 있다.\nPOC를 진행한 기업의 85%가 옵테인을 구매했다.\n인텔 측은 “소프트뱅크, 바이두, 캘리포니아대학교 샌디에이고 등 세계에서 내로라하는 정보기술(IT) 기업과 연구기관에서 옵테인 메모리를 활용하고 있다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 27,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인텔이 독자 메모리 기술인 '옵테인 메모리'로 데이터센터 시장에서 입지를 강화하고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "데이터센터 성능 평가에서 연이어 호평을 받고 있고, 옵테인 메모리를 채택하는 기업 사례도 늘어 주목된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "◇'옵테인 메모리로 성능 UP' 인텔은 지난해 초 옵테인 퍼시스턴트 메모리를 첫 출시했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 데이터센터 시장에서 차근차근 보폭을 넓히고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 옵테인 메모리를 장착한 서버가 기존 D램 서버에 비해 괄목할 만한 성능 개선을 보이며 주목받고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "먼저 데이터 입출력(I/O) 연구자들을 위한 조사 단체 '버추얼 인스티튜트 포 I/O' 성능 조사에서 눈에 띌만한 성적을 냈다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "옵테인 퍼시스턴트 메모리와 인텔의 오픈소스 소프트웨어인 DAOS 솔루션을 조합한 서버 30대로, 슈퍼컴퓨터를 제치고 최고의 I/O 성능을 보여 세계 파일 시스템 성능 1위를 달성했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인텔은 최고 수준 슈퍼컴퓨터와 세계적 유수 기관을 제치고 데이터 I/O 세계 신기록을 달성했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 인텔 옵테인 메모리는 최근 열렸던 '베스트 오브 VM월드 2020 어워드'에서 '파괴적 기술상'을 수상하기도 했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 상은 클라우드, 고성능 컴퓨팅(HPC) 시장에서 혁신 기술을 선보인 회사에 준다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "옵테인 메모리는 대회에서 대용량 데이터를 거뜬히 처리할 수 있는 흥미로운 기술을 구현한다는 심사평을 받았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "대회 후원사인 VM웨어의 리 캐스웰 부사장은 “기존 데이터센터 인프라 성능이 한계를 초월하는 상황에서, 인텔 옵테인 메모리 기술은 VM웨어 워크로드와 함께 더 크고 복잡한 분석 작업을 실현할 수 있도록 돕는다”고 평가했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "데이터센터 회사에 각종 소프트웨어 솔루션을 제공하는 SAP도 옵테인 메모리를 활용하면 서버 성능을 상당히 개선하면서 비용도 절감할 수 있다는 테스트 결과를 내놨다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "기존 D램과 옵테인 메모리를 조합했을 때가 100% D램 제품으로 꾸렸을 때보다 동일 비용으로 시스템 메모리 용량을 2배 늘릴 수 있다고 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "아울러 데이터센터용 데이터베이스 솔루션인 오라클의 엑사데이터 X8M은 옵테인 메모리를 D램과 조합했을 때 데이터처리를 위한 접근 지연시간을 10분의 1로 줄이고 데이터 처리량은 2.5배 늘릴 수 있다고 밝혔다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "◇데이터센터 영토 확장 인텔 옵테인 메모리는 크게 두 가지로 나뉜다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "D램에 가까운 '퍼시스턴트 메모리'와 저장장치로 사용되는 '옵테인 SSD'다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "옵테인 퍼시스턴트 메모리는 인텔 독자 메모리 기술인 '3D 크로스포인트'를 활용해 만든 제품이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "외형은 기존 D램과 거의 같지만 제품 특성은 다르다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "낸드플래시 장점을 접목, 서버가 꺼지더라도 정보를 기억할 수 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "인텔은 기존 D램보다 앞선 가격 경쟁력으로 시장을 공략 중이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "특히 D램과 옵테인 메모리를 조합해 서버의 기능을 극대화할 수 있다는 게 인텔 설명이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "옵테인 SSD는 쿼드레벨셀(QLC) 낸드플래시 기반 저장장치로 보다 저렴한 비용으로 대용량 플래시 스토리지를 구성하기 유리하다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "이에 실제 현장에서의 채택 사례가 늘어나는 추세다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "인텔에 따르면 세계적 경제지 포춘이 선정한 500대 기업 중 200개 이상이 옵테인 퍼시스턴트 메모리를 평가(POC)하거나 설치 단계에 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "POC를 진행한 기업의 85%가 옵테인을 구매했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "인텔 측은 “소프트뱅크, 바이두, 캘리포니아대학교 샌디에이고 등 세계에서 내로라하는 정보기술(IT) 기업과 연구기관에서 옵테인 메모리를 활용하고 있다”고 밝혔다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인텔, 옵테인 메모리로 데이터센터 시장 진격...\\\"성능은 올리고, 가격은 낮추고\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

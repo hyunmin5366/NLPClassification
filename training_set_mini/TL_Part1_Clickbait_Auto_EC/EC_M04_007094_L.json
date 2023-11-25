@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007094",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "미분양 줄고... 8월 市 4.8%·道 5.1% 감소",
+		"newsSubTitle": "",
+		"newsContent": "지난 8월 미분양 주택은 대전은 2741세대, 충남은 1만1593세대로 각각 전달대비 4.8%, 5.1%감소했다.\n4일 국토해양부에 따르면 지난 8월말 전국 미분양 주택은 10만3981세대로, 전월(10만6464세대) 대비 2.3%(2483호) 감소해 3개월 연속 줄었다.\n지난해 말(12만3297세대) 대비는 15.7%(1만9316세대) 감소한 것으로 나타났다.\n대전은 전달(2880세대) 대비 139세대 줄었고 지난해말(3101세대) 대비는 11.6%(360세대)감소했다.\n충남은 전달(1만2222세대) 대비 629세대 감소했고 전년말(1만4277세대)대비는 18.8%(2684세대)줄었다.\n수도권은 기존 미분양 주택이 일부 해소됐으나 서울·경기지역의 신규 미분양 발생으로 전월(2만8151세대) 대비 1세대 증가한 2만8152세대를 기록했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 8월 미분양 주택은 대전은 2741세대, 충남은 1만1593세대로 각각 전달대비 4.8%, 5.1%감소했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4일 국토해양부에 따르면 지난 8월말 전국 미분양 주택은 10만3981세대로, 전월(10만6464세대) 대비 2.3%(2483호) 감소해 3개월 연속 줄었다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 말(12만3297세대) 대비는 15.7%(1만9316세대) 감소한 것으로 나타났다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대전은 전달(2880세대) 대비 139세대 줄었고 지난해말(3101세대) 대비는 11.6%(360세대)감소했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "충남은 전달(1만2222세대) 대비 629세대 감소했고 전년말(1만4277세대)대비는 18.8%(2684세대)줄었다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "수도권은 기존 미분양 주택이 일부 해소됐으나 서울·경기지역의 신규 미분양 발생으로 전월(2만8151세대) 대비 1세대 증가한 2만8152세대를 기록했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정부의 부동산 규제완화, 시장 위축 '부메랑' 되나",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005521",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "삼성전자, 에너지 취약계층에 에어컨 1만대 지원",
+		"newsSubTitle": "한국에너지재단 '저소득층 에너지효율개선사업' 보급 사업자 선정",
+		"newsContent": "삼성전자가 에너지 취약가구의 건강한 여름나기를 돕는다.\n삼성전자는 26일 한국에너지재단이 주관하는 '2022년 저소득층 에너지효율개선사업'에 참여한다고 밝혔다.\n삼성전자는 이 사업의 냉방기기 보급 사업자로 선정돼 각 지방자치단체가 선정한 총 1만 가구를 대상으로 삼성 에어컨 '벽걸이 와이드'를 공급한다.\n제품 설치는 6월말까지 순차적으로 진행된다.\n한국에너지재단은 2006년 설립된 산업통상자원부 산하 기관으로, 2019년부터 에너지 취약 계층을 대상으로 에어컨 등의 냉방용품을 지원하는 에너지 복지 사업을 시행해 왔다.\n벽걸이 와이드에는 기존 제품 대비 커진 팬을 비롯해 상하스윙·열대야쾌면·와이드디스플레이 등의 기능이 탑재됐다.\n삼성전자 관계자는 데일리임팩트에 \\\"이번에 공급하는 벽걸이 와이드 제품은 실내 온도에 따라 냉방을 자동으로 조절하는 초절전 디지털 인버터가 탑재됐다\\\"라며 \\\"따라서 기존의 정속형 에어컨보다 전력 소모량을 크게 줄일 수 있다\\\"라고 설명했다.\n이어 \\\"이번 사업을 통해 에너지 취약 계층의 주거 환경을 개선하는 데 도움이 될 수 있어 기쁘다\\\"며 \\\"앞으로도 다양한 파트너들과 함께 쾌적한 주거 환경을 만들어 가기 위해 노력하겠다\\\"라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 에너지 취약가구의 건강한 여름나기를 돕는다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자는 26일 한국에너지재단이 주관하는 '2022년 저소득층 에너지효율개선사업'에 참여한다고 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성전자는 이 사업의 냉방기기 보급 사업자로 선정돼 각 지방자치단체가 선정한 총 1만 가구를 대상으로 삼성 에어컨 '벽걸이 와이드'를 공급한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "제품 설치는 6월말까지 순차적으로 진행된다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국에너지재단은 2006년 설립된 산업통상자원부 산하 기관으로, 2019년부터 에너지 취약 계층을 대상으로 에어컨 등의 냉방용품을 지원하는 에너지 복지 사업을 시행해 왔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "벽걸이 와이드에는 기존 제품 대비 커진 팬을 비롯해 상하스윙·열대야쾌면·와이드디스플레이 등의 기능이 탑재됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자 관계자는 데일리임팩트에 \\\"이번에 공급하는 벽걸이 와이드 제품은 실내 온도에 따라 냉방을 자동으로 조절하는 초절전 디지털 인버터가 탑재됐다\\\"라며 \\\"따라서 기존의 정속형 에어컨보다 전력 소모량을 크게 줄일 수 있다\\\"라고 설명했다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 \\\"이번 사업을 통해 에너지 취약 계층의 주거 환경을 개선하는 데 도움이 될 수 있어 기쁘다\\\"며 \\\"앞으로도 다양한 파트너들과 함께 쾌적한 주거 환경을 만들어 가기 위해 노력하겠다\\\"라고 밝혔다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "명륜진사갈비, 소방관 위해 'KF94 마스크' 기부",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

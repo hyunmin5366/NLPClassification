@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335209",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[이슈분석]댓글 조작 100%방지 불가능...\\\"토르(Tor) 웹 브라우저 사용 가능성 있다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "보안 전문가는 매크로를 이용한 네이버 댓글은 100% 방지하기 어렵다고 설명한다.\n아무리 많은 보안장벽을 쌓아도 해커가 침투하는 것처럼 매크로도 매번 다른 수법을 이용해 매크로 방지대책을 무력화한다.\n네이버·다음 등은 댓글 조작을 막기 위해 하루 댓글 수나 연속 댓글 작성을 제한한다.\n동일한 IP 대역에서 일정 횟수 이상 로그인을 시도하거나 동일한 내용 댓글 반복 시 차단한다.\n보안 업계 관계자는 “아이디(ID)를 여러 개 확보하면 매크로 방지 기술을 적용해도 무용지물”이라면서 “네이버 보안대책보다 악용하는 기술이 빠르게 발전해 댓글 조작을 막기는 쉽지 않다”고 설명했다.\n경찰조사에서는 드루킹 네이버 댓글 공작에 스마트폰 '비행기 모드'를 이용했다는 의혹도 제기됐다.\nPC에서 할당하는 고정 IP와 달리 스마트폰 '비행기 모드' 이용 시 아이피를 수시로 변경 가능해 댓글 공작이 가능했다.\n지난 주말 경찰은 댓글 조작 근거지였던 경기 파주시 느릅나무 출판사에서 스마트폰 170여개를 압수했다.\n압수 물품 대부분 이동통신사에 가입돼 있지만 유심 칩이 없는 스마트폰이다.\n비행기모드 활용 등은 아직까지 별도 실행 프로그램으로 나온 것은 없다.\n사람이 수동으로 조작해야 한다는 점에서 매크로 활용과 거리가 있다.\n보안업계는 수동 비행기모드 설정 등 사람이 해야 하는 것보다 '토르(Tor)' 웹브라우저 등을 사용했을 가능성이 크다고 분석한다.\n토르 웹브라우저 사용 시 IP가 수시로 변하기 때문에 수동 작업이 필요 없다.\n다양한 사이버보안 침투 세력은 토르 웹 브라우저를 사용한다.\n토르는 네트워크 우회를 위해 사용하는 도구다.\n익명성 기능을 갖는다.\n프록시 서버나 서버에 로그를 남길 가능성 있는 가상사설망(VPN)보다 익명성이 높다.\n추적도 어렵다.\n여러 국가 네트워크를 경유하기 때문이다.\n한국에 있는 컴퓨터에서 시작해 특정 국가 네트워크, 제3국 네트워크 등 여러 국가 네트워크를 경유한다.\n보안 업계 관계자는 “토르 웹브라우저는 무료일 뿐 아니라 IP를 변경하기 위해 설정할 필요도 없다”면서 “랜섬웨어 공격자도 비트코인으로 돈을 받기 위해 토르 웹브라우저를 사용하는 등 추적을 피하기 위해 악용하는 사례가 많다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보안 전문가는 매크로를 이용한 네이버 댓글은 100% 방지하기 어렵다고 설명한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아무리 많은 보안장벽을 쌓아도 해커가 침투하는 것처럼 매크로도 매번 다른 수법을 이용해 매크로 방지대책을 무력화한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버·다음 등은 댓글 조작을 막기 위해 하루 댓글 수나 연속 댓글 작성을 제한한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "동일한 IP 대역에서 일정 횟수 이상 로그인을 시도하거나 동일한 내용 댓글 반복 시 차단한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보안 업계 관계자는 “아이디(ID)를 여러 개 확보하면 매크로 방지 기술을 적용해도 무용지물”이라면서 “네이버 보안대책보다 악용하는 기술이 빠르게 발전해 댓글 조작을 막기는 쉽지 않다”고 설명했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "경찰조사에서는 드루킹 네이버 댓글 공작에 스마트폰 '비행기 모드'를 이용했다는 의혹도 제기됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "PC에서 할당하는 고정 IP와 달리 스마트폰 '비행기 모드' 이용 시 아이피를 수시로 변경 가능해 댓글 공작이 가능했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난 주말 경찰은 댓글 조작 근거지였던 경기 파주시 느릅나무 출판사에서 스마트폰 170여개를 압수했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "압수 물품 대부분 이동통신사에 가입돼 있지만 유심 칩이 없는 스마트폰이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "비행기모드 활용 등은 아직까지 별도 실행 프로그램으로 나온 것은 없다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "사람이 수동으로 조작해야 한다는 점에서 매크로 활용과 거리가 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "보안업계는 수동 비행기모드 설정 등 사람이 해야 하는 것보다 '토르(Tor)' 웹브라우저 등을 사용했을 가능성이 크다고 분석한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "토르 웹브라우저 사용 시 IP가 수시로 변하기 때문에 수동 작업이 필요 없다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "다양한 사이버보안 침투 세력은 토르 웹 브라우저를 사용한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "토르는 네트워크 우회를 위해 사용하는 도구다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "익명성 기능을 갖는다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "프록시 서버나 서버에 로그를 남길 가능성 있는 가상사설망(VPN)보다 익명성이 높다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "추적도 어렵다.",
+				"sentenceSize": 8
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "여러 국가 네트워크를 경유하기 때문이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "한국에 있는 컴퓨터에서 시작해 특정 국가 네트워크, 제3국 네트워크 등 여러 국가 네트워크를 경유한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "보안 업계 관계자는 “토르 웹브라우저는 무료일 뿐 아니라 IP를 변경하기 위해 설정할 필요도 없다”면서 “랜섬웨어 공격자도 비트코인으로 돈을 받기 위해 토르 웹브라우저를 사용하는 등 추적을 피하기 위해 악용하는 사례가 많다”고 말했다.",
+				"sentenceSize": 131
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]댓글 조작 100%방지 불가능...\\\"토르(Tor) 웹 브라우저 사용 가능성 있다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

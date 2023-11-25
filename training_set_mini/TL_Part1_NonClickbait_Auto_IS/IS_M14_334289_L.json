@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334289",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "중기/벤처",
+		"newsTitle": "소이넷, CIO Advisor에서 2020 최우수 머신러닝 회사로 선정",
+		"newsSubTitle": "",
+		"newsContent": "인공지능(AI) 스타트업 기업 소이넷(대표 김용호·박정우)은 아태지역 IT 매거진 CIO 어드바이저(Advisor)에서 발표하는 '2020년 최우수 머신러닝 기업'에 선정됐다고 13일 밝혔다.\n2018년 설립한 소이넷은 서울대 출신의 IBM 직원 3명이 모여 창업한 인공지능(AI) 스타트업이다.\n기존 AI 프레임워크인 구글의 텐서플로우 대비 실행 시에 속도는 3배 개선하고 메모리는 6분의 1로 경량화한 AI 추론전용 프레임워크를 개발, 국내·외에 출시했다.\n소이넷은 27~29일 열리는 AI Expo Korea 2020 행사에서 AI능 추론전용 프레임워크에 최적화된 AI솔루션을 엔비디아 나노칩 디바이스에 집적, '소이넷 MI-Detector'를 전시할 예정이다.\n소이넷 MI-Detector는 미국 플리어(FLIR) IR 센서와 스테레오 카메라를 이용하여 수십 명의 사람을 동시에 온도를 체크하고 얼굴을 인식한다.\n기침 및 쓰러짐 그리고 화재를 인식한다.\n엄동원 소이넷 상무는 “모든 AI는 나노칩에서 동작하며 클라우드 서버로 이벤트를 전송하기 때문에 수백만 엣지 환경에서도 저비용으로 글로벌 서비스를 할 수 있도록 설계했다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI) 스타트업 기업 소이넷(대표 김용호·박정우)은 아태지역 IT 매거진 CIO 어드바이저(Advisor)에서 발표하는 '2020년 최우수 머신러닝 기업'에 선정됐다고 13일 밝혔다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2018년 설립한 소이넷은 서울대 출신의 IBM 직원 3명이 모여 창업한 인공지능(AI) 스타트업이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 AI 프레임워크인 구글의 텐서플로우 대비 실행 시에 속도는 3배 개선하고 메모리는 6분의 1로 경량화한 AI 추론전용 프레임워크를 개발, 국내·외에 출시했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소이넷은 27~29일 열리는 AI Expo Korea 2020 행사에서 AI능 추론전용 프레임워크에 최적화된 AI솔루션을 엔비디아 나노칩 디바이스에 집적, '소이넷 MI-Detector'를 전시할 예정이다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소이넷 MI-Detector는 미국 플리어(FLIR) IR 센서와 스테레오 카메라를 이용하여 수십 명의 사람을 동시에 온도를 체크하고 얼굴을 인식한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기침 및 쓰러짐 그리고 화재를 인식한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "엄동원 소이넷 상무는 “모든 AI는 나노칩에서 동작하며 클라우드 서버로 이벤트를 전송하기 때문에 수백만 엣지 환경에서도 저비용으로 글로벌 서비스를 할 수 있도록 설계했다”고 밝혔다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소이넷, CIO Advisor에서 2020 최우수 머신러닝 회사로 선정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

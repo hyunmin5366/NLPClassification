@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322188",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "바이든, 中화웨이·ZTE 허가 금지 '보안장비법' 서명",
+		"newsSubTitle": "",
+		"newsContent": "조 바이든 미국 대통령이 국가 안보 우려를 이유로 화웨이와 ZTE 등 중국 통신장비 업체에 대한 미 연방통신위원회(FCC) 허가를 제한하는 법안에 서명했다. '보안장비법'이라 불리는 해당 법안은 지난달 미 상원에서 만장일치로 승인됐다.\n하원에서도 이달초 압도적 찬성표를 받아 통과했다.\n앞서 FCC는 지난해 이원 만장일치로 중국 통신장비 업체 화웨이와 ZTE를 국가 안보 이협으로 분류했다.\n중국 공산당과 연계, 스파이 행위 가능성이 있다는 이유다.\nFCC는 지난 6월에도 만장일치로 중국 기업의 미국 통신 네트워크 장비 승인을 금지하는 계획을 추진하기로 했다.\n화웨이와 ZTE는 트럼프 전 대통령 때부터 미국 정부의 대중 무역 제재 표적이 됐다.\n미국 기업과 거래를 제약한 상무부 블랙리스트에 올랐으며, 화웨이 장비 구입 시 연방 자금을 사용하지 못하도록 하는 법안도 통과됐다.\nFCC는 미국 중소 통신사가 화웨이 등 기존 장비를 교체하는 것을 지원하는 10억 달러 규모 기금도 마련했다.\n한편, 이번 법안 서명은 바이든 대통령과 시진 중국 국가주석의 비대면 정상회담을 앞두고 이뤄졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "조 바이든 미국 대통령이 국가 안보 우려를 이유로 화웨이와 ZTE 등 중국 통신장비 업체에 대한 미 연방통신위원회(FCC) 허가를 제한하는 법안에 서명했다. '보안장비법'이라 불리는 해당 법안은 지난달 미 상원에서 만장일치로 승인됐다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하원에서도 이달초 압도적 찬성표를 받아 통과했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 FCC는 지난해 이원 만장일치로 중국 통신장비 업체 화웨이와 ZTE를 국가 안보 이협으로 분류했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "중국 공산당과 연계, 스파이 행위 가능성이 있다는 이유다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "FCC는 지난 6월에도 만장일치로 중국 기업의 미국 통신 네트워크 장비 승인을 금지하는 계획을 추진하기로 했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "화웨이와 ZTE는 트럼프 전 대통령 때부터 미국 정부의 대중 무역 제재 표적이 됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "미국 기업과 거래를 제약한 상무부 블랙리스트에 올랐으며, 화웨이 장비 구입 시 연방 자금을 사용하지 못하도록 하는 법안도 통과됐다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "FCC는 미국 중소 통신사가 화웨이 등 기존 장비를 교체하는 것을 지원하는 10억 달러 규모 기금도 마련했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편, 이번 법안 서명은 바이든 대통령과 시진 중국 국가주석의 비대면 정상회담을 앞두고 이뤄졌다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "바이든, 中화웨이·ZTE 허가 금지 '보안장비법' 서명",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347059",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT, 인천공항 와이파이 모두 '기가'로 전면 교체",
+		"newsSubTitle": "null",
+		"newsContent": "KT는 인천공항 여객터미널에 기존 설치된 프리미엄 와이파이(WiFi) AP를 기가(GiGA)와이파이로 이달 안에 전면 교체한다고 12일 밝혔다.\n기가 와이파이는 노트북에는 최대 1.3Gbps, 스마트폰에는 최대 867Mbps 속도를 제공한다.\n이는 4GB 용량의 풀HD(고화질) 영화 또는 음악 1000곡을 33초만에 다운로드할 수 있는 속도이다.\n인천공항을 통해 출입국하는 국내 고객뿐만 아니라 한국을 찾는 해외 고객도 기가급 속도의 인터넷을 즐길 수 있다.\n이창근 KT 기업영업부문 공공고객1담당 상무는 \\\"이번에 구축된 기가 와이파이가 여름 휴가철을 맞아 공항을 이용하는 고객들에게 유용하게 이용될 것\\\"이라며 \\\"고객들의 편익 향상과 IT(정보기술) 강국 이미지 제고를 위해 인천국제공항의 기가 인프라 확충에 최선을 다하겠다\\\"고 밝혔다.\n문창배 인천국제공항공사 정보통신처장은 \\\"인천공항의 기가 인프라 구축이 IT 강국의 우수성을 세계에 알리고 세계 최고 공항으로 자리매김하는데도 기여할 수 있을 것\\\"이라고 기대했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT는 인천공항 여객터미널에 기존 설치된 프리미엄 와이파이(WiFi) AP를 기가(GiGA)와이파이로 이달 안에 전면 교체한다고 12일 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기가 와이파이는 노트북에는 최대 1.3Gbps, 스마트폰에는 최대 867Mbps 속도를 제공한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 4GB 용량의 풀HD(고화질) 영화 또는 음악 1000곡을 33초만에 다운로드할 수 있는 속도이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인천공항을 통해 출입국하는 국내 고객뿐만 아니라 한국을 찾는 해외 고객도 기가급 속도의 인터넷을 즐길 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이창근 KT 기업영업부문 공공고객1담당 상무는 \\\"이번에 구축된 기가 와이파이가 여름 휴가철을 맞아 공항을 이용하는 고객들에게 유용하게 이용될 것\\\"이라며 \\\"고객들의 편익 향상과 IT(정보기술) 강국 이미지 제고를 위해 인천국제공항의 기가 인프라 확충에 최선을 다하겠다\\\"고 밝혔다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "문창배 인천국제공항공사 정보통신처장은 \\\"인천공항의 기가 인프라 구축이 IT 강국의 우수성을 세계에 알리고 세계 최고 공항으로 자리매김하는데도 기여할 수 있을 것\\\"이라고 기대했다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 인천공항 와이파이 모두 '기가'로 전면 교체",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

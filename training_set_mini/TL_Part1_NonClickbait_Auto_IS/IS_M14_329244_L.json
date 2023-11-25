@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329244",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "환경",
+		"newsTitle": "20분만에 80% 초고속 충전 350㎾ 충전기 25일부터 가동",
+		"newsSubTitle": "죽전 휴게소에 2기 설치…연내 충전기 930기 보급키로",
+		"newsContent": "환경부는 충전속도가 개선된 전기차 출시에 대비해 올해 1월에 공공부문 최초로 착공한 죽전휴게소 350㎾ 초급속충전기 2기 공사를 끝내고 25일부터 운영을 시작한다고 24일 밝혔다.\n400㎞ 주행 시 필요한 배터리를 80% 충전하는데 100㎾급 급속충전기가 1시간 정도 소요됐다면 350㎾급 초급속 충전기는 약 20분 만에 충전이 가능하다.\n환경부는 연내 경부고속도로 등 주요 고속도로 휴게소 15곳에 초급속 충전기 30기를 추가로 설치할 계획이다.\n환경부는 급속충전기를 '설치가 쉬운 곳'보다 '필요한 곳'에 설치하기 위해 올해 3월 '충전시설 최적지점 선정 프로그램'을 개발했다.\n이를 통해 고속도로 휴게소, 국도변 졸음쉼터 등 1, 2등급 지점에 90% 이상 배치하는 등 200㎾급 318기를 포함해 930기 충전기를 설치할 예정이다.\n김승희 환경부 대기환경정책관은 “빅데이터 분석을 통해 고속도로 휴게소 등 주요거점에 초급속충전기를 우선 설치해 전기차 이용자 불편을 해소하겠다”며 “앞으로 전기버스·택시·화물차 상용차 보급계획을 바탕으로 상용차 충전 기반시설 구축을 대폭 확대하겠다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "환경부는 충전속도가 개선된 전기차 출시에 대비해 올해 1월에 공공부문 최초로 착공한 죽전휴게소 350㎾ 초급속충전기 2기 공사를 끝내고 25일부터 운영을 시작한다고 24일 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "400㎞ 주행 시 필요한 배터리를 80% 충전하는데 100㎾급 급속충전기가 1시간 정도 소요됐다면 350㎾급 초급속 충전기는 약 20분 만에 충전이 가능하다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "환경부는 연내 경부고속도로 등 주요 고속도로 휴게소 15곳에 초급속 충전기 30기를 추가로 설치할 계획이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "환경부는 급속충전기를 '설치가 쉬운 곳'보다 '필요한 곳'에 설치하기 위해 올해 3월 '충전시설 최적지점 선정 프로그램'을 개발했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 통해 고속도로 휴게소, 국도변 졸음쉼터 등 1, 2등급 지점에 90% 이상 배치하는 등 200㎾급 318기를 포함해 930기 충전기를 설치할 예정이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김승희 환경부 대기환경정책관은 “빅데이터 분석을 통해 고속도로 휴게소 등 주요거점에 초급속충전기를 우선 설치해 전기차 이용자 불편을 해소하겠다”며 “앞으로 전기버스·택시·화물차 상용차 보급계획을 바탕으로 상용차 충전 기반시설 구축을 대폭 확대하겠다”고 밝혔다.",
+				"sentenceSize": 145
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "20분만에 80% 초고속 충전 350㎾ 충전기 25일부터 가동",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

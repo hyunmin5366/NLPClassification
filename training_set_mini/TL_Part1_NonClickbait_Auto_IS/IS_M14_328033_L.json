@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328033",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "구글 안드로이드, '롤러블폰' 네이티브 지원 가능성... 에뮬레이터 등장",
+		"newsSubTitle": "",
+		"newsContent": "구글이 안드로이드 운영체계(OS)에 '롤러블' 스마트폰 폼팩터를 네이티브 지원할 가능성이 제기된다.\n첫 적용 대상은 내년 상반기 출시가 예고된 LG전자 롤러블 스마트폰이 될 것으로 예상된다.\n구글은 최근 신규 런칭한 안드로이드 에뮬레이터 베타 버전에 롤러블 디스플레이 항목을 추가했다.\n공개된 에뮬레이터 정보에 따르면 롤러블 스마트폰은 펼치기 전 6.8인치에 1080×2428 화면비, 펼친 후에는 7,4인치 1600×2428 화면비로 구현됐다.\n기기 우측 프레임이 바깥쪽으로 확장되면서 말려져 있던 화면이 펼쳐지는 구조다.\n구글의 에뮬레이터 지원은 폴더블에 이어 롤러블 역시 차세대 스마트폰 주요 폼팩터로 주목하고 있음을 암시하는 것으로 해석된다.\n이에 따라 롤러블 스마트폰 관련 앱 생태계 역시 보다 풍부해질 전망이다.\n에뮬레이터는 가상 환경에서 장치 특성을 복사하거나 실행할 수 있도록 설계된 프로그램이다.\n앱 개발 시 실제 기기를 구비하지 않고도 다양한 폼팩터와 기기 환경 맞춰 최적화 작업이 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구글이 안드로이드 운영체계(OS)에 '롤러블' 스마트폰 폼팩터를 네이티브 지원할 가능성이 제기된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "첫 적용 대상은 내년 상반기 출시가 예고된 LG전자 롤러블 스마트폰이 될 것으로 예상된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "구글은 최근 신규 런칭한 안드로이드 에뮬레이터 베타 버전에 롤러블 디스플레이 항목을 추가했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공개된 에뮬레이터 정보에 따르면 롤러블 스마트폰은 펼치기 전 6.8인치에 1080×2428 화면비, 펼친 후에는 7,4인치 1600×2428 화면비로 구현됐다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기기 우측 프레임이 바깥쪽으로 확장되면서 말려져 있던 화면이 펼쳐지는 구조다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구글의 에뮬레이터 지원은 폴더블에 이어 롤러블 역시 차세대 스마트폰 주요 폼팩터로 주목하고 있음을 암시하는 것으로 해석된다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 따라 롤러블 스마트폰 관련 앱 생태계 역시 보다 풍부해질 전망이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "에뮬레이터는 가상 환경에서 장치 특성을 복사하거나 실행할 수 있도록 설계된 프로그램이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "앱 개발 시 실제 기기를 구비하지 않고도 다양한 폼팩터와 기기 환경 맞춰 최적화 작업이 가능하다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "구글 안드로이드, '롤러블폰' 네이티브 지원 가능성... 에뮬레이터 등장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

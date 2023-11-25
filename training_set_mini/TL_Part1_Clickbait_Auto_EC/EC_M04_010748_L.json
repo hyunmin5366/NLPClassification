@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010748",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "나로호 발사가 중단, 주입부에 이상 발견돼",
+		"newsSubTitle": "",
+		"newsContent": "나로호 발사가 중단됐다.\n교육과학기술부와 항공우주연구원은 26일 발사 준비를 위해 오전 10시 10분 로켓 1단과 발사대의 연결부위 헬륨가스를 주입하던 중 주입부에 이상이 발견돼 나로호 발사가 중단했다고 밝혔다.\n항공우주연구원은 이날 오전 10시 10분 로켓의 밸브 등을 제어하기 위한 헬륨 가스를 주입하던 중 압력이 높아지지 않는 이상을 발견하고 가스 주입을 중단했다.\n이후 러시아와 한국연구원들이 이를 확인한 결과 헬륨주입구내 가스가 새는 것을 막아 주는 역할을 하는 씰(seal)이 파손된 것을 확인하고 발사 중단조치를 취했다.\n이로인해 나로호 발사는 3일 뒤로 잠정 연기됐지만 자세한 파손부위 파악과 점검 등으로 아직 발사시기는 확정하지 못했다.\n발사가 중단된 나로 발사대에서 발사체 조립동으로 이송돼 한·러 연구원 및 기술진들은 1단과 발사대 연결부분의 이상에 대한 명확한 원인 규명 등 점검결과에 따라 발사시기를 결정할 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "나로호 발사가 중단됐다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "교육과학기술부와 항공우주연구원은 26일 발사 준비를 위해 오전 10시 10분 로켓 1단과 발사대의 연결부위 헬륨가스를 주입하던 중 주입부에 이상이 발견돼 나로호 발사가 중단했다고 밝혔다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "항공우주연구원은 이날 오전 10시 10분 로켓의 밸브 등을 제어하기 위한 헬륨 가스를 주입하던 중 압력이 높아지지 않는 이상을 발견하고 가스 주입을 중단했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이후 러시아와 한국연구원들이 이를 확인한 결과 헬륨주입구내 가스가 새는 것을 막아 주는 역할을 하는 씰(seal)이 파손된 것을 확인하고 발사 중단조치를 취했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이로인해 나로호 발사는 3일 뒤로 잠정 연기됐지만 자세한 파손부위 파악과 점검 등으로 아직 발사시기는 확정하지 못했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "발사가 중단된 나로 발사대에서 발사체 조립동으로 이송돼 한·러 연구원 및 기술진들은 1단과 발사대 연결부분의 이상에 대한 명확한 원인 규명 등 점검결과에 따라 발사시기를 결정할 것으로 알려졌다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전지역 '먹고·타고' 신용카드 결제 최다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

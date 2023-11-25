@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323311",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "에너지",
+		"newsTitle": "에쓰오일, 2분기 영업이익 82% 급감한 1173억원",
+		"newsSubTitle": "",
+		"newsContent": "에쓰오일은 올해 2분기 연결기준 영업이익이 1173억원으로 잠정 집계됐다고 26일 공시했다.\n이는 지난해 같은 기간 대비 81.7% 감소한 수치다.\n매출은 4조6650억원으로 11.1% 늘었으나 당기순이익은 669억원으로 84.9% 감소했다.\n사업부문별로는 정유 사업에서 849억원 손실을 기록했다.\n정제마진이 1분기보다 소폭 하락하는데 그쳤지만 국제유가가 급락하면서 재고관련 손실 500억원이 발생했다.\n석유화학과 윤활기유 부문에서는 각각 728억원과 1294억원의 영업이익을 거뒀다.\n윤활기유 사업은 계절적 수요 강세 등으로 생산시설을 최대로 가동하면서 2011년 4분기 이후 최고 수준의 영업이익을 올렸다.\n에쓰오일은 “유가 하락으로 인한 재고 관련 손실, 석유화학 부문 정기보수 등으로 영업이익이 줄었다”고 설명했다.\n하반기 실적은 제유가 하락 추세가 진정되고 석유제품 수요가 증가하면 개선될 것으로 내다봤다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "에쓰오일은 올해 2분기 연결기준 영업이익이 1173억원으로 잠정 집계됐다고 26일 공시했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 지난해 같은 기간 대비 81.7% 감소한 수치다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매출은 4조6650억원으로 11.1% 늘었으나 당기순이익은 669억원으로 84.9% 감소했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사업부문별로는 정유 사업에서 849억원 손실을 기록했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정제마진이 1분기보다 소폭 하락하는데 그쳤지만 국제유가가 급락하면서 재고관련 손실 500억원이 발생했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "석유화학과 윤활기유 부문에서는 각각 728억원과 1294억원의 영업이익을 거뒀다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "윤활기유 사업은 계절적 수요 강세 등으로 생산시설을 최대로 가동하면서 2011년 4분기 이후 최고 수준의 영업이익을 올렸다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "에쓰오일은 “유가 하락으로 인한 재고 관련 손실, 석유화학 부문 정기보수 등으로 영업이익이 줄었다”고 설명했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하반기 실적은 제유가 하락 추세가 진정되고 석유제품 수요가 증가하면 개선될 것으로 내다봤다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에쓰오일, 2분기 영업이익 82% 급감한 1173억원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

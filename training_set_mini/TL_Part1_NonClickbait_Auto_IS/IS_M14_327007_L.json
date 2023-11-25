@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327007",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "[2020 전자신문 10대뉴스(해외)] FCA-PSA 합병...4위 車 제조사 도약",
+		"newsSubTitle": "",
+		"newsContent": "프랑스 완성차 기업 푸조시트로엥(PSA)와 이탈리아-미국 합작 완성차 기업 피아트크라이슬러(FCA) 합병이 가시화됐다.\n유럽연합(EU) 행정부 격인 집행위원회가 양사 합병을 승인했기 때문이다.\n계획대로 새해 1분기 중 합병법인 '스텔랜티스'을 출범한다.\nEU 집행위는 양사 합병이 프랑스, 이탈리아, 벨기에 등 9개 유럽경제지역(EEA)의 시장 경쟁을 제한한다고 우려했으나 기업결합을 최종 승인했다.\nFCA와 PSA가 소형 상용 밴 시장 독과점 우려를 해소하겠다고 약속했기 때문이다.\n프랑스, 스페인 공장에서 토요타 자동차를 생산하고 경쟁사에 수리 시설을 개방하는 방식이다.\nPSA와 FCA는 지난해 10월 공장 폐쇄 없이 50대 50 지분을 갖는 조건으로 합병을 결정했다.\n합병법인은 네덜란드에 설립할 예정이다.\n합병 사명인 스텔랜티스는 '반짝이다'는 뜻을 가진 라틴어 '스텔로'에서 따왔다.\n스텔랜티스는 연간 900만대 생산능력을 갖춰 단숨에 세계 4위 규모로 도약한다.\n그동안 현대차그룹이 지엠(GM)과 4위 자리를 놓고 경쟁해왔다.\n현대차그룹은 올해 4위로 올라서기도 했지만 5위로 밀려났다.\n스텔랜티스 출범 시 6위로 한 단계 하락이 예상된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "프랑스 완성차 기업 푸조시트로엥(PSA)와 이탈리아-미국 합작 완성차 기업 피아트크라이슬러(FCA) 합병이 가시화됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유럽연합(EU) 행정부 격인 집행위원회가 양사 합병을 승인했기 때문이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "계획대로 새해 1분기 중 합병법인 '스텔랜티스'을 출범한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "EU 집행위는 양사 합병이 프랑스, 이탈리아, 벨기에 등 9개 유럽경제지역(EEA)의 시장 경쟁을 제한한다고 우려했으나 기업결합을 최종 승인했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "FCA와 PSA가 소형 상용 밴 시장 독과점 우려를 해소하겠다고 약속했기 때문이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "프랑스, 스페인 공장에서 토요타 자동차를 생산하고 경쟁사에 수리 시설을 개방하는 방식이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "PSA와 FCA는 지난해 10월 공장 폐쇄 없이 50대 50 지분을 갖는 조건으로 합병을 결정했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "합병법인은 네덜란드에 설립할 예정이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "합병 사명인 스텔랜티스는 '반짝이다'는 뜻을 가진 라틴어 '스텔로'에서 따왔다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "스텔랜티스는 연간 900만대 생산능력을 갖춰 단숨에 세계 4위 규모로 도약한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "그동안 현대차그룹이 지엠(GM)과 4위 자리를 놓고 경쟁해왔다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "현대차그룹은 올해 4위로 올라서기도 했지만 5위로 밀려났다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "스텔랜티스 출범 시 6위로 한 단계 하락이 예상된다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2020 전자신문 10대뉴스(해외)] FCA-PSA 합병...4위 車 제조사 도약",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

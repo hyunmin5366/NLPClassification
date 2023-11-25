@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339538",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "삼성전자 LPDDR5 D램 세계 최초 개발... 전력소모량 30% 낮춰",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 1초에 풀HD급 영화(3.7GB) 14편을 전송할 수 있는 모바일 D램을 세계 최초로 개발했다.\n삼성전자는 17일 차세대 5G 스마트폰과 모바일 인공지능(AI) 기기에 탑재될 10나노급 8기가비트(Gb) LPDDR5(Low Power Double Data Rate 5) D램을 개발했다고 밝혔다.\n신제품은 현재 프리미엄 스마트폰에 탑재된 모바일 D램(LPDDR4X, 4266Mb/s)보다 1.5배 빠른 6400Mb/s 속도로 작동한다.\n이는 1초에 51.2GB 데이터를 전송할 수 있는 속도다.\n1.1V에서 6400Mb/s로 작동하는 제품과 1.05V에서 5500Mb/s로 작동하는 제품으로 나뉘어 출시된다.\n신제품은 데이터를 저장하는 전체 셀 영역에서 단위당 관리 구역을 16개(8→16뱅크)로 늘려 데이터 처리 속도는 높이고 전력 소모는 줄였다.\n초고속 특성을 확보하기 위해 고속 작동을 검증하는 회로(High Speed Training Scheme)도 탑재됐다.\n소비전력량을 감소시키기 위해 작동모드(Active)에서 모바일 애플리케이션프로세서(AP) 속도 변화에 맞춰 D램도 작동 전압을 낮추거나 AP의 명령으로 데이터 '0'을 기록시 해당 영역 데이터가 이미 0인 경우 불필요한 쓰기 작동을 실행하지 않도록 설계됐다.\n대기모드(Idle)에서 기존 LPDDR4X D램보다 소모되는 전력량을 절반 수준으로 줄인 초절전 작동 모드(Deep Sleep Mode)를 제공한다. 10나노급 8Gb LPDDR5 D램은 기존 제품보다 소비전력량을 최대 30% 줄였다.\n삼성전자는 차세대 스마트폰과 자동차용 시스템에 해당 제품이 탑재될 것이라고 설명했다.\n이미 지난 4월 글로벌 칩셋 업체와 8GB LPDDR5 모바일 D램 패키지(8Gb LPDDR5 D램 기반)의 전체 동작 검증을 완료했다.\n한진만 삼성전자 메모리사업부 상품기획팀 전무는 \\\"업계 유일 LPDDR5 D램 공급으로 글로벌 고객들에게 차세대 메모리 솔루션을 제공하게 됐다\\\"면서 \\\"향후 10나노급 차세대 D램 라인업을 확대해 글로벌 IT시장 변화를 가속화하고 프리미엄 메모리 시장을 지속 성장시켜 나갈 것\\\"이라고 말했다.\n삼성전자는 평택캠퍼스 최신 라인에서 차세대 D램 라인업(LPDDR5, DDR5, GDDR6)의 적기 양산 체제를 구축해 고객 수요 증가에 대응한다는 방침을 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 1초에 풀HD급 영화(3.7GB) 14편을 전송할 수 있는 모바일 D램을 세계 최초로 개발했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자는 17일 차세대 5G 스마트폰과 모바일 인공지능(AI) 기기에 탑재될 10나노급 8기가비트(Gb) LPDDR5(Low Power Double Data Rate 5) D램을 개발했다고 밝혔다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "신제품은 현재 프리미엄 스마트폰에 탑재된 모바일 D램(LPDDR4X, 4266Mb/s)보다 1.5배 빠른 6400Mb/s 속도로 작동한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 1초에 51.2GB 데이터를 전송할 수 있는 속도다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1.1V에서 6400Mb/s로 작동하는 제품과 1.05V에서 5500Mb/s로 작동하는 제품으로 나뉘어 출시된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신제품은 데이터를 저장하는 전체 셀 영역에서 단위당 관리 구역을 16개(8→16뱅크)로 늘려 데이터 처리 속도는 높이고 전력 소모는 줄였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "초고속 특성을 확보하기 위해 고속 작동을 검증하는 회로(High Speed Training Scheme)도 탑재됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소비전력량을 감소시키기 위해 작동모드(Active)에서 모바일 애플리케이션프로세서(AP) 속도 변화에 맞춰 D램도 작동 전압을 낮추거나 AP의 명령으로 데이터 '0'을 기록시 해당 영역 데이터가 이미 0인 경우 불필요한 쓰기 작동을 실행하지 않도록 설계됐다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "대기모드(Idle)에서 기존 LPDDR4X D램보다 소모되는 전력량을 절반 수준으로 줄인 초절전 작동 모드(Deep Sleep Mode)를 제공한다. 10나노급 8Gb LPDDR5 D램은 기존 제품보다 소비전력량을 최대 30% 줄였다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "삼성전자는 차세대 스마트폰과 자동차용 시스템에 해당 제품이 탑재될 것이라고 설명했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이미 지난 4월 글로벌 칩셋 업체와 8GB LPDDR5 모바일 D램 패키지(8Gb LPDDR5 D램 기반)의 전체 동작 검증을 완료했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "한진만 삼성전자 메모리사업부 상품기획팀 전무는 \\\"업계 유일 LPDDR5 D램 공급으로 글로벌 고객들에게 차세대 메모리 솔루션을 제공하게 됐다\\\"면서 \\\"향후 10나노급 차세대 D램 라인업을 확대해 글로벌 IT시장 변화를 가속화하고 프리미엄 메모리 시장을 지속 성장시켜 나갈 것\\\"이라고 말했다.",
+				"sentenceSize": 165
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "삼성전자는 평택캠퍼스 최신 라인에서 차세대 D램 라인업(LPDDR5, DDR5, GDDR6)의 적기 양산 체제를 구축해 고객 수요 증가에 대응한다는 방침을 밝혔다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자 LPDDR5 D램 세계 최초 개발... 전력소모량 30% 낮춰",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012345",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "한은, 7개월 연속 기준금리 2.5% 동결",
+		"newsSubTitle": "국내경기 호조 영향",
+		"newsContent": "한국은행이 기준금리를 7개월째 동결했다.\n한은은 12일 김중수 총재 주재로 금융통화위원회 본회의를 열고 기준금리를 현행 수준인 연2.5%로 유지하기로 했다.\n기준금리는 지난 5월 0.25%포인트 내린 이후 7개월 연속 동결됐다.\n이번 기준금리 동결 결정은 미국의 경기회복세가 지속됐고, 유로지역의 경기부진 완화와 국내 경기 수출호조가 이어지고 있는 점을 고려한 것으로 보인다.\n금융위는 앞으로 해외 위험요인의 전개 상황 및 영향에 깊이 유의하고 기준금리 인하 및 추가경정예산을 포함한 정부 경제정책의 효과를 점검할 계획이다.\n또 저성장 지속으로 성장잠재력이 훼손되지 않도록 하고, 중기적 시계에서 소비자물가 상승률이 물가안정목표 범위 내에서 유지되도록 통화정책을 운용해 나간다는 방침이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국은행이 기준금리를 7개월째 동결했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한은은 12일 김중수 총재 주재로 금융통화위원회 본회의를 열고 기준금리를 현행 수준인 연2.5%로 유지하기로 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기준금리는 지난 5월 0.25%포인트 내린 이후 7개월 연속 동결됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 기준금리 동결 결정은 미국의 경기회복세가 지속됐고, 유로지역의 경기부진 완화와 국내 경기 수출호조가 이어지고 있는 점을 고려한 것으로 보인다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금융위는 앞으로 해외 위험요인의 전개 상황 및 영향에 깊이 유의하고 기준금리 인하 및 추가경정예산을 포함한 정부 경제정책의 효과를 점검할 계획이다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 저성장 지속으로 성장잠재력이 훼손되지 않도록 하고, 중기적 시계에서 소비자물가 상승률이 물가안정목표 범위 내에서 유지되도록 통화정책을 운용해 나간다는 방침이다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG전자, 신개념 식물 생활가전 '틔운' 구독서비스 제공",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

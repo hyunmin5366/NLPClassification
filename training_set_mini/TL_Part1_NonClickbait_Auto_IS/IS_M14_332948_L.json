@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332948",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "피즐리소프트 '폴라씨티아이', GS인증 1등급 획득",
+		"newsSubTitle": "",
+		"newsContent": "피즐리소프트(대표 강병완 박석영)는 사이버 위협 인텔리전스 솔루션 '폴라씨티아이'(POLAR CTI)가 한국정보통신기술협회(TTA) GS인증 1등급을 획득했다고 13일 밝혔다.\nGS인증은 국제표준을 기반으로 기능적합성, 성능효율성, 사용성, 신뢰성, 보안성 등에 대한 시험을 수행하고, 제품 품질을 종합적으로 평가해 인증하는 제도다.\n폴라씨티아이는 외부위협정보 풀로부터 신규 위협 정보를 자동 수집하고 조직 내 식별된 위협 정보로 제공한다.\n식별된 위협 정보를 내부 침입방지시스템으로부터 수집된 정보와 비교분석하고 분석결과를 바탕으로 잠재적 위협에 사전 대응할 수 있는 사이버 위협 인텔리전스 솔루션이다.\n과거 조직 내부뿐 아니라 여러 외부 조직에서 겪었던 많은 위협 정보를 수집·분석·활용해 지능형 지속 위협(APT)과 같은 공격을 방어한다.\n강병완 피즐리소프트 대표는 “획기적으로 제품 품질을 개선, GS인증 획득으로 검증받았다”면서 “빠르게 진화하는 사이버위협에 대해 국가적으로 대응이 필요한 만큼 공공시장 공략을 본격화할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "피즐리소프트(대표 강병완 박석영)는 사이버 위협 인텔리전스 솔루션 '폴라씨티아이'(POLAR CTI)가 한국정보통신기술협회(TTA) GS인증 1등급을 획득했다고 13일 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "GS인증은 국제표준을 기반으로 기능적합성, 성능효율성, 사용성, 신뢰성, 보안성 등에 대한 시험을 수행하고, 제품 품질을 종합적으로 평가해 인증하는 제도다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "폴라씨티아이는 외부위협정보 풀로부터 신규 위협 정보를 자동 수집하고 조직 내 식별된 위협 정보로 제공한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "식별된 위협 정보를 내부 침입방지시스템으로부터 수집된 정보와 비교분석하고 분석결과를 바탕으로 잠재적 위협에 사전 대응할 수 있는 사이버 위협 인텔리전스 솔루션이다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "과거 조직 내부뿐 아니라 여러 외부 조직에서 겪었던 많은 위협 정보를 수집·분석·활용해 지능형 지속 위협(APT)과 같은 공격을 방어한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "강병완 피즐리소프트 대표는 “획기적으로 제품 품질을 개선, GS인증 획득으로 검증받았다”면서 “빠르게 진화하는 사이버위협에 대해 국가적으로 대응이 필요한 만큼 공공시장 공략을 본격화할 것”이라고 말했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "피즐리소프트 '폴라씨티아이', GS인증 1등급 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007170",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전충남 어음부도율, 신설법인 모두 하락",
+		"newsSubTitle": "",
+		"newsContent": "9월 중 대전·충남지역 어음부도율과 신설법인 수가 모두 하락한 것으로 나타났다.\n한국은행 대전·충남본부가 13일 발표한 자료에 따르면, 어음부도율(전자결제조정전, 금액기준)은 전월(0.13%)대비 0.01%p 하락한 0.12%(전년동월대비 0.09%p ) 하락했다.\n지역별로는 대전은 전월에 비해 0.05%p(0.08%→0.13%) 상승한 반면, 충남은 0.13%p(0.22%→0.09%) 하락했다.\n부도금액은 34억5000만원으로 전월(37.2억원)보다 2억7000만원 감소했다.\n업종별로는 제조업과 건설업이 각각 4억원, 1억6000만원 감소했지만, 서비스업은 5억원 늘었다.\n부도업체수(당좌거래정지업체수)는 6개로 전월(1개)보다 5개 증가했다.\n업종별로는 서비스업과 제조업이 각각 4개, 1개 늘었고, ,형태별로는 법인과 개인사업자가 각각 1개와 4개 증가했다.\n신설법인 수는 224개로 전월(290개)보다 66개 감소했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "9월 중 대전·충남지역 어음부도율과 신설법인 수가 모두 하락한 것으로 나타났다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전·충남본부가 13일 발표한 자료에 따르면, 어음부도율(전자결제조정전, 금액기준)은 전월(0.13%)대비 0.01%p 하락한 0.12%(전년동월대비 0.09%p ) 하락했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지역별로는 대전은 전월에 비해 0.05%p(0.08%→0.13%) 상승한 반면, 충남은 0.13%p(0.22%→0.09%) 하락했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부도금액은 34억5000만원으로 전월(37.2억원)보다 2억7000만원 감소했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업종별로는 제조업과 건설업이 각각 4억원, 1억6000만원 감소했지만, 서비스업은 5억원 늘었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "부도업체수(당좌거래정지업체수)는 6개로 전월(1개)보다 5개 증가했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "업종별로는 서비스업과 제조업이 각각 4개, 1개 늘었고, ,형태별로는 법인과 개인사업자가 각각 1개와 4개 증가했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "신설법인 수는 224개로 전월(290개)보다 66개 감소했다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "보조금 상한액 3만원 인상, 휴대폰업계 살릴까",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

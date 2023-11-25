@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325768",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "코캄, 고출력 리튬이온 배터리 적용한 UPS 선보여",
+		"newsSubTitle": "",
+		"newsContent": "태양광 솔루션 기업 솔라엣지의 자회사 코캄이 무정전 전원공급장치(UPS·사진)를 출시했다.\n이 제품은 독자 개발한 고성능 리튬이온 배터리를 적용, 대규모 산업체 전력난 극복과 비용 효율을 극대화한다.\n코캄은 리튬이온 배터리 기반의 무정전 전원공급장치(UPS)를 선보인다고 30일 밝혔다.\n이 제품은 기존 납축전지(VRLA) 시스템 대비 총 소유비용을 40% 절감할 수 있는 것이 특징이다.\nUPS는 장치 내 배터리에 평소 전력을 저장했다가, 정전이 발생하면 일정 시간 전원을 공급하는 비상 전원공급장치다.\n반도체 공장, 데이터센터 등 산업 시설에 전력 단절 및 데이터 손실을 막는 데 필요하다.\nUPS 시장은 기존 VRLA 시장에서 리튬이온 배터리 기반으로 세대교체가 진행되고 있다.\n납축전지 기반의 UPS는 가격이 저렴하지만, 상대적으로 많은 공간을 차지하고 수명이 짧은 데다 순간출력이 낮아 높은 출력을 내는 데 불리하다.\n그러나 산업현장 내 전력수요가 급증하면서 대규모 정전사태에 대비해 비상용 발전기를 설치하는 추세다.\n코캄의 UPS는 전원 장애 시 전력을 UPS 배터리 자체 전력으로 전환한다.\nUPS 배터리는 코캄이 독자 개발한 니켈·마그네슘·코발트 산화물 배터리다.\n대용량 배터리 단품인 셀을 합친 모듈로 UPS를 만들어 납축전지가 낼 수 없는 높은 출력과 긴 수명을 제공할 수 있다.\n코캄 UPS는 순간 출력이 최대 8C-레이트로 기존 납축전지(2C-레이트)나 일반 리튬이온 배터리(4C-레이트)보다 높아 동일한 배터리 용량으로 4~8배 긴 수명과 높은 출력을 제공할 수 있다.\nUPS는 또 높은 에너지 밀도에 따른 소형화 및 경량화가 가능하다.\n기존 배터리보다 설치 면적을 최대 46%, 무게는 최대 20% 줄였다.\n이를 통해 제한된 공간에 배치가 쉽고 유지보수가 용이하다.\n현재 코캄은 UPS 국내외 수주물량 증가에 힘입어 충북 음성에 배터리 전용 공장을 증설하고 있다.\n오는 2021년 완공을 목표로 UPS, ESS(에너지저장장치) 전용 배터리 공급에 나설 예정이다.\n홍인관 코캄 사장은 “데이터센터 성장에 힘입어 UPS 배터리 시장은 나날이 성장하고 있다”며 “코캄은 세계적인 배터리 솔루션 제공 업체로서 기술 혁신을 통해 UPS 시장 성장의 가속화를 견인하고자 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "태양광 솔루션 기업 솔라엣지의 자회사 코캄이 무정전 전원공급장치(UPS·사진)를 출시했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 제품은 독자 개발한 고성능 리튬이온 배터리를 적용, 대규모 산업체 전력난 극복과 비용 효율을 극대화한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코캄은 리튬이온 배터리 기반의 무정전 전원공급장치(UPS)를 선보인다고 30일 밝혔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 제품은 기존 납축전지(VRLA) 시스템 대비 총 소유비용을 40% 절감할 수 있는 것이 특징이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "UPS는 장치 내 배터리에 평소 전력을 저장했다가, 정전이 발생하면 일정 시간 전원을 공급하는 비상 전원공급장치다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반도체 공장, 데이터센터 등 산업 시설에 전력 단절 및 데이터 손실을 막는 데 필요하다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "UPS 시장은 기존 VRLA 시장에서 리튬이온 배터리 기반으로 세대교체가 진행되고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "납축전지 기반의 UPS는 가격이 저렴하지만, 상대적으로 많은 공간을 차지하고 수명이 짧은 데다 순간출력이 낮아 높은 출력을 내는 데 불리하다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그러나 산업현장 내 전력수요가 급증하면서 대규모 정전사태에 대비해 비상용 발전기를 설치하는 추세다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "코캄의 UPS는 전원 장애 시 전력을 UPS 배터리 자체 전력으로 전환한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "UPS 배터리는 코캄이 독자 개발한 니켈·마그네슘·코발트 산화물 배터리다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "대용량 배터리 단품인 셀을 합친 모듈로 UPS를 만들어 납축전지가 낼 수 없는 높은 출력과 긴 수명을 제공할 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "코캄 UPS는 순간 출력이 최대 8C-레이트로 기존 납축전지(2C-레이트)나 일반 리튬이온 배터리(4C-레이트)보다 높아 동일한 배터리 용량으로 4~8배 긴 수명과 높은 출력을 제공할 수 있다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "UPS는 또 높은 에너지 밀도에 따른 소형화 및 경량화가 가능하다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "기존 배터리보다 설치 면적을 최대 46%, 무게는 최대 20% 줄였다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이를 통해 제한된 공간에 배치가 쉽고 유지보수가 용이하다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "현재 코캄은 UPS 국내외 수주물량 증가에 힘입어 충북 음성에 배터리 전용 공장을 증설하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "오는 2021년 완공을 목표로 UPS, ESS(에너지저장장치) 전용 배터리 공급에 나설 예정이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "홍인관 코캄 사장은 “데이터센터 성장에 힘입어 UPS 배터리 시장은 나날이 성장하고 있다”며 “코캄은 세계적인 배터리 솔루션 제공 업체로서 기술 혁신을 통해 UPS 시장 성장의 가속화를 견인하고자 한다”고 말했다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코캄, 고출력 리튬이온 배터리 적용한 UPS 선보여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

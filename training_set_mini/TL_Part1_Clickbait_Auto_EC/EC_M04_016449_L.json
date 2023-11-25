@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016449",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "KB국민은행, 개인사업자 위한 인터넷전용 대출상품 출시",
+		"newsSubTitle": "",
+		"newsContent": "KB국민은행(은행장 윤종규)은 4일 비대면전용 기업대출상품인 ‘KB인터넷 소호(SOHO) 신용대출’과 ‘KB인터넷소호 보증서대출’을 출시했다.\n이는 개인사업자의 편의를 위한 인터넷 전용상품으로 대출심사에 필요한 사업자등록증명원 및 소득입증서류를 전산으로 반영해 서류제출이나 영업점 방문 없이 국민은행 인터넷뱅킹을 통해 신청하면 된다.\n소호 신용대출은 국민은행에 기업여신을 보유하고 있는 개인사업자를 대상으로 신용등급별 최대 5000만원 범위내에서 대출이 가능하다.\n금리는 신용등급 4등급 기준 4.27~4.77% 수준이다.\n보증서대출은 신용보증재단중앙회와 협약을 통해 ‘플러스모바일보증서’를 발급받은 개인사업자가 대상이다.\n대출 한도는 최대 2000만원, 금리는 4.02~4.52% 수준이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KB국민은행(은행장 윤종규)은 4일 비대면전용 기업대출상품인 ‘KB인터넷 소호(SOHO) 신용대출’과 ‘KB인터넷소호 보증서대출’을 출시했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 개인사업자의 편의를 위한 인터넷 전용상품으로 대출심사에 필요한 사업자등록증명원 및 소득입증서류를 전산으로 반영해 서류제출이나 영업점 방문 없이 국민은행 인터넷뱅킹을 통해 신청하면 된다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "소호 신용대출은 국민은행에 기업여신을 보유하고 있는 개인사업자를 대상으로 신용등급별 최대 5000만원 범위내에서 대출이 가능하다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "금리는 신용등급 4등급 기준 4.27~4.77% 수준이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보증서대출은 신용보증재단중앙회와 협약을 통해 ‘플러스모바일보증서’를 발급받은 개인사업자가 대상이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대출 한도는 최대 2000만원, 금리는 4.02~4.52% 수준이다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[프랜차이즈 톡톡] KFC '굿바이 왕갈비 오븐치킨 4+4 프로모션' 진행",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

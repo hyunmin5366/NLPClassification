@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349080",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "AI가 구겨진 영수증도 분류…네이버클라우드 '도큐먼트 OCR' 출시",
+		"newsSubTitle": "null",
+		"newsContent": "네이버클라우드는 네이버의 인공지능(AI) 클로바(CLOVA)가 업무 문서의 글자를 읽고 항목별 분류를 돕도록 개발한 '클로바 도큐먼트 OCR(CLOVA Document OCR)'의 업무용 특화 모델을 출시했다고 11일 밝혔다.\n클로바 도큐먼트 OCR(광학문자인식) 특화 모델은 자연어처리기술(NLP)을 기반으로 비정형의 여러 문서들을 선행 학습한 클로바 AI가 업무 문서에서 사업자 번호, 상호, 지점명 등 주요 정보를 나타내는 글자만 추출해 문서 분류를 돕는 솔루션이다.\n영수증, 신용카드, 사업자등록증, 명함, 신분증, 의료비 지출 내역 등 문서 양식이나 글자 위치가 달라도 문서 속 주요 정보만 추출하고 항목별 분류까지 가능하다는 설명이다.\n그동안에는 문서 발급 기관이 서로 달라 문서 형태가 기존 학습 데이터와 상이하거나 주민등록증이나 운전면허증, 여권처럼 빛 반사가 많고 워터마크나 형광인쇄 등 위·변조 기술이 적용된 문서 등에는 OCR 기술이 까다로웠다.\n하지만 클로바 도큐먼트 OCR은 인식한 문서에서 정보의 연결 관계까지 파악해 텍스트와 숫자 값이 의미하는 바를 정확하게 찾아낼 수 있다고 네이버클라우드는 소개했다.\n구겨지거나 오염된 서류, 명함처럼 디자인이 가미된 문서에서도 텍스트를 추출해 낼 수 있다는 설명이다.\n네이버는 이 기술을 네이버웍스와 리멤버 서비스에서도 활용하고 있다고 밝혔다.\n오는 5월 의료비 영수증 인식 서비스도 업데이트하겠다고도 밝혔다.\n네이버클라우드는 다만 신용카드나 주민등록증 등 민감정보와 개인정보를 인식하기 위해 클로바 도큐먼트 OCR을 사용하려는 기업은 사전 신청 절차를 거쳐 선별적으로 승인해 사용하도록 하겠다고 밝혔다.\n이들 기업에는 OCR을 안전하게 사용하기 위한 보안 아키텍처도 별도로 안내된다.\n한상영 네이버클라우드 상무는 \\\"산업군을 막론하고 자동화를 통해 업무를 간소화하는 추세가 이어지면서 OCR의 활용 분야가 다각화되고 비즈니스 현장의 핵심 기술로 자리매김하고 있다\\\"며 \\\"향후 Document OCR 특화 모델을 지속적으로 확장하고 네이버 클라우드 플랫폼의 다른 서비스와 유기적으로 연계한 솔루션을 출시해 네이버클라우드 만이 제공할 수 있는 차별화된 서비스로 혁신을 선도해 나가겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버클라우드는 네이버의 인공지능(AI) 클로바(CLOVA)가 업무 문서의 글자를 읽고 항목별 분류를 돕도록 개발한 '클로바 도큐먼트 OCR(CLOVA Document OCR)'의 업무용 특화 모델을 출시했다고 11일 밝혔다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "클로바 도큐먼트 OCR(광학문자인식) 특화 모델은 자연어처리기술(NLP)을 기반으로 비정형의 여러 문서들을 선행 학습한 클로바 AI가 업무 문서에서 사업자 번호, 상호, 지점명 등 주요 정보를 나타내는 글자만 추출해 문서 분류를 돕는 솔루션이다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영수증, 신용카드, 사업자등록증, 명함, 신분증, 의료비 지출 내역 등 문서 양식이나 글자 위치가 달라도 문서 속 주요 정보만 추출하고 항목별 분류까지 가능하다는 설명이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그동안에는 문서 발급 기관이 서로 달라 문서 형태가 기존 학습 데이터와 상이하거나 주민등록증이나 운전면허증, 여권처럼 빛 반사가 많고 워터마크나 형광인쇄 등 위·변조 기술이 적용된 문서 등에는 OCR 기술이 까다로웠다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 클로바 도큐먼트 OCR은 인식한 문서에서 정보의 연결 관계까지 파악해 텍스트와 숫자 값이 의미하는 바를 정확하게 찾아낼 수 있다고 네이버클라우드는 소개했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구겨지거나 오염된 서류, 명함처럼 디자인이 가미된 문서에서도 텍스트를 추출해 낼 수 있다는 설명이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버는 이 기술을 네이버웍스와 리멤버 서비스에서도 활용하고 있다고 밝혔다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오는 5월 의료비 영수증 인식 서비스도 업데이트하겠다고도 밝혔다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네이버클라우드는 다만 신용카드나 주민등록증 등 민감정보와 개인정보를 인식하기 위해 클로바 도큐먼트 OCR을 사용하려는 기업은 사전 신청 절차를 거쳐 선별적으로 승인해 사용하도록 하겠다고 밝혔다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이들 기업에는 OCR을 안전하게 사용하기 위한 보안 아키텍처도 별도로 안내된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한상영 네이버클라우드 상무는 \\\"산업군을 막론하고 자동화를 통해 업무를 간소화하는 추세가 이어지면서 OCR의 활용 분야가 다각화되고 비즈니스 현장의 핵심 기술로 자리매김하고 있다\\\"며 \\\"향후 Document OCR 특화 모델을 지속적으로 확장하고 네이버 클라우드 플랫폼의 다른 서비스와 유기적으로 연계한 솔루션을 출시해 네이버클라우드 만이 제공할 수 있는 차별화된 서비스로 혁신을 선도해 나가겠다\\\"고 말했다.",
+				"sentenceSize": 230
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AI가 구겨진 영수증도 분류…네이버클라우드 '도큐먼트 OCR' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322326",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "이스트시큐리티, KISA에 APT 대응 솔루션 공급",
+		"newsSubTitle": "",
+		"newsContent": "이스트시큐리티(대표 정상원)는 한국인터넷진흥원(KISA)에 지능형지속위협(APT) 대응 솔루션을 공급했다.\n이스트시큐리티는 KISA와 자사 APT 대응 솔루션 '아이마스(IMAS)'를 공급하는 계약을 체결했다고 14일 밝혔다.\nKISA가 추진하는 '홈페이지 유포 악성코드 탐지분석 강화를 위한 분석장비 도입 사업' 최종 사업자로 선정됐다.\n아이마스는 악성 의심 파일 URL을 정적∙동적 분석한다.\n보안 전문가 수준 악성코드 분석을 자동으로 수행한다.\n분석 결과를 도식화된 보고서 형태로 관리자에게 제공한다.\n특히 웹사이트에 노출되는 광고 서버 취약점을 활용한 최신 악성코드 유포 기법인 '멀버타이징(Malvertising)'까지 탐지∙분석한다.\n이스트시큐리티는 이미 경찰청, 금융보안원 등 공공 기관에 아이마스를 공급한 바 있다.\n이번 계약으로 향후 KISA 악성코드 탐지∙분석 업무가 더욱 신속하고 정확해질 것으로 기대했다.\n향후 인공지능(A.I) 분석 엔진을 적용한 '아이마스 클라우드(IMAS Cloud)' 서비스를 출시한다.\n김준섭 이스트시큐리티 부사장은 \\\"아이마스는 기존에 숙련된 보안 분석가의 수작업에만 의존해 분석량에 한계가 있었던 악성코드 분석을 자동화했다\\\"며 \\\"아이마스를 통해 KISA 사이버 침해사고 대응이 강화되길 기대한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이스트시큐리티(대표 정상원)는 한국인터넷진흥원(KISA)에 지능형지속위협(APT) 대응 솔루션을 공급했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이스트시큐리티는 KISA와 자사 APT 대응 솔루션 '아이마스(IMAS)'를 공급하는 계약을 체결했다고 14일 밝혔다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KISA가 추진하는 '홈페이지 유포 악성코드 탐지분석 강화를 위한 분석장비 도입 사업' 최종 사업자로 선정됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이마스는 악성 의심 파일 URL을 정적∙동적 분석한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보안 전문가 수준 악성코드 분석을 자동으로 수행한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "분석 결과를 도식화된 보고서 형태로 관리자에게 제공한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 웹사이트에 노출되는 광고 서버 취약점을 활용한 최신 악성코드 유포 기법인 '멀버타이징(Malvertising)'까지 탐지∙분석한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이스트시큐리티는 이미 경찰청, 금융보안원 등 공공 기관에 아이마스를 공급한 바 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이번 계약으로 향후 KISA 악성코드 탐지∙분석 업무가 더욱 신속하고 정확해질 것으로 기대했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "향후 인공지능(A.I) 분석 엔진을 적용한 '아이마스 클라우드(IMAS Cloud)' 서비스를 출시한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "김준섭 이스트시큐리티 부사장은 \\\"아이마스는 기존에 숙련된 보안 분석가의 수작업에만 의존해 분석량에 한계가 있었던 악성코드 분석을 자동화했다\\\"며 \\\"아이마스를 통해 KISA 사이버 침해사고 대응이 강화되길 기대한다\\\"고 말했다.",
+				"sentenceSize": 128
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이스트시큐리티, KISA에 APT 대응 솔루션 공급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_025456",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "‘D.P.’ 흥행 덕? 넷플릭스, 결제금액·결제자수 역대 최대",
+		"newsSubTitle": "",
+		"newsContent": "지난 8월 넷플릭스에서 결제된 금액은 753억원으로, 역대 최대 기록을 경신했다.\n23일 앱 분석서비스 와이즈앱에 따르면 넷플릭스의 8월 결제금액은 753억원으로, 지난해 같은달보다 78% 증가했다.\n결제자 수도 514만명을 기록해, 전년 8월 316만명에서 63% 늘었다.\n결제자가 전 연령층을 보면 20대 비중이 줄어든 대신 30대와 40대, 50대 이상 결제자 비중이 모두 증가했다.\n20대가 26.9%(139만명), 30대 29.0%(149만명), 40대 24.3%(125만명), 50대 이상은 19.8%(103만명)였다.\n20대 결제자가 전년 대비 9%밖에 늘지 않은 것과 달리 30대는 92%, 40대는 118%, 50대 이상은 87% 증가세를 보였다.\n한편 지난달 27일 공개된 넷플릭스 오리지널 시리즈 <D.P.>는 한국을 비롯한 태국·베트남에서 인기 순위 1위를 기록했고, 지난 17일 공개된 넷플릭스 오리지널 시리즈 <오징어게임> 역시 한국 드라마 최초로 미국 넷플릭스 1위를 기록하는 등 큰 인기를 끌고 있다.\n이번 조사는 만 20세 이상 한국인 개인이 넷플릭스에서 신용카드·체크카드로 결제한 금액을 기준으로 했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 8월 넷플릭스에서 결제된 금액은 753억원으로, 역대 최대 기록을 경신했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 앱 분석서비스 와이즈앱에 따르면 넷플릭스의 8월 결제금액은 753억원으로, 지난해 같은달보다 78% 증가했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "결제자 수도 514만명을 기록해, 전년 8월 316만명에서 63% 늘었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "결제자가 전 연령층을 보면 20대 비중이 줄어든 대신 30대와 40대, 50대 이상 결제자 비중이 모두 증가했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "20대가 26.9%(139만명), 30대 29.0%(149만명), 40대 24.3%(125만명), 50대 이상은 19.8%(103만명)였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "20대 결제자가 전년 대비 9%밖에 늘지 않은 것과 달리 30대는 92%, 40대는 118%, 50대 이상은 87% 증가세를 보였다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 지난달 27일 공개된 넷플릭스 오리지널 시리즈 <D.P.>는 한국을 비롯한 태국·베트남에서 인기 순위 1위를 기록했고, 지난 17일 공개된 넷플릭스 오리지널 시리즈 <오징어게임> 역시 한국 드라마 최초로 미국 넷플릭스 1위를 기록하는 등 큰 인기를 끌고 있다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이번 조사는 만 20세 이상 한국인 개인이 넷플릭스에서 신용카드·체크카드로 결제한 금액을 기준으로 했다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“이정재 휴대전화 압수하라” 팬들 성화…왜?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338108",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "해킹 조직 '코니', 성형외과 소송 문서로 위장한 APT 시도",
+		"newsSubTitle": "",
+		"newsContent": "북한 관련 정치적 위협 활동과 암호화폐 탈취를 수행하는 '코니(Konni)' 해킹 조직이 광주에 위치한 특정 성형외과 소송 문서로 위장한 지능형위협공격(APT)을 시도한 것으로 확인됐다.\n정확한 공격 타깃과 목적은 아직 드러나지 않았다.\n이스트시큐리티 시큐리티대응센터(ESRC)는 12일 알약에 탑재된 위협정보 수집기능을 통해 '코니' 조직으로 분류된 신규 APT가 식별됐다고 밝혔다.\n이번 공격에는 광주 소재 A성형외과 관계자 간 소송 문건을 담은 악성 한글문서(HWP)가 벡터(운반체)로 사용됐다.\n파일명에는 A성형외과 실제 대표명이 기입됐다.\n파일 내부에는 악성 포스트스크립트가 포함됐다.\n파일 실행 시 화면에는 정상적인 소송 관련 답변서 내용이 표시되지만, 실제로는 쉘코드를 통해 명령 제어(C2) 서버로 연결, 파일을 다운로드한 후 명령을 실행한다.\nC2 서버는 국내 포털로 위장했으며 지난 9월 생성됐다.\n이후 공격자는 감염된 컴퓨터에 설치된 각종 프로그램과 파일 목록, 시스템 정보, 프로세스 리스트, 윈도 컴퓨터명 등을 유출한다.\nESRC는 복호화 키, 내부 명령에 포함된 'pakistan.txt'라는 파일명, 도메인 등록용 이메일 주소 등 위협 패턴과 전술 정황이 기존 '코니' 조직과 같다는 점을 근거로 공격자를 '코니'로 최종 분류했다. '코니'는 북한 정부가 지원하는 것으로 추정되는 '김수키(Kimsuky)' 해킹 조직과 연관성을 보인다.\n문종현 ESRC 센터장은 “이번 공격에서 흥미로운 점은 C2 도메인에 등록된 정보”라면서 “C2 도메인은 지난 9월 광주에서 '박정석(JungSuk Park)'이라는 이름으로 등록됐다”고 말했다.\n이어 “도메인 등록에 사용된 휴대전화 번호는 '카카오톡'에도 등록돼 있었다”면서 “번호 사용자는 한국에 거주하는 외국인으로 추정되며 공격자가 도메인 등록 시 이 사람 번호를 무단 도용한 것인지는 불분명하다”고 했다.\n공격자가 도메인을 등록할 때 등록 지역, 등록자 이름, 등록자 휴대전화 번호 등 개인정보는 기입하지 않아도 되지만, 진위 여부를 떠나 이처럼 기입한 자체가 특이하다는 설명이다.\n문 센터장은 “해커에 관한 실제 정보일 가능성은 희박하지만, 공격 분석에 중요한 단서들”이라고 덧붙였다.\n최근 '코니' 조직이 비트코인 등 암호화폐 탈취를 꾸준히 수행해온 흐름을 고려할 때 성형외과 소송 문서로 위장한 APT를 시도한 목적은 의문으로 남아 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "북한 관련 정치적 위협 활동과 암호화폐 탈취를 수행하는 '코니(Konni)' 해킹 조직이 광주에 위치한 특정 성형외과 소송 문서로 위장한 지능형위협공격(APT)을 시도한 것으로 확인됐다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정확한 공격 타깃과 목적은 아직 드러나지 않았다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이스트시큐리티 시큐리티대응센터(ESRC)는 12일 알약에 탑재된 위협정보 수집기능을 통해 '코니' 조직으로 분류된 신규 APT가 식별됐다고 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 공격에는 광주 소재 A성형외과 관계자 간 소송 문건을 담은 악성 한글문서(HWP)가 벡터(운반체)로 사용됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "파일명에는 A성형외과 실제 대표명이 기입됐다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "파일 내부에는 악성 포스트스크립트가 포함됐다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "파일 실행 시 화면에는 정상적인 소송 관련 답변서 내용이 표시되지만, 실제로는 쉘코드를 통해 명령 제어(C2) 서버로 연결, 파일을 다운로드한 후 명령을 실행한다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "C2 서버는 국내 포털로 위장했으며 지난 9월 생성됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 공격자는 감염된 컴퓨터에 설치된 각종 프로그램과 파일 목록, 시스템 정보, 프로세스 리스트, 윈도 컴퓨터명 등을 유출한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "ESRC는 복호화 키, 내부 명령에 포함된 'pakistan.txt'라는 파일명, 도메인 등록용 이메일 주소 등 위협 패턴과 전술 정황이 기존 '코니' 조직과 같다는 점을 근거로 공격자를 '코니'로 최종 분류했다. '코니'는 북한 정부가 지원하는 것으로 추정되는 '김수키(Kimsuky)' 해킹 조직과 연관성을 보인다.",
+				"sentenceSize": 178
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "문종현 ESRC 센터장은 “이번 공격에서 흥미로운 점은 C2 도메인에 등록된 정보”라면서 “C2 도메인은 지난 9월 광주에서 '박정석(JungSuk Park)'이라는 이름으로 등록됐다”고 말했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이어 “도메인 등록에 사용된 휴대전화 번호는 '카카오톡'에도 등록돼 있었다”면서 “번호 사용자는 한국에 거주하는 외국인으로 추정되며 공격자가 도메인 등록 시 이 사람 번호를 무단 도용한 것인지는 불분명하다”고 했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "공격자가 도메인을 등록할 때 등록 지역, 등록자 이름, 등록자 휴대전화 번호 등 개인정보는 기입하지 않아도 되지만, 진위 여부를 떠나 이처럼 기입한 자체가 특이하다는 설명이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "문 센터장은 “해커에 관한 실제 정보일 가능성은 희박하지만, 공격 분석에 중요한 단서들”이라고 덧붙였다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "최근 '코니' 조직이 비트코인 등 암호화폐 탈취를 꾸준히 수행해온 흐름을 고려할 때 성형외과 소송 문서로 위장한 APT를 시도한 목적은 의문으로 남아 있다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "해킹 조직 '코니', 성형외과 소송 문서로 위장한 APT 시도",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

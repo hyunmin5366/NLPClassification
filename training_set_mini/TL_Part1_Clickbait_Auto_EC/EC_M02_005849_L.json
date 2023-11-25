@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005849",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "신한은행, 예‧적금 금리 '최고 0.4%p' 인상",
+		"newsSubTitle": "정기예금 최고 0.4%p, 적금 최고 0.3%p 인상",
+		"newsContent": "신한은행은 한국은행의 기준금리 인상분을 반영해 정기예금 및 적립식 예금 금리를 최대 0.4%p 인상한다고 27일 밝혔다.\n이번에 인상하는 상품은 총 36종의 정기예금 및 적립식 예금이다.\n이를 통해 신한은행의 대표 정기예금인 S드림 정기예금 금리는 만기별 0.2~0.4%p 인상된다.\n또 대표적인 적립식 상품인 '신한 안녕, 반가워 적금' 1년 만기 금리도 최고금리 연 4.6%로 변경된다.\n이밖에 서민의 목돈 마련을 지원하는 적립식 상품인 '신한 새희망 적금 금리'는 기존 4.7%에서 0.3%p 인상된 최고 연 5.0%가 적용된다.\n신한은행 관계자는 데일리임팩트에 \\\"한국은행 기준금리 인상과 시장금리 상승에 맞춰 전체 예적금 금리를 상품 및 기간에 따라 0.1%p~0.4%p 인상한다\\\"고 설명했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신한은행은 한국은행의 기준금리 인상분을 반영해 정기예금 및 적립식 예금 금리를 최대 0.4%p 인상한다고 27일 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번에 인상하는 상품은 총 36종의 정기예금 및 적립식 예금이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이를 통해 신한은행의 대표 정기예금인 S드림 정기예금 금리는 만기별 0.2~0.4%p 인상된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 대표적인 적립식 상품인 '신한 안녕, 반가워 적금' 1년 만기 금리도 최고금리 연 4.6%로 변경된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이밖에 서민의 목돈 마련을 지원하는 적립식 상품인 '신한 새희망 적금 금리'는 기존 4.7%에서 0.3%p 인상된 최고 연 5.0%가 적용된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신한은행 관계자는 데일리임팩트에 \\\"한국은행 기준금리 인상과 시장금리 상승에 맞춰 전체 예적금 금리를 상품 및 기간에 따라 0.1%p~0.4%p 인상한다\\\"고 설명했다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "외인 매도 행진…코스피 2300선 후퇴",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_033872",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "야위어 보이려 볼살 '빨아먹는' 금수저 모델 논란",
+		"newsSubTitle": "",
+		"newsContent": "최근 온라인상에서 야위어 보이기 위해 볼을 빨아들인 채 패션쇼에 선 '금수저 모델'이 화제다.\n논란의 주인공은 영국 배우 주드 로의 아들 래퍼티 로다. 1996년생으로 올해로 21살인 래퍼티 로는 열여섯 살에 영국 '보그' 화보를 찍으며 모델로 데뷔했다.\n그는 175㎝로 모델로서는 작은 키에 좋지 못한 비율, 부족한 런웨이 워킹 실력으로도 계속해서 패션쇼에 서며 아버지 덕을 보고 있다는 논란이 된 바 있다.\n그중 단연 화제가 되는 사진은 볼살을 빨아 먹고 있는 듯한 사진이다.\n공개된 사진 속에서 래퍼티로는 마른 모델을 선호하는 것을 의식한 듯 움푹 팬 볼을 연출하기 위해 노력하고 있다.\n어정쩡한 입술의 모양과 위치가 어딘가 인위적이다.\n어색한 표정은 푹 패인 볼을 만들기 위한 그의 피나는 노력을 알려준다.\n이를 본 네티즌들은 \\\"금수저 출신 중 제일 양심 없는 모델 아니냐\\\" \\\"살 뺄 생각을 안 하고 볼살을 빨아먹다니 신기하다\\\" \\\"워킹도 충격적이다.\\\" 등의 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 온라인상에서 야위어 보이기 위해 볼을 빨아들인 채 패션쇼에 선 '금수저 모델'이 화제다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "논란의 주인공은 영국 배우 주드 로의 아들 래퍼티 로다. 1996년생으로 올해로 21살인 래퍼티 로는 열여섯 살에 영국 '보그' 화보를 찍으며 모델로 데뷔했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 175㎝로 모델로서는 작은 키에 좋지 못한 비율, 부족한 런웨이 워킹 실력으로도 계속해서 패션쇼에 서며 아버지 덕을 보고 있다는 논란이 된 바 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그중 단연 화제가 되는 사진은 볼살을 빨아 먹고 있는 듯한 사진이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개된 사진 속에서 래퍼티로는 마른 모델을 선호하는 것을 의식한 듯 움푹 팬 볼을 연출하기 위해 노력하고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "어정쩡한 입술의 모양과 위치가 어딘가 인위적이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "어색한 표정은 푹 패인 볼을 만들기 위한 그의 피나는 노력을 알려준다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 본 네티즌들은 \\\"금수저 출신 중 제일 양심 없는 모델 아니냐\\\" \\\"살 뺄 생각을 안 하고 볼살을 빨아먹다니 신기하다\\\" \\\"워킹도 충격적이다.\\\" 등의 반응을 보였다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신예영 표 ‘전화 한 번 못하니’, 오늘(26일) 공개",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

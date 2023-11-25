@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354628",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "LG헬로비전 알뜰폰 가입자 개인정보 유출…\\\"피해 규모 확인 중\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "LG헬로비전의 알뜰폰(MVNO) 브랜드 헬로모바일 가입자 개인정보 일부가 유출되는 사고가 발생했다.\nLG헬로비전은 정확한 피해규모를 확인 중이다.\n15일 정보통신(IT) 업계에 따르면 최근 LG헬로비전의 헬로모바일과 다이렉트몰 홈페이지 1대1 문의게시판이 악성코드에 감염됐다.\nLG헬로비전은 지난달 31일 일부 게시물 관련 개인정보(이름, 전화번호, 이메일, My LG ID, IP, 질문내용) 등을 외부인이 조회한 정황도 확인했다.\nLG헬로비전 관계자는 \\\"해당 사실을 확인한 즉시 악성코드가 삽입된 게시물을 삭제하고 개인정보 유출 경로를 차단했다\\\"며 \\\"피해 규모와 감염 경로를 확인하는 한편, 한국인터넷진흥원(KISA)에 신고 후 2차 피해 최소화를 위해 모니터링 중\\\"이라고 말했다.\n이어 \\\"앞으로 이 같은 사고가 발생하지 않도록 보안조치를 더 강화하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG헬로비전의 알뜰폰(MVNO) 브랜드 헬로모바일 가입자 개인정보 일부가 유출되는 사고가 발생했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG헬로비전은 정확한 피해규모를 확인 중이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "15일 정보통신(IT) 업계에 따르면 최근 LG헬로비전의 헬로모바일과 다이렉트몰 홈페이지 1대1 문의게시판이 악성코드에 감염됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "LG헬로비전은 지난달 31일 일부 게시물 관련 개인정보(이름, 전화번호, 이메일, My LG ID, IP, 질문내용) 등을 외부인이 조회한 정황도 확인했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG헬로비전 관계자는 \\\"해당 사실을 확인한 즉시 악성코드가 삽입된 게시물을 삭제하고 개인정보 유출 경로를 차단했다\\\"며 \\\"피해 규모와 감염 경로를 확인하는 한편, 한국인터넷진흥원(KISA)에 신고 후 2차 피해 최소화를 위해 모니터링 중\\\"이라고 말했다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 \\\"앞으로 이 같은 사고가 발생하지 않도록 보안조치를 더 강화하겠다\\\"고 말했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG헬로비전 알뜰폰 가입자 개인정보 유출…\\\"피해 규모 확인 중\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353905",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "AI 개념부터 기후영향까지…모든 정보 '이곳'에 다 모았다",
+		"newsSubTitle": "null",
+		"newsContent": "구글은 누구나 AI(인공지능)를 쉽게 이해할 수 있도록 'AI의 모든 것: A에서 Z까지' 웹사이트를 선보인다고 12일 밝혔다.\n구글은 주요 AI 키워드와 알파벳을 연결해 초보자도 AI 용어와 개념을 쉽게 이해할 수 있게 했다.\n예컨대 '인공지능(Artificial Intelligence)'에선 AI에 대한 정의를, '기후(Climate)'에서는 AI가 글로벌 기후 문제 해결을 위해 어떻게 사용되고 있는지, '데이터셋(Datasets)'에서는 AI에게 세상을 학습시키는 데 사용되는 정보에 대해 설명한다.\n구글은 지난 2020년 3월 영국 옥스퍼드 인터넷 연구소와 공동제작한 영문 웹사이트를 한국어로 번역했다.\n별도 가입이나 인증 절차 없이 누구나 이용할 수 있다.\n배정숙 구글 포 에듀케이션 한국 총괄은 \\\"많은 사람들이 AI 관련 용어와 개념을 쉽게 이해할 수 있도록 지원하기 위해 한국어로 웹사이트를 선보이게 됐다\\\"며 \\\"웹 기반 머신러닝 개발 도구인 '티처블(teachable) 머신' 등 구글의 다양한 AI 및 머신러닝 학습 도구가 도움이 될 수 있도록 지속 개발해나갈 것\\\"이라고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구글은 누구나 AI(인공지능)를 쉽게 이해할 수 있도록 'AI의 모든 것: A에서 Z까지' 웹사이트를 선보인다고 12일 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구글은 주요 AI 키워드와 알파벳을 연결해 초보자도 AI 용어와 개념을 쉽게 이해할 수 있게 했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예컨대 '인공지능(Artificial Intelligence)'에선 AI에 대한 정의를, '기후(Climate)'에서는 AI가 글로벌 기후 문제 해결을 위해 어떻게 사용되고 있는지, '데이터셋(Datasets)'에서는 AI에게 세상을 학습시키는 데 사용되는 정보에 대해 설명한다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "구글은 지난 2020년 3월 영국 옥스퍼드 인터넷 연구소와 공동제작한 영문 웹사이트를 한국어로 번역했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "별도 가입이나 인증 절차 없이 누구나 이용할 수 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "배정숙 구글 포 에듀케이션 한국 총괄은 \\\"많은 사람들이 AI 관련 용어와 개념을 쉽게 이해할 수 있도록 지원하기 위해 한국어로 웹사이트를 선보이게 됐다\\\"며 \\\"웹 기반 머신러닝 개발 도구인 '티처블(teachable) 머신' 등 구글의 다양한 AI 및 머신러닝 학습 도구가 도움이 될 수 있도록 지속 개발해나갈 것\\\"이라고 강조했다.",
+				"sentenceSize": 188
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AI 개념부터 기후영향까지…모든 정보 '이곳'에 다 모았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

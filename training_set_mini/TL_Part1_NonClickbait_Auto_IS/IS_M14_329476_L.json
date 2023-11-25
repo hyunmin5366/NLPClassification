@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329476",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "현대백화점 1분기 영업익 889억원…작년비 36.7%↑",
+		"newsSubTitle": "",
+		"newsContent": "현대백화점은 올해 1분기 연결기준 영업이익이 889억원으로 작년 동기대비 36.7% 증가했다고 10일 공시했다.\n매출액은 36.8% 증가한 9344억원, 당기순이익은 35.1% 늘어난 754억원으로 집계됐다.\n백화점 부문 매출은 5433억원, 영업이익은 127억원으로 각각 9.2%, 35.2% 증가했다.\n회사 측은 “소비심리가 개선과 사회적 거리두기 완화로 패션·스포츠 등 고마진 상품군 실적이 개선되면서 영업이익이 큰 폭으로 증가했다”고 밝혔다.\n면세점 매출은 4243억원으로 97% 늘었지만 영업손실 140억원으로 적자 규모가 28억원 늘었다.\n중국의 주요 도시 봉쇄 정책 등 영업 환경이 악화한 상태에서 수입 화장품에 힘입어 매출은 개선됐지만 이익률 하락으로 적자폭이 커졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대백화점은 올해 1분기 연결기준 영업이익이 889억원으로 작년 동기대비 36.7% 증가했다고 10일 공시했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "매출액은 36.8% 증가한 9344억원, 당기순이익은 35.1% 늘어난 754억원으로 집계됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "백화점 부문 매출은 5433억원, 영업이익은 127억원으로 각각 9.2%, 35.2% 증가했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "회사 측은 “소비심리가 개선과 사회적 거리두기 완화로 패션·스포츠 등 고마진 상품군 실적이 개선되면서 영업이익이 큰 폭으로 증가했다”고 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "면세점 매출은 4243억원으로 97% 늘었지만 영업손실 140억원으로 적자 규모가 28억원 늘었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중국의 주요 도시 봉쇄 정책 등 영업 환경이 악화한 상태에서 수입 화장품에 힘입어 매출은 개선됐지만 이익률 하락으로 적자폭이 커졌다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대백화점 1분기 영업익 889억원…작년비 36.7%↑",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

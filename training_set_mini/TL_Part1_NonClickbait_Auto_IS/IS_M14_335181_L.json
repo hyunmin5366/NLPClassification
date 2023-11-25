@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335181",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "대형병원 의료 빅데이터, 80% 버려진다",
+		"newsSubTitle": "",
+		"newsContent": "대형병원에서 한 달에 약 90테라바이트(TB)에 이르는 의료 데이터가 버려지는 것으로 드러났다.\n맞춤형 정밀 진단과 질병 예측 등 의료 혁신과 산업을 이끌 기반이 형성되기 어려운 구조다.\n의료 데이터 표준 확보와 안전한 활용 방안 마련이 시급하다.\n서울대 의료빅데이터연구센터에 따르면 병원에서 생성된 데이터 가운데 80%가 쓰레기로 전락하고 있었다.\n영상, 문서, 사진 등 비정형 데이터다.\n질병 진단과 개인 맞춤형 치료를 위한 인공지능(AI)을 개발하려면 데이터 확보는 필수다.\n국내 병원은 데이터 확보는커녕 어떻게 저장하고 활용해야 할지 방향조차 잡지 못하고 있는 실정이었다.\n국내 병원 대부분은 수십 TB에 이르는 데이터를 그대로 버리고 있었다.\n정형화된 전자의료기록(EMR) 20%를 제외한 중환자실·응급실 생산 영상 자료는 저장되지 않았다.\n환자 혈압, 심장박동수, 혈류량, 심전도, 산소포화도 등 정보가 버려졌다.\n척추, 관절, 암 등 각종 외과 수술 영상 기록도 저장되지 않았다.\n1000병상당 100~200TB 영상이 기록된 것으로 추정된다.\n윤형진 서울대 의대 의공학교실 교수는 “매분 수술실, 중환자실 등에서 가치 있는 의료 데이터가 나오지만 활용은 할 수 없다“면서 ”의료 데이터를 질병 예측과 진단 데이터로 쓰려면 수기로 작성된 기록과 각종 영상 자료를 '엑셀' 형태로 기록할 수 있도록 코드화해야 한다”고 말했다.\n질병 진단을 목적으로 사용되는 내시경 영상 기록도 데이터화해야 한다.\n윤 교수는 “위내시경, 대장내시경 등 촬영 영상 기록도 '병변'이 발견될 때를 제외하고 버리고 있다”면서 “환자 내시경 영상을 의료 데이터로 활용할 수 있도록 정형화된 데이터 폼으로 세팅해야 한다”고 말했다.\n의료영상저장전송시스템(PACS)과 통합이 안 된 데이터도 전체 70%에 육박했다.\n환자 생활 습관, 유전체 등도 정형화가 시급한 상황이다.\n윤 교수는 “막대한 의료 정보를 저장하고 확보할 수 있는 컴퓨터 저장 공간도 필요하다”면서 “정부와 병원이 나서서 빅데이터 전문 인력과 컴퓨터, 데이터 표준화 작업을 위한 노력을 기울여야 한다”고 말했다.\n이어 “버려지는 수많은 의료 영상을 어떻게 하면 유의미한 데이터로 변환할 수 있을지 고민해야 한다”고 강조했다.\n미국 등 선진국은 의료 빅데이터 활용이 활발하다.\n미국 존스홉킨스병원은 2016년 데이터 통제센터 개설 이후 고위험 암환자 입원을 허가하는 역량이 62% 증가했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대형병원에서 한 달에 약 90테라바이트(TB)에 이르는 의료 데이터가 버려지는 것으로 드러났다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "맞춤형 정밀 진단과 질병 예측 등 의료 혁신과 산업을 이끌 기반이 형성되기 어려운 구조다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "의료 데이터 표준 확보와 안전한 활용 방안 마련이 시급하다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서울대 의료빅데이터연구센터에 따르면 병원에서 생성된 데이터 가운데 80%가 쓰레기로 전락하고 있었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "영상, 문서, 사진 등 비정형 데이터다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "질병 진단과 개인 맞춤형 치료를 위한 인공지능(AI)을 개발하려면 데이터 확보는 필수다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국내 병원은 데이터 확보는커녕 어떻게 저장하고 활용해야 할지 방향조차 잡지 못하고 있는 실정이었다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국내 병원 대부분은 수십 TB에 이르는 데이터를 그대로 버리고 있었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "정형화된 전자의료기록(EMR) 20%를 제외한 중환자실·응급실 생산 영상 자료는 저장되지 않았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "환자 혈압, 심장박동수, 혈류량, 심전도, 산소포화도 등 정보가 버려졌다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "척추, 관절, 암 등 각종 외과 수술 영상 기록도 저장되지 않았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "1000병상당 100~200TB 영상이 기록된 것으로 추정된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "윤형진 서울대 의대 의공학교실 교수는 “매분 수술실, 중환자실 등에서 가치 있는 의료 데이터가 나오지만 활용은 할 수 없다“면서 ”의료 데이터를 질병 예측과 진단 데이터로 쓰려면 수기로 작성된 기록과 각종 영상 자료를 '엑셀' 형태로 기록할 수 있도록 코드화해야 한다”고 말했다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "질병 진단을 목적으로 사용되는 내시경 영상 기록도 데이터화해야 한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "윤 교수는 “위내시경, 대장내시경 등 촬영 영상 기록도 '병변'이 발견될 때를 제외하고 버리고 있다”면서 “환자 내시경 영상을 의료 데이터로 활용할 수 있도록 정형화된 데이터 폼으로 세팅해야 한다”고 말했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "의료영상저장전송시스템(PACS)과 통합이 안 된 데이터도 전체 70%에 육박했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "환자 생활 습관, 유전체 등도 정형화가 시급한 상황이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "윤 교수는 “막대한 의료 정보를 저장하고 확보할 수 있는 컴퓨터 저장 공간도 필요하다”면서 “정부와 병원이 나서서 빅데이터 전문 인력과 컴퓨터, 데이터 표준화 작업을 위한 노력을 기울여야 한다”고 말했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이어 “버려지는 수많은 의료 영상을 어떻게 하면 유의미한 데이터로 변환할 수 있을지 고민해야 한다”고 강조했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "미국 등 선진국은 의료 빅데이터 활용이 활발하다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "미국 존스홉킨스병원은 2016년 데이터 통제센터 개설 이후 고위험 암환자 입원을 허가하는 역량이 62% 증가했다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대형병원 의료 빅데이터, 80% 버려진다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335061",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "구글-IBM 불꽃 경쟁···양자컴퓨터 상용화 앞당긴다",
+		"newsSubTitle": "",
+		"newsContent": "세계 최대 정보기술(IT) 기업 구글과 IBM이 잇달아 양자컴퓨터 상용화 계획을 발표해 '양자 시대' 기대감이 커지고 있다.\n구글과 IBM은 양자컴퓨터를 클라우드로 일반에 공개, 관련 생태계를 선점하겠다는 구상까지 내놨다.\n구글은 네이처 기고문에서 '하이브리드' 방식 양자컴퓨터를 5년 안에 상용화하겠다고 밝혔다.\n양자 특유 불안정성 때문에 상용화에 10년 이상 걸리는 디지털 방식 대신 하이브리드를 채택, 기간을 5년 이내로 단축하겠다는 복안이다.\n구글은 이를 통해 슈퍼컴퓨터로는 실행할 수 없는 문제를 해결할 수 있는 '양자 패권'을 차지하겠다는 포부도 숨기지 않았다.\n앞서 3월 초 IBM은 범용 양자컴퓨터 'Q'를 상용화한다고 발표했다.\n계산 전용의 제한된 성능이 아니라 제약이나 금융, 보안, 인공지능 등에 널리 활용할 수 있다는 의미에서 '범용'이라는 표현을 사용했다.\nIBM은 현재 5큐비트(퀀텀 비트)인 시스템 성능을 수년 안에 열 배인 50큐비트까지 끌어올리겠다고 밝혔다.\n큐비트는 '중첩'이라는 양자의 특수한 성질을 이용, 개수가 늘수록 성능이 기하급수적으로 증가한다.\n구글과 IBM 모두 양자컴퓨터를 클라우드 형태로 일반에 공개한다.\n누구나 공개 사이트에 접속해 알고리즘이나 프로그램을 양사 양자컴퓨터에서 시험할 수 있다.\nIBM이 지난해 공개한 '퀀텀 익스피리언스'에는 4만명 이상이 접속한 것으로 알려졌다.\n양사는 소프트웨어 개발 키트(SDK)나 응용프로그램 인터페이스(API) 등을 공개하며 개발자가 양자컴퓨터를 활용할 수 있도록 장려할 방침이다.\n양자컴퓨터 상용화 시점이 생각보다 앞당겨지면서 보안 시스템을 완전히 바꿔야 한다는 경고도 나온다.\n미국 국가안전보장국(NSA)은 세계 최대 보안 콘퍼런스 'RSA 2017'에서 양자컴퓨터가 상용화되면 현존 암호화 알고리즘이 완전히 파괴될 수 있다고 우려했다.\n소인수분해 계산의 난해성에 의존한 암호 알고리즘이 양자컴퓨터 계산 능력을 버텨낼 수 없다는 의미다.\nNSA는 이에 대한 구체적 대응책을 제시하지는 않았지만 정보통신기술(ICT) 업계는 양자암호통신을 대안으로 보고 있다.\nNSA는 \\\"양자컴퓨터 등장으로 '양자 이후 암호화'를 고민할 시점\\\"이라면서 \\\"새로운 시스템 구축에는 수십년이 걸리기 때문에 지금부터 시작해도 늦을 수 있다\\\"고 경고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세계 최대 정보기술(IT) 기업 구글과 IBM이 잇달아 양자컴퓨터 상용화 계획을 발표해 '양자 시대' 기대감이 커지고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구글과 IBM은 양자컴퓨터를 클라우드로 일반에 공개, 관련 생태계를 선점하겠다는 구상까지 내놨다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "구글은 네이처 기고문에서 '하이브리드' 방식 양자컴퓨터를 5년 안에 상용화하겠다고 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "양자 특유 불안정성 때문에 상용화에 10년 이상 걸리는 디지털 방식 대신 하이브리드를 채택, 기간을 5년 이내로 단축하겠다는 복안이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구글은 이를 통해 슈퍼컴퓨터로는 실행할 수 없는 문제를 해결할 수 있는 '양자 패권'을 차지하겠다는 포부도 숨기지 않았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 3월 초 IBM은 범용 양자컴퓨터 'Q'를 상용화한다고 발표했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "계산 전용의 제한된 성능이 아니라 제약이나 금융, 보안, 인공지능 등에 널리 활용할 수 있다는 의미에서 '범용'이라는 표현을 사용했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "IBM은 현재 5큐비트(퀀텀 비트)인 시스템 성능을 수년 안에 열 배인 50큐비트까지 끌어올리겠다고 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "큐비트는 '중첩'이라는 양자의 특수한 성질을 이용, 개수가 늘수록 성능이 기하급수적으로 증가한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "구글과 IBM 모두 양자컴퓨터를 클라우드 형태로 일반에 공개한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "누구나 공개 사이트에 접속해 알고리즘이나 프로그램을 양사 양자컴퓨터에서 시험할 수 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "IBM이 지난해 공개한 '퀀텀 익스피리언스'에는 4만명 이상이 접속한 것으로 알려졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "양사는 소프트웨어 개발 키트(SDK)나 응용프로그램 인터페이스(API) 등을 공개하며 개발자가 양자컴퓨터를 활용할 수 있도록 장려할 방침이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "양자컴퓨터 상용화 시점이 생각보다 앞당겨지면서 보안 시스템을 완전히 바꿔야 한다는 경고도 나온다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "미국 국가안전보장국(NSA)은 세계 최대 보안 콘퍼런스 'RSA 2017'에서 양자컴퓨터가 상용화되면 현존 암호화 알고리즘이 완전히 파괴될 수 있다고 우려했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "소인수분해 계산의 난해성에 의존한 암호 알고리즘이 양자컴퓨터 계산 능력을 버텨낼 수 없다는 의미다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "NSA는 이에 대한 구체적 대응책을 제시하지는 않았지만 정보통신기술(ICT) 업계는 양자암호통신을 대안으로 보고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "NSA는 \\\"양자컴퓨터 등장으로 '양자 이후 암호화'를 고민할 시점\\\"이라면서 \\\"새로운 시스템 구축에는 수십년이 걸리기 때문에 지금부터 시작해도 늦을 수 있다\\\"고 경고했다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "구글-IBM 불꽃 경쟁···양자컴퓨터 상용화 앞당긴다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

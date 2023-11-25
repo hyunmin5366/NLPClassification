@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330388",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "중기/벤처",
+		"newsTitle": "[호반 데모데이] 뷰메진, AI 드론으로 건설 안전 확보",
+		"newsSubTitle": "",
+		"newsContent": "뷰메진은 인공지능(AI) 기술과 자율주행 드론을 활용해 건설 현장의 품질과 안전을 지키는 스타트업이다.\n드론으로 건축물 외부를 찍어 균열이 없는지 찾아낼 수 있는 건설 시공 품질관리 솔루션 '보다(VODA)'를 개발했다.\n이 솔루션은 단순히 균열을 발견하는 데 그치지 않고 길이와 폭, 심도, 위치 등 세부적인 문제까지 파악할 수 있다.\n방식은 이렇다.\n드론으로 찍은 이미지, 착용형 카메라로 촬영한 사진 등을 클라우드 서버로 보낸다.\n이미지 데이터를 바탕으로 3D 모델링하고 이후 AI를 통해 결함 유무를 찾아내는 것이다.\n현장서 직접 촬영한 이미지를 사용하기 때문에 양질의 데이터를 확보한다.\n이는 문제가 되는 부분들을 정확하고 빠르게 찾아낼 수 있다는 뜻이다.\n데이터 분석 능력도 차별화됐다.\n데이터 증강, 노이즈 제거 등 전처리와 GPS 기반 결함 위치 확인 및 크기·폭 계산 등 후처리를 거쳐 정확도를 높인다.\n뷰메진 기술은 무엇보다 현장 작업자가 로프를 타고 외벽 검사를 진행하는 위험을 대체할 수 있다는 점에서 주목된다.\n안전 사고를 원천 예방할 수 있으며 50여명 인력을 투입해 2주일가량 걸리던 검사도 반나절 만에 끝낼 수 있다.\n뷰메진 관계자는 “AI로 결함을 탐지하기 때문에 육안으로 파악하기 어려운 0.1~0.3㎜ 수준의 작은 크랙도 잡아낼 수 있다”면서 “작업 효율성을 제고하고 근로자의 안전성을 확보하는 솔루션”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "뷰메진은 인공지능(AI) 기술과 자율주행 드론을 활용해 건설 현장의 품질과 안전을 지키는 스타트업이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "드론으로 건축물 외부를 찍어 균열이 없는지 찾아낼 수 있는 건설 시공 품질관리 솔루션 '보다(VODA)'를 개발했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 솔루션은 단순히 균열을 발견하는 데 그치지 않고 길이와 폭, 심도, 위치 등 세부적인 문제까지 파악할 수 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방식은 이렇다.",
+				"sentenceSize": 8
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "드론으로 찍은 이미지, 착용형 카메라로 촬영한 사진 등을 클라우드 서버로 보낸다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이미지 데이터를 바탕으로 3D 모델링하고 이후 AI를 통해 결함 유무를 찾아내는 것이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현장서 직접 촬영한 이미지를 사용하기 때문에 양질의 데이터를 확보한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이는 문제가 되는 부분들을 정확하고 빠르게 찾아낼 수 있다는 뜻이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "데이터 분석 능력도 차별화됐다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "데이터 증강, 노이즈 제거 등 전처리와 GPS 기반 결함 위치 확인 및 크기·폭 계산 등 후처리를 거쳐 정확도를 높인다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "뷰메진 기술은 무엇보다 현장 작업자가 로프를 타고 외벽 검사를 진행하는 위험을 대체할 수 있다는 점에서 주목된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "안전 사고를 원천 예방할 수 있으며 50여명 인력을 투입해 2주일가량 걸리던 검사도 반나절 만에 끝낼 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "뷰메진 관계자는 “AI로 결함을 탐지하기 때문에 육안으로 파악하기 어려운 0.1~0.3㎜ 수준의 작은 크랙도 잡아낼 수 있다”면서 “작업 효율성을 제고하고 근로자의 안전성을 확보하는 솔루션”이라고 전했다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[호반 데모데이] 뷰메진, AI 드론으로 건설 안전 확보",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

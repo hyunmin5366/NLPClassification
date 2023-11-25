@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336109",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "“아이폰XS, 수리용이성 10점 만점에 6점”",
+		"newsSubTitle": "",
+		"newsContent": "IT기기 수리전문업체 아이픽스잇(iFixit)은 애플 '아이폰 XS(텐에스)∙XS맥스'에 대한 수리용이성 점수로 10점 만점에 6점을 줬다고 9to5Mac이 21일(미국시간) 보도했다.\n아이픽스잇은 \\\"전면과 후면 글라스는 낙하 시 손상될 가능성을 두배로 늘린다\\\"며 \\\"후면 글라스는 깨질 경우 모든 부품들을 제거해야 하고 전체 케이스를 교체해야 한다\\\"고 강조했다.\n또 저조도 성능 개선과 스마트 HDR 기능 지원으로 광각 센서 사이즈가 32% 커졌는데, 이로 인해 카툭튀 현상이 더 심해졌다고 분석했다.\n카메라가 아이폰 X(텐)보다 더 튀어나오면서 케이스를 겸해 사용할 수 없다고 설명했다.\n애플은 지난 12일 미국 캘리포니아 쿠퍼티노 스티브잡스 극장에서 아이폰XS, 아이폰XS 맥스, 아이폰XR, 애플워치 시리즈4를 공개했다.\n아이폰XS 시리즈와 아이폰XR는 각각 9월 21일, 10월 26일 미국∙중국∙일본 등 국가에 1차 출시된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "IT기기 수리전문업체 아이픽스잇(iFixit)은 애플 '아이폰 XS(텐에스)∙XS맥스'에 대한 수리용이성 점수로 10점 만점에 6점을 줬다고 9to5Mac이 21일(미국시간) 보도했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이픽스잇은 \\\"전면과 후면 글라스는 낙하 시 손상될 가능성을 두배로 늘린다\\\"며 \\\"후면 글라스는 깨질 경우 모든 부품들을 제거해야 하고 전체 케이스를 교체해야 한다\\\"고 강조했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 저조도 성능 개선과 스마트 HDR 기능 지원으로 광각 센서 사이즈가 32% 커졌는데, 이로 인해 카툭튀 현상이 더 심해졌다고 분석했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "카메라가 아이폰 X(텐)보다 더 튀어나오면서 케이스를 겸해 사용할 수 없다고 설명했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플은 지난 12일 미국 캘리포니아 쿠퍼티노 스티브잡스 극장에서 아이폰XS, 아이폰XS 맥스, 아이폰XR, 애플워치 시리즈4를 공개했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이폰XS 시리즈와 아이폰XR는 각각 9월 21일, 10월 26일 미국∙중국∙일본 등 국가에 1차 출시된다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“아이폰XS, 수리용이성 10점 만점에 6점”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

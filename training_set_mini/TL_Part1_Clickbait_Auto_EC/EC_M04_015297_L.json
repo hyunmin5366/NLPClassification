@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015297",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "미거래신탁 2299억 찾아가세요",
+		"newsSubTitle": "금감원, 은행 홈페이지서 조회할 수 있도록 내년 전산시스템 운영 예정",
+		"newsContent": "금융감독원은 전국은행연합회와 공동으로 장기간 거래가 없는 신탁계좌를 모든 은행에서 상시조회할 수 있는 시스템을 내년 1월부터 운영할 예정이라고 23일 밝혔다.\n신탁계좌는 은행이 고객에게 받은 돈을 대출이나 채권 매입 등으로 운용하고 일정 기간이 지난 뒤 원금과 수익금을 되돌려주는 상품으로 9월말 현재 16개 시중은행이 보유한 장기미거래 신탁은 143만 6000계좌, 2299억원 규모다.\n금융당국은 매년 장기미거래 신탁계좌가 좀처럼 줄지 않는 점에 주목하고 고객이 각 은행 인터넷 홈페이지에서 자신의 장기미거래 신탁계좌 존재여부와 잔액을 조회할 수 있도록 전산시스템을 개선키로 했다.\n고객이 은행을 방문할 경우 영업점 단말기에 장기미거래 신탁계좌에 관한 알람메시지를 발송하는 기능도 도입된다.\n특히 잔액이 1000만원 이상인 신탁계좌에 대해선 은행 자체적으로 감축목표를 정하는 등 특별관리토록 했다.\n그동안엔 은행별로 조회시스템의 도입 여부, 운영방식 등에 차이가 있었다.\n장기미거래 신탁계좌 143만여 건 중 10만원 이하인 소액계좌가 134만249건(93.3%)으로 대부분을 차지하고 있지만 금액은 191억900만원(8.3%)에 불과한 것으로 집계됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융감독원은 전국은행연합회와 공동으로 장기간 거래가 없는 신탁계좌를 모든 은행에서 상시조회할 수 있는 시스템을 내년 1월부터 운영할 예정이라고 23일 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신탁계좌는 은행이 고객에게 받은 돈을 대출이나 채권 매입 등으로 운용하고 일정 기간이 지난 뒤 원금과 수익금을 되돌려주는 상품으로 9월말 현재 16개 시중은행이 보유한 장기미거래 신탁은 143만 6000계좌, 2299억원 규모다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "금융당국은 매년 장기미거래 신탁계좌가 좀처럼 줄지 않는 점에 주목하고 고객이 각 은행 인터넷 홈페이지에서 자신의 장기미거래 신탁계좌 존재여부와 잔액을 조회할 수 있도록 전산시스템을 개선키로 했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고객이 은행을 방문할 경우 영업점 단말기에 장기미거래 신탁계좌에 관한 알람메시지를 발송하는 기능도 도입된다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 잔액이 1000만원 이상인 신탁계좌에 대해선 은행 자체적으로 감축목표를 정하는 등 특별관리토록 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그동안엔 은행별로 조회시스템의 도입 여부, 운영방식 등에 차이가 있었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "장기미거래 신탁계좌 143만여 건 중 10만원 이하인 소액계좌가 134만249건(93.3%)으로 대부분을 차지하고 있지만 금액은 191억900만원(8.3%)에 불과한 것으로 집계됐다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일회용컵 보증금제 결국 연기…‘보증금 환불 요청’ 쇄도",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

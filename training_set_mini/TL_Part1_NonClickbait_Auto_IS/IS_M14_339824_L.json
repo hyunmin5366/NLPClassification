@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339824",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "넷플릭스 드라마 '오렌지 이즈 더 뉴블랙5' 해커 소행으로 유출",
+		"newsSubTitle": "",
+		"newsContent": "오는 6월 방영 예정인 넷플릭스 드라마 '오렌지 이즈 더 뉴블랙' 시즌 5편이 웹사이트에 누출됐다.\n뉴욕타임스(NYT) 등 미국 언론은 넷플릭스 드라마 '오렌지 이즈 더 뉴블랙' 에피소드가 웹사이트가 유출됐다고 보도했다. '더다크오버로드(thedarkoverlord)'라는 이름을 가진 해커단체 소행이다.\n이 단체는 넷플릭스가 자신들 금전 요구에 응하지 않자 29일(현지시간) 웹사이트에 에피소드를 공개했다.\n자료 유출은 넷플릭스 콘텐츠 디지털 믹싱을 담당하는 라슨 스튜디오에서 발생한 것으로 보인다.\nNYT에 따르면, 미국 연방수사국(FBI)은 지난 1월 라슨 스튜디오에서 일이 발생한 것을 알았다.\n넷플릭스는 오는 6월9일 예정된 드라마 방영 일정을 앞당길 것인지 여부는 밝히지 않았다.\n수사기관과 함께 대응할 방침인 것으로 알려졌다.\n넷플릭스는 \\\"우리는 상황을 알고 있고, 법 집행 당국이 개입했다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오는 6월 방영 예정인 넷플릭스 드라마 '오렌지 이즈 더 뉴블랙' 시즌 5편이 웹사이트에 누출됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "뉴욕타임스(NYT) 등 미국 언론은 넷플릭스 드라마 '오렌지 이즈 더 뉴블랙' 에피소드가 웹사이트가 유출됐다고 보도했다. '더다크오버로드(thedarkoverlord)'라는 이름을 가진 해커단체 소행이다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 단체는 넷플릭스가 자신들 금전 요구에 응하지 않자 29일(현지시간) 웹사이트에 에피소드를 공개했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "자료 유출은 넷플릭스 콘텐츠 디지털 믹싱을 담당하는 라슨 스튜디오에서 발생한 것으로 보인다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "NYT에 따르면, 미국 연방수사국(FBI)은 지난 1월 라슨 스튜디오에서 일이 발생한 것을 알았다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "넷플릭스는 오는 6월9일 예정된 드라마 방영 일정을 앞당길 것인지 여부는 밝히지 않았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "수사기관과 함께 대응할 방침인 것으로 알려졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "넷플릭스는 \\\"우리는 상황을 알고 있고, 법 집행 당국이 개입했다\\\"고 말했다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "넷플릭스 드라마 '오렌지 이즈 더 뉴블랙5' 해커 소행으로 유출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

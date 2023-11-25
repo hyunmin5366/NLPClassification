@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334416",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "KTH, KT엠하우스와 합병 후 KT알파로 사명 변경",
+		"newsSubTitle": "",
+		"newsContent": "디지털 커머스 K쇼핑 운영업체 KTH가 모바일 커머스업체 KT엠하우스와 합병 후 KT그룹의 커머스 사업을 K쇼핑 중심으로 운영한다.\n사명도 KT알파(kt alpha)로 변경한다.\nKTH는 오는 27일 서울시 동작구 회사 대회의실에서 임시주주총회를 열고 KT엠하우스와의 합병 승인의 건 및 정관 일부 변경의 건을 처리한다고 12일 밝혔다.\n임시주총에서 KT엠하우스와의 합병 후 KT그룹의 커머스 사업을 K쇼핑 중심으로 운영한다는 계획이다.\n사명도 변경된다.\nKT알파로 변경할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "디지털 커머스 K쇼핑 운영업체 KTH가 모바일 커머스업체 KT엠하우스와 합병 후 KT그룹의 커머스 사업을 K쇼핑 중심으로 운영한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사명도 KT알파(kt alpha)로 변경한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KTH는 오는 27일 서울시 동작구 회사 대회의실에서 임시주주총회를 열고 KT엠하우스와의 합병 승인의 건 및 정관 일부 변경의 건을 처리한다고 12일 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "임시주총에서 KT엠하우스와의 합병 후 KT그룹의 커머스 사업을 K쇼핑 중심으로 운영한다는 계획이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사명도 변경된다.",
+				"sentenceSize": 9
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT알파로 변경할 예정이다.",
+				"sentenceSize": 15
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KTH, KT엠하우스와 합병 후 KT알파로 사명 변경",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

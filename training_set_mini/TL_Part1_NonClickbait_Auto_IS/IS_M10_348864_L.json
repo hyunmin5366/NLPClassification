@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348864",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "웹서핑하다 바로 화상회의...네이버, 웨일온 출시",
+		"newsSubTitle": "null",
+		"newsContent": "네이버가 지난 19일 자사 개발 웹 브라우저 '웨일(Whale)'에 탑재한 전용 화상회의 솔루션 '웨일온(Whale ON)'을 출시했다고 24일 밝혔다.\n웨일온은 세계 최초로 브라우저에 직접 탑재된 화상회의 솔루션이다.\n별도의 프로그램을 설치하거나 웹사이트에 접속해야 하는 절차 없이 '웨일' 브라우저 툴바에 바로 '웨일온' 아이콘이 있어 화상회의 기능을 실행할 수 있다.\n네이버는 다른 화상회의 서비스와 달리 별도 유료 상품을 구매하지 않아도 회의 시간 제한 없이 자유롭게 회의할 수 있다는 점을 웨일온의 강점으로 내세웠다.\n최대 500명까지 동시에 HD급 품질의 영상으로 회의할 수 있다.\n텍스트 채팅과 발표 화면 공유, 화자에게 화면이 집중되는 '슬라이드 뷰', 호스트가 참가자의 카메라·마이크를 온·오프 할 수 있는 관리 기능 등이 지원된다.\n모바일과 PC 환경에서 OS 구분 없이 웨일 브라우저만 설치하면 이용할 수 있다.\n네이버 관계는 \\\"향후 회의 참가자의 프라이버시도 보호할 수 있는 가상 배경 기능과 아바타 회의 기능, 음성 기반 회의가 힘든 이용자를 위해 네이버 기반 기술을 활용한 TTS(Text to Speech) 기능 등도 접복할 계획\\\"이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 지난 19일 자사 개발 웹 브라우저 '웨일(Whale)'에 탑재한 전용 화상회의 솔루션 '웨일온(Whale ON)'을 출시했다고 24일 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "웨일온은 세계 최초로 브라우저에 직접 탑재된 화상회의 솔루션이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "별도의 프로그램을 설치하거나 웹사이트에 접속해야 하는 절차 없이 '웨일' 브라우저 툴바에 바로 '웨일온' 아이콘이 있어 화상회의 기능을 실행할 수 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버는 다른 화상회의 서비스와 달리 별도 유료 상품을 구매하지 않아도 회의 시간 제한 없이 자유롭게 회의할 수 있다는 점을 웨일온의 강점으로 내세웠다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최대 500명까지 동시에 HD급 품질의 영상으로 회의할 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "텍스트 채팅과 발표 화면 공유, 화자에게 화면이 집중되는 '슬라이드 뷰', 호스트가 참가자의 카메라·마이크를 온·오프 할 수 있는 관리 기능 등이 지원된다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "모바일과 PC 환경에서 OS 구분 없이 웨일 브라우저만 설치하면 이용할 수 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "네이버 관계는 \\\"향후 회의 참가자의 프라이버시도 보호할 수 있는 가상 배경 기능과 아바타 회의 기능, 음성 기반 회의가 힘든 이용자를 위해 네이버 기반 기술을 활용한 TTS(Text to Speech) 기능 등도 접복할 계획\\\"이라고 설명했다.",
+				"sentenceSize": 137
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "웹서핑하다 바로 화상회의...네이버, 웨일온 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

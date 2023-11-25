@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348122",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "SBS \\\"8시뉴스 지연방송, 사내 네트워크 비정상 작동 탓\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "SBS는 21일 전날 8뉴스 지연방송 사고 원인과 관련해 사내 네트워크 시스템의 오류에 따른 것이라며 다시 한번 시청자들에게 사과했다.\nSBS는 이날 \\\"뉴스 시간이 임박한 어제 19시35분쯤 사내 네트워크 시스템이 비정상적으로 작동했고, 이로 인해 뉴스 편집과 진행 전반에 장애가 발생한 것으로 파악됐다\\\"며 \\\"네트워크 복구를 진행하면서 비상대응 매뉴얼에 따라 대응해 복구 이후 코로나19 관련 등 주요 뉴스를 모두 예정대로 방송했다\\\"고 밝혔다.\n그러면서 \\\"해당 소프트웨어 시스템을 교체하여 유사한 사고가 재발하지 않도록 하겠다\\\"며 \\\"시청자 여러분께 거듭 깊은 사과의 말씀을 드린다\\\"고 했다.\n앞서 SBS는 전날 오후 8시쯤 방송을 시작할 예정이던 8뉴스 대신 코로나19와 산사태, 지진, 가을산행 등 재난 예방 공익 캠페인을 약 10여분간 반복 송출했다.\n이후 8시 10분이 되어서야 광고가 시작되고 뉴스 방송은 8시 14분부터 이뤄졌다.\nSBS는 방송 후 \\\"SBS 8뉴스가 네트워크 문제로 추정되는 이유로 예정시간보다 10 여분 늦게 방송됐다\\\"며 \\\"현재 원인을 파악하고 있다. 시청자 여러분께 다시 한번 깊은 사과의 말씀을 드린다\\\"며 공식 사과했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SBS는 21일 전날 8뉴스 지연방송 사고 원인과 관련해 사내 네트워크 시스템의 오류에 따른 것이라며 다시 한번 시청자들에게 사과했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SBS는 이날 \\\"뉴스 시간이 임박한 어제 19시35분쯤 사내 네트워크 시스템이 비정상적으로 작동했고, 이로 인해 뉴스 편집과 진행 전반에 장애가 발생한 것으로 파악됐다\\\"며 \\\"네트워크 복구를 진행하면서 비상대응 매뉴얼에 따라 대응해 복구 이후 코로나19 관련 등 주요 뉴스를 모두 예정대로 방송했다\\\"고 밝혔다.",
+				"sentenceSize": 176
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러면서 \\\"해당 소프트웨어 시스템을 교체하여 유사한 사고가 재발하지 않도록 하겠다\\\"며 \\\"시청자 여러분께 거듭 깊은 사과의 말씀을 드린다\\\"고 했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 SBS는 전날 오후 8시쯤 방송을 시작할 예정이던 8뉴스 대신 코로나19와 산사태, 지진, 가을산행 등 재난 예방 공익 캠페인을 약 10여분간 반복 송출했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 8시 10분이 되어서야 광고가 시작되고 뉴스 방송은 8시 14분부터 이뤄졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SBS는 방송 후 \\\"SBS 8뉴스가 네트워크 문제로 추정되는 이유로 예정시간보다 10 여분 늦게 방송됐다\\\"며 \\\"현재 원인을 파악하고 있다. 시청자 여러분께 다시 한번 깊은 사과의 말씀을 드린다\\\"며 공식 사과했다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SBS \\\"8시뉴스 지연방송, 사내 네트워크 비정상 작동 탓\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

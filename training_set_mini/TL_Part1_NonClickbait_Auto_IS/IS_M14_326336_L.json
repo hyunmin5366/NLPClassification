@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326336",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "[2021 핫이슈-해외]월마트·아마존 '유통 혁신 경쟁'",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 유통기업 월마트와 아마존은 올해도 유통 신기술 경쟁을 지속한다.\n월마트는 중국 인기 숏폼 동영상 플랫폼 틱톡과 라이브 쇼핑 제휴를 강화한다.\n패션 상품을 틱톡 크리에이터를 통해 판매한다.\n월마트는 오라클과 컨소시엄을 구성해 틱톡 글로벌 지분 7.5% 인수도 추진한다.\n아마존은 리테일테크를 접목한 신선식품 매장 '아마존 프레시'를 확대한다.\n지난해 LA에 첫 매장을 선보였으며 올해는 7개 주로 확대한다.\n인공지능(AI) 비서 알렉사를 통해 상품을 찾을 수 있다.\n카트에 담긴 물건을 자동 계산하는 '대시 카트'도 도입했다.\n아마존은 유료 멤버십 서비스 아마존프라임 배송 기간을 기존 이틀에서 하루로 단축하는 데 주력한다.\nAI와 빅데이터를 활용, 최단거리 배차와 예측 배송 시스템을 고도화한다.\n배송 드론 상용화 경쟁도 본격화한다.\n아마존은 지난해 9월 미국 연방항공국(FAA)으로부터 배송용 드론 '프라임 에어' 운항 허가를 받았다.\n월마트도 스타트업 플라이트렉스와 자동화 드론을 통한 배송 시범 사업을 시작했으며 올해 본격 상용화에 나선다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 유통기업 월마트와 아마존은 올해도 유통 신기술 경쟁을 지속한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "월마트는 중국 인기 숏폼 동영상 플랫폼 틱톡과 라이브 쇼핑 제휴를 강화한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "패션 상품을 틱톡 크리에이터를 통해 판매한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "월마트는 오라클과 컨소시엄을 구성해 틱톡 글로벌 지분 7.5% 인수도 추진한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아마존은 리테일테크를 접목한 신선식품 매장 '아마존 프레시'를 확대한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 LA에 첫 매장을 선보였으며 올해는 7개 주로 확대한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인공지능(AI) 비서 알렉사를 통해 상품을 찾을 수 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카트에 담긴 물건을 자동 계산하는 '대시 카트'도 도입했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "아마존은 유료 멤버십 서비스 아마존프라임 배송 기간을 기존 이틀에서 하루로 단축하는 데 주력한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "AI와 빅데이터를 활용, 최단거리 배차와 예측 배송 시스템을 고도화한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "배송 드론 상용화 경쟁도 본격화한다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "아마존은 지난해 9월 미국 연방항공국(FAA)으로부터 배송용 드론 '프라임 에어' 운항 허가를 받았다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "월마트도 스타트업 플라이트렉스와 자동화 드론을 통한 배송 시범 사업을 시작했으며 올해 본격 상용화에 나선다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2021 핫이슈-해외]월마트·아마존 '유통 혁신 경쟁'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

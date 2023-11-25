@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008046",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전·충남 1월 어음부도율 하락",
+		"newsSubTitle": "부도업체는 시 2·도 3곳 전월과 같아",
+		"newsContent": "1월 대전·충남지역의 어음부도율이 하락한 것으로 나타났다.\n한국은행 대전·충남본부가 16일 발표한 어음부도 동향 분석 결과, 어음부도율(전자결제조정전, 금액기준)은 전월(0.48%) 대비 0.28%p 하락한 0.20%(전년동월대비 0.10%p 상승)로 조사됐다.\n대전이 전월에 비해 0.46%p(0.67%→0.21%) 하락한 반면, 충남은 0.07%p(0.13%→0.20%) 상승했다.\n부도금액은 62억 1000만원으로, 전월(167억 5000만원)보다 105억 4000만원 감소했다.\n대전이 112억 6000만원 줄었고, 충남이 7억 2000만원 늘었다.\n업종별로는 제조업과 건설업이 각각 96억 8000만원(112억 1000만원→15억 3000만원), 11억 8000만원(25억 9000만원→14억 1000만원) 감소했고, 서비스업은 3억 7000만원(27억 8000만원→31억 5000원) 증가했다.\n부도업체수는 대전 2곳, 충남 3곳 등 모두 5곳으로 지난달과 같았다.\n업종별로는 제조업과 서비스업이 각각 2개, 1개 증가했고, 건설업은 3개 감소했으며, 신설법인수는 전월보다 19곳이 증가한 338곳으로 나타났다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "1월 대전·충남지역의 어음부도율이 하락한 것으로 나타났다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전·충남본부가 16일 발표한 어음부도 동향 분석 결과, 어음부도율(전자결제조정전, 금액기준)은 전월(0.48%) 대비 0.28%p 하락한 0.20%(전년동월대비 0.10%p 상승)로 조사됐다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대전이 전월에 비해 0.46%p(0.67%→0.21%) 하락한 반면, 충남은 0.07%p(0.13%→0.20%) 상승했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부도금액은 62억 1000만원으로, 전월(167억 5000만원)보다 105억 4000만원 감소했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대전이 112억 6000만원 줄었고, 충남이 7억 2000만원 늘었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "업종별로는 제조업과 건설업이 각각 96억 8000만원(112억 1000만원→15억 3000만원), 11억 8000만원(25억 9000만원→14억 1000만원) 감소했고, 서비스업은 3억 7000만원(27억 8000만원→31억 5000원) 증가했다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "부도업체수는 대전 2곳, 충남 3곳 등 모두 5곳으로 지난달과 같았다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "업종별로는 제조업과 서비스업이 각각 2개, 1개 증가했고, 건설업은 3개 감소했으며, 신설법인수는 전월보다 19곳이 증가한 338곳으로 나타났다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "7세 미만 ‘금수저 어린이’ 1억 넘는 통장 2733개",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

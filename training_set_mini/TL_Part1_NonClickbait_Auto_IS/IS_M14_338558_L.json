@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338558",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "인터넷나야나 \\\"몸값 협상 타결...13억원 해커에게 송금중\\\"",
+		"newsSubTitle": "",
+		"newsContent": "14일 정오 해커와 최종 협상에 돌입한 인터넷나야나가 13억원을 해커에게 송금하기로 했다.\n고객 피해를 위한 조치였지만 랜섬웨어 역사 최악의 사례로 기록될 전망이다.\n이번 협상으로 한국 기업을 노린 랜섬웨어 공격은 더욱 거세질 전망이다.\n인터넷나야나는 14일 오후 5차 공지글에서 \\\"해커와 협상을 진행해 타결했다\\\"며 \\\"약 13억원 비용을 지불해 복호화키 값을 받기로 했다. 현재 이체한도 증액, 비트코인 환전 등 비용 지불을 위한 절차를 진행하고 있다\\\"고 밝혔다.\n인터넷나야나가 해커와 협상을 끝내고 비트코인으로 요구 금액을 납부 중인 것으로 보인다.\n이후 해커에게 복호화 키를 받는 과정이 남아있지만 해커가 복호화 키를 주지 않을 가능성도 배제할 수 없다.\n인터넷나야나는 12억원으로 14일 정오에 협상에 나선다고 밝혔다.\n황칠홍 대표가 마련한 현금자산 4억원, 법인지분 매각 비용 8억원으로 협상 비용을 마련했다.\n인터넷나야나는 해커에게 복호화 키를 받는다면 서버 복구 작업을 시작할 예정이다.\n회사는 \\\"데이터를 업로드 할 계정을 메일로 요청하면 신규 서버에 현재 호스팅 정보로 세팅 지원 한다\\\"고 덧붙였다.\n보안업계는 우려감을 나타냈다.\n범죄자에게 몸값을 지불하는 악순환 고리를 끊지 못했기 때문이다.\n공격자는 랜섬웨어로 일주일 만에 13억 원을 벌었다.\n랜섬웨어 공격자에게 엄청난 학습 효과를 가져 온다.\n몸값을 지불한다고 해도 암호화한 파일이 풀린다는 보장도 없다.\nA보안전문가는 \\\"한국 기업에게 랜섬웨어 지옥문이 열린 것이나 마찬가지\\\"라면서 \\\"호스팅 기업은 물론이고 웹에이전시, 중소규모포털, 광고, 프랜차이즈 등 보안이 취약한 영세 기업은 세계 해커의 표적이 될 것\\\"이라고 지적했다.\n보안업계는 다른 웹호스팅사를 노린 공격도 계속되고 있어 주의를 당부했다.\n웹호스팅사에 서비스를 의뢰한 고객도 중요 데이터는 스스로 별도로 백업을 해야 피해를 최소화할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "14일 정오 해커와 최종 협상에 돌입한 인터넷나야나가 13억원을 해커에게 송금하기로 했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고객 피해를 위한 조치였지만 랜섬웨어 역사 최악의 사례로 기록될 전망이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 협상으로 한국 기업을 노린 랜섬웨어 공격은 더욱 거세질 전망이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인터넷나야나는 14일 오후 5차 공지글에서 \\\"해커와 협상을 진행해 타결했다\\\"며 \\\"약 13억원 비용을 지불해 복호화키 값을 받기로 했다. 현재 이체한도 증액, 비트코인 환전 등 비용 지불을 위한 절차를 진행하고 있다\\\"고 밝혔다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인터넷나야나가 해커와 협상을 끝내고 비트코인으로 요구 금액을 납부 중인 것으로 보인다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 해커에게 복호화 키를 받는 과정이 남아있지만 해커가 복호화 키를 주지 않을 가능성도 배제할 수 없다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인터넷나야나는 12억원으로 14일 정오에 협상에 나선다고 밝혔다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "황칠홍 대표가 마련한 현금자산 4억원, 법인지분 매각 비용 8억원으로 협상 비용을 마련했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "인터넷나야나는 해커에게 복호화 키를 받는다면 서버 복구 작업을 시작할 예정이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "회사는 \\\"데이터를 업로드 할 계정을 메일로 요청하면 신규 서버에 현재 호스팅 정보로 세팅 지원 한다\\\"고 덧붙였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "보안업계는 우려감을 나타냈다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "범죄자에게 몸값을 지불하는 악순환 고리를 끊지 못했기 때문이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "공격자는 랜섬웨어로 일주일 만에 13억 원을 벌었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "랜섬웨어 공격자에게 엄청난 학습 효과를 가져 온다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "몸값을 지불한다고 해도 암호화한 파일이 풀린다는 보장도 없다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "A보안전문가는 \\\"한국 기업에게 랜섬웨어 지옥문이 열린 것이나 마찬가지\\\"라면서 \\\"호스팅 기업은 물론이고 웹에이전시, 중소규모포털, 광고, 프랜차이즈 등 보안이 취약한 영세 기업은 세계 해커의 표적이 될 것\\\"이라고 지적했다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "보안업계는 다른 웹호스팅사를 노린 공격도 계속되고 있어 주의를 당부했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "웹호스팅사에 서비스를 의뢰한 고객도 중요 데이터는 스스로 별도로 백업을 해야 피해를 최소화할 수 있다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인터넷나야나 \\\"몸값 협상 타결...13억원 해커에게 송금중\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

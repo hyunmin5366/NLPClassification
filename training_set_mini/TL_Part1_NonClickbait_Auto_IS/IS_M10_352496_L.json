@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352496",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "총리 사과에도…네이버·카카오 QR 방역패스 또 점심시간 '먹통'",
+		"newsSubTitle": "null",
+		"newsContent": "코로나19 방역패스(백신 예방접종 증명·음성확인서) 의무화 시행 둘째날인 14일에도 네이버와 카카오 앱을 통한 증명 오류가 다시 이어졌다.\n이날 점심시간이 가까워진 오전 11시40분쯤부터 네이버와 카카오 등 모바일앱에서 QR코드를 통한 전자증명 시스템 접속 오류 현상이 나타났다.\n카카오톡의 QR코드 증명은 이날 오전 11시55분쯤 복구됐지만 네이버 앱에서는 12시 30분께까지 지속됐다.\n이동통신 3사의 PASS 앱과 질병관리청의 백신접종 증명 애플리케이션 COOV(쿠브)에서의 접속 오류는 나타나지 않았다.\n앞서 방역패스 의무화 첫날인 전날에도 점심시간부터 이용자가 몰리면서 접속 오류가 발생했다.\n이와 관련 김부겸 국무총리는 이날 오전 정부서울청사에서 주재한 국무회의에서 \\\"특정 시간에 사용자가 몰려 접속 부하가 생겼다\\\"며 \\\"국민 여러분께 불편을 드린 점을 진심으로 사과드린다\\\"고 고개를 숙여 사과했다.\n김 총리는 \\\"질병관리청 등 방역 당국은 시스템을 조속히 안정화하고 재발 방지 조치를 철저히 해달라\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 방역패스(백신 예방접종 증명·음성확인서) 의무화 시행 둘째날인 14일에도 네이버와 카카오 앱을 통한 증명 오류가 다시 이어졌다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 점심시간이 가까워진 오전 11시40분쯤부터 네이버와 카카오 등 모바일앱에서 QR코드를 통한 전자증명 시스템 접속 오류 현상이 나타났다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카카오톡의 QR코드 증명은 이날 오전 11시55분쯤 복구됐지만 네이버 앱에서는 12시 30분께까지 지속됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이동통신 3사의 PASS 앱과 질병관리청의 백신접종 증명 애플리케이션 COOV(쿠브)에서의 접속 오류는 나타나지 않았다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 방역패스 의무화 첫날인 전날에도 점심시간부터 이용자가 몰리면서 접속 오류가 발생했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이와 관련 김부겸 국무총리는 이날 오전 정부서울청사에서 주재한 국무회의에서 \\\"특정 시간에 사용자가 몰려 접속 부하가 생겼다\\\"며 \\\"국민 여러분께 불편을 드린 점을 진심으로 사과드린다\\\"고 고개를 숙여 사과했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김 총리는 \\\"질병관리청 등 방역 당국은 시스템을 조속히 안정화하고 재발 방지 조치를 철저히 해달라\\\"고 말했다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "총리 사과에도…네이버·카카오 QR 방역패스 또 점심시간 '먹통'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323482",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "에너지산업",
+		"newsTitle": "국회 수소충전소 착공식",
+		"newsSubTitle": "",
+		"newsContent": "국회 수소충전소 착공식이 30일 서울 여의도 국회 의원회관 앞 예정 부지에서 열렸다.\n공영운 현대자동차 사장, 유인태 국회 사무총장, 김영춘 더불어민주당 의원, 성윤모 산업통상자원부 장관, 홍의락 더불어민주당 의원, 박영선 중소벤처기업부 장관, 홍일표 국회 산업통상자원중소벤처기업위원장(왼쪽부터)이 착공식을 마치고 수소버스에 탑승하고 있다.\n주요 내빈들이 터치 버튼을 누르며 착공 의식을 치르고 있다.\n오른쪽부터 공영운 현대자동차 사장, 성윤모 산업통상자원부 장관, 유인태 국회 사무총장, 홍의락 더불어민주당 의원, 홍일표 국회 산업통상자원중소벤처기업위원장, 이종배 자유한국당 의원, 김영춘 민주당 의원, 박영선 중소벤처기업부 장관, 유종수 수소에너지네트워크 대표. 성윤모 산업통상자원부 장관(오른쪽)과 공영운 현대자동차 사장이 대화를 하고 있다.\n유인태 국회 사무총장이 축사를 하고 있다.\n성윤모 산업통상자원부 장관이 축사를 하고 있다.\n유인태 국회 사무총장, 성윤모 산업통상자원부 장관, 공영운 현대자동차 사장(왼쪽부터)이 착공 의식을 치른 뒤 박수를 치고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국회 수소충전소 착공식이 30일 서울 여의도 국회 의원회관 앞 예정 부지에서 열렸다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공영운 현대자동차 사장, 유인태 국회 사무총장, 김영춘 더불어민주당 의원, 성윤모 산업통상자원부 장관, 홍의락 더불어민주당 의원, 박영선 중소벤처기업부 장관, 홍일표 국회 산업통상자원중소벤처기업위원장(왼쪽부터)이 착공식을 마치고 수소버스에 탑승하고 있다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주요 내빈들이 터치 버튼을 누르며 착공 의식을 치르고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오른쪽부터 공영운 현대자동차 사장, 성윤모 산업통상자원부 장관, 유인태 국회 사무총장, 홍의락 더불어민주당 의원, 홍일표 국회 산업통상자원중소벤처기업위원장, 이종배 자유한국당 의원, 김영춘 민주당 의원, 박영선 중소벤처기업부 장관, 유종수 수소에너지네트워크 대표. 성윤모 산업통상자원부 장관(오른쪽)과 공영운 현대자동차 사장이 대화를 하고 있다.",
+				"sentenceSize": 193
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유인태 국회 사무총장이 축사를 하고 있다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "성윤모 산업통상자원부 장관이 축사를 하고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유인태 국회 사무총장, 성윤모 산업통상자원부 장관, 공영운 현대자동차 사장(왼쪽부터)이 착공 의식을 치른 뒤 박수를 치고 있다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국회 수소충전소 착공식",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

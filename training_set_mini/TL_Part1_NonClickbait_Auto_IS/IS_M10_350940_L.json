@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350940",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "잔여백신 떴는데 놓쳤다? '카톡 예약' 1시간여 먹통 현상",
+		"newsSubTitle": "null",
+		"newsContent": "카카오 잔여백신 서비스에서 일부 이용자가 접속이 원활히 이뤄지지 않는 등 '먹통' 현상을 겪고 있다.\n카카오톡 잔여백신 서비스는 28일 오후 3시30분쯤부터 약 한 시간가량 일부 이용자의 이용이 원활하지 않은 현상이 발생했다.\n카톡 잔여백신 탭은 완전히 작동하지 않거나, 느려지는 상태가 되기도 했다.\n예약에 불편을 겪은 이용자 일부는 불만을 드러냈다.\n카카오에 따르면 이날 서비스 장애는 장비 증설로 인한 것으로 확인됐다.\n카카오 관계자는 \\\"일시적으로 발생한 현상으로 일부 이용자 대상 접근에 제한이 발생할 수 있다\\\"고 말했다.\n이날 카카오톡 선물하기는 오전 10시30분쯤 기능이 제대로 작동하지 않는 현상이 발생하기도 했다.\n카톡 선물하기 페이지 전환이 느린 것은 물론 일부 이용자에는 오류 메시지가 떴다.\n이번 카톡 오류는 지난 16일 이미지 수신·발신 장애 이후 12일 만이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오 잔여백신 서비스에서 일부 이용자가 접속이 원활히 이뤄지지 않는 등 '먹통' 현상을 겪고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오톡 잔여백신 서비스는 28일 오후 3시30분쯤부터 약 한 시간가량 일부 이용자의 이용이 원활하지 않은 현상이 발생했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카톡 잔여백신 탭은 완전히 작동하지 않거나, 느려지는 상태가 되기도 했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예약에 불편을 겪은 이용자 일부는 불만을 드러냈다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카카오에 따르면 이날 서비스 장애는 장비 증설로 인한 것으로 확인됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카카오 관계자는 \\\"일시적으로 발생한 현상으로 일부 이용자 대상 접근에 제한이 발생할 수 있다\\\"고 말했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 카카오톡 선물하기는 오전 10시30분쯤 기능이 제대로 작동하지 않는 현상이 발생하기도 했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카톡 선물하기 페이지 전환이 느린 것은 물론 일부 이용자에는 오류 메시지가 떴다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이번 카톡 오류는 지난 16일 이미지 수신·발신 장애 이후 12일 만이다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "잔여백신 떴는데 놓쳤다? '카톡 예약' 1시간여 먹통 현상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

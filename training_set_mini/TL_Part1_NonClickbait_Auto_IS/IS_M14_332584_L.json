@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332584",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "美 포드, 멕시코에 전기 SUV 생산라인 신설",
+		"newsSubTitle": "",
+		"newsContent": "포드 자동차가 도널드 트럼프 미국 대통령 저지에도 멕시코에 전기차 생산라인을 구축하기로 했다고 블룸버그통신과 월스트리트저널(WSJ)이 8일(현지시간) 보도했다.\n보도에 따르면 포드는 전기 SUV(스포츠유틸리티차량) 생산라인을 오는 2020년까지 멕시코시티 외곽에 있는 쿠아우티틀란 공장에 신설할 계획이다.\n포드는 전기차 생산기지를 멕시코로 이전함으로써 인건비를 줄여 수익을 끌어올릴 수 있을 것을 전망된다.\n하지만 포드의 이전 계획은 저임금을 노리고 멕시코로 공장을 이전하는 미국기업에 대해 불만을 토로해온 트럼프 대통령 분노를 살 가능성이 있다고 외신들은 전했다.\n포드는 이러한 트럼프의 압박에 지난 1월 16억달러 규모 멕시코 산루이포토시 소형차 생산공장 설립 계획을 취소했다.\n또 미시간 플랫록 공장을 전기차 생산기지로 사용하기 위해 7억달러를 투자할 계획이라고 밝혔지만 계획은 전면 수정됐다.\n대신 포드는 플랫록 공장을 자율주행차 생산 허브로 만들 계획이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "포드 자동차가 도널드 트럼프 미국 대통령 저지에도 멕시코에 전기차 생산라인을 구축하기로 했다고 블룸버그통신과 월스트리트저널(WSJ)이 8일(현지시간) 보도했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "보도에 따르면 포드는 전기 SUV(스포츠유틸리티차량) 생산라인을 오는 2020년까지 멕시코시티 외곽에 있는 쿠아우티틀란 공장에 신설할 계획이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "포드는 전기차 생산기지를 멕시코로 이전함으로써 인건비를 줄여 수익을 끌어올릴 수 있을 것을 전망된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 포드의 이전 계획은 저임금을 노리고 멕시코로 공장을 이전하는 미국기업에 대해 불만을 토로해온 트럼프 대통령 분노를 살 가능성이 있다고 외신들은 전했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "포드는 이러한 트럼프의 압박에 지난 1월 16억달러 규모 멕시코 산루이포토시 소형차 생산공장 설립 계획을 취소했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 미시간 플랫록 공장을 전기차 생산기지로 사용하기 위해 7억달러를 투자할 계획이라고 밝혔지만 계획은 전면 수정됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대신 포드는 플랫록 공장을 자율주행차 생산 허브로 만들 계획이라고 전했다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美 포드, 멕시코에 전기 SUV 생산라인 신설",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

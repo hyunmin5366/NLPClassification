@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351890",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT-지니뮤직-밀리의서재, AI 오디오 콘텐츠 위해 뭉쳤다",
+		"newsSubTitle": "null",
+		"newsContent": "KT가 지니뮤직, 밀리의서재와 함께 AI 오디오 콘텐츠 플랫폼 사업 협력을 위한 협약을 체결했다고 20일 밝혔다.\n3사는 이번 사업 협력을 바탕으로 AI 오디오 콘텐츠 플랫폼 사업과 관련해 △사업 개발 및 상품화 △제작 및 시장 활성화 △홍보 및 마케팅 등을 공동으로 추진할 계획이다.\n먼저 KT는 딥러닝 음성합성(P-TTS)과 E2E(엔드투엔드) 음성인식 등 자체 보유한 AI 오디오 기술의 사업 적용과 기술 고도화에 집중하며, 음성 변조와 다국어 변환 등 신규 기술 확보에 힘쓰고 있다.\n이와 같은 다양한 AI 오디오 기술을 활용해 AI 오디오 콘텐츠 플랫폼을 개발할 예정이다.\n지니뮤직은 KT의 기술력으로 제작된 AI 오디오 콘텐츠를 '지니'를 통해 유통한다.\n지니뮤직은 AI 오디오 플랫폼 사업을 위해 지난 9월 밀리의서재 지분 38.6%를 인수했으며, 지니와 밀리의서재를 함께 즐길 수 있는 합리적인 가격의 결합상품도 선보일 예정이다.\n밀리의서재는 AI 오디오 콘텐츠 제작을 위해 도서 발굴 및 권리 확보를 진행한다.\nKT의 AI 기술을 활용해 기존에 제공하던 AI 오디오북의 품질 개선과 서비스 확대에도 힘쓸 계획이다.\n한편 KT를 비롯한 3사가 협력한 AI 오디오북 시범서비스는 올해 안에 지니뮤직 플랫폼에서 공개된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 지니뮤직, 밀리의서재와 함께 AI 오디오 콘텐츠 플랫폼 사업 협력을 위한 협약을 체결했다고 20일 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3사는 이번 사업 협력을 바탕으로 AI 오디오 콘텐츠 플랫폼 사업과 관련해 △사업 개발 및 상품화 △제작 및 시장 활성화 △홍보 및 마케팅 등을 공동으로 추진할 계획이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "먼저 KT는 딥러닝 음성합성(P-TTS)과 E2E(엔드투엔드) 음성인식 등 자체 보유한 AI 오디오 기술의 사업 적용과 기술 고도화에 집중하며, 음성 변조와 다국어 변환 등 신규 기술 확보에 힘쓰고 있다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이와 같은 다양한 AI 오디오 기술을 활용해 AI 오디오 콘텐츠 플랫폼을 개발할 예정이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지니뮤직은 KT의 기술력으로 제작된 AI 오디오 콘텐츠를 '지니'를 통해 유통한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지니뮤직은 AI 오디오 플랫폼 사업을 위해 지난 9월 밀리의서재 지분 38.6%를 인수했으며, 지니와 밀리의서재를 함께 즐길 수 있는 합리적인 가격의 결합상품도 선보일 예정이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "밀리의서재는 AI 오디오 콘텐츠 제작을 위해 도서 발굴 및 권리 확보를 진행한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "KT의 AI 기술을 활용해 기존에 제공하던 AI 오디오북의 품질 개선과 서비스 확대에도 힘쓸 계획이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 KT를 비롯한 3사가 협력한 AI 오디오북 시범서비스는 올해 안에 지니뮤직 플랫폼에서 공개된다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT-지니뮤직-밀리의서재, AI 오디오 콘텐츠 위해 뭉쳤다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337890",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "LG유플러스, 이거 찾으세요?…\\\"IPTV 차별화 자신\\\"",
+		"newsSubTitle": "",
+		"newsContent": "“고객이 찾을만한 정보를 인공지능(AI)으로 미리 준비했다.” '이거 찾으세요?' 개발에 참여한 3인방은 확실한 차별화를 자신하며 이같이 말했다.\nLG유플러스는 이달 초 IPTV (U+tv)를 개편하며 '이거 찾으세요?' 서비스를 선보였다. '이거 찾으세요?' 서비스는 △예능 에피소드별 골라보기 △작품 배경음악 찾아보기 등 고객이 궁금한 내용을 AI가 찾아주는 게 골자다.\n양정아 LG유플러스 플랫폼기반서비스팀 책임은 “TV를 시청하며 휴대폰으로 검색하는 고객이 많은 데, 이들이 궁금하지만 찾기 귀찮은 정보가 무엇일까 생각하다가 에피소드와 배경음악 서비스를 착안했다”고 기획 배경을 소개했다.\n한 시간 반 남짓 되는 한 편의 예능 콘텐츠 중 약 10개 에피소드를 한 줄 요약으로 보여주는 기능이 에피소드별 골라보기다.\n에피소드는 AI가 광학식 문자판독장치(OCR) 기반으로 추려낸다.\n학습된 한글 데이터를 바탕으로 왼쪽 상단 에피소드 자막을 보고 1차적으로 영상을 나눈다.\n이후 AI가 에피소드별 적절한 썸네일을 추출한다.\n에피소드는 관리자의 오탈자 검수과정을 거쳐 셋톱박스 플레이어에 반영된다.\nLG유플러스 AI가 98% 문자 인식 정확도를 달성하기까지 기획·학습에만 10개월가량 소요됐다.\n김민규 LG유플러스 영상기술팀 책임은 “2시간짜리 영상의 7200프레임을 AI에 학습시키기 위해 한 프레임당 표시되는 글자를 알고리즘에 일일이 입력(tagging)해야 했다”며 “프로그램별로 글자체가 달라 태깅에 시간이 예상보다 많이 소요됐다”고 말했다.\n배경음악 찾아보기 서비스는 현재 재생되는 배경음악은 물론 시청 중인 콘텐츠의 모든 배경음악 리스트 검색이 가능한 서비스다.\n원하는 배경음악을 선택하면 시작 시점으로 이동할 수 있다.\n양 책임은 “자녀가 있는 가정에서는 겨울왕국 '렛잇고' 처럼 유명한 배경음악이 나오는 시점만 찾을 수 있어 유용하다는 평가를 받고 있다”고 자랑했다.\nAI 영상팀은 음원 분리 및 인식 기술을 이용했다.\nAI가 영상과 소리를 분리해 사람 목소리와 음악을 구분짓고, 음악이 조금이라도 포함된 부분을 스캔한 이후 음원 정보를 추출한다.\n임준순 LG유플러스 홈디바이스개발팀 책임은 “미들웨어와 펌웨어, 앱까지 LG유플러스가 개발한다”면서 “경쟁사가 구현하기 힘든 기술도 최적화가 가능하다”고 자신했다.\n이어 “특정 소프트웨어를 사용해야 하거나 하드웨어 스펙 때문에 불가능한 상황은 없다”며 “앞으로도 신규 서비스 출시가 용이하다”고 덧붙였다.\n향후 LG유플러스는 AI를 이용한 △인물인식 △장면인식 △장소인식 △유명인의 패션 인식 서비스 등을 순차적으로 셋톱박스에 탑재할 계획이다.\n김 책임은 “시청 중인 콘텐츠에 나오는 배우가 어떤 콘텐츠에도 출연했는지, 에피소드가 진행되는 장소가 어디인지, 배우가 입은 패션 아이템은 어디 제품인지 등을 AI로 알려줘 고객 만족도를 높일 것”이라고 밝혔다.\n양 책임은 “서비스 경쟁은 곧 디테일 경쟁”이라며 “작은 만족으로부터 서비스 이용률이 좌우되는 만큼 이용자 취향에 부응해 선택의 효율을 높일 수 있도록 노력하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "“고객이 찾을만한 정보를 인공지능(AI)으로 미리 준비했다.” '이거 찾으세요?' 개발에 참여한 3인방은 확실한 차별화를 자신하며 이같이 말했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG유플러스는 이달 초 IPTV (U+tv)를 개편하며 '이거 찾으세요?' 서비스를 선보였다. '이거 찾으세요?' 서비스는 △예능 에피소드별 골라보기 △작품 배경음악 찾아보기 등 고객이 궁금한 내용을 AI가 찾아주는 게 골자다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양정아 LG유플러스 플랫폼기반서비스팀 책임은 “TV를 시청하며 휴대폰으로 검색하는 고객이 많은 데, 이들이 궁금하지만 찾기 귀찮은 정보가 무엇일까 생각하다가 에피소드와 배경음악 서비스를 착안했다”고 기획 배경을 소개했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한 시간 반 남짓 되는 한 편의 예능 콘텐츠 중 약 10개 에피소드를 한 줄 요약으로 보여주는 기능이 에피소드별 골라보기다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "에피소드는 AI가 광학식 문자판독장치(OCR) 기반으로 추려낸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "학습된 한글 데이터를 바탕으로 왼쪽 상단 에피소드 자막을 보고 1차적으로 영상을 나눈다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 AI가 에피소드별 적절한 썸네일을 추출한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "에피소드는 관리자의 오탈자 검수과정을 거쳐 셋톱박스 플레이어에 반영된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "LG유플러스 AI가 98% 문자 인식 정확도를 달성하기까지 기획·학습에만 10개월가량 소요됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "김민규 LG유플러스 영상기술팀 책임은 “2시간짜리 영상의 7200프레임을 AI에 학습시키기 위해 한 프레임당 표시되는 글자를 알고리즘에 일일이 입력(tagging)해야 했다”며 “프로그램별로 글자체가 달라 태깅에 시간이 예상보다 많이 소요됐다”고 말했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "배경음악 찾아보기 서비스는 현재 재생되는 배경음악은 물론 시청 중인 콘텐츠의 모든 배경음악 리스트 검색이 가능한 서비스다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "원하는 배경음악을 선택하면 시작 시점으로 이동할 수 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "양 책임은 “자녀가 있는 가정에서는 겨울왕국 '렛잇고' 처럼 유명한 배경음악이 나오는 시점만 찾을 수 있어 유용하다는 평가를 받고 있다”고 자랑했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "AI 영상팀은 음원 분리 및 인식 기술을 이용했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "AI가 영상과 소리를 분리해 사람 목소리와 음악을 구분짓고, 음악이 조금이라도 포함된 부분을 스캔한 이후 음원 정보를 추출한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "임준순 LG유플러스 홈디바이스개발팀 책임은 “미들웨어와 펌웨어, 앱까지 LG유플러스가 개발한다”면서 “경쟁사가 구현하기 힘든 기술도 최적화가 가능하다”고 자신했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이어 “특정 소프트웨어를 사용해야 하거나 하드웨어 스펙 때문에 불가능한 상황은 없다”며 “앞으로도 신규 서비스 출시가 용이하다”고 덧붙였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "향후 LG유플러스는 AI를 이용한 △인물인식 △장면인식 △장소인식 △유명인의 패션 인식 서비스 등을 순차적으로 셋톱박스에 탑재할 계획이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "김 책임은 “시청 중인 콘텐츠에 나오는 배우가 어떤 콘텐츠에도 출연했는지, 에피소드가 진행되는 장소가 어디인지, 배우가 입은 패션 아이템은 어디 제품인지 등을 AI로 알려줘 고객 만족도를 높일 것”이라고 밝혔다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "양 책임은 “서비스 경쟁은 곧 디테일 경쟁”이라며 “작은 만족으로부터 서비스 이용률이 좌우되는 만큼 이용자 취향에 부응해 선택의 효율을 높일 수 있도록 노력하겠다”고 말했다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG유플러스, 이거 찾으세요?…\\\"IPTV 차별화 자신\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

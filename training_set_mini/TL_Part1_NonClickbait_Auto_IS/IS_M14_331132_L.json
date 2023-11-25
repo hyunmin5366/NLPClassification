@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331132",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW교육",
+		"newsTitle": "[AI 사피엔스 시대]서울대 AI연구원은",
+		"newsSubTitle": "",
+		"newsContent": "서울대 인공지능(AI) 연구원(AIIS)은 원장인 장병탁 컴퓨터공학부 교수를 중심으로 고학수 법학전문대학원 교수, 유병준 경영학과 교수, 윤성로 전기정보공학부 교수, 이교구 지능정보융학과 교수, 이은주 언론정보학과 교수, 이원종 지능정보융합과 교수 등이 연구를 이끌고 있다.\n지난해 설립돼 300여명 서울대 전임 교수진이 겸무연구원으로 활동 중이다.\n대학원생 등 2000여명 연구원이 소속됐다.\nAIIS는 딥러닝에 최적화된 신경망처리 개발은 물론 고성능 학습·추론을 위한 소프트웨어 연구, 머신러닝 플랫폼을 위한 학습 프레임워크, 코드 최적화 연구, 스토리지 시스템과 입출력 시스템 등 AI 플랫폼 전반을 연구개발(R&D)한다.\n여기에 공학, 법학, 윤리학, 언어학, 의학, 생물학, 금융, 예술 등을 접목하는 시도를 하고 있다.\n산학협력 프로그램도 운영한다.\nAIIS 멤버십 프로그램이다.\n회원사에 가입하고 산업계에서 풀지 못한 AI난제를 연구원에 의뢰하면 관련 전문가가 창의적인 해결책을 제시하는 식이다.\n또 함께 할 주제를 찾으면 기한을 정해 AIIS 연구자를 회원사로 파견해 연구하기도 한다.\n회원사로서는 최고 인재를 뽑는 기회가 주어지는 셈이다.\n회원사를 위한 리트릿(수련회)도 진행한다.\n멤버 회사연구원과 AIIS 연구주제를 발표하면서 서로 교류하는 시간도 갖는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울대 인공지능(AI) 연구원(AIIS)은 원장인 장병탁 컴퓨터공학부 교수를 중심으로 고학수 법학전문대학원 교수, 유병준 경영학과 교수, 윤성로 전기정보공학부 교수, 이교구 지능정보융학과 교수, 이은주 언론정보학과 교수, 이원종 지능정보융합과 교수 등이 연구를 이끌고 있다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 설립돼 300여명 서울대 전임 교수진이 겸무연구원으로 활동 중이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대학원생 등 2000여명 연구원이 소속됐다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AIIS는 딥러닝에 최적화된 신경망처리 개발은 물론 고성능 학습·추론을 위한 소프트웨어 연구, 머신러닝 플랫폼을 위한 학습 프레임워크, 코드 최적화 연구, 스토리지 시스템과 입출력 시스템 등 AI 플랫폼 전반을 연구개발(R&D)한다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 공학, 법학, 윤리학, 언어학, 의학, 생물학, 금융, 예술 등을 접목하는 시도를 하고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "산학협력 프로그램도 운영한다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "AIIS 멤버십 프로그램이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "회원사에 가입하고 산업계에서 풀지 못한 AI난제를 연구원에 의뢰하면 관련 전문가가 창의적인 해결책을 제시하는 식이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 함께 할 주제를 찾으면 기한을 정해 AIIS 연구자를 회원사로 파견해 연구하기도 한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "회원사로서는 최고 인재를 뽑는 기회가 주어지는 셈이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "회원사를 위한 리트릿(수련회)도 진행한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "멤버 회사연구원과 AIIS 연구주제를 발표하면서 서로 교류하는 시간도 갖는다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[AI 사피엔스 시대]서울대 AI연구원은",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

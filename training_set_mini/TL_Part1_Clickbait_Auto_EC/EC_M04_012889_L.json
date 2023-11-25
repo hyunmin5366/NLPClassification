@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012889",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "내달부터 보금자리론 금리 인하",
+		"newsSubTitle": "주택금융공사, 0.25%P↓",
+		"newsContent": "6월부터 장기·고정금리 주택담보대출인 '보금자리론'의 금리가 0.25%포인트 인하된다.\n27일 주택금융공사에 따르면 이번 금리 인하 조치로 u-보금자리론 금리는 5월 말 현재 연 4.30%(10년)~4.55%(30년)에서 연 4.05%(10년)~4.30%(30년)로 낮아진다.\n또한 '아낌 e-보금자리론'은 연 3.95%(10년)~4.20%(30년)의 금리가 적용된다.\n아낌 e-보금자리론은 은행방문 없이 인터넷을 통해 대출거래약정 및 근저당권 설정계약을 맺을 수 있는 상품으로 현재 하나은행에서 이용 가능하다.\n공사 관계자는 “서민의 내집마련 비용부담을 줄이기 위해 최근 국고채 금리 하락 및 MBS 발행비용 절감분을 반영해 보금자리론 금리를 낮추기로 했다”고 말했다.\n이 관계자는 “주택담보대출은 거주예상기간에 맞는 대출만기를 선택해서 금리변동기에 이자부담이 늘어나지 않도록 하는 것이 중요하다”면서 “시장금리 상승 전망이 나오고 있는 만큼 주택담보대출 이용자는 보금자리론과 같은 장기고정금리대출 이용을 먼저 고려해 보는 것이 좋다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "6월부터 장기·고정금리 주택담보대출인 '보금자리론'의 금리가 0.25%포인트 인하된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 주택금융공사에 따르면 이번 금리 인하 조치로 u-보금자리론 금리는 5월 말 현재 연 4.30%(10년)~4.55%(30년)에서 연 4.05%(10년)~4.30%(30년)로 낮아진다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또한 '아낌 e-보금자리론'은 연 3.95%(10년)~4.20%(30년)의 금리가 적용된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아낌 e-보금자리론은 은행방문 없이 인터넷을 통해 대출거래약정 및 근저당권 설정계약을 맺을 수 있는 상품으로 현재 하나은행에서 이용 가능하다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공사 관계자는 “서민의 내집마련 비용부담을 줄이기 위해 최근 국고채 금리 하락 및 MBS 발행비용 절감분을 반영해 보금자리론 금리를 낮추기로 했다”고 말했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 관계자는 “주택담보대출은 거주예상기간에 맞는 대출만기를 선택해서 금리변동기에 이자부담이 늘어나지 않도록 하는 것이 중요하다”면서 “시장금리 상승 전망이 나오고 있는 만큼 주택담보대출 이용자는 보금자리론과 같은 장기고정금리대출 이용을 먼저 고려해 보는 것이 좋다”고 덧붙였다.",
+				"sentenceSize": 155
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "단체급식도 지정정보 이용한다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

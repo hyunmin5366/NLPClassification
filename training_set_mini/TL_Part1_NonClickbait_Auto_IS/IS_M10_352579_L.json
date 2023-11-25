@@ -1,0 +1,258 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352579",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"그림 그리고 해설도 단다\\\"…카카오 초거대 AI의 진화",
+		"newsSubTitle": "null",
+		"newsContent": "글로벌 IT기업의 초거대 AI(인공지능) 경쟁이 뜨거운 가운데 카카오가 세 번째 모델을 선보인다.\n한국어에 특화된 AI 언어모델 'KoGPT'(코지피티)와 명령어에 알맞은 이미지를 생성하는 'minDALL-E'(민달리)에 이어 텍스트와 이미지를 동시에 이해하는 모델을 내년 공개할 예정이다.\n기술 연구를 넘어 AI를 활용한 교육·헬스케어 사업에도 나선다.\n김일두 카카오브레인 대표는 20일 온라인 기자간담회에서 \\\"내년에 글과 이미지를 함께 이해할 수 있는 초거대 AI모델을 공개할 것\\\"이라며 \\\"이를 위해 글로벌 최대 규모의 이미지 텍스트 멀티모달(multi-modal) 데이터세트를 구축해 공개하겠다\\\"고 밝혔다.\n멀티모달이란 텍스트뿐 아니라 이미지나 음성도 함께 이해할 수 있는 AI 모델을 말한다.\n예컨대 이미지를 글로 표현하거나, 글에 알맞은 이미지를 검색하고 찾아낼 수 있다.\n김 대표는 \\\"멀티모달 AI가 완성되면 포털 다음과 카카오톡의 이미지 검색이나 카톡 내 다양한 쇼핑 서비스에 우선 적용할 예정\\\"이라고 말했다.\n카카오브레인은 멀티 모달 AI 확산을 위해 내년 초 '카카오판 이미지넷'을 공개한다. 2010년 알고리즘이 학습할 수 있는 1200만장의 이미지 데이터베이스를 공개해 딥러닝 발전을 이끈 '이미지넷'(ImageNet)처럼, 카카오브레인도 20억장의 이미지와 텍스트 데이터로 구성된 데이터세트를 공개해 AI 연구에 이바지하겠다는 것이다.\n━\\\"글만 읽는 AI는 가라\\\"…내년부터 멀티 모달 초거대 AI 경쟁 시작 ━내년부터는 사람의 언어를 이해하는 것을 넘어, 영상·이미지 등 다양한 양식의 데이터를 동시에 습득하고 다루는 능력이 AI 경쟁력을 가를 전망이다.\n이에 LG AI 연구원은 '엑사원'을 멀티 모달 AI로 만들기 위해 말뭉치 6000억개와 언어·이미지가 결합한 고해상도 이미지 2억5000만장을 학습시켰다.\n네이버도 '하이퍼클로바'를 멀티 모달 모델로 확장할 예정이다.\n다만 카카오브레인의 초거대 AI 모델은 파라미터(매개변수) 규모에서 LG나 네이버보다 현저히 적다.\nLG 엑사원의 파라미터는 3000억개, 네이버 하이퍼클로바는 2040억개인 반면, 카카오브레인의 코지피티는 300억개, 민달리는 14억개에 불과하다.\n일반적으로 파라미터가 많을수록 AI가 더 정교한 학습을 할 수 있는 것으로 알려졌다.\n이에 대해 카카오브레인은 초거대 AI 모델의 규모를 키우는 것보단 실용적인 규모에 방점을 뒀다고 설명했다.\n김 대표는 \\\"AI 언어모델은 규모가 클수록 속도도 느리고 학습 과정도 복잡해 결과를 도출하는데 딜레이가 있다\\\"라며 \\\"최근 구글·오픈AI도 초거대 AI 모델 규모를 줄이는 추세인데, 실시간 응답이 가능한 실용구간은 60억~800억개 수준\\\"이라고 말했다.\n파라미터 수는 적지만 성능 면에선 네이버를 제쳤다는 게 회사측 설명이다.\n김 대표는 \\\"네이버가 논문에 공개한 한국어 테스트를 동일하게 진행한 결과 코지피티가 하이퍼클로바보다 높은 성능을 나타냈다\\\"라며 \\\"국내 멀티모달 시장을 선도하는 것도 차별점\\\"이라고 강조했다.\n━AI로 신약 개발 앞당긴다…카카오 공동체 '헬스케어 ' 박차 ━카카오브레인은 기술연구뿐 아니라 헬스케어 사업에도 도전장을 낸다.\n앞서 AI 활용 신약 설계 스타트업 갤럭스에 50억원을 투자하고 공동 연구를 진행했다.\nAI를 활용해 후보 물질 개발에만 평균 5년, 약 6억7000만달러가 드는 신약 개발의 과정·비용을 획기적으로 단축하겠다는 목표다.\n최근 출범한 카카오 헬스케어 CIC(사내독립기업)와의 협업도 기대된다.\n김 대표는 \\\"구글의 '알파폴드2'가 단기간 내 단백질의 복잡한 3차원 구조를 예측하는 데 성공한 만큼, 앞으로 1~2년 내 단백질 간 상호작용을 예측하는 AI 모델도 나올 것\\\"이라며 \\\"AI로 신약 개발과정을 간소화하면 질병 대응력이 높아져 인류 삶의 질을 바꿀 수 있을 것이라 보고, 내년에 집중적으로 투자하기로 했다\\\"라고 강조했다.\n김범수 카카오 의장의 관심사인 교육 분야에도 AI를 접목할 예정이다.\n그는 세계적 기부클럽 '더기빙플레지'에 전 재산 기부 서약을 하며 \\\"미래 교육시스템에 대한 적절한 대안을 찾아보려 한다\\\"라고 말한 바 있다.\n이에 대해 김 대표는 \\\"내부적으로 아이디어를 취합하는 단계지만 AI가 언어나 코딩교육을 도와주는 형태를 구상하고 있다\\\"고 귀띔했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 26,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 IT기업의 초거대 AI(인공지능) 경쟁이 뜨거운 가운데 카카오가 세 번째 모델을 선보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국어에 특화된 AI 언어모델 'KoGPT'(코지피티)와 명령어에 알맞은 이미지를 생성하는 'minDALL-E'(민달리)에 이어 텍스트와 이미지를 동시에 이해하는 모델을 내년 공개할 예정이다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기술 연구를 넘어 AI를 활용한 교육·헬스케어 사업에도 나선다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김일두 카카오브레인 대표는 20일 온라인 기자간담회에서 \\\"내년에 글과 이미지를 함께 이해할 수 있는 초거대 AI모델을 공개할 것\\\"이라며 \\\"이를 위해 글로벌 최대 규모의 이미지 텍스트 멀티모달(multi-modal) 데이터세트를 구축해 공개하겠다\\\"고 밝혔다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "멀티모달이란 텍스트뿐 아니라 이미지나 음성도 함께 이해할 수 있는 AI 모델을 말한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예컨대 이미지를 글로 표현하거나, 글에 알맞은 이미지를 검색하고 찾아낼 수 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김 대표는 \\\"멀티모달 AI가 완성되면 포털 다음과 카카오톡의 이미지 검색이나 카톡 내 다양한 쇼핑 서비스에 우선 적용할 예정\\\"이라고 말했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "카카오브레인은 멀티 모달 AI 확산을 위해 내년 초 '카카오판 이미지넷'을 공개한다. 2010년 알고리즘이 학습할 수 있는 1200만장의 이미지 데이터베이스를 공개해 딥러닝 발전을 이끈 '이미지넷'(ImageNet)처럼, 카카오브레인도 20억장의 이미지와 텍스트 데이터로 구성된 데이터세트를 공개해 AI 연구에 이바지하겠다는 것이다.",
+				"sentenceSize": 186
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "━\\\"글만 읽는 AI는 가라\\\"…내년부터 멀티 모달 초거대 AI 경쟁 시작 ━내년부터는 사람의 언어를 이해하는 것을 넘어, 영상·이미지 등 다양한 양식의 데이터를 동시에 습득하고 다루는 능력이 AI 경쟁력을 가를 전망이다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이에 LG AI 연구원은 '엑사원'을 멀티 모달 AI로 만들기 위해 말뭉치 6000억개와 언어·이미지가 결합한 고해상도 이미지 2억5000만장을 학습시켰다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "네이버도 '하이퍼클로바'를 멀티 모달 모델로 확장할 예정이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "다만 카카오브레인의 초거대 AI 모델은 파라미터(매개변수) 규모에서 LG나 네이버보다 현저히 적다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "LG 엑사원의 파라미터는 3000억개, 네이버 하이퍼클로바는 2040억개인 반면, 카카오브레인의 코지피티는 300억개, 민달리는 14억개에 불과하다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "일반적으로 파라미터가 많을수록 AI가 더 정교한 학습을 할 수 있는 것으로 알려졌다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이에 대해 카카오브레인은 초거대 AI 모델의 규모를 키우는 것보단 실용적인 규모에 방점을 뒀다고 설명했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "김 대표는 \\\"AI 언어모델은 규모가 클수록 속도도 느리고 학습 과정도 복잡해 결과를 도출하는데 딜레이가 있다\\\"라며 \\\"최근 구글·오픈AI도 초거대 AI 모델 규모를 줄이는 추세인데, 실시간 응답이 가능한 실용구간은 60억~800억개 수준\\\"이라고 말했다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "파라미터 수는 적지만 성능 면에선 네이버를 제쳤다는 게 회사측 설명이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "김 대표는 \\\"네이버가 논문에 공개한 한국어 테스트를 동일하게 진행한 결과 코지피티가 하이퍼클로바보다 높은 성능을 나타냈다\\\"라며 \\\"국내 멀티모달 시장을 선도하는 것도 차별점\\\"이라고 강조했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "━AI로 신약 개발 앞당긴다…카카오 공동체 '헬스케어 ' 박차 ━카카오브레인은 기술연구뿐 아니라 헬스케어 사업에도 도전장을 낸다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "앞서 AI 활용 신약 설계 스타트업 갤럭스에 50억원을 투자하고 공동 연구를 진행했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "AI를 활용해 후보 물질 개발에만 평균 5년, 약 6억7000만달러가 드는 신약 개발의 과정·비용을 획기적으로 단축하겠다는 목표다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "최근 출범한 카카오 헬스케어 CIC(사내독립기업)와의 협업도 기대된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "김 대표는 \\\"구글의 '알파폴드2'가 단기간 내 단백질의 복잡한 3차원 구조를 예측하는 데 성공한 만큼, 앞으로 1~2년 내 단백질 간 상호작용을 예측하는 AI 모델도 나올 것\\\"이라며 \\\"AI로 신약 개발과정을 간소화하면 질병 대응력이 높아져 인류 삶의 질을 바꿀 수 있을 것이라 보고, 내년에 집중적으로 투자하기로 했다\\\"라고 강조했다.",
+				"sentenceSize": 190
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "김범수 카카오 의장의 관심사인 교육 분야에도 AI를 접목할 예정이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "그는 세계적 기부클럽 '더기빙플레지'에 전 재산 기부 서약을 하며 \\\"미래 교육시스템에 대한 적절한 대안을 찾아보려 한다\\\"라고 말한 바 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "이에 대해 김 대표는 \\\"내부적으로 아이디어를 취합하는 단계지만 AI가 언어나 코딩교육을 도와주는 형태를 구상하고 있다\\\"고 귀띔했다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"그림 그리고 해설도 단다\\\"…카카오 초거대 AI의 진화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323835",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "SK인포섹, 메일 서버 취약점 악용한 사이버공격 '주의보'",
+		"newsSubTitle": "",
+		"newsContent": "대기업과 중소기업을 노린 메일 서버 취약점 악용 사이버 공격이 비상이다.\n공격자는 메일을 이용해 기업 시스템을 침해하거나 또다시 스팸메일을 유포한다.\nSK인포섹 보안전문가그룹 이큐스트(EQST)는 간이우편전송프로토콜(SMTP)을 악용한 사이버공격이 지난달 갑자기 증가했다며 기업 보안 담당자 주의를 당부했다.\n기존에 SMTP 취약점을 겨냥한 공격은 매우 드물게 나타났지만 지난달 SK인포섹에 실제 대형 피해 사례가 연달아 접수됐다.\nSMTP는 시스템 간 메일 교환을 지원하는 메시지 전송용 프로토콜이다.\n실사용자만 메일을 발송할 수 있도록 릴레이 설정을 해야 한다.\n공격자는 SMTP 릴레이 설정이 대다수 기업에서 잘 돼 있지 않는 점을 악용한다.\n무차별 대입 공격을 통해 SMTP 인증을 뚫은 뒤 스팸메일을 유포한다.\n이는 단순히 스팸메일 유포로 그치지 않는다.\n공공기관과 대기업에서 발송한 메일은 포털 스팸메일에서 걸러지지 않을 뿐더러 이용자가 클릭할 확률이 높다.\n규모가 큰 기관과 기업일수록 메일 서버 성능도 높기 때문에 공격자에게는 피해를 확산할 유인으로 작용한다.\nSMTP 공격을 방치할수록 대형 침해사고 가능성도 높아지는 셈이다.\nSMTP를 통해 발송되는 스팸메일은 이용자가 스팸메일을 실제 수신했는지 여부와 무관하게 서버 과부하를 초래한다.\n대량 메일 발송에 따른 결과와 반송 메일 전송으로 서버에 과부하가 걸리거나 디스크 가용성 문제가 발생하는 것이다.\n스팸메일 유포 시 악용되는 기업에도 침해 위협이 높아진다.\n김성동 SK인포섹 팀장은 \\\"공격자는 언제나 가장 쉬운 관문을 찾는다\\\"면서 \\\"보안이 강화된 기업 중요 시스템 대신 누구나 클릭하기 쉬운 메일이 공격 진입점으로 활용되는 것\\\"이라고 설명했다.\n이어 \\\"지난 한 달새 SK인포섹에서 탐지∙대응한 SMTP 릴레이 공격만 여러 건에 달하는 만큼 실제 공격은 훨씬 많을 것으로 추정된다\\\"면서 \\\"기업에선 SMTP 공격에 대비하고 관리자 부주의가 보안사고로 이어지지 않도록 릴레이 설정에 유의해야 한다\\\"고 말했다.\n이 같은 피해를 예방하려면 △허용된 IP에 대해서만 릴레이를 설정할 것 △IP 기반 차단 도구를 활용해 비정상 로그인 IP를 차단할 것 △메일 전송 한도 설정 등 메일 발송 제한 기능을 활용할 것 △인가된 서버에만 메일 송수신을 허용하도록 제한을 둘 것 등이 권고된다.\n스팸메일 발송자 차단과 서버 릴레이 차단 방법은 한국인터넷진흥원(KISA) 홈페이지에서도 확인할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대기업과 중소기업을 노린 메일 서버 취약점 악용 사이버 공격이 비상이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "공격자는 메일을 이용해 기업 시스템을 침해하거나 또다시 스팸메일을 유포한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SK인포섹 보안전문가그룹 이큐스트(EQST)는 간이우편전송프로토콜(SMTP)을 악용한 사이버공격이 지난달 갑자기 증가했다며 기업 보안 담당자 주의를 당부했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존에 SMTP 취약점을 겨냥한 공격은 매우 드물게 나타났지만 지난달 SK인포섹에 실제 대형 피해 사례가 연달아 접수됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SMTP는 시스템 간 메일 교환을 지원하는 메시지 전송용 프로토콜이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "실사용자만 메일을 발송할 수 있도록 릴레이 설정을 해야 한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공격자는 SMTP 릴레이 설정이 대다수 기업에서 잘 돼 있지 않는 점을 악용한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "무차별 대입 공격을 통해 SMTP 인증을 뚫은 뒤 스팸메일을 유포한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이는 단순히 스팸메일 유포로 그치지 않는다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "공공기관과 대기업에서 발송한 메일은 포털 스팸메일에서 걸러지지 않을 뿐더러 이용자가 클릭할 확률이 높다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "규모가 큰 기관과 기업일수록 메일 서버 성능도 높기 때문에 공격자에게는 피해를 확산할 유인으로 작용한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "SMTP 공격을 방치할수록 대형 침해사고 가능성도 높아지는 셈이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "SMTP를 통해 발송되는 스팸메일은 이용자가 스팸메일을 실제 수신했는지 여부와 무관하게 서버 과부하를 초래한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "대량 메일 발송에 따른 결과와 반송 메일 전송으로 서버에 과부하가 걸리거나 디스크 가용성 문제가 발생하는 것이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "스팸메일 유포 시 악용되는 기업에도 침해 위협이 높아진다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "김성동 SK인포섹 팀장은 \\\"공격자는 언제나 가장 쉬운 관문을 찾는다\\\"면서 \\\"보안이 강화된 기업 중요 시스템 대신 누구나 클릭하기 쉬운 메일이 공격 진입점으로 활용되는 것\\\"이라고 설명했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이어 \\\"지난 한 달새 SK인포섹에서 탐지∙대응한 SMTP 릴레이 공격만 여러 건에 달하는 만큼 실제 공격은 훨씬 많을 것으로 추정된다\\\"면서 \\\"기업에선 SMTP 공격에 대비하고 관리자 부주의가 보안사고로 이어지지 않도록 릴레이 설정에 유의해야 한다\\\"고 말했다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이 같은 피해를 예방하려면 △허용된 IP에 대해서만 릴레이를 설정할 것 △IP 기반 차단 도구를 활용해 비정상 로그인 IP를 차단할 것 △메일 전송 한도 설정 등 메일 발송 제한 기능을 활용할 것 △인가된 서버에만 메일 송수신을 허용하도록 제한을 둘 것 등이 권고된다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "스팸메일 발송자 차단과 서버 릴레이 차단 방법은 한국인터넷진흥원(KISA) 홈페이지에서도 확인할 수 있다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK인포섹, 메일 서버 취약점 악용한 사이버공격 '주의보'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

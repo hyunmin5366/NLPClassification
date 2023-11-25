@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330786",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "방송",
+		"newsTitle": "CJ헬로, 디지털 방송 전환 완료",
+		"newsSubTitle": "",
+		"newsContent": "CJ헬로가 아날로그 방송을 종료, 디지털 방송(8VSB 포함) 전환을 완료했다.\nCJ헬로는 과학기술정보통신부 산하 '케이블TV 아날로그 방송 종료 지원협의체'(이하 협의체)에 하나방송 아날로그 방송 종료를 보고한 것으로 확인됐다.\n하나방송은 CJ헬로가 2016년 인수한 SO다.\nCJ헬로는 하나방송을 마지막으로 전국 23개 방송권역에서 아날로그 방송을 모두 종료했다.\n디지털 방송 전환은 대부분 8VSB 방식으로 진행됐다.\nCJ헬로는 협의체 권고에 따라 8VSB 신호를 받아들이지 못하는 구형 TV 보유 가입자에게 신호 변환기 등을 무상으로 공급했다.\n개별SO 푸른방송과 아름방송도 협의체에 아날로그 방송 종료 계획서를 제출했다.\n현대HCN 계열 5곳과 씨씨에스충북방송, 금강방송, 제주방송 등은 종료 계획을 마련하고 있다.\n과기정통부 관계자는 \\\"시청자 보호를 중점에 두고 아날로그 방송 종료를 진행하고 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "CJ헬로가 아날로그 방송을 종료, 디지털 방송(8VSB 포함) 전환을 완료했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CJ헬로는 과학기술정보통신부 산하 '케이블TV 아날로그 방송 종료 지원협의체'(이하 협의체)에 하나방송 아날로그 방송 종료를 보고한 것으로 확인됐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하나방송은 CJ헬로가 2016년 인수한 SO다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "CJ헬로는 하나방송을 마지막으로 전국 23개 방송권역에서 아날로그 방송을 모두 종료했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "디지털 방송 전환은 대부분 8VSB 방식으로 진행됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CJ헬로는 협의체 권고에 따라 8VSB 신호를 받아들이지 못하는 구형 TV 보유 가입자에게 신호 변환기 등을 무상으로 공급했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "개별SO 푸른방송과 아름방송도 협의체에 아날로그 방송 종료 계획서를 제출했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현대HCN 계열 5곳과 씨씨에스충북방송, 금강방송, 제주방송 등은 종료 계획을 마련하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "과기정통부 관계자는 \\\"시청자 보호를 중점에 두고 아날로그 방송 종료를 진행하고 있다\\\"고 말했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "CJ헬로, 디지털 방송 전환 완료",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

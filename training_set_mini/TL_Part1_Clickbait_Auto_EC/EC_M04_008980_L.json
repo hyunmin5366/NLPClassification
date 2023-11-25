@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008980",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "저축銀 대출금리 사상 최고치",
+		"newsSubTitle": "7월 17.50% 전월보다 2.43%P 올라… 상승폭 최대",
+		"newsContent": "저축은행의 대출 금리가 사상 최대의 상승폭을 기록했다.\n31일 한국은행이 발표한 금융기관 가중평균금리에 따르면, 7월 중 상호저축은행의 대출 금리는 연 17.50%로 지난 6월과 비교해 2.43%포인트 상승했다.\n대출금리가 전월보다 2.43%포인트 오른 것은 2003년 관련 통계를 집계한 이래 처음이다.\n저축은행의 대출 금리는 3월 15.41%, 4월 15.41%, 5월 16.72%로 상승세를 지속하다, 6월 15.07%로 하락해 전월 대비 가장 큰 낙폭(1.65%포인트)을 기록했었다.\n대출 금리가 급등하면서 예대금리차 역시 큰 폭으로 올랐다.\n저축은행의 예금 금리는 전월보다 0.19%포인트 상승한 5.25%로 나타났다.\n5월과 6월 1.8%포인트였던 예대금리차는 12.25%로 올랐다.\n예금은행의 신규취급액 기준 저축성 수신금리는 연 3.79%로 한 달 전과 비교해 0.09%포인트 올랐으며, 대출금리도 연 5.86%로, 0.06%포인트 상승했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "저축은행의 대출 금리가 사상 최대의 상승폭을 기록했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "31일 한국은행이 발표한 금융기관 가중평균금리에 따르면, 7월 중 상호저축은행의 대출 금리는 연 17.50%로 지난 6월과 비교해 2.43%포인트 상승했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대출금리가 전월보다 2.43%포인트 오른 것은 2003년 관련 통계를 집계한 이래 처음이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "저축은행의 대출 금리는 3월 15.41%, 4월 15.41%, 5월 16.72%로 상승세를 지속하다, 6월 15.07%로 하락해 전월 대비 가장 큰 낙폭(1.65%포인트)을 기록했었다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대출 금리가 급등하면서 예대금리차 역시 큰 폭으로 올랐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "저축은행의 예금 금리는 전월보다 0.19%포인트 상승한 5.25%로 나타났다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "5월과 6월 1.8%포인트였던 예대금리차는 12.25%로 올랐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "예금은행의 신규취급액 기준 저축성 수신금리는 연 3.79%로 한 달 전과 비교해 0.09%포인트 올랐으며, 대출금리도 연 5.86%로, 0.06%포인트 상승했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "홍남기 \\\"금리 인상되면 가계·기업부담 커져…고민 필요\\\"(종합)",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

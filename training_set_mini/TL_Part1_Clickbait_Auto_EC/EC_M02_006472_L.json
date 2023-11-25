@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006472",
+		"newsCategory": "경제",
+		"newsSubcategory": "IT·통신",
+		"newsTitle": "초거대 AI가 쓴 시집 나온다",
+		"newsSubTitle": "카카오브레인, KoGPT 활용해 AI 모델, ‘시아’ 개발 주제어 입력하면 맥락 이해 후 창작…53편의 시 생성 슬릿스코프와 협력…문화·예술 분야 접점 지속 탐색",
+		"newsContent": "카카오브레인의 초거대 인공지능(AI) 모델, 시아가 쓴 시집이 출간된다.\n카카오브레인은 AI 기술을 활용한 다양한 문화 콘텐츠를 창작하고자 이번 시집을 기획했다.\n카카오브레인 관계자는 데일리임팩트에 \\\"문화, 예술 분야에서 초거대 AI 모델을 활용할 수 있도록 접점을 탐색할 계획\\\"이라고 말했다.\n시아는 카카오브레인의 초거대 AI 언어 모델 KoGPT를 기반으로 한 시 쓰는 AI 모델이다.\n1만3000여편의 시를 읽으며 작법을 익혔다.\n주제어와 명령어를 입력하면 시아가 맥락을 이해하고 곧바로 시를 짓는다.\n오는 8일 시아의 첫 시집 '시를 쓰는 이유'는 시아의 언어인 디지털 연산을 위한 기계어 0, 1을 주제로, 1부는 개인의 주관적인 부분을, 2부는 객관적인 대상이나 사실을 담았다.\n1부의 주제는 공(0), 2부의 주제는 일(1)로 선정했다.\n영 대신 공으로 표기한 것은 존재와 비존재, 의미와 무의미의 관계를 함께 담고자 하는 카카오브레인과 슬릿스코프의 의도가 담겨있다.\n무의미·비존재(off)의 뜻을 담고 있는 공(0)은 슬릿스코프가 그동안의 작업 노트에서 나온 임의의 표현들을 시상으로 했으며, 의미·존재(on)의 뜻을 담고 있는 일(1)은 수학과 과학을 주제로 했다.\n카카오브레인은 시집 출간을 통해 KoGPT의 무궁무진한 예술적 가능성을 확인한다는 목표다.\n미디어아트 그룹 슬릿스코프와 함께 한 이유도 여기에 있다.\n슬릿스코프는 연출가이자 미디어 아티스트인 김제민과 AI 연구자이자 소프트웨어 개발자인 김근형이 2018년 AI와 예술가들이 즉흥적으로 텍스트를 만들어가는 퍼포먼스 '아이 퀘스천(I Question)'을 작업하면서 시작된 미디어아트 그룹이다.\n이번 프로젝트에서 슬릿스코프는 1만 3000여편의 시를 수집해 카카오브레인의 KoGPT 모델에 추가 학습시켜 시아를 개발했으며, 다양한 시제의 시를 다듬고 53편을 최종 선정하는 역할을 담당했다.\n오는 12일 시집에 수록된 시를 활용해 시극 공연도 진행한다.\n한편, 카카오브레인이 개발한 한국어 특화 초거대 AI 언어 모델 KoGPT는 60억개의 매개변수(파라미터)와 2000억개 토큰의 한국어 데이터를 바탕으로 구축됐다, 한국어를 사전적·문맥적으로 이해하며, 지난해 11월 KoGPT 모델을 오픈소스 커뮤니티 깃허브에 공개했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오브레인의 초거대 인공지능(AI) 모델, 시아가 쓴 시집이 출간된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오브레인은 AI 기술을 활용한 다양한 문화 콘텐츠를 창작하고자 이번 시집을 기획했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카카오브레인 관계자는 데일리임팩트에 \\\"문화, 예술 분야에서 초거대 AI 모델을 활용할 수 있도록 접점을 탐색할 계획\\\"이라고 말했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시아는 카카오브레인의 초거대 AI 언어 모델 KoGPT를 기반으로 한 시 쓰는 AI 모델이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1만3000여편의 시를 읽으며 작법을 익혔다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주제어와 명령어를 입력하면 시아가 맥락을 이해하고 곧바로 시를 짓는다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "오는 8일 시아의 첫 시집 '시를 쓰는 이유'는 시아의 언어인 디지털 연산을 위한 기계어 0, 1을 주제로, 1부는 개인의 주관적인 부분을, 2부는 객관적인 대상이나 사실을 담았다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "1부의 주제는 공(0), 2부의 주제는 일(1)로 선정했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "영 대신 공으로 표기한 것은 존재와 비존재, 의미와 무의미의 관계를 함께 담고자 하는 카카오브레인과 슬릿스코프의 의도가 담겨있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "무의미·비존재(off)의 뜻을 담고 있는 공(0)은 슬릿스코프가 그동안의 작업 노트에서 나온 임의의 표현들을 시상으로 했으며, 의미·존재(on)의 뜻을 담고 있는 일(1)은 수학과 과학을 주제로 했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "카카오브레인은 시집 출간을 통해 KoGPT의 무궁무진한 예술적 가능성을 확인한다는 목표다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "미디어아트 그룹 슬릿스코프와 함께 한 이유도 여기에 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "슬릿스코프는 연출가이자 미디어 아티스트인 김제민과 AI 연구자이자 소프트웨어 개발자인 김근형이 2018년 AI와 예술가들이 즉흥적으로 텍스트를 만들어가는 퍼포먼스 '아이 퀘스천(I Question)'을 작업하면서 시작된 미디어아트 그룹이다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이번 프로젝트에서 슬릿스코프는 1만 3000여편의 시를 수집해 카카오브레인의 KoGPT 모델에 추가 학습시켜 시아를 개발했으며, 다양한 시제의 시를 다듬고 53편을 최종 선정하는 역할을 담당했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "오는 12일 시집에 수록된 시를 활용해 시극 공연도 진행한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "한편, 카카오브레인이 개발한 한국어 특화 초거대 AI 언어 모델 KoGPT는 60억개의 매개변수(파라미터)와 2000억개 토큰의 한국어 데이터를 바탕으로 구축됐다, 한국어를 사전적·문맥적으로 이해하며, 지난해 11월 KoGPT 모델을 오픈소스 커뮤니티 깃허브에 공개했다.",
+				"sentenceSize": 151
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국은행, 28일 금통위서 기준금리 추가 인하 나설까",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,294 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331678",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "AI 반도체 강자 英 '그래프코어' 한국 진출…'IPU' 앞세워 엔비디아와 경쟁",
+		"newsSubTitle": "",
+		"newsContent": "영국 인공지능(AI) 반도체 전문 기업 '그래프코어'가 한국에 진출한다.\n그래프코어는 '지능처리장치(IPU:Intelligence Processing Unit)'라는 반도체로 세계 정보기술(IT)업계에서 주목받는 기업이다.\n시스템반도체 육성에 나선 삼성전자가 주요 투자자로 참여하고 있다.\n마이크로소프트(MS), 델, 보쉬 등도 투자한 곳이다.\n그래프코어의 한국 시장 진입으로 그래픽처리장치(GPU) 중심인 AI 반도체 시장이 본격적인 경쟁 체제로 들어설 것으로 전망된다.\n6일 업계에 따르면 그래프코어는 최근 한국지사를 설립하고 초대 지사장으로 강민우 사장을 선임했다.\n강 사장은 데이터도메인, 블랙아이옵스, 퓨어스토리지 등 주로 외국계 컴퓨팅업계에서 한국 사업을 총괄한 인사다.\n그래프코어는 2016년 영국에서 설립됐다.\n나이절 툰 최고경영자(CEO)와 사이먼 놀스 최고기술책임자(CTO)가 AI 시대와 머신러닝에 특화한 반도체가 필요할 것으로 보고 창업했다.\n이들은 통신 칩 업체인 '아이세라'를 엔비디아에 매각한 바 있는 반도체 전문가다.\n그래프코어가 독자 설계로 만든 IPU는 중앙처리장치(CPU)나 GPU와 달리 프로세서에 직접 메모리(온칩메모리)를 배치한 것이 특징이다.\n학습 및 추론 모델을 메모리에 적재한 후 바로 연산할 수 있게 해 CPU, D램, GPU 간 지연을 제거하고 연산 속도를 향상시켰다.\n그래프코어에 따르면 IPU는 기존 CPU 및 GPU 조합보다 데이터 처리 속도가 10배에서 최대 100배까지 빠르고, GPU보다 전력 사용량이 2배 이상 적어 데이터를 분석해서 컴퓨터 스스로 판단하고 학습할 수 있는 능력인 '머신러닝'에 더 적합하다.\n그래프코어의 IPU는 실제 글로벌 기업 컴퓨팅 시스템에 채택되면서 성능을 인정받고 있다.\n지난해 MS가 '애저'에 그래프코어 IPU를 채택한 게 대표적이다.\nMS는 자사의 핵심인 클라우드 서비스에 신생 기업 반도체를 택했다.\n이 같은 기술력에 힘입어 그래프코어는 삼성전자, MS, 델, BMW, 보쉬 등으로부터 총 3억1000만달러(약 3600억원)를 투자 받았다.\n구체적 액수는 공개되지 않았지만 삼성은 그래프코어에 상당한 비중의 자금을 지원한 것으로 알려졌다.\n한국지사 설립을 통해 그래프코어는 국내 AI 반도체 시장을 공략한다는 계획이다.\n기업 시스템이나 연구소에서 사용하는 데이터센터 등 AI가 필요한 컴퓨팅 시스템에 IPU 공급을 추진할 방침이다.\n이에 따라 국내 AI 반도체 시장은 본격적인 경쟁 체제에 돌입할 것으로 예상된다.\n특히 엔비디아와의 경쟁이 주목된다.\n엔비디아 GPU는 그동안 CPU보다 빠른 병렬 데이터 처리로 AI 분야에서 각광받았다.\n기업용 AI 컴퓨팅에서 엔비디아 GPU가 유일한 솔루션으로 여겨졌다.\n그러나 그래프코어 IPU가 빠르면서 가격 경쟁력도 갖춘 것으로 알려져 판도 변화가 예상된다.\n그래프코어는 정보통신산업진흥원(NIPA)이 추진하고 있는 '2020년 인공지능 고성능 컴퓨팅 자원임차 용역' 프로젝트를 첫 타깃으로 삼았다.\n이 사업은 NIPA가 AI 컴퓨팅 시스템을 구축한 뒤 국내 중견·중소기업에 컴퓨팅 자원을 임대해 주는 프로젝트다.\n그래프코어는 국내 복수의 클라우드 사업자와 협력, 사업 수주에 도전할 방침이다.\n강민우 그래프코어 한국지사장은 “정부 AI 경제 활성화와 발맞춰 한국 AI 기술 강화에 기여하는 것이 최우선 목표”라면서 “빠른 시간 안에 엔터프라이즈 시장에 안정적으로 진입할 수 있도록 조직을 확대하고, 공격적으로 시장을 개척할 방침”이라고 의욕을 내비쳤다.\n한편 툰 그래프코어 CEO는 다음 달 방한, '세미콘 코리아 2020'에서 기조연설을 할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 30,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영국 인공지능(AI) 반도체 전문 기업 '그래프코어'가 한국에 진출한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그래프코어는 '지능처리장치(IPU:Intelligence Processing Unit)'라는 반도체로 세계 정보기술(IT)업계에서 주목받는 기업이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시스템반도체 육성에 나선 삼성전자가 주요 투자자로 참여하고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마이크로소프트(MS), 델, 보쉬 등도 투자한 곳이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그래프코어의 한국 시장 진입으로 그래픽처리장치(GPU) 중심인 AI 반도체 시장이 본격적인 경쟁 체제로 들어설 것으로 전망된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "6일 업계에 따르면 그래프코어는 최근 한국지사를 설립하고 초대 지사장으로 강민우 사장을 선임했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "강 사장은 데이터도메인, 블랙아이옵스, 퓨어스토리지 등 주로 외국계 컴퓨팅업계에서 한국 사업을 총괄한 인사다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그래프코어는 2016년 영국에서 설립됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "나이절 툰 최고경영자(CEO)와 사이먼 놀스 최고기술책임자(CTO)가 AI 시대와 머신러닝에 특화한 반도체가 필요할 것으로 보고 창업했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이들은 통신 칩 업체인 '아이세라'를 엔비디아에 매각한 바 있는 반도체 전문가다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "그래프코어가 독자 설계로 만든 IPU는 중앙처리장치(CPU)나 GPU와 달리 프로세서에 직접 메모리(온칩메모리)를 배치한 것이 특징이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "학습 및 추론 모델을 메모리에 적재한 후 바로 연산할 수 있게 해 CPU, D램, GPU 간 지연을 제거하고 연산 속도를 향상시켰다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "그래프코어에 따르면 IPU는 기존 CPU 및 GPU 조합보다 데이터 처리 속도가 10배에서 최대 100배까지 빠르고, GPU보다 전력 사용량이 2배 이상 적어 데이터를 분석해서 컴퓨터 스스로 판단하고 학습할 수 있는 능력인 '머신러닝'에 더 적합하다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "그래프코어의 IPU는 실제 글로벌 기업 컴퓨팅 시스템에 채택되면서 성능을 인정받고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "지난해 MS가 '애저'에 그래프코어 IPU를 채택한 게 대표적이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "MS는 자사의 핵심인 클라우드 서비스에 신생 기업 반도체를 택했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이 같은 기술력에 힘입어 그래프코어는 삼성전자, MS, 델, BMW, 보쉬 등으로부터 총 3억1000만달러(약 3600억원)를 투자 받았다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "구체적 액수는 공개되지 않았지만 삼성은 그래프코어에 상당한 비중의 자금을 지원한 것으로 알려졌다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "한국지사 설립을 통해 그래프코어는 국내 AI 반도체 시장을 공략한다는 계획이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "기업 시스템이나 연구소에서 사용하는 데이터센터 등 AI가 필요한 컴퓨팅 시스템에 IPU 공급을 추진할 방침이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이에 따라 국내 AI 반도체 시장은 본격적인 경쟁 체제에 돌입할 것으로 예상된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "특히 엔비디아와의 경쟁이 주목된다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "엔비디아 GPU는 그동안 CPU보다 빠른 병렬 데이터 처리로 AI 분야에서 각광받았다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "기업용 AI 컴퓨팅에서 엔비디아 GPU가 유일한 솔루션으로 여겨졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "그러나 그래프코어 IPU가 빠르면서 가격 경쟁력도 갖춘 것으로 알려져 판도 변화가 예상된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "그래프코어는 정보통신산업진흥원(NIPA)이 추진하고 있는 '2020년 인공지능 고성능 컴퓨팅 자원임차 용역' 프로젝트를 첫 타깃으로 삼았다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "이 사업은 NIPA가 AI 컴퓨팅 시스템을 구축한 뒤 국내 중견·중소기업에 컴퓨팅 자원을 임대해 주는 프로젝트다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "그래프코어는 국내 복수의 클라우드 사업자와 협력, 사업 수주에 도전할 방침이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "강민우 그래프코어 한국지사장은 “정부 AI 경제 활성화와 발맞춰 한국 AI 기술 강화에 기여하는 것이 최우선 목표”라면서 “빠른 시간 안에 엔터프라이즈 시장에 안정적으로 진입할 수 있도록 조직을 확대하고, 공격적으로 시장을 개척할 방침”이라고 의욕을 내비쳤다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "한편 툰 그래프코어 CEO는 다음 달 방한, '세미콘 코리아 2020'에서 기조연설을 할 예정이다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AI 반도체 강자 英 '그래프코어' 한국 진출…'IPU' 앞세워 엔비디아와 경쟁",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

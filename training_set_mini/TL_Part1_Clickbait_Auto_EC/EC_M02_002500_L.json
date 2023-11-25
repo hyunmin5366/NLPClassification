@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002500",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "신한은행, AI활용한 업무 편의성 개선 '잰걸음'",
+		"newsSubTitle": "AI 활용 문서 분류 및 정보 추출 자동화 획기적인 사용자 경험 개선 제공 노력",
+		"newsContent": "디지털 트랜스포메이션(Digital Transformation)에 속도를 내고 있는 신한은행이 인공지능(AI)을 활용한 업무 편의성 개선에 한발 더 다가섰다.\n신한은행은 AI를 활용해 은행에서 사용되는 각종 문서의 이미지 정보를 자동으로 판독하는 'AI Vision/OCR 플랫폼'을 구축했다고 15일 밝혔다.\n그 동안 은행의 각종 문서들은 서고에 장기 보관 되거나 비정형 문서의 경우 수많은 인력이 수작업으로 데이터를 입력·처리하는 경우가 많았다.\n이번 'AI Vision/OCR 플랫폼' 개발을 통해 다양한 문서 내의 수많은 정보들을 빠르고 정확하게 데이터화 할 수 있게 됐다. 'AI Vision/OCR 플랫폼'은 AI기반 광학문자인식(OCR·Optical Character Reader· Recognition)엔진을 활용해 은행의 각종 문서와 서식을 자동으로 분류, 문서 내 이미지 정보를 빠르고 정확하게 판독 및 데이터화 할 수 있는 시스템이다.\n이번 플랫폼은 네이버 클로바의 고성능 OCR 솔루션 및 신한DS의 금융서비스 구축 노하우를 바탕으로 개발됐다.\n신한은행은 이번 협업을 통해 문서 내 정보 인식뿐 아니라 은행의 문서 이미지 처리 표준 개발, 은행 내부 시스템 간 연결을 위한 표준화된 연계 모듈 구축까지 완료했다.\n신한은행은 이번 플랫폼을 무역기반 자금세탁방지(Anti-Trade Based Money Laundering)를 위한 외환무역서류 점검 자동화 업무에 처음 적용했다.\n그 결과 수십 종의 무역서류 가운데 필요 점검 대상을 자동 분류하고 발행기관 별로 양식이 상이한 서식으로부터 점검 항목을 자동으로 텍스트화해 점검 속도 및 심사 품질이 크게 향상됐다.\n신한은행 관계자는 미디어SR에 \\\"앞으로도 은행 업무에 특화된 독자적 이미지 인식 모델과 문서 자동화 프로세스 개발을 가속화해 나갈 것\\\"이라며 \\\"특히 이번 플랫폼을 함께 개발한 네이버 클로바와의 협업을 지속해 획기적인 사용자 경험 개선을 이뤄 나가겠다\\\"고 말했다.\n한편 신한은행은 올해 초 은행권 최초로 선보인 클라우드 기반 AI 학습 운영 플랫폼인 '신한 AI 플랫폼(SACP)'을 통해 은행 내에서 딥러닝 및 머신러닝의 오픈소소를 활용하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "디지털 트랜스포메이션(Digital Transformation)에 속도를 내고 있는 신한은행이 인공지능(AI)을 활용한 업무 편의성 개선에 한발 더 다가섰다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신한은행은 AI를 활용해 은행에서 사용되는 각종 문서의 이미지 정보를 자동으로 판독하는 'AI Vision/OCR 플랫폼'을 구축했다고 15일 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그 동안 은행의 각종 문서들은 서고에 장기 보관 되거나 비정형 문서의 경우 수많은 인력이 수작업으로 데이터를 입력·처리하는 경우가 많았다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 'AI Vision/OCR 플랫폼' 개발을 통해 다양한 문서 내의 수많은 정보들을 빠르고 정확하게 데이터화 할 수 있게 됐다. 'AI Vision/OCR 플랫폼'은 AI기반 광학문자인식(OCR·Optical Character Reader· Recognition)엔진을 활용해 은행의 각종 문서와 서식을 자동으로 분류, 문서 내 이미지 정보를 빠르고 정확하게 판독 및 데이터화 할 수 있는 시스템이다.",
+				"sentenceSize": 226
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 플랫폼은 네이버 클로바의 고성능 OCR 솔루션 및 신한DS의 금융서비스 구축 노하우를 바탕으로 개발됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신한은행은 이번 협업을 통해 문서 내 정보 인식뿐 아니라 은행의 문서 이미지 처리 표준 개발, 은행 내부 시스템 간 연결을 위한 표준화된 연계 모듈 구축까지 완료했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신한은행은 이번 플랫폼을 무역기반 자금세탁방지(Anti-Trade Based Money Laundering)를 위한 외환무역서류 점검 자동화 업무에 처음 적용했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그 결과 수십 종의 무역서류 가운데 필요 점검 대상을 자동 분류하고 발행기관 별로 양식이 상이한 서식으로부터 점검 항목을 자동으로 텍스트화해 점검 속도 및 심사 품질이 크게 향상됐다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "신한은행 관계자는 미디어SR에 \\\"앞으로도 은행 업무에 특화된 독자적 이미지 인식 모델과 문서 자동화 프로세스 개발을 가속화해 나갈 것\\\"이라며 \\\"특히 이번 플랫폼을 함께 개발한 네이버 클로바와의 협업을 지속해 획기적인 사용자 경험 개선을 이뤄 나가겠다\\\"고 말했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한편 신한은행은 올해 초 은행권 최초로 선보인 클라우드 기반 AI 학습 운영 플랫폼인 '신한 AI 플랫폼(SACP)'을 통해 은행 내에서 딥러닝 및 머신러닝의 오픈소소를 활용하고 있다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지역 중소 유통시장 설 곳이 없다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

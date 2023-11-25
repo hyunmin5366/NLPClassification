@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349246",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "카카오톡·네이버 자꾸 꺼지네…\\\"안드로이드폰 오류 해결 이렇게\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "삼성전자 갤럭시 스마트폰을 포함한 안드로이드 OS(운영체제) 탑재 스마트폰에서 네이버, 카카오톡 등 일부 앱(애플리케이션)이 강제 종료되는 현상이 나타나고 있다.\n23일 오전 온라인 커뮤니티에는 안드로이드 스마트폰 사용자를 중심으로 일부 앱 실행이 안된다는 불편 글이 계속 올라오고 있다.\n해당 문제는 국내 뿐 아니라 해외에서도 안드로이드 OS가 탑재된 제품에서 다수 발생하는 것으로 보인다.\n오류에 대한 명확한 원인은 밝혀지지 않았지만, 일부 안드로이드 시스템 앱(웹뷰) 최신 버전이 원인으로 지목된다.\n해당 앱을 삭제해 버전을 낮추면 문제가 사라진다는 것. 강제종료 오류를 해소하려면 설정에 들어가 애플리케이션 정보의 안드로이드 시스템 웹뷰(Android System Webview)를 선택해 더 보기에서 삭제(또는 업데이트 삭제)를 누르면 된다.\n사용하는 제품에 따라 웹뷰 애플리케이션이 없는 경우에는 크롬 브라우저를 삭제하면 된다.\n해당 앱을 삭제하더라도 기본앱인 만큼 버전이 낮아질 뿐이어어서 앱을 계속 사용할 수 있다.\n이번 문제는 지난해 아이폰·아이패드에서 발생한 오류와 비슷하다.\n당시 페이스북이 로그인 관련 SDK(소프트웨어개발도구)를 변경하며 관련 기능을 사용하는 모든 앱이 강제종료되는 일이 발생했었다.\n해당 문제는 페이스북이 문제를 수정하며 몇 시간만에 해결됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자 갤럭시 스마트폰을 포함한 안드로이드 OS(운영체제) 탑재 스마트폰에서 네이버, 카카오톡 등 일부 앱(애플리케이션)이 강제 종료되는 현상이 나타나고 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 오전 온라인 커뮤니티에는 안드로이드 스마트폰 사용자를 중심으로 일부 앱 실행이 안된다는 불편 글이 계속 올라오고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 문제는 국내 뿐 아니라 해외에서도 안드로이드 OS가 탑재된 제품에서 다수 발생하는 것으로 보인다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오류에 대한 명확한 원인은 밝혀지지 않았지만, 일부 안드로이드 시스템 앱(웹뷰) 최신 버전이 원인으로 지목된다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 앱을 삭제해 버전을 낮추면 문제가 사라진다는 것. 강제종료 오류를 해소하려면 설정에 들어가 애플리케이션 정보의 안드로이드 시스템 웹뷰(Android System Webview)를 선택해 더 보기에서 삭제(또는 업데이트 삭제)를 누르면 된다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사용하는 제품에 따라 웹뷰 애플리케이션이 없는 경우에는 크롬 브라우저를 삭제하면 된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해당 앱을 삭제하더라도 기본앱인 만큼 버전이 낮아질 뿐이어어서 앱을 계속 사용할 수 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이번 문제는 지난해 아이폰·아이패드에서 발생한 오류와 비슷하다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "당시 페이스북이 로그인 관련 SDK(소프트웨어개발도구)를 변경하며 관련 기능을 사용하는 모든 앱이 강제종료되는 일이 발생했었다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "해당 문제는 페이스북이 문제를 수정하며 몇 시간만에 해결됐다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카카오톡·네이버 자꾸 꺼지네…\\\"안드로이드폰 오류 해결 이렇게\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

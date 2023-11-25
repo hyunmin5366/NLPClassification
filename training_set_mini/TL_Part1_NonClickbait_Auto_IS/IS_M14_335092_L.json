@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335092",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "삼성전자, 미국 체험 매장 임시 휴점",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 북미에서 운영 중인 제품 체험 매장 '삼성 익스피리언스 스토어' 운영을 일시 중단했다.\n미국 내 50개주에서 확진자가 발생하는 등 코로나19가 확산하는데 따른 조치다.\n삼성전자는 17일(현지시간)부터 뉴욕, 휴스턴, 로스앤젤레스, 팔로알토에 위치한 삼성 익스피리언스 스토어 4곳을 임시 휴점했다.\n재개장 일정은 미정이다.\n삼성 익스피리언스 스토어는 갤럭시 5G 제품 체험부터 맞춤형 고객 서비스, 제품 수리, B2B 고객을 위한 비즈니스 솔루션 지원, 사물인터넷(IoT) 생태계 시연 등 삼성전자 혁신을 전파하는 체험형 매장이다.\n미국에서는 직영 형태로 4곳을 개점했으며 유럽 지역에서는 현지 이동통신사와 유통사 파트너십으로 운영되고 있다.\n캐나다에 있는 삼성 익스피리언스 스토어도 이날 임시 휴업에 들어갔다.\n삼성전자 캐나다법인은 “지역 사회와 고객, 임직원을 보호하기 위해 캐나다 전역의 삼성 체험 매장 운영을 중단하기로 했다”며 “삼성전자는 직원과 고객, 파트너 건강과 안전을 최우선으로 고려한다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 북미에서 운영 중인 제품 체험 매장 '삼성 익스피리언스 스토어' 운영을 일시 중단했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 내 50개주에서 확진자가 발생하는 등 코로나19가 확산하는데 따른 조치다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성전자는 17일(현지시간)부터 뉴욕, 휴스턴, 로스앤젤레스, 팔로알토에 위치한 삼성 익스피리언스 스토어 4곳을 임시 휴점했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "재개장 일정은 미정이다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성 익스피리언스 스토어는 갤럭시 5G 제품 체험부터 맞춤형 고객 서비스, 제품 수리, B2B 고객을 위한 비즈니스 솔루션 지원, 사물인터넷(IoT) 생태계 시연 등 삼성전자 혁신을 전파하는 체험형 매장이다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미국에서는 직영 형태로 4곳을 개점했으며 유럽 지역에서는 현지 이동통신사와 유통사 파트너십으로 운영되고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "캐나다에 있는 삼성 익스피리언스 스토어도 이날 임시 휴업에 들어갔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성전자 캐나다법인은 “지역 사회와 고객, 임직원을 보호하기 위해 캐나다 전역의 삼성 체험 매장 운영을 중단하기로 했다”며 “삼성전자는 직원과 고객, 파트너 건강과 안전을 최우선으로 고려한다”고 밝혔다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자, 미국 체험 매장 임시 휴점",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

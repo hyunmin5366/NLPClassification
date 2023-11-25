@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328615",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "[ICT시사용어]전기 임피던스 단층촬영",
+		"newsSubTitle": "",
+		"newsContent": "전기 임피던스 단층촬영(EIT)은 생체에 접촉된 여러 전극 가운데 2개 전극에 수mA 수준 미약한 교류 전류를 가하고, 나머지 전극 사이에 유도된 전압을 측정해서 전기로부터 인체 내부 전기 도전율을 영상화하는 기술이다.\n비침습성에다 방사선을 사용하지 않아 인체에 해가 없는 영상 기법이다.\n일반 의료 분야에서 사용된다.\nEIT는 폐 기능 모니터링, 피부암과 유방암 검출, 간질 병소 위치 검출 등에 응용된다.\n숨을 들이쉴 때 폐 용적이 증가하면서 공기가 폐 안으로 유입된다.\n이때 공기는 전기가 통하지 않는다.\n폐의 도전율은 감소한다.\n인체 내부 도전율 분포 변화로부터 폐의 크기 변화를 알 수 있다.\n유방 X선 조영술과 MRI에 의한 유방암 검출 보조 기술로 사용된다.\n정상 조직과 악성 종양 조직 전기적 특성이 다르게 나타나기 때문에 X선 조영술이나 MRI에 비해 적은 비용으로 진단할 수 있다.\n대뇌 국소빈혈, 출혈, 간질 병소 위치의 검출 및 모니터링 영상과 정상 뇌 기능 및 신경 활동 연구에도 이용된다.\n최근 한국과학기술원(KAIST)은 로봇과 같은 3차원 구조물 표면에 코팅이 가능한 '로봇피부'를 개발했다.\n로봇피부는 압력과 마찰력을 정확하게 구분할 수 있다.\n자극이 발생하는 위치도 구분할 수 있다.\n로봇피부가 자극 위치를 구분하는 건 EIT 덕분이다.\n로봇피부 기공에 마찰이 가해지면 기공 내부에 미세한 균열이 생기면서 전기 저항이 증가한다.\n압력이 가해지면 기공이 닫히면서 전류도 최소화돼 저항 변화가 일어나지 않는다.\n전기 저항이 커지면 마찰, 저항 변화가 없으면 압력으로 각각 인식하는 셈이다.\n기존 로봇피부는 여러 방향 자극에 동일하게 반응했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전기 임피던스 단층촬영(EIT)은 생체에 접촉된 여러 전극 가운데 2개 전극에 수mA 수준 미약한 교류 전류를 가하고, 나머지 전극 사이에 유도된 전압을 측정해서 전기로부터 인체 내부 전기 도전율을 영상화하는 기술이다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "비침습성에다 방사선을 사용하지 않아 인체에 해가 없는 영상 기법이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "일반 의료 분야에서 사용된다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "EIT는 폐 기능 모니터링, 피부암과 유방암 검출, 간질 병소 위치 검출 등에 응용된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "숨을 들이쉴 때 폐 용적이 증가하면서 공기가 폐 안으로 유입된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이때 공기는 전기가 통하지 않는다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "폐의 도전율은 감소한다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인체 내부 도전율 분포 변화로부터 폐의 크기 변화를 알 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "유방 X선 조영술과 MRI에 의한 유방암 검출 보조 기술로 사용된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "정상 조직과 악성 종양 조직 전기적 특성이 다르게 나타나기 때문에 X선 조영술이나 MRI에 비해 적은 비용으로 진단할 수 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "대뇌 국소빈혈, 출혈, 간질 병소 위치의 검출 및 모니터링 영상과 정상 뇌 기능 및 신경 활동 연구에도 이용된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "최근 한국과학기술원(KAIST)은 로봇과 같은 3차원 구조물 표면에 코팅이 가능한 '로봇피부'를 개발했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "로봇피부는 압력과 마찰력을 정확하게 구분할 수 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "자극이 발생하는 위치도 구분할 수 있다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "로봇피부가 자극 위치를 구분하는 건 EIT 덕분이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "로봇피부 기공에 마찰이 가해지면 기공 내부에 미세한 균열이 생기면서 전기 저항이 증가한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "압력이 가해지면 기공이 닫히면서 전류도 최소화돼 저항 변화가 일어나지 않는다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "전기 저항이 커지면 마찰, 저항 변화가 없으면 압력으로 각각 인식하는 셈이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "기존 로봇피부는 여러 방향 자극에 동일하게 반응했다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[ICT시사용어]전기 임피던스 단층촬영",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

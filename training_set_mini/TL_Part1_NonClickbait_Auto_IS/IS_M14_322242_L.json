@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322242",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "네이버, AI 문자인식 세계 1위… 中 알리바바 보다 한 수 위",
+		"newsSubTitle": "",
+		"newsContent": "네이버 인공지능(AI) 문자인식 기술이 세계 최고 수준에 올랐다.\n네이버는 국제패턴인식협회(IAPR)가 개최하는 문자인식 경연대회인 'ICDAR 2013 challenge'에서 지난 7일 기준 94.02% 점수로 세계 기록을 갈아치웠다.\n인공지능 연구 조직인 클로바AI팀 내 '비전(Vision)·광학문자판독(OCR)팀'이 인식 작업(detection task)에서 1위였던 중국 알리바바를 0.72%포인트 차이로 넘어섰다.\n세계 최대 컴퓨터 비전·패턴 인식 콘퍼런스인 'CVPR'에 올 1월 중국 'FOTS'가 제출한 논문 점수 92.50%와 비교해도 1.52%포인트 높다.\n이에 따라 4월 93.30% 점수를 받은 알리바바는 2위, 2017년 11월 93.2%를 기록한 텐센트는 3위로 밀려났다.\n이 팀은 기존 방법과 달리 글자별로 인식한 다음에 합치는 방식을 썼다고 네이버 측은 설명했다.\nOCR은 문자 이미지를 스캐너로 인식, 기계가 읽을 수 있는 문자로 변환하는 기술이다.\n스마트폰 카메라로 길거리 간판이나 문서를 찍어 관련 정보를 얻는 서비스가 대표적이다.\n텍스트 이미지를 촬영해 문자로 읽거나 데이터로 전환할 수 있어 활용분야가 넓다.\n네이버는 올 1분기에만 AI 관련 인력을 1500명 이상 영입했다.\n세계 기록을 경신한 이 팀 연구진도 삼성 출신이 다수다.\n지난 2월에는 네이버서치와 클로바 조직을 통합해 AI 기반 검색기술을 개발하는 서치앤클로바를 출범시켰다.\n두달 후에는 '네이버·라인-홍콩과학기술대학 AI 연구소'를 홍콩과기대에 설립했다.\n네이버 관계자는 “OCR은 인식, 이미지 처리, 언어 모델로 딥러닝 모델 총아라 할 수 있다”면서 “이 분야에서 네이버는 세계 최고를 달리고 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버 인공지능(AI) 문자인식 기술이 세계 최고 수준에 올랐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버는 국제패턴인식협회(IAPR)가 개최하는 문자인식 경연대회인 'ICDAR 2013 challenge'에서 지난 7일 기준 94.02% 점수로 세계 기록을 갈아치웠다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인공지능 연구 조직인 클로바AI팀 내 '비전(Vision)·광학문자판독(OCR)팀'이 인식 작업(detection task)에서 1위였던 중국 알리바바를 0.72%포인트 차이로 넘어섰다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세계 최대 컴퓨터 비전·패턴 인식 콘퍼런스인 'CVPR'에 올 1월 중국 'FOTS'가 제출한 논문 점수 92.50%와 비교해도 1.52%포인트 높다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 4월 93.30% 점수를 받은 알리바바는 2위, 2017년 11월 93.2%를 기록한 텐센트는 3위로 밀려났다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 팀은 기존 방법과 달리 글자별로 인식한 다음에 합치는 방식을 썼다고 네이버 측은 설명했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "OCR은 문자 이미지를 스캐너로 인식, 기계가 읽을 수 있는 문자로 변환하는 기술이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스마트폰 카메라로 길거리 간판이나 문서를 찍어 관련 정보를 얻는 서비스가 대표적이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "텍스트 이미지를 촬영해 문자로 읽거나 데이터로 전환할 수 있어 활용분야가 넓다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "네이버는 올 1분기에만 AI 관련 인력을 1500명 이상 영입했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "세계 기록을 경신한 이 팀 연구진도 삼성 출신이 다수다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "지난 2월에는 네이버서치와 클로바 조직을 통합해 AI 기반 검색기술을 개발하는 서치앤클로바를 출범시켰다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "두달 후에는 '네이버·라인-홍콩과학기술대학 AI 연구소'를 홍콩과기대에 설립했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "네이버 관계자는 “OCR은 인식, 이미지 처리, 언어 모델로 딥러닝 모델 총아라 할 수 있다”면서 “이 분야에서 네이버는 세계 최고를 달리고 있다”고 말했다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버, AI 문자인식 세계 1위… 中 알리바바 보다 한 수 위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

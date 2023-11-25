@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328812",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "백악관 \\\"반도체 화상회의, 결정이나 발표 사항 나올 자리는 아냐\\\"... 최시영 삼성전자 사장 참석",
+		"newsSubTitle": "",
+		"newsContent": "백악관은 12일(현지시간) 19개 글로벌 IT 기업 CEO와 진행한 반도체 화상 회의에 관해 \\\"결정이나 발표사항이 나올 자리는 아니다\\\"라고 밝혔다.\n젠 사키 백악관 대변인은 이날 브리핑에서 조 바이든 대통령이 업계 의견을 직접 들어보기 위해 회의에 참석하는 것이라고 설명했다.\n백악관은 이날 제이크 설리번 국가안보보좌관과 브라이언 디스 국가경제위원회(NEC) 위원장 주재로 세계적 반도체 칩 품귀 사태 대응을 위한 회의를 소집했다.\n지난 2월 행정 명령에 서명으로 반도체 공급망 재편을 선언했던 바이든 대통령도 잠시 들르는 것으로 일정이 계획됐다.\n백악관이 공개한 참석 업체 명단에는 구글 모회사 알파벳의 순다르 피차이 최고경영자(CEO)와 메리 배라 제너럴 모터스 CEO 등 19개 업체가 포함됐다.\n삼성전자에서는 파운드리 사업을 총괄하는 최시영 사장이 이름을 올렸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "백악관은 12일(현지시간) 19개 글로벌 IT 기업 CEO와 진행한 반도체 화상 회의에 관해 \\\"결정이나 발표사항이 나올 자리는 아니다\\\"라고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "젠 사키 백악관 대변인은 이날 브리핑에서 조 바이든 대통령이 업계 의견을 직접 들어보기 위해 회의에 참석하는 것이라고 설명했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "백악관은 이날 제이크 설리번 국가안보보좌관과 브라이언 디스 국가경제위원회(NEC) 위원장 주재로 세계적 반도체 칩 품귀 사태 대응을 위한 회의를 소집했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 2월 행정 명령에 서명으로 반도체 공급망 재편을 선언했던 바이든 대통령도 잠시 들르는 것으로 일정이 계획됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "백악관이 공개한 참석 업체 명단에는 구글 모회사 알파벳의 순다르 피차이 최고경영자(CEO)와 메리 배라 제너럴 모터스 CEO 등 19개 업체가 포함됐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자에서는 파운드리 사업을 총괄하는 최시영 사장이 이름을 올렸다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "백악관 \\\"반도체 화상회의, 결정이나 발표 사항 나올 자리는 아냐\\\"... 최시영 삼성전자 사장 참석",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

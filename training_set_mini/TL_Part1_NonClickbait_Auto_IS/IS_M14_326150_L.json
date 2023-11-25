@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326150",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "LH, 층간소음 윗집에 앱으로 실시간 경고",
+		"newsSubTitle": "",
+		"newsContent": "한국토지주택공사(LH)는 '층간소음 소통시스템' 개발에 착수했다고 3일 밝혔다.\nLH 산하 토지주택연구원이 개발하는 이 시스템은 층간소음 감지장치와 정보관리 서버, 애플리케이션 세 부분으로 이뤄진다.\n감지장치는 진동 센서를 통해 위층의 충격진동을 24시간 측정하고 통신(와이파이)을 통해 충격진동데이터를 서버로 전송한다.\n서버는 수신된 정보를 분석해 소음 발생 가구를 확인, 스마트폰 앱을 통해 해당 주민에게 경보를 발송한다.\n앱은 아래층 주민이 위층에 본인이 원하는 소음 관리 수준을 전달할 수도 있는 양방향 통신을 지원한다.\n이렇게 되면 해당 주민들은 일정 수준 이상 층간소음이 발생했을 때 스마트폰을 통해 경고를 주고 받을 수 있다.\n연구원은 층간소음 감지장치 100여대를 생산하고 상반기 80가구를 선정해 이 시스템을 적용하는 시범사업을 벌일 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국토지주택공사(LH)는 '층간소음 소통시스템' 개발에 착수했다고 3일 밝혔다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LH 산하 토지주택연구원이 개발하는 이 시스템은 층간소음 감지장치와 정보관리 서버, 애플리케이션 세 부분으로 이뤄진다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "감지장치는 진동 센서를 통해 위층의 충격진동을 24시간 측정하고 통신(와이파이)을 통해 충격진동데이터를 서버로 전송한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서버는 수신된 정보를 분석해 소음 발생 가구를 확인, 스마트폰 앱을 통해 해당 주민에게 경보를 발송한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앱은 아래층 주민이 위층에 본인이 원하는 소음 관리 수준을 전달할 수도 있는 양방향 통신을 지원한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이렇게 되면 해당 주민들은 일정 수준 이상 층간소음이 발생했을 때 스마트폰을 통해 경고를 주고 받을 수 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구원은 층간소음 감지장치 100여대를 생산하고 상반기 80가구를 선정해 이 시스템을 적용하는 시범사업을 벌일 방침이다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LH, 층간소음 윗집에 앱으로 실시간 경고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

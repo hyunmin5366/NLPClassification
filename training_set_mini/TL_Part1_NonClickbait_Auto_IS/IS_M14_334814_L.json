@@ -1,0 +1,249 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334814",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[보안 미래, 스타트업에서 찾다]<3>큐비트시큐리티 '프루라(PLURA)'",
+		"newsSubTitle": "",
+		"newsContent": "큐비트시큐리티(대표 신승민)는 웹로그 분석 해킹 탐지 서비스 '프루라(PLURA)'를 개발·서비스한다.\n프루라는 웹 방화벽을 우회해 들어온 공격을 로그로 남기게 해 웹 공격을 탐지한다.\n해커 서버 접근 여부를 실시간으로 감지한다.\n최근 발생하는 해킹 80%는 웹서버를 통한다.\n랜섬웨어 감염 경로는 66%가 인터넷으로 공격했다.\n지난해 발생한 온·오프라인 연계(O2O)서비스 기업 해킹도 웹사이트 취약점을 타고 들어왔다.\n해킹으로 이용고객에게는 수천건 달하는 '협박성 음란문자'(SMS)가 전달됐다.\n해킹 방지 프로그램이 없는 것은 아니다.\n다만 기존 위협 탐지 방법은 외부에서 유입되는 공격 시그니처를 분석해 위협을 탐지하는 방향에 집중됐다.\n내부 PC 대상, 패턴 우회, 지능형지속위협(APT) 공격에 취약하다.\n새로운 유형 공격이 발생하면 패킷을 분석해 시그니처를 배포해야 하기 때문에 신속한 대응도 어렵다.\n큐비트시큐리티는 해킹을 탐지하기 위해 로그에 집중했다.\n로그 분석으로 정상 사용자인지 악의적 사용자인지를 안다.\n기존 제품은 로그분석이 제대로 이뤄지지 않았다.\n수집하는 로그는 대부분 고객이 어떤 제품을 선택하고 어떤 상황에 오래 머무는지 상업적 용도로만 선택 수집됐다.\n로그분석이 방대한 데이터를 포함하고 있을 뿐 아니라 복잡했다.\n신승민 대표는 “대부분 해킹이 웹서버 통해 시작되기 때문에 방화벽을 세우지만 APT, 우회 공격에는 속수무책”이라면서 “악성코드 데이터베이스(DB)를 만들고 사후 대책을 세우는 것이 아니라 로그분석으로 활동 자체를 잡아낸다”고 말했다.\n프루라는 모든 웹 로그를 기록한다.\n기록된 로그는 자체 엔진과 인공지능(AI) 시스템으로 악의적 사용자를 분석한다.\n오픈소프 웹 애플리케이션 보안 프로젝트(OWASP) 톱10으로 선정된 위협분석을 먼저 자동 탐지한다.\n큐비트시큐리티는 지난해 말 AI시스템을 도입했다.\n자체 엔진으로 로그 1차 분석을 거친 뒤 2차 AI분석을 실시한다.\n최근 금융권에 '프루라' 공급에 성공했다.\n다음 달 도쿄사무소를 열고 해외진출도 시작한다.\n신 대표는 “일본 현지 파트너와 미팅을 갖는 등 일본 시장 진출에 공을 들였다”면서 “올해 금융권 중심으로 공급사례를 확대하고 해외시장 진출로 매출 규모를 키우겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 25,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "큐비트시큐리티(대표 신승민)는 웹로그 분석 해킹 탐지 서비스 '프루라(PLURA)'를 개발·서비스한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프루라는 웹 방화벽을 우회해 들어온 공격을 로그로 남기게 해 웹 공격을 탐지한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해커 서버 접근 여부를 실시간으로 감지한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 발생하는 해킹 80%는 웹서버를 통한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "랜섬웨어 감염 경로는 66%가 인터넷으로 공격했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해 발생한 온·오프라인 연계(O2O)서비스 기업 해킹도 웹사이트 취약점을 타고 들어왔다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해킹으로 이용고객에게는 수천건 달하는 '협박성 음란문자'(SMS)가 전달됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해킹 방지 프로그램이 없는 것은 아니다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "다만 기존 위협 탐지 방법은 외부에서 유입되는 공격 시그니처를 분석해 위협을 탐지하는 방향에 집중됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "내부 PC 대상, 패턴 우회, 지능형지속위협(APT) 공격에 취약하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "새로운 유형 공격이 발생하면 패킷을 분석해 시그니처를 배포해야 하기 때문에 신속한 대응도 어렵다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "큐비트시큐리티는 해킹을 탐지하기 위해 로그에 집중했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "로그 분석으로 정상 사용자인지 악의적 사용자인지를 안다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "기존 제품은 로그분석이 제대로 이뤄지지 않았다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "수집하는 로그는 대부분 고객이 어떤 제품을 선택하고 어떤 상황에 오래 머무는지 상업적 용도로만 선택 수집됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "로그분석이 방대한 데이터를 포함하고 있을 뿐 아니라 복잡했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "신승민 대표는 “대부분 해킹이 웹서버 통해 시작되기 때문에 방화벽을 세우지만 APT, 우회 공격에는 속수무책”이라면서 “악성코드 데이터베이스(DB)를 만들고 사후 대책을 세우는 것이 아니라 로그분석으로 활동 자체를 잡아낸다”고 말했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "프루라는 모든 웹 로그를 기록한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "기록된 로그는 자체 엔진과 인공지능(AI) 시스템으로 악의적 사용자를 분석한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "오픈소프 웹 애플리케이션 보안 프로젝트(OWASP) 톱10으로 선정된 위협분석을 먼저 자동 탐지한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "큐비트시큐리티는 지난해 말 AI시스템을 도입했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "자체 엔진으로 로그 1차 분석을 거친 뒤 2차 AI분석을 실시한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "최근 금융권에 '프루라' 공급에 성공했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "다음 달 도쿄사무소를 열고 해외진출도 시작한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "신 대표는 “일본 현지 파트너와 미팅을 갖는 등 일본 시장 진출에 공을 들였다”면서 “올해 금융권 중심으로 공급사례를 확대하고 해외시장 진출로 매출 규모를 키우겠다”고 말했다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[보안 미래, 스타트업에서 찾다]<3>큐비트시큐리티 '프루라(PLURA)'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

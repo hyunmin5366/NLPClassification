@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017842",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "ETRI 연구진, AI 영상압축 대회서 세계 1·2위 성과",
+		"newsSubTitle": "",
+		"newsContent": "주어진 사진에 기존 압축 기술 VVC(Versatile Video Coding)를 적용한 뒤 ETRI-PQE을 적용해 화질을 개선한 사진. ETRI제공국내 영상압축 기술이 세계적 수준까지 도달했다.\n국내 연구진이 인공지능(AI)을 이용해 영상 압축 기술력을 겨루는 국제경진대회에서 우수한 성적을 거뒀다.\n기존 MPEG·HEVC 등 국제표준 압축 기술에 이어 진화하는 미디어 콘텐츠를 효율적으로 이용할 수 있는 인프라 기술 개선 가능성을 전 세계에 입증했다는 평가다.\n18일 한국전자통신연구원(ETRI)에 따르면 세계적 컴퓨터비전 관련 학회 CVPR이 지난 14일(현지시각) 미국 시애틀에서 온라인 개최한 인공지능 기반 영상 압축 기술 경진 대회(CLIC)에서 김연희(팀명 ETRI EIC-PQE)·이주영(팀명 ETRI EIC-E2E-P) 선임연구원이 각각 세계 1위와 2위로 입상했다.\n올해로 3회째를 맞이하는 CLIC 대회는 구글·페이스북·넷플릭스 등 세계 유수의 기관들이 주관하고 후원하는 인공지능 기반 영상 압축 기술 관련 유일한 대회다.\n이번 대회엔 전 세계 55개 팀이 참가했다.\nETRI-E2E-P 기술과 기존 압축 기술 간 화질을 비교한 사진 (기존 기술 사진 왼쪽, ETRI 기술 사진 오른쪽). ETRI 제공대회 심사 부문은 ▲저비트율 영상 압축 ▲비디오 압축 두 개 분야로 ETRI는 저비트율 영상 압축 부문에 두 팀이 참가해 전 세계 기업·대학 연합팀들과 기술력을 겨뤘다.\nETRI가 참가한 저비트율 영상 압축 분야는 HD부터 4K 해상도의 다양한 자연 영상 428개를 화소당 0.15 비트율(bpp) 이하로 압축한 뒤 다시 이를 복원한 결과물의 화질 수준을 경쟁하는 방식으로 이뤄진다.\n원본 영상은 평균 24비트율을 지녀 기존보다 최대 160분의 1 크기로 용량을 줄이면서도 화질을 떨어트리지 않는 것이 관건이다.\n김연희 선임연구원은 기존 영상 압축 기술에 화질을 개선하기 위한 후처리 기술에 AI를 적용한 방식을 사용했으며 이주영 선임연구원은 영상 압축 전 과정에 처음부터 AI를 도입한 방식으로 출전했다.\nETRI는 이번 참가 팀이 모두 우수한 결과를 내면서 각 기술은 상호 보완을 이루며 차세대 영상 압축 기술 진보를 이룰 것으로 내다봤다.\n연구진은 해당 기술들을 차세대 비디오 부호화 국제표준 원천기술로 제정하기 위한 노력도 진행할 계획이다.\n김흥묵 ETRI 미디어연구본부장은 \\\"홀로그램, 라이트 필드, 포인트 클라우드 등 입체 영상의 시대가 도래하면서 기존 방식으로는 한계가 있던 분야에서 AI를 활용해 차세대 미디어 콘텐츠 확산을 이루는 기반 기술을 더 적극적으로 연구해 나가겠다\\\"고 말했다.\n한편 ETRI는 1976년 12월 국가의 신가치 창출·산업경쟁력 강화·신시장 개척 등 국가의 국력신장에 이바지하기 위해 설립됐으며 '미래사회를 만들어가는 국가 지능화 종합 연구기관'을 비전으로 정보통신을 포함한 광범위한 디지털 혁신기술을 연구개발을 수행하는 정부 출연연구원이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "주어진 사진에 기존 압축 기술 VVC(Versatile Video Coding)를 적용한 뒤 ETRI-PQE을 적용해 화질을 개선한 사진. ETRI제공국내 영상압축 기술이 세계적 수준까지 도달했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 연구진이 인공지능(AI)을 이용해 영상 압축 기술력을 겨루는 국제경진대회에서 우수한 성적을 거뒀다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 MPEG·HEVC 등 국제표준 압축 기술에 이어 진화하는 미디어 콘텐츠를 효율적으로 이용할 수 있는 인프라 기술 개선 가능성을 전 세계에 입증했다는 평가다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "18일 한국전자통신연구원(ETRI)에 따르면 세계적 컴퓨터비전 관련 학회 CVPR이 지난 14일(현지시각) 미국 시애틀에서 온라인 개최한 인공지능 기반 영상 압축 기술 경진 대회(CLIC)에서 김연희(팀명 ETRI EIC-PQE)·이주영(팀명 ETRI EIC-E2E-P) 선임연구원이 각각 세계 1위와 2위로 입상했다.",
+				"sentenceSize": 178
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올해로 3회째를 맞이하는 CLIC 대회는 구글·페이스북·넷플릭스 등 세계 유수의 기관들이 주관하고 후원하는 인공지능 기반 영상 압축 기술 관련 유일한 대회다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 대회엔 전 세계 55개 팀이 참가했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "ETRI-E2E-P 기술과 기존 압축 기술 간 화질을 비교한 사진 (기존 기술 사진 왼쪽, ETRI 기술 사진 오른쪽). ETRI 제공대회 심사 부문은 ▲저비트율 영상 압축 ▲비디오 압축 두 개 분야로 ETRI는 저비트율 영상 압축 부문에 두 팀이 참가해 전 세계 기업·대학 연합팀들과 기술력을 겨뤘다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "ETRI가 참가한 저비트율 영상 압축 분야는 HD부터 4K 해상도의 다양한 자연 영상 428개를 화소당 0.15 비트율(bpp) 이하로 압축한 뒤 다시 이를 복원한 결과물의 화질 수준을 경쟁하는 방식으로 이뤄진다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "원본 영상은 평균 24비트율을 지녀 기존보다 최대 160분의 1 크기로 용량을 줄이면서도 화질을 떨어트리지 않는 것이 관건이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "김연희 선임연구원은 기존 영상 압축 기술에 화질을 개선하기 위한 후처리 기술에 AI를 적용한 방식을 사용했으며 이주영 선임연구원은 영상 압축 전 과정에 처음부터 AI를 도입한 방식으로 출전했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ETRI는 이번 참가 팀이 모두 우수한 결과를 내면서 각 기술은 상호 보완을 이루며 차세대 영상 압축 기술 진보를 이룰 것으로 내다봤다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "연구진은 해당 기술들을 차세대 비디오 부호화 국제표준 원천기술로 제정하기 위한 노력도 진행할 계획이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "김흥묵 ETRI 미디어연구본부장은 \\\"홀로그램, 라이트 필드, 포인트 클라우드 등 입체 영상의 시대가 도래하면서 기존 방식으로는 한계가 있던 분야에서 AI를 활용해 차세대 미디어 콘텐츠 확산을 이루는 기반 기술을 더 적극적으로 연구해 나가겠다\\\"고 말했다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한편 ETRI는 1976년 12월 국가의 신가치 창출·산업경쟁력 강화·신시장 개척 등 국가의 국력신장에 이바지하기 위해 설립됐으며 '미래사회를 만들어가는 국가 지능화 종합 연구기관'을 비전으로 정보통신을 포함한 광범위한 디지털 혁신기술을 연구개발을 수행하는 정부 출연연구원이다.",
+				"sentenceSize": 155
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KB금융, 혁신금융 102% 달성...윤종규 \\\"혁신기업 육성으로 새 시장 찾자\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334479",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "해커 호구 '대한민국'...랜섬웨어 등 '한국'만 노려",
+		"newsSubTitle": "",
+		"newsContent": "한국만 노리는 바이러스가 극성이다.\n해당 바이러스는 한국어 윈도에서만 작동하거나 국내 사용자가 많은 애드웨어 프로그램을 통해 감염되는 랜섬웨어다. 9월 초 올크라이에 이어 매그니베르(마이랜섬), 에레버스까지 한국 사용자가 주요 표적이다.\n파이어아이코리아는 한국을 집중 공격하는 매그니베르 랜섬웨어 공격을 경고했다.\n하우리와 이스트소프트 등 국내 기업은 해당 랜섬웨어를 '마이랜섬'으로 진단했다.\n매그니베르는 매그니튜드와 케르베르 랜섬웨어 합성어다.\n케르베르 랜섬웨어에서 변형돼 매그니튜드 익스플로이트 킷으로 유포되는 새로운 종류다.\n파이어아이는 지난 15일 이후 해당 랜섬웨어가 한국만 공격한다고 밝혔다.\n온라인 광고를 이용해 악성코드를 유포하는 멀버타이징 형태로 감염된다.\n윈도 업데이트가 안 된 PC가 웹사이트에 방문만 해도 걸리는 드라이브 바이 다운로드 방식이다.\n해당 랜섬웨어는 운용체계(OS)가 한국어인 경우에만 실행한다. 21일부터 주말 사이에 감염자가 급증했다.\n9월 말 추석 연휴 시작과 함께 등장한 '올크라이'도 한국 사용자만을 겨냥한 랜섬웨어다.\n올크라이는 지난달 26일 첫 등장해 국내에만 피해를 줬지만 최근 변종이 제작됐다.\n올크라이는 한국에서만 쓰는 특정 웹하드 설치 프로그램과 불필요한 잠재 프로그램(PUP) 등을 변조, 사용자 몰래 유포된다.\n해당 웹하드의 프로그램 서비스를 이용하거나 불필요한 제휴, 스폰서 프로그램이 설치된 사용자가 올크라이 랜섬웨어에 노출됐다.\nPC 사용자가 아무런 행동을 취하지 않아도 웹하드 프로그램과 PUP가 설치돼 있으면 자동 감염된다.\n올크라이는 문서 파일뿐만 아니라 실행파일(EXE)까지 암호화한다.\n이스트시큐리티는 해당 랜섬웨어 변종이 최근 포착돼 유포 가능성에 촉각을 세우고 있다.\n5월 인터넷나야나 서버를 감염시켜 13억원에 이르는 몸값을 받아간 '에레버스'도 한국만 표적한 랜섬웨어다.\n에레버스는 본래 윈도용으로 개발했지만 인터넷나야나를 감염시킨 건 리눅스 버전이다.\n리눅스 에레버스 랜섬웨어는 오직 한국에서만 감염 사례가 나왔다.\n최상명 하우리 실장은 \\\"한국이 비트코인 거래가 활발한 데다 랜섬웨어 감염 시 몸값을 준 사례가 많아 해커의 표적이 됐다\\\"고 분석했다.\n전수홍 파이어아이코리아 대표는 \\\"랜섬웨어는 기업에 중대한 위협이다. 오래된 소프트웨어(SW) 버전을 사용하거나 광고 차단기(ad blocker)를 쓰지 않는 사용자가 주로 공격을 받는다\\\"면서 \\\"최신 보안 업데이트와 불필요한 프로그램을 내려 받지 않도록 해야 한다\\\"고 당부했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국만 노리는 바이러스가 극성이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해당 바이러스는 한국어 윈도에서만 작동하거나 국내 사용자가 많은 애드웨어 프로그램을 통해 감염되는 랜섬웨어다. 9월 초 올크라이에 이어 매그니베르(마이랜섬), 에레버스까지 한국 사용자가 주요 표적이다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "파이어아이코리아는 한국을 집중 공격하는 매그니베르 랜섬웨어 공격을 경고했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하우리와 이스트소프트 등 국내 기업은 해당 랜섬웨어를 '마이랜섬'으로 진단했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "매그니베르는 매그니튜드와 케르베르 랜섬웨어 합성어다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "케르베르 랜섬웨어에서 변형돼 매그니튜드 익스플로이트 킷으로 유포되는 새로운 종류다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "파이어아이는 지난 15일 이후 해당 랜섬웨어가 한국만 공격한다고 밝혔다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온라인 광고를 이용해 악성코드를 유포하는 멀버타이징 형태로 감염된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "윈도 업데이트가 안 된 PC가 웹사이트에 방문만 해도 걸리는 드라이브 바이 다운로드 방식이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "해당 랜섬웨어는 운용체계(OS)가 한국어인 경우에만 실행한다. 21일부터 주말 사이에 감염자가 급증했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "9월 말 추석 연휴 시작과 함께 등장한 '올크라이'도 한국 사용자만을 겨냥한 랜섬웨어다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "올크라이는 지난달 26일 첫 등장해 국내에만 피해를 줬지만 최근 변종이 제작됐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "올크라이는 한국에서만 쓰는 특정 웹하드 설치 프로그램과 불필요한 잠재 프로그램(PUP) 등을 변조, 사용자 몰래 유포된다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "해당 웹하드의 프로그램 서비스를 이용하거나 불필요한 제휴, 스폰서 프로그램이 설치된 사용자가 올크라이 랜섬웨어에 노출됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "PC 사용자가 아무런 행동을 취하지 않아도 웹하드 프로그램과 PUP가 설치돼 있으면 자동 감염된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "올크라이는 문서 파일뿐만 아니라 실행파일(EXE)까지 암호화한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이스트시큐리티는 해당 랜섬웨어 변종이 최근 포착돼 유포 가능성에 촉각을 세우고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "5월 인터넷나야나 서버를 감염시켜 13억원에 이르는 몸값을 받아간 '에레버스'도 한국만 표적한 랜섬웨어다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "에레버스는 본래 윈도용으로 개발했지만 인터넷나야나를 감염시킨 건 리눅스 버전이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "리눅스 에레버스 랜섬웨어는 오직 한국에서만 감염 사례가 나왔다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "최상명 하우리 실장은 \\\"한국이 비트코인 거래가 활발한 데다 랜섬웨어 감염 시 몸값을 준 사례가 많아 해커의 표적이 됐다\\\"고 분석했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "전수홍 파이어아이코리아 대표는 \\\"랜섬웨어는 기업에 중대한 위협이다. 오래된 소프트웨어(SW) 버전을 사용하거나 광고 차단기(ad blocker)를 쓰지 않는 사용자가 주로 공격을 받는다\\\"면서 \\\"최신 보안 업데이트와 불필요한 프로그램을 내려 받지 않도록 해야 한다\\\"고 당부했다.",
+				"sentenceSize": 158
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "해커 호구 '대한민국'...랜섬웨어 등 '한국'만 노려",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

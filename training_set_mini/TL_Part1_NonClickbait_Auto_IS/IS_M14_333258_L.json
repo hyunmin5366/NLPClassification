@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333258",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[올해의 인물]구현모 KT 대표",
+		"newsSubTitle": "",
+		"newsContent": "12년 만에 KT 내부 출신 최고경영자(CEO)로서 구현모 대표는 3월 취임 이후 근본적 혁신을 진두지휘했다.\n구 대표는 KT의 새로운 정체성을 제시했다.\n통신기업(텔코)에서 디지털 플랫폼 기업(디지코)으로 변신이다.\n디지털 플랫폼 기업은 통신을 기반으로, 미디어와 B2B 사업, 금융 등 디지털 기반 산업을 융합해 다른 산업 혁신을 이끌고 고객 삶을 변화시키겠다는 KT의 새로운 지향점이다.\n이를 위해 인공지능(AI), 빅데이터, 클라우드 등 ABC 역량을 강화하는 한편 현대중공업·LG전자·KAIST 등과 협력한 'AI 원팀', 산학연 19개 기업·기관·대학과 협력한 '클라우드 원팀' 결성을 주도했다.\n새해 구 대표는 KT 지속 성장과 기업 가치 향상은 물론이고, AI·5G 기반 디지털 혁신(DX)을 주도해 다른 산업 혁신을 선도하고 궁극적으로 대한민국 정보통신기술(ICT) 미래를 설계하기 위한 실행 전략을 본격 가동한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "12년 만에 KT 내부 출신 최고경영자(CEO)로서 구현모 대표는 3월 취임 이후 근본적 혁신을 진두지휘했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구 대표는 KT의 새로운 정체성을 제시했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "통신기업(텔코)에서 디지털 플랫폼 기업(디지코)으로 변신이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "디지털 플랫폼 기업은 통신을 기반으로, 미디어와 B2B 사업, 금융 등 디지털 기반 산업을 융합해 다른 산업 혁신을 이끌고 고객 삶을 변화시키겠다는 KT의 새로운 지향점이다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 위해 인공지능(AI), 빅데이터, 클라우드 등 ABC 역량을 강화하는 한편 현대중공업·LG전자·KAIST 등과 협력한 'AI 원팀', 산학연 19개 기업·기관·대학과 협력한 '클라우드 원팀' 결성을 주도했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "새해 구 대표는 KT 지속 성장과 기업 가치 향상은 물론이고, AI·5G 기반 디지털 혁신(DX)을 주도해 다른 산업 혁신을 선도하고 궁극적으로 대한민국 정보통신기술(ICT) 미래를 설계하기 위한 실행 전략을 본격 가동한다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[올해의 인물]구현모 KT 대표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

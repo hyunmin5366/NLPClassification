@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005585",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "현대차, 반도체 공급난에 4월 판매 부진…전년比 11.6%↓",
+		"newsSubTitle": "전 세계 시장서 총 30만8788대 판매",
+		"newsContent": "현대자동차가 차량용 반도체 수급 차질에 지난 4월 판매량이 하락했다.\n현대차는 지난달 국내 5만9415대, 해외 24만9373대 등 글로벌 시장에서 총 30만8788대를 판매했다고 2일 발표했다.\n이는 전년 동기 대비 국내 15.4%, 해외 10.6% 줄어든 수치다.\n차종별로는 국내 시장에서 세단 그랜저가 5192대, 쏘나타 4165대, 아반떼 6382대 등 총 1만5761대가 팔렸다.\nRV는 팰리세이드 4461대, 싼타페 1997대, 투싼 4175대, 아이오닉5 2963대, 캐스퍼 3420대 등 총 1만9873대가 팔렸다.\n포터는 8423대, 스타리아는 2387대 판매를 기록했다.\n중대형 버스와 트럭은 1681대 판매됐다.\n프리미엄 브랜드 제네시스는 G80 4023대, GV80 1753대, GV70 2100대, GV60 796대 등 총 1만1290대가 팔렸다.\n현대차 관계자는 데일리임팩트에 \\\"반도체 부품 수급 부족으로 인한 생산 차질 및 오미크론 확산 등 경영 불확실성이 지속되는 상황에도 차량 생산 일정 조정 등을 통해 공급 지연 영향을 최소화할 것\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차가 차량용 반도체 수급 차질에 지난 4월 판매량이 하락했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대차는 지난달 국내 5만9415대, 해외 24만9373대 등 글로벌 시장에서 총 30만8788대를 판매했다고 2일 발표했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 전년 동기 대비 국내 15.4%, 해외 10.6% 줄어든 수치다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "차종별로는 국내 시장에서 세단 그랜저가 5192대, 쏘나타 4165대, 아반떼 6382대 등 총 1만5761대가 팔렸다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "RV는 팰리세이드 4461대, 싼타페 1997대, 투싼 4175대, 아이오닉5 2963대, 캐스퍼 3420대 등 총 1만9873대가 팔렸다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "포터는 8423대, 스타리아는 2387대 판매를 기록했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중대형 버스와 트럭은 1681대 판매됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "프리미엄 브랜드 제네시스는 G80 4023대, GV80 1753대, GV70 2100대, GV60 796대 등 총 1만1290대가 팔렸다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "현대차 관계자는 데일리임팩트에 \\\"반도체 부품 수급 부족으로 인한 생산 차질 및 오미크론 확산 등 경영 불확실성이 지속되는 상황에도 차량 생산 일정 조정 등을 통해 공급 지연 영향을 최소화할 것\\\"이라고 밝혔다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "IBK기업은행, 은행권 단독 'IBK장기고정주택담보대출' 판매",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

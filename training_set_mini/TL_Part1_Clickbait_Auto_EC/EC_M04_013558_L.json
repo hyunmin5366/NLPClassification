@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013558",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "기업경기, 12월도 어둡다",
+		"newsSubTitle": "제조업전망 77·비제조업 73… 기준치 100 밑돌아 부정적",
+		"newsContent": "12월에도 대전·충남지역 기업들의 경기침체는 계속될 전망이다.\n한국은행 대전충남본부가 30일 발표한 '11월 기업경기 동향과 12월 전망'을 살펴보면 12월 제조업의 업황전망BSI는 77로 전월(76)보다 1포인트, 비제조업 업황전망BSI는 73으로 전월(70)보다 3포인트 각각 상승했다.\nBSI가 기준치인 100 이상인 경우에는 긍정 응답업체수가 부정 응답업체수보다 많음을, 100 이하인 경우에는 그 반대임을 나타낸다.\n대기업(88)이 전월보다 2포인트 하락했으나, 중소기업(73)은 1포인트 상승했다.\n수출기업(80)이 전월보다 1포인트 내려간 반면, 내수기업(76)은 2포인트 올라갔다.\n매출전망BSI는 89로 전월(84)보다 5포인트, 생산전망BSI는 94로 전월(92)보다 2포인트 각각 상승했다.\n제품재고수준전망BSI는 106으로 전월(111)보다 하락한 반면, 신규수주전망BSI는 88로 전월(82)보다 6포인트 상승했다.\n설비투자전망BSI(101 →106)는 전월보다 5포인트, 채산성전망BSI(90→94)는 4포인트 각각 상승했으며, 인력사정전망BSI(108→104)는 4포인트 하락했다.\n11월 제조업 업황BSI는 74로 전월과 동일한 반면 비제조업 업황BSI는 70으로 전월(64)보다 6포인트 상승했다.\n이번 조사는 대전충남지역 625개 업체(522개 업체 응답)를 대상으로 지난달 13일부터 21일까지 조사했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "12월에도 대전·충남지역 기업들의 경기침체는 계속될 전망이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전충남본부가 30일 발표한 '11월 기업경기 동향과 12월 전망'을 살펴보면 12월 제조업의 업황전망BSI는 77로 전월(76)보다 1포인트, 비제조업 업황전망BSI는 73으로 전월(70)보다 3포인트 각각 상승했다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "BSI가 기준치인 100 이상인 경우에는 긍정 응답업체수가 부정 응답업체수보다 많음을, 100 이하인 경우에는 그 반대임을 나타낸다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대기업(88)이 전월보다 2포인트 하락했으나, 중소기업(73)은 1포인트 상승했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "수출기업(80)이 전월보다 1포인트 내려간 반면, 내수기업(76)은 2포인트 올라갔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매출전망BSI는 89로 전월(84)보다 5포인트, 생산전망BSI는 94로 전월(92)보다 2포인트 각각 상승했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제품재고수준전망BSI는 106으로 전월(111)보다 하락한 반면, 신규수주전망BSI는 88로 전월(82)보다 6포인트 상승했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "설비투자전망BSI(101 →106)는 전월보다 5포인트, 채산성전망BSI(90→94)는 4포인트 각각 상승했으며, 인력사정전망BSI(108→104)는 4포인트 하락했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "11월 제조업 업황BSI는 74로 전월과 동일한 반면 비제조업 업황BSI는 70으로 전월(64)보다 6포인트 상승했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이번 조사는 대전충남지역 625개 업체(522개 업체 응답)를 대상으로 지난달 13일부터 21일까지 조사했다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전·충남 소비자 체감경기 부정적",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350488",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "오라클, 2025년까지 모든 데이터센터 재생에너지로 운영",
+		"newsSubTitle": "null",
+		"newsContent": "오라클이 오는 2025년까지 클라우드를 포함한 모든 시설을 100% 재생에너지로 가동하겠다고 25일 밝혔다.\n오라클은 유럽의 클라우드 리전과 전 세계 51개 오라클 사무실을 100% 재생에너지로 운영하고 있다.\n오라클은 친환경 경영의 일환으로 하드웨어 폐기물도 재활용한다.\n지난해 오라클은 250만파운드(약 39억4000만원) 상당의 폐기된 하드웨어 자산을 수집했으며, 이 중 99.6%가 재활용됐다.\n또한 2015년 이후 오라클 소유 건물에서 매립지로 배출되는 폐기물 양을 평방 피트 당 25% 줄였다.\n크와시 쿠르텡(Kwasi Kwarteng) 영국 기업·에너지·산업전략부 장관은 \\\"재생에너지는 기후변화에 대응하고 친환경적인 미래를 조성하는데 핵심적인 역할을 한다\\\"며 \\\"전 세계 다른 기업에게도 오라클의 행보가 영감을 줄 것으로 기대한다\\\"고 말했다.\n존 크롤리(Jon Chorley) 오라클 부사장 겸 최고지속가능책임자(CSO)는 \\\"우리는 보다 지속 가능한 미래를 구축하기 위해 계속 노력하고 있다\\\"며 \\\"기술로 UN의 지속가능한 개발 목표를 달성할 수 있도록 고객에게 지원을 강화하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오라클이 오는 2025년까지 클라우드를 포함한 모든 시설을 100% 재생에너지로 가동하겠다고 25일 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오라클은 유럽의 클라우드 리전과 전 세계 51개 오라클 사무실을 100% 재생에너지로 운영하고 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오라클은 친환경 경영의 일환으로 하드웨어 폐기물도 재활용한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 오라클은 250만파운드(약 39억4000만원) 상당의 폐기된 하드웨어 자산을 수집했으며, 이 중 99.6%가 재활용됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 2015년 이후 오라클 소유 건물에서 매립지로 배출되는 폐기물 양을 평방 피트 당 25% 줄였다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "크와시 쿠르텡(Kwasi Kwarteng) 영국 기업·에너지·산업전략부 장관은 \\\"재생에너지는 기후변화에 대응하고 친환경적인 미래를 조성하는데 핵심적인 역할을 한다\\\"며 \\\"전 세계 다른 기업에게도 오라클의 행보가 영감을 줄 것으로 기대한다\\\"고 말했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "존 크롤리(Jon Chorley) 오라클 부사장 겸 최고지속가능책임자(CSO)는 \\\"우리는 보다 지속 가능한 미래를 구축하기 위해 계속 노력하고 있다\\\"며 \\\"기술로 UN의 지속가능한 개발 목표를 달성할 수 있도록 고객에게 지원을 강화하겠다\\\"고 말했다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오라클, 2025년까지 모든 데이터센터 재생에너지로 운영",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

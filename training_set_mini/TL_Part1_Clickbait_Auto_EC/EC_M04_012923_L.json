@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012923",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "'니트 축구화'가 뜬다…세계적 기업 특허선점 치열",
+		"newsSubTitle": "",
+		"newsContent": "'니트 축구화'가 2014 브라질 월드컵에서 선보인다.\n니트 축구화는 자동편물기로 실을 짜서 신발의 갑피(발을 감싸는 부분)를 원피스형으로 제조한 니트 소재로 갑피가 얇아 공과 발이 최대한 밀착돼 세밀한 볼 터치와 조절이 가능한 장점을 갖고 있다.\n10일 특허청(청장 김영민)에 따르면 세계 스포츠용품 1, 2위 기업인 나이키와 아디다스가 이 니트 축구화 개발에서 선두경쟁을 펼치고 있다.\n최근 나이키는 최첨단 일체형 편물 제작공법으로 제조한 무재봉(無裁縫) 단일 니트 갑피의 '마지스타(상품명)'를, 아디다스도 '삼바 프라임니트(상품명)'와 '프라임니트 FS(상품명)'를 각각 출시했다.\n전 세계 스포츠용품 시장의 1인자이면서도 축구용품에서는 아디다스에 이어 2위에 머무르는 나이키가 브라질 월드컵에 맞춰 출시한 니트 축구화에 대한 특허 선점을 통해 치열한 선두 경쟁에 나선 것으로 보인다.\n나이키는 미국(24건), 유럽(14건), 한국(14건), 일본(14건) 등에 니트 갑피와 관련된 기술을 특허출원했다.\n니트 갑피를 갖춘 신발의 세계시장 선점을 위해 나이키와 아디다스는 독일 등에서 2012년 이후 특허소송을 진행하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'니트 축구화'가 2014 브라질 월드컵에서 선보인다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "니트 축구화는 자동편물기로 실을 짜서 신발의 갑피(발을 감싸는 부분)를 원피스형으로 제조한 니트 소재로 갑피가 얇아 공과 발이 최대한 밀착돼 세밀한 볼 터치와 조절이 가능한 장점을 갖고 있다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "10일 특허청(청장 김영민)에 따르면 세계 스포츠용품 1, 2위 기업인 나이키와 아디다스가 이 니트 축구화 개발에서 선두경쟁을 펼치고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 나이키는 최첨단 일체형 편물 제작공법으로 제조한 무재봉(無裁縫) 단일 니트 갑피의 '마지스타(상품명)'를, 아디다스도 '삼바 프라임니트(상품명)'와 '프라임니트 FS(상품명)'를 각각 출시했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전 세계 스포츠용품 시장의 1인자이면서도 축구용품에서는 아디다스에 이어 2위에 머무르는 나이키가 브라질 월드컵에 맞춰 출시한 니트 축구화에 대한 특허 선점을 통해 치열한 선두 경쟁에 나선 것으로 보인다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "나이키는 미국(24건), 유럽(14건), 한국(14건), 일본(14건) 등에 니트 갑피와 관련된 기술을 특허출원했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "니트 갑피를 갖춘 신발의 세계시장 선점을 위해 나이키와 아디다스는 독일 등에서 2012년 이후 특허소송을 진행하고 있다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "G20 정상회의 “우리나라의 국가위상이 강화될 것”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010884",
+		"newsCategory": "경제",
+		"newsSubcategory": "취업/창업",
+		"newsTitle": "지방 외국계기업 36% 내년 투자·고용 축소",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 경기침체의 영향으로 지방소재 외국계 기업 3곳 가운데 1곳은 내년 투자와 고용을 줄일 계획이 있는 것으로 조사됐다.\n대한상공회의소가 최근 서울ㆍ경기 등 수도권을 제외한 지방소재 외국계 기업 360개사를 대상으로 2013년 경영계획을 조사한 결과, 내년 투자와 고용계획을 묻는 질문에 응답기업의 36.3%가 '올해보다 축소할 것'이라고 답했다.\n반면 '확대할 것'이라는 응답은 26.2%였다.\n투자를 줄이겠다는 기업을 업종별로 전기전자(40.0%), 자동차(37.6%), 석유화학(37.5%), 섬유ㆍ제약(31.6%), 조선ㆍ철강(29.2%) 순으로 많았다.\n지역별로는 강원ㆍ제주권(42.9%), 호남권(42.1%), 충청권(34.4%) 등의 순이었다.\n국적별로는 미국(38.6%), EU(37.4%), 일본(36.4%), 중국(22.2%) 순으로 투자를 줄일 것이라는 응답이 많았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 경기침체의 영향으로 지방소재 외국계 기업 3곳 가운데 1곳은 내년 투자와 고용을 줄일 계획이 있는 것으로 조사됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대한상공회의소가 최근 서울ㆍ경기 등 수도권을 제외한 지방소재 외국계 기업 360개사를 대상으로 2013년 경영계획을 조사한 결과, 내년 투자와 고용계획을 묻는 질문에 응답기업의 36.3%가 '올해보다 축소할 것'이라고 답했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "반면 '확대할 것'이라는 응답은 26.2%였다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "투자를 줄이겠다는 기업을 업종별로 전기전자(40.0%), 자동차(37.6%), 석유화학(37.5%), 섬유ㆍ제약(31.6%), 조선ㆍ철강(29.2%) 순으로 많았다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지역별로는 강원ㆍ제주권(42.9%), 호남권(42.1%), 충청권(34.4%) 등의 순이었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국적별로는 미국(38.6%), EU(37.4%), 일본(36.4%), 중국(22.2%) 순으로 투자를 줄일 것이라는 응답이 많았다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가족도 불법촬영물 삭제 요청 가능해진다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

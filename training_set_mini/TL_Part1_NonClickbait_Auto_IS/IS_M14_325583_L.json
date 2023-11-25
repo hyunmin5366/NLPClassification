@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325583",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]삼성전자, 한정판 '심계천하' 갤럭시폴드 5G 중국에 출시... 340만원",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 중국에서 한정판 '심계천하' 갤럭시폴드를 340만원이 넘는 가격에 판매한다.\n삼성전자는 20일(현지시간)부터 중국 삼성닷컴에서 'W20 5G'를 1만9999위안(약 340만원)에 선착순 판매한다.\n일반 갤럭시폴드 중국 출고가인 1만5999위안보다 4천위안 비싼 가격이다.\nW20 5G는 삼성전자가 중국 상류층을 대상으로 판매한 초고급형 스마트폰 '심계천하' 시리즈로 출시됐다.\n초고가로 한정판 가격을 책정하고 수익금 일부를 중국 사회에 기부한다.\n앞서 중국 시장에 선보인 갤럭시폴드와 달리 5세대 이동통신(5G) 모델이다.\n양쪽으로 접히는 본체 뒷면을 각각 흰색, 검은색으로 디자인해 기존 갤럭시폴드와 차별화했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 중국에서 한정판 '심계천하' 갤럭시폴드를 340만원이 넘는 가격에 판매한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자는 20일(현지시간)부터 중국 삼성닷컴에서 'W20 5G'를 1만9999위안(약 340만원)에 선착순 판매한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "일반 갤럭시폴드 중국 출고가인 1만5999위안보다 4천위안 비싼 가격이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "W20 5G는 삼성전자가 중국 상류층을 대상으로 판매한 초고급형 스마트폰 '심계천하' 시리즈로 출시됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "초고가로 한정판 가격을 책정하고 수익금 일부를 중국 사회에 기부한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 중국 시장에 선보인 갤럭시폴드와 달리 5세대 이동통신(5G) 모델이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "양쪽으로 접히는 본체 뒷면을 각각 흰색, 검은색으로 디자인해 기존 갤럭시폴드와 차별화했다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]삼성전자, 한정판 '심계천하' 갤럭시폴드 5G 중국에 출시... 340만원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

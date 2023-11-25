@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009565",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "경남기업 알제리 500억 공사 수주",
+		"newsSubTitle": "국영정유회사 공장 증설로 25개월간 진행",
+		"newsContent": "경남기업이 알제리 국영정유회사 발주 정유공장 플랜트 공사를 수주했다.\n알제리 수도 알지에 위치한 정유공장 증설공사로, 2012년도의 순조로운 출발을 예고했다.\n수주액 규모는 509억원, 공사기간은 착공 후 25개월이다.\n경남기업 관계자는 “자원부국인 알제리 국영 정유회사의 재원으로 공사가 진행되는 만큼 공사의 안정성과 수익성이 확보될 것”이라는 기대감을 나타냈다.\n한편, 경남기업은 2005년 알제리 진출 후 지속적인 신규시장 개척 노력을 통해 2008년 6억5000만 달러 규모의 시디압델라 신도시 기반시설 조성공사를 수주한 바 있다.\n지난해에는 1억1000만달러 규모의 알제리 스키다 정유 공장 플랜트 공사를 수주했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "경남기업이 알제리 국영정유회사 발주 정유공장 플랜트 공사를 수주했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "알제리 수도 알지에 위치한 정유공장 증설공사로, 2012년도의 순조로운 출발을 예고했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수주액 규모는 509억원, 공사기간은 착공 후 25개월이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "경남기업 관계자는 “자원부국인 알제리 국영 정유회사의 재원으로 공사가 진행되는 만큼 공사의 안정성과 수익성이 확보될 것”이라는 기대감을 나타냈다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편, 경남기업은 2005년 알제리 진출 후 지속적인 신규시장 개척 노력을 통해 2008년 6억5000만 달러 규모의 시디압델라 신도시 기반시설 조성공사를 수주한 바 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해에는 1억1000만달러 규모의 알제리 스키다 정유 공장 플랜트 공사를 수주했다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“내달 사막화방지 총회 北 참석 유도”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

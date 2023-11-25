@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331950",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "[2020 전자신문 10대뉴스(국내)]비대면산업 활성화, 막 오른 온택트 시대",
+		"newsSubTitle": "",
+		"newsContent": "비대면 산업은 올 한해 폭발적으로 성장했다.\n코로나19 확산으로 사회적 거리두기와 재택근무가 일상이 되며 인터넷을 통해 만나는 '온택트(Ontact)'가 필수로 떠올랐다.\n네이버, 카카오 등 인터넷 대기업과 줌 등 글로벌 기업이 온라인 협업툴 비즈니스를 전면에 내세운 가운데, 비즈플레이 등 토종 중견기업들도 괄목할만한 성과를 올렸다.\n공공부문 역시 온택트에 집중했다.\n서울시설공단이 대표적이다.\n공단은 올해 현장점검을 포함한 사내 업무회의를 온라인 화상 방식으로 전면 교체했다.\n3월부터 10월까지 3000회 이상 온라인 회의를 진행하며 온택트 근무를 정착시켰다.\n비대면 업무를 중심으로 한 클라우드 비즈니스도 활황이다.\n아마존, 마이크로소프트, 구글, 네이버 등 국내외 대형 인터넷 플랫폼 기업이 국내 클라우드 시장을 놓고 경쟁 중이다.\n카카오도 하반기부터 이 사업에 본격적으로 뛰어들며 치열한 싸움을 예고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "비대면 산업은 올 한해 폭발적으로 성장했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코로나19 확산으로 사회적 거리두기와 재택근무가 일상이 되며 인터넷을 통해 만나는 '온택트(Ontact)'가 필수로 떠올랐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버, 카카오 등 인터넷 대기업과 줌 등 글로벌 기업이 온라인 협업툴 비즈니스를 전면에 내세운 가운데, 비즈플레이 등 토종 중견기업들도 괄목할만한 성과를 올렸다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공공부문 역시 온택트에 집중했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서울시설공단이 대표적이다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공단은 올해 현장점검을 포함한 사내 업무회의를 온라인 화상 방식으로 전면 교체했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "3월부터 10월까지 3000회 이상 온라인 회의를 진행하며 온택트 근무를 정착시켰다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "비대면 업무를 중심으로 한 클라우드 비즈니스도 활황이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "아마존, 마이크로소프트, 구글, 네이버 등 국내외 대형 인터넷 플랫폼 기업이 국내 클라우드 시장을 놓고 경쟁 중이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "카카오도 하반기부터 이 사업에 본격적으로 뛰어들며 치열한 싸움을 예고했다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2020 전자신문 10대뉴스(국내)]비대면산업 활성화, 막 오른 온택트 시대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

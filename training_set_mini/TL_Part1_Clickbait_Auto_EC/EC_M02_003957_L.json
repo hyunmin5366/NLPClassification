@@ -1,0 +1,402 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003957",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "'사람처럼' 말하는 기가지니 만든다…KT, 초거대 AI 내년 상용화",
+		"newsSubTitle": "ETRI·카이스트·한양대와 공동연구 협약…최고 수준의 대규모 GPU 인프라 구축",
+		"newsContent": "KT가 초거대 인공지능(AI) 개발에 착수했다.\n내년 상용화가 목표다.\n기가지니와 AI 고객센터 등 다양한 서비스에 적용된다.\n이 경우, 기가지니와 친구처럼 대화하거나, AI 보이스봇이 전문상담사처럼 고객을 응대하는 게 가능해진다.\nKT는 18일 AI원팀 참여기관인 한국전자통신연구원(ETRI), 카이스트, 한양대와 함께 초거대 AI 모델을 개발하기 위한 공동 연구 협약을 체결했다고 밝혔다.\n앞서 KT는 카이스트와 AI·SW(소프트웨어) 기술 연구소를 연내 설립하고 초거대 AI 연구에 들어가기로 했었다.\n이번에 연구협약을 통해, KT의 데이터를 기반으로 자연어 처리 분야에서 각 기관 최고 연구진과 협력해 초거대 AI 모델 개발의 속도를 올릴 계획이다.\n초거대 AI는 인간 뇌에서 뉴런을 연결해 정보를 학습·기억하는 역할을 담당하는 시냅스와 유사한 파라미터(매개변수)와 데이터를 바탕으로 탄생된다.\n인간의 뇌 구조를 닮은 까닭에 특정 용도에 한정되지 않고 종합적이고 자율적인 사고와 학습이 가능하다.\n사람처럼 생각하고 반응한다는 얘기다.\n이를 위해서는 대용량 연산이 가능한 인프라를 구축하고 방대한 데이터를 학습한 큰 모델을 만들어야 한다.\n큰 모델만 만들면 대화·문서요약은 물론, 말만 해도 코드를 만드는 등 더 많은 분야에 적용할 수 있다.\n이 같은 확장성으로 인해 미국 오픈AI와 구글, 중국 화웨이 등 전세계 IT기업들이 초거대 AI 개발에 열을 올리고 있다.\n다만 초거대 AI로서 경쟁력을 갖추기 위해서는 사람의 언어를 빠르게 이해하고 재해석하는 언어모델 능력이 뒷받침돼야 한다.\n그러나 언어모델은 매우 빠르게 발전하고 있는데다, 데이터 정제와 학습 알고리즘, 분산‧병렬학습, 경량화, 응용모델 발굴 등 다양한 분야 연구가 필요하다.\n단일기업이 단독으로 추진하기 어려운 것이다.\n학교‧연구기관도 AI 연구를 위한 대규모 그래픽처리장치(GPU) 인프라에 접근하기 쉽지 않아 개별적으로 연구하기에 한계가 있다.\n때문에 KT는 산학연 연구를 통해 GPU 인프라를 구축하고, 최신 연구 동향을 반영한 기술을 제공받을 수 있도록 했다.\n이와 관련, KT는 지난해 AI원팀을 출범하고 초거대 AI 연구에 대해 약 6개월 이상 논의해왔다.\n향후 AI원팀은 분야별로 나눠 연구협력을 강화할 방침이다.\nKT는 대규모 GPU 인프라 구축, 데이터 수집·분석, 모델 학습, 응용태스크 적용 등 연구개발(R&D) 및 상용화 관련 업무를 총괄한다.\n카이스트는 머신러닝 알고리즘 최적화와 어플리케이션(앱) 파트를 맡는다.\n한양대는 데이터 정제·필터링 알고리즘 개발, 분산·병렬 알고리즘, 모델 최적화 연구를 지원한다.\nETRI는 대형 모델학습과 모델 개발에 참여한다.\n이후 연말까지 1차로 초거대 AI의 학습을 완료하고 내년 상반기까지 초거대 AI모델을 상용화할 계획이다.\n또 대규모 AI 연산 인프라를 구축하고 향후 2000억 파라미터 이상의 모델까지 가능하도록 인프라 규모를 확대할 예정이다.\n특히 AI원팀의 모델은 과제 지향적 형태로 설계된다는 점에서 눈길을 끈다.\nKT 관계자는 미디어SR에 \\\"기존 기업들이 시범서비스에 가까웠다면, AI원팀의 모델은 즉시 상용화될 수 있다는 점에서 좀더 다양한 기술과 서비스에 적용될 수 있을 것\\\"이라며 \\\"AI 상담 서비스봇이 어떤 상담에도 사람처럼 응대할 수 있게 된다\\\"고 설명했다.\nAI원팀은 향상된 STT(음성인식), TTS(음성합성), TA(텍스트 분석) 등 기술을 KT 기가지니와 AICC(AI컨택센터) 서비스에 바로 적용한 뒤, 제조·금융·물류·유통 등 AI원팀 참여기업들 사업으로 적용 범위를 넓힌다.\n나아가 AI원팀은 영상·로봇 등의 복합인지, 이미지 기반 해석, 인간중심 AI 등에도 초거대 AI 모델을 적용해, 다양한 기업들과 학교, 연구기관들이 활용할 수 있게 지원할 계획이다.\n아울러 다양한 기술을 적용해 AI 윤리를 강화할 방침이다.\n학습데이터 필터링 강화, 데이터 간 균형 조정 등을 통해 AI의 편향성을 우선 제거한다.\n유해 콘텐츠 필터링 기술과 같은 딥러닝 기반 탐지 기술도 적극 활용해 윤리 이슈를 사전에 차단할 계획이다.\n한편, 초거대 AI는 꿈의 AI로 불린다.\n현존하는 AI 기술 중 최고 수준이다.\n미국 AI연구소 오픈AI가 개발한 초대규모 AI 언어모델인 GPT-3의 경우, 인간처럼 자연스러운 대화가 가능하고 에세이나 소설도 창작할 수 있다.\n현존하는 초거대 AI의 파라미터는 1750억개 수준으로, 파라미터 규모가 커질수록 AI 지능이 높아진다.\nAI 분야는 세계적 테크기업들도 아직까지 입지를 다지지 못한 만큼, 국내 기업들이 연구개발의 속도를 올리는 중이다.\nLG는 AI연구원을 통해 약 1200억원을 투자하고 올 하반기 초거대 AI를 공개할 예정이다.\n내년 상반기에는 조 단위 파라미터를 갖춘 초거대 AI를 개발한다.\nSK텔레콤은 카카오와 1500억 파라미터를 갖춘 자연어처리 AI 모델을 개발 중이다.\n자체적으로 GPT-3와 유사한 성능을 발휘하는 한국어 범용 언어 모델(GLM)을 개발하고 있기도 하다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 42,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 초거대 인공지능(AI) 개발에 착수했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "내년 상용화가 목표다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기가지니와 AI 고객센터 등 다양한 서비스에 적용된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 경우, 기가지니와 친구처럼 대화하거나, AI 보이스봇이 전문상담사처럼 고객을 응대하는 게 가능해진다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KT는 18일 AI원팀 참여기관인 한국전자통신연구원(ETRI), 카이스트, 한양대와 함께 초거대 AI 모델을 개발하기 위한 공동 연구 협약을 체결했다고 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 KT는 카이스트와 AI·SW(소프트웨어) 기술 연구소를 연내 설립하고 초거대 AI 연구에 들어가기로 했었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번에 연구협약을 통해, KT의 데이터를 기반으로 자연어 처리 분야에서 각 기관 최고 연구진과 협력해 초거대 AI 모델 개발의 속도를 올릴 계획이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "초거대 AI는 인간 뇌에서 뉴런을 연결해 정보를 학습·기억하는 역할을 담당하는 시냅스와 유사한 파라미터(매개변수)와 데이터를 바탕으로 탄생된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "인간의 뇌 구조를 닮은 까닭에 특정 용도에 한정되지 않고 종합적이고 자율적인 사고와 학습이 가능하다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "사람처럼 생각하고 반응한다는 얘기다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이를 위해서는 대용량 연산이 가능한 인프라를 구축하고 방대한 데이터를 학습한 큰 모델을 만들어야 한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "큰 모델만 만들면 대화·문서요약은 물론, 말만 해도 코드를 만드는 등 더 많은 분야에 적용할 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이 같은 확장성으로 인해 미국 오픈AI와 구글, 중국 화웨이 등 전세계 IT기업들이 초거대 AI 개발에 열을 올리고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "다만 초거대 AI로서 경쟁력을 갖추기 위해서는 사람의 언어를 빠르게 이해하고 재해석하는 언어모델 능력이 뒷받침돼야 한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "그러나 언어모델은 매우 빠르게 발전하고 있는데다, 데이터 정제와 학습 알고리즘, 분산‧병렬학습, 경량화, 응용모델 발굴 등 다양한 분야 연구가 필요하다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "단일기업이 단독으로 추진하기 어려운 것이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "학교‧연구기관도 AI 연구를 위한 대규모 그래픽처리장치(GPU) 인프라에 접근하기 쉽지 않아 개별적으로 연구하기에 한계가 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "때문에 KT는 산학연 연구를 통해 GPU 인프라를 구축하고, 최신 연구 동향을 반영한 기술을 제공받을 수 있도록 했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이와 관련, KT는 지난해 AI원팀을 출범하고 초거대 AI 연구에 대해 약 6개월 이상 논의해왔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "향후 AI원팀은 분야별로 나눠 연구협력을 강화할 방침이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "KT는 대규모 GPU 인프라 구축, 데이터 수집·분석, 모델 학습, 응용태스크 적용 등 연구개발(R&D) 및 상용화 관련 업무를 총괄한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "카이스트는 머신러닝 알고리즘 최적화와 어플리케이션(앱) 파트를 맡는다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "한양대는 데이터 정제·필터링 알고리즘 개발, 분산·병렬 알고리즘, 모델 최적화 연구를 지원한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "ETRI는 대형 모델학습과 모델 개발에 참여한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "이후 연말까지 1차로 초거대 AI의 학습을 완료하고 내년 상반기까지 초거대 AI모델을 상용화할 계획이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "또 대규모 AI 연산 인프라를 구축하고 향후 2000억 파라미터 이상의 모델까지 가능하도록 인프라 규모를 확대할 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "특히 AI원팀의 모델은 과제 지향적 형태로 설계된다는 점에서 눈길을 끈다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "KT 관계자는 미디어SR에 \\\"기존 기업들이 시범서비스에 가까웠다면, AI원팀의 모델은 즉시 상용화될 수 있다는 점에서 좀더 다양한 기술과 서비스에 적용될 수 있을 것\\\"이라며 \\\"AI 상담 서비스봇이 어떤 상담에도 사람처럼 응대할 수 있게 된다\\\"고 설명했다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "AI원팀은 향상된 STT(음성인식), TTS(음성합성), TA(텍스트 분석) 등 기술을 KT 기가지니와 AICC(AI컨택센터) 서비스에 바로 적용한 뒤, 제조·금융·물류·유통 등 AI원팀 참여기업들 사업으로 적용 범위를 넓힌다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "나아가 AI원팀은 영상·로봇 등의 복합인지, 이미지 기반 해석, 인간중심 AI 등에도 초거대 AI 모델을 적용해, 다양한 기업들과 학교, 연구기관들이 활용할 수 있게 지원할 계획이다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "아울러 다양한 기술을 적용해 AI 윤리를 강화할 방침이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "학습데이터 필터링 강화, 데이터 간 균형 조정 등을 통해 AI의 편향성을 우선 제거한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "유해 콘텐츠 필터링 기술과 같은 딥러닝 기반 탐지 기술도 적극 활용해 윤리 이슈를 사전에 차단할 계획이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "한편, 초거대 AI는 꿈의 AI로 불린다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "현존하는 AI 기술 중 최고 수준이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "미국 AI연구소 오픈AI가 개발한 초대규모 AI 언어모델인 GPT-3의 경우, 인간처럼 자연스러운 대화가 가능하고 에세이나 소설도 창작할 수 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 37,
+				"sentenceContent": "현존하는 초거대 AI의 파라미터는 1750억개 수준으로, 파라미터 규모가 커질수록 AI 지능이 높아진다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 38,
+				"sentenceContent": "AI 분야는 세계적 테크기업들도 아직까지 입지를 다지지 못한 만큼, 국내 기업들이 연구개발의 속도를 올리는 중이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 39,
+				"sentenceContent": "LG는 AI연구원을 통해 약 1200억원을 투자하고 올 하반기 초거대 AI를 공개할 예정이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 40,
+				"sentenceContent": "내년 상반기에는 조 단위 파라미터를 갖춘 초거대 AI를 개발한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 41,
+				"sentenceContent": "SK텔레콤은 카카오와 1500억 파라미터를 갖춘 자연어처리 AI 모델을 개발 중이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 42,
+				"sentenceContent": "자체적으로 GPT-3와 유사한 성능을 발휘하는 한국어 범용 언어 모델(GLM)을 개발하고 있기도 하다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KISTI 슈퍼컴 4호기 구축",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 37,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 38,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 39,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 40,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 41,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 42,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

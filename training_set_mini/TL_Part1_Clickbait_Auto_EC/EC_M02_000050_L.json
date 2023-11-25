@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000050",
+		"newsCategory": "경제",
+		"newsSubcategory": "일반",
+		"newsTitle": "카카오내비, \\\"119 소방차가 지나갑니다. 길을 비켜주세요!\\\"",
+		"newsSubTitle": "",
+		"newsContent": "\\\"119 소방차가 지나갑니다. 길을 비켜주세요!\\\" 카카오모빌리티가 카카오내비를 이용하는 소비자에게 소방차나 구급차 등 119 차량의 출동을 알리기로 했다.\n카카오모빌리티는 모바일 내비게이션 카카오내비에 '119 긴급 출동 알림' 기능을 탑재했다고 19일 밝혔다.\n이는 고속도로 사고 발생 시, 119 차량 출동 경로에 위치한 카카오내비 사용자들에게 사고 발생 정보와 119 차량 접근을 알려주는 서비스다.\n이를 위해 카카오모빌리티는 소방청(경기도 재난안전본부), 국토교통부(한국도로공사)와 협력했다.\n카카오내비 서버와 소방청 정보 시스템을 연동했다.\n사고 신고가 접수돼 119 차량이 출동하면, 카카오내비 서버로 사고 지점과 출동 차량 위치가 10초 간격으로 전송된다.\n카카오내비는 이를 분석하여 119 차량, 사고 지점 인근 카카오내비 이용객에게 팝업과 음성 안내로 사고 및 출동 정보를 알린다.\n사고 발생 정보 알림, 119 차량 접근 여부, 출동 협조 요청을 한 번에 하는 방식이다.\n사용자들은 사고에 대한 정보를 알 수 있고, 119 출동에 협조할 수 있다.\n카카오모빌리티는 \\\"빅데이터와 IT 기술을 활용해 공익에 기여하고, 고속도로 재난 발생 시 골든타임 확보를 돕고 시민 의식을 한층 높일 수 있는 계기가 되었으면 좋겠다\\\"고 밝혔다.\n카카오모빌리티와 소방청, 국토교통부는 해당 기능을 경기도 관내 고속도로에 우선 적용하고, 올해 상반기 중으로 전국 고속도로로 확대한다는 방침이다.\n한편, 카카오모빌리티 정주환 대표는 \\\"생활을 더 편리하게 만드는 것에서 한 걸음 나아가, 사회적 차원에서 힘을 보탤 수 있는 방법을 고민하고 있다\\\"며 \\\"카카오모빌리티의 빅데이터와 모바일 기술 역량이 시간을 다투는 위급한 순간 등 꼭 필요한 시점에 도움이 될 수 있도록 노력해 나가겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "\\\"119 소방차가 지나갑니다. 길을 비켜주세요!\\\" 카카오모빌리티가 카카오내비를 이용하는 소비자에게 소방차나 구급차 등 119 차량의 출동을 알리기로 했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오모빌리티는 모바일 내비게이션 카카오내비에 '119 긴급 출동 알림' 기능을 탑재했다고 19일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 고속도로 사고 발생 시, 119 차량 출동 경로에 위치한 카카오내비 사용자들에게 사고 발생 정보와 119 차량 접근을 알려주는 서비스다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 위해 카카오모빌리티는 소방청(경기도 재난안전본부), 국토교통부(한국도로공사)와 협력했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카카오내비 서버와 소방청 정보 시스템을 연동했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사고 신고가 접수돼 119 차량이 출동하면, 카카오내비 서버로 사고 지점과 출동 차량 위치가 10초 간격으로 전송된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "카카오내비는 이를 분석하여 119 차량, 사고 지점 인근 카카오내비 이용객에게 팝업과 음성 안내로 사고 및 출동 정보를 알린다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사고 발생 정보 알림, 119 차량 접근 여부, 출동 협조 요청을 한 번에 하는 방식이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "사용자들은 사고에 대한 정보를 알 수 있고, 119 출동에 협조할 수 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "카카오모빌리티는 \\\"빅데이터와 IT 기술을 활용해 공익에 기여하고, 고속도로 재난 발생 시 골든타임 확보를 돕고 시민 의식을 한층 높일 수 있는 계기가 되었으면 좋겠다\\\"고 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "카카오모빌리티와 소방청, 국토교통부는 해당 기능을 경기도 관내 고속도로에 우선 적용하고, 올해 상반기 중으로 전국 고속도로로 확대한다는 방침이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "한편, 카카오모빌리티 정주환 대표는 \\\"생활을 더 편리하게 만드는 것에서 한 걸음 나아가, 사회적 차원에서 힘을 보탤 수 있는 방법을 고민하고 있다\\\"며 \\\"카카오모빌리티의 빅데이터와 모바일 기술 역량이 시간을 다투는 위급한 순간 등 꼭 필요한 시점에 도움이 될 수 있도록 노력해 나가겠다\\\"고 밝혔다.",
+				"sentenceSize": 169
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전경제 살아나나…'행복경제 123' 효과?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

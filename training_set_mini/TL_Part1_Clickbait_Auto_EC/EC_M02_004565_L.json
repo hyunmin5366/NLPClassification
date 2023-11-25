@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004565",
+		"newsCategory": "경제",
+		"newsSubcategory": "보험",
+		"newsTitle": "삼성화재 \\\"블랙박스 설치하고 보험료 할인 받으세요\\\"",
+		"newsSubTitle": "아이나비 커넥티드 블랙박스 장착 시 보험료 6% 할인",
+		"newsContent": "삼성화재는 통신기능이 장착된 블랙박스의 보급 확대에 따라 '커넥티드 블랙박스 특약'을 출시한다고 27일 밝혔다.\n이 특약은 차량 연식이 12년 미만인 개인소유의 승용차가 가입가능하다.\n내년 2월 1일부터 보험기간이 시작되며 팅크웨어의 '아이나비 커넥티드 블랙박스'를 장착해 인증을 하면 된다. '아이나비 커넥티드 블랙박스'는 기존 블랙박스에 GPS와 유심을 장착해 실시간 무선 통신이 가능하다.\n운전습관을 분석해 안전운전 리포트를 제공하고 충격이 감지되면 실시간으로 영상을 전송해 주는 것도 장점이다.\n커넥티드 블랙박스 특약을 가입하면 업계 최대 수준인 보험료의 6%를 할인해 준다.\n또한 별도의 인증절차를 통해 블랙박스 사진을 제출하지 않아도 편리하게 가입이 가능하다.\n이병택 삼성화재 자동차상품파트장은 데일리임팩트에 \\\"자동차보험에 IT기술을 접목해 고객에게 다양한 혜택을 제공하는 보험상품 및 서비스를 꾸준히 개발할 계획\\\"이라며 \\\"미래 자동차보험시장 변화에 선도적으로 대응하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성화재는 통신기능이 장착된 블랙박스의 보급 확대에 따라 '커넥티드 블랙박스 특약'을 출시한다고 27일 밝혔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 특약은 차량 연식이 12년 미만인 개인소유의 승용차가 가입가능하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "내년 2월 1일부터 보험기간이 시작되며 팅크웨어의 '아이나비 커넥티드 블랙박스'를 장착해 인증을 하면 된다. '아이나비 커넥티드 블랙박스'는 기존 블랙박스에 GPS와 유심을 장착해 실시간 무선 통신이 가능하다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "운전습관을 분석해 안전운전 리포트를 제공하고 충격이 감지되면 실시간으로 영상을 전송해 주는 것도 장점이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "커넥티드 블랙박스 특약을 가입하면 업계 최대 수준인 보험료의 6%를 할인해 준다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 별도의 인증절차를 통해 블랙박스 사진을 제출하지 않아도 편리하게 가입이 가능하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이병택 삼성화재 자동차상품파트장은 데일리임팩트에 \\\"자동차보험에 IT기술을 접목해 고객에게 다양한 혜택을 제공하는 보험상품 및 서비스를 꾸준히 개발할 계획\\\"이라며 \\\"미래 자동차보험시장 변화에 선도적으로 대응하겠다\\\"고 말했다.",
+				"sentenceSize": 128
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "법원, 타다에 \\\"택시와 차별점 알려달라\\\" 주문",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

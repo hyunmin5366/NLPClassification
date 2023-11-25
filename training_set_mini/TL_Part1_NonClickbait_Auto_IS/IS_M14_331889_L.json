@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331889",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "온품, 지진 조기경보시스템 공략 강화",
+		"newsSubTitle": "",
+		"newsContent": "경보시스템 전문업체 온품이 지진조기경보시스템 공략을 강화한다.\n온품(대표 김유혁)은 경북 포항 포항시청과 시각장애인복지관, 학교 등 4개소에 지진조기경보시스템 구축을 완료해 시험운영을 마치고 정식운영에 들어갔다고 15일 밝혔다.\n이번에 구축된 지진 조기경보시스템은 P파 감지 후 지진피해를 일으키는 S파가 도달하기 이전에 경보를 발령한다.\n지진이 발생하면 P파가 먼저 도달한다.\nP파는 빠르게 이동하지만 큰 피해를 주지 않는다.\nP파가 감지된 후 5~20초 후에 도달하는 S파는 속도는 느리지만 큰 피해를 준다.\n따라서 P파 도착 후 S파가 도착하기 전까지 5~20초 사이가 지진 피해를 최소화할 수 있는 골든타임이다.\n온품 조기경보시스템은 P파 감지 즉시 건물 내 전관방송장비를 제어해 자동방송을 수행하고 경광등을 통한 시각적 표출을 동시에 수행, 지진 시 초동대처가 가능하다.\n이 시스템은 일본 C사 지진가속도 계측센서 알고리즘을 기술이전 받아 국내 운영환경에 적합한 시스템으로 국산화했다.\n지진발생 시 휴대폰 문자발송 서비스는 물론 구내방송·출입문 자동제어, 대피로 제공 등 환경에 맞는 추가 서비스 기능도 제공한다.\n포항시청 지진 통합운영시스템 화면에 3개소에서 관측한 지진관측상황을 표출한다.\n기상청 지진발생 데이터와 연계해 데이터 신뢰성을 확보했다.\n시스템 등록자에게 SMS로 지진발생 관련 문자를 발송, 대응이 가능해졌다.\n또 진도 3 이상이면 건물 안정성평가 프로그램이 자동 작동, 건축물 안정성을 평가해 화면에 표출한다.\n온품은 지진 및 대형건물에 화재발생 시 건물 내 구내방송장치 엘리베이터 출입문 등을 제어해 신속 대피를 유도하고 건물 내 고립된 사람의 위치를 파악해 대피로 등을 알려주는 시스템을 개발, 재산과 인명피해를 최소화할 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "경보시스템 전문업체 온품이 지진조기경보시스템 공략을 강화한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "온품(대표 김유혁)은 경북 포항 포항시청과 시각장애인복지관, 학교 등 4개소에 지진조기경보시스템 구축을 완료해 시험운영을 마치고 정식운영에 들어갔다고 15일 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번에 구축된 지진 조기경보시스템은 P파 감지 후 지진피해를 일으키는 S파가 도달하기 이전에 경보를 발령한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지진이 발생하면 P파가 먼저 도달한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "P파는 빠르게 이동하지만 큰 피해를 주지 않는다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "P파가 감지된 후 5~20초 후에 도달하는 S파는 속도는 느리지만 큰 피해를 준다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "따라서 P파 도착 후 S파가 도착하기 전까지 5~20초 사이가 지진 피해를 최소화할 수 있는 골든타임이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "온품 조기경보시스템은 P파 감지 즉시 건물 내 전관방송장비를 제어해 자동방송을 수행하고 경광등을 통한 시각적 표출을 동시에 수행, 지진 시 초동대처가 가능하다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 시스템은 일본 C사 지진가속도 계측센서 알고리즘을 기술이전 받아 국내 운영환경에 적합한 시스템으로 국산화했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지진발생 시 휴대폰 문자발송 서비스는 물론 구내방송·출입문 자동제어, 대피로 제공 등 환경에 맞는 추가 서비스 기능도 제공한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "포항시청 지진 통합운영시스템 화면에 3개소에서 관측한 지진관측상황을 표출한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기상청 지진발생 데이터와 연계해 데이터 신뢰성을 확보했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "시스템 등록자에게 SMS로 지진발생 관련 문자를 발송, 대응이 가능해졌다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "또 진도 3 이상이면 건물 안정성평가 프로그램이 자동 작동, 건축물 안정성을 평가해 화면에 표출한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "온품은 지진 및 대형건물에 화재발생 시 건물 내 구내방송장치 엘리베이터 출입문 등을 제어해 신속 대피를 유도하고 건물 내 고립된 사람의 위치를 파악해 대피로 등을 알려주는 시스템을 개발, 재산과 인명피해를 최소화할 방침이다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "온품, 지진 조기경보시스템 공략 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

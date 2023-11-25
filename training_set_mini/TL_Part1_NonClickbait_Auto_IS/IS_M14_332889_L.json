@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332889",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "“애플 아이폰, 지문인식으로 911 신고한다”",
+		"newsSubTitle": "",
+		"newsContent": "애플 아이폰 이용자가 위급 상황에서 지문인식 기능으로 긴급구조를 요청할 수 있게 될 전망이다.\n미국특허청(USPTO)에 따르면 애플은 18일(현지시간) 지문인식 기술을 이용해 911(우리나라의 119)에 구조를 요청하는 방식의 특허를 출원했다.\n특허는 아이폰 이용자가 긴급한 상황에 처했을 때 전화를 걸지 않고 지문인식 기능으로 911 구조요청을 하는 게 핵심이다.\n지문인식을 설정할 때 엄지손가락 지문은 '잠금 해제용'으로 저장하고 검지 지문을 '911 구조요청용'으로 저장하는 방식이다.\n평소에는 엄지손가락 지문으로 잠금을 해제하다 강도, 성범죄자 등을 만났을 때 검지손가락을 지문인식센서에 갖다 대는 것만으로 911에 신고가 접수되는 방식이다.\nGPS를 통해 이용자 위치가 911신고센터에 전송된다.\n특허는 터치스크린에 일정한 패턴을 입력해 911에 신고접수를 하는 기술도 포함한다.\n아이폰 화면을 힘껏 누르고 두 번 두드리면 911에 신고하는 방식이다.\n대부분 스마트폰이 잠금을 해제한 후 긴급통화를 걸 수 있다는 점을 고려하면 애플이 출원한 특허가 스마트폰 이용자 안전을 보장하는 핵심 기술이 될 전망이다.\n미국 일간 USA투데이는 \\\"차세대 아이폰에는 지문인식센서 대신 얼굴인식 기능으로 대체할 거란 관측이 나오고 있어 당장 구현할지 지켜봐야 할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플 아이폰 이용자가 위급 상황에서 지문인식 기능으로 긴급구조를 요청할 수 있게 될 전망이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국특허청(USPTO)에 따르면 애플은 18일(현지시간) 지문인식 기술을 이용해 911(우리나라의 119)에 구조를 요청하는 방식의 특허를 출원했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특허는 아이폰 이용자가 긴급한 상황에 처했을 때 전화를 걸지 않고 지문인식 기능으로 911 구조요청을 하는 게 핵심이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지문인식을 설정할 때 엄지손가락 지문은 '잠금 해제용'으로 저장하고 검지 지문을 '911 구조요청용'으로 저장하는 방식이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "평소에는 엄지손가락 지문으로 잠금을 해제하다 강도, 성범죄자 등을 만났을 때 검지손가락을 지문인식센서에 갖다 대는 것만으로 911에 신고가 접수되는 방식이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "GPS를 통해 이용자 위치가 911신고센터에 전송된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특허는 터치스크린에 일정한 패턴을 입력해 911에 신고접수를 하는 기술도 포함한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아이폰 화면을 힘껏 누르고 두 번 두드리면 911에 신고하는 방식이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "대부분 스마트폰이 잠금을 해제한 후 긴급통화를 걸 수 있다는 점을 고려하면 애플이 출원한 특허가 스마트폰 이용자 안전을 보장하는 핵심 기술이 될 전망이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "미국 일간 USA투데이는 \\\"차세대 아이폰에는 지문인식센서 대신 얼굴인식 기능으로 대체할 거란 관측이 나오고 있어 당장 구현할지 지켜봐야 할 것\\\"이라고 말했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“애플 아이폰, 지문인식으로 911 신고한다”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

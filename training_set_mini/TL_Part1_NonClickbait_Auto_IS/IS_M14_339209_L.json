@@ -1,0 +1,249 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339209",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "G마켓·옥션 '하이브리드 클라우드' 구축…e커머스 효율 강화",
+		"newsSubTitle": "",
+		"newsContent": "G마켓·옥션이 국내 e커머스 최대 규모 '하이브리드 클라우드' 인프라를 구축한다.\n급성장하는 e커머스 시장에서 서버 운영 효율을 높여 신속한 쇼핑 환경을 제공하고, 서비스 유연성과 보안, 효율을 모두 잡겠다는 구상이다.\n19일 업계에 따르면 G마켓·옥션은 최근 VM웨어 대용량 프라이빗 클라우드를 도입했다.\n기존에 사용 중인 마이크로소프트(MS)의 퍼블릭 클라우드인 애저(Azure)와 함께 e커머스 업체로는 국내 최대 규모 하이브리드 클라우드를 갖추게 됐다.\n하이브리드 클라우드는 △외부 인프라를 이용하는 퍼블릭 클라우드 △자체 인프라를 활용하는 프라이빗 클라우드 △회사 내 서버를 설치 운영하는 온프레미스가 조합된 환경을 말한다.\ne커머스 기업 경우 대규모 판촉행사 등에서 급증하는 서버 용량을 처리해야 한다.\n특히 오픈마켓 경우 소비자뿐만 아니라 판매자에게 신속하고 안정적 서비스를 제공하는 것이 중요하다.\n서버 장애가 발생할 경우 판매 중단, 데이터 유실 등 피해가 커지기 때문이다.\n국내 e커머스 기업 중에 하이브리드 클라우드와 데이터센터를 보유한 곳은 드물다.\n대부분 퍼블릭 클라우드를 활용하는 추세다.\n쿠팡 역시 전체 인프라를 퍼블릭 클라우드인 아마존웹서비스(AWS)로 전환했다.\n이는 운영 효율성과 비용 절감에는 유리하지만 해당 기업에 문제가 생길 경우 자칫 '서버 먹통 사태'가 발생할 우려가 있다.\n이에 따라 기존 데이터센터와 클라우드를 병행 운영하는 능력이 중요해졌다.\n서버 규모가 커질수록 관련된 각종 시스템 리소스가 증가하기 때문에 데이터센터 공간도 늘어나야 한다.\n하이브리드 클라우드는 서버가상화를 통해 신속한 처리와 상황에 맞는 유연하게 대처가 가능하다.\n서버가상화는 1개 컴퓨터 시스템에 각기 다른 여러개의 운영체제(OS)를 설치해 사용하기 때문에 거대한 물리 서버를 효율적으로 운영할 수 있다.\nG마켓·옥션은 전체 서버의 60%를 가상서버로 전환해 개발에 신속한 서버 환경을 구축하는 한편 고객 요구에도 빠르게 대응할 수 있도록 했다.\n물리서버 수량이 감소했기 때문에 코로케이션 비용과 전력 사용도 줄일 수 있다.\n또 MS 퍼블릭 클라우드 애저를 도입, 온프레미스와 연동해 유연하고 신축성 있는 데이터센터 인프라를 구축했다.\n긴급한 서버 증설이 필요할 때는 애저를 활용하고 서버가 필요없을 때는 줄여서 전체 서비스 구현에 드는 비용을 효율화한다는 구상이다.\nG마켓·옥션이 정보기술(IT) 인프라 고도화에 나서면서 온·오프라인 융합을 꾀하는 모회사 이마트와 시너지 기반도 마련됐다.\n이마트 역시 디지털 전환을 위해 단계별 클라우드 전략을 수립하고 프라이빗 클라우드 도입을 추진하고 있다.\n하이브리드 클라우드를 도입하려면 고도 운영 능력이 필요하다.\nG마켓·옥션은 여러 클라우드 환경을 유연하게 활용하는 능력의 클라우드 엔지니어 수요가 지속적으로 늘어날 것으로 보고 인재 확보에도 적극 나선다는 계획이다.\n김순석 이베이코리아 사이트옵스 실장은 “하이브리드 클라우드 인프라 운영 역량은 향후 국내 e커머스에 가속화되는 온·오프라인 유통 통합 흐름에서 매우 중요하게 작용할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 25,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "G마켓·옥션이 국내 e커머스 최대 규모 '하이브리드 클라우드' 인프라를 구축한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "급성장하는 e커머스 시장에서 서버 운영 효율을 높여 신속한 쇼핑 환경을 제공하고, 서비스 유연성과 보안, 효율을 모두 잡겠다는 구상이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "19일 업계에 따르면 G마켓·옥션은 최근 VM웨어 대용량 프라이빗 클라우드를 도입했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존에 사용 중인 마이크로소프트(MS)의 퍼블릭 클라우드인 애저(Azure)와 함께 e커머스 업체로는 국내 최대 규모 하이브리드 클라우드를 갖추게 됐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하이브리드 클라우드는 △외부 인프라를 이용하는 퍼블릭 클라우드 △자체 인프라를 활용하는 프라이빗 클라우드 △회사 내 서버를 설치 운영하는 온프레미스가 조합된 환경을 말한다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "e커머스 기업 경우 대규모 판촉행사 등에서 급증하는 서버 용량을 처리해야 한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 오픈마켓 경우 소비자뿐만 아니라 판매자에게 신속하고 안정적 서비스를 제공하는 것이 중요하다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서버 장애가 발생할 경우 판매 중단, 데이터 유실 등 피해가 커지기 때문이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "국내 e커머스 기업 중에 하이브리드 클라우드와 데이터센터를 보유한 곳은 드물다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "대부분 퍼블릭 클라우드를 활용하는 추세다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "쿠팡 역시 전체 인프라를 퍼블릭 클라우드인 아마존웹서비스(AWS)로 전환했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이는 운영 효율성과 비용 절감에는 유리하지만 해당 기업에 문제가 생길 경우 자칫 '서버 먹통 사태'가 발생할 우려가 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이에 따라 기존 데이터센터와 클라우드를 병행 운영하는 능력이 중요해졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "서버 규모가 커질수록 관련된 각종 시스템 리소스가 증가하기 때문에 데이터센터 공간도 늘어나야 한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "하이브리드 클라우드는 서버가상화를 통해 신속한 처리와 상황에 맞는 유연하게 대처가 가능하다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "서버가상화는 1개 컴퓨터 시스템에 각기 다른 여러개의 운영체제(OS)를 설치해 사용하기 때문에 거대한 물리 서버를 효율적으로 운영할 수 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "G마켓·옥션은 전체 서버의 60%를 가상서버로 전환해 개발에 신속한 서버 환경을 구축하는 한편 고객 요구에도 빠르게 대응할 수 있도록 했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "물리서버 수량이 감소했기 때문에 코로케이션 비용과 전력 사용도 줄일 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "또 MS 퍼블릭 클라우드 애저를 도입, 온프레미스와 연동해 유연하고 신축성 있는 데이터센터 인프라를 구축했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "긴급한 서버 증설이 필요할 때는 애저를 활용하고 서버가 필요없을 때는 줄여서 전체 서비스 구현에 드는 비용을 효율화한다는 구상이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "G마켓·옥션이 정보기술(IT) 인프라 고도화에 나서면서 온·오프라인 융합을 꾀하는 모회사 이마트와 시너지 기반도 마련됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이마트 역시 디지털 전환을 위해 단계별 클라우드 전략을 수립하고 프라이빗 클라우드 도입을 추진하고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "하이브리드 클라우드를 도입하려면 고도 운영 능력이 필요하다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "G마켓·옥션은 여러 클라우드 환경을 유연하게 활용하는 능력의 클라우드 엔지니어 수요가 지속적으로 늘어날 것으로 보고 인재 확보에도 적극 나선다는 계획이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "김순석 이베이코리아 사이트옵스 실장은 “하이브리드 클라우드 인프라 운영 역량은 향후 국내 e커머스에 가속화되는 온·오프라인 유통 통합 흐름에서 매우 중요하게 작용할 것”이라고 말했다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "G마켓·옥션 '하이브리드 클라우드' 구축…e커머스 효율 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

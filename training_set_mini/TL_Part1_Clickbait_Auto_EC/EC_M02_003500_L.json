@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003500",
+		"newsCategory": "경제",
+		"newsSubcategory": "증권",
+		"newsTitle": "한화, 2분기 이후에도 우호적 영업환경 지속",
+		"newsSubTitle": "올 1분기 매출액 12조8382억원…영업이익은 186.2% 증가한 8485억원 기록",
+		"newsContent": "SK증권이 17일 한화에 대해 2분기 이후에도 우호적인 영업환경이 지속돼 양호한 실적이 지속될 것으로 예상된다고 밝혔다.\n목표주가는 4만1000원으로 상향했고 투자의견은 매수를 유지했다.\n최관순 SK증권 연구원은 미디어SR에 \\\"한화의 올 1분기 매출액은 전년 대비 11.2% 감소한 12조8382억원, 영업이익은 186.2% 증가한 8485억원을 기록했다\\\"고 밝혔다.\n한화생명이 금리상승 등의 요인으로 한화 영업이익 개선에 크게 기여했으며 한화에어로스페이스는 민수부문과 방산부문의 동반 실적개선으로 영업이익 상승을 이끌었다.\n한화 솔루션도 케미칼 부문 호조로 영업이익이 상승했다.\n다만 한화건설은 해외사업 축소로 인해 매출액이 전년 동기 대비 33% 가량 감소했다.\n종합적으로 한화는 영업이익 기준 시장예상치를 132% 상회하며 양호한 실적을 시현했다.\n최 연구원은 \\\"금리상승, 주가상승 등 금융부문에 우호적인 영업환경이 지속될 것으로 예상된다\\\"며 \\\"코로나19 영향에 따라 부진했던 사업부들이 정상화되며 2분기 이후에도 양호한 실적이 예상된다\\\"고 분석했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK증권이 17일 한화에 대해 2분기 이후에도 우호적인 영업환경이 지속돼 양호한 실적이 지속될 것으로 예상된다고 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "목표주가는 4만1000원으로 상향했고 투자의견은 매수를 유지했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최관순 SK증권 연구원은 미디어SR에 \\\"한화의 올 1분기 매출액은 전년 대비 11.2% 감소한 12조8382억원, 영업이익은 186.2% 증가한 8485억원을 기록했다\\\"고 밝혔다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한화생명이 금리상승 등의 요인으로 한화 영업이익 개선에 크게 기여했으며 한화에어로스페이스는 민수부문과 방산부문의 동반 실적개선으로 영업이익 상승을 이끌었다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한화 솔루션도 케미칼 부문 호조로 영업이익이 상승했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만 한화건설은 해외사업 축소로 인해 매출액이 전년 동기 대비 33% 가량 감소했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "종합적으로 한화는 영업이익 기준 시장예상치를 132% 상회하며 양호한 실적을 시현했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "최 연구원은 \\\"금리상승, 주가상승 등 금융부문에 우호적인 영업환경이 지속될 것으로 예상된다\\\"며 \\\"코로나19 영향에 따라 부진했던 사업부들이 정상화되며 2분기 이후에도 양호한 실적이 예상된다\\\"고 분석했다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'신세계 등장' 동네상권 문 닫을판",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

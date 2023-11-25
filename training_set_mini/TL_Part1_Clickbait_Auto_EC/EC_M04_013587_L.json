@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013587",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "소리를 전기로… 청각장애 불편 줄여요",
+		"newsSubTitle": "기계연 허신 박사팀, 생체기계전자 소자 세계 최초 개발",
+		"newsContent": "대덕특구 연구진이 귓속 달팽이관을 모사한 청각장애인용 생체기계전자 소자를 개발했다.\n귓속 달팽이관을 모사해 소리 감지 기능을 구현하는 생체기계전자 소자의 세계 최초 기술이다.\n3일 한국기계연구원(원장 임용택)에 따르면 나노자연모사연구실 허신 박사팀이 '인공와우'(인공달팽이관)의 핵심소자인 '인공기저막 소자'를 개발, 달팽이관이 손상된 고도의 청각장애인의 삶의 질 향상에 기여할 것으로 기대를 모으고 있다.\n이번 개발한 인공기저막 소자는 생체 달팽이관의 기저막과 유모세포의 기능을 본떠 소리 신호의 주파수를 분리한 뒤 분리된 주파수 성분을 전기신호로 변환해 청신경을 자극하는 원리로 이뤄진다.\n작동 방식이 실제 달팽이관이 소리를 감지하는 메커니즘과 비슷해 신호처리를 한층 간단하게 할 수 있다.\n또한 소리신호를 주파수대역 100~5000에서 6채널의 주파수 성분을 분리할 수 있는 성능을 가지고 있다.\n생체적합성 타이타늄 소재를 사용해 40㎜×20㎜ 크기로 패키징되어 체내 이식도 가능하다.\n개발된 기술은 완전이식형 신개념 인공와우 장치에 통합되어 체내에 이식가능해 청각장애인들의 장애 노출을 최소화한다는 장점을 지니고 있다.\n한편, 관련 기술의 세계시장 규모는 2020년 약 26억 달러(약 2조 6000억 원) 수준으로 예상된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대덕특구 연구진이 귓속 달팽이관을 모사한 청각장애인용 생체기계전자 소자를 개발했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "귓속 달팽이관을 모사해 소리 감지 기능을 구현하는 생체기계전자 소자의 세계 최초 기술이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "3일 한국기계연구원(원장 임용택)에 따르면 나노자연모사연구실 허신 박사팀이 '인공와우'(인공달팽이관)의 핵심소자인 '인공기저막 소자'를 개발, 달팽이관이 손상된 고도의 청각장애인의 삶의 질 향상에 기여할 것으로 기대를 모으고 있다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 개발한 인공기저막 소자는 생체 달팽이관의 기저막과 유모세포의 기능을 본떠 소리 신호의 주파수를 분리한 뒤 분리된 주파수 성분을 전기신호로 변환해 청신경을 자극하는 원리로 이뤄진다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "작동 방식이 실제 달팽이관이 소리를 감지하는 메커니즘과 비슷해 신호처리를 한층 간단하게 할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 소리신호를 주파수대역 100~5000에서 6채널의 주파수 성분을 분리할 수 있는 성능을 가지고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "생체적합성 타이타늄 소재를 사용해 40㎜×20㎜ 크기로 패키징되어 체내 이식도 가능하다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "개발된 기술은 완전이식형 신개념 인공와우 장치에 통합되어 체내에 이식가능해 청각장애인들의 장애 노출을 최소화한다는 장점을 지니고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편, 관련 기술의 세계시장 규모는 2020년 약 26억 달러(약 2조 6000억 원) 수준으로 예상된다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'도안 내품에' 계룡·한양 도전장",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

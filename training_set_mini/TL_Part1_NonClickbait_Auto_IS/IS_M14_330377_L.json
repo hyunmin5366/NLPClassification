@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330377",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "큐샌, 엑스큐브나스 펌웨어 QSM 3.2.2 버전 출시",
+		"newsSubTitle": "",
+		"newsContent": "대만 엔터프라이즈 데이터스토리지 제조사 큐샌(QSAN)테크놀러지가 사용자 편의성을 강화한 엑스큐브나스 펌웨어 QSM 3.2.2 버전을 공개했다.\nQSM 3.2.2는 시스템 향상과 더 나은 시스템 리소스 할당, 큰 용량 파일백업과 동기화 등 성능을 업그레이드했다.\n많은 워크로드 시에도 스마트하게 메모리를 더 효율적으로 사용해 지속적으로 성능과 안정성을 누릴 수 있다.\n리빌딩 성능도 가속화해 리빌딩 시간이 80퍼센트 감소했다.\n중요한 데이터 노출이 없이 시스템을 원래 상태로 돌리는 것이 가능하다.\n빠른 백업과 동기화 지원으로 훨씬 간편하고 신속하게 스마트한 나스 장비 사용을 경험할 수 있도록 업그레이드했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대만 엔터프라이즈 데이터스토리지 제조사 큐샌(QSAN)테크놀러지가 사용자 편의성을 강화한 엑스큐브나스 펌웨어 QSM 3.2.2 버전을 공개했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "QSM 3.2.2는 시스템 향상과 더 나은 시스템 리소스 할당, 큰 용량 파일백업과 동기화 등 성능을 업그레이드했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "많은 워크로드 시에도 스마트하게 메모리를 더 효율적으로 사용해 지속적으로 성능과 안정성을 누릴 수 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "리빌딩 성능도 가속화해 리빌딩 시간이 80퍼센트 감소했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "중요한 데이터 노출이 없이 시스템을 원래 상태로 돌리는 것이 가능하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "빠른 백업과 동기화 지원으로 훨씬 간편하고 신속하게 스마트한 나스 장비 사용을 경험할 수 있도록 업그레이드했다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "큐샌, 엑스큐브나스 펌웨어 QSM 3.2.2 버전 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

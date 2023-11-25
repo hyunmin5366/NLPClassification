@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007467",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "도안 9블록 단지내상가 인기폭발",
+		"newsSubTitle": "29개 점포에 235명 몰려 하루만에 '품절'… 예정 낙찰가 보다 25억 높아",
+		"newsContent": "대전도시공사가 분양하는 도안신도시 9블록 트리풀시티 단지내 상가 분양이 단 하루만에 완료됐다.\n지난 18일 실시한 상가입찰은 29개 점포 분양에 235명이 입찰 참여신청을 해 8대 1이 넘는 경쟁률을 보였다.\n분양대상은 2개 상가의 29개 점포로 상가①은 19개(1층 7, 2층 6, 3층 6) 점포, 상가②는 10개(1층 5, 2층 5)점포로 이뤄져있다.\n면적은 47~152㎡이고 예정가격은 7000만~4억5700만원이다.\n당초 도시공사는 감정평가를 통해 29개 점포를 모두 합산해 총 63억원을 예상했으나 실제 낙찰가격은 25억원이 높은 88억여원으로 낙찰됐다.\n트리풀시티 아파트 상가가 이같이 폭발적인 인기 속에 분양이 완료된 것은 1828세대, 8000명여명이 넘는 상주인구를 가진 초대형 단지안에서 독점적인 영업이 가능하기 때문으로 풀이된다.\n도시공사 관계자는 “아파트단지들이 이미 입주가 시작되면서 어느 정도 활성화된 상태에서 영업을 시작한다는 점이 장점으로 꼽혔다”며 “그간 얼어붙었던 부동산시장이 조금씩 활기를 찾아가며 투자가치가 높은 물건은 순조롭게 판매되고 있는 시장분위기도 반영됐다”고 분석했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전도시공사가 분양하는 도안신도시 9블록 트리풀시티 단지내 상가 분양이 단 하루만에 완료됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 18일 실시한 상가입찰은 29개 점포 분양에 235명이 입찰 참여신청을 해 8대 1이 넘는 경쟁률을 보였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "분양대상은 2개 상가의 29개 점포로 상가①은 19개(1층 7, 2층 6, 3층 6) 점포, 상가②는 10개(1층 5, 2층 5)점포로 이뤄져있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "면적은 47~152㎡이고 예정가격은 7000만~4억5700만원이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당초 도시공사는 감정평가를 통해 29개 점포를 모두 합산해 총 63억원을 예상했으나 실제 낙찰가격은 25억원이 높은 88억여원으로 낙찰됐다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "트리풀시티 아파트 상가가 이같이 폭발적인 인기 속에 분양이 완료된 것은 1828세대, 8000명여명이 넘는 상주인구를 가진 초대형 단지안에서 독점적인 영업이 가능하기 때문으로 풀이된다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "도시공사 관계자는 “아파트단지들이 이미 입주가 시작되면서 어느 정도 활성화된 상태에서 영업을 시작한다는 점이 장점으로 꼽혔다”며 “그간 얼어붙었던 부동산시장이 조금씩 활기를 찾아가며 투자가치가 높은 물건은 순조롭게 판매되고 있는 시장분위기도 반영됐다”고 분석했다.",
+				"sentenceSize": 147
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세종·울산이 올 초 단독주택가격 상승 주도",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

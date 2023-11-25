@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334703",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "산업·에너지·환경",
+		"newsTitle": "“트럼프, 내달 방한때 한일 핵우산 약속할 것”",
+		"newsSubTitle": "",
+		"newsContent": "도널드 트럼프 미국 대통령이 다음달 초 한국을 방문한 자리에서 한국과 일본에 핵우산을 약속하는 내용의 대북 압박 메시지를 발표할 계획이라는 전망이 나왔다.\n15일 일본 요미우리신문은 소식식통을 인용해 트럼프 대통령이 한국에서 대북 정책에 관한 주요연설을 할 계획이라고 보도했다.\n이 연설에서 트럼프 대통령은 북한의 핵∙미사일 문제를 정권의 가장 중요한 과제로 위치시켜 북한에 대한 압박 강화 방침을 최전선에서 강조할 방침이라고 전해졌다.\n북한에 대해서는 핵∙미사일 발사의 완전 포기를 압박하고 한국과 일본에 대한 핵우산 제공을 약속한다는 내용이다.\n트럼프는 군사적 조치를 포함한 모든 선택지를 검토하고 있음을 강조할 계획인 것으로 알려졌다.\n또한, 요미우리는 트럼프 대통령이 아시아순방 기간 아시아태평양경제협력체(APEC) 정상회의가 열리는 베트남을 방문해서는 처음으로 미국의 아시아 전략 전체상을 밝힐 계획이라고 보도했다.\n중국을 포함한 분쟁당사국에 대한 방침을 비롯해 아시아 국가에 대한 미군 항행 자유 작전에 대한 구상을 전할 방침인 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "도널드 트럼프 미국 대통령이 다음달 초 한국을 방문한 자리에서 한국과 일본에 핵우산을 약속하는 내용의 대북 압박 메시지를 발표할 계획이라는 전망이 나왔다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 일본 요미우리신문은 소식식통을 인용해 트럼프 대통령이 한국에서 대북 정책에 관한 주요연설을 할 계획이라고 보도했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 연설에서 트럼프 대통령은 북한의 핵∙미사일 문제를 정권의 가장 중요한 과제로 위치시켜 북한에 대한 압박 강화 방침을 최전선에서 강조할 방침이라고 전해졌다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "북한에 대해서는 핵∙미사일 발사의 완전 포기를 압박하고 한국과 일본에 대한 핵우산 제공을 약속한다는 내용이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "트럼프는 군사적 조치를 포함한 모든 선택지를 검토하고 있음을 강조할 계획인 것으로 알려졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한, 요미우리는 트럼프 대통령이 아시아순방 기간 아시아태평양경제협력체(APEC) 정상회의가 열리는 베트남을 방문해서는 처음으로 미국의 아시아 전략 전체상을 밝힐 계획이라고 보도했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중국을 포함한 분쟁당사국에 대한 방침을 비롯해 아시아 국가에 대한 미군 항행 자유 작전에 대한 구상을 전할 방침인 것으로 알려졌다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“트럼프, 내달 방한때 한일 핵우산 약속할 것”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

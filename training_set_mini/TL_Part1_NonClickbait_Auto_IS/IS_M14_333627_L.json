@@ -1,0 +1,267 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333627",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "KISA 취약점 신고포상제로 찾은 버그 1000개 돌파",
+		"newsSubTitle": "",
+		"newsContent": "한국인터넷진흥원(KISA) 보안 취약점 신고포상제로 찾은 버그가 1000건을 넘었다.\n신고포상제 공동 운용사도 10곳으로 늘었다.\nKISA가 2012년 10월 시행 후 7년이 지나 국내 대표 취약점 신고포상 창구로 자리 잡았다.\n신고포상제는 소프트웨어 버그와 취약점을 발견한 사람에게 포상금을 지급하는 제도다.\n해킹에 악용되는 보안 취약점을 사전에 발견해 조치한다.\n구글, 페이스북, 마이크로소프트, 애플 등 글로벌 기업도 보안 고도화를 위해 시행 중이다.\n블랙 해커는 보안 취약점을 찾아내 인터넷 블랙마켓에서 판매한다.\n취약점 신고포상제는 암시장 거래를 양성화해 보안을 강화하는 취지다.\n시행 첫해 2012년 취약점 신고 건수는 23건에 머물렀다.\n2013년 179건, 2014년 274건, 2015년 321건이 접수됐다.\n2016년 696건으로 급증했으며 지난해(3분기 기준) 547건이 신고돼 총 2040건에 달했다.\n신고가 늘면서 포상도 증가했다.\n지난해까지 총 1157건의 포상이 이뤄졌다.\nKISA는 2012년 민간 기업이 스스로 나서지 않자 공공기관이 보상하는 제도로 취약점 보상제를 시작했다.\n이후 네이버와 한컴이 참여한 후 카카오, 카카오뱅크, 네오위즈게임즈, 이스트시큐리티, 이니텍, 잉카인터넷, 지니언스, 안랩 등 10곳으로 늘었다.\n포상급 지급 평가는 분기별로 시행한다.\n우수 취약점을 선정해 평가 결과에 따라 30만원에서 최고 500만원을 포상한다.\n신고 대상은 최신 소프트웨어 버전에 영향을 주는 제로데이 취약점이다.\n실제 서비스 중인 웹사이트나 서버, 네트워크, 보안 장비 등 시스템에 특정 데이터를 전송해 영향을 줄 우려가 있는 취약점은 평가와 포상 대상에서 제외된다.\n신고 취약점은 보안 업데이트 개발에 활용된다.\n제조사가 보안 패치를 한 날로부터 4개월 전에 외부 공개가 불가하다.\nKISA는 올해 스마트홈 기기, 드론, 인공지능 스피커 등 사물인터넷(IoT) 취약점 집중 신고 기간을 운영했다.\nIoT 취약점 신고 건수는 769건이었으며 383건을 포상했다.\nKISA는 IoT와 같이 특정 사이버 공격이 늘어나면 대응 조치로 집중 취약점 신고 기간을 시행한다.\n신대규 KISA 정보보호산업본부장은 “기업은 취약점 신고가 들어와도 평가 기준과 능력이 없어 포상하지 못했다”면서 “공동운영사로 들어오면 취약점을 찾아 업데이트하는 것은 물론 보상제 운영 능력을 키운다”고 설명했다.\n신 본부장은 “KISA에 취약점을 신고한다고 해서 포상금이 최대 500만원은 아니다”라면서 “1억원 가치의 취약점을 KISA에 신고하면 해당 회사와 중계한다”고 덧붙였다.\n이동근 KISA 침해사고분석단장은 “공동운영사가 취약점 평가와 운영 능력을 키우면 자체 버그바운티를 운영하도록 독려한다”면서 “취약점 보상 시장 규모를 키워 양성화하는데 노력하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 27,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국인터넷진흥원(KISA) 보안 취약점 신고포상제로 찾은 버그가 1000건을 넘었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신고포상제 공동 운용사도 10곳으로 늘었다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KISA가 2012년 10월 시행 후 7년이 지나 국내 대표 취약점 신고포상 창구로 자리 잡았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신고포상제는 소프트웨어 버그와 취약점을 발견한 사람에게 포상금을 지급하는 제도다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해킹에 악용되는 보안 취약점을 사전에 발견해 조치한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구글, 페이스북, 마이크로소프트, 애플 등 글로벌 기업도 보안 고도화를 위해 시행 중이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "블랙 해커는 보안 취약점을 찾아내 인터넷 블랙마켓에서 판매한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "취약점 신고포상제는 암시장 거래를 양성화해 보안을 강화하는 취지다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "시행 첫해 2012년 취약점 신고 건수는 23건에 머물렀다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "2013년 179건, 2014년 274건, 2015년 321건이 접수됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "2016년 696건으로 급증했으며 지난해(3분기 기준) 547건이 신고돼 총 2040건에 달했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "신고가 늘면서 포상도 증가했다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "지난해까지 총 1157건의 포상이 이뤄졌다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "KISA는 2012년 민간 기업이 스스로 나서지 않자 공공기관이 보상하는 제도로 취약점 보상제를 시작했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이후 네이버와 한컴이 참여한 후 카카오, 카카오뱅크, 네오위즈게임즈, 이스트시큐리티, 이니텍, 잉카인터넷, 지니언스, 안랩 등 10곳으로 늘었다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "포상급 지급 평가는 분기별로 시행한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "우수 취약점을 선정해 평가 결과에 따라 30만원에서 최고 500만원을 포상한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "신고 대상은 최신 소프트웨어 버전에 영향을 주는 제로데이 취약점이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "실제 서비스 중인 웹사이트나 서버, 네트워크, 보안 장비 등 시스템에 특정 데이터를 전송해 영향을 줄 우려가 있는 취약점은 평가와 포상 대상에서 제외된다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "신고 취약점은 보안 업데이트 개발에 활용된다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "제조사가 보안 패치를 한 날로부터 4개월 전에 외부 공개가 불가하다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "KISA는 올해 스마트홈 기기, 드론, 인공지능 스피커 등 사물인터넷(IoT) 취약점 집중 신고 기간을 운영했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "IoT 취약점 신고 건수는 769건이었으며 383건을 포상했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "KISA는 IoT와 같이 특정 사이버 공격이 늘어나면 대응 조치로 집중 취약점 신고 기간을 시행한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "신대규 KISA 정보보호산업본부장은 “기업은 취약점 신고가 들어와도 평가 기준과 능력이 없어 포상하지 못했다”면서 “공동운영사로 들어오면 취약점을 찾아 업데이트하는 것은 물론 보상제 운영 능력을 키운다”고 설명했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "신 본부장은 “KISA에 취약점을 신고한다고 해서 포상금이 최대 500만원은 아니다”라면서 “1억원 가치의 취약점을 KISA에 신고하면 해당 회사와 중계한다”고 덧붙였다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "이동근 KISA 침해사고분석단장은 “공동운영사가 취약점 평가와 운영 능력을 키우면 자체 버그바운티를 운영하도록 독려한다”면서 “취약점 보상 시장 규모를 키워 양성화하는데 노력하겠다”고 말했다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KISA 취약점 신고포상제로 찾은 버그 1000개 돌파",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

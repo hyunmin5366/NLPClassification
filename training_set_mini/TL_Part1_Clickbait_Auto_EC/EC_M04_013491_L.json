@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013491",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "한은, 기준금리 연 2.0% 동결…추가인하 가능성도",
+		"newsSubTitle": "",
+		"newsContent": "한국은행 기준금리가 2.00%로 동결됐다.\n13일 한은은 금융통화위원회 본회의를 열고 기준금리를 현 수준(2.00%)에서 유지해 통화정책을 운용하기로 결정했다.\n한은은 앞서 지난 8월과 10월에 기준금리를 0.25% 포인트씩 내렸었다.\n현재 기준금리는 글로벌 금융위기인 2009년 2월 기준금리와 같은 사상 최저치 수준이다.\n이번 기준금리 동결 결정은 지난번 기준금리 인하 효과가 시장에 반영되지 않아 당분간 경기 흐름을 지켜볼 필요가 있다는 판단에 따른 것이다.\n하지만 일본의 엔저 현상이 지속되고, 국내 경기가 회복되지 않을 경우에는 기준금리를 추가 인하할 가능성이 크다.\n이주열 총재는 금통위 직후 열린 기자간담회에서 “미리 예단해서 말할 수 없다”면서 추가 금리 인하의 가능성을 열어왔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국은행 기준금리가 2.00%로 동결됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 한은은 금융통화위원회 본회의를 열고 기준금리를 현 수준(2.00%)에서 유지해 통화정책을 운용하기로 결정했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한은은 앞서 지난 8월과 10월에 기준금리를 0.25% 포인트씩 내렸었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 기준금리는 글로벌 금융위기인 2009년 2월 기준금리와 같은 사상 최저치 수준이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 기준금리 동결 결정은 지난번 기준금리 인하 효과가 시장에 반영되지 않아 당분간 경기 흐름을 지켜볼 필요가 있다는 판단에 따른 것이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 일본의 엔저 현상이 지속되고, 국내 경기가 회복되지 않을 경우에는 기준금리를 추가 인하할 가능성이 크다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이주열 총재는 금통위 직후 열린 기자간담회에서 “미리 예단해서 말할 수 없다”면서 추가 금리 인하의 가능성을 열어왔다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코레일 추석연휴 승차권 추가발매",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

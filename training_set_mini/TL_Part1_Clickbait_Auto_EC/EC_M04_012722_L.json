@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012722",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "'소비자 기만' 가격비교사이트 철퇴",
+		"newsSubTitle": "허위·과장광고 유인 4곳에 공정위 2000만원 과태료",
+		"newsContent": "공정거래위원회는 국내 4개 가격비교사이트의 전자상거래법 위반여부를 점검해 허위 또는 기만적 방법으로 소비자를 유인한 가격비교사이트 운영 사업자에 시정명령(공표명령 포함)과 함께 과태료 총 2000만원을 부과했다고 6일 밝혔다.\n4개 가격비교사이트는 네이버 지식쇼핑(네이버비즈니스플랫폼(주)), 다음 쇼핑하우((주)다음커뮤니케이션), 어바웃((주)이베이코리아), 다나와((주)다나와) 등이다.\n공정위에 따르면 이들 가격비교사이트는 허위 또는 과장된 사실을 알리거나 기만적인 방법을 사용해 소비자를 유인했다.\n인터넷 쇼핑몰로부터 광고비를 받은 상품을 전시했음에도 해당 상품이 광고상품이라는 사실을 명확하게 표시하지 않았다.\n이러한 행위는 소비자의 구매선택에 중요한 영향을 미칠 수 있는 광고상품이라는 사실을 알리지 않음으로써 소비자를 기만적으로 유인한 행위다.\n공정위 관계자는 “이번 조치를 통해 앞으로는 가격비교사이트들이 광고상품을 게시할 경우 이를 명확히 표시하도록 함으로써 소비자들의 합리적인 구매선택에 도움을 줄 것으로 기대된다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "공정거래위원회는 국내 4개 가격비교사이트의 전자상거래법 위반여부를 점검해 허위 또는 기만적 방법으로 소비자를 유인한 가격비교사이트 운영 사업자에 시정명령(공표명령 포함)과 함께 과태료 총 2000만원을 부과했다고 6일 밝혔다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4개 가격비교사이트는 네이버 지식쇼핑(네이버비즈니스플랫폼(주)), 다음 쇼핑하우((주)다음커뮤니케이션), 어바웃((주)이베이코리아), 다나와((주)다나와) 등이다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공정위에 따르면 이들 가격비교사이트는 허위 또는 과장된 사실을 알리거나 기만적인 방법을 사용해 소비자를 유인했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인터넷 쇼핑몰로부터 광고비를 받은 상품을 전시했음에도 해당 상품이 광고상품이라는 사실을 명확하게 표시하지 않았다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이러한 행위는 소비자의 구매선택에 중요한 영향을 미칠 수 있는 광고상품이라는 사실을 알리지 않음으로써 소비자를 기만적으로 유인한 행위다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공정위 관계자는 “이번 조치를 통해 앞으로는 가격비교사이트들이 광고상품을 게시할 경우 이를 명확히 표시하도록 함으로써 소비자들의 합리적인 구매선택에 도움을 줄 것으로 기대된다”고 말했다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한라공조·KAIST·전자통신연 유형별 특허출원 1위",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333317",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "美GM, 전기차·자율차에 3.5조원 투입...'허머' 전기트럭 출시",
+		"newsSubTitle": "",
+		"newsContent": "미국 최대 완성차 업체인 제너럴모터스(GM)가 트럭·SUV(스포츠유틸리티차량) 전기차와 자율주행차 생산에 우리돈 약 3조540억원(30억달러)를 투자하기로 했다.\n27일(현지시간) 미국 CNBC 방송 등에 따르면 GM의 마크 로이스 사장은 미시간주의 디트로이트 햄트램크 공장에서 “우리는 현재 진정으로 미래를 건설하고 있다”며 이 같이 밝혔다.\n30억달러 가운데 22억달러는 GM의 디트로이트 햄트램크 공장에 투입될 것으로 전해졌다.\nCNBC는 GM이 생산할 전기차에는 '허머' 픽업트럭이 포함될 것으로 예상된다면서 첫 전기차 픽업트럭은 내년 말부터 생산될 것으로 보인다고 전했다.\n이어 GM이 지난주 샌프란시스코에서 공개한 자율주행차 '크루즈 오리진'(Cruise Origin)'이 뒤이어 생산될 것으로 내다봤다. GM은 디트로이트 햄트램크 공장이 완전히 가동되면 2200개의 일자리가 추가로 창출될 것으로 예상한다고 밝혔다. GM의 디트로이트 햄트램크 공장은 전기차 생산 전용 공장으로 탈바꿈할 예정이다. 현재는 쉐보레 '임팔라'와 캐딜락 'CT6'를 생산하고 있다.\nCNBC는 디트로이트 햄트램크 공장은 재정비를 위해 2월 말부터 수개월 동안 가동이 일시 중단될 예정이라고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 최대 완성차 업체인 제너럴모터스(GM)가 트럭·SUV(스포츠유틸리티차량) 전기차와 자율주행차 생산에 우리돈 약 3조540억원(30억달러)를 투자하기로 했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일(현지시간) 미국 CNBC 방송 등에 따르면 GM의 마크 로이스 사장은 미시간주의 디트로이트 햄트램크 공장에서 “우리는 현재 진정으로 미래를 건설하고 있다”며 이 같이 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "30억달러 가운데 22억달러는 GM의 디트로이트 햄트램크 공장에 투입될 것으로 전해졌다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "CNBC는 GM이 생산할 전기차에는 '허머' 픽업트럭이 포함될 것으로 예상된다면서 첫 전기차 픽업트럭은 내년 말부터 생산될 것으로 보인다고 전했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이어 GM이 지난주 샌프란시스코에서 공개한 자율주행차 '크루즈 오리진'(Cruise Origin)'이 뒤이어 생산될 것으로 내다봤다. GM은 디트로이트 햄트램크 공장이 완전히 가동되면 2200개의 일자리가 추가로 창출될 것으로 예상한다고 밝혔다. GM의 디트로이트 햄트램크 공장은 전기차 생산 전용 공장으로 탈바꿈할 예정이다. 현재는 쉐보레 '임팔라'와 캐딜락 'CT6'를 생산하고 있다.",
+				"sentenceSize": 217
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CNBC는 디트로이트 햄트램크 공장은 재정비를 위해 2월 말부터 수개월 동안 가동이 일시 중단될 예정이라고 전했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美GM, 전기차·자율차에 3.5조원 투입...'허머' 전기트럭 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333178",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "KT, 코로나19 확산 예측 얼라이언스 1기 성과 공유",
+		"newsSubTitle": "",
+		"newsContent": "KT가 '코로나19 확산예측 연구 얼라이언스' 1기 활동을 종료, 연구 성과를 코로나19 방역체계에 활용한다.\n코로나19 확산예측 연구 얼라이언스는 3월 KT가 과학기술정보통신부, 한국데이터산업진흥원과 코로나19 급격한 확산에 공동으로 대응하기 위해 출범한 협의체다. 서울대, 건국대, 한국과학기술원(KAIST), 한국과학기술연구원(KIST), 한국과학기술정보연구원(KISTI), 한양대-국가수리과학연구소(수리연)가 참여했다.\nKT는 유동인구·로밍 통계 데이터를 제공하고, 인공지능(AI), 빅데이터, 수리 모델링 등 기술을 통해 참여 기관과 코로나19 국내 유입· 지역 내 확산을 예측하는 연구를 했다.\n코로나19 확산예측 연구는 '감염병 해외유입 위험도 예측'과 '국내 확산지역 예측' 등 2가지 분야에서 이뤄졌다.\nKT와 과기정통부는 1기 연구 성과를 코로나19 방역체계에 활용할 수 있도록 지속 보완 및 고도화할 예정이며, 연구기관과 연구범위를 확대해 '코로나19 확산예측 연구 얼라이언스 2기'를 출범할 계획이다.\n김채희 KT AI/BigData사업본부장(상무)은 “코로나19 확산예측 연구 얼라이언스 1기 활동을 통해 얻은 연구성과를 K방역 강화에 활용하기 위해 정부와 협의할 예정”이라며, “KT는 세계 진출을 추진 중인 글로벌 감염병 확산 방지 플랫폼(GEPP)을 지속 고도화하면서 감염병으로 인한 글로벌 펜데믹을 최소화하는데 기여하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 '코로나19 확산예측 연구 얼라이언스' 1기 활동을 종료, 연구 성과를 코로나19 방역체계에 활용한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코로나19 확산예측 연구 얼라이언스는 3월 KT가 과학기술정보통신부, 한국데이터산업진흥원과 코로나19 급격한 확산에 공동으로 대응하기 위해 출범한 협의체다. 서울대, 건국대, 한국과학기술원(KAIST), 한국과학기술연구원(KIST), 한국과학기술정보연구원(KISTI), 한양대-국가수리과학연구소(수리연)가 참여했다.",
+				"sentenceSize": 176
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KT는 유동인구·로밍 통계 데이터를 제공하고, 인공지능(AI), 빅데이터, 수리 모델링 등 기술을 통해 참여 기관과 코로나19 국내 유입· 지역 내 확산을 예측하는 연구를 했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코로나19 확산예측 연구는 '감염병 해외유입 위험도 예측'과 '국내 확산지역 예측' 등 2가지 분야에서 이뤄졌다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KT와 과기정통부는 1기 연구 성과를 코로나19 방역체계에 활용할 수 있도록 지속 보완 및 고도화할 예정이며, 연구기관과 연구범위를 확대해 '코로나19 확산예측 연구 얼라이언스 2기'를 출범할 계획이다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김채희 KT AI/BigData사업본부장(상무)은 “코로나19 확산예측 연구 얼라이언스 1기 활동을 통해 얻은 연구성과를 K방역 강화에 활용하기 위해 정부와 협의할 예정”이라며, “KT는 세계 진출을 추진 중인 글로벌 감염병 확산 방지 플랫폼(GEPP)을 지속 고도화하면서 감염병으로 인한 글로벌 펜데믹을 최소화하는데 기여하겠다”고 말했다.",
+				"sentenceSize": 190
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 코로나19 확산 예측 얼라이언스 1기 성과 공유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

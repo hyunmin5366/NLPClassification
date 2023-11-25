@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326431",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "게임",
+		"newsTitle": "[2020 핫이슈-해외]글로벌 IT 공룡 해체위기",
+		"newsSubTitle": "",
+		"newsContent": "구글, 페이스북 등 글로벌 정보기술(IT) 공룡이 해체위기다.\n월스트리트저널 등 외신에 따르면 미국 연방거래위원회(FTC)는 최근 페이스북에 대한 반(反)독점 조사 일환으로 이 회사 애플리케이션(앱) 통합 작업을 중단시키는 예비명령을 검토 중이다.\n페이스북은 메신저, 왓츠앱, 인스타그램 등 자사 사화관계망서비스(SNS) 통합 작업을 추진 중이다.\n새해 미국 대선을 앞두고 민주당 대선 주자인 엘리자베스 워런 상원의원을 중심으로 구글, 페이스북, 애플 아마존 등 IT 공룡을 분할해야 한다는 주장이 수면 위로 떠올랐다.\n이들 기업의 영향력이 커지며 개인정보유출, 시장독점 등 부작용이 크다는 것이다.\n11월 미국 대통령선거를 앞두고 이들 공룡 기업을 해체하려는 정치권과 시민사회 그리고 업계의 치열한 공방이 이어질 것으로 보인다.\n뉴욕타임스에 따르면 분할 표적이 된 IT 기업은 규제강화 움직임에 워싱턴DC에 대규모 '로비사단'을 구축하는 등 대응에 나섰다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구글, 페이스북 등 글로벌 정보기술(IT) 공룡이 해체위기다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "월스트리트저널 등 외신에 따르면 미국 연방거래위원회(FTC)는 최근 페이스북에 대한 반(反)독점 조사 일환으로 이 회사 애플리케이션(앱) 통합 작업을 중단시키는 예비명령을 검토 중이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "페이스북은 메신저, 왓츠앱, 인스타그램 등 자사 사화관계망서비스(SNS) 통합 작업을 추진 중이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "새해 미국 대선을 앞두고 민주당 대선 주자인 엘리자베스 워런 상원의원을 중심으로 구글, 페이스북, 애플 아마존 등 IT 공룡을 분할해야 한다는 주장이 수면 위로 떠올랐다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들 기업의 영향력이 커지며 개인정보유출, 시장독점 등 부작용이 크다는 것이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "11월 미국 대통령선거를 앞두고 이들 공룡 기업을 해체하려는 정치권과 시민사회 그리고 업계의 치열한 공방이 이어질 것으로 보인다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "뉴욕타임스에 따르면 분할 표적이 된 IT 기업은 규제강화 움직임에 워싱턴DC에 대규모 '로비사단'을 구축하는 등 대응에 나섰다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2020 핫이슈-해외]글로벌 IT 공룡 해체위기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

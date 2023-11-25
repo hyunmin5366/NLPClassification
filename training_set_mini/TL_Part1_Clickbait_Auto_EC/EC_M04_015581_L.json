@@ -1,0 +1,285 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015581",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "[재밌는 IT 이야기]무선 전력전송 기술",
+		"newsSubTitle": "'자기공명방식' 1m 거리 내 전기자전거 무선충전 가능",
+		"newsContent": "▲ 정길호 ETRI 성과홍보실장노트북, 스마트 패드, 스마트폰 등의 공통점은 사용을 위해선 꼭 배터리가 필요하다는 점이다.\n매일같이 자주 사용하는 스마트폰의 경우, 배터리는 애물단지가 되어 버렸다.\n동영상을 자주 보고, 인터넷에도 자주 접속해야 하는 오늘날의 특성상 오후가 되면 배터리가 달랑 달랑 하기 일쑤다.\n그래서 보조 배터리 사용도 늘어가고 있다.\n국내 연구진이 1m 내에서 가로, 세로, 높이 즉 공간내서 무선으로 충전하는 기술 개발에 성공했다.\n지난해부터 스마트폰도 무선충전을 한다며 광고하고 있지만, 스마트폰 무선충전은 패드형 구조로 근접거리가 고작 7mm 내외로 바짝 붙여야 충전된다.\n향후 전기자동차 등의 수요 및 시장예측으로 볼 때 획기적인 기술이다.\n그만큼 충전 가능거리를 넓힘에 따라 향후 웨어러블 기기나 사물인터넷(IoT) 시대를 성큼 앞당길 전망이다.\n이번 연구진이 개발에 성공한 기술은 60와트(Watt)급 자기공명 방식을 이용한 무선충전 시스템이다.\n공간 충전을 시연하기 위해 전기자전거에 먼저 적용해 보았다.\n전기 자전거의 앞바퀴를 충전할 수 있는 공진기 사이에 두자 무선충전이 이루어 졌다.\n충전장치에서 마치 전기를 자전거에 쏘아주듯 송신기 역할을 하게 만들었다.\n완전 무선화하여 편리하고 안전한 충전 서비스가 가능한 길을 연 셈이다.\n연구진은 공간내 무선전송방식을 택해 특정한 구역 내에 스마트기기가 들어오게 되면 충전되도록 만들었다.\n우리가 사용하는 와이파이존 처럼 일명 '에너지존(E-Zone)'을 만든 것이다.\n향후 본 기술이 상용화되면 자동차의 컵홀더나 가정내의 바구니, 책꽃이 등에 서로 다른 스마트기기를 놓아 두기만 하면 자동충전되는 방식으로 발전될 전망이다.\nETRI는 본 기술이 1.78MHz대역의 낮은 주파수로 기존보다 에너지 밀도가 균일한 충전영역(균일장, Quiet zone)을 만드는데 성공했다고 설명했다.\n특정 공간내의 스마트기기들을 충전하기 위해선 균일한 자기장 조성은 반드시 필요한 작업이다.\n이는 스마트기기를 공간 내 어느 위치에 놔 두어도 균일한 전력효율을 내기 위해서다.\nETRI는 현재, X,Y,Z축내 3차원 공간중 한 축을 이용해 충전하는 방식에 성공했다.\n따라서 이번 개발은 향후 완벽한 무선 공간의 충전으로 가는 핵심 원천기술을 개발한 것이다.\n연구진은 개발한 전기자전거 배터리의 용량을 완충하기 위해선 기존 유선으로 6시간 가량 걸렸는데 현재 ETRI 무선충전방식은 10시간 정도라고 설명했다.\n향후 이를 절반정도인 5시간 내외로 줄일 계획인데 이를 위해선 송신전력을 높이면서 송수신 시스템의 안정성 확보에 주력해야 한다.\n전자파 환경 문제도 물론 추가로 개발 중이다.\n따라서 연구진은 향후 빠른 충전을 위한 노력을 추가 연구를 통해 완료할 계획이다.\n기존 스마트폰의 패드형 충전방식은 자기유도 방식으로 유선대비 효율이 약 80%에 달한다.\nETRI는 자기공명 방식으로 1미터 거리에서도 유선대비 약 58%효율이 나온다고 밝혔다.\n현재 세계최고 수준이다.\n상용화 수준은 70%로 보고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 29,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 정길호 ETRI 성과홍보실장노트북, 스마트 패드, 스마트폰 등의 공통점은 사용을 위해선 꼭 배터리가 필요하다는 점이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "매일같이 자주 사용하는 스마트폰의 경우, 배터리는 애물단지가 되어 버렸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "동영상을 자주 보고, 인터넷에도 자주 접속해야 하는 오늘날의 특성상 오후가 되면 배터리가 달랑 달랑 하기 일쑤다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그래서 보조 배터리 사용도 늘어가고 있다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국내 연구진이 1m 내에서 가로, 세로, 높이 즉 공간내서 무선으로 충전하는 기술 개발에 성공했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해부터 스마트폰도 무선충전을 한다며 광고하고 있지만, 스마트폰 무선충전은 패드형 구조로 근접거리가 고작 7mm 내외로 바짝 붙여야 충전된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "향후 전기자동차 등의 수요 및 시장예측으로 볼 때 획기적인 기술이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그만큼 충전 가능거리를 넓힘에 따라 향후 웨어러블 기기나 사물인터넷(IoT) 시대를 성큼 앞당길 전망이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이번 연구진이 개발에 성공한 기술은 60와트(Watt)급 자기공명 방식을 이용한 무선충전 시스템이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "공간 충전을 시연하기 위해 전기자전거에 먼저 적용해 보았다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "전기 자전거의 앞바퀴를 충전할 수 있는 공진기 사이에 두자 무선충전이 이루어 졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "충전장치에서 마치 전기를 자전거에 쏘아주듯 송신기 역할을 하게 만들었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "완전 무선화하여 편리하고 안전한 충전 서비스가 가능한 길을 연 셈이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "연구진은 공간내 무선전송방식을 택해 특정한 구역 내에 스마트기기가 들어오게 되면 충전되도록 만들었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "우리가 사용하는 와이파이존 처럼 일명 '에너지존(E-Zone)'을 만든 것이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "향후 본 기술이 상용화되면 자동차의 컵홀더나 가정내의 바구니, 책꽃이 등에 서로 다른 스마트기기를 놓아 두기만 하면 자동충전되는 방식으로 발전될 전망이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "ETRI는 본 기술이 1.78MHz대역의 낮은 주파수로 기존보다 에너지 밀도가 균일한 충전영역(균일장, Quiet zone)을 만드는데 성공했다고 설명했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "특정 공간내의 스마트기기들을 충전하기 위해선 균일한 자기장 조성은 반드시 필요한 작업이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이는 스마트기기를 공간 내 어느 위치에 놔 두어도 균일한 전력효율을 내기 위해서다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "ETRI는 현재, X,Y,Z축내 3차원 공간중 한 축을 이용해 충전하는 방식에 성공했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "따라서 이번 개발은 향후 완벽한 무선 공간의 충전으로 가는 핵심 원천기술을 개발한 것이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "연구진은 개발한 전기자전거 배터리의 용량을 완충하기 위해선 기존 유선으로 6시간 가량 걸렸는데 현재 ETRI 무선충전방식은 10시간 정도라고 설명했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "향후 이를 절반정도인 5시간 내외로 줄일 계획인데 이를 위해선 송신전력을 높이면서 송수신 시스템의 안정성 확보에 주력해야 한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "전자파 환경 문제도 물론 추가로 개발 중이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "따라서 연구진은 향후 빠른 충전을 위한 노력을 추가 연구를 통해 완료할 계획이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "기존 스마트폰의 패드형 충전방식은 자기유도 방식으로 유선대비 효율이 약 80%에 달한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "ETRI는 자기공명 방식으로 1미터 거리에서도 유선대비 약 58%효율이 나온다고 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "현재 세계최고 수준이다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "상용화 수준은 70%로 보고 있다.",
+				"sentenceSize": 19
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "가을 분양 흥행스코어, 투자자에 답 있다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336519",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "[테크리포트]자체 AI 인프라 구축 필요성",
+		"newsSubTitle": "",
+		"newsContent": "초기 투자 비용과 번거로운 구현 과정이 필요 없다는 점에서 클라우드 기반 AI 머신러닝 서비스가 인기를 끌지만 여러 이유로 온프레미스나 프라이빗 클라우드 등 자체 구축형 AI 인프라 수요는 존재한다.\n우선 커스터마이징 필요성 때문이다.\n플랫폼 사업자가 제공하는 서비스형 소프트웨어(SaaS) 혹은 서비스형 플랫폼(PaaS)을 그대로 사용하는 대신 업무에 맞춰 변경하길 원하는 기업이 자체 구축에 나서고 있다.\n의외의 복병이 비용이다.\n퍼블릭 클라우드 서비스가 초기 비용 부담을 줄이고 사용한 만큼 과금으로 비용 효과가 높다지만 에지 등에서 발생된 대량 데이터를 수집, 클라우드 서비스로 전송하면 네트워크 비용에 큰 부담을 느끼게 된다.\n네트워크 통신 기반 퍼블릭 클라우드 과금 체계 때문에 과다한 사용 비용이 발생하는 것이다.\n서버업계 관계자는 “CPU 사용 외에도 스토리지, 클라우드 서비스 내 네트워크 트래픽, 가용 영역, 클라우드 데이터센터와 고객 데이터 송수신 등 비용 때문에 대부분 환경과 워크로드에서 온프레미스 혹은 프라이빗 클라우드 비용이 퍼블릭 클라우드 비용보다 30~50% 저렴한 것으로 나타난다”고 말한다.\n비용뿐만 아니라 원격 통신 시 지연(latency) 시간도 퍼블릭 AI 서비스보다 자체 구축을 선호하게 만든다.\n데이터 보안 우려도 기업이 자체 AI 인프라 구축을 검토하는 이유다.\n클라우드 서비스가 더 강력한 보안을 제공한다고 주장하지만 기업은 민감한 내부 데이터를 외부 퍼블릭 클라우드에 노출하는 것을 여전히 꺼린다.\n효성인포메이션시스템 관계자는 “AI 분석을 위해서는 데이터가 중요한 데 기업은 정확한 분석을 위해 믿을 수 있는 데이터를 보안 유지되는 환경에서 저장, 운영하기 위한 방안으로 자체 구축을 고려하고 있다”고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "초기 투자 비용과 번거로운 구현 과정이 필요 없다는 점에서 클라우드 기반 AI 머신러닝 서비스가 인기를 끌지만 여러 이유로 온프레미스나 프라이빗 클라우드 등 자체 구축형 AI 인프라 수요는 존재한다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우선 커스터마이징 필요성 때문이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "플랫폼 사업자가 제공하는 서비스형 소프트웨어(SaaS) 혹은 서비스형 플랫폼(PaaS)을 그대로 사용하는 대신 업무에 맞춰 변경하길 원하는 기업이 자체 구축에 나서고 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "의외의 복병이 비용이다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "퍼블릭 클라우드 서비스가 초기 비용 부담을 줄이고 사용한 만큼 과금으로 비용 효과가 높다지만 에지 등에서 발생된 대량 데이터를 수집, 클라우드 서비스로 전송하면 네트워크 비용에 큰 부담을 느끼게 된다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네트워크 통신 기반 퍼블릭 클라우드 과금 체계 때문에 과다한 사용 비용이 발생하는 것이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서버업계 관계자는 “CPU 사용 외에도 스토리지, 클라우드 서비스 내 네트워크 트래픽, 가용 영역, 클라우드 데이터센터와 고객 데이터 송수신 등 비용 때문에 대부분 환경과 워크로드에서 온프레미스 혹은 프라이빗 클라우드 비용이 퍼블릭 클라우드 비용보다 30~50% 저렴한 것으로 나타난다”고 말한다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "비용뿐만 아니라 원격 통신 시 지연(latency) 시간도 퍼블릭 AI 서비스보다 자체 구축을 선호하게 만든다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "데이터 보안 우려도 기업이 자체 AI 인프라 구축을 검토하는 이유다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "클라우드 서비스가 더 강력한 보안을 제공한다고 주장하지만 기업은 민감한 내부 데이터를 외부 퍼블릭 클라우드에 노출하는 것을 여전히 꺼린다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "효성인포메이션시스템 관계자는 “AI 분석을 위해서는 데이터가 중요한 데 기업은 정확한 분석을 위해 믿을 수 있는 데이터를 보안 유지되는 환경에서 저장, 운영하기 위한 방안으로 자체 구축을 고려하고 있다”고 전했다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[테크리포트]자체 AI 인프라 구축 필요성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

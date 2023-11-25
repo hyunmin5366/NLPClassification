@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325407",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "'REBA 분자진단' 스마트폰으로 자동 인식…남영광 교수팀 플랫폼 개발",
+		"newsSubTitle": "",
+		"newsContent": "분자생물학적 진단방법인 역교잡반응법(REBA, REverse Blot hybridization Assay) 결과를 스마트폰 애플리케이션에서 자동 인식해 질병의 종류와 바이러스의 종류를 판독해주는 플랫폼이 개발됐다.\n남영광 연세대학교 미래캠퍼스 소프트웨어학부 교수는 이노제닉스와 아토피 REBA를 인식하는 애플리케이션을 시범 서비스하고 있다고 24일 밝혔다.\nREBA는 중합효소연쇄반응(PCR) 산물을 프로브에 반응시키고 발색을 통해 핵산 존재 유무를 확인하는 분자진단 방법이다.\n하나의 멤브레인에 최대 40개의 프로브를 장착할 수 있어 한 번의 검사로 여러 표적 유전자의 존재유무를 검사하거나 여러 유전자의 돌연변이 여부를 확인할 때 유용하다.\nREBA 진단은 결핵, 패혈증, 세균성 위궤양 등 감염성 질환과 강직성 척수염, 심장혈관질환, 아토피 피부질환 등 유전성 질환 검사에 사용된다.\n하지만 현재 REBA 진단의 경우 결과물인 멤브레인을 제조사에서 제공하는 별도의 용지에 부착해야 판독이 가능하다.\n이 과정에서 결과물이 파손될 위험이 있다.\n또 교잡반응 여부를 판독하려면 발색 양상을 육안으로 관찰, 판단해야 하기 때문에 숙련된 검사자도 필요하다.\n남 교수 연구팀이 개발한 플랫폼은 이런 수작업와 육안 판독의 어려움을 개선한 것이다.\n별도의 장치를 이용하지 않고, 스마트폰 카메라를 활용해 자동 인식해 판독 오류를 방지하고 검사 시간을 줄이는 데 도움을 줄 수 있다.\n남 교수는 “영상 자동 인식 플랫폼 개발을 통해 REBA를 이용한 질병진단 활성화가 기대된다”면서 “자동 영상 판독을 기반으로 질병에 관련된 유전자 정보에 대한 빅데이터 구축과 인공지능(AI) 분석도 가능해져 질병진단과 치료에 변화를 가져올 수 있을 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "분자생물학적 진단방법인 역교잡반응법(REBA, REverse Blot hybridization Assay) 결과를 스마트폰 애플리케이션에서 자동 인식해 질병의 종류와 바이러스의 종류를 판독해주는 플랫폼이 개발됐다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "남영광 연세대학교 미래캠퍼스 소프트웨어학부 교수는 이노제닉스와 아토피 REBA를 인식하는 애플리케이션을 시범 서비스하고 있다고 24일 밝혔다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "REBA는 중합효소연쇄반응(PCR) 산물을 프로브에 반응시키고 발색을 통해 핵산 존재 유무를 확인하는 분자진단 방법이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하나의 멤브레인에 최대 40개의 프로브를 장착할 수 있어 한 번의 검사로 여러 표적 유전자의 존재유무를 검사하거나 여러 유전자의 돌연변이 여부를 확인할 때 유용하다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "REBA 진단은 결핵, 패혈증, 세균성 위궤양 등 감염성 질환과 강직성 척수염, 심장혈관질환, 아토피 피부질환 등 유전성 질환 검사에 사용된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 현재 REBA 진단의 경우 결과물인 멤브레인을 제조사에서 제공하는 별도의 용지에 부착해야 판독이 가능하다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 과정에서 결과물이 파손될 위험이 있다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 교잡반응 여부를 판독하려면 발색 양상을 육안으로 관찰, 판단해야 하기 때문에 숙련된 검사자도 필요하다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "남 교수 연구팀이 개발한 플랫폼은 이런 수작업와 육안 판독의 어려움을 개선한 것이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "별도의 장치를 이용하지 않고, 스마트폰 카메라를 활용해 자동 인식해 판독 오류를 방지하고 검사 시간을 줄이는 데 도움을 줄 수 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "남 교수는 “영상 자동 인식 플랫폼 개발을 통해 REBA를 이용한 질병진단 활성화가 기대된다”면서 “자동 영상 판독을 기반으로 질병에 관련된 유전자 정보에 대한 빅데이터 구축과 인공지능(AI) 분석도 가능해져 질병진단과 치료에 변화를 가져올 수 있을 것”이라고 말했다.",
+				"sentenceSize": 150
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'REBA 분자진단' 스마트폰으로 자동 인식…남영광 교수팀 플랫폼 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

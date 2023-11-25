@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331231",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "장비",
+		"newsTitle": "디에스앤지, ‘NVIDIA AI Conference 2018’ 부스 운영…최신 GPU 서버 등 선보여",
+		"newsSubTitle": "",
+		"newsContent": "슈퍼마이크로 총판 주식회사 디에스앤지는 지난달 29일 양재동 엘타워에서 열린 'NVIDIA AI Conference 2018'에 참가해 스폰서 부스를 운영했다고 4일 밝혔다.\n이번 컨퍼런스에서 디에스앤지는 슈퍼마이크로 부스를 통해 AI(인공지능) 연구 및 개발을 주력으로 하는 최신 GPU 서버를 소개했다.\n작년 하반기 선보인 X11세대 시스템 중 AI(인공지능)를 타깃으로 한 3가지 서버를 소개했다.\n싱글 루트 컴플렉스(Single Root Complex) 아키텍처를 통해 최대 8개의 PCI-E 타입 GPU를 지원하는 SYS-4029GP-TRT2와, 1U에 4개의 SXM2 타입 볼타(Volta) GPU V100을 지원하는 SYS-1029GQ-TVRT는 현장에 데모 장비로 전시되었다.\nSYS-4029GP-TVRT 모델은 최대 8개의 SXM2 타입 볼타(Volta) GPU V100을 지원하며 CPU와 GPU 공간을 분리하여 GPU 서버의 주요 이슈인 냉각 효율을 극대화했다.\n특히 1029GQ-TVRT와 4029GP-TVRT는 모두 NVLink 기반의 최신 NVIDIA 볼타 GPU를 장착하여 최대 300GB/s 대역폭의 NVLink로 GPU 간 커뮤니케이션이 가능하다.\nGPU 메모리 간 직접 통신이 가능한 GPUDirectö RDMA 기술을 지원한다.\n해당 시스템들은 AI 개발을 비롯한 빅데이터 분석, BI(비즈니스 인텔리전스) 등 고성능 컴퓨팅에 최적화됐다.\n디에스앤지 관계자는 \\\"올해는 작년보다 AI(인공지능)에 더 많은 관심이 집중될 것으로 보인다\\\"며 \\\"디에스앤지는 NVIDIA GPU 최적화 서버의 원활한 기술지원을 위해 인력 개발 등 지속적인 투자를 이어가겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "슈퍼마이크로 총판 주식회사 디에스앤지는 지난달 29일 양재동 엘타워에서 열린 'NVIDIA AI Conference 2018'에 참가해 스폰서 부스를 운영했다고 4일 밝혔다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 컨퍼런스에서 디에스앤지는 슈퍼마이크로 부스를 통해 AI(인공지능) 연구 및 개발을 주력으로 하는 최신 GPU 서버를 소개했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "작년 하반기 선보인 X11세대 시스템 중 AI(인공지능)를 타깃으로 한 3가지 서버를 소개했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "싱글 루트 컴플렉스(Single Root Complex) 아키텍처를 통해 최대 8개의 PCI-E 타입 GPU를 지원하는 SYS-4029GP-TRT2와, 1U에 4개의 SXM2 타입 볼타(Volta) GPU V100을 지원하는 SYS-1029GQ-TVRT는 현장에 데모 장비로 전시되었다.",
+				"sentenceSize": 160
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SYS-4029GP-TVRT 모델은 최대 8개의 SXM2 타입 볼타(Volta) GPU V100을 지원하며 CPU와 GPU 공간을 분리하여 GPU 서버의 주요 이슈인 냉각 효율을 극대화했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 1029GQ-TVRT와 4029GP-TVRT는 모두 NVLink 기반의 최신 NVIDIA 볼타 GPU를 장착하여 최대 300GB/s 대역폭의 NVLink로 GPU 간 커뮤니케이션이 가능하다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "GPU 메모리 간 직접 통신이 가능한 GPUDirectö RDMA 기술을 지원한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해당 시스템들은 AI 개발을 비롯한 빅데이터 분석, BI(비즈니스 인텔리전스) 등 고성능 컴퓨팅에 최적화됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "디에스앤지 관계자는 \\\"올해는 작년보다 AI(인공지능)에 더 많은 관심이 집중될 것으로 보인다\\\"며 \\\"디에스앤지는 NVIDIA GPU 최적화 서버의 원활한 기술지원을 위해 인력 개발 등 지속적인 투자를 이어가겠다\\\"고 밝혔다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "디에스앤지, ‘NVIDIA AI Conference 2018’ 부스 운영…최신 GPU 서버 등 선보여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

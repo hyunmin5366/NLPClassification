@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012437",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "[국민연금 돋보기] 주부의 가입",
+		"newsSubTitle": "전업주부일 경우 대상제외… 소득 있을시에는 가입해야",
+		"newsContent": "Q. 남편이 국민연금에 가입되어 있는데 주부도 가입해야 하나요?\nA. 전업주부일 경우 가입대상은 아니지만, 소득이 있는 경우에는 가입해야 합니다.\n국민연금은 개인별로 가입하는 것이 원칙이므로 배우자의 가입 여부와는 관계없이 소득이 있는 경우 사업장가입자 또는 지역가입자로 의무가입 대상입니다.\n전업주부로서 배우자가 공무원연금 등 다른 공적연금(사립학교교직원연금, 군인연금, 별정우체국직원연금)에 가입하고 있거나 이미 연금을 받고 있는 경우, 또는 배우자가 국민연금 가입자로서 보험료를 납부하고 있거나 노령연금을 받고 있는 분이라면 가입대상에서 제외됩니다.\n다만, 소득이 없더라도 노후의 안정된 생활을 위해 본인이 희망하면 임의가입자로 가입하실 수 있습니다.\n임의가입시 지역가입자의 중위수 소득 이상에 해당하는 연금보험료를 납부할 수 있습니다.\n전업주부지만 세대주로 등록되면 공단으로부터 지역가입자 취득신고서를 받을 수 있는데, 이때 우편이나 전화로 공단에 알려주시면 국민연금 가입대상에서 제외하고 있습니다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "Q. 남편이 국민연금에 가입되어 있는데 주부도 가입해야 하나요?",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "A. 전업주부일 경우 가입대상은 아니지만, 소득이 있는 경우에는 가입해야 합니다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국민연금은 개인별로 가입하는 것이 원칙이므로 배우자의 가입 여부와는 관계없이 소득이 있는 경우 사업장가입자 또는 지역가입자로 의무가입 대상입니다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전업주부로서 배우자가 공무원연금 등 다른 공적연금(사립학교교직원연금, 군인연금, 별정우체국직원연금)에 가입하고 있거나 이미 연금을 받고 있는 경우, 또는 배우자가 국민연금 가입자로서 보험료를 납부하고 있거나 노령연금을 받고 있는 분이라면 가입대상에서 제외됩니다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만, 소득이 없더라도 노후의 안정된 생활을 위해 본인이 희망하면 임의가입자로 가입하실 수 있습니다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "임의가입시 지역가입자의 중위수 소득 이상에 해당하는 연금보험료를 납부할 수 있습니다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전업주부지만 세대주로 등록되면 공단으로부터 지역가입자 취득신고서를 받을 수 있는데, 이때 우편이나 전화로 공단에 알려주시면 국민연금 가입대상에서 제외하고 있습니다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한샘, 하나은행과 리모델링 분할 상환 금융 서비스",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

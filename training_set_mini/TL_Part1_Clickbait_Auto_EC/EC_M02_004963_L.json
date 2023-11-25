@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004963",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "DB저축은행, '연 금리 최고 5.5%' 모바일 정기적금 출시",
+		"newsSubTitle": "가입기간 12개월, 월 납입금 최대 100만원",
+		"newsContent": "DB저축은행은 창립 50주년을 맞아 최고 연 5.5% 금리를 제공하는 모바일전용 예금 상품 'M-위드(With)유 정기적금'을 출시했다고 2일 밝혔다.\n이 상품의 기본금리는 3.0%로 △첫거래(0.5%) △2030세대(0.5%) △DB금융계열사 거래(0.5%) △DB저축은행 보통예금 계좌이체(0.5%) △마케팅 활용 동의(0.5%) 조건을 충족하면 각각의 우대금리를 제공한다.\n가입기간이 12개월, 월 납입금은 최대 100만원으로 제한된다.\nDB저축은행 관계자는 데일리임팩트에 \\\"이번 상품은 모바일전용 상품으로 창구 혹은 인터넷뱅킹으로의 가입은 불가능하다\\\"라고 설명했다.\n이번 상품은 1인 1계좌만 가입 가능하다.\n한편, DB저축은행이 창립 50주년을 맞아 기획한 이번 상품은 계약고 300억원 달성 시, 이벤트 금리와 한도를 조정해 일반 상시 판매 상품으로 전환된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "DB저축은행은 창립 50주년을 맞아 최고 연 5.5% 금리를 제공하는 모바일전용 예금 상품 'M-위드(With)유 정기적금'을 출시했다고 2일 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 상품의 기본금리는 3.0%로 △첫거래(0.5%) △2030세대(0.5%) △DB금융계열사 거래(0.5%) △DB저축은행 보통예금 계좌이체(0.5%) △마케팅 활용 동의(0.5%) 조건을 충족하면 각각의 우대금리를 제공한다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "가입기간이 12개월, 월 납입금은 최대 100만원으로 제한된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "DB저축은행 관계자는 데일리임팩트에 \\\"이번 상품은 모바일전용 상품으로 창구 혹은 인터넷뱅킹으로의 가입은 불가능하다\\\"라고 설명했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 상품은 1인 1계좌만 가입 가능하다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, DB저축은행이 창립 50주년을 맞아 기획한 이번 상품은 계약고 300억원 달성 시, 이벤트 금리와 한도를 조정해 일반 상시 판매 상품으로 전환된다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "포기해서 얻어진 '최선의 이익'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

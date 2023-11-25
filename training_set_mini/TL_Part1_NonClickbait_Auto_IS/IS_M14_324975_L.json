@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324975",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "르네사스, 저온·고온 환경 대응 모니터제어용 MCU 생산 개시",
+		"newsSubTitle": "",
+		"newsContent": "일 르네사스일렉트로닉스는 열악한 온도환경에서도 동작하는 모터 제어용 마이크로프로세서(MCU) RX24T G버전과 RX24U G버전 생산을 시작했다고 24일 밝혔다.\n두 모델은 가전, 산업기기, OA기기 등에 사용되는 모터제어용 32비트 MCU RX24T 그룹과 RX24U 그룹에 새로 추가됐다.\n두 모델 모두 영하 40도~영상 105도 환경에서 사용 가능하다.\n최근 가전은 다양한 기능성 부품이 추가되면서 공간제약으로 기판 면적이 축소되는 경향이 있다.\n이에 따라 식기세척기나 IH조리기 등 뜨거운 바람이나 액체를 다루는 가전은 기판 방열성이 저하, 고온이 되는 취약점이 있다.\n이같은 과제에 대응하기 위해 열악한 온도에서도 성능이 저하되지 않는 제품을 내놓았다고 르네사스는 밝혔다.\n르네사스는 고온 가전 제품의 유연한 기기설계가 가능하게 됐다고 설명했다.\n모델 라인업은 핀수와 메모리 크기에 따라 RX24T는 총 11제품, RX24U는 총 6제품이다.\n모터제어 애플리케이션 개발이 단기간 이뤄질 수 있도록 개발환경 키트를 제공한다.\nRX24T와 RX24U용 CPU카드를 개발키트에 장착해 애플리케이션을 개발하면 된다.\nRX24T와 RX24U는 동작주파수 최대 80㎒ 32비트 MCU로 타이머, AD컨버터, 아날로그 회로 등 모터제어 기능을 탑재했다.\n2개 BLDC모터를 1개 칩으로 제어할 수 있다.\nG버전 추가로 32비트 RX패밀리는 전 제품에서 영하 40도에서 영상105도까지 대응한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일 르네사스일렉트로닉스는 열악한 온도환경에서도 동작하는 모터 제어용 마이크로프로세서(MCU) RX24T G버전과 RX24U G버전 생산을 시작했다고 24일 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "두 모델은 가전, 산업기기, OA기기 등에 사용되는 모터제어용 32비트 MCU RX24T 그룹과 RX24U 그룹에 새로 추가됐다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "두 모델 모두 영하 40도~영상 105도 환경에서 사용 가능하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 가전은 다양한 기능성 부품이 추가되면서 공간제약으로 기판 면적이 축소되는 경향이 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 따라 식기세척기나 IH조리기 등 뜨거운 바람이나 액체를 다루는 가전은 기판 방열성이 저하, 고온이 되는 취약점이 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이같은 과제에 대응하기 위해 열악한 온도에서도 성능이 저하되지 않는 제품을 내놓았다고 르네사스는 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "르네사스는 고온 가전 제품의 유연한 기기설계가 가능하게 됐다고 설명했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "모델 라인업은 핀수와 메모리 크기에 따라 RX24T는 총 11제품, RX24U는 총 6제품이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "모터제어 애플리케이션 개발이 단기간 이뤄질 수 있도록 개발환경 키트를 제공한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "RX24T와 RX24U용 CPU카드를 개발키트에 장착해 애플리케이션을 개발하면 된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "RX24T와 RX24U는 동작주파수 최대 80㎒ 32비트 MCU로 타이머, AD컨버터, 아날로그 회로 등 모터제어 기능을 탑재했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "2개 BLDC모터를 1개 칩으로 제어할 수 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "G버전 추가로 32비트 RX패밀리는 전 제품에서 영하 40도에서 영상105도까지 대응한다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "르네사스, 저온·고온 환경 대응 모니터제어용 MCU 생산 개시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337706",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[데이터 뉴스]내년 인도 IT 소비 약 100조원",
+		"newsSubTitle": "",
+		"newsContent": "내년 인도 정보기술(IT) 소비가 100조원에 육박할 것으로 전망됐다.\n가트너는 2019년 인도 IT 소비를 892억달러(약 99조2796억원)로 예측했다.\n836억달러(92조7960억원)로 추정되는 올해보다 6.7% 늘어난 규모다.\n인도 IT 소비는 민간과 공공 모두에서 비즈니스 디지털 전환 붐을 타고 지속 증가세를 보이고 있다.\n가트너는 2019년에는 PC, 태블릿PC, 휴대폰 등 '디바이스' 소비가 330억달러(36조6300억원)로, 올해보다 7.4% 늘어날 것으로 추정했다.\n가네시 라마무르티 가트너 리서치 총괄부사장은 “휴대폰 시장 성장세가 지속되고 있으며, 피처폰에서 스마트폰으로 전환이 가속되고 있다”면서 “고품질 휴대폰 요구 증가가 인도 휴대폰 판매가를 높이고 있다”고 분석했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "내년 인도 정보기술(IT) 소비가 100조원에 육박할 것으로 전망됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가트너는 2019년 인도 IT 소비를 892억달러(약 99조2796억원)로 예측했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "836억달러(92조7960억원)로 추정되는 올해보다 6.7% 늘어난 규모다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인도 IT 소비는 민간과 공공 모두에서 비즈니스 디지털 전환 붐을 타고 지속 증가세를 보이고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가트너는 2019년에는 PC, 태블릿PC, 휴대폰 등 '디바이스' 소비가 330억달러(36조6300억원)로, 올해보다 7.4% 늘어날 것으로 추정했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가네시 라마무르티 가트너 리서치 총괄부사장은 “휴대폰 시장 성장세가 지속되고 있으며, 피처폰에서 스마트폰으로 전환이 가속되고 있다”면서 “고품질 휴대폰 요구 증가가 인도 휴대폰 판매가를 높이고 있다”고 분석했다.",
+				"sentenceSize": 118
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[데이터 뉴스]내년 인도 IT 소비 약 100조원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

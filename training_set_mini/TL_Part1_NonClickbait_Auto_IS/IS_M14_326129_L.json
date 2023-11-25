@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326129",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "방송",
+		"newsTitle": "연말 UHD 공동 수신 안테나 시스템 칩 나온다",
+		"newsSubTitle": "",
+		"newsContent": "연말에는 집안에 있는 공시청시스템(MATV) 단자에 초고화질(UHD) TV를 연결하면 UHD 지상파 방송을 볼 수 있다.\n한국전자통신연구원(ETRI)은 클레버로직과 UHD MATV 기술을 탑재한 칩세트를 올 연말 상용화한다.\n칩세트를 아파트 등 공동 주택 방송공동수신 설비에 탑재하면 하나의 공용 안테나로 여러 가구에서 UHD TV 지상파 방송을 볼 수 있다.\nUHD TV를 벽면에 부착된 MATV 단자와 케이블로 연결하면 된다.\nETRI 관계자는 “앞서 공동 안테나로 UHD 지상파 방송을 수신, 여러 가구에 송출하는 시스템을 개발했다”면서 “시스템을 칩세트 형태로 경량화해 공동 주택에서 쉽게 탑재할 수 있도록 할 것”이라고 말했다.\n칩세트 개발로 UHD 지상파 방송용 안테나를 따로 구매해야 하는 불편함이 해소될 것으로 예상된다.\n공동 주택에서 사용하는 하나의 공용 안테나에서만 UHD 신호를 받아 MATV로 각 가구에 신호를 배분할 수 있기 때문이다.\n삼성전자와 LG전자 등 주요 TV 제조사가 판매 중인 UHD TV는 직접 수신 안테나가 내장 돼 있지 않다.\nUHD 지상파 방송을 보려면 신호 수신을 위한 광대역 안테나를 설치해야 한다.\n한 TV에 하나의 안테나가 필요하기 때문에 각 가정에서 안테나를 구비해야 한다.\n시청자 비용 부담과 공간 활용성 측면에서도 불편함을 피할 수 없다.\nETRI 관계자는 “UHD 지상파 방송 수신에 한계를 극복할 수 있을 것”이라면서 “북미식 UHD 지상파 표준 ATSC 3.0 지원으로 향후 북미 방송 장비 시장까지 진출할 수 있을 것”이라고 내다봤다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "연말에는 집안에 있는 공시청시스템(MATV) 단자에 초고화질(UHD) TV를 연결하면 UHD 지상파 방송을 볼 수 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 클레버로직과 UHD MATV 기술을 탑재한 칩세트를 올 연말 상용화한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "칩세트를 아파트 등 공동 주택 방송공동수신 설비에 탑재하면 하나의 공용 안테나로 여러 가구에서 UHD TV 지상파 방송을 볼 수 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "UHD TV를 벽면에 부착된 MATV 단자와 케이블로 연결하면 된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ETRI 관계자는 “앞서 공동 안테나로 UHD 지상파 방송을 수신, 여러 가구에 송출하는 시스템을 개발했다”면서 “시스템을 칩세트 형태로 경량화해 공동 주택에서 쉽게 탑재할 수 있도록 할 것”이라고 말했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "칩세트 개발로 UHD 지상파 방송용 안테나를 따로 구매해야 하는 불편함이 해소될 것으로 예상된다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공동 주택에서 사용하는 하나의 공용 안테나에서만 UHD 신호를 받아 MATV로 각 가구에 신호를 배분할 수 있기 때문이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성전자와 LG전자 등 주요 TV 제조사가 판매 중인 UHD TV는 직접 수신 안테나가 내장 돼 있지 않다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "UHD 지상파 방송을 보려면 신호 수신을 위한 광대역 안테나를 설치해야 한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한 TV에 하나의 안테나가 필요하기 때문에 각 가정에서 안테나를 구비해야 한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "시청자 비용 부담과 공간 활용성 측면에서도 불편함을 피할 수 없다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "ETRI 관계자는 “UHD 지상파 방송 수신에 한계를 극복할 수 있을 것”이라면서 “북미식 UHD 지상파 표준 ATSC 3.0 지원으로 향후 북미 방송 장비 시장까지 진출할 수 있을 것”이라고 내다봤다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "연말 UHD 공동 수신 안테나 시스템 칩 나온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,339 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322773",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[특집-진화하는 랜섬웨어/기고] 랜섬웨어 방어의 전략적 목표는 '업무연속성 보장'이다",
+		"newsSubTitle": "",
+		"newsContent": "올해 정보보안 화두는 단연코 랜섬웨어다.\n다른 모든 악성프로그램을 한방에 날린 놀라운 힘이다.\n2016년 랜섬웨어 해커들이 벌어들인 돈이 약 10억달러(1조1000억원)이고 국내에서 100억원 정도, 올해는 그것을 훨씬 상회할 것으로 추정된다.\n랜섬웨어 해킹은 비용이 거의 들지 않아 최고 수익률을 가진 결코 포기할 수 없는 해커 수익사업이고 추적이 불가능한 비트코인으로 수금하는 위험성이 없는 안전한 사업이다.\n따라서 랜섬웨어는 '악성코드의 미래'이자 '해커의 꿈'이고 앞으로 모든 악성코드 사업 방정식은 '기-승-전-랜섬'으로 귀결될 것이다.\n2015년 2월부터 현재까지 2년 10개월 간 한국랜섬웨어침해대응센터에 신고 된 1만건 피해 기록을 분석하면 두가지 특징을 볼 수 있다.\n첫째는 시그너처 기반 백신, 방화벽, 이메일 필터 제품 등 기존 보안기술이 완전히 뚫려 랜섬웨어를 방어할 수 없어 업무가 중단되었다는 것이고, 둘째는 정상적으로 백업을 받아 놓은 사용자만이 다시 복구해 바로 업무를 지속했다는 것이다.\n이는 랜섬웨어가 기존 전통적인 보안기술의 혁신을 요구하는 전환점을 만든 것이다.\n악성코드 역사는 랜섬웨어 이전과 이후로 대별된다.\n기존 악성코드는 정보를 빼가거나 타시스템을 공략하기 위한 도구로 사용해 업무 중단을 야기하지 않았다.\n반면에 랜섬웨어는 현재 사용 중인 DB나 문서를 암호화시켜 업무를 중단시키는 특징을 가지고 있다.\n따라서 기존 보안의 목표는 잘 막고 못나가게 막은 것이었으나 랜섬웨어 보안의 전략적 목표는 랜섬웨어 침해로부터 '업무연속성을 보장'하는 것이다.\n지난 6월 단 한 번의 공격으로 '인터넷나야나'로부터 13억원 거액을 챙겨 달콤한 한국 돈맛을 본 에레버스 해커집단과 이를 부러운 눈으로 지켜본 수많은 해커들이 한국의 사이버 세계를 침략할 준비를 마쳤다.\n더 큰 문제가 되는 것은 한국의 정보시스템을 잘 이해하고 국내 취약한 사이트를 잘 아는 실력 있는 한국의 해커가 그들의 범죄행위에 가담되어 있다는 것이다.\n기업과 기관의 경영자에게 가장 중요한 경영요소는 어떠한 환경에서도 업무연속성을 확보하는 것이다.\n이것은 정보보안 책임자들이 경영자들에게 반드시 보장해야할 의무다.\n현재 운영 중인 정보시스템이 중단될 경우 그 효율성과 정확성에 대해 인력으로는 대체불가하다.\n그 만큼 대부분의 업무가 정보시스템에 의존하고 있기 때문이다.\n랜섬웨어 침해나 IT재해에 의해 운영시스템이 무너질 경우 최단시간에 정상화되어야 한다.\n그러나 랜섬웨어 방어를 위해 개발된 랜섬웨어 사전차단 기술은 신종과 변종 랜섬웨어에 너무나 쉽게 뚫리고 있어서 사용자의 우려와 혼란이 가중되고 있는 실정이다.\n그렇다면 랜섬웨어 해킹으로부터 업무연속성을 보장받는 보안기술은 무엇인가?\n최선의 선택은 '보안백업'이다.\n한국의 KISA, 미 정부의 침해대응조직 US-CERT와 유럽의 No-More 랜섬웨어 등 세계 보안전문그룹들이 사전 백업을 권장하고 있다.\n이는 해커가 두려워하는 기술은 방어기술이 아니라 데이터 백업기술이기 때문이다.\n해커 수익 원천인 암호화된 파일이 즉시 복원되고 백업저장소의 해킹이 불가능하기 때문이다.\n행위기반 탐지 및 차단 등 다른 여타의 보안조치는 2선이다.\n그것은 해커라는 버거운 상대가 있는 싸움에서 업무연속성을 보장해주지 못하기 때문이다.\n랜섬웨어 해킹에 대비하기 위한 경영자 첫 번째 조치는 중요한 데이터를 제대로 백업받았는지 확인하는 것이다.\n랜섬웨어가 운영부서 전유물이던 백업기술을 이제 새로운 보안기술로 지위를 격상시켰다.\n그 이유는 보안프로그램으로 해킹을 막은 것은 늘 '사후약방문'이다.\n기어가는 우리 보안기술로 날아가는 새로운 해킹기술을 막을 수 없기 때문이다.\n따라서 보안백업은 정보보안 담당자 책임이 아니라 최고 경영자 책무다.\n극단적으로 표현하면 사전에 점검과 투자하지 않고 경영시스템이 무너진 이후 사후에 담당자에게 책임을 무는 것은 경영의 방기다.\n정보시스템의 효율성과 정확성을 바라면서 보안에 투자하지 않은 경영자는 '꽃을 사랑하면서 꽃에 물을 주지 않은 사람'과 같다.\n지속가능한 정보화체계와 데이터 보호 거버넌스를 만들고 유지하는 것이 경영자와 정보보안 책임자의 무거운 책무다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 35,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 정보보안 화두는 단연코 랜섬웨어다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다른 모든 악성프로그램을 한방에 날린 놀라운 힘이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2016년 랜섬웨어 해커들이 벌어들인 돈이 약 10억달러(1조1000억원)이고 국내에서 100억원 정도, 올해는 그것을 훨씬 상회할 것으로 추정된다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "랜섬웨어 해킹은 비용이 거의 들지 않아 최고 수익률을 가진 결코 포기할 수 없는 해커 수익사업이고 추적이 불가능한 비트코인으로 수금하는 위험성이 없는 안전한 사업이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "따라서 랜섬웨어는 '악성코드의 미래'이자 '해커의 꿈'이고 앞으로 모든 악성코드 사업 방정식은 '기-승-전-랜섬'으로 귀결될 것이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2015년 2월부터 현재까지 2년 10개월 간 한국랜섬웨어침해대응센터에 신고 된 1만건 피해 기록을 분석하면 두가지 특징을 볼 수 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "첫째는 시그너처 기반 백신, 방화벽, 이메일 필터 제품 등 기존 보안기술이 완전히 뚫려 랜섬웨어를 방어할 수 없어 업무가 중단되었다는 것이고, 둘째는 정상적으로 백업을 받아 놓은 사용자만이 다시 복구해 바로 업무를 지속했다는 것이다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이는 랜섬웨어가 기존 전통적인 보안기술의 혁신을 요구하는 전환점을 만든 것이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "악성코드 역사는 랜섬웨어 이전과 이후로 대별된다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "기존 악성코드는 정보를 빼가거나 타시스템을 공략하기 위한 도구로 사용해 업무 중단을 야기하지 않았다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "반면에 랜섬웨어는 현재 사용 중인 DB나 문서를 암호화시켜 업무를 중단시키는 특징을 가지고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "따라서 기존 보안의 목표는 잘 막고 못나가게 막은 것이었으나 랜섬웨어 보안의 전략적 목표는 랜섬웨어 침해로부터 '업무연속성을 보장'하는 것이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "지난 6월 단 한 번의 공격으로 '인터넷나야나'로부터 13억원 거액을 챙겨 달콤한 한국 돈맛을 본 에레버스 해커집단과 이를 부러운 눈으로 지켜본 수많은 해커들이 한국의 사이버 세계를 침략할 준비를 마쳤다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "더 큰 문제가 되는 것은 한국의 정보시스템을 잘 이해하고 국내 취약한 사이트를 잘 아는 실력 있는 한국의 해커가 그들의 범죄행위에 가담되어 있다는 것이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "기업과 기관의 경영자에게 가장 중요한 경영요소는 어떠한 환경에서도 업무연속성을 확보하는 것이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이것은 정보보안 책임자들이 경영자들에게 반드시 보장해야할 의무다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "현재 운영 중인 정보시스템이 중단될 경우 그 효율성과 정확성에 대해 인력으로는 대체불가하다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "그 만큼 대부분의 업무가 정보시스템에 의존하고 있기 때문이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "랜섬웨어 침해나 IT재해에 의해 운영시스템이 무너질 경우 최단시간에 정상화되어야 한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "그러나 랜섬웨어 방어를 위해 개발된 랜섬웨어 사전차단 기술은 신종과 변종 랜섬웨어에 너무나 쉽게 뚫리고 있어서 사용자의 우려와 혼란이 가중되고 있는 실정이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "그렇다면 랜섬웨어 해킹으로부터 업무연속성을 보장받는 보안기술은 무엇인가?",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "최선의 선택은 '보안백업'이다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "한국의 KISA, 미 정부의 침해대응조직 US-CERT와 유럽의 No-More 랜섬웨어 등 세계 보안전문그룹들이 사전 백업을 권장하고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "이는 해커가 두려워하는 기술은 방어기술이 아니라 데이터 백업기술이기 때문이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "해커 수익 원천인 암호화된 파일이 즉시 복원되고 백업저장소의 해킹이 불가능하기 때문이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "행위기반 탐지 및 차단 등 다른 여타의 보안조치는 2선이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "그것은 해커라는 버거운 상대가 있는 싸움에서 업무연속성을 보장해주지 못하기 때문이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "랜섬웨어 해킹에 대비하기 위한 경영자 첫 번째 조치는 중요한 데이터를 제대로 백업받았는지 확인하는 것이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "랜섬웨어가 운영부서 전유물이던 백업기술을 이제 새로운 보안기술로 지위를 격상시켰다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "그 이유는 보안프로그램으로 해킹을 막은 것은 늘 '사후약방문'이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "기어가는 우리 보안기술로 날아가는 새로운 해킹기술을 막을 수 없기 때문이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "따라서 보안백업은 정보보안 담당자 책임이 아니라 최고 경영자 책무다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "극단적으로 표현하면 사전에 점검과 투자하지 않고 경영시스템이 무너진 이후 사후에 담당자에게 책임을 무는 것은 경영의 방기다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "정보시스템의 효율성과 정확성을 바라면서 보안에 투자하지 않은 경영자는 '꽃을 사랑하면서 꽃에 물을 주지 않은 사람'과 같다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "지속가능한 정보화체계와 데이터 보호 거버넌스를 만들고 유지하는 것이 경영자와 정보보안 책임자의 무거운 책무다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[특집-진화하는 랜섬웨어/기고] 랜섬웨어 방어의 전략적 목표는 '업무연속성 보장'이다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

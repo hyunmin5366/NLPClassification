@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007084",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "대전ㆍ충남 지난 8월 모두 3027세대 준공",
+		"newsSubTitle": "대전 1852세대, 충남 1175세대 등",
+		"newsContent": "지난 8월 대전은 1852세대, 충남은 1175세대 등 모두 3027세대의 주택이 준공됐다.\n국토해양부는 지난 8월 주택 준공실적을 국토해양통계누리(stat.mltm.go.kr)를 4일 발표했다.\n대전은 1852세대로 전월(1382세대)보다 34%(470세대) 증가했다.\n충남은 1175세대로 전월(914세대)보다 28%(261세대) 증가했다.\n전국적으로는 3만3428세대, 수도권 1만8608세대로 전월대비 전국 35.9%, 수도권 70.4% 증가했다.\n8월까지 전국 누적 준공실적은 대전은 5337세대, 충남은 1만3330세대이다.\n전국은 20만8284세대, 수도권 11만5304세대로 집계됐다.\n한편 주택 준공실적은 국토부가 주택공급통계 관리를 위해 주택공급통계정보시스템(HIS)을 통해 생산돼 지난 8월 국가통계로 승인돼 실제 입주량을 파악하는 자료로 활용되고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 8월 대전은 1852세대, 충남은 1175세대 등 모두 3027세대의 주택이 준공됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국토해양부는 지난 8월 주택 준공실적을 국토해양통계누리(stat.mltm.go.kr)를 4일 발표했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대전은 1852세대로 전월(1382세대)보다 34%(470세대) 증가했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "충남은 1175세대로 전월(914세대)보다 28%(261세대) 증가했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전국적으로는 3만3428세대, 수도권 1만8608세대로 전월대비 전국 35.9%, 수도권 70.4% 증가했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "8월까지 전국 누적 준공실적은 대전은 5337세대, 충남은 1만3330세대이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전국은 20만8284세대, 수도권 11만5304세대로 집계됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편 주택 준공실적은 국토부가 주택공급통계 관리를 위해 주택공급통계정보시스템(HIS)을 통해 생산돼 지난 8월 국가통계로 승인돼 실제 입주량을 파악하는 자료로 활용되고 있다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전시 자체발간 실적 ‘쓸쓸한 최상위’",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

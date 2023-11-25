@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323921",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "삼성물산 패션, 1분기 적자전환…코로나19 직격탄",
+		"newsSubTitle": "",
+		"newsContent": "삼성물산 패션부문이 코로나19 여파로 1분기 적자 전환했다.\n22일 금융감독원 전자공시에 따르면 삼성물산 패션부문은 지난 1분기 영업손실 310억원으로 적자 전환했다.\n영업이익이 지난해 같은 기간보다 380억원 줄었다.\n코로나19로 인한 소비심리 위축에 직격탄을 맞았다.\n같은 기간 매출액도 21.9% 감소한 3570억원을 기록했다.\n영업손실률이 8.7%에 달한다.\n회사 측은 “코로나19 확산에 따른 소비심리 위축 영향으로 매출과 영업이익이 감소했다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성물산 패션부문이 코로나19 여파로 1분기 적자 전환했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 금융감독원 전자공시에 따르면 삼성물산 패션부문은 지난 1분기 영업손실 310억원으로 적자 전환했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "영업이익이 지난해 같은 기간보다 380억원 줄었다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코로나19로 인한 소비심리 위축에 직격탄을 맞았다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "같은 기간 매출액도 21.9% 감소한 3570억원을 기록했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "영업손실률이 8.7%에 달한다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "회사 측은 “코로나19 확산에 따른 소비심리 위축 영향으로 매출과 영업이익이 감소했다”고 밝혔다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성물산 패션, 1분기 적자전환…코로나19 직격탄",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

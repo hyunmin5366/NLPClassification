@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326472",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "LG유플러스, 자사망 보안성 높인다... 양자내성암호 적용",
+		"newsSubTitle": "",
+		"newsContent": "LG유플러스가 자사 백본망에 양자암호통신 기술을 적용한다.\n자사 유·무선망에 대한 보안성을 높이는 것과 동시에 레퍼런스를 구축, 향후 공공 및 금융기관 시장 진출에 박차를 가할 방침이다.\n15일 업계에 따르면 LG유플러스는 자사 백본망에 대한 양자내성암호(PQC) 기술 적용 실증까지 최근 마무리했다.\n광전송장비(ROADM)에 PQC 카드를 적용한 암호화장비 모듈을 연동, 보안성 및 적합성을 자체 입증했다.\nLG유플러스는 내년부터 자사망에 본격적으로 PQC를 적용할 계획이다.\nLG유플러스는 우선 주요 도시 광전송장비 구축 구간에 PQC 암호화 모듈을 설치할 예정이다.\nPQC는 소프트웨어를 기반으로 장거리 구간 구축에 대한 제약이 없고 추가 구성 또한 쉬워 향후 전국망 전체에 구축하더라도 기간과 비용이 절약될 수 있다.\nLG유플러스는 공개키방식(RSA)와 같은 기존 암호 체계를 PQC와 동시에 활용하는 하이브리드 양자암호통신망을 자사망에 우선 구축할 계획이다.\nRSA는 오랫동안 사용해온 암호체계인 만큼 신뢰도가 높다는 장점이 있다.\n하지만 연산 능력이 뛰어난 양자컴퓨터로 암호가 풀릴 수 있는 위험이 있는 만큼 양자컴퓨터가 풀 수 없는 수학적 난제를 이용한 PQC가 이를 보완할 수 있다.\n백본망에 PQC를 적용하면 유·무선망 모두 보안성을 크게 높일 수 있다.\n특히 5세대(5G) 이동통신 망을 오가는 주요 대용량 데이터를 보호할 수 있어 향후 5G 기업용(B2B) 서비스에도 적용이 쉽다.\nLG유플러스는 자사망에 PQC를 적용, 레퍼런스를 확보해 공공 및 금융기관 시장 진출에 박차를 가할 계획이다.\n공공·금융기관은 100% 전용회선을 활용하고 있어 양자암호통신 기술에 대한 수요가 높다.\nLG유플러스는 내년부터 PQC를 적용한 전용회선 서비스를 선보인다는 목표다.\nLG유플러스는 과학기술정보통신부가 주도하는 디지털뉴딜 사업 실증을 통해 한국정보통신기술협회(TTA)의 PQC 보안기능확인시험을 준비 중이다.\n공공시장 진출을 위해 필요한 암호모듈검증(KCMVP)을 받을 수 있도록 크립토랩과 K-PQC 연구단을 통해 인증 가이드라인 또한 마련하고 있다.\n인증이 완료되면 PQC에 대한 신뢰도 또한 더욱 높아질 수 있을 전망이다.\nLG유플러스 관계자는 “백본망에 PQC를 연동함으로써 PQC를 기술적으로 상용화 할 수 있는 기반이 마련됐다”며 “백본망 적용을 통해 PQC 시범서비스를 우선 선보이고, 추후 고객 수요에 따라 본격적인 사업화 계획을 수립하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스가 자사 백본망에 양자암호통신 기술을 적용한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자사 유·무선망에 대한 보안성을 높이는 것과 동시에 레퍼런스를 구축, 향후 공공 및 금융기관 시장 진출에 박차를 가할 방침이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "15일 업계에 따르면 LG유플러스는 자사 백본망에 대한 양자내성암호(PQC) 기술 적용 실증까지 최근 마무리했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "광전송장비(ROADM)에 PQC 카드를 적용한 암호화장비 모듈을 연동, 보안성 및 적합성을 자체 입증했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG유플러스는 내년부터 자사망에 본격적으로 PQC를 적용할 계획이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LG유플러스는 우선 주요 도시 광전송장비 구축 구간에 PQC 암호화 모듈을 설치할 예정이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "PQC는 소프트웨어를 기반으로 장거리 구간 구축에 대한 제약이 없고 추가 구성 또한 쉬워 향후 전국망 전체에 구축하더라도 기간과 비용이 절약될 수 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "LG유플러스는 공개키방식(RSA)와 같은 기존 암호 체계를 PQC와 동시에 활용하는 하이브리드 양자암호통신망을 자사망에 우선 구축할 계획이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "RSA는 오랫동안 사용해온 암호체계인 만큼 신뢰도가 높다는 장점이 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하지만 연산 능력이 뛰어난 양자컴퓨터로 암호가 풀릴 수 있는 위험이 있는 만큼 양자컴퓨터가 풀 수 없는 수학적 난제를 이용한 PQC가 이를 보완할 수 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "백본망에 PQC를 적용하면 유·무선망 모두 보안성을 크게 높일 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "특히 5세대(5G) 이동통신 망을 오가는 주요 대용량 데이터를 보호할 수 있어 향후 5G 기업용(B2B) 서비스에도 적용이 쉽다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "LG유플러스는 자사망에 PQC를 적용, 레퍼런스를 확보해 공공 및 금융기관 시장 진출에 박차를 가할 계획이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "공공·금융기관은 100% 전용회선을 활용하고 있어 양자암호통신 기술에 대한 수요가 높다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "LG유플러스는 내년부터 PQC를 적용한 전용회선 서비스를 선보인다는 목표다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "LG유플러스는 과학기술정보통신부가 주도하는 디지털뉴딜 사업 실증을 통해 한국정보통신기술협회(TTA)의 PQC 보안기능확인시험을 준비 중이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "공공시장 진출을 위해 필요한 암호모듈검증(KCMVP)을 받을 수 있도록 크립토랩과 K-PQC 연구단을 통해 인증 가이드라인 또한 마련하고 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "인증이 완료되면 PQC에 대한 신뢰도 또한 더욱 높아질 수 있을 전망이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "LG유플러스 관계자는 “백본망에 PQC를 연동함으로써 PQC를 기술적으로 상용화 할 수 있는 기반이 마련됐다”며 “백본망 적용을 통해 PQC 시범서비스를 우선 선보이고, 추후 고객 수요에 따라 본격적인 사업화 계획을 수립하겠다”고 말했다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG유플러스, 자사망 보안성 높인다... 양자내성암호 적용",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

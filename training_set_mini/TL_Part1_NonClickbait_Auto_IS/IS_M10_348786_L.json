@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348786",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "코로나 배달 폭증에 T맵 사용량 18배 늘었다",
+		"newsSubTitle": "null",
+		"newsContent": "코로나19 확산에 배달·배송 수요가 늘면서 티맵(Tmap) 사용량도 급증한 것으로 나타났다.\n티맵모빌리티는 배달 애플리케이션에 제공하는 '티맵 경로 API' 추이를 분석한 결과 지난 1년 간 사용량이 1794% 증가했다고 18일 밝혔다.\n티맵모빌리티가 배달 플랫폼에 제공 중인 티맵 API는 실시간교통정보, 도착예정시간(ETA) 등을 반영해 배달라이더들에게 최적의 경로를 안내한다.\n배달 시간을 단축해 효율성을 높이고 소비자들은 더 신속한 서비스를 이용할 수 있다.\n세부적인 사용량 추이를 살펴보면 지난해 1~4월 월평균 20% 수준 증가했던 사용량은 5월 이후부터 크게 뛰기 시작해 7월과 8월 각각 53%, 50% 증가했다.\n특히 정부의 사회적 거리두기 2.5단계가 적용된 12월엔 밤9시 이후 배달 및 포장영업만 가능해지면서 전 달 대비 77% 증가율을 기록했다.\n경로 안내 뿐 아니라 현재 위치에 기반한 지역정보(POI), 주소 검색 기능 사용량도 연간 88% 증가했다.\n이종갑 티맵모빌리티 티맵라이프그룹장은 \\\"지난해 여름 장마와 코로나 사태가 겹치면서 비대면 시대가 가속화되고 배달서비스 시장 상황이 크게 변하고 있다\\\"며 \\\"티맵은 앞으로도 소비자들이 더욱 편안한 소비를 할 수 있도록 최선을 다하겠다\\\"고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19 확산에 배달·배송 수요가 늘면서 티맵(Tmap) 사용량도 급증한 것으로 나타났다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "티맵모빌리티는 배달 애플리케이션에 제공하는 '티맵 경로 API' 추이를 분석한 결과 지난 1년 간 사용량이 1794% 증가했다고 18일 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "티맵모빌리티가 배달 플랫폼에 제공 중인 티맵 API는 실시간교통정보, 도착예정시간(ETA) 등을 반영해 배달라이더들에게 최적의 경로를 안내한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "배달 시간을 단축해 효율성을 높이고 소비자들은 더 신속한 서비스를 이용할 수 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "세부적인 사용량 추이를 살펴보면 지난해 1~4월 월평균 20% 수준 증가했던 사용량은 5월 이후부터 크게 뛰기 시작해 7월과 8월 각각 53%, 50% 증가했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 정부의 사회적 거리두기 2.5단계가 적용된 12월엔 밤9시 이후 배달 및 포장영업만 가능해지면서 전 달 대비 77% 증가율을 기록했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "경로 안내 뿐 아니라 현재 위치에 기반한 지역정보(POI), 주소 검색 기능 사용량도 연간 88% 증가했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이종갑 티맵모빌리티 티맵라이프그룹장은 \\\"지난해 여름 장마와 코로나 사태가 겹치면서 비대면 시대가 가속화되고 배달서비스 시장 상황이 크게 변하고 있다\\\"며 \\\"티맵은 앞으로도 소비자들이 더욱 편안한 소비를 할 수 있도록 최선을 다하겠다\\\"고 전했다.",
+				"sentenceSize": 139
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코로나 배달 폭증에 T맵 사용량 18배 늘었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

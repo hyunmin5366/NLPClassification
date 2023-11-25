@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353091",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "中企 노리는 랜섬웨어...지란지교시큐리티 \\\"솔루션 도입 두 배↑\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "보안 전문기업 지란지교시큐리티는 자사 악성 이메일 모의훈련 솔루션인 머드픽스(MudFix)를 도입한 중소·중견기업 수가 지난해 기준 전년 대비 두 배 이상 늘었다고 8일 밝혔다.\n머드픽스는 실제 악성 피싱메일을 기반으로 재가공한 이메일을 사내 임직원들에게 발송하는 모의훈련 프로그램으로, 피싱메일에 대한 경각심을 높일 수 있다.\n피싱은 신뢰할 수 있는 사람이 보낸 메시지나 메일인 것 처럼 가장해 개인정보를 탈취하는 해킹방식이다.\n회사 관계자는 \\\"최신 피싱 데이터를 기반으로 새로운 이메일 위협에 빠르게 대응할 수 있다는 것이 타사 서비스와 다른 지점\\\"이라며 \\\"기업 별 환경에 맞춰 클라우드형으로 간편하게 구축하고, 기업별 훈련 기준에 맞게 관리·점검할 수 있다\\\"고 말했다.\n실제 도입기업들은 1차 훈련에 비해 2차 훈련 때 피싱메일에 감염될 확률이 평균 50% 이상 줄었다.\n서양환 지란지교시큐리티 메일보안사업부 이사는 \\\"머드픽스의 영업, 마케팅 활동을 강화해 증가하는 악성 이메일 모의훈련에 대한 수요를 적극 흡수, 시장 확장에 집중할 계획\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보안 전문기업 지란지교시큐리티는 자사 악성 이메일 모의훈련 솔루션인 머드픽스(MudFix)를 도입한 중소·중견기업 수가 지난해 기준 전년 대비 두 배 이상 늘었다고 8일 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "머드픽스는 실제 악성 피싱메일을 기반으로 재가공한 이메일을 사내 임직원들에게 발송하는 모의훈련 프로그램으로, 피싱메일에 대한 경각심을 높일 수 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "피싱은 신뢰할 수 있는 사람이 보낸 메시지나 메일인 것 처럼 가장해 개인정보를 탈취하는 해킹방식이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "회사 관계자는 \\\"최신 피싱 데이터를 기반으로 새로운 이메일 위협에 빠르게 대응할 수 있다는 것이 타사 서비스와 다른 지점\\\"이라며 \\\"기업 별 환경에 맞춰 클라우드형으로 간편하게 구축하고, 기업별 훈련 기준에 맞게 관리·점검할 수 있다\\\"고 말했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제 도입기업들은 1차 훈련에 비해 2차 훈련 때 피싱메일에 감염될 확률이 평균 50% 이상 줄었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서양환 지란지교시큐리티 메일보안사업부 이사는 \\\"머드픽스의 영업, 마케팅 활동을 강화해 증가하는 악성 이메일 모의훈련에 대한 수요를 적극 흡수, 시장 확장에 집중할 계획\\\"이라고 밝혔다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "中企 노리는 랜섬웨어...지란지교시큐리티 \\\"솔루션 도입 두 배↑\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

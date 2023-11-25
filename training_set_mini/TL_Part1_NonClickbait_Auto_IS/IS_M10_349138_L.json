@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349138",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "카이스트, '테라 메모리' 개발…인텔 옵테인 보다 저장량 4배↑",
+		"newsSubTitle": "null",
+		"newsContent": "카이스트 연구진이 메모리 성능을 획기적으로 높이는 기술 개발에 성공했다.\n데이터 센터 등에 쓰이는 기존 메모리를 대체할 기술로 평가된다.\n카이스트는 16일 전기·전자공학부 정명수 교수 연구팀이 비휘발성 메모리(NVDIMM)와 초저지연 SSD(Solid State Drive)를 하나의 메모리 공간으로 통합하는 메모리 오버 스토리지(MoS) 기술을 개발했다고 밝혔다.\n비휘발성 메모리는 기존 D램에 플래시 메모리와 슈퍼 커패시터를 추가해 전력공급이 없을 때도 데이터를 유지할 있는 메모리다.\n초저지연 SSD는 기존 SSD보다 지연시간이 훨씬 낮은 SSD를 말한다.\n현재 기술로는 메모리를 무한대로 만들 수 없기 때문에 SSD 저장공간을 통해 마치 무한대의 메모리가 있는 것처럼 사용한다.\n메모리 성능이 높을 수록 SSD, HDD 스토리지에 접근하는 횟수를 줄일 수 있다.\n연구팀은 초저지연 SSD를 주 메모리로 쓰고, NVDIMM을 캐시 메모리(자주 사용하는 데이터에 빨리 접근하도록 정보를 저장)로 활용해 SSD의 장점인 대용량 저장공간을 메모리로 사용하도록 했다.\n비휘발성 메모리와 초저지연 SSD를 하나의 메모리처럼 작동하도록 만든 것이다.\n그 결과 휘발성 메모리인 D램과 비슷한 수준의 데이터 처리 속도를 유지하면서도, 메모리 슬롯당 테라바이트(TB) 수준의 저장용량을 확보했다.\n영구 메모리 기술 강자인 인텔의 옵테인 메모리보다 저장용량을 4배 이상 키운 것이다.\nMoS 기술을 적용한 메모리는 옵테인 메모리에 비해 45% 적은 에너지를 쓰면서 110% 수준의 데이터 읽기/쓰기 속도를 보여줬다.\n연구팀이 개발한 HAMS 메모리(Hardware Automated Memory-over-Storage)는 대용량의 메모리가 필요하고 정전으로 인한 시스템 장애에 민감한 데이터 센터, 슈퍼컴퓨터 등에 사용되는 기존 메모리, 미래 영구 메모리를 대체할 수 있을 것으로 기대된다.\n정명수 교수는 \\\"미래 영구 메모리 기술은 일부 해외 유수 기업이 주도하고 있지만, 이번 연구성과를 기반으로 국내 기술과 기존 스토리 및 메모리 기술을 통해 관련 시장에서 우위를 선점할 수 있는 가능성을 열었다는 점에서 의미가 있다\\\"고 말했다.\n이번 연구 성과는 오는 6월 개최되는 컴퓨터 구조 분야 최우수 학술대회인 이스카(International Symposium on Computer Architecture(ISCA))에서 발표될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카이스트 연구진이 메모리 성능을 획기적으로 높이는 기술 개발에 성공했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "데이터 센터 등에 쓰이는 기존 메모리를 대체할 기술로 평가된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카이스트는 16일 전기·전자공학부 정명수 교수 연구팀이 비휘발성 메모리(NVDIMM)와 초저지연 SSD(Solid State Drive)를 하나의 메모리 공간으로 통합하는 메모리 오버 스토리지(MoS) 기술을 개발했다고 밝혔다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "비휘발성 메모리는 기존 D램에 플래시 메모리와 슈퍼 커패시터를 추가해 전력공급이 없을 때도 데이터를 유지할 있는 메모리다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "초저지연 SSD는 기존 SSD보다 지연시간이 훨씬 낮은 SSD를 말한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 기술로는 메모리를 무한대로 만들 수 없기 때문에 SSD 저장공간을 통해 마치 무한대의 메모리가 있는 것처럼 사용한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "메모리 성능이 높을 수록 SSD, HDD 스토리지에 접근하는 횟수를 줄일 수 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구팀은 초저지연 SSD를 주 메모리로 쓰고, NVDIMM을 캐시 메모리(자주 사용하는 데이터에 빨리 접근하도록 정보를 저장)로 활용해 SSD의 장점인 대용량 저장공간을 메모리로 사용하도록 했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "비휘발성 메모리와 초저지연 SSD를 하나의 메모리처럼 작동하도록 만든 것이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그 결과 휘발성 메모리인 D램과 비슷한 수준의 데이터 처리 속도를 유지하면서도, 메모리 슬롯당 테라바이트(TB) 수준의 저장용량을 확보했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "영구 메모리 기술 강자인 인텔의 옵테인 메모리보다 저장용량을 4배 이상 키운 것이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "MoS 기술을 적용한 메모리는 옵테인 메모리에 비해 45% 적은 에너지를 쓰면서 110% 수준의 데이터 읽기/쓰기 속도를 보여줬다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "연구팀이 개발한 HAMS 메모리(Hardware Automated Memory-over-Storage)는 대용량의 메모리가 필요하고 정전으로 인한 시스템 장애에 민감한 데이터 센터, 슈퍼컴퓨터 등에 사용되는 기존 메모리, 미래 영구 메모리를 대체할 수 있을 것으로 기대된다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "정명수 교수는 \\\"미래 영구 메모리 기술은 일부 해외 유수 기업이 주도하고 있지만, 이번 연구성과를 기반으로 국내 기술과 기존 스토리 및 메모리 기술을 통해 관련 시장에서 우위를 선점할 수 있는 가능성을 열었다는 점에서 의미가 있다\\\"고 말했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이번 연구 성과는 오는 6월 개최되는 컴퓨터 구조 분야 최우수 학술대회인 이스카(International Symposium on Computer Architecture(ISCA))에서 발표될 예정이다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카이스트, '테라 메모리' 개발…인텔 옵테인 보다 저장량 4배↑",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

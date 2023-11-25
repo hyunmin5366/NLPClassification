@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348482",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "네이버, KT와 내비게이션 데이터 공유한다",
+		"newsSubTitle": "null",
+		"newsContent": "네이버와 KT가 다음달부터 내비게이션 이용자의 차량 이동경로 데이터를 공유키로 했다.\n24일 업계에 따르면 네이버와 KT는 최근 내비게이션 서비스 이용자의 이동경로 데이터를 상호제공하는 계약을 했다.\nKT의 내비게이션 서비스 ‘원내비’와 네이버 지도서비스 앱(애플리케이션) ‘네이버지도’의 데이터를 상호교환하는 방식이다.\n네이버는 최근 이를 위해 관련 약관을 개정했고 다음달 16일부터 이같은 내용이 적용된다.\n네이버 측은 “KT와 데이터를 교환하는 차원이며 서비스 결합은 아니다”라며 “데이터 공유를 통해 내비게이션과 이동경로 예측에 대한 보다 풍부한 정보를 확보하게 될 것”이라고 밝혔다.\nKT와 LG유플러스가 공동개발한 원내비는 SK텔레콤이 실시간 모바일 내비게이션 ‘T맵’을 이동통신사 전용 서비스가 아닌 전체 이용자에게 무료로 개방한 후 경쟁에서 뒤처졌다.\n네이버는 네이버지도를 통해 지하철·버스 등 대중교통 길안내, 도보안내 등에서 활용률이 높지만 내비게이션 활용률은 상대적으로 떨어져 그간 이를 만회할 방안을 고심해왔다.\n업계 관계자에 따르면 T맵의 MAU(월간실이용자수)가 1200만명을 넘어서면서 자체 수집한 데이터만으로도 실시간 교통정보, 지도 업데이트 등이 가능해졌다.\n하지만 KT나 네이버는 이용률이 T맵의 10분의1 수준에도 못미쳐 충분한 데이터 수급에 한계가 있는 실정이다.\n양사는 내비게이션 이용자들이 남긴 개별 차량의 이동궤적정보를 도로에 매칭, 실시간 교통정보·패턴 교통정보 등을 생성할 계획이다.\n이러면 교통정보의 정밀도가 향상돼 내비게이션이 예측하는 주행소요시간 등이 기존보다 더 정확해진다.\n다만 이번 데이터 공유는 원자료를 서로 제공하는 것으로 이를 어떻게 서비스에 적용할지는 각사의 판단에 따라 진행할 예정이다.\n내비게이션 ‘아틀란’을 운영하는 맵퍼스와 네이버의 기술 전문 자회사 ‘네이버랩스’도 교통상황 예측기술 개발 등의 과학적 연구를 목적으로 이용자 이동경로 정보를 받게 된다.\n네이버 관계자는 “공유 데이터는 개인정보가 유출되지 않도록 비식별화 처리를 한 다음 활용한다”고 말했다",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버와 KT가 다음달부터 내비게이션 이용자의 차량 이동경로 데이터를 공유키로 했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일 업계에 따르면 네이버와 KT는 최근 내비게이션 서비스 이용자의 이동경로 데이터를 상호제공하는 계약을 했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KT의 내비게이션 서비스 ‘원내비’와 네이버 지도서비스 앱(애플리케이션) ‘네이버지도’의 데이터를 상호교환하는 방식이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버는 최근 이를 위해 관련 약관을 개정했고 다음달 16일부터 이같은 내용이 적용된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버 측은 “KT와 데이터를 교환하는 차원이며 서비스 결합은 아니다”라며 “데이터 공유를 통해 내비게이션과 이동경로 예측에 대한 보다 풍부한 정보를 확보하게 될 것”이라고 밝혔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT와 LG유플러스가 공동개발한 원내비는 SK텔레콤이 실시간 모바일 내비게이션 ‘T맵’을 이동통신사 전용 서비스가 아닌 전체 이용자에게 무료로 개방한 후 경쟁에서 뒤처졌다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버는 네이버지도를 통해 지하철·버스 등 대중교통 길안내, 도보안내 등에서 활용률이 높지만 내비게이션 활용률은 상대적으로 떨어져 그간 이를 만회할 방안을 고심해왔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "업계 관계자에 따르면 T맵의 MAU(월간실이용자수)가 1200만명을 넘어서면서 자체 수집한 데이터만으로도 실시간 교통정보, 지도 업데이트 등이 가능해졌다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만 KT나 네이버는 이용률이 T맵의 10분의1 수준에도 못미쳐 충분한 데이터 수급에 한계가 있는 실정이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "양사는 내비게이션 이용자들이 남긴 개별 차량의 이동궤적정보를 도로에 매칭, 실시간 교통정보·패턴 교통정보 등을 생성할 계획이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이러면 교통정보의 정밀도가 향상돼 내비게이션이 예측하는 주행소요시간 등이 기존보다 더 정확해진다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "다만 이번 데이터 공유는 원자료를 서로 제공하는 것으로 이를 어떻게 서비스에 적용할지는 각사의 판단에 따라 진행할 예정이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "내비게이션 ‘아틀란’을 운영하는 맵퍼스와 네이버의 기술 전문 자회사 ‘네이버랩스’도 교통상황 예측기술 개발 등의 과학적 연구를 목적으로 이용자 이동경로 정보를 받게 된다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "네이버 관계자는 “공유 데이터는 개인정보가 유출되지 않도록 비식별화 처리를 한 다음 활용한다”고 말했다",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버, KT와 내비게이션 데이터 공유한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

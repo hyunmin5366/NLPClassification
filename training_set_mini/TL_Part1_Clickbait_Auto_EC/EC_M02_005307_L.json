@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005307",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "'더 웅장해진 자태' 현대차, 뉴 팰리세이드 티저 공개",
+		"newsSubTitle": "오는 13일 뉴욕오토쇼에서 실제 모습 공개",
+		"newsContent": "현대자동차의 플래그십 대형 SUV 팰리세이드가 더 웅장해진 모습으로 재탄생했다.\n현대차는 7일 더 뉴 팰리세이드의 티저 이미지를 처음으로 공개했다.\n더 뉴 팰리세이드는 2018년 11월 팰리세이드가 첫 선을 보인 이후 약 3년 5개월만에 선보이는 부분 변경 모델이다.\n현대차 관계자는 데일리임팩트에 \\\"팰리세이드는 플래그십의 위상에 걸맞게 프리미엄과 하이테크 감성을 대폭 강화한 고급 대형 SUV\\\"라고 설명했다.\n전면부에 자리한 캐스케이드 그릴은 단순하면서도 깨끗한 볼륨을 가진 파라메트릭 실드 디자인 적용과 함께 넓어지고 커져 고급스러운 느낌을 더하면서도 웅장한 인상을 갖췄다.\n그릴부터 헤드램프와 주간주행등(DRL)까지 하나로 이어 강인하고 통일감 있는 디자인을 완성했다.\n수직으로 연결된 주간주행등을 보다 두껍게 다듬고 바깥쪽으로 배치해 차량을 더욱 넓어 보이게 해준다.\n오는 13일(현지시각)부터 개최되는 뉴욕오토쇼에서 더 뉴 팰리세이드를 세계 최초로 공개된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차의 플래그십 대형 SUV 팰리세이드가 더 웅장해진 모습으로 재탄생했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대차는 7일 더 뉴 팰리세이드의 티저 이미지를 처음으로 공개했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "더 뉴 팰리세이드는 2018년 11월 팰리세이드가 첫 선을 보인 이후 약 3년 5개월만에 선보이는 부분 변경 모델이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현대차 관계자는 데일리임팩트에 \\\"팰리세이드는 플래그십의 위상에 걸맞게 프리미엄과 하이테크 감성을 대폭 강화한 고급 대형 SUV\\\"라고 설명했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전면부에 자리한 캐스케이드 그릴은 단순하면서도 깨끗한 볼륨을 가진 파라메트릭 실드 디자인 적용과 함께 넓어지고 커져 고급스러운 느낌을 더하면서도 웅장한 인상을 갖췄다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그릴부터 헤드램프와 주간주행등(DRL)까지 하나로 이어 강인하고 통일감 있는 디자인을 완성했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "수직으로 연결된 주간주행등을 보다 두껍게 다듬고 바깥쪽으로 배치해 차량을 더욱 넓어 보이게 해준다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오는 13일(현지시각)부터 개최되는 뉴욕오토쇼에서 더 뉴 팰리세이드를 세계 최초로 공개된다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "위메프, 거래액 늘었지만 적자도 두 배...\\\"계획된 적자구조\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

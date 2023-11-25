@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350941",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "코로나19 직격탄 맞은 '타다'…대리운전 10개월 만에 접는다",
+		"newsSubTitle": "null",
+		"newsContent": "'타다 대리'가 코로나19(COVID-19) 장기화에 10개월 만에 서비스를 중단한다.\nVCNC는 28일 타다 드라이버 앱에 \\\"타다 대리 서비스가 오는 8월 27일까지만 운영된다\\\"라며 \\\"코로나19로 인한 사회적 거리두기 조치 장기화로 서비스를 중단하게 됐다\\\"고 공지했다.\nVCNC는 지난해 10월 타다 대리운전 서비스를 선보였다.\n타다 대리는 이용자가 대리운전기사의 △금연 △정속운전 △경로지정 등을 사전에 요청할 수 있어 호평을 받았으나, 사회적 거리두기 조치가 장기화되면서 이용자 수요 감소를 견디지 못한 것으로 풀이된다.\n국내 대리운전시장에서 전화호출이 전체 85%를 차지할 정도로 디지털 전환이 더딘 점도 영향을 미쳤다.\n이에 VCNC는 가맹택시 호출서비스 '타다 라이트'와 고급택시 '타다 플러스'에 집중한다는 방침이다.\nVCNC 측은 \\\"친절하고 안전한 대리운전 서비스를 제공하기 위해 노력했으나, 사회적 거리두기 조치의 장기화로 시장이 위축돼 부득이하게 서비스를 중단하게 됐다\\\"라며 \\\"가맹택시·고급택시·예약호출 등에 집중해 안전하고 편안한 이동서비스를 지속 제공할 예정\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'타다 대리'가 코로나19(COVID-19) 장기화에 10개월 만에 서비스를 중단한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "VCNC는 28일 타다 드라이버 앱에 \\\"타다 대리 서비스가 오는 8월 27일까지만 운영된다\\\"라며 \\\"코로나19로 인한 사회적 거리두기 조치 장기화로 서비스를 중단하게 됐다\\\"고 공지했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "VCNC는 지난해 10월 타다 대리운전 서비스를 선보였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "타다 대리는 이용자가 대리운전기사의 △금연 △정속운전 △경로지정 등을 사전에 요청할 수 있어 호평을 받았으나, 사회적 거리두기 조치가 장기화되면서 이용자 수요 감소를 견디지 못한 것으로 풀이된다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국내 대리운전시장에서 전화호출이 전체 85%를 차지할 정도로 디지털 전환이 더딘 점도 영향을 미쳤다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 VCNC는 가맹택시 호출서비스 '타다 라이트'와 고급택시 '타다 플러스'에 집중한다는 방침이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "VCNC 측은 \\\"친절하고 안전한 대리운전 서비스를 제공하기 위해 노력했으나, 사회적 거리두기 조치의 장기화로 시장이 위축돼 부득이하게 서비스를 중단하게 됐다\\\"라며 \\\"가맹택시·고급택시·예약호출 등에 집중해 안전하고 편안한 이동서비스를 지속 제공할 예정\\\"이라고 말했다.",
+				"sentenceSize": 152
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코로나19 직격탄 맞은 '타다'…대리운전 10개월 만에 접는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_035131",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예,공연",
+		"newsTitle": "공연장에서 극성팬 못잖게 무서운 것은?",
+		"newsSubTitle": "",
+		"newsContent": "가수들이 공연장에서 극성팬 못잖게 조심해야할 게 생겼다.\n바로 드론이다.\n미국의 힙합 그룹 본 석스-N-하모니(Bone Thugs-N-Harmony) 지난 25일(현지시간) 미국 캘리포니아 샌버나디노 공연 도중 갑자기 날아온 드론에 한 멤버가 머리를 맞았다.\n그는 놀라서 머리를 감쌌지만 공연은 계속됐다.\n누가 드론을 왜 날렸는지 아직 드러나지 않았다.\n그러나 최근 드론이 공연장에서 말썽을 부리는 사례가 이어지고 있다.\n지난해 라틴계 가수 엔리케 이글레시아스가 공연 도중 드론에 머리를 맞았고, 올해 초 록밴드 뮤즈 공연에선 드론이 관중석에 추락했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가수들이 공연장에서 극성팬 못잖게 조심해야할 게 생겼다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "바로 드론이다.",
+				"sentenceSize": 8
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미국의 힙합 그룹 본 석스-N-하모니(Bone Thugs-N-Harmony) 지난 25일(현지시간) 미국 캘리포니아 샌버나디노 공연 도중 갑자기 날아온 드론에 한 멤버가 머리를 맞았다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그는 놀라서 머리를 감쌌지만 공연은 계속됐다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "누가 드론을 왜 날렸는지 아직 드러나지 않았다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 최근 드론이 공연장에서 말썽을 부리는 사례가 이어지고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난해 라틴계 가수 엔리케 이글레시아스가 공연 도중 드론에 머리를 맞았고, 올해 초 록밴드 뮤즈 공연에선 드론이 관중석에 추락했다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘그알’ 가짜 수산업자 ‘선물리스트’ 실체 공개한다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

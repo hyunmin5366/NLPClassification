@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352105",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "네이버, 글로벌 진출 노하우 공유한다…'데뷰 2021' 24일 개최",
+		"newsSubTitle": "null",
+		"newsContent": "네이버(NAVER)는 국내 최대 개발자 컨퍼런스 'DEVIEW 2021'(데뷰)이 오는 24일부터 3일간 진행된다고 8일 밝혔다.\n네이버의 개발자들의 최신 기술 트렌드와 경험, 노하우를 공유하는 행사다.\n올해 14회차인 DEVIEW는 역대 최대 규모인 116개 세션으로 구성됐다.\n웹, 백엔드, 모바일, 클라우드, 머신러닝뿐 아니라 최근 화두인 하이퍼스케일AI, 메타버스 강연도 열린다.\n네이버 각 기술부서가 직접 개발자를 만나고 온라인 채용상담을 진행하는 '라이브 부스'도 연다. 특히 이번 행사에서는 네이버랩스유럽, 라인과 경영통합한 Z홀딩스, 아시아와 유럽의 연구진들이 합류한 '글로벌 AI 연구벨트' 등을 기반으로 글로벌로 무대를 넓히고 있는 네이버 개발자들의 경험과 노하우를 공유한다.\n데뷰 2021은 공식 홈페이지와 네이버TV에서 시청할수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버(NAVER)는 국내 최대 개발자 컨퍼런스 'DEVIEW 2021'(데뷰)이 오는 24일부터 3일간 진행된다고 8일 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버의 개발자들의 최신 기술 트렌드와 경험, 노하우를 공유하는 행사다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올해 14회차인 DEVIEW는 역대 최대 규모인 116개 세션으로 구성됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "웹, 백엔드, 모바일, 클라우드, 머신러닝뿐 아니라 최근 화두인 하이퍼스케일AI, 메타버스 강연도 열린다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버 각 기술부서가 직접 개발자를 만나고 온라인 채용상담을 진행하는 '라이브 부스'도 연다. 특히 이번 행사에서는 네이버랩스유럽, 라인과 경영통합한 Z홀딩스, 아시아와 유럽의 연구진들이 합류한 '글로벌 AI 연구벨트' 등을 기반으로 글로벌로 무대를 넓히고 있는 네이버 개발자들의 경험과 노하우를 공유한다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "데뷰 2021은 공식 홈페이지와 네이버TV에서 시청할수 있다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버, 글로벌 진출 노하우 공유한다…'데뷰 2021' 24일 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

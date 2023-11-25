@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014725",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "한은 기준금리 1.5% 동결…가계부채 부담 때문",
+		"newsSubTitle": "",
+		"newsContent": "기준금리가 금융계의 전망대로 2개월 연속 동결됐다.\n한국은행 금융통화위원회는 13일 정례회의를 열고, 기준금리를 1.50%로 두 달 연속 유지하기로 결정했다.\n현재의 기준금리는 지난해 8월과 10월, 올해 3월과 6월 등 4차례에 걸쳐 0.25%p씩 총 1%p 떨어진 것이다.\n이번 결정은 미국 연방준비제도(Fedㆍ이하 미 연준)의 금리인상 가능성과 1100조를 넘어선 가계부채 등에 대한 부담에 따른 것으로 풀이된다.\n미 연준이 꾸준히 금리 인상을 시사하고 있는 만큼 국제 금융시장을 지켜보고 대응하자는 분석이다.\n미 연준의 금리가 인상되면 달러화 강세로 원화 가치는 떨어지면서 국내의 외국 투자 자본이 이탈할 위험성이 있어 한국은행은 쉽게 금리 인하 결정을 할 수 없었다.\n또 가계부채가 1100조원을 넘긴 상황에서 금리를 인하하면 가계부채를 더 키울 수 있다는 판단도 이번 금리 동결의 주요인으로 지목된다.\n메르스 사태로 얼어붙었던 소비심리가 어느정도 개선되는 것도 금리 동결의 한 요인으로 꼽힌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "기준금리가 금융계의 전망대로 2개월 연속 동결됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 금융통화위원회는 13일 정례회의를 열고, 기준금리를 1.50%로 두 달 연속 유지하기로 결정했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재의 기준금리는 지난해 8월과 10월, 올해 3월과 6월 등 4차례에 걸쳐 0.25%p씩 총 1%p 떨어진 것이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 결정은 미국 연방준비제도(Fedㆍ이하 미 연준)의 금리인상 가능성과 1100조를 넘어선 가계부채 등에 대한 부담에 따른 것으로 풀이된다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "미 연준이 꾸준히 금리 인상을 시사하고 있는 만큼 국제 금융시장을 지켜보고 대응하자는 분석이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미 연준의 금리가 인상되면 달러화 강세로 원화 가치는 떨어지면서 국내의 외국 투자 자본이 이탈할 위험성이 있어 한국은행은 쉽게 금리 인하 결정을 할 수 없었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 가계부채가 1100조원을 넘긴 상황에서 금리를 인하하면 가계부채를 더 키울 수 있다는 판단도 이번 금리 동결의 주요인으로 지목된다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "메르스 사태로 얼어붙었던 소비심리가 어느정도 개선되는 것도 금리 동결의 한 요인으로 꼽힌다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카뱅 게 섰거라…시중은행 10대 공략 서비스 봇물",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

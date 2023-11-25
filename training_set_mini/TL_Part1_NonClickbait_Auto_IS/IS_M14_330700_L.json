@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330700",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "청각 AI가 터널사고 감지…인명구조 속도 빨라진다",
+		"newsSubTitle": "",
+		"newsContent": "# 터널 내 돌발 상황. 한 운전자의 졸음운전으로 차량 두 대가 추돌했다.\n청각 인공지능(AI)이 사고 소리를 감지, 관제센터에 즉시 경보를 보낸다.\n# 인파 속에서 기절한 사람. 주변 사람이 도와달라고 소리친다.\n청각 AI가 차량 소음, 매장 음악, 대화 음성 가운데 구조 요청을 식별해 응급대원을 골든타임 내 파견한다.\nAI 기술 발전으로 인명구조 속도가 빨라질 전망이다.\n시각이나 청각만으로 AI가 사고를 감지하고 재난 상황에 대응하는 기술이 곳곳에 도입된다.\n전광명 인트플로우 대표는 28일 일산 킨텍스에서 열린 '재난안전 기술교류 설명회와 산업동향 세미나'에서 '시청각 지능을 활용한 재난안전 관리 대응 기술'에 관해 소개했다.\n인트플로우는 국토교통부 지원을 받아 음향 기반 터널 사고 감지 기술을 개발했다.\n터널 내 울림과 잔향, 차량 소음 가운데 스키드(브레이크를 급히 밟을 때 차량이 미끄러지는 일)와 추돌 등 사고 소리만 감지하는 기술이다.\n이 기술로 만들어진 사고 감지 시스템은 터널 내 음향 수집기, 음향 분석기, 사고 관제 시스템으로 구성되며 지난해 감지 시간 0.27초, 감지 정확도 92.5%를 기록했다.\n시청각 AI 분석 기술을 활용해 도심이나 공공화장실 등에서 사고 발생을 인지하는 기술도 만들었다.\n위기 상황에 처한 시민이 소리를 지르면 에지 AI 기기가 이상 음원을 판별, 해당 지역 카메라와 조명, 스피커를 자동 제어한다.\n실제 사건이 발생했을 경우 지방자치단체 폐쇄회로(CC)TV 관제센터와 관할 지구대 등으로 알림을 보낸다.\n이외에도 시각 AI를 활용해 거주지 인근에 사람이 15초 이상 서성이는지 등을 파악하는 반지하 주거지역 프라이버시 보호 기술, 스쿨존 안전사고 실시간 감지 기술도 개발해 각 지자체에 공급했다.\n인트플로우는 2019년 광주에서 설립된 AI 스타트업이다.\n시청각 AI 기술을 활용해 비접촉 생체신호를 분석한다.\n전 대표는 광주과학기술원(GIST) 박사과정 기간 '2019년 AI 그랜드챌린지 트랙-3'에 참여, 전국 2위에 올랐다.\nAI 그랜드챌린지 트랙-3은 청각 지능과 드론을 활용해 조난자 탐색 문제를 해결하는 것이 과제였다.\n인트플로우는 전방 20미터 앞 어떤 각도에서 사람이 소리치는지 방향을 찾아내는 과제를 수행했다.\n전 대표는 “시청각 AI 기술 발전으로 여러 명을 동시에 구조하는 등 인명구조 속도가 매우 빨라질 것”이라면서 “이를 통해 국민이 보편적 혜택을 받게 될 것으로 기대된다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "# 터널 내 돌발 상황. 한 운전자의 졸음운전으로 차량 두 대가 추돌했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "청각 인공지능(AI)이 사고 소리를 감지, 관제센터에 즉시 경보를 보낸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "# 인파 속에서 기절한 사람. 주변 사람이 도와달라고 소리친다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "청각 AI가 차량 소음, 매장 음악, 대화 음성 가운데 구조 요청을 식별해 응급대원을 골든타임 내 파견한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "AI 기술 발전으로 인명구조 속도가 빨라질 전망이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시각이나 청각만으로 AI가 사고를 감지하고 재난 상황에 대응하는 기술이 곳곳에 도입된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전광명 인트플로우 대표는 28일 일산 킨텍스에서 열린 '재난안전 기술교류 설명회와 산업동향 세미나'에서 '시청각 지능을 활용한 재난안전 관리 대응 기술'에 관해 소개했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인트플로우는 국토교통부 지원을 받아 음향 기반 터널 사고 감지 기술을 개발했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "터널 내 울림과 잔향, 차량 소음 가운데 스키드(브레이크를 급히 밟을 때 차량이 미끄러지는 일)와 추돌 등 사고 소리만 감지하는 기술이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 기술로 만들어진 사고 감지 시스템은 터널 내 음향 수집기, 음향 분석기, 사고 관제 시스템으로 구성되며 지난해 감지 시간 0.27초, 감지 정확도 92.5%를 기록했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "시청각 AI 분석 기술을 활용해 도심이나 공공화장실 등에서 사고 발생을 인지하는 기술도 만들었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "위기 상황에 처한 시민이 소리를 지르면 에지 AI 기기가 이상 음원을 판별, 해당 지역 카메라와 조명, 스피커를 자동 제어한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "실제 사건이 발생했을 경우 지방자치단체 폐쇄회로(CC)TV 관제센터와 관할 지구대 등으로 알림을 보낸다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이외에도 시각 AI를 활용해 거주지 인근에 사람이 15초 이상 서성이는지 등을 파악하는 반지하 주거지역 프라이버시 보호 기술, 스쿨존 안전사고 실시간 감지 기술도 개발해 각 지자체에 공급했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "인트플로우는 2019년 광주에서 설립된 AI 스타트업이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "시청각 AI 기술을 활용해 비접촉 생체신호를 분석한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "전 대표는 광주과학기술원(GIST) 박사과정 기간 '2019년 AI 그랜드챌린지 트랙-3'에 참여, 전국 2위에 올랐다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "AI 그랜드챌린지 트랙-3은 청각 지능과 드론을 활용해 조난자 탐색 문제를 해결하는 것이 과제였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "인트플로우는 전방 20미터 앞 어떤 각도에서 사람이 소리치는지 방향을 찾아내는 과제를 수행했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "전 대표는 “시청각 AI 기술 발전으로 여러 명을 동시에 구조하는 등 인명구조 속도가 매우 빨라질 것”이라면서 “이를 통해 국민이 보편적 혜택을 받게 될 것으로 기대된다”고 말했다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "청각 AI가 터널사고 감지…인명구조 속도 빨라진다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

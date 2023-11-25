@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333374",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "北 해킹 조직, 中 능가하는 실력으로 세계 위협",
+		"newsSubTitle": "",
+		"newsContent": "북한 사이버 공격 능력이 대폭 향상돼 한국을 넘어 세계를 위협하는 수준에 달했다.\n중국 지원을 받은 해킹 조직보다 훨씬 공격적이라는 분석이다.\n워싱턴포스트와 블룸버그 통신 등은 미국 사이버 보안 기업 파이어아이가 내놓은 'APT37' 보고서를 인용해 이같이 보도했다.\n파이어아이는 APT37로 명명한 북한 해킹 조직이 2012년부터 활동했으며 주로 한국을 표적으로 활동하다가 지난해부터 일본, 베트남, 중동까지 영역을 확장했다고 분석했다.\nAPT37은 항공우주, 자동차, 교육, 금융, 정부, 의료, 통신사, 미디어, NGO까지 다양한 기업과 기관에서 정보를 빼돌리는 첩보활동을 수행했다.\n특히 미사일 발사와 관련이 높은 항공우주와 화학, 첨단 IT기업에서 정보를 빼돌렸다.\n한국에 집중했던 APT37이 다른 나라까지 영역을 확대하면서 세계적 위협으로 떠올랐다.\nAPT37은 스피어 피싱 이메일과 토렌트 파일 공유 사이트 등을 통해 악성코드를 감염시킨다.\n이들은 한국 주요 공공기관이 사용하는 한컴오피스 한글 파일 취약점을 자주 사용한다.\n최근 어도비 플래시 플레이어 제로데이 취약점을 활용해 공격했다.\nAPT37이 쓰는 악성코드는 주로 정보 유출용이며 시스템 마스터 부트 레코드(MBR)을 파괴하는 형태도 있다.\nAPT37이 사용한 악성코드 중 도크콜(Dogcall)은 스크린샷과 키보드 키로그, 드롭박스와 같은 클라우드 스토리지 계정 정보만 훔쳤다.\nAPT37은 북한 정부와 중동 기업이 만든 조인트벤처를 해킹했다.\n북한이 정보를 빼돌려 이익을 얻기 위해 사이버 공격을 감행한 것으로 보인다.\n베트남 국제 무역 회사와 인권 관련 언론인이나 연구원, UN 제재 관련된 일본 조직, 올림픽 관계자도 표적이다.\n파이어아이는 APT37이 북한과 밀접한 관계가 있는 집단이라고 지목했다.\n이들이 만든 악성코드 생성 시간이 북한 업무 시간대와 일치한다.\n주로 한국을 노렸으며 북한과 연계된 중동 국가를 표적으로 삼았다.\n미국 정보기관은 역량을 총동원해 북한 사이버전 능력 향상에 대비했다.\n미 외교안보전문 매체 '포린 폴리시'는 전·현직 미 정보 관리를 인용해 미 정부가 지난 6개월간 한국과 일본 등에서 활동하는 원격기지를 세우는 등 북한 사이버 공격 준비를 했다고 보도했다.\n북한과 전쟁 가능성을 염두에 둔 군사 준비작업인 셈이다.\n대북 사이버 공격 주체는 미 중앙정보국(CIA)와 국방정보국(DIA)가 맡는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "북한 사이버 공격 능력이 대폭 향상돼 한국을 넘어 세계를 위협하는 수준에 달했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "중국 지원을 받은 해킹 조직보다 훨씬 공격적이라는 분석이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "워싱턴포스트와 블룸버그 통신 등은 미국 사이버 보안 기업 파이어아이가 내놓은 'APT37' 보고서를 인용해 이같이 보도했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파이어아이는 APT37로 명명한 북한 해킹 조직이 2012년부터 활동했으며 주로 한국을 표적으로 활동하다가 지난해부터 일본, 베트남, 중동까지 영역을 확장했다고 분석했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "APT37은 항공우주, 자동차, 교육, 금융, 정부, 의료, 통신사, 미디어, NGO까지 다양한 기업과 기관에서 정보를 빼돌리는 첩보활동을 수행했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 미사일 발사와 관련이 높은 항공우주와 화학, 첨단 IT기업에서 정보를 빼돌렸다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국에 집중했던 APT37이 다른 나라까지 영역을 확대하면서 세계적 위협으로 떠올랐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "APT37은 스피어 피싱 이메일과 토렌트 파일 공유 사이트 등을 통해 악성코드를 감염시킨다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이들은 한국 주요 공공기관이 사용하는 한컴오피스 한글 파일 취약점을 자주 사용한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "최근 어도비 플래시 플레이어 제로데이 취약점을 활용해 공격했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "APT37이 쓰는 악성코드는 주로 정보 유출용이며 시스템 마스터 부트 레코드(MBR)을 파괴하는 형태도 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "APT37이 사용한 악성코드 중 도크콜(Dogcall)은 스크린샷과 키보드 키로그, 드롭박스와 같은 클라우드 스토리지 계정 정보만 훔쳤다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "APT37은 북한 정부와 중동 기업이 만든 조인트벤처를 해킹했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "북한이 정보를 빼돌려 이익을 얻기 위해 사이버 공격을 감행한 것으로 보인다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "베트남 국제 무역 회사와 인권 관련 언론인이나 연구원, UN 제재 관련된 일본 조직, 올림픽 관계자도 표적이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "파이어아이는 APT37이 북한과 밀접한 관계가 있는 집단이라고 지목했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이들이 만든 악성코드 생성 시간이 북한 업무 시간대와 일치한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "주로 한국을 노렸으며 북한과 연계된 중동 국가를 표적으로 삼았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "미국 정보기관은 역량을 총동원해 북한 사이버전 능력 향상에 대비했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "미 외교안보전문 매체 '포린 폴리시'는 전·현직 미 정보 관리를 인용해 미 정부가 지난 6개월간 한국과 일본 등에서 활동하는 원격기지를 세우는 등 북한 사이버 공격 준비를 했다고 보도했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "북한과 전쟁 가능성을 염두에 둔 군사 준비작업인 셈이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "대북 사이버 공격 주체는 미 중앙정보국(CIA)와 국방정보국(DIA)가 맡는다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "北 해킹 조직, 中 능가하는 실력으로 세계 위협",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

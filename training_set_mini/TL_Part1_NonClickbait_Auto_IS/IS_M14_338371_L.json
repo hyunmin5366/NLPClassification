@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338371",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "대국민 서비스 먹통 재현···전문가 \\\"클라우드 선제 도입이 해결책\\\"",
+		"newsSubTitle": "",
+		"newsContent": "백신 접종 사전 예약 시스템 등 대국민 서비스 '먹통' 현상을 예방하기 위해 클라우드가 해결책으로 떠오른다.\n내달 이어지는 40대 이하 예약 시스템의 원활한 이용을 위해 정부의 전향적 판단과 조치가 필요하다는 지적이다.\n25일 업계에 따르면 정부와 정보기술(IT) 시스템 전문가들은 내달 둘째 주로 예상되는 40대 이하(18∼49세) 백신 접종 예약 시기에 맞춰 시스템 먹통 원인 분석과 대비책 마련에 돌입했다.\n전문가들은 50대 예약시스템 먹통의 주요 원인으로 물리적 서버 증설 등으로 인한 지연 현상을 꼽는다.\n코로나19 예방접종대응추진단(이하 추진단)에 따르면 사전예약 홈페이지 동시접속 가능 인원은 30만명이다.\n지난 12일 55∼59세 대상 예약 첫날 대기자 수는 100만∼120만명으로 대응 가능 인원 3배 이상이 몰렸다.\n14일에는 300∼320만명, 53~54세 사전 예약이 시작된 19일에는 600만여명이 접속한 것으로 확인됐다.\n추진단은 클라우드 서버를 긴급 증설했지만 미봉책에 불과했다.\n업계 관계자는 “증설한 클라우드 서버는 예약 시스템 홈페이지 접속까지만 가능한 단계로 핵심은 그 뒷 단에 실제 예약을 진행하도록 돕는 웹애플리케이션서버(WAS)와 데이터베이스(DB) 시스템”이라면서 “클라우드를 일부 적용했다고 하지만 앞단만 일부 적용했을 뿐 WAS와 DB 서버는 질병관리청 내부 시스템이라 클라우드를 적용하기 어려운 상황”이라고 말했다.\n이 관계자는 “내부 시스템 WAS, DB 물리 서버를 증설하기도 했지만 이 역시 최소 반나절은 걸리는 작업”이라면서 “사후약방문식으로 대응하더라도 600만명 동시접속 등 전혀 예상치 못한 상황이 발생했을 때는 속수무책 먹통이 될 수밖에 없는 환경”이라고 지적했다.\n전문가들은 순간 트래픽이 몰리더라도 수십분 내 서버를 추가, 탄력적 대응이 가능한 클라우드로 시스템 전환을 제언했다.\n지난해 온라인 학습플랫폼 'e학습터'도 비슷한 상황이었다.\n온라인 개학일을 앞뒀지만 당시 시스템으로 수용 가능한 인원은 4만명에 불과했다.\n정부는 네이버클라우드, 티맥스소프트 등 민간 클라우드 업계와 협력해 클라우드로 시스템을 이전, 330만명까지 감당 가능한 서비스로 바꿨다.\n기존 시스템을 탈피하지 못하고 물리적 서버 증설 방식으로 대응했다면 온라인 수업은 불가능했다.\n정부도 클라우드 효용성은 인정하지만 '보안' 등을 이유로 망설이는 분위기다.\n최근 비공개로 진행된 회의에서 질병관리청은 민감한 데이터를 민간 클라우드로 옮기는 방향에 회의적 시각을 내비쳤다.\n회의 참석한 한 관계자는 “정부의 보안 인증을 받은 민간 클라우드가 있음에도 여전히 보안 문제 때문에 시도를 꺼려한다”면서 “보안 우려를 최소화하는 방향으로 기업과 논의한다면 해결책을 찾을 수 있을 것”이라고 말했다.\n정부는 △현재 시스템에 추가로 서버를 확대, 연령대 등 접속 인원을 분산하는 방안 △행정안전부의 국가정보자원관리원 클라우드 환경으로 시스템을 이전하는 방안 △민간 클라우드 이전 등을 놓고 고심 중이다.\n민간 전문가 함께 정확한 원인 파악을 위한 시스템 진단을 진행 중으로 이번 주 초 최종 방안을 확정 지을 전망이다.\n국내 주요 클라우드 기업이 투입된 만큼 민관 협업도 예상된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "백신 접종 사전 예약 시스템 등 대국민 서비스 '먹통' 현상을 예방하기 위해 클라우드가 해결책으로 떠오른다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "내달 이어지는 40대 이하 예약 시스템의 원활한 이용을 위해 정부의 전향적 판단과 조치가 필요하다는 지적이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "25일 업계에 따르면 정부와 정보기술(IT) 시스템 전문가들은 내달 둘째 주로 예상되는 40대 이하(18∼49세) 백신 접종 예약 시기에 맞춰 시스템 먹통 원인 분석과 대비책 마련에 돌입했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전문가들은 50대 예약시스템 먹통의 주요 원인으로 물리적 서버 증설 등으로 인한 지연 현상을 꼽는다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코로나19 예방접종대응추진단(이하 추진단)에 따르면 사전예약 홈페이지 동시접속 가능 인원은 30만명이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 12일 55∼59세 대상 예약 첫날 대기자 수는 100만∼120만명으로 대응 가능 인원 3배 이상이 몰렸다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "14일에는 300∼320만명, 53~54세 사전 예약이 시작된 19일에는 600만여명이 접속한 것으로 확인됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "추진단은 클라우드 서버를 긴급 증설했지만 미봉책에 불과했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "업계 관계자는 “증설한 클라우드 서버는 예약 시스템 홈페이지 접속까지만 가능한 단계로 핵심은 그 뒷 단에 실제 예약을 진행하도록 돕는 웹애플리케이션서버(WAS)와 데이터베이스(DB) 시스템”이라면서 “클라우드를 일부 적용했다고 하지만 앞단만 일부 적용했을 뿐 WAS와 DB 서버는 질병관리청 내부 시스템이라 클라우드를 적용하기 어려운 상황”이라고 말했다.",
+				"sentenceSize": 198
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 관계자는 “내부 시스템 WAS, DB 물리 서버를 증설하기도 했지만 이 역시 최소 반나절은 걸리는 작업”이라면서 “사후약방문식으로 대응하더라도 600만명 동시접속 등 전혀 예상치 못한 상황이 발생했을 때는 속수무책 먹통이 될 수밖에 없는 환경”이라고 지적했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "전문가들은 순간 트래픽이 몰리더라도 수십분 내 서버를 추가, 탄력적 대응이 가능한 클라우드로 시스템 전환을 제언했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "지난해 온라인 학습플랫폼 'e학습터'도 비슷한 상황이었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "온라인 개학일을 앞뒀지만 당시 시스템으로 수용 가능한 인원은 4만명에 불과했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "정부는 네이버클라우드, 티맥스소프트 등 민간 클라우드 업계와 협력해 클라우드로 시스템을 이전, 330만명까지 감당 가능한 서비스로 바꿨다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "기존 시스템을 탈피하지 못하고 물리적 서버 증설 방식으로 대응했다면 온라인 수업은 불가능했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "정부도 클라우드 효용성은 인정하지만 '보안' 등을 이유로 망설이는 분위기다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "최근 비공개로 진행된 회의에서 질병관리청은 민감한 데이터를 민간 클라우드로 옮기는 방향에 회의적 시각을 내비쳤다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "회의 참석한 한 관계자는 “정부의 보안 인증을 받은 민간 클라우드가 있음에도 여전히 보안 문제 때문에 시도를 꺼려한다”면서 “보안 우려를 최소화하는 방향으로 기업과 논의한다면 해결책을 찾을 수 있을 것”이라고 말했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "정부는 △현재 시스템에 추가로 서버를 확대, 연령대 등 접속 인원을 분산하는 방안 △행정안전부의 국가정보자원관리원 클라우드 환경으로 시스템을 이전하는 방안 △민간 클라우드 이전 등을 놓고 고심 중이다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "민간 전문가 함께 정확한 원인 파악을 위한 시스템 진단을 진행 중으로 이번 주 초 최종 방안을 확정 지을 전망이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "국내 주요 클라우드 기업이 투입된 만큼 민관 협업도 예상된다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대국민 서비스 먹통 재현···전문가 \\\"클라우드 선제 도입이 해결책\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

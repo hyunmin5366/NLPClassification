@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004740",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통",
+		"newsTitle": "커피값 줄줄이 오른다...투썸플레이스 최대 400원 인상",
+		"newsSubTitle": "9년 5개월만의 가격 인상",
+		"newsContent": "커피 값이 계속 오를 전망이다.\n커피 전문점 투썸플레이스가 스타벅스에 이어 두 번째로 커피 가격을 올렸다.\n투썸플레이스는 오는 27일부터 전체 54종 커피와 음료 중 21종의 가격을 최대 400원 인상한다고 24일 밝혔다.\n△아메리카노·카페라떼 400원 △캐러맬 마키아토 300원 △프라페 200원 △셰이크 100원 인상이다.\n이번 가격 인상은 2012년 8월 이후 9년 5개월만이다.\n이번 가격 인상은 다른 업체와 마찬가지로 원재료 가격 상승이 배경이다.\n투썸플레이스 관계자는 데일리임팩트에 \\\"최근 원두, 우유 등 원재료 가격이 계속해서 상승해 감당하기 어려운 수준이 됐다\\\"며 인상 이유를 설명했다.\n인상 이후에는 멤버십 혜택이나 개인 컵 사용 확대 캠페인을 통해 고객 서비스를 강화한다고 덧붙였다.\n스타벅스 또한 지난 13일 가격 인상을 단행한 이후 개인 컵 사용 고객에 대한 혜택을 강화한 바 있다.\n스타벅스는 개인 컵 이용 시 기존 300원에서 100원 더 할인한 400원의 할인 혜택을 마련했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "커피 값이 계속 오를 전망이다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "커피 전문점 투썸플레이스가 스타벅스에 이어 두 번째로 커피 가격을 올렸다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "투썸플레이스는 오는 27일부터 전체 54종 커피와 음료 중 21종의 가격을 최대 400원 인상한다고 24일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "△아메리카노·카페라떼 400원 △캐러맬 마키아토 300원 △프라페 200원 △셰이크 100원 인상이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 가격 인상은 2012년 8월 이후 9년 5개월만이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 가격 인상은 다른 업체와 마찬가지로 원재료 가격 상승이 배경이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "투썸플레이스 관계자는 데일리임팩트에 \\\"최근 원두, 우유 등 원재료 가격이 계속해서 상승해 감당하기 어려운 수준이 됐다\\\"며 인상 이유를 설명했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인상 이후에는 멤버십 혜택이나 개인 컵 사용 확대 캠페인을 통해 고객 서비스를 강화한다고 덧붙였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "스타벅스 또한 지난 13일 가격 인상을 단행한 이후 개인 컵 사용 고객에 대한 혜택을 강화한 바 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "스타벅스는 개인 컵 이용 시 기존 300원에서 100원 더 할인한 400원의 할인 혜택을 마련했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "내년도 대전시 입주예상물량 얼마나 되나",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

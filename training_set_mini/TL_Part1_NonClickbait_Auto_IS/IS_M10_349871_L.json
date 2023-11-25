@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349871",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "중국 발사체 한반도에 안 떨어진다…\\\"정오쯤 남태평양 추락\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "과학기술정보통신부는 중국 우주발사체 '창정-5B호 잔해물'이 한국시간으로 9일 오전 11시40분경에 남태평양에 추락할 것으로 보인다고 9일 밝혔다.\n잔해물은 무게 20톤, 길이 31m, 직경 5m로 추정된다.\n지난달 29일 중국이 우주 정거장 건설을 위해 쏘아 올렸다.\n지난 8일 12시 기준 한국천문연구원의 궤도 분석 결과에 따르면 창정-5B호의 잔해물은 내일 오전 11시40분경 남태평양 일대에 추락할 가능성이 가장 높다.\n추락 시간의 오차범위로 보고 있는 전체 4시간을 고려해도 창정-5B호 잔해물의 이동경로는 한반도를 지나지 않는 것으로 확인됐다.\n다른 물체와의 충돌하는 등 큰 궤도변화가 생기지 않으면 한반도에 추락할 가능성은 작다.\n과기정통부는 \\\"천문연의 궤도 분석 결과 등에 따르면 현재 창정-5B호는 한반도에 추락할 가능성은 낮은 것으로 판단하고 있으나, 앞으로 궤도 변화 가능성에 대비해 면밀히 모니터링할 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "과학기술정보통신부는 중국 우주발사체 '창정-5B호 잔해물'이 한국시간으로 9일 오전 11시40분경에 남태평양에 추락할 것으로 보인다고 9일 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "잔해물은 무게 20톤, 길이 31m, 직경 5m로 추정된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난달 29일 중국이 우주 정거장 건설을 위해 쏘아 올렸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 8일 12시 기준 한국천문연구원의 궤도 분석 결과에 따르면 창정-5B호의 잔해물은 내일 오전 11시40분경 남태평양 일대에 추락할 가능성이 가장 높다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "추락 시간의 오차범위로 보고 있는 전체 4시간을 고려해도 창정-5B호 잔해물의 이동경로는 한반도를 지나지 않는 것으로 확인됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다른 물체와의 충돌하는 등 큰 궤도변화가 생기지 않으면 한반도에 추락할 가능성은 작다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "과기정통부는 \\\"천문연의 궤도 분석 결과 등에 따르면 현재 창정-5B호는 한반도에 추락할 가능성은 낮은 것으로 판단하고 있으나, 앞으로 궤도 변화 가능성에 대비해 면밀히 모니터링할 계획\\\"이라고 말했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중국 발사체 한반도에 안 떨어진다…\\\"정오쯤 남태평양 추락\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

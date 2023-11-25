@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006056",
+		"newsCategory": "경제",
+		"newsSubcategory": "증권",
+		"newsTitle": "하이투자증권, 40억원 규모 주가연계증권 2종 공모",
+		"newsSubTitle": "조기상환형 상품으로 만기상환따라 손익 결정",
+		"newsContent": "하이투자증권은 오는 29일 오후 4시까지 주가연계증권(ELS) 2종을 총 40억원 규모로 공모한다고 22일 밝혔다.\nHI ELS 3046호는 KOSPI 200지수, 홍콩항셍지수(HSI), 유로스톡스(EUROSTOXX)50지수를 기초자산으로 하는 3년 만기 6개월 단위 조기상환형 ELS이다.\n자동조기상환 평가일에 모든 기초자산의 종가가 최초기준가격의 85%(6개월,12개월), 80%(18개월,24개월), 75%(30개월,36개월) 이상이면 최대 22.50%의 수익을 지급한다.\n조기 상환이 안 돼도, 만기 시 모든 기초자산 중 하나라도 만기평가일까지 최초기준가격의 50% 미만으로 하락한 적이 없는 경우 연 7.50%의 수익률을 지급한다.\n다만, 만기상환 조건에 따라 원금손실이 발생할 수 있다.\nHI ELS 3047호는 KOSPI 200지수, 에스앤피(S&P)500지수, EUROSTOXX 50지수를 기초자산으로 하는 3년 만기 6개월 단위 조기상환형 리자드 ELS이다.\n자동조기상환 평가일에 모든 기초자산의 종가가 최초기준가격의 90%(6개월), 85%(12개월, 18개월), 80%(24개월), 75%(30개월), 65%(36개월) 이상이면 최대 21.60%의 수익을 지급한다.\n하이투자증권 관계자는 데일리임팩트에 \\\"이 상품도 만기 시 모든 기초자산의 종가가 최초기준가격의 65% 이상이면 최초 제시 수익률을 지급한다\\\"며 \\\"다만, 만기상환 조건에 따라 원금손실이 발생할 수도 있다\\\"고 전했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하이투자증권은 오는 29일 오후 4시까지 주가연계증권(ELS) 2종을 총 40억원 규모로 공모한다고 22일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "HI ELS 3046호는 KOSPI 200지수, 홍콩항셍지수(HSI), 유로스톡스(EUROSTOXX)50지수를 기초자산으로 하는 3년 만기 6개월 단위 조기상환형 ELS이다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자동조기상환 평가일에 모든 기초자산의 종가가 최초기준가격의 85%(6개월,12개월), 80%(18개월,24개월), 75%(30개월,36개월) 이상이면 최대 22.50%의 수익을 지급한다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "조기 상환이 안 돼도, 만기 시 모든 기초자산 중 하나라도 만기평가일까지 최초기준가격의 50% 미만으로 하락한 적이 없는 경우 연 7.50%의 수익률을 지급한다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만, 만기상환 조건에 따라 원금손실이 발생할 수 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "HI ELS 3047호는 KOSPI 200지수, 에스앤피(S&P)500지수, EUROSTOXX 50지수를 기초자산으로 하는 3년 만기 6개월 단위 조기상환형 리자드 ELS이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "자동조기상환 평가일에 모든 기초자산의 종가가 최초기준가격의 90%(6개월), 85%(12개월, 18개월), 80%(24개월), 75%(30개월), 65%(36개월) 이상이면 최대 21.60%의 수익을 지급한다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하이투자증권 관계자는 데일리임팩트에 \\\"이 상품도 만기 시 모든 기초자산의 종가가 최초기준가격의 65% 이상이면 최초 제시 수익률을 지급한다\\\"며 \\\"다만, 만기상환 조건에 따라 원금손실이 발생할 수도 있다\\\"고 전했다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "벤츠 딜러 한성자동차, 'AMG 서울 에디션' 콜렉션 단독 공개",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

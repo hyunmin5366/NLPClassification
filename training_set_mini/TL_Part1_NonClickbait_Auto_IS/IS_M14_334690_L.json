@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334690",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "美교통부, 대한항공-델타항공 '조인트 벤처' 승인",
+		"newsSubTitle": "",
+		"newsContent": "미국 델타항공이 대한항공과의 태평양 노선 '조인트 벤처' 시행에 필요한 미국 교통부 승인을 받았다고 AP통신이 17일(현지시간) 전했다.\n조인트 벤처는 2개 회사가 특정 노선에서 한 회사처럼 공동으로 영업하고 수익과 비용을 공유하는 최고 수준 협력 체계다.\n좌석 일부, 탑승 수속 카운터, 마일리지 등을 공유하는 공동운항(코드셰어)보다 높은 단계다.\n이를 통해 앞으로 두 항공사는 상대편 회사 항공편의 좌석을 더 많이 팔 수 있으며, 승객들은 양사에서 모두 마일리지 적립과 교환이 가능해진다고 델타항공은 밝혔다.\n대한항공과 델타항공은 지난 6월 조인트 벤처 출범을 위한 정식 협정에 서명하고, 7월 한국 국토교통부와 미국 교통부에 각각 인가를 신청했다.\n아직 국토부 승인은 나지 않았다.\n국토부는 공정거래위원회와 협의해 인가 여부를 결정한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 델타항공이 대한항공과의 태평양 노선 '조인트 벤처' 시행에 필요한 미국 교통부 승인을 받았다고 AP통신이 17일(현지시간) 전했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조인트 벤처는 2개 회사가 특정 노선에서 한 회사처럼 공동으로 영업하고 수익과 비용을 공유하는 최고 수준 협력 체계다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "좌석 일부, 탑승 수속 카운터, 마일리지 등을 공유하는 공동운항(코드셰어)보다 높은 단계다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 통해 앞으로 두 항공사는 상대편 회사 항공편의 좌석을 더 많이 팔 수 있으며, 승객들은 양사에서 모두 마일리지 적립과 교환이 가능해진다고 델타항공은 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대한항공과 델타항공은 지난 6월 조인트 벤처 출범을 위한 정식 협정에 서명하고, 7월 한국 국토교통부와 미국 교통부에 각각 인가를 신청했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아직 국토부 승인은 나지 않았다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국토부는 공정거래위원회와 협의해 인가 여부를 결정한다.",
+				"sentenceSize": 30
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美교통부, 대한항공-델타항공 '조인트 벤처' 승인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

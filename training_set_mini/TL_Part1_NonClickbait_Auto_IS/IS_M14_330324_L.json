@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330324",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "이글루시큐리티, 데이터 처리·통합보안관제(SIEM) 관련 특허 2건 등록",
+		"newsSubTitle": "",
+		"newsContent": "이글루시큐리티는 통합보안관제(SIEM), 클라우드와 관련 특허 2건을 등록했다고 2일 밝혔다.\n이 특허는 기하급수적으로 생성되는 보안 데이터 처리 효율성을 높이고, 멀티 클라우드 환경에서 SIEM 솔루션의 사용 편이성을 개선하는 데 쓰이는 기술이다.\n클러스터링 기법을 토대로 대용량 데이터를 효율적으로 처리하는 기술로 각 노드 내 메모리에서 그룹화가 필요한 데이터 값을 비교하고, 정해진 유사도 기준에 따라 특정 조건이 같으면 그룹화 대상 데이터로 판단한다.\n노드 별 분산 그룹화 처리를 통해 서버 간의 데이터 교환 과정인 '셔플링'을 최소화해, 네트워크·메모리의 성능 저하 문제를 방지할 수 있다.\n또 다른 한 건은 복수의 클라우드 서버 정보를 반영한 공통의 보안관제 템플릿을 이용, 멀티 클라우드 환경의 여러 클라우드 서버에 통합보안관제(SIEM) 소프트웨어가 자동 설치되도록 하는 기술이다.\n이를 통해 클라우드 서버 유형에 따라 각기 다른 방식으로 가상 머신, 가상 네트워크, 스토리지 구성을 적용해야 하는 번거로움을 해소하고, 효율적으로 소프트웨어를 실행할 수 있다.\n이득춘 이글루시큐리티 대표는 “이글루시큐리티는 지난 몇 년간 원천 특허 기술 확보를 위한 연구 개발 투자를 확대했다”며 “올해도 연구개발 투자를 지속해 데이터 활용성과 보안 효율성을 높이는 핵심 기술 역량 확보에 힘을 싣겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이글루시큐리티는 통합보안관제(SIEM), 클라우드와 관련 특허 2건을 등록했다고 2일 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 특허는 기하급수적으로 생성되는 보안 데이터 처리 효율성을 높이고, 멀티 클라우드 환경에서 SIEM 솔루션의 사용 편이성을 개선하는 데 쓰이는 기술이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "클러스터링 기법을 토대로 대용량 데이터를 효율적으로 처리하는 기술로 각 노드 내 메모리에서 그룹화가 필요한 데이터 값을 비교하고, 정해진 유사도 기준에 따라 특정 조건이 같으면 그룹화 대상 데이터로 판단한다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "노드 별 분산 그룹화 처리를 통해 서버 간의 데이터 교환 과정인 '셔플링'을 최소화해, 네트워크·메모리의 성능 저하 문제를 방지할 수 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 다른 한 건은 복수의 클라우드 서버 정보를 반영한 공통의 보안관제 템플릿을 이용, 멀티 클라우드 환경의 여러 클라우드 서버에 통합보안관제(SIEM) 소프트웨어가 자동 설치되도록 하는 기술이다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 통해 클라우드 서버 유형에 따라 각기 다른 방식으로 가상 머신, 가상 네트워크, 스토리지 구성을 적용해야 하는 번거로움을 해소하고, 효율적으로 소프트웨어를 실행할 수 있다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이득춘 이글루시큐리티 대표는 “이글루시큐리티는 지난 몇 년간 원천 특허 기술 확보를 위한 연구 개발 투자를 확대했다”며 “올해도 연구개발 투자를 지속해 데이터 활용성과 보안 효율성을 높이는 핵심 기술 역량 확보에 힘을 싣겠다”고 말했다.",
+				"sentenceSize": 132
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이글루시큐리티, 데이터 처리·통합보안관제(SIEM) 관련 특허 2건 등록",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

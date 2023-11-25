@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335746",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "중국, LTE 가입자 10억 돌파 초읽기",
+		"newsSubTitle": "",
+		"newsContent": "중국 롱텀에벌루션(LTE) 가입자가 새해 초 10억명을 돌파할 것이라고 외신이 21일 보도했다.\n차이나모바일, 차이나텔레콤, 차이나유니콤 중국 3대 이동통신사 LTE 가입자는 11월 말 기준 9억8160만명을 기록했다.\n전체 이동통신 가입자 70%다.\n차이나모바일이 6억3390만명으로 가장 많고 차이나텔레콤과 차이나유니콤이 각각 1억7730만명, 1억7400만명으로 비슷한 수준이다.\n가입자가 빠르게 증가하면서 연내 LTE 가입자 10억명을 돌파할 것으로 예상됐지만 연말 증가 속도가 주춤하며 해를 넘길 전망이다.\n8월에는 2320만명이 가입했으나 10월에는 1720만명이 가입하는 등 연말로 갈수록 증가 속도가 둔화하고 있다.\n현 속도라면 새해 1월 중 10억명 돌파가 유력하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중국 롱텀에벌루션(LTE) 가입자가 새해 초 10억명을 돌파할 것이라고 외신이 21일 보도했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "차이나모바일, 차이나텔레콤, 차이나유니콤 중국 3대 이동통신사 LTE 가입자는 11월 말 기준 9억8160만명을 기록했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전체 이동통신 가입자 70%다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "차이나모바일이 6억3390만명으로 가장 많고 차이나텔레콤과 차이나유니콤이 각각 1억7730만명, 1억7400만명으로 비슷한 수준이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가입자가 빠르게 증가하면서 연내 LTE 가입자 10억명을 돌파할 것으로 예상됐지만 연말 증가 속도가 주춤하며 해를 넘길 전망이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "8월에는 2320만명이 가입했으나 10월에는 1720만명이 가입하는 등 연말로 갈수록 증가 속도가 둔화하고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현 속도라면 새해 1월 중 10억명 돌파가 유력하다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중국, LTE 가입자 10억 돌파 초읽기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

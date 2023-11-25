@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330202",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "안랩, 실시간 감시되는 리눅스 백신 내놔",
+		"newsSubTitle": "",
+		"newsContent": "안랩(대표 권치중)이 실시간 감시 기능을 갖춘 리눅스 백신을 내놨다.\n안랩이 제품을 내놓으면서 리눅스 백신 시장도 경쟁 체제에 들어갔다.\n안랩은 리눅스 서버의 보안 수요 증가에 맞춰 기존의 'V3 넷 포 리눅스 서버'에 실시간 감시 기능을 추가했다.\n실시간 감시 기능이 있는 리눅스 서버 백신은 카스퍼스키랩, 트렌드마이크로 등 외산밖에 없었다.\n리눅스 서버를 노린 공격이 증가하면서 보안 수요가 늘었다.\n지난 6월에 발생한 웹호스팅 업체의 랜섬웨어 감염 사건 등이 리눅스 서버를 표적으로 한 대표 공격이다.\n공격자는 개인 PC보다 기업 서버 공격이 유리하다.\n보안에 투자가 소홀한 중소기업 리눅스 서버가 주 표적이다.\n안랩 V3 넷 포 리눅스 서버는 다양한 종류의 파일에 대해 악성코드 감염 여부를 확인한다.\n리눅스 서버는 대용량 파일이나 빌링 등 안정성에 민감한 용도로 쓰인다.\n기업 보안 관리 운영 정책에 따라 실시간-수동-예약 검사를 선택한다.\n관리자 편의를 위한 포트와 관리 계정 설정 기능도 제공한다.\nV3 넷 포 리눅스 서버는 안랩 폴리시센터(APC)나 안랩EMS를 연동, 통합 관리를 지원한다.\n폐쇄망에서 EMS 서버를 통해 V3 넷 포 리눅스 서버의 엔진 업데이트를 지원한다.\n기존의 V3 넷 포 리눅스 서버를 사용하고 있는 고객은 일괄 패치로 기능을 업데이트할 수 있다.\n보안 취약점 분석 사이트 CVE디테일에 따르면 올 1~11월 발견된 리눅스 커널의 취약점은 407개다.\n지난해 217개가 발견된 가운데 올해 86% 증가했다.\n안랩 시큐리티대응센터가 올 1~11월에 추가한 리눅스 진단명은 총 327개이다.\n올해 가장 많이 진단 대응한 리눅스 악성코드는 미라이, 루아봇, 가프지트, 쓰나미, 하지메, 러더, 에이전트, 비트코인마이너, 백도어, 골래드 순이다.\n안랩 관계자는 \\\"리눅스가 윈도보다 안전하다는 인식이 달라졌다\\\"면서 \\\"리눅스 운용체계(OS)는 오픈소스 기반이어서 제공 업체마다 종류나 버전이 달라 이를 모두 지원하는 보안 솔루션 적용이 어렵다\\\"고 설명했다.\n이 관계자는 \\\"리눅스 악성코드 피해를 줄이려면 서버 접근 사용자를 제한하고, 불필요한 계정과 서비스 포트를 제거해야 한다\\\"면서 \\\"비인가자의 접속과 주요 응용 프로그램 기록, 중앙처리장치(CPU), 네트워크 점유 상태, 악성코드 감염 유무 등 서버 점검을 수시로 수행해야 한다\\\"고 조언했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안랩(대표 권치중)이 실시간 감시 기능을 갖춘 리눅스 백신을 내놨다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "안랩이 제품을 내놓으면서 리눅스 백신 시장도 경쟁 체제에 들어갔다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "안랩은 리눅스 서버의 보안 수요 증가에 맞춰 기존의 'V3 넷 포 리눅스 서버'에 실시간 감시 기능을 추가했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "실시간 감시 기능이 있는 리눅스 서버 백신은 카스퍼스키랩, 트렌드마이크로 등 외산밖에 없었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "리눅스 서버를 노린 공격이 증가하면서 보안 수요가 늘었다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난 6월에 발생한 웹호스팅 업체의 랜섬웨어 감염 사건 등이 리눅스 서버를 표적으로 한 대표 공격이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공격자는 개인 PC보다 기업 서버 공격이 유리하다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "보안에 투자가 소홀한 중소기업 리눅스 서버가 주 표적이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "안랩 V3 넷 포 리눅스 서버는 다양한 종류의 파일에 대해 악성코드 감염 여부를 확인한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "리눅스 서버는 대용량 파일이나 빌링 등 안정성에 민감한 용도로 쓰인다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "기업 보안 관리 운영 정책에 따라 실시간-수동-예약 검사를 선택한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "관리자 편의를 위한 포트와 관리 계정 설정 기능도 제공한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "V3 넷 포 리눅스 서버는 안랩 폴리시센터(APC)나 안랩EMS를 연동, 통합 관리를 지원한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "폐쇄망에서 EMS 서버를 통해 V3 넷 포 리눅스 서버의 엔진 업데이트를 지원한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "기존의 V3 넷 포 리눅스 서버를 사용하고 있는 고객은 일괄 패치로 기능을 업데이트할 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "보안 취약점 분석 사이트 CVE디테일에 따르면 올 1~11월 발견된 리눅스 커널의 취약점은 407개다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "지난해 217개가 발견된 가운데 올해 86% 증가했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "안랩 시큐리티대응센터가 올 1~11월에 추가한 리눅스 진단명은 총 327개이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "올해 가장 많이 진단 대응한 리눅스 악성코드는 미라이, 루아봇, 가프지트, 쓰나미, 하지메, 러더, 에이전트, 비트코인마이너, 백도어, 골래드 순이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "안랩 관계자는 \\\"리눅스가 윈도보다 안전하다는 인식이 달라졌다\\\"면서 \\\"리눅스 운용체계(OS)는 오픈소스 기반이어서 제공 업체마다 종류나 버전이 달라 이를 모두 지원하는 보안 솔루션 적용이 어렵다\\\"고 설명했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이 관계자는 \\\"리눅스 악성코드 피해를 줄이려면 서버 접근 사용자를 제한하고, 불필요한 계정과 서비스 포트를 제거해야 한다\\\"면서 \\\"비인가자의 접속과 주요 응용 프로그램 기록, 중앙처리장치(CPU), 네트워크 점유 상태, 악성코드 감염 유무 등 서버 점검을 수시로 수행해야 한다\\\"고 조언했다.",
+				"sentenceSize": 165
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안랩, 실시간 감시되는 리눅스 백신 내놔",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

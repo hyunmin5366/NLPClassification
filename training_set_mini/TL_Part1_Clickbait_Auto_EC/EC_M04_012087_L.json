@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012087",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "주택담보대출 금리, 적금금리보다 낮아",
+		"newsSubTitle": "은행권, 코픽스·가산금리 영향",
+		"newsContent": "은행권의 주택담보대출 금리가 꾸준히 내려가면서 일부 은행의 경우 담보대출금리가 적금금리 보다 낮은 여·수신 금리의 역전현상이 발생했다.\n25일 은행권에 따르면 지난달 은행들이 취급한 주택담보대출 평균금리(10년 만기 분할상환방식)는 KB국민은행이 3.62%, LBK기업은행이 3.57%, 한국 씨티은행이 3.51%를 기록했다.\n개인의 신용등급별로 은행에서 받는 대출금리가 다른 것을 감안하면 일부 상품의 경우 대출 금리보다 적금 금리가 더 높은 것으로 나타났다.\n이렇게 대출 금리가 떨어진 것은 주택담보대출 금리산정의 기준이 되는 코픽스(COFIX·은행자금조달비용지수)와 가산금리의 하락때문이다.\n은행의 주택담보대출 금리는 올들어 지속적으로 하락세를 기록하며 국민·우리·신한·하나 등 4대 시중은행의 주택담보대출 평균 금리는 지난 2월 4.02~4.06%에서 지난달에는 3.62~3.96%로 떨어졌다.\n이로 인해 일부 은행의 경우 대출금리가 적금금리보다도 낮은 여·수신금리 역전이 나타나고 있다는 점이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "은행권의 주택담보대출 금리가 꾸준히 내려가면서 일부 은행의 경우 담보대출금리가 적금금리 보다 낮은 여·수신 금리의 역전현상이 발생했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 은행권에 따르면 지난달 은행들이 취급한 주택담보대출 평균금리(10년 만기 분할상환방식)는 KB국민은행이 3.62%, LBK기업은행이 3.57%, 한국 씨티은행이 3.51%를 기록했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개인의 신용등급별로 은행에서 받는 대출금리가 다른 것을 감안하면 일부 상품의 경우 대출 금리보다 적금 금리가 더 높은 것으로 나타났다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이렇게 대출 금리가 떨어진 것은 주택담보대출 금리산정의 기준이 되는 코픽스(COFIX·은행자금조달비용지수)와 가산금리의 하락때문이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "은행의 주택담보대출 금리는 올들어 지속적으로 하락세를 기록하며 국민·우리·신한·하나 등 4대 시중은행의 주택담보대출 평균 금리는 지난 2월 4.02~4.06%에서 지난달에는 3.62~3.96%로 떨어졌다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이로 인해 일부 은행의 경우 대출금리가 적금금리보다도 낮은 여·수신금리 역전이 나타나고 있다는 점이다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이통사 영업정지, 대리점 직원들은 무슨죄야!",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

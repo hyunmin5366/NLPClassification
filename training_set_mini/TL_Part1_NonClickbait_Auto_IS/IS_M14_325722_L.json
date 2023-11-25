@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325722",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "알뜰폰, 불량 판매점 정보 공유",
+		"newsSubTitle": "",
+		"newsContent": "알뜰폰(MVNO) 사업자가 부정 개통 판매점을 공유한다.\n불법 판매를 근절, 이용자 피해를 방지하려는 자구책이다.\n알뜰폰 사업자는 한국알뜰통신사업자협회 회원사 간 부정 회선을 판매한 판매점에 대한 정보를 공유하기 시작했다.\n협회를 통해 부정 개통 판매점 정보를 공유함으로써 부정 판매점을 확인하고 새로운 판매점과 계약할 때 이력을 검증할 수 있도록 했다.\n종전에는 개별 알뜰폰 사업자가 내부 규정에 따라 불법 판매 판매점에 계약 정지 혹은 해지 등을 조치했다.\n하지만 계약 해지 판매점이 제3의 알뜰폰 사업자와 계약을 체결하고 부정 판매를 지속하곤 했다.\n알뜰폰 관계자는 \\\"개통 단계부터 부정 판매점을 공유하기 시작했다\\\"며 \\\"불량 판매점이 지속적으로 감소할 것으로 기대한다\\\"고 말했다.\n알뜰폰 협회는 향후 부정 판매 통합 전산 시스템도 마련할 계획이다.\n불량 판매점 관련 정보를 데이터베이스(DB)로 구축, 회원사에 개방할 예정이다.\n협회 관계자를 통하지 않아도 불량 판매점을 검색∙확인할 수 있도록 할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "알뜰폰(MVNO) 사업자가 부정 개통 판매점을 공유한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "불법 판매를 근절, 이용자 피해를 방지하려는 자구책이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "알뜰폰 사업자는 한국알뜰통신사업자협회 회원사 간 부정 회선을 판매한 판매점에 대한 정보를 공유하기 시작했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "협회를 통해 부정 개통 판매점 정보를 공유함으로써 부정 판매점을 확인하고 새로운 판매점과 계약할 때 이력을 검증할 수 있도록 했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "종전에는 개별 알뜰폰 사업자가 내부 규정에 따라 불법 판매 판매점에 계약 정지 혹은 해지 등을 조치했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 계약 해지 판매점이 제3의 알뜰폰 사업자와 계약을 체결하고 부정 판매를 지속하곤 했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "알뜰폰 관계자는 \\\"개통 단계부터 부정 판매점을 공유하기 시작했다\\\"며 \\\"불량 판매점이 지속적으로 감소할 것으로 기대한다\\\"고 말했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "알뜰폰 협회는 향후 부정 판매 통합 전산 시스템도 마련할 계획이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "불량 판매점 관련 정보를 데이터베이스(DB)로 구축, 회원사에 개방할 예정이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "협회 관계자를 통하지 않아도 불량 판매점을 검색∙확인할 수 있도록 할 계획이다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "알뜰폰, 불량 판매점 정보 공유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

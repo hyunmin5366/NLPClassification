@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008358",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전·충남 어음부도율 대폭상승",
+		"newsSubTitle": "지난달 0.76% 전월비 0.61%P 올라… 부도금액 286억 한은 어음부도율 발표",
+		"newsContent": "3월 중 대전·충남지역 어음부도율(전자결제조정전, 금액기준)이 대폭 상승한 것으로 나타났다.\n한국은행 대전·충남본부가 18일 발표한 어음부도율은 전월(0.15%) 대비 0.61%p 상승한 0.76%(전년 동월 대비 0.57%p 상승)로 나타났다.\n대전은 전월에 비해 0.52%p(0.14%→0.66%), 충남은 0.70%p(0.17%→0.87%) 상승했다.\n부도금액은 286억원으로, 전월(45.9억원)보다 240억1000만원이 증가했다.\n업종별로는 제조업, 서비스업이 각각 236억9000만원(21억7000원→258억6000만원), 6억7000만원(12억원→18억7000만원) 증가한 반면, 건설업은 2억3000만원(10억5000만원→8억2000만원) 감소했다.\n대전은 107억6000만원(25억2000만원→132억8000만원), 충남은 132억5000만원(20억7000만원→153억2000만원) 증가했다.\n부도업체수(당좌거래정지업체수)는 2개로, 전월(1개)보다 1개 늘었다.\n업종별로는 제조업이 1개(1개→0개) 감소한 반면, 서비스업은 2개(0개→2개) 증가했고, 형태별로는 법인은 전월(1개)과 같았으며, 개인사업자는 1개 늘었다.\n신설법인수는 324개로, 전월(285개)보다 39개 증가했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "3월 중 대전·충남지역 어음부도율(전자결제조정전, 금액기준)이 대폭 상승한 것으로 나타났다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전·충남본부가 18일 발표한 어음부도율은 전월(0.15%) 대비 0.61%p 상승한 0.76%(전년 동월 대비 0.57%p 상승)로 나타났다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대전은 전월에 비해 0.52%p(0.14%→0.66%), 충남은 0.70%p(0.17%→0.87%) 상승했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부도금액은 286억원으로, 전월(45.9억원)보다 240억1000만원이 증가했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업종별로는 제조업, 서비스업이 각각 236억9000만원(21억7000원→258억6000만원), 6억7000만원(12억원→18억7000만원) 증가한 반면, 건설업은 2억3000만원(10억5000만원→8억2000만원) 감소했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대전은 107억6000만원(25억2000만원→132억8000만원), 충남은 132억5000만원(20억7000만원→153억2000만원) 증가했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "부도업체수(당좌거래정지업체수)는 2개로, 전월(1개)보다 1개 늘었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "업종별로는 제조업이 1개(1개→0개) 감소한 반면, 서비스업은 2개(0개→2개) 증가했고, 형태별로는 법인은 전월(1개)과 같았으며, 개인사업자는 1개 늘었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "신설법인수는 324개로, 전월(285개)보다 39개 증가했다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "페이스북, 개인정보 유출로 5조8900억원 벌금 폭탄",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012198",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "카이스트 학생 11명 '결핵 확진'… 전수조사",
+		"newsSubTitle": "질병관리본부 역학조사… 대책안 마련",
+		"newsContent": "KAIST에서 결핵 환자가 발견돼 보건당국이 해당 학교에 대한 전수조사를 검토하는 등 대책 마련에 나섰다.\n25일 질병관리본부에 따르면 지난 5월 13일 KAIST 학생 1명이 결핵 증상을 보여 보건소 검사 결과 결핵 확진 판정을 받았다.\n이에 보건당국은 학생 1671명을 대상으로 역학조사를 실시했으며, 현재까지 추가로 10명의 환자가 발견돼 총 11명의 결핵 환자가 보고됐다.\n질병관리본부는 첫 번째 결핵 환자와 밀접 접촉한 671명을 대상으로 검사한 결과, 92명(13.8%)이 잠복결핵감염자로 진단됐다고 밝혔다.\n잠복결핵감염이란 결핵균에 감염돼 결핵감염검사에서 양성으로 확인됐으나 타인에게 전염을 시키지 않는 경우를 말한다.\n추가로 결핵 환자가 발견됨에 따라 보건당국은 역학조사 범위를 확대하고 전수조사 등 구체적 계획을 마련하고 있다고 밝혔다.\n질병관리본부 관계자는 “2~3주 이상 기침과 발열, 체중감소, 수면 중 식은 땀과 같은 증상이 지속되거나, 결핵 환자와 접촉한 경우에는 증상 여부와 상관없이 반드시 결핵검사를 받아야 한다”고 강조했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KAIST에서 결핵 환자가 발견돼 보건당국이 해당 학교에 대한 전수조사를 검토하는 등 대책 마련에 나섰다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 질병관리본부에 따르면 지난 5월 13일 KAIST 학생 1명이 결핵 증상을 보여 보건소 검사 결과 결핵 확진 판정을 받았다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 보건당국은 학생 1671명을 대상으로 역학조사를 실시했으며, 현재까지 추가로 10명의 환자가 발견돼 총 11명의 결핵 환자가 보고됐다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "질병관리본부는 첫 번째 결핵 환자와 밀접 접촉한 671명을 대상으로 검사한 결과, 92명(13.8%)이 잠복결핵감염자로 진단됐다고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "잠복결핵감염이란 결핵균에 감염돼 결핵감염검사에서 양성으로 확인됐으나 타인에게 전염을 시키지 않는 경우를 말한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "추가로 결핵 환자가 발견됨에 따라 보건당국은 역학조사 범위를 확대하고 전수조사 등 구체적 계획을 마련하고 있다고 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "질병관리본부 관계자는 “2~3주 이상 기침과 발열, 체중감소, 수면 중 식은 땀과 같은 증상이 지속되거나, 결핵 환자와 접촉한 경우에는 증상 여부와 상관없이 반드시 결핵검사를 받아야 한다”고 강조했다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKT서 아이폰 4 만나세요",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

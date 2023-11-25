@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323583",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "삼성전자, 스마트폰 세계 1위 탈환",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 1분기 글로벌 스마트폰 생산량 기준 1위를 탈환했다.\n시장조사업체 트렌드포스는 12일(현지시간) 1분기 삼성전자가 26.1％ 점유율을 기록, 16.9％에 그친 애플을 제치고 1위를 차지했다고 밝혔다.\n삼성전자 1분기 스마트폰 생산량은 약 8014만대로, 전 분기에 비해 8.4％ 증가했다.\n시장점유율은 7.6％포인트 상승했다.\n지난해 4분기에는 애플이 20.3％로 1위에 올랐다.\n당시 삼성전자는 갤럭시노트7 단종 여파로 시장점유율이 18.5％에 그쳤다.\n삼성전자 1위 탈환은 중저가폰 선전에 힘입은 것이란 분석이다.\n트렌드포스는 \\\"1분기 삼성전자가 갤럭시노트7 단종 사태 이후 소비자 신뢰를 완벽히 회복한 것은 아니지만, 갤럭시J 시리즈 등 중저가폰 덕분에 점유율이 높아졌다\\\"고 분석했다.\n1분기 전체 스마트폰 생산량은 3억700만대로, 전 분기에 비해 23％ 줄었다.\n중국 제조사 생산량이 기대에 못 미친 영향이 가장 컸다고 트렌드포스는 분석했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 1분기 글로벌 스마트폰 생산량 기준 1위를 탈환했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시장조사업체 트렌드포스는 12일(현지시간) 1분기 삼성전자가 26.1％ 점유율을 기록, 16.9％에 그친 애플을 제치고 1위를 차지했다고 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성전자 1분기 스마트폰 생산량은 약 8014만대로, 전 분기에 비해 8.4％ 증가했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시장점유율은 7.6％포인트 상승했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 4분기에는 애플이 20.3％로 1위에 올랐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당시 삼성전자는 갤럭시노트7 단종 여파로 시장점유율이 18.5％에 그쳤다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자 1위 탈환은 중저가폰 선전에 힘입은 것이란 분석이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "트렌드포스는 \\\"1분기 삼성전자가 갤럭시노트7 단종 사태 이후 소비자 신뢰를 완벽히 회복한 것은 아니지만, 갤럭시J 시리즈 등 중저가폰 덕분에 점유율이 높아졌다\\\"고 분석했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "1분기 전체 스마트폰 생산량은 3억700만대로, 전 분기에 비해 23％ 줄었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "중국 제조사 생산량이 기대에 못 미친 영향이 가장 컸다고 트렌드포스는 분석했다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자, 스마트폰 세계 1위 탈환",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

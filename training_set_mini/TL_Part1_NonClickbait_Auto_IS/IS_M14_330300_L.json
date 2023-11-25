@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330300",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "LG AI연구원, 영어 기계 독해 경진대회 세계 1위",
+		"newsSubTitle": "",
+		"newsContent": "LG AI연구원이 개발한 기계독해 프로그램이 글로벌 인공지능(AI) 경진대회에서 1위에 올랐다.\nLG AI연구원은 미국 스탠퍼드대학이 주최하는 영어 AI 기계독해(MRC) 경진대회 '스쿼드(SQuAD·Stanford Question Answering Dataset)'에서 1위를 차지했다고 16일 밝혔다.\n1위에 오른 AI 프로그램은 스쿼드에서 95.719점을 받았다.\n인간이 동일한 문제를 풀었을 때 91.221점을 기록한 것에 비춰보면 사람보다 뛰어난 독해력을 보여준 셈이다.\n스쿼드는 스탠퍼드대가 주최하는 AI 언어지능 연구용 질의응답 학습 데이터셋을 기반으로 한 독해 테스트로, 구글, 마이크로소프트, 페이스북, IBM, 앨런AI 연구소, 카네기멜론대학 등 글로벌 IT 기업과 연구소들이 참여한다.\n컴퓨터가 주어진 영어 문서를 읽고 이해한 후 질문에 대한 정답을 찾아내는 방식이다.\nLG AI연구원 랭귀지랩은 지난해 7월 한국어 AI 기계독해 평가에서 1위를 차지한 데 이어, 이번에 영어 버전인 SQuAD 1.1 에서도 1등을 기록했다.\n기계독해 기술은 LG AI연구원 랭귀지랩의 핵심 연구 주제로 기계가 사람처럼 문서를 읽고 이해할 수 있게 하는 기술이다.\nTV 검색기능에 기계독해 기술을 접목해 고객의 사용편의성을 향상하는 기술을 개발 중인데, 이번 경진대회 1등을 통해 영어에서도 LG AI의 우수한 언어지능 성능이 검증됐다.\n랭귀지랩은 언어지능 분야 종합 경진대회인 'GLUE'와 'SuperGLUE' 대회 우승을 목표로 MRC를 포함한 초거대 AI 기술도 개발하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG AI연구원이 개발한 기계독해 프로그램이 글로벌 인공지능(AI) 경진대회에서 1위에 올랐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG AI연구원은 미국 스탠퍼드대학이 주최하는 영어 AI 기계독해(MRC) 경진대회 '스쿼드(SQuAD·Stanford Question Answering Dataset)'에서 1위를 차지했다고 16일 밝혔다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "1위에 오른 AI 프로그램은 스쿼드에서 95.719점을 받았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인간이 동일한 문제를 풀었을 때 91.221점을 기록한 것에 비춰보면 사람보다 뛰어난 독해력을 보여준 셈이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스쿼드는 스탠퍼드대가 주최하는 AI 언어지능 연구용 질의응답 학습 데이터셋을 기반으로 한 독해 테스트로, 구글, 마이크로소프트, 페이스북, IBM, 앨런AI 연구소, 카네기멜론대학 등 글로벌 IT 기업과 연구소들이 참여한다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "컴퓨터가 주어진 영어 문서를 읽고 이해한 후 질문에 대한 정답을 찾아내는 방식이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "LG AI연구원 랭귀지랩은 지난해 7월 한국어 AI 기계독해 평가에서 1위를 차지한 데 이어, 이번에 영어 버전인 SQuAD 1.1 에서도 1등을 기록했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기계독해 기술은 LG AI연구원 랭귀지랩의 핵심 연구 주제로 기계가 사람처럼 문서를 읽고 이해할 수 있게 하는 기술이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "TV 검색기능에 기계독해 기술을 접목해 고객의 사용편의성을 향상하는 기술을 개발 중인데, 이번 경진대회 1등을 통해 영어에서도 LG AI의 우수한 언어지능 성능이 검증됐다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "랭귀지랩은 언어지능 분야 종합 경진대회인 'GLUE'와 'SuperGLUE' 대회 우승을 목표로 MRC를 포함한 초거대 AI 기술도 개발하고 있다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG AI연구원, 영어 기계 독해 경진대회 세계 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

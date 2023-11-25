@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330923",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "엘세븐시큐리티, '이미지OCR' 공급 확대… “이미지 속 개인정보 유출 차단”",
+		"newsSubTitle": "전라남도교육청, 광주교육연구정보원 잇따라 이미지 개인정보차단솔루션 도입 대량의 트래픽 처리 기술 앞세워 업로드·다운로드 동시 차단",
+		"newsContent": "엘세븐시큐리티는 이미지 개인정보차단솔루션 '이미지OCR(광학문자인식) & OCR필터링 v2.0'을 광주교육정보원과 전라남도교육청에 잇따라 공급했다고 23일 밝혔다.\n양 기관은 개인정보차단 솔루션이 설치됐지만 텍스트 개인정보만 차단하고 이미지에 대한 대책은 없는 상황이었다.\n그러나 중요문서를 이미지 파일로 첨부해 업로드 하는 일이 잦아지며 이미지에 포함된 개인정보 차단 솔루션 마련이 시급했다.\n이에 이미지를 문자로 추출할 때 인식율도 중요하지만 홈페이지 응답속도가 절대로 떨어져서는 안 된다는 조건을 내걸고 솔루션 업체를 선정했다.\n전라남도교육청은 2주일이상 테스트하며 홈페이지 속도 문제여부를 확인했고 다양한 이미지 파일을 검사하면서 개인정보가 포함된 파일 차단 성능을 확인했다.\n광주광역시교육연구정보원은 국내 모든 개인정보 차단 솔루션을 비교 검토했다.\n이미지 속 개인정보를 차단하는지, 업로드·다운로드가 동시가능한지 파악하고 이미지 개인정보 차단으로 인증을 받았는지 여부도 확인했다.\n엘세븐시큐리티는 솔루션 설치 과정에서 웹 시스템을 통해 개인정보가 유출되지 못하도록 업로드·다운로드 차단을 동시에 할 수 있도록 설정했다.\n사용자가 게시판에 글을 쓸 때 첨부파일 내 개인정보가 있는지 탐지하는 '업로드 차단'과 기존 게시판에 있는 글을 사용자가 클릭 시 잡아내는 '다운로드 차단' 기능을 모두 제공했다.\n한동철 엘세븐시큐리티 상무는 “개인정보보호법에 따르면 검색 엔진이나 구글링에 대한 개인정보 유출 차단을 해야 한다. 이를 위해 다운로드 차단은 필수”라면서 “이미지 개인정보 검사는 텍스트보다 훨씬 더 많은 시간이 소요돼 대량의 트래픽 처리 기술을 가지고 신속하게 이미지에서 문자를 추출해야만 실시간 다운로드 검사를 할 수 있다”고 전했다.\n엘세븐시큐리티는 이미지 개인정보차단 솔루션과 웹 서버내 개인정보를 스캔 할 수 있는 시스템을 갖췄다.\n특히 이미지에 대한 문자인식 알고리즘 '이미지OCR'을 통해 다양한 분야 제품을 개발하고 있다.\n로봇프로세스자동화(RPA)에 적용 사례가 대표적이다.\n회사는 이미지에 대한 보안 기술 개발을 넘어 이미지 문서를 텍스트화하는 시스템 개발 등으로 사업영역을 확대할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엘세븐시큐리티는 이미지 개인정보차단솔루션 '이미지OCR(광학문자인식) & OCR필터링 v2.0'을 광주교육정보원과 전라남도교육청에 잇따라 공급했다고 23일 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양 기관은 개인정보차단 솔루션이 설치됐지만 텍스트 개인정보만 차단하고 이미지에 대한 대책은 없는 상황이었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러나 중요문서를 이미지 파일로 첨부해 업로드 하는 일이 잦아지며 이미지에 포함된 개인정보 차단 솔루션 마련이 시급했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 이미지를 문자로 추출할 때 인식율도 중요하지만 홈페이지 응답속도가 절대로 떨어져서는 안 된다는 조건을 내걸고 솔루션 업체를 선정했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전라남도교육청은 2주일이상 테스트하며 홈페이지 속도 문제여부를 확인했고 다양한 이미지 파일을 검사하면서 개인정보가 포함된 파일 차단 성능을 확인했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "광주광역시교육연구정보원은 국내 모든 개인정보 차단 솔루션을 비교 검토했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이미지 속 개인정보를 차단하는지, 업로드·다운로드가 동시가능한지 파악하고 이미지 개인정보 차단으로 인증을 받았는지 여부도 확인했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "엘세븐시큐리티는 솔루션 설치 과정에서 웹 시스템을 통해 개인정보가 유출되지 못하도록 업로드·다운로드 차단을 동시에 할 수 있도록 설정했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "사용자가 게시판에 글을 쓸 때 첨부파일 내 개인정보가 있는지 탐지하는 '업로드 차단'과 기존 게시판에 있는 글을 사용자가 클릭 시 잡아내는 '다운로드 차단' 기능을 모두 제공했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "한동철 엘세븐시큐리티 상무는 “개인정보보호법에 따르면 검색 엔진이나 구글링에 대한 개인정보 유출 차단을 해야 한다. 이를 위해 다운로드 차단은 필수”라면서 “이미지 개인정보 검사는 텍스트보다 훨씬 더 많은 시간이 소요돼 대량의 트래픽 처리 기술을 가지고 신속하게 이미지에서 문자를 추출해야만 실시간 다운로드 검사를 할 수 있다”고 전했다.",
+				"sentenceSize": 189
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "엘세븐시큐리티는 이미지 개인정보차단 솔루션과 웹 서버내 개인정보를 스캔 할 수 있는 시스템을 갖췄다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "특히 이미지에 대한 문자인식 알고리즘 '이미지OCR'을 통해 다양한 분야 제품을 개발하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "로봇프로세스자동화(RPA)에 적용 사례가 대표적이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "회사는 이미지에 대한 보안 기술 개발을 넘어 이미지 문서를 텍스트화하는 시스템 개발 등으로 사업영역을 확대할 계획이다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엘세븐시큐리티, '이미지OCR' 공급 확대… “이미지 속 개인정보 유출 차단”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

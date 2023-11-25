@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338932",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "에너지",
+		"newsTitle": "[테크비즈코리아 2020]<2>도시가스를 이용한 수소제조 기술",
+		"newsSubTitle": "",
+		"newsContent": "한국에너지기술연구원이 개발한 '도시가스를 이용한 수소제조 기술'은 도시가스와 물을 원료로, 3단계 촉매반응을 거쳐 수소를 생산하는 기술이다.\n기존 시스템은 수소 생산시 비용이 많이 들고 연료전지 효율이 낮다는 문제가 있었다.\n기기 내부구조가 복잡해 제작이 어렵고 제품 고장시 촉매교체 등 유지보수가 어렵다는 한계도 있었다.\n반면에 에너지연이 새롭게 개발한 기술은 촉매 종류와 기능에 따른 모듈화 구조를 띄는 것이 가장 큰 특징이다.\n제작과 설치가 쉽고 고장시 유지보수를 위한 촉매교체도 가능하다.\n에너지연은 세계 최고 수준의 기술력을 확보했다고 설명했다.\n짧은 시동시간으로 연료전지 운전이 용이해 높은 효율에 따른 비용절감, 설치공간 최소화 등 다양한 장점을 시스템에 부여했다.\n기술을 적용할 수 있는 산업군은 가정용, 건물용 연료전지 분야다.\n수규모 수소 사용 산업에서 수요가 예상된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국에너지기술연구원이 개발한 '도시가스를 이용한 수소제조 기술'은 도시가스와 물을 원료로, 3단계 촉매반응을 거쳐 수소를 생산하는 기술이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기존 시스템은 수소 생산시 비용이 많이 들고 연료전지 효율이 낮다는 문제가 있었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기기 내부구조가 복잡해 제작이 어렵고 제품 고장시 촉매교체 등 유지보수가 어렵다는 한계도 있었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면에 에너지연이 새롭게 개발한 기술은 촉매 종류와 기능에 따른 모듈화 구조를 띄는 것이 가장 큰 특징이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "제작과 설치가 쉽고 고장시 유지보수를 위한 촉매교체도 가능하다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "에너지연은 세계 최고 수준의 기술력을 확보했다고 설명했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "짧은 시동시간으로 연료전지 운전이 용이해 높은 효율에 따른 비용절감, 설치공간 최소화 등 다양한 장점을 시스템에 부여했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기술을 적용할 수 있는 산업군은 가정용, 건물용 연료전지 분야다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "수규모 수소 사용 산업에서 수요가 예상된다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[테크비즈코리아 2020]<2>도시가스를 이용한 수소제조 기술",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

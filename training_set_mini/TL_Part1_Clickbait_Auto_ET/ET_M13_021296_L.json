@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_021296",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "유연석, 이태원 38억 집 샀다",
+		"newsSubTitle": "",
+		"newsContent": "배우 유연석이 이태원 경리단길 소재 단독주택을 38억원에 매입했다.\n월간지 <우먼센스> 8월호에 따르면 유연석이 지난 2월 서울 용산구 이태원동의 단독주택을 약 38억원에 사들였다.\n이로써 유연석은 배우 유아인, 개그맨 박명수와 동네 주민이 됐다.\n유연석이 매입한 주택은 연면적 299㎡, 토지면적 337㎡의 지하 1층~지상 2층 규모다.\n주변에는 필리핀·알제리·케냐 등 외국 대사관이 밀집돼 있으며, 인근에 지하철 6호선 이태원역, 녹사평역, 한강진역이 있어 접근성이 좋다.\n유연석이 주택을 매입한 구체적인 목적은 알려지지 않았지만, 당초 있었던 오래된 주택이 철거되면서 추후 신축 단독주택이 들어설 것으로 예상된다.\n인근 부동산 중개업 관계자에 따르면 해당 지역 일대는 실거주를 목적으로 주택을 매입하는 경우가 많다고 한다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배우 유연석이 이태원 경리단길 소재 단독주택을 38억원에 매입했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "월간지 <우먼센스> 8월호에 따르면 유연석이 지난 2월 서울 용산구 이태원동의 단독주택을 약 38억원에 사들였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이로써 유연석은 배우 유아인, 개그맨 박명수와 동네 주민이 됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "유연석이 매입한 주택은 연면적 299㎡, 토지면적 337㎡의 지하 1층~지상 2층 규모다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주변에는 필리핀·알제리·케냐 등 외국 대사관이 밀집돼 있으며, 인근에 지하철 6호선 이태원역, 녹사평역, 한강진역이 있어 접근성이 좋다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유연석이 주택을 매입한 구체적인 목적은 알려지지 않았지만, 당초 있었던 오래된 주택이 철거되면서 추후 신축 단독주택이 들어설 것으로 예상된다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인근 부동산 중개업 관계자에 따르면 해당 지역 일대는 실거주를 목적으로 주택을 매입하는 경우가 많다고 한다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한지혜 “언니포스 윤스리”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

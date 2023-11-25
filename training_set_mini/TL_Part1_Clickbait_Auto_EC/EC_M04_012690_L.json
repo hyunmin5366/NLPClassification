@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012690",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "지역중소제조업 경기전망 좋아",
+		"newsSubTitle": "건강도지수 98.8 '3년내 최고'",
+		"newsContent": "내수판매 실적이 개선되면서 지역 중소제조업체의 경기전망지수가 최근 3년 내 최고치를 기록했다.\n26일 중소기업중앙회 대전·충남지역본부(본부장 유옥현)가 중소제조업체 130개를 대상으로 실시한 경기전망조사 결과, '4월 대전·충남 중소기업업황전망건강도지수(SBHI)'는 전월대비 8.4포인트 상승한 98.8을 기록했다.\n중소기업건강도지수(SBHI)는 100이상이면 다음 달 경기가 좋아질 것으로, 100미만이면 그 반대를 의미한다.\nSBHI는 2011년 4월(100.7) 이후 가장 높은 수치로 내수판매 실적이 개선됨에 따라 기업들이 향후 경기에 대한 기대감도 함께 상승한 것으로 분석된다.\n3월 대전·충남지역 중소제조업 평균가동률은 74.4%로 전월(72.8%)에 비해 1.6포인트 상승했다.\n중소제조업 평균가동률은 보유 생산설비의 월간 생산능력대비 해당 월의 평균 생산량 비율을 의미하며, 80% 이상 가동시 정상 가동으로 본다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "내수판매 실적이 개선되면서 지역 중소제조업체의 경기전망지수가 최근 3년 내 최고치를 기록했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 중소기업중앙회 대전·충남지역본부(본부장 유옥현)가 중소제조업체 130개를 대상으로 실시한 경기전망조사 결과, '4월 대전·충남 중소기업업황전망건강도지수(SBHI)'는 전월대비 8.4포인트 상승한 98.8을 기록했다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "중소기업건강도지수(SBHI)는 100이상이면 다음 달 경기가 좋아질 것으로, 100미만이면 그 반대를 의미한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SBHI는 2011년 4월(100.7) 이후 가장 높은 수치로 내수판매 실적이 개선됨에 따라 기업들이 향후 경기에 대한 기대감도 함께 상승한 것으로 분석된다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "3월 대전·충남지역 중소제조업 평균가동률은 74.4%로 전월(72.8%)에 비해 1.6포인트 상승했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중소제조업 평균가동률은 보유 생산설비의 월간 생산능력대비 해당 월의 평균 생산량 비율을 의미하며, 80% 이상 가동시 정상 가동으로 본다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전소비자단체협 “소비자 권익증진 기금 조성 시급”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

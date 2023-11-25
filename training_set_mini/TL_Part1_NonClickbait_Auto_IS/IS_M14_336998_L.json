@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336998",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[SW교구 레시피]<4>초·중·고 AI·IoT 교육에 적합한 '할로코드'",
+		"newsSubTitle": "",
+		"newsContent": "'식재료에 맞는 레시피(조리법)가 있듯 소프트웨어(SW)교육에도 교구에 맞는 레시피(교안)가 있다면' SW교육 경험이 있는 교·강사라면 한번쯤 해봤을 생각이다.\nSW교구는 넘쳐나는데, 교구에 맞는 교육방법을 몰라 활용하지 못하는 교·강사를 위해 SW교육 레시피를 제공한다.\n초·중·고등학생 대상 블록 기반 프로그래밍으로 인공지능(AI)과 사물인터넷(IoT) 등 다양한 응용 프로그램 수업을 원한다면, 단일 보드 무선 컴퓨터 '할로코드'가 제격이다.\n메이크블록 할로코드는 와이파이가 내장된 단일보드 컴퓨터이다.\n할로코드는 블록기반 프로그래밍 소프트웨어 엠블록과 결합해 몇 번의 클릭만으로 AI·IoT 애플리케이션 경험 기회를 제공한다.\n다양한 와이파이 모듈을 사용하면 여러 할로코드 간 '무선' 또는 '무제한' 연결이 가능해 디지털 아트 등 창의적 효과도 제공한다.\n할로코드 구조는 앞면에 프로그래밍이 가능한 12개 RGB LED와 버튼, 마이크, 모션센서, 입출력 터치센서 4핀, 마이크로 USB 커넥터로 구성됐다.\n뒷면에는 전자모듈 익스텐션 커넥터, ESP 32칩, 배터리 커넥터, 와이파이·블루투스 모듈 등이 있다.\n먼저 엠블록을 다운로드 받아 설치한다.\n엠블록은 스크래치 3.0 기반이다.\n스크래치 프로젝트를 열고, 3000개 이상 스프라이트와 그래픽 프로젝트를 활용한다.\n스크래치 3.0 스타일 기타 개선사항을 설정하고 파이썬으로 스크래치 스프라이트를 코딩한다.\n스크래치 프로젝트를 다음 단계로 이동한다.\n이후 마이크로 USB 케이블을 이용해 할로코드를 컴퓨터에 연결한 후 간단한 할로코드 코딩을 한다.\n교안에 있는 LED 링으로 스마일 만들기, 볼륨 감지기 만들기, 버튼을 눌러 LED 애니메이션 재생하기, RGB 색상값 혼합해보기 등 다양한 예제를 수행한다.\n이외 장면(스테이지) 예제 활용하기, AI 예제 활용하기, 메이킹 예제 활용하기 등 다양한 내용으로 수업이 가능하다.\n신혜권 이티에듀 대표는 “할로코드는 AI와 IoT 다양한 교육에 적합하다”면서 “이티에듀가 운영하는 마이클래스몰에서 구매시 수업안을 무료로 제공한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'식재료에 맞는 레시피(조리법)가 있듯 소프트웨어(SW)교육에도 교구에 맞는 레시피(교안)가 있다면' SW교육 경험이 있는 교·강사라면 한번쯤 해봤을 생각이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SW교구는 넘쳐나는데, 교구에 맞는 교육방법을 몰라 활용하지 못하는 교·강사를 위해 SW교육 레시피를 제공한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "초·중·고등학생 대상 블록 기반 프로그래밍으로 인공지능(AI)과 사물인터넷(IoT) 등 다양한 응용 프로그램 수업을 원한다면, 단일 보드 무선 컴퓨터 '할로코드'가 제격이다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "메이크블록 할로코드는 와이파이가 내장된 단일보드 컴퓨터이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "할로코드는 블록기반 프로그래밍 소프트웨어 엠블록과 결합해 몇 번의 클릭만으로 AI·IoT 애플리케이션 경험 기회를 제공한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다양한 와이파이 모듈을 사용하면 여러 할로코드 간 '무선' 또는 '무제한' 연결이 가능해 디지털 아트 등 창의적 효과도 제공한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "할로코드 구조는 앞면에 프로그래밍이 가능한 12개 RGB LED와 버튼, 마이크, 모션센서, 입출력 터치센서 4핀, 마이크로 USB 커넥터로 구성됐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "뒷면에는 전자모듈 익스텐션 커넥터, ESP 32칩, 배터리 커넥터, 와이파이·블루투스 모듈 등이 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "먼저 엠블록을 다운로드 받아 설치한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "엠블록은 스크래치 3.0 기반이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "스크래치 프로젝트를 열고, 3000개 이상 스프라이트와 그래픽 프로젝트를 활용한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "스크래치 3.0 스타일 기타 개선사항을 설정하고 파이썬으로 스크래치 스프라이트를 코딩한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "스크래치 프로젝트를 다음 단계로 이동한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이후 마이크로 USB 케이블을 이용해 할로코드를 컴퓨터에 연결한 후 간단한 할로코드 코딩을 한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "교안에 있는 LED 링으로 스마일 만들기, 볼륨 감지기 만들기, 버튼을 눌러 LED 애니메이션 재생하기, RGB 색상값 혼합해보기 등 다양한 예제를 수행한다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이외 장면(스테이지) 예제 활용하기, AI 예제 활용하기, 메이킹 예제 활용하기 등 다양한 내용으로 수업이 가능하다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "신혜권 이티에듀 대표는 “할로코드는 AI와 IoT 다양한 교육에 적합하다”면서 “이티에듀가 운영하는 마이클래스몰에서 구매시 수업안을 무료로 제공한다”고 말했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[SW교구 레시피]<4>초·중·고 AI·IoT 교육에 적합한 '할로코드'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

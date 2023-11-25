@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329021",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "바이코, -55°C 열악한 환경에서도 작동하는 ZVS 벅-부스트 레귤레이터 출시",
+		"newsSubTitle": "",
+		"newsContent": "모듈러 전력부품 글로벌 기업 바이코(Vicor)는 -55°C~+115°의 광범위한 온도 범위에서 작동하며 주석-리드 BGA 패키징 옵션을 갖춘 PI3740 ZVS 벅-부스트 레귤레이터를 출시했다고 밝혔다.\nPI3740은 입력 전압 범위가 8~60 V인 고밀도 및 고효율 벅-부스트 레귤레이터이며 10~50 V의 출력 전압을 지원한다.\n이 장치는 10x14 mm SiP 패키지로 최대 140 W를 제공하며 병렬로 추가 장치를 사용하면 더 높은 전력을 공급할 수 있다.\nZVS 스위칭 토폴로지는 96%의 고효율이 가능하다 ZVS 아키텍처는 고주파수 작동을 가능하게 하면서도 스위칭 손실은 최소화하고 효율은 최대화한다.\n높은 스위칭 주파수에서 작동하므로 외부 필터링 구성 요소의 크기를 줄이고, 전력 밀도를 개선하며 라인 및 과부하 현상에 신속한 동적 응답이 가능하다.\nPI3740-00모델에는 DC-DC 스위칭 모드의 벅-부스트 레귤레이터를 구성하기 위한 외부 인덕터, 저항 분배기 및 최소 커패시터가 필요하다.\n이 제품은 배터리 충전 및 컨디셔닝, 통신, 네트워킹, 조명, 컴퓨팅, 커뮤니케이션, 산업, 자동차 액세서리, 12, 24, 48 및 60V DC-DC 용도에 적합하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모듈러 전력부품 글로벌 기업 바이코(Vicor)는 -55°C~+115°의 광범위한 온도 범위에서 작동하며 주석-리드 BGA 패키징 옵션을 갖춘 PI3740 ZVS 벅-부스트 레귤레이터를 출시했다고 밝혔다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "PI3740은 입력 전압 범위가 8~60 V인 고밀도 및 고효율 벅-부스트 레귤레이터이며 10~50 V의 출력 전압을 지원한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 장치는 10x14 mm SiP 패키지로 최대 140 W를 제공하며 병렬로 추가 장치를 사용하면 더 높은 전력을 공급할 수 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "ZVS 스위칭 토폴로지는 96%의 고효율이 가능하다 ZVS 아키텍처는 고주파수 작동을 가능하게 하면서도 스위칭 손실은 최소화하고 효율은 최대화한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "높은 스위칭 주파수에서 작동하므로 외부 필터링 구성 요소의 크기를 줄이고, 전력 밀도를 개선하며 라인 및 과부하 현상에 신속한 동적 응답이 가능하다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "PI3740-00모델에는 DC-DC 스위칭 모드의 벅-부스트 레귤레이터를 구성하기 위한 외부 인덕터, 저항 분배기 및 최소 커패시터가 필요하다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 제품은 배터리 충전 및 컨디셔닝, 통신, 네트워킹, 조명, 컴퓨팅, 커뮤니케이션, 산업, 자동차 액세서리, 12, 24, 48 및 60V DC-DC 용도에 적합하다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "바이코, -55°C 열악한 환경에서도 작동하는 ZVS 벅-부스트 레귤레이터 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

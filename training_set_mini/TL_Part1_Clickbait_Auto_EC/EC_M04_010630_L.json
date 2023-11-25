@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010630",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "지역 비제조업 10월엔 웃어요",
+		"newsSubTitle": "경기ㆍ매출전망 모두 올라",
+		"newsContent": "대전ㆍ충남지역의 10월 비제조업의 기업경기 전망이 밝을 것으로 예상된다.\n한국은행 대전ㆍ충남본부가 27일 발표한 '9월 기업경기 동향 및 10월 전망' 조사 결과, 지역 제조업의 업황전망BSI는 81, 전월보다 1p 하락하는데 반해 비제조업은 70으로 8p 상승할 것으로 내다봤다.\n제조업의 경우 중소기업(9월 78→10월 78)과 내수기업(77→77)은 전월과 동일했으나, 대기업(98→193)은 5p 하락, 수출기업은 (96→98) 전월보다 2p 상승할 전망이다.\n업종별로는 전자부품, 영상, 전기장비 등은 상승하였으나, 자동차, 트레일러, 화합물, 화학제품 등은 하락할 것으로 예상된다.\n비제조업의 매출전망BSI(9월 74→10월 81)와 채산성전망BSI(76→83)는 모두 전월보다 각각 7p 상승할 것으로 전망된다.\n인력사정전망BSI(91→87)는 전월보다 4p 하락할 것으로 내다봤다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전ㆍ충남지역의 10월 비제조업의 기업경기 전망이 밝을 것으로 예상된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전ㆍ충남본부가 27일 발표한 '9월 기업경기 동향 및 10월 전망' 조사 결과, 지역 제조업의 업황전망BSI는 81, 전월보다 1p 하락하는데 반해 비제조업은 70으로 8p 상승할 것으로 내다봤다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "제조업의 경우 중소기업(9월 78→10월 78)과 내수기업(77→77)은 전월과 동일했으나, 대기업(98→193)은 5p 하락, 수출기업은 (96→98) 전월보다 2p 상승할 전망이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "업종별로는 전자부품, 영상, 전기장비 등은 상승하였으나, 자동차, 트레일러, 화합물, 화학제품 등은 하락할 것으로 예상된다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비제조업의 매출전망BSI(9월 74→10월 81)와 채산성전망BSI(76→83)는 모두 전월보다 각각 7p 상승할 것으로 전망된다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인력사정전망BSI(91→87)는 전월보다 4p 하락할 것으로 내다봤다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스타 플라워, 홈페이지 새단장 이벤트 및 할인전",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

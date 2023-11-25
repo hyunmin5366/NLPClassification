@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337139",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "F5네트웍스 한국 보안시장 안착...애플리케이션 보안 중심 확대 계획",
+		"newsSubTitle": "",
+		"newsContent": "F5네트웍스가 한국 보안시장에 안착했다.\n지난해 전년 대비 133% 넘는 성장세를 보이며 보안소켓계층(SSL)∙웹방화벽(WAF) 레퍼런스를 구축했다.\n애플리케이션 보안이 떠오르면서 시장에 자연스럽게 자리 잡았다는 분석이다.\n향후 보안 사업 다변화로 시장 확대에 박차를 가한다.\n조원균 F5코리아 지사장은 8일 서울 코엑스 인터컨티넨탈호텔에서 열린 '안티서페이트 2017 서울(ANTICIPATE 2017 SEOUL)' 기자간담회에서 \\\"지난해 F5네트웍스코리아 보안 사업이 전년 대비 133% 성장했다\\\"면서 \\\"국내 대기업, 통신사가 레퍼런스에 포함됐다\\\"고 말했다.\n이어 \\\"웹방화벽과 SSL솔루션을 중심으로 레퍼런스를 구축했고, 이들 솔루션이 차지하는 부분이 컸다\\\"고 덧붙였다.\n시장이 애플리케이션 중심 보안으로 옮겨가면서 F5 보안 사업도 자연스럽게 자리 잡았다는 분석이다.\n기업의 클라우드 도입 속도가 빨라지면서 애플리케이션 중심 보안 중요성도 커졌다.\n시장조사기관 IDC에 따르면, 기업 중 73%는 하이브리드 클라우드 전략을 채택한다.\n기업 중 66%는 SW를 서버에 직접 설치해 쓰는 온프레미스(On-premise) 환경에서 프라이빗(Private) 클라우드를 사용한다.\n조 지사장은 \\\"2018년까지 기업 절반이 퍼블릭(Public) 클라우드로 이동할 것이라는 공격적 보고서 내용도 있다\\\"면서 \\\"클라우드 아키텍처 변환과 멀티 클라우드를 제2의 전략으로 채택하는 것은 당연한 과정이며, 이 과정에서 애플리케이션 보안이 중요해졌다\\\"고 말했다.\n멀티 클라우드 관리 필요성도 커졌다.\n클라우드 플랫폼 서비스는 클라우드 서비스 제공자 중심으로 운영된다.\n멀티 클라우드 환경에서 공통 적용되는 보안 기준은 없다.\n조 지사장은 \\\"애플리케이션에 많은 클라우드에 산재되고 기업은 산재된 클라우드를 관리해야 하는 어려움이 있다\\\"면서 \\\"공격 취약점을 가장 먼저 아는 해커는 지능화된 봇넷, 다계층 공격, SSL 암호화트래픽에 숨어서 들어오는 정교한 공격을 펼칠 것\\\"이라고 지적했다.\n이에 따라 F5네트웍스는 기업이 애플리케이션 가시성을 확보하고, 복수 환경에 대한 일관된 보안 정책을 수립하는 것을 대안으로 제시했다.\n애플리케이션 보호를 위한 통합 보안과 컨텍스트∙행동 기반 보안 접근도 필요하다.\nF5네트웍스는 애플리케이션 사업 경험을 바탕으로 한국 시장에서 보안 영역을 확대한다.\nSSL 암∙복호화와 웹방화벽 지속 확대를 기반으로 분산서비스 거부(디도스∙DDoS) 공격 시장에도 진입한다.\n조 지사장은 \\\"웹방화벽과 SSL 암복화 시장에 기반해 다양한 보안 영역 진출을 생각한다\\\"며 \\\"올해 보안 사업 매출 100% 성장을 목표로 움직일 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "F5네트웍스가 한국 보안시장에 안착했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 전년 대비 133% 넘는 성장세를 보이며 보안소켓계층(SSL)∙웹방화벽(WAF) 레퍼런스를 구축했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "애플리케이션 보안이 떠오르면서 시장에 자연스럽게 자리 잡았다는 분석이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "향후 보안 사업 다변화로 시장 확대에 박차를 가한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조원균 F5코리아 지사장은 8일 서울 코엑스 인터컨티넨탈호텔에서 열린 '안티서페이트 2017 서울(ANTICIPATE 2017 SEOUL)' 기자간담회에서 \\\"지난해 F5네트웍스코리아 보안 사업이 전년 대비 133% 성장했다\\\"면서 \\\"국내 대기업, 통신사가 레퍼런스에 포함됐다\\\"고 말했다.",
+				"sentenceSize": 163
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 \\\"웹방화벽과 SSL솔루션을 중심으로 레퍼런스를 구축했고, 이들 솔루션이 차지하는 부분이 컸다\\\"고 덧붙였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시장이 애플리케이션 중심 보안으로 옮겨가면서 F5 보안 사업도 자연스럽게 자리 잡았다는 분석이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "기업의 클라우드 도입 속도가 빨라지면서 애플리케이션 중심 보안 중요성도 커졌다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "시장조사기관 IDC에 따르면, 기업 중 73%는 하이브리드 클라우드 전략을 채택한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "기업 중 66%는 SW를 서버에 직접 설치해 쓰는 온프레미스(On-premise) 환경에서 프라이빗(Private) 클라우드를 사용한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "조 지사장은 \\\"2018년까지 기업 절반이 퍼블릭(Public) 클라우드로 이동할 것이라는 공격적 보고서 내용도 있다\\\"면서 \\\"클라우드 아키텍처 변환과 멀티 클라우드를 제2의 전략으로 채택하는 것은 당연한 과정이며, 이 과정에서 애플리케이션 보안이 중요해졌다\\\"고 말했다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "멀티 클라우드 관리 필요성도 커졌다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "클라우드 플랫폼 서비스는 클라우드 서비스 제공자 중심으로 운영된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "멀티 클라우드 환경에서 공통 적용되는 보안 기준은 없다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "조 지사장은 \\\"애플리케이션에 많은 클라우드에 산재되고 기업은 산재된 클라우드를 관리해야 하는 어려움이 있다\\\"면서 \\\"공격 취약점을 가장 먼저 아는 해커는 지능화된 봇넷, 다계층 공격, SSL 암호화트래픽에 숨어서 들어오는 정교한 공격을 펼칠 것\\\"이라고 지적했다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이에 따라 F5네트웍스는 기업이 애플리케이션 가시성을 확보하고, 복수 환경에 대한 일관된 보안 정책을 수립하는 것을 대안으로 제시했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "애플리케이션 보호를 위한 통합 보안과 컨텍스트∙행동 기반 보안 접근도 필요하다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "F5네트웍스는 애플리케이션 사업 경험을 바탕으로 한국 시장에서 보안 영역을 확대한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "SSL 암∙복호화와 웹방화벽 지속 확대를 기반으로 분산서비스 거부(디도스∙DDoS) 공격 시장에도 진입한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "조 지사장은 \\\"웹방화벽과 SSL 암복화 시장에 기반해 다양한 보안 영역 진출을 생각한다\\\"며 \\\"올해 보안 사업 매출 100% 성장을 목표로 움직일 것\\\"이라고 말했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "F5네트웍스 한국 보안시장 안착...애플리케이션 보안 중심 확대 계획",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

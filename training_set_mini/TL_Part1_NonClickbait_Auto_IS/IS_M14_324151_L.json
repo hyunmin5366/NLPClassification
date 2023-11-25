@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324151",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "기가바이트 AMD서버, 벤치마킹서 최고 기록 달성",
+		"newsSubTitle": "",
+		"newsContent": "대만 PC·서버 제조 업체 기가바이트는 자사 AMD서버가 컴퓨터 벤치마킹 전문업체 스펙(Spec)의 벤치마킹 테스트에서 최고기록을 달성했다고 밝혔다.\n기가바이트는 최근 AMD EPYC 7002(코드명 Rome) 서버 프로세서를 채택한 서버 17개 모델을 출시한 바 있다.\nAMD EPYC 7002는 AMD가개발한 7나노공정 CPU 설계 젠2 아키텍처를 적용해 적은 전력을 소모하면서 빠르게 업무를 처리할 수 있다. 64개 코어, 128개 쓰레드, 225와트 전력사용량, 3.4㎓ 속도를 갖고 있다.\n이번 벤치마크 테스트는 AMD EPYC 7002 서버 프로세서를 사용하는 기가바이트 R282-Z90와 R272-Z30 모델과 경쟁사 제품을 대상으로 이뤄졌다.\n기가바이트는 자사 시스템 설계 및 엔지니어링이 AMD EPYC 7002에서 최적화 됐다는 것을 의미한다고 설명했다.\n기가바이트 제품은 단일 스레드 컴퓨팅 집약적 응용 프로그램 속도를 측정하는 SPEC스피드, 다중 스레드 컴퓨팅 집약적 응용 프로그램을 측정하는 SPEC레이트, 엔터프라이즈 자바 응용프로그램을 실행하는 서버 성능을 평가하는 SPECjbb2015에서 최고점수를 받았다.\n기가바이트 R282-Z90은 2U 범용 랙마운트 서버로 AMD EPYC 7002 시리즈 프로세서, 최대 4테라바이트 DDR4 메모리를 위한 32개 DIMM슬롯, 전후면 SATA·SAS 핫스왑 HDD·SSD 드라이브, 최대 8개 PCIe 4세대 확장 슬롯, 2개 OCP 메자닌 슬롯을 위한 스토리지 용량 추가 카드장치를 갖췄다.\n컴퓨팅, 메모리, 스토리지에 균형 잡힌 아키텍처를 제공해 까다로운 워크로드를 지원하는 최적 성능을 제공한다.\n소프트웨어 정의 및 가상화 인프라를 구축하거나 데이터베이스 분석과 같은 고성능 애플리케이션을 지원하는데 이상적이다.\nR272-Z30은 AMD EPYC 7002시리즈 프로세서, 최대 2테라바이트 DDR4 메모리를 위한 16개 DIMM슬롯, 전후면 스토리지 용량을 결합한 2U범용 랙마운트 서버다.\nSATA 핫스왑 가능 HDD·SSD베이, 최대 6개 PCIe 확장 슬롯과 OCP 메자닌 슬롯으로 많은 추가장치를 수용할 수 있다.\n서버 활용도를 높이고 도입비용을 낮춘 고성능 싱글소켓 플랫폼으로 주요 데이터센터 작업 부하에 맞게 크기를 조정할 수 있다.\n듀얼소켓 아키텍처에서만 사용 가능했던 기능과 성능을 구현할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대만 PC·서버 제조 업체 기가바이트는 자사 AMD서버가 컴퓨터 벤치마킹 전문업체 스펙(Spec)의 벤치마킹 테스트에서 최고기록을 달성했다고 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기가바이트는 최근 AMD EPYC 7002(코드명 Rome) 서버 프로세서를 채택한 서버 17개 모델을 출시한 바 있다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AMD EPYC 7002는 AMD가개발한 7나노공정 CPU 설계 젠2 아키텍처를 적용해 적은 전력을 소모하면서 빠르게 업무를 처리할 수 있다. 64개 코어, 128개 쓰레드, 225와트 전력사용량, 3.4㎓ 속도를 갖고 있다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 벤치마크 테스트는 AMD EPYC 7002 서버 프로세서를 사용하는 기가바이트 R282-Z90와 R272-Z30 모델과 경쟁사 제품을 대상으로 이뤄졌다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기가바이트는 자사 시스템 설계 및 엔지니어링이 AMD EPYC 7002에서 최적화 됐다는 것을 의미한다고 설명했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기가바이트 제품은 단일 스레드 컴퓨팅 집약적 응용 프로그램 속도를 측정하는 SPEC스피드, 다중 스레드 컴퓨팅 집약적 응용 프로그램을 측정하는 SPEC레이트, 엔터프라이즈 자바 응용프로그램을 실행하는 서버 성능을 평가하는 SPECjbb2015에서 최고점수를 받았다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기가바이트 R282-Z90은 2U 범용 랙마운트 서버로 AMD EPYC 7002 시리즈 프로세서, 최대 4테라바이트 DDR4 메모리를 위한 32개 DIMM슬롯, 전후면 SATA·SAS 핫스왑 HDD·SSD 드라이브, 최대 8개 PCIe 4세대 확장 슬롯, 2개 OCP 메자닌 슬롯을 위한 스토리지 용량 추가 카드장치를 갖췄다.",
+				"sentenceSize": 182
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "컴퓨팅, 메모리, 스토리지에 균형 잡힌 아키텍처를 제공해 까다로운 워크로드를 지원하는 최적 성능을 제공한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "소프트웨어 정의 및 가상화 인프라를 구축하거나 데이터베이스 분석과 같은 고성능 애플리케이션을 지원하는데 이상적이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "R272-Z30은 AMD EPYC 7002시리즈 프로세서, 최대 2테라바이트 DDR4 메모리를 위한 16개 DIMM슬롯, 전후면 스토리지 용량을 결합한 2U범용 랙마운트 서버다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "SATA 핫스왑 가능 HDD·SSD베이, 최대 6개 PCIe 확장 슬롯과 OCP 메자닌 슬롯으로 많은 추가장치를 수용할 수 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "서버 활용도를 높이고 도입비용을 낮춘 고성능 싱글소켓 플랫폼으로 주요 데이터센터 작업 부하에 맞게 크기를 조정할 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "듀얼소켓 아키텍처에서만 사용 가능했던 기능과 성능을 구현할 수 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "기가바이트 AMD서버, 벤치마킹서 최고 기록 달성",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

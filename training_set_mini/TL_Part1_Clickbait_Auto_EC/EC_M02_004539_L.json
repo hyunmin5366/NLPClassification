@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004539",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "\\\"미리 대출한도 확인하세요\\\"…신한銀, DSR계산기 서비스 오픈",
+		"newsSubTitle": "신용정보원 등록 정보 활용, '정확성 및 편의성 증대'",
+		"newsContent": "신한은행은 대출 신청 전, 간편하게 총부채원리금상환비율(DSR)을 계산할 수 있는 '신한 DSR 계산기(디슐랭)'을 신한 쏠(SOL)에서 오픈한다고 17일 밝혔다.\n신한은행은 강화되는 DSR 규제에 대한 고객들의 문의와 DSR 산출의 필요성이 늘어나면서, 조금 더 쉽고 편리하게 DSR을 확인할 수 있도록 하기 위해 '신한 DSR 계산기'를 오픈했다.\n이용 고객들은 신한 DSR 계산기를 통해 신용정보원에 등록되어 있는 보유 대출의 원리금을 조회만 하면 편리하게 한도를 파악할 수 있다.\n신한은행 관계자는 데일리임팩트에 \\\"특히 대표 대출 상품을 기준으로 예상되는 금리까지 조회가 가능해 향후 고객이 고려해야 할 원리금도 제시해준다\\\"고 설명했다.\n이밖에 신한은행은 향후 신한 DSR 계산기를 고도화하고 서비스 이용 고객에 대한 이벤트도 지속적으로 추진한다는 방침이다.\n한편, 내년 1월부터 DSR 규제가 더욱 강화되면서 대출 신청 금액을 포함한 총 대출 금액이 2억원을 초과하는 경우 DSR 40%기준을 충족해야 대출이 가능하다.\n특히 대출 원금과 이자의 연간 상환액이 연소득의 40%를 넘지 않아야 대출이 가능한데, 내년 7월부터는 총 대출 금액이 1억원을 초과하면 DSR 규제 대상이 된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신한은행은 대출 신청 전, 간편하게 총부채원리금상환비율(DSR)을 계산할 수 있는 '신한 DSR 계산기(디슐랭)'을 신한 쏠(SOL)에서 오픈한다고 17일 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신한은행은 강화되는 DSR 규제에 대한 고객들의 문의와 DSR 산출의 필요성이 늘어나면서, 조금 더 쉽고 편리하게 DSR을 확인할 수 있도록 하기 위해 '신한 DSR 계산기'를 오픈했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이용 고객들은 신한 DSR 계산기를 통해 신용정보원에 등록되어 있는 보유 대출의 원리금을 조회만 하면 편리하게 한도를 파악할 수 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신한은행 관계자는 데일리임팩트에 \\\"특히 대표 대출 상품을 기준으로 예상되는 금리까지 조회가 가능해 향후 고객이 고려해야 할 원리금도 제시해준다\\\"고 설명했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이밖에 신한은행은 향후 신한 DSR 계산기를 고도화하고 서비스 이용 고객에 대한 이벤트도 지속적으로 추진한다는 방침이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 내년 1월부터 DSR 규제가 더욱 강화되면서 대출 신청 금액을 포함한 총 대출 금액이 2억원을 초과하는 경우 DSR 40%기준을 충족해야 대출이 가능하다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 대출 원금과 이자의 연간 상환액이 연소득의 40%를 넘지 않아야 대출이 가능한데, 내년 7월부터는 총 대출 금액이 1억원을 초과하면 DSR 규제 대상이 된다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'불황의 늪' 대전 자영업자 3개월새 1만1000명 급감",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

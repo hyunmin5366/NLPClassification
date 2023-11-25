@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330312",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "지난해 법인차 등록 사상 최대…렌트·리스 선호 때문",
+		"newsSubTitle": "",
+		"newsContent": "장기렌트, 리스를 통해 신차를 구입하는 소비자가 늘어나면서 지난해 국내 법인차 신규 등록대수가 사상 최대를 기록했다.\n28일 한국자동차산업협회에 따르면 지난해 국내에 신규 등록된 승용차(수입차 포함) 153만3820대 가운데 37만1198대가 법인차량인 것으로 집계됐다.\n이는 역대 최대치를 기록한 2015년 35만6626대보다 4.1% 가량 더 늘어난 규모다.\n지난해 법인승용차 판매가 증가한 데는 국산승용차 역할이 컸다.\n지난해 신규 수입 법인승용차는 8만396대로 2015년(9만5311대)보다 15.6% 감소했다.\n지난해부터 '무늬만 법인차'에 대한 정부당국의 관리가 강화되면서 사실상 개인용으로 사용되던 고가 법인 수입차의 판매가 줄었기 때문이다.\n반면 지난해 국산 법인승용차 등록대수는 전년 대비 11.3% 증가한 29만802대를 기록했다.\n국산 법인승용차 선전에 힘입어 전체 신규 등록 승용차에서 법인승용차가 차지하는 비중도 24.2%로 사상 최고치를 기록했다.\n이처럼 법인승용차 신규등록 대수가 늘어난 것은 최근 차량 소비형태가 변했기 때문으로 분석된다.\n신차를 사기보다는 렌트나 리스 쪽으로 소비 패턴이 옮겨가고 있기 때문이다.\n업계 관계자는 \\\"렌트나 리스는 신차 구매보다 등록 절차나 관리가 쉬워 최근 소비자의 관심이 쏠리고 있다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "장기렌트, 리스를 통해 신차를 구입하는 소비자가 늘어나면서 지난해 국내 법인차 신규 등록대수가 사상 최대를 기록했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 한국자동차산업협회에 따르면 지난해 국내에 신규 등록된 승용차(수입차 포함) 153만3820대 가운데 37만1198대가 법인차량인 것으로 집계됐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 역대 최대치를 기록한 2015년 35만6626대보다 4.1% 가량 더 늘어난 규모다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 법인승용차 판매가 증가한 데는 국산승용차 역할이 컸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 신규 수입 법인승용차는 8만396대로 2015년(9만5311대)보다 15.6% 감소했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지난해부터 '무늬만 법인차'에 대한 정부당국의 관리가 강화되면서 사실상 개인용으로 사용되던 고가 법인 수입차의 판매가 줄었기 때문이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "반면 지난해 국산 법인승용차 등록대수는 전년 대비 11.3% 증가한 29만802대를 기록했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국산 법인승용차 선전에 힘입어 전체 신규 등록 승용차에서 법인승용차가 차지하는 비중도 24.2%로 사상 최고치를 기록했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이처럼 법인승용차 신규등록 대수가 늘어난 것은 최근 차량 소비형태가 변했기 때문으로 분석된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "신차를 사기보다는 렌트나 리스 쪽으로 소비 패턴이 옮겨가고 있기 때문이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "업계 관계자는 \\\"렌트나 리스는 신차 구매보다 등록 절차나 관리가 쉬워 최근 소비자의 관심이 쏠리고 있다\\\"고 밝혔다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지난해 법인차 등록 사상 최대…렌트·리스 선호 때문",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

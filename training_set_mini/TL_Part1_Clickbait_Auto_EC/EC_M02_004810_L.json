@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004810",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "제네시스 GV70, 캐나다 자동차 혁신상 2관왕",
+		"newsSubTitle": "어드밴스드 후석 승객 알림 및 지문인증 시스템 선정",
+		"newsContent": "현대자동차그룹은 제네시스 브랜드 GV70가 캐나다 자동차 기자협회가 선정하는 '2022 자동차 혁신상'에서 2관왕을 차지했다고 6일 발표했다.\n캐나다 자동차 기자협회는 매년 새롭게 선보인 자동차 신기술을 대상으로 △안전 △기술 △친환경 3개 부문에서 가장 혁신적 기술을 선별해 발표하고 있다.\nGV70은 안전 부문에서 어드밴스드 후석 승객 알림 시스템이, 기술 부문에서 지문 인증 시스템이 선정됐다.\n어드밴스드 후석 승객 알림은 GV70에 세계 최초로 적용된 기술이다.\n차량 뒷좌석에 승객이 탑승한 경우 실내에 장착된 레이더 센서로 이를 감지한 뒤 운전자에게 단계적으로 알림을 제공한다.\n지문 인증 시스템은 지문 생체 인식을 통한 차량 시동과 운전자별 운전석 개인화 설정과도 연동되는 첨단 기술이다.\n제네시스 관계자는 데일리임팩트에 \\\"GV70 탑재 지문인식과 후석 승객 알림 시스템은 고객들에게 안전하고 편리한 개인화 서비스를 제공하기 위한 제네시스만의 배려\\\"라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차그룹은 제네시스 브랜드 GV70가 캐나다 자동차 기자협회가 선정하는 '2022 자동차 혁신상'에서 2관왕을 차지했다고 6일 발표했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "캐나다 자동차 기자협회는 매년 새롭게 선보인 자동차 신기술을 대상으로 △안전 △기술 △친환경 3개 부문에서 가장 혁신적 기술을 선별해 발표하고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "GV70은 안전 부문에서 어드밴스드 후석 승객 알림 시스템이, 기술 부문에서 지문 인증 시스템이 선정됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "어드밴스드 후석 승객 알림은 GV70에 세계 최초로 적용된 기술이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "차량 뒷좌석에 승객이 탑승한 경우 실내에 장착된 레이더 센서로 이를 감지한 뒤 운전자에게 단계적으로 알림을 제공한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지문 인증 시스템은 지문 생체 인식을 통한 차량 시동과 운전자별 운전석 개인화 설정과도 연동되는 첨단 기술이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "제네시스 관계자는 데일리임팩트에 \\\"GV70 탑재 지문인식과 후석 승객 알림 시스템은 고객들에게 안전하고 편리한 개인화 서비스를 제공하기 위한 제네시스만의 배려\\\"라고 말했다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미니스톱 인수전에서 맞붙는 신동빈 vs 정용진",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

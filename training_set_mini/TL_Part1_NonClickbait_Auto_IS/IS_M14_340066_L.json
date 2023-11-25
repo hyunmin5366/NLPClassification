@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_340066",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[올쇼TV]IBM, 27일 '엔터프라이즈 클라우드 플랫폼 전환법은?\\\"",
+		"newsSubTitle": "",
+		"newsContent": "한국IBM은 27일 오후 3시 전자신문 웨비나 전문방송 올쇼TV에서 기업이 반드시 고려해야 하는 엔터프라이즈 클라우드 플랫폼 전환을 위한 솔루션을 소개한다.\n클라우드 컴퓨팅은 디지털 트랜스포메이션을 견인하고, IT 포트폴리오를 현대화하는 플랫폼으로 자리 잡았다.\n기업용 클라우드 트렌드 발표에 따르면, 기업 클라우드 운영이 하이브리드와 멀티클라우드로 진입했다.\n이에 따라 오픈 클라우드 기술과 보안 중요성이 강조된다.\nIBM은 엔터프라즈 업무를 안정적으로 클라우드 플랫폼으로 전환하기 위해서 기업이 고려해야 사항을 제시한다.\n기존 IBM 파워시스템 사용자들이 클라우드로 전환하기 위한 다양한 목적과 그에 맞는 여정을 준비했다.\nAIX와 IBM i 에서 운영 중인 업무를 클라우드로 전환하기 위한 다양한 클라우드 기술과 솔루션을 소개한다.\n웨비나는 무료며 올쇼TV 사이트(http://www.allshowtv.com/detail.html?idx=146)에서 사전 신청하면 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국IBM은 27일 오후 3시 전자신문 웨비나 전문방송 올쇼TV에서 기업이 반드시 고려해야 하는 엔터프라이즈 클라우드 플랫폼 전환을 위한 솔루션을 소개한다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "클라우드 컴퓨팅은 디지털 트랜스포메이션을 견인하고, IT 포트폴리오를 현대화하는 플랫폼으로 자리 잡았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기업용 클라우드 트렌드 발표에 따르면, 기업 클라우드 운영이 하이브리드와 멀티클라우드로 진입했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 오픈 클라우드 기술과 보안 중요성이 강조된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "IBM은 엔터프라즈 업무를 안정적으로 클라우드 플랫폼으로 전환하기 위해서 기업이 고려해야 사항을 제시한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기존 IBM 파워시스템 사용자들이 클라우드로 전환하기 위한 다양한 목적과 그에 맞는 여정을 준비했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "AIX와 IBM i 에서 운영 중인 업무를 클라우드로 전환하기 위한 다양한 클라우드 기술과 솔루션을 소개한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "웨비나는 무료며 올쇼TV 사이트(http://www.allshowtv.com/detail.html?idx=146)에서 사전 신청하면 된다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[올쇼TV]IBM, 27일 '엔터프라이즈 클라우드 플랫폼 전환법은?\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327730",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "한국표적 가상화폐 채굴 악성코드 증가",
+		"newsSubTitle": "랜섬웨어서 공격 방법 바꿔...유창한 한국어 이메일로 유포",
+		"newsContent": "한국을 표적한 가상화폐 채굴 악성코드가 증가했다.\n가상화폐 가격이 요동치면서 랜섬웨어를 뿌리던 조직이 채굴 악성코드로 방향을 선회한 것으로 보인다.\n이스트시큐리티는 2016년부터 한국에 '비너스 로커' 랜섬웨어로 공격한 해커가 지난해 11월 말부터 가상화폐 모네로 채굴 기능 악성코드를 지속 유포하고 있다고 밝혔다.\n하우리와 빛스캔 역시 지난해 말 기점으로 가상화폐 채굴 악성코드 활동을 경고했다.\n한국을 표적한 공격자는 스피어피싱으로 가상화폐 채굴 악성코드를 유포한다.\n유창한 한국어로 된 이메일을 보낸다.\n최근에 발견된 공격은 특정 의료 시설을 겨냥했다.\n웹 사이트에 공개된 간호사 채용 공고에 문의 메일을 보낸다.\n간호사 이력서나 지원서로 위장한 채굴 악성코드를 첨부한다.\n첨부된 파일은 바로가기(.LNK) 파일과 숨김 속성의 실행형 악성파일(.EXE)이 포함됐다.\n바로가기 파일은 사진(JPG)과 문서(DOC) 파일로 위장했지만 EXE 파일을 실행하는 역할을 한다.\n병원은 물론 일반 기업도 채굴 악성코드의 표적이다.\n취업 시즌을 맞아 입사 지원을 가장한 공격이 많다.\n중고물품이나 택배 배송 등 사회 공학 기법을 활용한 사례도 있다.\n현재 중고 물품 판매자에게 구매 의사가 있다는 내용으로 수신인 맞춤형 이메일을 발송했다.\n공격자는 악성코드 분석을 방해하기 위해 안티 가상머신(VM) 기능을 넣었다.\n감염되면 특정 복호화 루틴 함수를 이용, 모네로 채굴을 시작한다.\n채굴 악성코드에 감염되면 자신도 모르게 시스템 자원 부족으로 PC 속도가 현저히 느려진다.\n채굴 악성코드가 노린 가상화폐는 모네로다.\n모네로는 비트코인 등 다른 가상화폐보다 추적이 어려워 익명성을 보장하는 것으로 알려졌다.\n비트코인은 받은 사람이 키를 통해 어떤 사람이 보냈는지 내역을 확인한다.\n모네로는 거래가 시작되면 특정 그룹 내에서 내역이 섞이고, 어떤 사람에게서 자산이 이동됐는지 확인이 어렵다.\n미국 국가안보국(NSA)을 해킹했다고 주장하는 해커 그룹 섀도 브로커스는 매달 해킹한 자료를 공개하는 서비스를 시작했을 때 월정액의 요금을 모네로로 받았다.\n이스트시큐리티 관계자는 \\\"최근 가상화폐 가치가 상승하면서 랜섬웨어를 뿌리던 조직이 채굴형으로 전환한 것으로 보인다\\\"면서 \\\"랜섬웨어에 걸려도 돈을 지불하는 사람이 줄면서 PC 자원을 소모하는 채굴형이 증가했다\\\"고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국을 표적한 가상화폐 채굴 악성코드가 증가했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "가상화폐 가격이 요동치면서 랜섬웨어를 뿌리던 조직이 채굴 악성코드로 방향을 선회한 것으로 보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이스트시큐리티는 2016년부터 한국에 '비너스 로커' 랜섬웨어로 공격한 해커가 지난해 11월 말부터 가상화폐 모네로 채굴 기능 악성코드를 지속 유포하고 있다고 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하우리와 빛스캔 역시 지난해 말 기점으로 가상화폐 채굴 악성코드 활동을 경고했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국을 표적한 공격자는 스피어피싱으로 가상화폐 채굴 악성코드를 유포한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유창한 한국어로 된 이메일을 보낸다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최근에 발견된 공격은 특정 의료 시설을 겨냥했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "웹 사이트에 공개된 간호사 채용 공고에 문의 메일을 보낸다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "간호사 이력서나 지원서로 위장한 채굴 악성코드를 첨부한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "첨부된 파일은 바로가기(.LNK) 파일과 숨김 속성의 실행형 악성파일(.EXE)이 포함됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "바로가기 파일은 사진(JPG)과 문서(DOC) 파일로 위장했지만 EXE 파일을 실행하는 역할을 한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "병원은 물론 일반 기업도 채굴 악성코드의 표적이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "취업 시즌을 맞아 입사 지원을 가장한 공격이 많다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "중고물품이나 택배 배송 등 사회 공학 기법을 활용한 사례도 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "현재 중고 물품 판매자에게 구매 의사가 있다는 내용으로 수신인 맞춤형 이메일을 발송했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "공격자는 악성코드 분석을 방해하기 위해 안티 가상머신(VM) 기능을 넣었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "감염되면 특정 복호화 루틴 함수를 이용, 모네로 채굴을 시작한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "채굴 악성코드에 감염되면 자신도 모르게 시스템 자원 부족으로 PC 속도가 현저히 느려진다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "채굴 악성코드가 노린 가상화폐는 모네로다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "모네로는 비트코인 등 다른 가상화폐보다 추적이 어려워 익명성을 보장하는 것으로 알려졌다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "비트코인은 받은 사람이 키를 통해 어떤 사람이 보냈는지 내역을 확인한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "모네로는 거래가 시작되면 특정 그룹 내에서 내역이 섞이고, 어떤 사람에게서 자산이 이동됐는지 확인이 어렵다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "미국 국가안보국(NSA)을 해킹했다고 주장하는 해커 그룹 섀도 브로커스는 매달 해킹한 자료를 공개하는 서비스를 시작했을 때 월정액의 요금을 모네로로 받았다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "이스트시큐리티 관계자는 \\\"최근 가상화폐 가치가 상승하면서 랜섬웨어를 뿌리던 조직이 채굴형으로 전환한 것으로 보인다\\\"면서 \\\"랜섬웨어에 걸려도 돈을 지불하는 사람이 줄면서 PC 자원을 소모하는 채굴형이 증가했다\\\"고 설명했다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국표적 가상화폐 채굴 악성코드 증가",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

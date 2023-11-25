@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334493",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "삼성전자 '빅스비' 서비스 강화",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 인공지능(AI) 음성비서 빅스비 서비스 강화를 위해 지원군을 투입하는 특단 조치를 내렸다.\n삼성전자는 정의석 부사장을 무선개발 1실 산하 서비스 인텔리전스팀 수장으로 선임했다.\n정 부사장은 2015년부터 미국 실리콘밸리에 위치한 삼성리서치아메리카(SRA)에서 모바일 플랫폼 개발 업무를 담당했다.\n삼성전자 관계자는 \\\"이인종 부사장은 기존과 마찬가지로 빅스비를 비롯한 SW 업무 총책임자 역할을 지속하게 될 것\\\"이라며 \\\"정의석 부사장 합류로 인해 빅스비 진화에 속도가 붙을 것\\\"이라고 기대했다.\n갤럭시S8에 처음 적용된 빅스비는 우리나라를 비롯해 세계 200여개 국가에 진출했다.\n하지만 삼성전자는 한국어, 영어 이외에 지원 언어를 늘려야한다는 숙제를 안고 있다.\n삼성전자는 정 부사장이 빅스비 개발 업무에 합류, 이 부사장과 시너지를 낼 수 있을 것으로 기대하고 있다.\n한편, 삼성전자는 18일 미국 샌프란시스코에서 열리는 삼성 개발자 콘퍼런스(SDC)에서 한층 업그레이드된 빅스비 2.0 버전을 소개할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 인공지능(AI) 음성비서 빅스비 서비스 강화를 위해 지원군을 투입하는 특단 조치를 내렸다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자는 정의석 부사장을 무선개발 1실 산하 서비스 인텔리전스팀 수장으로 선임했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정 부사장은 2015년부터 미국 실리콘밸리에 위치한 삼성리서치아메리카(SRA)에서 모바일 플랫폼 개발 업무를 담당했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "삼성전자 관계자는 \\\"이인종 부사장은 기존과 마찬가지로 빅스비를 비롯한 SW 업무 총책임자 역할을 지속하게 될 것\\\"이라며 \\\"정의석 부사장 합류로 인해 빅스비 진화에 속도가 붙을 것\\\"이라고 기대했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "갤럭시S8에 처음 적용된 빅스비는 우리나라를 비롯해 세계 200여개 국가에 진출했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 삼성전자는 한국어, 영어 이외에 지원 언어를 늘려야한다는 숙제를 안고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자는 정 부사장이 빅스비 개발 업무에 합류, 이 부사장과 시너지를 낼 수 있을 것으로 기대하고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 삼성전자는 18일 미국 샌프란시스코에서 열리는 삼성 개발자 콘퍼런스(SDC)에서 한층 업그레이드된 빅스비 2.0 버전을 소개할 예정이다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자 '빅스비' 서비스 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

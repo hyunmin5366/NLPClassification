@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_346917",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "내 레노버PC에도 악성 애드웨어? 지우려면…",
+		"newsSubTitle": "null",
+		"newsContent": "세계 1위 PC 제조사 레노버가 지난주 악성코드가 담긴 PC를 팔았다고 알려지면서 논란이 일었다.\n국내에도 레노버 PC 사용자가 적지 않아 관심사로 떠올랐고, 결국 레노버는 사과 발표를 했다.\n레노버가 PC 판매 전 임의로 설치한 것은 악성 애드웨어다.\n애드웨어는 사용자의 인터넷 사용 기록을 수집·분석해 이에 맞는 광고를 하는 프로그램이다.\n레노버 측은 고객의 쇼핑 경험을 개선하기 위한 목적이었다고 하지만 명백히 소비자 동의 없이 인터넷 이용 정보가 빠져나가도록 설치한 셈이다.\n일각에서는 레노버가 해당 SW를 사전 탑재하면서 금전적 이득도 챙겼다고 보고 있다.\n더 큰 문제는 레노버가 설치한 애드웨어 '슈퍼피시'가 보안이 취약하다고 보안전문가들이 경고해 왔다는 점이다.\n해당 프로그램이 탑재된 레노버 PC를 사용한 고객들은 이미 자신도 모르는 사이 온라인 결제, 이메일 계정 등 개인정보를 해커 손에 넘겨 줬을 가능성도 있다 보안업계에 따르면 슈퍼피시는 사용자에게 광고를 띄우기 위해 무단으로 노트북에 SSL 인증서 형태로 설치됐다.\nSSL은 인터넷에서 주고받는 데이터를 남들이 들여다볼 수 없게 보호하는 암호화하는 기술이다.\nSSL 통신을 할 때 슈퍼피시가 서버와 사용자 중간에 자신을 속이고 끼어들어, 광고를 내보내는 방식이다.\n해커가 슈퍼피시를 공격하면, 서버와 사용자간 주고받는 데이터를 모두 훔쳐볼 수 있게 되는 것. 만약 사용자가 은행 웹사이트에 접속해 SSL 통신으로 금융거래를 하면, 해커가 슈퍼피시를 악용해 거래 내용을 모두 볼 수 있게 된다.\n슈퍼피시가 가짜 SSL 인증서를 만들어 은행 웹사이트에 안전하다는 신호를 보내기 때문. 여론이 악화되면서 레노버는 공식 성명서를 통해 사과하고, 홈페이지를 통해 삭제 도구를 배포하고 있다.\n지난달부터는 슈퍼피시가 활성화되지 못하도록 서버 연결도 끊었다.\n레노버에 따르면 슈퍼피시가 심어진 PC는 지난해 9월부터 12월 사이에 출고된 노트북 일부로, 해당 기간 총 1600만대가 전세계적으로 팔려나간 것으로 알려졌다.\n한국인터넷진흥원(KISA)에 따르면 제어판-프로그램 제거를 통해 'Superfish Inc. Visual Discovery'를 제거하고, 인증서 관리 메뉴를 통해 'Superfish, Inc' 인증서를 찾아 삭제하고 시스템을 재부팅하면 슈퍼피시가 삭제된다.\n슈퍼피시 외에도 애드웨어 설치 방지르 위해서는 우선 공식 웹사이트로 SW를 다운로드 받는 것이 좋다.\n블로그 등 검증되지 않은 경로로 SW프로그램을 다운로드 받았을 때 애드웨어가 같이 설치되는 경우가 많아서다.\n보안 업체 백신 제품과 보안 패치를 항상 최신으로 유지하고, 액티브X를 무조건 허락하지 않도록 주의해야 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세계 1위 PC 제조사 레노버가 지난주 악성코드가 담긴 PC를 팔았다고 알려지면서 논란이 일었다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내에도 레노버 PC 사용자가 적지 않아 관심사로 떠올랐고, 결국 레노버는 사과 발표를 했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "레노버가 PC 판매 전 임의로 설치한 것은 악성 애드웨어다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "애드웨어는 사용자의 인터넷 사용 기록을 수집·분석해 이에 맞는 광고를 하는 프로그램이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "레노버 측은 고객의 쇼핑 경험을 개선하기 위한 목적이었다고 하지만 명백히 소비자 동의 없이 인터넷 이용 정보가 빠져나가도록 설치한 셈이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일각에서는 레노버가 해당 SW를 사전 탑재하면서 금전적 이득도 챙겼다고 보고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "더 큰 문제는 레노버가 설치한 애드웨어 '슈퍼피시'가 보안이 취약하다고 보안전문가들이 경고해 왔다는 점이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해당 프로그램이 탑재된 레노버 PC를 사용한 고객들은 이미 자신도 모르는 사이 온라인 결제, 이메일 계정 등 개인정보를 해커 손에 넘겨 줬을 가능성도 있다 보안업계에 따르면 슈퍼피시는 사용자에게 광고를 띄우기 위해 무단으로 노트북에 SSL 인증서 형태로 설치됐다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "SSL은 인터넷에서 주고받는 데이터를 남들이 들여다볼 수 없게 보호하는 암호화하는 기술이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "SSL 통신을 할 때 슈퍼피시가 서버와 사용자 중간에 자신을 속이고 끼어들어, 광고를 내보내는 방식이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "해커가 슈퍼피시를 공격하면, 서버와 사용자간 주고받는 데이터를 모두 훔쳐볼 수 있게 되는 것. 만약 사용자가 은행 웹사이트에 접속해 SSL 통신으로 금융거래를 하면, 해커가 슈퍼피시를 악용해 거래 내용을 모두 볼 수 있게 된다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "슈퍼피시가 가짜 SSL 인증서를 만들어 은행 웹사이트에 안전하다는 신호를 보내기 때문. 여론이 악화되면서 레노버는 공식 성명서를 통해 사과하고, 홈페이지를 통해 삭제 도구를 배포하고 있다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "지난달부터는 슈퍼피시가 활성화되지 못하도록 서버 연결도 끊었다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "레노버에 따르면 슈퍼피시가 심어진 PC는 지난해 9월부터 12월 사이에 출고된 노트북 일부로, 해당 기간 총 1600만대가 전세계적으로 팔려나간 것으로 알려졌다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "한국인터넷진흥원(KISA)에 따르면 제어판-프로그램 제거를 통해 'Superfish Inc. Visual Discovery'를 제거하고, 인증서 관리 메뉴를 통해 'Superfish, Inc' 인증서를 찾아 삭제하고 시스템을 재부팅하면 슈퍼피시가 삭제된다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "슈퍼피시 외에도 애드웨어 설치 방지르 위해서는 우선 공식 웹사이트로 SW를 다운로드 받는 것이 좋다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "블로그 등 검증되지 않은 경로로 SW프로그램을 다운로드 받았을 때 애드웨어가 같이 설치되는 경우가 많아서다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "보안 업체 백신 제품과 보안 패치를 항상 최신으로 유지하고, 액티브X를 무조건 허락하지 않도록 주의해야 한다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "내 레노버PC에도 악성 애드웨어? 지우려면…",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

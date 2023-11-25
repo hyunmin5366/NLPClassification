@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011700",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "LH, 하우스푸어 주택매입 돌입…85㎡ 이하 500가구 매입",
+		"newsSubTitle": "1가구 1주택 요건 갖춰야",
+		"newsContent": "LH가 대출 원리금 상환을 하지 못하는 하우스푸어를 위해 이들 주택에 대한 매입에 나선다.\n한국토지주택공사(LH)는 24~28일 수도권을 비롯해 5대 광역시, 인구 10만명 이상 지방의 시·군지역 소재 전용면적 85㎡ 이하(공시가격 9억원 이하)인 아파트(300가구 이상 단지) 가운데 500가구를 매입한다.\n공고일 이전부터 매입대상 주택을 소유한 상태에서 주택 취득일까지 1가구 1주택 요건을 갖춰야만 매입대상이 된다.\n또 LTV(담보인정비율)가 높은 경우 또는 다중채무자 역시 집값이 대출금을 웃도는 상황이라면 신청할 수가 있다.\n반면, 개발예정지역에 있거나 노후도가 심각한 주택은 매입대상에서 제외된다.\n매도를 원할 경우, 매도희망가격이 감정가격보다 높으면 감정가격으로 매입이 결정된다.\n감정가격과 비교해 매도희망가격 비율이 같게 되면 전세가율이 높은 순 등으로 주택을 우선적으로 매입한다.\n매매대금은 계약체결과 소유권 이전등기(소유권 외 기타권리 말소 포함)가 마무리 된 뒤에 지급된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LH가 대출 원리금 상환을 하지 못하는 하우스푸어를 위해 이들 주택에 대한 매입에 나선다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국토지주택공사(LH)는 24~28일 수도권을 비롯해 5대 광역시, 인구 10만명 이상 지방의 시·군지역 소재 전용면적 85㎡ 이하(공시가격 9억원 이하)인 아파트(300가구 이상 단지) 가운데 500가구를 매입한다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공고일 이전부터 매입대상 주택을 소유한 상태에서 주택 취득일까지 1가구 1주택 요건을 갖춰야만 매입대상이 된다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 LTV(담보인정비율)가 높은 경우 또는 다중채무자 역시 집값이 대출금을 웃도는 상황이라면 신청할 수가 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "반면, 개발예정지역에 있거나 노후도가 심각한 주택은 매입대상에서 제외된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "매도를 원할 경우, 매도희망가격이 감정가격보다 높으면 감정가격으로 매입이 결정된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "감정가격과 비교해 매도희망가격 비율이 같게 되면 전세가율이 높은 순 등으로 주택을 우선적으로 매입한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "매매대금은 계약체결과 소유권 이전등기(소유권 외 기타권리 말소 포함)가 마무리 된 뒤에 지급된다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“바이오 중심 융합연구 선도할 것”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

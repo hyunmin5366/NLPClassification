@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006082",
+		"newsCategory": "경제",
+		"newsSubcategory": "IT·통신",
+		"newsTitle": "\\\"소상공인 보안에 활용\\\" LGU+, 해킹 차단 지능형CCTV 개발",
+		"newsSubTitle": "CCTV와 서버 간 VPN에 물리적 복제 방지 기술 적용 보안솔루션 업체 ICTK 홀딩스와 개발...10월 실증 완료",
+		"newsContent": "LG유플러스가 사물인터넷(IoT) 보안 전문업체 ICTK 홀딩스와 소상공인 대상 지능형 CCTV 보안을 강화할 수 있는 기술을 개발했다.\n23일 LG유플러스는 물리적 복지 방지(PUF) VPN 기술을 개발했다고 밝혔다.\nPUF 기술은 반도체 생산 과정에서 발생하는 미세한 간극을 이용해 암호키를 생성하고 활용하는 것이 특징이다.\nVPN은 데이터를 주고받는 각 개체와 서버 간 인터넷 통신 구간에 가상 터널을 구축해 사설망과 같이 안전하게 통신을 이용할 수 있는 기술이다.\nLG유플러스 관계자는 데일리임팩트에 \\\"칩의 간극은 나노단위로 발생하며, 불규칙하게 생성된다\\\"라며 \\\"사람의 지문이 각기 다른 고유성을 지녀 생체 보안키로 활용할 수 있는 것처럼, 간극 역시 이러한 특성 때문에 보안키로 사용할 수 있다\\\"라고 설명했다.\n이번에 LG유플러스와 ICTK 홀딩스가 개발한 PUF VPN은 CCTV와 서버 사이 VPN에 PUF 기술을 적용해 외부인이 CCTV와 서버를 해킹할 수 없도록 여러 단계의 보안 인증 과정을 거친다.\n또 PUF에 기존 VPN보다 더 빠르고 보안이 강화된 '와이어가드 VPN'을 결합했다.\n실제 PUF VPN을 CCTV에 적용해 시험한 결과 기존 대비 속도가 약 20% 이상 개선됐다.\nLG유플러스는 오는 10월 PUF VPN 기술을 지능형CCTV에 적용해 실증을 완료할 예정이다.\n이후 서울 상암동에 위치한 LG유플러스 인터넷데이터센터(IDC)에 총 10만대의 카메라를 수용할 수 있는 서버 등 장비 인프라를 구축해 상용화하고 지속적으로 수용 규모를 늘릴 계획이다.\n전영서 LG유플러스 기업서비스개발 랩장(담당)은 \\\"향후 CCTV 뿐만 아니라 자사 다른 서비스에도 PUF VPN을 적용할 예정이며, 연내 양자 내성 암호를 적용한 VPN 보안 기술을 확보해 고객이 서비스를 믿고 사용할 수 있도록 지속 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스가 사물인터넷(IoT) 보안 전문업체 ICTK 홀딩스와 소상공인 대상 지능형 CCTV 보안을 강화할 수 있는 기술을 개발했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 LG유플러스는 물리적 복지 방지(PUF) VPN 기술을 개발했다고 밝혔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "PUF 기술은 반도체 생산 과정에서 발생하는 미세한 간극을 이용해 암호키를 생성하고 활용하는 것이 특징이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "VPN은 데이터를 주고받는 각 개체와 서버 간 인터넷 통신 구간에 가상 터널을 구축해 사설망과 같이 안전하게 통신을 이용할 수 있는 기술이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG유플러스 관계자는 데일리임팩트에 \\\"칩의 간극은 나노단위로 발생하며, 불규칙하게 생성된다\\\"라며 \\\"사람의 지문이 각기 다른 고유성을 지녀 생체 보안키로 활용할 수 있는 것처럼, 간극 역시 이러한 특성 때문에 보안키로 사용할 수 있다\\\"라고 설명했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번에 LG유플러스와 ICTK 홀딩스가 개발한 PUF VPN은 CCTV와 서버 사이 VPN에 PUF 기술을 적용해 외부인이 CCTV와 서버를 해킹할 수 없도록 여러 단계의 보안 인증 과정을 거친다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 PUF에 기존 VPN보다 더 빠르고 보안이 강화된 '와이어가드 VPN'을 결합했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "실제 PUF VPN을 CCTV에 적용해 시험한 결과 기존 대비 속도가 약 20% 이상 개선됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "LG유플러스는 오는 10월 PUF VPN 기술을 지능형CCTV에 적용해 실증을 완료할 예정이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이후 서울 상암동에 위치한 LG유플러스 인터넷데이터센터(IDC)에 총 10만대의 카메라를 수용할 수 있는 서버 등 장비 인프라를 구축해 상용화하고 지속적으로 수용 규모를 늘릴 계획이다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "전영서 LG유플러스 기업서비스개발 랩장(담당)은 \\\"향후 CCTV 뿐만 아니라 자사 다른 서비스에도 PUF VPN을 적용할 예정이며, 연내 양자 내성 암호를 적용한 VPN 보안 기술을 확보해 고객이 서비스를 믿고 사용할 수 있도록 지속 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 145
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LH, 행복도시 치열한 수주경쟁 예고",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

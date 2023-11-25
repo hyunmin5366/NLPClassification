@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324638",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "티맥스소프트, 웹서버 제품 '웹투비 5' GS인증 획득",
+		"newsSubTitle": "",
+		"newsContent": "티맥스소프트(대표 노학명)는 웹서버 제품 '웹투비 5'가 한국정보통신기술협회(TTA) 소프트웨어 시험인증연구소로부터 굿소프트웨어(GS)인증을 받았다고 17일 밝혔다.\n웹투비는 클라이언트 요청을 받아 처리하고 결과를 보여주는 창구 역할을 한다.\n서버 한 대가 수용 가능한 사용자 수를 늘려 갑자기 트래픽이 증가해도 서버 컴퓨터 추가 증설이 필요 없다.\n티맥스소프트는 지난해 웹투비 5를 출시해 이전 버전 대비 20% 가량 성능을 향상시켰다.\n멀티스레드(Multi-Thread) 기반 고성능 아키텍처를 구현해 동시에 처리 가능한 최대 사용자 수를 늘렸다.\n티맥스소프트는 웹투비 5 GS인증 획득을 계기로 웹투비 제품 경쟁력을 키워 시장에서 입지를 다질 계획이다.\n노학명 티맥스소프트 사장은 “GS인증을 통해 웹투비 공공기관 대상 영업이 강화될 것”이라면서 “미들웨어 '제우스'와 함께 차별화된 기술경쟁력을 바탕으로 관련 시장을 주도하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "티맥스소프트(대표 노학명)는 웹서버 제품 '웹투비 5'가 한국정보통신기술협회(TTA) 소프트웨어 시험인증연구소로부터 굿소프트웨어(GS)인증을 받았다고 17일 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "웹투비는 클라이언트 요청을 받아 처리하고 결과를 보여주는 창구 역할을 한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서버 한 대가 수용 가능한 사용자 수를 늘려 갑자기 트래픽이 증가해도 서버 컴퓨터 추가 증설이 필요 없다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "티맥스소프트는 지난해 웹투비 5를 출시해 이전 버전 대비 20% 가량 성능을 향상시켰다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "멀티스레드(Multi-Thread) 기반 고성능 아키텍처를 구현해 동시에 처리 가능한 최대 사용자 수를 늘렸다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "티맥스소프트는 웹투비 5 GS인증 획득을 계기로 웹투비 제품 경쟁력을 키워 시장에서 입지를 다질 계획이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "노학명 티맥스소프트 사장은 “GS인증을 통해 웹투비 공공기관 대상 영업이 강화될 것”이라면서 “미들웨어 '제우스'와 함께 차별화된 기술경쟁력을 바탕으로 관련 시장을 주도하겠다”고 말했다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "티맥스소프트, 웹서버 제품 '웹투비 5' GS인증 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

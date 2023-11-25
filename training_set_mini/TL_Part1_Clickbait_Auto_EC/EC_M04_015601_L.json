@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015601",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "보조배터리 SHB1407, 무상교환 받으세요",
+		"newsSubTitle": "LG유플러스 사은품, 안전신고 안 해 소비자원 적발",
+		"newsContent": "LG유플러스 직영대리점에서 사은품으로 제공된 보조배터리가 안전신고 없이 판매된 것으로 나타났다.\n15일 소비자원에 따르면 LG유플러스 직영대리점에서 사은품으로 유통된 보조배터리 모델 SHB1407이 충전 중 열에 의한 변형이 이뤄졌다는 사례를 소비자위해감시시스템(CISS)를 통해 접수받고 시중에 판매 중인 동일한 모델 7개를 조사한 결과 6개는 에너지밀도가 400Wh/L 초과했음에도 안전신고 없이 판매됐다.\n충전지의 경우 전기용품안전관리법에 따라 안전확인대상전기용품으로 분류돼 사전 안전확인 신고가 의무화 돼 있지만 이를 지키지 않은 것이다.\n이 보조배터리는 국내 수입·유통업체인 스마트한과 LG유플러스를 통해 지난해 3월부터 8700여 개를 판매했다.\n이에 소비자원은 스마트한과 LG유플러스에 조치를 요구했으며 업체들은 환급 또는 안전신고 한 제품으로 무상 교환해 주기로 했다.\n소비자원은 해당 모델을 구입한 소비자에게 스마트한(070-4651-2733) 또는 LG유플러스 고객상담실(1544-1000)로 연락해 조치를 받아야 한다고 당부했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스 직영대리점에서 사은품으로 제공된 보조배터리가 안전신고 없이 판매된 것으로 나타났다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 소비자원에 따르면 LG유플러스 직영대리점에서 사은품으로 유통된 보조배터리 모델 SHB1407이 충전 중 열에 의한 변형이 이뤄졌다는 사례를 소비자위해감시시스템(CISS)를 통해 접수받고 시중에 판매 중인 동일한 모델 7개를 조사한 결과 6개는 에너지밀도가 400Wh/L 초과했음에도 안전신고 없이 판매됐다.",
+				"sentenceSize": 175
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "충전지의 경우 전기용품안전관리법에 따라 안전확인대상전기용품으로 분류돼 사전 안전확인 신고가 의무화 돼 있지만 이를 지키지 않은 것이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 보조배터리는 국내 수입·유통업체인 스마트한과 LG유플러스를 통해 지난해 3월부터 8700여 개를 판매했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 소비자원은 스마트한과 LG유플러스에 조치를 요구했으며 업체들은 환급 또는 안전신고 한 제품으로 무상 교환해 주기로 했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소비자원은 해당 모델을 구입한 소비자에게 스마트한(070-4651-2733) 또는 LG유플러스 고객상담실(1544-1000)로 연락해 조치를 받아야 한다고 당부했다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이마트, ‘다카노 낫또’ 유통업계 최초로 선봬",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

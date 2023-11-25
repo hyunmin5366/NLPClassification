@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352480",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "서울대 국제농업기술대학원생들, 한컴 메타버스에서 공부한다",
+		"newsSubTitle": "null",
+		"newsContent": "한글과컴퓨터 그룹 계열사인 한컴프론티스가 서울대와 메타버스(3차원 확장가상세계) 기반 교육 플랫폼을 공동 구축한다고 13일 밝혔다.\n한컴프론티스는 서울대와 이날 경기 성남 분당구 한컴타원에서 서울대 국제농업기술대학원과 메타버스와 IT(정보기술)를 활용한 교육 플랫폼을 공동 구축하는 업무협약을 체결했다고 밝혔다.\n한컴프론티스는 자체 개발한 메타버스 가상회의 플랫폼 'XR판도라'을 서울대 강의 콘텐츠·평가 시스템에 적용한다.\n이를 통해 가상 공간에서 비대면으로 교육할 수 있는 플랫폼을 구축한다.\nXR판도라는 2만여개 딥러닝 솔루션을 활용해 자신만의 아바타를 생성하는 기능을 제공한다.\n또 강력한 보안 시스템을 적용해 한컴오피스를 활용한 문서 작업과 강의, 토론을 할 수 있도록 지원한다.\n서울대는 자대 국제농업기술대학원의 글로벌 교육을 한컴프론티스와 구축한 가상교육 플랫폼에서 수행한다.\n이 플랫폼을 그린바이오 과학 기술을 전세계에 확산하는 채널로도 활용할 계획이다.\n정현석 한컴프론티스 대표는 \\\"시공간의 한계를 넘어선 메타버스는 비대면 시대의 교육을 가장 효과적으로 전파할 수 있는 플랫폼이 될 것\\\"이라며 \\\"이번 협약을 통해서 미래 교육플랫폼의 방향성과 필요 기술 등에 대해 서울대와 함께 고민하고 협력해 나가겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한글과컴퓨터 그룹 계열사인 한컴프론티스가 서울대와 메타버스(3차원 확장가상세계) 기반 교육 플랫폼을 공동 구축한다고 13일 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한컴프론티스는 서울대와 이날 경기 성남 분당구 한컴타원에서 서울대 국제농업기술대학원과 메타버스와 IT(정보기술)를 활용한 교육 플랫폼을 공동 구축하는 업무협약을 체결했다고 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한컴프론티스는 자체 개발한 메타버스 가상회의 플랫폼 'XR판도라'을 서울대 강의 콘텐츠·평가 시스템에 적용한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 통해 가상 공간에서 비대면으로 교육할 수 있는 플랫폼을 구축한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "XR판도라는 2만여개 딥러닝 솔루션을 활용해 자신만의 아바타를 생성하는 기능을 제공한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 강력한 보안 시스템을 적용해 한컴오피스를 활용한 문서 작업과 강의, 토론을 할 수 있도록 지원한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서울대는 자대 국제농업기술대학원의 글로벌 교육을 한컴프론티스와 구축한 가상교육 플랫폼에서 수행한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 플랫폼을 그린바이오 과학 기술을 전세계에 확산하는 채널로도 활용할 계획이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "정현석 한컴프론티스 대표는 \\\"시공간의 한계를 넘어선 메타버스는 비대면 시대의 교육을 가장 효과적으로 전파할 수 있는 플랫폼이 될 것\\\"이라며 \\\"이번 협약을 통해서 미래 교육플랫폼의 방향성과 필요 기술 등에 대해 서울대와 함께 고민하고 협력해 나가겠다\\\"고 말했다.",
+				"sentenceSize": 149
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서울대 국제농업기술대학원생들, 한컴 메타버스에서 공부한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

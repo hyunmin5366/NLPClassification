@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325161",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "'코로나19 확진자 데이터 분석' 클라우드 플랫폼으로",
+		"newsSubTitle": "",
+		"newsContent": "정부가 코로나19 중증도 예측과 치료법 개발을 위한 확진자 데이터 정보 분석시스템을 올 3분기에 가동한다.\n데이터 플랫폼을 클라우드 기반으로 구축, 정보기술(IT) 차원에서 유연하고 신속한 대응 체계를 마련한다.\n질병관리청 산하 국립보건연구원은 '코로나19 확진자 멀티오믹스 정보분석시스템' 개발에 착수했다고 20일 밝혔다.\n코로나19 확진자의 시점별 멀티오믹스(유전체정보 등) 데이터를 연구하면 코로나19를 치료하는 면역세포 특성을 정밀 분석할 수 있다.\n이를 기반으로 심층 연구를 비롯해 치료제 등 개발 속도와 정확도를 높인다.\n보건연이 추진하는 정보분석시스템은 대용량 멀티오믹스 데이터를 연구자가 직접 분석하는 환경을 제공한다.\n확진자 멀티오믹스 정보는 데이터 심의 등을 거쳐 연구 목적에 적합한 데이터만 승인된다.\n연구진도 별도의 보안 절차 등을 거쳐 승인된 연구자만 사용할 수 있다.\n보건연 관계자는 “국가 주도로 신뢰도 높고 안정된 분석 환경을 제공할 것”이라면서 “보안을 위해 오프라인형 네트워크를 통해 안전한 연구가 가능하도록 지원할 방침”이라고 말했다.\n코로나19 확진자 멀티오믹스 데이터는 테라바이트(약 1000기가바이트)급 이상 대용량이다.\n데이터를 처리하는 스토리지 규모는 페타(약 1000테라바이트)급 이상이다.\n승인된 연구진이 데이터를 할당받아 연구에 활용하기 위해서는 안정적 시스템 제공이 필수다.\n연구자마다 원하는 데이터 용량, 처리 지원 시스템 규모가 다르다.\n연구자별로 원하는 데이터와 연구 기반 시스템을 각기 할당해야 한다.\n연구원은 이를 위해 클라우드 기반의 서비스형플랫폼(PaaS)을 도입할 계획이다.\n최근 클라우드 플랫폼 구축 사업자로 나무기술을 선정했다.\n나무기술은 사업에 자사의 '칵테일 클라우드'와 컨테이너 오케스트레이션 기술을 제공한다.\n컨테이너 방식으로 인프라 환경을 지원, 연구진마다 맞춤형 연구 환경을 제공한다.\n컨테이너 자동 관리 기능을 통해 시스템 운영의 효율성을 높인다.\n보건연 관계자는 “연구를 하다 보면 분석에 필요한 데이터를 추가하거나 중간 연구 결과를 저장하는 등 연구 환경 시스템 규모가 바뀔 수 있다”면서 “PaaS를 통해 승인된 연구자가 안정된 연구를 유연하게 수행할 수 있는 환경을 마련할 계획”이라고 설명했다.\n이 관계자는 “데이터뿐만 아니라 하드웨어(HW) 등 정보기술(IT) 인프라까지 승인된 연구진에게 한 번에 제공되는 시스템”이라면서 “올 하반기 가동 이후 치료제 개발 등 코로나19 대응에 필요한 다양한 연구가 활발하게 진행될 것”이라며 기대감을 내비쳤다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부가 코로나19 중증도 예측과 치료법 개발을 위한 확진자 데이터 정보 분석시스템을 올 3분기에 가동한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "데이터 플랫폼을 클라우드 기반으로 구축, 정보기술(IT) 차원에서 유연하고 신속한 대응 체계를 마련한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "질병관리청 산하 국립보건연구원은 '코로나19 확진자 멀티오믹스 정보분석시스템' 개발에 착수했다고 20일 밝혔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코로나19 확진자의 시점별 멀티오믹스(유전체정보 등) 데이터를 연구하면 코로나19를 치료하는 면역세포 특성을 정밀 분석할 수 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 기반으로 심층 연구를 비롯해 치료제 등 개발 속도와 정확도를 높인다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보건연이 추진하는 정보분석시스템은 대용량 멀티오믹스 데이터를 연구자가 직접 분석하는 환경을 제공한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "확진자 멀티오믹스 정보는 데이터 심의 등을 거쳐 연구 목적에 적합한 데이터만 승인된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구진도 별도의 보안 절차 등을 거쳐 승인된 연구자만 사용할 수 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "보건연 관계자는 “국가 주도로 신뢰도 높고 안정된 분석 환경을 제공할 것”이라면서 “보안을 위해 오프라인형 네트워크를 통해 안전한 연구가 가능하도록 지원할 방침”이라고 말했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "코로나19 확진자 멀티오믹스 데이터는 테라바이트(약 1000기가바이트)급 이상 대용량이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "데이터를 처리하는 스토리지 규모는 페타(약 1000테라바이트)급 이상이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "승인된 연구진이 데이터를 할당받아 연구에 활용하기 위해서는 안정적 시스템 제공이 필수다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "연구자마다 원하는 데이터 용량, 처리 지원 시스템 규모가 다르다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "연구자별로 원하는 데이터와 연구 기반 시스템을 각기 할당해야 한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "연구원은 이를 위해 클라우드 기반의 서비스형플랫폼(PaaS)을 도입할 계획이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "최근 클라우드 플랫폼 구축 사업자로 나무기술을 선정했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "나무기술은 사업에 자사의 '칵테일 클라우드'와 컨테이너 오케스트레이션 기술을 제공한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "컨테이너 방식으로 인프라 환경을 지원, 연구진마다 맞춤형 연구 환경을 제공한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "컨테이너 자동 관리 기능을 통해 시스템 운영의 효율성을 높인다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "보건연 관계자는 “연구를 하다 보면 분석에 필요한 데이터를 추가하거나 중간 연구 결과를 저장하는 등 연구 환경 시스템 규모가 바뀔 수 있다”면서 “PaaS를 통해 승인된 연구자가 안정된 연구를 유연하게 수행할 수 있는 환경을 마련할 계획”이라고 설명했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이 관계자는 “데이터뿐만 아니라 하드웨어(HW) 등 정보기술(IT) 인프라까지 승인된 연구진에게 한 번에 제공되는 시스템”이라면서 “올 하반기 가동 이후 치료제 개발 등 코로나19 대응에 필요한 다양한 연구가 활발하게 진행될 것”이라며 기대감을 내비쳤다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'코로나19 확진자 데이터 분석' 클라우드 플랫폼으로",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

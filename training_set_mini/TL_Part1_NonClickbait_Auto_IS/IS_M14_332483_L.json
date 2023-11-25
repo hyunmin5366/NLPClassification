@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332483",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "한컴MDS, 반도체·철강 대기업에 빅데이터 플랫폼 공급",
+		"newsSubTitle": "",
+		"newsContent": "한컴MDS가 데이터사이언티스트·머신러닝 플랫폼 '다타이쿠(Dataiku)'를 국내 전자·반도체·철강 대기업 세 곳에 공급했다.\n한컴MDS는 지난해 다타이쿠 사업권을 확보한 뒤 첫 레퍼런스로 국내 대기업 세 곳을 확보했다.\n다타이쿠는 인공지능(AI) 빅데이터 정제 기술 기반 통합 데이터 엔지니어링 플랫폼이다.\n원시 데이터에 대한 정제작업과 효율적인 빅데이터 프로젝트를 위한 올인원 서비스를 지원한다.\n빅데이터 분석 업무는 데이터 사이언티스트, 데이터 엔지니어, 데이터 분석가 등 다양한 구성원이 각각 다른 종류 전문 솔루션을 사용한다.\n프로젝트 수행·관리에 있어 협업과 공유가 어려웠다.\n한컴MDS는 다타이쿠로 문제를 해결한다.\n빅데이터 분석 프로젝트 데이터 전처리, 분석, 시각화, 통계와 머신러닝까지 모든 업무를 하나 공통된 도구로 수행한다.\n프로젝트 수행 과정을 전체적으로 투명하게 공유하고 관리해 조직 전체 데이터 분석 역량을 높인다.\n기존 작업도 쉽게 재활용할 수 있어 데이터 대량 보유 기업은 활용도가 높다.\n생산성 강화 측면에서 특히 유리하다는 게 한컴MDS측 설명이다.\n실제 다타이쿠를 도입한 국내 반도체 대기업 A사는 빅데이터 분석 업무량의 80%를 차지하던 데이터 전처리 업무를 크게 줄였다.\nA사는 여러 데이터 보관소에 개별 저장돼 있는 데이터를 각각 분석하는 전처리 업무를 줄이기 위해 다타이쿠를 채택했다.\n철강 대기업 B사는 생산 라인에서 사람이 직접 검수하던 품질 검증을 머신러닝 알고리즘을 적용, 품질 예측 모델을 구축했다.\n기존 사용하던 알(R)과 파이선(Python) 코드 대부분을 그대로 사용하면서 인건비를 절감하고 업무 수행시간도 단축했다.\n실시간 빅데이터 플랫폼 스플렁크 국내 사업권도 확보하고 있는 한컴MDS는 다타이쿠 대기업 레퍼런스를 바탕으로 국내 사업을 확대, 빅데이터 시장에서 경쟁력을 강화한다.\n한컴MDS 관계자는 “데이터를 수집·분석·예측해 업무 효율성을 높이는 게 기업 경쟁력이 되는 시대”라면서 “빅데이터와 머신러닝 기술을 결합해 데이터 변화에 따른 신속한 대응과 합리적 의사결정이 필요한 고객에게 차별화된 서비스를 제공하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한컴MDS가 데이터사이언티스트·머신러닝 플랫폼 '다타이쿠(Dataiku)'를 국내 전자·반도체·철강 대기업 세 곳에 공급했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한컴MDS는 지난해 다타이쿠 사업권을 확보한 뒤 첫 레퍼런스로 국내 대기업 세 곳을 확보했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다타이쿠는 인공지능(AI) 빅데이터 정제 기술 기반 통합 데이터 엔지니어링 플랫폼이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "원시 데이터에 대한 정제작업과 효율적인 빅데이터 프로젝트를 위한 올인원 서비스를 지원한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "빅데이터 분석 업무는 데이터 사이언티스트, 데이터 엔지니어, 데이터 분석가 등 다양한 구성원이 각각 다른 종류 전문 솔루션을 사용한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "프로젝트 수행·관리에 있어 협업과 공유가 어려웠다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한컴MDS는 다타이쿠로 문제를 해결한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "빅데이터 분석 프로젝트 데이터 전처리, 분석, 시각화, 통계와 머신러닝까지 모든 업무를 하나 공통된 도구로 수행한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "프로젝트 수행 과정을 전체적으로 투명하게 공유하고 관리해 조직 전체 데이터 분석 역량을 높인다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "기존 작업도 쉽게 재활용할 수 있어 데이터 대량 보유 기업은 활용도가 높다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "생산성 강화 측면에서 특히 유리하다는 게 한컴MDS측 설명이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "실제 다타이쿠를 도입한 국내 반도체 대기업 A사는 빅데이터 분석 업무량의 80%를 차지하던 데이터 전처리 업무를 크게 줄였다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "A사는 여러 데이터 보관소에 개별 저장돼 있는 데이터를 각각 분석하는 전처리 업무를 줄이기 위해 다타이쿠를 채택했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "철강 대기업 B사는 생산 라인에서 사람이 직접 검수하던 품질 검증을 머신러닝 알고리즘을 적용, 품질 예측 모델을 구축했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "기존 사용하던 알(R)과 파이선(Python) 코드 대부분을 그대로 사용하면서 인건비를 절감하고 업무 수행시간도 단축했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "실시간 빅데이터 플랫폼 스플렁크 국내 사업권도 확보하고 있는 한컴MDS는 다타이쿠 대기업 레퍼런스를 바탕으로 국내 사업을 확대, 빅데이터 시장에서 경쟁력을 강화한다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "한컴MDS 관계자는 “데이터를 수집·분석·예측해 업무 효율성을 높이는 게 기업 경쟁력이 되는 시대”라면서 “빅데이터와 머신러닝 기술을 결합해 데이터 변화에 따른 신속한 대응과 합리적 의사결정이 필요한 고객에게 차별화된 서비스를 제공하겠다”고 말했다.",
+				"sentenceSize": 139
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한컴MDS, 반도체·철강 대기업에 빅데이터 플랫폼 공급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

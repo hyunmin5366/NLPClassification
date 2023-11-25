@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328926",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "“반도체 설계 검증 툴 시장서 1위 지위 공고히”",
+		"newsSubTitle": "",
+		"newsContent": "“세계적 반도체 제조업체가 케이던스 툴을 활용해 칩 설계에 임하고 있습니다. 일부 검증 툴 분야에선 케이던스가 독보적 지위를 점하고 있습니다. 연구개발(R&D)에 보다 집중해 이 같은 지위를 더욱 공고히 하겠습니다.” 폴 쿠닝햄 케이던스 디지털 디자인 도구 R&D 부사장은 전자신문과 가진 인터뷰에서 이같이 밝혔다.\n케이던스는 세계 톱 수준의 반도체설계자동화툴(EDA:Electronic Design Automation)업체다.\n이날 쿠닝햄 부사장은 새로운 검증 툴인 컴포멀 스마트 LEC(Logic Equivalence Checker)를 발표했다.\n반도체 설계 과정은 하드웨어 기능을 구현(HDL:Hardware Description Language)하기 위한 RTL(Resister Transfer Level) 코딩, 합성(Synthesis) 툴을 통한 게이트(Gate) 디자인 도출, 검증, 셀 배치(Placement)와 연결(Routing), 전체 디자인 검증, 마스크 제작으로 나뉜다.\n케이던스 컴포멀 스마트 LEC는 RTL 코딩에서 합성툴로 게이트 디자인을 도출했을 때 문제가 없는지 검증해주는 툴이다.\n기존 LEC에서 크게 바뀐 점은 바로 병렬 아키텍처를 도입, 최대 100개 CPU를 지원한다.\n이를 통해 검증속도가 평균 4배 높아졌다.\n쿠닝햄 부사장은 “칩 집적도가 높아지면서 검증에도 많은 시간이 걸리는데, 컴포멀 스마트 LEC로 전체적인 칩 디자인에 걸리는 시간을 크게 단축할 수 있게 됐다”고 설명했다.\n그는 “일부 고객사는 케이던스의 새로운 LEC를 이용해 전력소모량(Power), 성능(Performance), 면적(Area)을 의미하는 PPA 목표치를 초과 달성했다”면서 “새로운 툴이 케이던스의 관련 시장 점유율을 보다 높여줄 것”으로 기대했다.\n그에 따르면 LEC가 포함되는 반도체 검증 툴 시장에서 케이던스 점유율은 55%로 과반 이상을 차지한다.\n쿠닝햄 부사장은 반도체 설계 분야에서도 인공지능(AI) 기술이 접목될 수 있다면서 관련 분야 R&D를 계속해 나갈 것이라고 밝혔다.\n그는 “사람이 기능을 정의해주면 반복적이고 단순한 설계 작업은 AI가 처리해주는 시대가 조만간 열릴 것으로 본다”면서 “케이던스 같은 전문 설계 툴 업체가 이 같은 혁신을 이끌 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "“세계적 반도체 제조업체가 케이던스 툴을 활용해 칩 설계에 임하고 있습니다. 일부 검증 툴 분야에선 케이던스가 독보적 지위를 점하고 있습니다. 연구개발(R&D)에 보다 집중해 이 같은 지위를 더욱 공고히 하겠습니다.” 폴 쿠닝햄 케이던스 디지털 디자인 도구 R&D 부사장은 전자신문과 가진 인터뷰에서 이같이 밝혔다.",
+				"sentenceSize": 176
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "케이던스는 세계 톱 수준의 반도체설계자동화툴(EDA:Electronic Design Automation)업체다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 쿠닝햄 부사장은 새로운 검증 툴인 컴포멀 스마트 LEC(Logic Equivalence Checker)를 발표했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반도체 설계 과정은 하드웨어 기능을 구현(HDL:Hardware Description Language)하기 위한 RTL(Resister Transfer Level) 코딩, 합성(Synthesis) 툴을 통한 게이트(Gate) 디자인 도출, 검증, 셀 배치(Placement)와 연결(Routing), 전체 디자인 검증, 마스크 제작으로 나뉜다.",
+				"sentenceSize": 192
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "케이던스 컴포멀 스마트 LEC는 RTL 코딩에서 합성툴로 게이트 디자인을 도출했을 때 문제가 없는지 검증해주는 툴이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기존 LEC에서 크게 바뀐 점은 바로 병렬 아키텍처를 도입, 최대 100개 CPU를 지원한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 통해 검증속도가 평균 4배 높아졌다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "쿠닝햄 부사장은 “칩 집적도가 높아지면서 검증에도 많은 시간이 걸리는데, 컴포멀 스마트 LEC로 전체적인 칩 디자인에 걸리는 시간을 크게 단축할 수 있게 됐다”고 설명했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그는 “일부 고객사는 케이던스의 새로운 LEC를 이용해 전력소모량(Power), 성능(Performance), 면적(Area)을 의미하는 PPA 목표치를 초과 달성했다”면서 “새로운 툴이 케이던스의 관련 시장 점유율을 보다 높여줄 것”으로 기대했다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그에 따르면 LEC가 포함되는 반도체 검증 툴 시장에서 케이던스 점유율은 55%로 과반 이상을 차지한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "쿠닝햄 부사장은 반도체 설계 분야에서도 인공지능(AI) 기술이 접목될 수 있다면서 관련 분야 R&D를 계속해 나갈 것이라고 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "그는 “사람이 기능을 정의해주면 반복적이고 단순한 설계 작업은 AI가 처리해주는 시대가 조만간 열릴 것으로 본다”면서 “케이던스 같은 전문 설계 툴 업체가 이 같은 혁신을 이끌 것”이라고 말했다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“반도체 설계 검증 툴 시장서 1위 지위 공고히”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

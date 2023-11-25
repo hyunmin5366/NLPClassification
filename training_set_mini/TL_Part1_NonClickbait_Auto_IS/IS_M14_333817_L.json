@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333817",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[2017 SAP 사파이어나우]SAP, '머신러닝' 인력 두 배 늘린다",
+		"newsSubTitle": "",
+		"newsContent": "SAP가 머신러닝 전문인력을 지금보다 두 배 가량 많은 300명까지 늘린다.\n머신러닝 서비스 개발뿐 아니라 내부 교육과 협업관계 구축을 병행한다.\n마커스 노가 SAP 머신러닝 부문 총괄은 17일(현지시간) 미국 올랜도에서 열린 '사파이어 나우' 인터뷰에서 \\\"현재 머신러닝 전문인력이 160여명\\\"이라면서 \\\"연내 300여명까지 늘릴 것\\\"이라고 말했다.\n이어 \\\"머신러닝 인력은 단순 제품, 서비스 개발뿐 아니라 내부 교육과 타부서와 협력 등 다양한 역할을 맡는다\\\"면서 \\\"SAP가 많은 인수합병으로 새로운 시장에 진입하고 성장했듯이 머신러닝 분야도 필요하다면 추후에 인수합병이 진행될 것\\\"이라고 덧붙였다.\nSAP는 머신러닝을 포함해 빅데이터, 블록체인, 사물인터넷(IoT)을 아우르는 'SAP 레오나르도'를 발표했다.\n내년까지 머신러닝 애플리케이션 50여개를 개발해 레오나르도 제품군을 보강한다.\n노가 총괄은 \\\"세계 데이터 트랜잭션의 76%가 SAP를 거친다\\\"면서 \\\"SAP는 머신러닝이 일종의 마케팅 용어로 사용되기 전부터 머신러닝 기술을 보유했고 활용했다\\\"고 말했다.\n이어 \\\"어디에 머신러닝이 필요한지, SAP 데이터 자산을 어떻게 활용할지 알고있다\\\"면서 머신러닝 경쟁력을 이미 확보했다고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SAP가 머신러닝 전문인력을 지금보다 두 배 가량 많은 300명까지 늘린다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "머신러닝 서비스 개발뿐 아니라 내부 교육과 협업관계 구축을 병행한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마커스 노가 SAP 머신러닝 부문 총괄은 17일(현지시간) 미국 올랜도에서 열린 '사파이어 나우' 인터뷰에서 \\\"현재 머신러닝 전문인력이 160여명\\\"이라면서 \\\"연내 300여명까지 늘릴 것\\\"이라고 말했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 \\\"머신러닝 인력은 단순 제품, 서비스 개발뿐 아니라 내부 교육과 타부서와 협력 등 다양한 역할을 맡는다\\\"면서 \\\"SAP가 많은 인수합병으로 새로운 시장에 진입하고 성장했듯이 머신러닝 분야도 필요하다면 추후에 인수합병이 진행될 것\\\"이라고 덧붙였다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SAP는 머신러닝을 포함해 빅데이터, 블록체인, 사물인터넷(IoT)을 아우르는 'SAP 레오나르도'를 발표했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "내년까지 머신러닝 애플리케이션 50여개를 개발해 레오나르도 제품군을 보강한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "노가 총괄은 \\\"세계 데이터 트랜잭션의 76%가 SAP를 거친다\\\"면서 \\\"SAP는 머신러닝이 일종의 마케팅 용어로 사용되기 전부터 머신러닝 기술을 보유했고 활용했다\\\"고 말했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 \\\"어디에 머신러닝이 필요한지, SAP 데이터 자산을 어떻게 활용할지 알고있다\\\"면서 머신러닝 경쟁력을 이미 확보했다고 강조했다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2017 SAP 사파이어나우]SAP, '머신러닝' 인력 두 배 늘린다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

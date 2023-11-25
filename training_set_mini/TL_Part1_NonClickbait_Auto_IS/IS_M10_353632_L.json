@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353632",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "폰으로 한번에 'PASS'…이통사 \\\"모바일 운전면허, 전국 공항 적용\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "전국 공항에서도 국내 통신3사 'PASS 모바일 운전면허'를 사용할 수 있게 됐다.\n22일 SK텔레콤·KT·LG유플러스 등 통신3사와 한국공항공사는 전국 공항 국내선 탑승 수속 시 신분증 대체 수단으로 'PASS 모바일 운전면허 확인 서비스'를 이날부터 제공한다고 밝혔다.\n통신3사 공동의 사설 전자인증 서비스인 PASS는 애플리케이션(앱)을 통해 지문, 홍채 등 생체인증만으로 본인 인증이 가능한 서비스다.\n공항에서 모바일 신분증이 전산 인증 형태로 도입되는 건 이번이 처음이다.\n한국공항공사는 2018년 바이오 인증 정보로 신원을 확인하는 'One ID 신분 확인 서비스'를 시작했으나 최초 등록 시 주민등록증·운전면허증 등 실물 신분증이 필요했다.\n이번 통신3사와의 협력으로 One ID 등록시에도 신분증 대신 PASS 모바일 운전면허 사용이 가능해졌다.\n통신3사는 전국 공항을 시작으로 사용처를 확대할 계획이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전국 공항에서도 국내 통신3사 'PASS 모바일 운전면허'를 사용할 수 있게 됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 SK텔레콤·KT·LG유플러스 등 통신3사와 한국공항공사는 전국 공항 국내선 탑승 수속 시 신분증 대체 수단으로 'PASS 모바일 운전면허 확인 서비스'를 이날부터 제공한다고 밝혔다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "통신3사 공동의 사설 전자인증 서비스인 PASS는 애플리케이션(앱)을 통해 지문, 홍채 등 생체인증만으로 본인 인증이 가능한 서비스다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공항에서 모바일 신분증이 전산 인증 형태로 도입되는 건 이번이 처음이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국공항공사는 2018년 바이오 인증 정보로 신원을 확인하는 'One ID 신분 확인 서비스'를 시작했으나 최초 등록 시 주민등록증·운전면허증 등 실물 신분증이 필요했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 통신3사와의 협력으로 One ID 등록시에도 신분증 대신 PASS 모바일 운전면허 사용이 가능해졌다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "통신3사는 전국 공항을 시작으로 사용처를 확대할 계획이다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "폰으로 한번에 'PASS'…이통사 \\\"모바일 운전면허, 전국 공항 적용\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

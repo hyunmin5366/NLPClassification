@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355353",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "SKT·한국교통연구원 'UAM 협력 세미나' 개최",
+		"newsSubTitle": "null",
+		"newsContent": "SK텔레콤은 한국교통연구원과 AI(인공지능)·빅데이터 기반 UAM(도심항공모빌리티) 협력을 위한 세미나를 11일 개최했다.\n이날 오전 세종시 한국교통연구원에서 열린 세미나에는 유영상 SK텔레콤 대표와 오재학 한국교통연구원장, 이종호 티맵모빌리티 대표 등 주요 경영진이 참석했다.\nSK텔레콤과 한국교통연구원은 올해 초 UAM 산업 선도를 위해 양측 대표가 주관하는 협력 세미나를 개최한 뒤 UAM 상용화를 위한 공동 연구를 진행해 왔다.\n또 'K-UAM 드림팀 컨소시엄'에서 2025년 관광·공공 서비스 노선 출범을 위한 업무협약을 체결한 바 있다.\nSK텔레콤 컨소시엄은 UAM 생태계의 핵심 영역으로 기대를 모으는 운항 시스템과 운항지원정보 분야 사업 역량을 강화하고, 글로벌 파트너와의 초협력을 통해 미국·유럽 등 글로벌 수준의 역량을 갖추기 위해 노력하고 있다.\n유영상 SK텔레콤 대표는 \\\"AI, 빅데이터 등 SK텔레콤의 ICT(정보통신기술)를 바탕으로 한국교통연구원과 한국 UAM 상용화를 위한 협력을 확장해 나가기를 기대한다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤은 한국교통연구원과 AI(인공지능)·빅데이터 기반 UAM(도심항공모빌리티) 협력을 위한 세미나를 11일 개최했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 오전 세종시 한국교통연구원에서 열린 세미나에는 유영상 SK텔레콤 대표와 오재학 한국교통연구원장, 이종호 티맵모빌리티 대표 등 주요 경영진이 참석했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SK텔레콤과 한국교통연구원은 올해 초 UAM 산업 선도를 위해 양측 대표가 주관하는 협력 세미나를 개최한 뒤 UAM 상용화를 위한 공동 연구를 진행해 왔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 'K-UAM 드림팀 컨소시엄'에서 2025년 관광·공공 서비스 노선 출범을 위한 업무협약을 체결한 바 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SK텔레콤 컨소시엄은 UAM 생태계의 핵심 영역으로 기대를 모으는 운항 시스템과 운항지원정보 분야 사업 역량을 강화하고, 글로벌 파트너와의 초협력을 통해 미국·유럽 등 글로벌 수준의 역량을 갖추기 위해 노력하고 있다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유영상 SK텔레콤 대표는 \\\"AI, 빅데이터 등 SK텔레콤의 ICT(정보통신기술)를 바탕으로 한국교통연구원과 한국 UAM 상용화를 위한 협력을 확장해 나가기를 기대한다\\\"고 밝혔다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKT·한국교통연구원 'UAM 협력 세미나' 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

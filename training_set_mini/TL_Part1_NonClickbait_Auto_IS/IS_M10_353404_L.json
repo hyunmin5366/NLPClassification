@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353404",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"복잡한 IT환경, 보안 업데이트 신속하게\\\"…시큐브, 특허 취득",
+		"newsSubTitle": "null",
+		"newsContent": "국내 보안기업 시큐브가 클라우드 등 복잡한 IT(정보통신) 환경에서도 신속하게 보안 업데이트를 적용할 수 있는 기술 특허를 취득했다고 3일 밝혔다.\n시큐브가 취득한 특허는 '분할된 보안 모듈을 구비하는 컴퓨터 장치 및 보안 모듈 업데이트 방법에 관한 특허'다.\n분할된 보안 모듈이란 보안기술의 핵심 부분만 최소화해서 별도 구성요소인 '모듈' 단위로 만든 것이다.\n보안모듈은 보통 운영체제(OS) 기본 기능을 실행하는 핵심 영역인 커널에 설치된다.\n애플리케이션 같은 응용 프로그램이 아닌 커널에 모듈을 설치하게 되면 시스템 전체를 껐다 켜야 설치 내용이 반영된다.\n기업 시스템은 한 번에 모든 시스템을 끌 수 없어 보안모듈도 순차 적용해야 한다.\n한 기업에서 수백대 이상 서버를 운영하는 경우도 많다보니, 한 기업이 보안모듈 하나 설치하는데 최대 1년 이상 걸리기도 한다.\n시큐브 특허는 보안모듈 크기를 줄이고 업데이트되는 부분을 최대한 일반 응용프로그램 단위에서 관리할 수 있도록 하는 기술이다.\n커널에 설치되는 부분을 크게 줄여 시스템을 껐다 켜야 하는 번거로움을 덜어준다.\n시큐브 관계자는 \\\"클라우드 도입이 늘어나며 인프라 환경이 점점 복잡해지고 취약점을 겨냥한 사이버 공격도 늘고 있다\\\"며 \\\"이 기술을 활용하면 업데이트 수행과 버전관리를 신속하고 체계적으로 할 수 있게 된다\\\"고 설명했다.\n이규호 시큐브 대표이사는 \\\"이번 특허는 늘어나는 클라우드 환경 보안을 위한 효과적인 기술\\\"이라며 \\\"앞으로도 서비스를 고도화해 고객 만족도를 높이고 글로벌 시장 경쟁력을 강화할 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 보안기업 시큐브가 클라우드 등 복잡한 IT(정보통신) 환경에서도 신속하게 보안 업데이트를 적용할 수 있는 기술 특허를 취득했다고 3일 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시큐브가 취득한 특허는 '분할된 보안 모듈을 구비하는 컴퓨터 장치 및 보안 모듈 업데이트 방법에 관한 특허'다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "분할된 보안 모듈이란 보안기술의 핵심 부분만 최소화해서 별도 구성요소인 '모듈' 단위로 만든 것이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보안모듈은 보통 운영체제(OS) 기본 기능을 실행하는 핵심 영역인 커널에 설치된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플리케이션 같은 응용 프로그램이 아닌 커널에 모듈을 설치하게 되면 시스템 전체를 껐다 켜야 설치 내용이 반영된다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기업 시스템은 한 번에 모든 시스템을 끌 수 없어 보안모듈도 순차 적용해야 한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한 기업에서 수백대 이상 서버를 운영하는 경우도 많다보니, 한 기업이 보안모듈 하나 설치하는데 최대 1년 이상 걸리기도 한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "시큐브 특허는 보안모듈 크기를 줄이고 업데이트되는 부분을 최대한 일반 응용프로그램 단위에서 관리할 수 있도록 하는 기술이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "커널에 설치되는 부분을 크게 줄여 시스템을 껐다 켜야 하는 번거로움을 덜어준다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "시큐브 관계자는 \\\"클라우드 도입이 늘어나며 인프라 환경이 점점 복잡해지고 취약점을 겨냥한 사이버 공격도 늘고 있다\\\"며 \\\"이 기술을 활용하면 업데이트 수행과 버전관리를 신속하고 체계적으로 할 수 있게 된다\\\"고 설명했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이규호 시큐브 대표이사는 \\\"이번 특허는 늘어나는 클라우드 환경 보안을 위한 효과적인 기술\\\"이라며 \\\"앞으로도 서비스를 고도화해 고객 만족도를 높이고 글로벌 시장 경쟁력을 강화할 계획\\\"이라고 말했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"복잡한 IT환경, 보안 업데이트 신속하게\\\"…시큐브, 특허 취득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

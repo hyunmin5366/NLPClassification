@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008272",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "4월 중기 경기전망지수 97.1...전월대비 0.7p 하락",
+		"newsSubTitle": "",
+		"newsContent": "국내 중소기업의 경기전망지수가 소폭 하락한 것으로 조사됐다.\n29일 중소기업중앙회가 중소제조업체 1406곳을 대상으로 중소기업 경기전망 조사를 한 결과에 따르면 4월 중소기업 업황전망 건강도지수(SBHI)는 전월(97.8)보다 0.7p가 하락한 97.1로 나타났다.\n이는 일본 대지진에 따른 일본산 부품 수급차질과 리비아 등 중동사태 악화, 국제유가 지속상승 등으로 확대되고 있는 대외여건의 불확실성이 작용한 것으로 분석된다.\n중소기업 경기전망지수는 3월 5개월 만에 반등세를 보이기도 했으나, 여전히 기준치(100)를 밑돌며 다시 하락했다.\n기업 규모별로 소기업은 95.8로 지난달과 같고, 중기업(101.9→99.8)은 하락할 것으로 전망했다.\n기업 유형별로는 일반제조업(95.8→95.4)보다 혁신제조업(105.5→103)이 소폭 하락했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 중소기업의 경기전망지수가 소폭 하락한 것으로 조사됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 중소기업중앙회가 중소제조업체 1406곳을 대상으로 중소기업 경기전망 조사를 한 결과에 따르면 4월 중소기업 업황전망 건강도지수(SBHI)는 전월(97.8)보다 0.7p가 하락한 97.1로 나타났다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 일본 대지진에 따른 일본산 부품 수급차질과 리비아 등 중동사태 악화, 국제유가 지속상승 등으로 확대되고 있는 대외여건의 불확실성이 작용한 것으로 분석된다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "중소기업 경기전망지수는 3월 5개월 만에 반등세를 보이기도 했으나, 여전히 기준치(100)를 밑돌며 다시 하락했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기업 규모별로 소기업은 95.8로 지난달과 같고, 중기업(101.9→99.8)은 하락할 것으로 전망했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기업 유형별로는 일반제조업(95.8→95.4)보다 혁신제조업(105.5→103)이 소폭 하락했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "환율, 8거래일만에 상승",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

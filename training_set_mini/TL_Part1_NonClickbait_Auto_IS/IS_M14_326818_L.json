@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326818",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "DMI, 가스배관 모니터링용 '수소드론' 납품",
+		"newsSubTitle": "",
+		"newsContent": "두산모빌리티이노베이션(DMI)이 가스배관 도로 모니터링 솔루션 실증을 마치고 한국가스공사에 수소드론을 납품한다. 12일 업계에 따르면 DMI는 연내 수소드론 'DS30 W' 기반의 가스배관 도로 모니터링 솔루션을 한국가스공사에 납품한다.\n그동안 가스배관 도로 모니터링을 사람이 직접 수행했지만, 수소드론을 활용하면 원격 모니터링이 가능해진다.\n한국가스공사는 수소드론을 활용해 가스배관 도로를 실시간 모니터링한다. 60~70m 상공에서 가스배관이 매설된 도로를 살핀다.\n추락에 따른 사고 위험을 줄이기 위해 드론 전용 낙하산도 탑재한다.\n수소드론이 촬영한 영상은 관제센터로 보내진다.\n가스배관 도로 모니터링 솔루션은 머신러닝 기법을 통해 굴착기, 싱크홀 등을 감지할 경우 관제센터 직원에게 알린다.\n수소드론은 2시간, 약 50㎞를 비행할 수 있다는 게 장점이다.\nDS30 W 모델의 경우 방수까지 지원해 모니터링 중에 비가 오더라도 안전하게 귀환할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "두산모빌리티이노베이션(DMI)이 가스배관 도로 모니터링 솔루션 실증을 마치고 한국가스공사에 수소드론을 납품한다. 12일 업계에 따르면 DMI는 연내 수소드론 'DS30 W' 기반의 가스배관 도로 모니터링 솔루션을 한국가스공사에 납품한다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그동안 가스배관 도로 모니터링을 사람이 직접 수행했지만, 수소드론을 활용하면 원격 모니터링이 가능해진다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국가스공사는 수소드론을 활용해 가스배관 도로를 실시간 모니터링한다. 60~70m 상공에서 가스배관이 매설된 도로를 살핀다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "추락에 따른 사고 위험을 줄이기 위해 드론 전용 낙하산도 탑재한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "수소드론이 촬영한 영상은 관제센터로 보내진다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가스배관 도로 모니터링 솔루션은 머신러닝 기법을 통해 굴착기, 싱크홀 등을 감지할 경우 관제센터 직원에게 알린다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "수소드론은 2시간, 약 50㎞를 비행할 수 있다는 게 장점이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "DS30 W 모델의 경우 방수까지 지원해 모니터링 중에 비가 오더라도 안전하게 귀환할 수 있다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "DMI, 가스배관 모니터링용 '수소드론' 납품",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

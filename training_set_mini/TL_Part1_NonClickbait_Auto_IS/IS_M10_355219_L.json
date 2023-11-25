@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355219",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "파수, 비식별 솔루션 '애널리틱 디아이디'에 AI기술 탑재",
+		"newsSubTitle": "null",
+		"newsContent": "정보보안 서비스·솔루션 기업 파수가 개인정보 비식별 솔루션 '애널리틱 디아이디'(AnalyticDID, 이하 ADID)에 AI(인공지능) 기반 자연어 처리 기술을 탑재해 데이터 식별과 분류 정확도 기능을 혁신했다고 2일 밝혔다.\n국내 최초 출시된 개인정보 비식별화 솔루션인 파수의 ADID는 현재 결합전문기관과 금융기관, 마이데이터 사업자 등이 사용하고 있다.\n재식별 위험이나 개인정보 유출에 대한 우려 없이 데이터를 안전하게 가명 또는 익명으로 처리하는 솔루션이다.\n이번 업데이트로 ADID는 AI 기반의 자연어 처리 기술을 사용해 비정형 텍스트나 문서에 포함된 개인정보를 탐지한다.\nADID에 적용된 자연어 처리 기술은 최근 뛰어난 정확도를 보이고 있는 트랜스포머 기술 기반의 언어 모델을 한글의 특성과 개인정보의 특성에 맞게 학습시켜, 데이터에 포함된 개인정보를 문장 속 맥락 이해에 기반해 식별한다.\n예를 들어 주소가 포함된 데이터의 경우 행정구역 체계를 광역시도, 시·군·구, 동·읍·면·리, 상세주소 등으로 단계를 구분해 탐지할 수 있다.\n또한 개인의 키나 몸무게를 개인 정보가 아닌 다른 길이나 무게와 구분하는 등 까다로운 문장 속에서도 높은 인지 정확도를 보여준다.\n분산처리 구조를 통해 데이터를 빠르게 처리할 수 있는 대용량 처리 기술로 차별화된 ADID는 데이터 유형과 사용 목적에 맞는 최적의 비식별화를 적용해 데이터 안전성과 효용성을 보장한다.\n가명 정보 처리 관련 최신 가이드라인 개정안 및 데이터 3법 등 국내 개인정보 처리와 관련한 법률 및 가이드라인을 100% 지원해 컴플라이언스에서 요구하는 기능을 완벽 제공한다.\n또한 표준적인 CSV 파일 외에도 다양한 관계형 데이터베이스, 빅데이터 시스템들과 연계한 다양한 기업 및 기관 프로젝트를 성공적으로 진행해왔다.\n조규곤 파수 대표는 \\\"올해 하반기에는 ADID에 개인정보처리를 위한 주요 통계치를 자동 계산해주는 기술을 추가하고, AI 기반의 문서 스캔 이미지 마스킹 기술을 발표할 예정\\\"이라며 \\\"결합전문기관, 데이터전문기관, 빅데이터 업체 등과 함께 시장을 선도해온 파수의 ADID는 향후에도 지속적인 혁신을 통해 새로운 데이터 가치를 창출하고자하는 기업과 기관을 적극 지원할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정보보안 서비스·솔루션 기업 파수가 개인정보 비식별 솔루션 '애널리틱 디아이디'(AnalyticDID, 이하 ADID)에 AI(인공지능) 기반 자연어 처리 기술을 탑재해 데이터 식별과 분류 정확도 기능을 혁신했다고 2일 밝혔다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 최초 출시된 개인정보 비식별화 솔루션인 파수의 ADID는 현재 결합전문기관과 금융기관, 마이데이터 사업자 등이 사용하고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "재식별 위험이나 개인정보 유출에 대한 우려 없이 데이터를 안전하게 가명 또는 익명으로 처리하는 솔루션이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 업데이트로 ADID는 AI 기반의 자연어 처리 기술을 사용해 비정형 텍스트나 문서에 포함된 개인정보를 탐지한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ADID에 적용된 자연어 처리 기술은 최근 뛰어난 정확도를 보이고 있는 트랜스포머 기술 기반의 언어 모델을 한글의 특성과 개인정보의 특성에 맞게 학습시켜, 데이터에 포함된 개인정보를 문장 속 맥락 이해에 기반해 식별한다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예를 들어 주소가 포함된 데이터의 경우 행정구역 체계를 광역시도, 시·군·구, 동·읍·면·리, 상세주소 등으로 단계를 구분해 탐지할 수 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한 개인의 키나 몸무게를 개인 정보가 아닌 다른 길이나 무게와 구분하는 등 까다로운 문장 속에서도 높은 인지 정확도를 보여준다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "분산처리 구조를 통해 데이터를 빠르게 처리할 수 있는 대용량 처리 기술로 차별화된 ADID는 데이터 유형과 사용 목적에 맞는 최적의 비식별화를 적용해 데이터 안전성과 효용성을 보장한다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "가명 정보 처리 관련 최신 가이드라인 개정안 및 데이터 3법 등 국내 개인정보 처리와 관련한 법률 및 가이드라인을 100% 지원해 컴플라이언스에서 요구하는 기능을 완벽 제공한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또한 표준적인 CSV 파일 외에도 다양한 관계형 데이터베이스, 빅데이터 시스템들과 연계한 다양한 기업 및 기관 프로젝트를 성공적으로 진행해왔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "조규곤 파수 대표는 \\\"올해 하반기에는 ADID에 개인정보처리를 위한 주요 통계치를 자동 계산해주는 기술을 추가하고, AI 기반의 문서 스캔 이미지 마스킹 기술을 발표할 예정\\\"이라며 \\\"결합전문기관, 데이터전문기관, 빅데이터 업체 등과 함께 시장을 선도해온 파수의 ADID는 향후에도 지속적인 혁신을 통해 새로운 데이터 가치를 창출하고자하는 기업과 기관을 적극 지원할 것\\\"이라고 말했다.",
+				"sentenceSize": 218
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "파수, 비식별 솔루션 '애널리틱 디아이디'에 AI기술 탑재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

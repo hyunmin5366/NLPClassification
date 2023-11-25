@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324717",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "안랩, 랜섬웨어 대비 데이터 백업 솔루션 무료공개",
+		"newsSubTitle": "",
+		"newsContent": "안랩이 랜섬웨어에 대비한 데이터 백업 솔루션을 내놓는다.\n개인 사용자는 무료로 이용할 수 있다.\n안랩은 4일 '안랩 데이터세이프(AhnLab Data Safe)' 베타버전을 자사 홈페이지에 공개했다.\n안랩 데이터 세이프는 중요 파일을 PC 내부 특정한 폴더에 백업한다.\n안랩 자체보호 기술을 이용해 백업 데이터 저장경로를 보호한다.\n세부적으로 △전체 백업 △파일이 변경될 경우 백업을 수행하는 '실시간 백업' △사용자가 설정한 시간에 백업을 시행하는 '예약 백업' △백업 파일 복원 기능을 갖췄다.\n윈도 7∙8∙8.1∙10에서 32∙64비트를 지원한다.\n안랩 관계자는 \\\"랜섬웨어에 감염되더라도 중요 파일을 안전하게 보호한다\\\"면서 \\\"개인 사용자는 제한 없이 누구나 사용 가능하다\\\"고 말했다.\n백업은 사이버 침해사고를 방어하는 기본 대책이다.\n특히 랜섬웨어는 복호화키가 없으면 기술적으로 데이터 복원이 불가능하다.\n한국인터넷진흥원(KISA)∙미국 침해사고대응팀(US-CERT) 등 기관과 보안 전문가는 랜섬웨어 방어책으로 데이터 백업과 백업체계 구축을 권고한다.\n실제 지난달 랜섬웨어에 감염당한 인터넷교차로는 백업 데이터를 통해 내부 데이터 복구에 성공했다.\n안랩은 데이터세이프를 백신 프로그램 V3와 안티랜섬웨어 툴과 함께 사용할 것을 권고한다.\n안랩은 지난해 시그니처 기반 탐지∙진단과 함께 행위기반 탐지∙진단 가상화 영역 실행∙검증을 결합한 안티랜섬웨어 툴을 무료로 배포한 바 있다.\n안랩 데이터 백업 솔루션이 기존 안티랜섬웨어 제품에 영향을 미칠지 주목된다.\n체크멀의 '앱체크'와 누리랩 '누리 안티랜섬', 이노티움 '발자국' 등 안티 랜섬웨어 솔루션은 백업을 핵심 기능으로 꼽는다.\n현재 베타버전인 안랩 안티랜섬웨어 제품 공식버전 출시 여부에 관심이 모아진다.\n안랩 안티랜섬웨어 제품은 현재 베타버전으로 안랩 홈페이지의 '제품→개인→V3라이트' 페이지에서 다운받을 수 있다.\n향후 안티랜섬웨어 제품을 공식 출시하면 별도 페이지를 만들 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안랩이 랜섬웨어에 대비한 데이터 백업 솔루션을 내놓는다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "개인 사용자는 무료로 이용할 수 있다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "안랩은 4일 '안랩 데이터세이프(AhnLab Data Safe)' 베타버전을 자사 홈페이지에 공개했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안랩 데이터 세이프는 중요 파일을 PC 내부 특정한 폴더에 백업한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "안랩 자체보호 기술을 이용해 백업 데이터 저장경로를 보호한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "세부적으로 △전체 백업 △파일이 변경될 경우 백업을 수행하는 '실시간 백업' △사용자가 설정한 시간에 백업을 시행하는 '예약 백업' △백업 파일 복원 기능을 갖췄다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "윈도 7∙8∙8.1∙10에서 32∙64비트를 지원한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "안랩 관계자는 \\\"랜섬웨어에 감염되더라도 중요 파일을 안전하게 보호한다\\\"면서 \\\"개인 사용자는 제한 없이 누구나 사용 가능하다\\\"고 말했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "백업은 사이버 침해사고를 방어하는 기본 대책이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특히 랜섬웨어는 복호화키가 없으면 기술적으로 데이터 복원이 불가능하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한국인터넷진흥원(KISA)∙미국 침해사고대응팀(US-CERT) 등 기관과 보안 전문가는 랜섬웨어 방어책으로 데이터 백업과 백업체계 구축을 권고한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "실제 지난달 랜섬웨어에 감염당한 인터넷교차로는 백업 데이터를 통해 내부 데이터 복구에 성공했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "안랩은 데이터세이프를 백신 프로그램 V3와 안티랜섬웨어 툴과 함께 사용할 것을 권고한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "안랩은 지난해 시그니처 기반 탐지∙진단과 함께 행위기반 탐지∙진단 가상화 영역 실행∙검증을 결합한 안티랜섬웨어 툴을 무료로 배포한 바 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "안랩 데이터 백업 솔루션이 기존 안티랜섬웨어 제품에 영향을 미칠지 주목된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "체크멀의 '앱체크'와 누리랩 '누리 안티랜섬', 이노티움 '발자국' 등 안티 랜섬웨어 솔루션은 백업을 핵심 기능으로 꼽는다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "현재 베타버전인 안랩 안티랜섬웨어 제품 공식버전 출시 여부에 관심이 모아진다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "안랩 안티랜섬웨어 제품은 현재 베타버전으로 안랩 홈페이지의 '제품→개인→V3라이트' 페이지에서 다운받을 수 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "향후 안티랜섬웨어 제품을 공식 출시하면 별도 페이지를 만들 예정이다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안랩, 랜섬웨어 대비 데이터 백업 솔루션 무료공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

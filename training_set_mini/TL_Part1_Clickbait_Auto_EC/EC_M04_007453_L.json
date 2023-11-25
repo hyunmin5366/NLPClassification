@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007453",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "대전 6개월째 분양 뚝 끊겼다",
+		"newsSubTitle": "내달 충남만 458가구… 건설사 PF대출 중단 등 엄두 못내",
+		"newsContent": "부동산경기 침체의 영향으로 다음달 전국 아파트 분양은 8000가구 안팎에 그칠 것으로 보인다.\n이는 이달에 비해 6분의 1 수준으로 올 들어 7월 이후 가장 적은 물량이며 대전은 분양 계획이 없고 충남만 458가구 분양 예정이다.\n대전시와 충남도, 부동산거래서비스회사 스피드뱅크 등에 따르면 12월 한 달간 전국 28개 사업장에서 모두 7891가구가 일반에 공급될 것으로 알려졌다.\n지역별 분양 물량을 보면 대부분이 서울과 수도권으로 경기가 3816가구로 가장 많고 서울 2400가구, 부산 570가구, 충남 458가구, 울산 228가구, 대구 212가구, 강원 207가구 등의 순으로 나타났다.\n대전은 다음 달에도 건설사의 분양 계획이 없어 지난 6월 낭월동 e-편한세상 분양 이후 6개월째 분양이 끊길 전망이다.\n다만, 충남은 대전·충청권에서 유일하게 동아건설산업이 서산시 동문동에 들어설 공급면적 112~145㎡형 458가구를 일반분양할 예정이다.\n이는 연말을 앞두고 건설사들이 밀어내기 분양에 열을 올렸던 종전과는 다른 분위기다.\n건설사 한 관계자는 “아파트를 신규 분양하려 해도 은행권의 PF(프로젝트 파이낸싱)대출이 막혀 엄두내지 못하고 있다”면서 “그러나 최근 들어 세종시 등 지방 분양시장이 살아나고 있어 분양 가능성이 높은 노른자위 땅을 알아보고 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "부동산경기 침체의 영향으로 다음달 전국 아파트 분양은 8000가구 안팎에 그칠 것으로 보인다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 이달에 비해 6분의 1 수준으로 올 들어 7월 이후 가장 적은 물량이며 대전은 분양 계획이 없고 충남만 458가구 분양 예정이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대전시와 충남도, 부동산거래서비스회사 스피드뱅크 등에 따르면 12월 한 달간 전국 28개 사업장에서 모두 7891가구가 일반에 공급될 것으로 알려졌다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지역별 분양 물량을 보면 대부분이 서울과 수도권으로 경기가 3816가구로 가장 많고 서울 2400가구, 부산 570가구, 충남 458가구, 울산 228가구, 대구 212가구, 강원 207가구 등의 순으로 나타났다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대전은 다음 달에도 건설사의 분양 계획이 없어 지난 6월 낭월동 e-편한세상 분양 이후 6개월째 분양이 끊길 전망이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만, 충남은 대전·충청권에서 유일하게 동아건설산업이 서산시 동문동에 들어설 공급면적 112~145㎡형 458가구를 일반분양할 예정이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이는 연말을 앞두고 건설사들이 밀어내기 분양에 열을 올렸던 종전과는 다른 분위기다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "건설사 한 관계자는 “아파트를 신규 분양하려 해도 은행권의 PF(프로젝트 파이낸싱)대출이 막혀 엄두내지 못하고 있다”면서 “그러나 최근 들어 세종시 등 지방 분양시장이 살아나고 있어 분양 가능성이 높은 노른자위 땅을 알아보고 있다”고 말했다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지역百서 봄나들이 준비하세요",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

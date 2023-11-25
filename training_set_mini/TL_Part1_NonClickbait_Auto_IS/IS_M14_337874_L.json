@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337874",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "인텔, 한국 NFV 시장 공략… 국내 통신사와 vE-CPE 사업모델 개발",
+		"newsSubTitle": "",
+		"newsContent": "인텔이 네트워크가상화(NFV) 기술로 국내 유선 네트워크 시장을 공략한다.\n국내 통신사와 새로운 사업 모델을 개발 중이다.\n기업 고객이 소유한 장비(CPE:Customer Premises Equipment)를 가상화 기술을 활용해 서버 하나로 구현하도록 만드는 것이 골자다.\n인텔은 이 사업을 'vE-CPE'로 부르고 있다.\n3일 업계에 따르면 인텔코리아는 국내 통신사와 협력해 vE-CPE 사업을 시작할 계획이다.\nCPE는 고객이 소유한 유선 네트워크 장비를 의미한다.\n인터넷 전용회선 장비, 스토리지, IP전화교환기(IP-PBX), 보안장비 등이 여기 속한다.\nNFV 기술을 활용하면 서버 한 대로 이들 개별 장비가 수행했던 기능을 소프트웨어로 구현할 수 있다.\n인텔코리아 관계자는 \\\"vE-CPE 서비스가 상용화되면 기업은 개별 유선 네트워크 장비를 각각 구매할 필요가 없고, 장비별 관리 이슈도 사라진다\\\"고 설명했다.\n인텔은 NFV를 활용하면 통신사, 고객 모두에게 이익이라고 강조한다.\n통신사는 고객이 원하는 기능을 쉽고 간단하게 추가해줄 수 있다.\n고객사는 서버 한 대를 도입하면 다른 장비를 구매할 필요가 없으므로 비용절감 효과를 볼 수 있다.\n관리 복잡성 역시 제거된다.\n인텔이 이 사업을 미는 이유는 신시장이 창출되면 프로세서 판매를 높일 수 있기 때문이다.\n현재 CPE 시장에서 인텔 프로세서 시장 점유율은 제로에 가깝다.\n이 관계자는 \\\"인텔 프로세서가 탑재된 서버라면 제조사가 HP건 델이건 상관없이 vE-CPE 서비스를 할 수 있다\\\"면서 \\\"앞으로는 표준형 서버가 개별 유선 네트워크 장비 시장을 잠식해 나갈 것\\\"이라고 자신했다.\n이 경우 시스코나 주니퍼 등 유선 네트워크 장비 시장 강자의 지위는 차츰 약화될 것이라고 전문가는 관측했다.\nvE-CPE 사업 초기에는 단순히 개별 장비 기능을 서버 한 대로 구현하는 데 초점이 맞춰질 전망이다.\n그러나 서비스가 고도화되면 이를 클라우드 형태로 묶는 사업 모델도 개발 중인 것으로 전해졌다.\n영국 브리티시텔레콤은 이미 인텔 칩 솔루션이 탑재된 서버와 NFV 기술을 기반으로 vE-CPE 서비스를 상용화했다.\n브리티시가 제공한 연구자료에 따르면 이 서비스를 구축한 고객사는 32~39% 비용을 절감할 수 있는 것으로 나타났다.\n대기업의 경우 하드웨어 구매 비용 90%를, 중소기업에 제공됐을 때 서비스 비용은 48%까지 낮출 수 있는 것으로 조사됐다.\n브리티시텔레콤은 보고서에서 \\\"가상화 기술로 CPE 서비스를 구현할 경우 전통적인 유선 네트워크 장비를 활용했을 때보다 네트워크 민첩성, 유연성, 확장성이 크게 개선된다\\\"면서 \\\"이는 결국 고객사의 새로운 서비스와 제품 출시 속도 단축에 기여한다\\\"고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인텔이 네트워크가상화(NFV) 기술로 국내 유선 네트워크 시장을 공략한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 통신사와 새로운 사업 모델을 개발 중이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기업 고객이 소유한 장비(CPE:Customer Premises Equipment)를 가상화 기술을 활용해 서버 하나로 구현하도록 만드는 것이 골자다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인텔은 이 사업을 'vE-CPE'로 부르고 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "3일 업계에 따르면 인텔코리아는 국내 통신사와 협력해 vE-CPE 사업을 시작할 계획이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CPE는 고객이 소유한 유선 네트워크 장비를 의미한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인터넷 전용회선 장비, 스토리지, IP전화교환기(IP-PBX), 보안장비 등이 여기 속한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "NFV 기술을 활용하면 서버 한 대로 이들 개별 장비가 수행했던 기능을 소프트웨어로 구현할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "인텔코리아 관계자는 \\\"vE-CPE 서비스가 상용화되면 기업은 개별 유선 네트워크 장비를 각각 구매할 필요가 없고, 장비별 관리 이슈도 사라진다\\\"고 설명했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "인텔은 NFV를 활용하면 통신사, 고객 모두에게 이익이라고 강조한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "통신사는 고객이 원하는 기능을 쉽고 간단하게 추가해줄 수 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "고객사는 서버 한 대를 도입하면 다른 장비를 구매할 필요가 없으므로 비용절감 효과를 볼 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "관리 복잡성 역시 제거된다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "인텔이 이 사업을 미는 이유는 신시장이 창출되면 프로세서 판매를 높일 수 있기 때문이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "현재 CPE 시장에서 인텔 프로세서 시장 점유율은 제로에 가깝다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이 관계자는 \\\"인텔 프로세서가 탑재된 서버라면 제조사가 HP건 델이건 상관없이 vE-CPE 서비스를 할 수 있다\\\"면서 \\\"앞으로는 표준형 서버가 개별 유선 네트워크 장비 시장을 잠식해 나갈 것\\\"이라고 자신했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이 경우 시스코나 주니퍼 등 유선 네트워크 장비 시장 강자의 지위는 차츰 약화될 것이라고 전문가는 관측했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "vE-CPE 사업 초기에는 단순히 개별 장비 기능을 서버 한 대로 구현하는 데 초점이 맞춰질 전망이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "그러나 서비스가 고도화되면 이를 클라우드 형태로 묶는 사업 모델도 개발 중인 것으로 전해졌다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "영국 브리티시텔레콤은 이미 인텔 칩 솔루션이 탑재된 서버와 NFV 기술을 기반으로 vE-CPE 서비스를 상용화했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "브리티시가 제공한 연구자료에 따르면 이 서비스를 구축한 고객사는 32~39% 비용을 절감할 수 있는 것으로 나타났다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "대기업의 경우 하드웨어 구매 비용 90%를, 중소기업에 제공됐을 때 서비스 비용은 48%까지 낮출 수 있는 것으로 조사됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "브리티시텔레콤은 보고서에서 \\\"가상화 기술로 CPE 서비스를 구현할 경우 전통적인 유선 네트워크 장비를 활용했을 때보다 네트워크 민첩성, 유연성, 확장성이 크게 개선된다\\\"면서 \\\"이는 결국 고객사의 새로운 서비스와 제품 출시 속도 단축에 기여한다\\\"고 설명했다.",
+				"sentenceSize": 147
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인텔, 한국 NFV 시장 공략… 국내 통신사와 vE-CPE 사업모델 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

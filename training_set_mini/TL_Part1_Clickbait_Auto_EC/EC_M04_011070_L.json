@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011070",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "음료시장도 한류바람~ 작년 수출 2억 달러 넘어",
+		"newsSubTitle": "알로에ㆍ바나나우유 견인",
+		"newsContent": "우리나라 음료가 해외에서도 큰 인기를 끌고 있다.\n지난해 음료 수출 사상 처음으로 2억 달러 수출을 넘어섰다.\n한국농수산식품유통공사(aT)는 지난해 우리나라 음료의 수출액이 2011년에 비해 22.6% 증가한 2억2600만 달러를 기록했다고 22일 밝혔다.\n중국의 바나나 우유와 캄보디아의 에너지 드링크 수출 호조가 큰 몫을 한 것으로 분석됐다.\n주요 국가별로는 미국의 경우 알로에 음료를 중심으로 빠르게 성장하고 있으며, 알로에 음료는 우리나라 수출의 대표 품목으로 자리매김하고 있다.\n일본은 홍초와 옥수수수염차가 증가세를 보이고 있으며, 중국은 편의점 시장 성장과 함께 바나나 우유가 인기를 끌고 있다.\n러시아에서는 밀키스가 수출 견인차 역할을 하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리나라 음료가 해외에서도 큰 인기를 끌고 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 음료 수출 사상 처음으로 2억 달러 수출을 넘어섰다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국농수산식품유통공사(aT)는 지난해 우리나라 음료의 수출액이 2011년에 비해 22.6% 증가한 2억2600만 달러를 기록했다고 22일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "중국의 바나나 우유와 캄보디아의 에너지 드링크 수출 호조가 큰 몫을 한 것으로 분석됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주요 국가별로는 미국의 경우 알로에 음료를 중심으로 빠르게 성장하고 있으며, 알로에 음료는 우리나라 수출의 대표 품목으로 자리매김하고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일본은 홍초와 옥수수수염차가 증가세를 보이고 있으며, 중국은 편의점 시장 성장과 함께 바나나 우유가 인기를 끌고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "러시아에서는 밀키스가 수출 견인차 역할을 하고 있다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쿠캣-WFP, '제로 웨이스트 제로 헝거' 캠페인…\\\"기아 문제 해결\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

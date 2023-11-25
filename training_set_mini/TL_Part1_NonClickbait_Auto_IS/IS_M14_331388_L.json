@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331388",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "스마트폰 이용자 70% “OS 보증 3년이 적당”",
+		"newsSubTitle": "",
+		"newsContent": "스마트폰 이용자 10명 중 7명은 3년 이상 운용체계(OS) 업데이트 지원 보장을 원하는 것으로 나타났다.\n미국 정보기술(IT) 전문매체 GSM아레나가 '스마트폰 OS 업데이트 보증기간 몇 년이 적당한가요?'라는 주제로 설문조사한 결과 응답자 1만6809명 중 43%(7231명)가 3년이 적당하다고 응답했다.\n4년이 적당하다는 응답자도 35%(5926명)에 이르렀다. 2년 이하라는 응답자는 22%(3652명)로 적었다.\n스마트폰 이용자 10명 중 7명 이상은 OS 업데이트 기간만 보장된다면 스마트폰을 충분히 오래 쓸 수 있다고 생각한다는 의미다.\n구글 안드로이드 등 스마트폰 OS 업데이트 보증기간은 대부분 2년이다.\n공정거래위원회가 고시로 정한 국내 휴대폰 품질보증기간은 1년이다.\n2~3년 이상 OS 업데이트 보증기간 정책에 대한 강제성은 없다.\n외신은 OS 업데이트 보증기간이 늘어날 경우, 스마트폰 가격이 올라가는 것을 우려했다.\nGSM아레나는 \\\"OS를 업데이트하는 것은 새 휴대폰을 구입하는 것만큼 중요하다\\\"면서도 \\\"OS 업데이트 기간이 휴대폰 가격에 따라 결정되는 경향이 있다는 점은 아쉽다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스마트폰 이용자 10명 중 7명은 3년 이상 운용체계(OS) 업데이트 지원 보장을 원하는 것으로 나타났다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 정보기술(IT) 전문매체 GSM아레나가 '스마트폰 OS 업데이트 보증기간 몇 년이 적당한가요?'라는 주제로 설문조사한 결과 응답자 1만6809명 중 43%(7231명)가 3년이 적당하다고 응답했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "4년이 적당하다는 응답자도 35%(5926명)에 이르렀다. 2년 이하라는 응답자는 22%(3652명)로 적었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스마트폰 이용자 10명 중 7명 이상은 OS 업데이트 기간만 보장된다면 스마트폰을 충분히 오래 쓸 수 있다고 생각한다는 의미다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구글 안드로이드 등 스마트폰 OS 업데이트 보증기간은 대부분 2년이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공정거래위원회가 고시로 정한 국내 휴대폰 품질보증기간은 1년이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2~3년 이상 OS 업데이트 보증기간 정책에 대한 강제성은 없다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "외신은 OS 업데이트 보증기간이 늘어날 경우, 스마트폰 가격이 올라가는 것을 우려했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "GSM아레나는 \\\"OS를 업데이트하는 것은 새 휴대폰을 구입하는 것만큼 중요하다\\\"면서도 \\\"OS 업데이트 기간이 휴대폰 가격에 따라 결정되는 경향이 있다는 점은 아쉽다\\\"고 말했다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스마트폰 이용자 70% “OS 보증 3년이 적당”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

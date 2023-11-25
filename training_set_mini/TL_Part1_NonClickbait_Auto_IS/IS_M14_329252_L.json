@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329252",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "게임",
+		"newsTitle": "유럽도 구글 정보수집 관행 조사 착수",
+		"newsSubTitle": "",
+		"newsContent": "미국에 이어 유럽연합(EU) 반독점 당국도 구글 정보수집 실태 조사에 들어갔다.\n1일 로이터통신에 따르면 EU 집행위원회는 구글 모기업 알파벳에 대한 사전 조사를 진행하고 있다.\nEU 구글 데이터 수집과 이용 관행을 들여다보기 위해 여러 기업에 설문지를 배포했다.\n로이터가 확보한 설문지를 보면 EU 집행위는 구글이 지역 검색 서비스, 온라인 표적 광고, 로그인 서비스 등과 관련한 계약을 맺을 때 어떤 정보를 수집하는지 조사했다.\nEU는 어떤 회사들에 해당 설문지를 배포했는지는 확인해주지 않았다.\n구글은 이번 조사와 관련, “정보를 수집하는 것은 자사 서비스 향상 목적”이라면서 “이용자가 원한다면 언제든지 자신의 정보를 관리, 삭제, 전송할 수 있다”고 설명했다.\nEU는 최근 2년간 온라인 검색시장과 안드로이드 스마트폰 운용체계(OS) 시장에서 지배적 지위를 남용한 혐의로 구글에 3차례에 걸쳐 과징금은 총 82억5000만 유로(약 10조7000억원)를 부과했다.\n구글은 미국에서도 연방거래위원회(FTC)와 검찰로부터 공정 거래 방해 여부를 조사받고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국에 이어 유럽연합(EU) 반독점 당국도 구글 정보수집 실태 조사에 들어갔다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 로이터통신에 따르면 EU 집행위원회는 구글 모기업 알파벳에 대한 사전 조사를 진행하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "EU 구글 데이터 수집과 이용 관행을 들여다보기 위해 여러 기업에 설문지를 배포했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "로이터가 확보한 설문지를 보면 EU 집행위는 구글이 지역 검색 서비스, 온라인 표적 광고, 로그인 서비스 등과 관련한 계약을 맺을 때 어떤 정보를 수집하는지 조사했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "EU는 어떤 회사들에 해당 설문지를 배포했는지는 확인해주지 않았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구글은 이번 조사와 관련, “정보를 수집하는 것은 자사 서비스 향상 목적”이라면서 “이용자가 원한다면 언제든지 자신의 정보를 관리, 삭제, 전송할 수 있다”고 설명했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "EU는 최근 2년간 온라인 검색시장과 안드로이드 스마트폰 운용체계(OS) 시장에서 지배적 지위를 남용한 혐의로 구글에 3차례에 걸쳐 과징금은 총 82억5000만 유로(약 10조7000억원)를 부과했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "구글은 미국에서도 연방거래위원회(FTC)와 검찰로부터 공정 거래 방해 여부를 조사받고 있다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유럽도 구글 정보수집 관행 조사 착수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

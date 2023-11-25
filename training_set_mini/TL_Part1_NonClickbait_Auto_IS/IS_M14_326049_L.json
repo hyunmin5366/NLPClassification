@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326049",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]“삼성전자, 내년 스마트폰 브랜드 전면 개편”",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 내년 프리미엄∙중저가 스마트폰 브랜드를 전면 개편할 것이라는 주장이 제기됐다.\n미국 정보기술(IT) 전문매체 폰아레나는 삼성전자가 내년 스마트폰 브랜드에 변화를 시도할 수 있다고 보도했다.\n외신은 삼성전자가 △한국∙북미∙남미 시장 등에 선보인 갤럭시J 시리즈 △중국∙인도 시장에 각각 내놓은 갤럭시C, 갤럭시온 시리즈 브랜드를 전부 폐기할 것이라고 설명했다.\n갤럭시A시리즈는 기존 갤럭시A3∙갤럭시A5∙갤럭시A7이 아닌 갤럭시A10∙갤럭시A30∙갤럭시A50∙갤럭시A70∙갤럭시A90 등 숫자를 높이는 방식으로 성능이 업그레이드 된 느낌을 강조할 것이라고 예측했다.\n이 밖에 샘모바일은 삼성전자가 중국 시장을 공략할 중저가형 스마트폰 갤럭시P 시리즈를 개발 중이라며 삼성전자가 생산하지 않고 생산자개발공급방식(ODM)으로 공급하는 첫 갤럭시 모델이 될 것이라고 보도했다.\n삼성전자 관계자는 \\\"스마트폰 전략 수정을 언급한 최초 근원지가 트위터로 추정된다\\\"며 \\\"신뢰할 수 있을 만한 정보가 아닌 거 같다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 내년 프리미엄∙중저가 스마트폰 브랜드를 전면 개편할 것이라는 주장이 제기됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 정보기술(IT) 전문매체 폰아레나는 삼성전자가 내년 스마트폰 브랜드에 변화를 시도할 수 있다고 보도했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "외신은 삼성전자가 △한국∙북미∙남미 시장 등에 선보인 갤럭시J 시리즈 △중국∙인도 시장에 각각 내놓은 갤럭시C, 갤럭시온 시리즈 브랜드를 전부 폐기할 것이라고 설명했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "갤럭시A시리즈는 기존 갤럭시A3∙갤럭시A5∙갤럭시A7이 아닌 갤럭시A10∙갤럭시A30∙갤럭시A50∙갤럭시A70∙갤럭시A90 등 숫자를 높이는 방식으로 성능이 업그레이드 된 느낌을 강조할 것이라고 예측했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 밖에 샘모바일은 삼성전자가 중국 시장을 공략할 중저가형 스마트폰 갤럭시P 시리즈를 개발 중이라며 삼성전자가 생산하지 않고 생산자개발공급방식(ODM)으로 공급하는 첫 갤럭시 모델이 될 것이라고 보도했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자 관계자는 \\\"스마트폰 전략 수정을 언급한 최초 근원지가 트위터로 추정된다\\\"며 \\\"신뢰할 수 있을 만한 정보가 아닌 거 같다\\\"고 말했다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]“삼성전자, 내년 스마트폰 브랜드 전면 개편”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

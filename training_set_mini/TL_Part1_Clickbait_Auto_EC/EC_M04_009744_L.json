@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009744",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "대전 신설법인수 증가 하위권",
+		"newsSubTitle": "",
+		"newsContent": "지난달 충청권 신설법인수의 증가세가 지속된 가운데, 대전은 소폭 늘어나는데 그쳤다.\n27일 중소기업청이 제공한 1월 신설법인 동향을 보면, 전국 신설법인수는 6005개로 전년 동월 대비 334개(6.1%) 증가했다.\n11개월 연속 증가세로, 1월 기준으로는 2003년 이후 최대 신설법인수로 기록됐다.\n지역별로는 제주가 48.8% 증가로 최고치를 나타냈고, 울산(38.8%)과 대구(26.2%), 경북(15.7%), 충북(14.6%) 등의 순이다.\n비중은 단연 서울(1939개)과 경기(1332개), 인천(254개) 등 수도권(3617개)이 60.2%로 대부분을 차지했다.\n충청권 역시 이 같은 증가 추세를 반영했지만, 비중은 비교적 낮았다.\n신설법인수로는 충남이 207개로 가장 많았고, 충북(173개)과 대전(153개)이 뒤를 이었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 충청권 신설법인수의 증가세가 지속된 가운데, 대전은 소폭 늘어나는데 그쳤다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 중소기업청이 제공한 1월 신설법인 동향을 보면, 전국 신설법인수는 6005개로 전년 동월 대비 334개(6.1%) 증가했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "11개월 연속 증가세로, 1월 기준으로는 2003년 이후 최대 신설법인수로 기록됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지역별로는 제주가 48.8% 증가로 최고치를 나타냈고, 울산(38.8%)과 대구(26.2%), 경북(15.7%), 충북(14.6%) 등의 순이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비중은 단연 서울(1939개)과 경기(1332개), 인천(254개) 등 수도권(3617개)이 60.2%로 대부분을 차지했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "충청권 역시 이 같은 증가 추세를 반영했지만, 비중은 비교적 낮았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신설법인수로는 충남이 207개로 가장 많았고, 충북(173개)과 대전(153개)이 뒤를 이었다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[꼭 알아야하는 특허이야기]국제특허출원제도",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

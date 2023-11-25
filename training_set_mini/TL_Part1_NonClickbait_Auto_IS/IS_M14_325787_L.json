@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325787",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[2019 올해의 CIO]올해의 CISO-고정현 우리은행 상무",
+		"newsSubTitle": "",
+		"newsContent": "올해의 CISO는 고정현 우리은행 상무가 선정됐다. 고 상무는 금융권 최초로 빅데이터 기반 비대면 거래로그 분석 이상탐지거래시스템(FDS)을 도입, 우리은행 보안을 강화했다.\n이를 기반으로 신종 보안 위협을 대응했다. '사이버 레드팀'을 도입해 공격자 관점에서 상시 취약점을 점검했다.\n금융보안원과 협업해 대규모 분산서비스거부(디도스) 공격에 대응하는 체계를 만들었다.\n클라우드 방식 공격 대응 시스템을 도입해 기존 40GB에서 5TB까지 트래픽 용량을 확대했다.\n우리은행은 금융보안원과 서울 소재 시립∙구립 복지관을 대상으로 안전한 스마트폰 활용법 교육을 했다.\n제주와 충북 소재 노인종합복지관까지 지방 거주 고령층까지 정보보호교육 기회를 제공했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해의 CISO는 고정현 우리은행 상무가 선정됐다. 고 상무는 금융권 최초로 빅데이터 기반 비대면 거래로그 분석 이상탐지거래시스템(FDS)을 도입, 우리은행 보안을 강화했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이를 기반으로 신종 보안 위협을 대응했다. '사이버 레드팀'을 도입해 공격자 관점에서 상시 취약점을 점검했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "금융보안원과 협업해 대규모 분산서비스거부(디도스) 공격에 대응하는 체계를 만들었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "클라우드 방식 공격 대응 시스템을 도입해 기존 40GB에서 5TB까지 트래픽 용량을 확대했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "우리은행은 금융보안원과 서울 소재 시립∙구립 복지관을 대상으로 안전한 스마트폰 활용법 교육을 했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제주와 충북 소재 노인종합복지관까지 지방 거주 고령층까지 정보보호교육 기회를 제공했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2019 올해의 CIO]올해의 CISO-고정현 우리은행 상무",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

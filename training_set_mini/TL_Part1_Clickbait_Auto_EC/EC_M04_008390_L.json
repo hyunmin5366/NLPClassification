@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008390",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "방사성 물질 25일만에 불검출",
+		"newsSubTitle": "KINS 전국 측정소 공기조사… 요오드·세슘 발견안돼",
+		"newsContent": "일본 후쿠시마 원전 사고로 인해 지난달 28일 대전에서 방사성 요오드와 세슘이 처음 검출된 이후 25일만에 처음으로 두 물질이 동시에 발견되지 않았다.\n한국원자력안전기술원(KINS)은 지난 22일 오전 10시부터 23일 오전 10시까지 대전을 비롯한 전국 12개 측정소에서 공기를 모아 방사성 물질을 조사한 결과, 모든 측정소에서 방사성 요오드(I-131)와 세슘(Cs-137, Cs-134)이 나오지 않았다고 24일 밝혔다.\n세슘의 경우, 22일부터 대전지역에서 불검출되고 있다.\n23일 채집한 강원도 지역 공기 중 방사성 제논(Xe-133) 농도도 0.0838㏃/㎥로 전날(0.0930Bq/㎥)보다 낮아졌다.\n같은 날 오전 10시 전국 12개 측정소에서 채취한 빗물의 경우 제주에서만 0.142Bq/ℓ 농도의 세슘(Cs-134)이 확인됐다.\n같은 농도의 물을 하루 2ℓ씩 1년 동안 마실 경우 예상되는 피폭 방사선량은 0.00197mSv로, 이는 X-선 촬영 때 받는 방사선량의 50분의 1 수준이다.\nKINS는 “아직 단정할 수는 없으나, 후쿠시마 원전이 완전 수습은 아니더라도 안정을 찾아가면서 유출되는 방사성 물질 양도 점차 줄어들고 있기 때문으로 추정된다”고 설명했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 후쿠시마 원전 사고로 인해 지난달 28일 대전에서 방사성 요오드와 세슘이 처음 검출된 이후 25일만에 처음으로 두 물질이 동시에 발견되지 않았다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국원자력안전기술원(KINS)은 지난 22일 오전 10시부터 23일 오전 10시까지 대전을 비롯한 전국 12개 측정소에서 공기를 모아 방사성 물질을 조사한 결과, 모든 측정소에서 방사성 요오드(I-131)와 세슘(Cs-137, Cs-134)이 나오지 않았다고 24일 밝혔다.",
+				"sentenceSize": 153
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "세슘의 경우, 22일부터 대전지역에서 불검출되고 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "23일 채집한 강원도 지역 공기 중 방사성 제논(Xe-133) 농도도 0.0838㏃/㎥로 전날(0.0930Bq/㎥)보다 낮아졌다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "같은 날 오전 10시 전국 12개 측정소에서 채취한 빗물의 경우 제주에서만 0.142Bq/ℓ 농도의 세슘(Cs-134)이 확인됐다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "같은 농도의 물을 하루 2ℓ씩 1년 동안 마실 경우 예상되는 피폭 방사선량은 0.00197mSv로, 이는 X-선 촬영 때 받는 방사선량의 50분의 1 수준이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KINS는 “아직 단정할 수는 없으나, 후쿠시마 원전이 완전 수습은 아니더라도 안정을 찾아가면서 유출되는 방사성 물질 양도 점차 줄어들고 있기 때문으로 추정된다”고 설명했다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "여름휴가 해외발길 '주춤'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

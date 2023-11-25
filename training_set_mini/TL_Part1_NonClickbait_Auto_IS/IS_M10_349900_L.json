@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349900",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "터널·지하차도에서 카카오내비 안 끊긴다…FIN 기술 확대",
+		"newsSubTitle": "null",
+		"newsContent": "카카오모빌리티가 카카오내비에 적용된 모바일 네트워크 신호 기반의 실내 측위 기술 'FIN'(Fused Indoor localizatioN)을 전국 터널과 지하차도로 확대 적용한다고 11일 밝혔다.\n카카오모빌리티가 지난해 선보인 'FIN'은 5G, LTE와 같은 모바일 네트워크 신호를 활용해 사용자의 정확한 위치를 파악하는 기술이다.\nGPS 신호가 닿지 않는 터널이나 지하차도에서도 끊김 없이 정확한 길 안내를 제공할 수 있다.\n지난해 강남순환로 터널 3곳(관악터널, 봉천터널, 서초터널)에서 시범서비스를 시작한 이후 1년 만에 길이 500m 이상의 전국 터널과 지하차도 약 1300 곳으로 서비스 범위를 확대한다.\n강남순환로에서는 FIN 시범 서비스 도입 이후 2개월간 FIN 기술 적용 여부에 따른 경로 이탈률이 사당 IC방면 경로에서 평균 23%, 신림로 출구 방향에서 평균 33.5% 감소하는 효과를 확인했다고 설명했다.\nFIN 기술 전국 확대를 위해 모바일 네트워크 신호 정보를 자동으로 갱신하는 시스템도 구축했다.\n테스트 차량이 터널을 수차례 왕복하며 모바일 네트워크 신호데이터를 수집할 필요 없이 카카오내비 데이터를 활용해 각 터널의 LTE, 5G 신호 지도를 최신 버전으로 자동 갱신한다.\n새로운 터널이 개통되거나 네트워크 환경이 바뀌더라도 실시간으로 시스템에 반영할 수 있게 됐다.\n측위 정확도도 대폭 개선, GPS 음영지역에서의 측위 오차 범위를 FIN 미적용 시 대비 26% 수준으로 줄였다.\n카카오내비의 실시간 속도 예측을 위한 빅데이터 분석 모델도 딥러닝 기술을 바탕으로 업그레이드했다.\n신규 시스템 적용 이후 길안내 시간 오차가 기존 대비 평균 2~4% 감소하고, 특히 출퇴근 시간대에는 최대 9%까지도 오차가 감소하는 것으로 나타났다.\n전상훈 카카오모빌리티 위치및길안내플랫폼팀장은 \\\"산간 지형의 비중이 높고 터널과 지하차도가 많은 국내 도로 환경 특성상, FIN 기술 전국 확대는 카카오내비 이용자들의 편의성을 크게 높일 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오모빌리티가 카카오내비에 적용된 모바일 네트워크 신호 기반의 실내 측위 기술 'FIN'(Fused Indoor localizatioN)을 전국 터널과 지하차도로 확대 적용한다고 11일 밝혔다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "카카오모빌리티가 지난해 선보인 'FIN'은 5G, LTE와 같은 모바일 네트워크 신호를 활용해 사용자의 정확한 위치를 파악하는 기술이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "GPS 신호가 닿지 않는 터널이나 지하차도에서도 끊김 없이 정확한 길 안내를 제공할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 강남순환로 터널 3곳(관악터널, 봉천터널, 서초터널)에서 시범서비스를 시작한 이후 1년 만에 길이 500m 이상의 전국 터널과 지하차도 약 1300 곳으로 서비스 범위를 확대한다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "강남순환로에서는 FIN 시범 서비스 도입 이후 2개월간 FIN 기술 적용 여부에 따른 경로 이탈률이 사당 IC방면 경로에서 평균 23%, 신림로 출구 방향에서 평균 33.5% 감소하는 효과를 확인했다고 설명했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "FIN 기술 전국 확대를 위해 모바일 네트워크 신호 정보를 자동으로 갱신하는 시스템도 구축했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "테스트 차량이 터널을 수차례 왕복하며 모바일 네트워크 신호데이터를 수집할 필요 없이 카카오내비 데이터를 활용해 각 터널의 LTE, 5G 신호 지도를 최신 버전으로 자동 갱신한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "새로운 터널이 개통되거나 네트워크 환경이 바뀌더라도 실시간으로 시스템에 반영할 수 있게 됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "측위 정확도도 대폭 개선, GPS 음영지역에서의 측위 오차 범위를 FIN 미적용 시 대비 26% 수준으로 줄였다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "카카오내비의 실시간 속도 예측을 위한 빅데이터 분석 모델도 딥러닝 기술을 바탕으로 업그레이드했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "신규 시스템 적용 이후 길안내 시간 오차가 기존 대비 평균 2~4% 감소하고, 특히 출퇴근 시간대에는 최대 9%까지도 오차가 감소하는 것으로 나타났다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "전상훈 카카오모빌리티 위치및길안내플랫폼팀장은 \\\"산간 지형의 비중이 높고 터널과 지하차도가 많은 국내 도로 환경 특성상, FIN 기술 전국 확대는 카카오내비 이용자들의 편의성을 크게 높일 것\\\"이라고 말했다.",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "터널·지하차도에서 카카오내비 안 끊긴다…FIN 기술 확대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

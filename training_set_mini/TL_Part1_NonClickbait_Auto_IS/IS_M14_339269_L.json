@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339269",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW·보안",
+		"newsTitle": "아카마이, 사상 최대 트래픽 106Tbps 기록",
+		"newsSubTitle": "",
+		"newsContent": "인텔리전트 엣지 플랫폼 글로벌 기업 아카마이는 글로벌 콘텐츠 전송 네트워크(CDN)에서 지난 주 106Tbps로 새로운 최대 트래픽을 기록했다고 발표했다.\n전송된 데이터의 최대 규모가 100 Tbps를 넘은 것은 아카마이 20년 역사상 최초이다.\n초당 106 Tbps를 제공한다는 것은 매 초 마다 2시간 길이의 HD 영화 3,300편, 1시간 당으로는 약 1200만개의 영화를 다운로드하는 용량과 맞먹는 수준이다.\n이번 최대 트래픽은 동시다발적으로 전송된 엄청난 양의 콘텐츠 및 데이터와 함께, 한 인기 비디오 게임 업데이트로 인해 발생했다.\n아카마이 인텔리전트 엣지 플랫폼 내 트래픽은 2008년 처음으로 1Tbps를 돌파했으며 작년 말에는 증가하는 이커머스 활동과 함께 생방송 스포츠 중계, 게임 출시, 주요 소프트웨어 업데이트가 맞물려 70Tbps에 달한 바 있다.\n아카마이는 현재 전 세계 137개국에 분산된 25만 3천대의 엣지 서버로 구성된 ‘인텔리전트 엣지 플랫폼(Intelligent Edge Platform)’을 기반으로 매일 50Tbps 이상의 트래픽을 처리하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인텔리전트 엣지 플랫폼 글로벌 기업 아카마이는 글로벌 콘텐츠 전송 네트워크(CDN)에서 지난 주 106Tbps로 새로운 최대 트래픽을 기록했다고 발표했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전송된 데이터의 최대 규모가 100 Tbps를 넘은 것은 아카마이 20년 역사상 최초이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "초당 106 Tbps를 제공한다는 것은 매 초 마다 2시간 길이의 HD 영화 3,300편, 1시간 당으로는 약 1200만개의 영화를 다운로드하는 용량과 맞먹는 수준이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 최대 트래픽은 동시다발적으로 전송된 엄청난 양의 콘텐츠 및 데이터와 함께, 한 인기 비디오 게임 업데이트로 인해 발생했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아카마이 인텔리전트 엣지 플랫폼 내 트래픽은 2008년 처음으로 1Tbps를 돌파했으며 작년 말에는 증가하는 이커머스 활동과 함께 생방송 스포츠 중계, 게임 출시, 주요 소프트웨어 업데이트가 맞물려 70Tbps에 달한 바 있다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아카마이는 현재 전 세계 137개국에 분산된 25만 3천대의 엣지 서버로 구성된 ‘인텔리전트 엣지 플랫폼(Intelligent Edge Platform)’을 기반으로 매일 50Tbps 이상의 트래픽을 처리하고 있다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아카마이, 사상 최대 트래픽 106Tbps 기록",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

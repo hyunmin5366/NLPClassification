@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333753",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "타이달스케일, \\\"삼성·SK하이닉스는 단순 투자사 아닌 '협력'관계\\\"",
+		"newsSubTitle": "",
+		"newsContent": "타이달스케일이 국내 1금융권, 자동차 제조기업 등 레퍼런스를 바탕으로 올해 공공 연구기관 으로 판매처를 확대한다.\n삼성, SK하이닉스 등 전략 투자 기업과 협업도 늘린다.\n게리 스머든 타이달스케일 최고경영자(CEO)는 “삼성전자, SK하이닉스 등 거대 반도체 기업 때문에 첫 해외 사무소를 한국에 열었다”면서 “벤처캐피털 등 금융권 투자와 달리 제조 기업 투자는 협업이 바탕”이라고 말했다.\n타이달스케일은 삼성벤처투자, 시트릭스 등에서 초기투자 유치했다.\n지난해 SK하이닉스 등으로부터 2400만달러(272억원)시리즈B 규모 투자를 받았다.\n타이달스케일 '소프트웨어 정의 서버(Software-Defined Servers)'가 메모리서버 시장을 바꿀 것이라는 판단 때문이다.\n타이달스케일 SDS 기술은 머신러닝 기반 하이퍼커널을 이용해 단일 버추얼머신(VM)이 여러대 물리 서버를 하나로 묶는 역할을 한다.\n일반적으로 가상화가 단일 서버 위에 여러개 VM을 만드는 것과 반대 개념이다.\n이를 통해 고성능컴퓨팅(HPC)이나 데이터베이스(DB)와 같이 대규모 컴퓨팅 자원이 필요한 애플리케이션을 저렴한 비용으로 구동한다.\n스머든 CEO는 “사물인터넷(IoT)환경이 늘어나 데이터 증가속도는 지금보다 더 늘어날 것”이라면서 “이제는 데이터를 모으는 것뿐 아니라 어떻게 처리할 것인가를 고민하는 시점”이라고 설명했다.\n현재 데이터 분석 주류를 이루는 프로그램은 인프라 성능 등이 제한돼 대용량 데이터를 나눠 분석 후 다시 모은다.\n데이터 처리에 많은 시간, 비용이 투자 돼 비효율을 낳는다.\n거대한 컴퓨팅 자원으로 한 번에 처리하는 것이 필요하다.\n타이달스케일은 이를 소프트웨어(SW)로 구현해 초고성능 컴퓨터를 도입한 효과를 낸다.\n오라클 데이터베이스, SAP하나 등 해외뿐 아니라 국내 금융권, 자동차 제조 대기업 등 레퍼런스 확보에도 성공했다.\n국내 1금융권 A은행은 타이달스케일 SDS서버를 도입해 빅데이터 분석 시간을 줄였다.\n기존 8대가량 고성능 컴퓨팅 자원 대신 타이달 스케일 SDS서버 3대로 교체, 데이터 분석 시간을 대폭 줄였다.\n올해 중소사업자부터 국책연구기관 등 공공사업 확대를 기대한다.\n지난해부터 엣지컴퓨팅 등 메모리 중심 컴퓨팅 연구가 빠르게 진행되면서 메모리 성능을 하나로 묶는 타이달스케일 SDS서버도 덩달아 주목받는다.\n스머든 CEO는 “중소기업은 데이터분석 인프라 비용 문제로 데이터를 쌓아두고도 활용하지 못한다”면서 “타이달스케일은 저렴한 비용을 바탕으로 누구나 데이터에 접근가능하도록 만드는 것이 목표”라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "타이달스케일이 국내 1금융권, 자동차 제조기업 등 레퍼런스를 바탕으로 올해 공공 연구기관 으로 판매처를 확대한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성, SK하이닉스 등 전략 투자 기업과 협업도 늘린다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "게리 스머든 타이달스케일 최고경영자(CEO)는 “삼성전자, SK하이닉스 등 거대 반도체 기업 때문에 첫 해외 사무소를 한국에 열었다”면서 “벤처캐피털 등 금융권 투자와 달리 제조 기업 투자는 협업이 바탕”이라고 말했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "타이달스케일은 삼성벤처투자, 시트릭스 등에서 초기투자 유치했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 SK하이닉스 등으로부터 2400만달러(272억원)시리즈B 규모 투자를 받았다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "타이달스케일 '소프트웨어 정의 서버(Software-Defined Servers)'가 메모리서버 시장을 바꿀 것이라는 판단 때문이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "타이달스케일 SDS 기술은 머신러닝 기반 하이퍼커널을 이용해 단일 버추얼머신(VM)이 여러대 물리 서버를 하나로 묶는 역할을 한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "일반적으로 가상화가 단일 서버 위에 여러개 VM을 만드는 것과 반대 개념이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이를 통해 고성능컴퓨팅(HPC)이나 데이터베이스(DB)와 같이 대규모 컴퓨팅 자원이 필요한 애플리케이션을 저렴한 비용으로 구동한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "스머든 CEO는 “사물인터넷(IoT)환경이 늘어나 데이터 증가속도는 지금보다 더 늘어날 것”이라면서 “이제는 데이터를 모으는 것뿐 아니라 어떻게 처리할 것인가를 고민하는 시점”이라고 설명했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "현재 데이터 분석 주류를 이루는 프로그램은 인프라 성능 등이 제한돼 대용량 데이터를 나눠 분석 후 다시 모은다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "데이터 처리에 많은 시간, 비용이 투자 돼 비효율을 낳는다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "거대한 컴퓨팅 자원으로 한 번에 처리하는 것이 필요하다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "타이달스케일은 이를 소프트웨어(SW)로 구현해 초고성능 컴퓨터를 도입한 효과를 낸다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "오라클 데이터베이스, SAP하나 등 해외뿐 아니라 국내 금융권, 자동차 제조 대기업 등 레퍼런스 확보에도 성공했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "국내 1금융권 A은행은 타이달스케일 SDS서버를 도입해 빅데이터 분석 시간을 줄였다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "기존 8대가량 고성능 컴퓨팅 자원 대신 타이달 스케일 SDS서버 3대로 교체, 데이터 분석 시간을 대폭 줄였다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "올해 중소사업자부터 국책연구기관 등 공공사업 확대를 기대한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "지난해부터 엣지컴퓨팅 등 메모리 중심 컴퓨팅 연구가 빠르게 진행되면서 메모리 성능을 하나로 묶는 타이달스케일 SDS서버도 덩달아 주목받는다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "스머든 CEO는 “중소기업은 데이터분석 인프라 비용 문제로 데이터를 쌓아두고도 활용하지 못한다”면서 “타이달스케일은 저렴한 비용을 바탕으로 누구나 데이터에 접근가능하도록 만드는 것이 목표”라고 덧붙였다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "타이달스케일, \\\"삼성·SK하이닉스는 단순 투자사 아닌 '협력'관계\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

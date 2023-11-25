@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_035320",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "'케서방' 니콜라스 케이지… 한국계 아내와 이혼",
+		"newsSubTitle": "",
+		"newsContent": "한국계 아내와 결혼해 '케서방'으로 불리던 할리우드 배우 니컬라스 케이지(52)가 지난 1월 이혼한 사실이 뒤늦게 알려졌다.\n24일(현지시간) 로스앤젤레스 타임스에 따르면 지난 1월 케이지는 아내 앨리스 김(32)과 이혼했다.\n결혼 12년만이다.\n케이지는 지난 2004년 2월 앨리스 김과 결혼했다.\n그녀가 일하던 로스앤젤레스의 한 레스토랑에서 만났다.\n부부는 11살짜리 아들을 두고 있다.\n12년간 이어져온 결혼생활은 순탄치 않았다.\n실제로 최근에는 뉴욜리언스 거리에서 부부싸움을 하는 모습이 포착되기도 했다.\n케이지는 가정 폭력 혐의로 경찰에 체포됐다가 풀려났다.\n케이지의 파혼은 이번이 세번째다.\n배우 패트리샤 아퀘트, 엘비스 프레슬리의 딸 리사 마리 프레슬리와도 잇따라 이혼했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국계 아내와 결혼해 '케서방'으로 불리던 할리우드 배우 니컬라스 케이지(52)가 지난 1월 이혼한 사실이 뒤늦게 알려졌다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "24일(현지시간) 로스앤젤레스 타임스에 따르면 지난 1월 케이지는 아내 앨리스 김(32)과 이혼했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "결혼 12년만이다.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "케이지는 지난 2004년 2월 앨리스 김과 결혼했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그녀가 일하던 로스앤젤레스의 한 레스토랑에서 만났다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "부부는 11살짜리 아들을 두고 있다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "12년간 이어져온 결혼생활은 순탄치 않았다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "실제로 최근에는 뉴욜리언스 거리에서 부부싸움을 하는 모습이 포착되기도 했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "케이지는 가정 폭력 혐의로 경찰에 체포됐다가 풀려났다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "케이지의 파혼은 이번이 세번째다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "배우 패트리샤 아퀘트, 엘비스 프레슬리의 딸 리사 마리 프레슬리와도 잇따라 이혼했다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"가르침질만…\\\" 선배 비난했던 조석, 논란 일자 올린 글",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

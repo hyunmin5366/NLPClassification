@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348776",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "인터넷쇼핑 옷 촉감…AI가 만져보고 알려준다",
+		"newsSubTitle": "null",
+		"newsContent": "같은 옷감을 만지고도 한 사람은 부드럽다고, 또 한 사람은 거칠다고 반응할 수 있다.\n이렇게 사람마다 다른 촉감을 구분하고, 전달해주는 아바타 기술이 개발됐다.\n한국연구재단은 대구경북과학기술원(DGIST) 장재은, 최지웅, 문제일 교수 연구팀이 접촉한 물체의 표면 정보를 읽어낼 수 있는 다기능 촉각센서를 개발하고, 이를 인공지능(AI) 머신러닝 기능과 융합해 사용자별로 갖고 있는 고유의 촉각 감성을 모사할 수 있는 아바타 기술을 구현했다고 17일 밝혔다.\n이번 연구성과는 의수, 로봇팔 등에 활용되는 촉각센서의 물리적 성능을 높이는데 초점을 맞췄던 기존 연구와 달리 사람이 실제로 느끼는 정신감각적인 자극을 구분한다는데 의미가 있다.\nDGIST 연구팀은 손가락 한 마디 크기의 인공 촉각 센서를 배열하고 물체와 거칠기, 온도와 단단함, 형태 등을 감지하도록 한 뒤 옷감 표면의 물리적 특성을 파악하게 했다.\n이후 센서를 통해 얻은 촉각신호에 인공지능 기술을 접목시켜 개인별 촉감 히스토그램과 매핑될 수 있도록 학습시켰다.\n사용자가 옷감을 만지고 부드럽다고 반응을 보였을 경우, 센서도 부드럽다고 판단하게 한 것이다.\n연구팀에 따르면 아바타와 마스터(사용자)의 판단 일치율은 학습된 물체에 대해서는 98% 이상의 감성 일치율을 기록했고, 학습되지 않은 새로운 물체에 대해서는 최대 91%의 감성 일치율을 보였다.\n연구팀은 \\\"이 기술은 향후 휴먼-스템 인터페이스에서 감성전달의 실마리가 될 수 있을 것\\\"이라며 \\\"전자상거래 등에서 구매자 대신 구매하려는 옷의 재질과 개인적 호불호를 판단하는 등 가상공간의 촉감을 대신할 수 있을 것으로 기대된다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "같은 옷감을 만지고도 한 사람은 부드럽다고, 또 한 사람은 거칠다고 반응할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이렇게 사람마다 다른 촉감을 구분하고, 전달해주는 아바타 기술이 개발됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국연구재단은 대구경북과학기술원(DGIST) 장재은, 최지웅, 문제일 교수 연구팀이 접촉한 물체의 표면 정보를 읽어낼 수 있는 다기능 촉각센서를 개발하고, 이를 인공지능(AI) 머신러닝 기능과 융합해 사용자별로 갖고 있는 고유의 촉각 감성을 모사할 수 있는 아바타 기술을 구현했다고 17일 밝혔다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 연구성과는 의수, 로봇팔 등에 활용되는 촉각센서의 물리적 성능을 높이는데 초점을 맞췄던 기존 연구와 달리 사람이 실제로 느끼는 정신감각적인 자극을 구분한다는데 의미가 있다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "DGIST 연구팀은 손가락 한 마디 크기의 인공 촉각 센서를 배열하고 물체와 거칠기, 온도와 단단함, 형태 등을 감지하도록 한 뒤 옷감 표면의 물리적 특성을 파악하게 했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 센서를 통해 얻은 촉각신호에 인공지능 기술을 접목시켜 개인별 촉감 히스토그램과 매핑될 수 있도록 학습시켰다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사용자가 옷감을 만지고 부드럽다고 반응을 보였을 경우, 센서도 부드럽다고 판단하게 한 것이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구팀에 따르면 아바타와 마스터(사용자)의 판단 일치율은 학습된 물체에 대해서는 98% 이상의 감성 일치율을 기록했고, 학습되지 않은 새로운 물체에 대해서는 최대 91%의 감성 일치율을 보였다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "연구팀은 \\\"이 기술은 향후 휴먼-스템 인터페이스에서 감성전달의 실마리가 될 수 있을 것\\\"이라며 \\\"전자상거래 등에서 구매자 대신 구매하려는 옷의 재질과 개인적 호불호를 판단하는 등 가상공간의 촉감을 대신할 수 있을 것으로 기대된다\\\"고 밝혔다.",
+				"sentenceSize": 138
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인터넷쇼핑 옷 촉감…AI가 만져보고 알려준다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

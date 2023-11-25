@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330776",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "캐피탈 원, 해킹으로 1억명 개인정보 유출...\\\"해킹처리 비용만 '1772억원' 달할 것\\\"",
+		"newsSubTitle": "",
+		"newsContent": "미국 금융기업 캐피탈 원이 고객 개인정보 1억명 이상 이름, 주소, 전화번호 등이 해커에 노출됐다.\n캐피탈 원은 자사 홈페이지 '데이터 보안 사고' 공지를 통해 캐피탈 원 특정상품, 카드 고객 등 1억 명 이상의 개인정보를 획득한 외부 침입이 있었다고 밝혔다.\n범인은 전 소프트웨어 엔지니어로 캐피탈 원이 이용하는 클라우드 호스팅 기업에서 근무했다.\n방화벽 취약점을 통해 침투했으며 현재 취약점은 수정됐다.\n캐피탈 원은 “현재 해당 침입을 시도한 범인이 FBI에 체포, 구금됐으며 자체 조사결과 개인정보다 범죄에 악용되거나 외부로 누출됐을 가능성은 낮다”면서 “신용카드 번호는 누출되지 않았지만 이들 조사는 지속 할 계획”이라고 밝혔다.\n현재까지 미국과 캐나다 각각 1억 명과 600만 명 개인이 영향 받은 것으로 분석된다.\n다만 신용카드 계좌번호, 로그인 자격증명서, 사회보장번호는 손상되지 않았다고 밝혔다.\n캐피탈 원은 이번 사건으로 피해 입은 개인에게 통지와 무료 신용 감시, 신분 보호를 제공할 계획이다.\n해킹으로 인한 고객 통보, 신용 감시, 기술, 법률지원 등 해킹 관련 비용은 1억~1억 5000만 달러에 이를 것으로 예상한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 금융기업 캐피탈 원이 고객 개인정보 1억명 이상 이름, 주소, 전화번호 등이 해커에 노출됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "캐피탈 원은 자사 홈페이지 '데이터 보안 사고' 공지를 통해 캐피탈 원 특정상품, 카드 고객 등 1억 명 이상의 개인정보를 획득한 외부 침입이 있었다고 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "범인은 전 소프트웨어 엔지니어로 캐피탈 원이 이용하는 클라우드 호스팅 기업에서 근무했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "방화벽 취약점을 통해 침투했으며 현재 취약점은 수정됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "캐피탈 원은 “현재 해당 침입을 시도한 범인이 FBI에 체포, 구금됐으며 자체 조사결과 개인정보다 범죄에 악용되거나 외부로 누출됐을 가능성은 낮다”면서 “신용카드 번호는 누출되지 않았지만 이들 조사는 지속 할 계획”이라고 밝혔다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재까지 미국과 캐나다 각각 1억 명과 600만 명 개인이 영향 받은 것으로 분석된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다만 신용카드 계좌번호, 로그인 자격증명서, 사회보장번호는 손상되지 않았다고 밝혔다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "캐피탈 원은 이번 사건으로 피해 입은 개인에게 통지와 무료 신용 감시, 신분 보호를 제공할 계획이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해킹으로 인한 고객 통보, 신용 감시, 기술, 법률지원 등 해킹 관련 비용은 1억~1억 5000만 달러에 이를 것으로 예상한다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "캐피탈 원, 해킹으로 1억명 개인정보 유출...\\\"해킹처리 비용만 '1772억원' 달할 것\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

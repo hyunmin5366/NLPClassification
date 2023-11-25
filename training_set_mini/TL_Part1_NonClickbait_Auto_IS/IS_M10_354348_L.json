@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354348",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "\\\"잘 못 들어도 괜찮아\\\"...애플, 통화 중 실시간 자막 지원한다",
+		"newsSubTitle": "null",
+		"newsContent": "애플이 청각 장애인과 난청 환자들을 위해 아이폰에 실시간 자막 기능을 도입한다.\n애플은 아이폰과 아이패드, 맥 컴퓨터에서 동영상을 볼 때 실시간으로 자막을 제공하는 기능을 올 하반기 중 도입한다고 18일 밝혔다.\n이 기능은 동영상 스트리밍 서비스나 애플 이용자 간 화상통화인 페이스타임, 화상회의 애플리케이션을 이용할 때 화면 하단에 대화나 발언이 자막으로 뜨는 것이다.\n가독성을 높이기 위해 서체 크기를 조절할 수도 있다.\n애플 측은 \\\"이 기능이 청각 장애가 있거나 혹은 볼륨을 끈 채로 동영상을 보려는 사람에게 유용할 것\\\"이라고 설명했다.\n애플은 또 저시력자나 시각 장애인들이 낯선 장소에서 이용할 수 있는 '도어 감지(Door Detection)' 기능도 아이폰과 아이패드에 도입한다.\n최상급 모델인 아이폰 프로와 아이패드 프로에 탑재된 라이다(레이저를 이용한 레이다)와 카메라, 머신러닝 등을 결합해 구현했다.\n도어 감지 기능은 문이 열렸는지, 닫혔는지는 물론 이를 열려면 당겨야 하는지, 밀어야 하는지, 혹은 손잡이를 돌려야 하는지를 설명해 준다.\n또 이용자가 문에서 얼마나 떨어져 있는지 거리를 알려주고, 문에 표시된 방 번호나 상점명, 장애인 출입구 표지판 등도 읽을 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 청각 장애인과 난청 환자들을 위해 아이폰에 실시간 자막 기능을 도입한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애플은 아이폰과 아이패드, 맥 컴퓨터에서 동영상을 볼 때 실시간으로 자막을 제공하는 기능을 올 하반기 중 도입한다고 18일 밝혔다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 기능은 동영상 스트리밍 서비스나 애플 이용자 간 화상통화인 페이스타임, 화상회의 애플리케이션을 이용할 때 화면 하단에 대화나 발언이 자막으로 뜨는 것이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가독성을 높이기 위해 서체 크기를 조절할 수도 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플 측은 \\\"이 기능이 청각 장애가 있거나 혹은 볼륨을 끈 채로 동영상을 보려는 사람에게 유용할 것\\\"이라고 설명했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "애플은 또 저시력자나 시각 장애인들이 낯선 장소에서 이용할 수 있는 '도어 감지(Door Detection)' 기능도 아이폰과 아이패드에 도입한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최상급 모델인 아이폰 프로와 아이패드 프로에 탑재된 라이다(레이저를 이용한 레이다)와 카메라, 머신러닝 등을 결합해 구현했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "도어 감지 기능은 문이 열렸는지, 닫혔는지는 물론 이를 열려면 당겨야 하는지, 밀어야 하는지, 혹은 손잡이를 돌려야 하는지를 설명해 준다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 이용자가 문에서 얼마나 떨어져 있는지 거리를 알려주고, 문에 표시된 방 번호나 상점명, 장애인 출입구 표지판 등도 읽을 수 있다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"잘 못 들어도 괜찮아\\\"...애플, 통화 중 실시간 자막 지원한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

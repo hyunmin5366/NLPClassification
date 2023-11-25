@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347100",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "LGU+, FDS, DR센터 구축 완료…페이나우 더 안전하게",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스가 간편결제서비스 ‘페이나우’에 적합하도록 고도화된 부정거래 탐지시스템(FDS)과 재해복구센터(DR센터) 구축을 완료했다고 28일 밝혔다.\n이로 인해 이용자들이 더욱 안전하고 안정적인 간편결제 서비스를 이용할 수 있을 것으로 기대했다. ‘페이나우’는 그동안 전자결제서비스(PG)에 적용되어 있는 리스크관리시스템(RMS)을 활용해 FDS 기능을 제공해왔다.\n지난 1일부터 'FDS 2.0' 구축을 완료하고 적용했다. ‘FDS 2.0’은 회원제 기반으로 제공되는 간편결제 서비스에서 일어날 수 있는 △인증오류 △비정상 단말기를 통한 결제시도 △동일 이용자의 과다 결제 △동일 신용카드/계좌의 과다 결제 △결제카드 등록오류 패턴 △결제 결과 메시지 분석 등의 다양한 시나리오가 빠짐없이 반영됐다.\n이에 따라 불법적으로 타인 명의를 도용해 페이나우에서 결제를 시도할 경우, 사전에 설정된 위험 항목 감지 시나리오로 이를 탐지해 즉시 위험 단계별 대응 조치가 자동으로 가동된다. 'FDS 2.0'은 불법 가맹점으로부터 이용자를 안전하게 보호한다.\n가맹점의 과거 거래 실적과 비정상적 판매량 급증과 급감을 분석, '사기 쇼핑몰'로 의심될 경우 결제 대금 정산 지급을 중지해 이용자를 보호한다.\nLG유플러스는 ‘FDS 2.0’ 적용과 DR센터도 구축 완료했다.\n서울과 경기지역에 위치한 DR센터에 동일한 운영시스템을 구축했다. ‘페이나우’를 포함한 전자결제서비스 전체에 적용된다.\n서울 지역에 정전, 지진 같은 심각한 자연 재해나 비상 상황이 발생돼 '페이나우' 등 결제 시스템이 정상 작동하지 않으면 즉시 경기 DR센터에서 시스템이 가동되어 끊김 없는 안정적인 서비스 제공이 가능하다.\n정숙경 LG유플러스 전자결제사업팀장은 \\\"페이나우 서비스에 FDS 2.0 및 DR센터를 구축하고 적용해 언제 어디서든 발생할 수 있는 '위험'을 최소화해 이용자들에게 간편결제에 대한 신뢰도를 높일 수 있게 됐다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스가 간편결제서비스 ‘페이나우’에 적합하도록 고도화된 부정거래 탐지시스템(FDS)과 재해복구센터(DR센터) 구축을 완료했다고 28일 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이로 인해 이용자들이 더욱 안전하고 안정적인 간편결제 서비스를 이용할 수 있을 것으로 기대했다. ‘페이나우’는 그동안 전자결제서비스(PG)에 적용되어 있는 리스크관리시스템(RMS)을 활용해 FDS 기능을 제공해왔다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 1일부터 'FDS 2.0' 구축을 완료하고 적용했다. ‘FDS 2.0’은 회원제 기반으로 제공되는 간편결제 서비스에서 일어날 수 있는 △인증오류 △비정상 단말기를 통한 결제시도 △동일 이용자의 과다 결제 △동일 신용카드/계좌의 과다 결제 △결제카드 등록오류 패턴 △결제 결과 메시지 분석 등의 다양한 시나리오가 빠짐없이 반영됐다.",
+				"sentenceSize": 187
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 불법적으로 타인 명의를 도용해 페이나우에서 결제를 시도할 경우, 사전에 설정된 위험 항목 감지 시나리오로 이를 탐지해 즉시 위험 단계별 대응 조치가 자동으로 가동된다. 'FDS 2.0'은 불법 가맹점으로부터 이용자를 안전하게 보호한다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가맹점의 과거 거래 실적과 비정상적 판매량 급증과 급감을 분석, '사기 쇼핑몰'로 의심될 경우 결제 대금 정산 지급을 중지해 이용자를 보호한다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LG유플러스는 ‘FDS 2.0’ 적용과 DR센터도 구축 완료했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서울과 경기지역에 위치한 DR센터에 동일한 운영시스템을 구축했다. ‘페이나우’를 포함한 전자결제서비스 전체에 적용된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서울 지역에 정전, 지진 같은 심각한 자연 재해나 비상 상황이 발생돼 '페이나우' 등 결제 시스템이 정상 작동하지 않으면 즉시 경기 DR센터에서 시스템이 가동되어 끊김 없는 안정적인 서비스 제공이 가능하다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "정숙경 LG유플러스 전자결제사업팀장은 \\\"페이나우 서비스에 FDS 2.0 및 DR센터를 구축하고 적용해 언제 어디서든 발생할 수 있는 '위험'을 최소화해 이용자들에게 간편결제에 대한 신뢰도를 높일 수 있게 됐다\\\"고 말했다.",
+				"sentenceSize": 125
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LGU+, FDS, DR센터 구축 완료…페이나우 더 안전하게",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

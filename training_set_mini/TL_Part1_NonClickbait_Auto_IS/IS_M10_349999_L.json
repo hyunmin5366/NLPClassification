@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349999",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "한컴인스페이스, 드론으로 골프장 관리한다",
+		"newsSubTitle": "null",
+		"newsContent": "한글과컴퓨터(한컴) 계열 우주·드론기업인 한컴인스페이스는 유에프오에스트로넛(UFO Astronaut)과 드론 활용 골프장 코스 관리를 시작한다고 18일 밝혔다.\n양사는 이날 골프 코스 관리 솔루션 고도화와 서비스 영역 확대를 위한 업무 협약을 체결했다.\n국내외 골프장의 잔디·시설물 등 코스 관리는 전문 인력에 의존한다.\n하지만 최근 일본에서 드론과 사물인터넷(IoT) 등 정보통신기술(ICT) 을 골프장 관리에 활용하는 사례가 늘면서 국내에서도 도입하는 추세다.\nUFO에스트로넛은 인공지능(AI) 기반 드론 데이터 분석·서비스 기업으로 주식회사 블루원과 다년간 분석해 온 잔디 데이터를 기반으로 지능형 골프장 코스 관리 솔루션을 공급하고 있다.\n최근에는 하나금융그룹의 두레시닝과 데이터 시각화를 통한 시설물·경기장 진단과 잔디 분석 서비스를 제공한다.\n최명진 한컴인스페이스 대표는 \\\"드론 활용 민간 시장은 아직 초기 단계로 농수산업, 인프라 관리, 물류 등 다양한 분야로 확장성이 매우 높다\\\"며 \\\"산학연이나 스타트업 협력 등을 통해서 국내 드론 산업 생태계 조성과 시장 확대에 앞장서겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한글과컴퓨터(한컴) 계열 우주·드론기업인 한컴인스페이스는 유에프오에스트로넛(UFO Astronaut)과 드론 활용 골프장 코스 관리를 시작한다고 18일 밝혔다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양사는 이날 골프 코스 관리 솔루션 고도화와 서비스 영역 확대를 위한 업무 협약을 체결했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내외 골프장의 잔디·시설물 등 코스 관리는 전문 인력에 의존한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 최근 일본에서 드론과 사물인터넷(IoT) 등 정보통신기술(ICT) 을 골프장 관리에 활용하는 사례가 늘면서 국내에서도 도입하는 추세다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "UFO에스트로넛은 인공지능(AI) 기반 드론 데이터 분석·서비스 기업으로 주식회사 블루원과 다년간 분석해 온 잔디 데이터를 기반으로 지능형 골프장 코스 관리 솔루션을 공급하고 있다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근에는 하나금융그룹의 두레시닝과 데이터 시각화를 통한 시설물·경기장 진단과 잔디 분석 서비스를 제공한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최명진 한컴인스페이스 대표는 \\\"드론 활용 민간 시장은 아직 초기 단계로 농수산업, 인프라 관리, 물류 등 다양한 분야로 확장성이 매우 높다\\\"며 \\\"산학연이나 스타트업 협력 등을 통해서 국내 드론 산업 생태계 조성과 시장 확대에 앞장서겠다\\\"고 밝혔다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한컴인스페이스, 드론으로 골프장 관리한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

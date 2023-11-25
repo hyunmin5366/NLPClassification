@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324647",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "'D-1 누리호' 발사대로 이송 시작… 오전 중 기립",
+		"newsSubTitle": "",
+		"newsContent": "16일 발사를 앞둔 한국형발사체 누리호가 발사대로 이동을 시작했다.\n과학기술정보통신부와 한국항공우주연구원은 15일 오전 7시 20분 누리호를 전남 고흥 나로우주센터 제2발사대로 이송을 시작했다고 밝혔다.\n누리호는 무인특수이동차량(트랜스포터)에 실려 나로우주센터 내 발사체종합조립동에서 제2발사대까지 약 1시간에 걸쳐 이송될 예정이다.\n누리호는 발사대 도착 이후부터 기립 준비과정을 거쳐 오전 중에 발사대에 기립하게 된다.\n이날 오후에는 누리호에 전원 및 추진제(연료, 산화제) 등을 충전하기 위한 엄빌리칼 연결 및 기밀점검 등 발사 준비 작업이 수행될 예정이다.\n누리호는 발사대 이송과정과 기립 과정에서 특별한 이상이 발생하지 않는 한 오후 7시 이전에 모든 작업이 종료될 전망이다.\n발사 준비를 마치면 과기정통부는 발사관리위원회를 열고 누리호 추진제 충전 여부를 결정한다.\n또 기술적 준비상황과 발사 당일인 16일 기상 변수 및 우주물체와 총돌 가능성 등을 종합적으로 검토해 누리호 최종 발사 시각을 결정할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "16일 발사를 앞둔 한국형발사체 누리호가 발사대로 이동을 시작했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과학기술정보통신부와 한국항공우주연구원은 15일 오전 7시 20분 누리호를 전남 고흥 나로우주센터 제2발사대로 이송을 시작했다고 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "누리호는 무인특수이동차량(트랜스포터)에 실려 나로우주센터 내 발사체종합조립동에서 제2발사대까지 약 1시간에 걸쳐 이송될 예정이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누리호는 발사대 도착 이후부터 기립 준비과정을 거쳐 오전 중에 발사대에 기립하게 된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 오후에는 누리호에 전원 및 추진제(연료, 산화제) 등을 충전하기 위한 엄빌리칼 연결 및 기밀점검 등 발사 준비 작업이 수행될 예정이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "누리호는 발사대 이송과정과 기립 과정에서 특별한 이상이 발생하지 않는 한 오후 7시 이전에 모든 작업이 종료될 전망이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "발사 준비를 마치면 과기정통부는 발사관리위원회를 열고 누리호 추진제 충전 여부를 결정한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 기술적 준비상황과 발사 당일인 16일 기상 변수 및 우주물체와 총돌 가능성 등을 종합적으로 검토해 누리호 최종 발사 시각을 결정할 예정이다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'D-1 누리호' 발사대로 이송 시작… 오전 중 기립",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

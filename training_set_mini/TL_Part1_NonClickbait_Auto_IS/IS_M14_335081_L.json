@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335081",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "이통 3사, 하이브리드 양자암호화장비 국정원 인증 추진",
+		"newsSubTitle": "",
+		"newsContent": "이동통신 3사가 양자암호통신망 구축용 하이브리드 암호화장비(Encryptor)에 대해 국정원 암호모듈검증(KCMVP) 인증 획득을 추진한다.\n양자암호통신 장비 관련 표준 및 인증 가이드라인이 정립되지 않았지만 양자암호기술과 기존 암호체계를 결합해 신뢰성을 선제적으로 강화하겠다는 의도다.\n공공시장 공략도 가속화할 전망이다.\nKT와 LG유플러스는 지난달 국정원 산하 국가보안연구소에 하이브리드 암호화장비 인증 신청 자료를 제출했다.\nSK텔레콤은 이달 중 자료를 제출한다.\nSK텔레콤은 앞서 국내 최초로 양자암호통신망 구축에 활용되는 암호화장비에 대한 KCMVP 인증을 획득한 바 있다.<본지 1월 18일자 4면> KT와 LG유플러스는 전송장비제조사인 코위버, SK텔레콤은 우리넷과 각각 인증을 추진했다.\n이통 3사는 오는 연말까지 KCMVP 인증 획득을 목표로 한다.\n하이브리드 기반 암호화장비는 SK텔레콤과 KT의 양자키분배기(QKD), LG유플러스의 양자내성암호(PQC) 알고리즘에 공개키 방식인 타원곡선방식(ECDHE) 알고리즘을 결합했다.\n두 방식이 동시에 작동해, 특정 체계가 무용화돼도 다른 암호체계가 작동한다.\n보안성이 강화된 것이 핵심이다.\n양자암호가 데이터 암호화와 복호화에 동일한 키를 주입하는 대칭 방식을 사용하는 것과 달리 공개키 방식은 암호화에는 공개 키, 복호화에는 개인 키를 주입하는 비대칭 방식을 사용한다.\n국정원과 한국지능정보사회진흥원(NIA)은 이통 3사에 하이브리드 암호화장비를 개발하고 디지털뉴딜 현장에 적용할 것을 요구한 바 있다.\n이통사 관계자는 “내년으로 예정된 양자암호통신 장비 인증 가이드라인 수립에 앞서 선제적으로 인증을 추진한다”며 “공공기관 시장 확대를 위해 사전 준비를 강화하고 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이동통신 3사가 양자암호통신망 구축용 하이브리드 암호화장비(Encryptor)에 대해 국정원 암호모듈검증(KCMVP) 인증 획득을 추진한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양자암호통신 장비 관련 표준 및 인증 가이드라인이 정립되지 않았지만 양자암호기술과 기존 암호체계를 결합해 신뢰성을 선제적으로 강화하겠다는 의도다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공공시장 공략도 가속화할 전망이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KT와 LG유플러스는 지난달 국정원 산하 국가보안연구소에 하이브리드 암호화장비 인증 신청 자료를 제출했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SK텔레콤은 이달 중 자료를 제출한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SK텔레콤은 앞서 국내 최초로 양자암호통신망 구축에 활용되는 암호화장비에 대한 KCMVP 인증을 획득한 바 있다.<본지 1월 18일자 4면> KT와 LG유플러스는 전송장비제조사인 코위버, SK텔레콤은 우리넷과 각각 인증을 추진했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이통 3사는 오는 연말까지 KCMVP 인증 획득을 목표로 한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하이브리드 기반 암호화장비는 SK텔레콤과 KT의 양자키분배기(QKD), LG유플러스의 양자내성암호(PQC) 알고리즘에 공개키 방식인 타원곡선방식(ECDHE) 알고리즘을 결합했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "두 방식이 동시에 작동해, 특정 체계가 무용화돼도 다른 암호체계가 작동한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "보안성이 강화된 것이 핵심이다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "양자암호가 데이터 암호화와 복호화에 동일한 키를 주입하는 대칭 방식을 사용하는 것과 달리 공개키 방식은 암호화에는 공개 키, 복호화에는 개인 키를 주입하는 비대칭 방식을 사용한다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "국정원과 한국지능정보사회진흥원(NIA)은 이통 3사에 하이브리드 암호화장비를 개발하고 디지털뉴딜 현장에 적용할 것을 요구한 바 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이통사 관계자는 “내년으로 예정된 양자암호통신 장비 인증 가이드라인 수립에 앞서 선제적으로 인증을 추진한다”며 “공공기관 시장 확대를 위해 사전 준비를 강화하고 있다”고 말했다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이통 3사, 하이브리드 양자암호화장비 국정원 인증 추진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

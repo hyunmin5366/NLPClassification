@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331902",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[소프트웨이브 2020] “OTP 기반 강력한 보안 인증” 누리아이티 바로솔루션",
+		"newsSubTitle": "",
+		"newsContent": "BaroPAM 솔루션은 일회용 비밀번호(OTP)를 기반으로 하는 접근제어 인증 솔루션이다.\n정보자산의 다양한 운영체계(OS)에 대응하는 2차 인증으로 OTP를 접목시켰다.\n중앙 집중적 인증 메커니즘을 지원하는 1세대 인증서버 방식이 아닌 2세대 소프트웨어 방식이다.\n보안성이 강하며, 단순하고, 관리도 필요 없고, 장애도 없고, 손쉽게 적용할 수 있다.\n솔루션을 도입할 때 별도 서버나 DB 같은 추가 도입이 필요 없는 정보자산의 접근제어 인증 솔루이다.\n2차 인증(추가 인증)으로 정보자산 접근 보안을 강화하고 스마트폰 앱을 이용해 인증이 간단하며 쉽게 사용할 수 있다.\n아이디·비밀번호 기반 인증은 기념일, 생일, 전화번호 등 추측 가능한 비밀번호가 사용된다.\n비밀번호만으로는 안전하지 않아 매번 사용할 때마다 비밀번호를 대체 또는 2차 인증(추가 인증)하는 일회용 인증키가 필요하다.\nBaroCARD 솔루션은 지문인식·OTP 기반 인증카드 솔루션이다.\n지문정보를 플라스틱 카드에 등록한 후 등록된 지문정보를 인식하면 일회용 비밀번호(OTP)를 생성한다.\n기존 OTP와 달리 발급 시 인증서버에 지문정보를 저장하는 절차가 필요 없다.\n지문정보를 직접 카드에 등록하므로 지문정보가 유출될 우려가 없다.\n사용할 때 마다 지문인식을 하고 랜덤하게 부여 받은 OTP 번호로 정보자산에 접속해 본인인증을 하면 된다.\n보안이 한층 강화된 지문인식·RFID 기반 보안카드는 카드 리더에서 발생하는 유도전류를 이용한 무배터리·무충전 방식이다.\n카드를 분실되거나 불법 사용되는 위험을 없앴다.\n누리아이티 관계자는 “지문을 카드에 직접 등록하는 방식을 적용해 카드 편리함과 생체인증을 통한 보안성을 강화한 제품을 선보였다”면서 “공공, 국방, 금융, 신용·체크카드, 사원증, 출입증,보안카드 등 다양한 분야로 확대해 나갈 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "BaroPAM 솔루션은 일회용 비밀번호(OTP)를 기반으로 하는 접근제어 인증 솔루션이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정보자산의 다양한 운영체계(OS)에 대응하는 2차 인증으로 OTP를 접목시켰다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "중앙 집중적 인증 메커니즘을 지원하는 1세대 인증서버 방식이 아닌 2세대 소프트웨어 방식이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보안성이 강하며, 단순하고, 관리도 필요 없고, 장애도 없고, 손쉽게 적용할 수 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "솔루션을 도입할 때 별도 서버나 DB 같은 추가 도입이 필요 없는 정보자산의 접근제어 인증 솔루이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2차 인증(추가 인증)으로 정보자산 접근 보안을 강화하고 스마트폰 앱을 이용해 인증이 간단하며 쉽게 사용할 수 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아이디·비밀번호 기반 인증은 기념일, 생일, 전화번호 등 추측 가능한 비밀번호가 사용된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "비밀번호만으로는 안전하지 않아 매번 사용할 때마다 비밀번호를 대체 또는 2차 인증(추가 인증)하는 일회용 인증키가 필요하다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "BaroCARD 솔루션은 지문인식·OTP 기반 인증카드 솔루션이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "지문정보를 플라스틱 카드에 등록한 후 등록된 지문정보를 인식하면 일회용 비밀번호(OTP)를 생성한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "기존 OTP와 달리 발급 시 인증서버에 지문정보를 저장하는 절차가 필요 없다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "지문정보를 직접 카드에 등록하므로 지문정보가 유출될 우려가 없다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "사용할 때 마다 지문인식을 하고 랜덤하게 부여 받은 OTP 번호로 정보자산에 접속해 본인인증을 하면 된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "보안이 한층 강화된 지문인식·RFID 기반 보안카드는 카드 리더에서 발생하는 유도전류를 이용한 무배터리·무충전 방식이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "카드를 분실되거나 불법 사용되는 위험을 없앴다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "누리아이티 관계자는 “지문을 카드에 직접 등록하는 방식을 적용해 카드 편리함과 생체인증을 통한 보안성을 강화한 제품을 선보였다”면서 “공공, 국방, 금융, 신용·체크카드, 사원증, 출입증,보안카드 등 다양한 분야로 확대해 나갈 것”이라고 말했다.",
+				"sentenceSize": 137
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[소프트웨이브 2020] “OTP 기반 강력한 보안 인증” 누리아이티 바로솔루션",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

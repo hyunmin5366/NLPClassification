@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327053",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "유튜브 이용한 랜섬웨어 기승...영상, MP3 내려받다 악성코드 감염",
+		"newsSubTitle": "",
+		"newsContent": "유튜브 이용 시 변종 랜섬웨어가 감염 우려가 제시됐다.\n음원파일(MP3) 다운로드, 동영상 변환, 광고팝업 등 이용 시 주의가 요구된다.\n변종 랜섬웨어에 감염되면 복구가 불가능하다.\n체크멀은 유튜브 동영상 무료 비디오 컨버터(Converter) 서비스에서 매그니버(Magniber) 랜섬웨어 유포가 탐지됐다고 5일 밝혔다.\n컨버터 서비스는 비디오 URL 주소를 입력해 원하는 포맷으로 파일변환을 지원한다.\n변환된 동영상 파일은 다운로드 시점에 자동 취약점 코드가 포함된 페이지로 연결한다.\n보안패치가 이뤄지지 않은 PC는 랜섬웨어에 감염된다.\n매그니버 랜섬웨어는 이전 발견된 형태와 다른 변종이다.\nURL 주소 입력 후 파일 변환까지 악의적 행위가 발생하지 않아 랜섬웨어에 노출된지 알기 어렵다.\n체크멀 관계자는 \\\"자동 연결된 취약점 페이지에는 악의적 VB스크립트 코드가 난독화 형태로 포함됐다\\\"면서 \\\"보안 패치가 이뤄지지 않은 윈도7 운용체계 환경에서 인터넷 익스플로러 웹 브로우저로 접속하면 감염 가능성이 높다\\\"고 말했다.\n유튜브 영상, 음원 등 다운로드 등 경로를 이용한 랜섬웨어 유포는 지난해부터 기승을 부린다.\n지난해 8월 안랩은 유튜브 콘텐츠 다운로드 중 광고시청으로 '케르베르(Cerber)' 랜섬웨어에 감염된다고 경고했다.\n사용자가 파일 변환을 위해 사이트에 접속한 후 광고를 클릭하면 광고 팝업창이 뜬다.\n보안이 취약한 PC는 '드라이브 바이 다운로드' 방식으로 광고를 클릭한 것만으로 랜섬웨어에 감염된다.\n1월에는 유튜브 이용자 대상 매그니버 랜섬웨어가 발견됐다.\n해외에서 서비스하는 MP3 파일 추출 사이트를 이용해 파일 변환 버튼을 클릭하면 보안 패치가 안 된 PC는 랜섬웨어에 걸린다.\n전문가는 최근 유튜브 이용자 대상 변종 랜섬웨어가 지속 발생하는 만큼 사용자 주의가 요구된다고 강조했다.\n지난해 발생한 케르베르, 매그니버 등 랜섬웨어는 코드를 암호화해 단순 백신프로그램에서 해당 랜섬웨어를 발견하지 못하게 한다.\n업계 관계자는 \\\"랜섬웨어는 매번 변종형태로 발생하며 웹, 플래시, 인터넷 익스플로러 등 취약점을 노리고 침투한다\\\"면서 \\\"항상 윈도 최신 업데이트로 랜섬웨어 감염을 예방하고 정상경로를 벗어난 해외사이트 이용에 주의해야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유튜브 이용 시 변종 랜섬웨어가 감염 우려가 제시됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "음원파일(MP3) 다운로드, 동영상 변환, 광고팝업 등 이용 시 주의가 요구된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "변종 랜섬웨어에 감염되면 복구가 불가능하다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "체크멀은 유튜브 동영상 무료 비디오 컨버터(Converter) 서비스에서 매그니버(Magniber) 랜섬웨어 유포가 탐지됐다고 5일 밝혔다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "컨버터 서비스는 비디오 URL 주소를 입력해 원하는 포맷으로 파일변환을 지원한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "변환된 동영상 파일은 다운로드 시점에 자동 취약점 코드가 포함된 페이지로 연결한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "보안패치가 이뤄지지 않은 PC는 랜섬웨어에 감염된다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "매그니버 랜섬웨어는 이전 발견된 형태와 다른 변종이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "URL 주소 입력 후 파일 변환까지 악의적 행위가 발생하지 않아 랜섬웨어에 노출된지 알기 어렵다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "체크멀 관계자는 \\\"자동 연결된 취약점 페이지에는 악의적 VB스크립트 코드가 난독화 형태로 포함됐다\\\"면서 \\\"보안 패치가 이뤄지지 않은 윈도7 운용체계 환경에서 인터넷 익스플로러 웹 브로우저로 접속하면 감염 가능성이 높다\\\"고 말했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "유튜브 영상, 음원 등 다운로드 등 경로를 이용한 랜섬웨어 유포는 지난해부터 기승을 부린다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "지난해 8월 안랩은 유튜브 콘텐츠 다운로드 중 광고시청으로 '케르베르(Cerber)' 랜섬웨어에 감염된다고 경고했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "사용자가 파일 변환을 위해 사이트에 접속한 후 광고를 클릭하면 광고 팝업창이 뜬다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "보안이 취약한 PC는 '드라이브 바이 다운로드' 방식으로 광고를 클릭한 것만으로 랜섬웨어에 감염된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "1월에는 유튜브 이용자 대상 매그니버 랜섬웨어가 발견됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "해외에서 서비스하는 MP3 파일 추출 사이트를 이용해 파일 변환 버튼을 클릭하면 보안 패치가 안 된 PC는 랜섬웨어에 걸린다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "전문가는 최근 유튜브 이용자 대상 변종 랜섬웨어가 지속 발생하는 만큼 사용자 주의가 요구된다고 강조했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "지난해 발생한 케르베르, 매그니버 등 랜섬웨어는 코드를 암호화해 단순 백신프로그램에서 해당 랜섬웨어를 발견하지 못하게 한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "업계 관계자는 \\\"랜섬웨어는 매번 변종형태로 발생하며 웹, 플래시, 인터넷 익스플로러 등 취약점을 노리고 침투한다\\\"면서 \\\"항상 윈도 최신 업데이트로 랜섬웨어 감염을 예방하고 정상경로를 벗어난 해외사이트 이용에 주의해야 한다\\\"고 말했다.",
+				"sentenceSize": 134
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유튜브 이용한 랜섬웨어 기승...영상, MP3 내려받다 악성코드 감염",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334390",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "한국 가상화폐거래소 공격자...해외로 영역 확장",
+		"newsSubTitle": "",
+		"newsContent": "한국 가상화폐 거래소를 노리던 해킹 조직이 베트남 등 해외 영역을 확대했다.\n국내 거래소 규제안과 보안 대책이 마련되자 해외로 공격 대상을 넓힌 것으로 보인다.\n이스트시큐리티는 국내서 한글문서 파일 취약점을 이용했던 공격자가 최근 해외서 마이크로소프트(MS) 워드 매크로 기능을 활용한 공격을 감행했다고 밝혔다.\n한국 공격에는 국내서 많이 쓰는 한글문서를, 해외 공격에는 워드 문서를 이용했다.\n해당 공격은 1월 24일 베트남에서 발견됐다.\n공격자는 '가상화폐와 블록체인 기술' 등이 언급된 영문 직무기술서 내용에 악성코드를 숨겨 베트남 가상화폐거래소 관계자를 노린 것으로 보인다.\n베트남 공격에 쓰인 워드문서는 매크로 기능을 이용해 추가 악성파일을 설치했다.\n파일을 열면 글씨가 깨져서 보이지 않고 매크로를 실행해 콘텐츠를 확인하라는 수법이다.\n매크로를 실행하면 가상화폐와 블록체인 기술 등이 언급된 영문 직무 기술서 내용이 나온다.\n해당 워드 문서는 한국어 기반이다.\n첨부된 악성코드는 지난해 8월 한국 특정 가상화폐거래소를 표적으로 한 공격에서 발견된 것과 같다.\n이스트시큐리티는 한국을 지속 공격한 국가지원 해커로 분석했다.\n2014년 미국 소니픽처스 공격에 쓰인 코드와 유사성이 발견된다.\n미국은 소니픽처스 공격 그룹을 북한으로 지목했다.\n라자루스로 널리 알려진 그룹이다.\n국제 사회 제재 수위가 높아지자 가상화폐 해킹으로 돈 벌이에 집중하는 것으로 보인다.\n가상화폐는 추적이 쉽지 않은데다 인터넷 암시장에서 화폐처럼 쓰인다.\n이들은 한국 거래소 공격에는 한글 문서 취약점을 활용한다.\n한국 공격에서는 수사기관에서 마약류 비트코인 수익자 추정 지갑주소를 추적한다는 협조 메일을 사칭했다.\n이스트시큐리티는 2017년 5월 한국 가상화폐 거래소 한글 취약점 공격과 2018년 1월 베트남 워드문서 공격이 명령제어 서버 주소만 다르고 내부 코드가 동일하다고 밝혔다.\n두 명령&제어(C&C) 서버 모두 한국 웹사이트다.\n이스트시큐리티 관계자는 \\\"국가 지원을 받는 것으로 추정되는 공격자가 가상화폐 거래소를 표적으로 활동한다\\\"면서 \\\"공개되지 않은 다양한 보안 위협이 진행 중이어서 개인과 기업이 보안에 주의를 기울여야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국 가상화폐 거래소를 노리던 해킹 조직이 베트남 등 해외 영역을 확대했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국내 거래소 규제안과 보안 대책이 마련되자 해외로 공격 대상을 넓힌 것으로 보인다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이스트시큐리티는 국내서 한글문서 파일 취약점을 이용했던 공격자가 최근 해외서 마이크로소프트(MS) 워드 매크로 기능을 활용한 공격을 감행했다고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국 공격에는 국내서 많이 쓰는 한글문서를, 해외 공격에는 워드 문서를 이용했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 공격은 1월 24일 베트남에서 발견됐다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공격자는 '가상화폐와 블록체인 기술' 등이 언급된 영문 직무기술서 내용에 악성코드를 숨겨 베트남 가상화폐거래소 관계자를 노린 것으로 보인다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "베트남 공격에 쓰인 워드문서는 매크로 기능을 이용해 추가 악성파일을 설치했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "파일을 열면 글씨가 깨져서 보이지 않고 매크로를 실행해 콘텐츠를 확인하라는 수법이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "매크로를 실행하면 가상화폐와 블록체인 기술 등이 언급된 영문 직무 기술서 내용이 나온다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "해당 워드 문서는 한국어 기반이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "첨부된 악성코드는 지난해 8월 한국 특정 가상화폐거래소를 표적으로 한 공격에서 발견된 것과 같다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이스트시큐리티는 한국을 지속 공격한 국가지원 해커로 분석했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "2014년 미국 소니픽처스 공격에 쓰인 코드와 유사성이 발견된다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "미국은 소니픽처스 공격 그룹을 북한으로 지목했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "라자루스로 널리 알려진 그룹이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "국제 사회 제재 수위가 높아지자 가상화폐 해킹으로 돈 벌이에 집중하는 것으로 보인다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "가상화폐는 추적이 쉽지 않은데다 인터넷 암시장에서 화폐처럼 쓰인다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이들은 한국 거래소 공격에는 한글 문서 취약점을 활용한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "한국 공격에서는 수사기관에서 마약류 비트코인 수익자 추정 지갑주소를 추적한다는 협조 메일을 사칭했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이스트시큐리티는 2017년 5월 한국 가상화폐 거래소 한글 취약점 공격과 2018년 1월 베트남 워드문서 공격이 명령제어 서버 주소만 다르고 내부 코드가 동일하다고 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "두 명령&제어(C&C) 서버 모두 한국 웹사이트다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이스트시큐리티 관계자는 \\\"국가 지원을 받는 것으로 추정되는 공격자가 가상화폐 거래소를 표적으로 활동한다\\\"면서 \\\"공개되지 않은 다양한 보안 위협이 진행 중이어서 개인과 기업이 보안에 주의를 기울여야 한다\\\"고 말했다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국 가상화폐거래소 공격자...해외로 영역 확장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

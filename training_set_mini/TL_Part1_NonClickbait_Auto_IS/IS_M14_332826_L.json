@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332826",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "행안부-이통사, 여름철 장마 대비 '재난망' 안정성 강화",
+		"newsSubTitle": "",
+		"newsContent": "행정안전부와 이동통신사가 다가오는 장마를 앞두고 재난망 회선 안정성을 강화했다.\n행안부와 이통사는 장마 등 여름철 재해로 인한 도로유실 등 유사 상황에 대비해 재난망과 KT·SK텔레콤 상용망을 공유(랜 셰어링)하는 3중화 작업을 완료했다.\n재난망에 문제가 발생하면 1차로 KT 상용망을 활용하고 KT 상용망마저 이용이 불가할 경우에 2차로 SK텔레콤 상용망을 활용한다.\n양사는 상용망 공유 시 네트워크 접속을 위해 각자가 부여한 설계 번호에 대한 중복을 방지하고 수정하는 등 협업했다.\n이학수 KT 재난망 제1운영센터장은 “재난망 관제 센터가 이동통신용 상용망 현황과 신규 구축 사항까지 실시간으로 파악할 수 있도록 했다”며 “유사시 즉시 상용망으로 전환할 수 있다”고 말했다.\nKT는 원활한 상황 파악을 위해 네트워크 부문에 상용망 운영센터와 재난망을 주관하는 공공운영망센터를 함께 배치했다.\n행안부와 이통사는 전국 17개 지역, 약 2만개소 기지국 및 중계기에 대한 사전점검 또한 6월 완료했다.\n토사유출 및 침수가 우려되는 취약 개소는 중점관리 대상 시설로 지정, 집중 관리할 계획이다.\n재난망 관제센터는 전국 기지국에 문제가 발생했을 경우에 즉시 파악, 문제를 해결한다.\n현장에서 산사태나 도로유실 등으로 기지국 파손 등이 발생하면 전국 69개 긴급복구팀이 예비부품을 확보해 수시간 내에 기지국을 수리한다.\n행안부 관계자는 “전국 59개 지역 거점별로 배치된 기지국 시스템 예비부품으로 DU(Digtal Unit) 140개, RU(Radio Unit) 200개, 중계기 57개, 정류기 모듈 440개 등 총 837개 부품에 대한 구비 및 점검 또한 완료했다”고 말했다.\n행안부와 이통사는 기지국 침수 및 파손으로 인해 통신이 두절된 재해 지역의 경우에 전국에 배치된 차량형 이동기지국 30대와 휴대형 이동기지국 42대 등을 3시간 내 배치할 계획이다.\n휴대형 이동기지국은 배낭형이나 캐리어형으로 산악 지역이나 계곡에도 쉽게 진입할 수 있다.\n차량 및 휴대형 이동기지국은 위성에 연동돼 현장에서 위성안테나를 펼치는 것만으로 재난망을 활용할 수 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "행정안전부와 이동통신사가 다가오는 장마를 앞두고 재난망 회선 안정성을 강화했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "행안부와 이통사는 장마 등 여름철 재해로 인한 도로유실 등 유사 상황에 대비해 재난망과 KT·SK텔레콤 상용망을 공유(랜 셰어링)하는 3중화 작업을 완료했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "재난망에 문제가 발생하면 1차로 KT 상용망을 활용하고 KT 상용망마저 이용이 불가할 경우에 2차로 SK텔레콤 상용망을 활용한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "양사는 상용망 공유 시 네트워크 접속을 위해 각자가 부여한 설계 번호에 대한 중복을 방지하고 수정하는 등 협업했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이학수 KT 재난망 제1운영센터장은 “재난망 관제 센터가 이동통신용 상용망 현황과 신규 구축 사항까지 실시간으로 파악할 수 있도록 했다”며 “유사시 즉시 상용망으로 전환할 수 있다”고 말했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT는 원활한 상황 파악을 위해 네트워크 부문에 상용망 운영센터와 재난망을 주관하는 공공운영망센터를 함께 배치했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "행안부와 이통사는 전국 17개 지역, 약 2만개소 기지국 및 중계기에 대한 사전점검 또한 6월 완료했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "토사유출 및 침수가 우려되는 취약 개소는 중점관리 대상 시설로 지정, 집중 관리할 계획이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "재난망 관제센터는 전국 기지국에 문제가 발생했을 경우에 즉시 파악, 문제를 해결한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "현장에서 산사태나 도로유실 등으로 기지국 파손 등이 발생하면 전국 69개 긴급복구팀이 예비부품을 확보해 수시간 내에 기지국을 수리한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "행안부 관계자는 “전국 59개 지역 거점별로 배치된 기지국 시스템 예비부품으로 DU(Digtal Unit) 140개, RU(Radio Unit) 200개, 중계기 57개, 정류기 모듈 440개 등 총 837개 부품에 대한 구비 및 점검 또한 완료했다”고 말했다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "행안부와 이통사는 기지국 침수 및 파손으로 인해 통신이 두절된 재해 지역의 경우에 전국에 배치된 차량형 이동기지국 30대와 휴대형 이동기지국 42대 등을 3시간 내 배치할 계획이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "휴대형 이동기지국은 배낭형이나 캐리어형으로 산악 지역이나 계곡에도 쉽게 진입할 수 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "차량 및 휴대형 이동기지국은 위성에 연동돼 현장에서 위성안테나를 펼치는 것만으로 재난망을 활용할 수 있다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "행안부-이통사, 여름철 장마 대비 '재난망' 안정성 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

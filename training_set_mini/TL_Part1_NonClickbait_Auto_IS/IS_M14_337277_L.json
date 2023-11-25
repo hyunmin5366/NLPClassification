@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337277",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[2017 SAP 사파이어나우]딜로이트 컨설팅, SAP와 레오나르도 기반 협업 공개",
+		"newsSubTitle": "",
+		"newsContent": "딜로이트 컨설팅은 SAP와 SAP 레오나르도 제품군을 지원하는 서비스를 공동 개발한다고 17일(현지시간) 밝혔다.\nSAP 레오나르도는 머신러닝, 사물인터넷, 블록체인, 빅데이터 등을 포함한 서비스군을 지칭한다.\n딜로이트 컨설팅은 금융 업계 공급망 전체에 걸쳐 필요한 머신러닝, 애널리틱스, 사물인터넷 관련 수요를 충족시키는 서비스 개발에 초점을 맞춘다.\n양사가 협력해 만드는 첫 솔루션에는 '라이츠 아웃 파이낸스'와 '라이브 팩토리' 기능을 제공한다.\n고객사는 라이츠 아웃 파이낸스 기능을 활용해 공유 서비스를 비롯해 금융 프로세스 자동화를 지원하기위한 코그니티브를 구축한다.\n짐 모팻 딜로이트 글로벌 컨설팅 리더는 \\\"이번 솔루션 개발은 시작에 불과하다\\\"면서 \\\"SAP와 협업해 딜로이트 컨설팅이 다양한 산업군에 걸쳐 고객사를 위한 지속적 디지털 솔루션 개발과 공동혁신 사례, 프로세스를 마련할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "딜로이트 컨설팅은 SAP와 SAP 레오나르도 제품군을 지원하는 서비스를 공동 개발한다고 17일(현지시간) 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SAP 레오나르도는 머신러닝, 사물인터넷, 블록체인, 빅데이터 등을 포함한 서비스군을 지칭한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "딜로이트 컨설팅은 금융 업계 공급망 전체에 걸쳐 필요한 머신러닝, 애널리틱스, 사물인터넷 관련 수요를 충족시키는 서비스 개발에 초점을 맞춘다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "양사가 협력해 만드는 첫 솔루션에는 '라이츠 아웃 파이낸스'와 '라이브 팩토리' 기능을 제공한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고객사는 라이츠 아웃 파이낸스 기능을 활용해 공유 서비스를 비롯해 금융 프로세스 자동화를 지원하기위한 코그니티브를 구축한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "짐 모팻 딜로이트 글로벌 컨설팅 리더는 \\\"이번 솔루션 개발은 시작에 불과하다\\\"면서 \\\"SAP와 협업해 딜로이트 컨설팅이 다양한 산업군에 걸쳐 고객사를 위한 지속적 디지털 솔루션 개발과 공동혁신 사례, 프로세스를 마련할 것\\\"이라고 말했다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2017 SAP 사파이어나우]딜로이트 컨설팅, SAP와 레오나르도 기반 협업 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

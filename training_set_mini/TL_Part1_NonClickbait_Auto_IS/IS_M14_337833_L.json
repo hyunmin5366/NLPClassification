@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337833",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "네오와인, 보안반도체 도르카-3 개발…비대칭 암호화 기술 지원",
+		"newsSubTitle": "",
+		"newsContent": "보안 반도체 전문업체 네오와인은 최신 보안 기술이 탑재된 '도르카-3'을 개발했다고 9일 밝혔다.\n도르카-3은 대칭형(암호화와 복호화가 같은 키를 쓰는) 암호 표준인 ASE와 SHA는 물론 비대칭인 ECC와 RSA 기술까지 지원한다.\n칩별로 각기 다른 ID를 부여하는 트루랜덤넘버제너레이터(TRNG) 기능을 넣어 보안 능력을 더욱 강화했다.\n도르카-3에는 암호화, 복호화 연산을 맡는 네오와인 독자 SPU(Security Process Unit)와 함께 ARM의 경량 마이크로컨트롤러(MCU) 중앙처리장치(CPU) 코어인 코어텍스-M0가 내장됐다.\n칩 면적은 4×4㎜에 불과하다.\n도르카-3을 탑재한 전자제품은 다른 전자제품과 통신할 때, 혹은 클라우드 서버와의 통신 과정에서 중요 데이터를 해킹 당할 위험이 현저한 수준으로 낮아진다는 것이 네오와인의 설명이다.\n이 제품이 탑재될 수 있는 전자제품은 전자결제, 사물인터넷(IoT), 수신제한시스템(CAS), 셋톱박스, IP카메라, 전자도어락, 워키토키 등 다양하다.\n이효승 네오와인 대표는 \\\"도르카-3과 같은 보안반도체 시장 규모는 1조원 이상으로 추정된다\\\"면서 \\\"신제품으로 올해 다양한 협력 생태계를 구축할 예정\\\"이라고 말했다.\n네오와인은 과학기술정보통신부 산하 정보통신기술진흥센터의 정보통신기술(ICT) 연구개발(R&D) 사업 지원을 받아 지난 2년간 한국전자통신연구원(ETRI)과 공동으로 도르카-3을 개발했다고 설명했다.\n네오와인은 전자제품 복제 방지용 ALPU 칩으로 성장했다.\nALPU 칩에는 회사가 부여한 개별 보안코드가 삽입돼 펌웨어 복제를 원천 차단한다.\n네오와인 ALPU 보안칩은 세계 2000개 회사가 구매했다.\n누적 판매량은 1억개 이상이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보안 반도체 전문업체 네오와인은 최신 보안 기술이 탑재된 '도르카-3'을 개발했다고 9일 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "도르카-3은 대칭형(암호화와 복호화가 같은 키를 쓰는) 암호 표준인 ASE와 SHA는 물론 비대칭인 ECC와 RSA 기술까지 지원한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "칩별로 각기 다른 ID를 부여하는 트루랜덤넘버제너레이터(TRNG) 기능을 넣어 보안 능력을 더욱 강화했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "도르카-3에는 암호화, 복호화 연산을 맡는 네오와인 독자 SPU(Security Process Unit)와 함께 ARM의 경량 마이크로컨트롤러(MCU) 중앙처리장치(CPU) 코어인 코어텍스-M0가 내장됐다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "칩 면적은 4×4㎜에 불과하다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "도르카-3을 탑재한 전자제품은 다른 전자제품과 통신할 때, 혹은 클라우드 서버와의 통신 과정에서 중요 데이터를 해킹 당할 위험이 현저한 수준으로 낮아진다는 것이 네오와인의 설명이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 제품이 탑재될 수 있는 전자제품은 전자결제, 사물인터넷(IoT), 수신제한시스템(CAS), 셋톱박스, IP카메라, 전자도어락, 워키토키 등 다양하다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이효승 네오와인 대표는 \\\"도르카-3과 같은 보안반도체 시장 규모는 1조원 이상으로 추정된다\\\"면서 \\\"신제품으로 올해 다양한 협력 생태계를 구축할 예정\\\"이라고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "네오와인은 과학기술정보통신부 산하 정보통신기술진흥센터의 정보통신기술(ICT) 연구개발(R&D) 사업 지원을 받아 지난 2년간 한국전자통신연구원(ETRI)과 공동으로 도르카-3을 개발했다고 설명했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "네오와인은 전자제품 복제 방지용 ALPU 칩으로 성장했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ALPU 칩에는 회사가 부여한 개별 보안코드가 삽입돼 펌웨어 복제를 원천 차단한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "네오와인 ALPU 보안칩은 세계 2000개 회사가 구매했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "누적 판매량은 1억개 이상이다.",
+				"sentenceSize": 17
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네오와인, 보안반도체 도르카-3 개발…비대칭 암호화 기술 지원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354033",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "SKT, 가입자 9144명 노린 '보이스피싱' 전화 사전 차단했다",
+		"newsSubTitle": "null",
+		"newsContent": "SK텔레콤은 서울경찰청과 함께 선보인 '보이스피싱 번호차단 서비스'로 지난 1년간 1만5737개의 보이스피싱 전화연결을 차단했다고 22일 밝혔다. '보이스피싱 번호차단'은 경찰에 피해신고가 접수된 보이스피싱 번호를 SK텔레콤이 공유받아 고객에게 해당 번호의 착발신을 차단한 서비스다.\n지난해 3월 지속적으로 증가하는 보이스피싱으로부터 고객들을 보호하기 위해 선보였다.\nSK텔레콤은 1년 동안 1만여개의 보이스피싱 신고 번호를 차단했고, 이를 통해 고객 9144명에 대한 통화 시도를 사전에 막았다.\n특히 차단된 보이스피싱 번호는 지역 단위가 아닌 전국 경찰청에 신고된 모든 번호가 대상이다.\n신고는 실제로 금전적 피해가 발생한 경우 뿐만 아니라 보이스피싱이 의심되는 경우도 포함한다.\n허위 신고가 있을 수 있는 만큼 SK텔레콤은 지난 1년 간 경찰청의 신고 접수 번호 중 중복 접수 등 특정 조건이 충족된 32%에 대해서만 차단했다.\nSK텔레콤은 또 'T전화'에 스팸이나 보이스피싱 신고가 많은 번호를 자동으로 차단해주는 악성 스팸 자동 차단 기능, 안심벨소리 기능 등으로 스팸전화와 보이스피싱 전화를 고객에게 안내하고 있다.\n아울러 위험성이 높은 번호로 오는 통화는 자동으로 통화를 녹음해 주는 안심녹음 기능을 제공하고 있으며, 스팸·스미싱 문자 대응을 위한 딥러닝 기반의 지능형 차단시스템도 운영하고 있다.\n손영규 SK텔레콤 정보보호담당은 \\\"서울경찰청과 지속적으로 협력해 보이스피싱으로 피해를 보는 고객이 지속적으로 줄어들도록 노력할 것\\\"이라며 \\\"앞으로도 민관이 협력해 각종 사회적 난제 해결에 나서는 다양한 ESG(환경·사회적책임·지배구조) 경영 활동을 선보이겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤은 서울경찰청과 함께 선보인 '보이스피싱 번호차단 서비스'로 지난 1년간 1만5737개의 보이스피싱 전화연결을 차단했다고 22일 밝혔다. '보이스피싱 번호차단'은 경찰에 피해신고가 접수된 보이스피싱 번호를 SK텔레콤이 공유받아 고객에게 해당 번호의 착발신을 차단한 서비스다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 3월 지속적으로 증가하는 보이스피싱으로부터 고객들을 보호하기 위해 선보였다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SK텔레콤은 1년 동안 1만여개의 보이스피싱 신고 번호를 차단했고, 이를 통해 고객 9144명에 대한 통화 시도를 사전에 막았다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 차단된 보이스피싱 번호는 지역 단위가 아닌 전국 경찰청에 신고된 모든 번호가 대상이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신고는 실제로 금전적 피해가 발생한 경우 뿐만 아니라 보이스피싱이 의심되는 경우도 포함한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "허위 신고가 있을 수 있는 만큼 SK텔레콤은 지난 1년 간 경찰청의 신고 접수 번호 중 중복 접수 등 특정 조건이 충족된 32%에 대해서만 차단했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SK텔레콤은 또 'T전화'에 스팸이나 보이스피싱 신고가 많은 번호를 자동으로 차단해주는 악성 스팸 자동 차단 기능, 안심벨소리 기능 등으로 스팸전화와 보이스피싱 전화를 고객에게 안내하고 있다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아울러 위험성이 높은 번호로 오는 통화는 자동으로 통화를 녹음해 주는 안심녹음 기능을 제공하고 있으며, 스팸·스미싱 문자 대응을 위한 딥러닝 기반의 지능형 차단시스템도 운영하고 있다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "손영규 SK텔레콤 정보보호담당은 \\\"서울경찰청과 지속적으로 협력해 보이스피싱으로 피해를 보는 고객이 지속적으로 줄어들도록 노력할 것\\\"이라며 \\\"앞으로도 민관이 협력해 각종 사회적 난제 해결에 나서는 다양한 ESG(환경·사회적책임·지배구조) 경영 활동을 선보이겠다\\\"고 밝혔다.",
+				"sentenceSize": 155
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKT, 가입자 9144명 노린 '보이스피싱' 전화 사전 차단했다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

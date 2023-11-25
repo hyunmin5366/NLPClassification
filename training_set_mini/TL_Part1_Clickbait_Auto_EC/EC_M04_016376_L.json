@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016376",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "특허청, 자동차 및 가전제품 관련 출원 증가",
+		"newsSubTitle": "",
+		"newsContent": "최근 전기모터 분야에서 이슈가 되고 있는 자동차 및 가전제품에 관한 출원이 꾸준히 증가하고 있는 반면, 모바일 기기에 사용하는 진동모터와 열차 및 직선 이동기기 등에 사용되는 선형모터에 관한 출원은 감소하고 있는 것으로 나타났다.\n21일 특허청(청장 최동규)에 따르면, 최근 5년(2009~2013년) 사이 전기모터에 관한 특허출원을 분석한 결과, 국내에서 출원된 특허출원은 2011년 996건으로 정점에 이른 뒤 점차 감소추세를 보이고 있다.\n반면, 자동차에 사용되는 모터와 관련된 출원은 2009년 275건에서 2013년 429건으로 56% 증가했고, 같은 기간에 가전제품 및 발전기와 관련된 출원도 각각 46%, 25% 증가했다.\n이를 통해 차세대 자동차 및 미래 가전제품에 사용되는 전기모터에 대한 출원이 최근 들어 꾸준하게 증가하고 있는 것으로 확인됐다.\n이에 반해, 모바일 기기의 진동모터와 관련된 출원은 2009년 177건에서 2013년 114건으로 36% 감소했고, 같은 기간에 열차 및 직선 이동장치 등에 이용되는 선형 모터와 전통적인 유도모터에 관련된 출원도 각각 49%, 59% 감소했다.\n이는 이 분야에 적용되는 전기모터 관련 기술이 이미 성숙돼 있음을 보여주고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 전기모터 분야에서 이슈가 되고 있는 자동차 및 가전제품에 관한 출원이 꾸준히 증가하고 있는 반면, 모바일 기기에 사용하는 진동모터와 열차 및 직선 이동기기 등에 사용되는 선형모터에 관한 출원은 감소하고 있는 것으로 나타났다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 특허청(청장 최동규)에 따르면, 최근 5년(2009~2013년) 사이 전기모터에 관한 특허출원을 분석한 결과, 국내에서 출원된 특허출원은 2011년 996건으로 정점에 이른 뒤 점차 감소추세를 보이고 있다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "반면, 자동차에 사용되는 모터와 관련된 출원은 2009년 275건에서 2013년 429건으로 56% 증가했고, 같은 기간에 가전제품 및 발전기와 관련된 출원도 각각 46%, 25% 증가했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 통해 차세대 자동차 및 미래 가전제품에 사용되는 전기모터에 대한 출원이 최근 들어 꾸준하게 증가하고 있는 것으로 확인됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 반해, 모바일 기기의 진동모터와 관련된 출원은 2009년 177건에서 2013년 114건으로 36% 감소했고, 같은 기간에 열차 및 직선 이동장치 등에 이용되는 선형 모터와 전통적인 유도모터에 관련된 출원도 각각 49%, 59% 감소했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는 이 분야에 적용되는 전기모터 관련 기술이 이미 성숙돼 있음을 보여주고 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "산림청, 임산물 5억달러 수출 도전",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

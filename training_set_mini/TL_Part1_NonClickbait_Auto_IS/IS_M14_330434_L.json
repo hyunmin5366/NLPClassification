@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330434",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "스페인, 국가 5G 계획 발표···2020년 상용화",
+		"newsSubTitle": "",
+		"newsContent": "스페인이 2020년 상용화를 목표로 5세대(5G) 이동통신 계획을 발표했다.\n글로벌 5G 표준 승인 이후 세계 각국이 5G 상용화 로드맵을 확정하고 있다.\n스페인 에너지관광디지털부(MINETAD)가 발표한 '국가 5G 계획(Plan Nacional 5G 2018-2020)'에 따르면, 이달 초 5G용 주파수 경매를 실시한다.\n경매 대역은 3.6㎓와 1.5㎓다. 5G 기술 연구개발(R&D)도 동시 추진한다.\n스페인은 5G가 사물인터넷(IoT), 자율주행차, 지능형 교통시스템, 농촌 지역 디지털화에 크게 기여할 것으로 내다보고 있다.\n2025년 5G를 통한 자동차∙의료∙교통∙공공 서비스의 경제적 효과가 146억유로(약 18조8000억원)에 이를 것으로 전망했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스페인이 2020년 상용화를 목표로 5세대(5G) 이동통신 계획을 발표했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "글로벌 5G 표준 승인 이후 세계 각국이 5G 상용화 로드맵을 확정하고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스페인 에너지관광디지털부(MINETAD)가 발표한 '국가 5G 계획(Plan Nacional 5G 2018-2020)'에 따르면, 이달 초 5G용 주파수 경매를 실시한다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "경매 대역은 3.6㎓와 1.5㎓다. 5G 기술 연구개발(R&D)도 동시 추진한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스페인은 5G가 사물인터넷(IoT), 자율주행차, 지능형 교통시스템, 농촌 지역 디지털화에 크게 기여할 것으로 내다보고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2025년 5G를 통한 자동차∙의료∙교통∙공공 서비스의 경제적 효과가 146억유로(약 18조8000억원)에 이를 것으로 전망했다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스페인, 국가 5G 계획 발표···2020년 상용화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

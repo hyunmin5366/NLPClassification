@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326137",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "SH모바일, 올인원 배터리 검사 장비 개발",
+		"newsSubTitle": "",
+		"newsContent": "SH모바일(대표 정성한)은 충·방전 시험을 통해 배터리 성능을 측정할 수 있는 올인원 타입 배터리 검사 장치를 개발했다고 11일 밝혔다.\n제품은 배터리 충전과 방전, 용량측정, 내부저항(AC IR) 측정 기능 등을 한 데 갖춘 것이 특징이다.\n충전전류·충전전압·컷오프(Cut Off) 전류 설정으로 충전이 가능하고 방전전류·컷오프 전압 설정으로 방전을 할 수 있다.\n또 충·방전 조건 설정으로 배터리 용량을 측정하고 리튬이온과 리튬폴리머 배터리의 전압(OCV) 측정할 수 있다.\n여기에 기존에는 별도 장비를 구매해야 할 수 있었던 내부저항(AC IR) 측정 기능도 통합했다.\n충·방전 시험이 중요한 이유는 배터리 노화로 발생하는 발열, 급방전, 부풀어오름(스웰링)과 같은 현상을 확인할 수 있기 때문이다.\n또 내부저항 측정을 통해서는 배터리의 품질 상태를 알 수 있다.\nSH모바일은 삼성전자에 배터리 검사 장비를 공급한 기업이다.\n2016년 갤럭시노트7 발화 사고로 배터리 안전 문제가 제기되면서 삼성전자는 여러 종류의 배터리 검사를 시행했는데 충·방전 검사 쪽에 SH모바일 장비를 사용했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SH모바일(대표 정성한)은 충·방전 시험을 통해 배터리 성능을 측정할 수 있는 올인원 타입 배터리 검사 장치를 개발했다고 11일 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제품은 배터리 충전과 방전, 용량측정, 내부저항(AC IR) 측정 기능 등을 한 데 갖춘 것이 특징이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "충전전류·충전전압·컷오프(Cut Off) 전류 설정으로 충전이 가능하고 방전전류·컷오프 전압 설정으로 방전을 할 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 충·방전 조건 설정으로 배터리 용량을 측정하고 리튬이온과 리튬폴리머 배터리의 전압(OCV) 측정할 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여기에 기존에는 별도 장비를 구매해야 할 수 있었던 내부저항(AC IR) 측정 기능도 통합했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "충·방전 시험이 중요한 이유는 배터리 노화로 발생하는 발열, 급방전, 부풀어오름(스웰링)과 같은 현상을 확인할 수 있기 때문이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 내부저항 측정을 통해서는 배터리의 품질 상태를 알 수 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SH모바일은 삼성전자에 배터리 검사 장비를 공급한 기업이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "2016년 갤럭시노트7 발화 사고로 배터리 안전 문제가 제기되면서 삼성전자는 여러 종류의 배터리 검사를 시행했는데 충·방전 검사 쪽에 SH모바일 장비를 사용했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SH모바일, 올인원 배터리 검사 장비 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006900",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "오이값 1주일새 37% 올랐다",
+		"newsSubTitle": "태풍 등 영향에 출하량 줄어… 채소·과일값 상승",
+		"newsContent": "태풍과 함께 동반한 국지성 강우로 채소값이 뛰었다.\n2일 (사)한국물가협회 대전지회에 따르면 오이는 1개(150g) 당 1180원으로 지난주 860원 대비 37.2%가 올랐다.\n감자는 1㎏당 2380원으로 지난주 1900원 대비 25.3%가 상승했다.\n시금치도 1단(400g) 당 2980원으로 2480원이었던 지난주에 비해 20.2%가 올랐다.\n마늘 1㎏ 1만2100원(11.0%), 양파 1㎏ 1780원(4.1%), 상추 100g 1250원(3.3%), 버섯 100g 1160원(2.7%) 순으로 가격이 오름세를 보였다.\n과일류 역시 기후 영향을 크게 받았다.\n수박은 1통(7~8㎏) 당 1만9800원으로 23.8%가 올랐다.\n배(1개)와 사과(1개)는 2600원(4.0%), 1650원(3.1%)에 거래되고 있다.\n채소류와 과일류의 상승세가 두드러진데는 태풍 곤파스 영향으로 국지성 강우가 한반도에 집중됐기 때문이다.\n일부 침수된 농지로 인해 수박 반입량도 크게 줄어든 것이 가격상승에 영향을 미쳤다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "태풍과 함께 동반한 국지성 강우로 채소값이 뛰었다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 (사)한국물가협회 대전지회에 따르면 오이는 1개(150g) 당 1180원으로 지난주 860원 대비 37.2%가 올랐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "감자는 1㎏당 2380원으로 지난주 1900원 대비 25.3%가 상승했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시금치도 1단(400g) 당 2980원으로 2480원이었던 지난주에 비해 20.2%가 올랐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마늘 1㎏ 1만2100원(11.0%), 양파 1㎏ 1780원(4.1%), 상추 100g 1250원(3.3%), 버섯 100g 1160원(2.7%) 순으로 가격이 오름세를 보였다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "과일류 역시 기후 영향을 크게 받았다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "수박은 1통(7~8㎏) 당 1만9800원으로 23.8%가 올랐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "배(1개)와 사과(1개)는 2600원(4.0%), 1650원(3.1%)에 거래되고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "채소류와 과일류의 상승세가 두드러진데는 태풍 곤파스 영향으로 국지성 강우가 한반도에 집중됐기 때문이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "일부 침수된 농지로 인해 수박 반입량도 크게 줄어든 것이 가격상승에 영향을 미쳤다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빛 바랜 최고과학기술인상, 전문 과학인은 '단 1명' 뿐",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

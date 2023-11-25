@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010446",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "제일저축은행 등 3곳 파산신청",
+		"newsSubTitle": "제일2저축ㆍ프라임상호저축 재정파탄에 경영개선 이행 '희박'",
+		"newsContent": "지난 5월 저축은행 퇴출 상처가 아물기 전에 또 다시 부실 저축은행 문제가 불거졌다.\n제일저축은행과 제일2저축은행, 프라임상호저축은행 등 부실은행 3곳이 지난 10일 파산을 신청했다.\n이들 저축은행은 개별차주에 대한 신용공여한도 초과 등 업무처리로 거액의 손실을 내 재정파탄에 이른 것으로 드러났다.\n서울중앙지법 파산12부는 이들 3개 은행의 파산신청서를 접수 받고 절차 등을 거쳐 파산선고 여부를 결정한다고 14일 밝혔다.\n3곳의 저축은행은 금융감독원 검사 결과 국제결제은행 자기자본비율(BIS) 기준미달로 지난해 9월 금융위원회로부터 부실 금융기관으로 지정, 6개월 영업정지 등 경영개선 명령을 받았지만 이를 이행할 가능성이 희박해짐에 따라 결국 파산 신청이라는 마지막 선택을 한 것이다.\n한편 금융위로부터 부실금융기관 결정을 받은 토마토저축은행과 파랑새저축은행은 지난달 각각 수원지법과 부산지법에 파산 신청을 했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 5월 저축은행 퇴출 상처가 아물기 전에 또 다시 부실 저축은행 문제가 불거졌다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제일저축은행과 제일2저축은행, 프라임상호저축은행 등 부실은행 3곳이 지난 10일 파산을 신청했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들 저축은행은 개별차주에 대한 신용공여한도 초과 등 업무처리로 거액의 손실을 내 재정파탄에 이른 것으로 드러났다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서울중앙지법 파산12부는 이들 3개 은행의 파산신청서를 접수 받고 절차 등을 거쳐 파산선고 여부를 결정한다고 14일 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "3곳의 저축은행은 금융감독원 검사 결과 국제결제은행 자기자본비율(BIS) 기준미달로 지난해 9월 금융위원회로부터 부실 금융기관으로 지정, 6개월 영업정지 등 경영개선 명령을 받았지만 이를 이행할 가능성이 희박해짐에 따라 결국 파산 신청이라는 마지막 선택을 한 것이다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 금융위로부터 부실금융기관 결정을 받은 토마토저축은행과 파랑새저축은행은 지난달 각각 수원지법과 부산지법에 파산 신청을 했다.",
+				"sentenceSize": 71
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KAIST 학부생이 여는 아시아 학술 대회, 내달 1~5일",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

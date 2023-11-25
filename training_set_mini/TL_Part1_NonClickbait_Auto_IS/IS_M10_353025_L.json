@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353025",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "카카오 원격근무 강화…\\\"설 이후 자가진단 '음성'만 회사출근\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "코로나19(COVID-19) 신규 확진자가 연일 1만명을 넘어서자, 카카오가 기존 원격근무 방침을 강화하기로 했다.\n31일 카카오는 설 연휴가 끝나는 2월 3일부터 원격근무를 강화한다고 밝혔다.\n2월 18일까지 불가피한 경우를 제외하곤 전 직원의 사내 출입을 금지한다.\n부득이하게 회사로 출근할 경우엔 △조직장의 사전 승인 △준비된 자가검진 공간에서 자가진단 후 음성 판정을 받아야 한다.\n이를 위해 카카오는 자가진단 키트 10개(20회분)를 각 가정으로 배송할 예정이다.\n카카오 관계자는 \\\"원격근무 종료일은 따로 정해지지 않았다\\\"며 \\\"앞으로도 오미크론 확산세를 예의 주시하며 크루들과 가족의 건강을 보호하고, 정부의 방역지침을 철저히 지켜나갈 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19(COVID-19) 신규 확진자가 연일 1만명을 넘어서자, 카카오가 기존 원격근무 방침을 강화하기로 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "31일 카카오는 설 연휴가 끝나는 2월 3일부터 원격근무를 강화한다고 밝혔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2월 18일까지 불가피한 경우를 제외하곤 전 직원의 사내 출입을 금지한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부득이하게 회사로 출근할 경우엔 △조직장의 사전 승인 △준비된 자가검진 공간에서 자가진단 후 음성 판정을 받아야 한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 위해 카카오는 자가진단 키트 10개(20회분)를 각 가정으로 배송할 예정이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카카오 관계자는 \\\"원격근무 종료일은 따로 정해지지 않았다\\\"며 \\\"앞으로도 오미크론 확산세를 예의 주시하며 크루들과 가족의 건강을 보호하고, 정부의 방역지침을 철저히 지켜나갈 것\\\"이라고 말했다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카카오 원격근무 강화…\\\"설 이후 자가진단 '음성'만 회사출근\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

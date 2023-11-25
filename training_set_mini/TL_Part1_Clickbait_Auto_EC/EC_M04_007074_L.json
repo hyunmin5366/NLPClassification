@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007074",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "우편물서비스 휴대폰결제 가능",
+		"newsSubTitle": "충청체신청 경조카드 등 15종",
+		"newsContent": "우편서비스 요금을 휴대폰으로도 결제할 수 있게 됐다.\n충청체신청은 1일부터 국민들이 인터넷우체국을 손쉽게 이용할 수 있도록 휴대폰 결제서비스를 도입한다.\n이번 서비스로 경조카드와 우표(인터넷우표 포함), 연하장 등 구입과 내용증명, 맞춤형편지 발송 등 15종의 우편서비스에 대한 요금을 휴대폰으로 결제할 수가 있다.\n인터넷우체국에서 주민등록번호와 휴대폰 번호를 입력한 뒤 전송되는 SMS 승인번호를 입력하면 결제가 완료된다.\n1회 결제한도는 1만원 이하로 이용요금은 다음 달 휴대폰요금에 함께 청구된다.\n충청체신청 관계자는 “고객 편의를 위해 도입하게 됐다”며 “휴대폰 결제서비스를 올해 안에 무인우편창구로 확대할 예정”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우편서비스 요금을 휴대폰으로도 결제할 수 있게 됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "충청체신청은 1일부터 국민들이 인터넷우체국을 손쉽게 이용할 수 있도록 휴대폰 결제서비스를 도입한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 서비스로 경조카드와 우표(인터넷우표 포함), 연하장 등 구입과 내용증명, 맞춤형편지 발송 등 15종의 우편서비스에 대한 요금을 휴대폰으로 결제할 수가 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인터넷우체국에서 주민등록번호와 휴대폰 번호를 입력한 뒤 전송되는 SMS 승인번호를 입력하면 결제가 완료된다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "1회 결제한도는 1만원 이하로 이용요금은 다음 달 휴대폰요금에 함께 청구된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "충청체신청 관계자는 “고객 편의를 위해 도입하게 됐다”며 “휴대폰 결제서비스를 올해 안에 무인우편창구로 확대할 예정”이라고 말했다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자, 고려대와 친환경 생활가전 기술 개발 맞손",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

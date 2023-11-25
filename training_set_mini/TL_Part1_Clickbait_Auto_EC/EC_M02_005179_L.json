@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005179",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "아이오닉5, 독일 '아우토빌트' 전기차 비교평가 1위",
+		"newsSubTitle": "바디·파워트레인·편의성·친환경성 등 4가지 항목에서 1위 석권",
+		"newsContent": "현대자동차 아이오닉5가 독일 전기자동차 비교평가서 1위를 차지했다.\n현대차는 28일 아이오닉 5가 독일 유력 자동차 전문 매체 '아우토빌트(Auto Bild)'가 최근 실시한 전기차 비교 평가에서 가장 경쟁력 있는 차로 선정됐다고 밝혔다.\n자동차의 본고장 독일에서 신뢰성 높은 자동차 매거진인 아우토빌트의 평가 결과는 독일뿐만 아니라 유럽 소비자들이 차량을 구매할 때 중요한 판단 기준이 된다.\n아이오닉 5는 바디·파워트레인·편의성·친환경성 등 4가지 항목에서 1위를 석권했다.\n총점 573점으로 Q4 e-tron(565점)과 폴스타 2(553점)를 제치고 종합 1위를 기록했다.\n현대차 관계자는 데일리임팩트에 \\\"앞서 현대차는 지난 2021년 독일 올해의 차에 이어 이달에도 세계 유수의 자동차를 제치고 영국 올해의 차로도 선정된 바 있다\\\"라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차 아이오닉5가 독일 전기자동차 비교평가서 1위를 차지했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대차는 28일 아이오닉 5가 독일 유력 자동차 전문 매체 '아우토빌트(Auto Bild)'가 최근 실시한 전기차 비교 평가에서 가장 경쟁력 있는 차로 선정됐다고 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자동차의 본고장 독일에서 신뢰성 높은 자동차 매거진인 아우토빌트의 평가 결과는 독일뿐만 아니라 유럽 소비자들이 차량을 구매할 때 중요한 판단 기준이 된다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이오닉 5는 바디·파워트레인·편의성·친환경성 등 4가지 항목에서 1위를 석권했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "총점 573점으로 Q4 e-tron(565점)과 폴스타 2(553점)를 제치고 종합 1위를 기록했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현대차 관계자는 데일리임팩트에 \\\"앞서 현대차는 지난 2021년 독일 올해의 차에 이어 이달에도 세계 유수의 자동차를 제치고 영국 올해의 차로도 선정된 바 있다\\\"라고 밝혔다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "양념채소 대거출하… 가격안정될까",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

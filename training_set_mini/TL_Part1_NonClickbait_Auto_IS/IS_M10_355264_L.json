@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355264",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "[속보]다누리, 지상국에 '생존신호'…\\\"교신 성공, 오후2시 브리핑\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "한국의 첫 달 궤도선 다누리가 발사 1시간 30여분 만에 지상국과 최초 교신에 성공했다.\n5일 한국항공우주연구원과 과학기술정보통신부에 따르면 다누리는 이날 오전 9시 40분(미국 동부시간 4일 오후 8시 40분)쯤 지상국과 교신했다.\n앞서 다누리는 미국 플로리다주 케이프커내버럴 우주군기지에서 우주탐사기업 스페이스X 팰컨9 우주 발사체에 실려 발사됐다.\n팰컨9은 1·2단 로켓으로 구성되며 발사 성공률은 99.8%에 달한다.\n다누리를 실은 팰컨9의 1단 로켓은 발사 후 2분 40초쯤 뒤에 2단과 분리됐다.\n이어 발사 40분 뒤 지구로부터 1655㎞ 떨어진 지점에서 2단에 실려 있던 다누리가 성공적으로 분리됐다.\n한국항공우주연구원과 과학기술정보통신부는 이날 오후 2시쯤 발사 후 '달 전이궤도' 진입 결과를 브리핑할 예정이다.\n다누리는 지구와 달의 직선경로(약 38만4400㎞)로 직행하지 않고 약 600만㎞를 곡선으로 항행한 뒤 달에 근접한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국의 첫 달 궤도선 다누리가 발사 1시간 30여분 만에 지상국과 최초 교신에 성공했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 한국항공우주연구원과 과학기술정보통신부에 따르면 다누리는 이날 오전 9시 40분(미국 동부시간 4일 오후 8시 40분)쯤 지상국과 교신했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 다누리는 미국 플로리다주 케이프커내버럴 우주군기지에서 우주탐사기업 스페이스X 팰컨9 우주 발사체에 실려 발사됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팰컨9은 1·2단 로켓으로 구성되며 발사 성공률은 99.8%에 달한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다누리를 실은 팰컨9의 1단 로켓은 발사 후 2분 40초쯤 뒤에 2단과 분리됐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 발사 40분 뒤 지구로부터 1655㎞ 떨어진 지점에서 2단에 실려 있던 다누리가 성공적으로 분리됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국항공우주연구원과 과학기술정보통신부는 이날 오후 2시쯤 발사 후 '달 전이궤도' 진입 결과를 브리핑할 예정이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다누리는 지구와 달의 직선경로(약 38만4400㎞)로 직행하지 않고 약 600만㎞를 곡선으로 항행한 뒤 달에 근접한다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[속보]다누리, 지상국에 '생존신호'…\\\"교신 성공, 오후2시 브리핑\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

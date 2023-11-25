@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350305",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "기계연, 딥러닝 모델로 동맥경화 유발 '대동맥 플라크' 진단",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 대동맥 동맥경화증 진단 속도와 정확도를 높일 수 있는 딥러닝 모델을 개발했다.\n한국기계연구원은 9일 신뢰성평가연구실 박종원 실장 연구팀이 기계류 부품과 장비의 신뢰성 진단을 위해 활용해 온 빅데이터 딥러닝 기술을 적용한 초음파 영상 진단 기술을 개발하고, 대동맥 동맥경화 증상을 정확도 80% 수준으로 진단하는데 성공했다고 밝혔다.\n최근 의학분야에서는 다양한 질병을 조기에 진단하기 위해 초음파 영상과 컴퓨터 단층촬영, 자기공명영상 같은 진단 영상에 머신러닝 기술을 접목하는 시도가 활발하다.\n기계연 연구팀은 대전성모병원 심장내과와 함께 뇌경색 환자의 대동맥 동맥경화 진단을 위한 초음파 영상 분석에 착수했다.\n연구팀은 대동맥 플라크 상태를 분류하고, 플라크의 두께를 측정할 수 있는 딥러닝 모델을 개발했다.\n대동맥 플라크는 혈관 내부에 이물질이 들러붙으면서 생기는 물질로 혈관을 좁게 만들어 동맥경화를 유발한다.\n연구팀은 머신러닝의 다양한 기법 중 오토엔코더(Autoencoder)와 유넷(U-net)모델을 적용해 대동맥벽의 초음파 영상을 판별했다.\n대동맥벽을 초음파 영상으로 판별하면 대동맥 동맥경화성 플라크의 상태를 확인할 수 있다.\n딥러닝 모델은 초음파 영상 분석을 통해 대동맥 동맥경화 증상 환자를 80% 수준의 정확도로 판독해냈다.\n연구팀은 딥러닝 모델을 개선해 질병 판독 정확도를 더 높일 계획이다.\n박종원 기계연 신뢰성평가연구실장은 \\\"머신러닝을 활용한 영상진단 기술은 향후 다양한 질병의 판독과 부품, 장비의 수명 예측 모델을 개발하는 등 다양한 분야에 활용될 수 있을 것으로 기대된다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 대동맥 동맥경화증 진단 속도와 정확도를 높일 수 있는 딥러닝 모델을 개발했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국기계연구원은 9일 신뢰성평가연구실 박종원 실장 연구팀이 기계류 부품과 장비의 신뢰성 진단을 위해 활용해 온 빅데이터 딥러닝 기술을 적용한 초음파 영상 진단 기술을 개발하고, 대동맥 동맥경화 증상을 정확도 80% 수준으로 진단하는데 성공했다고 밝혔다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 의학분야에서는 다양한 질병을 조기에 진단하기 위해 초음파 영상과 컴퓨터 단층촬영, 자기공명영상 같은 진단 영상에 머신러닝 기술을 접목하는 시도가 활발하다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기계연 연구팀은 대전성모병원 심장내과와 함께 뇌경색 환자의 대동맥 동맥경화 진단을 위한 초음파 영상 분석에 착수했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연구팀은 대동맥 플라크 상태를 분류하고, 플라크의 두께를 측정할 수 있는 딥러닝 모델을 개발했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대동맥 플라크는 혈관 내부에 이물질이 들러붙으면서 생기는 물질로 혈관을 좁게 만들어 동맥경화를 유발한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구팀은 머신러닝의 다양한 기법 중 오토엔코더(Autoencoder)와 유넷(U-net)모델을 적용해 대동맥벽의 초음파 영상을 판별했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "대동맥벽을 초음파 영상으로 판별하면 대동맥 동맥경화성 플라크의 상태를 확인할 수 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "딥러닝 모델은 초음파 영상 분석을 통해 대동맥 동맥경화 증상 환자를 80% 수준의 정확도로 판독해냈다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "연구팀은 딥러닝 모델을 개선해 질병 판독 정확도를 더 높일 계획이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "박종원 기계연 신뢰성평가연구실장은 \\\"머신러닝을 활용한 영상진단 기술은 향후 다양한 질병의 판독과 부품, 장비의 수명 예측 모델을 개발하는 등 다양한 분야에 활용될 수 있을 것으로 기대된다\\\"고 말했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "기계연, 딥러닝 모델로 동맥경화 유발 '대동맥 플라크' 진단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

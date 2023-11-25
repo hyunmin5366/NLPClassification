@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323086",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "한국후지쯔-에스엠테크놀로지, 랜섬웨어 시장 공동 공략",
+		"newsSubTitle": "",
+		"newsContent": "한국후지쯔(대표 최재일∙박형구)는 에스엠테크놀로지와 협업해 랜섬웨어 어플라이언스를 공급한다고 25일 밝혔다.\n양사는 후지쯔 x86서버 '프라이머지'와 에스엠테크놀로지 랜섬웨어 솔루션 '독스토리'를 결합한 어플라이언스를 출시한다.\n독스토리지는 화이트리스트 기반 독자적 랜섬웨어 차단 기술이다.\n엔드포인트 구간에 침투한 랜섬웨어가 데이터에 접근하는 것을 차단하고, 위협정보를 관제서버로 실시간 통보한다.\n실시간 생성∙수정되는 데이터를 서버로 백업하고, 시점별 원상복구를 활성화한다.\n데이터 접근 차단기술인 DWD는 랜섬블락 엔진을 이용해 문서를 편집하려는 애플리케이션 경로와 디지털 서명 등 화이트리스트와 비교해 신뢰성을 검증한다.\n신뢰하지 않는 애플리케이션, 프로세스에 의한 파일변경∙삭제, 암호화 시도가 발생하면 행위를 중지하고 로그를 서버로 전송한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국후지쯔(대표 최재일∙박형구)는 에스엠테크놀로지와 협업해 랜섬웨어 어플라이언스를 공급한다고 25일 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양사는 후지쯔 x86서버 '프라이머지'와 에스엠테크놀로지 랜섬웨어 솔루션 '독스토리'를 결합한 어플라이언스를 출시한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "독스토리지는 화이트리스트 기반 독자적 랜섬웨어 차단 기술이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "엔드포인트 구간에 침투한 랜섬웨어가 데이터에 접근하는 것을 차단하고, 위협정보를 관제서버로 실시간 통보한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실시간 생성∙수정되는 데이터를 서버로 백업하고, 시점별 원상복구를 활성화한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "데이터 접근 차단기술인 DWD는 랜섬블락 엔진을 이용해 문서를 편집하려는 애플리케이션 경로와 디지털 서명 등 화이트리스트와 비교해 신뢰성을 검증한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신뢰하지 않는 애플리케이션, 프로세스에 의한 파일변경∙삭제, 암호화 시도가 발생하면 행위를 중지하고 로그를 서버로 전송한다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국후지쯔-에스엠테크놀로지, 랜섬웨어 시장 공동 공략",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

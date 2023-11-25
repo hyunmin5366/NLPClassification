@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322216",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "넷크루즈 빅데이터솔루션 '빅아이', 최고 무손실 로그처리 성능 인증",
+		"newsSubTitle": "",
+		"newsContent": "빅데이터 플랫폼 기반 통합 로그 및 보안 관리 솔루션 전문 업체 넷크루즈(대표 김선욱)는 빅데이터솔루션'빅아이“가 한국정보통신기술협회(TTA)로부터 국내 빅데이터 솔루션으로서는 최고 성능인 120만 EPS(Event per Second)의 무손실 로그처리 성능을 인증 받았다고 밝혔다.\n무손실 로그처리 역량은 최근 대용량화되는 고객 환경에 대응하기 위한 필수 요건으로 부각되고 있다.\n높은 수집 EPS에 비해 낮은 인덱싱 EPS 상황이 발생하면 과부하를 초래해 데이터 유실을 초래할 수 있다.\n빅아이는 자체 개발한 스마트리소스 분산기술을 이용해 시스템의 가용자원을 효율적으로 활용, 데이터 수집·인덱싱·검색성능을 안정적으로 보장한다.\n특히 고객 요구상황에 맞게 컴포넌트 형식으로 추가가능한 스트리밍데이터 실시간분산 분석모듈을 탑재하면 통합보안관제, 개인정보 오남용 모니터링, 이상징후 탐지 등 유연한 업무 확장성을 제공한다.\n기존 대비 로그량이 급증한 차세대 방화벽 등 단일 장비 발생 로그 고용량화, 여러 영역에 걸친 다양한 다수 장비 관리와 분석에 따른 로그 고용량화 등으로 빅아이 수요는 더욱 늘어날 것으로 넷크루즈는 예상했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빅데이터 플랫폼 기반 통합 로그 및 보안 관리 솔루션 전문 업체 넷크루즈(대표 김선욱)는 빅데이터솔루션'빅아이“가 한국정보통신기술협회(TTA)로부터 국내 빅데이터 솔루션으로서는 최고 성능인 120만 EPS(Event per Second)의 무손실 로그처리 성능을 인증 받았다고 밝혔다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "무손실 로그처리 역량은 최근 대용량화되는 고객 환경에 대응하기 위한 필수 요건으로 부각되고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "높은 수집 EPS에 비해 낮은 인덱싱 EPS 상황이 발생하면 과부하를 초래해 데이터 유실을 초래할 수 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "빅아이는 자체 개발한 스마트리소스 분산기술을 이용해 시스템의 가용자원을 효율적으로 활용, 데이터 수집·인덱싱·검색성능을 안정적으로 보장한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 고객 요구상황에 맞게 컴포넌트 형식으로 추가가능한 스트리밍데이터 실시간분산 분석모듈을 탑재하면 통합보안관제, 개인정보 오남용 모니터링, 이상징후 탐지 등 유연한 업무 확장성을 제공한다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기존 대비 로그량이 급증한 차세대 방화벽 등 단일 장비 발생 로그 고용량화, 여러 영역에 걸친 다양한 다수 장비 관리와 분석에 따른 로그 고용량화 등으로 빅아이 수요는 더욱 늘어날 것으로 넷크루즈는 예상했다.",
+				"sentenceSize": 116
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "넷크루즈 빅데이터솔루션 '빅아이', 최고 무손실 로그처리 성능 인증",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

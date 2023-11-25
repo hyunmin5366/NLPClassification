@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347074",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "AWS, 클라우드 인력양성 위해 韓대학교 지원 확대",
+		"newsSubTitle": "null",
+		"newsContent": "클라우드 업체 아마존웹서비스(AWS)가 클라우드 전문인력 양성을 위한 대학교 지원 프로그램인 'AWS 에듀케이트(AWS Educate)'를 확대 실시한다고 20일 밝혔다.\nAWS 에듀케이트는 AWS의 클라우드 교육 자료를 대학 교육 과정에 활용할 수 있도록 하고, 서비스 무료 사용권을 제공해 클라우드 업계로 진출하고자 하는 학생들이 클라우드 기술 및 AWS 서비스를 체험할 수 있도록 하는 지원하는 프로그램이다.\n대학교, 교수, 학생 누구나 프로그램을 이용할 수 있으며 AWS 홈페이지(http://www.awseducate.com)에서 신청해 승인을 받은 후 무료로 이용할 수 있다.\n현재 미국 카네기멜론대학교(Carnegie Mellon University), 독일 뮌헨공과대학교(Technology University of Munich)를 비롯한 150개 이상의 대학이 AWS 에듀케이트 회원으로 가입했다.\n한국에서는 서강대학교와 서울대학교가 프로그램에 참여하고 있다.\n염동훈 AWS코리아 대표는“AWS는 교육지원 프로그램을 통해 교육자와 학생들이 좋은 아이디어를 현실로 만들 수 있도록 꾸준히 지원해왔다\\\"며 \\\"AWS 에듀케이트가 국내 클라우드 산업 전문인력 양성에 지속적으로 기여할 수 있도록 하겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "클라우드 업체 아마존웹서비스(AWS)가 클라우드 전문인력 양성을 위한 대학교 지원 프로그램인 'AWS 에듀케이트(AWS Educate)'를 확대 실시한다고 20일 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AWS 에듀케이트는 AWS의 클라우드 교육 자료를 대학 교육 과정에 활용할 수 있도록 하고, 서비스 무료 사용권을 제공해 클라우드 업계로 진출하고자 하는 학생들이 클라우드 기술 및 AWS 서비스를 체험할 수 있도록 하는 지원하는 프로그램이다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대학교, 교수, 학생 누구나 프로그램을 이용할 수 있으며 AWS 홈페이지(http://www.awseducate.com)에서 신청해 승인을 받은 후 무료로 이용할 수 있다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 미국 카네기멜론대학교(Carnegie Mellon University), 독일 뮌헨공과대학교(Technology University of Munich)를 비롯한 150개 이상의 대학이 AWS 에듀케이트 회원으로 가입했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국에서는 서강대학교와 서울대학교가 프로그램에 참여하고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "염동훈 AWS코리아 대표는“AWS는 교육지원 프로그램을 통해 교육자와 학생들이 좋은 아이디어를 현실로 만들 수 있도록 꾸준히 지원해왔다\\\"며 \\\"AWS 에듀케이트가 국내 클라우드 산업 전문인력 양성에 지속적으로 기여할 수 있도록 하겠다\\\"고 밝혔다.",
+				"sentenceSize": 139
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AWS, 클라우드 인력양성 위해 韓대학교 지원 확대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

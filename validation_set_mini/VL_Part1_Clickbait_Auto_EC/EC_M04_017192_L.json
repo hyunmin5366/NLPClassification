@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017192",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "ETRI, 중국에서 국내 UHD 방송 소개",
+		"newsSubTitle": "",
+		"newsContent": "▲ 대화면 파노라마 영상 서비스 MPEG에서 초고화질 방송 현황과 전망 밝혀 ETRI(한국전자통신연구원)는 안치득 방송ㆍ미디어연구소장이 19일 중국 청두에서 열리고 있는 ‘MPEG’ 회의에서 국내 UHD(초고화질) 방송 현황과 전망에 대해 소개했다고 밝혔다.\n지난 17일부터 진행되고 있는 MPEG(Moving Picture Experts Group)는 방송 등 멀티미디어 서비스를 위한 국제표준을 제정하는 회의다.\n안 소장은 MPEG의 초청을 받아 발표를 준비했다.\n안 소장은 내년 2월부터 국내 UHD 지상파 방송에 사용될 ‘고효율 비디오 코덱(HEVC)’과 3D 오디오, MPEG 미디어 전송기술 등에 관해 설명하고 미래의 미디어라 불리는 ‘테라 미디어’도 소개했다 테라미디어는 UHD 방송에 쓰이는 기가급 용량의 데이터를 넘어서서 현장감과 사실감을 높이기 위해 테라급 데이터를 필요로 하는 미디어로, 홀로그램ㆍ광파 영상 등이 그 예다.\n한편 ETRI는 이날 평창 동계올림픽에서 시범서비스를 목표로 개발 중인 ‘대(大)화면 파노라마 영상(UWV)’ 서비스를 삼성전자와 공동으로 시연했다.\nUWV(Ultra Wide Vision)는 기존 디지털 영상의 제한된 시야각(고화질 TV의 경우 16대 9)을 넘어 4대 1 이상의 광시야각 파노라마 영상을 통해 극대화된 몰입도를 제공하는 서비스다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 대화면 파노라마 영상 서비스 MPEG에서 초고화질 방송 현황과 전망 밝혀 ETRI(한국전자통신연구원)는 안치득 방송ㆍ미디어연구소장이 19일 중국 청두에서 열리고 있는 ‘MPEG’ 회의에서 국내 UHD(초고화질) 방송 현황과 전망에 대해 소개했다고 밝혔다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 17일부터 진행되고 있는 MPEG(Moving Picture Experts Group)는 방송 등 멀티미디어 서비스를 위한 국제표준을 제정하는 회의다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "안 소장은 MPEG의 초청을 받아 발표를 준비했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안 소장은 내년 2월부터 국내 UHD 지상파 방송에 사용될 ‘고효율 비디오 코덱(HEVC)’과 3D 오디오, MPEG 미디어 전송기술 등에 관해 설명하고 미래의 미디어라 불리는 ‘테라 미디어’도 소개했다 테라미디어는 UHD 방송에 쓰이는 기가급 용량의 데이터를 넘어서서 현장감과 사실감을 높이기 위해 테라급 데이터를 필요로 하는 미디어로, 홀로그램ㆍ광파 영상 등이 그 예다.",
+				"sentenceSize": 209
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한편 ETRI는 이날 평창 동계올림픽에서 시범서비스를 목표로 개발 중인 ‘대(大)화면 파노라마 영상(UWV)’ 서비스를 삼성전자와 공동으로 시연했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "UWV(Ultra Wide Vision)는 기존 디지털 영상의 제한된 시야각(고화질 TV의 경우 16대 9)을 넘어 4대 1 이상의 광시야각 파노라마 영상을 통해 극대화된 몰입도를 제공하는 서비스다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세종 국립중앙수목원 조성 본궤도",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

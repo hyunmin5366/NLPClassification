@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348705",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "외신 \\\"애플카 파트너는 현대차 아니면 폭스바겐\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "애플이 수개월 내 '애플카' 제조 협력업체를 확정할 것이란 관측이 제기됐다.\n유력 후보로 현대자동차와 폭스바겐이 꼽힌다. 8일(현지시각) 외신 애플인사이더는 투자은행 웨드부시 보고서를 인용해 애플이 상반기 중 애플카 제조 파트너를 공식 발표할 것이라고 전했다.\n보고서에 따르면 애플은 향후 3~6개월 이내에 전기차 파트너와 협업 계약을 공식 발표할 가능성이 85% 이상이다.\n최근 GM(제너럴모터스)과 포드가 전기차 시장에 강한 의지를 보이고 있고, 조 바이든 미국 대통령도 친환경 차에 대한 특혜를 제공할 것으로 보이는 만큼 지금이 최적기라는 설명이다.\n보고서는 애플과 현대차 협상이 중단됐지만, 현대차의 전기차 생산 플랫폼 E-GMP는 여전히 애플에 적합하다고 설명했다.\n현대차와 협상이 끝내 재개되지 못할 때는 폭스바겐이 유력한 대안이 될 수 있을 것으로 내다봤다.\n폭스바겐의 모듈형 전기차 플랫폼 MEB(Modular Electric Drive) 새로운 자율주행차 모델을 쉽게 통합할 수 있는 프레임워크라는 게 그 이유다.\n보고서는 \\\"애플이 2024년까지 애플카를 내놓을 수 있다면 애플은 전기차 시장에 중요한 위치를 차지하게 될 것이고, 테슬라, GM, 포드 등 시장 점유율을 뒤흔들 수도 있을 것\\\"이라며 \\\"5조 달러 규모로 예상되는 전기차 시장을 애플이 5~10%만 차지해도 애플엔 새로운 성장 동력이 될 수 있을 것\\\"이라고 전망했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 수개월 내 '애플카' 제조 협력업체를 확정할 것이란 관측이 제기됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유력 후보로 현대자동차와 폭스바겐이 꼽힌다. 8일(현지시각) 외신 애플인사이더는 투자은행 웨드부시 보고서를 인용해 애플이 상반기 중 애플카 제조 파트너를 공식 발표할 것이라고 전했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보고서에 따르면 애플은 향후 3~6개월 이내에 전기차 파트너와 협업 계약을 공식 발표할 가능성이 85% 이상이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 GM(제너럴모터스)과 포드가 전기차 시장에 강한 의지를 보이고 있고, 조 바이든 미국 대통령도 친환경 차에 대한 특혜를 제공할 것으로 보이는 만큼 지금이 최적기라는 설명이다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보고서는 애플과 현대차 협상이 중단됐지만, 현대차의 전기차 생산 플랫폼 E-GMP는 여전히 애플에 적합하다고 설명했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현대차와 협상이 끝내 재개되지 못할 때는 폭스바겐이 유력한 대안이 될 수 있을 것으로 내다봤다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "폭스바겐의 모듈형 전기차 플랫폼 MEB(Modular Electric Drive) 새로운 자율주행차 모델을 쉽게 통합할 수 있는 프레임워크라는 게 그 이유다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "보고서는 \\\"애플이 2024년까지 애플카를 내놓을 수 있다면 애플은 전기차 시장에 중요한 위치를 차지하게 될 것이고, 테슬라, GM, 포드 등 시장 점유율을 뒤흔들 수도 있을 것\\\"이라며 \\\"5조 달러 규모로 예상되는 전기차 시장을 애플이 5~10%만 차지해도 애플엔 새로운 성장 동력이 될 수 있을 것\\\"이라고 전망했다.",
+				"sentenceSize": 180
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "외신 \\\"애플카 파트너는 현대차 아니면 폭스바겐\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

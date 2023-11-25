@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350019",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT, 국내 사업자 최초 AMD 서버 클라우드 상품 출시",
+		"newsSubTitle": "null",
+		"newsContent": "KT가 국내 클라우드 사업자 최초로 AMD 프로세서 기반 가상 서버 IaaS(서비스형 인프라) 상품을 출시한다고 19일 밝혔다.\nAMD 서버는 기존 동일 사양 서버 요금의 80% 수준으로, 기업고객들은 저렴한 가격으로 고성능 컴퓨팅 자원을 이용할 수 있게 됐다.\nAMD 서버는 일반 웹, 미들웨어뿐 아니라 데이터베이스, 빅데이터 분석 등 다양한 업무 분야에 적용할 수 있다.\n기존 시스템도 업계 표준 x86 아키텍처로 쉽게 전환을 지원해, 가격 대비 우수한 성능을 필요로 하는 고객에게 적합하다.\nKT의 자체 검증 결과, AMD 서버는 KT 클라우드 D1 플랫폼에서 운용 중인 인텔 서버 CPU 캐스케이드(Cascade)와 동일 수준의 성능을 보여주고 있다.\n따라서 대규모 구축을 준비하는 기업고객은 AMD 서버를 활용해 총소유비용(TCO)을 대폭 절감할 수 있을 것으로 기대된다.\nAMD 서버는 일반 퍼블릭 클라우드 존보다 보안성, 유연성이 강화된 KT 클라우드의 'D1 플랫폼'에서 제공된다.\n출시 이후에는 D1 플랫폼뿐만 아니라 KT G-클라우드(공공 클라우드 존), F-클라우드(금융 클라우드 존)까지 지속 확장시켜나간다는 계획이다.\nD1 플랫폼은 침입방지시스템(IPS), 방화벽, 가상사설망(VPN) 등 물리 보안장비가 구축돼 보안 안정성이 뛰어나다.\n또한 대민서비스용 인프라인 DMZ와 프라이빗 네트워크를 유연하게 15개까지 생성할 수 있다.\n모든 네트워크와 방화벽 정책을 클라우드 콘솔 내에서 손쉽게 설정할 수도 있다.\n기존에 제공하던 서버와 동일한 사양(64v코어 x 64GB)의 서버뿐만 아니라, 최대 128v코어 x 256GB 메모리의 고사양의 서버도 제공한다.\nKT는 AMD 서버 출시를 기념해 오는 12월 말까지 50% 할인된 가격으로 서비스를 제공한다.\n이미희 KT Cloud·DX사업본부장(상무)는 \\\"AMD서버는 높은 가격경쟁력으로 대규모 구축을 준비중인 고객들에게 도움이 될 수 있을 것\\\"이라며 \\\"앞으로도 KT 클라우드는 우수한 품질의 IaaS 서비스를 합리적인 가격에 제공할 수 있도록 경쟁력있는 상품을 지속 발굴하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 국내 클라우드 사업자 최초로 AMD 프로세서 기반 가상 서버 IaaS(서비스형 인프라) 상품을 출시한다고 19일 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AMD 서버는 기존 동일 사양 서버 요금의 80% 수준으로, 기업고객들은 저렴한 가격으로 고성능 컴퓨팅 자원을 이용할 수 있게 됐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AMD 서버는 일반 웹, 미들웨어뿐 아니라 데이터베이스, 빅데이터 분석 등 다양한 업무 분야에 적용할 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 시스템도 업계 표준 x86 아키텍처로 쉽게 전환을 지원해, 가격 대비 우수한 성능을 필요로 하는 고객에게 적합하다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KT의 자체 검증 결과, AMD 서버는 KT 클라우드 D1 플랫폼에서 운용 중인 인텔 서버 CPU 캐스케이드(Cascade)와 동일 수준의 성능을 보여주고 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "따라서 대규모 구축을 준비하는 기업고객은 AMD 서버를 활용해 총소유비용(TCO)을 대폭 절감할 수 있을 것으로 기대된다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "AMD 서버는 일반 퍼블릭 클라우드 존보다 보안성, 유연성이 강화된 KT 클라우드의 'D1 플랫폼'에서 제공된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "출시 이후에는 D1 플랫폼뿐만 아니라 KT G-클라우드(공공 클라우드 존), F-클라우드(금융 클라우드 존)까지 지속 확장시켜나간다는 계획이다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "D1 플랫폼은 침입방지시스템(IPS), 방화벽, 가상사설망(VPN) 등 물리 보안장비가 구축돼 보안 안정성이 뛰어나다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또한 대민서비스용 인프라인 DMZ와 프라이빗 네트워크를 유연하게 15개까지 생성할 수 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "모든 네트워크와 방화벽 정책을 클라우드 콘솔 내에서 손쉽게 설정할 수도 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기존에 제공하던 서버와 동일한 사양(64v코어 x 64GB)의 서버뿐만 아니라, 최대 128v코어 x 256GB 메모리의 고사양의 서버도 제공한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "KT는 AMD 서버 출시를 기념해 오는 12월 말까지 50% 할인된 가격으로 서비스를 제공한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이미희 KT Cloud·DX사업본부장(상무)는 \\\"AMD서버는 높은 가격경쟁력으로 대규모 구축을 준비중인 고객들에게 도움이 될 수 있을 것\\\"이라며 \\\"앞으로도 KT 클라우드는 우수한 품질의 IaaS 서비스를 합리적인 가격에 제공할 수 있도록 경쟁력있는 상품을 지속 발굴하겠다\\\"고 말했다.",
+				"sentenceSize": 162
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 국내 사업자 최초 AMD 서버 클라우드 상품 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339652",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "자일대우·삼성SDI·피엠그로우, 전기버스 사업 '맞손'",
+		"newsSubTitle": "",
+		"newsContent": "자일대우버스가 삼성SDI와 피엠그로우와 손잡고 전기버스 사업 본격화에 나선다.\n자일대우버스는 최근 임사연 자일대우 부사장, 김정욱 삼성SDI 전무, 박재홍 피엠그로우 사장이 참석한 가운데 전기버스 사업 협력에 관한 업무 제휴를 맺었다고 20일 밝혔다.\n자일대우버스는 국내외 전기버스 시장 공략을 위해 표준형 플러그인 충전방식 전기버스를 개발한다.\n여기에 전기버스용 배터리는 삼성SDI가, 배터리관리시스템(BMS), 충전기 등 전기버스 통합 관리는 피엠그로우가 맡게 된다.\n이들 3사는 전기버스와 배터리팩, 충전인프라, 운행관리시스템 등 운수사업자를 비롯한 전기버스 수요처인 운수사업자에게 필요한 맞춤형 통합솔루션을 제공해 시장 차별화한다는 전략이다.\n자일대우버스는 이번 3사 협약을 시작으로 전기버스 전용 생산라인 등을 구축해 시장 선점에 나설 계획이다.\n한편 국내 전기버스 시장은 김포와 부산·제주 등에서 대중교통망인 일반 시내버스 노선에 투입이 시작되면서 올해 연간 100대 규모가 예상된다.\n내년에는 300대 수준으로 성장할 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자일대우버스가 삼성SDI와 피엠그로우와 손잡고 전기버스 사업 본격화에 나선다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자일대우버스는 최근 임사연 자일대우 부사장, 김정욱 삼성SDI 전무, 박재홍 피엠그로우 사장이 참석한 가운데 전기버스 사업 협력에 관한 업무 제휴를 맺었다고 20일 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자일대우버스는 국내외 전기버스 시장 공략을 위해 표준형 플러그인 충전방식 전기버스를 개발한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여기에 전기버스용 배터리는 삼성SDI가, 배터리관리시스템(BMS), 충전기 등 전기버스 통합 관리는 피엠그로우가 맡게 된다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들 3사는 전기버스와 배터리팩, 충전인프라, 운행관리시스템 등 운수사업자를 비롯한 전기버스 수요처인 운수사업자에게 필요한 맞춤형 통합솔루션을 제공해 시장 차별화한다는 전략이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "자일대우버스는 이번 3사 협약을 시작으로 전기버스 전용 생산라인 등을 구축해 시장 선점에 나설 계획이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 국내 전기버스 시장은 김포와 부산·제주 등에서 대중교통망인 일반 시내버스 노선에 투입이 시작되면서 올해 연간 100대 규모가 예상된다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "내년에는 300대 수준으로 성장할 전망이다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "자일대우·삼성SDI·피엠그로우, 전기버스 사업 '맞손'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

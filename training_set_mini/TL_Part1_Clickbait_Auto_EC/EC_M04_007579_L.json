@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007579",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피 1960선… 연중 최고 '바짝'",
+		"newsSubTitle": "1962.52 마감… 삼성전자 92만1천원 최고가 기록",
+		"newsContent": "코스피시장이 1960선을 회복하며 연중 최고치에 한 발짝 다가섰다.\n7일 코스피는 전 거래일보다 8.88포인트(0.45%) 오른 1962.52에 장을 마감했다.\n외국인과 기관은 각각 1036억원, 350억원을 순매수했고 개인은 1140억원 순매도했다.\n특히 삼성전자는 최고가(92만1000원)를 기록하며 90만원대 고지에 올라섰다.\n업종별로는 증권(+3.66%), 철강금속(+2.36%), 건설업(+1.18%), 통신업(+1.11%)은 상승했다.\n유통업(-1.05%), 운수창고업(-0.82%), 비금속광물(-0.11%), 보험업(-0.07%)은 하락했다.\n코스닥 지수는 전날보다 1.95포인트(0.39%) 오른 504.49로 장을 마쳤다.\n개인과 외국인이 각각 126억원, 70억원 순매수했고 기관은 97억원 순매도했다.\n업종별로는 컴퓨터서비스(+3.12%), 가구(+3.10%), 유통(+1.82%), 제약(+1.73%)은 상승했고 화학(-1.26%), 출판·매체복제(-1.11%), 오락·문화(-0.85%), 운송장비·부품(-0.71%)은 하락했다.\n서울 외환시장에서 미국 달러화에 대한 원화 환율은 전날보다 1.8원 내린 1131.4원을 기록했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피시장이 1960선을 회복하며 연중 최고치에 한 발짝 다가섰다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 코스피는 전 거래일보다 8.88포인트(0.45%) 오른 1962.52에 장을 마감했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "외국인과 기관은 각각 1036억원, 350억원을 순매수했고 개인은 1140억원 순매도했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 삼성전자는 최고가(92만1000원)를 기록하며 90만원대 고지에 올라섰다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업종별로는 증권(+3.66%), 철강금속(+2.36%), 건설업(+1.18%), 통신업(+1.11%)은 상승했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "유통업(-1.05%), 운수창고업(-0.82%), 비금속광물(-0.11%), 보험업(-0.07%)은 하락했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코스닥 지수는 전날보다 1.95포인트(0.39%) 오른 504.49로 장을 마쳤다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "개인과 외국인이 각각 126억원, 70억원 순매수했고 기관은 97억원 순매도했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "업종별로는 컴퓨터서비스(+3.12%), 가구(+3.10%), 유통(+1.82%), 제약(+1.73%)은 상승했고 화학(-1.26%), 출판·매체복제(-1.11%), 오락·문화(-0.85%), 운송장비·부품(-0.71%)은 하락했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "서울 외환시장에서 미국 달러화에 대한 원화 환율은 전날보다 1.8원 내린 1131.4원을 기록했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중도일보 인터넷 접속률 충청권 신문 1위·전국 3위",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

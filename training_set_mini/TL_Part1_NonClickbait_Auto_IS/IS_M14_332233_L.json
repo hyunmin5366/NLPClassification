@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332233",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "장비",
+		"newsTitle": "로봇의족 '나의 새로운 발'",
+		"newsSubTitle": "",
+		"newsContent": "국가유공자 로봇의족 시연회가 5일 서울 강동구 중앙보훈병원 보장구센터에서 열렸다.\n민병익 국가유공자가 로봇의족 시연을 하고 있다.\n한국기계연구원과 국가보훈처, 한국보훈복지의료공단은 다리부상을 입은 국가유공자들을 위해 최첨단 로봇의족 개발 협업을 진행, 크기와 무게·배터리 사용시간·소음 및 발열 조작 편의성 등 사용자 측면에서 품질을 크게 개선한 로봇의족을 개발했다.\n국가유공자 로봇의족 사용성 테스트에 참가한 민병익 씨가 신형 로봇의족을 착용하고 시연하고 있다.\n로봇의족 사용성 테스트에 참가한 민병익 씨가 로봇의족 착용 소감을 밝히고 있다.\n박삼득 국가보훈처장이 인사말을 하고 있다.\n박천홍 한국기계연구원장이 로봇의족에 관한 설명을 하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국가유공자 로봇의족 시연회가 5일 서울 강동구 중앙보훈병원 보장구센터에서 열렸다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "민병익 국가유공자가 로봇의족 시연을 하고 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국기계연구원과 국가보훈처, 한국보훈복지의료공단은 다리부상을 입은 국가유공자들을 위해 최첨단 로봇의족 개발 협업을 진행, 크기와 무게·배터리 사용시간·소음 및 발열 조작 편의성 등 사용자 측면에서 품질을 크게 개선한 로봇의족을 개발했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국가유공자 로봇의족 사용성 테스트에 참가한 민병익 씨가 신형 로봇의족을 착용하고 시연하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "로봇의족 사용성 테스트에 참가한 민병익 씨가 로봇의족 착용 소감을 밝히고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박삼득 국가보훈처장이 인사말을 하고 있다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "박천홍 한국기계연구원장이 로봇의족에 관한 설명을 하고 있다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "로봇의족 '나의 새로운 발'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

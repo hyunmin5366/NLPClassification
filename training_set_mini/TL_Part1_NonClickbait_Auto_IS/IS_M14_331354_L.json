@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331354",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "유밥, 네이버클라우드 전략적 투자 유치",
+		"newsSubTitle": "",
+		"newsContent": "국내 1위 스마트러닝 솔루션 기업 유밥(대표 민승재)은 네이버클라우드로부터 투자 유치를 완료했다고 9일 밝혔다.\n이번 투자는 유밥의 선도적 에듀테크 기술과 스마트러닝 시장의 성장 가능성을 높이 평가받아 이뤄진 것으로 분석된다.\n유밥은 직장인 직무능력 향상과 자기계발을 지원하는 스마트러닝 전문기업이다.\n2010년 구독형 기업교육 시스템을 국내에 처음 도입하고 콘텐츠와 플랫폼을 제공하고 있다.\n현재까지 2700여개 기업에 서비스를 제공했으며 누적 학습자 수는 130만명에 이른다.\n특히 유밥은 빅데이터와 메타버스에 대한 연구개발을 통해 관련 특허 10개를 획득했으며 6개는 출원 중이다.\n특허를 기반으로 한 'AiLearn'을 개발, 학습자 맞춤형 큐레이션을 제공하고 있다.\n이 솔루션은 AI어시스턴트 수준을 넘어 학습자에 대한 학습방향성까지 제시한다.\n민승재 대표는 “앞으로도 기술 개발과 콘텐츠 개발에 집중 투자해 국내 스마트러닝 시장 1위를 유지 하겠다”며 “시장 자체를 키워 기업 공개시기도 앞당길 예정”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 1위 스마트러닝 솔루션 기업 유밥(대표 민승재)은 네이버클라우드로부터 투자 유치를 완료했다고 9일 밝혔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 투자는 유밥의 선도적 에듀테크 기술과 스마트러닝 시장의 성장 가능성을 높이 평가받아 이뤄진 것으로 분석된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유밥은 직장인 직무능력 향상과 자기계발을 지원하는 스마트러닝 전문기업이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2010년 구독형 기업교육 시스템을 국내에 처음 도입하고 콘텐츠와 플랫폼을 제공하고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재까지 2700여개 기업에 서비스를 제공했으며 누적 학습자 수는 130만명에 이른다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 유밥은 빅데이터와 메타버스에 대한 연구개발을 통해 관련 특허 10개를 획득했으며 6개는 출원 중이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특허를 기반으로 한 'AiLearn'을 개발, 학습자 맞춤형 큐레이션을 제공하고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 솔루션은 AI어시스턴트 수준을 넘어 학습자에 대한 학습방향성까지 제시한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "민승재 대표는 “앞으로도 기술 개발과 콘텐츠 개발에 집중 투자해 국내 스마트러닝 시장 1위를 유지 하겠다”며 “시장 자체를 키워 기업 공개시기도 앞당길 예정”이라고 말했다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유밥, 네이버클라우드 전략적 투자 유치",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

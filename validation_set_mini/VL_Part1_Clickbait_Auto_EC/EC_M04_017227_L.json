@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017227",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "코레일, 한번에 1천명 이상 수송 300km/h 이상 열차 구매 시작",
+		"newsSubTitle": "",
+		"newsContent": "차세대 고속열차 2편성 구매 공고... 연말까지 계약 완료 제작기간 34개월과 시운전 15개월 거쳐 2020년 도입 완료 한 번에 1098명을 수송할 수 있는 300km/h 이상의 차세대 고속열차가 2020년부터는 본격적으로 운행할 것으로 보인다.\n코레일(사장 홍순만)은 24일 차세대 고속열차 2편성에 대한 구매 공고를 했다.\n이 열차는 기존 KTX-산천보다 좌석 수, 속도와 가속력, 에너지 효율 등 모든 면에서 뛰어나며 특히, 앞뒤에 엔진이 집중된 KTX와 달리 엔진을 객차 하부에 분산 배치해 공급좌석 수를 극대화할 수 있는 게 장점이다.\n좌석 수를 비교해 보면 KTX-산천(363석) 대비 40∼50%(회전식 515석∼고정식 549석) 증가했다.\n2편성을 중련 연결할 경우 최대 1098명을 한 번에 수송할 수 있다.\n엔진을 분산 배치하면서 선로와의 접촉력이 늘어나 가ㆍ감속 성능이 향상돼 곡선 선로가 많고 역간 거리가 짧은 국내 철도환경에 최적화된 차량이라는 게 코레일의 설명이다.\n이와 함께 전력소비량이 동력집중식의 75% 수준이라 에너지비용인 KTX보다 연간 300억원 절감할 수 있고, 엔진이 분산된 만큼 일부 장애가 발생하더라도 정상 운행이 가능한 것도 장점으로 꼽았다.\n코레일은 연말까지 구매 계약을 마친 후 34개월의 제작기간과 15개월의 시운전을 거쳐 2020년까지 차량 도입을 완료할 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "차세대 고속열차 2편성 구매 공고... 연말까지 계약 완료 제작기간 34개월과 시운전 15개월 거쳐 2020년 도입 완료 한 번에 1098명을 수송할 수 있는 300km/h 이상의 차세대 고속열차가 2020년부터는 본격적으로 운행할 것으로 보인다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코레일(사장 홍순만)은 24일 차세대 고속열차 2편성에 대한 구매 공고를 했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 열차는 기존 KTX-산천보다 좌석 수, 속도와 가속력, 에너지 효율 등 모든 면에서 뛰어나며 특히, 앞뒤에 엔진이 집중된 KTX와 달리 엔진을 객차 하부에 분산 배치해 공급좌석 수를 극대화할 수 있는 게 장점이다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "좌석 수를 비교해 보면 KTX-산천(363석) 대비 40∼50%(회전식 515석∼고정식 549석) 증가했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2편성을 중련 연결할 경우 최대 1098명을 한 번에 수송할 수 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "엔진을 분산 배치하면서 선로와의 접촉력이 늘어나 가ㆍ감속 성능이 향상돼 곡선 선로가 많고 역간 거리가 짧은 국내 철도환경에 최적화된 차량이라는 게 코레일의 설명이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이와 함께 전력소비량이 동력집중식의 75% 수준이라 에너지비용인 KTX보다 연간 300억원 절감할 수 있고, 엔진이 분산된 만큼 일부 장애가 발생하더라도 정상 운행이 가능한 것도 장점으로 꼽았다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "코레일은 연말까지 구매 계약을 마친 후 34개월의 제작기간과 15개월의 시운전을 거쳐 2020년까지 차량 도입을 완료할 예정이다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "韓美협력 찬스잡은 중화학업계…태양광·방산·원자력 '방긋'(종합)",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

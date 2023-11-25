@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338901",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "코어트러스트-넷클립스, 공공 CCTV영상보안솔루션 시장 공략 강화",
+		"newsSubTitle": "",
+		"newsContent": "코어트러스트(대표 우제학)는 공공부문 총판 넷클립스(대표 김희영)와 CCTV 영상정보 보안솔루션 '프리브키퍼X'의 조달청 소프트웨어 3자 단가 등록을 마치고 시장 확대에 나섰다.\n프리브키퍼X는 CCTV 영상반출 과정과 이력 관리, DRM 영상암호화와 영상 제어, 얼굴과 신체·차량번호판 마스킹 기능을 제공한다.\n눈으로 볼 수 없는 워터마크도 적용해 개인정보보호 및 불법 영상 유출 피해를 방지하고 사후 추적까지 가능하다.\n마스킹 기능에 딥러닝 기반 기술을 적용해 사용자 편리성을 크게 제고했다.\nDRM, 마스킹, 워터마킹 기술 등을 활용한 보안성이 우수한 제품으로 국내 대기업과 금융기관에 공급되고 있다.\n코어트러스트는 제품 라인업을 지속 확대해 총판업체 넷클립스와 CCTV 시장 입지를 다질 계획이다.\n프리브키퍼X는 조달청 나라장터 종합쇼핑몰에서 구매 가능하다.\n개인정보보호법 및 개인 프라이버시 보호 필요성이 전방위 강화되는 추세에 따라 CCTV 영상반출 관리 문의와 상담이 증가하고 있다고 코어트러스트는 밝혔다.\n코어트러스트 관계자는 “코어트러스트 딥러닝 기반 영상 자동마스킹 솔루션은 대기업 제안시 벤치마크테스트에서 95% 이상 높은 인식율로 수주했으며 추가 도입도 협의 중”이라면서 “공공시장 공략을 강화해 매출을 다변화할 계획”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코어트러스트(대표 우제학)는 공공부문 총판 넷클립스(대표 김희영)와 CCTV 영상정보 보안솔루션 '프리브키퍼X'의 조달청 소프트웨어 3자 단가 등록을 마치고 시장 확대에 나섰다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "프리브키퍼X는 CCTV 영상반출 과정과 이력 관리, DRM 영상암호화와 영상 제어, 얼굴과 신체·차량번호판 마스킹 기능을 제공한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "눈으로 볼 수 없는 워터마크도 적용해 개인정보보호 및 불법 영상 유출 피해를 방지하고 사후 추적까지 가능하다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마스킹 기능에 딥러닝 기반 기술을 적용해 사용자 편리성을 크게 제고했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "DRM, 마스킹, 워터마킹 기술 등을 활용한 보안성이 우수한 제품으로 국내 대기업과 금융기관에 공급되고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코어트러스트는 제품 라인업을 지속 확대해 총판업체 넷클립스와 CCTV 시장 입지를 다질 계획이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "프리브키퍼X는 조달청 나라장터 종합쇼핑몰에서 구매 가능하다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "개인정보보호법 및 개인 프라이버시 보호 필요성이 전방위 강화되는 추세에 따라 CCTV 영상반출 관리 문의와 상담이 증가하고 있다고 코어트러스트는 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "코어트러스트 관계자는 “코어트러스트 딥러닝 기반 영상 자동마스킹 솔루션은 대기업 제안시 벤치마크테스트에서 95% 이상 높은 인식율로 수주했으며 추가 도입도 협의 중”이라면서 “공공시장 공략을 강화해 매출을 다변화할 계획”이라고 밝혔다.",
+				"sentenceSize": 131
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코어트러스트-넷클립스, 공공 CCTV영상보안솔루션 시장 공략 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

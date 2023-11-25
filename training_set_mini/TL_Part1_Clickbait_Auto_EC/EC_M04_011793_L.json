@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011793",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "레이저 가공 '더 빠르고 정밀하게' 온더플라이 기술 개발",
+		"newsSubTitle": "기계연 이제훈 박사팀 '온더플라이' 기술 개발",
+		"newsContent": "레이저 스캐너와 스테이지가 함께 움직여 대면적에서 정밀하게 레이저 가공을 할 수 있는 원천기술이 국내 연구진에 의해 개발됐다.\n한국기계연구원(원장 최태인) 광응용기계연구실 이제훈<사진> 박사팀은 '레이저 스캐너-스테이지 실시간 연동 제어 기술(on-the-fly 기술)'을 개발했다.\n레이저 스캐너를 이용한 가공은 빠르고 정밀한 가공을 할 수 있지만, 가공할 수 있는 면적이 한정돼 있다.\n이를 극복하기 위해 스테이지를 사용한 스텝&스캐닝(Step and Scanning) 방식이 사용돼왔지만, 연속 가공이 어려워 이음매 부분의 품질이 낮고, 생산성이 떨어지는 단점이 있었다.\n이번 기계연의 온더플라이(on-the-fly) 기술은 최적 경로생성 알고리즘을 통해 스테이지가 연속으로 이동하면서 스캐너가 위치 오차를 바로잡는 방식으로, 대면적에서 레이저 가공의 품질 및 가공시간을 획기적으로 개선했다.\n연동 오차를 10마이크로초(㎲)마다 새로 인식해 가공을 제어함으로써 세계 최고 수준의 정밀도를 갖게 됐다.\n고속가공이 가능하다는 점과, 연속가공이 가능해 불연속 부위가 없다는 점도 큰 장점이다.\n연구책임자인 이제훈 박사는 “지금까지는 스캐너를 활용한 레이저 가공은 빠른 가공이기는 하나 가공범위가 좁아 대면적이나 대량 가공 시 어려움을 겪어 왔다”며 “이번에 개발된 '스테이지-스캐너 실시간 연동 제어 기술'은 기존 레이저 가공시스템으로 가공할 수 없는 분야까지도 범위를 확대해 정밀가공 분야를 선도할 수 있을 것으로 기대한다.”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "레이저 스캐너와 스테이지가 함께 움직여 대면적에서 정밀하게 레이저 가공을 할 수 있는 원천기술이 국내 연구진에 의해 개발됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국기계연구원(원장 최태인) 광응용기계연구실 이제훈<사진> 박사팀은 '레이저 스캐너-스테이지 실시간 연동 제어 기술(on-the-fly 기술)'을 개발했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "레이저 스캐너를 이용한 가공은 빠르고 정밀한 가공을 할 수 있지만, 가공할 수 있는 면적이 한정돼 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이를 극복하기 위해 스테이지를 사용한 스텝&스캐닝(Step and Scanning) 방식이 사용돼왔지만, 연속 가공이 어려워 이음매 부분의 품질이 낮고, 생산성이 떨어지는 단점이 있었다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 기계연의 온더플라이(on-the-fly) 기술은 최적 경로생성 알고리즘을 통해 스테이지가 연속으로 이동하면서 스캐너가 위치 오차를 바로잡는 방식으로, 대면적에서 레이저 가공의 품질 및 가공시간을 획기적으로 개선했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연동 오차를 10마이크로초(㎲)마다 새로 인식해 가공을 제어함으로써 세계 최고 수준의 정밀도를 갖게 됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "고속가공이 가능하다는 점과, 연속가공이 가능해 불연속 부위가 없다는 점도 큰 장점이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구책임자인 이제훈 박사는 “지금까지는 스캐너를 활용한 레이저 가공은 빠른 가공이기는 하나 가공범위가 좁아 대면적이나 대량 가공 시 어려움을 겪어 왔다”며 “이번에 개발된 '스테이지-스캐너 실시간 연동 제어 기술'은 기존 레이저 가공시스템으로 가공할 수 없는 분야까지도 범위를 확대해 정밀가공 분야를 선도할 수 있을 것으로 기대한다.”고 밝혔다.",
+				"sentenceSize": 193
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"디자인은 제품에 스토리 담는 과정\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

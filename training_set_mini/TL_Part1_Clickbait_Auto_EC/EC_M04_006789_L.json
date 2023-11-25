@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006789",
+		"newsCategory": "경제",
+		"newsSubcategory": "취업/창업",
+		"newsTitle": "취업자 증가세 지속, 청년은 여전히 어려움 겪어",
+		"newsSubTitle": "",
+		"newsContent": "최근 고용시장이 활기를 띠면서 취업자 수의 증가세가 지속되고 있는 가운데, 청년실업자들은 여전히 어려움 겪고 있는 것으로 나타났다.\n9일 고용노동부에 따르면 지난 7월 취업자수(고용보험 피보험자수)는 모두 1000만3000명으로, 지난해 같은 기간보다 31만8000명(3.2%)이 증가했다.\n민간부문은 지난해 6월부터 증가세가 지속되고 있으나, 증가규모(45만3000명)는 전월(48만6000명)보다 감소했고, 공공부문은 지난해 희망근로사업 기저효과로 큰 폭(13만5000명)으로 감소했다.\n성별로는 여성, 연령별로는 30~50대가 피보험자수 증가세를 견인하는 가운데, 청년 및 고령층(60대 이상) 피보험자는 감소한 것으로 나타났다.\n특히 청년층은 그동안 줄어들던 피보험자 감소폭이 지난 5월을 기점으로 다시 증가세로 전환됐다.\n이밖에 산업별로는 제조업(16만1000명), 보건 및 사회복지(10만명) 등의 피보험자 증가세가 지속된 가운데, 농림어업(-9000명), 공공행정(-13만5000명)은 감소한 것으로 집계됐다.\n고용노동부 관계자는 “전반적인 추세를 감안할 때 앞으로도 민간부문을 중심으로 취업자의 증가세가 지속되겠지만, 증가폭은 다소 감소할 것으로 보인다”고 전망했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 고용시장이 활기를 띠면서 취업자 수의 증가세가 지속되고 있는 가운데, 청년실업자들은 여전히 어려움 겪고 있는 것으로 나타났다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "9일 고용노동부에 따르면 지난 7월 취업자수(고용보험 피보험자수)는 모두 1000만3000명으로, 지난해 같은 기간보다 31만8000명(3.2%)이 증가했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "민간부문은 지난해 6월부터 증가세가 지속되고 있으나, 증가규모(45만3000명)는 전월(48만6000명)보다 감소했고, 공공부문은 지난해 희망근로사업 기저효과로 큰 폭(13만5000명)으로 감소했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "성별로는 여성, 연령별로는 30~50대가 피보험자수 증가세를 견인하는 가운데, 청년 및 고령층(60대 이상) 피보험자는 감소한 것으로 나타났다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 청년층은 그동안 줄어들던 피보험자 감소폭이 지난 5월을 기점으로 다시 증가세로 전환됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이밖에 산업별로는 제조업(16만1000명), 보건 및 사회복지(10만명) 등의 피보험자 증가세가 지속된 가운데, 농림어업(-9000명), 공공행정(-13만5000명)은 감소한 것으로 집계됐다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "고용노동부 관계자는 “전반적인 추세를 감안할 때 앞으로도 민간부문을 중심으로 취업자의 증가세가 지속되겠지만, 증가폭은 다소 감소할 것으로 보인다”고 전망했다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 재건축1호 아파트, 조합청산금 세대당 1900만원 확정",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

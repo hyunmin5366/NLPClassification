@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009126",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피 1660선까지 하락",
+		"newsSubTitle": "환율 1190.4원… 3.6원↓",
+		"newsContent": "코스피지수가 이틀 연속 하락하면서 1660선까지 떨어졌다.\n5일 코스피지수는 전날(1706.19)보다 39.67포인트(2.33%) 하락한 1666.52에 장을 마감해다. 무디스가 이탈리아 신용등급을 강등했다는 소식으로 낙폭이 확대됐다.\n개인은 3435억원어치를 사면서 이틀 연속 순매수에 나섰다.\n반면, 외국인과 기관이 각각 2440억원, 2356억원을 팔면서 지수를 끌어내렸다.\n업종별로는 기계(-5.58%), 운수장비(-4.99%), 증권(-4.75%) 등이 4% 넘게 하락했다.\n코스닥지수도 전날(436.13)보다 14.95포인트(3.43%) 하락한 421.18에 장을 마쳤다.\n서울 외환시장에서 원ㆍ달러 환율은 전날(1194.0)보다 3.6원(0.30%) 내린 1190.4원에 마감하면서 나흘 만에 하락했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피지수가 이틀 연속 하락하면서 1660선까지 떨어졌다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 코스피지수는 전날(1706.19)보다 39.67포인트(2.33%) 하락한 1666.52에 장을 마감해다. 무디스가 이탈리아 신용등급을 강등했다는 소식으로 낙폭이 확대됐다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개인은 3435억원어치를 사면서 이틀 연속 순매수에 나섰다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면, 외국인과 기관이 각각 2440억원, 2356억원을 팔면서 지수를 끌어내렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "업종별로는 기계(-5.58%), 운수장비(-4.99%), 증권(-4.75%) 등이 4% 넘게 하락했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코스닥지수도 전날(436.13)보다 14.95포인트(3.43%) 하락한 421.18에 장을 마쳤다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "서울 외환시장에서 원ㆍ달러 환율은 전날(1194.0)보다 3.6원(0.30%) 내린 1190.4원에 마감하면서 나흘 만에 하락했다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[유통] 한화갤러리아타임월드 20만원 가심비부터 프리미엄까지 선물하세요",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

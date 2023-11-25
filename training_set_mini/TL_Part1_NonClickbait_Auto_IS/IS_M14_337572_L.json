@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337572",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "일 르네사스, 동급 최고 전력밀도 DC/DC 전력모듈 발표",
+		"newsSubTitle": "",
+		"newsContent": "일본 르네사스일렉트로닉스는 동급최고 전력밀도와 효율을 제공하는 새로운 완전집적형 디지털DC/DC 전원모듈 2종을 발표했다.\nISL8274M은 5V 또는 12V 전원레일에서 동작하며 18x23㎜ 크기로 2채널 30A출력으로 최대 95.5% 효율을 제공한다.\nZL9024M은 3.3V 전원레일에서 동작하며 17 x19㎜ 크기로 33A 전력을 출력한다.\n두 제품 모두 서버, 전기통신, 데이터통신, 광통신 및 스토리지기기에 사용되는 FPGA, DSP, ASIC 및 메모리용으로 POL(point-of-load) 전압변환기능을 제공한다.\n컨트롤러, MOSFET, 인덕터 및 수동부품이 1개 모듈에 집적되어 기판면적과 사용부품 수를 획기적으로 줄일 수 있다.\n르네사스 특허 '차지모드(ChargeMode)' 컨트롤아키텍처를 채택해 대부분 전압변환에서 90%이상 고효율을 실현한다.\n또 전력이 급격히 변동할 때 FPGA나 DSP에 자주 발생하는 출력전류 부하 급변에 대한 싱글클럭 사이클 빠르기 고속부하응답을 제공한다.\n보상회로가 불필요한 설계로 온도변동, 노후화 등으로 인한 출력콘덴서 성능변화에 자동대응하면서 안정적으로 동작한다.\n르네사스가 독자개발한 고밀도배열(High Density Array:HDA)패키지를 사용해 도선 인덕턴스를 줄이고 시스템기판에서 방열하는 단층전도성기판으로 우수한 전기적특성과 방열특성을 제공한다.\nHDA는 구리 리드프레임구조로 에어플로(Air-Flow)나 히트싱크 없이 폭넓은 온도범위에서 풀부하 동작이 가능하다.\n또 여러보호기능도 갖춰 이상동작조건하에서도 안전하게 동작되도록 견고성과 신뢰성을 강화했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 르네사스일렉트로닉스는 동급최고 전력밀도와 효율을 제공하는 새로운 완전집적형 디지털DC/DC 전원모듈 2종을 발표했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ISL8274M은 5V 또는 12V 전원레일에서 동작하며 18x23㎜ 크기로 2채널 30A출력으로 최대 95.5% 효율을 제공한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ZL9024M은 3.3V 전원레일에서 동작하며 17 x19㎜ 크기로 33A 전력을 출력한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 제품 모두 서버, 전기통신, 데이터통신, 광통신 및 스토리지기기에 사용되는 FPGA, DSP, ASIC 및 메모리용으로 POL(point-of-load) 전압변환기능을 제공한다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "컨트롤러, MOSFET, 인덕터 및 수동부품이 1개 모듈에 집적되어 기판면적과 사용부품 수를 획기적으로 줄일 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "르네사스 특허 '차지모드(ChargeMode)' 컨트롤아키텍처를 채택해 대부분 전압변환에서 90%이상 고효율을 실현한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 전력이 급격히 변동할 때 FPGA나 DSP에 자주 발생하는 출력전류 부하 급변에 대한 싱글클럭 사이클 빠르기 고속부하응답을 제공한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "보상회로가 불필요한 설계로 온도변동, 노후화 등으로 인한 출력콘덴서 성능변화에 자동대응하면서 안정적으로 동작한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "르네사스가 독자개발한 고밀도배열(High Density Array:HDA)패키지를 사용해 도선 인덕턴스를 줄이고 시스템기판에서 방열하는 단층전도성기판으로 우수한 전기적특성과 방열특성을 제공한다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "HDA는 구리 리드프레임구조로 에어플로(Air-Flow)나 히트싱크 없이 폭넓은 온도범위에서 풀부하 동작이 가능하다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또 여러보호기능도 갖춰 이상동작조건하에서도 안전하게 동작되도록 견고성과 신뢰성을 강화했다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일 르네사스, 동급 최고 전력밀도 DC/DC 전력모듈 발표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

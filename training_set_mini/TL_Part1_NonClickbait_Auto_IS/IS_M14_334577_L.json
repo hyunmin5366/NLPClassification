@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334577",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "[이슈분석]악플 잡는 인공지능 기술",
+		"newsSubTitle": "",
+		"newsContent": "악플은 모든 커뮤니티 기반 인터넷 기업에게 고민거리다.\n글로벌 사회관계망서비스(SNS) 인스타그램은 올 7월 이 문제 해결을 위해 인공지능(AI) 기반 기술을 도입했다.\n현재 한국어로 작성된 악플에도 기능이 적용된다.\n이 기능은 AI가 댓글이 지나치게 공격적이라고 판단하면, 경고 메시지를 표출한다.\n이용자에게 '불쾌감을 줄 수 있다'는 메시지로 알려준다.\n이용자가 자신의 의견을 취소하고 순화할 수 있도록 기회를 준다.\n다만 의도적인 악플러에게는 소용없다는 한계가 있다.\n이에 따라 인스타그램은 AI 필터와 신고 시스템을 병행한다.\nAI가 걸러내지 못하는 악플은 사람이 처리한다.\n또 다른 기능으로는 '제한하기'가 있다. '사이버 따돌림'을 막기 위한 기능이다.\n제한 기능이 적용된 사람 댓글은 본인 외 다른 사람에게 보이지 않는다. '차단'과 달리 제한 조치를 당한 사람은 자신이 제한됐다는 사실을 알 수 없다.\n또 제한된 계정이 보낸 메시지는 '읽음' 여부가 표시되지 않는다.\n구글도 관계사 직소와 함께 '퍼스펙티브'라는 프로젝트를 통해 악플에 대응하는 인공지능 기술을 개발 중이다.\nAPI(Application Programming Interface)가 공개돼 있어 다른 서비스에 적용할 수 있다.\n사용자가 악성 댓글로 인식하는 정도를 점수화해 개발자에게 제공한다.\n국내 업체에 AI가 악플 제거에 사용된 사례는 올해 4월 도입된 네이버 '클린봇' 기능이 있다.\n불쾌한 욕설이 포함된 댓글을 체크해 자동으로 숨겨준다.\n네이버스포츠 뉴스 댓글을 시작으로 웹툰으로 적용 영역을 넓히고 있다.\n해당 기능을 비활성화 해도 욕설에 해당되는 단어는 여전히 가린다.\n카카오는 금칙어 설정을 통한 '욕설 자동치환 기능'을 2017년부터 적용해 왔다.\n뉴스 댓글에 비속어가 포함될 경우 해당 문구를 ♩ ♪ ♬ 등 음표 기호로 자동 변환하는 방식을 쓴다.\n이밖에 '즐거운 인터넷' 페이지를 통해 건전한 웹 문화를 위한 가이드라인과 방법을 제시하고 있다.\n악플 기준을 설명하고, 인터넷 윤리 10계명을 제정해 알린다.\n또 24시간 댓글 신고센터 운영으로 모니터링을 통한 선제적 삭제, 신고를 통한 삭제 모두 운영 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "악플은 모든 커뮤니티 기반 인터넷 기업에게 고민거리다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "글로벌 사회관계망서비스(SNS) 인스타그램은 올 7월 이 문제 해결을 위해 인공지능(AI) 기반 기술을 도입했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현재 한국어로 작성된 악플에도 기능이 적용된다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 기능은 AI가 댓글이 지나치게 공격적이라고 판단하면, 경고 메시지를 표출한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이용자에게 '불쾌감을 줄 수 있다'는 메시지로 알려준다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이용자가 자신의 의견을 취소하고 순화할 수 있도록 기회를 준다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다만 의도적인 악플러에게는 소용없다는 한계가 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이에 따라 인스타그램은 AI 필터와 신고 시스템을 병행한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "AI가 걸러내지 못하는 악플은 사람이 처리한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또 다른 기능으로는 '제한하기'가 있다. '사이버 따돌림'을 막기 위한 기능이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "제한 기능이 적용된 사람 댓글은 본인 외 다른 사람에게 보이지 않는다. '차단'과 달리 제한 조치를 당한 사람은 자신이 제한됐다는 사실을 알 수 없다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "또 제한된 계정이 보낸 메시지는 '읽음' 여부가 표시되지 않는다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "구글도 관계사 직소와 함께 '퍼스펙티브'라는 프로젝트를 통해 악플에 대응하는 인공지능 기술을 개발 중이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "API(Application Programming Interface)가 공개돼 있어 다른 서비스에 적용할 수 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "사용자가 악성 댓글로 인식하는 정도를 점수화해 개발자에게 제공한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "국내 업체에 AI가 악플 제거에 사용된 사례는 올해 4월 도입된 네이버 '클린봇' 기능이 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "불쾌한 욕설이 포함된 댓글을 체크해 자동으로 숨겨준다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "네이버스포츠 뉴스 댓글을 시작으로 웹툰으로 적용 영역을 넓히고 있다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "해당 기능을 비활성화 해도 욕설에 해당되는 단어는 여전히 가린다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "카카오는 금칙어 설정을 통한 '욕설 자동치환 기능'을 2017년부터 적용해 왔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "뉴스 댓글에 비속어가 포함될 경우 해당 문구를 ♩ ♪ ♬ 등 음표 기호로 자동 변환하는 방식을 쓴다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이밖에 '즐거운 인터넷' 페이지를 통해 건전한 웹 문화를 위한 가이드라인과 방법을 제시하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "악플 기준을 설명하고, 인터넷 윤리 10계명을 제정해 알린다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "또 24시간 댓글 신고센터 운영으로 모니터링을 통한 선제적 삭제, 신고를 통한 삭제 모두 운영 중이다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]악플 잡는 인공지능 기술",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

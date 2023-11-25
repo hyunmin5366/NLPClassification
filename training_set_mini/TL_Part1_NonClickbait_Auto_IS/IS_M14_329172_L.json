@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329172",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "일 르네사스, 32비트 마이크로콘트롤러 개발환경 공개",
+		"newsSubTitle": "",
+		"newsContent": "일 르네사스일렉트로닉스는 가전제품 및 산업용 자동화기기 개발에 사용되는 RX65N·RX130·RX231 등 32비트마이크로컨트롤러 RX패밀리용 새 개발환경(타겟보드)을 발표했다.\nRX개발환경은 개발에 필요한 보드회로도, 부품표, 샘플코드, 사용자매뉴얼, 애플리케이션노트 등을 제공한다.\n임베디드설계자는 RX 개발환경을 이용해 시제품 평가 및 제품개발을 최소화할 수 있다.\n개발환경에는 온칩 디버거가 내장되어 추가 툴 구입없이 평가 및 개발이 가능하다.\n모든 단자에 접속 가능한 스루홀이 있어 RX의 모든 기능을 사용할 수 있다.\n르네사스 RX패밀리는 핀할당이 공통으로 구성되어 같은 패키지인 경우 RX라인업간 이동이 쉽다.\n이번 RX개발환경은 널리 쓰이고 있는 100핀 LQFP패키지를 탑재했다.\n르네사스는 저소비전력의 RX100시리즈부터 고성능 RX700시리즈까지 개발환경을 추가해 RX패밀리 전체를 커버할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일 르네사스일렉트로닉스는 가전제품 및 산업용 자동화기기 개발에 사용되는 RX65N·RX130·RX231 등 32비트마이크로컨트롤러 RX패밀리용 새 개발환경(타겟보드)을 발표했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "RX개발환경은 개발에 필요한 보드회로도, 부품표, 샘플코드, 사용자매뉴얼, 애플리케이션노트 등을 제공한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "임베디드설계자는 RX 개발환경을 이용해 시제품 평가 및 제품개발을 최소화할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "개발환경에는 온칩 디버거가 내장되어 추가 툴 구입없이 평가 및 개발이 가능하다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "모든 단자에 접속 가능한 스루홀이 있어 RX의 모든 기능을 사용할 수 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "르네사스 RX패밀리는 핀할당이 공통으로 구성되어 같은 패키지인 경우 RX라인업간 이동이 쉽다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 RX개발환경은 널리 쓰이고 있는 100핀 LQFP패키지를 탑재했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "르네사스는 저소비전력의 RX100시리즈부터 고성능 RX700시리즈까지 개발환경을 추가해 RX패밀리 전체를 커버할 예정이다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일 르네사스, 32비트 마이크로콘트롤러 개발환경 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

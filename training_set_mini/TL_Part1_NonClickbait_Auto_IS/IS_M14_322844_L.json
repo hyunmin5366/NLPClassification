@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322844",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "솔트웨어, 손해보험협회 AWS 도입 성공적으로 지원",
+		"newsSubTitle": "",
+		"newsContent": "솔트웨어(대표 이정근)는 손해보험협회 광고 심의 시스템을 아마존 웹 서비스(AWS) 클라우드로 이관한 뒤 안정적인 서비스를 운영하는 데 성공적으로 지원했다고 10일 밝혔다.\n손해보험협회는 보험사 간 업무 질서 유지 및 보험업 발전을 도모하는 비영리 단체로 빠르게 바뀌는 금융 환경 속에 경제 성장과 함께 소비자 보호와 손해보험 산업 발전을 이룩하는 역할을 한다.\n손해보험협회는 주요 업무를 더 안전하고 효율적으로 운영하기 위해 디지털 전환 전략 일환으로 AWS 도입을 검토하던 가운데 금융 클라우드 규정 준수 가이드 제공 등의 역량을 갖춘 솔트웨어을 선정했다.\n회사는 AWS 금융 서비스 컴피턴시, AWS 데브옵스 컴피턴시 등을 보유하고 있다.\n또, 손해보험협회는 AWS 클라우드 광고 심의 업무에 꼭 필요한 대용량 파일에 정적·동적 웹 콘텐츠를 사용자에게 더 빨리 배포하는 웹 서비스인 CDN 서비스와 높은 가용성·확장성이 뛰어난 클라우드 DNS 웹 서비스인 아마존 루트 53을 활용해 업무 효율성을 극대화했다.\n또 기존 레거시 환경에 준하는 보안 수준을 유지하면서 안전하게 광고 심의 시스템을 운영할 수 있는 여건을 마련했다.\n손해보험협회 광고 심의 시스템은 국내 손해보험사가 제작한 보험 관련 광고의 규정 준수 여부를 심사하는 것이다.\n즉, 여러 손해보험사의 업무와 실시간으로 연동되는 게 핵심이다.\n하지만 기존 레거시 환경에서 심의는 특정 시간대 접속자가 여러 업무를 실시간 요청할 경우 동시다발적인 심의가 원활하게 이뤄지지 않는다는 불편이 있었다.\n이정근 솔트웨어 대표는 “손해보험협회의 AWS 클라우드 도입 첫 단추를 성공적으로 지원하는 성과를 거뒀다”면서 “이미 고객들이 AWS의 안정성·확장성을 신뢰하고 디지털 전환을 빠르게 검토하고 있는 시장 상황을 고려해 솔트웨어는 금융 전문 파트너로서 도입 성공 사례를 꾸준히 만들겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "솔트웨어(대표 이정근)는 손해보험협회 광고 심의 시스템을 아마존 웹 서비스(AWS) 클라우드로 이관한 뒤 안정적인 서비스를 운영하는 데 성공적으로 지원했다고 10일 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "손해보험협회는 보험사 간 업무 질서 유지 및 보험업 발전을 도모하는 비영리 단체로 빠르게 바뀌는 금융 환경 속에 경제 성장과 함께 소비자 보호와 손해보험 산업 발전을 이룩하는 역할을 한다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "손해보험협회는 주요 업무를 더 안전하고 효율적으로 운영하기 위해 디지털 전환 전략 일환으로 AWS 도입을 검토하던 가운데 금융 클라우드 규정 준수 가이드 제공 등의 역량을 갖춘 솔트웨어을 선정했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "회사는 AWS 금융 서비스 컴피턴시, AWS 데브옵스 컴피턴시 등을 보유하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또, 손해보험협회는 AWS 클라우드 광고 심의 업무에 꼭 필요한 대용량 파일에 정적·동적 웹 콘텐츠를 사용자에게 더 빨리 배포하는 웹 서비스인 CDN 서비스와 높은 가용성·확장성이 뛰어난 클라우드 DNS 웹 서비스인 아마존 루트 53을 활용해 업무 효율성을 극대화했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 기존 레거시 환경에 준하는 보안 수준을 유지하면서 안전하게 광고 심의 시스템을 운영할 수 있는 여건을 마련했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "손해보험협회 광고 심의 시스템은 국내 손해보험사가 제작한 보험 관련 광고의 규정 준수 여부를 심사하는 것이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "즉, 여러 손해보험사의 업무와 실시간으로 연동되는 게 핵심이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만 기존 레거시 환경에서 심의는 특정 시간대 접속자가 여러 업무를 실시간 요청할 경우 동시다발적인 심의가 원활하게 이뤄지지 않는다는 불편이 있었다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이정근 솔트웨어 대표는 “손해보험협회의 AWS 클라우드 도입 첫 단추를 성공적으로 지원하는 성과를 거뒀다”면서 “이미 고객들이 AWS의 안정성·확장성을 신뢰하고 디지털 전환을 빠르게 검토하고 있는 시장 상황을 고려해 솔트웨어는 금융 전문 파트너로서 도입 성공 사례를 꾸준히 만들겠다”고 말했다.",
+				"sentenceSize": 164
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "솔트웨어, 손해보험협회 AWS 도입 성공적으로 지원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

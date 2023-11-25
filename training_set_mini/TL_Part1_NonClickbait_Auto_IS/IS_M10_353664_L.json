@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353664",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "LGU+ 직원, 거액 횡령 후 잠적…사측 \\\"조사중, 적법조치 취할 것\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스에서 직원이 거액의 회삿돈을 횡령한 뒤 잠적했다.\n회사는 피해 규모 등을 조사 중이며, 향후 법적 조치에 나설 계획이다.\n23일 통신업계에 따르면, LG유플러스에서 고객사와의 계약 업무를 맡은 팀장급 직원이 관련 매출을 빼돌리는 사건이 발생했다.\n이 직원은 연락이 두절된 상태로, 피해 규모는 수십억원대로 알려졌다.\nLG유플러스는 자세한 사건 경위 등을 조사 중이다.\nLG유플러스 관계자는 \\\"(회삿돈 횡령 사건은) 자사 직원인 것으로 확인됐다\\\"며 \\\"자세한 내용은 조사중에 있다. 확인되는 대로 적법하게 조치를 취하겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스에서 직원이 거액의 회삿돈을 횡령한 뒤 잠적했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "회사는 피해 규모 등을 조사 중이며, 향후 법적 조치에 나설 계획이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "23일 통신업계에 따르면, LG유플러스에서 고객사와의 계약 업무를 맡은 팀장급 직원이 관련 매출을 빼돌리는 사건이 발생했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 직원은 연락이 두절된 상태로, 피해 규모는 수십억원대로 알려졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG유플러스는 자세한 사건 경위 등을 조사 중이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LG유플러스 관계자는 \\\"(회삿돈 횡령 사건은) 자사 직원인 것으로 확인됐다\\\"며 \\\"자세한 내용은 조사중에 있다. 확인되는 대로 적법하게 조치를 취하겠다\\\"고 밝혔다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LGU+ 직원, 거액 횡령 후 잠적…사측 \\\"조사중, 적법조치 취할 것\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351942",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "\\\"점심시간 결제도 안 돼\\\"…KT, 전국 유무선 인터넷 장애 혼란",
+		"newsSubTitle": "null",
+		"newsContent": "25일 오전 전국적으로 발생한 KT의 유·무선 통신 서비스 장애가 정오쯤 복구됐다.\nKT 전국의 유무선 인터넷 망은 이날 11시20분쯤부터 접속이 지연됐다.\n장애가 발생한 권역도 서울과 수도권, 충청·호남권 등 전국에 걸친 것으로 파악됐다.\nKT 통신망을 이용해 운영되는 여러 사이트도 접속에 차질을 빚고 있다.\n또 일부 무선 전화에서도 연결이 끊기는 현상이 발생한 것으로 알려졌으며, 직장인들의 점심시간인 탓에 일각에선 결제시스템도 작동하지 않는 등 혼란이 빚어졌다.\n그러나 오전 11시56분쯤부터 일부 지역을 중심으로 장애가 해소되고 있다.\nKT 관계자는 \\\"현재 장애 복구가 이뤄지는 상황\\\"이라고 말했다.\n다만 \\\"원인은 확인 중\\\"이라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "25일 오전 전국적으로 발생한 KT의 유·무선 통신 서비스 장애가 정오쯤 복구됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT 전국의 유무선 인터넷 망은 이날 11시20분쯤부터 접속이 지연됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "장애가 발생한 권역도 서울과 수도권, 충청·호남권 등 전국에 걸친 것으로 파악됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KT 통신망을 이용해 운영되는 여러 사이트도 접속에 차질을 빚고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 일부 무선 전화에서도 연결이 끊기는 현상이 발생한 것으로 알려졌으며, 직장인들의 점심시간인 탓에 일각에선 결제시스템도 작동하지 않는 등 혼란이 빚어졌다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 오전 11시56분쯤부터 일부 지역을 중심으로 장애가 해소되고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KT 관계자는 \\\"현재 장애 복구가 이뤄지는 상황\\\"이라고 말했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다만 \\\"원인은 확인 중\\\"이라고 덧붙였다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"점심시간 결제도 안 돼\\\"…KT, 전국 유무선 인터넷 장애 혼란",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

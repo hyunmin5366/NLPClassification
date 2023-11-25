@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322420",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "소포스, EDR 기능 갖춘 서버용 인터셉트 X 공개",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 보안기업 소포스는 엔드포인트 위협탐지·대응(EDR) 기능을 갖춘 서버용 인터셉트 X를 공개했다.\n자동화와 수동 해킹 기술을 접목한 새로운 유형의 혼합 공격에 대응이 가능한 제품이다.\n서버용 인터셉트 X에 EDR 기능을 추가해 IT 관리자들은 저장된 데이터 가치로 인해 해킹 표적이 되는 서버 공격을 좀 더 쉽게 분석할 수 있다.\n이 제품을 사용하면 IT 관리자들은 사업 규모가 아무리 크더라도 전체 조직을 감시하는 것이 가능해진다.\n이를 통해 잠입 공격을 사전에 탐지하고 보안사고 영향 범위가 보다 명확해진다.\n전체적인 공격 상황을 신속하게 시각화할 수 있다.\nEDR 기능을 갖춘 서버용 인터셉트 X는 2018년 10월에 출시된 엔드포인트용 소포스 EDR 기능을 확장한 것이다.\n소포스 EDR는 광범위한 멀웨어 탐지를 위해 딥러닝 기술을 도입했다.\n소포스 딥러닝 신경망은 수억개 샘플을 통해 수상한 악성코드 특징을 찾아내는 훈련을 받고 이전에 보지 못했던 신종 위협까지 탐지해낸다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 보안기업 소포스는 엔드포인트 위협탐지·대응(EDR) 기능을 갖춘 서버용 인터셉트 X를 공개했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자동화와 수동 해킹 기술을 접목한 새로운 유형의 혼합 공격에 대응이 가능한 제품이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서버용 인터셉트 X에 EDR 기능을 추가해 IT 관리자들은 저장된 데이터 가치로 인해 해킹 표적이 되는 서버 공격을 좀 더 쉽게 분석할 수 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 제품을 사용하면 IT 관리자들은 사업 규모가 아무리 크더라도 전체 조직을 감시하는 것이 가능해진다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이를 통해 잠입 공격을 사전에 탐지하고 보안사고 영향 범위가 보다 명확해진다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전체적인 공격 상황을 신속하게 시각화할 수 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "EDR 기능을 갖춘 서버용 인터셉트 X는 2018년 10월에 출시된 엔드포인트용 소포스 EDR 기능을 확장한 것이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "소포스 EDR는 광범위한 멀웨어 탐지를 위해 딥러닝 기술을 도입했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "소포스 딥러닝 신경망은 수억개 샘플을 통해 수상한 악성코드 특징을 찾아내는 훈련을 받고 이전에 보지 못했던 신종 위협까지 탐지해낸다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소포스, EDR 기능 갖춘 서버용 인터셉트 X 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

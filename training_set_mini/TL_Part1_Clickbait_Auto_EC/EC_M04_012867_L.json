@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012867",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "서울아파트 팔면, 대전서 2.4채 산다",
+		"newsSubTitle": "지방과 격차 평균 2.7배로 좁혀",
+		"newsContent": "서울과 지방의 아파트 값 격차가 3배 이하로 좁혀졌다.\n21일 닥터아파트에 따르면 5월 현재 서울 아파트 3.3㎡당 평균 매매가는 1642만원으로, 5년 전인 2009년 5월에 비해 122만원 하락한 것으로 나타났다.\n반면 지방의 3.3㎡당 아파트 평균 매매가는 5년 전보다 152만원 오른 598만원으로 집계됐다.\n이에 따라 서울의 아파트값이 지방보다 2.7배 높은 것으로 분석됐다.\n지역별 3.3㎡당 평균 매매가를 보면 서울에 이어 경기 성남ㆍ분당 등 신도시가 1173만원, 경기가 888만원, 대전은 677만원, 세종 669만원, 충남 583만원, 충북 575만원으로 집계됐다.\n서울 아파트 1채를 팔 경우 대전에서 2.4채의 아파트를 매입할 수 있는 셈이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울과 지방의 아파트 값 격차가 3배 이하로 좁혀졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 닥터아파트에 따르면 5월 현재 서울 아파트 3.3㎡당 평균 매매가는 1642만원으로, 5년 전인 2009년 5월에 비해 122만원 하락한 것으로 나타났다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "반면 지방의 3.3㎡당 아파트 평균 매매가는 5년 전보다 152만원 오른 598만원으로 집계됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 서울의 아파트값이 지방보다 2.7배 높은 것으로 분석됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지역별 3.3㎡당 평균 매매가를 보면 서울에 이어 경기 성남ㆍ분당 등 신도시가 1173만원, 경기가 888만원, 대전은 677만원, 세종 669만원, 충남 583만원, 충북 575만원으로 집계됐다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서울 아파트 1채를 팔 경우 대전에서 2.4채의 아파트를 매입할 수 있는 셈이다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손보사 '적자 원흉' 실손보험금 지급 깐깐해진다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

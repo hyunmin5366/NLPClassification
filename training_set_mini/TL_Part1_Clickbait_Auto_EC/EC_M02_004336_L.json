@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004336",
+		"newsCategory": "경제",
+		"newsSubcategory": "IT·통신",
+		"newsTitle": "영등포·구로 일대서 KT 인터넷 장애…3시간 만에 복구완료",
+		"newsSubTitle": "수목 작업 중 광케이블 절단해 사고 발생...복구 완료",
+		"newsContent": "11일 오전 서울 영등포구와 구로구 일대에서 KT 무선통신 장애가 발생했다.\n이날 오전 10시 40분경 서울 영등포구와 구로구 일대에서 KT 광케이블 연결 기지국 문제로 무선통신 장애가 발생했다.\n이번 연결 문제는 월드컵대교 남단 근처에서 지자체가 나무 심기 작업을 하던 중 케이블을 단선시켜 발생한 것으로 추정된다.\n관할부처인 과학기술정보통신부는 해당 내용을 파악한 후, 오전 11시50분경 \\\"오늘 KT사의 기지국 장애로 영등포구, 구로구 일대 무선통신 장애가 발생할 수 있으니 이용 고객은 유의하시기 바란다\\\"는 재난문자를 발송했다.\n또한 정보통신사고 위기경보 '주의'를 발령했다.\n오후 3시 현재 통신 장애는 복구가 완료된 상황이다.\nKT관계자는 데일리임팩트에 \\\"지자체가 도로변 수목 작업을 하던 중 광케이블을 절단해 피해가 발생했다\\\"며 \\\"영등포구와 구로구의 기지국이 영향을 받았지만 오후 2시 경 복구는 완료됐고, 서비스도 정상화됐다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "11일 오전 서울 영등포구와 구로구 일대에서 KT 무선통신 장애가 발생했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이날 오전 10시 40분경 서울 영등포구와 구로구 일대에서 KT 광케이블 연결 기지국 문제로 무선통신 장애가 발생했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 연결 문제는 월드컵대교 남단 근처에서 지자체가 나무 심기 작업을 하던 중 케이블을 단선시켜 발생한 것으로 추정된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "관할부처인 과학기술정보통신부는 해당 내용을 파악한 후, 오전 11시50분경 \\\"오늘 KT사의 기지국 장애로 영등포구, 구로구 일대 무선통신 장애가 발생할 수 있으니 이용 고객은 유의하시기 바란다\\\"는 재난문자를 발송했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 정보통신사고 위기경보 '주의'를 발령했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오후 3시 현재 통신 장애는 복구가 완료된 상황이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KT관계자는 데일리임팩트에 \\\"지자체가 도로변 수목 작업을 하던 중 광케이블을 절단해 피해가 발생했다\\\"며 \\\"영등포구와 구로구의 기지국이 영향을 받았지만 오후 2시 경 복구는 완료됐고, 서비스도 정상화됐다\\\"고 밝혔다.",
+				"sentenceSize": 123
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LGD 실적 개선 아직도?...2020년 2분기도 적자행진",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

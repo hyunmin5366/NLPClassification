@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335159",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "이노와이어리스, 동영상 품질측정 솔루션 국산화",
+		"newsSubTitle": "",
+		"newsContent": "이노와이어리스가 딥러닝 기반의 실시간 스트리밍 비디오 서비스 영상품질 측정 솔루션을 국산화했다.\n기계학습(머신러닝)으로 시청자 화질 점수 데이터를 구한다.\n대규모 평가단을 꾸리지 않고도 비디오 콘텐츠 수신 품질 측정이 가능한 제품이다.\n국산 솔루션으로 처음 개발, 외산 대체 효과도 기대된다.\n이노와이어리스 VQML(Video Quality assessment with Machine Learning)은 평균 인지 화질점수(V-MOS)를 바탕으로 체감 품질을 나타내 비디오 콘텐츠 수신 품질을 측정한다.\n원본 영상 없이 빠르게 스트리밍 비디오 체감 품질을 테스트할 수 있도록 노레퍼런스 방식을 채택했다.\n이노와이어리스는 대규모 설문조사를 통해 구축된 사용자 평가점수 데이터베이스를 기반으로 비디오와 V-MOS 값 패턴을 학습하는 딥러닝 기술을 활용, VQML을 자체 개발했다.\n평가단이 영상을 직접 보면서 평가한 점수와 측정 값 상관관계에서 높은 신뢰성을 확보했다.\n이노와이어리스는 스마트폰 기반 무선망 시험·최적화 솔루션(XCAL)에 VQML을 탑재했다.\n노트북, PC, 태블릿 등 디바이스에 소프트웨어(SW)를 설치하거나 클라우드 방식도 지원한다.\n이동통신 서비스와 화상회의 시스템, 스마트폰 단말, 온라인동영상서비스(OTT)와 인터넷TV(IPTV) 등 다양한 미디어 사업 영역에서 비디오 테스트 장비로의 확장이 가능하다.\n이노와이어리스 VQML은 최근 한국지능정보사회진흥원(NIA)의 재난안전통신망을 활용한 영상통화품질 측정에서 성능을 인정받아 솔루션 공급이 확정됐다.\n이노와이어리스는 향후 실시간 유료 방송서비스 품질 평가 항목 가운데 영상 체감품질 평가 방식으로도 VQML을 제안할 계획이다.\n영상 품질 평가 방법에 대한 국제 표준화와 학계 연구가 활발히 이뤄지는 흐름에 맞춰 해외 시장 진출도 준비하고 있다.\n차량 인포테인먼트 시스템을 위한 영상 품질 드라이브 측정 솔루션으로도 활용도가 높을 것으로 전망된다.\n권오걸 이노와이어리스 개발본부장은 “VQML 솔루션은 이용자의 비디오 체감 품질을 객관적 수치로 실시간 제공한다”면서 “스마트폰뿐만 아니라 온라인 화상회의 솔루션, 라이브 방송 플랫폼, OTT, IPTV 업체 등에 유용한 솔루션이 될 것”이라고 말했다.\n이노와이어리스는 이동통신 시험계측 솔루션 전문업체다.\n2000년 설립 이후 해외 의존도가 높은 시험계측 장비 국산화를 주도해왔다.\n5G 스몰셀과 영상품질 측정 솔루션을 신성장 동력으로 육성하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이노와이어리스가 딥러닝 기반의 실시간 스트리밍 비디오 서비스 영상품질 측정 솔루션을 국산화했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기계학습(머신러닝)으로 시청자 화질 점수 데이터를 구한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대규모 평가단을 꾸리지 않고도 비디오 콘텐츠 수신 품질 측정이 가능한 제품이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국산 솔루션으로 처음 개발, 외산 대체 효과도 기대된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이노와이어리스 VQML(Video Quality assessment with Machine Learning)은 평균 인지 화질점수(V-MOS)를 바탕으로 체감 품질을 나타내 비디오 콘텐츠 수신 품질을 측정한다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "원본 영상 없이 빠르게 스트리밍 비디오 체감 품질을 테스트할 수 있도록 노레퍼런스 방식을 채택했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이노와이어리스는 대규모 설문조사를 통해 구축된 사용자 평가점수 데이터베이스를 기반으로 비디오와 V-MOS 값 패턴을 학습하는 딥러닝 기술을 활용, VQML을 자체 개발했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "평가단이 영상을 직접 보면서 평가한 점수와 측정 값 상관관계에서 높은 신뢰성을 확보했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이노와이어리스는 스마트폰 기반 무선망 시험·최적화 솔루션(XCAL)에 VQML을 탑재했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "노트북, PC, 태블릿 등 디바이스에 소프트웨어(SW)를 설치하거나 클라우드 방식도 지원한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이동통신 서비스와 화상회의 시스템, 스마트폰 단말, 온라인동영상서비스(OTT)와 인터넷TV(IPTV) 등 다양한 미디어 사업 영역에서 비디오 테스트 장비로의 확장이 가능하다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이노와이어리스 VQML은 최근 한국지능정보사회진흥원(NIA)의 재난안전통신망을 활용한 영상통화품질 측정에서 성능을 인정받아 솔루션 공급이 확정됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이노와이어리스는 향후 실시간 유료 방송서비스 품질 평가 항목 가운데 영상 체감품질 평가 방식으로도 VQML을 제안할 계획이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "영상 품질 평가 방법에 대한 국제 표준화와 학계 연구가 활발히 이뤄지는 흐름에 맞춰 해외 시장 진출도 준비하고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "차량 인포테인먼트 시스템을 위한 영상 품질 드라이브 측정 솔루션으로도 활용도가 높을 것으로 전망된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "권오걸 이노와이어리스 개발본부장은 “VQML 솔루션은 이용자의 비디오 체감 품질을 객관적 수치로 실시간 제공한다”면서 “스마트폰뿐만 아니라 온라인 화상회의 솔루션, 라이브 방송 플랫폼, OTT, IPTV 업체 등에 유용한 솔루션이 될 것”이라고 말했다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이노와이어리스는 이동통신 시험계측 솔루션 전문업체다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "2000년 설립 이후 해외 의존도가 높은 시험계측 장비 국산화를 주도해왔다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "5G 스몰셀과 영상품질 측정 솔루션을 신성장 동력으로 육성하고 있다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이노와이어리스, 동영상 품질측정 솔루션 국산화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

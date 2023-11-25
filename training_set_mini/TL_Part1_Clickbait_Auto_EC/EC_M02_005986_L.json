@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005986",
+		"newsCategory": "경제",
+		"newsSubcategory": "카드",
+		"newsTitle": "신한카드, 아이폰 전용 '터치결제M' 시범 서비스 개시",
+		"newsSubTitle": "MZ고객 이용 매장 위주로 가맹점 확대 예정",
+		"newsContent": "신한카드는 아이폰을 가맹점 결제 단말기에 갖다 대면 결제가 가능한 '신한카드 터치결제M' 시범 서비스를 시작했다고 15일 밝혔다.\n신한카드 터치결제M은 아이폰에 설치된 신한pLay(이하 신한플레이) 앱을 통해 고음파를 송출하면 가맹점 결제 단말기에 탑재된 결제모듈에서 고음파를 수신 후 결제정보로 변환해 결제하는 방식이다.\n아이폰을 흔들어서 결제(쉐이크 결제)하는 것도 가능해 편리함을 더했다.\n신한카드 터치결제M은 가맹점 결제 단말기에 결제모듈을 탑재하는 만큼 고객 아이폰 기종에 상관 없이 신한플레이 앱만 깔려 있으면 이용할 수 있다는 장점이 있다.\n신한카드 터치결제M 모듈은 단말기에 부착하는 하드웨어형, 모바일 단말기 등에 설치하는 소프트웨어형 등 2가지로 개발됐다.\n신한카드는 우선 서울 중구 소재 신한카드 본사에 있는 카페와 일부 매장에서 터치결제M 시범 서비스를 시작했다.\n향후 MZ 고객들이 주로 이용하는 매장 위주로 점차 서비스를 확대할 예정이다.\n신한카드 관계자는 데일리임팩트에 \\\"모바일 결제의 지속적인 혁신을 통해 고객들에게 더욱 편리한 결제 환경을 제공하기 위해 노력하겠다\\\"고 설명했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "신한카드는 아이폰을 가맹점 결제 단말기에 갖다 대면 결제가 가능한 '신한카드 터치결제M' 시범 서비스를 시작했다고 15일 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신한카드 터치결제M은 아이폰에 설치된 신한pLay(이하 신한플레이) 앱을 통해 고음파를 송출하면 가맹점 결제 단말기에 탑재된 결제모듈에서 고음파를 수신 후 결제정보로 변환해 결제하는 방식이다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이폰을 흔들어서 결제(쉐이크 결제)하는 것도 가능해 편리함을 더했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "신한카드 터치결제M은 가맹점 결제 단말기에 결제모듈을 탑재하는 만큼 고객 아이폰 기종에 상관 없이 신한플레이 앱만 깔려 있으면 이용할 수 있다는 장점이 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신한카드 터치결제M 모듈은 단말기에 부착하는 하드웨어형, 모바일 단말기 등에 설치하는 소프트웨어형 등 2가지로 개발됐다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "신한카드는 우선 서울 중구 소재 신한카드 본사에 있는 카페와 일부 매장에서 터치결제M 시범 서비스를 시작했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "향후 MZ 고객들이 주로 이용하는 매장 위주로 점차 서비스를 확대할 예정이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "신한카드 관계자는 데일리임팩트에 \\\"모바일 결제의 지속적인 혁신을 통해 고객들에게 더욱 편리한 결제 환경을 제공하기 위해 노력하겠다\\\"고 설명했다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“정부 경제정책 또 수도권 규제완화” 충청권 반발",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

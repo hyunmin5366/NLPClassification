@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339100",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]“애플, 아이폰X·아이폰SE 생산 곧 중단”",
+		"newsSubTitle": "",
+		"newsContent": "애플이 3분기 아이폰X(텐)과 아이폰SE 생산을 중단할 것이라는 전망이 제기됐다.\n미국 정보기술(IT) 전문매체 GSM아레나는 블루핀리서치 보고서를 인용해 \\\"애플이 가을 출시할 차세대 아이폰 3종 개발∙생산에 집중하기 위해 기존 아이폰X과 아이폰SE를 곧 단종할 것\\\"이라고 보도했다.\n외신은 애플이 3분기 2900만대 차기 아이폰 3종을 생산하고 4분기와 내년 1분기 각각 6300만대, 4600만대를 생산할 것으로 내다봤다.\n이는 기존보다 많은 생산량이라고 덧붙였다.\n다만 보고서에는 아이폰8∙아이폰8 플러스 단종에 대한 내용은 담기지 않았다.\n블루핀리서치 애널리스트는 \\\"기존 스마트폰 기능∙성능 업그레이드 속도가 느리고 이전 모델과 차별화가 크지 않으면서 차세대 아이폰에 대한 기대 수요가 높아질 것\\\"이라고 전망했다.\n한편 애플 전문가로 유명한 궈밍치 전 KGI증권 애널리스트도 1∙2분기 아이폰X 출하량이 당초 기대에 못 미치면서 올해 중반 단종될 것이라는 전망을 내놓은 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 3분기 아이폰X(텐)과 아이폰SE 생산을 중단할 것이라는 전망이 제기됐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 정보기술(IT) 전문매체 GSM아레나는 블루핀리서치 보고서를 인용해 \\\"애플이 가을 출시할 차세대 아이폰 3종 개발∙생산에 집중하기 위해 기존 아이폰X과 아이폰SE를 곧 단종할 것\\\"이라고 보도했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "외신은 애플이 3분기 2900만대 차기 아이폰 3종을 생산하고 4분기와 내년 1분기 각각 6300만대, 4600만대를 생산할 것으로 내다봤다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 기존보다 많은 생산량이라고 덧붙였다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만 보고서에는 아이폰8∙아이폰8 플러스 단종에 대한 내용은 담기지 않았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "블루핀리서치 애널리스트는 \\\"기존 스마트폰 기능∙성능 업그레이드 속도가 느리고 이전 모델과 차별화가 크지 않으면서 차세대 아이폰에 대한 기대 수요가 높아질 것\\\"이라고 전망했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 애플 전문가로 유명한 궈밍치 전 KGI증권 애널리스트도 1∙2분기 아이폰X 출하량이 당초 기대에 못 미치면서 올해 중반 단종될 것이라는 전망을 내놓은 바 있다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]“애플, 아이폰X·아이폰SE 생산 곧 중단”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

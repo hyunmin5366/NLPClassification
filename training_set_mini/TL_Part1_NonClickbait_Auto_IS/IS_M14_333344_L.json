@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333344",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "환경",
+		"newsTitle": "줄어드는 남극 해빙, 지난해 가장 작았다",
+		"newsSubTitle": "",
+		"newsContent": "지난해 남극 해빙(海氷) 크기가 사상 최저 수준으로 조사됐다.\n호주 일간 시드니모닝헤럴드는 최근 미국국립해양대기국(NOAA)가 항공우주국(NASA)과 공동 연구한 보고서를 21일 소개했다.\n연구에 따르면 지난해 평균 남극 해빙 면적은 411만 제곱마일로, 1979년 기록 시작 후 가장 작았다.\n북극 해빙 면적도 기록 이후 두 번째로 작았다.\nNOAA는 이번 공동연구에서 자체 조사한 결과 지난해가 2016년, 2015년에 이어 역대 세 번째로 더웠던 해라고 분석했다.\n또 가장 뜨거웠던 해 모두 2010년대였다고 덧붙였다.\nNASA는 앞서 지난해 11월 '아이스브리지 사업' 일환으로 남극을 조사했다.\n거대한 빙산이 갈라져 나간 라르센C 빙붕을 집중 조사했다.\n지난해 지구 평균 온도는 약 15도로, 20세기 평균보다 1도 높았다고 신문은 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 남극 해빙(海氷) 크기가 사상 최저 수준으로 조사됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "호주 일간 시드니모닝헤럴드는 최근 미국국립해양대기국(NOAA)가 항공우주국(NASA)과 공동 연구한 보고서를 21일 소개했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연구에 따르면 지난해 평균 남극 해빙 면적은 411만 제곱마일로, 1979년 기록 시작 후 가장 작았다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "북극 해빙 면적도 기록 이후 두 번째로 작았다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "NOAA는 이번 공동연구에서 자체 조사한 결과 지난해가 2016년, 2015년에 이어 역대 세 번째로 더웠던 해라고 분석했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 가장 뜨거웠던 해 모두 2010년대였다고 덧붙였다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "NASA는 앞서 지난해 11월 '아이스브리지 사업' 일환으로 남극을 조사했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "거대한 빙산이 갈라져 나간 라르센C 빙붕을 집중 조사했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지난해 지구 평균 온도는 약 15도로, 20세기 평균보다 1도 높았다고 신문은 전했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "줄어드는 남극 해빙, 지난해 가장 작았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

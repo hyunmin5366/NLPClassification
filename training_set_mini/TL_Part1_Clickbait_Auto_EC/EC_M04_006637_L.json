@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006637",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "지역기업 61곳 '국내 1000대 기업'",
+		"newsSubTitle": "계룡건설·KT&G 등 포함 전년비 5곳 늘어… 글로벌 위기 속 '선전'",
+		"newsContent": "지역을 대표하는 기업인 계룡건설과 KT&G, 한라공조, 웅진코웨이 등이 국내 1000대 기업에 포함됐다.\n5일 대전상공회의소 및 대한상공회의소에 따르면 지난해 매출액을 기준으로 전국 1000대 기업 현황을 파악한 결과, 대전·충청지역은 모두 61개사로 전년(56개사)에 비해 5개사가 증가했다.\n이는 지난해 글로벌 금융위기 등의 여파로 인해 지역 기업들이 어려움을 겪은 가운데서도 나름대로 선전한 것으로 풀이된다.\n우선 대전의 경우, 지난해 1000대 기업에 합류한 기업은 계룡건설을 비롯해 KT&G, 한라공조, 우성사료, 충남도시가스, 아트라스BX 등 모두 11개사로 전년(13개사)에 비해 2개사가 감소한 것으로 집계됐다.\n대전지역이 감소한 반면, 충남과 충북은 다소 늘어난 것으로 나타났다.\n충남은 웅진코웨이와 현대오일뱅크, 경남기업 등 모두 32개사로 전년(28개사)보다 4개사가 늘었고, 충북은 모두 18개사로 조사돼 전년(15개사)보다 3개사가 증가한 것으로 파악됐다.\n한편 지역별 1000대 기업은 서울이 535개사로 가장 많았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지역을 대표하는 기업인 계룡건설과 KT&G, 한라공조, 웅진코웨이 등이 국내 1000대 기업에 포함됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 대전상공회의소 및 대한상공회의소에 따르면 지난해 매출액을 기준으로 전국 1000대 기업 현황을 파악한 결과, 대전·충청지역은 모두 61개사로 전년(56개사)에 비해 5개사가 증가했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 지난해 글로벌 금융위기 등의 여파로 인해 지역 기업들이 어려움을 겪은 가운데서도 나름대로 선전한 것으로 풀이된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우선 대전의 경우, 지난해 1000대 기업에 합류한 기업은 계룡건설을 비롯해 KT&G, 한라공조, 우성사료, 충남도시가스, 아트라스BX 등 모두 11개사로 전년(13개사)에 비해 2개사가 감소한 것으로 집계됐다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대전지역이 감소한 반면, 충남과 충북은 다소 늘어난 것으로 나타났다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "충남은 웅진코웨이와 현대오일뱅크, 경남기업 등 모두 32개사로 전년(28개사)보다 4개사가 늘었고, 충북은 모두 18개사로 조사돼 전년(15개사)보다 3개사가 증가한 것으로 파악됐다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 지역별 1000대 기업은 서울이 535개사로 가장 많았다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 도시정비사업 '전면 손질'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

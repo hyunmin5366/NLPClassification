@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333986",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "인스피언, 시흥도시공사에 '비즈인사이더 플러스' 구축",
+		"newsSubTitle": "",
+		"newsContent": "데이터 보안솔루션 전문업체 인스피언(대표 최정규)은 시흥도시공사에 통합로그관리솔루션 '비즈인사이더 플러스(bizinsider PLUS)'를 성공리에 구축, 시흥도시공사로부터 솔루션의 우수성을 인정받았다고 2일 밝혔다.\n시흥도시공사는 관리 시설에서 사용 중인 VPN 방화벽 장비에 이상 발생 시 각 장비별로 분석하고 통합관리할 수 있는 통합로그관리솔루션 도입을 추진했다. '비즈인사이더 플러스'는 방대한 IT시스템에서 생성되는 로그∙이벤트를 통합 관리해 법률∙규제∙인증 등을 준수하고 내외부 위협을 사전 감지하는 통합로그관리 솔루션이다.\n특히 분산 아키텍처를 도입해 대용량 로그 분석에 최적화됐다.\n또 실시간 로그 수집∙저장∙분석이 가능하며 직관적이고 사용성이 뛰어난 검색 등 사용자 편의 기능도 갖췄다.\n사용자 중심 보안 현황 통합 모니터링 등 다양한 통합로그관리 기능도 제공한다.\n회사 측은 \\\"병렬구조 확장이 가능하고 분산 쿼리, 쿼리 자동 생성, 풀 텍스트 검색 등 강력한 분석 툴을 이용해 실시간 빅데이터 검색∙분석이 가능하다\\\"고 설명했다.\n인스피언은 시흥도시공사 이기종 정보보호시스템 31대를 연동하는 과정에서 로그관리에 만전을 기했다.\n이를 통해 공사는 특정 IP를 조건 값으로 각 장비들을 통과한 패킷의 세션 허용∙거부 상태를 한 번에 확인할 수 있다.\n신동하 인스피언 상무는 \\\"최근 데이터의 다양화, 대량화 추세에 따라 단위 시스템에서 발생된 로그를 통합하고 법적 근거까지 제공하는 통합로그관리솔루션에 대한 수요가 공공기관을 중심으로 늘고 있다\\\"며 \\\"공공기관이 다양한 로그를 종합 수집∙분석해 안전하게 시스템을 운영할 수 있도록 지원하는데 최선을 다 하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "데이터 보안솔루션 전문업체 인스피언(대표 최정규)은 시흥도시공사에 통합로그관리솔루션 '비즈인사이더 플러스(bizinsider PLUS)'를 성공리에 구축, 시흥도시공사로부터 솔루션의 우수성을 인정받았다고 2일 밝혔다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "시흥도시공사는 관리 시설에서 사용 중인 VPN 방화벽 장비에 이상 발생 시 각 장비별로 분석하고 통합관리할 수 있는 통합로그관리솔루션 도입을 추진했다. '비즈인사이더 플러스'는 방대한 IT시스템에서 생성되는 로그∙이벤트를 통합 관리해 법률∙규제∙인증 등을 준수하고 내외부 위협을 사전 감지하는 통합로그관리 솔루션이다.",
+				"sentenceSize": 177
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 분산 아키텍처를 도입해 대용량 로그 분석에 최적화됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 실시간 로그 수집∙저장∙분석이 가능하며 직관적이고 사용성이 뛰어난 검색 등 사용자 편의 기능도 갖췄다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사용자 중심 보안 현황 통합 모니터링 등 다양한 통합로그관리 기능도 제공한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "회사 측은 \\\"병렬구조 확장이 가능하고 분산 쿼리, 쿼리 자동 생성, 풀 텍스트 검색 등 강력한 분석 툴을 이용해 실시간 빅데이터 검색∙분석이 가능하다\\\"고 설명했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인스피언은 시흥도시공사 이기종 정보보호시스템 31대를 연동하는 과정에서 로그관리에 만전을 기했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이를 통해 공사는 특정 IP를 조건 값으로 각 장비들을 통과한 패킷의 세션 허용∙거부 상태를 한 번에 확인할 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "신동하 인스피언 상무는 \\\"최근 데이터의 다양화, 대량화 추세에 따라 단위 시스템에서 발생된 로그를 통합하고 법적 근거까지 제공하는 통합로그관리솔루션에 대한 수요가 공공기관을 중심으로 늘고 있다\\\"며 \\\"공공기관이 다양한 로그를 종합 수집∙분석해 안전하게 시스템을 운영할 수 있도록 지원하는데 최선을 다 하겠다\\\"고 말했다.",
+				"sentenceSize": 181
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인스피언, 시흥도시공사에 '비즈인사이더 플러스' 구축",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

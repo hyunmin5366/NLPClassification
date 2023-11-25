@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330925",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "일 르네사스, 임베디드AI액셀러레이터 개발",
+		"newsSubTitle": "",
+		"newsContent": "일본 르네사스일렉트로닉스는 엔드포인트 인텔리전트화를 위한 임베디드 인공지능(AI) 액셀러레이터를 개발했다.\nAI액셀러레이터는 저전력으로 고속 CNN(Convolutional Neural Network)처리를 수행한다.\n메모리 데이터를 읽으면서 연산이 가능한 AI기술 PIM(Processing-in-Memory)아키텍처를 기반으로 한다.\n이 액셀러레이터를 탑재한 테스트칩은 1W 전력으로 초당 8조8000억회 연산을 기록했다.\n르네사스는 AI액셀러레이터로 딥러닝 처리의 메모리 액세스 시간 감소와 소비 전력 감소, 필기체 문자 인식 테스트(MNIST) 결과 99%이상 인식을 기록했다고 밝혔다.\n르네사스는 2015년 임베디드 AI 콘셉트를 밝표한 후 다수 임베디드AI 솔루션을 개발했다.\n2018년에는 AI엑셀러레이터 독자기술 DRP(Dynamically Reconfigurable Processor)를 탑재한 클래스2 등급 RZ/A2M를 발표했다.\n클래스2는 실시간 영상처리와 정상·이상 판단이 가능한 수준이다.\n르네사스는 “새 액셀러레이터 기술은 저전력 소모와 향상된 계산 성능을 제공, 엔드 포인트에서 추가 학습이 가능한 클래스4 등급 애플리케이션을 구현하는 핵심 기술 중 하나”라면서 “사물인터넷(IoT) 엣지앤드포인트에서 AI를 적용한 인텔리전트화로 스마트 사회 실현에 기여하겠다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 르네사스일렉트로닉스는 엔드포인트 인텔리전트화를 위한 임베디드 인공지능(AI) 액셀러레이터를 개발했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AI액셀러레이터는 저전력으로 고속 CNN(Convolutional Neural Network)처리를 수행한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "메모리 데이터를 읽으면서 연산이 가능한 AI기술 PIM(Processing-in-Memory)아키텍처를 기반으로 한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 액셀러레이터를 탑재한 테스트칩은 1W 전력으로 초당 8조8000억회 연산을 기록했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "르네사스는 AI액셀러레이터로 딥러닝 처리의 메모리 액세스 시간 감소와 소비 전력 감소, 필기체 문자 인식 테스트(MNIST) 결과 99%이상 인식을 기록했다고 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "르네사스는 2015년 임베디드 AI 콘셉트를 밝표한 후 다수 임베디드AI 솔루션을 개발했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2018년에는 AI엑셀러레이터 독자기술 DRP(Dynamically Reconfigurable Processor)를 탑재한 클래스2 등급 RZ/A2M를 발표했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "클래스2는 실시간 영상처리와 정상·이상 판단이 가능한 수준이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "르네사스는 “새 액셀러레이터 기술은 저전력 소모와 향상된 계산 성능을 제공, 엔드 포인트에서 추가 학습이 가능한 클래스4 등급 애플리케이션을 구현하는 핵심 기술 중 하나”라면서 “사물인터넷(IoT) 엣지앤드포인트에서 AI를 적용한 인텔리전트화로 스마트 사회 실현에 기여하겠다”고 밝혔다.",
+				"sentenceSize": 160
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일 르네사스, 임베디드AI액셀러레이터 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

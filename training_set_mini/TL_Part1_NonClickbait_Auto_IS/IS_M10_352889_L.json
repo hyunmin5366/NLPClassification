@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352889",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "유방암 초음파 영상 AI가 학습하니..예측 정확도 90%로 향상",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 서로 다른 초음파 검사법을 하나로 합쳐 유방암을 초정밀 진단할 수 있는 인공지능(AI)을 개발했다.\n포스텍(POSTECH)은 김철홍 IT융합공학과 교수 연구팀이 2가지 초음파 영상을 결합해 하나의 영상으로 분석하는 '유방암 진단 딥러닝 모델'을 개발했다고 18일 밝혔다.\n유방암 진단은 보통 초음파 검사를 통해 이뤄진다.\n이 검사법은 MRI(자기공명영상법)와 엑스레이(X-ray) 등과 달리 조직을 깊이 들여다볼 수 있고 안전한 장점을 지닌다.\n초음파 검사는 주로 '그레이스케일 초음파'와 '변형탄성(SE) 초음파' 등 2가지 방식이 활용된다.\n검사 기기를 몸에 가져다 대면, 모니터에 흑백으로 표시되는 초음파가 그레이스케일 초음파다.\n변형탄성 초음파는 몸속 조직의 단단한 정도를 측정할 수 있다.\n그러나 유방암을 진단하려면 지금까진 두 가지 초음파를 개별검사 받아야 하는 한계가 있었다.\n이에 연구팀은 그레이스케일 초음파와 변형탄성 초음파 영상을 AI로 결합하는 시도를 했다.\nAI가 유방암을 진단하려면, 예측을 위한 학습이 선결돼야 한다.\n연구팀은 유방암 환자 85명(악성·양성 포함)으로부터 얻은 205개 영상 데이터를 AI에게 학습시켰다.\n이후 그레이스케일, 변형탄성 초음파를 각각 학습한 딥러닝을 하나로 합치고 유방암 의심 환자 18명을 진단했다.\n그 결과, 악성 유방암 종양 진단 정확도는 90%에 달했다.\n그레이스케일과 변형탄성 초음파 영상 하나만을 학습해 유방암을 진단한 AI는 각각 77%와 85% 정확도를 나타내는데 불과했다.\n김철홍 교수는 \\\"그간 유방암 진단 시 초음파 영상이 활용돼 왔으나 인력이 부족하거나 영상 화질이 낮다는 한계가 있었다\\\"면서 \\\"이번에 개발된 딥러닝 모델을 활용하면 초음파 영상에서 유방암을 더 정확하게 분류할 수 있어 진단 효율성을 향상시킬 수 있다\\\"고 설명했다.\n연구팀은 향후 기술을 고도화해 기술이전 등을 통해 제품 상용화에 나선다는 계획이다.\n이번 연구는 국제학술지 국제전기전자공학회(IEEE) 'Transactions on Ultrasonics, Ferroelectrics, and Frequency Control' 1월호 표지논문으로 게재됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 서로 다른 초음파 검사법을 하나로 합쳐 유방암을 초정밀 진단할 수 있는 인공지능(AI)을 개발했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "포스텍(POSTECH)은 김철홍 IT융합공학과 교수 연구팀이 2가지 초음파 영상을 결합해 하나의 영상으로 분석하는 '유방암 진단 딥러닝 모델'을 개발했다고 18일 밝혔다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유방암 진단은 보통 초음파 검사를 통해 이뤄진다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 검사법은 MRI(자기공명영상법)와 엑스레이(X-ray) 등과 달리 조직을 깊이 들여다볼 수 있고 안전한 장점을 지닌다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "초음파 검사는 주로 '그레이스케일 초음파'와 '변형탄성(SE) 초음파' 등 2가지 방식이 활용된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "검사 기기를 몸에 가져다 대면, 모니터에 흑백으로 표시되는 초음파가 그레이스케일 초음파다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "변형탄성 초음파는 몸속 조직의 단단한 정도를 측정할 수 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그러나 유방암을 진단하려면 지금까진 두 가지 초음파를 개별검사 받아야 하는 한계가 있었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 연구팀은 그레이스케일 초음파와 변형탄성 초음파 영상을 AI로 결합하는 시도를 했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "AI가 유방암을 진단하려면, 예측을 위한 학습이 선결돼야 한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "연구팀은 유방암 환자 85명(악성·양성 포함)으로부터 얻은 205개 영상 데이터를 AI에게 학습시켰다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이후 그레이스케일, 변형탄성 초음파를 각각 학습한 딥러닝을 하나로 합치고 유방암 의심 환자 18명을 진단했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "그 결과, 악성 유방암 종양 진단 정확도는 90%에 달했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "그레이스케일과 변형탄성 초음파 영상 하나만을 학습해 유방암을 진단한 AI는 각각 77%와 85% 정확도를 나타내는데 불과했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "김철홍 교수는 \\\"그간 유방암 진단 시 초음파 영상이 활용돼 왔으나 인력이 부족하거나 영상 화질이 낮다는 한계가 있었다\\\"면서 \\\"이번에 개발된 딥러닝 모델을 활용하면 초음파 영상에서 유방암을 더 정확하게 분류할 수 있어 진단 효율성을 향상시킬 수 있다\\\"고 설명했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "연구팀은 향후 기술을 고도화해 기술이전 등을 통해 제품 상용화에 나선다는 계획이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이번 연구는 국제학술지 국제전기전자공학회(IEEE) 'Transactions on Ultrasonics, Ferroelectrics, and Frequency Control' 1월호 표지논문으로 게재됐다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유방암 초음파 영상 AI가 학습하니..예측 정확도 90%로 향상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

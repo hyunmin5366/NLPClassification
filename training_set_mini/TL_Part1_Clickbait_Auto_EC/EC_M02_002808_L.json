@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002808",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "KB국민은행, SOFR 연동 변동금리 외화채권 발행",
+		"newsSubTitle": "2억 달러 규모의 SOFR 연동 변동금리 외화채권 발행",
+		"newsContent": "KB국민은행은 지난 27일 2억 달러 규모의 SOFR 연동 변동금리 외화채권을 성공적으로 발행했다고 29일 밝혔다.\nSOFR(Secured Overnight Financing Rate)은 미국채를 담보로 하는 환매조건부채권거래(되사거나 또는 되파는 것을 조건으로 채권을 거래하는 방식‧Repo) 1일물 금리다.\n고시 중단 예정인 리보(LIBOR)의 대표적 대체금리로, 주로 미국과 유럽의 초우량 기관들이 변동채권 발행에 활용하고 있다.\n지난해 국책은행들이 SOFR 연동 채권을 발행한 사례가 있으나, 시중은행 중에서는 KB국민은행이 최초로 발행했다.\nKB국민은행 관계자는 미디어SR에 \\\"특히 이번 발행은 아시아 민간기관이 미국 우량 투자자를 대상으로 발행한 최초로 SOFR 연동 채권이라는 점에서도 의미가 있다\\\"고 말했다.\n이번에 발행한 채권은 18개월 만기로, 발행금리는 SOFR 변동금리에 45bp를 가산한 수준이다.\n아시아 SOFR 연동 발행채권 중 최저 수준이다.\nKB국민은행 관계자는 \\\"리보 금리 사용 중단이 예정된 상황에서 SOFR 시스템 구축을 선제적 준비했다\\\"며 \\\"이번 발행을 통해 국내 SOFR 연동 채권 발행이 활성화 될 것으로 기대된다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KB국민은행은 지난 27일 2억 달러 규모의 SOFR 연동 변동금리 외화채권을 성공적으로 발행했다고 29일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SOFR(Secured Overnight Financing Rate)은 미국채를 담보로 하는 환매조건부채권거래(되사거나 또는 되파는 것을 조건으로 채권을 거래하는 방식‧Repo) 1일물 금리다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "고시 중단 예정인 리보(LIBOR)의 대표적 대체금리로, 주로 미국과 유럽의 초우량 기관들이 변동채권 발행에 활용하고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 국책은행들이 SOFR 연동 채권을 발행한 사례가 있으나, 시중은행 중에서는 KB국민은행이 최초로 발행했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KB국민은행 관계자는 미디어SR에 \\\"특히 이번 발행은 아시아 민간기관이 미국 우량 투자자를 대상으로 발행한 최초로 SOFR 연동 채권이라는 점에서도 의미가 있다\\\"고 말했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번에 발행한 채권은 18개월 만기로, 발행금리는 SOFR 변동금리에 45bp를 가산한 수준이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아시아 SOFR 연동 발행채권 중 최저 수준이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "KB국민은행 관계자는 \\\"리보 금리 사용 중단이 예정된 상황에서 SOFR 시스템 구축을 선제적 준비했다\\\"며 \\\"이번 발행을 통해 국내 SOFR 연동 채권 발행이 활성화 될 것으로 기대된다\\\"고 밝혔다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT&G, 인도네시아서 사회공헌 활짝",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

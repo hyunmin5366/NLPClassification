@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014029",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "국내 무역수지 37개월 연속 흑자",
+		"newsSubTitle": "수출 415억·수입 338억달러",
+		"newsContent": "국내 무역수지가 37개월 연속 흑자행진을 이어갔다.\n15일 관세청이 발표한 2015년 2월 수출입 동향 자료를 보면, 2월 국내 수출실적은 전년 동월 대비 3.3% 감소한 415억 달러, 수입은 19.7% 감소한 338억 달러를 기록, 77억 달러의 무역흑자를 달성했다.\n이에 따라 지난 2012년 2월 이후 37개월 연속 무역수지 흑자를 기록했다.\n우선 수출은 선박(121.0%), 반도체(6.5%), 유선통신기기(32.7%) 등에서 증가했고, 승용차(-17.8%), 석유제품(-42.8%), 자동차부품(-12.2%), 액정디바이스(-8.0%), 무선통신기기(-29.2%) 등에서 감소했다.\n지역별로 미국(7.4%), 중남미(3.2%), 호주(166.4%) 등은 증가했고, 중국(-7.6%), 유럽연합(EU)(-30.7%), 중동(-6.7%), 일본(-23.4%) 등은 감소했다.\n또한, 수입은 반도체(8.9%), 정보통신기기(12.3%) 등에서 증가했고, 원유(-52.1%), 화공품(-12.2%), 철강재(-15.0%), 광물(-32.0%) 등에서 감소했다.\n중국(20.5%) 지역 등은 증가, 중동(-48.5%), EU(-15.3%) 등은 감소했다.\n한편, 올해 1~2월 누적 실적의 경우, 수출은 867억 달러, 수입은 736억 달러로, 무역수지는 131억 달러 흑자를 기록했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 무역수지가 37개월 연속 흑자행진을 이어갔다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 관세청이 발표한 2015년 2월 수출입 동향 자료를 보면, 2월 국내 수출실적은 전년 동월 대비 3.3% 감소한 415억 달러, 수입은 19.7% 감소한 338억 달러를 기록, 77억 달러의 무역흑자를 달성했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따라 지난 2012년 2월 이후 37개월 연속 무역수지 흑자를 기록했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우선 수출은 선박(121.0%), 반도체(6.5%), 유선통신기기(32.7%) 등에서 증가했고, 승용차(-17.8%), 석유제품(-42.8%), 자동차부품(-12.2%), 액정디바이스(-8.0%), 무선통신기기(-29.2%) 등에서 감소했다.",
+				"sentenceSize": 135
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지역별로 미국(7.4%), 중남미(3.2%), 호주(166.4%) 등은 증가했고, 중국(-7.6%), 유럽연합(EU)(-30.7%), 중동(-6.7%), 일본(-23.4%) 등은 감소했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한, 수입은 반도체(8.9%), 정보통신기기(12.3%) 등에서 증가했고, 원유(-52.1%), 화공품(-12.2%), 철강재(-15.0%), 광물(-32.0%) 등에서 감소했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중국(20.5%) 지역 등은 증가, 중동(-48.5%), EU(-15.3%) 등은 감소했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 올해 1~2월 누적 실적의 경우, 수출은 867억 달러, 수입은 736억 달러로, 무역수지는 131억 달러 흑자를 기록했다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 혼인 증가율 전국 2위",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

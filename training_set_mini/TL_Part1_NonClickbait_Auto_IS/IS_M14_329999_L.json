@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329999",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "금융보안원 '금융보안 표준화' 앞장선다",
+		"newsSubTitle": "",
+		"newsContent": "금융보안원(원장 허창언)은 산∙학∙연 협력으로 금융보안 표준화를 추진한다.\n지능형지속위협(APT)과 랜섬웨어 등 고도화 되는 사이버 공격과 인공지능(AI), 블록체인 등 신기술을 도입으로 새로운 보안 요구사항이 생겼다.\n금보원은 학계와 산업계와 협력해 보안 표준을 수립한다.\n금보원은 금융회사 담당자와 보안, 표준 전문가로 금융보안표준화 협의회를 구성한다. 1년여 간 시범 운영해 표준화 체계를 정비한 후 독립 표준화 업무를 추진할 예정이다.\n다음 달 금융회사를 대상으로 수요조사를 한 후 9월 금융보안표준화 협의회에서 추진 과제를 선정하고 표준을 개발할 예정이다.\n7월 13일 금융보안원 여의도 교육센터에서 수요조사 설명회를 개최한다.\n허창언 원장은 \\\"금융회사는 안전한 금융보안 기술규격을 자율적으로 선택∙운용해야 한다\\\"면서 \\\"금융회사 요구사항을 반영해 기술의 상호운용성과 명확성을 확보한 표준 기술규격을 제공할 예정\\\"이라고 말했다.\n그는 \\\"금융보안원은 학계, 산업계와 연계에 집중해 금융보안 기술 생태계가 선순환 되게 할 것\\\"이라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융보안원(원장 허창언)은 산∙학∙연 협력으로 금융보안 표준화를 추진한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지능형지속위협(APT)과 랜섬웨어 등 고도화 되는 사이버 공격과 인공지능(AI), 블록체인 등 신기술을 도입으로 새로운 보안 요구사항이 생겼다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "금보원은 학계와 산업계와 협력해 보안 표준을 수립한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "금보원은 금융회사 담당자와 보안, 표준 전문가로 금융보안표준화 협의회를 구성한다. 1년여 간 시범 운영해 표준화 체계를 정비한 후 독립 표준화 업무를 추진할 예정이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다음 달 금융회사를 대상으로 수요조사를 한 후 9월 금융보안표준화 협의회에서 추진 과제를 선정하고 표준을 개발할 예정이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "7월 13일 금융보안원 여의도 교육센터에서 수요조사 설명회를 개최한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "허창언 원장은 \\\"금융회사는 안전한 금융보안 기술규격을 자율적으로 선택∙운용해야 한다\\\"면서 \\\"금융회사 요구사항을 반영해 기술의 상호운용성과 명확성을 확보한 표준 기술규격을 제공할 예정\\\"이라고 말했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 \\\"금융보안원은 학계, 산업계와 연계에 집중해 금융보안 기술 생태계가 선순환 되게 할 것\\\"이라고 덧붙였다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "금융보안원 '금융보안 표준화' 앞장선다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325946",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[2020 핫이슈-해외]애플 5G 시장 합류",
+		"newsSubTitle": "",
+		"newsContent": "2020년 하반기 애플이 5G 아이폰을 선보인다.\n경쟁사에 비해 다소 늦은 시점이지만 세계 각국에서 속속 이뤄지는 5G 상용화 흐름에 맞춰 본격적인 시장 개화를 촉진할 전망이다.\n애플은 퀄컴과 특허분쟁으로 5G 모뎀칩 확보에 제동이 걸렸으나 극적 합의에 도달하며 5G 아이폰 출시 기반을 마련했다.\n인텔로부터 모뎀칩 사업부를 10억달러(약 1조원)에 인수, 전용 5G 모뎀칩 개발을 위한 기술력도 확보했다.\n이동통신업계는 애플의 5G 아이폰 출시가 글로벌 스마트폰 시장에 5G폰 침투율을 높이는 기폭제가 될 것으로 보고 있다.\nLTE 가입자로 남아있던 상당수 소비자가 최신 아이폰을 위해 5G로 넘어갈 가능성이 높다는 분석이다.\n삼성전자와 LG전자 그리고 화웨이, 샤오미, 오포, 비보 등 중국 휴대폰 제조사는 한발 앞서 5G라인업을 완비하며 응전 태세를 마쳤다.\n플래그십 모델에 이어 보급형 모델과 30만원대 이하 저가 모델까지 5G로 출시하며 치열한 시장 경쟁을 펼칠 것으로 예상된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2020년 하반기 애플이 5G 아이폰을 선보인다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "경쟁사에 비해 다소 늦은 시점이지만 세계 각국에서 속속 이뤄지는 5G 상용화 흐름에 맞춰 본격적인 시장 개화를 촉진할 전망이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "애플은 퀄컴과 특허분쟁으로 5G 모뎀칩 확보에 제동이 걸렸으나 극적 합의에 도달하며 5G 아이폰 출시 기반을 마련했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인텔로부터 모뎀칩 사업부를 10억달러(약 1조원)에 인수, 전용 5G 모뎀칩 개발을 위한 기술력도 확보했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이동통신업계는 애플의 5G 아이폰 출시가 글로벌 스마트폰 시장에 5G폰 침투율을 높이는 기폭제가 될 것으로 보고 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LTE 가입자로 남아있던 상당수 소비자가 최신 아이폰을 위해 5G로 넘어갈 가능성이 높다는 분석이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자와 LG전자 그리고 화웨이, 샤오미, 오포, 비보 등 중국 휴대폰 제조사는 한발 앞서 5G라인업을 완비하며 응전 태세를 마쳤다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "플래그십 모델에 이어 보급형 모델과 30만원대 이하 저가 모델까지 5G로 출시하며 치열한 시장 경쟁을 펼칠 것으로 예상된다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2020 핫이슈-해외]애플 5G 시장 합류",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

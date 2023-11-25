@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336919",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "메모렛, 견과류 3종 선물세트 출시",
+		"newsSubTitle": "",
+		"newsContent": "메모렛은 추석 및 설 명절 선물로 제격인 '잉카스토리 슈퍼푸드 견과류 3종선물세트'를 출시했다고 밝혔다.\n잉카스토리 견과류 3종은 스위트 카카오닙스(250g), 스위트 아몬드(290g), 브라질넛 (300g) 으로 구성됐다.\n스위트 카카오닙스는 카카오닙스의 약간 씁쓸한 맛이 일품이지만 건강한 단맛을 내는 코코넛 슈가를 코팅해 고소하면서 달콤한 맛을 느낄 수 있다.\n브라질넛은 하루 1~2알이면 몸에 필요한 셀레늄이 완충된다.\n셀레늄은 전립선암을 예방하거나 생식 기능을 개선하고 항산화 효과가 있는 것으로 알려져 있다.\n메모렛은 양판점, 판촉, 특판, 소셜커머스 및 종합몰 등 다양한 유통망을 통해 소비자가 쉽게 만날 수 있도록 판매 극대화에 나서고 있다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "메모렛은 추석 및 설 명절 선물로 제격인 '잉카스토리 슈퍼푸드 견과류 3종선물세트'를 출시했다고 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "잉카스토리 견과류 3종은 스위트 카카오닙스(250g), 스위트 아몬드(290g), 브라질넛 (300g) 으로 구성됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스위트 카카오닙스는 카카오닙스의 약간 씁쓸한 맛이 일품이지만 건강한 단맛을 내는 코코넛 슈가를 코팅해 고소하면서 달콤한 맛을 느낄 수 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "브라질넛은 하루 1~2알이면 몸에 필요한 셀레늄이 완충된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "셀레늄은 전립선암을 예방하거나 생식 기능을 개선하고 항산화 효과가 있는 것으로 알려져 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "메모렛은 양판점, 판촉, 특판, 소셜커머스 및 종합몰 등 다양한 유통망을 통해 소비자가 쉽게 만날 수 있도록 판매 극대화에 나서고 있다고 밝혔다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "메모렛, 견과류 3종 선물세트 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

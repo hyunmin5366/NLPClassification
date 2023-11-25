@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009486",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "외식업체 너도나도 연장영업",
+		"newsSubTitle": "",
+		"newsContent": "외식업체들이 연말을 맞아 연장 영업을 실시하며 고객 잡기에 나섰다.\n패밀리레스토랑 베니건스는 올 마지막 날인 31일, 자정까지 연장 운영한다.\n이날 31일에는 매장안에서 고객들과 새해 카운트다운을 함께 외치는 등의 이벤트를 마련했다.\n중식 레스토랑 차이나팩토리도 31일 전매장에서 연장영업을 실시, 자정까지 문을 연다. 빕스도 31일에는 자정까지 문을 열 예정이다.\nT.G.I프라이데이도 일부 매장에서 연장 영업을 실시하고, 연말 한정메뉴도 출시했다.\n외식업계 관계자는 “연말이 주말인데다 새해를 소중한 사람과 함께 맞이하고 싶어하는 사람이 많아 자정까지 연장 영업을 실시하는 곳들이 늘고 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "외식업체들이 연말을 맞아 연장 영업을 실시하며 고객 잡기에 나섰다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "패밀리레스토랑 베니건스는 올 마지막 날인 31일, 자정까지 연장 운영한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 31일에는 매장안에서 고객들과 새해 카운트다운을 함께 외치는 등의 이벤트를 마련했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "중식 레스토랑 차이나팩토리도 31일 전매장에서 연장영업을 실시, 자정까지 문을 연다. 빕스도 31일에는 자정까지 문을 열 예정이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "T.G.I프라이데이도 일부 매장에서 연장 영업을 실시하고, 연말 한정메뉴도 출시했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "외식업계 관계자는 “연말이 주말인데다 새해를 소중한 사람과 함께 맞이하고 싶어하는 사람이 많아 자정까지 연장 영업을 실시하는 곳들이 늘고 있다”고 말했다.",
+				"sentenceSize": 86
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세종시 정부청사 시공 대림산업 컨소시엄 유리 고지",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332001",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "서울시, 3차원 'S-맵'에 가상 실험공간 마련",
+		"newsSubTitle": "",
+		"newsContent": "서울시가 'S-맵(Map)'에 가상실험공간(오픈랩)을 마련했다.\nS-맵은 서울시 전역을 가상공간에 복제한 디지털 트윈 3차원 지도다.\n오픈랩은 시가 보유한 3차원 공간정보(건물·지형·항공사진 등)와 행정정보를 바탕으로 도시문제 연구자가 연구성과물 등을 3차원으로 가시화할 수 있는 환경이다.\n서울시는 8월까지 오픈랩을 고도화, 시가 보유한 공간정보 데이터 및 모의실험 개발환경 제공, 사용자 경험 공유 등을 통해 스타트업 등 민간기업이 AI, 자율차, 드론 등 공간정보 신산업 신기술을 창출할 수 있도록 지원할 예정이다.\n시는 'S-맵' 3차원 디지털 트윈정보와 첨단 기술을 활용해 시민체험, 시민참여, 환경, 안전 정보 등을 제공한다.\n가상현실(VR)을 이용한 경복궁 경회루 360도 체험, 혼합현실(MR)을 활용한 덕수궁 수문장 교대식 체험 등이 대표적이다.\n7월에는 S맵 데이터와 XR 기술을 활용해 경복궁 길 안내, 가상공간 게임, 소실된 옛 건물 복원 등을 제공하는 'S맵 XR 해치와 함께하는 역사체험 서비스'도 시범 도입한다.\n박종수 서울시 스마트도시정책관은 “다양한 디바이스와 신기술이 빠르게 발전하고 있어 시민의 욕구를 충족할 수 있는 시민 중심 디지털 트윈 S-맵 서비스를 만드는 것은 물론이고 신기술 및 신산업 발전을 위해 시가 보유한 디지털 트윈 데이터를 민간에 적극 공개하겠다”고 말하였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울시가 'S-맵(Map)'에 가상실험공간(오픈랩)을 마련했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "S-맵은 서울시 전역을 가상공간에 복제한 디지털 트윈 3차원 지도다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오픈랩은 시가 보유한 3차원 공간정보(건물·지형·항공사진 등)와 행정정보를 바탕으로 도시문제 연구자가 연구성과물 등을 3차원으로 가시화할 수 있는 환경이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서울시는 8월까지 오픈랩을 고도화, 시가 보유한 공간정보 데이터 및 모의실험 개발환경 제공, 사용자 경험 공유 등을 통해 스타트업 등 민간기업이 AI, 자율차, 드론 등 공간정보 신산업 신기술을 창출할 수 있도록 지원할 예정이다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시는 'S-맵' 3차원 디지털 트윈정보와 첨단 기술을 활용해 시민체험, 시민참여, 환경, 안전 정보 등을 제공한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가상현실(VR)을 이용한 경복궁 경회루 360도 체험, 혼합현실(MR)을 활용한 덕수궁 수문장 교대식 체험 등이 대표적이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "7월에는 S맵 데이터와 XR 기술을 활용해 경복궁 길 안내, 가상공간 게임, 소실된 옛 건물 복원 등을 제공하는 'S맵 XR 해치와 함께하는 역사체험 서비스'도 시범 도입한다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "박종수 서울시 스마트도시정책관은 “다양한 디바이스와 신기술이 빠르게 발전하고 있어 시민의 욕구를 충족할 수 있는 시민 중심 디지털 트윈 S-맵 서비스를 만드는 것은 물론이고 신기술 및 신산업 발전을 위해 시가 보유한 디지털 트윈 데이터를 민간에 적극 공개하겠다”고 말하였다.",
+				"sentenceSize": 153
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서울시, 3차원 'S-맵'에 가상 실험공간 마련",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

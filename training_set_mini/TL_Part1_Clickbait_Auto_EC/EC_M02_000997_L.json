@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000997",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "[단독] 배달의민족-쿠팡 화해했다...\\\"공정위·경찰 신고 취하\\\"",
+		"newsSubTitle": "",
+		"newsContent": "배달앱 1위 배달의민족과 쿠팡이 화해했다.\n배달의민족은 지난 9일 쿠팡과의 최종 합의를 마치고 쿠팡을 상대로 한 공정거래위원회·경찰 신고를 모두 취하했다고 16일 밝혔다.\n배달의민족 운영사 우아한형제들은 미디어SR에 \\\"최근 쿠팡이츠 서비스에 관한 형사고소 및 공정위 신고 사건과 관련해, 쿠팡은 일부 영업 직원의 행위에 대해 우아한형제들에 유감을 표했으며, 앞으로 양사가 관련 법령을 준수하며 공정 경쟁을 해 나가기로 원만히 합의했다. 이에 우아한형제들은 모든 법적 절차를 취하했다\\\"고 밝혔다.\n우아한형제들은 지난 5월 쿠팡이 음식 배달서비스 '쿠팡이츠'를 시작하면서 벌인 영업 과정 중 배달의민족의 영업 비밀을 침해하고 불공정 거래 행위를 했다며 쿠팡을 공정위에 신고하고 경찰에 수사를 의뢰한 바 있다.\n당시 우아한형제들은 \\\"쿠팡이츠와 독점계약을 맺으면 수수료를 대폭 할인해 주는 것은 물론, 매출 하락 시 최대 수천만 원에 이르는 현금 보상까지 해 주겠다고 제안했다\\\"고 강조했다.\n고발 이후 첨예한 갈등이 벌어졌으나 우아한형제들이 지난달 공정위에 사건 조정 신청서를 제출하는 등 조정 합의를 거쳐 결국 최종 합의에 이르렀다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배달앱 1위 배달의민족과 쿠팡이 화해했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배달의민족은 지난 9일 쿠팡과의 최종 합의를 마치고 쿠팡을 상대로 한 공정거래위원회·경찰 신고를 모두 취하했다고 16일 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "배달의민족 운영사 우아한형제들은 미디어SR에 \\\"최근 쿠팡이츠 서비스에 관한 형사고소 및 공정위 신고 사건과 관련해, 쿠팡은 일부 영업 직원의 행위에 대해 우아한형제들에 유감을 표했으며, 앞으로 양사가 관련 법령을 준수하며 공정 경쟁을 해 나가기로 원만히 합의했다. 이에 우아한형제들은 모든 법적 절차를 취하했다\\\"고 밝혔다.",
+				"sentenceSize": 182
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우아한형제들은 지난 5월 쿠팡이 음식 배달서비스 '쿠팡이츠'를 시작하면서 벌인 영업 과정 중 배달의민족의 영업 비밀을 침해하고 불공정 거래 행위를 했다며 쿠팡을 공정위에 신고하고 경찰에 수사를 의뢰한 바 있다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당시 우아한형제들은 \\\"쿠팡이츠와 독점계약을 맺으면 수수료를 대폭 할인해 주는 것은 물론, 매출 하락 시 최대 수천만 원에 이르는 현금 보상까지 해 주겠다고 제안했다\\\"고 강조했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "고발 이후 첨예한 갈등이 벌어졌으나 우아한형제들이 지난달 공정위에 사건 조정 신청서를 제출하는 등 조정 합의를 거쳐 결국 최종 합의에 이르렀다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "메모리 가격 하반기 더 내릴듯…\\\"삼성, 사업전환 속도 높여야\\\"(종합)",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

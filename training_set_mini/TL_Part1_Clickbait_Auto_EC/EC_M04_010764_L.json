@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010764",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "11월 자금사정 '꽁꽁'",
+		"newsSubTitle": "대전ㆍ충남기업 BSI 제조 5pㆍ비제조업 4p 하락",
+		"newsContent": "대전ㆍ충남지역 업체들의 자금사정이 하락할 전망이다.\n한국은행 대전ㆍ충남본부가 발표한 '10월 자금사정 동향 및 11월 전망 조사' 결과 자금사정전망BSI는 제조업이 11월 93에서 88로, 비제조업이 82에서 86으로 전월보다 각각 5포인트, 4포인트 하락할 것으로 예상했다.\n외부자금수요전망BSI는 제조업(10월 104→11월 104)이 전월과 동일 비제조업(111→112)은 매출 감소 및 차입금 원리금 상황부담 증가 등으로 1포인트 상승할 것으로 내다봤다.\n11월 자금조달사정전망BSI는 제조업(10월 93→11월 92)은 내부자금조달 감소 및 담보여력 감소 등에 따라 1포인트, 비제조업(10월 94→11월 91)은 내부자금조달 감소 및 금융기관의 신용대출 감소 등에 따라 전월보다 3포인트 하락할 것으로 조사됐다.\n10월 대전ㆍ충남지역 기업들의 내부자금 의존도는 79.8%로 전월보다 0.8포인트 하락, 외부자금 의존도는 20.2%로 전월보다 0.8포인트 상승할 것으로 내다봤다.\n은행권 차입비중(17.9%)과 비은행권 차입비중(0.6%)은 전월보다 각각 0.6%p, 0.1%p 상승할 것으로 예상했다.\n한편, 자금사정 조사결과는 지난달 11일부터 23일까지 지역 업체 519곳을 대상으로 우편과 전화조사를 한 결과다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전ㆍ충남지역 업체들의 자금사정이 하락할 전망이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전ㆍ충남본부가 발표한 '10월 자금사정 동향 및 11월 전망 조사' 결과 자금사정전망BSI는 제조업이 11월 93에서 88로, 비제조업이 82에서 86으로 전월보다 각각 5포인트, 4포인트 하락할 것으로 예상했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "외부자금수요전망BSI는 제조업(10월 104→11월 104)이 전월과 동일 비제조업(111→112)은 매출 감소 및 차입금 원리금 상황부담 증가 등으로 1포인트 상승할 것으로 내다봤다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "11월 자금조달사정전망BSI는 제조업(10월 93→11월 92)은 내부자금조달 감소 및 담보여력 감소 등에 따라 1포인트, 비제조업(10월 94→11월 91)은 내부자금조달 감소 및 금융기관의 신용대출 감소 등에 따라 전월보다 3포인트 하락할 것으로 조사됐다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "10월 대전ㆍ충남지역 기업들의 내부자금 의존도는 79.8%로 전월보다 0.8포인트 하락, 외부자금 의존도는 20.2%로 전월보다 0.8포인트 상승할 것으로 내다봤다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "은행권 차입비중(17.9%)과 비은행권 차입비중(0.6%)은 전월보다 각각 0.6%p, 0.1%p 상승할 것으로 예상했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 자금사정 조사결과는 지난달 11일부터 23일까지 지역 업체 519곳을 대상으로 우편과 전화조사를 한 결과다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 '삼성 1' '대동4·8' 구역 시공권 어디로?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

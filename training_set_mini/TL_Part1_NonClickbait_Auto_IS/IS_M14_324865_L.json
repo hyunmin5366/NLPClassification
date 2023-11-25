@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324865",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "사이버다임, SMB·日시장서 선전...올해 매출 100억원 돌파한다",
+		"newsSubTitle": "",
+		"newsContent": "사이버다임이 상반기 문서중앙화솔루션 시장에서 중소·중견기업(SMB) 고객확보로 올해 전년대비 15%이상 성장했다.\n2년 전부터 준비한 일본시장 진출도 고객사 확보에 성공하는 등 해외시장 공략도 강화한다.\n지난해 매출 90억원 달성에 이어 올해 100억원 돌파가 예상된다.\n9일 김경채 사이버다임 대표는 “지난해 문서중앙화솔루션 '클라우디움'이 SMB시장에서 30% 이상 성장했고 대기업 등 유지보수 분야에서도 지속 매출이 발생했다”면서 “올해 전체 문서중앙화 분야에서 15%가량 성장해 100억원 매출을 돌파할 것”이라고 말했다.\n사이버다임은 상반기 어느 때보다 바쁜 시간을 보냈다.\n상반기에만 100개가 넘는 고객사를 새롭게 확보했다.\n중소, 중견기업뿐 아니라 넥센타이어, 한국중부발전, 벽산엔지니어링, 대우건설 등 대규모 수주도 성공했다.\n국내 문서중앙화 시장 성장도 한몫했다.\n올해 갠드크랩, 헤르메스 등 랜섬웨어가 기승을 부려 중앙서버에서 문서전체를 관리해 랜섬웨어 감염을 원천 차단하는 문서중앙화솔루션 도입 문의가 늘었다.\n사이버다임은 서버에 저장된 원본을 직접 수정하는 것이 아닌 로컬 임시보안영역(샌드박스)에서 프록시 파일을 수정한 뒤 업로드한다.\n실제 랜섬웨어가 침투해 서버 내 감염 확산을 시도했지만 신규파일만 등록됐을 뿐 원본 문서는 암호화되지 않았다.\n김 대표는 “문서중앙화솔루션은 단순 문서관리뿐 아니라 문서 보안이 핵심”이라면서 “대부분 보안 솔루션이 화이트리스트 기반으로 랜섬웨어를 방어하는 반면 사이버다임은 화이트리스트에 샌드박스 구조를 갖춰 서버를 안전하게 보호한다”고 말했다.\n공들였던 일본시장 공략도 성공했다.\n일본시장 수출용으로 '클라우디움 FS pro'를 별도 개발했다.\n국내 문서중앙화 제품과 달리 파일서버를 선호하는 일본시장에 맞춰 파일서버에 문서보안과 관리를 더했다.\n일본 협력사 스타티아와 총판을 체결하고 판매 중이다.\n김 대표는 “일본은 유망시장이지만 많은 기업이 공을 들이는 것과 달리 실제 성과를 내기가 쉽지 않다”면서 “일본향 제품을 개발해 현재 3개 고객사 납품에 성공했고 3개월 이내 6개 이상 고객 확보할 수 있을 것으로 내다본다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사이버다임이 상반기 문서중앙화솔루션 시장에서 중소·중견기업(SMB) 고객확보로 올해 전년대비 15%이상 성장했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2년 전부터 준비한 일본시장 진출도 고객사 확보에 성공하는 등 해외시장 공략도 강화한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 매출 90억원 달성에 이어 올해 100억원 돌파가 예상된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "9일 김경채 사이버다임 대표는 “지난해 문서중앙화솔루션 '클라우디움'이 SMB시장에서 30% 이상 성장했고 대기업 등 유지보수 분야에서도 지속 매출이 발생했다”면서 “올해 전체 문서중앙화 분야에서 15%가량 성장해 100억원 매출을 돌파할 것”이라고 말했다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사이버다임은 상반기 어느 때보다 바쁜 시간을 보냈다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "상반기에만 100개가 넘는 고객사를 새롭게 확보했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중소, 중견기업뿐 아니라 넥센타이어, 한국중부발전, 벽산엔지니어링, 대우건설 등 대규모 수주도 성공했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국내 문서중앙화 시장 성장도 한몫했다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "올해 갠드크랩, 헤르메스 등 랜섬웨어가 기승을 부려 중앙서버에서 문서전체를 관리해 랜섬웨어 감염을 원천 차단하는 문서중앙화솔루션 도입 문의가 늘었다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "사이버다임은 서버에 저장된 원본을 직접 수정하는 것이 아닌 로컬 임시보안영역(샌드박스)에서 프록시 파일을 수정한 뒤 업로드한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "실제 랜섬웨어가 침투해 서버 내 감염 확산을 시도했지만 신규파일만 등록됐을 뿐 원본 문서는 암호화되지 않았다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "김 대표는 “문서중앙화솔루션은 단순 문서관리뿐 아니라 문서 보안이 핵심”이라면서 “대부분 보안 솔루션이 화이트리스트 기반으로 랜섬웨어를 방어하는 반면 사이버다임은 화이트리스트에 샌드박스 구조를 갖춰 서버를 안전하게 보호한다”고 말했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "공들였던 일본시장 공략도 성공했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "일본시장 수출용으로 '클라우디움 FS pro'를 별도 개발했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "국내 문서중앙화 제품과 달리 파일서버를 선호하는 일본시장에 맞춰 파일서버에 문서보안과 관리를 더했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "일본 협력사 스타티아와 총판을 체결하고 판매 중이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "김 대표는 “일본은 유망시장이지만 많은 기업이 공을 들이는 것과 달리 실제 성과를 내기가 쉽지 않다”면서 “일본향 제품을 개발해 현재 3개 고객사 납품에 성공했고 3개월 이내 6개 이상 고객 확보할 수 있을 것으로 내다본다”고 말했다.",
+				"sentenceSize": 131
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "사이버다임, SMB·日시장서 선전...올해 매출 100억원 돌파한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

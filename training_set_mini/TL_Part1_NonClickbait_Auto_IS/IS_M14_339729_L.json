@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339729",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "삼성전기, 스마트폰 기판(HDI) 사업 철수…쿤산 법인 청산",
+		"newsSubTitle": "",
+		"newsContent": "삼성전기가 스마트폰용 메인기판(HDI) 사업에서 손을 뗀다.\n삼성전기는 12일 이사회를 열고 중국 쿤산 법인을 청산하기로 결정했다.\n삼성전기는 공시를 통해 “HDI 생산 및 판매를 중단하고 잔여자산을 처분하겠다”고 밝혔다.\n쿤산은 삼성전기 HDI 주력 생산 기지로, 회사는 HDI 사업 철수를 위해 법인 청산을 단행했다.\n삼성전기는 현재 부산사업장 HDI 설비를 베트남으로 이전 중이지만 베트남에서도 AS 등 일부 물량만 생산하고, 점차 규모를 축소해 HDI 사업에서 손 뗄 것으로 알려졌다.\n삼성전기의 이 같은 결정은 HDI 사업 적자가 지속된 데 따른 것이다.\nHDI(High Density Interconnection)는 스마트폰 핵심 부품간 전기적 신호를 회로로 연결해주는 고밀도 기판으로, 중국·대만 업체들의 저가 공세로 시장경쟁이 치열해지며 수익성이 악화됐다.\n실제로 쿤산 법인은 올해까지 5년간 적자를 기록했고, 삼성전기 기판 사업도 적자를 면치 못했다.\n삼성전기는 기판 사업 수익성 개선을 위해 HDI에서 철수 후 반도체 패키지 기판과 디스플레이용 경연성 인쇄회로기판(RFPCB) 등에 집중할 것으로 예상된다.\n삼성전기에 앞서 LG이노텍도 HDI 사업 정리를 결정한 바 있다.\n회사는 생산 설비가 있는 충북 청주공장을 연내 폐쇄하기로 했다.\n청주공장에 있는 설비와 일부 인력은 반도체용 기판 사업을 하는 경북 구미공장으로 옮긴다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전기가 스마트폰용 메인기판(HDI) 사업에서 손을 뗀다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전기는 12일 이사회를 열고 중국 쿤산 법인을 청산하기로 결정했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성전기는 공시를 통해 “HDI 생산 및 판매를 중단하고 잔여자산을 처분하겠다”고 밝혔다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "쿤산은 삼성전기 HDI 주력 생산 기지로, 회사는 HDI 사업 철수를 위해 법인 청산을 단행했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성전기는 현재 부산사업장 HDI 설비를 베트남으로 이전 중이지만 베트남에서도 AS 등 일부 물량만 생산하고, 점차 규모를 축소해 HDI 사업에서 손 뗄 것으로 알려졌다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전기의 이 같은 결정은 HDI 사업 적자가 지속된 데 따른 것이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "HDI(High Density Interconnection)는 스마트폰 핵심 부품간 전기적 신호를 회로로 연결해주는 고밀도 기판으로, 중국·대만 업체들의 저가 공세로 시장경쟁이 치열해지며 수익성이 악화됐다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "실제로 쿤산 법인은 올해까지 5년간 적자를 기록했고, 삼성전기 기판 사업도 적자를 면치 못했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "삼성전기는 기판 사업 수익성 개선을 위해 HDI에서 철수 후 반도체 패키지 기판과 디스플레이용 경연성 인쇄회로기판(RFPCB) 등에 집중할 것으로 예상된다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "삼성전기에 앞서 LG이노텍도 HDI 사업 정리를 결정한 바 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "회사는 생산 설비가 있는 충북 청주공장을 연내 폐쇄하기로 했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "청주공장에 있는 설비와 일부 인력은 반도체용 기판 사업을 하는 경북 구미공장으로 옮긴다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전기, 스마트폰 기판(HDI) 사업 철수…쿤산 법인 청산",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

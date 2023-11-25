@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334792",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "다누리 오전 8시 8분 발사...1시간 뒤 첫 교신",
+		"newsSubTitle": "",
+		"newsContent": "우리나라 첫 달 궤도선 다누리 발사가 완료됐다.\n5일 과학기술정보통신부와 한국항공우주연구원에 따르면 다누리는 이날 오전 8시 8분께(미국 현지시각 4일 오후 7시 8분께) 미국 플로리다주 케이프커내버럴 우주군 기지에서 스페이스X 팰콘9 발사체에 실려 발사됐다.\n발사 후 약 40분 뒤 다누리는 발사체에서 분리될 예정이다.\n분리 후 약 20분 뒤 지상국과 첫 교신이 이뤄진다.\n항우연은 교신을 통해 교신을 통해 초기 점검을 진행해서, 자세 및 궤도 결정, 고이득 안테나 전개, 각종 장치 활성화 상태를 확인하고 정상 운용 모드로 전환할 예정이다.\n이어 이날 오후 2시께 다누리가 달 전이궤적에 진입했는지 여부를 확인하고 발표할 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리나라 첫 달 궤도선 다누리 발사가 완료됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 과학기술정보통신부와 한국항공우주연구원에 따르면 다누리는 이날 오전 8시 8분께(미국 현지시각 4일 오후 7시 8분께) 미국 플로리다주 케이프커내버럴 우주군 기지에서 스페이스X 팰콘9 발사체에 실려 발사됐다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "발사 후 약 40분 뒤 다누리는 발사체에서 분리될 예정이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "분리 후 약 20분 뒤 지상국과 첫 교신이 이뤄진다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "항우연은 교신을 통해 교신을 통해 초기 점검을 진행해서, 자세 및 궤도 결정, 고이득 안테나 전개, 각종 장치 활성화 상태를 확인하고 정상 운용 모드로 전환할 예정이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 이날 오후 2시께 다누리가 달 전이궤적에 진입했는지 여부를 확인하고 발표할 예정이다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "다누리 오전 8시 8분 발사...1시간 뒤 첫 교신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

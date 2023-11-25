@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355269",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"이력서 보냅니다\\\"…한글파일 열었더니 바탕화면 바뀌고 '협박문'",
+		"newsSubTitle": "null",
+		"newsContent": "입사지원서나 이력서로 위장한 한글(hwp) 파일로 위장한 랜섬웨어가 시중에 유포되고 있어 주의가 필요하다는 분석이 나왔다.\n5일 이스트시큐리티 보안공지에 따르면 올 7월초 등장한 랜섬웨어 '랏빗(Lockbit) 3.0 버전'의 유포가 지난 4일 확인됐다.\n랜섬웨어란 '몸값'이라는 뜻의 영어단어 랜섬(Ransom)과 소트프웨어의 합성어로 컴퓨터 시스템을 감염시켜 파일이나 시스템을 마비시킨 후 돈을 받고서야 풀어주는 방식의 해킹 수법을 이르는 용어다.\n이스트시큐리티는 \\\"국내에서는 여전히 락빗 2.0버전이 유포되고 있었는데 이날(4일) 락빗 3.0 버전의 유포가 확인돼 사용자들의 각별한 주의가 필요하다\\\"고 밝혔다.\n락빗 3.0버전은 기존과 동일하게 입사지원서를 위장한 피싱메일을 통해 유포되고 있다.\n한국 사용자들에 최적화된 랜섬웨어라는 악명이 있는 만큼 유포되는 통로는 한글(hwp) 확장자인 것처럼 위장했다는 점이 눈에 띈다.\n이스트시큐리티는 \\\"피싱메일에는 이력서를 위장한 랜섬웨어 파일이 첨부돼 있다\\\"며 \\\"국내 맞춤형으로 한글(hwp) 파일 아이콘을 위장한 실행파일(exe)로 유포 중\\\"이라고 했다.\n이 파일을 한글파일로 오인해 실행시키면 락빗 3.0 랜섬웨어가 실행된다.\n이 랜섬웨어는 사용자 PC 내의 파일들을 암호화한 후 파일명과 확장자를 랜덤한 6자리 문자열 또는 9자리 문자열로 바꾼다.\n파일명도 같이 바뀌기 때문에 기존 파일이 어떤 것이었는지 확인하기도 어렵다.\n암호화가 진행된 후 사용자 PC 바탕화면도 바뀐다.\n이스트시큐리티는 \\\"랜섬노트에는 '랜섬머니를 지불하지 않으면 탈취한 데이터들을 다크넷 사이트에 공개한다'는 협박문이 있다\\\"며 \\\"랜섬노트에 기재된 주소로 접속을 하면 암호화된 파일 일부를 복호화 할 수 있는 페이지와 실제 락빗 3.0이 탈취한 데이터를 판매하는 페이지를 확인할 수 있어 사용자의 불안감을 유발하고 랜섬머니를 지불하도록 유도한다\\\"고 설명했다.\n또 \\\"출처가 불분명한 사용자에게서 온 이메일 내 첨부파일 열람을 지양하고, 수상한 파일을 실행하기 전 반드시 확장자를 확인해야 한다\\\"며 \\\"중요 파일에 대해서는 주기적으로 백업을 진행해 랜섬웨어에 감염됐을 때 피해를 최소화 할 수 있도록 노력해야 한다\\\"고 당부했다.\n현재 알약에서는 해당 랜섬웨어에 대해 Trojan.Ransom.LockBit로 탐지 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "입사지원서나 이력서로 위장한 한글(hwp) 파일로 위장한 랜섬웨어가 시중에 유포되고 있어 주의가 필요하다는 분석이 나왔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 이스트시큐리티 보안공지에 따르면 올 7월초 등장한 랜섬웨어 '랏빗(Lockbit) 3.0 버전'의 유포가 지난 4일 확인됐다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "랜섬웨어란 '몸값'이라는 뜻의 영어단어 랜섬(Ransom)과 소트프웨어의 합성어로 컴퓨터 시스템을 감염시켜 파일이나 시스템을 마비시킨 후 돈을 받고서야 풀어주는 방식의 해킹 수법을 이르는 용어다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이스트시큐리티는 \\\"국내에서는 여전히 락빗 2.0버전이 유포되고 있었는데 이날(4일) 락빗 3.0 버전의 유포가 확인돼 사용자들의 각별한 주의가 필요하다\\\"고 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "락빗 3.0버전은 기존과 동일하게 입사지원서를 위장한 피싱메일을 통해 유포되고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국 사용자들에 최적화된 랜섬웨어라는 악명이 있는 만큼 유포되는 통로는 한글(hwp) 확장자인 것처럼 위장했다는 점이 눈에 띈다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이스트시큐리티는 \\\"피싱메일에는 이력서를 위장한 랜섬웨어 파일이 첨부돼 있다\\\"며 \\\"국내 맞춤형으로 한글(hwp) 파일 아이콘을 위장한 실행파일(exe)로 유포 중\\\"이라고 했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 파일을 한글파일로 오인해 실행시키면 락빗 3.0 랜섬웨어가 실행된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 랜섬웨어는 사용자 PC 내의 파일들을 암호화한 후 파일명과 확장자를 랜덤한 6자리 문자열 또는 9자리 문자열로 바꾼다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "파일명도 같이 바뀌기 때문에 기존 파일이 어떤 것이었는지 확인하기도 어렵다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "암호화가 진행된 후 사용자 PC 바탕화면도 바뀐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이스트시큐리티는 \\\"랜섬노트에는 '랜섬머니를 지불하지 않으면 탈취한 데이터들을 다크넷 사이트에 공개한다'는 협박문이 있다\\\"며 \\\"랜섬노트에 기재된 주소로 접속을 하면 암호화된 파일 일부를 복호화 할 수 있는 페이지와 실제 락빗 3.0이 탈취한 데이터를 판매하는 페이지를 확인할 수 있어 사용자의 불안감을 유발하고 랜섬머니를 지불하도록 유도한다\\\"고 설명했다.",
+				"sentenceSize": 201
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "또 \\\"출처가 불분명한 사용자에게서 온 이메일 내 첨부파일 열람을 지양하고, 수상한 파일을 실행하기 전 반드시 확장자를 확인해야 한다\\\"며 \\\"중요 파일에 대해서는 주기적으로 백업을 진행해 랜섬웨어에 감염됐을 때 피해를 최소화 할 수 있도록 노력해야 한다\\\"고 당부했다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "현재 알약에서는 해당 랜섬웨어에 대해 Trojan.Ransom.LockBit로 탐지 중이다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"이력서 보냅니다\\\"…한글파일 열었더니 바탕화면 바뀌고 '협박문'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

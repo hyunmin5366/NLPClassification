@@ -1,0 +1,447 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338634",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[이슈분석]보안 구멍 뚫린 영상회의, 회사 기밀 생중계하는 꼴",
+		"newsSubTitle": "코로나 확산에 원격근무·온라인 강의 필수 각국 정부, 잇단 정보 유출에 '줌 폭격' 경고 서드파티 제품, 공격 성공 확률 높아 암호화 여부 등 꼼꼼하게 체크해야",
+		"newsContent": "세계 코로나19 확진자가 급증하며 원격근무와 온라인 강의는 이제 필수가 됐다.\n문제는 원격근무나 강의에 대한 준비가 미흡한 상황에 갑작스레 환경이 변하면서 이를 노린 사이버 위협이 증가했다.\n기업이나 교육기관은 코로나19로 업무환경을 바꿨지만 사이버 보안 위협에 대책 마련에 미흡하다.\n이런 상황에 간편하게 쓸 수 있는 영상회의 솔루션이 인기를 끌었다.\n보안을 고려하지 않고 솔루션을 도입했다가 중요 회사 기밀이 유출되거나 온라인 강의를 방해받을 수 있어 대책 마련이 시급하다.\n◇보안 미흡한 영상회의 '정보 유출 폭탄' 우려 영국 정부는 코로나19 대응을 위한 원격 회의를 줌(Zoom)으로 진행했다.\n줌은 클라우드 기반 영상회의 솔루션이다.\n일정 시간 내 회의를 마치면 별도 비용이 들지 않고 회의 개설이 편리해 최근 사용이 급증했다.\n국내서도 온라인 개학을 앞둔 학교가 줌을 이용해 수업을 준비한다.\n코로나19 확진자가 된 보리스 존슨 총리가 줌을 사용해 내각 회의를 주최한 사진이 인터넷에 올라오면서 사용이 알려졌다.\n이에 영국 국방부가 깜짝 놀라 줌 사용 보안 경고를 했다.\n영국 국방부는 줌 보안에 심각한 문제가 있어 정부 기관 등 사용을 금지했다.\n줌은 실리콘밸리 스타트업이지만 엔지니어링팀은 중국에 있는 것으로 알려졌다.\n줌을 이용해 내각 회의 등 국가 주요 회의를 할 경우 정보가 유출될 우려를 경고한 것으로 보인다.\n일론 머스크가 이끄는 스페이스X는 지난달 직원 줌 접근을 비활성화했다.\n항공우주 제조 분야로 국가 안보에 중대한 기술을 개발하는 만큼 보안 우려가 제기됐기 때문이다.\n이후 미국 항공우주국(NASA) 대변인 역시 NASA 직원 간 줌 사용을 금지한다고 발표했다.\n국내 기업 중에서도 사용 편리성과 저렴한 가격 때문에 줌으로 영상회의를 하는 사례가 늘었다.\n영상회의를 통해 중요 정보가 외부로 유출될 가능성이 있어 대책마련이 시급하다.\n◇온라인 강의 속에 칩입자 발생 해커가 온라인 강의에 무단 침입하면 예상치 못한 각종 피해가 발생했다.\n지난달 미국에서는 영상으로 열린 행사와 수업 등이 사이버공격을 받아 행사 참여자와 학생이 포르노 영상에 노출되는 사건이 발생했다.\n이를 두고 신조어 '줌 폭격(Zoom Bombing)'도 만들어졌다.\n해외에서는 관련 사고 소식이 끊임없이 이어지고 있다.\n미국 연방수사국(FBI)과 뉴욕 법무부는 '줌 폭격'에 관한 제보를 접수한 후 관련 경고를 발행하고 보안 조치 조사에 착수했다.\nFBI는 \\\"줌 초기 설정이 '줌 폭격'을 초래할 위험이 있다\\\"면서 학교를 대상으로 보안 경고를 발행했다.\n뉴욕 법무장관은 지난달 31일 프라이버시와 보안 문제 조사에 돌입했다.\n줌 측에 트래픽 폭증과 '줌 폭격' 같은 사이버공격에 대응하기 위해 어떤 조치를 취했는지 확인하고 있다.\n이외에 줌의 개인정보 처리도 논란이 됐다.\n아이폰에서 줌에 접속하면 개인정보가 페이스북으로 전달됐다.\n페이스북 계정이 없는 사람이라도 스마트폰 정보, 줌 이용시간 등 정보가 페이스북으로 전송됐다.\n줌은 즉시 패치를 진행했지만 타 회사로 줌 이용자 개인정보 전송 우려는 아직 완전히 불식되지 않은 상황이다.\n서드파티에 개인정보를 불법적으로 공유한 사실과 관련해 줌은 현재 소송도 직면한 상황이다.\n애플은 지난해 보안 연구자에 의해 카메라 탈취 취약점을 발견, 맥에서 줌 앱을 제거했다.\n해커가 개설한 영상회의에 맥 이용자가 강제로 참여하게 되고, 영상회의 내용을 해커가 염탐할 수 있는 취약점이 발견됐다.\n국내 학교도 사용이 편리한 줌으로 온라인 개학을 준비하고 있는 것으로 알려졌다.\n실제로 교육부 온라인 강의 시범에서도 줌이 사용됐다.\n온라인 개학이 시작되면 이용량이 더욱 증가하는 만큼 포르노, 폭력물, 인종∙성차별 콘텐츠 전송 등 사회 정서에 악영향을 줄 수 있는 사이버 공격 가능성도 커진다.\n학생들 개인정보 유출도 발생할 수 있다.\n◇영상회의 재택근무 보안 챙겨야 보안업계는 영상회의를 비롯해 원격근무에 대한 보안 체크를 강조한다.\n특히 기업은 바뀐 업무 환경에 대한 사이버 보안 위협 대책이 미흡하다.\n코로나19로 기업은 사용자 위치에 상관 없는 클라우드와 데이터센터를 통해 모든 애플리케이션에 접속할 수 있는 환경을 제공한다.\n공격자는 이런 상황을 노리며 재택하는 직원을 노린다.\n줌과 같이 보안이 취약한 서드파티 제품을 쓸 경우 공격 성공 확률은 더 높다.\n영상회의 솔루션이 무차별 대입(브루트포스) 공격 등에 취약하지 않은지, 데이터 전송 구간에 엔드투엔드(E2E) 암호화를 사용하는지 체크가 필요하다.\n개인정보처리 정책에 대한 투명성도 점검해야 할 요소다.\n전수홍 파이어아이코리아 지사장은 \\\"코로나19로 온라인을 이용한 비대면 서비스 사용이 증가하면서 사이버 공격자가 침투할 수 있는 면적이 넓어졌다\\\"면서 \\\"집에서 회사 주요 서비스에 접속이 증가하고 영상회의가 늘어나는데, 이에 대한 보안이 제대로 고려되지 않고 있다\\\"고 지적했다.\n과학기술정보통신부와 한국인터넷진흥원은 기업의 보안관리자에 △원격근무시스템(VPN) 사용 권장 △재택근무자 대상 보안 지침 마련 및 인식제고 △재택근무자의 사용자 계정 및 접근권한 관리 △일정시간 부재 시 네트워크 차단 △원격 접속 모니터링 강화 △개인∙기업 정보 등 데이터 보안을 권고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 47,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세계 코로나19 확진자가 급증하며 원격근무와 온라인 강의는 이제 필수가 됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "문제는 원격근무나 강의에 대한 준비가 미흡한 상황에 갑작스레 환경이 변하면서 이를 노린 사이버 위협이 증가했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기업이나 교육기관은 코로나19로 업무환경을 바꿨지만 사이버 보안 위협에 대책 마련에 미흡하다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이런 상황에 간편하게 쓸 수 있는 영상회의 솔루션이 인기를 끌었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보안을 고려하지 않고 솔루션을 도입했다가 중요 회사 기밀이 유출되거나 온라인 강의를 방해받을 수 있어 대책 마련이 시급하다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "◇보안 미흡한 영상회의 '정보 유출 폭탄' 우려 영국 정부는 코로나19 대응을 위한 원격 회의를 줌(Zoom)으로 진행했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "줌은 클라우드 기반 영상회의 솔루션이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "일정 시간 내 회의를 마치면 별도 비용이 들지 않고 회의 개설이 편리해 최근 사용이 급증했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "국내서도 온라인 개학을 앞둔 학교가 줌을 이용해 수업을 준비한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "코로나19 확진자가 된 보리스 존슨 총리가 줌을 사용해 내각 회의를 주최한 사진이 인터넷에 올라오면서 사용이 알려졌다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이에 영국 국방부가 깜짝 놀라 줌 사용 보안 경고를 했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "영국 국방부는 줌 보안에 심각한 문제가 있어 정부 기관 등 사용을 금지했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "줌은 실리콘밸리 스타트업이지만 엔지니어링팀은 중국에 있는 것으로 알려졌다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "줌을 이용해 내각 회의 등 국가 주요 회의를 할 경우 정보가 유출될 우려를 경고한 것으로 보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "일론 머스크가 이끄는 스페이스X는 지난달 직원 줌 접근을 비활성화했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "항공우주 제조 분야로 국가 안보에 중대한 기술을 개발하는 만큼 보안 우려가 제기됐기 때문이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이후 미국 항공우주국(NASA) 대변인 역시 NASA 직원 간 줌 사용을 금지한다고 발표했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "국내 기업 중에서도 사용 편리성과 저렴한 가격 때문에 줌으로 영상회의를 하는 사례가 늘었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "영상회의를 통해 중요 정보가 외부로 유출될 가능성이 있어 대책마련이 시급하다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "◇온라인 강의 속에 칩입자 발생 해커가 온라인 강의에 무단 침입하면 예상치 못한 각종 피해가 발생했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "지난달 미국에서는 영상으로 열린 행사와 수업 등이 사이버공격을 받아 행사 참여자와 학생이 포르노 영상에 노출되는 사건이 발생했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이를 두고 신조어 '줌 폭격(Zoom Bombing)'도 만들어졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "해외에서는 관련 사고 소식이 끊임없이 이어지고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "미국 연방수사국(FBI)과 뉴욕 법무부는 '줌 폭격'에 관한 제보를 접수한 후 관련 경고를 발행하고 보안 조치 조사에 착수했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "FBI는 \\\"줌 초기 설정이 '줌 폭격'을 초래할 위험이 있다\\\"면서 학교를 대상으로 보안 경고를 발행했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "뉴욕 법무장관은 지난달 31일 프라이버시와 보안 문제 조사에 돌입했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "줌 측에 트래픽 폭증과 '줌 폭격' 같은 사이버공격에 대응하기 위해 어떤 조치를 취했는지 확인하고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "이외에 줌의 개인정보 처리도 논란이 됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "아이폰에서 줌에 접속하면 개인정보가 페이스북으로 전달됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "페이스북 계정이 없는 사람이라도 스마트폰 정보, 줌 이용시간 등 정보가 페이스북으로 전송됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "줌은 즉시 패치를 진행했지만 타 회사로 줌 이용자 개인정보 전송 우려는 아직 완전히 불식되지 않은 상황이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "서드파티에 개인정보를 불법적으로 공유한 사실과 관련해 줌은 현재 소송도 직면한 상황이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "애플은 지난해 보안 연구자에 의해 카메라 탈취 취약점을 발견, 맥에서 줌 앱을 제거했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "해커가 개설한 영상회의에 맥 이용자가 강제로 참여하게 되고, 영상회의 내용을 해커가 염탐할 수 있는 취약점이 발견됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "국내 학교도 사용이 편리한 줌으로 온라인 개학을 준비하고 있는 것으로 알려졌다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "실제로 교육부 온라인 강의 시범에서도 줌이 사용됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 37,
+				"sentenceContent": "온라인 개학이 시작되면 이용량이 더욱 증가하는 만큼 포르노, 폭력물, 인종∙성차별 콘텐츠 전송 등 사회 정서에 악영향을 줄 수 있는 사이버 공격 가능성도 커진다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 38,
+				"sentenceContent": "학생들 개인정보 유출도 발생할 수 있다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 39,
+				"sentenceContent": "◇영상회의 재택근무 보안 챙겨야 보안업계는 영상회의를 비롯해 원격근무에 대한 보안 체크를 강조한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 40,
+				"sentenceContent": "특히 기업은 바뀐 업무 환경에 대한 사이버 보안 위협 대책이 미흡하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 41,
+				"sentenceContent": "코로나19로 기업은 사용자 위치에 상관 없는 클라우드와 데이터센터를 통해 모든 애플리케이션에 접속할 수 있는 환경을 제공한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 42,
+				"sentenceContent": "공격자는 이런 상황을 노리며 재택하는 직원을 노린다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 43,
+				"sentenceContent": "줌과 같이 보안이 취약한 서드파티 제품을 쓸 경우 공격 성공 확률은 더 높다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 44,
+				"sentenceContent": "영상회의 솔루션이 무차별 대입(브루트포스) 공격 등에 취약하지 않은지, 데이터 전송 구간에 엔드투엔드(E2E) 암호화를 사용하는지 체크가 필요하다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 45,
+				"sentenceContent": "개인정보처리 정책에 대한 투명성도 점검해야 할 요소다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 46,
+				"sentenceContent": "전수홍 파이어아이코리아 지사장은 \\\"코로나19로 온라인을 이용한 비대면 서비스 사용이 증가하면서 사이버 공격자가 침투할 수 있는 면적이 넓어졌다\\\"면서 \\\"집에서 회사 주요 서비스에 접속이 증가하고 영상회의가 늘어나는데, 이에 대한 보안이 제대로 고려되지 않고 있다\\\"고 지적했다.",
+				"sentenceSize": 157
+			},
+			{
+				"sentenceNo": 47,
+				"sentenceContent": "과학기술정보통신부와 한국인터넷진흥원은 기업의 보안관리자에 △원격근무시스템(VPN) 사용 권장 △재택근무자 대상 보안 지침 마련 및 인식제고 △재택근무자의 사용자 계정 및 접근권한 관리 △일정시간 부재 시 네트워크 차단 △원격 접속 모니터링 강화 △개인∙기업 정보 등 데이터 보안을 권고했다.",
+				"sentenceSize": 162
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]보안 구멍 뚫린 영상회의, 회사 기밀 생중계하는 꼴",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 37,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 38,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 39,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 40,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 41,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 42,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 43,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 44,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 45,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 46,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 47,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

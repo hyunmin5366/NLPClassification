@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016195",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "한국수자원공사, 드론 활용해 0.2㎜ 댐 균열까지 판독",
+		"newsSubTitle": "",
+		"newsContent": "▲ K-water가 19일 충북 충주댐에서 드론을 활용해 댐 균열 복구훈련을 진행하고 있다.\nK-water, 충북 충주댐에서 드론 활용한 지진대응 훈련 K-water(한국수자원공사)는 19일 국민안전처가 주관한‘2016년 재난대응 안전한국훈련(SKX)의 일환으로 지진에 따른 충주댐 피해에 대비한 재난대응 훈련을 실시했다.\n이번 훈련은 최근 지진 발생빈도가 증가함에 따라 충북 충주 남서쪽 20㎞지점 규모 6.5의 지진으로 발생한 충주댐의 균열과 누수상황을 가상해 위기대응체계를 점검했다.\nK-water는 시설관리용 드론과 실시간 영상회의 시스템 등 최신 ICT 기술을 도입해 훈련을 했으며, 댐 피해에 따른 시설물 안전성 분석, 하류에 영향을 최소화한 비상방류계획 등을 점검했다.\n또 균열에 대한 복구계획의 체계성, 유관기관과의 공조체계 등에 대한 토론 및 실제훈련을 시행했다.\n이번 훈련에 도입된 드론은 댐의 경사면 등 접근이 어려운 곳을 근접비행해 고해상도의 영상을 촬영함으로써 피해상황 분석을 가능하게 하는 시스템으로, 최소 0.2㎜의 균열까지 판독이 가능하다.\n또한, 촬영된 영상을 디지털 좌표로 변환해 구조물의 손상여부 및 규모를 자동으로 분석할 수 있는 최첨단 장비다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ K-water가 19일 충북 충주댐에서 드론을 활용해 댐 균열 복구훈련을 진행하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "K-water, 충북 충주댐에서 드론 활용한 지진대응 훈련 K-water(한국수자원공사)는 19일 국민안전처가 주관한‘2016년 재난대응 안전한국훈련(SKX)의 일환으로 지진에 따른 충주댐 피해에 대비한 재난대응 훈련을 실시했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 훈련은 최근 지진 발생빈도가 증가함에 따라 충북 충주 남서쪽 20㎞지점 규모 6.5의 지진으로 발생한 충주댐의 균열과 누수상황을 가상해 위기대응체계를 점검했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "K-water는 시설관리용 드론과 실시간 영상회의 시스템 등 최신 ICT 기술을 도입해 훈련을 했으며, 댐 피해에 따른 시설물 안전성 분석, 하류에 영향을 최소화한 비상방류계획 등을 점검했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 균열에 대한 복구계획의 체계성, 유관기관과의 공조체계 등에 대한 토론 및 실제훈련을 시행했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 훈련에 도입된 드론은 댐의 경사면 등 접근이 어려운 곳을 근접비행해 고해상도의 영상을 촬영함으로써 피해상황 분석을 가능하게 하는 시스템으로, 최소 0.2㎜의 균열까지 판독이 가능하다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또한, 촬영된 영상을 디지털 좌표로 변환해 구조물의 손상여부 및 규모를 자동으로 분석할 수 있는 최첨단 장비다.",
+				"sentenceSize": 62
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'새 사령탑' 내세우는 네이버파이낸셜·카카오페이",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

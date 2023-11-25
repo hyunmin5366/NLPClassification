@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330988",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "카스퍼스키랩, 데이터센터 전용 보안 솔루션 새 버전 공개...리눅스 지원 강화",
+		"newsSubTitle": "",
+		"newsContent": "카스퍼스키랩코리아(대표 이창훈)는 데이터센터 전용 보안 솔루션을 내놨다.\n리눅스 운용체계(OS)를 사용하는 가상 컴퓨터에서도 다계층 보안을 제공한다.\n카스퍼스키랩은 5일 '카스퍼스키 시큐리티 포 버추얼라이제이션 라이트 에이전트(Kaspersky Security for Virtualization Light Agent)' 새 버전을 공개했다.\n새 버전은 리눅스를 사용하는 가상 컴퓨터에서도 다계층 보안을 제공한다.\n카스퍼스키랩 라이트 에이전트 제품은 그간 윈도에만 안티 멀웨어 검사, 메모리∙프로세스 보호 등 다계층 보안 기능을 제공했다.\n제품은 리소스 소모가 큰 악성 코드 검사 엔진을 개별 가상 컴퓨터가 아닌 전용 보안 가상 컴퓨터에서 실행되게 분산한다.\n시스템 성능에 미치는 영향을 최소화하면서도 높은 수준 보호 기능을 제공한다.\n가상소프트(VM)웨어 전용 에이전트리스(Agentless) 버전에서도 리눅스를 지원한다.\nVM웨어 vSphere 6.5와 VM웨어 NSX 6.2, 6.3 등 최신 가상화 플랫폼도 제공한다.\n가상화 솔루션 새 버전에는 전체 데이터 센터 관리 기능을 향상하도록 일부 아키텍처 개선도 적용했다.\n윈도 하이퍼 V 호스트에 라이트 에이전트를 동시에 배포한다.\n소프트웨어 정의 데이터 센터 내 VM에서는 라이트 에이전트 유저인터페이스(UI)를 비활성화 한다.\n이창훈 카스퍼스키랩코리아 대표는 \\\"카스퍼스키랩은 이번 가상화 보안 솔루션 업데이트 출시로 다양한 플랫폼과 OS로 이뤄진 데이터 센터를 보유한 고객 요구에 부응할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카스퍼스키랩코리아(대표 이창훈)는 데이터센터 전용 보안 솔루션을 내놨다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "리눅스 운용체계(OS)를 사용하는 가상 컴퓨터에서도 다계층 보안을 제공한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카스퍼스키랩은 5일 '카스퍼스키 시큐리티 포 버추얼라이제이션 라이트 에이전트(Kaspersky Security for Virtualization Light Agent)' 새 버전을 공개했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "새 버전은 리눅스를 사용하는 가상 컴퓨터에서도 다계층 보안을 제공한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카스퍼스키랩 라이트 에이전트 제품은 그간 윈도에만 안티 멀웨어 검사, 메모리∙프로세스 보호 등 다계층 보안 기능을 제공했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제품은 리소스 소모가 큰 악성 코드 검사 엔진을 개별 가상 컴퓨터가 아닌 전용 보안 가상 컴퓨터에서 실행되게 분산한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시스템 성능에 미치는 영향을 최소화하면서도 높은 수준 보호 기능을 제공한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "가상소프트(VM)웨어 전용 에이전트리스(Agentless) 버전에서도 리눅스를 지원한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "VM웨어 vSphere 6.5와 VM웨어 NSX 6.2, 6.3 등 최신 가상화 플랫폼도 제공한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "가상화 솔루션 새 버전에는 전체 데이터 센터 관리 기능을 향상하도록 일부 아키텍처 개선도 적용했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "윈도 하이퍼 V 호스트에 라이트 에이전트를 동시에 배포한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "소프트웨어 정의 데이터 센터 내 VM에서는 라이트 에이전트 유저인터페이스(UI)를 비활성화 한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이창훈 카스퍼스키랩코리아 대표는 \\\"카스퍼스키랩은 이번 가상화 보안 솔루션 업데이트 출시로 다양한 플랫폼과 OS로 이뤄진 데이터 센터를 보유한 고객 요구에 부응할 것\\\"이라고 말했다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카스퍼스키랩, 데이터센터 전용 보안 솔루션 새 버전 공개...리눅스 지원 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337019",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "서울 지하철 전송장비 외산 '싹쓸이'",
+		"newsSubTitle": "",
+		"newsContent": "서울 지하철 주요 구간 전송장비를 외산이 독차지하게 됐다.\n서울교통공사가 '6호선 광대역 통신망 구매 설치' 사업 사전 규격에 외산 전송장비만 구현가능한 'IP-MPLS'를 제안했다.\n다중프로토콜라벨스위치(MPLS) 규격은 IP-MPLS(외산)와 MPLS-TP(국산)로 구분된다.\n2016년 서울도시철도공사(당시 5~8호선 운영)가 처음으로 외산을 선택한데 이어 서울 지하철 1~8호선 전 구간에 외산 장비 도입이 기정사실화됐다. 〈본지 5월 2일자 1면 참조〉 앞서 1~4호선과 7~8호선은 화웨이가, 5호선은 노키아가 수주했다.\n6호선 수주 경쟁도 화웨이와 노키아 간 경쟁이 될 전망이다.\n국산 전송장비가 배제돼 국내 통신장비 기업 수익 악화와 경쟁력 상실이 우려된다.\n이뿐만 아니라 외산 의존도가 심화될 가능성도 배제할 수 없다.\n외산 전송 장비를 도입한 공항철도와 향후 발주될 지방자치단체 도시철도 통신망 고도화 사업까지 고려하면 수천억원 규모 시장이 외산 중심으로 재편될 것이란 관측이다.\n통신장비업계 관계자는 \\\"차세대 통신망을 구축한다는 논리로 향후 많은 도시철도 운영기관이 외산 장비를 도입하려 할 것\\\"이라면서 \\\"메트로 전송망 주요 레퍼런스인 서울 지하철이 외산 장비로 구축된 점도 외산 선호를 부채질 할 것\\\"이라고 내다봤다.\n국산 전송장비업체는 돌파구를 찾지 못해 이중고를 겪고 있다.\n6호선처럼 사전 규격에 외산 규격을 제시하는 게 불공정행위로 판단, 이의를 제기했지만 개선되지 않고 있다.\n지난해 5월에는 가처분 소송을 제기했지만 법원이 기각했다.\n국내 업체는 앞선 7~8호선 사업엔 입찰 참여 자체를 포기했다.\n이와 함께 현실적 대안도 마땅치 않다.\n외산 규격 장비를 개발하기에는 연구개발(R&D) 여력이 부족하기 때문이다.\n국산 전송장비업체 관계자는 \\\"IP-MPLS를 개발하더라도 당장 외산 기술력을 따라가기 어렵다\\\"면서 \\\"타이밍을 놓친 상황\\\"이라고 말했다.\n마케팅 역량과 영업력도 외산장비업체에 비해 비교열위다.\n당장은 소규모 전송망 구축 사업으로 국산 전송장비업체 연명이 가능하지만 장기적 대응 방안 도출이 시급하다는 게 중론이다.\n공공기관의 국산 통신장비 도입을 장려하기 위한 실효성 있는 정책이 시급하다고 한목소리다.\n외산 선호 현상이 지속되는 한 외산 의존도 심화는 물론이고 국내업체 경쟁력 약화로 이어질 것이라는 우려다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울 지하철 주요 구간 전송장비를 외산이 독차지하게 됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울교통공사가 '6호선 광대역 통신망 구매 설치' 사업 사전 규격에 외산 전송장비만 구현가능한 'IP-MPLS'를 제안했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다중프로토콜라벨스위치(MPLS) 규격은 IP-MPLS(외산)와 MPLS-TP(국산)로 구분된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2016년 서울도시철도공사(당시 5~8호선 운영)가 처음으로 외산을 선택한데 이어 서울 지하철 1~8호선 전 구간에 외산 장비 도입이 기정사실화됐다. 〈본지 5월 2일자 1면 참조〉 앞서 1~4호선과 7~8호선은 화웨이가, 5호선은 노키아가 수주했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "6호선 수주 경쟁도 화웨이와 노키아 간 경쟁이 될 전망이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국산 전송장비가 배제돼 국내 통신장비 기업 수익 악화와 경쟁력 상실이 우려된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이뿐만 아니라 외산 의존도가 심화될 가능성도 배제할 수 없다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "외산 전송 장비를 도입한 공항철도와 향후 발주될 지방자치단체 도시철도 통신망 고도화 사업까지 고려하면 수천억원 규모 시장이 외산 중심으로 재편될 것이란 관측이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "통신장비업계 관계자는 \\\"차세대 통신망을 구축한다는 논리로 향후 많은 도시철도 운영기관이 외산 장비를 도입하려 할 것\\\"이라면서 \\\"메트로 전송망 주요 레퍼런스인 서울 지하철이 외산 장비로 구축된 점도 외산 선호를 부채질 할 것\\\"이라고 내다봤다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "국산 전송장비업체는 돌파구를 찾지 못해 이중고를 겪고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "6호선처럼 사전 규격에 외산 규격을 제시하는 게 불공정행위로 판단, 이의를 제기했지만 개선되지 않고 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "지난해 5월에는 가처분 소송을 제기했지만 법원이 기각했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "국내 업체는 앞선 7~8호선 사업엔 입찰 참여 자체를 포기했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이와 함께 현실적 대안도 마땅치 않다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "외산 규격 장비를 개발하기에는 연구개발(R&D) 여력이 부족하기 때문이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "국산 전송장비업체 관계자는 \\\"IP-MPLS를 개발하더라도 당장 외산 기술력을 따라가기 어렵다\\\"면서 \\\"타이밍을 놓친 상황\\\"이라고 말했다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "마케팅 역량과 영업력도 외산장비업체에 비해 비교열위다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "당장은 소규모 전송망 구축 사업으로 국산 전송장비업체 연명이 가능하지만 장기적 대응 방안 도출이 시급하다는 게 중론이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "공공기관의 국산 통신장비 도입을 장려하기 위한 실효성 있는 정책이 시급하다고 한목소리다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "외산 선호 현상이 지속되는 한 외산 의존도 심화는 물론이고 국내업체 경쟁력 약화로 이어질 것이라는 우려다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서울 지하철 전송장비 외산 '싹쓸이'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

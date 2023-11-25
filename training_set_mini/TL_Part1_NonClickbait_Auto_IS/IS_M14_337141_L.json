@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337141",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "베일리테크, KISA '인공지능 악성의심 도메인 탐지대응 시스템 구축' 사업 수주",
+		"newsSubTitle": "물리머신 악성코드 분석 솔루션 '메티스 AI 샌드박스' 동적분석에 적용",
+		"newsContent": "인공지능(AI) 전문기업 베일리테크(대표 정경수)는 한국인터넷진흥원(KISA) 'AI 악성의심 도메인 탐지대응 시스템 구축' 사업을 수주했다고 6일 밝혔다.\n작년 말 출시한 차세대 AI 엔드포인트 보안 플랫폼(EPP) '메티스 AI(Metis AI)'를 시스템 구축에 적극 활용한다.\n베일리테크가 수주한 KISA 사업은 도메인 쿼리 기반의 AI 기술로 악성의심 도메인, DGA 도메인, 정상 도메인을 탐지 판별하는 시스템을 구축하는 것이다.\n도메인 트래픽 이상 징후를 파악해 사전 방어하는 기술개발도 기대된다.\n도메인 쿼리에서 악성코드 감염PC 즉 '출발지'를 찾아낼 수 있는 기술도 선보인다.\n좀비PC는 언젠가 명령&제어(C&C) 서버와 통신을 시도하기 때문에 C&C 도메인 트래픽으로 판별할 수 있다.\n악성 의심으로 탐지된 도메인은 동적 크롤링이 감염여부, 악성코드 배포여부, 악성코드 경유지 등을 찾아내는 기술로 검증한다.\n동적 크롤링은 가상머신이 직접 웹사이트에 접속해 스크립트 바이러스, 즉 '경유지'를 탐지하고 악성코드 배포여부 등을 판별한다.\n동적 크롤링을 통해 악성코드가 다운로드 되면 물리머신에 악성코드 분석을 요청한다.\n베일리테크는 물리머신 악성코드 분석 솔루션 '메티스 AI 샌드박스(Metis AI SandBox)' 기술을 동적 분석에 적용한다.\n메티스 AI 샌드박스는 AI 기반 물리머신 악성코드 분석 솔루션으로 가상머신 우회 악성코드 분석을 위해 실제 PC에서 악성코드를 분석한다.\n박정철 베일리테크 부사장은 \\\"타사 분석 솔루션은 가상머신에서 악성코드를 분석하므로 우회 악성코드를 분석하지 못하는 단점이 존재했다\\\"면서 \\\"메티스 AI 샌드박스는 신경망(NN) 기반 정적 분석 모델과 장기단기기억신경망(LSTM) 기반 동적 분석 모델을 거친 후 AI 알고리즘이 우회 악성유무까지 판별한다\\\"고 전했다.\n그는 또 \\\"메티스AI 샌드박스는 NN 기반 정상파일과 악성파일 학습모델로 정적 분석 모델에서 정상 10%, 악성 90% 형태로 악성코드 탐지결과를 점수화한다\\\"면서 \\\"NN기반 정적 모델은 기존 패턴 '시그니처'보다 100배 이상 뛰어난 성능을 보인다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI) 전문기업 베일리테크(대표 정경수)는 한국인터넷진흥원(KISA) 'AI 악성의심 도메인 탐지대응 시스템 구축' 사업을 수주했다고 6일 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "작년 말 출시한 차세대 AI 엔드포인트 보안 플랫폼(EPP) '메티스 AI(Metis AI)'를 시스템 구축에 적극 활용한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "베일리테크가 수주한 KISA 사업은 도메인 쿼리 기반의 AI 기술로 악성의심 도메인, DGA 도메인, 정상 도메인을 탐지 판별하는 시스템을 구축하는 것이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "도메인 트래픽 이상 징후를 파악해 사전 방어하는 기술개발도 기대된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "도메인 쿼리에서 악성코드 감염PC 즉 '출발지'를 찾아낼 수 있는 기술도 선보인다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "좀비PC는 언젠가 명령&제어(C&C) 서버와 통신을 시도하기 때문에 C&C 도메인 트래픽으로 판별할 수 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "악성 의심으로 탐지된 도메인은 동적 크롤링이 감염여부, 악성코드 배포여부, 악성코드 경유지 등을 찾아내는 기술로 검증한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "동적 크롤링은 가상머신이 직접 웹사이트에 접속해 스크립트 바이러스, 즉 '경유지'를 탐지하고 악성코드 배포여부 등을 판별한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "동적 크롤링을 통해 악성코드가 다운로드 되면 물리머신에 악성코드 분석을 요청한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "베일리테크는 물리머신 악성코드 분석 솔루션 '메티스 AI 샌드박스(Metis AI SandBox)' 기술을 동적 분석에 적용한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "메티스 AI 샌드박스는 AI 기반 물리머신 악성코드 분석 솔루션으로 가상머신 우회 악성코드 분석을 위해 실제 PC에서 악성코드를 분석한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "박정철 베일리테크 부사장은 \\\"타사 분석 솔루션은 가상머신에서 악성코드를 분석하므로 우회 악성코드를 분석하지 못하는 단점이 존재했다\\\"면서 \\\"메티스 AI 샌드박스는 신경망(NN) 기반 정적 분석 모델과 장기단기기억신경망(LSTM) 기반 동적 분석 모델을 거친 후 AI 알고리즘이 우회 악성유무까지 판별한다\\\"고 전했다.",
+				"sentenceSize": 179
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "그는 또 \\\"메티스AI 샌드박스는 NN 기반 정상파일과 악성파일 학습모델로 정적 분석 모델에서 정상 10%, 악성 90% 형태로 악성코드 탐지결과를 점수화한다\\\"면서 \\\"NN기반 정적 모델은 기존 패턴 '시그니처'보다 100배 이상 뛰어난 성능을 보인다\\\"고 덧붙였다.",
+				"sentenceSize": 150
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "베일리테크, KISA '인공지능 악성의심 도메인 탐지대응 시스템 구축' 사업 수주",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

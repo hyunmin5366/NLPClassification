@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327341",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "드림시큐리티, 파이도2 생체인증 시장 공략 점화…업계최초 인증 획득",
+		"newsSubTitle": "",
+		"newsContent": "인증보안 전문기업 드림시큐리티가 생체인증 시장 공략을 강화한다.\n지문 등 생체인식기능이 없는 PC에서도 온라인 쇼핑 및 금융 거래시 스마트폰을 이용해 본인 생체인증이 가능하도록 할 방침이다.\n드림시큐리티(대표 범진규)는 자사 '매직 파이도(FIDO)2 저전력블루투스(BLE) 인증장치' 기술이 업계 최초로 FIDO2 인증을 획득했다고 12일 밝혔다.\n이번에 인증받은 기술은 스마트폰 BLE 기술을 적용한 생체인증 장치다.\n지난달 서울에서 열린 파이도얼라이언스 상호운용성시험에서 iOS 및 안드로이드OS 버전이 각각 시험을 통과한 바 있다.\n파이도 인증기술은 아이디나 패스워드 대신 지문, 얼굴과 같은 생체 정보를 이용해 사용자를 인증한다.\n파이도1은 스마트폰 환경에서 금융거래를 중심으로 서비스가 이뤄지고 있다.\n파이도2는 스마트폰 환경에서만 지원되던 생체인증을 웹브라우저 및 PC운용체계(OS) 환경에서도 지원하는 기술이다.\n웹브라우저와 운용체계(OS)를 주도하는 마이크로소프트나 구글도 자체 서비스에 파이도2를 속속 탑재 중이다.\n기술이 상용화되면 공용 작업환경이나 금융 거래 시 스마트폰에서 편리한 생체인증을 통해 강력한 보안이 이뤄질 전망이다.\n표준 기술을 이용하기 때문에 은행이나 포털도 서비스 구축 시 비용 절감이 가능하다.\n파이도2 인증장치 종류로는 PC에 기본탑재된 빌트인 형태, USB타입 형태 그리고 NFC 및 블루투스 통신을 이용하는 형태가 있다.\n이번에 드림시큐리티가 인증을 획득한 기술은 파이도 클라이언트-인증장치 간 프로토콜(CTAP)2 표준 스마트폰 블루투스 통신기술을 적용한 보안인증 Lv1 인증장치다.\n이 기술을 이용하면 파이도2를 지원하는 빌트인PC나 USB타입인증장치 등 별도 하드웨어 없이 사용자 스마트폰으로 편리하고 안전하게 생체인증을 할 수 있다.\n비용 부담 없이 FIDO2기반 생체인증서비스를 도입하고자 하는 기관이나 기업에서 선호하는 인증장치가 될 전망이다.\n드림시큐리티는 지난 9월 매직파이도2 서버 인증획득에 이어 업계 최초로 범용성과 가격 경쟁력을 갖춘 인증장치까지 확보, 차세대 인증시장에서 유리한 고지를 선점하게 됐다.\n내년 초 BLE방식 인증장치를 지원하는 웹브라우저 정식 출시에 발맞춰 인증서비스를 선보일 예정이다.\n범진규 드림시큐리티 대표는 “새 기술은 편의성과 가용성이 장점으로 파이도2 웹인증 서비스 도입을 망설이는 온라인서비스제공자에게 좋은 해결방안이 될 것”이라며 “차세대 인증시장을 선도하는 기업으로서 입지를 더욱 굳히겠다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인증보안 전문기업 드림시큐리티가 생체인증 시장 공략을 강화한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지문 등 생체인식기능이 없는 PC에서도 온라인 쇼핑 및 금융 거래시 스마트폰을 이용해 본인 생체인증이 가능하도록 할 방침이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "드림시큐리티(대표 범진규)는 자사 '매직 파이도(FIDO)2 저전력블루투스(BLE) 인증장치' 기술이 업계 최초로 FIDO2 인증을 획득했다고 12일 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번에 인증받은 기술은 스마트폰 BLE 기술을 적용한 생체인증 장치다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난달 서울에서 열린 파이도얼라이언스 상호운용성시험에서 iOS 및 안드로이드OS 버전이 각각 시험을 통과한 바 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "파이도 인증기술은 아이디나 패스워드 대신 지문, 얼굴과 같은 생체 정보를 이용해 사용자를 인증한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "파이도1은 스마트폰 환경에서 금융거래를 중심으로 서비스가 이뤄지고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "파이도2는 스마트폰 환경에서만 지원되던 생체인증을 웹브라우저 및 PC운용체계(OS) 환경에서도 지원하는 기술이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "웹브라우저와 운용체계(OS)를 주도하는 마이크로소프트나 구글도 자체 서비스에 파이도2를 속속 탑재 중이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "기술이 상용화되면 공용 작업환경이나 금융 거래 시 스마트폰에서 편리한 생체인증을 통해 강력한 보안이 이뤄질 전망이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "표준 기술을 이용하기 때문에 은행이나 포털도 서비스 구축 시 비용 절감이 가능하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "파이도2 인증장치 종류로는 PC에 기본탑재된 빌트인 형태, USB타입 형태 그리고 NFC 및 블루투스 통신을 이용하는 형태가 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이번에 드림시큐리티가 인증을 획득한 기술은 파이도 클라이언트-인증장치 간 프로토콜(CTAP)2 표준 스마트폰 블루투스 통신기술을 적용한 보안인증 Lv1 인증장치다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이 기술을 이용하면 파이도2를 지원하는 빌트인PC나 USB타입인증장치 등 별도 하드웨어 없이 사용자 스마트폰으로 편리하고 안전하게 생체인증을 할 수 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "비용 부담 없이 FIDO2기반 생체인증서비스를 도입하고자 하는 기관이나 기업에서 선호하는 인증장치가 될 전망이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "드림시큐리티는 지난 9월 매직파이도2 서버 인증획득에 이어 업계 최초로 범용성과 가격 경쟁력을 갖춘 인증장치까지 확보, 차세대 인증시장에서 유리한 고지를 선점하게 됐다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "내년 초 BLE방식 인증장치를 지원하는 웹브라우저 정식 출시에 발맞춰 인증서비스를 선보일 예정이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "범진규 드림시큐리티 대표는 “새 기술은 편의성과 가용성이 장점으로 파이도2 웹인증 서비스 도입을 망설이는 온라인서비스제공자에게 좋은 해결방안이 될 것”이라며 “차세대 인증시장을 선도하는 기업으로서 입지를 더욱 굳히겠다”고 밝혔다.",
+				"sentenceSize": 128
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "드림시큐리티, 파이도2 생체인증 시장 공략 점화…업계최초 인증 획득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

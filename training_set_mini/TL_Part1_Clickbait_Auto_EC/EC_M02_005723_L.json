@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005723",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "르노코리아 \\\"2024년 친환경 신차 부품 국산화율 60% 이상\\\"",
+		"newsSubTitle": "현재 QM6 국산화 수준 이상 목표",
+		"newsContent": "르노코리아자동차(대표 스테판 드블레스)는 오는 2024년 출시를 준비 중인 친환경 신차의 부품 국산화율을 현재 60% 정도인 QM6 수준 이상으로 목표한다고 17일 밝혔다.\n르노코리아가 현재 준비 중인 친환경 신차는 르노그룹 및 길리홀딩그룹과 함께 한국 시장을 위해 선보이는 하이브리드 합작 모델이다.\n길리그룹의 스웨덴 R&D 센터에서 개발한 세계적 명성의 CMA 플랫폼과 차세대 하이브리드 시스템을 기반으로 한다.\n르노코리아 국내 연구진들이 국내 소비자의 눈높이에 맞도록 업계 최고 수준의 첨단 기능을 탑재한 새로운 제품으로 개발해 선보일 예정이다.\n최근 길리 오토모빌 홀딩스가 르노코리아 지분 34.02% 참여를 발표한 가운데 이번 부품 국산화율 60% 이상 목표는 신차와 관련해 가장 먼저 공개된 내용이다.\n현재 부산공장에서 생산 중인 모델 중 국내에서 생산한 부품의 적용율이 가장 높은 모델은 60% 수준인 QM6다.\n르노코리아 협력업체협의회 관계자는 데일리임팩트에 \\\"르노코리아와 협력업체는 지난 2020년 3월 닛산 로그 수출 종료 이후 많은 위기를 겪었지만 XM3의 유럽 수출 성공을 기원하고 위기를 극복해 낼 수 있었다\\\"라며 \\\"2024년 신차 개발도 르노코리아와 협력업체가 지혜를 모으면 이번 국산화율 목표 달성도 어렵지 않을 것\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "르노코리아자동차(대표 스테판 드블레스)는 오는 2024년 출시를 준비 중인 친환경 신차의 부품 국산화율을 현재 60% 정도인 QM6 수준 이상으로 목표한다고 17일 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "르노코리아가 현재 준비 중인 친환경 신차는 르노그룹 및 길리홀딩그룹과 함께 한국 시장을 위해 선보이는 하이브리드 합작 모델이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "길리그룹의 스웨덴 R&D 센터에서 개발한 세계적 명성의 CMA 플랫폼과 차세대 하이브리드 시스템을 기반으로 한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "르노코리아 국내 연구진들이 국내 소비자의 눈높이에 맞도록 업계 최고 수준의 첨단 기능을 탑재한 새로운 제품으로 개발해 선보일 예정이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 길리 오토모빌 홀딩스가 르노코리아 지분 34.02% 참여를 발표한 가운데 이번 부품 국산화율 60% 이상 목표는 신차와 관련해 가장 먼저 공개된 내용이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 부산공장에서 생산 중인 모델 중 국내에서 생산한 부품의 적용율이 가장 높은 모델은 60% 수준인 QM6다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "르노코리아 협력업체협의회 관계자는 데일리임팩트에 \\\"르노코리아와 협력업체는 지난 2020년 3월 닛산 로그 수출 종료 이후 많은 위기를 겪었지만 XM3의 유럽 수출 성공을 기원하고 위기를 극복해 낼 수 있었다\\\"라며 \\\"2024년 신차 개발도 르노코리아와 협력업체가 지혜를 모으면 이번 국산화율 목표 달성도 어렵지 않을 것\\\"이라고 밝혔다.",
+				"sentenceSize": 190
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“농협 전산마비 최소 한달전 준비”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,402 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004023",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "\\\"사람 눈에 더 가깝게\\\" 삼성전자 '2억화소' 이미지센서 내놨다",
+		"newsSubTitle": "초고화질 아이소셀 HP1 출시….. 기존 대비 화소 수 85% 향상 초소형 아이소셀 GN5도 선봬…시장 1위 소니 추격전 가속화",
+		"newsContent": "삼성전자가 이미지센서 분야에서 '초격차' 속도를 올리고 있다.\n업계 최초로 2억화소의 모바일 이미지센서와 초소형 이미지센서를 출시한 것이다.\n삼성전자는 2019년 업계 최초로 1억800만화소 이미지센서를 출시한 지 2년 만에, 듀얼 픽셀 프로 기술을 적용한 지 6개월여 만에 초소형·고화소 이미지센서를 상용화하는 데 성공했다.\n이로써 '사람의 눈'을 닮은 이미지센서 구현에 더욱 다가섰다는 평가다.\n삼성전자는 최근 초고화소 이미지센서 수요가 늘면서 이를 겨냥한 신제품을 발빠르게 내놓고 있다.\n이미지센서를 비롯한 비메모리 분야에서 경쟁력을 강화해 시스템반도체 1위를 달성하겠다는 삼성전자의 의지가 읽히는 대목이다.\n2일 삼성전자는 2억화소의 모바일 이미지센서 아이소셀 HP1와초소형 듀얼 픽셀 이미지센서 아이소셀 GN5를 공개했다.\n삼성전자 관계자는 이날 데일리임팩트에 \\\"이미지센서는 칩셋으로, 이를 모듈화해 모바일 기기에 넣는 것\\\"이라며 \\\"특히 크기를 줄이고 고감도 촬영이 가능하도록 기존 제품들보다 기술적으로 발전했다\\\"고 설명했다.\n아이소셀 HP1은 기존 1억800만화소 제품보다 화소 수를 약 85% 높이고 두께를 줄인 제품이다.\n0.64㎛(마이크로미터, 100만분의 1미터) 픽셀 2억개를 1.22분의 1인치 옵티컬포맷 크기에 올렸다.\n옵티컬 포맷이란 이미지센서를 이용해 카메라 모듈을 만들 때 외부 렌즈가 영상을 맺히게 하는 영역으로 사람의 '망막'에 해당한다.\n옵티컬포멧이 얇을수록 카메라모듈 두께도 줄어들기 때문에 '카툭튀'(카메라 돌출)를 최소화할 수 있다.\n이를 위해 삼성전자는 독자 신기술 '카멜레온셀'을 첫 적용했다.\n촬영 환경에 따라 4개 혹은 16개의 인접 픽셀을 조합해 조도에 관계없이 고화질 화질이 가능하다.\n빛이 충분할 때는 0.64㎛ 미세 픽셀을 활용하고, 어두운 환경에서는 1.28㎛ 또는 2.56㎛ 픽셀 등으로 빛을 받아들이는 면적을 자동으로 넓혀 밝고 선명한 사진을 찍을 수 있다. 고화질 동영상을 촬영할 때는 인접 픽셀 4개를 하나처럼 동작시켜, 화각 손실 없이 초당 30프레임으로 8K 초고해상도 영상을 촬영할 수 있다.\n아이소셀 GN5는 1.57 분의 1인치 옵티컬포맷에 1.0㎛ 픽셀 5000만개를 구현한 초소형 듀얼 픽셀 제품이다.\n지난 2월 GN2에 발표한 GN2(1.12인치 분의 1인치 옵티컬포멧)와 비교해 크기는 줄어들고 성능은 향상됐다.\nGN2에서 처음 활용했던 듀얼 픽셀 프로 기술은 한층 진일보 됐다.\n좌·우 양쪽으로 나눠 피사체의 초점을 맞췄던 기존 방식에서 한 단계 나아가 픽셀 일부를 대각선으로 분할해 상·하 위상차 정보까지 활용한다.\n가로 무늬가 많은 피사체나 배경을 찍을 때 자동 초점이 한층 빠르게 이뤄진다.\n특히 FDTI 공법을 적용해 듀얼 픽셀 제품의 한계를 해결했다.\n듀얼 픽셀 제품은 모든 픽셀에 빛을 모으는 포토다이오드를 2개 탑재한다.\n센서의 모든 픽셀이 초점을 맞추는 동시에 색 정보를 받아들여 화질 손상 없이 빠르고 정확한 자동 초점 기능을 구현할 수 있다.\n그러나 듀엘 픽셀 구조를 더욱 미세화할 경우, 전하저장용랭과 자동 초점 면에서 문제가 발생했다.\n삼성전자는 FDTI 공법을 적용해 인접한 픽셀 간 완전히 격리시키면서 듀얼 픽셀 내부에 부분적으로 절연부를 형성해 자동 초점 성능과 화질을 동시에 최적화 시켰다.\n혼색이 최소화되고 전하저장용량을 극대화되면서 신제품은 1.2㎛ 듀얼 픽셀 제품과 동일한 수준의 성능을 구현한다.\n또 밝은 곳에서는 하나의 포토다이오드를 하나의 픽셀처럼 활용하는 컬러 필터 재배치 알고리즘을 통해 1억화소의 고화질 촬영이 가능하다.\n한편, 업계에서는 삼성전자가 이미지센서 초격차 기술을 앞세워 소니와의 격차를 줄이는 한편, 시스템반도체 분야에서 입지를 다질 것으로 보고 있다.\n삼성전자는 2002년 이미지센서 시장에 진입한 뒤, 2015년 옴니비전을 밀어내고 2위에 올라섰다.\n그러나 1위인 소니의 입지는 꽤 견고하다.\n시장조사업체 욜디벨롭먼트에 따르면 지난해 글로벌 이미지센서 시장에서 소니의 점유율은 40%를 기록했고, 삼성전자는 점유율 22%로 2위로 나타났다.\n이 같은 추격전은 다른 시장조사업체들의 보고서에서도 나타난다.\n옴디아는 지난해 이미지센서 시장에서 소니가 49.8%, 삼성전자가 19.6%를 가져간 것으로 집계했다.\n삼성전자는 2030년 시스템반도체 1위를 목표로 하고 있다.\n파운드리(반도체 위탁생산) 외 비메모리 분야에서 본격적으로 승부수를 던져야 할 때다.\n메모리반도체에서 그랬듯 공정 기술력을 발휘할 수 있는 분야를 먼저 공략해야 한다.\n이미지센서나 모바일어플리케이션(AP)가 대표적이다.\n이제 관건은 격차의 속도를 높이는 데 있다.\n최근 2년 간 소니와 삼성전자 간 격차는 30% 안팎까지 좁혀졌다.\n일부 업체는 두 회사의 점유율 차이가 20%대까지 낮아졌다고 본다.\n삼성전자는 올해 이미지센서 시장에서 공격적으로 사업을 전개해 점유율을 늘린다는 방침이다.\n갤럭시S 시리즈 등 모바일 제품에서 호평 받은 이미지센서 기술력을 앞세워 차량용까지 제품군을 확대하고 고객사를 늘리는 데 주력하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 42,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 이미지센서 분야에서 '초격차' 속도를 올리고 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "업계 최초로 2억화소의 모바일 이미지센서와 초소형 이미지센서를 출시한 것이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성전자는 2019년 업계 최초로 1억800만화소 이미지센서를 출시한 지 2년 만에, 듀얼 픽셀 프로 기술을 적용한 지 6개월여 만에 초소형·고화소 이미지센서를 상용화하는 데 성공했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이로써 '사람의 눈'을 닮은 이미지센서 구현에 더욱 다가섰다는 평가다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성전자는 최근 초고화소 이미지센서 수요가 늘면서 이를 겨냥한 신제품을 발빠르게 내놓고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이미지센서를 비롯한 비메모리 분야에서 경쟁력을 강화해 시스템반도체 1위를 달성하겠다는 삼성전자의 의지가 읽히는 대목이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2일 삼성전자는 2억화소의 모바일 이미지센서 아이소셀 HP1와초소형 듀얼 픽셀 이미지센서 아이소셀 GN5를 공개했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성전자 관계자는 이날 데일리임팩트에 \\\"이미지센서는 칩셋으로, 이를 모듈화해 모바일 기기에 넣는 것\\\"이라며 \\\"특히 크기를 줄이고 고감도 촬영이 가능하도록 기존 제품들보다 기술적으로 발전했다\\\"고 설명했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "아이소셀 HP1은 기존 1억800만화소 제품보다 화소 수를 약 85% 높이고 두께를 줄인 제품이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "0.64㎛(마이크로미터, 100만분의 1미터) 픽셀 2억개를 1.22분의 1인치 옵티컬포맷 크기에 올렸다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "옵티컬 포맷이란 이미지센서를 이용해 카메라 모듈을 만들 때 외부 렌즈가 영상을 맺히게 하는 영역으로 사람의 '망막'에 해당한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "옵티컬포멧이 얇을수록 카메라모듈 두께도 줄어들기 때문에 '카툭튀'(카메라 돌출)를 최소화할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이를 위해 삼성전자는 독자 신기술 '카멜레온셀'을 첫 적용했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "촬영 환경에 따라 4개 혹은 16개의 인접 픽셀을 조합해 조도에 관계없이 고화질 화질이 가능하다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "빛이 충분할 때는 0.64㎛ 미세 픽셀을 활용하고, 어두운 환경에서는 1.28㎛ 또는 2.56㎛ 픽셀 등으로 빛을 받아들이는 면적을 자동으로 넓혀 밝고 선명한 사진을 찍을 수 있다. 고화질 동영상을 촬영할 때는 인접 픽셀 4개를 하나처럼 동작시켜, 화각 손실 없이 초당 30프레임으로 8K 초고해상도 영상을 촬영할 수 있다.",
+				"sentenceSize": 181
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "아이소셀 GN5는 1.57 분의 1인치 옵티컬포맷에 1.0㎛ 픽셀 5000만개를 구현한 초소형 듀얼 픽셀 제품이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "지난 2월 GN2에 발표한 GN2(1.12인치 분의 1인치 옵티컬포멧)와 비교해 크기는 줄어들고 성능은 향상됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "GN2에서 처음 활용했던 듀얼 픽셀 프로 기술은 한층 진일보 됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "좌·우 양쪽으로 나눠 피사체의 초점을 맞췄던 기존 방식에서 한 단계 나아가 픽셀 일부를 대각선으로 분할해 상·하 위상차 정보까지 활용한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "가로 무늬가 많은 피사체나 배경을 찍을 때 자동 초점이 한층 빠르게 이뤄진다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "특히 FDTI 공법을 적용해 듀얼 픽셀 제품의 한계를 해결했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "듀얼 픽셀 제품은 모든 픽셀에 빛을 모으는 포토다이오드를 2개 탑재한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "센서의 모든 픽셀이 초점을 맞추는 동시에 색 정보를 받아들여 화질 손상 없이 빠르고 정확한 자동 초점 기능을 구현할 수 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "그러나 듀엘 픽셀 구조를 더욱 미세화할 경우, 전하저장용랭과 자동 초점 면에서 문제가 발생했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "삼성전자는 FDTI 공법을 적용해 인접한 픽셀 간 완전히 격리시키면서 듀얼 픽셀 내부에 부분적으로 절연부를 형성해 자동 초점 성능과 화질을 동시에 최적화 시켰다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "혼색이 최소화되고 전하저장용량을 극대화되면서 신제품은 1.2㎛ 듀얼 픽셀 제품과 동일한 수준의 성능을 구현한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "또 밝은 곳에서는 하나의 포토다이오드를 하나의 픽셀처럼 활용하는 컬러 필터 재배치 알고리즘을 통해 1억화소의 고화질 촬영이 가능하다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "한편, 업계에서는 삼성전자가 이미지센서 초격차 기술을 앞세워 소니와의 격차를 줄이는 한편, 시스템반도체 분야에서 입지를 다질 것으로 보고 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "삼성전자는 2002년 이미지센서 시장에 진입한 뒤, 2015년 옴니비전을 밀어내고 2위에 올라섰다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "그러나 1위인 소니의 입지는 꽤 견고하다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "시장조사업체 욜디벨롭먼트에 따르면 지난해 글로벌 이미지센서 시장에서 소니의 점유율은 40%를 기록했고, 삼성전자는 점유율 22%로 2위로 나타났다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "이 같은 추격전은 다른 시장조사업체들의 보고서에서도 나타난다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "옴디아는 지난해 이미지센서 시장에서 소니가 49.8%, 삼성전자가 19.6%를 가져간 것으로 집계했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "삼성전자는 2030년 시스템반도체 1위를 목표로 하고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "파운드리(반도체 위탁생산) 외 비메모리 분야에서 본격적으로 승부수를 던져야 할 때다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 36,
+				"sentenceContent": "메모리반도체에서 그랬듯 공정 기술력을 발휘할 수 있는 분야를 먼저 공략해야 한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 37,
+				"sentenceContent": "이미지센서나 모바일어플리케이션(AP)가 대표적이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 38,
+				"sentenceContent": "이제 관건은 격차의 속도를 높이는 데 있다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 39,
+				"sentenceContent": "최근 2년 간 소니와 삼성전자 간 격차는 30% 안팎까지 좁혀졌다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 40,
+				"sentenceContent": "일부 업체는 두 회사의 점유율 차이가 20%대까지 낮아졌다고 본다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 41,
+				"sentenceContent": "삼성전자는 올해 이미지센서 시장에서 공격적으로 사업을 전개해 점유율을 늘린다는 방침이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 42,
+				"sentenceContent": "갤럭시S 시리즈 등 모바일 제품에서 호평 받은 이미지센서 기술력을 앞세워 차량용까지 제품군을 확대하고 고객사를 늘리는 데 주력하고 있다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카카오모빌리티, 기아차와 손잡고 친환경 전기차 보급 나선다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 36,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 37,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 38,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 39,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 40,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 41,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 42,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

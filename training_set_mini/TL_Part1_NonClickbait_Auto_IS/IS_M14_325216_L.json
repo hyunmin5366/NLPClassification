@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325216",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "전기차 충전기 '1만대' 계량기 無...충전요금 오차 빈번",
+		"newsSubTitle": "",
+		"newsContent": "#서울에 사는 박 모씨는 최근 배터리 용량이 64㎾h인 전기차로 자신이 사는 아파트단지 내 공용충전기를 이용한다.\n당시 전기차에 남은 충전량은 6㎾h. 그런데 충전량 66㎾h에, 충전요금 약 9300원이 통장에서 빠져나갔다.\n결국 남은 충전량 6㎾h에, 충전량 66㎾h를 더하면 이 차에 72㎾h의 전기가 들어간 셈이다.\n배터리 용량이 64㎾h인데 72㎾h의 전기를 담는다는 건 불가능한 일이다.\n이 씨는 이 충전기엔 계량기가 없다는 사실을 뒤늦게 확인했다.\n30일 업계에 따르면 정부가 2017년부터 민간 충전사업자를 통해 전국에 설치한 약 3만기 공용충전기(완속) 중에 1만기 충전기에 계량기를 내장하지 않았다.\n이들 충전기는 충전사업자인 3곳을 통해 전국에 깔린 제품이다.\n현행법상 전기차 충전기 계량형식승인 제도가 없기 때문에 계량기를 장착하지 않은 건 불법이 아니다.\n하지만 최근 전기차 민간 보급 확대로 충전요금 과금 오류가 네이버 동호회 등 각종 전기차 사용자 커뮤니티에서 적지 않게 언급되고 있다.\n이 같은 오류는 실제 자동차에 표시되는 충전량과 과금데이터에 나오는 수치가 다른 경우다.\n보통 충전 오차범위는 -10%에서 10% 수준까지 나타났다.\n충전량 오류는 충전 중에 배터리시스템 등 보호를 위해 냉각장치가 자동 작동하거나, 충전기와 차량 내 OBC(On Board Charger)까지 전력이 전송·변환되는 과정에서 일부 손실이 나는 경우도 있다.\n하지만 이는 1~2%에 불과하다.\n계량기가 없는 경우, 보통 충전기 제작사는 별도의 자체 계량 알고리즘을 적용하는데 이는 전류·전압 값만 읽어 측정한다.\n보통 계량기의 오차범위가 0.1% 수준이지만, 계량 알고리즘은 공식적으로 편차가 검증된 바 없다.\n이 같은 민원 발생이 늘자, 산업통상자원부 국가기술표준원이 이달 초 '전기차 충전기 법정계량기' 기준 고시를 발표했다.\n법규에 따라 내년 1월부터 신규 충전기는 법정계량기를 써야 한다.\n하지만 문제는 2020년 이전에 전국에 설치된 충전기는 그대로 사용한다는 것이다.\n정부가 충전요금을 50% 이상 할인해 주고 있어, 충전요금을 일일이 체크하는 일이 드물지만, 내년부터 점차적으로 충전요금이 오르기 때문에 향후에는 과금(계량) 오차가 소비자에게 큰 부담이 될 수 있다.\n충전기 업계 한 관계자는 “도입되는 콘센트형 충전기를 포함해 이미 설치된 충전기에 대한 계량 성능 조사와 기술 보완이 시급하다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "#서울에 사는 박 모씨는 최근 배터리 용량이 64㎾h인 전기차로 자신이 사는 아파트단지 내 공용충전기를 이용한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "당시 전기차에 남은 충전량은 6㎾h. 그런데 충전량 66㎾h에, 충전요금 약 9300원이 통장에서 빠져나갔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "결국 남은 충전량 6㎾h에, 충전량 66㎾h를 더하면 이 차에 72㎾h의 전기가 들어간 셈이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "배터리 용량이 64㎾h인데 72㎾h의 전기를 담는다는 건 불가능한 일이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 씨는 이 충전기엔 계량기가 없다는 사실을 뒤늦게 확인했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "30일 업계에 따르면 정부가 2017년부터 민간 충전사업자를 통해 전국에 설치한 약 3만기 공용충전기(완속) 중에 1만기 충전기에 계량기를 내장하지 않았다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이들 충전기는 충전사업자인 3곳을 통해 전국에 깔린 제품이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현행법상 전기차 충전기 계량형식승인 제도가 없기 때문에 계량기를 장착하지 않은 건 불법이 아니다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만 최근 전기차 민간 보급 확대로 충전요금 과금 오류가 네이버 동호회 등 각종 전기차 사용자 커뮤니티에서 적지 않게 언급되고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 같은 오류는 실제 자동차에 표시되는 충전량과 과금데이터에 나오는 수치가 다른 경우다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "보통 충전 오차범위는 -10%에서 10% 수준까지 나타났다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "충전량 오류는 충전 중에 배터리시스템 등 보호를 위해 냉각장치가 자동 작동하거나, 충전기와 차량 내 OBC(On Board Charger)까지 전력이 전송·변환되는 과정에서 일부 손실이 나는 경우도 있다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "하지만 이는 1~2%에 불과하다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "계량기가 없는 경우, 보통 충전기 제작사는 별도의 자체 계량 알고리즘을 적용하는데 이는 전류·전압 값만 읽어 측정한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "보통 계량기의 오차범위가 0.1% 수준이지만, 계량 알고리즘은 공식적으로 편차가 검증된 바 없다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이 같은 민원 발생이 늘자, 산업통상자원부 국가기술표준원이 이달 초 '전기차 충전기 법정계량기' 기준 고시를 발표했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "법규에 따라 내년 1월부터 신규 충전기는 법정계량기를 써야 한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "하지만 문제는 2020년 이전에 전국에 설치된 충전기는 그대로 사용한다는 것이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "정부가 충전요금을 50% 이상 할인해 주고 있어, 충전요금을 일일이 체크하는 일이 드물지만, 내년부터 점차적으로 충전요금이 오르기 때문에 향후에는 과금(계량) 오차가 소비자에게 큰 부담이 될 수 있다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "충전기 업계 한 관계자는 “도입되는 콘센트형 충전기를 포함해 이미 설치된 충전기에 대한 계량 성능 조사와 기술 보완이 시급하다”고 말했다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "전기차 충전기 '1만대' 계량기 無...충전요금 오차 빈번",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008877",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "한은 금리 3.25% 동결",
+		"newsSubTitle": "물가상승 압력 커질 듯",
+		"newsContent": "한국은행이 11일 기준금리를 3.25%로 동결했다.\n금통위는 이날 김중수 한은총재 주재로 정례회의를 갖고 기준금리를 현행대로 연 3.25%로 유지하기로 했다.\n금리 동결은 글로벌 경제위기 재연에 따른 것으로 분석된다.\n이로써 물가인상에 대한 불안감도 커질 전망이다.\n한은은 7개월 연속 소비자물가가 4%대 고공행진을 거듭해 이달께 기준금리 인상을 시사해왔었다.\n하지만 미국 신용등급 강등, 유럽 재정위기 등 더블딥 우려가 확산돼 금리 동결 쪽으로 방향으로 선회한 것으로 풀이된다.\n또 미연준이 앞으로 2년간 제로금리 체제를 유지하겠다고 밝힌 것도 원인으로 관측된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국은행이 11일 기준금리를 3.25%로 동결했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금통위는 이날 김중수 한은총재 주재로 정례회의를 갖고 기준금리를 현행대로 연 3.25%로 유지하기로 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "금리 동결은 글로벌 경제위기 재연에 따른 것으로 분석된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이로써 물가인상에 대한 불안감도 커질 전망이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한은은 7개월 연속 소비자물가가 4%대 고공행진을 거듭해 이달께 기준금리 인상을 시사해왔었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만 미국 신용등급 강등, 유럽 재정위기 등 더블딥 우려가 확산돼 금리 동결 쪽으로 방향으로 선회한 것으로 풀이된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 미연준이 앞으로 2년간 제로금리 체제를 유지하겠다고 밝힌 것도 원인으로 관측된다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "기초과학연 '대덕' 무시",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

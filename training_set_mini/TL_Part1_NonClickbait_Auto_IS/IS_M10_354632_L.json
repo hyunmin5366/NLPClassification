@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354632",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "SK C&C, 탱크로리에 원유 자동으로 실어주는 시스템 만든다",
+		"newsSubTitle": "null",
+		"newsContent": "SK(주) C&C는 16일 대한송유관공사 전국 11개 저유소(원유, 석유제품 등 저장소)에 자동출하시스템을 구축한다고 밝혔다.\n자동출하시스템은 정유 탱크로리 가 저유소에 도착해 원유를 싣고 떠날 때까지의 모든 과정을 자동화한다.\n이 시스템에는 ERP(전사적 자원관리)와 현장 컨트롤 기능, 보안 관리 기능 등이 포함됐다.\n탱크로리 차량이 저유소에 들어서면 이 시스템은 차량과 운전자의 주문정보를 RFID(전자태그)로 자동 인식한다.\n원유누수나 설비 장애 등 긴급상황을 제어하는 기능도 갖췄다.\n또, 밸브나 펌프와 같은 설비 문제가 발생해 출하대(탱크로리에 원유를 넣는 곳)를 변경해도 남은 출하량을 정확히 인식해 주유한다.\nSK C&C는 현재 마산, 광주, 전주 저유소에서 시스템 구축 작업을 진행하고 있다.\n2020년 고양, 판교, 대전, 천안 저유소를 시작으로 지난해엔 동해, 원주, 대구, 경산 저유소에 설치했다.\n모든 작업이 완료되면 전국 11개 저유소에서 SK C&C 시스템이 운영된다.\n대한송유관공사는 이 시스템 덕분에 설비 유지보수 비용과 시간을 대폭 줄이고 있다.\n김광수 SK C&C 에너지디지털 그룹장은 \\\"출하시간과 과정을 줄이고 효율은 높이는 핵심 시스템으로 자리매김할 수 있도록 적극 지원하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK(주) C&C는 16일 대한송유관공사 전국 11개 저유소(원유, 석유제품 등 저장소)에 자동출하시스템을 구축한다고 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자동출하시스템은 정유 탱크로리 가 저유소에 도착해 원유를 싣고 떠날 때까지의 모든 과정을 자동화한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 시스템에는 ERP(전사적 자원관리)와 현장 컨트롤 기능, 보안 관리 기능 등이 포함됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "탱크로리 차량이 저유소에 들어서면 이 시스템은 차량과 운전자의 주문정보를 RFID(전자태그)로 자동 인식한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "원유누수나 설비 장애 등 긴급상황을 제어하는 기능도 갖췄다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또, 밸브나 펌프와 같은 설비 문제가 발생해 출하대(탱크로리에 원유를 넣는 곳)를 변경해도 남은 출하량을 정확히 인식해 주유한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SK C&C는 현재 마산, 광주, 전주 저유소에서 시스템 구축 작업을 진행하고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "2020년 고양, 판교, 대전, 천안 저유소를 시작으로 지난해엔 동해, 원주, 대구, 경산 저유소에 설치했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "모든 작업이 완료되면 전국 11개 저유소에서 SK C&C 시스템이 운영된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "대한송유관공사는 이 시스템 덕분에 설비 유지보수 비용과 시간을 대폭 줄이고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "김광수 SK C&C 에너지디지털 그룹장은 \\\"출하시간과 과정을 줄이고 효율은 높이는 핵심 시스템으로 자리매김할 수 있도록 적극 지원하겠다\\\"고 말했다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK C&C, 탱크로리에 원유 자동으로 실어주는 시스템 만든다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

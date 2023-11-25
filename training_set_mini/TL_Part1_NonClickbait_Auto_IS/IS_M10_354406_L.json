@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354406",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "진짜 같은 유튜브 출연 요청, '미끼'였다…대북 전문가 노린 北해커들",
+		"newsSubTitle": "null",
+		"newsContent": "북한 해커 조직이 정부 산하 공공채널 유튜브 방송 섭외를 사칭해 악성 문서를 유포중인 것으로 확인됐다.\n보안기업 이스트시큐리티는 \\\"문화체육관광부 산하 한국정책방송원(KTV)의 유튜브 방송 출연 섭외로 위장한 한글(HWP) 악성 문서가 전파되고 있어 각별한 주의가 요구된다\\\"고 23일 밝혔다.\n악성 문서에는 KTV의 온라인 정책시사저널 프로그램 출연 문의를 요청하는 내용이 담겨 있었다.\n프로그램 진행자 소개와 함께 오는 24일 '윤석열 정부 남북정책 북한 코로나 지원, 남북대화 방향은?'이란 주제로 방송 출연 가능 여부를 문의하는 내용이었다.\n실제 존재하는 유튜브 방송을 사칭해 대북 분야 전문가들을 공격 대상으로 삼은 것이다.\n이스트시큐리티 시큐리티대응센터(ESRC) 분석에 따르면 해커들은 문서 내부에 악성 개체 연결(OLE) 파일을 삽입, '상위 버전에서 작성한 문서입니다' 가짜 메시지 창을 띄워 클릭을 유도했다.\n해커들은 OLE 내부에 배치(Bat) 파일과 파워셸(Powershell) 명령어를 통해 특정 서버 'work3.b4a[.]app'로 통신을 시도한 것으로 확인됐다.\nESRC는 \\\"이 C2 서버 주소는 북한 연계 해킹 사건에서 연이어 발견되고 있어 신속한 차단이 필요한 곳\\\"이라며 \\\"최근 HWP OLE 기반 지능형지속위협(APT) 공격이 증가하고 있지만 보안 취약점(Exploit)을 이용한 수법이 아니기 때문에 최신 버전 한컴오피스 이용자들도 관련 위협에 노출될 수 있다\\\"고 경고했다.\n이번 조직의 공격 형태는 북한 정부가 지원하는 것으로 추정되는 해커조직 '금성121'의 수법과 유사한 것으로 파악됐다.\nESRC에 따르면 러시아 IT(정보기술) 기업 얀덱스(Yandex) 이메일을 사용하거나 해킹으로 탈취한 개인정보 보관용으로 해외 클라우드 서비스를 악용하는 수법 등이 공통점으로 발견됐다.\n문종현 ESRC 센터장(이사)는 \\\"새 정부 출범 이후에도 북한 소행으로 보이는 사이버 안보위협은 멈출 기미가 보이지 않으며 해킹 대상자를 현혹하는 보다 세련된 방식의 접근 수법도 진화하고 있다\\\"며 \\\"특히 민간분야를 대상으로 한 북한 연계 사이버 위협이 날이 갈수록 고조돼 민관합동 공조 강화가 무엇보다 중요하다\\\"고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "북한 해커 조직이 정부 산하 공공채널 유튜브 방송 섭외를 사칭해 악성 문서를 유포중인 것으로 확인됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "보안기업 이스트시큐리티는 \\\"문화체육관광부 산하 한국정책방송원(KTV)의 유튜브 방송 출연 섭외로 위장한 한글(HWP) 악성 문서가 전파되고 있어 각별한 주의가 요구된다\\\"고 23일 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "악성 문서에는 KTV의 온라인 정책시사저널 프로그램 출연 문의를 요청하는 내용이 담겨 있었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "프로그램 진행자 소개와 함께 오는 24일 '윤석열 정부 남북정책 북한 코로나 지원, 남북대화 방향은?'이란 주제로 방송 출연 가능 여부를 문의하는 내용이었다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "실제 존재하는 유튜브 방송을 사칭해 대북 분야 전문가들을 공격 대상으로 삼은 것이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이스트시큐리티 시큐리티대응센터(ESRC) 분석에 따르면 해커들은 문서 내부에 악성 개체 연결(OLE) 파일을 삽입, '상위 버전에서 작성한 문서입니다' 가짜 메시지 창을 띄워 클릭을 유도했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해커들은 OLE 내부에 배치(Bat) 파일과 파워셸(Powershell) 명령어를 통해 특정 서버 'work3.b4a[.]app'로 통신을 시도한 것으로 확인됐다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "ESRC는 \\\"이 C2 서버 주소는 북한 연계 해킹 사건에서 연이어 발견되고 있어 신속한 차단이 필요한 곳\\\"이라며 \\\"최근 HWP OLE 기반 지능형지속위협(APT) 공격이 증가하고 있지만 보안 취약점(Exploit)을 이용한 수법이 아니기 때문에 최신 버전 한컴오피스 이용자들도 관련 위협에 노출될 수 있다\\\"고 경고했다.",
+				"sentenceSize": 182
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이번 조직의 공격 형태는 북한 정부가 지원하는 것으로 추정되는 해커조직 '금성121'의 수법과 유사한 것으로 파악됐다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "ESRC에 따르면 러시아 IT(정보기술) 기업 얀덱스(Yandex) 이메일을 사용하거나 해킹으로 탈취한 개인정보 보관용으로 해외 클라우드 서비스를 악용하는 수법 등이 공통점으로 발견됐다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "문종현 ESRC 센터장(이사)는 \\\"새 정부 출범 이후에도 북한 소행으로 보이는 사이버 안보위협은 멈출 기미가 보이지 않으며 해킹 대상자를 현혹하는 보다 세련된 방식의 접근 수법도 진화하고 있다\\\"며 \\\"특히 민간분야를 대상으로 한 북한 연계 사이버 위협이 날이 갈수록 고조돼 민관합동 공조 강화가 무엇보다 중요하다\\\"고 강조했다.",
+				"sentenceSize": 185
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "진짜 같은 유튜브 출연 요청, '미끼'였다…대북 전문가 노린 北해커들",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

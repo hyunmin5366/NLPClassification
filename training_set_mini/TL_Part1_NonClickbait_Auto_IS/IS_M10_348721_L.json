@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348721",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "코로나 환자의 '생과 사'…AI는 알고 있다?",
+		"newsSubTitle": "null",
+		"newsContent": "고혈압 증상이 있는 고령의 남성일수록 코로나19 감염으로 인한 사망 가능성이 높은 것으로 나타났다.\n이는 인공지능(AI) 프로그램을 이용해 환자의 기저질환과 코로나19 환자 사망율간 상관관계를 분석한 결과다.\n매즈 닐슨 덴마크 코펜하겐대 컴퓨터공학과 교수가 이끄는 연구팀은 최근 과학저널 '사이언티픽 리포트'에 인공지능을 활용해 코로나19 감염으로 인한 환자의 사망 여부를 예측한 연구 결과를 발표했다.\n연구팀은 덴마크 내 코로나19 감염 환자 3944명의 건강 정보를 활용해 이들의 기저질환과 코로나19 감염 이후 건강상태의 상관관계를 분석했다.\n분석에 따르면 환자의 체질량지수(BMI), 성별, 고혈압 증상 유무 등이 코로나19 감염으로 인한 사망률과 높은 관련성을 보였다.\n고령이면서 고혈압, 신경계 질환이 있는 남성일수록 사망 위험이 높은 것으로 나타났다.\n연구팀은 이런 결과를 토대로 아직 코로나19에 감염되지 않은 사람에 대해서는 90% 수준의 정확도로, 코로나19에 감염된 사람에 대해서는 80% 수준의 정확도로 사망 여부를 예측할 수 있었다.\n닐슨 교수는 \\\"연구는 코로나19 확산 초기 중환자용 호흡기 부족 가능성을 예측하기 위해 시작됐다\\\"며 \\\"이번 연구 결과는 어떤 사람에게 호흡기 장비가 더 필요하고, 백신은 누가 먼저 맞아야 하는지 판단하는 데 도움이 될 것\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고혈압 증상이 있는 고령의 남성일수록 코로나19 감염으로 인한 사망 가능성이 높은 것으로 나타났다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 인공지능(AI) 프로그램을 이용해 환자의 기저질환과 코로나19 환자 사망율간 상관관계를 분석한 결과다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매즈 닐슨 덴마크 코펜하겐대 컴퓨터공학과 교수가 이끄는 연구팀은 최근 과학저널 '사이언티픽 리포트'에 인공지능을 활용해 코로나19 감염으로 인한 환자의 사망 여부를 예측한 연구 결과를 발표했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연구팀은 덴마크 내 코로나19 감염 환자 3944명의 건강 정보를 활용해 이들의 기저질환과 코로나19 감염 이후 건강상태의 상관관계를 분석했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "분석에 따르면 환자의 체질량지수(BMI), 성별, 고혈압 증상 유무 등이 코로나19 감염으로 인한 사망률과 높은 관련성을 보였다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "고령이면서 고혈압, 신경계 질환이 있는 남성일수록 사망 위험이 높은 것으로 나타났다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구팀은 이런 결과를 토대로 아직 코로나19에 감염되지 않은 사람에 대해서는 90% 수준의 정확도로, 코로나19에 감염된 사람에 대해서는 80% 수준의 정확도로 사망 여부를 예측할 수 있었다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "닐슨 교수는 \\\"연구는 코로나19 확산 초기 중환자용 호흡기 부족 가능성을 예측하기 위해 시작됐다\\\"며 \\\"이번 연구 결과는 어떤 사람에게 호흡기 장비가 더 필요하고, 백신은 누가 먼저 맞아야 하는지 판단하는 데 도움이 될 것\\\"이라고 밝혔다.",
+				"sentenceSize": 136
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코로나 환자의 '생과 사'…AI는 알고 있다?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

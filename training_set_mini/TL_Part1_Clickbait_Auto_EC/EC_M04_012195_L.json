@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012195",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "인구유입 세종·충남 증가, 대전 감소",
+		"newsSubTitle": "통계청 인구이동 조사",
+		"newsContent": "세종시와 충남이 인구 유입이 꾸준히 계속되고 있는 가운데, 대전시는 두달만에 다시 인구 감소현상을 보였다.\n통계청의 '9월 국내인구이동'에 따르면 지난달 대전은 173명의 순유출을 기록한 가운데 세종은 283명, 충남은 1257명의 순유입을 기록했다.\n대전은 지난 7월 200명의 순유출을 기록한 뒤 8월 인구 정체(0명)를 기록한 뒤 두달만에 또다시 순유출을 보였다.\n반면 세종은 지난 7월 이후 꾸준히 인구 유입이 계속된 가운데 전월 500명 유입에서 9월에는 283명 유입으로 유입폭이 다소 둔화됐다.\n충남 지난 2011년 이후 꾸준히 인구 유입이 계속됐다.\n특히 충남은 지난 7월 전월보다 400명이 감소한 900명의 인구 유입을 기록한 후 8월 1000명, 9월 1257명으로 꾸준히 인구 유입폭을 키우고 있다.\n전국적으로는 경기(3987명), 인천(1523명) 등 9개 시도가 순유입을, 서울(-6519명), 부산(-912명), 울산(-426명) 등 8개 시도는 순 유출을 기록했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세종시와 충남이 인구 유입이 꾸준히 계속되고 있는 가운데, 대전시는 두달만에 다시 인구 감소현상을 보였다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "통계청의 '9월 국내인구이동'에 따르면 지난달 대전은 173명의 순유출을 기록한 가운데 세종은 283명, 충남은 1257명의 순유입을 기록했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대전은 지난 7월 200명의 순유출을 기록한 뒤 8월 인구 정체(0명)를 기록한 뒤 두달만에 또다시 순유출을 보였다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면 세종은 지난 7월 이후 꾸준히 인구 유입이 계속된 가운데 전월 500명 유입에서 9월에는 283명 유입으로 유입폭이 다소 둔화됐다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "충남 지난 2011년 이후 꾸준히 인구 유입이 계속됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특히 충남은 지난 7월 전월보다 400명이 감소한 900명의 인구 유입을 기록한 후 8월 1000명, 9월 1257명으로 꾸준히 인구 유입폭을 키우고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전국적으로는 경기(3987명), 인천(1523명) 등 9개 시도가 순유입을, 서울(-6519명), 부산(-912명), 울산(-426명) 등 8개 시도는 순 유출을 기록했다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정부출연연 연구비 규제 완화",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

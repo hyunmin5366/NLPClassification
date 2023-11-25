@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352960",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "페이스북, 올해 세계서 가장 빠른 'AI 슈퍼컴' 만든다…왜?",
+		"newsSubTitle": "null",
+		"newsContent": "페이스북이 메타버스를 위해 연내 세계에서 가장 빠른 슈퍼컴퓨터를 구축한다. 24일(현지시간) 마크 저커버그 메타 CEO는 자신의 페이스북에 \\\"메타는 세계에서 가장 빠른 AI 슈퍼컴퓨터를 개발했다\\\"며 \\\"우리는 이것을 AI 리서치 슈퍼클러스터(AI Research SuperCluster·RSC)로 부른다\\\"고 말했다.\n메타는 메타버스 기술 구축을 위해 RSC를 개발했다.\n마크 저커버그는 \\\"메타버스를 구축하려면 엄청난 연산능력(compute power)이 필요하고 RSC는 수조개의 예제에서 배우고 수백개의 언어를 이해하는 새로운 AI모델을 가능하게 할 것\\\"이라고 설명했다.\nRSC는 메타의 AI 연구원들이 고성능의 AI 모델을 만들고 수백개의 언어로 작업하며 텍스트·이미지·비디오를 원활히 분석하고 새로운 AR(증강현실) 도구를 개발할 수 있도록 도울 예정이다.\n궁극적으로는 메타버스를 위한 기반이 될 것으로 전망된다.\n메타는 \\\"RSC를 이용하면 멀티모달 신호를 이용해 동작·소리·이미지가 유해한지 판단하는 모델을 신속하게 교육시킬 수 있다\\\"며 \\\"이 연구는 현재 우리 서비스에 대한 사람들의 안전을 지켜줄 뿐 아니라, 메타버스를 구축하는데 도움이 될 것\\\"이라고 말했다.\n메타는 이미 1년 반 전 RSC 초기모델을 완성했다.\n이는 760개의 엔비디아 DGX A100 시스템으로 구성돼 총 6080개 GPU를 보유했다.\n올해는 1만6000개 이상의 GPU를 포함한 2단계 개발이 목표다.\n2단계의 AI 훈련 성능은 2.5배 이상 증가하며, 스토리지 시스템은 16TB/s 목표의 전송 대역폭과 엑사바이트 규모의 용량을 갖게 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "페이스북이 메타버스를 위해 연내 세계에서 가장 빠른 슈퍼컴퓨터를 구축한다. 24일(현지시간) 마크 저커버그 메타 CEO는 자신의 페이스북에 \\\"메타는 세계에서 가장 빠른 AI 슈퍼컴퓨터를 개발했다\\\"며 \\\"우리는 이것을 AI 리서치 슈퍼클러스터(AI Research SuperCluster·RSC)로 부른다\\\"고 말했다.",
+				"sentenceSize": 179
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "메타는 메타버스 기술 구축을 위해 RSC를 개발했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "마크 저커버그는 \\\"메타버스를 구축하려면 엄청난 연산능력(compute power)이 필요하고 RSC는 수조개의 예제에서 배우고 수백개의 언어를 이해하는 새로운 AI모델을 가능하게 할 것\\\"이라고 설명했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "RSC는 메타의 AI 연구원들이 고성능의 AI 모델을 만들고 수백개의 언어로 작업하며 텍스트·이미지·비디오를 원활히 분석하고 새로운 AR(증강현실) 도구를 개발할 수 있도록 도울 예정이다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "궁극적으로는 메타버스를 위한 기반이 될 것으로 전망된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "메타는 \\\"RSC를 이용하면 멀티모달 신호를 이용해 동작·소리·이미지가 유해한지 판단하는 모델을 신속하게 교육시킬 수 있다\\\"며 \\\"이 연구는 현재 우리 서비스에 대한 사람들의 안전을 지켜줄 뿐 아니라, 메타버스를 구축하는데 도움이 될 것\\\"이라고 말했다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "메타는 이미 1년 반 전 RSC 초기모델을 완성했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이는 760개의 엔비디아 DGX A100 시스템으로 구성돼 총 6080개 GPU를 보유했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "올해는 1만6000개 이상의 GPU를 포함한 2단계 개발이 목표다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "2단계의 AI 훈련 성능은 2.5배 이상 증가하며, 스토리지 시스템은 16TB/s 목표의 전송 대역폭과 엑사바이트 규모의 용량을 갖게 된다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "페이스북, 올해 세계서 가장 빠른 'AI 슈퍼컴' 만든다…왜?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

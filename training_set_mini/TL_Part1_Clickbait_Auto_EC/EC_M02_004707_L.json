@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004707",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "기아차 니로, 첫날부터 인기몰이...계약대수 1만6300대",
+		"newsSubTitle": "쏘렌토에 이어 기아 SUV 역대 두 번째 수치 뛰어난 연비, 다양한 친환경 소재·기술 등 인기",
+		"newsContent": "최근 새롭게 출시된 기아자동차 친환경 전용 SUV 니로가 출시 전부터 인기를 끌고 있다.\n기아차는 19일 니로 출시 첫날 계약대수 1만6300대를 기록했다고 밝혔다.\n이는 기아 SUV에서 쏘렌토에 이어 역대 두 번째 기록이다.\n니로는 2016년 출시부터 지난해까지 전 세계에서 총 67만5798대가 판매됐다.\n기아차 관계자는 데일리임팩트에 \\\"기업 비전인 지속가능한 모빌리티 솔루션 프로바이더(Sustainable Mobility Solutions Provider)로서 저력을 보여줬다\\\"라며 \\\"신형 니로가 친환경 SUV 시장을 선도해 나가는 모델임을 입증했다\\\"라고 강조했다.\n기아차는 니로의 인기 비결을 국내 SUV 중 최고 복합연료소비효율과 다양한 친환경 소재와 기술, 실용적인 공간 활용성 등으로 꼽았다.\n신형 니로는 스마트스트림 G1.6 하이브리드 엔진과 32kW 모터를 탑재해 시스템 최고 출력 141마력을 발휘한다.\n국내 SUV 중 최고 복합연비인 20.8km/ℓ를 구현했으며 현재 판매되고 있는 가솔린 SUV 중 20km/ℓ대 연비는 신형 니로가 유일하다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 새롭게 출시된 기아자동차 친환경 전용 SUV 니로가 출시 전부터 인기를 끌고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기아차는 19일 니로 출시 첫날 계약대수 1만6300대를 기록했다고 밝혔다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 기아 SUV에서 쏘렌토에 이어 역대 두 번째 기록이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "니로는 2016년 출시부터 지난해까지 전 세계에서 총 67만5798대가 판매됐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기아차 관계자는 데일리임팩트에 \\\"기업 비전인 지속가능한 모빌리티 솔루션 프로바이더(Sustainable Mobility Solutions Provider)로서 저력을 보여줬다\\\"라며 \\\"신형 니로가 친환경 SUV 시장을 선도해 나가는 모델임을 입증했다\\\"라고 강조했다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기아차는 니로의 인기 비결을 국내 SUV 중 최고 복합연료소비효율과 다양한 친환경 소재와 기술, 실용적인 공간 활용성 등으로 꼽았다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신형 니로는 스마트스트림 G1.6 하이브리드 엔진과 32kW 모터를 탑재해 시스템 최고 출력 141마력을 발휘한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국내 SUV 중 최고 복합연비인 20.8km/ℓ를 구현했으며 현재 판매되고 있는 가솔린 SUV 중 20km/ℓ대 연비는 신형 니로가 유일하다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "위메프, 유튜브 콘텐츠 제공…\\\"상품 리뷰 영상 바로 본다\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

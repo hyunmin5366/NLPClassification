@@ -1,0 +1,294 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328407",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "부천시 \\\"한밤 중 주차 민원, 챗봇에 물어봐\\\"",
+		"newsSubTitle": "",
+		"newsContent": "부천시 주차 민원 서비스가 챗봇 기반으로 편리해진다.\n토털 IT 전문기업 윤커뮤니케이션즈(대표 윤여주)가 부천도시공사와 손잡고 주차 민원 처리 챗봇 솔루션 '베스트봇'(가칭) 개발을 시작했다.\n오는 9월 첫선을 보일 계획이다.\n두 기관은 윤커뮤니케이션즈가 개발한 '윤컴즈 챗봇'을 부천시 환경에 맞게 커스터마이징 하는 방식으로 베스트봇을 만든다.\n윤컴즈 챗봇은 사용 편리성과 안정성을 검증받았다.\n행정 서비스 통합 포털 정부24 내 '민원상담 안내톡'으로 쓰이고 있다.\n상담 시나리오 구성에 최적화된 알고리즘을 갖췄다.\n민원인 질문을 예측해 맞춤형 답을 낸다.\n질문 빈도와 연관성을 분석, 시나리오를 짜는 방식이다.\n하나를 물어보면 추가 예상 질문과 답을 동시에 제공한다.\n데이터가 쌓일수록 답변 정확도가 올라간다.\n베스트봇은 부천도시공사가 운영하는 주차 관련 민원 홈페이지에서 쓸 수 있다.\n공영주차장 위치와 요금을 소개한다.\n거주자 우선주차 신청 문의도 받는다.\n차량이 견인됐을 때는 보관소 위치와 인수 방법을 알려준다. 365일, 24시간 가동한다.\n부천도시공사는 챗봇 적용 범위를 넓힐 방침이다.\n주차에 이어 교통, 체육, 생활문화시설 분야 민원 처리도 챗봇에 맡긴다.\n공사 업무 전 영역을 대상으로 확대한다.\n콜센터와 같은 기존 민원 처리 담당 부서와 협업, 업무 효율이 높아질 것으로 기대한다.\n단순 반복, 업무 외 시간대 질문은 챗봇이 응대한다.\n부천도시공사는 지방 공기업 중 최초로 챗봇을 도입했다.\n스마트시티 구현에 나선 부천시 정책에 부응하기 위해서다.\n앞서 최근에는 스마트 주차 서비스 개발에 나섰다.\n공영·민간 주차장 정보를 실시간 수집, 빅데이터로 관리할 계획이다.\n윤커뮤니케이션즈는 정보기술(IT) 서비스 기업으로 발돋움한다.\n챗봇 외에도 올해 중 새 솔루션 16종을 대거 출시한다.\n야심작은 '홍익인간 CMS'다.\n분산된 콘텐츠 운영환경을 한곳에 모아 보여주는 통합 콘텐츠 관리 시스템이다.\n경기도, 인천시, 부산시 홈페이지에 적용됐다.\n윤여주 윤커뮤니케이션즈 대표는 “챗봇을 통해 업무 시간 외에도 다양한 민원 상담이 가능해졌다”며 “온라인 서비스와 연계, 시너지를 창출하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 30,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "부천시 주차 민원 서비스가 챗봇 기반으로 편리해진다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "토털 IT 전문기업 윤커뮤니케이션즈(대표 윤여주)가 부천도시공사와 손잡고 주차 민원 처리 챗봇 솔루션 '베스트봇'(가칭) 개발을 시작했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "오는 9월 첫선을 보일 계획이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "두 기관은 윤커뮤니케이션즈가 개발한 '윤컴즈 챗봇'을 부천시 환경에 맞게 커스터마이징 하는 방식으로 베스트봇을 만든다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "윤컴즈 챗봇은 사용 편리성과 안정성을 검증받았다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "행정 서비스 통합 포털 정부24 내 '민원상담 안내톡'으로 쓰이고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "상담 시나리오 구성에 최적화된 알고리즘을 갖췄다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "민원인 질문을 예측해 맞춤형 답을 낸다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "질문 빈도와 연관성을 분석, 시나리오를 짜는 방식이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하나를 물어보면 추가 예상 질문과 답을 동시에 제공한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "데이터가 쌓일수록 답변 정확도가 올라간다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "베스트봇은 부천도시공사가 운영하는 주차 관련 민원 홈페이지에서 쓸 수 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "공영주차장 위치와 요금을 소개한다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "거주자 우선주차 신청 문의도 받는다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "차량이 견인됐을 때는 보관소 위치와 인수 방법을 알려준다. 365일, 24시간 가동한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "부천도시공사는 챗봇 적용 범위를 넓힐 방침이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "주차에 이어 교통, 체육, 생활문화시설 분야 민원 처리도 챗봇에 맡긴다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "공사 업무 전 영역을 대상으로 확대한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "콜센터와 같은 기존 민원 처리 담당 부서와 협업, 업무 효율이 높아질 것으로 기대한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "단순 반복, 업무 외 시간대 질문은 챗봇이 응대한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "부천도시공사는 지방 공기업 중 최초로 챗봇을 도입했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "스마트시티 구현에 나선 부천시 정책에 부응하기 위해서다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "앞서 최근에는 스마트 주차 서비스 개발에 나섰다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "공영·민간 주차장 정보를 실시간 수집, 빅데이터로 관리할 계획이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "윤커뮤니케이션즈는 정보기술(IT) 서비스 기업으로 발돋움한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "챗봇 외에도 올해 중 새 솔루션 16종을 대거 출시한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "야심작은 '홍익인간 CMS'다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "분산된 콘텐츠 운영환경을 한곳에 모아 보여주는 통합 콘텐츠 관리 시스템이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "경기도, 인천시, 부산시 홈페이지에 적용됐다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "윤여주 윤커뮤니케이션즈 대표는 “챗봇을 통해 업무 시간 외에도 다양한 민원 상담이 가능해졌다”며 “온라인 서비스와 연계, 시너지를 창출하겠다”고 말했다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "부천시 \\\"한밤 중 주차 민원, 챗봇에 물어봐\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

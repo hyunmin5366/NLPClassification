@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351278",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"재택근무 환경 노린 해킹 막는다\\\" KISA, 아태지역 해킹 모의훈련 실시",
+		"newsSubTitle": "null",
+		"newsContent": "한국인터넷진흥원(KISA)는 아·태침해사고대응팀협의회(APCERT)와 공동으로 해킹 모의훈련을 진행했다고 25일 밝혔다.\n코로나19(COVID-19)로 재택근무가 확산하면서 공급망 공격이 늘어남에 따라 이에 대응하기 위해서다.\nAPCERT는 2003년 창립한 아시아 태평양 지역 내 국가 대표 침해사고대응팀(CERT) 협의체다. KISA는 운영위원과 모의훈련 워킹그룹 회원으로 참여하고 있다.\nAPCERT는 2005년 첫 훈련을 시작으로 매년 주요 사이버보안 이슈를 선정해 사이버보안 사고에 대비한 모의훈련을 실시하고 있다.\n올해 훈련은 KISA가 주관했으며, 호주와 일본, 뉴질랜드, 태국, 중국, 싱가포르, 대만 등 총 24개국 30개팀이 참가했다.\nKISA는 시나리오 개발과 악성코드 제작 등을 맡았다.\n훈련은 재택근무자에게 온라인 회의에 참여하라는 내용의 사칭메일을 배포한 뒤, 악성코드가 공급망까지 침투한 상황을 가정해 대응하는 방식으로 진행됐다.\n이원태 KISA 원장은 \\\"글로벌 유관기관과 협력관계를 유지하고 즉각적인 사이버 대응 공조체계를 구축하기 위해 최선을 다하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국인터넷진흥원(KISA)는 아·태침해사고대응팀협의회(APCERT)와 공동으로 해킹 모의훈련을 진행했다고 25일 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코로나19(COVID-19)로 재택근무가 확산하면서 공급망 공격이 늘어남에 따라 이에 대응하기 위해서다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "APCERT는 2003년 창립한 아시아 태평양 지역 내 국가 대표 침해사고대응팀(CERT) 협의체다. KISA는 운영위원과 모의훈련 워킹그룹 회원으로 참여하고 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "APCERT는 2005년 첫 훈련을 시작으로 매년 주요 사이버보안 이슈를 선정해 사이버보안 사고에 대비한 모의훈련을 실시하고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올해 훈련은 KISA가 주관했으며, 호주와 일본, 뉴질랜드, 태국, 중국, 싱가포르, 대만 등 총 24개국 30개팀이 참가했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KISA는 시나리오 개발과 악성코드 제작 등을 맡았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "훈련은 재택근무자에게 온라인 회의에 참여하라는 내용의 사칭메일을 배포한 뒤, 악성코드가 공급망까지 침투한 상황을 가정해 대응하는 방식으로 진행됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이원태 KISA 원장은 \\\"글로벌 유관기관과 협력관계를 유지하고 즉각적인 사이버 대응 공조체계를 구축하기 위해 최선을 다하겠다\\\"고 말했다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"재택근무 환경 노린 해킹 막는다\\\" KISA, 아태지역 해킹 모의훈련 실시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

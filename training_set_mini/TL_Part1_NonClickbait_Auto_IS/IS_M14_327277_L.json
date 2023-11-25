@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327277",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "대만 큐샌, NAS 신모델 2종 한국 출시",
+		"newsSubTitle": "",
+		"newsContent": "위드앤아이티(대표 강명일)가 대만 스토리지 전문업체 큐샌(QSAN)의 엑스큐브나스(XCubeNAS) XN5000시리즈 신모델 2종(모델명 XN5008T· XN5012R)을 출시했다.\n새 모델은 확장 가능한 렉마운트형과 타워형 형태로 비즈니스 성장 속도에 맞춰 데이터 용량 확장이 가능한 옵션과 빠른 데이터 처리 속도를 제공한다.\n엑스큐브나스 XN5000시리즈는 인텔 셀러론 2.9 듀얼 코어 프로세서를 장착했다.\nXN5008T는 8GB DDR4 메모리를 갖췄으며 32GB까지 확장 가능하다.\nXN5012R은 64GB까지 확장 가능하다.\nXN5000시리즈는 큐샌의 자사 운용체계 QSM3.0으로 운영된다.\nQSM은 파일 공유, 데이터 백업, 보안을 완전 새로운 차원에서 경험할 수 있게 해준다고 큐샌은 밝혔다.\nQSM3.0은 리눅스 기반 ZFS인 ZOL로 운영된다 ZOL은 엔터프라이즈급 파일 전송 시스템으로 실제 스토리지 공간을 관리하기 위해 스토리지 풀이라는 개념을 사용한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "위드앤아이티(대표 강명일)가 대만 스토리지 전문업체 큐샌(QSAN)의 엑스큐브나스(XCubeNAS) XN5000시리즈 신모델 2종(모델명 XN5008T· XN5012R)을 출시했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "새 모델은 확장 가능한 렉마운트형과 타워형 형태로 비즈니스 성장 속도에 맞춰 데이터 용량 확장이 가능한 옵션과 빠른 데이터 처리 속도를 제공한다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "엑스큐브나스 XN5000시리즈는 인텔 셀러론 2.9 듀얼 코어 프로세서를 장착했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "XN5008T는 8GB DDR4 메모리를 갖췄으며 32GB까지 확장 가능하다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "XN5012R은 64GB까지 확장 가능하다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "XN5000시리즈는 큐샌의 자사 운용체계 QSM3.0으로 운영된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "QSM은 파일 공유, 데이터 백업, 보안을 완전 새로운 차원에서 경험할 수 있게 해준다고 큐샌은 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "QSM3.0은 리눅스 기반 ZFS인 ZOL로 운영된다 ZOL은 엔터프라이즈급 파일 전송 시스템으로 실제 스토리지 공간을 관리하기 위해 스토리지 풀이라는 개념을 사용한다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대만 큐샌, NAS 신모델 2종 한국 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

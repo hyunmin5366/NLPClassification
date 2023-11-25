@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331216",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "스마트폰까지 파고든 '암호화폐 채굴 악성코드'",
+		"newsSubTitle": "",
+		"newsContent": "최근 비트코인을 시작으로 주요 암호화폐 시세가 급등락 하면서 암호화폐 채굴을 노리는 악성코드가 기승을 부린다.\n사용자 몰래 PC 리소스를 이용해 암호화폐를 채굴하는 크립토재킹 악성코드가 PC뿐 아니라 안드로이드 스마트폰까지 노린다.\n사용자 애플리케이션(앱) 설치에 주의가 요구된다.\n안랩에 따르면 최근 모바일 기기 사용자를 노린 암호화폐 채굴 공격, 암호화폐 지갑 위장 페이크월렛, 지갑 관련 정보를 가로채는 클리포 등 암호화폐 대상 범죄가 늘어난다.\n정보기술(IT) 기기 리소스를 이용해 암호화폐를 채굴하는 크립토재킹 공격은 이전까지 대부분 PC에 한정됐다.\n최근 안랩은 안드로이드 게임 앱을 위장한 악성 채굴앱을 확인했다.\n크립토재킹 악성코드가 암호화폐를 채굴하면 스마트폰 중앙처리장치(CPU) 사용량이 급증해 성능이 저하된다.\n사용자는 스마트폰 성능 저하가 게임 앱 실행 때문이라고 생각하기 쉽다.\n악성앱 존재조차 알기 어렵다.\n채굴 악성코드뿐 아니라 직접 암호화폐 지갑 앱을 위장한 악성코드도 발견됐다.\n암호화폐 지갑 주소를 생성해주는 해당 앱은 서로 다른 기기에서도 매번 동일한 주소를 만든다.\n해당 주소는 공격자 주소로 추정된다. '마이이더월렛'으로 위장한 가짜 앱은 사용자 주소와 프라이빗 키 입력을 유도한다.\n해당 주소 등 입력 시 공격자에게 전송된다.\n스마트폰 클립보드에 지갑 주소가 감지되면 해당 정보를 공격자에게 전송하는 '클리퍼' 악성 앱도 기승이다.\n클리퍼는 스마트폰에 설치되면 아이콘을 숨긴다.\n사용자가 해당 앱을 실행하면 '지원하지 않는 기기이므로 앱을 삭제했습니다(Not supported on your device and deleted)'라는 메시지를 보여준다.\n실제로는 사용자 몰래 실행된다.\n클립보드를 모니터링하며 지갑 관련 정보를 찾아 공격자에게 전송한다.\n공격은 암호화폐 인기와 함께 당분간 지속될 전망이다.\n안드로이드 크립토재킹 악성코드는 암호화폐 시세 변동과 유사한 흐름을 보였다.\n안랩에 따르면 비트코인 가격 정점을 기록한 2018년 1분기 안드로이드 악성코드는 4603개 발견으로 최다를 기록한 뒤 꾸준히 하락해 2018년 4분기 112개로 줄었다.\n올해 비트코인 가격이 급등하면서 암호화폐 관련 악성코드는 1분기 280개로 다시 증가세를 보였다.\n안랩 관계자는 “암호화폐 관련 악성코드 증감 추이는 비트코인 시세와 밀접한 관련있다”면서 “앱 다운로드 시 공식 마켓을 이용하며 공식 마켓을 통해서도 악성 앱 유포가 발견되는 만큼 평판, 순위 변동 사유 등을 살피는 등 적극적인 피해 예방 노력이 요구된다”고 조언했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 비트코인을 시작으로 주요 암호화폐 시세가 급등락 하면서 암호화폐 채굴을 노리는 악성코드가 기승을 부린다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사용자 몰래 PC 리소스를 이용해 암호화폐를 채굴하는 크립토재킹 악성코드가 PC뿐 아니라 안드로이드 스마트폰까지 노린다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사용자 애플리케이션(앱) 설치에 주의가 요구된다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "안랩에 따르면 최근 모바일 기기 사용자를 노린 암호화폐 채굴 공격, 암호화폐 지갑 위장 페이크월렛, 지갑 관련 정보를 가로채는 클리포 등 암호화폐 대상 범죄가 늘어난다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정보기술(IT) 기기 리소스를 이용해 암호화폐를 채굴하는 크립토재킹 공격은 이전까지 대부분 PC에 한정됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 안랩은 안드로이드 게임 앱을 위장한 악성 채굴앱을 확인했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "크립토재킹 악성코드가 암호화폐를 채굴하면 스마트폰 중앙처리장치(CPU) 사용량이 급증해 성능이 저하된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사용자는 스마트폰 성능 저하가 게임 앱 실행 때문이라고 생각하기 쉽다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "악성앱 존재조차 알기 어렵다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "채굴 악성코드뿐 아니라 직접 암호화폐 지갑 앱을 위장한 악성코드도 발견됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "암호화폐 지갑 주소를 생성해주는 해당 앱은 서로 다른 기기에서도 매번 동일한 주소를 만든다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "해당 주소는 공격자 주소로 추정된다. '마이이더월렛'으로 위장한 가짜 앱은 사용자 주소와 프라이빗 키 입력을 유도한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "해당 주소 등 입력 시 공격자에게 전송된다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "스마트폰 클립보드에 지갑 주소가 감지되면 해당 정보를 공격자에게 전송하는 '클리퍼' 악성 앱도 기승이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "클리퍼는 스마트폰에 설치되면 아이콘을 숨긴다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "사용자가 해당 앱을 실행하면 '지원하지 않는 기기이므로 앱을 삭제했습니다(Not supported on your device and deleted)'라는 메시지를 보여준다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "실제로는 사용자 몰래 실행된다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "클립보드를 모니터링하며 지갑 관련 정보를 찾아 공격자에게 전송한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "공격은 암호화폐 인기와 함께 당분간 지속될 전망이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "안드로이드 크립토재킹 악성코드는 암호화폐 시세 변동과 유사한 흐름을 보였다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "안랩에 따르면 비트코인 가격 정점을 기록한 2018년 1분기 안드로이드 악성코드는 4603개 발견으로 최다를 기록한 뒤 꾸준히 하락해 2018년 4분기 112개로 줄었다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "올해 비트코인 가격이 급등하면서 암호화폐 관련 악성코드는 1분기 280개로 다시 증가세를 보였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "안랩 관계자는 “암호화폐 관련 악성코드 증감 추이는 비트코인 시세와 밀접한 관련있다”면서 “앱 다운로드 시 공식 마켓을 이용하며 공식 마켓을 통해서도 악성 앱 유포가 발견되는 만큼 평판, 순위 변동 사유 등을 살피는 등 적극적인 피해 예방 노력이 요구된다”고 조언했다.",
+				"sentenceSize": 150
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스마트폰까지 파고든 '암호화폐 채굴 악성코드'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

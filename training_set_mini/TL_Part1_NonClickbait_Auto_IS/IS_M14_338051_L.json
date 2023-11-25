@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338051",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "삼성, 상반기 대졸 신입 사원 공채 시작",
+		"newsSubTitle": "",
+		"newsContent": "삼성이 15일 채용 공고를 내고 상반기 대졸 신입 사원 공채를 시작한다.\n삼성전자와 삼성디스플레이, 삼성SDI, 삼성전기, 삼성SDS 등 삼성 계열사는 이날 채용홈페이지에 공고를 내고 2021년 상반기 3급(대졸) 신입사원 채용에 돌입했다.\n삼성은 이날부터 22일까지 지원서를 접수한다. 4~5월 중 필기시험인 직무적성검사(GSAT)를 실시한다. 5~6월에 면접을 거쳐 7월 중 최종 합격자를 발표할 예정이다.\nGSAT 일정은 1차 직무적합성평가를 통과한 지원자를 대상으로 추후 공지한다.\n삼성은 지난해 공채에서 코로나19 여파로 사상 처음 삼성직무적성검사(GSAT)를 온라인으로 진행했고 올해도 모든 공채 필기시험을 온라인으로 치른다.\n채용 규모는 공개되지 않았으나 예년 수준인 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성이 15일 채용 공고를 내고 상반기 대졸 신입 사원 공채를 시작한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자와 삼성디스플레이, 삼성SDI, 삼성전기, 삼성SDS 등 삼성 계열사는 이날 채용홈페이지에 공고를 내고 2021년 상반기 3급(대졸) 신입사원 채용에 돌입했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성은 이날부터 22일까지 지원서를 접수한다. 4~5월 중 필기시험인 직무적성검사(GSAT)를 실시한다. 5~6월에 면접을 거쳐 7월 중 최종 합격자를 발표할 예정이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "GSAT 일정은 1차 직무적합성평가를 통과한 지원자를 대상으로 추후 공지한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성은 지난해 공채에서 코로나19 여파로 사상 처음 삼성직무적성검사(GSAT)를 온라인으로 진행했고 올해도 모든 공채 필기시험을 온라인으로 치른다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "채용 규모는 공개되지 않았으나 예년 수준인 것으로 알려졌다.",
+				"sentenceSize": 33
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성, 상반기 대졸 신입 사원 공채 시작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

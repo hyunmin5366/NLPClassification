@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335398",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[이슈분석]오해 부르는 '넷플릭스 인덱스'",
+		"newsSubTitle": "",
+		"newsContent": "넷플릭스가 홈페이지에 게시하는 '넷플릭스 인덱스'가 마치 통신사업자가 제공하는 인터넷 속도가 형편없는 것처럼 소개하고 있어 주의가 요구된다. '넷플릭스 ISP 스피드 인덱스-한국'에 따르면 LG유플러스 3.87Mbps, 딜라이브 3.5Mbps, KT 2.68Mbps, SK브로드밴드 1.64Mbps로 소개됐다. '속도(SPEED)'라고 표기해 인터넷 속도로 인식할 개연성이 높다.\nLG유플러스 속도가 가장 가 빠르고 SK브로드밴드 속도가 가장 느리다고 오인할 여지가 있다.\n최근 이를 근거로 '한국에서 넷플릭스를 시청하기가 매우 어렵다'는 이야기가 불거졌다.\n하지만, 넷플릭스 캐시서버가 없다지만 KT나 SK브로드밴드 인터넷 속도가 1~2Mbps라는 건 납득하기 어렵다.\n캐시서버를 설치한 LG유플러스조차 3.87Mbps에 그친다.\n정부가 공식 발표한 지난해 초고속인터넷(100Mbps) 평균 다운로드 속도는 99.3Mbps다.\n롱텀 에벌루션(LTE) 평균 다운로드 속도는 150.6Mbps였다.\n이처럼 괴리가 큰 이유는 넷플릭스 인덱스가 인터넷 속도와 무관하기 때문이다.\n넷플릭스 인덱스는 '대역폭'을 의미한다.\n인덱스가 3Mbps라면 특정 영상을 시청할 때 초당 3메가비트를 전송할 수 있는 대역폭을 사용한다는 의미다. 고화질 영상일수록 숫자가 큰 것은 물론이다.\n만약 인터넷 속도가 매우 빠르더라도 필요한 대역폭을 확보하지 못하면 해당 영상 전송 속도는 느려진다.\n넷플릭스는 화질에 따라 대역폭을 다르게(0.5~25Mbps) 적용한다.\n통신망이나 단말 종류에 따라 자동으로 달라진다.\n평균을 산출한 게 넷플릭스 인덱스다.\n통신사는 넷플릭스 인덱스가 캐시서버 도입을 압박하기 위한 넷플릭스 수단이라고 보고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "넷플릭스가 홈페이지에 게시하는 '넷플릭스 인덱스'가 마치 통신사업자가 제공하는 인터넷 속도가 형편없는 것처럼 소개하고 있어 주의가 요구된다. '넷플릭스 ISP 스피드 인덱스-한국'에 따르면 LG유플러스 3.87Mbps, 딜라이브 3.5Mbps, KT 2.68Mbps, SK브로드밴드 1.64Mbps로 소개됐다. '속도(SPEED)'라고 표기해 인터넷 속도로 인식할 개연성이 높다.",
+				"sentenceSize": 212
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG유플러스 속도가 가장 가 빠르고 SK브로드밴드 속도가 가장 느리다고 오인할 여지가 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 이를 근거로 '한국에서 넷플릭스를 시청하기가 매우 어렵다'는 이야기가 불거졌다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만, 넷플릭스 캐시서버가 없다지만 KT나 SK브로드밴드 인터넷 속도가 1~2Mbps라는 건 납득하기 어렵다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "캐시서버를 설치한 LG유플러스조차 3.87Mbps에 그친다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "정부가 공식 발표한 지난해 초고속인터넷(100Mbps) 평균 다운로드 속도는 99.3Mbps다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "롱텀 에벌루션(LTE) 평균 다운로드 속도는 150.6Mbps였다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이처럼 괴리가 큰 이유는 넷플릭스 인덱스가 인터넷 속도와 무관하기 때문이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "넷플릭스 인덱스는 '대역폭'을 의미한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "인덱스가 3Mbps라면 특정 영상을 시청할 때 초당 3메가비트를 전송할 수 있는 대역폭을 사용한다는 의미다. 고화질 영상일수록 숫자가 큰 것은 물론이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "만약 인터넷 속도가 매우 빠르더라도 필요한 대역폭을 확보하지 못하면 해당 영상 전송 속도는 느려진다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "넷플릭스는 화질에 따라 대역폭을 다르게(0.5~25Mbps) 적용한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "통신망이나 단말 종류에 따라 자동으로 달라진다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "평균을 산출한 게 넷플릭스 인덱스다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "통신사는 넷플릭스 인덱스가 캐시서버 도입을 압박하기 위한 넷플릭스 수단이라고 보고 있다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]오해 부르는 '넷플릭스 인덱스'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

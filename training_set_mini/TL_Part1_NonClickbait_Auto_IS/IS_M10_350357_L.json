@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350357",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "카카오 쇼핑사업 품는다…카카오커머스와 합병",
+		"newsSubTitle": "null",
+		"newsContent": "카카오가 자회사 카카오커머스와 합병하며 쇼핑사업을 확대한다. 14일 업계에 따르면 카카오는 오는 22일 이사회에서 카카오커머스 합병 안건을 상정한다.\n합병 후 카카오커머스를 별도 조직으로 운영, 홍은택 카카오커머스 대표에게 이끌게 한다는 방침이다.\n코로나19(COVID-19)로 전세계 이커머스 사업이 급성장한 가운데, 이번 합병으로 카카오 주력사업을 광고에서 커머스로 옮긴다는 계획이다.\n앞서 카카오는 지난 2018년 쇼핑사업부를 분사해 카카오커머스를 설립했다.\n카카오커머스는 카카오톡 선물하기, 메이커스 등 카카오 쇼핑 관련 서비스 운영을 전담하며 지난해 매출 5735억원, 영업이익 1595억원을 기록했다.\n카카오 관계자는 \\\"양 사의 시너지를 극대화하기 위한 다양한 방안을 검토 중\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "카카오가 자회사 카카오커머스와 합병하며 쇼핑사업을 확대한다. 14일 업계에 따르면 카카오는 오는 22일 이사회에서 카카오커머스 합병 안건을 상정한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "합병 후 카카오커머스를 별도 조직으로 운영, 홍은택 카카오커머스 대표에게 이끌게 한다는 방침이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코로나19(COVID-19)로 전세계 이커머스 사업이 급성장한 가운데, 이번 합병으로 카카오 주력사업을 광고에서 커머스로 옮긴다는 계획이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 카카오는 지난 2018년 쇼핑사업부를 분사해 카카오커머스를 설립했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카카오커머스는 카카오톡 선물하기, 메이커스 등 카카오 쇼핑 관련 서비스 운영을 전담하며 지난해 매출 5735억원, 영업이익 1595억원을 기록했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카카오 관계자는 \\\"양 사의 시너지를 극대화하기 위한 다양한 방안을 검토 중\\\"이라고 말했다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카카오 쇼핑사업 품는다…카카오커머스와 합병",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

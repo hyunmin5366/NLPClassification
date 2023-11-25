@@ -1,0 +1,276 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349498",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "KISA \\\"백신여권 보안 강화 위해 DID 접목 논의할것\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "질병관리청 주도로 이달 중 정부가 도입하려는 QR코드(2차원 바코드) 형태의 코로나19 '백신여권'(전자 백신접종증명서)에 대해 국내 블록체인 전문가들이 8일 \\\"보안성이 우려된다\\\"고 문제를 제기했다.\nKISA는 증명서 복제나 위·변조를 막을 수 있는 블록체인 기반 분산신원증명(DID) 기술을 정부 백신여권에 접목할 수 있도록 논의할 방침이라고 밝혔다.\n박근덕 서울외국어대학원대학교 교수(서울외대 AI블록체인연구소장)는 이날 오후 과학기술정보통신부 주최, 한국인터넷진흥원(KISA) 등 주관으로 개최된 '블록체인으로 혁신하는 디지털 경제' 정책 콘퍼런스에서 \\\"QR코드 방식은 보안 문제가 많다\\\"며 \\\"QR코드보다 보안성과 편의성 등 장점이 많은 DID 방식으로 백신여권의 국제 기술표준을 이뤄야 한다\\\"고 말했다.\n현재 해외에서도 QR코드 형태의 백신접종증명을 쓰는 경우가 많다.\n중국은 QR코드 형태의 백신접종증명을 도입했다.\n이를 도쿄올림픽을 계기로 국제 표준화하려는 움직임도 있다.\n미국과 EU 등도 모바일 앱 형태의 QR코드와 QR코드를 종이로 인쇄한 증명서 도입을 추진 중이다.\nQR코드를 종이로 인쇄하면 백신여권을 전산화 하면서도 디지털 취약계층 배려도 가능하다.\n국내에서도 질병청이 최근 블록체인 업체 블록체인랩스의 기술 기부로 QR코드 방식의 디지털 백신접종증명 앱을 개발 중이라고 밝혔다.\n다만 박 교수는 QR코드 방식은 위·변조가 쉽고 실제 백신여권을 만들었을 때 효율성이 떨어진다고 주장했다.\n암호화를 하더라도 코드 복제가 쉽고, 증명서를 발급 받은 본인이 직접 증명서를 제출하는 것이 맞는지 확인하는 전자서명 정보를 담기 어렵다는 이유다.\n박 교수는 \\\"이미 다크웹에서 주문자의 개인정보를 넣어 만든 진짜같은 가짜 백신접종증명서까지 거래되고 있는 만큼 백신 접종 증명서만 갖고 다닌다고 되는 것이 아니다\\\"라며 \\\"발급 기관의 진위 여부와 접종증명을 제출한 사람과 실제 그 사람이 맞는지 동시에 검증하려면 전자서명이 꼭 필요하다\\\"고 말했다.\n반면 DID는 기본적으로 전자서명정보가 탑재된다.\nDID 기술은 개인정보를 쪼갠 뒤 블록체인에 암호화해 저장했다가 신원 증명이 필요할 때 서로 연결된 블록에서 동시에 정보를 호출해 조합해 본인 인증하는 기술이다.\n여러 블록 중 한 개만 갖고는 전체 정보를 알 수가 없고 한 블록이 해킹되면 연관된 모든 정보가 무효화되기 때문에 해킹이나 위변조가 어렵다.\n국내에서는 모바일 공무원증 등에 이 기술이 사용되고 있다.\nKISA에 따르면 질병청 앱에는 DID 기술은 적용되지 않았다.\n질병청 앱은 사용자가 기관에 QR코드를 제시하면 기관이 블록체인에 등록된 디지털 백신 접종증명서 해시값과 비교해 증명서 위변조를 확인하는 방식으로 개발 중이라고 KISA는 전했다.\n박상환 KISA 블록체인진흥단장은 \\\"질병청에 확인한 바로는 해당 앱에는 종이예방접종증명서 위변조를 보완하기 위한 블록체인 기술이 적용됐지만 DID를 적용하지는 않았다\\\"고 말했다.\nKISA는 블록체인 시범사업 중 하나로 'DID 집중사업' 공모를 진행 중이다.\nSK텔레콤과 라온시큐어, 코인플러그, 아이콘루프 등 DID 연합체 컨소시엄이 백신 접종여부를 DID로 인증하는 내용으로 우선협상대상자로 선정됐다.\n이 때문에 당초 정부가 백신여권을 도입하기로 발표했을 때 SKT 컨소시엄의 DID 방식을 도입하는 것으로 알려졌지만 질병청 앱은 이와 별개로 개발되고 있다.\n박 교수는 편의성 때문에도 향후 국제적으로 통용될 '백신여권'에 DID가 접목돼야 한다고 덧붙였다.\n백신여권을 구현하려면 백신접종증명서뿐 아니라 여권과 코로나19 음성 검사서 등 여러 증명서를 앱 하나에 담게 될 텐데 QR코드를 사용하면 증명서 개수만큼 QR코드를 찍어야 한다는 설명이다.\n반면 DID는 블루투스나 와이파이(Wifi) 다이렉트 등 단거리 무선통신 기술로 교통카드 찍듯 한번에 인증이 가능하다.\n박 교수는 \\\"이미 유럽 등에서 QR코드 방식으로 시작했지만 글로벌 서비스로 보편화하려면 DID 방식으로 고도화해야 공항에서 줄 안 서고 백신여권 검사를 받을 수 있다\\\"고 했다.\nKISA도 질병청이 개발하는 백신접종증명 앱에 DID를 적용할 수 있도록 논의를 이어가겠다는 방침이다.\n박 단장은 \\\"백신접종 증명의 보안 강화를 위해 질병청과 민간의 DID 기술을 접목하기 위한 협의를 이어갈 것\\\"이라며 \\\"DID 표준 제정까지 함께 진행해 해외 여행과 경제 활성화에 큰 역할을 할 수 있도록 지원하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 28,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "질병관리청 주도로 이달 중 정부가 도입하려는 QR코드(2차원 바코드) 형태의 코로나19 '백신여권'(전자 백신접종증명서)에 대해 국내 블록체인 전문가들이 8일 \\\"보안성이 우려된다\\\"고 문제를 제기했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KISA는 증명서 복제나 위·변조를 막을 수 있는 블록체인 기반 분산신원증명(DID) 기술을 정부 백신여권에 접목할 수 있도록 논의할 방침이라고 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박근덕 서울외국어대학원대학교 교수(서울외대 AI블록체인연구소장)는 이날 오후 과학기술정보통신부 주최, 한국인터넷진흥원(KISA) 등 주관으로 개최된 '블록체인으로 혁신하는 디지털 경제' 정책 콘퍼런스에서 \\\"QR코드 방식은 보안 문제가 많다\\\"며 \\\"QR코드보다 보안성과 편의성 등 장점이 많은 DID 방식으로 백신여권의 국제 기술표준을 이뤄야 한다\\\"고 말했다.",
+				"sentenceSize": 203
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재 해외에서도 QR코드 형태의 백신접종증명을 쓰는 경우가 많다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "중국은 QR코드 형태의 백신접종증명을 도입했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 도쿄올림픽을 계기로 국제 표준화하려는 움직임도 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "미국과 EU 등도 모바일 앱 형태의 QR코드와 QR코드를 종이로 인쇄한 증명서 도입을 추진 중이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "QR코드를 종이로 인쇄하면 백신여권을 전산화 하면서도 디지털 취약계층 배려도 가능하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "국내에서도 질병청이 최근 블록체인 업체 블록체인랩스의 기술 기부로 QR코드 방식의 디지털 백신접종증명 앱을 개발 중이라고 밝혔다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "다만 박 교수는 QR코드 방식은 위·변조가 쉽고 실제 백신여권을 만들었을 때 효율성이 떨어진다고 주장했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "암호화를 하더라도 코드 복제가 쉽고, 증명서를 발급 받은 본인이 직접 증명서를 제출하는 것이 맞는지 확인하는 전자서명 정보를 담기 어렵다는 이유다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "박 교수는 \\\"이미 다크웹에서 주문자의 개인정보를 넣어 만든 진짜같은 가짜 백신접종증명서까지 거래되고 있는 만큼 백신 접종 증명서만 갖고 다닌다고 되는 것이 아니다\\\"라며 \\\"발급 기관의 진위 여부와 접종증명을 제출한 사람과 실제 그 사람이 맞는지 동시에 검증하려면 전자서명이 꼭 필요하다\\\"고 말했다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "반면 DID는 기본적으로 전자서명정보가 탑재된다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "DID 기술은 개인정보를 쪼갠 뒤 블록체인에 암호화해 저장했다가 신원 증명이 필요할 때 서로 연결된 블록에서 동시에 정보를 호출해 조합해 본인 인증하는 기술이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "여러 블록 중 한 개만 갖고는 전체 정보를 알 수가 없고 한 블록이 해킹되면 연관된 모든 정보가 무효화되기 때문에 해킹이나 위변조가 어렵다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "국내에서는 모바일 공무원증 등에 이 기술이 사용되고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "KISA에 따르면 질병청 앱에는 DID 기술은 적용되지 않았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "질병청 앱은 사용자가 기관에 QR코드를 제시하면 기관이 블록체인에 등록된 디지털 백신 접종증명서 해시값과 비교해 증명서 위변조를 확인하는 방식으로 개발 중이라고 KISA는 전했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "박상환 KISA 블록체인진흥단장은 \\\"질병청에 확인한 바로는 해당 앱에는 종이예방접종증명서 위변조를 보완하기 위한 블록체인 기술이 적용됐지만 DID를 적용하지는 않았다\\\"고 말했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "KISA는 블록체인 시범사업 중 하나로 'DID 집중사업' 공모를 진행 중이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "SK텔레콤과 라온시큐어, 코인플러그, 아이콘루프 등 DID 연합체 컨소시엄이 백신 접종여부를 DID로 인증하는 내용으로 우선협상대상자로 선정됐다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "이 때문에 당초 정부가 백신여권을 도입하기로 발표했을 때 SKT 컨소시엄의 DID 방식을 도입하는 것으로 알려졌지만 질병청 앱은 이와 별개로 개발되고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "박 교수는 편의성 때문에도 향후 국제적으로 통용될 '백신여권'에 DID가 접목돼야 한다고 덧붙였다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "백신여권을 구현하려면 백신접종증명서뿐 아니라 여권과 코로나19 음성 검사서 등 여러 증명서를 앱 하나에 담게 될 텐데 QR코드를 사용하면 증명서 개수만큼 QR코드를 찍어야 한다는 설명이다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "반면 DID는 블루투스나 와이파이(Wifi) 다이렉트 등 단거리 무선통신 기술로 교통카드 찍듯 한번에 인증이 가능하다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "박 교수는 \\\"이미 유럽 등에서 QR코드 방식으로 시작했지만 글로벌 서비스로 보편화하려면 DID 방식으로 고도화해야 공항에서 줄 안 서고 백신여권 검사를 받을 수 있다\\\"고 했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "KISA도 질병청이 개발하는 백신접종증명 앱에 DID를 적용할 수 있도록 논의를 이어가겠다는 방침이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "박 단장은 \\\"백신접종 증명의 보안 강화를 위해 질병청과 민간의 DID 기술을 접목하기 위한 협의를 이어갈 것\\\"이라며 \\\"DID 표준 제정까지 함께 진행해 해외 여행과 경제 활성화에 큰 역할을 할 수 있도록 지원하겠다\\\"고 말했다.",
+				"sentenceSize": 130
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KISA \\\"백신여권 보안 강화 위해 DID 접목 논의할것\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347344",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "인스타그램, 쇼핑 기능 시범서비스 돌입",
+		"newsSubTitle": "null",
+		"newsContent": "글로벌 SNS 인스타그램이 상품 구매 서비스를 시작한다.\n인스타그램은 다음 주부터 북미지역에서 '상품보기'(tap to view)와 '구매하기'(Shop Now) 기능에 대한 시범 서비스를 실시한다고 2일 밝혔다.\n이번 서비스에는 의류 브랜드 '케이트 스페이드'(Kate Spade)와 '잭 스레드'(Jack Threads), 온라인 안경업체 '워비 파커'(Warby Parker) 등 20개 브랜드가 참여한다.\n새로 도입되는 상품보기는 사진 왼쪽 아래에 위치한 아이콘을 선택하면 각 게시물에 보이는 상품 위에 태그가 나타난다.\n태그에는 상품 이름과 함께 가격 정보가 간략히 보인다.\n마음에 드는 상품의 태그를 선택하면 자세한 상품정보를 볼 수 있다.\n이 페이지에서는 상품구매 페이지와 직접 연결되는 구매하기 링크를 통해 브랜드 웹사이트로 이동할 수 있다.\n인스타그램은 \\\"스마트폰 사용자가 모바일 쇼핑을 하면서 하루 만에 구매를 결정하는 경우는 단 21%에 불과하다\\\"며 \\\"상품 상세정보를 확인하기 어려운 불편을 해소하기 위해 이번 시범 서비스를 도입했다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 SNS 인스타그램이 상품 구매 서비스를 시작한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인스타그램은 다음 주부터 북미지역에서 '상품보기'(tap to view)와 '구매하기'(Shop Now) 기능에 대한 시범 서비스를 실시한다고 2일 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번 서비스에는 의류 브랜드 '케이트 스페이드'(Kate Spade)와 '잭 스레드'(Jack Threads), 온라인 안경업체 '워비 파커'(Warby Parker) 등 20개 브랜드가 참여한다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "새로 도입되는 상품보기는 사진 왼쪽 아래에 위치한 아이콘을 선택하면 각 게시물에 보이는 상품 위에 태그가 나타난다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "태그에는 상품 이름과 함께 가격 정보가 간략히 보인다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "마음에 드는 상품의 태그를 선택하면 자세한 상품정보를 볼 수 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 페이지에서는 상품구매 페이지와 직접 연결되는 구매하기 링크를 통해 브랜드 웹사이트로 이동할 수 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인스타그램은 \\\"스마트폰 사용자가 모바일 쇼핑을 하면서 하루 만에 구매를 결정하는 경우는 단 21%에 불과하다\\\"며 \\\"상품 상세정보를 확인하기 어려운 불편을 해소하기 위해 이번 시범 서비스를 도입했다\\\"고 밝혔다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인스타그램, 쇼핑 기능 시범서비스 돌입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

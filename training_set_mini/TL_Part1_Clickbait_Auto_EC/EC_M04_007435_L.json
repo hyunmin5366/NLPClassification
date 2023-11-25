@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007435",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "청주에 대규모 쇼고객센터 kt cs 370석 규모",
+		"newsSubTitle": "",
+		"newsContent": "토털컨택서비스기업 kt cs가 370석 규모의 충북 SHOW 고객센터를 운영한다고 15일 밝혔다.\n이번 고객센터 구축은 SHOW 고객상담서비스 레벨 향상과 충북지역 일자리 창출을 위해 청주시와 kt cs가 공동으로 추진한 프로젝트다.\n국내 스마트폰 이용자가 500만 명으로 대폭 증가한 것도 대규모 센터 운영의 배경이다.\n이번 센터 운영으로 kt cs는 연간 84억여원의 매출이 예상된다.\n또한 370석 중 200석은 재택근무로 운영해 장애인 채용을 확대하고, 여성 근로자들에게 가족친화적인 근무환경을 제공할 방침이다.\n센터 구축을 위해 청주시에서는 도시형 서비스산업 지원정책의 일환으로 건물임대료 50%이내 3년간 최고 2억원까지 지원한다. 30%내 최고 3억원 상당의 시설장비를 지원하며 SHOW 고객센터에 대한 홍보지원도 하게 된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "토털컨택서비스기업 kt cs가 370석 규모의 충북 SHOW 고객센터를 운영한다고 15일 밝혔다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 고객센터 구축은 SHOW 고객상담서비스 레벨 향상과 충북지역 일자리 창출을 위해 청주시와 kt cs가 공동으로 추진한 프로젝트다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내 스마트폰 이용자가 500만 명으로 대폭 증가한 것도 대규모 센터 운영의 배경이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 센터 운영으로 kt cs는 연간 84억여원의 매출이 예상된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또한 370석 중 200석은 재택근무로 운영해 장애인 채용을 확대하고, 여성 근로자들에게 가족친화적인 근무환경을 제공할 방침이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "센터 구축을 위해 청주시에서는 도시형 서비스산업 지원정책의 일환으로 건물임대료 50%이내 3년간 최고 2억원까지 지원한다. 30%내 최고 3억원 상당의 시설장비를 지원하며 SHOW 고객센터에 대한 홍보지원도 하게 된다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "11번가, 7월 ‘월간십일절’ 여름휴가 상품 반값 할인",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

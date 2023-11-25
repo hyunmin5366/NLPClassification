@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329425",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "[이슈분석]보라매병원 사건·김 할머니 사건이란?",
+		"newsSubTitle": "",
+		"newsContent": "1997년 12월 4일 14시30분, 보라매병원으로 응급환자가 후송됐다.\n한 남성이 술에 취해 화장실을 가다가 바닥에 넘어져 경막외 출혈상을 당했다.\n보라매병원 전문의, 전공의는 혈종제거수술을 하고 중환자실로 옮겼다.\n상태가 호전되는 상황에서 환자 아내는 치료비 부담, 남편의 폭력성 등을 이유로 퇴원을 요구했다.\n의료진은 각서 작성 후 퇴원을 승낙했고, 환자는 자택으로 귀가하고 곧 사망했다.\n법원은 아내는 고의로 피해자 치료를 중단시킨 점, 의료진은 방조했다는 이유로 유죄를 판결했다.\n2008년 2월 16일 신촌세브란스병원에 입원한 김 할머니는 기관지 수술을 받던 중 폐혈관이 터져 뇌사상태에 빠졌다.\n가족은 서울서부지방법원에 병원이 할머니 인공호흡기를 제거할 수 있게 해달라며 소송을 제기했다.\n2009년 대법원까지 간 이 사건은 결국 호흡기를 제거하라는 판결을 내렸다.\n김 할머니는 인공호흡기 제거 후 201일 만에 사망했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "1997년 12월 4일 14시30분, 보라매병원으로 응급환자가 후송됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한 남성이 술에 취해 화장실을 가다가 바닥에 넘어져 경막외 출혈상을 당했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보라매병원 전문의, 전공의는 혈종제거수술을 하고 중환자실로 옮겼다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "상태가 호전되는 상황에서 환자 아내는 치료비 부담, 남편의 폭력성 등을 이유로 퇴원을 요구했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "의료진은 각서 작성 후 퇴원을 승낙했고, 환자는 자택으로 귀가하고 곧 사망했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "법원은 아내는 고의로 피해자 치료를 중단시킨 점, 의료진은 방조했다는 이유로 유죄를 판결했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2008년 2월 16일 신촌세브란스병원에 입원한 김 할머니는 기관지 수술을 받던 중 폐혈관이 터져 뇌사상태에 빠졌다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "가족은 서울서부지방법원에 병원이 할머니 인공호흡기를 제거할 수 있게 해달라며 소송을 제기했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "2009년 대법원까지 간 이 사건은 결국 호흡기를 제거하라는 판결을 내렸다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "김 할머니는 인공호흡기 제거 후 201일 만에 사망했다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]보라매병원 사건·김 할머니 사건이란?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

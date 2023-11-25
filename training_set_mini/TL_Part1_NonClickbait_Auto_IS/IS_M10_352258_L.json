@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352258",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"민감정보 문서도 안전하게\\\" 파수, 남부발전에 솔루션 공급",
+		"newsSubTitle": "null",
+		"newsContent": "파수는 한국남부발전에 데이터 식별 및 분류 솔루션인 파수 데이터 레이더를 공급했다고 22일 밝혔다.\n남부발전은 최근 공공기관 최초로 능동형 개인정보 보안시스템인 개인정보 흐름 관리 시스템을 도입했다.\n개인정보의 생성부터 이용, 이동의 기록관리를 자동화한 것으로 여기에는 파수 데이터 레이더가 도입됐다.\n파수 데이터 레이더는 PC와 서버, 스토리지 등 다양한 저장소의 문서 내용을 분석해 자동 분류한다.\n개인정보와 같은 민감정보 포함여부를 식별해 문서를 격리처리하고 일정 기간 후 권한을 회수하거나 문서를 파기하는 기능도 제공한다.\n이외에 기업 자체 문서관리 규칙과 정보 공개법 등 관련 규정에 따른 문서관리도 지원한다.\n조규곤 파수 대표는 \\\"개인정보 규제 강화와 보안위협 증가로 각 기업의 민감정보 관리역량이 중요해졌다\\\"며 \\\"앞으로도 데이터 보안 강화를 위한 지원을 아끼지 않을 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "파수는 한국남부발전에 데이터 식별 및 분류 솔루션인 파수 데이터 레이더를 공급했다고 22일 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "남부발전은 최근 공공기관 최초로 능동형 개인정보 보안시스템인 개인정보 흐름 관리 시스템을 도입했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개인정보의 생성부터 이용, 이동의 기록관리를 자동화한 것으로 여기에는 파수 데이터 레이더가 도입됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파수 데이터 레이더는 PC와 서버, 스토리지 등 다양한 저장소의 문서 내용을 분석해 자동 분류한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개인정보와 같은 민감정보 포함여부를 식별해 문서를 격리처리하고 일정 기간 후 권한을 회수하거나 문서를 파기하는 기능도 제공한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이외에 기업 자체 문서관리 규칙과 정보 공개법 등 관련 규정에 따른 문서관리도 지원한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "조규곤 파수 대표는 \\\"개인정보 규제 강화와 보안위협 증가로 각 기업의 민감정보 관리역량이 중요해졌다\\\"며 \\\"앞으로도 데이터 보안 강화를 위한 지원을 아끼지 않을 것\\\"이라고 말했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"민감정보 문서도 안전하게\\\" 파수, 남부발전에 솔루션 공급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

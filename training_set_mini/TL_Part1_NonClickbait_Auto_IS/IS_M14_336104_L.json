@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336104",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "美 교통당국, '반자율주행' 테슬라 교통사고 조사",
+		"newsSubTitle": "",
+		"newsContent": "미국 교통 당국이 반자율주행 기능인 전체자가주행(FSD) 기능으로 달리던 테슬라 전기차가 일으킨 교통사고를 조사 중이다.\n13일(현지시간) 로이터통신에 따르면 미국 도로교통안전국(NHTSA)는 FSD 베타 소프트웨어(SW)를 이용해 주행하던 테슬라 2021년형 '모델Y'가 교통사고를 일으켜 조사 중이다.\n해당 차량은 지난 3일 미 캘리포니아 로스앤젤레스(LA) 동쪽의 브레이어에서 FSD 기능으로 좌회전을 하던 중 차선을 잘못 변경해 옆 차선에서 달리던 차량과 충돌했다.\n운전자는 경고 메시지를 인지하고 수동으로 운전하려고 했으나 제어가 불가능했고, 차량이 차선을 바꿔 사고가 발생했다고 주장했다.\nNHTSA는 정확한 사고 원인을 파악하기 위해 테슬라와 협조하고 있다.\n앞서 이달 초 테슬라는 자사 전기차 1만1704대를 리콜했다.\nSW 문제로 잘못된 전방추돌 경보가 울리거나, 갑자기 긴급 제동장치가 작동하는 결함을 해결하기 위해서다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 교통 당국이 반자율주행 기능인 전체자가주행(FSD) 기능으로 달리던 테슬라 전기차가 일으킨 교통사고를 조사 중이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일(현지시간) 로이터통신에 따르면 미국 도로교통안전국(NHTSA)는 FSD 베타 소프트웨어(SW)를 이용해 주행하던 테슬라 2021년형 '모델Y'가 교통사고를 일으켜 조사 중이다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 차량은 지난 3일 미 캘리포니아 로스앤젤레스(LA) 동쪽의 브레이어에서 FSD 기능으로 좌회전을 하던 중 차선을 잘못 변경해 옆 차선에서 달리던 차량과 충돌했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "운전자는 경고 메시지를 인지하고 수동으로 운전하려고 했으나 제어가 불가능했고, 차량이 차선을 바꿔 사고가 발생했다고 주장했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "NHTSA는 정확한 사고 원인을 파악하기 위해 테슬라와 협조하고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 이달 초 테슬라는 자사 전기차 1만1704대를 리콜했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SW 문제로 잘못된 전방추돌 경보가 울리거나, 갑자기 긴급 제동장치가 작동하는 결함을 해결하기 위해서다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美 교통당국, '반자율주행' 테슬라 교통사고 조사",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015042",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "대전·충남 중소기업 업황실적 회복세",
+		"newsSubTitle": "SBHI 89.4로 전월比 0.6p↓",
+		"newsContent": "지역 중소기업의 경기전망지수가 다소 하락했으나, 최근 3개월 동안의 실적은 완만한 회복세를 유지한 것으로 나타났다.\n27일 중소기업중앙회 대전충남지역본부(본부장 양찬회)가 지역 중소기업 270곳을 대상으로 실시한 경기전망조사 결과를 보면, 2015년 11월 대전·충남 중소기업 업황전망건강도지수(SBHI)는 전월(90.0) 대비 0.6p 하락한 89.4로 조사됐다.\nSBHI는 100 이상이면 다음달 경기가 좋아질 것으로, 100 미만이면 그 반대를 의미한다.\n이번 조사 결과는 수출 부진으로 지난달에 비해 경기전망은 다소 하락했으나, 메르스 영향에서 점차 벗어나며 업황실적은 완만한 회복세를 이어가고 있는 것으로 분석된다.\n특히, 제조업은 전월(92.8) 대비 3.5p 상승한 96.3을 기록했고, 비제조업은 전월(88.3) 대비 3.2p 하락한 85.1로 나타났다.\n이런 가운데 10월 대전·충남지역 중소업체들의 최대 경영애로는 내수부진(76.5%), 인력확보난(47.4%), 인건비 상승(43.5%), 자금조달(28.1%) 등의 순으로 조사됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지역 중소기업의 경기전망지수가 다소 하락했으나, 최근 3개월 동안의 실적은 완만한 회복세를 유지한 것으로 나타났다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 중소기업중앙회 대전충남지역본부(본부장 양찬회)가 지역 중소기업 270곳을 대상으로 실시한 경기전망조사 결과를 보면, 2015년 11월 대전·충남 중소기업 업황전망건강도지수(SBHI)는 전월(90.0) 대비 0.6p 하락한 89.4로 조사됐다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SBHI는 100 이상이면 다음달 경기가 좋아질 것으로, 100 미만이면 그 반대를 의미한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 조사 결과는 수출 부진으로 지난달에 비해 경기전망은 다소 하락했으나, 메르스 영향에서 점차 벗어나며 업황실적은 완만한 회복세를 이어가고 있는 것으로 분석된다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히, 제조업은 전월(92.8) 대비 3.5p 상승한 96.3을 기록했고, 비제조업은 전월(88.3) 대비 3.2p 하락한 85.1로 나타났다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이런 가운데 10월 대전·충남지역 중소업체들의 최대 경영애로는 내수부진(76.5%), 인력확보난(47.4%), 인건비 상승(43.5%), 자금조달(28.1%) 등의 순으로 조사됐다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "충남 인삼산업 '기운 잃었네'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

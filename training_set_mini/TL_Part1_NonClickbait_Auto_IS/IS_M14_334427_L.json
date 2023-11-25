@@ -1,0 +1,276 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334427",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW교육",
+		"newsTitle": "[소프트웨어야 놀자]주사위 던지기 게임",
+		"newsSubTitle": "",
+		"newsContent": "오늘 만들 작품이 있는 페이지에 접속하고(https://goo.gl/LH4z6M) 화면 중앙 시작하기 버튼을 클릭해요.\n사람과 컴퓨터가 각각 주사위를 2개씩 갖고 있어요.\n확인 버튼을 눌러봐요.\n어떤 일이 일어나나요?\n4개의 주사위가 던져지고 무작위로 값이 나와요.\n사람과 컴퓨터 주사위의 값은 자동으로 더해져 누가 승리했는지 또는 비겼는지 말해줘요.\n게임을 어떻게 만드는지 알아볼까요? [강의 학습하기]버튼을 클릭해요.\n먼저 필요한 변수를 만들어요.\n4개 주사위 값을 저장할 '사람1, 사람2, 컴퓨터1, 컴퓨터2' 변수를 만들어요.\n주사위 값의 합을 저장할 '사람합, 컴퓨터합' 변수도 만들어요.\n확인 버튼을 누르면 주사위를 던지는 효과가 나타나게 해 볼게요.\n확인 버튼을 클릭하고 [시작]에서 '∼를 클릭했을 때'와 '∼신호 보내고 기다리기' 블록을 가져와요.\n이어 '주사위 던지기' 신호를 만들고 그림(1)처럼 코드를 작성해요.\n그림(1)에서 '∼신호 보내고 기다리기' 블록은 신호를 보낸 후 '∼신호를 받았을 때' 아래에 연결된 모든 블록 실행이 끝날 때까지 기다리는 블록이에요.\n확인 버튼을 누르면 주사위가 이 신호를 받아 주사위의 값을 무작위로 정하게 해 볼게요.\n주사위를 클릭하고 [시작]에서 '∼신호를 받았을 때' 블록을 가져와요.\n주사위 방향과 모양이 바뀌도록 [흐름]의 '∼번 반복하기'안에 [움직임]의 '방향을 ∼만큼 회전하기', [생김새]의 '다음 모양으로 바꾸기' 블록을 끼워 넣어요.\n주사위 값이 무작위로 정해지고, 그 값에 맞는 모양을 선택하도록 해볼게요. [자료]에서 '∼를 ∼로 정하기'와 [계산]에서 '∼사이의 무작위 수', [생김새]에서 '∼모양으로 바꾸기' 블록을 가져와 그림(2)처럼 코드를 작성해요.\n나머지 주사위 코드도 그림(2)처럼 하면서 변수값 부분을 수정해 스스로 작성해 볼게요.\n제대로 작성했다면 [시작하기]로 작품을 실행하고 확인 버튼을 누르면 4개 주사위 값이 무작위로 나오는 것을 볼 수 있어요.\n사람과 컴퓨터가 던진 주사위 값을 각각 더하고 비교하게 해 볼게요.\n각 주사위 값을 더하도록 [자료]에서 '∼를 ∼로 정하기'와 '변수값', [계산]에서 '+'블록을 가져와 그림(3)처럼 코드를 작성해 그림(1)에 연결해요.\n사람과 컴퓨터가 던진 주사위 값을 비교하기 위해 [흐름]에서 '만일 ∼이라면 ∼아니면' 블록과 [자료]의 '변수값', [판단]의 '='블록, [생김새]의 '∼을 ∼초 동안 말하기' 블록을 가져와 그림(4)처럼 코드를 작성해요.\n코드(4)는 사람과 컴퓨터가 던진 주사위 값이 같을 때 '비겼어!'라고 말하게 해 줘요.\n사람합의 값이 컴퓨터합 보다 클 때나 작을 때 누가 이겼는지 말해주기 위해 그림(5)처럼 코드를 작성해 그림(3)에 연결해요.\n시작하기를 누르면 변수창이 사라지도록 하는 부분은 학교 강당 배경을 클릭하고 스스로 코드를 작성해봐요.\n드디어 게임이 완성됐어요.\n특정 숫자와 가까우면 이기는 기능을 넣어 나만의 주사위 던지기 게임을 만들어 보는 것은 어떨까요?",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 28,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오늘 만들 작품이 있는 페이지에 접속하고(https://goo.gl/LH4z6M) 화면 중앙 시작하기 버튼을 클릭해요.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사람과 컴퓨터가 각각 주사위를 2개씩 갖고 있어요.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "확인 버튼을 눌러봐요.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "어떤 일이 일어나나요?",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "4개의 주사위가 던져지고 무작위로 값이 나와요.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사람과 컴퓨터 주사위의 값은 자동으로 더해져 누가 승리했는지 또는 비겼는지 말해줘요.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "게임을 어떻게 만드는지 알아볼까요? [강의 학습하기]버튼을 클릭해요.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "먼저 필요한 변수를 만들어요.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "4개 주사위 값을 저장할 '사람1, 사람2, 컴퓨터1, 컴퓨터2' 변수를 만들어요.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "주사위 값의 합을 저장할 '사람합, 컴퓨터합' 변수도 만들어요.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "확인 버튼을 누르면 주사위를 던지는 효과가 나타나게 해 볼게요.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "확인 버튼을 클릭하고 [시작]에서 '∼를 클릭했을 때'와 '∼신호 보내고 기다리기' 블록을 가져와요.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이어 '주사위 던지기' 신호를 만들고 그림(1)처럼 코드를 작성해요.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "그림(1)에서 '∼신호 보내고 기다리기' 블록은 신호를 보낸 후 '∼신호를 받았을 때' 아래에 연결된 모든 블록 실행이 끝날 때까지 기다리는 블록이에요.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "확인 버튼을 누르면 주사위가 이 신호를 받아 주사위의 값을 무작위로 정하게 해 볼게요.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "주사위를 클릭하고 [시작]에서 '∼신호를 받았을 때' 블록을 가져와요.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "주사위 방향과 모양이 바뀌도록 [흐름]의 '∼번 반복하기'안에 [움직임]의 '방향을 ∼만큼 회전하기', [생김새]의 '다음 모양으로 바꾸기' 블록을 끼워 넣어요.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "주사위 값이 무작위로 정해지고, 그 값에 맞는 모양을 선택하도록 해볼게요. [자료]에서 '∼를 ∼로 정하기'와 [계산]에서 '∼사이의 무작위 수', [생김새]에서 '∼모양으로 바꾸기' 블록을 가져와 그림(2)처럼 코드를 작성해요.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "나머지 주사위 코드도 그림(2)처럼 하면서 변수값 부분을 수정해 스스로 작성해 볼게요.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "제대로 작성했다면 [시작하기]로 작품을 실행하고 확인 버튼을 누르면 4개 주사위 값이 무작위로 나오는 것을 볼 수 있어요.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "사람과 컴퓨터가 던진 주사위 값을 각각 더하고 비교하게 해 볼게요.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "각 주사위 값을 더하도록 [자료]에서 '∼를 ∼로 정하기'와 '변수값', [계산]에서 '+'블록을 가져와 그림(3)처럼 코드를 작성해 그림(1)에 연결해요.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "사람과 컴퓨터가 던진 주사위 값을 비교하기 위해 [흐름]에서 '만일 ∼이라면 ∼아니면' 블록과 [자료]의 '변수값', [판단]의 '='블록, [생김새]의 '∼을 ∼초 동안 말하기' 블록을 가져와 그림(4)처럼 코드를 작성해요.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "코드(4)는 사람과 컴퓨터가 던진 주사위 값이 같을 때 '비겼어!'라고 말하게 해 줘요.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "사람합의 값이 컴퓨터합 보다 클 때나 작을 때 누가 이겼는지 말해주기 위해 그림(5)처럼 코드를 작성해 그림(3)에 연결해요.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "시작하기를 누르면 변수창이 사라지도록 하는 부분은 학교 강당 배경을 클릭하고 스스로 코드를 작성해봐요.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "드디어 게임이 완성됐어요.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "특정 숫자와 가까우면 이기는 기능을 넣어 나만의 주사위 던지기 게임을 만들어 보는 것은 어떨까요?",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[소프트웨어야 놀자]주사위 던지기 게임",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

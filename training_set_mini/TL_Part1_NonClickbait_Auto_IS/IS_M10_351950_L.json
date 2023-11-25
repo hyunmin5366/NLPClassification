@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351950",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 정책",
+		"newsTitle": "KT 장애에…정부, 정보통신사고 위기 경보 '주의' 발령",
+		"newsSubTitle": "null",
+		"newsContent": "전국적으로 KT 유·무선 인터넷망에 장애가 생긴 25일 정부가 정보통신사고 위기 경보 '주의' 단계를 발령했다.\n과학기술정보통신부는 이날 오전 11시56분을 기해 정보통신사고 위기경보 '주의'를 발령했다고 밝혔다.\n앞서 이날 오전 11시20분부터 KT의 전국 유·무선 서비스가 중단되거나 지연되는 등 대규모 장애가 발생하다 정오쯤부터 일부 지역을 중심으로 장애가 해소되기 시작했다.\n과기정통부에 따르면 KT는 이날 오후 12시45분쯤 서비스 복구를 보고했다.\n다만 과기정통부는 정보통신사고 위기관리 매뉴얼에 따라 정보보호네트워크 정책관을 상황실장으로 '방송통신재난대응상황실'을 구성해 완전한 복구 여부를 확인 중이라고 설명했다.\n과기정통부는 사고 원인에 대해 시스템 오류와 사이버 공격 등 다양한 가능성을 열어두고 관계 전문가들과 심층 조사를 실시 중이라고 밝혔다.\n아울러 KT에 이용자 피해 현황 조사도 지시했다.\n과기정통부는 사고 원인 조사 후 재발방지 대책 등 후속 조치를 마련하겠다고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전국적으로 KT 유·무선 인터넷망에 장애가 생긴 25일 정부가 정보통신사고 위기 경보 '주의' 단계를 발령했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과학기술정보통신부는 이날 오전 11시56분을 기해 정보통신사고 위기경보 '주의'를 발령했다고 밝혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 이날 오전 11시20분부터 KT의 전국 유·무선 서비스가 중단되거나 지연되는 등 대규모 장애가 발생하다 정오쯤부터 일부 지역을 중심으로 장애가 해소되기 시작했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "과기정통부에 따르면 KT는 이날 오후 12시45분쯤 서비스 복구를 보고했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만 과기정통부는 정보통신사고 위기관리 매뉴얼에 따라 정보보호네트워크 정책관을 상황실장으로 '방송통신재난대응상황실'을 구성해 완전한 복구 여부를 확인 중이라고 설명했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "과기정통부는 사고 원인에 대해 시스템 오류와 사이버 공격 등 다양한 가능성을 열어두고 관계 전문가들과 심층 조사를 실시 중이라고 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아울러 KT에 이용자 피해 현황 조사도 지시했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "과기정통부는 사고 원인 조사 후 재발방지 대책 등 후속 조치를 마련하겠다고 덧붙였다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT 장애에…정부, 정보통신사고 위기 경보 '주의' 발령",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

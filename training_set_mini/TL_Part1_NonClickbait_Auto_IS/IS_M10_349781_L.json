@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349781",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"가짜뉴스 막는다\\\" 네이버 뉴스 '팩트체크' 기능 강화",
+		"newsSubTitle": "null",
+		"newsContent": "네이버가 허위 정보, 가짜 뉴스의 확산을 막고 이용자에게 신뢰성 높은 정보를 제공하기 위해 '팩트체크' 표기를 강화한다고 30일 밝혔다.\n네이버 뉴스는 2018년부터 언론사들이 이슈가 되는 사안에 대해 독립적으로 취재해 검증한 결과를 모아볼 수 있는 'SNU 팩트체크 서비스'를 제공하고 있다.\nSNU 팩트체크 서비스는 서울대학교 언론정보연구소가 30개 언론사들의 자율적이고 독립적인 검증 과정을 거친 결과를 게시하는 플랫폼이다.\n팩트체크에 참여하는 언론사는 다양한 근거자료를 활용해 검증 대상을 △사실 △대체로 사실 △절반의 사실 △대체로 사실 아님 △전혀 사실 아님 △판단 유보 총 6단계로 판정한다.\n네이버 뉴스는 2019년 4월부터 기사 본문 아래에도 팩트체크 정보를 제공했고, 지난해 3월에는 코로나19, 코로나백신 등 특정 주제와 관련한 팩트체크를 모아서 확인할 수 있도록 서비스했다.\n네이버 관계자는 \\\"지난 29일부터는 검색 영역에서 팩트체크 관련 기사가 노출될 경우 이와 관련한 팩트체크 정보를 노출한다\\\"며 \\\"보다 신뢰성 높은 정보를 이용자에게 제공하기 위해 노력하고 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 허위 정보, 가짜 뉴스의 확산을 막고 이용자에게 신뢰성 높은 정보를 제공하기 위해 '팩트체크' 표기를 강화한다고 30일 밝혔다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버 뉴스는 2018년부터 언론사들이 이슈가 되는 사안에 대해 독립적으로 취재해 검증한 결과를 모아볼 수 있는 'SNU 팩트체크 서비스'를 제공하고 있다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SNU 팩트체크 서비스는 서울대학교 언론정보연구소가 30개 언론사들의 자율적이고 독립적인 검증 과정을 거친 결과를 게시하는 플랫폼이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "팩트체크에 참여하는 언론사는 다양한 근거자료를 활용해 검증 대상을 △사실 △대체로 사실 △절반의 사실 △대체로 사실 아님 △전혀 사실 아님 △판단 유보 총 6단계로 판정한다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "네이버 뉴스는 2019년 4월부터 기사 본문 아래에도 팩트체크 정보를 제공했고, 지난해 3월에는 코로나19, 코로나백신 등 특정 주제와 관련한 팩트체크를 모아서 확인할 수 있도록 서비스했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네이버 관계자는 \\\"지난 29일부터는 검색 영역에서 팩트체크 관련 기사가 노출될 경우 이와 관련한 팩트체크 정보를 노출한다\\\"며 \\\"보다 신뢰성 높은 정보를 이용자에게 제공하기 위해 노력하고 있다\\\"고 말했다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"가짜뉴스 막는다\\\" 네이버 뉴스 '팩트체크' 기능 강화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

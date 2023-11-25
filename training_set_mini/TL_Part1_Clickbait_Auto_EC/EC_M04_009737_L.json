@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009737",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "대전 전셋값 나홀로 하락",
+		"newsSubTitle": "아파트 매매는 일주일만에 보합세 전환",
+		"newsContent": "오름세를 보였던 대전의 아파트 매매가와 전셋값이 1주일만에 다시 하락세로 반전됐다.\n반면에 충남·북의 아파트 매매가와 전셋값은 상승세를 이어갔다.\n26일 KB국민은행의 주간 아파트 가격동향에 따르면 지난주 전국의 아파트 매매가와 전셋값은 전주대비 각각 0.1% 상승했다.\n매매가는 4주 연속·전셋값은 6주 연속 소폭의 오름세를 보였다.\n같은기간 대전의 아파트 매매가는 전주 0.1% 상승에서 보합세로 돌아섰고, 전셋값도 전국에서 나홀로 0.1% 하락했다.\n충남의 아파트 매매가와 전셋값은 전주보다 각각 0.2% 상승했고, 충북도 각각 0.2% 오르며 상승세를 이어갔다.\n대전의 지역별 아파트 매매가는 중구·대덕구가 전주에 비해 0.1% 올랐고 동구는 보합, 서구·유성구는 각각 0.1% 하락했다.\n유성의 아파트 매매가는 전년말 대비 1.1%나 떨어졌다.\n전셋값은 동구와 중구가 보합세를 보인 가운데 서구·대덕구는 0.1%, 0.3% 하락했다.\n특히 유성구는 전국에서 유일하게 전주대비 무려 1.0% 떨어졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오름세를 보였던 대전의 아파트 매매가와 전셋값이 1주일만에 다시 하락세로 반전됐다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "반면에 충남·북의 아파트 매매가와 전셋값은 상승세를 이어갔다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "26일 KB국민은행의 주간 아파트 가격동향에 따르면 지난주 전국의 아파트 매매가와 전셋값은 전주대비 각각 0.1% 상승했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "매매가는 4주 연속·전셋값은 6주 연속 소폭의 오름세를 보였다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "같은기간 대전의 아파트 매매가는 전주 0.1% 상승에서 보합세로 돌아섰고, 전셋값도 전국에서 나홀로 0.1% 하락했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "충남의 아파트 매매가와 전셋값은 전주보다 각각 0.2% 상승했고, 충북도 각각 0.2% 오르며 상승세를 이어갔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대전의 지역별 아파트 매매가는 중구·대덕구가 전주에 비해 0.1% 올랐고 동구는 보합, 서구·유성구는 각각 0.1% 하락했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "유성의 아파트 매매가는 전년말 대비 1.1%나 떨어졌다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "전셋값은 동구와 중구가 보합세를 보인 가운데 서구·대덕구는 0.1%, 0.3% 하락했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특히 유성구는 전국에서 유일하게 전주대비 무려 1.0% 떨어졌다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'널뛰기하는 코스피'…연저점 경신 후, 2350선 회복",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

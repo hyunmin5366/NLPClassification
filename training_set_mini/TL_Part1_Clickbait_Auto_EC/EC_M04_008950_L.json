@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008950",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "세종시 아파트용지 무더기 유찰",
+		"newsSubTitle": "13필지 중 1필지만 팔려",
+		"newsContent": "매각에 나왔던 세종시 공동주택용지가 무더기로 유찰됐다.\n13필지 중 1필지만 팔렸을 뿐, 나머지 12필지는 주인을 찾지 못했다.\n한국토지주택공사(LH) 세종시본부에 따르면 25일 세종시 1생활권 공동주택용지 13필지 매각을 위한 추첨 및 입찰실시결과 1-4생활권 M1블록(414세대) 1필지만 2개 업체가 추첨에 참여해 낙찰됐다.\nM1블록 낙찰자는 광주의 모아주택으로 밝혀졌다.\nLH 세종시본부 관계자는 “최근 부동산시장이 냉각된데다 9, 10월 신규 분양을 앞두고 있어 건설사들이 이를 지켜본 뒤 참여여부를 결정할 것으로 본다”고 말했다.\nLH는 이번에 유찰된 공동주택용지 12필지 중 추첨필지 4곳에 대해 9월 1일부터 선착순 수의계약에 나설 방침이다.\n입찰로 나와 유찰된 8필지는 다음달 1일 재입찰공고를 거쳐 입찰 할 계획이다.\n주택건설업계 관계자는 “미국발 금융위기로 건설사들이 움추러들고 있는 게 사실이다”면서 “이같은 현상은 한동안 지속될 것으로 예상된다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "매각에 나왔던 세종시 공동주택용지가 무더기로 유찰됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13필지 중 1필지만 팔렸을 뿐, 나머지 12필지는 주인을 찾지 못했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국토지주택공사(LH) 세종시본부에 따르면 25일 세종시 1생활권 공동주택용지 13필지 매각을 위한 추첨 및 입찰실시결과 1-4생활권 M1블록(414세대) 1필지만 2개 업체가 추첨에 참여해 낙찰됐다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "M1블록 낙찰자는 광주의 모아주택으로 밝혀졌다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LH 세종시본부 관계자는 “최근 부동산시장이 냉각된데다 9, 10월 신규 분양을 앞두고 있어 건설사들이 이를 지켜본 뒤 참여여부를 결정할 것으로 본다”고 말했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LH는 이번에 유찰된 공동주택용지 12필지 중 추첨필지 4곳에 대해 9월 1일부터 선착순 수의계약에 나설 방침이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "입찰로 나와 유찰된 8필지는 다음달 1일 재입찰공고를 거쳐 입찰 할 계획이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "주택건설업계 관계자는 “미국발 금융위기로 건설사들이 움추러들고 있는 게 사실이다”면서 “이같은 현상은 한동안 지속될 것으로 예상된다”고 말했다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"청정수소 대량생산에 원전 필요\\\"…정부에 엇박자 낸 한전 계열사",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

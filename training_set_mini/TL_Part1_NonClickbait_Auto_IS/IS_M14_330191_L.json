@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330191",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "KETI, 하반기 기업 수요 맞춤형 교육 사업…유니티입문 과정 등 14개 과정진행",
+		"newsSubTitle": "",
+		"newsContent": "한국전자기술연구원(KETI)은 고용노동부 '국가인적자원개발 컨소시엄 기업수요 맞춤형 사업' 운영기관으로 IT융합시스템 분야 기업 재직 엔지니어의 기술직무역량 향상을 위해 22년도 하반기 훈련일정을 실시한다고 4일 밝혔다.\n22년도 하반기 교육과정은 14개 과정으로, △유니티(Unity)입문과정 △실감콘텐츠 구현을 위한 유니티 가상현실(VR)과정 △실감콘텐츠 구현을 위한 유니티 증강현실(AR)과정 △실감콘텐츠 구현을 위한 유니티 혼합현실(MR) 과정 △미디어데이터·미디어라이브러리 관리 △모션캡처 데이터를 사용하기 위한 3D캐릭터 셋업 △언리얼(Unreal)과 Vp프로를 활용한 확장현실(XR) 영상 제작 등이다.\n또한, △사진을 이용한 3D모델 제작 △GOLANG을 이용한 빅데이터 수집시스템 △젯슨(Jetson) 나노(Nano)와 오픈 CV기반 지능형 컴퓨터 비전 △4차 산업혁명 핵심 스마트센서 이론·공정·평가 기술 기초 교육 △엣지 플랫폼 및 LoRa 통신기반 IoT 제품서비스 개발 △IoT 오픈 플랫폼 기반 제품서비스 개발 △파이토치(Pytorch)로 배우는 젯슨 나노 임베디드 CNN 기초 등이다.\n참가비는 무료며 교육대상은 고용보험료를 납부하는 중소·벤처기업 재직근로자다.\n수업은 한국전자기술연구원 본원(성남) 창업동 교육장에서 진행되며 전체 교육시간 기준 80% 이상 수강 시 수료증 발급이 가능하다.\n문의는 한국전자기술연구원 공동훈련센터 기업수요맞춤형 사업팀으로 하면 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전자기술연구원(KETI)은 고용노동부 '국가인적자원개발 컨소시엄 기업수요 맞춤형 사업' 운영기관으로 IT융합시스템 분야 기업 재직 엔지니어의 기술직무역량 향상을 위해 22년도 하반기 훈련일정을 실시한다고 4일 밝혔다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22년도 하반기 교육과정은 14개 과정으로, △유니티(Unity)입문과정 △실감콘텐츠 구현을 위한 유니티 가상현실(VR)과정 △실감콘텐츠 구현을 위한 유니티 증강현실(AR)과정 △실감콘텐츠 구현을 위한 유니티 혼합현실(MR) 과정 △미디어데이터·미디어라이브러리 관리 △모션캡처 데이터를 사용하기 위한 3D캐릭터 셋업 △언리얼(Unreal)과 Vp프로를 활용한 확장현실(XR) 영상 제작 등이다.",
+				"sentenceSize": 220
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또한, △사진을 이용한 3D모델 제작 △GOLANG을 이용한 빅데이터 수집시스템 △젯슨(Jetson) 나노(Nano)와 오픈 CV기반 지능형 컴퓨터 비전 △4차 산업혁명 핵심 스마트센서 이론·공정·평가 기술 기초 교육 △엣지 플랫폼 및 LoRa 통신기반 IoT 제품서비스 개발 △IoT 오픈 플랫폼 기반 제품서비스 개발 △파이토치(Pytorch)로 배우는 젯슨 나노 임베디드 CNN 기초 등이다.",
+				"sentenceSize": 221
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "참가비는 무료며 교육대상은 고용보험료를 납부하는 중소·벤처기업 재직근로자다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "수업은 한국전자기술연구원 본원(성남) 창업동 교육장에서 진행되며 전체 교육시간 기준 80% 이상 수강 시 수료증 발급이 가능하다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "문의는 한국전자기술연구원 공동훈련센터 기업수요맞춤형 사업팀으로 하면 된다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KETI, 하반기 기업 수요 맞춤형 교육 사업…유니티입문 과정 등 14개 과정진행",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

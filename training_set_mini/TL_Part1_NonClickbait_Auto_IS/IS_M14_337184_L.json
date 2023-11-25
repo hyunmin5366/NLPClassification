@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337184",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "애플 “아이폰X 벨소리 울릴 때 화면 먹통 현상··· 원인 파악 중”",
+		"newsSubTitle": "",
+		"newsContent": "애플 아이폰X(텐)에 전화가 걸려오면 화면이 멈추는 현상이 잇달아 발생, 애플이 원인 파악에 착수했다.\n파이낸셜타임스는 아이폰X에 전화벨이 울린 이후부터 6~8초 동안 화면이 먹통되는 현상에 대한 이용자 불만이 잇달아 제기됐다고 보도했다.\n아이폰X 이용자는 애플 홈페이지에 \\\"아이폰X에 전화가 걸려와 벨소리가 울리기 시작했지만 화면에는 6~8초 후에 표시됐다\\\"면서 \\\"기기를 재부팅했지만 아무 소용이 없다\\\"고 불만을 표시했다.\n나인투파이브맥도 이 같은 내용을 보도하며 트위터(SNS)∙레딧(커뮤니티) 등에 동일 문제를 제기한 이용자가 12명이라고 소개했다.\n아이폰X 이용자는 \\\"(먹통 현상 이후) 애플 서비스센터를 방문, 새 제품으로 교환했다\\\"면서 \\\"애플은 소비자 불편을 야기한 점에 대해 충분히 보상해야 한다\\\"고 주장했다.\n아이폰X에 전화가 걸려올 때, 화면이 먹통 되는 현상에 대한 원인은 밝혀지지 않았다.\n외신은 소프트웨어 문제인지, 하드웨어 문제인지 여부도 불명확하다고 전했다.\n애플은 \\\"해당 보고서 내용을 파악 중\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플 아이폰X(텐)에 전화가 걸려오면 화면이 멈추는 현상이 잇달아 발생, 애플이 원인 파악에 착수했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "파이낸셜타임스는 아이폰X에 전화벨이 울린 이후부터 6~8초 동안 화면이 먹통되는 현상에 대한 이용자 불만이 잇달아 제기됐다고 보도했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이폰X 이용자는 애플 홈페이지에 \\\"아이폰X에 전화가 걸려와 벨소리가 울리기 시작했지만 화면에는 6~8초 후에 표시됐다\\\"면서 \\\"기기를 재부팅했지만 아무 소용이 없다\\\"고 불만을 표시했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "나인투파이브맥도 이 같은 내용을 보도하며 트위터(SNS)∙레딧(커뮤니티) 등에 동일 문제를 제기한 이용자가 12명이라고 소개했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아이폰X 이용자는 \\\"(먹통 현상 이후) 애플 서비스센터를 방문, 새 제품으로 교환했다\\\"면서 \\\"애플은 소비자 불편을 야기한 점에 대해 충분히 보상해야 한다\\\"고 주장했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이폰X에 전화가 걸려올 때, 화면이 먹통 되는 현상에 대한 원인은 밝혀지지 않았다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "외신은 소프트웨어 문제인지, 하드웨어 문제인지 여부도 불명확하다고 전했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "애플은 \\\"해당 보고서 내용을 파악 중\\\"이라고 밝혔다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플 “아이폰X 벨소리 울릴 때 화면 먹통 현상··· 원인 파악 중”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012232",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "'외국인 매도' 코스피 2020선 후퇴",
+		"newsSubTitle": "전거래일보다 14.25p 하락",
+		"newsContent": "코스피 지수가 외국인 매도 공세로 2020선으로 후퇴했다.\n11일 코스피 지수는 전거래일보다 14.25포인트(0.70%) 하락한 2025.17로 장을 마감했다.\n개인과 기관이 1515억원, 370억원을 각각 매수했지만, 외국인이 1거래일만에 1819억원 순매도하며 지수하락을 부추겼다.\n코스닥 지수는 전 거래일대비 1.10포인트(0.21%) 떨어진 533.64로 거래를 마쳤다.\n개인이 262억원 매수했고, 외국인과 기관은 146억원, 145억원 순매도했다.\n서울 외환시장에서 원·달러 환율은 2.20원(0.21%) 오른 1062.90원을 기록했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피 지수가 외국인 매도 공세로 2020선으로 후퇴했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 코스피 지수는 전거래일보다 14.25포인트(0.70%) 하락한 2025.17로 장을 마감했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개인과 기관이 1515억원, 370억원을 각각 매수했지만, 외국인이 1거래일만에 1819억원 순매도하며 지수하락을 부추겼다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코스닥 지수는 전 거래일대비 1.10포인트(0.21%) 떨어진 533.64로 거래를 마쳤다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개인이 262억원 매수했고, 외국인과 기관은 146억원, 145억원 순매도했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서울 외환시장에서 원·달러 환율은 2.20원(0.21%) 오른 1062.90원을 기록했다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'리스크 늪'에 빠진 카카오페이, 머나 먼 정상궤도",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

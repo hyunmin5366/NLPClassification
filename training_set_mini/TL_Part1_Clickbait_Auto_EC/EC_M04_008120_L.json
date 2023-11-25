@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008120",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전저축銀 가지급금 오늘부터 지급 개시",
+		"newsSubTitle": "",
+		"newsContent": "영업정지된 대전상호저축은행 예금자들은 2일부터 가지급금을 받을 수 있다.\n예금보험공사는 1일 대전저축은행과 모기업인 부산저축은행 등 영업정지 처분을 받은 저축은행 예금자를 대상으로 한 달간 가지급금 형태로 최대 2000만원의 예금을 지급한다고 밝혔다.\n예금자들은 이날 오전 9시부터 거래통장과 이체할 은행 통장, 주민등록증 등을 소지하고 저축은행 본점이나 지점을 방문해 가지급금을 신청할 수 있다.\n예보 홈페이지(www.kdic.or.kr)에 접속해 주민등록번호와 이름을 입력하고 공인인증서를 이용해도 신청이 가능하다.\n부산저축은행과 대전저축은행의 가지급금 신청 예금자 수는 각각 13만 명과 5만8000명으로 집계됐다.\n예금자는 1개월간의 가지급 신청 기간에 예금액 중에서 대출을 빼고 2000만원까지 예금 원금만 찾을 수 있다.\n부산과 대전저축은행의 예금자들이 모두 가지급금을 한도까지 신청하면 지급 총액은 각각 1조8000억원과 7000억원 등 모두 2조5000억원에 이른다.\n하지만, 이자는 저축은행이 자체 정상화하거나 자산·부채 이전(P&A) 방식으로 인수돼야 나머지 원금과 함께 받을 수 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영업정지된 대전상호저축은행 예금자들은 2일부터 가지급금을 받을 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "예금보험공사는 1일 대전저축은행과 모기업인 부산저축은행 등 영업정지 처분을 받은 저축은행 예금자를 대상으로 한 달간 가지급금 형태로 최대 2000만원의 예금을 지급한다고 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "예금자들은 이날 오전 9시부터 거래통장과 이체할 은행 통장, 주민등록증 등을 소지하고 저축은행 본점이나 지점을 방문해 가지급금을 신청할 수 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "예보 홈페이지(www.kdic.or.kr)에 접속해 주민등록번호와 이름을 입력하고 공인인증서를 이용해도 신청이 가능하다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "부산저축은행과 대전저축은행의 가지급금 신청 예금자 수는 각각 13만 명과 5만8000명으로 집계됐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예금자는 1개월간의 가지급 신청 기간에 예금액 중에서 대출을 빼고 2000만원까지 예금 원금만 찾을 수 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "부산과 대전저축은행의 예금자들이 모두 가지급금을 한도까지 신청하면 지급 총액은 각각 1조8000억원과 7000억원 등 모두 2조5000억원에 이른다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하지만, 이자는 저축은행이 자체 정상화하거나 자산·부채 이전(P&A) 방식으로 인수돼야 나머지 원금과 함께 받을 수 있다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "치솟는 원자재값... 납품가 제자리",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_033550",
+		"newsCategory": "연예",
+		"newsSubcategory": "영화",
+		"newsTitle": "[매거진M] 美 모욕 코미디의 전설 돈 리클스, 6일 별세",
+		"newsSubTitle": "",
+		"newsContent": "미국 코미디언이자 영화 배우인 돈 리클스가 6일(현지시간) 지병인 신장질환 악화로 별세했다.\n향년 90세. 뉴욕 태생인 돈 리클스는 '토이 스토리' 시리즈(1995~2019)에서 미스터 포테이토 헤드 목소리 역으로 우리에게 익숙하다.\n그는 '비치 블랑코 빙고'(1965, 윌리엄 아셔 감독) '못말리는 해결사'(1998, 밥 사겟 감독)등 수 많은 작품에서 존재감 넘치는 열연을 펼쳤지만 특히 유명인을 풍자하는 연기로 큰 사랑을 받았다.\n대통령을 포함해 동료 연예인이나 명사도 그의 거친 입을 피해갈 수 없었다.\n하지만 팬들은 그를 '미스터 웜스(Mr. Warmth)'라 불렀다.\n현재 수 많은 영화인들과 배우들이 돈 리크를스를 위한 추모 메세지를 전하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 코미디언이자 영화 배우인 돈 리클스가 6일(현지시간) 지병인 신장질환 악화로 별세했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "향년 90세. 뉴욕 태생인 돈 리클스는 '토이 스토리' 시리즈(1995~2019)에서 미스터 포테이토 헤드 목소리 역으로 우리에게 익숙하다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그는 '비치 블랑코 빙고'(1965, 윌리엄 아셔 감독) '못말리는 해결사'(1998, 밥 사겟 감독)등 수 많은 작품에서 존재감 넘치는 열연을 펼쳤지만 특히 유명인을 풍자하는 연기로 큰 사랑을 받았다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대통령을 포함해 동료 연예인이나 명사도 그의 거친 입을 피해갈 수 없었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 팬들은 그를 '미스터 웜스(Mr. Warmth)'라 불렀다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 수 많은 영화인들과 배우들이 돈 리크를스를 위한 추모 메세지를 전하고 있다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"송가연 전속계약 파괴 책임, 수박E&M에게 있어\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

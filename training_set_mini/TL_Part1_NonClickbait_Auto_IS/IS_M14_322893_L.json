@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322893",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "머천드코리아, 알뜰폰+K-뷰티 '마이제휴 363' 요금제 출시",
+		"newsSubTitle": "",
+		"newsContent": "머천드코리아가 코리아나와 알뜰폰과 뷰티를 결합한 알뜰폰 요금제를 출시했다.\n머천드코리아가 선보인 요금제는 '마이제휴 363'으로, 월 3만6300원 선불요금제다.\n음성과 문자, 데이터를 무제한 제공하고, 판매가 13만9000원 코리아나 화장품을 6개월마다 증정하는 제휴 요금제다.\n양사는 저렴한 통신비와 수준 높은 K-뷰티를 결합·제공함으로써 신규 가입자는 물론 기존 고객 만족도를 높일 수 있을 것으로 기대했다.\n앞으로도 고객 수요와 데이터 패턴을 기반으로 새로운 제휴 모델을 발굴할 방침이다.\n이승훈 머천드코리아 부사장은 “6개월간 마이제휴 363 요금제를 사용하면 사실상 월 1만 3130원에 이용하는 것이나 다름 없다”며 “한국만의 정체성을 보유한 다양한 상품과 연계한 합리적 요금제를 지속 출시할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "머천드코리아가 코리아나와 알뜰폰과 뷰티를 결합한 알뜰폰 요금제를 출시했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "머천드코리아가 선보인 요금제는 '마이제휴 363'으로, 월 3만6300원 선불요금제다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "음성과 문자, 데이터를 무제한 제공하고, 판매가 13만9000원 코리아나 화장품을 6개월마다 증정하는 제휴 요금제다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "양사는 저렴한 통신비와 수준 높은 K-뷰티를 결합·제공함으로써 신규 가입자는 물론 기존 고객 만족도를 높일 수 있을 것으로 기대했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞으로도 고객 수요와 데이터 패턴을 기반으로 새로운 제휴 모델을 발굴할 방침이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이승훈 머천드코리아 부사장은 “6개월간 마이제휴 363 요금제를 사용하면 사실상 월 1만 3130원에 이용하는 것이나 다름 없다”며 “한국만의 정체성을 보유한 다양한 상품과 연계한 합리적 요금제를 지속 출시할 것”이라고 말했다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "머천드코리아, 알뜰폰+K-뷰티 '마이제휴 363' 요금제 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

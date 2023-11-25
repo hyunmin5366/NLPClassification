@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007570",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "지하수 폐암물질 '라돈' 제거기술 개발",
+		"newsSubTitle": "지질연 이길용 박사팀 “무동력·친환경 장치 장점”",
+		"newsContent": "지하수에 들어 있는 폐암 원인물질인 '라돈'을 손쉽게 제거할 수 있는 기술이 국내 연구진에 의해 개발됐다.\n한국지질자원연구원은 지구환경연구본부 지하수연구실 이길용 박사팀이 지하수에 들어 있는 라돈을 제거할 수 있는 '무동력 지하수 라돈 저감시스템(Radon Free System, RFS)'을 개발했다고 6일 밝혔다.\n이 시스템은 지하수가 물탱크로 들어갈 때의 수압을 이용해 수차를 돌리고 수차의 회전력으로 환풍기를 작동시킴으로써 지하수 속의 라돈을 공기중으로 방출시키는 원리가 적용됐다.\n외부의 전력 공급이 필요없는 무동력장치로 친환경적일 뿐 아니라 시설비가 적게 들어 경제적이라고 연구팀은 설명했다.\n기존의 지하수 라돈 제거장치는 전력공급이 필요하고 시설비와 유지비가 많이든다는 단점이 있었다.\n연구팀은 논산시 상하수도사업소의 협조를 얻어 지난 1년 6개월간 실제 라돈 농도가 높은 마을상수도 시설에서 현장 시험을 수행해 최소 80%의 라돈 저감효율이 있다는 사실을 입증했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지하수에 들어 있는 폐암 원인물질인 '라돈'을 손쉽게 제거할 수 있는 기술이 국내 연구진에 의해 개발됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국지질자원연구원은 지구환경연구본부 지하수연구실 이길용 박사팀이 지하수에 들어 있는 라돈을 제거할 수 있는 '무동력 지하수 라돈 저감시스템(Radon Free System, RFS)'을 개발했다고 6일 밝혔다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 시스템은 지하수가 물탱크로 들어갈 때의 수압을 이용해 수차를 돌리고 수차의 회전력으로 환풍기를 작동시킴으로써 지하수 속의 라돈을 공기중으로 방출시키는 원리가 적용됐다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "외부의 전력 공급이 필요없는 무동력장치로 친환경적일 뿐 아니라 시설비가 적게 들어 경제적이라고 연구팀은 설명했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기존의 지하수 라돈 제거장치는 전력공급이 필요하고 시설비와 유지비가 많이든다는 단점이 있었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구팀은 논산시 상하수도사업소의 협조를 얻어 지난 1년 6개월간 실제 라돈 농도가 높은 마을상수도 시설에서 현장 시험을 수행해 최소 80%의 라돈 저감효율이 있다는 사실을 입증했다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'동작침법' 급성요통에 특효",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

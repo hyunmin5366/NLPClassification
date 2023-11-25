@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004957",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "현대차 러시아공장, 5일까지 운영 중단",
+		"newsSubTitle": "우크라이나사태 따른 공급난 때문인 것으로",
+		"newsContent": "러시아 현대자동차 공장 운영이 오는 5일까지 중단된다.\n1일 러시아 인테르팍스 등 외신에 따르면 최근 상트페테르부르크 현대차 러시아 대표사무소 관계자는 공장이 일시적으로 생산을 중단한다고 전했다.\n중단사유는 러시아와 우크라이나간 대치로 인한 글로벌 공급난에 따른 부품 부족인 것으로 알려졌다.\n현대차 현지공장의 지난 2021년 기준 생산량은 23만대다.\n서방세계의 러시아 경제 및 금융 제재가 지속될 경우 셧다운 기간은 장기화될 수도 있을 전망이다.\n현대차 측은 러시아공장 가동 중단과 관련한 입장은 밝히지 않았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "러시아 현대자동차 공장 운영이 오는 5일까지 중단된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 러시아 인테르팍스 등 외신에 따르면 최근 상트페테르부르크 현대차 러시아 대표사무소 관계자는 공장이 일시적으로 생산을 중단한다고 전했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "중단사유는 러시아와 우크라이나간 대치로 인한 글로벌 공급난에 따른 부품 부족인 것으로 알려졌다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현대차 현지공장의 지난 2021년 기준 생산량은 23만대다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서방세계의 러시아 경제 및 금융 제재가 지속될 경우 셧다운 기간은 장기화될 수도 있을 전망이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현대차 측은 러시아공장 가동 중단과 관련한 입장은 밝히지 않았다.",
+				"sentenceSize": 36
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "빚으로 버틴 빚투·영끌족, 대출중단·한도축소·금리인상 3중고(종합)",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

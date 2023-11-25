@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337381",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "日 스미토모, 한국서 ArFi 포토레지스트 생산…\\\"2024년 가동\\\"",
+		"newsSubTitle": "",
+		"newsContent": "스미토모화학이 한국에 불화아르곤 이머전(ArFi) 포토레지스트 공장을 짓는다.\n스미토모화학은 31일 보도자료를 내고 동우화인켐 익산 공장에 ArFi 포토레지스트 생산라인을 신설하겠다고 밝혔다.\n동우화인켐은 스미토모화학 100% 자회사다.\n스미토모는 회계연도 기준 2024년 상반기에 신설 공장을 가동할 계획이라고 밝혔다.\n투자규모, 생산능력 등은 공개하지 않았다.\n포토레지스트(PR)는 빛으로 회로를 만들어내는 노광 공정에 필수로 사용되는 소재다.\n불화크립톤(KrF), 불화아르곤(ArF), 극자외선(EUV) 등 광원에 따라 PR도 다르다.\nArF 노광은 웨이퍼에 도달하는 빛의 굴절을 위해 공기를 사용하는 드라이 방식과 빛 굴절률이 높은 액체를 사용하는 이머전 방식이 있는데, 스미토모화학이 양산하는 건 이머전 PR이다.\n스미토모가 ArFi PR을 한국서 생산하는 건 처음이다.\n2019년 일본 정부의 수출규제 이후 삼성전자와 SK하이닉스가 공급망 안정화를 위해 소재 국산화 및 공급선 다변화를 추진하면서 스미토모도 한국 내 생산을 결정한 것으로 보인다.\n스미토모에 앞서 TOK는 인천 송도로 EUV PR 생산 거점을 옮겼고, 듀폰도 한국에 EUV PR 공장을 짓기로 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스미토모화학이 한국에 불화아르곤 이머전(ArFi) 포토레지스트 공장을 짓는다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스미토모화학은 31일 보도자료를 내고 동우화인켐 익산 공장에 ArFi 포토레지스트 생산라인을 신설하겠다고 밝혔다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "동우화인켐은 스미토모화학 100% 자회사다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스미토모는 회계연도 기준 2024년 상반기에 신설 공장을 가동할 계획이라고 밝혔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "투자규모, 생산능력 등은 공개하지 않았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "포토레지스트(PR)는 빛으로 회로를 만들어내는 노광 공정에 필수로 사용되는 소재다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "불화크립톤(KrF), 불화아르곤(ArF), 극자외선(EUV) 등 광원에 따라 PR도 다르다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "ArF 노광은 웨이퍼에 도달하는 빛의 굴절을 위해 공기를 사용하는 드라이 방식과 빛 굴절률이 높은 액체를 사용하는 이머전 방식이 있는데, 스미토모화학이 양산하는 건 이머전 PR이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "스미토모가 ArFi PR을 한국서 생산하는 건 처음이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "2019년 일본 정부의 수출규제 이후 삼성전자와 SK하이닉스가 공급망 안정화를 위해 소재 국산화 및 공급선 다변화를 추진하면서 스미토모도 한국 내 생산을 결정한 것으로 보인다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "스미토모에 앞서 TOK는 인천 송도로 EUV PR 생산 거점을 옮겼고, 듀폰도 한국에 EUV PR 공장을 짓기로 했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "日 스미토모, 한국서 ArFi 포토레지스트 생산…\\\"2024년 가동\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

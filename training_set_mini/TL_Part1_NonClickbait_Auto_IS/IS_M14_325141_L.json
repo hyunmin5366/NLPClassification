@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325141",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "에너지산업",
+		"newsTitle": "SK이노베이션, '코로나 블루' 극복 유튜브 퀴즈쇼",
+		"newsSubTitle": "",
+		"newsContent": "SK이노베이션은 코로나19로 인한 일명 '코로나 블루'(우울감)를 극복하기 위해 유튜브 생방송 퀴즈쇼 '식후땡'을 진행하고 있다고 25일 밝혔다.\nSK이노베이션 구성원들은 지난달 17일부터 매주 금요일 유튜브에서 생방송으로 식후땡 퀴즈쇼를 시청한다.\n코로나로 인한 재택근무와 장마가 장기간 지속하면서 구성원간 소통의 부재 극복을 위해 마련됐다.\n식후땡 퀴즈쇼는 구성원들의 호응 덕분에 4회차부터 정규 방송으로 편성됐다.\n최근 코로나19 재확산으로 회사가 재택근무에 돌입하며 식후땡 퀴즈쇼는 잠시 중단된 상태지만, 다시 방송할 예정이다.\n식후땡 프로그램을 진행하는 한 구성원은 “유쾌한 온라인 놀이터로서의 역할을 다할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK이노베이션은 코로나19로 인한 일명 '코로나 블루'(우울감)를 극복하기 위해 유튜브 생방송 퀴즈쇼 '식후땡'을 진행하고 있다고 25일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SK이노베이션 구성원들은 지난달 17일부터 매주 금요일 유튜브에서 생방송으로 식후땡 퀴즈쇼를 시청한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코로나로 인한 재택근무와 장마가 장기간 지속하면서 구성원간 소통의 부재 극복을 위해 마련됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "식후땡 퀴즈쇼는 구성원들의 호응 덕분에 4회차부터 정규 방송으로 편성됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 코로나19 재확산으로 회사가 재택근무에 돌입하며 식후땡 퀴즈쇼는 잠시 중단된 상태지만, 다시 방송할 예정이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "식후땡 프로그램을 진행하는 한 구성원은 “유쾌한 온라인 놀이터로서의 역할을 다할 것”이라고 말했다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SK이노베이션, '코로나 블루' 극복 유튜브 퀴즈쇼",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

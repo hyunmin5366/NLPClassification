@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328538",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "AI 핵심 '데이터' AI용 데이터 구축 밑그림 마련한다",
+		"newsSubTitle": "",
+		"newsContent": "정부가 인공지능(AI) 학습용 데이터셋 구축 전략을 마련한다.\n민간에 양질 데이터를 제공해 AI 기술력과 응용 서비스 개발을 지원한다.\n한국정보화진흥원(NIA)은 AI 데이터 구축·활용 중장기 전략 수립을 위한 컨설팅 사업을 한다.\nAI 기술과 응용서비스 개발은 활용가치가 높은 데이터 확보가 중요하다.\n어떤 데이터를 얼마나 확보하느냐에 따라 AI 학습 정도가 나뉜다.\n이미 해외 주요국과 기업은 AI 학습용 데이터 확보에 주력한다.\n구글은 900만장 객체인식 데이터를, 마이크로소프트는 안면인식 이미지 10만장을 확보했다.\n중국은 텍스트, 음성, 이미지, 영상 등 AI 학습용 데이터 셋(묶음)을 구축했다.\n영국도 공공 데이터를 AI 학습에 적합한 포맷으로 개방한다.\nNIA는 상반기 컨설팅 사업을 바탕으로 향후 5년간 AI 학습용 데이터 구축과 활성화를 위한 발전전략을 연내 수립한다.\n우선 국내외 기술·분야별 AI 데이터 구축·활용 현황을 분석한다.\n산업계와 전문가 대상 기술과분야별 AI 데이터 구축 수요를 조사한다.\n기술·분야별 AI 데이터 구축 우선순위와 중요도를 비교 분석해 세부 이행 계획 수립 근거자료로 활용한다.\nAI 학습용 데이터 구축 단계별(단기·중기·장기) 전략과제를 발굴한다.\n과제별 필요성과 현황, 세부 내용, 이행방안을 제시한다.\nAI 학습용 데이터는 단방향이 아닌 양방향으로 이용하도록 구성한다.\n현재 AI 학습용 데이터 확산을 위해 단방향 데이터셋 제공 체계인 'AI 허브'를 양방향 플랫폼으로 개편한다.\nNIA는 “AI 연구개발(R&D) 관련 정부차원 전략 목표는 설정됐으나 AI 데이터 구축에 관한 상세 로드맵 계획과 전략을 구체화하는 작업이 필요하다”면서 “AI 학습용 데이터 구축 관련 동향과 수요조사, 로드맵 등에 근거해 중장기 추진 전략과제를 마련할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부가 인공지능(AI) 학습용 데이터셋 구축 전략을 마련한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "민간에 양질 데이터를 제공해 AI 기술력과 응용 서비스 개발을 지원한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국정보화진흥원(NIA)은 AI 데이터 구축·활용 중장기 전략 수립을 위한 컨설팅 사업을 한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AI 기술과 응용서비스 개발은 활용가치가 높은 데이터 확보가 중요하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "어떤 데이터를 얼마나 확보하느냐에 따라 AI 학습 정도가 나뉜다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이미 해외 주요국과 기업은 AI 학습용 데이터 확보에 주력한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "구글은 900만장 객체인식 데이터를, 마이크로소프트는 안면인식 이미지 10만장을 확보했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "중국은 텍스트, 음성, 이미지, 영상 등 AI 학습용 데이터 셋(묶음)을 구축했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "영국도 공공 데이터를 AI 학습에 적합한 포맷으로 개방한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "NIA는 상반기 컨설팅 사업을 바탕으로 향후 5년간 AI 학습용 데이터 구축과 활성화를 위한 발전전략을 연내 수립한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "우선 국내외 기술·분야별 AI 데이터 구축·활용 현황을 분석한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "산업계와 전문가 대상 기술과분야별 AI 데이터 구축 수요를 조사한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "기술·분야별 AI 데이터 구축 우선순위와 중요도를 비교 분석해 세부 이행 계획 수립 근거자료로 활용한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "AI 학습용 데이터 구축 단계별(단기·중기·장기) 전략과제를 발굴한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "과제별 필요성과 현황, 세부 내용, 이행방안을 제시한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "AI 학습용 데이터는 단방향이 아닌 양방향으로 이용하도록 구성한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "현재 AI 학습용 데이터 확산을 위해 단방향 데이터셋 제공 체계인 'AI 허브'를 양방향 플랫폼으로 개편한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "NIA는 “AI 연구개발(R&D) 관련 정부차원 전략 목표는 설정됐으나 AI 데이터 구축에 관한 상세 로드맵 계획과 전략을 구체화하는 작업이 필요하다”면서 “AI 학습용 데이터 구축 관련 동향과 수요조사, 로드맵 등에 근거해 중장기 추진 전략과제를 마련할 것”이라고 말했다.",
+				"sentenceSize": 153
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "AI 핵심 '데이터' AI용 데이터 구축 밑그림 마련한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

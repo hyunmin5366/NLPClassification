@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006809",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피 1720선 '추락'... 글로벌 경기둔화 우려 36p↓",
+		"newsSubTitle": "",
+		"newsContent": "코스피가 급락하며 1720선까지 밀렸다.\n글로벌 경기둔화에 대한 우려가 강하게 확산되면서 투자심리를 짓눌렀고, 외국인 매도 공세에 프로그램 매도가 더해지면서 낙폭이 커졌다.\n12일 코스피는 전날보다 36.44포인트(2.07%) 하락한 1721.75에 장을 마감했다.\n개장 초 한때 1720선까지 내려섰던 코스피는 장중 기관의 매수로 전환하면서 1740선 회복을 노리기도 했다.\n그러나 오후 들어 외국인 매물이 빠르게 불어난 데다 프로그램에서도 대거 매물이 쏟아지면서 다시 낙폭을 키웠다.\n외국인이 5000억원 이상 매도 공세를 퍼부으며 지수 하락을 주도했다.\n모든 업종이 하락했다.\n철강금속업종이 4% 넘게 추락하며 가장 많이 하락했고 화학과 기계, 의료정밀, 금융 등이 2% 넘게 떨어지며 뒤를 이었다.\n코스피시장은 상한가 15개를 포함해 210개 종목이 올랐고, 하한가 6개를 포함해 606개 종목이 내렸다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피가 급락하며 1720선까지 밀렸다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "글로벌 경기둔화에 대한 우려가 강하게 확산되면서 투자심리를 짓눌렀고, 외국인 매도 공세에 프로그램 매도가 더해지면서 낙폭이 커졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "12일 코스피는 전날보다 36.44포인트(2.07%) 하락한 1721.75에 장을 마감했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "개장 초 한때 1720선까지 내려섰던 코스피는 장중 기관의 매수로 전환하면서 1740선 회복을 노리기도 했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러나 오후 들어 외국인 매물이 빠르게 불어난 데다 프로그램에서도 대거 매물이 쏟아지면서 다시 낙폭을 키웠다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "외국인이 5000억원 이상 매도 공세를 퍼부으며 지수 하락을 주도했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "모든 업종이 하락했다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "철강금속업종이 4% 넘게 추락하며 가장 많이 하락했고 화학과 기계, 의료정밀, 금융 등이 2% 넘게 떨어지며 뒤를 이었다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "코스피시장은 상한가 15개를 포함해 210개 종목이 올랐고, 하한가 6개를 포함해 606개 종목이 내렸다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "올해 코스피 IPO 공모액 17조원...사상 최대",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

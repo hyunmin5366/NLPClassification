@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337955",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "네이버 세계 최고 수준 AI 기술 공개 \\\"구글과 비교해도 낫다\\\"",
+		"newsSubTitle": "",
+		"newsContent": "네이버가 세계 최고수준 음성합성·동작인식 기술을 확보했다.\n언어와 동작을 이해하는 인공지능(AI) 기술은 구글과 비교해도 우수하다는 평가다.\n네이버는 앞으로 이 기술을 활용해 인공지능을 활용한 뉴스·책읽기 등 서비스를 발전시킨다.\n김성훈 네이버 클로바 AI 리더는 지난 주말 네이버 AI 콜로키움 2019에서 30분 녹음만으로 완성하는 음성합성 기술을 선보였다.\n김 리더는 3~4분 분량인 발표 앞부분을 약 40분, 500문장을 녹음해 완성한 음성으로 립싱크했다.\n사전 정보 없이 현장에서 김 리더의 립싱크를 알아차린 사람은 없었다.\n네이버 관계자는 “한 시간도 안되는 녹음 분량으로 자연스러운 음성합성을 구현한 것은 세계 최고 수준”이라고 설명했다.\n김 리더는 “더 자연스러운 음성합성을 위해 목소리에 다양한 톤을 입힐 수 있는 기술도 연구하고 있다”고 말했다. '입술 읽기'로 음성을 인식할 수 있는 기술도 공개했다.\n입술 움직임을 보고 소리를 추적하는 립리딩 음성인식 기술이다.\n여러 명이 말하거나 주변이 시끄러운 상황에서도 무리 없이 음성인식이 가능하다는 설명이다.\n기존 이미지 검색과 광학문자판독(OCR) 기술에서 한 단계 나아가 연속된 동작을 인식하는 포즈 인식, 장면 인식 기술도 소개했다.\n아이돌 영상 속 춤추는 움직임을 인식, 나의 춤과 비교해 점수를 자동 계산해줄 수 있다.\n드라마 속 주인공 얼굴이나 움직임을 인식해 식사하는 장면, 키스하는 장면 등을 구별해낼 수 있다.\n특정 장면을 자동으로 추출해 영상 편집 효율을 높이는데 쓰임새가 있다.\n김 리더는 마지막으로 음성과 동작에서 인식해낸 정보를 이해하는데 필요한 네이버 언어 처리 기술을 소개했다.\n네이버는 자체 분석을 통해 자사 인공지능 언어모델 LarVa(Language Representations by Clova)이 구글 언어모델과 비교해도 성능이 우수하다고 밝혔다.\n김 리더는 “음성 인식과 언어 기술을 결합해 클로바가 더욱 사람에 가깝고 일상에 도움이 되는 어시스턴트로 거듭날 수 있다”고 강조했다.\n네이버는 이날 지난해부터 일부 사용자를 대상으로 인공지능(AI) 검색 개인화 서비스를 테스트 중이라고 밝혔다.\n콘텐츠 활용도가 기존보다 4배 이상 상승했다는 결과도 내놨다.\n김광현 네이버 서치앤리더는 “작년부터 조심스럽게 1% 이용자를 대상으로 개인화 테스트를 하고 있다”면서 “첫번째 노출되는 정보 소비량이 4배 정도 증가했다”고 말했다.\n로그인 기기정보 등을 바탕으로 AI가 개인별 맞춤 검색 결과를 내놓는다는 것이다.\n예를 들어 동영상 소비 비중이 높은 사용자가 특정 키워드를 검색하면 동영상 검색 결과를 먼저 보여주는 식이다.\n검색 행동, 데이터에 따라 다른 검색결과를 볼 수 있다.\n김광현 리더는 “작년에는 보수적으로 1%만 테스트했는데 올해 이를 확대할 예정”이라면서 “딥러닝 활용해서 검색 품질 평가한다던가, 이미지 검색품질 높이는데도 활용하겠다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 세계 최고수준 음성합성·동작인식 기술을 확보했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "언어와 동작을 이해하는 인공지능(AI) 기술은 구글과 비교해도 우수하다는 평가다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버는 앞으로 이 기술을 활용해 인공지능을 활용한 뉴스·책읽기 등 서비스를 발전시킨다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김성훈 네이버 클로바 AI 리더는 지난 주말 네이버 AI 콜로키움 2019에서 30분 녹음만으로 완성하는 음성합성 기술을 선보였다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김 리더는 3~4분 분량인 발표 앞부분을 약 40분, 500문장을 녹음해 완성한 음성으로 립싱크했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사전 정보 없이 현장에서 김 리더의 립싱크를 알아차린 사람은 없었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "네이버 관계자는 “한 시간도 안되는 녹음 분량으로 자연스러운 음성합성을 구현한 것은 세계 최고 수준”이라고 설명했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김 리더는 “더 자연스러운 음성합성을 위해 목소리에 다양한 톤을 입힐 수 있는 기술도 연구하고 있다”고 말했다. '입술 읽기'로 음성을 인식할 수 있는 기술도 공개했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "입술 움직임을 보고 소리를 추적하는 립리딩 음성인식 기술이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "여러 명이 말하거나 주변이 시끄러운 상황에서도 무리 없이 음성인식이 가능하다는 설명이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "기존 이미지 검색과 광학문자판독(OCR) 기술에서 한 단계 나아가 연속된 동작을 인식하는 포즈 인식, 장면 인식 기술도 소개했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "아이돌 영상 속 춤추는 움직임을 인식, 나의 춤과 비교해 점수를 자동 계산해줄 수 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "드라마 속 주인공 얼굴이나 움직임을 인식해 식사하는 장면, 키스하는 장면 등을 구별해낼 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "특정 장면을 자동으로 추출해 영상 편집 효율을 높이는데 쓰임새가 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "김 리더는 마지막으로 음성과 동작에서 인식해낸 정보를 이해하는데 필요한 네이버 언어 처리 기술을 소개했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "네이버는 자체 분석을 통해 자사 인공지능 언어모델 LarVa(Language Representations by Clova)이 구글 언어모델과 비교해도 성능이 우수하다고 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "김 리더는 “음성 인식과 언어 기술을 결합해 클로바가 더욱 사람에 가깝고 일상에 도움이 되는 어시스턴트로 거듭날 수 있다”고 강조했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "네이버는 이날 지난해부터 일부 사용자를 대상으로 인공지능(AI) 검색 개인화 서비스를 테스트 중이라고 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "콘텐츠 활용도가 기존보다 4배 이상 상승했다는 결과도 내놨다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "김광현 네이버 서치앤리더는 “작년부터 조심스럽게 1% 이용자를 대상으로 개인화 테스트를 하고 있다”면서 “첫번째 노출되는 정보 소비량이 4배 정도 증가했다”고 말했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "로그인 기기정보 등을 바탕으로 AI가 개인별 맞춤 검색 결과를 내놓는다는 것이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "예를 들어 동영상 소비 비중이 높은 사용자가 특정 키워드를 검색하면 동영상 검색 결과를 먼저 보여주는 식이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "검색 행동, 데이터에 따라 다른 검색결과를 볼 수 있다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "김광현 리더는 “작년에는 보수적으로 1%만 테스트했는데 올해 이를 확대할 예정”이라면서 “딥러닝 활용해서 검색 품질 평가한다던가, 이미지 검색품질 높이는데도 활용하겠다”고 덧붙였다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버 세계 최고 수준 AI 기술 공개 \\\"구글과 비교해도 낫다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

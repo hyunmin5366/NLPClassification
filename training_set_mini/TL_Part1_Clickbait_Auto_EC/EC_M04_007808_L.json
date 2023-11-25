@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007808",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전·충남 어음부도액 급증",
+		"newsSubTitle": "2010년 12월 대전·충남지역 어음부도 동향",
+		"newsContent": "12월 대전·충남지역 어음부도액이 급증한 것으로 나타났다.\n12일 한국은행 대전·충남본부가 발표한 12월 중 부도금액은 167억 5000만원으로 전월보다 116억 1000만원이 증가했다.\n업종별로는 제조업 103억 9000만원, 건설업 18억원, 서비스업이 7억 3000만원 증가했다.\n대전이 126억 2000만원 증가한 반면, 충남은 10억 1000만원 감소했다.\n어음부도율(전자결제 조정전, 금액기준)은 지난달보다 0.34%p 상승한 0.48% 상승했다.\n대전이 지난달보다 0.57%p 오른 0.67%이고, 충남은 0.09%p 하락한 0.13%)로 나타났다.\n부도업체는 5개로 지난달보다 1개 줄었다.\n업종별로는 제조업과 서비스업이 각각 1개, 3개 감소한 반면 건설업은 3개 증가했다.\n신설법인수는 319개로 전달보다 45개 늘었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "12월 대전·충남지역 어음부도액이 급증한 것으로 나타났다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "12일 한국은행 대전·충남본부가 발표한 12월 중 부도금액은 167억 5000만원으로 전월보다 116억 1000만원이 증가했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "업종별로는 제조업 103억 9000만원, 건설업 18억원, 서비스업이 7억 3000만원 증가했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대전이 126억 2000만원 증가한 반면, 충남은 10억 1000만원 감소했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "어음부도율(전자결제 조정전, 금액기준)은 지난달보다 0.34%p 상승한 0.48% 상승했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대전이 지난달보다 0.57%p 오른 0.67%이고, 충남은 0.09%p 하락한 0.13%)로 나타났다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "부도업체는 5개로 지난달보다 1개 줄었다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "업종별로는 제조업과 서비스업이 각각 1개, 3개 감소한 반면 건설업은 3개 증가했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "신설법인수는 319개로 전달보다 45개 늘었다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'카카오메일' 베타서비스 시작...톡으로 메일 보낸다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350379",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "삼성重, 스마트 선박 솔루션 AWS로 업그레이드...\\\"효율 20%↑\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "선박·해양설비 제조기업 삼성중공업이 스마트 선박 관리 플랫폼인 에스베슬(SVESSEL)의 육상 서비스를 아마존웹서비스(AWS) 클라우드 솔루션으로 업그레이드했다고 15일 밝혔다.\n에스베슬은 삼성중공업이 자체 개발한 스마트십 시스템이다.\n정보통신 기술과 선박운용 기술을 융합해 육지에서도 바다 위 선박의 데이터를 점검하고 원격으로 관리할 수 있다.\n삼성중공업은 2018년 선박 건조부터 인도, 운영, 사용 후 폐선까지 선박의 전 생애주기를 관리할 수 있는 차세대 스마트십 솔루션 구축을 위해 AWS를 클라우드 우선 공급업체로 선정했다.\n디지털 전환의 일환으로 삼성중공업은 선박 유지보수 과정을 클라우드로 모두 이전했다.\n클라우드 도입 전까지는 문제원인을 파악하고 수리하는데만 평균 2개월 이상이 걸렸다.\n선박 내 직원과 육지의 엔지니어 간 의사소통은 이메일이나 위성전화에 의존하거나, 엔지니어가 직접 선박에 승선해 상태를 확인해야 했다.\n솔루션을 클라우드로 전환한 후 문제해결 시간은 평균 1개월, 작업 효율성은 20% 개선됐다.\n에스베슬은 비효율적인 유지보수 구조를 개선하기 위해 ML(머신러닝) 모델을 구축하는 서비스인 아마존 세이지메이커(Amazon SageMaker)를 사용했다.\n이를 통해 회전체 선박장비의 진동과 전류 데이터를 실시간으로 모니터링하고 유지보수 여부를 예측해 장비가 고장나기 전에 선원에게 알릴 수 있게 됐다.\n또한 에스베슬은 음성과 텍스트 기반 대화형 인터페이스를 지원하는 서비스인 아마존 렉스(Amazon Lex)를 기반으로 챗봇 기능과 선박의 실시간 위치, 기상조건 등 알림을 제공한다.\n삼성중공업은 에스베슬에 실시간 데이터 스트리밍 서비스인 아마존 키네시스 데이터 스트림(Amazon Kinesis Data Streams)도 접목해 24시간 사각지대 없이 주변을 감시하는 대형선박의 360도 서라운드뷰(Surround View) 기능을 구현했다.\n이 기능을 활용하면 육상 관제센터에서도 선박이 협수로를 운항하거나 접안할 때 원격 모니터링이 가능하다.\n김현조 삼성중공업 센터장은 \\\"앞으로도 삼성중공업은 고객의 선박 사용을 최적화하기 위해 사물인터넷(IoT)와 같은 최첨단 AWS서비스를 에스베슬에 통합해 나갈 예정\\\"이라고 말했다.\n함기호 AWS코리아 대표도 \\\"향후 삼성중공업 고객들이 더 효율적으로 선박을 운영할 수 있도록 돕겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "선박·해양설비 제조기업 삼성중공업이 스마트 선박 관리 플랫폼인 에스베슬(SVESSEL)의 육상 서비스를 아마존웹서비스(AWS) 클라우드 솔루션으로 업그레이드했다고 15일 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "에스베슬은 삼성중공업이 자체 개발한 스마트십 시스템이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정보통신 기술과 선박운용 기술을 융합해 육지에서도 바다 위 선박의 데이터를 점검하고 원격으로 관리할 수 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "삼성중공업은 2018년 선박 건조부터 인도, 운영, 사용 후 폐선까지 선박의 전 생애주기를 관리할 수 있는 차세대 스마트십 솔루션 구축을 위해 AWS를 클라우드 우선 공급업체로 선정했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "디지털 전환의 일환으로 삼성중공업은 선박 유지보수 과정을 클라우드로 모두 이전했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "클라우드 도입 전까지는 문제원인을 파악하고 수리하는데만 평균 2개월 이상이 걸렸다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "선박 내 직원과 육지의 엔지니어 간 의사소통은 이메일이나 위성전화에 의존하거나, 엔지니어가 직접 선박에 승선해 상태를 확인해야 했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "솔루션을 클라우드로 전환한 후 문제해결 시간은 평균 1개월, 작업 효율성은 20% 개선됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "에스베슬은 비효율적인 유지보수 구조를 개선하기 위해 ML(머신러닝) 모델을 구축하는 서비스인 아마존 세이지메이커(Amazon SageMaker)를 사용했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이를 통해 회전체 선박장비의 진동과 전류 데이터를 실시간으로 모니터링하고 유지보수 여부를 예측해 장비가 고장나기 전에 선원에게 알릴 수 있게 됐다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또한 에스베슬은 음성과 텍스트 기반 대화형 인터페이스를 지원하는 서비스인 아마존 렉스(Amazon Lex)를 기반으로 챗봇 기능과 선박의 실시간 위치, 기상조건 등 알림을 제공한다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "삼성중공업은 에스베슬에 실시간 데이터 스트리밍 서비스인 아마존 키네시스 데이터 스트림(Amazon Kinesis Data Streams)도 접목해 24시간 사각지대 없이 주변을 감시하는 대형선박의 360도 서라운드뷰(Surround View) 기능을 구현했다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이 기능을 활용하면 육상 관제센터에서도 선박이 협수로를 운항하거나 접안할 때 원격 모니터링이 가능하다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "김현조 삼성중공업 센터장은 \\\"앞으로도 삼성중공업은 고객의 선박 사용을 최적화하기 위해 사물인터넷(IoT)와 같은 최첨단 AWS서비스를 에스베슬에 통합해 나갈 예정\\\"이라고 말했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "함기호 AWS코리아 대표도 \\\"향후 삼성중공업 고객들이 더 효율적으로 선박을 운영할 수 있도록 돕겠다\\\"고 말했다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성重, 스마트 선박 솔루션 AWS로 업그레이드...\\\"효율 20%↑\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

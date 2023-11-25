@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015426",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "충남 아파트 매매가, 2009년 이후 처음으로 떨어져",
+		"newsSubTitle": "지난해 4분기 0.09% 하락, 대전 0.12% 상승 … 충북 ↓",
+		"newsContent": "지난해 4분기 충청권 아파트 매매시장이 미분양 증가의 영향으로 대체로 하락 마감했고, 충남은 2009년 이후 27분기 만에 매매가가 떨어진 것으로 조사됐다.\n19일 부동산114 분석에 따르면, 지난해 9월부터 12월 말까지 4분기 충청권 매매시장은 한산한 가격조정 시기를 보냈다.\n대전 아파트 매매가격은 지난해 4분기 0.12% 상승해 2014년 4분기부터 연속 약세를 보인 이후 약간의 상승폭을 기록했다.\n지난해 4분기 아파트 매매가격은 지역별로 대덕구 0.29%, 서구 0.21%, 중구 0.17%, 동구 0.11%가 상승했지만, 유성구는 -0.09% 하락했다.\n같은 시기 충남은 전체적으로 아파트 매매가 0.09% 하락했고, 논산시 -1.66%와 천안시 -0.29% 등 크게 떨어졌다.\n논산 중에서도 내동에 위치한 놀뫼타운과 아주, 동신 아파트 등 노후단지에서 매매가 하락이 두드러졌는데 이는 한국토지주택공사(LH) 신축아파트로 갈아타는 수요 때문으로 분석된다.\n세종시는 지난해 4분기에 아파트 매매가 0.2% 상승했으나 직전 3분기 1.44%보다 상승폭이 크게 둔화됐고, 충북은 4분기 0.23% 하락했다.\n면적별로 대전은 99~132㎡미만에서 0.19% 상승했고, 66~99㎡ 미만에서 0.08 올랐다.\n충남은 66~99㎡ 미만에서 0.31% 상승했고, 세종시는 99~132㎡ 미만에서 0.3% 상승했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 4분기 충청권 아파트 매매시장이 미분양 증가의 영향으로 대체로 하락 마감했고, 충남은 2009년 이후 27분기 만에 매매가가 떨어진 것으로 조사됐다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 부동산114 분석에 따르면, 지난해 9월부터 12월 말까지 4분기 충청권 매매시장은 한산한 가격조정 시기를 보냈다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대전 아파트 매매가격은 지난해 4분기 0.12% 상승해 2014년 4분기부터 연속 약세를 보인 이후 약간의 상승폭을 기록했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 4분기 아파트 매매가격은 지역별로 대덕구 0.29%, 서구 0.21%, 중구 0.17%, 동구 0.11%가 상승했지만, 유성구는 -0.09% 하락했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "같은 시기 충남은 전체적으로 아파트 매매가 0.09% 하락했고, 논산시 -1.66%와 천안시 -0.29% 등 크게 떨어졌다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "논산 중에서도 내동에 위치한 놀뫼타운과 아주, 동신 아파트 등 노후단지에서 매매가 하락이 두드러졌는데 이는 한국토지주택공사(LH) 신축아파트로 갈아타는 수요 때문으로 분석된다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "세종시는 지난해 4분기에 아파트 매매가 0.2% 상승했으나 직전 3분기 1.44%보다 상승폭이 크게 둔화됐고, 충북은 4분기 0.23% 하락했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "면적별로 대전은 99~132㎡미만에서 0.19% 상승했고, 66~99㎡ 미만에서 0.08 올랐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "충남은 66~99㎡ 미만에서 0.31% 상승했고, 세종시는 99~132㎡ 미만에서 0.3% 상승했다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "항공업계, 6월부터 국제선 늘리지만 한숨도 여전",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

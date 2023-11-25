@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_033460",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "호박을 무럭무럭 키워낸 웰시 코기의 숨겨진 습관",
+		"newsSubTitle": "",
+		"newsContent": "한 반려견이 매일 소변 본 곳에 호박꽃이 활짝 피었다.\n지난 12일(현지 시간) 영국 일간 메트로는 미국 캘리포니아주에 사는 웰시코기 메야(Meya)의 사연을 전했다.\n메야의 주인 렉시(Lexi)는 다가오는 할로윈 데이를 준비하려 집 앞마당에 호박을 심었다.\n당시 마당을 거닐던 마야는 호박 곁을 그냥 지나치지 않았다.\n그는 매일 호박을 심은 곳에 소변을 누며 영역을 표시한 것. 그렇게 6개월이 지났고, 메야의 흔적이 남은 호박에 노란 호박꽃이 무럭무럭 자라났다.\n당시 캘리포니아 지역에 가뭄이 있어 대다수의 식물이 잘 자라지 못했지만, 메야의 애정이 깃든 호박은 아름다운 꽃을 피워낸 것. 렉시는 \\\"메야는 매일 마당에 나가 소변을 봤다. 그랬더니 이런 놀라운 결과물이 나왔다\\\"고 밝혔다.\n이어 \\\"어쩌면 메야가 사람보다 훨씬 나은 정원 관리사인 것 같다\\\"며 반려견을 향한 애정을 드러냈다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한 반려견이 매일 소변 본 곳에 호박꽃이 활짝 피었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 12일(현지 시간) 영국 일간 메트로는 미국 캘리포니아주에 사는 웰시코기 메야(Meya)의 사연을 전했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "메야의 주인 렉시(Lexi)는 다가오는 할로윈 데이를 준비하려 집 앞마당에 호박을 심었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당시 마당을 거닐던 마야는 호박 곁을 그냥 지나치지 않았다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그는 매일 호박을 심은 곳에 소변을 누며 영역을 표시한 것. 그렇게 6개월이 지났고, 메야의 흔적이 남은 호박에 노란 호박꽃이 무럭무럭 자라났다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당시 캘리포니아 지역에 가뭄이 있어 대다수의 식물이 잘 자라지 못했지만, 메야의 애정이 깃든 호박은 아름다운 꽃을 피워낸 것. 렉시는 \\\"메야는 매일 마당에 나가 소변을 봤다. 그랬더니 이런 놀라운 결과물이 나왔다\\\"고 밝혔다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 \\\"어쩌면 메야가 사람보다 훨씬 나은 정원 관리사인 것 같다\\\"며 반려견을 향한 애정을 드러냈다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"웃는게 웃는게 아냐\\\" 위키드 박보영, 아이들의 격한 반응…뽀뽀까지?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

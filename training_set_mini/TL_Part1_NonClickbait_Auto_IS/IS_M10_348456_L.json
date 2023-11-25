@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348456",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "네이버, CU 편의점 매출 향상 돕는다",
+		"newsSubTitle": "null",
+		"newsContent": "네이버가 BGF리테일이 온·오프라인 연계서비스(O2O) 분야 협력을 위한 MOU를 맺었다고 21일 밝혔다.\n양사는 온·오프라인 플랫폼을 연계한 다양하고 실험적인 O2O 서비스 협업, 클라우드·AI 등 디지털 기술의 현장 도입, 기술 기반의 차세대 편의점 구축, 중소사업자(SME) 상생 모델 개발 등 4가지 분야를 중심으로 중장기적 협력 관계를 구축한다.\n양사는 중소사업자(SME)와 상생할 수 있는 사회적 가치 창출을 위해 장기적으로 노력한다는 계획이다.\n온·오프라인 데이터 기반의 판매 제품 추천을 통해 편의점 점주의 매출 향상에 기여하거나, 네이버 인기 스마트스토어 판매자가 선별한 상품들을 CU 편의점에서 판매할 수 있도록 연결해주는 것도 가능하다.\n한성숙 네이버 대표는 “온라인과 오프라인에서의 고객 경험이 융합되며 급변해가는 비즈니스 환경 속에서 BGF리테일과 함께 새로운 가치를 창출할 수 있는 다양한 실험을 해나갈 것”이라고 말했다.\n이건준 BGF리테일 대표는 “양사가 가진 업계 최고 수준의 경쟁력이 유기적으로 합쳐져 시대적인 흐름에 맞는 다양한 시너지 창출이 기대된다”며 “CU는 네이버와 함께 편의점의 컨버전스 혁신을 선도하며 고객에게 최적의 편의와 새로운 가치를 제공할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버가 BGF리테일이 온·오프라인 연계서비스(O2O) 분야 협력을 위한 MOU를 맺었다고 21일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "양사는 온·오프라인 플랫폼을 연계한 다양하고 실험적인 O2O 서비스 협업, 클라우드·AI 등 디지털 기술의 현장 도입, 기술 기반의 차세대 편의점 구축, 중소사업자(SME) 상생 모델 개발 등 4가지 분야를 중심으로 중장기적 협력 관계를 구축한다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양사는 중소사업자(SME)와 상생할 수 있는 사회적 가치 창출을 위해 장기적으로 노력한다는 계획이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "온·오프라인 데이터 기반의 판매 제품 추천을 통해 편의점 점주의 매출 향상에 기여하거나, 네이버 인기 스마트스토어 판매자가 선별한 상품들을 CU 편의점에서 판매할 수 있도록 연결해주는 것도 가능하다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한성숙 네이버 대표는 “온라인과 오프라인에서의 고객 경험이 융합되며 급변해가는 비즈니스 환경 속에서 BGF리테일과 함께 새로운 가치를 창출할 수 있는 다양한 실험을 해나갈 것”이라고 말했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이건준 BGF리테일 대표는 “양사가 가진 업계 최고 수준의 경쟁력이 유기적으로 합쳐져 시대적인 흐름에 맞는 다양한 시너지 창출이 기대된다”며 “CU는 네이버와 함께 편의점의 컨버전스 혁신을 선도하며 고객에게 최적의 편의와 새로운 가치를 제공할 것”이라고 말했다.",
+				"sentenceSize": 146
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "네이버, CU 편의점 매출 향상 돕는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

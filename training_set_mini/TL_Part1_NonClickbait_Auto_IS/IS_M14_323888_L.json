@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323888",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "공공 사물인터넷(IoT)망 연계 추진 '전국 단위 서비스 길 닦는다'",
+		"newsSubTitle": "",
+		"newsContent": "공공기관과 지방자치단체 사물인터넷(IoT) 서비스가 연계, 통합 관리된다.\n특정 기관·지자체에서 제한적으로 제공한 IoT 서비스 데이터를 공유하고 연동, 전국 단위 공공 IoT 서비스도 가능할 것으로 기대된다.\n행정안전부와 한국정보화진흥원(NIA)은 정부, 공공기관, 지자체 IoT 망을 연계하고 기관별 IoT 서비스 현황을 통합 모니터링·제어할 수 있는 '정부사물인터넷망 공통기반 구축 사업'을 추진한다.\n연말까지 로라(LoRa), 협대역사물인터넷(NB-IoT) 등 서로 다른 IoT 통신 방식과 플랫폼을 채택한 기관·지자체 IoT 통신망을 상호 연계하는 표준 통신 인프라를 구축한다.\n지역에 제한받지 않고 다른 기관이나 지자체 IoT 서비스와 연동, 데이터 공유 등 대민 서비스 효율을 높이는 게 목적이다.\n기관·지자체별 서로 다른 통신 기술과 플랫폼 도입으로 인한 공공 IoT 서비스 비효율성이 해소될 전망이다.\n일례로, A지자체에서 공공 자전거를 빌려도 B지자체에서는 이용할 수 없다.\n행정 구역별로 공공 자전거 통신 기술과 IoT 데이터를 처리하기 위한 플랫폼이 상이하기 때문이다.\n하지만 기관·지자체가 IoT 망을 연계, 공공자전거 이용 데이터를 공유하면 지역 제한 없이 확장된 권역에서 서비스가 가능하다.\nNIA 관계자는 “기관·지자체별 IoT 플랫폼과 정부사물인터넷망 연계 방안, 효율적 통신을 위한 데이터 연동 기준 등을 마련할 것”이라면서 “로라, NB-IoT, oneM2M, OCF 등 통신 기술 방식으로 구축한 단말기, 게이트웨이, 플랫폼이 주요 연계 대상”이라고 밝혔다.\nIoT망 연계 규모에 따라 전국적으로 제공할 수 있는 공공 IoT 서비스도 개발할 수 있다.\n서로 다른 IoT 망이 연계됨에 따라 발생할 수 있는 보안 문제도 해결한다.\n정부사물인터넷망 핵심 인프라(L3·백본 스위치)에 방화벽을 구축, 안정적 IoT 서비스 기반을 마련한다.\nIoT 망이 확장되더라도 해킹 등 보안 우려를 불식하기 위한 조치다.\n단말기 인증과 데이터 암호화·복호화, 비정상 트래픽 탐지·차단 등 IoT 서비스 인증과 보안 체계도 수립할 방침이다.\n행안부와 NIA는 급증하는 지자체 IoT 서비스에 대응, 예산 조기 집행 등 사업 속도를 높인다.\n지자체 조사 결과, 2020년까지 전국 140개 IoT 사업을 추진하는 것으로 나타났다.\nIoT 서비스 개발 단계부터 정부사물인터넷망과 연계하려면 신속한 사업 추진이 선행돼야 한다는 입장이다.\nNIA 관계자는 “공공 IoT 서비스 효율성과 보안성을 높이는 데 집중하고 향후 클라우드컴퓨팅과 오픈소스 IoT 플랫폼 적용 등 중장기 발전 방안을 도출할 것”이라며 “이동통신사와 논의해 민간 IoT 서비스 망과 연계하는 방안도 검토할 것”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "공공기관과 지방자치단체 사물인터넷(IoT) 서비스가 연계, 통합 관리된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "특정 기관·지자체에서 제한적으로 제공한 IoT 서비스 데이터를 공유하고 연동, 전국 단위 공공 IoT 서비스도 가능할 것으로 기대된다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "행정안전부와 한국정보화진흥원(NIA)은 정부, 공공기관, 지자체 IoT 망을 연계하고 기관별 IoT 서비스 현황을 통합 모니터링·제어할 수 있는 '정부사물인터넷망 공통기반 구축 사업'을 추진한다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연말까지 로라(LoRa), 협대역사물인터넷(NB-IoT) 등 서로 다른 IoT 통신 방식과 플랫폼을 채택한 기관·지자체 IoT 통신망을 상호 연계하는 표준 통신 인프라를 구축한다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지역에 제한받지 않고 다른 기관이나 지자체 IoT 서비스와 연동, 데이터 공유 등 대민 서비스 효율을 높이는 게 목적이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기관·지자체별 서로 다른 통신 기술과 플랫폼 도입으로 인한 공공 IoT 서비스 비효율성이 해소될 전망이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일례로, A지자체에서 공공 자전거를 빌려도 B지자체에서는 이용할 수 없다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "행정 구역별로 공공 자전거 통신 기술과 IoT 데이터를 처리하기 위한 플랫폼이 상이하기 때문이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하지만 기관·지자체가 IoT 망을 연계, 공공자전거 이용 데이터를 공유하면 지역 제한 없이 확장된 권역에서 서비스가 가능하다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "NIA 관계자는 “기관·지자체별 IoT 플랫폼과 정부사물인터넷망 연계 방안, 효율적 통신을 위한 데이터 연동 기준 등을 마련할 것”이라면서 “로라, NB-IoT, oneM2M, OCF 등 통신 기술 방식으로 구축한 단말기, 게이트웨이, 플랫폼이 주요 연계 대상”이라고 밝혔다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "IoT망 연계 규모에 따라 전국적으로 제공할 수 있는 공공 IoT 서비스도 개발할 수 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "서로 다른 IoT 망이 연계됨에 따라 발생할 수 있는 보안 문제도 해결한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "정부사물인터넷망 핵심 인프라(L3·백본 스위치)에 방화벽을 구축, 안정적 IoT 서비스 기반을 마련한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "IoT 망이 확장되더라도 해킹 등 보안 우려를 불식하기 위한 조치다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "단말기 인증과 데이터 암호화·복호화, 비정상 트래픽 탐지·차단 등 IoT 서비스 인증과 보안 체계도 수립할 방침이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "행안부와 NIA는 급증하는 지자체 IoT 서비스에 대응, 예산 조기 집행 등 사업 속도를 높인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "지자체 조사 결과, 2020년까지 전국 140개 IoT 사업을 추진하는 것으로 나타났다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "IoT 서비스 개발 단계부터 정부사물인터넷망과 연계하려면 신속한 사업 추진이 선행돼야 한다는 입장이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "NIA 관계자는 “공공 IoT 서비스 효율성과 보안성을 높이는 데 집중하고 향후 클라우드컴퓨팅과 오픈소스 IoT 플랫폼 적용 등 중장기 발전 방안을 도출할 것”이라며 “이동통신사와 논의해 민간 IoT 서비스 망과 연계하는 방안도 검토할 것”이라고 밝혔다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "공공 사물인터넷(IoT)망 연계 추진 '전국 단위 서비스 길 닦는다'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

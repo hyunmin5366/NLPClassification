@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353641",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "삼성 공격한 해커 조직 \\\"LG전자 임직원 이메일 털었다\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "삼성전자 등 글로벌 대기업을 대상으로 사이버 공격을 진행하는 해킹 단체 '랩서스'(LAPSUS$)가 이번에는 LG전자를 해킹했다고 주장했다.\n22일 해킹 단체 랩서스는 모바일 메신저 텔레그램 채널에서 LG전자 임직원 정보라고 주장하는 파일을 게시했다.\n이들이 공개한 파일은 8.3MB(메가바이트) 용량의 텍스트 파일로, 9만여명의 영문 이름이 적혀 있으나 그외에 추가적인 내용은 없었다.\n랩서스는 해당 목록이 LG전자 홈페이지 내 직원과 서비스 이용자의 계정이라고 주장하고 있다.\n그러면서 이들은 LG 내부 주고 설계와 시스템 구성과 관련된 정보도 해킹하겠다고 예고했다.\nLG전자 측은 일부 직원의 이메일이 유출됐다고 밝혔다.\nLG전자 관계자는 \\\"확인 결과 자사 임직원 이메일 주소만 일부 유출된 것으로 추정된다\\\"며 \\\"기술 보안 등 관련한 정보 유출 가능성은 희박하다\\\"고 말했다.\n앞서 랩서스는 지난 5일 삼성전자 서버를 해킹했다고도 주장했다.\n당시 삼성전자는 사내 공지를 통해 \\\"현재까지 확인된 유출 자료에는 갤럭시 구동에 필요한 일부 소스코드가 포함됐으나 임직원과 고객 개인정보는 포함돼 있지 않다\\\"며 \\\"회사 비즈니스와 고객에 미치는 영향은 없는 것으로 파악됐다\\\"고 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자 등 글로벌 대기업을 대상으로 사이버 공격을 진행하는 해킹 단체 '랩서스'(LAPSUS$)가 이번에는 LG전자를 해킹했다고 주장했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 해킹 단체 랩서스는 모바일 메신저 텔레그램 채널에서 LG전자 임직원 정보라고 주장하는 파일을 게시했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이들이 공개한 파일은 8.3MB(메가바이트) 용량의 텍스트 파일로, 9만여명의 영문 이름이 적혀 있으나 그외에 추가적인 내용은 없었다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "랩서스는 해당 목록이 LG전자 홈페이지 내 직원과 서비스 이용자의 계정이라고 주장하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그러면서 이들은 LG 내부 주고 설계와 시스템 구성과 관련된 정보도 해킹하겠다고 예고했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "LG전자 측은 일부 직원의 이메일이 유출됐다고 밝혔다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "LG전자 관계자는 \\\"확인 결과 자사 임직원 이메일 주소만 일부 유출된 것으로 추정된다\\\"며 \\\"기술 보안 등 관련한 정보 유출 가능성은 희박하다\\\"고 말했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 랩서스는 지난 5일 삼성전자 서버를 해킹했다고도 주장했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "당시 삼성전자는 사내 공지를 통해 \\\"현재까지 확인된 유출 자료에는 갤럭시 구동에 필요한 일부 소스코드가 포함됐으나 임직원과 고객 개인정보는 포함돼 있지 않다\\\"며 \\\"회사 비즈니스와 고객에 미치는 영향은 없는 것으로 파악됐다\\\"고 했다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성 공격한 해커 조직 \\\"LG전자 임직원 이메일 털었다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

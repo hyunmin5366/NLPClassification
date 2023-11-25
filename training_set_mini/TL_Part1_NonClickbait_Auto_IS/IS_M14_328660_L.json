@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328660",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[이슈분석] 스냅드래곤 845 탑재 스마트폰은… XR·AI로 무장",
+		"newsSubTitle": "",
+		"newsContent": "퀄컴 스냅드래곤 845를 탑재하고 나올 2018년 신형 스마트폰은 확장현실(XR:eXtended Reality)과 인공지능(AI) 분야에서 발군의 성능을 보일 것으로 예상된다.\nXR은 가상현실(VR)과 증강현실(AR)을 합친 개념이다.\n일각에선 XR를 혼합현실 혹은 융합현실(MR:Mixed Reality) 기술이라고 부른다.\nXR이나 MR는 VR기기에 AR 기술을 접목, 가상 환경에서 나의 손짓이나 발짓 등 움직임을 인지하는 것이 가능하다.\n스냅드래곤 845에 탑재된 고성능 그래픽처리장치(GPU)인 아드레노 630이 XR 프로그램 연산을 맞는다.\n모바일 플랫폼으로는 최초로 SLAM(Simultaneous Localization And Mapping)을 지원한다.\nSLAM은 특정 공간의 지형 지물을 분석하는 기술이다.\n사용자 움직임을 다각도로 추적하는 6자유도(6DoF:Degree of Freedom) 기술을 접목해 이른바 '룸 스케일 XR'를 구현할 수 있다.\n아드레노 630 GPU에는 사람의 시선을 추적하고 필요한 영역만 최대 화질로 출력하는 아드레노 포비에이션(Adreno foveation) 기술이 내장된다.\nXR 프로그램을 돌렸을 때 전력 소모량을 줄이고 화질을 향상시킬 수 있다.\n팀 리렌드 퀄컴 제품담당 부사장은 “몰입감 넘치고 보다 현실적인 XR 경험을 제공하기 위해 오큘러스를 포함한 다양한 업체와 협력해 기술을 개발하고 있다”고 말했다.\nXR 구현에는 GPU 외 이미지신호처리장치(ISP)도 힘을 보탠다.\n스냅드래곤 845에 탑재된 스펙트라 280 ISP는 이전 세대보다 64배나 더 넓은 영역의 색상 정보를 포함한 울트라HD 프리미엄 규격 영상을 녹화하고 재생할 수 있다. 10억개 이상의 다양한 색상을 표현하는 것이 가능하다.\nAI는 기계학습 혹은 깊은 학습(딥러닝)을 통해 구현된다.\n스냅드래곤 845에 탑재된 디지털신호처리장치(DSP) 헥사곤 685 코어가 학습 연산을 맡는다.\n이 코어는 구글이 공개한 오픈소스 AI 학습 프레임워크인 텐서플로, 페이스북의 카페, 카페2를 지원한다.\n아울러 텐서플로 라이트, 오픈 뉴럴 네트워크 익스체인지(ONNX), MxNET, 구글 안드로이드 NN API 등과도 호환된다.\n퀄컴은 스냅드래곤 845용 AI 소프트웨어개발자키트(SDK)를 제공해 개발자가 손쉽게 원하는 AI 프레임워크를 선택할 수 있게 했다.\n개리 브로트만 퀄컴 이사 겸 AI 제품관리 총괄은 “스냅드래곤 845에 탑재된 헥사곤 685 DSP 코어는 이전 시스템 대비 학습 성능이 3배 이상 높다”면서 “함께 내장된 어쿠스틱 오디오 코덱(WCD9341)과 저전력 오디소 시스템을 접목하면 한층 진일보한 스마트 음성비서 기능 등을 구현할 수 있다”고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "퀄컴 스냅드래곤 845를 탑재하고 나올 2018년 신형 스마트폰은 확장현실(XR:eXtended Reality)과 인공지능(AI) 분야에서 발군의 성능을 보일 것으로 예상된다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "XR은 가상현실(VR)과 증강현실(AR)을 합친 개념이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "일각에선 XR를 혼합현실 혹은 융합현실(MR:Mixed Reality) 기술이라고 부른다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "XR이나 MR는 VR기기에 AR 기술을 접목, 가상 환경에서 나의 손짓이나 발짓 등 움직임을 인지하는 것이 가능하다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스냅드래곤 845에 탑재된 고성능 그래픽처리장치(GPU)인 아드레노 630이 XR 프로그램 연산을 맞는다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모바일 플랫폼으로는 최초로 SLAM(Simultaneous Localization And Mapping)을 지원한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SLAM은 특정 공간의 지형 지물을 분석하는 기술이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사용자 움직임을 다각도로 추적하는 6자유도(6DoF:Degree of Freedom) 기술을 접목해 이른바 '룸 스케일 XR'를 구현할 수 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "아드레노 630 GPU에는 사람의 시선을 추적하고 필요한 영역만 최대 화질로 출력하는 아드레노 포비에이션(Adreno foveation) 기술이 내장된다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "XR 프로그램을 돌렸을 때 전력 소모량을 줄이고 화질을 향상시킬 수 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "팀 리렌드 퀄컴 제품담당 부사장은 “몰입감 넘치고 보다 현실적인 XR 경험을 제공하기 위해 오큘러스를 포함한 다양한 업체와 협력해 기술을 개발하고 있다”고 말했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "XR 구현에는 GPU 외 이미지신호처리장치(ISP)도 힘을 보탠다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "스냅드래곤 845에 탑재된 스펙트라 280 ISP는 이전 세대보다 64배나 더 넓은 영역의 색상 정보를 포함한 울트라HD 프리미엄 규격 영상을 녹화하고 재생할 수 있다. 10억개 이상의 다양한 색상을 표현하는 것이 가능하다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "AI는 기계학습 혹은 깊은 학습(딥러닝)을 통해 구현된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "스냅드래곤 845에 탑재된 디지털신호처리장치(DSP) 헥사곤 685 코어가 학습 연산을 맡는다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이 코어는 구글이 공개한 오픈소스 AI 학습 프레임워크인 텐서플로, 페이스북의 카페, 카페2를 지원한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "아울러 텐서플로 라이트, 오픈 뉴럴 네트워크 익스체인지(ONNX), MxNET, 구글 안드로이드 NN API 등과도 호환된다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "퀄컴은 스냅드래곤 845용 AI 소프트웨어개발자키트(SDK)를 제공해 개발자가 손쉽게 원하는 AI 프레임워크를 선택할 수 있게 했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "개리 브로트만 퀄컴 이사 겸 AI 제품관리 총괄은 “스냅드래곤 845에 탑재된 헥사곤 685 DSP 코어는 이전 시스템 대비 학습 성능이 3배 이상 높다”면서 “함께 내장된 어쿠스틱 오디오 코덱(WCD9341)과 저전력 오디소 시스템을 접목하면 한층 진일보한 스마트 음성비서 기능 등을 구현할 수 있다”고 설명했다.",
+				"sentenceSize": 176
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석] 스냅드래곤 845 탑재 스마트폰은… XR·AI로 무장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

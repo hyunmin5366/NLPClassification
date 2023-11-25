@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353073",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "어젯밤 치킨 시키려 했는데…'배달앱 접속장애' 이유 있었다",
+		"newsSubTitle": "null",
+		"newsContent": "세계 최대 클라우드업체 아마존웹서비스(AWS)에서 접속장애가 발생해 배달의민족, 요기요 등 이용자들이 불편을 겪은 것으로 나타났다.\n7일 AWS는 전일 오후 8시32분(한국시간)부터 8시54분까지 AWS 서울 리전(AP-NORTHEAST-2)의 일부 가상서버(인스턴스)에 인터넷 연결 문제가 발생했다고 공지했다.\nAWS 측은 \\\"인터넷 연결에 영향을 미치는 연결 문제가 발생했다\\\"라며 \\\"현재 문제가 해결됐고 연결이 복원됐다\\\"라고 설명했다.\n이로 인해 배민·요기요 등 일부 서비스에서 접속오류가 발생했다.\n배민 관계자는 \\\"AWS 일부 기능에 장애가 발생해 서비스 이용이 원활하지 않았다\\\"라며 \\\"다행히 관련 피해사례는 거의 없었다\\\"라고 말했다.\n요기요 관계자 역시 \\\"피크시간대가 아니어서 큰 피해 없이 빠르게 복구됐다\\\"라고 설명했다.\n다만 AWS 피해를 입은 것으로 알려진 카카오게임즈 측은 \\\"구체적인 원인을 파악 중\\\"이라는 입장이다.\n앞서 카카오게임즈 '오딘: 발할라 라이징'은 전날 오후 8시30분경부터 약 20분 가량 접속이 안되는 현상이 발생한 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "세계 최대 클라우드업체 아마존웹서비스(AWS)에서 접속장애가 발생해 배달의민족, 요기요 등 이용자들이 불편을 겪은 것으로 나타났다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 AWS는 전일 오후 8시32분(한국시간)부터 8시54분까지 AWS 서울 리전(AP-NORTHEAST-2)의 일부 가상서버(인스턴스)에 인터넷 연결 문제가 발생했다고 공지했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "AWS 측은 \\\"인터넷 연결에 영향을 미치는 연결 문제가 발생했다\\\"라며 \\\"현재 문제가 해결됐고 연결이 복원됐다\\\"라고 설명했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이로 인해 배민·요기요 등 일부 서비스에서 접속오류가 발생했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "배민 관계자는 \\\"AWS 일부 기능에 장애가 발생해 서비스 이용이 원활하지 않았다\\\"라며 \\\"다행히 관련 피해사례는 거의 없었다\\\"라고 말했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "요기요 관계자 역시 \\\"피크시간대가 아니어서 큰 피해 없이 빠르게 복구됐다\\\"라고 설명했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다만 AWS 피해를 입은 것으로 알려진 카카오게임즈 측은 \\\"구체적인 원인을 파악 중\\\"이라는 입장이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "앞서 카카오게임즈 '오딘: 발할라 라이징'은 전날 오후 8시30분경부터 약 20분 가량 접속이 안되는 현상이 발생한 바 있다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "어젯밤 치킨 시키려 했는데…'배달앱 접속장애' 이유 있었다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333878",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "금보원 연구원들이 추적·분석한 '김수키' 논문, VB에 게재",
+		"newsSubTitle": "",
+		"newsContent": "금융보안원(원장 김영기) 소속 연구원 3명이 작성한 논문이 세계적인 보안 연구·평가 기관인 바이러스 블러틴(VB)에 게재됐다.\n해킹조직 '김수키'를 추적·분석한 내용이 담겼다.\n논문에는 김재기 금보원 연구원이 제1저자, 곽경주·장민창 연구원이 각각 제2·3저자로 이름을 올렸다.\n영문으로 작성된 이 논문은 '김수키 그룹, 스피어피싱 거물을 추적하며'라는 제목으로 지난해 VB 측에 제출됐다.\n지난해 10월 VB 콘퍼런스에서 발표된 후 지난 10일(현지시간) VB 홈페이지를 통해 일반에 공개됐다.\nVB는 백신 등 보안 제품에 대한 평가와 인증을 수행하는 권위 있는 국제기관이다.\nVB가 주관하는 국제 콘퍼런스는 위협 인텔리전스와 악성코드 분석 분야에서 선두적인 행사로 평가된다.\n악성코드를 연구하는 각국 멀웨어 연구원, 인텔리전스 전문업체가 집결해 정보를 교류하고 최신 위협 동향을 공유한다. '김수키'는 북한 정부가 배후로 추정되는 해킹조직이다.\n2013년 9월 공격이 처음 포착된 이래 외교부, 통일부, 국방부 등 국내 정부기관과 기업을 공격했다.\n2014년 한국수력원자력 기밀 유출 주범으로 지목되며 최근까지도 왕성한 활동을 보인다.\n한글 문서 취약점을 주로 활용하며 특정 타깃을 오랜 기간에 걸쳐 노리는 '지능형지속위협(APT)' 공격으로 악명이 높다.\n논문에는 '김수키'가 주로 쓰는 스피어피싱 수법을 비롯해 공격 도구와 활동, 공격 양상 변화, 명령 제어(C2) 서버 등에 관한 분석 내용이 실렸다.\n논문 주 저자인 김재기 연구원은 “위협 분석 업무를 하다 보니 데이터가 쌓여 자연스레 인텔리전스 연구도 하게 됐다”면서 “연구 결과를 논문으로 발표하게 된 것”이라고 설명했다. '김수키' 해킹조직에 대한 추적은 2018년 '캠페인 도깨비' 분석이 계기였다.\n김 연구원은 당시 악성 한글 문서 공격을 주로 수행하는 김수키와 블루노로프, 스카크러프트 등 3개 해킹조직 간 연관성을 분석해 '캠페인 도깨비'로 명명했다.\n이들 연구원이 몸담은 금보원도 논문 게재 성과를 축하하는 분위기다.\n김영기 금보원 원장은 “금보원에 소속된 세계 최고 수준 연구원들이 오랜 기간 해킹조직 분석 등을 수행해 왔다”면서 “이번 논문 게재는 국내 위협 분석 역량을 입증한 것”이라고 말했다.\n그러면서 “금보원은 앞으로도 연구원 전문성 제고를 장려해 위협 감시와 보안성 강화에 기여하겠다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융보안원(원장 김영기) 소속 연구원 3명이 작성한 논문이 세계적인 보안 연구·평가 기관인 바이러스 블러틴(VB)에 게재됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해킹조직 '김수키'를 추적·분석한 내용이 담겼다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "논문에는 김재기 금보원 연구원이 제1저자, 곽경주·장민창 연구원이 각각 제2·3저자로 이름을 올렸다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영문으로 작성된 이 논문은 '김수키 그룹, 스피어피싱 거물을 추적하며'라는 제목으로 지난해 VB 측에 제출됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난해 10월 VB 콘퍼런스에서 발표된 후 지난 10일(현지시간) VB 홈페이지를 통해 일반에 공개됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "VB는 백신 등 보안 제품에 대한 평가와 인증을 수행하는 권위 있는 국제기관이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "VB가 주관하는 국제 콘퍼런스는 위협 인텔리전스와 악성코드 분석 분야에서 선두적인 행사로 평가된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "악성코드를 연구하는 각국 멀웨어 연구원, 인텔리전스 전문업체가 집결해 정보를 교류하고 최신 위협 동향을 공유한다. '김수키'는 북한 정부가 배후로 추정되는 해킹조직이다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "2013년 9월 공격이 처음 포착된 이래 외교부, 통일부, 국방부 등 국내 정부기관과 기업을 공격했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "2014년 한국수력원자력 기밀 유출 주범으로 지목되며 최근까지도 왕성한 활동을 보인다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한글 문서 취약점을 주로 활용하며 특정 타깃을 오랜 기간에 걸쳐 노리는 '지능형지속위협(APT)' 공격으로 악명이 높다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "논문에는 '김수키'가 주로 쓰는 스피어피싱 수법을 비롯해 공격 도구와 활동, 공격 양상 변화, 명령 제어(C2) 서버 등에 관한 분석 내용이 실렸다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "논문 주 저자인 김재기 연구원은 “위협 분석 업무를 하다 보니 데이터가 쌓여 자연스레 인텔리전스 연구도 하게 됐다”면서 “연구 결과를 논문으로 발표하게 된 것”이라고 설명했다. '김수키' 해킹조직에 대한 추적은 2018년 '캠페인 도깨비' 분석이 계기였다.",
+				"sentenceSize": 143
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "김 연구원은 당시 악성 한글 문서 공격을 주로 수행하는 김수키와 블루노로프, 스카크러프트 등 3개 해킹조직 간 연관성을 분석해 '캠페인 도깨비'로 명명했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이들 연구원이 몸담은 금보원도 논문 게재 성과를 축하하는 분위기다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "김영기 금보원 원장은 “금보원에 소속된 세계 최고 수준 연구원들이 오랜 기간 해킹조직 분석 등을 수행해 왔다”면서 “이번 논문 게재는 국내 위협 분석 역량을 입증한 것”이라고 말했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "그러면서 “금보원은 앞으로도 연구원 전문성 제고를 장려해 위협 감시와 보안성 강화에 기여하겠다”고 덧붙였다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "금보원 연구원들이 추적·분석한 '김수키' 논문, VB에 게재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

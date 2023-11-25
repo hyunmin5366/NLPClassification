@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336228",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "한국정보인증, PKI+OTP 융합 스마트홈 보안 솔루션 출시...망분리 통한 철통보안 제공",
+		"newsSubTitle": "",
+		"newsContent": "아파트 월패드 해킹으로 개인 사생활이 노출되는 등 피해가 확인되자, 스마트홈 보안 강화를 위한 다양한 기술이 거론되고 있다.\n주목되는 기술 중 하나가 공개키기반구조(PKI) 인증서다.\nPKI 인증서는 스마트홈 보안성을 제고할 수단으로 각광받고 있다.\n글로벌 인증 보안 기업 디지서트 등은 사물인터넷(IoT) 기기에 대한 신뢰와 신원확인 수준 강화를 위해 PKI 인증서 사용이 증가할 것으로 분석했다.\nPKI는 공개키, 개인키가 쌍으로 구성돼 해커가 공개키 기반 정보를 탈취해도 개인키를 확보하지 못하면 해킹을 할 수 없다.\n강력하고 검증된 신원확인, 신뢰 기반을 쌓을 수 있다는 점에서 강력한 대안으로 부상했다.\n한국정보인증은 금융권 보안으로 널리 사용되고 있는 PKI 인증서에 합병한 미래테크놀로지 일회용비밀번호(OTP) 기술을 융합한 스마트홈 통합 보안 기술을 선보였다.\n스마트홈은 입주민 스마트폰 앱을 통해 홈 IoT뿐만 아니라 아파트 공용 기기까지 모두 연결할 수 있다.\n월패드 이외에 이를 제어하는 스마트폰 앱, 도어록, 클라우드 및 단지 공용 서버, 가전 및 무선기기 등 다양한 기기가 네트워크로 연결돼 취약점 또한 많은 게 사실이다.\n현재 대다수 단지가 세대간 네트워크가 연결돼 있고 로그인 방식 또한 아이디와 비밀번호로 구성된 1차 인증만 제공하고 있다.\n한 세대가 뚫리면 다른 세대는 물론 단지 내 시설, 기기까지 연쇄 피해가 발생할 수 있는 구조다.\n한국정보인증은 PKI와 OTP를 융합, 보안성을 한층 강화했다.\n사용자가 생체 정보로 간편하게 인증, 접속한 이후 스마트홈과 공용기기간 상호 신뢰된 PKI 인증서와 OTP로 정보를 보호한다.\n월패드와 도어록은 사용 중인 무선통신 주파수를 탈취, 원격 조종하는 무선 탈취 재공격 해킹 수법에 취약하다.\n하지만 PKI 인증서와 OTP를 이용한 보안 인증은 이를 차단한다.\n스마트홈 단지 전체에 대한 취약점 분석을 통해 월패드, 가전 기기, 조명 및 센서까지 모든 연결 기기의 보안 취약점을 종합적으로 점검한다. 2차 인증 솔루션을 제공해 공용 서버부터 앱과 월패드 등 기기에 대한 접근 통제, 네트워크 인프라 점검, 불법 접속과 데이터 조작 등 이상 탐지까지 스마트홈에서 발생할 수 있는 다양한 해킹에 대해 별도 조작 없이 안전하게 보호할 수 있다.\n택배기사 등 외부 출입자에게 일회성 비밀번호로 공동현관문 비밀번호를 제공할 수 있다.\n사용자 편의도 확보했다.\n추가 인증 등 복잡한 절차없이 보안이 강화된 스마트홈 시스템을 사용할 수 있다.\n아파트 월패드 해킹 사고 이후 과학기술정보통신부는 단지 서버와 세대간 망분리 의무화를 골자로 한 홈 네트워크 고시 개정을 추진 중이다.\nPKI∙OTP 융합 보안 기술은 세대간 암호키가 다르기 때문에 논리적 망분리를 구현할 수 있다.\n한국정보인증은 올해 분양한 한화건설의 포레나 수원장안단지에 스마트홈 IoT 단지 서버와 월패드 보안솔루션 적용을 시작으로 스마트홈 보안 사업을 확대할 계획이다.\n김상준 한국정보인증 대표는 \\\"다른 건설사와 적용 논의를 이어가고 있다\\\"며 \\\"연구개발을 지속해 스마트홈 보안과 스마트시티까지 연결되는 보안 인증 서비스로 발전시킬 계획\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아파트 월패드 해킹으로 개인 사생활이 노출되는 등 피해가 확인되자, 스마트홈 보안 강화를 위한 다양한 기술이 거론되고 있다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주목되는 기술 중 하나가 공개키기반구조(PKI) 인증서다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "PKI 인증서는 스마트홈 보안성을 제고할 수단으로 각광받고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "글로벌 인증 보안 기업 디지서트 등은 사물인터넷(IoT) 기기에 대한 신뢰와 신원확인 수준 강화를 위해 PKI 인증서 사용이 증가할 것으로 분석했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "PKI는 공개키, 개인키가 쌍으로 구성돼 해커가 공개키 기반 정보를 탈취해도 개인키를 확보하지 못하면 해킹을 할 수 없다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "강력하고 검증된 신원확인, 신뢰 기반을 쌓을 수 있다는 점에서 강력한 대안으로 부상했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국정보인증은 금융권 보안으로 널리 사용되고 있는 PKI 인증서에 합병한 미래테크놀로지 일회용비밀번호(OTP) 기술을 융합한 스마트홈 통합 보안 기술을 선보였다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스마트홈은 입주민 스마트폰 앱을 통해 홈 IoT뿐만 아니라 아파트 공용 기기까지 모두 연결할 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "월패드 이외에 이를 제어하는 스마트폰 앱, 도어록, 클라우드 및 단지 공용 서버, 가전 및 무선기기 등 다양한 기기가 네트워크로 연결돼 취약점 또한 많은 게 사실이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "현재 대다수 단지가 세대간 네트워크가 연결돼 있고 로그인 방식 또한 아이디와 비밀번호로 구성된 1차 인증만 제공하고 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한 세대가 뚫리면 다른 세대는 물론 단지 내 시설, 기기까지 연쇄 피해가 발생할 수 있는 구조다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "한국정보인증은 PKI와 OTP를 융합, 보안성을 한층 강화했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "사용자가 생체 정보로 간편하게 인증, 접속한 이후 스마트홈과 공용기기간 상호 신뢰된 PKI 인증서와 OTP로 정보를 보호한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "월패드와 도어록은 사용 중인 무선통신 주파수를 탈취, 원격 조종하는 무선 탈취 재공격 해킹 수법에 취약하다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "하지만 PKI 인증서와 OTP를 이용한 보안 인증은 이를 차단한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "스마트홈 단지 전체에 대한 취약점 분석을 통해 월패드, 가전 기기, 조명 및 센서까지 모든 연결 기기의 보안 취약점을 종합적으로 점검한다. 2차 인증 솔루션을 제공해 공용 서버부터 앱과 월패드 등 기기에 대한 접근 통제, 네트워크 인프라 점검, 불법 접속과 데이터 조작 등 이상 탐지까지 스마트홈에서 발생할 수 있는 다양한 해킹에 대해 별도 조작 없이 안전하게 보호할 수 있다.",
+				"sentenceSize": 211
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "택배기사 등 외부 출입자에게 일회성 비밀번호로 공동현관문 비밀번호를 제공할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "사용자 편의도 확보했다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "추가 인증 등 복잡한 절차없이 보안이 강화된 스마트홈 시스템을 사용할 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "아파트 월패드 해킹 사고 이후 과학기술정보통신부는 단지 서버와 세대간 망분리 의무화를 골자로 한 홈 네트워크 고시 개정을 추진 중이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "PKI∙OTP 융합 보안 기술은 세대간 암호키가 다르기 때문에 논리적 망분리를 구현할 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "한국정보인증은 올해 분양한 한화건설의 포레나 수원장안단지에 스마트홈 IoT 단지 서버와 월패드 보안솔루션 적용을 시작으로 스마트홈 보안 사업을 확대할 계획이다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "김상준 한국정보인증 대표는 \\\"다른 건설사와 적용 논의를 이어가고 있다\\\"며 \\\"연구개발을 지속해 스마트홈 보안과 스마트시티까지 연결되는 보안 인증 서비스로 발전시킬 계획\\\"이라고 밝혔다.",
+				"sentenceSize": 105
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국정보인증, PKI+OTP 융합 스마트홈 보안 솔루션 출시...망분리 통한 철통보안 제공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010599",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "막걸리 대신 '소주' 일 냈다",
+		"newsSubTitle": "작년보다 22.7% 증가한 5100만 수출… 사케 수입은 2배 ↑",
+		"newsContent": "최근 국내 주류 시장이 소주 수출 상승세와 사케 및 맥주 수입 증가 경향으로 나타나고 있다.\n23일 관세청이 제공한 지난 8월까지 수출입 주류 동향을 보면, 수출에서는 소주가 작년 대비 22.7% 증가한 5100만 수출량을 기록했다.\n맥주는 작년 대비 4.9% 줄어든 5900만 수출실적을 거뒀고, 탁주는 2200만로 작년 대비 24.1% 급감했다.\n수입 주류에서는 위스키를 제외한 전 품목에서 상승 곡선을 그렸다.\n위스키 수입량은 1300만로 작년 대비 7.3% 감소했다.\n반면 일본 직수입 사케는 330만 수입량으로 전년보다 2배 이상 늘어났고, 맥주 역시 4800만로 23% 증가세를 나타냈다.\n와인은 1800만 수입으로 6% 상승세를 보였다.\n대상국가별로 보면, 수출은 일본(소주 및 탁주)과 홍콩(맥주), 수입은 영국(위스키)과 칠레(와인), 일본(맥주 및 사케) 등에서 주종을 이뤘다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 국내 주류 시장이 소주 수출 상승세와 사케 및 맥주 수입 증가 경향으로 나타나고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 관세청이 제공한 지난 8월까지 수출입 주류 동향을 보면, 수출에서는 소주가 작년 대비 22.7% 증가한 5100만 수출량을 기록했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "맥주는 작년 대비 4.9% 줄어든 5900만 수출실적을 거뒀고, 탁주는 2200만로 작년 대비 24.1% 급감했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수입 주류에서는 위스키를 제외한 전 품목에서 상승 곡선을 그렸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "위스키 수입량은 1300만로 작년 대비 7.3% 감소했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반면 일본 직수입 사케는 330만 수입량으로 전년보다 2배 이상 늘어났고, 맥주 역시 4800만로 23% 증가세를 나타냈다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "와인은 1800만 수입으로 6% 상승세를 보였다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "대상국가별로 보면, 수출은 일본(소주 및 탁주)과 홍콩(맥주), 수입은 영국(위스키)과 칠레(와인), 일본(맥주 및 사케) 등에서 주종을 이뤘다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "최고 탐지견 가린다...관세청장배 경진대회 천안서 열려",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

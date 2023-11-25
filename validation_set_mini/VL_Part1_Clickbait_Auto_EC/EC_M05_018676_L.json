@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M05_018676",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통",
+		"newsTitle": "엔제리너스, 19일 라방 진행…반미샌드위치 최대 49% 할인",
+		"newsSubTitle": "",
+		"newsContent": "롯데GRS가 운영하는 커피 프랜차이즈 엔제리너스가 19일 11번가와 함께 라이브 방송을 진행한다고 밝혔다.\n이번 행사는 ‘엔제리너스 매장에 방문하여 반미 신제품 및 인기 제품 혜택을 털어보자’ 라는 의미로 기획했다.\n방송은 오후 8시부터 9시까지 1시간동안 11번가 '라이브(LIVE)11'에서 진행될 예정이며 최대 49% 할인 판매한다.\n행사 제품은 반미 샌드위치와 아메리카노(S)를 함께 즐길 수 있는 세트 3종이다. ‘불닭 반미 세트’, ‘불고기 반미 세트’, ‘에그마요 반미 세트’ 등으로 구성됐다.\n라이브 방송에는 개그맨 김용명과 쇼호스트 최해정이 진행한다.\n또한 라이브 방송 중 구매 인증하면 추첨을 통해 엔제리너스 모바일 금액권, 그라운드 체어 등 깜짝 증정 이벤트도 진행한다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "롯데GRS가 운영하는 커피 프랜차이즈 엔제리너스가 19일 11번가와 함께 라이브 방송을 진행한다고 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 행사는 ‘엔제리너스 매장에 방문하여 반미 신제품 및 인기 제품 혜택을 털어보자’ 라는 의미로 기획했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "방송은 오후 8시부터 9시까지 1시간동안 11번가 '라이브(LIVE)11'에서 진행될 예정이며 최대 49% 할인 판매한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "행사 제품은 반미 샌드위치와 아메리카노(S)를 함께 즐길 수 있는 세트 3종이다. ‘불닭 반미 세트’, ‘불고기 반미 세트’, ‘에그마요 반미 세트’ 등으로 구성됐다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "라이브 방송에는 개그맨 김용명과 쇼호스트 최해정이 진행한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 라이브 방송 중 구매 인증하면 추첨을 통해 엔제리너스 모바일 금액권, 그라운드 체어 등 깜짝 증정 이벤트도 진행한다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "5월 대전 땅값 상승률 '전국 1위'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

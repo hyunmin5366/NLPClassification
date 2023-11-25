@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326759",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "중기/벤처",
+		"newsTitle": "요기요 본사에서 코로나19 확진자 발생…건물 폐쇄 조치",
+		"newsSubTitle": "",
+		"newsContent": "배달 애플리케이션 '요기요' 운영사 딜리버리히어로코리아(대표 강신봉)에서 코로나19 확진자가 나왔다.\n26일 업계에 따르며 서울 서초구 마제스타시티 타워 딜리버리히어로코리아 본사 사내 카페에서 근무하던 외주업체 직원 1명이 이날 코로나19 확진 판정을 받았다.\n추가 감염자 발생 여부는 아직 확인되지 않았다.\n딜리버리히어로코리아 측은 확진자 발생 확인 이후 방역 당국에 즉각 신고 조치했으며, 근무 임직원 전체를 귀가 조치했다고 밝혔다.\n현재 건물 폐쇄 및 긴급 방역을 준비 중이다.\n확진자 근무 기간 내 밀접 접촉자는 코로나19 검사를 진행할 예정이며, 밀접 접촉자 외에도 검사를 희망하는 임직원 검사비용 전액을 딜리버리히어로코리아가 지원하기로 했다.\n딜리버리히어로코리아 관계자는 \\\"코로나19의 추가 확산 방지를 위해 당사는 확진자 감염 경로 및 동선 파악 등 방역당국에 적극 협조하고 있으며, 정부 지침에 따라 엄격하게 현 사안에 대해 즉각 대응 중\\\"이라며 \\\"철저한 후속조치와 코로나19의 추가 확산 방지를 위해 최선의 노력을 기울이겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배달 애플리케이션 '요기요' 운영사 딜리버리히어로코리아(대표 강신봉)에서 코로나19 확진자가 나왔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "26일 업계에 따르며 서울 서초구 마제스타시티 타워 딜리버리히어로코리아 본사 사내 카페에서 근무하던 외주업체 직원 1명이 이날 코로나19 확진 판정을 받았다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "추가 감염자 발생 여부는 아직 확인되지 않았다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "딜리버리히어로코리아 측은 확진자 발생 확인 이후 방역 당국에 즉각 신고 조치했으며, 근무 임직원 전체를 귀가 조치했다고 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 건물 폐쇄 및 긴급 방역을 준비 중이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "확진자 근무 기간 내 밀접 접촉자는 코로나19 검사를 진행할 예정이며, 밀접 접촉자 외에도 검사를 희망하는 임직원 검사비용 전액을 딜리버리히어로코리아가 지원하기로 했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "딜리버리히어로코리아 관계자는 \\\"코로나19의 추가 확산 방지를 위해 당사는 확진자 감염 경로 및 동선 파악 등 방역당국에 적극 협조하고 있으며, 정부 지침에 따라 엄격하게 현 사안에 대해 즉각 대응 중\\\"이라며 \\\"철저한 후속조치와 코로나19의 추가 확산 방지를 위해 최선의 노력을 기울이겠다\\\"고 말했다.",
+				"sentenceSize": 171
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "요기요 본사에서 코로나19 확진자 발생…건물 폐쇄 조치",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_011514",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피 1970선 근접",
+		"newsSubTitle": "외국인 1603억 순매수",
+		"newsContent": "엔저 여파로 폭락했던 코스피 지수가 외국인들의 매수로 1970선에 근접하며 장을 마쳤다.\n14일 코스피 지수는 전 거래일(1948.70)보다 20.13포인트(1.03%) 오른 1968.83에 장을 마감했다.\n이날 외국인은 1603억원, 기관은 1268억원의 주식을 순매수하며 장을 이끌었다.\n업종별로는 의료정밀(3.38%), 운송장비(2.44%), 기계(2.09%) 운수창고(1.94%) 등은 상승했고 의약품(-2.31%), 섬유의복(-1.43%), 종이목재(-0.51%), 음식료품(-0.28%) 등은 약세를 나타냈다.\n코스닥지수는 전날보다 5.25포인트(0.93%) 내린 560.47로, 나흘 연속 하락했다.\n운송장비부품(0.46%)을 제외하고 출판매체복제(-2.86%), 통신서비스(-2.59%), 기타제조(-2.23%) 업종 등 대부분의 업종이 하락했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엔저 여파로 폭락했던 코스피 지수가 외국인들의 매수로 1970선에 근접하며 장을 마쳤다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 코스피 지수는 전 거래일(1948.70)보다 20.13포인트(1.03%) 오른 1968.83에 장을 마감했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 외국인은 1603억원, 기관은 1268억원의 주식을 순매수하며 장을 이끌었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "업종별로는 의료정밀(3.38%), 운송장비(2.44%), 기계(2.09%) 운수창고(1.94%) 등은 상승했고 의약품(-2.31%), 섬유의복(-1.43%), 종이목재(-0.51%), 음식료품(-0.28%) 등은 약세를 나타냈다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코스닥지수는 전날보다 5.25포인트(0.93%) 내린 560.47로, 나흘 연속 하락했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "운송장비부품(0.46%)을 제외하고 출판매체복제(-2.86%), 통신서비스(-2.59%), 기타제조(-2.23%) 업종 등 대부분의 업종이 하락했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KB손해보험, 지구의 날 맞아 약관 리사이클링 '마음튼튼 KIT' 제작",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

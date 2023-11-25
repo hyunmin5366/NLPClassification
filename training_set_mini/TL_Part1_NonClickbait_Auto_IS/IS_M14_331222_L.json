@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331222",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[올쇼TV]파이어아이, 6일 RSA2020으로 본 올해 보안 트렌드 공유",
+		"newsSubTitle": "",
+		"newsContent": "파이어아이코리아는 6일 오후 3시 전자신문 웨비나 전문방송 올쇼TV에서 'RSA컨퍼런스 2020'을 통해 본 올해 보안 트렌드를 공유한다.\nRSA컨퍼런스는 세계 최대 보안 행사다.\n지난달 24일부터 28일 까지 미국 샌프란시스코에서 개최됐다.\n올해는 '인간적 요소(Human Element)'를 주제로 진화한 보안 기술과 위협을 이야기했다.\n파이어아이는 이번 컨퍼런스를 통해 보안 위협 증가와 동시에 발달된 기술, 인력 전문성의 중요도, 위협 인텔리전스와 클라우드 보안을 위한 가시성 확보에 대해 이야기한다.\n보안 관점의 접근 방식과 프레임워크에 대한 정보도 공유한다.\n급변하는 보안 트렌드에서 진화하는 위협과 공격을 방어하기 위해 우리가 주목해야 변화를 점검한다.\n웨비나 참여는 무료며 올쇼TV 사이트에서 신청하면 된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "파이어아이코리아는 6일 오후 3시 전자신문 웨비나 전문방송 올쇼TV에서 'RSA컨퍼런스 2020'을 통해 본 올해 보안 트렌드를 공유한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "RSA컨퍼런스는 세계 최대 보안 행사다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난달 24일부터 28일 까지 미국 샌프란시스코에서 개최됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올해는 '인간적 요소(Human Element)'를 주제로 진화한 보안 기술과 위협을 이야기했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "파이어아이는 이번 컨퍼런스를 통해 보안 위협 증가와 동시에 발달된 기술, 인력 전문성의 중요도, 위협 인텔리전스와 클라우드 보안을 위한 가시성 확보에 대해 이야기한다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보안 관점의 접근 방식과 프레임워크에 대한 정보도 공유한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "급변하는 보안 트렌드에서 진화하는 위협과 공격을 방어하기 위해 우리가 주목해야 변화를 점검한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "웨비나 참여는 무료며 올쇼TV 사이트에서 신청하면 된다.",
+				"sentenceSize": 31
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[올쇼TV]파이어아이, 6일 RSA2020으로 본 올해 보안 트렌드 공유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

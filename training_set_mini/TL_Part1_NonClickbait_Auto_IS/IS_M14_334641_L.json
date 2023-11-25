@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334641",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[데이터뉴스]SW기술자 중 IT컨설턴트가 임금 가장 높아",
+		"newsSubTitle": "",
+		"newsContent": "소프트웨어(SW) 기술자 가운데 월평균 임금이 가장 높은 직종은 정보기술(IT) 컨설턴트다.\n다음은 IT 마케터, IT 프로젝트 관리자, SW 아키텍트 순이다.\nIT 보안엔지니어가 가장 낮다.\n한국소프트웨어산업협회는 지난해 6월부터 3개월 동안 SW 기업 1025개, 기술자 5만3363명을 대상으로 국가직무표준에 따라 11개 직종별로 임금 실태를 조사했다.\n조사 결과 IT 컨설턴트의 월평균 임금이 849만8999원으로 가장 많았다.\nIT 마케터 750만2283원, IT 프로젝트 관리자 748만9991원, SW 아키텍트 727만2997만원, IT 품질관리자 686만3528원으로 나타났다.\nIT 보안엔지니어는 474만9565원이었다.\n11개 직종의 평균 월임금은 651만3467원이었다.\n한국소프트웨어산업협회는 연차가 오래된 경력자가 많이 포함된 직종은 대체로 평균임금이 높고, 단순 업무 수행과 신입 직원이 많이 포함된 직종은 낮다고 분석했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "소프트웨어(SW) 기술자 가운데 월평균 임금이 가장 높은 직종은 정보기술(IT) 컨설턴트다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "다음은 IT 마케터, IT 프로젝트 관리자, SW 아키텍트 순이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "IT 보안엔지니어가 가장 낮다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국소프트웨어산업협회는 지난해 6월부터 3개월 동안 SW 기업 1025개, 기술자 5만3363명을 대상으로 국가직무표준에 따라 11개 직종별로 임금 실태를 조사했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조사 결과 IT 컨설턴트의 월평균 임금이 849만8999원으로 가장 많았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "IT 마케터 750만2283원, IT 프로젝트 관리자 748만9991원, SW 아키텍트 727만2997만원, IT 품질관리자 686만3528원으로 나타났다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "IT 보안엔지니어는 474만9565원이었다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "11개 직종의 평균 월임금은 651만3467원이었다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한국소프트웨어산업협회는 연차가 오래된 경력자가 많이 포함된 직종은 대체로 평균임금이 높고, 단순 업무 수행과 신입 직원이 많이 포함된 직종은 낮다고 분석했다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[데이터뉴스]SW기술자 중 IT컨설턴트가 임금 가장 높아",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

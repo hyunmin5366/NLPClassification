@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010441",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피 6일만에 1930선",
+		"newsSubTitle": "13.96포인트 하락",
+		"newsContent": "코스피 지수가 6거래일 만에 하락하며 1930선으로 내려앉았다.\n13일 코스피 지수는 전 거래일보다 13.96포인트(0.72%) 내린 1932.44에 장을 마쳤다.\n코스피 지수는 외국인과 프로그램이 각각 2644억과 3301억을 동반 매수했지만 기관이 2331억, 개인이 275억원을 매도하며 지수하락을 이끌었다.\n업종별로는 보험, 통신업, 음식료품, 종이ㆍ목재, 의약품 등이 상승했고, 화학, 기계, 철강ㆍ금속, 전기ㆍ전자, 운송장비, 유통, 건설, 제조업 등이 하락했다.\n코스피 지수에서는 상한가 7종목을 비롯해 387개 종목이 상승했고, 하한가 1종목 포함해 420개 종목이 하락했다.\n보합은 85종목에 그쳤다.\n이날 코스닥 지수는 전거래일 2.89포인트(0.61%) 오른 478.40에 장을 마쳤다.\n개인이 홀로 68억원 순매도했고, 외국인과 기관이 각각 20억과 33억원을 동반 순매수했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피 지수가 6거래일 만에 하락하며 1930선으로 내려앉았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 코스피 지수는 전 거래일보다 13.96포인트(0.72%) 내린 1932.44에 장을 마쳤다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코스피 지수는 외국인과 프로그램이 각각 2644억과 3301억을 동반 매수했지만 기관이 2331억, 개인이 275억원을 매도하며 지수하락을 이끌었다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "업종별로는 보험, 통신업, 음식료품, 종이ㆍ목재, 의약품 등이 상승했고, 화학, 기계, 철강ㆍ금속, 전기ㆍ전자, 운송장비, 유통, 건설, 제조업 등이 하락했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코스피 지수에서는 상한가 7종목을 비롯해 387개 종목이 상승했고, 하한가 1종목 포함해 420개 종목이 하락했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보합은 85종목에 그쳤다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 코스닥 지수는 전거래일 2.89포인트(0.61%) 오른 478.40에 장을 마쳤다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "개인이 홀로 68억원 순매도했고, 외국인과 기관이 각각 20억과 33억원을 동반 순매수했다.",
+				"sentenceSize": 51
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전국세청 '꿈꾸는 학생들에게 미래를'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

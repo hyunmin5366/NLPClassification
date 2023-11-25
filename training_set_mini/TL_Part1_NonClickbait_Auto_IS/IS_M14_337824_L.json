@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337824",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "美 포드, \\\"SK와 배터리 합작사업, 미국서 유럽으로 확대\\\"",
+		"newsSubTitle": "",
+		"newsContent": "미국 포드자동차와 SK이노베이션이 합작 설립하기로 한 전기차 배터리 회사가 미국을 넘어 유럽으로도 사업 영역을 확대할 것이라고 미국 포드의 고위 임원이 11일(현지시간) 밝혔다.\n로이터통신 보도에 따르면 포드의 최고 생산플랫폼∙운영 책임자(COO)인 하우 타이 탱은 이날 JP모건 주최 콘퍼런스에서 SK와의 합작 배터리 회사 설립을 긍정적으로 평가하면서 \\\"확실히 유럽으로도 확대될 것\\\"이라고 말했다.\n앞서 지난 5월 포드와 SK이노베이션은 미국에 합작법인(JV)으로 '블루오벌에스케이(BlueOvalSK)' 설립을 위한 양해각서(MOU)를 교환했다.\n양사가 설립할 합작 공장은 연간 약 60GWh 규모의 배터리 셀과 모듈 등을 생산하게 된다.\n60GWh는 약 100㎾h 배터리가 필요한 전기 픽업트럭 60만대를 생산할 수 있는 규모다.\nSK이노베이션은 포드와 합작에 앞서 미국 조지아주에서 이미 1, 2공장을 운영∙건설 중이다.\n이날 타이 탱은 포드가 기어 박스와 전기차 모터의 자체 생산 체제를 갖췄다면서 소프트웨어와 차량용 반도체 칩의 수직 통합 가능성도 보고 있다고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 포드자동차와 SK이노베이션이 합작 설립하기로 한 전기차 배터리 회사가 미국을 넘어 유럽으로도 사업 영역을 확대할 것이라고 미국 포드의 고위 임원이 11일(현지시간) 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "로이터통신 보도에 따르면 포드의 최고 생산플랫폼∙운영 책임자(COO)인 하우 타이 탱은 이날 JP모건 주최 콘퍼런스에서 SK와의 합작 배터리 회사 설립을 긍정적으로 평가하면서 \\\"확실히 유럽으로도 확대될 것\\\"이라고 말했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 지난 5월 포드와 SK이노베이션은 미국에 합작법인(JV)으로 '블루오벌에스케이(BlueOvalSK)' 설립을 위한 양해각서(MOU)를 교환했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "양사가 설립할 합작 공장은 연간 약 60GWh 규모의 배터리 셀과 모듈 등을 생산하게 된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "60GWh는 약 100㎾h 배터리가 필요한 전기 픽업트럭 60만대를 생산할 수 있는 규모다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SK이노베이션은 포드와 합작에 앞서 미국 조지아주에서 이미 1, 2공장을 운영∙건설 중이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 타이 탱은 포드가 기어 박스와 전기차 모터의 자체 생산 체제를 갖췄다면서 소프트웨어와 차량용 반도체 칩의 수직 통합 가능성도 보고 있다고 말했다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美 포드, \\\"SK와 배터리 합작사업, 미국서 유럽으로 확대\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

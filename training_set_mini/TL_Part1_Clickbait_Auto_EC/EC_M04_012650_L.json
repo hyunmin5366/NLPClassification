@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012650",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "지역 금융기관 작년 7곳 감소",
+		"newsSubTitle": "대전·충남 14곳 줄고 세종 7곳 늘어",
+		"newsContent": "지난해 대전과 세종, 충남지역 금융기관 점포수가 2012년보다 7곳 감소한 것으로 나타났다.\n13일 한국은행 대전충남본부가 발표한 '지역 금융기관 점포 현황'을 보면 예금은행은 전년인 2012년보다 3곳이 늘었고 비은행기관은 전년보다 10곳 감소해 지역 금융기관 점포수 1115개로조사됐다.\n지역별로는 대전과 충남지역이 각각 5개, 9개 감소했고, 세종지역은 7개 증가했다.\n전국대비 점포수 비중은 2012년 말 대비 0.1%포인트 상승한 7.67%로 2010년(7.50%) 이후 꾸준한 증가세가 지속됐다.\n예금은행 중 일반은행 점포는 세종시 신규입점 등으로 전년보다 3곳이 증가한 283곳으로 집계됐다.\n은행별로는 전북은행이 2곳, 국민은행 1곳 늘었고, 우리은행은 2곳 줄었다.\n특수은행은 농협중앙회 4곳, 수협중앙회 1곳이 늘어난 반면, 기업은행은 3곳 줄었다.\n비은행금융기관은 수익성 악화에 따른 상호저축 은행 점포수 감소로 전년 699곳에서 698곳으로 10곳이 줄었다.\n상호저축은행이 7곳으로 가장 많이 줄었으며, 상호금융 3곳, 신협 1곳, 새마을금고 1곳이 줄었었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 대전과 세종, 충남지역 금융기관 점포수가 2012년보다 7곳 감소한 것으로 나타났다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 한국은행 대전충남본부가 발표한 '지역 금융기관 점포 현황'을 보면 예금은행은 전년인 2012년보다 3곳이 늘었고 비은행기관은 전년보다 10곳 감소해 지역 금융기관 점포수 1115개로조사됐다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지역별로는 대전과 충남지역이 각각 5개, 9개 감소했고, 세종지역은 7개 증가했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전국대비 점포수 비중은 2012년 말 대비 0.1%포인트 상승한 7.67%로 2010년(7.50%) 이후 꾸준한 증가세가 지속됐다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "예금은행 중 일반은행 점포는 세종시 신규입점 등으로 전년보다 3곳이 증가한 283곳으로 집계됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "은행별로는 전북은행이 2곳, 국민은행 1곳 늘었고, 우리은행은 2곳 줄었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특수은행은 농협중앙회 4곳, 수협중앙회 1곳이 늘어난 반면, 기업은행은 3곳 줄었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "비은행금융기관은 수익성 악화에 따른 상호저축 은행 점포수 감소로 전년 699곳에서 698곳으로 10곳이 줄었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "상호저축은행이 7곳으로 가장 많이 줄었으며, 상호금융 3곳, 신협 1곳, 새마을금고 1곳이 줄었었다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'창ㆍ폐업 악순환' 중기청이 나섰다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015970",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "소비자원, 외국 리콜제품 국내판매 중지 요청",
+		"newsSubTitle": "",
+		"newsContent": "한국소비자원은 지난 1~3월 외국에서 리콜된 26개 제품이 국내에서 유통되고 있음을 확인하고 제품 판매중지와 환불조치를 내렸다고 14일 밝혔다.\n품목별로는 가전제품과 아동용품이 각 6건(23%)으로 가장 많았다.\n이어 화장품·화학제품 4건(15.4%), 레저용품 3건(11.5%) 순이다.\n소비자원은 국내 판매 이력이 확인되지 않은 19개 제품은 온라인 외국 직구 쇼핑몰에서 해당 제품의 게시를 삭제하고 판매 중지시켰다.\n또 국내 공식 수입·유통업자가 판매하는 유아용 완구(IKEA, LATTJO Tongue Drum), 천장등(IKEA, HYBY and LOCK Ceiling lamps), 유아용 트레일러(코메트바이시클, Child Bicycle Trailers) 등은 사업자의 자발적 협조를 요청했다.\n이어 소비자가 외국 현지에서 구매한 제품과 외국 직구 등으로 구입한 제품까지 무상 수리와 교환, 환급 등을 진행했다.\n소비자원 관계자는 “외국 직구와 구매대행 등의 방법으로 리콜대상 제품을 구매했거나, 구입하려는 소비자는 외국 리콜 정보를 수시로 확인해야 한다”고 당부했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국소비자원은 지난 1~3월 외국에서 리콜된 26개 제품이 국내에서 유통되고 있음을 확인하고 제품 판매중지와 환불조치를 내렸다고 14일 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "품목별로는 가전제품과 아동용품이 각 6건(23%)으로 가장 많았다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 화장품·화학제품 4건(15.4%), 레저용품 3건(11.5%) 순이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "소비자원은 국내 판매 이력이 확인되지 않은 19개 제품은 온라인 외국 직구 쇼핑몰에서 해당 제품의 게시를 삭제하고 판매 중지시켰다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 국내 공식 수입·유통업자가 판매하는 유아용 완구(IKEA, LATTJO Tongue Drum), 천장등(IKEA, HYBY and LOCK Ceiling lamps), 유아용 트레일러(코메트바이시클, Child Bicycle Trailers) 등은 사업자의 자발적 협조를 요청했다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이어 소비자가 외국 현지에서 구매한 제품과 외국 직구 등으로 구입한 제품까지 무상 수리와 교환, 환급 등을 진행했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "소비자원 관계자는 “외국 직구와 구매대행 등의 방법으로 리콜대상 제품을 구매했거나, 구입하려는 소비자는 외국 리콜 정보를 수시로 확인해야 한다”고 당부했다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "봄 세일 기지개… 어서오세요",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

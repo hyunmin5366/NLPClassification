@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007800",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "한파 때문에…전력수요 사상최고",
+		"newsSubTitle": "대전·충남 6986 기록",
+		"newsContent": "계속되는 한파로 대전·충남 지역의 전력수요가 지난 10일 자정, 사상 최고치인 6986를 기록했다.\n11일 한전에 따르면 기존의 최고치인 지난 7일 자정 6959를 갱신했고 전력수요가 갈수록 늘어나는 것으로 나타났다.\n이는 이상 한파에 따른 난방수요 증가, 경기회복에 따른 산업용 전력소비 증가가 전력피크를 기록한 주요 요인이라고 분석했다.\n한전은 동계 수급 안정을 위해 지난 5일부터 오는 14일까지 8일간 주간예고 수요관리를 시행해 대전충남 154(전국1500)의 전력수요를 감축 시행하고 있다.\n또 지역민에게 자발적인 에너지절약을 당부했다.\n실내 난방온도 준수, 피크 시간대(오전 10시~12시 및 오후 4~6시) 전기난방 자제 등을 소개했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "계속되는 한파로 대전·충남 지역의 전력수요가 지난 10일 자정, 사상 최고치인 6986를 기록했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 한전에 따르면 기존의 최고치인 지난 7일 자정 6959를 갱신했고 전력수요가 갈수록 늘어나는 것으로 나타났다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이는 이상 한파에 따른 난방수요 증가, 경기회복에 따른 산업용 전력소비 증가가 전력피크를 기록한 주요 요인이라고 분석했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한전은 동계 수급 안정을 위해 지난 5일부터 오는 14일까지 8일간 주간예고 수요관리를 시행해 대전충남 154(전국1500)의 전력수요를 감축 시행하고 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 지역민에게 자발적인 에너지절약을 당부했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "실내 난방온도 준수, 피크 시간대(오전 10시~12시 및 오후 4~6시) 전기난방 자제 등을 소개했다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"1050만원이 5만원으로\\\"…'루나 99% 폭락'에 커지는 법 제정 목소리",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

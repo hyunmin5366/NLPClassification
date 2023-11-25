@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328115",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "콘텐츠",
+		"newsTitle": "구글, AI로 외계 행성·생명 찾는다",
+		"newsSubTitle": "",
+		"newsContent": "구글이 천문학 분야에 인공지능(AI)을 활용한다.\n기계에 데이터를 학습시켜 육안으로 놓친 외계 행성을 찾아낸다.\n향후 기계학습(머신러닝) 기법을 활용, 외계 생명체 발견까지 도전한다.\n크리스 샬루 구글 시니어 리서치 소프트웨어 엔지니어는 31일 서울 구글코리아에서 열린 '구글 AI 포럼: AI 혁신과 천체의 발견' 행사에서 AI 방법론인 기계학습으로 '케플러 80g' '케플러 90i' 행성을 발견한 성과를 공개했다.\n구글 연구조직 구글브레인은 미국항공우주국(NASA)이 사용하는 케플러 망원경을 통해 수집한 방대한 데이터에서 인간 천문학자가 식별하지 못한 행성을 AI로 찾아내는 문제를 연구해왔다.\n텍사스대 오스틴캠퍼스 연구팀과 기계학습 모델을 개발했다.\n천체물리학계는 4년 동안 약 20만개 항성을 관찰하며 30분마다 사진을 찍었다.\n그 결과 약 140억 개 데이터 포인트를 생성했다.\n약 2000조개 행성 궤도가 존재하는 규모다.\n이 같은 방대한 정보를 인간이 직접 검토하는 것은 힘들다.\n신호가 약한 경우 노이즈 탓에 육안으로 식별하기 어렵다.\n구글 연구진은 1만5000개 이상 분류된 케플러 신호 데이터를 활용, 행성과 행성이 아닌 것을 판별하는 기계학습 모델을 개발했다.\n학습을 통해 신호가 행성인지 아닌지 판별하는 정확도를 96%까지 높였다.\n이 모델을 실전에 적용한 결과 두 행성을 발견했다.\n특히 케플러 90i는 항성 캐플러90을 공전하고 있는 8번째 행성으로 밝혀졌다.\n케플러 90은 우리 태양계 외부에 존재하는 다른 태양계 중 최초로 8개 행성을 보유한 항성으로 확인됐다.\n구글은 기계학습을 통한 행성 발견을 더욱 확대한다.\n연구팀은 이 모델을 통해 20만개 항성 중 670개만 살펴봤다.\n나머지 케플러 데이터에 아직 발견되지 않은 수많은 외계행성이 존재할 가능성이 있다.\n외계 생명체 발견을 위한 추가 모델 개발도 추진한다.\n현재 기법으론 행성을 식별할 수만 있고 적정 온도대 행성을 식별하지 못했다.\n행성의 화학적 구조 등도 관찰하기 어렵다.\n샬루 엔지니어는 \\\"지금 발견한 행성은 온도가 높아 생명체가 없을 것\\\"이라며 \\\"이른 시간 내 적정한 온도의 행성을 찾아 생명체 가능성까지 살펴보려 한다\\\"고 말했다.\n그는 \\\"기계학습 같은 새로운 아이디어와 기술은 앞으로 오랫동안 천체 발견에 일조할 것\\\"이라고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구글이 천문학 분야에 인공지능(AI)을 활용한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기계에 데이터를 학습시켜 육안으로 놓친 외계 행성을 찾아낸다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "향후 기계학습(머신러닝) 기법을 활용, 외계 생명체 발견까지 도전한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "크리스 샬루 구글 시니어 리서치 소프트웨어 엔지니어는 31일 서울 구글코리아에서 열린 '구글 AI 포럼: AI 혁신과 천체의 발견' 행사에서 AI 방법론인 기계학습으로 '케플러 80g' '케플러 90i' 행성을 발견한 성과를 공개했다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "구글 연구조직 구글브레인은 미국항공우주국(NASA)이 사용하는 케플러 망원경을 통해 수집한 방대한 데이터에서 인간 천문학자가 식별하지 못한 행성을 AI로 찾아내는 문제를 연구해왔다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "텍사스대 오스틴캠퍼스 연구팀과 기계학습 모델을 개발했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "천체물리학계는 4년 동안 약 20만개 항성을 관찰하며 30분마다 사진을 찍었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그 결과 약 140억 개 데이터 포인트를 생성했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "약 2000조개 행성 궤도가 존재하는 규모다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 같은 방대한 정보를 인간이 직접 검토하는 것은 힘들다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "신호가 약한 경우 노이즈 탓에 육안으로 식별하기 어렵다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "구글 연구진은 1만5000개 이상 분류된 케플러 신호 데이터를 활용, 행성과 행성이 아닌 것을 판별하는 기계학습 모델을 개발했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "학습을 통해 신호가 행성인지 아닌지 판별하는 정확도를 96%까지 높였다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이 모델을 실전에 적용한 결과 두 행성을 발견했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "특히 케플러 90i는 항성 캐플러90을 공전하고 있는 8번째 행성으로 밝혀졌다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "케플러 90은 우리 태양계 외부에 존재하는 다른 태양계 중 최초로 8개 행성을 보유한 항성으로 확인됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "구글은 기계학습을 통한 행성 발견을 더욱 확대한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "연구팀은 이 모델을 통해 20만개 항성 중 670개만 살펴봤다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "나머지 케플러 데이터에 아직 발견되지 않은 수많은 외계행성이 존재할 가능성이 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "외계 생명체 발견을 위한 추가 모델 개발도 추진한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "현재 기법으론 행성을 식별할 수만 있고 적정 온도대 행성을 식별하지 못했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "행성의 화학적 구조 등도 관찰하기 어렵다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "샬루 엔지니어는 \\\"지금 발견한 행성은 온도가 높아 생명체가 없을 것\\\"이라며 \\\"이른 시간 내 적정한 온도의 행성을 찾아 생명체 가능성까지 살펴보려 한다\\\"고 말했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "그는 \\\"기계학습 같은 새로운 아이디어와 기술은 앞으로 오랫동안 천체 발견에 일조할 것\\\"이라고 강조했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "구글, AI로 외계 행성·생명 찾는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

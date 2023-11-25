@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350958",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"수백개 후기 언제 다 읽지?\\\"…네이버 AI가 한줄로 요약해준다",
+		"newsSubTitle": "null",
+		"newsContent": "네이버(NAVER)가 초대규모 AI(인공지능) '하이퍼클로바' 상용화에 속도를 내고 있다.\n하이퍼클로바를 검색·쇼핑서비스에 적용한 데 이어, 수많은 후기를 한 문장으로 요약해주는 기능도 선보인다.\n네이버는 하이퍼클로바 기반의 'Ai리뷰 요약' 기능을 선보인다고 30일 밝혔다.\n이는 스마트스토어 내 방대한 후기를 분석해 제품의 특징을 대표하는 한 문장으로 추출하는 기능이다.\n이용자들이 모든 후기를 읽지 않아도 Ai리뷰 요약이 제공하는 한 줄 후기로 상품을 파악할 수 있어 쇼핑 효율성이 제고될 것으로 회사 측은 기대했다.\nAi리뷰 요약은 총 네 단계로 진행된다.\n후기의 주요 키워드를 분석해 속성별로 분류한 후, 지나치게 짧거나 무의미한 단어 반복 등 기준에 맞지 않는 문장들을 필터링 한다.\n의미가 유사한 표현을 몇 개 그룹으로 분류(클러스터링)하고, 하이퍼클로바로 자연스러운 요약문을 만든다.\n이를 'AI클린봇' 등 자동화 모듈로 비속어를 검수하고 문장을 교정한다.\n네이버는 Ai리뷰 요약에 자체 개발한 검증기술도 적용해 이용자가 입력한 표현 내에서 문장을 생성할 수 있도록 정확도를 높였다.\n네이버 자체 평가 결과에 따르면 검증기술 적용 후 요약 과정의 정확도가 약 20% 이상 증가했다.\nAi리뷰 요약은 가구·인테리어 카테고리에 있는 약 440만개 상품에 우선 적용되며, 적용 범위는 순차 확대될 예정이다.\n향후 여러 상품을 동시 비교하거나, 제품 요약 카탈로그 등을 자동 생성하는 연구 등도 진행할 계획이다.\n서대룡 네이버 NLP(자연어처리) 감정분석팀 리더는 \\\"네이버쇼핑은 국내 최대규모의 상품 DB와 방대한 실구매 후기 등으로 이용자가 필요한 쇼핑정보를 제공한다\\\"라며 \\\"여기에 AI 기술력까지 더해 만족도 높은 쇼핑경험을 주도록 기술적으로 진화할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버(NAVER)가 초대규모 AI(인공지능) '하이퍼클로바' 상용화에 속도를 내고 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하이퍼클로바를 검색·쇼핑서비스에 적용한 데 이어, 수많은 후기를 한 문장으로 요약해주는 기능도 선보인다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "네이버는 하이퍼클로바 기반의 'Ai리뷰 요약' 기능을 선보인다고 30일 밝혔다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 스마트스토어 내 방대한 후기를 분석해 제품의 특징을 대표하는 한 문장으로 추출하는 기능이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이용자들이 모든 후기를 읽지 않아도 Ai리뷰 요약이 제공하는 한 줄 후기로 상품을 파악할 수 있어 쇼핑 효율성이 제고될 것으로 회사 측은 기대했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "Ai리뷰 요약은 총 네 단계로 진행된다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "후기의 주요 키워드를 분석해 속성별로 분류한 후, 지나치게 짧거나 무의미한 단어 반복 등 기준에 맞지 않는 문장들을 필터링 한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "의미가 유사한 표현을 몇 개 그룹으로 분류(클러스터링)하고, 하이퍼클로바로 자연스러운 요약문을 만든다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이를 'AI클린봇' 등 자동화 모듈로 비속어를 검수하고 문장을 교정한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "네이버는 Ai리뷰 요약에 자체 개발한 검증기술도 적용해 이용자가 입력한 표현 내에서 문장을 생성할 수 있도록 정확도를 높였다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "네이버 자체 평가 결과에 따르면 검증기술 적용 후 요약 과정의 정확도가 약 20% 이상 증가했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "Ai리뷰 요약은 가구·인테리어 카테고리에 있는 약 440만개 상품에 우선 적용되며, 적용 범위는 순차 확대될 예정이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "향후 여러 상품을 동시 비교하거나, 제품 요약 카탈로그 등을 자동 생성하는 연구 등도 진행할 계획이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "서대룡 네이버 NLP(자연어처리) 감정분석팀 리더는 \\\"네이버쇼핑은 국내 최대규모의 상품 DB와 방대한 실구매 후기 등으로 이용자가 필요한 쇼핑정보를 제공한다\\\"라며 \\\"여기에 AI 기술력까지 더해 만족도 높은 쇼핑경험을 주도록 기술적으로 진화할 것\\\"이라고 말했다.",
+				"sentenceSize": 149
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"수백개 후기 언제 다 읽지?\\\"…네이버 AI가 한줄로 요약해준다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

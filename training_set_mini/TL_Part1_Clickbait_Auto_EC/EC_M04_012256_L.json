@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012256",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "차량용 블랙박스 10개중 7개는 '기준 미달'",
+		"newsSubTitle": "한국소비자원 31개 제품 분석…번호판 식별·시야각 등 성능 부실",
+		"newsContent": "시중에 판매 중인 차량용 블랙박스 10개중 7개는 번호판 식별성, 시야각 등 주요 기능이 KS(한국산업표준) 기준에 미달한 것으로 조사됐다.\n한국소비자원이 차량용 블랙박스 31개에 대해 영상 품질·동영상 저장 성능·내환경성 등을 비교 분석한 결과, 68%인 21개 제품이 번호판 식별성이나 시야각, 초당 저장화면수 등에서 KS 기준에 미달한 것으로 나타났다.\n가격이 28만원대로 가장 비싼 큐알온텍의 'LK-7900HD ACE'는 진동 시험에서 거치대가 파손돼 KS기준에 미달했으며 하나엔지니어링코리아의 'MHD-K12', 재원씨앤씨 'IONE-900HD', 엠피지오 'GrandView'등 3개 제품은 야간 번호판 식별이 미흡한 것으로 나타났다.\n또한 한솔온라인의 한솔온라인의 'HVD-101'은 국가통합인증(KC) 마크가 없어 전파법을 위반한 것으로 나타났다.\n중국에서 제조된 13개 제품중 4개 제품은 주차녹화 기능이 별도로 없거나 작동이 불안정했으며 나머지 9개 제품은 주차할때마다 수동으로 설정을 변경해야 하는 등 사용이 불편한 것으로 나타났다.\n소비자원은 “막연히 해상도가 높은 풀HD급 고가의 제품을 선호하기 보다는 번호판 식별성 등 영상 품질과 동영상 저장성능 등의 우수한 제품을 선택하는 것이 바람직하다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "시중에 판매 중인 차량용 블랙박스 10개중 7개는 번호판 식별성, 시야각 등 주요 기능이 KS(한국산업표준) 기준에 미달한 것으로 조사됐다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국소비자원이 차량용 블랙박스 31개에 대해 영상 품질·동영상 저장 성능·내환경성 등을 비교 분석한 결과, 68%인 21개 제품이 번호판 식별성이나 시야각, 초당 저장화면수 등에서 KS 기준에 미달한 것으로 나타났다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "가격이 28만원대로 가장 비싼 큐알온텍의 'LK-7900HD ACE'는 진동 시험에서 거치대가 파손돼 KS기준에 미달했으며 하나엔지니어링코리아의 'MHD-K12', 재원씨앤씨 'IONE-900HD', 엠피지오 'GrandView'등 3개 제품은 야간 번호판 식별이 미흡한 것으로 나타났다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 한솔온라인의 한솔온라인의 'HVD-101'은 국가통합인증(KC) 마크가 없어 전파법을 위반한 것으로 나타났다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "중국에서 제조된 13개 제품중 4개 제품은 주차녹화 기능이 별도로 없거나 작동이 불안정했으며 나머지 9개 제품은 주차할때마다 수동으로 설정을 변경해야 하는 등 사용이 불편한 것으로 나타났다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소비자원은 “막연히 해상도가 높은 풀HD급 고가의 제품을 선호하기 보다는 번호판 식별성 등 영상 품질과 동영상 저장성능 등의 우수한 제품을 선택하는 것이 바람직하다”고 밝혔다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "충남, 실업급여 지급 증가율 '전국 2위'… 1년새 1226명 증가",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

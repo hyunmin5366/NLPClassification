@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324951",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "이종 양자암호통신망 연동... NIA-장비사-IDQ 실증 돌입",
+		"newsSubTitle": "",
+		"newsContent": "앞으로 서로 다른 이동통신사의 양자암호통신망으로도 양자암호로 보안화된 문서와 데이터를 주고받을 수 있을 것으로 전망된다.\n한국정보화진흥원(NIA)은 전송장비 제조사 코위버·우리넷, 양자암호통신 기업 IDQ(SK텔레콤 자회사)와 오픈 인터페이스 기반의 양자암호통신 전송 통합장치 실증에 들어간다.\n지금까지는 서로 다른 회사가 만든 양자암호분배키(QKD)가 적용된 양자암호통신망 간 양자키 값 송·수신이 불가능했다.\n그러나 오픈 인터페이스 기반 모듈이 전송 장비에 연동되면 이종 양자암호분배키가 적용된 양자암호통신망 간에도 양자키 값을 주고받을 수 있게 된다.\n한국정보화진흥원 관계자는 22일 “가령 지방자치단체 2곳이 양자암호화된 보안 문서를 주고받을 때 서로 다른 이통사 양자암호통신망을 사용해도 오픈 인터페이스를 통해 문서를 공유할 수 있게 된다”고 설명했다.\n오픈인터페이스는 앞으로 국방 유선망, 클라우드 백본, 금융망, 5세대(5G) 이통 전달망, 국가 및 지자체 행정망, 스마트 그리드 망, 국가융합망 등과 같은 공공성과 보안 필요성이 높은 망에 활용될 예정이다.\n실증은 코렌망을 활용해 진행한다.\n한국정보화진흥원과 참여사는 서울과 판교 사이 35㎞ 구간에 양자키 분배시스템을 설치하고 전송장비와 연동해 양자키 관리망을 구축한다.\n이를 통해 전송장비의 암호화 유니트와 양자키관리시스템(KMS) 간 양자키 값 전달을 실증할 계획이다.\n양자키관리계층(KML)과 양자암호통신 서비스 계층 간 연결 구간은 실증의 핵심인 오픈인터페이스로 구축된다.\n오픈인터페이스에 키 값을 공급하는 것은 양자암호분배키로, 표준화된 양자암호분배키인 유럽전기통신표준화기구(ETSI)의 GS QKD014가 활용된다.\n코위버와 우리넷은 전송장비(ROADM,POTN)에 각각 200Gbps와 100Gbps급 암호화 전송 유니트를 적용하고, 오픈 인터페이스 기반의 양자암호키 통신 기능을 구현한다.\n코위버 관계자는 “전송장치에 오픈 인터페이스 기반 암호화 모듈을 적용하면 다양한 양자암호분배키와 연동할 수 있는 암호화 모듈이 개발되는 기틀이 마련될 것”이라고 말했다.\n한국정보화진흥원과 참여사는 연말 실증을 완료하고 오픈 인터페이스에 대해 TTA(한국정보통신협회)를 통한 국내 표준화를 진행할 계획이다.\n오픈 인터페이스를 통한 이종 양자암호통신망 간 연동은 유럽 일부 국가와 일본이 성공했다.\n양자암호통신 관계자는 “실증을 통해 글로벌 격차를 줄일 수 있을 것”이라면서 “양자암호 분야의 글로벌 경쟁이 치열하게 전개되고 있는 만큼 정부가 관련 정책을 추진하고 기술을 지원해야 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "앞으로 서로 다른 이동통신사의 양자암호통신망으로도 양자암호로 보안화된 문서와 데이터를 주고받을 수 있을 것으로 전망된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국정보화진흥원(NIA)은 전송장비 제조사 코위버·우리넷, 양자암호통신 기업 IDQ(SK텔레콤 자회사)와 오픈 인터페이스 기반의 양자암호통신 전송 통합장치 실증에 들어간다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지금까지는 서로 다른 회사가 만든 양자암호분배키(QKD)가 적용된 양자암호통신망 간 양자키 값 송·수신이 불가능했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 오픈 인터페이스 기반 모듈이 전송 장비에 연동되면 이종 양자암호분배키가 적용된 양자암호통신망 간에도 양자키 값을 주고받을 수 있게 된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한국정보화진흥원 관계자는 22일 “가령 지방자치단체 2곳이 양자암호화된 보안 문서를 주고받을 때 서로 다른 이통사 양자암호통신망을 사용해도 오픈 인터페이스를 통해 문서를 공유할 수 있게 된다”고 설명했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오픈인터페이스는 앞으로 국방 유선망, 클라우드 백본, 금융망, 5세대(5G) 이통 전달망, 국가 및 지자체 행정망, 스마트 그리드 망, 국가융합망 등과 같은 공공성과 보안 필요성이 높은 망에 활용될 예정이다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실증은 코렌망을 활용해 진행한다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한국정보화진흥원과 참여사는 서울과 판교 사이 35㎞ 구간에 양자키 분배시스템을 설치하고 전송장비와 연동해 양자키 관리망을 구축한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이를 통해 전송장비의 암호화 유니트와 양자키관리시스템(KMS) 간 양자키 값 전달을 실증할 계획이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "양자키관리계층(KML)과 양자암호통신 서비스 계층 간 연결 구간은 실증의 핵심인 오픈인터페이스로 구축된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "오픈인터페이스에 키 값을 공급하는 것은 양자암호분배키로, 표준화된 양자암호분배키인 유럽전기통신표준화기구(ETSI)의 GS QKD014가 활용된다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "코위버와 우리넷은 전송장비(ROADM,POTN)에 각각 200Gbps와 100Gbps급 암호화 전송 유니트를 적용하고, 오픈 인터페이스 기반의 양자암호키 통신 기능을 구현한다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "코위버 관계자는 “전송장치에 오픈 인터페이스 기반 암호화 모듈을 적용하면 다양한 양자암호분배키와 연동할 수 있는 암호화 모듈이 개발되는 기틀이 마련될 것”이라고 말했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한국정보화진흥원과 참여사는 연말 실증을 완료하고 오픈 인터페이스에 대해 TTA(한국정보통신협회)를 통한 국내 표준화를 진행할 계획이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "오픈 인터페이스를 통한 이종 양자암호통신망 간 연동은 유럽 일부 국가와 일본이 성공했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "양자암호통신 관계자는 “실증을 통해 글로벌 격차를 줄일 수 있을 것”이라면서 “양자암호 분야의 글로벌 경쟁이 치열하게 전개되고 있는 만큼 정부가 관련 정책을 추진하고 기술을 지원해야 한다”고 말했다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이종 양자암호통신망 연동... NIA-장비사-IDQ 실증 돌입",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

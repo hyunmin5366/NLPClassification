@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327471",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "5G 첫달 성적, KT가 10만 가입자 유치하며 1위",
+		"newsSubTitle": "",
+		"newsContent": "한국이 세계 최초 상용화한 5세대(5G) 이동통신 첫달 가입자가 27만 명을 넘었다.\n이동통신3사 가운데 KT가 1위를 차지했다.\n과학기술정보통신부에 따르면 4월 5G 가입자는 27만1686명을 기록했다.\n과기정통부가 매달 발표하는 무선통신서비스 통계 현황에 5G가 포함된 건 처음이다.\n4월 3일 세계 최초 5G를 상용화한 이통3사는 '이동통신 새판'을 짜기 위해 치열한 가입자 유치전을 폈다.\n그 결과 KT가 10만4696명으로 1위를 차지하는 이변을 연출했다.\nSK텔레콤이 9만5265명으로 2위, LG유플러스가 7만1725명으로 3위를 기록했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국이 세계 최초 상용화한 5세대(5G) 이동통신 첫달 가입자가 27만 명을 넘었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이동통신3사 가운데 KT가 1위를 차지했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과학기술정보통신부에 따르면 4월 5G 가입자는 27만1686명을 기록했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "과기정통부가 매달 발표하는 무선통신서비스 통계 현황에 5G가 포함된 건 처음이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "4월 3일 세계 최초 5G를 상용화한 이통3사는 '이동통신 새판'을 짜기 위해 치열한 가입자 유치전을 폈다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그 결과 KT가 10만4696명으로 1위를 차지하는 이변을 연출했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SK텔레콤이 9만5265명으로 2위, LG유플러스가 7만1725명으로 3위를 기록했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "5G 첫달 성적, KT가 10만 가입자 유치하며 1위",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

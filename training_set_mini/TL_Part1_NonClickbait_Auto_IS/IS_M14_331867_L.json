@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331867",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "동국대-사회보장정보원, 데이터 활용교육 온라인 이어 실습까지",
+		"newsSubTitle": "파이선 교육 등 이어가",
+		"newsContent": "국가 보건복지 데이터 활용역량 강화를 위한 동국대와 한국사회보장정보원 교육 협력이 본궤도에 올랐다.\n사회보장정보원은 임직원 대상 데이터 리더십 교육과 비대면 온라인 교육에 이어 프로젝트 현장 실습교육도 완료했다.\n향후 난이도를 높여 데이터 활용 역량을 극대화 할 계획이다.\n사회보장정보원은 동국대 지원을 통해 최근 임직원 대상 '파이선을 활용한 데이터 분석 및 시각화 실습 교육'을 완료했다.\n임직원은 이틀에 걸친 실습 교육에 앞서 40차시 온라인 파이선 교육을 수강했다.\n수업은 사회보장정보원 전산교육장에서 이뤄졌다.\n앞서 교육받은 온라인 과정을 토대로 실습에 필요한 '아나콘다' '주피터 노트북'을 설치하거나 구글 코랩을 이용했다.\n파이선 데이터 분석에 필요한 라이브러리 활용 및 처리를 실습했다. '넘파이(Numpy)' '판다스(Pandas)' '매트플롯라이브러리(Matplotlib)' '시본(Seaborn)'을 활용했다.\n구글 코랩을 활용해 한글깨짐 방지처리와 데이터 시각화 화질 향상으로 전처리 과정을 거쳤다.\n데이터 파악을 위해 '칼럼(Columns)' 종류를 살펴보고 데이터 자료형 및 변수를 알아보고 전체 통계량을 파악했다.\n데이터 전처리를 위해 결즉치, 중복값, 이상치에서 종류별 파이선 코드를 어떻게 사용해 처리할건지 고민해보는 시간도 가졌다.\n실시간 질의응답으로 양방향 교육이 이뤄졌다.\n실습 프로젝트로 데이터 분석 보고서를 개인별로 1~2개까지 제작한 후 2인 1조로 피드백을 갖는 시간도 마련했다.\n교육을 받은 사회보장정보원 직원은 “데이터 분석 능력을 강화화기 위해 수업에 참여했다”며 “온라인 교육에 이어 실습까지 하고 강사에게 직접 피드백을 받을 수 있어 좋았다”고 말했다.\n이어 “심화된 교육을 계속해 받고 싶다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국가 보건복지 데이터 활용역량 강화를 위한 동국대와 한국사회보장정보원 교육 협력이 본궤도에 올랐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사회보장정보원은 임직원 대상 데이터 리더십 교육과 비대면 온라인 교육에 이어 프로젝트 현장 실습교육도 완료했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "향후 난이도를 높여 데이터 활용 역량을 극대화 할 계획이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사회보장정보원은 동국대 지원을 통해 최근 임직원 대상 '파이선을 활용한 데이터 분석 및 시각화 실습 교육'을 완료했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "임직원은 이틀에 걸친 실습 교육에 앞서 40차시 온라인 파이선 교육을 수강했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "수업은 사회보장정보원 전산교육장에서 이뤄졌다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "앞서 교육받은 온라인 과정을 토대로 실습에 필요한 '아나콘다' '주피터 노트북'을 설치하거나 구글 코랩을 이용했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "파이선 데이터 분석에 필요한 라이브러리 활용 및 처리를 실습했다. '넘파이(Numpy)' '판다스(Pandas)' '매트플롯라이브러리(Matplotlib)' '시본(Seaborn)'을 활용했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "구글 코랩을 활용해 한글깨짐 방지처리와 데이터 시각화 화질 향상으로 전처리 과정을 거쳤다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "데이터 파악을 위해 '칼럼(Columns)' 종류를 살펴보고 데이터 자료형 및 변수를 알아보고 전체 통계량을 파악했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "데이터 전처리를 위해 결즉치, 중복값, 이상치에서 종류별 파이선 코드를 어떻게 사용해 처리할건지 고민해보는 시간도 가졌다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "실시간 질의응답으로 양방향 교육이 이뤄졌다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "실습 프로젝트로 데이터 분석 보고서를 개인별로 1~2개까지 제작한 후 2인 1조로 피드백을 갖는 시간도 마련했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "교육을 받은 사회보장정보원 직원은 “데이터 분석 능력을 강화화기 위해 수업에 참여했다”며 “온라인 교육에 이어 실습까지 하고 강사에게 직접 피드백을 받을 수 있어 좋았다”고 말했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이어 “심화된 교육을 계속해 받고 싶다”고 덧붙였다.",
+				"sentenceSize": 29
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "동국대-사회보장정보원, 데이터 활용교육 온라인 이어 실습까지",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

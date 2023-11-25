@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006182",
+		"newsCategory": "경제",
+		"newsSubcategory": "카드",
+		"newsTitle": "현대카드, 국내 카드사 최초 후불결제 서비스 오픈",
+		"newsSubTitle": "마켓 '솔드아웃'에서 '카드없이 분할결제' 제공",
+		"newsContent": "현대카드는 PLCC 파트너사인 무신사(MUSINSA)가 운영 중인 한정판 마켓 '솔드아웃'에 후불결제 서비스 '카드없이 분할결제' 기능을 탑재했다고 5일 밝혔다.\n이 서비스는 현대카드를 신청하거나 이용한 이력이 없는 만 19세 이상의 솔드아웃 회원을 대상으로 심사를 거쳐 제공된다.\n이용 방법은 간단하다.\n솔드아웃 앱 상품 결제 창에서 '카드없이 분할결제'를 선택하고 본인 인증과 출금 계좌 정보 입력, 금융 이용을 위한 추가 정보 입력을 마치면 결제가 완료된다.\n분할결제한 금액은 구매 시점에 1/3을 결제하고, 나머지 금액은 이후 2개월 간 나눠 결제하게 된다.\n카드없이 분할결제는 10만원 이상 50만원 이하의 단일 상품 결제 건에 적용되며 분할결제 이용 중에는 다른 상품을 분할결제 할 수 없다.\n또 결제 일정과 잔액은 솔드아웃 앱에서 확인 가능하다.\n현대카드 관계자는 데일리임팩트에 \\\"'카드없이 분할결제'는 내부 신용평가모델에 기반해 적극적으로 연체율을 관리하는 것은 물론 금융권 내 연체정보 공유를 통해 다중채무 발생을 억제하기 위해 노력할 것\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대카드는 PLCC 파트너사인 무신사(MUSINSA)가 운영 중인 한정판 마켓 '솔드아웃'에 후불결제 서비스 '카드없이 분할결제' 기능을 탑재했다고 5일 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 서비스는 현대카드를 신청하거나 이용한 이력이 없는 만 19세 이상의 솔드아웃 회원을 대상으로 심사를 거쳐 제공된다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이용 방법은 간단하다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "솔드아웃 앱 상품 결제 창에서 '카드없이 분할결제'를 선택하고 본인 인증과 출금 계좌 정보 입력, 금융 이용을 위한 추가 정보 입력을 마치면 결제가 완료된다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "분할결제한 금액은 구매 시점에 1/3을 결제하고, 나머지 금액은 이후 2개월 간 나눠 결제하게 된다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카드없이 분할결제는 10만원 이상 50만원 이하의 단일 상품 결제 건에 적용되며 분할결제 이용 중에는 다른 상품을 분할결제 할 수 없다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 결제 일정과 잔액은 솔드아웃 앱에서 확인 가능하다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현대카드 관계자는 데일리임팩트에 \\\"'카드없이 분할결제'는 내부 신용평가모델에 기반해 적극적으로 연체율을 관리하는 것은 물론 금융권 내 연체정보 공유를 통해 다중채무 발생을 억제하기 위해 노력할 것\\\"이라고 밝혔다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "백화점 내 가전매장에 '새바람'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

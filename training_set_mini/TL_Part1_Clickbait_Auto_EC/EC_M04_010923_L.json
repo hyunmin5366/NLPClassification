@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010923",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "중국 경기회복 기대 코스피 1960선 반등",
+		"newsSubTitle": "",
+		"newsContent": "코스피 지수가 하루만에 반등하며 1960선을 회복했다.\n11일 코스피 지수는 전일대비 7.20포인트(0.37%) 오른 1964.62에 장을 마쳤다.\n코스피 지수는 FOMC 등 국외정책 이벤트와 중국 경기회복의 기대감 호재로 소폭 상승했다.\n코스피 지수에서는 상한가 3개를 비롯해 385개 종목이 상승했고, 하한가 6개를 포함해 417개 종목이 하락했다.\n이날 코스닥 지수는 전거래일 8.00포인트(1.63%) 오른 481.59에 장을 마쳤다.\n기관과 외국인이 각각 271억원, 15억원 매도우위를 기록했으며, 개인이 홀로 297억원 순매수세했다.\n코스닥 시장에서는 상한가 8개 포함 412개 종목이 올랐고, 하한가 10개를 비롯해 509개 종목이 하락했다.\n64개 종목은 보합세로 거래를 마쳤다.\n서울외환시장에서 원·달러 환율은 전일대비 2.30원 내린 1076.70원에 마감했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피 지수가 하루만에 반등하며 1960선을 회복했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "11일 코스피 지수는 전일대비 7.20포인트(0.37%) 오른 1964.62에 장을 마쳤다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코스피 지수는 FOMC 등 국외정책 이벤트와 중국 경기회복의 기대감 호재로 소폭 상승했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코스피 지수에서는 상한가 3개를 비롯해 385개 종목이 상승했고, 하한가 6개를 포함해 417개 종목이 하락했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 코스닥 지수는 전거래일 8.00포인트(1.63%) 오른 481.59에 장을 마쳤다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기관과 외국인이 각각 271억원, 15억원 매도우위를 기록했으며, 개인이 홀로 297억원 순매수세했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코스닥 시장에서는 상한가 8개 포함 412개 종목이 올랐고, 하한가 10개를 비롯해 509개 종목이 하락했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "64개 종목은 보합세로 거래를 마쳤다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "서울외환시장에서 원·달러 환율은 전일대비 2.30원 내린 1076.70원에 마감했다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "출연연 등 대덕특구 '졸속 국감'에 과기계 우려 \\\"소홀함 없도록 해야\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

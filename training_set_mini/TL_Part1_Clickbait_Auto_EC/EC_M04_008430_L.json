@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008430",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "차량 실시간 무선통신 대형 교통사고 막는다",
+		"newsSubTitle": "ETRI 스마트 하이웨이 실현",
+		"newsContent": "대덕특구 연구진이 운행중인 차량간 실시간 무선통신을 통해 각종 교통정보와 위험경보를 미리 알 수 있는 기술을 개발했다.\n한국전자통신연구원(ETRI)은 교통사고를 줄이고 목적지에 빨리 도달하게 하는 스마트 하이웨이(Smart Highway) 시스템의 핵심기술인 '멀티홉 방식의 차량간 통신기술(VMC)'을 개발했다고 2일 밝혔다.\n이번에 개발한 VMC 기술은 차량간 실시간 무선통신을 통해 앞차의 사고 등 돌발 상황이 뒤따라오는 차에 직접 전달돼 연쇄 추돌을 방지하고 내비게이션과 연동시 교통정체 없는 빠른 길 안내, 차량 고장 원격점검 등에 활용할 수 있는 신개념 기술이다.\n이동통신, 무선랜, 하이패스 등 현재 차량에서 이용가능한 무선통신 기술은 모두 도로변에 설치된 기지국을 통해 정보를 주고받는데 비해 VMC 기술은 차량간 직접 통신이 가능해 통신비용이 저렴하고 응답시간이 100m당 1초 이내로 짧기 때문에 차량 안전과 첨단 교통시스템 구축에 필요한 기술이다.\n또 시속 200㎞의 고속 이동중에도 교신이 가능하며 1㎞까지 통신이 가능하다.\nETRI는 이번에 개발한 VMC 기술을 한국도로공사 스마트 하이웨이 시스템과 경찰청 도시교통정보시스템 등 공공 교통시스템에 우선 적용할 계획이다.\n이를 위해 차량 내 대표적 무선통신 단말기인 내비게이션, 스마트폰, 태블릿PC 제조업체와 연계해 해당 제품에 VMC 기술을 탑재시킬 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대덕특구 연구진이 운행중인 차량간 실시간 무선통신을 통해 각종 교통정보와 위험경보를 미리 알 수 있는 기술을 개발했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 교통사고를 줄이고 목적지에 빨리 도달하게 하는 스마트 하이웨이(Smart Highway) 시스템의 핵심기술인 '멀티홉 방식의 차량간 통신기술(VMC)'을 개발했다고 2일 밝혔다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번에 개발한 VMC 기술은 차량간 실시간 무선통신을 통해 앞차의 사고 등 돌발 상황이 뒤따라오는 차에 직접 전달돼 연쇄 추돌을 방지하고 내비게이션과 연동시 교통정체 없는 빠른 길 안내, 차량 고장 원격점검 등에 활용할 수 있는 신개념 기술이다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이동통신, 무선랜, 하이패스 등 현재 차량에서 이용가능한 무선통신 기술은 모두 도로변에 설치된 기지국을 통해 정보를 주고받는데 비해 VMC 기술은 차량간 직접 통신이 가능해 통신비용이 저렴하고 응답시간이 100m당 1초 이내로 짧기 때문에 차량 안전과 첨단 교통시스템 구축에 필요한 기술이다.",
+				"sentenceSize": 163
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 시속 200㎞의 고속 이동중에도 교신이 가능하며 1㎞까지 통신이 가능하다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "ETRI는 이번에 개발한 VMC 기술을 한국도로공사 스마트 하이웨이 시스템과 경찰청 도시교통정보시스템 등 공공 교통시스템에 우선 적용할 계획이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 위해 차량 내 대표적 무선통신 단말기인 내비게이션, 스마트폰, 태블릿PC 제조업체와 연계해 해당 제품에 VMC 기술을 탑재시킬 예정이다.",
+				"sentenceSize": 79
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "윤종원 기업은행장, 메타버스 플랫폼서 혁신창업기업과 소통",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

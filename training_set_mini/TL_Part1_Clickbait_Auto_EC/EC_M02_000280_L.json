@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000280",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "은행 없는 섬 5개에 ATM기 생긴다",
+		"newsSubTitle": "",
+		"newsContent": "9월부터 은행이 없는 섬 지역에서도 현금 입출금, 송금, 공과금 납부가 가능해진다.\n우정사업본부는 은행이 없는 섬 지역 5곳에 현금 입출금, 송금, 공과금 납부 등을 할 수 있는 금융자동화기기(ATM)를 9월부터 운영한다고 6일 밝혔다.\n섬 지역 5곳은 인천시 대이작도 승봉도, 충남 삽시도, 전남 관매도, 전북 연도다.\n5곳의 섬은 지금까지 금융시설이 전혀 없었다.\nATM 설치로 인해 9월부터 이곳 도민들은 현금 입금과 출금, 타 은행 송금, 지로 및 공과금 납부, 해외 송금 서비스를 모두 이용할 수 있다.\n우정사업본부 측은 6일 미디어SR에 \\\"이번에 설치되는 5개 섬 지역 외에 또 다른 지역 역시 추가 선정할 계획\\\"이라고 전했다.\n업무 때문에 승봉도를 자주 오가는 남궁승범 씨는 \\\"업무적으로 승봉도를 자주 방문하는데 ATM기가 없어 불편함을 느끼는 경우가 많다\\\"라며 \\\"ATM기가 설치되면 확실히 도민들을 비롯해 섬을 오가는 사람들은 편리해질 것으로 기대된다\\\"라고 전했다.\n우정사업본부는 이번 금융 소외 지역의 ATM 설치는 우체국금융의 보편적 서비스 제공 차원에서 실시한 것이라고 밝히고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "9월부터 은행이 없는 섬 지역에서도 현금 입출금, 송금, 공과금 납부가 가능해진다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우정사업본부는 은행이 없는 섬 지역 5곳에 현금 입출금, 송금, 공과금 납부 등을 할 수 있는 금융자동화기기(ATM)를 9월부터 운영한다고 6일 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "섬 지역 5곳은 인천시 대이작도 승봉도, 충남 삽시도, 전남 관매도, 전북 연도다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "5곳의 섬은 지금까지 금융시설이 전혀 없었다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ATM 설치로 인해 9월부터 이곳 도민들은 현금 입금과 출금, 타 은행 송금, 지로 및 공과금 납부, 해외 송금 서비스를 모두 이용할 수 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "우정사업본부 측은 6일 미디어SR에 \\\"이번에 설치되는 5개 섬 지역 외에 또 다른 지역 역시 추가 선정할 계획\\\"이라고 전했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "업무 때문에 승봉도를 자주 오가는 남궁승범 씨는 \\\"업무적으로 승봉도를 자주 방문하는데 ATM기가 없어 불편함을 느끼는 경우가 많다\\\"라며 \\\"ATM기가 설치되면 확실히 도민들을 비롯해 섬을 오가는 사람들은 편리해질 것으로 기대된다\\\"라고 전했다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "우정사업본부는 이번 금융 소외 지역의 ATM 설치는 우체국금융의 보편적 서비스 제공 차원에서 실시한 것이라고 밝히고 있다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성화재 새 CEO 홍원학 유력…삼성자산운용 서봉균",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353235",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "LGU+·에이스랩, 자율주행차 이상 진단 기술 개발",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 자율주행 솔루션 기업 에이스랩(ACELAB)과 함께 자율주행차량 이상 여부를 진단하는 기술을 개발한다고 21일 밝혔다.\n이번에 개발하는 기술은 빅데이터와 AI(인공지능)로 자율주행 차량의 소프트웨어와 하드웨어 이상 여부를 판단해 자율주행 모빌리티 서비스 운영자에게 알려주는 시스템이다.\n기술이 상용화되면 고장 자율차량의 긴급 회수와 위험 지역에서의 무인주행 서비스도 가능해질 전망이다.\n양사는 올해 3분기까지 기술 개발을 완료하고, 실증사업에 반영할 예정이다.\nLG유플러스와 에이스랩은 지난 2019년 3월 5G 통신망을 이용한 자율차의 도심 주행 성공, 2020년 12월 5G 통신을 통한 자율차의 최초 자동주차 등 기술을 선보인 바 있다.\n최창국 LG유플러스 차세대기술Lab장(상무)은 \\\"핵심사업인 스마트모빌리티 사업의 추진력을 얻기 위해 자율주행 관련기술 개발에 박차를 가하겠다\\\"며 \\\"올해는 지방자치단체가 주관하는 자율주행 실증 사업에 적극 참여할 예정\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 자율주행 솔루션 기업 에이스랩(ACELAB)과 함께 자율주행차량 이상 여부를 진단하는 기술을 개발한다고 21일 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번에 개발하는 기술은 빅데이터와 AI(인공지능)로 자율주행 차량의 소프트웨어와 하드웨어 이상 여부를 판단해 자율주행 모빌리티 서비스 운영자에게 알려주는 시스템이다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기술이 상용화되면 고장 자율차량의 긴급 회수와 위험 지역에서의 무인주행 서비스도 가능해질 전망이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "양사는 올해 3분기까지 기술 개발을 완료하고, 실증사업에 반영할 예정이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG유플러스와 에이스랩은 지난 2019년 3월 5G 통신망을 이용한 자율차의 도심 주행 성공, 2020년 12월 5G 통신을 통한 자율차의 최초 자동주차 등 기술을 선보인 바 있다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최창국 LG유플러스 차세대기술Lab장(상무)은 \\\"핵심사업인 스마트모빌리티 사업의 추진력을 얻기 위해 자율주행 관련기술 개발에 박차를 가하겠다\\\"며 \\\"올해는 지방자치단체가 주관하는 자율주행 실증 사업에 적극 참여할 예정\\\"이라고 말했다.",
+				"sentenceSize": 133
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LGU+·에이스랩, 자율주행차 이상 진단 기술 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

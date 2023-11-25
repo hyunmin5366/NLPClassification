@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349399",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "이루다 개인정보 유출 피해자 254명, 2억원 손해배상 청구",
+		"newsSubTitle": "null",
+		"newsContent": "인공지능(AI) 챗봇 '이루다'의 개발 과정과 서비스에서 개인정보 유출 피해를 당했다고 주장하는 이용자 254명이 개발사인 스캐터랩을 상대로 2억원대 손해배상 청구소송을 제기했다.\n이번 집단 소송을 대리하는 법무법인 태림은 피해자 254명을 대리해 지난달 31일 서울동부지법에 스캐터랩을 상대로 손해배상청구소송을 제기했다고 1일 밝혔다.\n원고 1인당 손해배상액은 80만원으로 산정했으며 총 소송가액은 약 2억원이다.\n태림은 스캐터랩이 정보주체(이용자) 동의 없이 개인정보를 무단 이용하고 이용자 개인정보를 보관하는 이유와 목적을 고지하지 않았고, 대화 내역에 포함된 건강이나 정치적 견해 등 민감정보와 주민번호같은 고유식별정보를 별도 동의 없이 보관한 점 등이 위법하다고 판단했다.\n소송을 맡은 하정림 변호사는 \\\"스캐터랩이 수집한 개인정보는 이용자 동의 없이 자사의 AI 챗봇 이루다 개발에 쓰이는 데이터베이스(DB)로 무단 전용됐다\\\"며 \\\"이는 개인정보보호법 제19조를 위반한 것이며 형사처벌 사유에도 해당한다\\\"고 말했다.\n앞서 스캐터랩은 이루다가 논란이 되자 이루다를 개발할 때 학습 데이터로 자사의 다른 서비스인 '연애의 과학'과 '텍스트앳', '진저' 등 모바일 앱을 통해 이용자에게 수집한 카카오톡 대화 100억건 중 1억건을 추려 활용했다고 밝혔다.\n이용자들은 스캐터랩이 카카오톡 대화내역을 이용자와 대화한 상대방의 동의 없이 수집하고, 이루다 서비스 과정에서 특정 개인의 주소나 실명, 계좌정보가 노출됐다는 점을 문제 삼았다.\n논란이 커지자 이루다는 출시 3주 만인 지난 1월12일 서비스를 잠정 중단했다.\n개인정보보호위원회는 현재 스캐터랩의 개인정보 유출 의혹에 대해 조사 중이다.\n스캐터랩은 이 조사가 마무리되는 대로 이루다의 딥러닝(심층학습) 모델과 1억건의 카톡 대화 DB를 폐기한다고 밝혔다.\n피해자들은 지난 2월 소송 진행시까지 증거가 삭제되면 안 된다며 서울동부지법에 증거보전을 신청했다.\n법원은 이에 증거보전을 인용했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인공지능(AI) 챗봇 '이루다'의 개발 과정과 서비스에서 개인정보 유출 피해를 당했다고 주장하는 이용자 254명이 개발사인 스캐터랩을 상대로 2억원대 손해배상 청구소송을 제기했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 집단 소송을 대리하는 법무법인 태림은 피해자 254명을 대리해 지난달 31일 서울동부지법에 스캐터랩을 상대로 손해배상청구소송을 제기했다고 1일 밝혔다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "원고 1인당 손해배상액은 80만원으로 산정했으며 총 소송가액은 약 2억원이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "태림은 스캐터랩이 정보주체(이용자) 동의 없이 개인정보를 무단 이용하고 이용자 개인정보를 보관하는 이유와 목적을 고지하지 않았고, 대화 내역에 포함된 건강이나 정치적 견해 등 민감정보와 주민번호같은 고유식별정보를 별도 동의 없이 보관한 점 등이 위법하다고 판단했다.",
+				"sentenceSize": 148
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소송을 맡은 하정림 변호사는 \\\"스캐터랩이 수집한 개인정보는 이용자 동의 없이 자사의 AI 챗봇 이루다 개발에 쓰이는 데이터베이스(DB)로 무단 전용됐다\\\"며 \\\"이는 개인정보보호법 제19조를 위반한 것이며 형사처벌 사유에도 해당한다\\\"고 말했다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 스캐터랩은 이루다가 논란이 되자 이루다를 개발할 때 학습 데이터로 자사의 다른 서비스인 '연애의 과학'과 '텍스트앳', '진저' 등 모바일 앱을 통해 이용자에게 수집한 카카오톡 대화 100억건 중 1억건을 추려 활용했다고 밝혔다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이용자들은 스캐터랩이 카카오톡 대화내역을 이용자와 대화한 상대방의 동의 없이 수집하고, 이루다 서비스 과정에서 특정 개인의 주소나 실명, 계좌정보가 노출됐다는 점을 문제 삼았다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "논란이 커지자 이루다는 출시 3주 만인 지난 1월12일 서비스를 잠정 중단했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "개인정보보호위원회는 현재 스캐터랩의 개인정보 유출 의혹에 대해 조사 중이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "스캐터랩은 이 조사가 마무리되는 대로 이루다의 딥러닝(심층학습) 모델과 1억건의 카톡 대화 DB를 폐기한다고 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "피해자들은 지난 2월 소송 진행시까지 증거가 삭제되면 안 된다며 서울동부지법에 증거보전을 신청했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "법원은 이에 증거보전을 인용했다.",
+				"sentenceSize": 18
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이루다 개인정보 유출 피해자 254명, 2억원 손해배상 청구",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

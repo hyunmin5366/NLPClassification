@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326007",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "플랫폼·유통",
+		"newsTitle": "[2019 한국전자제조산업전] YJ링크-아롬시스템, 산업용 VR 장비 선보여",
+		"newsSubTitle": "",
+		"newsContent": "YJ링크와 아롬시스템은 이달 15일부터 17일까지 코엑스에서 열리고 있는 '2019 한국전자제조산업전(이하 EMK 2019)'에 참가해 산업용 증강현실(AR) 장비와 레이저 마킹 장비 등 SMT 주변기기를 선보인다.\nYJ링크가 EMK 2019에서 선보인 증강현실 장비는 크게 'YJ 화상지원(Visual Support)'과 'YJ 스마트뷰(Smart View)' 두 가지다.\nYJ 화상지원은 AR 글래스를 통해 현장 근로자가 보는 시점을 그대로 YJ링크 전문가와 공유하고, 전문가가 화면에서 이를 확인해 정확한 피드백을 줄 수 있다. 'YJ 스마트뷰(Smart View)'는 현장 근로자가 보유한 태블릿이나 스마트폰 등의 모바일 기기를 장비에 비춰, 상태를 진단할 수 있게 해주는 앱이다.\n앱에서 장비 진단 기능을 실행하고 모바일 기기의 카메라를 장비에 있는 바코드를 비추면 AR로 장비 상태를 확인할 수 있다.\n또, 문제가 확인되면 해결법까지도 AR로 알려준다.\n비록, YJ 스마트뷰는 모니터링이 필요한 장비마다 앱과 연동하는 별도 실시간 검사 장치를 탑재해야 하는 번거로움이 있지만, 도입 이후에는 관리 측면에서 훨씬 간편하고 효율을 높일 것으로 보인다.\nARMAS 시리즈도 눈길을 끌었다.\n이 장비는 해외에서 보편화된 스마트 통신 규격인 헤르메스(Hermes) 기반으로 작동한다.\n스마트 통신은 기존 SMEMA(Surface Mount Equipment Manufacturers Association) 방식에서 탈피해, 삽입된 기판에서 정보를 읽고 알아서 장비가 자동으로 기판에 맞게 변경되는 방식이다.\nYJ 링크 관계자는 \\\"헤르메스 기반 장비가 도입되면, 업체나 장비제조사 모두에게 훨씬 간편하다\\\"고 설명하며 \\\"해외에는 보편화됐지만, 아직 국내에는 많이 도입되지 않아 홍보가 필요한 실정\\\"이라고 말했다.\n아롬시스템은 실화상 양불 검증 장비인 'RVS(Reject Verification System)'를 선보였다.\n헤르메스 기반의 이 장비는 순간적인 촬영이 아닌, 360도로 회전하며 촬영한 영상을 통해 기판의 자동광학검사(AOI)를 진행한다.\n장비 내 고정된 상태에서 다양한 각도로 AOI를 진행할 수 있어, 기판을 일일이 넣다 뺐다 할 필요가 없다.\n기판을 빼낼 일이 없으니, 이에 따른 2차적인 불량 발생도 방지할 수 있는 게 가장 큰 장점이다.\n김준수 아롬시스템 대표는 \\\"보쉬(BOSCH)만 하더라도 SMT 라인 장비 도입 지침에 사람이 직접 손을 댈 수 없는 기준을 두고 있다\\\"며 \\\"국내서도 최근 이 같은 기준이 도입되는 추세다\\\"라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "YJ링크와 아롬시스템은 이달 15일부터 17일까지 코엑스에서 열리고 있는 '2019 한국전자제조산업전(이하 EMK 2019)'에 참가해 산업용 증강현실(AR) 장비와 레이저 마킹 장비 등 SMT 주변기기를 선보인다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "YJ링크가 EMK 2019에서 선보인 증강현실 장비는 크게 'YJ 화상지원(Visual Support)'과 'YJ 스마트뷰(Smart View)' 두 가지다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "YJ 화상지원은 AR 글래스를 통해 현장 근로자가 보는 시점을 그대로 YJ링크 전문가와 공유하고, 전문가가 화면에서 이를 확인해 정확한 피드백을 줄 수 있다. 'YJ 스마트뷰(Smart View)'는 현장 근로자가 보유한 태블릿이나 스마트폰 등의 모바일 기기를 장비에 비춰, 상태를 진단할 수 있게 해주는 앱이다.",
+				"sentenceSize": 175
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앱에서 장비 진단 기능을 실행하고 모바일 기기의 카메라를 장비에 있는 바코드를 비추면 AR로 장비 상태를 확인할 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또, 문제가 확인되면 해결법까지도 AR로 알려준다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비록, YJ 스마트뷰는 모니터링이 필요한 장비마다 앱과 연동하는 별도 실시간 검사 장치를 탑재해야 하는 번거로움이 있지만, 도입 이후에는 관리 측면에서 훨씬 간편하고 효율을 높일 것으로 보인다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "ARMAS 시리즈도 눈길을 끌었다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 장비는 해외에서 보편화된 스마트 통신 규격인 헤르메스(Hermes) 기반으로 작동한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "스마트 통신은 기존 SMEMA(Surface Mount Equipment Manufacturers Association) 방식에서 탈피해, 삽입된 기판에서 정보를 읽고 알아서 장비가 자동으로 기판에 맞게 변경되는 방식이다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "YJ 링크 관계자는 \\\"헤르메스 기반 장비가 도입되면, 업체나 장비제조사 모두에게 훨씬 간편하다\\\"고 설명하며 \\\"해외에는 보편화됐지만, 아직 국내에는 많이 도입되지 않아 홍보가 필요한 실정\\\"이라고 말했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "아롬시스템은 실화상 양불 검증 장비인 'RVS(Reject Verification System)'를 선보였다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "헤르메스 기반의 이 장비는 순간적인 촬영이 아닌, 360도로 회전하며 촬영한 영상을 통해 기판의 자동광학검사(AOI)를 진행한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "장비 내 고정된 상태에서 다양한 각도로 AOI를 진행할 수 있어, 기판을 일일이 넣다 뺐다 할 필요가 없다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "기판을 빼낼 일이 없으니, 이에 따른 2차적인 불량 발생도 방지할 수 있는 게 가장 큰 장점이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "김준수 아롬시스템 대표는 \\\"보쉬(BOSCH)만 하더라도 SMT 라인 장비 도입 지침에 사람이 직접 손을 댈 수 없는 기준을 두고 있다\\\"며 \\\"국내서도 최근 이 같은 기준이 도입되는 추세다\\\"라고 말했다.",
+				"sentenceSize": 115
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2019 한국전자제조산업전] YJ링크-아롬시스템, 산업용 VR 장비 선보여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

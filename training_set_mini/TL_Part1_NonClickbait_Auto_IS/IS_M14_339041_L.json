@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339041",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "[소프트웨이브 2019]박진호 팔로알토네트웍스코리아 아키텍트",
+		"newsSubTitle": "",
+		"newsContent": "박진호 팔로알토네트웍스코리아 아키텍트는 병원 내 다양한 의료기기가 사물인터넷(IoT)화돼 이를 통한 다양한 사이버 위협 위험성을 경고했다.\n팔로알토네트웍스 솔루션을 사용하는 세계 100여곳을 중심으로 조사한 '메디컬쓰렛리포트'에 따르면 병원 내 장치 절반(50%)이 사이버 위협 등에 노출 돼 제대로 관리되지 않는 것으로 나타났다.\n박 아키텍트는 “보안문제가 가장 많은 의료용 IoT 장비는 이미징 시스템, 환자 모니터, 의료 기기 게이트 웨이 등”이라면서 “해커는 장비 취약점을 이용해 병원 내부 시스템으로 침투한다”고 말했다.\n이어 “이미 2016년 미라이봇넷 디도스(DDos·분산서비스거부)공격으로 IoT가 어떻게 공격에 악용되는지 여실히 보여줬다”면서 “해커는 의료기기를 숙주로 삼고 내부 시스템에 침투, 환자 민감 데이터 등 탈취하고 랜섬웨어 감염까지 이어질 수 있다”고 지적했다.\n박 아키텍트는 “IoT 보안 위협은 현실로 다가왔지만 병원 등 기업 내 IoT기기가 얼마나 있는지 조차 파악 어렵다”면서 “대부분 IoT기기는 패치가 어렵거나 불가능하며 이들 기기를 시작으로 해킹사고가 발생, 조직에 큰 피해를 줄 수 있다”고 지적했다.\n보안문제 해결을 위해 병원내 부서간 조화를 강조했다.\nIT팀은 네트워크 운영유지와 정책 적용 및 위협 완화해야 하며 클리닉 관계자는 의료기기 소유 및 기기 운영 정보 획득에 힘써야 한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박진호 팔로알토네트웍스코리아 아키텍트는 병원 내 다양한 의료기기가 사물인터넷(IoT)화돼 이를 통한 다양한 사이버 위협 위험성을 경고했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "팔로알토네트웍스 솔루션을 사용하는 세계 100여곳을 중심으로 조사한 '메디컬쓰렛리포트'에 따르면 병원 내 장치 절반(50%)이 사이버 위협 등에 노출 돼 제대로 관리되지 않는 것으로 나타났다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "박 아키텍트는 “보안문제가 가장 많은 의료용 IoT 장비는 이미징 시스템, 환자 모니터, 의료 기기 게이트 웨이 등”이라면서 “해커는 장비 취약점을 이용해 병원 내부 시스템으로 침투한다”고 말했다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 “이미 2016년 미라이봇넷 디도스(DDos·분산서비스거부)공격으로 IoT가 어떻게 공격에 악용되는지 여실히 보여줬다”면서 “해커는 의료기기를 숙주로 삼고 내부 시스템에 침투, 환자 민감 데이터 등 탈취하고 랜섬웨어 감염까지 이어질 수 있다”고 지적했다.",
+				"sentenceSize": 145
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "박 아키텍트는 “IoT 보안 위협은 현실로 다가왔지만 병원 등 기업 내 IoT기기가 얼마나 있는지 조차 파악 어렵다”면서 “대부분 IoT기기는 패치가 어렵거나 불가능하며 이들 기기를 시작으로 해킹사고가 발생, 조직에 큰 피해를 줄 수 있다”고 지적했다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보안문제 해결을 위해 병원내 부서간 조화를 강조했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "IT팀은 네트워크 운영유지와 정책 적용 및 위협 완화해야 하며 클리닉 관계자는 의료기기 소유 및 기기 운영 정보 획득에 힘써야 한다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[소프트웨이브 2019]박진호 팔로알토네트웍스코리아 아키텍트",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

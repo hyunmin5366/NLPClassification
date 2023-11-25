@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335471",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "이노와이어리스, 라쿠텐 모바일에 5G 자동 검증 장비 공급",
+		"newsSubTitle": "",
+		"newsContent": "이노와이어리스가 5세대(5G) 이동통신 기지국용 자동 검증 장비 'XCAT-MAIS(Massive-MIMO Air Interface Simulator)'를 일본 라쿠텐 모바일에 공급했다.\nXCAT-MAIS는 3G·4G·5G 채널 에뮬레이터와 로깅·분석 도구로 구성된 실시간 다목적 시스템 시뮬레이터다.\n다수 기지국과 단말 간 무선통신이 일어나는 실제 환경을 연구소 실험실에 구현함으로써 최적화된 Massive-MIMO 테스트를 지원한다.\n기존 현장 시험 방식 시행착오를 줄여 빔당 최대 데이터 통신량, 빔 스위칭 등 빔 관리기능·성능, 핸드오버와 같은 시험 편의성과 신뢰성을 개선한다.\nXCAT-MAIS는 RF와 베이스밴드 인터페이스를 모두 지원한다.\n사용자가 RF케이블 환경과 기지국 단말 간 체인에서 손실이 거의 없는 베이스밴드 인터페이스 중 시험 목적에 적합한 방식을 선택할 수 있다.\nXCAT-MAIS는 근거리 장(Near-Field) 통신을 사용하는 무선(OTA, Over The Air) 방식의 실드박스(SmartShieldTM)와 연동해 성능을 극대화할 수 있다.\n유민호 이노와이어리스 연구소장은 “라쿠텐은 XCAT-MAIS를 활용, 현재 진행 중인 5G 이동통신 네트워크의 구축 효율성을 극대화할 것으로 예상된다”면서 “보유하고 있는 하이엔드급 솔루션으로 5G 통신장비 시장을 선도할 수 있도록 투자와 노력을 지속하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이노와이어리스가 5세대(5G) 이동통신 기지국용 자동 검증 장비 'XCAT-MAIS(Massive-MIMO Air Interface Simulator)'를 일본 라쿠텐 모바일에 공급했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "XCAT-MAIS는 3G·4G·5G 채널 에뮬레이터와 로깅·분석 도구로 구성된 실시간 다목적 시스템 시뮬레이터다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다수 기지국과 단말 간 무선통신이 일어나는 실제 환경을 연구소 실험실에 구현함으로써 최적화된 Massive-MIMO 테스트를 지원한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 현장 시험 방식 시행착오를 줄여 빔당 최대 데이터 통신량, 빔 스위칭 등 빔 관리기능·성능, 핸드오버와 같은 시험 편의성과 신뢰성을 개선한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "XCAT-MAIS는 RF와 베이스밴드 인터페이스를 모두 지원한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사용자가 RF케이블 환경과 기지국 단말 간 체인에서 손실이 거의 없는 베이스밴드 인터페이스 중 시험 목적에 적합한 방식을 선택할 수 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "XCAT-MAIS는 근거리 장(Near-Field) 통신을 사용하는 무선(OTA, Over The Air) 방식의 실드박스(SmartShieldTM)와 연동해 성능을 극대화할 수 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "유민호 이노와이어리스 연구소장은 “라쿠텐은 XCAT-MAIS를 활용, 현재 진행 중인 5G 이동통신 네트워크의 구축 효율성을 극대화할 것으로 예상된다”면서 “보유하고 있는 하이엔드급 솔루션으로 5G 통신장비 시장을 선도할 수 있도록 투자와 노력을 지속하겠다”고 말했다.",
+				"sentenceSize": 150
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이노와이어리스, 라쿠텐 모바일에 5G 자동 검증 장비 공급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

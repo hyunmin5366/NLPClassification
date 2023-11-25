@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_037231",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "올해 소비자물가 0.7%…IMF 당시보다 낮아",
+		"newsSubTitle": "",
+		"newsContent": "올해 소비자물가 상승률이 역대 최저인 0.7%를 기록했다.\n외환위기 당시인 1998년의 0.8%보다 낮은 수준이다.\n통계청이 31일 발표한 12월 및 연간 소비자물가 동향을 보면 올해 소비자물가지수는 109.81로 지난해 보다 0.7% 상승하는데 그쳤다.\n물가상승률은 2011년 4.0%에서 2012년 2.2%, 2013년 1.3%, 2014년 1.3%로 떨어지는 추세다.\n소비자물가가 0%대를 기록한 것은 국제통화기금(IMF) 외환위기 직후 환율이 급락했던 1999년 0.8% 이후 16년만에 처음이다.\n0%대 물가를 기록한 것은 저유가 원인이 가장 컸다.\n지난해 3분기까지 두바이유 기준 배럴당 100달러대를 유지하던 국제유가는 현대 30달러대로 내려온 상태다.\n유가 하락 요인은 0.98%로 나타났다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 소비자물가 상승률이 역대 최저인 0.7%를 기록했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "외환위기 당시인 1998년의 0.8%보다 낮은 수준이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "통계청이 31일 발표한 12월 및 연간 소비자물가 동향을 보면 올해 소비자물가지수는 109.81로 지난해 보다 0.7% 상승하는데 그쳤다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "물가상승률은 2011년 4.0%에서 2012년 2.2%, 2013년 1.3%, 2014년 1.3%로 떨어지는 추세다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소비자물가가 0%대를 기록한 것은 국제통화기금(IMF) 외환위기 직후 환율이 급락했던 1999년 0.8% 이후 16년만에 처음이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "0%대 물가를 기록한 것은 저유가 원인이 가장 컸다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난해 3분기까지 두바이유 기준 배럴당 100달러대를 유지하던 국제유가는 현대 30달러대로 내려온 상태다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "유가 하락 요인은 0.98%로 나타났다.",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“이영돈 PD가 밉지 않느냐?”는 질문에 김영애가 한 말",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

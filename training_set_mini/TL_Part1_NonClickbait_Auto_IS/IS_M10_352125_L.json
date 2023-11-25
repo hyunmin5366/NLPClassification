@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352125",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "총 대신 키보드로...\\\"北 정찰총국, 악성코드로 대북 전문가 공격\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "최근 한국의 싱크탱크 워크숍 행사 안내문으로 위장한 북한 추정 해커세력의 사이버 공격이 포착됐다.\n배후 세력으로 북한의 정찰총국이 지목됐는데 국내 주요 외교·안보 전문가를 노린 것이라는 분석이다.\n통합 보안기업 이스트시큐리티는 9일 이 같은 공격 사례를 공개하고 각별한 주의를 당부했다.\n이번 공격은 실제 한 학술원의 오는 23일 안보전략 심층 토론회 공지를 가장한 메일을 유포한 것으로 지난주 수행된 것으로 추정된다.\n이메일에는 행사 세부사항 관련 문서파일이 첨부돼있다.\n이스트시큐리티의 시큐리티대응센터(ESRC)에 따르면 이 문서파일은 'MSHTML 원격 코드 실행 취약점(CVE-2021-40444)'을 이용한 악성 파일이다.\n이를 실행하면 공격자는 엑티브X를 이용해 추가 악성파일을 이용자 PC에 은밀하게 설치할 수 있다.\n이 취약점은 마이크로소프트(MS)도 지난 9월 인지해 보안 권고문을 발표했으며, 정식 보안패치도 같은 달 배포됐다.\nESRC는 이번 공격 배후로 북한 정찰총국 연계 해킹 조직인 탈륨을 지목했다.\nESRC에 따르면 특정 구글 블로그를 통해 추가 지령을 받는 방식으로 공격이 수행됐으나, 현재는 명령이 중단된 상태다.\nESRC 관계자는 \\\"정권 차원에서 활동하는 사이버 위협 조직들이 인터넷에 공개되는 여러 보안 취약점을 실전 공격에 적극 도입하는 등 위협 수위와 공세가 거세지고 있다\\\"며 \\\"외교·안보·국방·통일 분야 전문가들은 일상적으로 공격자들의 표적이 되고 있으므로 특히 주의해야 한다\\\"고 당부했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 한국의 싱크탱크 워크숍 행사 안내문으로 위장한 북한 추정 해커세력의 사이버 공격이 포착됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배후 세력으로 북한의 정찰총국이 지목됐는데 국내 주요 외교·안보 전문가를 노린 것이라는 분석이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "통합 보안기업 이스트시큐리티는 9일 이 같은 공격 사례를 공개하고 각별한 주의를 당부했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 공격은 실제 한 학술원의 오는 23일 안보전략 심층 토론회 공지를 가장한 메일을 유포한 것으로 지난주 수행된 것으로 추정된다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이메일에는 행사 세부사항 관련 문서파일이 첨부돼있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이스트시큐리티의 시큐리티대응센터(ESRC)에 따르면 이 문서파일은 'MSHTML 원격 코드 실행 취약점(CVE-2021-40444)'을 이용한 악성 파일이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 실행하면 공격자는 엑티브X를 이용해 추가 악성파일을 이용자 PC에 은밀하게 설치할 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이 취약점은 마이크로소프트(MS)도 지난 9월 인지해 보안 권고문을 발표했으며, 정식 보안패치도 같은 달 배포됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "ESRC는 이번 공격 배후로 북한 정찰총국 연계 해킹 조직인 탈륨을 지목했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "ESRC에 따르면 특정 구글 블로그를 통해 추가 지령을 받는 방식으로 공격이 수행됐으나, 현재는 명령이 중단된 상태다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ESRC 관계자는 \\\"정권 차원에서 활동하는 사이버 위협 조직들이 인터넷에 공개되는 여러 보안 취약점을 실전 공격에 적극 도입하는 등 위협 수위와 공세가 거세지고 있다\\\"며 \\\"외교·안보·국방·통일 분야 전문가들은 일상적으로 공격자들의 표적이 되고 있으므로 특히 주의해야 한다\\\"고 당부했다.",
+				"sentenceSize": 163
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "총 대신 키보드로...\\\"北 정찰총국, 악성코드로 대북 전문가 공격\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

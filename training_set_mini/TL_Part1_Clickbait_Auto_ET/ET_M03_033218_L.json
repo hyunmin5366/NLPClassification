@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_033218",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예,공연",
+		"newsTitle": "CGV에 생긴 어느 아이돌 전용관",
+		"newsSubTitle": "",
+		"newsContent": "그룹 인피니트 리더 성규의 생일을 맞아 팬들이 깜짝 이벤트를 준비했다.\nCGV에 전용관을 선물한 것이다.\n28일 현재 CGV 강변 예매 사이트에 들어가 보면 영화 '특별시민'을 김성규관에서 예매할 수 있다. 4월 28일은 김성규의 생일이기도 하다.\n영화관으로 들어가는 길에는 김성규의 생일을 기념해 세워진 배너가 관객을 맞이한다.\n김성규관으로 가는 길 외벽에는 김성규의 화보가 펼쳐져 있고, 영화 티켓에도 생일 축하 문구가 쓰여 있다.\nCGV 강변은 4월 13일부터 4월 30일까지 '김성규관'을 운영할 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그룹 인피니트 리더 성규의 생일을 맞아 팬들이 깜짝 이벤트를 준비했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "CGV에 전용관을 선물한 것이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "28일 현재 CGV 강변 예매 사이트에 들어가 보면 영화 '특별시민'을 김성규관에서 예매할 수 있다. 4월 28일은 김성규의 생일이기도 하다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "영화관으로 들어가는 길에는 김성규의 생일을 기념해 세워진 배너가 관객을 맞이한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김성규관으로 가는 길 외벽에는 김성규의 화보가 펼쳐져 있고, 영화 티켓에도 생일 축하 문구가 쓰여 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CGV 강변은 4월 13일부터 4월 30일까지 '김성규관'을 운영할 것으로 알려졌다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "“내가 나온 것 중 제일 좋아” 아이유가 올린 대기실 영상",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

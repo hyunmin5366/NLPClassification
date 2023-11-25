@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017544",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "11월 충청권 인구 대전시 유일 감소",
+		"newsSubTitle": "11월 1106명 줄어",
+		"newsContent": "11월 충청권에서 대전만 유일하게 인구가 빠져나간 것으로 나타났다.\n통계청이 26일 발표한 국내 인구이동에 따르면, 11월 중 대전에서 다른 지역으로 떠난 인구는 1106명이다.\n지난해 같은 기간보다 645명 줄었지만, 여전히 다른 지역보다 많다.\n반면 세종은 여전히 인구가 늘고 있다.\n지난달 1479명이 유입됐다.\n충남은 1003명, 충북은 579명 늘었다.\n전국 이동자 수는 61만5000명으로 1년 전(59만7000명)보다 2.9%(1만7000명) 늘었다.\n전년 동월 대비 이동자 수 증가는 2015년(5.9%) 이후 3년 만이다.\n전월(20.5%)보다는 증가 폭이 대폭 축소됐다.\n인구 100명당 이동자 수를 뜻하는 인구이동률은 14.6%로 1년 전보다 0.4%포인트 증가했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "11월 충청권에서 대전만 유일하게 인구가 빠져나간 것으로 나타났다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "통계청이 26일 발표한 국내 인구이동에 따르면, 11월 중 대전에서 다른 지역으로 떠난 인구는 1106명이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 같은 기간보다 645명 줄었지만, 여전히 다른 지역보다 많다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "반면 세종은 여전히 인구가 늘고 있다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난달 1479명이 유입됐다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "충남은 1003명, 충북은 579명 늘었다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전국 이동자 수는 61만5000명으로 1년 전(59만7000명)보다 2.9%(1만7000명) 늘었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전년 동월 대비 이동자 수 증가는 2015년(5.9%) 이후 3년 만이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "전월(20.5%)보다는 증가 폭이 대폭 축소됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "인구 100명당 이동자 수를 뜻하는 인구이동률은 14.6%로 1년 전보다 0.4%포인트 증가했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘터닝메카드’ 올 설에도 품절현상?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336837",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "미 행정부, 연방기관에 \\\"보안 취약점 전부 조치\\\" 명령",
+		"newsSubTitle": "",
+		"newsContent": "조 바이든 미국 행정부가 연방기관을 대상으로 보안 취약점을 전부 조치하라는 명령을 내렸다.\n이번 명령에 따라 이들 기관이 조치해야 하는 보안 취약점은 최소 수백개에 달하는 것으로 알려졌다.\n3일(현지시간) 월스트리트 저널 등 외신에 따르면 바이든 행정부는 이날 전체 연방기관에 보안 취약점 조치를 명령했다.\n외신들은 이번 조치에 대해 “사이버보안과 관련해 연방기관에 내려진 가장 포괄적인 명령”이라고 평가했다.\n바이든 행정부는 2017~2020년 사이 전문가들에 의해 식별된 보안 취약점 200개와 올해 추가 발견된 보안 취약점 90개 등 총 290개의 알려진 보안 취약점을 조치하라고 지시했다.\n취약점은 모두 사이버 공격자에 의해 악용된 것으로 바이든 행정부는 “미 연방에 중대한 리스크를 초래할 수 있다”고 분석했다.\n특히 이들 취약점은 하청업체 등 서드파티를 포함한 연방 정보 시스템 소프트웨어와 하드웨어 취약점이 모두 포함된다.\n고도로 위험하거나 치명적인 것으로 파악된 취약점뿐만 아니라 상대적으로 중요도가 낮은 취약점까지 아울렀다.\n미 행정부는 솔라윈즈 등 초대형 보안사고 재발을 방지하기 위해 이번 조치를 취한 것으로 전해졌다.\n보안 취약점 조치 명령은 젠 이스털리 국토안보부(DHS) 산하 사이버·인프라안보국(CISA) 국장에 의해 발부됐다.\n군사·안보를 총괄하는 국방부와 중앙정보국(CIA), 국가정보국장실(ODNI)을 제외한 전체 연방기관이 이번 명령에 따라야 하며, 명령 대상 기관들은 앞으로 최대 6개월 동안 보안 조치를 마쳐야 한다.\n알레한드로 마요르카스 국토안보부 장관은 명령문을 통해 “연방기관을 포함한 모든 규모의 조직은 사이버 공격자가 시스템에 침투하고 데이터를 탈취, 국민 삶을 위협하는 것을 막아야 한다”면서 “리스크를 줄이고 집단 사이버보안을 강화하기 위해 중대 취약점으로부터 부처와 기관을 보호해야 할 것”이라고 말했다.\n앞서 바이든 행정부는 정부책임처(GAO)를 통해 사이버보안 통합 지침을 발표한 바 있다.\n이 지침에 따라 특정 기관의 사이버보안 담당자가 지침을 따르지 않을 경우에는 국토안보부가 해당 기관 상급자에게 통보하고 시정을 요구하도록 권한이 부여됐다.\n2020 GAO 보고서에 따르면 대부분 기관이 명령에 순응해 이 같은 통보가 실제로 발생하는 일은 매우 드문 것으로 파악됐다.\n미 행정부는 지난해 말 러시아 배후로 추정되는 솔라윈즈 해킹 사태로 일대 파문이 인 이후 국가 차원에서 사이버보안을 강화하는 추세다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "조 바이든 미국 행정부가 연방기관을 대상으로 보안 취약점을 전부 조치하라는 명령을 내렸다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 명령에 따라 이들 기관이 조치해야 하는 보안 취약점은 최소 수백개에 달하는 것으로 알려졌다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "3일(현지시간) 월스트리트 저널 등 외신에 따르면 바이든 행정부는 이날 전체 연방기관에 보안 취약점 조치를 명령했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "외신들은 이번 조치에 대해 “사이버보안과 관련해 연방기관에 내려진 가장 포괄적인 명령”이라고 평가했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "바이든 행정부는 2017~2020년 사이 전문가들에 의해 식별된 보안 취약점 200개와 올해 추가 발견된 보안 취약점 90개 등 총 290개의 알려진 보안 취약점을 조치하라고 지시했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "취약점은 모두 사이버 공격자에 의해 악용된 것으로 바이든 행정부는 “미 연방에 중대한 리스크를 초래할 수 있다”고 분석했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 이들 취약점은 하청업체 등 서드파티를 포함한 연방 정보 시스템 소프트웨어와 하드웨어 취약점이 모두 포함된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "고도로 위험하거나 치명적인 것으로 파악된 취약점뿐만 아니라 상대적으로 중요도가 낮은 취약점까지 아울렀다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "미 행정부는 솔라윈즈 등 초대형 보안사고 재발을 방지하기 위해 이번 조치를 취한 것으로 전해졌다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "보안 취약점 조치 명령은 젠 이스털리 국토안보부(DHS) 산하 사이버·인프라안보국(CISA) 국장에 의해 발부됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "군사·안보를 총괄하는 국방부와 중앙정보국(CIA), 국가정보국장실(ODNI)을 제외한 전체 연방기관이 이번 명령에 따라야 하며, 명령 대상 기관들은 앞으로 최대 6개월 동안 보안 조치를 마쳐야 한다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "알레한드로 마요르카스 국토안보부 장관은 명령문을 통해 “연방기관을 포함한 모든 규모의 조직은 사이버 공격자가 시스템에 침투하고 데이터를 탈취, 국민 삶을 위협하는 것을 막아야 한다”면서 “리스크를 줄이고 집단 사이버보안을 강화하기 위해 중대 취약점으로부터 부처와 기관을 보호해야 할 것”이라고 말했다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "앞서 바이든 행정부는 정부책임처(GAO)를 통해 사이버보안 통합 지침을 발표한 바 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이 지침에 따라 특정 기관의 사이버보안 담당자가 지침을 따르지 않을 경우에는 국토안보부가 해당 기관 상급자에게 통보하고 시정을 요구하도록 권한이 부여됐다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "2020 GAO 보고서에 따르면 대부분 기관이 명령에 순응해 이 같은 통보가 실제로 발생하는 일은 매우 드문 것으로 파악됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "미 행정부는 지난해 말 러시아 배후로 추정되는 솔라윈즈 해킹 사태로 일대 파문이 인 이후 국가 차원에서 사이버보안을 강화하는 추세다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미 행정부, 연방기관에 \\\"보안 취약점 전부 조치\\\" 명령",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

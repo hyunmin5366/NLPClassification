@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005288",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "SM그룹 지코, 벡셀 흡수합병…새 사명은 'SM벡셀'",
+		"newsSubTitle": "조직효율화 및 전기차 시대 대비 등",
+		"newsContent": "SM그룹이 자동차 연관 계열사 통폐합으로 조직효율화 및 전기자동차 시대를 대비하고 있다.\n자동차부품 제조 전문기업 지코는 배터리 제조 전문기업 벡셀을 지난 1일 흡수합병하고 사명을 'SM벡셀'로 변경했다고 6일 발표했다.\n양사는 독점규제 및 공정거래에 관한 법률상 SM 기업집단 소속 계열회사다.\n지코는 워터펌프와 오일펌프 등 파워트레인의 주요 부품을 생산해 현대자동차와 기아 등에 납품하는 자동차 부품 회사다.\n벡셀은 알카라인과 망간 등의 1차 전지와 니켈수소 및 리튬이온 등의 2차 전지를 생산하는 유통·제조전문 기업이다.\nSM벡셀 관계자는 데일리임팩트에 \\\"이번 합병으로 인한 시너지 효과를 통해 경쟁력 강화 및 경영의 효율성 제고를 통한 지속 성장을 위해 합병을 하게 됐다\\\"라고 설명했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SM그룹이 자동차 연관 계열사 통폐합으로 조직효율화 및 전기자동차 시대를 대비하고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자동차부품 제조 전문기업 지코는 배터리 제조 전문기업 벡셀을 지난 1일 흡수합병하고 사명을 'SM벡셀'로 변경했다고 6일 발표했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양사는 독점규제 및 공정거래에 관한 법률상 SM 기업집단 소속 계열회사다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지코는 워터펌프와 오일펌프 등 파워트레인의 주요 부품을 생산해 현대자동차와 기아 등에 납품하는 자동차 부품 회사다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "벡셀은 알카라인과 망간 등의 1차 전지와 니켈수소 및 리튬이온 등의 2차 전지를 생산하는 유통·제조전문 기업이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SM벡셀 관계자는 데일리임팩트에 \\\"이번 합병으로 인한 시너지 효과를 통해 경쟁력 강화 및 경영의 효율성 제고를 통한 지속 성장을 위해 합병을 하게 됐다\\\"라고 설명했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"전세값 하늘 찌를텐데…연말 대출이자도 두 배 뛴다\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

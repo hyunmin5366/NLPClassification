@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325020",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[종합]영등포·구로 KT 통신장애, 서울시 수목 작업 중 발생...\\\"복구 완료\\\"",
+		"newsSubTitle": "",
+		"newsContent": "서울 영등포구와 구로구 일대에서 광케이블 훼손으로 인한 KT 무선통신 장애가 발생했다.\nKT는 오후 1시 50분 기준 복구를 완료됐다고 밝혔다.\n11일 오전 10시 40분경 서울시 영등포구와 구로구 일대에서 KT 무선통신 장애가 발생했다.\nKT는 서울시가 월드컵대교 남단 도로변에서 나무 심기 작업 중 광케이블을 절단하는 사고가 일어나며 피해가 발생했다고 밝혔다.\n광케이블 훼손으로 영등포, 구로 일대 KT 기지국 105곳에 영향을 미치며 지역 내 KT 무선 이용자들이 불편을 겪었다.\nKT는 오후 1시 50분 기준 광케이블 단선에 대해 복구를 완료, 서비스를 정상했다고 밝혔다.\n이날 과학기술정보통신부는 KT로부터 보고를 받은 직후인 오전 10시 50분 정보통신사고 위기 경보 '주의' 단계를 발령했다.\n이어 사고가 발생한 지 한 시간 이후인 오전 11시 50분경 안전 안내 문자를 통해 KT 기지국 장애로 영등포구, 구로구 일대 무선통신 장애가 발생할 수 있다며, 이용에 유의를 당부했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "서울 영등포구와 구로구 일대에서 광케이블 훼손으로 인한 KT 무선통신 장애가 발생했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT는 오후 1시 50분 기준 복구를 완료됐다고 밝혔다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "11일 오전 10시 40분경 서울시 영등포구와 구로구 일대에서 KT 무선통신 장애가 발생했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KT는 서울시가 월드컵대교 남단 도로변에서 나무 심기 작업 중 광케이블을 절단하는 사고가 일어나며 피해가 발생했다고 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "광케이블 훼손으로 영등포, 구로 일대 KT 기지국 105곳에 영향을 미치며 지역 내 KT 무선 이용자들이 불편을 겪었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT는 오후 1시 50분 기준 광케이블 단선에 대해 복구를 완료, 서비스를 정상했다고 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 과학기술정보통신부는 KT로부터 보고를 받은 직후인 오전 10시 50분 정보통신사고 위기 경보 '주의' 단계를 발령했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 사고가 발생한 지 한 시간 이후인 오전 11시 50분경 안전 안내 문자를 통해 KT 기지국 장애로 영등포구, 구로구 일대 무선통신 장애가 발생할 수 있다며, 이용에 유의를 당부했다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[종합]영등포·구로 KT 통신장애, 서울시 수목 작업 중 발생...\\\"복구 완료\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

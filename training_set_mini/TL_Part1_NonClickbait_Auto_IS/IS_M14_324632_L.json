@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324632",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "포르쉐 '타이칸', 미국서 차고지 주차 중에 화재 폭발 사고",
+		"newsSubTitle": "",
+		"newsContent": "포르쉐의 첫 전기 스포츠카인 '타이칸(Taycan)'이 폭발음과 함께 화재사고가 발생했다.\n차고지에 세워둔 상태에서 화재가 발생하면서, 충전 중에 사고가 났을 것으로 추정된다.\n복수의 미국 매체에 따르면 지난 16일(현지시간) 플로리다주 남부지역 한 주택 차고지에서 포르쉐 전기차 타이칸에서 화재가 발생, 차량과 함께 차고지 등 주택에 심각한 피해가 발생했다.\n화재에 따른 사상자는 없는 것으로 알려졌다.\n타이칸은 지난해 말 글로벌 출시 후, 작년 12월부터 미국에 130대의 차량이 납품됐다.\n현재까지 화재원인 등 세부내용은 잘 알려지지 않고 있지만 화재장면이 소셜미디어를 통해 알려지면서 화재 발생 배경 등에 관심이 쏠리고 있다.\n더욱이 타이칸은 국내 기업의 폴란드 공장에서 생산된 배터리를 장착해 국내 배터리 업계도 사고 원인에 주목하고 있다.\n화재 발생 지역 주민들은 차량이 차고 내부에서 폭발했다고 증언했다.\n포르쉐 측은 “사고 원인에 대해 추측하기에는 너무 이르고, 현재는 상황을 조사하고 있다”며 “이번 사고로 아무도 다 치지 않았고, 이 화재는 타이칸 첫 화재사고”라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "포르쉐의 첫 전기 스포츠카인 '타이칸(Taycan)'이 폭발음과 함께 화재사고가 발생했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "차고지에 세워둔 상태에서 화재가 발생하면서, 충전 중에 사고가 났을 것으로 추정된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "복수의 미국 매체에 따르면 지난 16일(현지시간) 플로리다주 남부지역 한 주택 차고지에서 포르쉐 전기차 타이칸에서 화재가 발생, 차량과 함께 차고지 등 주택에 심각한 피해가 발생했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "화재에 따른 사상자는 없는 것으로 알려졌다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "타이칸은 지난해 말 글로벌 출시 후, 작년 12월부터 미국에 130대의 차량이 납품됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재까지 화재원인 등 세부내용은 잘 알려지지 않고 있지만 화재장면이 소셜미디어를 통해 알려지면서 화재 발생 배경 등에 관심이 쏠리고 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "더욱이 타이칸은 국내 기업의 폴란드 공장에서 생산된 배터리를 장착해 국내 배터리 업계도 사고 원인에 주목하고 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "화재 발생 지역 주민들은 차량이 차고 내부에서 폭발했다고 증언했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "포르쉐 측은 “사고 원인에 대해 추측하기에는 너무 이르고, 현재는 상황을 조사하고 있다”며 “이번 사고로 아무도 다 치지 않았고, 이 화재는 타이칸 첫 화재사고”라고 밝혔다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "포르쉐 '타이칸', 미국서 차고지 주차 중에 화재 폭발 사고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

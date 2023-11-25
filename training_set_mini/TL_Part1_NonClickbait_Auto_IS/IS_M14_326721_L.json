@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326721",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "北 신년사 분석 문서 열었다간 '악성코드 감염'",
+		"newsSubTitle": "",
+		"newsContent": "통일부를 사칭해 북한 신년사를 분석한 내용의 사이버 공격이 발생했다.\n탈북자와 북한 관련 업무 담당자를 노린 것으로 추정된다.\n3일 보안 업계는 통일부를 사칭해 '북한 2018년 신년사 분석'이란 제목의 한글 문서에 악성코드가 숨겨진 것을 발견했다.\n김정은 북한 노동당 위원장은 실제로 평창 동계올림픽 참가 의사를 밝힌 신년사를 발표했다.\n북한 신년사에 대한 사회 관심이 높은 심리를 이용한 사회공학 공격이다.\n북한 신년사 악성코드는 특정 표적에게만 보낸 스피어 피싱 공격으로 보인다.\n이메일을 받아 문서를 열람하면 자동으로 악성코드에 감염되는 방식이다.\n통일부 등 정부문서 형식에 한글 취약점을 이용해 감염률을 높였다.\n해당 문서를 열면 실제로 북한 신년사를 분석한 내용이 나온다.\n△2017년 실적 평가와 2018년 분야별 과업 제시 △'핵무력 완성'을 수단으로 한 '자기 과시성' 공세적 레토릭 형태 등 분석이 담겨있다.\n평범한 문서 파일로 보이지만 원격 제어 악성코드가 숨겨있다.\n문서를 여는 순간 악성코드에 감염되고 PC 내부에 있는 각종 파일과 정보를 원격지로 전송한다.\n정보 탈취에 주로 사용하는 악성코드다.\n한번 감염된 후에는 공격자 맘대로 PC를 제어하는 등 다양한 악성행위를 할 수 있다.\n한글과컴퓨터는 2016년 해당 보안 취약점을 업데이트했다.\n한글을 최신 버전으로 유지하면 피해를 줄일 수 있다.\n신년사 분석을 가장한 악성코드는 지난해도 발견됐다.\n지난해는 통일연구원 북한연구학회를 사칭해 '2017년 북한 신년사 분석자료'란 한글 파일에 악성코드가 담겼다.\n올해 발견된 것과 같은 형태 공격이다.\n매년 같은 형태 공격이 반복되는 정황이다.\n북한 사이버전 전문가는 “북한은 평창올림픽 참가 의사 등을 밝히며 남북관계 개선을 이야기하지만 사이버에서 공격은 지속된다”면서 “해당 악성코드에 감염되면 PC정보를 클라우드 서버로 전송한다”고 설명했다.\n그는 “공격자가 이용한 취약점은 패치가 없는 제로데이가 아니다”라면서 “악성코드를 포함한 한글 문서는 2016년에 발견된 취약점이 계속 악용된다. 보안 업데이트를 생활화하면 악성코드 공격에 대응할 수 있다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "통일부를 사칭해 북한 신년사를 분석한 내용의 사이버 공격이 발생했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "탈북자와 북한 관련 업무 담당자를 노린 것으로 추정된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "3일 보안 업계는 통일부를 사칭해 '북한 2018년 신년사 분석'이란 제목의 한글 문서에 악성코드가 숨겨진 것을 발견했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김정은 북한 노동당 위원장은 실제로 평창 동계올림픽 참가 의사를 밝힌 신년사를 발표했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "북한 신년사에 대한 사회 관심이 높은 심리를 이용한 사회공학 공격이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "북한 신년사 악성코드는 특정 표적에게만 보낸 스피어 피싱 공격으로 보인다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이메일을 받아 문서를 열람하면 자동으로 악성코드에 감염되는 방식이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "통일부 등 정부문서 형식에 한글 취약점을 이용해 감염률을 높였다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해당 문서를 열면 실제로 북한 신년사를 분석한 내용이 나온다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "△2017년 실적 평가와 2018년 분야별 과업 제시 △'핵무력 완성'을 수단으로 한 '자기 과시성' 공세적 레토릭 형태 등 분석이 담겨있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "평범한 문서 파일로 보이지만 원격 제어 악성코드가 숨겨있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "문서를 여는 순간 악성코드에 감염되고 PC 내부에 있는 각종 파일과 정보를 원격지로 전송한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "정보 탈취에 주로 사용하는 악성코드다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한번 감염된 후에는 공격자 맘대로 PC를 제어하는 등 다양한 악성행위를 할 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "한글과컴퓨터는 2016년 해당 보안 취약점을 업데이트했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "한글을 최신 버전으로 유지하면 피해를 줄일 수 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "신년사 분석을 가장한 악성코드는 지난해도 발견됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "지난해는 통일연구원 북한연구학회를 사칭해 '2017년 북한 신년사 분석자료'란 한글 파일에 악성코드가 담겼다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "올해 발견된 것과 같은 형태 공격이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "매년 같은 형태 공격이 반복되는 정황이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "북한 사이버전 전문가는 “북한은 평창올림픽 참가 의사 등을 밝히며 남북관계 개선을 이야기하지만 사이버에서 공격은 지속된다”면서 “해당 악성코드에 감염되면 PC정보를 클라우드 서버로 전송한다”고 설명했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "그는 “공격자가 이용한 취약점은 패치가 없는 제로데이가 아니다”라면서 “악성코드를 포함한 한글 문서는 2016년에 발견된 취약점이 계속 악용된다. 보안 업데이트를 생활화하면 악성코드 공격에 대응할 수 있다”고 덧붙였다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "北 신년사 분석 문서 열었다간 '악성코드 감염'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

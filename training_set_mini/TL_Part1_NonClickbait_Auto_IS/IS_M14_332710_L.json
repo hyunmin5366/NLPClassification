@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332710",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "일 르네사스, 하이브리드 DC/DC 파워모듈 2종 발표",
+		"newsSubTitle": "",
+		"newsContent": "일본 르네사스일렉트로닉스는 하이브리드 DC/DC 파워모듈 2종을 발표했다.\n출력 10A 제품(모델명 ISL8280M)과 15A 출력 제품(모델명 ISL8282M)으로 최고효율이 95%로 동급 최강 전력밀도를 지원한다. 12×11㎜ 사이즈로 1 평방밀리미터 당 115㎃ 전력을 제공한다.\n단일채널출력, 동기식 스탭다운 전원공급기로 5~16V의 넓은 입력 전압 범위에서 동작한다.\n서버, 스토리지, 광네트워킹, 통신 등 광범위한 산업 애플리케이션에 사용되며 고급 FPGA, DSP, ASIC 및 메모리를 위한 POL(Point-of-Load) 변환 기능을 제공한다.\nPWM컨트롤러, MOSFET 및 인덕터를 내장해 열효율이 뛰어나다.\n전원 공급 디자인을 완료하기 위해 설계자는 입력 및 출력 세라믹 콘덴서를 추가하기만 하면 된다.\nR4TM 고속 제어 루프 아키텍처를 고유 라인전압 피드-포워드로 활용해 초고속 부하 과도 응답과 높은 노이즈 내성이 조합된 성능을 제공한다.\n시스템보드로 열을 효율적으로 전달하는 단층 전도성 패키지 기판을 채택, 전기 및 열전도성이 뛰어나다.\n큰 부하 조건에서도 공기냉각이나 방열판이 없이 동작 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "일본 르네사스일렉트로닉스는 하이브리드 DC/DC 파워모듈 2종을 발표했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "출력 10A 제품(모델명 ISL8280M)과 15A 출력 제품(모델명 ISL8282M)으로 최고효율이 95%로 동급 최강 전력밀도를 지원한다. 12×11㎜ 사이즈로 1 평방밀리미터 당 115㎃ 전력을 제공한다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "단일채널출력, 동기식 스탭다운 전원공급기로 5~16V의 넓은 입력 전압 범위에서 동작한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서버, 스토리지, 광네트워킹, 통신 등 광범위한 산업 애플리케이션에 사용되며 고급 FPGA, DSP, ASIC 및 메모리를 위한 POL(Point-of-Load) 변환 기능을 제공한다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "PWM컨트롤러, MOSFET 및 인덕터를 내장해 열효율이 뛰어나다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전원 공급 디자인을 완료하기 위해 설계자는 입력 및 출력 세라믹 콘덴서를 추가하기만 하면 된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "R4TM 고속 제어 루프 아키텍처를 고유 라인전압 피드-포워드로 활용해 초고속 부하 과도 응답과 높은 노이즈 내성이 조합된 성능을 제공한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "시스템보드로 열을 효율적으로 전달하는 단층 전도성 패키지 기판을 채택, 전기 및 열전도성이 뛰어나다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "큰 부하 조건에서도 공기냉각이나 방열판이 없이 동작 가능하다.",
+				"sentenceSize": 34
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "일 르네사스, 하이브리드 DC/DC 파워모듈 2종 발표",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013329",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "계룡터널 7일 오후 3시부터 차량 통제",
+		"newsSubTitle": "국토청 위기대응 훈련",
+		"newsContent": "대전국토관리청 논산국토관리사무소(소장 최봉기)는 7일 대전 유성구 세동에 위치한 국도 1호선 계룡터널에서 위기대응 훈련을 실시한다고 6일 밝혔다.\n계룡터널은 대전 유성구 세동(2600m, 왕복 4차로)에 위치해 있다.\n훈련은 국가 중요시설물 안전점검 강화 및 재난사고 예방을 목적으로 실시된다.\n공주에서 계룡 방향 1개 차로의 차량통행을 이날 오후 3시부터 약 30분간 통제한다.\n훈련은 논산국토관리사무소와 터널관리사무소의 사고감지, 전파, 교통차단 등 사고대응 체계 전반을 점검한다.\n소방서, 경찰서 등 공조체계 훈련도 시행한다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전국토관리청 논산국토관리사무소(소장 최봉기)는 7일 대전 유성구 세동에 위치한 국도 1호선 계룡터널에서 위기대응 훈련을 실시한다고 6일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "계룡터널은 대전 유성구 세동(2600m, 왕복 4차로)에 위치해 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "훈련은 국가 중요시설물 안전점검 강화 및 재난사고 예방을 목적으로 실시된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공주에서 계룡 방향 1개 차로의 차량통행을 이날 오후 3시부터 약 30분간 통제한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "훈련은 논산국토관리사무소와 터널관리사무소의 사고감지, 전파, 교통차단 등 사고대응 체계 전반을 점검한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "소방서, 경찰서 등 공조체계 훈련도 시행한다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지역건설업체 올해 더 힘들다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

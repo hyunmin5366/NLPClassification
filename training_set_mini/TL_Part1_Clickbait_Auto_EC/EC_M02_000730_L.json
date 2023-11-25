@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000730",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "다음 로그인 오류, 원인은?",
+		"newsSubTitle": "",
+		"newsContent": "포털사이트 다음에서 로그인 오류가 발생했다.\n29일 오후 3시 30분경 일부 다음 회원의 자동 로그인이 해제돼 로그아웃되거나, 로그인이 안 돼 이용자들이 불편을 겪었다.\n카카오에 따르면, 오류는 약 10분간 이어졌으며 3시 40분경 복구 완료됐다.\n이용자들은 로그인 오류로 카페, 메일 서비스 등을 이용하지 못해 SNS 등에서 불만을 표출했다.\n다음에서 '다음 로그인' 키워드가 실시간 검색어 1위까지 오르기도 했다.\n오류 원인에 대해 카카오 관계자는 29일 미디어SR에 \\\"통상적으로 하는 내부 서비스 업데이트 과정에서 오류가 발생했다. 현재는 정상적으로 이용할 수 있다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "포털사이트 다음에서 로그인 오류가 발생했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "29일 오후 3시 30분경 일부 다음 회원의 자동 로그인이 해제돼 로그아웃되거나, 로그인이 안 돼 이용자들이 불편을 겪었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카카오에 따르면, 오류는 약 10분간 이어졌으며 3시 40분경 복구 완료됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이용자들은 로그인 오류로 카페, 메일 서비스 등을 이용하지 못해 SNS 등에서 불만을 표출했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다음에서 '다음 로그인' 키워드가 실시간 검색어 1위까지 오르기도 했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오류 원인에 대해 카카오 관계자는 29일 미디어SR에 \\\"통상적으로 하는 내부 서비스 업데이트 과정에서 오류가 발생했다. 현재는 정상적으로 이용할 수 있다\\\"고 밝혔다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "105일만에 휘발유값 하락",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

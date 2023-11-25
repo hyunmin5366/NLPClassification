@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351017",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "메가존클라우드, AWS 게임리프트 파트너 자격 취득",
+		"newsSubTitle": "null",
+		"newsContent": "클라우드 전문기업 메가존클라우드는 아마존웹서비스(AWS)의 아마존 게임리프트(Amazon GameLift) 파트너 자격을 획득했다고 4일 밝혔다.\n아마존 게임리프트는 멀티플레이어 게임용 클라우드 서버를 배포하고 운영하는 호스팅 솔루션이다.\n다양한 게임을 지원하며 지속적으로 사용 가능한 게임서버를 자동으로 스캔하거나 직접 서버 용량을 자동으로 추가해 운영환경을 탄력적으로 구성할 수 있다.\n지연시간과 사용자 대기시간을 줄일 수 있어 기존 온프레미스(구축형) 대비 70%까지 비용을 절감할 수 있다.\n메가존클라우드는 아마존 게임리프트를 적극 활용해 국내 시장을 공략하겠다는 전략이다.\n사내 전문 게임클라우드팀을 구성하고 게임 개발사에 필요한 기술과 컨설팅 서비스도 지원할 방침이다.\n이주완 메가존클라우드 대표는 \\\"역량을 집중해 국내 게임 개발사들이 국내뿐만 아니라 해외에서도 경쟁력을 확보할 수 있도록 특화 서비스를 제공하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "클라우드 전문기업 메가존클라우드는 아마존웹서비스(AWS)의 아마존 게임리프트(Amazon GameLift) 파트너 자격을 획득했다고 4일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아마존 게임리프트는 멀티플레이어 게임용 클라우드 서버를 배포하고 운영하는 호스팅 솔루션이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "다양한 게임을 지원하며 지속적으로 사용 가능한 게임서버를 자동으로 스캔하거나 직접 서버 용량을 자동으로 추가해 운영환경을 탄력적으로 구성할 수 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지연시간과 사용자 대기시간을 줄일 수 있어 기존 온프레미스(구축형) 대비 70%까지 비용을 절감할 수 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "메가존클라우드는 아마존 게임리프트를 적극 활용해 국내 시장을 공략하겠다는 전략이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사내 전문 게임클라우드팀을 구성하고 게임 개발사에 필요한 기술과 컨설팅 서비스도 지원할 방침이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이주완 메가존클라우드 대표는 \\\"역량을 집중해 국내 게임 개발사들이 국내뿐만 아니라 해외에서도 경쟁력을 확보할 수 있도록 특화 서비스를 제공하겠다\\\"고 말했다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "메가존클라우드, AWS 게임리프트 파트너 자격 취득",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333869",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "연예인 노출 영상 유혹...네이버 피싱 사이트 주의",
+		"newsSubTitle": "",
+		"newsContent": "연예인 노출 영상을 미끼로 네이버 사용자 계정정보를 탈취하는 피싱 사이트가 발견 돼 사용자 주의가 필요하다.\n이스트시큐리티에 따르면 네이버 카페 등을 통해 자극적인 동영상 재생화면으로 위장해 사용자 클릭을 유도하는 공격을 발견했다.\nA 카페 게시글에는 자극적인 동영상 재생화면으로 위장해 사용자 클릭을 유도한다.\n카페 사용자가 해당 게시글에 보이는 동영상 재생화면을 클릭하면 실제 동영상 플레이 화면으로 보이는 사이트로 이동한다.\n동영상 재생 버튼을 클릭하면, 연령 확인이 필요한 서비스라는 문구와 함께 네이버 계정 정보를 요구한다.\n해당 노출 동영상을 보기 위해 페이지에 계정정보를 입력하면 입력한 개인정보는 모두 사이트 제작자에게 넘어간다.\n이스트시큐리티는 \\\"사용자는 의심스러운 링크 클릭을 지양하고 자신 계정이 로그인 되는 사이트 URL을 확인하는 습관을 길러야 한다\\\"고 조언했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "연예인 노출 영상을 미끼로 네이버 사용자 계정정보를 탈취하는 피싱 사이트가 발견 돼 사용자 주의가 필요하다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이스트시큐리티에 따르면 네이버 카페 등을 통해 자극적인 동영상 재생화면으로 위장해 사용자 클릭을 유도하는 공격을 발견했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "A 카페 게시글에는 자극적인 동영상 재생화면으로 위장해 사용자 클릭을 유도한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "카페 사용자가 해당 게시글에 보이는 동영상 재생화면을 클릭하면 실제 동영상 플레이 화면으로 보이는 사이트로 이동한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "동영상 재생 버튼을 클릭하면, 연령 확인이 필요한 서비스라는 문구와 함께 네이버 계정 정보를 요구한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 노출 동영상을 보기 위해 페이지에 계정정보를 입력하면 입력한 개인정보는 모두 사이트 제작자에게 넘어간다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이스트시큐리티는 \\\"사용자는 의심스러운 링크 클릭을 지양하고 자신 계정이 로그인 되는 사이트 URL을 확인하는 습관을 길러야 한다\\\"고 조언했다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "연예인 노출 영상 유혹...네이버 피싱 사이트 주의",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

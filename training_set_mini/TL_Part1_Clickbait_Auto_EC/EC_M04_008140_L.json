@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008140",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "대전 휘발유 1896원",
+		"newsSubTitle": "경유ℓ당 1696원… 주말께 1700원대 예상",
+		"newsContent": "기름값이 지난해 10월 이후 일일 최대 상승폭을 하루 만에 갈아치우면서 이틀 연속 크게 올랐다.\n서울에는 휘발유값이 ℓ당 2200원을 웃도는 주유소도 등장했다.\n이날 대전도 평균 휘발유 가격이 1896.71원, 충남지역 1885.01원대를 기록하는 등 연일 기름값이 치솟는 양상이다.\n3일 한국석유공사의 주유소 가격 정보시스템인 오피넷(www.opinet.co.kr)에 따르면 이날 전국 평균 휘발유 판매가격은 1890.14원으로 전날 ℓ당 1886.00원 보다 4원 가량 올랐다.\n그 전날 보다 무려 8.76원이나 상승했다.\n경유값 오름세도 무섭다.\n이날 전국 평균 경유 판매 가격은 ℓ당 1697.32원으로 전날 1693.06원 보다 4원 안팎이 올랐고 그 전날보다 8.80원이 상승했다.\n대전은 평균 ℓ당 1696.61원, 충남은 1689.44원을 기록하는 등 이번 주말께는 1700원대를 넘어설 전망이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "기름값이 지난해 10월 이후 일일 최대 상승폭을 하루 만에 갈아치우면서 이틀 연속 크게 올랐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서울에는 휘발유값이 ℓ당 2200원을 웃도는 주유소도 등장했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 대전도 평균 휘발유 가격이 1896.71원, 충남지역 1885.01원대를 기록하는 등 연일 기름값이 치솟는 양상이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "3일 한국석유공사의 주유소 가격 정보시스템인 오피넷(www.opinet.co.kr)에 따르면 이날 전국 평균 휘발유 판매가격은 1890.14원으로 전날 ℓ당 1886.00원 보다 4원 가량 올랐다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "그 전날 보다 무려 8.76원이나 상승했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "경유값 오름세도 무섭다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이날 전국 평균 경유 판매 가격은 ℓ당 1697.32원으로 전날 1693.06원 보다 4원 안팎이 올랐고 그 전날보다 8.80원이 상승했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "대전은 평균 ℓ당 1696.61원, 충남은 1689.44원을 기록하는 등 이번 주말께는 1700원대를 넘어설 전망이다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성생명, '생활보장보험 탄탄하게' 배타적 사용권 획득",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

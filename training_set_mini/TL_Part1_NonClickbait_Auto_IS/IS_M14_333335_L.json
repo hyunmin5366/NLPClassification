@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333335",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "SKB, 양자암호 전용회선 서비스 출시...기업 데이터 보안에 특화",
+		"newsSubTitle": "",
+		"newsContent": "SK브로드밴드가 양자암호 전용회선 서비스를 선보인다.\n내부 데이터 보안을 중요시 여기는 공공·금융 등 전용회선 활용 기관 및 기업의 양자암호통신망 도입이 확산되는 계기가 될 전망이다.\nSK브로드밴드는 양자키분배방식(QKD)이 적용된 양자암호 전용회선 정규 서비스를 출시하고, 이용약관에 반영했다.\n요금제는 제공 속도 10Gbps, 100Gbps 를 기준으로 거리에 비례해 산정됐다.\n납부 주기는 월 단위다.\n10Gbps 상품은 시내 수용 구역 내에서는 1억원대에 제공한다.\n수용구역 외에는 거리별로 1억300만~1억500만원대 수준이다.\n시외 지역에 대해서는 10㎞ 이하 구간부터 400㎞ 초과까지 8구간으로 분류했으며, 1억1000만원대부터 8억5000만원대까지 제공한다. 100Gbps의 경우 시내 수용구역은 10Gbps 상품보다 다소 높은 1억6000만원대다.\n시내 수용구역 외에서는 거리별로 1억 7000만~1억8000만원대로 설정됐다.\n시외 지역은 10Gbps요금제와 같이 8구간으로 구분했다.\n10㎞ 이하 2억 1000만원대부터 400㎞ 초과 구간에 대해서는 14억원대까지 공급한다.\n기업대상(B2B) 상품인 전용회선은 경쟁입찰로 진행되는 사례가 많아 실제 계약 시 협정가격은 요금제보다 50% 이상 더 낮게 제공될 수도 있다.\n최소 이용기간은 3년으로 5년 이상 사용 고객에 대해서는 10% 약정 할인을 적용한다.\n양자암호 전용회선 상품은 기존 전용회선 상품보다 가격이 다소 높다.\n양자암호통신망 구축을 위해서는 장비 설치가 필요한데 특히 양자암호를 생성하는 QKD 장비의 시장 가격이 약 3억원에 이르기 때문이다.\nSK브로드밴드는 자사 전용회선을 도입한 기관·기업에 양자암호통신 전송 장비와 키 분배기, 광코어, 중계기 등 제반 설비를 제공한다.\n제공 전송장비에는 SK텔레콤과 우리넷이 티 크립토 '(T-Crypto)' 기술을 기반으로 국내 처음 국정원 암호모듈검증(KCMVP)을 받은 모듈이 탑재된다.\nKT도 SK브로드밴드와 동시에 양자암호 전용회선 서비스를 출시한 가운데, 요금은 SK브로드밴드와 유사한 수준으로 책정할 것으로 알려졌다.\nLG유플러스는 지난 4월 양자내성암호 전용회선 요금제를 출시한 바 있다.\n양자내성암호의 경우 소프트웨어 기반으로 QKD 상품보다는 다소 저렴하다.\n정부와 업계에서는 양자암호 전용회선 상품 출시를 통해 양자암호통신망의 민간 적용이 확대될 것으로 기대하고 있다.\n과학기술정보통신부와 한국지능정보사회진흥원(NIA)이 디지털뉴딜 현장에서 실증한 기술이 실제 현장에서 빠르게 확산될 것으로 관측된다.\n통신업계 관계자는 “데이터 보안이 중요하게 여겨지는 산업 현장에서 양자암호 전용회선 서비스를 통해 안정성이 커질 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK브로드밴드가 양자암호 전용회선 서비스를 선보인다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "내부 데이터 보안을 중요시 여기는 공공·금융 등 전용회선 활용 기관 및 기업의 양자암호통신망 도입이 확산되는 계기가 될 전망이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SK브로드밴드는 양자키분배방식(QKD)이 적용된 양자암호 전용회선 정규 서비스를 출시하고, 이용약관에 반영했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "요금제는 제공 속도 10Gbps, 100Gbps 를 기준으로 거리에 비례해 산정됐다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "납부 주기는 월 단위다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "10Gbps 상품은 시내 수용 구역 내에서는 1억원대에 제공한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "수용구역 외에는 거리별로 1억300만~1억500만원대 수준이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "시외 지역에 대해서는 10㎞ 이하 구간부터 400㎞ 초과까지 8구간으로 분류했으며, 1억1000만원대부터 8억5000만원대까지 제공한다. 100Gbps의 경우 시내 수용구역은 10Gbps 상품보다 다소 높은 1억6000만원대다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "시내 수용구역 외에서는 거리별로 1억 7000만~1억8000만원대로 설정됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "시외 지역은 10Gbps요금제와 같이 8구간으로 구분했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "10㎞ 이하 2억 1000만원대부터 400㎞ 초과 구간에 대해서는 14억원대까지 공급한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기업대상(B2B) 상품인 전용회선은 경쟁입찰로 진행되는 사례가 많아 실제 계약 시 협정가격은 요금제보다 50% 이상 더 낮게 제공될 수도 있다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "최소 이용기간은 3년으로 5년 이상 사용 고객에 대해서는 10% 약정 할인을 적용한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "양자암호 전용회선 상품은 기존 전용회선 상품보다 가격이 다소 높다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "양자암호통신망 구축을 위해서는 장비 설치가 필요한데 특히 양자암호를 생성하는 QKD 장비의 시장 가격이 약 3억원에 이르기 때문이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "SK브로드밴드는 자사 전용회선을 도입한 기관·기업에 양자암호통신 전송 장비와 키 분배기, 광코어, 중계기 등 제반 설비를 제공한다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "제공 전송장비에는 SK텔레콤과 우리넷이 티 크립토 '(T-Crypto)' 기술을 기반으로 국내 처음 국정원 암호모듈검증(KCMVP)을 받은 모듈이 탑재된다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "KT도 SK브로드밴드와 동시에 양자암호 전용회선 서비스를 출시한 가운데, 요금은 SK브로드밴드와 유사한 수준으로 책정할 것으로 알려졌다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "LG유플러스는 지난 4월 양자내성암호 전용회선 요금제를 출시한 바 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "양자내성암호의 경우 소프트웨어 기반으로 QKD 상품보다는 다소 저렴하다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "정부와 업계에서는 양자암호 전용회선 상품 출시를 통해 양자암호통신망의 민간 적용이 확대될 것으로 기대하고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "과학기술정보통신부와 한국지능정보사회진흥원(NIA)이 디지털뉴딜 현장에서 실증한 기술이 실제 현장에서 빠르게 확산될 것으로 관측된다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "통신업계 관계자는 “데이터 보안이 중요하게 여겨지는 산업 현장에서 양자암호 전용회선 서비스를 통해 안정성이 커질 것”이라고 말했다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SKB, 양자암호 전용회선 서비스 출시...기업 데이터 보안에 특화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

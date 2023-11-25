@@ -1,0 +1,249 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329130",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "왜 해커는 인터넷나야나만 노렸나...코리아IDC 서버 9대 랜섬공격",
+		"newsSubTitle": "",
+		"newsContent": "보안 관리 없이 IDC에 맡겨 둔 서버가 랜섬웨어 표적이 됐다.\n취약점 패치를 하지 않거나 알기 쉬운 계정 정보를 쓴 리눅스 서버가 공격 대상이다.\n인터넷나야나가 운영하는 코리아IDC는 8일 9대의 서버가 랜섬웨어 공격 피해를 봤다고 밝혔다.\n이번 공격은 지난 5월 웹호스팅 서비스 사태 때와 유사하게 해킹 후 서버 내 파일을 암호화한 표적 공격이다.\n인터넷 게시판에 쇼핑몰 운영자를 비롯한 개인이 코리아IDC에 서버를 뒀다가 랜섬웨어에 감염됐다고 호소했다.\n서비스가 중단돼 복구를 문의하는 글을 올렸다.\n공교롭게도 코리아IDC는 인터넷나야나가 운영하는 서비스다.\n인터넷나야나는 웹호스팅 서버에 이어 IDC 서비스 고객까지 피해를 보는 초유의 상황을 맞았다.\n한 보안 전문가는 \\\"보안이 취약한 IDC 내 서버를 노렸다\\\"면서 \\\"지난 5월에 몸값을 지불한 인터넷나야나가 운영하는 코리아IDC를 집중 공격한 것으로 추정된다\\\"고 설명했다.\n코리아IDC는 사고 대상은 인가된 인터넷주소(IP)가 아닌 어디서든 접근이 가능한 서버였다고 밝혔다.\n보안 취약점 업데이트가 안 된 서버가 대부분이었다.\n커널이나 배시, 오픈SSH, 기타 애플리케이션(앱) 업데이트가 소홀한 서버가 피해를 봤다.\n보안이 취약한 서버를 골라 침입한 후 내부 파일을 암호화시켰다.\n해커는 구체적 몸값을 명시하지 않고 이메일 계정으로 연락하라는 내용을 남겼다.\n이 때문에 랜섬웨어 종류와 몸값이 명확하지 않다.\n5월처럼 해커와 협상을 해야 하는 상황이다.\nKISA 관계자는 \\\"해커가 취약한 서버 계정을 찾아내 로그인 한 후 내부 파일을 암호화했다\\\"면서 \\\"5월에 발생한 인터넷나야나 사태 때 쓰던 랜섬웨어와 다른 종류로, 리눅스 서버용 암호화 프로그램\\\"이라고 전했다.\n최상명 하우리 CERT실장은 \\\"리눅스 서버는 클릭 한 번만 누르면 보안 패치가 되는 윈도와 달리 과정이 복잡하다\\\"면서 \\\"기존에 보고된 적 없는 랜섬웨어가 사용된 것으로 보아 국내 서버만 노린 표적 공격으로 보인다\\\"고 설명했다.\n인터넷나야나가 책임을 지고 13억원의 몸값을 지불한 웹호스팅 서비스와 달리 IDC 고객은 해당 문제를 자체 해결해야 할 것으로 보인다.\nIDC에 맡겨둔 서버 보안 책임은 고객사에 있다.\nIDC는 단순히 서버를 보관하고 전기와 회선만 공급하는 역할을 한다.\n건물주가 사무실을 임대하는 것과 같다.\n각각 임대한 사무실 출입문 잠금 장치는 고객이 설정한다.\n도둑이 고객이 설정한 허술한 비밀번호를 알아내 침입한 경우 건물주가 책임지지는 않는다.\n한 보안 전문가는 \\\"코리아IDC는 인터넷나야나가 운영하는 서비스이고 다른 IDC 피해가 없는 상황이어서 책임 소재 논란의 가능성이 있다\\\"면서 \\\"한 번 피해를 본 기업이 또다시 대상이 될 수 있음을 보여 준 사례\\\"라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 25,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "보안 관리 없이 IDC에 맡겨 둔 서버가 랜섬웨어 표적이 됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "취약점 패치를 하지 않거나 알기 쉬운 계정 정보를 쓴 리눅스 서버가 공격 대상이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인터넷나야나가 운영하는 코리아IDC는 8일 9대의 서버가 랜섬웨어 공격 피해를 봤다고 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 공격은 지난 5월 웹호스팅 서비스 사태 때와 유사하게 해킹 후 서버 내 파일을 암호화한 표적 공격이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인터넷 게시판에 쇼핑몰 운영자를 비롯한 개인이 코리아IDC에 서버를 뒀다가 랜섬웨어에 감염됐다고 호소했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "서비스가 중단돼 복구를 문의하는 글을 올렸다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공교롭게도 코리아IDC는 인터넷나야나가 운영하는 서비스다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인터넷나야나는 웹호스팅 서버에 이어 IDC 서비스 고객까지 피해를 보는 초유의 상황을 맞았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한 보안 전문가는 \\\"보안이 취약한 IDC 내 서버를 노렸다\\\"면서 \\\"지난 5월에 몸값을 지불한 인터넷나야나가 운영하는 코리아IDC를 집중 공격한 것으로 추정된다\\\"고 설명했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "코리아IDC는 사고 대상은 인가된 인터넷주소(IP)가 아닌 어디서든 접근이 가능한 서버였다고 밝혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "보안 취약점 업데이트가 안 된 서버가 대부분이었다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "커널이나 배시, 오픈SSH, 기타 애플리케이션(앱) 업데이트가 소홀한 서버가 피해를 봤다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "보안이 취약한 서버를 골라 침입한 후 내부 파일을 암호화시켰다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "해커는 구체적 몸값을 명시하지 않고 이메일 계정으로 연락하라는 내용을 남겼다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이 때문에 랜섬웨어 종류와 몸값이 명확하지 않다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "5월처럼 해커와 협상을 해야 하는 상황이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "KISA 관계자는 \\\"해커가 취약한 서버 계정을 찾아내 로그인 한 후 내부 파일을 암호화했다\\\"면서 \\\"5월에 발생한 인터넷나야나 사태 때 쓰던 랜섬웨어와 다른 종류로, 리눅스 서버용 암호화 프로그램\\\"이라고 전했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "최상명 하우리 CERT실장은 \\\"리눅스 서버는 클릭 한 번만 누르면 보안 패치가 되는 윈도와 달리 과정이 복잡하다\\\"면서 \\\"기존에 보고된 적 없는 랜섬웨어가 사용된 것으로 보아 국내 서버만 노린 표적 공격으로 보인다\\\"고 설명했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "인터넷나야나가 책임을 지고 13억원의 몸값을 지불한 웹호스팅 서비스와 달리 IDC 고객은 해당 문제를 자체 해결해야 할 것으로 보인다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "IDC에 맡겨둔 서버 보안 책임은 고객사에 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "IDC는 단순히 서버를 보관하고 전기와 회선만 공급하는 역할을 한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "건물주가 사무실을 임대하는 것과 같다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "각각 임대한 사무실 출입문 잠금 장치는 고객이 설정한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "도둑이 고객이 설정한 허술한 비밀번호를 알아내 침입한 경우 건물주가 책임지지는 않는다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "한 보안 전문가는 \\\"코리아IDC는 인터넷나야나가 운영하는 서비스이고 다른 IDC 피해가 없는 상황이어서 책임 소재 논란의 가능성이 있다\\\"면서 \\\"한 번 피해를 본 기업이 또다시 대상이 될 수 있음을 보여 준 사례\\\"라고 말했다.",
+				"sentenceSize": 129
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "왜 해커는 인터넷나야나만 노렸나...코리아IDC 서버 9대 랜섬공격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

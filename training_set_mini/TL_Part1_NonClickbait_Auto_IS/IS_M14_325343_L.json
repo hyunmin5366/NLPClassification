@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325343",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "CJ헬로 '샤오미 미A1' 출시",
+		"newsSubTitle": "",
+		"newsContent": "CJ헬로가 샤오미 보급형 스마트폰 '미A1' 출시한다.\n앞서 CJ헬로가 구매대행 방식으로 샤오미 스마트폰을 판매한 적은 있지만 정식 출시는 이번이 처음이다.\n미A1은 샤오미 스마트폰 중 안드로이드 순정 운용체계(OS)를 탑재한 첫 제품으로 후면 듀얼카메라를 장착했다.\n지난해 12월 샤오미 국내 총판 지모비코리아가 팅크웨어·하이마트 온라인 쇼핑몰 등에서 공기계로 출시한 바 있다.\n출고가는 29만9000원이다.\nCJ헬로는 추가 할인을 제공할 예정이다.\nCJ헬로 관계자는 “헬로모바일은 차별화 전략 일환으로 듀얼유심 스마트폰인 샤오미 미A1을 이번 주 출시할 예정”이라며 “듀얼유심 스마트폰을 활성화할 수 있는 마케팅 전략도 추가할 계획”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "CJ헬로가 샤오미 보급형 스마트폰 '미A1' 출시한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "앞서 CJ헬로가 구매대행 방식으로 샤오미 스마트폰을 판매한 적은 있지만 정식 출시는 이번이 처음이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미A1은 샤오미 스마트폰 중 안드로이드 순정 운용체계(OS)를 탑재한 첫 제품으로 후면 듀얼카메라를 장착했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 12월 샤오미 국내 총판 지모비코리아가 팅크웨어·하이마트 온라인 쇼핑몰 등에서 공기계로 출시한 바 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "출고가는 29만9000원이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "CJ헬로는 추가 할인을 제공할 예정이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "CJ헬로 관계자는 “헬로모바일은 차별화 전략 일환으로 듀얼유심 스마트폰인 샤오미 미A1을 이번 주 출시할 예정”이라며 “듀얼유심 스마트폰을 활성화할 수 있는 마케팅 전략도 추가할 계획”이라고 말했다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "CJ헬로 '샤오미 미A1' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

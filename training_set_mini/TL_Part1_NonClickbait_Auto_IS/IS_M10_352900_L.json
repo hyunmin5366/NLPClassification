@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352900",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "\\\"가상공간 시장 키운다\\\" 한컴인텔리전스, 전문기업 스탠스 인수",
+		"newsSubTitle": "null",
+		"newsContent": "한컴MDS의 연결 자회사인 한컴인텔리전스가 디지털 트윈 기술전문 기업인 스탠스를 인수했다고 19일 밝혔다.\n디지털 트윈이란 실제 환경이나 물체를 가상세계로 옮겨와 시뮬레이션과 인공지능(AI) 학습으로 예측하고 최적화 결과를 다시 현실세계에 반영하는 기술을 뜻한다.\n스탠스는 2017년에 설립된 회사로 디지털 트윈의 가상공간 구성에 필요한 데이터 생성부터 분석까지 전 주기에 걸친 기술 역량을 갖고 있다.\n실제 환경을 3D 데이터로 생성해주는 자동화 기술과 0.5mm 안팎의 작은 사물도 시각화하는 초정밀 데이터 시각화 기술, 센서 없이도 시설 내 작업자 위치를 인식하는 VPS(Visual Positioning Service) 등 기술을 확보했다.\n한컴인텔리전스는 자체 개발한 사물인터넷(IoT) 기술 네오아이디엠(NeoIDM)에 스탠스의 디지털 트윈 기술을 접목해 IoT 서비스를 고도화한다는 구상이다.\n한컴인텔리전스는 \\\"지난해 인수한 메타버스 전문기업 한컴프론티스와도 협력해 가상세계 구성에 필요한 기술교류에 나설 방침\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한컴MDS의 연결 자회사인 한컴인텔리전스가 디지털 트윈 기술전문 기업인 스탠스를 인수했다고 19일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "디지털 트윈이란 실제 환경이나 물체를 가상세계로 옮겨와 시뮬레이션과 인공지능(AI) 학습으로 예측하고 최적화 결과를 다시 현실세계에 반영하는 기술을 뜻한다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스탠스는 2017년에 설립된 회사로 디지털 트윈의 가상공간 구성에 필요한 데이터 생성부터 분석까지 전 주기에 걸친 기술 역량을 갖고 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "실제 환경을 3D 데이터로 생성해주는 자동화 기술과 0.5mm 안팎의 작은 사물도 시각화하는 초정밀 데이터 시각화 기술, 센서 없이도 시설 내 작업자 위치를 인식하는 VPS(Visual Positioning Service) 등 기술을 확보했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "한컴인텔리전스는 자체 개발한 사물인터넷(IoT) 기술 네오아이디엠(NeoIDM)에 스탠스의 디지털 트윈 기술을 접목해 IoT 서비스를 고도화한다는 구상이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한컴인텔리전스는 \\\"지난해 인수한 메타버스 전문기업 한컴프론티스와도 협력해 가상세계 구성에 필요한 기술교류에 나설 방침\\\"이라고 말했다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"가상공간 시장 키운다\\\" 한컴인텔리전스, 전문기업 스탠스 인수",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

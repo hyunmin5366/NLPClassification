@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000178",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "설치, 설치, 설치... 공공웹사이트 플러그인, 언제쯤 사라지나?",
+		"newsSubTitle": "",
+		"newsContent": "정부가 공인인증서 폐지를 밝혔음에도, 일부 공공웹사이트가 액티브X 등 플러그인 설치를 계속하고 있어 사용자의 불편함이 해소되지 않고 있다.\n8일 현재 LH한국토지주택공사 청약페이지, 정부24, 한국장학재단, 대법원인터넷등기소 등을 확인한 결과, 각 사이트가 다른 보안프로그램 설치를 권장하고 있다.\nLH공사 청약센터에서 청약을 신청하려면 액티브X를 설치해야 한다.\n청약신청 버튼을 누르자 '사이트를 이용하려면 액티브X를 설치하셔야 합니다'라는 메시지가 뜬다.\n정부 24도 마찬가지다.\n로그인 버튼을 누르자 '통합설치 프로그램이 설치되지 않았습니다. 설치화면으로 이동합니다'라는 메시지와 함께 보안 프로그램 설치화면이 뜬다.\n정부 24는 공인인증서 사용과 암호화, 키보드 보안, 문서출력 보안, 첨부서류 업로드 등 총 5개의 설치를 권장한다.\n한국장학재단은 로그인 버튼을 누르자마자 보안프로그램 설치 화면으로 이동한다.\nCrosswebEX 보안 프로그램을 설치하지 않으면 로그인을 할 수 없다.\n공공 웹사이트마다 필수로 설치하는 프로그램이 달라, 자주 이용하지 않는 사이트에 접속하면 새로 플러그인 설치를 해야 한다.\n행정안전부는 올해 중으로 30대 공공 웹사이트에서 액티브X 등 플러그인을 없애고, 2020년까지 모든 웹사이트에서 플러그인을 완전히 제거할 예정이라 밝힌 바 있다.\n우선 연말정산 간소화 서비스와 정부24 플러그인을 제거하겠다고 했으나 아직까지 정부24의 플러그인은 없어지지 않았다.\n김경직 행정안전부 정보자원정책과 사무관은 \\\"플러그인 제거는 시작 단계일 뿐이다. 정부24도 액티브X는 제거한 상태다. 액티브X 대신 OS 상관없이 사용할 수 있는 EX를 설치했는데 이것도 올해 안으로 제거할 계획\\\"이라 해명했다.\n김 사무관은 2020년까지 30개 공공웹사이트 플러그인 제거가 어디까지 진행됐냐는 미디어SR의 질문에 \\\"2016년 대비, 액티브X 제거는 70% 정도 진행됐다. 나머지 플러그인 제거는 진행해야 한다\\\"라고 답했다.\n액티브X 제거는 대부분 진행됐지만 다른 플러그인 제거는 시간이 필요하다는 것이다.\n김 사무관은 올해 안에 공공웹사이트 플러그인을 없앨 수 있다고 강조했다.\n\\\"행안부가플러그인 제거 정책을 밝힌 만큼, 올해 말까지 제거가 가능할 것으로 본다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정부가 공인인증서 폐지를 밝혔음에도, 일부 공공웹사이트가 액티브X 등 플러그인 설치를 계속하고 있어 사용자의 불편함이 해소되지 않고 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "8일 현재 LH한국토지주택공사 청약페이지, 정부24, 한국장학재단, 대법원인터넷등기소 등을 확인한 결과, 각 사이트가 다른 보안프로그램 설치를 권장하고 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LH공사 청약센터에서 청약을 신청하려면 액티브X를 설치해야 한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "청약신청 버튼을 누르자 '사이트를 이용하려면 액티브X를 설치하셔야 합니다'라는 메시지가 뜬다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정부 24도 마찬가지다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "로그인 버튼을 누르자 '통합설치 프로그램이 설치되지 않았습니다. 설치화면으로 이동합니다'라는 메시지와 함께 보안 프로그램 설치화면이 뜬다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "정부 24는 공인인증서 사용과 암호화, 키보드 보안, 문서출력 보안, 첨부서류 업로드 등 총 5개의 설치를 권장한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한국장학재단은 로그인 버튼을 누르자마자 보안프로그램 설치 화면으로 이동한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "CrosswebEX 보안 프로그램을 설치하지 않으면 로그인을 할 수 없다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "공공 웹사이트마다 필수로 설치하는 프로그램이 달라, 자주 이용하지 않는 사이트에 접속하면 새로 플러그인 설치를 해야 한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "행정안전부는 올해 중으로 30대 공공 웹사이트에서 액티브X 등 플러그인을 없애고, 2020년까지 모든 웹사이트에서 플러그인을 완전히 제거할 예정이라 밝힌 바 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "우선 연말정산 간소화 서비스와 정부24 플러그인을 제거하겠다고 했으나 아직까지 정부24의 플러그인은 없어지지 않았다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "김경직 행정안전부 정보자원정책과 사무관은 \\\"플러그인 제거는 시작 단계일 뿐이다. 정부24도 액티브X는 제거한 상태다. 액티브X 대신 OS 상관없이 사용할 수 있는 EX를 설치했는데 이것도 올해 안으로 제거할 계획\\\"이라 해명했다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "김 사무관은 2020년까지 30개 공공웹사이트 플러그인 제거가 어디까지 진행됐냐는 미디어SR의 질문에 \\\"2016년 대비, 액티브X 제거는 70% 정도 진행됐다. 나머지 플러그인 제거는 진행해야 한다\\\"라고 답했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "액티브X 제거는 대부분 진행됐지만 다른 플러그인 제거는 시간이 필요하다는 것이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "김 사무관은 올해 안에 공공웹사이트 플러그인을 없앨 수 있다고 강조했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "\\\"행안부가플러그인 제거 정책을 밝힌 만큼, 올해 말까지 제거가 가능할 것으로 본다\\\"고 말했다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국원자력연구원 '아톰 어린이집’ 개원",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

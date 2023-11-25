@@ -1,0 +1,276 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326070",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "교량 하부, 드론으로 점검한다",
+		"newsSubTitle": "",
+		"newsContent": "교량 하부를 드론으로 점검하는 기술이 개발됐다.\n엑스드론(대표 진정회)은 KAIST와 교량 점검용 드론을 개발했다고 27일 밝혔다.\n국토교통부 주관 '무인검사장비 기반 교량구조물 신속진단 및 평가기술 개발' 사업에 따랐다.\n기체 개발과 운용은 엑스드론이 맡고, 자율비행 SW는 KAIST 담당이다.\n이 드론은 교량 하부에 붙어 비행하면서 교량 균열이나 부식 정도를 알아낸다.\n카메라와 각종 센서를 부착할 수 있게 가로·세로 지지대가 여럿이다.\n하늘에 떠서 아래쪽을 촬영하던 드론과 개념부터 다르다.\n외형도 일반 드론과 확실히 구분된다.\n가지처럼 뻗은 날개 끝에 달렸던 프로펠러는 드론 하부에 장착됐다.\n교량 하부 촬영 때 자칫 프로펠러가 충돌하지 않도록 설계했다.\n대신 여러 개 바퀴를 상부와 측면에 달았다.\n드론이 교량 하부에 안정적으로 붙어 이동할 수 있다.\n충돌에 대비해 완충기능도 넣었다.\n안정성을 위해 기체 크기도 키웠다.\n한 쪽 길이는 1m가 넘는다.\n무게는 5.5㎏이다.\n최대 비행 시간은 20분이다.\n점검 비행은 자동이다.\n사전에 교량 설계도와 위치, 비행계획 등을 입력하면 드론이 알아서 비행한다.\n장애물 인식과 회피도 드론 스스로 해결한다.\n터치 한 번으로 임무 수행이 가능하다.\n전정회 엑스드론 대표는 “교량 하부 점검 드론은 자율 비행이 원칙”이라면서 “조종자 경험이나 능력으로 점검하면 일반 드론과 다를 게 없다”고 설명했다.\n아직은 시제품 단계다.\n자율비행과 센서 호환 테스트 중이다.\n엑스드론은 새해에 테스트와 시연, 안전 인증 등을 마무리하고 2019년 완성형 제품을 선보일 계획이다.\n엑스드론은 이와 함께 교량 상부와 측면에서 영상으로 균열 등을 확인하는 드론도 개발 중이다.\n교량 전체를 둘러보는 만큼 비행시간이 30분으로 더 길다.\n전 대표는 “레저용 드론 기술은 중국이 분명 앞선 게 맞지만 특수 목적용 기체는 비슷한 수준”이라면서 “안전성과 편의성 제공해야 상품으로서 가치가 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 28,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "교량 하부를 드론으로 점검하는 기술이 개발됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엑스드론(대표 진정회)은 KAIST와 교량 점검용 드론을 개발했다고 27일 밝혔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국토교통부 주관 '무인검사장비 기반 교량구조물 신속진단 및 평가기술 개발' 사업에 따랐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기체 개발과 운용은 엑스드론이 맡고, 자율비행 SW는 KAIST 담당이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 드론은 교량 하부에 붙어 비행하면서 교량 균열이나 부식 정도를 알아낸다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카메라와 각종 센서를 부착할 수 있게 가로·세로 지지대가 여럿이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하늘에 떠서 아래쪽을 촬영하던 드론과 개념부터 다르다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "외형도 일반 드론과 확실히 구분된다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "가지처럼 뻗은 날개 끝에 달렸던 프로펠러는 드론 하부에 장착됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "교량 하부 촬영 때 자칫 프로펠러가 충돌하지 않도록 설계했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "대신 여러 개 바퀴를 상부와 측면에 달았다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "드론이 교량 하부에 안정적으로 붙어 이동할 수 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "충돌에 대비해 완충기능도 넣었다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "안정성을 위해 기체 크기도 키웠다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "한 쪽 길이는 1m가 넘는다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "무게는 5.5㎏이다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "최대 비행 시간은 20분이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "점검 비행은 자동이다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "사전에 교량 설계도와 위치, 비행계획 등을 입력하면 드론이 알아서 비행한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "장애물 인식과 회피도 드론 스스로 해결한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "터치 한 번으로 임무 수행이 가능하다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "전정회 엑스드론 대표는 “교량 하부 점검 드론은 자율 비행이 원칙”이라면서 “조종자 경험이나 능력으로 점검하면 일반 드론과 다를 게 없다”고 설명했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "아직은 시제품 단계다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "자율비행과 센서 호환 테스트 중이다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "엑스드론은 새해에 테스트와 시연, 안전 인증 등을 마무리하고 2019년 완성형 제품을 선보일 계획이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "엑스드론은 이와 함께 교량 상부와 측면에서 영상으로 균열 등을 확인하는 드론도 개발 중이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "교량 전체를 둘러보는 만큼 비행시간이 30분으로 더 길다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "전 대표는 “레저용 드론 기술은 중국이 분명 앞선 게 맞지만 특수 목적용 기체는 비슷한 수준”이라면서 “안전성과 편의성 제공해야 상품으로서 가치가 있다”고 말했다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "교량 하부, 드론으로 점검한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

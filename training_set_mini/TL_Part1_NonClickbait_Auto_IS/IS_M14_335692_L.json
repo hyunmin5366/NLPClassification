@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335692",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "K-글로벌 커넥트 판교 페스티벌 2017 개막",
+		"newsSubTitle": "",
+		"newsContent": "정보통신기술 글로벌 트렌드를 공유하는 'K-글로벌 커넥트 판교 페스티벌 2017'이 28일 경기도 성남시 판교 스타트업캠퍼스에서 열렸다.\n참석자가 스타트업 피칭 부스에서 자동차 가상현실(VR) 보조 구매 솔루션을 보고 있다.\n참석자가 스타트업 이노프레소의 터치 패드를 품은 키보드 '모키보'를 시연하고 있다.\n참석자가 스타트업 에이펀인터렉티브의 자동차 가상현실(VR) 구매 보조 솔루션을 시연하고 있다.\n참석자가 스타트업 룩시드랩스의 가상현실(VR) 사용자 감정 분석 시스템을 시연하고 있다.\n모 가댓 구글X 신규사업개발 대표가 '오픈 인공지능(AI) 기반 혁신'이라는 주제로 기조연설을 하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "정보통신기술 글로벌 트렌드를 공유하는 'K-글로벌 커넥트 판교 페스티벌 2017'이 28일 경기도 성남시 판교 스타트업캠퍼스에서 열렸다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "참석자가 스타트업 피칭 부스에서 자동차 가상현실(VR) 보조 구매 솔루션을 보고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "참석자가 스타트업 이노프레소의 터치 패드를 품은 키보드 '모키보'를 시연하고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "참석자가 스타트업 에이펀인터렉티브의 자동차 가상현실(VR) 구매 보조 솔루션을 시연하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "참석자가 스타트업 룩시드랩스의 가상현실(VR) 사용자 감정 분석 시스템을 시연하고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모 가댓 구글X 신규사업개발 대표가 '오픈 인공지능(AI) 기반 혁신'이라는 주제로 기조연설을 하고 있다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "K-글로벌 커넥트 판교 페스티벌 2017 개막",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

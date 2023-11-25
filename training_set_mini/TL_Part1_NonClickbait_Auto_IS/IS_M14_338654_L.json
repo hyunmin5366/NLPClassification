@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338654",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "해커가 몸값두고 흥정까지...갠드크랩에 이어 크립트온 랜섬웨어 기승",
+		"newsSubTitle": "",
+		"newsContent": "이력서 등으로 위장한 갠드크랩 랜섬웨어에 이어 가짜 도메인을 통해 유포되는 크립트온 랜섬웨어까지 기승을 부린다.\n크립트온 랜섬웨어는 암호화한 파일을 두고 해커가 직접 몸값 협상을 벌이는 등 대담성까지 보인다.\n16일 보안업계에 따르면 최근 크립트온(CryptON) 랜섬웨어 변종이 국내서 발견돼 주의가 요구된다.\n크립트온 랜섬웨어 변종형태는 11일 해외에서 처음 발견 된 후 국내에는 15일 첫 피해사례가 접수됐다.\n크립트온 랜섬웨어는 구글 지메일 계정(account-gmail.net)으로 위장한 도메인 등 웹 사이트 취약점을 통해 유포된다.\n현재 국내서 발견된 지메일 계정을 도용한 웹사이트는 차단됐다.\n크립트온 랜섬웨어 감염 시 'appdata' 폴더 아래 '사용자 계정' 이름으로 폴더를 만든다.\n이후 '사용자계정_Body.exe' 이름의 악성코드를 생성한다.\n공격자는 파일을 원래상태로 되돌리기 위해 복호화 툴 구매를 요구하며 이메일, 채팅 등이 가능한 접속 주소로 안내한다.\n이스트시큐리티 관계자는 “실제 안내에 따라 채팅 시도 시 500달러 상당 이더리움 암호화폐를 요구하며 흥정도 가능하다”면서 “채팅에서 문의한 뒤 한참이 지난 후 답변이 오는 등 자동화가 아닌 사람이 직접 입력하는 것으로 보인다”고 설명했다.\n최근 해커는 대상자를 분석해 이력서로 위장하거나 교통범칙금, 이미지 도용 항의메일 등 다양한 형태로 랜섬웨어 공격을 가한다.\n올해 초 기승을 부린 매그니버 랜섬웨어 복호화 툴이 공개되자 복호화가 어려운 변종 형태 갠드크랩, 크립트온 랜섬웨어까지 공격방법도 다양해졌다.\n게다가 이들 공격자는 대쉬(DASH), 비트코인, 이더리움 등 암호화폐를 몸값으로 요구해 자금 추적도 사실상 어렵다.\n최근 이스트시큐리티 발표에 따르면 공개용 알약이 '랜섬웨어 행위기반 사전 차단 기능'을 통해 집계한 랜섬웨어 공격은 1분기에만 33만건을 돌파했다.\n월 평균 11만 347건으로 하루 3678건에 달하는 공격이 발생한 셈이다.\n체크멀 관계자는 “크립트온 랜섬웨어는 지난해부터 다양한 이름으로 유포됐으며 최근 복호화가 어려운 변종 형태로 유포된다”면서 “갠드크랩 등과 달리 한국어 등을 사용하지 않는 등 특정 국가를 타깃 삼지 않는 무차별 공격으로 사용자 주의가 요구된다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이력서 등으로 위장한 갠드크랩 랜섬웨어에 이어 가짜 도메인을 통해 유포되는 크립트온 랜섬웨어까지 기승을 부린다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "크립트온 랜섬웨어는 암호화한 파일을 두고 해커가 직접 몸값 협상을 벌이는 등 대담성까지 보인다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "16일 보안업계에 따르면 최근 크립트온(CryptON) 랜섬웨어 변종이 국내서 발견돼 주의가 요구된다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "크립트온 랜섬웨어 변종형태는 11일 해외에서 처음 발견 된 후 국내에는 15일 첫 피해사례가 접수됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "크립트온 랜섬웨어는 구글 지메일 계정(account-gmail.net)으로 위장한 도메인 등 웹 사이트 취약점을 통해 유포된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 국내서 발견된 지메일 계정을 도용한 웹사이트는 차단됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "크립트온 랜섬웨어 감염 시 'appdata' 폴더 아래 '사용자 계정' 이름으로 폴더를 만든다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이후 '사용자계정_Body.exe' 이름의 악성코드를 생성한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공격자는 파일을 원래상태로 되돌리기 위해 복호화 툴 구매를 요구하며 이메일, 채팅 등이 가능한 접속 주소로 안내한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이스트시큐리티 관계자는 “실제 안내에 따라 채팅 시도 시 500달러 상당 이더리움 암호화폐를 요구하며 흥정도 가능하다”면서 “채팅에서 문의한 뒤 한참이 지난 후 답변이 오는 등 자동화가 아닌 사람이 직접 입력하는 것으로 보인다”고 설명했다.",
+				"sentenceSize": 134
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "최근 해커는 대상자를 분석해 이력서로 위장하거나 교통범칙금, 이미지 도용 항의메일 등 다양한 형태로 랜섬웨어 공격을 가한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "올해 초 기승을 부린 매그니버 랜섬웨어 복호화 툴이 공개되자 복호화가 어려운 변종 형태 갠드크랩, 크립트온 랜섬웨어까지 공격방법도 다양해졌다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "게다가 이들 공격자는 대쉬(DASH), 비트코인, 이더리움 등 암호화폐를 몸값으로 요구해 자금 추적도 사실상 어렵다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "최근 이스트시큐리티 발표에 따르면 공개용 알약이 '랜섬웨어 행위기반 사전 차단 기능'을 통해 집계한 랜섬웨어 공격은 1분기에만 33만건을 돌파했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "월 평균 11만 347건으로 하루 3678건에 달하는 공격이 발생한 셈이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "체크멀 관계자는 “크립트온 랜섬웨어는 지난해부터 다양한 이름으로 유포됐으며 최근 복호화가 어려운 변종 형태로 유포된다”면서 “갠드크랩 등과 달리 한국어 등을 사용하지 않는 등 특정 국가를 타깃 삼지 않는 무차별 공격으로 사용자 주의가 요구된다”고 말했다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "해커가 몸값두고 흥정까지...갠드크랩에 이어 크립트온 랜섬웨어 기승",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007677",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "기상악화로 김장배추 등 생산량 모두 감소",
+		"newsSubTitle": "",
+		"newsContent": "이상기온과 태풍 등 기상악화로 금년 김장배추와 무 생산량이 지난해보다 크게 줄어든 것으로 나타났다.\n20일 통계청에 따르면 김장배추 생산량은 118만8000t으로 전년보다 25.0% 감소하고 김장무 생산량도 47만3000t으로 전년보다 24.2% 줄었다.\n김장배추는 모종을 밭에 옮겨 심는 시기에 잦은 비가 내린데다 생육이 부진한 채로 심어져 재배면적이 6.4% 준 것으로 나타났다.\n김장무도 파종기 잦은 강우와 일조량 부족 등으로 제때 파종을 못하는 등 면적이 3.8% 줄었다.\n배추를 밭에 심는 8~9월 강우량을 비교해 보면 2008년 256.3㎜, 2009년 206.2㎜에 비해 2010년에는 633.4㎜에 달했다.\n일조 시간도 2008년 352.4시간, 2009년 337.9시간이었던 반면, 2010년에는 289.4시간에 불과했다.\n일조량과 강우량 변화로 금년 콩 생산량은 전년보다 24.3% 감소한 10만5000t, 배 생산량은 26.4% 감소한 30만8000t, 사과 생산량은 6.9% 감소한 46만t으로 나타났다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이상기온과 태풍 등 기상악화로 금년 김장배추와 무 생산량이 지난해보다 크게 줄어든 것으로 나타났다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 통계청에 따르면 김장배추 생산량은 118만8000t으로 전년보다 25.0% 감소하고 김장무 생산량도 47만3000t으로 전년보다 24.2% 줄었다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "김장배추는 모종을 밭에 옮겨 심는 시기에 잦은 비가 내린데다 생육이 부진한 채로 심어져 재배면적이 6.4% 준 것으로 나타났다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "김장무도 파종기 잦은 강우와 일조량 부족 등으로 제때 파종을 못하는 등 면적이 3.8% 줄었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "배추를 밭에 심는 8~9월 강우량을 비교해 보면 2008년 256.3㎜, 2009년 206.2㎜에 비해 2010년에는 633.4㎜에 달했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일조 시간도 2008년 352.4시간, 2009년 337.9시간이었던 반면, 2010년에는 289.4시간에 불과했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "일조량과 강우량 변화로 금년 콩 생산량은 전년보다 24.3% 감소한 10만5000t, 배 생산량은 26.4% 감소한 30만8000t, 사과 생산량은 6.9% 감소한 46만t으로 나타났다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KAIST, 무선인터넷 시뮬레이션 기술 ‘모파이심’ 개발",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

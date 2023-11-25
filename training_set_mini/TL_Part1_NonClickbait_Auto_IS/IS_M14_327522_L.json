@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327522",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "스마트미터기 보안 강화...키페어, 보안칩 '암호화 보안 모듈 검증' 통과",
+		"newsSubTitle": "",
+		"newsContent": "스마트미터기 등 사물인터넷(IoT) 기기 보안이 강화된다.\n키페어(대표 이창근)는 국가정보원에서 스마트미터기 보안칩 '암호화 보안 모듈 검증(KCMVP)'을 통과했다.\n검증 신청 후 4년 만이다.\n향후 한국전력 스마트미터기 등 국내 민관 스마트미터기, IoT 보안칩 시장을 개척한다.\n키페어는 최근 국가보안연구소에서 스마트미터기 등에 쓰이는 'KSE100B, KSE300B' 보안칩이 KCMVP 심사를 통했다고 밝혔다.\n해당 보안칩은 자체 난수 생성 모듈을 탑재했다.\n저전력 설계로 30밀리와트(mW) 이하에서 구동한다.\n슬립(대기) 모드를 지원해 계량기 전력 소모량을 줄인다.\nSPI, ISO7816 인터페이스를 적용해 대부분 마이크로컨트롤러(MCU)와 접목한다.\n이 보안 칩은 스마트미터기는 물론이고 다양한 사물인터넷(IoT)기기에 적용한다.\n이창근 키페어 대표는 “이 제품은 별도 난수 생성이 필요 없는 단일 칩으로 가경경쟁력에서 앞선다”면서 “보안 최고수준인 물리적 보안 2등급을 획득 했으며 편리한 개발환경으로 툴킷 전문가가 아니어도 사용이 편리하게 설계했다”고 말했다.\n시장 기대감은 크다.\n정부 지능형 전력망 기본계획과 연계, 전 가구에 지능형 전력계량시스템(AMI)구축사업을 추진 중이다.\nAMI는 스마트미터기, 통신 설비, 운영시스템으로 구성된다.\n양방향 통신망을 이용해 전력 사용량과 시간대별 요금 정보 등 전기사용 정보를 고객에게 제공, 즉시 확인 가능하다.\n초기 도입된 스마트미터기는 암호 모듈이 적용되지 않아 해킹 등 위협에 놓여 있다는 지적을 받았다.\n한국전력은 내부 개발을 통해 자체 암호화 칩을 공급하고 있지만 부족 부분은 시장에서 수급할 것으로 보인다.\n이외에도 한국수자원공사, 한국가스공사 등 국민 생활 에너지 분야는 대부분 스마트미터기 도입을 검토한다.\n이 대표는 “한국전력 스마트미터기 등 다양한 국가 기간망에 자사 보안칩이 활용될 수 있을 것으로 기대한다”면서 “CCTV, 게이트 락 등 저가 MCU가 탑재되는 IoT 기기에서 작동하는 보안칩으로 IoT 안전을 획기적으로 높일 수 있을 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "스마트미터기 등 사물인터넷(IoT) 기기 보안이 강화된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "키페어(대표 이창근)는 국가정보원에서 스마트미터기 보안칩 '암호화 보안 모듈 검증(KCMVP)'을 통과했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "검증 신청 후 4년 만이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "향후 한국전력 스마트미터기 등 국내 민관 스마트미터기, IoT 보안칩 시장을 개척한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "키페어는 최근 국가보안연구소에서 스마트미터기 등에 쓰이는 'KSE100B, KSE300B' 보안칩이 KCMVP 심사를 통했다고 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해당 보안칩은 자체 난수 생성 모듈을 탑재했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "저전력 설계로 30밀리와트(mW) 이하에서 구동한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "슬립(대기) 모드를 지원해 계량기 전력 소모량을 줄인다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "SPI, ISO7816 인터페이스를 적용해 대부분 마이크로컨트롤러(MCU)와 접목한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 보안 칩은 스마트미터기는 물론이고 다양한 사물인터넷(IoT)기기에 적용한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이창근 키페어 대표는 “이 제품은 별도 난수 생성이 필요 없는 단일 칩으로 가경경쟁력에서 앞선다”면서 “보안 최고수준인 물리적 보안 2등급을 획득 했으며 편리한 개발환경으로 툴킷 전문가가 아니어도 사용이 편리하게 설계했다”고 말했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "시장 기대감은 크다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "정부 지능형 전력망 기본계획과 연계, 전 가구에 지능형 전력계량시스템(AMI)구축사업을 추진 중이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "AMI는 스마트미터기, 통신 설비, 운영시스템으로 구성된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "양방향 통신망을 이용해 전력 사용량과 시간대별 요금 정보 등 전기사용 정보를 고객에게 제공, 즉시 확인 가능하다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "초기 도입된 스마트미터기는 암호 모듈이 적용되지 않아 해킹 등 위협에 놓여 있다는 지적을 받았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "한국전력은 내부 개발을 통해 자체 암호화 칩을 공급하고 있지만 부족 부분은 시장에서 수급할 것으로 보인다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이외에도 한국수자원공사, 한국가스공사 등 국민 생활 에너지 분야는 대부분 스마트미터기 도입을 검토한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이 대표는 “한국전력 스마트미터기 등 다양한 국가 기간망에 자사 보안칩이 활용될 수 있을 것으로 기대한다”면서 “CCTV, 게이트 락 등 저가 MCU가 탑재되는 IoT 기기에서 작동하는 보안칩으로 IoT 안전을 획기적으로 높일 수 있을 것”이라고 말했다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스마트미터기 보안 강화...키페어, 보안칩 '암호화 보안 모듈 검증' 통과",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015667",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "롯데마트, 25일부터 내달 2일까지 봄 상품 특집전",
+		"newsSubTitle": "",
+		"newsContent": "롯데마트는 25일부터 내달 2일까지 바람막이, 언더웨어 등을 선보이는 '봄 상품 특집전'을 진행한다.\n신상품 바람막이를 시중가보다 저렴하게 판매한다.\n메쉬벤틸레이션 바람막이 1만 5900원, 프리미엄 바람막이(남성) 3만 5900원, 에센셜 바람막이(여성)를 1만 9900원에 진열한다.\n이와 함께 경량 소재를 사용해 가볍고 편안한 울트라라이트 언더웨어도 준비, 울트라라이트 드로즈·러닝(각 3매) 1만 1900원, 울트라라이트 브라·팬티를 각 9800원, 3800원에 선보인다.\n또 비비안 스타킹(5족), 베이직아이콘 여성 타이즈(5족), 통큰 스타킹(8족)을 각 1만 원에 내놓았다.\n행사 상품 2개 결제 시 20%, 3개 결제 시 30% 할인 판매한다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "롯데마트는 25일부터 내달 2일까지 바람막이, 언더웨어 등을 선보이는 '봄 상품 특집전'을 진행한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "신상품 바람막이를 시중가보다 저렴하게 판매한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "메쉬벤틸레이션 바람막이 1만 5900원, 프리미엄 바람막이(남성) 3만 5900원, 에센셜 바람막이(여성)를 1만 9900원에 진열한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이와 함께 경량 소재를 사용해 가볍고 편안한 울트라라이트 언더웨어도 준비, 울트라라이트 드로즈·러닝(각 3매) 1만 1900원, 울트라라이트 브라·팬티를 각 9800원, 3800원에 선보인다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 비비안 스타킹(5족), 베이직아이콘 여성 타이즈(5족), 통큰 스타킹(8족)을 각 1만 원에 내놓았다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "행사 상품 2개 결제 시 20%, 3개 결제 시 30% 할인 판매한다.",
+				"sentenceSize": 39
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "롯데시티호텔 '가정의 달' 맞아 패밀리룸 할인 이벤트",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334472",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "성산전자통신, 3.5GHz 5G 대역차단필터 개발",
+		"newsSubTitle": "",
+		"newsContent": "국내 중소기업이 5세대(5G) 이동통신 주파수 3.5㎓ 대역 간섭 제거 필터를 개발했다.\n외산 의존도가 높은 금속공진기 기반 필터(Cavity Filter) 기술을 적용한 제품으로 5G 기술 국산화와 서비스 확산에 기여할 전망이다.\n성산전자통신은 3.5㎓ 대역을 위한 초소형 대역차단필터(Band Reject Filter, 모델명 FIL0016-0001)를 개발, 공급 준비를 마쳤다고 밝혔다.\n불요파(불필요한 전파, 스퓨리어스)를 차단하는 이 제품은 금속공진기를 교차 배열하는 인터디지털 대역차단필터다.\n기지국과 중계기 등에 장착, 이동통신사 5G 전파가 다른 통신장비에 영향을 미치지 못하도록 차단한다.\n성산전자통신은 금속공진기 교차 배열 방식으로 기존 구현 방식 대비 차단 주파수 대역폭, 차단 신호율 등 성능을 30% 향상시켰다.\n동일 규격 대비 30% 소형화가 가능해졌고 조립 시간과 재료비도 절감할 수 있게 됐다.\n이통 3사 5G 주파수 3.42~3.7㎓ 대역을 모두 차단할 수 있도록 광대역 성능을 구현한 게 신제품의 강점 중 하나다.\n3.5㎓ 대역에서 5G 주파수를 추가 확보하려면 C밴드(3.4~4.2㎓) 내 공공, 위성 주파수와 간섭 이슈를 해결해야 한다.\n특히 3.7㎓ 이상 대역은 다른 나라 역시 위성 주파수 간섭이 해결 과제다.\n대역차단필터 시장성이 밝은 이유다.\n성산전자통신 관계자는 “대역차단필터는 고부가가치 필터로 국내 제조사가 많지 않은데 특히 금속공진기 기반 제품은 해외 의존도가 높다”면서 “2년간 집중 연구개발을 통해 3개 특허기술을 출원 중이며 새로 선보이는 대역차단필터로 국내 필터 시장을 개척하고 해외 시장으로 사업을 확장할 수 있을 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 중소기업이 5세대(5G) 이동통신 주파수 3.5㎓ 대역 간섭 제거 필터를 개발했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "외산 의존도가 높은 금속공진기 기반 필터(Cavity Filter) 기술을 적용한 제품으로 5G 기술 국산화와 서비스 확산에 기여할 전망이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "성산전자통신은 3.5㎓ 대역을 위한 초소형 대역차단필터(Band Reject Filter, 모델명 FIL0016-0001)를 개발, 공급 준비를 마쳤다고 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "불요파(불필요한 전파, 스퓨리어스)를 차단하는 이 제품은 금속공진기를 교차 배열하는 인터디지털 대역차단필터다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기지국과 중계기 등에 장착, 이동통신사 5G 전파가 다른 통신장비에 영향을 미치지 못하도록 차단한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "성산전자통신은 금속공진기 교차 배열 방식으로 기존 구현 방식 대비 차단 주파수 대역폭, 차단 신호율 등 성능을 30% 향상시켰다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "동일 규격 대비 30% 소형화가 가능해졌고 조립 시간과 재료비도 절감할 수 있게 됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이통 3사 5G 주파수 3.42~3.7㎓ 대역을 모두 차단할 수 있도록 광대역 성능을 구현한 게 신제품의 강점 중 하나다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "3.5㎓ 대역에서 5G 주파수를 추가 확보하려면 C밴드(3.4~4.2㎓) 내 공공, 위성 주파수와 간섭 이슈를 해결해야 한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특히 3.7㎓ 이상 대역은 다른 나라 역시 위성 주파수 간섭이 해결 과제다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "대역차단필터 시장성이 밝은 이유다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "성산전자통신 관계자는 “대역차단필터는 고부가가치 필터로 국내 제조사가 많지 않은데 특히 금속공진기 기반 제품은 해외 의존도가 높다”면서 “2년간 집중 연구개발을 통해 3개 특허기술을 출원 중이며 새로 선보이는 대역차단필터로 국내 필터 시장을 개척하고 해외 시장으로 사업을 확장할 수 있을 것”이라고 말했다.",
+				"sentenceSize": 171
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "성산전자통신, 3.5GHz 5G 대역차단필터 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339149",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "[이슈분석]올해 네이버 신규투자 1위 '블루닷'",
+		"newsSubTitle": "",
+		"newsContent": "네이버는 올해 신규 투자 시 개별 기업당 1억~10억원을 투자했다.\n스타트업당 평균 투자액은 4억600만원이다.\n블루닷은 올해 네이버 D2SF(D2 Startup Factory)가 신규로 투자한 스타트업 중 가장 많은 투자금을 받았다.\n최초 투자에서 두 자릿수인 10억원을 유치했다.\n블루닷은 지난해 8월에 설립된 기술 벤처기업이다.\n반도체 IP 코스닥 상장사에서 경력을 쌓은 최고기술책임자(CTO)와 최고마케팅책임자(CMO)가 손잡고 만들었다.\n대표를 비롯, 직원은 반도체 개발 및 영상 압축 전문가로 구성돼 있다.\n반도체 IP 기업 칩스앤미디어에서 10년 이상의 경험을 쌓았다.\n블루닷은 용도에 따라 설계를 바꾸는 반도체인 프로그래머블반도체(FPGA) 기반 동영상 처리 및 압축 솔루션을 개발했다.\nFPGA는 기존 중앙처리장치(CPU), 그래픽처리장치(GPU)와 달리 다시 프로그래밍을 할 수 있는 하드웨어다.\n생산된 이후에도 수정을 할 수 있어 인공지능(AI)과 같이 수시로 기술을 업그레이드하는 기술에 적합하다.\n소프트웨어만으로는 급증하는 고화질 동영상 트래픽에 대응하는데 한계가 있다는 점에 착안, 블루닷은 반도체 설계부터 알고리즘까지 전 구조를 동영상에 최적화했다.\n이를 통해 콘텐츠 제공 업체는 고화질 라이브 동영상도 지연 없이 전송 가능하다.\n이와 함께 블루닷은 저화질 동영상을 고화질로 바꾸는 솔루션인 '딥필드 SR'도 보유하고 있다.\n해상도가 낮은 사회관계망서비스(SNS) 라이브 영상이나 휴대폰으로 촬영한 스포츠 중계 라이브 영상 등을 업스케일링 해 시청 경험을 제고한다.\n해당 솔루션은 입력 영상의 여러 프레임 정보를 사용하는 블루닷 자체 인공신경망 알고리즘을 기반으로 개발됐다.\n다양한 비디오 데이터를 통해 학습돼 화질의 선명함을 유지하면서 최대 4K 해상도로 빠르게 업스케일링할 수 있다.\n글로벌 챌린지 '어댑티브 컴퓨팅 2020'에서 1위를 차지하며 기술력을 입증한 바 있다.\n내년 초, 블루닷은 동영상 압축 효율이 h.264대비 2배 이상 높은 솔루션인 '펄서 AV1'을 선보일 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "네이버는 올해 신규 투자 시 개별 기업당 1억~10억원을 투자했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "스타트업당 평균 투자액은 4억600만원이다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "블루닷은 올해 네이버 D2SF(D2 Startup Factory)가 신규로 투자한 스타트업 중 가장 많은 투자금을 받았다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최초 투자에서 두 자릿수인 10억원을 유치했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "블루닷은 지난해 8월에 설립된 기술 벤처기업이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반도체 IP 코스닥 상장사에서 경력을 쌓은 최고기술책임자(CTO)와 최고마케팅책임자(CMO)가 손잡고 만들었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "대표를 비롯, 직원은 반도체 개발 및 영상 압축 전문가로 구성돼 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "반도체 IP 기업 칩스앤미디어에서 10년 이상의 경험을 쌓았다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "블루닷은 용도에 따라 설계를 바꾸는 반도체인 프로그래머블반도체(FPGA) 기반 동영상 처리 및 압축 솔루션을 개발했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "FPGA는 기존 중앙처리장치(CPU), 그래픽처리장치(GPU)와 달리 다시 프로그래밍을 할 수 있는 하드웨어다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "생산된 이후에도 수정을 할 수 있어 인공지능(AI)과 같이 수시로 기술을 업그레이드하는 기술에 적합하다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "소프트웨어만으로는 급증하는 고화질 동영상 트래픽에 대응하는데 한계가 있다는 점에 착안, 블루닷은 반도체 설계부터 알고리즘까지 전 구조를 동영상에 최적화했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이를 통해 콘텐츠 제공 업체는 고화질 라이브 동영상도 지연 없이 전송 가능하다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이와 함께 블루닷은 저화질 동영상을 고화질로 바꾸는 솔루션인 '딥필드 SR'도 보유하고 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "해상도가 낮은 사회관계망서비스(SNS) 라이브 영상이나 휴대폰으로 촬영한 스포츠 중계 라이브 영상 등을 업스케일링 해 시청 경험을 제고한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "해당 솔루션은 입력 영상의 여러 프레임 정보를 사용하는 블루닷 자체 인공신경망 알고리즘을 기반으로 개발됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "다양한 비디오 데이터를 통해 학습돼 화질의 선명함을 유지하면서 최대 4K 해상도로 빠르게 업스케일링할 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "글로벌 챌린지 '어댑티브 컴퓨팅 2020'에서 1위를 차지하며 기술력을 입증한 바 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "내년 초, 블루닷은 동영상 압축 효율이 h.264대비 2배 이상 높은 솔루션인 '펄서 AV1'을 선보일 예정이다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]올해 네이버 신규투자 1위 '블루닷'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

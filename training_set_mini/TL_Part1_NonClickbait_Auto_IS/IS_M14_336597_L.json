@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336597",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "日 르네사스, AI유닛솔루션 생산성 향상 실증실험 성공",
+		"newsSubTitle": "",
+		"newsContent": "日 르네사스일렉트로닉스는 GE헬스캐어재팬과 제조기계용 인공지능(AI) 유닛 솔루션을 이용한 실증실험을 GE헬스케어 일본히노공장에 실시한 결과 불량품 발생이 최대 65% 삭감돼 큰 폭의 생산성 향상이 가능한 것을 확인했다고 밝혔다.\n르네사스 제조기계용 AI유닛솔루션은 엔드포인트에서 임베디드 기기 도입을 가능하게 하는 e-AI(embedded-Artificial Intelligence)솔루션 중 하나다.\n기존 설비나 기계에 사후 설치돼 이상감지나 예지보전 할 수 있다.\n학습된 뉴럴네트워크 모델을 1일 정도 단기간에 적용할 수 있어 센서 데이터 수집에서 가공, 분석, 평가·판정까지 일련 AI처리를 리얼타임으로 가능하다.\n이번 실증실험을 계기로 르네사스는 AI유닛솔루션을 글로벌 전개할 예정이다.\nGE헬스케어 재팬 히노공장은 CT나 MR, 초음파진단장치 등 의료기기를 제조하고 있다.\n세계 450개 GE글로벌 생산거점 중 하나로 적극적 IoT 활용으로 생산효율 등이 뛰어난 7개 생산시설에 선정된 바 있다.\n르네사스는 향후 이미 설치된 제조기계에 사후 설치하는 타입뿐만이 아니라 제조기계에 사전 설치하는 타입의 e-AI솔루션도 제안할 예정이다.\n르네사스는 엔드포인트의 인텔리전트화를 더욱 가속하기 위한 e-AI솔루션을 확충해 세계 공장의 스마트화에 공헌할 예정이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "日 르네사스일렉트로닉스는 GE헬스캐어재팬과 제조기계용 인공지능(AI) 유닛 솔루션을 이용한 실증실험을 GE헬스케어 일본히노공장에 실시한 결과 불량품 발생이 최대 65% 삭감돼 큰 폭의 생산성 향상이 가능한 것을 확인했다고 밝혔다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "르네사스 제조기계용 AI유닛솔루션은 엔드포인트에서 임베디드 기기 도입을 가능하게 하는 e-AI(embedded-Artificial Intelligence)솔루션 중 하나다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존 설비나 기계에 사후 설치돼 이상감지나 예지보전 할 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "학습된 뉴럴네트워크 모델을 1일 정도 단기간에 적용할 수 있어 센서 데이터 수집에서 가공, 분석, 평가·판정까지 일련 AI처리를 리얼타임으로 가능하다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번 실증실험을 계기로 르네사스는 AI유닛솔루션을 글로벌 전개할 예정이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "GE헬스케어 재팬 히노공장은 CT나 MR, 초음파진단장치 등 의료기기를 제조하고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "세계 450개 GE글로벌 생산거점 중 하나로 적극적 IoT 활용으로 생산효율 등이 뛰어난 7개 생산시설에 선정된 바 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "르네사스는 향후 이미 설치된 제조기계에 사후 설치하는 타입뿐만이 아니라 제조기계에 사전 설치하는 타입의 e-AI솔루션도 제안할 예정이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "르네사스는 엔드포인트의 인텔리전트화를 더욱 가속하기 위한 e-AI솔루션을 확충해 세계 공장의 스마트화에 공헌할 예정이라고 밝혔다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "日 르네사스, AI유닛솔루션 생산성 향상 실증실험 성공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325642",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[공공솔루션마켓 2017]와탭랩스 '와탭 모니터링 솔루션'",
+		"newsSubTitle": "",
+		"newsContent": "모니터링 없이 IT 비즈니스를 운영하는 것은 계기판 없이 운행하는 자동차와 다를 바 없다.\n와탭랩스는 기업이 빠르게 변하는 웹 비즈니스 환경에 대응하는 IT 모니터링 솔루션을 개발해 공급한다.\n기업 IT 서비스 구성시 모바일이나 클라우드, 해외진출을 고려해야 한다.\n이때 스케일 업이 아닌 스케일 아웃 전략이 필요하다.\n와탭은 기존 모니터링 솔루션이 추적하지 못하는 '숨겨진 소스코드 성능문제'를 인지한다.\n회사가 '액티브스택(ActiveStack)'이라 이름 붙인 특허(10-2016-0078864) 기술로 경쟁 모니터링 솔루션보다 성능 차원에서 비교 우위를 점한다.\n트랜잭션 메소드 레벨까지 프로파일링해 개발자도 찾지 못한 나머지 5% 장애를 탐지한다.\n개별 트랜잭션 상세 프로파일과 액티브스택 정보를 바탕으로 지연 구간을 분석한다.\n고객이 새로운 솔루션이나 기능을 추가하는데 급작스러운 서버 증가, CPU 숫자 증가, 메모리 증가 등을 경험한다면 숨겨진 소스코드 성능문제를 의심해봐야 한다.\n일부 회사는 10년 넘게 찾지 못한 성능문제로 서버를 계속 증설하고 지속적인 장애를 겪었다.\n와탭 모니터링 솔루션은 성능 정보 단순 기록을 넘어 사용자, TPS, 응답시간 등 통합 분석 정보로 서비스 인사이트를 제공한다. 5분 단위로 특정 시점 성능정보를 저장해 지표를 검토하는 큐브 분석을 지원한다.\n병목 구간을 쉽게 도출하는 스택 통계 분석, 트랜잭션 패턴 분석 등 다양한 관점으로 분석한다.\n웹 애플리케이션 서버 문제 상황과 원인을 즉시 파악하고 서비스 품질을 향상하도록 돕는다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "모니터링 없이 IT 비즈니스를 운영하는 것은 계기판 없이 운행하는 자동차와 다를 바 없다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "와탭랩스는 기업이 빠르게 변하는 웹 비즈니스 환경에 대응하는 IT 모니터링 솔루션을 개발해 공급한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기업 IT 서비스 구성시 모바일이나 클라우드, 해외진출을 고려해야 한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이때 스케일 업이 아닌 스케일 아웃 전략이 필요하다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "와탭은 기존 모니터링 솔루션이 추적하지 못하는 '숨겨진 소스코드 성능문제'를 인지한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "회사가 '액티브스택(ActiveStack)'이라 이름 붙인 특허(10-2016-0078864) 기술로 경쟁 모니터링 솔루션보다 성능 차원에서 비교 우위를 점한다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "트랜잭션 메소드 레벨까지 프로파일링해 개발자도 찾지 못한 나머지 5% 장애를 탐지한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "개별 트랜잭션 상세 프로파일과 액티브스택 정보를 바탕으로 지연 구간을 분석한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "고객이 새로운 솔루션이나 기능을 추가하는데 급작스러운 서버 증가, CPU 숫자 증가, 메모리 증가 등을 경험한다면 숨겨진 소스코드 성능문제를 의심해봐야 한다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "일부 회사는 10년 넘게 찾지 못한 성능문제로 서버를 계속 증설하고 지속적인 장애를 겪었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "와탭 모니터링 솔루션은 성능 정보 단순 기록을 넘어 사용자, TPS, 응답시간 등 통합 분석 정보로 서비스 인사이트를 제공한다. 5분 단위로 특정 시점 성능정보를 저장해 지표를 검토하는 큐브 분석을 지원한다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "병목 구간을 쉽게 도출하는 스택 통계 분석, 트랜잭션 패턴 분석 등 다양한 관점으로 분석한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "웹 애플리케이션 서버 문제 상황과 원인을 즉시 파악하고 서비스 품질을 향상하도록 돕는다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[공공솔루션마켓 2017]와탭랩스 '와탭 모니터링 솔루션'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

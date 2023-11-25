@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002048",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "LG에 이어 SK하이닉스마저 해킹으로 기밀 유출",
+		"newsSubTitle": "",
+		"newsContent": "SK하이닉스와 LG전자가 랜섬웨어 공격을 받아 회사 내부 자료가 유출된 것으로 나타났다.\n10일 보안업계에 따르면 메이즈(maze)라는 해커단체로부터 랜섬웨어 공격을 받아 SK하이닉스 미국 법인의 내부 자료가 유출된 것으로 확인됐다.\n메이즈는 해킹으로 취득한 자료 중 일부인 600MB 분량의 내용을 자사 홈페이지에 공개하며 이를 빌미로 몸값을 요구하고 있는 것으로 전해졌다.\n메이즈 측 주장에 따르면 사전 유출 데이터는 전체의 0.1%로 전체 유출 데이터는 600GB 내외로 추정된다.\n공개된 문건의 작성 시점은 2013년에서 2015년의 과거 자료로 내용은 내부회의나 업무보고 등인 것으로 알려졌다.\nSK하이닉스는 미국 판매법인으로 민감한 정보가 포함되지는 않았다고 판단하고 있다.\n그러나 메이즈 측의 공개 문건에 따르면 직원들의 비자 및 여권 사본 등 민감한 개인정보도 일부 포함된 것으로 알려졌다.\nSK하이닉스 관계자는 미디어SR에 \\\"취할 수 있는 모든 대응 방법을 검토해 최적의 방안으로 대응할 계획\\\"이라며 \\\"이번 사건을 계기로 더욱 강화된 조치를 수립할 예정\\\"이라고 밝혔다.\n앞서 해커단체 메이즈는 지난 8월에도 LG전자의 시스템에 침입해 주요 데이터를 탈취했다고 주장하며 50GB 분량의 데이터를 공개한 바 있다.\n당시 메이즈는 LG전자가 개발한 제품의 펌웨어 등을 온라인에 게시하며 협박했으나 LG전자는 협상에 응하지 않은 것으로 알려졌다.\n일반적인 랜섬웨어는 파일을 사용할 수 없도록 암호화하는 방식으로 협박해 몸값을 요구한다.\n하지만 데이터 백업시스템이 마련되어 있는 기업에는 일부 자료를 유출하며 몸값을 요구하는 방식으로 협박을 일삼고 있다.\n지난해 12월 미국 연방수사국(FBI)은 자국 기업을 상대로 메이즈 랜섬웨어 경보를 발령한 바 있다.\n한편 메이즈는 SK하이닉스와 LG전자 외에도 미국의 대기업 제록스와 ST 엔지니어링, 맥스리니어, 컨듀언트 등 기업의 해킹에 성공했다는 주장을 펴왔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK하이닉스와 LG전자가 랜섬웨어 공격을 받아 회사 내부 자료가 유출된 것으로 나타났다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "10일 보안업계에 따르면 메이즈(maze)라는 해커단체로부터 랜섬웨어 공격을 받아 SK하이닉스 미국 법인의 내부 자료가 유출된 것으로 확인됐다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "메이즈는 해킹으로 취득한 자료 중 일부인 600MB 분량의 내용을 자사 홈페이지에 공개하며 이를 빌미로 몸값을 요구하고 있는 것으로 전해졌다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "메이즈 측 주장에 따르면 사전 유출 데이터는 전체의 0.1%로 전체 유출 데이터는 600GB 내외로 추정된다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공개된 문건의 작성 시점은 2013년에서 2015년의 과거 자료로 내용은 내부회의나 업무보고 등인 것으로 알려졌다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "SK하이닉스는 미국 판매법인으로 민감한 정보가 포함되지는 않았다고 판단하고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 메이즈 측의 공개 문건에 따르면 직원들의 비자 및 여권 사본 등 민감한 개인정보도 일부 포함된 것으로 알려졌다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SK하이닉스 관계자는 미디어SR에 \\\"취할 수 있는 모든 대응 방법을 검토해 최적의 방안으로 대응할 계획\\\"이라며 \\\"이번 사건을 계기로 더욱 강화된 조치를 수립할 예정\\\"이라고 밝혔다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "앞서 해커단체 메이즈는 지난 8월에도 LG전자의 시스템에 침입해 주요 데이터를 탈취했다고 주장하며 50GB 분량의 데이터를 공개한 바 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "당시 메이즈는 LG전자가 개발한 제품의 펌웨어 등을 온라인에 게시하며 협박했으나 LG전자는 협상에 응하지 않은 것으로 알려졌다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "일반적인 랜섬웨어는 파일을 사용할 수 없도록 암호화하는 방식으로 협박해 몸값을 요구한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "하지만 데이터 백업시스템이 마련되어 있는 기업에는 일부 자료를 유출하며 몸값을 요구하는 방식으로 협박을 일삼고 있다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "지난해 12월 미국 연방수사국(FBI)은 자국 기업을 상대로 메이즈 랜섬웨어 경보를 발령한 바 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한편 메이즈는 SK하이닉스와 LG전자 외에도 미국의 대기업 제록스와 ST 엔지니어링, 맥스리니어, 컨듀언트 등 기업의 해킹에 성공했다는 주장을 펴왔다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한은 \\\"아시아 신흥국, 美테이퍼링 시행해도 금융불안 발생 제한적\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

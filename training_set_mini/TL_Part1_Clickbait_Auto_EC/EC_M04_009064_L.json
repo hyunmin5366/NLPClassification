@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009064",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "국내 산업용 전기요금 비싸다",
+		"newsSubTitle": "전경련, 일각 추가인상 주장에 우려 표명",
+		"newsContent": "전국경제인연합회가 최근 정전사태를 계기로 일각에서 제기되고 있는 산업용 전기요금 추가 인상 주장에 대해 우려의 입장을 표명했다.\n22일 전경련에 따르면 지난 10년 동안 산업용 전기요금은 다른 용도의 전기요금에 비해 차별적으로 인상돼 왔다.\n2000년 이후 11차례의 전기요금 조정으로 평균 26.6% 인상됐는데, 산업용 요금은 51.2%가 인상됐다.\n같은 기간 주택용은 4.1%, 일반용은 6.6%가 상승하는데 그쳤다.\n지난달 요금개편에서도 산업용은 6.1%가 올라, 전체평균인 4.9%보다 높은 인상률을 기록했다.\n그동안 문제로 지적된 원가회수율(전기요금/전기생산원가 비율)도 산업용 전기요금이 다른 용도에 비해 양호한 것으로 나타났다.\n산업용 전기요금의 원가회수율은 92.1%로 주택용(89.7%)이나 평균(90.3%) 수준을 웃돌고 있다.\n특히 주요 선진국들은 산업용 전기를 필수 생산요소로 보기 때문에 주택용보다 낮은 요금을 책정해 산업경쟁력을 강화하는 정책을 펴고 있다.\n주택용 전기요금에 대한 산업용 전기요금 비율은 일본 69%, 프랑스 67%, 미국 59% 등으로 대부분 70% 선을 넘지 않고 있다.\n그러나 우리나라는 이 비율이 75%로 산업용 전기요금이 상대적으로 비싼 나라에 속한다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전국경제인연합회가 최근 정전사태를 계기로 일각에서 제기되고 있는 산업용 전기요금 추가 인상 주장에 대해 우려의 입장을 표명했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 전경련에 따르면 지난 10년 동안 산업용 전기요금은 다른 용도의 전기요금에 비해 차별적으로 인상돼 왔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "2000년 이후 11차례의 전기요금 조정으로 평균 26.6% 인상됐는데, 산업용 요금은 51.2%가 인상됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "같은 기간 주택용은 4.1%, 일반용은 6.6%가 상승하는데 그쳤다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지난달 요금개편에서도 산업용은 6.1%가 올라, 전체평균인 4.9%보다 높은 인상률을 기록했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그동안 문제로 지적된 원가회수율(전기요금/전기생산원가 비율)도 산업용 전기요금이 다른 용도에 비해 양호한 것으로 나타났다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "산업용 전기요금의 원가회수율은 92.1%로 주택용(89.7%)이나 평균(90.3%) 수준을 웃돌고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "특히 주요 선진국들은 산업용 전기를 필수 생산요소로 보기 때문에 주택용보다 낮은 요금을 책정해 산업경쟁력을 강화하는 정책을 펴고 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "주택용 전기요금에 대한 산업용 전기요금 비율은 일본 69%, 프랑스 67%, 미국 59% 등으로 대부분 70% 선을 넘지 않고 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그러나 우리나라는 이 비율이 75%로 산업용 전기요금이 상대적으로 비싼 나라에 속한다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성준법감시위, \\\"이재용 부회장 준법의무 위반 국민에 사과\\\" 권고",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

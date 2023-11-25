@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332459",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "투아이피, IoT보안 '안전한 P2P망 연결로 해결'",
+		"newsSubTitle": "",
+		"newsContent": "투아이피(대표 김태정)가 급증하는 사물인터넷(IoT) 해킹 대응책으로 P2P 방식 보안 프로토콜 세트 '2STON'을 내놨다.\nIP카메라나 IoT 기기에 2STON을 설치하면 안전한 P2P 네트워크가 생성된다.\nIoT 기기와 사용자 단말기가 서비스 서버 없이 인터넷에서 상호 연결된다.\n마치 케이블로 카메라와 모니터가 연결된 것처럼 동작한다.\n인증된 기기 간에만 통신하는 상호인증기술이다.\n디바이스 보안과 패킷 암호화 알고리즘을 프로토콜 레벨에서 지원한다.\n외부 IP는 2STON을 쓰는 기기 네트워크에 접속할 수 없다.\n투아이피는 API(Application Programing Inferface) 형태로 IoT 제조사에 2STON을 제공한다.\n고객이 사용 중인 와이파이, LTE, 3G 등 다양한 환경에 적용하는 경량화한 API다.\n2STON은 P2P 모빌리티를 지원해 모바일 환경에서 사용자가 IoT 기기에서 나오는 데이터를 직접 수집하고 명령을 전달한다.\n최근 미국 상원은 IoT 사이버 보안 법률을 발의했다.\n연방정부는 IoT 기기에 도입해야 하는 최소한의 표준 보안 수준을 제시했다.\n일본 역시 보안 총괄 조직을 만들고 2020년까지 IoT 보안 인증제 도입을 추진 중이다.\n한국 과학기술정보통신부와 한국인터넷진흥원은 다음 달부터 IoT 보안인증제를 시행한다.\n김태정 투아이피 대표는 \\\"최근 각국이 IoT 기기 보안 규제를 시작했다\\\"면서 \\\"각종 IoT기기를 생산하는 중국 제조사가 발 빠르게 보안 솔루션 도입을 검토했다\\\"고 설명했다.\n김 대표는 \\\"최근 중국 HIK와 따와, XM 등에 2STON을 시연했다\\\"면서 \\\"일부 기업이 솔루션 도입 절차를 시작했다\\\"고 덧붙였다.\n그는 \\\"세계 IP카메라 시장 점유율을 높이는 중국 기업이 한국보다 빨리 보안 강화에 눈뜨기 시작한데 주목해야 한다\\\"면서 \\\"국내 IoT 제조사가 보안에 신경 쓰지 않으면 초저가에 대량 생산에 나선 중국에 시장을 내줄 것\\\"이라고 강조했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "투아이피(대표 김태정)가 급증하는 사물인터넷(IoT) 해킹 대응책으로 P2P 방식 보안 프로토콜 세트 '2STON'을 내놨다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "IP카메라나 IoT 기기에 2STON을 설치하면 안전한 P2P 네트워크가 생성된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "IoT 기기와 사용자 단말기가 서비스 서버 없이 인터넷에서 상호 연결된다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "마치 케이블로 카메라와 모니터가 연결된 것처럼 동작한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "인증된 기기 간에만 통신하는 상호인증기술이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "디바이스 보안과 패킷 암호화 알고리즘을 프로토콜 레벨에서 지원한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "외부 IP는 2STON을 쓰는 기기 네트워크에 접속할 수 없다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "투아이피는 API(Application Programing Inferface) 형태로 IoT 제조사에 2STON을 제공한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "고객이 사용 중인 와이파이, LTE, 3G 등 다양한 환경에 적용하는 경량화한 API다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "2STON은 P2P 모빌리티를 지원해 모바일 환경에서 사용자가 IoT 기기에서 나오는 데이터를 직접 수집하고 명령을 전달한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "최근 미국 상원은 IoT 사이버 보안 법률을 발의했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "연방정부는 IoT 기기에 도입해야 하는 최소한의 표준 보안 수준을 제시했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "일본 역시 보안 총괄 조직을 만들고 2020년까지 IoT 보안 인증제 도입을 추진 중이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한국 과학기술정보통신부와 한국인터넷진흥원은 다음 달부터 IoT 보안인증제를 시행한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "김태정 투아이피 대표는 \\\"최근 각국이 IoT 기기 보안 규제를 시작했다\\\"면서 \\\"각종 IoT기기를 생산하는 중국 제조사가 발 빠르게 보안 솔루션 도입을 검토했다\\\"고 설명했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "김 대표는 \\\"최근 중국 HIK와 따와, XM 등에 2STON을 시연했다\\\"면서 \\\"일부 기업이 솔루션 도입 절차를 시작했다\\\"고 덧붙였다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "그는 \\\"세계 IP카메라 시장 점유율을 높이는 중국 기업이 한국보다 빨리 보안 강화에 눈뜨기 시작한데 주목해야 한다\\\"면서 \\\"국내 IoT 제조사가 보안에 신경 쓰지 않으면 초저가에 대량 생산에 나선 중국에 시장을 내줄 것\\\"이라고 강조했다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "투아이피, IoT보안 '안전한 P2P망 연결로 해결'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007254",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "출생아수 6개월째 증가, 이혼 8개월째 감소",
+		"newsSubTitle": "대전ㆍ충남 출생아수ㆍ이혼 전년 동월 대비 같아",
+		"newsContent": "출생아 수가 6개월 연속 증가하고, 이혼은 8개월째 감소세를 이어갔다.\n25일 통계청이 발표한 월간 인구동향에 따르면 지난 8월 출생아 수는 약 3만8300명으로 지난해 같은 달보다 2100명(5.8%) 증가해 6개월 연속 증가했다.\n8월 사망자 수는 약 2만500명으로 지난해 같은 달보다 700명(3.5%) 늘었다.\n8월 혼인건수는 2만6200건으로 지난해 같은 달보다 3000건(12.9%) 늘었으며, 시도별로는 제주를 제외한 모든 시도에서 증가했다.\n8월 이혼건수는 9700건으로 지난해 같은 달보다 200건(-2.0%) 줄어 8개월째 감소세가 지속됐다.\n한편, 대전ㆍ충남지역 출생아수는 각각 1200명과 1600명으로 전년 대비 동일했다.\n8월 사망자수는 대전 500명과 충남 1100명으로 전년 대비 각각 100명씩 증가했다.\n8월 혼인건수도 대전 700건, 충남 1000건으로 전년 대비 100건씩 늘었지만 이혼건수는 대전 300건, 충남 400건으로 전년 동월 대비 같았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "출생아 수가 6개월 연속 증가하고, 이혼은 8개월째 감소세를 이어갔다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "25일 통계청이 발표한 월간 인구동향에 따르면 지난 8월 출생아 수는 약 3만8300명으로 지난해 같은 달보다 2100명(5.8%) 증가해 6개월 연속 증가했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "8월 사망자 수는 약 2만500명으로 지난해 같은 달보다 700명(3.5%) 늘었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "8월 혼인건수는 2만6200건으로 지난해 같은 달보다 3000건(12.9%) 늘었으며, 시도별로는 제주를 제외한 모든 시도에서 증가했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "8월 이혼건수는 9700건으로 지난해 같은 달보다 200건(-2.0%) 줄어 8개월째 감소세가 지속됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, 대전ㆍ충남지역 출생아수는 각각 1200명과 1600명으로 전년 대비 동일했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "8월 사망자수는 대전 500명과 충남 1100명으로 전년 대비 각각 100명씩 증가했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "8월 혼인건수도 대전 700건, 충남 1000건으로 전년 대비 100건씩 늘었지만 이혼건수는 대전 300건, 충남 400건으로 전년 동월 대비 같았다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우리은행, 설 연휴 4일간 '설 특선 이벤트' 진행",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

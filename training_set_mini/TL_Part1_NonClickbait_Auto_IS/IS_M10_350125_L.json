@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350125",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT, AI 기반 소방산업 디지털 혁신 추진",
+		"newsSubTitle": "null",
+		"newsContent": "KT는 존슨콘트롤즈코리아와 인공지능(AI) 플랫폼 기반의 소방산업 디지털 혁신을 추진한다고 27일 밝혔다.\nKT와 존슨콘트롤즈코리아는 △소방분야의 지능화 및 디지털화 △건물통합안전관리 △양사간 시너지 창출이 가능한 융복합 기술 사업 협력 △AI 기반의 소방안전 플랫폼 개발 △비화재보(화재가 아닌 상황에서 경보가 울리는 것) 연구 등을 함께 추진한다.\nKT는 소방·안전 분야의 지능형 화재예방서비스 '세이프메이트'를 보유하고 있다.\n세이프메이트는 AI, 빅데이터, 클라우드를 바탕으로 불꽃, 연기, 온도 등 4가지 요인으로 화재발생을 24시간 감지한다.\n소방청 서버와 연동해 위성항법장치(GPS)를 화재 발생장소까지 최적의 경로를 인근 소방서에 전달해 빠른 출동을 돕는다.\n존슨콘트롤즈코리아는 소방·빌딩 자동제어·냉동공조·보안 등 폭넓은 제품 및 서비스, 브랜드 포트폴리오를 보유한 기업이다.\n임채환 KT AI/DX플랫폼사업본부장은 \\\"KT는 13년간 화재알림시설 구축 및 유지보수 노하우를 쌓는 등 소방·안전사업을 추진해 왔다\\\" 며 \\\"이번 협력을 기반으로 소방분야의 디지털 전환(DX)에 힘을 보태겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT는 존슨콘트롤즈코리아와 인공지능(AI) 플랫폼 기반의 소방산업 디지털 혁신을 추진한다고 27일 밝혔다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT와 존슨콘트롤즈코리아는 △소방분야의 지능화 및 디지털화 △건물통합안전관리 △양사간 시너지 창출이 가능한 융복합 기술 사업 협력 △AI 기반의 소방안전 플랫폼 개발 △비화재보(화재가 아닌 상황에서 경보가 울리는 것) 연구 등을 함께 추진한다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KT는 소방·안전 분야의 지능형 화재예방서비스 '세이프메이트'를 보유하고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "세이프메이트는 AI, 빅데이터, 클라우드를 바탕으로 불꽃, 연기, 온도 등 4가지 요인으로 화재발생을 24시간 감지한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "소방청 서버와 연동해 위성항법장치(GPS)를 화재 발생장소까지 최적의 경로를 인근 소방서에 전달해 빠른 출동을 돕는다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "존슨콘트롤즈코리아는 소방·빌딩 자동제어·냉동공조·보안 등 폭넓은 제품 및 서비스, 브랜드 포트폴리오를 보유한 기업이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "임채환 KT AI/DX플랫폼사업본부장은 \\\"KT는 13년간 화재알림시설 구축 및 유지보수 노하우를 쌓는 등 소방·안전사업을 추진해 왔다\\\" 며 \\\"이번 협력을 기반으로 소방분야의 디지털 전환(DX)에 힘을 보태겠다\\\"고 말했다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, AI 기반 소방산업 디지털 혁신 추진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

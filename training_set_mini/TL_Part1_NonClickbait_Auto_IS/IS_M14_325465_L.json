@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325465",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "메가투스, API 운영관리솔루션 '메가웨어 APIM' 출시",
+		"newsSubTitle": "",
+		"newsContent": "메가투스(대표 조창협)는 API 운영관리솔루션 '메가웨어 APIM(API Management)'을 출시해 문화정보원 다부처연계서비스 플랫폼 구축사업에 성공적으로 적용, 운영 중에 있다고 25일 밝혔다.\n메가웨어(MegaWare) APIM은 API 관리 인터페이스, 각종 API 사용·접근 정책 운영을 위한 모니터링 등을 통해 효율적인 API 관리환경을 제공한다.\n주요 컴포넌트는 API 게이트웨이, 매니지먼트, 관리자·개발자 포털 등이다 메가웨어 APIM은 클라우드 환경에 최적화된 제품이다.\n우선 각각의 컴포넌트가 나눠져 있어 컨테이너 기반 운영환경에서 유연하게 작동하며 컨텍스트에 따라 확장성을 보장한다.\n클라이언트와 서비스들 사이에서 프록시 역할을 하는 API 게이트웨이에 부하가 가중됐을 때 특정 기준에 따라 게이트웨이를 추가 생성하고 로드 밸런싱을 한다.\n이는 곧, 근대 엔터프라이즈 시스템에서 가장 중요하게 고려되는 특성인 사용성 (availability)을 보장하는 것이다.\n이것은 API 매니지먼트 도입을 생각하는 발주자 입장에서 최우선으로 고려해야 할 부분이다.\n또 연계된 서비스들을 유연하게 탐지하고 관리자가 쉽게 사용 또는 등록할 수 있는 기능을 제공한다.\nMSA(Microservice Architecture) 환경에서 새로운 서비스들이 동적으로 생성되기도 하고 동일한 서비스일지라도 클라이언트의 요청 수가 늘어남에 따라 인스턴스 수도 늘어난다.\n메가웨어 APIM은 이같이 끊임없이 변화하는 MSA 환경에 대응하기 위해 일반적으로 사용되는 클라이언트·플랫폼 기반 서비스 레지스트리를 제공하고 레거시 시스템의 서비스들을 관리자가 손쉽게 API로 등록할 수 있도록 HTTP 기반 서비스 레지스트리를 제공한다.\n회사 관계자는 “클라우드와 MSA 기반의 API를 통합하는 고객들에 최적의 솔루션을 제공하기 위해 수년에 걸쳐 개발해 야심차게 메가웨어 APIM을 선보였다”며 “이미 API 시장에서 많은 관심을 받는 만큼 기존 제품인 '메가웨어 ESB'와 함께 고객을 위한 최적의 서비스 플랫폼임을 확신한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "메가투스(대표 조창협)는 API 운영관리솔루션 '메가웨어 APIM(API Management)'을 출시해 문화정보원 다부처연계서비스 플랫폼 구축사업에 성공적으로 적용, 운영 중에 있다고 25일 밝혔다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "메가웨어(MegaWare) APIM은 API 관리 인터페이스, 각종 API 사용·접근 정책 운영을 위한 모니터링 등을 통해 효율적인 API 관리환경을 제공한다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주요 컴포넌트는 API 게이트웨이, 매니지먼트, 관리자·개발자 포털 등이다 메가웨어 APIM은 클라우드 환경에 최적화된 제품이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우선 각각의 컴포넌트가 나눠져 있어 컨테이너 기반 운영환경에서 유연하게 작동하며 컨텍스트에 따라 확장성을 보장한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "클라이언트와 서비스들 사이에서 프록시 역할을 하는 API 게이트웨이에 부하가 가중됐을 때 특정 기준에 따라 게이트웨이를 추가 생성하고 로드 밸런싱을 한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는 곧, 근대 엔터프라이즈 시스템에서 가장 중요하게 고려되는 특성인 사용성 (availability)을 보장하는 것이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이것은 API 매니지먼트 도입을 생각하는 발주자 입장에서 최우선으로 고려해야 할 부분이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "또 연계된 서비스들을 유연하게 탐지하고 관리자가 쉽게 사용 또는 등록할 수 있는 기능을 제공한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "MSA(Microservice Architecture) 환경에서 새로운 서비스들이 동적으로 생성되기도 하고 동일한 서비스일지라도 클라이언트의 요청 수가 늘어남에 따라 인스턴스 수도 늘어난다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "메가웨어 APIM은 이같이 끊임없이 변화하는 MSA 환경에 대응하기 위해 일반적으로 사용되는 클라이언트·플랫폼 기반 서비스 레지스트리를 제공하고 레거시 시스템의 서비스들을 관리자가 손쉽게 API로 등록할 수 있도록 HTTP 기반 서비스 레지스트리를 제공한다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "회사 관계자는 “클라우드와 MSA 기반의 API를 통합하는 고객들에 최적의 솔루션을 제공하기 위해 수년에 걸쳐 개발해 야심차게 메가웨어 APIM을 선보였다”며 “이미 API 시장에서 많은 관심을 받는 만큼 기존 제품인 '메가웨어 ESB'와 함께 고객을 위한 최적의 서비스 플랫폼임을 확신한다”고 말했다.",
+				"sentenceSize": 169
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "메가투스, API 운영관리솔루션 '메가웨어 APIM' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

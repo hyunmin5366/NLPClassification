@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336548",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "이더리움 입출금 일시 장애…이례 사태에 서비스 다변화로 번지나",
+		"newsSubTitle": "",
+		"newsContent": "지난 11일 국내외 가상자산거래소에서 이더리움(ETH)과 이더리움 계열(ERC20) 가상자산 입출금이 2시간가량 중단됐다.\n개별 거래소 전산 장애가 아닌 글로벌 거래소가 동시에 문제를 일으킨 보기 드문 현상이었다.\n시장 점유율이 높은 인퓨라의 노드 서비스 장애가 원인으로 지목됐다.\n12일 빗썸, 업비트, 코인원에 따르면 11일 오후 5시 전후로 서비스 장애가 발생했다.\n복구 작업 끝에 저녁 7~8시께 서비스가 복구됐다.\n2시간가량 거래소 내 이더리움과 이더리움 계열 가상자산 입출금이 중단됐다.\n이더리움 계열 외 종목은 정상 서비스됐다.\n장애는 국내뿐 아니라 해외 거래소에서도 동시다발 발생했다.\n글로벌 거래소인 바이낸스, 전자지갑서비스 메타마스크 등에서도 동일 문제가 발생한 것으로 알려졌다.\n이번 사태는 이더리움 메인넷 애플리케이션(앱) 프로그래밍 인터페이스(API) 서비스 업체 '인퓨라'에서 제공한 노드 서비스 장애에서 비롯됐다.\n인퓨라는 국내외에서 인지도가 높은 블록체인 기술업체다.\n국내에서도 대다수 거래소와 서비스가 인퓨라 노드를 채택할 만큼 시장 점유율이 높다.\n인퓨라가 제공하는 노드 서비스 내 버그가 직접 원인으로 지목됐다.\n다만 업비트의 경우 인퓨라 노드를 적용하지 않았음에도 동일 증상이 나타났다.\n헥슬란트 측은 “인퓨라의 이더리움 클라이언트 내 버그가 원인이다. 이더리움 재단 차원에서 해당 버그 업데이트가 지난해 이뤄졌지만, 인퓨라 서비스엔 해당 업데이트가 이뤄지지 않았다”면서 “블록 정보를 확인, 전파해주는 역할을 인퓨라가 하다보니 해당 기능이 멈춘 상황에서는 거래소도 입출금을 멈출 수 밖에 없었다”고 분석했다.\n노드란 네트워크, 데이터 구조를 구성하는 각 개체를 뜻한다.\n블록체인 네트워크 핵심 요소 중 하나다.\n이장우 한양대 겸임교수는 “블록체인에는 네트워크 기록을 분산보관하기도 하고 블록을 생성하는 역할 그리고 전파하는 역할 등 다양한 노드가 존재한다”면서 “노드 각 역할을 기업이나 개인이 개별적으로 구축하긴 어렵기 때문에 인퓨라와 같은 서비스에서 노드 역할을 대신하는 것”이라고 설명했다.\n국내외 대규모 입출금 중단이란 이례적 사태로 노드 서비스 다변화 시도 역시 높아질 것으로 보인다.\n국내에서는 같은 서비스를 제공하는 헥슬란트, 해치랩스 등이 반사이익을 거둘 수 있다.\n이 겸임교수는 “국내 주요 거래소는 물론 글로벌 대형 거래소까지 일시적으로 입출금이 중단된 일은 이례적인 일이다. 특정 노드 서비스에 시장점유율과 의존도가 지나치게 높아 발생한 문제이기도 하다”면서 “대안으로는 블록체인 서비스 업체가 직접 노드를 운영하거나, 2개 이상 독립 노드를 이용한다면 대응이 가능할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 11일 국내외 가상자산거래소에서 이더리움(ETH)과 이더리움 계열(ERC20) 가상자산 입출금이 2시간가량 중단됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "개별 거래소 전산 장애가 아닌 글로벌 거래소가 동시에 문제를 일으킨 보기 드문 현상이었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시장 점유율이 높은 인퓨라의 노드 서비스 장애가 원인으로 지목됐다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "12일 빗썸, 업비트, 코인원에 따르면 11일 오후 5시 전후로 서비스 장애가 발생했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "복구 작업 끝에 저녁 7~8시께 서비스가 복구됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2시간가량 거래소 내 이더리움과 이더리움 계열 가상자산 입출금이 중단됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이더리움 계열 외 종목은 정상 서비스됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "장애는 국내뿐 아니라 해외 거래소에서도 동시다발 발생했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "글로벌 거래소인 바이낸스, 전자지갑서비스 메타마스크 등에서도 동일 문제가 발생한 것으로 알려졌다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이번 사태는 이더리움 메인넷 애플리케이션(앱) 프로그래밍 인터페이스(API) 서비스 업체 '인퓨라'에서 제공한 노드 서비스 장애에서 비롯됐다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "인퓨라는 국내외에서 인지도가 높은 블록체인 기술업체다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "국내에서도 대다수 거래소와 서비스가 인퓨라 노드를 채택할 만큼 시장 점유율이 높다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "인퓨라가 제공하는 노드 서비스 내 버그가 직접 원인으로 지목됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "다만 업비트의 경우 인퓨라 노드를 적용하지 않았음에도 동일 증상이 나타났다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "헥슬란트 측은 “인퓨라의 이더리움 클라이언트 내 버그가 원인이다. 이더리움 재단 차원에서 해당 버그 업데이트가 지난해 이뤄졌지만, 인퓨라 서비스엔 해당 업데이트가 이뤄지지 않았다”면서 “블록 정보를 확인, 전파해주는 역할을 인퓨라가 하다보니 해당 기능이 멈춘 상황에서는 거래소도 입출금을 멈출 수 밖에 없었다”고 분석했다.",
+				"sentenceSize": 180
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "노드란 네트워크, 데이터 구조를 구성하는 각 개체를 뜻한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "블록체인 네트워크 핵심 요소 중 하나다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이장우 한양대 겸임교수는 “블록체인에는 네트워크 기록을 분산보관하기도 하고 블록을 생성하는 역할 그리고 전파하는 역할 등 다양한 노드가 존재한다”면서 “노드 각 역할을 기업이나 개인이 개별적으로 구축하긴 어렵기 때문에 인퓨라와 같은 서비스에서 노드 역할을 대신하는 것”이라고 설명했다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "국내외 대규모 입출금 중단이란 이례적 사태로 노드 서비스 다변화 시도 역시 높아질 것으로 보인다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "국내에서는 같은 서비스를 제공하는 헥슬란트, 해치랩스 등이 반사이익을 거둘 수 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이 겸임교수는 “국내 주요 거래소는 물론 글로벌 대형 거래소까지 일시적으로 입출금이 중단된 일은 이례적인 일이다. 특정 노드 서비스에 시장점유율과 의존도가 지나치게 높아 발생한 문제이기도 하다”면서 “대안으로는 블록체인 서비스 업체가 직접 노드를 운영하거나, 2개 이상 독립 노드를 이용한다면 대응이 가능할 것”이라고 말했다.",
+				"sentenceSize": 182
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이더리움 입출금 일시 장애…이례 사태에 서비스 다변화로 번지나",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338391",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "[새로운SW][신SW상품대상추천작]아이엔소프트 '클라우드메쉬 쿠버'",
+		"newsSubTitle": "",
+		"newsContent": "아이엔소프트(대표 황광익)가 멀티 컨테이너 클러스터를 통합 관리하는 '클라우드메쉬 쿠버' 솔루션을 출품했다.\n이번 제품은 컴퓨팅 자원을 다양한 용도와 목적에 따라 구성한 멀티 클러스터를 단일 통합 관리 솔루션으로 관리∙운영하도록 한다.\n컨테이너 기술을 기반으로 다양한 컴퓨팅 자원을 용도와 목적에 따라 멀티 클러스터로 구성한다.\n필요한 자원을 짧은 시간에 만들고, 다양한 소프트웨어(SW)와 개발환경을 구축, 사용자에게 제공한다.\n클라우드메쉬 쿠버 이용 사용자는 카탈로그 목록에서 필요한 SW, 개발 환경, 중앙처리장치(CPU), 메모리, 스토리지 등 필요한 자원을 웹 기반 사용자 인터페이스를 이용해 할당 받아 사용한다.\n사용자가 선택한 클러스터 자원 영역에서 여유 자원을 확인해 사용자가 요청한 자원을 할당한다.\n컨테이너 기술을 활용하기 때문에 가상 서버 기반 솔루션보다 빠르게 자원을 나눈다.\n사용자는 다양한 SW 구성을 완료한 자원을 빠른 시간에 사용하며 운영자는 다양한 SW와 개발환경 관리를 위해 텍스트 파일에 필요한 내용을 작성한다.\n클라우드메쉬 쿠버는 기계학습(ML)의 중요 자원인 GPU 관리 기능도 담았다.\n개발자는 다양한 개발 환경과 GPU 자원을 필요할 때 필요한 만큼 선택해 활용가능하다.\n인프라 준비와 개발 환경 구축(SW 설치, 구동)에 낭비되는 시간을 절약한다.\n애플리케이션(앱) SW 배포 기능을 추가하면, 서비스 기반 아키텍처 SW 배포, 운영에도 활용한다.\n컨테이너 기술을 기반으로 다양한 서비스 운영, 기능 개선(업그레이드)과 부하 증가에 따른 스케일 아웃에 유연하게 대처한다.\n이외 장애 발생에 따른 복구에 빠르게 대응하며 안정적 서비스를 제공한다.\n올해 엔비디아, 베이넥스 등과 협력으로 솔루션 소개, 구축사례 마련 후 해외시장으로 단계적 확장한다.\n협력 관계인 후지소프트와 넷비젼을 통해 각각 일본과 베트남 현지시장을 공략한다.\n황광익 아이엔소프트 대표는 \\\"향후 '클라우드메쉬 쿠버'를 지속 업그레이드해 누구나 쉽고 빠르게 인공지능(AI) 개발 환경, 운영 환경을 구축 하는 솔루션으로 진화할 것\\\"이라면서 \\\"국내 시장에 대한 빠른 보급과 해외 시장 진출에 대한 계획도 갖고 있다\\\"고 말했다.\n이어 \\\"다양한 기업과 협업해 빠르게 성장 하는 AI시장에서 생태계 확보에 앞장 서겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "아이엔소프트(대표 황광익)가 멀티 컨테이너 클러스터를 통합 관리하는 '클라우드메쉬 쿠버' 솔루션을 출품했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 제품은 컴퓨팅 자원을 다양한 용도와 목적에 따라 구성한 멀티 클러스터를 단일 통합 관리 솔루션으로 관리∙운영하도록 한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "컨테이너 기술을 기반으로 다양한 컴퓨팅 자원을 용도와 목적에 따라 멀티 클러스터로 구성한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "필요한 자원을 짧은 시간에 만들고, 다양한 소프트웨어(SW)와 개발환경을 구축, 사용자에게 제공한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "클라우드메쉬 쿠버 이용 사용자는 카탈로그 목록에서 필요한 SW, 개발 환경, 중앙처리장치(CPU), 메모리, 스토리지 등 필요한 자원을 웹 기반 사용자 인터페이스를 이용해 할당 받아 사용한다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "사용자가 선택한 클러스터 자원 영역에서 여유 자원을 확인해 사용자가 요청한 자원을 할당한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "컨테이너 기술을 활용하기 때문에 가상 서버 기반 솔루션보다 빠르게 자원을 나눈다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사용자는 다양한 SW 구성을 완료한 자원을 빠른 시간에 사용하며 운영자는 다양한 SW와 개발환경 관리를 위해 텍스트 파일에 필요한 내용을 작성한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "클라우드메쉬 쿠버는 기계학습(ML)의 중요 자원인 GPU 관리 기능도 담았다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "개발자는 다양한 개발 환경과 GPU 자원을 필요할 때 필요한 만큼 선택해 활용가능하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "인프라 준비와 개발 환경 구축(SW 설치, 구동)에 낭비되는 시간을 절약한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "애플리케이션(앱) SW 배포 기능을 추가하면, 서비스 기반 아키텍처 SW 배포, 운영에도 활용한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "컨테이너 기술을 기반으로 다양한 서비스 운영, 기능 개선(업그레이드)과 부하 증가에 따른 스케일 아웃에 유연하게 대처한다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이외 장애 발생에 따른 복구에 빠르게 대응하며 안정적 서비스를 제공한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "올해 엔비디아, 베이넥스 등과 협력으로 솔루션 소개, 구축사례 마련 후 해외시장으로 단계적 확장한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "협력 관계인 후지소프트와 넷비젼을 통해 각각 일본과 베트남 현지시장을 공략한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "황광익 아이엔소프트 대표는 \\\"향후 '클라우드메쉬 쿠버'를 지속 업그레이드해 누구나 쉽고 빠르게 인공지능(AI) 개발 환경, 운영 환경을 구축 하는 솔루션으로 진화할 것\\\"이라면서 \\\"국내 시장에 대한 빠른 보급과 해외 시장 진출에 대한 계획도 갖고 있다\\\"고 말했다.",
+				"sentenceSize": 150
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이어 \\\"다양한 기업과 협업해 빠르게 성장 하는 AI시장에서 생태계 확보에 앞장 서겠다\\\"고 말했다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[새로운SW][신SW상품대상추천작]아이엔소프트 '클라우드메쉬 쿠버'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

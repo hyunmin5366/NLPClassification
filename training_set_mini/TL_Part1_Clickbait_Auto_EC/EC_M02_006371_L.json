@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006371",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "\\\"데이터 연산 성능 2배\\\" 삼성전자, 더 똑똑한 스마트SSD 개발",
+		"newsSubTitle": "데이터 처리시간 50% 이상 감소…에너지 소모 70% 절감 SSD 내에 프로세서 내장…시스템 성능·에너지 효율 향상 컴퓨테이셔널 스토리지 표준화 주도…차세대 스토리지 개발",
+		"newsContent": "삼성전자가 연산 성능을 2배 이상 향상시킨 솔리드스테이트드라이브(SSD)를 개발했다.\n21일 공개한 이 SSD는 내부 연산 기능을 대폭 강화한 2세대 스마트SSD다.\n스마트SSD는 프로세서를 내장해 스토리지 내에서 연산이 가능한 컴퓨테이셔널 스토리지 중 하나다.\n특정 데이터 처리 시 SSD 내부에서 직접 연산 기능을 수행하는 만큼 중앙처리장치(CPU), 그래픽처리장치(GPU), 메모리(RAM) 사이의 데이터 이동을 최소화해 시스템 성능과 에너지 효율을 향상시킨다.\n때문에 컴퓨테이셔널 스토리지는 방대한 양의 데이터를 처리해야 하는 메타버스, 인공지능(AI), 빅데이터, 딥러닝·머신러닝, 5·6세대(G) 이동통신 분야에서 보다 효율적인 서비스가 가능한 차세대 저장 장치로 주목받고 있다.\n삼성전자 관계자는 데일리임팩트에 \\\"고객사가 개발한 소프트웨어가 스마트SSD에 내장된 ARM 코어와 IP를 활용해 데이터를 처리하는 기능이 탑재됐다\\\"며 \\\"1세대와 비교해 연산 성능이 2배 이상 향상됐다\\\"고 말했다.\n이와 관련, 2세대 스마트SSD를 시스템에 적용할 경우, 일반 SSD를 탑재한 시스템보다 데이터베이스 연산처리 시간을 최고 50% 이상, 에너지 소모를 최고 70% 줄일 수 있다.\nCPU 사용률 역시 최고 97%까지 감소시킨다.\n앞서 삼성전자와 AMD가 지난 2020년 공동 개발한 1세대 스마트SSD는 비디오 커뮤니케이션 플랫폼 기업을 포함한 글로벌 IT 기업들에 공급되고 있다. 고효율 전력 기능과 성능으로 지난해 CES 혁신상을 수상했다.\n삼성전자는 SNIA, NVM 익스프레스 워킹그룹 등 국제 스토리지 표준화 기구와 협력해 컴퓨테이셔널 스토리지 표준화를 적극 추진할 계획이다.\n또 다양한 고객사의 응용처에서 기술을 검증해 SSD 시장에서 지배력을 강화한다는 구상이다.\n삼성전자는 1분기 전체 SSD 시장에서 40.9%의 점유율을 기록, 1위를 지키고 있다.\n수요가 늘어나는 기업용 SSD 시장에서는 49.8%로 존재감이 더 크다.\n최진혁 삼성전자 메모리사업부 솔루션개발실 부사장은 \\\"1세대 스마트SSD를 통해 컴퓨테이셔널 스토리지의 성장 가능성을 확인했다\\\"며 \\\"데이터베이스, 비디오 트랜스코딩 등 시장의 요구에 대응해 차세대 스토리지 제품군을 더욱 확대해 나가겠다\\\"고 밝혔다.\n시나 솔타니 AMD 데이터센터 커뮤니케이션그룹 부사장은 \\\"데이터 중심 시장에서 삼성전자의 스마트SSD가 뛰어난 성능과 높은 전력 효율로 고객 시장 확대에 기여할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 연산 성능을 2배 이상 향상시킨 솔리드스테이트드라이브(SSD)를 개발했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 공개한 이 SSD는 내부 연산 기능을 대폭 강화한 2세대 스마트SSD다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스마트SSD는 프로세서를 내장해 스토리지 내에서 연산이 가능한 컴퓨테이셔널 스토리지 중 하나다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특정 데이터 처리 시 SSD 내부에서 직접 연산 기능을 수행하는 만큼 중앙처리장치(CPU), 그래픽처리장치(GPU), 메모리(RAM) 사이의 데이터 이동을 최소화해 시스템 성능과 에너지 효율을 향상시킨다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "때문에 컴퓨테이셔널 스토리지는 방대한 양의 데이터를 처리해야 하는 메타버스, 인공지능(AI), 빅데이터, 딥러닝·머신러닝, 5·6세대(G) 이동통신 분야에서 보다 효율적인 서비스가 가능한 차세대 저장 장치로 주목받고 있다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자 관계자는 데일리임팩트에 \\\"고객사가 개발한 소프트웨어가 스마트SSD에 내장된 ARM 코어와 IP를 활용해 데이터를 처리하는 기능이 탑재됐다\\\"며 \\\"1세대와 비교해 연산 성능이 2배 이상 향상됐다\\\"고 말했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이와 관련, 2세대 스마트SSD를 시스템에 적용할 경우, 일반 SSD를 탑재한 시스템보다 데이터베이스 연산처리 시간을 최고 50% 이상, 에너지 소모를 최고 70% 줄일 수 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "CPU 사용률 역시 최고 97%까지 감소시킨다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "앞서 삼성전자와 AMD가 지난 2020년 공동 개발한 1세대 스마트SSD는 비디오 커뮤니케이션 플랫폼 기업을 포함한 글로벌 IT 기업들에 공급되고 있다. 고효율 전력 기능과 성능으로 지난해 CES 혁신상을 수상했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "삼성전자는 SNIA, NVM 익스프레스 워킹그룹 등 국제 스토리지 표준화 기구와 협력해 컴퓨테이셔널 스토리지 표준화를 적극 추진할 계획이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또 다양한 고객사의 응용처에서 기술을 검증해 SSD 시장에서 지배력을 강화한다는 구상이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "삼성전자는 1분기 전체 SSD 시장에서 40.9%의 점유율을 기록, 1위를 지키고 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "수요가 늘어나는 기업용 SSD 시장에서는 49.8%로 존재감이 더 크다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "최진혁 삼성전자 메모리사업부 솔루션개발실 부사장은 \\\"1세대 스마트SSD를 통해 컴퓨테이셔널 스토리지의 성장 가능성을 확인했다\\\"며 \\\"데이터베이스, 비디오 트랜스코딩 등 시장의 요구에 대응해 차세대 스토리지 제품군을 더욱 확대해 나가겠다\\\"고 밝혔다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "시나 솔타니 AMD 데이터센터 커뮤니케이션그룹 부사장은 \\\"데이터 중심 시장에서 삼성전자의 스마트SSD가 뛰어난 성능과 높은 전력 효율로 고객 시장 확대에 기여할 것\\\"이라고 말했다.",
+				"sentenceSize": 102
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중구에 도시형생활주택 착공",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

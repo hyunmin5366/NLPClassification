@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009329",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "감정에 따라 선곡해준다고?",
+		"newsSubTitle": "ETRI, 감성 기반 뮤직 내비게이션 기술 개발",
+		"newsContent": "청취자의 감정에 따라 음악을 자동 선곡해주는 기술이 개발됐다.\n▲ 태블릿 PC용 뮤직 내비게이션(시연용). 한국전자통신연구원(ETRI)는 사람이 느끼고 반응하는 감정별로 음악을 분류하고, 그에 맞는 음악을 검색해 추천하는 '감성 기반 뮤직 내비게이션 기술'을 개발했다고 16일 밝혔다.\n이 기술은 통계학적으로 도출된 프로그램을 통해 150개가 되는 감정별로 곡을 분류, 기계적으로 선곡이 가능한다.\n또 각각의 감정을 조합해 복합감정도 선택할 수 있다.\n국외에서는 이미 이 같은 서비스가 제공되고 있지만 국내 음악 내비게이션 기술이 개발된 것은 이번이 처음이다.\nETRI는 지난 9일부터 KT 올레뮤직을 통해 20만곡에 대해 컬러와 시간, 날씨 등 감성 키워드별로 추천 음악 시범서비스를 제공하고 있다.\nPC뿐만 아니라 스마트폰이나 태블릿 PC 등에서도 사용할 수 있도록 애플리케이션도 개발할 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "청취자의 감정에 따라 음악을 자동 선곡해주는 기술이 개발됐다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "▲ 태블릿 PC용 뮤직 내비게이션(시연용). 한국전자통신연구원(ETRI)는 사람이 느끼고 반응하는 감정별로 음악을 분류하고, 그에 맞는 음악을 검색해 추천하는 '감성 기반 뮤직 내비게이션 기술'을 개발했다고 16일 밝혔다.",
+				"sentenceSize": 124
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 기술은 통계학적으로 도출된 프로그램을 통해 150개가 되는 감정별로 곡을 분류, 기계적으로 선곡이 가능한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 각각의 감정을 조합해 복합감정도 선택할 수 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국외에서는 이미 이 같은 서비스가 제공되고 있지만 국내 음악 내비게이션 기술이 개발된 것은 이번이 처음이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "ETRI는 지난 9일부터 KT 올레뮤직을 통해 20만곡에 대해 컬러와 시간, 날씨 등 감성 키워드별로 추천 음악 시범서비스를 제공하고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "PC뿐만 아니라 스마트폰이나 태블릿 PC 등에서도 사용할 수 있도록 애플리케이션도 개발할 계획이다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우리은행-기보, 코로나19 피해기업에 2050억 규모 우대보증",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

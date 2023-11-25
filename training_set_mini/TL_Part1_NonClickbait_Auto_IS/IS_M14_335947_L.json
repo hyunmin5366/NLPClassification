@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335947",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "삼성전자, 6CA 모뎀 개발···HD영화 10초만에 다운로드",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 6개 주파수 대역을 묶어 전송 속도를 극대화하는 '6CA'(캐리어 애그리게이션) 지원 모뎀을 세계 최초로 개발했다.\n삼성전자는 LTE 6CA 모뎀을 통신 계측기 전문 업체인 일본 안리쓰 장비로 측정 결과, 기존 보다 20% 향상된 최대 1.2Gbps 다운로드 속도를 기록했다고 31일 밝혔다.\n6CA는 6개 주파수 대역을 묶어 하나의 광대역 주파수처럼 활용, 빠르고 안정적 데이터 통신을 구현한다. 6CA 모뎀이 달성한 1.2Gbps 속도는 롱텀에벌루션(LTE) 속도 진화 단계 분류상 최고인 카테고리(cat.18)에 해당한다. 2시간짜리 고화질(HD)급 영화를 약 10초 만에 내려 받는 수준이다.\n스마트폰에서 고화질 영상 통화와 실시간 방송 시청 등 고품질 데이터 서비스를 끊김 없이 이용할 수 있다.\n삼성전자는 6CA 모뎀에 CA 기술 외에도 다양한 데이터 전송기술을 적용했다.\n기지국과 단말기에 각각 4개 안테나를 동시에 사용하는 '4×4 다중안테나입출력(MIMO)'을 적용했다.\n주파수 변복조 방식을 기존의 6비트(bit) 단위(64QAM)에서 8비트(bit)로 전환해 전송효율을 30% 이상 높이는 '256QAM' 기술도 탑재했다.\n6CA 모뎀은 와이파이, 블루투스와 같은 비면허대역 주파수를 허가대역과 묶어 활용하는 eLAA기술(eLAA, enhanced Licensed Assisted Access)도 지원한다.\n삼성전자는 6CA 1.2Gbps LTE 모뎀기술을 올해 말 양산을 시작하는 모바일 프로세서에 탑재할 계획이다.\n허운행 삼성전자 시스템LSI사업부 개발팀 상무는 \\\"고품질 데이터 콘텐츠 서비스 확대로 고성능 LTE 모뎀에 대한 시장 요구는 지속적으로 확대 중\\\"이라며 \\\"6CA 1.2Gbps LTE 모뎀 기술은 삼성전자의 시스템 LSI 설계역량이 집약된 것으로 향후 5G 시장 선점 초석이 될 것\\\"이라고 밝혔다.\n앞서 삼성전자는 2월 엑시노스9을 통해 최초로 5CA를 지원하는 1Gbps(Cat.16) 모뎀기술을 개발, 갤럭시S8 등 최신 단말기에 적용했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 6개 주파수 대역을 묶어 전송 속도를 극대화하는 '6CA'(캐리어 애그리게이션) 지원 모뎀을 세계 최초로 개발했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성전자는 LTE 6CA 모뎀을 통신 계측기 전문 업체인 일본 안리쓰 장비로 측정 결과, 기존 보다 20% 향상된 최대 1.2Gbps 다운로드 속도를 기록했다고 31일 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "6CA는 6개 주파수 대역을 묶어 하나의 광대역 주파수처럼 활용, 빠르고 안정적 데이터 통신을 구현한다. 6CA 모뎀이 달성한 1.2Gbps 속도는 롱텀에벌루션(LTE) 속도 진화 단계 분류상 최고인 카테고리(cat.18)에 해당한다. 2시간짜리 고화질(HD)급 영화를 약 10초 만에 내려 받는 수준이다.",
+				"sentenceSize": 171
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스마트폰에서 고화질 영상 통화와 실시간 방송 시청 등 고품질 데이터 서비스를 끊김 없이 이용할 수 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성전자는 6CA 모뎀에 CA 기술 외에도 다양한 데이터 전송기술을 적용했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기지국과 단말기에 각각 4개 안테나를 동시에 사용하는 '4×4 다중안테나입출력(MIMO)'을 적용했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주파수 변복조 방식을 기존의 6비트(bit) 단위(64QAM)에서 8비트(bit)로 전환해 전송효율을 30% 이상 높이는 '256QAM' 기술도 탑재했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "6CA 모뎀은 와이파이, 블루투스와 같은 비면허대역 주파수를 허가대역과 묶어 활용하는 eLAA기술(eLAA, enhanced Licensed Assisted Access)도 지원한다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "삼성전자는 6CA 1.2Gbps LTE 모뎀기술을 올해 말 양산을 시작하는 모바일 프로세서에 탑재할 계획이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "허운행 삼성전자 시스템LSI사업부 개발팀 상무는 \\\"고품질 데이터 콘텐츠 서비스 확대로 고성능 LTE 모뎀에 대한 시장 요구는 지속적으로 확대 중\\\"이라며 \\\"6CA 1.2Gbps LTE 모뎀 기술은 삼성전자의 시스템 LSI 설계역량이 집약된 것으로 향후 5G 시장 선점 초석이 될 것\\\"이라고 밝혔다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "앞서 삼성전자는 2월 엑시노스9을 통해 최초로 5CA를 지원하는 1Gbps(Cat.16) 모뎀기술을 개발, 갤럭시S8 등 최신 단말기에 적용했다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자, 6CA 모뎀 개발···HD영화 10초만에 다운로드",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

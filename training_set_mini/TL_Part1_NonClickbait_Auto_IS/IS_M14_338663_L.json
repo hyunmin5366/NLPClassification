@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338663",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "SGA솔루션즈, 포스트 APT솔루션 개발",
+		"newsSubTitle": "",
+		"newsContent": "SGA솔루션즈(대표 최영철)는 미래창조과학부에서 지원하는 2017년 '글로벌 창조 소프트웨어(GCS) 사업'에 선정됐다.\n2년간 20억 규모 사업비 등 정부 지원을 받아 APT 장비를 개발한다.\n미래부는 2014년부터 역량있는 중소∙중견 SW기업을 대상으로 글로벌 SW전문기업을 육성하는 GCS 사업을 해왔다.\n기술개발은 물론 품질 관리와 해외 진출을 지원해 세계 SW시장에서 성과를 내는 게 목적이다.\n올해는 빅데이터, 클라우드, 인공지능(AI) 등 4차 산업혁명 핵심 기술 개발 과제 제안이 많았다.\n총 81개 과제 중 16개가 선정돼 5대1의 경쟁률을 보였다.\nSGA솔루션즈는 앞으로 'AI 및 빅데이터 기반 APT 공격 탐지와 대응을 위한 SDR 시큐리티 플랫폼'을 개발한다.\n포스트 샌드박스 제품으로 EDR과 네트워크 기반 기존 APT보안 제품 한계를 극복한다.\n엔드포인트(PC)와 서버 등 시스템 커널 영역 정보를 수집해 AI기반 이상행위를 탐지한다.\n실시간으로 대응하는 SDR(System Detection & Response) 기술이 적용된다.\n클라우드 기반 사이버 위협정보(Threat Intelligence) 분석∙관리∙정보 공유 서비스를 제공한다.\n최영철 SGA솔루션즈 대표는 \\\"APT보안 신제품을 개발하고 글로벌 기업과 협력해 해외 시장을 공략할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SGA솔루션즈(대표 최영철)는 미래창조과학부에서 지원하는 2017년 '글로벌 창조 소프트웨어(GCS) 사업'에 선정됐다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2년간 20억 규모 사업비 등 정부 지원을 받아 APT 장비를 개발한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "미래부는 2014년부터 역량있는 중소∙중견 SW기업을 대상으로 글로벌 SW전문기업을 육성하는 GCS 사업을 해왔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기술개발은 물론 품질 관리와 해외 진출을 지원해 세계 SW시장에서 성과를 내는 게 목적이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올해는 빅데이터, 클라우드, 인공지능(AI) 등 4차 산업혁명 핵심 기술 개발 과제 제안이 많았다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "총 81개 과제 중 16개가 선정돼 5대1의 경쟁률을 보였다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "SGA솔루션즈는 앞으로 'AI 및 빅데이터 기반 APT 공격 탐지와 대응을 위한 SDR 시큐리티 플랫폼'을 개발한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "포스트 샌드박스 제품으로 EDR과 네트워크 기반 기존 APT보안 제품 한계를 극복한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "엔드포인트(PC)와 서버 등 시스템 커널 영역 정보를 수집해 AI기반 이상행위를 탐지한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "실시간으로 대응하는 SDR(System Detection & Response) 기술이 적용된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "클라우드 기반 사이버 위협정보(Threat Intelligence) 분석∙관리∙정보 공유 서비스를 제공한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "최영철 SGA솔루션즈 대표는 \\\"APT보안 신제품을 개발하고 글로벌 기업과 협력해 해외 시장을 공략할 것\\\"이라고 말했다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SGA솔루션즈, 포스트 APT솔루션 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

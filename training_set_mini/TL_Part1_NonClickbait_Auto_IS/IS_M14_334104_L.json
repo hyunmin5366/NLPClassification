@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334104",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "앱만 설치하면 인터넷에서도 도·감청방지 통신",
+		"newsSubTitle": "",
+		"newsContent": "공개 인터넷 환경에서도 앱만 설치하면 도·감청을 방지하는 보안 통신서비스가 나왔다.\n구우텍(대표 김용수)은 와이어와 함께 개인정보보호와 도·감청을 방지하는 보안통신 앱 서비스를 시작했다.\n보안통신은 비 식별화된 개인 정보를 사용한다.\n통신 내용을 암호화해 정보가 유출돼도 내용을 알 수 없다.\n와이어는 스위스와 독일에 본사를 둔 보안통신 전문기업이다.\n구우텍은 와이어가 개발한 보안통신 앱 한국 서비스를 한다.\n기존 통신은 개인 정보인 전화번호와 이메일을 이용해 송수신한다.\n암호화는 공개 암호키와 개인 암호키를 이용해 통신 내용을 암호화한다.\n기존 암호통신 보안 취약점이 거론된다.\n와이어 앱은 팀 멤버관리 기능까지 구현한 기업 내 협업 보안 메신저 솔루션이다.\n개인은 물론 기업 이메일과 메신저에 대한 보안 취약점을 보완한다.\n기업 내부 통신망이 사이버테러로 회복이 불가능할 경우 긴급 복구 보안 통신망이 된다.\n와이어는 스위스에 위치한 서버와 세계 통신망으로 서비스한다.\n통신사업자나 앱 개발자가 정보를 수집하는 것이 불가능하다.\n사용자가 수시로 암호키를 임의로 변경할 수 있다.\n특정 규제 당국이 사용자 정보를 요청해도 제공할 내용이 없다.\n구우텍은 와이어와 협업해 고객이 원하는 장소에 서버를 구축한 후 보안 통신서비스를 제공한다.\n공공기관이나 일부 기업은 국내 서버에서 서비스를 원했다.\n와이어는 PC와 스마트폰을 모두 지원한다.\n자체 개발 프로토콜로 전화, 화상회의, 문자, 파일 등을 암호화해 통신한다.\n와이어를 사용하는 이용자 간에는 제한 없는 보안 통신서비스를 지원한다.\n와이어 사용자가 아닌 사람에게도 암호화된 메시지 통신이 가능하다.\n장재형 구우텍 보안컨설턴트는 “개인정보 비식별화와 통신 내용 암호화는 기업 정보보호와 급증하는 사이버 테러를 방지한다”면서 “와이어 앱은 기업 보안 협업 솔루션으로 특정기관과 기업에 적합하다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "공개 인터넷 환경에서도 앱만 설치하면 도·감청을 방지하는 보안 통신서비스가 나왔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구우텍(대표 김용수)은 와이어와 함께 개인정보보호와 도·감청을 방지하는 보안통신 앱 서비스를 시작했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "보안통신은 비 식별화된 개인 정보를 사용한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "통신 내용을 암호화해 정보가 유출돼도 내용을 알 수 없다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "와이어는 스위스와 독일에 본사를 둔 보안통신 전문기업이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "구우텍은 와이어가 개발한 보안통신 앱 한국 서비스를 한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기존 통신은 개인 정보인 전화번호와 이메일을 이용해 송수신한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "암호화는 공개 암호키와 개인 암호키를 이용해 통신 내용을 암호화한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기존 암호통신 보안 취약점이 거론된다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "와이어 앱은 팀 멤버관리 기능까지 구현한 기업 내 협업 보안 메신저 솔루션이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "개인은 물론 기업 이메일과 메신저에 대한 보안 취약점을 보완한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기업 내부 통신망이 사이버테러로 회복이 불가능할 경우 긴급 복구 보안 통신망이 된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "와이어는 스위스에 위치한 서버와 세계 통신망으로 서비스한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "통신사업자나 앱 개발자가 정보를 수집하는 것이 불가능하다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "사용자가 수시로 암호키를 임의로 변경할 수 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "특정 규제 당국이 사용자 정보를 요청해도 제공할 내용이 없다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "구우텍은 와이어와 협업해 고객이 원하는 장소에 서버를 구축한 후 보안 통신서비스를 제공한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "공공기관이나 일부 기업은 국내 서버에서 서비스를 원했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "와이어는 PC와 스마트폰을 모두 지원한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "자체 개발 프로토콜로 전화, 화상회의, 문자, 파일 등을 암호화해 통신한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "와이어를 사용하는 이용자 간에는 제한 없는 보안 통신서비스를 지원한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "와이어 사용자가 아닌 사람에게도 암호화된 메시지 통신이 가능하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "장재형 구우텍 보안컨설턴트는 “개인정보 비식별화와 통신 내용 암호화는 기업 정보보호와 급증하는 사이버 테러를 방지한다”면서 “와이어 앱은 기업 보안 협업 솔루션으로 특정기관과 기업에 적합하다”고 말했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "앱만 설치하면 인터넷에서도 도·감청방지 통신",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,267 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322823",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[이슈분석]기업, 데이터를 완벽히 지워라",
+		"newsSubTitle": "",
+		"newsContent": "육중한 검은색 네모 상자에서 '딱' 소리가 들렸다.\n하드디스크(HDD)에 저장된 데이터가 모두 사라졌다.\n최근 기업과 정부 부처가 데이터 삭제 기술을 도입하고 있다.\n기존 데이터를 어떻게 하면 완벽하게 삭제하는가가 정보보호 관리 담당자 고민이다.\n일부 기업은 이미 각종 하드디스크를 지우는 디가우서를 서둘러 사용하고 있다.\n전자레인지처럼 생겼다.\n손잡이를 당기자 하드디스크를 넣는 서랍이 있다.\n서랍은 2.5인치 크기 하드디스크가 들어갈 정도 크기다.\n데이터 파기를 기다리는 하드디스크를 상자에 넣고 서랍을 밀어 넣었다.\n그 뒤 육중한 철문을 닫았다.\n초록색의 작은 액정표시장치(LCD) 창에는 충전 상태를 알린다. 20초 정도 시간이 흐르자 1만가우스가 넘는 자기장을 발산하는 디가우서 장비에서 '딱' 하는 소리가 났다.\n모든 데이터는 날아갔다.\n강력한 자성을 내는 데까지 10여초가 소요됐지만 데이터가 사라지는 것은 한순간이었다.\n디가우싱이 끝난 하드디스크를 꺼냈다.\n외관은 처음 모습 그대로였다.\n황치윤 한국캐드컴 영업부장은 “일반 가전제품과 마찬가지로 디가우서, 이레이저 장비 등을 두고 제조사마다 형태가 조금씩 다른 제품을 내놓는다”면서 “보안 제품이어서 정확하게 처리했는지를 확인하기 위해 시리얼번호, 보안코드 삽입 등 부가 기능을 제공한다”고 설명했다.\n소프트웨어(SW)로 데이터를 삭제하는 이레이저 장비도 체험했다.\n이레이저 장비는 15개 하드디스크를 동시에 꽂는다.\n한 번에 15개 하드디스크 내부 데이터를 완전 삭제한다.\n디가우서와 달리 문이나 서랍 잠금장치도 없다. 15개 포트가 외부에 있다.\n하드디스크를 포트에 연결한다.\n분당 9기가바이트(GB), 18기가바이트(GB) 속도로 삭제되고 복제됐다.\n빠른 속도로 데이터를 덮어쓰기 한다.\n만일을 대비해 작업은 여러 번 반복됐다.\n황 부장은 “이레이저 장비는 자료 삭제 장비이기도 하지만 복사까지 가능하다”면서 “최근 하드디스크가 테라바이트(TB) 단위로 용량이 늘어나 이레이저 장비 복제 및 삭제에도 꽤 많은 시간이 소요된다”고 말했다.\n데이터 완전 삭제 장비는 몇 백만원 수준부터 몇 천만원 단위, 디가우서의 경우 억원 단위 제품도 있다.\n삭제 과정을 보증하기 위해 카메라를 다는 등 다양한 제품이 시장에 나오고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 27,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "육중한 검은색 네모 상자에서 '딱' 소리가 들렸다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하드디스크(HDD)에 저장된 데이터가 모두 사라졌다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 기업과 정부 부처가 데이터 삭제 기술을 도입하고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 데이터를 어떻게 하면 완벽하게 삭제하는가가 정보보호 관리 담당자 고민이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일부 기업은 이미 각종 하드디스크를 지우는 디가우서를 서둘러 사용하고 있다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전자레인지처럼 생겼다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "손잡이를 당기자 하드디스크를 넣는 서랍이 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "서랍은 2.5인치 크기 하드디스크가 들어갈 정도 크기다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "데이터 파기를 기다리는 하드디스크를 상자에 넣고 서랍을 밀어 넣었다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그 뒤 육중한 철문을 닫았다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "초록색의 작은 액정표시장치(LCD) 창에는 충전 상태를 알린다. 20초 정도 시간이 흐르자 1만가우스가 넘는 자기장을 발산하는 디가우서 장비에서 '딱' 하는 소리가 났다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "모든 데이터는 날아갔다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "강력한 자성을 내는 데까지 10여초가 소요됐지만 데이터가 사라지는 것은 한순간이었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "디가우싱이 끝난 하드디스크를 꺼냈다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "외관은 처음 모습 그대로였다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "황치윤 한국캐드컴 영업부장은 “일반 가전제품과 마찬가지로 디가우서, 이레이저 장비 등을 두고 제조사마다 형태가 조금씩 다른 제품을 내놓는다”면서 “보안 제품이어서 정확하게 처리했는지를 확인하기 위해 시리얼번호, 보안코드 삽입 등 부가 기능을 제공한다”고 설명했다.",
+				"sentenceSize": 147
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "소프트웨어(SW)로 데이터를 삭제하는 이레이저 장비도 체험했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이레이저 장비는 15개 하드디스크를 동시에 꽂는다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "한 번에 15개 하드디스크 내부 데이터를 완전 삭제한다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "디가우서와 달리 문이나 서랍 잠금장치도 없다. 15개 포트가 외부에 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "하드디스크를 포트에 연결한다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "분당 9기가바이트(GB), 18기가바이트(GB) 속도로 삭제되고 복제됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "빠른 속도로 데이터를 덮어쓰기 한다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "만일을 대비해 작업은 여러 번 반복됐다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "황 부장은 “이레이저 장비는 자료 삭제 장비이기도 하지만 복사까지 가능하다”면서 “최근 하드디스크가 테라바이트(TB) 단위로 용량이 늘어나 이레이저 장비 복제 및 삭제에도 꽤 많은 시간이 소요된다”고 말했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "데이터 완전 삭제 장비는 몇 백만원 수준부터 몇 천만원 단위, 디가우서의 경우 억원 단위 제품도 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "삭제 과정을 보증하기 위해 카메라를 다는 등 다양한 제품이 시장에 나오고 있다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]기업, 데이터를 완벽히 지워라",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

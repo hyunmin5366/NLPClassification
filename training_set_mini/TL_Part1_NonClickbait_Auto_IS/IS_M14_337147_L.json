@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337147",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "아이폰X, 이번엔 기기 활성화 오류 논란",
+		"newsSubTitle": "",
+		"newsContent": "애플 아이폰X(텐) 구매자가 기기 활성화(Activation)에 어려움을 겪어 논란이다.\n6일(현지시간) 블룸버그통신과 버지 등 외신에 따르면, 미국에서 아이폰X을 구입한 이용자 일부는 전원을 켠 첫 단계에서 '활성화 서버가 일시적으로 이용 불가능해 아이폰이 활성화될 수 없다'는 오류 메시지에 직면했다.\n일부 아이폰X 이용자는 1시간 내내 활성화를 시도하거나, 200차례나 활성화를 시도했지만 소용이 없었다는 글을 소셜네트워크서비스(SNS)에 게재했다.\n오류를 겪은 이용자는 이통사 기술 지원 핫라인에 전화하거나 고객 서비스 직원에게 부탁해 수동으로 아이폰X을 활성화했다.\n일부는 구형 심(SIM) 카드로 갈아 끼워 문제를 해결했다.\n활성화 문제를 겪은 아이폰 구매자가 이용하는 이통사는 버라이즌과 AT&T, 스프린트 등으로 다양했다.\nAT&T는 \\\"일부 고객이 아이폰X 활성화 지연 문제를 겪었으며 문제가 해결됐다\\\"고 밝혔다.\n블룸버그는 아이폰X 이용자 활성화 수요가 폭주하면서 이통사 서버에 문제가 발생했을 가능성이 있다고 추정했다.\n애플은 활성화 문제와 관련한 문의에 입장을 내놓지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플 아이폰X(텐) 구매자가 기기 활성화(Activation)에 어려움을 겪어 논란이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일(현지시간) 블룸버그통신과 버지 등 외신에 따르면, 미국에서 아이폰X을 구입한 이용자 일부는 전원을 켠 첫 단계에서 '활성화 서버가 일시적으로 이용 불가능해 아이폰이 활성화될 수 없다'는 오류 메시지에 직면했다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "일부 아이폰X 이용자는 1시간 내내 활성화를 시도하거나, 200차례나 활성화를 시도했지만 소용이 없었다는 글을 소셜네트워크서비스(SNS)에 게재했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오류를 겪은 이용자는 이통사 기술 지원 핫라인에 전화하거나 고객 서비스 직원에게 부탁해 수동으로 아이폰X을 활성화했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일부는 구형 심(SIM) 카드로 갈아 끼워 문제를 해결했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "활성화 문제를 겪은 아이폰 구매자가 이용하는 이통사는 버라이즌과 AT&T, 스프린트 등으로 다양했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "AT&T는 \\\"일부 고객이 아이폰X 활성화 지연 문제를 겪었으며 문제가 해결됐다\\\"고 밝혔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "블룸버그는 아이폰X 이용자 활성화 수요가 폭주하면서 이통사 서버에 문제가 발생했을 가능성이 있다고 추정했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "애플은 활성화 문제와 관련한 문의에 입장을 내놓지 않았다.",
+				"sentenceSize": 32
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "아이폰X, 이번엔 기기 활성화 오류 논란",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

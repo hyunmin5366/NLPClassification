@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008391",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "술집에서 신용카드 비밀번호 알려주지 마세요",
+		"newsSubTitle": "신용카드 비밀번호 알려줬다가 복제 피해봐도 보상 안돼",
+		"newsContent": "앞으로 술집 등에서 결제를 위해 신용카드 비밀번호를 알려줬다가 복제에 의한 피해를 입어도 보상을 받을 수 없게 됐다.\n금융감독원 금융분쟁조정위원회는 25일 타인에게 비밀번호를 알려준 상태에서 복제 피해를 받으면 주인의 과실에 따른 것으로, 보상할 수 없다는 조정결정을 내렸다고 밝혔다.\n금감원에 따르면, A씨는 유흥업소에서 대금 지급을 위해 종업원에게 신용카드와 함께 비밀번호를 알려주고 현금인출 심부름을 시켰다.\n이때 유흥업소 종업원이 미리 준비한 복제기를 이용해 카드를 복제했고, 종업원은 수개월이 지난 후 비밀번호를 이용해 현금서비스로 100만원을 인출했다.\nA씨는 현금인출 사고는 자신과 무관한 복제카드에 의해 발생했기 때문에 카드회사가 피해금액을 보상해야 한다고 주장했었다.\n하지만, 분쟁조정위는 카드사의 손을 들어줬다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "앞으로 술집 등에서 결제를 위해 신용카드 비밀번호를 알려줬다가 복제에 의한 피해를 입어도 보상을 받을 수 없게 됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융감독원 금융분쟁조정위원회는 25일 타인에게 비밀번호를 알려준 상태에서 복제 피해를 받으면 주인의 과실에 따른 것으로, 보상할 수 없다는 조정결정을 내렸다고 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "금감원에 따르면, A씨는 유흥업소에서 대금 지급을 위해 종업원에게 신용카드와 함께 비밀번호를 알려주고 현금인출 심부름을 시켰다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이때 유흥업소 종업원이 미리 준비한 복제기를 이용해 카드를 복제했고, 종업원은 수개월이 지난 후 비밀번호를 이용해 현금서비스로 100만원을 인출했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "A씨는 현금인출 사고는 자신과 무관한 복제카드에 의해 발생했기 때문에 카드회사가 피해금액을 보상해야 한다고 주장했었다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만, 분쟁조정위는 카드사의 손을 들어줬다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "알츠하이머병 진단 기술개발",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

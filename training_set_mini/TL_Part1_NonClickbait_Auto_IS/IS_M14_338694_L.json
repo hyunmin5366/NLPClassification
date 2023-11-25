@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338694",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "해시어스, 메타마스크 취약점 공개",
+		"newsSubTitle": "브라우저에서 비밀번호 버튼 클릭하는 순간 해킹",
+		"newsContent": "양자 보안 기술 기반 디지털 자산 관리 기업 해시어스(대표 송창녕)는 12일 글로벌 유명 디지털 자산 지갑 PC 버전의 취약점 분석 결과를 공개하고 보안에 주의를 기울일 것을 당부했다.\n해시어스와 글로벌 얼라이언스는 최근 이더리움 기반 디지털 자산 지갑 메타마스크(MetaMask)의 취약점을 분석했다. '악마의 취약점'이라 명명한 이 취약점은 메타마스크 10.11.3 이전 버전의 지갑을 크롬과 같은 PC 브라우저에서 사용할 때 확인된다.\n브라우저에서 메타마스크 지갑의 '비밀번호 복구 문구 조회(Show Secret Recovery Phrase)'를 클릭하면 브라우저 자체의 매커니즘으로 인해 지갑을 복구하기 위한 문구(니모닉)를 유출할 수 있다.\n브라우저는 페이지의 텍스트를 로컬 디스크에 저장(캐시)해 다음에 같은 페이지를 열 때 이전 페이지를 신속하게 복원한다.\n이 같은 브라우저 매커니즘이 메타마스크 지갑 비밀번호 페이지의 텍스트까지 저장하는 보안 취약점이 확인된 것이다.\n브라우저에서 메타마스크 지갑 사용 시 비밀번호 복구 니모닉 유출을 통한 개인키 분실 위험이 있다고 해시어스 측은 설명했다.\n송창녕 대표는 “취약점 패치가 완료돼도 사용자가 업데이트 하지 않으면 해킹 위협에 상시 노출되는 것”이라며 “사용의 편의뿐만 아니라 보안을 위해서라도 업데이트를 반드시 해야 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "양자 보안 기술 기반 디지털 자산 관리 기업 해시어스(대표 송창녕)는 12일 글로벌 유명 디지털 자산 지갑 PC 버전의 취약점 분석 결과를 공개하고 보안에 주의를 기울일 것을 당부했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해시어스와 글로벌 얼라이언스는 최근 이더리움 기반 디지털 자산 지갑 메타마스크(MetaMask)의 취약점을 분석했다. '악마의 취약점'이라 명명한 이 취약점은 메타마스크 10.11.3 이전 버전의 지갑을 크롬과 같은 PC 브라우저에서 사용할 때 확인된다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "브라우저에서 메타마스크 지갑의 '비밀번호 복구 문구 조회(Show Secret Recovery Phrase)'를 클릭하면 브라우저 자체의 매커니즘으로 인해 지갑을 복구하기 위한 문구(니모닉)를 유출할 수 있다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "브라우저는 페이지의 텍스트를 로컬 디스크에 저장(캐시)해 다음에 같은 페이지를 열 때 이전 페이지를 신속하게 복원한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 같은 브라우저 매커니즘이 메타마스크 지갑 비밀번호 페이지의 텍스트까지 저장하는 보안 취약점이 확인된 것이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "브라우저에서 메타마스크 지갑 사용 시 비밀번호 복구 니모닉 유출을 통한 개인키 분실 위험이 있다고 해시어스 측은 설명했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "송창녕 대표는 “취약점 패치가 완료돼도 사용자가 업데이트 하지 않으면 해킹 위협에 상시 노출되는 것”이라며 “사용의 편의뿐만 아니라 보안을 위해서라도 업데이트를 반드시 해야 한다”고 말했다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "해시어스, 메타마스크 취약점 공개",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

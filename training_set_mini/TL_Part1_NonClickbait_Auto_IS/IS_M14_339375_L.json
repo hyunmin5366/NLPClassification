@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339375",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "사람처럼 뉴스 읽고 답변한다…NIA, AI 독해력 높이는 '기계독해(MRC)' 모델 개발",
+		"newsSubTitle": "",
+		"newsContent": "한국정보화진흥원(NIA)이 인공지능(AI) 독해 능력을 높이는 '기계 독해(MRC)' 모델 구축에 나선다.\nAI가 사람처럼 문서를 읽고 질문에 답하는 수준까지 AI 수준을 끌어올릴 것으로 기대된다.\nNIA는 한국어 기반 MRC AI 모델 프로토타입 개발을 위한 데이터셋 구축 사업을 시작한다.\nMRC(Machine Reading Comprehension)는 텍스트 문서에서 자연어 질문 답변을 도출하는 AI 기술이다.\n사람이 신문, 잡지를 읽고 질문 답변을 추론하듯이 AI가 문장 속에서 의미를 찾고 답변하는 것이 가능하다.\n예를 들어 사람이 최근 애플 출시 아이패드 화면 크기를 질문하면 AI가 애플 관련 뉴스 기사를 읽고 답변 정보를 찾아 제시한다.\n사람이 관련 정보를 찾기 위해 뉴스 등을 읽지 않아도 된다.\nMRC 기술이 발전할수록 답변 정확도와 수준이 높아진다.\nMRC 핵심은 데이터셋이다.\n얼마나 다양한 데이터를 확보, 분석하느냐가 중요하다.\n이미 해외에서는 MRC 기술 개발을 위해 데이터 확보에 나섰다.\n스탠포트대(15만건), 카네기멜론(11만건) 등 주요 대학과 연구기관이 다양한 분야 질의응답 관련 데이터를 확보했다.\n국내는 MRC 관련 연구가 더디다.\nNIA는 MRC 개발에 중요한 한국어 기반 데이터셋을 확보해 MRC 발전을 이끈다는 계획이다.\n이번 사업은 뉴스분야 MRC 데이터셋 구축에 초점을 맞춘다.\n한국어로 된 뉴스 분야별 기사 6만건 이상을 활용해 40만건 질문과 답변 데이터셋을 구축한다.\n이를 활용해 MRC 응용기술 또는 서비스 프로토타입을 개발한다.\n개발 후 데이터셋은 외부에서 활용 가능하도록 기업 등에 제공한다.\nNIA는 “해외에서는 딥러닝 기반으로 MRC 모델 관련 다양한 기술을 개발하고 인간 수준의 질의답변결과를 도출하기 위한 연구가 활발하다”면서 “이번에 구축하는 데이터셋은 기업 등 외부에서 AI 학습, 지능정보 서비스 개발 등에 활용 가능하도록 데이터 학습 방법 기술 매뉴얼도 작성, 제공할 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국정보화진흥원(NIA)이 인공지능(AI) 독해 능력을 높이는 '기계 독해(MRC)' 모델 구축에 나선다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "AI가 사람처럼 문서를 읽고 질문에 답하는 수준까지 AI 수준을 끌어올릴 것으로 기대된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "NIA는 한국어 기반 MRC AI 모델 프로토타입 개발을 위한 데이터셋 구축 사업을 시작한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MRC(Machine Reading Comprehension)는 텍스트 문서에서 자연어 질문 답변을 도출하는 AI 기술이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사람이 신문, 잡지를 읽고 질문 답변을 추론하듯이 AI가 문장 속에서 의미를 찾고 답변하는 것이 가능하다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예를 들어 사람이 최근 애플 출시 아이패드 화면 크기를 질문하면 AI가 애플 관련 뉴스 기사를 읽고 답변 정보를 찾아 제시한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사람이 관련 정보를 찾기 위해 뉴스 등을 읽지 않아도 된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "MRC 기술이 발전할수록 답변 정확도와 수준이 높아진다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "MRC 핵심은 데이터셋이다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "얼마나 다양한 데이터를 확보, 분석하느냐가 중요하다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이미 해외에서는 MRC 기술 개발을 위해 데이터 확보에 나섰다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "스탠포트대(15만건), 카네기멜론(11만건) 등 주요 대학과 연구기관이 다양한 분야 질의응답 관련 데이터를 확보했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "국내는 MRC 관련 연구가 더디다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "NIA는 MRC 개발에 중요한 한국어 기반 데이터셋을 확보해 MRC 발전을 이끈다는 계획이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이번 사업은 뉴스분야 MRC 데이터셋 구축에 초점을 맞춘다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "한국어로 된 뉴스 분야별 기사 6만건 이상을 활용해 40만건 질문과 답변 데이터셋을 구축한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이를 활용해 MRC 응용기술 또는 서비스 프로토타입을 개발한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "개발 후 데이터셋은 외부에서 활용 가능하도록 기업 등에 제공한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "NIA는 “해외에서는 딥러닝 기반으로 MRC 모델 관련 다양한 기술을 개발하고 인간 수준의 질의답변결과를 도출하기 위한 연구가 활발하다”면서 “이번에 구축하는 데이터셋은 기업 등 외부에서 AI 학습, 지능정보 서비스 개발 등에 활용 가능하도록 데이터 학습 방법 기술 매뉴얼도 작성, 제공할 것”이라고 말했다.",
+				"sentenceSize": 172
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "사람처럼 뉴스 읽고 답변한다…NIA, AI 독해력 높이는 '기계독해(MRC)' 모델 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

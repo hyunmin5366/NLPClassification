@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015003",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "껑충 뛴 채소값…양파 47% 올라",
+		"newsSubTitle": "대전주부교실 생필품 가격조사",
+		"newsContent": "계속되는 가뭄에 채소값이 천정부지로 치솟으면서 주부들의 한숨이 깊어지고 있다.\n20일 대전주부교실이 생활필수품과 개인서비스 품목을 지역 백화점과 대형마트, 슈퍼, 전통시장 등 30곳에서 조사한 결과 생활필수품 가격은 전월대비 62개 품목 가운데 22개 품목이 올랐다.\n양파가 46.9% 인상돼 가장 큰 폭의 오름세를 보였으며, 대파 33.5%, 깐마늘 31.9% 순으로 조사됐다.\n특히 양파의 경우 5월과 고온현상과 6월 가뭄의 영향으로 양파 생산량이 저년 대비 20% 줄면서, 연초보다 5배 올랐고 9월 이후 계속 오름세를 보이고 있다.\n대파도 출하량 감소로 가격 인상으로 이어졌다.\n개인서비스 역시 전월대비 19개 품목 가운데 14품목이 인상됐다.\n가장 많이 오른 품목은 세탁요금으로 13.9% 인상됐으며, 갈비탕 11.4%, 사진촬영료 8.9%, 자장면 8.3%, 김밥 7.9% 순으로 조사됐다.\n주부교실 측은 계속되는 가뭄으로 인해 채소들의 가격폭등으로 이어졌고, 결국 주부들의 밥상 차리기 비용증가에 많은 영향을 미친 것으로 분석하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "계속되는 가뭄에 채소값이 천정부지로 치솟으면서 주부들의 한숨이 깊어지고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 대전주부교실이 생활필수품과 개인서비스 품목을 지역 백화점과 대형마트, 슈퍼, 전통시장 등 30곳에서 조사한 결과 생활필수품 가격은 전월대비 62개 품목 가운데 22개 품목이 올랐다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양파가 46.9% 인상돼 가장 큰 폭의 오름세를 보였으며, 대파 33.5%, 깐마늘 31.9% 순으로 조사됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 양파의 경우 5월과 고온현상과 6월 가뭄의 영향으로 양파 생산량이 저년 대비 20% 줄면서, 연초보다 5배 올랐고 9월 이후 계속 오름세를 보이고 있다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대파도 출하량 감소로 가격 인상으로 이어졌다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "개인서비스 역시 전월대비 19개 품목 가운데 14품목이 인상됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가장 많이 오른 품목은 세탁요금으로 13.9% 인상됐으며, 갈비탕 11.4%, 사진촬영료 8.9%, 자장면 8.3%, 김밥 7.9% 순으로 조사됐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "주부교실 측은 계속되는 가뭄으로 인해 채소들의 가격폭등으로 이어졌고, 결국 주부들의 밥상 차리기 비용증가에 많은 영향을 미친 것으로 분석하고 있다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'한식 HMR' 시대 열리나…CJ제일제당, 집밥 브랜드 '더비비고' 론칭",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

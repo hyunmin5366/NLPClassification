@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331411",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "[CES 2018]8K 무안경 3D TV 등장...스트림TV-BOE 맞손",
+		"newsSubTitle": "",
+		"newsContent": "미국 스트림TV가 무안경 3D TV 기술을 개발하고 TV 제조사와 협력해 연내 상용화한다는 목표를 내걸었다.\n무안경 3D 핵심 기술을 패널 제조사와 협력했다.\n첫 번째 협력사는 중국 BOE다.\n스트림TV네트웍스는 무안경 3D 기술 '울트라 D'를 보유한 기술 기업이다.\n2D나 3D 영상을 별도 안경 없이 볼 수 있는 3D 영상으로 변환시키는 솔루션이다.\n스트림TV는 중국 BOE와 협력해 초고해상도 8K 해상도의 무안경 3D TV 시제품을 선보였다.\n중국 패널 제조사 BOE가 스트림TV의 무안경 3D 기술을 반영해 패널을 제작했다.\n65인치와 50인치를 각각 시연했다.\n이 외에 4K 해상도의 무안경 3D 기반 태블릿도 전시했다.\n140도 시야각을 지원해 측면에서도 입체 영상을 감상할 수 있다.\n스트림TV 관계자는 “패널 제조사나 TV, 모바일 제조사 등과 협력해 울트라 3D 기술을 확대하고 있다”며 “연내 상용 제품으로 시장에 등장할 것으로 기대한다”고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국 스트림TV가 무안경 3D TV 기술을 개발하고 TV 제조사와 협력해 연내 상용화한다는 목표를 내걸었다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "무안경 3D 핵심 기술을 패널 제조사와 협력했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "첫 번째 협력사는 중국 BOE다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "스트림TV네트웍스는 무안경 3D 기술 '울트라 D'를 보유한 기술 기업이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2D나 3D 영상을 별도 안경 없이 볼 수 있는 3D 영상으로 변환시키는 솔루션이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스트림TV는 중국 BOE와 협력해 초고해상도 8K 해상도의 무안경 3D TV 시제품을 선보였다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "중국 패널 제조사 BOE가 스트림TV의 무안경 3D 기술을 반영해 패널을 제작했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "65인치와 50인치를 각각 시연했다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이 외에 4K 해상도의 무안경 3D 기반 태블릿도 전시했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "140도 시야각을 지원해 측면에서도 입체 영상을 감상할 수 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "스트림TV 관계자는 “패널 제조사나 TV, 모바일 제조사 등과 협력해 울트라 3D 기술을 확대하고 있다”며 “연내 상용 제품으로 시장에 등장할 것으로 기대한다”고 설명했다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[CES 2018]8K 무안경 3D TV 등장...스트림TV-BOE 맞손",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007090",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "지역 중소제조업 평균가동률 72%로 전월에 비해 하락",
+		"newsSubTitle": "전국 평균(71%)보다는 높아",
+		"newsContent": "지역 중소제조업체의 평균가동률이 소폭 하락한 것으로 나타났다.\n중소기업중앙회 대전충남지역본부가 최근 지역 140개 중소제조업체를 대상으로 대전ㆍ충남 제조기업 평균가동률을 조사한 결과, 올해 초부터 지난 7월(73.4%)까지 상승세를 타던 가동률은 8월 들어 72.0%로 떨어졌다.\n지역별로는 대전이 전월(72.5%)보다 0.9%p 하락한 71.6%를, 충남은 전월(73.8%)보다 1.6%p가 떨어진 72.2%로 집계됐다.\n지난 8월 지역 기업들의 평균가동률 하락은 9월 새 학기 시작과 추석 명절을 앞둔 기대감에도 불구하고, 계절적 비수기 및 여름휴가 등에 기인한 것으로 분석된다.\n중소기업중앙회 대전충남지역본부 관계자는 “지역 제조업체의 평균가동률이 계절적인 요인으로 다소 주춤하긴 했지만, 전반적인 중소기업 경기전망지수는 크게 상승했다”면서 “이는 내수 경기 회복 기대감과 수출 호조, 금리 동결 등을 통해 경기 회복에 대한 기대감이 작용한 것으로 보인다”고 말했다.\n한편 중소기업중앙회가 최근 국내 1406개 중소제조업체를 대상으로 실시한 가동률조사 결과, 지난 8월 중소제조업 평균가동률은 71.3%로, 전월 대비 1.1%p 하락했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지역 중소제조업체의 평균가동률이 소폭 하락한 것으로 나타났다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "중소기업중앙회 대전충남지역본부가 최근 지역 140개 중소제조업체를 대상으로 대전ㆍ충남 제조기업 평균가동률을 조사한 결과, 올해 초부터 지난 7월(73.4%)까지 상승세를 타던 가동률은 8월 들어 72.0%로 떨어졌다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지역별로는 대전이 전월(72.5%)보다 0.9%p 하락한 71.6%를, 충남은 전월(73.8%)보다 1.6%p가 떨어진 72.2%로 집계됐다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난 8월 지역 기업들의 평균가동률 하락은 9월 새 학기 시작과 추석 명절을 앞둔 기대감에도 불구하고, 계절적 비수기 및 여름휴가 등에 기인한 것으로 분석된다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "중소기업중앙회 대전충남지역본부 관계자는 “지역 제조업체의 평균가동률이 계절적인 요인으로 다소 주춤하긴 했지만, 전반적인 중소기업 경기전망지수는 크게 상승했다”면서 “이는 내수 경기 회복 기대감과 수출 호조, 금리 동결 등을 통해 경기 회복에 대한 기대감이 작용한 것으로 보인다”고 말했다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편 중소기업중앙회가 최근 국내 1406개 중소제조업체를 대상으로 실시한 가동률조사 결과, 지난 8월 중소제조업 평균가동률은 71.3%로, 전월 대비 1.1%p 하락했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "도안 5블록 트리풀시티 '초대박'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

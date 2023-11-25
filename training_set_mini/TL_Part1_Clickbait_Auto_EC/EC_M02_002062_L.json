@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002062",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "사회적 거리두기 2단계로 완화...수도권 은행 14일부터 정상 영업",
+		"newsSubTitle": "",
+		"newsContent": "사회적 거리두기가 2.5단계에서 2단계로 완화됨에 따라 1시간 단축됐던 수도권 은행 영업시간이 14일부터 정상화된다.\n14일 금융권에 따르면 금융산업사용자협의회와 전국금융산업노동조합은 정부의 사회적 거리두기 2단계 시행을 반영해 이날부터 서울, 경기, 인천 등 수도권 은행 영업시간을 오전 9시~오후 4시로 늘리기로 했다.\n앞서 수도권 은행은 사회적 거리두기 2.5단계 시행에 맞춰 지난 1일부터 2주간 영업시간을 오전 9시 30분부터 오후 3시 30분까지 1시간 단축해 운영했다.\n수도권 은행 외에도 국책은행, 신용보증기금, 주택금융공사 등 금융공기업의 근무 시간도 이날부터 정상화된다.\n신보와 주금공은 사회적 거리두기 2.5단계가 시행됐던 지난 2주 동안 1시간 앞당겨 영업을 마감했다.\n이날부터 각각 오후 5시와 6시로 마감시간이 정상화된다.\n전국금융산업노조 관계자는 미디어SR에 \\\"사회적 거리두기 2단계가 지속하는 2주간 금융기관 영업시간이 정상화되며, 이후 다시 거리두기 단계가 격상되면 1시간 단축할 예정\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사회적 거리두기가 2.5단계에서 2단계로 완화됨에 따라 1시간 단축됐던 수도권 은행 영업시간이 14일부터 정상화된다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "14일 금융권에 따르면 금융산업사용자협의회와 전국금융산업노동조합은 정부의 사회적 거리두기 2단계 시행을 반영해 이날부터 서울, 경기, 인천 등 수도권 은행 영업시간을 오전 9시~오후 4시로 늘리기로 했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 수도권 은행은 사회적 거리두기 2.5단계 시행에 맞춰 지난 1일부터 2주간 영업시간을 오전 9시 30분부터 오후 3시 30분까지 1시간 단축해 운영했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수도권 은행 외에도 국책은행, 신용보증기금, 주택금융공사 등 금융공기업의 근무 시간도 이날부터 정상화된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신보와 주금공은 사회적 거리두기 2.5단계가 시행됐던 지난 2주 동안 1시간 앞당겨 영업을 마감했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날부터 각각 오후 5시와 6시로 마감시간이 정상화된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전국금융산업노조 관계자는 미디어SR에 \\\"사회적 거리두기 2단계가 지속하는 2주간 금융기관 영업시간이 정상화되며, 이후 다시 거리두기 단계가 격상되면 1시간 단축할 예정\\\"이라고 밝혔다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국내 첫 중이온 빔 '인출·전송' 성공",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

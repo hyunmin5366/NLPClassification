@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012513",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "지난달 건설 체감경기 '악화'",
+		"newsSubTitle": "CBSI 64.3… 작년 12월比 0.2p 하락",
+		"newsContent": "지난달 건설 체감경기가 전월에 비해 악화된 것으로 나타났다.\n한국건설산업연구원은 지난달 건설기업경기실사지수(CBSI)가 64.3으로 지난해 12월보다 0.2포인트 하락했다고 2일 밝혔다.\n조사 결과 CBSI는 지난해 12월에 전달 대비 3.6포인트 상승한 64.5를 기록했으나 올들어 다시 하락세로 전환했다.\n최근 건설경기 침체가 장기화되고 있는데다 공공공사 발주물량이 감소하고 혹한기 민간 공사물량마저 감소한데 따른 것으로 분석됐다.\n하지만 1월 하락폭이 예년에 비해 크지 않은 것은 다주택자 양도소득세 중과 폐지 등 부동산 관련 대책이 입법화되면서 일부 긍정적인 심리가 작용한 것으로 풀이된다.\n중소업체는 지난해 12월보다 4.5포인트 하락한 43.4로 체감경기 침체가 가장 심각한 것으로 나타났다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 건설 체감경기가 전월에 비해 악화된 것으로 나타났다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국건설산업연구원은 지난달 건설기업경기실사지수(CBSI)가 64.3으로 지난해 12월보다 0.2포인트 하락했다고 2일 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "조사 결과 CBSI는 지난해 12월에 전달 대비 3.6포인트 상승한 64.5를 기록했으나 올들어 다시 하락세로 전환했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 건설경기 침체가 장기화되고 있는데다 공공공사 발주물량이 감소하고 혹한기 민간 공사물량마저 감소한데 따른 것으로 분석됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하지만 1월 하락폭이 예년에 비해 크지 않은 것은 다주택자 양도소득세 중과 폐지 등 부동산 관련 대책이 입법화되면서 일부 긍정적인 심리가 작용한 것으로 풀이된다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중소업체는 지난해 12월보다 4.5포인트 하락한 43.4로 체감경기 침체가 가장 심각한 것으로 나타났다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서민대출 '새희망홀씨' 8일 출시",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

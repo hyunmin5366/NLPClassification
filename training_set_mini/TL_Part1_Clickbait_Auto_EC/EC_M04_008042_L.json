@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008042",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "농협, 1700명 역대 최대 규모 채용",
+		"newsSubTitle": "중앙회 900명과 지역농협 800명 등 모두 1700명",
+		"newsContent": "농협이 올해 역대 최대 규모의 신규 직원을 채용한다.\n농협은 16일 중앙회 900명과 지역농협 800명 등 모두 1700명의 신규직원을 채용할 계획이라고 밝혔다.\n우선 상반기에 신용분야와 IT분야에서 400명을 채용한다.\n오는 17~22일 농협 홈페이지(www.nonghyup.com)를 통해 서류를 접수하며, 4월 최종합격자를 발표할 예정이다.\n하반기에는 지역별로 채용인원을 할당해 300명을 선발해 지역농협에 인력을 배치하고, 11월에도 200명을 추가 선발하기로 했다.\n지역농협도 하반기에 800명을 채용할 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "농협이 올해 역대 최대 규모의 신규 직원을 채용한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "농협은 16일 중앙회 900명과 지역농협 800명 등 모두 1700명의 신규직원을 채용할 계획이라고 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우선 상반기에 신용분야와 IT분야에서 400명을 채용한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오는 17~22일 농협 홈페이지(www.nonghyup.com)를 통해 서류를 접수하며, 4월 최종합격자를 발표할 예정이다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하반기에는 지역별로 채용인원을 할당해 300명을 선발해 지역농협에 인력을 배치하고, 11월에도 200명을 추가 선발하기로 했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지역농협도 하반기에 800명을 채용할 계획이다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코스피 사상 최고치 행진 재개…투자자 몰린다.",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

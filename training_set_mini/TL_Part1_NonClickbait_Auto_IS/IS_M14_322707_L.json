@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322707",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "제조사, 빅데이터 기술로 제품 불량률 획기적으로 줄여",
+		"newsSubTitle": "",
+		"newsContent": "빅데이터 기술을 도입해 제조 공정 효율을 높인 제조기업이 늘어난다.\n제조 데이터를 효율적으로 관리해 생산성을 증대하는 사례가 주목받는다. 2일 인쇄회로기판(PCB) 제조업체 대덕전자는 '품질수율분석시스템(YMS:Yield Management System)'을 구축, 빅데이터 분석으로 제조 공정 수율을 극대화했다고 밝혔다.\n대덕전자는 반도체, 모바일, 가전, 자동차 등 정보기술(IT) 산업 전반에 제품을 공급한다.\n지속적 연구개발(R&D)과 품질관리로 제품 생산성과 수익성을 높였다.\n최근 구축한 품질수율분석시스템은 세계 기업으로 성장하기 위한 투자다.\n대덕전자는 이 시스템에 SAS 빅데이터 시각화 솔루션 'SAS 비주얼 애널리틱스'를 도입했다.\n수율을 분석하고 데이터 수집∙분석, 리포팅, 현장 조치까지 전 과정에 소요되는 시간을 기존 4시간에서 수십 분으로 단축시켰다.\n현업 담당자들은 필요에 따라 손쉽게 리포트를 작성하고 업무에 집중하게 됐다.\n제조기업은 생산 오류를 줄이고 품질을 고르게 유지하는 과정이 중요하다.\n이를 위해 각종 기기에 흩어진 데이터 수집과 분석이 중요하다.\n데이터 분석이 빠를수록 현장 대응도 신속하다.\n데이터 분석 기술 확보에 많은 제조업체가 주목하는 이유다.\n대덕전자도 이번 시스템 구축 과정에서 수율 분석에 필요한 데이터 수집과 관리 부문에 집중했다.\n그동안 수율 분석에 필요한 데이터가 여러 곳에 흩어져 있어 데이터 수집과 분석에 적지 않은 시간이 소요다.\n현장에서 모든 관리자가 수율 데이터를 직접 확인하고 분석하는 과정에 한계가 있었다.\n대덕전자는 현업 요구 사항을 신속하게 반영하고 제조비용과 생산성을 개선하기 위해 빅데이터 분석 시스템을 도입했다.\n우선 품질수율 분석에 필요한 데이터를 통합∙저장하고 인메모리로 데이터를 신속히 분석하도록 데이터 조회 성능을 최적화했다.\n현업 다양한 요구를 반영한 '품질수율 데이터 저장소'를 구축했다. '시각화 분석시스템'을 구축해 시각화 기반 분석 환경에서 데이터를 직관적으로 이해하고 다양한 관점 리포트를 산출하도록 구성했다.\n회사 모든 직원이 품질수율분석시스템을 이용해 일일 수율 현황, 일일 품질 현황, 월간∙주간∙일별 품질 현황을 확인한다.\n로트(LOT) 또는 포장 기준 수율 트렌드와 불량 유형도 분석한다.\n데이터 수집부터 보고서 작성과 확인, 현장 업무 조치까지 수십 분이면 가능해졌다.\n검사 공정 수율 분석, 공정별 불량 분석, 불량 유형 분석 등을 신속하게 분석∙탐색해 즉시 대응력을 높였다.\n문성준 대덕전자의 PI(품질 혁신)팀 과장은 \\\"수율분석 시간을 혁신적으로 단축하고 공정 초기에 품질 불량 원인을 발견하게 됐다\\\"면서 \\\"문제가 발견됐을 때 빠르게 조치가 가능해 제품 불량률을 낮춘 결과 제조비용을 최소화하고 생산성은 높아졌다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "빅데이터 기술을 도입해 제조 공정 효율을 높인 제조기업이 늘어난다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "제조 데이터를 효율적으로 관리해 생산성을 증대하는 사례가 주목받는다. 2일 인쇄회로기판(PCB) 제조업체 대덕전자는 '품질수율분석시스템(YMS:Yield Management System)'을 구축, 빅데이터 분석으로 제조 공정 수율을 극대화했다고 밝혔다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대덕전자는 반도체, 모바일, 가전, 자동차 등 정보기술(IT) 산업 전반에 제품을 공급한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지속적 연구개발(R&D)과 품질관리로 제품 생산성과 수익성을 높였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최근 구축한 품질수율분석시스템은 세계 기업으로 성장하기 위한 투자다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대덕전자는 이 시스템에 SAS 빅데이터 시각화 솔루션 'SAS 비주얼 애널리틱스'를 도입했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "수율을 분석하고 데이터 수집∙분석, 리포팅, 현장 조치까지 전 과정에 소요되는 시간을 기존 4시간에서 수십 분으로 단축시켰다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현업 담당자들은 필요에 따라 손쉽게 리포트를 작성하고 업무에 집중하게 됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "제조기업은 생산 오류를 줄이고 품질을 고르게 유지하는 과정이 중요하다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이를 위해 각종 기기에 흩어진 데이터 수집과 분석이 중요하다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "데이터 분석이 빠를수록 현장 대응도 신속하다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "데이터 분석 기술 확보에 많은 제조업체가 주목하는 이유다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "대덕전자도 이번 시스템 구축 과정에서 수율 분석에 필요한 데이터 수집과 관리 부문에 집중했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "그동안 수율 분석에 필요한 데이터가 여러 곳에 흩어져 있어 데이터 수집과 분석에 적지 않은 시간이 소요다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "현장에서 모든 관리자가 수율 데이터를 직접 확인하고 분석하는 과정에 한계가 있었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "대덕전자는 현업 요구 사항을 신속하게 반영하고 제조비용과 생산성을 개선하기 위해 빅데이터 분석 시스템을 도입했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "우선 품질수율 분석에 필요한 데이터를 통합∙저장하고 인메모리로 데이터를 신속히 분석하도록 데이터 조회 성능을 최적화했다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "현업 다양한 요구를 반영한 '품질수율 데이터 저장소'를 구축했다. '시각화 분석시스템'을 구축해 시각화 기반 분석 환경에서 데이터를 직관적으로 이해하고 다양한 관점 리포트를 산출하도록 구성했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "회사 모든 직원이 품질수율분석시스템을 이용해 일일 수율 현황, 일일 품질 현황, 월간∙주간∙일별 품질 현황을 확인한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "로트(LOT) 또는 포장 기준 수율 트렌드와 불량 유형도 분석한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "데이터 수집부터 보고서 작성과 확인, 현장 업무 조치까지 수십 분이면 가능해졌다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "검사 공정 수율 분석, 공정별 불량 분석, 불량 유형 분석 등을 신속하게 분석∙탐색해 즉시 대응력을 높였다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "문성준 대덕전자의 PI(품질 혁신)팀 과장은 \\\"수율분석 시간을 혁신적으로 단축하고 공정 초기에 품질 불량 원인을 발견하게 됐다\\\"면서 \\\"문제가 발견됐을 때 빠르게 조치가 가능해 제품 불량률을 낮춘 결과 제조비용을 최소화하고 생산성은 높아졌다\\\"고 말했다.",
+				"sentenceSize": 144
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제조사, 빅데이터 기술로 제품 불량률 획기적으로 줄여",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

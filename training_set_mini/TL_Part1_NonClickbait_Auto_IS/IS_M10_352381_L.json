@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352381",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "한국 아파트가 해외 40개국 해킹 거점으로...국정원 \\\"해커 확인 중\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "최근 국내 한 아파트의 설비 자동제어 시스템 서버가 해외 해커들의 해킹 거점으로 활용된 사실이 드러났다.\n해커들이 해킹 후 IP 추적을 피하기 위해 여러 경로를 거쳐 IP 세탁을 하는데, 그 거점 중 하나로 국내 아파트 시스템이 활용된 것이다.\n국가정보원은 해외 해킹에 악용된 국내 IP 정보를 분석 조사한 결과 서울 소재 모 아파트의 설비 자동제어 시스템이 활용된 사실을 확인했다고 3일 밝혔다.\n이 시스템은 올해 3월 해킹됐으며, 원격제어 프로그램이 설치된 뒤 해외 40개 국가에 있는 인터넷 서버를 공격하는 경유지로 활용됐다.\n아파트 설비 자동제어시스템은 아파트와 빌딩의 냉난방기, 배수펌프, 저수조, 우수조, 냉난방기 팬, 난방수 온도 등을 자동제어하는 시스템이다.\n이번에 해킹된 시스템은 한 업체가 개발한 특정 시스템으로, 국내에는 최소 260개 아파트와 빌딩에 보급됐으며, 현재 10여개 업체가 납품한 것으로 추정된다.\n국정원 측은 \\\"해당 아파트를 점검해 피해 시스템에 대한 외부 인터넷 접근을 차단하고 피해 상황을 확인 중\\\"이라며 \\\"국내 유관기관과 업체는 물론, 해외 협력기관 등과도 정보를 공유해 공격 주체를 확인할 계획\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 국내 한 아파트의 설비 자동제어 시스템 서버가 해외 해커들의 해킹 거점으로 활용된 사실이 드러났다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해커들이 해킹 후 IP 추적을 피하기 위해 여러 경로를 거쳐 IP 세탁을 하는데, 그 거점 중 하나로 국내 아파트 시스템이 활용된 것이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국가정보원은 해외 해킹에 악용된 국내 IP 정보를 분석 조사한 결과 서울 소재 모 아파트의 설비 자동제어 시스템이 활용된 사실을 확인했다고 3일 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 시스템은 올해 3월 해킹됐으며, 원격제어 프로그램이 설치된 뒤 해외 40개 국가에 있는 인터넷 서버를 공격하는 경유지로 활용됐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아파트 설비 자동제어시스템은 아파트와 빌딩의 냉난방기, 배수펌프, 저수조, 우수조, 냉난방기 팬, 난방수 온도 등을 자동제어하는 시스템이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번에 해킹된 시스템은 한 업체가 개발한 특정 시스템으로, 국내에는 최소 260개 아파트와 빌딩에 보급됐으며, 현재 10여개 업체가 납품한 것으로 추정된다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국정원 측은 \\\"해당 아파트를 점검해 피해 시스템에 대한 외부 인터넷 접근을 차단하고 피해 상황을 확인 중\\\"이라며 \\\"국내 유관기관과 업체는 물론, 해외 협력기관 등과도 정보를 공유해 공격 주체를 확인할 계획\\\"이라고 말했다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국 아파트가 해외 40개국 해킹 거점으로...국정원 \\\"해커 확인 중\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

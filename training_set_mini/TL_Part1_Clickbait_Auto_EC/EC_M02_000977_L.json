@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000977",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "금융 클라우드 혁신의 바람...NHN 이어 KT도 가세",
+		"newsSubTitle": "",
+		"newsContent": "금융권이 주요 업무에 클라우드 서비스를 도입하고 이를 동력으로 디지털 혁신에 박차를 가하는 추세다.\n6일 KT는 금융사 전용 '퍼블릭 금융 클라우드'를 구축하고 KEB하나은행의 'GLN플랫폼'을 비롯해 '제로페이 포인트 플랫폼' 등 다양한 금융 서비스를 수용할 예정이라고 밝혔다.\nKT는 데이터센터부터 네트워크, 클라우드, PaaS(개발환경 제공)·SaaS(소프트웨어 제공) 서비스까지 통합 제공이 가능한 국내 유일 사업자로, 금융감독원의 보안 가이드라인을 준수하며 퍼블릭 클라우드 환경에서 금융사의 중요 데이터를 처리할 수 있다.\n클라우드 서비스는 공유 범위에 따라 퍼블릭·프라이빗·하이브리드 클라우드로 구분되며 특정 기업들만 공유하는 커뮤니티 클라우드 형태가 있다.\n이중 퍼블릭 클라우드는 불특정 다수가 인터넷을 통해 컴퓨팅 자원을 공유하는 서비스다.\nKT 관계자는 6일 미디어SR에 \\\"금융사를 위한 별도의 클라우드 서비스로, 추후 더 많은 금융 서비스를 유치할 예정\\\"이라면서 \\\"금융사에 특화된 전용 클라우드이기 때문에 클라우드를 이용하기 위해 금융서비스 수용 적합성 심사를 받는 기간을 단축할 수 있을 것\\\"이라고 전했다.\n기존에 금융분야 클라우드는 비중요 정보에 한해서만 허용이 됐는데 올 1월 전자금융 감독규정이 개정되면서 활용할 수 있는 정보의 범위가 개인신용정보까지 확대됐다.\n디지털 금융 혁신의 필요성에 대한 금융당국의 공감으로 금융사들의 자율적인 클라우드 이용이 가능해진 것이다.\n단, 금융보안원이 클라우드 이용 가이드로 제시하는 141개 보호조치 항목을 준수해야 한다.\n이에 따라 ICT 기업들은 금융사에 특화된 클라우드 서비스를 선보이며 금융 클라우드 시장을 선도하기 위한 경쟁에 나섰다.\nKT에 앞서 지난 5일 NHN은 KB금융그룹 산하 6개 계열사에 금융 특화 클라우드 서비스인 'TOAST Secure(토스트 시큐어)'를 도입했다.\n6개 계열사로는 KB국민은행, KB증권, KB손해보험, KB국민카드, KB캐피탈, KB저축은행이 해당한다.\nNHN은 KB금융그룹의 협업 플랫폼인 'CLAYON(클레온)'을 주축으로 KB금융그룹의 전용 클라우드 시스템을 통합 제공한다.\n인프라뿐 아니라 금융 서비스 제공에 필요한 멀티 클라우드 플랫폼과 통합인증, 보안관리 등이 모두 포함된다.\n토스트 시큐어는 앞서 진행된 금융보안원의 CSP(클라우드서비스 제공자) 안전성 평가 최초로 141개 항목에서 평가 면제 없이 100% 적합 판정을 받았다.\nKB금융그룹은 클라우드 안전성 평가가 성공적으로 완료됨에 따라 혁신서비스로 지정된 국민은행의 'MVNO플랫폼' 등 중요 정보를 다루는 서비스도 순차적으로 클라우드에 탑재할 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융권이 주요 업무에 클라우드 서비스를 도입하고 이를 동력으로 디지털 혁신에 박차를 가하는 추세다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 KT는 금융사 전용 '퍼블릭 금융 클라우드'를 구축하고 KEB하나은행의 'GLN플랫폼'을 비롯해 '제로페이 포인트 플랫폼' 등 다양한 금융 서비스를 수용할 예정이라고 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KT는 데이터센터부터 네트워크, 클라우드, PaaS(개발환경 제공)·SaaS(소프트웨어 제공) 서비스까지 통합 제공이 가능한 국내 유일 사업자로, 금융감독원의 보안 가이드라인을 준수하며 퍼블릭 클라우드 환경에서 금융사의 중요 데이터를 처리할 수 있다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "클라우드 서비스는 공유 범위에 따라 퍼블릭·프라이빗·하이브리드 클라우드로 구분되며 특정 기업들만 공유하는 커뮤니티 클라우드 형태가 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이중 퍼블릭 클라우드는 불특정 다수가 인터넷을 통해 컴퓨팅 자원을 공유하는 서비스다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KT 관계자는 6일 미디어SR에 \\\"금융사를 위한 별도의 클라우드 서비스로, 추후 더 많은 금융 서비스를 유치할 예정\\\"이라면서 \\\"금융사에 특화된 전용 클라우드이기 때문에 클라우드를 이용하기 위해 금융서비스 수용 적합성 심사를 받는 기간을 단축할 수 있을 것\\\"이라고 전했다.",
+				"sentenceSize": 155
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기존에 금융분야 클라우드는 비중요 정보에 한해서만 허용이 됐는데 올 1월 전자금융 감독규정이 개정되면서 활용할 수 있는 정보의 범위가 개인신용정보까지 확대됐다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "디지털 금융 혁신의 필요성에 대한 금융당국의 공감으로 금융사들의 자율적인 클라우드 이용이 가능해진 것이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "단, 금융보안원이 클라우드 이용 가이드로 제시하는 141개 보호조치 항목을 준수해야 한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이에 따라 ICT 기업들은 금융사에 특화된 클라우드 서비스를 선보이며 금융 클라우드 시장을 선도하기 위한 경쟁에 나섰다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "KT에 앞서 지난 5일 NHN은 KB금융그룹 산하 6개 계열사에 금융 특화 클라우드 서비스인 'TOAST Secure(토스트 시큐어)'를 도입했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "6개 계열사로는 KB국민은행, KB증권, KB손해보험, KB국민카드, KB캐피탈, KB저축은행이 해당한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "NHN은 KB금융그룹의 협업 플랫폼인 'CLAYON(클레온)'을 주축으로 KB금융그룹의 전용 클라우드 시스템을 통합 제공한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "인프라뿐 아니라 금융 서비스 제공에 필요한 멀티 클라우드 플랫폼과 통합인증, 보안관리 등이 모두 포함된다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "토스트 시큐어는 앞서 진행된 금융보안원의 CSP(클라우드서비스 제공자) 안전성 평가 최초로 141개 항목에서 평가 면제 없이 100% 적합 판정을 받았다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "KB금융그룹은 클라우드 안전성 평가가 성공적으로 완료됨에 따라 혁신서비스로 지정된 국민은행의 'MVNO플랫폼' 등 중요 정보를 다루는 서비스도 순차적으로 클라우드에 탑재할 예정이다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "부채관리 돌입하는 금융公기관 \\\"지속가능하려면 재무안전성 높여야\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

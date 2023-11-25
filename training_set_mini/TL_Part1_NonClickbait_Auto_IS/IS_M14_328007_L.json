@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328007",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "3D프린팅 뼈이식으로 다리 절단위기 개 완전치유",
+		"newsSubTitle": "",
+		"newsContent": "영국 과학자들이 사고로 다리를 절단해야 할 위기에 처한 개를 입체(3D) 프린팅 기술 등을 이용한 뼈 이식수술로 완전히 치유하는데 세계 최초로 성공했다고 영국 BBC방송이 29일(현지시간) 보도했다.\n이 치료법은 앞으로 동물뿐만 아니라 지뢰사고 등으로 위험에 처한 사람들에게도 새로운 삶을 열어줄 수 있을 것으로 기대되고 있다고 BBC는 전했다.\nBBC 등 영국 언론에 따르면, 에바라는 이름의 개는 1년 전 자동차사고로 오른쪽 앞발 뼈가 으스러졌다.\n글래스고대학 동물병원에서 온갖 치료를 다 받았으나 복합골절 부위가 계속 감염돼 다리를 완전히 절단해야 하는 상황까지 예상됐다.\n최선의 방법은 복합골절부위 뼈를 2cm가량 제거하는 수술이었으나 이로 인해 에바는 영구적 장애롤 안고 살아가야 했다.\n동물병원 의료진은 같은 대학 생체의료공학과 마누엘 살메론-산체스 교수팀 인공 뼈 조직 성장 복합물질을 개발한 사실을 알고 에바의 치료를 맡겼다.\n그 결과 이식수술 6주 만에 뼈가 재생, 완치돼 에바는 이후 재활훈련을 거쳐 완전히 정상활동을 할 수 있게 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "영국 과학자들이 사고로 다리를 절단해야 할 위기에 처한 개를 입체(3D) 프린팅 기술 등을 이용한 뼈 이식수술로 완전히 치유하는데 세계 최초로 성공했다고 영국 BBC방송이 29일(현지시간) 보도했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 치료법은 앞으로 동물뿐만 아니라 지뢰사고 등으로 위험에 처한 사람들에게도 새로운 삶을 열어줄 수 있을 것으로 기대되고 있다고 BBC는 전했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "BBC 등 영국 언론에 따르면, 에바라는 이름의 개는 1년 전 자동차사고로 오른쪽 앞발 뼈가 으스러졌다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "글래스고대학 동물병원에서 온갖 치료를 다 받았으나 복합골절 부위가 계속 감염돼 다리를 완전히 절단해야 하는 상황까지 예상됐다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최선의 방법은 복합골절부위 뼈를 2cm가량 제거하는 수술이었으나 이로 인해 에바는 영구적 장애롤 안고 살아가야 했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "동물병원 의료진은 같은 대학 생체의료공학과 마누엘 살메론-산체스 교수팀 인공 뼈 조직 성장 복합물질을 개발한 사실을 알고 에바의 치료를 맡겼다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그 결과 이식수술 6주 만에 뼈가 재생, 완치돼 에바는 이후 재활훈련을 거쳐 완전히 정상활동을 할 수 있게 됐다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "3D프린팅 뼈이식으로 다리 절단위기 개 완전치유",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

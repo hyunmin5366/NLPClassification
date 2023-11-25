@@ -1,0 +1,222 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337751",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "에이티솔루션즈, 소프트웨어기반 보안 매체 솔루션 국산화",
+		"newsSubTitle": "'엠세이프박스' 이르면 상반기 출시 OS별 호환 · 에이전트 앱 설치 등",
+		"newsContent": "에이티솔루션즈(대표 김종서)가 소프트웨어 기반 보안 매체 솔루션 '엠세이프박스(mSafeBox)'를 개발했다.\n소프트웨어(SW)방식 보안매체 개발은 국내서 처음이다.\n하드웨어(HW) 위주 모바일 보안 매체 시장에 변화가 감지된다.\n일반적으로 금융권, 통신사는 모바일 이용자 정보를 보호하기 위해 트러스트존(Trustzone), 유심(USIM) 등 하드웨어 기반 보안매체를 활용한다.\n이들 방식은 높은 보안성을 갖고 있으나 모바일 기기, 운용체계(OS)환경에 따라 사용이 제한적이다.\n모바일 기기마다 하드웨어 보안매체 개발방식이 다를 뿐 아니라 업데이트발생 시 개별 대응해야한다.\n게다가 화웨이, 샤오미 등 일부 외산 스마트폰은 HW기반 보안매체 적용 불가능하다.\n엠세이프박스는 SW방식으로 암호화키, 암호화 알고리즘을 보호한다.\n인애플케이션 형태 SW 작동이다.\n하드웨어 기반 보안 매체가 갖고 있는 기기∙운용체계(OS)별 호환 문제, 보안 매체 실행을 위해 별도 에이전트 애플리케이션 설치 문제 등도 해결했다.\n엠세이프박스는 화이트박스 암호화 기술 기반으로 중요 정보나 알고리즘을 일반 실행 공간과 논리적으로 분리했다.\n중요정보는 특수 공간 안에 따로 저장해 보호하는 방식이다.\n무결성보호, 코드난독화, iOS 탈옥감지 등 기술을 갖췄다.\n김종서 에이티솔루션즈 대표는 \\\"일반 실행공간에 정보 저장 시 해커가 쉽게 정보 탈취를 할 수 있다\\\"면서 \\\"엠세이프박스는 논리적인 보안영역을 구현, 높은 수준 보안 환경에서 애플리케이션과 애플리케이션 내 중요 정보를 안전하게 보호한다\\\"고 말했다.\n운용체계 환경에서 일반적으로 제공하는 소프트웨어 기반 키스토어(Keystore), 키체인(Keychain) 등은 보안 스토리지로 이용하지만 암호화 키 노출 위험성을 안고 있다.\n엠세이프박스는 암호화 키뿐만 아니라 주요 알고리즘 등 특수보안 영역에 저장∙실행해 암호화 키 노출 위험성을 막는다.\n기기 제조사∙OS에 따른 개별 개발∙관리가 필요한 타 솔루션과 달리 단말기와 OS 의존도는 낮추고 범용성은 높였다.\n안드로이드, iOS 등 OS 관계없이 모든 환경에 적용 가능하다.\n여기에 수년간 축적한 노하우로 기기 변경 또는 OS 버전 업그레이드 시 실시간 대응∙지원 가능하다.\n추가 개발, 운영 대응에 대한 부담을 최소화할 수 있다는 것도 강점이다.\n이르면 상반기 공식 출시한다.\n김 대표는 \\\"엠세이프박스는 모바일 보안 핵심인 보안과 범용성을 모두 충족시킨 솔루션\\\"이라면서 \\\"모바일 애플리케이션 실행 영역 안전성 보장으로 보안 매체 생태계 확대를 위한 연구, 개발을 지속 확대할 예정\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 22,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "에이티솔루션즈(대표 김종서)가 소프트웨어 기반 보안 매체 솔루션 '엠세이프박스(mSafeBox)'를 개발했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소프트웨어(SW)방식 보안매체 개발은 국내서 처음이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하드웨어(HW) 위주 모바일 보안 매체 시장에 변화가 감지된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "일반적으로 금융권, 통신사는 모바일 이용자 정보를 보호하기 위해 트러스트존(Trustzone), 유심(USIM) 등 하드웨어 기반 보안매체를 활용한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이들 방식은 높은 보안성을 갖고 있으나 모바일 기기, 운용체계(OS)환경에 따라 사용이 제한적이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모바일 기기마다 하드웨어 보안매체 개발방식이 다를 뿐 아니라 업데이트발생 시 개별 대응해야한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "게다가 화웨이, 샤오미 등 일부 외산 스마트폰은 HW기반 보안매체 적용 불가능하다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "엠세이프박스는 SW방식으로 암호화키, 암호화 알고리즘을 보호한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "인애플케이션 형태 SW 작동이다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하드웨어 기반 보안 매체가 갖고 있는 기기∙운용체계(OS)별 호환 문제, 보안 매체 실행을 위해 별도 에이전트 애플리케이션 설치 문제 등도 해결했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "엠세이프박스는 화이트박스 암호화 기술 기반으로 중요 정보나 알고리즘을 일반 실행 공간과 논리적으로 분리했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "중요정보는 특수 공간 안에 따로 저장해 보호하는 방식이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "무결성보호, 코드난독화, iOS 탈옥감지 등 기술을 갖췄다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "김종서 에이티솔루션즈 대표는 \\\"일반 실행공간에 정보 저장 시 해커가 쉽게 정보 탈취를 할 수 있다\\\"면서 \\\"엠세이프박스는 논리적인 보안영역을 구현, 높은 수준 보안 환경에서 애플리케이션과 애플리케이션 내 중요 정보를 안전하게 보호한다\\\"고 말했다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "운용체계 환경에서 일반적으로 제공하는 소프트웨어 기반 키스토어(Keystore), 키체인(Keychain) 등은 보안 스토리지로 이용하지만 암호화 키 노출 위험성을 안고 있다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "엠세이프박스는 암호화 키뿐만 아니라 주요 알고리즘 등 특수보안 영역에 저장∙실행해 암호화 키 노출 위험성을 막는다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "기기 제조사∙OS에 따른 개별 개발∙관리가 필요한 타 솔루션과 달리 단말기와 OS 의존도는 낮추고 범용성은 높였다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "안드로이드, iOS 등 OS 관계없이 모든 환경에 적용 가능하다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "여기에 수년간 축적한 노하우로 기기 변경 또는 OS 버전 업그레이드 시 실시간 대응∙지원 가능하다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "추가 개발, 운영 대응에 대한 부담을 최소화할 수 있다는 것도 강점이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이르면 상반기 공식 출시한다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "김 대표는 \\\"엠세이프박스는 모바일 보안 핵심인 보안과 범용성을 모두 충족시킨 솔루션\\\"이라면서 \\\"모바일 애플리케이션 실행 영역 안전성 보장으로 보안 매체 생태계 확대를 위한 연구, 개발을 지속 확대할 예정\\\"이라고 말했다.",
+				"sentenceSize": 126
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "에이티솔루션즈, 소프트웨어기반 보안 매체 솔루션 국산화",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

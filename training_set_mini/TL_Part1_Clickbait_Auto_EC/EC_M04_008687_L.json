@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008687",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "7월부터 국내 최초로 ‘연금복권 520’ 판매",
+		"newsSubTitle": "1등 당첨 시 매달 500만원씩 20년간 지급 팝콘 복권은 29일을 끝으로 폐지",
+		"newsContent": "다음달 1일부터 국내 최초로 매달 나눠서 지급하는 ‘연금복권 520’이 판매된다.\n기획재정부 복권위원회는 28일 1등 당첨자 2명에게 매달 500만원씩 20년에 걸쳐 당첨금을 지급하는 연금복권 520을 판매한다고 밝혔다.\n1장에 1000원인 연금복권 520의 당첨금은 1등 12억원(500만원×240개월), 2등 1억원, 3등 1000만원, 4등 100만원, 5등 20만원, 6등 2000원, 7등 1000원 등이다.\n1등 당첨금은 연금식으로만 받을 수 있고 상속도 가능하지만 제3자에게 양도하거나 담보로 제공할 수는 없다.\n다만, 2등 이하부터는 당첨금이 일시불로 지급된다.\n추첨은 수요일인 7월 6일 처음 이뤄지며, 1등 당첨확률은 315만분의 1, 2등 당첨확률은 157만분의 1이다.\n세율도 낮췄다.\n일반복권은 통상 3억원 이상 당첨금의 세율은 33%이지만, 연금식 당첨금은 매월 500만원씩 나눠 받기 때문에 22%(소득세 20%, 주민세 2%)의 세율이 적용된다. ‘연금복권 520’ 판매에 따라, 기존의 추첨식 ‘팝콘 복권’은 오는 29일 추첨을 마지막으로 폐지된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "다음달 1일부터 국내 최초로 매달 나눠서 지급하는 ‘연금복권 520’이 판매된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기획재정부 복권위원회는 28일 1등 당첨자 2명에게 매달 500만원씩 20년에 걸쳐 당첨금을 지급하는 연금복권 520을 판매한다고 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "1장에 1000원인 연금복권 520의 당첨금은 1등 12억원(500만원×240개월), 2등 1억원, 3등 1000만원, 4등 100만원, 5등 20만원, 6등 2000원, 7등 1000원 등이다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "1등 당첨금은 연금식으로만 받을 수 있고 상속도 가능하지만 제3자에게 양도하거나 담보로 제공할 수는 없다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만, 2등 이하부터는 당첨금이 일시불로 지급된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "추첨은 수요일인 7월 6일 처음 이뤄지며, 1등 당첨확률은 315만분의 1, 2등 당첨확률은 157만분의 1이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "세율도 낮췄다.",
+				"sentenceSize": 8
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "일반복권은 통상 3억원 이상 당첨금의 세율은 33%이지만, 연금식 당첨금은 매월 500만원씩 나눠 받기 때문에 22%(소득세 20%, 주민세 2%)의 세율이 적용된다. ‘연금복권 520’ 판매에 따라, 기존의 추첨식 ‘팝콘 복권’은 오는 29일 추첨을 마지막으로 폐지된다.",
+				"sentenceSize": 152
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "물도 못 파나? PC방 업주들, '열어도 손해'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

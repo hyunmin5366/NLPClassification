@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326786",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "만도, 中전기차 '바이튼'에 부품 공급한다",
+		"newsSubTitle": "",
+		"newsContent": "자동차 부품업체 만도가 중국의 유력 전기차 업체인 '바이튼'에 부품을 공급한다. 28일 업계에 따르면 만도는 2019년 말부터 바이튼에 전자식 파워 스티어링(EPS), 스티어링 휠 칼럼 등 전기차 부품을 공급하기로 계약을 했다.\n바이튼은 세계 전기차 1위에 올라서겠다고 선언한 중국의 전기차 스타트업인 '퓨처 모빌리티'가 내놓은 전기차 브랜드다.\n퓨처 모빌리티는 BMW와 테슬라, 닛산 출신 임원 등이 공동 설립한 회사로, 올해 1월 미국 라스베이거스에서 열린 CES(소비자가전전시회)에서 첫 스포츠유틸리티차(SUV) 콘셉트카를 공개했다.\n회사는 이 차를 내년 4분기 중 중국과 유럽∙미국에 출시하고 2020년 완전 자율주행 프리미엄 전기차를 판매하는 것을 목표로 삼고 있다.\n만도는 바이튼에 내년 말부터 R-EPS(랙 지원형 전자식 파워 스티어링)와 스티어링 휠 칼럼, 전자식 브레이크 시스템(캘리퍼), 충격흡수장치(댐퍼) 등을 공급할 예정으로 알려졌다.\n전자식으로 스티어링 휠의 움직임을 바퀴에 전달하는 R-EPS는 자율주행 전기차에 없어서는 안 될 핵심부품으로, 국내에서는 만도가 처음으로 양산했다.\n다만 구체적인 공급 물량이나 금액은 알려지지 않았다.\n만도 관계자는 \\\"성장 가능성이 큰 중국 전기차 시장이 만도에도 큰 사업 기회가 될 것으로 기대한다\\\"며 \\\"구체적인 사업 관련 내용은 확인이 어렵다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자동차 부품업체 만도가 중국의 유력 전기차 업체인 '바이튼'에 부품을 공급한다. 28일 업계에 따르면 만도는 2019년 말부터 바이튼에 전자식 파워 스티어링(EPS), 스티어링 휠 칼럼 등 전기차 부품을 공급하기로 계약을 했다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "바이튼은 세계 전기차 1위에 올라서겠다고 선언한 중국의 전기차 스타트업인 '퓨처 모빌리티'가 내놓은 전기차 브랜드다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "퓨처 모빌리티는 BMW와 테슬라, 닛산 출신 임원 등이 공동 설립한 회사로, 올해 1월 미국 라스베이거스에서 열린 CES(소비자가전전시회)에서 첫 스포츠유틸리티차(SUV) 콘셉트카를 공개했다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "회사는 이 차를 내년 4분기 중 중국과 유럽∙미국에 출시하고 2020년 완전 자율주행 프리미엄 전기차를 판매하는 것을 목표로 삼고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "만도는 바이튼에 내년 말부터 R-EPS(랙 지원형 전자식 파워 스티어링)와 스티어링 휠 칼럼, 전자식 브레이크 시스템(캘리퍼), 충격흡수장치(댐퍼) 등을 공급할 예정으로 알려졌다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전자식으로 스티어링 휠의 움직임을 바퀴에 전달하는 R-EPS는 자율주행 전기차에 없어서는 안 될 핵심부품으로, 국내에서는 만도가 처음으로 양산했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다만 구체적인 공급 물량이나 금액은 알려지지 않았다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "만도 관계자는 \\\"성장 가능성이 큰 중국 전기차 시장이 만도에도 큰 사업 기회가 될 것으로 기대한다\\\"며 \\\"구체적인 사업 관련 내용은 확인이 어렵다\\\"고 말했다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "만도, 中전기차 '바이튼'에 부품 공급한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

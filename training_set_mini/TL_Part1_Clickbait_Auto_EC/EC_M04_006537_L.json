@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006537",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "주택금융公 '유보금자리론' 연 3.3%대 주택대출 내주 출시",
+		"newsSubTitle": "",
+		"newsContent": "연 3.3%대의 주택담보대출 상품이 다음주에 출시된다.\n주택금융공사는 오는 14일 온라인 주택담보대출 상품인 유(u)보금자리론을 출시한다고 10일 밝혔다.\n주택금융공사가 채권 관리를 직접 수행해 대출 원가를 낮춤으로써 유보금자리론의 금리도 기존 대출 상품보다 0.4%포인트 내렸다.\n금리할인과 설정비 부담 옵션을 선택하면 대출금리가 추가로 0.20%포인트 낮아져 6개월마다 금리가 변하는 코픽스연동형의 경우 최저 연 3.36%, 고정금리는 최저 5.1%가 적용된다.\n이는 은행권 변동금리형 주택담보대출보다 크게 낮은 수준이다.\n은행권 코픽스 연동 주택담보대출 금리는 연 3.57~6.15% 수준으로 고시되고 있으며, 4%대 후반에서 주로 대출이 이뤄지고 있다.\n지난 4월 신규취급액 기준 은행 주택담보대출 평균금리는 5.07%였다.\n주택금융공사는 유보금자리론을 출시하면서 30년 만기 대출 상품의 신청 자격을 종전 만 65세 이하에서 만 70세 이하로 완화했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "연 3.3%대의 주택담보대출 상품이 다음주에 출시된다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주택금융공사는 오는 14일 온라인 주택담보대출 상품인 유(u)보금자리론을 출시한다고 10일 밝혔다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "주택금융공사가 채권 관리를 직접 수행해 대출 원가를 낮춤으로써 유보금자리론의 금리도 기존 대출 상품보다 0.4%포인트 내렸다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "금리할인과 설정비 부담 옵션을 선택하면 대출금리가 추가로 0.20%포인트 낮아져 6개월마다 금리가 변하는 코픽스연동형의 경우 최저 연 3.36%, 고정금리는 최저 5.1%가 적용된다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 은행권 변동금리형 주택담보대출보다 크게 낮은 수준이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "은행권 코픽스 연동 주택담보대출 금리는 연 3.57~6.15% 수준으로 고시되고 있으며, 4%대 후반에서 주로 대출이 이뤄지고 있다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지난 4월 신규취급액 기준 은행 주택담보대출 평균금리는 5.07%였다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "주택금융공사는 유보금자리론을 출시하면서 30년 만기 대출 상품의 신청 자격을 종전 만 65세 이하에서 만 70세 이하로 완화했다.",
+				"sentenceSize": 72
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"물류비 상승 등 기업 부담주는 5중고, 내년에도 지속된다\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

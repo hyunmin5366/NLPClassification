@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333932",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "제2 인터넷나야나 사태! 아이웹 랜섬웨어 공격에 고객사 마비",
+		"newsSubTitle": "",
+		"newsContent": "제2 인터넷나야나 사태가 터졌다.\n웹에이전시 '아이웹'이 랜섬웨어 공격으로 마비됐다.\n아이웹뿐만 아니라 3000여개 고객사 홈페이지까지 모두 먹통이 됐다.\n아이웹은 추석 당일인 24일 한국인터넷진흥원(KISA)에 사고를 신고했다.\nKISA는 25일 현장 조사를 벌였다.\n공격에 쓰인 랜섬웨어 종류는 알려지지 않았다.\n공격자는 아이웹에 이메일을 보내 암호화 파일을 풀어 주는 대가를 요구했다.\n인터넷나야나 때처럼 아이웹을 표적한 해킹 후 랜섬웨어 공격이다.\n공격자는 아이웹 중요 데이터베이스(DB)와 백업까지 모두 암호화했다.\nKISA는 지난해 인터넷나야나 사태 후 별도로 구분된 시스템에 백업할 것을 권고했다.\n아이웹은 별도 시스템에 백업하는 규정을 지키지 않았다.\n아이웹은 KISA 신고 후 이틀이 지난 26일 홈페이지에 '긴급공지'를 올려 랜섬웨어 공격으로 복구가 진행되고 있다고 밝혔다.\n아이웹은 \\\"아이웹빌더 전용 서버가 명절 연휴 전문화된 해외 해커 그룹 랜섬웨어 공격을 받아 자료가 암호화됐고 감당할 수 없는 큰 금액을 요구했다\\\"면서 \\\"아이웹, IDC 기술진이 현재 복구 작업을 진행 중이나 중요 DB 영역이 최신 기술로 암호화돼 복구 작업에 더디다\\\"고 알렸다.\n아이웹은 20일 새벽에 공격을 인지했다.\n인지 직후 3000여개 고객사 홈페이지 등이 모두 마비됐다.\n대부분 중∙소 영세업체 홈페이지였다.\n해킹 사실은 외부로 크게 알려지지 않았다.\n실제 아이웹 블로그에서 밝힌 '홈페이지 제작사례' 기업 홈페이지 수십여개가 모두 접속 불가로 나타났다.\n피해는 일파만파 번지고 있다.\nA 아이웹 고객사는 \\\"홈페이지가 접속 불가 상태라는 사실을 전해 받지 못했다\\\"면서 \\\"아이웹 측으로부터 어떤 연락도 받지 못했다\\\"고 말했다.\n다른 피해 기업 관계자는 \\\"홈페이지 내부에서 견적을 내는 기능 등 고객 응대 기능이 있는데 이를 활용하지 못해 피해를 봤다\\\"면서 \\\"아이웹 등 어디서도 제대로 된 정보를 제공하지 않아 어떻게 해야 할지 모르겠다\\\"고 난감해 했다.\n아이웹 관계자는 \\\"연휴가 겹치면서 신고가 제대로 되지 않아 KISA와 경찰청 사이버스수사대에 신고한 후 대응에 나섰다\\\"면서 \\\"백업 DB가 복구되는 대로 고객사에 연락을 취했다\\\"고 해명했다.\n아이웹 고객센터는 홈페이지 방문자용 임시 팝업 및 페이지 제작 준비를 위해 이용자 아이디, 도메인 주소, 상호, 전화번호, 이메일 주소, 관련 자료를 이메일로 보내 줄 것을 요청했다.\n한 보안 전문가는 \\\"보안이 허술한 웹에이전시나 호스팅 기업을 표적한 공격\\\"이라면서 \\\"지난해 인터넷나야나 사태를 겪었지만 별도 시스템 백업 등 기초 보안을 지키지 않아 피해가 발생했다\\\"고 지적했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "제2 인터넷나야나 사태가 터졌다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "웹에이전시 '아이웹'이 랜섬웨어 공격으로 마비됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이웹뿐만 아니라 3000여개 고객사 홈페이지까지 모두 먹통이 됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아이웹은 추석 당일인 24일 한국인터넷진흥원(KISA)에 사고를 신고했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KISA는 25일 현장 조사를 벌였다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "공격에 쓰인 랜섬웨어 종류는 알려지지 않았다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공격자는 아이웹에 이메일을 보내 암호화 파일을 풀어 주는 대가를 요구했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "인터넷나야나 때처럼 아이웹을 표적한 해킹 후 랜섬웨어 공격이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공격자는 아이웹 중요 데이터베이스(DB)와 백업까지 모두 암호화했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "KISA는 지난해 인터넷나야나 사태 후 별도로 구분된 시스템에 백업할 것을 권고했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "아이웹은 별도 시스템에 백업하는 규정을 지키지 않았다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "아이웹은 KISA 신고 후 이틀이 지난 26일 홈페이지에 '긴급공지'를 올려 랜섬웨어 공격으로 복구가 진행되고 있다고 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "아이웹은 \\\"아이웹빌더 전용 서버가 명절 연휴 전문화된 해외 해커 그룹 랜섬웨어 공격을 받아 자료가 암호화됐고 감당할 수 없는 큰 금액을 요구했다\\\"면서 \\\"아이웹, IDC 기술진이 현재 복구 작업을 진행 중이나 중요 DB 영역이 최신 기술로 암호화돼 복구 작업에 더디다\\\"고 알렸다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "아이웹은 20일 새벽에 공격을 인지했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "인지 직후 3000여개 고객사 홈페이지 등이 모두 마비됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "대부분 중∙소 영세업체 홈페이지였다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "해킹 사실은 외부로 크게 알려지지 않았다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "실제 아이웹 블로그에서 밝힌 '홈페이지 제작사례' 기업 홈페이지 수십여개가 모두 접속 불가로 나타났다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "피해는 일파만파 번지고 있다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "A 아이웹 고객사는 \\\"홈페이지가 접속 불가 상태라는 사실을 전해 받지 못했다\\\"면서 \\\"아이웹 측으로부터 어떤 연락도 받지 못했다\\\"고 말했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "다른 피해 기업 관계자는 \\\"홈페이지 내부에서 견적을 내는 기능 등 고객 응대 기능이 있는데 이를 활용하지 못해 피해를 봤다\\\"면서 \\\"아이웹 등 어디서도 제대로 된 정보를 제공하지 않아 어떻게 해야 할지 모르겠다\\\"고 난감해 했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "아이웹 관계자는 \\\"연휴가 겹치면서 신고가 제대로 되지 않아 KISA와 경찰청 사이버스수사대에 신고한 후 대응에 나섰다\\\"면서 \\\"백업 DB가 복구되는 대로 고객사에 연락을 취했다\\\"고 해명했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "아이웹 고객센터는 홈페이지 방문자용 임시 팝업 및 페이지 제작 준비를 위해 이용자 아이디, 도메인 주소, 상호, 전화번호, 이메일 주소, 관련 자료를 이메일로 보내 줄 것을 요청했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "한 보안 전문가는 \\\"보안이 허술한 웹에이전시나 호스팅 기업을 표적한 공격\\\"이라면서 \\\"지난해 인터넷나야나 사태를 겪었지만 별도 시스템 백업 등 기초 보안을 지키지 않아 피해가 발생했다\\\"고 지적했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "제2 인터넷나야나 사태! 아이웹 랜섬웨어 공격에 고객사 마비",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

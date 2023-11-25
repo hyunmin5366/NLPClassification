@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013106",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "외환보유액 3680억 달러, 한국 세계 7위… 1위에서 6위 나라는?",
+		"newsSubTitle": "",
+		"newsContent": "▲ 연합 DB 외환보유액 3680억 달러 우리나라 외환보유액이 13개월 연속 최고치를 기록했다.\n5일 한국은행에 따르면 지난달 기준 외환보유액은 3680억 3천만 달러 우리 돈으로 약 380조 5천억 원으로 한 달 전보다 14억8천만 달러 증가했다고 밝혔다.\n한국은행은 “지난 달에는 외화자산 운용 수익 위주로 외환보유액이 증가했다” 고 밝혔다.\n만기가 도래한 채권에서 이자가 나오고, 일부 채권은 중도 매각해 매매차익을 얻었다.\n6월 말 기준으로 한국의 외환보유액 규모는 세계 7위 수준이다.\n환보유액이 가장 많은 나라는 중국으로 3조9932억 달러 였으며 일본이 1조2839억 달러로 2위, 스위스가 5568억 달러로 3위를 차지했다.\n러시아(4783억 달러), 타이완(4235억 달러), 브라질(3735억 달러) 등이 그 뒤를 이었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 연합 DB 외환보유액 3680억 달러 우리나라 외환보유액이 13개월 연속 최고치를 기록했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "5일 한국은행에 따르면 지난달 기준 외환보유액은 3680억 3천만 달러 우리 돈으로 약 380조 5천억 원으로 한 달 전보다 14억8천만 달러 증가했다고 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국은행은 “지난 달에는 외화자산 운용 수익 위주로 외환보유액이 증가했다” 고 밝혔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "만기가 도래한 채권에서 이자가 나오고, 일부 채권은 중도 매각해 매매차익을 얻었다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "6월 말 기준으로 한국의 외환보유액 규모는 세계 7위 수준이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "환보유액이 가장 많은 나라는 중국으로 3조9932억 달러 였으며 일본이 1조2839억 달러로 2위, 스위스가 5568억 달러로 3위를 차지했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "러시아(4783억 달러), 타이완(4235억 달러), 브라질(3735억 달러) 등이 그 뒤를 이었다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "부실 건설업체 발도 못붙인다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

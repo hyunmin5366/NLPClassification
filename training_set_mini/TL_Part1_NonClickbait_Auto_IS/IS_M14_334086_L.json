@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334086",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "DNS·IP 우회 프로그램 찾다 '랜섬웨어' 감염된다",
+		"newsSubTitle": "",
+		"newsContent": "성인 사이트 등 불법 해외 사이트 차단을 우회하는 접속 프로그램을 악용한 랜섬웨어 공격이 발견됐다.\n정부는 최근 SNI(Server Name Indication)를 이용해 불법 해외 사이트 800여곳을 차단했다.\n일부 네티즌은 정부 차단을 우회하는 프로그램으로 사이트에 접속한다. 14일 체크멀은 DNS∙IP 우회 등 구글 검색 후 파일 다운로드 과정에서 '갠드크랩 랜섬웨어 5.1' 감염을 유발하는 공격을 포착했다.\n사용자가 포털사이트를 이용해 'DNS 우회 프로그램 다운로드' 등 검색으로 특정 사이트 이용 시 랜섬웨어가 포함된 압축파일 다운로드 링크를 제공한다.\n사이트는 한글 문답형식으로 'DNS 우회 프로그램'을 설명∙다운로드 안내한다.\n한글로 설명돼 있으며 '.org' 도메인을 사용해 신뢰를 높여 의심을 피했다.\n다운로드된 압축 파일(ZIP) 해제 시 1개 '자바스크립트(JavaScript)' 파일이 생성된다.\n윈도 탐색기 기본값에서는 파일 확장명이 표시되지 않는다.\n폴더 옵션에서 '알려진 파일 형식의 파일 확장명 숨기기' 체크 박스를 해제할 경우 '.js' 파일 확장명이 표시된다.\n압축 해제 된 파일을 더블클릭 하면 주요파일이 암호화 된다.\n이후 암호화된 파일이 위치한 폴더마다 '암호화 확장명-DECRYPT.txt' 랜섬웨어 결제 안내 파일을 생성한다.\n현재 배포된 버전은 갠드크랩 5.1버전 이다.\n해당 버전은 복호화 툴 등이 공개 돼 있지 않아 사실상 치료 방법이 없다.\n방송통신위원회는 지난 12일 보안접속(https)이나 우회접속 방식으로 유통되는 해외 서버 기반 음란, 도박, 저작권 위반 사이트 차단을 발표했다.\n이에 반발해 우회 프로그램을 찾는 사용자가 늘자 공격자는 이를 악용, 랜섬웨어를 유포했다.\n체크멀 관계자는 \\\"해커는 사회 관심 분야를 노리고 공격 방식을 다양화 해 랜섬웨어를 유포한다\\\"면서 \\\"보안 업데이트를 생활화 하고 의식되는 파일을 직접 실행하지 않도록 주의해야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "성인 사이트 등 불법 해외 사이트 차단을 우회하는 접속 프로그램을 악용한 랜섬웨어 공격이 발견됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "정부는 최근 SNI(Server Name Indication)를 이용해 불법 해외 사이트 800여곳을 차단했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "일부 네티즌은 정부 차단을 우회하는 프로그램으로 사이트에 접속한다. 14일 체크멀은 DNS∙IP 우회 등 구글 검색 후 파일 다운로드 과정에서 '갠드크랩 랜섬웨어 5.1' 감염을 유발하는 공격을 포착했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "사용자가 포털사이트를 이용해 'DNS 우회 프로그램 다운로드' 등 검색으로 특정 사이트 이용 시 랜섬웨어가 포함된 압축파일 다운로드 링크를 제공한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사이트는 한글 문답형식으로 'DNS 우회 프로그램'을 설명∙다운로드 안내한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한글로 설명돼 있으며 '.org' 도메인을 사용해 신뢰를 높여 의심을 피했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "다운로드된 압축 파일(ZIP) 해제 시 1개 '자바스크립트(JavaScript)' 파일이 생성된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "윈도 탐색기 기본값에서는 파일 확장명이 표시되지 않는다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "폴더 옵션에서 '알려진 파일 형식의 파일 확장명 숨기기' 체크 박스를 해제할 경우 '.js' 파일 확장명이 표시된다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "압축 해제 된 파일을 더블클릭 하면 주요파일이 암호화 된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이후 암호화된 파일이 위치한 폴더마다 '암호화 확장명-DECRYPT.txt' 랜섬웨어 결제 안내 파일을 생성한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "현재 배포된 버전은 갠드크랩 5.1버전 이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "해당 버전은 복호화 툴 등이 공개 돼 있지 않아 사실상 치료 방법이 없다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "방송통신위원회는 지난 12일 보안접속(https)이나 우회접속 방식으로 유통되는 해외 서버 기반 음란, 도박, 저작권 위반 사이트 차단을 발표했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이에 반발해 우회 프로그램을 찾는 사용자가 늘자 공격자는 이를 악용, 랜섬웨어를 유포했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "체크멀 관계자는 \\\"해커는 사회 관심 분야를 노리고 공격 방식을 다양화 해 랜섬웨어를 유포한다\\\"면서 \\\"보안 업데이트를 생활화 하고 의식되는 파일을 직접 실행하지 않도록 주의해야 한다\\\"고 말했다.",
+				"sentenceSize": 111
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "DNS·IP 우회 프로그램 찾다 '랜섬웨어' 감염된다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329506",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "오에스씨-액소니크, 전략적 제휴…이벤트 주도 아키텍처 도입 지원",
+		"newsSubTitle": "",
+		"newsContent": "마이크로서비스 아키텍처(MSA) 전문기업 오에스씨코리아(대표 이제응, 이하 오에스씨)는 엔드투엔드 개발 프레임워크·인프라 플랫폼 기업 액소니크(AxonIQ)와 전략적 파트너십을 체결하고 국내 시장을 함께 공략한다고 28일 밝혔다.\n오에스씨는 MSA 컨설팅과 구축 서비스를 고객에 제공하고 있다.\n특히 오픈소스로만 구성된 오픈MSA 플랫폼을 고객에게 제공, 오픈소스 기술지원과 기업이 필요한 경우 엔터프라이즈향 상용 솔루션을 제공해 오픈소스와 상용 서비스 간의 상호 보완이 가능하도록 고객을 지원하고 있다.\n액소니크는 도메인주도설계(DDD), CQRS(Command and Query Responsibility Segregation), 이벤트 소싱 등을 기반으로 기업이 이벤트 주도로 아키텍처(Event Driven Architecture) 도입을 손쉽게 지원하는 엔드투엔드 개발 프레임워크·인프라 플랫폼 기업이다.\n많은 기업과 개발자들은 DDD, CQRS, 이벤트 소싱 패턴을 애플리케이션 현대화 과정에 적용하고 싶어한다.\n룰 기반 서비스 대신 이벤트에 기반해 데이터를 공유하는 마이크로서비스를 만들 수 있기 때문이다.\n마이크로서비스는 효율적으로 확장이 가능하지만 탄탄한 프레임워크 없이는 개발과 관리가 매우 어렵다는 단점이 있다.\n액소니크를 통해 개발자는 손쉽게 CQRS, DDD 방법론을 개발 과정에 도입하고 그에 필요한 기술지원을 받을 수 있다.\n이제응 대표는 “액소니크와 파트너십을 통해 국내 고객에게 비즈니스 중심의 IT 컨설팅을 제공하고 국내 실정에 맞는 기술지원체계를 확보해 최신 소프트웨어 개발 트렌드를 소개한다”면서 “DDD, CQRS, 이벤트 소싱 등 기법을 개발팀과 데브옵스팀이 제대로 사용할 수 있도록 컨설팅, 기술지원 등을 제공한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "마이크로서비스 아키텍처(MSA) 전문기업 오에스씨코리아(대표 이제응, 이하 오에스씨)는 엔드투엔드 개발 프레임워크·인프라 플랫폼 기업 액소니크(AxonIQ)와 전략적 파트너십을 체결하고 국내 시장을 함께 공략한다고 28일 밝혔다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오에스씨는 MSA 컨설팅과 구축 서비스를 고객에 제공하고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "특히 오픈소스로만 구성된 오픈MSA 플랫폼을 고객에게 제공, 오픈소스 기술지원과 기업이 필요한 경우 엔터프라이즈향 상용 솔루션을 제공해 오픈소스와 상용 서비스 간의 상호 보완이 가능하도록 고객을 지원하고 있다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "액소니크는 도메인주도설계(DDD), CQRS(Command and Query Responsibility Segregation), 이벤트 소싱 등을 기반으로 기업이 이벤트 주도로 아키텍처(Event Driven Architecture) 도입을 손쉽게 지원하는 엔드투엔드 개발 프레임워크·인프라 플랫폼 기업이다.",
+				"sentenceSize": 172
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "많은 기업과 개발자들은 DDD, CQRS, 이벤트 소싱 패턴을 애플리케이션 현대화 과정에 적용하고 싶어한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "룰 기반 서비스 대신 이벤트에 기반해 데이터를 공유하는 마이크로서비스를 만들 수 있기 때문이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "마이크로서비스는 효율적으로 확장이 가능하지만 탄탄한 프레임워크 없이는 개발과 관리가 매우 어렵다는 단점이 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "액소니크를 통해 개발자는 손쉽게 CQRS, DDD 방법론을 개발 과정에 도입하고 그에 필요한 기술지원을 받을 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이제응 대표는 “액소니크와 파트너십을 통해 국내 고객에게 비즈니스 중심의 IT 컨설팅을 제공하고 국내 실정에 맞는 기술지원체계를 확보해 최신 소프트웨어 개발 트렌드를 소개한다”면서 “DDD, CQRS, 이벤트 소싱 등 기법을 개발팀과 데브옵스팀이 제대로 사용할 수 있도록 컨설팅, 기술지원 등을 제공한다”고 말했다.",
+				"sentenceSize": 176
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오에스씨-액소니크, 전략적 제휴…이벤트 주도 아키텍처 도입 지원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

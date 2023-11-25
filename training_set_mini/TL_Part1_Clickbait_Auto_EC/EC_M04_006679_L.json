@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006679",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "무더위·장마… 물가 심상찮네",
+		"newsSubTitle": "닭고기·채소 대부분 상승세… 마늘 전월비 24% ↑",
+		"newsContent": "무더위와 장마 영향으로 닭고기, 채소 등 대부분의 물가가 상승세를 나타냈다.\n15일 (사)한국물가협회 대전지회에 따르면 지난 월드컵 특수 열기에 이어 무더위로 인한 보양식 수요 증가로 닭고기 가격이 지난달 대비 20.8%(1마리 6980원) 상승했다.\n닭고기의 대체상품인 돼지고기와 소고기 역시 지난달보다 각각 4.7%(500g 9000원), 2.6%(500g 3만9000원)씩 올랐다.\n채소류 가격도 함께 올라 물가상승 요인으로 손꼽혔다.\n마늘은 지난달보다 23.9%나 오른 8400원(1kg)에 거래됐으며 시금치도 지난달 가격과 비교해 21.7%(1단 1680원)의 상승세를 보였다.\n상추도 지난달 가격보다 11.4% 상승한 780원(100g)에 판매됐다.\n이와 달리 지난달 매실 출하시기와 맞물려 매실주를 담그는 수요에 따라 상승세를 탔던 설탕 가격은 이달 들어서는 수요 감소로 10.9%(1봉 1230원) 하락했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "무더위와 장마 영향으로 닭고기, 채소 등 대부분의 물가가 상승세를 나타냈다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "15일 (사)한국물가협회 대전지회에 따르면 지난 월드컵 특수 열기에 이어 무더위로 인한 보양식 수요 증가로 닭고기 가격이 지난달 대비 20.8%(1마리 6980원) 상승했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "닭고기의 대체상품인 돼지고기와 소고기 역시 지난달보다 각각 4.7%(500g 9000원), 2.6%(500g 3만9000원)씩 올랐다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "채소류 가격도 함께 올라 물가상승 요인으로 손꼽혔다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "마늘은 지난달보다 23.9%나 오른 8400원(1kg)에 거래됐으며 시금치도 지난달 가격과 비교해 21.7%(1단 1680원)의 상승세를 보였다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "상추도 지난달 가격보다 11.4% 상승한 780원(100g)에 판매됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이와 달리 지난달 매실 출하시기와 맞물려 매실주를 담그는 수요에 따라 상승세를 탔던 설탕 가격은 이달 들어서는 수요 감소로 10.9%(1봉 1230원) 하락했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "교촌, 상장예비심사 문턱 넘어…프랜차이즈업계 기대감 ↑",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

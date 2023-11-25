@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323939",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "박동훈 르노삼성차 사장 “올해 QM6 수출 4만대까지 확대”",
+		"newsSubTitle": "",
+		"newsContent": "박동훈 르노삼성자동차 사장은 7일 인천에서 열린 QM6 가솔린 시승행사에 참석해 “지난해 9월 QM6 출시 이후 연말까지 5700대를 수출했다”며 “올해는 글로벌 시장에 4만대가량을 수출할 것으로 예상한다”고 밝혔다.\n박 사장은 QM6 가솔린 모델에 대해 “SUV는 예전처럼 오프로드(비포장도로)를 즐기는 사람만이 타는 차량이 아니다”면서 “도심 주행에 최적화한 가솔린 엔진을 탑재했다”고 말했다.\n르노삼성차가 이달 1일부터 판매를 시작한 QM6 가솔린 모델 GDe는 2.0ℓ 자연흡기 GDI 가솔린 엔진과 일본 자트코(JATCO) 사의 최신 무단변속기(CVT)를 탑재했다.\nQM6 GDe 2WD 가솔린 모델은 중형 가솔린 SUV 중 가장 높은 11.7ℓ/㎞의 연비를 실현했다.\n르노삼성차는 3년간 총 운영비(TCO)가 3717만 원으로 싼타페, 투싼, 쏘렌토 등 경쟁 디젤 SUV보다 비슷하거나 낮다고 설명했다.\n박 사장은 “QM6의 강점은 디자인과 연비, 정숙성”이라며 “도심형 SUV 시장을 공략해 전체 QM6 판매량 가운데 40% 정도를 가솔린 모델로 채우겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "박동훈 르노삼성자동차 사장은 7일 인천에서 열린 QM6 가솔린 시승행사에 참석해 “지난해 9월 QM6 출시 이후 연말까지 5700대를 수출했다”며 “올해는 글로벌 시장에 4만대가량을 수출할 것으로 예상한다”고 밝혔다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "박 사장은 QM6 가솔린 모델에 대해 “SUV는 예전처럼 오프로드(비포장도로)를 즐기는 사람만이 타는 차량이 아니다”면서 “도심 주행에 최적화한 가솔린 엔진을 탑재했다”고 말했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "르노삼성차가 이달 1일부터 판매를 시작한 QM6 가솔린 모델 GDe는 2.0ℓ 자연흡기 GDI 가솔린 엔진과 일본 자트코(JATCO) 사의 최신 무단변속기(CVT)를 탑재했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "QM6 GDe 2WD 가솔린 모델은 중형 가솔린 SUV 중 가장 높은 11.7ℓ/㎞의 연비를 실현했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "르노삼성차는 3년간 총 운영비(TCO)가 3717만 원으로 싼타페, 투싼, 쏘렌토 등 경쟁 디젤 SUV보다 비슷하거나 낮다고 설명했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "박 사장은 “QM6의 강점은 디자인과 연비, 정숙성”이라며 “도심형 SUV 시장을 공략해 전체 QM6 판매량 가운데 40% 정도를 가솔린 모델로 채우겠다”고 말했다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "박동훈 르노삼성차 사장 “올해 QM6 수출 4만대까지 확대”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

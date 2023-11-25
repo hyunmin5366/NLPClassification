@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350196",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "오락가락 배달 예상시간 이제 그만…'배민' 도착시간 정확해진다",
+		"newsSubTitle": "null",
+		"newsContent": "그동안 오락가락했던 배달앱 '배달의민족'의 배달예상 시간이 보다 정확해질 전망이다.\n1일 관련업계에 따르면, 배민은 이날부터 '맞춤 배달예상시간'을 전국으로 확대한다.\n앞서 배민은 지난달 11일 서울에서 맞춤 배달예상시간 시스템을 도입했다.\n기존에는 음식점주가 배달 예상시간을 직접 입력하다 보니, 소비자와의 거리나 실시간 교통상황 등을 반영하기 어려워 정확성이 떨어졌다.\n앞으로는 음식점주가 조리시간만 입력하면 배달 대행 서비스의 픽업·배달완료 시간 데이터를 기반으로 배달 예상시간을 자동 계산해준다.\n△최근 한 달간의 배달 수행 데이터 △최근 30분 이내 픽업시간 △주문자와의 거리 등을 반영해 배달 예상시간을 산출하는 방식이다.\n또 이용자는 '주문접수-배달시작-배달완료' 세 가지 단계로 실시간 배달현황을 확인할 수 있다.\n배민 측은 \\\"맞춤 배달예상시간을 이용하면 배민 앱에서 각 배달 단계마다 이용자에게 알림을 보낸다\\\"라며 \\\"배달 상황을 실시간으로 알고 싶어하는 이용자 문의가 줄어들 것\\\"이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "그동안 오락가락했던 배달앱 '배달의민족'의 배달예상 시간이 보다 정확해질 전망이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 관련업계에 따르면, 배민은 이날부터 '맞춤 배달예상시간'을 전국으로 확대한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "앞서 배민은 지난달 11일 서울에서 맞춤 배달예상시간 시스템을 도입했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존에는 음식점주가 배달 예상시간을 직접 입력하다 보니, 소비자와의 거리나 실시간 교통상황 등을 반영하기 어려워 정확성이 떨어졌다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞으로는 음식점주가 조리시간만 입력하면 배달 대행 서비스의 픽업·배달완료 시간 데이터를 기반으로 배달 예상시간을 자동 계산해준다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "△최근 한 달간의 배달 수행 데이터 △최근 30분 이내 픽업시간 △주문자와의 거리 등을 반영해 배달 예상시간을 산출하는 방식이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 이용자는 '주문접수-배달시작-배달완료' 세 가지 단계로 실시간 배달현황을 확인할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "배민 측은 \\\"맞춤 배달예상시간을 이용하면 배민 앱에서 각 배달 단계마다 이용자에게 알림을 보낸다\\\"라며 \\\"배달 상황을 실시간으로 알고 싶어하는 이용자 문의가 줄어들 것\\\"이라고 설명했다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오락가락 배달 예상시간 이제 그만…'배민' 도착시간 정확해진다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

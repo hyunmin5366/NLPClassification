@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007902",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "이직하고파 61.6%... 행동 옮겼다 12.4%",
+		"newsSubTitle": "전국 직장인 500명 설문",
+		"newsContent": "직장인 절반 이상이 이직을 결심하고, 10명 중 1명은 실제 이직에 성공한 것으로 조사됐다.\n취업·인사포털 인크루트(주)가 최근 전국의 남녀 직장인 500명을 대상으로 2010년 직장인 이직 결산 조사를 한 결과, 전체의 61.6%(308명)가 이직하려고 마음먹었거나 계획을 세운 경험이 있다고 답했다.\n하지만 실제 행동에 나선 비율은 이 가운데 절반(46.4%, 308명 중 143명)으로 줄었다.\n전체의 28.6%(143명)만 이직 계획에 그치지 않고, 입사지원을 하는 등 실제 이직을 시도한 것이다.\n이직을 시도한 직장인의 43.3% 전체로는 12.4%(62명)만이 이직에 성공해 직장을 옮긴 것으로 집계됐다.\n결국 지난해 직장인 10명 중 6명이 이직을 결심했지만 성공한 사람은 1명 남짓인 셈이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "직장인 절반 이상이 이직을 결심하고, 10명 중 1명은 실제 이직에 성공한 것으로 조사됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "취업·인사포털 인크루트(주)가 최근 전국의 남녀 직장인 500명을 대상으로 2010년 직장인 이직 결산 조사를 한 결과, 전체의 61.6%(308명)가 이직하려고 마음먹었거나 계획을 세운 경험이 있다고 답했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "하지만 실제 행동에 나선 비율은 이 가운데 절반(46.4%, 308명 중 143명)으로 줄었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전체의 28.6%(143명)만 이직 계획에 그치지 않고, 입사지원을 하는 등 실제 이직을 시도한 것이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이직을 시도한 직장인의 43.3% 전체로는 12.4%(62명)만이 이직에 성공해 직장을 옮긴 것으로 집계됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "결국 지난해 직장인 10명 중 6명이 이직을 결심했지만 성공한 사람은 1명 남짓인 셈이다.",
+				"sentenceSize": 50
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "정부·한은 \\\"국고채 추가 단순매입 추진\\\"…물가안정 주력(종합)",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

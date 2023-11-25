@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337826",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "전자산업",
+		"newsTitle": "[국내 10대 뉴스]국정농단 사태 후폭풍 '재계 수난시대'",
+		"newsSubTitle": "",
+		"newsContent": "지난해 말 대통령 탄핵을 이끌었던 국정농단 사태는 올해에도 재계 곳곳에 영향을 미치고 있다.\n삼성과 롯데 등 일부 대기업 총수가 잇따라 재판을 받았고, 이에 따른 총수 공백이 이어졌다.\n삼성은 여전히 '오너 리스크'로 인해 대규모 인수합병(M&A) 등 미래 투자에 적극적으로 뛰어들지 못하고 있다.\n재계에서는 국정농단 사태와 관련, 오해와 시비에 휘말리지 않기 위해 사회 활동과 소통에 소극적인 모습을 보인다.\n새 정권과의 불협화음도 감지된다.\n현 정부가 최저임금 인상과 근로시간 단축 등 노동 정책에 속도를 내면서 재계 반발도 커졌다.\n경제계 현실을 반영해야한다는 재계와 노동 환경을 개선하려는 정부의 엇박자로 기업은 제대로 된 방향을 찾지 못하고 우왕좌왕하는 모양새다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 말 대통령 탄핵을 이끌었던 국정농단 사태는 올해에도 재계 곳곳에 영향을 미치고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성과 롯데 등 일부 대기업 총수가 잇따라 재판을 받았고, 이에 따른 총수 공백이 이어졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성은 여전히 '오너 리스크'로 인해 대규모 인수합병(M&A) 등 미래 투자에 적극적으로 뛰어들지 못하고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "재계에서는 국정농단 사태와 관련, 오해와 시비에 휘말리지 않기 위해 사회 활동과 소통에 소극적인 모습을 보인다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "새 정권과의 불협화음도 감지된다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현 정부가 최저임금 인상과 근로시간 단축 등 노동 정책에 속도를 내면서 재계 반발도 커졌다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "경제계 현실을 반영해야한다는 재계와 노동 환경을 개선하려는 정부의 엇박자로 기업은 제대로 된 방향을 찾지 못하고 우왕좌왕하는 모양새다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국내 10대 뉴스]국정농단 사태 후폭풍 '재계 수난시대'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

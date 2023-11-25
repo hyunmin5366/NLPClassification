@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000289",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "BMW 화재, 경쟁사 판매량에 영향 못 미쳐",
+		"newsSubTitle": "",
+		"newsContent": "BMW 화재 사건으로 렌터카 업계를 중심으로 현대자동차 대형 세단 그랜저의 판매량이 개선될 것이라는 전망과 달리 실제 큰 영향은 없는 것으로 드러났다.\nBMW코리아는 지난 1일부터 긴급 안전점검 대상 차주 요구 시 렌터카를 제공했다.\n이어 16일 정부의 운행정지명령에 앞서 14일 1만 5천 대의 추가 렌터카를 확보하고 무료 대차 서비스를 제공했다.\n이 과정에서 BMW 고객들은 자동차보험 표준약관에 따르면 동급 배기량인 쏘나타나 기아 K5를 받아야 했으나 그랜저 차량을 주로 제공 받았다.\n반면, 현대자동차 관계자는 미디어SR에 \\\"법인 대상 판매 실적을 별도로 공개하지는 않고 있지만, 그랜저 차량 판매량은 통상적인 수준\\\"이라고 말했다.\n렌터카 업계 관계자는 \\\"주요 대형 렌터카 업체의 단기 차량 보유 비중이 높지 않아 차량이 부족해 BMW코리아 측에 그랜저를 우선 배정한 것은 맞지만 이를 위해 고가의 차량을 구매한다는 것은 인과관계가 맞지 않는다\\\"며 \\\"올해 차량 매입은 계획된 물량대로 진행되었다\\\"고 덧붙였다.\n한국렌터카사업조합연합회 관계자는 \\\"국토교통부에서 공문이 내려와 BMW 협조 요청을 해 각 지역조합에 해당 사실을 전달했지만 차량과 관련해 BMW 별도 요구는 없었다\\\"고 설명했다.\n이어 그는 \\\"각 지역 조합이 BMW 서비스센터와 각각 협의했다. 보험 약관이 개정된 사실을 모르는 고객도 있어 최대한 BMW 쪽에서 고객 요구에 맞춰준 것으로 안다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "BMW 화재 사건으로 렌터카 업계를 중심으로 현대자동차 대형 세단 그랜저의 판매량이 개선될 것이라는 전망과 달리 실제 큰 영향은 없는 것으로 드러났다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "BMW코리아는 지난 1일부터 긴급 안전점검 대상 차주 요구 시 렌터카를 제공했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 16일 정부의 운행정지명령에 앞서 14일 1만 5천 대의 추가 렌터카를 확보하고 무료 대차 서비스를 제공했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 과정에서 BMW 고객들은 자동차보험 표준약관에 따르면 동급 배기량인 쏘나타나 기아 K5를 받아야 했으나 그랜저 차량을 주로 제공 받았다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "반면, 현대자동차 관계자는 미디어SR에 \\\"법인 대상 판매 실적을 별도로 공개하지는 않고 있지만, 그랜저 차량 판매량은 통상적인 수준\\\"이라고 말했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "렌터카 업계 관계자는 \\\"주요 대형 렌터카 업체의 단기 차량 보유 비중이 높지 않아 차량이 부족해 BMW코리아 측에 그랜저를 우선 배정한 것은 맞지만 이를 위해 고가의 차량을 구매한다는 것은 인과관계가 맞지 않는다\\\"며 \\\"올해 차량 매입은 계획된 물량대로 진행되었다\\\"고 덧붙였다.",
+				"sentenceSize": 158
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국렌터카사업조합연합회 관계자는 \\\"국토교통부에서 공문이 내려와 BMW 협조 요청을 해 각 지역조합에 해당 사실을 전달했지만 차량과 관련해 BMW 별도 요구는 없었다\\\"고 설명했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 그는 \\\"각 지역 조합이 BMW 서비스센터와 각각 협의했다. 보험 약관이 개정된 사실을 모르는 고객도 있어 최대한 BMW 쪽에서 고객 요구에 맞춰준 것으로 안다\\\"고 말했다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘최순실 게이트’ 대덕특구 기관장 선임에 영향 미칠까",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326848",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "'車 반도체 부족' 한국지엠, 다음주 부평1·2공장 생산 중단",
+		"newsSubTitle": "",
+		"newsContent": "한국지엠이 차량용 반도체 부족으로 다음주 부평1·2공장 생산라인을 멈춰 세운다.\n한국지엠은 차량용 반도체 부족으로 19일부터 일주일간 부평1·2공장에서 생산을 중단할 계획이라고 15일 밝혔다.\n부평1공장은 쉐보레 '트레일블레이저', 부평2공장은 쉐보레 '말리부' '트랙스'를 생산하고 있다.\n한국지엠은 지난 2월8일부터 부평2공장 가동률을 50%로 낮춰 반도체 부족 상황에 대응해왔지만 결국 생산을 중단했다.\n생산이 26일부터 재개될지는 불확실하다.\n한국지엠은 차량용 반도체 확보 상황 등을 고려해 다음주 중 운영 계획을 확정할 계획이다.\n한국지엠은 협력업체와 긴밀히 협의해 생산에 필요한 차량용 반도체를 확보할 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국지엠이 차량용 반도체 부족으로 다음주 부평1·2공장 생산라인을 멈춰 세운다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국지엠은 차량용 반도체 부족으로 19일부터 일주일간 부평1·2공장에서 생산을 중단할 계획이라고 15일 밝혔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "부평1공장은 쉐보레 '트레일블레이저', 부평2공장은 쉐보레 '말리부' '트랙스'를 생산하고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "한국지엠은 지난 2월8일부터 부평2공장 가동률을 50%로 낮춰 반도체 부족 상황에 대응해왔지만 결국 생산을 중단했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "생산이 26일부터 재개될지는 불확실하다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국지엠은 차량용 반도체 확보 상황 등을 고려해 다음주 중 운영 계획을 확정할 계획이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국지엠은 협력업체와 긴밀히 협의해 생산에 필요한 차량용 반도체를 확보할 방침이다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'車 반도체 부족' 한국지엠, 다음주 부평1·2공장 생산 중단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

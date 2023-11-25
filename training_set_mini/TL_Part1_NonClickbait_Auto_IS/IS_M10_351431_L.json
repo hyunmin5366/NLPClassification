@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351431",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"클라우드 해킹, 권한 관리만 잘 해도 충분히 예방 가능\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "코로나19(COVID-19) 확산으로 클라우드 활용이 늘어남에 따라 이를 노린 해커 공격과 정보유출 사고도 잇따른다.\n유연하고 혁신적인 클라우드를 도입하고 싶지만 보안 위협 때문에 주저하는 기업도 적지 않다.\n위수복 안랩 클라우드서비스팀 팀장은 8일 머니투데이가 진행한 'K클라우드·DX 프런티어' 웨비나에서 '클라우드 MSP와 보안 중요성'을 주제로 발표했다.\n이날 위 팀장은 \\\"보안 사고 대부분은 내부 권한관리에 실패한 탓\\\"이라며 \\\"반대로 클라우드 권한만 올바르게 설정하면 사고 상당수를 예방할 수 있다는 의미\\\"라고 설명했다.\n위 팀장은 많은 기업들이 사용하고 있는 아마존웹서비스(AWS)를 사례로 내부 권한관리 노하우를 소개했다.\nAWS에 처음 가입하면 발급되는 이용자 계정(Account)은 모든 시스템에 접근 권한을 갖는 이용자(Root User)다.\n해커가 만약 이 계정을 해킹한다면 한번 공격에 성공하면 모든 리소스에 접근할 수 있는 권한을 갖게 된다.\n위 팀장은 리소스 접근을 안전하게 제어할 수 있는 AWS IAM(Identity and Access Management) 시스템을 이용할 것을 제언했다.\n이를 통해 개별 이용자(User)와 특정 직무를 수행하는 이용자 단위인 그룹(Group) 등 주체 별로 접근 권한을 따로 설정할 수 있다.\n개발자는 개발 시스템에만, 운영 관리자는 운영 시스템에만 접근할 수 있게 된다.\n안랩도 '안랩 클라우드' 서비스를 통해 고객 업무를 파악하고 시스템 사용 및 관리 현황을 분석함으로써 고객사 환경에 맞춘 클라우드 환경을 제안해준다.\n위 팀장은 \\\"클라우드 환경은 첫 설계 단계부터 시스템 권한 관리 등 보안을 고려한 설계가 중요하다\\\"며 \\\"추후 서비스를 추가하더라도 안정적으로 관리할 수 있기 때문\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19(COVID-19) 확산으로 클라우드 활용이 늘어남에 따라 이를 노린 해커 공격과 정보유출 사고도 잇따른다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "유연하고 혁신적인 클라우드를 도입하고 싶지만 보안 위협 때문에 주저하는 기업도 적지 않다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "위수복 안랩 클라우드서비스팀 팀장은 8일 머니투데이가 진행한 'K클라우드·DX 프런티어' 웨비나에서 '클라우드 MSP와 보안 중요성'을 주제로 발표했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 위 팀장은 \\\"보안 사고 대부분은 내부 권한관리에 실패한 탓\\\"이라며 \\\"반대로 클라우드 권한만 올바르게 설정하면 사고 상당수를 예방할 수 있다는 의미\\\"라고 설명했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "위 팀장은 많은 기업들이 사용하고 있는 아마존웹서비스(AWS)를 사례로 내부 권한관리 노하우를 소개했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "AWS에 처음 가입하면 발급되는 이용자 계정(Account)은 모든 시스템에 접근 권한을 갖는 이용자(Root User)다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해커가 만약 이 계정을 해킹한다면 한번 공격에 성공하면 모든 리소스에 접근할 수 있는 권한을 갖게 된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "위 팀장은 리소스 접근을 안전하게 제어할 수 있는 AWS IAM(Identity and Access Management) 시스템을 이용할 것을 제언했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이를 통해 개별 이용자(User)와 특정 직무를 수행하는 이용자 단위인 그룹(Group) 등 주체 별로 접근 권한을 따로 설정할 수 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "개발자는 개발 시스템에만, 운영 관리자는 운영 시스템에만 접근할 수 있게 된다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "안랩도 '안랩 클라우드' 서비스를 통해 고객 업무를 파악하고 시스템 사용 및 관리 현황을 분석함으로써 고객사 환경에 맞춘 클라우드 환경을 제안해준다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "위 팀장은 \\\"클라우드 환경은 첫 설계 단계부터 시스템 권한 관리 등 보안을 고려한 설계가 중요하다\\\"며 \\\"추후 서비스를 추가하더라도 안정적으로 관리할 수 있기 때문\\\"이라고 말했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"클라우드 해킹, 권한 관리만 잘 해도 충분히 예방 가능\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

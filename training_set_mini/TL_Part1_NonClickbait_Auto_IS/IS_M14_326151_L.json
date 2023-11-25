@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326151",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "[WIS 2021]WIS 2021 혁신상- 우수상- 쓰리엘랩스 '보행분석 시스템'",
+		"newsSubTitle": "",
+		"newsContent": "쓰리엘랩스가 사물인터넷(IoT)과 인공지능(AI) 기술로 개발한 보행분석 시스템이 월드IT쇼(WIS) 2021 혁신상 IoT 분야 우수상을 수상했다.\n쓰리엘랩스는 디지털압력센서, 저장장치, 무선충전회로 등을 내장한 신발 깔창 '풋로거'(footLogger)로 데이터를 수집한다. 100% 충전 시 최대 3일간 데이터를 수집할 수 있다.\n풋로거는 세계 최초 스마트폰 없이 보행 데이터를 수집·전송하는 유일한 제품이다.\n수집한 정보는 클라우드 기반 보행데이터분석시스템(fGait)에 전달돼 보행에 영향을 주는 치매, 낙상, 파킨슨, 뇌졸중, 퇴행성관절염 등 다양한 질병을 조기 예측한다.\n풋로거를 장착한 신발은 쓰리엘랩스가 개발한 '슈즈스테이션'에 올려놓으면 자동 충전된다.\n쓰리엘랩스는 보행연구, 의료·헬스케어, 스포츠, 가상현실(VR), 착용형 로봇 등 다양한 분야에 활용 가능하다고 자신했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "쓰리엘랩스가 사물인터넷(IoT)과 인공지능(AI) 기술로 개발한 보행분석 시스템이 월드IT쇼(WIS) 2021 혁신상 IoT 분야 우수상을 수상했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "쓰리엘랩스는 디지털압력센서, 저장장치, 무선충전회로 등을 내장한 신발 깔창 '풋로거'(footLogger)로 데이터를 수집한다. 100% 충전 시 최대 3일간 데이터를 수집할 수 있다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "풋로거는 세계 최초 스마트폰 없이 보행 데이터를 수집·전송하는 유일한 제품이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수집한 정보는 클라우드 기반 보행데이터분석시스템(fGait)에 전달돼 보행에 영향을 주는 치매, 낙상, 파킨슨, 뇌졸중, 퇴행성관절염 등 다양한 질병을 조기 예측한다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "풋로거를 장착한 신발은 쓰리엘랩스가 개발한 '슈즈스테이션'에 올려놓으면 자동 충전된다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "쓰리엘랩스는 보행연구, 의료·헬스케어, 스포츠, 가상현실(VR), 착용형 로봇 등 다양한 분야에 활용 가능하다고 자신했다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[WIS 2021]WIS 2021 혁신상- 우수상- 쓰리엘랩스 '보행분석 시스템'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

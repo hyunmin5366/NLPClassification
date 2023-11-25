@@ -1,0 +1,285 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329132",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[결산]랜섬웨어 창궐에 가상화폐 노린 해킹 급증",
+		"newsSubTitle": "",
+		"newsContent": "올해 보안 위협은 '랜섬웨어' 공격 진화였다.\n지난 5월 마이크로소프트 윈도 보안 취약점을 이용해 네트워크 웜 형태로 전파하는 랜섬웨어 '워너크라이'가 세계를 강타했다.\n국내서는 웹 호스팅 서비스를 겨냥한 맞춤형 리눅스 랜섬웨어 '에레버스'가 나타났다.\n인터넷나야나는 에레버스 감염 후 13억원이라는 사상 최대 몸값을 지불하고 랜섬웨어 피해를 복구하는데 안간힘을 썼다.\n세계 보안 역사에 남을 사건으로 기억됐다.\n랜섬웨어 몸값 지불은 가상화폐가 주류를 이뤘다.\n가상화폐 가격이 폭등하면서 랜섬웨어는 더욱 늘어났다.\n공격자는 아예 가상화폐 거래소나 이용자를 노리는 형태로 눈을 돌렸다.\n가상화폐 보유자와 거래소 직원을 대상으로 피싱과 표적 공격이 줄을 이었다.\n가상화폐거래소인 빗썸과 유빗 등이 해킹 피해를 입었다.\n유빗은 해킹으로 파산을 신청했다.\n올해 해커는 금전 이익을 올리는 데 열을 올렸다.\n3월 국내 최초로 ATM을 해킹한 사례가 발견됐다.\n공격자는 카드 정보를 유출해 부정 결제로 1억원 이상 피해를 입혔다.\n사행성 게임 정보를 탈취하는 악성코드도 대량 유포됐다.\n사이버 공격 수법은 더욱 은밀해졌다.\n소프트웨어 개발, 공급업체 해킹이 늘었다.\nSW 개발 배포서버가 주요 공격 대상이다.\n해당 SW를 설치한 PC나 서버를 한꺼번에 감염시키는 공급망 공격이다.\n우크라이나 정부 랜섬웨어 감염을 비롯해 국내 원격 관리 SW와 시스템 관리 SW 감염도 같은 수법이었다.\n기업 내부에서 사용하는 중앙관리 SW 취약점을 이용한 공격도 나타났다.\n서버계정 관리 허술함을 이용해 시스템 관리자 계정을 탈취했다.\nSW 개발업체 코드서명 인증서가 유출되고 중앙관리 SW를 통해 악성코드 유포와 표적 공격 수행이 발견됐다.\n취약한 사물인터넷(IoT) 기기는 해커의 놀이터였다.\n무선공유기를 노린 봇넷이 급증했다.\n미라이와 하지메 등 IoT 기기가 봇넷이 증가했다.\nIP카메라도 해킹 위협에 노출됐다.\n중국 성인 사이트에 한국 가정집에 설치된 IP카메라 영상이 그대로 떠돌았다.\n로봇 청소기 등 가정 내 스마트 기기가 늘면서 보안 위협도 급증했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 29,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "올해 보안 위협은 '랜섬웨어' 공격 진화였다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 5월 마이크로소프트 윈도 보안 취약점을 이용해 네트워크 웜 형태로 전파하는 랜섬웨어 '워너크라이'가 세계를 강타했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내서는 웹 호스팅 서비스를 겨냥한 맞춤형 리눅스 랜섬웨어 '에레버스'가 나타났다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "인터넷나야나는 에레버스 감염 후 13억원이라는 사상 최대 몸값을 지불하고 랜섬웨어 피해를 복구하는데 안간힘을 썼다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "세계 보안 역사에 남을 사건으로 기억됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "랜섬웨어 몸값 지불은 가상화폐가 주류를 이뤘다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "가상화폐 가격이 폭등하면서 랜섬웨어는 더욱 늘어났다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "공격자는 아예 가상화폐 거래소나 이용자를 노리는 형태로 눈을 돌렸다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "가상화폐 보유자와 거래소 직원을 대상으로 피싱과 표적 공격이 줄을 이었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "가상화폐거래소인 빗썸과 유빗 등이 해킹 피해를 입었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "유빗은 해킹으로 파산을 신청했다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "올해 해커는 금전 이익을 올리는 데 열을 올렸다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "3월 국내 최초로 ATM을 해킹한 사례가 발견됐다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "공격자는 카드 정보를 유출해 부정 결제로 1억원 이상 피해를 입혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "사행성 게임 정보를 탈취하는 악성코드도 대량 유포됐다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "사이버 공격 수법은 더욱 은밀해졌다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "소프트웨어 개발, 공급업체 해킹이 늘었다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "SW 개발 배포서버가 주요 공격 대상이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "해당 SW를 설치한 PC나 서버를 한꺼번에 감염시키는 공급망 공격이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "우크라이나 정부 랜섬웨어 감염을 비롯해 국내 원격 관리 SW와 시스템 관리 SW 감염도 같은 수법이었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "기업 내부에서 사용하는 중앙관리 SW 취약점을 이용한 공격도 나타났다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "서버계정 관리 허술함을 이용해 시스템 관리자 계정을 탈취했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "SW 개발업체 코드서명 인증서가 유출되고 중앙관리 SW를 통해 악성코드 유포와 표적 공격 수행이 발견됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "취약한 사물인터넷(IoT) 기기는 해커의 놀이터였다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "무선공유기를 노린 봇넷이 급증했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "미라이와 하지메 등 IoT 기기가 봇넷이 증가했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "IP카메라도 해킹 위협에 노출됐다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "중국 성인 사이트에 한국 가정집에 설치된 IP카메라 영상이 그대로 떠돌았다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "로봇 청소기 등 가정 내 스마트 기기가 늘면서 보안 위협도 급증했다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[결산]랜섬웨어 창궐에 가상화폐 노린 해킹 급증",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

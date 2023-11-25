@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352505",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"로봇이 집앞까지 떡볶이 배달\\\"…배민, 세계 최초 서비스 개시",
+		"newsSubTitle": "null",
+		"newsContent": "배달의민족이 세계 최초로 식당에서 집 앞까지 로봇으로 음식을 배달하는 서비스를 시작한다.\n배달의민족 운영사인 우아한형제들은 경기도 수원 광교의 주상복합 아파트 단지 '광교 앨리웨이'에서 자율주행 배달로봇 '딜리드라이브'를 활용한 D2D(도어투도어) 로봇배달 서비스를 시작했다고 15일 밝혔다.\nD2D 로봇배달 서비스는 지난해 8월부터 광교 앨리웨이에서 1년 넘게 진행해온 실외 배달로봇 서비스의 업그레이드 버전이다.\n이전까지 딜리드라이브는 식당에서 음식을 받아 아파트 1층까지만 배달하고, 주문자는 직접 내려와서 음식을 직접 수령해야 했다.\n배민은 딜리드라이브가 실내외에서 자유롭게 다닐 수 있도록 자율주행 기술을 고도화했다.\n아파트 1000여세대에 QR코드를 각각 부여해 배달로봇이 각 세대의 위치를 인식하도록 했다.\n로봇은 배달 접수 후 세대 위치, 동 호수를 인식하고 사전에 입력된 경로에 따라 이동한다.\n그동안 로봇배달 서비스 상용화 발목을 잡았던 공동현관문이나 엘리베이터 연동 문제는 사물인터넷(IoT) 기술로 해결했다.\n딜리드라이브를 HDC랩스의 홈IoT서버와 연동해 1층 공동현관을 자유롭게 드나들 수 있게 한 것이다.\n아파트 내부에 진입하면 현대엘리베이터의 엘리베이터 관제시스템과 연동해 엘리베이터를 호출하고, 주문 세대로 이동한다.\n배민이 지난달부터 약 한 달간 200여건의 배달상황을 시험한 결과, 주문 완료 후 배달 완료까지 평균 20분이 소요됐으며 보행자와의 충돌 등 안전사고는 한 건도 발생하지 않았다.\n배민은 현재 광교 앨리웨이 단지 내에서만 가능한 로봇배달 서비스를 인근 광교 호수공원까지 확장할 계획이다.\n현행법상 배달로봇은 차도뿐 아니라 보도, 횡단보도, 공원 등에서 운행할 수 없지만, 배민은 지난해 9월 과학기술정보통신부의 ICT 규제샌드박스 실증 특례를 승인받았다.\n김요섭 우아한형제들 로봇사업실장은 \\\"로봇배달서비스는 배달원들이 기피하는 초근거리 배달이나 주상복합 배달 등에 활용될 수 있어 소상공인들에게 새로운 주문 수요를 창출할 것\\\"이라며 \\\"광교앨리웨이 단지 외에도 더 많은 아파트 및 오피스 단지에서 D2D 로봇배달 서비스가 적용될 수 있도록 기술 개발 및 서비스 품질 향상을 지속하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배달의민족이 세계 최초로 식당에서 집 앞까지 로봇으로 음식을 배달하는 서비스를 시작한다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "배달의민족 운영사인 우아한형제들은 경기도 수원 광교의 주상복합 아파트 단지 '광교 앨리웨이'에서 자율주행 배달로봇 '딜리드라이브'를 활용한 D2D(도어투도어) 로봇배달 서비스를 시작했다고 15일 밝혔다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "D2D 로봇배달 서비스는 지난해 8월부터 광교 앨리웨이에서 1년 넘게 진행해온 실외 배달로봇 서비스의 업그레이드 버전이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이전까지 딜리드라이브는 식당에서 음식을 받아 아파트 1층까지만 배달하고, 주문자는 직접 내려와서 음식을 직접 수령해야 했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "배민은 딜리드라이브가 실내외에서 자유롭게 다닐 수 있도록 자율주행 기술을 고도화했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아파트 1000여세대에 QR코드를 각각 부여해 배달로봇이 각 세대의 위치를 인식하도록 했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "로봇은 배달 접수 후 세대 위치, 동 호수를 인식하고 사전에 입력된 경로에 따라 이동한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그동안 로봇배달 서비스 상용화 발목을 잡았던 공동현관문이나 엘리베이터 연동 문제는 사물인터넷(IoT) 기술로 해결했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "딜리드라이브를 HDC랩스의 홈IoT서버와 연동해 1층 공동현관을 자유롭게 드나들 수 있게 한 것이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "아파트 내부에 진입하면 현대엘리베이터의 엘리베이터 관제시스템과 연동해 엘리베이터를 호출하고, 주문 세대로 이동한다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "배민이 지난달부터 약 한 달간 200여건의 배달상황을 시험한 결과, 주문 완료 후 배달 완료까지 평균 20분이 소요됐으며 보행자와의 충돌 등 안전사고는 한 건도 발생하지 않았다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "배민은 현재 광교 앨리웨이 단지 내에서만 가능한 로봇배달 서비스를 인근 광교 호수공원까지 확장할 계획이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "현행법상 배달로봇은 차도뿐 아니라 보도, 횡단보도, 공원 등에서 운행할 수 없지만, 배민은 지난해 9월 과학기술정보통신부의 ICT 규제샌드박스 실증 특례를 승인받았다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "김요섭 우아한형제들 로봇사업실장은 \\\"로봇배달서비스는 배달원들이 기피하는 초근거리 배달이나 주상복합 배달 등에 활용될 수 있어 소상공인들에게 새로운 주문 수요를 창출할 것\\\"이라며 \\\"광교앨리웨이 단지 외에도 더 많은 아파트 및 오피스 단지에서 D2D 로봇배달 서비스가 적용될 수 있도록 기술 개발 및 서비스 품질 향상을 지속하겠다\\\"고 말했다.",
+				"sentenceSize": 193
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"로봇이 집앞까지 떡볶이 배달\\\"…배민, 세계 최초 서비스 개시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

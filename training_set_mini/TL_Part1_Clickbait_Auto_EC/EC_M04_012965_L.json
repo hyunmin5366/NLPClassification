@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012965",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "대전·세종 弱 충남·북 强",
+		"newsSubTitle": "충청권 아파트 매매·전셋값 양극화",
+		"newsContent": "지난주 충청권의 부동산 시장은 전주와 마찬가지로 양극화현상을 보였다.\n아파트 매매가와 전셋값 모두 대전ㆍ세종은 약세를, 충남ㆍ북은 강세를 각각 기록했다.\n22일 KB국민은행의 '주간 아파트가격동향'자료에 따르면 지난주 전국의 아파트 매매가는 전주대비 평균 0.02%, 전셋값은 0.03% 각각 오른것으로 조사됐다.\n대전의 아파트 매매가와 전셋값은 전주에 비해 각각 0.02%, 0.03% 각각 하락했다.\n4주연속 내림세를 이어갔다.\n세종의 아파트 매매가는 0.04% 하락했고 전셋값은 보합세를 보였다.\n그러나 지난주 충남ㆍ북의 부동산 시장은 상승세를 나타냈다.\n충남의 아파트 매매가와 전셋값은 전주대비 각각 0.15%, 0.04% 뛰었고 충북의 아파트 매매가와 전셋값도 각각 0.13%, 0.18% 상승했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난주 충청권의 부동산 시장은 전주와 마찬가지로 양극화현상을 보였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아파트 매매가와 전셋값 모두 대전ㆍ세종은 약세를, 충남ㆍ북은 강세를 각각 기록했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "22일 KB국민은행의 '주간 아파트가격동향'자료에 따르면 지난주 전국의 아파트 매매가는 전주대비 평균 0.02%, 전셋값은 0.03% 각각 오른것으로 조사됐다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대전의 아파트 매매가와 전셋값은 전주에 비해 각각 0.02%, 0.03% 각각 하락했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "4주연속 내림세를 이어갔다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "세종의 아파트 매매가는 0.04% 하락했고 전셋값은 보합세를 보였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그러나 지난주 충남ㆍ북의 부동산 시장은 상승세를 나타냈다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "충남의 아파트 매매가와 전셋값은 전주대비 각각 0.15%, 0.04% 뛰었고 충북의 아파트 매매가와 전셋값도 각각 0.13%, 0.18% 상승했다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신입구직자가 입사하고 싶은 업종 1위는 ‘금융’",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

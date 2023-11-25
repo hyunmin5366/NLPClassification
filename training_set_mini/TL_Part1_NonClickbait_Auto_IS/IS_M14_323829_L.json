@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323829",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "에너지산업",
+		"newsTitle": "도시가스 미수금 회수 완료, 요금 9.3% 인하",
+		"newsSubTitle": "",
+		"newsContent": "산업통상자원부는 11월 1일부터 도시가스 요금을 평균 9.3% 인하한다고 밝혔다.\n금번 요금인하는 올해 10월 도시가스 미수금 회수가 완료됨에 따라 정산단가(1.4122원/MJ) 해소를 반영한 결과다.\n도시가스 요금은 원료비 연동제에 따라 유가 변동을 반영하는 것이 원칙이나, 2008년~2012년 유가 급등하자 정부는 인상요인을 미수금으로 쌓아두었다.\n2012년말 기준 도시가스 미수금은 5조5000억원 수준이었으며, 2013년부터 회수를 위해 가스요금에 정산단가를 부가해 왔다.\n올해 10월 미수금 회수가 완료되면서, 더 이상 정산단가를 반영하지 않아도 되면서 상대적으로 요금인하가 가능했다.\n금번 요금인하에 따라 도시가스 전(全)용도 평균요금은 11월 1일부터 현행 15.2336원/MJ에서 1.4122원/MJ 인하된 13.8214원/MJ로 조정된다.\n이에 따라 주택용은 8.7% 인하되며, 도시가스로 난방과 취사를 모두 하는 가구(약 1,420만 가구)의 동절기(12~2월) 월평균 요금은 현행 8만6154원에서 7만8726원으로 7428원 감소될 것으로 예상된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "산업통상자원부는 11월 1일부터 도시가스 요금을 평균 9.3% 인하한다고 밝혔다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금번 요금인하는 올해 10월 도시가스 미수금 회수가 완료됨에 따라 정산단가(1.4122원/MJ) 해소를 반영한 결과다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "도시가스 요금은 원료비 연동제에 따라 유가 변동을 반영하는 것이 원칙이나, 2008년~2012년 유가 급등하자 정부는 인상요인을 미수금으로 쌓아두었다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2012년말 기준 도시가스 미수금은 5조5000억원 수준이었으며, 2013년부터 회수를 위해 가스요금에 정산단가를 부가해 왔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "올해 10월 미수금 회수가 완료되면서, 더 이상 정산단가를 반영하지 않아도 되면서 상대적으로 요금인하가 가능했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "금번 요금인하에 따라 도시가스 전(全)용도 평균요금은 11월 1일부터 현행 15.2336원/MJ에서 1.4122원/MJ 인하된 13.8214원/MJ로 조정된다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 따라 주택용은 8.7% 인하되며, 도시가스로 난방과 취사를 모두 하는 가구(약 1,420만 가구)의 동절기(12~2월) 월평균 요금은 현행 8만6154원에서 7만8726원으로 7428원 감소될 것으로 예상된다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "도시가스 미수금 회수 완료, 요금 9.3% 인하",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

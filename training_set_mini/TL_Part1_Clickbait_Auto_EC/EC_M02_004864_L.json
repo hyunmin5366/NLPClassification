@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004864",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "HMM, 역대급 실적…영업이익 전년대비 652%↑",
+		"newsSubTitle": "영업익 7조3775억원...창사 이래 최대",
+		"newsContent": "HMM이 창사 이래 최대 실적을 달성했다.\n지난 2021년 글로벌 노선 운임 상승과 초대형 선박 투입에 힘입어서다. 14일 HMM에 따르면 지난해 영업이익은 7조3775억원으로 전년 대비 652% 급증했다.\n매출은 3조7941억원으로 115% 증가했다.\n아시아~미주 노선 운임 상승과 유럽 및 기타 지역 등 전노선의 운임이 상승하는 등 시황이 크게 개선돼 실적을 견인했다.\n특히, 전통적으로 컨테이너부문의 계절적 비수기인 4분기에도 △아시아~미주 노선 물동량 증가, △연말 시즌·블랙프라이데이·춘절 등으로 인한 물동량 증가 등으로 컨테이너 운임 종합지수(SCFI)가 큰 폭으로 상승했다.\n아울러 HMM의 원가절감 노력과 정부기관의 적극적인 지원으로 초대형 선박 20척 투입 효과가 크게 나타났다.\n올해도 이어질 환경 불확실성 속에서 안정적인 추가 화물 확보 노력과 내부 역량 강화하겠다는 목표다.\nHMM 관계자는 데일리임팩트에 \\\"운영효율 증대와 비용절감 노력등 글로벌 선사 수준의 경쟁력을 갖춰 나가도록 지속적으로 노력하겠다\\\"고 강조했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "HMM이 창사 이래 최대 실적을 달성했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난 2021년 글로벌 노선 운임 상승과 초대형 선박 투입에 힘입어서다. 14일 HMM에 따르면 지난해 영업이익은 7조3775억원으로 전년 대비 652% 급증했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매출은 3조7941억원으로 115% 증가했다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "아시아~미주 노선 운임 상승과 유럽 및 기타 지역 등 전노선의 운임이 상승하는 등 시황이 크게 개선돼 실적을 견인했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히, 전통적으로 컨테이너부문의 계절적 비수기인 4분기에도 △아시아~미주 노선 물동량 증가, △연말 시즌·블랙프라이데이·춘절 등으로 인한 물동량 증가 등으로 컨테이너 운임 종합지수(SCFI)가 큰 폭으로 상승했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아울러 HMM의 원가절감 노력과 정부기관의 적극적인 지원으로 초대형 선박 20척 투입 효과가 크게 나타났다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "올해도 이어질 환경 불확실성 속에서 안정적인 추가 화물 확보 노력과 내부 역량 강화하겠다는 목표다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "HMM 관계자는 데일리임팩트에 \\\"운영효율 증대와 비용절감 노력등 글로벌 선사 수준의 경쟁력을 갖춰 나가도록 지속적으로 노력하겠다\\\"고 강조했다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"수소가 미래다\\\"...수소밸류체인 구축 나선 SK, 포스코, 한화···",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

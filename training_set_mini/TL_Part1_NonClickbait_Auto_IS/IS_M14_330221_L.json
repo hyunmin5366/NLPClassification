@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330221",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "\\\"애플, 올 가을 6.5인치 대화면 아이폰 출시\\\"",
+		"newsSubTitle": "",
+		"newsContent": "블룸버그 통신은 26일 애플이 올 가을 6.5인치 크기 OLED 폰, 아이폰 X 업그레이드 모델 등 신형 아이폰 제품군 3종을 준비하고 있다고 보도했다.\n6.5인치 대화면 아이폰은 휴대폰과 태블릿PC의 합성어 '패블릿'을 선호하는 소비층을 겨낭한 것으로 보인다.\n삼성 갤럭시 노트와 본격적 경쟁이 예상된다.\n대화면 아이폰은 기존 아이폰 8S 플러스 크기지만, 에지 투 에지 디자인으로 화면 크기를 1인치 넓힌 것으로 알려졌다.\n통신은 애플이 아이폰 X 크기 업그레이드 버전과 함께 상대적으로 저렴한 모델도 준비하고 있다고 전했다.\n현재 애플은 공급업체와 생산 테스트를 진행하고 있는 것으로 전해졌다.\n통신은 아이폰 X가 당초 기대에 미치지 못하는 판매실적을 기록한 것은 1000달러에 달하는 가격 때문이라고 지적했다.\n이어 애플이 차세대 제품군으로 아이폰 판매 수량을 늘리는 전략에 나설 것으로 전망했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "블룸버그 통신은 26일 애플이 올 가을 6.5인치 크기 OLED 폰, 아이폰 X 업그레이드 모델 등 신형 아이폰 제품군 3종을 준비하고 있다고 보도했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6.5인치 대화면 아이폰은 휴대폰과 태블릿PC의 합성어 '패블릿'을 선호하는 소비층을 겨낭한 것으로 보인다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "삼성 갤럭시 노트와 본격적 경쟁이 예상된다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대화면 아이폰은 기존 아이폰 8S 플러스 크기지만, 에지 투 에지 디자인으로 화면 크기를 1인치 넓힌 것으로 알려졌다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "통신은 애플이 아이폰 X 크기 업그레이드 버전과 함께 상대적으로 저렴한 모델도 준비하고 있다고 전했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "현재 애플은 공급업체와 생산 테스트를 진행하고 있는 것으로 전해졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "통신은 아이폰 X가 당초 기대에 미치지 못하는 판매실적을 기록한 것은 1000달러에 달하는 가격 때문이라고 지적했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이어 애플이 차세대 제품군으로 아이폰 판매 수량을 늘리는 전략에 나설 것으로 전망했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"애플, 올 가을 6.5인치 대화면 아이폰 출시\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

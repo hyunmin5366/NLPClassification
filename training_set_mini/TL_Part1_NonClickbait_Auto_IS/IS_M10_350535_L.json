@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350535",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "음란사진 400만장 공부한 AI...네이버 음란물 99.5%차단",
+		"newsSubTitle": "null",
+		"newsContent": "실시간으로 인터넷에 게시되는 음란물을 99.5% 정확도로 잡아내는 기술이 네이버(NAVER)에 적용된다.\n네이버는 실시간 음란 이미지 필터링 시스템 '엑스아이(X-eye) 2.0'을 오는 7월부터 적용한다고 29일 밝혔다.\n음란 이미지가 네이버에 등록될 경우 실시간으로 감지해 검색 노출을 막아주는 시스템으로, 정확도를 99.5%까지 높였다.\n네이버는 2017년 음란 이미지 필터링 시스템 '엑스아이'를 첫 선보였다.\n400만장의 이미지를 형태별로 분류해 인공지능(AI) 학습을 거쳐 만들어졌다.\n네이버에 따르면 기존에는 이미지 모니터링 담당자들이 조치할 때까지 유해물이 노출된다는 단점이 있었지만, 엑스아이 도입 이후 98.1%의 정확도로 유해한 사진과 동영상을 실시간으로 걸러냈다.\n이번에 개발된 '엑스아이 2.0'에는 네이버 AI랩과 클로바가 진행한 선행 이미지인식 기술 연구 결과들이 적용됐다.\n속도와 정확도가 더욱 높아진 고성능 이미지인식 모델 '렉스넷'(ReXNet)을 비롯해 △AI 모델 학습 시 데이터 부족시 사용되는 데이터증강기법 '컷믹스'(CutMix) △더욱 안정적으로 모델을 학습하고 인식 정확도를 향상시키는 최적화 기법 'AdamP' 등 다양한 AI 기술이 적용됐다.\n기존 정상·음란으로만 구분하던 데서 정상·음란·성인·선정 4가지 등급으로 분류 체계를 고도화했다.\n단순 음란 이미지뿐만 아니라 선정적 표현에 대한 판단 정확도도 높여 다양한 서비스에 활용할 수 있다.\n유봉석 네이버 서비스운영총괄은 \\\"건전한 인터넷 이용 환경 조성을 위해 네이버는 음란물, 성인물은 물론 불법촬영물, 혐오 등 사회적 변화에 맞춰 다양한 유해 콘텐츠 차단을 위해 지속적으로 노력해오고 있다\\\"며 \\\"추후 엑스아이의 오픈 API 기술을 공개해 아직 기술이 부족한 스타트업과 사업자 등 다양한 영역에서 활용할 수 있도록 준비 예정\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "실시간으로 인터넷에 게시되는 음란물을 99.5% 정확도로 잡아내는 기술이 네이버(NAVER)에 적용된다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "네이버는 실시간 음란 이미지 필터링 시스템 '엑스아이(X-eye) 2.0'을 오는 7월부터 적용한다고 29일 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "음란 이미지가 네이버에 등록될 경우 실시간으로 감지해 검색 노출을 막아주는 시스템으로, 정확도를 99.5%까지 높였다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네이버는 2017년 음란 이미지 필터링 시스템 '엑스아이'를 첫 선보였다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "400만장의 이미지를 형태별로 분류해 인공지능(AI) 학습을 거쳐 만들어졌다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "네이버에 따르면 기존에는 이미지 모니터링 담당자들이 조치할 때까지 유해물이 노출된다는 단점이 있었지만, 엑스아이 도입 이후 98.1%의 정확도로 유해한 사진과 동영상을 실시간으로 걸러냈다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번에 개발된 '엑스아이 2.0'에는 네이버 AI랩과 클로바가 진행한 선행 이미지인식 기술 연구 결과들이 적용됐다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "속도와 정확도가 더욱 높아진 고성능 이미지인식 모델 '렉스넷'(ReXNet)을 비롯해 △AI 모델 학습 시 데이터 부족시 사용되는 데이터증강기법 '컷믹스'(CutMix) △더욱 안정적으로 모델을 학습하고 인식 정확도를 향상시키는 최적화 기법 'AdamP' 등 다양한 AI 기술이 적용됐다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기존 정상·음란으로만 구분하던 데서 정상·음란·성인·선정 4가지 등급으로 분류 체계를 고도화했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "단순 음란 이미지뿐만 아니라 선정적 표현에 대한 판단 정확도도 높여 다양한 서비스에 활용할 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "유봉석 네이버 서비스운영총괄은 \\\"건전한 인터넷 이용 환경 조성을 위해 네이버는 음란물, 성인물은 물론 불법촬영물, 혐오 등 사회적 변화에 맞춰 다양한 유해 콘텐츠 차단을 위해 지속적으로 노력해오고 있다\\\"며 \\\"추후 엑스아이의 오픈 API 기술을 공개해 아직 기술이 부족한 스타트업과 사업자 등 다양한 영역에서 활용할 수 있도록 준비 예정\\\"이라고 말했다.",
+				"sentenceSize": 200
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "음란사진 400만장 공부한 AI...네이버 음란물 99.5%차단",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

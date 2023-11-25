@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013448",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "한라공조, 車 열관리 제품 생산능력 30%↑",
+		"newsSubTitle": "체코 훌르크 지역 라인 확장",
+		"newsContent": "한라비스테온공조(주) (대표이사 박용환)는 체코 훌르크 지역에 자동차 열관리 제품 생산라인을 확장하고, 양산을 시작한다고 5일 밝혔다.\n체코 훌르크 공장은 탄소배출 저감을 위한 '파워트레인 쿨링 제품' 생산법인이다.\n지난해 11월에 이어 두 번째 신규 라인 확장으로 7330㎡(약 2217평) 규모의 생산라인을 추가로 증설, 발 빠르게 현지 시장 대응 역량을 강화했다.\n훌루크 공장은 총 대지면적이 3만7230㎡(약 1만1262평)에 이른다.\n신규 라인은 파워트레인 쿨링 시스템 구성 부품인 WCAC, 저온 라디에이터, EGR 제품을 양산한다.\n연간 생산규모는 약 850만 대로, 기존 대비 생산능력이 약 30% 늘어난다.\nWCAC 제품은 고효율 소형 열교환기로 터보차저나 슈퍼차저 엔진의 고성능 자동차에 적용된다.\n저온 라디에이터는 WCAC에서 발생한 열을 대기로 방출하는 기능을 한다.\n이러한 열 관리 솔루션 제품은 차량 연비 향상을 위한 엔진 소형화 기술에 필요한 핵심 부품이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한라비스테온공조(주) (대표이사 박용환)는 체코 훌르크 지역에 자동차 열관리 제품 생산라인을 확장하고, 양산을 시작한다고 5일 밝혔다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "체코 훌르크 공장은 탄소배출 저감을 위한 '파워트레인 쿨링 제품' 생산법인이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 11월에 이어 두 번째 신규 라인 확장으로 7330㎡(약 2217평) 규모의 생산라인을 추가로 증설, 발 빠르게 현지 시장 대응 역량을 강화했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "훌루크 공장은 총 대지면적이 3만7230㎡(약 1만1262평)에 이른다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신규 라인은 파워트레인 쿨링 시스템 구성 부품인 WCAC, 저온 라디에이터, EGR 제품을 양산한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연간 생산규모는 약 850만 대로, 기존 대비 생산능력이 약 30% 늘어난다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "WCAC 제품은 고효율 소형 열교환기로 터보차저나 슈퍼차저 엔진의 고성능 자동차에 적용된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "저온 라디에이터는 WCAC에서 발생한 열을 대기로 방출하는 기능을 한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이러한 열 관리 솔루션 제품은 차량 연비 향상을 위한 엔진 소형화 기술에 필요한 핵심 부품이다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "산림청, 산지 규제 개선으로 산지생태축산 활성화",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330150",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[국제]애플, 중국 기업과 협력 확대",
+		"newsSubTitle": "",
+		"newsContent": "애플이 중국 기업과 협력을 확대하고 있다.\n애플은 중국 럭스쉐어에 아이폰13 프로 조립 생산을 발주했다.\n럭스쉐어가 맡은 물량은 전체 아이폰13 시리즈 가운데 3%가량으로 추산된다.\n이달 중 생산에 돌입할 것으로 알려졌다.\n럭스쉐어는 지난해 대만 위탁생산 업체 위스트론의 중국 생산라인을 인수, 애플 협력 업체로 합류했다.\n주로 보급형과 구형 아이폰을 생산하며 애플과 협력을 확대했다.\n카메라 렌즈 전문업체 써니옵티컬도 아이폰13 시리즈 후면 카메라용 렌즈를 공급한다.\n디스플레이 업체 BOE 역시 3분기 애플 공급업체로 선정되면 아이폰13 시리즈에 OLED 디스플레이를 공급할 것으로 예상된다.\n애플의 이 같은 행보는 중국와 무역 분쟁을 진행 중인 미국 정부 기조와 엇갈린다.\n코로나19 확산으로 부품 공급망에 영향을 받아 제품 생산에 차질을 빚자 활용 가능한 자원을 총동원하고 있다는 분석이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 중국 기업과 협력을 확대하고 있다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "애플은 중국 럭스쉐어에 아이폰13 프로 조립 생산을 발주했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "럭스쉐어가 맡은 물량은 전체 아이폰13 시리즈 가운데 3%가량으로 추산된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이달 중 생산에 돌입할 것으로 알려졌다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "럭스쉐어는 지난해 대만 위탁생산 업체 위스트론의 중국 생산라인을 인수, 애플 협력 업체로 합류했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주로 보급형과 구형 아이폰을 생산하며 애플과 협력을 확대했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "카메라 렌즈 전문업체 써니옵티컬도 아이폰13 시리즈 후면 카메라용 렌즈를 공급한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "디스플레이 업체 BOE 역시 3분기 애플 공급업체로 선정되면 아이폰13 시리즈에 OLED 디스플레이를 공급할 것으로 예상된다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "애플의 이 같은 행보는 중국와 무역 분쟁을 진행 중인 미국 정부 기조와 엇갈린다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "코로나19 확산으로 부품 공급망에 영향을 받아 제품 생산에 차질을 빚자 활용 가능한 자원을 총동원하고 있다는 분석이다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[국제]애플, 중국 기업과 협력 확대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

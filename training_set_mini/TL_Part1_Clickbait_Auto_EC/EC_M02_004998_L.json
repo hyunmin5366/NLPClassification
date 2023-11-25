@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004998",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "르노삼성 XM3, 프랑스 기자 선정 최고 권위상 수상",
+		"newsSubTitle": "넉넉한 공간 및 기술, 합리적 가격 인정",
+		"newsContent": "유럽에서 르노 아르카나라는 이름으로 판매 중인 르노삼성자동차(대표 스테판드블레즈) XM3가 프랑스 기자들이 뽑은 최고 권위상인 '2022 부아튀르 드 라거스'를 수상했다.\n르노삼성은 지난 4일 경기도 용인 중앙연구소에서 XM3 개발 주역들에게 수상 트로피가 전달됐다고 7일 밝혔다.\n쿠페형 SUV XM3는 지난 2월 프랑스에서 열린 라거스 트로피 시상식에서 올해의 차에 해당하는 전 부문 최고 권위의 상인 '부아튀르 드 라거스'와 '컴팩트 SUV 및 MPV 부문' 1위에 함께 선정됐다.\n프랑스 자동차 전문매체 라거스가 주관하는 라거스 트로피 시상식은 올해로 29회째로 프랑스 여러 유력 매체 기자들이 각 세그먼트 별로 차량을 평가해 부아튀르 드 라거스 및 부문별 수상 차량들을 결정한다.\nXM3는 이번 평가에서 컴팩트 모델 최초의 쿠페 SUV로 넉넉한 공간과 뛰어난 인테리어 구성 및 르노 E-테크 하이브리드 기술, 합리적인 가격 등을 인정받아 총 45점을 얻으며 1위에 올랐다.\n함께 경쟁을 벌였던 메르세데스 벤츠 C클래스는 44점, 테슬라 모델Y는 42점으로 각각 2위와 3위를 차지했다.\n르노삼성 관계자는 데일리임팩트에 \\\"펜데믹과 반도체 수급 부족 악재에도 XM3의 수출 경쟁력 확보를 위해 전사적인 노력을 진행 중\\\"이라며 \\\"차량 개발부터 생산에 이르기까지 전 과정의 엄격한 품질 검사 프로세스를 통해 XM3의 품질 경쟁력이 유지될 수 있도록 심혈을 기울이고 있다\\\"라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "유럽에서 르노 아르카나라는 이름으로 판매 중인 르노삼성자동차(대표 스테판드블레즈) XM3가 프랑스 기자들이 뽑은 최고 권위상인 '2022 부아튀르 드 라거스'를 수상했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "르노삼성은 지난 4일 경기도 용인 중앙연구소에서 XM3 개발 주역들에게 수상 트로피가 전달됐다고 7일 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "쿠페형 SUV XM3는 지난 2월 프랑스에서 열린 라거스 트로피 시상식에서 올해의 차에 해당하는 전 부문 최고 권위의 상인 '부아튀르 드 라거스'와 '컴팩트 SUV 및 MPV 부문' 1위에 함께 선정됐다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "프랑스 자동차 전문매체 라거스가 주관하는 라거스 트로피 시상식은 올해로 29회째로 프랑스 여러 유력 매체 기자들이 각 세그먼트 별로 차량을 평가해 부아튀르 드 라거스 및 부문별 수상 차량들을 결정한다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "XM3는 이번 평가에서 컴팩트 모델 최초의 쿠페 SUV로 넉넉한 공간과 뛰어난 인테리어 구성 및 르노 E-테크 하이브리드 기술, 합리적인 가격 등을 인정받아 총 45점을 얻으며 1위에 올랐다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "함께 경쟁을 벌였던 메르세데스 벤츠 C클래스는 44점, 테슬라 모델Y는 42점으로 각각 2위와 3위를 차지했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "르노삼성 관계자는 데일리임팩트에 \\\"펜데믹과 반도체 수급 부족 악재에도 XM3의 수출 경쟁력 확보를 위해 전사적인 노력을 진행 중\\\"이라며 \\\"차량 개발부터 생산에 이르기까지 전 과정의 엄격한 품질 검사 프로세스를 통해 XM3의 품질 경쟁력이 유지될 수 있도록 심혈을 기울이고 있다\\\"라고 밝혔다.",
+				"sentenceSize": 166
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "특허싸움 SK가 웃었다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

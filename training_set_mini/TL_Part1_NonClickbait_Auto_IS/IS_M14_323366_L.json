@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323366",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "[이슈분석]초고속 인터넷 속도 20년만에 1200배 ↑... 광케이블이 뒷받침해야",
+		"newsSubTitle": "",
+		"newsContent": "우리나라 초고속인터넷 서비스는 1999년 비대칭디지털가입자회선(ADSL) 상용화 이후 2018년 10기가인터넷 서비스가 상용화될때까지 20년간 약 1200배 이상 속도가 빨라졌다.\n인터넷 속도진화 주기는 해가 갈수록 단축된다.\n광케이블 구축 활성화로 미래 서비스 진화에 대응이 절실하다.\n옛 하나로통신(SK브로드밴드)이 1999년 4월 ADSL 기술방식을 적용한 초고속인터넷 서비스를 세계최초 상용화했을 당시 8Mbps가 최고속도였고, 당시에는 구축된 전화선을 활용했다.\n이후 통신사는 20Mbps급 속도의 초고속 디지털 가입자회선(vDSL) 서비스를 상용화하며 구내통신선로에 UTP를 구축하기 시작했다.\n통신사는 ADSL 상용화 이후 8년만인 2007년 100Mbps 급 댁내광가입자망(FTTH) 초고속인터넷을 상용화하며 통신속도를 100Mbps 급으로 높여 IPTV 등 혁신서비스 등장 기반을 조성했다.\n댁내광가입자망은 용어대로 건물 구내 선로에 광케이블을 구축해 통신속도를 개선하는 기술로, 구내통신선으로 광케이블 또는 최대속도 1Gbps를 지원하는 카테고리5e UTP케이블을 사용했다.\n통신사는 7년 후인 2014년 최고속도 1Gbps급인 기가인터넷을 출시한데 이어, 4년만인 2018년에는 10Gbps 최고속도가 가능한 10기가인터넷을 상용화했다.\n20년간 초고속인터넷 속도가 10배 증가하는 주기는 8년에서 7년, 4년으로 점차 단축되고 있다.\n이같은 추세를 감안할 때 초고속인터넷 속도는 향후 수년내 25Gbps급 기가인터넷부터 50Gbps 기가인터넷으로 발전할 것으로 예상했다.\n통신속도는 통신사의 스위치·라우터 등 데이터 전송장비와 케이블 성능이 좌우한다.\n통신사는 초고속인터넷망 대부분 구간을 광케이블로 구축해 기가인터넷 커버리지를 전국 90% 수준까지 달성했다.\n문제는 구내통신선로 케이블이다.\n현재 다수 아파트 등이 1Gbps급 속도를 지원하는 UTP케이블(100㎒ 전송대역폭)로 구축돼 향후 통신속도 향상을 보장하기 어려운 실정이다.\n옛 방송통신위원회 국립전파연구원은 2012년 구내통신선로 기술기준을 기존 16㎒ 대역폭 지원(10Mbps최대속도) UTP·광케이블에서 100㎒ 대역폭(1Gbps) 지원 UTP(카테고리5e)·광케이블로 한차례 상향했다.\n통신사는 이같은 선례를 참고해 무제한 대역폭으로 10Gbps 이상 속도를 지원하는 광케이블로 미래 기술 진화에 대비하도록 구내통신선로 기술기준 개정을 서둘러야 한다고 주장한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리나라 초고속인터넷 서비스는 1999년 비대칭디지털가입자회선(ADSL) 상용화 이후 2018년 10기가인터넷 서비스가 상용화될때까지 20년간 약 1200배 이상 속도가 빨라졌다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인터넷 속도진화 주기는 해가 갈수록 단축된다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "광케이블 구축 활성화로 미래 서비스 진화에 대응이 절실하다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "옛 하나로통신(SK브로드밴드)이 1999년 4월 ADSL 기술방식을 적용한 초고속인터넷 서비스를 세계최초 상용화했을 당시 8Mbps가 최고속도였고, 당시에는 구축된 전화선을 활용했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 통신사는 20Mbps급 속도의 초고속 디지털 가입자회선(vDSL) 서비스를 상용화하며 구내통신선로에 UTP를 구축하기 시작했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "통신사는 ADSL 상용화 이후 8년만인 2007년 100Mbps 급 댁내광가입자망(FTTH) 초고속인터넷을 상용화하며 통신속도를 100Mbps 급으로 높여 IPTV 등 혁신서비스 등장 기반을 조성했다.",
+				"sentenceSize": 112
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "댁내광가입자망은 용어대로 건물 구내 선로에 광케이블을 구축해 통신속도를 개선하는 기술로, 구내통신선으로 광케이블 또는 최대속도 1Gbps를 지원하는 카테고리5e UTP케이블을 사용했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "통신사는 7년 후인 2014년 최고속도 1Gbps급인 기가인터넷을 출시한데 이어, 4년만인 2018년에는 10Gbps 최고속도가 가능한 10기가인터넷을 상용화했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "20년간 초고속인터넷 속도가 10배 증가하는 주기는 8년에서 7년, 4년으로 점차 단축되고 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이같은 추세를 감안할 때 초고속인터넷 속도는 향후 수년내 25Gbps급 기가인터넷부터 50Gbps 기가인터넷으로 발전할 것으로 예상했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "통신속도는 통신사의 스위치·라우터 등 데이터 전송장비와 케이블 성능이 좌우한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "통신사는 초고속인터넷망 대부분 구간을 광케이블로 구축해 기가인터넷 커버리지를 전국 90% 수준까지 달성했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "문제는 구내통신선로 케이블이다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "현재 다수 아파트 등이 1Gbps급 속도를 지원하는 UTP케이블(100㎒ 전송대역폭)로 구축돼 향후 통신속도 향상을 보장하기 어려운 실정이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "옛 방송통신위원회 국립전파연구원은 2012년 구내통신선로 기술기준을 기존 16㎒ 대역폭 지원(10Mbps최대속도) UTP·광케이블에서 100㎒ 대역폭(1Gbps) 지원 UTP(카테고리5e)·광케이블로 한차례 상향했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "통신사는 이같은 선례를 참고해 무제한 대역폭으로 10Gbps 이상 속도를 지원하는 광케이블로 미래 기술 진화에 대비하도록 구내통신선로 기술기준 개정을 서둘러야 한다고 주장한다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]초고속 인터넷 속도 20년만에 1200배 ↑... 광케이블이 뒷받침해야",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

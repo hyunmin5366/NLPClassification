@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008833",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "배추·김치 저렴하게 팔아요",
+		"newsSubTitle": "대형마트 할인판매",
+		"newsContent": "갑작스런 집중호우로 '채소물가 급등'우려가 커지면서 대형마트들이 배추, 김치 할인 판매에 나섰다.\n이마트는 오는 11일까지 종가집 등 포장김치 4대 브랜드를 최대 35%까지 할인 판매한다.\n이에 따라 '종가집 김장포기김치' 7㎏은 3만2200원, 'CJ하선정 포기김치' 8.4㎏은 3만3600원, '동원양반 포기김치' 7㎏은 2만9400원에 판매한다.\n롯데마트도 3일까지 배추 등 각종 채소를 최대 50%까지 할인 판매한다.\n고랭지에서 재배한 배추 한 포기(2.5㎏ 내외)가 2000원에 판매되는 것을 비롯해 가시오이(4개) 2700원, 햇대파(1단) 1400원, 브로콜리(1송이) 1400원에 각각 판매한다.\n홈플러스도 3일까지 15가지 채소를 최대 35%까지 싸게 판다.\n감자(900g)는 1680원, 대파(1봉)는 1000원, 단호박(1개)은 2780원, 깐마늘(250g)은 2580원, 양파(1.6㎏)는 1980원에 판매된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "갑작스런 집중호우로 '채소물가 급등'우려가 커지면서 대형마트들이 배추, 김치 할인 판매에 나섰다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이마트는 오는 11일까지 종가집 등 포장김치 4대 브랜드를 최대 35%까지 할인 판매한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따라 '종가집 김장포기김치' 7㎏은 3만2200원, 'CJ하선정 포기김치' 8.4㎏은 3만3600원, '동원양반 포기김치' 7㎏은 2만9400원에 판매한다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "롯데마트도 3일까지 배추 등 각종 채소를 최대 50%까지 할인 판매한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고랭지에서 재배한 배추 한 포기(2.5㎏ 내외)가 2000원에 판매되는 것을 비롯해 가시오이(4개) 2700원, 햇대파(1단) 1400원, 브로콜리(1송이) 1400원에 각각 판매한다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "홈플러스도 3일까지 15가지 채소를 최대 35%까지 싸게 판다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "감자(900g)는 1680원, 대파(1봉)는 1000원, 단호박(1개)은 2780원, 깐마늘(250g)은 2580원, 양파(1.6㎏)는 1980원에 판매된다.",
+				"sentenceSize": 88
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국타이어, 하반기 프로액티브 리더 공개채용",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

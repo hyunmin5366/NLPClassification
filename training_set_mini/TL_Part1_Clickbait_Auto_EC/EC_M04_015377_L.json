@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015377",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "KAIST 효모로 종양에 항암제 전달 기술개발",
+		"newsSubTitle": "",
+		"newsContent": "효모를 사용해 종양에 항암제를 전달할 수 있는 기술이 개발됐다.\n전상용 KAIST 생명과학과 교수 연구팀과 전영수 GIST 생명과학부 교수 연구팀은 효모에 존재하는 천연 소포체인 액포를 이용해 효과적으로 항암제를 암에 전달하는 데 성공했다고 12일 밝혔다.\n최근 특정 암을 표적하는 표적형 약물전달시스템이 주목 받고 있으나 대부분 고분자, 무기 나노입자 같은 인공소재 기반으로 생체 적합성이 낮고 잠재적 독성의 가능성이 있다.\n이에 연구팀은 빵이나 맥주 발효에 사용되는 효모를 이용해 문제를 해결했다.\n효모 안의 소포체인 액포를 항암제 전달 소재로 사용한 것이다.\n전상용 교수는 “전임상 연구 및 임상 적용 가능성을 평가해 궁극적인 암 치료 방안 중 하나가 되길 기대한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "효모를 사용해 종양에 항암제를 전달할 수 있는 기술이 개발됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전상용 KAIST 생명과학과 교수 연구팀과 전영수 GIST 생명과학부 교수 연구팀은 효모에 존재하는 천연 소포체인 액포를 이용해 효과적으로 항암제를 암에 전달하는 데 성공했다고 12일 밝혔다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 특정 암을 표적하는 표적형 약물전달시스템이 주목 받고 있으나 대부분 고분자, 무기 나노입자 같은 인공소재 기반으로 생체 적합성이 낮고 잠재적 독성의 가능성이 있다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 연구팀은 빵이나 맥주 발효에 사용되는 효모를 이용해 문제를 해결했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "효모 안의 소포체인 액포를 항암제 전달 소재로 사용한 것이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전상용 교수는 “전임상 연구 및 임상 적용 가능성을 평가해 궁극적인 암 치료 방안 중 하나가 되길 기대한다”고 말했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[건설시리즈]총생산 감소 신규투자 축소…건설업 위기",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

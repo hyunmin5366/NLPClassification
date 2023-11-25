@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349635",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT, 전용단말 없이 앱 설치로 양자암호통신 구현한다",
+		"newsSubTitle": "null",
+		"newsContent": "양자암호통신 전용 단말 없이도 스마트폰 앱 하나로 양자암호통신을 쉽고 빠르게 적용할 수 있는 기술이 개발됐다.\nKT는 스마트폰 앱을 통해 양자암호통신 기술을 구현할 수 있는 '양자 하이브리드' 기술을 개발했다고 20일 밝혔다.\n기존에는 양자난수생성칩셋(QRNG)을 탑재한 양자보안 단말이나 별도의 양자통신단말이 있어야만 양자보안통신을 사용할 수 있었다.\nKT가 이번에 개발한 기술을 적용하면 전용 단말을 추가로 구입할 필요가 없어 비용과 관리 측면에서 효율성이 높을 것으로 기대된다. '양자 하이브리드 기술'은 'QS-VPN' 앱 설치 한번으로 현재 사용 중인 스마트폰에도 적용 가능하다.\n양자키 분배(QKD) 기술과 양자암호내성알고리즘(PQC)을 결합해 5G 가상 네트워크(VPN)의 해킹 위협을 원천 봉쇄한다.\n앱을 실행하면 네트워크 전 구간에 양자암호통신 환경이 구현된다.\nQKD는 해킹이 불가능한 양자의 물리적인 특성을 이용해 양자 암호키를 만들고, 이를 광역 통신망(WAN) 구축 환경에서 분배한다.\n암호키는 양자 암호키 관리 시스템(QKMS)에 저장된다.\nPQC는 앱과 QKMS 간 네트워크 구간을 보호해 암호키가 앱에 안전하게 전달되도록 돕는다.\nKT는 미국 국립표준기술연구소(NIST)의 양자암호내성알고리즘 표준 규격으로 선정이 유력한 PQC를 적용해 안전성을 강화했다.\nPQC는 네트워크 구간에서 양자컴퓨터를 이용한 모든 공격에 대해 안전한 내성을 갖는 암호기술을 제공하는 알고리즘이다.\n또 KT는 블록체인에 기반을 둔 분산형 신원확인 기술(DID)과 PQC 인증 절차를 합쳐 제3 인증기관 연계 없이 사용자 인증의 보안을 강화했다.\nDID 기술로 개인의 스마트폰 단말에 개인 정보가 담긴 인증서를 저장해 개인 정보 유출 위험을 방지하고, PQC에 기반을 둔 신원 인증 기술이 개인정보가 담긴 인증서를 확인해 사용자 신원과 단말 접근 권한을 식별한다.\nKT는 이번 양자 하이브리드 기술을 금융, 커넥티드카 등 5G 응용서비스에 확대 적용하는 방안을 추진할 계획이다.\n이종식 KT 인프라연구소장 상무는 \\\"이번 양자 하이브리드 기술 개발을 계기로 디지털 전환 시대에 고객이 안심하며 사용할 수 있는 양자보안 플랫폼을 지속적으로 연구하고 상용화하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "양자암호통신 전용 단말 없이도 스마트폰 앱 하나로 양자암호통신을 쉽고 빠르게 적용할 수 있는 기술이 개발됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT는 스마트폰 앱을 통해 양자암호통신 기술을 구현할 수 있는 '양자 하이브리드' 기술을 개발했다고 20일 밝혔다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "기존에는 양자난수생성칩셋(QRNG)을 탑재한 양자보안 단말이나 별도의 양자통신단말이 있어야만 양자보안통신을 사용할 수 있었다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KT가 이번에 개발한 기술을 적용하면 전용 단말을 추가로 구입할 필요가 없어 비용과 관리 측면에서 효율성이 높을 것으로 기대된다. '양자 하이브리드 기술'은 'QS-VPN' 앱 설치 한번으로 현재 사용 중인 스마트폰에도 적용 가능하다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양자키 분배(QKD) 기술과 양자암호내성알고리즘(PQC)을 결합해 5G 가상 네트워크(VPN)의 해킹 위협을 원천 봉쇄한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앱을 실행하면 네트워크 전 구간에 양자암호통신 환경이 구현된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "QKD는 해킹이 불가능한 양자의 물리적인 특성을 이용해 양자 암호키를 만들고, 이를 광역 통신망(WAN) 구축 환경에서 분배한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "암호키는 양자 암호키 관리 시스템(QKMS)에 저장된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "PQC는 앱과 QKMS 간 네트워크 구간을 보호해 암호키가 앱에 안전하게 전달되도록 돕는다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "KT는 미국 국립표준기술연구소(NIST)의 양자암호내성알고리즘 표준 규격으로 선정이 유력한 PQC를 적용해 안전성을 강화했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "PQC는 네트워크 구간에서 양자컴퓨터를 이용한 모든 공격에 대해 안전한 내성을 갖는 암호기술을 제공하는 알고리즘이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "또 KT는 블록체인에 기반을 둔 분산형 신원확인 기술(DID)과 PQC 인증 절차를 합쳐 제3 인증기관 연계 없이 사용자 인증의 보안을 강화했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "DID 기술로 개인의 스마트폰 단말에 개인 정보가 담긴 인증서를 저장해 개인 정보 유출 위험을 방지하고, PQC에 기반을 둔 신원 인증 기술이 개인정보가 담긴 인증서를 확인해 사용자 신원과 단말 접근 권한을 식별한다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "KT는 이번 양자 하이브리드 기술을 금융, 커넥티드카 등 5G 응용서비스에 확대 적용하는 방안을 추진할 계획이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이종식 KT 인프라연구소장 상무는 \\\"이번 양자 하이브리드 기술 개발을 계기로 디지털 전환 시대에 고객이 안심하며 사용할 수 있는 양자보안 플랫폼을 지속적으로 연구하고 상용화하겠다\\\"고 말했다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 전용단말 없이 앱 설치로 양자암호통신 구현한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

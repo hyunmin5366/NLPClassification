@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_336525",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "삼성전자 SSD, 업계 최초 '환경성적표지' 인증",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자는 자사 SSD(솔리드 스테이트 드라이브) 모델 '850 EVO 250GB'가 반도체 업계 최초로 환경성적표지(EPD) 인증을 받았다고 23일 밝혔다.\n환경성적표지는 환경부가 주관하고 한국환경산업기술원이 운영하는 국가 인증 제도다.\n제품과 서비스의 원료 채취부터 생산, 수송∙유통, 사용, 폐기 등 모든 과정의 환경 영향을 계량화해 공개한다. 850 EVO 250GB는 삼성전자 3세대(48단) 3D V 낸드 기반의 SSD로, 소비자용 SSD 중 베스트셀러 모델이다.\n제품 한 개로 발생되는 '지구온난화 지수(탄소배출량)'는 9.327㎏ CO₂(이산화탄소)로 업계 최저 수준을 달성했다.\n이는 30년생 나무 한 그루의 연평균 탄소흡수량(9.36㎏ CO₂)보다 적은 수치라고 삼성전자는 설명했다.\n삼성전자는 SSD 외에도 스마트폰용 메모리칩 '10나노급 64Gb 낸드플래시' 제품의 인증을 획득, 냉장고와 TV를 포함해 지금까지 총 10개 제품의 환경성적표지 인증을 받게 됐다.\n삼성전자는 탄소발자국(제품의 전 과정에서 발생하는 온실가스를 CO₂ 배출량으로 환산한 지표) 부분에서도 업계 최대 규모인 총 383개 제품을 인증받았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자는 자사 SSD(솔리드 스테이트 드라이브) 모델 '850 EVO 250GB'가 반도체 업계 최초로 환경성적표지(EPD) 인증을 받았다고 23일 밝혔다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "환경성적표지는 환경부가 주관하고 한국환경산업기술원이 운영하는 국가 인증 제도다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "제품과 서비스의 원료 채취부터 생산, 수송∙유통, 사용, 폐기 등 모든 과정의 환경 영향을 계량화해 공개한다. 850 EVO 250GB는 삼성전자 3세대(48단) 3D V 낸드 기반의 SSD로, 소비자용 SSD 중 베스트셀러 모델이다.",
+				"sentenceSize": 131
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "제품 한 개로 발생되는 '지구온난화 지수(탄소배출량)'는 9.327㎏ CO₂(이산화탄소)로 업계 최저 수준을 달성했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 30년생 나무 한 그루의 연평균 탄소흡수량(9.36㎏ CO₂)보다 적은 수치라고 삼성전자는 설명했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자는 SSD 외에도 스마트폰용 메모리칩 '10나노급 64Gb 낸드플래시' 제품의 인증을 획득, 냉장고와 TV를 포함해 지금까지 총 10개 제품의 환경성적표지 인증을 받게 됐다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자는 탄소발자국(제품의 전 과정에서 발생하는 온실가스를 CO₂ 배출량으로 환산한 지표) 부분에서도 업계 최대 규모인 총 383개 제품을 인증받았다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자 SSD, 업계 최초 '환경성적표지' 인증",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

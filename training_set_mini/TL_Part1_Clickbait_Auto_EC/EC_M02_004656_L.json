@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004656",
+		"newsCategory": "경제",
+		"newsSubcategory": "IT·통신",
+		"newsTitle": "'2분이면 타깃 소비자 선정' LG유플러스, 고객반응 자동 분석 플랫폼 개발",
+		"newsSubTitle": "A/B테스트 자동화…U+tv·U+모바일tv·U+아이들나라에 적용 데이터 분석, 기존 최대 4주에서 1시간으로 획기적으로 감소",
+		"newsContent": "LG유플러스가 11일 빅데이터를 기반으로 사용자의 수요를 쉽게 파악할 수 있는 'A/B테스트 플랫폼'을 개발했다.\nA/B테스트는 기존에도 사업 구상에 사용되던 의사결정 방법이다.\n이 테스트는 기존안을 A로 선정하고, 개선안을 B로 선정한 뒤, 양 안에 대한 고객의 반응을 비교해 어느 버전이 나은지를 판단하는 방법이다.\nLG유플러스는 디지털전환(DX)의 일환으로 빅데이터 기반의 A/B테스트 플랫폼을 개발했다.\nLG유플러스의 최고기술책임자(CTO) 조직은 지난해부터 클라우드, 빅데이터 기술을 활용해 통신업에 최적화 된 A/B테스트 플랫폼을 개발했다.\n회사는 지난해 10월부터 U+tv. U+모바일, U+아이들나라 서비스 개선 업무에 A/B테스트 플랫폼을 투입했다.\nLG유플러스 관계자는 데일리임팩트에 \\\"오프라인 A/B테스트는 데이터 수집·분석 과정에 너무 많은 시간과 인력이 필요했다\\\"라며 \\\"단일 서비스의 경우, 다수의 A/B테스트를 동시에 진행하기 어려운 점도 문제였다\\\"라고 설명했다.\n그는 \\\"새롭게 도입된 A/B테스트 플랫폼은 가입 고객 정보와 사용이력 데이터를 바탕으로 고객 조건을 자동 설정하거나, 실사용 행동 기록을 기반으로 고객의 반응을 집계해 자동 분석까지 가능하다\\\"라고 말했다.\n실제로 기존 A/B테스트에서는 타깃 소비자를 선정하는데 최대 3주까지 소요됐다.\n하지만 A/B테스트 플랫폼은 이를 단 2분으로 줄였다.\n최대 4주가 걸렸던 결과 분석 시간도 1시간 내에 완료된다.\nLG유플러스는 임직원 누구나 A/B테스트를 사용해 결과를 공유하고, 다수의 테스트를 동시에 진행하며 타겟 고객이 겹치지 않도록 하는 기능을 부여했다.\n또한 실험군 별로 UI/UX를 개발하지 않고도 테스트할 수 있는 '멀티편성기술'을 구현했다.\nLG유플러스는 내년부터 고객경험과 관련 서비스를 개선하는 모든 의사결정에 A/B테스트를 적극 활용할 계획이다.\n이를 통해 앞으로 데이터를 기반으로 의사결정하는 문화가 사내에 뿌리내릴 것으로 기대하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스가 11일 빅데이터를 기반으로 사용자의 수요를 쉽게 파악할 수 있는 'A/B테스트 플랫폼'을 개발했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "A/B테스트는 기존에도 사업 구상에 사용되던 의사결정 방법이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 테스트는 기존안을 A로 선정하고, 개선안을 B로 선정한 뒤, 양 안에 대한 고객의 반응을 비교해 어느 버전이 나은지를 판단하는 방법이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "LG유플러스는 디지털전환(DX)의 일환으로 빅데이터 기반의 A/B테스트 플랫폼을 개발했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "LG유플러스의 최고기술책임자(CTO) 조직은 지난해부터 클라우드, 빅데이터 기술을 활용해 통신업에 최적화 된 A/B테스트 플랫폼을 개발했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "회사는 지난해 10월부터 U+tv. U+모바일, U+아이들나라 서비스 개선 업무에 A/B테스트 플랫폼을 투입했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "LG유플러스 관계자는 데일리임팩트에 \\\"오프라인 A/B테스트는 데이터 수집·분석 과정에 너무 많은 시간과 인력이 필요했다\\\"라며 \\\"단일 서비스의 경우, 다수의 A/B테스트를 동시에 진행하기 어려운 점도 문제였다\\\"라고 설명했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "그는 \\\"새롭게 도입된 A/B테스트 플랫폼은 가입 고객 정보와 사용이력 데이터를 바탕으로 고객 조건을 자동 설정하거나, 실사용 행동 기록을 기반으로 고객의 반응을 집계해 자동 분석까지 가능하다\\\"라고 말했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "실제로 기존 A/B테스트에서는 타깃 소비자를 선정하는데 최대 3주까지 소요됐다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하지만 A/B테스트 플랫폼은 이를 단 2분으로 줄였다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "최대 4주가 걸렸던 결과 분석 시간도 1시간 내에 완료된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "LG유플러스는 임직원 누구나 A/B테스트를 사용해 결과를 공유하고, 다수의 테스트를 동시에 진행하며 타겟 고객이 겹치지 않도록 하는 기능을 부여했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "또한 실험군 별로 UI/UX를 개발하지 않고도 테스트할 수 있는 '멀티편성기술'을 구현했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "LG유플러스는 내년부터 고객경험과 관련 서비스를 개선하는 모든 의사결정에 A/B테스트를 적극 활용할 계획이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이를 통해 앞으로 데이터를 기반으로 의사결정하는 문화가 사내에 뿌리내릴 것으로 기대하고 있다.",
+				"sentenceSize": 52
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "UST, 24개 캠퍼스 208명 입학",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322148",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "녹십자엠에스, 中에 433만달러 규모 혈당측정기 공급",
+		"newsSubTitle": "",
+		"newsContent": "녹십자엠에스(대표 김영필)는 중국 천진 타임스 이눠 테크놀로지와 433만달러(약 50억원) 규모 혈당 측정기, 당화 혈색소 측정기 공급계약을 체결했다고 13일 밝혔다.\n천진 타임스 이눠 테크놀로지는 모바일 융합 건강관리 플랫폼 기업이다.\n녹십자엠에스 혈당 측정기와 당화혈색소 측정기와 연동해 중국 당뇨 시장을 공략한다.\n계약기간은 2020년 6월까지다.\n국제당뇨연맹에 따르면 중국 당뇨 환자 수는 1억명 정도다.\n2040년 환자 수가 50% 이상 증가할 것으로 예측된다.\n회사는 3월 알제리에 1230만달러 혈당 측정기 공급계약을 체결했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "녹십자엠에스(대표 김영필)는 중국 천진 타임스 이눠 테크놀로지와 433만달러(약 50억원) 규모 혈당 측정기, 당화 혈색소 측정기 공급계약을 체결했다고 13일 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "천진 타임스 이눠 테크놀로지는 모바일 융합 건강관리 플랫폼 기업이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "녹십자엠에스 혈당 측정기와 당화혈색소 측정기와 연동해 중국 당뇨 시장을 공략한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "계약기간은 2020년 6월까지다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국제당뇨연맹에 따르면 중국 당뇨 환자 수는 1억명 정도다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2040년 환자 수가 50% 이상 증가할 것으로 예측된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "회사는 3월 알제리에 1230만달러 혈당 측정기 공급계약을 체결했다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "녹십자엠에스, 中에 433만달러 규모 혈당측정기 공급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

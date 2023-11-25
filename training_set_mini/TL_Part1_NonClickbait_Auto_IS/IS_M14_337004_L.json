@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337004",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "버스 공공와이파이 사업자로 KT 선정···연내 시범서비스",
+		"newsSubTitle": "",
+		"newsContent": "KT가 버스 공공와이파이 구축 사업자로 선정됐다.\n조달청은 협상을 통해 KT를 '버스 공공와이파이 임차운영' 1차연도 사업 낙찰자로 선정했다.\nKT는 이르면 이달부터 전국 16개 시·도 시내버스 4200대에 와이파이 접속장치(AP) 등 인프라 설치를 시작한다. 1차연도 사업은 당초 6월 구축, 7·8월 시범운영, 9월 정식 서비스 일정으로 추진될 예정이었다.\n그러나 일정 지연에 따라 연내 시범운영, 내년 초 본 서비스가 예상된다.\nKT는 모바일 백홀로 롱텀에벌루션(LTE)을 활용한다.\n제안요청서(RFP)에 따르면 버스 공공와이파이는 버스당 최저 20Mbps 이상 속도를 제공, 10여명 승객 동시 접속 때 개인당 2Mbps 이상을 제공하는 게 목표다.\n과학기술정보통신부는 국민 편의성 향상을 위해 내년에 2차연도와 3차연도 사업을 동시 추진하는 방안을 검토한다.\n대상 버스는 1만9800만대다.\n앞서 1차연도 사업은 올해 7월 메가크래프트를 우선협상대상자로 선정, 협상을 진행했지만 결렬되면서 차순위 사업자인 KT가 사업을 맡게 됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT가 버스 공공와이파이 구축 사업자로 선정됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "조달청은 협상을 통해 KT를 '버스 공공와이파이 임차운영' 1차연도 사업 낙찰자로 선정했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "KT는 이르면 이달부터 전국 16개 시·도 시내버스 4200대에 와이파이 접속장치(AP) 등 인프라 설치를 시작한다. 1차연도 사업은 당초 6월 구축, 7·8월 시범운영, 9월 정식 서비스 일정으로 추진될 예정이었다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그러나 일정 지연에 따라 연내 시범운영, 내년 초 본 서비스가 예상된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KT는 모바일 백홀로 롱텀에벌루션(LTE)을 활용한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "제안요청서(RFP)에 따르면 버스 공공와이파이는 버스당 최저 20Mbps 이상 속도를 제공, 10여명 승객 동시 접속 때 개인당 2Mbps 이상을 제공하는 게 목표다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "과학기술정보통신부는 국민 편의성 향상을 위해 내년에 2차연도와 3차연도 사업을 동시 추진하는 방안을 검토한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "대상 버스는 1만9800만대다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "앞서 1차연도 사업은 올해 7월 메가크래프트를 우선협상대상자로 선정, 협상을 진행했지만 결렬되면서 차순위 사업자인 KT가 사업을 맡게 됐다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "버스 공공와이파이 사업자로 KT 선정···연내 시범서비스",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

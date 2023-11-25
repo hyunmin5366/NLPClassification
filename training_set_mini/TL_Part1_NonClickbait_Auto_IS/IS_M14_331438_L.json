@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331438",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "성능검증위성 첫 사출 큐브위성 일부 상태교신 완료...자세 제어 후 양방향 교신 예정",
+		"newsSubTitle": "",
+		"newsContent": "한국형발사체 누리호가 궤도에 올린 성능검증위성에서 처음 사출한 큐브위성이 성공적 분리를 마쳤다.\n자세 제어 후 양방향 교신을 통한 최종 성공 여부도 조만간 확인 가능할 전망이다.\n과학기술정보통신부와 한국항공우주연구원은 30일 오전 3시 48분께 조선대팀 큐브위성 STEP Cube Lab-Ⅱ의 일부 상태정보(비콘신호) 수신을 완료했다고 밝혔다.\nSTEP Cube Lab-Ⅱ는 전날 오후 4시 50분께 고도 700㎞의 성능검증위성에서 성공적으로 분리를 마쳤다.\n이후 조선대 지상국은 큐브위성 비콘신호 2회 수신을 완료했다.\n애초 목표로 했던 총수신 횟수는 20회였으나 큐브위성 자세가 현재 빠르게 회전(텀블링)하는 중으로 자세 안정화 이후 완전한 양방향 교신이 가능해진다.\n현재까지 큐브위성이 보내온 상태정보에는 위성 모드, 자세, GPS 상태(현재 꺼짐), 배터리 모드(정상), 배터리 전압(정상) 정보가 포함됐다.\n지상국은 교신 예정 시간에 따라 계속해서 상태정보 수신과 교신 명령을 진행할 계획이다.\nSTEP Cube Lab-Ⅱ를 포함한 총 4개 큐브위성은 지난 2019년 개최한 제5회 큐브위성 경연대회에서 선정된 조선대, KAIST, 서울대, 연세대 등 4개 대학팀이 직접 제작·개발한 것이다.\n그동안 해외 발사체를 이용한 과거 4차례의 큐브위성 발사에서도 양방향 교신에까지 성공한 사례는 없다.\n큐브위성은 예산이나 구조적 측면에서 상업용 위성 대비 신뢰성이 떨어지는 측면이 있고, 정확한 실패 원인을 파악하기 어려워 대부분 전력, 충격 등으로 인한 오작동으로 추정하고 있다.\n다만 이번 STEP Cube Lab-Ⅱ는 현재 배터리 모드와 전압이 정상 상태로 확인됨에 따라 앞으로 자세 안정화가 이뤄질 경우 긍정적인 결과를 기대할 수 있을 전망이다.\nSTEP Cube Lab-Ⅱ 사출 이후 성능검증위성은 질량 변화 등에 따라 자세 안정화 과정을 다시 거친다.\n이후 1일 RANDEV(KAIST), 3일 SNUGLITE-Ⅱ(서울대), 5일 MIMAN(연세대) 순으로 이틀 간격 사출이 진행된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국형발사체 누리호가 궤도에 올린 성능검증위성에서 처음 사출한 큐브위성이 성공적 분리를 마쳤다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "자세 제어 후 양방향 교신을 통한 최종 성공 여부도 조만간 확인 가능할 전망이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "과학기술정보통신부와 한국항공우주연구원은 30일 오전 3시 48분께 조선대팀 큐브위성 STEP Cube Lab-Ⅱ의 일부 상태정보(비콘신호) 수신을 완료했다고 밝혔다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "STEP Cube Lab-Ⅱ는 전날 오후 4시 50분께 고도 700㎞의 성능검증위성에서 성공적으로 분리를 마쳤다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이후 조선대 지상국은 큐브위성 비콘신호 2회 수신을 완료했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "애초 목표로 했던 총수신 횟수는 20회였으나 큐브위성 자세가 현재 빠르게 회전(텀블링)하는 중으로 자세 안정화 이후 완전한 양방향 교신이 가능해진다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재까지 큐브위성이 보내온 상태정보에는 위성 모드, 자세, GPS 상태(현재 꺼짐), 배터리 모드(정상), 배터리 전압(정상) 정보가 포함됐다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지상국은 교신 예정 시간에 따라 계속해서 상태정보 수신과 교신 명령을 진행할 계획이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "STEP Cube Lab-Ⅱ를 포함한 총 4개 큐브위성은 지난 2019년 개최한 제5회 큐브위성 경연대회에서 선정된 조선대, KAIST, 서울대, 연세대 등 4개 대학팀이 직접 제작·개발한 것이다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그동안 해외 발사체를 이용한 과거 4차례의 큐브위성 발사에서도 양방향 교신에까지 성공한 사례는 없다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "큐브위성은 예산이나 구조적 측면에서 상업용 위성 대비 신뢰성이 떨어지는 측면이 있고, 정확한 실패 원인을 파악하기 어려워 대부분 전력, 충격 등으로 인한 오작동으로 추정하고 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "다만 이번 STEP Cube Lab-Ⅱ는 현재 배터리 모드와 전압이 정상 상태로 확인됨에 따라 앞으로 자세 안정화가 이뤄질 경우 긍정적인 결과를 기대할 수 있을 전망이다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "STEP Cube Lab-Ⅱ 사출 이후 성능검증위성은 질량 변화 등에 따라 자세 안정화 과정을 다시 거친다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이후 1일 RANDEV(KAIST), 3일 SNUGLITE-Ⅱ(서울대), 5일 MIMAN(연세대) 순으로 이틀 간격 사출이 진행된다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "성능검증위성 첫 사출 큐브위성 일부 상태교신 완료...자세 제어 후 양방향 교신 예정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335323",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "어나니머스, 국내 공공기관 사이트 해킹",
+		"newsSubTitle": "",
+		"newsContent": "국제 해킹조직 어나니머스 해커가 공공기관이 운영 중인 쇼핑몰 고객 개인정보를 유출했다.\n주한 필리핀 대사관 웹서버 데이터를 원하면 연락하라는 글을 올렸다.\n어나니머스 소속이라 밝힌 '미니언 고스트'는 트위터에 한국 공공기관 해킹 사실을 알리고 일부 정보를 인터넷에 올렸다.\n어나니머스는 자료 공유 사이트 페스트빈에 00군청이 운영 중인 쇼핑몰을 해킹해 사용자 개인정보 229건을 유출했다.\n이메일과 ID, 비밀번호 등을 공개했다.\n이중에 정부 공무원 이메일이 포함돼 이를 이용한 2차 해킹 피해 우려가 높다.\n어나니머스는 주한 필리핀 대사관 웹사이트 데이터를 원하면 연락하라는 글을 올렸다.\n해킹 여부는 확인되지 않는다.\n어나니머스는 올 들어 한국을 노린 해킹을 지속했다.\n미니언 고스트 계정은 지난 11일 트위터에 서울대, 경북대, 전남대, 고려대, 한국산업기술대, KAIST 관련 서브도메인 웹사이트를 해킹해 이메일과 ID, 비밀번호를 공개했다.\n어나니머스는 6월 한국은행에 분산서비스거부(DDoS) 공격도 예고했다.\n한국은행은 6월 11일부터 21일 사이 홈페이지에 어나니머스 디도스 공격이 있을 것이라는 공고를 올렸다.\n한국은행은 당시 실제 공격이 발생하면 홈페이지 이용이 원활하지 않을 수 있다며 사전 공지했다.\n한국은행측은 실제 공격은 발생하지 않았다고 밝혔다.\n어나니머스는 고양시의회와 국가교육과정정보센터, 과천시 법무행정자료관, 제주아트센터 등 국내 홈페이지에 SQL 인젝션 보안 취약점이 있다고 올렸다.\n최상명 하우리 실장은 “SQL인젝션 공격으로 데이터베이스에서 정보를 빼내 후 일부는 공개하고 나머지는 연락하라는 글을 올리고 있다”면서 “인도네시아 해킹그룹으로 추정 된다”고 말했다.\n최 실장은 “최근 일주일 사이 국내 도메인을 뒤지며 취약한 분야를 공격하고 있다”면서 “국내는 물론 일본도 공격 중”이라고 덧붙였다.\nSQL인젝션은 웹 애플리케이션 사용자 입력 값에 필터링이 제대로 적용돼지 않을 때 발생한다.\n공격자는 입력 값을 조작해 개발자가 의도치 않은 SQL명령문을 실행해 DB를 공격한다.\n올 초 발생한 '여기어때' 고객 정보 유출사고도 SQL인젝션 공격이다.\nSQL인젝션은 대량의 정보 유출이 가능하다.\n단순 정보 유출을 넘어 2차 범죄로 이어질 수 있다.\n한국인터넷진흥원 관계자는 “정부기관과 협력해 대응 중”이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국제 해킹조직 어나니머스 해커가 공공기관이 운영 중인 쇼핑몰 고객 개인정보를 유출했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주한 필리핀 대사관 웹서버 데이터를 원하면 연락하라는 글을 올렸다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "어나니머스 소속이라 밝힌 '미니언 고스트'는 트위터에 한국 공공기관 해킹 사실을 알리고 일부 정보를 인터넷에 올렸다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "어나니머스는 자료 공유 사이트 페스트빈에 00군청이 운영 중인 쇼핑몰을 해킹해 사용자 개인정보 229건을 유출했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이메일과 ID, 비밀번호 등을 공개했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이중에 정부 공무원 이메일이 포함돼 이를 이용한 2차 해킹 피해 우려가 높다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "어나니머스는 주한 필리핀 대사관 웹사이트 데이터를 원하면 연락하라는 글을 올렸다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "해킹 여부는 확인되지 않는다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "어나니머스는 올 들어 한국을 노린 해킹을 지속했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "미니언 고스트 계정은 지난 11일 트위터에 서울대, 경북대, 전남대, 고려대, 한국산업기술대, KAIST 관련 서브도메인 웹사이트를 해킹해 이메일과 ID, 비밀번호를 공개했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "어나니머스는 6월 한국은행에 분산서비스거부(DDoS) 공격도 예고했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "한국은행은 6월 11일부터 21일 사이 홈페이지에 어나니머스 디도스 공격이 있을 것이라는 공고를 올렸다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "한국은행은 당시 실제 공격이 발생하면 홈페이지 이용이 원활하지 않을 수 있다며 사전 공지했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한국은행측은 실제 공격은 발생하지 않았다고 밝혔다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "어나니머스는 고양시의회와 국가교육과정정보센터, 과천시 법무행정자료관, 제주아트센터 등 국내 홈페이지에 SQL 인젝션 보안 취약점이 있다고 올렸다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "최상명 하우리 실장은 “SQL인젝션 공격으로 데이터베이스에서 정보를 빼내 후 일부는 공개하고 나머지는 연락하라는 글을 올리고 있다”면서 “인도네시아 해킹그룹으로 추정 된다”고 말했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "최 실장은 “최근 일주일 사이 국내 도메인을 뒤지며 취약한 분야를 공격하고 있다”면서 “국내는 물론 일본도 공격 중”이라고 덧붙였다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "SQL인젝션은 웹 애플리케이션 사용자 입력 값에 필터링이 제대로 적용돼지 않을 때 발생한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "공격자는 입력 값을 조작해 개발자가 의도치 않은 SQL명령문을 실행해 DB를 공격한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "올 초 발생한 '여기어때' 고객 정보 유출사고도 SQL인젝션 공격이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "SQL인젝션은 대량의 정보 유출이 가능하다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "단순 정보 유출을 넘어 2차 범죄로 이어질 수 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "한국인터넷진흥원 관계자는 “정부기관과 협력해 대응 중”이라고 밝혔다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "어나니머스, 국내 공공기관 사이트 해킹",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

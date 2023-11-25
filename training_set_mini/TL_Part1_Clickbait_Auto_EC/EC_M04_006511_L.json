@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006511",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "'산막·세천' 등 지역 막걸리 시장 활기",
+		"newsSubTitle": "",
+		"newsContent": "본격적인 여름철을 맞아 대전지역 막걸리 시장이 활기를 띠고 있다.\n대전에서는 신탄진주조(대덕구 상서동)에서 생산한 '산막생쌀막걸리'와 동일주조장(동구 세천동)에서 만든 '세천막걸리'가 주류를 이루고 있다.\n우선 산막생쌀막걸리의 경우 100% 국산 쌀로 만든 막걸리(알코올도수 6%)로, 쌀과 양질의 밀가루를 쪄서 자체 생산한 누룩을 사용해 발효시킨 후 지하수를 혼합해 만들어진다.\n무방부제에 살아 있는 효모 맛이 일품인 산막생쌀막걸리는 일반 막걸리와는 차별화된 맛이 특징이다.\n산막생쌀막걸리가 대덕구지역 막걸리시장을 점령하고 있는 가운데, 세천막걸리는 반세기가 넘는 동안 동구지역 애주가들에게 꾸준한 인기를 얻고 있다.\n지하 200m에서 솟아나는 천연 암반수와 오랜 전통 그대로 대형 술독에 발효시켜 제조되는 세천막걸리는 단백질과 당질, 비타민 등 생리활성 유기산들의 생성으로, 혈액순환을 촉진하고 신진대사를 원활하게 해 피로회복 및 피부미용에 좋은 막걸리로 유명하다.\n신탄진주조 관계자는 “날씨가 점점 더워지면서 막걸리를 찾는 식당(고객)이 크게 늘고 있다”면서 “막걸리는 건강식품으로, 애주가들의 한여름 무더위를 날릴 수 있는 식품”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "본격적인 여름철을 맞아 대전지역 막걸리 시장이 활기를 띠고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "대전에서는 신탄진주조(대덕구 상서동)에서 생산한 '산막생쌀막걸리'와 동일주조장(동구 세천동)에서 만든 '세천막걸리'가 주류를 이루고 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우선 산막생쌀막걸리의 경우 100% 국산 쌀로 만든 막걸리(알코올도수 6%)로, 쌀과 양질의 밀가루를 쪄서 자체 생산한 누룩을 사용해 발효시킨 후 지하수를 혼합해 만들어진다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "무방부제에 살아 있는 효모 맛이 일품인 산막생쌀막걸리는 일반 막걸리와는 차별화된 맛이 특징이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "산막생쌀막걸리가 대덕구지역 막걸리시장을 점령하고 있는 가운데, 세천막걸리는 반세기가 넘는 동안 동구지역 애주가들에게 꾸준한 인기를 얻고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지하 200m에서 솟아나는 천연 암반수와 오랜 전통 그대로 대형 술독에 발효시켜 제조되는 세천막걸리는 단백질과 당질, 비타민 등 생리활성 유기산들의 생성으로, 혈액순환을 촉진하고 신진대사를 원활하게 해 피로회복 및 피부미용에 좋은 막걸리로 유명하다.",
+				"sentenceSize": 139
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신탄진주조 관계자는 “날씨가 점점 더워지면서 막걸리를 찾는 식당(고객)이 크게 늘고 있다”면서 “막걸리는 건강식품으로, 애주가들의 한여름 무더위를 날릴 수 있는 식품”이라고 말했다.",
+				"sentenceSize": 101
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "지난해 벤처기업 '쑥쑥 컸다'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

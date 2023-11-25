@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326041",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "몸값 650만원짜리 랜섬웨어 등장",
+		"newsSubTitle": "",
+		"newsContent": "몸값이 650만원(2비트코인)에 달하는 랜섬웨어가 출현했다.\n하우리(대표 김희천)는 최근 스팸 메일을 통해 '재프(jaff) 랜섬웨어'가 무작위로 유포돼 주의를 당부했다.\n재프 랜섬웨어는 네커스(Necurs) 봇넷을 이용해 급속도로 확산 중이다.\n네커스 봇넷은 금융정보 탈취 악성코드인 드리덱스(Dridex)와 록키(Locky) 랜섬웨어 유포에 활용됐던 스팸 봇넷이다.\n공격자는 스팸 봇넷을 활용해 재프 랜섬웨어를 이메일을 통해 불특정 다수에게 무작위로 유포한다.\n피해자가 스팸 메일에 첨부된 PDF 문서파일을 실행할 경우 문서 내부의 또 다른 워드 문서 파일이 열람된다.\n사용자가 매크로를 활성화하도록 유도한다.\n매크로가 실행되면 명령제어(C&C) 서버에 연결해 암호화 키를 받는다.\n이후 특정 확장자를 가진 파일을 찾아 암호화한 후 파일에 '.jaff' 확장자를 추가한다.\n재프 랜섬웨어에 감염되면 사용자 PC에 존재하는 422개의 확장자를 포함하는 파일들을 대상으로 암호화를 수행한다.\nReadMe.html, ReadMe.txt, ReadMe.bmp를 생성하고 사용자가 몸값 비용을 내도록 유도한다.\n재프 랜섬웨어의 몸값은 2비트코인이며 한화로 약 650만 원이다.\n김동준 하우리 연구원은 \\\"'네커스 봇넷으로 유포 중이던 '록키 랜섬웨어'가 '재프 랜섬웨어'로 세대 교체한 것으로 보인다\\\"라며, \\\"출처가 불분명한 이메일은 열람을 주의하고 첨부파일 실행 전에 검사한다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "몸값이 650만원(2비트코인)에 달하는 랜섬웨어가 출현했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하우리(대표 김희천)는 최근 스팸 메일을 통해 '재프(jaff) 랜섬웨어'가 무작위로 유포돼 주의를 당부했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "재프 랜섬웨어는 네커스(Necurs) 봇넷을 이용해 급속도로 확산 중이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "네커스 봇넷은 금융정보 탈취 악성코드인 드리덱스(Dridex)와 록키(Locky) 랜섬웨어 유포에 활용됐던 스팸 봇넷이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "공격자는 스팸 봇넷을 활용해 재프 랜섬웨어를 이메일을 통해 불특정 다수에게 무작위로 유포한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "피해자가 스팸 메일에 첨부된 PDF 문서파일을 실행할 경우 문서 내부의 또 다른 워드 문서 파일이 열람된다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "사용자가 매크로를 활성화하도록 유도한다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "매크로가 실행되면 명령제어(C&C) 서버에 연결해 암호화 키를 받는다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 특정 확장자를 가진 파일을 찾아 암호화한 후 파일에 '.jaff' 확장자를 추가한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "재프 랜섬웨어에 감염되면 사용자 PC에 존재하는 422개의 확장자를 포함하는 파일들을 대상으로 암호화를 수행한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ReadMe.html, ReadMe.txt, ReadMe.bmp를 생성하고 사용자가 몸값 비용을 내도록 유도한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "재프 랜섬웨어의 몸값은 2비트코인이며 한화로 약 650만 원이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "김동준 하우리 연구원은 \\\"'네커스 봇넷으로 유포 중이던 '록키 랜섬웨어'가 '재프 랜섬웨어'로 세대 교체한 것으로 보인다\\\"라며, \\\"출처가 불분명한 이메일은 열람을 주의하고 첨부파일 실행 전에 검사한다\\\"고 밝혔다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "몸값 650만원짜리 랜섬웨어 등장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

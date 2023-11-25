@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338898",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "ASML \\\"High-NA로 차세대 반도체 미세 공정 구현\\\"",
+		"newsSubTitle": "",
+		"newsContent": "반도체 노광장비 업체인 ASML이 반도체 회로 미세화에 대응해 차세대 노광기술인 'High-NA(렌즈 수차)' 구현에 공을 들인다.\nHigh-NA는 반도체 노광 공정에서 빛의 왜곡을 최소화해 회로를 더욱 선명하고 미세하게 찍어내는 기술이다.\nASML은 수년 내 High-NA를 구현해 관련 기기에 적용한다는 방침이다.\n30일 업계에 따르면 ASML은 극자외선(EUV) 노광장비 차세대 버전을 High-NA로 점찍고 2025년 관련 기기를 양산하기 위해 매진하고 있다.\nHigh-NA는 EUV 노광 공정에 적용되는 미러(또는 렌즈) 해상력을 높이는 기술이다.\n해상력은 렌즈가 화면이나 물체를 실제 모습처럼 비칠 수 있는 능력을 뜻한다.\nNA 수치가 높으면 해상력이 증가한다.\n빛 굴절률을 줄일수록 NA도 올라가는데, 굴절이 적을수록 물체는 있는 그대로의 모습처럼 보일 수 있다.\n반도체 노광 작업에서도 NA 개념은 중요하다.\n노광 공정이란 미러를 통과한 빛을 웨이퍼에 전달해 반도체 회로를 반복적으로 찍어내는 작업이다.\nNA를 높일수록 회로를 머금은 빛이 더욱 선명해지고, 반도체 초미세화를 구현할 수 있다.\n반도체 업계에서 주목받는 극자외선(EUV) 노광 공정은 10개 미상의 미러로 EUV 광원을 웨이퍼에 도달하게 하는 '반사식'을 사용한다.\n현재까지 EUV 장비에 탑재된 미러의 NA는 0.33이다.\nASML은 기술 연구를 통해 차세대 장비는 0.55 NA로 강화한다는 방침이다.\n이명규 ASML코리아 이사는 \\\"현재 기술로 0.55 NA를 구현하는 것은 쉽지 않다\\\"며 \\\"이 기술을 적용한 차세대 EUV 노광장비를 개발해 수년내 본격적인 양산을 시작할 것\\\"이라고 전했다.\n그러나 NA를 높이려면 미러 크기가 필수적으로 커져야 한다.\n이는 설비 크기가 커질 수밖에 없다는 한계점을 가지고 있다.\n0.33 NA 구현에 사용했던 기존 공정 인프라를 활용해야 해서, 설비 크기를 무한정 늘릴 수 없다는 과제가 발생한다.\n이러한 문제점을 해결하기 위해 ASML은 '아나모픽 광학 렌즈'를 활용할 방침이다.\n가로, 세로 방향이 있는 그대로 그려지는 기존의 '아이소모픽(isomorphic)' 광학과는 달리, 가로축을 인공적으로 늘려서 해상력을 보완하는 게 골자다.\nASML은 아나모픽 렌즈 기술을 구현하기 위해 독일 자이스 반도체 사업부문인 칼자이스SMT의 기술력을 활용한다.\n회사는 이미 2016년 칼자이스SMT 지분을 24.9% 인수한 바 있다.\nASML코리아 관계자는 \\\"High-NA를 구현할 때 설비 크기를 무한대로 늘릴 수 없기 때문에, 아나모픽 렌즈는 이에 대한 대안이 될 수 있다\\\"며 \\\"반도체 미세 공정에 도움을 줄 수 있는 High-NA는 ASML이 독자적으로 해결할 수 있는 과제가 아니라, 협력사들이 함께 개발해야 상용화를 할 수 있을 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "반도체 노광장비 업체인 ASML이 반도체 회로 미세화에 대응해 차세대 노광기술인 'High-NA(렌즈 수차)' 구현에 공을 들인다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "High-NA는 반도체 노광 공정에서 빛의 왜곡을 최소화해 회로를 더욱 선명하고 미세하게 찍어내는 기술이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ASML은 수년 내 High-NA를 구현해 관련 기기에 적용한다는 방침이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "30일 업계에 따르면 ASML은 극자외선(EUV) 노광장비 차세대 버전을 High-NA로 점찍고 2025년 관련 기기를 양산하기 위해 매진하고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "High-NA는 EUV 노광 공정에 적용되는 미러(또는 렌즈) 해상력을 높이는 기술이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해상력은 렌즈가 화면이나 물체를 실제 모습처럼 비칠 수 있는 능력을 뜻한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "NA 수치가 높으면 해상력이 증가한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "빛 굴절률을 줄일수록 NA도 올라가는데, 굴절이 적을수록 물체는 있는 그대로의 모습처럼 보일 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "반도체 노광 작업에서도 NA 개념은 중요하다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "노광 공정이란 미러를 통과한 빛을 웨이퍼에 전달해 반도체 회로를 반복적으로 찍어내는 작업이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "NA를 높일수록 회로를 머금은 빛이 더욱 선명해지고, 반도체 초미세화를 구현할 수 있다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "반도체 업계에서 주목받는 극자외선(EUV) 노광 공정은 10개 미상의 미러로 EUV 광원을 웨이퍼에 도달하게 하는 '반사식'을 사용한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "현재까지 EUV 장비에 탑재된 미러의 NA는 0.33이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "ASML은 기술 연구를 통해 차세대 장비는 0.55 NA로 강화한다는 방침이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이명규 ASML코리아 이사는 \\\"현재 기술로 0.55 NA를 구현하는 것은 쉽지 않다\\\"며 \\\"이 기술을 적용한 차세대 EUV 노광장비를 개발해 수년내 본격적인 양산을 시작할 것\\\"이라고 전했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "그러나 NA를 높이려면 미러 크기가 필수적으로 커져야 한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이는 설비 크기가 커질 수밖에 없다는 한계점을 가지고 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "0.33 NA 구현에 사용했던 기존 공정 인프라를 활용해야 해서, 설비 크기를 무한정 늘릴 수 없다는 과제가 발생한다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이러한 문제점을 해결하기 위해 ASML은 '아나모픽 광학 렌즈'를 활용할 방침이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "가로, 세로 방향이 있는 그대로 그려지는 기존의 '아이소모픽(isomorphic)' 광학과는 달리, 가로축을 인공적으로 늘려서 해상력을 보완하는 게 골자다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "ASML은 아나모픽 렌즈 기술을 구현하기 위해 독일 자이스 반도체 사업부문인 칼자이스SMT의 기술력을 활용한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "회사는 이미 2016년 칼자이스SMT 지분을 24.9% 인수한 바 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "ASML코리아 관계자는 \\\"High-NA를 구현할 때 설비 크기를 무한대로 늘릴 수 없기 때문에, 아나모픽 렌즈는 이에 대한 대안이 될 수 있다\\\"며 \\\"반도체 미세 공정에 도움을 줄 수 있는 High-NA는 ASML이 독자적으로 해결할 수 있는 과제가 아니라, 협력사들이 함께 개발해야 상용화를 할 수 있을 것\\\"이라고 말했다.",
+				"sentenceSize": 184
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "ASML \\\"High-NA로 차세대 반도체 미세 공정 구현\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

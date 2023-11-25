@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335141",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "게임",
+		"newsTitle": "인스타·페북, 또 밤새 먹통...\\\"시스템 조정 중 장애 발생\\\"",
+		"newsSubTitle": "",
+		"newsContent": "인스타그램과 페이스북이 3일 밤부터 4일 새벽까지 장애를 일으켰다.\n일부 이용자가 수 시간동안 서비스 이용에 불편을 겪었다.\n유지보수 과정에서 문제가 생겼다.\n4일 인터넷업계에 따르면 페이스북이 운영하는 인스타그램, 페이스북, 와츠앱 등에서 3일 밤부터 이미지 로딩이 안 되는 장애가 발생했다.\n서비스 장애는 주로 인스타그램에 집중됐다.\n한국은 물론 유럽과 남미 등 광범위한 지역에서 오류가 나타났다.\n인스타그램은 4일 새벽 1시 경 공식 트위터 계정을 통해 “일부 이용자가 인스타그램에 이미지와 비디오를 업로드하거나 보내는 데 문제를 겪고 있다”며 “빠른 정상화를 위해 노력하고 있다”고 입장을 밝혔다.\n이들 서비스는 4일 오전 9시 기준 대부분 정상으로 돌아왔다.\n페이스북 관련 서비스가 장애를 일으킨 것은 올해 5번째다.\n1월, 3월, 4월, 6월까지 거의 매달 크고 작은 장애를 일으켰다.\n3월 장애 당시 페이스북은 서버 구성 변경 과정에서 문제가 생겼다고 밝혔다.\n이번 장애 역시 시스템을 손보다 발생했다는 입장이다.\n페이스북 관계자는 “전기설비 등 시스템을 조정하는 과정에서 문제가 발생했다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인스타그램과 페이스북이 3일 밤부터 4일 새벽까지 장애를 일으켰다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "일부 이용자가 수 시간동안 서비스 이용에 불편을 겪었다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "유지보수 과정에서 문제가 생겼다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "4일 인터넷업계에 따르면 페이스북이 운영하는 인스타그램, 페이스북, 와츠앱 등에서 3일 밤부터 이미지 로딩이 안 되는 장애가 발생했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "서비스 장애는 주로 인스타그램에 집중됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한국은 물론 유럽과 남미 등 광범위한 지역에서 오류가 나타났다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인스타그램은 4일 새벽 1시 경 공식 트위터 계정을 통해 “일부 이용자가 인스타그램에 이미지와 비디오를 업로드하거나 보내는 데 문제를 겪고 있다”며 “빠른 정상화를 위해 노력하고 있다”고 입장을 밝혔다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이들 서비스는 4일 오전 9시 기준 대부분 정상으로 돌아왔다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "페이스북 관련 서비스가 장애를 일으킨 것은 올해 5번째다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "1월, 3월, 4월, 6월까지 거의 매달 크고 작은 장애를 일으켰다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "3월 장애 당시 페이스북은 서버 구성 변경 과정에서 문제가 생겼다고 밝혔다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이번 장애 역시 시스템을 손보다 발생했다는 입장이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "페이스북 관계자는 “전기설비 등 시스템을 조정하는 과정에서 문제가 발생했다”고 말했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인스타·페북, 또 밤새 먹통...\\\"시스템 조정 중 장애 발생\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015315",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "IP 대신 ID로 통신하는 세상",
+		"newsSubTitle": "ETRI, 차세대 네트워킹 핵심기술 개발",
+		"newsContent": "이젠 인터넷 프로토콜(IP)기반 세대가 아닌 식별자(ID)기반 세대가 온다.\nETRI(한국전자통신연구원)은 IP를 기반으로 통신하는 것이 아닌, ID에 기반해 통신하는 핵심기술을 개발했다고 28일 밝혔다.\n지금까지 일반적 유ㆍ무선 통신의 네트워크는 IP를 기반으로 이뤄졌다.\nIP는 주소 기반 통신으로 수신자가 이동하거나 네트워크에 같은 수신 데이터가 있을 때 불편이 있었다.\n즉, 회사 컴퓨터를 사용할 때 설정된 IP 주소로 출장이나 집에 갔을 때 사용이 불가능했기 때문이다.\n그러나 ID는 고유 이름처럼 식별자를 통해 통신하는 방식으로 IP 주소와는 독립적으로 사용될 수 있다.\n연구진은 ID 기술이 단말, 사람, 데이터, 서비스 등 다양한 통신 객체에 식별자 부여가 가능하다고 설명했다.\n따라서 향후 다가오는 5세대(5G) 이동통신시대, 사물인터넷(IoT) 시대에는 수백억개 이상의 디바이스들이 연결될 것으로 예상되는 가운데 ID 기술은 꼭 필요한 기술이 될 것으로 전망된다.\nETRI는 이번 기술이 대규모성, 이동성, 보안성을 갖춰 제2의 인터넷 기반 기술이 될 것이라고 설명했다.\n정희영 ETRI ID통신연구실장은 “현재 인터넷과 같이 선진국에서 개발한 기술을 가져다 쓰는 수준에서 벗어나고 차세대 네트워크 시장에서는 선진국과 동등하게 기술 경쟁을 할 수 있는 원천기술을 확보한 것에 큰 의의가 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이젠 인터넷 프로토콜(IP)기반 세대가 아닌 식별자(ID)기반 세대가 온다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "ETRI(한국전자통신연구원)은 IP를 기반으로 통신하는 것이 아닌, ID에 기반해 통신하는 핵심기술을 개발했다고 28일 밝혔다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지금까지 일반적 유ㆍ무선 통신의 네트워크는 IP를 기반으로 이뤄졌다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "IP는 주소 기반 통신으로 수신자가 이동하거나 네트워크에 같은 수신 데이터가 있을 때 불편이 있었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "즉, 회사 컴퓨터를 사용할 때 설정된 IP 주소로 출장이나 집에 갔을 때 사용이 불가능했기 때문이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그러나 ID는 고유 이름처럼 식별자를 통해 통신하는 방식으로 IP 주소와는 독립적으로 사용될 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구진은 ID 기술이 단말, 사람, 데이터, 서비스 등 다양한 통신 객체에 식별자 부여가 가능하다고 설명했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "따라서 향후 다가오는 5세대(5G) 이동통신시대, 사물인터넷(IoT) 시대에는 수백억개 이상의 디바이스들이 연결될 것으로 예상되는 가운데 ID 기술은 꼭 필요한 기술이 될 것으로 전망된다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "ETRI는 이번 기술이 대규모성, 이동성, 보안성을 갖춰 제2의 인터넷 기반 기술이 될 것이라고 설명했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "정희영 ETRI ID통신연구실장은 “현재 인터넷과 같이 선진국에서 개발한 기술을 가져다 쓰는 수준에서 벗어나고 차세대 네트워크 시장에서는 선진국과 동등하게 기술 경쟁을 할 수 있는 원천기술을 확보한 것에 큰 의의가 있다”고 말했다.",
+				"sentenceSize": 129
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "ESG경영 지각생 국책銀…생일 앞두고 위원회·전담조직 구축 박차",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

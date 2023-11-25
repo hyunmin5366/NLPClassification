@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008361",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "“농협 전산마비 최소 한달전 준비”",
+		"newsSubTitle": "검찰 범행사용 노트북 분석… 수사 장기화 가능성 예고",
+		"newsContent": "농협 전산망 마비 사건을 수사하고 있는 서울중앙지검 첨단범죄수사2부는 19일 “이번 사건은 최소한 한 달 정도 준비한 것으로 보인다”고 밝혔다.\n검찰은 “농협 서버와 범행에 사용된 노트북 컴퓨터를 분석한 결과 이 같이 추정된다”며 “기존의 범행과는 양태나 방법이 완전히 다르다”고 말했다.\n검찰은 이어 “범행방법과 수단이 치밀하고 복잡해서 상당한 시간이 걸릴 것”이라고 말해 수사가 장기화될 가능성도 배제하지 않고 있다.\n검찰은 삭제명령의 진원지인 한국IBM 직원 노트북을 복구하는 과정에서 이번 사태가 발생한 지난 12일 이전에 농협의 서버를 공격하도록 프로그램화된 파일이 단계적으로 심어졌고, 당일 일제히 실행됐다는 점을 파악할 수 있는 증거를 확보했다.\n이는 내부 시스템 사정과 운영구조를 훤히 잘 아는 내부 직원의 소행이거나 내부자가 외부 해커와 공모해 범행했을 개연성이 짙다는 점을 시사하는 것이어서 주목된다.\n검찰은 농협 메인 서버에 대한 최고 접근 권한(Super Root)을 가진 농협 IT 본부(전산센터) 및 한국IBM 직원 5명 중 수상한 행적을 보인 2~3명을 이미 출국금지 조치한 데 이어 사건 개입 여부를 확인하고 있다.\n또 몇몇 직원의 자택 등을 압수수색해 개인적으로 보관하던 서버 및 보안 관련 파일 등 각종 전산자료를 확보하고 분석 중인 것으로 전해졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "농협 전산망 마비 사건을 수사하고 있는 서울중앙지검 첨단범죄수사2부는 19일 “이번 사건은 최소한 한 달 정도 준비한 것으로 보인다”고 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "검찰은 “농협 서버와 범행에 사용된 노트북 컴퓨터를 분석한 결과 이 같이 추정된다”며 “기존의 범행과는 양태나 방법이 완전히 다르다”고 말했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "검찰은 이어 “범행방법과 수단이 치밀하고 복잡해서 상당한 시간이 걸릴 것”이라고 말해 수사가 장기화될 가능성도 배제하지 않고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "검찰은 삭제명령의 진원지인 한국IBM 직원 노트북을 복구하는 과정에서 이번 사태가 발생한 지난 12일 이전에 농협의 서버를 공격하도록 프로그램화된 파일이 단계적으로 심어졌고, 당일 일제히 실행됐다는 점을 파악할 수 있는 증거를 확보했다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이는 내부 시스템 사정과 운영구조를 훤히 잘 아는 내부 직원의 소행이거나 내부자가 외부 해커와 공모해 범행했을 개연성이 짙다는 점을 시사하는 것이어서 주목된다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "검찰은 농협 메인 서버에 대한 최고 접근 권한(Super Root)을 가진 농협 IT 본부(전산센터) 및 한국IBM 직원 5명 중 수상한 행적을 보인 2~3명을 이미 출국금지 조치한 데 이어 사건 개입 여부를 확인하고 있다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 몇몇 직원의 자택 등을 압수수색해 개인적으로 보관하던 서버 및 보안 관련 파일 등 각종 전산자료를 확보하고 분석 중인 것으로 전해졌다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "수수료 인하에 꼼수 있었다?",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

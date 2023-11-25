@@ -1,0 +1,132 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015443",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "'대출권유' 3년연속 스팸전화 1위",
+		"newsSubTitle": "kt 앱 '후후' 통계 37.8% 차지",
+		"newsContent": "대출권유 전화가 3년 연속 스팸전화 유형 1위를 기록한 것으로 조사됐다.\n20일 kt CS가 발표한 '스팸차단 앱 후후 2015년 스팸신고 통계'에 따르면 1925만 8548건의 스팸신고 중 37.8%인 723만 3579건이 대출권유인 것으로 집계됐다.\n이어 휴대폰판매가 311만 996건(16.1%), 텔레마케팅 267만 9379건(13.9%), 불법게임·도박 145만 8481건(7.6%), 성인·유흥업소 140만 6716건(7.3%) 순이다.\n이어 스팸신고가 가장 많은 전화번호는 013-3366-56**으로 2년 연속 1위를 차지했다.\n이 번호는 소셜네트워크서비스(SNS) 초청을 가장한 스미싱 문자로 지난해 3만 3213건의 신고가 접수됐다.\n스미싱이란 쿠폰 등의 초대장을 가장해 인터넷주소를 보낸다.\n이를 클릭할 경우 악성코드가 설치돼 소액결제 피해 발생과 개인금융정보가 빠져나간다.\n새로운 번호의 스팸전화도 꾸준히 증가세다.\n스팸전화 중 최초 신고된 번호는 57.5%다.\n이는 2013년 25%에서 2014년 17.5%로 하락하다 2015년 확 늘었다.\n신고건수 전화번호 유형을 살펴보면 070이 653만 2442건으로 33.9%를 차지했으며 유선전화 32.5%(625만 5954건), 휴대전화 22.9%(440만 4785건) 등이다.\n스팸신고가 가장 많은 달은 3월로 267만 766건을 기록했으며 요일별로는 목요일로 376만 26건이 접수됐고, 오전 11시 239만 5910건의 신고가 몰렸다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 12,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대출권유 전화가 3년 연속 스팸전화 유형 1위를 기록한 것으로 조사됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 kt CS가 발표한 '스팸차단 앱 후후 2015년 스팸신고 통계'에 따르면 1925만 8548건의 스팸신고 중 37.8%인 723만 3579건이 대출권유인 것으로 집계됐다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이어 휴대폰판매가 311만 996건(16.1%), 텔레마케팅 267만 9379건(13.9%), 불법게임·도박 145만 8481건(7.6%), 성인·유흥업소 140만 6716건(7.3%) 순이다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 스팸신고가 가장 많은 전화번호는 013-3366-56**으로 2년 연속 1위를 차지했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 번호는 소셜네트워크서비스(SNS) 초청을 가장한 스미싱 문자로 지난해 3만 3213건의 신고가 접수됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "스미싱이란 쿠폰 등의 초대장을 가장해 인터넷주소를 보낸다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이를 클릭할 경우 악성코드가 설치돼 소액결제 피해 발생과 개인금융정보가 빠져나간다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "새로운 번호의 스팸전화도 꾸준히 증가세다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "스팸전화 중 최초 신고된 번호는 57.5%다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이는 2013년 25%에서 2014년 17.5%로 하락하다 2015년 확 늘었다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "신고건수 전화번호 유형을 살펴보면 070이 653만 2442건으로 33.9%를 차지했으며 유선전화 32.5%(625만 5954건), 휴대전화 22.9%(440만 4785건) 등이다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "스팸신고가 가장 많은 달은 3월로 267만 766건을 기록했으며 요일별로는 목요일로 376만 26건이 접수됐고, 오전 11시 239만 5910건의 신고가 몰렸다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "포켓몬 입은 갤럭시Z플립3 5분만에 '완판'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

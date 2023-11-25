@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_353837",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"귀하는 코로나 격리대상\\\" 안내문, 무턱대고 눌렀더니...",
+		"newsSubTitle": "null",
+		"newsContent": "지난달 역대 최다 코로나19(COVID) 확진자를 기록하면서 이를 악용한 악성코드가 대량 유포돼 이용자 주의가 당부된다.\n6일 보안기업 안랩에 따르면 지난 3월 한달 간 '울진 산불피해 기부금 영수증', '코로나 확진자 및 동거인 안내문' 등으로 위장한 악성문서 사례가 잇따라 발견됐다. '확진자 및 동거인 안내문'이라는 제목의 파일을 누르면 격리기간과 장소 등 실제 안내문과 함께 악성코드를 PC에 다운받는 프로그램이 사용자 몰래 실행된다.\n울진 산불피해 기부금 영수증을 가장한 악성코드도 발견됐다.\nMS워드 형식의 파일에는 '울진 화재복구'라는 문구와 기부금액이 적혀있다.\n해당 문서를 열면 상단에 '콘텐츠 사용' 이라는 버튼이 나타나는데, 이를 누르면 추가 악성코드를 몰래 다운로드하는 매크로 프로그램이 작동한다.\n안랩에 따르면 이외에도 최근 제품 소개 카탈로그 위장한 악성파일도 발견됐따. 전문가들은 피해를 예방하려면 출처가 불분명한 문서 파일은 열지 말아야 하며, MS워드와 같은 오피스 프로그램과 인터넷 브라우저 프로그램은 모두 최신 보안패치를 설치해야 한다고 권고한다.\n양하영 안랩 분석팀 팀장은 \\\"공격자는 사용자들이 많은 관심을 보일만한 특정 시기의 소재를 적극 활용해 악성코드를 유포한다\\\"며 \\\"의심스러운 문서는 열지 않는 등 기본 보안수칙을 철저히 지켜야 한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난달 역대 최다 코로나19(COVID) 확진자를 기록하면서 이를 악용한 악성코드가 대량 유포돼 이용자 주의가 당부된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "6일 보안기업 안랩에 따르면 지난 3월 한달 간 '울진 산불피해 기부금 영수증', '코로나 확진자 및 동거인 안내문' 등으로 위장한 악성문서 사례가 잇따라 발견됐다. '확진자 및 동거인 안내문'이라는 제목의 파일을 누르면 격리기간과 장소 등 실제 안내문과 함께 악성코드를 PC에 다운받는 프로그램이 사용자 몰래 실행된다.",
+				"sentenceSize": 179
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "울진 산불피해 기부금 영수증을 가장한 악성코드도 발견됐다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "MS워드 형식의 파일에는 '울진 화재복구'라는 문구와 기부금액이 적혀있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 문서를 열면 상단에 '콘텐츠 사용' 이라는 버튼이 나타나는데, 이를 누르면 추가 악성코드를 몰래 다운로드하는 매크로 프로그램이 작동한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안랩에 따르면 이외에도 최근 제품 소개 카탈로그 위장한 악성파일도 발견됐따. 전문가들은 피해를 예방하려면 출처가 불분명한 문서 파일은 열지 말아야 하며, MS워드와 같은 오피스 프로그램과 인터넷 브라우저 프로그램은 모두 최신 보안패치를 설치해야 한다고 권고한다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "양하영 안랩 분석팀 팀장은 \\\"공격자는 사용자들이 많은 관심을 보일만한 특정 시기의 소재를 적극 활용해 악성코드를 유포한다\\\"며 \\\"의심스러운 문서는 열지 않는 등 기본 보안수칙을 철저히 지켜야 한다\\\"고 말했다.",
+				"sentenceSize": 119
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"귀하는 코로나 격리대상\\\" 안내문, 무턱대고 눌렀더니...",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

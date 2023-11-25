@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327603",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "어니컴, AI융합 국민 안전 확보 검증 사업 수주",
+		"newsSubTitle": "",
+		"newsContent": "어니컴(대표 이석호)은 정보통신산업진흥원(NIPA)이 전담하고 마크애니, 엠제이비전테크, 원모어시큐리티가 주관기관으로 진행하는 'AI모델 개발 및 실증 사업'에 검증 업체로 선정됐다고 27일 밝혔다.\n본 사업은 미아, 치매환자 등 실종자를 다양한 속성 정보(옷 종류, 색상, 액세서리 착용 정보 등)로 찾아내는 AI 모델 고도화 사업이다.\n어니컴은 성능 평가 기관으로서 AI 기업 검증 데이터 구성과 평가 모델을 구축하고 상시 테스팅을 통해 컨소시엄의 AI 역량을 고도화 할 예정이다.\n손영수 어니컴 상무는 “법무부 안면인식 식별·검증, 관세청 불법복제 판독 사업을 진행한 경험을 높이 평가 받았다”며 “대규모 AI 검증 프로젝트 수행을 통해 고도화된 'AIQA 솔루션'의 평가 시스템과 데이터 품질 전반에서도 높은 평가를 준 것 같다”고 말했다.\nAIQA는 학습 데이터 품질의 라이브러리 호환성, 통계 정보, 구문 정확성을 판독하고 AI 모델을 검증하기 위한 평가 인터페이스를 제공하는 프레임워크이다.\n테스트 후 당일 또는 다음 날 결과 리포트를 받을 수 있어 저렴한 비용으로 테스트 상시 체계를 확보할 수 있는 장점이 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "어니컴(대표 이석호)은 정보통신산업진흥원(NIPA)이 전담하고 마크애니, 엠제이비전테크, 원모어시큐리티가 주관기관으로 진행하는 'AI모델 개발 및 실증 사업'에 검증 업체로 선정됐다고 27일 밝혔다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "본 사업은 미아, 치매환자 등 실종자를 다양한 속성 정보(옷 종류, 색상, 액세서리 착용 정보 등)로 찾아내는 AI 모델 고도화 사업이다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "어니컴은 성능 평가 기관으로서 AI 기업 검증 데이터 구성과 평가 모델을 구축하고 상시 테스팅을 통해 컨소시엄의 AI 역량을 고도화 할 예정이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "손영수 어니컴 상무는 “법무부 안면인식 식별·검증, 관세청 불법복제 판독 사업을 진행한 경험을 높이 평가 받았다”며 “대규모 AI 검증 프로젝트 수행을 통해 고도화된 'AIQA 솔루션'의 평가 시스템과 데이터 품질 전반에서도 높은 평가를 준 것 같다”고 말했다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "AIQA는 학습 데이터 품질의 라이브러리 호환성, 통계 정보, 구문 정확성을 판독하고 AI 모델을 검증하기 위한 평가 인터페이스를 제공하는 프레임워크이다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "테스트 후 당일 또는 다음 날 결과 리포트를 받을 수 있어 저렴한 비용으로 테스트 상시 체계를 확보할 수 있는 장점이 있다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "어니컴, AI융합 국민 안전 확보 검증 사업 수주",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

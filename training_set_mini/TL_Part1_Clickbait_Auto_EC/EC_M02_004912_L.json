@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004912",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "현대중공업 군산조선소, 6년여 만에 재가동 앞둬",
+		"newsSubTitle": "24일 재가동 협약 체결 내년 1월부터 블록 생산키로",
+		"newsContent": "2010년대 해양플랜트 대규모 부실 사태 여파로 가동이 중단됐던 현대중공업 군산조선소가 6년여 만에 재가동된다.\n22일 조선업계에 따르면 군산시는 전라북도·산업통상자원부·현대중공업 측과 오는 24일 군산조선소 재가동 관련 협약을 체결할 예정이다.\n이에 따라 군산조선소는 이르면 오는 2023년 1월부터 선박 블록을 생산할 것으로 보인다.\n전북도와 군산시는 용접 등 기술인력 양성 및 블록의 울산 이전에 필요한 물류비 일부를 지원할 전망이다.\n군산시와 전북도, 현대중공업 측은 지난 2021년부터 군산조선소 재가동을 위한 협의체를 구성해 재가동 시기 등을 조율해왔다.\n앞서 현대중공업은 국내 조선업체 대규모 수주가뭄 등으로 지난 2017년 7월부터 가동을 전면 중단했다.\n이에 군산지역 경제도 적지 않은 타격을 입었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2010년대 해양플랜트 대규모 부실 사태 여파로 가동이 중단됐던 현대중공업 군산조선소가 6년여 만에 재가동된다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 조선업계에 따르면 군산시는 전라북도·산업통상자원부·현대중공업 측과 오는 24일 군산조선소 재가동 관련 협약을 체결할 예정이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 따라 군산조선소는 이르면 오는 2023년 1월부터 선박 블록을 생산할 것으로 보인다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전북도와 군산시는 용접 등 기술인력 양성 및 블록의 울산 이전에 필요한 물류비 일부를 지원할 전망이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "군산시와 전북도, 현대중공업 측은 지난 2021년부터 군산조선소 재가동을 위한 협의체를 구성해 재가동 시기 등을 조율해왔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "앞서 현대중공업은 국내 조선업체 대규모 수주가뭄 등으로 지난 2017년 7월부터 가동을 전면 중단했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 군산지역 경제도 적지 않은 타격을 입었다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "유통업체 매출, 편의점만 껑충",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

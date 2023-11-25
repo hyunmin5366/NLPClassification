@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334349",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "코닉글로리, WIPS PMF 차단기술 특허출원",
+		"newsSubTitle": "",
+		"newsContent": "무선차단시스템(WIPS) 시장 점유율 1위를 달리는 코닉글로리(네오리진 보안사업부문)는 와이파이6 환경에서 PMF(Protected Management Frames) 차단을 위한 신규 특허를 출원했다고 22일 밝혔다.\n무선침입방지시스템(WIPS)은 무선네트워크 내∙외부에서 발생하는 불법 행위를 탐지∙차단하는 솔루션이다.\n최근 스마트 오피스와 클라우드 환경 확장으로 무선통신 보안 취약성 노출 가능성이 높아지면서 내부 무선 통신망에 대한 보안 시스템으로 폭넓게 도입되고 있다.\n코닉글로리가 출원한 특허는 'WIPS 센서 및 WIPS 센서를 이용한 불법 무선 단말의 침입 차단 방법'으로 PMF 환경에서 불법 단말을 완벽하게 차단하는 기술을 기반으로 한다.\n기존 무선통신이 평문이라면 PMF는 암호화된 통신으로서 암호화된 특정 단말만 탐지∙차단할 수 있다.\n코닉글로리 관계자는 \\\"특허는 PMF 차단 시 불법 단말 이외의 정상적인 통신에도 영향을 주는 상황을 원천적으로 해소하고 특정 불법 단말을 개별 차단해 무선네트워크 망 운용 안정성과 보안성을 개선하게 됐다\\\"며 \\\"해당 기술은 PMF 차단에 국한되지 않고 모든 불법적인 무선 통신에 적용할 수 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "무선차단시스템(WIPS) 시장 점유율 1위를 달리는 코닉글로리(네오리진 보안사업부문)는 와이파이6 환경에서 PMF(Protected Management Frames) 차단을 위한 신규 특허를 출원했다고 22일 밝혔다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "무선침입방지시스템(WIPS)은 무선네트워크 내∙외부에서 발생하는 불법 행위를 탐지∙차단하는 솔루션이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 스마트 오피스와 클라우드 환경 확장으로 무선통신 보안 취약성 노출 가능성이 높아지면서 내부 무선 통신망에 대한 보안 시스템으로 폭넓게 도입되고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코닉글로리가 출원한 특허는 'WIPS 센서 및 WIPS 센서를 이용한 불법 무선 단말의 침입 차단 방법'으로 PMF 환경에서 불법 단말을 완벽하게 차단하는 기술을 기반으로 한다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기존 무선통신이 평문이라면 PMF는 암호화된 통신으로서 암호화된 특정 단말만 탐지∙차단할 수 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "코닉글로리 관계자는 \\\"특허는 PMF 차단 시 불법 단말 이외의 정상적인 통신에도 영향을 주는 상황을 원천적으로 해소하고 특정 불법 단말을 개별 차단해 무선네트워크 망 운용 안정성과 보안성을 개선하게 됐다\\\"며 \\\"해당 기술은 PMF 차단에 국한되지 않고 모든 불법적인 무선 통신에 적용할 수 있다\\\"고 말했다.",
+				"sentenceSize": 174
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "코닉글로리, WIPS PMF 차단기술 특허출원",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

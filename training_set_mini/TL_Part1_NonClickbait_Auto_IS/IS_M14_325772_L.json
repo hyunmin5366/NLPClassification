@@ -1,0 +1,267 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325772",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "대기업 등 포춘 500대 기업 노린, 이메일 사기 공격 주의",
+		"newsSubTitle": "",
+		"newsContent": "국내 주요 대기업을 노린 '비즈니스 이메일 침해(BEC)' 공격 주의보가 내렸다.\n국제 사이버 범죄 조직이 포춘 500대 기업을 표적으로 사기 이메일을 보내 무역 대금을 가로채는 사례가 늘었다.\nIBM X포스 침해 대응&인텔리전스서비스(IRIS)는 포춘 500대 기업을 노린 BEC 공격을 경고했다.\n삼성전자, 현대자동차, SK주식회사, 한국전력공사, LG전자, 포스코, 기아자동차, 한화, 현대중공업, 현대모비스, 삼성생명, 롯데쇼핑, 삼성 C&T, LG디스플레이, GS칼텍스 등이 포춘 500대 기업에 속한다.\nIBM은 나이지리아에 근거지를 둔 것으로 보이는 조직이 지난해 가을부터 기업 계정을 탈취하는 피싱과 사회공학 공격을 확대했다고 분석했다.\nBEC는 기술 수준이 낮은 사이버 공격이지만 성공하면 얻는 금전 이익이 크다. 2016년 국내 L사가 피해를 입었다.\n주로 글로벌 무역 거래를 하는 기업이 대상이다.\nIBM은 공격자가 오랜 기간 기업 표적 정보를 수집한 후 공격을 시도했다고 밝혔다.\n공격자는 표적한 기업 직원 이메일을 사회공학 방법으로 수집한다.\n이후 사업과 연관된 문서가 링크된 이메일을 보낸다.\n피해자가 링크를 클릭하면 가짜 '다큐사인(DocuSign)' 포털로 이동시킨다.\n해당 포털은 피해자에게 문서를 보려면 기업 이메일 인증을 받으라고 유도한다.\n해커는 여기서 피해 기업 이메일 ID와 비밀번호를 수집한다.\n다큐사인 포털이나 이메일에는 악성코드가 들어있지 않아 기업 보안시스템에서 탐지되지 않는다.\n공격자는 주로 1단계 인증만 거치는 기업 웹 포털 이메일을 공격에 활용했다.\n사용자 이름과 비밀번호만으로 로그인하는 기업 웹 포털 이메일이 주요 대상이다.\n웹 포털 이메일 계정을 탈취하면 기업 네트워크를 해킹하지 않고 공격이 가능하다.\n공격자는 재무부서 직원을 표적했다.\n공격자는 표적한 기업 구조와 재무 프로세스, 협력업체 등을 모두 파악했다.\n재무와 결제 승인 프로세스 등을 학습한다.\n이후 해당 정보로 거래 업체 간 주고받은 메일을 오랫동안 면밀하게 지켜보다가 송금과 관련 된 내용이 있을 때 중간에 끼어든다.\n거래처가 이메일 보낸 것처럼 속이고, 바뀐 계좌 정보를 보내 거래대금을 빼돌린다.\n트렌드마이크로가 최근 발표한 보고서에 따르면 2016년 53억 달러였던 BEC 피해액은 올해 90억 달러로 증가한다.\n미연방수사국(FBI)는 BEC 공격은 미국을 포함해 131개국에 보고됐다.\nIBM은 BEC 대응책으로 이메일 이중인증(2FA)를 제안했다.\n외부에서 기업 내부로 들어오는 이메일을 식별하는 배너 적용을 권고했다.\n조직 외부에서 오는 자동 응답 이메일을 차단하는 것도 방법이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 27,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 주요 대기업을 노린 '비즈니스 이메일 침해(BEC)' 공격 주의보가 내렸다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국제 사이버 범죄 조직이 포춘 500대 기업을 표적으로 사기 이메일을 보내 무역 대금을 가로채는 사례가 늘었다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "IBM X포스 침해 대응&인텔리전스서비스(IRIS)는 포춘 500대 기업을 노린 BEC 공격을 경고했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "삼성전자, 현대자동차, SK주식회사, 한국전력공사, LG전자, 포스코, 기아자동차, 한화, 현대중공업, 현대모비스, 삼성생명, 롯데쇼핑, 삼성 C&T, LG디스플레이, GS칼텍스 등이 포춘 500대 기업에 속한다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "IBM은 나이지리아에 근거지를 둔 것으로 보이는 조직이 지난해 가을부터 기업 계정을 탈취하는 피싱과 사회공학 공격을 확대했다고 분석했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "BEC는 기술 수준이 낮은 사이버 공격이지만 성공하면 얻는 금전 이익이 크다. 2016년 국내 L사가 피해를 입었다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "주로 글로벌 무역 거래를 하는 기업이 대상이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "IBM은 공격자가 오랜 기간 기업 표적 정보를 수집한 후 공격을 시도했다고 밝혔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공격자는 표적한 기업 직원 이메일을 사회공학 방법으로 수집한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이후 사업과 연관된 문서가 링크된 이메일을 보낸다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "피해자가 링크를 클릭하면 가짜 '다큐사인(DocuSign)' 포털로 이동시킨다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "해당 포털은 피해자에게 문서를 보려면 기업 이메일 인증을 받으라고 유도한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "해커는 여기서 피해 기업 이메일 ID와 비밀번호를 수집한다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "다큐사인 포털이나 이메일에는 악성코드가 들어있지 않아 기업 보안시스템에서 탐지되지 않는다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "공격자는 주로 1단계 인증만 거치는 기업 웹 포털 이메일을 공격에 활용했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "사용자 이름과 비밀번호만으로 로그인하는 기업 웹 포털 이메일이 주요 대상이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "웹 포털 이메일 계정을 탈취하면 기업 네트워크를 해킹하지 않고 공격이 가능하다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "공격자는 재무부서 직원을 표적했다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "공격자는 표적한 기업 구조와 재무 프로세스, 협력업체 등을 모두 파악했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "재무와 결제 승인 프로세스 등을 학습한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이후 해당 정보로 거래 업체 간 주고받은 메일을 오랫동안 면밀하게 지켜보다가 송금과 관련 된 내용이 있을 때 중간에 끼어든다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "거래처가 이메일 보낸 것처럼 속이고, 바뀐 계좌 정보를 보내 거래대금을 빼돌린다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "트렌드마이크로가 최근 발표한 보고서에 따르면 2016년 53억 달러였던 BEC 피해액은 올해 90억 달러로 증가한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "미연방수사국(FBI)는 BEC 공격은 미국을 포함해 131개국에 보고됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "IBM은 BEC 대응책으로 이메일 이중인증(2FA)를 제안했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "외부에서 기업 내부로 들어오는 이메일을 식별하는 배너 적용을 권고했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "조직 외부에서 오는 자동 응답 이메일을 차단하는 것도 방법이다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대기업 등 포춘 500대 기업 노린, 이메일 사기 공격 주의",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

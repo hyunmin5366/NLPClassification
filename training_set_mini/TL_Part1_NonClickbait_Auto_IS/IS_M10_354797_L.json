@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354797",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "\\\"GPS 오차 센티미터까지 줄인다\\\"...KT, 美 스위프트와 협력",
+		"newsSubTitle": "null",
+		"newsContent": "KT는 미국 실리콘밸리의 스위프트 내비게이션과 사업협력을 통해 초정밀 측위 사업을 본격화한다고 29일 밝혔다.\n초정밀 측위는 기존 GPS(위성항법장치) 등을 통해 제공되던 위치 서비스에서 발생하는 수 m(미터)의 오차를 cm(센티미터) 단위까지 줄여 정확한 정보를 제공하는 기술이다.\n스위프트 내비게이션은 초정밀 측위 영역에서 세계적인 기술 기업으로 측위 오차를 보정하고 정확한 위치를 계산할 수 있는 플랫폼과 솔루션을 보유하고 있다.\nKT는 전국에 직접 구축한 기준국(Reference Station : 위성신호의 오차를 보정할 수 있는 기준 정보 생성 장비)과 이들 솔루션을 연동해 다양한 모빌리티 영역에서 초정밀 측위 서비스를 제공할 수 있게 된다고 설명했다.\n현재 가장 많이 쓰이는 위성 기반 위치정보 서비스는 각 서비스 단말의 모듈에서 위성신호만 사용한다.\n이러다보니 신호가 도달하는 과정에서 발생하는 신호굴절, 전파간섭 등을 보정하는 방법이 없어 실제 위치와 오차가 발생한다.\nKT는 이런 문제를 해결하기 위해 제주도를 포함한 전국 지사에 자체 기준국을 설치하고, 초정밀 측위 특화 전국망을 구축 완료했다.\nKT가 운영하는 기준국에서 위성 신호를 반복적으로 관측, 실시간 발생하는 위성궤도와 대기권(전리층, 대류권 등) 오차를 분석하고 자체 보정서버에서 오차 모델링 등을 적용해 보정 정보를 생성한다.\nKT 기준국과 보정서버에서 생성된 보정정보를 통해 GPS(미국), 갈릴레오(유럽), 글로나스(러시아), 베이더우(중국) 등 여러 위성으로부터 수신되는 GNSS(글로벌위성항법시스템) 신호와 5G 및 LTE신호까지 조합해 정밀한 위치정보를 제공할 수 있게 된다.\n최강림 KT AI 모빌리티사업단장(상무)은 \\\"이번 스위프트 내비게이션과 제휴 및 공동기술 개발을 통해 초정밀 위치 기반 서비스 시장에서 차별화된 경쟁력을 확보하게 됐다\\\"며 \\\"초정밀 측위 특화 인프라와 모빌리티 사업에서 KT가 보유한 노하우를 바탕으로 다양한 산업 영역에서 새로운 위치 기반 서비스를 발굴할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT는 미국 실리콘밸리의 스위프트 내비게이션과 사업협력을 통해 초정밀 측위 사업을 본격화한다고 29일 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "초정밀 측위는 기존 GPS(위성항법장치) 등을 통해 제공되던 위치 서비스에서 발생하는 수 m(미터)의 오차를 cm(센티미터) 단위까지 줄여 정확한 정보를 제공하는 기술이다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스위프트 내비게이션은 초정밀 측위 영역에서 세계적인 기술 기업으로 측위 오차를 보정하고 정확한 위치를 계산할 수 있는 플랫폼과 솔루션을 보유하고 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "KT는 전국에 직접 구축한 기준국(Reference Station : 위성신호의 오차를 보정할 수 있는 기준 정보 생성 장비)과 이들 솔루션을 연동해 다양한 모빌리티 영역에서 초정밀 측위 서비스를 제공할 수 있게 된다고 설명했다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 가장 많이 쓰이는 위성 기반 위치정보 서비스는 각 서비스 단말의 모듈에서 위성신호만 사용한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이러다보니 신호가 도달하는 과정에서 발생하는 신호굴절, 전파간섭 등을 보정하는 방법이 없어 실제 위치와 오차가 발생한다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "KT는 이런 문제를 해결하기 위해 제주도를 포함한 전국 지사에 자체 기준국을 설치하고, 초정밀 측위 특화 전국망을 구축 완료했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "KT가 운영하는 기준국에서 위성 신호를 반복적으로 관측, 실시간 발생하는 위성궤도와 대기권(전리층, 대류권 등) 오차를 분석하고 자체 보정서버에서 오차 모델링 등을 적용해 보정 정보를 생성한다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "KT 기준국과 보정서버에서 생성된 보정정보를 통해 GPS(미국), 갈릴레오(유럽), 글로나스(러시아), 베이더우(중국) 등 여러 위성으로부터 수신되는 GNSS(글로벌위성항법시스템) 신호와 5G 및 LTE신호까지 조합해 정밀한 위치정보를 제공할 수 있게 된다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "최강림 KT AI 모빌리티사업단장(상무)은 \\\"이번 스위프트 내비게이션과 제휴 및 공동기술 개발을 통해 초정밀 위치 기반 서비스 시장에서 차별화된 경쟁력을 확보하게 됐다\\\"며 \\\"초정밀 측위 특화 인프라와 모빌리티 사업에서 KT가 보유한 노하우를 바탕으로 다양한 산업 영역에서 새로운 위치 기반 서비스를 발굴할 것\\\"이라고 말했다.",
+				"sentenceSize": 185
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"GPS 오차 센티미터까지 줄인다\\\"...KT, 美 스위프트와 협력",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

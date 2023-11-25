@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009734",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "대전 휘발유값 ℓ당 2000원 돌파",
+		"newsSubTitle": "평균가 ℓ당 2000.25원 사상최고… 충남은 1995원대",
+		"newsContent": "최근 고유가시대가 장기화되면서 대전지역 주유소의 휘발유 평균 판매가격이 ℓ당 2000원 선을 돌파했다.\n이는 종전 최고가인 ℓ당 1998.17원을 훌쩍 뛰어넘은 것이다.\n23일 한국석유공사의 유가정보사이트 오피넷에 따르면 이날 오후 한때 국내 주유소의 휘발유 평균 판매가격은 ℓ당 1993.82원, 대전의 경우 2000.25원대를 유지했다.\n또 충남은 이날 ℓ당 1995.93원대를 기록, 연일 최고가를 경신했다.\n종전 국내 보통 휘발유의 일간 최고가격은 지난해 10월 31일 기록한 ℓ당 1993.17원, 대전지역 일간 최고가격은 ℓ당 1998.17원이었다.\n이날 국내 평균가격의 경우 종전 최고가보다 ℓ당 0.65원이, 대전은 2.08원이 인상된 것이다.\n지역 주유소 업계 관계자는 “최근 국제유가가 상승세를 보이고 있는데다, 국내 정유사들의 공급가격도 오름세를 유지하고 있어, 당분간 주유소의 유류 판매가격은 현재의 강세를 이어갈 것으로 보인다”고 전망했다.\n한편, 지난 22일 대전지역 주유소의 휘발유 평균 판매가격은 ℓ당 1997.52원으로 마감됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 고유가시대가 장기화되면서 대전지역 주유소의 휘발유 평균 판매가격이 ℓ당 2000원 선을 돌파했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 종전 최고가인 ℓ당 1998.17원을 훌쩍 뛰어넘은 것이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "23일 한국석유공사의 유가정보사이트 오피넷에 따르면 이날 오후 한때 국내 주유소의 휘발유 평균 판매가격은 ℓ당 1993.82원, 대전의 경우 2000.25원대를 유지했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 충남은 이날 ℓ당 1995.93원대를 기록, 연일 최고가를 경신했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "종전 국내 보통 휘발유의 일간 최고가격은 지난해 10월 31일 기록한 ℓ당 1993.17원, 대전지역 일간 최고가격은 ℓ당 1998.17원이었다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이날 국내 평균가격의 경우 종전 최고가보다 ℓ당 0.65원이, 대전은 2.08원이 인상된 것이다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "지역 주유소 업계 관계자는 “최근 국제유가가 상승세를 보이고 있는데다, 국내 정유사들의 공급가격도 오름세를 유지하고 있어, 당분간 주유소의 유류 판매가격은 현재의 강세를 이어갈 것으로 보인다”고 전망했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 지난 22일 대전지역 주유소의 휘발유 평균 판매가격은 ℓ당 1997.52원으로 마감됐다.",
+				"sentenceSize": 53
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "세종 공인중개사, 석달간 1건도 힘드네",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

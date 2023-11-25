@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349533",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "적정온도 이탈 2분 넘으면 '삑'…코로나 백신 온도감지장치 개발",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 저온 보관이 필요한 코로나19 백신이 적정 온도에서 제대로 보관·유통됐는지 확인할 수 있는 장치를 개발했다.\n잘못된 보관이나 유통으로 인한 사고를 미연에 방지할 수 있을 것으로 기대된다.\n한국화학연구원은 12일 박제영, 오동엽, 황성연 박사팀이 백신병 옆에 특정 화합물을 담은 용기를 붙여 백신의 보관 상태를 확인할 수 있는장치를 개발했다고 밝혔다.\n연구팀은 원천기술특허를 확보한 상태로 상용화를 위한 연구를 진행중이다.\n현재 사용되고 있는 코로나19 백신 중 화이자 백신은 영하 70도 정도의 극저온에서, 모더나 백신은 영하 20도의 저온에서 보관해야 한다.\n국내외 보건당국은 초저온 냉동고, 전용 냉장고 등을 도입해 해당 백신을 보관·유통하고 있지만, 이 과정에서 백신이 적정 보관 온도를 벗어나지 않았는지 직관적으로 확인할 방법은 없었다.\n연구팀은 특정 물질의 녹는점을 활용한 온도 감지장치를 개발했다.\n화이자 백신용으로는 에틸렌글리콜을, 모더나 백신용으로는 수크로오스를 사용했다.\n에틸렌글리콜은 자동차 냉각수로 많이 쓰이는 물질로 영하 69도 이하에서는 고체 상태를 유지하지만, 그 이상의 온도에서는 녹는 특징이 있다.\n연구팀은 에틸렌글리콜에 색소를 넣고, 물질이 고체에서 액체로 변하면 색소가 퍼지도록 장치를 고안했다.\n실험 결과 적정 보관온도 영하 69도 이하인 백신이 영하 60도 이상 환경에 노출될 경우 5분 이내에 색소가 번지는 현상이 관찰됐다.\n영상 20도에 노출되면 2분 이내에 변화가 나타났다.\n연구팀은 유통이나 사용 과정에서 상온에 짧게 노출되는 상황 등을 감안해 백신이 권장온도 이상에서 2분 이상 노출됐을 때만 장치가 반응하도록 했다.\n모더나 백신용 온도감지장치도 같은 원리를 적용했다.\n한번 반응이 나타난 장치는 다시 적정온도에 보관해도 원래 상태로 돌아가지 않아 조작 가능성도 없었다.\n연구책임자인 박제영 박사는 \\\"상용화되기 위해서는 온도 조절 등 해결해야 할 문제가 있지만, 해당 아이디어가 빠르게 적용될 수 있도록 백신 취급 및 운송 기업과 긴밀하게 협력하겠다\\\"며 \\\"이번 기술이 한국에서 먼저 도입되어 K-방역의 주도권을 확보하고 해외로도 확대되기를 바란다\\\"고 말했다.\n이번 연구성과는 미국화학회 학술지 'ACS Omega' 3월호 표지논문으로 채택됐으며, 온라인으로 사전 공개됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 저온 보관이 필요한 코로나19 백신이 적정 온도에서 제대로 보관·유통됐는지 확인할 수 있는 장치를 개발했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "잘못된 보관이나 유통으로 인한 사고를 미연에 방지할 수 있을 것으로 기대된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국화학연구원은 12일 박제영, 오동엽, 황성연 박사팀이 백신병 옆에 특정 화합물을 담은 용기를 붙여 백신의 보관 상태를 확인할 수 있는장치를 개발했다고 밝혔다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연구팀은 원천기술특허를 확보한 상태로 상용화를 위한 연구를 진행중이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현재 사용되고 있는 코로나19 백신 중 화이자 백신은 영하 70도 정도의 극저온에서, 모더나 백신은 영하 20도의 저온에서 보관해야 한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "국내외 보건당국은 초저온 냉동고, 전용 냉장고 등을 도입해 해당 백신을 보관·유통하고 있지만, 이 과정에서 백신이 적정 보관 온도를 벗어나지 않았는지 직관적으로 확인할 방법은 없었다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구팀은 특정 물질의 녹는점을 활용한 온도 감지장치를 개발했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "화이자 백신용으로는 에틸렌글리콜을, 모더나 백신용으로는 수크로오스를 사용했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "에틸렌글리콜은 자동차 냉각수로 많이 쓰이는 물질로 영하 69도 이하에서는 고체 상태를 유지하지만, 그 이상의 온도에서는 녹는 특징이 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "연구팀은 에틸렌글리콜에 색소를 넣고, 물질이 고체에서 액체로 변하면 색소가 퍼지도록 장치를 고안했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "실험 결과 적정 보관온도 영하 69도 이하인 백신이 영하 60도 이상 환경에 노출될 경우 5분 이내에 색소가 번지는 현상이 관찰됐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "영상 20도에 노출되면 2분 이내에 변화가 나타났다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "연구팀은 유통이나 사용 과정에서 상온에 짧게 노출되는 상황 등을 감안해 백신이 권장온도 이상에서 2분 이상 노출됐을 때만 장치가 반응하도록 했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "모더나 백신용 온도감지장치도 같은 원리를 적용했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "한번 반응이 나타난 장치는 다시 적정온도에 보관해도 원래 상태로 돌아가지 않아 조작 가능성도 없었다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "연구책임자인 박제영 박사는 \\\"상용화되기 위해서는 온도 조절 등 해결해야 할 문제가 있지만, 해당 아이디어가 빠르게 적용될 수 있도록 백신 취급 및 운송 기업과 긴밀하게 협력하겠다\\\"며 \\\"이번 기술이 한국에서 먼저 도입되어 K-방역의 주도권을 확보하고 해외로도 확대되기를 바란다\\\"고 말했다.",
+				"sentenceSize": 164
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이번 연구성과는 미국화학회 학술지 'ACS Omega' 3월호 표지논문으로 채택됐으며, 온라인으로 사전 공개됐다.",
+				"sentenceSize": 63
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "적정온도 이탈 2분 넘으면 '삑'…코로나 백신 온도감지장치 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

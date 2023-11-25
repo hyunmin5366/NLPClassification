@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330919",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "국내 첫 '양자암호 전력통신망' 개통",
+		"newsSubTitle": "전력연구원, IDQ 'QKD' 적용 충남 안면~태안 40km 구간 적용 향후 장거리 목표로 개발 나서",
+		"newsContent": "양자암호기술을 적용한 전력통신망이 처음으로 개통됐다.\n전력 전송 구간을 양자암호키분배(QKD) 기술로 보호하는 것으로, 향후 장거리 구간 적용도 추진한다.\n한국전력공사 전력연구원은 충남 안면 변전소와 태안 변전소 간 40㎞ 구간에 양자암호통신기술을 적용한 전력통신망을 구축, 개통했다.\n전력망에 양자암호기술을 적용한 국내 첫 사례다.\n전력망은 동일한 암호키를 생성해서 수신자와 송신자에게 보내는 QKD 기술로 보호한다.\n임의의 양자 상태는 완벽하게 복제되지 않는다는 '복제불가원리'에 의해 안정성이 보장된다.\n도청자가 망 중간에서 정보를 취득하려 하면 '양자의 얽힘'에 의해 양자 상태에 변화가 발생한다.\n이로 인해 통신 내용이 변질되고, 전력망 관리자는 해킹 시도를 파악할 수 있다.\nQKD 기술과 장비는 SK텔레콤 자회사 IDQ가 공급했다.\nIDQ는 지난해'EU 오픈 프로젝트를 수주, 1400㎞ 구간에 QKD를 적용했다.\n국내에선 연세의료원, 한화시스템, 우리은행 등 기업과 행정안전부가 추진하는 국가 융합망 백본망에 QKD를 공급했다.\nIDQ는 전력연구원을 통해 전력 부문 레퍼런스도 확보하게 됐다.\n전력연구원과 IDQ는 40㎞ 구간의 실증 결과를 바탕으로 송·수신부 간 거리가 최대 100㎞ 이상 떨어져 있는 송전선로 특성을 고려한 QKD 분배 기술 개발에 나선다.\n한전 정보통신기술(ICT) 나주데이터센터와 2021년 완공 예정인 ICT 대전데이터 센터를 잇는 전력망에 장거리 양자암호 통신기술을 적용한다는 목표다.\n전력망 보안 위협이 커짐에 따라 양자암호 적용 사례도 늘어날 것으로 전망된다.\n신재생에너지 등 분산 전원 확대로 외부 전력망과의 연계 사례가 늘고 있다.\n통신망에 사용되는 광케이블은 구부리거나 홈을 파서 새는 광신호를 분석, 통신을 해킹할 수 있다.\n이를 감지하기 쉽지 않아 대응이 어렵다.\n지난 2014년 일본 몬주 원자력 발전소가 악성코드에 감염돼 4만여건의 문서가 유출된 바 있다.\n이듬해 우크라이나 키보블레네르고 발전소가 해킹돼 8만가구의 전력 공급이 중단됐다.\n전력연구원 관계자는 12일 “전기 생산자와 소비자가 정보를 주고받는 스마트그리드가 확대되면 전력통신망 보안이 갈수록 중요해진다”면서 “전력망 보안 강화를 위한 양자암호 기술 개발에 속도를 낼 것”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "양자암호기술을 적용한 전력통신망이 처음으로 개통됐다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전력 전송 구간을 양자암호키분배(QKD) 기술로 보호하는 것으로, 향후 장거리 구간 적용도 추진한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국전력공사 전력연구원은 충남 안면 변전소와 태안 변전소 간 40㎞ 구간에 양자암호통신기술을 적용한 전력통신망을 구축, 개통했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전력망에 양자암호기술을 적용한 국내 첫 사례다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전력망은 동일한 암호키를 생성해서 수신자와 송신자에게 보내는 QKD 기술로 보호한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "임의의 양자 상태는 완벽하게 복제되지 않는다는 '복제불가원리'에 의해 안정성이 보장된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "도청자가 망 중간에서 정보를 취득하려 하면 '양자의 얽힘'에 의해 양자 상태에 변화가 발생한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이로 인해 통신 내용이 변질되고, 전력망 관리자는 해킹 시도를 파악할 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "QKD 기술과 장비는 SK텔레콤 자회사 IDQ가 공급했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "IDQ는 지난해'EU 오픈 프로젝트를 수주, 1400㎞ 구간에 QKD를 적용했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "국내에선 연세의료원, 한화시스템, 우리은행 등 기업과 행정안전부가 추진하는 국가 융합망 백본망에 QKD를 공급했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "IDQ는 전력연구원을 통해 전력 부문 레퍼런스도 확보하게 됐다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "전력연구원과 IDQ는 40㎞ 구간의 실증 결과를 바탕으로 송·수신부 간 거리가 최대 100㎞ 이상 떨어져 있는 송전선로 특성을 고려한 QKD 분배 기술 개발에 나선다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한전 정보통신기술(ICT) 나주데이터센터와 2021년 완공 예정인 ICT 대전데이터 센터를 잇는 전력망에 장거리 양자암호 통신기술을 적용한다는 목표다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "전력망 보안 위협이 커짐에 따라 양자암호 적용 사례도 늘어날 것으로 전망된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "신재생에너지 등 분산 전원 확대로 외부 전력망과의 연계 사례가 늘고 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "통신망에 사용되는 광케이블은 구부리거나 홈을 파서 새는 광신호를 분석, 통신을 해킹할 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이를 감지하기 쉽지 않아 대응이 어렵다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "지난 2014년 일본 몬주 원자력 발전소가 악성코드에 감염돼 4만여건의 문서가 유출된 바 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이듬해 우크라이나 키보블레네르고 발전소가 해킹돼 8만가구의 전력 공급이 중단됐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "전력연구원 관계자는 12일 “전기 생산자와 소비자가 정보를 주고받는 스마트그리드가 확대되면 전력통신망 보안이 갈수록 중요해진다”면서 “전력망 보안 강화를 위한 양자암호 기술 개발에 속도를 낼 것”이라고 말했다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국내 첫 '양자암호 전력통신망' 개통",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

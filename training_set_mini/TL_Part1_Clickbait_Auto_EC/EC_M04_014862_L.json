@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014862",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "코레일 'O-train', 올해 녹색상품에 소비자 인기상까지",
+		"newsSubTitle": "",
+		"newsContent": "코레일이 '올해의 녹색상품'에 4년 연속 선정되는 영예를 안았다.\n코레일은 대표 명품 관광열차 O-train(중부내륙관광열차)이 환경부가 후원하고 (사)한국녹색구매네트워크가 주최한 '2015년 올해의 녹색상품'에 선정됐다고 16일 밝혔다.\nO-train은 '2015 올해의 녹색상품'과 함께 녹색상품 중에서도 가장 많은 소비자 득표를 기록한 상품에 주어지는 '소비자 인기상'까지 특별 수상하며 최고의 녹색상품으로 자리매김했다.\n이로써 코레일은 2012년 경부선 KTX, 2013년 경춘선 ITX-청춘, 2014년 누리로(서울↔신창)에 이어 4년 연속 '올해의 녹색상품'에 선정되며 명실상부한 친환경 교통기관임을 다시 한번 입증했다.\n코레일은 “올해의 녹색상품으로 선정된 O-train은 친환경성, 차별화된 상품성, 고객과의 소통 부분에서 소비자로부터 우수한 평가를 받았다”면서 “O-train은 2014년 녹색상품에 선정된 '누리로' 철도차량을 개조한 관광전용열차로 전기를 주동력으로 사용함으로써 온실가스 배출 저감, 쾌적한 실내 공기질 유지 등 환경적 측면에서 우수하다”고 설명했다.\n한편, O-train은 지난 2013년 3월 첫 운행을 시작한 이래 약 36만명이 이용하며 낙후된 지역을 살리고, 내수 경기에 활력을 불어넣는 등 지역경제를 살리는 기적의 열차로 인기를 얻고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코레일이 '올해의 녹색상품'에 4년 연속 선정되는 영예를 안았다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "코레일은 대표 명품 관광열차 O-train(중부내륙관광열차)이 환경부가 후원하고 (사)한국녹색구매네트워크가 주최한 '2015년 올해의 녹색상품'에 선정됐다고 16일 밝혔다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "O-train은 '2015 올해의 녹색상품'과 함께 녹색상품 중에서도 가장 많은 소비자 득표를 기록한 상품에 주어지는 '소비자 인기상'까지 특별 수상하며 최고의 녹색상품으로 자리매김했다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이로써 코레일은 2012년 경부선 KTX, 2013년 경춘선 ITX-청춘, 2014년 누리로(서울↔신창)에 이어 4년 연속 '올해의 녹색상품'에 선정되며 명실상부한 친환경 교통기관임을 다시 한번 입증했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코레일은 “올해의 녹색상품으로 선정된 O-train은 친환경성, 차별화된 상품성, 고객과의 소통 부분에서 소비자로부터 우수한 평가를 받았다”면서 “O-train은 2014년 녹색상품에 선정된 '누리로' 철도차량을 개조한 관광전용열차로 전기를 주동력으로 사용함으로써 온실가스 배출 저감, 쾌적한 실내 공기질 유지 등 환경적 측면에서 우수하다”고 설명했다.",
+				"sentenceSize": 197
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "한편, O-train은 지난 2013년 3월 첫 운행을 시작한 이래 약 36만명이 이용하며 낙후된 지역을 살리고, 내수 경기에 활력을 불어넣는 등 지역경제를 살리는 기적의 열차로 인기를 얻고 있다.",
+				"sentenceSize": 110
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'대출 갈아탈까'…금리인상기 '영끌족' 고민 깊어진다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

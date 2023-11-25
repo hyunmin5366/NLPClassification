@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351401",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"맥 OS도 해커 먹잇감\\\" 지란지교소프트, 맥 전용 보안 솔루션 출시",
+		"newsSubTitle": "null",
+		"newsContent": "지란지교소프트가 정보유출방지(DLP) 솔루션 오피스키퍼의 맥(Mac) 운영체제 버전을 출시했다고 6일 밝혔다.\n오피스키퍼는 민감정보 관리와 웹 차단, 출력물 보안, 문서백업, PC취약점 점검 등을 통합제공하는 서비스로 구축형과 클라우드형 두 가지 형태로 지원된다.\n지란지교소프트에 따르면 최근 맥 OS 이용자가 늘어남에 따라 맥을 겨냥한 사이버 공격도 매년 늘고 있다.\n보안제품 성능 평가기관(AV-TEST) 조사에 따르면 지난해 등장한 맥용 악성코드 수만 67만개로, 전년 대비 12배 증가했다.\n회사 측은 \\\"중소기업은 오피스키퍼로 윈도는 물론 맥OS 사용자의 정보유출 위협도 효과적으로 막을 수 있게 될 것\\\"이라고 설명했다.\n윤슬기 그룹장은 \\\"맥은 안전하다고 생각할 수 있지만 최근 보안위협이 꾸준히 늘고 있다\\\"며 \\\"디자이너와 개발자 직군 이외에도 맥을 기본 OS로 사용하는 사용자가 늘어난만큼 관련 연구개발도 확대하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지란지교소프트가 정보유출방지(DLP) 솔루션 오피스키퍼의 맥(Mac) 운영체제 버전을 출시했다고 6일 밝혔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오피스키퍼는 민감정보 관리와 웹 차단, 출력물 보안, 문서백업, PC취약점 점검 등을 통합제공하는 서비스로 구축형과 클라우드형 두 가지 형태로 지원된다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지란지교소프트에 따르면 최근 맥 OS 이용자가 늘어남에 따라 맥을 겨냥한 사이버 공격도 매년 늘고 있다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "보안제품 성능 평가기관(AV-TEST) 조사에 따르면 지난해 등장한 맥용 악성코드 수만 67만개로, 전년 대비 12배 증가했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "회사 측은 \\\"중소기업은 오피스키퍼로 윈도는 물론 맥OS 사용자의 정보유출 위협도 효과적으로 막을 수 있게 될 것\\\"이라고 설명했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "윤슬기 그룹장은 \\\"맥은 안전하다고 생각할 수 있지만 최근 보안위협이 꾸준히 늘고 있다\\\"며 \\\"디자이너와 개발자 직군 이외에도 맥을 기본 OS로 사용하는 사용자가 늘어난만큼 관련 연구개발도 확대하겠다\\\"고 말했다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"맥 OS도 해커 먹잇감\\\" 지란지교소프트, 맥 전용 보안 솔루션 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

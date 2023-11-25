@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337438",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "장비",
+		"newsTitle": "티아이스퀘어, 저가형 초정밀 GPS 디바이스 개발…외산 1/10 가격",
+		"newsSubTitle": "",
+		"newsContent": "티아이스퀘어가 50㎝이하 정확도의 저가형 사물인터넷(IoT) 디바이스를 앞세워 정밀 위치정보 서비스를 확대한다.\n무선통신 솔루션 개발사 티아이스퀘어(대표 이길수)는 국내 최고 수준 정밀위치 측정 LTE 기반 리얼타임 키네마틱(RTK) 디바이스 'RTK-LM1' 모델을 개발했다고 8일 밝혔다.\n최근 GPS를 활용한 위치기반서비스가 증가하고 있지만 여전히 측위 정밀도는 오차범위 5~30m로 맵매칭 기술 기반 지도정보·트래킹 서비스에 그치고 있다.\n위치측위 기술오차를 줄이기 위해 위성이나 지상 기준국 보정정보를 수신하는 등 다양한 기술이 개발 중이다.\n최종혁 티아이스퀘어 미래사업개발본부장은 “오차 보정으로 2m가량 위치 정확도를 확보할 수 있지만 별도 양방향 통신모듈이 필요하다”면서 “고가 외산 GPS모듈이 필수적이라 경제성 면에서 서비스 대중화에 한계가 있다”고 지적했다.\n그는 또 “소프트웨어(SW) 기반 정밀위치 측위기술 RTK 엔진을 내장한 저가형 IoT 디바이스 RTK-LM1를 개발 상용화를 앞뒀다”고 덧붙였다.\nRTK 엔진은 다수 위성 GPS 데이터를 안테나로 수신하고 IoT 통신모듈로 전국 각지 GNSS 데이터 통합센터로부터 보정정보를 실시간 수신한다.\n개방 환경에서 3~50cm 오차범위를 가진 정밀한 위도·경도·고도 값을 도출한다.\nRTK 엔진은 기존 GPS 보정 값 전송방식인 중파방송, DMB방송망, 인터넷망 등을 이용하지 않고 전국에 설치된 LTE 기지국 IoT 전용망을 활용해 보정 정보를 이용한다.\n이동통신사의 전국 상용 IoT 통신망을 이용하기 때문에 경제적이고 음영지역이 거의 없다.\nGNSS 데이터 통합센터 시스템 부하도 현저히 줄일 수 있다.\n기존 정밀위치 측정 상용 장비와 비교해 비용이 저렴해 다양한 LBS 서비스에 정밀위치 기술을 대중화할 수 있을 것으로 기대된다.\n최 본부장은 “정밀 측위 대중화를 위해 음영지역이 거의 없는 정밀측위 기술을 제공하고자 했다”면서 “실시간 차선 구분 데이터를 생성하거나 수십㎝ 이내 변위정보를 즉시 확인할 수 있는 기술을 외산 장비 대비 최대 10분의 1 가격으로 제공할 것”이라고 말했다.\n티아이스퀘어는 19년간 무선통신서비스, ICT 플랫폼·서비스와 코어엔진 기술에 대한 다양한 솔루션을 개발했다.\n이번 RTK-LM1 개발을 계기로 국내 이동통신사 협력을 강화해 다양한 분야로 기술 상용화를 전개한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "티아이스퀘어가 50㎝이하 정확도의 저가형 사물인터넷(IoT) 디바이스를 앞세워 정밀 위치정보 서비스를 확대한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "무선통신 솔루션 개발사 티아이스퀘어(대표 이길수)는 국내 최고 수준 정밀위치 측정 LTE 기반 리얼타임 키네마틱(RTK) 디바이스 'RTK-LM1' 모델을 개발했다고 8일 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 GPS를 활용한 위치기반서비스가 증가하고 있지만 여전히 측위 정밀도는 오차범위 5~30m로 맵매칭 기술 기반 지도정보·트래킹 서비스에 그치고 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "위치측위 기술오차를 줄이기 위해 위성이나 지상 기준국 보정정보를 수신하는 등 다양한 기술이 개발 중이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최종혁 티아이스퀘어 미래사업개발본부장은 “오차 보정으로 2m가량 위치 정확도를 확보할 수 있지만 별도 양방향 통신모듈이 필요하다”면서 “고가 외산 GPS모듈이 필수적이라 경제성 면에서 서비스 대중화에 한계가 있다”고 지적했다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 또 “소프트웨어(SW) 기반 정밀위치 측위기술 RTK 엔진을 내장한 저가형 IoT 디바이스 RTK-LM1를 개발 상용화를 앞뒀다”고 덧붙였다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "RTK 엔진은 다수 위성 GPS 데이터를 안테나로 수신하고 IoT 통신모듈로 전국 각지 GNSS 데이터 통합센터로부터 보정정보를 실시간 수신한다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "개방 환경에서 3~50cm 오차범위를 가진 정밀한 위도·경도·고도 값을 도출한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "RTK 엔진은 기존 GPS 보정 값 전송방식인 중파방송, DMB방송망, 인터넷망 등을 이용하지 않고 전국에 설치된 LTE 기지국 IoT 전용망을 활용해 보정 정보를 이용한다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이동통신사의 전국 상용 IoT 통신망을 이용하기 때문에 경제적이고 음영지역이 거의 없다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "GNSS 데이터 통합센터 시스템 부하도 현저히 줄일 수 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기존 정밀위치 측정 상용 장비와 비교해 비용이 저렴해 다양한 LBS 서비스에 정밀위치 기술을 대중화할 수 있을 것으로 기대된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "최 본부장은 “정밀 측위 대중화를 위해 음영지역이 거의 없는 정밀측위 기술을 제공하고자 했다”면서 “실시간 차선 구분 데이터를 생성하거나 수십㎝ 이내 변위정보를 즉시 확인할 수 있는 기술을 외산 장비 대비 최대 10분의 1 가격으로 제공할 것”이라고 말했다.",
+				"sentenceSize": 144
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "티아이스퀘어는 19년간 무선통신서비스, ICT 플랫폼·서비스와 코어엔진 기술에 대한 다양한 솔루션을 개발했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이번 RTK-LM1 개발을 계기로 국내 이동통신사 협력을 강화해 다양한 분야로 기술 상용화를 전개한다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "티아이스퀘어, 저가형 초정밀 GPS 디바이스 개발…외산 1/10 가격",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

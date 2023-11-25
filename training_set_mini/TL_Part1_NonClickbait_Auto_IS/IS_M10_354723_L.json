@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354723",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "돌아가신 할머니와 대화할 수 있는 기술 나온다",
+		"newsSubTitle": "null",
+		"newsContent": "하늘나라로 간 가족들과 다시 대화할 수 있다면 얼마나 좋을까.\n아마존의 AI(인공지능) 비서 '알렉사'가 이런 꿈을 실현하는 기술을 개발하고 있다.\n23일 CNBC 등 외신에 따르면 아마존은 22일(현지 시각) 미국 라스베이거스에서 열린 아마존의 Re:Mars(리:마스) 콘퍼런스에서 어떤 목소리도 모방할 수 있는 AI 음성 비서 알렉사의 기능을 시연했다.\n개발 단계에 있는 이 기능은 1분 안팎의 짧은 음성 녹음만 있으면 그 사람의 목소리를 더 긴 음성으로 합성할 수 있는 기술이다.\n시연 영상에서 알렉사는 한 아이의 돌아가신 할머니 목소리를 모방해 '오즈의 마법사'를 읽어줬다.\n로히트 프라사드 아마존 알렉사 수석 부사장 겸 수석 과학자는 \\\"이 기술을 활용하면 1분 미만의 녹음으로 몇 시간짜리 스튜디오 녹음을 대체할 수 있게 된다\\\"고 설명했다.\n그는 이어 \\\"코로나19 팬데믹 기간 동안 AI를 대화형으로 만들고 동반자처럼 만드는 것이 핵심 초점이 됐다\\\"며 \\\"AI가 상실의 고통을 없앨 수는 없지만, 기억을 오래도록 만들어줄 수는 있다\\\"고 덧붙였다.\n아마존은 알렉사와 더 자연스러운 대화를 할 수 있도록 고도화하고 있으며, 더 인간다운 대화를 복제하고 사용자에게 질문까지 할 수 있는 기능을 선보일 예정이다.\n기술 상용화 시점은 아직 정해지지 않았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하늘나라로 간 가족들과 다시 대화할 수 있다면 얼마나 좋을까.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아마존의 AI(인공지능) 비서 '알렉사'가 이런 꿈을 실현하는 기술을 개발하고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "23일 CNBC 등 외신에 따르면 아마존은 22일(현지 시각) 미국 라스베이거스에서 열린 아마존의 Re:Mars(리:마스) 콘퍼런스에서 어떤 목소리도 모방할 수 있는 AI 음성 비서 알렉사의 기능을 시연했다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "개발 단계에 있는 이 기능은 1분 안팎의 짧은 음성 녹음만 있으면 그 사람의 목소리를 더 긴 음성으로 합성할 수 있는 기술이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시연 영상에서 알렉사는 한 아이의 돌아가신 할머니 목소리를 모방해 '오즈의 마법사'를 읽어줬다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "로히트 프라사드 아마존 알렉사 수석 부사장 겸 수석 과학자는 \\\"이 기술을 활용하면 1분 미만의 녹음으로 몇 시간짜리 스튜디오 녹음을 대체할 수 있게 된다\\\"고 설명했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그는 이어 \\\"코로나19 팬데믹 기간 동안 AI를 대화형으로 만들고 동반자처럼 만드는 것이 핵심 초점이 됐다\\\"며 \\\"AI가 상실의 고통을 없앨 수는 없지만, 기억을 오래도록 만들어줄 수는 있다\\\"고 덧붙였다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아마존은 알렉사와 더 자연스러운 대화를 할 수 있도록 고도화하고 있으며, 더 인간다운 대화를 복제하고 사용자에게 질문까지 할 수 있는 기능을 선보일 예정이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기술 상용화 시점은 아직 정해지지 않았다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "돌아가신 할머니와 대화할 수 있는 기술 나온다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

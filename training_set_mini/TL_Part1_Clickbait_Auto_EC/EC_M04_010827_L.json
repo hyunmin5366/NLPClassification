@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010827",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "나로호 발사 이달말로 또 연기",
+		"newsSubTitle": "예정기간 23~30일로… 부품 17일께 도착",
+		"newsContent": "나로호 3차 발사 예정기간이 23~30일로 사실상 연기됐다.\n교육과학기술부는 나로호 3차 발사 기간을 9~24일로 발표했지만 지난달 26일 첫 발사 시도에서 문제가 됐던 '어댑터블록' 국내 도입이 예상보다 더 걸려, 발사 예정기간을 이달 말까지로 연장하기로 했다.\n교과부는 14일 어댑터 블록 부품에 대해 러시아 수출통제위원회의 허가가 나, 대략 16~17일 정도에는 국내 도착할 것으로 보인다며 이같이 밝혔다.\n이에 따라 15~16일께 국제기구에 발사예정기간을 23~30일로 다시 통보할 계획이다.\n교과부는 17일 어댑터블록이 국내 도착, 24일 발사하는 데 문제가 없지만 나로호 재발사를 기한에 맞춰 서두를 필요는 없다는 의견이 제기돼 이같이 결정한 것으로 알려졌다.\n교과부와 항공우주연구원은 발사 일정이 다소 늦춰지더라도 이번 달 안에는 충분히 발사 시도가 가능한 것으로 보고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "나로호 3차 발사 예정기간이 23~30일로 사실상 연기됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "교육과학기술부는 나로호 3차 발사 기간을 9~24일로 발표했지만 지난달 26일 첫 발사 시도에서 문제가 됐던 '어댑터블록' 국내 도입이 예상보다 더 걸려, 발사 예정기간을 이달 말까지로 연장하기로 했다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "교과부는 14일 어댑터 블록 부품에 대해 러시아 수출통제위원회의 허가가 나, 대략 16~17일 정도에는 국내 도착할 것으로 보인다며 이같이 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 15~16일께 국제기구에 발사예정기간을 23~30일로 다시 통보할 계획이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "교과부는 17일 어댑터블록이 국내 도착, 24일 발사하는 데 문제가 없지만 나로호 재발사를 기한에 맞춰 서두를 필요는 없다는 의견이 제기돼 이같이 결정한 것으로 알려졌다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "교과부와 항공우주연구원은 발사 일정이 다소 늦춰지더라도 이번 달 안에는 충분히 발사 시도가 가능한 것으로 보고 있다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "원유값 오르면 물가인상 뻔하다…관련업계 도미노 현상 우려",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

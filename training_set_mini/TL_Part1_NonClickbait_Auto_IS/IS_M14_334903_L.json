@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334903",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "쿠팡이츠 서버다운에 배달대행 주문 폭증… '부릉' 서버도 연쇄 마비",
+		"newsSubTitle": "",
+		"newsContent": "9일 오후 배달 플랫폼 쿠팡이츠 배달기사용 애플리케이션(앱) 서버에 이어 배달대행 부릉도 서버가 다운됐다.\n쿠팡이츠 물량이 배달대행에 몰리며 배달대란이 연쇄적으로 발생하고 있다.\n이날 쿠팡에 따르면 배달기사용 앱 서버가 다운돼 원인을 파악 중이며 주문 자체도 불가능한상황이 전개되고 있다.\n오후 6시 쯤 쿠팡이츠 배달기사용 파트너 앱 서버가 먹통 돼 식당에서 픽업한 음식 배송지를 확인할 수 없어 주문 고객과 배달기사 간 혼란이 있었다.\n금요일 저녁 주문이 몰리는 시간에 한 시간 넘게 주문한 음식이 배달되지 않다가 이후 주문 자체도 불가능한 상황이다.\n쿠팡이츠 배달 정지로 인해 배달대행 업체 주문량이 급증, 1시간가량 지나 부릉 서버가 연쇄다운 되는 일이 벌어졌다.\n반면 생각대로, 바로고, 모아콜, 스파이더크래프트, 슈퍼히어로 등 배달대행사는 늘어난 주문량을 정상 소화하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "9일 오후 배달 플랫폼 쿠팡이츠 배달기사용 애플리케이션(앱) 서버에 이어 배달대행 부릉도 서버가 다운됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "쿠팡이츠 물량이 배달대행에 몰리며 배달대란이 연쇄적으로 발생하고 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 쿠팡에 따르면 배달기사용 앱 서버가 다운돼 원인을 파악 중이며 주문 자체도 불가능한상황이 전개되고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오후 6시 쯤 쿠팡이츠 배달기사용 파트너 앱 서버가 먹통 돼 식당에서 픽업한 음식 배송지를 확인할 수 없어 주문 고객과 배달기사 간 혼란이 있었다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "금요일 저녁 주문이 몰리는 시간에 한 시간 넘게 주문한 음식이 배달되지 않다가 이후 주문 자체도 불가능한 상황이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "쿠팡이츠 배달 정지로 인해 배달대행 업체 주문량이 급증, 1시간가량 지나 부릉 서버가 연쇄다운 되는 일이 벌어졌다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "반면 생각대로, 바로고, 모아콜, 스파이더크래프트, 슈퍼히어로 등 배달대행사는 늘어난 주문량을 정상 소화하고 있다.",
+				"sentenceSize": 64
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쿠팡이츠 서버다운에 배달대행 주문 폭증… '부릉' 서버도 연쇄 마비",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

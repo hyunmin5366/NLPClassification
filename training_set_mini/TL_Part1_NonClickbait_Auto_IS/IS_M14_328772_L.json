@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328772",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "옥션 개인정보 노출은 '코딩 오류' 탓",
+		"newsSubTitle": "",
+		"newsContent": "옥션 개인정보 노출은 '코딩 오류' 때문인 것으로 확인됐다.\n오류 인지부터 수정 완료까지 약 9일이 소요된 점은 문제로 지적된다.\n개인정보 노출로 문제가 된 옥션 '상품문의' 게시판은 상품을 구매하기 전 이용자가 개별 문의사항을 올리는 곳이다.\n이용자가 문의사항과 함께 개인 휴대전화 번호 등을 남기면 판매자가 해당 번호로 상품 사진 등 추가 정보를 문자로 보내준다.\n이 글은 개인정보가 포함되는 만큼 자신과 판매자만 볼 수 있는 비공개로 설정되지만, 옥션 측 코딩 오류로 일반 이용자가 열람할 수 있는 상태로 노출됐다.\n최근 문의사항뿐만 아니라 오래 전 문의사항까지 일반에 그대로 노출됐다.\n이번 사고를 연구한 보안 전문가에 따르면 이 게시판에 비공개 글만 쓰면 정보가 노출되지 않았지만, 비공개 글과 공개 글을 함께 쓸 경우 비공개 글까지 모두 타인에게 노출되는 것으로 확인됐다.\n비공개 글 권한이 공개 글과 동일하게 처리되는 문제다.\n최상명 보안 전문가는 \\\"개발 과정 시 권한 중요도에 따라 높은 권한에 종속시켜야 하는데 (옥션은) 낮은 권한에 종속시켜 문제가 발생한 것으로 보인다\\\"면서 \\\"각 권한을 세부적으로 관리하는 것이 중요하다\\\"고 조언했다.\n옥션을 운영하는 이베이코리아 관계자는 \\\"코딩이 얽히면서 오류가 발생했던 것\\\"이라면서 \\\"지난 10일 이를 인지한 후 18일 수정을 마쳤다\\\"고 말했다.\n조치에 9일이나 소요된 데 대해서는 \\\"내부적으로 알아봐야 할 부분이 있었기 때문\\\"이라면서 \\\"(개인정보 유출신고에 관해) 한국인터넷진흥원(KISA)과 소통 중\\\"이라고 했다.\n개인정보보호법 제34조와 표준개인정보보호지침 제28조에 따르면 개인정보 처리자는 1000명 이상 개인정보가 유출된 경우 5일 이내 정보 주체에 통지하고 조치 결과를 신고해야 한다.\n유출 최초 발생 시점과 확인된 시점 사이 시간차가 있을 때는 이에 대한 과실 유무를 입증해야 한다.\nKISA 관계자는 \\\"아직 이베이코리아로부터 개인정보 유출신고가 접수된 것은 없다\\\"면서 \\\"KISA에서도 사실관계를 파악 중\\\"이라고 말했다.\n위법 여부는 사실 확인 후 방송통신위원회에서 판단한다.\n옥션은 2008년 1월 중국 해킹조직에 의해 회원 1080만명 개인정보를 유출했다.\n피해자 14만6000여명이 공동 소송을 여러 건 제기했지만 대법원은 옥션 측 배상 책임이 없다고 판단했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "옥션 개인정보 노출은 '코딩 오류' 때문인 것으로 확인됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오류 인지부터 수정 완료까지 약 9일이 소요된 점은 문제로 지적된다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개인정보 노출로 문제가 된 옥션 '상품문의' 게시판은 상품을 구매하기 전 이용자가 개별 문의사항을 올리는 곳이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이용자가 문의사항과 함께 개인 휴대전화 번호 등을 남기면 판매자가 해당 번호로 상품 사진 등 추가 정보를 문자로 보내준다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 글은 개인정보가 포함되는 만큼 자신과 판매자만 볼 수 있는 비공개로 설정되지만, 옥션 측 코딩 오류로 일반 이용자가 열람할 수 있는 상태로 노출됐다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최근 문의사항뿐만 아니라 오래 전 문의사항까지 일반에 그대로 노출됐다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이번 사고를 연구한 보안 전문가에 따르면 이 게시판에 비공개 글만 쓰면 정보가 노출되지 않았지만, 비공개 글과 공개 글을 함께 쓸 경우 비공개 글까지 모두 타인에게 노출되는 것으로 확인됐다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "비공개 글 권한이 공개 글과 동일하게 처리되는 문제다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "최상명 보안 전문가는 \\\"개발 과정 시 권한 중요도에 따라 높은 권한에 종속시켜야 하는데 (옥션은) 낮은 권한에 종속시켜 문제가 발생한 것으로 보인다\\\"면서 \\\"각 권한을 세부적으로 관리하는 것이 중요하다\\\"고 조언했다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "옥션을 운영하는 이베이코리아 관계자는 \\\"코딩이 얽히면서 오류가 발생했던 것\\\"이라면서 \\\"지난 10일 이를 인지한 후 18일 수정을 마쳤다\\\"고 말했다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "조치에 9일이나 소요된 데 대해서는 \\\"내부적으로 알아봐야 할 부분이 있었기 때문\\\"이라면서 \\\"(개인정보 유출신고에 관해) 한국인터넷진흥원(KISA)과 소통 중\\\"이라고 했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "개인정보보호법 제34조와 표준개인정보보호지침 제28조에 따르면 개인정보 처리자는 1000명 이상 개인정보가 유출된 경우 5일 이내 정보 주체에 통지하고 조치 결과를 신고해야 한다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "유출 최초 발생 시점과 확인된 시점 사이 시간차가 있을 때는 이에 대한 과실 유무를 입증해야 한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "KISA 관계자는 \\\"아직 이베이코리아로부터 개인정보 유출신고가 접수된 것은 없다\\\"면서 \\\"KISA에서도 사실관계를 파악 중\\\"이라고 말했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "위법 여부는 사실 확인 후 방송통신위원회에서 판단한다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "옥션은 2008년 1월 중국 해킹조직에 의해 회원 1080만명 개인정보를 유출했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "피해자 14만6000여명이 공동 소송을 여러 건 제기했지만 대법원은 옥션 측 배상 책임이 없다고 판단했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "옥션 개인정보 노출은 '코딩 오류' 탓",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

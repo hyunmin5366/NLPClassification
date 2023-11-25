@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016832",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "미래형 자동차 에너지 효율, 탄화규소로 높인다",
+		"newsSubTitle": "",
+		"newsContent": "전기차, 하이브리드 자동차 등 전기·전자분야에서 에너지효율을 높이는 핵심소재인 탄화규소 전력반도체 기술이 국내에서도 꾸준하게 개발되고 있다.\n30일 특허청에 따르면, 전기차, 하이브리드 자동차의 에너지 효율을 개선할 수 있는 탄화규소(SiC) 단결정 성장방법에 관련된 출원 건수는 최근 10년간 총 117건이며, 2011년에 급격히 증가한 이후 완만한 성장세를 보이는 것으로 집계됐다.\n지난 2006년 4건, 2007년 10건, 2008년 10건, 2009년 12건, 2010년 9건이 출원됐다.\n2011년은 22건, 2012년 9건, 2013년 23건으로 두자릿수 이상 꾸준하게 출원되고 있다.\n탄화규소 단결정 성장방법 출원동향을 보면, 승화법 59.0%(69건), 고온기상증착법 7.7%(9건), 용액성장법 33.3%(39건)로 나타났으며, 상업화 초기부터 광범위하게 사용되고 있는 승화법이 과반수 이상을 차지하고 있다.\n승화법은 높은 성장온도에 따른 탄화규소(SiC) 결정결함제어의 어려움으로 인해 정체추세에 있다.\n용액성장법은 비교적 낮은 온도(2100℃ 이하)에서 결함이 현저히 감소된 고순도·고품질의 단결정을 제조할 수 있다는 장점 때문에 2013년부터 급격히 증가하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "전기차, 하이브리드 자동차 등 전기·전자분야에서 에너지효율을 높이는 핵심소재인 탄화규소 전력반도체 기술이 국내에서도 꾸준하게 개발되고 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "30일 특허청에 따르면, 전기차, 하이브리드 자동차의 에너지 효율을 개선할 수 있는 탄화규소(SiC) 단결정 성장방법에 관련된 출원 건수는 최근 10년간 총 117건이며, 2011년에 급격히 증가한 이후 완만한 성장세를 보이는 것으로 집계됐다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 2006년 4건, 2007년 10건, 2008년 10건, 2009년 12건, 2010년 9건이 출원됐다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "2011년은 22건, 2012년 9건, 2013년 23건으로 두자릿수 이상 꾸준하게 출원되고 있다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "탄화규소 단결정 성장방법 출원동향을 보면, 승화법 59.0%(69건), 고온기상증착법 7.7%(9건), 용액성장법 33.3%(39건)로 나타났으며, 상업화 초기부터 광범위하게 사용되고 있는 승화법이 과반수 이상을 차지하고 있다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "승화법은 높은 성장온도에 따른 탄화규소(SiC) 결정결함제어의 어려움으로 인해 정체추세에 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "용액성장법은 비교적 낮은 온도(2100℃ 이하)에서 결함이 현저히 감소된 고순도·고품질의 단결정을 제조할 수 있다는 장점 때문에 2013년부터 급격히 증가하고 있다.",
+				"sentenceSize": 92
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국과위 산하로 출연연 통합되나",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

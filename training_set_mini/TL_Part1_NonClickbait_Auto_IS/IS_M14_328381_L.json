@@ -1,0 +1,303 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328381",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "또? 암호화폐 사이버 공격...바이낸스 계정 피싱 후 시세조작",
+		"newsSubTitle": "",
+		"newsContent": "글로벌 암호화폐 거래소 '바이낸스' 일부 계정이 피싱된 후 시세 조작에 이용됐다.\n암호화폐를 노린 사이버범죄가 단순 해킹을 넘어 시세조작까지 확대됐다.\n홍콩 암호화폐거래소 바이낸스는 7일(현지시간) 오후 2시 58분에 59분까지 2분간 비아코인 시장에 비정상 거래가 탐지됐다고 밝혔다.\n바이낸스는 이상거래가 자동으로 탐지돼 모든 인출이 즉시 정지됐다고 덧붙였다.\n이 사건으로 세계 2위 규모인 바이낸스거래소 해킹 소문이 급속히 확산됐고 암호화폐 시세가 요동쳤다.\n이번 사고는 계정 피싱 해킹을 넘어 시세조작까지 연결된다.\n공격자는 오랜 기간 암호화폐 거래 계정 정보를 수집했다.\n1월 초부터 시작해 2월 22일에 가짜 바이낸스 사이트를 이용한 피싱이 절정에 달했다.\n공격자는 바이낸스 URL과 유사한 형태로 가짜 사이트를 만들었다.\n진짜 바이낸스 URL은 'binance.com'이다.\n가짜는 'binance..com'처럼 점을 하나 더 넣는 형태다.\nURL에 들어있는 알파벳 'i'를 유니코드로 바꾸는 형태도 있다.\n구글에서 바이낸스를 검색했을 때 최상위에 나오는 광고에 피싱 사이트가 올라오는 사례가 빈번했다.\n공격자는 가짜 사이트를 만들어 바이낸스 고객 ID와 비밀번호, 일회용비밀번호(OTP)를 탈취했다.\n고객 계정을 탈취한 후 거래 애플리케이션프로그램인터페이스(API) 키(KEY)를 활성화했다.\n거래 API를 활성화하면 OTP없이 자동으로 거래가 이뤄진다.\n공격자는 7일 오후 약 2분에 걸쳐 모든 피해 계정 거래 API를 작동시켰다.\n해커는 피해 계정이 보유한 모든 코인을 비트코인으로 환전한다.\n이후 해당 비트코인으로 100배 오른 비아코인을 구매했다.\n피해 계정은 본래 1원인 물건을 100원에 산 셈이다.\n비아코인 평균 시세는 약 0.0002555 비트코인이었는데 7일 0.250000 비트코인으로 올랐다.\n해커는 비아코인 가격을 조작해 갑자기 100배로 올렸다.\n해커는 미리 준비한 31개 계정에 있던 비아코인을 최고 시세에 팔고 비트코인으로 환전했다.\n1원짜리를 100원에 팔았다.\n이후 비트코인을 현금화해 출금을 시도했는데 이상거래탐지시스템에 포착됐다.\n비아코인은 8일 0.0002880 비트코인에 거래 중이다.\n바이낸스는 \\\"공격자는 시세조작 D데이를 정하고 피해 계정을 탈취하며 오랜 시간을 잠복했다\\\"면서 \\\"이익을 극대화하려고 유동성이 적은 비아코인을 선택하는 등 조직적으로 움직였다\\\"고 분석했다.\n바이낸스는 보안 점검 후 중단된 거래를 정상화했다.\n거래소 시스템 자체 해킹은 아니라고 밝혔다.\n이어 \\\"해커에 계정이 탈취된 일부 계정이 더 있을 수 있다\\\"면서 \\\"암호화폐 거래 시 보안에 신경 써달라\\\"고 당부했다.\n장평 하오 바이낸스 CEO는 트위터에 \\\"일부 거래에서 이상행위가 나타났고 자동 탐지됐다\\\"면서 \\\"바이낸스 고객 자산은 안전하다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 31,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "글로벌 암호화폐 거래소 '바이낸스' 일부 계정이 피싱된 후 시세 조작에 이용됐다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "암호화폐를 노린 사이버범죄가 단순 해킹을 넘어 시세조작까지 확대됐다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "홍콩 암호화폐거래소 바이낸스는 7일(현지시간) 오후 2시 58분에 59분까지 2분간 비아코인 시장에 비정상 거래가 탐지됐다고 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "바이낸스는 이상거래가 자동으로 탐지돼 모든 인출이 즉시 정지됐다고 덧붙였다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 사건으로 세계 2위 규모인 바이낸스거래소 해킹 소문이 급속히 확산됐고 암호화폐 시세가 요동쳤다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 사고는 계정 피싱 해킹을 넘어 시세조작까지 연결된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공격자는 오랜 기간 암호화폐 거래 계정 정보를 수집했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "1월 초부터 시작해 2월 22일에 가짜 바이낸스 사이트를 이용한 피싱이 절정에 달했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공격자는 바이낸스 URL과 유사한 형태로 가짜 사이트를 만들었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "진짜 바이낸스 URL은 'binance.com'이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "가짜는 'binance..com'처럼 점을 하나 더 넣는 형태다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "URL에 들어있는 알파벳 'i'를 유니코드로 바꾸는 형태도 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "구글에서 바이낸스를 검색했을 때 최상위에 나오는 광고에 피싱 사이트가 올라오는 사례가 빈번했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "공격자는 가짜 사이트를 만들어 바이낸스 고객 ID와 비밀번호, 일회용비밀번호(OTP)를 탈취했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "고객 계정을 탈취한 후 거래 애플리케이션프로그램인터페이스(API) 키(KEY)를 활성화했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "거래 API를 활성화하면 OTP없이 자동으로 거래가 이뤄진다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "공격자는 7일 오후 약 2분에 걸쳐 모든 피해 계정 거래 API를 작동시켰다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "해커는 피해 계정이 보유한 모든 코인을 비트코인으로 환전한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이후 해당 비트코인으로 100배 오른 비아코인을 구매했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "피해 계정은 본래 1원인 물건을 100원에 산 셈이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "비아코인 평균 시세는 약 0.0002555 비트코인이었는데 7일 0.250000 비트코인으로 올랐다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "해커는 비아코인 가격을 조작해 갑자기 100배로 올렸다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "해커는 미리 준비한 31개 계정에 있던 비아코인을 최고 시세에 팔고 비트코인으로 환전했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "1원짜리를 100원에 팔았다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "이후 비트코인을 현금화해 출금을 시도했는데 이상거래탐지시스템에 포착됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "비아코인은 8일 0.0002880 비트코인에 거래 중이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "바이낸스는 \\\"공격자는 시세조작 D데이를 정하고 피해 계정을 탈취하며 오랜 시간을 잠복했다\\\"면서 \\\"이익을 극대화하려고 유동성이 적은 비아코인을 선택하는 등 조직적으로 움직였다\\\"고 분석했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "바이낸스는 보안 점검 후 중단된 거래를 정상화했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "거래소 시스템 자체 해킹은 아니라고 밝혔다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "이어 \\\"해커에 계정이 탈취된 일부 계정이 더 있을 수 있다\\\"면서 \\\"암호화폐 거래 시 보안에 신경 써달라\\\"고 당부했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "장평 하오 바이낸스 CEO는 트위터에 \\\"일부 거래에서 이상행위가 나타났고 자동 탐지됐다\\\"면서 \\\"바이낸스 고객 자산은 안전하다\\\"고 말했다.",
+				"sentenceSize": 80
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "또? 암호화폐 사이버 공격...바이낸스 계정 피싱 후 시세조작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

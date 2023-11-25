@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326847",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "인터넷나야나 사태 10일, 업계 추측 이어져...정부 빠른 원인분석 공유 필요",
+		"newsSubTitle": "",
+		"newsContent": "인터넷나야나 공격 경로를 둘러싼 업계 분석이 쏟아진다.\n업계에서는 신종 랜섬웨어∙지능형지속위협(APT) 결합, 삼바(samba) 보안 취약점 등을 지목하는 주장이 제기됐다.\n정부는 사고 원인 분석은 끝냈지만 수사 영향을 고려해 발표 시기를 조율 중이다.\n해커와 대규모 거래로 비슷한 유형 공격이 이어질 것으로 예상되는 만큼 정부가 조사결과를 빠르게 공유해야 한다는 지적이다.\n20일 보안업계에 따르면, 정황 근거를 바탕으로 인터넷나야나 랜섬웨어 공격 경로 분석이 업계에서 제기됐다.\n웹호스팅 업체 스마일서브는 인터넷나야나에 들어온 공격이 신종 지능형지속위협(APT)∙랜섬웨어가 결합한 것으로 추정했다.\n방화벽이 허용한 네트워크에서 APT 공격이 이뤄졌을 것이라는 분석이다.\n김병철 스마일서브 대표는 홈페이지를 통해 올린 글에서 \\\"(인터넷나야나를 향한) 공격은 기본적으로 APT 기획 공격과 리눅스 랜섬웨어가 조합된 신종 공격으로 분류할 수 있다\\\"며 \\\"지금까지 보안사고 경험상 방화벽이 접근 허용한 네트워크에서 APT 공격이 성공했을 것\\\"이라고 말했다.\n일각에서는 오픈소스 소프트웨어(SW) '삼바(Samba)' 취약점이 공격에 활용됐을 것이라는 주장이다.\n삼바는 파일 공유 기능이 없는 리눅스에서 주로 활용되는 파일 공유 SW다.\n지난달 삼바 게스트(GUEST) 인증을 이용, 공유 폴더에 악성코드를 심는 취약점이 발견됐다.\n한국인터넷진흥원(KISA)은 취약점 업데이트를 권고했다.\n인터넷나야나에 들어온 공격도 삼바 취약점을 이용했을 것이라는 분석이 온라인 공간을 중심으로 퍼졌다.\n전문가들은 이 같은 분석이 추정에 그친다고 평가했다.\n랜섬웨어 공격을 당한 인터넷나야나 서버를 조사하는 것은 미래창조과학부∙KISA∙경찰 사이버수사대 등 정부와 인터넷나야나 뿐이다.\n현재로서는 정부∙인터넷나야나 외에는 정확한 원인 분석작업이 어렵다.\n정확한 사고 원인 분석 결과를 공유해 추가 피해 예방책을 마련해야 한다는 지적이다.\n랜섬웨어 역사상 해커와 전례 없는 대규모 거래가 이뤄져 추가 공격이 우려되는 만큼 원인 분석 발표가 시급하다.\n특히 정부는 사고 원인을 분석했지만 수사 영향을 고려해 발표시기도 정하지 못했다.\n보안업계 전문가는 \\\"인터넷나야나에 들어가서 분석을 해야 정확한 공격 경로를 알 수 있다\\\"며 \\\"정부 분석 결과가 빨리 나와야 한다\\\"고 밝혔다.\nKISA 관계자는 \\\"백업 문제나 보안 관리 강화는 긴급 사안은 공지로 띄워 대응한다\\\"며 \\\"사고 원인은 대략 파악이 끝났지만 정확한 발표시기는 수사 영향을 고려해야 한다\\\"고 말했다",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인터넷나야나 공격 경로를 둘러싼 업계 분석이 쏟아진다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "업계에서는 신종 랜섬웨어∙지능형지속위협(APT) 결합, 삼바(samba) 보안 취약점 등을 지목하는 주장이 제기됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "정부는 사고 원인 분석은 끝냈지만 수사 영향을 고려해 발표 시기를 조율 중이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "해커와 대규모 거래로 비슷한 유형 공격이 이어질 것으로 예상되는 만큼 정부가 조사결과를 빠르게 공유해야 한다는 지적이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "20일 보안업계에 따르면, 정황 근거를 바탕으로 인터넷나야나 랜섬웨어 공격 경로 분석이 업계에서 제기됐다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "웹호스팅 업체 스마일서브는 인터넷나야나에 들어온 공격이 신종 지능형지속위협(APT)∙랜섬웨어가 결합한 것으로 추정했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "방화벽이 허용한 네트워크에서 APT 공격이 이뤄졌을 것이라는 분석이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "김병철 스마일서브 대표는 홈페이지를 통해 올린 글에서 \\\"(인터넷나야나를 향한) 공격은 기본적으로 APT 기획 공격과 리눅스 랜섬웨어가 조합된 신종 공격으로 분류할 수 있다\\\"며 \\\"지금까지 보안사고 경험상 방화벽이 접근 허용한 네트워크에서 APT 공격이 성공했을 것\\\"이라고 말했다.",
+				"sentenceSize": 159
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "일각에서는 오픈소스 소프트웨어(SW) '삼바(Samba)' 취약점이 공격에 활용됐을 것이라는 주장이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "삼바는 파일 공유 기능이 없는 리눅스에서 주로 활용되는 파일 공유 SW다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "지난달 삼바 게스트(GUEST) 인증을 이용, 공유 폴더에 악성코드를 심는 취약점이 발견됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "한국인터넷진흥원(KISA)은 취약점 업데이트를 권고했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "인터넷나야나에 들어온 공격도 삼바 취약점을 이용했을 것이라는 분석이 온라인 공간을 중심으로 퍼졌다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "전문가들은 이 같은 분석이 추정에 그친다고 평가했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "랜섬웨어 공격을 당한 인터넷나야나 서버를 조사하는 것은 미래창조과학부∙KISA∙경찰 사이버수사대 등 정부와 인터넷나야나 뿐이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "현재로서는 정부∙인터넷나야나 외에는 정확한 원인 분석작업이 어렵다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "정확한 사고 원인 분석 결과를 공유해 추가 피해 예방책을 마련해야 한다는 지적이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "랜섬웨어 역사상 해커와 전례 없는 대규모 거래가 이뤄져 추가 공격이 우려되는 만큼 원인 분석 발표가 시급하다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "특히 정부는 사고 원인을 분석했지만 수사 영향을 고려해 발표시기도 정하지 못했다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "보안업계 전문가는 \\\"인터넷나야나에 들어가서 분석을 해야 정확한 공격 경로를 알 수 있다\\\"며 \\\"정부 분석 결과가 빨리 나와야 한다\\\"고 밝혔다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "KISA 관계자는 \\\"백업 문제나 보안 관리 강화는 긴급 사안은 공지로 띄워 대응한다\\\"며 \\\"사고 원인은 대략 파악이 끝났지만 정확한 발표시기는 수사 영향을 고려해야 한다\\\"고 말했다",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인터넷나야나 사태 10일, 업계 추측 이어져...정부 빠른 원인분석 공유 필요",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348072",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 컴퓨팅/디바이스",
+		"newsTitle": "손대지 않고 터치한다…브이터치, '가상터치 패널' CES 혁신상 선정",
+		"newsSubTitle": "null",
+		"newsContent": "AI(인공지능) 스타트업 브이터치가 내년 1월 개최되는 세계 최대 IT 가전 전시회 'CES 2021'을 앞두고 '스마트 시티'와 '컴퓨터 주변기기 및 액세서리' 2개 부문에서 'CES혁신상'를 수상했다고 17일 밝혔다.\n브이터치의 '가상터치 패널'은 사용자를 AI 기술로 분석해, 직접 만지지 않고 가리키는 위치와 동작을 인식해 멀리서도 터치와 같이 조작할 수 있는 제품이다.\n가상터치 패널은 기존 디스플레이 전면에 부착하던 터치패널 대신 가상터치 센서를 얹기만 하면 어떤 종류 디스플레이에서도 작동한다.\n특히 비접촉, 원거리 터치가 가능해 코로나19와 같은 바이러스 감염을 원천 차단하고, 휠체어 장애인이나 키가 작은 아이도 손이 안 닿는 화면 영역 전체를 손쉽게 제어할 수 있게 된다.\n가상터치 패널은 내년 4월 1일 상용화 예정이다.\n김석중 브이터치 공동대표는 \\\"기존 터치패널과 버튼을 보다 위생적이고 편리한 가상터치 패널로 대체하겠다\\\"며 \\\"현재 엘리베이터, 키오스크, 자판기, 미러디스플레이 등 다수 업체와 출시를 준비하고 있다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "AI(인공지능) 스타트업 브이터치가 내년 1월 개최되는 세계 최대 IT 가전 전시회 'CES 2021'을 앞두고 '스마트 시티'와 '컴퓨터 주변기기 및 액세서리' 2개 부문에서 'CES혁신상'를 수상했다고 17일 밝혔다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "브이터치의 '가상터치 패널'은 사용자를 AI 기술로 분석해, 직접 만지지 않고 가리키는 위치와 동작을 인식해 멀리서도 터치와 같이 조작할 수 있는 제품이다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "가상터치 패널은 기존 디스플레이 전면에 부착하던 터치패널 대신 가상터치 센서를 얹기만 하면 어떤 종류 디스플레이에서도 작동한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 비접촉, 원거리 터치가 가능해 코로나19와 같은 바이러스 감염을 원천 차단하고, 휠체어 장애인이나 키가 작은 아이도 손이 안 닿는 화면 영역 전체를 손쉽게 제어할 수 있게 된다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가상터치 패널은 내년 4월 1일 상용화 예정이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김석중 브이터치 공동대표는 \\\"기존 터치패널과 버튼을 보다 위생적이고 편리한 가상터치 패널로 대체하겠다\\\"며 \\\"현재 엘리베이터, 키오스크, 자판기, 미러디스플레이 등 다수 업체와 출시를 준비하고 있다\\\"고 말했다.",
+				"sentenceSize": 120
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "손대지 않고 터치한다…브이터치, '가상터치 패널' CES 혁신상 선정",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

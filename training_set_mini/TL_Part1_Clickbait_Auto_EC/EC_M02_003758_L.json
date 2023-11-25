@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_003758",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "하나은행, 금융권 최초 인공지능 기반 'AI대출' 출시",
+		"newsSubTitle": "AI기반 프로세스로 '1분 내' 대출 한도 확인 가능",
+		"newsContent": "하나은행은 금융권 최초로 인공지능(AI)을 활용해 대출한도를 산출하는 'AI대출'을 선보인다고 6일 밝혔다. 'AI대출'은 하나은행과 하나금융융합기술원이 공동 개발한 대출한도모형에 데이터를 스스로 학습하는 머신러닝을 적용, 대출한도를 산출한다.\n우선 인공지능(AI)이 고객의 하나은행 거래 패턴을 분석한 뒤, 200여개의 변수 및 복수의 알고리즘 결합을 기반으로 리스크도 분석한다.\n이를 통해 고객에 맞는 적정 한도를 부여하게 된다.\n하나은행 관계자는 미디어SR에 \\\"인공지능을 활용한 대출 한도 산출을 통해 그동안 하나은행이 추구해온 빠르고, 스마트하며, 심플한 프로세스를 구현할 수 있게 됐다\\\"고 설명했다.\n고객은 본인 명의 휴대폰과 하나은행 거래 이력만 있으면, 소득 서류 제출 없이 최대 5000만원까지 대출을 받을 수 있다.\n예상 한도는 하나은행 모바일 뱅킹 앱 '하나원큐'의 AI대출 상세 페이지에서 확인할 수 있다.\n신청과 동시에 1분 안에 대출 한도 및 금리를 확인할 수 있고, 실제 대출 실행까지는 3분이면 가능하다.\n하나은행측은 \\\"향후에는 인공지능 뿐 아니라 빅데이터 기술도 적용해 하나은행 고객뿐만 아니라 전국민이 이용 할 수 있는 상품과 시스템을 개발해 나갈 것\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "하나은행은 금융권 최초로 인공지능(AI)을 활용해 대출한도를 산출하는 'AI대출'을 선보인다고 6일 밝혔다. 'AI대출'은 하나은행과 하나금융융합기술원이 공동 개발한 대출한도모형에 데이터를 스스로 학습하는 머신러닝을 적용, 대출한도를 산출한다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "우선 인공지능(AI)이 고객의 하나은행 거래 패턴을 분석한 뒤, 200여개의 변수 및 복수의 알고리즘 결합을 기반으로 리스크도 분석한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이를 통해 고객에 맞는 적정 한도를 부여하게 된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하나은행 관계자는 미디어SR에 \\\"인공지능을 활용한 대출 한도 산출을 통해 그동안 하나은행이 추구해온 빠르고, 스마트하며, 심플한 프로세스를 구현할 수 있게 됐다\\\"고 설명했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고객은 본인 명의 휴대폰과 하나은행 거래 이력만 있으면, 소득 서류 제출 없이 최대 5000만원까지 대출을 받을 수 있다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "예상 한도는 하나은행 모바일 뱅킹 앱 '하나원큐'의 AI대출 상세 페이지에서 확인할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "신청과 동시에 1분 안에 대출 한도 및 금리를 확인할 수 있고, 실제 대출 실행까지는 3분이면 가능하다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하나은행측은 \\\"향후에는 인공지능 뿐 아니라 빅데이터 기술도 적용해 하나은행 고객뿐만 아니라 전국민이 이용 할 수 있는 상품과 시스템을 개발해 나갈 것\\\"이라고 밝혔다.",
+				"sentenceSize": 94
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"중공업이 사라진다\\\"…새 옷 갈아입는 기업들",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

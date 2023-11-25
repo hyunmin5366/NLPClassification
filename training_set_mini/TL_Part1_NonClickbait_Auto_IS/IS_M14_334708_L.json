@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334708",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "오에스씨코리아, 쿠버네티스 API 부하테스트 솔루션 스피드스케일과 전략적 제휴",
+		"newsSubTitle": "",
+		"newsContent": "오에스씨코리아(대표 이제응, 이하 오에스씨)는 글로벌 쿠버네티스 API 부하테스트 솔루션인 스피드스케일(대표 켄 아렌, 이하 스피드스케일)과 전략적 제휴를 맺었다고 9일 밝혔다.\n오에스씨는 클라우드 네이티브 기반의 오픈소스 소프트웨어를 중심으로 마이크로서비스 아키텍처(MSA)와 데브옵스 전환 컨설팅·구축을 지원하는 전문기업이다.\n스피드스케일은 상용환경과 유사한 트래픽을 개발환경에서 쉽게 테스트 할 수 있도록 설계된 솔루션이다.\n부하생성을 위해 복잡한 스크립트 작업을 거치는 대신 쉽게 트래픽을 캡쳐해 리플레이하는 방식으로 동작한다.\n이때 원하는 부하를 쉽게 증폭하여 생성할 수 있다.\n상용환경의 부하를 사전에 테스트 해볼 수 있기 때문에 개발자는 어플리케이션이 릴리스 되기 전에 개발하는 단계에서 이슈를 발견하고 수정할 수 있다.\n오에스씨는 스피드스케일을 오픈소스로 구현된 MSA 솔루션 OpenMSA™에 밸리데이션 서비스에 통합해 고객에게 제공할 예정이다.\n이제응 대표는 “디지털 전환이 가속화되면서 많은 고객이 쿠버네티스를 표준 플랫폼을 책정하고 이를 기반으로 현대화된 아키텍처를 도입하고 있다”며 “이 과정에서 API를 개발하고 활용하는 빈도가 높아지고 API에 대한 가시성이나 성능 측정, 검증에 대한 요구도 늘었다”고 말했다.\n또 “스피드스케일과 협업을 통해 고객이 필요로 하는 API 가시성과 성능 검증 부분을 강화해 신뢰할 수 있는 MSA를 제공할 것”이라고 덧붙였다.\n켄 아렌(Ken Ahren) 대표는 “오에스씨는 클라우드 네이티브 기술에 대한 이해도가 높고 아키텍처 전환 프로젝트에서 눈에 띄는 성과를 내고 있다”며 “스피드스케일은 마이크로서비스 부하테스트와 API 성능검증에 있어 특화된 솔루션으로 한국의 많은 고객의 디지털 트랜스포메이션에 일조하기를 기대 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "오에스씨코리아(대표 이제응, 이하 오에스씨)는 글로벌 쿠버네티스 API 부하테스트 솔루션인 스피드스케일(대표 켄 아렌, 이하 스피드스케일)과 전략적 제휴를 맺었다고 9일 밝혔다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "오에스씨는 클라우드 네이티브 기반의 오픈소스 소프트웨어를 중심으로 마이크로서비스 아키텍처(MSA)와 데브옵스 전환 컨설팅·구축을 지원하는 전문기업이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "스피드스케일은 상용환경과 유사한 트래픽을 개발환경에서 쉽게 테스트 할 수 있도록 설계된 솔루션이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "부하생성을 위해 복잡한 스크립트 작업을 거치는 대신 쉽게 트래픽을 캡쳐해 리플레이하는 방식으로 동작한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이때 원하는 부하를 쉽게 증폭하여 생성할 수 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "상용환경의 부하를 사전에 테스트 해볼 수 있기 때문에 개발자는 어플리케이션이 릴리스 되기 전에 개발하는 단계에서 이슈를 발견하고 수정할 수 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "오에스씨는 스피드스케일을 오픈소스로 구현된 MSA 솔루션 OpenMSA™에 밸리데이션 서비스에 통합해 고객에게 제공할 예정이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이제응 대표는 “디지털 전환이 가속화되면서 많은 고객이 쿠버네티스를 표준 플랫폼을 책정하고 이를 기반으로 현대화된 아키텍처를 도입하고 있다”며 “이 과정에서 API를 개발하고 활용하는 빈도가 높아지고 API에 대한 가시성이나 성능 측정, 검증에 대한 요구도 늘었다”고 말했다.",
+				"sentenceSize": 154
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 “스피드스케일과 협업을 통해 고객이 필요로 하는 API 가시성과 성능 검증 부분을 강화해 신뢰할 수 있는 MSA를 제공할 것”이라고 덧붙였다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "켄 아렌(Ken Ahren) 대표는 “오에스씨는 클라우드 네이티브 기술에 대한 이해도가 높고 아키텍처 전환 프로젝트에서 눈에 띄는 성과를 내고 있다”며 “스피드스케일은 마이크로서비스 부하테스트와 API 성능검증에 있어 특화된 솔루션으로 한국의 많은 고객의 디지털 트랜스포메이션에 일조하기를 기대 한다”고 말했다.",
+				"sentenceSize": 174
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "오에스씨코리아, 쿠버네티스 API 부하테스트 솔루션 스피드스케일과 전략적 제휴",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

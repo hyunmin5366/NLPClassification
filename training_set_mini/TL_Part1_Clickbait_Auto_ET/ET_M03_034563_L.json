@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_034563",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "트와이스 위해 광고 따낸 원스 팬심",
+		"newsSubTitle": "",
+		"newsContent": "트와이스가 팬클럽 '원스'덕을 톡톡히 봤다.\n과거 한 원스 회원은 D 음료사에 트와이스의 이미지를 보냈다.\n당시 '치어 업' 티저에 해당 음료 로고를 복사한 것이다.\n이 회원은 \\\"트와이스 티저 사진을 팬들이 편집했다. 너무 잘 어울린다. 광고모델 고를때 생각해주시면 감사하겠다\\\"는 멘트를 덧붙였다.\n이에 D 음료사는 \\\"우리 음료와 굉장히 잘 어울린다. 예쁜 이미지 감사하다. 2017년 모델 선정시 이미지를 꼭 참고하겠다\\\"는 댓글을 달았다.\n또한 트와이스가 연말 무대 대기실 브이앱을 통해 한 음료를 홍보하기 시작했다.\n바로 D사의 음료를 들고 있었던 것이다.\nD 음료사는 지난 16일 \\\"음료 발매 30주년을 맞아 최초로 아이돌 모델을 선정했다\\\"는 기사를 내놓았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "트와이스가 팬클럽 '원스'덕을 톡톡히 봤다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "과거 한 원스 회원은 D 음료사에 트와이스의 이미지를 보냈다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "당시 '치어 업' 티저에 해당 음료 로고를 복사한 것이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 회원은 \\\"트와이스 티저 사진을 팬들이 편집했다. 너무 잘 어울린다. 광고모델 고를때 생각해주시면 감사하겠다\\\"는 멘트를 덧붙였다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이에 D 음료사는 \\\"우리 음료와 굉장히 잘 어울린다. 예쁜 이미지 감사하다. 2017년 모델 선정시 이미지를 꼭 참고하겠다\\\"는 댓글을 달았다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또한 트와이스가 연말 무대 대기실 브이앱을 통해 한 음료를 홍보하기 시작했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "바로 D사의 음료를 들고 있었던 것이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "D 음료사는 지난 16일 \\\"음료 발매 30주년을 맞아 최초로 아이돌 모델을 선정했다\\\"는 기사를 내놓았다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "화사, 신예 킨다블루 지원사격[공식]",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

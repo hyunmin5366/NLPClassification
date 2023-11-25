@@ -1,0 +1,204 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331288",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "방화벽도 IPS도 한 장비에서 SW로···융합형 가상화 장비 첫 개발",
+		"newsSubTitle": "",
+		"newsContent": "방화벽, 침입방지시스템(IPS) 등 다양한 기능을 가상화 기술로 한 장비에서 소프트웨어(SW)로 제공하는 융합형 장비가 국내 최초로 개발됐다.\n산·학·연이 힘을 모아 개발한 국산 장비라는 점에서 의미가 남다르다.\n한국전자통신연구원(ETRI)·광운대·유미테크·KTNF는 '차세대 네트워크 플랫폼' 연구개발 과제로 4년간 개발해온 '가상화 고객내장치(vCPE)'를 상용화했다고 26일 밝혔다.\nvCPE는 아파트 통신실 등 가입자 구간에서 패킷(데이터) 전달 기능만을 하던 스위치(CPE)에 서버와 가상화 플랫폼을 결합했다.\n가상화 플랫폼에서 보안, 콘텐츠 캐싱 등 다양한 기능을 SW로 제공할 수 있다.\n방화벽이 필요하다면 방화벽 하드웨어 장비를 구매하는 것이 아니라 SW로 방화벽 기능을 구현한다.\n투자비를 절반 이하로 줄이고 운영 복잡성을 제거할 수 있다.\n새로운 기능이 필요할 때마다 편리하게 구현, 민첩성이 증대된다.\nvCPE는 자동관리로 운영비 절감도 기대된다.\n오픈 소스 기반으로 SW 기능을 개발, 특정 제조사(벤더) 제품 사용에 따른 벤더 종속성도 탈피할 수 있다.\nETRI 등은 앱스토어처럼 필요한 가상 네트워크 기능(VNF)을 내려받을 수 있는 'VNF 스토어'도 개발한다.\nVNF 스토어는 서비스 확산 기반이 될 전망이다.\nETRI 등은 광운대 학내 망 시범테스트에서 성능과 기능을 검증했다.\n한국정보화진흥원(NIA) 미래 네트워크 선도시험망(KOREN)에서 상용화 수준을 확인했다.\nvCPE는 부산에서 열리는 '국제전기통신연합(ITU) 텔레콤월드 2017'에서 홍보를 통해 판매 발판을 마련할 방침이다.\n서비스형 인프라(IaaS)를 제공하는 클라우드 사업자, 통신사, 콘텐츠 딜리버리 네트워크(CDN) 업체, 인터넷 방송 사업자 등을 목표로 시장을 공략할 계획이다.\nETRI 관계자는 “서버와 스위치가 결합된 제품은 일반화됐지만 가상화 기능까지 얹어 상용화 제품이 나온 것은 처음”이라며 “보안 분야뿐만 아니라 다른 SW 기능도 제공할 수 있도록 개발을 지속할 것”이라고 말했다.\n해외에서는 이미 네트워크 장비와 서버가 결합된 화이트박스 장비에 가상화 기능을 추가한 장비가 일반화됐다.\n그러나 국내에서는 규모의 경제에 밀려 개발에 나서는 업체가 없다.\nvCPE가 국산 가상화 융합 장비 개발 신호탄이 될지 주목된다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 20,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "방화벽, 침입방지시스템(IPS) 등 다양한 기능을 가상화 기술로 한 장비에서 소프트웨어(SW)로 제공하는 융합형 장비가 국내 최초로 개발됐다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "산·학·연이 힘을 모아 개발한 국산 장비라는 점에서 의미가 남다르다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국전자통신연구원(ETRI)·광운대·유미테크·KTNF는 '차세대 네트워크 플랫폼' 연구개발 과제로 4년간 개발해온 '가상화 고객내장치(vCPE)'를 상용화했다고 26일 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "vCPE는 아파트 통신실 등 가입자 구간에서 패킷(데이터) 전달 기능만을 하던 스위치(CPE)에 서버와 가상화 플랫폼을 결합했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가상화 플랫폼에서 보안, 콘텐츠 캐싱 등 다양한 기능을 SW로 제공할 수 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방화벽이 필요하다면 방화벽 하드웨어 장비를 구매하는 것이 아니라 SW로 방화벽 기능을 구현한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "투자비를 절반 이하로 줄이고 운영 복잡성을 제거할 수 있다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "새로운 기능이 필요할 때마다 편리하게 구현, 민첩성이 증대된다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "vCPE는 자동관리로 운영비 절감도 기대된다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "오픈 소스 기반으로 SW 기능을 개발, 특정 제조사(벤더) 제품 사용에 따른 벤더 종속성도 탈피할 수 있다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "ETRI 등은 앱스토어처럼 필요한 가상 네트워크 기능(VNF)을 내려받을 수 있는 'VNF 스토어'도 개발한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "VNF 스토어는 서비스 확산 기반이 될 전망이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "ETRI 등은 광운대 학내 망 시범테스트에서 성능과 기능을 검증했다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "한국정보화진흥원(NIA) 미래 네트워크 선도시험망(KOREN)에서 상용화 수준을 확인했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "vCPE는 부산에서 열리는 '국제전기통신연합(ITU) 텔레콤월드 2017'에서 홍보를 통해 판매 발판을 마련할 방침이다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "서비스형 인프라(IaaS)를 제공하는 클라우드 사업자, 통신사, 콘텐츠 딜리버리 네트워크(CDN) 업체, 인터넷 방송 사업자 등을 목표로 시장을 공략할 계획이다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "ETRI 관계자는 “서버와 스위치가 결합된 제품은 일반화됐지만 가상화 기능까지 얹어 상용화 제품이 나온 것은 처음”이라며 “보안 분야뿐만 아니라 다른 SW 기능도 제공할 수 있도록 개발을 지속할 것”이라고 말했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "해외에서는 이미 네트워크 장비와 서버가 결합된 화이트박스 장비에 가상화 기능을 추가한 장비가 일반화됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "그러나 국내에서는 규모의 경제에 밀려 개발에 나서는 업체가 없다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "vCPE가 국산 가상화 융합 장비 개발 신호탄이 될지 주목된다.",
+				"sentenceSize": 35
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "방화벽도 IPS도 한 장비에서 SW로···융합형 가상화 장비 첫 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

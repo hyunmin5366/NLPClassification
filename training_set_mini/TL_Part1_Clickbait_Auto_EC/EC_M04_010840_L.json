@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010840",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "퇴출 진흥저축銀 '예한별'로 오늘 영업재개",
+		"newsSubTitle": "",
+		"newsContent": "저축은행의 연내 추가 퇴출설이 현실화됐다.\n금융위원회는 지난 16일 정례회의를 열어 진흥저축은행의 영업정지 처분을 내리고, 5000만원 초과 예금 등을 제외한 대부분의 부채와 자산을 예금보험공사 자회사인 예한별저축은행으로 계약 이전해 19일부터 영업을 재개한다고 밝혔다.\n이로 인해 지난 10월 토마토2저축은행이 예솔저축은행으로 편입된 후 한 달 만에 또 한 곳의 저축은행이 퇴출됐다.\n진흥저축은행이 예한별저축은행에 흡수됨에 따라 기존 예금 거래와 조건 등도 그대로 승계된다.\n진흥저축은행 예금자 입금액 중 5000만원 이하는 예금보험공사의 보호를 받을 수 있다.\n하지만, 저축은행이 퇴출될 경우 5000만원 초과 예금자와 후순위채 투자자는 손실이 불가피하다.\n진흥저축은행의 5000만원 초과 예금자는 540여명으로, 5000만원 초과 예금 합계는 3억2000여만 원으로 추산되고 있다.\n후순위채는 400억여원, 투자자 수는 1400여 명에 이를 것으로 보인다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "저축은행의 연내 추가 퇴출설이 현실화됐다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "금융위원회는 지난 16일 정례회의를 열어 진흥저축은행의 영업정지 처분을 내리고, 5000만원 초과 예금 등을 제외한 대부분의 부채와 자산을 예금보험공사 자회사인 예한별저축은행으로 계약 이전해 19일부터 영업을 재개한다고 밝혔다.",
+				"sentenceSize": 127
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이로 인해 지난 10월 토마토2저축은행이 예솔저축은행으로 편입된 후 한 달 만에 또 한 곳의 저축은행이 퇴출됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "진흥저축은행이 예한별저축은행에 흡수됨에 따라 기존 예금 거래와 조건 등도 그대로 승계된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "진흥저축은행 예금자 입금액 중 5000만원 이하는 예금보험공사의 보호를 받을 수 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하지만, 저축은행이 퇴출될 경우 5000만원 초과 예금자와 후순위채 투자자는 손실이 불가피하다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "진흥저축은행의 5000만원 초과 예금자는 540여명으로, 5000만원 초과 예금 합계는 3억2000여만 원으로 추산되고 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "후순위채는 400억여원, 투자자 수는 1400여 명에 이를 것으로 보인다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자 갤럭시 북2 프로 시리즈 사전 판매",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

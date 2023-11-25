@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326717",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "유통",
+		"newsTitle": "[단독]이마트, 매장 전용 AI 챗봇 '이똑이똑' 내놓는다",
+		"newsSubTitle": "",
+		"newsContent": "이마트가 업계 최초로 매장용 인공지능(AI) 챗봇 서비스를 선보인다.\n점포별 상품 재고 현황과 할인 행사, 영업시간 등의 문의를 실시간 응대해서 고객의 쇼핑 편의를 높이겠다는 구상이다.\n24일 업계에 따르면 이마트는 올 상반기 AI 챗봇 서비스 '이똑이똑'을 정식 론칭할 예정이다.\n최근 카카오톡을 통해 베타 서비스에 들어간 것으로 확인됐다.\n고객은 모바일에서 상품 재고 현황과 행사, 휴점일, 주차요금 등을 24시간 문의할 수 있다.\n전기차 충전소와 층별 입점 매장도 챗봇으로 확인이 가능하다.\n현재 베타 테스트에 들어간 이마트 이똑이똑은 시나리오형 챗봇이다.\n이마트 시스템개발 기획팀은 축적한 데이터베이스(DB)를 통해 지능형 챗봇으로 고도화하는 개발 작업에 착수했다.\n이마트가 이번 챗봇 개발에 심혈을 쏟는 부분은 실시간 재고 확인이다.\n고객은 매장 방문 전에 챗봇으로 점포명과 상품명을 입력, 재고를 미리 확인할 수 있다.\n한 예로 '성수점 KF94마스크'나 '천호점 피코크 우유'를 입력하면 해당 점포에 재고가 몇 개 남아 있는지 알려주는 식이다.\n점포별 방대한 상품 DB를 구축해야 하는 만큼 많은 시간과 기술이 요구된다.\n재고 수량을 실시간 체크할 수 있는 연동 작업이 필수다.\n이마트 할인점 매장의 전체 품목(SKU)은 10만개에 이른다.\n시즌별 또는 매주 진열되는 상품 구색과 행사 상품도 달라진다.\n그때마다 DB 작업을 새로 해야 한다.\n회사 관계자는 \\\"워낙 SKU가 방대하다 보니 정형화된 데이터를 뽑아내는 게 쉬운 일이 아니다\\\"라면서 \\\"현재 할인점 상품 DB 중심으로 실시간 연동 작업을 진행하고 있다. 트레이더스와 일렉트로마트 상품 재고 연동은 당분간 어렵다\\\"고 말했다.\n강희석 이마트 대표는 AI 챗봇을 오프라인 사업 경쟁력 강화의 디딤돌로 보고 있다.\n매장 이용 편의를 제공, 고객 유인을 높이겠다는 계산이다.\n이보다 앞서 지난해 10월 편의점 자회사 이마트24를 통해 챗봇 서비스를 선보이며 사업성도 테스트했다.\n이마트는 이달 초 디지털사업부 본부장에 SK텔레콤 출신 AI∙데이터 전문가인 진요한 씨를 영입했다.\n진 본부장은 SKT에서 디지털전환 추진 그룹장으로 있으면서 AI 최적 요금제 추천 시스템 등을 개발한 만큼 이마트 AI 챗봇 고도화를 직접 이끌 것으로 전망된다.\n이마트 관계자는 \\\"아직 개발 단계인 만큼 베타 서비스를 통해 개선점을 찾는데 집중하고 있다\\\"면서 \\\"AI 챗봇을 통해 고객의 쇼핑 편의를 크게 개선할 수 있을 것으로 기대한다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이마트가 업계 최초로 매장용 인공지능(AI) 챗봇 서비스를 선보인다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "점포별 상품 재고 현황과 할인 행사, 영업시간 등의 문의를 실시간 응대해서 고객의 쇼핑 편의를 높이겠다는 구상이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "24일 업계에 따르면 이마트는 올 상반기 AI 챗봇 서비스 '이똑이똑'을 정식 론칭할 예정이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 카카오톡을 통해 베타 서비스에 들어간 것으로 확인됐다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고객은 모바일에서 상품 재고 현황과 행사, 휴점일, 주차요금 등을 24시간 문의할 수 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "전기차 충전소와 층별 입점 매장도 챗봇으로 확인이 가능하다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현재 베타 테스트에 들어간 이마트 이똑이똑은 시나리오형 챗봇이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이마트 시스템개발 기획팀은 축적한 데이터베이스(DB)를 통해 지능형 챗봇으로 고도화하는 개발 작업에 착수했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이마트가 이번 챗봇 개발에 심혈을 쏟는 부분은 실시간 재고 확인이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "고객은 매장 방문 전에 챗봇으로 점포명과 상품명을 입력, 재고를 미리 확인할 수 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "한 예로 '성수점 KF94마스크'나 '천호점 피코크 우유'를 입력하면 해당 점포에 재고가 몇 개 남아 있는지 알려주는 식이다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "점포별 방대한 상품 DB를 구축해야 하는 만큼 많은 시간과 기술이 요구된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "재고 수량을 실시간 체크할 수 있는 연동 작업이 필수다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이마트 할인점 매장의 전체 품목(SKU)은 10만개에 이른다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "시즌별 또는 매주 진열되는 상품 구색과 행사 상품도 달라진다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "그때마다 DB 작업을 새로 해야 한다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "회사 관계자는 \\\"워낙 SKU가 방대하다 보니 정형화된 데이터를 뽑아내는 게 쉬운 일이 아니다\\\"라면서 \\\"현재 할인점 상품 DB 중심으로 실시간 연동 작업을 진행하고 있다. 트레이더스와 일렉트로마트 상품 재고 연동은 당분간 어렵다\\\"고 말했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "강희석 이마트 대표는 AI 챗봇을 오프라인 사업 경쟁력 강화의 디딤돌로 보고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "매장 이용 편의를 제공, 고객 유인을 높이겠다는 계산이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이보다 앞서 지난해 10월 편의점 자회사 이마트24를 통해 챗봇 서비스를 선보이며 사업성도 테스트했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이마트는 이달 초 디지털사업부 본부장에 SK텔레콤 출신 AI∙데이터 전문가인 진요한 씨를 영입했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "진 본부장은 SKT에서 디지털전환 추진 그룹장으로 있으면서 AI 최적 요금제 추천 시스템 등을 개발한 만큼 이마트 AI 챗봇 고도화를 직접 이끌 것으로 전망된다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이마트 관계자는 \\\"아직 개발 단계인 만큼 베타 서비스를 통해 개선점을 찾는데 집중하고 있다\\\"면서 \\\"AI 챗봇을 통해 고객의 쇼핑 편의를 크게 개선할 수 있을 것으로 기대한다\\\"고 말했다.",
+				"sentenceSize": 107
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[단독]이마트, 매장 전용 AI 챗봇 '이똑이똑' 내놓는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

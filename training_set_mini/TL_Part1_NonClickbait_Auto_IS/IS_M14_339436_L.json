@@ -1,0 +1,258 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339436",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "현대차그룹, 자율주행 AI 기술 '엔비디아·인텔-모빌아이' 경쟁 구도로",
+		"newsSubTitle": "",
+		"newsContent": "현대자동차그룹이 레벨4 이상의 고도 자율 주행에 사용하는 인공지능(AI) 기술을 엔비디아뿐만 아니라 인텔-모빌아이까지 적용하는 쪽으로 전략을 수정했다.\n기존에는 레벨3 이하 부분자율 주행에는 모빌아이 플랫폼, 레벨4 이상 완전자율 주행에는 엔비디아 플랫폼을 채택할 계획이었다.\n그러나 완전자율 주행에서 5세대(5G) 이동통신, 차량·사물통신(V2X) 등 통신 기술의 필요성이 커지면서 복수 업체를 대상으로 기술력 검증에 나선 것으로 분석된다.\n9일 현대차그룹에 따르면 현대·기아차는 자율주행자동차의 두뇌에 해당하는 AI 플랫폼으로 엔비디아와 인텔-모빌아이를 모두 고려하는 쪽으로 방향을 정했다.\n현대차그룹은 2021년까지 레벨4 자율주행차 개발을 위해 미국 스타트업 '오로라'와의 협업을 발표하면서 엔비디아 AI 플랫폼을 선택할 것으로 전망됐다.\n엔디비아는 현재 오로라와 협력해서 AI '드라이브 자비에(NVIDIA DRIVE Xavier)'를 활용한 레벨4·5 완전자율주행 하드웨어(HW) 플랫폼을 개발하고 있다.\n엔비디아는 자율 주행 AI 시장을 장악하다시피 했다.\n현재 자율 주행 개발업체 320여개사와 협업을 하고 있다.\n다만 AI칩 공급을 공식 밝힌 곳은 독일 폭스바겐그룹과 미국 우버뿐이다.\n엔비디아는 AI 기술의 근간이 되는 기계학습, 딥러닝에서 그래픽처리장치(GPU) 병렬 연산이 중앙처리장치(CPU)보다 유리하다고 강조하면서 시장 주도권을 잡았다.\n현재 드라이브 자비에를 이용한 △드라이브AV △드라이브IX △드라이브AR 세 가지 AI 플랫폼을 보유하고 있다.\n또 완전자율주행을 위한 '드라이브 페가수스'도 있다.\n현대차그룹 연구개발을 총괄하는 양웅철 부회장도 올해 초 미국 라스베이거스에서 열린 'CES 2018'에서 “제한된 조건에서 자율주행을 구현하는 레벨3 이하에서는 모빌아이가, 그래픽프로세서(GPU) 기술을 선도하는 엔비디아는 레벨4 이상에서 앞서 있기 때문에 양쪽 모두와 협업하는 게 유리하다”고 밝혔다.\n하지만 완전 자율주행차 개발에 있어 통신 필요성이 커지면서 현대차그룹 역시 기술 다변화를 꾀한다.\n차량과 차량, 차량과 인프라 등 모든 사물과 통신을 교류하는 'V2X' 기술과 차세대 통신망 '5G'에 대한 기술 개발을 강화하고 있다.\n현대차그룹은 지난 2월 화성시에 자율주행차 실증 구간을 구축했다.\n7개 교차로에 차량·인프라사물통신(V2I) 서비스를 적용하고, V2X 차량을 모니터링한다.\n현대차그룹은 V2I 과정에서 신호 체계 변화, 교통 정체, 도로환경 등에 대한 실증을 진행한다.\n또 전국 고속도로에 자율주행 연계 기술 개발과 실증사업에도 참여한다.\n현대차그룹은 이와 같은 통신망을 활용한 자율 주행 고도화 과정에서 인텔-모빌아이 플랫폼까지 염두에 두게 된 것으로 전해졌다.\n정의선 부회장은 지난해 5월 이스라엘에서 모빌아이를 방문했고, 암논 샤슈아 모빌아이 최고경영자(CEO)는 지난해 10월 방한, 현대차를 찾았다.\n인텔은 자체 오픈 컴퓨팅 플랫폼, 데이터센터, 5G, 모빌아이 센싱 매핑 기술을 결합해서 완전한 자율주행 실현을 목표로 하고 있다.\n인텔 자율주행 플랫폼 '고(Go)'는 자동차, 커넥티비티, 클라우드 등 3개 플랫폼을 통합한 자율 주행 솔루션이다.\nCPU와 프로그래머블반도체(FPGA) 등 인텔의 다양한 연산 프로세서와 모빌아이 고성능 컴퓨터 비전 솔루션 '아이큐(EyeQ)5'를 탑재한다.\n모빌아이 비전 솔루션은 카메라 센서로 들어온 이미지 정보를 분석해서 사물을 판별하는 소프트웨어(SW)와 HW 기술이 통합돼 있다.\n현대차그룹 관계자는 “레벨3 이상 자율주행차는 차량뿐만 아니라 AI, 통신, 고정밀지도(HD맵) 등 해당 분야 전문 기술이 필요하다”면서 “전문성이 뛰어난 회사와는 언제든지 협업이 가능하다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 26,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차그룹이 레벨4 이상의 고도 자율 주행에 사용하는 인공지능(AI) 기술을 엔비디아뿐만 아니라 인텔-모빌아이까지 적용하는 쪽으로 전략을 수정했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기존에는 레벨3 이하 부분자율 주행에는 모빌아이 플랫폼, 레벨4 이상 완전자율 주행에는 엔비디아 플랫폼을 채택할 계획이었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러나 완전자율 주행에서 5세대(5G) 이동통신, 차량·사물통신(V2X) 등 통신 기술의 필요성이 커지면서 복수 업체를 대상으로 기술력 검증에 나선 것으로 분석된다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "9일 현대차그룹에 따르면 현대·기아차는 자율주행자동차의 두뇌에 해당하는 AI 플랫폼으로 엔비디아와 인텔-모빌아이를 모두 고려하는 쪽으로 방향을 정했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현대차그룹은 2021년까지 레벨4 자율주행차 개발을 위해 미국 스타트업 '오로라'와의 협업을 발표하면서 엔비디아 AI 플랫폼을 선택할 것으로 전망됐다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "엔디비아는 현재 오로라와 협력해서 AI '드라이브 자비에(NVIDIA DRIVE Xavier)'를 활용한 레벨4·5 완전자율주행 하드웨어(HW) 플랫폼을 개발하고 있다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "엔비디아는 자율 주행 AI 시장을 장악하다시피 했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현재 자율 주행 개발업체 320여개사와 협업을 하고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "다만 AI칩 공급을 공식 밝힌 곳은 독일 폭스바겐그룹과 미국 우버뿐이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "엔비디아는 AI 기술의 근간이 되는 기계학습, 딥러닝에서 그래픽처리장치(GPU) 병렬 연산이 중앙처리장치(CPU)보다 유리하다고 강조하면서 시장 주도권을 잡았다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "현재 드라이브 자비에를 이용한 △드라이브AV △드라이브IX △드라이브AR 세 가지 AI 플랫폼을 보유하고 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "또 완전자율주행을 위한 '드라이브 페가수스'도 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "현대차그룹 연구개발을 총괄하는 양웅철 부회장도 올해 초 미국 라스베이거스에서 열린 'CES 2018'에서 “제한된 조건에서 자율주행을 구현하는 레벨3 이하에서는 모빌아이가, 그래픽프로세서(GPU) 기술을 선도하는 엔비디아는 레벨4 이상에서 앞서 있기 때문에 양쪽 모두와 협업하는 게 유리하다”고 밝혔다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "하지만 완전 자율주행차 개발에 있어 통신 필요성이 커지면서 현대차그룹 역시 기술 다변화를 꾀한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "차량과 차량, 차량과 인프라 등 모든 사물과 통신을 교류하는 'V2X' 기술과 차세대 통신망 '5G'에 대한 기술 개발을 강화하고 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "현대차그룹은 지난 2월 화성시에 자율주행차 실증 구간을 구축했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "7개 교차로에 차량·인프라사물통신(V2I) 서비스를 적용하고, V2X 차량을 모니터링한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "현대차그룹은 V2I 과정에서 신호 체계 변화, 교통 정체, 도로환경 등에 대한 실증을 진행한다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "또 전국 고속도로에 자율주행 연계 기술 개발과 실증사업에도 참여한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "현대차그룹은 이와 같은 통신망을 활용한 자율 주행 고도화 과정에서 인텔-모빌아이 플랫폼까지 염두에 두게 된 것으로 전해졌다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "정의선 부회장은 지난해 5월 이스라엘에서 모빌아이를 방문했고, 암논 샤슈아 모빌아이 최고경영자(CEO)는 지난해 10월 방한, 현대차를 찾았다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "인텔은 자체 오픈 컴퓨팅 플랫폼, 데이터센터, 5G, 모빌아이 센싱 매핑 기술을 결합해서 완전한 자율주행 실현을 목표로 하고 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "인텔 자율주행 플랫폼 '고(Go)'는 자동차, 커넥티비티, 클라우드 등 3개 플랫폼을 통합한 자율 주행 솔루션이다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "CPU와 프로그래머블반도체(FPGA) 등 인텔의 다양한 연산 프로세서와 모빌아이 고성능 컴퓨터 비전 솔루션 '아이큐(EyeQ)5'를 탑재한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "모빌아이 비전 솔루션은 카메라 센서로 들어온 이미지 정보를 분석해서 사물을 판별하는 소프트웨어(SW)와 HW 기술이 통합돼 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "현대차그룹 관계자는 “레벨3 이상 자율주행차는 차량뿐만 아니라 AI, 통신, 고정밀지도(HD맵) 등 해당 분야 전문 기술이 필요하다”면서 “전문성이 뛰어난 회사와는 언제든지 협업이 가능하다”고 밝혔다.",
+				"sentenceSize": 112
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대차그룹, 자율주행 AI 기술 '엔비디아·인텔-모빌아이' 경쟁 구도로",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

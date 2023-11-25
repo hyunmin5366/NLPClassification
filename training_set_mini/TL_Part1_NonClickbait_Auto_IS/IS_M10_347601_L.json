@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347601",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "인스타, 오전 한때 '다운'…회사측 \\\"오류 해결 완료\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "사회관계망서비스(SNS)인 인스타그램에서 오전 한때 오류가 발생해 이용자들이 불편을 겪었다.\n회사측은 즉각적인 조치를 통해 오류문제가 오전 중 해결됐다고 밝혔다.\n29일 오전 9시20분경(한국시간)부터 인스타그램 피드가 새로고침이 되지 않았다.\n오류 현상은 웹과 모바일앱에서 30분 넘게 지속되면서 일부 이용자들이 인스타그램 접속시 '5XX server error'(서버 오류) 또는 '피드를 새로 고칠 수 없습니다'라는 문구가 떴다.\n이날 오류는 한국 뿐 아니라 전세계 인스타그램 서비스 이용자들 중 일부에게서 나타났다.\n인스타그램 관계자는 \\\"일부 사용자들에게서 서비스가 다운되는 문제를 인지했다\\\"며 \\\"신속한 문제 해결 작업을 통해 오전 중 정상적으로 복구됐고 이용자들에게 안내 공지했다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "사회관계망서비스(SNS)인 인스타그램에서 오전 한때 오류가 발생해 이용자들이 불편을 겪었다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "회사측은 즉각적인 조치를 통해 오류문제가 오전 중 해결됐다고 밝혔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "29일 오전 9시20분경(한국시간)부터 인스타그램 피드가 새로고침이 되지 않았다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오류 현상은 웹과 모바일앱에서 30분 넘게 지속되면서 일부 이용자들이 인스타그램 접속시 '5XX server error'(서버 오류) 또는 '피드를 새로 고칠 수 없습니다'라는 문구가 떴다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이날 오류는 한국 뿐 아니라 전세계 인스타그램 서비스 이용자들 중 일부에게서 나타났다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인스타그램 관계자는 \\\"일부 사용자들에게서 서비스가 다운되는 문제를 인지했다\\\"며 \\\"신속한 문제 해결 작업을 통해 오전 중 정상적으로 복구됐고 이용자들에게 안내 공지했다\\\"고 밝혔다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "인스타, 오전 한때 '다운'…회사측 \\\"오류 해결 완료\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

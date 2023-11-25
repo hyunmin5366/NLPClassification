@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_335118",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[글로벌테크코리아 2021]램리서치 \\\"200단 이상 낸드 제조, 웨이퍼 뒤틀림 대응 필요\\\"",
+		"newsSubTitle": "",
+		"newsContent": "황성진 램리서치 상무는 '3D 낸드플래시 제조기술'을 주제로 낸드플래시의 스택(단수) 증가에 따른 제조 이슈와 해결 방안들을 소개했다.\n데이터를 저장하는 용도의 낸드플래시는 과거에는 평면상에서 칩을 작게 구현하는 2차원 구조였다.\n그러나 한정된 공간에 수많은 데이터를 담아야 해 기존 2차원 구조로는 한계가 있었다.\n이에 등장한 것이 3차원 개념이다.\n수직으로 쌓아 올린 공간에 구멍을 내 각 층을 연결하는 3D 낸드가 개발됐다.\n24단부터 시작된 3차원 낸드는 현재 170단을 넘어 200단을 향하고 있다.\n그런데 단수가 높을수록 제조 과정 중에 문제가 생긴다.\n스택(실리콘 산화막·실리콘 질화막)을 쌓을수록 웨이퍼가 휘어지는 이슈(Wafer Wapage)가 발생하는 것이다.\n웨이퍼가 틀어지면 제대로 스택을 쌓기 힘들고 웨이퍼를 핸들링하기 어려워지는 등 제조 공정에 문제가 생길 수 있다.\n궁극적으로 낸드플래시 수율과 품질을 담보할 수 없게 된다.\n예를 들어 아파트를 지을 때 고층 아파트라고 해도 건물이 휘어져 있으면 불안해지고 언제 어떤 사고가 발생할지 모르는 것과 같은 셈이다.\n황 상무는 “120단까지는 웨이퍼의 뒤틀림 이슈가 크지 않았는데, 170단 이상 '하이(High) 스택'으로 3D 낸드가 진화하면서 웨이퍼가 휘어지거나 구부러지는 웨이퍼 와피지 현상이 심화하고 있다”고 설명했다.\n램리서치는 이를 해결하기 위해 '벡터(VECTOR)'라는 기술을 개발해 대응하고 있다고 설명했다.\n벡터 개념을 요약하면 웨이퍼 후면에도 실리콘 산화막이나 실리콘 질화막을 증착해 웨이퍼 와피지 현상을 최소화하는 것이다.\n황성진 상무는 구체적인 회사와 제품에 대해서는 공개하지 않았지만 반도체 소자 업체가 벡터 기술을 이용해 3D 낸드플래시를 실제 양산하고 있다고 소개했다.\n황 상무는 또 낸드플래시는 앞으로 200단 이상 지속적으로 고적층 기술 발전이 예상돼 웨이퍼 뒤틀림 이슈를 해소하고 효과적으로 대처하는 기술 개발이 뒷받침돼야 할 것이라고 강조했다.\n램리서치는 ASML, 어플라이드 머티어리얼즈, 도쿄일렉트론(TEL)과 함께 세계 4대 반도체 장비사로 꼽히는 기업이다.\n국내 반도체 소자 업체들과 협력을 위해 한국에 연구개발(R&D)센터를 건립하기로 했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "황성진 램리서치 상무는 '3D 낸드플래시 제조기술'을 주제로 낸드플래시의 스택(단수) 증가에 따른 제조 이슈와 해결 방안들을 소개했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "데이터를 저장하는 용도의 낸드플래시는 과거에는 평면상에서 칩을 작게 구현하는 2차원 구조였다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러나 한정된 공간에 수많은 데이터를 담아야 해 기존 2차원 구조로는 한계가 있었다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 등장한 것이 3차원 개념이다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "수직으로 쌓아 올린 공간에 구멍을 내 각 층을 연결하는 3D 낸드가 개발됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "24단부터 시작된 3차원 낸드는 현재 170단을 넘어 200단을 향하고 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "그런데 단수가 높을수록 제조 과정 중에 문제가 생긴다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "스택(실리콘 산화막·실리콘 질화막)을 쌓을수록 웨이퍼가 휘어지는 이슈(Wafer Wapage)가 발생하는 것이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "웨이퍼가 틀어지면 제대로 스택을 쌓기 힘들고 웨이퍼를 핸들링하기 어려워지는 등 제조 공정에 문제가 생길 수 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "궁극적으로 낸드플래시 수율과 품질을 담보할 수 없게 된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "예를 들어 아파트를 지을 때 고층 아파트라고 해도 건물이 휘어져 있으면 불안해지고 언제 어떤 사고가 발생할지 모르는 것과 같은 셈이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "황 상무는 “120단까지는 웨이퍼의 뒤틀림 이슈가 크지 않았는데, 170단 이상 '하이(High) 스택'으로 3D 낸드가 진화하면서 웨이퍼가 휘어지거나 구부러지는 웨이퍼 와피지 현상이 심화하고 있다”고 설명했다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "램리서치는 이를 해결하기 위해 '벡터(VECTOR)'라는 기술을 개발해 대응하고 있다고 설명했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "벡터 개념을 요약하면 웨이퍼 후면에도 실리콘 산화막이나 실리콘 질화막을 증착해 웨이퍼 와피지 현상을 최소화하는 것이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "황성진 상무는 구체적인 회사와 제품에 대해서는 공개하지 않았지만 반도체 소자 업체가 벡터 기술을 이용해 3D 낸드플래시를 실제 양산하고 있다고 소개했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "황 상무는 또 낸드플래시는 앞으로 200단 이상 지속적으로 고적층 기술 발전이 예상돼 웨이퍼 뒤틀림 이슈를 해소하고 효과적으로 대처하는 기술 개발이 뒷받침돼야 할 것이라고 강조했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "램리서치는 ASML, 어플라이드 머티어리얼즈, 도쿄일렉트론(TEL)과 함께 세계 4대 반도체 장비사로 꼽히는 기업이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "국내 반도체 소자 업체들과 협력을 위해 한국에 연구개발(R&D)센터를 건립하기로 했다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[글로벌테크코리아 2021]램리서치 \\\"200단 이상 낸드 제조, 웨이퍼 뒤틀림 대응 필요\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

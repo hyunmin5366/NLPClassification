@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015474",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "ETRI 국제표준 기반 인증장치 시험 성공",
+		"newsSubTitle": "美국제 상호연동시험 통과… 사용자 인증수단 선택 폭 넓어져",
+		"newsContent": "ETRI(한국전자통신연구원)는 미국 팔로알토에서 열린 국제 상호연동 시험에서 스마트카드, 스마트워치 인증장치와 아이폰용 FIDO 인증기술 등 3종 기술이 인증시험을 통과했다고 25일 밝혔다.\nFIDO(Fast Identity Online)는 지문, 홍채, 안면인식 등 생체인증을 접목한 사용자 인증 방식이다.\n시험에 통과한 이번 기술은 스마트 카드를 스마트폰에 터치하는 방식, 스마트폰과 연결된 스마트워치를 터치하는 방식, 아이폰에 손가락으로 지문 인식하는 방식이다.\nETRI는 작년 5월 인증받은 FIDO 서버기술을 올해는 상호 연동 플랫폼으로 지원해 기술의 우수성을 인정받은 것이다.\nETRI의 FIDO 기술은 BC카드와 공동 개발한 오프라인 간편 결제 기술 ZEP (Zero Effort Payment)에 처음 적용됐으며 2014년 FIDO 협회를 통해 전 세계에 소개됐다.\n김수형 ETRI 사이버보안기반연구부 인증기술연구실장은 “간단하게 사용자가 선택할 수 있는 인증 수단이 넓어진 것”이라며 “앞으로도 다양한 인증수단을 지속적으로 개발할 예정”이라고 전했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "ETRI(한국전자통신연구원)는 미국 팔로알토에서 열린 국제 상호연동 시험에서 스마트카드, 스마트워치 인증장치와 아이폰용 FIDO 인증기술 등 3종 기술이 인증시험을 통과했다고 25일 밝혔다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "FIDO(Fast Identity Online)는 지문, 홍채, 안면인식 등 생체인증을 접목한 사용자 인증 방식이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시험에 통과한 이번 기술은 스마트 카드를 스마트폰에 터치하는 방식, 스마트폰과 연결된 스마트워치를 터치하는 방식, 아이폰에 손가락으로 지문 인식하는 방식이다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "ETRI는 작년 5월 인증받은 FIDO 서버기술을 올해는 상호 연동 플랫폼으로 지원해 기술의 우수성을 인정받은 것이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ETRI의 FIDO 기술은 BC카드와 공동 개발한 오프라인 간편 결제 기술 ZEP (Zero Effort Payment)에 처음 적용됐으며 2014년 FIDO 협회를 통해 전 세계에 소개됐다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "김수형 ETRI 사이버보안기반연구부 인증기술연구실장은 “간단하게 사용자가 선택할 수 있는 인증 수단이 넓어진 것”이라며 “앞으로도 다양한 인증수단을 지속적으로 개발할 예정”이라고 전했다.",
+				"sentenceSize": 104
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국비 없이는 대전-대덕특구 상생도 '헛구호'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

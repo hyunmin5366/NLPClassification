@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008934",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피지수 나흘만에 반등",
+		"newsSubTitle": "",
+		"newsContent": "코스피지수가 65포인트 이상 상승하며 나흘 만에 반등했다.\n23일 코스피지수는 전날(1710.70)보다 65.98포인트(3.86%) 오른 1776.68로 장을 마쳤다.\n이틀째 매수에 나선 기관은 이날 4318억원의 주식을 사며 상승을 주도했다.\n외국인은 707억원을 팔며 닷새째 매도를 이어갔다.\n개인도 이틀 연속 매도하며 2135억원을 팔았다.\n프로그램매매는 1500억원으로 사흘 만에 순매도했다.\n코스닥지수는 전 거래일(465.90)보다 13.85포인트(2.97%) 오른 479.75로 사흘 만에 상승 마감했다.\n원ㆍ달러 환율은 전 거래일(1083.80)보다 5.80원 떨어진 1078.00원으로 장을 마쳤다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피지수가 65포인트 이상 상승하며 나흘 만에 반등했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "23일 코스피지수는 전날(1710.70)보다 65.98포인트(3.86%) 오른 1776.68로 장을 마쳤다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이틀째 매수에 나선 기관은 이날 4318억원의 주식을 사며 상승을 주도했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "외국인은 707억원을 팔며 닷새째 매도를 이어갔다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개인도 이틀 연속 매도하며 2135억원을 팔았다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "프로그램매매는 1500억원으로 사흘 만에 순매도했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "코스닥지수는 전 거래일(465.90)보다 13.85포인트(2.97%) 오른 479.75로 사흘 만에 상승 마감했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "원ㆍ달러 환율은 전 거래일(1083.80)보다 5.80원 떨어진 1078.00원으로 장을 마쳤다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "매장용빌딩 투자수익 충남 '최고'",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

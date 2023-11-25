@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332861",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "큐샌, RAID EE 기술 워크숍 개최",
+		"newsSubTitle": "",
+		"newsContent": "대만 엔터프라이즈 스토리지 제조사 큐샌(QSAN)이 최근 한국을 포함한 아시아·태평양 지역 수입사를 위한 온라인 워크숍을 개최했다.\n이번 워크숍에서는 큐샌 엑스큐브샌(XCubeSAN)과 올플래시어레이(AFA)에서 사용 가능한 RAID EE 기술을 소개했다.\nRAID 기술은 독립된 디스크를 여러 개로 통합하는 기술이다.\n최근 하드디스크 용량 증가와 함께 데이터 리빌딩을 하기 위해 RAID에 요구하는 시간이 늘어나면서 엔터프라이즈 스토리지 관리에 어려움을 겪고 있다.\n이 같은 문제를 해결하기 위해 스토리지 제조사는 RAID 2.0기술을 도입하고 있다.\nRAID 2.0은 디스크가 오류 날 경우 전체 리빌딩 시간을 줄여준다.\n큐샌은 이 기술을 RAID EE 기술로 이름짓고 엑스큐브샌과 올플래시어레이에 적용했다.\n큐샌 RAID EE 아키텍처에서는 모든 하드드라이브에 퍼져있는 빈 블록을 핫스페어 공간으로 제공, 하드드라이브가 오류를 일으키거나 리빌딩이 필요하면 동일한 RAID 그룹에 있는 연관된 모든 하드디스크가 리빌딩 작업에 참여한다.\n또 읽기 로드가 모든 하드디스크에 분배되므로 리빌딩 속도가 기존 RAID 아키텍처보다 10배 빠르다.\n국내 큐샌 공식 수입사 위드앤아이티는 온라인 워크숍은 RAID EE 기술의 실제 테스트 결과까지 공유해 유익한 시간이 됐다고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대만 엔터프라이즈 스토리지 제조사 큐샌(QSAN)이 최근 한국을 포함한 아시아·태평양 지역 수입사를 위한 온라인 워크숍을 개최했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 워크숍에서는 큐샌 엑스큐브샌(XCubeSAN)과 올플래시어레이(AFA)에서 사용 가능한 RAID EE 기술을 소개했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "RAID 기술은 독립된 디스크를 여러 개로 통합하는 기술이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "최근 하드디스크 용량 증가와 함께 데이터 리빌딩을 하기 위해 RAID에 요구하는 시간이 늘어나면서 엔터프라이즈 스토리지 관리에 어려움을 겪고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 같은 문제를 해결하기 위해 스토리지 제조사는 RAID 2.0기술을 도입하고 있다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "RAID 2.0은 디스크가 오류 날 경우 전체 리빌딩 시간을 줄여준다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "큐샌은 이 기술을 RAID EE 기술로 이름짓고 엑스큐브샌과 올플래시어레이에 적용했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "큐샌 RAID EE 아키텍처에서는 모든 하드드라이브에 퍼져있는 빈 블록을 핫스페어 공간으로 제공, 하드드라이브가 오류를 일으키거나 리빌딩이 필요하면 동일한 RAID 그룹에 있는 연관된 모든 하드디스크가 리빌딩 작업에 참여한다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 읽기 로드가 모든 하드디스크에 분배되므로 리빌딩 속도가 기존 RAID 아키텍처보다 10배 빠르다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "국내 큐샌 공식 수입사 위드앤아이티는 온라인 워크숍은 RAID EE 기술의 실제 테스트 결과까지 공유해 유익한 시간이 됐다고 밝혔다.",
+				"sentenceSize": 74
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "큐샌, RAID EE 기술 워크숍 개최",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

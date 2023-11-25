@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012850",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "코스피 1980선 탈환",
+		"newsSubTitle": "코스닥도 ↑… 외국인·기관 매수 효과",
+		"newsContent": "코스피가 나흘째 반등에 성공하며 1980선을 탈환했다.\n13일 코스피지수는 전거래일 대비 17.9포인트(0.92%)오른 1982.93에 거래를 마감했다.\n이날 코스피는 대내외 호재 소식에 외국인 매수세를 자극했다.\n투자주체별로는 외국인과 기관이 각각 2154억원, 1251억원 매수했으며, 개인이 홀로 3481억원 매도했다.\n코스닥 지수는 전거래일보다 5.76포인트(1.04%) 상승한 557.16에 장을 마쳤다.\n주체별로는 외국인과 기관이 각각 245억원, 175억원 매수했고, 개인이 344억원 순매도를 기록했다.\n한편, 서울 외환시장에서의 원·달러 환율은 전거래일 대비 2.25원 내린 1022.10원에 마감했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피가 나흘째 반등에 성공하며 1980선을 탈환했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 코스피지수는 전거래일 대비 17.9포인트(0.92%)오른 1982.93에 거래를 마감했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이날 코스피는 대내외 호재 소식에 외국인 매수세를 자극했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "투자주체별로는 외국인과 기관이 각각 2154억원, 1251억원 매수했으며, 개인이 홀로 3481억원 매도했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코스닥 지수는 전거래일보다 5.76포인트(1.04%) 상승한 557.16에 장을 마쳤다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "주체별로는 외국인과 기관이 각각 245억원, 175억원 매수했고, 개인이 344억원 순매도를 기록했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 서울 외환시장에서의 원·달러 환율은 전거래일 대비 2.25원 내린 1022.10원에 마감했다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "HDC현산, 여름 현장 안전관리 강화",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

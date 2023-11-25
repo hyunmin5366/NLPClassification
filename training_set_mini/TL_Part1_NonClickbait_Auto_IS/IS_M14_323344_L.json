@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323344",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "안랩, 워너크라이 사전 예방 툴 무료 제공",
+		"newsSubTitle": "",
+		"newsContent": "안랩(대표 권치중)은 16일 워너크라이 랜섬웨어 피해를 예방하는 '안랩 워너크립터 사전 예방 툴'을 무료로 제공한다.\n사전 예방 툴은 워너크라이 랜섬웨어가 악용하는 보안 취약점(MS17-010)이 PC나 서버 등 시스템에 존재하는지 확인한다.\n악용되는 프로토콜을 비활성화해 워너크라이 감염을 예방하는 프로그램이다.\nV3 사용 고객이 아니더라도 누구든 쓸 수 있다.\n사용자는 추후 변종 등에 대비하기 위해 해당 예방 툴로 예방조치를 취한 후에 V3 등 백신 최신 엔진 업데이트와 실시간 검사를 활성화하고 윈도 최신 보안 패치를 적용한다.\n안랩은 현재 개인 사용자를 위해 '개인용 V3 제품군', 기업 고객을 위해 '기업용 V3제품군', 'MDS 제품군', 'TrusLine/EPS', 트러스가드 제품, 트러스가드 IPX(TrusGuard IPX) 제품, 보안관제 서비스 등에서 워너크라이 랜섬웨어를 대응한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "안랩(대표 권치중)은 16일 워너크라이 랜섬웨어 피해를 예방하는 '안랩 워너크립터 사전 예방 툴'을 무료로 제공한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사전 예방 툴은 워너크라이 랜섬웨어가 악용하는 보안 취약점(MS17-010)이 PC나 서버 등 시스템에 존재하는지 확인한다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "악용되는 프로토콜을 비활성화해 워너크라이 감염을 예방하는 프로그램이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "V3 사용 고객이 아니더라도 누구든 쓸 수 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "사용자는 추후 변종 등에 대비하기 위해 해당 예방 툴로 예방조치를 취한 후에 V3 등 백신 최신 엔진 업데이트와 실시간 검사를 활성화하고 윈도 최신 보안 패치를 적용한다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "안랩은 현재 개인 사용자를 위해 '개인용 V3 제품군', 기업 고객을 위해 '기업용 V3제품군', 'MDS 제품군', 'TrusLine/EPS', 트러스가드 제품, 트러스가드 IPX(TrusGuard IPX) 제품, 보안관제 서비스 등에서 워너크라이 랜섬웨어를 대응한다.",
+				"sentenceSize": 151
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "안랩, 워너크라이 사전 예방 툴 무료 제공",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

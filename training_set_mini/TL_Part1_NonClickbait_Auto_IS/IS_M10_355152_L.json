@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_355152",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "'GPU 선도기업' 엔비디아와 '해커톤' 펼친 이 연구소",
+		"newsSubTitle": "null",
+		"newsContent": "한국과학기술정보연구원(KISTI)은 글로벌 기업 엔비디아(NVIDIA)와 닷새간 온라인으로 'GPU(그래픽처리장치) 해커톤'을 진행했다고 28일 밝혔다.\n해커톤이란 팀을 이뤄 마라톤을 하듯 긴 시간 동안 시제품을 완성하는 행사다.\n올해로 3회째 개최되는 GPU 해커톤은 기관 간 협력 연구 목적으로 개최됐다.\n이번 행사에는 총 7개팀 27명이 참가했다.\n참가자들은 KISTI 슈퍼컴퓨터의 GPU 기반 시스템 뉴론(NEURON)을 활용해 인공지능(AI) 또는 고성능컴퓨팅(HPC) 분야의 코드 최적화, 성능 가속화 등의 연구 프로젝트를 수행했다.\n해커톤에 참가한 7개 팀은 KISTI, 엔비디아의 전문가 28명과 함께 프로그래밍 모델과 AI 머신러닝 등을 설계해 여러 문제를 풀었다.\n특히 서울대 의대팀은 참가 전과 비교해 메모리 용량을 절반 이상 줄이고 7배 빠른 학습 속도를 구현하는 데 성공했다.\n안부영 KISTI 과학데이터교육센터장은 \\\"GPU 병렬 컴퓨팅 기술을 활용해 연구 프로젝트 성과가 향상되고 연구자들 간 협력이 활성화될 수 있도록 노력하겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국과학기술정보연구원(KISTI)은 글로벌 기업 엔비디아(NVIDIA)와 닷새간 온라인으로 'GPU(그래픽처리장치) 해커톤'을 진행했다고 28일 밝혔다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "해커톤이란 팀을 이뤄 마라톤을 하듯 긴 시간 동안 시제품을 완성하는 행사다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "올해로 3회째 개최되는 GPU 해커톤은 기관 간 협력 연구 목적으로 개최됐다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 행사에는 총 7개팀 27명이 참가했다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "참가자들은 KISTI 슈퍼컴퓨터의 GPU 기반 시스템 뉴론(NEURON)을 활용해 인공지능(AI) 또는 고성능컴퓨팅(HPC) 분야의 코드 최적화, 성능 가속화 등의 연구 프로젝트를 수행했다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "해커톤에 참가한 7개 팀은 KISTI, 엔비디아의 전문가 28명과 함께 프로그래밍 모델과 AI 머신러닝 등을 설계해 여러 문제를 풀었다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 서울대 의대팀은 참가 전과 비교해 메모리 용량을 절반 이상 줄이고 7배 빠른 학습 속도를 구현하는 데 성공했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "안부영 KISTI 과학데이터교육센터장은 \\\"GPU 병렬 컴퓨팅 기술을 활용해 연구 프로젝트 성과가 향상되고 연구자들 간 협력이 활성화될 수 있도록 노력하겠다\\\"고 밝혔다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'GPU 선도기업' 엔비디아와 '해커톤' 펼친 이 연구소",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

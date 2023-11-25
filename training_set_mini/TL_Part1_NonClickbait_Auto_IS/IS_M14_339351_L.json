@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339351",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "요기요 또 접속 장애…이번엔 '쿠폰 채굴' 탓?",
+		"newsSubTitle": "",
+		"newsContent": "요기요가 28일 오후 또 다시 고객들 원성을 샀다.\n장시간 서비스 이용 장애로 고객 불만이 쏟아졌다.\n초복과 중복에 발생한 사태는 대형 할인 이벤트로 갑작스레 이용자가 몰린 것이 원인으로 추정됐다.\n이번엔 특별한 이벤트가 없어 할인 쿠폰 관련한 매크로 공격 가능성이 제기된다.\n30일 업계에 따르면 배달 애플리케이션(앱) 요기요는 28일 오후 5시경부터 10시 이후까지 서비스 접속 장애를 겪었다.\n요기요 측은 “정확한 원인은 아직 파악 중”이라고 밝혔다.\n공교롭게 요기요 서버가 다운된 시각 일부 요기요 이용자들이 동시에 '쿠폰 채굴'을 감행했다.\n쿠폰 채굴은 이벤트로 지급되는 쿠폰 코드 생성 패턴을 파악하는 방식으로 쿠폰을 취득하는 것을 의미한다.\n요기요는 6월부터 모 제약회사와 공동 이벤트를 진행 중이다.\n제약회사 음료 제품 뚜껑 내부에 표시된 5자리 코드를 입력하면 무작위로 500원~3만원 상당의 쿠폰을 준다.\n문제는 쿠폰코드에 사용된 난수가 단순해 일정 규칙만 지키면 쿠폰이 발급된다는 사실을 이용자들이 발견했다.\n이벤트 개시 직후 1차 쿠폰 채굴 소동이 발생했다.\n이미 시중에 이벤트 코드가 인쇄된 음료가 유통 중이었기 때문에 요기요는 난수 규칙을 바꾸지 못했다.\n대신 일정 횟수 이상 코드 오입력이 발생할 때 마다 1시간 동안 입력을 막는 조치를 취했다.\n요기요 측은 쿠폰 채굴과 서버 다운이 관련성이 없다는 입장이다.\n요기요 관계자는 “확답하긴 어렵다. 다만 매크로를 통한 채굴은 과거에도 있었지만 서버 다운으로 연결되지는 않았다”며 “일부 이용자의 과시성 허위 주장글도 있을 수 있다. 6월에는 존재하지 않는 5만원 쿠폰을 채굴했다는 글도 있었다”고 설명했다.\n요기요 측은 “현재는 해당 문제가 (장애)원인이라고 보고 있지 않아 논의가 아직 없는 상태다. 내부에서 기술적으로 원인을 파악한 후 판단 내려야 할 문제”라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "요기요가 28일 오후 또 다시 고객들 원성을 샀다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "장시간 서비스 이용 장애로 고객 불만이 쏟아졌다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "초복과 중복에 발생한 사태는 대형 할인 이벤트로 갑작스레 이용자가 몰린 것이 원인으로 추정됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번엔 특별한 이벤트가 없어 할인 쿠폰 관련한 매크로 공격 가능성이 제기된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "30일 업계에 따르면 배달 애플리케이션(앱) 요기요는 28일 오후 5시경부터 10시 이후까지 서비스 접속 장애를 겪었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "요기요 측은 “정확한 원인은 아직 파악 중”이라고 밝혔다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공교롭게 요기요 서버가 다운된 시각 일부 요기요 이용자들이 동시에 '쿠폰 채굴'을 감행했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "쿠폰 채굴은 이벤트로 지급되는 쿠폰 코드 생성 패턴을 파악하는 방식으로 쿠폰을 취득하는 것을 의미한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "요기요는 6월부터 모 제약회사와 공동 이벤트를 진행 중이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "제약회사 음료 제품 뚜껑 내부에 표시된 5자리 코드를 입력하면 무작위로 500원~3만원 상당의 쿠폰을 준다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "문제는 쿠폰코드에 사용된 난수가 단순해 일정 규칙만 지키면 쿠폰이 발급된다는 사실을 이용자들이 발견했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이벤트 개시 직후 1차 쿠폰 채굴 소동이 발생했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이미 시중에 이벤트 코드가 인쇄된 음료가 유통 중이었기 때문에 요기요는 난수 규칙을 바꾸지 못했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "대신 일정 횟수 이상 코드 오입력이 발생할 때 마다 1시간 동안 입력을 막는 조치를 취했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "요기요 측은 쿠폰 채굴과 서버 다운이 관련성이 없다는 입장이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "요기요 관계자는 “확답하긴 어렵다. 다만 매크로를 통한 채굴은 과거에도 있었지만 서버 다운으로 연결되지는 않았다”며 “일부 이용자의 과시성 허위 주장글도 있을 수 있다. 6월에는 존재하지 않는 5만원 쿠폰을 채굴했다는 글도 있었다”고 설명했다.",
+				"sentenceSize": 136
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "요기요 측은 “현재는 해당 문제가 (장애)원인이라고 보고 있지 않아 논의가 아직 없는 상태다. 내부에서 기술적으로 원인을 파악한 후 판단 내려야 할 문제”라고 말했다.",
+				"sentenceSize": 93
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "요기요 또 접속 장애…이번엔 '쿠폰 채굴' 탓?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

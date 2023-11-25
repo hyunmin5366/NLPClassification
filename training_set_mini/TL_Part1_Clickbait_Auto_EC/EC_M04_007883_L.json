@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007883",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "이동물체 위치도 '한눈에'",
+		"newsSubTitle": "ETRI 능동형 추적 기술 개발",
+		"newsContent": "한국전자통신연구원(ETRI)은 실외환경 사물의 위치추적 기술인 '능동형 전자태그(RFID) 기반 위치추적 기술(RTLS)'을 국내 기술로 개발했다고 20일 밝혔다.\n이번에 개발한 기술의 개선된 기술적인 특징은 전송 프레임 구조를 최적화해 600m 이상의 인식거리와 2m 이내의 오차로 인식거리 및 정확도를 개선하고, 태그의 전력 소비를 기존 기술의 60% 수준으로 줄였다.\n또 센서와 위성항법장치(GPS) 연동 기능을 지원해 특정한 지역에서 이동하는 차량이나 물체의 위치정보 및 상태정보를 제공한다.\n이에 따라 다양한 산업체 현장에서 사물의 위치추적이 가능하다.\n또 위험지역이나 구제역 발생 방제지역의 차량위치 파악 및 추적 등에도 활용할 수 있다.\n이번에 개발된 기술은 ETRI에서 RFID 국제표준기구인 ISO·IEC SC31에 국제표준 기술로 제안해 국제표준절차가 진행 중이다.\n또 내년 말에 국제표준으로 공표될 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 실외환경 사물의 위치추적 기술인 '능동형 전자태그(RFID) 기반 위치추적 기술(RTLS)'을 국내 기술로 개발했다고 20일 밝혔다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번에 개발한 기술의 개선된 기술적인 특징은 전송 프레임 구조를 최적화해 600m 이상의 인식거리와 2m 이내의 오차로 인식거리 및 정확도를 개선하고, 태그의 전력 소비를 기존 기술의 60% 수준으로 줄였다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 센서와 위성항법장치(GPS) 연동 기능을 지원해 특정한 지역에서 이동하는 차량이나 물체의 위치정보 및 상태정보를 제공한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이에 따라 다양한 산업체 현장에서 사물의 위치추적이 가능하다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 위험지역이나 구제역 발생 방제지역의 차량위치 파악 및 추적 등에도 활용할 수 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번에 개발된 기술은 ETRI에서 RFID 국제표준기구인 ISO·IEC SC31에 국제표준 기술로 제안해 국제표준절차가 진행 중이다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 내년 말에 국제표준으로 공표될 예정이다.",
+				"sentenceSize": 24
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "백화점 중소업체 판매수수료 낮춘다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

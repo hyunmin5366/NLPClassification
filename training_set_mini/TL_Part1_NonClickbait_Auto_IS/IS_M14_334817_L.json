@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334817",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "선관위 허위사실 제보 사이트 서버, 1년간 해외서 관리...제보 조작 확인 어려워",
+		"newsSubTitle": "",
+		"newsContent": "중앙선거관리위원회가 공정선거를 위해 허위정보 제보 사이트를 만들었지만, 서버가 해외에 있어 제보 내용 진위 확인이 사실상 불가능했다.\n서버는 제보 사이트가 만들어진 지난해 3월부터 최근까지 해외 아마존웹서비스(AWS) 데이터센터에 있었다.\n최근 한 시민이 선관위에 문제제기를 하자 서버를 급히 국내로 옮겼다.\n15일 관련업계에 따르면 선관위는 최근 '아름다운 선거 지킴이' 홈페이지 접속 관리 서버를 이달 8일 해외에서 국내로 옮겼다.\n아름다운 선거 지킴이 홈페이지는 지난해 3월 대선을 앞두고 공정 선거를 위해 허위정보를 제보 받기 위해 처음 만들어졌다.\n지금은 '6·13 지방선거' 제보 채널을 담당한다.\n해당 홈페이지는 최근까지도 해외 위치한 외주기업 소유 도메인과 관리 서버를 이용했다.\n전문가는 민간업체가 선거 관련 홈페이지를 관리했고 해외 서버를 이용했다는 것 자체가 문제라고 지적했다.\n민간 사용자가 도메인 정보와 가상주소(ip mapping)를 변경하면 위조 사이트에 개인정보를 입력하고 신고하는 문제가 발생한다.\n정보를 직접 관리하지 않아 허위 제보에 대한 진위여부 확인도 어렵다.\n보안업계 관계자는 “편의성 때문에 국가기관이 제대로 확인 없이 선거관련 홈페이지 관리를 맡긴 것은 문제”라면서 “해외 클라우드를 이용한 접속 서버 관리는 제보 내용 등을 조작하는 등 악용할 경우 이를 입증하는 과정에서 문제가 발생한다”고 말했다.\n다른 업계전문가는 “국가기관에서 운영하는 웹 서비스는 관리 주체가 국가가 돼야 관리와 보안 측면에서 효과적”이라면서 “클라우드 서버 이용 시 발생하는 제약사항을 확인해야 한다”고 덧붙였다.\n선관위는 업체 선정뿐 아니라 1년이 넘도록 해외서버 관리 사실을 알지 못했다.\n최근 선거 관련 홈페이지 서버를 해외 두는 것은 문제가 있다는 시민의 제보를 통해 알게 됐다.\n선관위 관계자는 “갑작스러운 대선 일정으로 업체를 급히 선정해 서버 관리는 확인하지 못했다”면서 “닷컴으로 등록하는 것이 빠르고 시민접근성도 높다고 생각했다”고 말했다.\n최근 아름다운 선거 지킴이 사이트 주소는 기존 'nec1390.com'에서 'nec1390.go.kr'로 변경했다.\n선관위 관계자는 “초기 업체선정 과정에서 꼼꼼하게 확인하지 못한 점은 인정하지만 큰 문제는 없다”면서 “데이터베이스(DB)관리 서버는 국내에 있고 법 위반도 아니다”라고 해명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "중앙선거관리위원회가 공정선거를 위해 허위정보 제보 사이트를 만들었지만, 서버가 해외에 있어 제보 내용 진위 확인이 사실상 불가능했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "서버는 제보 사이트가 만들어진 지난해 3월부터 최근까지 해외 아마존웹서비스(AWS) 데이터센터에 있었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "최근 한 시민이 선관위에 문제제기를 하자 서버를 급히 국내로 옮겼다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "15일 관련업계에 따르면 선관위는 최근 '아름다운 선거 지킴이' 홈페이지 접속 관리 서버를 이달 8일 해외에서 국내로 옮겼다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아름다운 선거 지킴이 홈페이지는 지난해 3월 대선을 앞두고 공정 선거를 위해 허위정보를 제보 받기 위해 처음 만들어졌다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지금은 '6·13 지방선거' 제보 채널을 담당한다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해당 홈페이지는 최근까지도 해외 위치한 외주기업 소유 도메인과 관리 서버를 이용했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "전문가는 민간업체가 선거 관련 홈페이지를 관리했고 해외 서버를 이용했다는 것 자체가 문제라고 지적했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "민간 사용자가 도메인 정보와 가상주소(ip mapping)를 변경하면 위조 사이트에 개인정보를 입력하고 신고하는 문제가 발생한다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "정보를 직접 관리하지 않아 허위 제보에 대한 진위여부 확인도 어렵다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "보안업계 관계자는 “편의성 때문에 국가기관이 제대로 확인 없이 선거관련 홈페이지 관리를 맡긴 것은 문제”라면서 “해외 클라우드를 이용한 접속 서버 관리는 제보 내용 등을 조작하는 등 악용할 경우 이를 입증하는 과정에서 문제가 발생한다”고 말했다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "다른 업계전문가는 “국가기관에서 운영하는 웹 서비스는 관리 주체가 국가가 돼야 관리와 보안 측면에서 효과적”이라면서 “클라우드 서버 이용 시 발생하는 제약사항을 확인해야 한다”고 덧붙였다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "선관위는 업체 선정뿐 아니라 1년이 넘도록 해외서버 관리 사실을 알지 못했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "최근 선거 관련 홈페이지 서버를 해외 두는 것은 문제가 있다는 시민의 제보를 통해 알게 됐다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "선관위 관계자는 “갑작스러운 대선 일정으로 업체를 급히 선정해 서버 관리는 확인하지 못했다”면서 “닷컴으로 등록하는 것이 빠르고 시민접근성도 높다고 생각했다”고 말했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "최근 아름다운 선거 지킴이 사이트 주소는 기존 'nec1390.com'에서 'nec1390.go.kr'로 변경했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "선관위 관계자는 “초기 업체선정 과정에서 꼼꼼하게 확인하지 못한 점은 인정하지만 큰 문제는 없다”면서 “데이터베이스(DB)관리 서버는 국내에 있고 법 위반도 아니다”라고 해명했다.",
+				"sentenceSize": 100
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "선관위 허위사실 제보 사이트 서버, 1년간 해외서 관리...제보 조작 확인 어려워",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

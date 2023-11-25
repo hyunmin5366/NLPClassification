@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013145",
+		"newsCategory": "경제",
+		"newsSubcategory": "지역경제",
+		"newsTitle": "주인 몰래쓴 카드, 3년전보다 1.8배 증가",
+		"newsSubTitle": "부정사용 5만6000건 집계",
+		"newsContent": "지난 1년간 카드 부정사용이 3년전보다 1.8배로 늘어났다.\n18일 한국은행이 최근 10년간 카드 이용추세 및 문제점 등을 분석한 '최근 지급카드 이용현황 및 주요과제' 보고서에 따르면 2012년 제3자에 의해 부당하게 사용된 카드 부정사용 건수는(금융감독원 집계 기준)는 5만6000건으로 2010년의 1.8배, 부정사용액도 291억원으로 1.7배로 증가했다.\n부정사용 건수를 유형별로 살펴보면 카드위변조가 2만1000건으로 2010년보다 96% 증가했다.\n또한 카드 정보도용도 2000건으로 276%로 늘었다.\n가장 많이 발생하는 도난·분실도 3만건으로 68% 증가했다.\n보고서는 “카드결제가 확산되는 가운데 보안문제, 수수료 합리화 등이 앞으로 극복해야 할 과제로 부상했다”고 지적했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 1년간 카드 부정사용이 3년전보다 1.8배로 늘어났다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "18일 한국은행이 최근 10년간 카드 이용추세 및 문제점 등을 분석한 '최근 지급카드 이용현황 및 주요과제' 보고서에 따르면 2012년 제3자에 의해 부당하게 사용된 카드 부정사용 건수는(금융감독원 집계 기준)는 5만6000건으로 2010년의 1.8배, 부정사용액도 291억원으로 1.7배로 증가했다.",
+				"sentenceSize": 168
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "부정사용 건수를 유형별로 살펴보면 카드위변조가 2만1000건으로 2010년보다 96% 증가했다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 카드 정보도용도 2000건으로 276%로 늘었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "가장 많이 발생하는 도난·분실도 3만건으로 68% 증가했다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보고서는 “카드결제가 확산되는 가운데 보안문제, 수수료 합리화 등이 앞으로 극복해야 할 과제로 부상했다”고 지적했다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "화학硏 파격 인센티브 오늘 쏜다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

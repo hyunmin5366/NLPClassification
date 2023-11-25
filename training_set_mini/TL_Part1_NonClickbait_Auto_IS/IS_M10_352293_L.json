@@ -1,0 +1,294 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352293",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "날아가던 로켓이 불뿜으며 도로 착륙...이런 장면 구현할 '엔진' 개발",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 9t급 액체엔진을 재점화하는 데 성공했다.\n재활용 로켓을 구현하려면 하늘로 날아오른 로켓이 착륙할 때 꺼졌던 엔진을 재점화하는 기술이 필수적이다.\n연구진이 국산 엔진 기술을 확보함에 따라 재활용 로켓 개발의 첫걸음을 뗐다는 평가가 나온다.\n24일 한국항공우주연구원에 따르면 9t급 액체엔진이 1차례 연소하고 370초간 꺼진 뒤 재점화에 성공했다.\n국내에서 엔진 재점화 기술을 구현한 건 이번이 처음이다.\n이 기술을 향후 고도화하면 로켓 재착륙뿐만 아니라 엔진을 재점화해 우주 500km, 700km 등 다른 궤도에도 위성을 투입할 수 있다.\n━9t급 액체엔진 '재점화·추력조절' 시험 성공━ 재활용 로켓을 만들려면 엔진, 공력, 구조, 시스템 등 기술이 결합해야 한다.\n이번 시험 성공은 엔진 부분에 국한된다.\n엔진은 재점화와 추력(推力) 조절 기술이 핵심이다.\n항우연은 최근 9t급 액체엔진에서 추력 조절 시험까지 성공했다.\n추력은 로켓이 연료를 연소해 얻는 힘을 일컫는다.\n엔진을 재점화하고 방향을 전환하거나 착륙 속도를 줄이려면 힘 조절이 이뤄져야 한다.\n한영민 항우연 발사체엔진개발부장은 \\\"최근 9t급 액체엔진에선 3.8t(42% 수준)까지 추력을 조절하는 데 성공했다\\\"며 \\\"미 스페이스X 로켓 팰컨9 엔진도 40% 수준까지 추력을 조절하기 때문에 우리도 시험 단계이지만 사실상 기술을 구현한 것\\\"이라고 설명했다.\n스페이스X 로켓 팰컨9은 멀린 엔진 9기를 사용하는 로켓이다.\n1단부 멀린 엔진 1기 진공추력은 96t급이고, 2단 엔진은 진공추력 98t 수준이다.\n이 엔진은 처음 출발할 땐 100% 출력을 내지만, 착륙하거나 방향을 조절할 땐 추력을 조절한다.\n━ 75t급 엔진 개발했는데...\n그동안 엔진 재점화 못 했나━ 항우연은 2010년부터 현재까지 한국형발사체 누리호(KSLV-II)를 개발해왔다.\n누리호를 들어 올리는 1단부는 75t급 액체엔진 4기 묶음이다.\n총 300t급 추력이다.\n2단부와 3단부는 각각 75t급과 7t급 액체엔진으로 이뤄져 있다.\n그동안 개발해온 엔진은 1번 연소해 하늘로 날아오르면 재사용할 수 없었다.\n하지만 항우연은 2016년 '다단 연소 사이클 엔진'(재점화 엔진) 개발을 시작했다.\n올해 재점화 연소시험을 두 차례 실시했고, 앞으로도 검증을 거쳐 재점화 기술을 고도화한다는 계획이다.\n현재 우리나라 로켓은 지구 저궤도에는 위성을 실어나를 수 있지만, 정지궤도에는 도달할 수 없다.\n유럽우주국(ESA)은 지구 저궤도를 우주 고도 160km에서 1000km 이내 상공으로 정의한다.\n정지궤도는 약 3만 5000km 우주 상공이다.\n앞으로 재점화 엔진 기술 등이 고도화하면 우리 로켓으로 위성을 지구 저궤도뿐만 아니라 정지궤도에 안착시킬 수 있다.\n항우연은 9t급 액체엔진을 점진적으로 100t급 추력을 내는 재사용 로켓으로 만들어갈 예정이다.\n한영민 부장은 \\\"팰컨9 로켓 수준을 구현하려면 엔진 재점화를 3~4번 할 수 있어야 한다\\\"며 \\\"향후 5회 이상 재점화를 목표로 기술을 개발하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 30,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 9t급 액체엔진을 재점화하는 데 성공했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "재활용 로켓을 구현하려면 하늘로 날아오른 로켓이 착륙할 때 꺼졌던 엔진을 재점화하는 기술이 필수적이다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연구진이 국산 엔진 기술을 확보함에 따라 재활용 로켓 개발의 첫걸음을 뗐다는 평가가 나온다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "24일 한국항공우주연구원에 따르면 9t급 액체엔진이 1차례 연소하고 370초간 꺼진 뒤 재점화에 성공했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국내에서 엔진 재점화 기술을 구현한 건 이번이 처음이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 기술을 향후 고도화하면 로켓 재착륙뿐만 아니라 엔진을 재점화해 우주 500km, 700km 등 다른 궤도에도 위성을 투입할 수 있다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "━9t급 액체엔진 '재점화·추력조절' 시험 성공━ 재활용 로켓을 만들려면 엔진, 공력, 구조, 시스템 등 기술이 결합해야 한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이번 시험 성공은 엔진 부분에 국한된다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "엔진은 재점화와 추력(推力) 조절 기술이 핵심이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "항우연은 최근 9t급 액체엔진에서 추력 조절 시험까지 성공했다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "추력은 로켓이 연료를 연소해 얻는 힘을 일컫는다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "엔진을 재점화하고 방향을 전환하거나 착륙 속도를 줄이려면 힘 조절이 이뤄져야 한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "한영민 항우연 발사체엔진개발부장은 \\\"최근 9t급 액체엔진에선 3.8t(42% 수준)까지 추력을 조절하는 데 성공했다\\\"며 \\\"미 스페이스X 로켓 팰컨9 엔진도 40% 수준까지 추력을 조절하기 때문에 우리도 시험 단계이지만 사실상 기술을 구현한 것\\\"이라고 설명했다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "스페이스X 로켓 팰컨9은 멀린 엔진 9기를 사용하는 로켓이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "1단부 멀린 엔진 1기 진공추력은 96t급이고, 2단 엔진은 진공추력 98t 수준이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이 엔진은 처음 출발할 땐 100% 출력을 내지만, 착륙하거나 방향을 조절할 땐 추력을 조절한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "━ 75t급 엔진 개발했는데...",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "그동안 엔진 재점화 못 했나━ 항우연은 2010년부터 현재까지 한국형발사체 누리호(KSLV-II)를 개발해왔다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "누리호를 들어 올리는 1단부는 75t급 액체엔진 4기 묶음이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "총 300t급 추력이다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "2단부와 3단부는 각각 75t급과 7t급 액체엔진으로 이뤄져 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "그동안 개발해온 엔진은 1번 연소해 하늘로 날아오르면 재사용할 수 없었다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "하지만 항우연은 2016년 '다단 연소 사이클 엔진'(재점화 엔진) 개발을 시작했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "올해 재점화 연소시험을 두 차례 실시했고, 앞으로도 검증을 거쳐 재점화 기술을 고도화한다는 계획이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "현재 우리나라 로켓은 지구 저궤도에는 위성을 실어나를 수 있지만, 정지궤도에는 도달할 수 없다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "유럽우주국(ESA)은 지구 저궤도를 우주 고도 160km에서 1000km 이내 상공으로 정의한다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "정지궤도는 약 3만 5000km 우주 상공이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "앞으로 재점화 엔진 기술 등이 고도화하면 우리 로켓으로 위성을 지구 저궤도뿐만 아니라 정지궤도에 안착시킬 수 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "항우연은 9t급 액체엔진을 점진적으로 100t급 추력을 내는 재사용 로켓으로 만들어갈 예정이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "한영민 부장은 \\\"팰컨9 로켓 수준을 구현하려면 엔진 재점화를 3~4번 할 수 있어야 한다\\\"며 \\\"향후 5회 이상 재점화를 목표로 기술을 개발하겠다\\\"고 말했다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "날아가던 로켓이 불뿜으며 도로 착륙...이런 장면 구현할 '엔진' 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

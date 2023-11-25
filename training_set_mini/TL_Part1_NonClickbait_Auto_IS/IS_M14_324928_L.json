@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324928",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "소재",
+		"newsTitle": "미국 ITC, LG-SK 배터리 소송 내년 2월 10일로 연기",
+		"newsSubTitle": "",
+		"newsContent": "LG화학과 SK이노베이션이 미국에서 벌이고 있는 전기차 배터리 영업비밀 침해 소송 최종 판결이 내년 2월 10일로 또 다시 연기됐다.\n미국 국제무역위원회(ITC)는 9일(현지시간) 12월 10일로 예정됐던 선고 예정일을 내년 2월 10일로 연기한다고 밝혔다.\nITC는 이날 위원회 투표를 거쳐 이 같은 결정을 하면서 판결일을 연기한 이유에 대해서는 설명하지 않았다.\nITC 결정으로 양사의 영업비밀 침해소송 최종 결정은 세 차례 연기됐다.\n당초 최종 결정일은 10월 5일이었으나 10월 26일, 12월10일, 다시 내년 2월 10일로 미뤄진 것이다.\n처음에는 21일, 두 번째는 45일, 세 번째는 두달이 연기됐다.\nICT는 지난 2월 양사의 영업비밀 침해 소송에서 SK이노베이션의 패소로 예비 결정을 내렸다.\nSK이노베이션은 이의 신청을 했고, ITC는 이를 받아들여 조기 패소 결정에 대한 재검토를 진행 중이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG화학과 SK이노베이션이 미국에서 벌이고 있는 전기차 배터리 영업비밀 침해 소송 최종 판결이 내년 2월 10일로 또 다시 연기됐다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 국제무역위원회(ITC)는 9일(현지시간) 12월 10일로 예정됐던 선고 예정일을 내년 2월 10일로 연기한다고 밝혔다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "ITC는 이날 위원회 투표를 거쳐 이 같은 결정을 하면서 판결일을 연기한 이유에 대해서는 설명하지 않았다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "ITC 결정으로 양사의 영업비밀 침해소송 최종 결정은 세 차례 연기됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "당초 최종 결정일은 10월 5일이었으나 10월 26일, 12월10일, 다시 내년 2월 10일로 미뤄진 것이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "처음에는 21일, 두 번째는 45일, 세 번째는 두달이 연기됐다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "ICT는 지난 2월 양사의 영업비밀 침해 소송에서 SK이노베이션의 패소로 예비 결정을 내렸다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "SK이노베이션은 이의 신청을 했고, ITC는 이를 받아들여 조기 패소 결정에 대한 재검토를 진행 중이다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "미국 ITC, LG-SK 배터리 소송 내년 2월 10일로 연기",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

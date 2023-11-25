@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354103",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"한 번 누르면 600원\\\", 배민 '클릭광고' 무료 시범운영한다",
+		"newsSubTitle": "null",
+		"newsContent": "배달의민족이 28일 출시 예정인 새 광고상품 '우리가게클릭'을 무료로 시범운영한다.\n\\\"광고를 클릭할 때마다 600원씩 과금하는 건 지나치다\\\"는 자영업자들의 비판이 거세지자 유예기간을 두기로 한 것으로 풀이된다.\n우아한형제들은 27일 배민사장님광장에 \\\"우리가게클릭 광고 설정을 고민하는 업주를 위해 무료로 시범 운영하고자 한다\\\"라며 \\\"이날 오후 8시까지 우리가게클릭 광고를 사전신청한 업주를 대상으로 4월28일부터 5월11일까지 총 14일간 시범운영 될 예정\\\"이라고 공지했다.\n우리가게클릭은 CPC(클릭당 과금) 광고상품으로, 자영업자가 최소 5만원에서 최대 300만원까지 예산을 설정하면 이용자가 광고를 클릭할 때마다 200~600원을 차감하는 구조다.\n주문이 이뤄지지 않아도 광고비가 청구돼 자영업자 사이에서 반발이 컸다.\n우아한형제들은 이번 시범운영 기간을 통해 CPC광고가 더 많은 이용자에게 가게를 노출할 수 있는 기회라는 점을 어필할 것으로 보인다.\n우아한형제들은 \\\"자영업자가 광고비 부담없이 우리가게클릭을 써본 후 이용여부를 판단할 수 있게 할 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "배달의민족이 28일 출시 예정인 새 광고상품 '우리가게클릭'을 무료로 시범운영한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "\\\"광고를 클릭할 때마다 600원씩 과금하는 건 지나치다\\\"는 자영업자들의 비판이 거세지자 유예기간을 두기로 한 것으로 풀이된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "우아한형제들은 27일 배민사장님광장에 \\\"우리가게클릭 광고 설정을 고민하는 업주를 위해 무료로 시범 운영하고자 한다\\\"라며 \\\"이날 오후 8시까지 우리가게클릭 광고를 사전신청한 업주를 대상으로 4월28일부터 5월11일까지 총 14일간 시범운영 될 예정\\\"이라고 공지했다.",
+				"sentenceSize": 151
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우리가게클릭은 CPC(클릭당 과금) 광고상품으로, 자영업자가 최소 5만원에서 최대 300만원까지 예산을 설정하면 이용자가 광고를 클릭할 때마다 200~600원을 차감하는 구조다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "주문이 이뤄지지 않아도 광고비가 청구돼 자영업자 사이에서 반발이 컸다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "우아한형제들은 이번 시범운영 기간을 통해 CPC광고가 더 많은 이용자에게 가게를 노출할 수 있는 기회라는 점을 어필할 것으로 보인다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "우아한형제들은 \\\"자영업자가 광고비 부담없이 우리가게클릭을 써본 후 이용여부를 판단할 수 있게 할 것\\\"이라고 말했다.",
+				"sentenceSize": 66
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"한 번 누르면 600원\\\", 배민 '클릭광고' 무료 시범운영한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

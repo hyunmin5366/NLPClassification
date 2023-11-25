@@ -1,0 +1,339 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327436",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "쿠버네티스 플랫폼에 최적화된 데이터 보호 솔루션은?",
+		"newsSubTitle": "[솔루션 가이드] 쿠버네티스 최적화 백업 솔루션 ‘빔 소프트웨어 카스텐’",
+		"newsContent": "쿠버네티스는 확장성과 효율성 그리고 고가용성 PaaS 플랫폼으로 향후 IT 인프라의 표준이 될 것이라는 전망이 다분하다.\n인공 지능과 머신러닝 스택이 쿠버네티스에 배포되면서 쿠버네티스 활용이 증가하고 기업의 가장 중요한 자산인 데이터의 가치가 더욱 높아졌다.\n그러나 정보와 관련 소프트웨어 자산은 해킹 공격 위험에 노출되고 있고 개인 정보에 대한 우려로 인해 규제 또한 엄격해지고 있다.\n이제 데이터 관리는 세 가지 운영상 사용 사례, 즉 백업 및 복원, 애플리케이션 이동성, 그리고 재난 복구에서 IT팀의 가장 중요한 과제로 떠올랐다.\n백업과 쿠버네티스 기반 애플리케이션을 보호하려면 쿠버네티스 네이티브 백업 솔루션의 도입이 중요하다.\n쿠버네티스 플랫폼은 ▲서버 전체에서 애플리케이션 구성 요소 배포를 관리하고 서버에 애플리케이션을 배포 ▲쿠버네티스는 인프라와 배포에 대한 제어를 개발자에게 양도 ▲vSphere나 리눅스 배경에서 쿠버네티스와 통합 ▲대규모 애플리케이션 확장 ▲스냅샷 오류, ▲보안 ▲에코 시스템을 통합하기 때문이다.\n쿠버네티스 기반 백업 솔루션이 갖춰야할 조건 쿠버네티스 플랫폼에서는 버전 업그레이드/마이그레이션시 발생할 수 있는 소프트웨어 오류 또는 사고, 담당자 부재 시 발생할 수 있는 긴급상황, 랜섬웨어/해킹 공격, 장애상황시 서비스 복구 SLA 준수를 위해 전문 백업 솔루션이 필요하다.\n① 워크로드 단위의 백업과 복구 쿠버네티스 플랫폼은 애플리케이션을 가상머신(VM)이나 서버와 매핑하지 않는다.\n쿠버네티스 애플리케이션은 Pod의 집합이며 Pod는 다시 컨테이너의 집합이다.\n쿠버네티스 워크로드는 바로 애플리케이션을 말한다.\n데이터 보호는 가상머신이나 서버 단위가 아니라 워크로드 즉, 애플리케이션 단위이며 그에 종속된 구성정보(configmap, secret 등)와 데이터 (persistent volume)가 하나의 단위로 그룹화되어 백업되고 복구돼야 한다.\n② GUI 기반의 데이터 관리와 모니터링 마이크로 서비스 아키텍처(MSA) 구조의 특성상 쿠버네티스 플랫폼에서는 수천개에서 수만개의 Pod가 동시에 실행될 수 있다.\nPod는 생성과 소멸을 반복하며 실행되는 위치가 매번 변경될수 있고 Pod에 할당된 CPU, 메모리, 디스크 리소스의 용량은 쿠버네티스 오토스케일 기능을 통해 역시 언제든지 변경될 수 있다.\n일부 오픈소스형 솔루션은 100% CLI 기반의 백업 기능을 제공한다.\n하지만 복잡한 CLI 기반 백업 솔루션은 항시 변하는 쿠버네티스 플랫폼에서 운영하기에 모니터링과 리포팅 기능이 현저히 떨어지며 곧 백업담당자의 관리한계를 초과할 수 있다.\n전문지식이 없는 사람도 현황 파악과 제어 그리고 리포팅을 편리하게 처리할 수 있는 GUI 콘솔을 탑재한 전문 백업 솔루션이 도입돼야 한다.\n③ 애플리케이션 자동 감지 마이크로 서비스 아키텍처(MSA) 기반의 쿠버네티스 플랫폼은 애플리케이션별로 분리되어 개발과 업그레이드를 개발자(또는 개발팀)가 독립적으로 맡아서 수행한다.\n데이터를 저장하는 디스크와 같이 애플리케이션 실행에 필요한 인프라 리소스 또한 개발자가 셀프서비스 방식으로 미리 준비된 리소스 풀(스토리지 클래스)에서 필요한 만큼 할당 받아 사용하므로 인프라 관리자의 개입을 필요로 하지 않는다.\n데브옵스 구조의 개발과 운영방식에서는 신규 추가되는 애플리케이션과 그 변화에 대해서 일일이 백업 관리자가 전달받거나 인지하기 사실상 어렵다.\n따라서 애플리케이션과 그에 종속된 주요 리소스 및 데이터를 자동 감지해서 백업 받는 기능은 쿠버네티스 데이터 보호의 필수 요건이다.\n④ 보안 및 안전성 어느 소프트웨어든 버그 또는 구성오류에 의한 보안상 취약점이 존재할 수 있다.\n쿠버네티스 자체도 악의적 공격의 대상이 될 수 있지만 백업 시스템 또한 대상에 포함될 수 있다.\nRBAC (Role Based Access Control) 기능은 백업 시스템 접근이 필요한 담당자 계정을 역할별로 구분하여 최소한의 제어 또는 모니터링 권한만 부여해 백업시스템이 해커의 공격에 노출되는 것을 방어한다.\n그리고 만약 랜섬웨어에 의한 사고가 발생하더라도 백업 데이터의 악의적 변경/암호화 방어 기술이 추가된 백업 시스템은 쿠버네티스 플랫폼의 안정성이 높아진다.\n일부 오픈소스 기반 백업 솔루션의 경우 백업을 위해 쿠버네티스의 Privileged Daemonset 기능을 반드시 활성화 시켜야 하는 경우가 있는데 이것은 보안상 큰 취약점이 될 수 있어 사전에 면밀한 검토가 필요하다.\n⑤ 재해복구와 마이그레이션 쿠버네티스 기반의 서비스가 한번 오픈 되고 나면 작은 변경도 쉽지 않다.\n하지만 운영과정에서 더 나은 서비스를 위한 시스템 변경은 불가피하다.\n플랫폼 업그레이드 요건이 발생할 수 있고 비용절감 또는 안정성을 위해 다른 클러스터로 이동/분산하거나 퍼블릭 클라우드로 일부 워크로드가 이동할 수 있다.\n쿠버네티스에 최적화된 백업 솔루션 '빔 카스텐' 다양한 마이그레이션 시나리오 대응이 가능한 백업 솔루션은 운영과정에서 발생할 수 있는 리스크를 최소화하여 쿠버네티스 플랫폼의 안정성을 높일 수 있다.\n빔 소프트웨어 카스텐(Veeam Kasten)은 쿠버네티스 플랫폼 환경에서 최적화된 백업 솔루션이다.\n빔 카스텐(Veeam Kasten) 솔루션은 쿠버네티스 네이티브 API와 연동하며 효과적인 보안 기능을 제공한다.\n쿠버네티스 API 명령을 통한 워크로드 단위 백업 및 복구가 가능하고 GUI와 CLI 기반의 모니터링, 리포팅 및 대시보드 기능을 제공한다.\n컨테이너 환경에서 실행중인 애플리케이션을 자동으로 탐지하며, 다양한 컨테이너 환경의 백업, 복구 및 마이그레이션(네티티브 쿠버네티스, 레드햇, 오픈시프트, Mantech Accordion, VMware Tanzu)을 제공한다.\n백업 데이터의 온프레미스 NFS 스토리지 저장 기능과 멀티 클러스터로 구성된 쿠버네티스 환경의 통합 관리 기능, 백업에서 사용하는 자원을 동적으로 확장하거나 축소하는 오토스케일링(Autoscaling)을 지원한다.\nRBAC 와 랜섬웨어 대응 변경불가 백업 기능과 쿠버네티스 네임스페이스, 클러스터, 어카운트, 리젼, 클라우드 마이그레이션 기능을 지원하고 백업 데이터의 DR과 복제가 가능하다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 35,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "쿠버네티스는 확장성과 효율성 그리고 고가용성 PaaS 플랫폼으로 향후 IT 인프라의 표준이 될 것이라는 전망이 다분하다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인공 지능과 머신러닝 스택이 쿠버네티스에 배포되면서 쿠버네티스 활용이 증가하고 기업의 가장 중요한 자산인 데이터의 가치가 더욱 높아졌다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그러나 정보와 관련 소프트웨어 자산은 해킹 공격 위험에 노출되고 있고 개인 정보에 대한 우려로 인해 규제 또한 엄격해지고 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이제 데이터 관리는 세 가지 운영상 사용 사례, 즉 백업 및 복원, 애플리케이션 이동성, 그리고 재난 복구에서 IT팀의 가장 중요한 과제로 떠올랐다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "백업과 쿠버네티스 기반 애플리케이션을 보호하려면 쿠버네티스 네이티브 백업 솔루션의 도입이 중요하다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "쿠버네티스 플랫폼은 ▲서버 전체에서 애플리케이션 구성 요소 배포를 관리하고 서버에 애플리케이션을 배포 ▲쿠버네티스는 인프라와 배포에 대한 제어를 개발자에게 양도 ▲vSphere나 리눅스 배경에서 쿠버네티스와 통합 ▲대규모 애플리케이션 확장 ▲스냅샷 오류, ▲보안 ▲에코 시스템을 통합하기 때문이다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "쿠버네티스 기반 백업 솔루션이 갖춰야할 조건 쿠버네티스 플랫폼에서는 버전 업그레이드/마이그레이션시 발생할 수 있는 소프트웨어 오류 또는 사고, 담당자 부재 시 발생할 수 있는 긴급상황, 랜섬웨어/해킹 공격, 장애상황시 서비스 복구 SLA 준수를 위해 전문 백업 솔루션이 필요하다.",
+				"sentenceSize": 156
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "① 워크로드 단위의 백업과 복구 쿠버네티스 플랫폼은 애플리케이션을 가상머신(VM)이나 서버와 매핑하지 않는다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "쿠버네티스 애플리케이션은 Pod의 집합이며 Pod는 다시 컨테이너의 집합이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "쿠버네티스 워크로드는 바로 애플리케이션을 말한다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "데이터 보호는 가상머신이나 서버 단위가 아니라 워크로드 즉, 애플리케이션 단위이며 그에 종속된 구성정보(configmap, secret 등)와 데이터 (persistent volume)가 하나의 단위로 그룹화되어 백업되고 복구돼야 한다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "② GUI 기반의 데이터 관리와 모니터링 마이크로 서비스 아키텍처(MSA) 구조의 특성상 쿠버네티스 플랫폼에서는 수천개에서 수만개의 Pod가 동시에 실행될 수 있다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "Pod는 생성과 소멸을 반복하며 실행되는 위치가 매번 변경될수 있고 Pod에 할당된 CPU, 메모리, 디스크 리소스의 용량은 쿠버네티스 오토스케일 기능을 통해 역시 언제든지 변경될 수 있다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "일부 오픈소스형 솔루션은 100% CLI 기반의 백업 기능을 제공한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "하지만 복잡한 CLI 기반 백업 솔루션은 항시 변하는 쿠버네티스 플랫폼에서 운영하기에 모니터링과 리포팅 기능이 현저히 떨어지며 곧 백업담당자의 관리한계를 초과할 수 있다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "전문지식이 없는 사람도 현황 파악과 제어 그리고 리포팅을 편리하게 처리할 수 있는 GUI 콘솔을 탑재한 전문 백업 솔루션이 도입돼야 한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "③ 애플리케이션 자동 감지 마이크로 서비스 아키텍처(MSA) 기반의 쿠버네티스 플랫폼은 애플리케이션별로 분리되어 개발과 업그레이드를 개발자(또는 개발팀)가 독립적으로 맡아서 수행한다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "데이터를 저장하는 디스크와 같이 애플리케이션 실행에 필요한 인프라 리소스 또한 개발자가 셀프서비스 방식으로 미리 준비된 리소스 풀(스토리지 클래스)에서 필요한 만큼 할당 받아 사용하므로 인프라 관리자의 개입을 필요로 하지 않는다.",
+				"sentenceSize": 128
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "데브옵스 구조의 개발과 운영방식에서는 신규 추가되는 애플리케이션과 그 변화에 대해서 일일이 백업 관리자가 전달받거나 인지하기 사실상 어렵다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "따라서 애플리케이션과 그에 종속된 주요 리소스 및 데이터를 자동 감지해서 백업 받는 기능은 쿠버네티스 데이터 보호의 필수 요건이다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "④ 보안 및 안전성 어느 소프트웨어든 버그 또는 구성오류에 의한 보안상 취약점이 존재할 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "쿠버네티스 자체도 악의적 공격의 대상이 될 수 있지만 백업 시스템 또한 대상에 포함될 수 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "RBAC (Role Based Access Control) 기능은 백업 시스템 접근이 필요한 담당자 계정을 역할별로 구분하여 최소한의 제어 또는 모니터링 권한만 부여해 백업시스템이 해커의 공격에 노출되는 것을 방어한다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "그리고 만약 랜섬웨어에 의한 사고가 발생하더라도 백업 데이터의 악의적 변경/암호화 방어 기술이 추가된 백업 시스템은 쿠버네티스 플랫폼의 안정성이 높아진다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "일부 오픈소스 기반 백업 솔루션의 경우 백업을 위해 쿠버네티스의 Privileged Daemonset 기능을 반드시 활성화 시켜야 하는 경우가 있는데 이것은 보안상 큰 취약점이 될 수 있어 사전에 면밀한 검토가 필요하다.",
+				"sentenceSize": 123
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "⑤ 재해복구와 마이그레이션 쿠버네티스 기반의 서비스가 한번 오픈 되고 나면 작은 변경도 쉽지 않다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "하지만 운영과정에서 더 나은 서비스를 위한 시스템 변경은 불가피하다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "플랫폼 업그레이드 요건이 발생할 수 있고 비용절감 또는 안정성을 위해 다른 클러스터로 이동/분산하거나 퍼블릭 클라우드로 일부 워크로드가 이동할 수 있다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "쿠버네티스에 최적화된 백업 솔루션 '빔 카스텐' 다양한 마이그레이션 시나리오 대응이 가능한 백업 솔루션은 운영과정에서 발생할 수 있는 리스크를 최소화하여 쿠버네티스 플랫폼의 안정성을 높일 수 있다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "빔 소프트웨어 카스텐(Veeam Kasten)은 쿠버네티스 플랫폼 환경에서 최적화된 백업 솔루션이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "빔 카스텐(Veeam Kasten) 솔루션은 쿠버네티스 네이티브 API와 연동하며 효과적인 보안 기능을 제공한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "쿠버네티스 API 명령을 통한 워크로드 단위 백업 및 복구가 가능하고 GUI와 CLI 기반의 모니터링, 리포팅 및 대시보드 기능을 제공한다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "컨테이너 환경에서 실행중인 애플리케이션을 자동으로 탐지하며, 다양한 컨테이너 환경의 백업, 복구 및 마이그레이션(네티티브 쿠버네티스, 레드햇, 오픈시프트, Mantech Accordion, VMware Tanzu)을 제공한다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "백업 데이터의 온프레미스 NFS 스토리지 저장 기능과 멀티 클러스터로 구성된 쿠버네티스 환경의 통합 관리 기능, 백업에서 사용하는 자원을 동적으로 확장하거나 축소하는 오토스케일링(Autoscaling)을 지원한다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 35,
+				"sentenceContent": "RBAC 와 랜섬웨어 대응 변경불가 백업 기능과 쿠버네티스 네임스페이스, 클러스터, 어카운트, 리젼, 클라우드 마이그레이션 기능을 지원하고 백업 데이터의 DR과 복제가 가능하다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "쿠버네티스 플랫폼에 최적화된 데이터 보호 솔루션은?",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 35,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

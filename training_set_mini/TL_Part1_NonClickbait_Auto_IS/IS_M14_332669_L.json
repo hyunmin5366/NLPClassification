@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332669",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "스마트폰 보유율 90% 육박…역대 최고",
+		"newsSubTitle": "",
+		"newsContent": "우리나라 국민의 스마트폰 보유율이 90%에 육박하면서 사상 최대를 기록했다.\n3일 방송통신위원회에 따르면 작년 전국 만 13세 이상 남녀 7234명을 대상으로 면접 조사한 결과 스마트폰 보유율은 89.4%로 전년 87.1%보다 2.3%포인트 증가했다.\n한국인의 스마트폰 보유율은 2012년에는 57.5%에 머물렀지만 2013년 68.8%, 2014년 77.0%, 2015년 78.8%, 2016년 83.3% 등으로 계속 늘어나고 있다.\n특히 60대 스마트폰 보유율도 80.3%로 처음으로 80%를 넘어섰다.\n전년에는 73.6%였다.\n중년층인 50대 주 5일 이상 스마트폰 이용빈도가 90.7%(중복응답)로 TV(89.2%)를 처음으로 앞질렀다.\n스마트폰 이용빈도가 가장 높은 연령층은 20대로 96.9%에 이르렀다. 30대가 96.6%로 그 뒤를 따랐고, 40대 96.3%, 10대 96.0%, 60대 67.6%, 70대 이상 27.9% 등 순이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "우리나라 국민의 스마트폰 보유율이 90%에 육박하면서 사상 최대를 기록했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일 방송통신위원회에 따르면 작년 전국 만 13세 이상 남녀 7234명을 대상으로 면접 조사한 결과 스마트폰 보유율은 89.4%로 전년 87.1%보다 2.3%포인트 증가했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국인의 스마트폰 보유율은 2012년에는 57.5%에 머물렀지만 2013년 68.8%, 2014년 77.0%, 2015년 78.8%, 2016년 83.3% 등으로 계속 늘어나고 있다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "특히 60대 스마트폰 보유율도 80.3%로 처음으로 80%를 넘어섰다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전년에는 73.6%였다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중년층인 50대 주 5일 이상 스마트폰 이용빈도가 90.7%(중복응답)로 TV(89.2%)를 처음으로 앞질렀다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "스마트폰 이용빈도가 가장 높은 연령층은 20대로 96.9%에 이르렀다. 30대가 96.6%로 그 뒤를 따랐고, 40대 96.3%, 10대 96.0%, 60대 67.6%, 70대 이상 27.9% 등 순이다.",
+				"sentenceSize": 114
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "스마트폰 보유율 90% 육박…역대 최고",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

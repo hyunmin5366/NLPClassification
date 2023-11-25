@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331566",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "소재",
+		"newsTitle": "LG화학, 성과급 최대 850% 지급…LG에너지솔루션 450%",
+		"newsSubTitle": "",
+		"newsContent": "LG화학이 지난해 최대 실적에 기본급의 최대 850% 성과급을 지급했다.\nLG화학은 최근 사업 부문별 성과급 지급률을 공지하고 성과급을 제공했다.\n석유화학부 임직원은 기본급의 850%를 성과급으로 받았다.\n지난해 성과급의 2배 수준이다.\n첨단소재부와 생명과학부는 각각 2배 가까이 증가한 600%를 받은 것으로 알려졌다.\n이번 성과급은 지난해 역대 최대 실적에 따른 것이다.\n증권가에 따르면 LG화학은 지난해 매출 42조5000억원, 영업이익 5조4000억원을 기록한 것으로 예상된다.\nLG화학에서 분사해 상장한 LG에너지솔루션은 450% 성과급을 지급한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG화학이 지난해 최대 실적에 기본급의 최대 850% 성과급을 지급했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG화학은 최근 사업 부문별 성과급 지급률을 공지하고 성과급을 제공했다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "석유화학부 임직원은 기본급의 850%를 성과급으로 받았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지난해 성과급의 2배 수준이다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "첨단소재부와 생명과학부는 각각 2배 가까이 증가한 600%를 받은 것으로 알려졌다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 성과급은 지난해 역대 최대 실적에 따른 것이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "증권가에 따르면 LG화학은 지난해 매출 42조5000억원, 영업이익 5조4000억원을 기록한 것으로 예상된다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "LG화학에서 분사해 상장한 LG에너지솔루션은 450% 성과급을 지급한 것으로 알려졌다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG화학, 성과급 최대 850% 지급…LG에너지솔루션 450%",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

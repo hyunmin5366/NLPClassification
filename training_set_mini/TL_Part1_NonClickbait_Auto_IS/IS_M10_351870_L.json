@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_351870",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "요리하며 \\\"아리아, 음악 틀어줘\\\"…SKT, 코스텔 주방TV에 AI탑재",
+		"newsSubTitle": "null",
+		"newsContent": "SK텔레콤은 국내 주방 TV 1위 업체인 코스텔과 AI(인공지능) 플랫폼 '누구(NUGU)' 기반 AI 디바이스·서비스 개발을 위한 업무협약을 맺었다고 18일 밝혔다.\nSK텔레콤은 이번 협약을 통해 코스텔의 주방 TV에 '누구 소프트웨어 개발 키트'를 탑재한다. '누구 키트'가 탑재된 주방TV에선 음성 명령으로 △음악·라디오 청취 △뉴스·날씨 확인 △팟캐스트 △레시피·메뉴 추천 △감성 대화 등 다양한 기능이 구현된다.\n또 디스플레이를 이용한 화면 터치 제어도 가능하다.\nSK텔레콤은 \\\"'누구 키트'가 타사 기기에 탑재된 사례 중 누구 플랫폼의 전체 서비스를 이용할 수 있게 된 것은 코스텔의 주방 TV가 최초 사례\\\"라고 소개했다.\nSK텔레콤은 앞으로 태블릿과 전기차용 충전기 등 다른 영역에도 누구 키트 탑재를 고려하고 있다.\n이현아 SK텔레콤 AI&CO장(컴퍼니장)은 \\\"주방에서도 본격적으로 AI를 활용할 수 있는 시대가 열렸다\\\"며 \\\"궁극적으로 누구의 AI 플랫폼을 다양한 기기로 확대 적용해 언제 어디서나 AI를 만날 수 있는 '누구 에브리웨어(NUGU everywhere)'를 추구해 나가겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤은 국내 주방 TV 1위 업체인 코스텔과 AI(인공지능) 플랫폼 '누구(NUGU)' 기반 AI 디바이스·서비스 개발을 위한 업무협약을 맺었다고 18일 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "SK텔레콤은 이번 협약을 통해 코스텔의 주방 TV에 '누구 소프트웨어 개발 키트'를 탑재한다. '누구 키트'가 탑재된 주방TV에선 음성 명령으로 △음악·라디오 청취 △뉴스·날씨 확인 △팟캐스트 △레시피·메뉴 추천 △감성 대화 등 다양한 기능이 구현된다.",
+				"sentenceSize": 141
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "또 디스플레이를 이용한 화면 터치 제어도 가능하다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "SK텔레콤은 \\\"'누구 키트'가 타사 기기에 탑재된 사례 중 누구 플랫폼의 전체 서비스를 이용할 수 있게 된 것은 코스텔의 주방 TV가 최초 사례\\\"라고 소개했다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SK텔레콤은 앞으로 태블릿과 전기차용 충전기 등 다른 영역에도 누구 키트 탑재를 고려하고 있다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이현아 SK텔레콤 AI&CO장(컴퍼니장)은 \\\"주방에서도 본격적으로 AI를 활용할 수 있는 시대가 열렸다\\\"며 \\\"궁극적으로 누구의 AI 플랫폼을 다양한 기기로 확대 적용해 언제 어디서나 AI를 만날 수 있는 '누구 에브리웨어(NUGU everywhere)'를 추구해 나가겠다\\\"고 밝혔다.",
+				"sentenceSize": 162
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "요리하며 \\\"아리아, 음악 틀어줘\\\"…SKT, 코스텔 주방TV에 AI탑재",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

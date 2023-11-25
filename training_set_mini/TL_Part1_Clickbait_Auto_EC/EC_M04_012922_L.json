@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012922",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "아파트 매매·전셋값 숨고르기",
+		"newsSubTitle": "상반기 부동산 시장 분석… 하반기 회복력 지속 전망",
+		"newsContent": "2014년 상반기 아파트 시장은 취득세 영구인하에 이어 다주택자 양도세 중과폐지 등 부동산시장의 규제가 잇따라 사라지면서 거래량과 매매가격 모두 회복세를 보여 0.80% 오른 것으로 나타났다.\n하지만, 호조세를 보이던 시장은 2·26 주택임대차시장 선진화 방안 발표로 세금부담에 따른 심리적인 불안감이 매수 관망세로 나타났고 시장 분위기는 다시 가라앉아 회복세에 제동이 걸렸다.\n전세시장은 안정된 모습을 보였다.\n전세 세입자의 매매전환, 입주물량 증가 등의 영향으로 수요가 분산됐고 장기간 전세가격 상승에 대한 가격 부담감으로 상승폭은 제한되며 올 상반기 전국의 전셋값은 2.11%상승해 전 분기(6.47%)에 비해 숨고르기에 들어간 양상이다.\n세종은 전국에서 가장 큰 폭의 내림세를 보였다.\n하반기 전망을 보면 부동산 114는 정부의 2.26 주택임대주택과세방안 발표 이후 상승 동력이 떨어진 재고 주택시장이 숨고르기에 들어간 모양새로 6월 지방선거와 부동산관련법안 처리 변수가 있지만 하반기 부동산시장의 회복력은 지속될 것으로 전망했다.\n전세시장은 가격 상승에 따른 피로감과 공급물량 증가로 국지적인 조정을 보이며 안정세가 유지될 것으로 예상했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "2014년 상반기 아파트 시장은 취득세 영구인하에 이어 다주택자 양도세 중과폐지 등 부동산시장의 규제가 잇따라 사라지면서 거래량과 매매가격 모두 회복세를 보여 0.80% 오른 것으로 나타났다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하지만, 호조세를 보이던 시장은 2·26 주택임대차시장 선진화 방안 발표로 세금부담에 따른 심리적인 불안감이 매수 관망세로 나타났고 시장 분위기는 다시 가라앉아 회복세에 제동이 걸렸다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "전세시장은 안정된 모습을 보였다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전세 세입자의 매매전환, 입주물량 증가 등의 영향으로 수요가 분산됐고 장기간 전세가격 상승에 대한 가격 부담감으로 상승폭은 제한되며 올 상반기 전국의 전셋값은 2.11%상승해 전 분기(6.47%)에 비해 숨고르기에 들어간 양상이다.",
+				"sentenceSize": 129
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "세종은 전국에서 가장 큰 폭의 내림세를 보였다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "하반기 전망을 보면 부동산 114는 정부의 2.26 주택임대주택과세방안 발표 이후 상승 동력이 떨어진 재고 주택시장이 숨고르기에 들어간 모양새로 6월 지방선거와 부동산관련법안 처리 변수가 있지만 하반기 부동산시장의 회복력은 지속될 것으로 전망했다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "전세시장은 가격 상승에 따른 피로감과 공급물량 증가로 국지적인 조정을 보이며 안정세가 유지될 것으로 예상했다.",
+				"sentenceSize": 61
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 대청공영·세종충남 삼호개발, 지역 전문건설사 기성액 1위",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

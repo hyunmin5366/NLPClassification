@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348638",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "'갤럭시S21' 40대 여성이 가장 많이 샀다",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 지난 2주간의 갤럭시 S21 판매량을 분석한 결과, 가장 인기가 많은 기종은 갤럭시 S21 울트라 팬텀 블랙이었다고 5일 밝혔다.\n회사는 지난달 29일 정식 출시된 3종 중 갤럭시S21과 갤럭시S21 울트라 기종의 판매 비중이 전체 약 80%를 차지했다고 설명했다.\n가장 인기있는 기종은 갤럭시S21 울트라 팬텀 블랙으로 나타났다.\n갤럭시S21 팬텀 그레이, 갤럭시S21 울트라 팬텀 실버가 뒤를 이었다.\n기종과 색상 조합으로는 갤럭시S21은 팬텀 그레이, 갤럭시S21+는 팬텀 바이올렛, 갤럭시S21 울트라는 팬텀 블랙이 가장 많이 판매됐다.\n기종 관계없이 색상만으로는 팬텀 블랙, 팬텀 바이올렛, 팬텀 실버 순으로 인기가 많았다.\n아울러 갤럭시S21 모델은 40대 여성(13.4%)이 가장 많이 구매했고, 갤럭시S21플러스는 20대 남성(13.7%), 갤럭시S21 울트라와 울트라 512GB 기종은 모두 30대 남성(각각 17.6%, 23.7%)이 가장 많았다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 지난 2주간의 갤럭시 S21 판매량을 분석한 결과, 가장 인기가 많은 기종은 갤럭시 S21 울트라 팬텀 블랙이었다고 5일 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "회사는 지난달 29일 정식 출시된 3종 중 갤럭시S21과 갤럭시S21 울트라 기종의 판매 비중이 전체 약 80%를 차지했다고 설명했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "가장 인기있는 기종은 갤럭시S21 울트라 팬텀 블랙으로 나타났다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "갤럭시S21 팬텀 그레이, 갤럭시S21 울트라 팬텀 실버가 뒤를 이었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "기종과 색상 조합으로는 갤럭시S21은 팬텀 그레이, 갤럭시S21+는 팬텀 바이올렛, 갤럭시S21 울트라는 팬텀 블랙이 가장 많이 판매됐다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "기종 관계없이 색상만으로는 팬텀 블랙, 팬텀 바이올렛, 팬텀 실버 순으로 인기가 많았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아울러 갤럭시S21 모델은 40대 여성(13.4%)이 가장 많이 구매했고, 갤럭시S21플러스는 20대 남성(13.7%), 갤럭시S21 울트라와 울트라 512GB 기종은 모두 30대 남성(각각 17.6%, 23.7%)이 가장 많았다.",
+				"sentenceSize": 129
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'갤럭시S21' 40대 여성이 가장 많이 샀다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

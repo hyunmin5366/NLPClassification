@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_001810",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "노래방, 클럽 출입 QR코드 '카카오톡'에서도 받는다",
+		"newsSubTitle": "",
+		"newsContent": "노래방, 클럽 등 코로나19 전파 고위험시설에 출입하기 위해 필요한 QR코드를 카카오톡에서도 받을 수 있게 된다.\n19일 보건복지부와 카카오에 따르면, 양측은 최근 전자출입명부 작성을 위한 QR코드를 도입하기로 확정했다.\n카카오 관계자는 미디어SR에 \\\"구체적인 도입 일정과 방법 등은 미정이며 보건복지부와 협의할 계획\\\"이라고 설명했다.\n현재는 네이버에서만 QR코드 이용이 가능하다.\n카카오는 이전부터 정부와 QR코드 도입에 대해 논의해왔으나, 활용 앱과 관련해 정부와 의견이 갈려 무산됐다.\n카카오는 카카오페이 앱을 이용하자고 제안했으나 정부는 전국민이 가입한 카카오톡을 사용해야 한다고 주장했다.\n하지만 카카오가 카카오톡 활용 방안을 다시 제안하면서 협의가 재개된 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "노래방, 클럽 등 코로나19 전파 고위험시설에 출입하기 위해 필요한 QR코드를 카카오톡에서도 받을 수 있게 된다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 보건복지부와 카카오에 따르면, 양측은 최근 전자출입명부 작성을 위한 QR코드를 도입하기로 확정했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "카카오 관계자는 미디어SR에 \\\"구체적인 도입 일정과 방법 등은 미정이며 보건복지부와 협의할 계획\\\"이라고 설명했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "현재는 네이버에서만 QR코드 이용이 가능하다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "카카오는 이전부터 정부와 QR코드 도입에 대해 논의해왔으나, 활용 앱과 관련해 정부와 의견이 갈려 무산됐다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "카카오는 카카오페이 앱을 이용하자고 제안했으나 정부는 전국민이 가입한 카카오톡을 사용해야 한다고 주장했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 카카오가 카카오톡 활용 방안을 다시 제안하면서 협의가 재개된 것으로 알려졌다.",
+				"sentenceSize": 47
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대차, 업사이클링 패션 프로젝트 'Re:Style 2021' 공개",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

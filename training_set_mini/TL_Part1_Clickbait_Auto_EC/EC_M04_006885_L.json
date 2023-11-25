@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006885",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "농협, 지수연동예금 10-10호",
+		"newsSubTitle": "",
+		"newsContent": "농협이 31일부터 다음 달 13일까지 코스피200과 연계한 '지수연동예금 10-10호'(1년 만기)를 판매한다.\n이번 10-10호는 상승낙아웃형을 비롯해 디지털상승형, 디지털하락형 상품 등으로 구성됐다.\n상승낙아웃형은 최초지수 대비 만기지수가 30% 상승하면 연16.8%의 수익률이 제공된다.\n장중 지수를 포함해 지수 상승폭이 최초지수대비 30%를 초과하면 수익률이 4.5%로 조기 확정된다.\n디지털상승형은 최초지수 대비 만기지수가 5% 이상 상승하면 연 7.0%의 수익이 제공되며, 디지털하락형은 최초지수대비 만기지수가 같거나 하락하면 연 6.8%의 수익을 얻을 수 있다. 10-10호의 최초지수는 다음 달 14일 코스피200종가이고, 만기지수는 2011년 9월 8일 코스피200종가이다.\n이 상품은 만기일인 2011년 9월 14일까지 유지하면 원금이 보장된다.\n최소가입금액은 100만원으로 개인·법인 모두 가입 가능하며, 농협중앙회 전국 영업점 및 인터넷 뱅킹을 통해 가입할 수 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "농협이 31일부터 다음 달 13일까지 코스피200과 연계한 '지수연동예금 10-10호'(1년 만기)를 판매한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 10-10호는 상승낙아웃형을 비롯해 디지털상승형, 디지털하락형 상품 등으로 구성됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "상승낙아웃형은 최초지수 대비 만기지수가 30% 상승하면 연16.8%의 수익률이 제공된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "장중 지수를 포함해 지수 상승폭이 최초지수대비 30%를 초과하면 수익률이 4.5%로 조기 확정된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "디지털상승형은 최초지수 대비 만기지수가 5% 이상 상승하면 연 7.0%의 수익이 제공되며, 디지털하락형은 최초지수대비 만기지수가 같거나 하락하면 연 6.8%의 수익을 얻을 수 있다. 10-10호의 최초지수는 다음 달 14일 코스피200종가이고, 만기지수는 2011년 9월 8일 코스피200종가이다.",
+				"sentenceSize": 166
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 상품은 만기일인 2011년 9월 14일까지 유지하면 원금이 보장된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "최소가입금액은 100만원으로 개인·법인 모두 가입 가능하며, 농협중앙회 전국 영업점 및 인터넷 뱅킹을 통해 가입할 수 있다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "청주공항 '하늘길' 넓어져",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

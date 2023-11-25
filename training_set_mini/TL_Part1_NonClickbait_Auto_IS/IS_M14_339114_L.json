@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339114",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "씨엔티테크, 홍콩 피자헛에 매장 내점 주문 자동화 솔루션 수출",
+		"newsSubTitle": "",
+		"newsContent": "외식 주문중개 플랫폼 전문기업 씨엔티테크(대표 전화성)가 홍콩 피자헛에 매장 내점 자동화 솔루션을 공급했다고 7일 밝혔다.\n이 솔루션은 매장 내점 운영 자동화를 위한 푸드테크 플랫폼이다.\n매장을 방문한 고객이 직접 주문할 수 있는 '셀프오더링' 기능과 주문이 완료되면 직원이 해당 테이블을 찾아 음식을 직접 가져다주는 '스마트 파인더' 기능을 제공한다.\n고객이 테이블에 앉은 후 테이블 위에 부착된 QR코드를 본인 스마트폰으로 찍으면 전자 메뉴판이 스마트폰에서 실행된다.\n고객이 스마트폰으로 주문을 하면 매장 POS와 주방 디스플레이시스템에 주문이 자동으로 전송된다.\n홀 직원이 일일이 고객 테이블을 방문해 주문을 받지 않아도 되기 때문에 서빙에 필요한 인건비를 50% 가까이 절감할 수 있다.\n씨엔티테크는 “지난해 홍콩 피자헛 2개 매장에서 파일럿 테스트를 진행했고 실제 매장 운영 효율성이 높아졌다”면서 “배달뿐 아니라 매장까지 주문 자동화가 가능해졌다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "외식 주문중개 플랫폼 전문기업 씨엔티테크(대표 전화성)가 홍콩 피자헛에 매장 내점 자동화 솔루션을 공급했다고 7일 밝혔다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 솔루션은 매장 내점 운영 자동화를 위한 푸드테크 플랫폼이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "매장을 방문한 고객이 직접 주문할 수 있는 '셀프오더링' 기능과 주문이 완료되면 직원이 해당 테이블을 찾아 음식을 직접 가져다주는 '스마트 파인더' 기능을 제공한다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "고객이 테이블에 앉은 후 테이블 위에 부착된 QR코드를 본인 스마트폰으로 찍으면 전자 메뉴판이 스마트폰에서 실행된다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고객이 스마트폰으로 주문을 하면 매장 POS와 주방 디스플레이시스템에 주문이 자동으로 전송된다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "홀 직원이 일일이 고객 테이블을 방문해 주문을 받지 않아도 되기 때문에 서빙에 필요한 인건비를 50% 가까이 절감할 수 있다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "씨엔티테크는 “지난해 홍콩 피자헛 2개 매장에서 파일럿 테스트를 진행했고 실제 매장 운영 효율성이 높아졌다”면서 “배달뿐 아니라 매장까지 주문 자동화가 가능해졌다”고 말했다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "씨엔티테크, 홍콩 피자헛에 매장 내점 주문 자동화 솔루션 수출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

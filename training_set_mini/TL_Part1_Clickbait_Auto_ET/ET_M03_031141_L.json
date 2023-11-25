@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_031141",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "4살 아들과 수영하다 실종된 ‘글리’ 여배우 나야 리베라 시신 발견",
+		"newsSubTitle": "",
+		"newsContent": "호수에서 보트를 타다가 실종됐던 미국 FOX 드라마 ‘글리’의 인기 여배우 나야 리베라(33)로 추정되는 시신이 발견됐다.\n3일(현지시간) CNN에 따르면 리베라가 실종된 캘리포니아주 벤투라 카운티 피루 호수를 수색하던 경찰이 호수의 북동쪽에서 리베라로 추정되는 시신을 발견해 신원을 확인하고 있다.\n경찰은 타살이나 자살 흔적은 없다고 밝혔으며 시신을 검시소로 옮겨 치과 기록 등을 통해 확실한 신원을 확인할 예정이다.\n앞서 지난 8일 리베라는 4살 아들과 함께 보트를 빌려 타고 호수에 나갔다가 실종됐다.\n유원지 직원은 이들 모자가 보트를 빌린 지 3시간이 지나서도 돌아오지 않자, 이들을 찾으러 나섰고 보트에 혼자 잠들어있던 리베라의 아들만 발견했다.\n이후 경찰은 리베라가 익사했을 것으로 추정하고, 수색 작업을 계속 진행해왔다.\n한편 리베라는 4살 때인 1991년 CBS 시트콤 ‘더 로얄 패밀리’로 데뷔했으며 2009년부터 방영된 ‘글리’ 시리즈에서 치어리더 산타나 로페즈 역할로 큰 인기를 끌었다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "호수에서 보트를 타다가 실종됐던 미국 FOX 드라마 ‘글리’의 인기 여배우 나야 리베라(33)로 추정되는 시신이 발견됐다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일(현지시간) CNN에 따르면 리베라가 실종된 캘리포니아주 벤투라 카운티 피루 호수를 수색하던 경찰이 호수의 북동쪽에서 리베라로 추정되는 시신을 발견해 신원을 확인하고 있다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "경찰은 타살이나 자살 흔적은 없다고 밝혔으며 시신을 검시소로 옮겨 치과 기록 등을 통해 확실한 신원을 확인할 예정이다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "앞서 지난 8일 리베라는 4살 아들과 함께 보트를 빌려 타고 호수에 나갔다가 실종됐다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유원지 직원은 이들 모자가 보트를 빌린 지 3시간이 지나서도 돌아오지 않자, 이들을 찾으러 나섰고 보트에 혼자 잠들어있던 리베라의 아들만 발견했다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 경찰은 리베라가 익사했을 것으로 추정하고, 수색 작업을 계속 진행해왔다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편 리베라는 4살 때인 1991년 CBS 시트콤 ‘더 로얄 패밀리’로 데뷔했으며 2009년부터 방영된 ‘글리’ 시리즈에서 치어리더 산타나 로페즈 역할로 큰 인기를 끌었다.",
+				"sentenceSize": 96
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "백종원의 3대천왕 불광동 짬뽕집…\\\"요즘 서울에서 이런 집 찾기 힘들다\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

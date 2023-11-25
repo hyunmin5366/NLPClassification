@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_000682",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "5G 무제한이라더니...불완전 무제한 요금제 논란",
+		"newsSubTitle": "",
+		"newsContent": "KT와 LG유플러스가 5G 데이터 무제한 요금제를 발표했지만 이틀 연속으로 약 50GB의 데이터를 이용하면 이용 제한을 두도록 약관에 명시해 논란이 되고 있다.\n사실상 '불완전 무제한' 요금제라는 비판이 따라온다. 8일 이동통신업계에 따르면, KT는 지난 2일 5G 무제한 요금제를 선보였다.\n이후 LG유플러스도 무제한 요금제를 출시해 맞불을 놓았다.\n하지만 KT와 LG유플러스는 '완전 무제한' 요금제라고 보기에는 어렵다는 지적이 나왔다.\nKT의 경우 데이터FUP(공정사용정책)에 이틀 연속 53GB 초과해 사용할 경우 1Mbps로 속도제한을 할 수 있다고 명시했다.\n이는 메신저만 이용할 수 있을 정도의 속도다.\nLG유플러스는 2일 연속으로 일 50GB를 초과해 사용할 경우 해지·속도제어·차단 등을 하도록 했다.\n하지만 5G의 대표적인 콘텐츠 가상현실(VR)의 시간당 데이터 소모량은 약 10~15GB로 알려졌다.\nVR콘텐츠를 하루 네 시간 동안, 이틀 연속으로 볼 경우 이용에 제한이 온다.\n네트워크 과부하를 방지하기 위한 정책이라 할지라도 모든 이용자의 일일 데이터양을 제한하는 것은, 5G 데이터 무제한 서비스를 하기에는 준비가 덜 된 상태가 아니냐는 지적이 나오는 이유다.\nLG유플러스는 홈페이지 등에 데이터 제한 내용을 안내하지 않아 불완전 판매, 허위광고 의혹도 함께 받고 있다.\n이에 KT는 8일 미디어SR에 \\\"FUP은 데이터라는 자원을 특정 이용자가 독점하지 않도록 하기 위한 정책일 뿐\\\"이라며 \\\"현재 하루 데이터 53GB를 이용할 만큼 콘텐츠가 풍부하지 않아 일반 이용자가 이틀 동안 106GB를 이용하기는 쉽지 않다\\\"고 말했다.\n그는 \\\"앞으로 FUP 데이터 제한을 53GB에서 더 높일 것\\\"이라 밝혔다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT와 LG유플러스가 5G 데이터 무제한 요금제를 발표했지만 이틀 연속으로 약 50GB의 데이터를 이용하면 이용 제한을 두도록 약관에 명시해 논란이 되고 있다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "사실상 '불완전 무제한' 요금제라는 비판이 따라온다. 8일 이동통신업계에 따르면, KT는 지난 2일 5G 무제한 요금제를 선보였다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이후 LG유플러스도 무제한 요금제를 출시해 맞불을 놓았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "하지만 KT와 LG유플러스는 '완전 무제한' 요금제라고 보기에는 어렵다는 지적이 나왔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KT의 경우 데이터FUP(공정사용정책)에 이틀 연속 53GB 초과해 사용할 경우 1Mbps로 속도제한을 할 수 있다고 명시했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이는 메신저만 이용할 수 있을 정도의 속도다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "LG유플러스는 2일 연속으로 일 50GB를 초과해 사용할 경우 해지·속도제어·차단 등을 하도록 했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "하지만 5G의 대표적인 콘텐츠 가상현실(VR)의 시간당 데이터 소모량은 약 10~15GB로 알려졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "VR콘텐츠를 하루 네 시간 동안, 이틀 연속으로 볼 경우 이용에 제한이 온다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "네트워크 과부하를 방지하기 위한 정책이라 할지라도 모든 이용자의 일일 데이터양을 제한하는 것은, 5G 데이터 무제한 서비스를 하기에는 준비가 덜 된 상태가 아니냐는 지적이 나오는 이유다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "LG유플러스는 홈페이지 등에 데이터 제한 내용을 안내하지 않아 불완전 판매, 허위광고 의혹도 함께 받고 있다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이에 KT는 8일 미디어SR에 \\\"FUP은 데이터라는 자원을 특정 이용자가 독점하지 않도록 하기 위한 정책일 뿐\\\"이라며 \\\"현재 하루 데이터 53GB를 이용할 만큼 콘텐츠가 풍부하지 않아 일반 이용자가 이틀 동안 106GB를 이용하기는 쉽지 않다\\\"고 말했다.",
+				"sentenceSize": 146
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "그는 \\\"앞으로 FUP 데이터 제한을 53GB에서 더 높일 것\\\"이라 밝혔다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카뱅 늘고 크래프톤 줄고…엇갈린 공매도 추이",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334054",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "현대차, 지난달 미국서 역대 최고 판매량 기록",
+		"newsSubTitle": "",
+		"newsContent": "현대자동차가 미국 시장에서 역대 최고의 2월 판매 실적을 올렸다.\n3일(현지시간) 현대차 미국판매법인(HMA)에 따르면 현대차는 미국 시장에서 2월 한 달 동안 5만313대를 팔아 작년 동월과 비교해 판매량을 16% 끌어올렸다.\nHMA는 이날 공개한 실적 자료를 통해 “올해 2월 판매 실적은 역대 최고 기록으로, 종전 기록인 2016년 2월의 판매 실적을 앞질렀다”고 밝혔다.\n분야별로는 소매 판매가 26% 늘었다. '팰리세이드'와 '투싼', '코나' 등 SUV(스포츠유틸리티차)가 전체 소매 판매량의 63%를 차지하며 실적 호전을 견인했다.\nSUV 판매는 2만8418대로, 역대 2월 실적 가운데 가장 높은 증가세(57%)를 기록했다.\n2020년형 '소나타' 신모델 판매량은 16% 늘었고, 하이브리드와 전기차 등 친환경 라인업 차종의 판매량도 49% 늘었다.\n랜디 파커 내셔널세일즈 부사장은 “현대차와 협력해 신종 코로나바이러스 감염증(코로나19) 상황을 모니터링해 직원 안전을 보장하고 미국 시장에 계속해서 현대차를 탄탄하게 공급해나가겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차가 미국 시장에서 역대 최고의 2월 판매 실적을 올렸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "3일(현지시간) 현대차 미국판매법인(HMA)에 따르면 현대차는 미국 시장에서 2월 한 달 동안 5만313대를 팔아 작년 동월과 비교해 판매량을 16% 끌어올렸다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "HMA는 이날 공개한 실적 자료를 통해 “올해 2월 판매 실적은 역대 최고 기록으로, 종전 기록인 2016년 2월의 판매 실적을 앞질렀다”고 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "분야별로는 소매 판매가 26% 늘었다. '팰리세이드'와 '투싼', '코나' 등 SUV(스포츠유틸리티차)가 전체 소매 판매량의 63%를 차지하며 실적 호전을 견인했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "SUV 판매는 2만8418대로, 역대 2월 실적 가운데 가장 높은 증가세(57%)를 기록했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "2020년형 '소나타' 신모델 판매량은 16% 늘었고, 하이브리드와 전기차 등 친환경 라인업 차종의 판매량도 49% 늘었다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "랜디 파커 내셔널세일즈 부사장은 “현대차와 협력해 신종 코로나바이러스 감염증(코로나19) 상황을 모니터링해 직원 안전을 보장하고 미국 시장에 계속해서 현대차를 탄탄하게 공급해나가겠다”고 말했다.",
+				"sentenceSize": 108
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대차, 지난달 미국서 역대 최고 판매량 기록",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

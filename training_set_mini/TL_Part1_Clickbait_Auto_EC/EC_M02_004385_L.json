@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004385",
+		"newsCategory": "경제",
+		"newsSubcategory": "은행",
+		"newsTitle": "농협은행, '무주택자 대상' 주택담보대출 재개한다",
+		"newsSubTitle": "기존 신용대출 한도 축소 및 신규 중단 조치는 유지",
+		"newsContent": "지난 8월부터 대출 총량 관리를 위해 상당수 대출 상품의 신규 취급을 중단했던 NH농협은행이 신규 주택담보대출을 재개할 것으로 보인다.\n이는 실수요자 대상의 대출 공급을 차질없이 진행하라는 금융당국의 권고에 따른 조치로 풀이된다.\n19일 은행업계에 따르면 농협은행은 무주택자를 대상으로 주택담보대출 신규 취급을 검토중인 것으로 알려졌다.\n농협은행 관계자도 데일리임팩트에 \\\"무주택자 주담대를 재개하는 방향으로 검토 중\\\"이라며 \\\"다만 구체적인 시점은 아직 확정되지 않았다\\\"라며 이를 뒷받침했다.\n앞서 농협은행은 지난 8월 주담대를 포함한 일부 신용대출 상품의 신규 취급을 중단했다.\n이후 신용대출 및 마이너스통장 한도 축소 조치도 단행했다.\n이후 전세자금대출을 대출 총량에서 제외한다는 금융당국의 방침에 따라 전세자금대출은 지난달 18일부터 재개했다.\n다만, 여전히 가계대출 증가율이 금융당국의 목표치, 그리고 주요 시중은행보다 높은 수준(7.07%, 10월 말 기준)이라는 점에서 주담대의 전면 재개는 어려울 것으로 예상된다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 8월부터 대출 총량 관리를 위해 상당수 대출 상품의 신규 취급을 중단했던 NH농협은행이 신규 주택담보대출을 재개할 것으로 보인다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 실수요자 대상의 대출 공급을 차질없이 진행하라는 금융당국의 권고에 따른 조치로 풀이된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "19일 은행업계에 따르면 농협은행은 무주택자를 대상으로 주택담보대출 신규 취급을 검토중인 것으로 알려졌다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "농협은행 관계자도 데일리임팩트에 \\\"무주택자 주담대를 재개하는 방향으로 검토 중\\\"이라며 \\\"다만 구체적인 시점은 아직 확정되지 않았다\\\"라며 이를 뒷받침했다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 농협은행은 지난 8월 주담대를 포함한 일부 신용대출 상품의 신규 취급을 중단했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 신용대출 및 마이너스통장 한도 축소 조치도 단행했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이후 전세자금대출을 대출 총량에서 제외한다는 금융당국의 방침에 따라 전세자금대출은 지난달 18일부터 재개했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "다만, 여전히 가계대출 증가율이 금융당국의 목표치, 그리고 주요 시중은행보다 높은 수준(7.07%, 10월 말 기준)이라는 점에서 주담대의 전면 재개는 어려울 것으로 예상된다.",
+				"sentenceSize": 98
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "새마을금고, '착한 임대인 운동 지원' 정기적금 출시",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

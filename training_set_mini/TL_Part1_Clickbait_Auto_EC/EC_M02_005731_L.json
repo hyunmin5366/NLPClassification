@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005731",
+		"newsCategory": "경제",
+		"newsSubcategory": "증권",
+		"newsTitle": "삼성증권, 국내 최초 가상인간 '버추얼애널리스트' 개발",
+		"newsSubTitle": "정명지·장효선 팀장 복제해 국내외 시황 방송",
+		"newsContent": "삼성증권은 국내 최초로 '버추얼애널리스트'를 개발하고 이를 활용한 유튜브 콘텐츠를 출시했다고 17일 밝혔다.\n버추얼애널리스트는 삼성증권이 애널리스트 모습과 음성 등을 인공지능(AI) 기술로 학습시켜 만든 가상 인간이다.\n텍스트만 입력하면 버추얼애널리스트가 실제 애널리스트처럼 자연스럽게 투자정보를 전달할 수 있다.\n삼성증권은 버추얼애널리스트가 진행하는 유튜브 국내외 시황 방송을 신설했다.\n해당 버추얼애널리스트는 정명지 투자정보팀장과 장효선 글로벌주식팀장을 각각 복제해 만들었다.\n삼성증권 관계자는 데일리임팩트에 \\\"실제 현업에서 활약하는 애널리스트를 복제해 만든 가상 인간을 투자정보 전달에 활용하는 것은 처음\\\"이라고 설명했다.\n삼성증권은 AI 전문 기업 딥브레인과 함께 버추얼애널리스트를 개발했으며, 서울대 휴먼인터페이스 연구실과 공동 개발해 특허받은 음성합성모델을 활용했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성증권은 국내 최초로 '버추얼애널리스트'를 개발하고 이를 활용한 유튜브 콘텐츠를 출시했다고 17일 밝혔다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "버추얼애널리스트는 삼성증권이 애널리스트 모습과 음성 등을 인공지능(AI) 기술로 학습시켜 만든 가상 인간이다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "텍스트만 입력하면 버추얼애널리스트가 실제 애널리스트처럼 자연스럽게 투자정보를 전달할 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "삼성증권은 버추얼애널리스트가 진행하는 유튜브 국내외 시황 방송을 신설했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해당 버추얼애널리스트는 정명지 투자정보팀장과 장효선 글로벌주식팀장을 각각 복제해 만들었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성증권 관계자는 데일리임팩트에 \\\"실제 현업에서 활약하는 애널리스트를 복제해 만든 가상 인간을 투자정보 전달에 활용하는 것은 처음\\\"이라고 설명했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성증권은 AI 전문 기업 딥브레인과 함께 버추얼애널리스트를 개발했으며, 서울대 휴먼인터페이스 연구실과 공동 개발해 특허받은 음성합성모델을 활용했다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신종 코로나 괴담 확산...방심위 가짜뉴스 집중 점검",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

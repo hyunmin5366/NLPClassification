@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_002753",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "'고병원성 AI'…편의점ㆍ대형마트, 달걀 판매 제한",
+		"newsSubTitle": "편의점 GS25, 달걀 상품 10개 가운데 9개 판매 일시 중단 \\\"재고 공백 발생…점포별 최대 발주량 변경해 공급 안정화\\\"",
+		"newsContent": "'고병원성 조류인플루엔자'(AI)의 확산으로 달걀 가격이 급등하고 있는 가운데 편의점과 대형마트 등이 달걀 판매를 일부 중지하거나 구매 수량을 제한하고 나섰다.\n22일 유통업계에 따르면 GS리테일이 운영하는 편의점 GS25는 전날 제주 지역을 제외한 전 점포에서 달걀 상품 10개 가운데 9개의 판매를 일시 중단한다.\n이에 GS25에서는 당분간 '신선연구소 1등급 대란(10개)'만 구매할 수 있다.\n모든 달걀 상품의 최대 발주량도 기존 대비 최대 40분의 1로 줄었다.\nGS리테일 관계자는 미디어SR에 \\\"AI로 일시적인 재고 공백이 발생한 데 따라 점포별 최대 발주량을 변경해 공급을 안정화하기 위한 조치에 따른 것\\\"이라고 설명했다.\n이 밖에도 주요 대형마트는 달걀 상품의 구매 수량을 제한하고 있다.\n이는 농림축산식품부 주관으로 진행하는 '대한민국 농할(농산물 할인) 갑시다' 행사와는 무관하다.\n달걀 개수에 상관없이 롯데마트는 소비자 1명당 3판, 홈플러스는 1판만 살 수 있으며, 코스트코는 회원당 30개짜리 1판만 구매할 수 있다.\n이마트와 창고형 매장인 이마트 트레이더스는 30개짜리 상품에 대해서만 1인 1판 제한을 뒀다.\n소용량 상품은 수량과 상관없이 구매할 수 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'고병원성 조류인플루엔자'(AI)의 확산으로 달걀 가격이 급등하고 있는 가운데 편의점과 대형마트 등이 달걀 판매를 일부 중지하거나 구매 수량을 제한하고 나섰다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "22일 유통업계에 따르면 GS리테일이 운영하는 편의점 GS25는 전날 제주 지역을 제외한 전 점포에서 달걀 상품 10개 가운데 9개의 판매를 일시 중단한다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이에 GS25에서는 당분간 '신선연구소 1등급 대란(10개)'만 구매할 수 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "모든 달걀 상품의 최대 발주량도 기존 대비 최대 40분의 1로 줄었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "GS리테일 관계자는 미디어SR에 \\\"AI로 일시적인 재고 공백이 발생한 데 따라 점포별 최대 발주량을 변경해 공급을 안정화하기 위한 조치에 따른 것\\\"이라고 설명했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 밖에도 주요 대형마트는 달걀 상품의 구매 수량을 제한하고 있다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이는 농림축산식품부 주관으로 진행하는 '대한민국 농할(농산물 할인) 갑시다' 행사와는 무관하다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "달걀 개수에 상관없이 롯데마트는 소비자 1명당 3판, 홈플러스는 1판만 살 수 있으며, 코스트코는 회원당 30개짜리 1판만 구매할 수 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이마트와 창고형 매장인 이마트 트레이더스는 30개짜리 상품에 대해서만 1인 1판 제한을 뒀다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "소용량 상품은 수량과 상관없이 구매할 수 있다.",
+				"sentenceSize": 26
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "모바일 불법게임 단속 손 놨다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

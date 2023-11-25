@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352600",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "'털린 내 정보' 찾아본 18만명…10명 중 1명 \\\"진짜 유출됐다\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "개인정보보호위원회가 지난달 오픈한 '털린 내 정보 찾기 서비스' 이용자가 한 달 새 18만명을 넘은 것으로 나타났다.\n이용자 10명 중 1명 꼴로 실제 계정정보가 유출됐다는 분석도 나왔다.\n20일 개인정보위에 따르면, 지난달 16일부터 한 달 간 모두 18만2218명이 '털린 내 정보 찾기 서비스'에서 자신의 계정 정보가 유출됐는지 여부를 조회했다.\n이 중 실제로 계정정보 유출이 확인된 이용자는 1만8095명으로, 서비스 이용자 10명 중 1명꼴(9.93%)로 피해를 입은 것으로 나타났다.\n털린 내 정보 찾기 서비스는 인터넷 포털 등에서 사용 중인 아이디와 패스워드를 입력하면 계정정보 유출여부를 확인해주는 서비스다.\n개인정보위와 한국인터넷진흥원이 자체 확보한 다크웹 등의 국내 계정정보(2300만여건)와 구글의 비밀번호 진단 서비스에 기록된 40억여건 정보를 활용해 유출여부를 판단한다.\n또 유출이력 확인 서비스 개시 후 회원탈퇴 대행서비스인 'e프라이버시 클린' 이용자도 늘어나는 추세다.\n일 평균 이용자 수는 기존 6000명대에서 최근 한달 간 1만1190명을 기록했다.\n개인정보위 측은 \\\"개인정보 유출 사실을 확인한 뒤 바로 서비스 탈퇴까지 진행하는 이용자들이 늘어난 것\\\"이라고 해석했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개인정보보호위원회가 지난달 오픈한 '털린 내 정보 찾기 서비스' 이용자가 한 달 새 18만명을 넘은 것으로 나타났다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이용자 10명 중 1명 꼴로 실제 계정정보가 유출됐다는 분석도 나왔다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "20일 개인정보위에 따르면, 지난달 16일부터 한 달 간 모두 18만2218명이 '털린 내 정보 찾기 서비스'에서 자신의 계정 정보가 유출됐는지 여부를 조회했다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 중 실제로 계정정보 유출이 확인된 이용자는 1만8095명으로, 서비스 이용자 10명 중 1명꼴(9.93%)로 피해를 입은 것으로 나타났다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "털린 내 정보 찾기 서비스는 인터넷 포털 등에서 사용 중인 아이디와 패스워드를 입력하면 계정정보 유출여부를 확인해주는 서비스다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "개인정보위와 한국인터넷진흥원이 자체 확보한 다크웹 등의 국내 계정정보(2300만여건)와 구글의 비밀번호 진단 서비스에 기록된 40억여건 정보를 활용해 유출여부를 판단한다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 유출이력 확인 서비스 개시 후 회원탈퇴 대행서비스인 'e프라이버시 클린' 이용자도 늘어나는 추세다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "일 평균 이용자 수는 기존 6000명대에서 최근 한달 간 1만1190명을 기록했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "개인정보위 측은 \\\"개인정보 유출 사실을 확인한 뒤 바로 서비스 탈퇴까지 진행하는 이용자들이 늘어난 것\\\"이라고 해석했다.",
+				"sentenceSize": 68
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'털린 내 정보' 찾아본 18만명…10명 중 1명 \\\"진짜 유출됐다\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

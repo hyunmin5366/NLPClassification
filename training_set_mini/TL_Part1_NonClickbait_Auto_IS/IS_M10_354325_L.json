@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354325",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "포브스 \\\"삼성, 세계 기술기업 2위→4위...공급망 발목\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "삼성전자가 경제전문 매체 포브스가 선정한 '2022년 세계 최대 기술업체' 순위에서 2위에서 4위로 두 단계 하락했다.\n16일(현지시간) 샘모바일에 따르면 삼성전자는 올해 포브스가 선정한 세계 최대 기술업체 4위를 기록했다.\n지난해 2위에서 두 단계 떨어진 셈이다.\n포브스는 매년 세계 주요 기업의 매출, 순이익, 자산, 시가총액 4가지 지표를 종합적으로 평가한다.\n포브스는 삼성전자 매출로 2442억달러, 시가총액 3670억달러로 추정했다.\n포브스는 \\\"매출은 2021년보다 440억달러 증가했지만, 시가총액은 무료 1432억달러나 줄어들었다\\\"고 설명했다.\n이어 \\\"공급망 문제에 삼성전자가 취약했다\\\"며 \\\"세계 최고의 스마트폰 판매업체 자리를 처음으로 애플에 내줬다\\\"고 평가했다.\n한편, 1위는 지난해에 이어 올해도 애플이 차지했다.\n2,3위는 구글의 모회사인 알파벳과 마이크로소프트(MS)가 올랐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 경제전문 매체 포브스가 선정한 '2022년 세계 최대 기술업체' 순위에서 2위에서 4위로 두 단계 하락했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "16일(현지시간) 샘모바일에 따르면 삼성전자는 올해 포브스가 선정한 세계 최대 기술업체 4위를 기록했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난해 2위에서 두 단계 떨어진 셈이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "포브스는 매년 세계 주요 기업의 매출, 순이익, 자산, 시가총액 4가지 지표를 종합적으로 평가한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "포브스는 삼성전자 매출로 2442억달러, 시가총액 3670억달러로 추정했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "포브스는 \\\"매출은 2021년보다 440억달러 증가했지만, 시가총액은 무료 1432억달러나 줄어들었다\\\"고 설명했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 \\\"공급망 문제에 삼성전자가 취약했다\\\"며 \\\"세계 최고의 스마트폰 판매업체 자리를 처음으로 애플에 내줬다\\\"고 평가했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "한편, 1위는 지난해에 이어 올해도 애플이 차지했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "2,3위는 구글의 모회사인 알파벳과 마이크로소프트(MS)가 올랐다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "포브스 \\\"삼성, 세계 기술기업 2위→4위...공급망 발목\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

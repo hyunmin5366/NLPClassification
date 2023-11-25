@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350213",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "드론이 인공지능으로 화재감지…U+스마트드론 첫 국제공인",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 U+스마트드론을 통한 '인공지능(AI) 화재감지' 서비스가 국제공인시험기관 '방재시험연구원'의 검증을 받았다고 2일 밝혔다.\n드론이 화재를 찾아내는 기기로 인정받은 것은 이번이 처음이다.\nU+스마트드론은 기체에 이동통신 및 원격제어 기능을 탑재해 비가시권 원격관제와 실시간 영상전송을 할 수 있는 서비스다.\n수동 조작을 하는 일반 레저용 드론과 달리 정해진 경로로 비행하며, 5G·LTE 통신이 가능해 제어 거리에 제한이 없다.\n촬영되는 영상은 SD카드가 아닌 서버에 저장되기 때문에 PC, 모바일을 통해 실시간 다중 시청이 가능하다. 'AI 화재감지'는 여기에 엣지(edge) 기반의 AI 영상 분석 엔진과 열화상 카메라가 더해진 임무형 드론 서비스다.\n원거리 AI 화재감지 기술로 불꽃과 연기를 먼저 감지하고, 객체 플리커링(깜박임) 판별 기술을 통해 정확도를 더욱 높인다.\n이어 열화상 카메라의 실시간 온도 스캔 기술로 실 온도를 측정해 스스로 화재 여부를 판단한다.\n영상 감지에만 의존하던 기존 서비스 대비 오탐률이 대폭 감소돼, 99.9% 이상에 달하는 높은 화재 검출률을 보인다.\n예를 들어 드론이 주행 중 AI 기반의 RGB 분석을 통해 감지된 영역의 픽셀이 주변 대비 100도씨 이상 차이가 나는 색상으로 판단하면 현장을 주목한다.\n이 중 불꽃 색상 계열의 일몰·일출, 자동차 불빛, 유리벽 색 반사나 바람에 흔들리는 붉은 천의 경우 2차 감지 단계인 열화상 카메라 판별에서 화재가 아닌 것으로 걸러지게 된다.\nU+스마트드론은 이러한 과정을 거쳐 감시 지역 내의 화재 발생 시 신속하게 판별해 알림을 준다.\nAI 엔진의 화재 감지, 열화상 카메라의 온도 측정, 화재 지역 사진 촬영 및 전송 등을 빠르게 수행하는 것. 이를 통해 U+스마트드론은 약 3분(200초)만에 총 면적 2만4000㎡(7260평)의 탐지가 가능하다.\n축구장 크기 3배 이상의 공간을 짧은 시간 내에 전수조사 하는 셈이다.\n전영서 LG유플러스 기업서비스개발담당은 \\\"그간 치안 확보, 군사작전 수행, 해양 사고 방지 등 다양한 분야에서 활용돼 온 것처럼 화재 예방 영역에서도 고객들이 유용하게 쓸 수 있도록 꾸준히 서비스를 개선해 나갈 것\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 U+스마트드론을 통한 '인공지능(AI) 화재감지' 서비스가 국제공인시험기관 '방재시험연구원'의 검증을 받았다고 2일 밝혔다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "드론이 화재를 찾아내는 기기로 인정받은 것은 이번이 처음이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "U+스마트드론은 기체에 이동통신 및 원격제어 기능을 탑재해 비가시권 원격관제와 실시간 영상전송을 할 수 있는 서비스다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수동 조작을 하는 일반 레저용 드론과 달리 정해진 경로로 비행하며, 5G·LTE 통신이 가능해 제어 거리에 제한이 없다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "촬영되는 영상은 SD카드가 아닌 서버에 저장되기 때문에 PC, 모바일을 통해 실시간 다중 시청이 가능하다. 'AI 화재감지'는 여기에 엣지(edge) 기반의 AI 영상 분석 엔진과 열화상 카메라가 더해진 임무형 드론 서비스다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "원거리 AI 화재감지 기술로 불꽃과 연기를 먼저 감지하고, 객체 플리커링(깜박임) 판별 기술을 통해 정확도를 더욱 높인다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이어 열화상 카메라의 실시간 온도 스캔 기술로 실 온도를 측정해 스스로 화재 여부를 판단한다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "영상 감지에만 의존하던 기존 서비스 대비 오탐률이 대폭 감소돼, 99.9% 이상에 달하는 높은 화재 검출률을 보인다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "예를 들어 드론이 주행 중 AI 기반의 RGB 분석을 통해 감지된 영역의 픽셀이 주변 대비 100도씨 이상 차이가 나는 색상으로 판단하면 현장을 주목한다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이 중 불꽃 색상 계열의 일몰·일출, 자동차 불빛, 유리벽 색 반사나 바람에 흔들리는 붉은 천의 경우 2차 감지 단계인 열화상 카메라 판별에서 화재가 아닌 것으로 걸러지게 된다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "U+스마트드론은 이러한 과정을 거쳐 감시 지역 내의 화재 발생 시 신속하게 판별해 알림을 준다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "AI 엔진의 화재 감지, 열화상 카메라의 온도 측정, 화재 지역 사진 촬영 및 전송 등을 빠르게 수행하는 것. 이를 통해 U+스마트드론은 약 3분(200초)만에 총 면적 2만4000㎡(7260평)의 탐지가 가능하다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "축구장 크기 3배 이상의 공간을 짧은 시간 내에 전수조사 하는 셈이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "전영서 LG유플러스 기업서비스개발담당은 \\\"그간 치안 확보, 군사작전 수행, 해양 사고 방지 등 다양한 분야에서 활용돼 온 것처럼 화재 예방 영역에서도 고객들이 유용하게 쓸 수 있도록 꾸준히 서비스를 개선해 나갈 것\\\"이라고 말했다.",
+				"sentenceSize": 130
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "드론이 인공지능으로 화재감지…U+스마트드론 첫 국제공인",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

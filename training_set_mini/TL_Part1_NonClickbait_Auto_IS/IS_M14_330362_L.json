@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330362",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "NSHC, ICS/SCADA 해킹 대회서 우승",
+		"newsSubTitle": "",
+		"newsContent": "NSHC(대표 허영일)가 ICS/SCADA 국제해킹대회인 SUTD 시큐리티 쇼다운(S317) CTF 2017 기반 시설 해킹 대회에서 우승했다.\n하동주 NSHC 싱가포르 기술이사를 비롯해 박정우, 문해은, 태인규, 하해운 연구원이 팀을 이뤘다.\n대회는 6개팀이 치열한 예선전을 거쳐 본선에 진출했다.\n6월 5일부터 9일까지 총 5일간 SUTD(Singapore University of Technology and Design)에서 개최했다.\n전통적인 CTF방식과 달리 실제 하수처리 시스템 해킹과 방어 문제가 나왔다.\n실제 기반 시설 현장에서 사용하는 다양한 장비 등 공개되지 않은 취약점을 찾는 문제가 출제됐다.\n기반시설에 해당하는 폐쇠망(Air-Gap)을 우회해 실제 운영 장비 등에 접근할 수 있는 해킹 기법이 나왔다.\n허영일 NSHC 대표는 \\\"급증한 국가 중요 기반시설 관련 보안 위협에 대응하기 위해서는 관련 분야에 특화된 전문 인력 양성이 시급하다\\\"고 말했다.\nNSHC는 최근 프로스트앤설리반과 함께 '아시아태평양 지역 산업용 제어 시스템(ICS) 보안 시장' 보고서를 발간했다.\nNSHC는 국내에서는 처음으로 글로벌 시장조사 기업과 보안 취약점 보고서 사업에 참여했다.\n아시아태평양지역 14개 주요 국가에서 인터넷에 연결된 ICS 장치에 대한 위협 현황을 조사했으며 아시아 10개국을 분석해 국가별 SCADA/ICS 보안 문제점을 보고했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "NSHC(대표 허영일)가 ICS/SCADA 국제해킹대회인 SUTD 시큐리티 쇼다운(S317) CTF 2017 기반 시설 해킹 대회에서 우승했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "하동주 NSHC 싱가포르 기술이사를 비롯해 박정우, 문해은, 태인규, 하해운 연구원이 팀을 이뤘다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "대회는 6개팀이 치열한 예선전을 거쳐 본선에 진출했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "6월 5일부터 9일까지 총 5일간 SUTD(Singapore University of Technology and Design)에서 개최했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전통적인 CTF방식과 달리 실제 하수처리 시스템 해킹과 방어 문제가 나왔다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "실제 기반 시설 현장에서 사용하는 다양한 장비 등 공개되지 않은 취약점을 찾는 문제가 출제됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기반시설에 해당하는 폐쇠망(Air-Gap)을 우회해 실제 운영 장비 등에 접근할 수 있는 해킹 기법이 나왔다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "허영일 NSHC 대표는 \\\"급증한 국가 중요 기반시설 관련 보안 위협에 대응하기 위해서는 관련 분야에 특화된 전문 인력 양성이 시급하다\\\"고 말했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "NSHC는 최근 프로스트앤설리반과 함께 '아시아태평양 지역 산업용 제어 시스템(ICS) 보안 시장' 보고서를 발간했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "NSHC는 국내에서는 처음으로 글로벌 시장조사 기업과 보안 취약점 보고서 사업에 참여했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "아시아태평양지역 14개 주요 국가에서 인터넷에 연결된 ICS 장치에 대한 위협 현황을 조사했으며 아시아 10개국을 분석해 국가별 SCADA/ICS 보안 문제점을 보고했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "NSHC, ICS/SCADA 해킹 대회서 우승",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

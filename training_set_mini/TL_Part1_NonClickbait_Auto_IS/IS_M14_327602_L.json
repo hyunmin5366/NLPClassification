@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327602",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "삼성전자 인도에 7000억 투자… 휴대전화 생산 2배 확대",
+		"newsSubTitle": "",
+		"newsContent": "삼성전자가 인도에 400억 루피(7000억원)를 투자해 휴대전화, 냉장고 등 현지 생산 규모를 2배로 확장한다.\n인도 정부와 업계 소식통에 따르면 삼성전자 인도법인은 현재 북부 우타르프라데시주 노이다 지역 12만㎡ 부지에 운영 중인 공장을 24만㎡로 확장, 오는 7일 착공식을 연다. 삼성전자는 노이다 공장 바로 옆에 증설할 용지 매입을 마친 것으로 알려졌다.\n공장 증설이 완료되면 노이다 공장에서는 월 500만대 수준인 휴대전화 생산량이 1000만대로 늘어난다.\n냉장고는 월 10만대에서 20만대를 생산하게 된다.\n삼성전자 인도법인은 지난해 10월 우타르프라데시 주 정부와 노이다 공장 확장에 관한 양해각서를 체결했다.\n당시 삼성전자 투자 규모는 197억 루피로 발표됐지만 추진과정에서 당초 계획보다 갑절 이상 늘어난 것으로 전해졌다.\n삼성전자는 인도에 노이다와 남부 타밀나두 주 첸나이 인근 등 2곳에서 공장을 운영하고 있다.\n1997년 설립한 노이다 공장에서는 휴대전화와 냉장고, LED TV 등을 생산한다. 2007년 설립한 첸나이 공장에서는 냉장고, 세탁기, 에어컨, LED TV 등을 생산한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 인도에 400억 루피(7000억원)를 투자해 휴대전화, 냉장고 등 현지 생산 규모를 2배로 확장한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "인도 정부와 업계 소식통에 따르면 삼성전자 인도법인은 현재 북부 우타르프라데시주 노이다 지역 12만㎡ 부지에 운영 중인 공장을 24만㎡로 확장, 오는 7일 착공식을 연다. 삼성전자는 노이다 공장 바로 옆에 증설할 용지 매입을 마친 것으로 알려졌다.",
+				"sentenceSize": 138
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공장 증설이 완료되면 노이다 공장에서는 월 500만대 수준인 휴대전화 생산량이 1000만대로 늘어난다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "냉장고는 월 10만대에서 20만대를 생산하게 된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "삼성전자 인도법인은 지난해 10월 우타르프라데시 주 정부와 노이다 공장 확장에 관한 양해각서를 체결했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "당시 삼성전자 투자 규모는 197억 루피로 발표됐지만 추진과정에서 당초 계획보다 갑절 이상 늘어난 것으로 전해졌다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성전자는 인도에 노이다와 남부 타밀나두 주 첸나이 인근 등 2곳에서 공장을 운영하고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "1997년 설립한 노이다 공장에서는 휴대전화와 냉장고, LED TV 등을 생산한다. 2007년 설립한 첸나이 공장에서는 냉장고, 세탁기, 에어컨, LED TV 등을 생산한다.",
+				"sentenceSize": 97
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "삼성전자 인도에 7000억 투자… 휴대전화 생산 2배 확대",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

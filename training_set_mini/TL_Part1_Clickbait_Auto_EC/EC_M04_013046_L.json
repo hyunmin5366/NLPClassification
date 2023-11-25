@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013046",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "충청권 15건 736억원 공사 입찰",
+		"newsSubTitle": "세종 149억·충북 25억원 등 진행",
+		"newsContent": "충청권에서는 이번주 15건, 736억원의 공사가 입찰에 나온다.\n20일 조달청(청장 민형종)이 발표한 21일부터 25일까지 주간입찰 동향에 따르면 화성동탄(A3) 상록아파트 건설공사 등 66건에 2748억원 상당의 공사입찰이 진행된다.\n이 가운데 공무원연금공단의 '충남내포 상록아파트 건설공사' 등 24건을 제외하고는 42건 모두 지역제한 입찰 또는 지역의무공동도급 대상 공사다.\n참여하는 지역제한 입찰 공사는 33건(415억원)이며 지역업체와 의무적으로 공동수급체를 구성해 참여해야 하는 지역의무공동도급공사는 9건(302억원)이다.\n전체의 약 20%인 553억원 상당을 지역업체가 수주할 것으로 조달청은 보고 있다.\n지역별 발주량은 경기 1366억원(9건), 충남 561억원(5건), 경북 232억원(6건), 강원 151억원(4건), 세종시 149억원(1건), 충북 25억원(7건), 대전 1억원(2건) 등이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "충청권에서는 이번주 15건, 736억원의 공사가 입찰에 나온다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "20일 조달청(청장 민형종)이 발표한 21일부터 25일까지 주간입찰 동향에 따르면 화성동탄(A3) 상록아파트 건설공사 등 66건에 2748억원 상당의 공사입찰이 진행된다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 가운데 공무원연금공단의 '충남내포 상록아파트 건설공사' 등 24건을 제외하고는 42건 모두 지역제한 입찰 또는 지역의무공동도급 대상 공사다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "참여하는 지역제한 입찰 공사는 33건(415억원)이며 지역업체와 의무적으로 공동수급체를 구성해 참여해야 하는 지역의무공동도급공사는 9건(302억원)이다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "전체의 약 20%인 553억원 상당을 지역업체가 수주할 것으로 조달청은 보고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "지역별 발주량은 경기 1366억원(9건), 충남 561억원(5건), 경북 232억원(6건), 강원 151억원(4건), 세종시 149억원(1건), 충북 25억원(7건), 대전 1억원(2건) 등이다.",
+				"sentenceSize": 109
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'대환대출 플랫폼’ 수수료 눈치 싸움 본격화",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337966",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "양자 컴퓨터 시대의 보안<2>양자컴퓨팅 시대…커지는 보안 위협",
+		"newsSubTitle": "",
+		"newsContent": "양자컴퓨터 기술경쟁이 본격화한 가운데 이에 따른 보안 위협을 우려하는 목소리도 커지고 있다.\n이는 오늘날 사적인 통신부터 정부와 기업의 자료, 군사 기밀 등이 기존 컴퓨터와 차원이 다른 양자 컴퓨터 계산력을 통해 해킹당할 우려가 있기 때문이다.\n사이버 핵무기로 불리는 양자컴퓨터로 인해 생길 보안 공백 우려 목소리가 커지는 가운데 다양한 보안 솔루션의 필요성도 대두된다.\n◇양자 컴퓨터, 기존 보안 시스템 허물다 2019년 구글은 양자컴퓨터가 기존 슈퍼컴퓨터의 연산 능력을 넘어섰다고 발표했다.\n양자컴퓨터는 '0'과 '1'이라는 컴퓨터의 기본 비트 단위에서 벗어나 '중첩'이라는 양자역학의 현상을 이용한다.\n중첩은 하나의 입자에 여러 가지 상태가 확률적으로 동시에 존재하는 것이다.\n즉 양자컴퓨터는 0, 1의 상태를 동시에 갖는 큐비트 단위로 정보를 처리한다.\n이러한 특성 때문에 양자컴퓨터는 적은 큐비트로 경우의 수를 엄청나게 많이 표현할 수 있고 여러 가지 결과값을 한 번에 낼 수 있다.\n이에 따라 양자컴퓨터가 암호 해독에 이용된다면 아무리 복잡한 암호라도 단 몇 분 안에 풀릴 수 있다.\n현재 대부분의 암호를 만드는 시스템 알고리즘은 소인수분해를 이용한다.\n엄청나게 큰 숫자를 소인수분해하는 것은 시간이 많이 걸리는 작업이다.\n연구에 따르면 129자리 숫자를 소인수분해하는 데 1600여대의 컴퓨터를 연결해 총 8개월이 걸렸다고 한다.\n양자컴퓨터는 이런 암호 방식을 무력화시킨다.\n그야말로 미래는 보안에 달려 있다고 해도 과언이 아닌 셈이다.\n◇미래 핵무기, 양자 컴퓨터 양자컴퓨터가 등장하면 현존하는 세계 대부분의 사이버 암호 시스템은 모두 뚫린다.\n통신 네트워크와 정부 통신망, 국가 보안망 등을 가능한 한 양자컴퓨터로부터 안전하게 만들지 않는다면 '사이버 진주만 사태'가 벌어진다.\n방어자가 대비하기 전에 공격자가 양자 컴퓨터 기술을 갖게 된다면 각종 중요한 자료와 정보는 공격자에게 모두 제공되게 되는 셈이다.\n이에 따라 국내 다양한 기업도 양자암호 통신과 양자 내성 암호 기술을 고도화해 양자컴퓨터로도 해킹할 수 없는 보안체계를 구축하기 위해 박차를 가하고 있다.\n양자암호통신은 기존의 소인수분해 방식에서 벗어나 양자 방식으로 암호를 구성하는 것이다.\n업계 관계자는 \\\"양자 컴퓨터 시대는 3년, 늦어도 5년 안에 도래할 것\\\"이라며 \\\"양자컴퓨터는 우리 삶의 모든 국면을 매우 광범위하게 바꿔놓을 것이다\\\"라고 말했다.\n이어 그는 \\\"이는 마치 해일과 같다\\\"며 \\\"재앙이 닥친 후에 뒤처리하는 것보다는 도착하기 전에 대비하는 게 현명한 일\\\"이라고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "양자컴퓨터 기술경쟁이 본격화한 가운데 이에 따른 보안 위협을 우려하는 목소리도 커지고 있다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이는 오늘날 사적인 통신부터 정부와 기업의 자료, 군사 기밀 등이 기존 컴퓨터와 차원이 다른 양자 컴퓨터 계산력을 통해 해킹당할 우려가 있기 때문이다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사이버 핵무기로 불리는 양자컴퓨터로 인해 생길 보안 공백 우려 목소리가 커지는 가운데 다양한 보안 솔루션의 필요성도 대두된다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "◇양자 컴퓨터, 기존 보안 시스템 허물다 2019년 구글은 양자컴퓨터가 기존 슈퍼컴퓨터의 연산 능력을 넘어섰다고 발표했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양자컴퓨터는 '0'과 '1'이라는 컴퓨터의 기본 비트 단위에서 벗어나 '중첩'이라는 양자역학의 현상을 이용한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "중첩은 하나의 입자에 여러 가지 상태가 확률적으로 동시에 존재하는 것이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "즉 양자컴퓨터는 0, 1의 상태를 동시에 갖는 큐비트 단위로 정보를 처리한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이러한 특성 때문에 양자컴퓨터는 적은 큐비트로 경우의 수를 엄청나게 많이 표현할 수 있고 여러 가지 결과값을 한 번에 낼 수 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이에 따라 양자컴퓨터가 암호 해독에 이용된다면 아무리 복잡한 암호라도 단 몇 분 안에 풀릴 수 있다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "현재 대부분의 암호를 만드는 시스템 알고리즘은 소인수분해를 이용한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "엄청나게 큰 숫자를 소인수분해하는 것은 시간이 많이 걸리는 작업이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "연구에 따르면 129자리 숫자를 소인수분해하는 데 1600여대의 컴퓨터를 연결해 총 8개월이 걸렸다고 한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "양자컴퓨터는 이런 암호 방식을 무력화시킨다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "그야말로 미래는 보안에 달려 있다고 해도 과언이 아닌 셈이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "◇미래 핵무기, 양자 컴퓨터 양자컴퓨터가 등장하면 현존하는 세계 대부분의 사이버 암호 시스템은 모두 뚫린다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "통신 네트워크와 정부 통신망, 국가 보안망 등을 가능한 한 양자컴퓨터로부터 안전하게 만들지 않는다면 '사이버 진주만 사태'가 벌어진다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "방어자가 대비하기 전에 공격자가 양자 컴퓨터 기술을 갖게 된다면 각종 중요한 자료와 정보는 공격자에게 모두 제공되게 되는 셈이다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이에 따라 국내 다양한 기업도 양자암호 통신과 양자 내성 암호 기술을 고도화해 양자컴퓨터로도 해킹할 수 없는 보안체계를 구축하기 위해 박차를 가하고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "양자암호통신은 기존의 소인수분해 방식에서 벗어나 양자 방식으로 암호를 구성하는 것이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "업계 관계자는 \\\"양자 컴퓨터 시대는 3년, 늦어도 5년 안에 도래할 것\\\"이라며 \\\"양자컴퓨터는 우리 삶의 모든 국면을 매우 광범위하게 바꿔놓을 것이다\\\"라고 말했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "이어 그는 \\\"이는 마치 해일과 같다\\\"며 \\\"재앙이 닥친 후에 뒤처리하는 것보다는 도착하기 전에 대비하는 게 현명한 일\\\"이라고 덧붙였다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "양자 컴퓨터 시대의 보안<2>양자컴퓨팅 시대…커지는 보안 위협",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

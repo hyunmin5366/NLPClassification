@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_350826",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 일반",
+		"newsTitle": "'가짜 백신뉴스' 유튜브에서 사라질까? \\\"영상 신뢰도 표시\\\"",
+		"newsSubTitle": "null",
+		"newsContent": "코로나19(COVID-19) 허위 정보 유통으로 비판을 받은 유튜브가 건강 관련 동영상의 신뢰성을 표시하기로 했다.\n19일 미국 CNBC, 타임지 등 외신에 따르면 유튜브는 특정 건강 주제를 검색할 때 권위 있는 출처의 선별된 영상을 우선 노출하기로 했다.\n공인된 병원 등 권위있는 출처의 동영상인 경우 이를 이용자에게 적극적으로 알린다.\n미국 국립의학원의 온라인 정보 지침에 따라 정보 출처, 순위 등을 나타내는 패널을 추가한다.\n유튜브는 지난 2월부터 이같은 내용의 조치를 준비해왔다고 설명했다.\n미국을 시작으로 다른 국가에서도 이 같은 서비스를 확장한다는 계획이다.\n유튜브는 코로나19 허위 정보 콘텐츠를 관련 정책에 따라 삭제해왔다.\n허위 정보 확산을 막기 위해 보건 관련 기관과 의료 전문가들과 계속 협력한다는 방침이다.\n한편 조 바이든 미 행정부는 코로나19 관련 허위 정보를 '긴급 위협'으로 지목하고 비판해왔다.\n바이든 대통령은 \\\"허위 정보, 백신에 관한 충격적인 허위 정보에 관해 뭔가 조치를 취하는 게 내 바람\\\"이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코로나19(COVID-19) 허위 정보 유통으로 비판을 받은 유튜브가 건강 관련 동영상의 신뢰성을 표시하기로 했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "19일 미국 CNBC, 타임지 등 외신에 따르면 유튜브는 특정 건강 주제를 검색할 때 권위 있는 출처의 선별된 영상을 우선 노출하기로 했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "공인된 병원 등 권위있는 출처의 동영상인 경우 이를 이용자에게 적극적으로 알린다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "미국 국립의학원의 온라인 정보 지침에 따라 정보 출처, 순위 등을 나타내는 패널을 추가한다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "유튜브는 지난 2월부터 이같은 내용의 조치를 준비해왔다고 설명했다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미국을 시작으로 다른 국가에서도 이 같은 서비스를 확장한다는 계획이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "유튜브는 코로나19 허위 정보 콘텐츠를 관련 정책에 따라 삭제해왔다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "허위 정보 확산을 막기 위해 보건 관련 기관과 의료 전문가들과 계속 협력한다는 방침이다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "한편 조 바이든 미 행정부는 코로나19 관련 허위 정보를 '긴급 위협'으로 지목하고 비판해왔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "바이든 대통령은 \\\"허위 정보, 백신에 관한 충격적인 허위 정보에 관해 뭔가 조치를 취하는 게 내 바람\\\"이라고 말했다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'가짜 백신뉴스' 유튜브에서 사라질까? \\\"영상 신뢰도 표시\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

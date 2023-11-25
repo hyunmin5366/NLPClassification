@@ -1,0 +1,186 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349254",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 모바일",
+		"newsTitle": "구글 안드로이드 오류 10시간 뒤에야 늑장조치...이용자들 '분통'",
+		"newsSubTitle": "null",
+		"newsContent": "삼성전자 갤럭시 스마트폰을 포함한 구글 안드로이드 OS(운영체제)가 탑재된 스마트폰에서 네이버, 카카오톡, 은행, 증권 등 상당수 모바일앱(애플리케이션)이 오늘 강제 종료되는 현상이 발생해 이용자들이 큰 불편을 겪었다.\n구글 안드로이드 시스템 앱의 오류에서 비롯된 것인데 구글이 즉각적인 대응에 나서지 않아 혼선이 커졌다는 지적이 나온다.\n23일 오전 안드로이드 스마트폰에서 앱 실행 시 '앱을 중지했습니다'라는 알림창이 뜨면서 갑자가 꺼지는 등 먹통 되는 현상이 발생했다.\n메신저부터 인터넷, 금융 등 다수의 앱을 실행할 수 없는 초유의 사태가 발생한 것이다.\n이 문제는 국내뿐 아니라 해외에서도 똑같이 발생했다.\n이번 오류는 안드로이드 시스템 앱인 ‘웹뷰’(Webview) 때문에 발생한 것으로 확인됐다.\n웹뷰는 안드로이드에서 웹 콘텐츠를 표시할 수 있도록 지원하는 앱이다.\n구글은 오전부터 이어진 치명적 오류에 대한 어떤 공지나 설명도 내놓지 않다가 장애 발생 8시간 만인 오후 3시경 자사 블로그를 통해 장애를 공지했다.\n구글은 “웹뷰 관련 장애로 인해 일부 이용자의 경우 안드로이드에서 일부 앱이 다운되는 현상이 나타나고 있다”며 “문제를 인지하고 해결책을 강구하고 있다”고 공지했다.\n이후 약 2시간 뒤인 오후 5시경 구글은 \\\"안드로이드 앱 다운 현상을 일으킨 웹뷰 관련 이슈가 모두 해소됐다\\\"며 \\\"구글플레이 앱을 통해 안드로이드 시스템 웹뷰 및 구글 크롬을 업데이트 하면 문제를 해결할 수 있다\\\"고 안내했다.\n구글의 늑장 대응으로 애꿎은 앱 개발사와 삼성전자와 LG전자 등 제조사만 곤욕을 치렀다.\n오전부터 앱 실행이 되지 않자 사용자들의 불만이 앱 개발사와 스마트폰 제조사로 향한 것이다.\n실제로 국내 스마트폰 이용자 60% 이상이 사용 중인 삼성전자는 오전부터 AS센터에 사람이 몰렸다.\n삼성전자 서비스센터뿐 아니라 삼성전자 서비스 홈페이지도 문제를 겪는 사람이 몰리며 약 15분간 일시적으로 홈페이지가 마비되기도 했다.\n이에 삼성전자와 LG전자를 비롯한 앱 개발사는 직접 공지를 띄우고 오류가 발생하지 않도록 하는 웹뷰 삭제(업데이트 삭제) 등 임시 대처법을 안내했다.\n구글의 이같은 대응은 지난해 페이스북 때문에 발생한 아이폰·아이패드 오류와 대비된다.\n당시 페이스북은 로그인 관련 SDK(소프트웨어개발도구)를 변경했고, 이후 아이폰·아이패드에서 관련 앱이 강제 종료되는 일이 발생했다.\n페이스북은 문제를 인지하고 약 1시간 만에 수정해 사용자 불편을 최소화했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 18,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자 갤럭시 스마트폰을 포함한 구글 안드로이드 OS(운영체제)가 탑재된 스마트폰에서 네이버, 카카오톡, 은행, 증권 등 상당수 모바일앱(애플리케이션)이 오늘 강제 종료되는 현상이 발생해 이용자들이 큰 불편을 겪었다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구글 안드로이드 시스템 앱의 오류에서 비롯된 것인데 구글이 즉각적인 대응에 나서지 않아 혼선이 커졌다는 지적이 나온다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "23일 오전 안드로이드 스마트폰에서 앱 실행 시 '앱을 중지했습니다'라는 알림창이 뜨면서 갑자가 꺼지는 등 먹통 되는 현상이 발생했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "메신저부터 인터넷, 금융 등 다수의 앱을 실행할 수 없는 초유의 사태가 발생한 것이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 문제는 국내뿐 아니라 해외에서도 똑같이 발생했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 오류는 안드로이드 시스템 앱인 ‘웹뷰’(Webview) 때문에 발생한 것으로 확인됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "웹뷰는 안드로이드에서 웹 콘텐츠를 표시할 수 있도록 지원하는 앱이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "구글은 오전부터 이어진 치명적 오류에 대한 어떤 공지나 설명도 내놓지 않다가 장애 발생 8시간 만인 오후 3시경 자사 블로그를 통해 장애를 공지했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "구글은 “웹뷰 관련 장애로 인해 일부 이용자의 경우 안드로이드에서 일부 앱이 다운되는 현상이 나타나고 있다”며 “문제를 인지하고 해결책을 강구하고 있다”고 공지했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이후 약 2시간 뒤인 오후 5시경 구글은 \\\"안드로이드 앱 다운 현상을 일으킨 웹뷰 관련 이슈가 모두 해소됐다\\\"며 \\\"구글플레이 앱을 통해 안드로이드 시스템 웹뷰 및 구글 크롬을 업데이트 하면 문제를 해결할 수 있다\\\"고 안내했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "구글의 늑장 대응으로 애꿎은 앱 개발사와 삼성전자와 LG전자 등 제조사만 곤욕을 치렀다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "오전부터 앱 실행이 되지 않자 사용자들의 불만이 앱 개발사와 스마트폰 제조사로 향한 것이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "실제로 국내 스마트폰 이용자 60% 이상이 사용 중인 삼성전자는 오전부터 AS센터에 사람이 몰렸다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "삼성전자 서비스센터뿐 아니라 삼성전자 서비스 홈페이지도 문제를 겪는 사람이 몰리며 약 15분간 일시적으로 홈페이지가 마비되기도 했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이에 삼성전자와 LG전자를 비롯한 앱 개발사는 직접 공지를 띄우고 오류가 발생하지 않도록 하는 웹뷰 삭제(업데이트 삭제) 등 임시 대처법을 안내했다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "구글의 이같은 대응은 지난해 페이스북 때문에 발생한 아이폰·아이패드 오류와 대비된다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "당시 페이스북은 로그인 관련 SDK(소프트웨어개발도구)를 변경했고, 이후 아이폰·아이패드에서 관련 앱이 강제 종료되는 일이 발생했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "페이스북은 문제를 인지하고 약 1시간 만에 수정해 사용자 불편을 최소화했다.",
+				"sentenceSize": 42
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "구글 안드로이드 오류 10시간 뒤에야 늑장조치...이용자들 '분통'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

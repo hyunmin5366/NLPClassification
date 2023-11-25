@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324032",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "장비",
+		"newsTitle": "DB하이텍, 1분기 영업익 647억...\\\"분기 최대 실적\\\"",
+		"newsSubTitle": "",
+		"newsContent": "DB하이텍이 지난 1분기에 분기 최대 실적을 기록했다.\n지난해 전력반도체와 센서 분야에서 늘어난 수요가 올해도 이어졌다는 분석이다.\nDB하이텍은 올 1분기 매출 2258억원, 영업이익 647억원을 기록했다고 15일 공시했다.\n이는 지난해 같은 기간보다 각각 41%, 189% 증가한 수치다.\n매출과 영업이익 모두 분기 사상 최대치를 기록했으며, 영업이익률은 29%에 달했다.\nDB하이텍은 지난해 전력반도체와 센서 수요 증가로 연간 최대 실적을 기록했다.\n올 1분기에도 수요가 견조하고, 코로나 19 팬데믹(세계적 대유행) 영향으로 서버와 PC 등 비대면 관련 제품 생산이 늘면서 호실적을 기록했다.\nDB하이텍 관계자는 \\\"현재 경기도 부천과 충북 음성에 위치한 2개 팹 모두 풀가동 되고 있으며, 당분간 성장세가 이어질 것으로 예상된다\\\"고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "DB하이텍이 지난 1분기에 분기 최대 실적을 기록했다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지난해 전력반도체와 센서 분야에서 늘어난 수요가 올해도 이어졌다는 분석이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "DB하이텍은 올 1분기 매출 2258억원, 영업이익 647억원을 기록했다고 15일 공시했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이는 지난해 같은 기간보다 각각 41%, 189% 증가한 수치다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "매출과 영업이익 모두 분기 사상 최대치를 기록했으며, 영업이익률은 29%에 달했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "DB하이텍은 지난해 전력반도체와 센서 수요 증가로 연간 최대 실적을 기록했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "올 1분기에도 수요가 견조하고, 코로나 19 팬데믹(세계적 대유행) 영향으로 서버와 PC 등 비대면 관련 제품 생산이 늘면서 호실적을 기록했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "DB하이텍 관계자는 \\\"현재 경기도 부천과 충북 음성에 위치한 2개 팹 모두 풀가동 되고 있으며, 당분간 성장세가 이어질 것으로 예상된다\\\"고 덧붙였다.",
+				"sentenceSize": 85
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "DB하이텍, 1분기 영업익 647억...\\\"분기 최대 실적\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

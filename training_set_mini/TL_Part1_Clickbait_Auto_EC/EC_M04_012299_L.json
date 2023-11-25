@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012299",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "한국타이어, BMW X5 신차용 타이어 공급",
+		"newsSubTitle": "",
+		"newsContent": "한국타이어(대표 서승화)가 BMW X5에 SUV 전용 타이어인 ‘벤투스 S1 에보²SUV’를 공급한다.\n이번 BMW X5는 기존 MINI와 BMW1, 3, 5시리즈에 이어 신차용 타이어를 공급한 5번째 모델이다.\n한국타이어는 독일 3대 명차들의 최고급 세단에 이어 SUV까지 공급함으로써 기술력과 품질을 인정받았다.\nBMW X5에 공급되는 ‘벤투스 S1 에보² SUV’는 다이나믹한 스포츠 기능들을 적용한 SUV 전용 초고성능 타이어다.\n이 플래그십 모델은 고성능 자동차 운전자들을 겨냥한 ‘벤투스 S1 에보²’의 컨셉트를 그대로 계승해 BMW X5처럼 스포티하면서도 안락한 프리미엄 SUV의 주행을 최적으로 지원한다.\n최신 실리카 컴파운드를 적용해 회전 저항을 낮추어 연비를 대폭 향상시켰으며, 주행 시 타이어 접촉면을 최대화하는 구조를 적용하여 빗길 운행과 로드 컨택 능력을 강화했다.\n한국타이어 대표이사 서승화 부회장은 “전세계 자동차 시장에서 SUV 세그먼트의 비중이 증가하고 있어, BMW X5에 신차용 타이어를 공급하게 된 것은 큰 의미가 있다”며 “앞으로도 SUV 타이어 공급을 지속적으로 확대해 나가겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국타이어(대표 서승화)가 BMW X5에 SUV 전용 타이어인 ‘벤투스 S1 에보²SUV’를 공급한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 BMW X5는 기존 MINI와 BMW1, 3, 5시리즈에 이어 신차용 타이어를 공급한 5번째 모델이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "한국타이어는 독일 3대 명차들의 최고급 세단에 이어 SUV까지 공급함으로써 기술력과 품질을 인정받았다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "BMW X5에 공급되는 ‘벤투스 S1 에보² SUV’는 다이나믹한 스포츠 기능들을 적용한 SUV 전용 초고성능 타이어다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 플래그십 모델은 고성능 자동차 운전자들을 겨냥한 ‘벤투스 S1 에보²’의 컨셉트를 그대로 계승해 BMW X5처럼 스포티하면서도 안락한 프리미엄 SUV의 주행을 최적으로 지원한다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최신 실리카 컴파운드를 적용해 회전 저항을 낮추어 연비를 대폭 향상시켰으며, 주행 시 타이어 접촉면을 최대화하는 구조를 적용하여 빗길 운행과 로드 컨택 능력을 강화했다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한국타이어 대표이사 서승화 부회장은 “전세계 자동차 시장에서 SUV 세그먼트의 비중이 증가하고 있어, BMW X5에 신차용 타이어를 공급하게 된 것은 큰 의미가 있다”며 “앞으로도 SUV 타이어 공급을 지속적으로 확대해 나가겠다”고 말했다.",
+				"sentenceSize": 134
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하천점용료 5% 이내로 인상폭 제한",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337869",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "'판매 1위' 싼타페TM, 언덕길 취약...현대차 'SW 개선할 것'",
+		"newsSubTitle": "",
+		"newsContent": "최근 내수시장에서 판매 1위를 달리고 있는 현대자동차 중형 스포츠유틸리티차량(SUV) '싼타페TM'이 변속기 오류로 오르막길을 제대로 등판하지 못하는 것으로 나타났다.\n변속이 제대로 이뤄지지 않아서 엔진회전수(RPM)만 높게 올라가고, 속도를 내지 못하는 것이다.\n현대차는 일부러 그런 세팅을 한 것이라고 밝혔다가 소프트웨어(SW) 문제를 인정하고 조치에 나서기로 했다.\n7일 현대차 및 업계에 따르면 싼타페TM은 언덕길을 등판할 때 RPM만 올라가고 속도가 나지 않아 변속이 원활하게 되지 않는 문제가 발생하고 있다.\n싼타페TM은 현대파워텍에서 개발한 전륜 8단 자동변속기가 장착된다.\n일반 평지에서는 출발 시 1500~2000rpm 내외에서 저단 변속이 이뤄진다.\n하지만 언덕길에서는 3000RPM 이상에서 변속이 되고, 가속도 제대로 이뤄지지 않는 것으로 나타났다.\n가속이 충분히 되지 않으면 변속이 안 될 뿐만 아니라, 언덕길에서 사고를 유발할 수도 있는 것으로 전해졌다.\n싼타페TM 동호회 및 많은 운전자들은 현대차에 해당 문제를 제기하고 해결을 요구했다.\n또 안전에 대한 위협이 있다는 이유로 리콜을 요구하기도 했다.\n이에 대해 현대차는 아무런 문제가 없다는 입장을 내놓았다.\n싼타페TM의 경우 등판로 주행 시 기어비 변화와 최적의 운전성을 구현하기 위해서 기존 변속기 대비 '저단 고RPM' 사용 영역을 늘렸다는 것이다.\n하지만 고객 불만은 계속되고, 변속기 자체 결함에 대한 의혹이 제기됐다.\n실제 동일한 8단 자동변속기를 사용하는 그랜저IG, K7, 맥스크루즈, 쏘렌토 등은 주행 중 기어가 5단에 고정되는 결함이 발생한 바 있다.\n당시 문제는 5단에 고정된 기어가 수동모드로 변속해도 바뀌지 않으면서 엔진에서 강력한 충격이 발생하고, 엔진경고등이 들어왔다. 고속에서는 기어가 5단으로 낮아진 탓에 RPM이 상승하고 속도가 급격히 감소해 사고 위험도 높았다.\n결국 현대차는 무상수리를 통해 문제를 해결했다.\n싼타페TM 언덕길 문제 역시 고객 불만이 가중화되면서 최근 현대차 측은 사태 진압에 나섰다.\n현대차에 따르면 해당 문제는 미션제어장치(TCU) 세팅 때문에 발생해 SW 업그레이드로 해결이 가능하다는 것이다.\n현대차 관계자는 “싼타페TM에서 발생한 문제는 과거 맥스크루즈, 쏘렌토 등에서도 발생한 것으로, TCU 업그레이드를 통해 개선했다”면서 “SW 개선으로 간단히 해결할 수 있기 때문에 리콜 조치할 계획은 없다”고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 내수시장에서 판매 1위를 달리고 있는 현대자동차 중형 스포츠유틸리티차량(SUV) '싼타페TM'이 변속기 오류로 오르막길을 제대로 등판하지 못하는 것으로 나타났다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "변속이 제대로 이뤄지지 않아서 엔진회전수(RPM)만 높게 올라가고, 속도를 내지 못하는 것이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "현대차는 일부러 그런 세팅을 한 것이라고 밝혔다가 소프트웨어(SW) 문제를 인정하고 조치에 나서기로 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "7일 현대차 및 업계에 따르면 싼타페TM은 언덕길을 등판할 때 RPM만 올라가고 속도가 나지 않아 변속이 원활하게 되지 않는 문제가 발생하고 있다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "싼타페TM은 현대파워텍에서 개발한 전륜 8단 자동변속기가 장착된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일반 평지에서는 출발 시 1500~2000rpm 내외에서 저단 변속이 이뤄진다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만 언덕길에서는 3000RPM 이상에서 변속이 되고, 가속도 제대로 이뤄지지 않는 것으로 나타났다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "가속이 충분히 되지 않으면 변속이 안 될 뿐만 아니라, 언덕길에서 사고를 유발할 수도 있는 것으로 전해졌다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "싼타페TM 동호회 및 많은 운전자들은 현대차에 해당 문제를 제기하고 해결을 요구했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "또 안전에 대한 위협이 있다는 이유로 리콜을 요구하기도 했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이에 대해 현대차는 아무런 문제가 없다는 입장을 내놓았다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "싼타페TM의 경우 등판로 주행 시 기어비 변화와 최적의 운전성을 구현하기 위해서 기존 변속기 대비 '저단 고RPM' 사용 영역을 늘렸다는 것이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "하지만 고객 불만은 계속되고, 변속기 자체 결함에 대한 의혹이 제기됐다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "실제 동일한 8단 자동변속기를 사용하는 그랜저IG, K7, 맥스크루즈, 쏘렌토 등은 주행 중 기어가 5단에 고정되는 결함이 발생한 바 있다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "당시 문제는 5단에 고정된 기어가 수동모드로 변속해도 바뀌지 않으면서 엔진에서 강력한 충격이 발생하고, 엔진경고등이 들어왔다. 고속에서는 기어가 5단으로 낮아진 탓에 RPM이 상승하고 속도가 급격히 감소해 사고 위험도 높았다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "결국 현대차는 무상수리를 통해 문제를 해결했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "싼타페TM 언덕길 문제 역시 고객 불만이 가중화되면서 최근 현대차 측은 사태 진압에 나섰다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "현대차에 따르면 해당 문제는 미션제어장치(TCU) 세팅 때문에 발생해 SW 업그레이드로 해결이 가능하다는 것이다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "현대차 관계자는 “싼타페TM에서 발생한 문제는 과거 맥스크루즈, 쏘렌토 등에서도 발생한 것으로, TCU 업그레이드를 통해 개선했다”면서 “SW 개선으로 간단히 해결할 수 있기 때문에 리콜 조치할 계획은 없다”고 밝혔다.",
+				"sentenceSize": 122
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'판매 1위' 싼타페TM, 언덕길 취약...현대차 'SW 개선할 것'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

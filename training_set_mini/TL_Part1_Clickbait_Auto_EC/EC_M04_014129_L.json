@@ -1,0 +1,330 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014129",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "[재밌는 IT이야기] 스마트 콘센트 기술",
+		"newsSubTitle": "에너지, 아낀만큼 돌려받으세요",
+		"newsContent": "▲ 정길호 ETRI 홍보팀장에너지는 그동안 일방적이고 수동적으로만 절약을 강조해 왔다.\n이렇게 되면 에너지를 아끼기 어렵다.\n그런데 국내 연구진이 아낀 에너지 만큼 인센티브로 되돌려 받을 수 있는 기술개발에 성공했다.\n이로써 귀찮기만 했던 에너지 절약이 사용자에게 포인트를 제공함으로써 자발적, 능동적으로 될 전망이다.\n또 기존 건물들은 에너지 절감자체가 시스템 제공자, 운영자 중심이었다.\n에너지 소비량의 측정과 모니터링 서비스가 주를 이루었으며, 시스템 비용 또한 만만치 않았다.\n국내 연구진이 이번에 개발한 핵심기술은 개인별 에너지 소비량 측정·전달 기술이다.\n연구진은 콘센트내에 전력 미터링과 센싱이 가능한 칩을 내장시켰다.\n일명 '스마트 플러그'다.\n스마트 플러그 내의 스마트 유틸리티 네트워크(SUN)칩셋과 통신모듈을 통해 무선으로 정보를 서버로 전달한다.\n이를 통해 개인별 에너지 사용측정과 제어가 가능하다.\nSUN칩은 ETRI(한국전자통신연구원)가 국제표준을 주도하고 있는 무선통신 기술이다.\n사용자는 스마트폰과 PC에 간단히 '앱'을 다운로드 받아 이용하면 된다.\n단순히 앱이 실행되는 스마트폰을 가지고 있으면 되고, 블루투스 비콘(Beacon)을 통해 사용자의 재실(在室), 계단 이용 등을 인지하게 된다.\n이로써 조명, PC 등의 장치를 제어하고, 에너지 절감시에 포인트를 자동으로 받는 형태다.\n물론 포인트는 향후 적립되어 개인이 사용할 수도 있다.\n근무자가 자리를 떠나면 개인 PC가 즉시 절전모드로 전환된다.\n또 모니터와 실내조명의 전원도 자동으로 차단된다.\n반대로 근무자가 자리로 돌아와서 착석하기 전 이전 상태로 복원도 된다.\n이런 모든 과정이 사용자가 별도의 행위 없이 자동으로 이루어 진다.\n스마트폰의 앱은 사무실내 또는 계단옆에 부착된 비콘과 블루투스로 연결되는데 사용자의 사무실 출입여부와 계단이용 여부를 판단한다.\n또 사무실에서는 책상위의 재석(在席) 감지 센서를 통해 착석여부를 세부적으로 파악한다.\n실제 업무 환경에서만 PC 등이 동작하게 되는 것이다.\n연구진은 실제 해당 연구실 연구원들을 대상으로 실험한 결과, 조명의 경우 15%, PC의 경우 26%의 에너지 절감이 가능했다고 설명했다.\n연구진은 본 기술을 조명이나 PC 사용이 많은 대형 사무용·상업용 건물에 도입시 더욱 체계적이고, 에너지 효율을 더욱 높일 수 있을 것으로 보고 있다.\n이번 개발된 기술은 개인별 상황 정보를 수집하고, 조명 등 설비를 제어하기 위한 블루투스 저전력(BLE)을 사용한다.\n따라서 향후 에너지 절감은 물론, 에너지 절약 노력에 따라 차등화 된 에너지 절감 포인트를 제공할 수 있기 때문에 사용자의 효과적인 동기 부여가 가능할 것으로 연구진은 보고 있다.\n시장조사 전문기관은 오는 2017년 소비자 분야 에너지관리정보시스템 세계시장은 684억불 상당으로 예측하고 있다.\n한편, 연구진은 지난 2월, 전북 진안의 홍삼한방 스파(SPA) 시설에 최첨단 ICT기술을 접목해 에너지 효율을 높이는 노력들을 계속 하고 있다.\n홍삼스파 등에 전력미터기를 설치하고 연구진이 개발한 SW기술을 건물관리 통합서버에 설치, 에너지 모니터링과 수급 최적화 기술을 적용하게 된다.\n본 사업명은 'I-My-Me & You 에너지 사업' 이다.\n내가 생산하고 내가 소유하며 나를 위한 기술로 내가 거래한다는 뜻이다.\n에너지 통합관리를 통한 에너지 다이어트 서비스라고 연구진은 덧붙였다.\n재밌는 IT세상이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 34,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "▲ 정길호 ETRI 홍보팀장에너지는 그동안 일방적이고 수동적으로만 절약을 강조해 왔다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이렇게 되면 에너지를 아끼기 어렵다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "그런데 국내 연구진이 아낀 에너지 만큼 인센티브로 되돌려 받을 수 있는 기술개발에 성공했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이로써 귀찮기만 했던 에너지 절약이 사용자에게 포인트를 제공함으로써 자발적, 능동적으로 될 전망이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "또 기존 건물들은 에너지 절감자체가 시스템 제공자, 운영자 중심이었다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "에너지 소비량의 측정과 모니터링 서비스가 주를 이루었으며, 시스템 비용 또한 만만치 않았다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국내 연구진이 이번에 개발한 핵심기술은 개인별 에너지 소비량 측정·전달 기술이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구진은 콘센트내에 전력 미터링과 센싱이 가능한 칩을 내장시켰다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "일명 '스마트 플러그'다.",
+				"sentenceSize": 14
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "스마트 플러그 내의 스마트 유틸리티 네트워크(SUN)칩셋과 통신모듈을 통해 무선으로 정보를 서버로 전달한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이를 통해 개인별 에너지 사용측정과 제어가 가능하다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "SUN칩은 ETRI(한국전자통신연구원)가 국제표준을 주도하고 있는 무선통신 기술이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "사용자는 스마트폰과 PC에 간단히 '앱'을 다운로드 받아 이용하면 된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "단순히 앱이 실행되는 스마트폰을 가지고 있으면 되고, 블루투스 비콘(Beacon)을 통해 사용자의 재실(在室), 계단 이용 등을 인지하게 된다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이로써 조명, PC 등의 장치를 제어하고, 에너지 절감시에 포인트를 자동으로 받는 형태다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "물론 포인트는 향후 적립되어 개인이 사용할 수도 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "근무자가 자리를 떠나면 개인 PC가 즉시 절전모드로 전환된다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "또 모니터와 실내조명의 전원도 자동으로 차단된다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "반대로 근무자가 자리로 돌아와서 착석하기 전 이전 상태로 복원도 된다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "이런 모든 과정이 사용자가 별도의 행위 없이 자동으로 이루어 진다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "스마트폰의 앱은 사무실내 또는 계단옆에 부착된 비콘과 블루투스로 연결되는데 사용자의 사무실 출입여부와 계단이용 여부를 판단한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "또 사무실에서는 책상위의 재석(在席) 감지 센서를 통해 착석여부를 세부적으로 파악한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "실제 업무 환경에서만 PC 등이 동작하게 되는 것이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "연구진은 실제 해당 연구실 연구원들을 대상으로 실험한 결과, 조명의 경우 15%, PC의 경우 26%의 에너지 절감이 가능했다고 설명했다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "연구진은 본 기술을 조명이나 PC 사용이 많은 대형 사무용·상업용 건물에 도입시 더욱 체계적이고, 에너지 효율을 더욱 높일 수 있을 것으로 보고 있다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "이번 개발된 기술은 개인별 상황 정보를 수집하고, 조명 등 설비를 제어하기 위한 블루투스 저전력(BLE)을 사용한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "따라서 향후 에너지 절감은 물론, 에너지 절약 노력에 따라 차등화 된 에너지 절감 포인트를 제공할 수 있기 때문에 사용자의 효과적인 동기 부여가 가능할 것으로 연구진은 보고 있다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "시장조사 전문기관은 오는 2017년 소비자 분야 에너지관리정보시스템 세계시장은 684억불 상당으로 예측하고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "한편, 연구진은 지난 2월, 전북 진안의 홍삼한방 스파(SPA) 시설에 최첨단 ICT기술을 접목해 에너지 효율을 높이는 노력들을 계속 하고 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "홍삼스파 등에 전력미터기를 설치하고 연구진이 개발한 SW기술을 건물관리 통합서버에 설치, 에너지 모니터링과 수급 최적화 기술을 적용하게 된다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "본 사업명은 'I-My-Me & You 에너지 사업' 이다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "내가 생산하고 내가 소유하며 나를 위한 기술로 내가 거래한다는 뜻이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 33,
+				"sentenceContent": "에너지 통합관리를 통한 에너지 다이어트 서비스라고 연구진은 덧붙였다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 34,
+				"sentenceContent": "재밌는 IT세상이다.",
+				"sentenceSize": 11
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "카이스트 '명품인재 양성' 돌입",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 33,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 34,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

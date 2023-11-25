@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325955",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "소재·부품",
+		"newsTitle": "콘티넨털-오스람, 자동차용 조명 합작법인 추진",
+		"newsSubTitle": "",
+		"newsContent": "독일 콘티넨털과 오스람이 자동차 산업용 조명 개발을 위해 합작법인 설립을 계획 중인 것으로 알려졌다.\n13일 로이터는 콘티넨털과 오스람이 자동차용 조명 개발을 위한 합작법인을 추진하고 있다는 독일 주간지 바르츠샤프트보케(Wirtschaftswoche) 기사를 인용해 이같이 보도했다.\n바르츠샤프트보케는 금요일판에 발행할 사전 보도에서 조명기업 오스람이 자사의 자동차 조명 사업 일부를 합작사에 포함하고 콘티넨털은 전자 제어 시스템 사업을 포함할 예정이라고 알렸다.\n합작법인은 내년 초 시작할 예정이다.\n직원은 약 1500명 수준이며 양사는 새로운 사업에서 각각 2억유로(약 2603억원)와 3억유로(약 3904억원) 매출이 발생할 수 있다고 이 잡지는 전했다.\n오스람과 콘티넨털은 자동차 분야 제품 개발을 위해 합작 투자에 대한 협상을 했지만 상업적 조건 합의에는 아직 도달하지 못했다고 전했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "독일 콘티넨털과 오스람이 자동차 산업용 조명 개발을 위해 합작법인 설립을 계획 중인 것으로 알려졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "13일 로이터는 콘티넨털과 오스람이 자동차용 조명 개발을 위한 합작법인을 추진하고 있다는 독일 주간지 바르츠샤프트보케(Wirtschaftswoche) 기사를 인용해 이같이 보도했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "바르츠샤프트보케는 금요일판에 발행할 사전 보도에서 조명기업 오스람이 자사의 자동차 조명 사업 일부를 합작사에 포함하고 콘티넨털은 전자 제어 시스템 사업을 포함할 예정이라고 알렸다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "합작법인은 내년 초 시작할 예정이다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "직원은 약 1500명 수준이며 양사는 새로운 사업에서 각각 2억유로(약 2603억원)와 3억유로(약 3904억원) 매출이 발생할 수 있다고 이 잡지는 전했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "오스람과 콘티넨털은 자동차 분야 제품 개발을 위해 합작 투자에 대한 협상을 했지만 상업적 조건 합의에는 아직 도달하지 못했다고 전했다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "콘티넨털-오스람, 자동차용 조명 합작법인 추진",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

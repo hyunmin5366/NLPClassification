@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333450",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "모빌리티",
+		"newsTitle": "르노삼성차, 연휴 3일 더 쉰다...\\\"수요 부진과 무관\\\"",
+		"newsSubTitle": "",
+		"newsContent": "르노삼성자동차가 30일부터 11일간 부산공장 생산라인을 멈춰 세운다.\n회사는 5월 황금연휴를 맞아 공장 가동 일정을 탄력적으로 조정했다며 차량 수요와 무관하다는 입장이다.\n27일 르노삼성차에 따르면 부산공장은 30일부터 내달 10일까지 가동이 중단된다.\n올해 부산공장 생산라인이 멈춰선 건 2월 중국산 부품인 와이어링 하네스 재고 부족에 이어 두 번째다.\n다만 르노삼성차는 이번 장기간 공장 가동 중단이 코로나19에 따른 차량 수요 침체와 무관하다며 확대 해석을 경계했다.\n르노삼성차는 스포츠유틸리티차량(SUV) 'XM3' 생산에 집중하고 있다.\n누적 계약대수는 2만대를 넘어섰지만 출고대수는 1만대를 웃도는 수준이다.\n지난달 북미 수출용 닛산 '로그' 위탁 생산이 중단된 건 공장 가동률에 부정적이다.\n르노삼성차 관계자는 “황금연휴에 이어 긴 연휴를 직원에 제공하는 것”이라며 “생산과 출고 일정 등을 종합적으로 고려해 연휴 기간을 산정했다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "르노삼성자동차가 30일부터 11일간 부산공장 생산라인을 멈춰 세운다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "회사는 5월 황금연휴를 맞아 공장 가동 일정을 탄력적으로 조정했다며 차량 수요와 무관하다는 입장이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "27일 르노삼성차에 따르면 부산공장은 30일부터 내달 10일까지 가동이 중단된다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "올해 부산공장 생산라인이 멈춰선 건 2월 중국산 부품인 와이어링 하네스 재고 부족에 이어 두 번째다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만 르노삼성차는 이번 장기간 공장 가동 중단이 코로나19에 따른 차량 수요 침체와 무관하다며 확대 해석을 경계했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "르노삼성차는 스포츠유틸리티차량(SUV) 'XM3' 생산에 집중하고 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "누적 계약대수는 2만대를 넘어섰지만 출고대수는 1만대를 웃도는 수준이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "지난달 북미 수출용 닛산 '로그' 위탁 생산이 중단된 건 공장 가동률에 부정적이다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "르노삼성차 관계자는 “황금연휴에 이어 긴 연휴를 직원에 제공하는 것”이라며 “생산과 출고 일정 등을 종합적으로 고려해 연휴 기간을 산정했다”고 말했다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "르노삼성차, 연휴 3일 더 쉰다...\\\"수요 부진과 무관\\\"",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

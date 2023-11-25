@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004746",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "\\\"지문으로 결제\\\" 삼성전자, 생체인증카드 출시",
+		"newsSubTitle": "하드웨어 보안칩·지문 센서·보안 프로세서 하나로 통합 비밀번호 입력 불필요…사용자 편의성·보안성 대폭 향상",
+		"newsContent": "삼성전자가 25일 지문인증 집적회로(IC)를 탑재한 생체인증카드를 출시했다.\n이 카드는 하드웨어 보안칩(SE), 지문 센서, 보안 프로세서를 생체인증카드용 솔루션으로 통합, IC칩에 넣었다.\n각각 탑재되던 보안 기능을 하나의 IC칩에 적용한 뒤 내부 회로 설계를 간소화한 것은 삼성전자가 처음이다.\n지문 센서에 손가락을 올린 상태에서 카드를 단말기에 삽입하거나 터치하면 결제가 진행된다.\n하드웨어 보안 칩이 다양한 해킹 방식으로부터 정보가 빠져나가지 않게 지문 정보를 암호화하고, 안전하게 저장해준다.\n보안 프로세서로 허가 받지 않은 지문을 빠르고 정확하게 파악할 수 있다.\n해킹 방지 기술도 갖춰 위조된 지문을 활용해 보안 시스템에 접근하는 것을 사전에 방지한다.\n사용 편의성과 보안 양쪽에서 뛰어나다는 게 삼성전자의 설명이다.\n삼성전자 관계자는 데일리임팩트에 \\\"생체인증카드의 세 가지 핵심 기능을 하나로 통합한 게 특징\\\"이라며 \\\"멤버십카드나 출입카드, 학생증 등 사용자 인증이 필요한 분야라면 다양하게 활용할 수 있다\\\"고 말했다.\n특히 해외결제 시 발생할 수 있는 보안사고 위험을 줄였다.\n지문을 읽고 인증하는 방식이라 비밀번호 입력, PIN 인증 등이 필요하지 않다.\n그만큼 비밀번호 노출의 우려가 없다.\n본인만 결제가 가능해 실물 카드 도난·분실에 따른 결제 피해를 줄일 수 있다.\n삼성전자 지문인증IC는 마스터카드사의 생체인식 평가(BEPS)를 통과해 보안성을 입증했다.\n보안 국제공통 평가 기준(CC)의 EAL6+ 등급과 글로벌 온라인 카드 결제 기술표준(EMVCo) 인증도 획득했다.\n보안 국제 공통 평가 기준은 0부터 7까지 등급이 나눠져 있으며, 7에 가까울수록 보안 수준이 높다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성전자가 25일 지문인증 집적회로(IC)를 탑재한 생체인증카드를 출시했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 카드는 하드웨어 보안칩(SE), 지문 센서, 보안 프로세서를 생체인증카드용 솔루션으로 통합, IC칩에 넣었다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "각각 탑재되던 보안 기능을 하나의 IC칩에 적용한 뒤 내부 회로 설계를 간소화한 것은 삼성전자가 처음이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "지문 센서에 손가락을 올린 상태에서 카드를 단말기에 삽입하거나 터치하면 결제가 진행된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "하드웨어 보안 칩이 다양한 해킹 방식으로부터 정보가 빠져나가지 않게 지문 정보를 암호화하고, 안전하게 저장해준다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보안 프로세서로 허가 받지 않은 지문을 빠르고 정확하게 파악할 수 있다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "해킹 방지 기술도 갖춰 위조된 지문을 활용해 보안 시스템에 접근하는 것을 사전에 방지한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "사용 편의성과 보안 양쪽에서 뛰어나다는 게 삼성전자의 설명이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "삼성전자 관계자는 데일리임팩트에 \\\"생체인증카드의 세 가지 핵심 기능을 하나로 통합한 게 특징\\\"이라며 \\\"멤버십카드나 출입카드, 학생증 등 사용자 인증이 필요한 분야라면 다양하게 활용할 수 있다\\\"고 말했다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특히 해외결제 시 발생할 수 있는 보안사고 위험을 줄였다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "지문을 읽고 인증하는 방식이라 비밀번호 입력, PIN 인증 등이 필요하지 않다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "그만큼 비밀번호 노출의 우려가 없다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "본인만 결제가 가능해 실물 카드 도난·분실에 따른 결제 피해를 줄일 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "삼성전자 지문인증IC는 마스터카드사의 생체인식 평가(BEPS)를 통과해 보안성을 입증했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "보안 국제공통 평가 기준(CC)의 EAL6+ 등급과 글로벌 온라인 카드 결제 기술표준(EMVCo) 인증도 획득했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "보안 국제 공통 평가 기준은 0부터 7까지 등급이 나눠져 있으며, 7에 가까울수록 보안 수준이 높다.",
+				"sentenceSize": 56
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[쇼핑뉴스] 홈플러스, 설 맞이 주방용품 “반값 할인 기회 잡으세요”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

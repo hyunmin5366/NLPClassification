@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338270",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "네트워크",
+		"newsTitle": "엘에스디테크, 고성능 GPU 서버 2종 출시… L4205S-5G, L4210S-10G 모델",
+		"newsSubTitle": "",
+		"newsContent": "고성능서버 전문제조사 엘에스디테크(대표 김승욱)가 4U 서버에 각각 GPU를 5개, 10~20개 탑재할 L4205S-5G, L4210S-10G 두 가지 모델을 출시했다고 21일 밝혔다.\n현재 업계에서는 4개, 8개 단위로 GPU를 장착하는 서버가 주류를 이루고 있다.\n8개 이상 GPU는 성능 향상이 어렵다.\n서버의 메인보드가 기본 듀얼루트 구조로 CPU가 처리하는 PCI-e 슬롯이 정해져 있어 복수 GPU를 통합 처리하는 것보다 여러 사용자에게 분산 처리하는 것이 유리하기 때문이다.\n회사 관계자는 “이러한 아키텍처 한계를 극복하기 위해 듀얼루트 기능과 싱글루트 기능을 혼합한 멀티 GPU의 통합·분산 기술력을 바탕으로 GPU 10개 모두 성능을 내며 최대 130%까지 더 향상시킬 수 있다”고 밝혔다.\n그는 또 “당사 서버는 머신러닝 성능 측정을 위한 텐서플로 테스트, 그래픽 연산능력에 해당하는 3D Mark 벤치마크 테스트를 거쳤다”면서 “서버의 하드웨어 성능에 해당하는 플롭스 테스트 등 공인된 벤치마크 테스트를 통해 모든 부문에서 타사 GPU서버에 비해 성능이 앞서고 있음을 확인했다”고 덧붙였다.\n회사 GPU 서버는 GPU 전용 보드에 RAID카드, 네트워크카드(10Gbps~100Gbps), HBA카드 등을 활용 할 수 있다.\nGPU 성능 외에 DISK IO 10GB/sec, 네트워크 12GB/sec 성능을 복합적으로 활용이 가능한 업계 최초·최고 하이브리드 기능을 갖췄다.\n또 법률 인공지능(AI) 전문기업 인텔리콘과 나이트 비전 CCTV AI개발사 유니셈, 음성 AI를 활용한 CRM 전문회사 위고 등에 납품·테스트를 마치며 고객사를 확보, 제품 안정성도 입증했다.\n김승욱 대표는 “최신 하이브리드 GPU 서버는 경쟁 제품의 한계를 뛰어넘는 제품으로 성능 향상과 비용 절감에 도움을 준다”면서 “회사가 야심차게 추진하고 있는 데이터센터의 GPU 서버 임대서비스 사업의 핵심 제품으로도 사용하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "고성능서버 전문제조사 엘에스디테크(대표 김승욱)가 4U 서버에 각각 GPU를 5개, 10~20개 탑재할 L4205S-5G, L4210S-10G 두 가지 모델을 출시했다고 21일 밝혔다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현재 업계에서는 4개, 8개 단위로 GPU를 장착하는 서버가 주류를 이루고 있다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "8개 이상 GPU는 성능 향상이 어렵다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서버의 메인보드가 기본 듀얼루트 구조로 CPU가 처리하는 PCI-e 슬롯이 정해져 있어 복수 GPU를 통합 처리하는 것보다 여러 사용자에게 분산 처리하는 것이 유리하기 때문이다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "회사 관계자는 “이러한 아키텍처 한계를 극복하기 위해 듀얼루트 기능과 싱글루트 기능을 혼합한 멀티 GPU의 통합·분산 기술력을 바탕으로 GPU 10개 모두 성능을 내며 최대 130%까지 더 향상시킬 수 있다”고 밝혔다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "그는 또 “당사 서버는 머신러닝 성능 측정을 위한 텐서플로 테스트, 그래픽 연산능력에 해당하는 3D Mark 벤치마크 테스트를 거쳤다”면서 “서버의 하드웨어 성능에 해당하는 플롭스 테스트 등 공인된 벤치마크 테스트를 통해 모든 부문에서 타사 GPU서버에 비해 성능이 앞서고 있음을 확인했다”고 덧붙였다.",
+				"sentenceSize": 169
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "회사 GPU 서버는 GPU 전용 보드에 RAID카드, 네트워크카드(10Gbps~100Gbps), HBA카드 등을 활용 할 수 있다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "GPU 성능 외에 DISK IO 10GB/sec, 네트워크 12GB/sec 성능을 복합적으로 활용이 가능한 업계 최초·최고 하이브리드 기능을 갖췄다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 법률 인공지능(AI) 전문기업 인텔리콘과 나이트 비전 CCTV AI개발사 유니셈, 음성 AI를 활용한 CRM 전문회사 위고 등에 납품·테스트를 마치며 고객사를 확보, 제품 안정성도 입증했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "김승욱 대표는 “최신 하이브리드 GPU 서버는 경쟁 제품의 한계를 뛰어넘는 제품으로 성능 향상과 비용 절감에 도움을 준다”면서 “회사가 야심차게 추진하고 있는 데이터센터의 GPU 서버 임대서비스 사업의 핵심 제품으로도 사용하겠다”고 말했다.",
+				"sentenceSize": 134
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엘에스디테크, 고성능 GPU 서버 2종 출시… L4205S-5G, L4210S-10G 모델",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

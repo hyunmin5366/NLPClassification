@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_324789",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "데브옵스, 보안 인증서도 챙겨야",
+		"newsSubTitle": "",
+		"newsContent": "최근 한 글로벌 금융사에서 예상치 못한 곳에서 인증서 문제로 곤혹을 치렀다.\n마이크로서비스에 적용된 보안 인증서가 만료된 사실을 인식하지 못해 개발·운영에 차질을 빚었다.\n민첩하고 유연한 IT프로세스를 추구하는 데브옵스가 소프트웨어(SW) 개발·운영 방법론으로 각광받으면서 세계적으로 마이크로서비스 아키텍처(MSA)를 도입하는 곳이 늘었다.\nIT관리 대상이 늘어나면서 인증서 관리 소홀 위험도 함께 증가한다.\nMSA는 앱프로그래밍인터페이스(API)로 마이크로서비스 상호 간 정보를 주고받도록 설계된다.\n개별 마이크로서비스 간 데이터에 전송계층보안(TLS) 프로토콜이 적용돼 암호화된 상태(HTTPS)로 전송된다.\n이 과정에서 인터넷 서비스와 같이 보안 인증서를 필요로 한다.\n각 인증서에 유효기간이 있다는 점도 마찬가지다.\n기업 IT담당자는 마이크로서비스에 적용된 인증서도 사용기간이나 보안정책에 따라 주기적으로 업데이트를 해야 한다.\n도커(Docker) 컨테이너를 활용할 경우 사설 도커 이미지 저장소에 대한 인증서도 주기적으로 교체한다.\n대부분 인증서는 유효기간이 1년이다.\n만료 전에 업데이트가 이뤄지지 않으면 해당 서비스에 다운타임이 발생한다.\n만약 10개 마이크로서비스가 각각 100개 가상머신(VM)이나 컨테이너 위에서 구동하는 경우, 1000개에 달하는 리소스에 10가지 인증서 업데이트가 요구된다.\n이러한 어려움 때문에 최근 '크레드허브(Cred Hub)'와 같은 오픈소스 인증서 관리 자동화 도구가 CI·CD(지속적 통합·배포) 도구와 함께 제공되는 추세다.\n쿠버네티스(Kubernetes)에서도 인증서를 교체할 수 있는 도구를 제공한다.\n정윤진 피보탈코리아 수석은 “기업 서비스 복잡도가 증가할수록 챙겨야 할 인증서 종류와 수량이 많아진다”면서 “기업 IT담당자는 보안 인증서 관리와 업데이트, 그리고 CI/CD 등 주요 도구의 인증방법을 필수적으로 염두에 둬야 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "최근 한 글로벌 금융사에서 예상치 못한 곳에서 인증서 문제로 곤혹을 치렀다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "마이크로서비스에 적용된 보안 인증서가 만료된 사실을 인식하지 못해 개발·운영에 차질을 빚었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "민첩하고 유연한 IT프로세스를 추구하는 데브옵스가 소프트웨어(SW) 개발·운영 방법론으로 각광받으면서 세계적으로 마이크로서비스 아키텍처(MSA)를 도입하는 곳이 늘었다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "IT관리 대상이 늘어나면서 인증서 관리 소홀 위험도 함께 증가한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "MSA는 앱프로그래밍인터페이스(API)로 마이크로서비스 상호 간 정보를 주고받도록 설계된다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "개별 마이크로서비스 간 데이터에 전송계층보안(TLS) 프로토콜이 적용돼 암호화된 상태(HTTPS)로 전송된다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이 과정에서 인터넷 서비스와 같이 보안 인증서를 필요로 한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "각 인증서에 유효기간이 있다는 점도 마찬가지다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "기업 IT담당자는 마이크로서비스에 적용된 인증서도 사용기간이나 보안정책에 따라 주기적으로 업데이트를 해야 한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "도커(Docker) 컨테이너를 활용할 경우 사설 도커 이미지 저장소에 대한 인증서도 주기적으로 교체한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "대부분 인증서는 유효기간이 1년이다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "만료 전에 업데이트가 이뤄지지 않으면 해당 서비스에 다운타임이 발생한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "만약 10개 마이크로서비스가 각각 100개 가상머신(VM)이나 컨테이너 위에서 구동하는 경우, 1000개에 달하는 리소스에 10가지 인증서 업데이트가 요구된다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이러한 어려움 때문에 최근 '크레드허브(Cred Hub)'와 같은 오픈소스 인증서 관리 자동화 도구가 CI·CD(지속적 통합·배포) 도구와 함께 제공되는 추세다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "쿠버네티스(Kubernetes)에서도 인증서를 교체할 수 있는 도구를 제공한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "정윤진 피보탈코리아 수석은 “기업 서비스 복잡도가 증가할수록 챙겨야 할 인증서 종류와 수량이 많아진다”면서 “기업 IT담당자는 보안 인증서 관리와 업데이트, 그리고 CI/CD 등 주요 도구의 인증방법을 필수적으로 염두에 둬야 한다”고 말했다.",
+				"sentenceSize": 135
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "데브옵스, 보안 인증서도 챙겨야",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

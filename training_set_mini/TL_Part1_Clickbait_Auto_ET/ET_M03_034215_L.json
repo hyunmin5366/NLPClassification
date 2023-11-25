@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_034215",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "아직 팬서비스가 낯선 여자 아이돌",
+		"newsSubTitle": "",
+		"newsContent": "온라인 커뮤니티서 \\\"아직 팬들이 낯선 듯한 블랙핑크 리사\\\"란 글이 화제다.\n한 게시자는 \\\"팬들이 찍으니까 부끄부끄 한다\\\"며 걸그룹 '블랙핑크' 리사의 사진들을 게재했다.\n사진 속 리사는 부끄러운 듯 얼굴을 가린 채 팬들에게 화답한다.\n이어 게시자는 \\\"팬서비스 하다가도 급 찾아오는 부끄러움\\\"이라며 팬들에게 손하트를 날리던 리사가 이내 부끄러운 듯 숨어버리는 사진을 게재했다.\n다른 사진에서는 리사가 팬서비스로 사랑이 담긴 입김을 불어주지만, 이내 머리를 부여잡으며 부끄러워 한다.\n이에 팬들은 \\\"짱귀탱이다\\\" \\\"리사 너무 귀여워\\\"라며 긍정적인 반응을 보였다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "온라인 커뮤니티서 \\\"아직 팬들이 낯선 듯한 블랙핑크 리사\\\"란 글이 화제다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한 게시자는 \\\"팬들이 찍으니까 부끄부끄 한다\\\"며 걸그룹 '블랙핑크' 리사의 사진들을 게재했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "사진 속 리사는 부끄러운 듯 얼굴을 가린 채 팬들에게 화답한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이어 게시자는 \\\"팬서비스 하다가도 급 찾아오는 부끄러움\\\"이라며 팬들에게 손하트를 날리던 리사가 이내 부끄러운 듯 숨어버리는 사진을 게재했다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다른 사진에서는 리사가 팬서비스로 사랑이 담긴 입김을 불어주지만, 이내 머리를 부여잡으며 부끄러워 한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 팬들은 \\\"짱귀탱이다\\\" \\\"리사 너무 귀여워\\\"라며 긍정적인 반응을 보였다.",
+				"sentenceSize": 46
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "‘런닝맨’ 에이티즈 산, 첩보물 주인공 빙의...하하 “꼴값 떨고 있네”",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013939",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "[이코노미 줌In]빠름 빠름 빠름 보다 '더~ 빠르게'",
+		"newsSubTitle": "KT, 내달 기가와이파이홈 출시 LTE-A의 3배 差 '속도 무제한'",
+		"newsContent": "LTE-A보다 3배 빨리 데이터를 주고받을 수 있는 와이파이(WiFi) 서비스가 나올 전망이다.\nKT는 새로운 무선 네트워크 표준인 802.11ac 규격을 지원하며 최대 867Mbps의 전송 속도를 제공하는'올레 기가 와이파이홈(olleh GiGA WiFi home)을 다음달 2일 출시한다.\n이 서비스는 최근 상용화된 3밴드 LTE-A 속도인 300Mbps 보다 3배 빠른 속도이며 기존에 이용하던 와이파이보다도 약 3배, LTE 대비 약 12배 빠르다.\nAP의 메모리 용량도 2배로 늘어나 가정에서 대가족이 이용해도 속도가 떨어지지 않고, UHD TV 등 대용량 트래픽을 발생시키는 서비스와 동시에 사용해도 느려지지 않는 장점이 있다.\n이번에 출시된 올레 기가 와이파이홈은 월 3000원(3년 약정)에 이용할 수 있다.\n선납 할인 제도를 이용해 3년치 임대료를 한 번에 납부하면 약 17% 추가 할인받는다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LTE-A보다 3배 빨리 데이터를 주고받을 수 있는 와이파이(WiFi) 서비스가 나올 전망이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KT는 새로운 무선 네트워크 표준인 802.11ac 규격을 지원하며 최대 867Mbps의 전송 속도를 제공하는'올레 기가 와이파이홈(olleh GiGA WiFi home)을 다음달 2일 출시한다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 서비스는 최근 상용화된 3밴드 LTE-A 속도인 300Mbps 보다 3배 빠른 속도이며 기존에 이용하던 와이파이보다도 약 3배, LTE 대비 약 12배 빠르다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "AP의 메모리 용량도 2배로 늘어나 가정에서 대가족이 이용해도 속도가 떨어지지 않고, UHD TV 등 대용량 트래픽을 발생시키는 서비스와 동시에 사용해도 느려지지 않는 장점이 있다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이번에 출시된 올레 기가 와이파이홈은 월 3000원(3년 약정)에 이용할 수 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "선납 할인 제도를 이용해 3년치 임대료를 한 번에 납부하면 약 17% 추가 할인받는다.",
+				"sentenceSize": 48
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우리은행, 우크라이나 피해 기업 대상 최대 5억원 대출 지원",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

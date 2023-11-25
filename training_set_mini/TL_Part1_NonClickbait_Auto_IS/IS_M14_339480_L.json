@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339480",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "LG엔솔, 美애리조나 기가급 배터리공장 전면 재검토",
+		"newsSubTitle": "",
+		"newsContent": "LG에너지솔루션이 1조7000억원을 들여 미국에 짓기로 한 배터리 생산공장 구축 계획을 전면 재검토하기로 했다.\n최근 인플레이션(물가상승)과 환율 상승 등으로 당초 계획한 투자비보다 훨씬 더 큰 비용이 투입될 것으로 예상되면서다.\nLG에너지솔루션은 애리조나 신규 공장 건설과 관련해 최근 경영환경 악화에 따른 투자비 급등으로 투자 시점과 규모, 공사 시점 등에 대해 재검토 중이라고 29일 밝혔다.\n당초 LG에너지솔루션은 지난 3월 미국 애리조나주 퀸크리크(Queen Creek)에 1조7000억원을 투자해 연산 11GWh 규모의 원통형 배터리 신규 공장을 구축한다고 발표했다.\n테슬라 등 미국 내 원통형 배터리를 채택한 전기차 고객사가 늘어나는데다 무선 전동공구 등의 수요도 빠르게 늘고 있어 신규 공장을 통해 북미 원통형 시장에 빠르게 대응하겠다는 계획이었다.\n이에 회사는 올해 2분기 착공, 2024년 하반기 양산을 목표로 했으나, 최근 고물가·고환율 등의 여파로 투자비가 2조원대 중반으로 불어날 것으로 예상되면서 투자 계획을 잠시 보류했다.\nLG에너지솔루션 관계자는 “최근 경기 상황이 악화되면서 애리조나 공장 건설을 면밀하게 다시 검토하고 있다”며 “당초 2024년 완공시기가 연기될 가능성이 높다”고 말했다.\nLG에너지솔루션은 다만 제너럴모터스(GM)와 함께 짓는 테네시주 합작2공장(35GWh)과 미시간주 합작3공장(50GWh) 등 합장 공장은 예정대로 진행할 방침이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG에너지솔루션이 1조7000억원을 들여 미국에 짓기로 한 배터리 생산공장 구축 계획을 전면 재검토하기로 했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 인플레이션(물가상승)과 환율 상승 등으로 당초 계획한 투자비보다 훨씬 더 큰 비용이 투입될 것으로 예상되면서다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LG에너지솔루션은 애리조나 신규 공장 건설과 관련해 최근 경영환경 악화에 따른 투자비 급등으로 투자 시점과 규모, 공사 시점 등에 대해 재검토 중이라고 29일 밝혔다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "당초 LG에너지솔루션은 지난 3월 미국 애리조나주 퀸크리크(Queen Creek)에 1조7000억원을 투자해 연산 11GWh 규모의 원통형 배터리 신규 공장을 구축한다고 발표했다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "테슬라 등 미국 내 원통형 배터리를 채택한 전기차 고객사가 늘어나는데다 무선 전동공구 등의 수요도 빠르게 늘고 있어 신규 공장을 통해 북미 원통형 시장에 빠르게 대응하겠다는 계획이었다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이에 회사는 올해 2분기 착공, 2024년 하반기 양산을 목표로 했으나, 최근 고물가·고환율 등의 여파로 투자비가 2조원대 중반으로 불어날 것으로 예상되면서 투자 계획을 잠시 보류했다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "LG에너지솔루션 관계자는 “최근 경기 상황이 악화되면서 애리조나 공장 건설을 면밀하게 다시 검토하고 있다”며 “당초 2024년 완공시기가 연기될 가능성이 높다”고 말했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "LG에너지솔루션은 다만 제너럴모터스(GM)와 함께 짓는 테네시주 합작2공장(35GWh)과 미시간주 합작3공장(50GWh) 등 합장 공장은 예정대로 진행할 방침이다.",
+				"sentenceSize": 91
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG엔솔, 美애리조나 기가급 배터리공장 전면 재검토",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

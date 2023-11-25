@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331254",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "SW",
+		"newsTitle": "동네 카페도 모바일로 주문…언리, 모바일앱 '콩' 출시",
+		"newsSubTitle": "",
+		"newsContent": "대형 프랜차이즈 카페에서 제공하는 모바일 주문시스템을 동네 작은 카페에서도 사용할 수 있게 됐다.\n언리는 카페와 이용자 간 모바일 주문 및 적립 시스템을 제공하는 애플리케이션 '콩'을 개발해 최근 서비스를 시작했다고 밝혔다.\n콩 앱으로 고객은 대기시간을 줄이고 카페는 주문에 소요되는 시간과 인력을 음료 제조에 투입해 보다 효율적으로 카페를 운영 할 수 있다.\n자동 적립되는 쿠폰 혜택과 앱을 통한 카페 홍보 기능도 있다.\n콩은 중소사업자 고정비 부담을 덜어주기 위해 주문완료 건에 대해서만 수수료를 부과한다.\n시범기간인 6월까지는 수수료를 면제한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대형 프랜차이즈 카페에서 제공하는 모바일 주문시스템을 동네 작은 카페에서도 사용할 수 있게 됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "언리는 카페와 이용자 간 모바일 주문 및 적립 시스템을 제공하는 애플리케이션 '콩'을 개발해 최근 서비스를 시작했다고 밝혔다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "콩 앱으로 고객은 대기시간을 줄이고 카페는 주문에 소요되는 시간과 인력을 음료 제조에 투입해 보다 효율적으로 카페를 운영 할 수 있다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "자동 적립되는 쿠폰 혜택과 앱을 통한 카페 홍보 기능도 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "콩은 중소사업자 고정비 부담을 덜어주기 위해 주문완료 건에 대해서만 수수료를 부과한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시범기간인 6월까지는 수수료를 면제한다.",
+				"sentenceSize": 22
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "동네 카페도 모바일로 주문…언리, 모바일앱 '콩' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

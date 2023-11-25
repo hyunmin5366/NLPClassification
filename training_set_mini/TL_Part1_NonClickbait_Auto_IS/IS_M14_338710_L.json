@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338710",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "애플케어 플러스, 손상 보상 총 4회로 확대... 국내도 소급 적용",
+		"newsSubTitle": "",
+		"newsContent": "애플이 자체 제품보증 서비스 '애플케어 플러스' 손상 보상 한도를 종전 연 1회에서 2회, 24개월간 총 4회로 확대했다.\n기존 애플케어 플러스 구매자에게도 남은 기간에 맞춰 동일하게 소급 적용된다.\n애플은 애플케어 플러스 약관을 '12개월 당 2건의 우발적 손상 보장'으로 업데이트했다.\n우발적 사고에 대한 보상 횟수가 늘어났지만 기기별 서비스 요금과 본인 부담금은 종전과 동일하다.\n애플케어 플러스는 아이폰과 아이패드, 애플워치, 에어팟, 맥 등 애플 제품에 대해 우발적 사고에 따른 하드웨어 손상 보상과 소프트웨어 지원을 제공한다.\n대부분 애플 하드웨어에 적용된 기본 1년 제한 보증과 최대 90일간 무상 지원을 별도 비용 지불을 통해 24개월로 연장하는 개념의 보험 상품이다.\n국내에서는 지난해 9월 정식으로 서비스를 출시했다.\n아이폰 시리즈는 기종에 따라 14만9000원~26만9000원, 아이패드는 8만9000원부터, 에어팟프로는 4만5000원이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "애플이 자체 제품보증 서비스 '애플케어 플러스' 손상 보상 한도를 종전 연 1회에서 2회, 24개월간 총 4회로 확대했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기존 애플케어 플러스 구매자에게도 남은 기간에 맞춰 동일하게 소급 적용된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "애플은 애플케어 플러스 약관을 '12개월 당 2건의 우발적 손상 보장'으로 업데이트했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "우발적 사고에 대한 보상 횟수가 늘어났지만 기기별 서비스 요금과 본인 부담금은 종전과 동일하다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "애플케어 플러스는 아이폰과 아이패드, 애플워치, 에어팟, 맥 등 애플 제품에 대해 우발적 사고에 따른 하드웨어 손상 보상과 소프트웨어 지원을 제공한다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대부분 애플 하드웨어에 적용된 기본 1년 제한 보증과 최대 90일간 무상 지원을 별도 비용 지불을 통해 24개월로 연장하는 개념의 보험 상품이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "국내에서는 지난해 9월 정식으로 서비스를 출시했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아이폰 시리즈는 기종에 따라 14만9000원~26만9000원, 아이패드는 8만9000원부터, 에어팟프로는 4만5000원이다.",
+				"sentenceSize": 69
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "애플케어 플러스, 손상 보상 총 4회로 확대... 국내도 소급 적용",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

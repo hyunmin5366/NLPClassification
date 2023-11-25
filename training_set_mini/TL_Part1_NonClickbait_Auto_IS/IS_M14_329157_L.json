@@ -1,0 +1,240 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329157",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[이슈분석]개인정보보호 활용과 보호 '균형점 찾기 어렵네'",
+		"newsSubTitle": "",
+		"newsContent": "개인정보 보호와 활용 조화를 두고 시민단체와 산업계 의견차가 좁혀지지 않는다.\n4차 산업혁명시대 데이터를 기반으로 글로벌 기업이 시장을 선도한다.\n국내 기업은 개인정보보호법에 막혀 산업에 뒤쳐진다며 개인정보 활용을 주장한다.\n시민단체는 개인정보 침해 위협이 높아 데이터 결합을 반대한다.\n정부는 명확한 입장을 정리하지 못한 채 규제혁신을 미뤘다.\n대통령직속 4차산업혁명위원회는 두 차례 규제제도혁신 해커톤을 개최해 '개인정보의 보호와 활용의 조화'를 두고 지속 논의했다.\n2월 1차 해커톤에서 개인정보 법적 체계와 가명정보 정의·활용에 관한 법적 근거 마련은 합의했다.\n데이터 결합과 관련한 구체 방안에 대해서는 시민단체와 산업계가 합의에 이르지 못했다.\n4차산업혁명위도 시민단체와 산업계 사이에서 방향을 정하지 못하고 표류 중이다.\n개인정보 보호와 활용을 위한 거버넌스 개선방안도 마련하지 못했다.\n산업계는 4차 산업혁명시대 새로운 가치를 창출하기 위해 데이터 결합 제도가 필요하다고 목소리를 높인다.\n강력한 개인정보보호법 등으로 인해 첨단 산업기술에서 선진국에 뒤쳐진다고 지적한다.\n산업계는 인가받은 제3의 신뢰기관(TTP·Trusted Third Party)을 통해 데이터 결합을 수행하고 엄격한 안전조치 하에 자체적으로 수행하는 체계를 만들자는 입장이다.\nTTP에 법적 지위를 부여하자고 주장한다.\n정부가 TTP를 상시 감독하고 데이터 결합과정에서 관리적 투명성을 확보하자는 의견을 제시했다.\n결합 데이터는 기존 고객정보가 있는 레거시 시스템과 분리 보관하고 접근 권한도 별도로 부여하는 형태다.\n산업계는 결합 데이터를 당초 목적 내에서만 활용하고 목적 달성시는 폐기한다는 의견을 내놨다.\n시민단체는 세계적으로 민간이 보유한 개인정보를 연계하는 제도를 갖춘 곳은 없다고 반발한다.\n현행 개인정보보호체계 하에서 민간 기업이 보유한 개인정보 연계와 결합을 허용해선 안 된다고 주장했다.\n시민단체는 통계청이나 관련 전문기관이 공익적으로 가치가 큰 연구나 통계 목적으로 데이터를 연계해 결합하는 것만 허용해야 한다는 입장이다.\n유엔유럽경제위원회(UNECE) 원칙에서 규정한 엄격한 거버넌스 체제 하에서 공공기관이 보유한 데이터도 연계하고 결합해야 한다고 강조한다.\n산업계와 시민단체는 데이터 결합이 사회 후생을 증진하는데 중요할 역할을 한다는 데는 합의했다.\n정부가 데이터 결합의 법적 구성방식을 구체화하고 개인정보 침해 위험에 비례해 사전·사후 통제 반안을 마련해야 한다고 봤다.\n정보통신망법, 신용정보법, 위치정보법은 각 부문에서 고유하게 규정할 필요가 있는 사항을 제외하고, 개인정보 보호와 관련한 중복, 유사 조항에 대해서는 통일적 규율이 필요하다는 점을 합의했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 24,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "개인정보 보호와 활용 조화를 두고 시민단체와 산업계 의견차가 좁혀지지 않는다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "4차 산업혁명시대 데이터를 기반으로 글로벌 기업이 시장을 선도한다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국내 기업은 개인정보보호법에 막혀 산업에 뒤쳐진다며 개인정보 활용을 주장한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시민단체는 개인정보 침해 위협이 높아 데이터 결합을 반대한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "정부는 명확한 입장을 정리하지 못한 채 규제혁신을 미뤘다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대통령직속 4차산업혁명위원회는 두 차례 규제제도혁신 해커톤을 개최해 '개인정보의 보호와 활용의 조화'를 두고 지속 논의했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "2월 1차 해커톤에서 개인정보 법적 체계와 가명정보 정의·활용에 관한 법적 근거 마련은 합의했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "데이터 결합과 관련한 구체 방안에 대해서는 시민단체와 산업계가 합의에 이르지 못했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "4차산업혁명위도 시민단체와 산업계 사이에서 방향을 정하지 못하고 표류 중이다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "개인정보 보호와 활용을 위한 거버넌스 개선방안도 마련하지 못했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "산업계는 4차 산업혁명시대 새로운 가치를 창출하기 위해 데이터 결합 제도가 필요하다고 목소리를 높인다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "강력한 개인정보보호법 등으로 인해 첨단 산업기술에서 선진국에 뒤쳐진다고 지적한다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "산업계는 인가받은 제3의 신뢰기관(TTP·Trusted Third Party)을 통해 데이터 결합을 수행하고 엄격한 안전조치 하에 자체적으로 수행하는 체계를 만들자는 입장이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "TTP에 법적 지위를 부여하자고 주장한다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "정부가 TTP를 상시 감독하고 데이터 결합과정에서 관리적 투명성을 확보하자는 의견을 제시했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "결합 데이터는 기존 고객정보가 있는 레거시 시스템과 분리 보관하고 접근 권한도 별도로 부여하는 형태다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "산업계는 결합 데이터를 당초 목적 내에서만 활용하고 목적 달성시는 폐기한다는 의견을 내놨다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "시민단체는 세계적으로 민간이 보유한 개인정보를 연계하는 제도를 갖춘 곳은 없다고 반발한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "현행 개인정보보호체계 하에서 민간 기업이 보유한 개인정보 연계와 결합을 허용해선 안 된다고 주장했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "시민단체는 통계청이나 관련 전문기관이 공익적으로 가치가 큰 연구나 통계 목적으로 데이터를 연계해 결합하는 것만 허용해야 한다는 입장이다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "유엔유럽경제위원회(UNECE) 원칙에서 규정한 엄격한 거버넌스 체제 하에서 공공기관이 보유한 데이터도 연계하고 결합해야 한다고 강조한다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "산업계와 시민단체는 데이터 결합이 사회 후생을 증진하는데 중요할 역할을 한다는 데는 합의했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "정부가 데이터 결합의 법적 구성방식을 구체화하고 개인정보 침해 위험에 비례해 사전·사후 통제 반안을 마련해야 한다고 봤다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "정보통신망법, 신용정보법, 위치정보법은 각 부문에서 고유하게 규정할 필요가 있는 사항을 제외하고, 개인정보 보호와 관련한 중복, 유사 조항에 대해서는 통일적 규율이 필요하다는 점을 합의했다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]개인정보보호 활용과 보호 '균형점 찾기 어렵네'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

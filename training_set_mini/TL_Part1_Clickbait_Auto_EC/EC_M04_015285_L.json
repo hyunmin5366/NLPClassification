@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_015285",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "금융기관 여신 증가폭 확대",
+		"newsSubTitle": "가계·기업대출 호조 영향",
+		"newsContent": "지난 10월중 대전·세종·충남지역의 금융기관 수신은 부진했으나 이사철 주택매매거래 증가에 따라 가계대출이 늘면서 여신은 증가폭이 확대된 것으로 나타났다.\n21일 한국은행 대전충남본부가 내놓은 '10월중 대전·세종·충남지역 금융기관 여수신 동향' 자료에 따르면 금융기관 수신은 9월 1조 4276억원에서 5316억원으로 증가폭이 크게 줄었다.\n여신은 예금은행을 중심으로 9월 9151억원에서 1조 4972억원으로 증가폭이 커졌다.\n가계대출 증가, 부가가치세 납부수요 등에 따른 기업대출이 호조를 보인 때문으로 분석된다.\n비은행부문에선 추석 결제자금수요 등으로 소액신용대출이 늘면서 신용협동기구를 중심으로 증가폭이 커졌다.\n대전 3655억원에서 6208억원, 세종 715억원에서 1406억원, 충남 4781억원에서 7359억원으로 모두 증가폭이 확대됐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난 10월중 대전·세종·충남지역의 금융기관 수신은 부진했으나 이사철 주택매매거래 증가에 따라 가계대출이 늘면서 여신은 증가폭이 확대된 것으로 나타났다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "21일 한국은행 대전충남본부가 내놓은 '10월중 대전·세종·충남지역 금융기관 여수신 동향' 자료에 따르면 금융기관 수신은 9월 1조 4276억원에서 5316억원으로 증가폭이 크게 줄었다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "여신은 예금은행을 중심으로 9월 9151억원에서 1조 4972억원으로 증가폭이 커졌다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가계대출 증가, 부가가치세 납부수요 등에 따른 기업대출이 호조를 보인 때문으로 분석된다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "비은행부문에선 추석 결제자금수요 등으로 소액신용대출이 늘면서 신용협동기구를 중심으로 증가폭이 커졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대전 3655억원에서 6208억원, 세종 715억원에서 1406억원, 충남 4781억원에서 7359억원으로 모두 증가폭이 확대됐다.",
+				"sentenceSize": 73
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "중고차 사업, 진짜 판이 열린다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

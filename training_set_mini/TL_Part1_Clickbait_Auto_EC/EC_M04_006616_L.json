@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_006616",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "'다중 주파수채널 스펙트럼 센싱 할당기술' 특허",
+		"newsSubTitle": "ETRI '지석영상' 수상",
+		"newsContent": "미래 통신기술로 주목을 받고 있는 인지무선(CR)의 핵심인 채널관리의 효율성을 획기적으로 향상시킬 수 있는 기술이 개발됐다.\n한국전자통신연구원(ETRI)은 인지무선 기술 개발을 통해 '다중 주파수채널 시스템에서 효율적인 스펙트럼 센싱을 이용한 채널 할당 방법'에 대한 특허를 확보했다고 30일 밝혔다.\n이 특허는 지난달 28일 특허청이 수여하는 '2010년 상반기 특허기술상 지석영상'을 수상한 바 있다.\n이번 기술은 간섭 회피를 위해 다른 신호 존재 유무를 효과적으로 검출하고, 다른 신호가 나타났을 경우 신속하게 다른 채널로 이동할 수 있도록 해주는 채널 관리 방법에 관한 것이다.\nETRI는 이 방법을 사용하면 인지무선 기기는 우선순위가 높은 신호를 피해 다니면서 통신하더라도 통신 단절을 피하고 다른 신호에 간섭을 주지 않는 장점이 있다고 설명했다.\n또 이번 특허를 통해 필수적인 채널 관리 문제를 상당부분 해결할 것으로 기대했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미래 통신기술로 주목을 받고 있는 인지무선(CR)의 핵심인 채널관리의 효율성을 획기적으로 향상시킬 수 있는 기술이 개발됐다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국전자통신연구원(ETRI)은 인지무선 기술 개발을 통해 '다중 주파수채널 시스템에서 효율적인 스펙트럼 센싱을 이용한 채널 할당 방법'에 대한 특허를 확보했다고 30일 밝혔다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이 특허는 지난달 28일 특허청이 수여하는 '2010년 상반기 특허기술상 지석영상'을 수상한 바 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 기술은 간섭 회피를 위해 다른 신호 존재 유무를 효과적으로 검출하고, 다른 신호가 나타났을 경우 신속하게 다른 채널로 이동할 수 있도록 해주는 채널 관리 방법에 관한 것이다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "ETRI는 이 방법을 사용하면 인지무선 기기는 우선순위가 높은 신호를 피해 다니면서 통신하더라도 통신 단절을 피하고 다른 신호에 간섭을 주지 않는 장점이 있다고 설명했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 이번 특허를 통해 필수적인 채널 관리 문제를 상당부분 해결할 것으로 기대했다.",
+				"sentenceSize": 45
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "도안 5블록 턴키공사 늦어질 듯",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

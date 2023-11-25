@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_352881",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "한국어·영어 다 통한다…SKT, 10만원대 '누구캔들 SE' 출시",
+		"newsSubTitle": "null",
+		"newsContent": "SK텔레콤은 인공지능(AI) 스피커 '누구 캔들 SE'를 18일부터 11번가를 통해 판매한다고 밝혔다.\n누구 캔들 SE는 AI 플랫폼과 조명 기능을 결합한 새로운 AI 기기로 인기를 끌었던 '누구 캔들'의 후속 모델이다.\n패브릭 컬러를 변경하고 음향 품질을 개선했다. '누구 캔들 SE'의 가격은 10만9000원으로 이날부터 11번가를 통해 구매 가능하다.\n누구 캔들 SE도 누구 캔들과 마찬가지로 한국어와 영어를 모두 지원하는 '누구 멀티 에이전트' 서비스를 지원한다.\n앞서 SK텔레콤은 아마존과의 협업을 통해 국내 최초로 한국어와 영어 모두 인식할 수 있는 AI 스피커 서비스를 시작하기로 했다.\n내달 중 아마존 알렉사 소프트웨어 업데이트 후 적용된다.\n이에 따라 한국어 AI 호출어인 '아리아'를 부르면 '누구'를 통해 한국어 서비스 및 한국 콘텐츠를, 영어 AI 호출어인 '알렉사'를 부르면 영어 서비스 및 해외 콘텐츠를 이용할 수 있다.\n날씨, 뉴스, 감성대화, 캘린더 같은 AI 스피커의 기본적인 기능은 누구와 알렉사 둘 다 지원하며, '플로'나 '팟빵' 같은 국내 콘텐츠는 누구를 통해, '튠인' 같은 해외 라디오 서비스는 알렉사를 통해 이용하면 된다.\n이현아 SKT AI&CO(컴퍼니) 담당은 \\\"앞으로도 '누구 AI 플랫폼'이 탑재된 다양한 디바이스와 서비스를 통해 고객분들이 더 새롭고 풍부한 경험을 할 수 있도록 노력하겠다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "SK텔레콤은 인공지능(AI) 스피커 '누구 캔들 SE'를 18일부터 11번가를 통해 판매한다고 밝혔다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "누구 캔들 SE는 AI 플랫폼과 조명 기능을 결합한 새로운 AI 기기로 인기를 끌었던 '누구 캔들'의 후속 모델이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "패브릭 컬러를 변경하고 음향 품질을 개선했다. '누구 캔들 SE'의 가격은 10만9000원으로 이날부터 11번가를 통해 구매 가능하다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "누구 캔들 SE도 누구 캔들과 마찬가지로 한국어와 영어를 모두 지원하는 '누구 멀티 에이전트' 서비스를 지원한다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "앞서 SK텔레콤은 아마존과의 협업을 통해 국내 최초로 한국어와 영어 모두 인식할 수 있는 AI 스피커 서비스를 시작하기로 했다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "내달 중 아마존 알렉사 소프트웨어 업데이트 후 적용된다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이에 따라 한국어 AI 호출어인 '아리아'를 부르면 '누구'를 통해 한국어 서비스 및 한국 콘텐츠를, 영어 AI 호출어인 '알렉사'를 부르면 영어 서비스 및 해외 콘텐츠를 이용할 수 있다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "날씨, 뉴스, 감성대화, 캘린더 같은 AI 스피커의 기본적인 기능은 누구와 알렉사 둘 다 지원하며, '플로'나 '팟빵' 같은 국내 콘텐츠는 누구를 통해, '튠인' 같은 해외 라디오 서비스는 알렉사를 통해 이용하면 된다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이현아 SKT AI&CO(컴퍼니) 담당은 \\\"앞으로도 '누구 AI 플랫폼'이 탑재된 다양한 디바이스와 서비스를 통해 고객분들이 더 새롭고 풍부한 경험을 할 수 있도록 노력하겠다\\\"고 밝혔다.",
+				"sentenceSize": 106
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "한국어·영어 다 통한다…SKT, 10만원대 '누구캔들 SE' 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

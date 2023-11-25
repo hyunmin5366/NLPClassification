@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M03_032895",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예가화제",
+		"newsTitle": "\\\"오리 주둥이·못생겼다\\\" 지인 딸 사진에 악플 단 육아맘 입건",
+		"newsSubTitle": "",
+		"newsContent": "육아 카페를 통해 알게 된 지인의 블로그에 지속적으로 악성 댓글을 단 20대 여성이 경찰에 붙잡혔다.\n경기 성남수정경찰서는 모욕 혐의로 A(25·여)씨를 불구속 입건했다고 5일 밝혔다.\nA씨는 올해 4월부터 6월까지 B(31·여)씨의 인터넷 개인 블로그에 게시된 B씨의 세 살 딸 사진에 \\\"오리 주둥이네요\\\", \\\"못생김의 끝이 없네요\\\" 등 외모를 비하하는 댓글과 \\\"딸 얼굴을 그어버리겠다\\\" 등 협박성 댓글을 70여 차례 올린 혐의를 받고 있다.\nA씨는 해당 사이트의 아이디를 해지하고 재가입하는 수법으로 매번 다른 이름으로 댓글을 달았다.\nA씨는 경찰 조사에서 \\\"평소에 우울증을 앓고 있는데 B씨가 행복한 가족의 모습을 올리는 것을 보고 더 우울해져 그런 댓글을 달게 됐다\\\"고 진술했다.\nB씨는 자녀를 비하하는 댓글이 계속 달리자 해당 내용을 모아뒀다가 지난달 16일 경찰에 수사를 의뢰했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "육아 카페를 통해 알게 된 지인의 블로그에 지속적으로 악성 댓글을 단 20대 여성이 경찰에 붙잡혔다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "경기 성남수정경찰서는 모욕 혐의로 A(25·여)씨를 불구속 입건했다고 5일 밝혔다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "A씨는 올해 4월부터 6월까지 B(31·여)씨의 인터넷 개인 블로그에 게시된 B씨의 세 살 딸 사진에 \\\"오리 주둥이네요\\\", \\\"못생김의 끝이 없네요\\\" 등 외모를 비하하는 댓글과 \\\"딸 얼굴을 그어버리겠다\\\" 등 협박성 댓글을 70여 차례 올린 혐의를 받고 있다.",
+				"sentenceSize": 149
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "A씨는 해당 사이트의 아이디를 해지하고 재가입하는 수법으로 매번 다른 이름으로 댓글을 달았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "A씨는 경찰 조사에서 \\\"평소에 우울증을 앓고 있는데 B씨가 행복한 가족의 모습을 올리는 것을 보고 더 우울해져 그런 댓글을 달게 됐다\\\"고 진술했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "B씨는 자녀를 비하하는 댓글이 계속 달리자 해당 내용을 모아뒀다가 지난달 16일 경찰에 수사를 의뢰했다.",
+				"sentenceSize": 58
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "추자현 폭풍 눈물 터뜨린 '대륙 스케일' 프러포즈 수준",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

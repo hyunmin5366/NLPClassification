@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_017021",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "철도파업 이틀째 화물열차 운행 비상",
+		"newsSubTitle": "",
+		"newsContent": "KTX·통근열차 100% 유지…전체 열차 운행률 90.9% 철도파업 이틀째인 28일 화물열차 운행률이 소폭 올랐으나 여전히 물류차질이 빚어지고 있다.\n전체 열차 운행률이 90.9%를 기록해 파업에 따른 큰 혼란은 발생하지 않고 있다.\n코레일에 따르면 이날 오전 8시 현재 화물열차는 평시 65대에서 18대로 줄며 운행률이 27.7%에 그쳤다.\n파업 첫날(25.7%)보다 늘었지만, 여전히 코레일이 목표로 제시했던 30.4%보다 낮은 수치로, 시멘트 주산지인 강원도와 충북 제천지역 등을 중심으로 물류대란이 빚어질 가능성이 커지고 있다.\n열차 운행 횟수는 평시 783대에서 712대로 10% 정도 줄었다.\nKTX와 수도권 전동열차, 통근열차, 새마을호는 평시와 같이 100% 운행률을 보였지만, 무궁화호는 평시 74회에서 50회로 줄며 운행률이 67.6%에 그쳤다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KTX·통근열차 100% 유지…전체 열차 운행률 90.9% 철도파업 이틀째인 28일 화물열차 운행률이 소폭 올랐으나 여전히 물류차질이 빚어지고 있다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "전체 열차 운행률이 90.9%를 기록해 파업에 따른 큰 혼란은 발생하지 않고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "코레일에 따르면 이날 오전 8시 현재 화물열차는 평시 65대에서 18대로 줄며 운행률이 27.7%에 그쳤다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "파업 첫날(25.7%)보다 늘었지만, 여전히 코레일이 목표로 제시했던 30.4%보다 낮은 수치로, 시멘트 주산지인 강원도와 충북 제천지역 등을 중심으로 물류대란이 빚어질 가능성이 커지고 있다.",
+				"sentenceSize": 107
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "열차 운행 횟수는 평시 783대에서 712대로 10% 정도 줄었다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "KTX와 수도권 전동열차, 통근열차, 새마을호는 평시와 같이 100% 운행률을 보였지만, 무궁화호는 평시 74회에서 50회로 줄며 운행률이 67.6%에 그쳤다.",
+				"sentenceSize": 89
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신한은행, '최대 연 7% 금리' 신한 더모아 적금 출시",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_348149",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "서버 IP 주소 계속 바꿔 해킹 막는다",
+		"newsSubTitle": "null",
+		"newsContent": "한국전자통신연구원(ETRI)이 서버 IP 주소를 계속 바꿔 사이버 공격을 차단하는 ‘네트워크 변이 기술’을 개발했다고 23일 밝혔다.\n지금까지 해커들이 공격하면 방화벽이나 보안 장비를 통해 막는 탐지 기술이 주로 방어기술로 이용됐다.\n이번에 개발한 기술은 해커가 공격대상을 선정하고 준비하는 동안 네트워크 주소를 바꿔가며 혼란을 가중해 공격할 시간을 놓치게 하는 원리다.\n자세히 말하면 서버 IP 주소와 서비스 포트 번호를 계속 변경하는 방식이다.\n해커는 공격대상을 찾아 네트워크를 정찰하고 공격을 이어 나가는데, 네트워크 주소가 계속 바뀌게 됨에 따라 공격시간을 놓치게 된다.\n이 기술은 주소를 만들기도 하고 변경도 한다.\n실제로 주소가 실시간으로 변경되지만 사용자들은 이를 인식하지 못할 정도로 매끄럽고 지속적인 서비스를 제공받을 수 있다.\n연구진은 “특히 서버 내부 인터페이스를 주소가 변하는 부분과 주소가 변하지 않는 부분으로 구분해 해커는 주소가 변하는 부분으로만 침투할 수 있도록 했다”며 “사용자는 외부에 드러나지 않는 경로를 통해 접근하기에 안전하다”고 설명했다.\n또 네트워크 내부에 이미 침입한 공격자가 공격대상을 탐지하기 위해 시도하는 스캐닝 및 패킷 스니핑 공격으로부터도 공격대상 시스템의 노출을 봉쇄한다.\n패킷 스니핑은 네트워크 일부 구간의 트래픽을 가로채서 통신 내용을 도청하거나 공격대상 위치를 분석하는 행위를 말한다.\n문대성 ETRI 네트워크·시스템보안연구실장은 “이번 기술은 매우 짧은 주기로 시스템의 IP 주소가 변경됨에도 불구하고 정당한 사용자에게는 끊김 없는 서비스 제공을 보장해야 하는 기술적 난제를 해결했다는데 의미가 있다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국전자통신연구원(ETRI)이 서버 IP 주소를 계속 바꿔 사이버 공격을 차단하는 ‘네트워크 변이 기술’을 개발했다고 23일 밝혔다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "지금까지 해커들이 공격하면 방화벽이나 보안 장비를 통해 막는 탐지 기술이 주로 방어기술로 이용됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "이번에 개발한 기술은 해커가 공격대상을 선정하고 준비하는 동안 네트워크 주소를 바꿔가며 혼란을 가중해 공격할 시간을 놓치게 하는 원리다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "자세히 말하면 서버 IP 주소와 서비스 포트 번호를 계속 변경하는 방식이다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "해커는 공격대상을 찾아 네트워크를 정찰하고 공격을 이어 나가는데, 네트워크 주소가 계속 바뀌게 됨에 따라 공격시간을 놓치게 된다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 기술은 주소를 만들기도 하고 변경도 한다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실제로 주소가 실시간으로 변경되지만 사용자들은 이를 인식하지 못할 정도로 매끄럽고 지속적인 서비스를 제공받을 수 있다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구진은 “특히 서버 내부 인터페이스를 주소가 변하는 부분과 주소가 변하지 않는 부분으로 구분해 해커는 주소가 변하는 부분으로만 침투할 수 있도록 했다”며 “사용자는 외부에 드러나지 않는 경로를 통해 접근하기에 안전하다”고 설명했다.",
+				"sentenceSize": 130
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 네트워크 내부에 이미 침입한 공격자가 공격대상을 탐지하기 위해 시도하는 스캐닝 및 패킷 스니핑 공격으로부터도 공격대상 시스템의 노출을 봉쇄한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "패킷 스니핑은 네트워크 일부 구간의 트래픽을 가로채서 통신 내용을 도청하거나 공격대상 위치를 분석하는 행위를 말한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "문대성 ETRI 네트워크·시스템보안연구실장은 “이번 기술은 매우 짧은 주기로 시스템의 IP 주소가 변경됨에도 불구하고 정당한 사용자에게는 끊김 없는 서비스 제공을 보장해야 하는 기술적 난제를 해결했다는데 의미가 있다”고 말했다.",
+				"sentenceSize": 127
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "서버 IP 주소 계속 바꿔 해킹 막는다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

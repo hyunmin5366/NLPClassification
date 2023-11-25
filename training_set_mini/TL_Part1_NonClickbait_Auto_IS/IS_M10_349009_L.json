@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349009",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "GIST, 그린수소 생산설비 '고효율화' 키 찾았다",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 수소생산을 위한 알카라인 수전해 시스템의 운전효율을 최적화하는 압력 조건을 찾았다.\n광주과학기술원(GIST)은 8일 \\\"그린수소를 생산할 수 있는 기술 중 하나인 알카라인 수전해 시스템 운전 성능에 미치는 압력의 영향을 예측할 수 있는 수치해석 모델을 개발해 최적의 수소 생산효율을 갖는 운전조건을 도출했다\\\"고 밝혔다.\n연구결과에 따르면 알카라인 수전해 시스템은 5~10바(Bar) 사이의 압력에서 운전효율이 가장 높아지는 것으로 나타났다.\n알카라인 수전해 시스템은 수소를 생산하는 방식 중 하나로 수전해 기술 중 가장 오랜 기간 동안 연구된 기술이다.\n대형화와 저렴한 설비비용, 충분한 운전수명 등 측면에서 장점이 있지만, 천연가스를 고온, 고압으로 분해해 수소를 생산하는 개질 등 과정에서 생산단가가 높아진다는 점이 단점으로 꼽힌다.\n연구팀은 물에서 수소를 최대한 많이 뽑아내는 전극 촉매 개발에 초점을 맞춘 기존 연구들과 달리 시스템 운전 최적화 연구에 집중했다.\n시스템 운전 최적화 연구는 현재 양적으로 매우 부족하며, 대부분 실험 수준에 머물러 있다.\n연구팀은 알카라인 수전해 스택 모델을 개발해 작동 변수에 따른 스택의 운전성능 변화를 파악하고 수소생산설비를 구성하는 BOP(Balance of Plants) 장치들의 소모동력 변화를 종합 분석했다.\nBOP는 물의 전기분해 반응이 일어나는 스택 외에 수소생산 설비를 구성하는 펌프, 압축기, 열교환기, 기액분리기 등 주변 장치들을 말한다.\n연구결과 알카라인 수전해 시스템의 운전효율은 약 10바(bar) 압력까지 크게 상승한 후 100바 압력까지 천천히 감소하는 것으로 나타났다.\n압력상승에 따른 발생 수소 순도 향상 효과는 20바 이후에는 미미했다.\n연구팀은 이를 토대로 알카라인 수전해 시스템의 압력을 5~10바 사이로 유지할 때 운전효율이 가장 높아진다는 결론을 도출했다.\n연구팀은 한국에너지기술연구원의 스택 운전 실험 데이터를 이용해 개발한 알카라인 수전해 스택 모델의 성능을 검증했다.\n연구실 실험 수준에 그쳤던 기존 연구들과 달리 보다 넓은 범위에서 운전성능을 파악할 수 있었다.\n강상규 교수의 지도로 장도형 석사과정 학생이 수행한 이번 연구는 국제학술지 '어플라이드 에너지'(Applied Energy)에 2월 7일자로 게재됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 수소생산을 위한 알카라인 수전해 시스템의 운전효율을 최적화하는 압력 조건을 찾았다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "광주과학기술원(GIST)은 8일 \\\"그린수소를 생산할 수 있는 기술 중 하나인 알카라인 수전해 시스템 운전 성능에 미치는 압력의 영향을 예측할 수 있는 수치해석 모델을 개발해 최적의 수소 생산효율을 갖는 운전조건을 도출했다\\\"고 밝혔다.",
+				"sentenceSize": 132
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연구결과에 따르면 알카라인 수전해 시스템은 5~10바(Bar) 사이의 압력에서 운전효율이 가장 높아지는 것으로 나타났다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "알카라인 수전해 시스템은 수소를 생산하는 방식 중 하나로 수전해 기술 중 가장 오랜 기간 동안 연구된 기술이다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대형화와 저렴한 설비비용, 충분한 운전수명 등 측면에서 장점이 있지만, 천연가스를 고온, 고압으로 분해해 수소를 생산하는 개질 등 과정에서 생산단가가 높아진다는 점이 단점으로 꼽힌다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구팀은 물에서 수소를 최대한 많이 뽑아내는 전극 촉매 개발에 초점을 맞춘 기존 연구들과 달리 시스템 운전 최적화 연구에 집중했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시스템 운전 최적화 연구는 현재 양적으로 매우 부족하며, 대부분 실험 수준에 머물러 있다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구팀은 알카라인 수전해 스택 모델을 개발해 작동 변수에 따른 스택의 운전성능 변화를 파악하고 수소생산설비를 구성하는 BOP(Balance of Plants) 장치들의 소모동력 변화를 종합 분석했다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "BOP는 물의 전기분해 반응이 일어나는 스택 외에 수소생산 설비를 구성하는 펌프, 압축기, 열교환기, 기액분리기 등 주변 장치들을 말한다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "연구결과 알카라인 수전해 시스템의 운전효율은 약 10바(bar) 압력까지 크게 상승한 후 100바 압력까지 천천히 감소하는 것으로 나타났다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "압력상승에 따른 발생 수소 순도 향상 효과는 20바 이후에는 미미했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "연구팀은 이를 토대로 알카라인 수전해 시스템의 압력을 5~10바 사이로 유지할 때 운전효율이 가장 높아진다는 결론을 도출했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "연구팀은 한국에너지기술연구원의 스택 운전 실험 데이터를 이용해 개발한 알카라인 수전해 스택 모델의 성능을 검증했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "연구실 실험 수준에 그쳤던 기존 연구들과 달리 보다 넓은 범위에서 운전성능을 파악할 수 있었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "강상규 교수의 지도로 장도형 석사과정 학생이 수행한 이번 연구는 국제학술지 '어플라이드 에너지'(Applied Energy)에 2월 7일자로 게재됐다.",
+				"sentenceSize": 84
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "GIST, 그린수소 생산설비 '고효율화' 키 찾았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

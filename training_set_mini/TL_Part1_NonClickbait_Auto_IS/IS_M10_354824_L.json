@@ -1,0 +1,276 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354824",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "\\\"해킹 예방하세요\\\" 링크 함부로 눌렀다간 악성코드 '덜컥'",
+		"newsSubTitle": "null",
+		"newsContent": "#오전 9시, A씨는 사무실 출근 후 업무를 시작하기 위해 메일함을 열었다.\n그 중 한국인터넷진흥원(KISA)에서 보낸 메일에 눈길이 갔다.\n구글 웹 브라우저인 크롬에 심각한 보안 취약점이 발견됐으니 업데이트를 빨리 다운받으라는 안내였다.\n평소 크롬을 주로 쓰는 A씨는 메일 하단에 걸린 링크를 무심결에 눌렀다.\n이 링크를 누르는 순간 A씨의 PC는 악성코드가 깔리고 다른 PC를 공격하는 '좀비PC'가 됐다.\n이 메일은 사실 과학기술정보통신부와 한국인터넷진흥원(KISA)이 실제 피싱(Phishing)공격을 본따 만든 것이다.\n두 기관은 지난달 15일부터 3주 간 '사이버 위기대응 모의훈련'을 진행했는데, 해당 메일은 훈련 참가자들에게 무작위 전송됐다.\n실제 피싱과 다른 점은 메일 속 링크를 누르면 악성코드 대신 \\\"'2022년 상반기 민간분야 사이버 위기대응 모의훈련' 악성메일 감염 페이지입니다\\\"라는 KISA의 안내화면이 뜬다는 것이다.\n과기정통부와 KISA는 훈련효과를 높이기 위해 실제 피싱공격처럼 메일을 더 정교하게 만들었다.\n교육 관련 기업에는 교육부를 사칭해 \\\"온라인 교육 콘텐츠를 사용할 때 주의하라\\\"며 '안전한 원격회의를 위한 실천수칙'을 읽어보라고 첨부파일에 넣었다.\n\\\"모르는 사람이 보낸 전자메일과 문자는 열어보지 말라\\\"는 당부까지 덧붙여 안심하게 만들었다.\n또 방위산업 기업에는 '한국방위산업진흥회(KDIA)'를 사칭, 월간 '국방과 기술'을 6월호부터 웹과 모바일 환경에서 제공한다는 메일을 보냈다.\n이번 모의훈련에 참여한 기업은 326개, 임직원 규모로는 총 13만3313명이다.\n모의 피싱메일을 누른 이들은 10명 중 3명(30.2%), 메일 내 링크까지 누른 사람은 10명 중 1명 꼴(11.8%)로 나타났다.\n과기정통부 관계자는 \\\"기업 유형별 시나리오를 적용해 정교하게 만들었더니 지난해 하반기 훈련 때보다 열람률(16.7%)과 감염률(5.4%) 모두 늘었다\\\"면서도 \\\"훈련에 재참여한 기업의 감염률은 9.2%로, 신규 참여기업(17.8%)에 비해 낮았다. 훈련을 반복할수록 대응능력이 높아진다는 것\\\"이라고 말했다.\n이번 훈련에서는 화이트해커가 국내 45개 기업의 홈페이지를 대상으로 20여가지 공격기법으로 모의침투를 진행했다.\n이 중 41개 기업(91%) 침투에 성공했으며 중복된 취약점이 세 가지 이상 발견된 곳도 15개(36%)에 달했다.\n모의침투 후 각 기업은 취약점을 모두 제거했다.\n홈페이지에서 사용한 상용 소프트웨어(SW) 취약점 역시 SW개발사에 공유, 보안패치가 진행됐다.\n디도스(DDos) 훈련은 64개사 기업 홈페이지를 대상으로 실제 디도스 공격을 수행, 이에 대한 기업별 탐지시간과 대응시간을 측정한다.\n평균 탐지시간은 11분, 대응시간은 22분이었다.\n디도스 훈련에 재참여한 기업은 처음 참여한 기업보다 6분 더 빨리 공격을 탐지해냈다.\n또 대기업(10분)과 중견기업(10분)은 중소기업(14분)보다 4분 더 빨리 감지하는 등 기업 규모별 대응능력에도 차이가 있었다.\n과기정통부와 KISA는 기업이 원할 때 언제든 모의훈련을 진행할 수 있도록 '상시 해킹메일 모의훈련 플랫폼'도 만들었다.\n기업은 자사 상황에 맞게 플랫폼에서 직접 해킹메일을 만들어 임직원들에게 모의해킹 메일을 보낼 수 있다.\n종료 후엔 훈련결과와 최신 해킹메일 동향자료도 함께 제공한다.\n하반기부터는 해킹메일뿐만 아니라 디도스 공격 대응, 웹 취약점 점검 등도 가능해진다.\n김정삼 과기정통부 정보보호네트워크정책관은 \\\"최근 기업정보를 훔치기 위한 해킹메일과 사이버 공격이 정교해지는 만큼 상시 모의훈련 플랫폼을 적극 이용, 사이버 위협 대응능력을 향상하길 바란다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 28,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "#오전 9시, A씨는 사무실 출근 후 업무를 시작하기 위해 메일함을 열었다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "그 중 한국인터넷진흥원(KISA)에서 보낸 메일에 눈길이 갔다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "구글 웹 브라우저인 크롬에 심각한 보안 취약점이 발견됐으니 업데이트를 빨리 다운받으라는 안내였다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "평소 크롬을 주로 쓰는 A씨는 메일 하단에 걸린 링크를 무심결에 눌렀다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "이 링크를 누르는 순간 A씨의 PC는 악성코드가 깔리고 다른 PC를 공격하는 '좀비PC'가 됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이 메일은 사실 과학기술정보통신부와 한국인터넷진흥원(KISA)이 실제 피싱(Phishing)공격을 본따 만든 것이다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두 기관은 지난달 15일부터 3주 간 '사이버 위기대응 모의훈련'을 진행했는데, 해당 메일은 훈련 참가자들에게 무작위 전송됐다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "실제 피싱과 다른 점은 메일 속 링크를 누르면 악성코드 대신 \\\"'2022년 상반기 민간분야 사이버 위기대응 모의훈련' 악성메일 감염 페이지입니다\\\"라는 KISA의 안내화면이 뜬다는 것이다.",
+				"sentenceSize": 106
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "과기정통부와 KISA는 훈련효과를 높이기 위해 실제 피싱공격처럼 메일을 더 정교하게 만들었다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "교육 관련 기업에는 교육부를 사칭해 \\\"온라인 교육 콘텐츠를 사용할 때 주의하라\\\"며 '안전한 원격회의를 위한 실천수칙'을 읽어보라고 첨부파일에 넣었다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "\\\"모르는 사람이 보낸 전자메일과 문자는 열어보지 말라\\\"는 당부까지 덧붙여 안심하게 만들었다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "또 방위산업 기업에는 '한국방위산업진흥회(KDIA)'를 사칭, 월간 '국방과 기술'을 6월호부터 웹과 모바일 환경에서 제공한다는 메일을 보냈다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이번 모의훈련에 참여한 기업은 326개, 임직원 규모로는 총 13만3313명이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "모의 피싱메일을 누른 이들은 10명 중 3명(30.2%), 메일 내 링크까지 누른 사람은 10명 중 1명 꼴(11.8%)로 나타났다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "과기정통부 관계자는 \\\"기업 유형별 시나리오를 적용해 정교하게 만들었더니 지난해 하반기 훈련 때보다 열람률(16.7%)과 감염률(5.4%) 모두 늘었다\\\"면서도 \\\"훈련에 재참여한 기업의 감염률은 9.2%로, 신규 참여기업(17.8%)에 비해 낮았다. 훈련을 반복할수록 대응능력이 높아진다는 것\\\"이라고 말했다.",
+				"sentenceSize": 174
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이번 훈련에서는 화이트해커가 국내 45개 기업의 홈페이지를 대상으로 20여가지 공격기법으로 모의침투를 진행했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이 중 41개 기업(91%) 침투에 성공했으며 중복된 취약점이 세 가지 이상 발견된 곳도 15개(36%)에 달했다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "모의침투 후 각 기업은 취약점을 모두 제거했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "홈페이지에서 사용한 상용 소프트웨어(SW) 취약점 역시 SW개발사에 공유, 보안패치가 진행됐다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "디도스(DDos) 훈련은 64개사 기업 홈페이지를 대상으로 실제 디도스 공격을 수행, 이에 대한 기업별 탐지시간과 대응시간을 측정한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "평균 탐지시간은 11분, 대응시간은 22분이었다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "디도스 훈련에 재참여한 기업은 처음 참여한 기업보다 6분 더 빨리 공격을 탐지해냈다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "또 대기업(10분)과 중견기업(10분)은 중소기업(14분)보다 4분 더 빨리 감지하는 등 기업 규모별 대응능력에도 차이가 있었다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "과기정통부와 KISA는 기업이 원할 때 언제든 모의훈련을 진행할 수 있도록 '상시 해킹메일 모의훈련 플랫폼'도 만들었다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "기업은 자사 상황에 맞게 플랫폼에서 직접 해킹메일을 만들어 임직원들에게 모의해킹 메일을 보낼 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "종료 후엔 훈련결과와 최신 해킹메일 동향자료도 함께 제공한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "하반기부터는 해킹메일뿐만 아니라 디도스 공격 대응, 웹 취약점 점검 등도 가능해진다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "김정삼 과기정통부 정보보호네트워크정책관은 \\\"최근 기업정보를 훔치기 위한 해킹메일과 사이버 공격이 정교해지는 만큼 상시 모의훈련 플랫폼을 적극 이용, 사이버 위협 대응능력을 향상하길 바란다\\\"고 말했다.",
+				"sentenceSize": 113
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"해킹 예방하세요\\\" 링크 함부로 눌렀다간 악성코드 '덜컥'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

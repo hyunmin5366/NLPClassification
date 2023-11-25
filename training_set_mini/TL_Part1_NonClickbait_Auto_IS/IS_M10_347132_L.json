@@ -1,0 +1,258 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_347132",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 인터넷/보안",
+		"newsTitle": "17개 시중은행 MS '윈도10' 지원율 100%? '엣지' 0%",
+		"newsSubTitle": "null",
+		"newsContent": "국내 모든 시중은행이 마이크로소프트(MS)의 차기 운영체제(OS) ‘윈도 10’을 지원하고 있다지만 ‘임시방편’에 불과하다는 지적이다.\n기본 웹 브라우저인 ‘엣지’를 지원하지 않고, MS가 궁여지책으로 포함한 ‘인터넷 익스플로러(IE) 11’에서 호환되도록 조치했기 때문이다.\n엣지는 MS가 그동안 지원해왔던 ‘액티브X’를 버린 첫 번째 글로벌 웹 표준 브라우저다.\n구글도 내달부터 자체 플러그인(확장 프로그램) ‘NPAPI’에 대한 기술을 중단한다.\n즉, 글로벌 웹 표준 브라우저가 대세로 굳어지고 있다는 얘기다. ‘비표준 웹 기술’로 떡칠 된 한국의 인터넷뱅킹 서비스 모델을 더 고집했다가는 글로벌 인터넷 환경에서 도태될 수밖에 없다는 우려가 나오고 있다.\n◇시중은행 '윈도10' 문제없다고? '엣지' 지원율은 ‘0%’=12일 정부 합동 인터넷이용환경 개선 협의회에서 발표된 윈도 10 호환성 긴급 실태조사 결과에 따르면, 국내 17곳 모든 시중은행은 윈도10이 깔린 PC에서 인터넷뱅킹 서비스를 이용할 수 있는 것으로 조사됐다.\n하지만, 현재까지 17개 시중 은행 가운데 엣지 브라우저를 지원하는 곳은 한 곳도 없다.\n증권 업계와 카드사 모두 마찬가지다.\n무엇보다 금융 당국은 엣지 지원 일정에 대해서는 어떤 가이드라인도 제시하지 않고 있다.\n◇웹 표준 기술 초기…보안 장담할 수 없어=기술적으로 불가능한 건 아니다.\n액티브X 없이도 쓸 수 있는 키보드 보안, 백신 프로그램 등이 속속 출시돼 카드사를 중심으로 일부 금융권에 도입됐다.\n실행파일(.exe) 방식과 웹 표준(HTML5) 방식이다.\n하지만 금융권은 HTML5 기반의 공인인증서 사용을 꺼린다.\n이는 신 기술의 보안 안정성 때문이다.\n즉, 액티브X를 통한 악성코드 유포 등 보안 문제가 있지만, 대체기술은 이제 막 개발돼 안전성을 확신할 수 없다는 것. HTML5 기반의 공인인증서 상용 서비스를 위해선 안정성 점검이 필요하다는 의미다.\n일부 기업은 그나마 차선책으로 실행파일 방식을 적용했다.\n이 방식은 액티브X 대신 기존 키보드 보안이나 백신 프로그램과 함께 공인인증서 프로그램 사용을 지원한다.\n어떤 웹 브라우저든 상관없이 PC에 설치할 수 있는 장점이 있다.\n우리·신한 등 일부 은행들도 엣지 브라우저 지원을 위해 이 기술 도입을 추진 중이다.\n그러나 이 방식 역시 웹 표준을 따랐다기보다는 과도기적 임시 대응책이다.\n◇대세 된 웹 표준 기술…예산·인력 뒷받침돼야=인증서와 보안 프로그램들만 해결된다고 웹표준 브라우저를 문제없이 쓸 수 있는 건 아니다.\n웹 표준 브라우저를 지원하기 위해서는 결제창을 비롯한 홈페이지 전체 시스템을 고쳐야 한다.\n충분한 예산과 인력 충당이 뒷받침돼야 한다.\n업계 전문가들은 시중 은행들의 모든 인터넷 뱅킹 서비스가 엣지와 같은 웹 표준 브라우저를 지원하려면 상당한 시일이 걸릴 것으로 전망하고 있다.\n금융권의 한 CISO(최고보안책임자)는 “아예 웹 표준에 맞춰 서비스를 개편하는 것은 합당하다”면서도 “이용자의 거래 안전과 직결된 문제인 만큼 조급하게 도입하기보단 철저한 준비와 검증이 필요한 것 아니냐”고 말했다.\n한국인터넷진흥원 관계자는 “생체인증과 접목된 새로운 방식의 보안 인증방식 등 아예 금융권 이용자 보안체계의 패러다임을 바꾸는 발상의 전환도 필요하다”고 조언했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 26,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 모든 시중은행이 마이크로소프트(MS)의 차기 운영체제(OS) ‘윈도 10’을 지원하고 있다지만 ‘임시방편’에 불과하다는 지적이다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기본 웹 브라우저인 ‘엣지’를 지원하지 않고, MS가 궁여지책으로 포함한 ‘인터넷 익스플로러(IE) 11’에서 호환되도록 조치했기 때문이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "엣지는 MS가 그동안 지원해왔던 ‘액티브X’를 버린 첫 번째 글로벌 웹 표준 브라우저다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "구글도 내달부터 자체 플러그인(확장 프로그램) ‘NPAPI’에 대한 기술을 중단한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "즉, 글로벌 웹 표준 브라우저가 대세로 굳어지고 있다는 얘기다. ‘비표준 웹 기술’로 떡칠 된 한국의 인터넷뱅킹 서비스 모델을 더 고집했다가는 글로벌 인터넷 환경에서 도태될 수밖에 없다는 우려가 나오고 있다.",
+				"sentenceSize": 116
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "◇시중은행 '윈도10' 문제없다고? '엣지' 지원율은 ‘0%’=12일 정부 합동 인터넷이용환경 개선 협의회에서 발표된 윈도 10 호환성 긴급 실태조사 결과에 따르면, 국내 17곳 모든 시중은행은 윈도10이 깔린 PC에서 인터넷뱅킹 서비스를 이용할 수 있는 것으로 조사됐다.",
+				"sentenceSize": 152
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "하지만, 현재까지 17개 시중 은행 가운데 엣지 브라우저를 지원하는 곳은 한 곳도 없다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "증권 업계와 카드사 모두 마찬가지다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "무엇보다 금융 당국은 엣지 지원 일정에 대해서는 어떤 가이드라인도 제시하지 않고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "◇웹 표준 기술 초기…보안 장담할 수 없어=기술적으로 불가능한 건 아니다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "액티브X 없이도 쓸 수 있는 키보드 보안, 백신 프로그램 등이 속속 출시돼 카드사를 중심으로 일부 금융권에 도입됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "실행파일(.exe) 방식과 웹 표준(HTML5) 방식이다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "하지만 금융권은 HTML5 기반의 공인인증서 사용을 꺼린다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이는 신 기술의 보안 안정성 때문이다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "즉, 액티브X를 통한 악성코드 유포 등 보안 문제가 있지만, 대체기술은 이제 막 개발돼 안전성을 확신할 수 없다는 것. HTML5 기반의 공인인증서 상용 서비스를 위해선 안정성 점검이 필요하다는 의미다.",
+				"sentenceSize": 113
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "일부 기업은 그나마 차선책으로 실행파일 방식을 적용했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이 방식은 액티브X 대신 기존 키보드 보안이나 백신 프로그램과 함께 공인인증서 프로그램 사용을 지원한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "어떤 웹 브라우저든 상관없이 PC에 설치할 수 있는 장점이 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "우리·신한 등 일부 은행들도 엣지 브라우저 지원을 위해 이 기술 도입을 추진 중이다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "그러나 이 방식 역시 웹 표준을 따랐다기보다는 과도기적 임시 대응책이다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "◇대세 된 웹 표준 기술…예산·인력 뒷받침돼야=인증서와 보안 프로그램들만 해결된다고 웹표준 브라우저를 문제없이 쓸 수 있는 건 아니다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "웹 표준 브라우저를 지원하기 위해서는 결제창을 비롯한 홈페이지 전체 시스템을 고쳐야 한다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "충분한 예산과 인력 충당이 뒷받침돼야 한다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "업계 전문가들은 시중 은행들의 모든 인터넷 뱅킹 서비스가 엣지와 같은 웹 표준 브라우저를 지원하려면 상당한 시일이 걸릴 것으로 전망하고 있다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "금융권의 한 CISO(최고보안책임자)는 “아예 웹 표준에 맞춰 서비스를 개편하는 것은 합당하다”면서도 “이용자의 거래 안전과 직결된 문제인 만큼 조급하게 도입하기보단 철저한 준비와 검증이 필요한 것 아니냐”고 말했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "한국인터넷진흥원 관계자는 “생체인증과 접목된 새로운 방식의 보안 인증방식 등 아예 금융권 이용자 보안체계의 패러다임을 바꾸는 발상의 전환도 필요하다”고 조언했다.",
+				"sentenceSize": 90
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "17개 시중은행 MS '윈도10' 지원율 100%? '엣지' 0%",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

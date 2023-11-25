@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008412",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "대전저축銀 매각 내달 본격화",
+		"newsSubTitle": "금감원 영업정지 7곳 실사 진행",
+		"newsContent": "대전저축은행 등 영업정지된 저축은행에 대한 매각작업이 다음달부터 본격화될 것으로 보인다.\n28일 금융감독원과 금융권에 따르면, 5월 중 부실 저축은행의 매각 작업을 위해 현재 영업정지된 7개의 저축은행에 대한 실사를 진행 중이다.\n실사가 마무리되면 자체 회생 가능성이 없는 저축은행은 예금보험공사가 매각을 추진한다.\n매각은 삼화저축은행(현 우리금융저축은행)과 같은 방식으로, 자산과 부채를 인수하는 P&A로 이뤄지며, 가능하면 우량한 금융자본에 매각할 전망이다.\n다만, 금융당국은 대전저축은행의 모기업인 부산저축은행그룹 정리에 대해 고심하고 있는 것으로 알려졌다.\n부산저축은행그룹의 규모는 총자산이 10조원대로, 대규모 예금자 피해는 피할 수 없을 것으로 보지만, 이를 최소화하기 위해 최대한 자체정상화를 지원한다는 방침인 것으로 전해졌다.\n금감원 관계자는 “대전저축은행 매각은 부산저축은행그룹에 대한 방침이 결정된 후에 논의할 사안”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전저축은행 등 영업정지된 저축은행에 대한 매각작업이 다음달부터 본격화될 것으로 보인다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "28일 금융감독원과 금융권에 따르면, 5월 중 부실 저축은행의 매각 작업을 위해 현재 영업정지된 7개의 저축은행에 대한 실사를 진행 중이다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "실사가 마무리되면 자체 회생 가능성이 없는 저축은행은 예금보험공사가 매각을 추진한다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "매각은 삼화저축은행(현 우리금융저축은행)과 같은 방식으로, 자산과 부채를 인수하는 P&A로 이뤄지며, 가능하면 우량한 금융자본에 매각할 전망이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "다만, 금융당국은 대전저축은행의 모기업인 부산저축은행그룹 정리에 대해 고심하고 있는 것으로 알려졌다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "부산저축은행그룹의 규모는 총자산이 10조원대로, 대규모 예금자 피해는 피할 수 없을 것으로 보지만, 이를 최소화하기 위해 최대한 자체정상화를 지원한다는 방침인 것으로 전해졌다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "금감원 관계자는 “대전저축은행 매각은 부산저축은행그룹에 대한 방침이 결정된 후에 논의할 사안”이라고 말했다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "우대금리까지 속속 인상…은행들, 청년희망적금 쟁탈전",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,267 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333548",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[이슈분석]인텔 반도체 자신감, 패키징으로 '차별화'",
+		"newsSubTitle": "",
+		"newsContent": "인텔은 기술 전략 설명회 '인텔 엑셀러레이티드'에서 반도체 패키징 신기술 로드맵도 공개했다.\n반도체 성능 향상에 패키징 기술의 중요성이 커지고 있어 차별화한 패키징 기술을 선보여 시장을 주도하겠다는 포부다.\n인텔은 2023년 목표로 독자 패키징 기술인 '포베로스 옴니'와 '포베로스 다이렉트'를 준비하고 있다고 소개했다.\n포베로스는 2018년 말 인텔이 공개한 3차원(3D) 적층 방식 패키징 기술이다.\n보다 적은 면적을 차지하면서, 신호 지연과 전력 소모를 줄일 수 있어 차세대 패키징 기술로 관심을 모았다.\n인텔은 2022년 하반기 생산하는 PC용 '메테오레이크' 프로세서에 포베로스 기술을 적용할 계획이라고 설명했다.\n포베로스 옴니와 포베로스 다이렉트는 포베로스를 개선한 기술이다.\n반도체 적층 시 실리콘관통전극(TSV)과 구리 기둥을 함께 사용한 것이 특징이다.\nTSV는 반도체에 구멍을 뚫어 상단 칩과 하단 칩을 연결하는 기술이다.\n데이터 전송 속도 향상에 강점이 있다.\n단, 기술 구현이 어렵고 공정 비용이 많이 든다.\n이에 인텔은 포베로스 옴니에서 TSV를 쓰지 않아도 되는 부분을 구리 기둥으로 연결해 비용 절감과 전력 효율성 개선을 꾀했다.\n포베로스 다이렉트 역시 구리를 활용한 기술이다.\n실리콘을 구리로 직접 연결해 저항을 최소화한다.\n기존 연결 방식은 접합면에 첨가 물질이 있지만, 구리로 직접 연결하면 접합 간격을 줄일 수 있다.\n접합 간격은 신호 지연과 전력 소모와 밀접한 연관이 있어 간격을 줄일수록 효율이 높아진다.\n인텔은 '임베디드 멀티다이 인터커넥트브릿지(EMIB)' 기술도 확대 적용하겠다고 강조했다.\nEMIB는 반도체(다이)를 연결하는 가교 역할로, 다이 연결 부분 아래에 숨겨 다양한 형태의 반도체 칩을 만들 수 있도록 한다.\n기존 패키징 기술과 비교해 대역폭은 2배, 전력 효율성은 4배 높일 수 있다.\n내년 생산 예정인 서버용 CPU 사파이어 래피즈에 적용된다.\n인텔이 반도체 패키징 기술에 힘을 싣는 건 반도체 제조 과정에서 패키징 기술이 한층 중요해졌기 때문이다.\n반도체 성능은 초미세 공정 기술이 한계에 도달하고 기술 극복에 시간이 걸리면서 성능 향상이 점차 힘들어지고 있다.\n대신 후공정인 패키징 기술을 통해 성능을 개선하는 방식이 주목받는다.\n또 반도체 칩 디자인 관점에서도 패키징 기술 비중이 커지고 있다.\n모바일 등 정보기술(IT) 기기가 다양해져 유연한 반도체 디자인을 위해서는 패키징 기술 개선이 선행돼야 한다.\n패키징은 인텔이 자신하는 기술이기도 하다.\n인텔의 차세대 패키징 기술은 이번에 발표한 고객사 아마존웹서비스의 반도체 생산에 적용될 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 27,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "인텔은 기술 전략 설명회 '인텔 엑셀러레이티드'에서 반도체 패키징 신기술 로드맵도 공개했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "반도체 성능 향상에 패키징 기술의 중요성이 커지고 있어 차별화한 패키징 기술을 선보여 시장을 주도하겠다는 포부다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인텔은 2023년 목표로 독자 패키징 기술인 '포베로스 옴니'와 '포베로스 다이렉트'를 준비하고 있다고 소개했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "포베로스는 2018년 말 인텔이 공개한 3차원(3D) 적층 방식 패키징 기술이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "보다 적은 면적을 차지하면서, 신호 지연과 전력 소모를 줄일 수 있어 차세대 패키징 기술로 관심을 모았다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인텔은 2022년 하반기 생산하는 PC용 '메테오레이크' 프로세서에 포베로스 기술을 적용할 계획이라고 설명했다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "포베로스 옴니와 포베로스 다이렉트는 포베로스를 개선한 기술이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "반도체 적층 시 실리콘관통전극(TSV)과 구리 기둥을 함께 사용한 것이 특징이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "TSV는 반도체에 구멍을 뚫어 상단 칩과 하단 칩을 연결하는 기술이다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "데이터 전송 속도 향상에 강점이 있다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "단, 기술 구현이 어렵고 공정 비용이 많이 든다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이에 인텔은 포베로스 옴니에서 TSV를 쓰지 않아도 되는 부분을 구리 기둥으로 연결해 비용 절감과 전력 효율성 개선을 꾀했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "포베로스 다이렉트 역시 구리를 활용한 기술이다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "실리콘을 구리로 직접 연결해 저항을 최소화한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "기존 연결 방식은 접합면에 첨가 물질이 있지만, 구리로 직접 연결하면 접합 간격을 줄일 수 있다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "접합 간격은 신호 지연과 전력 소모와 밀접한 연관이 있어 간격을 줄일수록 효율이 높아진다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "인텔은 '임베디드 멀티다이 인터커넥트브릿지(EMIB)' 기술도 확대 적용하겠다고 강조했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "EMIB는 반도체(다이)를 연결하는 가교 역할로, 다이 연결 부분 아래에 숨겨 다양한 형태의 반도체 칩을 만들 수 있도록 한다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "기존 패키징 기술과 비교해 대역폭은 2배, 전력 효율성은 4배 높일 수 있다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "내년 생산 예정인 서버용 CPU 사파이어 래피즈에 적용된다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "인텔이 반도체 패키징 기술에 힘을 싣는 건 반도체 제조 과정에서 패키징 기술이 한층 중요해졌기 때문이다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "반도체 성능은 초미세 공정 기술이 한계에 도달하고 기술 극복에 시간이 걸리면서 성능 향상이 점차 힘들어지고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "대신 후공정인 패키징 기술을 통해 성능을 개선하는 방식이 주목받는다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "또 반도체 칩 디자인 관점에서도 패키징 기술 비중이 커지고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "모바일 등 정보기술(IT) 기기가 다양해져 유연한 반도체 디자인을 위해서는 패키징 기술 개선이 선행돼야 한다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "패키징은 인텔이 자신하는 기술이기도 하다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "인텔의 차세대 패키징 기술은 이번에 발표한 고객사 아마존웹서비스의 반도체 생산에 적용될 전망이다.",
+				"sentenceSize": 54
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]인텔 반도체 자신감, 패키징으로 '차별화'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

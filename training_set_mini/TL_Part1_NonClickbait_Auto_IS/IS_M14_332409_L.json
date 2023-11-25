@@ -1,0 +1,231 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332409",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "\\\"열쇠·지갑 어디에 뒀지?\\\"...깜빡한 물건 찾는 IoT 기기 등장",
+		"newsSubTitle": "",
+		"newsContent": "깜빡한 지갑이나 열쇠는 도무지 생각 안 날 때가 많다.\n머피의 법칙이라도 작용하는 것처럼 다급한 상황일수록 어디에 뒀는지 더 기억나지 않는다.\n물건을 잘 분실하거나 둔 곳을 기억 못하는 이들을 위한 사물인터넷(IoT) 기기가 등장했다.\n솔루엠(대표 전성호)은 블루투스 기반 IoT 제품 '키코카드'와 '키코미니'를 출시한다고 11일 밝혔다.\n키코카드는 지갑에 넣을 수 있는 제품이다.\n일반 신용카드와 크기가 같다.\n두께는 1.2㎜다.\n신용카드 국제규격보다 0.3㎜ 두꺼운 수준에 불과하다.\n키코미니는 열쇠고리 형태다.\n자동차 키나 열쇠 뭉치 등 크기가 작은 물품과 함께 쓸 수 있게 고안됐다.\n가방, 핸드백, 캐리어 등에도 부착할 수 있다.\n동작 원리는 간단하다.\n무선통신 기술인 블루투스로 스마트폰과 키코카드, 키코미니가 연동한다.\n서로 일정한 거리를 벗어나면 알람이 울려 분실을 예방해준다.\n반대로 물건을 찾을 때도 도움을 준다.\n스마트폰에서 앱을 구동하면 키코미니에 달린 작은 스피커에서 나는 소리로 위치를 찾을 수 있다.\n키코카드는 최종 접속 위치와 블루투스 신호 강도 등으로 파악이 가능하다.\n아울러 스마트폰을 잃어버린 경우 두 기기에 달린 버튼을 누르면 폰에서 알람이 울려 분실을 예방할 수 있다.\n버튼은 또 스마트폰 카메라 리모컨으로 쓸 수 있다.\n키코카드는 2년간 쓸 수 있는 일체형 배터리를 탑재했다.\n키코미니는 6개월 지속되는 교체형 배터리를 채택했다.\n솔루엠은 2015년 9월 삼성전기에서 분사한 기업이다.\n파워 모듈·튜너·전자가격표시기(ESL)를 주력으로 하면서 IoT 제품과 같은 일반 소비자 시장으로 사업을 확대하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 23,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "깜빡한 지갑이나 열쇠는 도무지 생각 안 날 때가 많다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "머피의 법칙이라도 작용하는 것처럼 다급한 상황일수록 어디에 뒀는지 더 기억나지 않는다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "물건을 잘 분실하거나 둔 곳을 기억 못하는 이들을 위한 사물인터넷(IoT) 기기가 등장했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "솔루엠(대표 전성호)은 블루투스 기반 IoT 제품 '키코카드'와 '키코미니'를 출시한다고 11일 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "키코카드는 지갑에 넣을 수 있는 제품이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "일반 신용카드와 크기가 같다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "두께는 1.2㎜다.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "신용카드 국제규격보다 0.3㎜ 두꺼운 수준에 불과하다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "키코미니는 열쇠고리 형태다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "자동차 키나 열쇠 뭉치 등 크기가 작은 물품과 함께 쓸 수 있게 고안됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "가방, 핸드백, 캐리어 등에도 부착할 수 있다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "동작 원리는 간단하다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "무선통신 기술인 블루투스로 스마트폰과 키코카드, 키코미니가 연동한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "서로 일정한 거리를 벗어나면 알람이 울려 분실을 예방해준다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "반대로 물건을 찾을 때도 도움을 준다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "스마트폰에서 앱을 구동하면 키코미니에 달린 작은 스피커에서 나는 소리로 위치를 찾을 수 있다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "키코카드는 최종 접속 위치와 블루투스 신호 강도 등으로 파악이 가능하다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "아울러 스마트폰을 잃어버린 경우 두 기기에 달린 버튼을 누르면 폰에서 알람이 울려 분실을 예방할 수 있다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "버튼은 또 스마트폰 카메라 리모컨으로 쓸 수 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "키코카드는 2년간 쓸 수 있는 일체형 배터리를 탑재했다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "키코미니는 6개월 지속되는 교체형 배터리를 채택했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "솔루엠은 2015년 9월 삼성전기에서 분사한 기업이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "파워 모듈·튜너·전자가격표시기(ESL)를 주력으로 하면서 IoT 제품과 같은 일반 소비자 시장으로 사업을 확대하고 있다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "\\\"열쇠·지갑 어디에 뒀지?\\\"...깜빡한 물건 찾는 IoT 기기 등장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

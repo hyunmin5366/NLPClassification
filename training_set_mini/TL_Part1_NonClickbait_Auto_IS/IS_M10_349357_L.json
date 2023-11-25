@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349357",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "움직이는 차 위로 자동 착륙…똑똑한 드론기술 개발",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 움직이는 차량 위에 자동으로 착륙하는 드론 기술을 개발했다.\n광주과학기술원(GIST)은 31일 기계공학부 이종호 교수 연구팀이 차량에 반구형 적외선 마커를 설치해 움직이는 차량을 따라가며 자율적으로 착륙할 수 있는 드론 기술을 개발했다고 밝혔다.\n연구진은 기존 GPS(위성항법시스템) 기반 착륙법은 드론의 위치에 따라 마커 인식률이 크게 떨어지고, 비닐 등 이물질로 마커가 덮여있는 경우 착륙 지점 파악이 어렵다는 점에 주목했다.\n공중에서 비행하는 드론과 지상에서 이동하는 차량 간 협력은 드론 택배와 같은 새로운 서비스로 발전할 수 있는데, 차량의 경우 넓은 착륙 공간을 만들기 어려워 좁은 공간에 드론이 정확히 착륙하는 기술이 중요하다.\n연구진은 적외선 카메라를 장착한 드론이 적외선 신호를 내는 반구형태의 LED 마커를 따라가면서 마커가 설치된 차량 위로 자동 착륙하는 시스템을 개발했다.\n반구형 적외선 마커에 사용된 LED는 투과율이 높아 비닐, 나뭇잎 등 이물질의 방해에도 문제가 없었다.\n또 해당 마커는 상용 LED 소자를 활용해 제작 단가도 낮출 수 있었다.\n이종호 교수는 \\\"반구형 적외선 마커는 무인항공기와 지상이동체간의 협업을 통한 드론 택배 등 무인항공기 산업에 활용될 수 있을 것으로 기대한다\\\"고 말했다.\n이번 연구성과는 국제전기전자공학회(IEEE)와 미국기계공학회(ASME)가 공동발간하는 공학, 기계분야 국제학술지 '트랜잭션스 온 매카트로닉스'(IEEE/ASME Transactions on Mechatronics)에 3월 17일자로 온라인 게재됐다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 움직이는 차량 위에 자동으로 착륙하는 드론 기술을 개발했다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "광주과학기술원(GIST)은 31일 기계공학부 이종호 교수 연구팀이 차량에 반구형 적외선 마커를 설치해 움직이는 차량을 따라가며 자율적으로 착륙할 수 있는 드론 기술을 개발했다고 밝혔다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "연구진은 기존 GPS(위성항법시스템) 기반 착륙법은 드론의 위치에 따라 마커 인식률이 크게 떨어지고, 비닐 등 이물질로 마커가 덮여있는 경우 착륙 지점 파악이 어렵다는 점에 주목했다.",
+				"sentenceSize": 102
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "공중에서 비행하는 드론과 지상에서 이동하는 차량 간 협력은 드론 택배와 같은 새로운 서비스로 발전할 수 있는데, 차량의 경우 넓은 착륙 공간을 만들기 어려워 좁은 공간에 드론이 정확히 착륙하는 기술이 중요하다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "연구진은 적외선 카메라를 장착한 드론이 적외선 신호를 내는 반구형태의 LED 마커를 따라가면서 마커가 설치된 차량 위로 자동 착륙하는 시스템을 개발했다.",
+				"sentenceSize": 85
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반구형 적외선 마커에 사용된 LED는 투과율이 높아 비닐, 나뭇잎 등 이물질의 방해에도 문제가 없었다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 해당 마커는 상용 LED 소자를 활용해 제작 단가도 낮출 수 있었다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이종호 교수는 \\\"반구형 적외선 마커는 무인항공기와 지상이동체간의 협업을 통한 드론 택배 등 무인항공기 산업에 활용될 수 있을 것으로 기대한다\\\"고 말했다.",
+				"sentenceSize": 87
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이번 연구성과는 국제전기전자공학회(IEEE)와 미국기계공학회(ASME)가 공동발간하는 공학, 기계분야 국제학술지 '트랜잭션스 온 매카트로닉스'(IEEE/ASME Transactions on Mechatronics)에 3월 17일자로 온라인 게재됐다.",
+				"sentenceSize": 139
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "움직이는 차 위로 자동 착륙…똑똑한 드론기술 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

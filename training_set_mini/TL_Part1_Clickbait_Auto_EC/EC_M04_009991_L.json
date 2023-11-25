@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_009991",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "'2000선 고지 넘자'",
+		"newsSubTitle": "美ㆍ中 경기회복 코스피 1999.07로 마감",
+		"newsContent": "코스피 지수가 미국과 중국의 경기회복 기대감에 힘입어 나흘째 상승하며 2000선 돌파에 바짝 다가섰다.\n2일 코스피 지수는 전 거래일 대비 17.08포인트(0.86%%) 상승한 1999.07에 거래를 마쳤다.\n업종별로는 종이목재, 화학, 비금속광물, 철강금속, 기계, 금융, 은행 등이 상승한 반면 유통, 운수창고, 통신업, 섬유의복, 의료정밀 등은 하락했다.\n코스닥 지수도 하루만에 반등에 성공했다.\n코스닥 지수는 전 거래일보다 6.65포인트(1.39%) 내린 485.54에 장을 마감했다.\n업종별로는 통신장비, 컴퓨터서비스, 소프트웨어, IT부품, 음식료담배, 섬유의류 등이 올랐고 건설업, 인터넷, 비금속 등은 하락했다.\n원ㆍ달러 환율은 미국과 중국의 지표 개선에 하락 마감했다.\n이날 서울 외환시장에서 원ㆍ달러 환율은 전 거래일 대비 2.50원 오른 1127.5원에 거래를 마쳤다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "코스피 지수가 미국과 중국의 경기회복 기대감에 힘입어 나흘째 상승하며 2000선 돌파에 바짝 다가섰다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "2일 코스피 지수는 전 거래일 대비 17.08포인트(0.86%%) 상승한 1999.07에 거래를 마쳤다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "업종별로는 종이목재, 화학, 비금속광물, 철강금속, 기계, 금융, 은행 등이 상승한 반면 유통, 운수창고, 통신업, 섬유의복, 의료정밀 등은 하락했다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "코스닥 지수도 하루만에 반등에 성공했다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "코스닥 지수는 전 거래일보다 6.65포인트(1.39%) 내린 485.54에 장을 마감했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "업종별로는 통신장비, 컴퓨터서비스, 소프트웨어, IT부품, 음식료담배, 섬유의류 등이 올랐고 건설업, 인터넷, 비금속 등은 하락했다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "원ㆍ달러 환율은 미국과 중국의 지표 개선에 하락 마감했다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "이날 서울 외환시장에서 원ㆍ달러 환율은 전 거래일 대비 2.50원 오른 1127.5원에 거래를 마쳤다.",
+				"sentenceSize": 57
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "내달 산단 1000개 시대 열린다, 5년간 345개 지정 등 분양 호조",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

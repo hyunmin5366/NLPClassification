@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012505",
+		"newsCategory": "경제",
+		"newsSubcategory": "건설/부동산",
+		"newsTitle": "카드사 개인정보 불법유통 점검",
+		"newsSubTitle": "설명절 직후부터 6개社 전부 해당",
+		"newsContent": "금융당국이 최근 금융권의 대규모 정보 유출에 따른 후속 조치로 다음달 모든 카드사에 대한 특별 검사에 들어간다.\n이번 검사에서는 카드사 내부 통제뿐 아니라 카드사와 관련된 밴사, 가맹점, 제휴사의 개인정보 불법 유통 가능성도 점검하게 된다.\n29일 금융권에 따르면 금융위원회와 금융감독원은 설 연휴가 끝난 직후인 2월 초에 신한카드, 삼성카드, 현대카드, 하나SK카드, 우리카드, 비씨카드 등 6개 전 카드사에 대한 현장 검사를 실시하기로 했다.\n이번 특검은 카드사 고객 정보와 관련한 내부 통제 현황, 위·수탁업체 관리 실태에 초점이 맞춰진다.\n특히 1000여개가 넘는 제휴업체에 카드 고객 정보를 넘겨주면서 사후 관리와 가맹점·밴사 등에 대한 관리를 제대로 하는지 집중적으로 살펴볼 방침이다.\n금융당국은 앞서 최근 1억여건의 고객 정보가 유출된 국민카드, 롯데카드, 농협카드에 대해서는 이미 특별 검사에 착수한 것으로 알려졌다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "금융당국이 최근 금융권의 대규모 정보 유출에 따른 후속 조치로 다음달 모든 카드사에 대한 특별 검사에 들어간다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이번 검사에서는 카드사 내부 통제뿐 아니라 카드사와 관련된 밴사, 가맹점, 제휴사의 개인정보 불법 유통 가능성도 점검하게 된다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "29일 금융권에 따르면 금융위원회와 금융감독원은 설 연휴가 끝난 직후인 2월 초에 신한카드, 삼성카드, 현대카드, 하나SK카드, 우리카드, 비씨카드 등 6개 전 카드사에 대한 현장 검사를 실시하기로 했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이번 특검은 카드사 고객 정보와 관련한 내부 통제 현황, 위·수탁업체 관리 실태에 초점이 맞춰진다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "특히 1000여개가 넘는 제휴업체에 카드 고객 정보를 넘겨주면서 사후 관리와 가맹점·밴사 등에 대한 관리를 제대로 하는지 집중적으로 살펴볼 방침이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "금융당국은 앞서 최근 1억여건의 고객 정보가 유출된 국민카드, 롯데카드, 농협카드에 대해서는 이미 특별 검사에 착수한 것으로 알려졌다.",
+				"sentenceSize": 75
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "귀경길엔 와이파이 무료...SKT 전국 주요 교통시설 구축",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_329553",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "구글, '핏비트' 2.4조원에 인수... 웨어러블 시장 진출",
+		"newsSubTitle": "",
+		"newsContent": "구글 모회사 알파벳이 웨어러블 기기 제조업체 핏비트를 21억달러(약 2조4500억원)에 인수하기로 결정했다.\n핏비트 주식 1주당 7.35달러에 현금 인수할 계획이다.\n인수 절차는 내년 쯤 마무리된다.\n핏비트는 한국계 미국인 제임스 박이 공동창업한 스마트밴드·워치 전문 업체다.\n걸음 수와 달린 거리, 칼로리 소모량, 심장박동 수 등을 측정하는 스마트밴드류 초기 시장을 개척했다.\n다만 최근에는 애플·삼성전자 등 스마트폰 제조사 자체 웨어러블 기기와 샤오미의 저가 공세에 실적 부진을 면치 못했다.\n구글은 웨어러블 기기용 운영체계 '웨어 OS'를 보유했으나 자체 제품군은 만들지 않았다.\n핏비트 인수를 통해 애플·삼성전자 등과 웨어러블 시장에서 경쟁을 본격화할 것으로 예상된다.\n릭 오스텔로 구글 하드웨어 담당 수석 부사장은 구글 공식 블로그를 통해 “핏비트는 업게 선구자로 매력적인 제품과 노하우, 활발한 사용자 커뮤니티를 만들어냈다”면서 “핏비트와 긴밀하게 협력해 스마트워치와 피트니스 트래커 플랫폼을 (픽셀 브랜드에)결합해 나갈 계획”이라고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "구글 모회사 알파벳이 웨어러블 기기 제조업체 핏비트를 21억달러(약 2조4500억원)에 인수하기로 결정했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "핏비트 주식 1주당 7.35달러에 현금 인수할 계획이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "인수 절차는 내년 쯤 마무리된다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "핏비트는 한국계 미국인 제임스 박이 공동창업한 스마트밴드·워치 전문 업체다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "걸음 수와 달린 거리, 칼로리 소모량, 심장박동 수 등을 측정하는 스마트밴드류 초기 시장을 개척했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만 최근에는 애플·삼성전자 등 스마트폰 제조사 자체 웨어러블 기기와 샤오미의 저가 공세에 실적 부진을 면치 못했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "구글은 웨어러블 기기용 운영체계 '웨어 OS'를 보유했으나 자체 제품군은 만들지 않았다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "핏비트 인수를 통해 애플·삼성전자 등과 웨어러블 시장에서 경쟁을 본격화할 것으로 예상된다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "릭 오스텔로 구글 하드웨어 담당 수석 부사장은 구글 공식 블로그를 통해 “핏비트는 업게 선구자로 매력적인 제품과 노하우, 활발한 사용자 커뮤니티를 만들어냈다”면서 “핏비트와 긴밀하게 협력해 스마트워치와 피트니스 트래커 플랫폼을 (픽셀 브랜드에)결합해 나갈 계획”이라고 말했다.",
+				"sentenceSize": 154
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "구글, '핏비트' 2.4조원에 인수... 웨어러블 시장 진출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

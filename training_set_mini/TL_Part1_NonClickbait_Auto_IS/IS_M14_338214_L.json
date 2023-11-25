@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338214",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "소프트캠프, 위장한 악성 문서파일 잡는 원스탑 CDR 솔루션 출시",
+		"newsSubTitle": "",
+		"newsContent": "소프트캠프(대표 배환국)가 계약서∙이력서∙경고장∙택배안내 등 위장 악성 문서파일을 잡는 무해화(CDR) 솔루션을 출시했다.\n소프트캠프는 이메일∙USB∙인터넷 등 외부경로를 통해 유입되는 악성 문서파일을 잡는 원스탑 CDR 솔루션 '실덱스 에이디(SHIELDEX AD)'를 출시했다고 10일 밝혔다.\n실덱스 에이디는 CDR 기술을 바탕으로 기존 실덱스 제품 기능을 고도화했다.\n관리자∙사용자 편의성에 중점을 뒀다.\n외부경로와 관련된 서버 앞 단에 설치하면 외부망과 연결된 폴더에 들어오는 악성파일을 실시간으로 감시한다.\n이후 재구성된 안전한 파일을 내부망 지정된 폴더로 자동으로 전송한다.\n기존 로그인 인증 절차, 상사 승인을 통해야만 파일을 전송하는 불편함을 없앴다.\n관리자에게 외부에서 유입된 파일 반입 현황, 파일 누적건수 등 통계자료를 제공해 의심스러운 파일 이력관리를 강화한다.\n제품은 현재 일본 다수 지자체에 도입돼 기술력∙보안성을 검증 받았다.\n일본에서는 표적형 공격에 대응하기 위해 전 지역 모든 지자체에 망분리와 CDR 솔루션 도입을 의무화 했다.\n이재필 소프트캠프 부사장은 \\\"보안담당자 가장 큰 고민인 랜섬웨어 대응과 관리 편의성을 모두 충족할 것\\\"이라며 \\\"앞으로는 보안 못지않게 심플하고 편리한 보안 솔루션을 개발하는데 집중할 계획\\\"이라고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "소프트캠프(대표 배환국)가 계약서∙이력서∙경고장∙택배안내 등 위장 악성 문서파일을 잡는 무해화(CDR) 솔루션을 출시했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "소프트캠프는 이메일∙USB∙인터넷 등 외부경로를 통해 유입되는 악성 문서파일을 잡는 원스탑 CDR 솔루션 '실덱스 에이디(SHIELDEX AD)'를 출시했다고 10일 밝혔다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "실덱스 에이디는 CDR 기술을 바탕으로 기존 실덱스 제품 기능을 고도화했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "관리자∙사용자 편의성에 중점을 뒀다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "외부경로와 관련된 서버 앞 단에 설치하면 외부망과 연결된 폴더에 들어오는 악성파일을 실시간으로 감시한다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이후 재구성된 안전한 파일을 내부망 지정된 폴더로 자동으로 전송한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "기존 로그인 인증 절차, 상사 승인을 통해야만 파일을 전송하는 불편함을 없앴다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "관리자에게 외부에서 유입된 파일 반입 현황, 파일 누적건수 등 통계자료를 제공해 의심스러운 파일 이력관리를 강화한다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "제품은 현재 일본 다수 지자체에 도입돼 기술력∙보안성을 검증 받았다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "일본에서는 표적형 공격에 대응하기 위해 전 지역 모든 지자체에 망분리와 CDR 솔루션 도입을 의무화 했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이재필 소프트캠프 부사장은 \\\"보안담당자 가장 큰 고민인 랜섬웨어 대응과 관리 편의성을 모두 충족할 것\\\"이라며 \\\"앞으로는 보안 못지않게 심플하고 편리한 보안 솔루션을 개발하는데 집중할 계획\\\"이라고 밝혔다.",
+				"sentenceSize": 117
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "소프트캠프, 위장한 악성 문서파일 잡는 원스탑 CDR 솔루션 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_332527",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "페이스북 또?...비공개 사진 노출 버그로 '최대 680만명' 피해",
+		"newsSubTitle": "",
+		"newsContent": "페이스북 이용자 비공개 게시물이 노출되는 보안사고가 발생했다.\n페이스북은 14일(현지시간) 이용자가 공유하지 않은 사진이 노출되는 버그(결함)를 확인했다면서 이로 인해 최대 680만명 이용자 사진이 노출되는 피해를 입을 수 있다고 발표했다.\n페이스북 이용자가 로그인한 뒤 '제3자'(third-party) 애플리케이션에 '사진 접근'을 허용하면 페이스북 이용자가 공유하지도 않은 사진이 이들 애플리케이션에 노출된다.\n이 같은 노출은 지난 9월 13일에서 25일까지 발생한 것으로 전해졌다.\n페이스북은 876개 개발자가 만든 최대 1500개 애플리케이션이 영향 받았을 수 있다고 밝혔다.\n이들 애플리케이션을 통해 페이스북 이용자 사진이 의도치 않게 노출됐을 수 있다는 의미다.\n페이스북은 버그 문제를 지난 9월 25일 이미 해결했다고 밝혔지만 이미 노출된 사진은 별개 문제다.\n토머 바 페이스북 엔지니어링 담당 국장은 \\\"사용자가 페이스북에 올렸으나 공개적으로 게시되지 않은 사진, 페이스북 스토리에 올린 사진 등이 공개될 가능성 있다\\\"면서 \\\"이런 일이 생겨 유감\\\"이라고 덧붙였다.\n그는 페이스북 이용자에게 사진 노출 사고를 공지하고, 어떤 사진이 노출됐는지 확인할 수 있도록 '헬프 센터'로 안내할 것이라고 말했다.\n그는 \\\"다음 주 초 앱 버그로 인한 피해를 입었는지를 확인할 수 있는 툴을 앱 개발업자에게 내놓을 것이며, 이들 앱 개발업자가 노출 사진을 삭제하도록 협력할 것\\\"이라고 설명했다.\n페이스북은 지난 9월 자사 네트워크상에 심각한 보안 침입이 발견됐다면서 약 5천만 명의 사용자 개인정보가 노출될 위험에 처해 있다고 밝힌 바 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "페이스북 이용자 비공개 게시물이 노출되는 보안사고가 발생했다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "페이스북은 14일(현지시간) 이용자가 공유하지 않은 사진이 노출되는 버그(결함)를 확인했다면서 이로 인해 최대 680만명 이용자 사진이 노출되는 피해를 입을 수 있다고 발표했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "페이스북 이용자가 로그인한 뒤 '제3자'(third-party) 애플리케이션에 '사진 접근'을 허용하면 페이스북 이용자가 공유하지도 않은 사진이 이들 애플리케이션에 노출된다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이 같은 노출은 지난 9월 13일에서 25일까지 발생한 것으로 전해졌다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "페이스북은 876개 개발자가 만든 최대 1500개 애플리케이션이 영향 받았을 수 있다고 밝혔다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이들 애플리케이션을 통해 페이스북 이용자 사진이 의도치 않게 노출됐을 수 있다는 의미다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "페이스북은 버그 문제를 지난 9월 25일 이미 해결했다고 밝혔지만 이미 노출된 사진은 별개 문제다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "토머 바 페이스북 엔지니어링 담당 국장은 \\\"사용자가 페이스북에 올렸으나 공개적으로 게시되지 않은 사진, 페이스북 스토리에 올린 사진 등이 공개될 가능성 있다\\\"면서 \\\"이런 일이 생겨 유감\\\"이라고 덧붙였다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "그는 페이스북 이용자에게 사진 노출 사고를 공지하고, 어떤 사진이 노출됐는지 확인할 수 있도록 '헬프 센터'로 안내할 것이라고 말했다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "그는 \\\"다음 주 초 앱 버그로 인한 피해를 입었는지를 확인할 수 있는 툴을 앱 개발업자에게 내놓을 것이며, 이들 앱 개발업자가 노출 사진을 삭제하도록 협력할 것\\\"이라고 설명했다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "페이스북은 지난 9월 자사 네트워크상에 심각한 보안 침입이 발견됐다면서 약 5천만 명의 사용자 개인정보가 노출될 위험에 처해 있다고 밝힌 바 있다.",
+				"sentenceSize": 82
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "페이스북 또?...비공개 사진 노출 버그로 '최대 680만명' 피해",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

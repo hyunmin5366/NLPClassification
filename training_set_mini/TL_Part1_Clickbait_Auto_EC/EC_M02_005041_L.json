@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_005041",
+		"newsCategory": "경제",
+		"newsSubcategory": "산업",
+		"newsTitle": "삼성중공업, 똑똑한 탄소배출 제어 시스템 기본 인증 획득",
+		"newsSubTitle": "‘SSPL’, 하반기 출시 예정",
+		"newsContent": "삼성중공업이 탄소 배출 제어 시스템을 상품화하며 온실가스 감축에 적극 나섰다.\n삼성중공업은 14일 한국선급(KR)로부터 스마트 출력 제한 시스템 'SSPL'에 대한 기본 인증을 획득했다.\nSSPL은 선박의 탄소 배출량을 줄이기 위해 메인엔진 또는 엔진 축으로부터 엔진 출력을 계측해 이를 효율적으로 제어·관리하는 친환경 스마트 기술이다.\n또한 △선박 에너지 효율 평가에 따른 엔진 출력 제한 설정 △데이터 자동 기록·저장 및 육상 전송 △선급 검사에 필요한 기술 리포트 생성 등을 서비스 하는 솔루션이다.\n국제해사기구는 선박 온실가스 배출 감축을 위해 오는 2023년부터 규제를 예고했다.\n이를 충족 못하는 선박은 엔진 출력 제한 및 에너지 절감 장치 설치 또는 저탄소 연료 추진 선박으로 개조 등 여러 선택지 중 하나를 택해 물리적인 탄소 배출 저감 조치를 이행해야 한다.\n삼성중공업 관계자는 데일리임팩트에 \\\"이 중 엔진 출력 제한과 축 출력 제한이 즉각적이면서 가장 효과적인 대안으로 판단해 SSPL 개발을 추진해 왔다\\\"라고 설명했다.\n삼성중공업은 이번 선급 기술 인증 획득 후 파일럿 테스트를 거쳐 올 하반기 제품을 출시할 계획이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "삼성중공업이 탄소 배출 제어 시스템을 상품화하며 온실가스 감축에 적극 나섰다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "삼성중공업은 14일 한국선급(KR)로부터 스마트 출력 제한 시스템 'SSPL'에 대한 기본 인증을 획득했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "SSPL은 선박의 탄소 배출량을 줄이기 위해 메인엔진 또는 엔진 축으로부터 엔진 출력을 계측해 이를 효율적으로 제어·관리하는 친환경 스마트 기술이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또한 △선박 에너지 효율 평가에 따른 엔진 출력 제한 설정 △데이터 자동 기록·저장 및 육상 전송 △선급 검사에 필요한 기술 리포트 생성 등을 서비스 하는 솔루션이다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "국제해사기구는 선박 온실가스 배출 감축을 위해 오는 2023년부터 규제를 예고했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이를 충족 못하는 선박은 엔진 출력 제한 및 에너지 절감 장치 설치 또는 저탄소 연료 추진 선박으로 개조 등 여러 선택지 중 하나를 택해 물리적인 탄소 배출 저감 조치를 이행해야 한다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "삼성중공업 관계자는 데일리임팩트에 \\\"이 중 엔진 출력 제한과 축 출력 제한이 즉각적이면서 가장 효과적인 대안으로 판단해 SSPL 개발을 추진해 왔다\\\"라고 설명했다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "삼성중공업은 이번 선급 기술 인증 획득 후 파일럿 테스트를 거쳐 올 하반기 제품을 출시할 계획이다.",
+				"sentenceSize": 55
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대전 설차례상 19만원",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

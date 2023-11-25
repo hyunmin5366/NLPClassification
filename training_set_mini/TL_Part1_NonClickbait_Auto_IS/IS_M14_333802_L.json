@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_333802",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "소재",
+		"newsTitle": "[ET뷰]현대차, 차량용 반도체 생태계 '스피드업'",
+		"newsSubTitle": "",
+		"newsContent": "현대자동차가 차세대 차량용 전력반도체 개발에 나서면서 산업 생태계에 훈풍이 불고 있다.\n현대차는 전력 반도체 업체 파워큐브와 함께 실리콘 카바이드(SiC), 질화갈륨(GaN), 산화갈륨(Ga203) 등 신소재를 활용한 반도체를 개발한다.\n차세대 반도체는 기존 실리콘 소재 반도체보다 칩 수량을 줄이면서도 높은 성능을 내는 것이 특징이다.\n국내 파운드리 업체도 현대차 특수에 기대하고 있다.\n현대차는 산화갈륨 전력관리반도체(PMIC), 마이크로컨트롤러유닛(MCU) 등을 국내 파운드리에 맡길 것으로 알려졌다.\n삼성전자와의 협력도 가시화되고 있다.\n현대차는 제네시스에 카메라 이미지센서, 차량용 PMIC, 인포테인먼트 애플리케이션 프로세서(AP) 등에서 삼성전자 제품을 도입하거나 검토 중이다.\n테슬라는 전기차 모델3에 업계 최초로 스위스 ST마이크로일렉트로닉스 SiC 반도체를 탑재했다.\n토요타, 제너럴모터스(GM), 폭스바겐 등도 독일 인피니언, 네덜란드 NXP 등 글로벌 팹리스와 손잡고 차세대 소재 기반 반도체를 개발하고 있다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "현대자동차가 차세대 차량용 전력반도체 개발에 나서면서 산업 생태계에 훈풍이 불고 있다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "현대차는 전력 반도체 업체 파워큐브와 함께 실리콘 카바이드(SiC), 질화갈륨(GaN), 산화갈륨(Ga203) 등 신소재를 활용한 반도체를 개발한다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "차세대 반도체는 기존 실리콘 소재 반도체보다 칩 수량을 줄이면서도 높은 성능을 내는 것이 특징이다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국내 파운드리 업체도 현대차 특수에 기대하고 있다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "현대차는 산화갈륨 전력관리반도체(PMIC), 마이크로컨트롤러유닛(MCU) 등을 국내 파운드리에 맡길 것으로 알려졌다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "삼성전자와의 협력도 가시화되고 있다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "현대차는 제네시스에 카메라 이미지센서, 차량용 PMIC, 인포테인먼트 애플리케이션 프로세서(AP) 등에서 삼성전자 제품을 도입하거나 검토 중이다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "테슬라는 전기차 모델3에 업계 최초로 스위스 ST마이크로일렉트로닉스 SiC 반도체를 탑재했다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "토요타, 제너럴모터스(GM), 폭스바겐 등도 독일 인피니언, 네덜란드 NXP 등 글로벌 팹리스와 손잡고 차세대 소재 기반 반도체를 개발하고 있다.",
+				"sentenceSize": 81
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[ET뷰]현대차, 차량용 반도체 생태계 '스피드업'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

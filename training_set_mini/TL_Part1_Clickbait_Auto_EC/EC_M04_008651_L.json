@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_008651",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "슈퍼컴퓨터 처리속도 수십배 향상",
+		"newsSubTitle": "분자동 역학코드기술 세계첫 개발 KISTI 독일서 시연",
+		"newsContent": "한국과학기술정보연구원(KISTI)은 슈퍼컴퓨터의 처리속도를 수십배 향상시킬 수 있는 기술을 개발했다고 20일 밝혔다.\nKISTI는 미국 인텔(Intel)사의 차세대 컴퓨팅 아키텍처(MIC)를 기반으로 '분자동역학 코드(KMD)' 기술을 세계 최초로 개발했다.\n탄소나노튜브, 탄소그래핀, 실리콘 표면 등 나노물질 시뮬레이션에서 주로 활용하게 될 이 기술은 현존하는 멀티코어 프로세서 기반 슈퍼컴퓨팅 기술의 한계를 뛰어넘어 '헤테로컴퓨팅 기술'로 계산 처리속도를 크게 향상시킬 수 있는 원천기술로 평가받는다.\n기존 슈퍼컴이 1초당 500억회의 부동 소수점 연산을 처리할 수 있다면 KMD 기술을 활용하면 처리속도가 수십배 빨라질 수 있다.\nKISTI는 관련기술을 이날부터 23일까지 독일 함부르크에서 열리는 세계슈퍼컴퓨팅콘퍼런스를 통해 시연한다.\n이지수 KISTI 슈퍼컴퓨팅본부장은 “우리 기술력이 슈퍼컴퓨팅 분야에서 세계적 수준에 도달했음을 입증하고 나아가 세계시장에서 기술적인 우위를 차지할 수 있는 계기가 마련됐다”며 “앞으로 인텔과의 협력을 강화해 나가면서 국내 원천기술 개발역량도 확보하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국과학기술정보연구원(KISTI)은 슈퍼컴퓨터의 처리속도를 수십배 향상시킬 수 있는 기술을 개발했다고 20일 밝혔다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "KISTI는 미국 인텔(Intel)사의 차세대 컴퓨팅 아키텍처(MIC)를 기반으로 '분자동역학 코드(KMD)' 기술을 세계 최초로 개발했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "탄소나노튜브, 탄소그래핀, 실리콘 표면 등 나노물질 시뮬레이션에서 주로 활용하게 될 이 기술은 현존하는 멀티코어 프로세서 기반 슈퍼컴퓨팅 기술의 한계를 뛰어넘어 '헤테로컴퓨팅 기술'로 계산 처리속도를 크게 향상시킬 수 있는 원천기술로 평가받는다.",
+				"sentenceSize": 137
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "기존 슈퍼컴이 1초당 500억회의 부동 소수점 연산을 처리할 수 있다면 KMD 기술을 활용하면 처리속도가 수십배 빨라질 수 있다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KISTI는 관련기술을 이날부터 23일까지 독일 함부르크에서 열리는 세계슈퍼컴퓨팅콘퍼런스를 통해 시연한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이지수 KISTI 슈퍼컴퓨팅본부장은 “우리 기술력이 슈퍼컴퓨팅 분야에서 세계적 수준에 도달했음을 입증하고 나아가 세계시장에서 기술적인 우위를 차지할 수 있는 계기가 마련됐다”며 “앞으로 인텔과의 협력을 강화해 나가면서 국내 원천기술 개발역량도 확보하겠다”고 말했다.",
+				"sentenceSize": 148
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "대림산업에서 'DL그룹'으로…돈의문 시대 개막",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

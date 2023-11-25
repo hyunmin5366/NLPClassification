@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327211",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[테크비즈코리아 2021]<6>안전하고 자유 변형이 가능한 전고체 전지 기술",
+		"newsSubTitle": "",
+		"newsContent": "한국기초과학지원연구원(KBSI)은 고체 고분자 전해질을 적용한 적층 구조 파우치 타입 전고체 전지를 테크비즈코리아 2021에 내놓았다.\n이 전지는 1밀리미터(㎜) 이하 두께로 얇게 제작돼 구기거나 자르는 등 극한 변형이 가해져도 정상 작동한다.\n자유변형이 가능하다.\n다층 적층 설계로 100에서 500밀리암페어시(mAh)급 전고체 전지 제작이 가능하다.\n웨어러블 전자기기나 헬스케어 기기에 즉시 적용할 수 있다.\n대면적 복합전극을 적용한 풀셀 형태로, 100mAh 용량과 200회 이상 충·방전, 1000회 이상 굽힘 테스트에도 90% 용량을 유지하는 안정성을 확보했다.\n연구팀은 이 기술이 안전하고 고에너지밀도 구현도 가능하기 때문에 중대형 활용 분야에도 충분히 이용될 수 있다고 설명했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국기초과학지원연구원(KBSI)은 고체 고분자 전해질을 적용한 적층 구조 파우치 타입 전고체 전지를 테크비즈코리아 2021에 내놓았다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 전지는 1밀리미터(㎜) 이하 두께로 얇게 제작돼 구기거나 자르는 등 극한 변형이 가해져도 정상 작동한다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "자유변형이 가능하다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "다층 적층 설계로 100에서 500밀리암페어시(mAh)급 전고체 전지 제작이 가능하다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "웨어러블 전자기기나 헬스케어 기기에 즉시 적용할 수 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대면적 복합전극을 적용한 풀셀 형태로, 100mAh 용량과 200회 이상 충·방전, 1000회 이상 굽힘 테스트에도 90% 용량을 유지하는 안정성을 확보했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연구팀은 이 기술이 안전하고 고에너지밀도 구현도 가능하기 때문에 중대형 활용 분야에도 충분히 이용될 수 있다고 설명했다.",
+				"sentenceSize": 67
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[테크비즈코리아 2021]<6>안전하고 자유 변형이 가능한 전고체 전지 기술",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

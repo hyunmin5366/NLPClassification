@@ -1,0 +1,195 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323693",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "국내 스마트기기 10대 중 2대, '블루본' 취약점 노출",
+		"newsSubTitle": "",
+		"newsContent": "국내 스마트 기기 10대 중 2대는 블루투스를 활용한 블루본(BlueBorne) 취약점에 노출됐다.\n구형 안드로이드 스마트 기기에서 보안 업데이트를 지원하지 않은 점이 한 요인이다.\n해외 블루본 취약점 노출 사례가 지속 발견돼 공격이 현실화될 우려가 있다.\n국내 보안업체 노르마(대표 정현철)는 블루투스 탑재기기 215대 중 60대(약 27.9%)가 블루본 취약점에 노출된 것으로 조사됐다고 15일 밝혔다.\n스마트폰 외 스마트 TV∙노트북∙태블릿∙스마트워치∙오디오 등이 블루본 취약점에 노출됐다.\n노르마는 11일 오후 서울 용산구 서울역에서 무작위로 스마트 기기를 탐지했다.\n블루본 취약점을 발견한 보안기업 아미스(Armis)에서 제공하는 블루본 스캐너 앱을 사용해 조사했다.\n블루본은 블루투스(Bluetooth)와 에어본(Airbone) 합성어다.\n블루투스를 활용하는 기기 데이터를 빼돌리고 악성코드를 감염하는 취약점이다.\n공격자는 블루투스가 활성화된 장치에 페어링하지 않아도 장치를 제어한다.\n지난해 9월 이스라엘 보안기업 아미스가 블루투스와 관련 8개 취약점을 발견하고 이를 묶어 블루본으로 명명했다.\n블루투스를 사용하는 대부분 기기가 취약점에 노출돼 세계적으로 파장이 크다.\n마이크로소프트(MS), 구글, 애플 등 운용체계(OS)업체와 기기 제조사는 서둘러 보안 업데이트를 내놓았다.\n업데이트가 안 되는 구형 안드로이드 스마트 기기 위주로 블루본 취약점 패치가 이뤄지지 않았다.\n보안 전문가는 지난해 블루본 취약점이 공개됐을 때 구형 안드로이드 기기가 업데이트 사각지대가 된다고 지적했다.\n이희조 고려대 교수는 \\\"안드로이드는 제조사 패치까지 진행돼야 하며 통상 3년이 지난 스마트폰 모델은 제조사에서 패치를 지원하지 않는다\\\"면서 \\\"보안 업데이트가 포함된 패치를 하지 않고 이전 버전 OS를 쓰는 사용자도 많다\\\"고 말했다.\n블루본 취약점이 계속 발견되면서 공격이 현실화된다.\n아미스는 지난해 11월 아마존과 구글 인공지능(AI) 스피커가 블루본 취약점에 노출됐다고 지적했다.\n이 교수는 \\\"블루본 공격이 개념검증(PoC)으로 공개돼 있기 때문에 공격은 언제든 감행된다\\\"면서 \\\"국내 패치에 여러 단계가 필요해 대응이 늦어 개선이 필요하다\\\"고 밝혔다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 19,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 스마트 기기 10대 중 2대는 블루투스를 활용한 블루본(BlueBorne) 취약점에 노출됐다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "구형 안드로이드 스마트 기기에서 보안 업데이트를 지원하지 않은 점이 한 요인이다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해외 블루본 취약점 노출 사례가 지속 발견돼 공격이 현실화될 우려가 있다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국내 보안업체 노르마(대표 정현철)는 블루투스 탑재기기 215대 중 60대(약 27.9%)가 블루본 취약점에 노출된 것으로 조사됐다고 15일 밝혔다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "스마트폰 외 스마트 TV∙노트북∙태블릿∙스마트워치∙오디오 등이 블루본 취약점에 노출됐다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "노르마는 11일 오후 서울 용산구 서울역에서 무작위로 스마트 기기를 탐지했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "블루본 취약점을 발견한 보안기업 아미스(Armis)에서 제공하는 블루본 스캐너 앱을 사용해 조사했다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "블루본은 블루투스(Bluetooth)와 에어본(Airbone) 합성어다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "블루투스를 활용하는 기기 데이터를 빼돌리고 악성코드를 감염하는 취약점이다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "공격자는 블루투스가 활성화된 장치에 페어링하지 않아도 장치를 제어한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "지난해 9월 이스라엘 보안기업 아미스가 블루투스와 관련 8개 취약점을 발견하고 이를 묶어 블루본으로 명명했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "블루투스를 사용하는 대부분 기기가 취약점에 노출돼 세계적으로 파장이 크다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "마이크로소프트(MS), 구글, 애플 등 운용체계(OS)업체와 기기 제조사는 서둘러 보안 업데이트를 내놓았다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "업데이트가 안 되는 구형 안드로이드 스마트 기기 위주로 블루본 취약점 패치가 이뤄지지 않았다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "보안 전문가는 지난해 블루본 취약점이 공개됐을 때 구형 안드로이드 기기가 업데이트 사각지대가 된다고 지적했다.",
+				"sentenceSize": 61
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이희조 고려대 교수는 \\\"안드로이드는 제조사 패치까지 진행돼야 하며 통상 3년이 지난 스마트폰 모델은 제조사에서 패치를 지원하지 않는다\\\"면서 \\\"보안 업데이트가 포함된 패치를 하지 않고 이전 버전 OS를 쓰는 사용자도 많다\\\"고 말했다.",
+				"sentenceSize": 133
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "블루본 취약점이 계속 발견되면서 공격이 현실화된다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "아미스는 지난해 11월 아마존과 구글 인공지능(AI) 스피커가 블루본 취약점에 노출됐다고 지적했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이 교수는 \\\"블루본 공격이 개념검증(PoC)으로 공개돼 있기 때문에 공격은 언제든 감행된다\\\"면서 \\\"국내 패치에 여러 단계가 필요해 대응이 늦어 개선이 필요하다\\\"고 밝혔다.",
+				"sentenceSize": 99
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국내 스마트기기 10대 중 2대, '블루본' 취약점 노출",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

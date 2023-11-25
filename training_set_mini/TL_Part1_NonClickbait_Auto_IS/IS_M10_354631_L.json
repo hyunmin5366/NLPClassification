@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354631",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "KT, 전자랜드서 로봇관 열고 '서비스로봇' 판매한다",
+		"newsSubTitle": "null",
+		"newsContent": "KT는 서울 용산 전자랜드 3층에 로봇관을 열고 KT 주력 로봇인 서비스로봇과 방역로봇을 시연·판매한다고 16일 밝혔다.\n고객은 용산 전자랜드의 KT로봇관에 방문해 서비스로봇과 방역 로봇을 직접 체험하고, 현장에서 전자랜드를 통해 구매신청서를 접수할 수 있다.\n설치와 사후 관리는 KT가 한다.\n서비스로봇은 서빙과 안내, 퇴식 등의 기능을 제공하는 서비스업 특화 자율주행 로봇이다.\n매장의 구인난을 해소하고 생산성을 높일 수 있다.\n방역로봇은 AI(인공지능) 실내자율주행 기능을 바탕으로, 생활 공간의 세균과 바이러스, 유해가스 등을 제거한다.\n특히 서비스로봇과 방역 로봇은 모바일 애플리케이션(앱)을 통해 제어할 수 있고, KT AI 관제플랫폼에서 24시간 원격 모니터링이 가능하다.\n신수정 KT 엔터프라이즈 부문장은 \\\"전자랜드의 IT, 가전 유통 전문성을 AI 로봇으로 확대하는 전략이 KT와 일치해 협력하기로 했다\\\"며 \\\"전자랜드의 유통채널을 적극 활용해 로봇을 전자제품처럼 쉽게 접할 수 있도록 저변을 넓혀나가겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "KT는 서울 용산 전자랜드 3층에 로봇관을 열고 KT 주력 로봇인 서비스로봇과 방역로봇을 시연·판매한다고 16일 밝혔다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "고객은 용산 전자랜드의 KT로봇관에 방문해 서비스로봇과 방역 로봇을 직접 체험하고, 현장에서 전자랜드를 통해 구매신청서를 접수할 수 있다.",
+				"sentenceSize": 77
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "설치와 사후 관리는 KT가 한다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "서비스로봇은 서빙과 안내, 퇴식 등의 기능을 제공하는 서비스업 특화 자율주행 로봇이다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "매장의 구인난을 해소하고 생산성을 높일 수 있다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "방역로봇은 AI(인공지능) 실내자율주행 기능을 바탕으로, 생활 공간의 세균과 바이러스, 유해가스 등을 제거한다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "특히 서비스로봇과 방역 로봇은 모바일 애플리케이션(앱)을 통해 제어할 수 있고, KT AI 관제플랫폼에서 24시간 원격 모니터링이 가능하다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "신수정 KT 엔터프라이즈 부문장은 \\\"전자랜드의 IT, 가전 유통 전문성을 AI 로봇으로 확대하는 전략이 KT와 일치해 협력하기로 했다\\\"며 \\\"전자랜드의 유통채널을 적극 활용해 로봇을 전자제품처럼 쉽게 접할 수 있도록 저변을 넓혀나가겠다\\\"고 말했다.",
+				"sentenceSize": 141
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "KT, 전자랜드서 로봇관 열고 '서비스로봇' 판매한다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

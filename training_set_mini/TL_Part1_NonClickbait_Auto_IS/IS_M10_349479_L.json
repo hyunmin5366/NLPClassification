@@ -1,0 +1,150 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_349479",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 과학",
+		"newsTitle": "이더리움 거래 마비시킨 버그…서울대 연구진이 찾았다",
+		"newsSubTitle": "null",
+		"newsContent": "국내 연구진이 암호화폐 시장에서 두 번째로 규모가 큰 '이더리움'의 핵심 오류를 잡아내는 것은 물론 추가로 발생할 수 있는 오류까지 잡아내는 시스템을 만들었다.\n이더리움을 포함한 암호화폐 생태계의 안정성을 높이는 기술적 성과로 평가된다.\n서울대 공과대학은 전병곤 컴퓨터공학부 교수·양영석 컴퓨터공학부 박사가 김태수 조지아 공과대학 교수와 공동연구를 통해 이더리움 컨센서스 버그'를 찾는 다중 트랜잭션 차등 퍼져 '플러피'를 개발했다고 7일 밝혔다.\n컨센서스 버그는 특정 블록체인 클라이언트가 블록체인을 변형(하드포크)시켜 다른 클라이언트들과 합의하지 못 하게 하는 버그다.\n플러피는 한 번에 여러 개의 트랜잭션을 연이어 테스트해 이더리움 클라이언트 코드에 깊이 숨겨진 컨센서스 버그를 찾는 방식으로 작동한다.\n연구팀은 플러피를 통해 컨센서스 버그 2개를 발견하고, 이를 이더리움 운영사인 이더리움 재단에 알렸다.\n이더리움 재단은 버그를 수정한 클라이언트를 배포했다.\n연구팀은 이더리움 재단으로부터 2만달러의 상금도 받았다.\n지난해 11월에는 연구팀이 발견한 두 개의 버그 중 한 개가 이더리움 네트워크에서 발동되는 일이 있었다.\n수정 클라이언트가 배포된지 불과 4개월 후의 일이었다.\n새로운 클라이언트 배포 후에도 구버전 클라이언트를 사용하던 이더리움 서비스들이 대거 마비되면서, 바이낸스를 포함한 전세계 암호화폐 거래소에서 이더리움 기반 가상자산 서비스가 일시 중단되기도 했다.\n이는 2016년 이더리움 DAO 해킹 사건 이후 최악의 사건으로 기록됐다.\n전병곤 교수는 \\\"이번에 개발한 퍼져로 기존에 찾는 것이 불가능했던 이더리움의 버그를 찾을 수 있었다\\\"며 \\\"세계에서 두 번째로 큰 암호화폐인 이더리움의 안정성을 높이는 매우 영향력인 큰 연구이고 그 공헌을 인정받아 컴퓨터 시스템 분야 학회인 OSDI(USENIX Symposium on Operating Systems Design and Implementation)의 논문으로 채택됐다\\\"고 말했다.\n이번 연구 결과는 오는 7월 컴퓨터 시스템 OSDI에서 발표될 예정이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 14,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국내 연구진이 암호화폐 시장에서 두 번째로 규모가 큰 '이더리움'의 핵심 오류를 잡아내는 것은 물론 추가로 발생할 수 있는 오류까지 잡아내는 시스템을 만들었다.",
+				"sentenceSize": 89
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이더리움을 포함한 암호화폐 생태계의 안정성을 높이는 기술적 성과로 평가된다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "서울대 공과대학은 전병곤 컴퓨터공학부 교수·양영석 컴퓨터공학부 박사가 김태수 조지아 공과대학 교수와 공동연구를 통해 이더리움 컨센서스 버그'를 찾는 다중 트랜잭션 차등 퍼져 '플러피'를 개발했다고 7일 밝혔다.",
+				"sentenceSize": 117
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "컨센서스 버그는 특정 블록체인 클라이언트가 블록체인을 변형(하드포크)시켜 다른 클라이언트들과 합의하지 못 하게 하는 버그다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "플러피는 한 번에 여러 개의 트랜잭션을 연이어 테스트해 이더리움 클라이언트 코드에 깊이 숨겨진 컨센서스 버그를 찾는 방식으로 작동한다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "연구팀은 플러피를 통해 컨센서스 버그 2개를 발견하고, 이를 이더리움 운영사인 이더리움 재단에 알렸다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "이더리움 재단은 버그를 수정한 클라이언트를 배포했다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "연구팀은 이더리움 재단으로부터 2만달러의 상금도 받았다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지난해 11월에는 연구팀이 발견한 두 개의 버그 중 한 개가 이더리움 네트워크에서 발동되는 일이 있었다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "수정 클라이언트가 배포된지 불과 4개월 후의 일이었다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "새로운 클라이언트 배포 후에도 구버전 클라이언트를 사용하던 이더리움 서비스들이 대거 마비되면서, 바이낸스를 포함한 전세계 암호화폐 거래소에서 이더리움 기반 가상자산 서비스가 일시 중단되기도 했다.",
+				"sentenceSize": 109
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이는 2016년 이더리움 DAO 해킹 사건 이후 최악의 사건으로 기록됐다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "전병곤 교수는 \\\"이번에 개발한 퍼져로 기존에 찾는 것이 불가능했던 이더리움의 버그를 찾을 수 있었다\\\"며 \\\"세계에서 두 번째로 큰 암호화폐인 이더리움의 안정성을 높이는 매우 영향력인 큰 연구이고 그 공헌을 인정받아 컴퓨터 시스템 분야 학회인 OSDI(USENIX Symposium on Operating Systems Design and Implementation)의 논문으로 채택됐다\\\"고 말했다.",
+				"sentenceSize": 225
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이번 연구 결과는 오는 7월 컴퓨터 시스템 OSDI에서 발표될 예정이다.",
+				"sentenceSize": 40
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "이더리움 거래 마비시킨 버그…서울대 연구진이 찾았다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

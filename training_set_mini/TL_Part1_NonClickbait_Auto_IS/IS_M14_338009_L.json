@@ -1,0 +1,213 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_338009",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "웹호스팅 업체 '아이네임즈', 랜섬웨어 공격에도 백업 결실 '톡톡'",
+		"newsSubTitle": "",
+		"newsContent": "웹호스팅 업체 아이네임즈가 랜섬웨어 공격을 받았지만, 백업 덕분에 별다른 피해는 없는 것으로 확인됐다.\n아이네임즈는 랜섬웨어 감염에 따른 서버 복구는 현재 80%까지 완료된 상황이라고 밝혔다.\n아이네임즈는 지난 8일 랜섬웨어 공격을 받아 웹호스팅 서버 일부가 감염됐다.\n회사 측은 이날 오후 7시 이 같은 사실을 확인하고 한국인터넷진흥원(KISA)과 사이버수사대에 피해를 즉시 신고했다.\n고객에게는 홈페이지 공지를 통해 대응 현황을 여러 차례 공유했다.\n이번 공격으로 리눅스 웹호스팅 서버 40여대가 감염됐다.\n웹호스팅 고객 홈페이지 일부가 정상 구동되지 않는 불편을 겪었다.\n회사 측은 백업해둔 자료를 바탕으로 복구와 운용체계(OS) 재설치를 진행했다.\n공격 최초 확인 이틀 만인 10일 데이터베이스 서버 70%, 웹 서버 20%를 복구했다.\n아이네임즈 관계자는 “11일 현재 데이터베이스 서버는 80% 복구했으며 웹 서버는 좀 더 남은 상태”라면서 “앞으로 이틀 안에 마칠 수 있을 것으로 보고 있다”고 전했다.\n복구를 위해 시간이 다소 걸린다는 점을 제외하면 백업이 모두 돼 있어 복구 완료에는 문제가 없다는 설명이다.\n아이네임즈 측 침해 대응은 백업 중요성을 보여주는 사례로 평가된다.\n최근 수년간 국내에선 웹호스팅 업체를 겨냥한 랜섬웨어 공격이 빈발했다.\n이에 보안업계에선 공격이 증가하고 있다는 경고와 함께 백업이 중요하다고 반복해서 강조해 왔다.\n공격 자체를 막을 수 없다면 백업이 사실상 유일한 대책이기 때문이다.\n백업은 공격에 따른 '회복 탄력성'을 확보하기 위한 핵심 요소다.\n문종현 이스트시큐리티 이사는 “2017년 인터넷나야나 때부터 2018년 아이웹, 지난해 라온넷닷컴, 올해 마루인터넷까지 웹호스팅 업체 랜섬웨어 공격은 국내에서 유독 자주 발생한다”면서 “이 같은 사건이 왜 연속적으로 터지는지에 대해 근본적인 조사와 대안 논의가 필요한 시점”이라고 말했다.\n이어 “최근에는 지능형지속위협(APT) 공격과 랜섬웨어 공격이 결합되는 특성을 보인다”면서 “공격자가 내부 침투 후 백업 서버까지 감염시키지 못하도록 백업 자료를 네트워크에서 분리된 상태로 보관해야 한다”고 강조했다.\nKISA는 11일 아이네임즈 현장 지원에 나선다.\n공격 포렌식과 함께 복구에 필요한 기술 전반을 지원할 예정이다.\n사이버수사대는 지난 9일 1차 조사를 마쳤다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 21,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "웹호스팅 업체 아이네임즈가 랜섬웨어 공격을 받았지만, 백업 덕분에 별다른 피해는 없는 것으로 확인됐다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이네임즈는 랜섬웨어 감염에 따른 서버 복구는 현재 80%까지 완료된 상황이라고 밝혔다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이네임즈는 지난 8일 랜섬웨어 공격을 받아 웹호스팅 서버 일부가 감염됐다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "회사 측은 이날 오후 7시 이 같은 사실을 확인하고 한국인터넷진흥원(KISA)과 사이버수사대에 피해를 즉시 신고했다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "고객에게는 홈페이지 공지를 통해 대응 현황을 여러 차례 공유했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "이번 공격으로 리눅스 웹호스팅 서버 40여대가 감염됐다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "웹호스팅 고객 홈페이지 일부가 정상 구동되지 않는 불편을 겪었다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "회사 측은 백업해둔 자료를 바탕으로 복구와 운용체계(OS) 재설치를 진행했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "공격 최초 확인 이틀 만인 10일 데이터베이스 서버 70%, 웹 서버 20%를 복구했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "아이네임즈 관계자는 “11일 현재 데이터베이스 서버는 80% 복구했으며 웹 서버는 좀 더 남은 상태”라면서 “앞으로 이틀 안에 마칠 수 있을 것으로 보고 있다”고 전했다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "복구를 위해 시간이 다소 걸린다는 점을 제외하면 백업이 모두 돼 있어 복구 완료에는 문제가 없다는 설명이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "아이네임즈 측 침해 대응은 백업 중요성을 보여주는 사례로 평가된다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "최근 수년간 국내에선 웹호스팅 업체를 겨냥한 랜섬웨어 공격이 빈발했다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "이에 보안업계에선 공격이 증가하고 있다는 경고와 함께 백업이 중요하다고 반복해서 강조해 왔다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "공격 자체를 막을 수 없다면 백업이 사실상 유일한 대책이기 때문이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "백업은 공격에 따른 '회복 탄력성'을 확보하기 위한 핵심 요소다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "문종현 이스트시큐리티 이사는 “2017년 인터넷나야나 때부터 2018년 아이웹, 지난해 라온넷닷컴, 올해 마루인터넷까지 웹호스팅 업체 랜섬웨어 공격은 국내에서 유독 자주 발생한다”면서 “이 같은 사건이 왜 연속적으로 터지는지에 대해 근본적인 조사와 대안 논의가 필요한 시점”이라고 말했다.",
+				"sentenceSize": 161
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "이어 “최근에는 지능형지속위협(APT) 공격과 랜섬웨어 공격이 결합되는 특성을 보인다”면서 “공격자가 내부 침투 후 백업 서버까지 감염시키지 못하도록 백업 자료를 네트워크에서 분리된 상태로 보관해야 한다”고 강조했다.",
+				"sentenceSize": 121
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "KISA는 11일 아이네임즈 현장 지원에 나선다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "공격 포렌식과 함께 복구에 필요한 기술 전반을 지원할 예정이다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "사이버수사대는 지난 9일 1차 조사를 마쳤다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "웹호스팅 업체 '아이네임즈', 랜섬웨어 공격에도 백업 결실 '톡톡'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

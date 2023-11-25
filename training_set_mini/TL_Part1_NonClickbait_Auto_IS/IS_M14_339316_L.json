@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_339316",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "부품",
+		"newsTitle": "[CES 2018] 자율차 시장 진격하는 엔비디아… 차세대 SoC '자비에' SoC 공급 시작",
+		"newsSubTitle": "",
+		"newsContent": "엔비디아가 자율주행차 시장 공략에 팔을 걷어붙였다.\n젠슨 황 엔비디아 최고경영자(CEO)는 7일(현지시간) 'CES 2018'이 열리는 라스베이거스 현장에서 기자회견을 갖고 자율주행차 구현을 위해 개발한 시스템온칩(SoC) '자비에(Xavier)' 샘플이 이번 분기부터 고객사로 제공되고 있다고 밝혔다.\n엔비디아는 자비에 개발에 지난 4년 간 20억달러 이상이 투입됐다고 설명했다.\n투입 엔지니어도 2000명이 넘는다.\n독자 설계가 가미된 중앙처리장치(CPU) 코어 8개와 신형 볼타 그래픽처리장치(GPU) 코어 512개가 내장됐다.\n새로운 딥러닝 가속기와 새로운 컴퓨터 비전 가속기, 8K 비디오 프로세서를 내장했다.\n내장 트랜지스터 숫자는 90억개 이상이다.\n통합 아키텍처 설계를 그대로 적용해 드라이브PX 등 이전 자율주행차 플랫폼 소프트웨어와도 호환된다.\n자비에는 30와트(W) 에너지 소비로 초당 30조번의 작업을 처리한다.\n이전 세대 자율주행 플랫폼과 비교하면 에너지 효율이 15배나 좋아졌다.\n엔비디아는 자동차 내외부 센서를 활용해 인공지능(AI) 보조 기능을 구현하기 위한 소프트웨어개발키트(SDK) '드라이브 IX'와 차량 내 증강현실(AR) 구현을 위한 드라이브 AR SDK도 함께 공개했다.\n이날 젠슨 황 CEO는 독일 자동차 부품업체 ZF와 미국의 자율주행 기술 전문업체인 오로라, 중국 바이두와 자율주행차 개발 분야에서 협력한다고 밝혔다.\n이들은 엔비디아의 신형 자비에 플랫폼을 활용할 계획이다.\n독일 폭스바겐그룹에는 드라이브IX 기술을 제공하고 미국 우버와도 자율주행 기술을 공동 개발한다고 밝혔다.\n젠슨 황 CEO는 “첨단 컴퓨터 프로세싱 기술로 자율주행차 시대를 앞당기겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엔비디아가 자율주행차 시장 공략에 팔을 걷어붙였다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "젠슨 황 엔비디아 최고경영자(CEO)는 7일(현지시간) 'CES 2018'이 열리는 라스베이거스 현장에서 기자회견을 갖고 자율주행차 구현을 위해 개발한 시스템온칩(SoC) '자비에(Xavier)' 샘플이 이번 분기부터 고객사로 제공되고 있다고 밝혔다.",
+				"sentenceSize": 140
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "엔비디아는 자비에 개발에 지난 4년 간 20억달러 이상이 투입됐다고 설명했다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "투입 엔지니어도 2000명이 넘는다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "독자 설계가 가미된 중앙처리장치(CPU) 코어 8개와 신형 볼타 그래픽처리장치(GPU) 코어 512개가 내장됐다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "새로운 딥러닝 가속기와 새로운 컴퓨터 비전 가속기, 8K 비디오 프로세서를 내장했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "내장 트랜지스터 숫자는 90억개 이상이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "통합 아키텍처 설계를 그대로 적용해 드라이브PX 등 이전 자율주행차 플랫폼 소프트웨어와도 호환된다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "자비에는 30와트(W) 에너지 소비로 초당 30조번의 작업을 처리한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "이전 세대 자율주행 플랫폼과 비교하면 에너지 효율이 15배나 좋아졌다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "엔비디아는 자동차 내외부 센서를 활용해 인공지능(AI) 보조 기능을 구현하기 위한 소프트웨어개발키트(SDK) '드라이브 IX'와 차량 내 증강현실(AR) 구현을 위한 드라이브 AR SDK도 함께 공개했다.",
+				"sentenceSize": 114
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이날 젠슨 황 CEO는 독일 자동차 부품업체 ZF와 미국의 자율주행 기술 전문업체인 오로라, 중국 바이두와 자율주행차 개발 분야에서 협력한다고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "이들은 엔비디아의 신형 자비에 플랫폼을 활용할 계획이다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "독일 폭스바겐그룹에는 드라이브IX 기술을 제공하고 미국 우버와도 자율주행 기술을 공동 개발한다고 밝혔다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "젠슨 황 CEO는 “첨단 컴퓨터 프로세싱 기술로 자율주행차 시대를 앞당기겠다”고 말했다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[CES 2018] 자율차 시장 진격하는 엔비디아… 차세대 SoC '자비에' SoC 공급 시작",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

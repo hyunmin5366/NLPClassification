@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013548",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "정기예금 금리 2.18% '사상최저'",
+		"newsSubTitle": "",
+		"newsContent": "10월 중 새로 가입한 정기예금에 대해 적용된 평균 금리가 연 2.18%로 사상 최저치를 기록했다.\n27일 한국은행이 발표한 '10월 중 금융기관 가중평균금리'에 따르면 지난 10월 중 신규취급액 기준 은행의 저축성 수신 평균 금리는 연 2.18%로 전월보다 0.10%p 떨어졌다.\n지난 3월 이후 8개월째 사상 최저 행진을 지속하고 있으며, 1996년 통계 집계 이래 가장 낮은 수치다.\n정기예금은 연 2.17%로 사상 처음으로 2.1%대에 진입했으며, 정기적금은 2.46%를 기록했다.\n은행의 평균 이자는 사상 처음 1%대로 떨어졌다.\n10월 말 예금은행에 맡겨진 돈(총수신)에 적용된 평균 금리는 1.97%로 전월보다 0.04%p 하락했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "10월 중 새로 가입한 정기예금에 대해 적용된 평균 금리가 연 2.18%로 사상 최저치를 기록했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "27일 한국은행이 발표한 '10월 중 금융기관 가중평균금리'에 따르면 지난 10월 중 신규취급액 기준 은행의 저축성 수신 평균 금리는 연 2.18%로 전월보다 0.10%p 떨어졌다.",
+				"sentenceSize": 101
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "지난 3월 이후 8개월째 사상 최저 행진을 지속하고 있으며, 1996년 통계 집계 이래 가장 낮은 수치다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "정기예금은 연 2.17%로 사상 처음으로 2.1%대에 진입했으며, 정기적금은 2.46%를 기록했다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "은행의 평균 이자는 사상 처음 1%대로 떨어졌다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "10월 말 예금은행에 맡겨진 돈(총수신)에 적용된 평균 금리는 1.97%로 전월보다 0.04%p 하락했다.",
+				"sentenceSize": 59
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[자랑스런 출연연]③드론과 3D프린트가 바꾼 지질조사 풍경",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

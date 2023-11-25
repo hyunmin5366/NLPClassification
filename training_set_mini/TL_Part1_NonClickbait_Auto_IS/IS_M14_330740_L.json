@@ -1,0 +1,267 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_330740",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "[2022 우수 정보보호 기술] 지란지교데이터 '아이디필터'",
+		"newsSubTitle": "",
+		"newsContent": "지란지교데이터는 데이터 3법, 즉 '개인정보보호법' '신용정보법' '정보통신망법 개정안' 시행 이후 활성화되는 데이터 활용 및 비식별화 시장을 공략하고자 2021년 2월, 개인정보 비식별조치 솔루션 '아이디필터'를 출시했다.\n아이디필터는 관리자가 사전에 등록한 민감·개인정보 패턴을 기반으로 개인정보를 빠르게 탐지·비식별화한다.\n데이터 분포도·위험도 시뮬레이션을 통해 활용 데이터의 재식별 방지를 위한 후속 조치도 가능하다.\n딥러닝 기반으로 비정형 텍스트를 분석, 문서 맥락을 인지하고 개인정보를 인식해 비식별 처리할 수 있다.\n지란지교데이터가 개인정보보호 솔루션 제품군 '필터 시리즈'로 축적한 16년 이상 개인정보 탐지 기술이 집약됐다.\n아이디필터는 출시 이전부터 '2020 빅데이터 구축 사업'에서 비식별화 엔진으로 활용됐다.\n모비젠 등 다수 빅데이터 분석 전문 기업이 활용하고 있다.\n아이디필터를 도입한 국립암센터가 의료분야 가명정보결합전문기관으로 지정됨에 따라 의료분야 데이터 비식별화 및 결합 시장에서 아이디필터 수요가 빠르게 증가할 것으로 전망된다.\n지란지교데이터가 아이디필터에 적용한 '딥러닝(DL) 기반 비정형 텍스트 내 개인정보 탐지 및 비식별 처리 기술'은 조직이 보유한 비정형 텍스트를 딥러닝으로 학습 및 분석해 맥락을 인지함으로써 개인정보를 인식한다.\n예를 들어 '은·는·이·가'라는 조사 앞에 위치하는 주어, '을·를' 앞에 있는 목적어 등 맥락을 분석해 주어·목적어에 포함된 개인정보를 식별한다.\n인식된 개인정보는 안전하게 비식별 처리된다.\n기존 비식별 처리 기술의 경우 패턴 기반이다.\n비정형 텍스트 처리 때 개인정보 오인식이 발생할 가능성이 있다.\n아이디필터에 적용한 기술은 문장·대화 맥락을 인지함으로써 개인정보 인식을 보조하기 때문에, 기존 기술의 단점을 보완할 수 있다.\n인공지능 모델 학습에 효과적인 재현데이터(Synthetic Data) 생성 기술도 적용됐다.\n재현데이터는 원본 데이터와 유사한 형태의 통계적 속성을 지닌 데이터를 의미한다.\n원본 데이터를 바탕으로 가상의 데이터를 생성함으로써 원본 데이터 활용으로 인한 개인정보 침해를 예방할 수 있다.\n또 통계적 속성을 지닌 가상의 데이터를 생성하기 때문에 인공지능 모델 학습량을 늘리는 데 효과적이다.\n이에 차세대 개인정보보호 및 데이터 활용 기술로 주목받고 있다.\n광학문자인식(OCR) 기술은 다양한 유형의 이미지에 포함된 문자를 편집 가능한 데이터로 변환하는 기술이다.\n지란지교데이터가 보유한 딥러닝 기반 OCR 기술 특징은 △AI 기반 정확한 문자 인식 △다각도 이미지 인식 △다양한 이미지 파일 포맷 및 문서 내 이미지 지원 △해상도 처리 △고속 이미지 검출 처리 등이다.\n최근에는 △다양한 전처리 기법 지원(이미지 트림, 이미지라인 제거, 이미지 이진화, 회전보정, 노이즈 제거, 사이즈 조정 등) △딥러닝을 이용한 텍스트 객체 감지 및 텍스트 객체 인식 기법 적용 등 업그레이드를 지속하고 있다.\n딥러닝 기반 OCR 기술은 주민등록증 등 정형화된 이미지 파일에서의 데이터 변환은 물론, 수기로 작성된 문서도 데이터 변환이 가능하다.\n특히 필기체 인식은 오래 보관된 공문서, 의료 진단서 등 수기로 작성된 문서를 데이터화하기 위한 기술로 각광 받으며 시장에서 수요가 빠르게 증가하고 있다.\n최근 지란지교데이터는 아이디필터 기능 향상에 초점을 맞추고 있다.\nDL 기반 비정형 텍스트 민감·개인정보 탐지 기술 △전용 송수신 에이전트를 통한 원본데이터 및 비식별 데이터 암호화 업로드·다운로드 △사전 결합 △시계열 분석 △다양한 데이터 입출력 개선을 통해 데이터 이동 처리 기능 향상(PC, 스토리지, SFTP, DB) △K-익명성 측정 △사전·사후 개인정보 검사 △비식별 조치 알고리즘 확대 등 기능 업그레이드를 지속하고 있다.\n조원희 지란지교데이터 대표는 “개인정보 비식별 조치 솔루션 아이디필터가 우수 정보보호 기술에 지정돼 개발자 노력과 기술력을 인정 받았다”며 “개인정보보호전문기업으로서 전방위적 개인정보보호를 위한 기술 개발을 지속하겠다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 27,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지란지교데이터는 데이터 3법, 즉 '개인정보보호법' '신용정보법' '정보통신망법 개정안' 시행 이후 활성화되는 데이터 활용 및 비식별화 시장을 공략하고자 2021년 2월, 개인정보 비식별조치 솔루션 '아이디필터'를 출시했다.",
+				"sentenceSize": 125
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "아이디필터는 관리자가 사전에 등록한 민감·개인정보 패턴을 기반으로 개인정보를 빠르게 탐지·비식별화한다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "데이터 분포도·위험도 시뮬레이션을 통해 활용 데이터의 재식별 방지를 위한 후속 조치도 가능하다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "딥러닝 기반으로 비정형 텍스트를 분석, 문서 맥락을 인지하고 개인정보를 인식해 비식별 처리할 수 있다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "지란지교데이터가 개인정보보호 솔루션 제품군 '필터 시리즈'로 축적한 16년 이상 개인정보 탐지 기술이 집약됐다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "아이디필터는 출시 이전부터 '2020 빅데이터 구축 사업'에서 비식별화 엔진으로 활용됐다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "모비젠 등 다수 빅데이터 분석 전문 기업이 활용하고 있다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "아이디필터를 도입한 국립암센터가 의료분야 가명정보결합전문기관으로 지정됨에 따라 의료분야 데이터 비식별화 및 결합 시장에서 아이디필터 수요가 빠르게 증가할 것으로 전망된다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "지란지교데이터가 아이디필터에 적용한 '딥러닝(DL) 기반 비정형 텍스트 내 개인정보 탐지 및 비식별 처리 기술'은 조직이 보유한 비정형 텍스트를 딥러닝으로 학습 및 분석해 맥락을 인지함으로써 개인정보를 인식한다.",
+				"sentenceSize": 118
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "예를 들어 '은·는·이·가'라는 조사 앞에 위치하는 주어, '을·를' 앞에 있는 목적어 등 맥락을 분석해 주어·목적어에 포함된 개인정보를 식별한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "인식된 개인정보는 안전하게 비식별 처리된다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "기존 비식별 처리 기술의 경우 패턴 기반이다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "비정형 텍스트 처리 때 개인정보 오인식이 발생할 가능성이 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "아이디필터에 적용한 기술은 문장·대화 맥락을 인지함으로써 개인정보 인식을 보조하기 때문에, 기존 기술의 단점을 보완할 수 있다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "인공지능 모델 학습에 효과적인 재현데이터(Synthetic Data) 생성 기술도 적용됐다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "재현데이터는 원본 데이터와 유사한 형태의 통계적 속성을 지닌 데이터를 의미한다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "원본 데이터를 바탕으로 가상의 데이터를 생성함으로써 원본 데이터 활용으로 인한 개인정보 침해를 예방할 수 있다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "또 통계적 속성을 지닌 가상의 데이터를 생성하기 때문에 인공지능 모델 학습량을 늘리는 데 효과적이다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "이에 차세대 개인정보보호 및 데이터 활용 기술로 주목받고 있다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "광학문자인식(OCR) 기술은 다양한 유형의 이미지에 포함된 문자를 편집 가능한 데이터로 변환하는 기술이다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "지란지교데이터가 보유한 딥러닝 기반 OCR 기술 특징은 △AI 기반 정확한 문자 인식 △다각도 이미지 인식 △다양한 이미지 파일 포맷 및 문서 내 이미지 지원 △해상도 처리 △고속 이미지 검출 처리 등이다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "최근에는 △다양한 전처리 기법 지원(이미지 트림, 이미지라인 제거, 이미지 이진화, 회전보정, 노이즈 제거, 사이즈 조정 등) △딥러닝을 이용한 텍스트 객체 감지 및 텍스트 객체 인식 기법 적용 등 업그레이드를 지속하고 있다.",
+				"sentenceSize": 126
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "딥러닝 기반 OCR 기술은 주민등록증 등 정형화된 이미지 파일에서의 데이터 변환은 물론, 수기로 작성된 문서도 데이터 변환이 가능하다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "특히 필기체 인식은 오래 보관된 공문서, 의료 진단서 등 수기로 작성된 문서를 데이터화하기 위한 기술로 각광 받으며 시장에서 수요가 빠르게 증가하고 있다.",
+				"sentenceSize": 86
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "최근 지란지교데이터는 아이디필터 기능 향상에 초점을 맞추고 있다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "DL 기반 비정형 텍스트 민감·개인정보 탐지 기술 △전용 송수신 에이전트를 통한 원본데이터 및 비식별 데이터 암호화 업로드·다운로드 △사전 결합 △시계열 분석 △다양한 데이터 입출력 개선을 통해 데이터 이동 처리 기능 향상(PC, 스토리지, SFTP, DB) △K-익명성 측정 △사전·사후 개인정보 검사 △비식별 조치 알고리즘 확대 등 기능 업그레이드를 지속하고 있다.",
+				"sentenceSize": 206
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "조원희 지란지교데이터 대표는 “개인정보 비식별 조치 솔루션 아이디필터가 우수 정보보호 기술에 지정돼 개발자 노력과 기술력을 인정 받았다”며 “개인정보보호전문기업으로서 전방위적 개인정보보호를 위한 기술 개발을 지속하겠다”고 말했다.",
+				"sentenceSize": 128
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[2022 우수 정보보호 기술] 지란지교데이터 '아이디필터'",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

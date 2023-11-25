@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_014314",
+		"newsCategory": "경제",
+		"newsSubcategory": "금융/증권",
+		"newsTitle": "외국인 투자 64억달러↓… 금융위기 이후 처음",
+		"newsSubTitle": "잔액 9983억 달러… 美 줄고 中 늘어",
+		"newsContent": "지난해 외국인의 국내 투자규모가 2008년 금융위기 이후 처음으로 전년 대비 감소한 것으로 나타났다.\n7일 한국은행이 발표한 '2014년 지역별·통화별 국제투자대조표(잠정)'에 따르면 지난해 말 현재 외국인투자 잔액은 9983억 달러로 전년 말에 비해 64억 달러 감소했다.\n투자지역별로는 EU가 2653억 달러(26.6%)로 가장 많고, 미국(2609억 달러), 동남아(1660억 달러) 등의 순이다.\n전년 대비 미국과 EU가 증권투자를 중심으로 각각 107억 달러, 50억 달러 감소했다.\n일본은 45억 달러, 중남미는 8억 달러가 줄었다.\n반면, 중동은 증권투자를 중심으로 33억 달러 증가했으며 중국(79억 달러)과 동남아(29억 달러)는 기타투자 중심으로 늘었다.\n투자형태별로는 직접투자 621억 달러와 파생금융상품투자 204억 달러는 EU가 가장 많았으며, 증권투자는 미국 1975억 달러, 기타투자는 동남아 600억 달러로 지역에서 가장 높았다.\n반면, 지난해 말 현재 준비자산을 제외한 우리나라의 대외투자 잔액은 7166억 달러로 전년 말에 비해 955억 달러 증가했다.\n투자지역별로는 미국이 1736억 달러(24.2%)로 가장 많으며, 중국 1324억 달러, EU 1272억 달러, 동남아 1062억 달러 등의 순이다.\n특히 중국에 대한 투자규모는 1324억 달러(18.5%)로 2013년 동남아를 상회한 데 이어 2014년에는 EU를 추월하는 등 크게 증가하고 있다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지난해 외국인의 국내 투자규모가 2008년 금융위기 이후 처음으로 전년 대비 감소한 것으로 나타났다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "7일 한국은행이 발표한 '2014년 지역별·통화별 국제투자대조표(잠정)'에 따르면 지난해 말 현재 외국인투자 잔액은 9983억 달러로 전년 말에 비해 64억 달러 감소했다.",
+				"sentenceSize": 96
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "투자지역별로는 EU가 2653억 달러(26.6%)로 가장 많고, 미국(2609억 달러), 동남아(1660억 달러) 등의 순이다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "전년 대비 미국과 EU가 증권투자를 중심으로 각각 107억 달러, 50억 달러 감소했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "일본은 45억 달러, 중남미는 8억 달러가 줄었다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "반면, 중동은 증권투자를 중심으로 33억 달러 증가했으며 중국(79억 달러)과 동남아(29억 달러)는 기타투자 중심으로 늘었다.",
+				"sentenceSize": 71
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "투자형태별로는 직접투자 621억 달러와 파생금융상품투자 204억 달러는 EU가 가장 많았으며, 증권투자는 미국 1975억 달러, 기타투자는 동남아 600억 달러로 지역에서 가장 높았다.",
+				"sentenceSize": 103
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "반면, 지난해 말 현재 준비자산을 제외한 우리나라의 대외투자 잔액은 7166억 달러로 전년 말에 비해 955억 달러 증가했다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "투자지역별로는 미국이 1736억 달러(24.2%)로 가장 많으며, 중국 1324억 달러, EU 1272억 달러, 동남아 1062억 달러 등의 순이다.",
+				"sentenceSize": 83
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "특히 중국에 대한 투자규모는 1324억 달러(18.5%)로 2013년 동남아를 상회한 데 이어 2014년에는 EU를 추월하는 등 크게 증가하고 있다.",
+				"sentenceSize": 83
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "특구재단, 과학벨트 전문기관 박차",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

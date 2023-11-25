@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_010392",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "운전자 알코올 농도 車가 검사",
+		"newsSubTitle": "음주제어 특허출원 연평균 5건 상용화땐 1건당 893만원 효과",
+		"newsContent": "음주운전 1건당 평균 893만원 낭비를 줄이기위한 특허가 지속적으로 출원되고 있다.\n1일 특허청에 따르면 지난 2000년부터 연평균 5건 수준의 관련 특허가 출원되고 있고, 전체 건수는 지난 12년간 50건에 이른다.\n출원인별로는 개인이 23건, 대기업이 12건, 중소기업이 6건 등으로 나타났다.\n분야별로는 시동 차단이 31건으로 가장 많았고, 측정(12건)과 음주여부 표시(5건), 기타(2건) 등으로 집계됐다.\n시동 차단방식은 차량 내 스티어링 휠과 액셀레이터, 브레이크 등에 부착된 센서를 활용하는 기술로, 경고를 보내거나 차량을 정지시키는 방식이다.\n특허청 관계자는 “미국자동차연합은 2018년을 목표로 자동차 계기판 또는 별도 컨트롤러를 통해 운전자의 혈중 알코올 농도를 검사해 운전을 제한하는 기술을 개발 중”이라며 “국내에도 이 같은 차가 출시될 경우 사회적 비용이 크게 감소될 것”이라고 설명했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "음주운전 1건당 평균 893만원 낭비를 줄이기위한 특허가 지속적으로 출원되고 있다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "1일 특허청에 따르면 지난 2000년부터 연평균 5건 수준의 관련 특허가 출원되고 있고, 전체 건수는 지난 12년간 50건에 이른다.",
+				"sentenceSize": 74
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "출원인별로는 개인이 23건, 대기업이 12건, 중소기업이 6건 등으로 나타났다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "분야별로는 시동 차단이 31건으로 가장 많았고, 측정(12건)과 음주여부 표시(5건), 기타(2건) 등으로 집계됐다.",
+				"sentenceSize": 65
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "시동 차단방식은 차량 내 스티어링 휠과 액셀레이터, 브레이크 등에 부착된 센서를 활용하는 기술로, 경고를 보내거나 차량을 정지시키는 방식이다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "특허청 관계자는 “미국자동차연합은 2018년을 목표로 자동차 계기판 또는 별도 컨트롤러를 통해 운전자의 혈중 알코올 농도를 검사해 운전을 제한하는 기술을 개발 중”이라며 “국내에도 이 같은 차가 출시될 경우 사회적 비용이 크게 감소될 것”이라고 설명했다.",
+				"sentenceSize": 142
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "해양과기원, 수저오염퇴적물 정화처리 시스템 기술이전",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

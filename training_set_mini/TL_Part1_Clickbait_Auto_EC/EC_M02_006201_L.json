@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_006201",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "르노車, 전국 쏘카존에 QM6 · XM3 배치…\\\"휴가철 대비 완료\\\"",
+		"newsSubTitle": "4천개 쏘카존에 총 1000대 배치",
+		"newsContent": "르노코리아자동차가 전국 쏘카존에 QM6와 XM3를 배치하며 여름 휴가철 대비를 완료했다.\n르노코리아자동차는 8일 전국 4천여 개의 쏘카존에서 중형 SUV 'QM6'와 소형 SUV 'XM3'를 이용할 수 있도록 차량 인도를 완료했다고 밝혔다.\n르노코리아자동차와 카셰어링 업체 쏘카는 지난 5월 QM6와 XM3를 각 500대씩 총 1000대 구매 계약을 체결했다.\nQM6는 넉넉한 실내 공간을 갖춘 중형 SUV 모델로 주말 레저를 즐기는 고객들의 수요가 높을 것으로 예상된다.\nXM3의 경우 컴팩트한 소형 SUV 모델로 젊은 소비자층을 타겟으로 배치한 것으로 보인다.\n쏘카 관계자는 데일리임팩트에 \\\"고객들에게 보다 다양한 선택지 제공을 위해 시장 내 고객 만족도가 높은 두 모델을 선택했다\\\"라고 전했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "르노코리아자동차가 전국 쏘카존에 QM6와 XM3를 배치하며 여름 휴가철 대비를 완료했다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "르노코리아자동차는 8일 전국 4천여 개의 쏘카존에서 중형 SUV 'QM6'와 소형 SUV 'XM3'를 이용할 수 있도록 차량 인도를 완료했다고 밝혔다.",
+				"sentenceSize": 84
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "르노코리아자동차와 카셰어링 업체 쏘카는 지난 5월 QM6와 XM3를 각 500대씩 총 1000대 구매 계약을 체결했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "QM6는 넉넉한 실내 공간을 갖춘 중형 SUV 모델로 주말 레저를 즐기는 고객들의 수요가 높을 것으로 예상된다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "XM3의 경우 컴팩트한 소형 SUV 모델로 젊은 소비자층을 타겟으로 배치한 것으로 보인다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "쏘카 관계자는 데일리임팩트에 \\\"고객들에게 보다 다양한 선택지 제공을 위해 시장 내 고객 만족도가 높은 두 모델을 선택했다\\\"라고 전했다.",
+				"sentenceSize": 77
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "'투자자도 멘붕' 현대산업개발 솟아날 구멍 있나",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

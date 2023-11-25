@@ -1,0 +1,159 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_323382",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "과학",
+		"newsTitle": "[AI 사피엔스 시대]국방도 AI로 예산 감축",
+		"newsSubTitle": "",
+		"newsContent": "국방은 일반인에게 잘 알려지지 않은 분야다.\n특히 군수품을 처리하는 과정은 관련 전문가가 아니면 파악조차 어렵다.\n국가 미래와 방위가 걸린 문제인 만큼 예산도 큰 규모를 차지한다.\n국방 분야에도 인공지능(AI)·빅데이터 등 4차 산업혁명 기술이 채택돼 예산 절감과 군의 현대화에 기여하고 있다.\n대표적인 것이 '수리 부속 소요 산정 모델'이다.\n모델은 항공기·탱크·함정 등 장비별로 다양한 부품의 내구연한을 예측해 산정하는 프로그램이다.\n처음에는 미군의 사례를 참고해 항공장비 위주로 모형 개발을 시작했지만 현재는 육군 지상 장비와 해군 함정을 위한 소요 산정 모형으로 확대해 장비별로 개발하고 있다.\n국방연구원 관계자는 “수리 부속 소요 산정 모델은 2012년부터 2017년까지 5년간 약 550억원의 예산을 절감했다”고 말했다.\n연구원에 따르면 수리부속 예산은 2017년 기준 전체 군수지원 및 협력 프로그램 예산의 26%를 차지한다. 1조2205억원이 소요됐다.\n수리해야 할 부품을 품목별로 관리했다 그러다보니 실제 내구 연한을 제대로 확인 못한 채 사용하는 사례가 많았다.\n이를 개선한 것이다.\n수리 부속 소요산정 모델이다.\n해당 프로그램은 소모율과 폐기율, 소요자재목록, 운용실적, 적합성, 부대 특성 등을 AI 기법을 활용해 예측하는 방식이다.\n여기에는 시계열분석과 머신러닝 기법이 동원됐다.\n이 관계자는 “기존 전산 시스템에서 제공하는 수요 예측치가 품목별 수요 패턴에만 의존해 산출되니 정확성이 떨어져 담당자 부담이 더해지고 부품이 모자라거나 재고가 발생하는 사례가 많았다”면서 “과학적 방법 도입으로 예산 절감은 물론 미래 예측도 가능해졌다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 15,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "국방은 일반인에게 잘 알려지지 않은 분야다.",
+				"sentenceSize": 24
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "특히 군수품을 처리하는 과정은 관련 전문가가 아니면 파악조차 어렵다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "국가 미래와 방위가 걸린 문제인 만큼 예산도 큰 규모를 차지한다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국방 분야에도 인공지능(AI)·빅데이터 등 4차 산업혁명 기술이 채택돼 예산 절감과 군의 현대화에 기여하고 있다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "대표적인 것이 '수리 부속 소요 산정 모델'이다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "모델은 항공기·탱크·함정 등 장비별로 다양한 부품의 내구연한을 예측해 산정하는 프로그램이다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "처음에는 미군의 사례를 참고해 항공장비 위주로 모형 개발을 시작했지만 현재는 육군 지상 장비와 해군 함정을 위한 소요 산정 모형으로 확대해 장비별로 개발하고 있다.",
+				"sentenceSize": 91
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국방연구원 관계자는 “수리 부속 소요 산정 모델은 2012년부터 2017년까지 5년간 약 550억원의 예산을 절감했다”고 말했다.",
+				"sentenceSize": 72
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "연구원에 따르면 수리부속 예산은 2017년 기준 전체 군수지원 및 협력 프로그램 예산의 26%를 차지한다. 1조2205억원이 소요됐다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "수리해야 할 부품을 품목별로 관리했다 그러다보니 실제 내구 연한을 제대로 확인 못한 채 사용하는 사례가 많았다.",
+				"sentenceSize": 62
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "이를 개선한 것이다.",
+				"sentenceSize": 11
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "수리 부속 소요산정 모델이다.",
+				"sentenceSize": 16
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "해당 프로그램은 소모율과 폐기율, 소요자재목록, 운용실적, 적합성, 부대 특성 등을 AI 기법을 활용해 예측하는 방식이다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "여기에는 시계열분석과 머신러닝 기법이 동원됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "이 관계자는 “기존 전산 시스템에서 제공하는 수요 예측치가 품목별 수요 패턴에만 의존해 산출되니 정확성이 떨어져 담당자 부담이 더해지고 부품이 모자라거나 재고가 발생하는 사례가 많았다”면서 “과학적 방법 도입으로 예산 절감은 물론 미래 예측도 가능해졌다”고 말했다.",
+				"sentenceSize": 148
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[AI 사피엔스 시대]국방도 AI로 예산 감축",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

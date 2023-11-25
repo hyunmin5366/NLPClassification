@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007495",
+		"newsCategory": "경제",
+		"newsSubcategory": "대덕특구",
+		"newsTitle": "세계 첫 고성능 플라스마 밀폐상태 달성",
+		"newsSubTitle": "",
+		"newsContent": "'한국의 태양'이라는 불리는 KSTAR가 세계 처음으로 고성능 플라스마 밀폐상태를 달성했다.\n국가핵융합연구소는 국내 기술로 개발된 초전도 핵융합장치인 KSTAR가 지난 8일 고성능 플라스마 밀폐상태인 H-모드를 달성했다고 24일 밝혔다.\nH-모드는 특정 조건에서 플라스마 밀폐성능이 약 2배로 증가하는 현상으로 핵융합장치의 우수한 운전성능을 의미하는데 초전도 핵융합장치가 이 상태를 달성하기는 KSTAR가 세계에서 처음이고 당초 목표보다 1년 앞선 것이다.\n이경수 핵융합연구소장은 “이는 KSTAR의 우수성을 입증하는 동시에 미래 핵융합 에너지 실현을 위한 큰 걸음을 내디딘 것으로 세계 핵융합 연구계가 평가하고 있다”며 “국제핵융합실험로(ITER)의 선행 연구장치로서의 KSTAR 가치가 재확인됐다”고 말했다.\nKSTAR는 지난달 초 중수소(D) 핵융합 반응에 처음으로 성공하기도 했는데 당시 연구진은 KSTAR에서 핵융합 반응에 의한 2.45메가전자볼트(MeV)급 중성자를 검출했다.\n또 지난해 300kA급 플라스마 전류를 3초동안 유지한 것을 넘어 올해는 최고 약 720kA급 전류를 6.7초 동안 유지하는 데도 성공했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "'한국의 태양'이라는 불리는 KSTAR가 세계 처음으로 고성능 플라스마 밀폐상태를 달성했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "국가핵융합연구소는 국내 기술로 개발된 초전도 핵융합장치인 KSTAR가 지난 8일 고성능 플라스마 밀폐상태인 H-모드를 달성했다고 24일 밝혔다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "H-모드는 특정 조건에서 플라스마 밀폐성능이 약 2배로 증가하는 현상으로 핵융합장치의 우수한 운전성능을 의미하는데 초전도 핵융합장치가 이 상태를 달성하기는 KSTAR가 세계에서 처음이고 당초 목표보다 1년 앞선 것이다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이경수 핵융합연구소장은 “이는 KSTAR의 우수성을 입증하는 동시에 미래 핵융합 에너지 실현을 위한 큰 걸음을 내디딘 것으로 세계 핵융합 연구계가 평가하고 있다”며 “국제핵융합실험로(ITER)의 선행 연구장치로서의 KSTAR 가치가 재확인됐다”고 말했다.",
+				"sentenceSize": 142
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "KSTAR는 지난달 초 중수소(D) 핵융합 반응에 처음으로 성공하기도 했는데 당시 연구진은 KSTAR에서 핵융합 반응에 의한 2.45메가전자볼트(MeV)급 중성자를 검출했다.",
+				"sentenceSize": 97
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 지난해 300kA급 플라스마 전류를 3초동안 유지한 것을 넘어 올해는 최고 약 720kA급 전류를 6.7초 동안 유지하는 데도 성공했다.",
+				"sentenceSize": 78
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "신한카드, 웨이·온 체크 쥬라기 에디션 선보인다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

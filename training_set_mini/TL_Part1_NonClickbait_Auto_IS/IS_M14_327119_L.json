@@ -1,0 +1,123 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327119",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "테라마스터, 인텔 제온 CPU 장착한 U12 렉마운트 스토리지서버 출시",
+		"newsSubTitle": "",
+		"newsContent": "테라마스터(TerraMaster)가 강력한 쿼드 코어 인텔 제온 프로세서를 장착한 U12 랙마운트 엔터프라이즈 클라우드 스토리지 서버를 출시했다.\n이 제품은 높은 확장성을 갖춘 12베이 네트워크 스토리지 서버(NAS)다.\n엔터프라이즈 가상화, 데이터 집약적 애플리케이션 및 서비스 연속성 요구사항을 충족하도록 설계됐다.\n여러 공유 사용자에게 고속 데이터 스토리지를 제공하는 비즈니스 클라우드 스토리지 서버에 이상적인 솔루션이다.\n최대 쿼드코어 인텔 제온 E-2224G 프로세서(3.5㎓, 3Mb 캐시), 8GB DDR4 메모리 및 4기가 비트 네트워크 인터페이스를 갖췄다.\n최대 3000MB/s와 50만 이상의 IOPS를 제공한다.\n또 지속적이고 방해없는 데이터 전송을 위한 링크 어그리게이션을 지원한다.\n확장성도 좋다. 16GB DDR4 메모리 모듈을 지원할 수 있는 4개 DIMM 슬롯을 제공해 최대 메모리 DDR4 64GB(4x16GB)로 업그레이드할 수 있다.\n또 10GbE NIC 카드(2 SFP+포트)와 RAID 컨트롤러 카드와 같은 추가 기능을 위한 PCIe X16 Gen3 확장 슬롯도 제공한다.\n고급 보안 기능과 사용자 친화적 계정 관리 기능을 갖춘 테라마스터 TOS 소프트웨어의 엔터프라이즈 버전을 사용, 사용자 계정을 쉽게 관리하고 계정 당 보안 옵션을 조정하며 스토리지 공간을 효율적으로 관리할 수 있다.\n또 관리자에게 서버 상태 알림을 발송하며 데이터 보안을 위해 AES256비트 암호화 및 고급 방화벽 옵션을 지원한다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 11,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "테라마스터(TerraMaster)가 강력한 쿼드 코어 인텔 제온 프로세서를 장착한 U12 랙마운트 엔터프라이즈 클라우드 스토리지 서버를 출시했다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이 제품은 높은 확장성을 갖춘 12베이 네트워크 스토리지 서버(NAS)다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "엔터프라이즈 가상화, 데이터 집약적 애플리케이션 및 서비스 연속성 요구사항을 충족하도록 설계됐다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "여러 공유 사용자에게 고속 데이터 스토리지를 제공하는 비즈니스 클라우드 스토리지 서버에 이상적인 솔루션이다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "최대 쿼드코어 인텔 제온 E-2224G 프로세서(3.5㎓, 3Mb 캐시), 8GB DDR4 메모리 및 4기가 비트 네트워크 인터페이스를 갖췄다.",
+				"sentenceSize": 80
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "최대 3000MB/s와 50만 이상의 IOPS를 제공한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "또 지속적이고 방해없는 데이터 전송을 위한 링크 어그리게이션을 지원한다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "확장성도 좋다. 16GB DDR4 메모리 모듈을 지원할 수 있는 4개 DIMM 슬롯을 제공해 최대 메모리 DDR4 64GB(4x16GB)로 업그레이드할 수 있다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "또 10GbE NIC 카드(2 SFP+포트)와 RAID 컨트롤러 카드와 같은 추가 기능을 위한 PCIe X16 Gen3 확장 슬롯도 제공한다.",
+				"sentenceSize": 79
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "고급 보안 기능과 사용자 친화적 계정 관리 기능을 갖춘 테라마스터 TOS 소프트웨어의 엔터프라이즈 버전을 사용, 사용자 계정을 쉽게 관리하고 계정 당 보안 옵션을 조정하며 스토리지 공간을 효율적으로 관리할 수 있다.",
+				"sentenceSize": 120
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "또 관리자에게 서버 상태 알림을 발송하며 데이터 보안을 위해 AES256비트 암호화 및 고급 방화벽 옵션을 지원한다.",
+				"sentenceSize": 65
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "테라마스터, 인텔 제온 CPU 장착한 U12 렉마운트 스토리지서버 출시",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

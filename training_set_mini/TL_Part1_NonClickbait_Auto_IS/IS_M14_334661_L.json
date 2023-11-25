@@ -1,0 +1,249 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334661",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "팩스만 보냈는데...기업 네트워크 해킹",
+		"newsSubTitle": "",
+		"newsContent": "팩스 한 통으로 기업 네트워크에 접속해서 내부 PC를 해킹할 수 있다.\n상당수 기업은 팩스 기능이 더해진 복합기를 IP 기반으로 연동, 해킹 대상이 된다.\n체크포인트 연구팀은 세계에서 사용되는 수만 대 팩스 통신 프로토콜 취약점을 이용해 악성코드 원격 실행에 성공했다.\n연구팀은 기업 웹사이트에 공지된 팩스 번호로 이미지가 포함된 문서를 보내 팩스 기능이 있는 복합기와 연결된 PC를 해킹했다.\n여전히 전 세계에는 3억개 이상 팩스 번호와 4500만대 팩스가 사용되고 있다.\n팩스는 규제기관, 변호사, 은행, 부동산 등에서 많이 쓰인다.\n팩스는 별도 기기보다 프린터 복합기 기능에 들어 있다.\n복합기는 와이파이 네트워크와 PSTN 전화선으로 연결된다.\n해커는 악성코드를 숨긴 특수 제작된 이미지 파일을 기업에 팩스로 전송한다.\n팩스 통신 취약점을 이용해 복합기를 감염시킨 후 기업 네트워크에 침투한다.\n체크포인트는 이를 팩스플로잇(Faxploit)이라 부른다.\n연구팀은 HP 오피스젯 프로 6830 올인원 팩스 프린터와 오피스젯 프로 8720을 이용, 해킹을 시연했다.\n연구팀은 2개 버퍼 오버플로 취약점을 이용했다.\n연구팀은 악성코드가 들어 있는 이미지 파일을 기업 팩스로 보낸다.\n기기가 수신하면 이미지가 디코딩되고 팩스 프린터 메모리에 파일이 업로드 된다.\n체크포인트 연구팀은 지난해 공개돼 세계에 영향을 미친 '이터널블루'와 '더블 펄사' 취약점인 내부 PC네트워크로 악성코드를 감염시켰다.\n이터널블루는 랜섬웨어 '워너크라이' 전파에 악용된 취약점이다.\n윈도 서버메시지블록(SMB) 취약점을 이용해 워너크라이가 자동 전파된다.\n체크포인트 연구팀은 팩스를 감염시킨 후 내부 확산은 워너크라이와 같은 형태를 이용했다.\n연구팀은 공격 목적에 맞춰 팩스로 보낸 이미지 파일에 랜섬웨어와 암호화폐 채굴 악성코드, 감시 도구 등 다양한 기능을 넣는다고 설명했다.\n팩스가 되는 복합기를 감염시켜 중요 문서를 빼돌리는 것도 가능하다.\n체크포인트 연구팀은 HP 복합기 외에 다른 제조사 제품도 같은 취약점에 노출됐을 가능성이 짙다고 경고했다.\n이메일로 팩스를 보내는 기능이 있는 복합기는 물론 독립 팩스 기기도 모두 포함된다.\n체크포인트는 5월 HP에 관련 취약점을 공지했다.\nHP는 8월 펌웨어 패치를 업데이트해 내놨다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 25,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "팩스 한 통으로 기업 네트워크에 접속해서 내부 PC를 해킹할 수 있다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "상당수 기업은 팩스 기능이 더해진 복합기를 IP 기반으로 연동, 해킹 대상이 된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "체크포인트 연구팀은 세계에서 사용되는 수만 대 팩스 통신 프로토콜 취약점을 이용해 악성코드 원격 실행에 성공했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "연구팀은 기업 웹사이트에 공지된 팩스 번호로 이미지가 포함된 문서를 보내 팩스 기능이 있는 복합기와 연결된 PC를 해킹했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "여전히 전 세계에는 3억개 이상 팩스 번호와 4500만대 팩스가 사용되고 있다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "팩스는 규제기관, 변호사, 은행, 부동산 등에서 많이 쓰인다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "팩스는 별도 기기보다 프린터 복합기 기능에 들어 있다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "복합기는 와이파이 네트워크와 PSTN 전화선으로 연결된다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "해커는 악성코드를 숨긴 특수 제작된 이미지 파일을 기업에 팩스로 전송한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "팩스 통신 취약점을 이용해 복합기를 감염시킨 후 기업 네트워크에 침투한다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "체크포인트는 이를 팩스플로잇(Faxploit)이라 부른다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "연구팀은 HP 오피스젯 프로 6830 올인원 팩스 프린터와 오피스젯 프로 8720을 이용, 해킹을 시연했다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "연구팀은 2개 버퍼 오버플로 취약점을 이용했다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "연구팀은 악성코드가 들어 있는 이미지 파일을 기업 팩스로 보낸다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "기기가 수신하면 이미지가 디코딩되고 팩스 프린터 메모리에 파일이 업로드 된다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "체크포인트 연구팀은 지난해 공개돼 세계에 영향을 미친 '이터널블루'와 '더블 펄사' 취약점인 내부 PC네트워크로 악성코드를 감염시켰다.",
+				"sentenceSize": 75
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이터널블루는 랜섬웨어 '워너크라이' 전파에 악용된 취약점이다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "윈도 서버메시지블록(SMB) 취약점을 이용해 워너크라이가 자동 전파된다.",
+				"sentenceSize": 40
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "체크포인트 연구팀은 팩스를 감염시킨 후 내부 확산은 워너크라이와 같은 형태를 이용했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "연구팀은 공격 목적에 맞춰 팩스로 보낸 이미지 파일에 랜섬웨어와 암호화폐 채굴 악성코드, 감시 도구 등 다양한 기능을 넣는다고 설명했다.",
+				"sentenceSize": 76
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "팩스가 되는 복합기를 감염시켜 중요 문서를 빼돌리는 것도 가능하다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "체크포인트 연구팀은 HP 복합기 외에 다른 제조사 제품도 같은 취약점에 노출됐을 가능성이 짙다고 경고했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "이메일로 팩스를 보내는 기능이 있는 복합기는 물론 독립 팩스 기기도 모두 포함된다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "체크포인트는 5월 HP에 관련 취약점을 공지했다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "HP는 8월 펌웨어 패치를 업데이트해 내놨다.",
+				"sentenceSize": 25
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "팩스만 보냈는데...기업 네트워크 해킹",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

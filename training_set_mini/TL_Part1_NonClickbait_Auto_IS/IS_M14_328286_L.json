@@ -1,0 +1,96 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_328286",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "국제성모병원 “인천서북지역 응급의료 열악”",
+		"newsSubTitle": "",
+		"newsContent": "가톨릭관동대 국제성모병원은 인천 서북지역 응급의료 인프라가 열악하다고 27일 밝혔다.\n최근 인천시 서구 한 어린이집에서는 2세 유아가 장난감을 삼켜 질식해 남동구 대학병원으로 긴급 후송됐다.\n응급치료를 받았지만 현재 의식이 없다.\n국제성모병원은 이번 사건에서 보듯 인천 서구지역 응급의료 인프라가 부족하다고 주장했다.\n관내 유일한 대학병원이 있지만 모든 응급진료가 이뤄지지 않은 지역응급의료센터이기 때문이다.\n권역응급의료센터는 소아응급전담의가 24시간 상주한다.\n인천 지역 권역응급의료센터는 남동구 길병원과 남구 인하대병원이다.\n국제성모병원은 남구 지역에 권역응급의료센터가 치우쳐 있다고 주장했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 8,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "가톨릭관동대 국제성모병원은 인천 서북지역 응급의료 인프라가 열악하다고 27일 밝혔다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "최근 인천시 서구 한 어린이집에서는 2세 유아가 장난감을 삼켜 질식해 남동구 대학병원으로 긴급 후송됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "응급치료를 받았지만 현재 의식이 없다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "국제성모병원은 이번 사건에서 보듯 인천 서구지역 응급의료 인프라가 부족하다고 주장했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "관내 유일한 대학병원이 있지만 모든 응급진료가 이뤄지지 않은 지역응급의료센터이기 때문이다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "권역응급의료센터는 소아응급전담의가 24시간 상주한다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "인천 지역 권역응급의료센터는 남동구 길병원과 남구 인하대병원이다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "국제성모병원은 남구 지역에 권역응급의료센터가 치우쳐 있다고 주장했다.",
+				"sentenceSize": 38
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "국제성모병원 “인천서북지역 응급의료 열악”",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

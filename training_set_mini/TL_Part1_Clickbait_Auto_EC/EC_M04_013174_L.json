@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_013174",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "카스 소독약 냄새 원인은 산화취… \\\"진짜 나긴 났나보네\\\"",
+		"newsSubTitle": "",
+		"newsContent": "논란이 되고 있는 오비맥주 카스의 소독약 냄새 원인이 맥주가 산화했을 때 나는 '산화취' 때문인 것으로 결론 내려졌다.\n식약처는 지난 6월 카스 맥주에서 소독약 냄새가 난다는 민원이 급증하자 공장을 방문해 제조 단계를 정밀 조사했다.\n해당 제품은 다른 맥주에 비해 포함된 산소량, 즉 용존산소량이 많았지만, 제조회사가 유통과정에서 제대로 관리하지 못한 탓에 산화취 현상이 쉽게 생긴 걸로 식약처는 판단하고 있다.\n오비맥주는 올해 월드컵에 대비해 카스 생산량을 늘렸지만, 예상과 다르게 판매가 부진했고 이 과정에서 재고 관리를 제대로 하지 못해 문제가 발생한 것으로 추정되고 있다.\n산화취와 용존산소량은 인체 유해성과는 무관해 아직까지 특별한 규정은 없다.\n식약처는 이날 오후 2시 충북 오송 식약처에서 이 같은 내용의 카스 맥주 품질 관리에 관한 공식 조사 결과를 발표할 예정이다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "논란이 되고 있는 오비맥주 카스의 소독약 냄새 원인이 맥주가 산화했을 때 나는 '산화취' 때문인 것으로 결론 내려졌다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "식약처는 지난 6월 카스 맥주에서 소독약 냄새가 난다는 민원이 급증하자 공장을 방문해 제조 단계를 정밀 조사했다.",
+				"sentenceSize": 63
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "해당 제품은 다른 맥주에 비해 포함된 산소량, 즉 용존산소량이 많았지만, 제조회사가 유통과정에서 제대로 관리하지 못한 탓에 산화취 현상이 쉽게 생긴 걸로 식약처는 판단하고 있다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "오비맥주는 올해 월드컵에 대비해 카스 생산량을 늘렸지만, 예상과 다르게 판매가 부진했고 이 과정에서 재고 관리를 제대로 하지 못해 문제가 발생한 것으로 추정되고 있다.",
+				"sentenceSize": 93
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "산화취와 용존산소량은 인체 유해성과는 무관해 아직까지 특별한 규정은 없다.",
+				"sentenceSize": 41
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "식약처는 이날 오후 2시 충북 오송 식약처에서 이 같은 내용의 카스 맥주 품질 관리에 관한 공식 조사 결과를 발표할 예정이다.",
+				"sentenceSize": 70
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "현대두산인프라코어, '탄소제로' 수소엔진 개발 착수",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

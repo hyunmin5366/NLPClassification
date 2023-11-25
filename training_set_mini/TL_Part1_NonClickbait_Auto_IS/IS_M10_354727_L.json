@@ -1,0 +1,114 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M10_354727",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "IT/과학, 헬스 > 통신/미디어",
+		"newsTitle": "LGU+, 지능형CCTV 보안 강화 'PUF VPN' 기술 개발",
+		"newsSubTitle": "null",
+		"newsContent": "LG유플러스는 IoT(사물인터넷) 보안 전문 업체인 ICTK 홀딩스와 소상공인 대상 '지능형 CCTV'의 보안을 강화할 수 있는 'PUF VPN' 기술을 개발했다고 23일 밝혔다.\n물리적 복제 방지 기술을 의미하는 PUF(Physical Unclonable Function)는 반도체 생산 과정에서 발생하는 미세한 간극을 이용해 암호키를 생성하고 활용한다.\n나노 단위로 발생하는 칩의 간극은 불규칙적으로 생성돼 칩마다 사람 지문처럼 고유성을 지녀 보안키로 활용할 수 있다.\n가상사설망인 VPN(Virtual Private Network)은 데이터를 주고받는 각 개체와 서버 간 인터넷 통신 구간에 가상 터널을 구축해 사설망과 같이 안전하게 통신을 이용할 수 있는 기술이다.\n양사가 개발한 PUF VPN은 CCTV와 서버 사이 VPN에 PUF 기술을 적용해 외부인이 CCTV와 서버를 해킹할 수 없도록 여러 단계의 보안 인증 과정을 거친다.\n또 PUF에 기존 VPN보다 더 빠르고 보안이 강화된 '와이어가드 VPN'을 결합했다.\n실제 PUF VPN을 CCTV에 적용해 시험한 결과 SSL VPN 대비 속도가 약 20% 이상 개선됐다.\nLG유플러스는 오는 10월 PUF VPN 기술을 지능형CCTV에 적용해 실증을 완료할 예정이다.\n이후 서울 상암의 LG유플러스 IDC(인터넷데이터센터)에 총 10만대의 카메라를 수용할 수 있는 서버 등 장비 인프라를 구축해 상용화하고 지속적으로 수용 규모를 늘릴 계획이다.\n전영서 LG유플러스 기업서비스개발Lab장(담당)은 \\\"향후 CCTV 뿐만 아니라 자사 다른 서비스에도 PUF VPN을 적용할 예정이며, 연내 양자 내성 암호를 적용한 VPN 보안 기술을 확보해 고객이 서비스를 믿고 사용할 수 있도록 지속 노력하겠다\\\"고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 10,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG유플러스는 IoT(사물인터넷) 보안 전문 업체인 ICTK 홀딩스와 소상공인 대상 '지능형 CCTV'의 보안을 강화할 수 있는 'PUF VPN' 기술을 개발했다고 23일 밝혔다.",
+				"sentenceSize": 100
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "물리적 복제 방지 기술을 의미하는 PUF(Physical Unclonable Function)는 반도체 생산 과정에서 발생하는 미세한 간극을 이용해 암호키를 생성하고 활용한다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "나노 단위로 발생하는 칩의 간극은 불규칙적으로 생성돼 칩마다 사람 지문처럼 고유성을 지녀 보안키로 활용할 수 있다.",
+				"sentenceSize": 64
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "가상사설망인 VPN(Virtual Private Network)은 데이터를 주고받는 각 개체와 서버 간 인터넷 통신 구간에 가상 터널을 구축해 사설망과 같이 안전하게 통신을 이용할 수 있는 기술이다.",
+				"sentenceSize": 111
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양사가 개발한 PUF VPN은 CCTV와 서버 사이 VPN에 PUF 기술을 적용해 외부인이 CCTV와 서버를 해킹할 수 없도록 여러 단계의 보안 인증 과정을 거친다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "또 PUF에 기존 VPN보다 더 빠르고 보안이 강화된 '와이어가드 VPN'을 결합했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "실제 PUF VPN을 CCTV에 적용해 시험한 결과 SSL VPN 대비 속도가 약 20% 이상 개선됐다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "LG유플러스는 오는 10월 PUF VPN 기술을 지능형CCTV에 적용해 실증을 완료할 예정이다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "이후 서울 상암의 LG유플러스 IDC(인터넷데이터센터)에 총 10만대의 카메라를 수용할 수 있는 서버 등 장비 인프라를 구축해 상용화하고 지속적으로 수용 규모를 늘릴 계획이다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "전영서 LG유플러스 기업서비스개발Lab장(담당)은 \\\"향후 CCTV 뿐만 아니라 자사 다른 서비스에도 PUF VPN을 적용할 예정이며, 연내 양자 내성 암호를 적용한 VPN 보안 기술을 확보해 고객이 서비스를 믿고 사용할 수 있도록 지속 노력하겠다\\\"고 말했다.",
+				"sentenceSize": 146
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LGU+, 지능형CCTV 보안 강화 'PUF VPN' 기술 개발",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

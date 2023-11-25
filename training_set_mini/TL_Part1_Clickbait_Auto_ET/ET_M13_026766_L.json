@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "ET_M13_026766",
+		"newsCategory": "연예",
+		"newsSubcategory": "연예일반",
+		"newsTitle": "양지은, 확진자 동선 겹쳐…음성 판정받고 자가격리",
+		"newsSubTitle": "",
+		"newsContent": "‘미스트롯2’ 우승자 가수 양지은이 코로나19 확진자와 겹처 공연에 불참한다.\n연합뉴스에 따르면 양지은 측 관계자가 코로나19 검사에서 양성 판정을 받아 이날 오후 7시로 예정됐던 제60회 탐라문화제 폐막공연 무대에 불참한다.\n양지은은 확진 판정을 받은 관계자와 동선이 겹쳤다.\n이날 탐라문화제 폐막공연에는 제주도립무용단, 제주농요보존회, 그룹 메가맥스 만이 무대에 오른다.\n양지은은 코로나19 검사 결과 음성인 것으로 전해졌다.\n다만 당분간 모든 스케줄을 취소하고 자가격리에 들어갈 예정이어거서 일부 스케줄에 차질을 빚을 것으로 보인다.\n양지은은 제주 출신으로 무형문화재 판소리 홍보가 1호 이수자이자 TV조선 오디션 프로그램 ‘미스트롯2’에 출전해 1위를 차지해 제 3대 진의 자리에 올랐다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "‘미스트롯2’ 우승자 가수 양지은이 코로나19 확진자와 겹처 공연에 불참한다.",
+				"sentenceSize": 43
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "연합뉴스에 따르면 양지은 측 관계자가 코로나19 검사에서 양성 판정을 받아 이날 오후 7시로 예정됐던 제60회 탐라문화제 폐막공연 무대에 불참한다.",
+				"sentenceSize": 82
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "양지은은 확진 판정을 받은 관계자와 동선이 겹쳤다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이날 탐라문화제 폐막공연에는 제주도립무용단, 제주농요보존회, 그룹 메가맥스 만이 무대에 오른다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "양지은은 코로나19 검사 결과 음성인 것으로 전해졌다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "다만 당분간 모든 스케줄을 취소하고 자가격리에 들어갈 예정이어거서 일부 스케줄에 차질을 빚을 것으로 보인다.",
+				"sentenceSize": 60
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "양지은은 제주 출신으로 무형문화재 판소리 홍보가 1호 이수자이자 TV조선 오디션 프로그램 ‘미스트롯2’에 출전해 1위를 차지해 제 3대 진의 자리에 올랐다.",
+				"sentenceSize": 87
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "SMAP 해체설… \\\"기무라 타쿠야만 남고 초난강 외 3명 소속사 떠나\\\"",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

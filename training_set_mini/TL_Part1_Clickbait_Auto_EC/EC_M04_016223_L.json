@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_016223",
+		"newsCategory": "경제",
+		"newsSubcategory": "기업/CEO",
+		"newsTitle": "한국타이어, 유럽 최대 타이어 전시회 ‘라이펜 2016’ 참가",
+		"newsSubTitle": "",
+		"newsContent": "한국타이어(대표이사 서승화)는 오는 27일까지 독일 뉘우 아이젠버그에서 열리는 유럽 최대 타이어&자동차 부품전시회인 ‘라이펜 2016(Reifen 2016)’에 참가한다.\n한국타이어는 이번 전시회에서 유럽지역 주력 상품인 ‘벤투스 프라임3(Ventus Prime3)’와 자가 봉합 타이어 ‘실가드(SEALGUARD) 타이어’, 펑크가 나도 최대 80㎞/h로 80㎞ 거리를 주행할 수 있는 3세대 런플랫 타이어 ‘벤투스 S1 에보2 런플랫(Ventus S1 evo 2 Runflat)’ 등 최첨단 하이테크 기술이 접목된 타이어들을 대거 선보인다.\n벤투스 S1 에보2 런플랫과 실가드 타이어는 각각 BMW를 대표하는 최상위 모델인 ‘뉴 7 시리즈’와 폭스바겐의 베스트셀러 다목적차량(MPV) 모델인 ‘투란’에 신차용 타이어로 공급된다.\n또 벤투스 프라임3는 지난 3월 독일 최대 자동차 잡지 중 하나인 ‘아우토빌트(Autobild)’에서 타이어 성능 테스트를 통해 젖은 노면과 마른 노면 상에서의 핸들링, 제동, 수막 현상 다양한 항목에서 우수한 평가를 받으며 최고 등급인 ‘매우 추천(Very Recommandable)’을 받은 바 있다.\n라이펜 2016은 1960년부터 독일에서 2년마다 개최되는 유럽 최대의 타이어 및 부품 전시회다.\n타이어 업계의 최신 제품 동향과 기술 트렌드를 한 눈에 볼 수 있으며 올해는 전세계 44개 국의 총 675개의 업체 관계자들이 참석한다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "한국타이어(대표이사 서승화)는 오는 27일까지 독일 뉘우 아이젠버그에서 열리는 유럽 최대 타이어&자동차 부품전시회인 ‘라이펜 2016(Reifen 2016)’에 참가한다.",
+				"sentenceSize": 95
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국타이어는 이번 전시회에서 유럽지역 주력 상품인 ‘벤투스 프라임3(Ventus Prime3)’와 자가 봉합 타이어 ‘실가드(SEALGUARD) 타이어’, 펑크가 나도 최대 80㎞/h로 80㎞ 거리를 주행할 수 있는 3세대 런플랫 타이어 ‘벤투스 S1 에보2 런플랫(Ventus S1 evo 2 Runflat)’ 등 최첨단 하이테크 기술이 접목된 타이어들을 대거 선보인다.",
+				"sentenceSize": 208
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "벤투스 S1 에보2 런플랫과 실가드 타이어는 각각 BMW를 대표하는 최상위 모델인 ‘뉴 7 시리즈’와 폭스바겐의 베스트셀러 다목적차량(MPV) 모델인 ‘투란’에 신차용 타이어로 공급된다.",
+				"sentenceSize": 104
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 벤투스 프라임3는 지난 3월 독일 최대 자동차 잡지 중 하나인 ‘아우토빌트(Autobild)’에서 타이어 성능 테스트를 통해 젖은 노면과 마른 노면 상에서의 핸들링, 제동, 수막 현상 다양한 항목에서 우수한 평가를 받으며 최고 등급인 ‘매우 추천(Very Recommandable)’을 받은 바 있다.",
+				"sentenceSize": 170
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "라이펜 2016은 1960년부터 독일에서 2년마다 개최되는 유럽 최대의 타이어 및 부품 전시회다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "타이어 업계의 최신 제품 동향과 기술 트렌드를 한 눈에 볼 수 있으며 올해는 전세계 44개 국의 총 675개의 업체 관계자들이 참석한다.",
+				"sentenceSize": 76
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "저축은행 명칭 '상호신용금고'로 변경 추진",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

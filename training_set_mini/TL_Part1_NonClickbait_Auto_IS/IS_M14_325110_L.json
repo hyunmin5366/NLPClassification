@@ -1,0 +1,141 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_325110",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "구름 위에 올라선 듯… 지구상에서 가장 오싹한 수영장",
+		"newsSubTitle": "",
+		"newsContent": "지구상에서 가장 오싹한 수영장이 등장했다.\n영국 데일리메일은 9일(현지시각) 아파트 42층 높이에 설치된 투명 유리 바닥 수영장이 화제라고 전했다.\n수영장 위치가 아찔하다.\n42층 건물 외벽을 3m 정도 연장, 이곳에 수영장을 뒀다.\n바닥은 20cm 두께 특수 아크릴 수지로 설계했다.\n비행기 등 유리창에 쓰이는 소재다.\n42층 아래가 훤히 내려다보이는 셈이다.\n수영장 이름은 '스카이 풀(Sky Pool)'이다.\n미국 텍사스주 한 고급 아파트 옥상에 배치됐다.\n최근 유튜브에 동영상으로 소개되며 관심을 받고 있다.\n공개된 영상 속 한 남성은 수영장을 조심스럽게 오가며 시청자 간담을 서늘하게 한다.\n이 건물 84평 펜트하우스인 것으로 전해졌다.\n수영장 이용료는 약 2000달러에 이른다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 13,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "지구상에서 가장 오싹한 수영장이 등장했다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "영국 데일리메일은 9일(현지시각) 아파트 42층 높이에 설치된 투명 유리 바닥 수영장이 화제라고 전했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "수영장 위치가 아찔하다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "42층 건물 외벽을 3m 정도 연장, 이곳에 수영장을 뒀다.",
+				"sentenceSize": 33
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "바닥은 20cm 두께 특수 아크릴 수지로 설계했다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "비행기 등 유리창에 쓰이는 소재다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "42층 아래가 훤히 내려다보이는 셈이다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "수영장 이름은 '스카이 풀(Sky Pool)'이다.",
+				"sentenceSize": 28
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "미국 텍사스주 한 고급 아파트 옥상에 배치됐다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "최근 유튜브에 동영상으로 소개되며 관심을 받고 있다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "공개된 영상 속 한 남성은 수영장을 조심스럽게 오가며 시청자 간담을 서늘하게 한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "이 건물 84평 펜트하우스인 것으로 전해졌다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "수영장 이용료는 약 2000달러에 이른다.",
+				"sentenceSize": 23
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "구름 위에 올라선 듯… 지구상에서 가장 오싹한 수영장",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

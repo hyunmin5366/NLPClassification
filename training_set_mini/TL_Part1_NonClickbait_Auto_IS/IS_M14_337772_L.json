@@ -1,0 +1,105 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_337772",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "통신",
+		"newsTitle": "美, 차세대 차량 통신 기술로 'C-V2X' 선택",
+		"newsSubTitle": "",
+		"newsContent": "미국이 차세대 차량 통신 기술로 '이동통신기반-차량∙사물통신(C-V2X)'을 선택했다.\n미국 연방통신위원회(FCC)는 18일(현지시간) 온라인 회의를 열고 5.9㎓ 대역 주파수 용도 변경(안) 규칙제정공고(NPRM)를 가결했다.\nNPRM은 5.9㎓ 대역 75㎒ 폭 용도를 각각 와이파이, C-V2X으로만 제한하는 게 골자다.\n상위 30㎒ 폭은 C-V2X 용도로만 분배하고, 하위 45㎒ 폭 채널은 와이파이를 중심으로 비면허대역 서비스 용도로 분배한다.\n웨이브 기술방식은 전면 배제된다.\n가결 즉시 시행에 들어간다.\n아지트 파이 FCC 의장은 \\\"지난 20여년간 웨이브 기술의 발전, 확산이 더디게 진행됐다\\\"면서 \\\"수요가 급증한 와이파이, 발전 가능성이 큰 C-V2X 용도로 주파수를 재배분하는 것이 합리적\\\"이라고 강조했다.\nFCC의 이번 결정은 차세대 차량 사물 통신 기술 표준 채택을 앞둔 세계 각국에 적지 않은 영향을 미칠 것으로 예상된다.\n우리나라에서도 웨이브와 C-V2X 진영 간 공방이 치열한 상황이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 9,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "미국이 차세대 차량 통신 기술로 '이동통신기반-차량∙사물통신(C-V2X)'을 선택했다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "미국 연방통신위원회(FCC)는 18일(현지시간) 온라인 회의를 열고 5.9㎓ 대역 주파수 용도 변경(안) 규칙제정공고(NPRM)를 가결했다.",
+				"sentenceSize": 78
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "NPRM은 5.9㎓ 대역 75㎒ 폭 용도를 각각 와이파이, C-V2X으로만 제한하는 게 골자다.",
+				"sentenceSize": 53
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "상위 30㎒ 폭은 C-V2X 용도로만 분배하고, 하위 45㎒ 폭 채널은 와이파이를 중심으로 비면허대역 서비스 용도로 분배한다.",
+				"sentenceSize": 70
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "웨이브 기술방식은 전면 배제된다.",
+				"sentenceSize": 18
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "가결 즉시 시행에 들어간다.",
+				"sentenceSize": 15
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "아지트 파이 FCC 의장은 \\\"지난 20여년간 웨이브 기술의 발전, 확산이 더디게 진행됐다\\\"면서 \\\"수요가 급증한 와이파이, 발전 가능성이 큰 C-V2X 용도로 주파수를 재배분하는 것이 합리적\\\"이라고 강조했다.",
+				"sentenceSize": 119
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "FCC의 이번 결정은 차세대 차량 사물 통신 기술 표준 채택을 앞둔 세계 각국에 적지 않은 영향을 미칠 것으로 예상된다.",
+				"sentenceSize": 67
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "우리나라에서도 웨이브와 C-V2X 진영 간 공방이 치열한 상황이다.",
+				"sentenceSize": 37
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "美, 차세대 차량 통신 기술로 'C-V2X' 선택",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

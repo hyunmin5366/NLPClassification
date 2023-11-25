@@ -1,0 +1,78 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_331727",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "의료바이오",
+		"newsTitle": "조주영 분당 차병원 교수팀, 日 '트래블 그랜트' 수상",
+		"newsSubTitle": "",
+		"newsContent": "차의과대학교 분당 차병원(원장 김동익)은 조주영 소화기내과 교수팀이 일본 후쿠오카 국제회의센터에서 열린 '2017 일본 소화기병주간 국제학회(JDDW)'에서 트래블 그랜트를 수상했다고 6일 밝혔다.\n트래블 그랜트는 일본 소화기병주간 국제학회에서 해외 연구자를 대상으로 우수한 성과를 거둔 사람을 수상한다.\n조 교수팀은 '비아칼라지아 환자에서 경구내시경적 근절개술 치료 효과와 안전성'을 주제로 발표했다.\n식도무이완증(아칼라지아)뿐만 아니라 식도위접합부 유출장애, 미만성 식도경련, 잭해머 식도 등 비아칼라지아 질환을 경구내시경 근절개술로 치료해 높은 평가를 받았다.\n조 교수는 2011년 국내 최초로 식도 무이완증 경구내시경 근절개술(POEM)을 도입했다.\n미국, 인도, 베트남, 터키 등 세계 각지 의료진이 방문해 해당 기술을 배운다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 6,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "차의과대학교 분당 차병원(원장 김동익)은 조주영 소화기내과 교수팀이 일본 후쿠오카 국제회의센터에서 열린 '2017 일본 소화기병주간 국제학회(JDDW)'에서 트래블 그랜트를 수상했다고 6일 밝혔다.",
+				"sentenceSize": 110
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "트래블 그랜트는 일본 소화기병주간 국제학회에서 해외 연구자를 대상으로 우수한 성과를 거둔 사람을 수상한다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "조 교수팀은 '비아칼라지아 환자에서 경구내시경적 근절개술 치료 효과와 안전성'을 주제로 발표했다.",
+				"sentenceSize": 54
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "식도무이완증(아칼라지아)뿐만 아니라 식도위접합부 유출장애, 미만성 식도경련, 잭해머 식도 등 비아칼라지아 질환을 경구내시경 근절개술로 치료해 높은 평가를 받았다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "조 교수는 2011년 국내 최초로 식도 무이완증 경구내시경 근절개술(POEM)을 도입했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "미국, 인도, 베트남, 터키 등 세계 각지 의료진이 방문해 해당 기술을 배운다.",
+				"sentenceSize": 44
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "조주영 분당 차병원 교수팀, 日 '트래블 그랜트' 수상",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

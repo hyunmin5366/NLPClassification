@@ -1,0 +1,312 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_326728",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "기업",
+		"newsTitle": "[이슈분석]개인정보 쫒다 자율주행차 못 타",
+		"newsSubTitle": "",
+		"newsContent": "자율주행차에는 각종 촬영 장비가 부착돼 있다.\n주행하며 수많은 정보를 쓸어 담는다.\n개인정보 여부를 가리지 않는다.\n수집한 정보는 정확한 경로, 도로 상황을 파악하는 데 쓰인다.\n개인정보보호법 위반 논란이 불가피하다.\n보행자, 다른 차량, 건물·기관 시설을 동의 없이 촬영하기 때문이다.\n당장은 처벌이 어렵다.\n현행법으로는 인공지능(AI)에 법적 책임을 물릴 수 없다.\n개인정보보호법은 살아있는 사람을 전제로 설계됐다.\n논란 불씨는 남아있다.\nAI가 모은 정보를 결국은 사람이 취급하기 때문이다.\n법으로 인정된 '개인정보 처리자' 범위를 자율주행차 시대에 걸맞게 재조정해야 한다는 지적이 나온다.\n자동차 제조사, 지능형 교통시스템 관리자 등에 정보수집 권한을 줄지가 관건이다.\n아직은 찬반이 팽팽하다.\n공론화가 필요하다.\n개인정보보호법은 법 집행 이익을 따진다.\n개인정보 처리자의 정당한 이익이 정보 주체자 권리보다 우선할 경우 동의 없이 정보를 모을 수 있게 했다.\n정보 침해 정도가 미미한 데 반해 서비스 사용자 편의성이 높다면 정보 수집을 용인한 것으로 해석 가능하다.\n일각에서는 영상정보를 익명 처리하면 법망을 피할 수 있다고 주장한다.\n하지만 기술적 한계가 뒤따른다.\n모든 영상을 실시간 수정하기가 쉽지 않다.\n자율주행차 오작동 원인이 될 수 있다.\n학습 데이터 부족으로 성능 고도화에도 악영향을 미친다.\n자율주행차가 상용화되려면 학습 데이터가 충분히 확보돼야 한다.\n키티(KITTI) 데이터셋은 자율주행차 연구개발 분야 전문가들이 가장 많이 활용하는 사이트다.\n이 사이트는 차량 번호판, 사람 얼굴조차 지우지 않는다.\n사회 전반의 인식 변화가 요구된다.\n자동차 회사는 데이터 수집 범위를 정해야 한다.\n인터넷이나 스마트폰처럼 정보 주체자에게 결정권을 주는 것도 방법이다.\n정보 주체자는 제3자에게 건넬 데이터를 직접 선택할 수 있다.\n김유향 국회입법조사처 팀장은 “기술 편의를 누리기 위해선 일정 수준 개인정보는 내놓을 수밖에 없다”며 “지도 서비스를 이용하려 내 위치를 공개하는 것과 같은 이치”라고 설명했다.\n김형준 중앙대학교 법학전문대학원 교수는 “미국은 법원 판례에도 실명을 그대로 쓴다”며 “키티 데이터셋이 어떤 근거로 차량 번호판, 사람 얼굴 정보를 공개하는지 살펴봐야 한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 32,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "자율주행차에는 각종 촬영 장비가 부착돼 있다.",
+				"sentenceSize": 25
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "주행하며 수많은 정보를 쓸어 담는다.",
+				"sentenceSize": 20
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "개인정보 여부를 가리지 않는다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "수집한 정보는 정확한 경로, 도로 상황을 파악하는 데 쓰인다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "개인정보보호법 위반 논란이 불가피하다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "보행자, 다른 차량, 건물·기관 시설을 동의 없이 촬영하기 때문이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "당장은 처벌이 어렵다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "현행법으로는 인공지능(AI)에 법적 책임을 물릴 수 없다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "개인정보보호법은 살아있는 사람을 전제로 설계됐다.",
+				"sentenceSize": 27
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "논란 불씨는 남아있다.",
+				"sentenceSize": 12
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "AI가 모은 정보를 결국은 사람이 취급하기 때문이다.",
+				"sentenceSize": 29
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "법으로 인정된 '개인정보 처리자' 범위를 자율주행차 시대에 걸맞게 재조정해야 한다는 지적이 나온다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "자동차 제조사, 지능형 교통시스템 관리자 등에 정보수집 권한을 줄지가 관건이다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "아직은 찬반이 팽팽하다.",
+				"sentenceSize": 13
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "공론화가 필요하다.",
+				"sentenceSize": 10
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "개인정보보호법은 법 집행 이익을 따진다.",
+				"sentenceSize": 22
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "개인정보 처리자의 정당한 이익이 정보 주체자 권리보다 우선할 경우 동의 없이 정보를 모을 수 있게 했다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 18,
+				"sentenceContent": "정보 침해 정도가 미미한 데 반해 서비스 사용자 편의성이 높다면 정보 수집을 용인한 것으로 해석 가능하다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 19,
+				"sentenceContent": "일각에서는 영상정보를 익명 처리하면 법망을 피할 수 있다고 주장한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 20,
+				"sentenceContent": "하지만 기술적 한계가 뒤따른다.",
+				"sentenceSize": 17
+			},
+			{
+				"sentenceNo": 21,
+				"sentenceContent": "모든 영상을 실시간 수정하기가 쉽지 않다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 22,
+				"sentenceContent": "자율주행차 오작동 원인이 될 수 있다.",
+				"sentenceSize": 21
+			},
+			{
+				"sentenceNo": 23,
+				"sentenceContent": "학습 데이터 부족으로 성능 고도화에도 악영향을 미친다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 24,
+				"sentenceContent": "자율주행차가 상용화되려면 학습 데이터가 충분히 확보돼야 한다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 25,
+				"sentenceContent": "키티(KITTI) 데이터셋은 자율주행차 연구개발 분야 전문가들이 가장 많이 활용하는 사이트다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 26,
+				"sentenceContent": "이 사이트는 차량 번호판, 사람 얼굴조차 지우지 않는다.",
+				"sentenceSize": 31
+			},
+			{
+				"sentenceNo": 27,
+				"sentenceContent": "사회 전반의 인식 변화가 요구된다.",
+				"sentenceSize": 19
+			},
+			{
+				"sentenceNo": 28,
+				"sentenceContent": "자동차 회사는 데이터 수집 범위를 정해야 한다.",
+				"sentenceSize": 26
+			},
+			{
+				"sentenceNo": 29,
+				"sentenceContent": "인터넷이나 스마트폰처럼 정보 주체자에게 결정권을 주는 것도 방법이다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 30,
+				"sentenceContent": "정보 주체자는 제3자에게 건넬 데이터를 직접 선택할 수 있다.",
+				"sentenceSize": 34
+			},
+			{
+				"sentenceNo": 31,
+				"sentenceContent": "김유향 국회입법조사처 팀장은 “기술 편의를 누리기 위해선 일정 수준 개인정보는 내놓을 수밖에 없다”며 “지도 서비스를 이용하려 내 위치를 공개하는 것과 같은 이치”라고 설명했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 32,
+				"sentenceContent": "김형준 중앙대학교 법학전문대학원 교수는 “미국은 법원 판례에도 실명을 그대로 쓴다”며 “키티 데이터셋이 어떤 근거로 차량 번호판, 사람 얼굴 정보를 공개하는지 살펴봐야 한다”고 말했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "[이슈분석]개인정보 쫒다 자율주행차 못 타",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 18,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 19,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 20,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 21,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 22,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 23,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 24,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 25,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 26,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 27,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 28,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 29,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 30,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 31,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 32,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

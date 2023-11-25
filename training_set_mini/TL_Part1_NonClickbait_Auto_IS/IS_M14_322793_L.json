@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_322793",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "소재",
+		"newsTitle": "LG엔솔, 미국에 800MWh ESS 배터리 공급",
+		"newsSubTitle": "",
+		"newsContent": "LG에너지솔루션이 미국 에너지저장장치(ESS) 프로젝트에 중대형 배터리를 공급한다.\nLG에너지솔루션은 독일 최대 에너지 기업(RWE)이 미국에서 추진하는 총 800MWh 규모 ESS프로젝트 2개에 배터리를 공급한다고 2일 밝혔다.\nLG에너지솔루션은 이번 프로젝트에서 ESS 중대형 배터리를 공급한다.\nESS 배터리는 발전을 통해 공급되는 전력을 저장했다가, 전력이 필요한 시점에 공급하는 역할을 한다.\n신영준 LG에너지솔루션 ESS사업부장 전무는 \\\"세계에서 가장 빨리 성장하는 ESS 시장에서 RWE와 협력할 수 있어 기쁘다\\\"면서 \\\"앞으로도 협력 관계가 이어지길 기대한다\\\"고 말했다.\n시장조사업체 SNE리서치에 따르면 미국 전력망 ESS 시장 규모는 6.5GWh로 세계 전력망 ESS 시장의 절반을 차지했다.\n연평균 54% 성장률을 보이며 2025년에는 55.3GWh로 확대될 전망이다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "LG에너지솔루션이 미국 에너지저장장치(ESS) 프로젝트에 중대형 배터리를 공급한다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "LG에너지솔루션은 독일 최대 에너지 기업(RWE)이 미국에서 추진하는 총 800MWh 규모 ESS프로젝트 2개에 배터리를 공급한다고 2일 밝혔다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "LG에너지솔루션은 이번 프로젝트에서 ESS 중대형 배터리를 공급한다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "ESS 배터리는 발전을 통해 공급되는 전력을 저장했다가, 전력이 필요한 시점에 공급하는 역할을 한다.",
+				"sentenceSize": 56
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "신영준 LG에너지솔루션 ESS사업부장 전무는 \\\"세계에서 가장 빨리 성장하는 ESS 시장에서 RWE와 협력할 수 있어 기쁘다\\\"면서 \\\"앞으로도 협력 관계가 이어지길 기대한다\\\"고 말했다.",
+				"sentenceSize": 105
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "시장조사업체 SNE리서치에 따르면 미국 전력망 ESS 시장 규모는 6.5GWh로 세계 전력망 ESS 시장의 절반을 차지했다.",
+				"sentenceSize": 69
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "연평균 54% 성장률을 보이며 2025년에는 55.3GWh로 확대될 전망이다.",
+				"sentenceSize": 43
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "LG엔솔, 미국에 800MWh ESS 배터리 공급",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

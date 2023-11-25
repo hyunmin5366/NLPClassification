@@ -1,0 +1,177 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_327178",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "엔트러스트 'IoT 보안 인증 시장' 연다",
+		"newsSubTitle": "",
+		"newsContent": "엔트러스트엔터프라이즈(대표 이문형)가 사물인터넷(IoT) 보안 인증 시장에 진출했다.\n엔트러스트엔터프라이즈는 IoT 인프라에서 모든 기기와 응용프로그램, 시스템, 사용자에게 신원정보(Identity)를 제공하는 '아이오트러스트(ioTrust)'를 내놨다.\n아이오트러스트는 산업용 제어시스템, 자동차, 통신, 제조 공급망 등 IoT 생태계 내 연결된 기기와 센서, 백앤드 플랫폼 간 데이터를 보호하는 인프라를 제공한다.\n이문형 엔트러스트엔터프라이즈 대표는 “IoT 구축은 인프라 보호에서 시작한다”면서 “아이오트러스트는 암호와 임베디드 시스템 전문 기술을 활용해 IoT 생태계를 만들고 인프라 전체에서 데이터 흐름을 보호한다”고 설명했다.\n아이오트러스트는 신원정보를 활용해 IoT 생태계에 디바이스를 등록한다.\n인증과 인가를 통해 연결된 사용자, 애플리케이션, 사물 간 안전한 상호작용을 제공한다.\n공급망 가시성을 확보하고 제품 보안 이력을 추적해 제조업체 전체 라이프사이클에서 데이터를 보호한다.\n오디오 자동차 전장장비 기업 '하만'은 아이오트러스트를 도입했다.\n하만은 오디오 브랜드로 유명하지만 자동차 전장 분야 선도 기업이다.\n하만 사업 분야 중 커넥티드 서비스(Connected Service)는 IoT 서비스와 솔루션 사업부다.\n초기 하만은 IoT 솔루션에서 사용하는 게이트웨이와 센서 등 엔드포인트 장치 인증과 데이터 보안을 위해 파일시스템에 보관하는 비밀키(PSK) 방식을 채택했다.\n비밀키의 외부 도용 위험이 크고 하드웨어 보안 업그레이드가 어려웠다.\n하만은 IoT 기기를 배치하기 전에 인증과 보안 문제를 해결하려고 아이오트러스트를 도입했다.\n아이오트러스트 플랫폼으로 인증기관을 통한 공개키 기반 인증서 관리시스템을 도입했다.\n키스토어 기반으로 인증키를 안전하게 저장해 보안을 강화하고 자동 배포 프로세스를 구성해 기기 확장에 따른 등록의 어려움도 해소했다.\n손상된 기기 인증 폐기도 다른 기기와 상관없이 처리하는 IoT 생태계를 만들었다.\n이 대표는 “IoT 서비스는 늘어나는데 보안이 고려되지 않고 있다”면서 “최근 한국공인인증서비스와 총판계약을 하고 국내 IoT 전문 파트너 네트워크를 확대한다”고 말했다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 17,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "엔트러스트엔터프라이즈(대표 이문형)가 사물인터넷(IoT) 보안 인증 시장에 진출했다.",
+				"sentenceSize": 47
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "엔트러스트엔터프라이즈는 IoT 인프라에서 모든 기기와 응용프로그램, 시스템, 사용자에게 신원정보(Identity)를 제공하는 '아이오트러스트(ioTrust)'를 내놨다.",
+				"sentenceSize": 94
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "아이오트러스트는 산업용 제어시스템, 자동차, 통신, 제조 공급망 등 IoT 생태계 내 연결된 기기와 센서, 백앤드 플랫폼 간 데이터를 보호하는 인프라를 제공한다.",
+				"sentenceSize": 90
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "이문형 엔트러스트엔터프라이즈 대표는 “IoT 구축은 인프라 보호에서 시작한다”면서 “아이오트러스트는 암호와 임베디드 시스템 전문 기술을 활용해 IoT 생태계를 만들고 인프라 전체에서 데이터 흐름을 보호한다”고 설명했다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "아이오트러스트는 신원정보를 활용해 IoT 생태계에 디바이스를 등록한다.",
+				"sentenceSize": 39
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "인증과 인가를 통해 연결된 사용자, 애플리케이션, 사물 간 안전한 상호작용을 제공한다.",
+				"sentenceSize": 48
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "공급망 가시성을 확보하고 제품 보안 이력을 추적해 제조업체 전체 라이프사이클에서 데이터를 보호한다.",
+				"sentenceSize": 55
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "오디오 자동차 전장장비 기업 '하만'은 아이오트러스트를 도입했다.",
+				"sentenceSize": 36
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "하만은 오디오 브랜드로 유명하지만 자동차 전장 분야 선도 기업이다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "하만 사업 분야 중 커넥티드 서비스(Connected Service)는 IoT 서비스와 솔루션 사업부다.",
+				"sentenceSize": 58
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "초기 하만은 IoT 솔루션에서 사용하는 게이트웨이와 센서 등 엔드포인트 장치 인증과 데이터 보안을 위해 파일시스템에 보관하는 비밀키(PSK) 방식을 채택했다.",
+				"sentenceSize": 88
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "비밀키의 외부 도용 위험이 크고 하드웨어 보안 업그레이드가 어려웠다.",
+				"sentenceSize": 38
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "하만은 IoT 기기를 배치하기 전에 인증과 보안 문제를 해결하려고 아이오트러스트를 도입했다.",
+				"sentenceSize": 51
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "아이오트러스트 플랫폼으로 인증기관을 통한 공개키 기반 인증서 관리시스템을 도입했다.",
+				"sentenceSize": 46
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "키스토어 기반으로 인증키를 안전하게 저장해 보안을 강화하고 자동 배포 프로세스를 구성해 기기 확장에 따른 등록의 어려움도 해소했다.",
+				"sentenceSize": 73
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "손상된 기기 인증 폐기도 다른 기기와 상관없이 처리하는 IoT 생태계를 만들었다.",
+				"sentenceSize": 45
+			},
+			{
+				"sentenceNo": 17,
+				"sentenceContent": "이 대표는 “IoT 서비스는 늘어나는데 보안이 고려되지 않고 있다”면서 “최근 한국공인인증서비스와 총판계약을 하고 국내 IoT 전문 파트너 네트워크를 확대한다”고 말했다.",
+				"sentenceSize": 95
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "엔트러스트 'IoT 보안 인증 시장' 연다",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 17,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

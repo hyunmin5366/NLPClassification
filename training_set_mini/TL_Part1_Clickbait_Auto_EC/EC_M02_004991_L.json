@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M02_004991",
+		"newsCategory": "경제",
+		"newsSubcategory": "자동차",
+		"newsTitle": "르노삼성자동차, 2023년형 XM3 고객인도 개시",
+		"newsSubTitle": "‘인스파이어’ 트림 추가 안전지원 콜 서비스 등",
+		"newsContent": "르노삼성자동차(대표이사 스테판 드블레즈)가 2023년형 XM3를 출시하고 오는 7일부터 고객인도를 시작한다. 2023년형 XM3는 '인스파이어(INSPIRE)' 트림이 추가됐다.\n이에 따라 '안전지원 콜 서비스'와 소음을 줄이는 '차음 윈드 쉴드 글라스'가 기본 적용된다.\n르노삼성은 신규 계약 고객의 출고 지연을 최소화하기 위해 지난 1월 19일부터 2023년형 XM3에 대한 예약을 시작했다.\n그동안 총 예약 고객 수는 2330명이다.\n2023년형 XM3 가격은 개별소비세 3.5% 적용 기준으로 1.6 GTe △SE 베이직 1865만원 △SE 1875만원 △LE 베이직 2076만원 △LE 2086만원 △RE 베이직 2273만원 △RE 2292만원이다.\nTCe 260는 △RE 2449만원 △RE 시그니처 2695만원 △인스파이어 2862만원이다.\n김태준 르노삼성 영업마케팅본부장은 \\\"XM3는 출시 후 지난 2년간 정도를 걸으며 내수시장과 해외시장에서 성공신화를 보여줬고 이번 연식변경을 거치며 다시 한번 견고해졌다\\\"라고 말했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "르노삼성자동차(대표이사 스테판 드블레즈)가 2023년형 XM3를 출시하고 오는 7일부터 고객인도를 시작한다. 2023년형 XM3는 '인스파이어(INSPIRE)' 트림이 추가됐다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "이에 따라 '안전지원 콜 서비스'와 소음을 줄이는 '차음 윈드 쉴드 글라스'가 기본 적용된다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "르노삼성은 신규 계약 고객의 출고 지연을 최소화하기 위해 지난 1월 19일부터 2023년형 XM3에 대한 예약을 시작했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "그동안 총 예약 고객 수는 2330명이다.",
+				"sentenceSize": 23
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "2023년형 XM3 가격은 개별소비세 3.5% 적용 기준으로 1.6 GTe △SE 베이직 1865만원 △SE 1875만원 △LE 베이직 2076만원 △LE 2086만원 △RE 베이직 2273만원 △RE 2292만원이다.",
+				"sentenceSize": 122
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "TCe 260는 △RE 2449만원 △RE 시그니처 2695만원 △인스파이어 2862만원이다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "김태준 르노삼성 영업마케팅본부장은 \\\"XM3는 출시 후 지난 2년간 정도를 걸으며 내수시장과 해외시장에서 성공신화를 보여줬고 이번 연식변경을 거치며 다시 한번 견고해졌다\\\"라고 말했다.",
+				"sentenceSize": 103
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "올 제조업 임금 상승률 6% 넘을 듯",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

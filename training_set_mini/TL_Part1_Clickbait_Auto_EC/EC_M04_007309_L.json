@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_007309",
+		"newsCategory": "경제",
+		"newsSubcategory": "유통/쇼핑",
+		"newsTitle": "김장철 '제2 배추파동' 오나",
+		"newsSubTitle": "1년새 재배면적 배추 6.4%·무 3.8% 줄어 이상기온·작년 가격하락 따른 '기피' 영향",
+		"newsContent": "이상기온 영향으로 올해 김장 배추와 무의 재배 면적이 지난해에 비해 소폭 준 것으로 나타났다.\n통계청이 28일 발표한 '김장배추·무 재배면적 조사 결과'에 따르면 올해 김장배추 재배 면적은 1만3540㏊로 지난해 1만4462㏊보다 6.4%(922㏊) 감소했다.\n배추는 파종 및 정식기에 잦은 비로 정식을 못하거나 생육이 부진한 채 정식돼 재배에 실패하는 등의 사유로 면적이 감소했다.\n또 지난해 작황호조로 생산량 증가에 따라 출하기 가격이 낮아 재배를 기피한 측면도 있었다.\n김장 무의 재배면적도 7473㏊로 지난해의 7771㏊에 비해 3.8%(298㏊) 줄었다.\n통계청 관계자는 “파종기에 잦은 강우와 일조량 부족 등으로 파종하지 못했으며 생육 부진에 따른 재배실패로 면적이 감소했다”며 “지난해 출하기 가격 하락도 재배면적 감소에 영향을 줬다”고 말했다.\n한편, 충남 배추과 김장무 재배 면적이 각각 2058ha와 1139ha로 전국에서 2번째와 3번째로 많았다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "이상기온 영향으로 올해 김장 배추와 무의 재배 면적이 지난해에 비해 소폭 준 것으로 나타났다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "통계청이 28일 발표한 '김장배추·무 재배면적 조사 결과'에 따르면 올해 김장배추 재배 면적은 1만3540㏊로 지난해 1만4462㏊보다 6.4%(922㏊) 감소했다.",
+				"sentenceSize": 92
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "배추는 파종 및 정식기에 잦은 비로 정식을 못하거나 생육이 부진한 채 정식돼 재배에 실패하는 등의 사유로 면적이 감소했다.",
+				"sentenceSize": 68
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "또 지난해 작황호조로 생산량 증가에 따라 출하기 가격이 낮아 재배를 기피한 측면도 있었다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "김장 무의 재배면적도 7473㏊로 지난해의 7771㏊에 비해 3.8%(298㏊) 줄었다.",
+				"sentenceSize": 49
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "통계청 관계자는 “파종기에 잦은 강우와 일조량 부족 등으로 파종하지 못했으며 생육 부진에 따른 재배실패로 면적이 감소했다”며 “지난해 출하기 가격 하락도 재배면적 감소에 영향을 줬다”고 말했다.",
+				"sentenceSize": 108
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "한편, 충남 배추과 김장무 재배 면적이 각각 2058ha와 1139ha로 전국에서 2번째와 3번째로 많았다.",
+				"sentenceSize": 60
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "하나銀 충청사업본부 차별 설움 풀었다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

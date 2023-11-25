@@ -1,0 +1,168 @@
+{
+	"sourceDataInfo": {
+		"newsID": "IS_M14_334572",
+		"newsCategory": "IT&과학",
+		"newsSubcategory": "보안",
+		"newsTitle": "시큐레터, 기술특례상장 기술평가 A·A...연내 상장예비심사 청구",
+		"newsSubTitle": "",
+		"newsContent": "시큐레터가 기술특례상장 전문평가기관 기술보증기금과 한국기업데이터의 기술평가에서 각각 'A'를 획득했다.\n기술특례로 상장하려면 거래소가 지정한 3개 평가기관 중 2개에 평가를 신청해 모두 BBB등급 이상, 적어도 한 곳에서 A등급 이상을 받아야 한다.\n시큐레터는 평가기관 2곳으로부터 모두 A를 받아 기술특례상장 첫 관문을 넘었다.\n시큐레터는 리버스 엔지니어링 기반 지능형지속공격(APT) 방어 기술을 보유했다.\n리버스 엔지니어링 기반 APT 방어 기술로 보안 서비스를 제공하는 기업은 시큐레터가 유일하다.\n악성코드는 약 75%가 이메일로 유입되고, 이 중 71%가 첨부문서 형태다.\n시큐레터는 이에 착안, 이메일 첨부문서가 시스템에 입력·처리·출력되기 이전 어셈블리 레벨에서 분석하는 기술을 개발했다.\n시그니처와 샌드박스로 차단하지 못하는 비실행 파일 악성코드를 분석·차단한다.\n악성코드가 유입되는 시점부터 전체 과정을 모니터링하고 탐지한다.\n악성 행위가 발생하지 않아도 악성코드와 취약점을 진단한다.\n샌드박스 기반 탐지는 통상 5분이 소요되지만, 시큐레터는 45초로 단축했다.\n시큐레터는 기술 독창성을 인정받아 앞서 사우디아라비아 정부 투자 기관 등으로부터 총 800만달러(99억원) 규모 시리즈B 투자를 유치한 바 있다.\n평기기관은 자체적으로 실행되지 않는 파일을 통해 유입되는 보안 위협을 자동화된 진단 알고리즘으로 신속하고 정확하게 탐지, 차단하는 시큐레터의 기술 독창성과 기술적 차별성, 제품 경쟁력이 우수하다고 평가했다.\n시큐레터는 이르면 8월 상장예비심사를 청구할 계획이다.\n임차성 시큐레터 대표는 “기술평가에서 기존에 없던 신기술로 시장성과 성장성을 보유하고 있다는 평가를 받았다”며 “정보보호산업 성장과 맞물려 발전 가능성을 인정받았다”고 설명했다.\n이어 “기술개발과 마케팅을 병행하며 기업 가치를 키워나가겠다”고 덧붙였다.",
+		"partNum": "P1",
+		"useType": 1,
+		"processType": "A",
+		"processPattern": "00",
+		"processLevel": "하",
+		"sentenceCount": 16,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "시큐레터가 기술특례상장 전문평가기관 기술보증기금과 한국기업데이터의 기술평가에서 각각 'A'를 획득했다.",
+				"sentenceSize": 57
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "기술특례로 상장하려면 거래소가 지정한 3개 평가기관 중 2개에 평가를 신청해 모두 BBB등급 이상, 적어도 한 곳에서 A등급 이상을 받아야 한다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "시큐레터는 평가기관 2곳으로부터 모두 A를 받아 기술특례상장 첫 관문을 넘었다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "시큐레터는 리버스 엔지니어링 기반 지능형지속공격(APT) 방어 기술을 보유했다.",
+				"sentenceSize": 44
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "리버스 엔지니어링 기반 APT 방어 기술로 보안 서비스를 제공하는 기업은 시큐레터가 유일하다.",
+				"sentenceSize": 52
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "악성코드는 약 75%가 이메일로 유입되고, 이 중 71%가 첨부문서 형태다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "시큐레터는 이에 착안, 이메일 첨부문서가 시스템에 입력·처리·출력되기 이전 어셈블리 레벨에서 분석하는 기술을 개발했다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 8,
+				"sentenceContent": "시그니처와 샌드박스로 차단하지 못하는 비실행 파일 악성코드를 분석·차단한다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 9,
+				"sentenceContent": "악성코드가 유입되는 시점부터 전체 과정을 모니터링하고 탐지한다.",
+				"sentenceSize": 35
+			},
+			{
+				"sentenceNo": 10,
+				"sentenceContent": "악성 행위가 발생하지 않아도 악성코드와 취약점을 진단한다.",
+				"sentenceSize": 32
+			},
+			{
+				"sentenceNo": 11,
+				"sentenceContent": "샌드박스 기반 탐지는 통상 5분이 소요되지만, 시큐레터는 45초로 단축했다.",
+				"sentenceSize": 42
+			},
+			{
+				"sentenceNo": 12,
+				"sentenceContent": "시큐레터는 기술 독창성을 인정받아 앞서 사우디아라비아 정부 투자 기관 등으로부터 총 800만달러(99억원) 규모 시리즈B 투자를 유치한 바 있다.",
+				"sentenceSize": 81
+			},
+			{
+				"sentenceNo": 13,
+				"sentenceContent": "평기기관은 자체적으로 실행되지 않는 파일을 통해 유입되는 보안 위협을 자동화된 진단 알고리즘으로 신속하고 정확하게 탐지, 차단하는 시큐레터의 기술 독창성과 기술적 차별성, 제품 경쟁력이 우수하다고 평가했다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 14,
+				"sentenceContent": "시큐레터는 이르면 8월 상장예비심사를 청구할 계획이다.",
+				"sentenceSize": 30
+			},
+			{
+				"sentenceNo": 15,
+				"sentenceContent": "임차성 시큐레터 대표는 “기술평가에서 기존에 없던 신기술로 시장성과 성장성을 보유하고 있다는 평가를 받았다”며 “정보보호산업 성장과 맞물려 발전 가능성을 인정받았다”고 설명했다.",
+				"sentenceSize": 99
+			},
+			{
+				"sentenceNo": 16,
+				"sentenceContent": "이어 “기술개발과 마케팅을 병행하며 기업 가치를 키워나가겠다”고 덧붙였다.",
+				"sentenceSize": 41
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "시큐레터, 기술특례상장 기술평가 A·A...연내 상장예비심사 청구",
+		"clickbaitClass": 1,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 8,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 9,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 10,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 11,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 12,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 13,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 14,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 15,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 16,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}

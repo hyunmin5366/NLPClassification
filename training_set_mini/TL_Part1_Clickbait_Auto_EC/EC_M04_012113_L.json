@@ -1,0 +1,87 @@
+{
+	"sourceDataInfo": {
+		"newsID": "EC_M04_012113",
+		"newsCategory": "경제",
+		"newsSubcategory": "대전정부청사",
+		"newsTitle": "대전, 충남지역 자금사정 다소 상승은 했지만…",
+		"newsSubTitle": "업체들 여전히 열악",
+		"newsContent": "대전, 충남지역 업체들의 자금사정이 여전히 열악한 것으로 나타났다.\n한국은행 대전충남본부의 ‘대전ㆍ충남지역 자금사정 조사’결과에 따르면 9월 자금사정 BSI는 제조업이 전월보다 3p상승한 92, 비제조업은 전월보다 3p하락한 81을 각각 기록하며 기준치인 100을 밑돌았다.\nBSI가 기준치인 100이상인 경우에는 긍정 응답업체수가 부정 응답업체수보다 많음을, 100이하면 그 반대를 나타났다.\n대전지역 자금사정 BSI는 제조업이 전월보다 1p상승한 90, 비제조업은 4p하락한 85를 기록했으며, 충남은 제조업이 3p상승한 92, 비제조업은 2p하락한 79를 기록했다.\n10월 자금사정 전망BSI는 제조업이 94, 비제조업은 88로 각각 전월보다 2p상승했다.\n대전의 자금사정 전망 BSI는 제조업이 91로 전월과 동일하며, 비제조업은 86으로 전월보다 3p하락했다.\n충남은 제조업이 94로 전월대비 2p, 비제조업은 89로 전월보다 6p씩 각각 상승했다.",
+		"partNum": "P1",
+		"useType": 0,
+		"processType": "A",
+		"processPattern": "99",
+		"processLevel": "하",
+		"sentenceCount": 7,
+		"sentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"sentenceContent": "대전, 충남지역 업체들의 자금사정이 여전히 열악한 것으로 나타났다.",
+				"sentenceSize": 37
+			},
+			{
+				"sentenceNo": 2,
+				"sentenceContent": "한국은행 대전충남본부의 ‘대전ㆍ충남지역 자금사정 조사’결과에 따르면 9월 자금사정 BSI는 제조업이 전월보다 3p상승한 92, 비제조업은 전월보다 3p하락한 81을 각각 기록하며 기준치인 100을 밑돌았다.",
+				"sentenceSize": 115
+			},
+			{
+				"sentenceNo": 3,
+				"sentenceContent": "BSI가 기준치인 100이상인 경우에는 긍정 응답업체수가 부정 응답업체수보다 많음을, 100이하면 그 반대를 나타났다.",
+				"sentenceSize": 66
+			},
+			{
+				"sentenceNo": 4,
+				"sentenceContent": "대전지역 자금사정 BSI는 제조업이 전월보다 1p상승한 90, 비제조업은 4p하락한 85를 기록했으며, 충남은 제조업이 3p상승한 92, 비제조업은 2p하락한 79를 기록했다.",
+				"sentenceSize": 98
+			},
+			{
+				"sentenceNo": 5,
+				"sentenceContent": "10월 자금사정 전망BSI는 제조업이 94, 비제조업은 88로 각각 전월보다 2p상승했다.",
+				"sentenceSize": 50
+			},
+			{
+				"sentenceNo": 6,
+				"sentenceContent": "대전의 자금사정 전망 BSI는 제조업이 91로 전월과 동일하며, 비제조업은 86으로 전월보다 3p하락했다.",
+				"sentenceSize": 59
+			},
+			{
+				"sentenceNo": 7,
+				"sentenceContent": "충남은 제조업이 94로 전월대비 2p, 비제조업은 89로 전월보다 6p씩 각각 상승했다.",
+				"sentenceSize": 49
+			}
+		]
+	},
+	"labeledDataInfo": {
+		"newTitle": "차세대 메모리 주도권 노리는 삼성전자, 레드햇과 손 잡았다",
+		"clickbaitClass": 0,
+		"referSentenceInfo": [
+			{
+				"sentenceNo": 1,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 2,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 3,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 4,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 5,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 6,
+				"referSentenceyn": "N"
+			},
+			{
+				"sentenceNo": 7,
+				"referSentenceyn": "N"
+			}
+		]
+	}
+}
